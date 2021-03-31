@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-DS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: de
-version: 2020-03-01
+version: 2021-04-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20200301/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20200301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20200301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2015-843-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20200301/de"
 
 (EDAV-DS)
 
-vom 18. November 2015 (Stand am 1. März 2020)
+vom 18. November 2015 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1685,11 +1685,12 @@ Das BLV sorgt für die Berichtigung unrichtiger Daten.
 
 #### Art. 102g
 
-**Informatiksicherheit**
+**Informatiksicherheit**[^102g-1]
 
-Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Bundesinformatikverordnung vom 9. Dezember 2011[^102g-1].
+Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020[^102g-2].
 
-[^102g-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^102g-1]: Fassung gemäss Anhang Ziff. 35 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^102g-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 102h
 
@@ -1865,7 +1866,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-4]
+...[^annexu1-lvlu1-4]
 
 [^annexu1-lvlu1-1]: [[AS 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269), [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)Anhang 6 Ziff. II 1 [4157](https://fedlex.data.admin.ch/eli/oc/2008/592)[5197](https://fedlex.data.admin.ch/eli/oc/2008/732), [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 6 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 7, [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334), [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 15, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 10 [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 3]
 [^annexu1-lvlu1-2]: [[AS 2007 2743](https://fedlex.data.admin.ch/eli/oc/2007/360), [2008 4167](https://fedlex.data.admin.ch/eli/oc/2008/593)[4867](https://fedlex.data.admin.ch/eli/oc/2008/679), [2012 2861](https://fedlex.data.admin.ch/eli/oc/2012/336)[6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Anhang 2 Ziff. 3, [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)Anhang 6 Ziff. II 3]

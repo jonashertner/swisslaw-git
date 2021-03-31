@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: it
-version: 2020-03-01
+version: 2021-04-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20200301/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20200301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20200301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2015-843-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20200301/it"
 
 (OITE-PT)
 
-del 18 novembre 2015 (Stato 1° marzo 2020) (Stato 1° marzo 2020)
+del 18 novembre 2015 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -473,7 +473,7 @@ Le seguenti partite di animali e prodotti animali devono essere notificate al ve
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
-### Sezione 6: Presentazione al controllo veterinario di confine, dichiarazione doganale, custodia doganale, deposito doganale e deposito franco doganale****
+### Sezione 6: Presentazione al controllo veterinario di confine, dichiarazione doganale, custodia doganale, deposito doganale e deposito franco doganale
 
 [^chap2-sec6-1]
 
@@ -1686,11 +1686,12 @@ L’USAV provvede alla rettifica di dati inesatti.
 
 #### Art. 102g
 
-**Sicurezza informatica**
+**Sicurezza informatica**[^102g-1]
 
-Le misure volte a garantire la sicurezza informatica sono disciplinate dall’ordinanza del 9 dicembre 2011[^102g-1] sull’informatica nell’Amministrazione federale.
+Le misure volte a garantire la sicurezza informatica sono disciplinate dall’ordinanza del 27 maggio 2020[^102g-2] sui ciber-rischi.
 
-[^102g-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^102g-1]: Nuovo testo giusta l’all. n. 35 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^102g-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 102h
 
@@ -1866,9 +1867,9 @@ II
 
 I seguenti atti normativi sono modificati come segue:
 
-....[^annexu1-lvlu1-4]
+...[^annexu1-lvlu1-4]
 
-[^annexu1-lvlu1-1]: [[RU 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269), [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 n. II 1 [4157](https://fedlex.data.admin.ch/eli/oc/2008/592)[5197](https://fedlex.data.admin.ch/eli/oc/2008/732), [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 6 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 7, [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334), [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 15, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 10 [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all n. 3]
+[^annexu1-lvlu1-1]: [[RU 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269), [2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 n. II 1 [4157](https://fedlex.data.admin.ch/eli/oc/2008/592)[5197](https://fedlex.data.admin.ch/eli/oc/2008/732), [2009 1567](https://fedlex.data.admin.ch/eli/oc/2009/227), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 6 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 7, [2012 2855](https://fedlex.data.admin.ch/eli/oc/2012/334), [2013 949](https://fedlex.data.admin.ch/eli/oc/2013/194)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 15, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 10 [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 3]
 [^annexu1-lvlu1-2]: [[RU 2007 2743](https://fedlex.data.admin.ch/eli/oc/2007/360), [2008 4167](https://fedlex.data.admin.ch/eli/oc/2008/593)[4867](https://fedlex.data.admin.ch/eli/oc/2008/679), [2012 2861](https://fedlex.data.admin.ch/eli/oc/2012/336)[6407](https://fedlex.data.admin.ch/eli/oc/2012/763)all. 2 n. 3, [2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)all. 6 n. II 3]
 [^annexu1-lvlu1-3]: [[RU 2008 4173](https://fedlex.data.admin.ch/eli/oc/2008/594)[4869](https://fedlex.data.admin.ch/eli/oc/2008/680), [2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 7, [2012 2863](https://fedlex.data.admin.ch/eli/oc/2012/337), [2015 1827](https://fedlex.data.admin.ch/eli/oc/2015/353)II]
 [^annexu1-lvlu1-4]: Le mod. possono essere consultate alla [RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843).

@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 réglant les échanges d'importation, de 
 short: OITE-PT
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/843"
 language: fr
-version: 2020-03-01
+version: 2021-04-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20200301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20200301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20200301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/843/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-843-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/843/20200301/fr"
 
 (OITE-PT)
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> mars 2020)
+du 18 novembre 2015 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -468,7 +468,7 @@ Pour les lots d’animaux et de produits animaux ci-après, la notification pré
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 15 janv. 2020, en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 411](https://fedlex.data.admin.ch/eli/oc/2020/70)).
 
-### Section 6 Présentation des lots au contrôle vétérinaire de frontière, déclaration en douane, garde de la douane, entrepôts douaniers et dépôts francs sous douane****
+### Section 6 Présentation des lots au contrôle vétérinaire de frontière, déclaration en douane, garde de la douane, entrepôts douaniers et dépôts francs sous douane
 
 [^chap2-sec6-1]
 
@@ -1627,7 +1627,7 @@ TRACES peut être couplé avec le système «e-dec» en vue de la vérification 
 
 <sup>2</sup> Il peut édicter des directives techniques relatives à TRACES.
 
-### Section 4**** Système d’information OITE
+### Section 4 Système d’information OITE
 
 [^chap7-sec4-1]
 
@@ -1692,11 +1692,12 @@ L’OSAV veille à la rectification des données erronées.
 
 #### Art. 102g
 
-**Sécurité informatique**
+**Sécurité informatique**[^102g-1]
 
-Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^102g-1].
+Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 27 mai 2020 sur les cyberrisques[^102g-2].
 
-[^102g-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^102g-1]: Nouvelle teneur selon l’annexe ch. 35 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^102g-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 102h
 
