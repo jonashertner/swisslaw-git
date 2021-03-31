@@ -1,22 +1,21 @@
 ---
 canton: SG
 number: "313.75"
-title: Bäderverordnung
+title: Naturbäderverordnung
 language: de
-version: 2011-06-21
-valid_until: 2021-03-31
-version_adopted: 2011-06-21
+version: 2021-04-01
+version_adopted: 2021-03-30
 adopted: 2000-11-21
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/313.75"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1001/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3150/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Bäderverordnung
+# Naturbäderverordnung
 
-vom 21.11.2000 (Stand 21.06.2011)
+vom 21.11.2000 (Stand 01.04.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -37,11 +36,11 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Diese Verordnung gilt für:
 
-- a) öffentliche Naturbäder, wie See-, Fluss- und Weiherbäder;
-- b) öffentliche Bäder mit künstlichen Becken, wie Freiluft- und Hallenbäder;
-- c) öffentliche Duschanlagen.
+- a) öffentlich zugängliche Naturbäder, wie See-, Fluss- und Weiherbäder;
+- b) …
+- c) …
 
-<sup>2</sup> Öffentlichen Bädern und öffentlichen Duschanlagen gleichgestellt sind entsprechende Anlagen in Sportanlagen, Schulen, Hotels, Campingplätzen, Heimen, Heilanstalten und ähnlichen Institutionen.
+<sup>2</sup> …
 
 ## II. Technische Anforderungen
 
@@ -49,35 +48,31 @@ als Verordnung:[^ingress-2]
 
 **Grundsatz**
 
-<sup>1</sup> Bäder werden so angelegt und betrieben, dass die Gesundheit der Badegäste nicht gefährdet ist.
+<sup>1</sup> Naturbäder sind so beschaffen, dass die Gesundheit der Badegäste nicht gefährdet ist.
 
 #### Art. 3
 
-**Technik und Hygiene**
-
-<sup>1</sup> Bäder werden räumlich so gestaltet und eingerichtet, dass sie hygienisch und technisch sicher betrieben werden können.
+**…**
 
 ## III. Betriebliche Anforderungen
 
 #### Art. 4
 
-**Badewasser und Raumluft**
-
-<sup>1</sup> Das Badewasser und die Raumluft erfüllen während der Öffnungszeiten des Bades die Anforderungen nach dem Anhang zu dieser Verordnung.
+**…**
 
 #### Art. 5
 
 **Verantwortliche Person a) Bezeichnung**
 
-<sup>1</sup> Der Betreiber des Bades bezeichnet eine für den Betrieb verantwortliche Person und je nach Bedarf einen oder mehrere Stellvertreter.
+<sup>1</sup> Der Betreiber eines bewirtschafteten Naturbades bezeichnet eine für den Betrieb verantwortliche Person und je nach Bedarf einen oder mehrere Stellvertreter und meldet diese der zuständigen Kontrollbehörde nach Art. 7 dieses Erlasses.
 
 #### Art. 6
 
 **b) Aufgaben**
 
-<sup>1</sup> Die verantwortliche Person ist zur Selbstkontrolle und zur Einhaltung der vorgeschriebenen Toleranzwerte verpflichtet.
+<sup>1</sup> Die verantwortliche Person arbeitet mit der zuständigen Kontrollbehörde nach Art. 7 zusammen.
 
-<sup>2</sup> Die Selbstkontrolle beinhaltet mikrobiologische, physikalische und chemische Untersuchungen des Badewassers sowie das Führen einer Dokumentation. Diese umfasst insbesondere Angaben über den Badebetrieb und dessen Organisation, eine Gefahrenanalyse, Weisungen für das Personal sowie das Protokollieren von Tätigkeiten und besonderen Ereignissen.
+<sup>2</sup> Die Zusammenarbeit beinhaltet insbesondere die Meldung von besonderen Vorfällen an die zuständige Kontrollbehörde.
 
 ## IV. Aufsicht
 
@@ -87,24 +82,25 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Amt für Verbraucherschutz und Veterinärwesen:
 
-- a) inspiziert Bäder;
-- b) entnimmt Proben für Laboruntersuchungen;
-- c) teilt die Ergebnisse der Inspektionen und Laboruntersuchungen der verantwortlichen Person, dem Betreiber des Bades und der zuständigen Gemeindebehörde mit;
+- a) kontrolliert Naturbäder;
+- b) entnimmt Proben für Laboruntersuchungen bei bewirtschafteten Naturbädern und nicht bewirtschafteten natürlichen Badeplätzen;
+- c) teilt die Ergebnisse der Kontrollen und Laboruntersuchungen der verantwortlichen Person und der zuständigen Gemeindebehörde mit;
 - d) verfügt Massnahmen und erstattet Strafanzeige.
 
-<sup>2</sup> Es kann Dritte zu Inspektionen und Probenahmen beiziehen.
+<sup>2</sup> Es kann Dritte zu Probenahmen beiziehen.
 
-<sup>3</sup> Es kann die Öffentlichkeit über die Wasserqualität informieren und den Betreiber zur Information der Gäste verpflichten.
+<sup>3</sup> Es informiert die Öffentlichkeit über die Einstufung der Wasserqualität nach Anhang A dieses Erlasses und kann den Betreiber oder die zuständige Gemeinde zur Information der Badenden verpflichten.
 
 #### Art. 8
 
 **Kosten**
 
-<sup>1</sup> Der Betreiber des Bades trägt die Kosten der Laboruntersuchungen. Bei Nachkontrollen wird der effektive Aufwand berechnet.
+<sup>1</sup> Der Betreiber des Naturbades trägt die Kosten der Laboruntersuchungen. Die Höhe der Kosten richtet sich nach [Art. 3](https://www.gesetzessammlung.sg.ch/data/315.11/de/art3) der Verordnung über die Lebensmittelkontrolle vom 29. Mai 1996[^8-1].
 
-<sup>2</sup> Die Kosten richten sich nach Art. 3 der Verordnung über die Lebensmittelkontrolle vom 29. Mai 1996.[^8-1]
+<sup>2</sup> Bei bewirtschafteten Naturbädern werden Beanstandungen, die sich aus Kontrollen ergeben, gemäss Kostenregelung nach [Art. 3](https://www.gesetzessammlung.sg.ch/data/315.11/de/art3) der Verordnung über die Lebensmittelkontrolle vom 29. Mai 1996[^8-2] gehandhabt.
 
 [^8-1]: sGS [315.11](https://www.gesetzessammlung.sg.ch/data/315.11/de).
+[^8-2]: sGS [315.11](https://www.gesetzessammlung.sg.ch/data/315.11/de).
 
 ## V. Schlussbestimmungen
 
