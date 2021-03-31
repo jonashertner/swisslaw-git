@@ -3,20 +3,19 @@ canton: BE
 number: "222.153.11"
 title: Verordnung über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen
 language: de
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-10-29
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/222.153.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/251/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen
 
-vom 29.10.2003 (Stand 01.01.2004)
+vom 29.10.2003 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -40,7 +39,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion führt das Verfahren durch.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion führt das Verfahren durch.
 
 <sup>2</sup> Sie setzt gemäss der Bundesgesetzgebung ein unabhängiges Kontrollorgan an Stelle der im Vertrag vorgesehenen Kontrollorgane ein.
 
