@@ -4,13 +4,12 @@ number: "752.413"
 title: Décret sur la régénération des eaux
 short: DRégén
 language: fr
-version: 2000-01-01
-valid_until: 2021-03-31
-version_adopted: 2000-01-01
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1999-09-14
 in_force: 1999-09-14
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/752.413"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/383/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2169/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/383/pdf_file"
 
 (DRégén)
 
-du 14.09.1999 (état au 01.01.2000)
+du 14.09.1999 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -80,7 +79,7 @@ arrête:
 
 **Tâches et attributions du service compétent**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique a notamment les tâches et attributions suivantes:
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement a notamment les tâches et attributions suivantes:
 
 - a gérer le financement spécial,
 - b traiter les demandes de subvention, en permettant assez tôt aux communes concernées et aux spécialistes de l'aménagement des eaux de donner leur avis,
@@ -106,7 +105,7 @@ arrête:
 
 **Conditions et charges**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique peut lier la promesse de subventions à des conditions et charges.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut lier la promesse de subventions à des conditions et charges.
 
 <sup>2</sup> Les subventions ne sont versées que lorsque les travaux sont exécutés par des entreprises avérées spécialisées.
 
@@ -128,7 +127,7 @@ arrête:
 
 **Ordre de priorité**
 
-<sup>1</sup> Si les demandes de subventions reçues ou à venir dépassent les fonds disponibles du financement spécial, le service compétent de la Direction de l'économie publique établit un ordre de priorité.
+<sup>1</sup> Si les demandes de subventions reçues ou à venir dépassent les fonds disponibles du financement spécial, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement établit un ordre de priorité.
 
 #### Art. 9
 

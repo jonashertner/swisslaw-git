@@ -4,13 +4,12 @@ number: "752.413"
 title: Renaturierungsdekret
 short: RenD
 language: de
-version: 2000-01-01
-valid_until: 2021-03-31
-version_adopted: 2000-01-01
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1999-09-14
 in_force: 1999-09-14
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/752.413"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/383/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2169/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/383/pdf_file"
 
 (RenD)
 
-vom 14.09.1999 (Stand 01.01.2000)
+vom 14.09.1999 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -78,7 +77,7 @@ beschliesst:
 
 **Aufgaben und Befugnisse der zuständigen Stelle**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion hat insbesondere folgende Aufgaben und Befugnisse:
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion hat insbesondere folgende Aufgaben und Befugnisse:
 
 - a Führen der Spezialfinanzierung,
 - b Behandeln der Beitragsgesuche, wobei sie die betroffenen Gemeinden und Wasserbaufachleute frühzeitig beizieht,
@@ -104,7 +103,7 @@ beschliesst:
 
 **Bedingungen und Auflagen**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann Bedingungen und Auflagen an die Zusicherung von Beiträgen knüpfen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann Bedingungen und Auflagen an die Zusicherung von Beiträgen knüpfen.
 
 <sup>2</sup> Die Beiträge sind nur auszurichten, wenn die Arbeiten von fachlich ausgewiesenen Unternehmen ausgeführt werden.
 
@@ -126,7 +125,7 @@ beschliesst:
 
 **Prioritätenordnung**
 
-<sup>1</sup> Übersteigen die eingereichten oder zu erwartenden Beitragsgesuche die verfügbaren Mittel der Spezialfinanzierung, erstellt die zuständige Stelle der Volkswirtschaftsdirektion eine Prioritätenordnung.
+<sup>1</sup> Übersteigen die eingereichten oder zu erwartenden Beitragsgesuche die verfügbaren Mittel der Spezialfinanzierung, erstellt die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion eine Prioritätenordnung.
 
 #### Art. 9
 
