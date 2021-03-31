@@ -4,13 +4,13 @@ number: "961.212"
 title: Sonderverordnung 2 zur Abfederung der wirtschaftlichen Auswirkungen der COVID-19-Pandemie
 short: SonderV 20-2
 language: de
-version: 2021-01-14
-valid_until: 2021-03-31
-version_adopted: 2021-01-20
+version: 2021-04-01
+valid_until: 2021-04-30
+version_adopted: 2021-03-24
 adopted: 2020-04-15
 in_force: 2020-04-20
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.212"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2954/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2969/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2954/pdf_file"
 
 (SonderV 20-2)
 
-Vom 15.04.2020 (Stand 14.01.2021)
+Vom 15.04.2020 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -88,11 +88,11 @@ beschliesst:
 
 #### § 7a
 
-**Härtefallmassnahmen gemäss Covid-19-Härtefallverordnung**
+**Härtefallmassnahmen für Unternehmen mit Umsatzeinbussen ab 25 %**
 
-<sup>1</sup> Der Kanton gewährt Unternehmen, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen, auf Gesuch hin rückzahlbare Darlehen, Bürgschaften oder Kreditausfallgarantien oder nicht rückzahlbare Beiträge, die den Anforderungen des 3. Abschnitts der Covid-19-Härtefallverordnung entsprechen.
+<sup>1</sup> Der Kanton gewährt Unternehmen, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen, auf Gesuch hin Kreditausfallgarantien oder nicht rückzahlbare Beiträge, die den Anforderungen des 3. Abschnitts der Covid-19-Härtefallverordnung entsprechen.
 
-<sup>1<sup>bis</sup></sup> In Abweichung zu Art. 5 Covid-19-Härtefallverordnung gewährt der Kanton Härtefallmassnahmen auch an Unternehmen, deren Jahresumsatz 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie nachweislich unter 75 % des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 liegt.
+<sup>1<sup>bis</sup></sup> In Abweichung zu Art. 5 Covid-19-Härtefallverordnung gewährt der Kanton Härtefallmassnahmen an Unternehmen, deren Umsatzeinbusse im Jahr 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 25 % oder mehr beträgt. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz der letzten 12 Monate verwenden. Die Höhe der Härtefallmassnahmen berechnet sich nach dem Liquiditätsbedarf des Unternehmens.
 
 <sup>1<sup>ter</sup></sup> Bei Umsätzen im Durchschnitt der Jahre 2018 und 2019 von Fr. 50'000.– bis Fr. 100'000.– werden ausschliesslich nicht rückzahlbare Beiträge in der Höhe von maximal 20 % des durchschnittlichen Jahresumsatzes 2018 und 2019 gewährt.
 
@@ -100,25 +100,27 @@ beschliesst:
 
 <sup>1<sup>quinquies</sup></sup> Bringen Eigentümer frisches Eigenkapital in das Unternehmen ein oder verzichten Fremdkapitalgeber auf ihre Forderungen, können nicht rückzahlbare Beiträge in der Höhe bis höchstens Fr. 1.5 Mio. ausgerichtet werden. Das zusätzliche Eigenkapital oder der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Beitrag entsprechen.
 
-<sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. März 2020 gegründet wurden und Sitz im Kanton Aargau haben.
+<sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben.
 
-<sup>3</sup> Gesuche sind bis spätestens 30. April 2021 über das elektronische Behördenportal einzureichen.
+<sup>3</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
+
+<sup>3<sup>bis</sup></sup> Bei Umsätzen im Durchschnitt der Jahre 2018 und 2019 bis Fr. 200'000.– können im vereinfachten Verfahren ohne Einzelfallprüfung nicht rückzahlbare Beiträge in der Höhe von 10 % des Umsatzes, maximal Fr. 20'000.–, ausgerichtet werden.
 
 <sup>4</sup> Für die Berechnung des Umsatzrückgangs gemäss Art. 5 Covid-19-Härtefallverordnung sind bereits geleistete Sofort- und Direktzahlungen des Kantons zu berücksichtigen.
 
 <sup>5</sup> Die Kreditausfallgarantien des Kantons zugunsten der Geschäftsbanken von aargauischen Unternehmen betragen 100 % des Kredits.
 
-<sup>6</sup> In den Darlehens-, Bürgschafts- und Garantieverträgen beziehungsweise Verfügungen über die nicht rückzahlbaren Beiträge werden geeignete Bedingungen und Auflagen zur Missbrauchsbekämpfung, namentlich Rückforderungsvorbehalte, Meldepflichten und Sicherheiten, festgelegt.
+<sup>6</sup> In den Garantieverträgen beziehungsweise Verfügungen über die nicht rückzahlbaren Beiträge werden geeignete Bedingungen und Auflagen zur Missbrauchsbekämpfung, namentlich Rückforderungsvorbehalte, Meldepflichten und Sicherheiten, festgelegt.
 
 #### § 7b
 
 **Härtefallmassnahmen bei behördlich angeordneten Betriebsschliessungen (Fixkostenbeiträge)**
 
-<sup>1</sup> Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie juristischen Personen mit Sitz im Kanton Aargau, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen, werden Fixkostenbeiträge in Form von nicht rückzahlbaren Beiträgen ausgerichtet, wenn der ganze Betrieb oder ein wesentlicher Betriebsteil vom 1. November 2020 bis 30. April 2021 während insgesamt mindestens 40 Tagen aufgrund einer behördlichen Anordnung schliessen muss. Ein wesentlicher Betriebsteil liegt vor, wenn der Umsatzanteil dieses Betriebsteils am Gesamtumsatz 2019 mindestens 25 % beträgt.
+<sup>1</sup> Unternehmen, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen, werden Fixkostenbeiträge in Form von nicht rückzahlbaren Beiträgen ausgerichtet, wenn der ganze Betrieb oder ein wesentlicher Betriebsteil vom 1. November 2020 bis 30. Juni 2021 während insgesamt mindestens 40 Tagen aufgrund einer behördlichen Anordnung schliessen muss. Ein wesentlicher Betriebsteil liegt vor, wenn der Umsatzanteil dieses Betriebsteils am Gesamtumsatz 2019 mindestens 25 % beträgt.
 
 <sup>2</sup> Die Mindestdauer der behördlich angeordneten Betriebsschliessung gilt nicht für Unternehmen, welche aufgrund der Allgemeinverfügung des Kantonsärztlichen Dienstes des Kantons Aargau vom 18. Dezember 2020 schliessen mussten.
 
-<sup>3</sup> Pro Unternehmen kann ein Gesuch für alle im Kanton betroffenen Betriebsteile eingereicht werden.
+<sup>3</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben. Pro Unternehmen kann ein Gesuch für alle betroffenen Betriebsteile eingereicht werden.
 
 <sup>4</sup> Die Fixkostenbeiträge werden für die Dauer der behördlich angeordneten Schliessung ausgerichtet. Der Beitrag pro Tag bemisst sich am branchenüblichen Fixkostenanteil am ausgewiesenen Gesamtaufwand 2019 und beträgt pro Monat maximal Fr. 50'000.-.
 
@@ -126,9 +128,53 @@ beschliesst:
 
 <sup>6</sup> Das Unternehmen muss gegenüber dem Kanton bestätigen, dass es beabsichtigt, nach der behördlich angeordneten Schliessung wieder zu öffnen. Der Kanton kann Fixkostenbeiträge zurückverlangen, wenn das Unternehmen nach der behördlich angeordneten Schliessung nicht weitergeführt wird.
 
-<sup>7</sup> Bereits bezogene Härtefallhilfen des Kantons Aargau werden bei der Bestimmung des Fixkostenbeitrags nicht angerechnet.
+<sup>7</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7a und 7d werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
 
-<sup>8</sup> Gesuche sind bis spätestens 30. April 2021 über das elektronische Behördenportal einzureichen.
+<sup>7<sup>bis</sup></sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7b erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss § 7d sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die jeweiligen Voraussetzungen erfüllen. Die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
+
+<sup>8</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
+
+#### § 7c
+
+**Härtefallmassnahmen für von geschlossenen Betrieben stark abhängige Unternehmen (Fixkostenbeiträge)**
+
+<sup>1</sup> Unternehmen, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen, werden Fixkostenbeiträge in Form von nicht rückzahlbaren Beiträgen ausgerichtet, wenn der Anteil am Gesamtumsatz 2019 durch direkte Lieferungen und Dienstleistungen an behördlich geschlossene Betriebe gemäss § 7b Abs. 1 mindestens 25 % beträgt.
+
+<sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben. Pro Unternehmen kann ein Gesuch für alle betroffenen Betriebsteile eingereicht werden.
+
+<sup>3</sup> Die Fixkostenbeiträge werden für die Dauer der behördlich angeordneten Schliessung der belieferten Betriebe und anteilmässig für jenen Anteil am Gesamtumsatz, der durch Lieferungen an solche Betriebe im Jahr 2019 erzielt wurde, ausgerichtet. Der Beitrag pro Tag bemisst sich am branchenüblichen Fixkostenanteil am ausgewiesenen Gesamtaufwand 2019 und beträgt höchstens 20 % des durchschnittlichen Jahresumsatzes 2018 und 2019, pro Monat maximal Fr. 50'000.–.
+
+<sup>4</sup> Das Unternehmen hat gegenüber dem Kanton zu belegen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war.
+
+<sup>5</sup> Das Unternehmen muss gegenüber dem Kanton bestätigen, dass es beabsichtigt, seinen Betrieb nach der behördlich angeordneten Schliessung der belieferten Betriebe weiterzuführen. Der Kanton kann Fixkostenbeiträge zurückverlangen, wenn das Unternehmen nach der behördlich angeordneten Schliessung der belieferten Betriebe nicht weitergeführt wird.
+
+<sup>6</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7a und 7d werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
+
+<sup>7</sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7c erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss § 7d sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die jeweiligen Voraussetzungen erfüllen. Die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
+
+<sup>8</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
+
+#### § 7d
+
+**Härtefallmassnahmen für Unternehmen mit Umsatzeinbussen ab 40 %**
+
+<sup>1</sup> Unternehmen, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen und deren Umsatzeinbusse im Jahr 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 40 % oder mehr beträgt, können auf Gesuch hin nicht rückzahlbare Beiträge ausgerichtet werden. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz der letzten 12 Monate verwenden.
+
+<sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben.
+
+<sup>3</sup> Die nicht rückzahlbaren Beiträge berechnen sich anhand eines branchenüblichen Fixkostenanteils am Gesamtumsatz 2019 zuzüglich Abschreibungen und anhand der Umsatzeinbusse im Jahr 2020 respektive der letzten 12 Monate gegenüber den Jahren 2018 und 2019. Im Zusammenhang mit besonderem Personalaufwand kann das Departement Volkswirtschaft und Inneres (DVI) den Fixkostenansatz erhöhen. Eine Abgeltung wird für die Monate November 2020 bis Juni 2021 gewährt.
+
+<sup>4</sup> Das Unternehmen hat gegenüber dem Kanton zu belegen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war.
+
+<sup>5</sup> Bringen Eigentümer frisches Eigenkapital in das Unternehmen ein oder verzichten Fremdkapitalgeber auf ihre Forderungen, können nicht rückzahlbare Beiträge in der Höhe bis höchstens Fr. 1.5 Mio. ausgerichtet werden. Das zusätzliche Eigenkapital oder der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Beitrag entsprechen.
+
+<sup>6</sup> Für die Berechnung des Umsatzrückgangs gemäss Art. 5 Covid-19-Härtefallverordnung sind bereits geleistete Sofort- und Direktzahlungen des Kantons zu berücksichtigen.
+
+<sup>7</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss §§ den 7a–7c werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
+
+<sup>8</sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7d erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss den §§ 7b und 7c sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die Voraussetzungen erfüllen.
+
+<sup>9</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
 
 ### 2.5 Vollzug
 
@@ -136,11 +182,11 @@ beschliesst:
 
 **Aufgabenübertragung an die Hightech Zentrum Aargau AG**
 
-<sup>1</sup> Der Vollzug der Leistungen für Härtefälle gemäss den §§ 7a und 7b ist der Hightech Zentrum Aargau AG mit Sitz in Brugg übertragen.
+<sup>1</sup> Der Vollzug der Leistungen für Härtefälle gemäss den §§ 7a–7d ist der Hightech Zentrum Aargau AG mit Sitz in Brugg übertragen.
 
 <sup>2</sup> Die Hightech Zentrum Aargau AG kann Dritte zur Unterstützung bei Beratung und Gesuchsbearbeitung beiziehen.
 
-<sup>3</sup> Die Hightech Zentrum Aargau AG stellt über die Gesuche betreffend Leistungen für Härtefälle gemäss den §§ 7a und 7b Antrag an das Departement Volkswirtschaft und Inneres (DVI).
+<sup>3</sup> Die Hightech Zentrum Aargau AG stellt über die Gesuche betreffend Leistungen für Härtefälle gemäss den §§ 7a–7d Antrag an das DVI.
 
 <sup>4</sup> Der Kanton übernimmt die Verwaltungskosten, die der Hightech Zentrum Aargau AG durch die Aufgabenerfüllung entstehen. Massgeblich ist der zwischen der Hightech Zentrum Aargau AG und dem Kanton geschlossene Vertrag.
 
@@ -152,7 +198,7 @@ beschliesst:
 
 <sup>2</sup> Die kreditgebende Geschäftsbank meldet der Abwicklungsgesellschaft vorgesehene Kreditauszahlungen. Stellt die Abwicklungsgesellschaft eine Mehrfacherfassung fest, informiert sie umgehend die Geschäftsbank, damit sie die Kredite nicht ausbezahlt.
 
-<sup>3</sup> Die Abwicklungsgesellschaft unterstützt die Hightech Zentrum Aargau AG bei der Beratung und Antragsstellung für Leistungen für Härtefälle gemäss den §§ 7a und 7b.
+<sup>3</sup> Die Abwicklungsgesellschaft unterstützt die Hightech Zentrum Aargau AG bei der Beratung und Antragsstellung für Leistungen für Härtefälle gemäss den §§ 7a–7d.
 
 <sup>4</sup> Die Abwicklungsgesellschaft berichtet dem DVI und dem Departement Finanzen und Ressourcen (DFR) gemeinsam halbjährlich über Anzahl und Höhe der unter der Kreditausfallgarantie gezogenen Kredite und über die von den Banken für diese Kredite gemachten Rückstellungen.
 
@@ -174,7 +220,7 @@ beschliesst:
 
 **Aufgaben der Departemente DVI und DFR**
 
-<sup>1</sup> Das DVI entscheidet über die Anträge der Hightech Zentrum Aargau AG betreffend Gesuche betreffend Leistungen für Härtefälle gemäss den §§ 7a und 7b. Es weist das DFR zur Zahlung zugunsten des unterstützten Unternehmens an.
+<sup>1</sup> Das DVI entscheidet über die Anträge der Hightech Zentrum Aargau AG betreffend Gesuche betreffend Leistungen für Härtefälle gemäss den §§ 7a–7d. Es weist das DFR zur Zahlung zugunsten des unterstützten Unternehmens an.
 
 <sup>2</sup> Bei ganz oder teilweise abgewiesenen Gesuchen gemäss Abs. 1 erlässt das DVI einen begründeten Entscheid mit Rechtsmittelbelehrung. Rechtsmittelinstanz ist der Regierungsrat.
 
