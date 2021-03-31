@@ -4,13 +4,12 @@ number: "871.11"
 title: "Loi sur la protection contre le feu et sur les sapeurs-pompiers *"
 short: LPFSP
 language: fr
-version: 2021-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-12-05
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1994-01-20
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/871.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2074/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2185/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2074/pdf_file"
 
 (LPFSP)
 
-du 20.01.1994 (état au 01.01.2021)
+du 20.01.1994 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -198,7 +197,7 @@ arrête:
 
 **Alarme et organisation d'intervention**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique conclut avec les organismes responsables des centres de renfort de sapeurs-pompiers les contrats de prestations nécessaires à l'intervention de collaborateurs et collaboratrices qualifiés au sein de la centrale cantonale d'alarme et d'engagement, au sens de l'article 66, alinéa 1 de la loi du 10 février 2019 sur la police (LPol)[^17a-1].
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement conclut avec les organismes responsables des centres de renfort de sapeurs-pompiers les contrats de prestations nécessaires à l'intervention de collaborateurs et collaboratrices qualifiés au sein de la centrale cantonale d'alarme et d'engagement, au sens de l'article 66, alinéa 1 de la loi du 10 février 2019 sur la police (LPol)[^17a-1].
 
 [^17a-1]: RSB [551.1](https://www.belex.sites.be.ch/data/551.1/fr)
 
@@ -210,9 +209,11 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif détermine dans quelle mesure le canton prend en charge les frais d'exploitation des centres d'intervention spéciaux. A cette occasion, il prend notamment en considération d'éventuelles contributions fédérales, le remboursement des coûts d'intervention, ainsi que les besoins des communes concernées.
 
-<sup>3</sup> Les dispositions de la loi sur l'utilisation des eaux sont réservées.
+<sup>3</sup> Les dispositions de la loi du 23 novembre 1997 sur l'utilisation des eaux (LUE)[^18-1] sont réservées.
 
-<sup>4</sup> Le service compétent de la Direction de l'économie publique perçoit auprès des collectivités publiques responsables des sapeurs-pompiers une contribution appropriée calculée en fonction de la population résidante en vue de l'indemnisation des frais visée à l'article 17a. Le Conseil-exécutif en fixe le montant par voie d'ordonnance, en tenant en particulier compte des avantages pour le canton et des contributions de tiers.
+<sup>4</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement perçoit auprès des collectivités publiques responsables des sapeurs-pompiers une contribution appropriée calculée en fonction de la population résidante en vue de l'indemnisation des frais visée à l'article 17a. Le Conseil-exécutif en fixe le montant par voie d'ordonnance, en tenant en particulier compte des avantages pour le canton et des contributions de tiers.
+
+[^18-1]: RSB [752.41](https://www.belex.sites.be.ch/data/752.41/fr)
 
 #### Art. 19
 
@@ -380,11 +381,11 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> L'Assurance immobilière veille à ce que la protection contre le feu soit garantie sur tout le territoire du canton.
+<sup>1</sup> L'Assurance immobilière Berne veille à ce que la protection contre le feu soit garantie sur tout le territoire du canton.
 
-<sup>2</sup> L'exécution de la protection contre le feu incombe à l'Assurance immobilière dans la mesure où le Conseil-exécutif ne charge pas les préfets et préfètes ou les communes de cette tâche.
+<sup>2</sup> L'exécution de la protection contre le feu incombe à l'Assurance immobilière Berne dans la mesure où le Conseil-exécutif ne charge pas les préfets et préfètes ou les communes de cette tâche.
 
-<sup>3</sup> L'Assurance immobilière peut confier l'exécution de certaines tâches à des communes ou à des organisations privées spécialisées.
+<sup>3</sup> L'Assurance immobilière Berne peut confier l'exécution de certaines tâches à des communes ou à des organisations privées spécialisées.
 
 #### Art. 36
 
@@ -398,7 +399,7 @@ arrête:
 
 <sup>1</sup> Les décisions rendues en vertu de l'article 7, 3<sup>e</sup> alinéa peuvent faire l'objet d'un recours
 
-- a auprès de la Direction de l'économie publique, si la décision a été rendue par l'Assurance immobilière, et
+- a auprès de la Direction de l’économie, de l’énergie et de l’environnement, si la décision a été rendue par l'Assurance immobilière Berne, et
 - b auprès du préfet ou de la préfète, si la décision a été rendue par la commune.
 
 <sup>2</sup> Au surplus, la procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^37-1].
@@ -435,14 +436,14 @@ arrête:
 
 #### Art. 41
 
-<sup>1</sup> L’Assurance immobilière est l'autorité concédante et l'autorité de surveillance des ramoneurs et ramoneuses.
+<sup>1</sup> L’Assurance immobilière Berne est l’autorité concédante et l'autorité de surveillance des ramoneurs et ramoneuses.
 
 <sup>2</sup> Elle peut
 
 - a donner un avertissement aux ramoneurs et ramoneuses ou restreindre leur concession en cas de violations réitérées de cette dernière;
 - b révoquer la concession en cas de violations graves.
 
-<sup>3</sup> Le Conseil-exécutif règle les tâches selon l’alinéa 1 ainsi que leur rétribution par voie d’ordonnance. La Direction de l’économie publique conclut avec l’Assurance immobilière une convention de prestations avec des objectifs correspondants.
+<sup>3</sup> Le Conseil-exécutif règle les tâches selon l’alinéa 1 ainsi que leur indemnisation par voie d’ordonnance. La Direction de l’économie, de l’énergie et de l’environnement conclut avec l’Assurance immobilière Berne une convention de prestations avec des objectifs correspondants.
 
 #### Art. 42
 
@@ -460,13 +461,13 @@ arrête:
 
 #### Art. 44
 
-**Tâches de l'Assurance immobilière**
+**Tâches de l'Assurance immobilière Berne**
 
-<sup>1</sup> L'Assurance immobilière exerce la surveillance indirecte des corps des sapeurs-pompiers.
+<sup>1</sup> L'Assurance immobilière Berne exerce la surveillance indirecte des corps des sapeurs-pompiers.
 
 <sup>2</sup> Elle pourvoit à l'instruction des sapeurs-pompiers, notamment de leurs cadres.
 
-<sup>3</sup> Le Conseil-exécutif confie à l’Assurance immobilière par voie d’ordonnance les tâches cantonales concernant la lutte contre les dégâts dus aux hydrocarbures, aux gaz, aux produits chimiques et aux radiations, la lutte contre les agents biologiques ainsi que les interventions en cas d’accidents de la route, sur des installations ferroviaires, sur des bateaux ou dans des tunnels.
+<sup>3</sup> Le Conseil-exécutif confie à l’Assurance immobilière Berne par voie d’ordonnance les tâches cantonales concernant la lutte contre les dégâts dus aux hydrocarbures, aux gaz, aux produits chimiques et aux radiations, la lutte contre les agents biologiques ainsi que les interventions en cas d’accidents de la route, sur des installations ferroviaires, sur des bateaux ou dans des tunnels.
 
 <sup>4</sup> Il peut lui conférer d'autres tâches par voie d'ordonnance dans les domaines spécialisés des sapeurs-pompiers. Les détails sont réglés par une convention de prestations.
 
@@ -478,7 +479,7 @@ arrête:
 
 <sup>2</sup> Les décisions de la commune concernant le service obligatoire dans le corps des sapeurs-pompiers, la taxe d'exemption, le remboursement des frais d'intervention et la contribution aux installations d'extinction peuvent faire l'objet d'un recours auprès du préfet ou de la préfète.
 
-<sup>3</sup> Les décisions que l'Assurance immobilière rend dans le cadre des tâches qui lui ont été conférées en vertu de l'article 44, alinéas 3 et 4, sont susceptibles de recours auprès de la Direction compétente à raison de la matière.
+<sup>3</sup> Les décisions que l'Assurance immobilière Berne rend dans le cadre des tâches qui lui ont été conférées en vertu de l'article 44, alinéas 3 et 4, sont susceptibles de recours auprès de la Direction compétente à raison de la matière.
 
 <sup>4</sup> Au surplus, la procédure est régie par les dispositions de la loi sur la procédure et la juridiction administratives[^45-1].
 

@@ -4,13 +4,12 @@ number: "871.11"
 title: Feuerschutz- und Feuerwehrgesetz
 short: FFG
 language: de
-version: 2021-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-12-05
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1994-01-20
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/871.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2074/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2185/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2074/pdf_file"
 
 (FFG)
 
-vom 20.01.1994 (Stand 01.01.2021)
+vom 20.01.1994 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -198,7 +197,7 @@ beschliesst:
 
 **Alarmierung und Einsatzdisposition**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion schliesst mit den Trägerinnen und Trägern geeigneter Feuerwehren die Leistungsverträge ab, die für den Einsatz von fachlich qualifizierten Mitarbeiterinnen und Mitarbeitern in der kantonalen Alarm- und Einsatzzentrale gemäss Artikel 66 Absatz 1 des Polizeigesetzes vom 10. Februar 2019 (PolG)[^17a-1] erforderlich sind.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion schliesst mit den Trägerinnen und Trägern geeigneter Feuerwehren die Leistungsverträge ab, die für den Einsatz von fachlich qualifizierten Mitarbeiterinnen und Mitarbeitern in der kantonalen Alarm- und Einsatzzentrale gemäss Artikel 66 Absatz 1 des Polizeigesetzes vom 10. Februar 2019 (PolG)[^17a-1] erforderlich sind.
 
 [^17a-1]: BSG [551.1](https://www.belex.sites.be.ch/data/551.1/de)
 
@@ -210,9 +209,11 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt fest, inwieweit der Kanton Betriebskosten der Sonderstützpunkte übernimmt. Dabei hat er namentlich allfällige Bundesbeiträge, die Rückerstattung von Einsatzkosten sowie die Bedürfnisse der betroffenen Gemeinden zu berücksichtigen.
 
-<sup>3</sup> Die Bestimmungen des Gesetzes über die Nutzung des Wassers bleiben vorbehalten.
+<sup>3</sup> Die Bestimmungen des Wassernutzungsgesetzes vom 23. November 1997 (WNG)[^18-1] bleiben vorbehalten.
 
-<sup>4</sup> Die zuständige Stelle der Volkswirtschaftsdirektion erhebt von den für die Feuerwehren zuständigen Gemeinwesen einen nach der Wohnbevölkerung berechneten, angemessenen Beitrag für die Abgeltung der Kosten nach Artikel 17a. Der Regierungsrat legt die Höhe des Beitrags durch Verordnung fest und berücksichtigt dabei insbesondere auch die Vorteile für den Kanton und Beiträge Dritter.
+<sup>4</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion erhebt von den für die Feuerwehren zuständigen Gemeinwesen einen nach der Wohnbevölkerung berechneten, angemessenen Beitrag für die Abgeltung der Kosten nach Artikel 17a. Der Regierungsrat legt die Höhe des Beitrags durch Verordnung fest und berücksichtigt dabei insbesondere auch die Vorteile für den Kanton und Beiträge Dritter.
+
+[^18-1]: BSG [752.41](https://www.belex.sites.be.ch/data/752.41/de)
 
 #### Art. 19
 
@@ -378,11 +379,11 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Gebäudeversicherung sorgt dafür, dass der Feuerschutz im gesamten Kantonsgebiet sichergestellt ist.
+<sup>1</sup> Die Gebäudeversicherung Bern sorgt dafür, dass der Feuerschutz im gesamten Kantonsgebiet sichergestellt ist.
 
-<sup>2</sup> Der Vollzug des Feuerschutzes obliegt der Gebäudeversicherung, soweit der Regierungsrat damit nicht die Regierungsstatthalterinnen und Regierungsstatthalter oder die Gemeinden betraut.
+<sup>2</sup> Der Vollzug des Feuerschutzes obliegt der Gebäudeversicherung Bern, soweit der Regierungsrat damit nicht die Regierungsstatthalterinnen und Regierungsstatthalter oder die Gemeinden betraut.
 
-<sup>3</sup> Die Gebäudeversicherung kann die Durchführung bestimmter Aufgaben einzelnen Gemeinden oder geeigneten privaten Fachorganisationen übertragen.
+<sup>3</sup> Die Gebäudeversicherung Bern kann die Durchführung bestimmter Aufgaben einzelnen Gemeinden oder geeigneten privaten Fachorganisationen übertragen.
 
 #### Art. 36
 
@@ -396,10 +397,10 @@ beschliesst:
 
 <sup>1</sup> Verfügungen gestützt auf Artikel 7 Absatz 3 können mit Beschwerde angefochten werden
 
-- a bei der Volkswirtschaftsdirektion, wenn die Gebäudeversicherung verfügt hat, und
+- a bei der Wirtschafts-, Energie- und Umweltdirektion, wenn die Gebäudeversicherung Bern verfügt hat, und
 - b bei der Regierungsstatthalterin oder dem Regierungsstatthalter, wenn die Gemeinde verfügt hat.
 
-<sup>2</sup> Im übrigen richtet sich das Verfahren nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^37-1]).
+<sup>2</sup> Im Übrigen richtet sich das Verfahren nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^37-1].
 
 [^37-1]: BSG 155.21
 
@@ -433,14 +434,14 @@ beschliesst:
 
 #### Art. 41
 
-<sup>1</sup> Konzessions- und Aufsichtsbehörde für die Kaminfegerinnen und Kaminfeger ist die Gebäudeversicherung.
+<sup>1</sup> Konzessions- und Aufsichtsbehörde für Kaminfegerinnen und Kaminfeger ist die Gebäudeversicherung Bern.
 
 <sup>2</sup> Sie kann
 
-- a bei wiederholten Konzessionsverletzungen die Kaminfegerin oder den Kaminfeger verwarnen oder die Konzession einschränken,
+- a bei wiederholten Konzessionsverletzungen die Kaminfegerin und den Kaminfeger verwarnen oder die Konzession einschränken,
 - b bei groben Konzessionsverletzungen die Konzession widerrufen.
 
-<sup>3</sup> Der Regierungsrat regelt die Aufgaben nach Absatz 1 sowie deren Abgeltung durch Verordnung. Die Volkswirtschaftsdirektion schliesst mit der Gebäudeversicherung eine Leistungsvereinbarung mit entsprechenden Zielvorgaben ab.
+<sup>3</sup> Der Regierungsrat regelt die Aufgaben nach Absatz 1 sowie deren Abgeltung durch Verordnung. Die Wirtschafts-, Energie- und Umweltdirektion schliesst mit der Gebäudeversicherung Bern eine Leistungsvereinbarung mit entsprechenden Zielvorgaben ab.
 
 #### Art. 42
 
@@ -458,13 +459,13 @@ beschliesst:
 
 #### Art. 44
 
-**Aufgaben der Gebäudeversicherung**
+**Aufgaben der Gebäudeversicherung Bern**
 
-<sup>1</sup> Die Gebäudeversicherung übt die mittelbare Aufsicht über die Feuerwehren aus.
+<sup>1</sup> Die Gebäudeversicherung Bern übt die mittelbare Aufsicht über die Feuerwehren aus.
 
 <sup>2</sup> Sie sorgt für die Ausbildung der Feuerwehren, insbesondere ihrer Kader.
 
-<sup>3</sup> Der Regierungsrat überträgt der Gebäudeversicherung durch Verordnung die kantonalen Aufgaben betreffend die Öl-, Gas-, Chemie- und Strahlenwehr sowie betreffend die Bekämpfung biologischer Wirkstoffe und die Einsätze bei Unfällen auf Strassen, Bahnanlagen, Schiffen und in Tunneln.
+<sup>3</sup> Der Regierungsrat überträgt der Gebäudeversicherung Bern durch Verordnung die kantonalen Aufgaben betreffend die Öl-, Gas-, Chemie- und Strahlenwehr sowie betreffend die Bekämpfung biologischer Wirkstoffe und die Einsätze bei Unfällen auf Strassen, Bahnanlagen, Schiffen und in Tunneln.
 
 <sup>4</sup> Er kann ihr durch Verordnung weitere Aufgaben im Fachbereich der Feuerwehr übertragen. Die Einzelheiten sind mittels Leistungsvereinbarung zu regeln.
 
@@ -476,7 +477,7 @@ beschliesst:
 
 <sup>2</sup> Verfügungen der Gemeinde betreffend Feuerwehrdienstpflicht, Pflichtersatzabgabe, Einforderung von Einsatzkosten und Löschbeitrag unterliegen der Beschwerde an die Regierungsstatthalterin oder den Regierungsstatthalter.
 
-<sup>3</sup> Verfügungen, welche die Gebäudeversicherung im Rahmen von Aufgaben erlässt, die ihr gestützt auf Artikel 44 Absätze 3 und 4 übertragen worden sind, unterliegen der Beschwerde an die sachlich zuständige Direktion.
+<sup>3</sup> Verfügungen, welche die Gebäudeversicherung Bern im Rahmen von Aufgaben erlässt, die ihr gestützt auf Artikel 44 Absätze 3 und 4 übertragen worden sind, unterliegen der Beschwerde an die sachlich zuständige Direktion.
 
 <sup>4</sup> Im übrigen richtet sich das Verfahren nach den Vorschriften des VRPG.
 
