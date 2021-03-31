@@ -3,11 +3,10 @@ canton: ZH
 number: "414.410"
 title: Hochschulordnung der Pädagogischen Hochschule Zürich
 language: de
-version: "2020-07-01"
-nachtrag: "109"
-valid_until: 2021-04-01
+version: "2021-04-01"
+nachtrag: "112"
 adopted: 2017-11-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_410-2017_11_22-2018_01_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_410-2017_11_22-2018_01_01-112.html"
 text: pdf
 ---
 
@@ -80,7 +79,7 @@ Die PHZH nimmt ihre soziale Verantwortung wahr und setzt sich für ökologische 
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 <sup>2</sup> Die Definition der Leistungsbereiche richtet sich nach den Vorgaben von swissuniversities, insbesondere jenen der Kammer der Pädagogischen Hochschulen.
 
@@ -184,7 +183,7 @@ Die Zulassung zu qualifizierenden Weiterbildungsveranstaltungen erfordert in der
 
 **3**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 ### 4. Abschnitt: Forschung und Entwicklung
 
@@ -286,7 +285,7 @@ Als Studentin oder Student gilt, wer an der PHZH immatrikuliert ist.
 
 **5**
 
-- 1\. 7. 20 - 109 § 29. <sup>1</sup> Die rechtliche Stellung der Studierenden richtet sich nach der Fachhochschulverordnung.
+- 1\. 4. 21 - 112 § 29. <sup>1</sup> Die rechtliche Stellung der Studierenden richtet sich nach der Fachhochschulverordnung.
 
 **Rechtsstellung**
 
@@ -310,7 +309,7 @@ Als Studentin oder Student gilt, wer an der PHZH immatrikuliert ist.
 
 <sup>2</sup> Das Mitwirkungsorgan der PHZH ist die Hochschulversammlung.
 
-[^30-1]: Fassung gemäss B vom 18. Dezember 2019 (OS 75, 273; ABl 2020-03-27). In Kraft seit 1. Juli 2020. 1. 7. 20 - 109 11
+[^30-1]: Fassung gemäss B vom 18. Dezember 2019 (OS 75, 273; ABl 2020-03-27). In Kraft seit 1. Juli 2020.
 
 #### § 32
 
@@ -384,7 +383,7 @@ Die Hochschulleitung erlässt eine Hausordnung, die einen geordneten, für alle 
 
 **7**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 <sup>2</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor leitet die Verwaltungsdirektion und schafft im Rahmen der Vorgaben der Hochschulleitung und übergeordneter Instanzen die für die Leistungserbringung notwendigen verbindlichen Regelungen.
 
@@ -398,9 +397,11 @@ Die Hochschulleitung erlässt eine Hausordnung, die einen geordneten, für alle 
 
 <sup>3</sup> Bereiche sind Organisationseinheiten der dritten Ebene, die einer Abteilung des Prorektorats Ausbildung zugeordnet sind. Sie leisten fächer- und themenspezifische Beiträge für die Studiengänge und verantworten die Leistungen in ihrem Bereich.
 
-<sup>4</sup> Zentren sind Organisationseinheiten der dritten Ebene, die dem Prorektorat Forschung und Entwicklung oder einer Abteilung des Prorektorats Weiterbildung und Dienstleistungen zugeordnet sind. Sie bearbeiten Schwerpunkte ihres Leistungsbereichs und verantworten die damit zusammenhängenden Projekte.
+<sup>4</sup> Zentren sind Organisationseinheiten der dritten Ebene, die einer Abteilung des Prorektorats Forschung und Entwicklung oder des Prorektorats Weiterbildung und Dienstleistungen zugeordnet sind. Sie bearbeiten Schwerpunkte ihres Leistungsbereichs und verantworten die damit zusammenhängenden Projekte.[^40-1]
 
 <sup>5</sup> Teams sind Organisationseinheiten der dritten Ebene, die andere Organisationseinheiten bei der Leistungserbringung unterstützen. Sie erfüllen Steuerungsaufgaben und erbringen und verantworten interne Dienstleistungen.
+
+[^40-1]: Fassung gemäss B vom 30. September 2020 (OS 76, 66; ABl 2020-12-24). In Kraft seit 1. April 2021. 1. 4. 21 - 112 11
 
 ### 2. Abschnitt: Organe und Gremien
 
@@ -476,11 +477,11 @@ In das Leitungsforum nehmen Einsitz:
 
 **9**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 ### IV. Hochschulversammlung
 
-[^hIVHochschulversamm-1]: Fassung gemäss B vom 18. Dezember 2019 (OS 75, 273; ABl 2020-03-27). In Kraft seit 1. Juli 2020. 1. 7. 20 - 109 11
+[^hIVHochschulversamm-1]: Fassung gemäss B vom 18. Dezember 2019 (OS 75, 273; ABl 2020-03-27). In Kraft seit 1. Juli 2020.
 
 #### § 47
 
