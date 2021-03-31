@@ -1,29 +1,29 @@
 ---
 canton: BE
 number: "767.1"
-title: Gesetz über die Schiffahrt und die Besteuerung der Schiffe
-short: Schiffahrtsgesetz
+title: Gesetz über die Schifffahrt und die Besteuerung der Schiffe
+short: Schifffahrtsgesetz
 language: de
-version: 2005-07-01
-valid_until: 2021-03-31
-version_adopted: 2004-09-16
+version: 2021-04-01
+valid_until: 2024-07-31
+version_adopted: 2021-02-24
 adopted: 1990-02-19
 in_force: 1991-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/767.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/367/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2237/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Schiffahrt und die Besteuerung der Schiffe
+# Gesetz über die Schifffahrt und die Besteuerung der Schiffe
 
-(Schiffahrtsgesetz)
+(Schifffahrtsgesetz)
 
-vom 19.02.1990 (Stand 01.07.2005)
+vom 19.02.1990 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
-gestützt auf Artikel 92 der Staatsverfassung vom 4. Juni 1893[^ingress-1], das Bundesgesetz vom 3. Oktober 1975 über die Binnenschiffahrt[^ingress-2] sowie das Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz[^ingress-3],
+gestützt auf Artikel 92 der Staatsverfassung vom 4. Juni 1893[^ingress-1], das Bundesgesetz vom 3. Oktober 1975 über die Binnenschifffahrt[^ingress-2] sowie das Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz[^ingress-3],
 
 auf Antrag des Regierungsrates,
 
@@ -42,23 +42,23 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz regelt
 
 - a die Benützung der Gewässer durch Schiffe,
-- b die Inanspruchnahme der Gewässer durch Einrichtungen für die Schiffahrt und den Wassersport,
+- b die Inanspruchnahme der Gewässer durch Einrichtungen für die Schifffahrt und den Wassersport,
 - c die Besteuerung der Schiffe.
 
-## 2 Ausübung der Schiffahrt
+## 2 Ausübung der Schifffahrt
 
 #### Art. 2
 
-**Ausübung der Schiffahrt**
+**Ausübung der Schifffahrt**
 
-<sup>1</sup> Die Schiffahrt auf öffentlichen Gewässern ist frei.
+<sup>1</sup> Die Schifffahrt auf öffentlichen Gewässern ist frei.
 
 <sup>2</sup> Soweit das öffentliche Interesse oder der Schutz wichtiger Rechtsgüter es erfordern, kann der Grosse Rat durch Dekret im Rahmen des Bundesrechtes
 
-- a die Schiffahrt auf bestimmten bernischen Gewässern einschränken,
+- a die Schifffahrt auf bestimmten bernischen Gewässern einschränken,
 - b die Zahl der auf einem Gewässer zugelassenen Schiffe begrenzen.
 
-<sup>3</sup> Die Schiffahrtsbehörde kann im Rahmen des Bundesrechtes für bestimmte Gewässerabschnitte Verkehrsbeschränkungen und Anordnungen erlassen, soweit der Schutz der Betroffenen vor Lärm und Luftverschmutzung, die Sicherheit, die Erleichterung oder die Regelung des Verkehrs, der Schutz der Ufer, der Pflanzen- und Tierwelt oder der Gewässer dies erfordern.
+<sup>3</sup> Die Schifffahrtsbehörde kann im Rahmen des Bundesrechtes für bestimmte Gewässerabschnitte Verkehrsbeschränkungen und Anordnungen erlassen, soweit der Schutz der Betroffenen vor Lärm und Luftverschmutzung, die Sicherheit, die Erleichterung oder die Regelung des Verkehrs, der Schutz der Ufer, der Pflanzen- und Tierwelt oder der Gewässer dies erfordern.
 
 <sup>4</sup> Für Massnahmen auf interkantonalen Gewässern schliesst der Regierungsrat Vereinbarungen mit anderen Kantonen ab.
 
@@ -66,11 +66,11 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Schiffahrtsbehörde ist das Strassenverkehrs- und Schiffahrtsamt. Es ist, soweit nicht ausdrücklich anders geregelt, zuständig für den Vollzug aller eidgenössischen und kantonalen Vorschriften über die Binnenschiffahrt.
+<sup>1</sup> Schifffahrtsbehörde ist das Strassenverkehrs- und Schifffahrtsamt. Es ist, soweit nicht ausdrücklich anders geregelt, zuständig für den Vollzug aller eidgenössischen und kantonalen Vorschriften über die Binnenschifffahrt.
 
 <sup>2</sup> Die Kantonspolizei sorgt für die öffentliche Sicherheit, Ruhe und Ordnung auf den Gewässern.
 
-<sup>3</sup> Die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion ist zuständig für die Erteilung der Bewilligungen für gesteigerten Gemeingebrauch und Sondernutzung. Die betroffenen Gemeinden sowie Fachorganisationen sind anzuhören.
+<sup>3</sup> Die zuständige Stelle der Bau- und Verkehrsdirektion ist zuständig für die Erteilung der Bewilligungen für gesteigerten Gemeingebrauch und Sondernutzung. Die betroffenen Gemeinden sowie Fachorganisationen sind anzuhören.
 
 #### Art. 4
 
@@ -90,9 +90,9 @@ beschliesst:
 
 #### Art. 6
 
-**Stilliegen**
+**Stillliegen**
 
-<sup>1</sup> Für das dauernde Stilliegen eines Schiffes in öffentlichen Gewässern darf nur ein von der zuständigen Behörde bewilligter Schiffsliegeplatz benützt werden.
+<sup>1</sup> Für das dauernde Stillliegen eines Schiffes in öffentlichen Gewässern darf nur ein von der zuständigen Behörde bewilligter Schiffsliegeplatz benützt werden.
 
 #### Art. 7
 
@@ -114,7 +114,7 @@ beschliesst:
 
 **Gesteigerter Gemeingebrauch, Sondernutzung**
 
-<sup>1</sup> Für jede über den Gemeingebrauch hinausgehende Inanspruchnahme von öffentlichen Gewässern durch Einrichtungen für die Schiffahrt und den Wassersport ist eine Bewilligung erforderlich.
+<sup>1</sup> Für jede über den Gemeingebrauch hinausgehende Inanspruchnahme von öffentlichen Gewässern durch Einrichtungen für die Schifffahrt und den Wassersport ist eine Bewilligung erforderlich.
 
 <sup>2</sup> Eine solche Bewilligung ist auch dann erforderlich, wenn der unter dem beanspruchten Gewässerteil liegende Grund und Boden im Eigentum von Gemeinden oder Privaten steht.
 
@@ -130,7 +130,7 @@ beschliesst:
 
 **Verantwortlichkeit**
 
-<sup>1</sup> Die Verantwortlichkeiten für Schäden am Gewässer und seinen Ufern, die aus der Benützung des Gewässers durch die Schiffahrt und den Wassersport entstehen, richten sich nach den Vorschriften über den Gewässerschutz.
+<sup>1</sup> Die Verantwortlichkeiten für Schäden am Gewässer und seinen Ufern, die aus der Benützung des Gewässers durch die Schifffahrt und den Wassersport entstehen, richten sich nach den Vorschriften über den Gewässerschutz.
 
 #### Art. 10
 
@@ -138,10 +138,10 @@ beschliesst:
 
 <sup>1</sup> Eine Verankerungsbewilligung ist erforderlich für die Erstellung und Erweiterung
 
-- a von Anlagen für die Schiffahrt und
+- a von Anlagen für die Schifffahrt und
 - b von Anlagen auf dem Wasser für die Ausübung des Bade- und Wassersports.
 
-<sup>2</sup> Die Verankerungsbewilligung wird durch die Schiffahrtsbehörde als schiffahrtspolizeiliche Zusatzbewilligung zur Baubewilligung erteilt.
+<sup>2</sup> Die Verankerungsbewilligung wird durch die Schifffahrtsbehörde als schifffahrtspolizeiliche Zusatzbewilligung zur Baubewilligung erteilt.
 
 #### Art. 11
 
@@ -154,7 +154,7 @@ beschliesst:
 <sup>3</sup> Er berücksichtigt dabei
 
 - a den Wohnsitz der Bewerberin oder des Bewerbers,
-- b deren Beziehung zur Schiffahrt und
+- b deren Beziehung zur Schifffahrt und
 - c das Verfügen der Bewerberin oder des Bewerbers über einen Schiffsliegeplatz.
 
 #### Art. 12
@@ -167,19 +167,19 @@ beschliesst:
 
 **Fähren**
 
-<sup>1</sup> Der Betrieb von Fähren bedarf einer Bewilligung der kantonalen Schiffahrtsbehörde, soweit er nicht unter das Personenbeförderungsregal des Bundes fällt.
+<sup>1</sup> Der Betrieb von Fähren bedarf einer Bewilligung der kantonalen Schifffahrtsbehörde, soweit er nicht unter das Personenbeförderungsregal des Bundes fällt.
 
 #### Art. 14
 
 **Vermietung**
 
-<sup>1</sup> Die gewerbsmässige Vermietung von Schiffen an Dritte bedarf der Bewilligung der kantonalen Schiffahrtsbehörde.
+<sup>1</sup> Die gewerbsmässige Vermietung von Schiffen an Dritte bedarf der Bewilligung der kantonalen Schifffahrtsbehörde.
 
 #### Art. 15
 
 **Vorteilsausgleich**
 
-<sup>1</sup> Wer aus einer Verkehrsanordnung einen besonderen Vorteil zieht, trägt die Kosten der Bekanntmachung sowie der Beschaffung, des Anbringens und des Unterhaltes der Schiffahrtszeichen. In begründeten Fällen kann die Schiffahrtsbehörde einen Teil der Kosten erlassen.
+<sup>1</sup> Wer aus einer Verkehrsanordnung einen besonderen Vorteil zieht, trägt die Kosten der Bekanntmachung sowie der Beschaffung, des Anbringens und des Unterhaltes der Schifffahrtszeichen. In begründeten Fällen kann die Schifffahrtsbehörde einen Teil der Kosten erlassen.
 
 ## 3 Rettungsdienst auf dem Wasser
 
@@ -241,29 +241,29 @@ beschliesst:
 
 **Steuerperiode**
 
-<sup>1</sup> Steuerperiode ist das Kalenderjahr. Die Steuer ist im voraus, pauschal für die gesamte Schiffahrtssaison des entsprechenden Kalenderjahres, zu entrichten.
+<sup>1</sup> Steuerperiode ist das Kalenderjahr. Die Steuer ist im voraus, pauschal für die gesamte Schifffahrtssaison des entsprechenden Kalenderjahres, zu entrichten.
 
 <sup>2</sup> Die Hälfte der Steuer wird geschuldet, wenn die Inverkehrsetzung nach dem 31. Juli oder die Ausserverkehrsetzung vor dem 1. August erfolgt.
 
-## 5 Beiträge im Interesse der Durchführung von Aufgaben im Zusammenhang mit der Schiffahrt
+## 5 Beiträge im Interesse der Durchführung von Aufgaben im Zusammenhang mit der Schifffahrt
 
 #### Art. 23
 
 **Interkantonale Vereinigungen**
 
-<sup>1</sup> An Vereinigungen, die sich für die interkantonale Zusammenarbeit unter den Behörden in der Schiffahrt einsetzen, können Beiträge ausgerichtet werden.
+<sup>1</sup> An Vereinigungen, die sich für die interkantonale Zusammenarbeit unter den Behörden in der Schifffahrt einsetzen, können Beiträge ausgerichtet werden.
 
 #### Art. 24
 
 **Anlagen**
 
-<sup>1</sup> Für die Errichtung von öffentlichen Anlagen, die der Ein- und Auswasserung von Schiffen oder der Sicherheit und dem Umweltschutz in der Schiffahrt dienen, können Beiträge ausgerichtet werden.
+<sup>1</sup> Für die Errichtung von öffentlichen Anlagen, die der Ein- und Auswasserung von Schiffen oder der Sicherheit und dem Umweltschutz in der Schifffahrt dienen, können Beiträge ausgerichtet werden.
 
 <sup>2</sup> Die Beitragszahlungen dürfen jährlich gesamthaft 500 000 Franken nicht übersteigen.
 
-<sup>3</sup> Die Beitragszahlungen sind vor ihrer Ausrichtung mit den Zielen und allfälligen Zahlungen nach dem Gesetz vom 6. Juni 1982 über See- und Flussufer[^24-1] zu koordinieren.
+<sup>3</sup> Die Beitragszahlungen sind vor ihrer Ausrichtung mit den Zielen und allfälligen Zahlungen nach dem Gesetz vom 6. Juni 1982 über See- und Flussufer (See- und Flussufergesetz, SFG)[^24-1] zu koordinieren.
 
-[^24-1]: BSG 704.1
+[^24-1]: BSG [704.1](https://www.belex.sites.be.ch/data/704.1/de)
 
 #### Art. 25
 
@@ -271,7 +271,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt das Verfahren zur Prüfung der Projekte und zur Ausrichtung der Beiträge fest und beschliesst unter Vorbehalt der Finanzkompetenz des Grossen Rates endgültig.
 
-<sup>2</sup> Die Polizei- und Militärdirektion berücksichtigt die Beiträge im Rahmen ihres Voranschlages.
+<sup>2</sup> Die Sicherheitsdirektion berücksichtigt die Beiträge im Rahmen ihres Voranschlages.
 
 <sup>3</sup> Es besteht kein Anspruch auf Ausrichtung von Beiträgen.
 
@@ -281,13 +281,13 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Verfügungen, die gestützt auf dieses Gesetz erlassen werden, kann bei der Polizei- und Militärdirektion Beschwerde erhoben werden.
+<sup>1</sup> Gegen Verfügungen, die gestützt auf dieses Gesetz erlassen werden, kann bei der Sicherheitsdirektion Beschwerde erhoben werden.
 
-<sup>2</sup> Gegen Verfügungen, die gestützt auf Artikel 8 dieses Gesetzes erlassen werden, kann bei der Bau-, Verkehrs- und Energiedirektion Beschwerde erhoben werden.
+<sup>2</sup> Gegen Verfügungen, die gestützt auf Artikel 8 erlassen werden, kann bei der Bau- und Verkehrsdirektion Beschwerde erhoben werden.
 
-<sup>3</sup> Im übrigen richtet sich das Verfahren nach dem Gesetz über die Verwaltungsrechtspflege[^26-1].
+<sup>3</sup> Im übrigen richtet sich das Verfahren nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^26-1].
 
-[^26-1]: BSG 155.21
+[^26-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 ## 7 Schlussbestimmungen
 

@@ -1,16 +1,16 @@
 ---
 canton: BE
 number: "767.1"
-title: "Loi sur la navigation et l'imposition des bateaux"
+title: "Loi sur la navigation et l'imposition des bateaux *"
 short: Loi sur la navigation
 language: fr
-version: 2005-07-01
-valid_until: 2021-03-31
-version_adopted: 2004-09-16
+version: 2021-04-01
+valid_until: 2024-07-31
+version_adopted: 2021-02-24
 adopted: 1990-02-19
 in_force: 1991-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/767.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/367/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2237/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/367/pdf_file"
 
 (Loi sur la navigation)
 
-du 19.02.1990 (état au 01.07.2005)
+du 19.02.1990 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -70,7 +70,7 @@ arrête:
 
 <sup>2</sup> La police cantonale veille à la sécurité publique, au calme et à l'ordre sur les voies d'eau.
 
-<sup>3</sup> L'octroi des autorisations pour l'usage accru et l'usage particulier relève de la compétence du service compétent de la Direction des travaux publics, des transports et de l'énergie. Les communes touchées ainsi que les groupements spécialisés doivent être entendus.
+<sup>3</sup> L'octroi des autorisations pour l'usage accru et l'usage particulier relève de la compétence du service compétent de la Direction des travaux publics et des transports. Les communes touchées ainsi que les groupements spécialisés doivent être entendus.
 
 #### Art. 4
 
@@ -261,9 +261,9 @@ arrête:
 
 <sup>2</sup> Les subventions annuelles ne dépasseront pas au total le montant de 500 000 francs.
 
-<sup>3</sup> Avant de verser les subventions, il convient d'examiner si l'attribution des subventions respecte les buts fixés par la loi du 6 juin 1982 sur les rives des lacs et des rivières[^24-1] et si d'autres versements n'ont pas déjà été effectués sur la base de la loi précitée.
+<sup>3</sup> Avant de verser les subventions, il convient d'examiner si l'attribution des subventions respecte les buts fixés par la loi du 6 juin 1982 sur les rives des lacs et des rivières (LRLR)[^24-1] et si d'autres versements n'ont pas déjà été effectués sur la base de la loi précitée.
 
-[^24-1]: RSB 704.1
+[^24-1]: RSB [704.1](https://www.belex.sites.be.ch/data/704.1/fr)
 
 #### Art. 25
 
@@ -271,7 +271,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif fixe la procédure à suivre pour l'examen des projets et le versement des subventions; il statue souverainement, sous réserve de la compétence financière du Grand Conseil.
 
-<sup>2</sup> La Direction de la police et des affaires militaires tient compte des subventions dans le cadre de son budget.
+<sup>2</sup> La Direction de la sécurité tient compte des subventions dans le cadre de son budget.
 
 <sup>3</sup> Nul ne peut se prévaloir d'un droit à une subvention.
 
@@ -281,13 +281,13 @@ arrête:
 
 **Recours**
 
-<sup>1</sup> Il peut être formé recours auprès de la Direction de la police et des affaires militaires contre les décisions rendues en vertu de la présente loi.
+<sup>1</sup> Il peut être formé recours auprès de la Direction de la sécurité contre les décisions rendues en vertu de la présente loi.
 
-<sup>2</sup> Il peut être formé recours auprès de la Direction des travaux publics, des transports et de l'énergie contre les décisions rendues en vertu de l'article 8 de la présente loi.
+<sup>2</sup> Il peut être formé recours auprès de la Direction des travaux publics et des transports contre les décisions rendues en vertu de l'article 8.
 
-<sup>3</sup> Au surplus, la procédure est régie par la loi sur la procédure et la juridiction administratives[^26-1].
+<sup>3</sup> Au surplus, la procédure est régie par la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^26-1].
 
-[^26-1]: RSB 155.21
+[^26-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 ## 7 Dispositions finales
 
