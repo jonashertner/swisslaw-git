@@ -1,53 +1,52 @@
 ---
 canton: BE
 number: "669.721"
-title: "Ordonnance sur l'imputation forfaitaire d'impôt"
-short: OIF
+title: "Ordonnance sur l'imputation d'impôts étrangers prélevés à la source *"
+short: OIIS
 language: fr
-version: 2001-01-01
-valid_until: 2021-03-31
-version_adopted: 2000-10-18
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 2000-10-18
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/669.721"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/552/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2216/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur l'imputation forfaitaire d'impôt
+# Ordonnance sur l'imputation d'impôts étrangers prélevés à la source
 
-(OIF)
+(OIIS)
 
-du 18.10.2000 (état au 01.01.2001)
+du 18.10.2000 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l'article 15 de l'ordonnance fédérale du 22 août 1967 relative à l'imputation forfaitaire d'impôt[^ingress-1],
+vu les articles 15 et 20 de l'ordonnance fédérale du 22 août 1967 relative à l’imputation d’impôts étrangers prélevés à la source[^ingress-1],
 
 sur proposition de la Direction des finances,
 
 arrête:
 
-[^ingress-1]: RS 672.201
+[^ingress-1]: RS [672.201](https://db.clex.ch/link/Bund/672.201/fr)
 
 #### Art. 1
 
 **Compétence**
 
-<sup>1</sup> L'exécution de l'imputation forfaitaire d'impôt incombe à l'Intendance cantonale des impôts.
+<sup>1</sup> L'exécution de l'imputation d'impôts étrangers prélevés à la source incombe à l'Intendance cantonale des impôts.
 
 #### Art. 2
 
 **Demande d'imputation**
 
-<sup>1</sup> La demande d'imputation forfaitaire d'impôt doit être établie sur un formulaire spécial (feuille complémentaire d'imputation forfaitaire d'impôt) à déposer auprès de l'Intendance cantonale des impôts accompagné des justificatifs ad hoc.
+<sup>1</sup> La demande d'imputation d'impôts étrangers prélevés à la source doit être établie sur un formulaire spécial (feuille complémentaire de demande d'imputation d'impôts étrangers retenus à la source) à déposer auprès de l'Intendance cantonale des impôts, accompagné des justificatifs ad hoc.
 
 #### Art. 3
 
 **Remboursement et compensation**
 
-<sup>1</sup> Le montant de l'imputation forfaitaire d'impôt est remboursé à la personne ayant droit.
+<sup>1</sup> Le montant de l'imputation d'impôts étrangers prélevés à la source est remboursé à la personne ayant droit.
 
 <sup>2</sup> Le cas échéant, il peut être compensé avec les arriérés d'impôts cantonal et communal.
 
@@ -55,9 +54,15 @@ arrête:
 
 **Décompte entre le canton et les communes**
 
-<sup>1</sup> S'il subsiste un montant forfaitaire d'impôt à imputer après mise à la charge de la Confédération selon l'article 20 de l'ordonnance fédérale relative à l'imputation forfaitaire d'impôt[^4-1], il est mis à la charge du canton et de la commune de domicile du requérant ou de la requérante, proportionnellement à leurs quotités d'impôt.
+<sup>1</sup> Le montant des impôts étrangers prélevés à la source et imputables devant être réparti entre le canton et les communes conformément à l'article 20, alinéa 1, lettre a (personnes physiques) de l'ordonnance fédérale relative à l'imputation d'impôts étrangers prélevés à la source[^4-1] est mis à la charge du canton et de la commune de domicile du requérant ou de la requérante, proportionnellement à leurs quotités d'impôt.
 
-[^4-1]: RS 672.201
+<sup>2</sup> Le montant des impôts étrangers prélevés à la source et imputables devant être réparti entre le canton et les communes conformément à l'article 20, alinéa 1, lettre b (personnes morales) de l'ordonnance fédérale relative à l'imputation d'impôts étrangers prélevés à la source est mis à la charge du canton, de la commune du siège et de la paroisse de la personne morale demandant l'imputation, proportionnellement à leurs quotités d'impôt.
+
+<sup>3</sup> Le montant des impôts étrangers prélevés à la source et imputables devant être retranché de la part cantonale à l'impôt fédéral direct (art. 196 de la loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct [LIFD][^4-2]) conformément à l'article 20, alinéa 2 de l'ordonnance fédérale relative à l'imputation d'impôts étrangers prélevés à la source est mis à la charge du canton, des communes et des paroisses, proportionnellement à leur participation respective à la part cantonale à l'impôt fédéral direct (art. 2a de la loi du 21 mai 2000 sur les impôts [LI][^4-3]).
+
+[^4-1]: RS [672.201](https://db.clex.ch/link/Bund/672.201/fr)
+[^4-2]: RS [642.11](https://db.clex.ch/link/Bund/642.11/fr)
+[^4-3]: RSB [661.11](https://www.belex.sites.be.ch/data/661.11/fr)
 
 #### Art. 5
 
