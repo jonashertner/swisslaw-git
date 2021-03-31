@@ -4,13 +4,13 @@ number: "761.111"
 title: Ordonnance cantonale sur la circulation routière
 short: OCCR
 language: fr
-version: 2016-07-01
-valid_until: 2021-03-31
-version_adopted: 2016-03-16
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2004-10-20
 in_force: 2005-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/761.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1070/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2235/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,17 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1070/pdf_file"
 
 (OCCR)
 
-du 20.10.2004 (état au 01.07.2016)
+du 20.10.2004 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 2, alinéa 2, 10, alinéa 3, 11, alinéa 5 et 19 de la loi cantonaledu 27 mars 2006 sur la circulation routière (LCCR)[^ingress-1],
+vu les articles 2, alinéa 2, 10, alinéa 3, 11, alinéa 5 et 19 de la loi cantonale du 27 mars 2006 sur la circulation routière (LCCR)[^ingress-1],
 
 sur proposition de la Direction de la police et des affaires militaires,
 
 arrête:
 
-[^ingress-1]: RSB 761.11
+[^ingress-1]: RSB [761.11](https://www.belex.sites.be.ch/data/761.11/fr)
 
 ## 1 Dispositions générales
 
@@ -55,7 +55,7 @@ arrête:
 
 <sup>2</sup> L’autorité compétente en matière de circulation routière peut émettre des instructions et des directives concernant la mise en œuvre de la présente ordonnance.
 
-<sup>3</sup> Les prestations fournies par l’autorité compétente en matière de circulation routière relèvent de la convention de prestations conclue avec la Direction de la police et des affaires militaires. L’organisation repose sur les normes qu’implique un système de gestion certifié.
+<sup>3</sup> Les prestations fournies par l’autorité compétente en matière de circulation routière relèvent de la convention de prestations conclue avec la Direction de la sécurité. L’organisation repose sur les normes qu’implique un système de gestion certifié.
 
 #### Art. 4
 
@@ -67,7 +67,7 @@ arrête:
 
 **Surveillance**
 
-<sup>1</sup> La Direction de la police et des affaires militaires exerce la surveillance sur l’exécution du droit de la circulation routière dans le cadre de la présente ordonnance.
+<sup>1</sup> La Direction de la sécurité exerce la surveillance sur l’exécution du droit de la circulation routière dans le cadre de la présente ordonnance.
 
 ## 2 Compétences de la police
 

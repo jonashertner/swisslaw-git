@@ -4,13 +4,13 @@ number: "761.111"
 title: Strassenverkehrsverordnung
 short: StrVV
 language: de
-version: 2016-07-01
-valid_until: 2021-03-31
-version_adopted: 2016-03-16
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2004-10-20
 in_force: 2005-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/761.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1070/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2235/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1070/pdf_file"
 
 (StrVV)
 
-vom 20.10.2004 (Stand 01.07.2016)
+vom 20.10.2004 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 2 Absatz 2, Artikel 10 Absatz 3, Artikel 11 Absatz 5 und Artikel 19 des Kantonalen Strassenverkehrsgesetzes vom 27. März 2006 (KSVG[^ingress-1]),
+gestützt auf Artikel 2 Absatz 2, Artikel 10 Absatz 3, Artikel 11 Absatz 5 und Artikel 19 des Kantonalen Strassenverkehrsgesetzes vom 27. März 2006 (KSVG)[^ingress-1],
 
 auf Antrag der Polizei- und Militärdirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 761.11
+[^ingress-1]: BSG [761.11](https://www.belex.sites.be.ch/data/761.11/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -55,7 +55,7 @@ beschliesst:
 
 <sup>2</sup> Die Strassenverkehrsbehörde kann Weisungen und Richtlinien über die Durchführung der vorliegenden Verordnung erlassen.
 
-<sup>3</sup> Die Dienstleistungserbringung der Strassenverkehrsbehörde richtet sich nach der Leistungsvereinbarung mit der Polizei- und Militärdirektion. Die Organisation unterliegt den Standards eines anerkannten und zertifizierten Qualitätsmanagementsystems.
+<sup>3</sup> Die Dienstleistungserbringung der Strassenverkehrsbehörde richtet sich nach der Leistungsvereinbarung mit der Sicherheitsdirektion. Die Organisation unterliegt den Standards eines anerkannten und zertifizierten Qualitätsmanagementsystems.
 
 #### Art. 4
 
@@ -67,7 +67,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Polizei- und Militärdirektion führt die Aufsicht über den Vollzug des Strassenverkehrsrechts im Rahmen dieser Verordnung.
+<sup>1</sup> Die Sicherheitsdirektion führt die Aufsicht über den Vollzug des Strassenverkehrsrechts im Rahmen dieser Verordnung.
 
 ## 2 Befugnisse der Polizei
 
