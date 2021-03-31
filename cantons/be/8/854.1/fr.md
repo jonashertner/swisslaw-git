@@ -3,20 +3,19 @@ canton: BE
 number: "854.1"
 title: "Loi concernant l'amélioration de l'offre de logements"
 language: fr
-version: 2012-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-06-16
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1978-02-07
 in_force: 1978-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/854.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/230/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2181/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Loi concernant l'amélioration de l'offre de logements
 
-du 07.02.1978 (état au 01.01.2012)
+du 07.02.1978 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -54,7 +53,7 @@ arrête:
 
 <sup>2</sup> Le montant des engagements pour les diverses mesures prises par voie de décret doit être limité par année ou pour le temps que dure la mesure.
 
-<sup>3</sup> Le service compétent de la Direction de l'économie publique veille par un contrôle continu des crédits que la limite fixée par la loi ne soit pas dépassée.
+<sup>3</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement veille par un contrôle continu des crédits que la limite fixée par la loi ne soit pas dépassée.
 
 #### Art. 7
 
