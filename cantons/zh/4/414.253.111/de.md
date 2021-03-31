@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.111"
 title: Studienordnung für die Bachelorstudiengänge Architektur und Bauingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2013-09-01"
-nachtrag: "82"
-valid_until: 2021-04-01
+nachtrag: "112"
+valid_until: 2023-01-01
 adopted: 2020-09-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_111-2009_12_17-2010_04_01-082.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_111-2020_09_24-2021_04_01-112.html"
 text: pdf
 ---
 
@@ -15,16 +14,17 @@ text: pdf
 
 # Studienordnung für die Bachelorstudiengänge Architektur und Bauingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften
 
-(vom 17. Dezember 2009)[^t-1]
+(vom 24. September 2020)[^t-1],[^t-2]
 
 Die Hochschulleitung,
 
-gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom 29. Januar 2008[^t-2],
+gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom 29. Januar 2008[^t-3],
 
 beschliesst:
 
-[^t-1]: OS 65, 123. Vom Fachhochschulrat genehmigt am 2. Februar 2010.
-[^t-2]: LS 414.252.3.
+[^t-1]: OS 76, 1; Begründung siehe ABl 2020-11-20. Vom Fachhochschulrat genehmigt am 3. November 2020.
+[^t-2]: Inkrafttreten: 1. April 2021.
+[^t-3]: LS 414.252.3.
 
 ### A. Allgemeine Bestimmungen
 
@@ -40,7 +40,7 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 
 **Anhang**
 
-Einzelheiten zu den Studiengängen, insbesondere zu den zu belegenden Modulen, den Modulen mit einer zeitlich abgesetzten Prüfung, den Modultypen, Modulkategorien und Modulgruppen, werden in einem Anhang geregelt.
+Einzelheiten zu den Studiengängen, insbesondere zu den zu belegenden Modulen, den Modultypen, Modulkategorien und Modulgruppen, werden in einem Anhang geregelt.
 
 #### § 3
 
@@ -54,39 +54,31 @@ Die ZHAW bietet am Departement Architektur, Gestaltung und Bauingenieurwesen die
 
 <sup>1</sup> Die Bachelorstudiengänge Architektur und Bauingenieurwesen können als Vollzeit- oder Teilzeitstudium geführt werden.
 
-<sup>2</sup> Die Studienleitung entscheidet im Rahmen des Teilzeitstudiums über die Anrechnung von Ausbildungsleistungen aus der praktischen Berufstätigkeit gestützt auf § 17 RPO[^4-1].
+<sup>2</sup> Die Studienleitung entscheidet im Rahmen des Teilzeitstudiums über die Anrechnung von Ausbildungsleistungen aus der praktischen Berufstätigkeit gestützt auf § 17 RPO.
 
 <sup>3</sup> Einzelheiten zu den Studienformen sowie der Wechsel zwischen den Studienformen werden im Anhang geregelt.
 
-[^4-1]: LS 414.252.3.
-
 #### § 5
 
-**Anrechnung von Credits**
+**Anrechnung von ECTS-Credits**
 
-An der ZHAW oder andernorts erworbene Credits werden grundsätzlich während zehn Jahren ab dem Semester ihres Erwerbs angerechnet.
+<sup>1</sup> An der ZHAW oder andernorts erworbene ECTS-Credits werden während zehn Jahren ab dem Semester ihres Erwerbs angerechnet.
+
+<sup>2</sup> Die Studienleitung entscheidet über Ausnahmen.
 
 **1**
 
-- 1\. 10. 13 - 82 § 6. Die Belegung von Wahlpflicht- und Wahlmodulen kann mengenmässig beschränkt werden.
-
-#### § 7
-
-**Beschränkung der Belegung vonWahlpflicht- und Wahlmodulen**
-
-**Anmeldefristen**
-
-Die Anmeldefristen für Module werden semesterweise durch die Studienleitung festgelegt.
+- 1\. 4. 21 - 112
 
 ### B. Zulassung zum Studium
 
-#### § 8
+#### § 6
 
 **Einschlägige Berufe**
 
 Die einschlägigen beruflichen Grundausbildungen, die eine Zulassung ohne weitere praktische Arbeitswelterfahrung (Praktikum) erlauben, sind im Anhang aufgeführt.
 
-#### § 9
+#### § 7
 
 **Arbeitswelterfahrung, Praktikum**
 
@@ -94,55 +86,39 @@ Die einschlägigen beruflichen Grundausbildungen, die eine Zulassung ohne weiter
 
 <sup>2</sup> Die Anrechnung von Leistungen aus nicht einschlägigen beruflichen Grundausbildungen wird im Anhang geregelt.
 
-<sup>3</sup> Über die Dauer des Praktikums entscheidet die Studienleitung.
+<sup>3</sup> Die Studienleitung entscheidet aufgrund der noch fehlenden berufspraktischen und berufstheoretischen Kenntnisse über den Umfang des erforderlichen Praktikums.
 
-[^9-1]: Fassung gemäss B vom 21. März 2013 (OS 68, 272; ABl 2013-04-26). In Kraft seit 1. September 2013.
+### C. Aufbau des Studiums
+
+#### § 8
+
+**Aufbau und Bestehen Studiengang Bauingenieurwesen**
+
+<sup>1</sup> Der Bachelorstudiengang Bauingenieurwesen ist in eine Assessmentstufe und ein Hauptstudium gegliedert.
+
+<sup>2</sup> Die Assessmentstufe ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen der Assessmentstufe bestanden sind,
+
+- b. 60 ECTS-Credits erreicht sind.
+
+<sup>3</sup> Nicht bestandene Module der Assessmentstufe können nur nach Nichtbestehen des gesamten Assessments wiederholt werden.
+
+<sup>4</sup> Das Hauptstudium ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen des Hauptstudiums bestanden sind,
+
+- b. 120 ECTS-Credits erreicht sind.
+
+#### § 9
+
+**Aufbau und Bestehen Studiengang Architektur**
+
+<sup>1</sup> Im Bachelorstudiengang Architektur ist das Studium nicht in Assessmentstufe und Hauptstudium gegliedert.
+
+<sup>2</sup> Das Studium ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen bestanden sind,
+
+- b. 180 ECTS-Credits erreicht sind.
+
+### D. Leistungsnachweise
 
 #### § 10
-
-**Aufnahmeprüfung**
-
-<sup>1</sup> Nicht prüfungsfrei zugelassene Studienanwärterinnen und Studienanwärter müssen eine Aufnahmeprüfung ablegen. Die Aufnahmeprüfung steht nur Studienanwärterinnen und Studienanwärtern offen, welche die Studienberechtigung nicht über die Ausbildungswege der Berufsmaturität, Fachmaturität oder gymnasialen Maturität erwerben können.[^9-1]
-
-<sup>2</sup> Die Einzelheiten zur Aufnahmeprüfung werden im Anhang geregelt.
-
-<sup>3</sup> Über die Anerkennung von anderen Aufnahmeprüfungen entscheidet die Studienleitung.
-
-### C. Assessmentstufe
-
-#### § 11
-
-**Umfang und Abschluss**
-
-<sup>1</sup> Die Assessmentstufe umfasst 60 Credits.
-
-<sup>2</sup> Das Assessment ist bestanden, wenn die auf der Assessmentstufe verlangten Module bestanden sind.
-
-#### § 12
-
-**Wiederholung des Assessments**
-
-Nicht bestandene Module der Assessmentstufe können nur nach Nichtbestehen des gesamten Assessments wiederholt werden.
-
-### D. Hauptstudium
-
-#### § 13
-
-**Abschluss**
-
-Das Hauptstudium ist bestanden, wenn die für das Hauptstudium verlangten Module bestanden sind.
-
-### E. Leistungsnachweise
-
-#### § 14
-
-**Zeitlich abgesetzte Prüfungen**
-
-<sup>1</sup> Das Assessment wird mit zeitlich abgesetzten Prüfungen abgeschlossen.
-
-<sup>2</sup> Die abgesetzte Prüfung ist Bestandteil des Moduls und muss im gleichen Semester abgelegt werden.
-
-#### § 15
 
 **Expertinnen und Experten**
 
@@ -150,19 +126,17 @@ Das Hauptstudium ist bestanden, wenn die für das Hauptstudium verlangten Module
 
 <sup>2</sup> Als Expertinnen und Experten können externe Fachpersonen oder Dozierende der ZHAW beigezogen werden.
 
-<sup>3</sup> Die Expertinnen und Experten führen Protokoll. Die Benotung erfolgt einvernehmlich mit den prüfenden Dozierenden.
+<sup>3</sup> Die Benotung erfolgt einvernehmlich mit den prüfenden Dozierenden.
 
 <sup>4</sup> Kommt keine Einigung zustande, steht der Stichentscheid den prüfenden Dozierenden zu.
 
-#### § 16
+#### § 11
 
 **Wiederholung von Modulen**
 
-<sup>1</sup> Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen.
+Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen.
 
-<sup>2</sup> Schriftliche Leistungsnachweise können nicht mündlich wiederholt werden.
-
-#### § 17
+#### § 12
 
 **Nachprüfungen**
 
@@ -170,7 +144,7 @@ Das Hauptstudium ist bestanden, wenn die für das Hauptstudium verlangten Module
 
 <sup>2</sup> Nachprüfungen sind vor Beginn des nachfolgenden Studienjahres abzulegen.
 
-#### § 18
+#### § 13
 
 **Nachbesserungen**
 
@@ -178,37 +152,49 @@ Das Hauptstudium ist bestanden, wenn die für das Hauptstudium verlangten Module
 
 <sup>2</sup> Die Nachbesserung muss im gleichen Semester abgeschlossen werden.
 
-#### § 19
+#### § 14
 
 **Bachelorarbeit**
 
-Die Zulassung zur Bachelorarbeit wird für jeden Studiengang im Anhang geregelt.
+Mit der Bachelorarbeit kann im letzten Regelstudiensemester begonnen werden. Details für die Zulassung zur Bachelorarbeit werden für jeden Studiengang im Anhang geregelt.
 
-**3**
+### E. Studienabschluss und Bachelordiplom
 
-- 1\. 10. 13 - 82
-
-### F. Studienabschluss und Bachelordiplom
-
-#### § 20
+#### § 15
 
 **Bestehensvoraussetzungen**
 
-Das Bachelordiplom wird erteilt, wenn a. das Assessment und das Hauptstudium bestanden sind,
+Das Bachelordiplom wird erteilt, wenn a. das Assessment und das Hauptstudium bzw. das Studium bestanden sind,
 
-- b. mindestens 60 Credits im Hauptstudium an der ZHAW in einem Studiengang des Departements Architektur, Gestaltung und Bauingenieurwesen erreicht wurden,
+- b. insgesamt 180 ECTS-Credits erreicht wurden.
 
-- c. insgesamt 180 Credits erreicht wurden.
-
-#### § 21
+#### § 16
 
 **Abschlussnote**
 
-<sup>1</sup> Die Abschlussnote errechnet sich aus den Modulbewertungen des Assessments und des Hauptstudiums. Es werden alle Module berücksichtigt.
+<sup>1</sup> Die Abschlussnote errechnet sich aus sämtlichen promotionsrelevanten Modulen.
 
-<sup>2</sup> Die Modulnoten werden nach Credits gewichtet.
+<sup>2</sup> Die Modulnoten werden nach ECTS-Credits gewichtet.
 
-#### § 22
+#### § 17
+
+**Überzählige ECTS-Credits aus Wahlpflichtmodulen**
+
+<sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+
+**3**
+
+- 1\. 4. 21 - 112
+
+<sup>2</sup> Die Studienleitung regelt,
+
+- a. ob die Belegung von überzähligen Wahlpflichtmodulen möglich ist,
+
+- b. wie die Studierenden bei der Wahl der Module bestimmen, welche Wahlpflichtmodule überzählig sind.
+
+<sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
+
+#### § 18
 
 **Titel**
 
@@ -218,38 +204,30 @@ Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
 
 - b. Bachelor of Science ZFH in Bauingenieurwesen.
 
-### G. Schluss- und Übergangsbestimmungen
+### F. Schluss- und Übergangsbestimmungen
 
-#### § 23
+#### § 19
 
-**Genehmigung und Inkrafttreten**
+**Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. April 2010 in Kraft.
+Diese Studienordnung ersetzt die Studienordnung für die Bachelorstudiengänge Architektur und Bauingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften vom 17. Dezember 2009.
 
-<sup>2</sup> Sie ersetzt die Studien- und Prüfungsordnung für Bachelorstudiengänge der Zürcher Hochschule Winterthur vom 8. Juni 2006.
-
-#### § 24
+#### § 20
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Studierende, die ihr Studium vor dem Herbstsemester 2010/ 2011 aufgenommen haben, setzen es nach der Studien- und Prüfungsordnung für Bachelorstudiengänge der Zürcher Hochschule Winterthur vom 8. Juni 2006 fort.
+<sup>1</sup> Studierende, die ihr Studium vom dem Herbstsemester 2021/2022 aufgenommen haben, werden für das weitere Studium dieser Studienordnung unterstellt.
 
-<sup>2</sup> Studierende, die bis Ende Frühlingssemester 2012 das Studium nicht abgeschlossen haben, werden für das weitere Studium dieser Studienordnung unterstellt.
-
-<sup>3</sup> Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen.
-
-[^24-1]: Eingefügt durch B vom 21. März 2013 (OS 68, 272; ABl 2013-04-26). In Kraft seit 1. September 2013.
+<sup>2</sup> Die Studienleitung regelt die Anrechnung bereits erbrachter Studienleistungen.
 
 ### Anhang zur Studienordnung für die Bachelorstudiengänge Architektur und Bauingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften
-
-[^24-1]
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge Architektur und Bauingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
 Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
 
-bezogen oder unter www.zhaw.ch eingesehen werden.
+bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 **5**
 
-- 1\. 10. 13 - 82
+- 1\. 4. 21 - 112
