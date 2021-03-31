@@ -4,13 +4,13 @@ number: "162.110"
 title: Verordnung zum Personalgesetz
 short: VPG
 language: de
-version: 2016-07-01
-valid_until: 2021-03-31
-version_adopted: 2016-06-28
+version: 2021-04-01
+valid_until: 2021-06-30
+version_adopted: 2021-03-30
 adopted: 2000-06-27
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3859/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3859/pdf_file"
 
 Verordnung zum Personalgesetz | Staatspersonal: Arbeitsverhältnis
 
-Vom 27. Juni 2000 (Stand 1. Juli 2016)
+Vom 27. Juni 2000 (Stand 1. April 2021)
 
 Der Regierungsrat des Kantons Basel Stadt,
 
@@ -41,6 +41,7 @@ erlässt folgende Verordnung:
 - b) Nebenämter
 - c) Massnahmen
 - d) Bewährungsfrist
+- d<sup>bis</sup>) Kündigung
 - e) Abfindung
 - f) Personalrekurskommission
 
@@ -54,10 +55,10 @@ erlässt folgende Verordnung:
 
 **Anstellungsbehörden**
 
-<sup>1</sup> Der Regierungsrat ist Anstellungsbehörde für alle einer Departementsvorsteherin bzw. einem Departementsvorsteher direkt unterstellten Funktionen sowie für nachfolgende, spezielle Funktionen:
+<sup>1</sup> Der Regierungsrat ist Anstellungsbehörde für alle einer Departementsvorsteherin oder einem Departementsvorsteher direkt unterstellten Funktionen sowie der Vizestaatsschreiberin oder des Vizestaatsschreibers.
 
-- a) Vizestaatsschreiberin oder Vizestaatsschreiber
-- b) Die in § 13 Abs. 1 der Verordnung über die Sicherstellung der Regierungs- und Verwaltungstätigkeit in besonderen und ausserordentlichen Lagen vom 27. Juni 2006 genannten Funktionen.
+- a) …
+- b) …
 
 #### § 4
 
@@ -69,6 +70,24 @@ erlässt folgende Verordnung:
 - b) Funktionen des Militärs Basel-Stadt, welche Disziplinargewalt gegenüber Angehörigen der Armee auszuüben haben
 - c) Funktionen des Bevölkerungsschutzes Basel-Stadt, welche die Überweisungen mit Antrag an die Staatsanwaltschaft vornehmen und/oder im Instruktionsbereich tätig sind
 - d) ...
+
+#### § 4a
+
+**Probezeit bei verwaltungsinternem Stellenwechsel**
+
+<sup>1</sup> Bei einem Stellenwechsel innerhalb der kantonalen Verwaltung kann im Anstellungsvertrag eine Probezeit vereinbart werden:
+
+- a) wenn Mitarbeitende die Stelle freiwillig wechseln;
+- b) wenn Auszubildende nach Abschluss der Ausbildung unbefristet angestellt werden;
+- c) wenn Praktikantinnen und Praktikanten nach Abschluss eines Praktikums unbefristet angestellt werden.
+
+<sup>2</sup> Für die Probezeit nach Abs. 1 lit. a gelten die Kündigungsfristen gemäss § 28 des Personalgesetzes.
+
+#### § 4b
+
+**Probezeit nach Eingliederungsmassnahmen**
+
+<sup>1</sup> Erfolgt nach der Absolvierung einer Eingliederungsmassnahme eine öffentlich-rechtliche Anstellung, kann im Anstellungsvertrag eine Probezeit vereinbart werden.
 
 ## C. Nebenämter
 
@@ -103,6 +122,34 @@ erlässt folgende Verordnung:
 **Ansprüche bei Ausscheiden aus dem Nebenamt**
 
 <sup>1</sup> Mit dem Ausscheiden aus dem Nebenamt erlischt der Anspruch auf Leistungen des Kantons. Insbesondere besteht kein Anspruch auf eine Abfindung.
+
+#### § 8b
+
+**Arbeitskleidung**
+
+<sup>1</sup> Den Mitarbeitenden werden je nach Funktion und Aufgabe die für die berufliche Aufgabenerfüllung erforderliche Schutzkleidung sowie die vorgeschriebenen Uniformen zur Verfügung gestellt oder entschädigt.
+
+<sup>2</sup> Die Mitarbeitenden haben für das Tragen von Zivilkleidung nur dann Anspruch auf eine angemessene Entschädigung:
+
+- a) wenn die Kleidung wegen der besonderen Arbeit ausserordentlich stark abgenutzt oder verschmutzt wird;
+- b) wenn betreffend die Auswahl der Kleidung aufgrund von Vorgaben des Arbeitgebers keine Wahlfreiheit besteht und die Kleidung zur privaten Nutzung ungeeignet ist;
+- c) wenn während der Arbeit eine Uniform oder eine Schutzkleidung getragen werden muss, jedoch aufgrund von Vorgaben des Arbeitgebers für zeitlich befristete Einsätze Zivilkleidung zu tragen ist und diesbezüglich keine Wahlfreiheit besteht.
+
+<sup>3</sup> Die Reinigung und Instandhaltung der Arbeitskleidung erfolgt grundsätzlich durch die Mitarbeitenden.
+
+<sup>4</sup> Die Dienststellen können für ihre Bereiche ergänzende Regelungen erlassen. Diese unterliegen der Genehmigung durch die Departementsvorsteherin oder den Departementsvorsteher.
+
+#### § 8c
+
+**Kostenvorschuss für Anwaltskosten**
+
+<sup>1</sup> Mitarbeitende, gegen die im Zusammenhang mit ihrer Tätigkeit von der Polizei oder der Staatsanwaltschaft ein Vorverfahren eingeleitet wird, können den Arbeitgeber um einen Kostenvorschuss für die Anwaltskosten ersuchen.
+
+<sup>2</sup> Zuständig zur Gewährung eines Kostenvorschusses ist bis zur Einstellung des Vorverfahrens, dem Erlass eines Strafbefehls oder der Anklageerhebung die oder der Departementsvorstehende. Für die Periode danach entscheidet der Regierungsrat über die Gewährung von Rechtsschutz gemäss § 15 des Personalgesetzes.
+
+<sup>3</sup> Werden Mitarbeitende verurteilt, so haben sie den ihnen vom Arbeitgeber bezahlten Kostenvorschuss für Anwaltskosten vollständig zurückzuzahlen, sofern sie ihre Dienstpflichten vorsätzlich oder grobfahrlässig verletzt haben.
+
+<sup>4</sup> Die Mitarbeitenden haben den ihnen bezahlten Kostenvorschuss für Anwaltskosten zurückzuzahlen, wenn und soweit dieser und allfällige Leistungen Dritter zusammen die entstandenen Gesamtkosten übersteigt.
 
 ## D. Massnahmen
 
@@ -163,6 +210,19 @@ erlässt folgende Verordnung:
 
 <sup>5</sup> Ein Rekurs gegen eine vorsorgliche Massnahme hat keine aufschiebende Wirkung.
 
+### IV. Versetzung nach § 12 Abs. 3 des Personalgesetzes
+
+#### § 13a
+
+**Betriebliches Erfordernis**
+
+<sup>1</sup> Eine Versetzung aus betrieblichen Gründen kann insbesondere dann angeordnet werden, wenn Mitarbeitende an der bisherigen Stelle nicht weiterbeschäftigt werden können:
+
+- a) wegen einer Reorganisation;
+- b) wegen eines vollständigen oder teilweisen Entfalls der gemäss Stellenbeschreibung auszuübenden Aufgaben;
+- c) wegen einer Veränderung des Anforderungsprofils der Stelle durch neue Vorschriften oder neue Aufgaben;
+- d) wegen eines gestörten Betriebsklimas, welches die Sicherstellung des geordneten Vollzugs der Aufgaben beeinträchtigt.
+
 ## E. Bewährungsfrist
 
 #### § 14
@@ -178,6 +238,14 @@ erlässt folgende Verordnung:
 **Anfechtbarkeit der Bewährungsfrist**
 
 <sup>1</sup> Die Auferlegung der Bewährungsfrist kann nicht selbständig mittels Rekurs angefochten werden. Allfällige Einwendungen gegen die Auferlegung einer Bewährungsfrist können im Rahmen eines nachfolgenden Rekursverfahrens gegen eine Kündigung oder eine rekursfähige Massnahme im Sinne von § 24 Abs. 2 oder § 25 des Personalgesetzes geltend gemacht werden.
+
+## E<sup>bis</sup>. Kündigung
+
+#### § 15a
+
+**Keine aufschiebende Wirkung**
+
+<sup>1</sup> Einem Rekurs gegen eine fristlose Kündigung gemäss § 32 des Personalgesetzes oder gegen eine Kündigung aufgrund schwerer Pflichtverletzung gemäss § 30 Abs. 2 lit. d des Personalgesetzes kommt keine aufschiebende Wirkung zu.
 
 ## F. Abfindung
 
@@ -223,7 +291,7 @@ erlässt folgende Verordnung:
 
 **Entzug oder Wiederherstellung der aufschiebenden Wirkung**
 
-<sup>1</sup> Die Präsidentin bzw. der Präsident der Personalrekurskommission kann auf Antrag einer Partei die aufschiebende Wirkung des Rekurses entziehen oder die von der Anstellungsbehörde entzogene aufschiebende Wirkung wieder herstellen.
+<sup>1</sup> Die Präsidentin bzw. der Präsident der Personalrekurskommission kann auf Antrag einer Partei die aufschiebende Wirkung des Rekurses entziehen bzw. die von der Anstellungsbehörde oder gemäss dieser Verordnung entzogene aufschiebende Wirkung wieder herstellen.
 
 #### § 22
 
@@ -270,6 +338,8 @@ erlässt folgende Verordnung:
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die gemäss § 9 des Beamtengesetzes definitiv angestellt sind, sowie provisorische und aushilfsweise Angestellte erhalten einen Arbeitsvertrag gemäss Personalgesetz, wenn sich das Arbeitsverhältnis in einem wesentlichen Punkt ändert.
 
 <sup>3</sup> Die als privatrechtlich bezeichneten Arbeitsverträge sind bis spätestens 30. Juni 2001 durch öffentlich-rechtliche Arbeitsverträge zu ersetzen. Sofern von zuständiger Behörde schriftlich eine günstigere Regelung gewährleistet worden ist und diese günstigere Regelung nicht in Widerspruch zu den gesetzlichen Bestimmungen steht, ist sie in den öffentlich-rechtlichen Arbeitsvertrag zu übernehmen.
+
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird am 1. Juli 2000 wirksam.[^footer-1]
 
