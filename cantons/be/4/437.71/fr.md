@@ -3,20 +3,20 @@ canton: BE
 number: "437.71"
 title: "Ordonnance concernant l'encouragement du sport de loisir"
 language: fr
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-09-17
+version: 2021-04-01
+valid_until: 2022-07-31
+version_adopted: 2021-02-24
 adopted: 1987-09-23
 in_force: 1988-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/437.71"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/682/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2225/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant l'encouragement du sport de loisir
 
-du 23.09.1987 (état au 01.01.2004)
+du 23.09.1987 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -76,7 +76,7 @@ arrête:
 
 **Réglementation de détail**
 
-<sup>1</sup> La Direction de la police et des affaires militaires règle au besoin les détails.
+<sup>1</sup> La Direction de la sécurité règle au besoin les détails.
 
 #### Art. 7
 

@@ -3,20 +3,20 @@ canton: BE
 number: "437.71"
 title: Verordnung über die Förderung des Freizeitsportes
 language: de
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-09-17
+version: 2021-04-01
+valid_until: 2022-07-31
+version_adopted: 2021-02-24
 adopted: 1987-09-23
 in_force: 1988-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/437.71"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/682/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2225/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Förderung des Freizeitsportes
 
-vom 23.09.1987 (Stand 01.01.2004)
+vom 23.09.1987 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -76,7 +76,7 @@ beschliesst:
 
 **Nähere Regelung**
 
-<sup>1</sup> Die Polizei- und Militärdirektion regelt, soweit notwendig, das Nähere.
+<sup>1</sup> Die Sicherheitsdirektion regelt, soweit notwendig, das Nähere.
 
 #### Art. 7
 
