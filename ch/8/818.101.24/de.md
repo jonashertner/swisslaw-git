@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-03-15
+version: 2021-04-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210315-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210315/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 15. März 2021)
+vom 19. Juni 2020 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 3, 4 und 8 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1], auf Artikel 63 Absatz 3 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-2] und auf Artikel 41 Absatz 1 des Epidemiengesetzes vom 28. September 2012[^ingress-3] (EpG),[^ingress-4]
+gestützt auf die Artikel 3, 4, 5 Buchstaben a und b sowie 8 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1], auf Artikel 63 Absatz 3 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-2] und auf Artikel 41 Absatz 1 des Epidemiengesetzes vom 28. September 2012[^ingress-3] (EpG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. März 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 19. März 2021 (Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer – Verlängerung), in Kraft seit 1. April 2021 ([AS 2021 167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -583,11 +583,11 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## 4*a*. Kapitel: Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
+## 4*a*. Kapitel:**** Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. März 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
 
 #### Art. 27a
 
@@ -1349,7 +1349,7 @@ Anhang 7*[^t-8]*
 
 ## Medizinische Präzisierungen zu Erkrankungen, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. März 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen), in Kraft seit 1. März 2021 ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen), in Kraft seit 1. März 2021 ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 

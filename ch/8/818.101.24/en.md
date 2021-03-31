@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-03-15
+version: 2021-04-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210315/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210315-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210315/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210401/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210401-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,18 +18,18 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 15 March 2021)
+of 19 June 2020 (Status as of 1 April 2021)
 
 The Swiss Federal Council,
 
-based on Articles 3, 4 and 8 of the COVID-19 Act of 25 September 2020[^ingress-1], on Article 63 paragraph 3 of the Therapeutic Products Act of 15 December 2000[^ingress-2], and on Article 41 paragraph 1 of the Epidemics Act of 28 September 2012[^ingress-3] (EpidA),[^ingress-4]
+based on Articles 3, 4, 5 letters a and b and 8 of the COVID-19 Act of 25 September 2020[^ingress-1], on Article 63 paragraph 3 of the Therapeutic Products Act of 15 December 2000[^ingress-2], and on Article 41 paragraph 1 of the Epidemics Act of 28 September 2012[^ingress-3] (EpidA),[^ingress-4]
 
 ordains:
 
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Amended by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 March 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
+[^ingress-4]: Amended by No I of the O of 19 March 2021 (Employees at High Risk - Extension), in force from 1 April 2021 ([AS 2021 167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
 
 ## Chapter 1 General Provisions
 
@@ -589,7 +589,7 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 [^chap4a-1]
 
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 March 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
+[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
 
 #### Art. 27a
 
@@ -1403,7 +1403,7 @@ Annex 7*[^t-8]*
 
 ## Medical specifications of diseases that make the persons concerned persons at high risk
 
-[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 March 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk), in force since 1 March 2021 ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
+[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk), in force since 1 March 2021 ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
