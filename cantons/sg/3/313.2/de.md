@@ -3,20 +3,20 @@ canton: SG
 number: "313.2"
 title: Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 language: de
-version: 2021-01-18
-corrected: 2021-01-20
-version_adopted: 2021-01-19
+version: 2021-04-01
+valid_until: 2021-05-31
+version_adopted: 2021-03-30
 adopted: 2021-06-29
 in_force: 2021-06-30
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/313.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3095/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 
-vom 12.12.2020 (Stand 18.01.2021)
+vom 12.12.2020 (Stand 01.04.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -120,19 +120,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 10
 
-**Besuche in Betagten- und Pflegeheimen**
-
-<sup>1</sup> Besuche in öffentlichen und privaten Betagten- und Pflegeheimen unterliegen folgenden Einschränkungen:
-
-- a) Besucherinnen und Besucher melden ihren Besuch im Voraus bei der Einrichtung an. Die Leitung der Einrichtung kann allgemeine oder individuelle Besuchszeiten festlegen;
-- b) Besucherinnen und Besucher mit Symptomen einer Covid-19-Erkrankung erhalten keinen Einlass;
-- c) Besucherinnen und Besucher geben der Einrichtung ihre Kontaktdaten an;
-- d) die Bewohnerin oder der Bewohner empfängt je Tag höchstens zwei Besucherinnen oder Besucher. Die Leitung der Einrichtung kann Ausnahmen bewilligen.
-
-<sup>2</sup> Besuche finden in allgemein zugänglichen Räumen wie Cafeterien und Foyers statt, in denen das Einhalten der Schutzmassnahmen überwacht werden kann. Die Leitung der Einrichtung kann Besuche im Zimmer einer Bewohnerin oder eines Bewohners allgemein oder im Einzelfall zulassen, wenn:
-
-- a) das Einhalten der Schutzmassnahmen im Zimmer gewährleistet ist und
-- b) es betriebliche Bedingungen oder die individuellen Verhältnisse der Bewohnerin oder des Bewohners erfordern.
+**…**
 
 #### Art. 11
 
@@ -158,11 +146,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 12
 
-**Menschenansammlungen im öffentlichen Raum**
-
-<sup>1</sup> Menschenansammlungen von mehr als zehn Personen im öffentlichen Raum, namentlich auf öffentlichen Plätzen, auf Spazierwegen und in Parkanlagen, sind verboten.
-
-<sup>2</sup> Darbietungen im öffentlichen Raum, die zu Menschenansammlungen führen können, sind verboten.
+**…**
 
 #### Art. 13
 
