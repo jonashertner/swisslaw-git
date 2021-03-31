@@ -3,20 +3,19 @@ canton: BE
 number: "515.811"
 title: "Règlement sur l'organisation et l'administration de la «Fondation de Laupen»"
 language: fr
-version: 1993-01-01
-valid_until: 2021-03-31
-version_adopted: 1993-03-31
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1988-09-21
 in_force: 1988-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/515.811"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/445/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2227/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Règlement sur l'organisation et l'administration de la «Fondation de Laupen»
 
-du 21.09.1988 (état au 01.01.1993)
+du 21.09.1988 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -54,19 +53,19 @@ arrête:
 <sup>2</sup> Il lui incombe en particulier
 
 - a d'administrer la fortune de la «Fondation de Laupen»;
-- b de traiter les demandes d'aide et de les soumettre à la Direction cantonale de la police et des affaires militaires;
-- c d'établir un rapport et des comptes annuels qu'elle présente à la Direction cantonale de la police et des affaires militaires dans les quatre mois suivant la fin de l'année civile.
+- b de traiter les demandes d'aide et de les soumettre à la Direction de la sécurité;
+- c d'établir un rapport et des comptes annuels qu'elle présente à la Direction de la sécurité dans les quatre mois suivant la fin de l'année civile.
 
 #### Art. 5
 
-<sup>1</sup> La Direction de la police et des affaires militaires est chargée notamment
+<sup>1</sup> La Direction de la sécurité est chargée notamment
 
-- a de décider, dans les limites de sa compétence financière fixée par l'ordonnance sur les finances de l'Etat[^5-1] (sous la compétence du Conseil-exécutif), quelle suite donner aux demandes d'aide présentées;
+- a de décider, dans les limites de sa compétence financière fixée par l'ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^5-1] (sous la compétence du Conseil-exécutif), quelle suite donner aux demandes d'aide présentées;
 - b d'approuver le rapport et les comptes annuels;
 - c de conserver pendant dix ans tous les dossiers et pièces justificatives;
 - d de contrôler le dépôt de la fortune de la «Fondation de Laupen» à la Caisse hypothécaire du canton de Berne.
 
-[^5-1]: Abrogée, actuellement O du 3. 12. 2003 sur le pilotage des finances et des prestations (OFP); RSB 621.1
+[^5-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 #### Art. 6
 

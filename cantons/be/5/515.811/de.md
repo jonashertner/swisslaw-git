@@ -3,20 +3,19 @@ canton: BE
 number: "515.811"
 title: Reglement über die Organisation und Verwaltung der «Laupenstiftung»
 language: de
-version: 1993-01-01
-valid_until: 2021-03-31
-version_adopted: 1993-03-31
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1988-09-21
 in_force: 1988-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/515.811"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/445/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2227/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Organisation und Verwaltung der «Laupenstiftung»
 
-vom 21.09.1988 (Stand 01.01.1993)
+vom 21.09.1988 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -54,19 +53,19 @@ beschliesst:
 <sup>2</sup> Ihr obliegen insbesondere:
 
 - a die Verwaltung des Vermögens der «Laupenstiftung»;
-- b die Vorbehandlung der Unterstützungsgesuche und die Antragstellung an die kantonale Polizei- und Militärdirektion;
-- c die Erstellung von Jahresrechnung und -bericht zuhanden der kantonalen Polizei- und Militärdirektion binnen vier Monaten nach Ablauf des Kalenderjahres.
+- b die Vorbehandlung der Unterstützungsgesuche und die Antragstellung an die Sicherheitsdirektion;
+- c die Erstellung von Jahresrechnung und -bericht zuhanden der Sicherheitsdirektion binnen vier Monaten nach Ablauf des Kalenderjahres.
 
 #### Art. 5
 
-<sup>1</sup> Der Polizei- und Militärdirektion obliegen insbesondere:
+<sup>1</sup> Der Sicherheitsdirektion obliegen insbesondere:
 
-- a die Beschlussfassung über Unterstützungsgesuche im Rahmen der Finanzkompetenz gemäss der Verordnung über den Finanzhaushalt[^5-1] (abschliessende Kompetenz des Regierungsrates);
+- a die Beschlussfassung über Unterstützungsgesuche im Rahmen der Finanzkompetenz gemäss der Verordnung vom 3. Dezember 2003 über die Steuerung von Finanzen und Leistungen (FLV)[^5-1] (abschliessende Kompetenz des Regierungsrates);
 - b die Genehmigung von Jahresrechnung und -bericht;
-- c die Aufbewahrung aller Akten und Belege während 10 Jahren;
+- c die Aufbewahrung aller Akten und Belege während zehn Jahren;
 - d die Überwachung der Anlage des Vermögens der «Laupenstiftung» bei der Hypothekarkasse des Kantons Bern.
 
-[^5-1]: Aufgehoben durch V vom 3. 12. 2003 über die Steuerung von Finanzen und Leistungen, BSG 621.1
+[^5-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 #### Art. 6
 
