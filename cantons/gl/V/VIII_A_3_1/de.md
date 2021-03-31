@@ -4,13 +4,13 @@ number: VIII A/3/1
 title: Verordnung über Berufe und Einrichtungen der Gesundheitsversorgung
 short: "Gesundheitsberufeverordnung, GesBV"
 language: de
-version: 2020-02-01
-valid_until: 2021-03-31
-version_adopted: 2020-01-21
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-16
 adopted: 2008-08-12
 in_force: 2008-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.3.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2142/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2230/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2142/pdf_file"
 
 (Gesundheitsberufeverordnung, GesBV)
 
-Vom 12.08.2008 (Stand 01.02.2020)
+Vom 12.08.2008 (Stand 01.04.2021)
 
 Der Regierungsrat,
 
@@ -297,7 +297,7 @@ erlässt:
 
 <sup>1</sup> (Es sind die Berufsbezeichnungen und die notwendigen beruflichen Qualifikationen, sodann Bestimmungen zum Tätigkeitsgebiet und besondere Berufsausübungsbestimmungen aufgeführt.)
 
-- a. Apothekerin oder Apotheker: 1. eidg. Diplom oder ein von der Medizinalberufekommission (MEBEKO) als gleichwertig anerkanntes ausländisches Diplom und 2. eidg. Weiterbildungstitel oder ein von der MEBEKO als gleichwertig anerkannter ausländischer Weiterbildungstitel. Mit Bewilligung der Hauptabteilung sind Apothekerinnen und Apotheker, die über eine genügende fachliche Aus- und Weiterbildung verfügen, befugt, ohne ärztliche Verschreibung an gesunden Personen ab 16 Jahren Impfungen gegen Grippe, Impfungen gegen Frühsommer-Meningoenzephalitis (FSME) und Folgeimpfungen Hepatitis A, Hepatitis B und Hepatitis A und B, wenn die erste Impfung durch einen Arzt erfolgt ist, vorzunehmen;
+- a. Apothekerin oder Apotheker: 1. eidg. Diplom oder ein von der Medizinalberufekommission (MEBEKO) als gleichwertig anerkanntes ausländisches Diplom und 2. eidg. Weiterbildungstitel oder ein von der MEBEKO als gleichwertig anerkannter ausländischer Weiterbildungstitel. Mit Bewilligung der Hauptabteilung sind Apothekerinnen und Apotheker, die über eine genügende fachliche Aus- und Weiterbildung verfügen, befugt, ohne ärztliche Verschreibung an gesunden Personen ab 16 Jahren Impfungen gegen Grippe, Impfungen gegen Frühsommer-Meningoenzephalitis (FSME), Folgeimpfungen Hepatitis A, Hepatitis B und Hepatitis A und B, wenn die erste Impfung durch einen Arzt erfolgt ist, sowie Impfungen gegen Covid-19 vorzunehmen;
 - b. Ärztin oder Arzt: 1. eidg. Diplom oder ein von der MEBEKO als gleichwertig anerkanntes ausländisches Diplom und 2. eidg. Weiterbildungstitel oder ein von der MEBEKO als gleichwertig anerkannter ausländischer Weiterbildungstitel;
 - c. …
 - d. Chiropraktorin oder Chiropraktor: 1. eidg. Diplom oder ein von der MEBEKO als gleichwertig anerkanntes ausländisches Diplom und 2. eidg. Weiterbildungstitel oder ein von der MEBEKO als gleichwertig anerkannter ausländischer Weiterbildungstitel;
