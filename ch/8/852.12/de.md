@@ -3,11 +3,11 @@ sr: "852.12"
 title: "Verordnung vom 5. November 2014 über das Personen-, Akten- und Geschäftsverwaltungssystem der Konsularischen Direktion (SAS-EDA-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/666"
 language: de
-version: 2015-01-01
+version: 2021-04-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/666/20150101/de/xml/fedlex-data-admin-ch-eli-cc-2014-666-20150101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/666/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-666-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20150101/de"
 
 (SAS-EDA-Verordnung)
 
-vom 5. November 2014 (Stand am 1. Januar 2015)
+vom 5. November 2014 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 57*h* des Regierungs- und Verwaltungsorganisationsgesetzes
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 852.1](https://fedlex.data.admin.ch/eli/cc/1973/1976_1976_1976)
+[^ingress-2]: [[AS 1973 1976](https://fedlex.data.admin.ch/eli/oc/1973/1976_1976_1976), [1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126), [2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447), [2009 5685](https://fedlex.data.admin.ch/eli/oc/2009/690), [2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654). [AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653)Anhang Ziff. 1 Bst. b]
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -136,14 +136,15 @@ Alle Dokumente zu elektronisch gespeicherten Geschäften können in SAS-EDA erfa
 Die Informatiksicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^12-1] zum Bundesgesetz über den Datenschutz;
-- b. dem Abschnitt über die Informatiksicherheit in der Bundesinformatikverordnung vom 9. Dezember 2011[^12-2];
-- c. den Weisungen des Bundesrates vom 14. August 2013[^12-3] über die IKT-Sicherheit in der Bundesverwaltung.
+- b.[^12-2] der Cyberrisikenverordnung vom 27. Mai 2020[^12-3];
+- c.[^12-4] ...
 
 <sup>2</sup> Die KD erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
 [^12-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^12-3]: [BBl 2013 6713](https://fedlex.data.admin.ch/eli/fga/2013/1224)
+[^12-2]: Fassung gemäss Anhang Ziff. 33 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Aufgehoben durch Anhang Ziff. 33 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 

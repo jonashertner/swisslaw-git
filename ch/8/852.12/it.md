@@ -3,11 +3,11 @@ sr: "852.12"
 title: "Ordinanza del 5 novembre 2014 sul sistema di gestione delle persone, dei dossier e delle pratiche della Direzione consolare (Ordinanza SAS-DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/666"
 language: it
-version: 2015-01-01
+version: 2021-04-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/666/20150101/it/xml/fedlex-data-admin-ch-eli-cc-2014-666-20150101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/666/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-666-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20150101/it"
 
 (Ordinanza SAS-DFAE)
 
-del 5 novembre 2014 (Stato 1° gennaio 2015)
+del 5 novembre 2014 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 57*h* della legge del 21 marzo 1997[^ingress-1] sull’organi
 ordina:
 
 [^ingress-1]: RS **2014** 3895 RS **172.010**
-[^ingress-2]: [RS 852.1](https://fedlex.data.admin.ch/eli/cc/1973/1976_1976_1976)
+[^ingress-2]: [[[RU 1973 1976](https://www.fedlex.admin.ch/eli/oc/1973/1976_1976_1976/it)](https://fedlex.data.admin.ch/eli/oc/1973/1976_1976_1976), [[1995 1126](https://www.fedlex.admin.ch/eli/oc/1995/1126_1126_1126/it)](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126)n. II 7, [[2000 1915](https://www.fedlex.admin.ch/eli/oc/2000/294/it)](https://fedlex.data.admin.ch/eli/oc/2000/294)all. n. 2, [[2008 3437](https://www.fedlex.admin.ch/eli/oc/2008/447/it)](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 48, [[2009 5685](https://www.fedlex.admin.ch/eli/oc/2009/690/it)](https://fedlex.data.admin.ch/eli/oc/2009/690)n. I 2, [[2014 3789](https://www.fedlex.admin.ch/eli/oc/2014/654/it)](https://fedlex.data.admin.ch/eli/oc/2014/654)n. I 5. [RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653)all. n. I lett. b]
 
 ## Sezione 1: Disposizioni generali
 
@@ -136,14 +136,15 @@ Ogni documento relativo alle pratiche registrate elettronicamente può essere re
 La sicurezza informatica è retta:
 
 - a. dall’ordinanza del 14 giugno 1993[^12-1] relativa alla legge federale sulla protezione dei dati;
-- b. dalle disposizioni della sezione sulla sicurezza informatica fissate nell’ordinanza del 9 dicembre 2011[^12-2] sull’informatica nell’Amministrazione federale;
-- c. dalle istruzioni del Consiglio federale del 14 agosto 2013[^12-3] sulla sicurezza TIC nell’Amministrazione federale.
+- b.[^12-2] dall’ordinanza del 27 maggio 2020[^12-3] sui ciber-rischi;
+- c.[^12-4] ...
 
 <sup>2</sup> La DC emana un regolamento relativo al trattamento dei dati. Quest’ultimo disciplina i provvedimenti organizzativi e tecnici volti ad assicurare la sicurezza dei dati e il controllo del trattamento dei dati.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^12-3]: [FF 2013 5771](https://fedlex.data.admin.ch/eli/fga/2013/1224)
+[^12-2]: Nuovo testo giusta l’all. n. 33 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Abrogata dall’all. n. 33 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 

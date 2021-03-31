@@ -3,11 +3,11 @@ sr: "852.12"
 title: "Ordonnance du 5 novembre 2014 sur le système de gestion de personnes, de dossiers et d'affaires de la Direction consulaire (Ordonnance SAS-DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/666"
 language: fr
-version: 2015-01-01
+version: 2021-04-01
 adopted: 2014-11-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/666/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-666-20150101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/666/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-666-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/666/20150101/fr"
 
 (Ordonnance SAS-DFAE)
 
-du 5 novembre 2014 (Etat le 1<sup>er</sup> janvier 2015)
+du 5 novembre 2014 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 57*h* de la loi fédérale du 21 mars 1997 sur l’organisation du g
 arrête:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 852.1](https://fedlex.data.admin.ch/eli/cc/1973/1976_1976_1976)
+[^ingress-2]: [[RO 1973 1976](https://fedlex.data.admin.ch/eli/oc/1973/1976_1976_1976); [1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126)ch. II 7; [2000 1915](https://fedlex.data.admin.ch/eli/oc/2000/294)annexe ch. 2; [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 48; [2009 5685](https://fedlex.data.admin.ch/eli/oc/2009/690)ch. I 2; [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)ch. I 5. [RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653)annexe ch. I let. b]
 
 ## Section 1 Dispositions générales
 
@@ -87,7 +87,7 @@ Tout document relatif aux affaires enregistrées électroniquement peut être en
 
 **Durée de conservation, archivage et destruction des données**
 
-<sup>1</sup> A l’expiration d’un délai de dix ans à compter de la date du dernier traitement, mais de 30 ans au plus à compter de la date d’ouverture du dossier, les données sont proposées aux Archives fédérales.
+<sup>1</sup> À l’expiration d’un délai de dix ans à compter de la date du dernier traitement, mais de 30 ans au plus à compter de la date d’ouverture du dossier, les données sont proposées aux Archives fédérales.
 
 <sup>2</sup> Les données que les Archives fédérales jugent sans valeur archivistique sont détruites.
 
@@ -136,14 +136,15 @@ Tout document relatif aux affaires enregistrées électroniquement peut être en
 La sécurité informatique est régie:
 
 - a. par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1];
-- b. par les dispositions de la section sur la sécurité informatique de l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^12-2];
-- c. par les directives du Conseil fédéral du 14 août 2013 concernant la sécurité des TIC dans l’administration fédérale[^12-3].
+- b.[^12-2] par l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-3];
+- c.[^12-4] …
 
 <sup>2</sup> La DC édicte un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^12-3]: [FF 2013 6003](https://fedlex.data.admin.ch/eli/fga/2013/1224)
+[^12-2]: Nouvelle teneur selon l’annexe ch. 33 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-4]: Abrogée par l’annexe ch. 33 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -172,14 +173,14 @@ Annexe 1
 ## Données traitées dans le système SAS-DFAE et personnes concernées
 
 <table>
-<tr><th></th><th>Requérant</th><th>Enfants du requérant</th><th>Epoux et partenaires enregistrés</th><th>Enfants de l’époux ou du partenaire enregistré</th><th>Père et mère</th><th>Concubin</th><th>Enfants du concubin</th><th>Personnes faisant ménage commun</th><th>Personnes de référence</th></tr>
+<tr><th></th><th>Requérant</th><th>Enfants du requérant</th><th>Époux et partenaires enregistrés</th><th>Enfants de l’époux ou du partenaire enregistré</th><th>Père et mère</th><th>Concubin</th><th>Enfants du concubin</th><th>Personnes faisant ménage commun</th><th>Personnes de référence</th></tr>
 <tr><td>Noms et prénoms</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>Nom d’emprunt</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Sexe</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Date et lieu de naissance</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td>x</td><td>x</td><td>x</td><td></td></tr>
 <tr><td>Lieu et canton d’origine</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td></td><td>x</td><td></td><td></td></tr>
 <tr><td>Nationalités et mode d’acquisition</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td>x</td><td>x</td><td>x</td><td></td></tr>
-<tr><td>Etat-civil</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td>x</td><td>x</td><td></td><td></td></tr>
+<tr><td>État-civil</td><td>x</td><td>x</td><td>x</td><td>x</td><td></td><td>x</td><td>x</td><td></td><td></td></tr>
 <tr><td>Langue de correspondance</td><td>x</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Langue maternelle</td><td>x</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Profession</td><td>x</td><td></td><td>x</td><td></td><td></td><td>x</td><td></td><td></td><td></td></tr>
