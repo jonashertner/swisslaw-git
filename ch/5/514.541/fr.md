@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210101/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (Etat le 1<sup>er</sup> janvier 2021)
+du 2 juillet 2008 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
-## Chapitre 1 Définitions****
+## Chapitre 1 Définitions
 
 [^chap1-1]
 
@@ -229,13 +229,13 @@ Par courtage, on entend la création des conditions essentielles pour la conclus
 
 [^9a-1]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-## Chapitre 1*a* Interdictions et restrictions de portée générale, autorisations exceptionnelles****
+## Chapitre 1*a* Interdictions et restrictions de portée générale, autorisations exceptionnelles
 
 [^chap1a-1]
 
 [^chap1a-1]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-### Section 1 Généralités****
+### Section 1 Généralités
 
 [^chap1a-sec1-1]
 
@@ -364,7 +364,7 @@ Afin d’être identifiable, l’offreur doit:
 - a. si son offre paraît sous une forme anonyme, envoyer une copie de son passeport ou de sa carte d’identité en cours de validité au responsable de la publication avant que celle-ci ait lieu; ledit responsable conserve la copie pour toute la durée de publication, mais au moins pendant six mois;
 - b. si son offre ne paraît pas sous une forme anonyme, y indiquer au moins son nom, son prénom et son domicile.
 
-### Section 2**** Couteaux, poignards et engins de frappe ou de jet
+### Section 2 Couteaux, poignards et engins de frappe ou de jet
 
 [^chap1a-sec2-1]
 
@@ -397,7 +397,7 @@ Sont interdits l’aliénation, l’acquisition, le courtage pour des destinatai
 
 Les autorités cantonales compétentes délivrent des autorisations exceptionnelles pour les armes visées à l’art. 5, al. 2, let. b, LArm en particulier s’il s’agit d’armes de sport utilisées par des membres d’écoles de sport ou de sociétés sportives.
 
-### Section 3**** Autorisations exceptionnelles pour les tireurs sportifs
+### Section 3 Autorisations exceptionnelles pour les tireurs sportifs
 
 [^chap1a-sec3-1]
 
@@ -464,7 +464,7 @@ Pour apporter la démonstration, la personne concernée doit remettre le formula
 
 [^13f-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
-### Section 4**** Autorisations exceptionnelles pour les collectionneurs et les musées
+### Section 4 Autorisations exceptionnelles pour les collectionneurs et les musées
 
 [^chap1a-sec4-1]
 
@@ -703,7 +703,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 <sup>3</sup> Si les circonstances font douter l’aliénateur que les conditions permettant l’aliénation soient remplies, il doit exiger de l’acquéreur un extrait du casier judiciaire suisse établi trois mois au plus avant l’aliénation ou demander, avec l’accord écrit de l’acquéreur, les informations nécessaires aux autorités ou aux personnes compétentes.
 
-### Section 4**** Acquisition de chargeurs de grande capacité
+### Section 4 Acquisition de chargeurs de grande capacité
 
 [^chap2-sec4-1]
 
@@ -717,7 +717,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 <sup>2</sup> Les chargeurs d’une capacité allant de 11 à 20 cartouches pouvant être utilisés tant avec des armes à feu à épauler que des armes à feu de poing peuvent être aliénés si l’acquéreur s’est vu délivrer une autorisation exceptionnelle ou une confirmation visée à l’al. 1 ou un permis d’acquisition d’armes ou une carte européenne d’arme à feu pour une arme à feu de poing correspondante.
 
-## Chapitre 3 Homologations****
+## Chapitre 3 Homologations
 
 [^chap3-1]
 
@@ -763,7 +763,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 [^25a-1]: Introduit par le ch. I de l’O du 24 juin 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
-## Chapitre 3*a* Munitions prohibées****
+## Chapitre 3*a* Munitions prohibées
 
 [^chap3a-1]
 
@@ -1776,15 +1776,19 @@ Les données personnelles issues du fichier électronique visé à l’art. 59*a
 
 **Sécurité des données**[^66c-1]
 
-<sup>1</sup> La sécurité des données est garantie conformément à l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^66c-2], à l’ordonnance du 27 mai 2020 sur les cyberrisques[^66c-3] et aux directives du Conseil fédéral 16 janvier 2019 concernant la sécurité informatique dans l’administration fédérale[^66c-4].[^66c-5]
+<sup>1</sup>
+
+La sécurité des données est garantie conformément à:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^66c-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^66c-3].[^66c-4]
 
 <sup>2</sup> L’OCA prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
 
 [^66c-1]: Introduit par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^66c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^66c-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-4]: [FF 2019 1283](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^66c-5]: Nouvelle teneur selon l’annexe ch. 13 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^66c-4]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 
@@ -1928,7 +1932,7 @@ L’abrogation et la modification du droit en vigueur sont réglées à l’anne
 
 La présente ordonnance entre en vigueur le 12 décembre 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 55)
 
@@ -2010,7 +2014,7 @@ Sont réputées irritantes les substances suivantes:
 - c. CN (ω-chloroacétophénone);
 - d. CR (dibenz(b,f)-1,4-oxazépine).
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 61, al. 6)
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210101/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 1° gennaio 2021)
+del 2 luglio 2008 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1765,15 +1765,19 @@ L’offerta di dati personali della banca dati di cui all’articolo 59*a* all�
 
 **Sicurezza dei dati**[^66c-1]
 
-<sup>1</sup> La sicurezza dei dati è retta dall’ordinanza del 14 giugno 1993[^66c-2] relativa alla legge federale sulla protezione dei dati, dall’ordinanza del 27 maggio 2020[^66c-3] sui ciber-rischi e dalle istruzioni del Consiglio federale del 16 gennaio 2019[^66c-4] sulla sicurezza TIC nell’Amministrazione federale.[^66c-5]
+<sup>1</sup>
+
+La sicurezza dei dati è retta:
+
+- a. dall’ordinanza del 14 giugno 1993[^66c-2] relativa alla legge federale sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^66c-3] sui ciber-rischi.[^66c-4]
 
 <sup>2</sup> L’Ufficio centrale Armi adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
 
 [^66c-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^66c-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^66c-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-4]: [FF 2019 1173](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^66c-5]: Nuovo testo giusta l’all. n. 13 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^66c-4]: Nuovo testo giusta l’all. n. 11 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210101/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 1. Januar 2021)
+vom 2. Juli 2008 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1767,15 +1767,19 @@ Das Anbieten von Personendaten aus der Datenbank nach Artikel 59*a* an das Bunde
 
 **Datensicherheit**[^66c-1]
 
-<sup>1</sup> Die Gewährleistung der Datensicherheit richtet sich nach der Verordnung vom 14. Juni 1993[^66c-2] zum Bundesgesetz über den Datenschutz, der Cyberrisikenverordnung vom 27. Mai 2020[^66c-3] sowie den Weisungen des Bundesrates vom 16. Januar 2019[^66c-4] über die IKT-Sicherheit in der Bundesverwaltung.[^66c-5]
+<sup>1</sup>
+
+Die Gewährleistung der Datensicherheit richtet sich nach:
+
+- a. der Verordnung vom 14. Juni 1993[^66c-2] zum Bundesgesetz über den Datenschutz;
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^66c-3].[^66c-4]
 
 <sup>2</sup> Die Zentralstelle Waffen trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
 
 [^66c-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^66c-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^66c-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^66c-4]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^66c-5]: Fassung gemäss Anhang Ziff. 13 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^66c-4]: Fassung gemäss Anhang Ziff. 11 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
 
