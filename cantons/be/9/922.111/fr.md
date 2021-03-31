@@ -4,13 +4,13 @@ number: "922.111"
 title: Ordonnance sur la chasse
 short: OCh
 language: fr
-version: 2018-07-01
-valid_until: 2021-03-31
-version_adopted: 2018-05-23
+version: 2021-04-01
+valid_until: 2022-02-28
+version_adopted: 2021-02-17
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1464/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2206/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1464/pdf_file"
 
 (OCh)
 
-du 26.02.2003 (état au 01.07.2018)
+du 26.02.2003 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -39,7 +39,7 @@ arrête:
 
 <sup>1</sup> La planification de la chasse a lieu dans des zones de gestion du gibier.
 
-<sup>2</sup> Les zones de gestion du gibier sont des périmètres délimités sur la base de considérations relatives à la biologie de la faune sauvage et de don-nées géographiques en vue de la gestion du gibier à grande échelle.
+<sup>2</sup> Les zones de gestion du gibier sont des périmètres délimités sur la base de considérations relatives à la biologie de la faune sauvage et de données géographiques en vue de la gestion du gibier à grande échelle.
 
 #### Art. 2
 
@@ -77,7 +77,7 @@ arrête:
 
 <sup>2</sup> Là où tel est le cas, l'Inspection de la chasse exécute la planification de la chasse avec la participation des milieux de la chasse, des forêts, de l'agriculture et de la protection de la nature.
 
-<sup>3</sup> Se fondant sur les objectifs et les mesures de la planification de la chasse et après consultation de la Commission de la chasse et de la protection de la faune sauvage (CCPFS), la Direction de l'économie publique fixe les contingents de chasse annuels. Elle peut interdire entièrement ou partiellement la chasse pour de justes motifs.
+<sup>3</sup> Se fondant sur les objectifs et les mesures de la planification de la chasse et après consultation de la Commission de la chasse et de la protection de la faune sauvage (CCPFS), la Direction de l’économie, de l’énergie et de l’environnement fixe les contingents de chasse annuels. Elle peut interdire entièrement ou partiellement la chasse pour de justes motifs.
 
 <sup>4</sup> L'Inspection de la chasse prend d'autres mesures nécessaires pour atteindre les objectifs de la planification de la chasse dans son propre domaine de compétence ou les indique aux services compétents.
 
@@ -142,7 +142,7 @@ arrête:
 
 <sup>1</sup> L'annexe 1 à la présente ordonnance fixe pour chaque type de patente les espèces animales pouvant être chassées, les périodes de chasse et les jours de relâche.
 
-<sup>2</sup> La Direction de l'économie publique peut, pour une saison de chasse donnée et certaines zones de gestion du gibier présentant une population que le nombre de ses individus rend intolérable, prolonger la chasse au sanglier jusqu'à fin février, si la CCPFS le propose en se fondant sur les objectifs et les mesures de la planification de la chasse.
+<sup>2</sup> La Direction de l’économie, de l’énergie et de l’environnement peut, pour une saison de chasse donnée et certaines zones de gestion du gibier présentant une population que le nombre de ses individus rend intolérable, prolonger la chasse au sanglier jusqu'à fin février, si la CCPFS le propose en se fondant sur les objectifs et les mesures de la planification de la chasse.
 
 <sup>3</sup> Dans les régions confrontées à d'intolérables dommages causés par la faune sauvage, elle peut autoriser, pour une saison de chasse donnée, la chasse à l'affût des chevreuils le jeudi.
 
@@ -154,7 +154,7 @@ arrête:
 
 <sup>2</sup> Lorsque, malgré une identification soigneuse, une chèvre de chamois ou une biche en lactation n'est pas reconnue et est tirée, le chasseur ou la chasseuse doit inscrire l'animal dans le carnet de contrôle du gibier tiré et s'acquitter de l'émolument fixé à l'annexe 2.
 
-<sup>3</sup> Se fondant sur les objectifs et les mesures de la planification de la chasse et après consultation de la CCPFS, la Direction de l'économie publique peut, pour une saison de chasse donnée et certaines zones de gestion du gibier présentant une population que le nombre de ses individus rend intolérable, autoriser le tir de biches en lactation, à la condition impérative que la mère et son faon soient tirés ensemble et présentés simultanément au contrôle.
+<sup>3</sup> Se fondant sur les objectifs et les mesures de la planification de la chasse et après consultation de la CCPFS, la Direction de l’économie, de l’énergie et de l’environnement peut, pour une saison de chasse donnée et certaines zones de gestion du gibier présentant une population que le nombre de ses individus rend intolérable, autoriser le tir de biches en lactation, à la condition impérative que la mère et son faon soient tirés ensemble et présentés simultanément au contrôle.
 
 #### Art. 12
 
@@ -200,7 +200,7 @@ arrête:
 <sup>1</sup> La chasse est interdite
 
 - a dans les zones de protection de la faune sauvage ou dans les réserves naturelles caractérisées par une interdiction de chasser, désignées de manière particulière dans l'ordonnance du 26 février 2003 sur la protection de la faune sauvage (OPFS)[^15-1],
-- b dans les zones désignées par la Direction de l'économie publique sur la base de l'article 36 et dans les aires d'accès aux ouvrages de passage à faune,
+- b dans les zones désignées par la Direction de l’économie, de l’énergie et de l’environnement sur la base de l'article 36 et dans les aires d'accès aux ouvrages de passage à faune,
 - c sous réserve de l’alinéa 4, dans un rayon de 100 mètres autour des bâtiments habités en permanence, pour autant qu’aucune forêt, aucun peuplement de type forestier ni aucune haie réduisant la visibilité ne se trouve entre le bâtiment et la personne autorisée à chasser.
 
 <sup>2</sup> Les défenses d'accès militaires ou d'autre type doivent être respectées.
@@ -236,9 +236,9 @@ arrête:
 
 #### Art. 17
 
-<sup>1</sup> Le ou la garde-faune peut contester l'aptitude d'un chien de chasse à des types de chasse déterminés et notifier par écrit au détenteur ou à la détentrice cette décision en indiquant la possibilité de recourir auprès de la Direction de l'économie publique.
+<sup>1</sup> Le ou la garde-faune peut contester l'aptitude d'un chien de chasse à des types de chasse déterminés et notifier par écrit au détenteur ou à la détentrice cette décision en indiquant la possibilité de recourir auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> Lors de la procédure de recours, la Direction de l'économie publique peut faire appel, pour l'examen spécialisé, à un groupe d'experts composé d'au maximum trois spécialistes, nommé par la CCPFS.
+<sup>2</sup> Lors de la procédure de recours, la Direction de l’économie, de l’énergie et de l’environnement peut faire appel, pour l'examen spécialisé, à un groupe d'experts composé d'au maximum trois spécialistes, nommé par la CCPFS.
 
 <sup>3</sup> Les membres du groupe d'experts perçoivent la même indemnisation que les membres de la CCPFS.
 
@@ -372,7 +372,7 @@ arrête:
 
 **Fixation du supplément destiné à la protection et du patrimoine de la Caisse**
 
-<sup>1</sup> La Direction de l'économie publique fixe, après consultation du service mandaté, le montant du supplément destiné à la protection de la faune sauvage de manière à ce que le patrimoine de la Caisse pour la protection de la faune sauvage soit, à la fin de l'exercice annuel, d'au moins 100'000 francs et au maximum de 500'000 francs.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement fixe, après consultation du service mandaté, le montant du supplément destiné à la protection de la faune sauvage de manière à ce que le patrimoine de la Caisse pour la protection de la faune sauvage soit, à la fin de l'exercice annuel, d'au moins 100'000 francs et au maximum de 500'000 francs.
 
 #### Art. 26
 
@@ -416,7 +416,7 @@ arrête:
 
 **Montant du supplément pour les dommages causés par la faune sauvage**
 
-<sup>1</sup> La Direction de l'économie publique fixe chaque année le montant du supplément pour les dommages causés par la faune sauvage.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement fixe chaque année le montant du supplément pour les dommages causés par la faune sauvage.
 
 #### Art. 31
 
@@ -440,13 +440,13 @@ arrête:
 
 <sup>1</sup> Les émoluments de patente sont remboursés, sous déduction des frais administratifs, pour autant que la patente concernée ait été restituée à l'Inspection de la chasse avant le début de sa validité.
 
-<sup>2</sup> En cas de ventes insuffisantes de patentes supplémentaires, la Direction de l'économie publique peut réduire de 40 francs au maximum la taxe régalienne par patente supplémentaire.
+<sup>2</sup> En cas de ventes insuffisantes de patentes supplémentaires, la Direction de l’économie, de l’énergie et de l’environnement peut réduire de 40 francs au maximum la taxe régalienne par patente supplémentaire.
 
 ## 6 Commission de la chasse et de la protection de la faune sauvage (CCPFS)
 
 #### Art. 34
 
-<sup>1</sup> La Direction de l'économie publique nomme pour une durée de quatre ans la CCPFS, composée de représentants et représentantes
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement nomme pour une durée de quatre ans la CCPFS, composée de représentants et représentantes
 
 - a de la chasse (cinq personnes),
 - b de la protection de la nature et des oiseaux (une personne par domaine),
@@ -456,9 +456,9 @@ arrête:
 
 <sup>2</sup> Les membres de la CCPFS sont choisis de manière à ce que les intérêts du sport et du tourisme soient aussi représentés.
 
-<sup>2a</sup> La Direction de l’économie publique octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer en priorité un candidat ou une candidate.
+<sup>2a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer en priorité un candidat ou une candidate.
 
-<sup>3</sup> La CCPFS est l'organe d'expertise et de consultation de la Direction de l'économie publique dans les domaines de la chasse, de la planification de la chasse, du gibier, des dommages causés par la faune sauvage et de la protection des animaux. Elle apporte son soutien à l'Office de l'agriculture et de la nature et à l'Inspection de la chasse et les conseille.
+<sup>3</sup> La CCPFS est l'organe d'expertise et de consultation de la Direction de l’économie, de l’énergie et de l’environnement dans les domaines de la chasse, de la planification de la chasse, du gibier, des dommages causés par la faune sauvage et de la protection des animaux. Elle apporte son soutien à l'Office de l'agriculture et de la nature et à l'Inspection de la chasse et les conseille.
 
 <sup>4</sup> Elle se constitue elle-même.
 
@@ -476,7 +476,7 @@ arrête:
 
 #### Art. 36
 
-<sup>1</sup> La Direction de l'économie publique édictera dans une ordonnance de direction d'autres prescriptions d'exécution, en particulier sur
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement édictera dans une ordonnance de Direction d'autres prescriptions d'exécution, en particulier sur
 
 - a les catégories d'animaux pouvant être chassés,
 - b l'émission d'autorisations de chasser,

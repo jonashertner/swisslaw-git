@@ -4,13 +4,13 @@ number: "922.111"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2018-07-01
-valid_until: 2021-03-31
-version_adopted: 2018-05-23
+version: 2021-04-01
+valid_until: 2022-02-28
+version_adopted: 2021-02-17
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1464/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2206/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1464/pdf_file"
 
 (JaV)
 
-vom 26.02.2003 (Stand 01.07.2018)
+vom 26.02.2003 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -77,7 +77,7 @@ beschliesst:
 
 <sup>2</sup> Wo dies der Fall ist, führt das Jagdinspektorat die Jagdplanung unter Mitwirkung der Kreise aus Jagd, Wald- und Landwirtschaft sowie Naturschutz durch.
 
-<sup>3</sup> Gestützt auf die Ziele und Massnahmen der Jagdplanung und nach Anhörung der Kommission für Jagd und Wildtierschutz (KJW) legt die Volkswirtschaftsdirektion die jährlichen Jagdkontingente fest. Sie kann aus wichtigen Gründen die Jagd ganz oder teilweise verbieten.
+<sup>3</sup> Gestützt auf die Ziele und Massnahmen der Jagdplanung und nach Anhörung der Kommission für Jagd und Wildtierschutz (KJW) legt die Wirtschafts-, Energie- und Umweltdirektion die jährlichen Jagdkontingente fest. Sie kann aus wichtigen Gründen die Jagd ganz oder teilweise verbieten.
 
 <sup>4</sup> Das Jagdinspektorat ergreift weitere, für das Erreichen der Ziele der Jagdplanung nötige Massnahmen im eigenen Zuständigkeitsbereich oder zeigt sie den dafür zuständigen Stellen auf.
 
@@ -142,7 +142,7 @@ beschliesst:
 
 <sup>1</sup> Anhang 1 zu dieser Verordnung legt für jede Patentart die jagdbaren Tierarten, die Jagdzeiten und die Schontage fest.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion kann jeweils für eine Jagdsaison und für einzelne, untragbar hohe Bestände aufweisende Wildräume die Wildschweinjagd bis Ende Februar verlängern, wenn die KJW dies gestützt auf die Ziele und Massnahmen der Jagdplanung beantragt.
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann jeweils für eine Jagdsaison und für einzelne, untragbar hohe Bestände aufweisende Wildräume die Wildschweinjagd bis Ende Februar verlängern, wenn die KJW dies gestützt auf die Ziele und Massnahmen der Jagdplanung beantragt.
 
 <sup>3</sup> Sie kann jeweils für eine Jagdsaison in Gebieten mit untragbarer Wildschadensituation die Ansitzjagd auf Rehwild an Donnerstagen erlauben.
 
@@ -154,7 +154,7 @@ beschliesst:
 
 <sup>2</sup> Wird eine Milch tragende Gämsgeiss oder Hirschkuh trotz sorgfältigem Ansprechen nicht erkannt und erlegt, muss die Erlegerin oder der Erleger das Tier in die Abschusskontrolle eintragen und die in Anhang 2 festgelegte Gebühr entrichten.
 
-<sup>3</sup> Gestützt auf die Ziele und Massnahmen der Jagdplanung und nach Anhörung der KJW kann die Volkswirtschaftsdirektion jeweils für eine Jagdsaison und für einzelne, untragbar hohe Bestände aufweisende Wildräume die Erlegung Milch tragender Rothirschkühe gestatten, aber nur mit der Auflage, dass das Muttertier zusammen mit dem Kalb erlegt und beide Tiere gleichzeitig zur Kontrolle vorgewiesen werden.
+<sup>3</sup> Gestützt auf die Ziele und Massnahmen der Jagdplanung und nach Anhörung der KJW kann die Wirtschafts-, Energie- und Umweltdirektion jeweils für eine Jagdsaison und für einzelne, untragbar hohe Bestände aufweisende Wildräume die Erlegung Milch tragender Rothirschkühe gestatten, aber nur mit der Auflage, dass das Muttertier zusammen mit dem Kalb erlegt und beide Tiere gleichzeitig zur Kontrolle vorgewiesen werden.
 
 #### Art. 12
 
@@ -199,13 +199,13 @@ beschliesst:
 
 <sup>1</sup> Die Jagd ist verboten
 
-- a in den in der Verordnung vom 26. Februar 2003 über den Wildtierschutz (WTSchV)[^15-1]besonders bezeichneten Wildschutz- oder Naturschutzgebieten mit Jagdverboten,
-- b in den von der Volkswirtschaftsdirektion gestützt auf Artikel 36 bezeichneten Gebieten und den Zugangsbereichen von Bauwerken für die Wildquerung,
+- a in den in der Verordnung vom 26. Februar 2003 über den Wildtierschutz (WTSchV)[^15-1] besonders bezeichneten Wildschutz- oder Naturschutzgebieten mit Jagdverboten,
+- b in den von der Wirtschafts-, Energie- und Umweltdirektion gestützt auf Artikel 36 bezeichneten Gebieten und den Zugangsbereichen von Bauwerken für die Wildquerung,
 - c unter Vorbehalt von Absatz 4 im Umkreis von 100 Metern von ständig bewohnten Gebäuden, soweit sich nicht Wald, eine waldähnliche Bestockung oder eine sichtbehindernde Hecke zwischen dem Gebäude und der jagdberechtigten Person befindet.
 
 <sup>2</sup> Militärische und andere Betretungsverbote sind zu beachten.
 
-<sup>3</sup> Auf der neuenburgischen Wasserfläche des Bielersees ist die Jagd allen im Kanton Bern Jagdberechtigten gestattet.
+<sup>3</sup> Auf der neuenburgischen Wasserfläche des Bielersees ist die Jagd allen im Kanton Jagdberechtigten gestattet.
 
 <sup>4</sup> Die Ausübung der Jagd mit einer Jagdbewilligung für Fuchs, Dachs, Steinmarder, Marderhund oder Waschbär ist mit Einwilligung der Bewohnerinnen und Bewohner der betroffenen ständig bewohnten Gebäude auch innerhalb der Hundertmetergrenze nach Absatz 1 Buchstabe c gestattet.
 
@@ -236,9 +236,9 @@ beschliesst:
 
 #### Art. 17
 
-<sup>1</sup> Die Wildhüterin oder der Wildhüter kann einen Jagdhund als für bestimmte Jagdarten ungeeignet absprechen und der Halterperson diesen Entscheid mit dem Hinweis auf die Beschwerdemöglichkeit an die Volkswirtschaftsdirektion schriftlich eröffnen.
+<sup>1</sup> Die Wildhüterin oder der Wildhüter kann einen Jagdhund als für bestimmte Jagdarten ungeeignet absprechen und der Halterperson diesen Entscheid mit dem Hinweis auf die Beschwerdemöglichkeit an die Wirtschafts-, Energie- und Umweltdirektion schriftlich eröffnen.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion kann für die fachliche Beurteilung im Beschwerdeverfahren eine von der KJW ernannte Expertengruppe von höchstens drei Fachleuten beiziehen.
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann für die fachliche Beurteilung im Beschwerdeverfahren eine von der KJW ernannte Expertengruppe von höchstens drei Fachleuten beiziehen.
 
 <sup>3</sup> Die Mitglieder der Expertengruppe erhalten die gleiche Entschädigung wie die Mitglieder der KJW.
 
@@ -372,7 +372,7 @@ beschliesst:
 
 **Festlegung des Hegezuschlags und des Kassenvermögens**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion legt die Höhe des Hegezuschlags nach Anhörung der beauftragten Stelle so fest, dass das Vermögen der Hegekasse am Ende des Geschäftsjahrs mindestens 100'000 und höchstens 500'000 Franken beträgt.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion legt die Höhe des Hegezuschlags nach Anhörung der beauftragten Stelle so fest, dass das Vermögen der Hegekasse am Ende des Geschäftsjahrs mindestens 100'000 und höchstens 500'000 Franken beträgt.
 
 #### Art. 26
 
@@ -416,7 +416,7 @@ beschliesst:
 
 **Höhe des Wildschadenzuschlags**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion legt die Höhe des Wildschadenzuschlags jährlich fest.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion legt die Höhe des Wildschadenzuschlags jährlich fest.
 
 #### Art. 31
 
@@ -440,13 +440,13 @@ beschliesst:
 
 <sup>1</sup> Die Patentabgaben werden unter Abzug der Verwaltungskosten zurückerstattet, sofern das betreffende Patent vor Beginn seiner Gültigkeit dem Jagdinspektorat zurückgegeben worden ist.
 
-<sup>2</sup> Bei ungenügendem Absatz von Zusatzpatenten kann die Volkswirtschaftsdirektion die Regalabgabe bis zu 40 Franken pro Zusatzpatent senken.
+<sup>2</sup> Bei ungenügendem Absatz von Zusatzpatenten kann die Wirtschafts-, Energie- und Umweltdirektion die Regalabgabe bis zu 40 Franken pro Zusatzpatent senken.
 
 ## 6 Kommission für Jagd und Wildtierschutz (KJW)
 
 #### Art. 34
 
-<sup>1</sup> Die Volkswirtschaftsdirektion wählt für eine Amtsdauer von vier Jahren die KJW, bestehend aus Vertreterinnen und Vertretern
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion wählt für eine Amtsdauer von vier Jahren die KJW, bestehend aus Vertreterinnen und Vertretern
 
 - a der Jägerschaft (fünf Personen),
 - b des Natur- und Vogelschutzes (je eine Person),
@@ -456,9 +456,9 @@ beschliesst:
 
 <sup>2</sup> Die Mitglieder der KJW sind so auszuwählen, dass auch die Interessen des Sports und des Tourismus vertreten werden.
 
-<sup>2a</sup> Die Volkswirtschaftsdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
+<sup>2a</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
 
-<sup>3</sup> Die KJW ist das begutachtende und vorberatende Organ der Volkswirtschaftsdirektion für Fragen des Jagdwesens, der Jagdplanung, der jagdbaren Wildtierarten, des Wildschadenwesens und des Wildtierschutzes. Sie unterstützt das LANAT und das Jagdinspektorat und steht ihnen beratend zur Seite.
+<sup>3</sup> Die KJW ist das begutachtende und vorberatende Organ der Wirtschafts-, Energie- und Umweltdirektion für Fragen des Jagdwesens, der Jagdplanung, der jagdbaren Wildtierarten, des Wildschadenwesens und des Wildtierschutzes. Sie unterstützt das LANAT und das Jagdinspektorat und steht ihnen beratend zur Seite.
 
 <sup>4</sup> Sie konstituiert sich selbst.
 
@@ -476,7 +476,7 @@ beschliesst:
 
 #### Art. 36
 
-<sup>1</sup> Die Volkswirtschaftsdirektion erlässt in einer Direktionsverordnung weitere Ausführungsvorschriften insbesondere über
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion erlässt in einer Direktionsverordnung weitere Ausführungsvorschriften insbesondere über
 
 - a Kategorien von jagdbaren Wildtierarten,
 - b die Ausgabe von Jagdbewilligungen,
