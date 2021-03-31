@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordinanza del 23 settembre 2016 sul sistema elettronico di gestione delle persone, degli atti e delle pratiche dell'Ufficio federale di giustizia (Ordinanza EGPAP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: it
-version: 2016-11-01
+version: 2021-04-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20161101/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20161101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20161101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20161101/it"
 
 (Ordinanza EGPAP)
 
-del 23 settembre 2016 (Stato 1° novembre 2016)
+del 23 settembre 2016 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -45,7 +45,7 @@ Ai fini del trattamento di dati personali nel sistema di gestione delle persone,
 
 <sup>2</sup> Salvo disposizione contraria della presente ordinanza, è applicabile l’ordinanza GEVER del 30 novembre 2012[^1-1].
 
-[^1-1]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^1-1]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 2
 
@@ -111,7 +111,7 @@ Il sistema contiene:
 
 L’UFG può disciplinare il cambio del supporto nel regolamento sul trattamento dei dati (art. 7 dell’ordinanza GEVER del 30 nov. 2012[^6-1]) derogando alle disposizioni della Cancelleria federale di cui all’articolo 10 capoverso 1 dell’ordinanza GEVER.
 
-[^6-1]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^6-1]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 ## Sezione 3: Diritti d’accesso e di trattamento dei servizi dell’UFG
 
@@ -202,15 +202,16 @@ Le unità organizzative del Servizio delle attività informative della Confedera
 La sicurezza dei dati è retta:
 
 - a. dall’ordinanza del 14 giugno 1993[^14-1] relativa alla legge federale sulla protezione dei dati;
-- b. dall’ordinanza del 9 dicembre 2011[^14-2] sull’informatica nell’Amministrazione federale;
-- c. dalle istruzioni del Consiglio federale del 1° luglio 2015[^14-3] sulla sicurezza TIC nell’Amministrazione federale.
+- b.[^14-2] dall’ordinanza del 27 maggio 2020[^14-3] sui ciber-rischi;
+- c.[^14-4] ...
 
-<sup>2</sup> In deroga all’articolo 12 capoverso 2 dell’ordinanza GEVER del 30 novembre 2012[^14-4] i documenti nel sistema non sono criptati; sono tuttavia protetti da accessi non autorizzati mediante misure tecniche.
+<sup>2</sup> In deroga all’articolo 12 capoverso 2 dell’ordinanza GEVER del 30 novembre 2012[^14-5] i documenti nel sistema non sono criptati; sono tuttavia protetti da accessi non autorizzati mediante misure tecniche.
 
 [^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^14-3]: [FF 2015 4787](https://fedlex.data.admin.ch/eli/fga/2015/1323)
-[^14-4]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^14-2]: Nuovo testo giusta l’all. n. 16 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Abrogata dall’all. n. 16 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-5]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 15
 
@@ -265,7 +266,7 @@ Sono rilevati elettronicamente nel sistema secondo la presente ordinanza e cance
 
 <sup>4</sup> I rimanenti dossier cartacei PAGIRUS con i documenti che ancora contengono continuano a essere assoggettati al diritto anteriore.
 
-[^19-1]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^19-1]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 20
 

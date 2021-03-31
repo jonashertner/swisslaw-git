@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Verordnung vom 23. September 2016 über das elektronische Personen-, Akten- und Geschäftsverwaltungssystem des Bundesamtes für Justiz (ELPAG-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: de
-version: 2016-11-01
+version: 2021-04-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20161101/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20161101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20161101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20161101/de"
 
 (ELPAG-Verordnung)
 
-vom 23. September 2016 (Stand am 1. November 2016)
+vom 23. September 2016 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -45,7 +45,7 @@ Diese Verordnung regelt für die Bearbeitung von Personendaten in dem vom Bundes
 
 <sup>2</sup> Wo diese Verordnung keine abweichenden Bestimmungen enthält, ist die GEVER-Verordnung vom 30. November 2012[^1-1] anwendbar.
 
-[^1-1]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^1-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 2
 
@@ -111,7 +111,7 @@ Das System enthält:
 
 Das BJ kann den Trägerwandel im Bearbeitungsreglement (Art. 7 der GEVER-Verordnung vom 30. Nov. 2012[^6-1]) abweichend von den Bestimmungen der Bundeskanzlei nach Artikel 10 Absatz 1 der GEVER-Verordnung regeln.
 
-[^6-1]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^6-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 ## 3. Abschnitt: Zugriffs- und Bearbeitungsrechte von Dienststellen des BJ
 
@@ -202,15 +202,16 @@ Die für den Vollzug des Bundesgesetzes vom 21. März 1997[^11-1] über Massnahm
 Die Datensicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
-- b. der Bundesinformatikverordnung vom 9. Dezember 2011[^14-2];
-- c. den Weisungen des Bundesrates vom 1. Juli 2015[^14-3] über die IKT-Sicherheit in der Bundesverwaltung.
+- b.[^14-2] der Cyberrisikenverordnung vom 27. Mai 2020[^14-3];
+- c.[^14-4] ....
 
-<sup>2</sup> Dokumente im System werden abweichend von Artikel 12 Absatz 2 der GEVER-Verordnung vom 30. November 2012[^14-4] nicht verschlüsselt; sie werden jedoch durch technische Vorkehrungen vor unbefugtem Zugriff geschützt.
+<sup>2</sup> Dokumente im System werden abweichend von Artikel 12 Absatz 2 der GEVER-Verordnung vom 30. November 2012[^14-5] nicht verschlüsselt; sie werden jedoch durch technische Vorkehrungen vor unbefugtem Zugriff geschützt.
 
 [^14-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^14-3]: [BBl 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1323)
-[^14-4]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^14-2]: Fassung gemäss Anhang Ziff. 16 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Aufgehoben durch Anhang Ziff. 16 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-5]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 15
 
@@ -265,7 +266,7 @@ Die folgenden Daten werden nach dieser Verordnung elektronisch im System erfasst
 
 <sup>4</sup> Die verbleibenden PAGIRUS-Papierdossiers mit den darin noch enthaltenen Dokumenten unterstehen weiterhin dem bisherigen Recht.
 
-[^19-1]: [SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^19-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 20
 

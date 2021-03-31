@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordonnance du 23 septembre 2016 sur le système électronique de gestion de personnes, de dossiers et d'affaires de l'Office fédéral de la justice (Ordonnance GPDA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: fr
-version: 2016-11-01
+version: 2021-04-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20161101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-555-20161101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20161101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-555-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20161101/fr"
 
 (Ordonnance GPDA)
 
-du 23 septembre 2016 (Etat le 1<sup>er</sup> novembre 2016)
+du 23 septembre 2016 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -45,7 +45,7 @@ Aux fins du traitement des données personnelles dans le système de gestion de 
 
 <sup>2</sup> L’ordonnance GEVER du 30 novembre 2012[^1-1] s’applique sauf disposition contraire de la présente ordonnance.
 
-[^1-1]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^1-1]: [RO **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Voir actuellement l’O du 3 avr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 2
 
@@ -111,7 +111,7 @@ Le système contient:
 
 L’OFJ peut régler la conversion de documents dans le règlement de traitement (art. 7 de l’ordonnance GEVER du 30 novembre 2012[^6-1]) en dérogation aux directives de la Chancellerie fédérale visées à l’art. 10, al. 1, de ladite ordonnance.
 
-[^6-1]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^6-1]: [RO **2010** 6669, [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Voir actuellement l’O du 3 avr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 ## Section 3 Droits d’accès et de traitement des unités organisationnelles de l’OFJ
 
@@ -137,13 +137,13 @@ L’OFJ peut régler la conversion de documents dans le règlement de traitement
 
 <sup>5</sup> L’OFJ peut autoriser d’autres collaborateurs à traiter les données directement dans le système dans la mesure où ils sont chargés de tâches en rapport avec l’un des domaines d’application visés à l’art. 3.
 
-## Section 4 Droits d’accès du Secrétariat d’Etat aux migrations, de l’Office fédéral de la police et du Service de renseignement de la Confédération
+## Section 4 Droits d’accès du Secrétariat d’État aux migrations, de l’Office fédéral de la police et du Service de renseignement de la Confédération
 
 #### Art. 9
 
-**Secrétariat d’Etat aux migrations**
+**Secrétariat d’État aux migrations**
 
-Les unités organisationnelles ci-après du Secrétariat d’Etat aux migrations ont accès en ligne aux données d’identité des personnes qui font l’objet de la part de l’OFJ d’un traitement des données dans le domaine de l’entraide judiciaire internationale en matière pénale:
+Les unités organisationnelles ci-après du Secrétariat d’État aux migrations ont accès en ligne aux données d’identité des personnes qui font l’objet de la part de l’OFJ d’un traitement des données dans le domaine de l’entraide judiciaire internationale en matière pénale:
 
 - a. domaine de direction Immigration et intégration: dans la division Nationalité, les sections Naturalisation Suisse alémanique 1 et 2, et la section Naturalisation Suisse romande et Tessin; dans la division Entrée, la section Identification et Consultation des visas;
 - b. domaine de direction Planification et ressources: dans la section Gestion des documents, les services Gestion des données Immigration et intégration et Gestion des données Asile et retour;
@@ -202,15 +202,16 @@ Les unités organisationnelles du Service de renseignement de la Confédération
 La sécurité informatique est régie par les dispositions suivantes:
 
 - a. ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
-- b. ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^14-2];
-- c. directives du Conseil fédéral du 1<sup>er</sup> juillet 2015 concernant la sécurité informatique dans l’administration fédérale[^14-3].
+- b.[^14-2] ordonnance du 27 mai 2020 sur les cyberrisques[^14-3];
+- c.[^14-4] …
 
-<sup>2</sup> En dérogation à l’art. 12, al. 2, de l’ordonnance GEVER du 30 novembre 2012[^14-4], les documents enregistrés dans le système ne sont pas chiffrés; ils sont cependant techniquement protégés contre les accès non autorisés.
+<sup>2</sup> En dérogation à l’art. 12, al. 2, de l’ordonnance GEVER du 30 novembre 2012[^14-5], les documents enregistrés dans le système ne sont pas chiffrés; ils sont cependant techniquement protégés contre les accès non autorisés.
 
 [^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^14-3]: [FF 2015 5313](https://fedlex.data.admin.ch/eli/fga/2015/1323)
-[^14-4]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^14-2]: Nouvelle teneur selon l’annexe ch. 16 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Abrogée par l’annexe ch. 16 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-5]: [RO **2010** 6669, [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Voir actuellement l’O du 3 avr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 15
 
@@ -265,7 +266,7 @@ Les données suivantes sont saisies dans le nouveau système en vertu de la pré
 
 <sup>4</sup> Les autres dossiers papier PAGIRUS et les documents qu’ils contiennent restent soumis à l’ancien droit.
 
-[^19-1]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
+[^19-1]: [RO **2010** 6669, [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Voir actuellement l’O du 3 avr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 20
 
