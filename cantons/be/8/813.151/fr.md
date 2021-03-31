@@ -4,13 +4,12 @@ number: "813.151"
 title: Ordonnance portant introduction de la loi fédérale sur les produits chimiques
 short: OiLChim
 language: fr
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-10-23
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2006-05-24
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/813.151"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1785/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2170/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1785/pdf_file"
 
 (OiLChim)
 
-du 24.05.2006 (état au 01.01.2020)
+du 24.05.2006 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -45,17 +44,17 @@ arrête:
 
 #### Art. 3
 
-**Compétence de l’Office de l’économie bernoise**
+**Compétence de l’Office de l’économie**
 
-<sup>1</sup> L’Office de l’économie bernoise veille au respect des dispositions concernant
+<sup>1</sup> L’Office de l’économie veille au respect des dispositions concernant
 
-- a les mesures de protection des personnes travaillant en entreprise – à l’exception des centres de formation contrôlés par le LC – soumises à la loi fédérale du 13 mars 1964 sur le travail dans l’industrie, l’artisanat et le commerce (loi sur le travail)[^3-1] et à la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^3-2],
+- a les mesures de protection des personnes travaillant en entreprise, à l’exception des centres de formation contrôlés par le LC, soumises à la loi fédérale du 13 mars 1964 sur le travail dans l’industrie, l’artisanat et le commerce (loi sur le travail)[^3-1] et à la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^3-2],
 - b les exceptions à l’interdiction d’employer des solvants au sens du chiffre 3 de l’annexe 2.3 de l’ordonnance du 18 mai 2005 sur la réduction des risques liés à l’utilisation de substances, de préparations et d’objets particulièrement dangereux (ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)[^3-3],
 - c les additifs pour combustibles au sens de l’annexe 2.13 de l’ORRChim.
 
-[^3-1]: RS 822.11
-[^3-2]: RS 832.20
-[^3-3]: RS 814.81
+[^3-1]: RS [822.11](https://db.clex.ch/link/Bund/822.11/fr)
+[^3-2]: RS [832.20](https://db.clex.ch/link/Bund/832.20/fr)
+[^3-3]: RS [814.81](https://db.clex.ch/link/Bund/814.81/fr)
 
 #### Art. 4
 

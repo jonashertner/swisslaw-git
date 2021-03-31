@@ -4,13 +4,12 @@ number: "813.151"
 title: Einführungsverordnung zur eidgenössischen Chemikaliengesetzgebung
 short: EV ChemG
 language: de
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-10-23
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2006-05-24
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/813.151"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1785/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2170/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1785/pdf_file"
 
 (EV ChemG)
 
-vom 24.05.2006 (Stand 01.01.2020)
+vom 24.05.2006 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -45,21 +44,21 @@ beschliesst:
 
 #### Art. 3
 
-**Zuständigkeit des Amtes für Berner Wirtschaft**
+**Zuständigkeit des Amts für Wirtschaft**
 
-<sup>1</sup> Das Amt für Berner Wirtschaft kontrolliert die Einhaltung der Bestimmungen über
+<sup>1</sup> Das Amt für Wirtschaft kontrolliert die Einhaltung der Bestimmungen über
 
-- a die Massnahmen zum Schutz der Arbeitnehmerinnen und Arbeitnehmer in Betrieben, die dem Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG[^3-1]) oder dem Bundesgesetz vom 20. März 1981 über die Unfallversicherung (UVG[^3-2]) unterstehen, mit Ausnahme der Bildungsstätten, die durch das KL kontrolliert werden,
-- b die Ausnahmen zum Verwendungsverbot für Lösungsmittel nach Ziffer 3 des Anhangs 2.3 der Verordnung des Bundesrates vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit bestimmten besonders gefährlichen Stoffen, Zubereitungen und Gegenständen (Chemikalien-Risikoreduktions-Verordnung, ChemRRV[^3-3]),
-- c die Brennstoffzusätze nach Anhang 2.13 der ChemRRV.
+- a die Massnahmen zum Schutz der Arbeitnehmerinnen und Arbeitnehmer in Betrieben, die dem Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG)[^3-1] oder dem Bundesgesetz vom 20. März 1981 über die Unfallversicherung (UVG)[^3-2] unterstehen, mit Ausnahme der Bildungsstätten, die durch das KL kontrolliert werden,
+- b die Ausnahmen zum Verwendungsverbot für Lösungsmittel nach Ziffer 3 des Anhangs 2.3 der Verordnung des Bundesrates vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit bestimmten besonders gefährlichen Stoffen, Zubereitungen und Gegenständen (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)[^3-3],
+- c die Brennstoffzusätze nach Anhang 2.13 ChemRRV.
 
-[^3-1]: SR 822.11
-[^3-2]: SR 832.20
-[^3-3]: SR 814.81
+[^3-1]: SR [822.11](https://db.clex.ch/link/Bund/822.11/de)
+[^3-2]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
+[^3-3]: SR [814.81](https://db.clex.ch/link/Bund/814.81/de)
 
 #### Art. 4
 
-**Zuständigkeit des Amtes für Wald und Naturgefahren**
+**Zuständigkeit des Amts für Wald und Naturgefahren**
 
 <sup>1</sup> Das Amt für Wald und Naturgefahren erteilt die Bewilligungen für die Anwendung von Pflanzenschutzmitteln und Düngern im Wald und am Waldrand nach Artikel 4 Buchstabe c und den Anhängen 2.5 und 2.6 der ChemRRV und kontrolliert deren Verwendung.
 
@@ -106,7 +105,7 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Für die Erteilung von Bewilligungen, für Kontrollmassnahmen und für weitere Anordnungen im Rahmen des Vollzugs der eidgenössischen Chemikaliengesetzgebung erhebt die zuständige kantonale Behörde Gebühren nach den Bestimmungen der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV[^9-1]).
+<sup>1</sup> Für die Erteilung von Bewilligungen, für Kontrollmassnahmen und für weitere Anordnungen im Rahmen des Vollzugs der eidgenössischen Chemikaliengesetzgebung erhebt die zuständige kantonale Behörde Gebühren nach den Bestimmungen der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV)[^9-1].
 
 [^9-1]: BSG 154.21
 
@@ -114,7 +113,7 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Verfügungen der zuständigen kantonalen Vollzugsbehörden können nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^10-1]) bei der zuständigen Direktion angefochten werden.
+<sup>1</sup> Verfügungen der zuständigen kantonalen Vollzugsbehörden können nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^10-1] bei der zuständigen Direktion angefochten werden.
 
 [^10-1]: BSG 155.21
 
