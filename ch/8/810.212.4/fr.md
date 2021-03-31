@@ -3,11 +3,11 @@ sr: "810.212.4"
 title: "Ordonnance du 16 mars 2007 sur l'attribution d'organes destinés à une transplantation (Ordonnance sur l'attribution d'organes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/281"
 language: fr
-version: 2017-11-15
+version: 2021-04-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20171115/fr/xml/fedlex-data-admin-ch-eli-cc-2007-281-20171115-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20171115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-281-20210401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20171115/fr"
 
 (Ordonnance sur l’attribution d’organes)
 
-du 16 mars 2007 (Etat le 15 novembre 2017)
+du 16 mars 2007 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -65,7 +65,7 @@ Au sens de la présente ordonnance, on entend par:
 Les patients sont inscrits sur la liste d’attente:
 
 - a. si la transplantation répond à une indication médicale;
-- b. si aucune contre-indication médicale durable ne s’y oppose; et
+- b. si aucune contre-indication médicale durable ne s’y oppose, et
 - c. si aucune autre raison médicale n’est susceptible de menacer le succès de la transplantation.
 
 <sup>2</sup> L’inscription du patient sur la liste d’attente présuppose l’accord écrit de celui-ci.
@@ -83,7 +83,7 @@ Les patients sont inscrits sur la liste d’attente:
 Les personnes non domiciliées en Suisse qui n’appartiennent pas à un des groupes visés à l’art. 17, al. 2, let. b et c, de la loi du 8 octobre 2004 sur la transplantation sont inscrites sur la liste d’attente si elles remplissent les conditions fixées à l’art. 3 et si:[^4-1]
 
 - a. elles doivent subir une transplantation qui relève d’une urgence médicale pendant leur séjour en Suisse;
-- b. elles sont tenues de s’assurer en vertu de l’art. 1 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^4-2]; ou si
+- b. elles sont tenues de s’assurer en vertu de l’art. 1 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^4-2], ou si
 - c. elles sont domiciliées dans la zone frontalière et ont été prises en charge médicalement par un hôpital suisse pendant un certain temps.
 
 [^4-1]: Nouvelle teneur selon le ch. I 2 de l’O du 23 mars 2016 sur l’exécution de la législation relative à la transplantation, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1171](https://fedlex.data.admin.ch/eli/oc/2016/218)).
@@ -423,7 +423,7 @@ Sur la base des éléments communiqués par les centres de transplantation, le s
 
 L’hôpital qui effectue le prélèvement ou le centre de transplantation prévient immédiatement le service national des attributions:
 
-- a. s’il apparaît que l’organe ne peut être transplanté avec des chances raisonnables de succès sur le receveur entrant en ligne de compte; ou
+- a. s’il apparaît que l’organe ne peut être transplanté avec des chances raisonnables de succès sur le receveur entrant en ligne de compte, ou
 - b. si la transplantation n’a pas pu être effectuée ou qu’elle a échoué.
 
 <sup>2</sup> Lorsque l’organe peut être transplanté sur une autre personne, le service national des attributions l’attribue au patient correspondant au degré de priorité le plus élevé. Il peut renoncer à consulter les centres de transplantation dans les cas d’urgence.
@@ -446,7 +446,7 @@ L’hôpital qui effectue le prélèvement ou le centre de transplantation prév
 
 Il documente chaque décision en rendant compte:
 
-- a. de manière transparente et compréhensible des motifs qui ont présidé à l’attribution de l’organe à la personne entrant en ligne de compte; et
+- a. de manière transparente et compréhensible des motifs qui ont présidé à l’attribution de l’organe à la personne entrant en ligne de compte, et
 - b. des éventuelles objections émises par les centres de transplantation contre la décision d’attribution.
 
 #### Art. 34
@@ -611,8 +611,10 @@ Ont accès en ligne aux données dans SOAS:
   - 5\. les personnes chargées de déclarer les données relatives au don d’organes par des donneurs vivants;
 
 - c. dans les hôpitaux: les personnes en charge de la coordination locale;
-- d. à l’OFSP: les collaborateurs de la section Transplantation et procréation médicalement assistée en charge de SOAS;
+- d. à l’OFSP: les collaborateurs de la section Transplantation[^34g-1] en charge de SOAS;
 - e. au laboratoire national HLA: les collaborateurs scientifiques.
+
+[^34g-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
 #### Art. 34h
 
@@ -627,18 +629,24 @@ Le service national des attributions est habilité, dans le cadre d’une offre 
 
 **Sécurité des données et documentation**
 
-<sup>1</sup> La sécurité des données est régie par les art. 20 et 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^34i-1] et les dispositions de l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^34i-2] relatives à la sécurité informatique.
+<sup>1</sup>
+
+La sécurité des données est régie par:
+
+- a. les art. 20 et 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^34i-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^34i-2].[^34i-3]
 
 <sup>2</sup> Les accès à SOAS sont documentés.
 
 [^34i-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34i-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^34i-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34i-3]: Nouvelle teneur selon l’annexe ch. 30 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 34j
 
 **Durée de conservation des données**
 
-A l’exception des données visées à l’art. 15*a* de l’ordonnance du 16 mars 2007 sur la transplantation[^34j-1], les données sont conservées durant dix ans dans SOAS.
+À l’exception des données visées à l’art. 15*a* de l’ordonnance du 16 mars 2007 sur la transplantation[^34j-1], les données sont conservées durant dix ans dans SOAS.
 
 [^34j-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
 
@@ -673,7 +681,7 @@ Il met les données personnelles à disposition sous forme anonymisée à moins 
 
 [^34m-1]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
-## Chapitre 4 Echange international d’organes
+## Chapitre 4 Échange international d’organes
 
 #### Art. 35
 

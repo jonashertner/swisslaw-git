@@ -3,11 +3,11 @@ sr: "810.212.4"
 title: Verordnung vom 16. März 2007 über die Zuteilung von Organen zur Transplantation (Organzuteilungsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/281"
 language: de
-version: 2017-11-15
+version: 2021-04-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20171115/de/xml/fedlex-data-admin-ch-eli-cc-2007-281-20171115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20171115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2007-281-20210401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20171115/de"
 
 (Organzuteilungsverordnung)
 
-vom 16. März 2007 (Stand am 15. November 2017)
+vom 16. März 2007 (Stand am 1. April 2021) (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -128,7 +128,7 @@ Die Transplantationszentren müssen die Nationale Zuteilungsstelle unverzüglich
 - a. sich Daten nach Absatz 3 ändern;
 - b. bei einer aufgenommenen Patientin oder einem aufgenommenen Patienten vorübergehende Kontraindikationen für eine Transplantation bestehen oder nicht mehr bestehen.
 
-<sup>5</sup> …[^7-1]
+<sup>5</sup> ...[^7-1]
 
 [^7-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 15. Nov. 2017 ([AS 2017 5663](https://fedlex.data.admin.ch/eli/oc/2017/610)).
 
@@ -609,8 +609,10 @@ Online-Zugriff auf die Daten im SOAS haben:
   - 5\. die für die Meldung von Daten über die Lebendspende von Organen zuständigen Personen;
 
 - c. in den Spitälern: die für die lokale Koordination zuständigen Personen;
-- d. im BAG: die für das SOAS zuständigen Mitarbeiterinnen und Mitarbeiter der Sektion Transplantation und Fortpflanzungsmedizin;
+- d. im BAG: die für das SOAS zuständigen Mitarbeiterinnen und Mitarbeiter der Sektion Transplantation[^34g-1];
 - e. im nationalen HLA-Labor: die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter.
+
+[^34g-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
 
 #### Art. 34h
 
@@ -625,12 +627,18 @@ Die Nationale Zuteilungsstelle kann im Rahmen eines Organangebots an das Ausland
 
 **Datensicherheit und Protokollierung**
 
-<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 der Verordnung vom 14. Juni 1993[^34i-1] zum Bundesgesetz über den Datenschutz und die Bestimmungen zur IKT-Sicherheit in der Bundesinformatikverordnung vom 9. Dezember 2011[^34i-2].
+<sup>1</sup>
+
+Für die Gewährleistung der Datensicherheit gelten:
+
+- a. die Artikel 20 und 21 der Verordnung vom 14. Juni 1993[^34i-1] zum Bundesgesetz über den Datenschutz;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^34i-2].[^34i-3]
 
 <sup>2</sup> Die Zugriffe auf das SOAS werden protokolliert.
 
 [^34i-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34i-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^34i-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34i-3]: Fassung gemäss Anhang Ziff. 30 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 34j
 

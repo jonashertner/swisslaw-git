@@ -3,11 +3,11 @@ sr: "810.212.4"
 title: "Ordinanza del 16 marzo 2007 concernente l'attribuzione di organi per il trapianto (Ordinanza sull'attribuzione di organi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/281"
 language: it
-version: 2017-11-15
+version: 2021-04-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20171115/it/xml/fedlex-data-admin-ch-eli-cc-2007-281-20171115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20171115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/281/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2007-281-20210401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/281/20171115/it"
 
 (Ordinanza sull’attribuzione di organi)
 
-del 16 marzo 2007 (Stato 15 novembre 2017)
+del 16 marzo 2007 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -609,8 +609,10 @@ Hanno accesso online ai dati contenuti in SOAS:
   - 5\. le persone responsabili della notifica di dati sulla donazione di organi da parte di persone viventi;
 
 - c. presso gli ospedali: le persone responsabili del coordinamento a livello locale;
-- d. presso l’UFSP: i collaboratori della Sezione trapianti e medicina della procreazione responsabili di SOAS;
+- d. presso l’UFSP: i collaboratori della Sezione trapianti[^34g-1] responsabili di SOAS;
 - e. presso il laboratorio HLA nazionale: i collaboratori scientifici.
+
+[^34g-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
 #### Art. 34h
 
@@ -625,12 +627,18 @@ Il servizio nazionale di attribuzione può, in caso di offerta di organi all’e
 
 **Sicurezza dei dati e verbalizzazione**
 
-<sup>1</sup> Per garantire la sicurezza dei dati si applicano gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^34i-1] relativa alla legge federale sulla protezione dei dati e le disposizioni in materia di sicurezza TIC dell’ordinanza del 9 dicembre 2011[^34i-2] sull’informatica nell’Amministrazione federale.
+<sup>1</sup>
+
+Per garantire la sicurezza dei dati si applicano:
+
+- a. gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^34i-1] relativa alla legge federale sulla protezione dei dati;
+- b. l’ordinanza del 27 maggio 2020[^34i-2] sui ciber-rischi.[^34i-3]
 
 <sup>2</sup> Gli accessi a SOAS sono verbalizzati.
 
 [^34i-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^34i-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^34i-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^34i-3]: Nuovo testo giusta l’all. n. 30 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 34j
 
