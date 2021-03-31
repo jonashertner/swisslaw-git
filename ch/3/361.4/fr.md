@@ -3,18 +3,18 @@ sr: "361.4"
 title: "Ordonnance du 15 octobre 2008 sur l'index national de police"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: fr
-version: 2019-01-01
+version: 2021-04-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-701-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’index national de police
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> janvier 2019)
+du 15 octobre 2008 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -115,11 +115,11 @@ L’accès en ligne aux données désignées à l’art. 4 est également accord
 
 <sup>3</sup> Les autorisations d’accès aux données sont réglées en annexe.
 
-[^5-1]: Nouvelle teneur selon le ch. 5 de l’annexe 3 à l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
-[^5-2]: Nouvelle teneur selon le ch. II 17 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^5-1]: Nouvelle teneur selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
+[^5-2]: Nouvelle teneur selon le l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^5-3]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
-[^5-5]: Nouvelle teneur selon le ch. 5 de l’annexe 3 à l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
+[^5-5]: Nouvelle teneur selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
 [^5-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 #### Art. 6
@@ -206,12 +206,18 @@ Le conseiller à la protection des données peut utiliser le procès-verbal aux 
 
 **Sécurité des données**
 
-<sup>1</sup> La sécurité des données est garantie par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1], l’ordonnance du 26 septembre 2003 sur l’informatique et la télécommunication dans l’administration fédérale[^12-2], ainsi que les directives du CI du 27 septembre 2004 concernant la sécurité informatique dans l’administration fédérale.
+<sup>1</sup>
+
+La sécurité des données est garantie par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-2].[^12-3]
 
 <sup>2</sup> Les organes rattachés à l’index prennent les mesures nécessaires du point de vue organisationnel et technique, conformément aux dispositions de la législation sur la protection des données, pour empêcher les tiers non autorisés d’accéder aux données.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [[RO 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 al. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)annexe ch. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 al. 1]. Voir actuellement l’O du 9 déc. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)**)**.
+[^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-3]: Nouvelle teneur selon l’annexe ch. 21 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -254,13 +260,13 @@ Annexe*[^t-1]*
 
 ## Droits d’accès à l’index national de police
 
-[^t-1]: Nouvelle teneur selon le ch. II 17 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour selon le ch. 5 de l’annexe 3 à l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), le ch. 9 de l’annexe à l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) et le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 17 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour selon l’annexe 3 ch. 5 de l’O du 4 mars 2011 sur le contrôles de sécurité relatifs aux personnes ([RO 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), l’annexe ch. 9 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) et le ch. II de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
 
 X = accès
 
 vide = pas d’accès
 
-### Etat-major fedpol
+### État-major fedpol
 
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
@@ -284,7 +290,7 @@ vide = pas d’accès
 
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
-<tr><td>Berne, protection de l’Etat</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Berne, protection de l’État</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Berne, terrorisme</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Berne, criminalité économique</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>CCECI</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
@@ -292,7 +298,7 @@ vide = pas d’accès
 <tr><td>Antenne Lausanne</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Antenne Lugano</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Conseiller à la protection des données</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Etat-major opérationnel du procureur général (EMO-PG)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>État-major opérationnel du procureur général (EMO-PG)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
 ### Coopération policière internationale
@@ -307,7 +313,7 @@ vide = pas d’accès
 
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
-<tr><td>Unité Evaluation de la menace</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Unité Évaluation de la menace</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Division Sécurité des personnes</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Commissariat Sécurité des magistrats et des représentations étrangères</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Commissariat Sécurité des visiteurs étrangers</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
@@ -358,15 +364,15 @@ vide = pas d’accès
 
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>
-<tr><td>Coordinateurs d’engagement de la centrale de situation et d’engagement (Etat-major Séc. Mil.)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Coordinateurs d’engagement de la centrale de situation et d’engagement (État-major Séc. Mil.)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Engagement sof des centrales d’engagement (PM Rég)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Of et sof de police judiciaire des centrales d’engagement (PM Rég)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>Police militaire de la circulation, sof des centrales d’engagement (PM Rég)</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>S spéc PM Séc Mil: Détachement de reconnaissance PM et Etat-major</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>S spéc PM Séc Mil: Détachement de reconnaissance PM et État-major</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 <tr><td>PM ter</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
-### Etat-major de l’armée/Chancellerie fédérale
+### État-major de l’armée/Chancellerie fédérale
 
 <table>
 <tr><th></th><th>Identification de personnes</th><th>Date de l’inscription</th><th>Motif de l’inscription</th><th>Autorité compétente</th><th>Source des informations</th></tr>

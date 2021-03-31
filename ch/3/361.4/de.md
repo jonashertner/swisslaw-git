@@ -3,11 +3,11 @@ sr: "361.4"
 title: Verordnung vom 15. Oktober 2008 über den Nationalen Polizeiindex (Polizeiindex-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: de
-version: 2019-01-01
+version: 2021-04-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-701-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20190101/de"
 
 (Polizeiindex-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2019)
+vom 15. Oktober 2008 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -207,12 +207,18 @@ Der oder die Datenschutzbeauftragte kann die Protokollierung zu folgenden Zwecke
 
 **Datensicherheit**
 
-<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Verordnung vom 14. Juni 1993[^12-1] zum Bundesgesetz über den Datenschutz, die Bundesinformatikverordnung vom 26. September 2003[^12-2] sowie die Weisungen des Informatikrates Bund vom 27. September 2004 über die Informatiksicherheit in der Bundesverwaltung.
+<sup>1</sup>
+
+Für die Gewährleistung der Datensicherheit gelten:
+
+- a. die Verordnung vom 14. Juni 1993[^12-1] zum Bundesgesetz über den Datenschutz;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^12-2].[^12-3]
 
 <sup>2</sup> Die angeschlossenen Stellen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
 [^12-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [[AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)Art. 22 Abs. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Anhang Ziff. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)Art. 29 Abs. 1]. Siehe heute: die Bundesinformatikverordnung vom 9. Dez. 2011 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^12-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-3]: Fassung gemäss Anhang Ziff. 21 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 

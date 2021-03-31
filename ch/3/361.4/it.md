@@ -3,18 +3,18 @@ sr: "361.4"
 title: Ordinanza del 15 ottobre 2008 sul Registro nazionale di polizia
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/701"
 language: it
-version: 2019-01-01
+version: 2021-04-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2008-701-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/701/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-701-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/701/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul Registro nazionale di polizia
 
-del 15 ottobre 2008 (Stato 1° gennaio 2019)
+del 15 ottobre 2008 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -111,10 +111,10 @@ Ai dati elencati nell’articolo 4 hanno inoltre accesso per mezzo di una proced
 
 <sup>3</sup> I diritti d’accesso ai dati sono disciplinati nell’allegato.
 
-[^5-1]: Nuovo testo giusta il n. II 17 dell’all. 4 all’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^5-1]: Nuovo testo giusta l’all. 4 n. II 17 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^5-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 [^5-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
-[^5-4]: Nuovo testo giusta il n. 5 dell’all. 3 dell’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone, in vigore dal 1° apr. 2011 ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
+[^5-4]: Nuovo testo giusta l’all. 3 n. 5 dell’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone, in vigore dal 1° apr. 2011 ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)).
 [^5-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
 #### Art. 6
@@ -201,12 +201,18 @@ Il consulente per la protezione dei dati può esaminare il verbale per i seguent
 
 **Sicurezza dei dati**
 
-<sup>1</sup> Per la salvaguardia della sicurezza dei dati si applicano l’ordinanza del 14 giugno 1993[^12-1] relativa alla legge federale sulla protezione dei dati, l’ordinanza del 26 settembre 2003[^12-2] concernente l’informatica e la telecomunicazione nell’Amministrazione federale nonché le istruzioni del CIC del 27 settembre 2004 sulla sicurezza informatica nell’Amministrazione federale.
+<sup>1</sup>
+
+Per la salvaguardia della sicurezza dei dati si applicano:
+
+- a. l’ordinanza del 14 giugno 1993[^12-1] relativa alla legge federale sulla protezione dei dati;
+- b. l’ordinanza del 27 maggio 2020[^12-2] sui ciber-rischi.[^12-3]
 
 <sup>2</sup> I servizi collegati prendono i provvedimenti tecnici e organizzativi necessari conformemente alle disposizioni in materia di protezione dei dati, al fine di impedire l’accesso ai dati alle persone non autorizzate.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [[RU 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 cpv. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)all. n. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 cpv. 1]. Vedi ora l’O del 9 dic. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-3]: Nuovo testo giusta l’all. n. 21 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -248,7 +254,7 @@ Allegato*[^t-1]*
 
 ## Diritti d’accesso al Registro nazionale di polizia
 
-[^t-1]: Nuovo testo giusta il n. II 17 dell’all. 4 all’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dal n. 5 dell’all. 3 all’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), dal n. 9 dell’all. all’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) e dal n. II dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
+[^t-1]: Nuovo testo giusta l’all. 4 n. II 17 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. 3 n. 5 all’O del 4 mar. 2011 sui controlli di sicurezza relativi alle persone ([RU 2011 1031](https://fedlex.data.admin.ch/eli/oc/2011/155)), dal n. 9 dell’all. all’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) e dal n. II dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4613](https://fedlex.data.admin.ch/eli/oc/2018/725)).
 
 X = Accesso
 
