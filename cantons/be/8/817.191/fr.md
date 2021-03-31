@@ -4,13 +4,13 @@ number: "817.191"
 title: Ordonnance sur le contrôle des viandes
 short: OCoV
 language: fr
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-14
+version: 2021-04-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-17
 adopted: 1996-10-23
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/817.191"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1562/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2171/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,13 +19,13 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1562/pdf_file"
 
 (OCoV)
 
-du 23.10.1996 (état au 01.01.2019)
+du 23.10.1996 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
 vu les articles 47, 50 et 69 de la loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels (loi sur les denrées alimentaires, LDAI)[^ingress-1], l'article 42 de l’ordonnance fédérale du 16 décembre 2016 concernant l’abattage d’animaux et le contrôle des viandes (OAbCV)[^ingress-2] et l’article 188, alinéa 1 de l’ordonnance fédérale du 23 avril 2008 sur la protection des animaux (OPAn)[^ingress-3],
 
-sur proposition de la Direction de l'économie publique,
+sur proposition de la Direction de l’économie publique,
 
 arrête:
 
@@ -45,9 +45,9 @@ arrête:
 
 **Surveillance et coordination**
 
-<sup>1</sup> Le Service vétérinaire cantonal exécute, sous la surveillance de l'Office de l'agriculture et de la nature et de la Direction de l'économie publique, les dispositions de la législation sur les denrées alimentaires relevant du champ d'application de la présente ordonnance.
+<sup>1</sup> L'Office des affaires vétérinaires exécute les dispositions de la législation sur les denrées alimentaires relevant du champ d'application de la présente ordonnance.
 
-<sup>2</sup> Le Service vétérinaire cantonal, le Laboratoire cantonal et l'Office du médecin cantonal coordonnent leur activité d'exécution.
+<sup>2</sup> L'Office des affaires vétérinaires, le Laboratoire cantonal et l'Office du médecin cantonal coordonnent leur activité d'exécution.
 
 <sup>3</sup> Pour des tâches de contrôle spéciales, il peut être fait appel à la collaboration d'autres autorités.
 
@@ -59,7 +59,7 @@ arrête:
 
 <sup>1</sup> Le ou la vétérinaire cantonal(e) est l’organe de contrôle dirigeant. Lui sont subordonnés les vétérinaires officiels selon l’article 53 OAbCV, les vétérinaires officiellement chargés de l’inspection du bétail de boucherie et des viandes selon l’article 5 de l’ordonnance fédérale du 16 novembre 2011 concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public[^3-1], ainsi que les auxiliaires officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes selon l’article 54 OAbCV.
 
-<sup>2</sup> Le ou la vétérinaire cantonal(e) dirige le Service vétérinaire cantonal et assume notamment les tâches et les fonctions suivantes:
+<sup>2</sup> Le ou la vétérinaire cantonal(e) dirige l'Office des affaires vétérinaires et assume notamment les tâches et les fonctions suivantes:
 
 - a autorisation pour abattoirs et établissements de traitement du gibier,
 - b décision et coordination d'inspections, de prélèvements d'échantillons et d'analyses confiés aux organes de contrôle,
@@ -79,7 +79,7 @@ arrête:
 
 **2. Organes chargés de l’inspection du bétail de boucherie et des viandes**
 
-<sup>1</sup> Afin d'assurer l’inspection du bétail de boucherie et des viandes, le Service vétérinaire cantonal fixe pour chaque abattoir et établissement de traitement du gibier l’effectif nécessaire de vétérinaires officiels et d’auxiliaires officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes ainsi que de suppléants et suppléantes. Il définit leur cahier des charges.
+<sup>1</sup> Afin d'assurer l’inspection du bétail de boucherie et des viandes, l'Office des affaires vétérinaires fixe pour chaque abattoir et établissement de traitement du gibier l’effectif nécessaire de vétérinaires officiels et d’auxiliaires officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes ainsi que de suppléants et suppléantes. Il définit leur cahier des charges.
 
 <sup>2</sup> Dans les petits établissements ou les établissements situés dans les régions de montagne et les régions périphériques, il peut charger de l’inspection du bétail de boucherie et des viandes des vétérinaires qui ne sont pas officiels.
 
@@ -95,7 +95,7 @@ arrête:
 
 <sup>1</sup> Les exigences, les domaines et la durée des formations de base, qualifiante et continue des organes de contrôle sont régis par l’ordonnance fédérale concernant la formation de base, la formation qualifiante et la formation continue des personnes travaillant dans le secteur vétérinaire public.
 
-<sup>2</sup> Le Service vétérinaire cantonal renseigne sur demande les personnes intéressées quant aux formations qualifiante et continue offertes par l’OSAV aux vétérinaires officiels et aux auxiliaires officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes, ainsi que sur les établissements agréés pour la formation pratique.
+<sup>2</sup> L'Office des affaires vétérinaires renseigne sur demande les personnes intéressées quant aux formations qualifiante et continue offertes par l’OSAV aux vétérinaires officiels et aux auxiliaires officiels affectés au contrôle des animaux avant l’abattage et au contrôle des viandes, ainsi que sur les établissements agréés pour la formation pratique.
 
 <sup>3</sup> …
 
@@ -133,9 +133,9 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions des vétérinaires officiels ou des vétérinaires officiellement chargés de l’inspection du bétail de boucherie et des viandes relatives aux mesures et aux certificats de conformité prévus par la LDAI peuvent être attaquées par voie d’opposition auprès du Service vétérinaire cantonal.
+<sup>1</sup> Les décisions des vétérinaires officiels ou des vétérinaires officiellement chargés de l’inspection du bétail de boucherie et des viandes relatives aux mesures et aux certificats de conformité prévus par la LDAI peuvent être attaquées par voie d’opposition auprès de l'Office des affaires vétérinaires.
 
-<sup>2</sup> Les décisions sur opposition prises par le Service vétérinaire cantonal peuvent être attaquées par voie de recours auprès de la Direction de l'économie publique.
+<sup>2</sup> Les décisions sur opposition prises par l'Office des affaires vétérinaires peuvent être attaquées par voie de recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> Les délais d’opposition et de recours sont régis par la LDAl.
 
@@ -149,7 +149,7 @@ arrête:
 
 <sup>1</sup> …
 
-<sup>2</sup> Le Service vétérinaire cantonal dénonce à l'autorité de poursuite pénale les infractions aux dispositions du droit régissant les denrées alimentaires. Dans les cas d’infraction de peu de gravité, les organes de contrôle peuvent renoncer à dénoncer l’acte.
+<sup>2</sup> L'Office des affaires vétérinaires dénonce à l'autorité de poursuite pénale les infractions aux dispositions du droit régissant les denrées alimentaires. Dans les cas d’infraction de peu de gravité, les organes de contrôle peuvent renoncer à dénoncer l’acte.
 
 ## 7 Dispositions transitoire et finales
 

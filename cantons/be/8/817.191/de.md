@@ -4,13 +4,13 @@ number: "817.191"
 title: Fleischkontrollverordnung
 short: FlKV
 language: de
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-14
+version: 2021-04-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-17
 adopted: 1996-10-23
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/817.191"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1562/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2171/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1562/pdf_file"
 
 (FlKV)
 
-vom 23.10.1996 (Stand 01.01.2019)
+vom 23.10.1996 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -45,9 +45,9 @@ beschliesst:
 
 **Aufsicht und Koordination**
 
-<sup>1</sup> Der Kantonale Veterinärdienst vollzieht unter Aufsicht des Amtes für Landwirtschaft und Natur und der Volkswirtschaftsdirektion die Bestimmungen der Lebensmittelgesetzgebung im Geltungsbereich dieser Verordnung.
+<sup>1</sup> Das Amt für Veterinärwesen vollzieht die Bestimmungen der Lebensmittelgesetzgebung im Geltungsbereich dieser Verordnung.
 
-<sup>2</sup> Der Kantonale Veterinärdienst, das Kantonale Laboratorium und das Kantonsarztamt koordinieren ihre Vollzugstätigkeit.
+<sup>2</sup> Das Amt für Veterinärwesen, das Kantonale Laboratorium und das Kantonsarztamt koordinieren ihre Vollzugstätigkeit.
 
 <sup>3</sup> Für besondere Kontrollaufgaben können weitere Behörden beigezogen werden.
 
@@ -59,7 +59,7 @@ beschliesst:
 
 <sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt ist das leitende Kontrollorgan. Diesem sind die amtlichen Tierärztinnen und Tierärzte nach Artikel 53 VSFK, die Tierärztinnen und Tierärzte mit amtlichem Auftrag zur Schlachttier- und Fleischuntersuchung nach Artikel 5 der eidgenössischen Verordnung vom 16. November 2011 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen[^3-1] sowie die amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung nach Artikel 54 VSFK unterstellt.
 
-<sup>2</sup> Die Kantonstierärztin oder der Kantonstierarzt leitet den Kantonalen Veterinärdienst und hat insbesondere folgende Aufgaben und Befugnisse:
+<sup>2</sup> Die Kantonstierärztin oder der Kantonstierarzt leitet das Amt für Veterinärwesen und hat insbesondere folgende Aufgaben und Befugnisse:
 
 - a Bewilligung für Schlacht- und Wildbearbeitungsbetriebe,
 - b Anordnung und Koordination der Inspektionen, Probenerhebungen und Untersuchungen durch die Kontrollorgane,
@@ -79,7 +79,7 @@ beschliesst:
 
 **2. Organe der Schlachttier- und Fleischuntersuchung**
 
-<sup>1</sup> Der Kantonale Veterinärdienst bestimmt für jeden Schlacht- und Wildbearbeitungsbetrieb die zur Schlachttier- und Fleischuntersuchung erforderliche Anzahl amtlicher Tierärztinnen und Tierärzte, amtlicher Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung sowie Stellvertreterinnen und Stellvertreter. Er legt deren Aufgabenbereich fest.
+<sup>1</sup> Das Amt für Veterinärwesen bestimmt für jeden Schlacht- und Wildbearbeitungsbetrieb die zur Schlachttier- und Fleischuntersuchung erforderliche Anzahl amtlicher Tierärztinnen und Tierärzte, amtlicher Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung sowie Stellvertreterinnen und Stellvertreter. Es legt deren Aufgabenbereich fest.
 
 <sup>2</sup> Er kann in Kleinbetrieben oder Betrieben in Berg- und Randregionen nichtamtliche Tierärztinnen und Tierärzte mit der Schlachttier- und Fleischuntersuchung betrauen.
 
@@ -95,7 +95,7 @@ beschliesst:
 
 <sup>1</sup> Voraussetzungen, Umfang und Dauer der Aus-, Weiter- und Fortbildung der Kontrollorgane richten sich nach der eidgenössischen Verordnung über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen.
 
-<sup>2</sup> Der Kantonale Veterinärdienst orientiert Interessentinnen und Interessenten auf Anfrage über die vom BLV angebotene Weiter- und Fortbildung für die amtlichen Tierärztinnen und Tierärzte und die amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung sowie über die für die praktische Ausbildung zugelassenen Betriebe.
+<sup>2</sup> Das Amt für Veterinärwesen orientiert Interessentinnen und Interessenten auf Anfrage über die vom BLV angebotene Weiter- und Fortbildung für die amtlichen Tierärztinnen und Tierärzte und die amtlichen Fachassistentinnen und Fachassistenten Schlachttier- und Fleischuntersuchung sowie über die für die praktische Ausbildung zugelassenen Betriebe.
 
 <sup>3</sup> …
 
@@ -133,9 +133,9 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Verfügungen der amtlichen Tierärztinnen und Tierärzte oder Tierärztinnen und Tierärzte mit amtlichem Auftrag zur Schlachttier- und Fleischuntersuchung über Massnahmen sowie Bescheinigungen über die Konformität nach LMG können beim Kantonalen Veterinärdienst mit Einsprache angefochten werden.
+<sup>1</sup> Verfügungen der amtlichen Tierärztinnen und Tierärzte oder Tierärztinnen und Tierärzte mit amtlichem Auftrag zur Schlachttier- und Fleischuntersuchung über Massnahmen sowie Bescheinigungen über die Konformität nach LMG können beim Amt für Veterinärwesen mit Einsprache angefochten werden.
 
-<sup>2</sup> Einspracheentscheide des Kantonalen Veterinärdienstes können mit Beschwerde bei der Volkswirtschaftsdirektion angefochten werden.
+<sup>2</sup> Einspracheentscheide des Amtes für Veterinärwesen können mit Beschwerde bei der Wirtschafts-, Energie- und Umweltdirektion angefochten werden.
 
 <sup>3</sup> Die Einsprache- und Beschwerdefristen richten sich nach dem LMG.
 
@@ -149,7 +149,7 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Der Kantonale Veterinärdienst zeigt Widerhandlungen gegen Vorschriften des Lebensmittelrechts der Strafverfolgungsbehörde an. In leichten Fällen können die Kontrollorgane auf eine Strafanzeige verzichten.
+<sup>2</sup> Das Amt für Veterinärwesen zeigt Widerhandlungen gegen Vorschriften des Lebensmittelrechts der Strafverfolgungsbehörde an. In leichten Fällen können die Kontrollorgane auf eine Strafanzeige verzichten.
 
 ## 7 Übergangs- und Schlussbestimmungen
 
