@@ -1,361 +1,469 @@
 ---
 canton: BS
 number: "390.100"
-title: Gesetz betreffend die Bestattungen
+title: Bestattungsgesetz
 short: BestG
 language: de
-version: 2020-07-01
-valid_until: 2021-03-31
-version_adopted: 2019-02-13
+version: 2021-04-01
+version_adopted: 2020-03-11
 adopted: 2020-03-11
 in_force: 2021-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/390.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4914/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5199/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz betreffend die Bestattungen
+# Bestattungsgesetz
 
 Bestattungsgesetz | Bestattungen
 
-Vom 9. Juli 1931 (Stand 1. Juli 2020)
+(BestG)
+
+Vom 11. März 2020 (Stand 1. April 2021)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
-auf den Antrag des Regierungsrates,
+nach Einsichtnahme in den Ratschlag des Regierungsrats Nr. [13.0953.01](http://www.grosserrat.bs.ch/de/geschaefte-dokumente/datenbank?such_kategorie=1&content_detail=200109837) vom 27. August 2019 sowie in den Bericht der Justiz-, Sicherheits- und Sportkommission Nr. [13.0953.02](http://www.grosserrat.bs.ch/de/geschaefte-dokumente/datenbank?such_kategorie=1&content_detail=200109837) vom 12. Februar 2020,
 
-erlässt nachfolgendes Gesetz betreffend das Bestattungs- und Friedhofwesen:
+beschliesst:
 
-## I. Zuständigkeit
+## 1. Allgemeine Bestimmungen
+
+### 1.1 Grundsätze
 
 #### § 1
 
-<sup>1</sup> Bestattungen dürfen nur durch die von den zuständigen Behörden hiezu beauftragten Personen und nur an den von den zuständigen Behörden hiefür bestimmten Plätzen vorgenommen werden.
+**Gegenstand und Zweck**
 
-## II. Friedhofkommission
+<sup>1</sup> Dieses Gesetz regelt das Bestattungs- und Friedhofwesen.
+
+<sup>2</sup> Es bezweckt, die schickliche und pietätvolle Bestattung und Beisetzung von Verstorbenen sicherzustellen.
+
+<sup>3</sup> Der Vielfalt von Bestattungsritualen und persönlichen Bestattungswünschen ist im Rahmen der verfassungsmässigen Grundrechte Rechnung zu tragen.
 
 #### § 2
 
-<sup>1</sup> Zur Beratung im Bereich des Bestattungswesens und zur Mitwirkung bei der Verwaltung der Friedhofsanlagen kann dem zuständigen Departement eine Friedhofskommission beigegeben werden.
+**Friedhöfe und Krematorium**
 
-<sup>2</sup> Aufgaben und Befugnisse dieser Kommission werden vom Regierungsrat auf dem Verordnungswege geregelt.
+<sup>1</sup> Das Betreiben von Friedhöfen ist den Einwohnergemeinden vorbehalten.
 
-<sup>3</sup> Die Landgemeinden können für ihre Friedhöfe eigene Beratungsgremien bezeichnen. Sie können die kantonale Friedhofskommission beratend beiziehen.
+<sup>2</sup> Der Regierungsrat kann Körperschaften, deren Religion oder Weltanschauung andere als die auf den öffentlichen Friedhöfen gebräuchliche Bestattungsrituale vorsieht, die Erstellung eigener Bestattungsplätze auf privatem Areal und unter Gewährung einer minimalen Ruhezeit von 20 Jahren auf ihre eigenen Kosten bewilligen. Sollen solche Bestattungsplätze auf dem Gebiet der Gemeinden Bettingen oder Riehen zu liegen kommen, muss die Zustimmung der jeweiligen Gemeinde vorliegen.
 
-## III. Unentgeltliche Bestattung
+<sup>3</sup> Die Bewilligung kann mit Auflagen und Bedingungen versehen werden. Die Einhaltung aller relevanten gesetzlichen Bestimmungen, insbesondere des Planungs-, Bau-, Umwelt- und Gesundheitsrechts, bleibt vorbehalten.
+
+<sup>4</sup> Der Kanton kann ein Krematorium betreiben. Er kann mit anderen Gemeinwesen Verträge betreffend die Übernahme von Kremationen und Abdankungen abschliessen.
 
 #### § 3
 
-<sup>1</sup> Die Bestattung von Verstorbenen, im Zeitpunkt des Ablebens im Kantonsgebiet wohnhaft gewesenen Personen, erfolgt im Rahmen der Bestimmungen dieses Gesetzes unentgeltlich.
+**Zulässigkeit von Bestattungen und Beisetzungen; Friedhofzwang**
 
-<sup>2</sup> Kümmert sich niemand um die verstorbene Person und ist diese nachweislich mittellos verstorben oder sind keine zur Kostentragung verpflichteten Verwandten vorhanden, erfolgt die Kremation zu Lasten des Kantons, auch wenn kein Anspruch auf unentgeltliche Bestattung besteht.
+<sup>1</sup> Unter Vorbehalt anderslautender gesetzlicher Bestimmungen dürfen Bestattungen und Beisetzungen nur auf Friedhöfen und von den zuständigen Behörden oder von Personen, die von den zuständigen Behörden dazu ermächtigt wurden, vorgenommen werden.
 
-## IV. Bestattungsarten und Bestattungsplätze
+### 1.2 Unentgeltliche Bestattung und Bestattung im Kantonsgebiet gegen Gebühr
 
 #### § 4
 
-**Bestattungsarten**
+**Anspruch auf unentgeltliche Bestattung im Kantonsgebiet**
 
-<sup>1</sup> Als Bestattungsarten gelten grundsätzlich:
+<sup>1</sup> Alle Personen, die zum Zeitpunkt ihres Todes Wohnsitz im Kantonsgebiet hatten, haben Anspruch auf eine entsprechend diesem Gesetz sowie den gestützt darauf erlassenen Bestimmungen unentgeltliche Bestattung und Beisetzung im Kanton.
 
-- 1 Die Erdbestattung (Beisetzung der eingesargten Leiche in einem Erdgrab);
-- 2 Die Kremation (Einäscherung der eingesargten Leiche und Beisetzung der in einer Urne verwahrten Asche in einem Urnengrab oder in einer Urnennische).
-
-<sup>2</sup> Urnen können auch in einem bestehenden Erdgrab beigesetzt werden.
-
-<sup>3</sup> Ausnahmsweise können die zuständige Departementsvorsteherin oder der zuständige Departementsvorsteher beziehungsweise die Präsidentin oder der Präsident einer Landgemeinde die Beisetzung einer Urne ausserhalb eines Friedhofs gestatten, wenn der Nachweis einer pietätvollen Aufbewahrung erbracht wird.
-
-<sup>4</sup> Auf begründetes Gesuch hin kann überdies die Bewilligung erteilt werden, soweit es ethisch verantwortbar ist und die Pietät gewahrt bleibt, die Asche einer verstorbenen Person an einem geeigneten Ort zu verstreuen. Voraussetzung dafür ist, dass die verstorbene Person eine entsprechende schriftliche letztwillige Verfügung hinterlassen hat oder dass die Angehörigen wichtige Gründe dafür glaubhaft darlegen können.
+<sup>2</sup> Ist eine nachweislich mittellose Person ohne Anspruch auf unentgeltliche Bestattung im Kantonsgebiet verstorben und übernimmt niemand die Bestattungskosten oder kann niemand zur Übernahme der Bestattungskosten verpflichtet werden, erfolgt die Bestattung ebenfalls zu Lasten des Kantons.
 
 #### § 5
 
-**Wahl der Bestattungen**
+**Leistungen im Rahmen der unentgeltlichen Bestattung**
 
-<sup>1</sup> Jede im Kantonsgebiet wohnhafte urteilsfähige und über 16 Jahre alte Person ist berechtigt, durch eine bei der zuständigen Stelle zu hinterlegende eigenhändig unterschriebene Erklärung zu bestimmen, nach welcher Art sie im Falle ihres Ablebens im Kantonsgebiet bestattet werden soll.
+<sup>1</sup> Der Anspruch auf unentgeltliche Bestattung umfasst folgende Leistungen:
 
-<sup>2</sup> Diese Erklärung kann nur von der Person, die sie unterzeichnet hat, zurückgezogen werden.
+- a) die Abgabe eines einfachen Sarges einschliesslich der Einsargung und eines einfachen Leichenhemdes oder von Leichentüchern und der rituellen Waschung innerhalb des Kantonsgebiets;
+- b) die Überführung der verstorbenen Person von einem Ort innerhalb des Kantonsgebiets auf einen Friedhof im Kanton Basel-Stadt;
+- c) die Aufbahrung der verstorbenen Person in einem einfachen Aufbahrungsraum;
+- d) die Nutzung der Räume und Einrichtungen für die Abdankungsfeier einschliesslich eines Orgelspiels;
+- e) die Inanspruchnahme eines Erdreihen-, eines Urnenreihen- oder eines Gemeinschaftsgrabes für die Dauer der gesetzlichen Ruhezeit;
+- f) bei Erdbestattungen die Überführung der verstorbenen Person vom Friedhofgebäude zum Grab und deren Beisetzung;
+- g) bei Feuerbestattungen die Einäscherung der verstorbenen Person, die Überführung der Urne vom Krematorium zum Grab und die Beisetzung der Urne sowie
+- h) Leistungen des Bestattungswesens im Rahmen der vorstehenden lit. a bis g.
 
-<sup>3</sup> Gültige Erklärungen sind für die Anordnung der Bestattung verbindlich.
+<sup>2</sup> Sämtliche darüber hinaus gehenden Leistungen sind gebührenpflichtig. Können die Kosten nicht durch den Nachlass gedeckt werden, gehen sie zu Lasten der Bestellerin oder des Bestellers.
 
-<sup>4</sup> Hat die verstorbene Person keine Erklärung abgegeben, so haben ihre nächsten Angehörigen die Bestattungsart zu bestimmen.
-
-<sup>5</sup> Wenn weder eine Erklärung der verstorbenen Person vorliegt, noch eine solche von Angehörigen erhältlich ist, ist die Kremation anzuordnen.
+<sup>3</sup> Die Erklärung über die Inanspruchnahme der Leistungen erfolgt in der Regel im Rahmen der Anmeldung des Todesfalls. Nicht in Anspruch genommene Leistungen verfallen nach erfolgter Beisetzung oder Aushändigung der Asche.
 
 #### § 6
 
-**Orte der Bestattung**
+**Übrige Bestattungen im Kantonsgebiet**
 
-<sup>1</sup> Als Orte der Bestattung sowohl für Erdbestattungen als auch für die Beisetzung von Urnen dienen die öffentlichen Friedhöfe.
+<sup>1</sup> Alle übrigen im Kantonsgebiet verstorbenen Personen sowie verstorbene Bürgerinnen und Bürger der Gemeinden Bettingen und Riehen sowie der Stadt Basel mit letztem Wohnsitz ausserhalb des Kantons haben Anspruch darauf, gegen Bezahlung der Gebühren auf einem Friedhof im Kanton bestattet bzw. beigesetzt zu werden.
 
-<sup>2</sup> Der Regierungsrat ist ermächtigt, religiösen Körperschaften, deren Religion eine andere als die auf den öffentlichen Friedhöfen gebräuchliche Bestattungsart vorschreibt, die Erstellung eigener Bestattungsplätze auf privatem Areal und unter Gewährleistung einer minimalen Ruhefrist von 20 Jahren auf ihre eigenen Kosten zu gestatten. Sollen solche Bestattungsplätze auf dem Gebiet einer Landgemeinde zu liegen kommen, ist der zuständige Gemeinderat anzuhören.
+<sup>2</sup> Andere ausserhalb des Kantonsgebiets verstorbene Personen können nur mit Zustimmung der zuständigen Behörde und gegen Bezahlung der entsprechenden Gebühren auf einem Friedhof im Kantonsgebiet bestattet bzw. beigesetzt werden.
 
-<sup>3</sup> Bei der Erteilung einer Bewilligung sind unter Wahrung der öffentlichen Interessen die für die Erstellung und den Betrieb erforderlichen Vorschriften festzusetzen.
+<sup>3</sup> Die Gemeinden Bettingen und Riehen bestimmen im Rahmen dieses Gesetzes, wer auf ihren gemeindeeigenen Friedhöfen bestattet bzw. beigesetzt werden darf.
 
-<sup>4</sup> Bei Vorliegen wichtiger Gründe kann die zuständige Departementsvorsteherin bzw. der zuständige Departementsvorsteher ausnahmsweise die Beisetzung einer verstorbenen Person, die in der Stadt Basel Wohnsitz hatte, ausserhalb eines Friedhofs auf privatem Boden in der Stadt Basel bewilligen. Die gleiche Befugnis steht der Gemeindepräsidentin oder dem Gemeindepräsidenten einer Landgemeinde innerhalb ihrer Gemeindegrenze zu.
-
-<sup>5</sup> Vor der Bewilligungserteilung für eine Bestattung ausserhalb eines öffentlichen Friedhofes ist abzuklären, ob die Grundwasserverhältnisse eine Bestattung zulassen.
+### 1.3 Zuständigkeiten
 
 #### § 7
 
-**Gräber**
+**Zuständigkeit für das Bestattungswesen**
 
-<sup>1</sup> Auf den öffentlichen Friedhöfen bestehen folgende Gräberarten:
-
-- 1\. Unentgeltlich:
-  - a) Reihengräber für eingesargte Leichen;
-  - b) Reihengräber für Urnen;
-  - c) Gemeinschaftsgräber.
-- 2\. Gegen Entgelt:
-  - a) Familiengräber für eingesargte Leichen und Urnen;
-  - b) Urnennischen;
-  - c) grössere Beisetzungsstätten für Gemeinschaften usw.;
-  - d) Gemeinschaftsgräber mit Namensnennung.
-
-<sup>2</sup> Die Ausmasse der verschiedenen unentgeltlichen Gräber werden vom zuständigen Departement bzw. für Friedhöfe der Landgemeinden vom zuständigen Gemeinderat bestimmt.
-
-<sup>3</sup> Familiengräber werden nur soweit abgegeben, als der verfügbare Grund und Boden dies gestattet. Das Nähere über Art und Grösse der Familiengräber auf den vom Kanton betriebenen Friedhöfen, über die für ihre Benützung geltenden Vorschriften und die dafür zu entrichtenden Gebühren wird vom Regierungsrat auf dem Verordnungswege festgesetzt.
-
-<sup>4</sup> Die Landgemeinden können für die auf ihrem Gebiet gelegenen Friedhöfe eigene Vorschriften über Art und Grösse der Gräber, die Benützung der Friedhofanlagen und die für Familiengräber und für andere Dienstleistungen zu verlangenden Gebühren erlassen.
-
-<sup>5</sup> Durch die Bezahlung der Gebühr für ein Familiengrab wird nur das Recht erworben, darin zu den in der Urkunde angegebenen Bedingungen die zulässige Zahl von Leichen oder Urnen beisetzen zu dürfen; Grund und Boden bleiben Eigentum des Kantons oder der Gemeinde.
+<sup>1</sup> Der Kanton ist für die Aufgaben im Bestattungswesen zuständig.
 
 #### § 8
 
-**Beisetzungen in Reihengräbern**
+**Zuständigkeit für das Friedhofwesen**
 
-<sup>1</sup> Alle Leichen und Urnen, die in unentgeltlichen Reihengräbern beigesetzt werden sollen, sind in fortlaufender Reihenfolge auf dem ihrer Bestattungsart entsprechenden Teil des Friedhofs zu bestatten. Kinder werden nach Möglichkeit in einem separaten Kindergrabfeld beigesetzt. Wünsche der Angehörigen sind womöglich zu berücksichtigen, soweit diese im Rahmen der gesetzlichen Vorschriften liegen.
+<sup>1</sup> Die Einwohnergemeinden sind für die Aufgaben des Friedhofwesens zuständig.
 
-<sup>2</sup> Urnen können auch in einem bereits belegten Reihengrab beigesetzt werden. Es ist eine Mindestruhefrist von fünf Jahren einzuhalten. Das Nähere wird durch Verordnung geregelt.
+<sup>2</sup> Die Gemeinden Bettingen und Riehen erlassen die für ihr Friedhofwesen notwendigen Regelungen. Sie hören die im Kanton für das Bestattungswesen zuständige Behörde vor Erlass und Änderung ihrer eigenen Bestimmungen an.
+
+<sup>3</sup> Die Gemeinden Bettingen und Riehen können gegen entsprechende Vergütung den Kanton mit dem Betrieb, dem Unterhalt und der Verwaltung ihrer gemeindeeigenen Friedhöfe beauftragen.
+
+<sup>4</sup> Können auf den Friedhöfen der Gemeinden Bettingen und Riehen keine weiteren Bestattungen mehr vorgenommen werden, sorgen die Gemeinden Bettingen und Riehen für einen Ersatzfriedhof oder beteiligen sich im entsprechenden Umfang an den Betriebskosten der vom Kanton betriebenen Friedhöfe.
+
+<sup>5</sup> Der Kanton übt die Aufsicht über das Friedhofwesen aus.
+
+## 2. Bestattungswesen
+
+### 2.1 Aufgaben im Bestattungswesen
 
 #### § 9
 
-**Ruhezeit**
+**Aufgaben im Bestattungswesen**
 
-<sup>1</sup> Die Ruhezeit der unentgeltlichen Reihengräber beträgt 20 Jahre. Nach Ablauf dieser Zeit können die Gräber abgeräumt und für eine weitere Ruhezeit von 20 Jahren verwendet werden.
+<sup>1</sup> Das Bestattungswesen umfasst alle für die schickliche und pietätvolle Bestattung und Beisetzung von Verstorbenen nötigen Aufgaben, insbesondere
 
-<sup>2</sup> Beigesetzte Leichen bleiben nach Ablauf der Ruhezeit am Ort. Urnen können ausgegraben werden. In diesem Falle wird die Asche in einem Gemeinschaftsgrab beigesetzt. Wurden bei der Beisetzung Urnen verwendet, die sich auflösen, bleibt die Asche im Boden.
-
-<sup>3</sup> Mit Bewilligung der zuständigen Behörde (Kanton oder Landgemeinden) können noch vorhandene Urnen nach Ablauf der Ruhezeit Hinterbliebenen zur Aufbewahrung übergeben werden. Unter Wahrung der Pietät kann auch auf spezielles Gesuch hin vom zuständigen Departement bzw. vom zuständigen Gemeinderat die Beisetzung oder Ausschüttung einer Urne ausserhalb eines Friedhofareales gestattet werden.
-
-<sup>4</sup> Das Benützungsrecht an einem Familiengrab, an einer grösseren Beisetzungsstätte oder an einer Urnennische ist für die Dauer von mindestens 20 Jahren zu erwerben. Im Falle einer neuen Beisetzung einer Leiche in einem Erdbestattungs-Familiengrab ist das Benützungsrecht, unter entsprechender Kostenfolge, jeweils so zu verlängern, dass eine mindestens zwanzigjährige Ruhezeit gewährleistet ist. Der Regierungsrat oder der zuständige Gemeinderat bestimmt, auf welchen Grabfeldern und zu welchen Konditionen Grabrechte auf Friedhofdauer abgegeben werden.
-
-<sup>5</sup> Das Benützungsrecht an einem Familiengrab kann nach dessen Ablauf gegen Bezahlung der geltenden Gebühren auf eine weitere Dauer von mindestens zehn Jahren verlängert werden.
+- a) den Betrieb, den Unterhalt und die Verwaltung des Krematoriums;
+- b) das Zulassungswesen betreffend Bestatterinnen und Bestatter;
+- c) das Führen der Hinterlegungsstelle für Erklärungen gemäss § 15;
+- d) die Durchführung des Anmeldeverfahrens bei Todesfällen;
+- e) die Ausstellung von Leichenpässen;
+- f) die Vorbereitung und Anordnung von Bestattungen und Beisetzungen;
+- g) die Durchführung sämtlicher Bewilligungsverfahren sowie den Erlass aller nötigen Verfügungen im Bereich des Bestattungswesens sowie
+- h) die Rechnungsführung im Bereich des Bestattungswesens.
 
 #### § 10
 
-**Abgekürzte Ruhezeit**
+**Friedhofkommission**
 
-<sup>1</sup> Der Regierungsrat bzw. die zuständigen Gemeinderäte können bei Mangel an Grund und Boden, und wenn keine hygienischen Bedenken bestehen, die zwanzigjährige Ruhezeit für einen ganzen Friedhof oder Teile davon abkürzen. Die Abkürzung der Mindestruhezeit gibt den Angehörigen der in einem unentgeltlichen Grabe beigesetzten Personen keinerlei Anspruch auf Entschädigung.
+<sup>1</sup> Zur Beratung im Bereich des Bestattungs- und des Friedhofwesens kann der Regierungsrat eine kantonale Friedhofkommission einsetzen.
 
-<sup>2</sup> Für Familiengräber und grössere Beisetzungsstätten erfolgt bei Abkürzung der Ruhezeit eine verhältnismässige Rückvergütung der bezahlten Gebühren.
+<sup>2</sup> Der Regierungsrat regelt die Organisation, die Aufgaben und die Befugnisse der Friedhofkommission durch Verordnung.
+
+<sup>3</sup> Die Friedhofkommission berät die Gemeinden Bettingen und Riehen auf deren Wunsch hin bei Fragen betreffend deren Friedhofwesen.
+
+### 2.2 Bestatterinnen und Bestatter
 
 #### § 11
 
-**…**
+**Zulassung von Bestatterinnen und Bestattern im Kanton Basel-Stadt**
+
+<sup>1</sup> Wer im Kanton Basel-Stadt ein Bestattungsunternehmen betreibt, bedarf einer Bewilligung der zuständigen Behörde.
+
+<sup>2</sup> Die Bewilligung wird erteilt, wenn die Gesuchstellerin oder der Gesuchsteller oder, im Fall einer juristischen Person, die verantwortliche Person, über einen Fachausweis der vom Bundesamt für Industrie, Gewerbe und Arbeit anerkannten Ausbildung mit abschliessender Berufsprüfung für Bestatterinnen und Bestatter und über einen einwandfreien Leumund verfügt. Der Leumund ist mittels Straf- und Betreibungsregisterauszügen, die nicht älter als drei Monate sein dürfen, nachzuweisen.
+
+<sup>3</sup> Die Bewilligungsbehörde entzieht die Bewilligung, wenn:
+
+- a) Tatsachen bekannt werden, aufgrund derer die Bewilligung hätte verweigert werden müssen;
+- b) die gesetzlichen Voraussetzungen, unter denen sie erteilt wurde, nicht mehr erfüllt sind.
+
+<sup>4</sup> Für Bestattungsunternehmen, die im Zeitpunkt des Inkrafttretens dieses Gesetzes die Voraussetzungen gemäss Abs. 2 hiervor nicht erfüllen, gilt eine Übergangsfrist von zwei Jahren ab Inkrafttreten dieses Gesetzes.
+
+<sup>5</sup> Die Bewilligungsbehörde veröffentlicht eine Liste der im Kanton Basel-Stadt zugelassenen Bestatterinnen und Bestattern.
+
+### 2.3 Arten der Bestattung und der Beisetzung
 
 #### § 12
 
-**Publikation der Räumung von Reihengrabfeldern und von verwahrlosten Familiengräbern**
+**Bestattungsarten**
 
-<sup>1</sup> Eine wegen Ablaufs der Ruhezeit oder aus anderen Gründen notwendige Räumung eines Reihengrabfeldes oder eines Friedhofteils ist rechtzeitig zu publizieren. Den Angehörigen ist Gelegenheit zu geben, innert einer angemessenen Frist Grabmäler, Urnen, Pflanzen usw. zu entfernen.
+<sup>1</sup> Zulässig sind Erdbestattungen und Feuerbestattungen.
 
-<sup>2</sup> Nach Ablauf der gesetzten Frist können die Gräber abgeräumt werden. Über die nicht weggenommenen Gegenstände wird frei verfügt.
+<sup>2</sup> Als Erdbestattung gilt die Beisetzung der eingesargten Leiche in einem Erdgrab.
 
-<sup>3</sup> Ebenso ist die beabsichtigte Abräumung eines verwahrlosten Familiengrabes im Kantonsblatt zu publizieren und den Berechtigten Gelegenheit zu geben, sich innert eines Jahres nach Publikation zu melden und ihre Ansprüche geltend zu machen. Meldet sich innert der gesetzten Frist niemand, erlischt das Benützungsrecht entschädigungslos und kann über das Grab weiter verfügt werden.
+<sup>3</sup> Als Feuerbestattung gilt die Einäscherung der eingesargten Leiche im Krematorium.
 
 #### § 13
 
-**Künstlerische und gärtnerische Gestaltung von Gräbern**
+**Beisetzung im Rahmen der Erdbestattung**
 
-<sup>1</sup> Die Aufstellung eines Grabmales oder eines Grabzeichens unterliegt der Bewilligungspflicht der zuständigen Behörde des Kantons oder der Landgemeinden. Das Aufstellungsgesuch ist unter Beilage einer Zeichnung des gewünschten Grabmales mit Angabe seiner Ausmasse und des zu verwendenden Materials inkl. der vorgesehenen Fundierung einzureichen.
-
-<sup>2</sup> Die Anpflanzung und der gärtnerische Unterhalt von Gräbern sind Sache der Angehörigen. Für vom Kanton betriebene Friedhöfe können sie auch dem zuständigen Amt und für von den Landgemeinden betriebene Friedhöfe den zuständigen Gemeindebehörden gegen Entrichtung der vom Regierungsrat bzw. den Landgemeinden festgesetzten Gebühren oder privaten Gartenbauunternehmen in Auftrag gegeben werden. Die kantonalen Gebühren sind kostendeckend festzulegen.
-
-<sup>3</sup> Die näheren Bestimmungen über Form, Grösse und Material der Grabmäler sowie über die Anpflanzung und den gärtnerischen Unterhalt der Gräber werden vom Regierungsrat auf dem Verordnungsweg beziehungsweise von den zuständigen Gemeinderäten erlassen.
-
-<sup>4</sup> Der Regierungsrat bzw. für die Friedhöfe der Landgemeinden die Gemeinderäte können im Interesse der Würde und der Einheitlichkeit des Erscheinungsbildes Vorschriften über die Grösse und die Materialbeschaffenheit der Grabmäler und der Grabzeichen erlassen.
-
-## V. Die Bestattung
+<sup>1</sup> Beisetzungen im Rahmen von Erdbestattungen dürfen nur auf einem Friedhof erfolgen.
 
 #### § 14
 
-**Anspruch auf Bestattung im Kantonsgebiet**
+**Beisetzung nach einer Feuerbestattung**
 
-<sup>1</sup> Die Bestattung ist unentgeltlich für alle verstorbenen Personen, die im Zeitpunkt ihres Ablebens im Kantonsgebiet wohnhaft gewesen sind, auch wenn sie auswärts verstorben sind.
+<sup>1</sup> Der Feuerbestattung kann die Beisetzung der Urne oder der offenen Asche folgen.
 
-<sup>2</sup> Keinen Anspruch auf unentgeltliche Bestattung haben alle übrigen im Kantonsgebiet verstorbenen Personen. Sie können gegen Bezahlung der vom Regierungsrat bzw. von den Gemeinderäten festgesetzten Gebühren auf einem Friedhof im Kanton beigesetzt werden. Die Beisetzung auf einem Friedhof der Landgemeinden kann von deren ausdrücklicher Zustimmung abhängig gemacht werden.
-
-<sup>3</sup> Auswärts wohnhaft gewesene und auswärts verstorbene Bürgerinnen und Bürger von Basel können auf einem Basler Friedhof beigesetzt werden. Die vom Regierungsrat festgesetzten Gebühren sind zu entrichten.
-
-<sup>4</sup> Auswärts wohnhaft gewesene und auswärts verstorbene Bürgerinnen und Bürger der Landgemeinden, die in den betreffenden Landgemeinden wohnhafte Angehörige haben, können mit Bewilligung der zuständigen Gemeindebehörde auf den gemeindeeigenen Friedhöfen beigesetzt werden. Die Gemeinderäte legen die zu bezahlenden Gebühren fest.
+<sup>2</sup> Die Beisetzung von Urnen oder der offenen Asche ausserhalb von Friedhöfen ist zulässig, wenn die Pietät gewahrt wird, die gewünschte Beisetzung oder Ausbringung der Asche weder die Umwelt noch die öffentliche Gesundheit gefährdet und die betroffenen Grundeigentümerinnen und Grundeigentümer zugestimmt haben. Die Verantwortung für die Einhaltung dieser Bedingungen tragen die Angehörigen oder das mit dieser Aufgabe betraute Bestattungsunternehmen.
 
 #### § 15
 
-**Leistungen bei unentgeltlicher Bestattung**
+**Wahl der Bestattungs- und Beisetzungsart**
 
-<sup>1</sup> Für Anspruchsberechtigte gemäss § 14 Abs. 1 sind folgende Leistungen unentgeltlich:
+<sup>1</sup> Die Bestattungs- und Beisetzungsart richtet sich im Rahmen des rechtlich Zulässigen und des tatsächlich Möglichen nach dem Wunsch der verstorbenen Person.
 
-- a) Die Lieferung eines einfachen Sarges inkl. Einsargung und eines einfachen Leichenhemdes;
-- b) die Überführung der verstorbenen Person auf einen Friedhof im Kanton Basel-Stadt;
-- c) die Aufbahrung der verstorbenen Person in einem Aufbahrungsraum;
-- d) die Zurverfügungstellung der Räume und Einrichtungen für die Abdankungsfeier inkl. Orgelspiel;
-- e) die Benützung eines Erd-, Urnenreihen- oder eines anonymen Gemeinschaftsgrabes für die Dauer der gesetzlichen Ruhezeit;
-- f) bei Erdbestattungen die Überführung der verstorbenen Person vom Friedhofgebäude bis zum Grabe und deren Beisetzung;
-- g) bei Kremation die Einäscherung der verstorbenen Person und die Lieferung und Beisetzung der Urne in einem Grabe.
+<sup>2</sup> Jede urteilsfähige Person mit Wohnsitz im Kanton ist berechtigt zu bestimmen, wie sie bestattet und beigesetzt werden soll, und eine entsprechende Erklärung bei der zuständigen Behörde zu hinterlegen. Diese Erklärung kann nur von der Person, die sie unterzeichnet hat, zurückgezogen werden.
 
-<sup>2</sup> Ist der Tod ausserhalb des Kantonsgebietes erfolgt, kann der Kanton auf entsprechendes Gesuch hin einen Beitrag an einen entsprechenden einfachen Sarg entrichten, der in der Höhe dem Preis des einfachen Basler Sarges entspricht. Die Kosten der Einsargung, des Leichenhemdes und der Überführung der verstorbenen Person vom Sterbeort bis auf einen basel-städtischen Friedhof gehen zu Lasten der Hinterlassenschaft.
-
-<sup>3</sup> Soll die im Zeitpunkt ihres Ablebens im Kanton wohnhaft gewesene Person nicht im Kanton Basel-Stadt beigesetzt werden, besteht lediglich Anspruch auf unentgeltliche Lieferung des einfachen Sarges inklusive Einsargung und eines einfachen Leichenhemdes. In diesen Fällen wird kein Beitrag an einen privaten Sarg entrichtet. Soll die verstorbene Person hier kremiert, die Urne aber ausgeführt werden, so erfolgen alle Leistungen bis zur Übergabe der Urne unentgeltlich.
+<sup>3</sup> Gültige Erklärungen sind für die Anordnung der Bestattung und Beisetzung verbindlich, soweit diese unentgeltliche Leistungen des Kantons umfassen, durchführbar sowie kontrollierbar sind und ethischen Grundsätzen nicht widersprechen. Bei gebührenpflichtigen Leistungen sind die Anordnungen für die zuständigen Behörden nur insoweit verbindlich, als die Kostentragung sichergestellt ist.
 
 #### § 16
 
-**Bestattung auswärts verstorbener Personen**
+**Fehlende Erklärung der verstorbenen Person**
 
-<sup>1</sup> Andere als in § 14 aufgeführte verstorbene Personen können nur mit Bewilligung der zuständigen Behörde (Kanton oder Landgemeinden) und gegen Bezahlung der vom Regierungsrat bzw. den Gemeinden festgesetzten Gebühren im Kanton bestattet werden. Für solche Beisetzungen ist das Benützungsrecht an einem Familien- oder Reihengrab zu erwerben.
+<sup>1</sup> Fehlt eine Erklärung der verstorbenen Person, sind die folgenden Personen der Reihe nach berechtigt, über die Bestattungs- und Beisetzungsart der verstorbenen Person zu entscheiden:
+
+- a) wer als Ehegattin, als Ehegatte, als eingetragene Partnerin oder als eingetragener Partner mit der verstorbenen Person einen gemeinsamen Haushalt führte oder ihr regelmässig und persönlich Beistand leistete;
+- b) die Konkubinatspartnerin oder der Konkubinatspartner;
+- c) die Nachkommen über 16 Jahren, wenn sie mit der verstorbenen Person einen regelmässigen persönlichen Kontakt pflegten;
+- d) die Eltern, wenn sie mit der verstorbenen Person einen regelmässigen persönlichen Kontakt pflegten;
+- e) die Geschwister, wenn sie mit der verstorbenen Person einen regelmässigen persönlichen Kontakt pflegten;
+- f) andere nahestehende Personen, wenn sie mit der verstorbenen Person einen regelmässigen persönlichen Kontakt pflegten.
+
+<sup>2</sup> Sind mehrere Personen gleichermassen vertretungsberechtigt, dürfen die zuständigen Behörden ohne gegenteilige Anhaltspunkte davon ausgehen, dass jede im Einverständnis mit der anderen handelt.
+
+<sup>3</sup> Ist innert nützlicher Frist keine Anordnung erhältlich oder widersprechen sich gleichrangige Anordnungen, trifft die zuständige Behörde die erforderlichen Anordnungen unter Berücksichtigung der Traditionen der Religionsgemeinschaft der verstorbenen Person. In der Regel werden die Kremation und die Beisetzung in einem anonymen Gemeinschaftsgrab angeordnet.
+
+### 2.4 Anordnung und Durchführung der Bestattung
 
 #### § 17
 
-**Vertrag mit auswärtigen Behörden**
+**Leichenschau**
 
-<sup>1</sup> Das zuständige Departement ist ermächtigt, mit auswärtigen Behörden Verträge abzuschliessen, wonach die Einäscherung von Leichen auswärts Verstorbener zu besonderen Bedingungen bewilligt wird, wenn sich die Gemeinde des Sterbeortes verpflichtet, die Bezahlung der Gebühren zu übernehmen und die Aschenurnen auf ihrem Friedhof beizusetzen.
+<sup>1</sup> Bei jeder im Kanton verstorbenen Person und jeder im Kanton aufgefundenen Leiche ist in der Regel innert 24 Stunden eine ärztliche Leichenschau vorzunehmen.
+
+<sup>2</sup> Die Ärztin oder der Arzt ermittelt die Todesart aufgrund einer persönlichen Untersuchung und stellt auf dem dafür vorgesehenen amtlichen Formular eine Todesbescheinigung aus.
+
+<sup>3</sup> Die Todesbescheinigung ist unverzüglich der zuständigen Behörde einzureichen, welche die Todesbescheinigung dem für die Beurkundung des Todes zuständigen Zivilstandsamt weiterleitet.
+
+<sup>4</sup> Die Kosten der Leichenschau sind aus dem Nachlass der verstorbenen Person zu bezahlen. Bei Mittellosigkeit trägt der Kanton die Kosten.
+
+<sup>5</sup> Fällt die Leichenschau mit der Legalinspektion gemäss Art. 253 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007 zusammen, trägt der Kanton die Kosten. Vorbehalten bleibt der Kostenentscheid im Strafverfahren.
 
 #### § 18
 
-**Weitergehende Leistungen**
+**Aussergewöhnliche Todesfälle**
 
-<sup>1</sup> Leistungen, die über die in § 15 genannten Ansprüche hinausgehen (z. B. Ausschmückung eines Abdankungsraumes, der Abdankungshalle oder Kapelle usw.), sind nach dem vom Regierungsrat bzw. den Gemeinden festgesetzten Gebührenrahmen zu bezahlen.
+<sup>1</sup> Liegt ein aussergewöhnlicher Todesfall vor, ist die Polizei zu benachrichtigen.
+
+<sup>2</sup> Sind die Todesumstände einer verstorbenen Person Gegenstand eines laufenden Ermittlungsverfahrens oder einer laufenden Strafuntersuchung, entscheidet die verfahrensleitende Behörde über die Bestattungsfreigabe. In den übrigen Fällen entscheidet die Direktion des Instituts für Rechtsmedizin darüber, ob die verstorbene Person ohne weitere Untersuchung zur Bestattung freigegeben werden kann oder ob eine Obduktion durchzuführen ist.
 
 #### § 19
 
-**Privatsarg**
+**Anzeigepflicht bei Todesfällen**
 
-<sup>1</sup> Anstelle des unentgeltlichen einfachen Sarges kann auch ein anderer Sarg verwendet werden. Dessen Anschaffungskosten gehen vollständig zu Lasten der Hinterlassenschaft. Privatsärge müssen den vom zuständigen Departement erlassenen Vorschriften entsprechen.
+<sup>1</sup> Die Pflicht zur Anzeige von Todesfällen richtet sich nach den Bestimmungen der eidgenössischen Zivilstandsverordnung (ZStV) vom 28. April 2004.
 
-<sup>2</sup> Abs. 1 gilt nicht für Verstorbene, die gemäss § 15 Abs. 2 hievor Anspruch auf einen Beitrag an einen Privatsarg haben.
-
-## VI. Anordnung und Durchführung der Bestattungen
+<sup>2</sup> Wird ein Todesfall angemeldet, leitet die zuständige Behörde die für Bestattung und Beisetzung erforderlichen Massnahmen ein.
 
 #### § 20
 
-**Anordnung und Durchführung der Bestattung**
+**Zeitpunkt der Bestattung**
 
-<sup>1</sup> Das zuständige Amt leitet die für eine Bestattung erforderlichen Massnahmen ein.
+<sup>1</sup> Die Bestattung darf erst erfolgen, wenn der Todesfall dem Zivilstandsamt gemeldet wurde und die zuständige Behörde gestützt auf die Todesbescheinigung die Bewilligung dazu erteilt hat.
 
-<sup>2</sup> Liegt eine Erklärung der verstorbenen Person über die Bestattungsart gemäss § 5 dieses Gesetzes oder über weitere Bestattungsbegehren vor, ist das zuständige Amt bei der Anordnung der Bestattung auf Kantonsgebiet an die darin enthaltenen Anweisungen gebunden, soweit diese unentgeltliche Leistungen des Kantons betreffen und durchführbar und kontrollierbar sind und nicht den guten Sitten widersprechen. Eine Hinterlegung dieser Erklärung erfolgt gemäss den Vorschriften des § 5.
+<sup>2</sup> In begründeten Fällen kann die zuständige Behörde eine Bestattung auch vor der Meldung des Todesfalls an das Zivilstandsamt bewilligen.
 
-<sup>3</sup> Liegt keine Erklärung vor, erfolgt die Durchführung der Bestattung gemäss den Anträgen der Personen, die um die Vornahme der Bestattung nachsuchen. Werden von verschiedenen Personen widersprechende Anträge gestellt, ist den Anträgen derjenigen Personen Folge zu geben, die nach den bundesrechtlichen Vorschriften in erster Linie zur Anzeige des Todesfalles verpflichtet sind.
-
-<sup>4</sup> Sucht niemand um die Bestattung nach, trifft das zuständige Amt innert nützlicher Zeit die erforderlichen Anordnungen.
+<sup>3</sup> Die Bestattung soll in der Regel innert längstens sieben Tagen nach Eintreten des Todes stattfinden.
 
 #### § 21
 
-**Bestattungsausweise und Leichenschau**
+**Publikation und Datenschutz**
 
-<sup>1</sup> Es darf keine Bestattung vorgenommen werden, bevor der Todesfall im Zivilstandsregister eingetragen ist und ohne dass eine aufgrund einer Leichenschau ausgestellte ärztliche Todesbescheinigung vorliegt.
+<sup>1</sup> Hat die verstorbene Person oder die nach § 16 anordnungsberechtigte Person zugestimmt, veröffentlicht die zuständige Behörde rechtzeitig vor der Bestattung die Personalien der verstorbenen Person sowie Zeit und Ort der Abdankung.
 
-<sup>2</sup> Die zuständigen amtsärztlichen Dienste können in Ausnahmefällen die Weisung erteilen, dass eine Leiche zu bestatten sei, bevor der Tod im Zivilstandsregister eingetragen ist. Von einer solchen Weisung haben sie die zuständige Zivilstandsbehörde schriftlich in Kenntnis zu setzen.
+<sup>2</sup> Die Publikation erfolgt im Internet.
 
-<sup>3</sup> Nach Eintritt des Todes ist unverzüglich durch eine Ärztin oder einen Arzt mit Praxisbewilligung im Kanton Basel-Stadt oder in einem umliegenden Kanton die Leichenschau vorzunehmen. Einer freipraktizierenden Ärztin oder einem freipraktizierenden Arzt sind Spitalärztinnen und -ärzte gleichgestellt, die im Rahmen ihrer Tätigkeit zu einem Todesfall gerufen werden. Die oder der den Tod feststellende Ärztin oder Arzt hat zuhanden der zuständigen Zivilstandsbehörde die vorgeschriebene Todesbescheinigung auszustellen.
+### 2.5 Transporte von Leichen und Asche Verstorbener; Leichenpässe
 
 #### § 22
 
-**Amtsärztliche Kontrolle**
+**Bewilligung und Meldung von Transporten**
 
-<sup>1</sup> Liegt ein gewaltsamer Tod vor oder ist ein solcher zu vermuten, ist die Polizei beizuziehen.
-
-<sup>2</sup> Ist bei einem unerwarteten Tod die Todesursache unklar oder ist der Todeshergang aufgrund der Umstände zweifelhaft, ist der zuständige amtsärztliche Dienst zu benachrichtigen.
-
-<sup>3</sup> Sind die Todesumstände einer verstorbenen Person Gegenstand einer laufenden Strafuntersuchung, entscheidet die verfahrensleitende Behörde über die Bestattungsfreigabe. In den übrigen Fällen entscheidet der amtsärztliche Dienst darüber, ob die verstorbene Person ohne weitere Untersuchung zur Bestattung freigegeben werden kann oder ob eine Obduktion durchzuführen ist.
+<sup>1</sup> Die Einfuhr eines Leichnams oder der Asche einer verstorbenen Person in den Kanton Basel-Stadt zum Zweck der Bestattung und Beisetzung auf einem Friedhof im Kanton bedarf der Bewilligung der zuständigen Behörde.
 
 #### § 23
 
-**…**
+**Einsargungs- und Versiegelungsprotokoll**
+
+<sup>1</sup> Leichenpässe gemäss § 24 werden nur bei Vorliegen eines Einsargungs- und Versiegelungsprotokolls ausgestellt.
+
+<sup>2</sup> Das Einsargungs- und Versiegelungsprotokoll muss mindestens folgende Angaben enthalten:
+
+- a) die Personalien der verstorbenen Person (namentlich Vorname, Name, Geburtsdatum, Staatsangehörigkeit, Wohnort);
+- b) Ort und Datum des Todes;
+- c) die Angabe, ob der Leichnam infektiös ist oder nicht;
+- d) Bestimmungsort der Überführung;
+- e) Angaben über den Inhalt des Sarges sowie
+- f) Angaben über das Verschliessen und Versiegeln des Sarges.
+
+<sup>3</sup> Das Einsargungs- und Versiegelungsprotokoll ist von einer im Kanton Basel-Stadt zugelassenen Bestatterin oder einem im Kanton Basel-Stadt zugelassenen Bestatter zu erstellen und zu unterschreiben. Sie bzw. er ist dafür verantwortlich, dass der Sarg korrekt verschlossen und mit einem Siegel versehen wurde.
+
+<sup>4</sup> Die Bestatterin oder der Bestatter ist ermächtigt, für die Ausstellung eines Einsargungs- und Versiegelungsprotokolls eine Gebühr gemäss der Verordnung über Gebühren im Bestattungswesen vom 14. Dezember 2004 zu erheben.
 
 #### § 24
 
-**Einsargung**
+**Ausstellung von Leichenpässen**
 
-<sup>1</sup> Vor der Leichenschau darf die Leiche nicht eingesargt werden. Der Sarg soll bis zur Abholung in die Leichenhalle geöffnet bleiben.
+<sup>1</sup> Die zuständige Behörde stellt nur Leichenpässe für im Kanton Basel-Stadt verstorbene Personen aus. Für Personen mit letztem Wohnsitz im Kanton Basel-Stadt, die ausserkantonal in der Schweiz verstorben sind, kann im Kanton Basel-Stadt ein Leichenpass ausgestellt werden, wenn eine Bestatterin oder ein Bestatter mit Zulassungsbewilligung im Kanton Basel-Stadt das Einsargungs- und Versiegelungsprotokoll erstellt hat.
+
+## 3. Friedhofwesen
+
+### 3.1 Grundsatz
 
 #### § 25
 
-**Überführung der Leiche nach dem Friedhof**
+**Aufgaben im Friedhofwesen**
 
-<sup>1</sup> Die Überführung der Leiche nach dem Friedhof soll möglichst bald nach eingetretenem Tode erfolgen. Sie wird durch das zuständige Amt zu der mit den Angehörigen vereinbarten Zeit besorgt.
+<sup>1</sup> Das Friedhofwesen umfasst alle für den Betrieb, den Unterhalt und die Verwaltung der öffentlichen Friedhöfe nötigen Aufgaben, insbesondere:
+
+- a) die Vornahme von Beisetzungen;
+- b) die Abgabe von Gräbern;
+- c) die Führung der Grab-, Bestattungs- und Friedhofregister sowie der Belegungspläne;
+- d) die Friedhofplanung;
+- e) die Rechnungsführung im Bereich des Friedhofwesens;
+- f) die Pflege der Friedhofanlagen einschliesslich der Staatsgräber;
+- g) der Erlass von Bewilligungen und anderen Verfügungen im Zusammenhang mit dem Betrieb, dem Unterhalt und der Verwaltung der öffentlichen Friedhöfe sowie
+- h) die Pflege und Weiterentwicklung der Bestattungsrituale.
+
+### 3.2 Gräber
 
 #### § 26
 
-**Aufbahrung in der Leichenhalle**
+**Grabarten**
 
-<sup>1</sup> Bis zur Bestattung wird die Leiche in der Leichenhalle aufgebahrt. Die Aufbahrung erfolgt in einzelnen Zellen, in denen der Sarg bis eine halbe Stunde vor der Bestattung offen bleibt.
+<sup>1</sup> Der Regierungsrat bzw. das zuständige Gemeindeorgan regelt die Grabarten, die zur Verfügung gestellt werden.
 
-<sup>2</sup> Nichtinfektiöse Leichen können während ihrer Aufbahrung in der Leichenhalle besichtigt werden, soweit dies den Wünschen der Angehörigen entspricht. Die letzteren haben zu diesem Zwecke bei der Anmeldung des Todesfalles zu erklären, ob die Leiche allgemein oder nur gegen Ausweiskarten oder überhaupt nicht besichtigt werden darf.
-
-<sup>3</sup> Infektiöse Leichen können auf Weisung des Gesundheitsamtes[^26-1] in besonderen der Besichtigung nicht zugänglichen Räumen untergebracht werden.
-
-[^26-1]: § 26 Abs. 3: Umbenennung des «Gesundheitsamtes» in «Gesundheitsdienste» gemäss RRB vom 28. 11. 2000; erneute Umbenennung in «Medizinische Dienste» gemäss RRB vom 22. 12. 2015.
+<sup>2</sup> Diese Kompetenz kann an das zuständige Departement delegiert werden.
 
 #### § 27
 
-**Belassung der Leiche im Sterbehause**
+**Ruhezeit und Räumung von Gräbern**
 
-<sup>1</sup> Eine nichtinfektiöse Leiche kann bis zur Bestattung für eine Dauer von höchstens 72 Stunden im Sterbehause belassen werden, wenn die Aufbahrung keinen Anlass zu hygienischen Bedenken gibt. Die Leiche ist in einem besonderen Zimmer unterzubringen.
+<sup>1</sup> Die Ruhezeit beträgt 20 Jahre.
 
-<sup>2</sup> Wird die Leiche im Sterbehause belassen, erfolgt die Überführung nach dem Friedhof in der Regel ohne Leichengeleite unmittelbar vor der Bestattung.
+<sup>2</sup> Der Regierungsrat bzw. das zuständige Gemeindeorgan kann die Ruhezeit für einzelne Grabarten verlängern. Bei einem Mangel an Grund und Boden kann die gesetzliche Ruhezeit für die Zeit des Mangels für sämtliche Grabstätten verkürzt werden.
+
+<sup>3</sup> Nach Ablauf der Ruhezeit können Gräber abgeräumt und erneut verwendet werden. Beigesetzte Leichen und Urnen aus sich auflösendem Material verbleiben nach Ablauf der Ruhezeit in der Regel am Ort; andere Urnen können ausgegraben werden.
+
+<sup>4</sup> Die Räumung von Grabfeldern ist vorgängig zu publizieren und es ist eine angemessene Frist einzuräumen, damit Angehörige Grabmäler, Urnen und weitere Gegenstände abholen können.
+
+<sup>5</sup> Nach Ablauf der Frist kann die zuständige Behörde die Gräber räumen und frei über die nicht abgeholten Gegenstände verfügen. Nicht abgeholte Asche wird in einem Gemeinschaftsgrab beigesetzt.
 
 #### § 28
 
-**Leichengeleite**
+**Exhumierung**
 
-<sup>1</sup> Das Leichengeleite besammelt sich in der Regel auf dem Friedhof und folgt der Leiche von der Aufbahrungshalle bis zum Grabe.
+<sup>1</sup> Erdbestattete Leichname dürfen vor Ablauf der Ruhezeit nicht ausgegraben werden.
 
-<sup>2</sup> Bei Kremationen wird die Leiche aus der Leichenhalle direkt in das Krematorium verbracht, wobei sich das Leichengeleite bei der Urnenübergabe auf dem Friedhof besammelt.
+<sup>2</sup> Die zuständige Behörde kann Ausnahmen bewilligen, wenn ausserordentliche Gründe vorliegen und die anderweitige Bestattung des Leichnams gewährleistet ist.
 
-<sup>3</sup> Für Leichengeleite, die vom Sterbehause aus direkt nach dem Friedhof erfolgen, gehen die Mehrkosten zu Lasten der Personen, auf deren Veranlassung hin die Leiche im Sterbehause belassen wurde.
+<sup>3</sup> Anordnungen der Strafverfolgungsbehörden und Gerichte bleiben vorbehalten.
 
-## VII.
+<sup>4</sup> Der Regierungsrat regelt die Voraussetzungen der ausnahmsweisen Ausgrabung eines Leichnams nach Ablauf der Ruhezeit sowie der Ausgrabung von Urnen in den Ausführungsbestimmungen.
 
 #### § 29
 
-**Umweltschutz**
+**Bewilligungspflicht für Grabmäler**
 
-<sup>1</sup> Der Regierungsrat kann zur Reduktion von vermeidbaren Schadstoffemissionen Vorschriften betreffend Material und Ausstattung der Särge sowie der Bekleidung der Leichen erlassen.
-
-#### § 29a
-
-**Bewilligung für Bestattungsunternehmen**
-
-<sup>1</sup> Wer im Kanton ein Bestattungsunternehmen betreiben will, bedarf einer Bewilligung des zuständigen Departementes.
-
-<sup>2</sup> Diese Bewilligung wird erteilt, wenn die Gesuchstellerin oder der Gesuchsteller bzw. die verantwortliche Person einer juristischen Person im Besitze des Fachausweises der vom BIGA anerkannten Ausbildung mit abschliessender Berufsprüfung für Bestatterinnen und Bestatter ist und über einen guten Leumund verfügt.
-
-<sup>3</sup> Im Zeitpunkt der Wirksamkeit der Gesetzesänderung im Kanton domizilierte Bestattungsunternehmen dürfen ihre Tätigkeit weiter ausüben.
+<sup>1</sup> Die Erstellung von Grabmälern, ihre Entfernung sowie sämtliche Arbeiten an und im Zusammenhang mit Grabmälern sind bewilligungspflichtig.
 
 #### § 30
 
-**Wirksamkeit des Gesetzes**
+**Gestaltung und gärtnerischer Unterhalt von Grabstätten**
 
-<sup>1</sup> Vorstehendes Gesetz tritt mit der Eröffnung des neuen Friedhofs auf dem Hörnli in Wirksamkeit.[^30-1]
+<sup>1</sup> Der Regierungsrat bzw. das zuständige Gemeindeorgan kann im Interesse der Würde und der Einheitlichkeit des Erscheinungsbildes Vorschriften über die Form, die Grösse, das Material und die Gestaltung der Grabmäler sowie über das entsprechende Bewilligungsverfahren erlassen. Ebenso können für öffentliche Friedhöfe Vorschriften über die Anpflanzung und den gärtnerischen Unterhalt der Grabstätten erlassen werden.
 
-<sup>2</sup> Auf diesen Zeitpunkt werden das Gesetz betreffend die Bestattungen (vom 16. November 1885), der Grossratsbeschluss betreffend die Feuerbestattung (vom 17. November 1890) und der Grossratsbeschluss betreffend Erleichterung der Feuerbestattung (vom 15. Oktober 1925) aufgehoben.
+<sup>2</sup> Die Anpflanzung und der gärtnerische Unterhalt der Grabstätten sind grundsätzlich Sache der Angehörigen. Es können Vorschriften erlassen werden, wonach Anpflanzung und gärtnerischer Unterhalt bei bestimmten Grabarten zwingend durch die zuständige Behörde gegen Gebühr zu erfolgen haben.
 
-<sup>3</sup> Soweit die bisherigen Friedhöfe noch benützt werden, werden über ihre Verwendung und die Durchführung der Bestattungen besondere Verordnungen und Reglemente erlassen.
-
-[^30-1]: § 30 Abs. 1: Eröffnung des Friedhofs am 1. 6. 1932.
+<sup>3</sup> Auf öffentlichen Friedhöfen können die Anpflanzung und der gärtnerische Unterhalt den zuständigen Behörden gegen Entrichtung der dafür vorgesehenen Gebühren in Auftrag gegeben werden.
 
 #### § 31
 
-**Vollziehungs-Verordnungen**
+**Verwahrloste Grabstätten**
 
-<sup>1</sup> Der Regierungsrat wird zum Erlass der zum Vollzug des vorstehenden Gesetzes notwendigen Verordnungen ermächtigt.
+<sup>1</sup> Verwahrloste Grabstätten werden für die Dauer eines Jahres ausgeschildert.
+
+<sup>2</sup> Nach Ablauf dieser Frist räumt die zuständige Behörde die individuelle Anpflanzfläche und kann auf Kosten der Angehörigen eine Dauerbepflanzung anlegen.
+
+<sup>3</sup> Lassen sich bei Familiengräbern anhand des Friedhofregisters und trotz Ausschilderung keine Nutzungsberechtigten mehr feststellen, sind die entsprechenden Gräber im Kantonsblatt auszuschreiben. Werden innerhalb eines Jahres seit der Ausschreibung keine Ansprüche geltend gemacht, fallen diese Gräber entschädigungslos an das für den Friedhof zuständige Gemeinwesen zurück, das unter Berücksichtigung allfälliger Ruhezeiten darüber verfügen kann.
 
 #### § 32
 
-**Strafbestimmungen**
+**Grabnutzungsrechte auf Friedhofdauer**
 
-<sup>1</sup> Wer den Vorschriften dieses Gesetzes und seiner Ausführungsbestimmungen zuwiderhandelt, wird mit Busse bestraft.
+<sup>1</sup> Lassen sich bei auf Friedhofdauer vergebenen Grabnutzungsrechten nach Ablauf von 20 Jahren seit der letzten Beisetzung anhand des Friedhofregisters keine Nutzungsberechtigten mehr feststellen, sind die entsprechenden Gräber im Kantonsblatt auszuschreiben.
 
-Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum.
+<sup>2</sup> Werden innerhalb eines Jahres seit der Ausschreibung im Kantonsblatt keine Ansprüche geltend gemacht, fallen diese Gräber entschädigungslos an das für den Friedhof zuständige Gemeinwesen zurück, welches darüber verfügen kann.
 
-KB 15.07.1931
+## 4. Gebühren
+
+#### § 33
+
+**Erhebung**
+
+<sup>1</sup> Für die Einräumung von Grabnutzungsrechten sowie für die von den zuständigen Behörden im Bereich des Bestattungs- und Friedhofwesens erbrachten Amtshandlungen, Dienstleistungen und gelieferten Waren werden Gebühren erhoben, soweit dieses Gesetz oder dessen Ausführungsbestimmungen nichts anderes vorsehen.
+
+<sup>2</sup> Die Gebühren werden grundsätzlich dem Nachlass der verstorbenen Person auferlegt. Können die Kosten nicht oder nicht vollumfänglich durch den Nachlass gedeckt werden, gehen sie zu Lasten der Bestellerin oder des Bestellers.
+
+<sup>3</sup> Der Regierungsrat bestimmt die Gebühren in einer Verordnung.
+
+## 5. Vollzug
+
+#### § 34
+
+**Wiederherstellung des rechtmässigen Zustands; Ersatzvornahme**
+
+<sup>1</sup> Wird gegen Bestimmungen dieses Gesetzes oder dessen Ausführungsbestimmungen verstossen, ordnet die zuständige Behörde die nötigen Massnahmen zur Beendigung des Verstosses oder zur Einhaltung der Vorschriften an.
+
+<sup>2</sup> Die zuständige Behörde kann den rechtswidrigen Zustand auf Kosten der Pflichtigen beseitigen oder beseitigen lassen, wenn:
+
+- a) es zur Abwendung von Schäden, Störungen oder Gefahren nötig ist;
+- b) Anordnungen nicht möglich oder nicht Erfolg versprechend sind oder
+- c) ihre Anordnungen nicht befolgt werden.
+
+<sup>3</sup> Bei wiederholten Verstössen gegen die Bestimmungen dieses Gesetzes oder dessen Ausführungsbestimmungen durch einen Gewerbebetrieb kann die zuständige Behörde diesen oder die betreffende Mitarbeiterin oder den betreffenden Mitarbeiter zeitweise von der gewerblichen Tätigkeit auf den Basler Friedhöfen ausschliessen.
+
+#### § 35
+
+**Strafbestimmung**
+
+<sup>1</sup> Wer den Vorschriften dieses Gesetzes, dessen Ausführungsbestimmungen und den gestützt darauf erlassenen Verfügungen zuwiderhandelt, wird mit Busse bestraft.
+
+#### § 36
+
+**Haftung**
+
+<sup>1</sup> Für Unfälle und Sachschäden haftet das für den jeweiligen Friedhof zuständige Gemeinwesen nur insoweit, als eine gesetzliche Haftpflicht besteht.
+
+## 6. Rechtspflege
+
+#### § 37
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Verfügungen der kantonalen Behörde betreffend Grabmäler kann innert 30 Tagen seit der Eröffnung der Verfügung schriftlich begründet Einsprache bei der Leiterin oder beim Leiter der Stadtgärtnerei erhoben werden.
+
+<sup>2</sup> Gegen alle anderen gestützt auf dieses Gesetz oder dessen Ausführungsbestimmungen erlassenen Verfügungen der kantonalen Behörde sowie gegen Einspracheentscheide nach Absatz 1 hiervor kann gemäss den §§ 41 ff. des Gesetzes betreffend die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Stadt (Organisationsgesetz, OG) vom 22. April 1976 an das zuständige Departement rekurriert werden.
+
+<sup>3</sup> Die Gemeinden Bettingen und Riehen ordnen das Rekursverfahren selber. Gegen letztinstanzliche Verfügungen und Entscheide der zuständigen Gemeindebehörden kann gemäss den Bestimmungen des Gemeindegesetzes vom 17. Oktober 1984 und des Organisationsgesetzes an den Regierungsrat rekurriert werden.
+
+## 7. Schlussbestimmungen
+
+#### § 38
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die zu diesem Gesetz nötigen Ausführungsbestimmungen.
+
+#### § 39
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Bei Inkrafttreten dieses Gesetzes hängige erstinstanzliche Verfahren unterstehen dem neuen Recht.
+
+<sup>2</sup> Rechtsmittelverfahren unterstehen dem Recht, das für den erstinstanzlichen Entscheid massgebend war.
+
+*Schlussbestimmung*
+
+Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens. Auf den gleichen Zeitpunkt wird das Gesetz betreffend die Bestattungen vom 9. Juli 1931 aufgehoben.
+
+KB 14.03.2020
