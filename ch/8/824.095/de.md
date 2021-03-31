@@ -3,18 +3,18 @@ sr: "824.095"
 title: Verordnung vom 20. August 2014 über das Informationssystem des Zivildienstes
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2014-482-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-482-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Informationssystem des Zivildienstes
 
-vom 20. August 2014 (Stand am 1. Januar 2021)
+vom 20. August 2014 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -188,7 +188,7 @@ Die Datensicherheit richtet sich nach:
 
 - a. den Artikeln 8–12 der Verordnung vom 14. Juni 1993[^11-1] zum Bundesgesetz über den Datenschutz;
 - b.[^11-2] der Cyberrisikenverordnung vom 27. Mai 2020[^11-3];
-- c.[^11-4] den Weisungen des Bundesrates vom 16. Januar 2019[^11-5] über die IKT-Sicherheit in der Bundesverwaltung.[^11-6]
+- c.[^11-4] ... [^11-5]
 
 <sup>2</sup> Die nach Artikel 7 berechtigten Behörden und privaten Personen und Institutionen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, damit ihre Personendaten vor Verlust, vor Entwendung und gegen unbefugte Bearbeitung oder Kenntnisnahme geschützt sind.
 
@@ -197,11 +197,10 @@ Die Datensicherheit richtet sich nach:
 <sup>4</sup> Es sorgt dafür, dass automatisch protokolliert wird, welche Benützerin oder welcher Benützer zu welchem Zeitpunkt den aktuellen Datenstand herbeigeführt hat.
 
 [^11-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: Fassung gemäss Anhang Ziff. 19 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^11-2]: Fassung gemäss Anhang Ziff. 31 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^11-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-4]: Fassung gemäss Anhang Ziff. 19 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^11-5]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^11-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-4]: Aufgehoben durch Anhang Ziff. 31 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
 
 ## 4. Abschnitt: Aufbewahrung, Archivierung und Statistik
 

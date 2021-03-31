@@ -3,18 +3,18 @@ sr: "824.095"
 title: "Ordonnance du 20 août 2014 sur le système d'information du service civil"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-482-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-482-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le système d’information du service civil
 
-du 20 août 2014 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 août 2014 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -187,7 +187,7 @@ La sécurité des données est régie par les dispositions suivantes:
 
 - a. les art. 8 à 12 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^11-1];
 - b.[^11-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-3];
-- c.[^11-4] les directives du Conseil fédéral du 16 janvier 2019 concernant la sécurité informatique dans l’administration fédérale[^11-5].[^11-6]
+- c.[^11-4] …[^11-5]
 
 <sup>2</sup> Les autorités, les particuliers et les institutions privées autorisées en vertu de l’art. 7 prennent les mesures organisationnelles et techniques requises, conformément au droit de la protection des données, afin de protéger les données personnelles contre toute perte ou tout vol et contre tout traitement ou consultation non autorisés.
 
@@ -196,11 +196,10 @@ La sécurité des données est régie par les dispositions suivantes:
 <sup>4</sup> Il veille à l’établissement automatique d’un historique indiquant quel est l’utilisateur à l’origine de l’état des données du moment et quand il est intervenu.
 
 [^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: Nouvelle teneur selon l’annexe ch. 19 de l’O du 25 nov. 2020 sur la coordination de la transformation numérique et la gouvernance de l’informatique dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^11-2]: Nouvelle teneur selon l’annexe ch. 31 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^11-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-4]: Nouvelle teneur selon l’annexe ch. 19 de l’O du 25 nov. 2020 sur la coordination de la transformation numérique et la gouvernance de l’informatique dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^11-5]: [FF 2019 1283](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^11-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-4]: Abrogée par l’annexe ch. 31 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
 
 ## Section 4 Conservation, archivage et statistiques
 

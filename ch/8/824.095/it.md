@@ -3,18 +3,18 @@ sr: "824.095"
 title: "Ordinanza del 20 agosto 2014 sul sistema d'informazione del servizio civile"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2014-482-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-482-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul sistema d’informazione del servizio civile
 
-del 20 agosto 2014 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 20 agosto 2014 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -188,7 +188,7 @@ La sicurezza dei dati si fonda su:
 
 - a. gli articoli 8–12 dell’ordinanza del 14 giugno 1993[^11-1] relativa alla legge federale sulla protezione dei dati;
 - b.[^11-2] l’ordinanza del 27 maggio 2020[^11-3] sui ciber-rischi;
-- c.[^11-4] le istruzioni del Consiglio federale del 16 gennaio 2019[^11-5] sulla sicurezza TIC nell’Amministrazione federale.[^11-6]
+- c.[^11-4] ...[^11-5]
 
 <sup>2</sup> Le autorità, i privati e le istituzioni autorizzati secondo l’articolo 7 adottano i provvedimenti organizzativi e tecnici necessari secondo le disposizioni in materia di protezione dei dati affinché i loro dati personali siano protetti dalla perdita, dalla sottrazione e da trattamenti o consultazioni non autorizzati.
 
@@ -197,11 +197,10 @@ La sicurezza dei dati si fonda su:
 <sup>4</sup> Esso provvede affinché sia registrato automaticamente quale utente ha effettuato l’ultima modifica dei dati e il momento in cui è avvenuta tale operazione.
 
 [^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: Nuovo testo giusta l’all. n. 19 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^11-2]: Nuovo testo giusta l’all. n. 31 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^11-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^11-4]: Nuovo testo giusta l’all. n. 19 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^11-5]: [FF 2019 1173](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^11-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^11-4]: Abrogata dall’all. n. 31 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^11-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
 
 ## Sezione 4: Conservazione, archiviazione e statistica
 
