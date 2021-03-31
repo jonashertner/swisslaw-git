@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Verordnung vom 15. Oktober 2008 über das informatisierte Personennachweis, Aktennachweis- und Verwaltungssystem im Bundesamt für Polizei (IPAS-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: de
-version: 2018-01-01
+version: 2021-04-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-700-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20180101/de"
 
 (IPAS-Verordnung)
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2018)
+vom 15. Oktober 2008 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -239,12 +239,16 @@ Das Recht auf Auskunft, Berichtigung oder Löschung von Daten richtet sich nach 
 
 #### Art. 12
 
-**Datensicherheit**
+**Datensicherheit**[^12-1]
 
-Für die Gewährleistung der Datensicherheit gelten die Verordnung vom 14. Juni 1993[^12-1] zum Bundesgesetz über den Datenschutz, die Bundesinformatikverordnung vom 26. September 2003[^12-2] sowie die Weisungen des Informatikrates Bund vom 27. September 2004 über die Informatiksicherheit in der Bundesverwaltung.
+Für die Gewährleistung der Datensicherheit gelten:
 
-[^12-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [[AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)Art. 22 Abs. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Anhang Ziff. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)]. Siehe heute die V vom 9. Dez. 2011 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+- a. die Verordnung vom 14. Juni 1993[^12-2] zum Bundesgesetz über den Datenschutz;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^12-3].
+
+[^12-1]: Fassung gemäss Anhang Ziff. 19 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 13
 
@@ -316,7 +320,7 @@ Stämme von Objekten
 - 1\. Nummer
 - 2\. Name des Objekts
 - 3\. Beschreibung
-- 4\. Ereignisbezogene Daten (Datum/Zeit von … bis …)
+- 4\. Ereignisbezogene Daten (Datum/Zeit von ... bis ...)
 - 5\. Land, aus dem das Objekt oder Ereignis stammt
 - 6\. Objekt- oder Ereignistyp
 - 7\. Adresse

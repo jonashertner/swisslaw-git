@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordonnance du 15 octobre 2008 sur le système informatisé de gestion et d'indexation de dossiers et de personnes de l'Office fédéral de la police (Ordonnance IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: fr
-version: 2018-01-01
+version: 2021-04-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20180101/fr"
 
 (Ordonnance IPAS)
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> janvier 2018)
+du 15 octobre 2008 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -143,7 +143,7 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 
 - a. les autorités de police ou de poursuite pénale fédérales, cantonales et étrangères;
 - b. les bureaux centraux nationaux Interpol et le Secrétariat général d’Interpol;
-- c.[^7-2] les services du Secrétariat d’Etat aux migrations compétents pour l’identification des requérants d’asile et des personnes à protéger, et pour l’accomplissement des tâches prévues par la loi fédérale du 16 décembre 2005 sur le séjour et l’établissement des étrangers[^7-3] et la loi du 20 juin 2014 sur la nationalité suisse[^7-4];
+- c.[^7-2] les services du Secrétariat d’État aux migrations compétents pour l’identification des requérants d’asile et des personnes à protéger, et pour l’accomplissement des tâches prévues par la loi fédérale du 16 décembre 2005 sur le séjour et l’établissement des étrangers[^7-3] et la loi du 20 juin 2014 sur la nationalité suisse[^7-4];
 - d. Europol;
 - e. les services compétents de l’Administration fédérale des douanes;
 - f. les représentations de la Suisse à l’étranger compétentes pour la délivrance de visas;
@@ -153,16 +153,16 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 
 <sup>2</sup> Sont réservées les dispositions légales régissant le traitement des données signalétiques, les données Interpol, Europol, N-SIS et les données relatives à la recherche de personnes disparues et de documents d’identité perdus.[^7-10]
 
-[^7-1]: Nouvelle teneur selon le ch. II 16 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848).
-[^7-2]: Nouvelle teneur selon le ch. II 5 de l’annexe à l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^7-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848).
+[^7-2]: Nouvelle teneur selon l’annexe ch. II 5 de l’O du 17 juin 2016 sur la nationalité, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^7-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^7-5]: Introduite par le ch. II 16 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-6]: Introduite par le ch. 2 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^7-7]: Introduite par le ch. 2 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-5]: Introduite par l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^7-6]: Introduite par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-7]: Introduite par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^7-8]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^7-9]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^7-10]: Introduit par le ch. II 16 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^7-10]: Introduit par l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
 #### Art. 8
 
@@ -196,14 +196,14 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 
 <sup>6</sup> Les données de la catégorie *Europol* sont effacées conformément à l’art. 9, ch. 8, de l’Accord du 24 septembre 2004 entre la Suisse et l’Office européen de la police[^9-5].
 
-<sup>7</sup> Les données saisies dans le *N-SIS* qui sont transmises à titre d’informations supplémentaires dans le cadre de la coopération avec d’autres Etats Schengen sont effacées conformément à l’art. 45 de l’ordonnance N-SIS du 7 mai 2008[^9-6].
+<sup>7</sup> Les données saisies dans le *N-SIS* qui sont transmises à titre d’informations supplémentaires dans le cadre de la coopération avec d’autres États Schengen sont effacées conformément à l’art. 45 de l’ordonnance N-SIS du 7 mai 2008[^9-6].
 
 <sup>8</sup> Les données qui figurent dans le système de gestion des affaires et des dossiers et ne présentent aucun lien avec d’autres catégories sont effacées après trois ans.
 
 [^9-1]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
 [^9-2]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
-[^9-3]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^9-4]: Introduit par le ch. 2 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9-4]: Introduit par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^9-5]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 [^9-6]: [[RO 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)annexe ch. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 18. [RO 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Voir actuellement l’O du 8 mars 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
 
@@ -213,7 +213,7 @@ Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur deman
 
 Les procès-verbaux de journalisation des effacements sont conservés durant un an à compter de l’effacement des données. Ils ne peuvent être consultés que par le conseiller à la protection des données de l’office et ne peuvent être utilisés que pour la surveillance du respect des dispositions relatives à la protection des données.
 
-[^9a-1]: Introduit par le ch. 2 de l’annexe à l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9a-1]: Introduit par l’annexe ch. 2 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 10
 
@@ -239,12 +239,16 @@ Le droit à la consultation, à la rectification et à la suppression des donné
 
 #### Art. 12
 
-**Sécurité des données**
+**Sécurité des données**[^12-1]
 
-La sécurité des données est garantie par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1], par l’ordonnance du 26 septembre 2003 sur l’informatique dans l’administration fédérale[^12-2] ainsi que par les directives du CI du 27 septembre 2004 concernant la sécurité informatique dans l’administration fédérale.
+La sécurité des données est garantie par:
 
-[^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [[RO 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 al. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)annexe ch. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)]. Voir actuellement l’O du 9 déc. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-3].
+
+[^12-1]: Nouvelle teneur selon l’annexe ch. 19 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 13
 
@@ -288,7 +292,7 @@ Annexe 1
 - 8\. Lieu et pays de naissance
 - 9\. Lieu d’origine
 - 10\. Noms des parents
-- 11\. Etat civil
+- 11\. État civil
 - 12\. Langue maternelle
 - 13\. Documents d’identité
 - 14\. Noms contrôlés/identité établie
@@ -347,7 +351,7 @@ Annexe 1
 - 10\. Délai
 - 11\. Référence
 - 12\. Catégorie
-- 13\. Etat d’avancement de l’affaire (étape)
+- 13\. État d’avancement de l’affaire (étape)
 - 14\. Date de l’étape
 - 15\. Collaborateur en charge de l’étape
 - 16\. Numéro de pièce
@@ -365,7 +369,7 @@ Annexe 1
 - 8\. Remarques particulières
 
 [^annex1-lvlu1-lvlu7-1]: Les champs de données mentionnés selon numéros 1 à 6 ne sont utilisés que pour la catégorie «AFIS-ADN».
-[^annex1-lvlu1-lvlu7-2]: Le champ de données selon numéro 7 n’est utilisé que pour les catégories *Interpol*, *R**e**cherche de personnes disparues* et *Documents d’identité*.
+[^annex1-lvlu1-lvlu7-2]: Le champ de données selon numéro 7 n’est utilisé que pour les catégories *Interpol*, *Recherche de personnes disparues* et *Documents d’identité*.
 
 ### Système de gestion des affaires et des dossiers de fedpol
 
@@ -380,13 +384,13 @@ Annexe 1
 - 9\. Objets (numéro, type, remarques)
 - [tab]
 
-Annexe 2[^t-1]
+Annexe 2*[^t-1]*
 
 (art. 6, al. 2)
 
 ## Droits d’accès à IPAS
 
-[^t-1]: Nouvelle teneur selon le ch. II 16 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par le ch. 8 de l’annexe à l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par l’annexe ch. 8 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 
 G = Get (visualiser)
 
@@ -426,7 +430,7 @@ A = Add (visualiser, introduire des données, modifier et effacer les données s
 <tr><td>Division Coopération policière opérationnelle</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
 </table>
 
-### Etat-major
+### État-major
 
 <table>
 <tr><th colspan="2"></th><th colspan="3">AFIS-ADN</th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="3">INTERPOL</th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="3">EUROPOL</th><th></th><th></th><th colspan="2"></th><th colspan="3">NSIS</th><th></th><th></th><th colspan="2"></th><th colspan="3">RE-CHERCHE DISPARUS</th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="3">DOC. D’IDENTI-TE</th><th></th><th></th><th colspan="2"></th><th>GAD</th></tr>
@@ -441,7 +445,7 @@ A = Add (visualiser, introduire des données, modifier et effacer les données s
 <table>
 <tr><th></th><th colspan="3">AFIS-ADN</th><th></th><th colspan="2"></th><th></th><th colspan="3">INTERPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">EUROPOL</th><th></th><th colspan="2"></th><th></th><th colspan="3">NSIS</th><th></th><th colspan="2"></th><th></th><th colspan="3">RE-CHERCHE DISPARUS</th><th></th><th colspan="2"></th><th></th><th colspan="3">DOC. D’IDENTI-TE</th><th></th><th colspan="2"></th><th></th><th>GAD</th></tr>
 <tr><td></td><td>D-B</td><td>DO</td><td colspan="3">AF</td><td colspan="2">CO</td><td>D-B</td><td>DO</td><td colspan="3">AF</td><td colspan="2">CO</td><td>D-B</td><td>DO</td><td colspan="3">AF</td><td colspan="2">CO</td><td>D-B</td><td>DO</td><td colspan="3">AF</td><td colspan="2">CO</td><td>D-B</td><td>DO</td><td colspan="3">AF</td><td colspan="2">CO</td><td>D-B</td><td>DO</td><td colspan="3">AF</td><td colspan="2">CO</td><td></td></tr>
-<tr><td>Unité Evaluation de la menace</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
+<tr><td>Unité Évaluation de la menace</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
 <tr><td>Commissariat Sécurité des magistrats et des représentations étrangères</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
 <tr><td>Commissariat Sécurité des visiteurs étrangers</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
 </table>

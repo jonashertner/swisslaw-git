@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordinanza del 15 ottobre 2008 sul sistema informatizzato di gestione e indice informatizzato delle persone e dei fascicoli dell'Ufficio federale di polizia (Ordinanza IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: it
-version: 2018-01-01
+version: 2021-04-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20180101/it"
 
 (Ordinanza IPAS)
 
-del 15 ottobre 2008 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 15 ottobre 2008 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -153,16 +153,16 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 
 <sup>2</sup> Sono fatte salve le disposizioni legali che disciplinano il trattamento di dati segnaletici, dati provenienti da Interpol, Europol, N-SIS, nonché dati sulla ricerca di persone scomparse e documenti d’identità.[^7-10]
 
-[^7-1]: Nuovo testo giusta il n. II 16 dell’all. 4 all’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-2]: Nuovo testo giusta il n. II 5 dell’all. all’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
+[^7-1]: Nuovo testo giusta l’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^7-2]: Nuovo testo giusta l’all. l n. II 5 dell’O del 17 giu. 2016 sulla cittadinanza, in vigore dal 1° gen. 2018 ([RU 2016 2577](https://fedlex.data.admin.ch/eli/oc/2016/405)).
 [^7-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-4]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^7-5]: Introdotta dal n. II 16 dell’all. 4 all’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^7-6]: Introdotta dal n. 2 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^7-7]: Introdotta dal n. 2 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-5]: Introdotta dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^7-6]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^7-7]: Introdotta dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^7-8]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^7-9]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^7-10]: Introdotto dal n. II 16 dell’all. 4 all’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^7-10]: Introdotto dall’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 
 #### Art. 8
 
@@ -202,8 +202,8 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 
 [^9-1]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
 [^9-2]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
-[^9-3]: Nuovo testo giusta il n. 2 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^9-4]: Introdotto dal n. 2 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9-3]: Nuovo testo giusta l’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9-4]: Introdotto dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^9-5]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 [^9-6]: [[RU 2008 2229](https://fedlex.data.admin.ch/eli/oc/2008/325)[4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 21 [6305](https://fedlex.data.admin.ch/eli/oc/2008/858)all. n. 17, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 18. [RU 2013 855](https://fedlex.data.admin.ch/eli/oc/2013/179)art. 57]. Vedi ora l’O dell’8 mar. 2013 ([RS 362.0](https://fedlex.data.admin.ch/eli/cc/2013/179)).
 
@@ -213,7 +213,7 @@ Fedpol può, nell’ambito dell’assistenza amministrativa, trasmettere su rich
 
 I verbali delle cancellazioni sono conservati per un anno a partire dal momento della cancellazione dei dati. I verbali sono accessibili esclusivamente all’incaricato per la protezione dei dati dell’Ufficio e possono essere utilizzati unicamente per sorvegliare il rispetto delle disposizioni in materia di protezione dei dati.
 
-[^9a-1]: Introdotto dal n. 2 dell’all. all’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^9a-1]: Introdotto dall’all. n. 2 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 10
 
@@ -239,12 +239,16 @@ Il diritto d’accesso, il diritto alla rettifica e alla cancellazione dei dati 
 
 #### Art. 12
 
-**Sicurezza dei dati**
+**Sicurezza dei dati**[^12-1]
 
-La sicurezza dei dati è garantita dall’ordinanza del 14 giugno 1993[^12-1] relativa alla legge federale sulla protezione dei dati, dall’ordinanza del 26 settembre 2003[^12-2] sull’informatica nell’Amministrazione federale nonché dalle istruzioni del CIC del 27 settembre 2004 sulla sicurezza informatica nell’Amministrazione federale.
+La sicurezza dei dati è garantita:
 
-[^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [[RU 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 cpv. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)all. n. 2, **2011** 449. [RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29]. Vedi ora l’O del 9 dic. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988))
+- a. dall’ordinanza del 14 giugno 1993[^12-2] relativa alla legge federale sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^12-3] sui ciber-rischi.
+
+[^12-1]: Nuovo testo giusta l’all. n. 19 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^12-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 13
 
@@ -386,7 +390,7 @@ Allegato 2*[^t-1]*
 
 ## Diritti d’accesso a IPAS
 
-[^t-1]: Nuovo testo giusta il n. II 16 dell’all. 4 all’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dal n. 8 dell’all. all’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^t-1]: Nuovo testo giusta l’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. n. 8 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
 
 G = Get (visualizzare)
 
@@ -479,16 +483,24 @@ A = Add (visualizzare, introdurre dati, modificare e cancellare i dati registrat
 
 Legenda
 
-<table>
-<tr><td>AFIS-DNA</td><td>Categoria «AFIS-DNA»</td></tr>
-<tr><td>INTERPOL</td><td>Categoria «Interpol»</td></tr>
-<tr><td>EUROPOL</td><td>Categoria «Europol»</td></tr>
-<tr><td>NSIS</td><td>Categoria «NSIS»</td></tr>
-<tr><td>RICERCA SCOMPARSI</td><td>Categoria «Ricerca di persone scomparse»</td></tr>
-<tr><td>DOC. D’IDENTITÀ</td><td>Categoria «Documenti d’identità»</td></tr>
-<tr><td>D-B</td><td>Dati di base</td></tr>
-<tr><td>FA</td><td>Fascicoli</td></tr>
-<tr><td>PR</td><td>Pratiche</td></tr>
-<tr><td>CO</td><td>Contenuto</td></tr>
-<tr><td>GPA</td><td>Sistema di gestione delle pratiche e degli atti di fedpol</td></tr>
-</table>
+AFIS-DNA Categoria «AFIS-DNA»
+
+INTERPOL Categoria «Interpol»
+
+EUROPOL Categoria «Europol»
+
+NSIS Categoria «NSIS»
+
+RICERCA SCOMPARSI Categoria «Ricerca di persone scomparse»
+
+DOC. D’IDENTITÀ Categoria «Documenti d’identità»
+
+D-B Dati di base
+
+FA Fascicoli
+
+PR Pratiche
+
+CO Contenuto
+
+GPA Sistema di gestione delle pratiche e degli atti di fedpol
