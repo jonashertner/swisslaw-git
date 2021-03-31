@@ -4,13 +4,12 @@ number: "505.11"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung BL
 language: de
-version: 2021-03-09
-valid_until: 2021-03-31
-version_adopted: 2021-03-09
+version: 2021-04-01
+version_adopted: 2021-04-20
 adopted: 2021-01-26
 in_force: 2021-01-29
 url: "https://bl.clex.ch/app/de/texts_of_law/505.11"
-pdf: "https://bl.clex.ch/api/de/versions/2941/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2986/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2941/pdf_file"
 
 (Härtefallverordnung BL)
 
-Vom 26.01.2021 (Stand 09.03.2021)
+Vom 26.01.2021 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -66,7 +65,7 @@ beschliesst:
 
 <sup>4</sup> Die Schliessungsdauer nach Abs. 2 Bst. a bemisst sich an der auf ganze Monate gerundeten Dauer der behördlich angeordneten Schliessungen im Kanton Basel-Landschaft.
 
-<sup>5</sup> Es gelten die Mindestanforderungen und Höchstgrenzen gemäss Art. 2–4 und Art. 8 Abs. 2 und 4 der Covid-19-Härtefallverordnung des Bundes.
+<sup>5</sup> Es gelten die Mindestanforderungen und Höchstgrenzen gemäss Art. 2, Art. 4–6, Art. 8, Art. 8a und Art. 8d der Covid-19-Härtefallverordnung des Bundes.
 
 #### § 4
 
@@ -81,19 +80,31 @@ beschliesst:
 - a. dem ausgewiesenen Umsatzrückgang in Prozenten
 - b. und einer branchenspezifischen Fixkostenquote gemäss Anhang 1.
 
-<sup>4</sup> Es gelten die Mindestanforderungen und Höchstgrenzen gemäss Art. 2–4 und Art. 8 Abs. 2 und 4 der Covid-19-Härtefallverordnung des Bundes.
+<sup>4</sup> Es gelten die Mindestanforderungen und Höchstgrenzen gemäss Art. 2, Art. 4–6, Art. 8, Art. 8a und Art. 8d der Covid-19-Härtefallverordnung des Bundes.
 
 #### § 4a
 
-**Branchenzugehörigkeit**
+**Branchenzugehörigkeit und Unternehmenssitz**
 
 <sup>1</sup> Die Branchenzugehörigkeit des antragstellenden Unternehmens richtet sich nach dem Eintrag im Betriebs- und Unternehmensregister (BUR) des Bundesamtes für Statistik.
 
+<sup>2</sup> Als Sitz gemäss Art. 13 Abs. 1 der Covid-19-Härtefallverordnung des Bundes gilt der Unternehmenssitz gemäss Handelsregister.
+
 #### § 4b
 
-**Erhöhung des maximalen Beitrags**
+**…**
 
-<sup>1</sup> Eine Erhöhung des maximalen Beitrags gemäss Art. 8 Abs. 2<sup>bis</sup> der Covid-19-Härtefallverordnung des Bundes ist nur möglich, wenn das antragstellende Unternehmen in einem Sanierungskonzept über 4 Jahre aufzeigen kann, dass das Unternehmen gewinnbringend betrieben werden kann.
+#### § 4c
+
+**Durchschnittlicher Jahresumsatz**
+
+<sup>1</sup> Als durchschnittlicher Jahresumsatz gemäss Art. 3 Abs. 2 Bst. a der Covid-19-Härtefallverordnung des Bundes gilt der höhere Wert der beiden Berechnungsmöglichkeiten.
+
+#### § 4d
+
+**Unternehmen mit mehr als CHF 5 Mio. Umsatz**
+
+<sup>1</sup> Für Härtefallhilfen an Unternehmen mit mehr als CHF 5 Mio. Umsatz gelten die Mindestanforderungen, Höchstgrenzen und Fixkostenquoten gemäss Art. 5b Abs. 1 Bst. b, Art. 8b, Art. 8c, Art. 8e und Art. 8f der Covid-19-Härtefallverordnung des Bundes.
 
 #### § 5
 
@@ -105,7 +116,7 @@ beschliesst:
 
 **Verbürgte Bankkredite**
 
-<sup>1</sup> Zusätzlich zu den A-fonds-perdu-Beiträgen gemäss § 4 und § 5 kann der Kanton zu 80 % für die Kredite bürgen, welche im Rahmen der Härtefallmassnahmen bei Banken aufgenommen werden. Das restliche Risiko trägt das kreditgebende Finanzinstitut.
+<sup>1</sup> Zusätzlich zu den A-fonds-perdu-Beiträgen gemäss § 3 und § 4 kann der Kanton zu 80 % für die Kredite bürgen, welche im Rahmen der Härtefallmassnahmen bei Banken aufgenommen werden. Das restliche Risiko trägt das kreditgebende Finanzinstitut.
 
 <sup>2</sup> Die Ausgestaltung der Konditionen der durch den Kanton im Rahmen der Umsetzung der Härtefallmassnahmen verbürgten Bankkredite von den verschiedenen Bankinstituten erfolgt möglichst einheitlich gemäss den folgenden Kriterien:
 
@@ -162,21 +173,21 @@ beschliesst:
 - b. UID-Mitteilung / Ausdruck aus UID-Register;
 - c. Auszug aus dem Handelsregister;
 - d. aktuellen Kontoauszug AHV-Kasse;
-- e. AHV-Jahresdeklaration 2019;
+- e. AHV-Jahresdeklaration seit 2019;
 - f. aktuelles BVG-Prämienkonto.
 
 <sup>2</sup> Unternehmen, welche Härtefallmassnahmen im Sinne von § 4 dieser Verordnung beantragen, haben folgende Unterlagen einzureichen:
 
 - a. Unterlagen gemäss Abs. 1;
 - b. Jahresrechnung 2020 oder Umsatz-Kontenblätter der letzten 12 Monate;
-- c. Kontoblätter Aktionärsdarlehen 2020;
+- c. Kontoblätter Aktionärsdarlehen seit 2020;
 - d. Covid-Kreditvertrag (nach Notverordnung);
-- e. Kontoauszug Covid-Kredit 2020;
-- f. MWSt-Abrechnungen 2020;
-- g. Bestätigung oder Abrechnungen Kurzarbeitsentschädigungen 2020;
-- h. Bestätigung oder Abrechnungen Covid-Erwerbsersatz 2020.
+- e. Kontoauszug Covid-Kredit seit 2020;
+- f. MWSt-Abrechnungen seit 2020;
+- g. Bestätigung oder Abrechnungen Kurzarbeitsentschädigungen seit 2020;
+- h. Bestätigung oder Abrechnungen Covid-Erwerbsersatz seit 2020.
 
-<sup>3</sup> Unternehmen, welche Bürgschaften im Sinne § 6 dieser Verordnung beantragen, haben zusätzlich ein Budget und eine Liquiditätsplanung für die Jahre 2020–2021 einzureichen.
+<sup>3</sup> Unternehmen, welche Bürgschaften im Sinne § 6 dieser Verordnung beantragen, haben zusätzlich ein Budget und eine Liquiditätsplanung für mindestens 2 Jahre einzureichen.
 
 <sup>4</sup> Zur Überprüfung der Anforderungen an die Unternehmen gemäss dieser Verordnung können die Standortförderung und die Finanzverwaltung weitere Belege einverlangen.
 
@@ -206,5 +217,15 @@ beschliesst:
 
 - a. falls nachträglich Tatsachen bekannt werden, die das Unternehmen im Zusammenhang mit der Beantragung einer Härtefallmassnahme gemäss dieser Verordnung nicht, nicht vollständig oder falsch deklariert hat und aufgrund derer die gewährte Härtefallmassnahme hätte verweigert werden müssen;
 - b. falls Art. 6 der Covid-19-Härtefallverordnung des Bundes nicht eingehalten wird.
+
+#### § 14
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Die mit der Änderung der Covid-19-Härtefallverordnung des Bundes vom 31. März 2021 angepassten Voraussetzungen und Kriterien gelten für alle Gesuche, welche ab dem 1. April 2021 eingereicht werden.
+
+<sup>2</sup> Gesuche, welche bereits vor dem 1. April 2021 eingereicht worden sind und welche durch die geänderten Vorgaben des Bundes Anrecht auf höhere Härtefallhilfen haben würden, werden auf Basis der geänderten Vorgaben neu geprüft.
+
+<sup>3</sup> Das Dividendenverbot nach Art. 6 Bst. a der Covid-19-Härtefallverordnung des Bundes in der Fassung der Änderung vom 31. März 2021 gilt für Unternehmen, denen Härtefallhilfen ab dem 1. April 2021 zugesichert werden.
 
 GS 2021.006
