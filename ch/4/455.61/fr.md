@@ -3,11 +3,11 @@ sr: "455.61"
 title: "Ordonnance du 1<sup>er</sup> septembre 2010 sur le système informatique relatif aux expériences sur animaux (Ordonnance animex-ch)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: fr
-version: 2014-05-01
+version: 2021-04-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20140501/fr/xml/fedlex-data-admin-ch-eli-cc-2010-563-20140501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20140501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2010-563-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20140501/fr"
 
 (O-SIGEXPA)
 
-du 1<sup>er</sup> septembre 2010 (Etat le 1<sup>er</sup> mai 2014)
+du 1<sup>er</sup> septembre 2010 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -195,14 +195,14 @@ Ont accès en ligne aux données fixes:
 
 Les chercheurs ont accès en ligne:
 
-- a. aux données qu’ils ont eux-mêmes saisies dans le système informatique; et
+- a. aux données qu’ils ont eux-mêmes saisies dans le système informatique, et
 - b. aux données qui leur sont adressées par les autorités et les commissions cantonales de l’expérimentation animale.
 
 <sup>2</sup>
 
 Les personnes chargées des questions de protection des animaux dans les instituts, les laboratoires et les animaleries ont accès en ligne:
 
-- a. aux données qu’elles ont elles-mêmes saisies dans le système; et
+- a. aux données qu’elles ont elles-mêmes saisies dans le système, et
 - b. aux données nécessaires à l’accomplissement de leurs tâches.
 
 <sup>3</sup>
@@ -210,7 +210,7 @@ Les personnes chargées des questions de protection des animaux dans les institu
 Les collaborateurs des autorités cantonales ont accès en ligne:
 
 - a. aux données qu’ils ont eux-mêmes saisies dans le système informatique;
-- b. aux données élaborées par leur unité administrative dans le cadre de l’exécution; et
+- b. aux données élaborées par leur unité administrative dans le cadre de l’exécution, et
 - c.
 
   aux données provenant d’une autre unité administrative que la leur:
@@ -232,7 +232,7 @@ Les membres de la commission cantonale de l’expérimentation animale ont accè
 
 Les collaborateurs du service technique ont accès en ligne:
 
-- a. aux données qu’ils ont eux-mêmes saisies dans le système; et
+- a. aux données qu’ils ont eux-mêmes saisies dans le système, et
 - b. aux données tirées des décisions des autorités cantonales relatives aux expériences sur animaux et des décisions relatives aux animaleries.
 
 <sup>6</sup> Les administrateurs du système à l’OSAV ont accès en ligne à toutes les données nécessaires à l’accomplissement de leurs tâches, notamment aux données dont ils ont besoin pour fournir une assistance aux utilisateurs.
@@ -272,7 +272,7 @@ L’information du public en matière d’expérimentation animale visée à l�
 
 **Protection des données**[^17-1]
 
-L’OSAV et les autorités cantonales veillent au respect des dispositions sur la protection des données. A cette fin, l’OSAV édicte un règlement régissant le traitement des données qui définit les mesures organisationnelles et techniques nécessaires.
+L’OSAV et les autorités cantonales veillent au respect des dispositions sur la protection des données. À cette fin, l’OSAV édicte un règlement régissant le traitement des données qui définit les mesures organisationnelles et techniques nécessaires.
 
 [^17-1]: Erratum du 15 fév. 2011 ([RO 2011 635](https://fedlex.data.admin.ch/eli/oc/2011/97))
 
@@ -298,13 +298,14 @@ L’institut, le laboratoire, l’animalerie ou l’autorité qui a saisi les do
 
 **Sécurité informatique**
 
-<sup>1</sup> Les mesures garantissant la sécurité informatique sont régies par l’ordonnance du 26 septembre 2003 sur l’informatique dans l’administration fédérale[^20-1].
+<sup>1</sup> Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 27 mai 2020 sur les cyberrisques[^20-1].[^20-2]
 
 <sup>2</sup> L’OSAV veille à ce que les dispositions régissant la sécurité informatique soient intégrées dans les conventions d’utilisation conclues avec les cantons, les instituts, les laboratoires et les animaleries et dans les conventions passées avec des fournisseurs de prestations.
 
 <sup>3</sup> Les cantons veillent à la sécurité informatique au niveau de l’autorité cantonale et des membres de la commission cantonale de l’expérimentation animale.
 
-[^20-1]: [[RO 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 al. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)annexe ch. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 al. 1]. Voir actuellement l’O du 9 déc. 2011 sur l’informatique dans l’administration fédérale ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^20-1]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^20-2]: Nouvelle teneur selon l’annexe ch. 28 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 21
 
@@ -316,11 +317,11 @@ L’institut, le laboratoire, l’animalerie ou l’autorité qui a saisi les do
 
 [^21-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
-## Section 7 Emoluments et frais
+## Section 7 Émoluments et frais
 
 #### Art. 22
 
-**Emoluments**
+**Émoluments**
 
 Les émoluments pour l’utilisation du système informatique sont fixés à l’art. 24*b* de l’ordonnance du 30 octobre 1985 sur les émoluments de l’OSAV.
 
@@ -464,7 +465,7 @@ Si, durant une étape du traitement des données, plusieurs personnes ont un dro
 <tr><td>5.2.1 Nom, prénom, numéro du bureau, téléphone, fax, portable, courriel</td><td>INST, A, VC</td><td>W</td><td>W</td><td>R[^annex1-lvlu1-lvl5-2]</td><td>R</td><td>R</td><td>W</td><td>W</td><td>R</td><td>W</td><td>W</td></tr>
 <tr><td>5.2.2 Rattachement à l’institut, au laboratoire ou à l’animalerie et rôle subordonné de collaborateurs dans le propre domaine</td><td>INST, A, VC</td><td>W</td><td>W</td><td>R</td><td>R</td><td>R</td><td>W</td><td>W</td><td>R</td><td>W</td><td>W</td></tr>
 <tr><td colspan="12">5.3 Données relatives aux autorisations de pratiquer des expériences sur animaux (art. 10, al. 1, let. b et 2)</td></tr>
-<tr><td>5.3.1 Etablissement de la demande d’autorisation (formulaire A et annexes) par l’institut ou le laboratoire</td><td>INST</td><td>–</td><td>W</td><td>W</td><td>W</td><td>R[^annex1-lvlu1-lvl5-3]</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.3.1 Établissement de la demande d’autorisation (formulaire A et annexes) par l’institut ou le laboratoire</td><td>INST</td><td>–</td><td>W</td><td>W</td><td>W</td><td>R[^annex1-lvlu1-lvl5-3]</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.3.2 Transmission de la demande d’autorisation à l’autorité cantonale</td><td>INST</td><td>–</td><td>W</td><td>–</td><td>–</td><td></td><td>W[^annex1-lvlu1-lvl5-4]</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.3.3 Réception de la demande d’autorisation (formulaire A et annexes) par l’autorité cantonale</td><td>VC</td><td>–</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>W[^annex1-lvlu1-lvl5-5]</td><td></td><td>–</td><td>–</td></tr>
 <tr><td>5.3.4 Notes de travail du CC</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
@@ -473,19 +474,19 @@ Si, durant une étape du traitement des données, plusieurs personnes ont un dro
 <tr><td>5.3.7 Demande adressée à la commission d’examiner la demande d’autorisation (y compris les annexes)</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>R</td><td>–</td><td>–</td></tr>
 <tr><td>5.3.8 Notes de travail du MCOM</td><td>COM</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td></tr>
 <tr><td>5.3.9 Préavis de décision (y compris les annexes) soumis par la commission à l’autorité cantonale</td><td>COM</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>R</td><td>W</td><td>–</td><td>–</td></tr>
-<tr><td>5.3.10 Etablissement par l’autorité cantonale de la décision relative à l’expérience (formulaire B et annexes)</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.3.10 Établissement par l’autorité cantonale de la décision relative à l’expérience (formulaire B et annexes)</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.3.11 Notification de la décision relative à l’expérience (formulaire B, annexes et préavis de la commission)</td><td>VC</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>W[^annex1-lvlu1-lvl5-7]</td><td>R[^annex1-lvlu1-lvl5-8]</td><td>R</td><td>–</td></tr>
 <tr><td>5.3.12 Notes de travail du C-OSAV</td><td>OSAV</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td></tr>
 <tr><td colspan="12">5.4 Données relatives aux autorisations d’exploiter une animalerie (A) et autorisations simplifiées de produire des animaux génétiquement modifiés avec des méthodes reconnues (art. 10, al. 1, let. b, et 2)</td></tr>
-<tr><td>5.4.1 Etablissement de la demande d’autorisation (y compris les annexes) par l’animalerie</td><td>A</td><td>W</td><td>–</td><td>–</td><td>–</td><td>R</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.4.1 Établissement de la demande d’autorisation (y compris les annexes) par l’animalerie</td><td>A</td><td>W</td><td>–</td><td>–</td><td>–</td><td>R</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.4.2 Transmission de la demande d’autorisation à l’autorité cantonale</td><td>A</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W[^annex1-lvlu1-lvl5-9]</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.4.3 Réception de la demande (y compris les annexes) par l’autorité cantonale</td><td>A</td><td>R</td><td>–</td><td>–</td><td>–</td><td>R</td><td>R</td><td>R</td><td>R</td><td>–</td><td>–</td></tr>
 <tr><td>5.4.4 Notes de travail du CC</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>5.4.5 Etablissement du projet de décision (y compris les annexes) par l’autorité cantonale à l’attention de l’animalerie</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.4.5 Établissement du projet de décision (y compris les annexes) par l’autorité cantonale à l’attention de l’animalerie</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.4.6 Notification de la décision (y compris les annexes) à l’animalerie</td><td>VC</td><td>R</td><td>–</td><td>–</td><td>–</td><td>R</td><td>R</td><td>W[^annex1-lvlu1-lvl5-10]</td><td>R[^annex1-lvlu1-lvl5-11]</td><td>R</td><td>–</td></tr>
 <tr><td>5.4.7 Notes de travail du C-OSAV</td><td>OSAV</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td></tr>
 <tr><td colspan="12">5.5 Données relatives à la décision d’admissibilité des lignées ou souches présentant un phénotype invalidant (art. 10, al. 1, let. b, et 2)</td></tr>
-<tr><td>5.5.1 Etablissement d’une notification des lignées et des souches présentant un phénotype invalidant (y compris les annexes) par l’institut ou par le laboratoire</td><td>A, INST</td><td>W</td><td>W</td><td>W</td><td>W</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.5.1 Établissement d’une notification des lignées et des souches présentant un phénotype invalidant (y compris les annexes) par l’institut ou par le laboratoire</td><td>A, INST</td><td>W</td><td>W</td><td>W</td><td>W</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.5.2 Transmission de la notification des lignées et des souches présentant un phénotype invalidant à l’autorité cantonale</td><td>A</td><td>W</td><td>–</td><td>W</td><td>–</td><td>–</td><td>W[^annex1-lvlu1-lvl5-12]</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.5.3 Réception de la notification par l’autorité cantonale</td><td>A</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.5.4 Notes de travail du CC</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
@@ -493,7 +494,7 @@ Si, durant une étape du traitement des données, plusieurs personnes ont un dro
 <tr><td>5.5.6 Transmission des questions pour réponse à l’institut, au laboratoire ou à l’animalerie</td><td>A, INST</td><td>W</td><td>W</td><td>W</td><td>W</td><td>R</td><td>W</td><td>R</td><td>R</td><td>–</td><td>–</td></tr>
 <tr><td>5.5.7 Demande adressée à la commission d’examiner la demande d’autorisation (y compris les annexes)</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>R</td><td>–</td><td>–</td></tr>
 <tr><td>5.5.8 Préavis de décision (y compris les annexes) soumis par la commission à l’autorité cantonale</td><td>COM</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>R</td><td>W</td><td>–</td><td>–</td></tr>
-<tr><td>5.5.9 Etablissement de la décision (y compris les annexes) relative aux lignées et aux souches présentant un phénotype invalidant par l’autorité cantonale</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.5.9 Établissement de la décision (y compris les annexes) relative aux lignées et aux souches présentant un phénotype invalidant par l’autorité cantonale</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.5.10 Notification de la décision relative aux lignées et aux souches présentant un phénotype invalidant (y compris les annexes et le préavis de la commission)</td><td>VC</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>W[^annex1-lvlu1-lvl5-14]</td><td>R[^annex1-lvlu1-lvl5-15]</td><td>R</td><td>–</td></tr>
 <tr><td>5.5.11 Notes de travail du C-OSAV</td><td>OSAV</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td></tr>
 <tr><td colspan="12">5.6 Données concernant la surveillance des expériences sur des animaux et des animaleries (art. 10, al. 1, let. b, et 2)</td></tr>
@@ -504,7 +505,7 @@ Si, durant une étape du traitement des données, plusieurs personnes ont un dro
 <tr><td>5.6.5 Informations sur les formations de base, les formations qualifiantes et les formations continues suivies (y compris les annexes)</td><td>INST, A, VC</td><td>W</td><td>W</td><td>W</td><td>W</td><td>R</td><td>W</td><td>W</td><td>R</td><td>W</td><td>R</td></tr>
 <tr><td>5.6.6 Examen et acceptation des pièces justificatives des formations suivies</td><td>VC</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>W</td><td>R</td><td>R</td><td>–</td></tr>
 <tr><td colspan="12">5.7 Données tirées des rapports sur les expériences sur animaux (art. 10, al. 1, let. b, et 2)</td></tr>
-<tr><td>5.7.1 Etablissement d’un rapport (formulaire C et annexes) par l’institut ou par le laboratoire</td><td>INST</td><td>–</td><td>W</td><td>W</td><td>W</td><td>R</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.7.1 Établissement d’un rapport (formulaire C et annexes) par l’institut ou par le laboratoire</td><td>INST</td><td>–</td><td>W</td><td>W</td><td>W</td><td>R</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.7.2 Transmission du rapport à l’autorité cantonale</td><td>INST</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.7.3 Réception du rapport par l’autorité cantonale (formulaire C et annexes)</td><td>INST</td><td>–</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>–</td><td>–</td></tr>
 <tr><td>5.7.4 Notes de travail du CC</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
@@ -515,7 +516,7 @@ Si, durant une étape du traitement des données, plusieurs personnes ont un dro
 <tr><td>5.7.9 Notes de travail du C-OSAV</td><td>OSAV</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td></tr>
 <tr><td>5.7.10 Rectification de la statistique par le C-OSAV</td><td>OSAV</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>W</td><td>–</td></tr>
 <tr><td colspan="12">5.8 Données tirées des rapports sur les animaleries (art. 10, al. 1, let. b, et 2)</td></tr>
-<tr><td>5.8.1 Etablissement du rapport (y compris les annexes) par l’animalerie</td><td>A</td><td>W</td><td>W</td><td>W</td><td>–</td><td>R</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.8.1 Établissement du rapport (y compris les annexes) par l’animalerie</td><td>A</td><td>W</td><td>W</td><td>W</td><td>–</td><td>R</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.8.2 Transmission du rapport à l’autorité cantonale</td><td>A</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.8.3 Réception du rapport par l’autorité cantonale (y compris les annexes)</td><td>A</td><td>R</td><td>R</td><td>R</td><td>–</td><td>R</td><td>R</td><td>R</td><td>R</td><td>–</td><td>–</td></tr>
 <tr><td>5.8.4 Questions posées par l’autorité cantonale</td><td>VC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>W</td><td>–</td><td>–</td><td>–</td></tr>
@@ -524,7 +525,7 @@ Si, durant une étape du traitement des données, plusieurs personnes ont un dro
 <tr><td>5.8.7 Validation du rapport par l’autorité cantonale, après une éventuelle rectification</td><td>VC</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>W</td><td>R</td><td>R</td><td>–</td></tr>
 <tr><td>5.8.8 Rectification de la statistique par le C-OSAV</td><td>OSAV</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>W</td><td>–</td></tr>
 <tr><td colspan="12">5.9 Fiche technique relative aux lignées génétiquement modifiées et aux souches présentant un phénotype invalidant (art. 10, al. 1, let. b)</td></tr>
-<tr><td>5.9.1 Etablissement de la fiche technique</td><td>A, INST</td><td>W</td><td>W</td><td>W</td><td>–</td><td>R</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>5.9.1 Établissement de la fiche technique</td><td>A, INST</td><td>W</td><td>W</td><td>W</td><td>–</td><td>R</td><td>W</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>5.9.2 Transmission d’une copie de la fiche technique avec la demande, le rapport ou la notification</td><td>A</td><td>W</td><td>W</td><td>R</td><td>R</td><td>R</td><td>W</td><td>R</td><td>R</td><td>R</td><td>–</td></tr>
 <tr><td colspan="12">5.10 Divers (art. 10, al. 1, let. c et d)</td></tr>
 <tr><td>5.10.1 Compilations de données statistiques, interrogations préparées</td><td>OSAV, SYSTÈME</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>R</td><td>–</td><td>R</td><td>W</td></tr>

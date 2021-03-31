@@ -3,11 +3,11 @@ sr: "455.61"
 title: Verordnung vom 1. September 2010 über das Informationssystem im Bereich der Tierversuche (Animex-ch-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: de
-version: 2014-05-01
+version: 2021-04-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20140501/de/xml/fedlex-data-admin-ch-eli-cc-2010-563-20140501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20140501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2010-563-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20140501/de"
 
 (VerTi-V)
 
-vom 1. September 2010 (Stand am 1. Mai 2014)
+vom 1. September 2010 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -296,13 +296,14 @@ Das Institut, das Laboratorium, die Versuchstierhaltung oder die Behörde, welch
 
 **Informatiksicherheit**
 
-<sup>1</sup> Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Bundesinformatikverordnung vom 26. September 2003[^20-1].
+<sup>1</sup> Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020[^20-1].[^20-2]
 
 <sup>2</sup> Das BLV sorgt dafür, dass die Bestimmungen über die Informatiksicherheit Teil der Nutzungsvereinbarungen mit den Kantonen und mit den Instituten, Laboratorien und Versuchstierhaltungen sowie Teil der Vereinbarungen mit den Leistungserbringern sind.
 
 <sup>3</sup> Die Kantone sorgen für die Informatiksicherheit in der kantonalen Behörde und bei den Mitgliedern der kantonalen Tierversuchskommission.
 
-[^20-1]: [[AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)Art. 22 Abs. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Anhang Ziff. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)Art. 29 Abs. 1]. Siehe heute: die Bundesinformatikverordnung vom 9. Dez. 2011 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^20-1]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^20-2]: Fassung gemäss Anhang Ziff. 28 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 21
 
@@ -577,6 +578,6 @@ Anhang 2
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)konsultiert werden.

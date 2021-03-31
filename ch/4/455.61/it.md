@@ -3,11 +3,11 @@ sr: "455.61"
 title: Ordinanza del 1° settembre 2010 concernente il sistema di informazione nell’ambito della sperimentazione animale (Ordinanza animex-ch)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/563"
 language: it
-version: 2014-05-01
+version: 2021-04-01
 adopted: 2010-09-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20140501/it/xml/fedlex-data-admin-ch-eli-cc-2010-563-20140501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20140501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/563/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2010-563-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/563/20140501/it"
 
 (OGEA)
 
-del 1° settembre 2010 (Stato 1° maggio 2014)
+del 1° settembre 2010 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -295,13 +295,14 @@ L’istituto, il laboratorio, il centro di detenzione di animali da laboratorio 
 
 **Sicurezza informatica**
 
-<sup>1</sup> Le misure per garantire la sicurezza informatica si basano sull’ordinanza del 26 settembre 2003[^20-1] sull’informatica nell’Amministrazione federale.
+<sup>1</sup> Le misure per garantire la sicurezza informatica si basano sull’ordinanza del 27 maggio 2020[^20-1] sui ciber-rischi.[^20-2]
 
 <sup>2</sup> L’USAV provvede affinché le disposizioni concernenti la sicurezza informatica siano integrate negli accordi di utilizzazione con i Cantoni e con gli istituti, i laboratori e i centri di detenzione degli animali da laboratorio nonché negli accordi con i fornitori di prestazioni.
 
 <sup>3</sup> I Cantoni provvedono alla sicurezza informatica per quanto concerne l’autorità cantonale e i membri della commissione cantonale per gli esperimenti sugli animali.
 
-[^20-1]: [[RU 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 cpv. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)all. n. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 cpv. 1]. Vedo ora l’O del 9 dic. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^20-1]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^20-2]: Nuovo testo giusta l’all. n. 28 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 21
 
@@ -430,9 +431,6 @@ Allegato 1*[^t-1]*
 <tr><td>ILPA</td><td>– le persone e gli esperimenti nell’istituto, nel laboratorio o nel centro di detenzione di animali da laboratorio</td></tr>
 <tr><td>CO-CT</td><td>– il proprio Cantone, eccetto i settori di competenza di istituti, laboratori e centri di detenzione di animali da laboratorio</td></tr>
 <tr><td></td><td>– le persone, gli istituti, i laboratori e i centri di detenzione di tutta la Svizzera</td></tr>
-<tr><td></td><td>[tab]</td></tr>
-<tr><td></td><td>[tab]</td></tr>
-<tr><td></td><td>[tab]</td></tr>
 <tr><td>CO-COM</td><td>– il proprio Cantone, eccetto i settori di competenza di istituti, laboratori, centri di detenzione di animali da laboratorio e dei Cantoni</td></tr>
 <tr><td></td><td>– settore della formazione, del perfezionamento e dell’aggiornamento se la commissione per gli esperimenti sugli animali partecipa alla sua gestione</td></tr>
 <tr><td>CO-USAV</td><td>– l’intera Svizzera, eccetto i settori di competenza di istituti, laboratori, centri di detenzione di animali da laboratorio e dei Cantoni</td></tr>
@@ -464,7 +462,6 @@ Allegato 1*[^t-1]*
   - – elenchi di Paesi;
   - – lista di direttive;
   - – lista degli uffici veterinari cantonali, inclusi gli indirizzi e altri recapiti.
-  - [tab]
 
 ### 5. Diritti di accesso dei diversi utenti ai dati del sistema d’informazione elettronico
 
