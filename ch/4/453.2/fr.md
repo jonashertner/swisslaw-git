@@ -3,18 +3,18 @@ sr: "453.2"
 title: "Ordonnance du 20 avril 2016 sur le contrôle de l'origine licite des produits de la pêche maritime importés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: fr
-version: 2018-11-01
+version: 2021-04-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20181101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-272-20181101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20181101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-272-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le contrôle de l’origine licite des produits de la pêche maritime importés
 
-du 20 avril 2016 (Etat le 1<sup>er</sup> novembre 2018)
+du 20 avril 2016 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -51,7 +51,7 @@ Elle ne s’applique pas:
 
 Au sens de la présente ordonnance, on entend par:
 
-- a. *Etat du pavillon:* l’Etat qui a immatriculé un navire de pêche battant pavillon de ce pays;
+- a. *État du pavillon:* l’État qui a immatriculé un navire de pêche battant pavillon de ce pays;
 - b. *lot:* les produits de la pêche expédiés simultanément ou sous le couvert d’un document de transport unique à un importateur;
 - c.
 
@@ -81,7 +81,7 @@ Les produits de la pêche visés à l’annexe 1 peuvent être importés à titr
 - a. s’ils sont d’origine licite;
 - b. s’ils sont accompagnés des documents requis.
 
-<sup>2</sup> Les produits de la pêche qui ne proviennent pas de l’un des Etats du pavillon mentionnés à l’annexe 2 doivent être en outre accompagnés d’un certificat de capture. L’importation de ces produits est soumise à la procédure de notification préalable prévue à la section 3.
+<sup>2</sup> Les produits de la pêche qui ne proviennent pas de l’un des États du pavillon mentionnés à l’annexe 2 doivent être en outre accompagnés d’un certificat de capture. L’importation de ces produits est soumise à la procédure de notification préalable prévue à la section 3.
 
 #### Art. 5
 
@@ -97,13 +97,13 @@ Ils ne proviennent pas de la pêche illicite, non déclarée ou non réglementé
 
   effectuées par des navires de pêche:
 
-  - 1\. dûment immatriculés par l’Etat du pavillon,
+  - 1\. dûment immatriculés par l’État du pavillon,
   - 2\. clairement identifiables,
-  - 3\. non soumis à des mesures d’interdiction émises par un Etat particulier, des communautés d’Etats ou des organisations de pêche régionales,
+  - 3\. non soumis à des mesures d’interdiction émises par un État particulier, des communautés d’États ou des organisations de pêche régionales,
   - 4\. disposant des autorisations de pêche requises pour la capture des espèces de poissons concernées, et
-  - 5\. exerçant leur activité de pêche dans le respect des règles fixées par l’Etat concerné et par l’organisation de pêche régionale compétente;
+  - 5\. exerçant leur activité de pêche dans le respect des règles fixées par l’État concerné et par l’organisation de pêche régionale compétente;
 
-- b. déclarées lors du débarquement conformément aux dispositions de l’Etat concerné ou de l’organisation de pêche régionale compétente, et
+- b. déclarées lors du débarquement conformément aux dispositions de l’État concerné ou de l’organisation de pêche régionale compétente, et
 - c. ne dépassant pas les limites des quotas de pêche applicables à l’espèce de poisson concernée.
 
 #### Art. 6
@@ -112,7 +112,7 @@ Ils ne proviennent pas de la pêche illicite, non déclarée ou non réglementé
 
 <sup>1</sup> Le certificat de capture atteste que les poissons des espèces et quantités indiquées ont été capturés licitement par un navire autorisé à pratiquer la pêche durant une période déterminée et sur un territoire de pêche défini ou un type de pêche particulier.
 
-<sup>2</sup> Le certificat doit être validé par l’Etat du pavillon du navire de pêche qui a capturé le poisson dont sont issus les produits de la pêche.
+<sup>2</sup> Le certificat doit être validé par l’État du pavillon du navire de pêche qui a capturé le poisson dont sont issus les produits de la pêche.
 
 <sup>3</sup> Le certificat de capture doit contenir les données du modèle figurant à l’annexe 3.
 
@@ -135,15 +135,15 @@ Par documents d’accompagnement, on entend, pour chaque lot, les documents suiv
 
 **Interdiction d’importer**
 
-Il est interdit d’importer des produits de la pêche visés à l’annexe 5 en provenance des Etats du pavillon qui y sont inscrits.
+Il est interdit d’importer des produits de la pêche visés à l’annexe 5 en provenance des États du pavillon qui y sont inscrits.
 
-## Section 3 Procédure de notification préalable prévue pour les lots ne provenant pas des Etats du pavillon inscrits à l’annexe 2
+## Section 3 Procédure de notification préalable prévue pour les lots ne provenant pas des États du pavillon inscrits à l’annexe 2
 
 #### Art. 9
 
 **Notification préalable du lot**
 
-<sup>1</sup> L’arrivée d’un lot de produits de la pêche ne provenant pas des Etats du pavillon inscrits à l’annexe 2 doit être notifiée préalablement, au plus tard trois jours ouvrés avant la date d’importation prévue, à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).
+<sup>1</sup> L’arrivée d’un lot de produits de la pêche ne provenant pas des États du pavillon inscrits à l’annexe 2 doit être notifiée préalablement, au plus tard trois jours ouvrés avant la date d’importation prévue, à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV).
 
 <sup>2</sup> L’OSAV peut accorder un délai plus court si cela se justifie.
 
@@ -210,7 +210,7 @@ L’OSAV et l’Administration fédérale des douanes (AFD) sont compétents pou
 
 **Contestations**
 
-Les organes de contrôle contestent les lots qui ne proviennent pas des Etats du pavillon mentionnés à l’annexe 2 et ne remplissent pas les conditions d’importation. Ils contestent notamment les lots:
+Les organes de contrôle contestent les lots qui ne proviennent pas des États du pavillon mentionnés à l’annexe 2 et ne remplissent pas les conditions d’importation. Ils contestent notamment les lots:
 
 - a. qui n’ont pas fait l’objet d’une notification préalable réglementaire;
 - b. qui sont dépourvus des documents requis ou accompagnés de documents lacunaires à l’expiration d’un délai supplémentaire;
@@ -230,7 +230,7 @@ Les organes de contrôle contestent les lots qui ne proviennent pas des Etats du
 
 Les infractions aux art. 4, 8, 11 et 12 sont punies conformément à l’art. 26, al. 1, let. b, LCITES.
 
-## Section 6 Emoluments et débours
+## Section 6 Émoluments et débours
 
 #### Art. 18
 
@@ -244,7 +244,7 @@ Les infractions aux art. 4, 8, 11 et 12 sont punies conformément à l’art. 26
 
 #### Art. 19
 
-**Echange d’informations entre les organes de contrôle**
+**Échange d’informations entre les organes de contrôle**
 
 L’OSAV et l’AFD échangent toutes les informations nécessaires à l’accomplissement de leurs tâches.
 
@@ -259,7 +259,7 @@ Les données suivantes concernant les lots soumis à la procédure de notificati
 - a. les données relatives à l’établissement de destination;
 - b. le nom et l’adresse de l’importateur et de la personne qui déclare le lot à la douane en vue du dédouanement;
 - c. les données concernant le lot, à savoir la quantité exprimée en kilogrammes, les espèces de poissons et les zones de pêche par certificat de capture et les numéros des certificats de capture;
-- d. l’Etat du pavillon qui a établi les certificats de capture;
+- d. l’État du pavillon qui a établi les certificats de capture;
 - e. les certificats de capture numérisés;
 - f. les documents d’accompagnement numérisés;
 - g. le numéro de mainlevée;
@@ -306,18 +306,19 @@ S’il existe des doutes sur l’origine licite d’un lot et pour autant que le
 
 - a. les autorités nationales de la pêche;
 - b. les organes douaniers nationaux;
-- c. les autorités de l’UE et des Etats membres de l’UE qui sont chargées de la surveillance de la pêche et de la mise en œuvre des mesures contre la pêche illicite, non déclarée ou non réglementée;
+- c. les autorités de l’UE et des États membres de l’UE qui sont chargées de la surveillance de la pêche et de la mise en œuvre des mesures contre la pêche illicite, non déclarée ou non réglementée;
 - d. les organisations régionales de la pêche;
 - e. les organisations internationales de l’alimentation et de la pêche;
 - f. les organes policiers nationaux et internationaux.
 
 #### Art. 24
 
-**Sécurité informatique**
+**Sécurité informatique**[^24-1]
 
-Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^24-1].
+Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 27 mai 2020 sur les cyberrisques[^24-2].
 
-[^24-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^24-1]: Nouvelle teneur selon l’annexe ch. 27 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^24-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 25
 
@@ -341,17 +342,17 @@ Les mesures pour garantir la sécurité informatique sont régies par l’ordonn
 
 #### Art. 27
 
-**Inscription et radiation des Etats du pavillon à l’annexe 2 par le DFI**
+**Inscription et radiation des États du pavillon à l’annexe 2 par le DFI**
 
-<sup>1</sup> Le DFI peut inscrire des Etats du pavillon à l’annexe 2 s’ils en font la demande. La demande doit être rédigée et motivée dans l’une des langues officielles suisses ou en anglais.
+<sup>1</sup> Le DFI peut inscrire des États du pavillon à l’annexe 2 s’ils en font la demande. La demande doit être rédigée et motivée dans l’une des langues officielles suisses ou en anglais.
 
 <sup>2</sup>
 
-Un Etat du pavillon est inscrit à l’annexe 2 aux conditions suivantes:
+Un État du pavillon est inscrit à l’annexe 2 aux conditions suivantes:
 
 - a.
 
-  l’Etat du pavillon:
+  l’État du pavillon:
 
   - 1\. dispose d’une législation visant à prévenir la pêche illicite, non déclarée et non réglementée,
   - 2\. dispose d’une autorité responsable de la surveillance des dispositions légales,
@@ -360,23 +361,23 @@ Un Etat du pavillon est inscrit à l’annexe 2 aux conditions suivantes:
   - 5\. est membre des organisations de pêche régionales compétentes dans les zones de pêche,
   - 6\. a ratifié des accords internationaux visant une pêche durable, et
 
-- b. il n’existe pas d’éléments fondés donnant à penser que l’Etat tolère, favorise ou promeut la pêche illicite, non déclarée ou non réglementée.
+- b. il n’existe pas d’éléments fondés donnant à penser que l’État tolère, favorise ou promeut la pêche illicite, non déclarée ou non réglementée.
 
 <sup>3</sup> Pour ses investigations, le DFI prend en compte les informations des autorités étrangères et des organisations internationales mentionnées à l’art. 23, et les résultats des procédures de contrôle appliquées à l’importation des produits de la pêche.
 
-<sup>4</sup> Les Etats du pavillon dont il est prévu de refuser la demande d’inscription à l’annexe 2 ou de rayer l’inscription à l’annexe 2 sont consultés au préalable.
+<sup>4</sup> Les États du pavillon dont il est prévu de refuser la demande d’inscription à l’annexe 2 ou de rayer l’inscription à l’annexe 2 sont consultés au préalable.
 
 #### Art. 28
 
-**Inscription des Etats du pavillon et des produits de la pêche à l’annexe 5**
+**Inscription des États du pavillon et des produits de la pêche à l’annexe 5**
 
-<sup>1</sup> Un Etat du pavillon est inscrit à l’annexe 5 s’il existe des éléments fondés donnant à penser que cet Etat tolère, favorise ou promeut la pêche illicite, non déclarée ou non réglementée.
+<sup>1</sup> Un État du pavillon est inscrit à l’annexe 5 s’il existe des éléments fondés donnant à penser que cet État tolère, favorise ou promeut la pêche illicite, non déclarée ou non réglementée.
 
 <sup>2</sup> Lors des investigations, il est notamment tenu compte des informations des autorités étrangères et des organisations internationales visées à l’art. 23 et des résultats des procédures de contrôle appliquées à l’importation des produits de la pêche.
 
-E<sup>3</sup> Si l’Etat concerné tolère, favorise ou promeut dans une mesure considérable la pêche illicite, non déclarée ou non réglementée, l’ensemble des produits de la pêche provenant de cet Etat est inscrit à l’annexe 5; autrement, seuls les produits de la pêche des espèces pour lesquelles la licéité des captures n’est pas garantie y sont inscrits.
+E<sup>3</sup> Si l’État concerné tolère, favorise ou promeut dans une mesure considérable la pêche illicite, non déclarée ou non réglementée, l’ensemble des produits de la pêche provenant de cet État est inscrit à l’annexe 5; autrement, seuls les produits de la pêche des espèces pour lesquelles la licéité des captures n’est pas garantie y sont inscrits.
 
-<sup>4</sup> Les Etats du pavillon qu’il est prévu d’inscrire à l’annexe 5 sont préalablement consultés par le DFI.
+<sup>4</sup> Les États du pavillon qu’il est prévu d’inscrire à l’annexe 5 sont préalablement consultés par le DFI.
 
 ## Section 9 Entrée en vigueur
 
@@ -606,16 +607,16 @@ Annexe 1*[^t-1]*
 <tr><td></td><td colspan="2">ex 5600</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 4, al. 2, 9, al. 1, 15, 26, al. 2, et 27)
 
-## Etats du pavillon en provenance desquels des produits de pêche peuvent être importés sans le certificat de capture et sans la procédure de notification préalable
+## États du pavillon en provenance desquels des produits de pêche peuvent être importés sans le certificat de capture et sans la procédure de notification préalable
 
 [^t-2]: Mise à jour selon le ch. I de l’O du DFI du 4 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3369](https://fedlex.data.admin.ch/eli/oc/2018/546)).
 
 <table>
-<tr><th>Etat du pavillon</th><th>Code ISO</th></tr>
+<tr><th>État du pavillon</th><th>Code ISO</th></tr>
 <tr><td>Allemagne</td><td>DE</td></tr>
 <tr><td>Australie</td><td>AU</td></tr>
 <tr><td>Autriche</td><td>AT</td></tr>
@@ -627,7 +628,7 @@ Annexe 2*[^t-2]*
 <tr><td>Danemark</td><td>DK</td></tr>
 <tr><td>Espagne</td><td>ES</td></tr>
 <tr><td>Estonie</td><td>EE</td></tr>
-<tr><td>Etats-Unis</td><td>US</td></tr>
+<tr><td>États-Unis</td><td>US</td></tr>
 <tr><td>Finlande</td><td>FI</td></tr>
 <tr><td>France</td><td>FR</td></tr>
 <tr><td>Grèce</td><td>GR</td></tr>
@@ -665,7 +666,7 @@ Annexe 3
 <tr><td>**2.**</td><td colspan="4">Nom du navire de pêche</td><td colspan="2">Pavillon, port d’attache et numéro d’immatriculation</td><td colspan="3">Indicatif d’appel radio</td><td colspan="4">Numéros Lloyd’s/OMI (le cas échéant)</td></tr>
 <tr><td colspan="5">Numéro de la licence de pêche date limite de validité</td><td colspan="2">Numéro Inmarsat</td><td colspan="3">Fax, téléphone</td><td colspan="4">Adresse électronique (le cas échéant)</td></tr>
 <tr><td>**3.**</td><td colspan="4">Description du produit</td><td colspan="2">Type de transformation autorisée à bord</td><td>**4.**</td><td colspan="6">Mesures de conservation et de gestion applicables</td></tr>
-<tr><td colspan="2">Espèce</td><td colspan="2">Code CN des produits</td><td colspan="2">Zones et dates de capture</td><td colspan="3">Poids vif estimé (kg)</td><td colspan="3">Poids débarqué estimé (kg)</td><td colspan="2">Ev. poids débarqué vérifié (kg)</td></tr>
+<tr><td colspan="2">Espèce</td><td colspan="2">Code CN des produits</td><td colspan="2">Zones et dates de capture</td><td colspan="3">Poids vif estimé (kg)</td><td colspan="3">Poids débarqué estimé (kg)</td><td colspan="2">Év. poids débarqué vérifié (kg)</td></tr>
 <tr><td>**5.**</td><td colspan="5">Nom du capitaine du navire de pêche</td><td colspan="3">Signature</td><td colspan="5">Cachet</td></tr>
 <tr><td>**6.**</td><td colspan="5">Déclaration de transbordement en mer</td><td colspan="3">Signature et date</td><td colspan="4">Date/zone/position de transbordement</td><td>Poids estimé (kg)</td></tr>
 <tr><td colspan="3">Capitaine du navire receveur</td><td colspan="3">Signature</td><td colspan="3">Nom du navire</td><td colspan="2">Indicatif d’appel radio</td><td colspan="3">Numéros Lloyd’s/OMI (le cas échéant)</td></tr>
@@ -675,7 +676,7 @@ Annexe 3
 <tr><td>**7.**</td><td colspan="23">Autorisation de transbordement dans une zone portuaire</td></tr>
 <tr><td colspan="2">Nom</td><td>Autorité</td><td colspan="4">Signature</td><td colspan="2">Adresse</td><td colspan="3">Téléphone</td><td colspan="5">Port de débarquement</td><td colspan="5">Date de débarquement</td><td colspan="2">Cachet ou tampon</td></tr>
 <tr><td>**8.**</td><td colspan="7">Nom et adresse de l’exportateur</td><td colspan="8">Signature</td><td colspan="5">Date</td><td colspan="3">Cachet</td></tr>
-<tr><td>**9.**</td><td colspan="23">Validation par l’autorité de l’Etat du pavillon</td></tr>
+<tr><td>**9.**</td><td colspan="23">Validation par l’autorité de l’État du pavillon</td></tr>
 <tr><td colspan="5">Nom/titre</td><td colspan="6">Signature</td><td colspan="7">Date</td><td colspan="6">Cachet ou tampon</td></tr>
 <tr><td>**10.**</td><td colspan="23">Informations sur le transport, *voir annexe*</td></tr>
 <tr><td>**11.**</td><td colspan="23">Déclaration de l’importateur</td></tr>
@@ -691,7 +692,7 @@ Annexe 4
 
 ## Déclaration établie par l’usine de transformation (modèle)
 
-Je confirme, par la présente, que les produits de la pêche transformés ci-après: …
+Je confirme, par la présente, que les produits de la pêche transformés ci-après: ...
 
 (description des produits et code de la nomenclature combinée) sont issus de captures pratiquées dans les limites fixées dans les certificats de capture suivants:
 
@@ -721,8 +722,8 @@ Annexe 5
 
 (art. 8 et 28)
 
-## Etats du pavillon en provenance desquels certaines importations sont interdites et produits de la pêche concernés
+## États du pavillon en provenance desquels certaines importations sont interdites et produits de la pêche concernés
 
 <table>
-<tr><td>Etat du pavillon</td><td>Code ISO</td><td>Espèces de poissons concernées par l’interdiction d’importation</td><td>Numéros du tarif concernés par l’interdiction d’importation</td><td>Statut de la transformation</td><td>Remarques</td></tr>
+<tr><td>État du pavillon</td><td>Code ISO</td><td>Espèces de poissons concernées par l’interdiction d’importation</td><td>Numéros du tarif concernés par l’interdiction d’importation</td><td>Statut de la transformation</td><td>Remarques</td></tr>
 </table>

@@ -3,18 +3,18 @@ sr: "453.2"
 title: Verordnung vom 20. April 2016 über die Kontrolle der rechtmässigen Herkunft von eingeführten Erzeugnissen der Meeresfischerei
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: de
-version: 2018-11-01
+version: 2021-04-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20181101/de/xml/fedlex-data-admin-ch-eli-cc-2016-272-20181101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20181101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2016-272-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Kontrolle der rechtmässigen Herkunft von eingeführten Erzeugnissen der Meeresfischerei
 
-vom 20. April 2016 (Stand am 1. November 2018)
+vom 20. April 2016 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -313,11 +313,12 @@ Bestehen Zweifel an der rechtmässigen Herkunft einer Sendung, so können die Sc
 
 #### Art. 24
 
-**Informatiksicherheit**
+**Informatiksicherheit**[^24-1]
 
-Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Bundesinformatikverordnung vom 9. Dezember 2011[^24-1].
+Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020[^24-2].
 
-[^24-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^24-1]: Fassung gemäss Anhang Ziff. 27 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^24-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 25
 
@@ -698,7 +699,7 @@ Anhang 4
 
 ## Verarbeitungserklärung (Muster)
 
-Hiermit bestätige ich, dass die verarbeiteten Fischereierzeugnisse: …
+Hiermit bestätige ich, dass die verarbeiteten Fischereierzeugnisse: ...
 
 (Beschreibung der Erzeugnisse und Code-Nummer der kombinierten Nomenklatur) aus Fängen stammen, die im Rahmen der nachstehenden Fangbescheinigungen getätigt wurden:
 

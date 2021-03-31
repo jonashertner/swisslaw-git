@@ -3,18 +3,18 @@ sr: "453.2"
 title: Ordinanza del 20 aprile 2016 concernente il controllo della provenienza legale dei prodotti della pesca marittima importati
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/272"
 language: it
-version: 2018-11-01
+version: 2021-04-01
 adopted: 2016-04-20
 in_force: 2017-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20181101/it/xml/fedlex-data-admin-ch-eli-cc-2016-272-20181101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20181101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/272/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2016-272-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/272/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente il controllo della provenienza legale dei prodotti della pesca marittima importati
 
-del 20 aprile 2016 (Stato 1° novembre 2018) (Stato 1° novembre 2018)
+del 20 aprile 2016 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -313,11 +313,12 @@ Se sussistono dubbi sulla provenienza legale di una partita, le scansioni dei do
 
 #### Art. 24
 
-**Sicurezza informatica**
+**Sicurezza informatica**[^24-1]
 
-I provvedimenti volti a garantire la sicurezza informatica sono retti dall’ordinanza del 9 dicembre 2011[^24-1] sull’informatica nell’Amministrazione federale.
+I provvedimenti volti a garantire la sicurezza informatica sono retti dall’ordinanza del 27 maggio 2020[^24-2] sui ciber-rischi.
 
-[^24-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^24-1]: Nuovo testo giusta l’all. n. 27 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^24-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 25
 
