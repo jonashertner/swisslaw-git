@@ -4,13 +4,13 @@ number: "935.111"
 title: Gastgewerbeverordnung
 short: GGV
 language: de
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-11-20
+version: 2021-04-01
+valid_until: 2023-02-28
+version_adopted: 2021-02-17
 adopted: 1994-04-13
 in_force: 1994-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1768/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2209/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1768/pdf_file"
 
 (GGV)
 
-vom 13.04.1994 (Stand 01.01.2020)
+vom 13.04.1994 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -226,7 +226,7 @@ beschliesst:
 
 **Zuständigkeit zur Bewilligung von Freinächten**
 
-<sup>1</sup> Das Amt für Berner Wirtschaft (beco) bewilligt kantonale Freinächte aufgrund von Ereignissen, die mehr als einen Verwaltungskreis betreffen.
+<sup>1</sup> Das Amt für Wirtschaft (AWI) bewilligt kantonale Freinächte aufgrund von Ereignissen, die mehr als einen Verwaltungskreis betreffen.
 
 <sup>2</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter bewilligt regionale Freinächte aufgrund von Ereignissen, die das Gebiet mehrerer Gemeinden ihres oder seines Verwaltungskreises betreffen.
 
@@ -333,7 +333,7 @@ beschliesst:
 
 **Anerkennung**
 
-<sup>1</sup> Das beco anerkennt Abschlüsse bernischer Berufsverbände als bernische Fähigkeitsausweise, wenn
+<sup>1</sup> Das AWI anerkennt Abschlüsse bernischer Berufsverbände als bernische Fähigkeitsausweise, wenn
 
 - a die Voraussetzungen von Artikel 20 GGG[^20-1] erfüllt sind;
 - b …
@@ -344,7 +344,7 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Das beco stellt zudem auf Gesuch hin die Bescheinigungen aus, die nach dem Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit[^20-2] erforderlich sind.
+<sup>4</sup> Das AWI stellt zudem auf Gesuch hin die Bescheinigungen aus, die nach dem Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit[^20-2] erforderlich sind.
 
 [^20-1]: BSG 935.11
 [^20-2]: SR [0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/de)

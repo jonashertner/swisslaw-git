@@ -4,13 +4,13 @@ number: "935.111"
 title: "Ordonnance sur l'hôtellerie et la restauration"
 short: OHR
 language: fr
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-11-20
+version: 2021-04-01
+valid_until: 2023-02-28
+version_adopted: 2021-02-17
 adopted: 1994-04-13
 in_force: 1994-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1768/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2209/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1768/pdf_file"
 
 (OHR)
 
-du 13.04.1994 (état au 01.01.2020)
+du 13.04.1994 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -230,7 +230,7 @@ arrête:
 
 **Compétence relative à l'autorisation des nuits libres**
 
-<sup>1</sup> L'Office de l'économie bernoise (beco) autorise les nuits libres cantonales pour les événements qui concernent plus d'un arrondissement administratif.
+<sup>1</sup> L'Office de l’économie (OEC) autorise les nuits libres cantonales pour les événements qui concernent plus d'un arrondissement administratif.
 
 <sup>2</sup> Le préfet ou la préfète autorise les nuits libres régionales pour les événements qui concernent le territoire de plusieurs communes relevant de son arrondissement administratif.
 
@@ -337,7 +337,7 @@ arrête:
 
 **Formations reconnues**
 
-<sup>1</sup> Le beco reconnaît les diplômes d'associations professionnelles bernoises comme certificats de capacité bernois si
+<sup>1</sup> L'OEC reconnaît les diplômes d'associations professionnelles bernoises comme certificats de capacité bernois si
 
 - a les conditions prévues à l'article 20 LHR sont remplies,
 - b …
@@ -348,7 +348,7 @@ arrête:
 
 <sup>3</sup> …
 
-<sup>4</sup> Le beco délivre également sur demande les attestations requises en vertu de l'accord du 21 juin 1999 entre la Confédération suisse, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, sur la libre circulation des personnes[^20-1].
+<sup>4</sup> L'OEC délivre également sur demande les attestations requises en vertu de l'accord du 21 juin 1999 entre la Confédération suisse, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, sur la libre circulation des personnes[^20-1].
 
 [^20-1]: RS [0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/fr)
 
