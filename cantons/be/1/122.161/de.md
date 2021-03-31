@@ -4,13 +4,13 @@ number: "122.161"
 title: Verordnung über Niederlassung und Aufenthalt der Schweizer
 short: VNA
 language: de
-version: 2016-02-01
-valid_until: 2021-03-31
-version_adopted: 2015-12-09
+version: 2021-04-01
+valid_until: 2024-01-31
+version_adopted: 2021-02-24
 adopted: 1986-06-18
 in_force: 1986-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.161"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1610/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2218/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1610/pdf_file"
 
 (VNA)
 
-vom 18.06.1986 (Stand 01.02.2016)
+vom 18.06.1986 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -64,11 +64,11 @@ beschliesst:
 
 **Amtliche Meldungen**
 
-<sup>1</sup> Die Gemeinde teilt ihr gemeldete Adressen, die nicht im Gebäude- und Wohnungsregister eingetragen sind, dem Amt für Geoinformation der Bau-, Verkehrs- und Energiedirektion mit.
+<sup>1</sup> Die Gemeinde teilt ihr gemeldete Adressen, die nicht im Gebäude- und Wohnungsregister eingetragen sind, dem Amt für Geoinformation der Direktion für Inneres und Justiz mit.
 
 <sup>2</sup> Sobald die Gemeinde Kenntnis von einem Todesfall erhält, erstattet sie dem Siegelungsorgan unverzüglich davon Meldung und überlässt ihm eine Kopie der amtlichen Todesmitteilung des Zivilstandsamts, das den Todesfall beurkundet hat.
 
-<sup>3</sup> Der Gerichtsschreiber meldet den Einwohnerkontrollen gerichtlich angeordnete Schriftensperrungen.
+<sup>3</sup> Das Gericht meldet den Einwohnerkontrollen gerichtlich angeordnete Schriftensperrungen.
 
 #### Art. 3a
 

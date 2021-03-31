@@ -4,13 +4,13 @@ number: "122.161"
 title: "Ordonnance sur l'établissement et le séjour des Suisses"
 short: OES
 language: fr
-version: 2016-02-01
-valid_until: 2021-03-31
-version_adopted: 2015-12-09
+version: 2021-04-01
+valid_until: 2024-01-31
+version_adopted: 2021-02-24
 adopted: 1986-06-18
 in_force: 1986-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.161"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1610/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2218/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1610/pdf_file"
 
 (OES)
 
-du 18.06.1986 (état au 01.02.2016)
+du 18.06.1986 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -62,11 +62,11 @@ arrête:
 
 **Communications d'office**
 
-<sup>1</sup> La commune communique à l’Office de l’information géographique de la Direction des travaux publics, des transports et de l’énergie les adresses qui lui ont été annoncées et qui ne se trouvent pas dans le registre des bâtiments et des logements.
+<sup>1</sup> La commune communique à l’Office de l’information géographique de la Direction de l'intérieur et de la justice les adresses qui lui ont été annoncées et qui ne se trouvent pas dans le registre des bâtiments et des logements.
 
 <sup>2</sup> Dès qu'elle a connaissance d'un cas de décès, la commune en donne communication immédiate à l'organe responsable des scellés et lui transmet une copie de l'avis de décès de l'office de l'état civil qui a enregistré l'événement.
 
-<sup>3</sup> Le greffier communique au contrôle des habitants les interdictions de disposer des pièces d'identité ordonnées par le juge.
+<sup>3</sup> Le tribunal communique au contrôle des habitants les interdictions de disposer des pièces d'identité ordonnées par le juge.
 
 #### Art. 3a
 
