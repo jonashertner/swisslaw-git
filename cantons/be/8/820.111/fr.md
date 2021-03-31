@@ -4,13 +4,13 @@ number: "820.111"
 title: "Ordonnance relative à l'étude d'impact sur l'environnement"
 short: OCEIE
 language: fr
-version: 2020-08-01
-valid_until: 2021-03-31
-version_adopted: 2020-02-05
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 2009-10-14
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/820.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2111/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2172/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2111/pdf_file"
 
 (OCEIE)
 
-du 14.10.2009 (état au 01.08.2020)
+du 14.10.2009 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -52,7 +52,7 @@ arrête:
 
 **Services spécialisés compétents**
 
-<sup>1</sup> L’Office de la coordination environnementale et de l’énergie (OCEE) est le service cantonal spécialisé de la protection de l’environnement au sens de l’article 12, alinéa1 OEIE. Il est notamment compétent pour
+<sup>1</sup> L’Office de l’environnement et de l’énergie (OEE) est le service cantonal spécialisé de la protection de l’environnement au sens de l’article 12, alinéa1 OEIE. Il est notamment compétent pour
 
 - a rédiger la prise de position relative à l’enquête préliminaire et au cahier des charges au sens de l’article 8, alinéa 2 OEIE,
 - b établir l’évaluation globale de l’impact sur l’environnement au sens de l’article 13, alinéas 3 et 4 OEIE,
@@ -60,7 +60,7 @@ arrête:
 - d édicter des directives au sens de l’article 10, alinéa 2 OEIE,
 - e prêter conseil sur toute question d’ordre général ayant trait à l’EIE.
 
-<sup>2</sup> L’autorité directrice consulte l’OCEE avant de fixer le déroulement de la procédure.
+<sup>2</sup> L’autorité directrice consulte l’OEE avant de fixer le déroulement de la procédure.
 
 <sup>3</sup> L’évaluation d’un domaine sectoriel devant être traité dans l’EIE est du ressort du service spécialisé chargé d’exécuter les prescriptions en matière de protection de l’environnement dans ce domaine.
 
@@ -84,9 +84,9 @@ arrête:
 
 **Participation de l’OFEV dans la procédure cantonale**
 
-<sup>1</sup> Lorsque l’OFEV doit être consulté en vertu de l’annexe à l’OEIE, l’OCEE lui communique la prise de position relative à l’enquête préliminaire et au cahier des charges, ainsi que l’évaluation globale. Il recueille l’avis de l’OFEV et en tient compte dans la version finale des documents de l’étude.
+<sup>1</sup> Lorsque l’OFEV doit être consulté en vertu de l’annexe à l’OEIE, l’OEE lui communique la prise de position relative à l’enquête préliminaire et au cahier des charges, ainsi que l’évaluation globale. Il recueille l’avis de l’OFEV et en tient compte dans la version finale des documents de l’étude.
 
-<sup>2</sup> Lorsque l’OFEV doit être consulté en vertu de l’article 6, alinéa 2 de la loi fédérale du 4 octobre 1991 sur les forêts (loi sur les forêts, LFo)[^6-1], l’Office des forêts et des dangers naturels (OFDN) organise la consultation et en transmet le résultat à l’OCEE.
+<sup>2</sup> Lorsque l’OFEV doit être consulté en vertu de l’article 6, alinéa 2 de la loi fédérale du 4 octobre 1991 sur les forêts (loi sur les forêts, LFo)[^6-1], l’Office des forêts et des dangers naturels (OFDN) organise la consultation et en transmet le résultat à l’OEE.
 
 [^6-1]: RS [921.0](https://db.clex.ch/link/Bund/921.0/fr)
 
@@ -96,7 +96,7 @@ arrête:
 
 <sup>1</sup> L’autorité directrice recueille l’avis de l’autorité fédérale compétente en matière de subventions au sens de l’article 22, alinéa 1 OEIE, par l’intermédiaire de l’autorité cantonale compétente en matière de subventions.
 
-<sup>2</sup> L’OCEE communique directement à l’OFEV les résultats de son évaluation globale.
+<sup>2</sup> L’OEE communique directement à l’OFEV les résultats de son évaluation globale.
 
 #### Art. 8
 

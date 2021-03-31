@@ -4,13 +4,13 @@ number: "820.111"
 title: Verordnung über die Umweltverträglichkeitsprüfung
 short: KUVPV
 language: de
-version: 2020-08-01
-valid_until: 2021-03-31
-version_adopted: 2020-02-05
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 2009-10-14
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/820.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2111/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2172/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2111/pdf_file"
 
 (KUVPV)
 
-vom 14.10.2009 (Stand 01.08.2020)
+vom 14.10.2009 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -52,7 +52,7 @@ beschliesst:
 
 **Zuständige Fachstellen**
 
-<sup>1</sup> Das Amt für Umweltkoordination und Energie (AUE) ist die zuständige Umweltschutzfachstelle nach Artikel 12 Absatz 1 UVPV. Es ist insbesondere zuständig für
+<sup>1</sup> Das Amt für Umwelt und Energie (AUE) ist die zuständige Umweltschutzfachstelle nach Artikel 12 Absatz 1 UVPV. Es ist insbesondere zuständig für
 
 - a die Stellungnahme nach Artikel 8 Absatz 2 UVPV zu Voruntersuchung und Pflichtenheft,
 - b die Gesamtbeurteilung der Umweltverträglichkeit nach Artikel 13 Absatz 3 und 4 UVPV,
