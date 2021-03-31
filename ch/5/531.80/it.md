@@ -3,18 +3,18 @@ sr: "531.80"
 title: "Ordinanza del 12 agosto 2015 sul centro di notifica per i medicamenti a uso umano d'importanza vitale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/544"
 language: it
-version: 2020-01-15
+version: 2021-04-01
 adopted: 2015-08-12
 in_force: 2015-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20200115/it/xml/fedlex-data-admin-ch-eli-cc-2015-544-20200115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20200115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2015-544-20210401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul centro di notifica per i medicamenti a uso umano d’importanza vitale
 
-del 12 agosto 2015 (Stato 15 gennaio 2020)
+del 12 agosto 2015 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -163,10 +163,16 @@ I dati registrati nel sistema di trattamento vengono conservati per almeno dieci
 
 <sup>1</sup> Il settore specializzato Agenti terapeutici disciplina in un apposito regolamento le misure organizzative e tecniche necessarie per impedire il trattamento non autorizzato dei dati e per garantire l’aggiornamento automatico del trattamento dei dati.
 
-<sup>2</sup> Per il resto si applicano l’ordinanza del 14 giugno 1993[^8-1] relativa alla legge federale sulla protezione dei dati e l’ordinanza del 9 dicembre 2011[^8-2] sull’informatica nell’Amministrazione federale.
+<sup>2</sup>
+
+Per il resto si applicano:
+
+- a. l’ordinanza del 14 giugno 1993[^8-1] relativa alla legge sulla protezione dei dati;
+- b. l’ordinanza del 27 maggio 2020[^8-2] sui ciber-rischi.[^8-3]
 
 [^8-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^8-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^8-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^8-3]: Nuovo testo giusta l’all. n. 29 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 9
 

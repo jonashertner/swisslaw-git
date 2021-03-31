@@ -3,18 +3,18 @@ sr: "531.80"
 title: Verordnung vom 12. August 2015 über die Meldestelle für lebenswichtige Humanarzneimittel
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/544"
 language: de
-version: 2020-01-15
+version: 2021-04-01
 adopted: 2015-08-12
 in_force: 2015-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20200115/de/xml/fedlex-data-admin-ch-eli-cc-2015-544-20200115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20200115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/544/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2015-544-20210401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/544/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Meldestelle für lebenswichtige Humanarzneimittel
 
-vom 12. August 2015 (Stand am 15. Januar 2020)
+vom 12. August 2015 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -163,10 +163,16 @@ Die im Datenbearbeitungssystem erfassten Daten werden ab dem Zeitpunkt der Erfas
 
 <sup>1</sup> Der Fachbereich Heilmittel regelt in einem Datenbearbeitungsreglement die organisatorischen und technischen Massnahmen, die nötig sind, um die unbefugte Bearbeitung der Daten zu verhindern und die automatische Protokollierung der Datenbearbeitung sicherzustellen.
 
-<sup>2</sup> Im Übrigen gelten die Verordnung vom 14. Juni 1993[^8-1] zum Bundesgesetz über den Datenschutz und die Bundesinformatikverordnung vom 9. Dezember 2011[^8-2].
+<sup>2</sup>
+
+Im Übrigen gelten:
+
+- a. die Verordnung vom 14. Juni 1993[^8-1] zum Bundesgesetz über den Datenschutz;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^8-2].[^8-3]
 
 [^8-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^8-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^8-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^8-3]: Fassung gemäss Anhang Ziff. 29 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 9
 
@@ -232,11 +238,11 @@ Anhang*[^t-1]*
 <tr><td>J06BB02</td><td>Tetanus-Immunglobulin</td><td></td></tr>
 <tr><td>J06BB03</td><td>Varizella/Zoster Immunglobulin</td><td></td></tr>
 <tr><td>J06BB04</td><td>Hepatitis B-Immunglobulin</td><td></td></tr>
-<tr><td>J06BB05</td><td>Tollwut-Immunglobulin</td><td></td></tr>
 </table>
 
 <table>
 <tr><th>ATC-Code</th><th>Wirkstoff</th><th>Bemerkung</th></tr>
+<tr><td>J06BB05</td><td>Tollwut-Immunglobulin</td><td></td></tr>
 <tr><td>J07</td><td>Impfstoffe</td><td></td></tr>
 <tr><td>L01AA02</td><td>Chlorambucil</td><td></td></tr>
 <tr><td>L01AA03</td><td>Melphalan</td><td></td></tr>
