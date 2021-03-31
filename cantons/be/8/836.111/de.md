@@ -4,13 +4,13 @@ number: "836.111"
 title: Arbeitsmarktverordnung
 short: AMV
 language: de
-version: 2019-05-01
-valid_until: 2021-03-31
-version_adopted: 2019-03-20
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/836.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1633/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2180/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1633/pdf_file"
 
 (AMV)
 
-vom 29.10.2003 (Stand 01.05.2019)
+vom 29.10.2003 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -52,7 +52,7 @@ beschliesst:
 - b Travail.Suisse/Bern,
 - c angestellte bern.
 
-<sup>3</sup> Die betroffenen Direktionen sind je durch eine Mitarbeiterin oder einen Mitarbeiter der Volkswirtschaftsdirektion, der Gesundheits- und Fürsorgedirektion, der Polizei- und Militärdirektion, der Erziehungsdirektion sowie der Bau-, Verkehrs- und Energiedirektion vertreten.
+<sup>3</sup> Die betroffenen Direktionen sind je durch eine Mitarbeiterin oder einen Mitarbeiter der Wirtschafts-, Energie- und Umweltdirektion, der Gesundheits-, Sozial- und Integrationsdirektion, der Sicherheitsdirektion, der Bildungs- und Kulturdirektion sowie der Bau- und Verkehrsdirektion vertreten.
 
 #### Art. 2
 
@@ -99,7 +99,7 @@ beschliesst:
 
 **Sekretariat**
 
-<sup>1</sup> Das Amt für Berner Wirtschaft (beco) führt das Sekretariat.
+<sup>1</sup> Das Amt für Wirtschaft (AWI) führt das Sekretariat.
 
 <sup>2</sup> Das Sekretariat nimmt die Aufgaben gemäss Artikel 4 Absatz 1 Buchstabe d AMG wahr.
 
@@ -137,7 +137,7 @@ beschliesst:
 
 #### Art. 14
 
-<sup>1</sup> Das beco erfasst und wertet regelmässig aus:
+<sup>1</sup> Das AWI erfasst und wertet regelmässig aus:
 
 - a Lohnerhebungen, Beschäftigtenstatistiken und Betriebszählungen des Bundesamtes für Statistik,
 - b Daten von Arbeitgeber- und Arbeitnehmerorganisationen zu den Lohn- und Arbeitsbedingungen,
@@ -174,13 +174,13 @@ beschliesst:
 
 <sup>3</sup> Die Steuerungsgruppe setzt sich aus den Leiterinnen und Leitern folgender Behörden zusammen:
 
-- a beco,
+- a Amt für Arbeitslosenversicherung (AVA),
 - b Mittelschul- und Berufsbildungsamt (MBA),
-- c Berufs-, Studien- und Laufbahnberatung (BIZ) des Mittelschul- und Berufsbildungsamtes (MBA),
+- c Berufs-, Studien- und Laufbahnberatung (BIZ) des MBA,
 - d IV-Stelle Bern (IVB),
-- e Sozialamt (SOA),
+- e Amt für Integration und Soziales (AIS),
 - f Sozialamt der Stadt Bern,
-- g Amt für Migration und Personenstand (MIP).
+- g Amt für Bevölkerungsdienste (ABEV).
 
 [^17a-1]: BSG 836.11
 
@@ -192,7 +192,7 @@ beschliesst:
 
 <sup>2</sup> Sie kann ständige oder projektbezogene Arbeitsgruppen einsetzen.
 
-<sup>3</sup> Das beco führt das Sekretariat der Steuerungsgruppe.
+<sup>3</sup> Das AVA führt das Sekretariat der Steuerungsgruppe.
 
 #### Art. 17c
 
@@ -212,7 +212,7 @@ beschliesst:
 
 **Abklärungen**
 
-<sup>1</sup> Das beco ist insbesondere berechtigt,
+<sup>1</sup> Das AWI ist insbesondere berechtigt,
 
 - a sich die Bücher vorlegen zu lassen,
 - b Inspektionen vorzunehmen,
@@ -225,8 +225,8 @@ beschliesst:
 
 <sup>1</sup> Die nach bundesrechtlichen Vorschriften zu leistende Kaution ist bei folgenden Stellen zu hinterlegen:
 
-- a in Form einer Bürgschaft, Garantieversicherung oder Kautionsversicherung beim beco,
-- b in Form von Kassenobligationen oder Bareinlagen bei einer in der Schweiz tätigen Bank unter Vorlage einer entsprechenden Bankbescheinigung beim beco.
+- a in Form einer Bürgschaft, Garantieversicherung oder Kautionsversicherung beim AWI,
+- b in Form von Kassenobligationen oder Bareinlagen bei einer in der Schweiz tätigen Bank unter Vorlage einer entsprechenden Bankbescheinigung beim AWI.
 
 ## 3 Kantonale arbeitsmarktliche Massnahmen
 
@@ -266,9 +266,9 @@ beschliesst:
 
 **Abschluss von Zusammenarbeitsverträgen**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion ist befugt, Zusammenarbeitsverträge im Sinne von Artikel 32 Absatz 1 AMG[^23-1] abzuschliessen und die entsprechenden Beitragsverpflichtungen einzugehen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion ist befugt, Zusammenarbeitsverträge im Sinne von Artikel 32 Absatz 1 AMG[^23-1] abzuschliessen und die entsprechenden Beitragsverpflichtungen einzugehen.
 
-[^23-1]: BSG 836.11
+[^23-1]: BSG [836.11](https://www.belex.sites.be.ch/data/836.11/de)
 
 #### Art. 24
 

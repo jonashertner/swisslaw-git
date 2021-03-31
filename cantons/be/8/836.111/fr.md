@@ -4,13 +4,13 @@ number: "836.111"
 title: Ordonnance sur le marché du travail
 short: OMT
 language: fr
-version: 2019-05-01
-valid_until: 2021-03-31
-version_adopted: 2019-03-20
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/836.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1633/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2180/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1633/pdf_file"
 
 (OMT)
 
-du 29.10.2003 (état au 01.05.2019)
+du 29.10.2003 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -52,7 +52,7 @@ arrête:
 - b Travail.Suisse/Berne,
 - c angestellte bern.
 
-<sup>3</sup> Les directions concernées sont représentées par un collaborateur ou une collaboratrice de la Direction de l'économie publique, de la Direction de la santé publique et de la prévoyance sociale, de la Direction de la police et des affaires militaires, de la Direction de l'instruction publique et de la Direction des travaux publics, des transports et de l'énergie.
+<sup>3</sup> Les directions concernées sont représentées par un collaborateur ou une collaboratrice de la Direction de l’économie, de l’énergie et de l’environnement, de la Direction de la santé, des affaires sociales et de l’intégration, de la Direction de la sécurité, de la Direction de l’instruction publique et de la culture et de la Direction des travaux publics et des transports.
 
 #### Art. 2
 
@@ -99,7 +99,7 @@ arrête:
 
 **Secrétariat**
 
-<sup>1</sup> L'office de l'économie bernoise (beco) est chargé du secrétariat.
+<sup>1</sup> L'Office de l'économie (OEC) est chargé du secrétariat.
 
 <sup>2</sup> Le secrétariat assume les tâches prévues à l'article 4, alinéa 1, lettre d LMT.
 
@@ -137,7 +137,7 @@ arrête:
 
 #### Art. 14
 
-<sup>1</sup> Le beco procède régulièrement à la saisie et à l'évaluation:
+<sup>1</sup> L'OEC procède régulièrement à la saisie et à l'évaluation:
 
 - a de recensements de salaires, de statistiques de l'emploi et de recensements des entreprises effectués par l'Office fédéral de la statistique,
 - b de données fournies par des organisations d'employeurs et d'employés sur les conditions de salaire et de travail,
@@ -174,13 +174,13 @@ arrête:
 
 <sup>3</sup> Le groupe de pilotage se compose des directeurs et directrices des autorités suivantes:
 
-- a beco,
-- b Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle (OSP),
-- c Orientation professionnelle et personnelle (centres OP) de l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle (OSP),
+- a Office de l'assurance-chômage (OAC),
+- b Office des écoles moyennes et de la formation professionnelle (OMP),
+- c Orientation professionnelle et personnelle (centres OP) de l'OMP,
 - d Office AI de Berne (OAIB),
-- e Office des affaires sociales (OAS) du canton de Berne,
+- e Office de l’intégration et de l’action sociale (OIAS) du canton de Berne,
 - f Service social de la Ville de Berne,
-- g Office de la population et des migrations (OPM).
+- g Office de la population (OPOP).
 
 [^17a-1]: RSB 836.11
 
@@ -192,7 +192,7 @@ arrête:
 
 <sup>2</sup> Il peut former des groupes de travail permanents ou spécifiques aux projets.
 
-<sup>3</sup> Le beco assure le secrétariat du groupe de pilotage.
+<sup>3</sup> L'OAC assure le secrétariat du groupe de pilotage.
 
 #### Art. 17c
 
@@ -212,7 +212,7 @@ arrête:
 
 **Examens**
 
-<sup>1</sup> Le beco est notamment habilité à
+<sup>1</sup> L'OEC est notamment habilité à
 
 - a demander la présentation des livres,
 - b procéder à des inspections,
@@ -225,8 +225,8 @@ arrête:
 
 <sup>1</sup> La caution due conformément aux dispositions fédérales doit être déposée, selon la forme choisie:
 
-- a auprès du beco pour les cautionnements, les assurances de garantie et les assurances de cautionnement,
-- b auprès d'une banque opérant en Suisse, avec attestation correspondante à l'attention du beco, pour les obligations de caisse ou les versements en numéraire.
+- a auprès de l'OEC pour les cautionnements, les assurances de garantie et les assurances de cautionnement,
+- b auprès d'une banque opérant en Suisse, avec attestation correspondante à l'attention de l'OEC, pour les obligations de caisse ou les versements en numéraire.
 
 ## 3 Mesures cantonales de marché du travail
 
@@ -266,9 +266,9 @@ arrête:
 
 **Conclusion de contrats de collaboration**
 
-<sup>1</sup> La Direction de l'économie publique est habilitée à conclure des contrats de collaboration au sens de l'article 32, alinéa 1 LMT[^23-1] et à prendre les engagements de contributions correspondants.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement est habilitée à conclure des contrats de collaboration au sens de l'article 32, alinéa 1 LMT[^23-1] et à prendre les engagements de contributions correspondants.
 
-[^23-1]: RSB 836.11
+[^23-1]: RSB [836.11](https://www.belex.sites.be.ch/data/836.11/fr)
 
 #### Art. 24
 
