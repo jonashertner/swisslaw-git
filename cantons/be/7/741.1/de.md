@@ -4,13 +4,13 @@ number: "741.1"
 title: Kantonales Energiegesetz
 short: KEnG
 language: de
-version: 2012-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-05-15
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 2011-05-15
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/741.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/573/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2167/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/573/pdf_file"
 
 (KEnG)
 
-vom 15.05.2011 (Stand 01.01.2012)
+vom 15.05.2011 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -114,11 +114,11 @@ beschliesst:
 
 **Grundlagen**
 
-<sup>1</sup> Die Bau-, Verkehrs- und Energiedirektion beschafft die Grundlagen für die Beurteilung des künftigen Bedarfs und Angebots an Energie im Kanton Bern und für die Berücksichtigung der bedeutsamen Umweltfolgen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion beschafft die Grundlagen für die Beurteilung des künftigen Bedarfs und Angebots an Energie im Kanton und für die Berücksichtigung der bedeutsamen Umweltfolgen.
 
-<sup>2</sup> Sie ist berechtigt, dazu von den öffentlichen Verwaltungen, den im Kanton Bern tätigen Energieversorgungsunternehmen und den Grossverbrauchern die erforderlichen Auskünfte und Unterlagen zu verlangen. Sie pflegt einen Informationsaustausch mit den Energieversorgungsunternehmen.
+<sup>2</sup> Sie ist berechtigt, dazu von den öffentlichen Verwaltungen, den im Kanton tätigen Energieversorgungsunternehmen und den Grossverbrauchern die erforderlichen Auskünfte und Unterlagen zu verlangen. Sie pflegt einen Informationsaustausch mit den Energieversorgungsunternehmen.
 
-<sup>3</sup> Die Bau-, Verkehrs- und Energiedirektion und die von ihr beigezogenen Personen wahren dabei die öffentlichen und privaten Geheimhaltungsinteressen.
+<sup>3</sup> Sie und die von ihr beigezogenen Personen wahren dabei die öffentlichen und privaten Geheimhaltungsinteressen.
 
 #### Art. 7
 
@@ -136,7 +136,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erarbeitet periodisch Massnahmenpläne zur Umsetzung der Energiestrategie.
 
-<sup>2</sup> Die Bau-, Verkehrs- und Energiedirektion kann zur Umsetzung der Energiestrategie Leistungsverträge mit Gemeinden, Planungsregionen Regionalkonferenzen, Energieversorgungsunternehmen oder Privaten abschliessen.
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann zur Umsetzung der Energiestrategie Leistungsverträge mit Gemeinden, Planungsregionen, Regionalkonferenzen, Energieversorgungsunternehmen oder Privaten abschliessen.
 
 #### Art. 9
 
@@ -256,7 +256,7 @@ beschliesst:
 
 <sup>1</sup> Ist die Erschliessung mit Energie nicht bereits durch eine Überbauungsordnung der Gemeinde geregelt und ist die Gemeinde nicht bereit, dafür eine Überbauungsordnung auszuarbeiten, kann das Energieversorgungsunternehmen die Überbauungsordnung erarbeiten.
 
-<sup>2</sup> Die Gemeinde ist für den Beschluss der Überbauungsordnung zuständig, die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion für deren Genehmigung.
+<sup>2</sup> Die Gemeinde ist für den Beschluss der Überbauungsordnung zuständig, die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion für deren Genehmigung.
 
 <sup>3</sup> Im Übrigen richtet sich das Verfahren nach der Baugesetzgebung.
 
@@ -264,7 +264,7 @@ beschliesst:
 
 **3. Kantonale Überbauungsordnung**
 
-<sup>1</sup> Lehnt die Gemeinde den Beschluss der Überbauungsordnung ab oder können sich mehrere betroffene Gemeinden nicht einigen, erlässt die Bau-, Verkehrs- und Energiedirektion eine kantonale Überbauungsordnung, sofern dies zur Erfüllung eines Versorgungsauftrags oder zur Wahrung kantonaler oder gefährdeter regionaler Interessen erforderlich ist.
+<sup>1</sup> Lehnt die Gemeinde den Beschluss der Überbauungsordnung ab oder können sich mehrere betroffene Gemeinden nicht einigen, erlässt die Wirtschafts-, Energie- und Umweltdirektion eine kantonale Überbauungsordnung, sofern dies zur Erfüllung eines Versorgungsauftrags oder zur Wahrung kantonaler oder gefährdeter regionaler Interessen erforderlich ist.
 
 <sup>2</sup> Im Übrigen richtet sich das Verfahren nach der Baugesetzgebung.
 
@@ -306,7 +306,7 @@ beschliesst:
 
 <sup>1</sup> Für Gebiete, die noch nicht mit Elektrizität erschlossen sind, werden die Netzgebiete dann bezeichnet, wenn ein Bedarf entsteht. Es sind dabei insbesondere die Kriterien der Versorgungssicherheit und der Wirtschaftlichkeit der Erschliessung und des Netzbetriebs sowie die Raum-, Erschliessungs- und Energieplanung der Gemeinden zu berücksichtigen.
 
-<sup>2</sup> Die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion bezeichnet die Netzgebiete je für die Netzebenen 3, 5 und 7.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion bezeichnet die Netzgebiete je für die Netzebenen 3, 5 und 7.
 
 <sup>3</sup> Sie teilt durch Verfügung ein neues Netzgebiet dem Netzbetreiber zu, der die Versorgungssicherheit und die Wirtschaftlichkeit der Erschliessung und des Netzbetriebs am besten gewährleisten kann.
 
@@ -314,10 +314,10 @@ beschliesst:
 
 **Leistungsaufträge nach Artikel 5 Absatz 1 StromVG**
 
-<sup>1</sup> Die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion kann den Netzbetreibern Leistungsaufträge erteilen,
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann den Netzbetreibern Leistungsaufträge erteilen
 
 - a zur Stärkung der Grundversorgung,
-- b zur Sicherstellung der Versorgungssicherheit im Netzgebiet, insbesondere für die Bewältigung ausserordentlicher Lagen oder
+- b zur Sicherstellung der Versorgungssicherheit im Netzgebiet, insbesondere für die Bewältigung ausserordentlicher Lagen, oder
 - c zur Steigerung der Energieeffizienz.
 
 <sup>2</sup> Bei der Erteilung von Leistungsaufträgen sind Wettbewerbsverzerrungen zwischen den Netzbetreibern zu vermeiden.
@@ -326,7 +326,7 @@ beschliesst:
 
 **Änderung der Verhältnisse**
 
-<sup>1</sup> Ändern sich die Verhältnisse, passt die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion die Netzgebiete, die Zuteilungsverfügung und die Leistungsaufträge an.
+<sup>1</sup> Ändern sich die Verhältnisse, passt die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion die Netzgebiete, die Zuteilungsverfügung und die Leistungsaufträge an.
 
 #### Art. 30
 
@@ -340,13 +340,13 @@ beschliesst:
 - d alle Anlagen ausserhalb der Bauzone, die aus Sicherheitsgründen einen Elektrizitätsanschluss benötigen, und
 - e alle Elektrizitätserzeugerinnen und Elektrizitätserzeuger.
 
-<sup>2</sup> Die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion kann auf Gesuch hin einen Netzbetreiber dazu verpflichten, Endverbraucherinnen und Endverbraucher ausserhalb der Bauzone, die nicht nach Absatz 1 angeschlossen werden müssen, an das Elektrizitätsnetz anzuschliessen, wenn deren Selbstversorgung technisch nicht möglich oder wirtschaftlich nicht tragbar ist.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann auf Gesuch hin einen Netzbetreiber dazu verpflichten, Endverbraucherinnen und Endverbraucher ausserhalb der Bauzone, die nicht nach Absatz 1 angeschlossen werden müssen, an das Elektrizitätsnetz anzuschliessen, wenn deren Selbstversorgung technisch nicht möglich oder wirtschaftlich nicht tragbar ist.
 
 #### Art. 31
 
 **Anschlusspflicht ausserhalb des Netzgebietes**
 
-<sup>1</sup> Die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion kann auf Gesuch hin einen Netzbetreiber dazu verpflichten, Endverbraucherinnen und Endverbraucher sowie Elektrizitätserzeugerinnen und Elektrizitätserzeuger aus einem andern Netzgebiet an sein Netz anzuschliessen, wenn besondere Verhältnisse vorliegen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann auf Gesuch hin einen Netzbetreiber dazu verpflichten, Endverbraucherinnen und Endverbraucher sowie Elektrizitätserzeugerinnen und Elektrizitätserzeuger aus einem andern Netzgebiet an sein Netz anzuschliessen, wenn besondere Verhältnisse vorliegen.
 
 <sup>2</sup> Die Anschlusspflicht des Netzbetreibers des andern Netzgebiets fällt in diesem Umfang dahin.
 
@@ -547,19 +547,19 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Grossverbraucher können durch die Bau-, Verkehrs- und Energiedirektion verpflichtet werden, ihren Energieverbrauch zu analysieren und die zumutbaren Massnahmen zur Verbrauchsoptimierung sowie zur Verminderung der Umweltbelastung und der Treibhausgasemissionen zu treffen.
+<sup>1</sup> Grossverbraucherinnen und Grossverbraucher können durch die Wirtschafts-, Energie- und Umweltdirektion verpflichtet werden, ihren Energieverbrauch zu analysieren und die zumutbaren Massnahmen zur Verbrauchsoptimierung sowie zur Verminderung der Umweltbelastung und der Treibhausgasemissionen zu treffen.
 
-<sup>2</sup> Die Massnahmen sind für die Grossverbraucher zumutbar, wenn sie dem Stand der Technik entsprechen sowie über die Nutzungsdauer der Investition wirtschaftlich und nicht mit wesentlichen betrieblichen Nachteilen verbunden sind.
+<sup>2</sup> Die Massnahmen sind für die Grossverbraucherinnen und Grossverbraucher zumutbar, wenn sie dem Stand der Technik entsprechen sowie über die Nutzungsdauer der Investition wirtschaftlich und nicht mit wesentlichen betrieblichen Nachteilen verbunden sind.
 
 #### Art. 54
 
 **Vertragliche Regelung**
 
-<sup>1</sup> Artikel 53 Absatz 1 ist nicht anwendbar für Grossverbraucher, die sich in einem Vertrag mit der Bau-, Verkehrs- und Energiedirektion verpflichten, individuell oder in einer Gruppe vom Regierungsrat vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten.
+<sup>1</sup> Artikel 53 Absatz 1 ist nicht anwendbar für Grossverbraucherinnen und Grossverbraucher, die sich in einem Vertrag mit der Wirtschafts-, Energie- und Umweltdirektion verpflichten, individuell oder in einer Gruppe vom Regierungsrat vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten.
 
-<sup>2</sup> Überdies kann der Regierungsrat Grossverbraucher, die sich nach Absatz 1 zur Einhaltung vorgegebener Ziele verpflichten, von der Einhaltung einzelner Minimalanforderungen (Art. 39 ff.) entbinden.
+<sup>2</sup> Überdies kann der Regierungsrat Grossverbraucherinnen und Grossverbraucher, die sich nach Absatz 1 zur Einhaltung vorgegebener Ziele verpflichten, von der Einhaltung einzelner Minimalanforderungen (Art. 39 ff.) entbinden.
 
-<sup>3</sup> Verträge, die Grossverbraucher zur Reduktion des Energieverbrauchs oder zur Reduktion der CO₂-Emissionen mit dem Bund abschliessen, sind den Verträgen gemäss Absatz 1 gleichgestellt.
+<sup>3</sup> Verträge, die Grossverbraucherinnen und Grossverbraucher zur Reduktion des Energieverbrauchs oder zur Reduktion der CO₂-Emissionen mit dem Bund abschliessen, sind den Verträgen gemäss Absatz 1 gleichgestellt.
 
 ## 5 Förderung
 
@@ -652,7 +652,7 @@ beschliesst:
 
 <sup>2</sup> Bei Vorhaben, die einer Umweltverträglichkeitsprüfung nach dem USG unterliegen, ist die Einhaltung der Minimalanforderungen im Umweltverträglichkeitsbericht nachzuweisen.
 
-<sup>3</sup> Ausnahmebewilligungen nach Artikel 36, 38 und 48 erteilt die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion. Zu Ausnahmegesuchen nach Artikel 38 hört sie die kantonale Denkmalpflege an.
+<sup>3</sup> Ausnahmebewilligungen nach Artikel 36, 38 und 48 erteilt die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion. Zu Ausnahmegesuchen nach Artikel 38 hört sie die kantonale Denkmalpflege an.
 
 #### Art. 63
 
@@ -674,15 +674,15 @@ beschliesst:
 
 **Unterstützung und Aufsicht**
 
-<sup>1</sup> Die Bau-, Verkehrs- und Energiedirektion unterstützt die Baubewilligungs- und Baupolizeibehörden beim Vollzug.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion unterstützt die Baubewilligungs- und Baupolizeibehörden beim Vollzug.
 
-<sup>2</sup> Vernachlässigen die Baubewilligungs- oder Baupolizeibehörden trotz Mahnung ihre Vollzugspflichten und werden dadurch öffentliche Interessen gefährdet, so kann an ihrer Stelle die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion die erforderlichen Massnahmen anordnen.
+<sup>2</sup> Vernachlässigen die Baubewilligungs- oder Baupolizeibehörden trotz Mahnung ihre Vollzugspflichten und werden dadurch öffentliche Interessen gefährdet, so kann an ihrer Stelle die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion die erforderlichen Massnahmen anordnen.
 
 #### Art. 66
 
 **Befugnisse der Baupolizei- und Aufsichtsbehörden**
 
-<sup>1</sup> Die Baupolizeibehörden und die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion sind befugt, von der Bauherrschaft, den Eigentümerinnen und Eigentümern, den Mieterinnen und Mietern oder Pächterinnen und Pächtern von Gebäuden, Anlagen und Einrichtungen alle zur Erfüllung ihrer Aufgaben erforderlichen Angaben und Unterlagen zu verlangen, Liegenschaften zu betreten und die zu kontrollierenden Gebäude, Anlagen und Einrichtungen zu prüfen.
+<sup>1</sup> Die Baupolizeibehörden und die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion sind befugt, von der Bauherrschaft, den Eigentümerinnen und Eigentümern, den Mieterinnen und Mietern oder Pächterinnen und Pächtern von Gebäuden, Anlagen und Einrichtungen alle zur Erfüllung ihrer Aufgaben erforderlichen Angaben und Unterlagen zu verlangen, Liegenschaften zu betreten und die zu kontrollierenden Gebäude, Anlagen und Einrichtungen zu prüfen.
 
 <sup>2</sup> Die in Absatz 1 genannten Personen sind verpflichtet, bei den Kontrollarbeiten soweit zumutbar mitzuwirken und diese zu erleichtern.
 
@@ -690,9 +690,9 @@ beschliesst:
 
 **Durchsetzung der Leistungsaufträge und der Anschlusspflicht**
 
-<sup>1</sup> Kommt ein Netzbetreiber seinen Leistungsaufträgen gemäss Artikel 28 oder Anschlusspflichten gemäss Artikel 30 nicht nach, setzt ihm die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion eine angemessene Frist zur Erfüllung seiner Pflichten. Nötigenfalls ordnet die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion die Ersatzvornahme an.
+<sup>1</sup> Kommt ein Netzbetreiber seinen Leistungsaufträgen gemäss Artikel 28 oder Anschlusspflichten gemäss Artikel 30 nicht nach, setzt ihm die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion eine angemessene Frist zur Erfüllung seiner Pflichten. Nötigenfalls ordnet die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion die Ersatzvornahme an.
 
-<sup>2</sup> Ist die Grundversorgung oder die Versorgungssicherheit in einem Netzgebiet gefährdet, kann die zuständige Stelle der Bau-, Verkehrs- und Energiedirektion dem Netzbetreiber den Betrieb des betroffenen Netzgebiets entziehen und dieses nach Anhörung des Netzeigentümers und der Gemeinde einem andern Netzbetreiber zuteilen.
+<sup>2</sup> Ist die Grundversorgung oder die Versorgungssicherheit in einem Netzgebiet gefährdet, kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion dem Netzbetreiber den Betrieb des betroffenen Netzgebiets entziehen und dieses nach Anhörung des Netzeigentümers und der Gemeinde einem andern Netzbetreiber zuteilen.
 
 #### Art. 68
 
@@ -704,15 +704,15 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Verfügungen der zuständigen Stelle der Justiz-, Gemeinde- und Kirchendirektion, die gestützt auf die Artikel 10 bis 17 ergehen, sowie alle Verfügungen, die gestützt auf dieses Gesetz im Baubewilligungs- oder im Baupolizeiverfahren ergehen, sind nach den Vorschriften des Baugesetzes anfechtbar.
+<sup>1</sup> Verfügungen der zuständigen Stelle der Direktion für Inneres und Justiz, die gestützt auf die Artikel 10 bis 17 ergehen, sowie alle Verfügungen, die gestützt auf dieses Gesetz im Baubewilligungs- oder im Baupolizeiverfahren ergehen, sind nach den Vorschriften des Baugesetzes anfechtbar.
 
-<sup>2</sup> Verfügungen der zuständigen Stelle der Bau-, Verkehrs- und Energiedirektion nach Artikel 27 Absatz 1 und 2 sind mit Beschwerde bei der Bau-, Verkehrs- und Energiedirektion anfechtbar. Deren Entscheid kann an den Regierungsrat weitergezogen werden. Der Regierungsrat entscheidet kantonal letztinstanzlich.
+<sup>2</sup> Verfügungen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion nach Artikel 27 Absatz 1 und 2 sind mit Beschwerde bei der Wirtschafts-, Energie- und Umweltdirektion anfechtbar. Deren Entscheid kann an den Regierungsrat weitergezogen werden. Der Regierungsrat entscheidet kantonal letztinstanzlich.
 
 <sup>3</sup> Die Gemeinden sind beschwerdebefugt.
 
-<sup>4</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG) [^69-1].
+<sup>4</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^69-1].
 
-[^69-1]: BSG 155.21
+[^69-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 ## 7 Übergangs- und Schlussbestimmungen
 
@@ -722,7 +722,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden gemäss Artikel 10 Absatz 2 erlassen die kommunalen Richtpläne Energie innert zehn Jahren ab Inkrafttreten dieses Gesetzes.
 
-<sup>2</sup> Hält eine Gemeinde die Frist gemäss Absatz 1 nicht ein, kann der Regierungsrat die zuständige Stelle der Justiz-, Gemeinde- und Kirchendirektion zur Ersatzvornahme ermächtigen. Deren Verfügungen betreffend die Ersatzvornahme können bei der Justiz-, Gemeinde- und Kirchendirektion angefochten werden. Diese entscheidet kantonal letztinstanzlich.
+<sup>2</sup> Hält eine Gemeinde die Frist gemäss Absatz 1 nicht ein, kann der Regierungsrat die zuständige Stelle der Direktion für Inneres und Justiz zur Ersatzvornahme ermächtigen. Deren Verfügungen betreffend die Ersatzvornahme können bei der Direktion für Inneres und Justiz angefochten werden. Diese entscheidet kantonal letztinstanzlich.
 
 <sup>3</sup> Gemeindevorschriften, die Grundeigentümerinnen und Grundeigentümer verpflichten, ihr Gebäude an ein Erdgasversorgungsnetz anzuschliessen, sind nach zehn Jahren ab Inkrafttreten dieses Gesetzes nicht mehr anwendbar.
 

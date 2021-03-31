@@ -4,13 +4,13 @@ number: "741.1"
 title: "Loi cantonale sur l'énergie"
 short: LCEn
 language: fr
-version: 2012-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-05-15
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 2011-05-15
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/741.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/573/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2167/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/573/pdf_file"
 
 (LCEn)
 
-du 15.05.2011 (état au 01.01.2012)
+du 15.05.2011 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -114,11 +114,11 @@ arrête:
 
 **Bases**
 
-<sup>1</sup> La Direction des travaux publics, des transports et de l’énergie procure les bases permettant d’estimer les besoins et l’offre en énergie futurs dans le canton de Berne, et de tenir compte des répercussions significatives sur l’environnement.
+<sup>1</sup> La Direction de l'économie, de l'énergie et de l'environnement procure les bases permettant d’estimer les besoins et l’offre en énergie futurs dans le canton, et de tenir compte des répercussions significatives sur l’environnement.
 
-<sup>2</sup> A cet effet, elle est habilitée à exiger les renseignements et les documents nécessaires auprès des administrations publiques, des entreprises d’approvisionnement en énergie actives dans le canton de Berne et des gros consommateurs. Elle échange régulièrement des informations avec les entreprises d’approvisionnement en énergie.
+<sup>2</sup> A cet effet, elle est habilitée à exiger les renseignements et les documents nécessaires auprès des administrations publiques, des entreprises d’approvisionnement en énergie actives dans le canton et des gros consommateurs. Elle échange régulièrement des informations avec les entreprises d’approvisionnement en énergie.
 
-<sup>3</sup> La Direction des travaux publics, des transports et de l’énergie et les personnes aux services desquelles elle recourt sauvegardent les intérêts publics et privés de maintien du secret.
+<sup>3</sup> Elle et les personnes aux services desquelles elle recourt sauvegardent les intérêts publics et privés de maintien du secret.
 
 #### Art. 7
 
@@ -136,7 +136,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif élabore périodiquement des plans de mesures servant à la mise en œuvre de la stratégie énergétique.
 
-<sup>2</sup> La Direction des travaux publics, des transports et de l’énergie peut conclure des contrats de prestations avec les communes, les régions d’aménagement, les conférences régionales, les entreprises d’approvisionnement en énergie ou les personnes privées pour mettre la stratégie énergétique en œuvre.
+<sup>2</sup> La Direction de l'économie, de l'énergie et de l'environnement peut conclure des contrats de prestations avec les communes, les régions d’aménagement, les conférences régionales, les entreprises d’approvisionnement en énergie ou les personnes privées pour mettre la stratégie énergétique en œuvre.
 
 #### Art. 9
 
@@ -228,7 +228,7 @@ arrête:
 
 <sup>1</sup> La planification, la construction, l’entretien et le financement du réseau de distribution d’énergie incombent aux entreprises d’approvisionnement en énergie compétentes.
 
-<sup>2</sup> Dans leur planification, elles tiennent compte des principes enmatière d’aménagement prévus par la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (loi sur l’aménagement du territoire, LAT)[^18-1]. En particulier, elles coordonnent la planification avec l’aménagement du territoire au niveau communal et avec la planification des communes en matière d’équipement, et elles tiennent compte du paysage, des sites et, dans la mesure du possible, du parcellement existant des biens-fonds.
+<sup>2</sup> Dans leur planification, elles tiennent compte des principes en matière d’aménagement prévus par la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (loi sur l’aménagement du territoire, LAT)[^18-1]. En particulier, elles coordonnent la planification avec l’aménagement du territoire au niveau communal et avec la planification des communes en matière d’équipement, et elles tiennent compte du paysage, des sites et, dans la mesure du possible, du parcellement existant des biens-fonds.
 
 <sup>3</sup> Dans la mesure du possible et si cela n’est pas disproportionné, les nouvelles conduites doivent être enterrées. En ce qui concerne les conduites à poser sous les routes ou qui y sont déjà installées, les entreprises d’approvisionnement en énergie coordonnent leurs travaux avec les travaux routiers prévus par les propriétaires des routes.
 
@@ -256,7 +256,7 @@ arrête:
 
 <sup>1</sup> Si la desserte en énergie n’est pas déjà réglementée par un plan de quartier de la commune et que celle-ci n’est pas disposée à élaborer un plan de quartier à cet effet, l’entreprise d’approvisionnement en énergie peut l’élaborer elle-même.
 
-<sup>2</sup> La commune est compétente pour édicter le plan de quartier, le service compétent de la Direction des travaux publics, des transports et de l’énergie pour son approbation.
+<sup>2</sup> La commune est compétente pour édicter le plan de quartier, le service compétent de la Direction de l'économie, de l'énergie et de l'environnement pour son approbation.
 
 <sup>3</sup> Au surplus, la procédure est régie par la législation sur les constructions.
 
@@ -264,7 +264,7 @@ arrête:
 
 **3. Plan de quartier cantonal**
 
-<sup>1</sup> Si la commune renonce à édicter un plan de quartier ou que plusieurs communes concernées ne parviennent pas à s’entendre, la Direction des travaux publics, des transports et de l’énergie édicte un plan de quartier cantonal, dans la mesure où cela est nécessaire pour remplir un mandat d’approvisionnement ou pour sauvegarder des intérêts régionaux menacés ou des intérêts cantonaux.
+<sup>1</sup> Si la commune renonce à édicter un plan de quartier ou que plusieurs communes concernées ne parviennent pas à s’entendre, la Direction de l'économie, de l'énergie et de l'environnement édicte un plan de quartier cantonal, dans la mesure où cela est nécessaire pour remplir un mandat d’approvisionnement ou pour sauvegarder des intérêts régionaux menacés ou des intérêts cantonaux.
 
 <sup>2</sup> Au surplus, la procédure est régie par la législation sur les constructions.
 
@@ -306,7 +306,7 @@ arrête:
 
 <sup>1</sup> Dans les territoires non encore équipés en électricité, une zone de desserte est désignée en cas de besoin. Pour la désigner, il faut tenir compte notamment des critères de sécurité de l’approvisionnement, de rentabilité de l’équipement, de rentabilité de l’exploitation du réseau, ainsi que de la planification communale en matière d’aménagement du territoire, d’équipement et d’énergie.
 
-<sup>2</sup> Le service compétent de la Direction des travaux publics, des transports et de l’énergie désigne les zones de desserte pour chacun des niveaux de réseau 3, 5 et 7.
+<sup>2</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement désigne les zones de desserte pour chacun des niveaux de réseau 3, 5 et 7.
 
 <sup>3</sup> Il attribue par voie de décision une nouvelle zone de desserte au gestionnaire de réseau qui est le mieux placé pour garantir la sécurité de l’approvisionnement ainsi que la rentabilité de l’équipement et la rentabilité de l’exploitation du réseau.
 
@@ -314,7 +314,7 @@ arrête:
 
 **Mandats de prestations visés à l’article 5, alinéa 1 LApEl**
 
-<sup>1</sup> Le service compétent de la Direction des travaux publics, des transports et de l’énergie peut attribuer des mandats de prestations aux gestionnaires de réseau, pour
+<sup>1</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut attribuer des mandats de prestations aux gestionnaires de réseau, pour
 
 - a renforcer l’approvisionnement de base;
 - b garantir la sécurité de l’approvisionnement dans la zone de desserte, notamment pour maîtriser les situations extraordinaires, ou
@@ -326,7 +326,7 @@ arrête:
 
 **Changement des circonstances**
 
-<sup>1</sup> Si les circonstances changent, le service compétent de la Direction des travaux publics, des transports et de l’énergie adapte les zones de desserte, la décision d’attribution et les mandats de prestations.
+<sup>1</sup> Si les circonstances changent, le service compétent de la Direction de l'économie, de l'énergie et de l'environnement adapte les zones de desserte, la décision d’attribution et les mandats de prestations.
 
 #### Art. 30
 
@@ -340,13 +340,13 @@ arrête:
 - d toutes les installations hors de la zone à bâtir qui requièrent un raccordement électrique pour des raisons de sécurité, et
 - e tous les producteurs d’électricité.
 
-<sup>2</sup> Le service compétent de la Direction des travaux publics, des transports et de l’énergie peut, sur requête, obliger un gestionnaire de réseau à raccorder au réseau électrique des consommateurs finaux situés hors de la zone à bâtir et ne bénéficiant pas de l’obligation de raccordement au sens de l’alinéa 1, si l’auto-approvisionnement n’est pas possible techniquement ou pas supportable économiquement.
+<sup>2</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut, sur requête, obliger un gestionnaire de réseau à raccorder au réseau électrique des consommateurs finaux situés hors de la zone à bâtir et ne bénéficiant pas de l’obligation de raccordement au sens de l’alinéa 1, si l’auto-approvisionnement n’est pas possible techniquement ou pas supportable économiquement.
 
 #### Art. 31
 
 **Obligation de raccordement hors de la zone de desserte**
 
-<sup>1</sup> Le service compétent de la Direction des travaux publics, des transports et de l’énergie peut, sur requête et si les circonstances sont particulières, obliger un gestionnaire de réseau à raccorder à son réseau des consommateurs finaux et des producteurs d’électricité d’une autre zone de desserte.
+<sup>1</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut, sur requête et si les circonstances sont particulières, obliger un gestionnaire de réseau à raccorder à son réseau des consommateurs finaux et des producteurs d’électricité d’une autre zone de desserte.
 
 <sup>2</sup> L’obligation de raccordement incombant au gestionnaire de réseau de l’autre zone de desserte se réduit dans la même mesure.
 
@@ -545,7 +545,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> La Direction des travaux publics, des transports et de l’énergie peut obliger les gros consommateurs à analyser leur consommation d’énergie et à prendre les mesures pouvant raisonnablement être exigées d’optimisation de la consommation ainsi que de réduction des nuisances à l’environnement et de réduction des émissions de gaz à effet de serre.
+<sup>1</sup> La Direction de l'économie, de l'énergie et de l'environnement peut obliger les gros consommateurs à analyser leur consommation d’énergie et à prendre les mesures pouvant raisonnablement être exigées d’optimisation de la consommation ainsi que de réduction des nuisances à l’environnement et de réduction des émissions de gaz à effet de serre.
 
 <sup>2</sup> Les mesures peuvent raisonnablement être exigées si elles correspondent au niveau des connaissances techniques, qu’elles sont rentables sur la durée d’utilisation de l’investissement et qu’elles n’entraînent pas d’inconvénients majeurs au niveau de l’exploitation.
 
@@ -553,7 +553,7 @@ arrête:
 
 **Réglementation contractuelle**
 
-<sup>1</sup> L’article 53, alinéa 1 n’est pas applicable aux gros consommateurs qui s’engagent individuellement ou collectivement, en passant un contrat avec la Direction des travaux publics, des transports et de l’énergie, à respecter les objectifs en matière d’évolution de la consommation d’énergie fixés par le Conseil-exécutif.
+<sup>1</sup> L’article 53, alinéa 1 n’est pas applicable aux gros consommateurs qui s’engagent individuellement ou collectivement, en passant un contrat avec la Direction de l'économie, de l'énergie et de l'environnement, à respecter les objectifs en matière d’évolution de la consommation d’énergie fixés par le Conseil-exécutif.
 
 <sup>2</sup> En outre, le Conseil-exécutif peut dispenser de l’obligation de respecter certaines exigences minimales en matière d’énergie (art. 39 ss) les gros consommateurs qui s’engagent au sens de l’alinéa 1 à respecter les objectifs fixés.
 
@@ -581,7 +581,7 @@ arrête:
 
 **Planification en matière d’énergie, contrats de prestations**
 
-<sup>1</sup> Dans la mesure où la présente loi prescrit l’édiction d’un plan directeur de l’énergie, le canton fournit aux assujettis à cette obligation une indemnité de 50 pour cent des coûts imputables.
+<sup>1</sup> Dans la mesure où la présente loi prescrit l’édiction d’un plan directeur de l'énergie, le canton fournit aux assujettis à cette obligation une indemnité de 50 pour cent des coûts imputables.
 
 <sup>2</sup> Il peut allouer des aides financières couvrant jusqu’à 50 pour cent
 
@@ -650,7 +650,7 @@ arrête:
 
 <sup>2</sup> Pour les projets faisant l’objet d’une étude d’impact sur l’environnement au sens de la LPE, le rapport d’impact sur l’environnement doit établir que les exigences minimales sont respectées.
 
-<sup>3</sup> Il incombe au service compétent de la Direction des travaux publics, des transports et de l’énergie d’accorder les dérogations au sens des articles 36, 38 et 48. S’agissant des demandes de dérogation au sens de l’article 38, il consulte le Service cantonal des monuments historiques.
+<sup>3</sup> Il incombe au service compétent de la Direction de l'économie, de l'énergie et de l'environnement d’accorder les dérogations au sens des articles 36, 38 et 48. S’agissant des demandes de dérogation au sens de l’article 38, il consulte le Service cantonal des monuments historiques.
 
 #### Art. 63
 
@@ -672,15 +672,15 @@ arrête:
 
 **Soutien et surveillance**
 
-<sup>1</sup> La Direction des travaux publics, des transports et de l’énergie soutient les autorités d’octroi du permis de construire et celles de la police des constructions dans l’exécution de la présente loi.
+<sup>1</sup> La Direction de l'économie, de l'énergie et de l'environnement soutient les autorités d’octroi du permis de construire et celles de la police des constructions dans l’exécution de la présente loi.
 
-<sup>2</sup> Si les autorités d’octroi du permis de construire ou de la police des constructions négligent leurs obligations en matière d’exécution de la présente loi, en dépit d’un avertissement, et que des intérêts publics s’en trouvent menacés, le service compétent de la Direction des travaux publics, des transports et de l’énergie peut ordonner les mesures nécessaires à leur place.
+<sup>2</sup> Si les autorités d’octroi du permis de construire ou de la police des constructions négligent leurs obligations en matière d’exécution de la présente loi, en dépit d’un avertissement, et que des intérêts publics s’en trouvent menacés, le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut ordonner les mesures nécessaires à leur place.
 
 #### Art. 66
 
 **Compétences des autorités de la police des constructions et des autorités de surveillance**
 
-<sup>1</sup> Les autorités de la police des constructions et le service compétent de la Direction des travaux publics, des transports et de l’énergie sont habilités à exiger des maîtres d’ouvrage, des propriétaires, des locataires ou des fermiers ou fermières de bâtiments, d’installations et d’équipements toutes les données et tous les documents requis pour remplir leurs tâches; ils peuvent pénétrer dans les immeubles et examiner les bâtiments, les installations et les équipements à contrôler.
+<sup>1</sup> Les autorités de la police des constructions et le service compétent de la Direction de l'économie, de l'énergie et de l'environnement sont habilités à exiger des maîtres d’ouvrage, des propriétaires, des locataires ou des fermiers ou fermières de bâtiments, d’installations et d’équipements toutes les données et tous les documents requis pour remplir leurs tâches; ils peuvent pénétrer dans les immeubles et examiner les bâtiments, les installations et les équipements à contrôler.
 
 <sup>2</sup> Les personnes mentionnées à l’alinéa 1 sont tenues de collaborer aux travaux de contrôle et de les faciliter dans la mesure où cela peut raisonnablement être exigé d’elles.
 
@@ -688,9 +688,9 @@ arrête:
 
 **Exécution des mandats de prestations et de l’obligation de raccordement**
 
-<sup>1</sup> Si un gestionnaire de réseau ne remplit pas ses mandats de prestations au sens de l’article 28 ou ses obligations de raccordement au sens de l’article 30, le service compétent de la Direction des travaux publics, des transports et de l’énergie lui fixe un délai approprié pour s’exécuter. Si nécessaire, ledit service procède à l’exécution par substitution.
+<sup>1</sup> Si un gestionnaire de réseau ne remplit pas ses mandats de prestations au sens de l’article 28 ou ses obligations de raccordement au sens de l’article 30, le service compétent de la Direction de l'économie, de l'énergie et de l'environnement lui fixe un délai approprié pour s’exécuter. Si nécessaire, ledit service procède à l’exécution par substitution.
 
-<sup>2</sup> Si l’approvisionnement de base ou la sécurité de l’approvisionnement dans une zone de desserte est menacée, le service compétent de la Direction des travaux publics, des transports et de l’énergie peut retirer l’exploitation de la zone de desserte concernée au gestionnaire de réseau et l’attribuer à un autre gestionnaire de réseau après avoir consulté le propriétaire du réseau et la commune.
+<sup>2</sup> Si l’approvisionnement de base ou la sécurité de l’approvisionnement dans une zone de desserte est menacée, le service compétent de la Direction de l'économie, de l'énergie et de l'environnement peut retirer l’exploitation de la zone de desserte concernée au gestionnaire de réseau et l’attribuer à un autre gestionnaire de réseau après avoir consulté le propriétaire du réseau et la commune.
 
 #### Art. 68
 
@@ -702,15 +702,15 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions du service compétent de la Direction de la justice, des affaires communales et des affaires ecclésiastiques fondées sur les articles 10 à 17, de même que toutes les décisions basées sur la présente loi prononcées dans la procédure d’octroi du permis de construire ou dans la procédure de la police des constructions, sont attaquables en vertu des prescriptions de la loi sur les constructions.
+<sup>1</sup> Les décisions du service compétent de la Direction de l’intérieur et de la justice fondées sur les articles 10 à 17, de même que toutes les décisions basées sur la présente loi prononcées dans la procédure d’octroi du permis de construire ou dans la procédure de la police des constructions, sont attaquables en vertu des prescriptions de la loi sur les constructions.
 
-<sup>2</sup> Les décisions du service compétent de la Direction des travaux publics, des transports et de l’énergie fondées sur l’article 27, alinéas 1 et 2 peuvent être attaquées par voie de recours auprès de la Direction des travaux publics, des transports et de l’énergie, dont la décision peut être portée devant le Conseil-exécutif. Celui-ci statue en qualité de dernière instance cantonale.
+<sup>2</sup> Les décisions du service compétent de la Direction de l'économie, de l'énergie et de l'environnement fondées sur l’article 27, alinéas 1 et 2 peuvent être attaquées par voie de recours auprès de la Direction de l'économie, de l'énergie et de l'environnement, dont la décision peut être portée devant le Conseil-exécutif. Celui-ci statue en qualité de dernière instance cantonale.
 
 <sup>3</sup> Les communes sont habilitées à former recours.
 
 <sup>4</sup> Au surplus, les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^69-1] s’appliquent.
 
-[^69-1]: RSB 155.21
+[^69-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 ## 7 Dispositions transitoires et dispositions finales
 
@@ -720,7 +720,7 @@ arrête:
 
 <sup>1</sup> Les communes visées à l’article 10, alinéa 2 édictent les plans directeurs communaux de l’énergie dans les dix ans à compter de l’entrée en vigueur de la présente loi.
 
-<sup>2</sup> Si une commune ne respecte pas le délai prévu à l’alinéa 1, le Conseil-exécutif peut habiliter le service compétent de la Direction de la justice, des affaires communales et des affaires ecclésiastiques à procéder à l’exécution par substitution. Les décisions de ce service en matière d’exécution par substitution peuvent être attaquées par voie de recours auprès de la Direction de la justice, des affaires communales et des affaires ecclésiastiques. Celle-ci statue en qualité de dernière instance cantonale.
+<sup>2</sup> Si une commune ne respecte pas le délai prévu à l’alinéa 1, le Conseil-exécutif peut habiliter le service compétent de la Direction de l’intérieur et de la justice à procéder à l’exécution par substitution. Les décisions de ce service en matière d’exécution par substitution peuvent être attaquées par voie de recours auprès de la Direction de l’intérieur et de la justice. Celle-ci statue en qualité de dernière instance cantonale.
 
 <sup>3</sup> Les prescriptions communales obligeant les propriétaires fonciers à raccorder leurs bâtiments à un réseau d’approvisionnement en gaz naturel ne sont plus applicables dix ans après l’entrée en vigueur de la présente loi.
 
