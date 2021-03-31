@@ -4,13 +4,12 @@ number: "935.211.1"
 title: Tourismusentwicklungsverordnung
 short: TEV
 language: de
-version: 2018-05-01
-valid_until: 2021-03-31
-version_adopted: 2018-03-07
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2005-10-19
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1441/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2211/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1441/pdf_file"
 
 (TEV)
 
-vom 19.10.2005 (Stand 01.05.2018)
+vom 19.10.2005 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -146,7 +145,7 @@ beschliesst:
 - f Tourismus Biel Seeland,
 - g Jura bernois Tourisme.
 
-<sup>3</sup> Bezugsstelle für die übrigen Betriebe ist das Amt für Berner Wirtschaft (beco).
+<sup>3</sup> Bezugsstelle für die übrigen Betriebe ist das Amt für Wirtschaft (AWI).
 
 <sup>4</sup> Bezugsstelle im Bereich des Jugend- und Sozialtourismus ist Pfadi Kanton Bern.
 
@@ -225,7 +224,7 @@ beschliesst:
 
 #### Art. 18
 
-<sup>1</sup> Zuständige Stelle gemäss TEG[^18-1] und dieser Verordnung ist das beco.
+<sup>1</sup> Zuständige Stelle gemäss TEG[^18-1] und dieser Verordnung ist das AWI.
 
 [^18-1]: BSG [935.211](https://www.belex.sites.be.ch/data/935.211/de)
 

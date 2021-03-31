@@ -4,13 +4,12 @@ number: "935.211.1"
 title: Ordonnance sur le développement du tourisme
 short: ODT
 language: fr
-version: 2018-05-01
-valid_until: 2021-03-31
-version_adopted: 2018-03-07
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2005-10-19
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1441/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2211/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1441/pdf_file"
 
 (ODT)
 
-du 19.10.2005 (état au 01.05.2018)
+du 19.10.2005 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -146,7 +145,7 @@ arrête:
 - f Tourisme Bienne Seeland,
 - g Jura bernois Tourisme.
 
-<sup>3</sup> Pour les autres établissements, la taxe est prélevée par l'Office de l'économie bernoise (beco).
+<sup>3</sup> Pour les autres établissements, la taxe est prélevée par l'Office de l’économie (OEC).
 
 <sup>4</sup> Le service chargé de la perception des taxes pour le tourisme social et le tourisme destiné aux jeunes est Pfadi Kanton Bern (Association du scoutisme bernois).
 
@@ -225,7 +224,7 @@ arrête:
 
 #### Art. 18
 
-<sup>1</sup> Le service compétent au sens de la LDT[^18-1] et de la présente ordonnance est le beco.
+<sup>1</sup> Le service compétent au sens de la LDT[^18-1] et de la présente ordonnance est l'OEC.
 
 [^18-1]: RSB [935.211](https://www.belex.sites.be.ch/data/935.211/fr)
 
