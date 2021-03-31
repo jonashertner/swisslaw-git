@@ -3,18 +3,18 @@ sr: "431.011"
 title: Verordnung vom 30. Juni 1993 über die Organisation der Bundesstatistik
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: de
-version: 2008-08-01
+version: 2021-04-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20080801/de/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20080801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20080801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20210401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Organisation der Bundesstatistik
 
-vom 30. Juni 1993 (Stand am 1. August 2008)
+vom 30. Juni 1993 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -161,17 +161,17 @@ Die Kommission für die Bundesstatistik (Kommission) berät den Bundesrat und di
 
 #### Art. 10
 
-**Datenschutz und Datensicherheit**
+**Datenschutz und Datensicherheit**[^10-1]
 
-<sup>1</sup> Für die Gewährleistung des Datenschutzes gelten neben den Bestimmungen des Gesetzes und der Verordnung vom 30. Juni 1993[^10-1] über die Durchführung von statistischen Erhebungen des Bundes auch die Bestimmungen des Datenschutzgesetzes vom 19. Juni 1992[^10-2] und der Datenschutzverordnung vom 14. Juni 1993[^10-3].
+<sup>1</sup> Für die Gewährleistung des Datenschutzes gelten neben den Bestimmungen des Gesetzes und der Verordnung vom 30. Juni 1993[^10-2] über die Durchführung von statistischen Erhebungen des Bundes auch die Bestimmungen des Bundesgesetzes vom 19. Juni 1992[^10-3] über den Datenschutz und der Verordnung vom 14. Juni 1993[^10-4] zum Bundesgesetz über den Datenschutz.
 
-<sup>2</sup> Für die Gewährleistung der Datensicherheit gelten neben den Bestimmungen des Gesetzes auch die der Bundesinformatikverordnung vom 26. September 2003[^10-4] und der Datenschutzverordnung zum Bundesgesetz über den Datenschutz.[^10-5]
+<sup>2</sup> Für die Gewährleistung der Datensicherheit gelten neben den Bestimmungen des Gesetzes auch diejenigen der Cyberrisikenverordnung vom 27. Mai 2020[^10-5] und der Verordnung vom 14. Juni 1993 zum Bundesgesetz über den Datenschutz.
 
-[^10-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^10-4]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^10-5]: Fassung gemäss Anhang Ziff. II 2 der Bundesinformatikverordnung vom 26. Sept. 2003 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^10-1]: Fassung gemäss Anhang Ziff. 10 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^10-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-4]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^10-5]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 11
 

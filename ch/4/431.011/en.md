@@ -3,11 +3,11 @@ sr: "431.011"
 title: Ordinance of 30 June 1993 on the Organisation of Federal Statistics
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: en
-version: 2008-08-01
+version: 2021-04-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20080801/en/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20080801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20080801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20210401/en/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20210401-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20210401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20080801/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 30 June 1993 (Status as on 1 August 2008)
+of 30 June 1993 (Status as on 1 April 2021)
 
 The Swiss Federal Council,
 
-based on Article 25 paragraph 1 of the Federal Statistics Act of 9 October 1992[^ingress-1] (“the Act”),
+based on Article 25 paragraph 1 of the Federal Statistics Act of 9 October 1992[^ingress-1] (the Act),
 
 ordains:
 
@@ -79,7 +79,7 @@ Statistical work comprises:
 
 <sup>3</sup> Work that that solely involves the internal administrative activities of administrative units and the other public corporations, institutions and private entities, the results of which provide no representative information at federal level, is not regarded as statistical work.
 
-[^3-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 No. 2, **1985** 699, **1987** 226 No. II 2 808, **1989** 2116, **1990** 3 Art. 1 1530 No. II 1 1587 Art. 1, **1991** 362 No. I, **1992** 2 Art. 1, 288 Annex No. 2 510 581 Annex No. 2, **1993** 1770, **1995** 978 4093Annex No. 2 4362 Art. 1 5050 Annex No. 1, **1996** 1486 1498 Annex No. 1, 546Annex No. 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. See now the Government and Administration Organisation Act of 21 March 1997 ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
+[^3-1]: [[AS 1979 114](https://fedlex.data.admin.ch/eli/oc/1979/114_114_114), [1983 170](https://fedlex.data.admin.ch/eli/oc/1983/170_170_170)[931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931)Art. 59 No 2, [1985 699](https://fedlex.data.admin.ch/eli/oc/1985/699_699_699), [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 2 [808](https://fedlex.data.admin.ch/eli/oc/1987/808_808_808), [1989 2116](https://fedlex.data.admin.ch/eli/oc/1989/2116_2116_2116), [1990 3](https://fedlex.data.admin.ch/eli/oc/1990/3_3_3)Art. 1 [1530](https://fedlex.data.admin.ch/eli/oc/1990/1530_1530_1530)No II 1 [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 1, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No I, [1992 2](https://fedlex.data.admin.ch/eli/oc/1992/2_2_2)Art. 1, [288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 2 [510](https://fedlex.data.admin.ch/eli/oc/1992/510_510_510)[581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)Annex No 2, [1993 1770](https://fedlex.data.admin.ch/eli/oc/1993/1770_1770_1770), [1995 978](https://fedlex.data.admin.ch/eli/oc/1995/978_978_978)[4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 2 4362 Art. 1 5050 Annex No 1, **1996** 1486 1498 Annex No 1, 546Annex No 1. [AS 1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Art. 63]. See now the Government and Administration Organisation Act of 21 March 1997 ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
 
 #### Art. 4
 
@@ -101,7 +101,7 @@ Statistical work comprises:
 
 <sup>1</sup>
 
-The Federal Statistics Committee (“the Committee”) advises the Federal Council and the federal statistics generators on the following matters:
+The Federal Statistics Committee (the Committee) advises the Federal Council and the federal statistics generators on the following matters:
 
 - a. the preparation of the multi-year programme and the supervision of this programme;
 - b. the provision of recommendations and guidelines for statistical work;
@@ -143,7 +143,7 @@ The Federal Statistics Committee (“the Committee”) advises the Federal Counc
 
 <sup>2</sup> Their remuneration is governed by the Ordinance of 1 October 1973[^8-1] on the Remuneration of Committee Members, Experts and Mandataries.
 
-[^8-1]: [[AS 1973 1559](https://fedlex.data.admin.ch/eli/oc/1973/1559_1559_1559), [1989 50](https://fedlex.data.admin.ch/eli/oc/1989/50_50_50), [1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)Art. 72 No. 2. [AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 21 let. b]. See now the Ordinance on the Daily Allowances and Remuneration of the Members of Extra-Parliamentary Committees ([SR 172.311](https://fedlex.data.admin.ch/eli/cc/1997/167_167_167)).
+[^8-1]: [[AS 1973 1559](https://fedlex.data.admin.ch/eli/oc/1973/1559_1559_1559), [1989 50](https://fedlex.data.admin.ch/eli/oc/1989/50_50_50), [1996 518](https://fedlex.data.admin.ch/eli/oc/1996/518_518_518)Art. 72 No 2. [AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)Art. 21 let. b]. See now the Ordinance on the Daily Allowances and Remuneration of the Members of Extra-Parliamentary Committees ([SR 172.311](https://fedlex.data.admin.ch/eli/cc/1997/167_167_167)).
 
 #### Art. 9
 
@@ -159,21 +159,21 @@ The Federal Statistics Committee (“the Committee”) advises the Federal Counc
 
 <sup>5</sup> The Federal Office coordinates the relations of the Confederation with international organisations in the field of statistics. It also guarantees the exchange of data between the federal statistical bodies and the relevant international organisations, insofar as this is not guaranteed by other federal statistics generators. The exchange of data via networks is carried out in cooperation with the Federal Office for Information Technology and Systems[^9-1].
 
-[^9-1]: Title in accordance with the unpublished Federal Council Decree dated 19 Dec. 1997.
+[^9-1]: Term in accordance with the unpublished FCF of 19 Dec. 1997.
 
 #### Art. 10
 
-**Data protection and data security**
+**Data protection and data security**[^10-1]
 
-<sup>1</sup> In order to guarantee data protection, in addition to the provisions of the Act and the Ordinance of 30 June 1993[^10-1] on the Conduct of Federal Statistical Surveys, the provisions of the Data Protection Act of 19 June 1992[^10-2] and the Data Protection Ordinance of 14 June 1993[^10-3] apply.
+<sup>1</sup> In order to guarantee data protection, in addition to the provisions of the Act and the Ordinance of 30 June 1993[^10-2] on the Conduct of Federal Statistical Surveys, the provisions of the Federal Act of 19 June 1992[^10-3] on Data Protection and the Ordinance of 14 June 1993[^10-4] to the Data Protection Act apply.
 
-<sup>2</sup> In order to guarantee data security, in addition to the provisions of the Act, the Federal Information Technology Ordinance of 26 September 2003[^10-4] and the Ordinance to the Federal Act on Data Protection[^10-5] apply.
+<sup>2</sup> In order to guarantee data security, in addition to the provisions of the Act, the provisions of the Cyber Risks Ordinance of 27 May 2020[^10-5] and the Ordinance to the Federal Act on Data Protection also apply.
 
-[^10-1]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^10-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^10-4]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^10-5]: Wording according to Annex No. II 2 of the Federal Information Technology Ordinance of 26 Sept. 2003 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^10-1]: Amended by Annex No 10 of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^10-2]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-4]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^10-5]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 11
 
@@ -185,16 +185,16 @@ The Federal Statistics Committee (“the Committee”) advises the Federal Counc
 
 The Federal Office maintains:
 
-- a. an integrated and structured collection of statistical and geographical data (the “data warehouse”);
+- a. an integrated and structured collection of statistical and geographical data (data warehouse);
 - b. a central online statistical information system that provides access to statistical results and metadata from affiliated databases for various target groups.[^11-1]
 
 <sup>3</sup> It provides these facilities to the federal statistics generators and other data providers for the provision of statistical information.[^11-2]
 
 <sup>4</sup> It may issue recommendations and guidelines for the provision of data by these facilities.[^11-3]
 
-[^11-1]: Wording according to No. I of the Ordinance of 28 June 2006, in force since 1 Aug. 2006 ([AS 2006 2799](https://fedlex.data.admin.ch/eli/oc/2006/434)).
-[^11-2]: Wording according to No. I of the Ordinance of 28 June 2006, in force since 1 Aug. 2006 ([AS 2006 2799](https://fedlex.data.admin.ch/eli/oc/2006/434)).
-[^11-3]: Inserted by No. I of the Ordinance of 28 June 2006, in force since 1 Aug. 2006 ([AS 2006 2799](https://fedlex.data.admin.ch/eli/oc/2006/434)).
+[^11-1]: Amended by No I of the O of 28 June 2006, in force since 1 Aug. 2006 ([AS 2006 2799](https://fedlex.data.admin.ch/eli/oc/2006/434)).
+[^11-2]: Amended by No I of the O of 28 June 2006, in force since 1 Aug. 2006 ([AS 2006 2799](https://fedlex.data.admin.ch/eli/oc/2006/434)).
+[^11-3]: Inserted by No I of the O of 28 June 2006, in force since 1 Aug. 2006 ([AS 2006 2799](https://fedlex.data.admin.ch/eli/oc/2006/434)).
 
 #### Art. 12
 
@@ -208,7 +208,7 @@ Annex*[^t-1]*
 
 ## Institutions subject to the Act (Art. 2 para. 2 and 3 of the Act)
 
-[^t-1]: Amended in accordance with No. II of the Ordinance of 2 July 2008, in force since 1 Aug. 2008 ([AS 2008 3463](https://fedlex.data.admin.ch/eli/oc/2008/451)).
+[^t-1]: Amended by No II of the O of 2 July 2008, in force since 1 Aug. 2008 ([AS 2008 3463](https://fedlex.data.admin.ch/eli/oc/2008/451)).
 
 Federal Institute of Technology Zurich (ETHZ), Federal Institute of Technology Lausanne (ETHL), the General Secretariat of the ETH Board and the following research institutes:
 

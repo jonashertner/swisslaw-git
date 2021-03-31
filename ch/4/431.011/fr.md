@@ -3,18 +3,18 @@ sr: "431.011"
 title: "Ordonnance du 30 juin 1993 concernant l'organisation de la statistique fédérale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: fr
-version: 2008-08-01
+version: 2021-04-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20080801/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20080801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20080801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20210401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’organisation de la statistique fédérale
 
-du 30 juin 1993 (Etat le 1<sup>er</sup> août 2008)
+du 30 juin 1993 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -161,17 +161,17 @@ La Commission de la statistique fédérale (commission) conseille le Conseil fé
 
 #### Art. 10
 
-**Protection et sécurité des données**
+**Protection et sécurité des données**[^10-1]
 
-<sup>1</sup> La protection des données est assurée par les dispositions spécifiques de la loi et de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^10-1], ainsi que par celles de la loi fédérale du 19 juin 1992 sur la protection des données[^10-2] et de l’ordonnance correspondante du 14 juin 1993[^10-3].
+<sup>1</sup> La protection des données est assurée par les dispositions spécifiques de la loi et de l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux[^10-2], ainsi que par celles de la loi fédérale du 19 juin 1992 sur la protection des données[^10-3] et de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^10-4].
 
-<sup>2</sup> La sécurité des données est assurée par les dispositions spécifiques de la loi, l’ordonnance du 26 septembre 2003 sur l’informatique dans l’administration fédérale[^10-4] et l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données.[^10-5]
+<sup>2</sup> La sécurité des données est assurée par les dispositions spécifiques de la loi, ainsi que par celles de l’ordonnance du 27 mai 2020 sur les cyberrisques[^10-5] et de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données.
 
-[^10-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^10-4]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^10-5]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 26 sept. 2003 sur l’informatique dans l’administration fédérale ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^10-1]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^10-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^10-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 11
 

@@ -3,18 +3,18 @@ sr: "431.011"
 title: "Ordinanza del 30 giugno 1993 sull'organizzazione della statistica federale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093"
 language: it
-version: 2008-08-01
+version: 2021-04-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20080801/it/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20080801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20080801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1993-2093_2093_2093-20210401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’organizzazione della statistica federale
 
-del 30 giugno 1993 (Stato 1° agosto 2008)
+del 30 giugno 1993 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -161,17 +161,17 @@ La Commissione della statistica federale (Commissione) presta consulenza al Cons
 
 #### Art. 10
 
-**Protezione e sicurezza dei dati**
+**Protezione e sicurezza dei dati**[^10-1]
 
-<sup>1</sup> La protezione dei dati è assicurata dalle disposizioni della legge e dell’ordinanza del 30 giugno 1993[^10-1] sull’esecuzione di rilevazioni statistiche federali, nonché da quelle della legge federale del 19 giugno 1992[^10-2] sulla protezione dei dati e della relativa ordinanza del 14 giugno 1993[^10-3].
+<sup>1</sup> La protezione dei dati è assicurata dalle disposizioni della legge e dell’ordinanza del 30 giugno 1993[^10-2] sulle rilevazioni statistiche, nonché da quelle della legge del 19 giugno 1992[^10-3] sulla protezione dei dati e dell’ordinanza del 14 giugno 1993[^10-4] relativa alla legge federale sulla protezione dei dati.
 
-<sup>2</sup> La sicurezza dei dati è garantita dalle disposizioni della legge e da quelle dell’ordinanza del 26 settembre 2003[^10-4] sull’informatica nell’Amministrazione federale, nonché da quelle dell’ordinanza relativa alla legge federale sulla protezione dei dati.[^10-5]
+<sup>2</sup> La sicurezza dei dati è garantita dalle disposizioni della legge e da quelle dell’ordinanza del 27 maggio 2020[^10-5] sui ciber-rischi, nonché da quelle dell’ordinanza del 14 giugno 1993 relativa alla legge federale sulla protezione dei dati.
 
-[^10-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
-[^10-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^10-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^10-4]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^10-5]: Nuovo testo giusta il n. II 2 dell’all. all’O del 26 set. 2003 sull’informatica nell’amministrazione federale ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^10-1]: Nuovo testo giusta l’all. n. 10 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^10-2]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+[^10-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^10-4]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^10-5]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 11
 
