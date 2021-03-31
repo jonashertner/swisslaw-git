@@ -3,20 +3,20 @@ canton: SG
 number: "320.201"
 title: Kantonsratsbeschluss über die Übertragung der Spitalimmobilien
 language: de
-version: 2017-01-01
-valid_until: 2021-03-31
-version_adopted: 2016-03-01
+version: 2021-04-01
+valid_until: 2021-07-14
+version_adopted: 2021-02-02
 adopted: 2016-03-01
 in_force: 2017-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.201"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2177/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3136/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Übertragung der Spitalimmobilien
 
-vom 01.03.2016 (Stand 01.01.2017)
+vom 01.03.2016 (Stand 01.04.2021)
 
 Der Kantonsrat
 
@@ -55,7 +55,7 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Die Spitalanlagengesellschaften setzen die in folgenden Kantonsratsbeschlüssen genehmigten Projekte auf eigene Rechnung um:
 
 - a) Kantonsratsbeschluss über den Neubau der Häuser 07A/07B des Kantonsspitals St.Gallen vom 30. November 2014;
-- b) Kantonsratsbeschluss über die Erneuerung und Erweiterung des Spitals Altstätten vom 30. November 2014;
+- b) …
 - c) Kantonsratsbeschluss über die Erneuerung und Erweiterung des Spitals Grabs vom 30. November 2014;
 - d) Kantonsratsbeschluss über die Erneuerung und Erweiterung des Spitals Linth (2. Etappe) vom 30. November 2014;
 - e) Kantonsratsbeschluss über die Erneuerung und Erweiterung des Spitals Wattwil vom 30. November 2014;
