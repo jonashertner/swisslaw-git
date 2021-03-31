@@ -4,20 +4,20 @@ number: "437.11"
 title: Gesetz über die Förderung von Turnen und Sport
 short: KSpoFöG
 language: de
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-04-14
+version: 2021-04-01
+valid_until: 2022-07-31
+version_adopted: 2021-02-24
 adopted: 2021-12-07
 in_force: 2022-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/437.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/679/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2223/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Förderung von Turnen und Sport
 
-vom 11.02.1985 (Stand 01.01.2004)
+vom 11.02.1985 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -63,9 +63,9 @@ beschliesst:
 
 **Jugend und Sport (J+S)**
 
-<sup>1</sup> Die Anwendung der Bundesvorschriften über Jugend und Sport und die Erfüllung kantonaler Aufgaben in diesem Bereich obliegen der Polizei- und Militärdirektion.
+<sup>1</sup> Die Anwendung der Bundesvorschriften über Jugend und Sport und die Erfüllung kantonaler Aufgaben in diesem Bereich obliegen der Sicherheitsdirektion.
 
-<sup>2</sup> Polizei- und Militärdirektion sorgt für die Durchführung von Veranstaltungen im Rahmen von Jugend und Sport sowie für die Aus- und Fortbildung der Leiter in Zusammenarbeit mit Vereinen und Verbänden.
+<sup>2</sup> Die Sicherheitsdirektion sorgt für die Durchführung von Veranstaltungen im Rahmen von Jugend und Sport sowie für die Aus- und Fortbildung der Leiter in Zusammenarbeit mit Vereinen und Verbänden.
 
 #### Art. 5a
 
@@ -83,7 +83,7 @@ beschliesst:
 
 **Turn- und Sportanlagen 1 Sportstättenplanung**
 
-<sup>1</sup> Polizei- und Militärdirektion betreibt in Zusammenarbeit mit den übrigen Direktionen des Regierungsrates, den Regionalplanungsverbänden und den Gemeinden eine kantonale Sportstättenplanung für Projekte von kantonaler und regionaler Bedeutung.
+<sup>1</sup> Die Sicherheitsdirektion betreibt in Zusammenarbeit mit den übrigen Direktionen des Regierungsrates, den Regionalplanungsverbänden und den Gemeinden eine kantonale Sportstättenplanung für Projekte von kantonaler und regionaler Bedeutung.
 
 <sup>2</sup> Die Sportstättenplanung ist vom Regierungsrat zu genehmigen. Sie ist für die Behörden verbindlich und bildet insbesondere die Grundlage für allfällige Subventionierungen.
 
@@ -103,7 +103,7 @@ beschliesst:
 
 <sup>2</sup> Diese berät die Direktionen des Regierungsrates in allen Fragen von Turnen und Sport unter Vorbehalt der gesetzlichen Befugnisse anderer Organe.
 
-<sup>3</sup> Die Kommission ist der Polizei- und Militärdirektion unterstellt.
+<sup>3</sup> Die Kommission ist der Sicherheitsdirektion unterstellt.
 
 #### Art. 10
 

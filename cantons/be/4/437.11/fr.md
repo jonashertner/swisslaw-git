@@ -4,20 +4,20 @@ number: "437.11"
 title: "Loi sur l'encouragement de la gymnastique et des sports"
 short: LCESp
 language: fr
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-04-14
+version: 2021-04-01
+valid_until: 2022-07-31
+version_adopted: 2021-02-24
 adopted: 2021-12-07
 in_force: 2022-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/437.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/679/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2223/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Loi sur l'encouragement de la gymnastique et des sports
 
-du 11.02.1985 (état au 01.01.2004)
+du 11.02.1985 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -63,9 +63,9 @@ arrête:
 
 **Jeunesse et Sport (J+S)**
 
-<sup>1</sup> L'application des prescriptions fédérales relatives à Jeunesse et Sport et l'exécution des tâches qui incombent aux cantons ressortissent à la Direction de la police et des affaires militaires.
+<sup>1</sup> L'application des prescriptions fédérales relatives à Jeunesse et Sport et l'exécution des tâches qui incombent aux cantons ressortissent à la Direction de la sécurité.
 
-<sup>2</sup> La Direction de la police et des affaires militaires assure en collaboration avec les sociétés et associations le déroulement des manifestations organisées dans le cadre de Jeunesse et Sport, la formation et le perfectionnement des moniteurs de cette institution.
+<sup>2</sup> La Direction de la sécurité assure en collaboration avec les sociétés et associations le déroulement des manifestations organisées dans le cadre de Jeunesse et Sport, la formation et le perfectionnement des moniteurs de cette institution.
 
 #### Art. 5a
 
@@ -83,7 +83,7 @@ arrête:
 
 **Installations de gymnastique et de sport 1 Plan cantonal d'aménagement des installations sportives**
 
-<sup>1</sup> En collaboration avec les associations d'aménagement régional, les communes et les autres Directions du Conseil-exécutif, la Direction de la police et des affaires militaires établit un plan cantonal d'aménagement des installations sportives pour les projets d'importance cantonale ou régionale.
+<sup>1</sup> En collaboration avec les associations d'aménagement régional, les communes et les autres Directions du Conseil-exécutif, la Direction de la sécurité établit un plan cantonal d'aménagement des installations sportives pour les projets d'importance cantonale ou régionale.
 
 <sup>2</sup> Le plan cantonal d'aménagement des installations sportives doit être approuvé par le Conseil-exécutif. Il lie les autorités et constitue la base pour d'éventuelles subventions.
 
@@ -103,7 +103,7 @@ arrête:
 
 <sup>2</sup> Celle-ci conseille les Directions du Conseil-exécutif dans toutes les questions ayant trait à la gymnastique et aux sports, sous réserve des compétences que la loi attribue à d'autres organes.
 
-<sup>3</sup> La commission est subordonnée à la Direction de la police et des affaires militaires.
+<sup>3</sup> La commission est subordonnée à la Direction de la sécurité.
 
 #### Art. 10
 
