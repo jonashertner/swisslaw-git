@@ -4,13 +4,13 @@ number: "170.100"
 title: Lescha davart il cussegl grond
 short: LCG
 language: rm
-version: 2017-01-01
-corrected: 2021-01-01
-version_adopted: 2015-10-20
+version: 2021-04-01
+valid_until: 2021-09-30
+version_adopted: 2020-12-09
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3081/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3176/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3081/pdf_file"
 
 (LCG)
 
-dals 08-12-2005 (versiun dals 01-01-2017)
+dals 08-12-2005 (versiun dals 01-04-2021)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -626,6 +626,16 @@ concluda:
 <sup>1</sup> Il cussegl grond prenda enconuschientscha da las planisaziuns politicas da la regenza.
 
 <sup>2</sup> Il cussegl grond po prender conclus per cuntinuar cun las planisaziuns e per las coordinar areguard il cuntegn e po dar incumbensas a la regenza.
+
+### 6.1.a Legislaziun
+
+#### Art. 64a
+
+**Infurmaziun**
+
+<sup>1</sup> En las missivas al Cussegl grond davart revisiuns parzialas u totalas da leschas explitgescha la Regenza pli detagliadamain il cuntegn d'ina ordinaziun executiva che duai vegnir relaschada da la Regenza.
+
+<sup>2</sup> Sche pussaivel suttametta la Regenza il sboz da l'ordinaziun executiva da la Regenza per infurmaziun a la cumissiun cumpetenta.
 
 ### 6.2. RAPPORTS SPEZIALS
 

@@ -4,13 +4,13 @@ number: "170.100"
 title: Legge sul Gran Consiglio
 short: LGC
 language: it
-version: 2017-01-01
-corrected: 2021-01-01
-version_adopted: 2015-10-20
+version: 2021-04-01
+valid_until: 2021-09-30
+version_adopted: 2020-12-09
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3081/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3176/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3081/pdf_file"
 
 (LGC)
 
-del 08.12.2005 (stato 01.01.2017)
+del 08.12.2005 (stato 01.04.2021)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -622,6 +622,16 @@ decide:
 <sup>1</sup> Il Gran Consiglio prende atto delle pianificazioni politiche del Governo.
 
 <sup>2</sup> Per portare avanti le pianificazioni e per il coordinamento contenutistico, il Gran Consiglio può prendere decisioni e assegnare incarichi al Governo.
+
+### 6.1.a Legislazione
+
+#### Art. 64a
+
+**Informazione**
+
+<sup>1</sup> Nei messaggi a destinazione del Gran Consiglio concernenti revisioni parziali o totali di leggi il Governo fornisce informazioni più dettagliate in merito al contenuto di una prevista ordinanza governativa di esecuzione.
+
+<sup>2</sup> Per quanto possibile, il Governo sottopone il progetto di ordinanza governativa di esecuzione per informazione alla Commissione competente.
 
 ### 6.2. Rapporti speciali
 

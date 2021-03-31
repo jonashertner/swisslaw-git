@@ -4,13 +4,13 @@ number: "170.100"
 title: Gesetz über den Grossen Rat
 short: Grossratsgesetz; GRG
 language: de
-version: 2017-01-01
-corrected: 2021-01-01
-version_adopted: 2015-10-20
+version: 2021-04-01
+valid_until: 2021-09-30
+version_adopted: 2020-12-09
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3081/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3176/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3081/pdf_file"
 
 (Grossratsgesetz; GRG)
 
-Vom 08.12.2005 (Stand 01.01.2017)
+Vom 08.12.2005 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -622,6 +622,16 @@ beschliesst:
 <sup>1</sup> Die politischen Planungen der Regierung werden vom Grossen Rat zur Kenntnis genommen.
 
 <sup>2</sup> Der Grosse Rat kann zur Weiterführung der Planungen und zur inhaltlichen Koordination Beschlüsse fassen und der Regierung Aufträge erteilen.
+
+### 6.1.a Rechtsetzung
+
+#### Art. 64a
+
+**Information**
+
+<sup>1</sup> In Botschaften an den Grossen Rat zu Teil- oder Totalrevisionen von Gesetzen macht die Regierung nähere Ausführungen über den Inhalt einer vorgesehenen regierungsrätlichen Ausführungsverordnung.
+
+<sup>2</sup> Soweit möglich, unterbreitet die Regierung den Entwurf zur regierungsrätlichen Ausführungsverordnung der zuständigen Kommission zur Information.
 
 ### 6.2. Besondere Berichte
 
