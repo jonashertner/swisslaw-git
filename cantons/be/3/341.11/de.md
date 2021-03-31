@@ -4,13 +4,13 @@ number: "341.11"
 title: Verordnung über den Justizvollzug
 short: "Justizvollzugsverordnung, JVV"
 language: de
-version: 2018-12-01
-valid_until: 2021-03-31
-version_adopted: 2018-08-22
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-24
 adopted: 2018-08-22
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/341.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1504/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2221/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1504/pdf_file"
 
 (Justizvollzugsverordnung, JVV)
 
-vom 22.08.2018 (Stand 01.12.2018)
+vom 22.08.2018 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -36,21 +36,21 @@ beschliesst:
 
 ### 1.1 Behörden des Justizvollzugs
 
-### 1.1.1 Zuständige Stellen der Polizei- und Militärdirektion
+### 1.1.1 Zuständige Stellen der Sicherheitsdirektion
 
 #### Art. 1
 
 **Amt für Justizvollzug (AJV)**
 
-<sup>1</sup> Das Amt für Justizvollzug (AJV) ist die für den Justizvollzug zuständige Stelle der Polizei- und Militärdirektion. Artikel 2 bleibt vorbehalten.
+<sup>1</sup> Das Amt für Justizvollzug (AJV) ist die für den Justizvollzug zuständige Stelle der Sicherheitsdirektion. Artikel 2 bleibt vorbehalten.
 
 <sup>2</sup> Es erlässt ein Organisationsreglement.
 
 #### Art. 2
 
-**Amt für Migration und Personenstand (MIP)**
+**Amt für Bevölkerungsdienste (ABEV)**
 
-<sup>1</sup> Der Migrationsdienst (MIDI) des Amts für Migration und Personenstand (MIP) ist die zuständige Stelle der Polizei- und Militärdirektion für den Vollzug der strafrechtlichen Landesverweisung nach dem Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (StGB)[^2-1] und erlässt die damit zusammenhängenden Anordnungen.
+<sup>1</sup> Der Migrationsdienst (MIDI) des Amts für Bevölkerungsdienste (ABEV) ist die zuständige Stelle der Sicherheitsdirektion für den Vollzug der strafrechtlichen Landesverweisung nach dem Schweizerischen Strafgesetzbuch vom 21. Dezember 1937 (StGB)[^2-1] und erlässt die damit zusammenhängenden Anordnungen.
 
 [^2-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
@@ -205,13 +205,13 @@ beschliesst:
 - f die Hausordnung,
 - g die Bestätigung der Kenntnisnahme des Gesuchs durch die Standortgemeinde.
 
-<sup>3</sup> Die Polizei- und Militärdirektion entscheidet über das Gesuch.
+<sup>3</sup> Die Sicherheitsdirektion entscheidet über das Gesuch.
 
 #### Art. 15
 
 **Aufsicht**
 
-<sup>1</sup> Das AJV übt die Aufsicht über den Vollzug von Freiheitsstrafen und freiheitsentziehenden strafrechtlichen Massnahmen an Erwachsenen in den privaten Einrichtungen aus und informiert die Polizei- und Militärdirektion periodisch und im Ereignisfall.
+<sup>1</sup> Das AJV übt die Aufsicht über den Vollzug von Freiheitsstrafen und freiheitsentziehenden strafrechtlichen Massnahmen an Erwachsenen in den privaten Einrichtungen aus und informiert die Sicherheitsdirektion periodisch und im Ereignisfall.
 
 <sup>2</sup> Es kann mit Kontrollbesuchen überprüfen, ob die gesetzlichen Vorschriften und die Bewilligungsauflagen eingehalten werden, Berichte einholen und Kontrollen durch Fachpersonen anordnen.
 
@@ -223,7 +223,7 @@ beschliesst:
 
 <sup>1</sup> Eine Bewilligung zum Vollzug von Freiheitsstrafen und freiheitsentziehenden strafrechtlichen Massnahmen an Erwachsenen wird auf unbestimmte Zeit erteilt.
 
-<sup>2</sup> Die Polizei- und Militärdirektion kann die Bewilligung dauerhaft oder vorübergehend entziehen, wenn
+<sup>2</sup> Die Sicherheitsdirektion kann die Bewilligung dauerhaft oder vorübergehend entziehen, wenn
 
 - a die private Einrichtung die gesetzlichen Vorschriften oder die Auflagen der Bewilligung trotz Mahnung wiederholt oder in schwerwiegender Weise missachtet,
 - b die gesetzlichen Voraussetzungen nicht mehr erfüllt sind oder
@@ -241,13 +241,13 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch muss sinngemäss insbesondere die Angaben und Unterlagen nach der Sozialhilfegesetzgebung enthalten.
 
-<sup>3</sup> Die Polizei- und Militärdirektion entscheidet über das Gesuch.
+<sup>3</sup> Die Sicherheitsdirektion entscheidet über das Gesuch.
 
 #### Art. 18
 
 **Aufsicht**
 
-<sup>1</sup> Das AJV übt die Aufsicht über den Betrieb in den privaten Einrichtungen sinngemäss nach der Sozialhilfegesetzgebung aus und informiert die Polizei- und Militärdirektion periodisch und im Ereignisfall.
+<sup>1</sup> Das AJV übt die Aufsicht über den Betrieb in den privaten Einrichtungen sinngemäss nach der Sozialhilfegesetzgebung aus und informiert die Sicherheitsdirektion periodisch und im Ereignisfall.
 
 <sup>2</sup> Es kann mit Kontrollbesuchen überprüfen, ob die gesetzlichen Vorschriften und die Bewilligungsauflagen eingehalten werden, Berichte einholen und Kontrollen durch Fachpersonen anordnen.
 
@@ -1811,7 +1811,7 @@ beschliesst:
 - b polizeilichem Gewahrsam und Sicherheitsgewahrsam,
 - c Untersuchungs- und Sicherheitshaft.
 
-<sup>2</sup> Das MIP trägt bei Einweisungen durch Behörden des Kantons Bern die Vollzugskosten bei freiheitsentziehenden Zwangsmassnahmen des Ausländerrechts.
+<sup>2</sup> Das ABEV trägt bei Einweisungen durch Behörden des Kantons Bern die Vollzugskosten bei freiheitsentziehenden Zwangsmassnahmen des Ausländerrechts.
 
 <sup>3</sup> Die einweisende Behörde des Kantons Bern trägt die Vollzugskosten bei ausserdienstlichem Arrest und Ersatzfreiheitsstrafen nach dem MStG.
 
@@ -1821,7 +1821,7 @@ beschliesst:
 
 **Subsidiäre Kostenträger bei Eingewiesenen ohne Wohnsitz in der Schweiz**
 
-<sup>1</sup> Die persönlichen Auslagen von ausländischen Eingewiesenen ohne Wohnsitz in der Schweiz werden bei Einweisungen durch Behörden des Kantons Bern in den Vollzug einer freiheitsentziehenden Zwangsmassnahme des Ausländerrechts subsidiär vom MIP getragen.
+<sup>1</sup> Die persönlichen Auslagen von ausländischen Eingewiesenen ohne Wohnsitz in der Schweiz werden bei Einweisungen durch Behörden des Kantons Bern in den Vollzug einer freiheitsentziehenden Zwangsmassnahme des Ausländerrechts subsidiär vom ABEV getragen.
 
 <sup>2</sup> Sie werden bei Einweisungen durch Behörden des Kantons Bern in den Vollzug einer anderen Form des Freiheitsentzugs subsidiär getragen
 

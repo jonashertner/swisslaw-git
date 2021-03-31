@@ -4,13 +4,13 @@ number: "341.11"
 title: "Ordonnance sur l'exécution judiciaire"
 short: OEJ
 language: fr
-version: 2018-12-01
-valid_until: 2021-03-31
-version_adopted: 2018-08-22
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-24
 adopted: 2018-08-22
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1504/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2221/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1504/pdf_file"
 
 (OEJ)
 
-du 22.08.2018 (état au 01.12.2018)
+du 22.08.2018 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -36,21 +36,21 @@ arrête:
 
 ### 1.1 Autorités d'exécution judiciaire
 
-### 1.1.1 Services compétents de la Direction de la police et des affaires militaires
+### 1.1.1 Services compétents de la Direction de la sécurité
 
 #### Art. 1
 
 **Office de l'exécution judiciaire**
 
-<sup>1</sup> L'Office de l'exécution judiciaire est le service compétent de la Direction de la police et des affaires militaires en matière d'exécution judiciaire. L'article 2 est réservé.
+<sup>1</sup> L'Office de l'exécution judiciaire est le service compétent de la Direction de la sécurité en matière d'exécution judiciaire. L'article 2 est réservé.
 
 <sup>2</sup> L'Office de l'exécution judiciaire édicte un règlement d'organisation.
 
 #### Art. 2
 
-**Office de la population et des migrations**
+**Office de la population**
 
-<sup>1</sup> Le Service des migrations de l'Office de la population et des migrations est le service compétent de la Direction de la police et des affaires militaires en matière d'exécution des expulsions au sens du Code pénal suisse du 21 décembre 1937 (CP)[^2-1] et ordonne les mesures qui s'y rapportent.
+<sup>1</sup> Le Service des migrations de l'Office de la population est le service compétent de la Direction de la sécurité en matière d'exécution des expulsions au sens du Code pénal suisse du 21 décembre 1937 (CP)[^2-1] et ordonne les mesures qui s'y rapportent.
 
 [^2-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
@@ -205,13 +205,13 @@ arrête:
 - f règlement,
 - g attestation de la commune où est sis l'établissement que cette dernière a pris connaissance de la demande.
 
-<sup>3</sup> La Direction de la police et des affaires militaires statue sur la demande.
+<sup>3</sup> La Direction de la sécurité statue sur la demande.
 
 #### Art. 15
 
 **Surveillance**
 
-<sup>1</sup> L'Office de l'exécution judiciaire exerce la surveillance sur l'exécution de peines privatives de liberté et de mesures privatives de liberté de droit pénal concernant des adultes dans des établissements privés; il informe la Direction de la police et des affaires militaires périodiquement et en cas d'événement particulier.
+<sup>1</sup> L'Office de l'exécution judiciaire exerce la surveillance sur l'exécution de peines privatives de liberté et de mesures privatives de liberté de droit pénal concernant des adultes dans des établissements privés; il informe la Direction de la sécurité périodiquement et en cas d'événement particulier.
 
 <sup>2</sup> Il est habilité à effectuer des visites de contrôle pour s'assurer du respect des prescriptions légales et des conditions liées à l'autorisation, à demander des rapports et à charger des spécialistes de réaliser des contrôles.
 
@@ -223,7 +223,7 @@ arrête:
 
 <sup>1</sup> L'autorisation d'exécuter des peines privatives de liberté et des mesures privatives de liberté de droit pénal concernant des adultes est délivrée pour une durée indéterminée.
 
-<sup>2</sup> La Direction de la police et des affaires militaires peut prononcer le retrait définitif ou temporaire de l'autorisation
+<sup>2</sup> La Direction de la sécurité peut prononcer le retrait définitif ou temporaire de l'autorisation
 
 - a si l'établissement privé enfreint, de manière répétée, malgré un avertissement, les prescriptions légales ou les conditions liées à l'autorisation ou les enfreint gravement;
 - b si les conditions légales ne sont plus remplies ou
@@ -241,13 +241,13 @@ arrête:
 
 <sup>2</sup> La demande est soumise à la législation sur l'aide sociale par analogie, notamment pour ce qui est des indications et des documents qu'elle doit comporter.
 
-<sup>3</sup> La Direction de la police et des affaires militaires statue sur la demande.
+<sup>3</sup> La Direction de la sécurité statue sur la demande.
 
 #### Art. 18
 
 **Surveillance**
 
-<sup>1</sup> L'Office de l'exécution judiciaire exerce la surveillance sur l'exploitation des établissements privés en appliquant la législation sur l'aide sociale par analogie; il informe la Direction de la police et des affaires militaires périodiquement et en cas d'événement particulier.
+<sup>1</sup> L'Office de l'exécution judiciaire exerce la surveillance sur l'exploitation des établissements privés en appliquant la législation sur l'aide sociale par analogie; il informe la Direction de la sécurité périodiquement et en cas d'événement particulier.
 
 <sup>2</sup> Il est habilité à effectuer des visites de contrôle pour s'assurer du respect des prescriptions légales et des conditions liées à l'autorisation, à demander des rapports et à charger des spécialistes de réaliser des contrôles.
 
@@ -1811,7 +1811,7 @@ arrête:
 - b de la garde et de la garde prolongée,
 - c de la détention provisoire et de la détention pour des motifs de sûreté.
 
-<sup>2</sup> En cas de placement par des autorités cantonales bernoises, l'Office de la population et des migrations prend en charge les frais d'exécution des mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté.
+<sup>2</sup> En cas de placement par des autorités cantonales bernoises, l'Office de la population prend en charge les frais d'exécution des mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté.
 
 <sup>3</sup> L'autorité de placement du canton de Berne prend en charge les frais d'exécution des arrêts en dehors du service et des peines privatives de liberté de substitution au sens du CPM.
 
@@ -1821,7 +1821,7 @@ arrête:
 
 **Prise en charge subsidiaire pour les personnes détenues sans domicile en Suisse**
 
-<sup>1</sup> En cas de placement par des autorités cantonales bernoises en exécution de mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté, les dépenses personnelles des personnes détenues étrangères sans domicile en Suisse sont prises en charge à titre subsidiaire par l'Office de la population et des migrations.
+<sup>1</sup> En cas de placement par des autorités cantonales bernoises en exécution de mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté, les dépenses personnelles des personnes détenues étrangères sans domicile en Suisse sont prises en charge à titre subsidiaire par l'Office de la population.
 
 <sup>2</sup> En cas de placement par des autorités cantonales bernoises en exécution d'une autre forme de privation de liberté, elles sont prises en charge à titre subsidiaire par
 
