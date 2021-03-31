@@ -4,13 +4,13 @@ number: "836.11"
 title: Loi sur le marché du travail
 short: LMT
 language: fr
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-03-12
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 2003-06-23
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/836.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1704/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2179/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1704/pdf_file"
 
 (LMT)
 
-du 23.06.2003 (état au 01.01.2020)
+du 23.06.2003 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -64,7 +64,7 @@ arrête:
 
 <sup>1</sup> Il ne peut être pris de mesures au sens de la présente loi que s'il n'est pas possible aux partenaires sociaux de parvenir à une solution suffisante en temps utile.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique favorise autant que possible une solution émanant des partenaires sociaux.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement favorise autant que possible une solution émanant des partenaires sociaux.
 
 <sup>3</sup> La réglementation conventionnelle des compétences des commissions paritaires n'est pas restreinte par la présente loi.
 
@@ -74,7 +74,7 @@ arrête:
 
 **Commission cantonale du marché du travail (CCMT)**
 
-<sup>1</sup> La Commission cantonale du marché du travail (CCMT) conseille le service compétent de la Direction de l'économie publique en matière de marché du travail et présente à la commission tripartite de la Confédération ou à la Direction de l'économie publique à l'attention du Conseil-exécutif les propositions de contrats-types de travail de durée déterminée et d'extension du champ d'application des conventions collectives de travail.
+<sup>1</sup> La Commission cantonale du marché du travail (CCMT) conseille le service compétent de la Direction de l’économie, de l’énergie et de l’environnement en matière de marché du travail et présente à la commission tripartite de la Confédération ou à la Direction de l’économie, de l’énergie et de l’environnement à l'attention du Conseil-exécutif les propositions de contrats-types de travail de durée déterminée et d'extension du champ d'application des conventions collectives de travail.
 
 <sup>2</sup> Elle accomplit les tâches des commissions tripartites fixées par le droit fédéral dans le champ d'application de la présente loi. Elle peut collaborer avec les commissions tripartites des cantons voisins.
 
@@ -89,7 +89,7 @@ arrête:
 - a …
 - b constituer des comités spéciaux ou permanents pour examiner des cas concernant certaines branches ou certaines régions;
 - c faire appel à des experts et à des expertes;
-- d charger le service compétent de la Direction de l'économie publique de procéder aux éclaircissements nécessaires et à la préparation des décisions.
+- d charger le service compétent de la Direction de l’économie, de l’énergie et de l’environnement de procéder aux éclaircissements nécessaires et à la préparation des décisions.
 
 #### Art. 5
 
@@ -101,7 +101,7 @@ arrête:
 
 <sup>3</sup> Chaque partenaire social est représenté par quatre personnes issues de la partie germanophone du canton et par une personne issue de la partie francophone.
 
-<sup>4</sup> Pour autant que le droit fédéral le permette, les tâches de la CCMT peuvent être déléguées au service compétent de la Direction de l'économie publique par la voie de son règlement.
+<sup>4</sup> Pour autant que le droit fédéral le permette, les tâches de la CCMT peuvent être déléguées au service compétent de la Direction de l’économie, de l’énergie et de l’environnement par la voie de son règlement.
 
 ### 2.3
 
@@ -125,7 +125,7 @@ arrête:
 
 #### Art. 9
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique exerce son activité de lutte contre le travail au noir conformément aux prescriptions fédérales et aux principes suivants:
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement exerce son activité de lutte contre le travail au noir conformément aux prescriptions fédérales et aux principes suivants:
 
 - a information du public de manière ciblée sur les conséquences néfastes du travail au noir,
 - b poursuite et sanction du travail au noir au moyen de contrôles et en communiquant rapidement les cas découverts à tous les services de surveillance, de contrôle et d'exécution compétents en vertu de la loi ou d'une convention collective de travail,
@@ -143,13 +143,13 @@ arrête:
 
 <sup>2</sup> Les données traitées ne peuvent être utilisées, sous réserve de l'article 11, qu'aux fins d'exécution de la présente loi.
 
-<sup>3</sup> Les personnes qui travaillent dans les services chargés par la CCMT ou par le service compétent de la Direction de l'économie publique d'exécuter la présente loi sont tenues au secret à l'égard d'autres autorités et des particuliers.
+<sup>3</sup> Les personnes qui travaillent dans les services chargés par la CCMT ou par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement d'exécuter la présente loi sont tenues au secret à l'égard d'autres autorités et des particuliers.
 
 #### Art. 11
 
 **Communication de données**
 
-<sup>1</sup> Lorsque le service compétent de la Direction de l'économie publique rencontre, lors de l'exécution de la surveillance du travail conformément à la présente loi, des situations qui fondent le soupçon d'une violation d'autres actes législatifs concernant le travail au noir, il peut communiquer les noms de personnes ou d'entreprises aux services de surveillance, de contrôle et d'exécution compétents en vertu de la loi ou d'une convention collective de travail pour qu'ils remplissent leurs tâches.
+<sup>1</sup> Lorsque le service compétent de la Direction de l’économie, de l’énergie et de l’environnement rencontre, lors de l'exécution de la surveillance du travail conformément à la présente loi, des situations qui fondent le soupçon d'une violation d'autres actes législatifs concernant le travail au noir, il peut communiquer les noms de personnes ou d'entreprises aux services de surveillance, de contrôle et d'exécution compétents en vertu de la loi ou d'une convention collective de travail pour qu'ils remplissent leurs tâches.
 
 <sup>2</sup> Ces données peuvent être communiquées aux autorités et organes suivants chargés de l'exécution des dispositions de lutte contre le travail au noir relevant de la loi ou de conventions collectives de travail:
 
@@ -166,7 +166,7 @@ arrête:
 
 #### Art. 12
 
-<sup>1</sup> Le service compétent de la Direction de l’économie publique observe le marché du travail et peut participer à des instances intercantonales d’observation du marché du travail.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement observe le marché du travail et peut participer à des instances intercantonales d’observation du marché du travail.
 
 <sup>2</sup> …
 
@@ -203,7 +203,7 @@ arrête:
 
 **Licenciements et fermetures d’entreprise**
 
-<sup>1</sup> Les déclarations des employeurs concernant les licenciements ainsi que les déclarations concernant les fermetures d'entreprises prescrites par le droit fédéral doivent être remises au service compétent de la Direction de l'économie publique. Celui-ci informe la CCMT.
+<sup>1</sup> Les déclarations des employeurs concernant les licenciements ainsi que les déclarations concernant les fermetures d'entreprises prescrites par le droit fédéral doivent être remises au service compétent de la Direction de l’économie, de l’énergie et de l’environnement. Celui-ci informe la CCMT.
 
 ### 3.2
 
@@ -314,7 +314,7 @@ arrête:
 
 <sup>2</sup> Les frais déterminants pour les mesures cantonales de marché du travail sont régis en principe par la LACI.
 
-<sup>3</sup> Le service compétent de la Direction de l'économie publique peut, sur demande, verser une avance de 50 pour cent au plus des frais totaux devisés ou des paiements partiels dans les limites des coûts établis, aux institutions et personnes chargées de l'étude et de la mise en œuvre de mesures cantonales de marché du travail.
+<sup>3</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut, sur demande, verser une avance de 50 pour cent au plus des frais totaux devisés ou des paiements partiels dans les limites des coûts établis, aux institutions et personnes chargées de l'étude et de la mise en œuvre de mesures cantonales de marché du travail.
 
 <sup>4</sup> Les compétences en matière d’autorisation de dépenses du peuple et du Grand Conseil pour les paiements effectués par le canton en vertu de la présente loi sont déléguées au Conseil-exécutif.
 
@@ -338,13 +338,13 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif est habilité à conclure des contrats avec d'autres cantons, institutions ou organisations et à prendre les engagements de contributions correspondants, pour le service de l'emploi, la surveillance du marché du travail, l'observation et la statistique du marché du travail ainsi que pour les mesures de marché du travail.
 
-<sup>2</sup> Il peut déléguer cette compétence à la Direction de l'économie publique par voie d'ordonnance.
+<sup>2</sup> Il peut déléguer cette compétence à la Direction de l’économie, de l’énergie et de l’environnement par voie d'ordonnance.
 
 #### Art. 33
 
 **Exécution**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique exécute la présente loi, sauf disposition contraire.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement exécute la présente loi, sauf disposition contraire.
 
 #### Art. 34
 
@@ -352,7 +352,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif peut, par voie d'ordonnance, déléguer à des tiers qualifiés des tâches d'exécution de la présente loi et les compétences de décision qui y sont liées.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique peut faire appel à des tiers qualifiés au moyen de contrats de prestations, dans le cadre de l'exécution de la présente loi.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut faire appel à des tiers qualifiés au moyen de contrats de prestations, dans le cadre de l'exécution de la présente loi.
 
 <sup>3</sup> Les prestations de tiers sont en principe rémunérées selon des barèmes fixés à l'avance. L'intérêt propre des tiers à l'exécution des tâches en question est pris équitablement en considération.
 
@@ -360,7 +360,7 @@ arrête:
 
 **Juridiction**
 
-<sup>1</sup> Les décisions du service compétent de la Direction de l’économie publique et de tiers au sens de l’article 34, alinéa 1, rendues en application de la LACI, peuvent, dans les 30 jours à compter de leur notification, faire l’objet d’une opposition auprès de l’autorité qui a rendu la décision.
+<sup>1</sup> Les décisions du service compétent de la Direction de l’économie, de l’énergie et de l’environnement et de tiers au sens de l’article 34, alinéa 1, rendues en application de la LACI, peuvent, dans les 30 jours à compter de leur notification, faire l’objet d’une opposition auprès de l’autorité qui a rendu la décision.
 
 <sup>2</sup> Les décisions rendues sur opposition selon l'alinéa 1 peuvent faire l'objet d'un recours auprès du Tribunal administratif dans les 30 jours à compter de leur notification.
 
@@ -374,9 +374,9 @@ arrête:
 
 **Droits de partie**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique peut exercer les droits de partie dans les procédures pénales qui sont menées en vertu de la législation fédérale mentionnée à l'article 1.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut exercer les droits de partie dans les procédures pénales qui sont menées en vertu de la législation fédérale mentionnée à l'article 1.
 
-<sup>2</sup> Tous les jugements pénaux selon l'alinéa 1 doivent être communiqués au service compétent de la Direction de l'économie publique.
+<sup>2</sup> Tous les jugements pénaux selon l'alinéa 1 doivent être communiqués au service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 ## 7 Disposition transitoire et dispositions finales
 

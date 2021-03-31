@@ -4,13 +4,13 @@ number: "836.11"
 title: Arbeitsmarktgesetz
 short: AMG
 language: de
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-03-12
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 2003-06-23
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/836.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1704/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2179/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1704/pdf_file"
 
 (AMG)
 
-vom 23.06.2003 (Stand 01.01.2020)
+vom 23.06.2003 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -64,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Massnahmen im Sinne dieses Gesetzes sollen nur dann getroffen werden, wenn keine ausreichende und zeitgerechte Regelung durch die Sozialpartner möglich ist.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion fördert wo immer möglich eine Regelung auf dem Wege der Sozialpartnerschaft.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion fördert wo immer möglich eine Regelung auf dem Wege der Sozialpartnerschaft.
 
 <sup>3</sup> Die kollektivvertragliche Regelung der Befugnisse paritätischer Kommissionen wird mit diesem Gesetz nicht eingeschränkt.
 
@@ -74,7 +74,7 @@ beschliesst:
 
 **Kantonale Arbeitsmarktkommission (KAMKO)**
 
-<sup>1</sup> Die Kantonale Arbeitsmarktkommission (KAMKO) berät die zuständige Stelle der Volkswirtschaftsdirektion im Bereich Arbeitsmarkt und stellt der tripartiten Kommission des Bundes oder der Volkswirtschaftsdirektion zuhanden des Regierungsrats Antrag zu befristeten Normalarbeitsverträgen und zur Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen.
+<sup>1</sup> Die Kantonale Arbeitsmarktkommission (KAMKO) berät die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion im Bereich Arbeitsmarkt und stellt der tripartiten Kommission des Bundes oder der Wirtschafts-, Energie- und Umweltdirektion zuhanden des Regierungsrats Antrag zu befristeten Normalarbeitsverträgen und zur Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen.
 
 <sup>2</sup> Sie erfüllt die bundesrechtlich festgelegten Aufgaben der tripartiten Kommissionen im Geltungsbereich dieses Gesetzes. Sie kann mit den tripartiten Kommissionen der Nachbarkantone zusammenarbeiten.
 
@@ -89,7 +89,7 @@ beschliesst:
 - a …
 - b zur Prüfung von Fällen mit Bezug zu Branchen oder Regionen ständige oder besondere Ausschüsse bilden,
 - c Expertinnen und Experten beiziehen,
-- d die zuständige Stelle der Volkswirtschaftsdirektion mit Abklärungen und der Vorbereitung von Entscheiden beauftragen.
+- d die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion mit Abklärungen und der Vorbereitung von Entscheiden beauftragen.
 
 #### Art. 5
 
@@ -101,7 +101,7 @@ beschliesst:
 
 <sup>3</sup> Die Sozialpartner sind mit je vier Personen aus dem deutschsprachigen und mit je einer Person aus dem französischsprachigen Kantonsteil vertreten.
 
-<sup>4</sup> Soweit bundesrechtlich zulässig, können Aufgaben der KAMKO in deren Geschäftsreglement der zuständigen Stelle der Volkswirtschaftsdirektion übertragen werden.
+<sup>4</sup> Soweit bundesrechtlich zulässig, können Aufgaben der KAMKO in deren Geschäftsreglement der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion übertragen werden.
 
 ### 2.3
 
@@ -125,7 +125,7 @@ beschliesst:
 
 #### Art. 9
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion richtet ihre Tätigkeit zur Bekämpfung der Schwarzarbeit nach den Bundesvorschriften und folgenden Grundsätzen:
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion richtet ihre Tätigkeit zur Bekämpfung der Schwarzarbeit nach den Bundesvorschriften und folgenden Grundsätzen:
 
 - a Die Öffentlichkeit soll mit gezielter Information auf die negativen Folgen der Schwarzarbeit hingewiesen werden.
 - b Schwarzarbeit soll mit Kontrollen und rechtzeitiger Information aller nach Gesetz oder Gesamtarbeitsvertrag zuständigen Aufsichts-, Kontroll- und Vollzugsstellen über entdeckte Fälle verfolgt und sanktioniert werden.
@@ -143,17 +143,17 @@ beschliesst:
 
 <sup>2</sup> Die bearbeiteten Daten dürfen unter Vorbehalt von Artikel 11 nur zum Zweck des Vollzugs dieses Gesetzes benutzt werden.
 
-<sup>3</sup> Personen, die in den von der KAMKO und der zuständigen Stelle der Volkswirtschaftsdirektion für die Durchführung dieses Gesetzes beauftragten Stellen tätig sind, haben gegenüber anderen Behörden und Privaten Verschwiegenheit zu bewahren.
+<sup>3</sup> Personen, die in den von der KAMKO und der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion für die Durchführung dieses Gesetzes beauftragten Stellen tätig sind, haben gegenüber anderen Behörden und Privaten Verschwiegenheit zu bewahren.
 
 #### Art. 11
 
 **Datenbekanntgabe**
 
-<sup>1</sup> Stösst die zuständige Stelle der Volkswirtschaftsdirektion beim Vollzug der Arbeitsaufsicht nach diesem Gesetz auf Sachverhalte, welche den Verdacht eines Verstosses gegen andere die Schwarzarbeit betreffende Erlasse begründen, so kann sie den nach Gesetz oder Gesamtarbeitsvertrag zuständigen Aufsichts-, Kontroll- und Vollzugsstellen zur Erfüllung ihrer Aufgaben Personen und Betriebe nennen.
+<sup>1</sup> Stösst die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion beim Vollzug der Arbeitsaufsicht nach diesem Gesetz auf Sachverhalte, welche den Verdacht eines Verstosses gegen andere die Schwarzarbeit betreffende Erlasse begründen, so kann sie den nach Gesetz oder Gesamtarbeitsvertrag zuständigen Aufsichts-, Kontroll- und Vollzugsstellen zur Erfüllung ihrer Aufgaben Personen und Betriebe nennen.
 
 <sup>2</sup> Diese Daten dürfen den folgenden mit der Durchführung gesetzlicher oder gesamtarbeitsvertraglicher Bestimmungen zur Bekämpfung der Schwarzarbeit befassten Behörden und Organen bekannt gegeben werden:
 
-- a den mit der Anwendung des Gesetzes vom 11. Juni 2002 über das öffentliche Beschaffungswesen (ÖBG) [^11-1] betrauten Verwaltungsstellen,
+- a den mit der Anwendung des Gesetzes vom 11. Juni 2002 über das öffentliche Beschaffungswesen (ÖBG)[^11-1] betrauten Verwaltungsstellen,
 - b Asyl- und Ausländerbehörden,
 - c Steuer- und Sozialhilfebehörden,
 - d Organen der Sozialversicherungen,
@@ -166,7 +166,7 @@ beschliesst:
 
 #### Art. 12
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion beobachtet den Arbeitsmarkt und kann sich an interkantonalen Einrichtungen zur Arbeitsmarktbeobachtung beteiligen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion beobachtet den Arbeitsmarkt und kann sich an interkantonalen Einrichtungen zur Arbeitsmarktbeobachtung beteiligen.
 
 <sup>2</sup> …
 
@@ -203,7 +203,7 @@ beschliesst:
 
 **Entlassungen und Betriebsschliessungen**
 
-<sup>1</sup> Bundesrechtlich vorgeschriebene Meldungen der Arbeitgeberinnen und Arbeitgeber über Entlassungen von Arbeitnehmerinnen und Arbeitnehmern sowie Meldungen über Betriebsschliessungen sind bei der zuständigen Stelle der Volkswirtschaftsdirektion einzureichen. Diese orientiert die KAMKO.
+<sup>1</sup> Bundesrechtlich vorgeschriebene Meldungen der Arbeitgeberinnen und Arbeitgeber über Entlassungen von Arbeitnehmerinnen und Arbeitnehmern sowie Meldungen über Betriebsschliessungen sind bei der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion einzureichen. Diese orientiert die KAMKO.
 
 ### 3.2
 
@@ -314,7 +314,7 @@ beschliesst:
 
 <sup>2</sup> Die anrechenbaren Kosten für kantonale arbeitsmarktliche Massnahmen richten sich grundsätzlich nach dem AVIG.
 
-<sup>3</sup> Für kantonale arbeitsmarktliche Massnahmen kann die zuständige Stelle der Volkswirtschaftsdirektion auf Gesuch der mit der Projektierung und Durchführung beauftragten Institutionen und Personen einen Vorschuss von höchstens 50 Prozent der projektierten Gesamtkosten oder Teilzahlungen im Rahmen der ausgewiesenen Kosten ausrichten.
+<sup>3</sup> Für kantonale arbeitsmarktliche Massnahmen kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion auf Gesuch der mit der Projektierung und Durchführung beauftragten Institutionen und Personen einen Vorschuss von höchstens 50 Prozent der projektierten Gesamtkosten oder Teilzahlungen im Rahmen der ausgewiesenen Kosten ausrichten.
 
 <sup>4</sup> Die Ausgabenbefugnisse des Volkes und des Grossen Rates für Zahlungen, die der Kanton gestützt auf dieses Gesetz vornimmt, werden dem Regierungsrat übertragen.
 
@@ -338,13 +338,13 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat ist befugt, für die Arbeitsvermittlung, die Arbeitsmarktaufsicht, die Arbeitsmarktbeobachtung und -statistik sowie für arbeitsmarktliche Massnahmen mit anderen Kantonen, Institutionen oder Organisationen Verträge abzuschliessen und die entsprechenden Beitragsverpflichtungen einzugehen.
 
-<sup>2</sup> Er kann diese Zuständigkeit durch Verordnung der Volkswirtschaftsdirektion übertragen.
+<sup>2</sup> Er kann diese Zuständigkeit durch Verordnung der Wirtschafts-, Energie- und Umweltdirektion übertragen.
 
 #### Art. 33
 
 **Vollzug**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion vollzieht dieses Gesetz, soweit nichts anderes vorgesehen ist.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion vollzieht dieses Gesetz, soweit nichts anderes vorgesehen ist.
 
 #### Art. 34
 
@@ -352,7 +352,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat kann geeigneten Dritten durch Verordnung Vollzugsaufgaben aus diesem Gesetz und die damit allenfalls verbundenen Verfügungskompetenzen übertragen.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann im Rahmen des Vollzugs dieses Gesetzes mittels Leistungsverträgen geeignete Dritte beiziehen.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann im Rahmen des Vollzugs dieses Gesetzes mittels Leistungsverträgen geeignete Dritte beiziehen.
 
 <sup>3</sup> Die Leistungen Dritter werden grundsätzlich nach im Voraus festgelegten Ansätzen abgegolten. Das eigene Interesse der Dritten an der Erfüllung der Aufgabe ist angemessen zu berücksichtigen.
 
@@ -360,7 +360,7 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen in Anwendung des AVIG ergangene Verfügungen der zuständigen Stelle der Volkswirtschaftsdirektion sowie Dritter nach Artikel 34 Absatz 1 kann innert 30 Tagen seit Eröffnung bei der verfügenden Stelle Einsprache erhoben werden.
+<sup>1</sup> Gegen in Anwendung des AVIG ergangene Verfügungen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion sowie Dritter nach Artikel 34 Absatz 1 kann innert 30 Tagen seit Eröffnung bei der verfügenden Stelle Einsprache erhoben werden.
 
 <sup>2</sup> Gegen Einspracheverfügungen nach Absatz 1 kann innert 30 Tagen seit Eröffnung beim Verwaltungsgericht Beschwerde geführt werden.
 
@@ -374,9 +374,9 @@ beschliesst:
 
 **Parteirechte**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann in Strafverfahren, die gestützt auf die in Artikel 1 erwähnte Bundesgesetzgebung durchgeführt werden, Parteirechte ausüben.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann in Strafverfahren, die gestützt auf die in Artikel 1 erwähnte Bundesgesetzgebung durchgeführt werden, Parteirechte ausüben.
 
-<sup>2</sup> Der zuständigen Stelle der Volkswirtschaftsdirektion sind alle Strafurteile nach Absatz 1 mitzuteilen.
+<sup>2</sup> Der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion sind alle Strafurteile nach Absatz 1 mitzuteilen.
 
 ## 7 Übergangs- und Schlussbestimmungen
 
