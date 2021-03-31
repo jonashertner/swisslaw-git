@@ -3,31 +3,31 @@ canton: LU
 number: "950"
 title: Verordnung zum Bundesgesetz über das Messwesen
 language: de
-version: 2021-01-01
-valid_until: 2021-03-31
-version_adopted: 2020-12-09
+version: 2021-04-01
+valid_until: 2024-12-31
+version_adopted: 2021-03-09
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/950"
-pdf: "https://srl.lu.ch/api/de/versions/3691/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3721/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über das Messwesen
 
-vom 11.12.2001 (Stand 01.01.2021)
+vom 11.12.2001 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die Artikel 13 und 14 des Bundesgesetzes über das Messwesen vom 9. Juni 1977[^ingress-1], auf die Artikel 4 und 9 der Verordnung über die Aufgaben und Befugnisse der Kantone im Messwesen vom 15. Februar 2006[^ingress-2] und auf Artikel 6 Absatz 3 der Eichgebührenverordnung vom 23. November 2005[^ingress-3],
+gestützt auf Artikel 17 Absätze 1 und 2 des Bundesgesetzes über das Messwesen vom 17. Juni 2011[^ingress-1], auf Artikel 2 Absätze 1 und 2 der Verordnung über die Zuständigkeiten im Messwesen vom 7. Dezember 2012[^ingress-2] und auf Artikel 6 Absatz 3 der Eichgebührenverordnung vom 23. November 2005[^ingress-3],
 
 auf Antrag des Sicherheitsdepartementes,
 
 beschliesst:
 
 [^ingress-1]: SR [941.20](https://db.clex.ch/link/Bund/941.20/de)
-[^ingress-2]: SR [941.292](https://db.clex.ch/link/Bund/941.292/de)
+[^ingress-2]: SR [941.206](https://db.clex.ch/link/Bund/941.206/de)
 [^ingress-3]: SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de)
 
 ## 1 Organisation
@@ -36,7 +36,7 @@ beschliesst:
 
 **Eichkreise**
 
-<sup>1</sup> Das Kantonsgebiet wird in die vier Eichkreise LU+1, LU+2, LU+3 und LU+4 aufgeteilt.
+<sup>1</sup> Das Kantonsgebiet wird in die drei Eichkreise LU+1, LU+2 und LU+3 aufgeteilt.
 
 <sup>2</sup> Die Gebietsaufteilung ist im Anhang 1 dieser Verordnung festgelegt.
 
@@ -54,9 +54,11 @@ beschliesst:
 
 #### § 3
 
-**Aufsicht**
+**Aufsicht und Eichamt**
 
 <sup>1</sup> Die Luzerner Polizei übt die Aufsicht und die Kontrolle über das Messwesen aus.
+
+<sup>2</sup> Das Eichamt ist der Luzerner Polizei angegliedert.
 
 ## 2
 
@@ -162,28 +164,26 @@ beschliesst:
 
 **Eichkreis LU+1**
 
-<sup>1</sup> Gemeinden Alberswil, Altbüron, Altishofen, Buttisholz, Dagmersellen, Egolzwil, Ettiswil, Fischbach, Grossdietwil, Grosswangen, Hergiswil, Luthern, Mauensee, Menznau, Nebikon, Neuenkirch, Nottwil, Pfaffnau, Reiden, Roggliswil, Ruswil, Schötz, Ufhusen, Wauwil, Wikon, Willisau, Wolhusen und Zell
+<sup>1</sup> Gemeinden Alberswil, Altbüron, Altishofen, Buttisholz, Dagmersellen, Egolzwil, Ettiswil, Fischbach, Grossdietwil, Grosswangen, Hergiswil, Luthern, Mauensee, Menznau, Nebikon, Neuenkirch, Nottwil, Oberkirch, Pfaffnau, Reiden, Roggliswil, Ruswil, Schötz, Sursee, Ufhusen, Wauwil, Wikon, Willisau, Wolhusen und Zell
+
+<sup>2</sup> Eichung der Durchlaufzähler für Lebensmittel im ganzen Kanton
 
 #### § A1-2
 
 **Eichkreis LU+2**
 
-<sup>1</sup> Gemeinden Beromünster, Büron, Eich, Geuensee, Hildisrieden, Knutwil, Oberkirch, Rickenbach, Schenkon, Schlierbach, Sempach, Sursee und Triengen
+<sup>1</sup> Gemeinden Adligenswil, Aesch, Ballwil, Beromünster, Buchrain, Büron, Dierikon, Ebikon, Ermensee, Eschenbach, Geuensee, Gisikon, Greppen, Hitzkirch, Hochdorf, Hohenrain, Honau, Inwil, Knutwil, Luzern (ohne Ortsteil Littau), Meggen, Meierskappel, Rain, Rickenbach, Römerswil, Root, Rothenburg, Schlierbach, Schongau, Triengen, Udligenswil, Vitznau und Weggis
 
-<sup>2</sup> Eichung der Durchlaufzähler für Lebensmittel im ganzen Kanton
+<sup>2</sup> Eichung der Messanlagen für Mineralöle auf Tankfahrzeugen im ganzen Kanton
 
 #### § A1-3
 
 **Eichkreis LU+3**
 
-<sup>1</sup> Gemeinden Doppleschwand, Emmen, Entlebuch, Escholzmatt-Marbach, Flühli, Hasle, Horw, Kriens, Malters, Romoos, Schüpfheim, Schwarzenberg, Werthenstein und Ortsteil Littau der Gemeinde Luzern
+<sup>1</sup> Gemeinden Doppleschwand, Eich, Emmen, Entlebuch, Escholzmatt-Marbach, Flühli, Hasle, Hildisrieden, Horw, Kriens, Malters, Romoos, Schenkon, Schüpfheim, Schwarzenberg, Sempach, Werthenstein und Ortsteil Littau der Gemeinde Luzern
 
 #### § A1-4
 
-**Eichkreis LU+4**
-
-<sup>1</sup> Gemeinden Adligenswil, Aesch, Ballwil, Buchrain, Dierikon, Ebikon, Ermensee, Eschenbach, Gisikon, Greppen, Hitzkirch, Hochdorf, Hohenrain, Honau, Inwil, Luzern (ohne Ortsteil Littau), Meggen, Meierskappel, Rain, Römerswil, Root, Rothenburg, Schongau, Udligenswil, Vitznau und Weggis
-
-<sup>2</sup> Eichung der Messanlagen für Mineralöle auf Tankfahrzeugen im ganzen Kanton
+**…**
 
 G 2001 481
