@@ -3,20 +3,20 @@ canton: BL
 number: "641.11"
 title: Verordnung für den Kindergarten und die Primarschule
 language: de
-version: 2021-01-01
-valid_until: 2021-03-31
-version_adopted: 2020-11-17
+version: 2021-04-01
+valid_until: 2021-07-31
+version_adopted: 2021-03-23
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/641.11"
-pdf: "https://bl.clex.ch/api/de/versions/2790/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2972/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für den Kindergarten und die Primarschule
 
-Vom 13.05.2003 (Stand 01.01.2021)
+Vom 13.05.2003 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -888,6 +888,7 @@ beschliesst:
 - p. Sie erstellt zuhanden der vorgesetzten Instanzen das Budget und die Abrechnung der Schule und führt die Budgetkontrolle.
 - q. Sie leitet das Sekretariat der Schule.
 - r. Sie beantragt dem Schulrat die Ermahnung oder das Aussprechen einer Busse gegenüber den Erziehungsberechtigten.
+- s. Sie gewährleistet die Kooperation der Schule mit dem Schulsozialdienst.
 
 <sup>2</sup> Der Aufgabenkatalog kann nach den Bedürfnissen der Schulen ergänzt werden.
 
