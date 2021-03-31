@@ -4,13 +4,13 @@ number: "910.111"
 title: "Ordonnance sur la production et la commercialisation dans l'agriculture"
 short: OPCA
 language: fr
-version: 2016-01-01
-valid_until: 2021-03-31
-version_adopted: 2015-11-04
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/887/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2192/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/887/pdf_file"
 
 (OPCA)
 
-du 05.11.1997 (état au 01.01.2016)
+du 05.11.1997 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -94,7 +94,7 @@ arrête:
 - d le budget et le plan de financement et
 - e la requête et la signature.
 
-<sup>2</sup> L’OAN harmonise autant que possible la promotion des projets avec d’autres mesures cantonales et consulte l’Office de l’économie bernoise ou l’Office des affaires communales et de l’organisation du territoire, en particulier en cas de projets de coopération touchant plusieurs secteurs ou de grands projets de coopération régionaux.
+<sup>2</sup> L’OAN harmonise autant que possible la promotion des projets avec d’autres mesures cantonales et consulte l’Office de l’économie ou l’Office des affaires communales et de l’organisation du territoire, en particulier en cas de projets de coopération touchant plusieurs secteurs ou de grands projets de coopération régionaux.
 
 <sup>3</sup> …
 
@@ -104,11 +104,11 @@ arrête:
 
 **Contrôle de la production primaire de denrées alimentaires d’origine animale et de l’abattage**
 
-<sup>1</sup> Le contrôle de la production primaire de denrées alimentaires d’origine animale et de l’abattage incombe au Service vétérinaire cantonal.
+<sup>1</sup> Le contrôle de la production primaire de denrées alimentaires d’origine animale et de l’abattage incombe à l'Office des affaires vétérinaires.
 
-<sup>2</sup> Les collaborateurs et collaboratrices du Service vétérinaire cantonal exercent leur fonction en qualité d’organes de la police judiciaire.
+<sup>2</sup> Les collaborateurs et collaboratrices de l'Office des affaires vétérinaires exercent leur fonction en qualité d’organes de la police judiciaire.
 
-<sup>3</sup> Le Service vétérinaire cantonal dénonce les infractions aux dispositions de la législation sur les denrées alimentaires à l’autorité de poursuite pénale. Dans les cas de peu de gravité, il peut renoncer à une dénonciation pénale.
+<sup>3</sup> L'Office des affaires vétérinaires dénonce les infractions aux dispositions de la législation sur les denrées alimentaires à l’autorité de poursuite pénale. Dans les cas de peu de gravité, il peut renoncer à une dénonciation pénale.
 
 <sup>4</sup> Il communique les interdictions de livrer du lait aux acheteurs et acheteuses de lait.
 
@@ -298,7 +298,7 @@ arrête:
 - f les organismes responsables des projets subventionnés en vertu de l’ordonnance fédérale du 4 avril 2001 sur la promotion régionale de la qualité et de la mise en réseau des surfaces de compensation écologique dans l’agriculture (ordonnance sur la qualité écologique, OQE)[^24-1],
 - g les organisations de contrôle,
 - h les préfectures,
-- i le Service juridique de la Direction de l’économie publique.
+- i le Service juridique de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>4</sup> Il dresse une liste de tous les droits d’accès attribués nommément à des personnes internes et externes à l’office.
 
@@ -312,9 +312,9 @@ arrête:
 
 <sup>1</sup> Les décisions de l’OAN en matière de subventions selon les articles 15 et 20 peuvent être contestées par voie d'opposition auprès de celui-ci dans les 30 jours.
 
-<sup>2</sup> Les décisions du Laboratoire cantonal peuvent être contestées dans les 30 jours par voie de recours auprès de la Direction de la santé publique et de la prévoyance sociale.
+<sup>2</sup> Les décisions du Laboratoire cantonal peuvent être contestées dans les 30 jours par voie de recours auprès de la Direction de l'économie, de l'énergie et de l'environnement.
 
-<sup>3</sup> Les décisions et les décisions sur opposition de l’OAN peuvent être contestées dans les 30 jours par voie de recours auprès de la Direction de l’économie publique.
+<sup>3</sup> Les décisions et les décisions sur opposition de l’OAN peuvent être contestées dans les 30 jours par voie de recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>4</sup> La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^25-1].
 

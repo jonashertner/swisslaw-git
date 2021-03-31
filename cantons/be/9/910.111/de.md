@@ -4,13 +4,13 @@ number: "910.111"
 title: Verordnung über Produktion und Vermarktung in der Landwirtschaft
 short: PVLV
 language: de
-version: 2016-01-01
-valid_until: 2021-03-31
-version_adopted: 2015-11-04
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/887/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2192/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/887/pdf_file"
 
 (PVLV)
 
-vom 05.11.1997 (Stand 01.01.2016)
+vom 05.11.1997 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -94,7 +94,7 @@ beschliesst:
 - d das Budget und den Finanzierungsplan,
 - e den Antrag und die Unterschrift.
 
-<sup>2</sup> Das LANAT stimmt die Projektförderung soweit erforderlich auf andere kantonale Massnahmen ab und nimmt insbesondere bei sektorübergreifenden Verbundprojekten und regionalen Grossverbundprojekten Rücksprache mit dem Amt für Berner Wirtschaft oder dem Amt für Gemeinden und Raumordnung.
+<sup>2</sup> Das LANAT stimmt die Projektförderung soweit erforderlich auf andere kantonale Massnahmen ab und nimmt insbesondere bei sektorübergreifenden Verbundprojekten und regionalen Grossverbundprojekten Rücksprache mit dem Amt für Wirtschaft oder dem Amt für Gemeinden und Raumordnung.
 
 <sup>3</sup> …
 
@@ -104,11 +104,11 @@ beschliesst:
 
 **Kontrolle der Primärproduktion von Lebensmitteln tierischer Herkunft und der Schlachtung**
 
-<sup>1</sup> Die Kontrolle der Primärproduktion von Lebensmitteln tierischer Herkunft und der Schlachtung obliegt dem Kantonalen Veterinärdienst.
+<sup>1</sup> Die Kontrolle der Primärproduktion von Lebensmitteln tierischer Herkunft und der Schlachtung obliegt dem Amt für Veterinärwesen.
 
-<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter des Kantonalen Veterinärdienstes üben ihre Funktionen als Organe der gerichtlichen Polizei aus.
+<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter des Amtes für Veterinärwesen üben ihre Funktionen als Organe der gerichtlichen Polizei aus.
 
-<sup>3</sup> Der Kantonale Veterinärdienst zeigt Widerhandlungen gegen Vorschriften des Lebensmittelrechts der Strafverfolgungsbehörde an. In leichten Fällen kann er auf eine Strafanzeige verzichten.
+<sup>3</sup> Das Amt für Veterinärwesen zeigt Widerhandlungen gegen Vorschriften des Lebensmittelrechts der Strafverfolgungsbehörde an. In leichten Fällen kann es auf eine Strafanzeige verzichten.
 
 <sup>4</sup> Er teilt Milchliefersperren den Milchkäuferinnen und Milchkäufern mit.
 
@@ -295,10 +295,10 @@ beschliesst:
 - c die Bienenkommissarinnen und -kommissare,
 - d die Erhebungsstellen der Gemeinden,
 - e die Fondation Rurale Interjurassienne,
-- f die Trägerschaften von Projekten, die nach der eidgenössischen Verordnung vom 4. April 2001 über die regionale Förderung der Qualität und der Vernetzung von ökologischen Ausgleichsflächen in der Landwirtschaft (Öko-Qualitätsverordnung, ÖQV[^24-1]) gefördert werden,
+- f die Trägerschaften von Projekten, die nach der eidgenössischen Verordnung vom 4. April 2001 über die regionale Förderung der Qualität und der Vernetzung von ökologischen Ausgleichsflächen in der Landwirtschaft (Öko-Qualitätsverordnung, ÖQV)[^24-1] gefördert werden,
 - g die Kontrollorganisationen,
 - h die Regierungsstatthalterämter,
-- i die Rechtsabteilung der Volkswirtschaftsdirektion.
+- i die Rechtsabteilung der Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>4</sup> Es führt eine Liste mit den individuell festgelegten Zugriffsberechtigungen sämtlicher interner und externer Personen.
 
@@ -312,11 +312,11 @@ beschliesst:
 
 <sup>1</sup> Gegen Beitragsverfügungen des LANAT nach den Artikeln 15 und 20 kann innert 30 Tagen bei diesem Einsprache erhoben werden.
 
-<sup>2</sup> Verfügungen des Kantonalen Laboratoriums können innert 30 Tagen mit Beschwerde bei der Gesundheits- und Fürsorgedirektion angefochten werden.
+<sup>2</sup> Verfügungen des Kantonalen Laboratoriums können innert 30 Tagen mit Beschwerde bei der Wirtschafts-, Energie- und Umweltdirektion angefochten werden.
 
-<sup>3</sup> Verfügungen und Einspracheverfügungen des LANAT können innert 30 Tagen mit Beschwerde bei der Volkswirtschaftsdirektion angefochten werden.
+<sup>3</sup> Verfügungen und Einspracheverfügungen des LANAT können innert 30 Tagen mit Beschwerde bei der Wirtschafts-, Energie- und Umweltdirektion angefochten werden.
 
-<sup>4</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^25-1]).
+<sup>4</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^25-1].
 
 [^25-1]: BSG 155.21
 
