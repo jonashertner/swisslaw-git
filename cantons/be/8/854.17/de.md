@@ -4,13 +4,12 @@ number: "854.17"
 title: Dekret über die Wohnbau- und Eigentumsförderung
 short: Dekret VI zum Gesetz über die Verbesserung des Wohnungsangebotes
 language: de
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-04-07
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1992-09-10
 in_force: 1993-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/854.17"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/227/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2183/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/227/pdf_file"
 
 (Dekret VI zum Gesetz über die Verbesserung des Wohnungsangebotes)
 
-vom 10.09.1992 (Stand 01.01.2004)
+vom 10.09.1992 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -87,7 +86,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat regelt Einzelheiten durch Verordnung.
 
-<sup>2</sup> Der Vollzug obliegt der zuständigen Stelle der Volkswirtschaftsdirektion.
+<sup>2</sup> Der Vollzug obliegt der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
 #### Art. 7
 

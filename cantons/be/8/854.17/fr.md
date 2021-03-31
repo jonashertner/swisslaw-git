@@ -4,13 +4,12 @@ number: "854.17"
 title: "Décret encourageant la construction et l'accession à la propriété de logements"
 short: "Décret VI relatif à la loi sur l'amélioration de l'offre de logements"
 language: fr
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-04-07
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1992-09-10
 in_force: 1993-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/854.17"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/227/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2183/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/227/pdf_file"
 
 (Décret VI relatif à la loi sur l'amélioration de l'offre de logements)
 
-du 10.09.1992 (état au 01.01.2004)
+du 10.09.1992 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -87,7 +86,7 @@ décrète:
 
 <sup>1</sup> Le Conseil-exécutif règle les détails dans une ordonnance.
 
-<sup>2</sup> L'exécution incombe au service compétent de la Direction de l'économie publique .
+<sup>2</sup> L'exécution incombe au service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 #### Art. 7
 
