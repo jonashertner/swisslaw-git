@@ -4,13 +4,13 @@ number: "941.11"
 title: Verordnung über das Mass- und Gewichtswesen
 short: MGV
 language: de
-version: 2021-01-01
-valid_until: 2021-03-31
-version_adopted: 2020-12-16
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 2000-08-16
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/941.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2105/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2213/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2105/pdf_file"
 
 (MGV)
 
-vom 16.08.2000 (Stand 01.01.2021)
+vom 16.08.2000 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -38,15 +38,15 @@ beschliesst:
 
 **Aufsicht über das kantonale Mass- und Gewichtswesen**
 
-<sup>1</sup> Das kantonale Mass- und Gewichtswesen steht unter der Aufsicht des Amtes für Berner Wirtschaft (beco) .
+<sup>1</sup> Das kantonale Mass- und Gewichtswesen steht unter der Aufsicht des Amts für Wirtschaft (AWI).
 
 #### Art. 2
 
 **Vollzug**
 
-<sup>1</sup> Für den Vollzug sind das beco, die Eichmeisterinnen und Eichmeister sowie deren Assistenzpersonal zuständig.
+<sup>1</sup> Für den Vollzug sind das AWI, die Eichmeisterinnen und Eichmeister sowie deren Assistenzpersonal zuständig.
 
-<sup>2</sup> Das beco schliesst mit den Eichmeisterinnen und Eichmeistern einen Leistungsvertrag ab und regelt die Abgeltung für die Arbeitsaufwendungen, soweit diese nicht durch die Gebühren gemäss der Bundesgesetzgebung über das Messwesen abgedeckt sind.
+<sup>2</sup> Das AWI schliesst mit den Eichmeisterinnen und Eichmeistern einen Leistungsvertrag ab und regelt die Abgeltung für die Arbeitsaufwendungen, soweit diese nicht durch die Gebühren gemäss der Bundesgesetzgebung über das Messwesen abgedeckt sind.
 
 #### Art. 3
 
@@ -66,13 +66,13 @@ beschliesst:
 
 <sup>1</sup> Die Eichmeisterin oder der Eichmeister steht dem Eichamt vor.
 
-<sup>2</sup> Die Eichmeisterin oder der Eichmeister kann Assistenzpersonal mittels privatrechtlichem Vertrag anstellen. Dieser bestimmt insbesondere die Entschädigung des Assistenzpersonals durch die Eichmeisterin oder den Eichmeister sowie die besonderen dem Assistenzpersonal obliegenden Berufspflichten. Die Anstellung bedarf der Genehmigung durch das beco .
+<sup>2</sup> Sie oder er kann Assistenzpersonal mittels privatrechtlichem Vertrag anstellen. Dieser bestimmt insbesondere die Entschädigung des Assistenzpersonals durch die Eichmeisterin oder den Eichmeister sowie die besonderen dem Assistenzpersonal obliegenden Berufspflichten. Die Anstellung bedarf der Genehmigung durch das AWI.
 
 #### Art. 5
 
 **Stellvertretung**
 
-<sup>1</sup> Das beco regelt die Stellvertretung der Eichmeisterinnen und Eichmeister.
+<sup>1</sup> Das AWI regelt die Stellvertretung der Eichmeisterinnen und Eichmeister.
 
 <sup>2–3</sup> …
 
@@ -94,17 +94,17 @@ beschliesst:
 
 <sup>1</sup> Die Strafverfolgung wegen Widerhandlungen gegen die Bestimmungen der eidgenössischen und kantonalen Mass- und Gewichtsordnung obliegt den ordentlichen Strafverfolgungsbehörden.
 
-<sup>2</sup> Die Eichmeisterinnen und Eichmeister sowie deren Assistenzpersonal haben Widerhandlungen dem beco zu melden. Dieses reicht gegen Fehlbare bei der zuständigen Staatsanwaltschaft Strafanzeige ein.
+<sup>2</sup> Die Eichmeisterinnen und Eichmeister sowie deren Assistenzpersonal haben Widerhandlungen dem AWI zu melden. Dieses reicht gegen Fehlbare bei der zuständigen Staatsanwaltschaft Strafanzeige ein.
 
 ## 4 Rechtspflege
 
 #### Art. 9
 
-<sup>1</sup> Gegen Verfügungen der Eichmeisterinnen und Eichmeister sowie des beco kann innert 30 Tagen seit der Eröffnung bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen der Eichmeisterinnen und Eichmeister sowie des AWI kann innert 30 Tagen seit der Eröffnung bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
-<sup>2</sup> Das Beschwerdeverfahren richtet sich nach den Vorschriften des Gesetzes über die Verwaltungsrechtspflege[^9-1].
+<sup>2</sup> Das Beschwerdeverfahren richtet sich nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^9-1].
 
-[^9-1]: BSG 155.21
+[^9-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 ## 5 Schlussbestimmungen
 

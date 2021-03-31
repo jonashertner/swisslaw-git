@@ -4,13 +4,13 @@ number: "941.11"
 title: Ordonnance sur les poids et mesures
 short: OPM
 language: fr
-version: 2021-01-01
-valid_until: 2021-03-31
-version_adopted: 2020-12-16
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 2000-08-16
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/941.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2105/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2213/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2105/pdf_file"
 
 (OPM)
 
-du 16.08.2000 (état au 01.01.2021)
+du 16.08.2000 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -36,15 +36,15 @@ arrête:
 
 **Surveillance des poids et mesures du canton**
 
-<sup>1</sup> Les poids et mesures du canton sont placés sous la surveillance de l'Office de l'économie bernoise (beco).
+<sup>1</sup> Les poids et mesures du canton sont placés sous la surveillance de l'Office de l’économie (OEC).
 
 #### Art. 2
 
 **Exécution**
 
-<sup>1</sup> La responsabilité de l’exécution incombe au beco, aux vérificateurs et vérificatrices ainsi qu’à leur personnel assistant.
+<sup>1</sup> La responsabilité de l’exécution incombe à l'OEC, aux vérificateurs et vérificatrices ainsi qu’à leur personnel assistant.
 
-<sup>2</sup> Le beco conclut un contrat de prestations avec les vérificateurs et les vérificatrices et règle l’indemnisation de leurs travaux, pour autant que ceux-ci ne soient pas couverts par les émoluments et prévus dans la législation fédérale sur la métrologie.
+<sup>2</sup> L'OEC conclut un contrat de prestations avec les vérificateurs et les vérificatrices et règle l’indemnisation de leurs travaux, pour autant que ceux-ci ne soient pas couverts par les émoluments et prévus dans la législation fédérale sur la métrologie.
 
 #### Art. 3
 
@@ -64,13 +64,13 @@ arrête:
 
 <sup>1</sup> Le vérificateur ou la vérificatrice dirige l'office de vérification.
 
-<sup>2</sup> Il ou elle peut engager du personnel assistant par un contrat de droit privé. Celui-ci détermine en particulier la rémunération du personnel assistant, versée par le vérificateur ou la vérificatrice, ainsi que les obligations professionnelles spéciales lui incombant. L'engagement doit être approuvé par le beco.
+<sup>2</sup> Il ou elle peut engager du personnel assistant par un contrat de droit privé. Celui-ci détermine en particulier la rémunération du personnel assistant, versée par le vérificateur ou la vérificatrice, ainsi que les obligations professionnelles spéciales lui incombant. L'engagement doit être approuvé par l'OEC.
 
 #### Art. 5
 
 **Suppléance**
 
-<sup>1</sup> Le beco règle la suppléance des vérificateurs et des vérificatrices.
+<sup>1</sup> L'OEC règle la suppléance des vérificateurs et des vérificatrices.
 
 <sup>2–3</sup> …
 
@@ -92,15 +92,17 @@ arrête:
 
 <sup>1</sup> La poursuite pénale pour infraction aux dispositions des règles cantonales et fédérales sur les poids et mesures incombe aux autorités de poursuite pénale ordinaires.
 
-<sup>2</sup> Les vérificateurs et vérificatrices ainsi que leur personnel assistant sont tenus de signaler toute infraction au beco. Ce dernier dépose une plainte pénale contre les personnes fautives auprès du ministère public compétent.
+<sup>2</sup> Les vérificateurs et vérificatrices ainsi que leur personnel assistant sont tenus de signaler toute infraction à l'OEC. Ce dernier dépose une plainte pénale contre les personnes fautives auprès du ministère public compétent.
 
 ## 4 Voies de droit
 
 #### Art. 9
 
-<sup>1</sup> Les décisions prononcées par les vérificateurs et les vérificatrices ainsi que par le beco peuvent faire l'objet, dans les 30 jours à compter de leur notification, d'un recours adressé à la Direction de l'économie publique.
+<sup>1</sup> Les décisions prononcées par les vérificateurs et les vérificatrices ainsi que par l'OEC peuvent faire l'objet, dans les 30 jours à compter de leur notification, d'un recours adressé à la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> La procédure de recours est régie par la loi sur la procédure et la juridiction administratives.
+<sup>2</sup> La procédure de recours est régie par la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^9-1].
+
+[^9-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 ## 5 Dispositions finales
 
