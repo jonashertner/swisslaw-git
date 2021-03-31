@@ -4,13 +4,12 @@ number: "555.1"
 title: "Loi sur le repos pendant les jours fériés officiels *"
 short: LRep
 language: fr
-version: 2019-06-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-21
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1996-12-01
 in_force: 1997-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/555.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1654/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2234/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1654/pdf_file"
 
 (LRep)
 
-du 01.12.1996 (état au 01.06.2019)
+du 01.12.1996 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -101,7 +100,7 @@ arrête:
 
 **Surveillance**
 
-<sup>1</sup> L’exécution de la présente loi ressortit aux communes. Il incombe à la Direction de la police et des affaires militaires de surveiller le respect des présentes dispositions.
+<sup>1</sup> L’exécution de la présente loi ressortit aux communes. Il incombe à la Direction de la sécurité de surveiller le respect des présentes dispositions.
 
 #### Art. 9
 

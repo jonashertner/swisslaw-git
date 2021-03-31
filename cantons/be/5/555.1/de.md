@@ -4,13 +4,12 @@ number: "555.1"
 title: Gesetz über die Ruhe an öffentlichen Feiertagen
 short: FRG
 language: de
-version: 2019-06-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-21
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1996-12-01
 in_force: 1997-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/555.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1654/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2234/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1654/pdf_file"
 
 (FRG)
 
-vom 01.12.1996 (Stand 01.06.2019)
+vom 01.12.1996 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -101,7 +100,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Der Vollzug dieses Gesetzes ist Sache der Gemeinden. Die Aufsicht über die Einhaltung der Vorschriften ist der Polizei- und Militärdirektion übertragen.
+<sup>1</sup> Der Vollzug dieses Gesetzes ist Sache der Gemeinden. Die Aufsicht über die Einhaltung der Vorschriften ist der Sicherheitsdirektion übertragen.
 
 #### Art. 9
 
