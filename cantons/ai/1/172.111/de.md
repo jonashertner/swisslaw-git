@@ -4,13 +4,13 @@ number: "172.111"
 title: "Standeskommissionsbeschluss über die Departemente, Amtsstellen und Kommissionen"
 short: StKB Dep
 language: de
-version: 2018-01-01
-corrected: 2018-12-27
-version_adopted: 2017-12-05
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2020-09-01
 adopted: 2001-04-03
 in_force: 2001-04-03
 url: "https://ai.clex.ch/app/de/texts_of_law/172.111"
-pdf: "https://ai.clex.ch/api/de/versions/1138/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1915/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1138/pdf_file"
 
 (StKB Dep)
 
-vom 03.04.2001 (Stand 01.01.2018)
+vom 03.04.2001 (Stand 01.04.2021)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -62,12 +62,13 @@ beschliesst:
 
 - a) Nomenklaturkommission
 - b) Fachkommission Heimatschutz
-- c) Kontaktgremium Umwelt- und Gewässerschutz
+- c) …
 - d) Jagdkommission
 - e) Jagdprüfungskommission
 - f) Wildschadenkommission
 - g) Hegekommission
 - h) Fischereiprüfungskommission
+- i) Fischereikommission
 
 <sup>3</sup> Weitere Aufgaben:
 
@@ -81,7 +82,7 @@ beschliesst:
 <sup>1</sup> Erziehungsdepartement
 
 - a) Departementssekretariat
-- b) Schulamt
+- b) Volksschulamt
 - c) Amt für Pädagogisch-therapeutische Dienste
 - d) Amt für Mittel- und Hochschulen
 - e) Amt für Berufsbildung und Berufsberatung
@@ -108,7 +109,7 @@ beschliesst:
 
 <sup>4</sup> Administrativ zugewiesen:
 
-- a) Museum Appenzell
+- a) …
 
 #### Art. 4
 
@@ -135,6 +136,10 @@ beschliesst:
 
 - a) Geschäftsleitung Versicherungskasse Appenzell Innerrhoden
 
+<sup>4</sup> Verbindungsdepartement für:
+
+- a) Appenzeller Kantonalbank
+
 #### Art. 5
 
 **Gesundheits- und Sozialdepartement**
@@ -146,30 +151,32 @@ beschliesst:
 - c) Interkantonales Labor (extern)
 - d) Kantonsarzt
 - e) Sozialamt
-- f) Kindes- und Erwachsenenschutzbehörde
+- f) Sekretariat Kindes- und Erwachsenenschutz
 
 <sup>2</sup> Kommissionen:
 
 - a) Aufsichtsbehörde der Ausgleichskasse
 - b) Asylkommission
-- c) Bürgerheimkommission
+- c) …
 - d) Heimkommission Torfnest
-- e) Spitalrat
+- e) Verwaltungsrat des Gesundheitszentrums Appenzell
 - f) Kommission für Gesundheitsförderung
 
 <sup>3</sup> Weitere Aufgaben:
 
-- a) Verbindungsstelle IVSE
-- b) Koordinationsstelle gemäss AHVG
+- a) Verbindungsstelle Interkantonale Vereinbarung für soziale Einrichtungen (IVSE)
+- b) Koordinationsstelle gemäss AHV-Gesetz
+- c) Kontrollstelle Krankenversicherungsgesetz
 
 <sup>4</sup> Administrativ zugeordnet:
 
-- a) Spital und Pflegeheim
+- a) Gesundheitszentrum Appenzell
+- b) Kindes- und Erwachsenenschutzbehörde
 
 <sup>5</sup> Verbindungsdepartement für:
 
 - a) Ausgleichskassen
-- b) Lungenliga Appenzell I.Rh.
+- b) …
 
 #### Art. 6
 
@@ -182,12 +189,12 @@ beschliesst:
 - c) Kantonspolizei
 - d) Verwaltungspolizei
 - e) Amt für Ausländerfragen
-- f) Kreiskommando
+- f) Amt für Militär
 - g) Zivilstandsamt
-- h) Amt für Zivilschutz
-- i) Eichamt
+- h) Amt für Bevölkerungsschutz
+- i) …
 - j) Gerichtskanzlei
-- k) Jugendanwaltschaft
+- k) …
 - l) Staatsanwaltschaft
 
 <sup>2</sup> Kommissionen:
@@ -208,6 +215,8 @@ beschliesst:
 
 - a) Feuerschutzwesen
 - b) Anlauf- und Abklärungsstelle für Einbürgerungen
+- c) Jugendanwaltschaft
+- d) Eichwesen
 
 #### Art. 7
 
@@ -216,9 +225,9 @@ beschliesst:
 <sup>1</sup> Amtsstellen:
 
 - a) Departementssekretariat
-- b) Landeshauptmannamt
+- b) …
 - c) Landwirtschaftsamt
-- d) Vermessungsamt
+- d) Amt für Geoinformation
 - e) Oberforstamt
 - f) Meliorationsamt
 - g) Veterinäramt (extern)
@@ -230,12 +239,13 @@ beschliesst:
 - c) Landwirtschaftskommission
 - d) Kommission für Hilfen und Beiträge
 - e) Fondskommission für die Unterstützung der Wasserversorgungen
+- f) Ökokommission
 
 <sup>3</sup> Weitere Aufgaben:
 
 - a) Landwasserversorgung
 - b) Wildkirchli-Stiftung
-- c) Naturschutz
+- c) …
 - d) Bieneninspektorat
 - e) Sanierung der Wohnverhältnisse im Berggebiet
 
@@ -252,8 +262,8 @@ beschliesst:
 - e) Amt für öffentlichen Verkehr
 - f) Arbeitsamt
 - g) Betreibungs- und Konkursamt
-- h) Erbschaftsamt
-- i) Grundbuchamt
+- h) Grundbuch- und Erbschaftsamt
+- i)
 
 <sup>2</sup> Kommissionen:
 
@@ -263,6 +273,7 @@ beschliesst:
 - d) Schlichtungsstelle Gleichstellung von Frau und Mann
 - e) Tripartite Kommission
 - f) Erbschaftsbehörden
+- g) Lenkungsgruppe Neue Regionalpolitik
 
 #### Art. 9
 
@@ -272,7 +283,7 @@ beschliesst:
 
 - a) Sekretariat
 - b) Rechtsdienst
-- c) Weibeldienst und Materialzentrale
+- c) Weibel- und Supportdienst
 - d) Kommunikationsstelle
 - e) Landesarchiv
 - f) Kantonsbibliothek
@@ -281,7 +292,7 @@ beschliesst:
 
 - a) Schlichtungsstelle für Mietverhältnisse
 - b) Stiftungsrat "Landammann Dr. Albert Broger"
-- c) Stiftungsrat "Pro Innerrhoden"
+- c) Stiftungsrat "Pro Innerrhoden" mit Museum Appenzell
 
 #### Art. 10
 
