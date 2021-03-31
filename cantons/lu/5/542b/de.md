@@ -1,22 +1,22 @@
 ---
 canton: LU
 number: 542b
-title: Studien- und Prüfungsordnung des Religionspädagogischen Instituts Luzern der Fakultät I für Römisch-katholische Theologie der Universität Luzern
+title: Studien- und Prüfungsordnung des Religionspädagogischen Instituts der Theologischen Fakultät der Universität Luzern
 language: de
-version: 2013-08-01
-valid_until: 2021-03-31
-version_adopted: 2013-06-26
+version: 2021-04-01
+valid_until: 2022-07-31
+version_adopted: 2021-03-24
 adopted: 2009-04-29
 in_force: 2009-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/542b"
-pdf: "https://srl.lu.ch/api/de/versions/2162/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3733/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Studien- und Prüfungsordnung des Religionspädagogischen Instituts Luzern der Fakultät I für Römisch-katholische Theologie der Universität Luzern
+# Studien- und Prüfungsordnung des Religionspädagogischen Instituts der Theologischen Fakultät der Universität Luzern
 
-vom 29.04.2009 (Stand 01.08.2013)
+vom 29.04.2009 (Stand 01.04.2021)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,7 +34,7 @@ beschliesst:
 
 **Ausbildungsziel**
 
-<sup>1</sup> Das Religionspädagogische Institut Luzern (im folgenden Text RPI genannt) bildet Religionspädagoginnen und Religionspädagogen für den schulischen Religionsunterricht, die Gemeindekatechese und die kirchliche Jugendarbeit aus. Es vermittelt die dazu notwendigen theologischen und pädagogischen Fachkenntnisse, die sozialwissenschaftlichen Grundlagen und die didaktisch-methodischen Fähigkeiten.
+<sup>1</sup> Das Religionspädagogische Institut (im folgenden Text RPI genannt) bildet Religionspädagoginnen und Religionspädagogen für den Religionsunterricht, die Katechese und die Kirchliche Jugendarbeit aus. Es vermittelt die dazu notwendigen theologischen und pädagogischen Fachkenntnisse, die sozialwissenschaftlichen Grundlagen und die didaktisch-methodischen Fähigkeiten.
 
 #### § 2
 
@@ -44,8 +44,8 @@ beschliesst:
 
 - a. das Bachelorstudium in Religionspädagogik, welches sich an der Studien- und Prüfungsordnung BA Religionspädagogik vom 29. Juni 2011[^2-1] orientiert,
 - b. das Diplomstudium in Religionspädagogik,
-- c. das Zertifikatsstudium für den schulischen Religionsunterricht,
-- d. das Zertifikatsstudium für Gemeindekatechese,
+- c. das Zertifikatsstudium für den Religionsunterricht,
+- d. das Zertifikatsstudium für Katechese,
 - e. das Zertifikatsstudium für Kirchliche Jugendarbeit,
 - f. Angebote zur religionspädagogischen Weiterbildung.
 
@@ -57,14 +57,14 @@ beschliesst:
 
 <sup>1</sup> Das Diplomstudium und die Zertifikatsstudien in Religionspädagogik bestehen aus
 
-- a. dem Vorkurs,
+- a. der Einführungswoche,
 - b. dem Grundstudium,
 - c. dem Aufbaustudium,
 - d. den obligatorischen Intensivwochen und Intensivtagen.
 
 <sup>2</sup> Das Aufbaustudium ist modular und kompetenzorientiert organisiert. Ziele und Struktur der modularisierten Ausbildung sind im Ausbildungskonzept festgehalten.
 
-<sup>3</sup> Für das Aufbaustudium ist eine parallele religionspädagogische Anstellung (Praxisstelle) erforderlich. Die Tätigkeit muss alle Kompetenzbereiche der angestrebten beruflichen Qualifikation beinhalten. Die Praxisstelle wird durch die Institutsleitung zugewiesen.
+<sup>3</sup> Für das Aufbaustudium ist eine parallele religionspädagogische Anstellung (Praxisstelle) erforderlich. Die Tätigkeit muss alle Kompetenzbereiche der angestrebten beruflichen Qualifikation beinhalten. Die Praxisstelle wird durch die Studienleitung zugewiesen.
 
 <sup>4</sup> Im Aufbaustudium gewährt das RPI Praxisbegleitung und Ausbildungssupervision.
 
@@ -78,6 +78,8 @@ beschliesst:
 
 <sup>3</sup> Abweichungen von der Normalstudiendauer sind möglich.
 
+<sup>4</sup> Das Diplom- bzw. Zertifikatsstudium in Religionspädagogik kann jeweils im Herbstsemester begonnen werden.
+
 #### § 5
 
 **Verliehene Abschlüsse**
@@ -85,8 +87,8 @@ beschliesst:
 <sup>1</sup> Das RPI verleiht die Abschlüsse
 
 - a. Diplom-Religionspädagogin bzw. Diplom-Religionspädagoge,
-- b. Zertifikat Schulischer Religionsunterricht,
-- c. Zertifikat Gemeindekatechese,
+- b. Zertifikat Religionsunterricht,
+- c. Zertifikat Katechese,
 - d. Zertifikat Kirchliche Jugendarbeit.
 
 #### § 6
@@ -95,79 +97,39 @@ beschliesst:
 
 <sup>1</sup> Mobilitäts- und Gaststudierenden steht das Lehrangebot des RPI offen. Ausgeschlossen davon sind praktische Studien, Praxisreflexion und Supervision.
 
-<sup>2</sup> Im Übrigen gelten die Bestimmungen der Fakultät I für Römisch-katholische Theologie der Universität Luzern (Studien- und Prüfungsordnung vom 4. Dezember 2002[^6-1], §§ 20 und 32).
+<sup>2</sup> Im Übrigen gelten die Bestimmungen der Theologischen Fakultät der Universität Luzern (Rahmenstudienordnung vom 24. April 2013[^6-1], §§ 17 und 30).
 
-[^6-1]: SRL Nr. [541a](https://srl.lu.ch/data/541a/de)
+[^6-1]: SRL Nr. [541i](https://srl.lu.ch/data/541i/de)
 
-## 2 Organe
+## 2
 
 #### § 7
 
-**Institutsleitung**
-
-<sup>1</sup> Die Leitung des RPI wird in der Regel durch die Professorin bzw. den Professor für Religionspädagogik der Fakultät I für Römisch-katholische Theologie der Universität Luzern wahrgenommen.
-
-<sup>2</sup> Die Leiterin bzw. der Leiter des RPI
-
-- a. ist für den Studienbetrieb verantwortlich,
-- b. entscheidet auf Antrag der Studienleitung über die Aufnahmen ans RPI.
+**…**
 
 #### § 8
 
-**Studienleitung**
-
-<sup>1</sup> Die Studienleiterin bzw. der Studienleiter
-
-- a. ist für die Organisation des Studienbetriebs verantwortlich,
-- b. unterbreitet der Leiterin bzw. dem Leiter des RPI die Anträge für die Aufnahmen zum Studium,
-- c. entscheidet im Regelungsbereich der vorliegenden Studienordnung und des Ausbildungskonzepts über Anträge der Studierenden.
-
-<sup>2</sup> Sie oder er vertritt die Institutsleiterin oder den Institutsleiter des RPI.
+**…**
 
 #### § 9
 
-**Institutskonferenz**
-
-<sup>1</sup> Die Institutskonferenz
-
-- a. beschliesst die Studien- und Prüfungsordnung sowie das Ausbildungskonzept zuhanden der Fakultätsversammlung der Theologischen Fakultät,
-- b. …
-- c. behandelt Geschäfte auf Antrag ihrer Mitglieder.
+**…**
 
 #### § 10
 
-**Dozierendenkonferenz**
-
-<sup>1</sup> Die Dozierendenkonferenz besteht aus der Institutsleitung, der Studienleitung, den Dozentinnen und Dozenten und den Lehrbeauftragten des Instituts.
-
-<sup>2</sup> Die Dozierendenkonferenz
-
-- a. nimmt die von den Dozierenden vorgelegten Semesternoten zur Kenntnis.
-- b. entscheidet über die Aufnahme ins Aufbaustudium,
-- c. entscheidet bei Problemfällen gemäss § 22 über Weiterführung oder Abbruch des Studiums,
-- d. …
-- e. …
-- f. legt aufgrund der Einzelnoten die Diplomnote fest.
-
-<sup>3</sup> Das rechtliche Gehör wird bei den in Absatz 2b und 2c beschriebenen Fällen den betroffenen Studierenden gewährleistet.
+**…**
 
 #### § 11
 
-**Dozierende und Lehrbeauftragte**
-
-<sup>1</sup> Die Dozierenden und Lehrbeauftragten beurteilen die Studienleistungen, die im Rahmen ihres Lehrangebotes erbracht werden.
+**…**
 
 #### § 12
 
-**Praxisbetreuerinnen und Praxisbetreuer**
-
-<sup>1</sup> Praxisbetreuerinnen und Praxisbetreuer beurteilen die Praxisleistung der Studierenden.
+**…**
 
 #### § 13
 
-**Beisitzerinnen und Beisitzer**
-
-<sup>1</sup> Benotete mündliche Prüfungen finden im Beisein einer Beisitzerin oder eines Beisitzers statt.
+**…**
 
 ## 3 Zulassungs- und Studienvoraussetzungen
 
@@ -178,15 +140,15 @@ beschliesst:
 <sup>1</sup> Voraussetzungen für die Zulassung zum Studium sind:
 
 - a. ein Mindestalter von 19 Jahren,
-- b. Sekundarschulausbildung und Lehrabschlussprüfung mit mindestens einem Jahr Berufspraxis oder eine abgeschlossene höhere Bildung,
-- c. das Bestehen des Aufnahmeverfahrens, in welchem die Sozial- und die Selbstkompetenz und die Studienmotivation abgeklärt werden,
+- b. Matura, Berufsmatura oder Sekundarschulausbildung und Lehrabschlussprüfung mit mindestens einem Jahr Berufspraxis,
+- c. das Bestehen des Aufnahmeverfahrens, in welchem die Überfachlichen Kompetenzen und die Studierfähigkeit abgeklärt werden (Details regelt das Ausbildungskonzept),
 - d. angemessene Kenntnisse der deutschen Sprache in Wort und Schrift.
 
 <sup>2</sup> Voraussetzungen für die Zulassung zum Aufbaustudium sind:
 
-- a. ein abgeschlossenes Grundstudium am RPI Luzern oder
-- b. äquivalente Leistungen an anderen Institutionen,
-- c. genügende Selbst- und Sozialkompetenz sowie die berufliche Eignung.
+- a. ein abgeschlossenes Grundstudium am RPI oder äquivalente Leistungen an anderen Institutionen,
+- b. berufliche Eignung entsprechend der Überfachlichen Kompetenz sowie
+- c. kein Eintrag im eidgenössischen Zentralstrafregister- und Sonderprivatauszug als Voraussetzung für die Vergabe einer Praxisstelle im Aufbaustudium.
 
 ## 4 Leistungsnachweise und Prüfungen
 
@@ -249,21 +211,21 @@ beschliesst:
 
 #### § 19
 
-**Bestehen, Nichtbestehen, Wiederholen von Prüfungen und schriftlichen Arbeiten**
+**Bestehen, Nichtbestehen, Wiederholen von Leistungsnachweisen, Prüfungen und schriftlichen Arbeiten**
 
 <sup>1</sup> Zum Bestehen einer benoteten Prüfung oder einer schriftlichen Arbeit muss mindestens die Note 4 erreicht werden.
 
-<sup>2</sup> Bei Nichtbestehen kann eine Prüfung oder schriftliche Arbeit einmal wiederholt werden. Bei erneutem Nichtbestehen ist die Prüfung oder die schriftliche Arbeit endgültig nicht bestanden.
+<sup>2</sup> Bei Nichtbestehen kann jede einzelne Prüfung, jeder Leistungsnachweis bzw. jede schriftliche Arbeit einmal wiederholt werden. Bei erneutem Nichtbestehen ist die Prüfung oder die schriftliche Arbeit endgültig nicht bestanden.
 
-<sup>3</sup> Bei endgültigem Nichtbestehen einer Prüfung oder einer schriftlichen Arbeit kann das entsprechende Fach oder Modul einmal wiederholt werden. Die Prüfung oder die schriftliche Arbeit kann bei erneutem Misserfolg nicht mehr wiederholt werden.
+<sup>3</sup> Bei endgültigem Nichtbestehen einer Prüfung oder einer schriftlichen Arbeit kann das entsprechende Fach oder Modul einmal wiederholt werden.
 
 #### § 20
 
-**Beurteilung des Lern-, Arbeits- und Sozialverhaltens**
+**Beurteilung der Überfachlichen Kompetenzen**
 
-<sup>1</sup> Verschlechtert sich während des Semesters das Lern-, das Arbeits- oder das Sozialverhalten erheblich, sind die Dozierenden verpflichtet, den betreffenden Studierenden entsprechende Rückmeldungen zu geben.
+<sup>1</sup> Verschlechtert sich während des Semesters eine Studentin bzw. ein Student im Bereich der Überfachlichen Kompetenzen erheblich, sind die Dozierenden verpflichtet, den betreffenden Studierenden entsprechende Rückmeldungen zu geben.
 
-<sup>2</sup> Die Dozierendenkonferenz beurteilt das Lern-, das Arbeits- und das Sozialverhalten der Studierenden. Hat sie Bedenken bezüglich der Eignung für den künftigen Beruf, ist dies den betreffenden Studierenden rechtzeitig mitzuteilen.
+<sup>2</sup> Die Dozierendenkonferenz beurteilt die Überfachlichen Kompetenzen der Studierenden. Hat sie Bedenken bezüglich der Eignung für den künftigen Beruf, ist dies den betreffenden Studierenden rechtzeitig mitzuteilen.
 
 #### § 21
 
@@ -280,7 +242,7 @@ beschliesst:
 <sup>1</sup> Von der Weiterführung des Studiums wird ausgeschlossen:
 
 - a. wer das Grundstudium nicht bestanden hat,
-- b. wer im Lern-, im Arbeits- oder im Sozialverhalten als ungenügend und nicht genügend entwicklungsfähig beurteilt wird,
+- b. wer im Bereich der Überfachlichen Kompetenzen als ungenügend und nicht genügend entwicklungsfähig beurteilt wird,
 - c. wessen berufspraktische Eignung aufgrund der Praxisberichte als ungenügend eingestuft wird.
 
 ## 6 Diplomierung
@@ -320,14 +282,14 @@ beschliesst:
 <sup>2</sup> Die Dozierendenkonferenz entscheidet über die Diplomierung aufgrund
 
 - a. der benoteten Fächer und Arbeiten des Grundstudiums und des Aufbaustudiums,
-- b. der Praxisbeurteilungen aus den gewählten Kompetenzbereichen (Schulischer Religionsunterricht, Gemeindekatechese, Kirchliche Jugendarbeit),
+- b. der Praxisbeurteilungen aus den gewählten Kompetenzbereichen (Religionsunterricht, Katechese, Kirchliche Jugendarbeit),
 - c. der Diplomprüfung.
 
 #### § 26
 
 **Diplomzeugnis**
 
-<sup>1</sup> Das Diplomzeugnis bestätigt die Diplomierung. Es wird von der Dekanin oder dem Dekan der Fakultät I sowie von der Leiterin oder dem Leiter des Instituts mitunterzeichnet.
+<sup>1</sup> Das Diplomzeugnis bestätigt die Diplomierung. Es wird von der Dekanin oder dem Dekan der Theologischen Fakultät sowie von der Leiterin oder dem Leiter des Instituts mitunterzeichnet.
 
 <sup>2</sup> Das Diplomzeugnis enthält
 
