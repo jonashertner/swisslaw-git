@@ -3,18 +3,18 @@ sr: "812.214.11"
 title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 9 novembre 2001 concernant l'édiction de la pharmacopée et la reconnaissance d'autres pharmacopées"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/443"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-443-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2001-443-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’Institut suisse des produits thérapeutiques concernant l’édiction de la pharmacopée et la reconnaissance d’autres pharmacopées****
+# Ordonnance de l’Institut suisse des produits thérapeutiques concernant l’édiction de la pharmacopée et la reconnaissance d’autres pharmacopées
 
-du 9 novembre 2001 (Etat le 1<sup>er</sup> janvier 2021)[^t-1]
+du 9 novembre 2001 (Etat le 1<sup>er</sup> avril 2021)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 7 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 5053](https://fedlex.data.admin.ch/eli/oc/2012/589)).
 
@@ -35,12 +35,13 @@ arrête:
 
 Sont reconnus au titre de pharmacopée:
 
-- a. la *Pharmacopoea Europaea,* 10<sup>e</sup> édition[^1-2] (Ph. Eur. 10) de novembre 2018, le supplément 10.1 à la *Pharmacopoea Europaea* de mars 2019, le supplément 10.2 à la *Pharmacopoea Europaea* de juin 2019 et le supplément 10.3 à la *Pharmacopoea Europaea* de novembre 2019;
-- b. la *Pharmacopoea Helvetica,* 11<sup>e</sup> édition[^1-3] (Ph. Helv. 11) de mars 2012, le supplément 11.1 à la *Pharmacopoea Helvetica* de juin 2013, le supplément 11.2 à la *Pharmacopoea Helvetica* de mai 2015 et le supplément 11.3 à la *Pharmacopoea Helvetica* de mai 2019.
+- a. la *Pharmacopoea Europaea,* 10<sup>e</sup> édition[^1-2] (Ph. Eur. 10) de novembre 2018, le supplément 10.1 à la *Pharmacopoea Europaea* de mars 2019, le supplément 10.2 à la *Pharmacopoea Europaea* de juin 2019, le supplément 10.3 à la *Pharmacopoea Europaea* de novembre 2019, le supplément 10.4 à la *Pharmacopoea Europaea* de mars 2020 et la modification urgente des monographies *Valsartan*, *Losartan potassique*, *Irbésartan*, *Candésartan cilexétil* et *Olmésartan médoxomil* à la *Pharmacopoea Europaea* de février 2021[^1-3];
+- b. la *Pharmacopoea Helvetica,* 11<sup>e</sup> édition[^1-4] (Ph. Helv. 11) de mars 2012, le supplément 11.1 à la *Pharmacopoea Helvetica* de juin 2013, le supplément 11.2 à la *Pharmacopoea Helvetica* de mai 2015 et le supplément 11.3 à la *Pharmacopoea Helvetica* de mai 2019.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3915](https://fedlex.data.admin.ch/eli/oc/2020/728)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 4 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 146](https://fedlex.data.admin.ch/eli/oc/2021/146)).
 [^1-2]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
-[^1-3]: La *Pharmacopoea Helvetica* est publiée par Swissmedic et peut être téléchargée à l’adresse: www.phhelv.ch ou obtenue auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’OEmol-Publ.
+[^1-3]: Le texte intégral de cette modification peut être obtenu auprès de la division Pharmacopée de Swissmedic ou téléchargé à l’adresse www.swissmedic.ch.
+[^1-4]: La *Pharmacopoea Helvetica* est publiée par Swissmedic et peut être téléchargée à l’adresse: www.phhelv.ch ou obtenue auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.publicationsfederales.admin.ch, aux conditions fixées par l’OEmol-Publ.
 
 #### Art. 1a
 
@@ -56,7 +57,7 @@ Les pharmacopées mentionnées en annexe à la présente ordonnance ou les parti
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2002.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 1*a*)
 
@@ -68,7 +69,7 @@ Sont reconnues au titre de pharmacopées ou de portions de pharmacopées spécia
 
 - a. *pour l’Allemagne:* *Homöopathisches Arzneibuch* 2017 (HAB 2017), publication officielle de l’Institut fédéral allemand des médicaments et des dispositifs médicaux (*Bundesinstitut für Arzneimittel und Medizinprodukte*)[^annexu1-lvlu1-1];
 - b. *pour la France:* Pharmacopée Française, 11<sup>e</sup> édition (Ph.F.) dans sa version de juillet 2017, publiée par l’Agence nationale de sécurité du médicament et des produits de santé (ansm), section «Préparations homéopathiques»[^annexu1-lvlu1-2];
-- c. *pour le Royaume-Uni:* *British Homoeopathic Pharmacopoeia* 1999 (B.Hom.P), publiée par la *British Association of Homoeopathic Manufa**c**turers* (BAHM) et produite par l’*Association’s Scientific Committee*; règle de fabrication Br. 11[^annexu1-lvlu1-3].
+- c. *pour le Royaume-Uni:* *British Homoeopathic Pharmacopoeia* 1999 (B.Hom.P), publiée par la *British Association of Homoeopathic Manufacturers* (BAHM) et produite par l’*Association’s Scientific Committee*; règle de fabrication Br. 11[^annexu1-lvlu1-3].
 
 [^annexu1-lvlu1-1]: Cette pharmacopée peut être obtenue auprès de *Deutscher Apotheker Verlag Stut*tgart à l’adresse www.dav-buchhandlung.de ou de Govi-Verlag - *Pharmazeutischer Verlag* GmbH Eschborn à l’adresse www.govi.de.
 [^annexu1-lvlu1-2]: Cette pharmacopée peut être téléchargée gratuitement sur le site Internet de l’ansm à l’adresse http://ansm.sante.fr/Mediatheque/Publications/Pharmacopee-francaise-Plan-Preambule-index.
