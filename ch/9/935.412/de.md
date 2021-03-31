@@ -4,11 +4,11 @@ title: Verordnung vom 12. August 2015 über das Datenbearbeitungssystem private 
 short: VDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/530"
 language: de
-version: 2015-09-01
+version: 2021-04-01
 adopted: 2015-08-12
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20150901/de/xml/fedlex-data-admin-ch-eli-cc-2015-530-20150901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20150901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2015-530-20210401-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20150901/de"
 
 (VDPS)
 
-vom 12. August 2015 (Stand am 1. September 2015)
+vom 12. August 2015 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -110,13 +110,18 @@ Im DPS können alle Dokumente zu elektronisch gespeicherten Geschäften erfasst 
 
 **Datensicherheit**
 
-<sup>1</sup> Die Daten- und Informatiksicherheit richtet sich nach der Verordnung vom 14. Juni 1993[^9-1] zum Bundesgesetz über den Datenschutz, der Bundesinformatikverordnung vom 9. Dezember 2011[^9-2] und den Weisungen des Bundesrates vom 14. August 2013[^9-3] über die IKT-Sicherheit in der Bundesverwaltung.
+<sup>1</sup>
+
+Die Daten- und die Informatiksicherheit richten sich nach:
+
+- a. der Verordnung vom 14. Juni 1993[^9-1] zum Bundesgesetz über den Datenschutz;
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^9-2].[^9-3]
 
 <sup>2</sup> Die PD erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
-[^9-1]: [SR [235.11](http://www.admin.ch/ch/d/sr/c235_11.html)](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^9-2]: [SR [172.010.58](http://www.admin.ch/ch/d/sr/c172_010_58.html)](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^9-3]: [BBl 2013 6713](https://fedlex.data.admin.ch/eli/fga/2013/1224)
+[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^9-3]: Fassung gemäss Anhang Ziff. 36 der V vom 24. Februar 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 10
 

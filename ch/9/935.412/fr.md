@@ -4,11 +4,11 @@ title: Ordonnance du 12 août 2015 sur le système de traitement des données re
 short: OTPSP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/530"
 language: fr
-version: 2015-09-01
+version: 2021-04-01
 adopted: 2015-08-12
 in_force: 2015-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20150901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-530-20150901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20150901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/530/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-530-20210401-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/530/20150901/fr"
 
 (OTPSP)
 
-du 12 août 2015 (Etat le 1<sup>er</sup> septembre 2015)
+du 12 août 2015 (État le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -110,13 +110,18 @@ Tout document relatif aux affaires enregistrées électroniquement peut être en
 
 **Sécurité des données**
 
-<sup>1</sup> La sécurité des données et la sécurité informatique sont régies par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^9-1], par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^9-2] et par les directives du Conseil fédéral du 14 août 2013 concernant la sécurité des TIC dans l’administration fédérale[^9-3].
+<sup>1</sup>
+
+La sécurité des données et la sécurité informatique sont régies par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^9-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^9-2].[^9-3]
 
 <sup>2</sup> La DP édicte un règlement relatif au traitement des données. Celui-ci définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
-[^9-1]: [RS [235.11](http://www.admin.ch/ch/d/sr/c235_11.html)](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^9-2]: [RS [172.010.58](http://www.admin.ch/ch/d/sr/c172_010_58.html)](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^9-3]: [FF 2013 6003](https://fedlex.data.admin.ch/eli/fga/2013/1224)
+[^9-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^9-3]: Nouvelle teneur selon l’annexe ch. 36 de l’O du 24 février 2021, en vigueur depuis le 1<sup>er</sup> avril 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 10
 
@@ -187,7 +192,7 @@ Annexe 3
 
 ## Données relatives au mandant et au destinataire des prestations de sécurité privées
 
-- 1\. Nom ou désignation : personne physique ou morale, organisation internationale, gouvernement, groupe, etc.
+- 1\. Nom ou désignation: personne physique ou morale, organisation internationale, gouvernement, groupe, etc.
 - 2\. Pour les personnes physiques: date de naissance
 - 3\. Lieu d’exécution de l’activité envisagée
 - 4\. Indications sur le poste: fonction, rôle, rang, position, etc.
