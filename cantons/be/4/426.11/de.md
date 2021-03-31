@@ -4,20 +4,20 @@ number: "426.11"
 title: Naturschutzgesetz
 short: NSchG
 language: de
-version: 2013-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-11-23
+version: 2021-04-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-17
 adopted: 1992-09-15
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/321/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2165/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Naturschutzgesetz
 
-vom 15.09.1992 (Stand 01.01.2013)
+vom 15.09.1992 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -131,7 +131,7 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden können Inventare über schutzwürdige Gebiete und Objekte von lokaler Bedeutung erstellen und führen.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion genehmigt die kantonalen Inventare, der Gemeinderat die Gemeindeinventare.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion genehmigt die kantonalen Inventare, der Gemeinderat die Gemeindeinventare.
 
 #### Art. 10
 
@@ -149,7 +149,7 @@ beschliesst:
 
 <sup>2</sup> Die Vorschriften und die ergänzenden vertraglichen Regelungen über Naturschutzgebiete und Naturschutzobjekte können für bestimmte Stoffe Ausnahmen vorsehen.
 
-<sup>3</sup> Die zuständigen Behörden können in Einzelfällen Ausnahmen nach Artikel 7 bewilligen. Über Ausnahmen vom Verwendungsverbot im Wald entscheidet unabhängig von der Einreihung des Objektes die Forstinspektion im Einvernehmen mit der für Naturschutz zuständigen Stelle der Volkswirtschaftsdirektion.
+<sup>3</sup> Die zuständigen Behörden können in Einzelfällen Ausnahmen nach Artikel 7 bewilligen. Über Ausnahmen vom Verwendungsverbot im Wald entscheidet unabhängig von der Einreihung des Objektes das Amt für Wald und Naturgefahren im Einvernehmen mit der für Naturschutz zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
 ### 1.2 Organisation
 
@@ -160,8 +160,8 @@ beschliesst:
 <sup>1</sup> Der Vollzug der Naturschutzgesetzgebung obliegt insbesondere
 
 - a …
-- b der Volkswirtschaftsdirektion,
-- c der zuständigen Stelle dieser Direktion
+- b der Wirtschafts-, Energie- und Umweltdirektion,
+- c der zuständigen Stelle dieser Direktion,
 - d den Gemeinden,
 - e den vom Regierungsrat bezeichneten Organen der Naturschutzaufsicht und
 - f den beauftragten Naturschutzorganisationen im Rahmen ihres Auftrages.
@@ -174,9 +174,9 @@ beschliesst:
 
 #### Art. 14
 
-**2 Volkswirtschaftsdirektion**
+**2 Wirtschafts-, Energie- und Umweltdirektion**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion ist Aufsichtsbehörde auf dem Gebiet des Naturschutzes.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion ist Aufsichtsbehörde auf dem Gebiet des Naturschutzes.
 
 <sup>2</sup> Sie stellt schutzwürdige Gebiete und Objekte von nationaler und regionaler Bedeutung unter Schutz und erlässt die erforderlichen Schutzvorschriften.
 
@@ -191,13 +191,13 @@ beschliesst:
 
 **Kantonale Fachstelle für Naturschutz**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ist die kantonale Fachstelle für Naturschutz.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ist die kantonale Fachstelle für Naturschutz.
 
 <sup>2</sup> Ihr obliegen der Vollzug der Naturschutzvorschriften sowie die Koordination der Massnahmen, soweit die Gesetzgebung nichts anderes bestimmt oder der Regierungsrat keine besondere Regelung trifft.
 
-<sup>3</sup> Die zuständige Stelle der Volkswirtschaftsdirektion
+<sup>3</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion
 
-- a bereitet die Unterschutzstellungen durch die Volkswirtschaftsdirektion vor;
+- a bereitet die Unterschutzstellungen durch die Wirtschafts-, Energie- und Umweltdirektion vor;
 - b erlässt die erforderlichen Verfügungen;
 - c erteilt Ausnahmebewilligungen, soweit nicht Naturschutzgebiete oder Naturschutzobjekte von lokaler Bedeutung betroffen sind;
 - d sorgt für die nötigen Gestaltungs- und Unterhaltsmassnahmen in Naturschutzgebieten von nationaler und regionaler Bedeutung;
@@ -272,7 +272,7 @@ beschliesst:
 
 <sup>3</sup> Der Kanton und die Gemeinden ziehen zur Regelung des Schutzes und für den Unterhalt von Biotopen im Wald den Forstdienst bei.
 
-<sup>4</sup> Die Volkswirtschaftsdirektion regelt die Einschränkung der Jagd oder der Fischerei in Naturschutzgebieten im Schutzbeschluss nach Anhörung der zuständigen Fachstellen.
+<sup>4</sup> Die Wirtschafts-, Energie- und Umweltdirektion regelt die Einschränkung der Jagd oder der Fischerei in Naturschutzgebieten im Schutzbeschluss nach Anhörung der zuständigen Fachstellen.
 
 #### Art. 20
 
@@ -300,7 +300,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton fördert die Erhaltung und Pflege von Trockenstandorten, Feuchtgebieten und artenreichen Fettwiesen von nationaler und regionaler Bedeutung mit Beiträgen.
 
-<sup>2</sup> Beitragsberechtigt ist, wer einen Trockenstandort, ein Feuchtgebiet oder eine artenreiche Fettwiese bewirtschaftet und mit der zuständigen Stelle der Volkswirtschaftsdirektion einen Bewirtschaftungsvertrag abgeschlossen hat.
+<sup>2</sup> Beitragsberechtigt ist, wer einen Trockenstandort, ein Feuchtgebiet oder eine artenreiche Fettwiese bewirtschaftet und mit der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion einen Bewirtschaftungsvertrag abgeschlossen hat.
 
 <sup>3</sup> Schutzmassnahmen nach diesem Gesetz oder gestützt auf die Baugesetzgebung bleiben vorbehalten.
 
@@ -327,7 +327,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat setzt die Beitragssätze fest und passt sie auf Beginn des folgenden Jahres der Teuerung an, sobald diese zehn Prozent erreicht hat. Er kann eine Mindestfläche bezeichnen.
 
-<sup>3</sup> Die benötigten Mittel für die Ausrichtung von Bewirtschaftungsbeiträgen werden alljährlich in den Voranschlag der für Naturschutz zuständigen Stelle der Volkswirtschaftsdirektion aufgenommen.
+<sup>3</sup> Die benötigten Mittel für die Ausrichtung von Bewirtschaftungsbeiträgen werden alljährlich in den Voranschlag der für Naturschutz zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion aufgenommen.
 
 #### Art. 25
 
@@ -341,9 +341,9 @@ beschliesst:
 
 **4 Bewirtschaftungsvertrag**
 
-<sup>1</sup> Wer ein im kantonalen Inventar verzeichnetes Gebiet bewirtschaftet, kann den Abschluss eines Bewirtschaftungsvertrages mit der zuständigen Stelle der Volkswirtschaftsdirektion verlangen.
+<sup>1</sup> Wer ein im kantonalen Inventar verzeichnetes Gebiet bewirtschaftet, kann den Abschluss eines Bewirtschaftungsvertrages mit der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion verlangen.
 
-<sup>2</sup> Das Naturschutzinspektorat schlägt dem Bewirtschafter oder der Bewirtschafterin eines verzeichneten Gebietes den Abschluss eines Bewirtschaftungsvertrages vor und orientiert über die Abgeltung, die Bewirtschaftungsauflagen und die Nutzungsbeschränkungen.
+<sup>2</sup> Das Naturschutzinspektorat schlägt der Bewirtschafterin oder dem Bewirtschafter eines verzeichneten Gebietes den Abschluss eines Bewirtschaftungsvertrages vor und orientiert über die Abgeltung, die Bewirtschaftungsauflagen und die Nutzungsbeschränkungen.
 
 <sup>3</sup> Wer einen Bewirtschaftungsvertrag abschliessen will, aber mit der Abgeltung, den Bewirtschaftungsauflagen oder den Nutzungsbeschränkungen nicht einverstanden ist, kann deren Festsetzung in einer anfechtbaren Verfügung verlangen.
 
@@ -353,7 +353,7 @@ beschliesst:
 
 <sup>1</sup> Hecken und Feldgehölze sind in ihrem Bestand geschützt.
 
-<sup>2</sup> Über Ausnahmen vom Beseitigungsverbot entscheidet die Regierungsstatthalterin oder der Regierungsstatthalter. Sie oder er teilt den beschwerdeberechtigten Organisationen und der zuständigen Stelle der Volkswirtschaftsdirektion Ausnahmen mit.
+<sup>2</sup> Über Ausnahmen vom Beseitigungsverbot entscheidet die Regierungsstatthalterin oder der Regierungsstatthalter. Sie oder er teilt den beschwerdeberechtigten Organisationen und der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion Ausnahmen mit.
 
 #### Art. 28
 
@@ -391,15 +391,15 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bezeichnet durch Verordnung die Pflanzen und Tiere, die zusätzlich zu den vom Bundesrecht genannten geschützt sind.
 
-<sup>3</sup> Er legt die erforderlichen Schutzmassnahmen fest, soweit sie für das ganze Kantonsgebiet gelten. In den übrigen Fällen ist die Volkswirtschaftsdirektion zuständig.
+<sup>3</sup> Er legt die erforderlichen Schutzmassnahmen fest, soweit sie für das ganze Kantonsgebiet gelten. In den übrigen Fällen ist die Wirtschafts-, Energie- und Umweltdirektion zuständig.
 
-<sup>4</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann widerrechtlich behändigte Pflanzen und Tiere beschlagnahmen und fehlbare Personen um Ersatz innert Frist verpflichten, unter Androhung der Ersatzvornahme. In Ausnahmefällen kann eine angemessene Ersatzleistung in Geld festgesetzt werden.
+<sup>4</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann widerrechtlich behändigte Pflanzen und Tiere beschlagnahmen und fehlbare Personen um Ersatz innert Frist verpflichten, unter Androhung der Ersatzvornahme. In Ausnahmefällen kann eine angemessene Ersatzleistung in Geld festgesetzt werden.
 
 #### Art. 32
 
 **2 Ausnahmen**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektionkann aus wichtigen Gründen Ausnahmen bewilligen
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann aus wichtigen Gründen Ausnahmen bewilligen
 
 - a zum Sammeln von geschützten Pflanzen;
 - b zum Fangen, Halten, Töten, Ausstopfen oder Präparieren von geschützten Tieren, für welche die Jagdgesetzgebung nicht gilt.
@@ -410,7 +410,7 @@ beschliesst:
 
 **Wildwachsende Pflanzen**
 
-<sup>1</sup> Das Sammeln wildwachsender Pflanzen (einschliesslich Früchten, Pilzen, Moosen und Flechten) zu Erwerbszwecken erfordert eine Bewilligung der zuständigen Stelle der Volkswirtschaftsdirektion. Ausgenommen sind die ordentliche land- und forstwirtschaftliche Nutzung und das Sammeln von Pilzen, Beeren, Tee- und Heilkräutern in ortsüblichem Umfang.
+<sup>1</sup> Das Sammeln wildwachsender Pflanzen (einschliesslich Früchten, Pilzen, Moosen und Flechten) zu Erwerbszwecken erfordert eine Bewilligung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion. Ausgenommen sind die ordentliche land- und forstwirtschaftliche Nutzung und das Sammeln von Pilzen, Beeren, Tee- und Heilkräutern in ortsüblichem Umfang.
 
 <sup>2</sup> Der Regierungsrat erlässt nähere Vorschriften.
 
@@ -418,17 +418,17 @@ beschliesst:
 
 **Freilebende Tiere**
 
-<sup>1</sup> Das Fangen freilebender Tiere zu Erwerbszwecken bedarf einer Bewilligung der zuständigen Stelle der Volkswirtschaftsdirektion , soweit dafür nicht eine Bewilligung nach der Tierschutzgesetzgebung, der Jagdgesetzgebung oder der Fischereigesetzgebung erforderlich ist.
+<sup>1</sup> Das Fangen freilebender Tiere zu Erwerbszwecken bedarf einer Bewilligung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion, soweit dafür nicht eine Bewilligung nach der Tierschutzgesetzgebung, der Jagdgesetzgebung oder der Fischereigesetzgebung erforderlich ist.
 
 #### Art. 35
 
 **Ansiedlung fremder Tier- und Pflanzenarten**
 
-<sup>1</sup> Gesuche um Ansiedlung landes- und standortfremder Tier- und Pflanzenarten sind bei der zuständigen Stelle der Volkswirtschaftsdirektioneinzureichen.
+<sup>1</sup> Gesuche um Ansiedlung landes- und standortfremder Tier- und Pflanzenarten sind bei der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion einzureichen.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion leitet die Gesuche mit ihrem Mitbericht an die Bundesbehörden weiter.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion leitet die Gesuche mit ihrem Mitbericht an die Bundesbehörden weiter.
 
-<sup>3</sup> Bei Gesuchen um Ansiedlung landes- oder standortfremder Tierarten, die der Jagd- oder der Fischereigesetzgebung unterstehen, treten die Fachstellen für Jagd oder Fischerei an die zuständige Stelle der Volkswirtschaftsdirektion.
+<sup>3</sup> Bei Gesuchen um Ansiedlung landes- oder standortfremder Tierarten, die der Jagd- oder der Fischereigesetzgebung unterstehen, treten die Fachstellen für Jagd oder Fischerei an die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
 ### 2.4 Unterschutzstellung
 
@@ -442,13 +442,13 @@ beschliesst:
 
 <sup>3</sup> Die Vorschriften über die Unterschutzstellung gelten sinngemäss für die Änderung bestehender Schutzbeschlüsse.
 
-<sup>4</sup> Unterschutzstellungen können bei der zuständigen Stelle der Volkswirtschaftsdirektion oder der Gemeinde beantragt werden.
+<sup>4</sup> Unterschutzstellungen können bei der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion oder der Gemeinde beantragt werden.
 
 #### Art. 37
 
 **2 Einspracheverfahren 2.1 Auflage**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion veranlasst die öffentliche Auflage des Planentwurfs und der Vorschriften in den betroffenen Gemeinden und orientiert soweit bekannt die betroffenen Grundeigentümer.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion veranlasst die öffentliche Auflage des Planentwurfs und der Vorschriften in den betroffenen Gemeinden und orientiert soweit bekannt die betroffenen Grundeigentümerinnen und Grundeigentümer.
 
 <sup>2</sup> Die Auflage wird im Amtsblatt und im amtlichen Anzeiger veröffentlicht.
 
@@ -477,9 +477,9 @@ beschliesst:
 
 **2.3 Einspracheverhandlungen**
 
-<sup>1</sup> Die Gemeinde schickt die Einsprache an die zuständige Stelle der Volkswirtschaftsdirektion. Diese kann Einspracheverhandlungen durchführen.
+<sup>1</sup> Die Gemeinde schickt die Einsprache an die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion. Diese kann Einspracheverhandlungen durchführen.
 
-<sup>2</sup> Sie leitet die Unterlagen für den Schutzbeschluss zusammen mit ihrer Stellungnahme an die Volkswirtschaftsdirektion weiter.
+<sup>2</sup> Sie leitet die Unterlagen für den Schutzbeschluss zusammen mit ihrer Stellungnahme an die Wirtschafts-, Energie- und Umweltdirektion weiter.
 
 <sup>3</sup> Soweit öffentlich aufgelegte Pläne oder Vorschriften vor der Unterschutzstellung geändert werden, ist den unmittelbar Betroffenen Kenntnis und Gelegenheit zur Einsprache oder Beschwerde zu geben.
 
@@ -487,7 +487,7 @@ beschliesst:
 
 **3 Beschlussfassung**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion entscheidet über die unerledigten Einsprachen und beschliesst über die Unterschutzstellung.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion entscheidet über die unerledigten Einsprachen und beschliesst über die Unterschutzstellung.
 
 #### Art. 41
 
@@ -497,7 +497,7 @@ beschliesst:
 
 <sup>2</sup> Für geringfügige Änderungen des Schutzbeschlusses gilt das Verfahren für die geringfügige Änderung von Nutzungsplänen sinngemäss.
 
-<sup>3</sup> Über Ausnahmen von Schutzbeschlüssen entscheidet die Regierungsstatthalterin oder der Regierungsstatthalter. Für das Verfahren gelten die Vorschriften über das Baubewilligungsverfahren sinngemäss. Die Regierungsstatthalterin oder der Regierungsstatthalter teilt der zuständigen Stelle der Volkswirtschaftsdirektion Ausnahmen mit.
+<sup>3</sup> Über Ausnahmen von Schutzbeschlüssen entscheidet die Regierungsstatthalterin oder der Regierungsstatthalter. Für das Verfahren gelten die Vorschriften über das Baubewilligungsverfahren sinngemäss. Die Regierungsstatthalterin oder der Regierungsstatthalter teilt der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion Ausnahmen mit.
 
 ## 3 Besondere Massnahmen und Finanzierung
 
@@ -507,13 +507,13 @@ beschliesst:
 
 **Beratung**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektionberät und unterstützt die Gemeinden bei der Durchführung der Naturschutzaufgaben.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion berät und unterstützt die Gemeinden bei der Durchführung der Naturschutzaufgaben.
 
 #### Art. 43
 
 **Naturschutzpolizei 1 Aufgaben**
 
-<sup>1</sup> Die Naturschutzpolizei ist unter Aufsicht der Volkswirtschaftsdirektion Sache der zuständigen Stelle der Volkswirtschaftsdirektion und der Gemeinden.
+<sup>1</sup> Die Naturschutzpolizei ist unter Aufsicht der Wirtschafts-, Energie- und Umweltdirektion Sache der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion und der Gemeinden.
 
 <sup>2</sup> Die Organe der Naturschutzpolizei treffen im Rahmen ihrer Zuständigkeit alle Massnahmen, die zur Durchführung dieses Gesetzes und der gestützt darauf erlassenen Vorschriften und Verfügungen erforderlich sind.
 
@@ -527,7 +527,7 @@ beschliesst:
 
 <sup>2</sup> Im Anschluss an die vorläufige Massnahme leitet die zuständige Behörde für schutzwürdige Gebiete oder Objekte unverzüglich das Verfahren zur Unterschutzstellung ein.
 
-<sup>3</sup> Eingriffe in den Wasserhaushalt und baubewilligungspflichtige Vorhaben in Biotopen, die in Bundesinventaren verzeichnet, aber noch nicht grundeigentümerverbindlich gesichert sind, bedürfen einer Bewilligung der zuständigen Stelle der Volkswirtschaftsdirektion .
+<sup>3</sup> Eingriffe in den Wasserhaushalt und baubewilligungspflichtige Vorhaben in Biotopen, die in Bundesinventaren verzeichnet, aber noch nicht grundeigentümerverbindlich gesichert sind, bedürfen einer Bewilligung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion .
 
 #### Art. 45
 
@@ -545,9 +545,9 @@ beschliesst:
 
 **Verfügungen der kantonalen Aufsichtsbehörde**
 
-<sup>1</sup> Vernachlässigt eine Gemeinde ihre Pflichten aus diesem Gesetz, so setzt ihr die Volkswirtschaftsdirektion eine angemessene Frist zur Durchführung der erforderlichen Massnahmen unter Androhung der Ersatzvornahme.
+<sup>1</sup> Vernachlässigt eine Gemeinde ihre Pflichten aus diesem Gesetz, so setzt ihr die Wirtschafts-, Energie- und Umweltdirektion eine angemessene Frist zur Durchführung der erforderlichen Massnahmen unter Androhung der Ersatzvornahme.
 
-<sup>2</sup> Werden die Massnahmen innerhalb der angesetzten Frist nicht oder nicht vorschriftsgemäss ausgeführt, so lässt sie die Volkswirtschaftsdirektion auf Kosten der Gemeinde vornehmen. Für Unterschutzstellungen findet das Verfahren über den kantonalen Schutzbeschluss Anwendung.
+<sup>2</sup> Werden die Massnahmen innerhalb der angesetzten Frist nicht oder nicht vorschriftsgemäss ausgeführt, so lässt sie die Wirtschafts-, Energie- und Umweltdirektion auf Kosten der Gemeinde vornehmen. Für Unterschutzstellungen findet das Verfahren über den kantonalen Schutzbeschluss Anwendung.
 
 ### 3.2 Enteignung und Eigentumsbeschränkungen
 
@@ -607,7 +607,7 @@ beschliesst:
 
 <sup>3</sup> Abgeltungen und Entschädigungen werden zusammen ausgerichtet, wenn die Voraussetzungen erfüllt sind.
 
-<sup>4</sup> Die benötigten Mittel für die Ausrichtung von Abgeltungen und Entschädigungen werden alljährlich in den Voranschlag der zuständigen Stelle der Volkswirtschaftsdirektion aufgenommen.
+<sup>4</sup> Die benötigten Mittel für die Ausrichtung von Abgeltungen und Entschädigungen werden alljährlich in den Voranschlag der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion aufgenommen.
 
 <sup>5</sup> Die in Verträgen vereinbarten Abgeltungen und Entschädigungen werden auf Beginn des folgenden Jahres der Teuerung angepasst, sobald diese zehn Prozent erreicht hat.
 
@@ -617,7 +617,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton vergütet den von ihm beauftragten Organisationen und Fachstellen die Aufwendungen, die mit der zweckmässigen und rationellen Aufgabenerfüllung verbunden sind und nicht durch Einnahmen oder Beiträge Dritter gedeckt werden.
 
-<sup>2</sup> Im Rahmen ihrer Finanzkompetenz setzt die Volkswirtschaftsdirektion, in den übrigen Fällen der Regierungsrat die Vergütungen fest.
+<sup>2</sup> Im Rahmen ihrer Finanzkompetenz setzt die Wirtschafts-, Energie- und Umweltdirektion, in den übrigen Fällen der Regierungsrat die Vergütungen fest.
 
 #### Art. 55
 
@@ -629,7 +629,7 @@ beschliesst:
 
 **Rückerstattung**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion verfügt die Rückerstattung von Staatsleistungen, die zu Unrecht bezogen wurden.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion verfügt die Rückerstattung von Staatsleistungen, die zu Unrecht bezogen wurden.
 
 ## 4 Strafen
 
@@ -671,7 +671,7 @@ beschliesst:
 
 **Zuständigkeit und Verfahren**
 
-<sup>1</sup> Gegen Verfügungen gestützt auf die Naturschutzgesetzgebung kann bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen gestützt auf die Naturschutzgesetzgebung kann bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
 <sup>2</sup> Im Übrigen gilt das VRPG.
 

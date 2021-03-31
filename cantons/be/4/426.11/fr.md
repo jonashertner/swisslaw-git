@@ -4,20 +4,20 @@ number: "426.11"
 title: Loi sur la protection de la nature
 short: LCPN
 language: fr
-version: 2013-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-11-23
+version: 2021-04-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-17
 adopted: 1992-09-15
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/321/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2165/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Loi sur la protection de la nature
 
-du 15.09.1992 (état au 01.01.2013)
+du 15.09.1992 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -131,7 +131,7 @@ arrête:
 
 <sup>2</sup> Les communes peuvent établir et mettre à jour les inventaires des zones et objets dignes de protection qui sont d'importance locale.
 
-<sup>3</sup> La Direction de l'économie publique approuve les inventaires cantonaux, le conseil communal les inventaires communaux.
+<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement approuve les inventaires cantonaux, le conseil communal les inventaires communaux.
 
 #### Art. 10
 
@@ -149,7 +149,7 @@ arrête:
 
 <sup>2</sup> Les prescriptions et les réglementations contractuelles complémentaires relatives aux réserves naturelles et aux objets naturels protégés peuvent prévoir des dérogations pour certaines substances.
 
-<sup>3</sup> Les autorités compétentes peuvent, dans des cas particuliers, autoriser des dérogations selon l'article 7. Le service forestier statue, d'entente avec le service compétent de la Direction de l'économie publique dont relève la protection de la nature, sur les dérogations à l'interdiction d'utiliser, dans les forêts, des produits toxiques et des substances dangereuses pour l'environnement, quelle que soit la catégorie à laquelle appartient l'objet protégé.
+<sup>3</sup> Les autorités compétentes peuvent, dans des cas particuliers, autoriser des dérogations selon l'article 7. L'Office des forêts et des dangers naturels statue, d'entente avec le service compétent de la Direction de l’économie, de l’énergie et de l’environnement dont relève la protection de la nature, sur les dérogations à l'interdiction d'utiliser, dans les forêts, des produits toxiques et des substances dangereuses pour l'environnement, quelle que soit la catégorie à laquelle appartient l'objet protégé.
 
 ### 1.2 Organisation
 
@@ -160,8 +160,8 @@ arrête:
 <sup>1</sup> L'exécution de la législation sur la protection de la nature incombe en particulier
 
 - a …
-- b à la Direction de l'économie publique,
-- c au service compétent de cette Direction ,
+- b à la Direction de l’économie, de l’énergie et de l’environnement,
+- c au service compétent de cette Direction,
 - d aux communes,
 - e aux organes de surveillance de la protection de la nature désignés par le Conseil-exécutif, et
 - f aux organisations pour la protection de la nature mandatées, dans les limites de leur mandat.
@@ -174,9 +174,9 @@ arrête:
 
 #### Art. 14
 
-**2 Direction de l'économie publique**
+**2 Direction de l’économie, de l’énergie et de l’environnement**
 
-<sup>1</sup> La Direction de l'économie publique est l'autorité de surveillance en matière de protection de la nature.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement est l'autorité de surveillance en matière de protection de la nature.
 
 <sup>2</sup> Elle met sous protection les zones et les objets dignes de l’être qui sont d’importance nationale ou régionale et édicte les prescriptions de protection nécessaires.
 
@@ -191,13 +191,13 @@ arrête:
 
 **3 Service cantonal spécialisé dont relève la protection de la nature**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique est le service cantonal spécialisé dont relève la protection de la nature.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement est le service cantonal spécialisé dont relève la protection de la nature.
 
 <sup>2</sup> Il exécute les prescriptions régissant la protection de la nature, de même qu'il en coordonne les mesures, pour autant que la loi n'en dispose pas autrement ou que le Conseil-exécutif n'adopte pas de réglementation particulière.
 
-<sup>3</sup> Le service compétent de la Direction de l'économie publique
+<sup>3</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement
 
-- a prépare les décisions de mise sous protection par la Direction de l’économie publique;
+- a prépare les décisions de mise sous protection par la Direction de l’économie, de l’énergie et de l’environnement;
 - b rend les décisions nécessaires;
 - c accorde des dérogations dans la mesure où des réserves naturelles ou des objets naturels protégés d'importance locale ne sont pas touchés;
 - d s'occupe des mesures d'aménagement et d'entretien nécessaires dans les réserves naturelles d'importance nationale et régionale;
@@ -270,9 +270,9 @@ arrête:
 
 <sup>2</sup> Les communes veillent à la protection et à l'entretien des biotopes d'importance locale.
 
-<sup>3</sup> Le canton et les communes recourent à la collaboration du Service des forêts pour réglementer la protection et l'entretien de biotopes dans les forêts.
+<sup>3</sup> Le canton et les communes recourent à la collaboration du service forestier pour réglementer la protection et l'entretien de biotopes dans les forêts.
 
-<sup>4</sup> Après avoir entendu les services spécialisés compétents, la Direction de l’économie publique fixe les restrictions en matière de chasse et de pêche à l’intérieur des réserves naturelles dans la décision de mise sous protection.
+<sup>4</sup> Après avoir entendu les services spécialisés compétents, la Direction de l’économie, de l’énergie et de l’environnement fixe les restrictions en matière de chasse et de pêche à l’intérieur des réserves naturelles dans la décision de mise sous protection.
 
 #### Art. 20
 
@@ -300,7 +300,7 @@ arrête:
 
 <sup>1</sup> Le canton soutient par des contributions la conservation et l'entretien de terrains secs, de zones humides et de prairies grasses riches en espèces d'importance nationale ou régionale.
 
-<sup>2</sup> A droit à une contribution celui ou celle qui exploite un terrain sec, une zone humide ou une prairie grasse riche en espèces et a conclu un contrat d'exploitation avec le service compétent de la Direction de l'économie publique.
+<sup>2</sup> A droit à une contribution celui ou celle qui exploite un terrain sec, une zone humide ou une prairie grasse riche en espèces et a conclu un contrat d'exploitation avec le service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> Les mesures de protection prises en vertu de la présente loi ou de la législation sur les constructions sont réservées.
 
@@ -327,7 +327,7 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif fixe les taux de contribution et les adapte au début de l'année suivante au renchérissement dès que celui-ci a atteint dix pour cent. Il est habilité à prévoir une surface minimale.
 
-<sup>3</sup> Les sommes nécessaires au versement de contributions à l'exploitation figurent chaque année au budget du service compétent de la Direction de l'économie publique dont relève la protection de la nature .
+<sup>3</sup> Les sommes nécessaires au versement de contributions à l'exploitation figurent chaque année au budget du service compétent de la Direction de l’économie, de l’énergie et de l’environnement dont relève la protection de la nature.
 
 #### Art. 25
 
@@ -341,11 +341,11 @@ arrête:
 
 **4 Contrat d'exploitation**
 
-<sup>1</sup> L'exploitant d'une zone répertoriée dans l'inventaire cantonal peut exiger la conclusion d'un contrat d'exploitation avec le service compétent de la Direction de l'économie publique.
+<sup>1</sup> L'exploitant ou l'exploitante d'une zone répertoriée dans l'inventaire cantonal peut exiger la conclusion d'un contrat d'exploitation avec le service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique propose à l'exploitant d'une zone répertoriée la conclusion d'un contrat d'exploitation et l'informe du montant du dédommagement, des charges imposées à l'exploitation et des restrictions de l'utilisation.
+<sup>2</sup> L'Inspection de la protection de la nature propose à l'exploitant ou à l'exploitante d'une zone répertoriée la conclusion d'un contrat d'exploitation et l'informe du montant du dédommagement, des charges imposées à l'exploitation et des restrictions de l'utilisation.
 
-<sup>3</sup> L'exploitant souhaitant conclure un contrat d'exploitation, mais n'acceptant pas le dédommagement prévu, les charges imposées à l'exploitation ou les restrictions de l'utilisation, peut demander que l'Inspection de la protection de la nature les fixe dans une décision susceptible de recours.
+<sup>3</sup> L'exploitant ou l'exploitante souhaitant conclure un contrat d'exploitation, mais n'acceptant pas le dédommagement prévu, les charges imposées à l'exploitation ou les restrictions de l'utilisation, peut demander que l'Inspection de la protection de la nature les fixe dans une décision susceptible de recours.
 
 #### Art. 27
 
@@ -353,7 +353,7 @@ arrête:
 
 <sup>1</sup> Les haies et les bosquets sont protégés dans leur état actuel.
 
-<sup>2</sup> Le préfet ou la préfète statue sur les dérogations à l'interdiction de les détruire. Il ou elle fait part aux organisations ayant qualité pour recourir et au service compétent de la Direction de l'économie publique des dérogations accordées.
+<sup>2</sup> Le préfet ou la préfète statue sur les dérogations à l'interdiction de les détruire. Il ou elle fait part aux organisations ayant qualité pour recourir et au service compétent de la Direction de l’économie, de l’énergie et de l’environnement des dérogations accordées.
 
 #### Art. 28
 
@@ -391,15 +391,15 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif désigne par voie d'ordonnance les plantes et les animaux qui doivent être protégés en sus des espèces visées par le droit fédéral.
 
-<sup>3</sup> Il détermine les mesures de protection nécessaires pour autant qu'elles s'appliquent à l'ensemble du canton. La Direction de l'économie publique est compétente dans les autres cas.
+<sup>3</sup> Il détermine les mesures de protection nécessaires pour autant qu'elles s'appliquent à l'ensemble du canton. La Direction de l’économie, de l’énergie et de l’environnement est compétente dans les autres cas.
 
-<sup>4</sup> Le service compétent de la Direction de l'économie publique peut saisir les plantes cueillies ou les animaux détenus illicitement et contraindre les personnes fautives à en assurer le remplacement dans le délai imparti, sous commination d'exécution par substitution. Dans des cas exceptionnels, il peut fixer une réparation en argent équitable.
+<sup>4</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut saisir les plantes cueillies ou les animaux détenus illicitement et contraindre les personnes fautives à en assurer le remplacement dans le délai imparti, sous commination d'exécution par substitution. Dans des cas exceptionnels, il peut fixer une réparation en argent équitable.
 
 #### Art. 32
 
 **2 Dérogations**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique peut, pour des motifs importants, accorder des dérogations
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut, pour des motifs importants, accorder des dérogations
 
 - a pour récolter des plantes protégées;
 - b pour capturer, garder en élevage, mettre à mort, empailler ou préparer des animaux protégés auxquels la législation sur la chasse ne s'applique pas.
@@ -410,7 +410,7 @@ arrête:
 
 **Plantes sauvages**
 
-<sup>1</sup> La récolte de plantes sauvages (y compris de fruits, de champignons, de mousses et de lichens) à des fins lucratives est soumise à l'autorisation du service compétent de la Direction de l'économie publique . Sont exceptées les exploitations agricole et sylvicole ordinaires ainsi que la récolte de champignons, de baies et d'herbes à tisanes et médicinales selon l'usage local.
+<sup>1</sup> La récolte de plantes sauvages (y compris de fruits, de champignons, de mousses et de lichens) à des fins lucratives est soumise à l'autorisation du service compétent de la Direction de l’économie, de l’énergie et de l’environnement. Sont exceptées les exploitations agricole et sylvicole ordinaires ainsi que la récolte de champignons, de baies et d'herbes à tisanes et médicinales selon l'usage local.
 
 <sup>2</sup> Le Conseil-exécutif édicte des prescriptions de détail.
 
@@ -418,17 +418,17 @@ arrête:
 
 **Animaux sauvages**
 
-<sup>1</sup> La capture d'animaux sauvages à des fins lucratives est soumise à l'autorisation du service compétent de la Direction de l'économie publique, pour autant qu'une autorisation délivrée en vertu de la législation sur la protection des animaux, sur la chasse ou sur la pêche ne soit pas nécessaire.
+<sup>1</sup> La capture d'animaux sauvages à des fins lucratives est soumise à l'autorisation du service compétent de la Direction de l’économie, de l’énergie et de l’environnement, pour autant qu'une autorisation délivrée en vertu de la législation sur la protection des animaux, sur la chasse ou sur la pêche ne soit pas nécessaire.
 
 #### Art. 35
 
 **Acclimatation d'espèces animales ou végétales étrangères**
 
-<sup>1</sup> L'acclimatation des espèces d'animaux ou de plantes étrangères au pays ou au lieu fera l'objet d'une demande auprès du service compétent de la Direction de l'économie publique.
+<sup>1</sup> L'acclimatation des espèces d'animaux ou de plantes étrangères au pays ou au lieu fera l'objet d'une demande auprès du service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique transmet les demandes aux autorités fédérales avec son corapport.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement transmet les demandes aux autorités fédérales avec son corapport.
 
-<sup>3</sup> Lorsqu'il s'agit de l'acclimatation d'espèces animales étrangères au pays ou au lieu qui sont soumises à la législation sur la chasse ou la pêche, les services spécialisés de la chasse ou de la pêche interviennent en lieu et place du service compétent de la Direction de l'économie publique.
+<sup>3</sup> Lorsqu'il s'agit de l'acclimatation d'espèces animales étrangères au pays ou au lieu qui sont soumises à la législation sur la chasse ou la pêche, les services spécialisés de la chasse ou de la pêche interviennent en lieu et place du service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 ### 2.4 Mise sous protection
 
@@ -442,13 +442,13 @@ arrête:
 
 <sup>3</sup> Les prescriptions régissant la mise sous protection s'appliquent par analogie à la modification des décisions de mise sous protection en vigueur.
 
-<sup>4</sup> Les mises sous protection peuvent être demandées auprès du service compétent de la Direction de l'économie publique ou auprès de la commune.
+<sup>4</sup> Les mises sous protection peuvent être demandées auprès du service compétent de la Direction de l’économie, de l’énergie et de l’environnement ou auprès de la commune.
 
 #### Art. 37
 
 **2 Procédure d'opposition 2.1 Mise à l'enquête**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique ordonne la publication du projet de plan ainsi que des prescriptions prévues dans les communes touchées et il renseigne les propriétaires fonciers concernés qui lui sont connus.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement ordonne la publication du projet de plan ainsi que des prescriptions prévues dans les communes touchées et il renseigne les propriétaires fonciers concernés qui lui sont connus.
 
 <sup>2</sup> La mise à l'enquête est publiée dans la Feuille officielle et dans la feuille officielle d'avis.
 
@@ -477,9 +477,9 @@ arrête:
 
 **2.3 Pourparlers de conciliation**
 
-<sup>1</sup> La commune remet l’opposition au service compétent de la Direction de l’économie publique. Celui-ci peut mener des pourparlers de conciliation.
+<sup>1</sup> La commune remet l’opposition au service compétent de la Direction de l’économie, de l’énergie et de l’environnement. Celui-ci peut mener des pourparlers de conciliation.
 
-<sup>2</sup> Il transmet les documents relatifs à la décision de mise sous protection accompagnés de son préavis à la Direction de l’économie publique.
+<sup>2</sup> Il transmet les documents relatifs à la décision de mise sous protection accompagnés de son préavis à la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> Lorsque des plans ou des prescriptions mis à l'enquête publique sont modifiés avant la mise sous protection, connaissance doit en être donnée aux personnes directement touchées pour leur permettre de former opposition ou de recourir.
 
@@ -487,7 +487,7 @@ arrête:
 
 **3 Prise de décision**
 
-<sup>1</sup> La Direction de l’économie publique statue sur les oppositions encore pendantes et sur la mise sous protection.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement statue sur les oppositions encore pendantes et sur la mise sous protection.
 
 #### Art. 41
 
@@ -497,7 +497,7 @@ arrête:
 
 <sup>2</sup> La procédure relative à une modification minime de plans d'affectation s'applique par analogie à de minimes modifications de la décision de mise sous protection.
 
-<sup>3</sup> Le préfet ou la préfète statue sur les dérogations aux décisions de mise sous protection. Les prescriptions sur la procédure d'octroi du permis de construire s'appliquent par analogie à cette procédure. Le préfet ou la préfète communique au service compétent de la Direction de l'économie publique les dérogations accordées.
+<sup>3</sup> Le préfet ou la préfète statue sur les dérogations aux décisions de mise sous protection. Les prescriptions sur la procédure d'octroi du permis de construire s'appliquent par analogie à cette procédure. Le préfet ou la préfète communique au service compétent de la Direction de l’économie, de l’énergie et de l’environnement les dérogations accordées.
 
 ## 3 Mesures particulières et financement
 
@@ -507,13 +507,13 @@ arrête:
 
 **Conseil**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique conseille et assiste les communes dans l'exécution des tâches découlant de la protection de la nature.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement conseille et assiste les communes dans l'exécution des tâches découlant de la protection de la nature.
 
 #### Art. 43
 
 **Police de la protection de la nature 1 Tâches**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique et les communes assurent la police de la protection de la nature sous la surveillance de la Direction de l'économie publique.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement et les communes assurent la police de la protection de la nature sous la surveillance de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Les organes de la police de la protection de la nature prennent, dans les limites de leur compétence, toutes les mesures nécessaires à l'exécution de la présente loi et des prescriptions et décisions adoptées en vertu de celle-ci.
 
@@ -527,7 +527,7 @@ arrête:
 
 <sup>2</sup> Dès l'adoption de mesures provisoires, l'autorité compétente introduit la procédure de mise sous protection des zones ou objets dignes de protection.
 
-<sup>3</sup> Une autorisation du service compétent de la Direction de l'économie publique est nécessaire pour procéder à des interventions affectant le régime des eaux ou pour exécuter des travaux soumis à l'octroi d'un permis de construire dans des biotopes, répertoriés dans les inventaires fédéraux, mais dont l'existence n'est pas encore garantie par des obligations liant les propriétaires fonciers.
+<sup>3</sup> Une autorisation du service compétent de la Direction de l’économie, de l’énergie et de l’environnement est nécessaire pour procéder à des interventions affectant le régime des eaux ou pour exécuter des travaux soumis à l'octroi d'un permis de construire dans des biotopes, répertoriés dans les inventaires fédéraux, mais dont l'existence n'est pas encore garantie par des obligations liant les propriétaires fonciers.
 
 #### Art. 45
 
@@ -545,9 +545,9 @@ arrête:
 
 **Décisions de l'autorité cantonale de surveillance**
 
-<sup>1</sup> Lorsqu'une commune néglige les tâches qui lui sont imposées par la présente loi, la Direction de l'économie publique lui impartit un délai convenable pour qu'elle prenne les mesures nécessaires, sous commination d'exécution par substitution.
+<sup>1</sup> Lorsqu'une commune néglige les tâches qui lui sont imposées par la présente loi, la Direction de l’économie, de l’énergie et de l’environnement lui impartit un délai convenable pour qu'elle prenne les mesures nécessaires, sous commination d'exécution par substitution.
 
-<sup>2</sup> Lorsque les mesures nécessaires ne sont pas prises durant le délai fixé ou ne sont pas exécutées conformément aux prescriptions, la Direction de l'économie publique les fait exécuter aux frais de la commune. La procédure afférente à la décision cantonale de mise sous protection s'applique aux mises sous protection.
+<sup>2</sup> Lorsque les mesures nécessaires ne sont pas prises durant le délai fixé ou ne sont pas exécutées conformément aux prescriptions, la Direction de l’économie, de l’énergie et de l’environnement les fait exécuter aux frais de la commune. La procédure afférente à la décision cantonale de mise sous protection s'applique aux mises sous protection.
 
 ### 3.2 Expropriation et restrictions de la propriété
 
@@ -607,7 +607,7 @@ arrête:
 
 <sup>3</sup> Dédommagements et indemnités sont alloués concurremment lorsque les conditions requises sont remplies.
 
-<sup>4</sup> Les sommes nécessaires au versement de dédommagements et d'indemnités figurent chaque année au budget du service compétent de la Direction de l'économie publique dont relève la protection de la nature.
+<sup>4</sup> Les sommes nécessaires au versement de dédommagements et d'indemnités figurent chaque année au budget du service compétent de la Direction de l’économie, de l’énergie et de l’environnement dont relève la protection de la nature.
 
 <sup>5</sup> Les dédommagements et les indemnités convenus contractuellement sont adaptés au début de l'année suivante au renchérissement dès que celui-ci a atteint dix pour cent.
 
@@ -617,7 +617,7 @@ arrête:
 
 <sup>1</sup> Le canton bonifie aux organisations et aux services spécialisés qu'il a mandatés les dépenses liées à l'accomplissement judicieux et rationnel de leurs tâches et non couvertes par des recettes ou des contributions de tiers.
 
-<sup>2</sup> Les bonifications sont fixées par la Direction de l'économie publique dans les limites de ses compétences financières et par le Conseil-exécutif dans les autres cas.
+<sup>2</sup> Les bonifications sont fixées par la Direction de l’économie, de l’énergie et de l’environnement dans les limites de ses compétences financières et par le Conseil-exécutif dans les autres cas.
 
 #### Art. 55
 
@@ -629,7 +629,7 @@ arrête:
 
 **Restitution**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique ordonne la restitution de contributions de l'Etat obtenues indûment.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement ordonne la restitution de contributions de l'Etat obtenues indûment.
 
 ## 4 Peines
 
@@ -671,7 +671,7 @@ arrête:
 
 **Compétence et procédure**
 
-<sup>1</sup> Les décisions rendues en application de la législation sur la protection de la nature sont susceptibles de recours devant la Direction de l’économie publique.
+<sup>1</sup> Les décisions rendues en application de la législation sur la protection de la nature sont susceptibles de recours devant la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Au surplus, les dispositions de la loi sur la procédure et la juridiction administratives sont applicables.
 
