@@ -3,13 +3,12 @@ canton: BS
 number: "390.500"
 title: Verordnung über Gebühren im Bestattungswesen
 language: de
-version: 2021-01-01
-valid_until: 2021-03-31
-version_adopted: 2020-11-10
+version: 2021-04-01
+version_adopted: 2021-03-02
 adopted: 2004-12-14
 in_force: 2004-12-19
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/390.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5153/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5198/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5153/pdf_file"
 
 Gebühren im Bestattungswesen: Verordnung | Bestattungen
 
-Vom 14. Dezember 2004 (Stand 1. Januar 2021)
+Vom 14. Dezember 2004 (Stand 1. April 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -41,38 +40,15 @@ beschliesst:
 
 #### § 1a
 
-**Grundsatz**
-
-<sup>1</sup> Im Rahmen des Anspruchs auf eine unentgeltliche Bestattung erfolgen grundsätzlich folgende Leistungen gebührenfrei:
-
-- a) Die Lieferung eines einfachen Sarges inkl. Einsargung und eines einfachen Leichenhemds,
-- b) die Überführung der verstorbenen Person auf einen Friedhof im Kanton Basel-Stadt,
-- c) die Aufbahrung der verstorbenen Person in einem Aufbahrungsraum,
-- d) die Zurverfügungstellung der Räume und Einrichtungen sowie einer Kapelle für die Abdankungsfeier mit Orgelbegleitung von 45 Min. inkl. Orgelspiel auf dem Friedhof am Hörnli oder dem Wolfgottesacker,
-- e) die Benützung eines Erd-, Urnenreihengrabes oder eines Urnenplatzes im anonymen Gemeinschaftsgrab für die Dauer der gesetzlichen Ruhefrist von 20 Jahren,
-- f) bei Erdbestattungen die Überführung der verstorbenen Person vom Friedhofgebäude bis zum Grabe und deren Beisetzung,
-- g) bei Kremation die Einäscherung der verstorbenen Person und die Lieferung und Beisetzung der Urne im Grabe,
-- h) Zurverfügungstellung eines Sargtuches.
-
-<sup>2</sup> Für sämtliche weiteren Leistungen, die nicht unter vom Anspruch auf unentgeltliche Bestattung abgedeckt sind, werden die ordentlichen Gebühren gemäss dieser Verordnung erhoben.
+**…**
 
 #### § 1b
 
-**Umfang des Anspruchs bei einer Beisetzung ausserhalb des Kantons**
-
-<sup>1</sup> Wird die verstorbene Person nicht im Kanton Basel-Stadt beigesetzt, besteht lediglich ein Anspruch auf unentgeltliche Lieferung des einfachen Sarges inkl. Einsargung und eines einfachen Leichenhemds.
-
-<sup>2</sup> Wird ein privater Sarg gekauft, gehen dessen Kosten vollumfänglich zu Lasten der Hinterlassenschaft oder der Angehörigen.
-
-<sup>3</sup> Soll die verstorbene Person im Kanton Basel-Stadt kremiert, die Urne aber ausgeführt werden, so erfolgen alle Leistungen bis zur Übergabe der plombierten Urne im Krematorium unentgeltlich.
+**…**
 
 #### § 1c
 
-**Umfang des Anspruchs bei Sterbeort ausserhalb des Kantons**
-
-<sup>1</sup> Ist die Person ausserhalb des Kantons Basel-Stadt verstorben, wird auf ein an die Stadtgärtnerei zu richtendes Gesuch hin ein Beitrag an einen einfachen Sarg ausgerichtet, der in der Höhe dem Preis des einfachen Basler Sarges entspricht. Die Kosten der Einsargung, des Leichenhemds und der Überführung vom Sterbeort bis auf einen basel-städtischen Friedhof gehen zu Lasten der Hinterlassenschaft oder Angehörigen.
-
-<sup>2</sup> Wurde die verstorbene Person ausserhalb des Kantons Basel-Stadt kremiert und soll die Asche im Kanton beigesetzt werden, so erfolgt die Beisetzung der Urne kostenlos. Die Kosten aller Massnahmen bis zur Übergabe der plombierten Urne auf den basel-städtischen Friedhof gehen zu Lasten der Hinterlassenschaft oder der Angehörigen.
+**…**
 
 ## 1b. Ein- und Ausfuhr von Leichen und Urnen
 
@@ -162,6 +138,8 @@ beschliesst:
 - c) Umtriebsgebühr für Inkassomassnahmen — CHF 50
 
 <sup>4</sup> Vorbehalten bleibt die Einforderung weiterer Gebühren im Zusammenhang mit Betreibungsverfahren.
+
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird sofort wirksam.[^footer-1] Die Gebührenordnung zur Verordnung über das Bestattungs- und Friedhofwesen (Friedhofordnung) vom 8. September 1987 ist aufgehoben.
 
