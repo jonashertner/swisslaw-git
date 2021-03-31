@@ -3,20 +3,19 @@ canton: BE
 number: "854.171"
 title: Verordnung über die Wohnbau- und Eigentumsförderung
 language: de
-version: 2003-05-01
-valid_until: 2021-03-31
-version_adopted: 2003-02-26
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1992-12-09
 in_force: 1993-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/854.171"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/226/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2184/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Wohnbau- und Eigentumsförderung
 
-vom 09.12.1992 (Stand 01.05.2003)
+vom 09.12.1992 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -61,7 +60,7 @@ beschliesst:
 
 <sup>2</sup> Der Kapitalisierungssatz liegt ein Prozent über jenem für die grundverbilligte Miete.
 
-<sup>3</sup> Für genossenschaftlich gebildete Hausgemeinschaften kann das Amt für Berner Wirtschaft (beco) Ausnahmen machen.
+<sup>3</sup> Für genossenschaftlich gebildete Hausgemeinschaften kann das Amt für Wirtschaft (AWI) Ausnahmen machen.
 
 #### Art. 4
 
@@ -111,7 +110,7 @@ beschliesst:
 
 **Gesuche**
 
-<sup>1</sup> Gesuche, Abrechnungen und weitere für die Beurteilung notwendigen Unterlagen sind beim beco einzureichen.
+<sup>1</sup> Gesuche, Abrechnungen und weitere für die Beurteilung notwendige Unterlagen sind beim AWI einzureichen.
 
 <sup>2</sup> Dieses prüft soweit nötig die Unterlagen und leitet sie an den Bund weiter.
 
@@ -127,7 +126,7 @@ beschliesst:
 
 **Mietzinsfestsetzung**
 
-<sup>1</sup> Das becosetzt die Mietzinse für die mit kantonaler Hilfe geförderten Wohnungen fest.
+<sup>1</sup> Das AWI setzt die Mietzinse für die mit kantonaler Hilfe geförderten Wohnungen fest.
 
 <sup>2</sup> Es kann von jedem Mietvertrag eine Kopie verlangen.
 
@@ -135,7 +134,7 @@ beschliesst:
 
 **Annahmeerklärung**
 
-<sup>1</sup> Die Gesuchsteller haben dem beco innert 30 Tagen seit Eröffnung der Zusicherung die vorbehaltlose Annahme der Leistungen des Kantons und der damit verbundenen Auflagen schriftlich zu erklären.
+<sup>1</sup> Die Gesuchsteller haben dem AWI innert 30 Tagen seit Eröffnung der Zusicherung die vorbehaltlose Annahme der Leistungen des Kantons und der damit verbundenen Auflagen schriftlich zu erklären.
 
 <sup>2</sup> Erfolgt die Annahme nicht fristgerecht, wird die Zusicherung aufgehoben.
 

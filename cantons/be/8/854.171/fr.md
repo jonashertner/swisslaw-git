@@ -3,20 +3,19 @@ canton: BE
 number: "854.171"
 title: "Ordonnance sur l'encouragement à la construction et l'accession à la propriété de logements"
 language: fr
-version: 2003-05-01
-valid_until: 2021-03-31
-version_adopted: 2003-02-26
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1992-12-09
 in_force: 1993-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/854.171"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/226/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2184/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur l'encouragement à la construction et l'accession à la propriété de logements
 
-du 09.12.1992 (état au 01.05.2003)
+du 09.12.1992 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -61,7 +60,7 @@ arrête:
 
 <sup>2</sup> Le taux de capitalisation est d'un pour cent supérieur à celui des loyers réduits par l'abaissement de base.
 
-<sup>3</sup> L'Office de l'économie bernoise (beco) peut admettre des exceptions pour les communautés d'habitation coopératives.
+<sup>3</sup> L'Office de l’économie (OEC) peut admettre des exceptions pour les communautés d'habitation coopératives.
 
 #### Art. 4
 
@@ -111,7 +110,7 @@ arrête:
 
 **Demandes**
 
-<sup>1</sup> Les demandes, décomptes et autres documents nécessaires pour l'appréciation sont déposés au beco.
+<sup>1</sup> Les demandes, décomptes et autres documents nécessaires pour l'appréciation sont déposés à l'OEC.
 
 <sup>2</sup> Celui-ci vérifie les documents si nécessaire et les transmet à la Confédération.
 
@@ -127,7 +126,7 @@ arrête:
 
 **Fixation des loyers**
 
-<sup>1</sup> Le beco fixe les loyers des logements au bénéfice de la prestation cantonale d'encouragement.
+<sup>1</sup> L'OEC fixe les loyers des logements au bénéfice de la prestation cantonale d'encouragement.
 
 <sup>2</sup> Il peut exiger une copie de chaque contrat de bail.
 
@@ -135,7 +134,7 @@ arrête:
 
 **Déclaration d'acceptation**
 
-<sup>1</sup> Les requérants déclarent par écrit au beco accepter sans réserve les prestations du canton et les charges qui y sont liées, dans les 30 jours à compter de la notification de la promesse.
+<sup>1</sup> Les requérants déclarent par écrit à l'OEC accepter sans réserve les prestations du canton et les charges qui y sont liées, dans les 30 jours à compter de la notification de la promesse.
 
 <sup>2</sup> Si l'acceptation n'est pas déclarée dans le délai, la promesse est annulée.
 
