@@ -4,11 +4,11 @@ title: "Ordonnance du 5 décembre 2008 concernant la gestion de l'immobilier et 
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: fr
-version: 2016-01-01
+version: 2021-04-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-857-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20160101/fr"
 
 (OILC)
 
-du 5 décembre 2008 (Etat le 1<sup>er</sup> janvier 2016)
+du 5 décembre 2008 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -459,7 +459,7 @@ Des règles particulières s’appliquent à:
 
 **Prestations logistiques lors d’occasions particulières**[^22-1]
 
-L’OFCL fournit les prestations logistiques dont le Conseil fédéral, les chefs de département, le chancelier de la Confédération et les autres magistrats fédéraux du plus haut niveau ont besoin lors d’occasions particulières telles que la réception de Nouvel An, les visites d’Etat, les visites de travail, les honneurs militaires, l’excursion annuelle du Conseil fédéral et les conférences de presse.
+L’OFCL fournit les prestations logistiques dont le Conseil fédéral, les chefs de département, le chancelier de la Confédération et les autres magistrats fédéraux du plus haut niveau ont besoin lors d’occasions particulières telles que la réception de Nouvel An, les visites d’État, les visites de travail, les honneurs militaires, l’excursion annuelle du Conseil fédéral et les conférences de presse.
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5023](https://fedlex.data.admin.ch/eli/oc/2015/824)).
 
@@ -755,9 +755,16 @@ Sont réservées les procédures de conciliation et d’arbitrage divergentes ap
 
 <sup>1</sup> Les SCI édictent pour leur domaine de compétence les instructions relatives à l’exécution de la présente ordonnance dans le domaine de la gestion de l’immobilier. Les art. 8 et 27 sont réservés.
 
-<sup>2</sup> L’OFCL édicte des instructions pour le domaine de la logistique. Est réservée l’ordonnance du 26 septembre 2003 sur l’informatique dans l’administration fédérale[^41-1].
+<sup>2</sup>
 
-[^41-1]: [[RO 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 al. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)annexe ch. 2. [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 al. 1]. Voir actuellement l’O du 9 déc. 2011 sur l’informatique et la télécommunication dans l’administration fédérale ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+L’OFCL édicte des instructions pour le domaine de la logistique. Sont réservées:
+
+- a. l’ordonnance du 25 novembre 2020 sur la transformation numérique et l’informatique[^41-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^41-2].[^41-3]
+
+[^41-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^41-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^41-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
 
@@ -839,8 +846,8 @@ Légende:
 <tr><td>1. Rapport concernant l’ensemble du portefeuille, chiffres-clés compris</td><td>annuelle</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>E/K/D</td></tr>
 <tr><td>2. Preuve du maintien de la valeur et de la fonction (art. 35*b* de la loi du 4 octobre 1991 sur les EPF)</td><td>annuelle</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>E/K/D</td></tr>
 <tr><td>3. Rapport trimestriel sur les modifications touchant le compte des investissements / bilan, engagements conditionnels et provisions y compris</td><td>trimestrielle</td><td></td><td></td><td>i</td><td>K2</td><td></td><td>E/K/D</td></tr>
-<tr><td>4. Etat des crédits d’engagement et des crédits d’investissement (compte)</td><td>semestrielle</td><td>i</td><td></td><td>i</td><td>K2</td><td>i</td><td>E/K/D</td></tr>
-<tr><td>5. Bouclement annuel: indications pour le compte d’Etat / bilan</td><td>annuelle</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>E/K/D</td></tr>
+<tr><td>4. État des crédits d’engagement et des crédits d’investissement (compte)</td><td>semestrielle</td><td>i</td><td></td><td>i</td><td>K2</td><td>i</td><td>E/K/D</td></tr>
+<tr><td>5. Bouclement annuel: indications pour le compte d’État / bilan</td><td>annuelle</td><td></td><td></td><td>i</td><td>K2</td><td>i</td><td>E/K/D</td></tr>
 <tr><td>6. Statistique de la construction pour l’Office fédéral de la statistique</td><td>annuelle</td><td></td><td></td><td></td><td>i</td><td></td><td>E</td></tr>
 </table>
 
@@ -862,7 +869,7 @@ Abréviations:
 
 <table>
 <tr><td>Opération</td><td>OFCL</td><td>OU</td></tr>
-<tr><td>Gestion de l’immobilier – Etudes stratégiques – Besoins immobiliers</td><td>Gestionnaire de portef. Gestionnaire de portef.</td><td>Dir. (LI OU) LI OU</td></tr>
+<tr><td>Gestion de l’immobilier – Études stratégiques – Besoins immobiliers</td><td>Gestionnaire de portef. Gestionnaire de portef.</td><td>Dir. (LI OU) LI OU</td></tr>
 <tr><td>Projets immobiliers – Projets de construction – Prise en location</td><td>CP maître d’ouvrage Gestionnaire immobilier</td><td>CP OU CP OU</td></tr>
 <tr><td>Gestion commerciale des bâtiments – Imputation de prestations</td><td>Gestionnaire grands comptes</td><td>LI OU</td></tr>
 <tr><td>Exploitation de l’immeuble – *Ligne directe* – Petits travaux – Entretien – Exploitation du bâtiment et nettoyage – Mobilier de remplacement</td><td>Centre d’appels RB RB Centre de services Logistique, distribution</td><td>*Tous* (utilisateurs de locaux) LI OU LI OU ou LI E LI OU ou LI E LI OU ou LI E</td></tr>

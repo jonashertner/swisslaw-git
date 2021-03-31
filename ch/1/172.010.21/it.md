@@ -4,11 +4,11 @@ title: Ordinanza del 5 dicembre 2008 sulla gestione immobiliare e la logistica d
 short: OILC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: it
-version: 2016-01-01
+version: 2021-04-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2008-857-20160101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-857-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20160101/it"
 
 (OILC)
 
-del 5 dicembre 2008 (Stato 1° gennaio 2016)
+del 5 dicembre 2008 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -754,9 +754,16 @@ Rimangono salve le procedure derogatorie di conciliazione e d’arbitrato in cas
 
 <sup>1</sup> Gli OCI emanano per i loro rispettivi settori di competenze le istruzioni necessarie per l’applicazione della presente ordinanza in materia di gestione immobiliare. Sono fatti salvi gli articoli 8 e 27.
 
-<sup>2</sup> L’UFCL emana istruzioni per il settore della logistica. È fatta salva l’ordinanza del 26 settembre 2003[^41-1] sull’informatica nell’Amministrazione federale (OIAF).
+<sup>2</sup>
 
-[^41-1]: [[RU 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 cpv. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)all. n. 2. [RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 cpv. 1]. Vedi ora l’O del 9 dic. 2011 concernente l’informatica e la telecomunicazione nell’Amministrazione federale ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+L’UFCL emana istruzioni per il settore della logistica. Sono fatte salve:
+
+- a. l’ordinanza del 25 novembre 2020[^41-1] sulla trasformazione digitale e l’informatica;
+- b. l’ordinanza del 27 maggio 2020[^41-2] sui ciber-rischi.[^41-3]
+
+[^41-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^41-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^41-3]: Nuovo testo giusta l’all. n. 6 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
 
@@ -871,7 +878,7 @@ RE = responsabile dell’edificio
 <tr><td>Progetti immobiliari – Progetti di costruzione – Locazione di immobili</td><td>CP Committente della costruzione Gestore d’immobili</td><td>CP Utenti CP Utenti</td></tr>
 <tr><td>Gestione commerciale degli edifici – Computo delle prestazioni</td><td>Key Account Manager</td><td>AL-OU</td></tr>
 <tr><td>Esercizio d’immobili</td><td></td><td></td></tr>
-<tr><td>*– Permanenza telef**o**nica*</td><td>*Centro di chiam**a**ta*</td><td>*tutti (utenti di spazi)*</td></tr>
+<tr><td>*– Permanenza telefonica*</td><td>*Centro di chiamata*</td><td>*tutti (utenti di spazi)*</td></tr>
 <tr><td>– Misure di piccola portata</td><td>RE</td><td>AL-OU</td></tr>
 <tr><td>– Manutenzione</td><td>RE</td><td>AL-OU o AL-U</td></tr>
 <tr><td>– Esercizio d’immobili e pulizia</td><td>Centro delle prestazioni di servizi</td><td>AL-OU o AL-U</td></tr>

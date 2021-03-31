@@ -4,11 +4,11 @@ title: Verordnung vom 5. Dezember 2008 über das Immobilienmanagement und die Lo
 short: VILB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/857"
 language: de
-version: 2016-01-01
+version: 2021-04-01
 adopted: 2008-12-05
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/857/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-857-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/857/20160101/de"
 
 (VILB)
 
-vom 5. Dezember 2008 (Stand am 1. Januar 2016)
+vom 5. Dezember 2008 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -210,7 +210,7 @@ Im Bereich der strategischen Steuerung erfüllen die BLO insbesondere folgende A
 - c. *Immobilien-Portfolio-Management:* Sie definieren Strategien, Gesamtkonzepte, Vorgaben und das Controlling zur Kosten-Nutzen-Optimierung des Immobilien-Portfolios des Bundes.
 - d. *Schaffung von Kostentransparenz:* Sie schaffen Kostentransparenz durch den Ausweis der effektiven Kosten des Bundes als Liegenschaftseigentümer und -besitzer sowie als Bauherr, Liegenschaftsbewirtschafter und -betreiber.
 - e. *Mehrjahresplanung und Zielsetzung:* Im Rahmen einer rollenden Mehrjahresplanung erarbeiten sie strategische Ziele und legen, auf diese abgestimmt, jedes Jahr die operativen Ziele fest.
-- f.[^9-3] …
+- f.[^9-3] ...
 
 <sup>3</sup>
 
@@ -755,9 +755,16 @@ Vorbehalten bleiben abweichende Vermittlungs- und Schiedsverfahren bei Streitigk
 
 <sup>1</sup> Die BLO erlassen für ihren jeweiligen Zuständigkeitsbereich die zum Vollzug dieser Verordnung im Bereich des Immobilienmanagements notwendigen Weisungen. Die Artikel 8 und 27 bleiben vorbehalten.
 
-<sup>2</sup> Das BBL erlässt Weisungen für den Bereich Logistik. Vorbehalten bleibt die Bundesinformatikverordnung vom 26. September 2003[^41-1].
+<sup>2</sup>
 
-[^41-1]: [[AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)Art. 22 Abs. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Anhang Ziff. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)Art. 29 Abs. 1]. Siehe heute: die Bundesinformatikverordnung vom 9. Dez. 2011 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+Das BBL erlässt Weisungen für den Bereich Logistik. Vorbehalten bleiben:
+
+- a. die Verordnung vom 25. November 2020[^41-1] über die digitale Transformation und die Informatik;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^41-2].[^41-3]
+
+[^41-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^41-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^41-3]: Fassung gemäss Anhang Ziff. 6 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 42
 
