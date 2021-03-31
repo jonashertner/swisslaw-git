@@ -1,16 +1,15 @@
 ---
 canton: BE
 number: "767.31"
-title: "Ordonnance sur l'allocation de subventions à la navigation"
+title: "Ordonnance sur l'allocation de subventions à la navigation *"
 short: OSN
 language: fr
-version: 1993-01-01
-valid_until: 2021-03-31
-version_adopted: 1993-03-31
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1991-11-27
 in_force: 1992-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/767.31"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/361/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2240/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/361/pdf_file"
 
 (OSN)
 
-du 27.11.1991 (état au 01.01.1993)
+du 27.11.1991 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -41,9 +40,9 @@ arrête:
 
 **Association intercantonale**
 
-<sup>1</sup> Une subvention annuelle de 2000 francs au maximum est allouée à l'Association des services cantonaux de la navigation (ASN).
+<sup>1</sup> Une subvention annuelle de 2000 francs au maximum est allouée à l'Association des services de la navigation (vks).
 
-<sup>2</sup> L'activité de l'ASN peut en outre être soutenue par l'Office de la circulation routière et de la navigation au moyen de prestations de service gratuites ou bénéficiant de prix réduits.
+<sup>2</sup> L'activité de la vks peut en outre être soutenue par l'Office de la circulation routière et de la navigation au moyen de prestations de service gratuites ou bénéficiant de prix réduits.
 
 #### Art. 3
 
@@ -78,23 +77,23 @@ arrête:
 
 **Corapport**
 
-<sup>1</sup> L'Office de la circulation routière et de la navigation soumet, pour corapport, la demande avec les documents y relatifs à la Direction des travaux publics, des transports et de l'énergie afin qu'elle se détermine sur le versement de subventions selon la loi du 6 juin 1982 sur les rives des lacs et des rivières[^6-1].
+<sup>1</sup> L'Office de la circulation routière et de la navigation soumet, pour corapport, la demande avec les documents y relatifs à la Direction des travaux publics et des transports afin qu'elle se détermine sur le versement de subventions selon la loi du 6 juin 1982 sur les rives des lacs et des rivières (LRLR)[^6-1].
 
-<sup>2</sup> La Direction des travaux publics, des transports et de l'énergie examine, dans le cadre de son corapport, si le projet est conforme aux buts visés par la législation sur les rives des lacs et des rivières.
+<sup>2</sup> La Direction des travaux publics et des transports examine, dans le cadre de son corapport, si le projet est conforme aux buts visés par la législation sur les rives des lacs et des rivières.
 
-[^6-1]: RSB 704.1
+[^6-1]: RSB [704.1](https://www.belex.sites.be.ch/data/704.1/fr)
 
 #### Art. 7
 
 **Proposition**
 
-<sup>1</sup> L'Office de la circulation routière et de la navigation transmet la demande avec tous les documents et une prise de position détaillée à la Direction de la police et des affaires militaires.
+<sup>1</sup> L'Office de la circulation routière et de la navigation transmet la demande avec tous les documents et une prise de position détaillée à la Direction de la sécurité.
 
 #### Art. 8
 
 **Arrêté**
 
-<sup>1</sup> La Direction de la police et des affaires militaires soumet au Conseil-exécutif la proposition d'octroi de la subvention fixant les conditions nécessaires. Le Conseil-exécutif statue souverainement, sous réserve de la compétence financière du Grand Conseil.
+<sup>1</sup> La Direction de la sécurité soumet au Conseil-exécutif la proposition d'octroi de la subvention fixant les conditions nécessaires. Le Conseil-exécutif statue souverainement, sous réserve de la compétence financière du Grand Conseil.
 
 <sup>2</sup> Le rejet de la demande fait également l'objet d'un arrêté.
 
@@ -102,13 +101,13 @@ arrête:
 
 **Autorisation de versement**
 
-<sup>1</sup> La Direction de la police et des affaires militaires est habilitée à verser la subvention, sous réserve de la production d'un décompte détaillé des frais, après la construction de l'installation.
+<sup>1</sup> La Direction de la sécurité est habilitée à verser la subvention, sous réserve de la production d'un décompte détaillé des frais, après la construction de l'installation.
 
 #### Art. 10
 
 **Paiement**
 
-<sup>1</sup> La Direction de la police et des affaires militaires verse les subventions arrêtées sur la base d'un décompte détaillé des frais.
+<sup>1</sup> La Direction de la sécurité verse les subventions arrêtées sur la base d'un décompte détaillé des frais.
 
 <sup>2</sup> Il ne sera octroyé que le montant prévu dans l'arrêté d'octroi de la subvention lorsque la construction d'une installation se révèle plus onéreuse que ne le prévoyait l'évaluation des frais. Si elle se révèle meilleur marché, seul le montant correspondant à 50 pour cent des frais effectifs sera octroyé.
 
