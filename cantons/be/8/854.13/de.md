@@ -4,13 +4,12 @@ number: "854.13"
 title: Dekret über die Verbesserung der Wohnverhältnisse in Berggebieten
 short: Dekret II zum Gesetz über die Verbesserung des Wohnungsangebotes
 language: de
-version: 1998-01-01
-valid_until: 2021-03-31
-version_adopted: 1997-10-29
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1980-11-10
 in_force: 1981-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/854.13"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/229/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2182/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/229/pdf_file"
 
 (Dekret II zum Gesetz über die Verbesserung des Wohnungsangebotes)
 
-vom 10.11.1980 (Stand 01.01.1998)
+vom 10.11.1980 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -83,9 +82,9 @@ beschliesst:
 
 **Bewilligungsverfahren**
 
-<sup>1</sup> Beitragsgesuche sind auf vorgeschriebenem Formular bei der zuständigen Gemeindestelle einzureichen. Diese überprüft die Angaben des Gesuchstellers und leitet das Begehren mit ihrem Antrag an die zuständige Stelle der Volkswirtschaftsdirektion weiter.
+<sup>1</sup> Beitragsgesuche sind auf vorgeschriebenem Formular bei der zuständigen Gemeindestelle einzureichen. Diese überprüft die Angaben des Gesuchstellers und leitet das Begehren mit ihrem Antrag an die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion weiter.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ermittelt die beitragsberechtigten Arbeiten und fordert die notwendigen Unterlagen ein.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ermittelt die beitragsberechtigten Arbeiten und fordert die notwendigen Unterlagen ein.
 
 <sup>3</sup> Sie eröffnet die von den finanzkompetenten Behörden bewilligten Beiträge. Der Gesuchsteller hat innert 30 Tagen zu erklären, ob er die Beiträge und die damit verbundenen Auflagen annimmt.
 
@@ -93,7 +92,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Vollzug erfolgt durch die zuständige Stelle der Volkswirtschaftsdirektion.
+<sup>1</sup> Der Vollzug erfolgt durch die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Der Regierungsrat erlässt soweit erforderlich Vollzugsvorschriften.
 

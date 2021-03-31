@@ -4,13 +4,12 @@ number: "854.13"
 title: "Décret sur l'amélioration de l'habitat dans les régions de montagne"
 short: "Décret II relatif à la loi sur l'amélioration de l'offre de logements"
 language: fr
-version: 1998-01-01
-valid_until: 2021-03-31
-version_adopted: 1997-10-29
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1980-11-10
 in_force: 1981-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/854.13"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/229/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2182/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/229/pdf_file"
 
 (Décret II relatif à la loi sur l'amélioration de l'offre de logements)
 
-du 10.11.1980 (état au 01.01.1998)
+du 10.11.1980 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -83,9 +82,9 @@ décrète:
 
 **Procédure d'allocation**
 
-<sup>1</sup> Les demandes de subvention doivent être remises sur formule légale à l'autorité communale compétente. Celle-ci examine les renseignements fournis par le demandeur et transmet la demande au service compétent de la Direction de l'économie publique, avec sa proposition.
+<sup>1</sup> Les demandes de subvention doivent être remises sur formule légale à l'autorité communale compétente. Celle-ci examine les renseignements fournis par le demandeur et transmet la demande au service compétent de la Direction de l’économie, de l’énergie et de l’environnement, avec sa proposition.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique examine les travaux justifiant une subvention et réclame les documents nécessaires.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement examine les travaux justifiant une subvention et réclame les documents nécessaires.
 
 <sup>3</sup> Il communique les subventions allouées par les autorités financières compétentes. Le demandeur a 30 jours pour déclarer s'il accepte les subventions et les charges qui en découlent.
 
@@ -93,7 +92,7 @@ décrète:
 
 **Exécution**
 
-<sup>1</sup> C'est le service compétent de la Direction de l'économie publique qui procède à l'exécution.
+<sup>1</sup> C'est le service compétent de la Direction de l’économie, de l’énergie et de l’environnement qui procède à l'exécution.
 
 <sup>2</sup> Le Conseil-exécutif arrête si nécessaire des prescriptions d'exécution.
 
