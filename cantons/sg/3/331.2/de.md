@@ -4,13 +4,12 @@ number: "331.2"
 title: Gesetz über die Pflegefinanzierung
 short: PFG
 language: de
-version: 2021-01-01
-corrected: 2021-03-02
+version: 2021-04-01
 version_adopted: 2021-02-02
 adopted: 2011-02-13
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3062/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3119/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3062/pdf_file"
 
 (PFG)
 
-vom 13.02.2011 (Stand 01.01.2021)
+vom 13.02.2011 (Stand 01.04.2021)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -56,11 +55,12 @@ als Gesetz:[^ingress-3]
 - b) Tages- und Nachtstrukturen, soweit sie nach Art. 38 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^2-2] zugelassen sind;
 - c) Pflegefachpersonen sowie Organisationen der Hilfe und Pflege zu Hause, soweit sie von der zuständigen kantonalen Behörde nach Art. 51 der Verordnung über die Krankenversicherung vom 27. Juni 1995[^2-3] zugelassen sind.
 
-<sup>2</sup> Erbringen ausserkantonale Leistungserbringer Pflegeleistungen sowie Leistungen der Akut- und Übergangspflege für versicherte Personen mit Wohnsitz im Kanton St.Gallen, werden für die Finanzierung höchstens die für die Leistungserbringer im Kanton St.Gallen geltenden Kostenansätze angewendet.
+<sup>2</sup> Erbringen ausserkantonale Leistungserbringer Pflegeleistungen sowie Leistungen der Akut- und Übergangspflege für versicherte Personen mit Wohnsitz im Kanton St.Gallen, werden für die Finanzierung höchstens die für die Leistungserbringer im Kanton St.Gallen geltenden Kostenansätze angewendet. Vorbehalten bleibt Art. 25a Abs. 5 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^2-4].
 
 [^2-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de); abgekürzt KVG.
 [^2-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de); abgekürzt KVG.
 [^2-3]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de); abgekürzt KVV.
+[^2-4]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de); abgekürzt KVG.
 
 #### Art. 3
 
@@ -114,9 +114,21 @@ als Gesetz:[^ingress-3]
 
 **b) Festlegung von Pflegekosten**
 
-<sup>1</sup> Die Regierung legt nach Anhörung der politischen Gemeinden durch Verordnung die Höchstansätze der Pflegekosten in Franken je Pflegebedarf und Tag fest.
+<sup>1</sup> Die Regierung legt nach Anhörung der politischen Gemeinden durch Verordnung die Höchstansätze der Pflegekosten in Franken je Pflegebedarf und Tag fest. Die Höchstansätze sind so ausgestaltet, dass die im Kanton anrechenbaren Kosten gedeckt sind.
 
-<sup>2</sup> Die Regierung kann durch Verordnung den für die Ermittlung der Pflegekosten anrechenbaren Aufwand der Leistungserbringer festlegen.
+<sup>1<sup>bis</sup></sup> Die Regierung überprüft die Höchstansätze alle drei Jahre.
+
+<sup>2</sup> Die Regierung kann durch Verordnung den für die Ermittlung der Pflegekosten anrechenbaren Aufwand der Leistungserbringer festlegen. Als anrechenbar gilt der Aufwand, der für eine wirksame, zweckmässige und wirtschaftliche Leistungserbringung erforderlich ist.
+
+#### Art. 6a
+
+**c) Tarife für nicht-pflegerische Leistungen**
+
+<sup>1</sup> Bestehen Hinweise, dass Pflegekosten über Tarife für nicht-pflegerische Leistungen verrechnet wurden, kann das zuständige Departement:
+
+- a) beim Leistungserbringer eine Berichterstattung über die Leistungsabrechnung verlangen;
+- b) Einsicht in die für die Überprüfung erforderlichen Unterlagen verlangen;
+- c) eine befristete Anpassung der Tarife für nicht-pflegerische Leistungen verfügen, soweit die Einrichtung keine geeigneten Massnahmen veranlasst.
 
 #### Art. 7
 
@@ -141,7 +153,11 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> …
 
-<sup>1<sup>bis</sup></sup> Die zuständige politische Gemeinde trägt die Pflegekosten, soweit diese nicht von Sozialversicherungen und dem Beitrag der versicherten Person gedeckt sind und das Pflegeheim nicht als beitragsberechtigte Einrichtung nach Art. 14 des Gesetzes über die soziale Sicherung und Integration von Menschen mit Behinderung vom 7. August 2012[^9-1] anerkannt ist.
+<sup>1<sup>bis</sup></sup> Die zuständige politische Gemeinde trägt als Pflegekostenbeitrag die Pflegekosten, soweit:
+
+- a) diese nicht von Sozialversicherungen und dem Beitrag der versicherten Person gedeckt sind;
+- b) diese nicht die Höchstansätze nach Art. 6 dieses Erlasses übersteigen;
+- c) das Pflegeheim nicht als beitragsberechtigte Einrichtung nach Art.14 des Gesetzes über die soziale Sicherung und Integration von Menschen mit Behinderung vom 7. August 2012[^9-1] anerkannt ist.
 
 <sup>2</sup> …
 
@@ -150,13 +166,19 @@ als Gesetz:[^ingress-3]
 [^9-1]: sGS [381.4](https://www.gesetzessammlung.sg.ch/data/381.4/de).
 [^9-2]: sGS [381.4](https://www.gesetzessammlung.sg.ch/data/381.4/de).
 
+#### Art. 9a
+
+**b<sup>bis</sup>) durch den Leistungserbringer**
+
+<sup>1</sup> Der Leistungserbringer trägt die Pflegekosten, welche die Höchstansätze nach Art. 6 dieses Erlasses übersteigen.
+
 #### Art. 10
 
 **c) Durchführung**
 
 <sup>1</sup> Die Sozialversicherungsanstalt ist Durchführungsstelle für das Abrechnungsverfahren.
 
-<sup>2</sup> Sie erstattet der versicherten Person die Pflegekosten zurück, soweit sie nicht von dieser und der obligatorischen Krankenpflegeversicherung zu übernehmen sind.
+<sup>2</sup> Sie erstattet dem Leistungserbringer den Pflegekostenbeitrag nach [Art. 9](https://www.gesetzessammlung.sg.ch/data/331.2/de/art9) Abs. 1<sup>bis</sup> dieses Erlasses. Dies gilt auch, wenn die Zuständigkeit von der politischen Gemeinde bestritten ist.
 
 <sup>3</sup> Die politischen Gemeinden tragen die Verwaltungskosten der Gemeindezweigstelle und der Sozialversicherungsanstalt.
 
@@ -190,9 +212,11 @@ als Gesetz:[^ingress-3]
 
 #### Art. 10d
 
-**Rückerstattung bei bestrittener Zuständigkeit**
+**Rückerstattung**
 
-<sup>1</sup> Die Sozialversicherungsanstalt erstattet der versicherten Person die Pflegekosten nach Art. 10 Abs. 2 dieses Erlasses auch zurück, wenn die Zuständigkeit durch die politische Gemeinde bestritten wird.
+<sup>1</sup> …
+
+<sup>2</sup> Der Leistungserbringer erstattet zu Unrecht bezogene Pflegekostenbeiträge der Sozialversicherungsanstalt zurück. Er kann sich nicht auf das Vorliegen einer grossen Härte berufen.
 
 #### Art. 11
 
