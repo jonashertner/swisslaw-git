@@ -3,20 +3,20 @@ canton: BL
 number: "153.11"
 title: Verordnung zur Arbeitszeit
 language: de
-version: 2021-01-01
-valid_until: 2021-03-31
-version_adopted: 2020-11-10
+version: 2021-04-01
+valid_until: 2021-04-30
+version_adopted: 2020-12-08
 adopted: 2000-01-04
 in_force: 2000-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.11"
-pdf: "https://bl.clex.ch/api/de/versions/2851/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Arbeitszeit
 
-Vom 04.01.2000 (Stand 01.01.2021)
+Vom 04.01.2000 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -78,13 +78,13 @@ beschliesst:
 
 **Gleitzeitmodell**
 
-<sup>1</sup> Die tägliche Arbeitszeit kann von den Mitarbeiterinnen und Mitarbeitern unter Berücksichtigung der betrieblichen Anforderungen zwischen 06.00 Uhr und 20.00 Uhr erbracht werden.
+<sup>1</sup> Die tägliche Arbeitszeit kann von den Mitarbeiterinnen und Mitarbeitern unter Berücksichtigung der betrieblichen Anforderungen zwischen 06.00 Uhr und 00.00 Uhr erbracht werden, wobei kein Anspruch auf Nachtzulagen entsteht.
 
 <sup>2</sup> Grundsätzlich sind Ansprechzeiten von 08.00 Uhr bis 12.00 Uhr und von 13.30 Uhr bis 17.00 Uhr zu gewährleisten.
 
 <sup>3</sup> Aufgrund betrieblicher Anforderungen können andere Ansprechzeiten oder einzelne feste Arbeitseinsätze angeordnet werden.
 
-<sup>4</sup> Für die Ausübung bestimmter Funktionen kann die Anstellungsbehörde das Arbeitsende gemäss Abs. 1 auf 22.00 Uhr verschieben, wobei aber kein Anspruch auf eine Nachtzulage entsteht.
+<sup>4</sup> …
 
 #### § 6
 
@@ -162,7 +162,7 @@ beschliesst:
 
 <sup>2</sup> Die wöchentliche Arbeitszeit wird in der Regel von Montag bis Freitag erbracht.
 
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, die im Gleitzeitmodell beschäftigt sind, können ihre Arbeit auch an Samstagen erbringen, sofern es die betrieblichen Anforderungen zulassen. Nicht angeordnete Samstagsarbeit berechtigt nicht zu Zulagen.
+<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, die im Gleitzeitmodell beschäftigt sind, können ihre Arbeit auch an Samstagen sowie, in Absprache mit der bzw. dem Vorgesetzten, an Sonntagen und Feiertagen erbringen, sofern es die betrieblichen Anforderungen zulassen. Nicht angeordnete Samstags-, Sonntags- und Feiertagsarbeit berechtigt nicht zu Zulagen.
 
 <sup>4</sup> In Organisationseinheiten mit notwendiger Betriebsbereitschaft an Samstagen, Sonntagen und gesetzlichen Feiertagen gelten auch diese als Arbeitstage.
 
@@ -335,9 +335,10 @@ beschliesst:
 
 <sup>1</sup> Auf dem Zeiterfassungsbogen oder mittels Zeiterfassungsgerät sind folgende Eintragungen vorzunehmen:
 
-- a. Arbeitsbeginn jeweils am Vormittag und am Nachmittag;
-- b. Arbeitsende jeweils am Vormittag und am Nachmittag;
-- c. jede an die Sollarbeitszeit anzurechnende Abwesenheit mit Begründung.
+- a. Arbeitsbeginn;
+- b. Arbeitsende;
+- c. jede an die Sollarbeitszeit anzurechnende Abwesenheit mit Begründung;
+- d. jede unbezahlte Pause.
 
 <sup>2</sup> Im Zeiterfassungsbogen erfolgt die Eintragung in Zehntelstunden. Bei der elektronischen Erfassung werden Minuten erfasst.
 
