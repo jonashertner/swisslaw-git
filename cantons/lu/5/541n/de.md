@@ -3,20 +3,19 @@ canton: LU
 number: 541n
 title: Reglement über den Zertifikatslehrgang (Certificate of Advanced Studies) «Religionsunterricht» an der Theologischen Fakultät der Universität Luzern
 language: de
-version: 2017-08-01
-valid_until: 2021-03-31
-version_adopted: 2016-12-22
+version: 2021-04-01
+version_adopted: 2021-03-24
 adopted: 2016-12-22
 in_force: 2017-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/541n"
-pdf: "https://srl.lu.ch/api/de/versions/2959/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3731/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Zertifikatslehrgang (Certificate of Advanced Studies) «Religionsunterricht» an der Theologischen Fakultät der Universität Luzern
 
-vom 22.12.2016 (Stand 01.08.2017)
+vom 22.12.2016 (Stand 01.04.2021)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -34,9 +33,9 @@ beschliesst:
 
 <sup>1</sup> Der Zertifikatslehrgang «Religionsunterricht» (im Folgenden: Lehrgang) ist ein universitäres Weiterbildungsangebot der Theologischen Fakultät.
 
-<sup>2</sup> Der Lehrgang vermittelt religionspädagogische Fach- und Vermittlungskompetenzen im Praxisfeld des schulischen Religionsunterrichts.
+<sup>2</sup> Der Lehrgang vermittelt religionspädagogische Fach- und Vermittlungskompetenzen im Praxisfeld des Religionsunterrichts.
 
-<sup>3</sup> Der Lehrgang ist eine Ergänzung und Erweiterung des grundständigen Hochschulabschlusses und richtet sich an Theologinnen und Theologen sowie weitere kirchliche Mitarbeitende mit Hochschulabschluss, die mit Blick auf das religionspädagogische Arbeitsfeld schulischer Religionsunterricht aufbauende und spezialisierende Fach- und Vermittlungskompetenzen erwerben möchten.
+<sup>3</sup> Der Lehrgang ist eine Ergänzung und Erweiterung des grundständigen Hochschulabschlusses und richtet sich an Theologinnen und Theologen sowie weitere kirchliche Mitarbeitende mit Hochschulabschluss, die mit Blick auf das religionspädagogische Arbeitsfeld Religionsunterricht aufbauende und spezialisierende Fach- und Vermittlungskompetenzen erwerben möchten.
 
 #### § 2
 
@@ -132,7 +131,7 @@ beschliesst:
 
 **Praxisberatung**
 
-<sup>1</sup> Die Praxisberatung dient der Reflexion und Bearbeitung konkreter Aufgabenstellungen und Herausforderungen im schulischer Religionsunterricht.
+<sup>1</sup> Die Praxisberatung dient der Reflexion und Bearbeitung konkreter Aufgabenstellungen und Herausforderungen im Religionsunterricht.
 
 <sup>2</sup> Absolventinnen und Absolventen des Lehrgangs sind verpflichtet, an mindestens vier Veranstaltungen der Praxisberatung teilzunehmen.
 
@@ -170,7 +169,7 @@ beschliesst:
 
 **Zertifikatsarbeit**
 
-<sup>1</sup> Innerhalb von 6 Monaten nach Beendigung der Lehrveranstaltungen sowie der Auswertungsveranstaltung ist eine Zertifikatsarbeit einzureichen. Die Anforderungen an die Zertifikatsarbeit werden im Studienplan formuliert.
+<sup>1</sup> Innerhalb von 6 Monaten nach Beendigung der Lehrveranstaltungen ist eine Zertifikatsarbeit einzureichen. Die Anforderungen an die Zertifikatsarbeit werden im Studienplan formuliert.
 
 #### § 18
 
@@ -204,7 +203,7 @@ beschliesst:
 
 **Höhe der Kursgelder**
 
-<sup>1</sup> Die Kursgelder des Lehrgangs werden vom Rektor der Universität Luzern auf Antrag der Studienleitung festgelegt.
+<sup>1</sup> Die Kursgelder des Lehrgangs werden von der Rektorin oder vom Rektor der Universität Luzern auf Antrag der Studienleitung festgelegt.
 
 <sup>2</sup> Die Kursgelder decken die Kosten für den Besuch der einzelnen Lehrveranstaltungen (inkl. Personal- und Verwaltungskosten), die Bewertung der Leistungsnachweise und die von der Kursleitung abgegebenen Kursunterlagen.
 
