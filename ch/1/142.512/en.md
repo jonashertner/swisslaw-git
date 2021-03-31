@@ -4,11 +4,11 @@ title: "Ordinance of 18 December 2013 on the Central Visa Information System and
 short: VISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: en
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210401/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210401-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Visa Information System Ordinance, VISO)
 
-of 18 December 2013 (Status as of 1 January 2021)
+of 18 December 2013 (Status as of 1 April 2021)
 
 The Swiss Federal Council,
 
@@ -641,13 +641,12 @@ Data security is governed by:
 
 - a. the Ordinance of 14 June 1993[^34-1] to the Federal Act on Data Protection;
 - b.[^34-2] the Cyber Risks Ordinance of 27 May 2020[^34-3];
-- c.[^34-4] the Federal Council directives of 16 January 2019[^34-5] on ICT security in the Federal Administration.
+- c.[^34-4] ...
 
 [^34-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^34-2]: Amended by Annex No 3 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 [^34-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34-4]: Amended by Annex No 3 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-5]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^34-4]: Repealed by Annex No 4 of the O of 24 Feb. 2021, with effect from 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 

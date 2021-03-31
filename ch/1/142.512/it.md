@@ -4,11 +4,11 @@ title: "Ordinanza del 18 dicembre 2013 sul sistema centrale d'informazione visti
 short: OVIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210101/it"
 
 (Ordinanza VIS, OVIS)
 
-del 18 dicembre 2013 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 18 dicembre 2013 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -638,13 +638,12 @@ La sicurezza dei dati è retta da:
 
 - a. l’ordinanza del 14 giugno 1993[^34-1] relativa alla legge federale sulla protezione dei dati (OLPD);
 - b.[^34-2] l’ordinanza del 27 maggio 2020[^34-3] sui ciber-rischi;
-- c.[^34-4] le istruzioni del Consiglio federale del 16 gennaio 2019[^34-5] sulla sicurezza TIC nell’Amministrazione federale.
+- c.[^34-4] ...
 
 [^34-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^34-2]: Nuovo testo giusta l’all. n. 3 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 [^34-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34-4]: Nuovo testo giusta l’all. n. 3 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-5]: [FF 2019 1173](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^34-4]: Abrogata dall’all. n. 4 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 
@@ -749,7 +748,7 @@ Gli accordi di associazione alla normativa di Dublino comprendono:
 [^annex1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
 [^annex1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 5 cpv. 1, 6 cpv. 1 e 10 cpv. 2)
 
@@ -881,7 +880,7 @@ ORBIS
 [^annex2-lvlu1-lvlu1-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 6 cpv. 1
 [^annex2-lvlu1-lvlu1-lvlu1-2]: Allegati in formato pdf (documenti del richiedente il visto, note) che dopo la scansione di tutti i documenti saranno sostituiti da un fascicolo elettronico.
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 11 cpv. 3 e 35 cpv. 4)
 
@@ -919,7 +918,7 @@ C-VIS
 
 <table>
 <tr><td>Campi di dati</td><td>SEM I statistiche</td><td>SEM II visti</td><td>SEM III asilo Applicazione del regolamento Dublino UE[^annex3-lvlu1-1]</td><td>SEM IV asilo Procedura d’asilo</td><td>MIGRA e OCF in qualità di autorità rilascianti i visti</td><td>OCF controllo frontiere</td><td>RSE</td><td>DFAE</td><td>CP sul territorio svizzero</td><td>CO fedpol</td></tr>
-<tr><td colspan="11">I. Dati relativi al deposito della domanda</td></tr>
+<tr><td colspan="11">**I. Dati relativi al deposito della domanda**</td></tr>
 <tr><td>Numero della domanda</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Stato della procedura: domanda depositata</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
@@ -955,7 +954,7 @@ C-VIS
 <tr><td>Menzione «privo d’oggetto» in quanto le impronte non possono essere prodotte</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
 <tr><td>Menzione «privo d’oggetto» in quanto le impronte non sono obbligatorie</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
 <tr><td>Registrazione impronte digitali sì/no</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td colspan="11">II. Dati da indicare in caso di rilascio del visto</td></tr>
+<tr><td colspan="11">**II.** **Dati da indicare in caso di rilascio del visto**</td></tr>
 <tr><td>Stato della procedura: visto rilasciato oppure procedura conclusa a motivo del ritiro della domanda</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Luogo e data della decisione</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -968,25 +967,25 @@ C-VIS
 <tr><td>Visto rilasciato su foglio separato (sì/no)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Vignetta di visto completata a mano</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Durata del soggiorno autorizzato dal visto</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">III. Dati da indicare in caso di interruzione dell’esame della domanda</td></tr>
+<tr><td colspan="11">**III.** **Dati da indicare in caso di interruzione dell’esame della domanda**</td></tr>
 <tr><td>Stato della procedura: interrotta</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Luogo e data della decisione</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Stato Schengen competente per l’esame della domanda</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td colspan="11">IV. Dati da indicare in caso di rifiuto del visto</td></tr>
+<tr><td colspan="11">**IV. Dati da indicare in caso di rifiuto del visto**</td></tr>
 <tr><td>Stato della procedura: rifiutato</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Luogo e data della decisione</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Motivi del rifiuto</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td colspan="11">V. Dati da indicare in caso di annullamento o revoca del visto</td></tr>
+<tr><td colspan="11">**V.** **Dati da indicare in caso di annullamento o revoca del visto**</td></tr>
 <tr><td>Stato della procedura: annullamento, revoca</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Luogo e data della decisione</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Motivi dell’annullamento o della revoca (inserire manualmente)</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VI. Dati da indicare in caso di proroga del visto</td></tr>
+<tr><td colspan="11">**VI. Dati da indicare in caso di proroga del visto**</td></tr>
 <tr><td>Stato della procedura: proroga</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Su mandato di rappresentanza di un altro Stato Schengen (sì/no)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Nome e indirizzo dell’autorità</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -997,7 +996,7 @@ C-VIS
 <tr><td>Territorio in cui il titolare del visto è autorizzato a spostarsi se la validità territoriale del visto prorogato differisce da quella del visto d’origine</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Tipo di visto prorogato</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Motivi della proroga</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VII. Collegamenti tra domande</td></tr>
+<tr><td colspan="11">**VII. Collegamenti tra domande**</td></tr>
 <tr><td>Fascicoli correlati (parentela: coniuge, figli)</td><td></td><td>A</td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Fascicoli correlati (gruppo)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Fascicoli successivi del richiedente</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>

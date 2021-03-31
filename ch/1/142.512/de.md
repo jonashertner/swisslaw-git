@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssys
 short: VISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20210101/de"
 
 (Visa-Informationssystem-Verordnung, VISV)
 
-vom 18. Dezember 2013 (Stand am 1. Januar 2021)
+vom 18. Dezember 2013 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -639,13 +639,12 @@ Die Datensicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^34-1] zum Bundesgesetz über den Datenschutz;
 - b.[^34-2] der Cyberrisikenverordnung vom 27. Mai 2020[^34-3];
-- c.[^34-4] den Weisungen des Bundesrates vom 16. Januar 2019[^34-5] über die IKT-Sicherheit in der Bundesverwaltung.
+- c.[^34-4] ...
 
 [^34-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^34-2]: Fassung gemäss Anhang Ziff. 3 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 [^34-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^34-4]: Fassung gemäss Anhang Ziff. 3 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^34-5]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^34-4]: Aufgehoben durch Anhang Ziff. 4 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 
@@ -919,7 +918,7 @@ Organisationseinheiten:
 
 <table>
 <tr><th>Bezeichnung der Datenfelder</th><th>SEM I Statistik</th><th>SEM II Visa</th><th>SEM III Asyl Anwendung EU-Dublin-Verordnung[^annex3-lvlu1-lvlu2-1]</th><th>SEM IV Asyl Asylverfahren</th><th>MIGRA und GREPO als Visa ausstellende Behörden</th><th>GREPO Grenzkontrolle</th><th>AV</th><th>EDA</th><th>KAPO im Hoheits-gebiet der Schweiz</th><th>EZ fedpol</th></tr>
-<tr><td colspan="11">I. Daten bei der Gesuchstellung</td></tr>
+<tr><td colspan="11">**I. Daten bei der Gesuchstellung**</td></tr>
 <tr><td>Gesuchsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Statusinformation: Gesuch gestellt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
@@ -952,7 +951,7 @@ Organisationseinheiten:
 <tr><td>Eintrag «entfällt», da Bereitstellung der Fingerabdrücke nicht möglich ist</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
 <tr><td>Eintrag «entfällt», da Bereitstellung der Fingerabdrücke nicht erforderlich ist</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
 <tr><td>Fingerabdrücke erfasst (ja/nein)</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td colspan="11">II. Daten bei der Visumerteilung</td></tr>
+<tr><td colspan="11">**II. Daten bei der Visumerteilung**</td></tr>
 <tr><td>Statusinformation: Visum erteilt oder Verfahren aufgrund von Rückzug des Gesuchs durch Gesuchsteller/in abgeschlossen</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -965,25 +964,25 @@ Organisationseinheiten:
 <tr><td>Visum auf einem separaten Formblatt erteilt (ja/nein)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Visumvignette handschriftlich ausgefüllt</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Dauer des durch das Visum erlaubten Aufenthalts</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">III. Daten bei Nichtfortführung der Prüfung des Gesuchs</td></tr>
+<tr><td colspan="11">**III. Daten bei Nichtfortführung der Prüfung des Gesuchs**</td></tr>
 <tr><td>Statusinformation: nicht fortgeführt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
 <tr><td>Schengen-Staat, der für die Prüfung des Gesuchs zuständig ist</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td colspan="11">IV. Daten bei Ablehnung des Visums</td></tr>
+<tr><td colspan="11">**IV. Daten bei Ablehnung des Visums**</td></tr>
 <tr><td>Statusinformation: abgelehnt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 <tr><td>Gründe für die Ablehnung</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td colspan="11">V. Daten bei Annullierung oder Aufhebung eines Visums</td></tr>
+<tr><td colspan="11">**V. Daten bei Annullierung oder Aufhebung eines Visums**</td></tr>
 <tr><td>Statusinformation: annulliert, aufgehoben</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Gründe für die Annullierung oder die Aufhebung (von Hand einzutragen)</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VI. Daten bei Verlängerung eines Visums</td></tr>
+<tr><td colspan="11">**VI. Daten bei Verlängerung eines Visums**</td></tr>
 <tr><td>Statusinformation: verlängert</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
@@ -994,7 +993,7 @@ Organisationseinheiten:
 <tr><td>Gebiet, in das die Visuminhaberin oder der Visuminhaber reisen darf, falls das verlängerte Visum eine andere räumliche Gültigkeit als das ursprüngliche Visum hat</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Kategorie des verlängerten Visums</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Gründe für die Verlängerung</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VII. Verknüpfungen zwischen Gesuchen</td></tr>
+<tr><td colspan="11">**VII. Verknüpfungen zwischen Gesuchen**</td></tr>
 <tr><td>Verknüpfte Gesuchsdatensätze (Verwandtschaft: Ehepartner/in, Kinder)</td><td></td><td>A</td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Verknüpfte Gesuchsdatensätze (Gruppe)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Aufeinanderfolgende Gesuchsdatensätze der Gesuchstellerin oder des Gesuchstellers</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
