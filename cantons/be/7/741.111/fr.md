@@ -4,13 +4,13 @@ number: "741.111"
 title: Ordonnance cantonale sur l’énergie
 short: OCEn
 language: fr
-version: 2016-09-01
-valid_until: 2021-03-31
-version_adopted: 2016-05-18
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 2011-10-26
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/741.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1077/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2168/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1077/pdf_file"
 
 (OCEn)
 
-du 26.10.2011 (état au 01.09.2016)
+du 26.10.2011 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -124,7 +124,7 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> L’Office des affaires communales et de l’organisation du territoire consulte l’Office de la coordination environnementale et de l’énergie pour la procédure d’examen préalable et d’approbation.
+<sup>1</sup> L’Office des affaires communales et de l’organisation du territoire consulte l’Office de l’environnement et de l’énergie pour la procédure d’examen préalable et d’approbation.
 
 ### 2.2 Bonus d’affectation dans le cas des plans d’affectation des communes
 
@@ -140,27 +140,27 @@ arrête:
 
 <sup>1</sup> Pour l’exécution de la législation sur l’approvisionnement en électricité, le canton collabore avec les entreprises d’approvisionnement en énergie concernées et les communes ainsi que, dans la mesure où cela s’avère nécessaire, avec les cantons voisins.
 
-<sup>2</sup> Si les gestionnaires de réseau, les consommateurs finaux et les producteurs d’électricité ne parviennent pas à régler un différend, l’Office de la coordination environnementale et de l’énergie tranche par voie de décision dans les limites de ses compétences.
+<sup>2</sup> Si les gestionnaires de réseau, les consommateurs finaux et les producteurs d’électricité ne parviennent pas à régler un différend, l’Office de l’environnement et de l’énergie tranche par voie de décision dans les limites de ses compétences.
 
 #### Art. 10
 
 **Procédure**
 
-<sup>1</sup> L’Office de la coordination environnementale et de l’énergie notifie sa décision portant sur la définition et l’attribution des zones de desserte et sur l’attribution des mandats de prestations au gestionnaire de réseau, au propriétaire du réseau et aux communes concernées.
+<sup>1</sup> L’Office de l’environnement et de l’énergie notifie sa décision portant sur la définition et l’attribution des zones de desserte et sur l’attribution des mandats de prestations au gestionnaire de réseau, au propriétaire du réseau et aux communes concernées.
 
-<sup>2</sup> Avant qu’un mandat de prestations ne soit défini, attribué et adjugé pour la première fois et en cas de modification, l’Office de la coordination environnementale et de l’énergie consulte toutes les entreprises d’approvisionnement en énergie et toutes les communes concernées.
+<sup>2</sup> Avant qu’un mandat de prestations ne soit défini, attribué et adjugé pour la première fois et en cas de modification, l’Office de l’environnement et de l’énergie consulte toutes les entreprises d’approvisionnement en énergie et toutes les communes concernées.
 
 #### Art. 11
 
 **Cadastre des zones de desserte**
 
-<sup>1</sup> L’Office de la coordination environnementale et de l’énergie établit un cadastre des zones de desserte permettant d’identifier le gestionnaire de réseau à qui une zone de desserte a été attribuée ainsi que le propriétaire du réseau. Le cadastre est public.
+<sup>1</sup> L’Office de l’environnement et de l’énergie établit un cadastre des zones de desserte permettant d’identifier le gestionnaire de réseau à qui une zone de desserte a été attribuée ainsi que le propriétaire du réseau. Le cadastre est public.
 
 #### Art. 12
 
 **Obligation en matière d’information**
 
-<sup>1</sup> Le gestionnaire de réseau et le propriétaire de réseau communiquent à l’Office de la coordination environnementale et de l’énergie les changements des conditions de propriété ou de gestion planifiés ou prévisibles et font éventuellement une proposition pour modifier la définition et l’attribution des zones de desserte.
+<sup>1</sup> Le gestionnaire de réseau et le propriétaire de réseau communiquent à l’Office de l’environnement et de l’énergie les changements des conditions de propriété ou de gestion planifiés ou prévisibles et font éventuellement une proposition pour modifier la définition et l’attribution des zones de desserte.
 
 #### Art. 13
 
@@ -510,7 +510,7 @@ arrête:
 
 **Réglementation contractuelle**
 
-<sup>1</sup> La Direction des travaux publics, des transports et de l’énergie peut convenir d’objectifs en termes de consommation à moyen ou à long terme avec des gros consommateurs ou avec des groupes de gros consommateurs dans le cadre des buts fixés par le Conseil-exécutif. Elle prend alors en considération l’efficacité avec laquelle l’énergie est utilisée au moment où ces objectifs sont convenus ainsi que l’évolution prévisible de la situation des consommateurs au niveau technique et économique.
+<sup>1</sup> La Direction de l'économie, de l'énergie et de l'environnement peut convenir d’objectifs en termes de consommation à moyen ou à long terme avec des gros consommateurs ou avec des groupes de gros consommateurs dans le cadre des buts fixés par le Conseil-exécutif. Elle prend alors en considération l’efficacité avec laquelle l’énergie est utilisée au moment où ces objectifs sont convenus ainsi que l’évolution prévisible de la situation des consommateurs au niveau technique et économique.
 
 <sup>2</sup> Le contrat définit au moins
 
@@ -520,7 +520,7 @@ arrête:
 - d l’exemption des exigences minimales;
 - e la durée sur laquelle il porte.
 
-<sup>3</sup> La Direction des travaux publics, des transports et de l’énergie peut résilier le contrat par voie de décision si les objectifs de consommation ne sont pas atteints.
+<sup>3</sup> La Direction de l'économie, de l'énergie et de l'environnement peut résilier le contrat par voie de décision si les objectifs de consommation ne sont pas atteints.
 
 #### Art. 42
 
@@ -597,7 +597,7 @@ arrête:
 
 **Compétence et délais**
 
-<sup>1</sup> Les demandes de subventions cantonales doivent être déposées auprès de l’Office de la coordination environnementale et de l’énergie.
+<sup>1</sup> Les demandes de subventions cantonales doivent être déposées auprès de l’Office de l’environnement et de l’énergie.
 
 <sup>2</sup> Elles doivent être déposées avant le début des travaux ou de l’exécution de la mesure. Les demandes déposées après coup sont irrecevables.
 
@@ -637,7 +637,7 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif fixe périodiquement les montants forfaitaires.
 
-<sup>3</sup> L’Office de la coordination environnementale et de l’énergie peut conclure un contrat de prestations portant sur les indemnités et les tâches avec les régions d’aménagement et les conférences régionales. L’approbation de l’autorité compétente pour autoriser la dépense est réservée.
+<sup>3</sup> L’Office de l’environnement et de l’énergie peut conclure un contrat de prestations portant sur les indemnités et les tâches avec les régions d’aménagement et les conférences régionales. L’approbation de l’autorité compétente pour autoriser la dépense est réservée.
 
 #### Art. 54
 
@@ -659,7 +659,7 @@ arrête:
 
 **3. Garantie de qualité**
 
-<sup>1</sup> Une fois par an, les régions d’aménagement ou les conférences régionales fournissent à l’Office de la coordination environnementale et de l’énergie les documents suivants:
+<sup>1</sup> Une fois par an, les régions d’aménagement ou les conférences régionales fournissent à l’Office de l’environnement et de l’énergie les documents suivants:
 
 - a un rapport annuel (rapport indiquant l’affectation des heures de travail);
 - b un rapport d’activités;
@@ -697,7 +697,7 @@ arrête:
 
 <sup>1</sup> Les aides financières pour l’adaptation des bâtiments au sens de l’article 59 LCEn sont allouées s’il en résulte une amélioration d’au moins deux classes d’efficacité selon le CECB en ce qui concerne l’enveloppe du bâtiment et l’efficacité énergétique.
 
-<sup>2</sup> Sur demande écrite, l’Office de la coordination environnementale et de l’énergie fournit des renseignements aux locataires qui souhaitent savoir si l’objet qu’ils louent bénéficie d’une promesse de garantie d’aide financière ou a bénéficié d’une aide financière et quel en est le montant.
+<sup>2</sup> Sur demande écrite, l’Office de l’environnement et de l’énergie fournit des renseignements aux locataires qui souhaitent savoir si l’objet qu’ils louent bénéficie d’une promesse de garantie d’aide financière ou a bénéficié d’une aide financière et quel en est le montant.
 
 ## 6 Exécution
 
@@ -705,7 +705,7 @@ arrête:
 
 **Service compétent**
 
-<sup>1</sup> Le service de la Direction des travaux publics, des transports et de l’énergie qui est compétent pour exécuter la législation en matière d’énergie est l’Office de la coordination environnementale et de l’énergie.
+<sup>1</sup> Le service de la Direction de l'économie, de l'énergie et de l'environnement qui est compétent pour exécuter la législation en matière d’énergie est l’Office de l’environnement et de l’énergie.
 
 #### Art. 61
 
@@ -729,13 +729,13 @@ arrête:
 
 **Dérogations**
 
-<sup>1</sup> L’Office de la coordination environnementale et de l’énergie statue sur les demandes de dérogations
+<sup>1</sup> L’Office de l’environnement et de l’énergie statue sur les demandes de dérogations
 
 - a aux dispositions sur l’utilisation de l’énergie au sens de l’article 36 LCEn,
 - b à l’obligation d’adaptation pour les monuments historiques au sens de l’article 38 LCEn,
 - c aux dispositions sur les chauffages à l’extérieur au sens de l’article 48, alinéa 2 LCEn.
 
-<sup>2</sup> S’agissant des demandes de dérogation au sens de l’article 38 LCEn, l’Office de la coordination environnementale et de l’énergie consulte le Service cantonal des monuments historiques.
+<sup>2</sup> S’agissant des demandes de dérogation au sens de l’article 38 LCEn, l’Office de l’environnement et de l’énergie consulte le Service cantonal des monuments historiques.
 
 ## 7 Dispositions transitoires et dispositions finales
 

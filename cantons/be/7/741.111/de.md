@@ -4,13 +4,13 @@ number: "741.111"
 title: Kantonale Energieverordnung
 short: KEnV
 language: de
-version: 2016-09-01
-valid_until: 2021-03-31
-version_adopted: 2016-05-18
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 2011-10-26
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/741.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1077/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2168/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1077/pdf_file"
 
 (KEnV)
 
-vom 26.10.2011 (Stand 01.09.2016)
+vom 26.10.2011 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -124,7 +124,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Amt für Gemeinden und Raumordnung hört das Amt für Umweltkoordination und Energie im Vorprüfungs- und Genehmigungsverfahren an.
+<sup>1</sup> Das Amt für Gemeinden und Raumordnung hört das Amt für Umwelt und Energie im Vorprüfungs- und Genehmigungsverfahren an.
 
 ### 2.2 Nutzungsbonus bei kommunalen Nutzungsplänen
 
@@ -140,27 +140,27 @@ beschliesst:
 
 <sup>1</sup> Der Kanton arbeitet beim Vollzug der Gesetzgebung über die Stromversorgung mit den betroffenen Energieversorgungsunternehmen, den Gemeinden und soweit nötig mit den Nachbarkantonen zusammen.
 
-<sup>2</sup> Können sich Netzbetreiber, Endverbraucherinnen, Endverbraucher, Elektrizitätserzeugerinnen und Elektrizitätserzeuger über eine Streitfrage nicht einigen, entscheidet das Amt für Umweltkoordination und Energie im Rahmen seiner Zuständigkeit über die Streitfrage mit Verfügung.
+<sup>2</sup> Können sich Netzbetreiber, Endverbraucherinnen, Endverbraucher, Elektrizitätserzeugerinnen und Elektrizitätserzeuger über eine Streitfrage nicht einigen, entscheidet das Amt für Umwelt und Energie im Rahmen seiner Zuständigkeit über die Streitfrage mit Verfügung.
 
 #### Art. 10
 
 **Verfahren**
 
-<sup>1</sup> Das Amt für Umweltkoordination und Energie eröffnet seine Verfügung betreffend Bezeichnung und Zuteilung der Netzgebiete und Erteilung von Leistungsaufträgen dem Netzbetreiber, dem Netzeigentümer und den betroffenen Gemeinden.
+<sup>1</sup> Das Amt für Umwelt und Energie eröffnet seine Verfügung betreffend Bezeichnung und Zuteilung der Netzgebiete und Erteilung von Leistungsaufträgen dem Netzbetreiber, dem Netzeigentümer und den betroffenen Gemeinden.
 
-<sup>2</sup> Vor der erstmaligen Bezeichnung, Zuteilung und Erteilung eines Leistungsauftrags und bei einer Änderung hört das Amt für Umweltkoordination und Energie alle betroffenen Energieversorgungsunternehmen und Gemeinden an.
+<sup>2</sup> Vor der erstmaligen Bezeichnung, Zuteilung und Erteilung eines Leistungsauftrags und bei einer Änderung hört das Amt für Umwelt und Energie alle betroffenen Energieversorgungsunternehmen und Gemeinden an.
 
 #### Art. 11
 
 **Kataster der Netzgebiete**
 
-<sup>1</sup> Das Amt für Umweltkoordination und Energie führt einen Kataster der Netzgebiete, aus dem ersichtlich ist, welchen Netzbetreibern die Gebiete zugeteilt sind und wer in diesen Gebieten das Eigentum am Netz hat. Der Kataster ist öffentlich.
+<sup>1</sup> Das Amt für Umwelt und Energie führt einen Kataster der Netzgebiete, aus dem ersichtlich ist, welchen Netzbetreibern die Gebiete zugeteilt sind und wer in diesen Gebieten das Eigentum am Netz hat. Der Kataster ist öffentlich.
 
 #### Art. 12
 
 **Mitteilungspflicht**
 
-<sup>1</sup> Die Netzbetreiber und Netzeigentümer teilen dem Amt für Umweltkoordination und Energie geplante oder absehbare Änderungen der Eigentums- oder Betriebsverhältnisse mit und stellen gegebenenfalls Antrag zur Änderung der Bezeichnung und Zuteilung der Netzgebiete.
+<sup>1</sup> Die Netzbetreiber und Netzeigentümer teilen dem Amt für Umwelt und Energie geplante oder absehbare Änderungen der Eigentums- oder Betriebsverhältnisse mit und stellen gegebenenfalls Antrag zur Änderung der Bezeichnung und Zuteilung der Netzgebiete.
 
 #### Art. 13
 
@@ -510,7 +510,7 @@ beschliesst:
 
 **Vertragliche Regelung**
 
-<sup>1</sup> Die Bau-, Verkehrs- und Energiedirektion kann im Rahmen der vom Regierungsrat vorgegebenen Ziele mit einzelnen oder mit Gruppen von Grossverbrauchern mittel- und langfristige Verbrauchsziele vereinbaren. Sie berücksichtigt dabei die Effizienz des Energieeinsatzes zum Zeitpunkt der Zielfestlegung und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann im Rahmen der vom Regierungsrat vorgegebenen Ziele mit einzelnen oder mit Gruppen von Grossverbrauchern mittel- und langfristige Verbrauchsziele vereinbaren. Sie berücksichtigt dabei die Effizienz des Energieeinsatzes zum Zeitpunkt der Zielfestlegung und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher.
 
 <sup>2</sup> Im Vertrag werden mindestens festgelegt:
 
@@ -520,7 +520,7 @@ beschliesst:
 - d Befreiung von den Minimalanforderungen,
 - e Vertragsdauer.
 
-<sup>3</sup> Die Bau-, Verkehrs- und Energiedirektion kann den Vertrag durch Verfügung kündigen, wenn die Verbrauchsziele nicht erreicht werden.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann den Vertrag durch Verfügung kündigen, wenn die Verbrauchsziele nicht erreicht werden.
 
 #### Art. 42
 
@@ -597,7 +597,7 @@ beschliesst:
 
 **Zuständigkeit und Termine**
 
-<sup>1</sup> Gesuche um Staatsbeiträge sind beim Amt für Umweltkoordination und Energie einzureichen.
+<sup>1</sup> Gesuche um Staatsbeiträge sind beim Amt für Umwelt und Energie einzureichen.
 
 <sup>2</sup> Sie sind vor Baubeginn oder Durchführung der Massnahme einzureichen. Auf später eingereichte Gesuche wird nicht eingetreten.
 
@@ -637,7 +637,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat legt periodisch die Höhe der Pauschalbeiträge fest.
 
-<sup>3</sup> Das Amt für Umweltkoordination und Energie kann mit den Planungsregionen und Regionalkonferenzen einen Leistungsvertrag über Abgeltungen und Aufgaben abschliessen. Vorbehalten bleibt die Zustimmung der für die Bewilligung der Ausgabe zuständigen Behörde.
+<sup>3</sup> Das Amt für Umwelt und Energie kann mit den Planungsregionen und Regionalkonferenzen einen Leistungsvertrag über Abgeltungen und Aufgaben abschliessen. Vorbehalten bleibt die Zustimmung der für die Bewilligung der Ausgabe zuständigen Behörde.
 
 #### Art. 54
 
@@ -659,7 +659,7 @@ beschliesst:
 
 **3. Qualitätssicherung**
 
-<sup>1</sup> Die Planungsregionen oder Regionalkonferenzen reichen dem Amt für Umweltkoordination und Energie jährlich folgende Dokumente ein:
+<sup>1</sup> Die Planungsregionen oder Regionalkonferenzen reichen dem Amt für Umwelt und Energie jährlich folgende Dokumente ein:
 
 - a Jahresrapport (Stundenrapport),
 - b Tätigkeitsbericht,
@@ -697,7 +697,7 @@ beschliesst:
 
 <sup>1</sup> Finanzhilfen an Gebäudeanpassungen nach Artikel 59 KEnG werden gewährt, wenn eine Verbesserung um mindestens zwei Effizienzklassen des GEAK hinsichtlich Gebäudehülle und Gesamtenergieeffizienz erreicht wird.
 
-<sup>2</sup> Das Amt für Umweltkoordination und Energie erteilt Mieterinnen und Mietern auf schriftliche Anfrage hin Auskunft darüber, ob und in welcher Höhe Finanzhilfen an ihr Mietobjekt zugesichert oder ausbezahlt worden sind.
+<sup>2</sup> Das Amt für Umwelt und Energie erteilt Mieterinnen und Mietern auf schriftliche Anfrage hin Auskunft darüber, ob und in welcher Höhe Finanzhilfen an ihr Mietobjekt zugesichert oder ausbezahlt worden sind.
 
 ## 6 Vollzug
 
@@ -705,7 +705,7 @@ beschliesst:
 
 **Zuständige Stelle**
 
-<sup>1</sup> Zuständige Stelle der Bau-, Verkehrs- und Energiedirektion für den Vollzug der Energiegesetzgebung ist das Amt für Umweltkoordination und Energie.
+<sup>1</sup> Zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion für den Vollzug der Energiegesetzgebung ist das Amt für Umwelt und Energie.
 
 #### Art. 61
 
@@ -729,13 +729,13 @@ beschliesst:
 
 **Ausnahmen**
 
-<sup>1</sup> Das Amt für Umweltkoordination und Energie entscheidet über Ausnahmen
+<sup>1</sup> Das Amt für Umwelt und Energie entscheidet über Ausnahmen
 
 - a von den Vorschriften über die Energienutzung gemäss Artikel 36 KEnG,
 - b von der Anpassungspflicht für Baudenkmäler gemäss Artikel 38 KEnG,
 - c für Heizungen im Freien gemäss Artikel 48 Absatz 2 KEnG.
 
-<sup>2</sup> Zu Ausnahmegesuchen nach Artikel 38 KEnG hört das Amt für Umweltkoordination und Energie die kantonale Denkmalpflege an.
+<sup>2</sup> Zu Ausnahmegesuchen gemäss Artikel 38 KEnG hört das Amt für Umwelt und Energie die kantonale Denkmalpflege an.
 
 ## 7 Übergangs- und Schlussbestimmungen
 
