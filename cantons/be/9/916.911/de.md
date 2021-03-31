@@ -4,13 +4,12 @@ number: "916.911"
 title: Kantonale Verordnung über die Tierarzneimittel
 short: KTAMV
 language: de
-version: 2012-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-09-21
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2011-09-21
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.911"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/586/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2202/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/586/pdf_file"
 
 (KTAMV)
 
-vom 21.09.2011 (Stand 01.01.2012)
+vom 21.09.2011 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -45,9 +44,9 @@ beschliesst:
 
 **Vollzugsorgan**
 
-<sup>1</sup> Der Veterinärdienst ist das zuständige Vollzugsorgan nach Artikel 30 der eidgenössischen Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimittelverordnung, TAMV)[^2-1].
+<sup>1</sup> Das Amt für Veterinärwesen ist das zuständige Vollzugsorgan nach Artikel 30 der eidgenössischen Verordnung vom 18. August 2004 über die Tierarzneimittel (Tierarzneimittelverordnung, TAMV)[^2-1].
 
-[^2-1]: SR 812.212.27
+[^2-1]: SR [812.212.27](https://db.clex.ch/link/Bund/812.212.27/de)
 
 ## 2 Bewilligung für den Detailhandel mit Tierarzneimitteln
 
@@ -55,7 +54,7 @@ beschliesst:
 
 #### Art. 3
 
-<sup>1</sup> Folgende Betriebe, die Tierarzneimittel der Abgabekategorien A bis D abgeben, benötigen eine Bewilligung des Veterinärdienstes:
+<sup>1</sup> Folgende Betriebe, die Tierarzneimittel der Abgabekategorien A bis D abgeben, benötigen eine Bewilligung des Amtes für Veterinärwesen:
 
 - a tierärztliche Privatapotheken,
 - b Tierspitalapotheken,
@@ -78,9 +77,9 @@ beschliesst:
 <sup>1</sup> Die fachliche Qualifikation der verantwortlichen Person muss die folgenden Bewilligungen, Aus- oder Weiterbildungen umfassen:
 
 - a in tierärztlichen Privatapotheken und anderen Detailhandelsbetrieben, deren Arzneimittelsortiment zu einem überwiegenden Teil aus Tierarzneimitteln besteht, eine kantonale Berufsausübungsbewilligung als Tierärztin oder Tierarzt, Apothekerin oder Apotheker oder Drogistin oder Drogist,
-- b in Tierspitalapotheken ein eidgenössisches oder eidgenössisch anerkanntes ausländisches Apothekerdiplom oder, wenn Tierarzneimittel nicht selbst hergestellt und nur für laufende Behandlungen direkt an Tierhalterinnen oder Tierhalter abgegeben werden, ein entsprechendes Tierarztdiplom,
-- c in Zoofachgeschäften eine vom Bundesamt für Veterinärwesen (BVET) genehmigte Ausbildung,
-- d in Imkerfachgeschäften ein vom BVET genehmigter Kursbesuch und regelmässige Weiterbildung.
+- b in Tierspitalapotheken ein eidgenössisches oder eidgenössisch anerkanntes ausländisches Apothekerdiplom oder, wenn Tierarzneimittel nicht selbst hergestellt und nur für laufende Behandlungen direkt an Tierhalterinnen und Tierhalter abgegeben werden, ein entsprechendes Tierarztdiplom,
+- c in Zoofachgeschäften eine vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) genehmigte Ausbildung,
+- d in Imkerfachgeschäften ein vom BLV genehmigter Kursbesuch und regelmässige Weiterbildung.
 
 #### Art. 6
 
@@ -110,7 +109,7 @@ beschliesst:
 - b geeignete Kühleinrichtungen für Tierarzneimittel, die entsprechend aufbewahrt werden müssen,
 - c eine gesonderte und verschliessbare Aufbewahrungsmöglichkeit nach den Vorgaben der Betäubungsmittelgesetzgebung für Betäubungsmittel und betäubungsmittelähnliche Tierarzneimittel.
 
-<sup>3</sup> Der Veterinärdienst kann die Einhaltung besonderer Sicherheitsvorkehrungen verlangen, wenn in einem Betrieb Betäubungsmittel aufbewahrt werden.
+<sup>3</sup> Das Amt für Veterinärwesen kann die Einhaltung besonderer Sicherheitsvorkehrungen verlangen, wenn in einem Betrieb Betäubungsmittel aufbewahrt werden.
 
 #### Art. 9
 
@@ -128,7 +127,7 @@ beschliesst:
 
 **Einreichung und Dokumentation von Gesuchen**
 
-<sup>1</sup> Gesuche sind beim Veterinärdienst einzureichen.
+<sup>1</sup> Gesuche sind beim Amt für Veterinärwesen einzureichen.
 
 <sup>2</sup> Tierärztliche Privatapotheken, Tierspitalapotheken, Apotheken und Drogerien haben folgende Unterlagen einzureichen:
 
@@ -137,12 +136,12 @@ beschliesst:
 
 <sup>3</sup> Zoo- oder Imkerfachgeschäfte haben folgende Unterlagen einzureichen:
 
-- a einen Nachweis über die absolvierte Ausbildung oder den besuchten Kurs, die vom BVET genehmigt wurden,
+- a einen Nachweis über die absolvierte Ausbildung oder den besuchten Kurs, die vom BLV genehmigt wurden,
 - b das Qualitätssicherungskonzept.
 
 <sup>4</sup> Die Imkerfachgeschäfte haben zusätzlich Nachweise über die bundesrechtlich vorgeschriebenen Weiterbildungen einzureichen.
 
-<sup>5</sup> Der Veterinärdienst kann bei Bedarf weitere Unterlagen verlangen.
+<sup>5</sup> Das Amt für Veterinärwesen kann bei Bedarf weitere Unterlagen verlangen.
 
 <sup>6</sup> Gesuche sind spätestens drei Monate vor der geplanten Betriebseröffnung einzureichen.
 
@@ -166,7 +165,7 @@ beschliesst:
 
 **Mitteilungspflicht**
 
-<sup>1</sup> Inhaberinnen und Inhaber einer Bewilligung haben dem Veterinärdienst innert 30 Tagen zu melden:
+<sup>1</sup> Inhaberinnen und Inhaber einer Bewilligung haben dem Amt für Veterinärwesen innert 30 Tagen zu melden:
 
 - a wesentliche Änderungen der Betriebsräumlichkeiten und -einrichtungen,
 - b Wechsel der fachlich verantwortlichen Person,
@@ -184,22 +183,22 @@ beschliesst:
 
 **Verwaltungsmassnahmen**
 
-<sup>1</sup> Der Veterinärdienst entzieht eine Bewilligung, wenn deren Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, aufgrund derer sie hätte verweigert werden müssen.
+<sup>1</sup> Das Amt für Veterinärwesen entzieht eine Bewilligung, wenn deren Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, aufgrund derer sie hätte verweigert werden müssen.
 
-<sup>2</sup> Bei Verletzung betrieblicher Pflichten oder anderer heilmittelrechtlicher Vorschriften kann der Veterinärdienst folgende Massnahmen gegen die Inhaberin oder den Inhaber einer Bewilligung anordnen:
+<sup>2</sup> Bei Verletzung betrieblicher Pflichten oder anderer heilmittelrechtlicher Vorschriften kann es folgende Massnahmen gegen die Inhaberin oder den Inhaber einer Bewilligung anordnen:
 
 - a eine Verwarnung,
 - b einen Verweis.
 
 <sup>3</sup> Bei schwerer oder wiederholter Verletzung betrieblicher Pflichten oder anderer heilmittelrechtlicher Vorschriften kann die Bewilligung entzogen werden.
 
-<sup>4</sup> Der Veterinärdienst kann zudem Verwaltungsmassnahmen nach Artikel 66 Absatz 2 HMG treffen.
+<sup>4</sup> Das Amt für Veterinärwesen kann zudem Verwaltungsmassnahmen nach Artikel 66 Absatz 2 HMG treffen.
 
 ## 4 Rechtspflege
 
 #### Art. 15
 
-<sup>1</sup> Gegen Verfügungen des Veterinärdienstes kann bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen des Amtes für Veterinärwesen kann bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
 <sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^15-1].
 

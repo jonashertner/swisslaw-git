@@ -4,13 +4,12 @@ number: "916.911"
 title: Ordonnance cantonale sur les médicaments vétérinaires
 short: OCMédV
 language: fr
-version: 2012-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-09-21
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2011-09-21
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.911"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/586/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2202/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/586/pdf_file"
 
 (OCMédV)
 
-du 21.09.2011 (état au 01.01.2012)
+du 21.09.2011 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -45,9 +44,9 @@ arrête:
 
 **Organe d’exécution**
 
-<sup>1</sup> Le Service vétérinaire est l’organe d’exécution compétent selon l’article 30 de l’ordonnance fédérale du 18 août 2004 sur les médicaments vétérinaires (OMédV)[^2-1].
+<sup>1</sup> L'Office des affaires vétérinaires est l’organe d’exécution compétent selon l’article 30 de l’ordonnance fédérale du 18 août 2004 sur les médicaments vétérinaires (OMédV)[^2-1].
 
-[^2-1]: RS 812.212.27
+[^2-1]: RS [812.212.27](https://db.clex.ch/link/Bund/812.212.27/fr)
 
 ## 2 Autorisation du commerce de détail des médicaments vétérinaires
 
@@ -55,7 +54,7 @@ arrête:
 
 #### Art. 3
 
-<sup>1</sup> Les établissements suivants, qui remettent des médicaments vétérinaires des catégories de remise A à D, doivent disposer d’une autorisation du Service vétérinaire:
+<sup>1</sup> Les établissements suivants, qui remettent des médicaments vétérinaires des catégories de remise A à D, doivent disposer d’une autorisation de l'Office des affaires vétérinaires:
 
 - a pharmacies vétérinaires privées,
 - b pharmacies de cliniques vétérinaires,
@@ -79,8 +78,8 @@ arrête:
 
 - a dans les pharmacies vétérinaires privées et les autres commerces de détail dont l’assortiment médicamenteux est majoritairement constitué de médicaments vétérinaires, une autorisation cantonale d’exercer la profession de vétérinaire, de pharmacien, de pharmacienne ou de droguiste;
 - b dans les pharmacies des cliniques vétérinaires, un diplôme fédéral de pharmacien ou de pharmacienne, ou un diplôme étranger de pharmacien ou de pharmacienne reconnu au niveau fédéral ou, si l’établissement ne fabrique pas lui-même les médicaments vétérinaires et que ceux-ci sont remis directement au détenteur ou à la détentrice d’animaux seulement pour des traitements en cours, un diplôme de vétérinaire correspondant;
-- c dans les commerces zoologiques, une formation validée par l’Office vétérinaire fédéral (OVF);
-- d dans les commerces apicoles, la fréquentation d’un cours validé par l’OVF et une formation continue régulière.
+- c dans les commerces zoologiques, une formation validée par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV);
+- d dans les commerces apicoles, la fréquentation d’un cours validé par l’OSAV et une formation continue régulière.
 
 #### Art. 6
 
@@ -110,7 +109,7 @@ arrête:
 - b installations frigorifiques adéquates pour les médicaments vétérinaires qui doivent être conservés à basse température;
 - c possibilités d’entreposage séparées et pouvant être fermées à clé pour les stupéfiants et les médicaments vétérinaires analogues, conformément aux prescriptions de la législation sur les stupéfiants.
 
-<sup>3</sup> Le Service vétérinaire peut exiger des mesures de sécurité spéciales, si des stupéfiants sont conservés dans un établissement.
+<sup>3</sup> L'Office des affaires vétérinaires peut exiger des mesures de sécurité spéciales, si des stupéfiants sont conservés dans un établissement.
 
 #### Art. 9
 
@@ -128,7 +127,7 @@ arrête:
 
 **Dépôt et dossier de demande**
 
-<sup>1</sup> Les demandes doivent être adressées au Service vétérinaire.
+<sup>1</sup> Les demandes doivent être adressées à l'Office des affaires vétérinaires.
 
 <sup>2</sup> Les pharmacies vétérinaires privées, les pharmacies de cliniques vétérinaires, les pharmacies et les drogueries doivent fournir les documents suivants:
 
@@ -137,12 +136,12 @@ arrête:
 
 <sup>3</sup> Les commerces zoologiques et apicoles doivent fournir les documents suivants:
 
-- a une attestation qu’une formation ou un cours validé par l’OVF a été suivi,
+- a une attestation qu’une formation ou un cours validé par l’OSAV a été suivi,
 - b le concept d’assurance-qualité.
 
 <sup>4</sup> Les commerces apicoles doivent en outre prouver que les cours de formation continue prescrits par la Confédération ont été suivis.
 
-<sup>5</sup> Si nécessaire, le Service vétérinaire peut exiger d’autres documents.
+<sup>5</sup> Si nécessaire, l'Office des affaires vétérinaires peut exiger d’autres documents.
 
 <sup>6</sup> Les demandes doivent être présentées au plus tard trois mois avant la date prévue de l’ouverture de l’établissement.
 
@@ -166,7 +165,7 @@ arrête:
 
 **Obligation d’annoncer**
 
-<sup>1</sup> Les titulaires d’une autorisation doivent annoncer au Service vétérinaire dans les 30 jours
+<sup>1</sup> Les titulaires d’une autorisation doivent annoncer à l'Office des affaires vétérinaires dans les 30 jours
 
 - a les modifications importantes des locaux ou des installations,
 - b le changement de la personne qualifiée responsable,
@@ -184,22 +183,22 @@ arrête:
 
 **Mesures administratives**
 
-<sup>1</sup> Le Service vétérinaire peut retirer l’autorisation si les conditions requises pour son octroi ne sont plus remplies ou s’il constate, ultérieurement, qu’elle n’aurait pas dû être délivrée.
+<sup>1</sup> L'Office des affaires vétérinaires peut retirer l’autorisation si les conditions requises pour son octroi ne sont plus remplies ou s’il constate, ultérieurement, qu’elle n’aurait pas dû être délivrée.
 
-<sup>2</sup> En cas de violation du devoir de diligence lié à l’entreprise ou de prescriptions du droit régissant les produits thérapeutiques, le Service vétérinaire peut ordonner les mesures suivantes à l’encontre du titulaire de l’autorisation:
+<sup>2</sup> En cas de violation du devoir de diligence lié à l’entreprise ou de prescriptions du droit régissant les produits thérapeutiques, il peut ordonner les mesures suivantes à l’encontre du titulaire de l’autorisation:
 
 - a un avertissement,
 - b un blâme.
 
 <sup>3</sup> L’autorisation peut être retirée en cas de violation grave ou répétée du devoir de diligence lié à l’entreprise ou de prescriptions du droit régissant les produits thérapeutiques.
 
-<sup>4</sup> Le Service vétérinaire peut de surcroît prendre des mesures administratives en vertu de l’article 66, alinéa 2 LPTh.
+<sup>4</sup> L'Office des affaires vétérinaires peut de surcroît prendre des mesures administratives en vertu de l’article 66, alinéa 2 LPTh.
 
 ## 4 Voies de droit
 
 #### Art. 15
 
-<sup>1</sup> Les décisions du Service vétérinaire peuvent faire l’objet d’un recours auprès de la Direction de l’économie publique.
+<sup>1</sup> Les décisions de l'Office des affaires vétérinaires peuvent faire l’objet d’un recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^15-1].
 
