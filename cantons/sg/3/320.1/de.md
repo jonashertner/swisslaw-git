@@ -4,13 +4,13 @@ number: "320.1"
 title: Gesetz über die Spitalplanung und -finanzierung
 short: SPFG
 language: de
-version: 2017-01-01
-valid_until: 2021-03-31
-version_adopted: 2016-06-28
+version: 2021-04-01
+valid_until: 2024-06-30
+version_adopted: 2021-02-02
 adopted: 2012-01-31
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2168/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3135/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2168/pdf_file"
 
 (SPFG)
 
-vom 31.01.2012 (Stand 01.01.2017)
+vom 31.01.2012 (Stand 01.04.2021)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -287,12 +287,13 @@ als Gesetz:[^ingress-3]
 
 **Zusätzliche kantonale Beiträge**
 
-<sup>1</sup> Wo kostendeckende Vergütungssysteme fehlen, können den Spitälern mit Standort im Kanton St.Gallen Beiträge an die ungedeckten Kosten gewährt werden für:
+<sup>1</sup> Wo kostendeckende Vergütungssysteme fehlen, können den Spitälern und weiteren Leistungserbringern mit Standort im Kanton St.Gallen Beiträge an die ungedeckten Kosten gewährt werden für:
 
-- a) versorgungspolitisch sinnvolle und notwendige ambulante Pflichtleistungen der obligatorischen Krankenpflegeversicherung;
-- b) versorgungspolitisch sinnvolle und notwendige ambulante oder stationäre Pflichtleistungen der Unfall-, Invaliden- und Militärversicherung;
+- a) versorgungspolitisch notwendige ambulante Pflichtleistungen der obligatorischen Krankenpflegeversicherung;
+- b) versorgungspolitisch notwendige ambulante oder stationäre Pflichtleistungen der Unfall-, Invaliden- und Militärversicherung;
 - c) Leistungen innovativer Versorgungsmodelle der Psychiatrie;
-- d) Nichtpflichtleistungen im Rahmen neuer Untersuchungs- und Behandlungsmethoden.
+- d) Nichtpflichtleistungen im Rahmen neuer Untersuchungs- und Behandlungsmethoden;
+- e) Sicherstellung der regionalen Notfallversorgung.
 
 <sup>2</sup> Beiträge können gewährt werden, wenn:
 
