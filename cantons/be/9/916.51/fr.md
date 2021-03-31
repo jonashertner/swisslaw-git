@@ -4,13 +4,13 @@ number: "916.51"
 title: Ordonnance cantonale sur les épizooties
 short: OCE
 language: fr
-version: 2017-07-01
-valid_until: 2021-03-31
-version_adopted: 2017-05-17
+version: 2021-04-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-17
 adopted: 1999-11-03
 in_force: 2000-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1290/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2200/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1290/pdf_file"
 
 (OCE)
 
-du 03.11.1999 (état au 01.07.2017)
+du 03.11.1999 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -46,9 +46,9 @@ arrête:
 
 #### Art. 2
 
-**Service vétérinaire cantonal**
+**Office des affaires vétérinaires**
 
-<sup>1</sup> Le Service vétérinaire cantonal exécute les dispositions régissant la lutte contre les épizooties, dans la mesure où les législations fédérale et cantonale n'en attribuent pas la compétence à d'autres organes.
+<sup>1</sup> L'Office des affaires vétérinaires exécute les dispositions régissant la lutte contre les épizooties, dans la mesure où les législations fédérale et cantonale n'en attribuent pas la compétence à d'autres organes.
 
 <sup>2</sup> Il coordonne son activité d'exécution en matière de zoonoses (art. 1<sup>er</sup>, 1<sup>er</sup> al., lit. a LFE[^2-1]) avec l'Office du médecin cantonal et le Laboratoire cantonal, et en cas d'épizooties du gibier ou des poissons, avec les Inspections de la chasse et de la pêche.
 
@@ -60,7 +60,7 @@ arrête:
 
 **Vétérinaires officiels**
 
-<sup>1</sup> Afin d’assurer une exécution efficace, le Service vétérinaire cantonal nomme le nombre requis de vétérinaires officiels, ainsi que leurs suppléants ou suppléantes.
+<sup>1</sup> Afin d’assurer une exécution efficace, l'Office des affaires vétérinaires nomme le nombre requis de vétérinaires officiels, ainsi que leurs suppléants ou suppléantes.
 
 #### Art. 4–5
 
@@ -70,7 +70,7 @@ arrête:
 
 **Commissaires des ruchers**
 
-<sup>1</sup> Le Service vétérinaire cantonal nomme, d’entente avec les fédérations cantonales d’apiculture, le nombre requis de commissaires des ruchers régionaux. La partie francophone du canton constitue une région.
+<sup>1</sup> L'Office des affaires vétérinaires nomme, d’entente avec les fédérations cantonales d’apiculture, le nombre requis de commissaires des ruchers régionaux. La partie francophone du canton constitue une région.
 
 <sup>2</sup> Les commissaires des ruchers conseillent et soutiennent, dans leur région, le ou la vétérinaire cantonal(e), ainsi que les inspecteurs et inspectrices des ruchers, dans la lutte contre les épizooties des abeilles.
 
@@ -78,7 +78,7 @@ arrête:
 
 **Inspecteurs et inspectrices des ruchers**
 
-<sup>1</sup> Le Service vétérinaire cantonal nomme le nombre d’inspecteurs ou d’inspectrices des ruchers nécessaire à une exécution efficace.
+<sup>1</sup> L'Office des affaires vétérinaires nomme le nombre d’inspecteurs ou d’inspectrices des ruchers nécessaire à une exécution efficace.
 
 <sup>2</sup> Il fixe le territoire attribué aux inspecteurs ou inspectrices des ruchers par communes et par régions.
 
@@ -92,7 +92,7 @@ arrête:
 
 **Personnes, autorités et services chargés de tâches spéciales de la police des épizooties**
 
-<sup>1</sup> Si besoin est, le Service vétérinaire cantonal peut faire appel à la collaboration de personnes, d'autorités et de services qui, en vertu de conditions particulières, peuvent accomplir des tâches spéciales pour la police des épizooties.
+<sup>1</sup> Si besoin est, l'Office des affaires vétérinaires peut faire appel à la collaboration de personnes, d'autorités et de services qui, en vertu de conditions particulières, peuvent accomplir des tâches spéciales pour la police des épizooties.
 
 <sup>2</sup> Les organes de surveillance de la chasse et de la pêche, qui remplissent des tâches de police des épizooties, ont la qualité d'agents ou d'agentes fonctionnaires de la police judiciaire.
 
@@ -102,7 +102,7 @@ arrête:
 
 <sup>1</sup> Les vétérinaires officiels, ainsi que les vétérinaires non officiels chargés de tâches de la police des épizooties touchent des indemnités au sens de l'ordonnance du 19 décembre 2012 sur les barèmes des indemnités perçues pour les actes accomplis dans le cadre de la lutte contre les épizooties (OHE)[^10-1]
 
-<sup>2</sup> Les indemnités destinées aux autres organes de la police des épizooties sont fixées dans des contrats de travail de droit public ou dans des conventions de prestations, sur la base des directives de l’Office de l’agriculture et de la nature (OAN).
+<sup>2</sup> Les indemnités destinées aux autres organes de la police des épizooties sont fixées dans des contrats de travail de droit public ou dans des conventions de prestations, sur la base des directives de l'Office des affaires vétérinaires.
 
 [^10-1]: RSB 811.941
 
@@ -139,23 +139,23 @@ arrête:
 
 **Accès aux données par les particuliers**
 
-<sup>1</sup> En vue de l'identification et de la restitution rapide d'animaux trouvés, le Service vétérinaire cantonal peut habiliter sur demande les organisations et les personnes suivantes conformément à l'OFE à consulter auprès de l'exploitant de la banque de données, au moyen du numéro de puce électronique ou de tatouage d'un chien, le nom officiel (nom de famille) et le prénom usuel (prénom), l'adresse postale et l'adresse électronique ainsi que le numéro de téléphone du détenteur ou de la détentrice du chien :
+<sup>1</sup> En vue de l'identification et de la restitution rapide d'animaux trouvés, l'Office des affaires vétérinaires peut habiliter sur demande les organisations et les personnes suivantes conformément à l'OFE à consulter auprès de l'exploitant de la banque de données, au moyen du numéro de puce électronique ou de tatouage d'un chien, le nom officiel (nom de famille) et le prénom usuel (prénom), l'adresse postale et l'adresse électronique ainsi que le numéro de téléphone du détenteur ou de la détentrice du chien :
 
 - a organisations de protection des animaux affiliées à l'Association faîtière des organisations bernoises de protection des animaux,
-- b refuges pour animaux disposant d'une autorisation d'exploiter du Service vétérinaire cantonal,
-- c vétérinaires disposant d'une autorisation d'exercer dans le canton de Berne.
+- b refuges pour animaux disposant d'une autorisation d'exploiter de l'Office des affaires vétérinaires,
+- c vétérinaires disposant d'une autorisation d'exercer dans le canton.
 
 <sup>2</sup> Les conditions nécessaires pour bénéficier de l'autorisation d'accès aux données sont l'aptitude de l'organisation ou de la personne requérante ainsi que la signature d'une déclaration de confidentialité.
 
-<sup>3</sup> Le Service vétérinaire cantonal tient une liste des organisations et personnes autorisées, et contrôle périodiquement si celles-ci remplissent toujours les conditions pour bénéficier de l'autorisation d'accès aux données. Il publie cette liste sur Internet.
+<sup>3</sup> L'Office des affaires vétérinaires tient une liste des organisations et personnes autorisées, et contrôle périodiquement si celles-ci remplissent toujours les conditions pour bénéficier de l'autorisation d'accès aux données. Il publie cette liste sur Internet.
 
 #### Art. 14
 
 **Estivage et hivernage**
 
-<sup>1</sup> L'OAN édicte des prescriptions générales d'estivage et d'hivernage au sens de l'article 32, 1<sup>er</sup> alinéa OFE[^14-1].
+<sup>1</sup> L'Office des affaires vétérinaires édicte des prescriptions générales d'estivage et d'hivernage au sens de l'article 32, 1<sup>er</sup> alinéa OFE[^14-1].
 
-[^14-1]: RS 916.401
+[^14-1]: RS [916.401](https://db.clex.ch/link/Bund/916.401/fr)
 
 ## 4 Produits animaux
 
@@ -177,15 +177,15 @@ arrête:
 
 **Autorisations**
 
-<sup>1</sup> Le Service vétérinaire cantonal délivre les autorisations d'exploitation prescrites pour les entreprises d'élimination ainsi que les autres autorisations requises en matière d'élimination par l'OESPA[^16-1].
+<sup>1</sup> L'Office des affaires vétérinaires délivre les autorisations d'exploitation prescrites pour les entreprises d'élimination ainsi que les autres autorisations requises en matière d'élimination par l'OESPA[^16-1].
 
-[^16-1]: RS 916.441.22
+[^16-1]: RS [916.441.22](https://db.clex.ch/link/Bund/916.441.22/fr)
 
 #### Art. 17
 
 **Répartition des frais**
 
-<sup>1</sup> L'OAN met les coûts occasionnés au canton par l'élimination de sous-produits animaux à la charge des centres collecteurs, au prorata des quantités annuelles de déchets que ceux-ci acheminent vers l'entreprise GZM Extraktionswerk AG. Ces mêmes coûts peuvent ensuite être répercutés sur les détenteurs et les détentrices d'animaux.
+<sup>1</sup> L'Office des affaires vétérinaires met les coûts occasionnés au canton par l'élimination de sous-produits animaux à la charge des centres collecteurs, au prorata des quantités annuelles de déchets que ceux-ci acheminent vers l'entreprise GZM Extraktionswerk AG. Ces mêmes coûts peuvent ensuite être répercutés sur les détenteurs et les détentrices d'animaux.
 
 <sup>2</sup> Les communes prennent en charge, à titre de frais généraux pour l'élimination des déchets, les dépenses consenties pour
 
@@ -205,9 +205,9 @@ arrête:
 
 **Epizooties nouvelles**
 
-<sup>1</sup> Si une maladie dangereuse et contagieuse, non mentionnée dans l'OFE[^18-1], se déclare, le Conseil-exécutif peut, sur proposition du Service vétérinaire cantonal ou de l'Office vétérinaire fédéral, ordonner les mesures nécessaires et fixer l'indemnité à verser par la Caisse des épizooties.
+<sup>1</sup> Si une maladie dangereuse et contagieuse, non mentionnée dans l'OFE[^18-1], se déclare, le Conseil-exécutif peut, sur proposition de l'Office des affaires vétérinaires ou de l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires, ordonner les mesures nécessaires et fixer l'indemnité à verser par la Caisse des épizooties.
 
-[^18-1]: RS 916.401
+[^18-1]: RS [916.401](https://db.clex.ch/link/Bund/916.401/fr)
 
 #### Art. 19
 
@@ -301,13 +301,13 @@ arrête:
 
 **Prestations aux frais de lutte**
 
-<sup>1</sup> Les frais d'examens de laboratoire pour les diagnostics et les contrôles de traitement effectués lors de la surveillance de troupeaux contaminés ou suspects sont à la charge de la Caisse des épizooties, mais en règle générale seulement si ces mesures ont été ordonnées par le Service vétérinaire cantonal.
+<sup>1</sup> Les frais d'examens de laboratoire pour les diagnostics et les contrôles de traitement effectués lors de la surveillance de troupeaux contaminés ou suspects sont à la charge de la Caisse des épizooties, mais en règle générale seulement si ces mesures ont été ordonnées par l'Office des affaires vétérinaires.
 
 #### Art. 25
 
 **Contributions aux services d'hygiène des animaux**
 
-<sup>1</sup> Il est possible de soutenir les services sanitaires des animaux, placés sous la surveillance de l’Office vétérinaire fédéral et au bénéfice d’une subvention fédérale, par une contribution de la Caisse des épizooties aux frais imputables; cette contribution ne peut pas dépasser la subvention fédérale maximale.
+<sup>1</sup> Il est possible de soutenir les services sanitaires des animaux, placés sous la surveillance de l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires et au bénéfice d’une subvention fédérale, par une contribution de la Caisse des épizooties aux frais imputables; cette contribution ne peut pas dépasser la subvention fédérale maximale.
 
 #### Art. 26
 
@@ -319,15 +319,15 @@ arrête:
 
 **Omission de vaccination**
 
-<sup>1</sup> Toute indemnisation pour pertes d'animaux est refusée lorsque le détenteur ou la détentrice des animaux a omis de les soumettre aux vaccinations ordonnées par le Service vétérinaire cantonal.
+<sup>1</sup> Toute indemnisation pour pertes d'animaux est refusée lorsque le détenteur ou la détentrice des animaux a omis de les soumettre aux vaccinations ordonnées par l'Office des affaires vétérinaires.
 
 #### Art. 28
 
 **Procédure d'estimation 1. En général**
 
-<sup>1</sup> Le Service vétérinaire cantonal désigne les experts estimateurs et estimatrices de cas en cas.
+<sup>1</sup> L'Office des affaires vétérinaires désigne les experts estimateurs et estimatrices de cas en cas.
 
-<sup>2</sup> Un procès-verbal des estimations sera tenu selon les instructions du Service vétérinaire cantonal.
+<sup>2</sup> Un procès-verbal des estimations sera tenu selon les instructions de l'Office des affaires vétérinaires.
 
 #### Art. 29
 
@@ -345,15 +345,15 @@ arrête:
 
 **Versement de l'indemnité**
 
-<sup>1</sup> Après réception du procès-verbal d'estimation, des notes de frais et des autres pièces justificatives éventuelles, le Service vétérinaire cantonal ordonne le versement de l'indemnité par la Caisse des épizooties.
+<sup>1</sup> Après réception du procès-verbal d'estimation, des notes de frais et des autres pièces justificatives éventuelles, l'Office des affaires vétérinaires ordonne le versement de l'indemnité par la Caisse des épizooties.
 
-<sup>2</sup> Lorsque l'indemnité dépasse le seuil de compétence financière du Service vétérinaire cantonal, ce dernier adresse une proposition appropriée à l'autorité compétente à ce niveau financier.
+<sup>2</sup> Lorsque l'indemnité dépasse le seuil de compétence financière de l'Office des affaires vétérinaires, ce dernier adresse une proposition appropriée à l'autorité compétente à ce niveau financier.
 
 #### Art. 31a
 
 **Rapport**
 
-<sup>1</sup> L’OAN établit chaque année un rapport sur l’alimentation, l’état de la fortune et l’affectation des ressources de la Caisse des épizooties.
+<sup>1</sup> L'Office des affaires vétérinaires établit chaque année un rapport sur l’alimentation, l’état de la fortune et l’affectation des ressources de la Caisse des épizooties.
 
 ## 7 Voies de droit
 
@@ -363,7 +363,7 @@ arrête:
 
 <sup>1</sup> Les décisions concernant le prélèvement de cotisations de détenteurs et détentrices d'animaux par la Caisse des épizooties peuvent faire l'objet d'une opposition.
 
-<sup>2</sup> Les décisions et les décisions sur opposition du Service vétérinaire cantonal et des organes de la police des épizooties qui lui sont subordonnés peuvent être attaquées dans un délai de 30 jours par voie de recours à la Direction de l'économie publique.
+<sup>2</sup> Les décisions et les décisions sur opposition de l'Office des affaires vétérinaires et des organes de la police des épizooties qui lui sont subordonnés peuvent être attaquées dans un délai de 30 jours par voie de recours à la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^32-1].
 

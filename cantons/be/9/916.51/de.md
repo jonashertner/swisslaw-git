@@ -4,13 +4,13 @@ number: "916.51"
 title: Kantonale Tierseuchenverordnung
 short: KTSV
 language: de
-version: 2017-07-01
-valid_until: 2021-03-31
-version_adopted: 2017-05-17
+version: 2021-04-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-17
 adopted: 1999-11-03
 in_force: 2000-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1290/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2200/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1290/pdf_file"
 
 (KTSV)
 
-vom 03.11.1999 (Stand 01.07.2017)
+vom 03.11.1999 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -46,13 +46,13 @@ beschliesst:
 
 #### Art. 2
 
-**Kantonaler Veterinärdienst**
+**Amt für Veterinärwesen**
 
-<sup>1</sup> Der Kantonale Veterinärdienst vollzieht die Bestimmungen über die Tierseuchenbekämpfung, sofern nach der eidgenössischen oder der kantonalen Gesetzgebung nicht andere Organe als zuständig erklärt werden.
+<sup>1</sup> Das Amt für Veterinärwesen vollzieht die Bestimmungen über die Tierseuchenbekämpfung, sofern nach der eidgenössischen oder der kantonalen Gesetzgebung nicht andere Organe als zuständig erklärt werden.
 
-<sup>2</sup> Er koordiniert seine Vollzugstätigkeit im Bereich der Zoonosen (Art. 1 Abs. 1 Bst. a TSG[^2-1]) mit dem Kantonsarztamt und dem Kantonalen Laboratorium, bei Wild- und Fischseuchen mit dem Jagd- und dem Fischereiinspektorat.
+<sup>2</sup> Es koordiniert seine Vollzugstätigkeit im Bereich der Zoonosen (Art. 1 Abs. 1 Bst. a TSG[^2-1]) mit dem Kantonsarztamt und dem Kantonalen Laboratorium, bei Wild- und Fischseuchen mit dem Jagd- und dem Fischereiinspektorat.
 
-<sup>3</sup> Er koordiniert die Tätigkeit der tierseuchenpolizeilichen Organe nach den Artikeln 3 bis 8 und legt ihre Aufgabenbereiche im Rahmen des TSG und der TSV fest.
+<sup>3</sup> Es koordiniert die Tätigkeit der tierseuchenpolizeilichen Organe nach den Artikeln 3 bis 8 und legt ihre Aufgabenbereiche im Rahmen des TSG und der TSV fest.
 
 [^2-1]: SR 916.40
 
@@ -60,7 +60,7 @@ beschliesst:
 
 **Amtliche Tierärztinnen und Tierärzte**
 
-<sup>1</sup> Der Kantonale Veterinärdienst ernennt die für einen wirksamen Vollzug erforderliche Anzahl amtlicher Tierärztinnen und Tierärzte sowie deren Stellvertreterinnen und Stellvertreter.
+<sup>1</sup> Das Amt für Veterinärwesen ernennt die für einen wirksamen Vollzug erforderliche Anzahl amtlicher Tierärztinnen und Tierärzte sowie deren Stellvertreterinnen und Stellvertreter.
 
 #### Art. 4–5
 
@@ -70,7 +70,7 @@ beschliesst:
 
 **Bienenkommissärinnen und Bienenkommissäre**
 
-<sup>1</sup> Der Kantonale Veterinärdienst ernennt im Einvernehmen mit den kantonalen Bienenzüchterverbänden die nötige Anzahl regionaler Bienenkommissärinnen und Bienenkommissäre. Der französischsprachige Kantonsteil bildet eine Region.
+<sup>1</sup> Das Amt für Veterinärwesen ernennt im Einvernehmen mit den kantonalen Bienenzüchterverbänden die nötige Anzahl regionaler Bienenkommissärinnen und Bienenkommissäre. Der französischsprachige Kantonsteil bildet eine Region.
 
 <sup>2</sup> Die Bienenkommissärinnen und Bienenkommissäre stehen der Kantonstierärztin oder dem Kantonstierarzt sowie den Bieneninspektorinnen und Bieneninspektoren in ihrer Region bei der Bekämpfung der Bienenseuchen beratend und unterstützend zur Seite.
 
@@ -78,9 +78,9 @@ beschliesst:
 
 **Bieneninspektorinnen und Bieneninspektoren**
 
-<sup>1</sup> Der Kantonale Veterinärdienst ernennt die für einen wirksamen Vollzug erforderliche Anzahl Bieneninspektorinnen und Bieneninspektoren.
+<sup>1</sup> Das Amt für Veterinärwesen ernennt die für einen wirksamen Vollzug erforderliche Anzahl Bieneninspektorinnen und Bieneninspektoren.
 
-<sup>2</sup> Er bestimmt die gebietsmässige Zuordnung der Gemeinden und Regionen zu den Bieneninspektorinnen und Bieneninspektoren.
+<sup>2</sup> Es bestimmt die gebietsmässige Zuordnung der Gemeinden und Regionen zu den Bieneninspektorinnen und Bieneninspektoren.
 
 #### Art. 8
 
@@ -92,7 +92,7 @@ beschliesst:
 
 **Personen, Behörden und Fachstellen mit besonderen tierseuchenpolizeilichen Aufgaben**
 
-<sup>1</sup> Soweit erforderlich, kann der Kantonale Veterinärdienst Personen, Behörden und Fachstellen beiziehen, die kraft besonderer Voraussetzungen Spezialaufgaben für die Tierseuchenpolizei erfüllen können.
+<sup>1</sup> Soweit erforderlich, kann das Amt für Veterinärwesen Personen, Behörden und Fachstellen beiziehen, die kraft besonderer Voraussetzungen Spezialaufgaben für die Tierseuchenpolizei erfüllen können.
 
 <sup>2</sup> Die Organe der Wildhut und der Fischereiaufsicht haben bei der Erfüllung von tierseuchenpolizeilichen Aufgaben die Eigenschaft von Beamtinnen und Beamten der gerichtlichen Polizei.
 
@@ -102,7 +102,7 @@ beschliesst:
 
 <sup>1</sup> Die amtlichen Tierärztinnen und Tierärzte sowie nichtamtliche Tierärztinnen und Tierärzte mit tierseuchenpolizeilichem Auftrag werden gemäss der Verordnung vom 19. Dezember 2012 über die Entschädigungsansätze für amtliche Verrichtungen im Rahmen der Tierseuchenbekämpfung (ETV)[^10-1] entschädigt.
 
-<sup>2</sup> Die Entschädigungen der übrigen tierseuchenpolizeilichen Organe sind aufgrund von Weisungen des Amtes für Landwirtschaft und Natur (LANAT) in öffentlich-rechtlichen Arbeitsverträgen oder in Leistungsvereinbarungen festzusetzen.
+<sup>2</sup> Die Entschädigungen der übrigen tierseuchenpolizeilichen Organe sind aufgrund von Weisungen des Amtes für Veterinärwesen in öffentlich-rechtlichen Arbeitsverträgen oder in Leistungsvereinbarungen festzusetzen.
 
 [^10-1]: BSG 811.941
 
@@ -139,23 +139,23 @@ beschliesst:
 
 **Datenzugriff durch Private**
 
-<sup>1</sup> Der Kantonale Veterinärdienst kann zur raschen Identifizierung und Rückgabe von Findeltieren auf Gesuch hin folgende Organisationen und Personen im Sinne der TSV ermächtigen, bei der Datenbankbetreiberin anhand der Mikrochip- oder Tätowiernummer eines Hundes den amtlichen Namen (Nachnamen) und den Rufnamen (Vornamen), die Wohn- und E-Mail-Adresse sowie die Telefonnummer der Hundehalterin oder des Hundehalters abzufragen:
+<sup>1</sup> Das Amt für Veterinärwesen kann zur raschen Identifizierung und Rückgabe von Findeltieren auf Gesuch hin folgende Organisationen und Personen im Sinne der TSV ermächtigen, bei der Datenbankbetreiberin anhand der Mikrochip- oder Tätowiernummer eines Hundes den amtlichen Namen (Nachnamen) und den Rufnamen (Vornamen), die Wohn- und E-Mail-Adresse sowie die Telefonnummer der Hundehalterin oder des Hundehalters abzufragen:
 
 - a Tierschutzorganisationen, die dem Dachverband Berner Tierschutzorganisationen angegliedert sind,
-- b Tierheime mit Betriebsbewilligung des Kantonalen Veterinärdienstes,
-- c Tierärztinnen und Tierärzte mit Berufsausübungsbewilligung im Kanton Bern.
+- b Tierheime mit Betriebsbewilligung des Amtes für Veterinärwesen,
+- c Tierärztinnen und Tierärzte mit Berufsausübungsbewilligung im Kanton.
 
 <sup>2</sup> Als Voraussetzungen für die Zugriffsberechtigung gelten die Eignung der gesuchstellenden Organisation oder Person sowie die Unterzeichnung einer Vertraulichkeitserklärung.
 
-<sup>3</sup> Der Kantonale Veterinärdienst führt eine Liste mit den berechtigten Organisationen und Personen und überprüft periodisch, ob die Voraussetzungen für die Zugriffsberechtigung noch erfüllt sind. Er veröffentlicht die Liste im Internet.
+<sup>3</sup> Das Amt für Veterinärwesen führt eine Liste mit den berechtigten Organisationen und Personen und überprüft periodisch, ob die Voraussetzungen für die Zugriffsberechtigung noch erfüllt sind. Es veröffentlicht die Liste im Internet.
 
 #### Art. 14
 
 **Sömmerung und Winterung**
 
-<sup>1</sup> Das LANAT erlässt Allgemeinverfügungen über Sömmerung und Winterung im Sinne von Artikel 32 Absatz 1 TSV[^14-1].
+<sup>1</sup> Das Amt für Veterinärwesen erlässt Allgemeinverfügungen über Sömmerung und Winterung im Sinne von Artikel 32 Absatz 1 TSV[^14-1].
 
-[^14-1]: SR 916.401
+[^14-1]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de)
 
 ## 4 Tierprodukte
 
@@ -177,15 +177,15 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Der Kantonale Veterinärdienst erteilt die Betriebsbewilligungen für Entsorgungsbetriebe und die übrigen nach VTNP[^16-1] im Bereich der Entsorgung vorgeschriebenen Bewilligungen.
+<sup>1</sup> Das Amt für Veterinärwesen erteilt die Betriebsbewilligungen für Entsorgungsbetriebe und die übrigen nach VTNP[^16-1] im Bereich der Entsorgung vorgeschriebenen Bewilligungen.
 
-[^16-1]: SR 916.441.22
+[^16-1]: SR [916.441.22](https://db.clex.ch/link/Bund/916.441.22/de)
 
 #### Art. 17
 
 **Verteilung der Kosten**
 
-<sup>1</sup> Das LANAT auferlegt den Sammelstellen die Kosten, die dem Kanton für die Entsorgung von tierischen Nebenprodukten entstehen, im Verhältnis zu den jährlich der GZM Extraktionswerk AG abgelieferten Abfallmengen. Die Kosten können auf die Tierhalterinnen und Tierhalter überwälzt werden.
+<sup>1</sup> Das Amt für Veterinärwesen auferlegt den Sammelstellen die Kosten, die dem Kanton für die Entsorgung von tierischen Nebenprodukten entstehen, im Verhältnis zu den jährlich der GZM Extraktionswerk AG abgelieferten Abfallmengen. Die Kosten können auf die Tierhalterinnen und Tierhalter überwälzt werden.
 
 <sup>2</sup> Die Gemeinden tragen im Rahmen der allgemeinen Aufwendungen für die Abfallbeseitigung die Kosten für
 
@@ -205,9 +205,9 @@ beschliesst:
 
 **Neu auftretende Tierseuchen**
 
-<sup>1</sup> Tritt eine übertragbare, bösartige Krankheit auf, die nicht in der TSV[^18-1]aufgeführt ist, so kann der Regierungsrat auf Antrag des Kantonalen Veterinärdienstes oder des Bundesamtes für Veterinär-wesen die notwendigen Massnahmen anordnen und die Entschädi-gungen zulasten der Tierseuchenkasse festsetzen.
+<sup>1</sup> Tritt eine übertragbare, bösartige Krankheit auf, die nicht in der TSV[^18-1]aufgeführt ist, so kann der Regierungsrat auf Antrag des Amtes für Veterinärwesen oder des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen die notwendigen Massnahmen anordnen und die Entschädigungen zulasten der Tierseuchenkasse festsetzen.
 
-[^18-1]: SR 916.401
+[^18-1]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de)
 
 #### Art. 19
 
@@ -300,13 +300,13 @@ beschliesst:
 
 **Leistungen an die Bekämpfungskosten**
 
-<sup>1</sup> Die Kosten der Laboruntersuchungen für Diagnose und Behandlungskontrollen zur Überwachung verseuchter oder verdächtiger Bestände gehen zulasten der Tierseuchenkasse, in der Regel jedoch nur soweit diese Massnahmen vom Kantonalen Veterinärdienst verfügt wurden.
+<sup>1</sup> Die Kosten der Laboruntersuchungen für Diagnose und Behandlungskontrollen zur Überwachung verseuchter oder verdächtiger Bestände gehen zulasten der Tierseuchenkasse, in der Regel jedoch nur soweit diese Massnahmen vom Amt für Veterinärwesen verfügt wurden.
 
 #### Art. 25
 
 **Beiträge an die Tiergesundheitsdienste**
 
-<sup>1</sup> Aus der Tierseuchenkasse können Tiergesundheitsdienste, die unter der Aufsicht des Bundesamtes für Veterinärwesen stehen und einen Bundesbeitrag erhalten, mit einem Beitrag an die anrechenbaren Kosten unterstützt werden, der den höchstmöglichen Bundesbeitrag nicht übersteigen darf.
+<sup>1</sup> Aus der Tierseuchenkasse können Tiergesundheitsdienste, die unter der Aufsicht des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen stehen und einen Bundesbeitrag erhalten, mit einem Beitrag an die anrechenbaren Kosten unterstützt werden, der den höchstmöglichen Bundesbeitrag nicht übersteigen darf.
 
 #### Art. 26
 
@@ -318,15 +318,15 @@ beschliesst:
 
 **Unterlassene Impfung**
 
-<sup>1</sup> Die Entschädigung für Tierverluste wird verweigert, wenn die Tierhalterin oder der Tierhalter die vom Kantonalen Veterinärdienst angeordneten Impfungen unterlassen hat.
+<sup>1</sup> Die Entschädigung für Tierverluste wird verweigert, wenn die Tierhalterin oder der Tierhalter die vom Amt für Veterinärwesen angeordneten Impfungen unterlassen hat.
 
 #### Art. 28
 
 **Schätzungsverfahren 1. Im Allgemeinen**
 
-<sup>1</sup> Der Kantonale Veterinärdienst bezeichnet die Schätzungsexpertinnen und -experten im Einzelfall.
+<sup>1</sup> Das Amt für Veterinärwesen bezeichnet die Schätzungsexpertinnen und -experten im Einzelfall.
 
-<sup>2</sup> Über die Schätzungen ist nach den Weisungen des Kantonalen Veterinärdienstes ein Protokoll aufzunehmen.
+<sup>2</sup> Über die Schätzungen ist nach den Weisungen des Amtes für Veterinärwesen ein Protokoll aufzunehmen.
 
 #### Art. 29
 
@@ -344,15 +344,15 @@ beschliesst:
 
 **Ausrichtung der Entschädigung**
 
-<sup>1</sup> Nach Eingang des Schätzungsprotokolls, der Rechnungen für die Kosten und allfälliger sonstiger Belege verfügt der Kantonale Veterinärdienst die Auszahlung der Entschädigung durch die Tierseuchenkasse.
+<sup>1</sup> Nach Eingang des Schätzungsprotokolls, der Rechnungen für die Kosten und allfälliger sonstiger Belege verfügt das Amt für Veterinärwesen die Auszahlung der Entschädigung durch die Tierseuchenkasse.
 
-<sup>2</sup> Übersteigt die Entschädigung die Finanzkompetenz des Kantonalen Veterinärdienstes, so stellt dieser der finanzkompetenten Behörde Antrag.
+<sup>2</sup> Übersteigt die Entschädigung die Finanzkompetenz des Amtes für Veterinärwesen, so stellt dieses der finanzkompetenten Behörde Antrag.
 
 #### Art. 31a
 
 **Berichterstattung**
 
-<sup>1</sup> Das LANAT erstellt jährlich einen Bericht über die Äufnung, den Vermögensstand und die Verwendung der Mittel der Tierseuchenkasse.
+<sup>1</sup> Das Amt für Veterinärwesen erstellt jährlich einen Bericht über die Äufnung, den Vermögensstand und die Verwendung der Mittel der Tierseuchenkasse.
 
 ## 7 Rechtspflege
 
@@ -362,7 +362,7 @@ beschliesst:
 
 <sup>1</sup> Gegen Verfügungen über Tierhalterbeiträge an die Tierseuchenkasse kann Einsprache erhoben werden.
 
-<sup>2</sup> Verfügungen und Einspracheentscheide des Kantonalen Veterinärdienstes und der ihm nachgeordneten tierseuchenpolizeilichen Organe können innert 30 Tagen mit Beschwerde bei der Volkswirtschaftsdirektion angefochten werden.
+<sup>2</sup> Verfügungen und Einspracheentscheide des Amtes für Veterinärwesen und der ihm nachgeordneten tierseuchenpolizeilichen Organe können innert 30 Tagen mit Beschwerde bei der Wirtschafts-, Energie- und Umweltdirektion angefochten werden.
 
 <sup>3</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^32-1].
 
