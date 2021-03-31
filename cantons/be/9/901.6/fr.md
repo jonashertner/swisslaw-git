@@ -4,13 +4,13 @@ number: "901.6"
 title: Loi sur l’encouragement de l’innovation
 short: LEI
 language: fr
-version: 2016-10-01
-valid_until: 2021-03-31
-version_adopted: 2016-01-27
+version: 2021-04-01
+valid_until: 2025-12-31
+version_adopted: 2021-02-17
 adopted: 2016-01-27
 in_force: 2016-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.6"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1146/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2188/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1146/pdf_file"
 
 (LEI)
 
-du 27.01.2016 (état au 01.10.2016)
+du 27.01.2016 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -79,7 +79,7 @@ arrête:
 
 **Rapports**
 
-<sup>1</sup> La Direction de l’économie publique informe régulièrement le public de l’exécution de la présente loi conformément aux dispositions de la législation sur l’information.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement informe régulièrement le public de l’exécution de la présente loi conformément aux dispositions de la législation sur l’information.
 
 <sup>2</sup> Elle informe la commission compétente du Grand Conseil des autres détails de l’exécution.
 
@@ -132,7 +132,7 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> Le service compétent de la Direction de l’économie publique définit les détails de l’encouragement dans un contrat de prestations.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement définit les détails de l’encouragement dans un contrat de prestations.
 
 <sup>2</sup> Le contrat de prestations règle les conséquences d’un excédent de couverture ainsi que l’interdiction de distribuer des bénéfices.
 

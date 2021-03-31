@@ -4,13 +4,13 @@ number: "901.6"
 title: Innovationsförderungsgesetz
 short: IFG
 language: de
-version: 2016-10-01
-valid_until: 2021-03-31
-version_adopted: 2016-01-27
+version: 2021-04-01
+valid_until: 2025-12-31
+version_adopted: 2021-02-17
 adopted: 2016-01-27
 in_force: 2016-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/901.6"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1146/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2188/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1146/pdf_file"
 
 (IFG)
 
-vom 27.01.2016 (Stand 01.10.2016)
+vom 27.01.2016 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -79,7 +79,7 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion orientiert die Öffentlichkeit gemäss den Vorgaben der Informationsgesetzgebung regelmässig über den Vollzug dieses Gesetzes.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion orientiert die Öffentlichkeit gemäss den Vorgaben der Informationsgesetzgebung regelmässig über den Vollzug dieses Gesetzes.
 
 <sup>2</sup> Sie orientiert die zuständige Kommission des Grossen Rats über weitere Einzelheiten des Vollzugs.
 
@@ -132,7 +132,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion legt die Einzelheiten der Förderung in einem Leistungsvertrag fest.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion legt die Einzelheiten der Förderung in einem Leistungsvertrag fest.
 
 <sup>2</sup> Der Leistungsvertrag regelt die Folgen einer Überdeckung sowie das Verbot der Gewinnausschüttung.
 
