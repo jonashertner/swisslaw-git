@@ -4,13 +4,12 @@ number: "761.611"
 title: "Loi sur l'imposition des véhicules routiers"
 short: LIV
 language: fr
-version: 2013-01-01
-valid_until: 2021-03-31
-version_adopted: 2012-09-23
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1998-03-12
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/761.611"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/377/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2236/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/377/pdf_file"
 
 (LIV)
 
-du 12.03.1998 (état au 01.01.2013)
+du 12.03.1998 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -253,9 +252,9 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> La Direction de la police et des affaires militaires veille à l'exécution des prescriptions relatives à la perception des taxes cantonales et des redevances fédérales sur la circulation routière.
+<sup>1</sup> La Direction de la sécurité veille à l'exécution des prescriptions relatives à la perception des taxes cantonales et des redevances fédérales sur la circulation routière.
 
-<sup>2</sup> Dans l'intérêt d'une perception simplifiée sur le plan suisse de la redevance sur les routes nationales, la Direction de la police et des affaires militaires peut conclure des contrats avec des tiers afin que ceux-ci se chargent notamment de la vente des vignettes autoroutières et de la comptabilité y relative.
+<sup>2</sup> Dans l'intérêt d'une perception simplifiée sur le plan suisse de la redevance sur les routes nationales, la Direction de la sécurité peut conclure des contrats avec des tiers afin que ceux-ci se chargent notamment de la vente des vignettes autoroutières et de la comptabilité y relative.
 
 #### Art. 19a
 

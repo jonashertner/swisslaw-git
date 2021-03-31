@@ -4,13 +4,12 @@ number: "761.611"
 title: Gesetz über die Besteuerung der Strassenfahrzeuge
 short: BSFG
 language: de
-version: 2013-01-01
-valid_until: 2021-03-31
-version_adopted: 2012-09-23
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1998-03-12
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/761.611"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/377/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2236/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/377/pdf_file"
 
 (BSFG)
 
-vom 12.03.1998 (Stand 01.01.2013)
+vom 12.03.1998 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -253,9 +252,9 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Polizei- und Militärdirektion vollzieht die Vorschriften über die Erhebung der kantonalen Strassenverkehrssteuer und der eidgenössischen Strassenverkehrsabgaben.
+<sup>1</sup> Die Sicherheitsdirektion vollzieht die Vorschriften über die Erhebung der kantonalen Strassenverkehrssteuer und der eidgenössischen Strassenverkehrsabgaben.
 
-<sup>2</sup> Die Polizei- und Militärdirektion kann im Interesse eines gesamtschweizerisch vereinfachten Bezuges der Nationalstrassenabgabe mit Dritten Verträge abschliessen und ihnen namentlich den Verkauf von Autobahnvignetten sowie das Abrechnungswesen übertragen.
+<sup>2</sup> Die Sicherheitsdirektion kann im Interesse eines gesamtschweizerisch vereinfachten Bezuges der Nationalstrassenabgabe mit Dritten Verträge abschliessen und ihnen namentlich den Verkauf von Autobahnvignetten sowie das Abrechnungswesen übertragen.
 
 #### Art. 19a
 
