@@ -3,20 +3,19 @@ canton: BE
 number: "916.31"
 title: Loi sur les chiens
 language: fr
-version: 2013-01-01
-valid_until: 2021-03-31
-version_adopted: 2012-03-27
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2012-03-27
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.31"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1075/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2199/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Loi sur les chiens
 
-du 27.03.2012 (état au 01.01.2013)
+du 27.03.2012 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -49,7 +48,7 @@ arrête:
 
 **Compétences**
 
-<sup>1</sup> Le service compétent de la Direction de l’économie publique exécute la présente loi, pour autant que la législation fédérale ou la législation cantonale n’attribue pas cette compétence à d’autres services.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement exécute la présente loi, pour autant que la législation fédérale ou la législation cantonale n’attribue pas cette compétence à d’autres services.
 
 <sup>2</sup> Les communes remplissent les tâches qui leur sont attribuées par la présente loi et par ses dispositions d’exécution, et assument les tâches de police communale en rapport avec les chiens.
 
@@ -59,7 +58,7 @@ arrête:
 
 <sup>1</sup> Les autorités cantonales et communales chargées de l’application de la présente loi se transmettent spontanément les mesures et les observations qui laissent supposer la nécessité d’une intervention au sens de l’article 12, alinéa 1, ainsi que l’identité du détenteur ou de la détentrice des chiens concernés.
 
-<sup>2</sup> Les tribunaux communiquent spontanément au service compétent de la Direction de l’économie publique tous les jugements portant sur les chiens qui attirent l’attention par leur comportement.
+<sup>2</sup> Les tribunaux communiquent spontanément au service compétent de la Direction de l’économie, de l’énergie et de l’environnement tous les jugements portant sur les chiens qui attirent l’attention par leur comportement.
 
 ## 2 Prévention générale des conflits impliquant des chiens
 
@@ -150,7 +149,7 @@ arrête:
 
 **Mesures**
 
-<sup>1</sup> Le service compétent de la Direction de l’économie publique applique les restrictions nécessaires à la détention de chiens dans des cas particuliers, lorsque
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement applique les restrictions nécessaires à la détention de chiens dans des cas particuliers, lorsque
 
 - a un chien a blessé un être humain ou un animal;
 - b un chien présente un comportement agressif excessif ou d’autres comportements particuliers;
@@ -198,7 +197,7 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions rendues par le service compétent de la Direction de l’économie publique en vertu de la présente loi sont susceptibles de recours auprès de la Direction de l’économie publique.
+<sup>1</sup> Les décisions rendues par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement en vertu de la présente loi sont susceptibles de recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> La perception de la taxe des chiens est soumise aux prescriptions de la législation sur les impôts communaux facultatifs.
 

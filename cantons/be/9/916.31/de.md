@@ -3,20 +3,19 @@ canton: BE
 number: "916.31"
 title: Hundegesetz
 language: de
-version: 2013-01-01
-valid_until: 2021-03-31
-version_adopted: 2012-03-27
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2012-03-27
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1075/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2199/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Hundegesetz
 
-vom 27.03.2012 (Stand 01.01.2013)
+vom 27.03.2012 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -49,7 +48,7 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion vollzieht dieses Gesetz, sofern durch die eidgenössische oder kantonale Gesetzgebung nicht andere Stellen als zuständig erklärt werden.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion vollzieht dieses Gesetz, sofern durch die eidgenössische oder kantonale Gesetzgebung nicht andere Stellen als zuständig erklärt werden.
 
 <sup>2</sup> Die Gemeinden erfüllen die ihnen durch dieses Gesetz und seine Ausführungserlasse zugewiesenen Aufgaben und nehmen im Zusammenhang mit Hunden ihre gemeindepolizeilichen Pflichten wahr.
 
@@ -59,7 +58,7 @@ beschliesst:
 
 <sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten kantonalen und kommunalen Behörden geben einander unaufgefordert Massnahmen und Feststellungen, die auf einen allfälligen Handlungsbedarf im Sinne von Artikel 12 Absatz 1 schliessen lassen, sowie die Personalien der Halterinnen und Halter der betroffenen Hunde bekannt.
 
-<sup>2</sup> Die Gerichte teilen der zuständigen Stelle der Volkswirtschaftsdirektion unaufgefordert alle Urteile mit, welche verhaltensauffällige Hunde betreffen.
+<sup>2</sup> Die Gerichte teilen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion unaufgefordert alle Urteile mit, welche verhaltensauffällige Hunde betreffen.
 
 ## 2 Allgemeine Prävention gegen Konflikte mit Hunden
 
@@ -150,7 +149,7 @@ beschliesst:
 
 **Massnahmen**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ordnet die erforderlichen Einschränkungen der Hundehaltung im Einzelfall an, wenn
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ordnet die erforderlichen Einschränkungen der Hundehaltung im Einzelfall an, wenn
 
 - a ein Hund Menschen oder Tiere verletzt hat,
 - b ein Hund übermässiges Aggressionsverhalten oder andere Verhaltensauffälligkeiten zeigt,
@@ -198,11 +197,11 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Volkswirtschaftsdirektion nach diesem Gesetz kann bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion nach diesem Gesetz kann bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
 <sup>2</sup> Für die Veranlagung der Hundetaxe gelten die Vorschriften der Steuergesetzgebung über die fakultativen Gemeindesteuern.
 
-<sup>3</sup> Im Übrigen richtet sich das Verfahren nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^14-1]).
+<sup>3</sup> Im Übrigen richtet sich das Verfahren nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^14-1].
 
 [^14-1]: BSG 155.21
 
