@@ -4,13 +4,12 @@ number: "832.521"
 title: Verordnung über den Vollzug der Eidgenössischen Verordnung über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer
 short: Chauffeurverordnung
 language: de
-version: 2011-01-01
-valid_until: 2021-03-31
-version_adopted: 2010-10-27
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1982-12-22
 in_force: 1983-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/832.521"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/264/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2177/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/264/pdf_file"
 
 (Chauffeurverordnung)
 
-vom 22.12.1982 (Stand 01.01.2011)
+vom 22.12.1982 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -29,14 +28,14 @@ auf Antrag der Volkswirtschaftsdirektion und der Polizeidirektion,
 
 beschliesst:
 
-[^ingress-1]: SR 822.22
-[^ingress-2]: Aufgehoben, jetzt G vom 26. 3. 2002 über die Steuerung von Finanzen und Leistungen, BSG 620.0
+[^ingress-1]: SR [822.222](https://db.clex.ch/link/Bund/822.222/de)
+[^ingress-2]: Aufgehoben, jetzt G vom 26. 3. 2002 über die Steuerung von Finanzen und Leistungen, BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 #### Art. 1
 
 **Zuständigkeit**
 
-<sup>1</sup> Kantonale Vollzugsbehörden sind das Polizeikorps des Kantons Bern (Kantonspolizei), die Polizeibehörden der Gemeinden und das Strassenverkehrs- und Schiffahrtsamt (SVSA).
+<sup>1</sup> Kantonale Vollzugsbehörden sind das Polizeikorps des Kantons Bern (Kantonspolizei), die Polizeibehörden der Gemeinden und das Strassenverkehrs- und Schifffahrtsamt (SVSA).
 
 #### Art. 2
 
@@ -50,15 +49,15 @@ beschliesst:
 
 #### Art. 3
 
-**Strassenverkehrs- und Schiffahrtsamt**
+**Strassenverkehrs- und Schifffahrtsamt**
 
-<sup>1</sup> Das Strassenverkehrs- und Schiffahrtsamt ist zuständig für die
+<sup>1</sup> Das Strassenverkehrs- und Schifffahrtsamt ist zuständig für die
 
-- a Kontrolle des Einbaus von Fahrtschreibern in die Fahrzeuge gemäss Artikel 33 der eidgenössischen Verordnung über Bau und Ausrüstung der Strassenfahrzeuge[^3-1] (BAV);
+- a Kontrolle des Einbaus von Fahrtschreibern in die Fahrzeuge gemäss Artikel 100 der eidgenössischen Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge (VTS)[^3-1];
 - b Anordnung von Administrativmassnahmen gemäss Artikel 30 ARV[^3-2].
 
-[^3-1]: SR 741.41
-[^3-2]: SR 822.22
+[^3-1]: SR [741.41](https://db.clex.ch/link/Bund/741.41/de)
+[^3-2]: SR [822.222](https://db.clex.ch/link/Bund/822.222/de)
 
 #### Art. 4
 
@@ -68,13 +67,13 @@ beschliesst:
 
 <sup>2</sup> Zu ihren Aufgaben gehören insbesondere:
 
-- a Erstellung eines Verzeichnisses der Betriebe, die im Kanton Bern ihren Geschäftssitz oder eine Zweigniederlassung haben und Fahrzeuge gemäss Artikel 3 ARV[^4-1] einsetzen;
+- a Erstellung eines Verzeichnisses der Betriebe, die im Kanton ihren Geschäftssitz oder eine Zweigniederlassung haben und Fahrzeuge gemäss Artikel 3 ARV[^4-1] einsetzen;
 - b Abgabe der Arbeitsbücher (Art. 17 Abs. 2 ARV), Verrechnung der Kosten und Versandspesen sowie Führung einer Kartei der jedem Betrieb abgegebenen Arbeitsbücher (Art. 31 Abs. 4 ARV);
 - c Erteilung, Verweigerung und Entzug von Sonderbewilligungen nach der Auswertung der Diagrammscheiben der Fahrtschreiber, Arbeitsbücher und Tagesrapporte (Art. 16 Abs. 2 und 5 und Art. 19 Abs. 1 und 3 ARV);
 - d Durchführung von Inspektionen in Betrieben, welche Führer von Fahrzeugen gemäss Artikel 3 ARV einsetzen (Art. 31 Abs. 3 ARV);
-- e Berichterstattung über den Vollzug der Chauffeurverordnung an die Polizei- und Militärdirektion (jährlich) und an das Bundesamt für Polizeiwesen (alle zwei Jahre).
+- e Berichterstattung über den Vollzug der Chauffeurverordnung an die Sicherheitsdirektion (jährlich) und an das Bundesamt für Polizeiwesen (alle zwei Jahre).
 
-[^4-1]: SR 822.22
+[^4-1]: SR [822.222](https://db.clex.ch/link/Bund/822.222/de)
 
 #### Art. 5
 
@@ -99,7 +98,7 @@ beschliesst:
 <sup>3</sup> Die Kantonspolizei hat alle Meldungen soweit erforderlich an die zuständigen Amtsstellen weiterzuleiten (Art. 16 Abs. 2 und 5 sowie Art. 29 und 30 ARV).
 
 [^6-1]: SR 741.41
-[^6-2]: SR 822.22
+[^6-2]: SR 822.222
 
 #### Art. 7
 
@@ -119,17 +118,17 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei und die ermächtigten Gemeinden sind verpflichtet, gegen Fehlbare bei der zuständigen Staatsanwaltschaft Strafanzeige einzureichen (Art. 28 ARV[^8-1]).
 
-[^8-1]: SR 822.22
+[^8-1]: SR [822.222](https://db.clex.ch/link/Bund/822.222/de)
 
 #### Art. 9
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Verfügungen, die gestützt auf diese Verordnung erlassen werden, kann bei der Polizei und Militärdirektion Beschwerde erhoben werden.
+<sup>1</sup> Gegen Verfügungen, die gestützt auf diese Verordnung erlassen werden, kann bei der Sicherheitsdirektion Beschwerde erhoben werden.
 
-<sup>2</sup> Das Beschwerdeverfahren richtet sich nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^9-1]
+<sup>2</sup> Das Beschwerdeverfahren richtet sich nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^9-1].
 
-[^9-1]: BSG 155.21
+[^9-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 #### Art. 10
 
@@ -144,7 +143,7 @@ beschliesst:
 
 <sup>3</sup> Die Kantonspolizei überwacht den Vollzug der kommunalen Bestimmungen (Art. 25 Abs. 3 ARV).
 
-[^10-1]: SR 822.22
+[^10-1]: SR 822.222
 
 #### Art. 11
 

@@ -4,13 +4,12 @@ number: "832.521"
 title: "Ordonnance d'exécution de l'ordonnance fédérale du 6 mai 1981 sur la durée du travail et du repos des conducteurs professionnels de véhicules automobiles"
 short: Ordonnance sur les chauffeurs
 language: fr
-version: 2011-01-01
-valid_until: 2021-03-31
-version_adopted: 2010-10-27
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1982-12-22
 in_force: 1983-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/832.521"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/264/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2177/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/264/pdf_file"
 
 (Ordonnance sur les chauffeurs)
 
-du 22.12.1982 (état au 01.01.2011)
+du 22.12.1982 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -29,8 +28,8 @@ sur proposition des Directions de la police et de l'économie publique,
 
 arrête:
 
-[^ingress-1]: RS 822.22
-[^ingress-2]: Abrogée, actuellement L du 26. 3. 2002 sur le pilotage des finances et des prestations (LFP); RSB 620.0
+[^ingress-1]: RS [822.222](https://db.clex.ch/link/Bund/822.222/fr)
+[^ingress-2]: Abrogée, actuellement L du 26. 3. 2002 sur le pilotage des finances et des prestations (LFP); RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 #### Art. 1
 
@@ -54,10 +53,11 @@ arrête:
 
 <sup>1</sup> L'Office de la circulation routière et de la navigation est compétent
 
-- a pour contrôler l'installation de tachygraphes sur les véhicules énumérés à l'article 33 de l'ordonnance fédérale sur la construction et l'équipement des véhicules routiers (OCE)[^3-1];
-- b pour ordonner les mesures administratives prévues à l'article 30 OTR.
+- a pour contrôler l'installation de tachygraphes sur les véhicules énumérés à l'article 100 de l'ordonnance fédérale du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers (OETV)[^3-1];
+- b pour ordonner les mesures administratives prévues à l'article 30 OTR[^3-2].
 
-[^3-1]: RS 741.41
+[^3-1]: RS [741.41](https://db.clex.ch/link/Bund/741.41/fr)
+[^3-2]: RS [822.222](https://db.clex.ch/link/Bund/822.222/fr)
 
 #### Art. 4
 
@@ -67,11 +67,11 @@ arrête:
 
 <sup>2</sup> Elle est notamment chargée:
 
-- a d'établir un registre des entreprises ayant leur siège social ou une succursale dans le canton de Berne et qui utilisent des véhicules mentionnés à l'article 3 OTR;
+- a d'établir un registre des entreprises ayant leur siège social ou une succursale dans le canton et qui utilisent des véhicules mentionnés à l'article 3 OTR;
 - b de distribuer les livrets de travail (art. 17, 2<sup>e</sup> al. OTR), de comptabiliser les frais et les frais de port, ainsi que d'établir une liste des livrets de travail distribués à chaque entreprise (art. 31, 4<sup>e</sup> al. OTR);
 - c de délivrer, refuser et retirer des autorisations spéciales après contrôle des disques d'enregistrement des tachygraphes, des livrets de travail et des rapports journaliers (art. 16, 2<sup>e</sup> et 5<sup>e</sup> al. et art. 19, 1<sup>er</sup> et 3<sup>e</sup> al. OTR);
 - d d'effectuer des contrôles dans les entreprises qui emploient des chauffeurs de véhicules mentionnés à l'article 3 OTR (art. 31, 3<sup>e</sup> al. OTR);
-- e d'établir le rapport d'exécution de l'ordonnance concernant les chauffeurs tous les ans à l'intention de la Direction de la police et des affaires militaires et tous les deux ans à l'intention de l'Office fédéral de la police.
+- e d'établir le rapport d'exécution de l'ordonnance concernant les chauffeurs tous les ans à l'intention de la Direction de la sécurité et tous les deux ans à l'intention de l'Office fédéral de la police.
 
 #### Art. 5
 
@@ -117,17 +117,17 @@ arrête:
 
 **Voies de recours**
 
-<sup>1</sup> Des recours contre les décisions prises en vertu de la présente ordonnance peuvent être portés devant la Direction de la police et des affaires militaires.
+<sup>1</sup> Des recours contre les décisions prises en vertu de la présente ordonnance peuvent être portés devant la Direction de la sécurité.
 
-<sup>2</sup> La procédure de recours est régie par les dispositions de la loi sur la justice administrative[^9-1].
+<sup>2</sup> La procédure de recours est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^9-1].
 
-[^9-1]: RSB 155.21
+[^9-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 #### Art. 10
 
 **Dispositions spéciales pour les chauffeurs de taxis**
 
-<sup>1</sup> Les communes présentant les caractéristiques d'une agglomération urbaine peuvent édicter des dispositions spéciales pour les chauffeurs de taxis qui exercent leur activité sur le territoire communal (art. 25, 1<sup>er</sup> al. OTR; lorsque le siège social est situé en dehors de la commune, l'autorité d'exécution communale se met en rapport avec la Police cantonale pour régler la manière de procéder.
+<sup>1</sup> Les communes présentant les caractéristiques d'une agglomération urbaine peuvent édicter des dispositions spéciales pour les chauffeurs de taxis qui exercent leur activité sur le territoire communal (art. 25, 1<sup>er</sup> al. OTR); lorsque le siège social est situé en dehors de la commune, l'autorité d'exécution communale se met en rapport avec la Police cantonale pour régler la manière de procéder.
 
 <sup>2</sup> Les communes doivent communiquer à la Police cantonale:
 
