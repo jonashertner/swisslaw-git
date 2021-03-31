@@ -3,11 +3,11 @@ sr: "331"
 title: Ordonnance du 29 septembre 2006 sur le casier judiciaire (Ordonnance VOSTRA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/694"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2006-09-29
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/694/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-694-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/694/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2006-694-20210401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210101/fr"
 
 (Ordonnance VOSTRA)
 
-du 29 septembre 2006 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 septembre 2006 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -737,15 +737,16 @@ L’extrait spécial contient en tout cas celles des données concernant les per
 
 En matière de sécurité des données, sont applicables:
 
-- a. l’ordonnance du 26 septembre 2003 sur l’informatique dans l’administration fédérale[^27-1];
-- b. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^27-2].
+- a.[^27-1] l’ordonnance du 27 mai 2020 sur les cyberrisques[^27-2];
+- b. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^27-3].
 
 <sup>2</sup> Les autorités raccordées adoptent, chacune dans leur ressort, les mesures organisationnelles et techniques nécessaires qui découlent de ces textes.
 
 <sup>3</sup> L’OFJ veille à ce que le respect des mesures de sécurité informatique soit contrôlé auprès des autorités raccordées.
 
-[^27-1]: [[RO 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 al. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)annexe ch. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 al. 1]. Voir actuellement l’O du 9 déc. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
-[^27-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^27-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^27-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^27-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 28
 
@@ -831,7 +832,7 @@ Annexe 1*[^t-1]*
 
 ## Types de données et champs de données
 
-[^t-1]: Mise à jour selon le ch. II al. 1 de l’O du 19 nov. 2014 ([RO 2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744)), le ch. I 10 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)) et le ch. II de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 19 nov. 2014 ([RO 2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744)), le ch. I 10 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)) et le ch. II de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766)).
 
 ### 1. Données concernant les personnes
 
@@ -1002,7 +1003,7 @@ Annexe 2*[^t-3]*
 
 ## Autorisations de traitement des données dans le casier judiciaire accordées aux autorités fédérales
 
-[^t-3]: Nouvelle teneur selon le ch. II 13 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour selon le ch. I 2 de l’O du 3 déc. 2010 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)), le ch. II de l’O du 14 nov. 2012 ([RO 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)), le ch. II al. 3 de l’O du 19 nov. 2014 ([RO 2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744)), le ch. I 10 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)), le ch. II de l’O du 30 nov. 2018 ([RO 2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766)) et l’art. 55 de l’O du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)).
+[^t-3]: Nouvelle teneur selon le ch. II 13 de l’annexe 4 à l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par le ch. I 2 de l’O du 3 déc. 2010 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)), le ch. II de l’O du 14 nov. 2012 ([RO 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)), le ch. II al. 3 de l’O du 19 nov. 2014 ([RO 2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744)), le ch. I 10 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)), le ch. II de l’O du 30 nov. 2018 ([RO 2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766)) et l’art. 55 de l’O du 24 juin 2020 sur la protection des personnes et des bâtiments relevant de la compétence fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546)).
 
 - C = Consultation
 - E = Enregistrement (enregistrement initial ou mutation) y compris consultation
@@ -1091,7 +1092,7 @@ Annexe 3*[^t-4]*
 
 ## Autorisations de traitement des données dans le casier judiciaire accordées aux autorités cantonales
 
-[^t-4]: Nouvelle teneur selon le ch. II de l’O du 14 déc. 2007 ([RO 2008 51](https://fedlex.data.admin.ch/eli/oc/2008/23)). Mise à jour selon le ch. II al. 3 de l’O du 19 nov. 2014 ([RO 2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744)), le ch. I 10 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)) et le ch. II de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 14 déc. 2007 ([RO 2008 51](https://fedlex.data.admin.ch/eli/oc/2008/23)). Mise à jour par le ch. II al. 3 de l’O du 19 nov. 2014 ([RO 2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744)), le ch. I 10 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)) et le ch. II de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766)).
 
 - C = Consultation
 - E = Enregistrement (enregistrement initial ou mutation) y compris consultation

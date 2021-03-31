@@ -3,11 +3,11 @@ sr: "331"
 title: Verordnung vom 29. September 2006 über das Strafregister (VOSTRA-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/694"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2006-09-29
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/694/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-694-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/694/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2006-694-20210401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210101/de"
 
 (VOSTRA-Verordnung)
 
-vom 29. September 2006 (Stand am 1. Januar 2021)
+vom 29. September 2006 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -738,15 +738,16 @@ Der Sonderprivatauszug enthält in jedem Fall folgende Daten aus dem Datensatz �
 
 Für die Gewährleistung der Datensicherheit gelten namentlich:
 
-- a. die Bundesinformatikverordnung vom 26. September 2003[^27-1];
-- b. die Verordnung vom 14. Juni 1993[^27-2] zum Bundesgesetz über den Datenschutz.
+- a.[^27-1] die Cyberrisikenverordnung vom 27. Mai 2020[^27-2];
+- b. die Verordnung vom 14. Juni 1993[^27-3] zum Bundesgesetz über den Datenschutz.
 
 <sup>2</sup> Die angeschlossenen Behörden treffen in ihrem Bereich die daraus resultierenden organisatorischen und technischen Massnahmen.
 
 <sup>3</sup> Das BJ sorgt dafür, dass die Einhaltung der Informatiksicherheitsmassnahmen bei den angeschlossenen Behörden kontrolliert wird.
 
-[^27-1]: [[AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)Art. 22 Abs. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Anhang Ziff. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)Art. 29 Abs. 1]. Siehe heute: die Bundesinformatikverordnung vom 9. Dez. 2011 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
-[^27-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^27-1]: Fassung gemäss Anhang Ziff. 15 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^27-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^27-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 28
 

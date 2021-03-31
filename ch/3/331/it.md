@@ -3,11 +3,11 @@ sr: "331"
 title: Ordinanza del 29 settembre 2006 sul casellario giudiziale (Ordinanza VOSTRA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/694"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2006-09-29
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/694/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2006-694-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/694/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2006-694-20210401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/694/20210101/it"
 
 (Ordinanza VOSTRA)
 
-del 29 settembre 2006 (Stato 1° gennaio 2021)
+del 29 settembre 2006 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -739,15 +739,16 @@ L’estratto specifico per privati riporta in ogni caso i seguenti dati personal
 
 Per garantire la sicurezza dei dati si applicano in particolare:
 
-- a. l’ordinanza del 26 settembre 2003[^27-1] sull’informatica nell’Amministrazione federale;
-- b. l’ordinanza del 14 giugno 1993[^27-2] relativa alla legge federalesulla protezione dei dati.
+- a.[^27-1] l’ordinanza del 27 maggio 2020[^27-2] sui ciber-rischi;
+- b. l’ordinanza del 14 giugno 1993[^27-3] relativa alla legge federalesulla protezione dei dati.
 
 <sup>2</sup> Le autorità collegate prendono, nel proprio settore, provvedimenti adeguati d’ordine organizzativo e tecnico.
 
 <sup>3</sup> L’UFG provvede affinché sia controllato, presso le autorità collegate, il rispetto dei provvedimenti di sicurezza informatica.
 
-[^27-1]: [[RU 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 cpv. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)all. n. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 cpv. 1]. Vedi ora l’O del 9 dic. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
-[^27-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^27-1]: Nuovo testo giusta l’all. n. 15 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^27-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^27-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 28
 
@@ -827,7 +828,7 @@ L’ordinanza del 1° dicembre 1999[^34-1] sul casellario giudiziale informatizz
 
 La presente ordinanza entra in vigore il 1° gennaio 2007.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 10 cpv. 1)
 
@@ -996,7 +997,7 @@ Allegato 1a*[^t-2]*
 - 6\.7 Descrizione dell’attività del privato presso il datore di lavoro, l’organizzazione o l’autorità competente per l’autorizzazione
 - 6\.8 Descrizione dell’attività del privato che richiede un’autorizzazione all’autorità competente per l’autorizzazione
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 8 cpv. 3, 10 cpv. 2)
 
@@ -1054,18 +1055,18 @@ M = Comunicazione senza consultazione
 <tr><td colspan="3">In caso di pena con la sospensione condizionale parziale, durata complessiva nonché durata della parte della pena con la sospensione condizionale</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="3">Ammontare e valuta delle multe, pene detentive sostitutive</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="3">Durata del periodo di prova</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
-<tr><td colspan="2">Tipo di misura</td><td colspan="3">E</td><td colspan="2">E</td><td colspan="5">A</td><td colspan="5">E</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
-<tr><td colspan="2">In caso di interdizione di esercitare una professione o un’attività e di divieto di avere contatti e di accedere ad aree determinate: contenuto secondo il dispositivo della sentenza, data d’inizio, durata secondo il dispositivo della sentenza, informazioni sulla sospensione dell’interdizione o del divieto (data di inizio e di fine dell’esecuzione, autorità che iscrive i dati), data di un’eventuale ripresa della decorrenza del termine e data prevista di fine dell’interdizione o del divieto</td><td colspan="3">E</td><td colspan="2">A</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
-<tr><td colspan="2">Durata (in giorni) del carcere preventivo computato</td><td colspan="3">E</td><td colspan="2">E</td><td colspan="5">A</td><td colspan="5">E</td><td colspan="5">A</td><td colspan="5">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
+<tr><td colspan="2">Tipo di misura</td><td colspan="3">E</td><td colspan="2">E</td><td colspan="5">A</td><td colspan="4">E</td><td colspan="6">A</td><td colspan="5">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
+<tr><td colspan="2">In caso di interdizione di esercitare una professione o un’attività e di divieto di avere contatti e di accedere ad aree determinate: contenuto secondo il dispositivo della sentenza, data d’inizio, durata secondo il dispositivo della sentenza, informazioni sulla sospensione dell’interdizione o del divieto (data di inizio e di fine dell’esecuzione, autorità che iscrive i dati), data di un’eventuale ripresa della decorrenza del termine e data prevista di fine dell’interdizione o del divieto</td><td colspan="3">E</td><td colspan="2">A</td><td colspan="5">A</td><td colspan="4">A</td><td colspan="6">A</td><td colspan="5">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
+<tr><td colspan="2">Durata (in giorni) del carcere preventivo computato</td><td colspan="3">E</td><td colspan="2">E</td><td colspan="5">A</td><td colspan="4">E</td><td colspan="6">A</td><td colspan="5">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="3">Menzione di un’eventuale norma di condotta o assistenza riabilitativa</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="3">Pene accessorie</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="3">Regole relative alla commisurazione della pena</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="3">In caso di espulsione: durata dell’espulsione secondo il dispositivo della sentenza</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="54">5. Dati su decisioni successive e decisioni d’esecuzione nonché dati relativi all’esecuzione</td></tr>
 <tr><td colspan="3">Numero della decisione (numero sistematico progressivo)</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="5">A</td><td colspan="11">A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="6">A</td><td colspan="3">–</td></tr>
-<tr><td colspan="3">Data della decisione, della notifica e del passaggio in giudicato</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="8">A</td><td colspan="4">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
-<tr><td colspan="3">Autorità giudicante</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="8">A</td><td colspan="4">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
-<tr><td colspan="3">Tipo di decisione</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="8">A</td><td colspan="4">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
+<tr><td colspan="3">Data della decisione, della notifica e del passaggio in giudicato</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="6">E</td><td colspan="7">A</td><td colspan="4">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
+<tr><td colspan="3">Autorità giudicante</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="6">E</td><td colspan="7">A</td><td colspan="4">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
+<tr><td colspan="3">Tipo di decisione</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="6">E</td><td colspan="7">A</td><td colspan="4">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
 <tr><td colspan="3">Data della liberazione</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
 <tr><td colspan="3">Pena eseguita, non eseguita</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
 <tr><td colspan="3">Misura (revoca, modifica o nuova misura)</td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="5">E</td><td colspan="6">A</td><td colspan="6">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">E</td><td colspan="3">M</td></tr>
@@ -1080,14 +1081,14 @@ M = Comunicazione senza consultazione
 <tr><td colspan="3">In caso di interdizione di esercitare una professione o un’attività e di divieto di avere contatti e di accedere ad aree determinate: dati di cui all’all. 1 n. 4.17, informazioni sull’interdizione o sul divieto cui si riferisce la decisione ulteriore, nuovo contenuto secondo il dispositivo della decisione, informazioni sulla nuova durata, data di passaggio in giudicato della modifica, data di sospensione dell’interdizione o del divieto, informazioni sulle misure di accompagnamento</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="5">A</td><td colspan="6">A</td><td colspan="5">A</td><td colspan="4">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="3">Per le espulsioni, dati relativi all’esecuzione rilevati successivamente: data di partenza effettiva o data di partenza stabilita nonché motivo della partenza</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="5">A</td><td colspan="6">A</td><td colspan="7">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="2">A</td><td colspan="2">E</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="5">–</td></tr>
 <tr><td colspan="54">6. Dati concernenti richieste a casellari giudiziali stranieri</td></tr>
-<tr><td colspan="3">Dati personali giusta il n. 1</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="4">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
-<tr><td colspan="3">Motivo della richiesta</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="4">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
-<tr><td colspan="3">Menzione di un eventuale arresto</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="4">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
-<tr><td colspan="3">Autorità richiedente e data della richiesta</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="4">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
-<tr><td colspan="3">Autorità straniera richiesta</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="4">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
+<tr><td colspan="3">Dati personali giusta il n. 1</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
+<tr><td colspan="3">Motivo della richiesta</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
+<tr><td colspan="3">Menzione di un eventuale arresto</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
+<tr><td colspan="3">Autorità richiedente e data della richiesta</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
+<tr><td colspan="3">Autorità straniera richiesta</td><td colspan="2">E</td><td colspan="4">E</td><td colspan="3">–</td><td colspan="6">E</td><td colspan="7">–</td><td colspan="2">–</td><td colspan="2"></td><td colspan="2">E</td><td colspan="2">E</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td colspan="4">–</td><td colspan="5">–</td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 8 cpv. 3, 10 cpv. 2)
 
@@ -1103,13 +1104,13 @@ M = Comunicazione senza consultazione
 
 <table>
 <tr><th></th><th colspan="6">Con accesso diretto (on line)</th><th colspan="5">Previa richiesta scritta</th></tr>
-<tr><th>Nome del campo di dati</th><th>Servizi di coordinamento (SCC)</th><th>Autorità della giustizia penale</th><th>Autorità preposte all’esecuzione penale</th><th>Polizia degli stranieri</th><th>Autorità competenti per la naturalizzazione a livello cantonale</th><th>Uffici della circolazione</th><th>Autorità tutorie[^annex3-lvlu1-1] e autorità competenti in materia di adozione</th><th>*Autorità comp**e**tenti per la priv**a**zione della libe**r**tà per**sonale a fini assiste**n**ziali*[^annex3-lvlu1-2]</th><th>Autorità competenti in materia di controlli di sicurezza relativi alle persone secondo la LMSI[^annex3-lvlu1-3]</th><th>Autorità competente in materia di grazia</th><th>Autorità competente in materia di amnistia</th></tr>
+<tr><th>Nome del campo di dati</th><th>Servizi di coordinamento (SCC)</th><th>Autorità della giustizia penale</th><th>Autorità preposte all’esecuzione penale</th><th>Polizia degli stranieri</th><th>Autorità competenti per la naturalizzazione a livello cantonale</th><th>Uffici della circolazione</th><th>Autorità tutorie[^annex3-lvlu1-1] e autorità competenti in materia di adozione</th><th>*Autorità competenti per la priva**zione della libertà per**sonale a fini assistenziali*[^annex3-lvlu1-2]</th><th>Autorità competenti in materia di controlli di sicurezza relativi alle persone secondo la LMSI[^annex3-lvlu1-3]</th><th>Autorità competente in materia di grazia</th><th>Autorità competente in materia di amnistia</th></tr>
 <tr><td colspan="12">1. Dati personali</td></tr>
 <tr><td>Numero d’identità (numero sistematico progressivo)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>*A*</td><td>A</td><td>A</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><th>Nome del campo di dati</th><th>Servizi di coordinamento (SCC)</th><th>Autorità della giustizia penale</th><th>Autorità preposte all’esecuzione penale</th><th>Polizia degli stranieri</th><th>Autorità competenti per la naturalizzazione a livello cantonale</th><th>Uffici della circolazione</th><th>Autorità tutorie e autorità competenti in materia di adozione</th><th>*Autorità comp**e**tenti per la priv**a**zione della libe**r**tà per**sonale a fini assiste**n**ziali*</th><th>Autorità competenti in materia di controlli di sicurezza relativi alle persone secondo la LMSI</th><th>Autorità competente in materia di grazia</th><th>Autorità competente in materia di amnistia</th></tr>
+<tr><th>Nome del campo di dati</th><th>Servizi di coordinamento (SCC)</th><th>Autorità della giustizia penale</th><th>Autorità preposte all’esecuzione penale</th><th>Polizia degli stranieri</th><th>Autorità competenti per la naturalizzazione a livello cantonale</th><th>Uffici della circolazione</th><th>Autorità tutorie e autorità competenti in materia di adozione</th><th>*Autorità competenti per la priva**zione della libertà per**sonale a fini assistenziali*</th><th>Autorità competenti in materia di controlli di sicurezza relativi alle persone secondo la LMSI</th><th>Autorità competente in materia di grazia</th><th>Autorità competente in materia di amnistia</th></tr>
 <tr><td>Cognome, cognome di nascita, nome</td><td>E</td><td>E</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>*A*</td><td>A</td><td>A</td><td>–</td></tr>
 <tr><td>Cognomi precedenti</td><td>E</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>*A*</td><td>A</td><td>A</td><td>–</td></tr>
 <tr><td>Data, luogo e Paese di nascita</td><td>E</td><td>E</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>*A*</td><td>A</td><td>A</td><td>–</td></tr>
