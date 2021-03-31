@@ -4,7 +4,7 @@ number: "211.12.1"
 title: RÈGLEMENT du 10.10.2018 d’application de la loi du 26 septembre 2017 d’organisation de la prévention et de la lutte contre la violence domestique (RLOVD)
 short: RLOVD
 language: fr
-version: 2018-11-01
+version: 2021-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.12.1?id=9f3b3650-736c-412f-9b90-c8063643e5f6"
 ---
 
@@ -71,7 +71,7 @@ arrête
 <sup>2</sup> Sur proposition de la hiérarchie des autorités et services concernés, le Conseil d'État désigne les autres membres de la Direction interservices, représentant :
 
 - a. le service en charge de la prévoyance et de l'aide sociales ;
-- b. le service en charge de la protection de la jeunesse ;
+- b. La Direction générale de l'enfance et de la jeunesse.
 - c. la Police cantonale ;
 - d. le Ministère public ;
 - e. éventuellement, d'autres services concernés.
@@ -130,7 +130,7 @@ arrête
 <sup>2</sup> La plateforme est composée de services de l'État et d'organismes qui, dans l'exercice de leurs tâches, sont amenés à déployer des interventions dans des situations de violence domestique, soit :
 
 - a. la Police cantonale ;
-- b. le service en charge de la protection de la jeunesse ;
+- b. La Direction générale de l'enfance et de la jeunesse.
 - c. le Centre LAVI, si la personne concernée y consent ;
 - d. le Centre d'accueil Malley Prairie ;
 - e. le Centre Prévention de l'Ale ;
@@ -140,7 +140,7 @@ arrête
 
 <sup>4</sup> Les modalités de fonctionnement de la plateforme seront précisées par voie de directive.
 
-<sup>5</sup> Dès l'activation du suivi, le BEFH est informé par l'entité qui a activé la plateforme du nom des parties, de la composition de la plateforme, ainsi que de la date de la première réunion par le biais d'un formulaire qu'il met à disposition.
+<sup>5</sup> Les membres de la plateforme transmettent au minimum une fois par année au BEFH un tableau anonymisé sur les situations traitées.
 
 <sup>6</sup> Le BEFH et les membres de la plateforme se réunissent au minimum une fois par an pour procéder à une analyse de l'efficacité des actions déployées durant l'année écoulée.
 
@@ -159,7 +159,7 @@ arrête
 
 <sup>1</sup> Les données échangées au cours des travaux de la plateforme sont utilisées exclusivement pour le suivi de la situation signalée.
 
-<sup>2</sup> Le membre de la plateforme qui est en contact avec la victime ou la personne auteure l'informe par écrit du fait que des données le concernant ont été traitées et dans quel but. Cette information doit avoir lieu au plus tard un an après le signalement, sauf si elle risque de compromettre une instruction pénale.
+<sup>2</sup> Le membre de la plateforme qui est en contact avec la victime ou la personne auteure l'informe par écrit du fait que des données la concernant ont été traitées et dans quel but. Cette information doit avoir lieu au plus tard un an après le signalement, sauf si elle risque de compromettre une instruction pénale ou si un intérêt privé prépondérant l'exige, notamment si l'information peut compromettre la sécurité de la victime.
 
 <sup>3</sup> Les données concernant les situations personnelles sont conservées sous clé, ou sous forme de fichier électronique sécurisé. Une journalisation des accès électroniques est implémentée.
 
@@ -245,7 +245,7 @@ arrête
 
 <sup>1</sup> Les partenaires désignés à l'article 15 de la loi[^18-1] transmettent au BEFH des données déjà anonymisées.
 
-<sup>2</sup> La transmission des données est en principe effectuée au moins deux fois par année.
+<sup>2</sup> La transmission des données est en principe effectuée au moins une fois par année.
 
 [^17-1]: Modif. 1 du 03.03.2021: Modification Al. 2; entrée en vigueur au 01.04.2021
 [^18-1]: Loi du 26.09.2017 d'organisation de la prévention et de la lutte contre la violence domestique [(BLV 211.12)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.12?id=0d5932f8-2b0d-478d-83ec-f68a77e943a1)
