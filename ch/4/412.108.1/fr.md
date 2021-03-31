@@ -4,11 +4,11 @@ title: "Ordonnance du 15 septembre 2017 sur les systèmes d'information dans le 
 short: OSFPrHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/574"
 language: fr
-version: 2020-01-01
+version: 2021-04-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-574-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-574-20210401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20200101/fr"
 
 (OSFPrHE)
 
-du 15 septembre 2017 (Etat le 1<sup>er</sup> janvier 2020)
+du 15 septembre 2017 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -406,15 +406,20 @@ Les droits des personnes concernées, notamment le droit d’accès et le droit 
 
 **Sécurité des données**
 
-<sup>1</sup> La sécurité des données et la sécurité informatique sont régies par la loi fédérale du 19 juin 1992 sur la protection des données[^21-1] et ses dispositions d’exécution, par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^21-2] et par les directives du Conseil fédéral du 1<sup>er</sup> juillet 2015 concernant la sécurité informatique dans l’administration fédérale[^21-3].
+<sup>1</sup>
+
+La sécurité des données et la sécurité informatique sont régies par:
+
+- a. la loi fédérale du 19 juin 1992 sur la protection des données[^21-1] et ses dispositions d’exécution;
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^21-2].[^21-3]
 
 <sup>2</sup> Le SEFRI édicte un concept de rôles et d’accès dans lequel il définit son organisation interne, les procédures de traitement des données et de contrôle, et les mesures de sécurité.
 
 <sup>3</sup> Il veille à ce que les dispositions régissant la sécurité informatique du système soient intégrées dans les conventions de prestations conclues avec des tiers.
 
 [^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^21-3]: [FF 2015 5313](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+[^21-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^21-3]: Nouvelle teneur selon l’annexe ch. 24 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 22
 

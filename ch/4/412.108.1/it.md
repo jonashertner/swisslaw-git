@@ -4,11 +4,11 @@ title: "Ordinanza del 15 settembre 2017 concernente i sistemi d'informazione nel
 short: O-SIFPU
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/574"
 language: it
-version: 2020-01-01
+version: 2021-04-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2017-574-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/574/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2017-574-20210401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/574/20200101/it"
 
 (O-SIFPU)
 
-del 15 settembre 2017 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 15 settembre 2017 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -402,15 +402,20 @@ I diritti delle persone interessate, in particolare il diritto d’accesso e il 
 
 **Sicurezza dei dati**
 
-<sup>1</sup> La sicurezza dei dati e la sicurezza informatica sono disciplinate dalla legge federale del 19 giugno 1992[^21-1] sulla protezione dei dati e le sue disposizioni esecutive, dall’ordinanza del 9 dicembre 2011[^21-2] sull’informatica nell’Amministrazione federale e dalle istruzioni del Consiglio federale del 1° luglio 2015[^21-3] sulla sicurezza TIC nell’Amministrazione federale.
+<sup>1</sup>
+
+La sicurezza dei dati e la sicurezza informatica sono disciplinate:
+
+- a. dalla legge federale del 19 giugno 1992[^21-1] sulla protezione dei dati e le sue disposizioni esecutive;
+- b. dall’ordinanza del 27 maggio 2020[^21-2] sui ciber-rischi.[^21-3]
 
 <sup>2</sup> La SEFRI stabilisce in un piano delle funzioni e degli accessi la propria organizzazione interna, le procedure di trattamento dei dati e di controllo e le misure di sicurezza.
 
 <sup>3</sup> Vigila affinché le disposizioni sulla sicurezza informatica del sistema siano integrate nelle convenzioni sulle prestazioni concluse con terzi.
 
 [^21-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^21-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^21-3]: [FF 2015 4787](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+[^21-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^21-3]: Nuovo testo giusta l’all. n. 24 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 22
 
