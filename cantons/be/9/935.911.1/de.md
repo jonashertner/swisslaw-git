@@ -3,20 +3,20 @@ canton: BE
 number: "935.911.1"
 title: Einführungsverordnung zur Bundesgesetzgebung in den Bereichen Reisendengewerbe und Konsumkredit
 language: de
-version: 2010-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-10-14
+version: 2021-04-01
+valid_until: 2022-02-28
+version_adopted: 2021-02-17
 adopted: 2003-10-29
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.911.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/617/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2212/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsverordnung zur Bundesgesetzgebung in den Bereichen Reisendengewerbe und Konsumkredit
 
-vom 29.10.2003 (Stand 01.01.2010)
+vom 29.10.2003 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -36,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter erteilt die Bewilligungen für Reisende nach Artikel 2 Absatz 1 Buchstaben a und b des Bundesgesetzes vom 23. März 2001 über das Gewerbe der Reisenden[^1-1].
 
-<sup>2</sup> Das Amt für Berner Wirtschaft (beco) erteilt die Bewilligungen für Schaustellergewerbe und Zirkusse sowie die Ermächtigungen für Unternehmen nach Artikel 2 Absatz 1 Buchstabe c bzw. Artikel 8 des Bundesgesetzes über das Gewerbe der Reisenden.
+<sup>2</sup> Das Amt für Wirtschaft (AWI) erteilt die Bewilligungen für Schaustellergewerbe und Zirkusse sowie die Ermächtigungen für Unternehmen nach Artikel 2 Absatz 1 Buchstabe c bzw. Artikel 8 des Bundesgesetzes über das Gewerbe der Reisenden.
 
 <sup>3</sup> Es vertritt den Kanton gegenüber dem Bund für die Belange des Vollzugs des Bundesgesetzes über das Gewerbe der Reisenden.
 
@@ -46,17 +46,17 @@ beschliesst:
 
 **Konsumkredit**
 
-<sup>1</sup> Das beco erteilt die Bewilligungen für die Gewährung und die Vermittlung von Konsumkrediten nach Artikel 39 des Bundesgesetzes vom 23. März 2001 über den Konsumkredit (KKG)[^2-1].
+<sup>1</sup> Das AWI erteilt die Bewilligungen für die Gewährung und die Vermittlung von Konsumkrediten nach Artikel 39 des Bundesgesetzes vom 23. März 2001 über den Konsumkredit (KKG)[^2-1].
 
 <sup>2</sup> Es verlangt die für die Beurteilung erforderlichen Unterlagen wie Auszüge aus dem Zentralstrafregister, dem Handelsregister oder dem Betreibungsregister.
 
-[^2-1]: SR 221.214.1
+[^2-1]: SR [221.214.1](https://db.clex.ch/link/Bund/221.214.1/de)
 
 #### Art. 3
 
 **Rechtspflege**
 
-<sup>1</sup> Beschwerden gegen Verfügungen der Regierungsstatthalterin oder des Regierungsstatthalters beurteilt die Volkswirtschaftsdirektion.
+<sup>1</sup> Beschwerden gegen Verfügungen der Regierungsstatthalterin oder des Regierungsstatthalters beurteilt die Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Im Übrigen gelten die Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^3-1].
 
