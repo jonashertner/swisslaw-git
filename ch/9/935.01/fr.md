@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 2012 portant sur l'obligation des prestat
 short: LPPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/509"
 language: fr
-version: 2013-09-01
+version: 2021-04-01
 adopted: 2012-12-14
 in_force: 2013-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/509/20130901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-509-20130901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20130901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/509/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2013-509-20210401-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20130901/fr"
 
 (LPPS)
 
-du 14 décembre 2012 (Etat le 1<sup>er</sup> septembre 2013)
+du 14 décembre 2012 (État le 1<sup>er</sup> avril 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu l’art. 95, al. 1, de la Constitution[^ingress-1], vu l’annexe III de l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes[^ingress-2] (accord sur la libre circulation des personnes), vu le message du Conseil fédéral du 4 avril 2012[^ingress-3],
+vu l’art. 95, al. 1, de la Constitution[^ingress-1], vu l’annexe III de l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^ingress-2] (accord sur la libre circulation des personnes), vu le message du Conseil fédéral du 4 avril 2012[^ingress-3],
 
 arrête:
 
@@ -43,16 +43,17 @@ Elle s’applique aux personnes qui remplissent les qualifications suivantes:
 - b. elles souhaitent fournir en Suisse, pendant une période maximale de 90 jours de travail effectifs par année civile, des prestations de services dans cette même profession réglementée;
 - c. elles peuvent, en application de l’annexe III de l’accord sur la libre circulation des personnes ou de l’annexe K de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE)[^1-1], se prévaloir de la directive 2005/36/CE[^1-2].
 
-<sup>3</sup> Le Conseil fédéral détermine quelles professions réglementées tombent dans le champ d’application de la loi. A cet effet, il consulte préalablement les cantons.
+<sup>3</sup> ...[^1-3]
 
 [^1-1]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^1-2]: Directive 2005/36/CE du Parlement européen et du Conseil du 7 sept. 2005 relative à la reconnaissance des qualifications professionnelles, dans la version qui lie la Suisse conformément à l’annexe III, section A, point 1, de l’Ac. sur la libre circulation des personnes.
+[^1-2]: Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, dans la version qui lie la Suisse conformément à l’annexe III, section A, point 1, de l’Ac. sur la libre circulation des personnes.
+[^1-3]: Abrogé par le ch. I de la LF du 25 septembre 2020, avec effet au 1<sup>er</sup> avril 2021 ([RO 2021 135](https://fedlex.data.admin.ch/eli/oc/2021/135); [FF 2020 3577](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 2
 
 **Obligation de déclarer**
 
-<sup>1</sup> Les prestataires de services doivent procéder à une déclaration auprès du Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI) avant le début de leur activité professionnelle en Suisse.
+<sup>1</sup> Les prestataires de services doivent procéder à une déclaration auprès du Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) avant le début de leur activité professionnelle en Suisse.
 
 <sup>2</sup> Le Conseil fédéral, se fondant sur l’art. 7 de la directive 2005/36/CE[^2-1], règle la forme, le contenu et la périodicité de la déclaration; il en mentionne les documents annexes.
 
@@ -123,7 +124,7 @@ Est puni de l’amende quiconque, intentionnellement ou par négligence:
 
 **Modification du droit en vigueur**
 
-…[^8-1]
+...[^8-1]
 
 Date de l’entrée en vigueur: 1<sup>er</sup> septembre 2013[^8-2]
 

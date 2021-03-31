@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 2012 über die Meldepflicht und die Nachpr�
 short: BGMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/509"
 language: de
-version: 2013-09-01
+version: 2021-04-01
 adopted: 2012-12-14
 in_force: 2013-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/509/20130901/de/xml/fedlex-data-admin-ch-eli-cc-2013-509-20130901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20130901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/509/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2013-509-20210401-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20130901/de"
 
 (BGMD)
 
-vom 14. Dezember 2012 (Stand am 1. September 2013)
+vom 14. Dezember 2012 (Stand am 1. April 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -43,10 +43,11 @@ Es gilt für Personen, die:
 - b. in diesem reglementierten Beruf während höchstens 90 Arbeitstagen pro Kalenderjahr in der Schweiz Dienstleistungen erbringen wollen; und
 - c. sich nach Anhang III des Freizügigkeitsabkommens oder nach Anhang K des Übereinkommens vom 4. Januar 1960[^1-1] zur Errichtung der Europäischen Freihandelsassoziation (EFTA) auf die Richtlinie 2005/36/EG[^1-2] berufen können.
 
-<sup>3</sup> Der Bundesrat bestimmt, welche reglementierten Berufe unter dieses Gesetz fallen. Dazu hört er vorgängig die Kantone an.
+<sup>3</sup> ...[^1-3]
 
 [^1-1]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^1-2]: Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. Sept. 2005 über die Anerkennung von Berufsqualifikationen, in der für die Schweiz verbindlichen Fassung gemäss Anhang III Abschnitt A Ziffer 1 des Freizügigkeitsabkommens.
+[^1-2]: Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen, in der für die Schweiz verbindlichen Fassung gemäss Anhang III Abschnitt A Ziffer 1 des Freizügigkeitsabkommens.
+[^1-3]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2020, mit Wirkung seit 1. April 2021 ([AS 2021 135](https://fedlex.data.admin.ch/eli/oc/2021/135); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 2
 
@@ -125,7 +126,7 @@ Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig:
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^8-1]
+...[^8-1]
 
 Datum des Inkrafttretens: 1. September 2013[^8-2]
 

@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 2012 sull'obbligo di dichiarazione e sull
 short: LDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/509"
 language: it
-version: 2013-09-01
+version: 2021-04-01
 adopted: 2012-12-14
 in_force: 2013-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/509/20130901/it/xml/fedlex-data-admin-ch-eli-cc-2013-509-20130901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20130901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/509/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2013-509-20210401-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/509/20130901/it"
 
 (LDPS)
 
-del 14 dicembre 2012 (Stato 1° settembre 2013)
+del 14 dicembre 2012 (Stato 1° aprile 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -43,10 +43,11 @@ Essa si applica alle persone che:
 - b. intendono fornire in Svizzera, in tale professione regolamentata, prestazioni di servizi durante al massimo 90 giorni lavorativi per anno civile; e
 - c. possono avvalersi della direttiva 2005/36/CE[^1-1] in applicazione dell’allegato III dell’Accordo sulla libera circolazione delle persone o dell’allegato K della Convenzione del 4 gennaio 1960[^1-2] istitutiva dell’Associazione europea di libero scambio (AELS).
 
-<sup>3</sup> Il Consiglio federale determina le professioni regolamentate soggette alla presente legge. A tal fine consulta dapprima i Cantoni.
+<sup>3</sup> ...[^1-3]
 
-[^1-1]: Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 set. 2005, relativa al riconoscimento delle qualifiche professionali, nella versione vincolante per la Svizzera conformemente all’all. III sez. A n. 1 dell’Acc. sulla libera circolazione delle persone.
+[^1-1]: Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005, relativa al riconoscimento delle qualifiche professionali, nella versione vincolante per la Svizzera conformemente all’all. III sez. A n. 1 dell’Acc. sulla libera circolazione delle persone.
 [^1-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^1-3]: Abrogato dal n. I della LF del 25 settembre 2020, con effetto dal 1° aprile 2021 ([RU 2021 135](https://fedlex.data.admin.ch/eli/oc/2021/135); [FF 2020 3295](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 2
 
@@ -125,7 +126,7 @@ Il prestatore di servizi può fornire la sua prestazione di servizi non appena:
 
 Le leggi federali qui appresso sono modificate come segue:
 
-…[^8-1]
+...[^8-1]
 
 Data dell’entrata in vigore: 1° settembre 2013[^8-2]
 
