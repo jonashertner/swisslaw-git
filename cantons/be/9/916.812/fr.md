@@ -4,13 +4,13 @@ number: "916.812"
 title: "Ordonnance sur la protection des animaux et les chiens *"
 short: OPAC
 language: fr
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-14
+version: 2021-04-01
+valid_until: 2022-02-28
+version_adopted: 2021-02-17
 adopted: 2009-01-21
 in_force: 2009-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.812"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1552/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2201/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1552/pdf_file"
 
 (OPAC)
 
-du 21.01.2009 (état au 01.01.2019)
+du 21.01.2009 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -43,9 +43,9 @@ arrête:
 
 #### Art. 2
 
-**Service vétérinaire**
+**Office des affaires vétérinaires**
 
-<sup>1</sup> Le Service vétérinaire est le service cantonal spécialisé chargé de la protection des animaux au sens de l’article 33 LPA.
+<sup>1</sup> L'Office des affaires vétérinaires est le service cantonal spécialisé chargé de la protection des animaux au sens de l’article 33 LPA.
 
 <sup>2</sup> Il exécute la législation sur la protection des animaux et sur les chiens, pour autant que la législation fédérale ou la législation cantonale n’attribue pas cette compétence à d’autres services.
 
@@ -55,19 +55,19 @@ arrête:
 
 <sup>1</sup> La Police cantonale procède aux enquêtes nécessaires pour éclaircir et poursuivre les infractions à la législation sur la protection des animaux.
 
-<sup>2</sup> Elle fournit l’entraide administrative et l’assistance à l’exécution nécessaires au Service vétérinaire et aux autorités auxquelles il fait appel.
+<sup>2</sup> Elle fournit l’entraide administrative et l’assistance à l’exécution nécessaires à l'Office des affaires vétérinaires et aux autorités auxquelles il fait appel.
 
 #### Art. 4
 
-**Coordination entre le Service vétérinaire et la Police cantonale**
+**Coordination entre l'Office des affaires vétérinaires et la Police cantonale**
 
-<sup>1</sup> Le Service vétérinaire et la Police cantonale doivent coordonner leurs activités de façon à garantir la protection des animaux ainsi que les conditions optimales pour les enquêtes judiciaires.
+<sup>1</sup> L'Office des affaires vétérinaires et la Police cantonale doivent coordonner leurs activités de façon à garantir la protection des animaux ainsi que les conditions optimales pour les enquêtes judiciaires.
 
 #### Art. 4a
 
 **Autorité compétente pour la procédure pénale 1. Désignation**
 
-<sup>1</sup> Le Service vétérinaire est désigné comme l’autorité cantonale à laquelle reviennent les droits de partie dans les procédures pénales concernant les délits contre la protection des animaux.
+<sup>1</sup> L'Office des affaires vétérinaires est désigné comme l’autorité cantonale à laquelle reviennent les droits de partie dans les procédures pénales concernant les délits contre la protection des animaux.
 
 <sup>2–3</sup> …
 
@@ -75,9 +75,9 @@ arrête:
 
 **2. Droits de partie**
 
-<sup>1</sup> Dans le cadre des procédures pénales relevant du droit de la protection des animaux, le Service vétérinaire a tous les droits de partie au sens du Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure pénale, CPP)[^4b-1]. Toute contestation d’une décision quant à la sanction qu’elle prononce est exclue.
+<sup>1</sup> Dans le cadre des procédures pénales relevant du droit de la protection des animaux, l'Office des affaires vétérinaires a tous les droits de partie au sens du Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure pénale, CPP)[^4b-1]. Toute contestation d’une décision quant à la sanction qu’elle prononce est exclue.
 
-<sup>2</sup> Le Service vétérinaire peut en tout temps déclarer par écrit ou par oral qu’il renonce à user des droits de partie qui lui reviennent; la déclaration orale est consignée au procès-verbal. La renonciation est définitive.
+<sup>2</sup> L'Office des affaires vétérinaires peut en tout temps déclarer par écrit ou par oral qu’il renonce à user des droits de partie qui lui reviennent; la déclaration orale est consignée au procès-verbal. La renonciation est définitive.
 
 [^4b-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
 
@@ -85,9 +85,9 @@ arrête:
 
 #### Art. 5
 
-**Recours à d’autres autorités par le Service vétérinaire**
+**Recours à d’autres autorités par l'Office des affaires vétérinaires**
 
-<sup>1</sup> Le Service vétérinaire peut faire appel, pour des tâches d’exécution et de contrôle, à d’autres autorités, notamment
+<sup>1</sup> L'Office des affaires vétérinaires peut faire appel, pour des tâches d’exécution et de contrôle, à d’autres autorités, notamment
 
 - a aux communes,
 - b aux préfets ou préfètes,
@@ -101,9 +101,9 @@ arrête:
 
 **Recours à des particuliers**
 
-<sup>1</sup> Dans le cadre de l’exécution de la législation sur la protection des animaux, la Direction de l’économie publique peut recourir à des personnes ou des organisations appropriées au moyen d’une convention de prestations.
+<sup>1</sup> Dans le cadre de l’exécution de la législation sur la protection des animaux, la Direction de l’économie, de l’énergie et de l’environnement peut recourir à des personnes ou des organisations appropriées au moyen d’une convention de prestations.
 
-<sup>2</sup> Le Service vétérinaire cantonal est habilité à passer des conventions avec des refuges en matière d’hébergement et de placement des animaux mis sous séquestre; il peut également avoir recours, le cas échéant, aux personnes ou aux organisations appropriées.
+<sup>2</sup> L'Office des affaires vétérinaires est habilité à passer des conventions avec des refuges en matière d’hébergement et de placement des animaux mis sous séquestre; il peut également avoir recours, le cas échéant, aux personnes ou aux organisations appropriées.
 
 #### Art. 7
 
@@ -121,7 +121,7 @@ arrête:
 
 <sup>1</sup> La Commission cantonale des expériences sur animaux exécute les tâches qui lui sont attribuées par la législation fédérale sur la protection des animaux.
 
-<sup>2</sup> La Commission ou ses membres contrôlent en outre les établissements qui détiennent des animaux destinés à l’expérimentation et l’exécution des expériences sur animaux. La Commission propose les mesures nécessaires au Service vétérinaire.
+<sup>2</sup> La Commission ou ses membres contrôlent en outre les établissements qui détiennent des animaux destinés à l’expérimentation et l’exécution des expériences sur animaux. La Commission propose les mesures nécessaires à l'Office des affaires vétérinaires.
 
 #### Art. 9
 
@@ -141,7 +141,7 @@ arrête:
 
 **Nomination**
 
-<sup>1</sup> Le président ou la présidente, le vice-président ou la viceprésidente et les autres membres de la Commission sont nommés pour une durée de quatre ans par le Conseil-exécutif, sur proposition de la Direction de l’économie publique.
+<sup>1</sup> Le président ou la présidente, le vice-président ou la vice-présidente et les autres membres de la Commission sont nommés pour une durée de quatre ans par le Conseil-exécutif, sur proposition de la Direction de l’économie, de l’énergie et de l’environnement.
 
 #### Art. 11
 
@@ -151,7 +151,7 @@ arrête:
 
 <sup>2</sup> Les membres de la Commission sont indemnisés pour leurs tâches d’exécution et de contrôle en fonction de la valeur du point.
 
-<sup>3</sup> La valeur du point, fixée à 1 franc 47 centimes, sert de base de calcul. Cette valeur peut être adaptée au renchérissement par la Direction de l’économie publique, la Commission étant préalablement entendue.
+<sup>3</sup> La valeur du point, fixée à 1 franc 47 centimes, sert de base de calcul. Cette valeur peut être adaptée au renchérissement par la Direction de l’économie, de l’énergie et de l’environnement, la Commission étant préalablement entendue.
 
 <sup>4</sup> Les barèmes suivants sont applicables aux prestations des membres de la Commission:
 
@@ -171,9 +171,9 @@ arrête:
 
 **Tâches**
 
-<sup>1</sup> La Commission cantonale pour la protection des animaux conseille le Service vétérinaire dans les principales questions d’exécution portant sur l’ensemble du domaine de la protection des animaux, à l’exception des expériences sur animaux.
+<sup>1</sup> La Commission cantonale pour la protection des animaux conseille l'Office des affaires vétérinaires dans les principales questions d’exécution portant sur l’ensemble du domaine de la protection des animaux, à l’exception des expériences sur animaux.
 
-<sup>2</sup> Aussi bien le Service vétérinaire que les membres individuels de la Commission peuvent proposer que de telles questions d’exécution soient soumises à la discussion.
+<sup>2</sup> Aussi bien l'Office des affaires vétérinaires que les membres individuels de la Commission peuvent proposer que de telles questions d’exécution soient soumises à la discussion.
 
 #### Art. 13
 
@@ -189,17 +189,17 @@ arrête:
 - f des domaines de l’éthologie ou de la biologie du gibier,
 - g des communes.
 
-<sup>2</sup> Le ou la vétérinaire cantonal(e) fait partie d’office de la Commission. Il ou elle peut être représenté(e) par un collaborateur ou une collaboratrice du Service vétérinaire.
+<sup>2</sup> Le ou la vétérinaire cantonal(e) fait partie d’office de la Commission. Il ou elle peut être représenté(e) par un collaborateur ou une collaboratrice de l'Office des affaires vétérinaires.
 
 #### Art. 14
 
 **Nomination**
 
-<sup>1</sup> Le président ou la présidente et les membres de la Commission sont nommés par le Conseil-exécutif pour une durée de quatre ans, sur proposition de la Direction de l’économie publique.
+<sup>1</sup> Le président ou la présidente et les membres de la Commission sont nommés par le Conseil-exécutif pour une durée de quatre ans, sur proposition de la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> Les organisations intéressées peuvent proposer des candidats ou des candidates à la Direction de l’économie publique en vue de la nomination.
+<sup>2</sup> Les organisations intéressées peuvent proposer des candidats ou des candidates à la Direction de l’économie, de l’énergie et de l’environnement en vue de la nomination.
 
-<sup>3</sup> La Direction de l’économie publique octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer un candidat ou une candidate, d'entente avec l'organisation intéressée.
+<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer un candidat ou une candidate, d'entente avec l'organisation intéressée.
 
 #### Art. 15
 
@@ -213,7 +213,7 @@ arrête:
 
 **Secrétariat**
 
-<sup>1</sup> Le Service vétérinaire assure les secrétariats des commissions.
+<sup>1</sup> L'Office des affaires vétérinaires assure les secrétariats des commissions.
 
 #### Art. 17
 
@@ -221,7 +221,7 @@ arrête:
 
 <sup>1</sup> Le président ou la présidente de la commission convoque les séances aussi souvent que l’exigent les affaires à traiter.
 
-<sup>2</sup> Le Service vétérinaire peut à tout moment convoquer une séance.
+<sup>2</sup> L'Office des affaires vétérinaires peut à tout moment convoquer une séance.
 
 #### Art. 18
 
@@ -229,7 +229,7 @@ arrête:
 
 <sup>1</sup> Les commissions peuvent déléguer la préparation d’affaires à des sous-commissions spécialisées, à des membres individuels des commissions ou à leur secrétariat.
 
-<sup>2</sup> Elles peuvent convoquer à leurs séances des experts ou des expertes, ou leur attribuer des mandats d’expertise en accord avec le Service vétérinaire.
+<sup>2</sup> Elles peuvent convoquer à leurs séances des experts ou des expertes, ou leur attribuer des mandats d’expertise en accord avec l'Office des affaires vétérinaires.
 
 #### Art. 19
 
@@ -247,7 +247,7 @@ arrête:
 
 <sup>1</sup> Les commissions rédigent un procès-verbal de chaque séance. Celui-ci comporte au moins les décisions et les principaux considérants.
 
-<sup>2</sup> Les commissions présentent un rapport d’activité annuel à la Direction de l’économie publique.
+<sup>2</sup> Les commissions présentent un rapport d’activité annuel à la Direction de l’économie, de l’énergie et de l’environnement.
 
 ## 5 Droit d’accès, obligations d’informer et communication des données
 
@@ -263,9 +263,9 @@ arrête:
 
 **Organes de police**
 
-<sup>1</sup> La Police cantonale et les organes de police des communes, des épizooties et de la chasse, les organes chargés du contrôle des viandes et des denrées alimentaires, l’Inspection de la protection de la nature, ainsi que les organes chargés d’exercer la surveillance dans le domaine de la pêche, annoncent au Service vétérinaire les infractions à la législation sur la protection des animaux – à l’exception des fautes de peu d’importance – qu’ils auront constatées dans l’exercice de leur fonction.
+<sup>1</sup> La Police cantonale et les organes de police des communes, des épizooties et de la chasse, les organes chargés du contrôle des viandes et des denrées alimentaires, l’Inspection de la protection de la nature, ainsi que les organes chargés d’exercer la surveillance dans le domaine de la pêche, annoncent à l'Office des affaires vétérinaires les infractions à la législation sur la protection des animaux, à l’exception des fautes de peu d’importance, qu’ils auront constatées dans l’exercice de leur fonction.
 
-<sup>2</sup> La Police cantonale et les organes de police des communes annoncent au Service vétérinaire les cas de détention d’animaux sauvages où il est soupçonné que la sécurité publique n’est pas garantie.
+<sup>2</sup> La Police cantonale et les organes de police des communes annoncent à l'Office des affaires vétérinaires les cas de détention d’animaux sauvages où il est soupçonné que la sécurité publique n’est pas garantie.
 
 <sup>3</sup> Une obligation d’informer plus étendue selon la législation spéciale est réservée.
 
@@ -273,7 +273,7 @@ arrête:
 
 **Recours à des tiers**
 
-<sup>1</sup> Les autorités et les particuliers dont les services ont été requis annoncent au Service vétérinaire les infractions à la législation sur la protection des animaux qu’ils constatent dans le cadre de leurs tâches.
+<sup>1</sup> Les autorités et les particuliers dont les services ont été requis annoncent à l'Office des affaires vétérinaires les infractions à la législation sur la protection des animaux qu’ils constatent dans le cadre de leurs tâches.
 
 <sup>2</sup> Pour les personnes ou les organisations dont les services ont été requis en vertu d’une convention de prestations, cette dernière peut fixer une obligation restreinte d’informer.
 
@@ -281,7 +281,7 @@ arrête:
 
 #### Art. 24
 
-<sup>1</sup> Le Service vétérinaire est habilité à mettre à disposition des autorités ou des particuliers, désignés par une convention de prestations ou au cas par cas, les données sur les détenteurs ou détentrices d’animaux nécessaires à l’accomplissement de leurs tâches.
+<sup>1</sup> L'Office des affaires vétérinaires est habilité à mettre à disposition des autorités ou des particuliers, désignés par une convention de prestations ou au cas par cas, les données sur les détenteurs ou détentrices d’animaux nécessaires à l’accomplissement de leurs tâches.
 
 ## 6 Problèmes liés à la législation sur la protection des animaux dans le cadre de détentions d’animaux de rente
 
@@ -289,13 +289,13 @@ arrête:
 
 **Diagnostic précoce de problèmes liés à la législation sur la protection des animaux**
 
-<sup>1</sup> Le Service vétérinaire met à profit aussi bien la collaboration avec des tiers que les déclarations prescrites pour déceler à temps les détentions d’animaux de rente posant problème au sens de la législation sur la protection des animaux.
+<sup>1</sup> L'Office des affaires vétérinaires met à profit aussi bien la collaboration avec des tiers que les déclarations prescrites pour déceler à temps les détentions d’animaux de rente posant problème au sens de la législation sur la protection des animaux.
 
 #### Art. 26
 
 **Intervention de groupes de suivi**
 
-<sup>1</sup> Lorsqu’une détention d’animaux de rente, supposée non conforme aux exigences de la protection des animaux, est signalée au Service vétérinaire, celui-ci établit les faits nécessaires.
+<sup>1</sup> Lorsqu’une détention d’animaux de rente, supposée non conforme aux exigences de la protection des animaux, est signalée à l'Office des affaires vétérinaires, celui-ci établit les faits nécessaires.
 
 <sup>2</sup> Selon les besoins, il fait appel aux autorités communales, au préfet ou à la préfète, aux experts ou expertes d’organisations agricoles, aux conseillers ou conseillères de l’Inforama, aux vétérinaires ou à d’autres personnes appropriées, et assure la coordination nécessaire au sein de tels groupes de suivi.
 
@@ -313,13 +313,13 @@ arrête:
 
 <sup>1</sup> L’obligation d’annoncer selon l’article 78, alinéa1 de l’ordonnance fédérale du 23 avril 2008 sur la protection des animaux (OPAn)[^27-1] est aussi valable pour la Police cantonale et les organes de police des communes.
 
-<sup>2</sup> Les organes d’exécution des communes et la Police cantonale signalent au Service vétérinaire
+<sup>2</sup> Les organes d’exécution des communes et la Police cantonale signalent à l'Office des affaires vétérinaires
 
 - a tous les incidents impliquant des chiens au comportement frappant ayant abouti à des décisions ou à des plaintes pénales;
 - b tout chien ayant causé des blessures à des êtres humains ou des animaux ou ayant présenté un comportement excessivement agressif ou d’autres comportements frappants;
 - c tous les détenteurs et toutes les détentrices de chiens ne semblant pas garantir une détention de chiens sûre et responsable.
 
-<sup>3</sup> Les organes d’exécution des communes et la police cantonale s’informent mutuellement des annonces au sens de l’alinéa 2; le Service vétérinaire les informe de toutes les mesures qu’il ordonne.
+<sup>3</sup> Les organes d’exécution des communes et la Police cantonale s’informent mutuellement des annonces au sens de l’alinéa 2; l'Office des affaires vétérinaires les informe de toutes les mesures qu’il ordonne.
 
 [^27-1]: RS 455.1
 
@@ -327,7 +327,7 @@ arrête:
 
 **Droit d’informer**
 
-<sup>1</sup> Le Service vétérinaire est habilité à communiquer ses décisions et celles des communes sur demande aux services compétents des autres cantons.
+<sup>1</sup> L'Office des affaires vétérinaires est habilité à communiquer ses décisions et celles des communes sur demande aux services compétents des autres cantons.
 
 #### Art. 28a
 
@@ -357,7 +357,7 @@ arrête:
 
 **Coûts**
 
-<sup>1</sup> Les coûts pour les enquêtes ou les mesures ordonnées par le Service vétérinaire sont à la charge du détenteur ou de la détentrice de chien.
+<sup>1</sup> Les coûts pour les enquêtes ou les mesures ordonnées par l'Office des affaires vétérinaires sont à la charge du détenteur ou de la détentrice de chien.
 
 ### 7.2 Exigences relatives à la formation et approbation de terriers artificiels
 
@@ -381,9 +381,9 @@ arrête:
 - b la personne menant les chiens dispose d'un diplôme universitaire en médecine vétérinaire, zoologie, biologie ou éthologie et d'un perfectionnement spécifique en tant que spécialiste en comportement canin;
 - c …
 - d la personne menant les chiens peut établir sa réussite à un examen de chasse reconnu et présenter une attestation de réussite à l’examen d’obéissance de la Fédération des chasseurs bernois pour chacun des chiens promenés, conformément à l’article 7, alinéa 1, lettre b de l’ordonnance de Direction du 27 mars 2003 sur la chasse (ODCh)[^32b-1] ou si
-- e la personne menant les chiens dispose d'une autorisation du Service vétérinaire.
+- e la personne menant les chiens dispose d'une autorisation de l'Office des affaires vétérinaires.
 
-<sup>1a</sup> Pour obtenir une autorisation du Service vétérinaire, il faut
+<sup>1a</sup> Pour obtenir une autorisation de l'Office des affaires vétérinaires, il faut
 
 - a prouver la détention d'un chien depuis au moins trois ans;
 - b ne pas devoir ou avoir dû appliquer des mesures à cause d'incidents survenus avec des chiens au comportement frappant et
@@ -392,7 +392,7 @@ arrête:
   - 2\. attestation d'un formateur ou d'une formatrice de détenteurs et détentrices de chien conformément à l'article 203 OPAn ou d'une personne conformément à l'alinéa 1, lettre b, indiquant que les chiens peuvent être menés en groupe de manière contrôlée ;
   - 3\. attestation de la participation et du classement à au moins trois concours de sport canin en un an, auxquels ont participé simultanément les chiens devant être menés ensemble.
 
-<sup>1b</sup> Les personnes définies à l'alinéa 1, lettres a, b et d remettent au Service vétérinaire les attestations des formations effectuées, qui sont ensuite saisies dans la base centrale de données sur les chiens. Les autorisations octroyées par le Service vétérinaire visées à l'alinéa 1, lettre e sont également saisies dans la base centrale de données sur les chiens.
+<sup>1b</sup> Les personnes définies à l'alinéa 1, lettres a, b et d remettent à l'Office des affaires vétérinaires les attestations des formations effectuées, qui sont ensuite saisies dans la base centrale de données sur les chiens. Les autorisations octroyées par l'Office des affaires vétérinaires visées à l'alinéa 1, lettre e sont également saisies dans la base centrale de données sur les chiens.
 
 <sup>2</sup> Mener les chiens en vue d’une traque, les y employer durant la chasse et les en ramener ne constitue pas une sortie de chiens en groupe.
 
@@ -402,7 +402,7 @@ arrête:
 
 **Approbation de terriers artificiels pour la formation des chiens de terrier**
 
-<sup>1</sup> Le Service vétérinaire agrée, d’entente avec l’Inspection de la chasse, les terriers artificiels pour le dressage et les examens de chiens de terrier.
+<sup>1</sup> L'Office des affaires vétérinaires agrée, d’entente avec l’Inspection de la chasse, les terriers artificiels pour le dressage et les examens de chiens de terrier.
 
 ### 7.3 Taxe des chiens
 
@@ -418,11 +418,11 @@ arrête:
 
 **Dossiers de requête**
 
-<sup>1</sup> Le Service vétérinaire examine les demandes d’autorisation de détention d’animaux sauvages également sous l’angle de la sécurité publique.
+<sup>1</sup> L'Office des affaires vétérinaires examine les demandes d’autorisation de détention d’animaux sauvages également sous l’angle de la sécurité publique.
 
 <sup>2</sup> Le requérant ou la requérante doit prouver qu’il ou elle peut garantir une détention d’animaux sauvages sans danger pour les tiers.
 
-<sup>3</sup> Le Service vétérinaire peut exiger du requérant ou de la requérante tous les documents nécessaires à une évaluation, ainsi qu’une attestation de domicile et des extraits du casier judiciaire et du registre des poursuites. Si nécessaire, il peut demander à la commune de domicile du requérant ou de la requérante une attestation de capacité civile.
+<sup>3</sup> L'Office des affaires vétérinaires peut exiger du requérant ou de la requérante tous les documents nécessaires à une évaluation, ainsi qu’une attestation de domicile et des extraits du casier judiciaire et du registre des poursuites. Si nécessaire, il peut demander à la commune de domicile du requérant ou de la requérante une attestation de capacité civile.
 
 <sup>4</sup> Le requérant ou la requérante doit prouver qu’une assurance responsabilité civile englobant le risque inhérent à la détention de l’animal a été contractée.
 
@@ -430,7 +430,7 @@ arrête:
 
 **Autorisation**
 
-<sup>1</sup> Le Service vétérinaire peut assortir l’octroi de l’autorisation de charges appropriées relevant de la police de sécurité.
+<sup>1</sup> L'Office des affaires vétérinaires peut assortir l’octroi de l’autorisation de charges appropriées relevant de la police de sécurité.
 
 <sup>2</sup> Il communique les autorisations de détention d’animaux sauvages dangereux, notamment de serpents venimeux et de fauves, à la commune de domicile du ou de la titulaire de l’autorisation.
 
@@ -438,9 +438,9 @@ arrête:
 
 **Coordination**
 
-<sup>1</sup> Le Service vétérinaire statue, sur proposition de l’Inspection de la chasse, sur les autorisations concernant la détention d’animaux sauvages indigènes ou allogènes.
+<sup>1</sup> L'Office des affaires vétérinaires statue, sur proposition de l’Inspection de la chasse, sur les autorisations concernant la détention d’animaux sauvages indigènes ou allogènes.
 
-<sup>2</sup> Les Inspections de la chasse, de la pêche et de la protection de la nature consultent le Service vétérinaire pour des questions de protection des animaux, lorsque l’autorisation de détention d’un animal doit être soumise à une législation spéciale autre que la législation sur la protection des animaux.
+<sup>2</sup> Les Inspections de la chasse, de la pêche et de la protection de la nature consultent l'Office des affaires vétérinaires pour des questions de protection des animaux, lorsque l’autorisation de détention d’un animal doit être soumise à une législation spéciale autre que la législation sur la protection des animaux.
 
 ### 8.2 Poissons et écrevisses
 
@@ -472,7 +472,7 @@ arrête:
 
 #### Art. 40
 
-<sup>1</sup> Les décisions rendues sur la base de la présente ordonnance peuvent faire l’objet d’un recours à la Direction de l’économie publique.
+<sup>1</sup> Les décisions rendues sur la base de la présente ordonnance peuvent faire l’objet d’un recours à la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> La procédure est régie par la loi du 23 mai 1989 sur la procédure et la juridiction administrative (LPJA)[^40-1].
 
