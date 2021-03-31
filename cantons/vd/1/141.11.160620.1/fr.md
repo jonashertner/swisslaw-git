@@ -4,7 +4,7 @@ number: "141.11.160620.1"
 title: "DÉCRET du 16.06.2020 instituant une dispense d'assermentation pour les naturalisations (D-DAN)"
 short: D-DAN
 language: fr
-version: 2020-06-30
+version: 2021-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/141.11.160620.1?id=feb87fb3-af97-450e-a2bc-e3d7cbefa8b3"
 ---
 
@@ -39,7 +39,9 @@ décrète
 
 **[^1-2]**
 
-<sup>1</sup> Le présent décret entre en vigueur à la date de sa publication. Il est en vigueur jusqu'au 30 septembre 2020. Il peut être prorogé en cas de poursuite de la pandémie.
+<sup>1</sup> Le présent décret entre en vigueur à la date de sa publication. Il est en vigueur jusqu'au 31 mai 2021.
+
+<sup>2</sup> En cas de poursuite de la pandémie, il peut être prorogé par le Conseil d'Etat par voie d'arrêté pour une durée de six mois. Le Conseil d'Etat peut faire usage de la prorogation à deux reprises au maximum.
 
 [^1-2]: Modif. 1 du 02.02.2021: Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Al. 2; entrée en vigueur au 01.04.2021
 
