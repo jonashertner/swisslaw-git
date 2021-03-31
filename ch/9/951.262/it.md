@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sui provvedimenti per i casi di rigore co
 short: OPCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: it
-version: 2021-01-14
+version: 2021-04-01
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210114/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210114-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210114/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210114/it"
 
 (Ordinanza COVID-19 casi di rigore)
 
-del 25 novembre 2020 (Stato 14 gennaio 2021)
+del 25 novembre 2020 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -33,7 +33,7 @@ ordina:
 
 <sup>1</sup>
 
-In virtù dell’articolo 12 capoverso 1 della legge COVID-19 del 25 settembre 2020 e nei limiti del credito d’impegno stanziato dall’Assemblea federale (art. 14), la Confederazione partecipa ai costi e alle perdite che un Cantone subisce a causa dei provvedimenti da esso adottati per i casi di rigore concernenti le imprese se:
+In virtù dell’articolo 12 della legge COVID-19 e nei limiti del credito d’impegno stanziato dall’Assemblea federale, la Confederazione partecipa ai costi e alle perdite che un Cantone subisce a causa dei provvedimenti da esso adottati per i casi di rigore concernenti le imprese se:[^1-1]
 
 - a. le imprese sostenute dai Cantoni soddisfano i requisiti di cui alla sezione 2;
 - b. l’impostazione di questi provvedimenti soddisfa i requisiti di cui alla sezione 3;
@@ -44,7 +44,10 @@ In virtù dell’articolo 12 capoverso 1 della legge COVID-19 del 25 settembre 2
 Non partecipa ai costi o alle perdite che un Cantone subisce a causa dei provvedimenti da esso adottati per i casi di rigore concernenti le imprese se:
 
 - a. il capitale di queste imprese è detenuto complessivamente per oltre il 10 per cento dalla Confederazione, dai Cantoni o dai Comuni con più di 12 000 abitanti;
-- b. nel relativo Cantone queste imprese non esercitano un’attività commerciale né impiegano personale proprio.
+- b.[^1-2] in Svizzera queste imprese non esercitano un’attività né impiegano personale proprio.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 ## Sezione 2: Requisiti delle imprese
 
@@ -60,25 +63,38 @@ Non partecipa ai costi o alle perdite che un Cantone subisce a causa dei provved
 
 **Imprese con settori di attività chiaramente delimitabili**[^2a-1]
 
-Le imprese i cui settori di attività sono chiaramente delimitabili mediante una contabilità per settore possono chiedere che i requisiti di cui agli articoli 3 capoverso 1 lettere b e c, 4 capoverso 1 lettera c, 5, 5*a* e 8 siano valutati separatamente per ogni settore.
+Le imprese i cui settori di attività sono chiaramente delimitabili mediante una contabilità per settore possono chiedere che i requisiti di cui agli articoli 3 capoverso 1 lettera c, 4 capoverso 1 lettera c, 5, 5*a* e 8–8*c* siano valutati separatamente per ogni settore.
 
-[^2a-1]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^2a-1]: Introdotto dal n. I dell’O del 18 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)). Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 3
 
-**Data della costituzione e cifra d’affari**
+**Data della costituzione e cifra d’affari**[^3-1]
 
 <sup>1</sup>
 
 L’impresa ha provato al Cantone che:
 
-- a. è stata iscritta nel registro di commercio prima del 1° marzo 2020 o, in assenza di tale iscrizione, che è stata costituita prima del 1° marzo 2020;
-- b.[^3-1] negli anni 2018 e 2019 ha conseguito una cifra d’affari media di almeno 50 000 franchi;
+- a. è stata iscritta nel registro di commercio prima del 1° ottobre 2020 o, in assenza di tale iscrizione, è stata costituita prima del 1° ottobre 2020;
+- b. negli anni 2018 e 2019 ha conseguito una cifra d’affari media di almeno 50 000 franchi;
 - c. sostiene i propri costi salariali prevalentemente in Svizzera.
 
-<sup>2</sup> Se l’impresa ha avviato la propria attività il 1° gennaio 2020 o dopo tale data, oppure se è stata costituita nel 2018 o 2019 e il relativo esercizio è dunque di durata superiore a un anno, come cifra d’affari media secondo il capoverso 1 lettera b si considera quella conseguita tra il 1° gennaio 2018 e il 29 febbraio 2020, calcolata su 12 mesi*.*
+<sup>2</sup>
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+Si considera come cifra d’affari media annuale di cui al capoverso 1 lettera b:
+
+- a.
+
+  per un’impresa costituita tra il 31 dicembre 2017 e il 29 febbraio 2020:
+
+  - 1\. la cifra d’affari media che è stata conseguita tra la costituzione e il 29 febbraio 2020, calcolata su 12 mesi, o
+  - 2\. la cifra d’affari media che è stata conseguita tra la costituzione e il 31 dicembre 2020, calcolata su 12 mesi;
+
+- b. per un’impresa che è stata costituita tra il 1° marzo 2020 e il 30 settembre 2020: la cifra d’affari media che è stata conseguita tra la costituzione e il 31 dicembre 2020, calcolata su 12 mesi.
+
+<sup>3</sup> Le indicazioni sulla cifra d’affari secondo la presente ordinanza si riferiscono alla chiusura singola dell’impresa richiedente.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 4
 
@@ -107,11 +123,12 @@ L’impresa ha provato al Cantone che:
 
 <sup>1</sup> L’impresa ha provato al Cantone che, in relazione ai provvedimenti ordinati dalle autorità per combattere l’epidemia di COVID-19, la sua cifra d’affari del 2020 è inferiore al 60 per cento della cifra d’affari media degli anni 2018 e 2019.
 
-<sup>1bis</sup> L’impresa che nel periodo compreso tra i mesi di gennaio 2021 e giugno 2021 registra un calo della cifra d’affari in relazione ai provvedimenti ordinati dalle autorità per combattere l’epidemia di COVID-19 può considerare, per il calcolo dell’importo di questo calo, la cifra d’affari degli ultimi 12 mesi invece della cifra d’affari del 2020.[^5-1]
+<sup>1bis</sup> L’impresa che nel periodo compreso tra i mesi di gennaio 2021 e giugno 2021 registra un calo della cifra d’affari in relazione ai provvedimenti ordinati dalle autorità per combattere l’epidemia di COVID-19, per il calcolo dell’importo di questo calo può considerare, invece della cifra d’affari del 2020, la cifra d’affari di un periodo successivo di 12 mesi.[^5-1]
 
-<sup>2</sup> Per le imprese costituite dopo il 31 dicembre 2017, la cifra d’affari calcolata secondo l’articolo 3 capoverso 2 è considerata come cifra d’affari media degli anni 2018 e 2019.
+<sup>2</sup> ...[^5-2]
 
-[^5-1]: Introdotto dal n. I dell’O del 13 gen. 2021, in vigore dal 14 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+[^5-1]: Introdotto dal n. I dell’O del 13 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)). Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^5-2]: Abrogato dal n. I dell’O del 31 mar. 2021, con effetto dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 5a
 
@@ -125,9 +142,16 @@ L’impresa ha confermato al Cantone che dal calo della cifra d’affari risulta
 
 **Deroga a favore delle imprese chiuse su ordine delle autorità**[^5b-1]
 
-Le imprese che tra il 1° novembre 2020 e il 30 giugno 2021 devono chiudere l’attività per almeno 40 giorni a causa di provvedimenti adottati dalla Confederazione o dai Cantoni per far fronte all’epidemia di COVID-19, non sottostanno ai requisiti che danno diritto al sostegno finanziario di cui agli articoli 4 capoverso 1 lettera b, 5 capoversi 1 e 1<sup>bis</sup> nonché 5*a*.
+<sup>1</sup>
 
-[^5b-1]: Introdotto dal n. I dell’O del 13 gen. 2021, in vigore dal 14 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+Le imprese che tra il 1° novembre 2020 e il 30 giugno 2021 devono chiudere l’attività complessivamente per almeno 40 giorni a causa di provvedimenti adottati dalla Confederazione o dai Cantoni per far fronte all’epidemia di COVID-19 e che negli anni 2018 e 2019 hanno conseguito una cifra d’affari media:
+
+- a. fino a 5 milioni di franchi: non sottostanno ai requisiti che danno diritto al sostegno finanziario di cui agli articoli 4 capoverso 1 lettera b, 5 capoversi 1 e 1<sup>bis</sup> nonché 5*a;*
+- b. superiore a 5 milioni di franchi: non sottostanno ai requisiti che danno diritto al sostegno finanziario di cui all’articolo 5 capoversi 1 e 1<sup>bis</sup>*.*
+
+<sup>2</sup> Le imprese con settori di attività chiaramente delimitabili secondo l’articolo 2*a* possono chiedere che la chiusura sia valutata per ogni settore.
+
+[^5b-1]: Introdotto dal n. I dell’O del 13 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)). Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 6
 
@@ -137,7 +161,7 @@ L’impresa ha confermato al Cantone che:
 
 - a.[^6-1]
 
-  per tre anni o fino al rimborso degli aiuti percepiti:
+  nell’esercizio in cui è accordato il provvedimento per un caso di rigore e nei tre anni successivi o fino al rimborso degli aiuti percepiti:[^6-2]
 
   - 1\. decide di non distribuire o non distribuisce dividendi o tantièmes né restituisce apporti di capitale, e
   - 2\. non concede mutui ai suoi proprietari;
@@ -145,6 +169,7 @@ L’impresa ha confermato al Cantone che:
 - b. non trasferisce fondi concessi a una società del gruppo non avente sede in Svizzera a cui è legata direttamente o indirettamente; è però consentito segnatamente l’adempimento di preesistenti obblighi ordinari di pagamento di interessi e di ammortamento all’interno di un gruppo.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021, in vigore dal 14 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 ## Sezione 3: Requisiti concernenti l’impostazione dei provvedimenti per i casi di rigore
 
@@ -166,22 +191,91 @@ I provvedimenti per i casi di rigore, per i quali il Cantone chiede alla Confede
 
 #### Art. 8
 
-**Limiti massimi**
+**Limiti massimi per i mutui, le fideiussioni e le garanzie**[^8-1]
 
-<sup>1</sup> I mutui, le fideiussioni o le garanzie ammontano al massimo al 25 per cento della cifra d’affari media degli anni 2018 e 2019 e al massimo a 10 milioni di franchi per impresa. La loro durata è limitata a dieci anni al massimo.
+I mutui, le fideiussioni e le garanzie ammontano complessivamente al massimo al 25 per cento della cifra d’affari media degli anni 2018 e 2019 e al massimo a 10 milioni di franchi per impresa. La loro durata è limitata a dieci anni al massimo.
 
-<sup>2</sup> I contributi non rimborsabili ammontano al massimo al 20 per cento della cifra d’affari media degli anni 2018 e 2019 e al massimo a 750 000 franchi per impresa. Possono essere decisi e versati gradualmente.[^8-1]
+[^8-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
-<sup>2bis</sup> In deroga al capoverso 2, il Cantone può aumentare eccezionalmente il contributo per impresa a un massimo di 1,5 milioni di franchi se i proprietari apportano capitale proprio supplementare o i finanziatori rinunciano ai loro crediti. Il capitale proprio supplementare e la rinuncia ai crediti devono corrispondere complessivamente almeno al contributo aggiuntivo concesso dal Cantone.[^8-2]
+#### Art. 8a
 
-<sup>3</sup> Se un’impresa percepisce aiuti sia secondo il capoverso 1 sia secondo il capoverso 2, questi non possono superare complessivamente il 25 per cento della cifra d’affari media degli anni 2018 e 2019 né 10 milioni di franchi per impresa.
+**Limiti massimi per i contributi non rimborsabili versati alle imprese con una cifra d’affari annuale fino a 5 milioni di franchi**[^8a-1]
 
-<sup>4</sup> Per le imprese costituite dopo il 31 dicembre 2017, la cifra d’affari calcolata secondo l’articolo 3 capoverso 2 è considerata come cifra d’affari media degli anni 2018 e 2019.
+I contributi non rimborsabili versati alle imprese con una cifra d’affari annuale fino a 5 milioni di franchi ammontano al massimo al 20 per cento della cifra d’affari media degli anni 2018 e 2019 e al massimo a un milione di franchi per impresa. Possono essere decisi e versati gradualmente.
 
-<sup>5</sup> Il Cantone può concedere provvedimenti per i casi di rigore il cui importo supera i limiti massimi di cui ai capoversi 1–3. La partecipazione della Confederazione ai costi e alle perdite subite dal Cantone rimane circoscritta entro tali limiti massimi.
+[^8a-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021, in vigore dal 14 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
-[^8-2]: Introdotto dal n. I dell’O del 13 gen. 2021, in vigore dal 14 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+#### Art. 8b
+
+**Calcolo dei contributi non rimborsabili versati alle imprese con una cifra d’affari annuale superiore a 5 milioni di franchi**[^8b-1]
+
+<sup>1</sup> Il contributo non rimborsabile versato a un’impresa con una cifra d’affari annuale superiore a 5 milioni di franchi è calcolato moltiplicando il calo della cifra d’affari di cui all’articolo 5 per una quota forfettaria dei costi fissi.
+
+<sup>2</sup> Le imprese che hanno registrato un calo della cifra d’affari per un periodo superiore a 12 mesi possono aggiungere anche il calo della cifra d’affari nei mesi compresi tra gennaio e giugno 2021 non inclusi nel calcolo di cui all’articolo 5; a tal fine, il calo della cifra d’affari è calcolato rispetto alla media dei periodi corrispondenti degli anni 2018 e 2019.
+
+<sup>3</sup>
+
+La quota forfettaria dei costi fissi ammonta:
+
+- a. all’8 per cento per le agenzie di viaggio, il commercio all’ingrosso e il commercio di autoveicoli;
+- b. al 15 per cento per il commercio al dettaglio;
+- c. al 25 per cento per tutte le altre imprese.
+
+<sup>4</sup> I Cantoni possono stabilire quote più basse dei costi fissi se constatano che le quote forfettarie dei costi fissi di cui al capoverso 3 potrebbero determinare un sovraindennizzo.
+
+<sup>5</sup> Per le imprese la cui attività rientra in più settori di cui al capoverso 3, si applica una quota uniforme dei costi fissi. Quest’ultima è determinata sulla base del settore di attività in cui è stata conseguita la quota più elevata della cifra d’affari annuale secondo l’articolo 3 capoverso 2. Se un’impresa presenta una richiesta secondo l’articolo 2*a*, si applica la quota dei costi fissi del rispettivo settore.
+
+[^8b-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+
+#### Art. 8c
+
+**Limiti massimi per i contributi non rimborsabili versati alle imprese con una cifra d’affari annuale superiore a 5 milioni di franchi**[^8c-1]
+
+<sup>1</sup> Per le imprese con una cifra d’affari annuale superiore a 5 milioni di franchi i contributi non rimborsabili ammontano al massimo al 20 per cento della cifra d’affari media degli anni 2018 e 2019 e al massimo a 5 milioni di franchi per impresa. I contributi possono essere decisi e versati gradualmente.
+
+<sup>2</sup>
+
+Per le imprese di cui al capoverso 1 i contributi non rimborsabili ammontano al massimo al 30 per cento della cifra d’affari annuale e al massimo a 10 milioni di franchi se:
+
+- a. la cifra d’affari dell’impresa è diminuita di oltre il 70 per cento rispetto alla cifra d’affari media degli anni 2018 e 2019; o
+- b. dal 1° marzo 2020 all’impresa è apportato, sotto forma di conferimenti in contanti, nuovo capitale proprio con incidenza sulla liquidità in misura pari almeno al 40 per cento del contributo superiore a 5 milioni di franchi.
+
+[^8c-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+
+#### Art. 8d
+
+**Limite massimo totale**[^8d-1]
+
+<sup>1</sup> Un’impresa può percepire gli aiuti soltanto fino al raggiungimento del rispettivo limite massimo di cui agli articoli 8, 8*a* e 8*c*.
+
+<sup>2</sup> Se un’impresa percepisce gli aiuti sia secondo l’articolo 8 sia secondo l’articolo 8*a* o 8*c* capoverso 1, questi non possono superare complessivamente il 25 per cento della cifra d’affari media degli anni 2018 e 2019 né 15 milioni di franchi.
+
+<sup>3</sup> Se un’impresa percepisce gli aiuti secondo gli articoli 8 e 8*c* capoverso 2, il contributo non può superare complessivamente il 30 per cento della cifra d’affari media degli anni 2018 e 2019 né 15 milioni di franchi.
+
+[^8d-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+
+#### Art. 8e
+
+**Base determinante per la partecipazione condizionata agli utili per le imprese con una cifra d’affari annuale superiore a 5 milioni di franchi**[^8e-1]
+
+Per il calcolo della partecipazione condizionata agli utili secondo l’articolo 12 capoverso 1<sup>septies</sup> della legge COVID-19 è determinante l’utile imponibile annuale del 2021 prima della compensazione delle perdite ai sensi degli articoli 58–67 della legge federale del 14 dicembre 1990[^8e-2] sull’imposta federale diretta. Dall’utile imponibile annuale può essere dedotta soltanto una perdita subita nell’esercizio 2020 rilevante ai fini fiscali.
+
+[^8e-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^8e-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+
+#### Art. 8f
+
+**Giustificativi da richiedere alle imprese con una cifra d’affari annuale superiore a 5 milioni di franchi**[^8f-1]
+
+I Cantoni richiedono alle imprese con una cifra d’affari annuale superiore a 5 milioni di franchi almeno i seguenti giustificativi, sempre che non li forniscano loro stessi:
+
+- a. estratto del registro di commercio;
+- b. estratto del registro delle esecuzioni;
+- c. conti annuali del 2018 e 2019 (bilancio, conto economico e allegato) nonché, se disponibile, del 2020; qualora l’impresa sia soggetta all’obbligo di revisione, i conti annuali riveduti;
+- d. ripartizione completa per settori se è presentata una richiesta secondo l’articolo 2*a*;
+- e. rendiconti trimestrali dell’imposta sul valore aggiunto per gli anni 2018, 2019, 2020 e 2021 o, in assenza di tali rendiconti, un altro giustificativo relativo al calo della cifra d’affari che è stato fatto valere.
+
+[^8f-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 9
 
@@ -206,14 +300,21 @@ Il contratto che il Cantone conclude con un’impresa relativo alla concessione 
 La Confederazione partecipa ai costi e alle perdite che un Cantone subisce a causa di provvedimenti da esso adottati per i casi di rigore concernenti le imprese soltanto se il Cantone:
 
 - a. adotta misure adeguate per la gestione di mutui, garanzie o fideiussioni;
-- b. dopo il verificarsi di perdite su mutui e fideiussioni adotta misure adeguate per poter recuperare l’importo di credito;
+- b.[^11-1] dopo il verificarsi di perdite su mutui, fideiussioni e garanzie adotta misure adeguate per poter recuperare l’importo di credito;
 - c. lotta contro gli abusi mediante mezzi adeguati.
 
-<sup>2</sup> I servizi federali competenti per gli aiuti finanziari settoriali COVID-19 nell’ambito della cultura, dello sport, dei trasporti pubblici o dei media sono tenuti a fornire ai servizi competenti dei Cantoni, alla Segreteria di Stato dell’economia (SECO) e al Controllo federale delle finanze i dati personali e le informazioni di cui questi ultimi necessitano per l’adempimento dei loro compiti.
+<sup>1bis</sup> Se il Cantone concede o accetta postergazioni per i propri crediti derivanti dai provvedimenti per i casi di rigore secondo il capoverso 1 lettera a, la Confederazione partecipa ai costi e alle perdite che il Cantone subisce a causa di questi provvedimenti per i casi di rigore, soltanto qualora tali postergazioni avvengano nell’ambito di una procedura concordataria, di un risanamento finanziario extragiudiziale finalizzato al proseguimento della parte essenziale dell’impresa o di una liquidazione iscritta nel registro di commercio e non comportino per la Confederazione e il Cantone un aumento dei rischi finanziari. Per le postergazioni che riguardano crediti nei confronti di un’impresa con una cifra d’affari annuale superiore a 5 milioni di franchi, è necessario il consenso preventivo della Segreteria di Stato dell’economia (SECO).[^11-2]
 
-<sup>3</sup> La Confederazione può effettuare in ogni momento controlli a campione presso i Cantoni.[^11-1]
+<sup>1ter</sup> Se il Cantone rinuncia parzialmente o interamente a far valere crediti nei confronti dell’impresa, approva un concordato o cede all’impresa attestati di carenza di beni e di insufficienza del pegno al di sotto del valore nominale, la Confederazione partecipa ai costi e alle perdite che il Cantone subisce a causa di questi provvedimenti per i casi di rigore, soltanto qualora l’esazione del credito appaia priva di probabilità di successo o il dispendio amministrativo e le spese risultino sproporzionati rispetto all’importo scoperto. Per le rinunce che riguardano crediti nei confronti di un’impresa con una cifra d’affari annuale superiore a 5 milioni di franchi, è necessario il consenso preventivo della SECO.[^11-3]
 
-[^11-1]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+<sup>2</sup> I servizi federali competenti per gli aiuti finanziari settoriali COVID-19 nell’ambito della cultura, dello sport, dei trasporti pubblici o dei media sono tenuti a fornire ai servizi competenti dei Cantoni, alla SECO e al Controllo federale delle finanze i dati personali e le informazioni di cui questi ultimi necessitano per l’adempimento dei loro compiti.
+
+<sup>3</sup> La Confederazione può effettuare in ogni momento controlli a campione presso i Cantoni.[^11-4]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^11-2]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^11-3]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^11-4]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
 
 ## Sezione 4: Procedura e competenze
 
@@ -235,37 +336,28 @@ La Confederazione partecipa ai costi e alle perdite che un Cantone subisce a cau
 
 <sup>1</sup> La competenza per la procedura spetta al Cantone nel quale l’impresa aveva la propria sede il 1° ottobre 2020.
 
-<sup>2</sup> In caso di trasferimento della sede dell’impresa in un altro Cantone nel periodo di validità delle fideiussioni o nell’arco della durata dei mutui rimborsabili, la competenza cantonale rimane invariata.
+<sup>2</sup> Il trasferimento della sede dell’impresa in un altro Cantone lascia invariata la competenza cantonale.[^13-1]
+
+<sup>3</sup> Per le imprese individuali non iscritte nel registro di commercio è competente il Cantone di domicilio dell’impresa individuale.[^13-2]
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^13-2]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 ## Sezione 5: Contributi della Confederazione e rapporti presentati dai Cantoni
 
 #### Art. 14
 
-**Entità della partecipazione della Confederazione**[^14-1]
+**Cifra d’affari rilevante ai fini della determinazione della partecipazione finanziaria della Confederazione**[^14-1]
 
-La Confederazione partecipa ai costi e alle perdite che un Cantone subisce a causa dei provvedimenti da esso adottati per i casi di rigore concernenti le imprese nei limiti dei contributi di cui all’articolo 12 capoversi 1 e 6 della legge COVID-19 del 25 settembre 2020.
+La cifra d’affari rilevante ai fini della determinazione della partecipazione finanziaria della Confederazione secondo l’articolo 12 capoverso 1<sup>quater</sup> della legge COVID-19 è calcolata conformemente all’articolo 3.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021, in vigore dal 14 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 15
 
-**Ripartizione fra i Cantoni**
+[^15-1]
 
-<sup>1</sup> Il contributo della Confederazione secondo l’articolo 12 capoverso 1 della legge COVID-19 del 25 settembre 2020 è ripartito fra i Cantoni in ragione di due terzi in funzione del PIL cantonale del 2016 e di un terzo in funzione della popolazione residente nel 2019. La ripartizione percentuale fra i Cantoni è arrotondata a due cifre decimali. È riportata nell’allegato.[^15-1]
-
-<sup>2</sup>
-
-Entro il 30 giugno 2021, i Cantoni comunicano al Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) se e in quale misura:
-
-- a. il contributo della Confederazione loro assegnato non è stato utilizzato;
-- b. necessitano di fondi supplementari.
-
-<sup>3</sup> Il DEFR assegna, in base alla ripartizione definita nel capoverso 1, i fondi di cui al capoverso 2 lettera a ai Cantoni che hanno comunicato la loro necessità secondo il capoverso 2 lettera b e all’occorrenza adegua il contratto di cui all’articolo 16 insieme al Cantone interessato.[^15-2]
-
-<sup>4</sup> Può discostarsi dalla ripartizione di cui al capoverso 3 se in tal modo è possibile soddisfare meglio le necessità dei Cantoni.
-
-[^15-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^15-1]: Abrogato dal n. I dell’O del 31 mar. 2021, con effetto dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 16
 
@@ -280,9 +372,10 @@ Il contratto stabilisce segnatamente:
 - a. le basi legali a livello federale e cantonale;
 - b. i provvedimenti per i casi di rigore adottati dal Cantone;
 - c. gli obblighi del Cantone;
-- d. la partecipazione finanziaria della Confederazione ai provvedimenti cantonali.
+- d.[^16-2] ...
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^16-2]: Abrogata dal n. I dell’O del 31 mar. 2021, con effetto dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 17
 
@@ -298,11 +391,13 @@ I contributi della Confederazione sono pagati al Cantone:
 - b. nel caso delle fideiussioni: se sono escusse o nel caso delle garanzie se sono richieste;
 - c. nel caso dei contributi non rimborsabili: nel 2021 e nel caso dei pagamenti residui nel 2022.
 
-<sup>3</sup> I ricavi derivanti dal recupero di mutui e fideiussioni, da cui sono dedotti i costi sostenuti per il recupero, sono ripartiti tra Confederazione e Cantoni in funzione della partecipazione ai costi prevista nella legge.
+<sup>3</sup> I ricavi derivanti dal recupero di mutui e fideiussioni, da cui sono dedotti i costi sostenuti per il recupero, sono ripartiti tra Confederazione e Cantoni in funzione dell’effettiva partecipazione ai costi.[^17-2]
 
-<sup>4</sup> I rimborsi effettuati da imprese in seguito a indicazioni false e i rimborsi volontari di contributi non rimborsabili secondo l’articolo 6 lettera a numero 2 sono ripartiti tra Confederazione e Cantoni in funzione della partecipazione ai costi prevista nella legge.
+<sup>4</sup> I rimborsi effettuati da imprese in seguito a indicazioni false e i rimborsi volontari di contributi non rimborsabili sono ripartiti tra Confederazione e Cantoni in funzione dell’effettiva partecipazione ai costi.[^17-3]
 
 [^17-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^17-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 18
 
@@ -312,31 +407,31 @@ I contributi della Confederazione sono pagati al Cantone:
 
 I rapporti dei Cantoni concernenti i provvedimenti di sostegno concessi o garantiti devono contenere almeno le seguenti informazioni:
 
-- a. numero IDI e nome delle imprese che beneficiano di un sostegno;
+- a.[^18-1] numero IDI, nome e dati sulla cifra d’affari delle imprese che beneficiano di un sostegno;
 - b. importo e forma dell’aiuto per singola impresa;
 - c. conferma dell’esame del singolo caso e del rispetto dei requisiti che danno diritto al sostegno conformemente alla presente ordinanza;
 - d. rapporto sullo stato dei mutui rimborsabili, delle fideiussioni e delle garanzie esigibili pendenti;
 - e. rapporto sulle misure per la lotta agli abusi.
 
-<sup>1bis</sup> Per ciascun sostegno concesso, su richiesta il Cantone mette a disposizione della SECO tutti i giustificativi. Perlomeno i giustificativi sulla data di costituzione dell’impresa e sulla cifra d’affari nonché i giustificativi per la conferma che l’impresa non è oggetto di una procedura di fallimento o di una procedura di liquidazione non possono basarsi su una mera autodichiarazione.[^18-1]
+<sup>1bis</sup> Per ciascun sostegno concesso, su richiesta il Cantone mette a disposizione della SECO tutti i giustificativi. Perlomeno i giustificativi sulla data di costituzione dell’impresa e sulla cifra d’affari nonché i giustificativi per la conferma che l’impresa non è oggetto di una procedura di fallimento o di una procedura di liquidazione non possono basarsi su una mera autodichiarazione.[^18-2]
 
-<sup>2</sup> I rapporti sono presentati mediante una soluzione informatica fornita dalla SECO. Nel 2021 i rapporti sono presentati mensilmente, dal 2022 semestralmente.
+<sup>2</sup> I rapporti sono presentati mediante una soluzione informatica fornita dalla SECO. Nel 2021 i rapporti sono presentati mensilmente, dal 2022 semestralmente. Sino al 30 giugno 2021 i rapporti mensili sono integrati da rapporti settimanali sulle garanzie concesse.[^18-3]
 
 <sup>3</sup> I Cantoni inoltrano alla SECO le fatture di cui all’articolo 17 capoverso 1 per un periodo complessivo di un anno. Per i contributi non rimborsabili il Cantone può inoltrare le fatture alla Confederazione semestralmente.
 
 <sup>4</sup> Il DEFR può stabilire ulteriori dettagli.
 
-[^18-1]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^18-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^18-2]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 #### Art. 19
 
-**Riduzione a posteriori e domanda di restituzione**[^19-1]
+**Restituzione**[^19-1]
 
-<sup>1</sup> Il quadro finanziario secondo l’articolo 15 può essere ridotto a posteriori se il Cantone non rispetta i requisiti della presente ordinanza o del contratto di cui all’articolo 16.
+La Confederazione può trattenere i pagamenti ai Cantoni o chiedere la restituzione dei pagamenti versati a un Cantone se risulta che i requisiti della presente ordinanza o del contratto di cui all’articolo 16 non sono stati rispettati.
 
-<sup>2</sup> La Confederazione può chiedere la restituzione dei pagamenti versati a un Cantone se in un secondo momento risulta che i requisiti della presente ordinanza o del contratto di cui all’articolo 16 non sono stati rispettati.
-
-[^19-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^19-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 
 ## Sezione 6: Procedura concordataria, perdita di capitale ed eccedenza dei debiti
 
@@ -379,6 +474,16 @@ Ai fini del calcolo della copertura del capitale e delle riserve secondo l’art
 
 Per quanto concerne la Confederazione l’esecuzione della presente ordinanza è di competenza della SECO.
 
+#### Art. 22a
+
+**Disposizioni transitorie della modifica del 31 marzo 2021**[^22a-1]
+
+<sup>1</sup> Il divieto di distribuire dividendi di cui all’articolo 6 lettera a nella versione della modifica del 31 marzo 2021 si applica alle imprese i cui aiuti per i casi di rigore sono garantiti a partire dal 1° aprile 2021.
+
+<sup>2</sup> La partecipazione agli utili di cui all’articolo 8*e* nella versione della modifica del 31 marzo 2021 si applica alle imprese i cui aiuti per i casi di rigore sono garantiti a partire dal 1° aprile 2021.
+
+[^22a-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+
 #### Art. 23
 
 **Entrata in vigore e durata di validità**
@@ -391,41 +496,6 @@ Per quanto concerne la Confederazione l’esecuzione della presente ordinanza è
 
 <sup>4</sup> Il capoverso 3 entra in vigore se entra in vigore la modifica della legge COVID-19 del 25 settembre 2020 che proroga la durata di validità del suo articolo 9 lettera c sino al 31 dicembre 2031.
 
-Allegato
+Allegato*[^t-1]*
 
-(art. 15 cpv. 1)
-
-## Quota percentuale sull’importo massimo della Confederazione per Cantone
-
-Chiave di ripartizione secondo l’articolo 15
-
-<table>
-<tr><td>N.</td><td>Cantone</td><td>Quota in %</td></tr>
-<tr><td>1</td><td>ZH</td><td>19,99 %</td></tr>
-<tr><td>2</td><td>BE</td><td>11,88 %</td></tr>
-<tr><td>3</td><td>LU</td><td>4,29 %</td></tr>
-<tr><td>4</td><td>UR</td><td>0,33 %</td></tr>
-<tr><td>5</td><td>SZ</td><td>1,56 %</td></tr>
-<tr><td>6</td><td>OW</td><td>0,40 %</td></tr>
-<tr><td>7</td><td>NW</td><td>0,46 %</td></tr>
-<tr><td>8</td><td>GL</td><td>0,43 %</td></tr>
-<tr><td>9</td><td>ZG</td><td>2,40 %</td></tr>
-<tr><td>10</td><td>FR</td><td>3,09 %</td></tr>
-<tr><td>11</td><td>SO</td><td>2,83 %</td></tr>
-<tr><td>12</td><td>BS</td><td>4,18 %</td></tr>
-<tr><td>13</td><td>BL</td><td>3,10 %</td></tr>
-<tr><td>14</td><td>SH</td><td>1,02 %</td></tr>
-<tr><td>15</td><td>AR</td><td>0,53 %</td></tr>
-<tr><td>16</td><td>AI</td><td>0,16 %</td></tr>
-<tr><td>17</td><td>SG</td><td>5,65 %</td></tr>
-<tr><td>18</td><td>GR</td><td>2,20 %</td></tr>
-<tr><td>19</td><td>AG</td><td>6,77 %</td></tr>
-<tr><td>20</td><td>TG</td><td>2,73 %</td></tr>
-<tr><td>21</td><td>TI</td><td>4,32 %</td></tr>
-<tr><td>22</td><td>VD</td><td>8,79 %</td></tr>
-<tr><td>23</td><td>VS</td><td>3,15 %</td></tr>
-<tr><td>24</td><td>NE</td><td>2,22 %</td></tr>
-<tr><td>25</td><td>GE</td><td>6,79 %</td></tr>
-<tr><td>26</td><td>JU</td><td>0,74 %</td></tr>
-<tr><td>Totale</td><td></td><td>100,00 %</td></tr>
-</table>
+[^t-1]: Abrogato dal n. II dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
