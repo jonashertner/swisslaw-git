@@ -4,13 +4,13 @@ number: "823.1"
 title: Gesetz zur Reinhaltung der Luft
 short: "Lufthygienegesetz, LHG"
 language: de
-version: 2011-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-06-11
+version: 2021-04-01
+valid_until: 2025-07-31
+version_adopted: 2021-02-17
 adopted: 1989-11-16
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/823.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/243/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2174/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/243/pdf_file"
 
 (Lufthygienegesetz, LHG)
 
-vom 16.11.1989 (Stand 01.01.2011)
+vom 16.11.1989 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -92,15 +92,15 @@ beschliesst:
 
 #### Art. 8
 
-**Volkswirtschaftsdirektion**
+**Wirtschafts-, Energie- und Umweltdirektion**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion übt die Aufsicht über den Vollzug aus.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion übt die Aufsicht über den Vollzug aus.
 
 <sup>2</sup> Sie prüft die Massnahmepläne unter Beizug der betroffenen Direktionen.
 
 <sup>3</sup> Sie kann Aufgaben vertraglich an Gemeinden delegieren, insbesondere:
 
-- a Vollzug der Emissionsbestimmungen von Artikel 3–16 LRV[^8-1];
+- a Vollzug der Emissionsbestimmungen von Artikel 3 bis 16 LRV[^8-1];
 - b Erstellen und Nachführen von Verzeichnissen über Quellen und Verursacher von Luftverunreinigungen;
 - c dauernde oder periodische Überwachung der Luftverunreinigung in Gemeinden mit übermässigen Immissionen.
 
@@ -110,7 +110,7 @@ beschliesst:
 
 **Zuständige Stelle**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion
 
 - a ist die Fachstelle Luftreinhaltung des Kantons gemäss Artikel 42 USG[^9-1],
 - b leitet die Ausarbeitung der Massnahmenpläne und stellt die Koordination zwischen den betroffenen Gemeinden und den zuständigen kantonalen Amtsstellen sicher.
@@ -169,12 +169,12 @@ beschliesst:
 
 **Finanzierung bei Delegation von Aufgaben**
 
-<sup>1</sup> Der Kanton trägt die Kosten für die im Auftrag der Volkswirtschaftsdirektion von den Gemeinden
+<sup>1</sup> Der Kanton trägt die Kosten für die im Auftrag der Wirtschafts-, Energie- und Umweltdirektion von den Gemeinden
 
 - a erstellten und nachgeführten Verzeichnisse über Quellen und Verursacher von Luftverunreinigungen gemäss Artikel 8 Absatz 3 Buchstabe b,
 - b durchgeführte periodische oder dauernde Überwachung der Luftverunreinigung gemäss Artikel 8 Absatz 3 Buchstabe c.
 
-<sup>2</sup> Die Gemeinden können der zuständigen Stelle der Volkswirtschaftsdirektion vierteljährlich ihre Abrechnungen einreichen.
+<sup>2</sup> Die Gemeinden können der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion vierteljährlich ihre Abrechnungen einreichen.
 
 #### Art. 17
 
@@ -186,19 +186,19 @@ beschliesst:
 
 - a das Durchsetzen von Massnahmenplänen,
 - b die Aus- und Weiterbildung der mit Aufgaben dieses Gesetzes betrauten Personen,
-- c Forschungsprojekte, welche die Luftreinhaltung im Kanton Bern betreffen,
+- c Forschungsprojekte, welche die Luftreinhaltung im Kanton betreffen,
 - d ausserordentliche Aktionen zur Reinhaltung der Luft.
 
 <sup>3</sup> Die Beitragssätze werden festgelegt:
 
 - a vom Regierungsrat für das Durchsetzen von Massnahmenplänen,
-- b von der zuständigen Stelle der Volkswirtschaftsdirektion für die Beiträge nach Absatz 2 Buchstaben b-d.
+- b von der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion für die Beiträge nach Absatz 2 Buchstaben b bis d.
 
 #### Art. 18
 
 **Bundesbeiträge**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion fordert die Bundesbeiträge ein.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion fordert die Bundesbeiträge ein.
 
 <sup>2</sup> Kantonsbeiträge werden nach Abzug der Leistungen des Bundes ermittelt.
 
@@ -214,7 +214,7 @@ beschliesst:
 
 **Auszahlungen**
 
-<sup>1</sup> Der zuständigen Stelle der Volkswirtschaftsdirektion obliegen alle Auszahlungen.
+<sup>1</sup> Der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion obliegen alle Auszahlungen.
 
 ## 5 Rechtspflege und Strafbestimmungen
 
@@ -222,11 +222,11 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Volkswirtschaftsdirektion und der Gemeinde kann innert 30 Tagen seit der Eröffnung schriftlich und begründet bei der Volkswirtschaftsdirektion Beschwerde erhoben werden.
+<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion und der Gemeinde kann innert 30 Tagen seit der Eröffnung schriftlich und begründet bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde erhoben werden.
 
 <sup>2</sup> …
 
-<sup>3</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^21-1]).
+<sup>3</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^21-1].
 
 [^21-1]: BSG 155.21
 
@@ -248,13 +248,13 @@ beschliesst:
 
 <sup>2</sup> Die kantonalen und kommunalen Vollzugsbehörden sowie die Polizeiorgane reichen gegen Fehlbare bei der zuständigen Staatsanwaltschaft Strafanzeige ein.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion, deren zuständige Stelle und die Gemeinden können im Strafverfahren Parteirechte ausüben.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion, deren zuständige Stelle und die Gemeinden können im Strafverfahren Parteirechte ausüben.
 
 #### Art. 24
 
 **Mitteilung von Urteilen**
 
-<sup>1</sup> Der zuständigen Stelle der Volkswirtschaftsdirektion ist von allen gestützt auf die Umweltschutzgesetzgebung im Bereich der Luftreinhaltung ausgefällten Strafurteilen Kenntnis zu geben.
+<sup>1</sup> Der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion ist von allen gestützt auf die Umweltschutzgesetzgebung im Bereich der Luftreinhaltung ausgefällten Strafurteilen Kenntnis zu geben.
 
 ## 6 Schlussbestimmungen
 

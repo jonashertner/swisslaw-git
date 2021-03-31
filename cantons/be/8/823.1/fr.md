@@ -4,13 +4,13 @@ number: "823.1"
 title: "Loi sur la protection de l'air *"
 short: LPAir
 language: fr
-version: 2011-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-06-11
+version: 2021-04-01
+valid_until: 2025-07-31
+version_adopted: 2021-02-17
 adopted: 1989-11-16
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/823.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/243/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2174/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/243/pdf_file"
 
 (LPAir)
 
-du 16.11.1989 (état au 01.01.2011)
+du 16.11.1989 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -94,9 +94,9 @@ arrête:
 
 #### Art. 8
 
-**Direction de l'économie publique**
+**Direction de l’économie, de l’énergie et de l’environnement**
 
-<sup>1</sup> La Direction de l'économie publique exerce la surveillance de l'exécution.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement exerce la surveillance de l'exécution.
 
 <sup>2</sup> Elle examine les plans de mesures en faisant appel aux Directions concernées.
 
@@ -112,7 +112,7 @@ arrête:
 
 **Service compétent**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement
 
 - a est le service cantonal spécialisé de la protection de l'air au sens de l'article 42 LPE[^9-1];
 - b dirige l'élaboration des plans de mesures et assure la coordination entre les communes concernées et les services cantonaux compétents.
@@ -171,12 +171,12 @@ arrête:
 
 **Financement en cas de délégation de tâches**
 
-<sup>1</sup> Le canton supporte les frais des tâches suivantes déléguées aux communes par la Direction de l'économie publique:
+<sup>1</sup> Le canton supporte les frais des tâches suivantes déléguées aux communes par la Direction de l’économie, de l’énergie et de l’environnement:
 
-- a l'établissement et la mise à jour des relevés sur les sources et les auteurs de pollution atmosphérique selon l'article 8, 3<sup>e</sup> alinéa, lettre b;
-- b la surveillance constante ou périodique de la pollution atmosphérique selon l'article 8, {{sfI3e}} alinéa, lettre c.
+- a l'établissement et la mise à jour des relevés sur les sources et les auteurs de pollution atmosphérique selon l'article 8, alinéa 3, lettre b;
+- b la surveillance constante ou périodique de la pollution atmosphérique selon l'article 8, alinéa 3, lettre c.
 
-<sup>2</sup> Les communes peuvent présenter leurs décomptes au service compétent de la Direction de l'économie publique trimestriellement.
+<sup>2</sup> Les communes peuvent présenter leurs décomptes au service compétent de la Direction de l’économie, de l’énergie et de l’environnement trimestriellement.
 
 #### Art. 17
 
@@ -188,19 +188,19 @@ arrête:
 
 - a l'application des plans de mesures;
 - b la formation et le perfectionnement des personnes auxquelles sont confiées des tâches définies par la présente loi;
-- c les projets de recherche qui portent sur la protection de l'air dans le canton de Berne;
+- c les projets de recherche qui portent sur la protection de l'air dans le canton;
 - d les campagnes exceptionnelles en faveur de la protection de l'air.
 
 <sup>3</sup> Les taux de subventionnement sont fixés
 
 - a par le Conseil-exécutif pour l'application des plans de mesures,
-- b par le service compétent de la Direction de l'économie publique pour les subventions selon le 2<sup>e</sup> alinéa, lettres b à d.
+- b par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement pour les subventions selon l'alinéa 2, lettres b à d.
 
 #### Art. 18
 
 **Subventions fédérales**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique réclame les subventions fédérales.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement réclame les subventions fédérales.
 
 <sup>2</sup> Les subventions cantonales sont calculées après déduction des prestations de la Confédération.
 
@@ -216,7 +216,7 @@ arrête:
 
 **Versements**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique est chargé de tous les versements.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement est chargé de tous les versements.
 
 ## 5 Voies de droit et dispositions pénales
 
@@ -224,7 +224,7 @@ arrête:
 
 **Recours**
 
-<sup>1</sup> Les décisions rendues par le service compétent de la Direction de l'économie publique et la commune peuvent, dans les 30 jours à compter de leur notification, faire l'objet d'un recours écrit et motivé devant la Direction de l'économie publique.
+<sup>1</sup> Les décisions rendues par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement et la commune peuvent, dans les 30 jours à compter de leur notification, faire l'objet d'un recours écrit et motivé devant la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> …
 
@@ -250,13 +250,13 @@ arrête:
 
 <sup>2</sup> Les autorités cantonales et communales d'exécution ainsi que les organes de police dénoncent les contrevenants au ministère public compétent.
 
-<sup>3</sup> La Direction de l'économie publique, le service compétent de la Direction de l'économie publique et les communes peuvent exercer les droits de partie en procédure pénale.
+<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement et les communes peuvent exercer les droits de partie en procédure pénale.
 
 #### Art. 24
 
 **Communication de jugements**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique doit être informé de tous les jugements pénaux rendus dans le domaine de la protection de l'air en vertu de la législation sur la protection de l'environnement.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement doit être informé de tous les jugements pénaux rendus dans le domaine de la protection de l'air en vertu de la législation sur la protection de l'environnement.
 
 ## 6 Dispositions finales
 
