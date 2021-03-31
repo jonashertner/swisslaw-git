@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Mai 2020 über den Schutz vor Cyberrisiken in der Bun
 short: CyRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/416"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/416/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-416-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/416/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/416/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-416-20210401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/416/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/416/20210101/de"
 
 (Cyberrisikenverordnung, CyRV)
 
-vom 27. Mai 2020 (Stand am 1. Januar 2021)
+vom 27. Mai 2020 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -61,7 +61,10 @@ In dieser Verordnung bedeuten:
 - d. *Resilienz:* die Fähigkeit eines Systems, einer Organisation oder einer Gesellschaft, intern oder extern verursachten Störungen zu widerstehen und das ordnungsgemässe Funktionieren zu erhalten oder dieses möglichst rasch und vollständig wiederzuerlangen;
 - e. *Informatiksicherheit:* der auf technische Systeme bezogene Aspekt der Cybersicherheit;
 - f. *Informatiksicherheitsvorgaben:* Sicherheitsanforderungen an die Organisation, die Prozesse, die Dienstleistungen und die Technik;
-- g. *kritische Infrastrukturen:* Prozesse, Systeme und Einrichtungen, die für das Funktionieren der Wirtschaft oder das Wohlergehen der Bevölkerung essenziell sind.
+- g. *kritische Infrastrukturen:* Prozesse, Systeme und Einrichtungen, die für das Funktionieren der Wirtschaft oder das Wohlergehen der Bevölkerung essenziell sind;
+- h.[^3-1] *Informatikschutzobjekte*: Anwendungen, Services, Systeme, Netzwerke, Datensammlungen, Infrastrukturen und Produkte der Informatik; mehrere gleiche oder zusammenhängende Objekte können zu einem Informatikschutzobjekt zusammengefasst werden;
+
+[^3-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 2. Kapitel: Grundsätze für den Schutz vor Cyberrisiken
 
@@ -245,40 +248,123 @@ Das NCSC übernimmt in der Bundesverwaltung nach Rücksprache mit den betroffene
 
 <sup>2</sup> Die internen Leistungserbringer nach Artikel 9 VDTI[^13-1] erstatten dem NCSC regelmässig Bericht über entdeckte Schwachstellen und Cybervorfälle sowie über geplante und getroffene Massnahmen zu deren Behebung.[^13-2]
 
-<sup>3</sup> Die Departemente und die Bundeskanzlei bestimmen je eine Informatiksicherheitsbeauftragte oder einen Informatiksicherheitsbeauftragten (ISBD).
+<sup>3</sup> Die Departemente und die Bundeskanzlei bestimmen je eine Informatiksicherheitsbeauftragte oder einen Informatiksicherheitsbeauftragten (ISBD), die oder der in direktem Auftrag der Departementsleitung handelt.[^13-3]
+
+<sup>4</sup>
+
+Die ISBD haben namentlich die folgenden Aufgaben:
+
+- a. Sie koordinieren die Informatiksicherheitsaspekte innerhalb des Departements oder der Bundeskanzlei sowie mit den Stellen, die für die departementsübergreifende Koordination und Zusammenarbeit zuständig sind.
+- b. Sie erarbeiten die notwendigen Grundlagen für die Umsetzung der Informatiksicherheitsvorgaben und für die Organisation auf der Stufe des Departements oder der Bundeskanzlei.[^13-4]
+
+<sup>5</sup> Die Departemente und die Bundeskanzlei regeln das Verhältnis zwischen der oder dem ISBD und den Informatiksicherheitsbeauftragten der Verwaltungseinheiten (ISBO), namentlich die fachliche Führung in Sicherheitsfragen.[^13-5]
 
 [^13-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
 [^13-2]: Fassung gemäss Anhang Ziff. 1 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^13-3]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-4]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-5]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 
-**Verwaltungseinheiten und ihre Leistungserbringer**
+**Verwaltungseinheiten und ihre Leistungserbringer**[^14-1]
 
-<sup>1</sup> Die Verwaltungseinheiten bestimmen je eine Informatiksicherheitsbeauftragte oder einen Informatiksicherheitsbeauftragten (ISBO). Der Bereich digitale Transformation und IKT-Lenkung der Bundeskanzlei bestimmt zusätzlich eine Informatiksicherheitsbeauftragte oder einen Informatiksicherheitsbeauftragten für die IKT-Standarddienste.[^14-1]
+<sup>1</sup> Die Verwaltungseinheiten bestimmen je eine oder einen ISBO, die oder der in direktem Auftrag der Leitung der Verwaltungseinheit handelt. Der Bereich Digitale Transformation und IKT-Lenkung der Bundeskanzlei (Bereich DTI der BK) bestimmt zusätzlich eine Informatiksicherheitsbeauftragte oder einen Informatiksicherheitsbeauftragten für die Standarddienste.
 
 <sup>2</sup>
 
-Die Verwaltungseinheiten sind für den Schutz ihrer Informatiksysteme, Anwendungen und Daten (Schutzobjekte) verantwortlich. Sie nehmen folgende Funktionen wahr:
+Die ISBO und die oder der Informatiksicherheitsbeauftragte für die Standarddienste nehmen die folgenden Aufgaben wahr:
 
-- a. Sie prüfen ihre Schutzobjekte regelmässig und ergreifen die notwendigen Sicherheitsmassnahmen; sie stellen namentlich sicher, dass diese für die einzelnen Schutzobjekte in aktueller Form dokumentiert sind.
-- b. Sie sind für die Einhaltung der Informatiksicherheitsvorgaben und der Beschlüsse des Bundesrates, des NCSC und der Departemente beziehungsweise der Bundeskanzlei in ihrem Zuständigkeitsbereich verantwortlich.
-- c. Sie sind unter Vorbehalt von Artikel 12 Absatz 5 verantwortlich für die Bewältigung von Cybervorfällen, die ihre Schutzobjekte betreffen.
+- a. Sie sorgen in den Verwaltungseinheiten für eine rasche Umsetzung der Informatiksicherheitsvorgaben und für die Anwendung der Sicherheitsverfahren (3*a*. Kap.).
+- b. Sie sorgen dafür, dass die Mitarbeiterinnen und Mitarbeiter bei Stellenantritt sowie periodisch für Themen der Informatiksicherheit sensibilisiert und geschult werden und die Zuständigkeiten sowie die Abläufe der Informatiksicherheit in ihrem Arbeitsumfeld je nach Stufe und Funktion kennen.
+- c. Sie informieren die Leiterin oder den Leiter ihrer Verwaltungseinheit mindestens halbjährlich über den aktuellen Stand der Informatiksicherheit in ihrer Verwaltungseinheit.
+
+<sup>3</sup>
+
+Die Verwaltungseinheiten sind für die Sicherheit ihrer Informatikschutzobjekte verantwortlich. Sie nehmen die folgenden Funktionen wahr:
+
+- a. Sie führen ein Inventar ihrer Informatikschutzobjekte und ergreifen die notwendigen Sicherheitsmassnahmen; sie stellen namentlich sicher, dass diese für die einzelnen Informatikschutzobjekte in aktueller Form dokumentiert sind.
+- b. Sie sind für die Einhaltung und die Umsetzung der Informatiksicherheitsvorgaben, der Sicherheitsverfahren und der Beschlüsse des Bundesrates, des NCSC und der Departemente beziehungsweise der Bundeskanzlei in ihrem Zuständigkeitsbereich verantwortlich.
+- c. Sie sind unter Vorbehalt von Artikel 12 Absatz 5 verantwortlich für die Bewältigung von Cybervorfällen, die ihre Informatikschutzobjekte betreffen.
 - d. Sie stellen sicher, dass beim Bezug von Leistungen bei einem externen Leistungserbringer die Informatiksicherheitsvorgaben Teil des Vertragsverhältnisses mit diesem sind.
-- e. Sie überprüfen die Einhaltung der Informatiksicherheitsvorgaben durch externe Leistungserbringer in geeigneter Weise.
+- e. Sie überprüfen in geeigneter Weise, ob die externen Leistungserbringer die Informatikvorgaben einhalten.
+- f. Sie stellen sicher, dass die Verantwortlichkeiten für die Informatiksicherheit auf der betrieblichen Ebene in den Projekt- und Leistungsvereinbarungen zwischen den Leistungserbringern und den Leistungsbezügern festgehalten sind.
+- g. Sie sorgen dafür, dass Personen, auf die diese Verordnung nicht anwendbar ist, nur dann Zugriff auf die Informatikinfrastruktur des Bundes erhalten, wenn sie sich verpflichten, die Informatiksicherheitsvorgaben einzuhalten.
 
-<sup>3</sup> Die Leistungserbringer stellen sicher, dass sie über die nötigen Kapazitäten zur Bewältigung von Cybervorfällen bei sich und ihren Leistungsbezügern verfügen.
+<sup>4</sup>
 
-<sup>4</sup> Die Leistungserbringer melden den Leistungsbezügern entdeckte Schwachstellen und Sicherheitsvorfälle unverzüglich.
+Die Leistungserbringer nehmen folgende Funktionen wahr:
 
-<sup>5</sup> Die Leistungsbezüger definieren in Zusammenarbeit mit den Leistungserbringern einen Prozess für die Bewältigung von Cybervorfällen. Darin werden namentlich die Entscheidkompetenzen für Sofortmassnahmen geregelt.
+- a. Sie stellen ihren Leistungsbezügern auf Verlangen alle nötige Informationen für den Schutz ihrer Informatikschutzobjekte in geeigneter Form zu.
+- b. Sie stellen sicher, dass sie über die nötigen Kapazitäten verfügen zur technischen Analyse und zur Bewältigung von Cybervorfällen, die sie selber oder ihre Leistungsbezüger betreffen.
+- c. Sie melden ihren Leistungsbezügern unverzüglich entdeckte Schwachstellen und Sicherheitsvorfälle, die deren Informatikschutzobjekte betreffen.
+- d. Sie definieren in Zusammenarbeit mit den Leistungsbezügern einen Prozess für die Bewältigung von Cybervorfällen; darin werden namentlich die Entscheidkompetenzen für Sofortmassnahmen geregelt.
 
-<sup>6</sup> Kann ein Cybervorfall nicht im Rahmen des definierten Prozesses bewältigt werden, so informieren die Betroffenen das NCSC, um das weitere Vorgehen zu bestimmen.
+<sup>5</sup> Kann ein Cybervorfall nicht im Rahmen des definierten Prozesses bewältigt werden, so informieren die Betroffenen das NCSC, um das weitere Vorgehen zu bestimmen.
 
-<sup>7</sup> Die Verwaltungseinheiten konsultieren das NCSC bei sicherheitsrelevanten Informatikvorgaben sowie -vorhaben.
+<sup>6</sup> Die Verwaltungseinheiten konsultieren das NCSC bei sicherheitsrelevanten Informatikvorgaben sowie -vorhaben.
 
-<sup>8</sup> Die Verwaltungseinheiten sind für die Entwicklung, Umsetzung und Prüfung von Standards und Regulierungen in Bezug auf die Cybersicherheit in ihren Sektoren verantwortlich. Das NCSC stellt ihnen im Rahmen der Möglichkeiten Expertinnen und Experten aus dem Pool nach Artikel 12 Absatz 1 Buchstabe g zur Verfügung.
+<sup>7</sup> Sie sind für die Entwicklung, Umsetzung und Prüfung von Standards und Regulierungen in Bezug auf die Cybersicherheit in ihren Bereichen verantwortlich. Das NCSC stellt ihnen im Rahmen der Möglichkeiten Expertinnen und Experten aus dem Pool nach Artikel 12 Absatz 1 Buchstabe g zur Verfügung.
 
-[^14-1]: Fassung gemäss Anhang Ziff. 1 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+#### Art. 14a
+
+**Mitarbeiterinnen und Mitarbeiter**[^14a-1]
+
+Die Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung, die Informatikmittel nutzen, sind für deren vorschriftsgemässe Handhabung verantwortlich.
+
+[^14a-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+## 3*a*. Kapitel: Sicherheitsverfahren
+
+[^chap3a-1]
+
+[^chap3a-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+#### Art. 14b
+
+**Schutzbedarfsanalyse**
+
+<sup>1</sup> Die Verwaltungseinheiten stellen sicher, dass alle Informatikschutzobjekte über eine aktuelle Schutzbedarfsanalyse verfügen. Bei IT-Projekten müssen sie die Schutzbedarfsanalyse vor der Projektfreigabe durchführen.
+
+<sup>2</sup> In der Schutzbedarfsanalyse beurteilen sie die Aspekte der Vertraulichkeit, der Verfügbarkeit, der Integrität, der Nachvollziehbarkeit und der Gefährdung durch nachrichtendienstliche Ausspähung.
+
+#### Art. 14c
+
+**Grundschutz**
+
+Die Verwaltungseinheiten setzen die Vorgaben für den Grundschutz für alle Informatikschutzobjekte um und dokumentieren die Umsetzung.
+
+#### Art. 14d
+
+**Erhöhter Schutz**
+
+<sup>1</sup> Ergibt die Schutzbedarfsanalyse einen erhöhten Schutzbedarf, so definieren die Verwaltungseinheiten, zusätzlich zur Umsetzung der Sicherheitsvorgaben für den Grundschutz und basierend auf einer Risikoanalyse, weitere Sicherheitsmassahmen, dokumentieren diese und setzen sie um.
+
+<sup>2</sup> Die Verwaltungseinheiten weisen Risiken aus, die nicht oder nur ungenügend reduziert werden können (Restrisiken), und dokumentieren diese. Die Projektauftraggeberin oder der Projektauftraggeber, die oder der Geschäftsprozessverantwortliche sowie die Leitung der Verwaltungseinheit nehmen die Restrisiken zur Kenntnis und bestätigen dies schriftlich.
+
+<sup>3</sup> Der Entscheid darüber, ob bekannte Restrisiken in Kauf genommen werden, obliegt der Leiterin oder dem Leiter der zuständigen Verwaltungseinheit.
+
+#### Art. 14e
+
+**Periodizität**
+
+<sup>1</sup> Die Sicherheitsverfahren sind mindestens alle fünf Jahre durchzuführen.
+
+<sup>2</sup> Bei sicherheitsrelevanten Änderungen am Informatikschutzobjekt oder an der Bedrohungslage sind sie unverzüglich durchzuführen.
+
+## 3*b*. Kapitel: Dezentral anfallende Kosten
+
+[^chap3b-1]
+
+[^chap3b-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+#### Art. 14f
+
+<sup>1</sup> Die dezentral anfallenden Kosten für die Informatiksicherheit sind Teil der Projekt- und der Betriebskosten.
+
+<sup>2</sup> Sie sind bei der Planung ausreichend zu berücksichtigen.
 
 ## 4. Kapitel: Schlussbestimmungen
 
@@ -296,7 +382,7 @@ Die Änderung anderer Erlasse ist im Anhang geregelt.
 
 <sup>2</sup> Sie unterstehen ab dem 1. Januar 2022 dieser Verordnung, sofern die Vereinbarung nicht spätestens per 31. Dezember 2021 aufgelöst wurde.
 
-[^16-1]: [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844), [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796), [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319)[3445](https://fedlex.data.admin.ch/eli/oc/2016/581), [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162), [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)
+[^16-1]: [[AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796); [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162); [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)]
 [^16-2]: Fassung gemäss Anhang Ziff. 1 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 17
@@ -321,6 +407,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)konsultiert werden.

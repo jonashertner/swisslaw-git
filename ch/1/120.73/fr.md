@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur la protection contre les cyberrisques dans
 short: OPCy
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/416"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/416/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-416-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/416/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/416/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-416-20210401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/416/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/416/20210101/fr"
 
 (Ordonnance sur les cyberrisques, OPCy)
 
-du 27 mai 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 27 mai 2020 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -61,7 +61,10 @@ Dans la présente ordonnance, on entend par:
 - d. *résilience:* l’aptitude d’un système, d’une organisation ou d’une société à faire face à des perturbations internes ou externes et à maintenir son bon fonctionnement ou à le rétablir aussi rapidement et complètement que possible;
 - e. *sécurité informatique:* l’aspect de la cybersécurité qui concerne les systèmes techniques;
 - f. *directives en matière de sécurité informatique:* les exigences de sécurité concernant l’organisation, les processus, les prestations et la technique;
-- g. *infrastru**ctures critiques:* les processus, systèmes et installations indispensables au fonctionnement de l’économie et au bien-être de la population.
+- g. *infrastru**ctures critiques:* les processus, systèmes et installations indispensables au fonctionnement de l’économie et au bien-être de la population;
+- h.[^3-1] *objets informatiques à protéger:* les applications, services, systèmes, réseaux, fichiers de données, infrastructures et produits relevant de l’informatique; plusieurs objets identiques ou connexes peuvent être regroupés en un seul objet informatique à protéger.
+
+[^3-1]: Introduite par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Chapitre 2 Principes régissant la protection contre les cyberrisques
 
@@ -244,40 +247,123 @@ En concertation avec les services concernés de l’administration fédérale, l
 
 <sup>2</sup> Les fournisseurs de prestations internes visés à l’art. 9 OTNI[^13-1] rendent régulièrement compte au NCSC des failles de sécurité et des cyberincidents détectés ainsi que des mesures prises ou prévues pour y remédier.[^13-2]
 
-<sup>3</sup> Les départements et la Chancellerie fédérale désignent chacun un délégué à la sécurité informatique (DSID).
+<sup>3</sup> Les départements et la Chancellerie fédérale désignent chacun un délégué à la sécurité informatique (DSID), qui agit sur mandat direct de la direction du département.[^13-3]
+
+<sup>4</sup>
+
+Les DSID assument notamment les tâches suivantes:
+
+- a. coordonner les aspects de la sécurité informatique au sein du département ou de la Chancellerie fédérale ainsi qu’avec les services compétents en matière de coordination et de collaboration au niveau interdépartemental;
+- b. élaborer les bases nécessaires à la mise en œuvre des directives en matière de sécurité informatique et à l’organisation au niveau du département ou de la Chancellerie fédérale.[^13-4]
+
+<sup>5</sup> Les départements et la Chancellerie fédérale règlent les relations entre le DSID et les délégués à la sécurité informatique des unités administratives (DSIO), notamment la conduite technique en matière de sécurité.[^13-5]
 
 [^13-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
 [^13-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-4]: Introduit par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-5]: Introduit par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 
-**Unités administratives et fournisseurs de prestations**
+**Unités administratives et fournisseurs de prestations**[^14-1]
 
-<sup>1</sup> Les unités administratives désignent chacune un délégué à la sécurité informatique (DSIO). Le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale désigne par ailleurs un délégué à la sécurité informatique des services standard.[^14-1]
+<sup>1</sup> Les unités administratives désignent chacune un DSIO, qui agit sur mandat direct de la direction de l’unité administrative. Le secteur Transformation numérique et gouvernance de l’informatique de la Chancellerie fédérale (secteur TNI de la ChF) désigne en outre un délégué à la sécurité informatique des services standard.
 
 <sup>2</sup>
 
-Les unités administratives sont responsables de la protection de leurs systèmes informatiques, de leurs applications et de leurs données (éléments protégés). Elles assument les fonctions suivantes:
+Les DSIO et le délégué à la sécurité informatique des services informatiques standard assument les tâches suivantes:
 
-- a. examiner régulièrement les éléments protégés et prendre les mesures de sécurité nécessaires; veiller notamment à ce que ces mesures soient consignées sous une forme actualisée pour chaque élément protégé;
-- b. s’assurer du respect des directives en matière de sécurité informatique et des décisions du Conseil fédéral, du NCSC et des départements ou de la Chancellerie fédérale dans leurs domaines de compétences respectifs;
-- c. sous réserve de l’art. 12, al. 5, gérer tout cyberincident touchant les éléments protégés;
+- a. veiller à la mise en œuvre rapide des directives en matière de sécurité informatique et à l’application des procédures de sécurité dans les unités administratives (chap. 3*a*);
+- b. veiller à ce que les collaborateurs soient sensibilisés et formés aux enjeux de la sécurité informatique à leur entrée en fonction puis à intervalles réguliers, et à ce qu’ils connaissent, au niveau qui les concerne et selon leur fonction, les compétences et les procédures applicables en matière de sécurité informatique dans leur environnement de travail;
+- c. informer le responsable de leur unité administrative au moins tous les six mois de l’état de la sécurité informatique dans l’unité administrative.
+
+<sup>3</sup>
+
+Les unités administratives sont responsables de la sécurité de leurs objets informatiques à protéger. Elles assument les fonctions suivantes:
+
+- a. faire l’inventaire de leurs objets informatiques à protéger et prendre les mesures de sécurité nécessaires; veiller notamment à ce que ces mesures soient consignées sous une forme actualisée pour chaque objet informatique à protéger;
+- b. s’assurer du respect et de la mise en œuvre des directives en matière de sécurité informatique, des procédures de sécurité et des décisions du Conseil fédéral, du NCSC et des départements ou de la Chancellerie fédérale dans leurs domaines de compétence respectifs;
+- c. sous réserve de l’art. 12, al. 5, gérer tout cyberincident touchant leurs objets informatiques à protéger;
 - d. s’assurer qu’en cas d’acquisition de prestations auprès d’un fournisseur externe, les directives en matière de sécurité informatique font partie intégrante du contrat;
-- e. vérifier de manière appropriée que les directives en matière de sécurité informatique sont respectées par les fournisseurs externes.
+- e. vérifier de manière appropriée que les directives en matière de sécurité informatique sont respectées par les fournisseurs externes;
+- f. veiller à ce que les responsabilités en matière de sécurité informatique soient définies au niveau opérationnel dans les accords de projets et les conventions de prestations conclus entre les fournisseurs et les bénéficiaires de prestations;
+- g. veiller à ce que les personnes non soumises à la présente ordonnance ne puissent accéder à l’infrastructure informatique de la Confédération que si elles s’engagent à respecter les directives en matière de sécurité informatique.
 
-<sup>3</sup> Les fournisseurs veillent à disposer des capacités nécessaires pour gérer les cyberincidents qui se produisent chez eux et chez les destinataires des prestations.
+<sup>4</sup>
 
-<sup>4</sup> Ils informent sans délai les destinataires des prestations des failles et des incidents de sécurité détectés.
+Les fournisseurs de prestations assument les fonctions suivantes:
 
-<sup>5</sup> Les destinataires des prestations définissent en collaboration avec les fournisseurs un processus de gestion des cyberincidents. Celui-ci règle en particulier les compétences décisionnelles dont relèvent les mesures d’urgence.
+- a. transmettre aux bénéficiaires de prestations, à la demande de ceux-ci et sous une forme appropriée, toutes les informations nécessaires à la protection de leurs objets informatiques à protéger;
+- b. veiller à disposer des capacités nécessaires à l’analyse technique et à la gestion des cyberincidents qui les concernent ou qui concernent leurs bénéficiaires de prestations;
+- c. informer sans délai leurs bénéficiaires de prestations des failles et des incidents de sécurité détectés qui concernent leurs objets informatiques à protéger;
+- d. définir, en collaboration avec les bénéficiaires de prestations, un processus de gestion des cyberincidents; celui-ci règle en particulier les compétences décisionnelles dont relèvent les mesures d’urgence.
 
-<sup>6</sup> Si un cyberincident ne peut être géré dans le cadre du processus défini, les personnes concernées informent le NCSC afin de définir la marche à suivre.
+<sup>5</sup> Si un cyberincident ne peut être géré dans le cadre du processus défini, les personnes concernées informent le NCSC afin de définir la marche à suivre.
 
-<sup>7</sup> Les unités administratives consultent le NCSC pour ce qui concerne les directives et projets informatiques ayant une incidence sur la sécurité.
+<sup>6</sup> Les unités administratives consultent le NCSC pour ce qui concerne les directives et projets informatiques ayant une incidence sur la sécurité.
 
-<sup>8</sup> Elles sont responsables du développement, de la mise en œuvre et de l’évaluation de normes et de réglementations en matière de cybersécurité dans leurs secteurs respectifs. Le NCSC met à leur disposition, dans la mesure de ses possibilités, des experts du pool visé à l’art. 12, al. 1, let. g.
+<sup>7</sup> Elles sont responsables du développement, de la mise en œuvre et de l’évaluation de normes et de réglementations en matière de cybersécurité dans leurs domaines respectifs. Le NCSC met à leur disposition, dans la mesure des possibilités, des experts du pool visé à l’art. 12, al. 1, let. g.
 
-[^14-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+#### Art. 14a
+
+**Collaborateurs**[^14a-1]
+
+Les collaborateurs de l’administration fédérale qui utilisent des moyens informatiques sont responsables de leur utilisation conforme aux prescriptions.
+
+[^14a-1]: Introduit par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+## Chapitre 3*a* Procédures de sécurité
+
+[^chap3a-1]
+
+[^chap3a-1]: Introduit par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+#### Art. 14b
+
+**Analyse des besoins de protection**
+
+<sup>1</sup> Les unités administratives s’assurent qu’une analyse actuelle des besoins de protection est disponible pour tous les objets informatiques à protéger. Les projets informatiques doivent faire l’objet d’une telle analyse avant d’être validés.
+
+<sup>2</sup> Lors de l’analyse des besoins de protection, les unités administratives évaluent les aspects de la confidentialité, de la disponibilité, de l’intégrité, de la traçabilité et du risque d’espionnage par des services de renseignement.
+
+#### Art. 14c
+
+**Protection de base**
+
+Les unités administratives mettent en œuvre les règles de protection de base pour tous les objets informatiques à protéger et documentent cette mise en œuvre.
+
+#### Art. 14d
+
+**Protection accrue**
+
+<sup>1</sup> Si l’analyse révèle des besoins de protection accrus, les unités administratives définissent, en plus de la mise en œuvre des directives en matière de sécurité relevant de la protection de base, d’autres mesures de sécurité sur la base d’une analyse des risques, documentent ces mesures et les mettent en œuvre.
+
+<sup>2</sup> Les unités administratives mettent en évidence les risques qui ne peuvent être réduits ou qui ne peuvent l’être que de manière insuffisante (risques résiduels) et documentent ces risques. Le mandant du projet, le responsable du processus d’affaires et le responsable de l’unité administrative prennent connaissance des risques résiduels et confirment par écrit qu’ils l’ont fait.
+
+<sup>3</sup> La décision d’assumer ou non les risques résiduels connus appartient au responsable de l’unité administrative compétente.
+
+#### Art. 14e
+
+**Périodicité**
+
+<sup>1</sup> Les procédures de sécurité doivent être exécutées au moins tous les cinq ans.
+
+<sup>2</sup> Elles doivent être exécutées sans délai si l’objet informatique à protéger ou la situation en matière de menace subissent des modifications ayant une incidence sur la sécurité.
+
+## Chapitre 3*b* Coûts décentralisés
+
+[^chap3b-1]
+
+[^chap3b-1]: Introduit par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+**Art. 14**f
+
+<sup>1</sup> Les coûts décentralisés de la sécurité informatique font partie des coûts de projet et d’exploitation.
+
+<sup>2</sup> Ils doivent être suffisamment pris en compte lors de la planification.
 
 ## Chapitre 4 Dispositions finales
 
@@ -295,7 +381,7 @@ La modification d’autres actes est réglée en annexe.
 
 <sup>2</sup> Ils sont soumis à la présente ordonnance à partir du 1<sup>er</sup> janvier 2022 pour autant que l’accord n’ait pas été résilié avant cette date.
 
-[^16-1]: [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844), [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796), [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319)[3445](https://fedlex.data.admin.ch/eli/oc/2016/581), [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162), [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)
+[^16-1]: [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796); [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162); [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)
 [^16-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 17

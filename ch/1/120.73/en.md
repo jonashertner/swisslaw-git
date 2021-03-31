@@ -4,11 +4,11 @@ title: "Ordinance of 27 May 2020 on Protection against Cyber Risks in the Federa
 short: CyRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/416"
 language: en
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/416/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2020-416-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/416/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/416/20210401/en/xml/fedlex-data-admin-ch-eli-cc-2020-416-20210401-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/416/20210401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Cyber Risks Ordinance, CyRV)
 
-of 27 May 2020 (Status as of 1 January 2021)
+of 27 May 2020 (Status as of 1 April 2021)
 
 The Swiss Federal Council,
 
@@ -63,7 +63,10 @@ In this Ordinance:
 - d. *resilience* means the ability of a system, organisation or society to withstand internal or external disruptions and to maintain proper functionality or restore it as quickly and completely as possible;
 - e. *information technology security* means the aspect of cyber security that relates to technical systems;
 - f. *IT security directives* means the security standards that apply to the organisational measures, processes, services and technology;
-- g. *critical infrastructures* means processes, systems and facilities that are essential for the proper functioning of the economy or the well-being of the population.
+- g. *critical infrastructures* means processes, systems and facilities that are essential for the proper functioning of the economy or the well-being of the population;
+- h.[^3-1] *protected IT systems* is a generic term for applications, services, systems, networks, data collections, infrastructures and information technology products; protected IT systems can include a combination of several identical or related systems;
+
+[^3-1]: Inserted by No I of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Chapter 2 Principles governing Protection against Cyber Risks
 
@@ -247,40 +250,123 @@ After consulting with the offices concerned, the NCSC shall assume overall respo
 
 <sup>2</sup> The internal service providers in accordance with Article 9 DTIO[^13-1] shall submit regular reports to the NCSC on weaknesses and cyber incidents that have been detected and on measures planned and taken for their rectification.[^13-2]
 
-<sup>3</sup> The departments and the Federal Chancellery shall each appoint an IT security officer (ITSOD).
+<sup>3</sup> The departments and the Federal Chancellery shall each appoint a departmental IT security officer (ITSOD), who shall act on the direct instructions of the head of department.[^13-3]
+
+<sup>4</sup>
+
+The ITSODs are in particular responsible for:
+
+- a. coordinating IT security aspects within the department or the Federal Chancellery and with the offices responsible for cross-departmental coordination and cooperation.
+- b. drawing up the required principles for implementing the IT security directives and for organisation at the level of the department or the Federal Chancellery.[^13-4]
+
+<sup>5</sup> The departments and the Federal Chancellery shall regulate the relationship between the ITSODs and the IT security officers for the administrative units (ITSOOs), in particular technical leadership on security issues.[^13-5]
 
 [^13-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
 [^13-2]: Amended by Annex No 1 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^13-3]: Amended by No I of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-4]: Inserted by No I of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-5]: Inserted by No I of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 
-**Administrative units and their service providers**
+**Administrative units and their service providers**[^14-1]
 
-<sup>1</sup> The administrative units shall each appoint an IT security officer (ITSOO). The Digital Transformation and ICT Steering Sector at the Federal Chancellery shall also appoint an IT security officer for the ICT standard services.[^14-1]
+<sup>1</sup> The administrative units shall each appoint an IT security officer (ITSOO) who shall act on the direct instructions of the head of the administrative unit. The Digital Transformation and ICT Steering Sector at the Federal Chancellery (DTI Sector of the FCh) shall also appoint an IT security officer for standard services.
 
 <sup>2</sup>
 
-The administrative units are responsible for protecting their computer systems, applications and data (protected systems). They shall carry out the following tasks:
+The ITSOOs and the IT security officer for standard services shall carry out the following tasks:
 
-- a. They shall check their protected systems regularly and take the required security measures; they shall in particular ensure that these measures are documented for the individual protected systems in the current manner.
-- b. They are responsible for compliance with the IT security directives and the decisions of the Federal Council, the NCSC and the departments or the Federal Chancellery within the scope of their responsibilities.
-- c. They are responsible, subject to Article 12 paragraph 5, for managing cyber incidents that affect their protected systems.
+- a. They shall ensure the rapid implementation of the IT security directives and the use of the security procedures in the administrative units (Chapter 3*a*).
+- b. They shall ensure that employees are made aware of and receive training on IT security issues on taking up employment and periodically thereafter and are familiar with the responsibilities and procedures for information technology security in their working environment relevant to their level and function.
+- c. They shall report to the head of their administrative unit at least every six months on the current status of information technology security in their administrative unit.
+
+<sup>3</sup>
+
+The administrative units are responsible for the security of their protected IT systems. They shall carry out the following tasks:
+
+- a. They shall conduct an inventory of their protected IT systems and take the required security measures; they shall in particular ensure that these measures are documented for the individual protected systems in the current manner.
+- b. They are responsible for compliance with and the implementation of the IT security directives and the decisions of the Federal Council, the NCSC and the departments or the Federal Chancellery within the scope of their responsibilities.
+- c. They are responsible, subject to Article 12 paragraph 5, for managing cyber incidents that affect their protected IT systems.
 - d. When obtaining services from an external service provider, they shall ensure that the IT security directives form part of the contractual relationship with that provider.
-- e. They shall verify that external service providers are in compliance with the IT security directives requirements in a suitable manner.
+- e. They shall verify in an appropriate manner whether external service providers are complying with the IT directives.
+- f. They shall ensure that the responsibilities for information technology security at an operational level are set out in the project and performance agreements between service providers and service procurers.
+- g. They shall ensure that persons to whom this Ordinance does not apply are only allowed access to federal IT infrastructure if they undertake to comply with the IT security directives.
 
-<sup>3</sup> The service providers shall ensure that they have the capacities required to manage cyber incidents that affect their own systems and those of their service procurers.
+<sup>4</sup>
 
-<sup>4</sup> The service providers shall report any weaknesses and security incidents immediately to the service recipients.
+The service providers shall perform the following functions:
 
-<sup>5</sup> The service recipients shall work with the service providers to define a process for managing cyber incidents. The process shall in particular regulate the decision-making powers in relation to immediate measures.
+- a. They shall provide their service procurers on request with all the information required to protect their protected IT systems in an appropriate form.
+- b. They shall ensure that they have the capacities required to conduct a technical analysis and manage cyber incidents that affect them directly or affect their service procurers.
+- c. They shall report to their service procurers without delay any weaknesses and security incidents that they detect that relate to their protected IT systems.
+- d. They shall work with the service providers to define a process for managing cyber incidents. The process shall in particular regulate decision-making powers in relation to immediate measures.
 
-<sup>6</sup> If it is not possible to manage a cyber incident in accordance with the defined process, the parties concerned shall inform the NCSC so that it can decide on what further action to take.
+<sup>5</sup> If it is not possible to manage a cyber incident in accordance with the defined process, the parties concerned shall inform the NCSC so that it can decide on what further action to take.
 
-<sup>7</sup> The administrative units shall consult the NCSC in connection with security-relevant IT directives as well as projects.
+<sup>6</sup> The administrative units shall consult the NCSC in connection with security-relevant IT directives as well as projects.
 
-<sup>8</sup> The administrative units are responsible for developing, implementing and checking standards and regulations in relation to cyber security in their sectors. The NCSC shall wherever possible provide them with experts from the pool mentioned in Article 12 paragraph 1 letter g.
+<sup>7</sup> They are responsible for developing, implementing and checking standards and regulations in relation to cyber security in their sectors. The NCSC shall wherever possible provide them with experts from the pool mentioned in Article 12 paragraph 1 letter g.
 
-[^14-1]: Amended by Annex No 1 of the O of 25 Nov. 2020 on the Digital Transformation and ICT, in force since 1 Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^14-1]: Amended by No I of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+#### Art. 14a
+
+**Employees**[^14a-1]
+
+Employees of the Federal Administration who use IT Resources are responsible for using them in accordance with the regulations.
+
+[^14a-1]: Inserted by No I of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+## Chapter 3*a***** Security Procedures
+
+[^chap3a-1]
+
+[^chap3a-1]: Inserted by No I of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+#### Art. 14b
+
+**Protection needs analysis**
+
+<sup>1</sup> The administrative units shall ensure that an up-to-date protection needs analysis is available for all protected IT systems. In the case of IT projects, they must conduct the protection needs analysis before the project release.
+
+<sup>2</sup> In the protection needs analysis, they shall assess the aspects of confidentiality, availability, integrity, comprehensibility and vulnerability to espionage.
+
+#### Art. 14c
+
+**Basic protection**
+
+The administrative units shall implement the directives on basic protection for all protected IT systems and document the implementation.
+
+#### Art. 14d
+
+**Increased protection**
+
+<sup>1</sup> If the protection needs analysis discloses an increased need for protection, the administrative units, in addition to implementing the security directives on basic protection and based on a risk analysis, shall devise further security measures and document and implement the same.
+
+<sup>2</sup> The administrative units shall identify risks that cannot be reduced or can only be insufficiently reduced (residual risks), and document the same. The project client or the business process owner and the head of the administrative unit shall take note of the residual risks and confirm the same in writing.
+
+<sup>3</sup> The head of the administrative unit concerned shall decide whether known residual risks are accepted.
+
+#### Art. 14e
+
+**Periodicity**
+
+<sup>1</sup> The security procedures must be carried out at least every five years.
+
+<sup>2</sup> In the event of security-relevant modifications being made to the protected IT system or to the threat situation, the procedures must be carried out immediately.
+
+## Chapter 3*b***** Costs Incurred Decentrally
+
+[^chap3b-1]
+
+[^chap3b-1]: Inserted by No I of the O of 24 Feb. 2021, in force since 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+
+**Art. 14**f
+
+<sup>1</sup> The costs of information technology security incurred decentrally are part of the project and the operating costs.
+
+<sup>2</sup> Sufficient account must be taken of such costs in the planning.
 
 ## Chapter 4 Final Provisions
 
