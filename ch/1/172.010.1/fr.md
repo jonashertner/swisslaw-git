@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 1998 sur l'organisation du gouvernement et de 
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210101/fr"
 
 (OLOGA)
 
-du 25 novembre 1998 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 novembre 1998 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -108,7 +108,7 @@ arrête:
 [^5-1]: Introduit par l’annexe 2 ch. 1 de l’O du 24 mai 2006 sur la transparence, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)).
 [^5-2]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 24 mai 2006 sur la transparence, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)).
 
-## Chapitre 1*a***** Demandes d’information de députés et de commissions parlementaires
+## Chapitre 1*a* Demandes d’information de députés et de commissions parlementaires
 
 [^chap1a-1]
 
@@ -128,7 +128,7 @@ Le Conseil fédéral statue dans tous les cas:
 
 [^5a-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 
-## Chapitre 1*b***** Consultation des commissions parlementaires compétentes en matière de politique extérieure
+## Chapitre 1*b* Consultation des commissions parlementaires compétentes en matière de politique extérieure
 
 [^chap1b-1]
 
@@ -147,7 +147,7 @@ Les commissions compétentes en matière de politique extérieure sont notamment
 
 [^5b-1]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
 
-## Chapitre 1*c***** Rapport sur les actes de la Confédération, les traités internationaux et les décisions de droit international tenus confidentiels ou secrets
+## Chapitre 1*c* Rapport sur les actes de la Confédération, les traités internationaux et les décisions de droit international tenus confidentiels ou secrets
 
 [^chap1c-1]
 
@@ -175,7 +175,7 @@ La Chancellerie fédérale tient à jour une liste des textes suivants:
 
 ## Chapitre 2 L’administration
 
-### Section 1**** Structures de l’administration fédérale
+### Section 1 Structures de l’administration fédérale
 
 [^chap2-sec1-1]
 
@@ -257,7 +257,7 @@ L’annexe 1 dresse la liste complète des unités qui suivent et indique le dé
 
 <sup>2</sup> L’annexe 2 dresse la liste complète des commissions extraparlementaires et indique le département auquel elles sont rattachées.
 
-### Section 1*a***** Commissions extraparlementaires
+### Section 1*a* Commissions extraparlementaires
 
 [^chap2-sec1a-1]
 
@@ -465,7 +465,7 @@ Les commissions qui, conformément à leur acte d’institution, informent le pu
 
 [^8iter-1]: Introduit par le ch. I de l’O du 5 déc. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)).
 
-### Section 1*b***** Organes de direction des organisations de la Confédération et représentants de la Confédération au sein d’organisations de droit public ou de droit privé****
+### Section 1*b* Organes de direction des organisations de la Confédération et représentants de la Confédération au sein d’organisations de droit public ou de droit privé
 
 [^chap2-sec1b-1][^chap2-sec1b-2]
 
@@ -504,7 +504,7 @@ Il y a conflit d’intérêts notamment lorsque:
 
 [^8jbis-1]: Introduit par le ch. I 1 de l’O du 25 nov. 2015 sur le délai de carence, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)).
 
-### Section 1*c***** Annuaire des membres des commissions extraparlementaires, des membres des organes de direction et des représentants de la Confédération
+### Section 1*c* Annuaire des membres des commissions extraparlementaires, des membres des organes de direction et des représentants de la Confédération
 
 [^chap2-sec1c-1]
 
@@ -537,7 +537,7 @@ L’annuaire contient les données suivantes sur les personnes visées à l’al
 [^8k-3]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
 [^8k-4]: Abrogé par le ch. I de l’O du 9 déc. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)).
 
-### Section 1*d***** Indemnisation des membres des commissions extraparlementaires
+### Section 1*d* Indemnisation des membres des commissions extraparlementaires
 
 [^chap2-sec1d-1]
 
@@ -867,7 +867,7 @@ Les planifications gouvernementales comprennent:
 [^22-1]: Nouvelle teneur selon l’art. 20 ch. 3 de l’O GEVER du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)).
 [^22-2]: [RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)
 
-### Section 3*a***** Conventions de prestations
+### Section 3*a* Conventions de prestations
 
 [^chap3-sec3a-1]
 
@@ -916,7 +916,7 @@ Il n’y a pas lieu de conclure de convention de prestations avec:
 
 <sup>2</sup> L’Administration fédérale des finances édicte des directives en matière d’examen des structures et fixe les objectifs des groupes de prestations conformément à l’art. 38*a*, al. 5, LOGA.
 
-### Section 3*b***** Exceptions à l’exigence de la double signature
+### Section 3*b* Exceptions à l’exigence de la double signature
 
 [^chap3-sec3b-1]
 
@@ -1014,7 +1014,7 @@ Dans l’exercice des tâches de contrôle prévues par la loi, le Conseil féd�
 [^27-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 [^27-3]: Introduite par l’annexe ch. 1 de l’O du 14 oct. 2015 (Optimisation du nouveau modèle comptable de la Confédération et nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4019](https://fedlex.data.admin.ch/eli/oc/2015/673)).
 
-### Section 6**** Enquête administrative
+### Section 6 Enquête administrative
 
 [^chap3-sec6-1]
 
@@ -1142,7 +1142,7 @@ Tout service administratif appelé à communiquer des données personnelles à l
 
 <sup>5</sup> Les résultats d’une enquête administrative peuvent donner lieu à l’ouverture d’autres procédures, prévues en particulier par le droit du personnel.
 
-## Chapitre 3*a***** Approbation d’actes législatifs cantonaux
+## Chapitre 3*a* Approbation d’actes législatifs cantonaux
 
 [^chap3a-1]
 
@@ -1188,7 +1188,7 @@ En l’absence de litige, le département compétent donne son approbation dans 
 
 <sup>3</sup> Dans le cas contraire, il soumet le dossier au Conseil fédéral dans les deux mois, en lui proposant d’approuver l’acte sous réserve ou de refuser l’approbation.
 
-## Chapitre 3*b***** Conventions des cantons entre eux ou avec l’étranger
+## Chapitre 3*b* Conventions des cantons entre eux ou avec l’étranger
 
 [^chap3b-1]
 
@@ -1323,7 +1323,7 @@ Les instructions et les documents auxiliaires portent notamment sur:
 [^30-1]: Abrogée par le ch. I de l’O du 21 août 2002, avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 [^30-2]: [[RO 1991 1632](https://fedlex.data.admin.ch/eli/oc/1991/1632_1632_1632), [1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651)art. 22. [RO 2005 4103](https://fedlex.data.admin.ch/eli/oc/2005/543)art. 22]. Voir actuellement l’O du 17 août 2005 sur la consultation ([RS 172.061.1](https://fedlex.data.admin.ch/eli/cc/2005/543)).
 
-### Section 2 Autorisation de procéder à des actes pour un état étranger et pour des tribunaux internationaux****
+### Section 2 Autorisation de procéder à des actes pour un état étranger et pour des tribunaux internationaux
 
 [^chap4-sec2-1]
 
@@ -1378,7 +1378,7 @@ L’arrêté du Conseil fédéral du 7 juillet 1971 donnant pouvoir aux départe
 
 [^35-1]: [[RO 1999 1757](https://fedlex.data.admin.ch/eli/oc/1999/281), [2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)ch. III, [2004 4521](https://fedlex.data.admin.ch/eli/oc/2004/684), [2007 349](https://fedlex.data.admin.ch/eli/oc/2007/67)[4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 7. [RO 2008 5153](https://fedlex.data.admin.ch/eli/oc/2008/719)art. 11]. Cette O est entrée en vigueur le 1<sup>er</sup> juin 1999.
 
-## Disposition transitoire de la modification du 26 novembre 2008****
+## Disposition transitoire de la modification du 26 novembre 2008
 
 [^u1-1]
 
@@ -1388,7 +1388,7 @@ L’arrêté du Conseil fédéral du 7 juillet 1971 donnant pouvoir aux départe
 
 <sup>2</sup> Jusqu’au renouvellement intégral des commissions extraparlementaires en 2011, l’art. 8*f* ne s’applique qu’aux membres des commissions nouvellement instituées.
 
-## Disposition transitoire de la modification du 27 novembre 2009****
+## Disposition transitoire de la modification du 27 novembre 2009
 
 [^u2-1]
 
@@ -1396,7 +1396,7 @@ L’arrêté du Conseil fédéral du 7 juillet 1971 donnant pouvoir aux départe
 
 Les indemnités versées aux membres des commissions extraparlementaires sont adaptées aux dispositions de la modification du 27 novembre 2009 de la présente ordonnance dans les meilleurs délais, mais au plus tard pour le début de la nouvelle législature du Conseil national.
 
-## Dispositions transitoires de la modification du 30 juin 2010****
+## Dispositions transitoires de la modification du 30 juin 2010
 
 [^u3-1]
 
@@ -1406,7 +1406,7 @@ Si le rattachement à l’administration décentralisée d’une unité administ
 
 Les commissions extraparlementaires qui ne sont pas intégrées dans l’annexe 2 en vertu de l’art. 8, al. 2, seront réexaminées et intégrées dans cette annexe lors de leur prochain renouvellement intégral, conformément à l’art. 57*d* LOGA.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 8, al. 1)
 
@@ -1421,9 +1421,9 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td></td><td>**1.**</td><td colspan="5">**Unités de l’administration fédérale** centrale**:**</td></tr>
 <tr><td></td><td></td><td>1.1</td><td colspan="4">Bundeskanzlei (BK) Chancellerie fédérale (ChF) Cancelleria federale (CaF) Chanzlia federala (ChF)</td></tr>
 <tr><td></td><td>**2.**</td><td colspan="4">**Unités de l’administration fédérale** décentralisée**:**</td></tr>
-<tr><td></td><td></td><td>**2.1**</td><td colspan="3">**Unités administratives** **sans personnalité juridique devenues aut****o****nomes sur le plan organisationnel:**</td></tr>
+<tr><td></td><td></td><td>**2.1**</td><td colspan="3">**Unités administratives** **sans personnalité juridique devenues autonomes sur le plan organisationnel:**</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">2.1.1</td><td>Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB) Préposé fédéral à la protection des données et à la transparence (PFPDT) Incaricato federale della protezione dei dati e della trasparenza (IFPDT) Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT)</td></tr>
-<tr><td></td><td></td><td>**2.2**</td><td colspan="4">**Corporations, établissements et fondations devenus juridiqu****e****ment autonomes:**</td></tr>
+<tr><td></td><td></td><td>**2.2**</td><td colspan="4">**Corporations, établissements et fondations devenus juridiquement autonomes:**</td></tr>
 <tr><td></td><td></td><td></td><td colspan="4">Aucun</td></tr>
 <tr><td></td><td></td><td>**2.3**</td><td colspan="4">**Sociétés anonymes dans lesquelles la Confédération détient une participation majoritaire:**</td></tr>
 <tr><td></td><td></td><td></td><td colspan="4">Aucune</td></tr>
@@ -1455,9 +1455,9 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">1.8</td><td colspan="3">Bundesamt für Sozialversicherungen (BSV) Office fédéral des assurances sociales (OFAS) Ufficio federale delle assicurazioni sociali (UFAS) Uffizi federal d’assicuranzas socialas (UFAS)</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">1.9</td><td colspan="3">Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) Ufficio federale della sicurezza alimentare e di veterinaria (USAV) Uffizi federal da segirezza alimentara e fatgs veterinars (USAV)</td></tr>
 <tr><td colspan="3"></td><td colspan="2"></td><td colspan="2">**2.**</td><td colspan="6">**Unités de l’administration fédérale** décentralisée**:**</td></tr>
-<tr><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.1**</td><td colspan="4">**Unités administratives sans personnalité juridique dev****e****nues autonomes sur le plan organisationnel:**</td></tr>
+<tr><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.1**</td><td colspan="4">**Unités administratives sans personnalité juridique devenues autonomes sur le plan organisationnel:**</td></tr>
 <tr><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2">Aucune</td></tr>
-<tr><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.2**</td><td colspan="4">**Corporations, établissements et fondations devenus jurid****i****quement autonomes:**</td></tr>
+<tr><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.2**</td><td colspan="4">**Corporations, établissements et fondations devenus juridiquement autonomes:**</td></tr>
 <tr><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.1</td><td colspan="2">Schweizerisches Nationalmuseum (SNM) Musée national suisse (MNS) Museo nazionale svizzero (MNS) Museum naziunal svizzer (MNS)</td></tr>
 <tr><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.2</td><td colspan="2">Pro Helvetia Pro Helvetia Pro Helvetia Pro Helvetia</td></tr>
 <tr><td colspan="3"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.3</td><td colspan="2">Schweizerisches Heilmittelinstitut (Swissmedic) Institut suisse des produits thérapeutiques (Swissmedic) Istituto svizzero per gli agenti terapeutici (Swissmedic) Institut svizzer per products terapeutics (Swissmedic)</td></tr>
@@ -1478,7 +1478,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.1.1</td><td>...</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.1.2</td><td>Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch da surveglianza dal traffic da posta e da telecommunicaziun (STPT)</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.1.3</td><td>Kommission zur Verhütung von Folter Commission de prévention de la torture Commissione per la prevenzione della tortura Cumissiun per la prevenziun cunter la tortura</td></tr>
-<tr><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4">**2.2**</td><td colspan="3">**Corporations, établissements et fondations devenus jurid****i****quement autonomes:**</td></tr>
+<tr><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4">**2.2**</td><td colspan="3">**Corporations, établissements et fondations devenus juridiquement autonomes:**</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.2.1</td><td>Schweizerisches Institut für Rechtsvergleichung (SIR) Institut suisse de droit comparé (ISDC) Istituto svizzero di diritto comparato (ISDC) Institut svizzer da dretg cumparativ (ISDC)</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.2.2</td><td>Eidgenössisches Institut für Geistiges Eigentum (IGE) Institut Fédéral de la Propriété Intellectuelle (IPI) Istituto Federale della Proprietà Intellettuale (IPI) Institut Federal da Proprietad Intellectuala (IPI)</td></tr>
 <tr><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">2.2.3</td><td>Eidgenössische Revisionsaufsichtsbehörde (RAB) Autorité fédérale de surveillance en matière de révision (ASR) Autorità federale di sorveglianza dei revisori (ASR) Autoritad federala da surveglianza en chaussas da revisiun (ASR)</td></tr>
@@ -1522,7 +1522,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td></td><td colspan="2"></td><td>**2.**</td><td colspan="3">**Unités de l’administration fédérale** décentralisée**:**</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td>**2.1**</td><td colspan="2">**Unités administratives sans personnalité juridique devenues autonomes sur le plan organisationnel:**</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td></td><td>2.1.1</td><td>Eidgenössische Finanzkontrolle (EFK) Contrôle fédéral des finances (CDF) Controllo federale delle finanze (CDF) Controlla federala da finanzas (CDF)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td>**2.2**</td><td colspan="2">**Corporations, établissements et fondations devenus jurid****i****quement autonomes:**</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td>**2.2**</td><td colspan="2">**Corporations, établissements et fondations devenus juridiquement autonomes:**</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td></td><td>2.2.1</td><td>Eidgenössische Finanzmarktaufsicht (FINMA) Autorité fédérale de surveillance des marchés financiers (FINMA) Autorità federale di vigilanza sui mercati finanziari (FINMA) Autoritad federala per la surveglianza dals martgads da finanzas (FINMA)</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td></td><td>2.2.2</td><td>Pensionskasse des Bundes PUBLICA Caisse fédérale de pensions PUBLICA Cassa pensioni della Confederazione PUBLICA Cassa federala da pensiun PUBLICA</td></tr>
 <tr><td colspan="2"></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Sociétés anonymes dans lesquelles la Confédération détient une participation majoritaire:**</td></tr>
@@ -1544,7 +1544,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td></td><td colspan="2"></td><td>**2.**</td><td colspan="5">**Unités de l’administration fédérale** décentralisée**:**</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="2">**2.1**</td><td colspan="3">**Unités administratives sans personnalité juridique devenues autonomes sur le plan organisationnel:**</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.1.1</td><td>Bereich der Eidgenössischen Technischen Hochschulen (ETH-Bereich) Domaine des écoles polytechniques fédérales (domaine des EPF) Settore dei politecnici federali (settore dei PF) Sectur da las scolas politecnicas federalas (sectur da las PF)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">**2.2**</td><td colspan="3">**Corporations, établissements et fondations devenus jurid****i****quement autonomes:**</td></tr>
+<tr><td></td><td colspan="2"></td><td></td><td colspan="2">**2.2**</td><td colspan="3">**Corporations, établissements et fondations devenus juridiquement autonomes:**</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.2.1</td><td>Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST)</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.2.2</td><td>Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH)</td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="2">2.2.3</td><td>Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE)</td></tr>
@@ -1556,7 +1556,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.9</td><td colspan="2">Eidgenössische Materialprüfungs- und Forschungsanstalt (EMPA) Laboratoire fédéral d’essai des matériaux et de recherche (EMPA) Laboratorio federale di prova dei materiali e di ricerca (EMPA) Institut federal da controlla da material e da perscrutaziun (EMPA)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.10</td><td colspan="2">Eidgenössische Anstalt für Wasserversorgung, Abwasserreinigung und Gewässerschutz (EAWAG) Institut fédéral pour l’aménagement, l’épuration et la protection des eaux (EAWAG) Istituto federale per l’approvvigionamento, la depurazione e la protezione delle acque (EAWAG) Institut federal per provediment, serenaziun e protecziun da las auas (EAWAG)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.11</td><td colspan="2">Schweizerische Agentur für Innovationsförderung (Innosuisse) Agence suisse pour l’encouragement de l’innovation (Innosuisse) Agenzia svizzera per la promozione dell’innovazione (Innosuisse) Agentura svizra per la promoziun da l’innovaziun (Innosuisse)</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Sociétés anonymes dans lesquelles la Confédération d****é****tient une participation majoritaire :**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Sociétés anonymes dans lesquelles la Confédération détient une participation majoritaire :**</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.3.1</td><td>Swiss Investment Fund for Emerging Markets (SIFEM AG) Swiss Investment Fund for Emerging Markets (SIFEM SA) Swiss Investment Fund for Emerging Markets (SIFEM SA) Swiss Investment Fund for Emerging Markets (SIFEM SA)</td></tr>
 </table>
 
@@ -1574,7 +1574,7 @@ L’administration fédérale se compose des unités suivantes:
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.**</td><td colspan="5">**Unités de l’administration fédérale** décentralisée**:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.1**</td><td colspan="3">**Unités administratives sans personnalité juridique devenues autonomes sur le plan organisationnel**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3">Aucune</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.2**</td><td colspan="3">**Corporations, établissements et fondations devenus jurid****i****quement autonomes:**</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.2**</td><td colspan="3">**Corporations, établissements et fondations devenus juridiquement autonomes:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.1</td><td>Eidgenössisches Nuklearsicherheitsinspektorat (ENSI) Inspection fédérale de la sécurité nucléaire (IFSN) Ispettorato federale della sicurezza nucleare (IFSN) Inspecturat federal per la segirezza nucleara (IFSN)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.2</td><td>Stilllegungs- und Entsorgungsfonds für Kernanlagen Fonds de désaffectation et Fonds de gestion pour les installations nucléaires Fondo di disattivazione e Fondo di smaltimento per gli impianti nucleari Fond da serrada e fond da dismessa per ils implants nuclears</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.3</td><td>Schweizerische Trassenvergabestelle (Trassenvergabestelle) Service suisse d’attribution des sillons (Service d’attribution des sillons) Servizio svizzero di assegnazione delle tracce (Servizio di assegnazione delle tracce) Servetsch svizzer d’attribuziun dals trassés (Servetsch d’attribuziun dals trassés)</td></tr>
@@ -1588,7 +1588,7 @@ Annexe 2*[^t-2]*
 
 ## Commissions extraparlementaires
 
-[^t-2]: Introduite par l’O du 27 nov. 2009 ([RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nouvelle teneur selon le ch. I 2 al. 2 de l’O du 15 juin 2012 (Réorganisation des départements; [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Mise à jour par le ch. I de l’O du 21 nov. 2012 ([RO 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), le ch. I de l’O du 30 nov. 2012 ([RO 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)), la correction du 5 fév. 2013 ([RO 2013 425](https://fedlex.data.admin.ch/eli/oc/2013/80)), l’annexe art. 12 de l’O du 1<sup>er</sup> mai 2013 sur l’organisation du Point de contact national pour les Principes directeurs de l’OCDE à l’intention des entreprises multinationales et sur sa commission consultative ([RO 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), l’art. 16 ch. 1 de l’O du 26 juin 2013 sur la Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie ([RO 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), le ch. I de l’O du 23 oct. 2013 ([RO 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)), l’art. 62 al. 2 ch. 1 de l’O du 29 nov. 2013 sur l’encouragement de la recherche et de l’innovation ([RO 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)), l’annexe ch. 1 de l’O du 12 nov. 2014 (Encouragement et coordination des hautes écoles; [RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), le ch. II de l’O du 5 déc. 2014 ([RO 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)), l’art. 24 al. 2 de l’O du 28 nov. 2014 sur les écoles suisses à l’étranger ([RO 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), le ch. II de l’O du 9 déc. 2016 ([RO 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), l’annexe ch. 1 de l’O du 15 nov. 2017 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), le ch. I de l’O du 21 sept. 2018 ([RO 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), le ch. II des O du 17 oct. 2018 ([RO 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)) et du 14 déc. 2018 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), le ch. I 1 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), l’art. 117 ch. 2 de l’O du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires ([RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)) et le ch. II de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)).
+[^t-2]: Introduite par l’O du 27 nov. 2009 ([RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Nouvelle teneur selon le ch. I 2 al. 2 de l’O du 15 juin 2012 (Réorganisation des départements; [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Mise à jour par le ch. I de l’O du 21 nov. 2012 ([RO 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), le ch. I de l’O du 30 nov. 2012 ([RO 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)), la correction du 5 fév. 2013 ([RO 2013 425](https://fedlex.data.admin.ch/eli/oc/2013/80)), l’annexe art. 12 de l’O du 1<sup>er</sup> mai 2013 sur l’organisation du Point de contact national pour les Principes directeurs de l’OCDE à l’intention des entreprises multinationales et sur sa commission consultative ([RO 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), l’art. 16 ch. 1 de l’O du 26 juin 2013 sur la Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie ([RO 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), le ch. I de l’O du 23 oct. 2013 ([RO 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)), l’art. 62 al. 2 ch. 1 de l’O du 29 nov. 2013 sur l’encouragement de la recherche et de l’innovation ([RO 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)), l’annexe ch. 1 de l’O du 12 nov. 2014 (Encouragement et coordination des hautes écoles; [RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), le ch. II de l’O du 5 déc. 2014 ([RO 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739)), l’art. 24 al. 2 de l’O du 28 nov. 2014 sur les écoles suisses à l’étranger ([RO 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), le ch. II de l’O du 9 déc. 2016 ([RO 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), l’annexe ch. 1 de l’O du 15 nov. 2017 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), le ch. I de l’O du 21 sept. 2018 ([RO 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), le ch. II des O du 17 oct. 2018 ([RO 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)) et du 14 déc. 2018 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), le ch. I 1 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), l’art. 117 ch. 2 de l’O du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires ([RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)), le ch. II des O du 18 nov. 2020 ([RO 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)) et du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 ### 1. Commissions politico-sociales: types de commission, montant de l’indemnité et département compétent
 
@@ -1600,7 +1600,7 @@ Annexe 2*[^t-2]*
 <tr><td>DEFR</td><td>Commission de surveillance du fonds de compensation de l’assurance-chômage Conseil de l’organisation du territoire Conseil suisse de la science (CSS)</td></tr>
 <tr><td>DETEC</td><td>Commission fédérale d’experts pour la sécurité biologique Commission fédérale d’éthique pour la biotechnologie dans le domaine non humain Commission fédérale des médias Commission fédérale de sécurité nucléaire Commission fédérale pour la protection de la nature et du paysage Commission fédérale pour la recherche énergétique Commission fédérale de l’hygiène de l’air Commission fédérale pour la lutte contre le bruit Plate-forme nationale «Dangers naturels»</td></tr>
 <tr><td>DFF</td><td>Commission fédérale des produits de construction Commission pour les examens fédéraux d’essayeurs-jurés</td></tr>
-<tr><td>DFI</td><td>Commission d’examens du secteur vétérinaire public Commission des produits radiopharmaceutiques Commission des professions médicales Commission des professions de la psychologie Commission fédérale des monuments historiques Commission fédérale de radioprotection Commission fédérale pour les expériences sur animaux Commission fédérale pour l’analyse génétique humaine Commission nationale d’éthique dans le domaine de la médecine humaine</td></tr>
+<tr><td>DFI</td><td>Commission d’examens du secteur vétérinaire public Commission des produits radiopharmaceutiques Commission des professions médicales Commission des professions de la psychologie Commission fédérale des monuments historiques Commission fédérale de radioprotection Commission fédérale pour la qualité Commission fédérale pour les expériences sur animaux Commission fédérale pour l’analyse génétique humaine Commission nationale d’éthique dans le domaine de la médecine humaine</td></tr>
 <tr><td>DFJP</td><td>Commission fédérale chargée de juger les possibilités de traiter les personnes internées à vie</td></tr>
 </table>
 
@@ -1646,6 +1646,6 @@ Annexe 2*[^t-2]*
 <tr><td>DFJP</td><td>Commission fédérale des maisons de jeu</td><td>M1</td><td>200 000</td><td>140 000</td><td>120 000</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 [^t-3]: Introduite par l’O du 27 nov. 2009 ([RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Abrogée par le ch. II al. 2 de l’O du 30 juin 2010, avec effet au 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).

@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210101/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. Januar 2021)
+vom 25. November 1998 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1600,7 +1600,7 @@ Anhang 2*[^t-2]*
 
 ## Ausserparlamentarische Kommissionen
 
-[^t-2]: Eingefügt durch die V vom 27. Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Fassung gemäss Ziff. I 2 Abs. 2 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Bereinigt gemäss Ziff. I der V vom 21. Nov. 2012 ([AS 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), vom 30. Nov. 2012 ([AS 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)), Berichtigung vom 5. Febr. 2013 (**2013** 425), Art. 12 der V vom 1. Mai 2013 über die Organisation des Nationalen Kontaktpunktes für die OECD-Leitsätze für multinationale Unternehmen und über seinen Beirat ([AS 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), Art. 16 Ziff. 1 der V vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandlung lebenslänglich verwahrter Straftäter ([AS 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)) und Art. 62 Abs. 2 Ziff. 1 der Forschungs- und Innovationsförderungsverordnung vom 29. Nov. 2013 ([AS 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)) und Anhang Ziff. 1 der V vom 12. Nov. 2014 zum Hochschulförderungs- und -koordinationsgesetz ([AS 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), Ziff. II der V vom 5. Dez. 2014 ([AS 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739))Art. 24 Abs. 2 der Schweizerschulenverordnung vom 28. Nov. 2014 ([AS 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), Ziff. I der V vom 1. Juli 2015 ([AS 2015 2239](https://fedlex.data.admin.ch/eli/oc/2015/415)), Ziff. II der V vom 9. Dez. 2016 ([AS 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), Anhang Ziff. 1 der V vom 15. Nov. 2017 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)), vom 14. Dez. 2018 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), und Ziff. II der V vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebung ([AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)) und Ziff. II der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)).
+[^t-2]: Eingefügt durch die V vom 27. Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Fassung gemäss Ziff. I 2 Abs. 2 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Bereinigt gemäss Ziff. I der V vom 21. Nov. 2012 ([AS 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), vom 30. Nov. 2012 ([AS 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)), Berichtigung vom 5. Febr. 2013 (**2013** 425), Art. 12 der V vom 1. Mai 2013 über die Organisation des Nationalen Kontaktpunktes für die OECD-Leitsätze für multinationale Unternehmen und über seinen Beirat ([AS 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), Art. 16 Ziff. 1 der V vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandlung lebenslänglich verwahrter Straftäter ([AS 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)) und Art. 62 Abs. 2 Ziff. 1 der Forschungs- und Innovationsförderungsverordnung vom 29. Nov. 2013 ([AS 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)) und Anhang Ziff. 1 der V vom 12. Nov. 2014 zum Hochschulförderungs- und -koordinationsgesetz ([AS 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), Ziff. II der V vom 5. Dez. 2014 ([AS 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739))Art. 24 Abs. 2 der Schweizerschulenverordnung vom 28. Nov. 2014 ([AS 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), Ziff. I der V vom 1. Juli 2015 ([AS 2015 2239](https://fedlex.data.admin.ch/eli/oc/2015/415)), Ziff. II der V vom 9. Dez. 2016 ([AS 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), Anhang Ziff. 1 der V vom 15. Nov. 2017 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)), vom 14. Dez. 2018 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), und Ziff. II der V vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebung ([AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)), Ziff. II der V vom 18. Nov. 2020 ([AS 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)) und vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 ### 1. Gesellschaftsorientierte Kommissionen: Entschädigungskategorien, Taggeldansätze und Zuordnung zu den Departementen
 
@@ -1608,7 +1608,7 @@ Anhang 2*[^t-2]*
 
 <table>
 <tr><th>Zuständiges Departement</th><th>Ausserparlamentarische Kommission</th></tr>
-<tr><td>EDI</td><td>Eidgenössische Kommission für Denkmalpflege Eidgenössische Kommission für Strahlenschutz Eidgenössische Kommission für Tierversuche Eidgenössische Kommission für genetische Untersuchungen beim Menschen Nationale Ethikkommission im Bereich der Humanmedizin Fachkommission für Radiopharmazeutika Medizinalberufekommission Psychologieberufekommission Prüfungskommission für das Veterinärwesen</td></tr>
+<tr><td>EDI</td><td>Eidgenössische Kommission für Denkmalpflege Eidgenössische Kommission für Strahlenschutz Eidgenössische Kommission für Tierversuche Eidgenössische Kommission für genetische Untersuchungen beim Menschen Nationale Ethikkommission im Bereich der Humanmedizin Fachkommission für Radiopharmazeutika Medizinalberufekommission Psychologieberufekommission Prüfungskommission für das Veterinärwesen Eidgenössische Qualitätskommission</td></tr>
 <tr><td>EJPD</td><td>Eidgenössische Fachkommission zur Beurteilung der Behandelbarkeit lebenslänglich verwahrter Straftäter</td></tr>
 <tr><td>EFD</td><td>Eidgenössische Kommission für Bauprodukte Kommission für die eidgenössische Diplomprüfung für beeidigte Edelmetallprüferinnen und -prüfer</td></tr>
 <tr><td>WBF</td><td>Aufsichtskommission für den Ausgleichsfonds der Arbeitslosenversicherung Rat für Raumordnung Schweizerischer Wissenschaftsrat (SWR)</td></tr>
