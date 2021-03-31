@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2017 über das eidgenössische Gebäude- und Wohnu
 short: VGWR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: de
-version: 2017-07-01
+version: 2021-04-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20170701/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20170701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20170701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2017-376-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20170701/de"
 
 (VGWR)
 
-vom 9. Juni 2017 (Stand am 1. Juli 2017)
+vom 9. Juni 2017 (Stand am 1. April 2021) (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -305,10 +305,16 @@ Das BFS veröffentlicht die Daten des GWR der Stufe A nach Anhang 1 im Internet.
 
 #### Art. 18
 
-Für die Datensicherheit gelten die Bestimmungen der Verordnung vom 14. Juni 1993[^18-1] zum Bundesgesetz über den Datenschutz und der Bundesinformatikverordnung vom 9. Dezember 2011[^18-2].
+[^18-1]
 
-[^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+Für die Datensicherheit gelten:
+
+- a. die Verordnung vom 14. Juni 1993[^18-2] zum Bundesgesetz über den Datenschutz;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^18-3].
+
+[^18-1]: Fassung gemäss Anhang Ziff. 25 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^18-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -394,7 +400,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Anhang Ziff. 7, [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570)]
 [^annex2-lvlu1-2]: Die Änderungen können unter [AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)konsultiert werden.

@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des
 short: ORegBL
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: fr
-version: 2017-07-01
+version: 2021-04-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20170701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20170701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20170701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-376-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20170701/fr"
 
 (ORegBL)
 
-du 9 juin 2017 (Etat le 1<sup>er</sup> juillet 2017)
+du 9 juin 2017 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -289,7 +289,7 @@ L’OFS publie sur Internet les données du RegBL du niveau d’accès A selon l
 
 #### Art. 17
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> L’utilisation des données mises à disposition sur Internet est gratuite.
 
@@ -305,10 +305,16 @@ L’OFS publie sur Internet les données du RegBL du niveau d’accès A selon l
 
 #### Art. 18
 
-La sécurité des données est régie par les dispositions de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^18-1] et par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^18-2].
+[^18-1]
 
-[^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+La sécurité des données est régie par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^18-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^18-3].
+
+[^18-1]: Nouvelle teneur selon l’annexe ch. 25 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^18-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## Section 5 Dispositions finales
 
@@ -394,7 +400,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[RO 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)annexe ch. 7, [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570)]
 [^annex2-lvlu1-2]: Les mod. peuvent être consultées au [RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376).

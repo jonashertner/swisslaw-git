@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2017 sul Registro federale degli edifici e delle a
 short: OREA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/376"
 language: it
-version: 2017-07-01
+version: 2021-04-01
 adopted: 2017-06-09
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20170701/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20170701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20170701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/376/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2017-376-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/376/20170701/it"
 
 (OREA)
 
-del 9 giugno 2017 (Stato 1° luglio 2017)
+del 9 giugno 2017 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -305,10 +305,16 @@ L’UST pubblica in Internet i dati del REA del livello di autorizzazione all’
 
 #### Art. 18
 
-La sicurezza dei dati è disciplinata nell’ordinanza del 14 giugno 1993[^18-1] relativa alla legge federale sulla protezione dei dati e nell’ordinanza del 9 dicembre 2011[^18-2] sull’informatica nell’Amministrazione federale.
+[^18-1]
 
-[^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+La sicurezza dei dati è disciplinata:
+
+- a. nell’ordinanza del 14 giugno 1993[^18-2] relativa alla legge federale sulla protezione dei dati;
+- b. nell’ordinanza del 27 maggio 2020[^18-3] sui ciber-rischi.
+
+[^18-1]: Nuovo testo giusta l’all. n. 25 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^18-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^18-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## Sezione 5: Disposizioni finali
 
@@ -394,7 +400,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[RU 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)all. n. 7, [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570)]
 [^annex2-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376).
