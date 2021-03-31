@@ -4,13 +4,13 @@ number: "341.1"
 title: "Loi sur l'exécution judiciaire"
 short: LEJ
 language: fr
-version: 2018-12-01
-valid_until: 2021-03-31
-version_adopted: 2018-01-23
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2018-01-23
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1547/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2351/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1547/pdf_file"
 
 (LEJ)
 
-du 23.01.2018 (état au 01.12.2018)
+du 23.01.2018 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -50,7 +50,7 @@ arrête:
 - b mesures pénales de protection entraînant la privation de liberté et privation de liberté concernant des mineurs au sens de la loi fédérale du 20 juin 2003 régissant la condition pénale des mineurs (droit pénal des mineurs, DPMin)[^1-5],
 - c détention en vue de l'extradition,
 - d arrestation provisoire au sens du CPP et de la PPM,
-- e garde et garde prolongée au sens de la loi du ■■■ sur la police (LPol)[^1-6],
+- e garde et garde prolongée au sens de la loi du 10 février 2019 sur la police (LPol)[^1-6],
 - f mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté,
 - g arrêts en dehors du service au sens du CPM,
 - h placement à des fins d'assistance au sens du Code civil suisse du 10 décembre 1907 (CC)[^1-7].
@@ -98,9 +98,9 @@ arrête:
 
 #### Art. 5
 
-**Direction de la police et des affaires militaires**
+**Direction de la sécurité**
 
-<sup>1</sup> La Direction de la police et des affaires militaires est responsable de l'exécution judiciaire dans le canton de Berne.
+<sup>1</sup> La Direction de la sécurité est responsable de l'exécution judiciaire dans le canton de Berne.
 
 <sup>2</sup> Lui incombent notamment
 
@@ -110,9 +110,9 @@ arrête:
 
 #### Art. 6
 
-**Service compétent de la Direction de la police et des affaires militaires**
+**Service compétent de la Direction de la sécurité**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires
+<sup>1</sup> Le service compétent de la Direction de la sécurité
 
 - a est l'autorité compétente en matière d'exécution judiciaire concernant des adultes ou l'autorité d'exécution au sens du droit fédéral, dans la mesure où la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^6-1] n'en dispose pas expressément autrement;
 - b est responsable de la planification des besoins, de la conception, de la direction et de l'exploitation des établissements cantonaux d'exécution;
@@ -239,7 +239,7 @@ arrête:
 
 **Établissements privés**
 
-<sup>1</sup> La Direction de la police et des affaires militaires peut, dans le cadre du droit fédéral et en cas de besoin, autoriser des établissements privés au bénéfice d'une autorisation d'exploiter en vertu de la législation sur l'aide sociale à exécuter des peines privatives de liberté et des mesures privatives de liberté de droit pénal concernant des adultes.
+<sup>1</sup> La Direction de la sécurité peut, dans le cadre du droit fédéral et en cas de besoin, autoriser des établissements privés au bénéfice d'une autorisation d'exploiter en vertu de la législation sur l'aide sociale à exécuter des peines privatives de liberté et des mesures privatives de liberté de droit pénal concernant des adultes.
 
 <sup>2</sup> Dans des cas exceptionnels, elle peut délivrer une autorisation d'exploiter à un établissement privé de manière autonome. Elle applique ce faisant les prescriptions de la législation sur l'aide sociale par analogie et entend le service compétent en vertu de cette législation.
 
@@ -255,19 +255,19 @@ arrête:
 - b user de contrainte physique au sens des articles 36 et 37 et
 - c prononcer des sanctions disciplinaires au sens de l'article 42, à l'exception de la suppression ou de la limitation des contacts avec l'extérieur selon l'article 42, alinéa 1, lettre b, chiffre 2 et des arrêts selon l'article 42, alinéa 1, lettre d.
 
-<sup>5</sup> La Direction de la police et des affaires militaires indique dans son autorisation les compétences qui reviennent à l'établissement privé concerné et détermine en particulier les mesures de sûreté, les contraintes et les sanctions disciplinaires qui y sont admises.
+<sup>5</sup> La Direction de la sécurité indique dans son autorisation les compétences qui reviennent à l'établissement privé concerné et détermine en particulier les mesures de sûreté, les contraintes et les sanctions disciplinaires qui y sont admises.
 
 #### Art. 15
 
 **Personnes privées**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires peut impliquer des personnes privées dans l'accomplissement de certaines tâches, en particulier dans les domaines de la santé, de l'encadrement, de la sécurité et du transport.
+<sup>1</sup> Le service compétent de la Direction de la sécurité peut impliquer des personnes privées dans l'accomplissement de certaines tâches, en particulier dans les domaines de la santé, de l'encadrement, de la sécurité et du transport.
 
 <sup>2</sup> Les personnes privées doivent disposer des connaissances techniques nécessaires.
 
 <sup>3</sup> Sous réserve de l'alinéa 4, les personnes privées chargées de tâches de sécurité peuvent user de contrainte physique au sens des articles 36 et 37, en particulier pendant la surveillance d'un établissement et la sécurisation d'un transport, lorsque la sécurité et l'ordre ne peuvent être assurés d'une autre manière.
 
-<sup>4</sup> Le service compétent de la Direction de la police et des affaires militaires détermine dans un contrat de prestations les compétences qui reviennent aux personnes privées et détermine en particulier les usages de contrainte qui sont admissibles dans chaque cas selon l'alinéa 3.
+<sup>4</sup> Le service compétent de la Direction de la sécurité détermine dans un contrat de prestations les compétences qui reviennent aux personnes privées et détermine en particulier les usages de contrainte qui sont admissibles dans chaque cas selon l'alinéa 3.
 
 #### Art. 16
 
@@ -404,7 +404,7 @@ arrête:
 - b pour la surveillance électronique au sens du CP,
 - c pour l'application d'interdictions de contact et d'interdictions géographiques au sens du CP, du DPMin et du CPM,
 - d pour la surveillance de mesures de substitution au sens du CPP,
-- e pour la surveillance du respect des règles de conduite et des conditions ordonnées par le service compétent de la Direction de la police et des affaires militaires.
+- e pour la surveillance du respect des règles de conduite et des conditions ordonnées par le service compétent de la Direction de la sécurité.
 
 <sup>3</sup> Le Conseil-exécutif règle par voie d'ordonnance le traitement et, en particulier, l'exploitation et la destruction de données personnelles.
 
@@ -427,12 +427,12 @@ arrête:
 - i les autorités fiscales,
 - k les offices des poursuites et faillites.
 
-<sup>3</sup> Le service compétent de la Direction de la police et des affaires militaires peut permettre aux autorités suivantes d'accéder aux données personnelles des personnes détenues, y compris celles qui sont particulièrement dignes de protection, par une procédure d'appel électronique:
+<sup>3</sup> Le service compétent de la Direction de la sécurité peut permettre aux autorités suivantes d'accéder aux données personnelles des personnes détenues, y compris celles qui sont particulièrement dignes de protection, par une procédure d'appel électronique:
 
 - a Police cantonale, dans la mesure où elle en a besoin pour accomplir des tâches policières lorsqu'elle appréhende des personnes afin de contrôler leur identité, lorsqu'elle effectue une recherche ou lorsqu'elle applique la loi fédérale du 18 décembre 2015 relative à la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées[^24-1];
 - b autorités pénales, dans la mesure où elles en ont besoin pour procéder à des recherches du lieu de séjour.
 
-<sup>4</sup> Dans le cadre de l'accomplissement de tâches au sens de la LPol, en particulier pour écarter des dangers concrets pour la sécurité et l'ordre publics, réprimer des troubles, empêcher la commission imminente d'actes punissables ou interrompre la commission de tels actes, le service compétent de la Direction de la police et des affaires militaires peut, sous réserve d'obligations particulières de garder le secret, communiquer des données personnelles de personnes détenues, y compris celles qui sont particulièrement dignes de protection, à la Police cantonale, dans la mesure nécessaire.
+<sup>4</sup> Dans le cadre de l'accomplissement de tâches au sens de la LPol, en particulier pour écarter des dangers concrets pour la sécurité et l'ordre publics, réprimer des troubles, empêcher la commission imminente d'actes punissables ou interrompre la commission de tels actes, le service compétent de la Direction de la sécurité peut, sous réserve d'obligations particulières de garder le secret, communiquer des données personnelles de personnes détenues, y compris celles qui sont particulièrement dignes de protection, à la Police cantonale, dans la mesure nécessaire.
 
 [^24-1]: RS [150.2](https://db.clex.ch/link/Bund/150.2/fr)
 
@@ -450,7 +450,7 @@ arrête:
 
 **Communication de données à des tiers**
 
-<sup>1</sup> Les agents et agentes du service compétent de la Direction de la police et des affaires militaires ainsi que les spécialistes et les établissements et personnes privés impliqués peuvent communiquer des données personnelles, y compris celles qui sont particulièrement dignes de protection, à des tiers dans la mesure où ces derniers en ont besoin pour accomplir des tâches légales ou contractuelles et où le secret professionnel le leur permet.
+<sup>1</sup> Les agents et agentes du service compétent de la Direction de la sécurité ainsi que les spécialistes et les établissements et personnes privés impliqués peuvent communiquer des données personnelles, y compris celles qui sont particulièrement dignes de protection, à des tiers dans la mesure où ces derniers en ont besoin pour accomplir des tâches légales ou contractuelles et où le secret professionnel le leur permet.
 
 <sup>2</sup> Le droit à l'information dont jouissent les victimes, leurs proches ou des tiers en vertu du CP est réservé.
 
@@ -458,7 +458,7 @@ arrête:
 
 **Obligation d'annonce**
 
-<sup>1</sup> Les agents et agentes du service compétent de la Direction de la police et des affaires militaires ainsi que les spécialistes et les établissements et personnes privés impliqués ont l'obligation d'annoncer à l'organe de direction compétent les faits importants dont ils ont connaissance dans le cadre de leur activité professionnelle.
+<sup>1</sup> Les agents et agentes du service compétent de la Direction de la sécurité ainsi que les spécialistes et les établissements et personnes privés impliqués ont l'obligation d'annoncer à l'organe de direction compétent les faits importants dont ils ont connaissance dans le cadre de leur activité professionnelle.
 
 <sup>2</sup> Sont considérés comme faits importants
 
@@ -521,7 +521,7 @@ arrête:
 
 **Surveillance visuelle et enregistrement de données**
 
-<sup>1</sup> Les établissements d'exécution et les véhicules du service compétent de la Direction de la police et des affaires militaires peuvent être équipés d'instruments techniques pour la surveillance visuelle et l'enregistrement de données. Ces instruments techniques servent à
+<sup>1</sup> Les établissements d'exécution et les véhicules du service compétent de la Direction de la sécurité peuvent être équipés d'instruments techniques pour la surveillance visuelle et l'enregistrement de données. Ces instruments techniques servent à
 
 - a assurer la sûreté et l'ordre dans les établissements d'exécution et dans les véhicules;
 - b assurer la sûreté du personnel, des personnes détenues et des tiers;
@@ -723,7 +723,7 @@ arrête:
 
 **Compétences**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires prononce les sanctions disciplinaires portant sur des infractions dirigées contre le directeur ou la directrice de l'établissement d'exécution.
+<sup>1</sup> Le service compétent de la Direction de la sécurité prononce les sanctions disciplinaires portant sur des infractions dirigées contre le directeur ou la directrice de l'établissement d'exécution.
 
 <sup>2</sup> La direction de l'établissement d'exécution prononce les sanctions dans tous les autres cas.
 
@@ -733,7 +733,7 @@ arrête:
 
 **Décision**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires peut rendre des décisions oralement.
+<sup>1</sup> Le service compétent de la Direction de la sécurité peut rendre des décisions oralement.
 
 <sup>2</sup> La personne détenue peut exiger une décision écrite.
 
@@ -746,7 +746,7 @@ arrête:
 
 **Recours**
 
-<sup>1</sup> Les personnes détenues peuvent recourir contre les décisions rendues par le service compétent de la Direction de la police et des affaires militaires devant la Direction de la police et des affaires militaires
+<sup>1</sup> Les personnes détenues peuvent recourir contre les décisions rendues par le service compétent de la Direction de la sécurité devant la Direction de la sécurité
 
 - a dans un délai de 30 jours à compter de la notification, pour les affaires personnelles relevant du droit de l'exécution et pour les mesures de sûreté particulières,
 - b dans un délai de trois jours à compter de la notification, pour les sanctions disciplinaires.
@@ -769,11 +769,11 @@ arrête:
 
 **Procédure de conciliation**
 
-<sup>1</sup> Les recours formés contre des décisions rendues par la direction de l'établissement d'exécution doivent être adressés au service compétent de la Direction de la police et des affaires militaires.
+<sup>1</sup> Les recours formés contre des décisions rendues par la direction de l'établissement d'exécution doivent être adressés au service compétent de la Direction de la sécurité.
 
-<sup>2</sup> Le service compétent de la Direction de la police et des affaires militaires tente une conciliation après un échange d'écritures simple.
+<sup>2</sup> Le service compétent de la Direction de la sécurité tente une conciliation après un échange d'écritures simple.
 
-<sup>3</sup> Si la conciliation n'aboutit pas dans les 30 jours qui suivent la réception du recours, il transmet le dossier à la Direction de la police et des affaires militaires pour suite du traitement et décision.
+<sup>3</sup> Si la conciliation n'aboutit pas dans les 30 jours qui suivent la réception du recours, il transmet le dossier à la Direction de la sécurité pour suite du traitement et décision.
 
 <sup>4</sup> La procédure de conciliation n'est pas engagée si le recours porte intégralement ou partiellement sur le retrait de l'effet suspensif ou sur le refus de l'accorder.
 
@@ -781,7 +781,7 @@ arrête:
 
 **Recours devant la Cour suprême**
 
-<sup>1</sup> Les décisions et les décisions sur recours rendues par la Direction de la police et des affaires militaires en matière d'exécution judiciaire peuvent être contestées devant la Cour suprême dans les 30 jours à compter de leur notification.
+<sup>1</sup> Les décisions et les décisions sur recours rendues par la Direction de la sécurité en matière d'exécution judiciaire peuvent être contestées devant la Cour suprême dans les 30 jours à compter de leur notification.
 
 <sup>2</sup> Les personnes menacées de devoir exécuter une peine privative de liberté ou une mesure de droit pénal prescrite peuvent recourir directement devant la Cour suprême dans un délai de 30 jours. La Cour suprême statue sur l'effet suspensif du recours.
 
@@ -813,7 +813,7 @@ arrête:
 - f la sécurité lors du transfert et du séjour dans un hôpital ou une clinique,
 - g les activités en lien direct avec l'exécution dans le cadre du plan d'exécution.
 
-<sup>3</sup> Pour couvrir les frais d'exécution, les établissements d'exécution perçoivent une indemnité calculée sur la base de la charge de travail occasionnée et fixée par la Direction de la police et des affaires militaires.
+<sup>3</sup> Pour couvrir les frais d'exécution, les établissements d'exécution perçoivent une indemnité calculée sur la base de la charge de travail occasionnée et fixée par la Direction de la sécurité.
 
 #### Art. 55
 

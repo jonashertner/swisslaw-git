@@ -4,13 +4,13 @@ number: "341.1"
 title: Gesetz über den Justizvollzug
 short: "Justizvollzugsgesetz, JVG"
 language: de
-version: 2018-12-01
-valid_until: 2021-03-31
-version_adopted: 2018-01-23
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2018-01-23
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/341.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1547/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2351/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1547/pdf_file"
 
 (Justizvollzugsgesetz, JVG)
 
-vom 23.01.2018 (Stand 01.12.2018)
+vom 23.01.2018 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -50,7 +50,7 @@ beschliesst:
 - b freiheitsentziehende strafrechtliche Schutzmassnahmen und Freiheitsentzüge an Jugendlichen nach dem Bundesgesetz vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafgesetz, JStG)[^1-4],
 - c Auslieferungshaft,
 - d vorläufige Festnahme nach der StPO und dem MStP,
-- e polizeilicher Gewahrsam und Sicherheitsgewahrsam nach dem Polizeigesetz vom ■■■ (PolG)[^1-5],
+- e polizeilicher Gewahrsam und Sicherheitsgewahrsam nach dem Polizeigesetz vom 10. Februar 2019 (PolG)[^1-5],
 - f freiheitsentziehende Zwangsmassnahmen des Ausländerrechts,
 - g ausserdienstlicher Arrest nach dem MStG,
 - h fürsorgerische Unterbringungen nach dem Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (ZGB)[^1-6].
@@ -97,9 +97,9 @@ beschliesst:
 
 #### Art. 5
 
-**Polizei- und Militärdirektion**
+**Sicherheitsdirektion**
 
-<sup>1</sup> Die Polizei- und Militärdirektion ist verantwortlich für den Justizvollzug im Kanton Bern.
+<sup>1</sup> Die Sicherheitsdirektion ist verantwortlich für den Justizvollzug im Kanton Bern.
 
 <sup>2</sup> Ihr obliegen namentlich
 
@@ -109,9 +109,9 @@ beschliesst:
 
 #### Art. 6
 
-**Zuständige Stelle der Polizei- und Militärdirektion**
+**Zuständige Stelle der Sicherheitsdirektion**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion
 
 - a ist die im Bereich des Justizvollzugs an Erwachsenen zuständige Behörde oder Vollzugsbehörde nach Bundesrecht, soweit das Einführungsgesetz vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ)[^6-1] nicht ausdrücklich eine andere Stelle bestimmt,
 - b ist verantwortlich für die Bedarfsplanung, die Konzipierung, die Führung und den Betrieb der kantonalen Vollzugseinrichtungen,
@@ -225,7 +225,7 @@ beschliesst:
 
 **Private Einrichtungen**
 
-<sup>1</sup> Die Polizei- und Militärdirektion kann im Rahmen des Bundesrechts bei Bedarf privaten Einrichtungen mit einer Betriebsbewilligung nach der Sozialhilfegesetzgebung die Bewilligung erteilen, Freiheitsstrafen und freiheitsentziehende strafrechtliche Massnahmen an Erwachsenen zu vollziehen.
+<sup>1</sup> Die Sicherheitsdirektion kann im Rahmen des Bundesrechts bei Bedarf privaten Einrichtungen mit einer Betriebsbewilligung nach der Sozialhilfegesetzgebung die Bewilligung erteilen, Freiheitsstrafen und freiheitsentziehende strafrechtliche Massnahmen an Erwachsenen zu vollziehen.
 
 <sup>2</sup> Ausnahmsweise kann sie einer privaten Einrichtung eigenständig eine Betriebsbewilligung erteilen. Sie berücksichtigt die Vorgaben der Sozialhilfegesetzgebung sinngemäss und hört die zuständige Stelle nach der Sozialhilfegesetzgebung an.
 
@@ -241,19 +241,19 @@ beschliesst:
 - b physischen Zwang gemäss den Artikeln 36 und 37 anwenden und
 - c Disziplinarsanktionen gemäss Artikel 42 anordnen mit Ausnahme des Entzugs oder der Beschränkung von Aussenkontakten gemäss Artikel 42 Absatz 1 Buchstabe b Ziffer 2 und des Arrests gemäss Artikel 42 Absatz 1 Buchstabe d.
 
-<sup>5</sup> Die Polizei- und Militärdirektion legt in der Bewilligung die Befugnisse der privaten Einrichtungen fest und bestimmt insbesondere die in der jeweiligen privaten Einrichtung zulässigen Sicherheitsmassnahmen, Zwangsanwendungen und Disziplinarsanktionen.
+<sup>5</sup> Die Sicherheitsdirektion legt in der Bewilligung die Befugnisse der privaten Einrichtungen fest und bestimmt insbesondere die in der jeweiligen privaten Einrichtung zulässigen Sicherheitsmassnahmen, Zwangsanwendungen und Disziplinarsanktionen.
 
 #### Art. 15
 
 **Private Personen**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion kann für die Erfüllung einzelner Aufgaben private Personen beiziehen, insbesondere in den Bereichen Gesundheit, Betreuung, Sicherheit und Transport.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion kann für die Erfüllung einzelner Aufgaben private Personen beiziehen, insbesondere in den Bereichen Gesundheit, Betreuung, Sicherheit und Transport.
 
 <sup>2</sup> Die privaten Personen müssen über die erforderlichen Fachkompetenzen verfügen.
 
 <sup>3</sup> Private Personen, die mit Sicherheitsaufgaben betraut sind, können unter Vorbehalt von Absatz 4 insbesondere bei der Überwachung einer Vollzugseinrichtung und der Sicherung eines Transports physischen Zwang gemäss den Artikeln 36 und 37 anwenden, wenn die Sicherheit und Ordnung nicht anders gewährleistet werden können.
 
-<sup>4</sup> Die zuständige Stelle der Polizei- und Militärdirektion legt in einem Leistungsvertrag die Befugnisse der privaten Personen fest und bestimmt insbesondere die im Einzelfall zulässigen Zwangsanwendungen durch private Personen gemäss Absatz 3.
+<sup>4</sup> Die zuständige Stelle der Sicherheitsdirektion legt in einem Leistungsvertrag die Befugnisse der privaten Personen fest und bestimmt insbesondere die im Einzelfall zulässigen Zwangsanwendungen durch private Personen gemäss Absatz 3.
 
 #### Art. 16
 
@@ -388,7 +388,7 @@ beschliesst:
 - b zur elektronischen Überwachung nach dem StGB,
 - c für den Vollzug des Kontakt- und Rayonverbots nach dem StGB, dem JStG und dem MStG,
 - d zur Überwachung von Ersatzmassnahmen nach der StPO,
-- e zur Überwachung von Weisungen und Auflagen der zuständigen Stelle der Polizei- und Militärdirektion.
+- e zur Überwachung von Weisungen und Auflagen der zuständigen Stelle der Sicherheitsdirektion.
 
 <sup>3</sup> Der Regierungsrat regelt die Bearbeitung von Personendaten, insbesondere die Auswertung und die Vernichtung, durch Verordnung.
 
@@ -411,12 +411,12 @@ beschliesst:
 - i die Steuerbehörden,
 - k die Betreibungs- und Konkursämter.
 
-<sup>3</sup> Die zuständige Stelle der Polizei- und Militärdirektion kann folgenden Behörden Personendaten von Eingewiesenen, einschliesslich besonders schützenswerter Personendaten, im elektronischen Abrufverfahren zugänglich machen:
+<sup>3</sup> Die zuständige Stelle der Sicherheitsdirektion kann folgenden Behörden Personendaten von Eingewiesenen, einschliesslich besonders schützenswerter Personendaten, im elektronischen Abrufverfahren zugänglich machen:
 
 - a der Kantonspolizei, soweit dies zur Erfüllung von polizeilichen Aufgaben bei einer Anhaltung zur Identitätsfeststellung, bei einer Fahndung oder in Anwendung des Bundesgesetzes vom 18. Dezember 2015 zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen[^24-1] erforderlich ist,
 - b den Strafbehörden, soweit sie dies zur Aufenthaltsnachforschung benötigen.
 
-<sup>4</sup> Im Hinblick auf die Erfüllung von Aufgaben im Sinne des PolG, insbesondere um konkrete Gefahren für die öffentliche Sicherheit und Ordnung abzuwehren, eingetretene Störungen zu beseitigen und die Begehung von unmittelbar bevorstehenden oder die Fortsetzung von bereits begonnenen Straftaten zu verhindern, ist die zuständige Stelle der Polizei- und Militärdirektion vorbehältlich besonderer Geheimhaltungspflichten ermächtigt, der Kantonspolizei Personendaten von Eingewiesenen, einschliesslich besonders schützenswerter Personendaten, zu melden, soweit dies erforderlich ist.
+<sup>4</sup> Im Hinblick auf die Erfüllung von Aufgaben im Sinne des PolG, insbesondere um konkrete Gefahren für die öffentliche Sicherheit und Ordnung abzuwehren, eingetretene Störungen zu beseitigen und die Begehung von unmittelbar bevorstehenden oder die Fortsetzung von bereits begonnenen Straftaten zu verhindern, ist die zuständige Stelle der Sicherheitsdirektion vorbehältlich besonderer Geheimhaltungspflichten ermächtigt, der Kantonspolizei Personendaten von Eingewiesenen, einschliesslich besonders schützenswerter Personendaten, zu melden, soweit dies erforderlich ist.
 
 [^24-1]: SR [150.2](https://db.clex.ch/link/Bund/150.2/de)
 
@@ -434,7 +434,7 @@ beschliesst:
 
 **Datenbekanntgabe an Dritte**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der zuständigen Stelle der Polizei- und Militärdirektion sowie Fachpersonen und beigezogene Private können Dritten Personendaten, einschliesslich besonders schützenswerter Personendaten, bekanntgeben, wenn dies zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben erforderlich ist und soweit dies das Berufsgeheimnis zulässt.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der zuständigen Stelle der Sicherheitsdirektion sowie Fachpersonen und beigezogene Private können Dritten Personendaten, einschliesslich besonders schützenswerter Personendaten, bekanntgeben, wenn dies zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben erforderlich ist und soweit dies das Berufsgeheimnis zulässt.
 
 <sup>2</sup> Das Informationsrecht der Opfer, ihrer Angehörigen oder Dritter nach dem StGB bleibt vorbehalten.
 
@@ -442,7 +442,7 @@ beschliesst:
 
 **Meldepflicht**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der zuständigen Stelle der Polizei- und Militärdirektion sowie Fachpersonen und beigezogene Private haben die Pflicht, wichtige Tatsachen, die ihnen im Rahmen ihrer beruflichen Tätigkeit zur Kenntnis gelangen, der jeweils zuständigen Leitung zu melden.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der zuständigen Stelle der Sicherheitsdirektion sowie Fachpersonen und beigezogene Private haben die Pflicht, wichtige Tatsachen, die ihnen im Rahmen ihrer beruflichen Tätigkeit zur Kenntnis gelangen, der jeweils zuständigen Leitung zu melden.
 
 <sup>2</sup> Wichtige Tatsachen sind
 
@@ -503,7 +503,7 @@ beschliesst:
 
 **Visuelle Überwachung und Aufzeichnung**
 
-<sup>1</sup> Die Vollzugseinrichtungen und Transportfahrzeuge der zuständigen Stelle der Polizei- und Militärdirektion können mit technischen Geräten zur visuellen Überwachung und Aufzeichnung ausgerüstet werden. Die technischen Geräte dienen
+<sup>1</sup> Die Vollzugseinrichtungen und Transportfahrzeuge der zuständigen Stelle der Sicherheitsdirektion können mit technischen Geräten zur visuellen Überwachung und Aufzeichnung ausgerüstet werden. Die technischen Geräte dienen
 
 - a der Gewährleistung der Sicherheit und Ordnung in den Vollzugseinrichtungen und in den Transportfahrzeugen,
 - b der Gewährleistung der Sicherheit des Personals, der Eingewiesenen und von Dritten,
@@ -703,7 +703,7 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion verfügt Disziplinarsanktionen bei Widerhandlungen, die sich gegen die Direktorin oder den Direktor einer Vollzugseinrichtung richten.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion verfügt Disziplinarsanktionen bei Widerhandlungen, die sich gegen die Direktorin oder den Direktor einer Vollzugseinrichtung richten.
 
 <sup>2</sup> In allen anderen Fällen verfügt die Leitung der Vollzugseinrichtung.
 
@@ -713,7 +713,7 @@ beschliesst:
 
 **Verfügung**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion kann mündlich verfügen.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion kann mündlich verfügen.
 
 <sup>2</sup> Die Eingewiesenen können eine schriftliche Verfügung verlangen.
 
@@ -726,7 +726,7 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Polizei- und Militärdirektion können die Eingewiesenen Beschwerde bei der Polizei- und Militärdirektion führen
+<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Sicherheitsdirektion können die Eingewiesenen Beschwerde bei der Sicherheitsdirektion führen
 
 - a in persönlichen vollzugsrechtlichen Angelegenheiten und bei besonderen Sicherheitsmassnahmen innert 30 Tagen seit Eröffnung,
 - b bei Disziplinarsanktionen innert drei Tagen seit Eröffnung.
@@ -749,11 +749,11 @@ beschliesst:
 
 **Einigungsverfahren**
 
-<sup>1</sup> Beschwerden gegen Verfügungen der Leitung der Vollzugseinrichtung sind bei der zuständigen Stelle der Polizei- und Militärdirektion einzureichen.
+<sup>1</sup> Beschwerden gegen Verfügungen der Leitung der Vollzugseinrichtung sind bei der zuständigen Stelle der Sicherheitsdirektion einzureichen.
 
-<sup>2</sup> Die zuständige Stelle der Polizei- und Militärdirektion versucht nach Durchführung eines einfachen Schriftenwechsels, eine gütliche Einigung herbeizuführen.
+<sup>2</sup> Die zuständige Stelle der Sicherheitsdirektion versucht nach Durchführung eines einfachen Schriftenwechsels, eine gütliche Einigung herbeizuführen.
 
-<sup>3</sup> Gelingt die gütliche Einigung nicht innerhalb von 30 Tagen seit Eingang der Beschwerde, leitet die zuständige Stelle der Polizei- und Militärdirektion die Akten zur weiteren Behandlung und zum Entscheid an die Polizei- und Militärdirektion weiter.
+<sup>3</sup> Gelingt die gütliche Einigung nicht innerhalb von 30 Tagen seit Eingang der Beschwerde, leitet die zuständige Stelle der Sicherheitsdirektion die Akten zur weiteren Behandlung und zum Entscheid an die Sicherheitsdirektion weiter.
 
 <sup>4</sup> Das Einigungsverfahren findet nicht statt, wenn sich die Beschwerden ganz oder teilweise gegen den Entzug oder die Verweigerung der aufschiebenden Wirkung richten.
 
@@ -761,7 +761,7 @@ beschliesst:
 
 **Beschwerde an das Obergericht**
 
-<sup>1</sup> Gegen Verfügungen und Beschwerdeentscheide der Polizei- und Militärdirektion im Bereich des Justizvollzugs kann innert 30 Tagen seit der Eröffnung beim Obergericht Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen und Beschwerdeentscheide der Sicherheitsdirektion im Bereich des Justizvollzugs kann innert 30 Tagen seit der Eröffnung beim Obergericht Beschwerde geführt werden.
 
 <sup>2</sup> Betrifft eine Beschwerde den drohenden Vollzug einer verjährten Freiheitsstrafe oder strafrechtlichen Massnahme, kann die betroffene Person innert 30 Tagen direkt beim Obergericht Beschwerde führen. Das Obergericht entscheidet über die aufschiebende Wirkung der Beschwerde.
 
@@ -793,7 +793,7 @@ beschliesst:
 - f die Sicherheit bei der Einlieferung und beim Aufenthalt in einem Spital oder einer Klinik,
 - g im direkten Zusammenhang mit dem Vollzug durchzuführende Aktivitäten im Rahmen der Vollzugsplanung.
 
-<sup>3</sup> Die Vollzugseinrichtungen erheben ein nach Aufwand abgestuftes und durch die Polizei- und Militärdirektion festgelegtes Kostgeld, das der Deckung der Vollzugskosten dient.
+<sup>3</sup> Die Vollzugseinrichtungen erheben ein nach Aufwand abgestuftes und durch die Sicherheitsdirektion festgelegtes Kostgeld, das der Deckung der Vollzugskosten dient.
 
 #### Art. 55
 
