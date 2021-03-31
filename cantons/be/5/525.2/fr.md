@@ -3,20 +3,19 @@ canton: BE
 number: "525.2"
 title: Loi sur les subventions versées pour les installations de tir et pour le tir hors service
 language: fr
-version: 2002-01-01
-valid_until: 2021-03-31
-version_adopted: 2000-11-27
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1989-05-23
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/525.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/656/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2229/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Loi sur les subventions versées pour les installations de tir et pour le tir hors service
 
-du 23.05.1989 (état au 01.01.2002)
+du 23.05.1989 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -104,7 +103,7 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> L'exécution de la présente loi incombe à la Direction cantonale de la police et des affaires militaires dans la mesure où une autre autorité n'en est pas expressément chargée.
+<sup>1</sup> L'exécution de la présente loi incombe à la Direction de la sécurité dans la mesure où une autre autorité n'en est pas expressément chargée.
 
 #### Art. 9
 

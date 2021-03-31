@@ -3,20 +3,19 @@ canton: BE
 number: "525.2"
 title: Gesetz über Beiträge an Schiessanlagen und an das ausserdienstliche Schiesswesen
 language: de
-version: 2002-01-01
-valid_until: 2021-03-31
-version_adopted: 2000-11-27
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1989-05-23
 in_force: 1990-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/525.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/656/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über Beiträge an Schiessanlagen und an das ausserdienstliche Schiesswesen
 
-vom 23.05.1989 (Stand 01.01.2002)
+vom 23.05.1989 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -104,7 +103,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Vollzug dieses Gesetzes obliegt der kantonalen Polizei- und Militärdirektion, soweit nicht ausdrücklich eine andere Behörde für zuständig erklärt wird.
+<sup>1</sup> Der Vollzug dieses Gesetzes obliegt der Sicherheitsdirektion, soweit nicht ausdrücklich eine andere Behörde für zuständig erklärt wird.
 
 #### Art. 9
 
