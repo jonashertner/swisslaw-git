@@ -3,11 +3,11 @@ sr: "361.0"
 title: Verordnung vom 26. Oktober 2016 über das automatisierte Polizeifahndungssystem (RIPOL-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210101/de"
 
 (RIPOL-Verordnung)
 
-vom 26. Oktober 2016 (Stand am 1. Januar 2021)
+vom 26. Oktober 2016 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -310,7 +310,12 @@ Die Arten der Ausschreibungen sowie deren Prüfung und Verbreitung müssen von f
 
 <sup>1</sup> Die Datenübermittlung an die schweizerischen Vertretungen mit konsularischen Aufgaben und ausländischen Interpol-Stellen erfolgt chiffriert.
 
-<sup>2</sup> Die Datensicherheit richtet sich nach den Bestimmungen der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz, der Cyberrisikenverordnung vom 27. Mai 2020[^14-2] sowie nach den Weisungen des Bundesrates vom 16. Januar 2019[^14-3] über die IKT-Sicherheit in der Bundesverwaltung.[^14-4]
+<sup>2</sup>
+
+Die Datensicherheit richtet sich nach:
+
+- a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^14-2].[^14-3]
 
 <sup>3</sup> Die beteiligten Behörden treffen in ihren Bereichen die gemäss den datenschutzrechtlichen Bestimmungen angemessenen organisatorischen und technischen Massnahmen.
 
@@ -318,8 +323,7 @@ Die Arten der Ausschreibungen sowie deren Prüfung und Verbreitung müssen von f
 
 [^14-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^14-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-3]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^14-4]: Fassung gemäss Anhang Ziff. 11 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^14-3]: Fassung gemäss Anhang Ziff. 18 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 

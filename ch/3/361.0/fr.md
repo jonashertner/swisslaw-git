@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordonnance du 26 octobre 2016 sur le système de recherches informatisées de police (Ordonnance RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-665-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20210101/fr"
 
 (Ordonnance RIPOL)
 
-du 26 octobre 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 octobre 2016 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -312,7 +312,12 @@ Fedpol règle dans son règlement de traitement les sortes de signalements ainsi
 
 <sup>1</sup> La transmission de données aux représentations suisses à l’étranger assumant des tâches consulaires ainsi qu’aux bureaux nationaux d’Interpol se fait sous forme chiffrée.
 
-<sup>2</sup> La sécurité des données est garantie par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1], par l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-2] et par les directives du Conseil fédéral du 16 janvier 2019 concernant la sécurité informatique dans l’administration fédérale[^14-3].[^14-4]
+<sup>2</sup>
+
+La sécurité des données est régie par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-2].[^14-3]
 
 <sup>3</sup> Les autorités concernées adoptent, dans leur domaine, les mesures organisationnelles et techniques qui s’imposent conformément aux dispositions légales sur la protection des données.
 
@@ -320,8 +325,7 @@ Fedpol règle dans son règlement de traitement les sortes de signalements ainsi
 
 [^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^14-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^14-3]: [FF 2019 1283](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^14-4]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^14-3]: Nouvelle teneur selon l’annexe ch. 18 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
@@ -405,7 +409,7 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> décembre 2016.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 7)
 
