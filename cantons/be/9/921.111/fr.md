@@ -4,13 +4,13 @@ number: "921.111"
 title: Ordonnance cantonale sur les forêts
 short: OCFo
 language: fr
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-10-23
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 1997-10-29
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/921.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1782/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2204/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1782/pdf_file"
 
 (OCFo)
 
-du 29.10.1997 (état au 01.01.2020)
+du 29.10.1997 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -69,7 +69,7 @@ arrête:
 
 **3. Voies de droit et harmonisation chronologique**
 
-<sup>1</sup> Les décisions des divisions forestières concernant les limites de forêt peuvent faire l'objet d'un recours auprès de la Direction de l'économie publique.
+<sup>1</sup> Les décisions des divisions forestières concernant les limites de forêt peuvent faire l'objet d'un recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Il convient d'harmoniser chronologiquement la décision en procédure de constatation de la nature forestière et la décision d'approbation relative au plan d'affectation communal ainsi que les décisions sur recours y relatives.
 
@@ -135,7 +135,7 @@ arrête:
 
 <sup>3</sup> Le plan forestier régional, après parution dans la Feuille officielle et les feuilles officielles d'avis, est déposé publiquement pendant au moins 30 jours aux endroits adéquats, en une ou plusieurs étapes, pour la participation publique.
 
-<sup>4</sup> Des objections et des suggestions peuvent être formulées dans le cadre de la participation. Elles doivent être portées à la connaissance de la Direction de l’économie publique sous la forme appropriée.
+<sup>4</sup> Des objections et des suggestions peuvent être formulées dans le cadre de la participation. Elles doivent être portées à la connaissance de la Direction de l’économie, de l’énergie et de l’environnement sous la forme appropriée.
 
 #### Art. 8
 
@@ -265,7 +265,7 @@ arrête:
 
 <sup>2</sup> S'il y a un risque de dégâts aux forêts, les résineux abattus et non écorcés doivent être évacués de la forêt ou traités par le ou la propriétaire du bois contre l'attaque des insectes.
 
-<sup>3</sup> Si le risque de dégâts provient de peuplements boisés ou de plantations situés hors de la forêt, le Service forestier peut ordonner des mesures de prévention ou de réduction des dangers hors de cette dernière.
+<sup>3</sup> Si le risque de dégâts provient de peuplements boisés ou de plantations situés hors de la forêt, le service forestier peut ordonner des mesures de prévention ou de réduction des dangers hors de cette dernière.
 
 #### Art. 18a
 
@@ -424,7 +424,7 @@ arrête:
 
 **3. Aliénation ou affermage**
 
-<sup>1</sup> Dans le cadre de son activité de vulgarisation, le Service forestier soutient la vente, l'échange ou l'affermage de forêts ainsi que l'établissement de contrats d'affermage et d'exploitation, pour autant que ces mesures permettent d'améliorer sensiblement la gestion.
+<sup>1</sup> Dans le cadre de son activité de vulgarisation, le service forestier soutient la vente, l'échange ou l'affermage de forêts ainsi que l'établissement de contrats d'affermage et d'exploitation, pour autant que ces mesures permettent d'améliorer sensiblement la gestion.
 
 ### 2.2.5 Sécurité au travail
 
@@ -887,7 +887,7 @@ arrête:
 
 **Prestations de service payantes**
 
-<sup>1</sup> Lorsque le Service forestier se charge de travaux en faveur de tiers ou que les prestations de service qui lui sont demandées apportent un avantage évident, les frais doivent en être imputés aux bénéficiaires.
+<sup>1</sup> Lorsque le service forestier se charge de travaux en faveur de tiers ou que les prestations de service qui lui sont demandées apportent un avantage évident, les frais doivent en être imputés aux bénéficiaires.
 
 <sup>2</sup> …
 
@@ -899,7 +899,7 @@ arrête:
 
 #### Art. 61
 
-**Tâches du Service forestier**
+**Tâches du service forestier**
 
 <sup>1</sup> L’OFDN peut fournir des prestations pour la formation de base, la formation continue et le perfectionnement dans le domaine forestier, ainsi que pour la formation professionnelle dans des branches de métiers apparentées.
 
@@ -941,7 +941,7 @@ arrête:
 
 <sup>2</sup> Les nouveaux organismes responsables des triages
 
-- a s'organisent en conséquence et désignent les interlocuteurs ou interlocutrices pour le Service forestier;
+- a s'organisent en conséquence et désignent les interlocuteurs ou interlocutrices pour le service forestier;
 - b concluent la convention de prestations avec l'OFDN;
 - c rendent compte de l'exécution du mandat de prestations et
 - d encouragent la collaboration entre les propriétaires forestiers au sein du triage.

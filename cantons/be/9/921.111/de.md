@@ -4,13 +4,13 @@ number: "921.111"
 title: Kantonale Waldverordnung
 short: KWaV
 language: de
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-10-23
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 1997-10-29
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/921.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1782/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2204/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1782/pdf_file"
 
 (KWaV)
 
-vom 29.10.1997 (Stand 01.01.2020)
+vom 29.10.1997 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -69,7 +69,7 @@ beschliesst:
 
 **3. Rechtsmittel und zeitliche Koordination**
 
-<sup>1</sup> Gegen Verfügungen der Waldabteilungen über die Waldgrenzen kann bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen der Waldabteilungen über die Waldgrenzen kann bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
 <sup>2</sup> Die Verfügung im Waldfeststellungsverfahren und die Genehmigung im Nutzungsplanungsverfahren sowie diesbezügliche Beschwerdeentscheide sind zeitlich aufeinander abzustimmen.
 
@@ -129,13 +129,13 @@ beschliesst:
 
 **Mitwirkungsmöglichkeiten**
 
-<sup>1</sup> Die Waldabteilung informiert die Waldeigentümerinnen und -eigentümer und die übrige Bevölkerung sowie die Gemeinden und die kantonalen Fachstellen frühzeitig über Erstellung oder Revision des Regionalen Waldplans.
+<sup>1</sup> Die Waldabteilung informiert die Waldeigentümerinnen und Waldeigentümer und die übrige Bevölkerung sowie die Gemeinden und die kantonalen Fachstellen frühzeitig über Erstellung oder Revision des Regionalen Waldplans.
 
 <sup>2</sup> Zur Begleitung der Planung zieht sie die Waldeigentümerinnen und Waldeigentümer sowie weitere betroffene Kreise und die kantonalen Fachstellen bei.
 
 <sup>3</sup> Der Regionale Waldplan wird nach vorgängiger Publikation im Amtsblatt und in den Amtsanzeigern ganz oder in Teilabschnitten an geeigneten Orten während mindestens 30 Tagen zur öffentlichen Mitwirkung aufgelegt.
 
-<sup>4</sup> Im Rahmen der Mitwirkung können von jedermann Einwendungen erhoben und Anregungen unterbreitet werden. Sie sind der Volkswirtschaftsdirektion in geeigneter Form zur Kenntnis zu bringen.
+<sup>4</sup> Im Rahmen der Mitwirkung können von jedermann Einwendungen erhoben und Anregungen unterbreitet werden. Sie sind der Wirtschafts-, Energie- und Umweltdirektion in geeigneter Form zur Kenntnis zu bringen.
 
 #### Art. 8
 
