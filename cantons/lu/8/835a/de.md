@@ -4,13 +4,13 @@ number: 835a
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: VCov19
 language: de
-version: 2021-03-01
-valid_until: 2021-03-31
-version_adopted: 2021-02-25
+version: 2021-04-01
+valid_until: 2021-04-20
+version_adopted: 2021-03-30
 adopted: 2021-12-03
 in_force: 2021-12-06
 url: "https://srl.lu.ch/app/de/texts_of_law/835a"
-pdf: "https://srl.lu.ch/api/de/versions/3719/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3726/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3719/pdf_file"
 
 (VCov19)
 
-vom 13.10.2020 (Stand 01.03.2021)
+vom 13.10.2020 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -170,6 +170,6 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Die §§ 2a, 3a, 4a, 5 und 5b gelten bis 31. März 2021.
+<sup>2<sup>bis</sup></sup> Die §§ 2a, 3a, 4a, 5 und 5b gelten bis 30. April 2021.
 
 K 2020 3305 | G 2020-074
