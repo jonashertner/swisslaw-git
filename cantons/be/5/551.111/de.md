@@ -4,13 +4,13 @@ number: "551.111"
 title: Polizeiverordnung
 short: PolV
 language: de
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-11-20
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-24
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2110/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2232/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2110/pdf_file"
 
 (PolV)
 
-vom 20.11.2019 (Stand 01.01.2020)
+vom 20.11.2019 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -756,7 +756,7 @@ beschliesst:
 
 #### Art. 60
 
-<sup>1</sup> Die Kantonspolizei hält die Grundsätze ihrer Aufgabenerfüllung und ihrer internen Organisation sowie die Kompetenzordnung in einem Reglement fest. Sie berücksichtigt dabei die kantonalen Vorgaben und insbesondere die Direktionsverordnung vom 28. Februar 2011 über die Delegation von Befugnissen der Polizei- und Militärdirektion (DelDV POM)[^60-1].
+<sup>1</sup> Die Kantonspolizei hält die Grundsätze ihrer Aufgabenerfüllung und ihrer internen Organisation sowie die Kompetenzordnung in einem Reglement fest. Sie berücksichtigt dabei die kantonalen Vorgaben und insbesondere die Direktionsverordnung vom 28. Februar 2011 über die Delegation von Befugnissen der Sicherheitsdirektion (DelDV SID)[^60-1].
 
 <sup>2</sup> Das Reglement enthält insbesondere
 

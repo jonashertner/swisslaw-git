@@ -4,13 +4,13 @@ number: "551.111"
 title: Ordonnance sur la police
 short: OPol
 language: fr
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-11-20
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-24
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2110/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2232/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2110/pdf_file"
 
 (OPol)
 
-du 20.11.2019 (état au 01.01.2020)
+du 20.11.2019 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -752,7 +752,7 @@ arrête:
 
 #### Art. 60
 
-<sup>1</sup> La Police cantonale définit dans un règlement les principes régissant l'exécution de ses tâches, son organisation interne et l'attribution des compétences. À cet égard, elle tient compte des prescriptions cantonales, notamment de l'ordonnance de Direction du 28 février 2011 sur la délégation de compétences de la Direction de la police et des affaires militaires (ODDél POM)[^60-1].
+<sup>1</sup> La Police cantonale définit dans un règlement les principes régissant l'exécution de ses tâches, son organisation interne et l'attribution des compétences. À cet égard, elle tient compte des prescriptions cantonales, notamment de l'ordonnance de Direction du 28 février 2011 sur la délégation de compétences de la Direction de la sécurité (ODDél DSE)[^60-1].
 
 <sup>2</sup> Ce règlement comporte en particulier
 
