@@ -4,11 +4,11 @@ title: Ordinanza del 30 giugno 1993 sul Registro delle imprese e degli stabilime
 short: ORIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: it
-version: 2019-04-01
+version: 2021-04-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20190401/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20190401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20190401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20190401/it"
 
 (ORIS)**[^t-1]**
 
-del 30 giugno 1993 (Stato 1° aprile 2019) (Stato 1° aprile 2019)
+del 30 giugno 1993 (Stato 1° aprile 2021)
 
 [^t-1]: Introdotta dal n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -113,7 +113,7 @@ Il RIS può contenere i seguenti dati:[^3-12]
 [^3-7]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6, [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. n. I.]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^3-8]: Introdotta dal n. I dell’O del 18 ago. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Nuovo testo giusta il n. I dell’O del 7 nov. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-9]: Abrogata dal n. I dell’O del 7 nov. 2018, con effetto dal 1° dic. 2018 ([RU 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
-[^3-10]: Introdotta dal n. 5 dell’all. all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^3-10]: Introdotta dall’all. n. 5 dell’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 [^3-11]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
 [^3-12]: Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 [^3-13]: Nuovo testo giusta il n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
@@ -123,7 +123,7 @@ Il RIS può contenere i seguenti dati:[^3-12]
 [^3-17]: Introdotta dal n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
 [^3-18]: Introdotta dal n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
 [^3-19]: Introdotta dal n. I dell’O del 15 giu. 2001, in vigore dal 1° ago. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)).
-[^3-20]: Originaria lett. d
+[^3-20]: Originaria lett. d.
 [^3-21]: Originaria lett. e. Nuovo testo giusta il n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 [^3-22]: Originaria lett. f. Introdotta dal n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
 [^3-23]: Introdotta dal n. I dell’O del 19 ago. 2009, in vigore dal 1° set. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
@@ -357,13 +357,13 @@ I seguenti servizi ufficiali sono collegati al sistema ad altri scopi:[^11-14]
 [^11-7]: Introdotta dal n. I dell’O del 29 giu. 1994, in vigore dal 1° ago. 1994 ([RU 1994 1585](https://fedlex.data.admin.ch/eli/oc/1994/1585_1585_1585)).
 [^11-8]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-9]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-10]: Introdotta dal n. I dell’O del 26 giu. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Abrogata dal n. II 5 dell’all. 2 all’O del 15 set. 2017 sull’alcol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^11-10]: Introdotta dal n. I dell’O del 26 giu. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Abrogata dell’all. 2 n. II 5 dell’O del 15 set. 2017 sull’alcol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
 [^11-11]: Introdotta dal n. I dell’O del 26 giu. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-12]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-13]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-14]: Nuovo testo giusta il n. I dell’O del 26 giu. 1996, in vigore dal 1° ago. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-15]: Nuovo testo giusta il n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^11-16]: Introdotta dal n. 5 dell’all. all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^11-16]: Introdotta dall’all. n. 5 all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 [^11-17]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
 [^11-18]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-19]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
@@ -429,11 +429,14 @@ I dati del RIS che consentono di trarre conclusioni sulla situazione di determin
 
 **Sicurezza dei dati**[^15-1]
 
-La sicurezza dei dati è garantita dalle disposizioni dell’ordinanza del 14 giugno 1993[^15-2] relativa alla legge sulla protezione dei dati e da quelle dell’ordinanza del 26 settembre 2003[^15-3] sull’informatica nell’Amministrazione federale.
+La sicurezza dei dati è garantita:
 
-[^15-1]: Nuovo testo giusta il n. II 4 dell’all. all’O del 26 set. 2003 sull’informatica nell’amministrazione federale, in vigore dal 1° ott. 2003 ([RU 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)).
+- a. dall’ordinanza del 14 giugno 1993[^15-2] relativa alla legge sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^15-3] sui ciber-rischi.
+
+[^15-1]: Nuovo testo giusta l’all. n. 26 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^15-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: [[RU 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 cpv. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)all n. 2, **2011** 4491. RU **2011** 6039 art. 29 cpv. 1]. Vedi ora l’O del 9 dic. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^15-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 16
 

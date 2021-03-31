@@ -4,20 +4,20 @@ title: Ordonnance du 30 juin 1993 sur le Registre des entreprises et des établi
 short: OREE
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: fr
-version: 2019-04-01
+version: 2021-04-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20190401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le Registre des entreprises et des établissements
 
-(OREE**[^t-1]**)
+(OREE[^t-1])
 
-du 30 juin 1993 (Etat le 1<sup>er</sup> avril 2019)
+du 30 juin 1993 (Etat le 1<sup>er</sup> avril 2021)
 
 [^t-1]: Introduite par le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -79,7 +79,7 @@ Le REE contient les données suivantes:
 - j. le capital social des sociétés anonymes;
 - k.[^3-2] pour les entreprises soumises à la loi du 29 avril 1998 sur l’agriculture[^3-3], à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^3-4], à la loi du 16 décembre 2005 sur la protection des animaux[^3-5] ou à la loi du 9 octobre 1992 sur les denrées alimentaires[^3-6]: le nom et l’adresse de l’entreprise, le nom et l’adresse de l’exploitant ou de l’éleveur, ainsi que le nom, la profession et l’année de naissance de la personne responsable;
 - k<sup>bis</sup>.[^3-7] pour les exploitations agricoles: en plus des données mentionnées à la let. k, la structure de l’exploitation;
-- l.[^3-8] …
+- l.[^3-8] ...
 - m. un numéro d’enregistrement non significatif (numéro ENTID) de l’unité entreprise;
 - n. un numéro d’enregistrement de référence non significatif (numéro REF‑ENT);
 - o. les codes du statut d’activité;
@@ -187,7 +187,7 @@ L’étendue et les modalités de l’accès aux données sont réglées dans l�
 
 <sup>1</sup> L’OFS[^6-1] reprend les données, les enregistre dans le REE et les modifie, après avoir effectué préalablement les vérifications nécessaires.[^6-2]
 
-<sup>2</sup> …[^6-3]
+<sup>2</sup> ...[^6-3]
 
 [^6-1]: Nouvelle expression selon le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Il a été tenu compte de cette mod. dans tout le texte.
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
@@ -285,8 +285,8 @@ Il peut en outre communiquer à des services publics et à des particuliers, à 
 Les services publics suivants ont accès au système d’information du REE à des fins statistiques:
 
 - a.[^11-1] l’OFS;
-- b.[^11-2] le Secrétariat d’Etat à l’économie (SECO);
-- c. le Secrétariat d’Etat aux migrations (SEM)[^11-3];
+- b.[^11-2] le Secrétariat d’État à l’économie (SECO);
+- c. le Secrétariat d’État aux migrations (SEM)[^11-3];
 - d. l’Office fédéral des assurances sociales (OFAS);
 - e. l’Office fédéral de l’énergie (OFEN);
 - f. les offices cantonaux et communaux de statistique (OCS);
@@ -295,7 +295,7 @@ Les services publics suivants ont accès au système d’information du REE à d
 - i.[^11-6] l’AFC;
 - j.[^11-7] l’Administration fédérale des douanes (AFD);
 - k.[^11-8] les offices cantonaux de l’agriculture (OCA);
-- l.[^11-9] …
+- l.[^11-9] ...
 - m.[^11-10] la Banque nationale Suisse (BNS);
 - n.[^11-11] l’Office fédéral du développement territorial (ARE);
 - o.[^11-12] l’Office fédéral de l’environnement (OFEV).
@@ -328,7 +328,7 @@ Les services publics suivants ont accès au système d’information du REE à d
 - u.[^11-34] les Offices d’assurance-invalidité cantonaux;
 - v.[^11-35] l’office fédéral de la santé publique (OFSP);
 - w.[^11-36] les caisses de chômage reconnues (CCh);
-- x.[^11-37] le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI)[^11-38];
+- x.[^11-37] le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)[^11-38];
 - y.[^11-39] les RCCC;
 - z.[^11-40] l’Office fédéral de l’aviation civile (OFAC);
 - z<sup>bis</sup>.[^11-41] l’Office fédéral de la communication (OFCOM);
@@ -389,7 +389,7 @@ Les données contenues dans le REE qui permettent de déduire des faits relatifs
 
 #### Art. 13
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> En règle générale, l’OFS communique les données du REE contre émolument.
 
@@ -415,11 +415,14 @@ Les données contenues dans le REE qui permettent de déduire des faits relatifs
 
 **Sécurité des données**[^15-1]
 
-La sécurité des données est régie par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^15-2] et l’ordonnance du 26 septembre 2003 sur l’informatique dans l’administration fédérale[^15-3].
+La sécurité des données est régie par:
 
-[^15-1]: Nouvelle teneur selon le ch. II 4 de l’annexe à l’O du 26 sept. 2003 sur l’informatique dans l’administration fédérale, en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)).
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^15-2];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^15-3].
+
+[^15-1]: Nouvelle teneur selon l’annexe ch. 26 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^15-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: **[**[RO 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 al. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)annexe ch. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29 al. 1]. Voir actuellement l’O du 9 déc. 2011 sur l’informatique dans l’administration fédérale ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^15-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 16
 
@@ -443,7 +446,7 @@ L’ordonnance du 12 décembre 1988 sur la tenue d’un registre des entreprises
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 1993.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 5, 9 et 10)
 
@@ -486,9 +489,9 @@ Par ordre alphabétique:
 - PostCom Commission fédérale de la poste
 - RCCC Registres de la Confédération, des cantons et des communes
 - RFA Régie fédérale des alcools
-- SECO Secrétariat d’Etat à l’économie
-- SEFRI Secrétariat d’Etat à la formation, à la recherche et à l’innovation
-- SEM Secrétariat d’Etat aux migrations
+- SECO Secrétariat d’État à l’économie
+- SEFRI Secrétariat d’État à la formation, à la recherche et à l’innovation
+- SEM Secrétariat d’État aux migrations
 - SPE Services de protection de l’environnement des cantons
 - UFAL Unité fédérale pour la filière alimentaire
 - 1 Système d’information pour les données sur les exploitations, les structures et les contributions (SIPA) de l’OFAG
@@ -514,7 +517,7 @@ Par ordre alphabétique:
 ### REE
 
 <table>
-<tr><th>Type d’accès et contenu</th><th>Contenu REE</th><th>Echanges avec d’autres systèmes</th><th colspan="2">Utilisateurs</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Type d’accès et contenu</th><th>Contenu REE</th><th>Échanges avec d’autres systèmes</th><th colspan="2">Utilisateurs</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><th></th><th></th><th></th><th>OFS</th><th colspan="2">ARE, OFEV, SECO</th><th>AFC, AFD, AI, CCh, CFST, IVI, OCET, OET, OFAC, OFCOM, OFEN, PostCom, RFA, RCCC, SEFRI, SEM</th><th>OFAS, CCC, CCP</th><th>CNA</th><th>OCS</th><th>BNS</th><th>BFEG</th><th>CC, OFAG, OFAE, OCA, OVC, OFSP OSAV, SPE, UFAL</th></tr>
 <tr><td>Numéro REE de l’établissement</td><td>X</td><td>1,2,3,4,5,6, 7,8,9,10,12</td><td>A,D</td><td colspan="2">A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>
 <tr><td>Numéro ENTID de l’unité entreprise</td><td>X</td><td>1,2,3,4,5,6, 7,8,9,10,12</td><td>A,D</td><td colspan="2">A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>

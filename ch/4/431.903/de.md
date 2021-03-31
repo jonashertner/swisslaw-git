@@ -4,11 +4,11 @@ title: Verordnung vom 30. Juni 1993 über das Betriebs- und Unternehmensregister
 short: BURV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: de
-version: 2019-04-01
+version: 2021-04-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20190401/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20190401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20190401/de"
 
 (BURV)**[^t-1]**
 
-vom 30. Juni 1993 (Stand am 1. April 2019)
+vom 30. Juni 1993 (Stand am 1. April 2021)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -79,7 +79,7 @@ Im BUR sind die folgenden Daten enthalten:
 - j. Grundkapital der Aktiengesellschaften;
 - k.[^3-2] für Betriebe, die dem Landwirtschaftsgesetz vom 29. April 1998[^3-3], dem Tierseuchengesetz vom 1. Juli 1966[^3-4], dem Tierschutzgesetz vom 16. Dezember 2005[^3-5] oder dem Lebensmittelgesetz vom 9. Oktober 1992[^3-6] unterstehen: Name und Adresse des Betriebs und des Bewirtschafters oder der Bewirtschafterin beziehungsweise des Tierhalters oder der Tierhalterin sowie Name, Beruf und Geburtsjahr der verantwortlichen Person;
 - k<sup>bis</sup>.[^3-7] für Landwirtschaftsbetriebe zusätzlich zu den Daten nach Buchstabe k: Betriebsstruktur;
-- l.[^3-8] …
+- l.[^3-8] ...
 - m. nichtsprechende Identifikationsnummer (ENTID-Nummer) des Unternehmens;
 - n. nichtsprechende Referenz-Identifikationsnummer (REF-ENT Nummer);
 - o. Statusangaben zur Aktivität;
@@ -187,7 +187,7 @@ Umfang und Modalitäten des Zugriffs auf die Daten sind im Anhang festgelegt.
 
 <sup>1</sup> Die Daten werden vom BFS[^6-1] übernommen, eingegeben und mutiert, nachdem die nötigen Überprüfungen vorgenommen worden sind.[^6-2]
 
-<sup>2</sup> …[^6-3]
+<sup>2</sup> ...[^6-3]
 
 [^6-1]: Ausdruck gemäss Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^6-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Sept. 2009 ([AS 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
@@ -295,7 +295,7 @@ Folgende Amtsstellen sind für statistische Zwecke an das System angeschlossen:
 - i.[^11-8] ESTV;
 - j.[^11-9] Eidgenössische Zollverwaltung (EZV);
 - k.[^11-10] kantonale Landwirtschaftsämter (KLA);
-- 1\.[^11-11] …
+- 1\.[^11-11] ...
 - [tab] m.[^11-12] Schweizerische Nationalbank (SNB).
 - n.[^11-13] Bundesamt für Raumentwicklung (ARE);
 - o.[^11-14] Bundesamt für Umwelt (BAFU).
@@ -418,11 +418,14 @@ Aus dem BUR dürfen keine Daten veröffentlicht werden, die Rückschlüsse auf d
 
 **Datensicherheit**[^15-1]
 
-Für die Datensicherheit gelten die Bestimmungen der Verordnung vom 14. Juni 1993[^15-2] zum Bundesgesetz über den Datenschutz und der Bundesinformatikverordnung vom 26. September 2003[^15-3].
+Für die Datensicherheit gelten:
 
-[^15-1]: Fassung gemäss Anhang Ziff. II 4 der Bundesinformatikverordnung vom 26. Sept. 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)).
+- a. die Verordnung vom 14. Juni 1993[^15-2] zum Bundesgesetz über den Datenschutz;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^15-3].
+
+[^15-1]: Fassung gemäss Anhang Ziff. 26 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^15-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-3]: [[AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)Art. 22 Abs. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Anhang Ziff. 2, [2011 4491](https://fedlex.data.admin.ch/eli/oc/2011/621). [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)Art. 29 Abs. 1]. Siehe heute: die Bundesinformatikverordnung vom 9. Dez. 2011 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
+[^15-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 #### Art. 16
 
