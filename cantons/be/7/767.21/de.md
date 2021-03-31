@@ -4,13 +4,12 @@ number: "767.21"
 title: Verordnung über die Ausnahmen in der Besteuerung der Schiffe
 short: VABS
 language: de
-version: 1991-01-01
-valid_until: 2021-03-31
-version_adopted: 1990-10-24
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1990-10-24
 in_force: 1991-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/767.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/364/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2239/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,24 +18,24 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/364/pdf_file"
 
 (VABS)
 
-vom 24.10.1990 (Stand 01.01.1991)
+vom 24.10.1990 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf das Gesetz vom 19. Februar 1990 über die Schiffahrt und die Besteuerung der Schiffe[^ingress-1] (Schiffahrtsgesetz) sowie das Dekret vom 19. Februar 1990 über die Besteuerung der Schiffe[^ingress-2] Schiffssteuerdekret)
+gestützt auf das Gesetz vom 19. Februar 1990 über die Schifffahrt und die Besteuerung der Schiffe (Schifffahrtsgesetz)[^ingress-1] sowie das Dekret vom 19. Februar 1990 über die Besteuerung der Schiffe (Schiffssteuerdekret)[^ingress-2],
 
 auf Antrag der Polizeidirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 767.1
-[^ingress-2]: BSG 767.2
+[^ingress-1]: BSG [767.1](https://www.belex.sites.be.ch/data/767.1/de)
+[^ingress-2]: BSG [767.2](https://www.belex.sites.be.ch/data/767.2/de)
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Die Verordnung regelt den Vollzug von Artikel 19 des Gesetzes vom 19. Februar 1990 über die Schiffahrt und die Besteuerung der Schiffe[^1-1] (Schiffahrtsgesetz).
+<sup>1</sup> Die Verordnung regelt den Vollzug von Artikel 19 des Gesetzes vom 19. Februar 1990 über die Schifffahrt und die Besteuerung der Schiffe (Schifffahrtsgesetz)[^1-1].
 
 [^1-1]: BSG 767.1
 
@@ -44,7 +43,7 @@ beschliesst:
 
 **Ausnahmen von Amtes wegen**
 
-<sup>1</sup> Die Ausnahmen von der Steuerpflicht nach Artikel 19 Buchstaben a und b des Schiffahrtsgesetzes[^2-1] werden im Rahmen des Zulassungsverfahrens durch das Strassenverkehrs- und Schiffahrtsamt (hiernach SVSA) von Amtes wegen festgestellt.
+<sup>1</sup> Die Ausnahmen von der Steuerpflicht nach Artikel 19 Buchstaben a und b des Schifffahrtsgesetzes[^2-1] werden im Rahmen des Zulassungsverfahrens durch das Strassenverkehrs- und Schifffahrtsamt (hiernach SVSA) von Amtes wegen festgestellt.
 
 [^2-1]: BSG 767.1
 
@@ -54,14 +53,19 @@ beschliesst:
 
 <sup>1</sup> Als Schiffe des Bundes gelten
 
-- a Schiffe gemäss Verordnung des Bundesrates vom 6. Dezember 1982 über die Schiffe der Bundesverwaltung und ihre Führer (SR 747.201.2);
-- b Schiffe gemäss Verordnung des Bundesrates vom 20. Oktober 1982 über den militärischen Schiffsverkehr (SR 510.755).
+- a Schiffe gemäss Verordnung des Bundesrates vom 1. März 2006 über die zivile Schifffahrt der Bundesverwaltung (VZSchB)[^3-1];
+- b Schiffe gemäss Verordnung des Bundesrates vom 1. März 2006 über die militärische Schifffahrt (VMSch)[^3-2].
+
+[^3-1]: SR [747.201.2](https://db.clex.ch/link/Bund/747.201.2/de)
+[^3-2]: SR [510.755](https://db.clex.ch/link/Bund/510.755/de)
 
 #### Art. 4
 
-**Konzessionierte Schiffahrt**
+**Konzessionierte Schifffahrt**
 
-<sup>1</sup> Für Schiffe, welche aufgrund einer Konzession gemäss Verordnung des Bundesrates vom 9. August 1972 über die konzessions- und bewilligungspflichtige Schiffahrt (SR 747.211.1) verkehren, wird keine Steuer erhoben.
+<sup>1</sup> Für Schiffe, welche aufgrund einer Konzession gemäss Verordnung des Bundesrates vom 4. November 2009 über die Personenbeförderung (VPB)[^4-1] verkehren, wird keine Steuer erhoben.
+
+[^4-1]: SR [745.11](https://db.clex.ch/link/Bund/745.11/de)
 
 #### Art. 5
 
@@ -81,7 +85,7 @@ beschliesst:
 
 <sup>1</sup> Auf Gesuch hin werden Halter oder Halterinnen für die von ihnen ausschliesslich zur Ausbildung von Wasserfahrern oder Wasserfahrerinnen eingesetzten Ruderboote von der Steuerpflicht ausgenommen.
 
-<sup>2</sup> Als Ausbildung von Wasserfahrern oder Wasserfahrerinnen gilt insbesondere die durch das Bundesamt für Genie und Festung (BAGF) überwachte vor- und ausserdienstliche Ausbildung gemäss Verordnung des Bundesrates vom 20. Oktober 1982 über den militärischen Schiffsverkehr (SR 510.755). Ausbildungen, welche nicht durch das BAGF überwacht, jedoch nach den gleichen Regeln und mit dem gleichen Ziel erfolgen, gelten als gleichwertig.
+<sup>2</sup> Als Ausbildung von Wasserfahrern oder Wasserfahrerinnen gilt insbesondere die durch den militärischen Lehrverband Genie/Rettung überwachte vor- und ausserdienstliche Ausbildung gemäss VMSch. Ausbildungen, welche nicht durch den militärischen Lehrverband Genie/Rettung überwacht werden, jedoch nach den gleichen Regeln und mit dem gleichen Ziel erfolgen, gelten als gleichwertig.
 
 #### Art. 8
 
@@ -109,9 +113,9 @@ beschliesst:
 
 **Gesuche**
 
-<sup>1</sup> Gesuche nach Artikel 19 Buchstaben c, d und e des Schiffahrtsgesetzes[^11-1] haben die vollständigen Daten über den Schiffshalter/die Schiffshalterin bzw. den Gesuchsteller/die Gesuchstellerin sowie das betreffende Schiff zu enthalten. Die Gesuche sind schriftlich einzureichen und bei jedem Schiffswechsel zu erneuern.
+<sup>1</sup> Gesuche nach Artikel 19 Buchstaben c, d und e des Schifffahrtsgesetzes[^11-1] haben die vollständigen Daten über den Schiffshalter/die Schiffshalterin bzw. den Gesuchsteller/die Gesuchstellerin sowie das betreffende Schiff zu enthalten. Die Gesuche sind schriftlich einzureichen und bei jedem Schiffswechsel zu erneuern.
 
-[^11-1]: BSG 767.1
+[^11-1]: BSG [767.1](https://www.belex.sites.be.ch/data/767.1/de)
 
 #### Art. 12
 
