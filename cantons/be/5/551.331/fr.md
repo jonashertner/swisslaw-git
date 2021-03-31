@@ -3,20 +3,19 @@ canton: BE
 number: "551.331"
 title: "Ordonnance concernant l'identification judiciaire *"
 language: fr
-version: 1998-01-01
-valid_until: 2021-03-31
-version_adopted: 1997-10-29
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1942-01-09
 in_force: 1942-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.331"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/450/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2233/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant l'identification judiciaire
 
-du 09.01.1942 (état au 01.01.1998)
+du 09.01.1942 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -50,7 +49,7 @@ arrête:
 
 #### Art. 6
 
-<sup>1</sup> La Direction de la police et des affaires militaires exécute la présente ordonnance. Elle veille à ce que l'unité administrative chargée de l'identification judiciaire soit toujours agencée selon les besoins et l'état de la science criminaliste.
+<sup>1</sup> La Direction de la sécurité exécute la présente ordonnance. Elle veille à ce que l'unité administrative chargée de l'identification judiciaire soit toujours agencée selon les besoins et l'état de la science criminaliste.
 
 #### Art. 7
 

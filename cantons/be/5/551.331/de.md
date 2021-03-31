@@ -3,20 +3,19 @@ canton: BE
 number: "551.331"
 title: Verordnung über den polizeilichen Erkennungsdienst
 language: de
-version: 1998-01-01
-valid_until: 2021-03-31
-version_adopted: 1997-10-29
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1942-01-09
 in_force: 1942-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.331"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/450/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2233/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den polizeilichen Erkennungsdienst
 
-vom 09.01.1942 (Stand 01.01.1998)
+vom 09.01.1942 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -50,7 +49,7 @@ beschliesst:
 
 #### Art. 6
 
-<sup>1</sup> Die Polizei- und Militärdirektion wird mit der Durchführung dieser Verordnung beauftragt. Sie sorgt dafür, dass der Erkennungsdienst stets dem Stande der Bedürfnisse und der Forschung gemäss eingerichtet ist.
+<sup>1</sup> Die Sicherheitsdirektion wird mit der Durchführung dieser Verordnung beauftragt. Sie sorgt dafür, dass der Erkennungsdienst stets dem Stande der Bedürfnisse und der Forschung gemäss eingerichtet ist.
 
 #### Art. 7
 
