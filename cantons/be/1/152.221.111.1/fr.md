@@ -3,20 +3,20 @@ canton: BE
 number: "152.221.111.1"
 title: "Ordonnance concernant la commission d'économie générale"
 language: fr
-version: 2018-07-01
-valid_until: 2021-03-31
-version_adopted: 2018-05-23
+version: 2021-04-01
+valid_until: 2022-02-28
+version_adopted: 2021-02-17
 adopted: 1992-11-18
 in_force: 1993-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1472/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2161/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la commission d'économie générale
 
-du 18.11.1992 (état au 01.07.2018)
+du 18.11.1992 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -32,7 +32,7 @@ arrête:
 
 **Commission d'économie générale**
 
-<sup>1</sup> La commission d'économie générale (CEG) est la commission consultative de la Direction de l'économie publique chargée d'examiner les questions fondamentales relevant de tous les domaines importants pour l'économie.
+<sup>1</sup> La commission d'économie générale (CEG) est la commission consultative de la Direction de l’économie, de l’énergie et de l’environnement chargée d'examiner les questions fondamentales relevant de tous les domaines importants pour l'économie.
 
 <sup>2</sup> Elle favorise l'échange d'informations entre les milieux de l'économie et l'administration.
 
@@ -42,8 +42,8 @@ arrête:
 
 <sup>1</sup> La CEG a pour tâches
 
-- a de conseiller la Direction de l’économie publique dans les questions importantes en matière d’économie,
-- b de se prononcer sur les principales affaires de la Direction de l’économie publique,
+- a de conseiller la Direction de l’économie, de l’énergie et de l’environnement dans les questions importantes en matière d’économie,
+- b de se prononcer sur les principales affaires de la Direction de l’économie, de l’énergie et de l’environnement,
 - c de formuler des recommandations à l'intention de la Commission de justice au sujet de l'élection des juges spécialisés du Tribunal de commerce.
 
 <sup>2</sup> En outre, la CEG peut notamment se prononcer sur
@@ -75,15 +75,15 @@ arrête:
 - d l'Association cantonale bernoise des propriétaires de forêts,
 - e Pro Natura Berne.
 
-<sup>4</sup> D'autres membres ainsi que d'autres suppléants ou suppléantes sont nommés sur proposition de la moitié au moins des membres de la CEG ou de la Direction de l'économie publique.
+<sup>4</sup> D'autres membres ainsi que d'autres suppléants ou suppléantes sont nommés sur proposition de la moitié au moins des membres de la CEG ou de la Direction de l’économie, de l’énergie et de l’environnement.
 
 #### Art. 4
 
 **Nomination**
 
-<sup>1</sup> Le Conseil-exécutif nomme, pour une période de quatre ans, sur proposition des organisations concernées et de la Direction de l'économie publique, le président ou la présidente, les membres de la CEG ainsi que les suppléants et suppléantes.
+<sup>1</sup> Le Conseil-exécutif nomme, pour une période de quatre ans, sur proposition des organisations concernées et de la Direction de l’économie, de l’énergie et de l’environnement, le président ou la présidente, les membres de la CEG ainsi que les suppléants et suppléantes.
 
-<sup>1a</sup> La Direction de l’économie publique octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer un candidat ou une candidate, d'entente avec l'organisation concernée.
+<sup>1a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer un candidat ou une candidate, d'entente avec l'organisation concernée.
 
 <sup>2</sup> Les nominations peuvent être reconduites.
 
@@ -93,17 +93,17 @@ arrête:
 
 **Convocation**
 
-<sup>1</sup> La CEG se réunit sur convocation du président ou de la présidente ou à la demande de la Direction de l'économie publique ou de cinq de ses membres au moins.
+<sup>1</sup> La CEG se réunit sur convocation du président ou de la présidente ou à la demande de la Direction de l’économie, de l’énergie et de l’environnement ou de cinq de ses membres au moins.
 
 <sup>2</sup> Si un membre est empêché de prendre part à une séance de la commission, il doit convoquer, en temps utile, son suppléant ou sa suppléante.
 
-<sup>3</sup> Pour l'examen de questions urgentes, la Direction de l'économie publique peut faire appel à certains membres de la CEG.
+<sup>3</sup> Pour l'examen de questions urgentes, la Direction de l’économie, de l’énergie et de l’environnement peut faire appel à certains membres de la CEG.
 
 #### Art. 6
 
 **Participation de tierces personnes**
 
-<sup>1</sup> Le président ou la présidente de la CEG ainsi que la Direction de l'économie publique peuvent demander à des collaborateurs et à des collaboratrices de l'administration ou à d'autres personnes de prendre part à des séances.
+<sup>1</sup> Le président ou la présidente de la CEG ainsi que la Direction de l’économie, de l’énergie et de l’environnement peuvent demander à des collaborateurs et à des collaboratrices de l'administration ou à d'autres personnes de prendre part à des séances.
 
 #### Art. 7
 
@@ -131,13 +131,13 @@ arrête:
 
 **Secrétariat**
 
-<sup>1</sup> Le Secrétariat général de la CEG est assuré par le secrétariat de la Direction de l'économie publique.
+<sup>1</sup> Le Secrétariat général de la CEG est assuré par le secrétariat de la Direction de l’économie, de l’énergie et de l’environnement.
 
 #### Art. 11
 
 **Règlement**
 
-<sup>1</sup> Les modalités de détail peuvent être fixées dans un règlement édicté par la Direction de l'économie publique.
+<sup>1</sup> Les modalités de détail peuvent être fixées dans un règlement édicté par la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> La commission sera consultée au préalable.
 

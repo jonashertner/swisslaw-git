@@ -3,20 +3,20 @@ canton: BE
 number: "152.221.111.1"
 title: Verordnung über die Volkswirtschaftskommission
 language: de
-version: 2018-07-01
-valid_until: 2021-03-31
-version_adopted: 2018-05-23
+version: 2021-04-01
+valid_until: 2022-02-28
+version_adopted: 2021-02-17
 adopted: 1992-11-18
 in_force: 1993-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1472/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2161/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Volkswirtschaftskommission
 
-vom 18.11.1992 (Stand 01.07.2018)
+vom 18.11.1992 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -32,7 +32,7 @@ beschliesst:
 
 **Volkswirtschaftskommission**
 
-<sup>1</sup> Die Volkswirtschaftskommission (VWK) ist die beratende Kommission der Volkswirtschaftsdirektion für die Beurteilung grundsätzlicher Fragen aus allen Gebieten, die wirtschaftlich von Bedeutung sind.
+<sup>1</sup> Die Volkswirtschaftskommission (VWK) ist die beratende Kommission der Wirtschafts-, Energie- und Umweltdirektion für die Beurteilung grundsätzlicher Fragen aus allen Gebieten, die wirtschaftlich von Bedeutung sind.
 
 <sup>2</sup> Sie dient dem Informationsaustausch zwischen Wirtschaft und Verwaltung.
 
@@ -42,8 +42,8 @@ beschliesst:
 
 <sup>1</sup> Der VWK obliegen die
 
-- a Beratung der Volkswirtschaftsdirektion in wichtigen Wirtschaftsfragen,
-- b Stellungnahme zu wichtigen Geschäften der Volkswirtschaftsdirektion,
+- a Beratung der Wirtschafts-, Energie- und Umweltdirektion in wichtigen Wirtschaftsfragen,
+- b Stellungnahme zu wichtigen Geschäften der Wirtschafts-, Energie- und Umweltdirektion,
 - c Abgabe von Empfehlungen zuhanden der Justizkommission zur Wahl von Fachrichterinnen und Fachrichtern des Handelsgerichts.
 
 <sup>2</sup> Ferner kann die VWK insbesondere Stellung nehmen zu
@@ -56,9 +56,9 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die VWK besteht aus 17–21 Mitgliedern.
+<sup>1</sup> Die VWK besteht aus 17 bis 21 Mitgliedern.
 
-<sup>2</sup> Folgende Organisationen haben Anspruch auf zwei Mitglieder sowie zwei Stellvertreterinnen oder Stellvertreter:
+<sup>2</sup> Folgende Organisationen haben Anspruch auf zwei Mitglieder sowie zwei Stellvertreterinnen und Stellvertreter:
 
 - a Berner KMU Kantonal-Bernischer Gewerbeverband,
 - b der Handels- und Industrieverein des Kantons Bern,
@@ -67,7 +67,7 @@ beschliesst:
 - e angestellte bern,
 - f die Wirtschafts- und Sozialwissenschaftliche Fakultät der Universität Bern.
 
-<sup>3</sup> Folgende Organisationen haben Anspruch auf ein Mitglied sowie zwei Stellvertreterinnen oder Stellvertreter:
+<sup>3</sup> Folgende Organisationen haben Anspruch auf ein Mitglied sowie zwei Stellvertreterinnen und Stellvertreter:
 
 - a der Kantonalbernische Kaufmännische Verband,
 - b die Landwirtschaftliche Organisation Bern und angrenzende Gebiete,
@@ -75,15 +75,15 @@ beschliesst:
 - d der Verband bernischer Waldbesitzer,
 - e Pro Natura Bern.
 
-<sup>4</sup> Weitere Mitglieder sowie Stellvertreterinnen oder Stellvertreter werden auf Antrag von mindestens der Hälfte der Mitglieder der VWK oder der Volkswirtschaftsdirektion gewählt.
+<sup>4</sup> Weitere Mitglieder sowie Stellvertreterinnen und Stellvertreter werden auf Antrag von mindestens der Hälfte der Mitglieder der VWK oder der Wirtschafts-, Energie- und Umweltdirektion gewählt.
 
 #### Art. 4
 
 **Wahl**
 
-<sup>1</sup> Der Regierungsrat wählt gestützt auf die Anträge der betroffenen Organisationen bzw. der Volkswirtschaftsdirektion die Präsidentin oder den Präsidenten, die Mitglieder der VWK sowie die Stellvertreterinnen und Stellvertreter auf vier Jahre.
+<sup>1</sup> Der Regierungsrat wählt gestützt auf die Anträge der betroffenen Organisationen bzw. der Wirtschafts-, Energie- und Umweltdirektion die Präsidentin oder den Präsidenten, die Mitglieder der VWK sowie die Stellvertreterinnen und Stellvertreter auf vier Jahre.
 
-<sup>1a</sup> Die Volkswirtschaftsdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, in Absprache mit der betroffenen Organisation eine Kandidatin oder einen Kandidaten vorzuschlagen.
+<sup>1a</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, in Absprache mit der betroffenen Organisation eine Kandidatin oder einen Kandidaten vorzuschlagen.
 
 <sup>2</sup> Die Wiederwahl ist zulässig.
 
@@ -93,17 +93,17 @@ beschliesst:
 
 **Einberufung**
 
-<sup>1</sup> Die VWK tritt auf Einladung der Präsidentin oder des Präsidenten oder auf Antrag der Volkswirtschaftsdirektion oder von mindestens fünf Mitgliedern zusammen.
+<sup>1</sup> Die VWK tritt auf Einladung der Präsidentin oder des Präsidenten oder auf Antrag der Wirtschafts-, Energie- und Umweltdirektion oder von mindestens fünf Mitgliedern zusammen.
 
 <sup>2</sup> Ist ein Mitglied verhindert, an einer Kommissionssitzung teilzunehmen, hat es rechtzeitig seine Stellvertreterin oder seinen Stellvertreter aufzubieten.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion kann zur Vorberatung dringender Fragen einzelne Mitglieder der VWK beiziehen.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann zur Vorberatung dringender Fragen einzelne Mitglieder der VWK beiziehen.
 
 #### Art. 6
 
 **Beizug Dritter**
 
-<sup>1</sup> Die Präsidentin oder der Präsident der VWK und die Volkswirtschaftsdirektion können für Sitzungen Mitarbeiterinnen und Mitarbeiter aus der Verwaltung oder weitere Personen beiziehen.
+<sup>1</sup> Die Präsidentin oder der Präsident der VWK und die Wirtschafts-, Energie- und Umweltdirektion können für Sitzungen Mitarbeiterinnen und Mitarbeiter aus der Verwaltung oder weitere Personen beiziehen.
 
 #### Art. 7
 
@@ -133,13 +133,13 @@ beschliesst:
 
 **Sekretariat**
 
-<sup>1</sup> Das Generalsekretariat der Volkswirtschaftsdirektion führt das Sekretariat der VWK.
+<sup>1</sup> Das Generalsekretariat der Wirtschafts-, Energie- und Umweltdirektion führt das Sekretariat der VWK.
 
 #### Art. 11
 
 **Reglement**
 
-<sup>1</sup> Einzelheiten können durch ein Reglement der Volkswirtschaftsdirektion festgelegt werden.
+<sup>1</sup> Einzelheiten können durch ein Reglement der Wirtschafts-, Energie- und Umweltdirektion festgelegt werden.
 
 <sup>2</sup> Die VWK ist vorgängig anzuhören.
 
