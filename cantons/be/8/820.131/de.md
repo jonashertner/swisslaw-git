@@ -4,13 +4,13 @@ number: "820.131"
 title: Einführungsverordnung zur eidgenössischen Störfallverordnung
 short: EV StFV
 language: de
-version: 2016-11-01
-valid_until: 2021-03-31
-version_adopted: 2016-08-31
+version: 2021-04-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-17
 adopted: 1993-09-22
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/820.131"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1155/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2173/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1155/pdf_file"
 
 (EV StFV)
 
-vom 22.09.1993 (Stand 01.11.2016)
+vom 22.09.1993 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -44,74 +44,74 @@ beschliesst:
 - b koordiniert den kantonalen Vollzug der Störfallverordnung;
 - c erstellt und führt den Risikokataster;
 - d informiert das Bundesamt für Umwelt (Artikel 16 StFV);
-- e organisiert die Ausbildung der Chemiewehrfachberater.
+- e …
 
 <sup>2</sup> …
 
 #### Art. 2
 
-**2 Verkehrswege und Betriebe mit Stoffen, Erzeugnissen oder Sonderabfällen**
+**2 Durchgangsstrassen und Betriebe mit Stoffen, Zubereitungen oder Sonderabfällen**
 
 <sup>1</sup> Das Kantonale Laboratorium ist zuständig für den Vollzug
 
-- a der Störfallverordnung auf Verkehrswegen,
-- b der Störfallverordnung bei Betrieben mit Stoffen, Erzeugnissen oder Sonderabfällen,
-- c von Artikel 10 Absatz 2 StFV.
+- a der Störfallverordnung auf Durchgangsstrassen,
+- b der Störfallverordnung bei Betrieben mit Stoffen, Zubereitungen oder Sonderabfällen,
+- c …
 
-<sup>2</sup> Es
+<sup>2</sup> Das Kantonale Laboratorium
 
-- a beurteilt die Kurzberichte und Risikoermittlungen für Verkehrswege und Betriebe mit Stoffen, Erzeugnissen oder Sonderabfällen unter Berücksichtigung der Amtsberichte der zuständigen Behörden und entscheidet, ob das Risiko tragbar ist oder nicht;
-- b erstellt den Kontrollbericht (Artikel 7 Absatz 1 StFV), stellt den betroffenen Gemeinden eine Kopie zu und informiert auf Anfrage über die Kontrollergebnisse (Artikel 9 StFV);
+- a beurteilt die Kurzberichte und Risikoermittlungen für Durchgangsstrassen und Betriebe mit Stoffen, Zubereitungen oder Sonderabfällen unter Berücksichtigung der Amtsberichte der zuständigen Behörden und entscheidet, ob das Risiko tragbar ist oder nicht;
+- b …
 - c erlässt Verfügungen über zusätzliche Sicherheitsmassnahmen (Artikel 8 StFV);
 - d koordiniert den Erlass von Verfügungen, falls mehrere Behörden zuständig sind;
 - e legt die Auflagen im Rahmen der Genehmigungs- und Bewilligungsverfahren gemäss Artikel 13 Absatz 2 fest;
-- f nimmt die Berichte über Störfälle auf Verkehrswegen entgegen, wertet sie aus und informiert die betroffenen Behörden.
+- f …
 
 <sup>3</sup> Zur Beratung von fachübergreifenden Problemen kann das Kantonale Laboratorium den Fachausschuss mobile Risiken (FMR) einberufen, in welchem vertreten sind
 
 - a das Tiefbauamt,
 - b das Amt für Wasser und Abfall,
 - c die Feuerwehren des Kantons Bern,
-- d das Amt für Umweltkoordination und Energie,
+- d das Amt für Umwelt und Energie,
 - e die Kantonspolizei,
 - f andere Behörden und Experten nach Bedarf.
 
-<sup>4</sup> Zur Beratung von fachübergreifenden Problemen bei Betrieben mit Stoffen, Erzeugnissen oder Sonderabfällen kann es den Fachausschuss einzelbetriebliche Störfallvorsorge (ESV) einberufen, in dem vertreten sind
+<sup>4</sup> Zur Beratung von fachübergreifenden Problemen bei Betrieben mit Stoffen, Zubereitungen oder Sonderabfällen kann es den Fachausschuss einzelbetriebliche Störfallvorsorge (ESV) einberufen, in dem vertreten sind
 
 - a das Amt für Wasser und Abfall,
 - b die Gebäudeversicherung Bern,
-- c das Amt für Umweltkoordination und Energie,
+- c das Amt für Umwelt und Energie,
 - d andere Behörden und Experten nach Bedarf.
 
-<sup>5</sup> Das Kantonale Laboratorium kann nach Anhören der zuständigen Behörden weitere Verkehrswege ausserhalb von Betrieben sowie weitere Betriebe mit gefährlichen Stoffen, Erzeugnissen oder Sonderabfällen der Störfallverordnung unterstellen (Artikel 1 Absatz 3 StFV).
+<sup>5</sup> Das Kantonale Laboratorium kann nach Anhören der zuständigen Behörden weitere Durchgangsstrassen sowie weitere Betriebe mit gefährlichen Stoffen, Zubereitungen oder Sonderabfällen der Störfallverordnung unterstellen (Artikel 1 Absatz 3 StFV).
 
-<sup>6</sup> Vorbehalten ist die Zuständigkeit des Strassenverkehrs- und Schiffahrtsamtes zum Vollzug der in seinem Fachbereich angeordneten Massnahmen (namentlich Verkehrsbeschränkungsmassnahmen, Sonderbewilligungen für Spezialfahrzeuge und Prüfungen von Fahrzeugen und Schiffen).
+<sup>6</sup> Vorbehalten ist die Zuständigkeit des Strassenverkehrs- und Schifffahrtsamtes zum Vollzug der in seinem Fachbereich angeordneten Massnahmen (namentlich Verkehrsbeschränkungsmassnahmen, Sonderbewilligungen für Spezialfahrzeuge und Prüfungen von Fahrzeugen und Schiffen).
 
 #### Art. 3
 
-**3 Betriebe mit Mikroorganismen**
+**3 Betriebe mit Organismen**
 
 <sup>1</sup> Das Kantonale Laboratorium ist zuständig für den Vollzug der Störfallverordnung bei Betrieben nach Artikel 1 Absatz 2 Buchstabe b und Absatz 3 Buchstabe b StFV.
 
 <sup>2</sup> Das Kantonale Laboratorium
 
 - a beurteilt die Kurzberichte und Risikoermittlungen für Betriebe unter Berücksichtigung der Amtsberichte der zuständigen Behörden und entscheidet, ob das Risiko tragbar ist oder nicht;
-- b erstellt den Kontrollbericht (Artikel 7 Absatz 1 StFV), stellt den betroffenen Gemeinden eine Kopie zu und informiert auf Anfrage über die Kontrollergebnisse (Artikel 9 StFV);
+- b …
 - c erlässt Verfügungen über zusätzliche Sicherheitsmassnahmen (Artikel 8 StFV);
 - d koordiniert den Erlass von Verfügungen, falls mehrere Behörden zuständig sind;
 - e legt die Auflagen im Rahmen der Genehmigungs- und Bewilligungsverfahren gemäss Artikel 13 Absatz 2 fest;
-- f koordiniert die Betriebskontrollen;
+- f koordiniert die Kontrollen;
 - g verfügt die Risikoermittlungen;
-- h nimmt die Berichte über Störfälle bei Betrieben mit Mikroorganismen entgegen, wertet sie aus und informiert die betroffenen Behörden.
+- h …
 
 <sup>3</sup> Zur Beratung von fächerübergreifenden Fragestellungen kann das Kantonale Laboratorium den Fachausschuss biologische Risiken (FBR) einberufen, in welchem vertreten sind
 
-- a das Kantonsarztamt bei Betrieben, in denen überwiegend humanpathogene Mikroorganismen verwendet werden,
-- b das Amt für Landwirtschaft und Natur (Veterinärdienst) bei Betrieben, in denen überwiegend tierpathogene Mikroorganismen verwendet werden,
+- a das Kantonsarztamt bei Betrieben, in denen überwiegend humanpathogene Organismen verwendet werden,
+- b das Amt für Veterinärwesen bei Betrieben, in denen überwiegend tierpathogene Organismen verwendet werden,
 - c das Amt für Wasser und Abfall,
-- d die Gebäudeversicherung des Kantons Bern,
-- e das Amt für Umweltkoordination und Energie,
-- f das Amt für Berner Wirtschaft
+- d die Gebäudeversicherung Bern,
+- e das Amt für Umwelt und Energie,
+- f …
 - g andere Behörden und Experten nach Bedarf.
 
 #### Art. 4
@@ -120,9 +120,9 @@ beschliesst:
 
 #### Art. 5
 
-**Gebäudeversicherung des Kantons Bern**
+**Gebäudeversicherung Bern**
 
-<sup>1</sup> Die Gebäudeversicherung ist zuständig für alle Fragen des vorbeugenden Brandschutzes beim Vollzug der Störfallverordnung.
+<sup>1</sup> Die Gebäudeversicherung Bern ist zuständig für alle Fragen des vorbeugenden Brandschutzes beim Vollzug der Störfallverordnung.
 
 <sup>2</sup> Sie sorgt für eine auf die Gefahrenpotentiale und Risiken sowie auf die Einsatzplanung der Inhaber ausgerichtete Instruktion der Feuerwehren (Artikel 14 StFV).
 
@@ -181,9 +181,9 @@ beschliesst:
 
 #### Art. 11
 
-**Amt für Umweltkoordination und Energie**
+**Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umweltkoordination und Energie koordiniert den Vollzug der Verordnung über die Umweltverträglichkeitsprüfung mit demjenigen der Störfallverordnung.
+<sup>1</sup> Das Amt für Umwelt und Energie koordiniert den Vollzug der Verordnung über die Umweltverträglichkeitsprüfung mit demjenigen der Störfallverordnung.
 
 #### Art. 12
 

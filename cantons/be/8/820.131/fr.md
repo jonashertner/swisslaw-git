@@ -4,13 +4,13 @@ number: "820.131"
 title: "Ordonnance d'introduction de l'ordonnance fédérale sur les accidents majeurs"
 short: OiOPAM
 language: fr
-version: 2016-11-01
-valid_until: 2021-03-31
-version_adopted: 2016-08-31
+version: 2021-04-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-17
 adopted: 1993-09-22
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/820.131"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1155/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2173/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1155/pdf_file"
 
 (OiOPAM)
 
-du 22.09.1993 (état au 01.11.2016)
+du 22.09.1993 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -44,74 +44,74 @@ arrête:
 - b coordonne l'exécution cantonale de l'ordonnance sur les accidents majeurs;
 - c établit et tient le cadastre des risques;
 - d informe l'Office fédéral de l'environnement (art. 16 OPAM);
-- e organise la formation des conseillers chimiques.
+- e …
 
 <sup>2</sup> …
 
 #### Art. 2
 
-**2 Voies de communication et entreprises utilisant des substances, des produits ou des déchets spéciaux**
+**2 Routes de grand transit et entreprises utilisant des substances, des préparations ou des déchets spéciaux**
 
 <sup>1</sup> Le Laboratoire cantonal est compétent pour l’exécution
 
-- a de l’ordonnance sur les accidents majeurs s’agissant des voies de communication;
-- b de l’ordonnance sur les accidents majeurs dans les entreprises qui utilisent des substances, des produits ou des déchets spéciaux;
-- c de l’article 10, alinéa 2 OPAM.
+- a de l’ordonnance sur les accidents majeurs s’agissant des routes de grand transit;
+- b de l’ordonnance sur les accidents majeurs dans les entreprises qui utilisent des substances, des préparations ou des déchets spéciaux;
+- c …
 
 <sup>2</sup> Le Laboratoire cantonal
 
-- a examine les rapports succincts et les études de risque concernant les voies de communication et les entreprises qui utilisent des substances, des produits ou des déchets spéciaux et décide, en considération des rapports officiels des autorités compétentes, si le risque est acceptable ou non;
-- b établit le rapport de contrôle (art. 7, 1<sup>er</sup> al. OPAM), en délivre une copie aux communes concernées et communique sur demande les résultats du contrôle (art. 9 OPAM);
+- a examine les rapports succincts et les études de risque concernant les routes de grand transit et les entreprises qui utilisent des substances, des préparations ou des déchets spéciaux et décide, en considération des rapports officiels des autorités compétentes, si le risque est acceptable ou non;
+- b …
 - c rend les décisions concernant les mesures de sécurité supplémentaires (art. 8 OPAM);
 - d coordonne le prononcé des décisions dans le cas où plusieurs autorités sont compétentes;
 - e fixe les charges dans les procédures en approbations et en autorisations, conformément à l'article 13, 2<sup>e</sup> alinéa;
-- f reçoit les rapports sur les accidents majeurs survenus sur des voies de communication, les évalue et informe les autorités concernées.
+- f …
 
 <sup>3</sup> Pour discuter de problèmes dépassant son domaine, le Laboratoire cantonal peut convoquer le comité d'experts «Risques mobiles» où sont représentés
 
 - a l'Office des ponts et chaussées,
 - b l'Office des eaux et des déchets,
 - c les corps de sapeurs-pompiers du canton de Berne,
-- d l’Office de la coordination environnementale et de l'énergie,
+- d l’Office de l’environnement et de l’énergie,
 - e la Police cantonale,
 - f d'autres autorités et experts, au besoin.
 
-<sup>4</sup> Pour discuter de problèmes dépassant son domaine en ce qui concerne les entreprises qui utilisent des substances, des produits ou des déchets spéciaux, le Laboratoire cantonal peut convoquer le comité d’experts «Prévention des accidents majeurs dans les entreprises», où sont représentés
+<sup>4</sup> Pour discuter de problèmes dépassant son domaine en ce qui concerne les entreprises qui utilisent des substances, des préparations ou des déchets spéciaux, le Laboratoire cantonal peut convoquer le comité d’experts «Prévention des accidents majeurs dans les entreprises», où sont représentés
 
 - a l’Office des eaux et des déchets,
 - b l’Assurance immobilière Berne,
-- c l’Office de la coordination environnementale et de l’énergie,
+- c l’Office de l’environnement et de l’énergie,
 - d d’autres autorités et experts, au besoin.
 
-<sup>5</sup> Le Laboratoire cantonal est habilité, après avoir entendu les autorités compétentes, à appliquer l’ordonnance sur les accidents majeurs à d’autres voies de communication situées hors des entreprises ainsi qu’à d’autres entreprises qui utilisent des substances, des produits ou des déchets spéciaux (art. 1, al. 3 OPAM).
+<sup>5</sup> Le Laboratoire cantonal est habilité, après avoir entendu les autorités compétentes, à appliquer l’ordonnance sur les accidents majeurs à d’autres routes de grand transit ainsi qu’à d’autres entreprises qui utilisent des substances, des préparations ou des déchets spéciaux (art. 1, al. 3 OPAM).
 
 <sup>6</sup> Sont réservées les compétences de l'Office de la circulation routière et de la navigation en matière d'exécution des mesures ordonnées dans son domaine (mesures de limitation de la circulation, autorisations spéciales pour certains véhicules et expertises des véhicules et des bateaux).
 
 #### Art. 3
 
-**3 Entreprises utilisant des micro-organismes**
+**3 Entreprises utilisant des organismes**
 
 <sup>1</sup> Le Laboratoire cantonal est compétent pour l'exécution de l'ordonnance sur les accidents majeurs s'agissant des entreprises selon l'article 1, alinéa 2, lettre b et alinéa 3, lettre b OPAM.
 
 <sup>2</sup> Le Laboratoire cantonal
 
 - a examine les rapports succincts et les études de risque concernant les entreprises et décide, en considération des rapports officiels des autorités compétentes, si le risque est acceptable ou non;
-- b établit le rapport de contrôle (art. 7, 1<sup>er</sup> al. OPAM), en délivre une copie aux communes concernées et communique sur demande les résultats du contrôle (art. 9 OPAM);
+- b …
 - c rend les décisions concernant les mesures de sécurité supplémentaires (art. 8 OPAM);
 - d coordonne le prononcé des décisions dans le cas où plusieurs autorités sont compétentes;
 - e fixe les charges dans les procédures en approbations et en autorisations, conformément à l'article 13, 2<sup>e</sup> alinéa;
-- f coordonne les inspections d'entreprises;
+- f coordonne les inspections;
 - g ordonne les études de risques;
-- h reçoit les rapports sur les accidents majeurs survenus dans des entreprises utilisant des micro-organismes, les évalue et informe les autorités concernées.
+- h …
 
 <sup>3</sup> Pour discuter de questions dépassant son domaine, le Laboratoire cantonal peut convoquer le comité d'experts «Risques biologiques» où sont représentés
 
-- a l'Office du médecin cantonal s'agissant des entreprises qui utilisent principalement des micro-organismes pathogènes pour l'homme,
-- b l'Office de l'agriculture et de la nature (Service vétérinaire) s'agissant des entreprises qui utilisent principalement des micro-organismes pathogènes pour les animaux,
+- a l'Office du médecin cantonal s'agissant des entreprises qui utilisent principalement des organismes pathogènes pour l'homme,
+- b l'Office des affaires vétérinaires s'agissant des entreprises qui utilisent principalement des organismes pathogènes pour les animaux,
 - c l'Office des eaux et des déchets,
-- d l'Assurance immobilière du canton de Berne,
-- e l'Office de la coordination environnementale et de l'énergie,
-- f l'Office de l'économie bernoise,
+- d l'Assurance immobilière Berne,
+- e l'Office de l’environnement et de l’énergie,
+- f …
 - g d'autres autorités et experts, au besoin.
 
 #### Art. 4
@@ -120,9 +120,9 @@ arrête:
 
 #### Art. 5
 
-**Assurance immobilière du canton de Berne**
+**Assurance immobilière Berne**
 
-<sup>1</sup> L'Assurance immobilière du canton de Berne est compétente pour toutes les questions concernant la prévention des incendies dans l'exécution de l'ordonnance sur les accidents majeurs.
+<sup>1</sup> L'Assurance immobilière Berne est compétente pour toutes les questions concernant la prévention des incendies dans l'exécution de l'ordonnance sur les accidents majeurs.
 
 <sup>2</sup> Elle veille à ce que les corps de sapeurs-pompiers soient instruits en tenant compte des dangers potentiels et des risques ainsi que des plans d'intervention des détenteurs (art. 14 OPAM).
 
@@ -181,9 +181,9 @@ arrête:
 
 #### Art. 11
 
-**Office de la coordination environnementale et de l'énergie**
+**Office de l’environnement et de l’énergie**
 
-<sup>1</sup> L'Office de la coordination environnementale et de l'énergie coordonne l'exécution de l'ordonnance relative à l'étude d'impact sur l'environnement avec l'exécution de l'ordonnance sur les accidents majeurs.
+<sup>1</sup> L'Office de l’environnement et de l’énergie coordonne l'exécution de l'ordonnance relative à l'étude d'impact sur l'environnement avec l'exécution de l'ordonnance sur les accidents majeurs.
 
 #### Art. 12
 
