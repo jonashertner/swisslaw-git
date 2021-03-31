@@ -4,13 +4,12 @@ number: "902.111"
 title: Kantonale Verordnung über Investitionshilfe für Berggebiete
 short: KIHV
 language: de
-version: 2016-05-01
-valid_until: 2021-03-31
-version_adopted: 2016-03-09
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2008-04-16
 in_force: 2008-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/902.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1006/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2190/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1006/pdf_file"
 
 (KIHV)
 
-vom 16.04.2008 (Stand 01.05.2016)
+vom 16.04.2008 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -56,13 +55,13 @@ beschliesst:
 
 <sup>1</sup> Anrechenbare Kosten nach Artikel 4 KIHG sind die für die Realisierung eines Vorhabens nötigen Ausgaben.
 
-<sup>2</sup> Das Amt für Berner Wirtschaft (beco) legt die anrechenbaren Kosten im Einzelfall bei der Gesuchsprüfung fest.
+<sup>2</sup> Das Amt für Wirtschaft (AWI) legt die anrechenbaren Kosten im Einzelfall bei der Gesuchsprüfung fest.
 
 #### Art. 4
 
 **Darlehen an Infrastrukturvorhaben**
 
-<sup>1</sup> Das beco legt Umfang und Dauer des Darlehens aufgrund der entwicklungspolitischen Bedeutung des Vorhabens und der finanziellen Möglichkeiten der Darlehensnehmerin oder des Darlehensnehmers fest.
+<sup>1</sup> Das AWI legt Umfang und Dauer des Darlehens aufgrund der entwicklungspolitischen Bedeutung des Vorhabens und der finanziellen Möglichkeiten der Darlehensnehmerin oder des Darlehensnehmers fest.
 
 <sup>2</sup> Der Beginn der Rückzahlung kann höchstens um drei Jahre ab dem Zeitpunkt der Auszahlung hinausgeschoben werden.
 
@@ -92,7 +91,7 @@ beschliesst:
 
 <sup>1</sup> Während fünf Jahren nach Auszahlung des Beitrags oder während der Laufzeit des Darlehens dürfen die Empfängerinnen und Empfänger weder Gewinne ausschütten noch die Eigenbezüge erhöhen.
 
-<sup>2</sup> Das beco kann ausnahmsweise der Ausschüttung von Gewinnen bzw. der Erhöhung der Eigenbezüge zustimmen.
+<sup>2</sup> Das AWI kann ausnahmsweise der Ausschüttung von Gewinnen bzw. der Erhöhung der Eigenbezüge zustimmen.
 
 <sup>3</sup> Bei Darlehen setzt die Zustimmung voraus, dass eine entsprechende zusätzliche Amortisation des Darlehens erfolgt.
 
@@ -102,7 +101,7 @@ beschliesst:
 
 <sup>1</sup> Das Regionalmanagement umfasst insbesondere die Aufgaben gemäss Artikel 5 des Bundesgesetzes.
 
-<sup>2</sup> Dafür schliesst das beco Leistungsvereinbarungen mit den Regionalkonferenzen ab. Diese regeln insbesondere
+<sup>2</sup> Dafür schliesst das AWI Leistungsvereinbarungen mit den Regionalkonferenzen ab. Diese regeln insbesondere
 
 - a die Ziele,
 - b die zu erbringenden Leistungen des Regionalmanagements,
@@ -129,11 +128,11 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Bis zur Bildung von Regionalkonferenzen kann das beco mit einer oder mehreren Planungsregionen gemäss Artikel 97 des Baugesetzes vom 9. Juni 1985[^10-1] eine Leistungsvereinbarung zum Regionalmanagement abschliessen.
+<sup>1</sup> Bis zur Bildung von Regionalkonferenzen kann das beco Berner Wirtschaft mit einer oder mehreren Planungsregionen gemäss Artikel 97 des Baugesetzes vom 9. Juni 1985 (BauG)[^10-1] eine Leistungsvereinbarung zum Regionalmanagement abschliessen.
 
 <sup>2</sup> Mehrere Planungsregionen innerhalb des Gebiets einer künftigen Regionalkonferenz sorgen untereinander für die Koordination.
 
-[^10-1]: BSG 721.0
+[^10-1]: BSG [721.0](https://www.belex.sites.be.ch/data/721.0/de)
 
 #### Art. 11
 

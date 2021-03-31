@@ -4,13 +4,12 @@ number: "902.111"
 title: "Ordonnance cantonale sur l'aide aux investissements dans les régions de montagne"
 short: OCIM
 language: fr
-version: 2016-05-01
-valid_until: 2021-03-31
-version_adopted: 2016-03-09
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2008-04-16
 in_force: 2008-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/902.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1006/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2190/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1006/pdf_file"
 
 (OCIM)
 
-du 16.04.2008 (état au 01.05.2016)
+du 16.04.2008 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -55,13 +54,13 @@ arrête:
 
 <sup>1</sup> Les coûts déterminants selon l’article 4 LCIM sont les dépenses nécessaires à la réalisation d’un projet.
 
-<sup>2</sup> L’Office de l’économie bernoise (beco) définit les coûts déterminants au cas par cas lors du traitement de la demande.
+<sup>2</sup> L’Office de l’économie (OEC) définit les coûts déterminants au cas par cas lors du traitement de la demande.
 
 #### Art. 4
 
 **Prêts destinés aux projets d’infrastructure**
 
-<sup>1</sup> Le beco définit le montant et la durée du prêt en fonction de l’importance du projet en matière de politique de développement, ainsi que des possibilités financières du ou de la bénéficiaire.
+<sup>1</sup> L'OEC définit le montant et la durée du prêt en fonction de l’importance du projet en matière de politique de développement, ainsi que des possibilités financières du ou de la bénéficiaire.
 
 <sup>2</sup> Le premier remboursement peut être repoussé de trois ans au maximum à compter de la date du versement.
 
@@ -91,7 +90,7 @@ arrête:
 
 <sup>1</sup> Pendant les cinq ans qui suivent le versement de la subvention ou pendant la durée de l’emprunt, le ou la bénéficiaire ne peut ni distribuer des bénéfices, ni augmenter les prélèvements sur le bénéfice à son propre profit.
 
-<sup>2</sup> Le beco peut exceptionnellement autoriser le ou la bénéficiaire à distribuer des bénéfices ou à augmenter les prélèvements sur le bénéfice à son propre profit.
+<sup>2</sup> L'OEC peut exceptionnellement autoriser le ou la bénéficiaire à distribuer des bénéfices ou à augmenter les prélèvements sur le bénéfice à son propre profit.
 
 <sup>3</sup> Lors d’un prêt, la condition préalable à une telle autorisation est un amortissement supplémentaire de l’emprunt, correspondant aux bénéfices distribués ou prélevés.
 
@@ -101,7 +100,7 @@ arrête:
 
 <sup>1</sup> Le management régional comprend notamment les activités prévues à l’article 5 de la loi fédérale.
 
-<sup>2</sup> Le beco conclut à cet effet des conventions de prestations avec les conférences régionales. Celles-ci règlent notamment
+<sup>2</sup> L'OEC conclut à cet effet des conventions de prestations avec les conférences régionales. Celles-ci règlent notamment
 
 - a les objectifs,
 - b les prestations à fournir par les managements régionaux,
@@ -127,11 +126,11 @@ arrête:
 
 **Dispositions transitoires**
 
-<sup>1</sup> Jusqu’à la création des conférences régionales, le beco peut conclure une convention de prestations pour le management régional avec une ou plusieurs régions d’aménagement au sens de l’article 97 de la loi du 9 juin 1985 sur les constructions[^10-1].
+<sup>1</sup> Jusqu’à la création des conférences régionales, le beco Economie bernoise peut conclure une convention de prestations pour le management régional avec une ou plusieurs régions d’aménagement au sens de l’article 97 de la loi du 9 juin 1985 sur les constructions[^10-1].
 
 <sup>2</sup> Plusieurs régions d’aménagement à l’intérieur du périmètre de la future conférence régionale assurent entre elles la coordination.
 
-[^10-1]: RSB 721.0
+[^10-1]: RSB [721.0](https://www.belex.sites.be.ch/data/721.0/fr)
 
 #### Art. 11
 
