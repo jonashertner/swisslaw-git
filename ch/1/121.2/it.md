@@ -4,11 +4,11 @@ title: "Ordinanza del 16 agosto 2017 sui sistemi d'informazione e di memorizzazi
 short: OSIME-SIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: it
-version: 2020-04-01
+version: 2021-04-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20200401/it/xml/fedlex-data-admin-ch-eli-cc-2017-496-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2017-496-20210401-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20200401/it"
 
 (OSIME-SIC)
 
-del 16 agosto 2017 (Stato 1° aprile 2020)
+del 16 agosto 2017 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -222,16 +222,17 @@ Il SIC disciplina la responsabilità e le competenze per i suoi sistemi d’info
 Per garantire la sicurezza dei dati si applicano:
 
 - a. l’articolo 20 dell’ordinanza del 14 giugno 1993[^13-1] relativa alla legge federale sulla protezione dei dati;
-- b. l’ordinanza del 9 dicembre 2011[^13-2] sull’informatica nell’Amministrazione federale;
-- c. l’ordinanza del 4 luglio 2007[^13-3] sulla protezione delle informazioni;
-- d. le Istruzioni del Consiglio federale del 1° luglio 2015[^13-4] sulla sicurezza TIC nell’Amministrazione federale.
+- b.[^13-2] l’ordinanza del 27 maggio 2020[^13-3] sui ciber-rischi;
+- c. l’ordinanza del 4 luglio 2007[^13-4] sulla protezione delle informazioni;
+- d.[^13-5] ...
 
 <sup>2</sup> Il SIC disciplina nei regolamenti per il trattamento dei dati le misure organizzative e tecniche intese a evitare il trattamento non autorizzato dei dati.
 
 [^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^13-3]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^13-4]: Le Istruzioni sono consultabili sul sito Internet dell’Organo direzione informatica della Confederazione: www.isb.admin.ch &gt; Temi &gt; Sicurezza &gt; Basi per la sicurezza &gt; Istruzioni sulla sicurezza dell’informatica nell’Amministrazione federale.
+[^13-2]: Nuovo testo giusta l’all. n. 2 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^13-4]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-5]: Abrogata dall’all. n. 2 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 

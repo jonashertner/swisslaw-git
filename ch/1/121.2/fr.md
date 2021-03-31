@@ -4,11 +4,11 @@ title: "Ordonnance du 16 août 2017 sur les systèmes d'information et les syst�
 short: OSIS-SRC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: fr
-version: 2020-04-01
+version: 2021-04-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-496-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-496-20210401-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20200401/fr"
 
 (OSIS-SRC)
 
-du 16 août 2017 (Etat le 1<sup>er</sup> avril 2020)
+du 16 août 2017 (État le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -154,7 +154,7 @@ Les collaborateurs du SRC qui attribuent les documents originaux à un système 
 
 <sup>1</sup> Le SRC veille, au moment de l’effacement, à ce que toutes les données devant être archivées aient été transférées dans un module d’archivage.
 
-<sup>2</sup> Il efface les données dans les systèmes d’information et de stockage dans un délai de 3 mois à compter de l’expiration de la durée de conservation fixée aux art. 7, al. 2, 21, al. 2, 28, 34, al. 2, 40, 45, 50, 55, 60, 65 et 70.
+<sup>2</sup> Il efface les données dans les systèmes d’information et de stockage dans un délai de 3 mois à compter de l’expiration de la durée de conservation fixée aux art. 7, al. 7, 21, al. 2, 28, 34, al. 2, 40, 45, 50, 55, 60, 65 et 70.
 
 <sup>3</sup> Il efface un objet dans IASA SRC ou IASA-EXTR SRC lorsque le dernier document source y relatif a été effacé.
 
@@ -222,16 +222,17 @@ Le SRC règle la responsabilité et les compétences en lien avec ses systèmes 
 Pour assurer la sécurité des données s’appliquent:
 
 - a. l’art. 20 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^13-1];
-- b. l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^13-2];
-- c. l’ordonnance du 4 juillet 2007 concernant la protection des informations[^13-3];
-- d. les directives du Conseil fédéral du 1<sup>er</sup> juillet 2015 sur la sécurité informatique de l’administration fédérale[^13-4].
+- b.[^13-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^13-3];
+- c. l’ordonnance du 4 juillet 2007 concernant la protection des informations[^13-4];
+- d.[^13-5] ...
 
 <sup>2</sup> Le SRC règle dans les règlements de traitement les mesures techniques et organisationnelles propres à empêcher le traitement de données par des personnes non autorisées.
 
 [^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^13-3]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^13-4]: Le texte des directives est accessible sur le site Internet de l’Unité de pilotage informatique de la Confédération www.isb.admin.ch &gt;Thèmes &gt; Sécurité &gt; Base de sécurité &gt; Directives du Conseil fédéral concernant la sécurité des TIC dans l’administration fédérale
+[^13-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^13-4]: [RS 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-5]: Abrogée par l’annexe ch. 2 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 

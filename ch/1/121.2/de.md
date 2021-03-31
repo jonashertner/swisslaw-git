@@ -4,11 +4,11 @@ title: Verordnung vom 16. August 2017 über die Informations- und Speichersystem
 short: VIS-NDB
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/496"
 language: de
-version: 2020-04-01
+version: 2021-04-01
 adopted: 2017-08-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2017-496-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/496/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2017-496-20210401-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/496/20200401/de"
 
 (VIS-NDB)
 
-vom 16. August 2017 (Stand am 1. April 2020)
+vom 16. August 2017 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -222,16 +222,17 @@ Der NDB regelt die Verantwortung und die Zuständigkeiten für seine Information
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a. Artikel 20 der Verordnung vom 14. Juni 1993[^13-1] zum Bundesgesetz über den Datenschutz;
-- b. die Bundesinformatikverordnung vom 9. Dezember 2011[^13-2];
-- c. die Informationsschutzverordnung vom 4. Juli 2007[^13-3];
-- d. die Weisungen des Bundesrates vom 1. Juli 2015[^13-4] über die IKT-Sicherheit in der Bundesverwaltung.
+- b.[^13-2] die Cyberrisikenverordnung vom 27. Mai 2020[^13-3];
+- c. die Informationsschutzverordnung vom 4. Juli 2007[^13-4];
+- d.[^13-5] …
 
 <sup>2</sup> Der NDB regelt in den Bearbeitungsreglementen die organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten der Daten.
 
 [^13-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^13-3]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
-[^13-4]: Der Text der Weisungen ist im Internet beim Informatiksteuerungsorgan des Bundes abrufbar unter www.isb.admin.ch &gt; Themen &gt; Sicherheit &gt; Sicherheitsgrundlagen &gt; Weisungen des Bundesrates über die IKT-Sicherheit in der Bundesverwaltung.
+[^13-2]: Fassung gemäss Anhang Ziff. 2 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^13-4]: [SR 510.411](https://fedlex.data.admin.ch/eli/cc/2007/414)
+[^13-5]: Aufgehoben durch Anhang Ziff. 2 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 14
 
