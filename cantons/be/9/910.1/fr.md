@@ -4,13 +4,13 @@ number: "910.1"
 title: "Loi cantonale sur l'agriculture"
 short: LCAB
 language: fr
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-06-06
+version: 2021-04-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-17
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1572/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2191/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1572/pdf_file"
 
 (LCAB)
 
-du 16.06.1997 (état au 01.01.2019)
+du 16.06.1997 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -191,7 +191,7 @@ arrête:
 
 <sup>2</sup> L'organisation faîtière des organisations bernoises de protection des animaux a qualité pour former recours contre les décisions et décisions sur recours concernant la protection des animaux.
 
-<sup>3</sup> Le Conseil-exécutif désigne le service compétent de la Direction de l'économie publique, une organisation ou une personne en tant qu’autorité au sens de l’article 104, alinéa 2 du code de procédure pénale suisse du 5 octobre 2007 (CPP)[^13-1], à laquelle est reconnue la qualité de partie, avec tous les droits, dans les procédures pénales concernant des infractions aux prescriptions relatives à la protection des animaux.
+<sup>3</sup> Le Conseil-exécutif désigne le service compétent de la Direction de l’économie, de l’énergie et de l’environnement, une organisation ou une personne en tant qu’autorité au sens de l’article 104, alinéa 2 du code de procédure pénale suisse du 5 octobre 2007 (CPP)[^13-1], à laquelle est reconnue la qualité de partie, avec tous les droits, dans les procédures pénales concernant des infractions aux prescriptions relatives à la protection des animaux.
 
 <sup>4</sup> Elle ne peut exercer les droits définis au 2e et 3e alinéa lorsqu'il est question d'expérimentation animale.
 
@@ -327,7 +327,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif est habilité à conclure avec d’autres cantons, institutions ou organisations des accords pour la vulgarisation dans le domaine de l’agriculture, et à contracter les obligations de subventionnement qui s’ensuivent.
 
-<sup>2</sup> Il peut déléguer cette compétence à la Direction de l'économie publique par voie d'ordonnance.
+<sup>2</sup> Il peut déléguer cette compétence à la Direction de l’économie, de l’énergie et de l’environnement par voie d'ordonnance.
 
 <sup>3</sup> Les compétences ordinaires en matière d'autorisation de dépenses sont réservées en ce qui concerne la participation à des projets de construction.
 
@@ -421,7 +421,7 @@ arrête:
 
 <sup>2</sup> Les aides financières sont versées aux exploitants et exploitantes, aux détenteurs et détentrices d'animaux, aux communes ou aux organes responsables de projets innovateurs et de projets d'améliorations foncières.
 
-<sup>3</sup> Elles peuvent également être allouées par contrat de droit public. En cas de différends découlant du contrat, le service compétent de la Direction de l’économie publique rend une décision susceptible de recours.
+<sup>3</sup> Elles peuvent également être allouées par contrat de droit public. En cas de différends découlant du contrat, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement rend une décision susceptible de recours.
 
 #### Art. 37
 
@@ -457,7 +457,7 @@ arrête:
 
 <sup>1</sup> En dérogation aux articles 36, 2e alinéa, et 38, 5e alinéa, les tiers au sens de l'article 45 peuvent bénéficier de prêts, à condition que les montants accordés soient destinés à l'octroi de prêts pour les améliorations structurelles et d'aides aux exploitations paysannes.
 
-<sup>2</sup> Le montant de ces prêts ne doit pas dépasser par année dix pour cent des subventions accordées par l'Office de l'agriculture et au total 60 pour cent de la moyenne des sommes budgétées les dix dernières années à compter du premier versement.
+<sup>2</sup> Le montant de ces prêts ne doit pas dépasser par année dix pour cent des subventions accordées par l'Office de l'agriculture et de la nature et au total 60 pour cent de la moyenne des sommes budgétées les dix dernières années à compter du premier versement.
 
 <sup>3</sup> Le canton prend en charge les pertes encourues sur ces prêts.
 
@@ -489,7 +489,7 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> La Direction de l'économie publique assure l'exécution de la législation de la Confédération et du canton, à moins que la législation n'attribue la compétence à d'autres unités administratives.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement assure l'exécution de la législation de la Confédération et du canton, à moins que la législation n'attribue la compétence à d'autres unités administratives.
 
 #### Art. 44
 
@@ -507,7 +507,7 @@ arrête:
 
 <sup>2</sup> Il peut confier à la Fondation bernoise de crédit agricole (CAB) la mise en œuvre des mesures d'améliorations structurelles et de la mesure d'accompagnement sociale.
 
-<sup>3</sup> La Direction de l'économie publique peut, dans le cadre de l'exécution de la législation sur l'agriculture, déléguer des tâches d'exécution à des tiers au moyen de contrats de prestation.
+<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement peut, dans le cadre de l'exécution de la législation sur l'agriculture, déléguer des tâches d'exécution à des tiers au moyen de contrats de prestation.
 
 ## 9 Voies de droit
 
@@ -521,7 +521,7 @@ arrête:
 
 **Recours**
 
-<sup>1</sup> Les décisions et décisions sur opposition fondées sur la législation agricole peuvent être contestées par voie de recours auprès de la Direction de l'économie publique.
+<sup>1</sup> Les décisions et décisions sur opposition fondées sur la législation agricole peuvent être contestées par voie de recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> L'exclusion des voies de droit au sens de l'article 48 et les compétences d'autres instances de la législation spéciale sont réservées.
 

@@ -4,13 +4,13 @@ number: "910.1"
 title: Kantonales Landwirtschaftsgesetz
 short: KLwG
 language: de
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-06-06
+version: 2021-04-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-17
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1572/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2191/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1572/pdf_file"
 
 (KLwG)
 
-vom 16.06.1997 (Stand 01.01.2019)
+vom 16.06.1997 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -191,7 +191,7 @@ beschliesst:
 
 <sup>2</sup> Die Dachorganisation der bernischen Tierschutzorganisationen ist befugt, gegen Verfügungen und Entscheide im Bereich des Tierschutzes Beschwerde zu führen.
 
-<sup>3</sup> Der Regierungsrat bezeichnet die zuständige Stelle der Volkswirtschaftsdirektion, eine Organisation oder eine Person, der in Strafverfahren betreffend Tierschutzdelikte als Behörde im Sinne von Artikel 104 Absatz 2 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO)[^13-1] volle Parteirechte zukommen.
+<sup>3</sup> Der Regierungsrat bezeichnet die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion, eine Organisation oder eine Person, der in Strafverfahren betreffend Tierschutzdelikte als Behörde im Sinne von Artikel 104 Absatz 2 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO)[^13-1] volle Parteirechte zukommen.
 
 <sup>4</sup> Die Rechte gemäss Absatz 2 und 3 stehen ihr nicht zu, soweit es um Tierversuche geht.
 
@@ -327,7 +327,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat ist befugt, für die landwirtschaftliche Beratung mit anderen Kantonen, Institutionen oder Organisationen Verträge abzuschliessen und die entsprechenden Beitragsverpflichtungen einzugehen.
 
-<sup>2</sup> Er kann diese Zuständigkeit durch Verordnung der Volkswirtschaftsdirektion übertragen.
+<sup>2</sup> Er kann diese Zuständigkeit durch Verordnung der Wirtschafts-, Energie- und Umweltdirektion übertragen.
 
 <sup>3</sup> Für die Beteiligung an Bauten bleiben die ordentlichen Finanzbefugnisse vorbehalten.
 
@@ -419,9 +419,9 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann in allen Bereichen, die dieses Gesetz als förderungs- oder unterstützungswürdig bezeichnet oder in denen es den Kanton berechtigt oder verpflichtet, Massnahmen zu treffen, Finanzhilfen leisten.
 
-<sup>2</sup> Die Finanzhilfen werden Bewirtschafterinnen oder Bewirtschaftern, Tierhalterinnen oder Tierhaltern, Trägerinnen und Trägern innovativer Projekte sowie von Bodenverbesserungen und Gemeinden ausgerichtet.
+<sup>2</sup> Die Finanzhilfen werden Bewirtschafterinnen und Bewirtschaftern, Tierhalterinnen und Tierhaltern, Trägerinnen und Trägern innovativer Projekte sowie von Bodenverbesserungen und Gemeinden ausgerichtet.
 
-<sup>3</sup> Sie können auch durch öffentlich-rechtlichen Vertrag zugesprochen werden. Bei Streitigkeiten aus dem Vertrag erlässt die zuständige Stelle der Volkswirtschaftsdirektion eine anfechtbare Verfügung.
+<sup>3</sup> Sie können auch durch öffentlich-rechtlichen Vertrag zugesprochen werden. Bei Streitigkeiten aus dem Vertrag erlässt die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion eine anfechtbare Verfügung.
 
 #### Art. 37
 
@@ -457,7 +457,7 @@ beschliesst:
 
 <sup>1</sup> In Abweichung von Artikel 36 Absatz 2 und Artikel 38 Absatz 5 dürfen Dritten gemäss Artikel 45 Darlehen gewährt werden, falls diese ausschliesslich für die Gewährung von Darlehen für Strukturverbesserungen und Betriebshilfen weiterverwendet werden.
 
-<sup>2</sup> Die Höhe dieser Darlehen darf jährlich nicht mehr als zehn Prozent der Staatsbeiträge des Amtes für Landwirtschaft und gesamthaft nicht mehr als 60 Prozent des durchschnittlichen Voranschlages der letzten zehn Jahre ab erstmaliger Zahlung betragen.
+<sup>2</sup> Die Höhe dieser Darlehen darf jährlich nicht mehr als zehn Prozent der Staatsbeiträge des Amtes für Landwirtschaft und Natur und gesamthaft nicht mehr als 60 Prozent des durchschnittlichen Voranschlages der letzten zehn Jahre ab erstmaliger Zahlung betragen.
 
 <sup>3</sup> Der Kanton trägt einen allfälligen Verlust aus diesen Darlehen.
 
@@ -489,7 +489,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion vollzieht die Gesetzgebung von Bund und Kanton, soweit die Gesetzgebung nicht andere Organisationseinheiten als zuständig erklärt.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion vollzieht die Gesetzgebung von Bund und Kanton, soweit die Gesetzgebung nicht andere Organisationseinheiten als zuständig erklärt.
 
 #### Art. 44
 
@@ -507,7 +507,7 @@ beschliesst:
 
 <sup>2</sup> Er kann der Bernischen Stiftung für Agrarkredite (BAK) den Vollzug der Strukturverbesserungsmassnahmen sowie der sozialen Begleitmassnahme übertragen.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion kann im Rahmen des Vollzugs der Landwirtschaftsgesetzgebung mittels Leistungsvereinbarungen geeignete Dritte beiziehen.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann im Rahmen des Vollzugs der Landwirtschaftsgesetzgebung mittels Leistungsvereinbarungen geeignete Dritte beiziehen.
 
 ## 9 Rechtspflege
 
@@ -521,11 +521,11 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Verfügungen und Einspracheentscheide, die sich auf die Landwirtschaftsgesetzgebung stützen, unterliegen der Beschwerde an die Volkswirtschaftsdirektion.
+<sup>1</sup> Verfügungen und Einspracheentscheide, die sich auf die Landwirtschaftsgesetzgebung stützen, unterliegen der Beschwerde an die Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Vorbehalten bleiben der Ausschluss des Rechtsmittelwegs gemäss Artikel 48 sowie die Zuständigkeiten anderer Instanzen nach der besonderen Gesetzgebung.
 
-<sup>3</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^47-1]).
+<sup>3</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^47-1].
 
 [^47-1]: BSG 155.21
 
