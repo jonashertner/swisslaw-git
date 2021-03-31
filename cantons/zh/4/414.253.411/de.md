@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.411"
 title: "Studienordnung für die Bachelorstudiengänge Kommunikation und Medien, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2019-10-01"
-nachtrag: "106"
-valid_until: 2021-04-01
+version: "2021-04-01"
+nachtrag: "112"
+valid_until: 2023-01-01
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_411-2009_06_04-2009_08_01-106.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_411-2009_06_04-2009_08_01-112.html"
 text: pdf
 ---
 
@@ -49,11 +49,11 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 <sup>2</sup> Die Studiengänge Angewandte Sprachen und Kommunikation können in den folgenden Vertiefungen durchgeführt werden:
 
-- a. Angewandte Sprachen:
+a.[^2-2] Angewandte Sprachen:
 
 - Mehrsprachige Kommunikation,
 
-- Technikkommunikation,
+- Fachkommunikation und Informationsdesign,
 
 - Multimodale Kommunikation,
 
@@ -63,18 +63,19 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 - Organisationskommunikation.
 
-§§ 4 und 5.[^2-2]
+§§ 4 und 5.[^2-3]
 
 **1**
 
-- 1\. 10. 19 - 106 § 6. <sup>1</sup> Die Bachelorstudiengänge des Departements Angewandte Linguistik werden als Vollzeitstudium geführt. Sie können auch im Teilzeitstudium besucht werden.
+- 1\. 4. 21 - 112 § 6. <sup>1</sup> Die Bachelorstudiengänge des Departements Angewandte Linguistik werden als Vollzeitstudium geführt. Sie können auch im Teilzeitstudium besucht werden.
 
 **Studienform**
 
 <sup>2</sup> Ein Wechsel vom Vollzeitstudium ins Teilzeitstudium und umgekehrt ist jeweils auf Studienjahresbeginn möglich. Über Ausnahmen entscheidet die Studiengangleitung.
 
 [^2-1]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
-[^2-2]: Aufgehoben durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019. 1. 10. 19 - 106 5
+[^2-2]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+[^2-3]: Aufgehoben durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
 
 #### § 7
 
@@ -100,43 +101,36 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 <sup>3</sup> Die Einzelheiten werden im Anhang geregelt.
 
-[^8-1]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
+§ 9.[^8-1]
 
-#### § 9
+[^8-1]: Aufgehoben durch B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021. 1. 4. 21 - 112 5
+[^8-2]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
-**Aufnahmeprüfung**
+### C. Aufbau des Studiums
 
-<sup>1</sup> Nicht prüfungsfrei zum Bachelorstudium zugelassene Studienanwärterinnen und Studienanwärter müssen eine Aufnahmeprüfung ablegen.[^8-1]
+[^8-2]
 
-<sup>2</sup> Die Einzelheiten werden im Anhang geregelt.
+**Gliederung**
 
-### C. Assessmentstufe
+§ 10.[^hCAufbaudesStudiu-1] Die Studiengänge sind in eine Assessmentstufe und ein Hauptstudium gegliedert. Die Details zum Umfang der Assessmentstufe und des Hauptstudiums sind im Anhang zur Studienordnung geregelt.
 
-#### § 10
+**Bestehen Assessmentstufe**
 
-**Umfang**
+§ 11.[^hCAufbaudesStudiu-1] Die Assessmentstufe ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen der Assessmentstufe bestanden sind,
 
-Die Assessmentstufe umfasst 60 Credits. Die Leistungen in der Assessmentstufe werden in einem Zeugnis ausgewiesen.
+- b. die im Anhang vorgeschriebene Anzahl ECTS-Credits erreicht sind.
 
-#### § 11
+**Bestehen Hauptstudium**
 
-**Abschluss**
+§ 12.[^hCAufbaudesStudiu-1] Das Hauptstudium ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen des Hauptstudiums bestanden sind,
 
-Die Assessmentstufe ist bestanden, wenn a. die im Anhang vorgeschriebenen Module beziehungsweise Modulgruppen der Assessmentstufe bestanden sind,
+- b. die im Anhang vorgeschriebene Anzahl ECTS-Credits erreicht sind.
 
-- b. 60 Credits erreicht sind.
+[^hCAufbaudesStudiu-1]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
-### D. Hauptstudium
+### D. Prüfungen und andere Leistungsnachweise
 
-#### § 12
-
-**Abschluss**
-
-Das Hauptstudium ist bestanden, wenn a. die im Anhang vorgeschriebenen Module beziehungsweise Modulgruppen des Hauptstudiums bestanden sind,
-
-- b. 120 Credits erreicht sind.
-
-### E. Prüfungen und andere Leistungsnachweise
+[^hCAufbaudesStudiu-1]
 
 #### § 13
 
@@ -152,21 +146,26 @@ Das Hauptstudium ist bestanden, wenn a. die im Anhang vorgeschriebenen Module be
 
 <sup>1</sup> Bachelorarbeiten werden von einem oder einer Dozierenden abgenommen. Es können Expertinnen oder Experten beigezogen werden. Über den Beizug entscheidet die Studiengangleitung.
 
-<sup>2</sup> Als Expertinnen und Experten werden studiengangunabhängige Fachleute eingesetzt. Die Benotung erfolgt einvernehmlich mit den prüfenden Dozierenden. Kommt keine Einigung zustande, steht der Stichentscheid der oder dem prüfenden Dozierenden zu.
+<sup>2</sup> Die Benotung erfolgt einvernehmlich mit den prüfenden Dozierenden. Kommt keine Einigung zustande, steht der Stichentscheid der oder dem prüfenden Dozierenden zu.[^14-1]
 
 **Wiederholung**
 
-§ 15.[^14-1] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
+§ 15.[^14-2] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
 
-[^14-1]: Fassung gemäss B vom 20. März 2014 (OS 69, 285; ABl 2014-04-25). In Kraft seit 1. August 2014.
+[^14-1]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+[^14-2]: Fassung gemäss B vom 20. März 2014 (OS 69, 285; ABl 2014-04-25). In Kraft seit 1. August 2014.
 
-### F. Studienabschluss und Bachelordiplom
+### E. Studienabschluss und Bachelordiplom
+
+[^14-1]
+
+[^hE141Studienabs-1]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
 #### § 16
 
 **Bestehensvoraussetzungen**
 
-Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudium bestanden sind und b. mindestens 60 Credits im Hauptstudium im gewählten Studiengang des Departements Angewandte Linguistik der ZHAW erreicht wurden.
+Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudium bestanden sind und b.[^hE141Studienabs-1] 180 ECTS-Credits erreicht sind.
 
 [^16-1]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
 
@@ -178,11 +177,9 @@ Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudiu
 
 <sup>2</sup> Die Modulnoten werden nach Credits gewichtet.
 
-**3**
-
-- 1\. 10. 19 - 106 § 17 a.[^17-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
-
 **Überzählige Credits aus Wahlpflichtmodulen**
+
+§ 17 a.[^17-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 <sup>2</sup> Die Studiengangleitung regelt,
 
@@ -198,12 +195,19 @@ Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudiu
 
 - a. Bachelor of Arts ZFH in Angewandten Sprachen mit Vertiefung in [gewählte Vertiefungsrichtung],
 
-- b. Bachelor of Arts ZFH in Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung], c.[^17-1] Bachelor of Arts ZFH in Sprachlicher Integration – Deutsch als Fremd- und Zweitsprache.
+- b. Bachelor of Arts ZFH in Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
+
+**3**
+
+- 1\. 4. 21 - 112 c.[^17-1] Bachelor of Arts ZFH in Sprachlicher Integration – Deutsch als Fremd- und Zweitsprache.
 
 [^17-1]: Eingefügt durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
 [^17-2]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 13; ABl 2014-12-19). In Kraft seit 1. April 2015.
+[^17-3]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
-### G. Schlussbestimmung
+### F. Schlussbestimmung
+
+[^17-3]
 
 #### § 19
 
@@ -213,7 +217,11 @@ Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudiu
 
 <sup>2</sup> Sie ersetzt für die Bachelorstudiengänge Übersetzen und Kommunikation die Studien- und Prüfungsordnung der Zürcher Hochschule Winterthur vom 8. Juni 2006.
 
-### H. Übergangsbestimmungen
+[^19-1]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+
+### G. Übergangsbestimmungen
+
+[^19-1]
 
 #### § 20
 
@@ -242,11 +250,26 @@ Studierende, die ihr Bachelorstudium vor dem Herbstsemester 2009/2010 aufgenomme
 <sup>3</sup> Die Studiengangleitung regelt die Anrechnung bereits erbrachter Leistungen.
 
 [^22-1]: Fassung gemäss B vom 26. August 2010 (OS 65, 699; ABl 2010, 2118). In Kraft seit 1. Januar 2011.
-[^22-2]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
+[^22-2]: Eingefügt durch B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+
+### H. Übergangsbestimmungen zur Änderung vom 24. September 2020
+
+[^22-2]
+
+**Studiengang Angewandte Sprachen**
+
+§ 23.[^hHÜbergangsbestimmu-1] Studierende, die vor dem Herbstsemester 2021/2022 mit dem Hauptstudium begonnen haben, schliessen mit den Vertiefungstiteln gemäss der vor der Änderung vom 24. September 2020 geltenden Regelung ab. Im Übrigen unterstehen sie der Studienordnung gemäss der nach der Änderung vom 24. September 2020 geltenden Regelung.
+
+**Studiengänge Kommunikation und Sprachliche Integration**
+
+§ 24.[^hHÜbergangsbestimmu-1] Studierende, die ihr Studium vor dem Herbstsemester 2021/ 2022 begonnen haben, werden der Studienordnung gemäss der nach der Änderung vom 24. September 2020 geltenden Regelung unterstellt.
+
+[^hHÜbergangsbestimmu-1]: Eingefügt durch B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+[^hHÜbergangsbestimmu-2]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
 
 ### Anhang zur Studienordnung für die Bachelorstudiengänge Angewandte Sprachen, Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
 
-[^22-2]
+[^hHÜbergangsbestimmu-2]
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge Angewandte Sprachen, Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
