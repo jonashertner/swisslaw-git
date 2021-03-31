@@ -4,11 +4,11 @@ title: Ordonnance sur les explosifs du 27 novembre 2000 (OExpl)
 short: OExpl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: fr
-version: 2021-02-01
+version: 2021-04-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/fr"
 
 (Ordonnance sur les explosifs, OExpl)
 
-du 27 novembre 2000 (Etat le 1<sup>er</sup> février 2021)
+du 27 novembre 2000 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -1053,7 +1053,7 @@ Elles règlent en particulier les points suivants:
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
-### Section 4 Comités d’experts****
+### Section 4 Comités d’experts
 
 [^tit3-chap5-sec4-1]
 
@@ -1911,14 +1911,18 @@ Les données du fichier sont proposées aux Archives fédérales suisses conform
 
 **Sécurité des données**
 
-<sup>1</sup> La sécurité des données est garantie conformément à l’art. 7 de la loi fédérale du 19 juin 1992 sur la protection des données[^117j-1], à l’ordonnance du 27 mai 2020 sur les cyberrisques[^117j-2] et aux directives du Conseil fédéral du 16 janvier 2019 concernant la sécurité informatique dans l’administration fédérale[^117j-3].[^117j-4]
+<sup>1</sup>
+
+La sécurité des données est garantie conformément à:
+
+- a. l’art. 7 de la loi fédérale du 19 juin 1992 sur la protection des données[^117j-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^117j-2].[^117j-3]
 
 <sup>2</sup> L’OCEP prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
 
 [^117j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^117j-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^117j-3]: [FF 2019 1283](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^117j-4]: Nouvelle teneur selon l’annexe ch. 20 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^117j-3]: Nouvelle teneur selon l’annexe ch. 37 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 117k
 
@@ -2202,7 +2206,7 @@ S = Entrepôt ou magasin de matières explosives
 
 h = Hauteur du remblai au moins égale à celle de l’entrepôt ou du magasin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image1.png)
 
 Annexe 6
 
@@ -2210,7 +2214,7 @@ Annexe 6
 
 ## Entrepôt au magasin souterrain de matières explosives dans une roche sèche et solide
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image2.png)
 
 <table>
 <tr><td>Quantité d’explosif en kg et par caverne</td><td colspan="2">L = longueur de l’accès en m</td><td>Recouvrement</td></tr>
@@ -2235,7 +2239,7 @@ Annexe 7
 
 ## Distances minimales entre les entrepôts ou magasins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image3.png)
 
 rK=0,7·L<sup>(1/3)</sup>
 
@@ -2247,7 +2251,7 @@ Annexe 8.1[^t-4]
 
 [^t-4]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image4.png)
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
 - Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2265,7 +2269,7 @@ Capot de protection: tôle d’acier 5 mm: perforée Ø 10 mm
 
 Grille de protection: fil d’acier Ø 2 mm: largeur des mailles 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image5.png)
 
 Annexe 9.1
 
@@ -2273,7 +2277,7 @@ Annexe 9.1
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image6.png)
 
 Annexe 9.2
 
@@ -2281,9 +2285,9 @@ Annexe 9.2
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image8.png)
 
 Annexe 10.1[^t-5]
 
@@ -2293,7 +2297,7 @@ Annexe 10.1[^t-5]
 
 [^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image9.png)
 
 A = moyens d’allumage
 
@@ -2316,7 +2320,7 @@ Annexe 10.2[^t-6]
 [^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 <table>
-<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
+<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
 </table>
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2331,7 +2335,7 @@ Annexe 11.1
 
 ## Récipient à matières explosives
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image12.png)
 
 Légende:
 
@@ -2347,7 +2351,7 @@ Annexe 11.2
 
 ## Récipient mobile
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image13.png)
 
 Légende:
 
@@ -2400,7 +2404,7 @@ Les dispositions de la présente annexe ne s’appliquent pas:
 - a. une partie lisible à l’œil nu contenant le nom du fabricant et un code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation, trois chiffres identifiant le nom du site de production (attribué par l’OCEP), le code produit unique et les informations logistiques conçues par le fabricant;
 - b. un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique selon l’exemple ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/fr/xml/image/image14.png)
 
 <sup>5</sup> Lorsqu’il n’est pas possible d’apposer l’identification unique complète décrite à l’al. 4 sur un article car celui-ci est trop petit, le code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et trois chiffres identifiant le nom du site de production (attribué par l’OCEP), ainsi qu’un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique, suffisent.
 

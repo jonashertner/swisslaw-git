@@ -4,11 +4,11 @@ title: Sprengstoffverordnung vom 27. November 2000 (SprstV)
 short: SprstV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: de
-version: 2021-02-01
+version: 2021-04-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/de"
 
 (Sprengstoffverordnung, SprstV)
 
-vom 27. November 2000 (Stand am 1. Februar 2021)
+vom 27. November 2000 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -505,7 +505,7 @@ Auf der kleinsten für den Verkauf bestimmten Verpackungseinheit (Einzel- oder S
 
 ## 3. Titel: Berechtigung zum Verkehr
 
-### 1. Kapitel: Herstellung und Einfuhr****
+### 1. Kapitel: Herstellung und Einfuhr
 
 [^tit3-chap1-1]
 
@@ -777,7 +777,7 @@ Die Angaben in den Gesuchen unterliegen dem Amtsgeheimnis.
 
 <sup>3</sup> Sie können sukzessive bezogen werden.
 
-### 5. Kapitel: Ausweis****
+### 5. Kapitel: Ausweis
 
 [^tit3-chap5-1]
 
@@ -1046,7 +1046,7 @@ Sie regeln darin insbesondere:
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
-### 4. Abschnitt: Fachausschüsse****
+### 4. Abschnitt: Fachausschüsse
 
 [^tit3-chap5-sec4-1]
 
@@ -1405,7 +1405,7 @@ Auf Bau- und andern Verwendungsstellen dürfen die Vorräte einen Monatsbedarf n
 
 Inhaber von Handelsbetrieben und Geschäften haben für das Lagern, den Versand und Verkauf pyrotechnischer Gegenstände verantwortliche Aufsichtspersonen zu bezeichnen, die im Umgang mit explosionsgefährlichen Stoffen Erfahrung haben, die gesetzlichen Vorschriften kennen und im Falle einer Explosion oder eines Brandes die notwendigen Sicherheitsvorkehrungen treffen können.
 
-## 7. Titel: Transport von Sprengmitteln****
+## 7. Titel: Transport von Sprengmitteln
 
 [^tit7-1]
 
@@ -1650,7 +1650,7 @@ Die Sprengleiterin oder der Sprengleiter hat folgende Sprengsignale zu geben:
 
 Sprengmittel und pyrotechnische Gegenstände, die nicht nach Artikel 108 vernichtet werden dürfen, sind von der Inhaberin oder vom Inhaber umweltverträglich zu entsorgen oder zur Entsorgung dem Hersteller zurückzugeben.
 
-## 9. Titel: Buchführung, Überwachung, Gebühren und wissenschaftlich-technische Zusammenarbeit****
+## 9. Titel: Buchführung, Überwachung, Gebühren und wissenschaftlich-technische Zusammenarbeit
 
 [^tit9-1]
 
@@ -1782,7 +1782,7 @@ Zu den Gebühren werden Auslagen hinzugeschlagen, die als Kosten zusätzlich anf
 - b. Reise- und Transportkosten;
 - c. Kosten für Arbeiten, welche die zuständige Behörde durch Dritte erstellen lässt.
 
-### 4. Kapitel: Wissenschaftlich-technische Zusammenarbeit****
+### 4. Kapitel: Wissenschaftlich-technische Zusammenarbeit
 
 [^tit9-chap4-1]
 
@@ -1796,7 +1796,7 @@ Die ZSP kann mit wissenschaftlich-technisch tätigen Stellen zusammenarbeiten, i
 
 [^117-1]: Fassung gemäss Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
-## 9*a*. Titel:**** Datenbank BARBARA
+## 9*a*. Titel: Datenbank BARBARA
 
 [^tit9a-1]
 
@@ -1908,14 +1908,18 @@ Das Anbieten der Daten an das Bundesarchiv richtet sich nach Artikel 21 des Bund
 
 **Datensicherheit**
 
-<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten Artikel 7 des Bundesgesetzes vom 19. Juni 1992[^117j-1] über den Datenschutz, die Cyberrisikenverordnung vom 27. Mai 2020[^117j-2] sowie die Weisungen des Bundesrates vom 16. Januar 2019[^117j-3] über die IKT-Sicherheit in der Bundesverwaltung.[^117j-4]
+<sup>1</sup>
+
+Für die Gewährleistung der Datensicherheit gelten:
+
+- a. Artikel 7 des Bundesgesetzes vom 19. Juni 1992[^117j-1] über den Datenschutz;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^117j-2].[^117j-3]
 
 <sup>2</sup> Die ZSP trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
 
 [^117j-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^117j-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^117j-3]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^117j-4]: Fassung gemäss Anhang Ziff. 20 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^117j-3]: Fassung gemäss Anhang Ziff. 37 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 117k
 
@@ -2028,7 +2032,7 @@ Die Sprengstoffverordnung vom 26. März 1980[^120-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Februar 2001 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 6 und 7)
 
@@ -2080,7 +2084,7 @@ Anmerkung
 
 Als Anzündmittel gelten insbesondere: Anzündlitzen, Stoppinen, Anzündschnüre für pyrotechnische Zwecke, elektrische und mechanische Anzünder. Sie sind jedoch keine pyrotechnischen Gegenstände im Sinne des SprstG.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 26 Abs. 2)
 
@@ -2121,7 +2125,7 @@ Anhang 3
 
 2.3 müssen durch einen Zündimpuls von 2500 mWs/Ohm ausgelöst werden. (Entladung eines auf 190 V aufgeladenen Kondensators von 270 µF, Metallpapier oder gleichwertig, über den zu prüfenden Zünder und einen Vorwiderstand von zusammen 2,0 Ohm).
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 45 Abs. 1 und 47 Abs. 2)
 
@@ -2194,7 +2198,7 @@ Legende:
 - S = Sprengmittellager oder -magazin
 - h = Wallhöhe, mindestens Höhe Sprengmittellager oder -magazin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image1.png)
 
 Anhang 6
 
@@ -2202,7 +2206,7 @@ Anhang 6
 
 ## Unterirdisches Sprengmittellager oder -magazin in trockenem und standfestem Fels
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image2.png)
 
 (Tabelle siehe folgende Seite)
 
@@ -2229,11 +2233,11 @@ Anhang 7
 
 ## Mindestabstände zwischen Lager- oder Magazingebäuden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image3.png)
 
 rK = 0,7·L<sup>(1/3)</sup>
 
-Anhang 8.1*[^t-4]*
+Anhang 8.1[^t-4]
 
 (Art. 75 Abs. 4)
 
@@ -2241,7 +2245,7 @@ Anhang 8.1*[^t-4]*
 
 [^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image4.png)
 
 Decke und Aussenwände, Boden und Armierung
 
@@ -2261,7 +2265,7 @@ Schutzkappe: Stahlblech 5 mm: gelocht X 10 mm
 
 Schutzgitter: Stahldraht X 2 mm: Maschenweite 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image5.png)
 
 Anhang 9.1
 
@@ -2269,7 +2273,7 @@ Anhang 9.1
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image6.png)
 
 Anhang 9.2
 
@@ -2277,11 +2281,11 @@ Anhang 9.2
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image8.png)
 
-Anhang 10.1*[^t-5]*
+Anhang 10.1[^t-5]
 
 (Art. 83 Abs. 1)
 
@@ -2289,7 +2293,7 @@ Anhang 10.1*[^t-5]*
 
 [^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image9.png)
 
 A = Zündmittel
 
@@ -2305,7 +2309,7 @@ Maschenweite höchstens 10 cm (auch Netz)
 
 Über Tag mit Erdmaterial überdeckt oder in festem Fels.
 
-Anhang 10.2*[^t-6]*
+Anhang 10.2[^t-6]
 
 (Art. 83 Abs. 2)
 
@@ -2331,7 +2335,7 @@ Anhang 11.1
 
 ## Sprengmittelbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image13.png)
 
 Legende:
 
@@ -2347,7 +2351,7 @@ Anhang 11.2
 
 ## Transportbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image14.png)
 
 Legende:
 
@@ -2369,7 +2373,7 @@ Anhänge 12.1–13[^t-7]
 
 [^t-7]: Aufgehoben durch Ziff. II Abs. 2 der V vom 25. Nov. 2015, mit Wirkung seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-Anhang 14*[^t-8]*
+Anhang 14[^t-8]
 
 (Art. 8 Abs. 1 Bst. a<sup>bis</sup>, 20 Abs. 3, 21 Abs. 1, 23 Abs. 4 sowie 110 Abs. 2 Bst. c und 2<sup>bis</sup>)
 
@@ -2400,7 +2404,7 @@ Die Bestimmungen dieses Anhangs gelten nicht für:
 - a. einen von blossem Auge lesbaren Teil mit dem Namen des Herstellers und einem alphanumerischen Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland, 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt), einem eindeutigen Produktecode und logistischen Informationen des Herstellers;
 - b. eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht nach dem folgenden Beispiel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/de/xml/image/image15.png)
 
 <sup>5</sup> Sind die Artikel zu klein für eine vollständige eindeutige Kennzeichnung nach Absatz 4, so genügen der alphanumerische Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt) sowie eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht.
 
@@ -2490,7 +2494,7 @@ Die Unternehmen können aufklebbare und wieder ablösbare Kopien der Originaleti
 
 <sup>7</sup> Sie teilen den verantwortlichen Bundesbehörden die Kontaktdaten einer Person mit, die die Auskünfte nach Absatz 6 ausserhalb der normalen Geschäftszeiten erteilen kann.
 
-Anhang 15*[^t-9]*
+Anhang 15[^t-9]
 
 (Art. 1*a* Abs. 2)
 
@@ -2568,7 +2572,7 @@ Für die korrekte Auslegung der Ausdrücke, die in den Richtlinien 2014/28/EU[^a
 <tr><td>produzione «in loco»</td><td>produzione in caricatori sul luogo d’utilizzazione</td></tr>
 </table>
 
-Anhang 16*[^t-10]*
+Anhang 16[^t-10]
 
 (Art. 119*a* Abs. 5)
 
@@ -2594,7 +2598,7 @@ Pyrotechnische Gegenstände werden zugelassen, wenn sie:
 
 Für die Zulassung ist eine Gebühr von 50–3000 Franken zu entrichten.
 
-Anhang 17*[^t-11]*
+Anhang 17[^t-11]
 
 (Art. 117*e*)
 

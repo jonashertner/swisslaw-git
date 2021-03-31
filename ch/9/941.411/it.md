@@ -4,11 +4,11 @@ title: Ordinanza del 27 novembre 2000 sugli esplosivi (OEspl)
 short: OEspl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: it
-version: 2021-02-01
+version: 2021-04-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/it"
 
 (OEspl)
 
-del 27 novembre 2000 (Stato 1° febbraio 2021)
+del 27 novembre 2000 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1912,14 +1912,18 @@ L’offerta di dati all’Archivio federale è retta dall’articolo 21 della le
 
 **Sicurezza dei dati**
 
-<sup>1</sup> La sicurezza dei dati è retta dall’articolo 7 della legge federale del 19 giugno 1992[^117j-1] sulla protezione dei dati, dall’ordinanza del 27 maggio 2020[^117j-2] sui ciber-rischi e dalle istruzioni del Consiglio federale del 16 gennaio 2019[^117j-3] sulla sicurezza TIC nell’Amministrazione federale.[^117j-4]
+<sup>1</sup>
+
+La sicurezza dei dati è retta:
+
+- a. dall’articolo 7 della legge federale del 19 giugno 1992[^117j-1] sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^117j-2] sui ciber-rischi.[^117j-3]
 
 <sup>2</sup> L’UCEP adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
 
 [^117j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^117j-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^117j-3]: [FF 2019 1173](https://fedlex.data.admin.ch/eli/fga/2019/278)
-[^117j-4]: Nuovo testo giusta l’all. n. 20 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^117j-3]: Nuovo testo giusta l’all. n. 37 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 117k
 
@@ -2207,7 +2211,7 @@ S = Deposito o magazzino di esplosivi
 
 h = Altezza del terrapieno, almeno pari all’altezza del deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image1.png)
 
 Allegato 6
 
@@ -2215,7 +2219,7 @@ Allegato 6
 
 ## Deposito o magazzino di esplosivi sotterraneo in roccia asciutta e compatta
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image2.png)
 
 <table>
 <tr><td>Quantità di materie esplosive in kg e per caverna Quantità depositata (M)</td><td colspan="2">L = Lunghezza dell’accesso in m</td><td>Copertura R in m</td></tr>
@@ -2241,7 +2245,7 @@ Allegato 7
 
 ## Distanze minime fra gli edifici adibiti a deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image3.png)
 
 L = Quantità depositata in chilogrammi
 
@@ -2257,7 +2261,7 @@ Allegato 8.1[^t-4]
 
 [^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image4.png)
 
 - Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
 - Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
@@ -2277,7 +2281,7 @@ Lastra di protezione: lamiera d’acciaio 5 mm: perforata Ø 10 mm
 
 Griglia di protezione: filo d’acciaio Ø 2 mm: larghezza di maglia 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image5.png)
 
 Allegato 9.1
 
@@ -2285,7 +2289,7 @@ Allegato 9.1
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image6.png)
 
 Allegato 9.2
 
@@ -2293,9 +2297,9 @@ Allegato 9.2
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image8.png)
 
 Allegato 10.1[^t-5]
 
@@ -2305,7 +2309,7 @@ Allegato 10.1[^t-5]
 
 [^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image9.png)
 
 A = mezzi d’innesco
 
@@ -2343,7 +2347,7 @@ Allegato 11.1
 
 ## Contenitori per esplosivi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image12.png)
 
 Legenda:
 
@@ -2359,7 +2363,7 @@ Allegato 11.2
 
 ## Contenitori per il trasporto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image13.png)
 
 Legenda:
 
@@ -2412,7 +2416,7 @@ Le disposizioni del presente allegato non si applicano:
 - a. una parte leggibile a occhio nudo contenente il nome del fabbricante, un codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione, di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP), del codice univoco del prodotto e delle informazioni logistiche indicate dal fabbricante;
 - b. un numero d’identificazione a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico secondo l’esempio qui riportato:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210401/it/xml/image/image14.png)
 
 <sup>5</sup> Qualora le dimensioni troppo ridotte degli articoli non consentano di contrassegnarli con l’identificazione univoca completa ai sensi del capoverso 4, sono sufficienti il codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP) nonché un identificativo a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico.
 
