@@ -4,11 +4,11 @@ title: "Ordonnance du 28 avril 2004 sur l'état civil (OEC)"
 short: OEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: fr
-version: 2020-01-01
+version: 2021-04-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20200101/fr"
 
 (OEC)
 
-du 28 avril 2004 (Etat le 1<sup>er</sup> janvier 2020)
+du 28 avril 2004 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -2183,9 +2183,9 @@ Les données sont saisies selon le jeu de caractères ISO 8859-15[^80-2].
 
 <sup>1</sup> Les autorités de surveillance et l’OFEC veillent au respect de la protection et de la sécurité des données, dans le cadre de leurs activités de surveillance et d’inspection (art. 84 et 85). Elles pourvoient à ce que les carences en matière de protection et de sécurité des données soient éliminées dans les meilleurs délais.
 
-<sup>2</sup> L’OFEC peut se faire conseiller par le Préposé fédéral à la protection des données et à la transparence[^83-1] et par l’unité de stratégie informatique de la Confédération.
+<sup>2</sup> L’OFEC peut se faire conseiller par le Préposé fédéral à la protection des données et à la transparence et par le Centre national pour la cybersécurité.[^83-1]
 
-[^83-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^83-1]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Chapitre 10 Surveillance et compétences des autorités fédérales****
 
@@ -2576,7 +2576,7 @@ Annexe*[^t-1]*
 
 ## Droits d’accès
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 juin 2006 (**2006** 2923). Mise à jour selon le ch. II de l’O du 7 nov. 2012 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)) et l’erratum du 10 sept. 2013 ([RO 2013 3021](https://fedlex.data.admin.ch/eli/oc/2013/587)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 juin 2006 (**2006** 2923). Mise à jour par le ch. II de l’O du 7 nov. 2012 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)) et l’erratum du 10 sept. 2013 ([RO 2013 3021](https://fedlex.data.admin.ch/eli/oc/2013/587)).
 
 Abréviations
 

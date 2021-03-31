@@ -4,11 +4,11 @@ title: Zivilstandsverordnung vom 28. April 2004 (ZStV)
 short: ZStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: de
-version: 2020-01-01
+version: 2021-04-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20200101/de"
 
 (ZStV)
 
-vom 28. April 2004 (Stand am 1. Januar 2020)
+vom 28. April 2004 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -2180,9 +2180,9 @@ Die Daten werden nach dem hinterlegten Standardzeichensatz erfasst (ISO-Norm 885
 
 <sup>1</sup> Die Aufsichtsbehörden und das EAZW überwachen die Einhaltung des Datenschutzes und die Gewährleistung der Datensicherheit im Rahmen ihrer Aufsichts- und Inspektionstätigkeit (Art. 84 und 85). Sie sorgen dafür, dass Mängel beim Datenschutz und bei der Datensicherheit so rasch als möglich behoben werden.
 
-<sup>2</sup> Das EAZW zieht den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^83-1] sowie dasInformatikstrategieorgan des Bundes bei.
+<sup>2</sup> Das EAZW zieht den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten sowie das Nationale Zentrum für Cybersicherheit bei.[^83-1]
 
-[^83-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^83-1]: Fassung gemäss Anhang Ziff. 9 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 10. Kapitel: Aufsicht und Zuständigkeiten der Bundesbehörden****
 

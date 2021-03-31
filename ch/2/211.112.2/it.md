@@ -4,11 +4,11 @@ title: Ordinanza del 28 aprile 2004 sullo stato civile (OSC)
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: it
-version: 2020-01-01
+version: 2021-04-01
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20200101/it"
 
 (OSC)
 
-del 28 aprile 2004 (Stato 1° gennaio 2020)
+del 28 aprile 2004 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -2182,9 +2182,9 @@ I dati sono registrati con il set di caratteri ISO 8859-15[^80-2].
 
 <sup>1</sup> Il controllo del rispetto delle prescrizioni sulla protezione dei dati e della garanzia della sicurezza dei dati compete alle autorità di vigilanza e all’UFSC nell’ambito della loro attività di vigilanza e ispezione (art. 84 e 85). Essi provvedono affinché le lacune nella protezione e nella sicurezza dei dati siano eliminate il più rapidamente possibile.
 
-<sup>2</sup> L’UFSC consulta l’Incaricato federale della protezione dei dati e della trasparenza[^83-1] nonché l’Organo strategia informatica della Confederazione.
+<sup>2</sup> L’UFSC consulta l’Incaricato federale della protezione dei dati e della trasparenza così come il Centro nazionale per la cibersicurezza.[^83-1]
 
-[^83-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^83-1]: Nuovo testo giusta l’all. n. 9 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Capitolo 10: Vigilanza e competenze delle autorità federali****
 
