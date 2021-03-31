@@ -3,11 +3,11 @@ sr: "172.220.111.42"
 title: "Ordonnance du 5 novembre 2014 sur le traitement des données personnelles sur l'Intranet et l'Extranet du DFAE (Ordonnance Web-DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/655"
 language: fr
-version: 2014-12-01
+version: 2021-04-01
 adopted: 2014-11-05
 in_force: 2014-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20141201/fr/xml/fedlex-data-admin-ch-eli-cc-2014-655-20141201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20141201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-655-20210401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20141201/fr"
 
 (Ordonnance Web-DFAE)
 
-du 5 novembre 2014 (Etat le 1<sup>er</sup> décembre 2014)
+du 5 novembre 2014 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -149,12 +149,18 @@ Les personnes suivantes ont accès à l’Extranet du DFAE:
 
 **Sécurité des données**
 
-<sup>1</sup> La sécurité des données et la sécurité informatique doivent être assurées conformément à l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1] et à l’art. 10 de l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^12-2].
+<sup>1</sup>
+
+La sécurité des données et la sécurité informatique sont régies par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-2].[^12-3]
 
 <sup>2</sup> Le SG-DFAE édicte un règlement relatif au traitement des données qui définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-3]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 

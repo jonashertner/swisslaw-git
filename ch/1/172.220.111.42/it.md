@@ -3,11 +3,11 @@ sr: "172.220.111.42"
 title: "Ordinanza del 5 novembre 2014 sull'elaborazione di dati personali nell'Intranet e nell'Extranet del DFAE (Ordinanza Web DFAE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/655"
 language: it
-version: 2014-12-01
+version: 2021-04-01
 adopted: 2014-11-05
 in_force: 2014-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20141201/it/xml/fedlex-data-admin-ch-eli-cc-2014-655-20141201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20141201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/655/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-655-20210401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/655/20141201/it"
 
 (Ordinanza Web DFAE)
 
-del 5 novembre 2014 (Stato 1° dicembre 2014)
+del 5 novembre 2014 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -149,12 +149,18 @@ Le seguenti persone hanno accesso all’Extranet DFAE:
 
 **Sicurezza dei dati**
 
-<sup>1</sup> La sicurezza dei dati e la sicurezza informatica sono disciplinate dall’ordinanza del 14 giugno 1993[^12-1] relativa alla legge federale sulla protezione dei dati e dall’articolo 10 dell’ordinanza del 9 dicembre 2011[^12-2] sull’informatica nell’Amministrazione federale.
+<sup>1</sup>
+
+La sicurezza dei dati e la sicurezza informatica sono disciplinate:
+
+- a. dall’ordinanza del 14 giugno 1993[^12-1] relativa alla legge federale sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^12-2] sui ciber-rischi.[^12-3]
 
 <sup>2</sup> La SG DFAE emana un regolamento per il trattamento dei dati. Quest’ultimo disciplina le misure organizzative e tecniche atte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
 
 [^12-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^12-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-3]: Nuovo testo giusta l’all. n. 8 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
