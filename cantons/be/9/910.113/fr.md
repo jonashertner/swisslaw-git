@@ -4,13 +4,13 @@ number: "910.113"
 title: "Ordonnance sur les améliorations structurelles dans l'agriculture"
 short: OASA
 language: fr
-version: 2014-01-01
-valid_until: 2021-03-31
-version_adopted: 2014-04-30
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.113"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/212/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2193/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/212/pdf_file"
 
 (OASA)
 
-du 05.11.1997 (état au 01.01.2014)
+du 05.11.1997 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -175,7 +175,7 @@ arrête:
 
 <sup>2</sup> Le SASP traite les demandes dans l'ordre de leur arrivée.
 
-<sup>3</sup> Lorsque les conditions sont réunies, il accorde les subventions dans l'ordre des priorités de la Direction de l'économie publique, dans la limite des moyens budgétaires disponibles.
+<sup>3</sup> Lorsque les conditions sont réunies, il accorde les subventions dans l'ordre des priorités de la Direction de l’économie, de l’énergie et de l’environnement, dans la limite des moyens budgétaires disponibles.
 
 <sup>4</sup> Aucune subvention n'est versée pour couvrir les coûts des travaux et ouvrages entrepris ou construits sans autorisation.
 
@@ -308,7 +308,7 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions du SASP et de la CAB peuvent être contestées par voie de recours devant la Direction de l'économie publique dans les 30 jours qui suivent leur notification.
+<sup>1</sup> Les décisions du SASP et de la CAB peuvent être contestées par voie de recours devant la Direction de l’économie, de l’énergie et de l’environnement dans les 30 jours qui suivent leur notification.
 
 <sup>2</sup> Au surplus, les procédures de recours sont régies par la loi du 23 mai 1989 sur la procédure et la juridiction administratives[^25-1]; l'article 48 LCAB[^25-2] est réservé.
 

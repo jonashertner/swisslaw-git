@@ -4,13 +4,13 @@ number: "910.113"
 title: Verordnung über Strukturverbesserungen in der Landwirtschaft
 short: SVV
 language: de
-version: 2014-01-01
-valid_until: 2021-03-31
-version_adopted: 2014-04-30
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.113"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/212/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2193/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/212/pdf_file"
 
 (SVV)
 
-vom 05.11.1997 (Stand 01.01.2014)
+vom 05.11.1997 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -175,7 +175,7 @@ beschliesst:
 
 <sup>2</sup> Die ASP beurteilt die Gesuche in der Reihenfolge ihres Eintreffens.
 
-<sup>3</sup> Sie gewährt die Beiträge bei Vorliegen der Voraussetzungen nach der Prioritätenordnung der Volkswirtschaftsdirektion im Rahmen der vorhandenen Budgetmittel.
+<sup>3</sup> Sie gewährt die Beiträge bei Vorliegen der Voraussetzungen nach der Prioritätenordnung der Wirtschafts-, Energie- und Umweltdirektion im Rahmen der vorhandenen Budgetmittel.
 
 <sup>4</sup> An die Kosten von Arbeiten und Werken, die ohne Bewilligung angefangen oder erstellt wurden, werden keine Beiträge gewährt.
 
@@ -308,9 +308,9 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Verfügungen der ASP und der BAK können innert 30 Tagen seit Eröffnung mit Beschwerde an die Volkswirtschaftsdirektion angefochten werden.
+<sup>1</sup> Verfügungen der ASP und der BAK können innert 30 Tagen seit Eröffnung mit Beschwerde an die Wirtschafts-, Energie- und Umweltdirektion angefochten werden.
 
-<sup>2</sup> Im übrigen richtet sich das Beschwerdeverfahren nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege[^25-1]; Artikel 48 KLwG[^25-2] bleibt vorbehalten.
+<sup>2</sup> Im Übrigen richtet sich das Beschwerdeverfahren nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^25-1]; Artikel 48 KLwG[^25-2] bleibt vorbehalten.
 
 [^25-1]: BSG 155.21
 [^25-2]: BSG 910.1
