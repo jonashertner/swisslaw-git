@@ -4,13 +4,13 @@ number: "923.11"
 title: Loi sur la pêche
 short: LPê
 language: fr
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-06-06
+version: 2021-04-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-17
 adopted: 1995-06-21
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/923.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1574/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2207/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1574/pdf_file"
 
 (LPê)
 
-du 21.06.1995 (état au 01.01.2020)
+du 21.06.1995 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -77,7 +77,7 @@ arrête:
 
 <sup>1</sup> Les autorités du canton et des communes tiennent compte des intérêts de la pêche dans l'accomplissement de leurs tâches.
 
-<sup>2</sup> Elles collaborent étroitement avec le service compétent de la Direction de l'économie publique pour évaluer les projets qui touchent les intérêts de la pêche.
+<sup>2</sup> Elles collaborent étroitement avec le service compétent de la Direction de l’économie, de l’énergie et de l’environnement pour évaluer les projets qui touchent les intérêts de la pêche.
 
 ## 2 Protection et exploitation
 
@@ -101,7 +101,7 @@ arrête:
 
 **Préservation des espèces et des races**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique peut édicter des limitations de capture ou d'exploitation et des interdictions de pêcher, aux fins de protéger les tronçons de cours d'eau dans lesquels les poissons et les écrevisses ont un statut de menace de 1 à 3.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut édicter des limitations de capture ou d'exploitation et des interdictions de pêcher, aux fins de protéger les tronçons de cours d'eau dans lesquels les poissons et les écrevisses ont un statut de menace de 1 à 3.
 
 <sup>2</sup> Si la mesure de protection nécessite l'intégration de parcelles de terrain, celles-ci sont mises sous protection selon les prescriptions de la législation sur la protection de la nature.
 
@@ -115,7 +115,7 @@ arrête:
 - b si une zone de frai est créée ou mise en valeur ou
 - c si la diversité des espèces est augmentée.
 
-<sup>2</sup> Les mesures sont planifiées et réalisées en collaboration avec le service compétent de la Direction de l'économie publique et le service cantonal compétent dans le domaine de l'aménagement des eaux.
+<sup>2</sup> Les mesures sont planifiées et réalisées en collaboration avec le service compétent de la Direction de l’économie, de l’énergie et de l’environnement et le service cantonal compétent dans le domaine de l'aménagement des eaux.
 
 <sup>3</sup> La procédure est régie par la loi du 14 février 1989 sur l'entretien et sur l'aménagement des eaux[^7-1] (loi sur l'aménagement des eaux, LAE).
 
@@ -127,7 +127,7 @@ arrête:
 
 <sup>1</sup> L'autorisation obligatoire pour des interventions techniques sur les eaux, leur régime ou leur cours, ou encore sur les rives ou le fond des eaux est régie par les dispositions du droit fédéral.
 
-<sup>2</sup> Les plans directeurs des eaux et les plans d'aménagement des eaux sont soumis, dès les travaux préliminaires, au service compétent de la Direction de l'économie publique, qui définit les mesures à prendre en matière de technique piscicole.
+<sup>2</sup> Les plans directeurs des eaux et les plans d'aménagement des eaux sont soumis, dès les travaux préliminaires, au service compétent de la Direction de l’économie, de l’énergie et de l’environnement, qui définit les mesures à prendre en matière de technique piscicole.
 
 <sup>3</sup> Le 2<sup>e</sup> alinéa s'applique aux projets concernant
 
@@ -140,11 +140,11 @@ arrête:
 
 **2. Compétences**
 
-<sup>1</sup> L'octroi de l'autorisation incombe au service compétent de la Direction de l'économie publique.
+<sup>1</sup> L'octroi de l'autorisation incombe au service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> Si le projet requiert d'autres autorisations, la compétence et la procédure sont régies par les prescriptions de la loi de coordination[^9-1].
+<sup>2</sup> Si le projet requiert d'autres autorisations, la compétence et la procédure sont régies par les prescriptions de la loi de coordination du 21 mars 1994 (LCoord)[^9-1].
 
-[^9-1]: RSB 724.1
+[^9-1]: RSB [724.1](https://www.belex.sites.be.ch/data/724.1/fr)
 
 #### Art. 10
 
@@ -160,7 +160,7 @@ arrête:
 
 **Réalisation**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique suit la planification et la réalisation des mesures en matière de pêche ayant trait à des interventions techniques et à des mesures d'assainissement.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement suit la planification et la réalisation des mesures en matière de pêche ayant trait à des interventions techniques et à des mesures d'assainissement.
 
 #### Art. 12
 
@@ -174,7 +174,7 @@ arrête:
 
 <sup>1</sup> La reproduction naturelle ne doit pas être perturbée pendant la période de frai.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique peut accorder des dérogations dans des cas dûment motivés.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut accorder des dérogations dans des cas dûment motivés.
 
 <sup>3</sup> Les travaux urgents à effectuer en cas de catastrophe sont réservés.
 
@@ -212,7 +212,7 @@ arrête:
 
 <sup>1</sup> Le droit de pêcher peut être limité à certaines périodes de la journée, ainsi qu'à certains jours ouvrables et certains jours fériés.
 
-<sup>2</sup> Pour de justes motifs, le service compétent de la Direction de l’économie publique peut édicter des interdictions locales de pêcher ou d’autres restrictions moins importantes.
+<sup>2</sup> Pour de justes motifs, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut édicter des interdictions locales de pêcher ou d’autres restrictions moins importantes.
 
 <sup>3</sup> Des limitations du nombre de captures pour la pêche à la ligne peuvent être fixées pour certaines espèces de poissons ou d'écrevisses.
 
@@ -226,7 +226,7 @@ arrête:
 
 **Poissons géniteurs, poissons servant d'appâts, organismes servant de pâture**
 
-<sup>1</sup> La capture de poissons géniteurs nécessite une autorisation du service compétent de la Direction de l'économie publique.
+<sup>1</sup> La capture de poissons géniteurs nécessite une autorisation du service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> La capture de poissons servant d'appâts et d'organismes servant de pâture peut être assujettie à l'octroi d'une autorisation.
 
@@ -244,11 +244,11 @@ arrête:
 
 **Nouvelles constructions, interdictions d'accès**
 
-<sup>1</sup> Une autorisation du service compétent de la Direction de l'économie publique est nécessaire pour établir des constructions, des installations et des clôtures entravant ou empêchant le passage sur les rives des cours d'eau de droit régalien.
+<sup>1</sup> Une autorisation du service compétent de la Direction de l’économie, de l’énergie et de l’environnement est nécessaire pour établir des constructions, des installations et des clôtures entravant ou empêchant le passage sur les rives des cours d'eau de droit régalien.
 
 <sup>2</sup> Si le projet requiert d'autres autorisations, la compétence et la procédure sont régies par les prescriptions de la loi de coordination[^21-1].
 
-<sup>3</sup> Toute interdiction d'accès limitant le droit de passage sur les rives ne peut être édictée qu'avec l'accord du service compétent de la Direction de l'économie publique.
+<sup>3</sup> Toute interdiction d'accès limitant le droit de passage sur les rives ne peut être édictée qu'avec l'accord du service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 [^21-1]: RSB 724.1
 
@@ -270,7 +270,7 @@ arrête:
 
 **Captures particulières**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique peut autoriser, organiser ou ordonner des captures particulières dans l'intérêt de l'exploitation et de la préservation de la diversité des espèces et des peuplements, notamment pour
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut autoriser, organiser ou ordonner des captures particulières dans l'intérêt de l'exploitation et de la préservation de la diversité des espèces et des peuplements, notamment pour
 
 - a la récolte du frai,
 - b l'exploitation des eaux d'élevage,
@@ -286,7 +286,7 @@ arrête:
 
 **Repeuplement**
 
-<sup>1</sup> Chaque année, le service compétent de la Direction de l'économie publique édicte pour les eaux de droit régalien un plan de repeuplement définissant les espèces et les quantités de poissons et d'écrevisses à immerger.
+<sup>1</sup> Chaque année, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement édicte pour les eaux de droit régalien un plan de repeuplement définissant les espèces et les quantités de poissons et d'écrevisses à immerger.
 
 <sup>2</sup> Il peut, en outre, ordonner, limiter, interdire ou soumettre à autorisation des mesures de repeuplement pour toutes les eaux.
 
@@ -294,7 +294,7 @@ arrête:
 
 **Recours à des tiers**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique peut recourir, avec leur accord, aux personnes qui pratiquent la pêche professionnelle, aux titulaires de droits de pêche privés, et aux fermiers et fermières, s'il s'agit d'eaux affermées, pour réaliser des mesures de protection.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut recourir, avec leur accord, aux personnes qui pratiquent la pêche professionnelle, aux titulaires de droits de pêche privés, et aux fermiers et fermières, s'il s'agit d'eaux affermées, pour réaliser des mesures de protection.
 
 ### 2.5 Collecte de données
 
@@ -302,7 +302,7 @@ arrête:
 
 <sup>1</sup> Quiconque exerce la pêche aux poissons ou aux écrevisses peut être tenu d'établir et d'envoyer une statistique des captures.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique dépouille les résultats et collecte lui-même ou fait collecter par des tiers d'autres données concernant les poissons, les écrevisses et les organismes leur servant de pâture, ainsi que leurs biotopes.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement dépouille les résultats et collecte lui-même ou fait collecter par des tiers d'autres données concernant les poissons, les écrevisses et les organismes leur servant de pâture, ainsi que leurs biotopes.
 
 <sup>3</sup> Il peut exiger d'autres données, notamment une statistique des mesures de repeuplement.
 
@@ -346,7 +346,7 @@ arrête:
 
 **3. Remise de la patente**
 
-<sup>1</sup> Le service compétent de la Direction de l’économie publique délivre les patentes.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement délivre les patentes.
 
 #### Art. 33
 
@@ -370,7 +370,7 @@ arrête:
 
 **Affermage**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique désigne les eaux qui peuvent être affermées.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement désigne les eaux qui peuvent être affermées.
 
 <sup>2</sup> Le contrat d'affermage est en général conclu avec la personne ou la collectivité offrant la meilleure garantie d'une pêche exercée avec compétence et dans les règles, ainsi que d'une exploitation et d'un entretien appropriés des eaux.
 
@@ -489,7 +489,7 @@ arrête:
 
 <sup>1</sup> Le canton a un droit de préemption sur les droits de pêche privés.
 
-<sup>2</sup> L'aliénation de droits de pêche privés doit être notifiée au service compétent de la Direction de l'économie publique.
+<sup>2</sup> L'aliénation de droits de pêche privés doit être notifiée au service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> Pour le surplus, les prescriptions du Code civil suisse[^45-1] sont applicables.
 
@@ -511,7 +511,7 @@ arrête:
 
 **Aides financières**
 
-<sup>1</sup> Le canton peut octroyer des aides financières allant jusqu'à 80 pour cent des frais engendrés aux tiers engagés contractuellement par le service compétent de la Direction de l'économie publique.
+<sup>1</sup> Le canton peut octroyer des aides financières allant jusqu'à 80 pour cent des frais engendrés aux tiers engagés contractuellement par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Il peut en outre octroyer des aides financières allant jusqu'à 50 pour cent des frais pour
 
@@ -531,7 +531,7 @@ arrête:
 
 **Restitution**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique refuse de verser des subventions promises ou exige le remboursement partiel ou intégral de subventions versées, si le ou la bénéficiaire ne respecte pas les conditions et les charges qui y sont liées.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement refuse de verser des subventions promises ou exige le remboursement partiel ou intégral de subventions versées, si le ou la bénéficiaire ne respecte pas les conditions et les charges qui y sont liées.
 
 <sup>2</sup> Il peut agir de même si les prestations attendues de la part du ou de la bénéficiaire des subventions ne sont fournies que partiellement ou en dehors des délais impartis.
 
@@ -539,7 +539,7 @@ arrête:
 
 **Information**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique veille à informer le public comme il convient sur le domaine de la pêche.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement veille à informer le public comme il convient sur le domaine de la pêche.
 
 <sup>2</sup> Il coordonne cette information avec celle de tiers.
 
@@ -581,7 +581,7 @@ arrête:
 
 **Garde-pêche**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique nomme les garde-pêche cantonaux et les surveillants et les surveillantes volontaires.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement nomme les garde-pêche cantonaux et les surveillants et les surveillantes volontaires.
 
 <sup>2</sup> Les garde-pêche cantonaux ont notamment les responsabilités suivantes:
 
@@ -589,13 +589,13 @@ arrête:
 - b exploiter les installations cantonales de pisciculture, et
 - c surveiller la pêche professionnelle et la pêche à la ligne.
 
-<sup>3</sup> Le service compétent de la Direction de l'économie publique fait appel à des surveillants et à des surveillantes volontaires pour aider les organes cantonaux de surveillance.
+<sup>3</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement fait appel à des surveillants et à des surveillantes volontaires pour aider les organes cantonaux de surveillance.
 
 #### Art. 55
 
 **Commission de la pêche**
 
-<sup>1</sup> La Direction de l'économie publique nomme une Commission de la pêche dont la durée de fonction est de quatre ans; elle est composée de neuf membres qui conseillent les autorités chargées de la pêche.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement nomme une Commission de la pêche dont la durée de fonction est de quatre ans; elle est composée de neuf membres qui conseillent les autorités chargées de la pêche.
 
 <sup>2</sup> La science piscicole et les organisations cantonales de pêche à la ligne et de pêche professionnelle sont équitablement représentées dans la commission.
 
@@ -631,7 +631,7 @@ arrête:
 
 **Litiges**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique fait valoir ses prétentions contre la personne responsable au moyen d'une décision.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement fait valoir ses prétentions contre la personne responsable au moyen d'une décision.
 
 <sup>2</sup> Le Tribunal administratif connaît des actions portant sur des prétentions de droit public élevées contre le canton par des personnes privées.
 
@@ -649,7 +649,7 @@ arrête:
 - b aura fait sans autorisation un acte nécessitant une autorisation, ou aura enfreint une autorisation;
 - c aura commis un acte entraînant un dommage durable pour les poissons, les écrevisses ou les organismes leur servant de pâture;
 - d n'aura pas observé les prescriptions concernant les zones et les périodes de protection, les limitations de capture et d'exploitation, les interdictions de pêcher, les devoirs de précaution, les engins de pêche et accessoires, les modes de capture, les longueurs minimales, la pêche des poissons géniteurs, la pêche des poissons servant d'appâts et des organismes servant de pâture, les concours de pêche, ainsi que les prescriptions de protection et d'exploitation;
-- e aura entravé ou empêché, sans l'autorisation du service compétent de la Direction de l'économie publique, le passage sur les rives soumises au droit de pêche cantonal;
+- e aura entravé ou empêché, sans l'autorisation du service compétent de la Direction de l’économie, de l’énergie et de l’environnement, le passage sur les rives soumises au droit de pêche cantonal;
 - f n’aura pas respecté l’obligation d’établir et d’envoyer la statistique de la pêche ou qui possède plus qu’un exemplaire de statistique de la pêche quant à sa patente;
 - g n'aura pas respecté les prescriptions limitant la pratique d'activités sportives;
 - h ne se sera pas conformée à une ordonnance exécutoire à elle adressée qui faisait référence aux prescriptions pénales du présent article, ou
@@ -669,7 +669,7 @@ arrête:
 
 <sup>1</sup> La poursuite pénale incombe aux autorités de poursuite pénale ordinaires.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique peut exercer les droits de partie dans la procédure pénale.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut exercer les droits de partie dans la procédure pénale.
 
 #### Art. 63
 
@@ -689,15 +689,15 @@ arrête:
 
 **Mesure administrative**
 
-<sup>1</sup> Le service compétent de la Direction de l’économie publique peut refuser l’octroi de la patente ou retirer une patente déjà octroyée si une personne a enfreint gravement ou à plusieurs reprises les prescriptions sur la pêche ou si elle a fourni des indications fausses ou trompeuses lors de l’achat de la patente.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut refuser l’octroi de la patente ou retirer une patente déjà octroyée si une personne a enfreint gravement ou à plusieurs reprises les prescriptions sur la pêche ou si elle a fourni des indications fausses ou trompeuses lors de l’achat de la patente.
 
 #### Art. 66
 
 **Communication**
 
-<sup>1</sup> Les autorités de justice pénale communiquent immédiatement au service compétent de la Direction de l'économie publique tous les jugements rendus en vertu de la législation sur la pêche.
+<sup>1</sup> Les autorités de justice pénale communiquent immédiatement au service compétent de la Direction de l’économie, de l’énergie et de l’environnement tous les jugements rendus en vertu de la législation sur la pêche.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique fournit sur demande aux services chargés de l'octroi des patentes des renseignements sur les jugements communiqués.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement fournit sur demande aux services chargés de l'octroi des patentes des renseignements sur les jugements communiqués.
 
 <sup>3</sup> Il peut communiquer à tous les services compétents pour délivrer des patentes de pêche à la ligne les jugements qui peuvent justifier le refus de la patente.
 
@@ -709,11 +709,11 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> Sauf disposition contraire de la présente loi, l'exécution des prescriptions fédérales et cantonales de la législation sur la pêche incombe au service compétent de la Direction de l'économie publique.
+<sup>1</sup> Sauf disposition contraire de la présente loi, l'exécution des prescriptions fédérales et cantonales de la législation sur la pêche incombe au service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique peut recourir contractuellement à des tiers pour accomplir ses tâches, notamment pour la délivrance des patentes ainsi que pour les mesures ayant trait à la régénération et à l’exploitation.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut recourir contractuellement à des tiers pour accomplir ses tâches, notamment pour la délivrance des patentes ainsi que pour les mesures ayant trait à la régénération et à l’exploitation.
 
-<sup>3</sup> La conclusion de contrats concernant la pêche dans les eaux intercantonales incombe au Conseil-exécutif. Il peut en confier la compétence à la Direction de l'économie publique.
+<sup>3</sup> La conclusion de contrats concernant la pêche dans les eaux intercantonales incombe au Conseil-exécutif. Il peut en confier la compétence à la Direction de l’économie, de l’énergie et de l’environnement.
 
 #### Art. 68
 
@@ -728,7 +728,7 @@ arrête:
 - c les limitations temporaires générales de l'exercice de la pêche;
 - d l'octroi de subventions;
 - e les limitations de capture et d'exploitation ainsi que les interdictions de pêcher aux fins de protéger les espèces et les races menacées, ainsi que leurs biotopes;
-- f la préparation et la réalisation de mesures concernant de nouvelles installations conformément à l'article 9, 1<sup>er</sup> alinéa de la loi fédérale sur la pêche[^68-1], ainsi que de mesures d'amélioration et de reconstitution;
+- f la préparation et la réalisation de mesures concernant de nouvelles installations conformément à l'article 9, 1<sup>er</sup> alinéa de la loi fédérale du 21 juin 1991 sur la pêche (LFSP)[^68-1], ainsi que de mesures d'amélioration et de reconstitution;
 - g les engins et les modes de pêche, y compris les principes fixant le nombre d'engins de pêche pouvant être utilisés pour la pêche professionnelle;
 - h les zones de protection;
 - i les limitations du nombre de captures;
@@ -744,15 +744,15 @@ arrête:
 - t les modalités de délivrance des patentes, ainsi que
 - u la fourniture d'une preuve du travail de protection effectué et le montant de la contribution aux mesures de protection.
 
-<sup>3</sup> Il peut déléguer ses compétences selon le 2<sup>e</sup> alinéa, lettres e à u à la Direction de l'économie publique.
+<sup>3</sup> Il peut déléguer ses compétences selon le 2<sup>e</sup> alinéa, lettres e à u à la Direction de l’économie, de l’énergie et de l’environnement.
 
-[^68-1]: RS 923.0
+[^68-1]: RS [923.0](https://db.clex.ch/link/Bund/923.0/fr)
 
 #### Art. 69
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions rendues en vertu de la législation sur la pêche par le service compétent de la Direction de l'économie publique sont susceptibles de recours auprès de la Direction de l'économie publique.
+<sup>1</sup> Les décisions rendues en vertu de la législation sur la pêche par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement sont susceptibles de recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> …
 

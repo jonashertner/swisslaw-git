@@ -4,13 +4,13 @@ number: "923.11"
 title: Fischereigesetz
 short: FiG
 language: de
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-06-06
+version: 2021-04-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-17
 adopted: 1995-06-21
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/923.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1574/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2207/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1574/pdf_file"
 
 (FiG)
 
-vom 21.06.1995 (Stand 01.01.2020)
+vom 21.06.1995 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -77,7 +77,7 @@ beschliesst:
 
 <sup>1</sup> Die Behörden des Kantons und der Gemeinden berücksichtigen bei der Erfüllung ihrer Aufgaben die Anliegen der Fischerei.
 
-<sup>2</sup> Sie arbeiten bei der Beurteilung von Vorhaben, welche die Interessen der Fischerei berühren, eng mit der zuständigen Stelle der Volkswirtschaftsdirektion zusammen.
+<sup>2</sup> Sie arbeiten bei der Beurteilung von Vorhaben, welche die Interessen der Fischerei berühren, eng mit der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion zusammen.
 
 ## 2 Schutz und Nutzung
 
@@ -101,7 +101,7 @@ beschliesst:
 
 **Erhaltung der Arten und Rassen**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann zum Schutz der Gewässerabschnitte, in denen Fische und Krebse mit dem Gefährdungsstatus 1 bis 3 leben, Fang- oder Bewirtschaftungsbeschränkungen und Fischereiverbote erlassen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann zum Schutz der Gewässerabschnitte, in denen Fische und Krebse mit dem Gefährdungsstatus 1 bis 3 leben, Fang- oder Bewirtschaftungsbeschränkungen und Fischereiverbote erlassen.
 
 <sup>2</sup> Ist für den Schutz auch der Einbezug von Landabschnitten erforderlich, erfolgt deren Sicherung nach den Vorschriften der Naturschutzgesetzgebung.
 
@@ -115,7 +115,7 @@ beschliesst:
 - b ein Laichgebiet geschaffen oder erschlossen wird oder
 - c die Artenvielfalt erhöht wird.
 
-<sup>2</sup> Die Planung und Durchführung der Massnahmen erfolgt in Zusammenarbeit mit der zuständigen Stelle der Volkswirtschaftsdirektion und der für den Wasserbau zuständigen kantonalen Stelle.
+<sup>2</sup> Die Planung und Durchführung der Massnahmen erfolgt in Zusammenarbeit mit der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion und der für den Wasserbau zuständigen kantonalen Stelle.
 
 <sup>3</sup> Das Verfahren richtet sich nach den Vorschriften des Gesetzes vom 14. Februar 1989 über Gewässerunterhalt und Wasserbau (Wasserbaugesetz, WBG)[^7-1].
 
@@ -127,7 +127,7 @@ beschliesst:
 
 <sup>1</sup> Die Bewilligungspflicht für technische Eingriffe in die Gewässer, ihren Wasserhaushalt oder ihren Verlauf sowie für Eingriffe in die Ufer und den Grund von Gewässern richtet sich nach den Bestimmungen des Bundesrechts.
 
-<sup>2</sup> Gewässerrichtpläne und Wasserbaupläne sind der zuständigen Stelle der Volkswirtschaftsdirektion im Stadium der Vorarbeiten zur Festsetzung der fischereitechnischen Massnahmen zu unterbreiten.
+<sup>2</sup> Gewässerrichtpläne und Wasserbaupläne sind der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion im Stadium der Vorarbeiten zur Festsetzung der fischereitechnischen Massnahmen zu unterbreiten.
 
 <sup>3</sup> Gleiches gilt für Projekte betreffend
 
@@ -140,9 +140,11 @@ beschliesst:
 
 **2. Zuständigkeit**
 
-<sup>1</sup> Die Erteilung der Bewilligung obliegt der zuständigen Stelle der Volkswirtschaftsdirektion.
+<sup>1</sup> Die Erteilung der Bewilligung obliegt der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
-<sup>2</sup> Erfordert das Vorhaben gleichzeitig weitere Bewilligungen, richten sich Zuständigkeit und Verfahren nach den Vorschriften des Koordinationsgesetzes.
+<sup>2</sup> Erfordert das Vorhaben gleichzeitig weitere Bewilligungen, richten sich Zuständigkeit und Verfahren nach den Vorschriften des Koordinationsgesetzes vom 21. März 1994 (KoG)[^9-1].
+
+[^9-1]: BSG [724.1](https://www.belex.sites.be.ch/data/724.1/de)
 
 #### Art. 10
 
@@ -158,7 +160,7 @@ beschliesst:
 
 **Durchführung**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion begleitet die Planung und Durchführung der fischereilichen Massnahmen im Zusammenhang mit technischen Eingriffen und Sanierungsmassnahmen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion begleitet die Planung und Durchführung der fischereilichen Massnahmen im Zusammenhang mit technischen Eingriffen und Sanierungsmassnahmen.
 
 #### Art. 12
 
@@ -172,7 +174,7 @@ beschliesst:
 
 <sup>1</sup> Die natürliche Verlaichung darf während der Dauer der Fortpflanzungsperiode nicht beeinträchtigt werden.
 
-<sup>2</sup> In begründeten Fällen kann die zuständige Stelle der Volkswirtschaftsdirektion Ausnahmen bewilligen.
+<sup>2</sup> In begründeten Fällen kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion Ausnahmen bewilligen.
 
 <sup>3</sup> Vorbehalten bleiben Notarbeiten bei Katastrophenereignissen.
 
@@ -210,7 +212,7 @@ beschliesst:
 
 <sup>1</sup> Die Fischereibefugnis kann zu bestimmten Tageszeiten sowie an bestimmten Wochen- und Feiertagen eingeschränkt werden.
 
-<sup>2</sup> Aus wichtigen Gründen kann die zuständige Stelle der Volkswirtschaftsdirektion örtlich beschränkte Fischereiverbote oder andere, weniger weit gehende Einschränkungen erlassen.
+<sup>2</sup> Aus wichtigen Gründen kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion örtlich beschränkte Fischereiverbote oder andere, weniger weit gehende Einschränkungen erlassen.
 
 <sup>3</sup> Für einzelne Fisch- und Krebsarten können für die Angelfischerei Fangzahlbeschränkungen festgelegt werden.
 
@@ -224,7 +226,7 @@ beschliesst:
 
 **Laichfische, Köderfische, Fischnährtiere**
 
-<sup>1</sup> Der Laichfischfang bedarf einer Bewilligung der zuständigen Stelle der Volkswirtschaftsdirektion.
+<sup>1</sup> Der Laichfischfang bedarf einer Bewilligung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Der Fang von Köderfischen und Fischnährtieren kann der Bewilligungspflicht unterstellt werden.
 
@@ -242,11 +244,11 @@ beschliesst:
 
 **Neubauten, Zutrittsverbote**
 
-<sup>1</sup> Die Erstellung von Bauten, Anlagen und Einfriedungen, welche die Begehung der Ufer von Regalgewässern erschweren oder verunmöglichen, bedarf einer Bewilligung der zuständigen Stelle der Volkswirtschaftsdirektion.
+<sup>1</sup> Die Erstellung von Bauten, Anlagen und Einfriedungen, welche die Begehung der Ufer von Regalgewässern erschweren oder verunmöglichen, bedarf einer Bewilligung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Erfordert das Vorhaben gleichzeitig weitere Bewilligungen, richten sich Zuständigkeit und Verfahren nach den Vorschriften des Koordinationsgesetzes.
 
-<sup>3</sup> Ein Zutrittsverbot, welches das Uferbegehungsrecht einschränkt, darf nur mit Zustimmung der zuständigen Stelle der Volkswirtschaftsdirektion erlassen werden.
+<sup>3</sup> Ein Zutrittsverbot, welches das Uferbegehungsrecht einschränkt, darf nur mit Zustimmung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion erlassen werden.
 
 #### Art. 22
 
@@ -266,7 +268,7 @@ beschliesst:
 
 **Sonderfänge**
 
-<sup>1</sup> Im Interesse der Bewirtschaftung und der Erhaltung der Artenvielfalt sowie der Bestände kann die zuständige Stelle der Volkswirtschaftsdirektion Sonderfänge bewilligen, durchführen oder anordnen, namentlich
+<sup>1</sup> Im Interesse der Bewirtschaftung und der Erhaltung der Artenvielfalt sowie der Bestände kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion Sonderfänge bewilligen, durchführen oder anordnen, namentlich
 
 - a zur Laichgewinnung,
 - b zur Bewirtschaftung von Aufzuchtgewässern,
@@ -282,7 +284,7 @@ beschliesst:
 
 **Besatz**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion erlässt jährlich für die Regalgewässer einen Besatzplan über die Art und Menge der einzusetzenden Besatzfische und -krebse.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion erlässt jährlich für die Regalgewässer einen Besatzplan über die Art und Menge der einzusetzenden Besatzfische und -krebse.
 
 <sup>2</sup> Sie kann überdies für alle Gewässer Besatzmassnahmen anordnen, einschränken, verbieten oder der Bewilligungspflicht unterstellen.
 
@@ -290,7 +292,7 @@ beschliesst:
 
 **Mitwirkung Dritter**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann für die Durchführung von Hegemassnahmen die Berufsfischerinnen und die Berufsfischer, die Fischereivereine, die Inhaberinnen und die Inhaber von privaten Fischereirechten und bei Pachtgewässern die Pächterin oder den Pächter im gegenseitigen Einvernehmen beiziehen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann für die Durchführung von Hegemassnahmen Berufsfischerinnen und Berufsfischer, die Fischereivereine, Inhaberinnen und Inhaber von privaten Fischereirechten und bei Pachtgewässern die Pächterin oder den Pächter im gegenseitigen Einvernehmen beiziehen.
 
 ### 2.5 Grundlagenbeschaffung
 
@@ -298,9 +300,9 @@ beschliesst:
 
 <sup>1</sup> Wer den Fisch- oder Krebsfang ausübt, kann zur Führung und Einsendung einer Fangstatistik verpflichtet werden.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion wertet die Ergebnisse aus und kann durch Dritte oder selber weitere Grundlagen über Fische, Krebse und Fischnährtiere sowie deren Lebensräume beschaffen.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion wertet die Ergebnisse aus und kann durch Dritte oder selber weitere Grundlagen über Fische, Krebse und Fischnährtiere sowie deren Lebensräume beschaffen.
 
-<sup>3</sup> Sie kann weitere Angaben, insbesondere eine Statistik über Besatzmassnahmen verlangen.
+<sup>3</sup> Sie kann weitere Angaben, insbesondere eine Statistik über Besatzmassnahmen, verlangen.
 
 ## 3 Fischereiregal und Hegebeitrag
 
@@ -342,7 +344,7 @@ beschliesst:
 
 **3. Patentausgabe**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion erteilt die Patente.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion erteilt die Patente.
 
 #### Art. 33
 
@@ -366,7 +368,7 @@ beschliesst:
 
 **Pacht**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion bestimmt die Gewässer, die in Pacht gegeben werden.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion bestimmt die Gewässer, die in Pacht gegeben werden.
 
 <sup>2</sup> Der Pachtvertrag wird in der Regel mit derjenigen Person oder Personengemeinschaft eingegangen, welche die grösste Gewähr für eine ordnungsgemässe und fachkundige Ausübung der Fischerei sowie eine angemessene Bewirtschaftung und Pflege des Gewässers bietet.
 
@@ -485,7 +487,7 @@ beschliesst:
 
 <sup>1</sup> Bei der Veräusserung eines privaten Fischereirechts steht dem Kanton ein Vorkaufsrecht zu.
 
-<sup>2</sup> Die Veräusserung ist der zuständigen Stelle der Volkswirtschaftsdirektion anzuzeigen.
+<sup>2</sup> Die Veräusserung ist der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion anzuzeigen.
 
 <sup>3</sup> Im übrigen gelten die Vorschriften des ZGB[^45-1]
 
@@ -507,7 +509,7 @@ beschliesst:
 
 **Finanzhilfen**
 
-<sup>1</sup> Der Kanton kann für die Aufwendungen der von der zuständigen Stelle der Volkswirtschaftsdirektion vertraglich beigezogenen Dritten Finanzhilfen bis zu 80 Prozent der Kosten gewähren.
+<sup>1</sup> Der Kanton kann für die Aufwendungen der von der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion vertraglich beigezogenen Dritten Finanzhilfen bis zu 80 Prozent der Kosten gewähren.
 
 <sup>2</sup> Er kann überdies Finanzhilfen bis zu 50 Prozent der Kosten gewähren für
 
@@ -527,7 +529,7 @@ beschliesst:
 
 **Rückforderung**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion verweigert die Auszahlung zugesicherter Beiträge oder fordert gewährte Beiträge ganz oder teilweise zurück, falls die Beitragsempfängerin oder der Beitragsempfänger die Bedingungen und Auflagen missachtet.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion verweigert die Auszahlung zugesicherter Beiträge oder fordert gewährte Beiträge ganz oder teilweise zurück, falls die Beitragsempfängerin oder der Beitragsempfänger die Bedingungen und Auflagen missachtet.
 
 <sup>2</sup> Sie kann in gleicher Weise vorgehen, falls die von der Beitragsempfängerin oder vom Beitragsempfänger erwartete Leistung nur teilweise oder nicht zeitgerecht erbracht wird.
 
@@ -535,7 +537,7 @@ beschliesst:
 
 **Öffentlichkeitsarbeit**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion sorgt für eine angemessene Öffentlichkeitsarbeit zu den Anliegen der Fischerei.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion sorgt für eine angemessene Öffentlichkeitsarbeit zu den Anliegen der Fischerei.
 
 <sup>2</sup> Sie koordiniert ihre Öffentlichkeitsarbeit mit jener von Dritten.
 
@@ -577,7 +579,7 @@ beschliesst:
 
 **Fischereiaufseherinnen und -aufseher**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ernennt die kantonalen sowie die freiwilligen Fischereiaufseherinnen und Fischereiaufseher.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ernennt die kantonalen sowie die freiwilligen Fischereiaufseherinnen und Fischereiaufseher.
 
 <sup>2</sup> Die kantonalen Fischereiaufseherinnen und Fischereiaufseher sind insbesondere verantwortlich für
 
@@ -585,13 +587,13 @@ beschliesst:
 - b den Betrieb der kantonalen Fischzuchtanlagen und
 - c die Überwachung der Berufs- und Angelfischerei.
 
-<sup>3</sup> Die zuständige Stelle der Volkswirtschaftsdirektion zieht zur Unterstützung der kantonalen Aufsichtsorgane freiwillige Fischereiaufseherinnen und Fischereiaufseher bei.
+<sup>3</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion zieht zur Unterstützung der kantonalen Aufsichtsorgane freiwillige Fischereiaufseherinnen und Fischereiaufseher bei.
 
 #### Art. 55
 
 **Fischereikommission**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion wählt für eine Amtsdauer von jeweils vier Jahren eine aus neun Mitgliedern bestehende Fischereikommission, welche die mit der Fischerei betrauten Behörden berät.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion wählt für eine Amtsdauer von jeweils vier Jahren eine aus neun Mitgliedern bestehende Fischereikommission, welche die mit der Fischerei betrauten Behörden berät.
 
 <sup>2</sup> Die Fischereiwissenschaft sowie die kantonalen Angelfischer- und Berufsfischerorganisationen sollen angemessen vertreten sein.
 
@@ -627,7 +629,7 @@ beschliesst:
 
 **Streitigkeiten**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion macht ihre Ansprüche gegen die haftpflichtige Person mittels Verfügung geltend.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion macht ihre Ansprüche gegen die haftpflichtige Person durch Verfügung geltend.
 
 <sup>2</sup> Das Verwaltungsgericht beurteilt öffentlichrechtliche Ansprüche von Privatpersonen gegen den Kanton im Klageverfahren.
 
@@ -645,7 +647,7 @@ beschliesst:
 - b ohne Bewilligung eine bewilligungspflichtige Handlung vornimmt oder eine Bewilligung verletzt;
 - c eine Handlung begeht, die zu einer nachhaltigen Schädigung der Fische, Krebse oder Fischnährtiere führt;
 - d die Vorschriften über die Schongebiete und -zeiten, die Fang- und Bewirtschaftungsbeschränkungen, die Fischereiverbote, die Sorgfaltspflichten, die Fang- und Hilfsgeräte, die Fangmethoden, die Fangmindestmasse, den Laichfischfang, den Fang von Köderfischen und Fischnährtieren, die Wettfischen, die Schutz- und Nutzungsvorschriften missachtet;
-- e ohne Zustimmung der zuständigen Stelle der Volkswirtschaftsdirektion die Begehung der Ufer mit kantonalem Fischereirecht behindert oder verunmöglicht;
+- e ohne Zustimmung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion die Begehung der Ufer mit kantonalem Fischereirecht behindert oder verunmöglicht;
 - f die Pflicht zur Führung und Einreichung der Fangstatistik missachtet oder zu seinem Patent mehr als eine Fangstatistik besitzt;
 - g die Vorschriften über die Beschränkung zur Ausübung von sportlichen Aktivitäten missachtet;
 - h einer unter Hinweis auf die Strafandrohung dieses Artikels an ihn gerichteten vollstreckbaren Anordnung nicht nachkommt oder
@@ -665,7 +667,7 @@ beschliesst:
 
 <sup>1</sup> Die Strafverfolgung obliegt den ordentlichen Behörden der Strafrechtspflege.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann im Strafverfahren Parteirechte ausüben.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann im Strafverfahren Parteirechte ausüben.
 
 #### Art. 63
 
@@ -685,17 +687,17 @@ beschliesst:
 
 **Administrative Massnahme**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann die Patenterteilung verweigern oder ein erteiltes Patent entziehen, falls jemand in schwerer Weise oder wiederholt gegen Fischereivorschriften verstossen oder beim Patentbezug falsche oder irreführende Angaben gemacht hat.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann die Patenterteilung verweigern oder ein erteiltes Patent entziehen, falls jemand in schwerer Weise oder wiederholt gegen Fischereivorschriften verstossen oder beim Patentbezug falsche oder irreführende Angaben gemacht hat.
 
 #### Art. 66
 
 **Mitteilung**
 
-<sup>1</sup> Die Strafjustizbehörden haben der zuständigen Stelle der Volkswirtschaftsdirektion von allen gestützt auf die Fischereigesetzgebung erlassenen Urteilen unverzüglich Kenntnis zu geben.
+<sup>1</sup> Die Strafjustizbehörden haben der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion von allen gestützt auf die Fischereigesetzgebung erlassenen Urteilen unverzüglich Kenntnis zu geben.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion gibt den mit der Patenterteilung befassten Stellen auf Rückfrage hin Auskunft über gemeldete Urteile.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion gibt den mit der Patenterteilung befassten Stellen auf Rückfrage hin Auskunft über gemeldete Urteile.
 
-<sup>3</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann Urteile, die es nahelegen, eine Patentverweigerung zu prüfen, allen zur Abgabe von Angelfischerpatenten zuständigen Stellen mitteilen.
+<sup>3</sup> Sie kann Urteile, die es nahelegen, eine Patentverweigerung zu prüfen, allen zur Abgabe von Angelfischerpatenten zuständigen Stellen mitteilen.
 
 <sup>4</sup> Alle Mitteilungen über Urteile sind spätestens zehn Jahre nach Eintreffen zu vernichten.
 
@@ -705,11 +707,11 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, obliegt der Vollzug der eidgenössischen und kantonalen Vorschriften der Fischereigesetzgebung der zuständigen Stelle der Volkswirtschaftsdirektion.
+<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, obliegt der Vollzug der eidgenössischen und kantonalen Vorschriften der Fischereigesetzgebung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann für die Erfüllung ihrer Aufgaben vertraglich Dritte beiziehen, namentlich für Patentabgabe, Renaturierungen und Bewirtschaftungsmassnahmen.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann für die Erfüllung ihrer Aufgaben vertraglich Dritte beiziehen, namentlich für Patentabgabe, Renaturierungen und Bewirtschaftungsmassnahmen.
 
-<sup>3</sup> Der Abschluss von Verträgen über die Fischerei in interkantonalen Gewässern obliegt dem Regierungsrat. Er kann die Befugnis an die Volkswirtschaftsdirektion übertragen.
+<sup>3</sup> Der Abschluss von Verträgen über die Fischerei in interkantonalen Gewässern obliegt dem Regierungsrat. Er kann die Befugnis an die Wirtschafts-, Energie- und Umweltdirektion übertragen.
 
 #### Art. 68
 
@@ -724,7 +726,7 @@ beschliesst:
 - c allgemeine zeitliche Beschränkungen der Ausübung der Fischerei,
 - d die Gewährung von Beiträgen,
 - e Fang- und Bewirtschaftungsbeschränkungen sowie Fischereiverbote zum Schutz der gefährdeten Arten und Rassen sowie deren Lebensräume,
-- f die Vorbereitung und Durchführung von Massnahmen für Neuanlagen gemäss Artikel 9 Absatz 1 des Bundesgesetzes über die Fischerei[^68-1] sowie von Verbesserungs- und Wiederherstellungsmassnahmen,
+- f die Vorbereitung und Durchführung von Massnahmen für Neuanlagen gemäss Artikel 9 Absatz 1 des Bundesgesetzes vom 21. Juni 1991 über die Fischerei (BGF)[^68-1] sowie von Verbesserungs- und Wiederherstellungsmassnahmen,
 - g Fanggeräte und -methoden, einschliesslich der Grundsätze über die Festlegung der Anzahl der von den Berufsfischern einzusetzenden Fanggeräte,
 - h die Schongebiete,
 - i Fangzahlbeschränkungen,
@@ -740,15 +742,15 @@ beschliesst:
 - t die Modalitäten der Patentausgabe und
 - u die Erbringung des Nachweises für geleistete Hegearbeit und die Höhe des Hegebeitrags.
 
-<sup>3</sup> Er kann seine Befugnisse gemäss Absatz 2 Buchstaben e bis u an die Volkswirtschaftsdirektion übertragen.
+<sup>3</sup> Er kann seine Befugnisse gemäss Absatz 2 Buchstaben e bis u an die Wirtschafts-, Energie- und Umweltdirektion übertragen.
 
-[^68-1]: SR 923.0
+[^68-1]: SR [923.0](https://db.clex.ch/link/Bund/923.0/de)
 
 #### Art. 69
 
 **Verwaltungsrechtspflege**
 
-<sup>1</sup> Verfügungen, welche von der zuständigen Stelle der Volkswirtschaftsdirektion, gestützt auf die Fischereigesetzgebung erlassen werden, unterliegen der Beschwerde an die Volkswirtschaftsdirektion.
+<sup>1</sup> Verfügungen, welche von der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion gestützt auf die Fischereigesetzgebung erlassen werden, unterliegen der Beschwerde an die Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> …
 
