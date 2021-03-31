@@ -4,13 +4,13 @@ number: "935.90"
 title: Gesetz über das Prostitutionsgewerbe
 short: PGG
 language: de
-version: 2013-04-01
-valid_until: 2021-03-31
-version_adopted: 2012-06-07
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2012-06-07
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.90"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/615/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2241/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/615/pdf_file"
 
 (PGG)
 
-vom 07.06.2012 (Stand 01.04.2013)
+vom 07.06.2012 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -211,7 +211,7 @@ beschliesst:
 
 **Bereitstellung von Angeboten**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt Angebote zur Prävention und zur gesundheitlichen und sozialen Betreuung für Personen bereit, die im Kanton die Prostitution ausüben.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt Angebote zur Prävention und zur gesundheitlichen und sozialen Betreuung für Personen bereit, die im Kanton die Prostitution ausüben.
 
 <sup>2</sup> Im Übrigen gelten die Bestimmungen des SHG.
 
@@ -286,7 +286,7 @@ beschliesst:
 <sup>1</sup> Die Bewilligungsbehörde kann die von ihr nach diesem Gesetz bearbeiteten Daten durch ein elektronisches Abrufverfahren den folgenden Stellen zugänglich machen:
 
 - a der Kantonspolizei,
-- b der für den Bereich der Migration zuständigen Stelle der Polizei- und Militärdirektion,
+- b der für den Bereich der Migration zuständigen Stelle der Sicherheitsdirektion,
 - c den zum Vollzug dieses Gesetzes zuständigen Stellen der Gemeinden,
 - d den Leistungserbringern gemäss Artikel 58 Absatz 2 SHG, die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen.
 
@@ -326,7 +326,7 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Verfügungen der Regierungsstatthalterinnen und Regierungsstatthalter, die gestützt auf dieses Gesetz erlassen werden, kann bei der Polizei- und Militärdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen der Regierungsstatthalterinnen und Regierungsstatthalter, die gestützt auf dieses Gesetz erlassen werden, kann bei der Sicherheitsdirektion Beschwerde geführt werden.
 
 <sup>2</sup> Beschwerden gegen Verfügungen gemäss Artikel 13 Absatz 1 kommt keine aufschiebende Wirkung zu, sofern in der Verfügung nichts anderes angeordnet wird.
 

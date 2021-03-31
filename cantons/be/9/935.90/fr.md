@@ -4,13 +4,13 @@ number: "935.90"
 title: Loi sur l’exercice de la prostitution
 short: LEP
 language: fr
-version: 2013-04-01
-valid_until: 2021-03-31
-version_adopted: 2012-06-07
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2012-06-07
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.90"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/615/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2241/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/615/pdf_file"
 
 (LEP)
 
-du 07.06.2012 (état au 01.04.2013)
+du 07.06.2012 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -211,7 +211,7 @@ arrête:
 
 **Offres**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale propose des offres de prévention et d’assistance sanitaire et sociale pour les personnes exerçant la prostitution dans le canton de Berne.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration propose des offres de prévention et d’assistance sanitaire et sociale pour les personnes exerçant la prostitution dans le canton de Berne.
 
 <sup>2</sup> Au surplus, les dispositions de la LASoc sont applicables.
 
@@ -286,7 +286,7 @@ arrête:
 <sup>1</sup> L’autorité compétente pour l’autorisation peut, par une procédure d’appel informatisée, mettre les données traitées en vertu de la présente loi à la disposition des organes suivants:
 
 - a la Police cantonale,
-- b le service de la Direction de la police et des affaires militaires compétent en matière d’immigration,
+- b le service de la Direction de la sécurité compétent en matière d’immigration,
 - c les services communaux compétents pour l’application de la présente loi,
 - d les fournisseurs de prestations au sens de l’article 58, alinéa 2 LASoc, exécutant des tâches en vertu de l’article 71, lettre e LASoc.
 
@@ -326,7 +326,7 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions rendues par les préfets et préfètes en vertu de la présente loi peuvent être contestées par un recours adressé à la Direction de la police et des affaires militaires.
+<sup>1</sup> Les décisions rendues par les préfets et préfètes en vertu de la présente loi peuvent être contestées par un recours adressé à la Direction de la sécurité.
 
 <sup>2</sup> Le recours formé contre une décision fondée sur l’article 13, alinéa 1 n’a pas d’effet suspensif, à moins que la décision n’en dispose autrement.
 
