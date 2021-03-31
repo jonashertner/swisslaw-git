@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2019-05-06
+version: 2021-04-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20190506/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20190506-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20190506/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 6. Mai 2019)
+vom 6. Dezember 2013 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -211,10 +211,11 @@ Für die Geschäftsplanung sowie für Tests, Systemoptimierungen und Schulungen 
 Die Datensicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
-- b. der Bundesinformatikverordnung vom 9. Dezember 2011[^14-2].
+- b.[^14-2] der Cyberrisikenverordnung vom 27. Mai 2020[^14-3].
 
 [^14-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^14-2]: Fassung gemäss Anhang Ziff. 20 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## 3. Abschnitt: Datenbearbeitung in anderen Informationssystemen
 
@@ -425,6 +426,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)konsultiert werden.

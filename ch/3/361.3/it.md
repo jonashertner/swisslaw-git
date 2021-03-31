@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2019-05-06
+version: 2021-04-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20190506/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20190506-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20190506/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 6 maggio 2019) (Stato 6 maggio 2019)
+del 6 dicembre 2013 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -211,10 +211,11 @@ Per la pianificazione nonché per test, ottimizzazioni del sistema e formazioni 
 La sicurezza dei dati è retta da:
 
 - a. l’ordinanza del 14 giugno 1993[^14-1] relativa alla legge federale sulla protezione dei dati;
-- b. l’ordinanza del 9 dicembre 2011[^14-2] sull’informatica nell’Amministrazione federale.
+- b.[^14-2] l’ordinanza del 27 maggio 2020[^14-3] sui ciber-rischi.
 
 [^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^14-2]: Nuovo testo giusta l’all. n. 20 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## Sezione 3: Trattamento dei dati in altri sistemi d’informazione
 

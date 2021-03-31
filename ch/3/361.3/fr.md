@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2019-05-06
+version: 2021-04-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20190506/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20190506-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20190506/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (Etat le 6 mai 2019)
+du 6 décembre 2013 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -30,7 +30,7 @@ arrête:
 
 **Objet et but**
 
-<sup>1</sup> La présente ordonnance règle le traitement des données signalétiques biométriques par l’Office fédéral de la police (fedpol) et par le Secrétariat d’Etat aux migrations (SEM).[^1-1]
+<sup>1</sup> La présente ordonnance règle le traitement des données signalétiques biométriques par l’Office fédéral de la police (fedpol) et par le Secrétariat d’État aux migrations (SEM).[^1-1]
 
 <sup>2</sup> Le traitement des données signalétiques biométriques a pour but de permettre aux autorités fédérales et cantonales d’identifier des personnes vivantes ou décédées, d’identifier les traces relevées sur les lieux d’une infraction et d’établir des liens entre plusieurs infractions.
 
@@ -211,10 +211,11 @@ Des données pseudonymisées peuvent être traitées à des fins de planificatio
 La sécurité des données est garantie par:
 
 - a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
-- b. l’ordonnance du 9 décembre 2011 sur l’informatique et la télécommunication dans l’administration fédérale[^14-2].
+- b.[^14-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-3].
 
 [^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^14-2]: Nouvelle teneur selon l’annexe ch. 20 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## Section 3 Traitement des données dans d’autres systèmes d’information
 
