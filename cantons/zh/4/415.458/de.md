@@ -4,291 +4,296 @@ number: "415.458"
 title: Habilitationsordnung der Philosophischen Fakultät der Universität Zürich (HabilO PhF)
 short: HabilO PhF
 language: de
-nachtrag: "41"
-valid_until: 2021-04-01
+nachtrag: "112"
 adopted: 2020-11-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_458-2002_11_25-2003_01_01-041.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_458-2020_11_06-2021_04_01-112.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Habilitationsordnung der Philosophischen Fakultät der Universität Zürich
+# Habilitationsordnung der Philosophischen Fakultät der Universität Zürich (HabilO PhF)
 
-**415.458**
+(vom 6. November 2020)[^t-1]
 
-Habilitationsordnung – Philosophische Fakultät
+Die Fakultätsversammlung,
 
-(vom 25. November 2002)<sup>1</sup>
+gestützt auf § 34 Abs. 3 Ziff. 2 des Universitätsgesetzes vom 15. März 1998 (UniG)[^t-2] und § 27 Abs. 1 der Rahmenverordnung über die Habilitation der Universität Zürich vom 16. Dezember 2019 (RVO Habil)[^t-3],
 
-### 1. Teil: Präambel
+beschliesst:
+
+[^t-1]: OS 76, 97; Begründung siehe ABl 2021-02-12.
+[^t-2]: LS 415.11.
+[^t-3]: LS 415.23.
+
+### A. Allgemeine Bestimmungen
 
 #### § 1
 
-Wissenschaftlich durch ihre Dissertation ausgewiesene Personen werden mit der Habilitation zu Privatdozentinnen oder Privatdozenten ernannt. Sie erhalten damit die Lehrbefugnis (Venia Legendi). Die Universitätsordnung<sup>2</sup> regelt Rechte und Pflichten der Privatdozentinnen und Privatdozenten.
+**Regelungsbereich**
+
+<sup>1</sup> Diese Habilitationsordnung setzt die Rahmenverordnung über die Habilitation an der Universität Zürich (RVO Habil) für die Philosophische Fakultät um.
+
+<sup>2</sup> Sie regelt die spezifischen Voraussetzungen zur Erlangung der Venia Legendi für ein bestimmtes Lehrgebiet an der Philosophischen Fakultät.
+
+<sup>3</sup> Soweit diese Habilitationsordnung keine Bestimmungen enthält, gilt unmittelbar die RVO Habil.
 
 #### § 2
 
-Die Venia Legendi wird auf unbegrenzte Zeit erteilt.
+**Voraussetzungen für die Habilitation an der Philosophischen Fakultät**
 
-Die Fakultät überprüft mindestens alle sechs Jahre, ob die Voraussetzungen für die Venia Legendi noch erfüllt sind.
+<sup>1</sup> Neben den Voraussetzungen nach § 5 Abs.1 RVO Habil wird für eine Habilitation zusätzlich ein Bezug zur Philosophischen Fakultät der Universität Zürich (UZH) verlangt.
 
-#### § 3
+<sup>2</sup> Dieser Bezug kann insbesondere bestehen aus:
 
-Die Lehrbefugnis erlischt durch Rücktritt oder Entzug. Die Venia Legendi und der mit ihr verbundene Titel können entzogen werden, wenn die Inhaberin oder der Inhaber ihren bzw. seinen Pflichten nicht mehr zureichend nachkommt oder die Interessen der Universität anderweitig ernsthaft verletzt.
+- a. einer Tätigkeit an der UZH innerhalb der letzten fünf Jahre,
 
-#### § 4
+- b. einer Forschungskooperation mit mindestens einer Fachvertreterin oder einem Fachvertreter aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren, der Assistenzprofessorinnen und -professoren sowie der Förderungsprofessorinnen und -professoren,
 
-Das Habilitationsverfahren dient zur Überprüfung der Befähigung, ein Fach in Forschung und Lehre an der Universität zu vertreten.
-
-#### § 5
-
-Als Fächer gelten in der Regel die in der Prüfungsordnung über das Lizenziat der Philosophischen Fakultät der Universität Zürich<sup>3</sup> genannten Haupt- und Nebenfächer.
-
-Dekan oder Dekanin, Prodekan oder Prodekanin sowie Fachvertreter oder Fachvertreterinnen sind im Rahmen ihrer Kompetenzbereiche zur Orientierung der Habilitandin oder des Habilitanden verpflichtet.
-
-Falls die Habilitation für ein Teilgebiet aus einem dieser Fächer, für eine fächerübergreifende Disziplin oder ein an der Fakultät bisher nicht vertretenes Fach angestrebt wird, ist vor der Einreichung des Gesuches ein Gespräch mit dem zuständigen Prodekan oder der zuständigen Prodekanin zu führen.
+- c. einer Unterstützung des Habilitationsgesuchs durch mindestens zwei Fachvertreterinnen oder Fachvertreter oder fachnahen Vertreterinnen oder Vertretern aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren, der Assistenzprofessorinnen und -professoren sowie der Förderungsprofessorinnen und -professoren.
 
 **1**
 
-- 1\. 1. 03 - 39
+- 1\. 4. 21 - 112
 
-## 415.458 Habilitationsordnung – Philosophische Fakultät
+<sup>3</sup> Sind die Anforderungen für die Durchführung des Habilitationsverfahrens offensichtlich nicht erfüllt, wird mit begründetem Entscheid der Dekanin oder des Dekans auf das Habilitationsgesuch nicht eingetreten.
+
+#### § 3
+
+**Habilitationsgesuch**
+
+<sup>1</sup> Mit der Einreichung des Habilitationsgesuchs an die Dekanin oder den Dekan der Philosophischen Fakultät wird das Habilitationsverfahren eröffnet.
+
+<sup>2</sup> Die Habilitationsschrift muss sowohl auf Papier als auch in digitaler Form eingereicht werden.
+
+<sup>3</sup> Mit dem Habilitationsgesuch ist eine Erklärung einzureichen, dass die Habilitationsschrift eigenständig erarbeitet worden ist und dass sämtliche Rechte anderer Autorinnen und Autoren gewahrt werden.
+
+<sup>4</sup> Die weiteren Vorgaben für die Einreichung des Habilitationsgesuchs einschliesslich der Angaben zur Anzahl der einzureichenden Papierexemplare werden in einem Merkblatt aufgeführt.
+
+<sup>5</sup> Die Fakultät kann weitere Unterlagen verlangen.
+
+### B. Habilitationskommission
+
+#### § 4
+
+**Einsetzung**
+
+<sup>1</sup> Die Habilitationskommission ist eine nicht ständige Kommission der Fakultät.
+
+<sup>2</sup> Sie wird für das jeweilige Habilitationsverfahren auf Vorschlag der zuständigen Prodekanin oder des zuständigen Prodekans durch den Fakultätsvorstand eingesetzt.
+
+#### § 5
+
+**Zusammensetzung der Habilitationskommission**
+
+<sup>1</sup> Die Habilitationskommission setzt sich aus mindestens zwei Mitgliedern und einer Präsidentin oder einem Präsidenten zusammen.
+
+<sup>2</sup> Die Mitglieder sowie die Präsidentin oder der Präsident entstammen dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren, der Assistenzprofessorinnen und -professoren sowie der Förderungsprofessorinnen und -professoren.
+
+<sup>3</sup> Die Mitglieder zeichnen sich durch einen Bezug zu dem Fachgebiet aus, für das die Venia Legendi beantragt wird.
 
 #### § 6
 
-Grundlagen der Beurteilung bilden die Habilitationsschrift oder eine Reihe ihr entsprechender wissenschaftlicher Abhandlungen, ein Probevortrag oder eine ihm entsprechende Form der Lehrveranstaltung und ein daran anschliessendes Kolloquium.
+**Aufgaben der Habilitationskommission**
+
+<sup>1</sup> Die Habilitationskommission hat insbesondere folgende Aufgaben: Sie a. entscheidet über die externen Gutachterinnen und Gutachter und bestellt diese,
+
+- b. gewährleistet den Kontakt zu den Gutachterinnen und Gutachtern,
+
+- c. stellt zuhanden der Dekanin oder des Dekans Antrag über eine allfällige Rückweisung der Habilitationsschrift zur Überarbeitung leichter Mängel,
+
+- d. erarbeitet ein Kommissionsgutachten zuhanden der Fakultätsversammlung,
+
+- e. unterbreitet der Fakultätsversammlung einen Vorschlag für die zu erteilende Venia Legendi und Antragstellung auf Ernennung zur Privatdozentin oder zum Privatdozenten zuhanden der Erweiterten Universitätsleitung,
+
+- f. holt die Themenvorschläge für die mündliche Habilitationsleistung bei der Habilitandin oder dem Habilitanden ein; sie kann diese in begründeten Fällen zurückweisen und die Einreichung neuer oder überarbeiteter Themenvorschläge verlangen,
+
+- g. teilt die Themenvorschläge der Dekanin oder dem Dekan gegebenenfalls mit einem Vorschlag des bevorzugten Themas mit.
+
+<sup>2</sup> Die Habilitationskommission ist zuständig für alle Aufgaben, die mit der Habilitation zusammenhängen und für die kein anderes Organ zuständig ist.
 
 #### § 7
 
-Zusätzliche wissenschaftliche Qualifikationen der um die Habilitation sich Bewerbenden können in die Beurteilung einbezogen werden.
+**Zuständigkeit der Präsidentin oder des Präsidenten der Habilitationskommission**
+
+<sup>1</sup> Die Präsidentin oder der Präsident ist für die Organisation und Führung des Verfahrens zuständig und vertritt die Kommission gegenüber der Habilitandin oder dem Habilitanden sowie der Fakultät.
+
+<sup>2</sup> Die einzelnen Aufgaben der Präsidentin oder des Präsidenten werden vom Fakultätsvorstand in einem Merkblatt definiert.
+
+[^7-1]: LS 175.2.
 
 #### § 8
 
-Die Fakultätsversammlung entscheidet bei Umhabilitierungen darüber, ob auf eine Habilitationsschrift oder eine entsprechende kumulative schriftliche Habilitationsleistung verzichtet werden kann, wenn sich die Bewerbenden bereits an einer anderen Hochschule unter vergleichbaren Bedingungen für das Fachgebiet habilitiert haben, für das sie sich an der Universität Zürich bewerben.
+**Ausstand**
 
-### 2. Teil: Habilitationsgesuch
+Das Vorliegen sowie die Folgen einer allfälligen Befangenheit richten sich nach § 5 a des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959 (VRG)[^7-1].
 
-#### § 9
+### C. Habilitation
 
-Das Habilitationsgesuch ist unter genauer Bezeichnung des Fachgebiets, für das die Venia Legendi erteilt werden soll, an das Dekanat der Philosophischen Fakultät zu richten.
+- 1\. Habilitationsschrift
 
-#### § 10
+**Voraussetzungen**
 
-Lebenslauf, Publikationsverzeichnis, Habilitationsschrift oder die an ihrer Stelle kumulativ eingereichten wissenschaftlichen Abhandlungen in mindestens vier Exemplaren, allfällige weitere Publikationen sowie gegebenenfalls ein Nachweis der bisherigen Lehrtätigkeit sind dem Gesuch beizufügen.
+§ 9. <sup>1</sup> Das Thema der Habilitationsschrift muss sich vom Thema der Dissertation unterscheiden.
 
-#### § 11
+<sup>2</sup> Die Habilitationsschrift kann als Ganzes oder in Teilen bereits veröffentlicht sein.
 
-Falls die Habilitationsschrift oder die zur kumulativen Habilitation vorgelegte Auswahl von Arbeiten schon an einer anderen Universität eingereicht wurde, ist dies im Gesuch zu vermerken.
-
-### 3. Teil: Schriftliche Habilitationsleistung
-
-### 1. Abschnitt: Habilitationsschrift
-
-#### § 12
-
-Die Habilitationsschrift soll einen selbstständigen wissenschaftlichen Beitrag zu einem zusammenhängenden Thema aus dem Fachgebiet bilden, für das die Venia Legendi angestrebt wird; sie darf als Ganzes oder in Teilen bereits veröffentlicht sein.
-
-Das Thema muss sich in der Regel von dem der Dissertation deutlich unterscheiden.
+<sup>3</sup> Werden eigene bereits veröffentlichte Schriften als Habilitationsschrift verwendet, ist der Nachweis ihres ursprünglichen Erscheinungsortes erforderlich.
 
 **3**
 
-2 Habilitationsordnung – Philosophische Fakultät
+- 1\. 4. 21 - 112
 
-**415.458**
+<sup>4</sup> Eine Habilitationsschrift oder eine andere Qualifikationsarbeit, die bereits an einer anderen Universität oder Hochschule zum Zweck der Erlangung eines akademischen Grades eingereicht worden ist, wird nicht als Habilitationsschrift oder als Teil einer Habilitationsschrift entgegengenommen. Vorbehalten bleibt § 22 Abs. 2.
 
-§ 13. Bei der Beurteilung wird besonders darauf geachtet, dass der wissenschaftliche Beitrag internationalem Vergleich standhält, neue Ergebnisse und Erkenntnisse enthält und mit Bezug auf Materialgrundlage, Quellenerschliessung, Methodik, Theoriediskussion und Darstellung überzeugt.
+#### § 10
 
-### 2. Abschnitt: Kumulative Habilitation
+**Kumulative Habilitation**
+
+<sup>1</sup> Die Übersicht gemäss § 6 Abs. 2 lit. b RVO Habil enthält a. eine ausführliche Beschreibung des übergeordneten Forschungszusammenhangs, in den die einzelnen Abhandlungen eingebettet sind, und b. eine Begründung, inwiefern die Abhandlungen zur Weiterentwicklung des Forschungsfeldes beitragen.
+
+<sup>2</sup> Die einzelnen Abhandlungen können bei einem Publikationsorgan eingereicht, für die Publikation angenommen oder bereits publiziert sein.
+
+#### § 11
+
+**Koautorschaft**
+
+Wird eine Habilitationsschrift vorgelegt, die vollständig oder in Teilen in Koautorschaft erarbeitet worden ist, muss der eigene Beitrag ausgewiesen werden.
+
+#### § 12
+
+**Gutachten**
+
+<sup>1</sup> Die Habilitationsschrift wird sowohl von der Habilitationskommission als auch von in der Regel zwei externen Gutachterinnen oder Gutachtern begutachtet.
+
+<sup>2</sup> Die Habilitandin oder der Habilitand hat das Recht, im Habilitationsgesuch Vorschläge für externe Gutachterinnen oder Gutachter zu unterbreiten. Diese Vorschläge sind für die Fakultät nicht verbindlich.
+
+#### § 13
+
+**Überarbeitung bei leichten Mängeln**
+
+<sup>1</sup> Weist die Habilitationsschrift kleinere Mängel auf, kann die Dekanin oder der Dekan diese in Absprache mit der Habilitationskommission und unter Ansetzung einer Überarbeitungsfrist zurückgeben. Die Überarbeitung einer Habilitationsschrift mit grösseren Mängeln ist ausgeschlossen.
+
+<sup>2</sup> Die Überarbeitungsfrist dauert in der Regel nicht länger als sechs Monate. Während dieser Zeit wird das Verfahren sistiert.
 
 #### § 14
 
-Innerhalb der Publikationsliste sind diejenigen wissenschaftlichen Abhandlungen, die eine einzelne Habilitationsschrift ersetzen sollen, entsprechend zu kennzeichnen. Zudem ist eine kurz kommentierte, nach thematischen Schwerpunkten gegliederte Übersicht einzureichen.
+**Überarbeitungsverfahren**
+
+<sup>1</sup> Die Habilitationskommission hält alle Mängel an der Habilitationsschrift schriftlich fest, die innerhalb der Überarbeitungsfrist zu beheben sind, und erläutert diese im Rahmen eines Gesprächs mit der Habilitandin oder dem Habilitanden.
+
+<sup>2</sup> Vor Beginn der Überarbeitungsfrist erhält die Habilitandin oder der Habilitand Gelegenheit zur Stellungnahme zu den festgehaltenen Mängeln.
+
+<sup>3</sup> Die überarbeitete Habilitationsschrift ist der Dekanin oder dem Dekan zur Prüfung durch die Habilitationskommission fristgerecht einzureichen.
+
+<sup>4</sup> Wird die Habilitationsschrift nicht fristgerecht eingereicht, beendet die Dekanin oder der Dekan auf Antrag der Habilitationskommission das Habilitationsverfahren.
+
+<sup>5</sup> Wird die Habilitationsschrift auch nach erfolgter Überarbeitung als ungenügend befunden, entscheidet die Fakultätsversammlung auf Antrag der Habilitationskommission über die Ablehnung des Habilitationsgesuchs und die Beendigung des Habilitationsverfahrens. Der Habilitandin oder dem Habilitanden ist zuvor die Gelegenheit einzuräumen, das Habilitationsgesuch zurückzuziehen.
+
+<sup>6</sup> Zieht die Habilitandin oder der Habilitand das Habilitationsgesuch zurück, schreibt die Dekanin oder der Dekan das Habilitationsverfahren als gegenstandslos ab.
 
 #### § 15
 
-Diese Abhandlungen sollen dem wissenschaftlichen Gewicht nach demjenigen einer traditionellen monografischen Habilitationsschrift entsprechen.
+**Entscheid über die schriftliche Habilitationsleistung**
 
-Sie sollen in ausgewiesenen wissenschaftlichen Publikationsorganen erschienen oder zur Publikation angenommen sein.
+<sup>1</sup> Die Fakultätsversammlung entscheidet gestützt auf die Gutachten über die Annahme oder Ablehnung der schriftlichen Habilitationsleistung sowie über das Fachgebiet, für das die Venia Legendi erteilt werden soll.
+
+<sup>2</sup> Eine Rückweisung der Habilitationsschrift zur Überarbeitung ist nicht mehr zulässig.
 
 #### § 16
 
-Thematisch sollen die Abhandlungen entweder ein neben der Dissertation zweites Forschungsfeld durch mehrere Beiträge gründlich erschliessen oder wissenschaftliche Breite dokumentieren, indem sie Themen aus verschiedenen Bereichen der angestrebten Venia Legendi punktuell behandeln. Ausserdem soll eine konzeptionelle Eigenleistung sichtbar sein.
+**Kontrolle auf ein Plagiat**
+
+<sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere die Einreichung einer Habilitationsschrift, die nicht selbstständig verfasst wurde, die Fälschung von Daten oder die Übernahme von Texten von anderen Autorinnen oder Autoren ohne entsprechende Quellenangabe (Plagiat).
+
+<sup>2</sup> Habilitationsschriften können zum Zweck der Überprüfung auf ein Plagiat unter Einsatz der von der UZH zur Verfügung gestellten Software bearbeitet werden.
+
+<sup>3</sup> Liegt ein begründeter Verdacht auf ein Plagiat vor, stellt die Dekanin oder der Dekan Antrag auf Durchführung eines Verfahrens zur Feststellung eines wissenschaftlichen Fehlverhaltens nach der Verordnung über den Umgang mit wissenschaftlichem Fehlverhalten an der Universität Zürich vom 25. Mai 2020 (Integritätsverordnung)[^16-1].
+
+[^16-1]: LS 415.27.
 
 #### § 17
 
-Soweit es sich um Gemeinschaftspublikationen handelt, muss die erbrachte Eigenleistung erkenn- und nachweisbar sein.
+**Publikation**
 
-### 4. Teil: Begutachtung der schriftlichen Habilitationsleistung
+<sup>1</sup> Die Habilitandin oder der Habilitand ist verpflichtet, die Habilitationsschrift nach der Verleihung der Venia Legendi zu publizieren, soweit sie nicht bereits als Ganzes oder in Teilen veröffentlicht ist.
 
-#### § 18
-
-Der Prodekan oder die Prodekanin für Personelles schlägt in Zusammenwirken mit dem Dekan oder der Dekanin zum Zweck der Begutachtung der schriftlichen Habilitationsleistung aus der Professorenschaft der Fakultät eine Kommission vor, die aus mindestens zwei Mitgliedern und einer Präsidentin oder einem Präsidenten besteht. Diese gewährleisten zugleich den Kontakt mit den um die Habilitation sich Bewerbenden, denen nach Einsetzung durch die Fakultätsversammlung die Namen der Kommissionsmitglieder bekannt gegeben werden.
-
-- 1\. 1. 03 - 39
-
-## 415.458 Habilitationsordnung – Philosophische Fakultät
-
-#### § 19
-
-Zur Beurteilung der schriftlichen Habilitationsleistung kann auf Antrag der um die Habilitation sich Bewerbenden an die Fakultätsversammlung ein externes Gutachten eingeholt werden. Externe Gutachten müssen eingeholt werden, falls das Fach der Habilitation in der Fakultät nicht oder nur durch eine Person vertreten ist, ferner falls der Fakultätsversammlung aus der Kommission in der Bewertung abweichende Gutachten vorgelegt werden.
-
-#### § 20
-
-Die um eine Habilitation sich Bewerbenden haben die Möglichkeit, zur Nominierung der externen Gutachterinnen oder Gutachter Vorschläge zu machen, die für die Fakultät nicht verbindlich sind. Ferner können sie ein zusätzliches Kommissionsmitglied schriftlich begründet vorschlagen.
-
-Diese Vorschläge werden nur innerhalb einer Woche unmittelbar nach Einsetzung der Kommission und Bekanntgabe ihrer Zusammensetzung entgegengenommen.
-
-Die Begründung einer Ablehnung der Vorschläge durch die Kommission ist zu den Akten zu nehmen. Der Name der von der Kommission mit einem externen Gutachten beauftragten Persönlichkeit wird der Habilitandin oder dem Habilitanden mitgeteilt.
-
-#### § 21
-
-Die Kommission erarbeitet ein Gutachten zuhanden der Fakultätsversammlung.
-
-Die Präsidentin oder der Präsident der Kommission erstattet der Fakultätsversammlung Bericht; diese entscheidet auf Antrag der Kommission, ob die schriftliche Habilitationsleistung zu akzeptieren oder abzulehnen ist.
-
-Eine Habilitationsschrift kann durch Fakultätsbeschluss zum Zweck der Überarbeitung zurückgegeben werden.
-
-#### § 22
-
-Der Kommissionsantrag an die Fakultätsversammlung soll möglichst in dem Semester gestellt werden können, das auf die Entgegennahme des Gesuchs durch die Fakultät folgt. Das Habilitationsverfahren ist in der Regel spätestens ein Jahr nach Einreichen des Habilitationsgesuchs abzuschliessen.
-
-#### § 23
-
-Gesuche um Akteneinsicht sind an die zuständige Instanz zu richten. Bis zur Antragstellung an die Erweiterte Universitätsleitung auf Erteilung oder Nichterteilung der Venia Legendi ist die Fakultät, danach die Erweiterte Universitätsleitung zuständig.
-
-Die Akteneinsicht wird in der Regel erst nach Eröffnung des Entscheides der Erweiterten Universitätsleitung gewährt.
+<sup>2</sup> Die Publikation der Habilitationsschrift erfolgt in dem von der UZH zur Verfügung gestellten Repositorium und gilt als erfolgt, sobald diese im Repositorium aufgenommen worden ist.
 
 **5**
 
-4 Habilitationsordnung – Philosophische Fakultät
+- 1\. 4. 21 - 112
 
-**415.458**
+<sup>3</sup> Bei einer weiteren Verwertung der Habilitationsschrift darf kein Druckvermerk angefügt werden, der diese als schriftliche Habilitationsleistung an der Philosophischen Fakultät kenntlich macht.
 
-Die zuständige Instanz kann bei Vorliegen von wichtigen Gründen die Akteneinsicht beschränken und die Bekanntgabe der Namen der Gutachterinnen und Gutachter verweigern.
+#### § 18
 
-#### § 24
+**Sperrfrist**
 
-Im Falle einer Rückgabe der Habilitationsschrift zum Zweck der Überarbeitung lädt die Präsidentin oder der Präsident der Kommission die Habilitandin oder den Habilitanden zu einer Aussprache mit der Kommission ein, um Kritik darzulegen und eine schriftliche Liste der wichtigsten Änderungswünsche zu unterbreiten. Für die Abfassung dieser Liste bestimmt die Präsidentin oder der Präsident ein Kommissionsmitglied.
+<sup>1</sup> Die Dekanin oder der Dekan kann auf Antrag einer Habilitandin oder eines Habilitanden die partielle oder vollständige Sperrung des Inhalts der Habilitationsschrift in dem von der UZH zur Verfügung gestellten Repositorium für eine Frist von drei Jahren bewilligen.
 
-Eine Annahme des Angebots zur Überarbeitung sistiert das Verfahren; die Wiedereinreichung der überarbeiteten Fassung der Habilitationsschrift erfolgt beim Dekanat.
+<sup>2</sup> Der Name der Habilitandin oder des Habilitanden sowie der Titel der Habilitationsschrift können nicht gesperrt werden.
 
-Wird von dem Angebot zur Überarbeitung kein Gebrauch gemacht oder wird die überarbeitete Fassung zurückgewiesen, stellt die Fakultätsversammlung Antrag auf Ablehnung des Habilitationsgesuchs.
+<sup>3</sup> Die Dekanin oder der Dekan kann diese Frist auf begründeten Antrag einmal um weitere drei Jahre verlängern oder ausnahmsweise eine zeitlich unbeschränkte Sperrung bewilligen, sofern ein wichtiger Grund nachgewiesen wird.
 
-#### § 25
+<sup>4</sup> Ein wichtiger Grund liegt insbesondere dann vor, wenn ein Verlag die Publikation in dem von der UZH zur Verfügung gestellten Repositorium nicht erlaubt.
 
-Wird die Venia Legendi von der Erweiterten Universitätsleitung nicht erteilt oder erfolgt ein Rückzug des Habilitationsgesuchs durch die Habilitandin oder den Habilitanden nach Antragstellung der Fakultätsversammlung auf Nichterteilung der Venia Legendi, kann die eingereichte Habilitationsschrift in einem neuen Habilitationsverfahren an der Universität Zürich nicht mehr verwendet werden.
+- 2\. Mündliche Habilitationsleistung
 
-### 5. Teil: Mündliche Habilitationsleistung
+**Voraussetzungen und Inhalt**
 
-#### § 26
+§ 19. <sup>1</sup> Voraussetzung für die Zulassung zur mündlichen Habilitationsleistung ist die Annahme der Habilitationsschrift durch die Fakultätsversammlung.
 
-Der Probevortrag oder eine an seine Stelle tretende Lehrveranstaltung soll ein abgegrenztes Thema auf wissenschaftlichem Niveau allgemeinverständlich darlegen und die Möglichkeit bieten, didaktische Fähigkeiten unter Beweis zu stellen.
+<sup>2</sup> Die mündliche Habilitationsleistung besteht aus einem Probevortrag und einem anschliessenden Kolloquium. Der Probevortrag soll ein abgegrenztes Thema auf wissenschaftlichem Niveau allgemeinverständlich darlegen.
 
-Drei schriftlich kommentierte Themen für den Probevortrag sind auf Aufforderung der Präsidentin oder des Präsidenten der Kommission fristgemäss einzureichen.
+<sup>3</sup> Wird die mündliche Habilitationsleistung abgelehnt, kann sie einmal mit einem neuen Thema wiederholt werden.
 
-Keines der Themen darf in grosser Nähe zu den thematischen Schwerpunkten der schriftlichen Habilitationsleistung liegen.
+#### § 20
 
-#### § 27
+**Auswahl des Themas**
 
-Bei Umhabilitationen wird die Bewerberin oder der Bewerber zu einem Probevortrag und Kolloquium vor der Fakultätsversammlung eingeladen.
+<sup>1</sup> Die Habilitandin oder der Habilitand schlägt der Fakultätsversammlung drei schriftlich kommentierte Themen für die mündliche Habilitationsleistung vor.
 
-- 1\. 1. 03 - 39
+<sup>2</sup> Die Fakultätsversammlung wählt das Thema aus.
 
-## 415.458 Habilitationsordnung – Philosophische Fakultät
+<sup>3</sup> Die Themen der mündlichen Habilitationsleistung dürfen nicht in grosser Nähe zu den thematischen Schwerpunkten der Habilitationsschrift liegen.
 
-#### § 28
+<sup>4</sup> Die Fakultätsversammlung kann einzelne oder alle vorgeschlagenen Themen zurückweisen und die Einreichung neuer Themenvorschläge verlangen.
 
-Wird die schriftliche Habilitationsleistung von der Fakultätsversammlung akzeptiert, wählt diese in gleicher Sitzung eines der drei Themen für den Probevortrag aus.
+<sup>5</sup> Das Thema wird der Habilitandin oder dem Habilitanden mindestens drei und höchstens vier Wochen vor dem Termin der mündlichen Habilitationsleistung durch die Dekanin oder den Dekan schriftlich mitgeteilt.
 
-Die Fakultätsversammlung hat das Recht, einzelne oder alle vorgeschlagenen Themen zurückzuweisen und die Einreichung neuer Themenvorschläge zu verlangen.
+#### § 21
 
-Die Kommission kann der Fakultätsversammlung ein Thema empfehlen.
+**Durchführung**
 
-Zur Wahrung der Chancengleichheit wird das gewählte Thema den zur Habilitation Zugelassenen mindestens drei, jedoch nicht früher als vier Wochen vor dem Termin des Probevortrags durch das Dekanat schriftlich mitgeteilt.
+<sup>1</sup> Die mündliche Habilitationsleistung besteht aus einem 25 Minuten dauernden Probevortrag und einem daran anschliessenden rund 25 Minuten dauernden Kolloquium vor der Fakultätsversammlung. Das Kolloquium wird von der zuständigen Prodekanin oder dem zuständigen Prodekan geleitet.
 
-#### § 29
+<sup>2</sup> Bereits zur Habilitation zugelassene Personen können als Zuhörerinnen oder Zuhörer am Probevortrag und am Kolloquium teilnehmen.
 
-Die um eine Habilitation sich Bewerbenden halten vor der Fakultätsversammlung einen 25 Minuten dauernden Probevortrag. Bereits zur Habilitation Zugelassene haben ebenfalls das Recht, an Probevorträgen und Kolloquien teilzunehmen.
+<sup>3</sup> Im Anschluss an das Kolloquium finden Aussprache und Abstimmung der Fakultätsversammlung über den Probevortrag und das Kolloquium statt. Den Delegierten der Stände steht das Stimmrecht zu, sofern sie habilitiert sind.
 
-#### § 30
+<sup>4</sup> Der Entscheid der Fakultätsversammlung über Annahme oder Ablehnung der mündlichen Habilitationsleistung wird der Habilitandin oder dem Habilitanden mündlich eröffnet und schriftlich mitgeteilt.
 
-Der Dekan oder die Dekanin leitet das an den Probevortrag anschliessende Kolloquium, das nicht länger als 25 Minuten dauern soll.
+#### § 22
 
-#### § 31
+**Umhabilitation**
 
-Für die Beurteilung des Kolloquiums sind weniger Einzelkenntnisse entscheidend als Gesprächsführung, argumentative Beweglichkeit, Überblick über methodische und inhaltliche Zusammenhänge, sowie kritische Stellungnahme dazu.
+<sup>1</sup> Für eine Umhabilitation ist sowohl eine Habilitationsschrift als auch eine mündliche Habilitationsleistung erforderlich. Das Verfahren der Umhabilitation entspricht mit Ausnahme von Abs. 2 demjenigen einer Habilitation.
 
-#### § 32
+<sup>2</sup> Die Habilitationsschrift kann bei einer Umhabilitation aus einer Schrift bestehen, die an einer anderen Universität bereits für eine Habilitation angenommen worden ist. Diese kann mit weiteren Schriften ergänzt werden.
 
-Nach dem Kolloquium finden Aussprache und Abstimmung über Probevortrag und Kolloquium statt. Bei der Beschlussfassung wirken die Delegierten der Stände nur dann mit, wenn sie die entsprechende Prüfung abgelegt haben.
+### D. Schluss- und Übergangsbestimmung
 
-Externe Gutachterinnen und Gutachter können zu Probevortrag, Kolloquium und der Aussprache darüber ohne Stimmrecht eingeladen werden.
+[^hDSchlussundÜber-1]: Von der Erweiterten Universitätsleitung am 2. Februar 2021 genehmigt.
 
-Die Entscheidung der Fakultätsversammlung wird den um die Habilitation sich Bewerbenden sofort nach der Abstimmung durch den Dekan oder die Dekanin mitgeteilt.
+#### § 23
 
-#### § 33
+**Inkrafttreten**
 
-Im Fall einer positiven Beurteilung der Habilitationsleistungen ist durch die Fakultätsversammlung die Venia Legendi festzulegen.
-
-Die Lehrumschreibung soll im Allgemeinen grosszügig sein. Die Möglichkeit der Habilitation soll aber auch für Spezialisierte im engeren Lehrgebiet bestehen.
+Diese Habilitationsordnung tritt unter Vorbehalt der Genehmigung[^hDSchlussundÜber-1] durch die Erweiterte Universitätsleitung am 1. April 2021 in Kraft.
 
 **7**
 
-6 Habilitationsordnung – Philosophische Fakultät
+**Übergangsbestimmung**
 
-**415.458**
-
-Bei Abweichungen der Umschreibung vom Gesuch soll die Frage mit den Betroffenen besprochen werden.
-
-#### § 34
-
-Finden Probevortrag und Kolloquium nicht die Zustimmung der Fakultätsversammlung, erhalten die um eine Habilitation sich Bewerbenden Gelegenheit, im Rahmen des laufenden Verfahrens einen neuen Probevortrag zu halten. Dazu muss spätestens bis zum Beginn des folgenden Semesters eine Liste mit drei neuen Themenvorschlägen eingereicht werden.
-
-#### § 35
-
-Erklären die Habilitandin oder der Habilitand ihren Verzicht auf diese Möglichkeit oder lassen die gesetzte Frist ohne triftigen Grund verstreichen, wird durch die Fakultätsversammlung Antrag an die Erweiterte Universitätsleitung auf Ablehnung des Habilitationsgesuchs gestellt.
-
-### 6. Teil: Rechte und Pflichten nach Abschluss des Habilitationsverfahrens
-
-#### § 36
-
-Die eingereichten Unterlagen und Gutachten werden nach Abschluss des Habilitationsverfahrens während zehn Jahren vom Dekanat aufbewahrt.
-
-#### § 37
-
-Die Habilitandin oder der Habilitand kann die zur Beurteilung der schriftlichen Habilitationsleistung eingereichten Unterlagen nach der Entscheidung der Fakultätsversammlung nicht mehr zurückverlangen.
-
-#### § 38
-
-Die Privatdozentinnen und Privatdozenten sind verpflichtet, ihre Habilitationsschrift nach Erteilung der Venia Legendi durch die Erweiterte Universitätsleitung innerhalb von drei Jahren zu publizieren.
-
-#### § 39
-
-Eine nicht bereits publizierte Habilitationsschrift muss als Habilitationsschrift der Philosophischen Fakultät der Universität Zürich gekennzeichnet sein. Das Gleiche gilt für einzelne Teile daraus ebenso wie für Arbeiten, die als Bestandteil einer kumulativen Habilitation anerkannt wurden.
-
-#### § 40
-
-Der Zentralbibliothek Zürich sind sieben Exemplare der publizierten Habilitationsschrift der Philosophischen Fakultät der Universität Zürich abzuliefern.
-
-- 1\. 1. 03 - 39
-
-## 415.458 Habilitationsordnung – Philosophische Fakultät
-
-#### § 41
-
-Die Privatdozentin oder der Privatdozent ist verpflichtet, innerhalb eines Jahres nach Erteilung der Venia Legendi eine öffentliche Antrittsvorlesung zu halten.
-
-### 7. Teil: Schlussbestimmungen
-
-#### § 42
-
-Diese Habilitationsordnung tritt am 1. Januar 2003 in Kraft.
-
-<sup>1</sup> OS 57, 378. Vom Universitätsrat erlassen.
-
-<sup>2</sup> 415.111.
-
-<sup>3</sup> 415.454.
-
-8
+- 1\. 4. 21 - 112 § 24. Für die vor dem Inkrafttreten eröffneten Habilitationsverfahren sind die Bestimmungen der Habilitationsordnung der Philosophischen Fakultät der Universität Zürich vom 25. November 2002 weiter anwendbar. Vorbehalten bleibt die RVO Habil.
