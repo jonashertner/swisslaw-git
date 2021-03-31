@@ -4,13 +4,13 @@ number: "916.141.1"
 title: Gesetz über den Rebbau
 short: RebG
 language: de
-version: 2009-01-01
-valid_until: 2021-03-31
-version_adopted: 2008-04-10
+version: 2021-04-01
+valid_until: 2023-12-31
+version_adopted: 2021-02-17
 adopted: 1995-09-13
 in_force: 1996-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/114/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2197/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/114/pdf_file"
 
 (RebG)
 
-vom 13.09.1995 (Stand 01.01.2009)
+vom 13.09.1995 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -74,7 +74,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton unterhält einen Beratungsdienst für Rebbau.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann für die Erfüllung der Beratungsaufgaben Dritte beiziehen.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann für die Erfüllung der Beratungsaufgaben Dritte beiziehen.
 
 <sup>3</sup> Leistungsauftrag und Höhe der Abgeltungen an beigezogene Dritte werden vertraglich festgelegt.
 
@@ -104,11 +104,11 @@ beschliesst:
 
 **Flächeninventar**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion führt ein Inventar der rebbestockten Flächen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion führt ein Inventar der rebbestockten Flächen.
 
 <sup>2</sup> Die Bewirtschafterinnen und Bewirtschafter sind verpflichtet, die notwendigen Angaben zu liefern, insbesondere auch über Änderungen der Sorten und des Ausmasses der bewirtschafteten Fläche.
 
-<sup>3</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ist berechtigt, bei den Grundbuchämtern Auskünfte über die Eigentumsverhältnisse innerhalb der Rebbauzone einzuholen und die Grundstücksdaten der zuständigen Stelle der Finanzdirektion zu verwenden.
+<sup>3</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ist berechtigt, bei den Grundbuchämtern Auskünfte über die Eigentumsverhältnisse innerhalb der Rebbauzone einzuholen und die Grundstücksdaten der zuständigen Stelle der Finanzdirektion zu verwenden.
 
 #### Art. 9
 
@@ -154,7 +154,7 @@ beschliesst:
 
 **Amtliche Kontrolle**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion führt eine stichprobenweise Überprüfung der ausgefüllten Kontrollblätter sowie der Einhaltung der Kontrollvorschriften durch.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion führt eine stichprobenweise Überprüfung der ausgefüllten Kontrollblätter sowie der Einhaltung der Kontrollvorschriften durch.
 
 <sup>2</sup> Die Kontrollorgane verfügen nebst ihrem Zutrittsrecht über die Berechtigung, im Rebberg und im Keller Muster zu erheben.
 
@@ -170,7 +170,7 @@ beschliesst:
 
 **Weinlesedeklaration**
 
-<sup>1</sup> Die Weinlesedeklaration wird von der zuständigen Stelle der Volkswirtschaftsdirektion aufgrund der Kontrollblätter erstellt.
+<sup>1</sup> Die Weinlesedeklaration wird von der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion aufgrund der Kontrollblätter erstellt.
 
 ## 3 Beiträge
 
@@ -212,7 +212,7 @@ beschliesst:
 
 **Bezeichnung der Organisationen**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion bezeichnet die für die jeweilige Produktionsregion zuständigen Berufsorganisationen, denen nach diesem Gesetz Aufgaben zukommen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion bezeichnet die für die jeweilige Produktionsregion zuständigen Berufsorganisationen, denen nach diesem Gesetz Aufgaben zukommen.
 
 <sup>2</sup> Sie tritt beim Fehlen geeigneter Berufsorganisationen an deren Stelle.
 
@@ -220,7 +220,7 @@ beschliesst:
 
 **Mitteilungspflicht**
 
-<sup>1</sup> Die Berufsorganisationen teilen der zuständigen Stelle der Volkswirtschaftsdirektion die Beschlüsse rechtsetzenden Inhalts (Art. 4 Abs. 1, 6 Abs. 2 Bst. a und b, Art. 9, Art. 10 Abs. 1 und 2, Art. 11) mit, welche sie gestützt auf dieses Gesetz erlassen.
+<sup>1</sup> Die Berufsorganisationen teilen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion die Beschlüsse rechtsetzenden Inhalts (Art. 4 Abs. 1, 6 Abs. 2 Bst. a und b, Art. 9, Art. 10 Abs. 1 und 2, Art. 11) mit, welche sie gestützt auf dieses Gesetz erlassen.
 
 <sup>2</sup> Die Veröffentlichung in der Bernischen Amtlichen Gesetzessammlung erfolgt in der Form eines Verweises.
 
@@ -230,7 +230,7 @@ beschliesst:
 
 **Einschreiten der Behörde**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion schreitet als Aufsichtsbehörde von Amtes wegen oder auf Anzeige hin ein, wenn die rechtsetzenden Beschlüsse der Berufsorganisationen offensichtlich rechtswidrig oder auf eine gegen die Statuten oder zwingende privatrechtliche Vorschriften über die Körperschaften verstossende Weise zustande gekommen sind.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion schreitet als Aufsichtsbehörde von Amtes wegen oder auf Anzeige hin ein, wenn die rechtsetzenden Beschlüsse der Berufsorganisationen offensichtlich rechtswidrig oder auf eine gegen die Statuten oder zwingende privatrechtliche Vorschriften über die Körperschaften verstossende Weise zustande gekommen sind.
 
 <sup>2</sup> Sie erlässt nach erfolgloser Mahnung oder in Fällen zeitlicher Dringlichkeit die erforderlichen Anordnungen.
 
@@ -240,7 +240,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Soweit der Vollzug nicht den Berufsorganisationen oder den Gemeinden übertragen ist, obliegt er der zuständigen Stelle der Volkswirtschaftsdirektion.
+<sup>1</sup> Soweit der Vollzug nicht den Berufsorganisationen oder den Gemeinden übertragen ist, obliegt er der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
 #### Art. 24
 
@@ -248,7 +248,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt nach Anhören der Berufsorganisationen die zum Vollzug notwendigen Ausführungsbestimmungen.
 
-<sup>2</sup> Er kann die Befugnis zum Erlass von Bestimmungen über die Kontrolle und das Flächeninventar der Volkswirtschaftsdirektion übertragen.
+<sup>2</sup> Er kann die Befugnis zum Erlass von Bestimmungen über die Kontrolle und das Flächeninventar der Wirtschafts-, Energie- und Umweltdirektion übertragen.
 
 <sup>3</sup> Er kann den Berufsorganisationen Aufgaben übertragen, die den Kantonen im Rahmen einer Änderung der Bundesgesetzgebung zugewiesen werden.
 
@@ -281,7 +281,7 @@ beschliesst:
 
 <sup>1</sup> Die Strafverfolgung obliegt den ordentlichen Behörden der Strafrechtspflege.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion kann im Strafverfahren Parteirechte ausüben.
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann im Strafverfahren Parteirechte ausüben.
 
 #### Art. 28
 

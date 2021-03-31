@@ -4,13 +4,13 @@ number: "916.141.1"
 title: Loi sur la viticulture
 short: LVit
 language: fr
-version: 2009-01-01
-valid_until: 2021-03-31
-version_adopted: 2008-04-10
+version: 2021-04-01
+valid_until: 2023-12-31
+version_adopted: 2021-02-17
 adopted: 1995-09-13
 in_force: 1996-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/114/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2197/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/114/pdf_file"
 
 (LVit)
 
-du 13.09.1995 (état au 01.01.2009)
+du 13.09.1995 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -74,7 +74,7 @@ arrête:
 
 <sup>1</sup> Le canton entretient un service de vulgarisation viticole.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique peut faire appel à des tiers pour l'exécution des tâches de la vulgarisation viticole.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut faire appel à des tiers pour l'exécution des tâches de la vulgarisation viticole.
 
 <sup>3</sup> Le mandat de prestation et le montant des indemnités versées aux tiers sont fixés par contrat.
 
@@ -104,11 +104,11 @@ arrête:
 
 **Inventaire des surfaces**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique tient un inventaire des surfaces viticoles.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement tient un inventaire des surfaces viticoles.
 
 <sup>2</sup> Les exploitants et exploitantes sont tenus de fournir les informations requises, en particulier celles ayant trait à des changements de cépages et aux dimensions de la surface exploitée.
 
-<sup>3</sup> Le service compétent de la Direction de l'économie publique est habilité à requérir, de la part du bureau du registre foncier, des informations sur les rapports de propriété dans la zone viticole et à utiliser les données du service compétent de la Direction des finances relatives aux biens-fonds.
+<sup>3</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement est habilité à requérir, de la part du bureau du registre foncier, des informations sur les rapports de propriété dans la zone viticole et à utiliser les données du service compétent de la Direction des finances relatives aux biens-fonds.
 
 #### Art. 9
 
@@ -154,7 +154,7 @@ arrête:
 
 **Contrôle officiel**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique procède à des sondages pour vérifier les données attestées ainsi que l'observation des prescriptions de contrôle.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement procède à des sondages pour vérifier les données attestées ainsi que l'observation des prescriptions de contrôle.
 
 <sup>2</sup> Outre leur droit de libre accès, les organes de contrôle ont également le droit de prélever des échantillons dans la vigne et en cave.
 
@@ -170,7 +170,7 @@ arrête:
 
 **Déclaration de vendange**
 
-<sup>1</sup> La déclaration de vendange est établie par le service compétent de la Direction de l'économie publique sur la base des attestations de contrôle.
+<sup>1</sup> La déclaration de vendange est établie par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement sur la base des attestations de contrôle.
 
 ## 3 Subventions
 
@@ -212,7 +212,7 @@ arrête:
 
 **Désignation des organisations**
 
-<sup>1</sup> La Direction de l'économie publique désigne les organisations professionnelles compétentes pour chacune des régions de production, auxquelles des tâches sont assignées par la présente loi.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement désigne les organisations professionnelles compétentes pour chacune des régions de production, auxquelles des tâches sont assignées par la présente loi.
 
 <sup>2</sup> Elle s'y substitue en l'absence d'organisations professionnelles appropriées.
 
@@ -220,7 +220,7 @@ arrête:
 
 **Devoir d'informer**
 
-<sup>1</sup> Les organisations professionnelles communiquent au service compétent de la Direction de l'économie publique les arrêtés contenant des règles de droit qu'elles édictent en vertu de la présente loi (art. 4, 1<sup>er</sup> al., 6, 2<sup>e</sup> al., lit. a et b, 9, 10, 1<sup>er</sup> et 2<sup>e</sup> al. et 11).
+<sup>1</sup> Les organisations professionnelles communiquent au service compétent de la Direction de l’économie, de l’énergie et de l’environnement les arrêtés contenant des règles de droit qu'elles édictent en vertu de la présente loi (art. 4, al. 1, 6, al. 2, lit. a et b, 9, 10, al. 1 et 2 et 11).
 
 <sup>2</sup> La publication dans le Recueil officiel des lois bernoises s'effectue sous la forme d'un renvoi.
 
@@ -230,7 +230,7 @@ arrête:
 
 **Intervention de l'autorité**
 
-<sup>1</sup> La Direction de l'économie publique intervient d'office ou sur dénonciation, en qualité d'autorité de surveillance, lorsque les arrêtés contenant des règles de droit émis par les organisations professionnelles sont manifestement contraires au droit ou ont été édictés en violation des statuts ou des prescriptions impératives du droit privé régissant les corporations.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement intervient d'office ou sur dénonciation, en qualité d'autorité de surveillance, lorsque les arrêtés contenant des règles de droit émis par les organisations professionnelles sont manifestement contraires au droit ou ont été édictés en violation des statuts ou des prescriptions impératives du droit privé régissant les corporations.
 
 <sup>2</sup> Après sommation infructueuse ou en cas d'urgence, elle ordonne les mesures nécessaires.
 
@@ -240,7 +240,7 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> L'exécution incombe au service compétent de la Direction de l'économie publique dans la mesure où elle n'est pas attribuée par la présente loi aux organisations professionnelles ou aux communes.
+<sup>1</sup> L'exécution incombe au service compétent de la Direction de l’économie, de l’énergie et de l’environnement dans la mesure où elle n'est pas attribuée par la présente loi aux organisations professionnelles ou aux communes.
 
 #### Art. 24
 
@@ -248,7 +248,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif arrête les dispositions d'exécution nécessaires, après consultation des organisations professionnelles.
 
-<sup>2</sup> Il peut déléguer à la Direction de l'économie publique la compétence d'arrêter des dispositions sur le contrôle et l'inventaire des surfaces viticoles.
+<sup>2</sup> Il peut déléguer à la Direction de l’économie, de l’énergie et de l’environnement la compétence d'arrêter des dispositions sur le contrôle et l'inventaire des surfaces viticoles.
 
 <sup>3</sup> Il peut confier aux organisations professionnelles des tâches qui sont assignées aux cantons dans le cadre d'une modification de la législation fédérale.
 
@@ -281,7 +281,7 @@ arrête:
 
 <sup>1</sup> La poursuite pénale incombe aux autorités ordinaires compétentes en la matière.
 
-<sup>2</sup> La Direction de l'économie publique peut exercer les droits de partie en procédure pénale.
+<sup>2</sup> La Direction de l’économie, de l’énergie et de l’environnement peut exercer les droits de partie en procédure pénale.
 
 #### Art. 28
 
