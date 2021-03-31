@@ -4,13 +4,12 @@ number: "612.18"
 title: Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der COVID-19-Epidemie
 short: COVID-19-Härtefallverordnung
 language: de
-version: 2020-12-01
-valid_until: 2021-03-31
-version_adopted: 2021-01-13
+version: 2021-04-01
+version_adopted: 2021-04-13
 adopted: 2020-12-01
 in_force: 2020-12-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/612.18"
-pdf: "https://bgs.zg.ch/api/de/versions/2210/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2210/pdf_file"
 
 (COVID-19-Härtefallverordnung)
 
-Vom 1. Dezember 2020 (Stand 1. Dezember 2020)
+Vom 1. Dezember 2020 (Stand 1. April 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -41,9 +40,9 @@ beschliesst:
 
 #### § 2
 
-**Rahmenkredit**
+**Rahmenkredite**
 
-<sup>1</sup> Für die Ausrichtung von rückzahlbaren Darlehen und für die Gewährung von nicht rückzahlbaren Beiträgen stehen die mit Kantonsratsbeschluss betreffend Härtefallmassnahmen für Unternehmen in Zusammenhang mit der COVID-19-Epidemie (COVID-19-Härtefälle) genehmigten Rahmenkredite zur Verfügung.
+<sup>1</sup> Für die Ausrichtung von rückzahlbaren Darlehen und für die Gewährung von nicht rückzahlbaren Beiträgen stehen die vom Kantonsrat genehmigten Rahmenkredite betreffend Härtefallmassnahmen für Unternehmen in Zusammenhang mit der COVID-19-Epidemie (COVID-19-Härtefälle) zur Verfügung.
 
 #### § 3
 
@@ -75,22 +74,26 @@ beschliesst:
 
 **Anspruchsvoraussetzungen**
 
-<sup>1</sup> Härtefallmassnahmen können auf Gesuch hin gewährt werden für Unternehmen in Rechtsform eines Einzelunternehmens, einer Personengesellschaft oder einer juristischen Person, sofern sie die Anforderungen nach dem 2. und 3. Abschnitt der Verordnung über die Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020 (Covid-19-Härtefallverordnung)[^4-1] erfüllen, am 1. Oktober 2020 ihren Sitz im Kanton Zug hatten und ihr zu berücksichtigender Umsatz unter 80 Prozent des mehrjährigen Durchschnitts liegt.
+<sup>1</sup> Härtefallmassnahmen können auf Gesuch hin gewährt werden für Unternehmen in Rechtsform eines Einzelunternehmens, einer Personengesellschaft oder einer juristischen Person, sofern sie die Anforderungen nach dem 2. Abschnitt der Verordnung über die Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020 (Covid-19-Härtefallverordnung)[^4-1] erfüllen und am 1. Oktober 2020 ihren Sitz im Kanton Zug hatten.
 
-<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss Abs. 1 haben die Unternehmen kumulativ zu belegen oder zu bestätigen, dass:
+<sup>1a</sup> In Abweichung von Art. 5 der Covid-19-Härtefallverordnung[^4-2] haben Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken zu belegen, dass der zu berücksichtigende Umsatz unter 80 Prozent des mehrjährigen Durchschnitts liegt. Für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken sowie Unternehmen mit mindestens einer Zweigniederlassung in einem anderen Kanton und ohne operative Geschäftstätigkeit im Kanton Zug gelten die Regelungen gemäss Covid-19-Härtefallverordnung[^4-3].
 
-- a) sie im Kanton Zug eine operative Geschäftstätigkeit ausüben, im Kanton Zug über eigene Geschäftsräumlichkeiten verfügen und im Kanton Zug eigenes Personal beschäftigen;
-- b) sie eine Kontobeziehung bei einer Schweizer Bank gemäss Bundesgesetz über die Banken und Sparkassen vom 8. November 1934[^4-2] unterhalten;
+<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss Abs. 1 haben die Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken kumulativ zu belegen oder zu bestätigen, dass:
+
+- a) …
+- b) sie eine Kontobeziehung bei einer Schweizer Bank gemäss Bundesgesetz über die Banken und Sparkassen vom 8. November 1934[^4-4] unterhalten;
 - c) sie am 15. März 2020 keine Rückstände über die ordentlichen Zahlungsfristen hinaus bei der Bezahlung von Steuerschulden gegenüber Bund, Kantonen oder Gemeinden oder bei der Bezahlung von Sozialversicherungsbeiträgen hatten; und
 - d) …
 - e) Bund, Kantone oder Gemeinden insgesamt nicht zu mehr als zehn Prozent an ihrem Kapital beteiligt sind.
 
-<sup>3</sup> Personen- und Kapitalgesellschaften haben zusammen mit dem Gesuch die Namen und Adressen von allfälligen Gesellschafterinnen und Gesellschaftern oder Aktionärinnen und Aktionären anzugeben, welche jeweils einzeln über Anteile im Umfang von mindestens 30 Prozent des Gesellschaftskapitals verfügen. Die finanzielle Situation dieser Gesellschafterinnen und Gesellschafter beziehungsweise Anteilseignerinnen und Anteilseigner wird bei der Prüfung der Vermögens- und Kapitalsituation, insbesondere bei der Feststellung, ob die nötigen Massnahmen zum Schutz der Liquidität und der Kapitalbasis des Unternehmens ergriffen worden sind, angemessen berücksichtigt.
+<sup>3</sup> Personen- und Kapitalgesellschaften mit einem Jahresumsatz bis 5 Millionen Franken und operativer Geschäftstätigkeit im Kanton Zug haben zusammen mit dem Gesuch die Namen und Adressen von allfälligen Gesellschafterinnen und Gesellschaftern oder Aktionärinnen und Aktionären anzugeben, welche jeweils einzeln über Anteile im Umfang von mindestens 30 Prozent des Gesellschaftskapitals verfügen. Die finanzielle Situation dieser Gesellschafterinnen und Gesellschafter beziehungsweise Anteilseignerinnen und Anteilseigner wird bei der Prüfung der Vermögens- und Kapitalsituation, insbesondere bei der Feststellung, ob die nötigen Massnahmen zum Schutz der Liquidität und der Kapitalbasis des Unternehmens ergriffen worden sind, angemessen berücksichtigt.
 
 <sup>4</sup> Die Unternehmen haben zudem im Gesuchsformular allfällig gewährte Mieterlasse, Mietreduktionen, Versicherungsleistungen im Zusammenhang mit COVID-19 oder andere damit zusammenhängende Entschädigungen oder Erleichterungen aufzuführen. Diese können bei der Berechnung des Umsatzrückgangs angemessen berücksichtigt werden. Erhaltene Entschädigungen für Kurzarbeit, Covid-Erwerbsersatz sowie Leistungen aus dem kantonalen Stützungsfonds werden an den zu berücksichtigenden Umsatz angerechnet.
 
 [^4-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
-[^4-2]: SR [952.0](https://db.clex.ch/link/Bund/952.0/de)
+[^4-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+[^4-3]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+[^4-4]: SR [952.0](https://db.clex.ch/link/Bund/952.0/de)
 
 #### § 5
 
@@ -112,19 +115,21 @@ beschliesst:
 
 **Höchstgrenzen und Auszahlung**
 
-<sup>1</sup> Rückzahlbare Darlehen belaufen sich pro Unternehmen auf höchstens 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens auf eine Million Franken.
+<sup>1</sup> Die Höchstgrenzen für die Unterstützung von Unternehmen richten sich nach den Bestimmungen der Covid-19-Härtefallverordnung[^7-1].
 
-<sup>2</sup> Die nichtrückzahlbaren Beiträge belaufen sich pro Unternehmen auf höchstens 10 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens 100 000 Franken. In begründeten Ausnahmefällen kann diese Höchstgrenze durch die Entscheidungskommission im Einzelfall auf maximal 200 000 Franken pro Unternehmen erhöht werden.
+<sup>2</sup> …
 
-<sup>3</sup> Werden einem Unternehmen sowohl rückzahlbare Darlehen als auch nicht rückzahlbare Beiträge gewährt, so dürfen diese gesamthaft 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und eine Million Franken pro Unternehmen nicht überschreiten.
+<sup>3</sup> …
 
-<sup>4</sup> Die Auszahlung der rückzahlbaren Darlehen und der nicht rückzahlbaren Beiträge erfolgt ab einem Gesamtbetrag von 20 000 Franken aufgeteilt in zwei Halbjahrestranchen. Die zweite Tranche wird nur vollumfänglich ausbezahlt, sofern folgende Bedingungen kumulativ erfüllt sind:
+<sup>4</sup> Die Auszahlung der rückzahlbaren Darlehen und der nicht rückzahlbaren Beiträge für Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken kann in Tranchen erfolgen. Die weiteren Tranchen werden nur vollumfänglich ausbezahlt, sofern folgende Bedingungen kumulativ erfüllt sind:
 
-- a) das Folgegesuch wurde vollständig und mit den erforderlichen Beilagen und Nachweisen eingereicht;
+- a) …
 - b) allfällige durch die Entscheidungskommision festgelegte Auflagen wurden vollumfänglich erfüllt;
-- c) die Rahmenkredite gemäss Kantonsratsbeschluss betreffend Härtefallmassnahmen für Unternehmen in Zusammenhang mit der COVID-19-Epidemie (COVID-19-Härtefälle) reichen auch für die vollständige Auszahlung der in Aussicht gestellten zweiten Tranchen;
-- d) das Unternehmen erfüllt die Voraussetzungen zur Ausrichtung von Härtefallmassnahmen auch im Zeitpunkt der Auszahlung der zweiten Tranche; und
-- e) die epidemiologische sowie wirtschaftliche Lage sind mit derjenigen zum Zeitpunkt der Auszahlung der ersten Tranche vergleichbar beziehungsweise haben sich zwischenzeitlich nicht wesentlich verbessert.
+- c) die Rahmenkredite gemäss Kantonsratsbeschluss betreffend Härtefallmassnahmen für Unternehmen in Zusammenhang mit der COVID-19-Epidemie (COVID-19-Härtefälle) reichen auch für die vollständige Auszahlung der in Aussicht gestellten weiteren Tranchen;
+- d) das Unternehmen erfüllt die Voraussetzungen zur Ausrichtung von Härtefallmassnahmen auch im Zeitpunkt der Auszahlung der weiteren Tranchen; und
+- e) die epidemiologische sowie wirtschaftliche Lage sind mit derjenigen zum Zeitpunkt der Beurteilung des Erstgesuchs vergleichbar beziehungsweise haben sich zwischenzeitlich nicht wesentlich verbessert.
+
+[^7-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
 
 #### § 7a
 
@@ -142,6 +147,8 @@ beschliesst:
 
 <sup>1</sup> Härtefallmassnahmen werden auf Gesuch hin gewährt. Die Gesuche sind mit dem entsprechenden Formular und den verlangten Beilagen ausschliesslich auf elektronischem Weg einzureichen. Auf anderweitig eingereichte Gesuche wird nicht eingetreten.
 
+<sup>1a</sup> Gesuche können bis am 31. Mai 2021 eingereicht werden. Die Finanzdirektion kann, mit Zustimmung der Volkswirtschaftsdirektion, die Einreichefrist generell verlängern.
+
 <sup>2</sup> Das Unternehmen hat in geeigneter Form zu bestätigen, dass alle Angaben im eingereichten Formular vollständig und wahr sind. Im Sinne einer Missbrauchsbekämpfung können die mit den Gesuchsunterlagen gemachten Angaben überprüft werden. Bei Missbrauch sind die bereits gewährten Leistungen zurückzuerstatten und es kann eine Umtriebsentschädigung von 5000 Franken erhoben werden. Unrichtige oder unvollständige Angaben können zusätzlich eine strafrechtliche Verfolgung nach sich ziehen.
 
 <sup>3</sup> Damit die gemachten Angaben überprüft werden können, entbindet das Unternehmen die zuständigen Amtsstellen, von diesen zugezogene Dritte sowie die im Gesuchsformular oder in den Beilagen aufgeführten Banken von den Geheimhaltungsvorschriften, insbesondere vom Bankkunden-, Steuer- und Amtsgeheimnis.
@@ -152,8 +159,12 @@ beschliesst:
 
 <sup>1</sup> Die Prüfinstanz prüft die formal korrekten Gesuche materiell und bereitet die Anträge zuhanden der Entscheidungskommission mit einer Empfehlung zum Beschluss vor.
 
-<sup>3</sup> Die Entscheidungskommission entscheidet aufgrund der geltenden Regelungen über die Ausrichtung von Härtefallmassnahmen. Ablehnende Entscheide werden summarisch begründet.
+<sup>2</sup> Die Entscheidungskommission entscheidet aufgrund der geltenden Regelungen über die Ausrichtung von Härtefallmassnahmen. Ablehnende Entscheide werden summarisch begründet. Sie ist für die fallweise Festlegung von tieferen Fixkostenanteilen gemäss Art. 8b Abs. 4 der Covid-19-Härtefallverordnung[^9-1] zuständig.
 
-<sup>4</sup> Es besteht kein Anspruch auf die Ausrichtung von Härtefallmassnahmen. Der Entscheid ist endgültig.
+<sup>3</sup> Es besteht kein Anspruch auf die Ausrichtung von Härtefallmassnahmen. Der Entscheid ist endgültig.
+
+<sup>4</sup> …
+
+[^9-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
 
 GS 2020/086
