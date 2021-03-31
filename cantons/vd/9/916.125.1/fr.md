@@ -4,7 +4,7 @@ number: "916.125.1"
 title: RÈGLEMENT du 16.07.1993 sur la limitation de la production et le contrôle officiel de la vendange (RLPV)
 short: RLPV
 language: fr
-version: 2016-01-01
+version: 2021-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125.1?id=c9fafba7-a755-4077-b1b7-23449489e871"
 ---
 
@@ -18,24 +18,22 @@ du 16 juillet 1993
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
-vu la loi fédérale sur l'agriculture du 3 octobre 1951 [^ingress-1]
+vu la loi fédérale sur l'agriculture du 29 avril 1998 [^ingress-1]
 
-vu l'ordonnance fédérale sur la viticulture et le placement des produits viticoles (statut du vin) du 23 décembre 1971 [^ingress-2]
+vu l'ordonnance fédérale sur la viticulture et l'importation du vin du 14 novembre 2017 [^ingress-2]
 
-vu la loi fédérale du 8 décembre 1905 sur le commerce des denrées alimentaires et de divers objets usuels [^ingress-3] et son ordonnance d'exécution du 26 mai 1936 [^ingress-4]
-
-vu l'arrêté fédéral sur la viticulture du 19 juin 1992 (AFVIT)
+vu la loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels [^ingress-3] et son ordonnance d'exécution du 16 décembre 2016 [^ingress-4]
 
 vu la loi du 21 novembre 1973 sur la viticulture [^ingress-5]
 
-vu les préavis du Département de l'agriculture, de l'industrie et du commerce , et du Département de l'intérieur et de la santé publique
+vu les préavis du Département de l'économie de l'innovation et du sport
 
 arrête
 
 [^ingress-1]: Loi fédérale du 29.04.1998 sur l’agriculture (RS 910.1)
-[^ingress-2]: Ordonnance du 07.12.1998 sur la viticulture et l’importation de vin (RS 916.140)
-[^ingress-3]: Loi fédérale du 09.10.1992 sur les denrées alimentaires et les objets usuels (RS 817.0)
-[^ingress-4]: Ordonnance du 23.11.2005 sur les denrées alimentaires et les objets usuels (RS 817.02)
+[^ingress-2]: Ordonnance fédérale du 14.11.2007 sur la viticulture et l’importation de vin (RS 916.140)
+[^ingress-3]: Loi fédérale du 20.06.2014 sur les denrées alimentaires et les objets usuels (RS 817.0)
+[^ingress-4]: Ordonnance du 16.12.2016 sur les denrées alimentaires et les objets usuels (RS 817.02)
 [^ingress-5]: Loi du 21.11.1973 sur la viticulture ([BLV 916.125](https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125?id=2beb0e29-f8db-4fc7-af95-1481419bb6cc))
 
 ## Titre I Limitation de la production
@@ -44,15 +42,28 @@ arrête
 
 #### Art. 1
 
-**Définition [^chapterChapitreI-1]**
+**Définitions [^chapterChapitreI-1]**
 
-<sup>1</sup> Le registre cantonal des vignes donne l'état des parcelles viticoles de chaque propriétaire.
+<sup>1</sup> Le registre des vignes décrit les particularités des surfaces plantées en vigne ou en cours de reconstitution, sises sur le territoire du canton de Vaud. Il est mis à jour annuellement.
 
-<sup>2</sup> Il est établi par commune de situation et comprend un récapitulatif pour l'ensemble du canton.
+<sup>2</sup> Il est basé sur des géodonnées (LGéo)[^1-1] saisies, mises à jour et gérées selon le droit fédéral et cantonal en la matière.
 
-<sup>3</sup> Il détermine l'attribution des quotas individuels de production (acquits).
+<sup>3</sup> Il détermine l'attribution des quotas individuels de production (acquits) à l'exploitant, quel que soit son statut (propriétaire, fermier, vigneron-tâcheron, bénéficiaire d'un contrat de métayage ou de prêt à usage notamment).
 
-[^chapterChapitreI-1]: Modif. 10 du 17.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1-3; entrée en vigueur au 01.04.2021; Introduction Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+<sup>4</sup> La notion d'exploitant est définie par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation (OTerm)[^1-2].
+
+<sup>5</sup> Conformément à l'OTerm[^1-3], les termes exploitant et producteur sont synonymes.
+
+<sup>6</sup> Les droits de production relatifs aux parcelles qui ne font pas partie d'une exploitation reconnue au sens de l'OTerm[^1-4] sont attribués à la personne qui exploite à ses risques et périls.
+
+<sup>7</sup> Pour tout ou partie d'une même parcelle viticole, le service en charge de la viticulture (ci-après: le service)[^1-5] ne reconnaît qu'un seul ayant-droit.
+
+[^chapterChapitreI-1]: Modif. 10 du 17.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1-3; entrée en vigueur au 01.04.2021; Introduction Al. 4-7; entrée en vigueur au 01.04.2021
+[^1-1]: Loi fédérale du 05.10.2007 sur la géoinformation (RS 510.62)
+[^1-2]: [Ordonnance du 07.12.1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation, RS 910.91](https://www.admin.ch/opc/fr/classified-compilation/19983381/index.html)
+[^1-3]: [Ordonnance du 07.12.1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation, RS 910.91](https://www.admin.ch/opc/fr/classified-compilation/19983381/index.html)
+[^1-4]: [Ordonnance du 07.12.1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation, RS 910.91](https://www.admin.ch/opc/fr/classified-compilation/19983381/index.html)
+[^1-5]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 2
 
@@ -74,64 +85,75 @@ arrête
 
 **Contenu [^2-1]**
 
-<sup>1</sup> Au regard de chaque parcelle, le registre cantonal des vignes indique :
+<sup>1</sup> Au regard de chaque parcelle, le registre des vignes indique notamment :
 
 - a. la commune de situation ;
-- b. les nom, prénom(s) et adresse du propriétaire et, le cas échéant, ceux du locataire ou du fermier ;
-- c. le numéro de référence ;
-- d. les indications cadastrales (folio, numéro, nom local) ;
-- e. le ou les lieux de production et mention au sens du règlement du 27 mai 2009 sur les vins vaudois [^3-1] . L'article 13 du présent règlement définit les conditions auxquelles plusieurs classes de vins peuvent être produites sur une même parcelle;
-- f. la surface totale viticole cadastrée, exprimée en mètres carrés ;
-- g. la surface occupée par cépage, exprimée en mètres carrés ;
-- h. la désignation du ou des cépage(s).
+- b. le nom de l'exploitant et ses coordonnées ;
+- c. le numéro de la parcelle cadastrale ;
+- d. les termes viticoles spécifiques liés à une dénomination cadastrale identifiée s'il en est fait usage ;
+- e. la région et le lieu de production ;
+- f. la surface en m<sup>2</sup> cultivée en vigne ou en reconstitution ;
+- g. la densité de plantation en pieds/hectare ;
+- h. le nom du cépage ;
+- i. les noms des clones de cépage et du porte-greffe ;
+- j. l'année de plantation ou d'arrachage ;
+- k. la couverture du sol ;
+- l. la technique d'entretien sous le rang ;
+- m. le système de conduite de la vigne ;
+- n. l'origine des plants.
 
-<sup>2</sup> Chaque propriétaire ou son représentant doit attester de l'exactitude des déclarations.
+<sup>2</sup> Chaque exploitant doit attester de l'exactitude des déclarations.
 
-[^2-1]: Modif. 6 du 25.04.2007: Modification Al. 1 e; entrée en vigueur au 01.05.2007 · Modif. 7 du 29.06.2011: Modification Al. 1 e; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Modification Al. 1, a-h; entrée en vigueur au 01.04.2021; Introduction Al. 1, i-n; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
-[^3-1]: Règlement du 27.05.2009 sur les vins vaudois [(BLV 916.125.2)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125.2?id=b58c3698-5558-41cf-beba-72e8ff39a804)
+[^2-1]: Modif. 6 du 25.04.2007: Modification Al. 1 e; entrée en vigueur au 01.05.2007 · Modif. 7 du 29.06.2011: Modification Al. 1 e; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021; Modification Al. 1, a-h; entrée en vigueur au 01.04.2021; Introduction Al. 1, i-n; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021
 
 #### Art. 4
 
-**Obligations des propriétaires [^3-2]**
+**Obligation des exploitants [^3-1]**
 
-<sup>1</sup> Par l'intermédiaire des communes, les propriétaires de biens-fonds viticoles doivent annoncer au service en charge de la viticulture au fur et à mesure, mais le 31 mai de chaque année au plus tard, toutes les données qui modifient l'état de leurs parcelles, notamment les changements qui interviennent dans l'encépagement.
+<sup>1</sup> Les exploitants de biens-fonds viticoles doivent enregistrer et valider ces données dans l'application informatique mise à sa disposition par le service au plus tard le 15 mai de chaque année.
 
-[^3-2]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+<sup>2</sup> Seules les surfaces annoncées de façon exacte, complète et conforme à la situation de fait et au droit dans ce délai donnent droit à la délivrance d'un acquit.
+
+[^3-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Al. 2; entrée en vigueur au 01.04.2021
 
 #### Art. 5
 
-**Tâches des communes [^4-1]**
+**... [^4-1]**
 
-<sup>1</sup> Les communes ont pour tâches :
+<sup>1</sup> ...
 
-- - de réceptionner toutes les données relatives à la tenue à jour du registre cantonal des vignes ;
-- - d'en contrôler et attester l'exactitude ;
-- - de les transmettre au service en charge de la viticulture au fur et à mesure de leur arrivée, mais au plus tard pour le 31 mai de chaque année.
+- - ...
+- - ...
+- - ...
 
-[^4-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Abrogation tArt; entrée en vigueur au 01.04.2021; Abrogation Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^4-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Abrogation tArt; entrée en vigueur au 01.04.2021; Abrogation Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 6
 
 **Tâches du canton [^5-1]**
 
-<sup>1</sup> Le service en charge de la viticulture :
+<sup>1</sup> Le service peut en tout temps procéder au contrôle de l'exactitude des renseignements fournis et exiger de l'exploitant, à cet effet, toute pièce justificative.
 
-- - tient à jour le registre cantonal des vignes ;
-- - renseigne les communes et leur fournit tous documents utiles à la tenue du registre cantonal des vignes.
+- - ...
+- - ...
 
-[^5-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 1, Tiret 1-2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^5-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 1, Tiret 1-2; entrée en vigueur au 01.04.2021
 
 #### Art. 7
 
-**Contestations [^6-1]**
+**Réclamations [^6-1]**
 
-<sup>1</sup> Les contestations doivent être adressées, avec les pièces utiles, à l'autorité communale.
+<sup>1</sup> Les réclamations sont adressées, dans les trente jours dès la notification de la décision attaquée, au service avec les pièces utiles.
 
-<sup>2</sup> Les communes les transmettent au service en charge de la viticulture , avec leur préavis, dans un délai de quinze jours à compter de la date de réception.
+<sup>2</sup> ...
 
-<sup>3</sup> Les décisions du service en charge de la viticulture peuvent faire l'objet d'un recours dans un délai de dix jours dès leur notification, auprès du chef du Département de l'agriculture, de l'industrie et du commerce . Celui-ci statue définitivement.
+<sup>3</sup> Les décisions du service peuvent faire l'objet d'un recours dans un délai de trente jours dès leur notification, auprès du chef du département en charge de la viticulture (ci-après: le département)[^7-1].
 
-[^6-1]: Modif. 9 du 16.12.2015: Modification Al. 2,3; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 2; entrée en vigueur au 01.04.2021; Modification Al. 3; entrée en vigueur au 01.04.2021; Introduction Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+<sup>4</sup> Pour le surplus, la loi du 28 octobre 2008 sur la procédure administrative[^7-2] s'applique.
+
+[^6-1]: Modif. 9 du 16.12.2015: Modification Al. 2,3; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 2; entrée en vigueur au 01.04.2021; Modification Al. 3; entrée en vigueur au 01.04.2021; Introduction Al. 4; entrée en vigueur au 01.04.2021
+[^7-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^7-2]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
 
 #### Art. 8
 
@@ -145,9 +167,9 @@ arrête
 
 **Définition [^chapterChapitreII-1]**
 
-<sup>1</sup> Document officiel, établi par le canton sur la base des données du registre cantonal des vignes, l'acquit fixe les droits maxima d'encavage de l'encaveur ou de livraison du producteur, séparément pour les cépages blancs et rouges.
+<sup>1</sup> Document officiel, établi par le canton sur la base des données du registre des vignes, l'acquit fixe les droits maxima d'encavage de l'encaveur ou de livraison du producteur, séparément par cépage.
 
-[^chapterChapitreII-1]: Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^chapterChapitreII-1]: Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 10
 
@@ -167,73 +189,73 @@ arrête
 <sup>1</sup> Les acquits énoncent notamment :
 
 - a. Acquit initial
-- 1\. numéro de référence (identique à celui du registre cantonal des vignes) ;
-- 2\. nom, prénom(s) et adresse du propriétaire et, le cas échéant, de son représentant ;
+- 1\. numéro de référence ;
+- 2\. nom, prénom(s) et adresse de l'exploitant ;
 - 3\. année ;
-- 4\. district et commune ;
+- 4\. commune
 - 5\. lieu(x) de production et mention(s) ;
 - 6\. surface en m<sup>2</sup>;
-- 7\. droit de production ou d'encavage, exprimé en litres, par classe ;
-- 8\. signature de l'ayant droit.
+- 7\. droit de production ou d'encavage, exprimé en kilos, par classe ;
+- 8\. ...
 - b. Acquit partiel
 - 1\. les éléments de l'acquit initial ;
-- 2\. raison sociale de la cave de destination de la vendange ;
+- 2\. ...
 - 3\. numéro de division.
 
-[^10-1]: Modif. 1 du 06.07.1994: Modification Al. 1 f,i; entrée en vigueur au 06.07.1994 · Modif. 7 du 29.06.2011: Modification Al. 1 e,h; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification Al. 1, a, 1,2,4,7; entrée en vigueur au 01.04.2021; Abrogation Al. 1, a, 8; entrée en vigueur au 01.04.2021; Abrogation Al. 1, b, 2; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^10-1]: Modif. 1 du 06.07.1994: Modification Al. 1 f,i; entrée en vigueur au 06.07.1994 · Modif. 7 du 29.06.2011: Modification Al. 1 e,h; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Modification Al. 1, a, 1,2,4,7; entrée en vigueur au 01.04.2021; Abrogation Al. 1, a, 8; entrée en vigueur au 01.04.2021; Abrogation Al. 1, b, 2; entrée en vigueur au 01.04.2021
 
 #### Art. 12
 
 **Droits de production [^11-1]**
 
-<sup>1</sup> Les droits de production sont attribués au propriétaire sur la base de l'ensemble de ses parcelles au sens de l'article 2, par cépages (blanc et rouge) et par lieu de production et mention.
+<sup>1</sup> Les droits de production sont attribués à l'exploitant sur la base de l'ensemble des parcelles exploitées au sens de l'article 2, par cépages et par lieu de production et mention.
 
 <sup>2</sup> Ils sont intransmissibles.
 
 <sup>3</sup> En la matière, seules peuvent intervenir des compensations entre parcelles complantées du même cépage et bénéficiant des mêmes lieu de production et mention.
 
-[^11-1]: Modif. 1 du 06.07.1994: Modification Al. 1; entrée en vigueur au 06.07.1994; Introduction Al. 3; entrée en vigueur au 06.07.1994 · Modif. 7 du 29.06.2011: Modification Al. 1,3; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^11-1]: Modif. 1 du 06.07.1994: Modification Al. 1; entrée en vigueur au 06.07.1994; Introduction Al. 3; entrée en vigueur au 06.07.1994 · Modif. 7 du 29.06.2011: Modification Al. 1,3; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 13
 
-**Obligations des propriétaires [^12-1]**
+**Obligations des exploitants [^12-1]**
 
-<sup>1</sup> Sur chaque acquit initial ou partiel doit être indiquée clairement la classe unique choisie par l'ayant droit à laquelle est affectée la surface figurant sur l'acquit concerné.
+<sup>1</sup> Chaque acquit initial ou partiel peut être attribué à la classe unique choisie par l'ayant droit à laquelle est affectée la surface figurant sur l'acquit concerné.
 
 <sup>2</sup> Lorsque de la vendange destinée à l'élaboration de vins de classes AOC et vin de pays est simultanément produite sur une seule et même parcelle cadastrale, le périmètre de la fraction de cette parcelle réservée à la production de vin de pays doit être clairement balisé.
 
-<sup>3</sup> Chaque parcelle concernée par les dispositions de l'alinéa 2 du présent article doit être balisée et déclarée par les propriétaires ou exploitants au service en charge de la viticulture jusqu'au 10 septembre de chaque année.
+<sup>3</sup> Chaque parcelle concernée par les dispositions de l'alinéa 2 du présent article doit être balisée et déclarée par les exploitants au service jusqu'au 31 juillet de chaque année.
 
-[^12-1]: Modif. 1 du 06.07.1994: Modification Art. 13; entrée en vigueur au 06.07.1994 · Modif. 6 du 25.04.2007: Modification Al. 1; entrée en vigueur au 01.05.2007; Introduction Al. 2-3; entrée en vigueur au 01.05.2007 · Modif. 7 du 29.06.2011: Modification Al. 1,2; entrée en vigueur au 01.07.2011 · Modif. 8 du 26.08.2015: Modification Al. 3; entrée en vigueur au 01.09.2015 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1,3; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^12-1]: Modif. 1 du 06.07.1994: Modification Art. 13; entrée en vigueur au 06.07.1994 · Modif. 6 du 25.04.2007: Modification Al. 1; entrée en vigueur au 01.05.2007; Introduction Al. 2-3; entrée en vigueur au 01.05.2007 · Modif. 7 du 29.06.2011: Modification Al. 1,2; entrée en vigueur au 01.07.2011 · Modif. 8 du 26.08.2015: Modification Al. 3; entrée en vigueur au 01.09.2015 · Modif. 10 du 17.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1,3; entrée en vigueur au 01.04.2021
 
 #### Art. 14
 
 **[^13-1]**
 
-<sup>1</sup> L'acquit justifiant les apports de vendange doit accompagner chaque livraison de vendange et chaque encavage.
+<sup>1</sup> L'acquit correspondant doit être attribué à l'encaveur concerné au plus tard au moment de chaque livraison de vendange.
 
 <sup>2</sup> Il en va de même des récoltes livrées hors du canton.
 
-[^13-1]: Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^13-1]: Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 15
 
-**Tâches des communes [^14-1]**
+**... [^14-1]**
 
-<sup>1</sup> Les communes ont pour tâches :
+<sup>1</sup> ...
 
-- - d'établir les acquits partiels et de les remettre aux propriétaires ;
-- - de transmettre au service en charge de la viticulture , en fin de vendanges, les acquits initiaux et copies des acquits partiels y relatifs.
+- - ...
+- - ...
 
-[^14-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Abrogation tArt; entrée en vigueur au 01.04.2021; Abrogation Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^14-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Abrogation tArt; entrée en vigueur au 01.04.2021; Abrogation Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 16
 
 **Tâches du canton [^15-1]**
 
-<sup>1</sup> Le service en charge de la viticulture établit les acquits initiaux et les adresse aux ayants droit jusqu'au 1er septembre de chaque année.
+<sup>1</sup> Le service établit, sur la base des indications figurant dans le registre des vignes, les acquits de chaque exploitant, jusqu'au 1<sup>er</sup> septembre. L'acquit comprend au minimum les informations fixées par l'ordonnance fédérale sur la viticulture et l'importation de vin.
 
-[^15-1]: Modif. 1 du 06.07.1994: Modification Art. 16; entrée en vigueur au 06.07.1994 · Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^15-1]: Modif. 1 du 06.07.1994: Modification Art. 16; entrée en vigueur au 06.07.1994 · Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 17
 
@@ -250,14 +272,14 @@ arrête
 <sup>1</sup> La limitation de la production est définie comme il suit :
 
 - a. Classe AOC
-- - La production de raisins destinés à l'élaboration de vins de la classe AOC est limitée à l'unité de surface. Elle ne peut être supérieure à 1,12 l/m <sup>2</sup>pour les raisins blancs et à 0,96 l/m <sup>2</sup>pour les raisins rouges.
-- - Après avoir entendu la Communauté interprofessionnelle du vin vaudois, le Département de l'économie fixe les quantités de production maximales, qui peuvent être différenciées selon les régions, les lieux de production et mentions
+- - La production de raisins destinés à l'élaboration de vins de la classe AOC est limitée à l'unité de surface. Elle ne peut être supérieure à 1,4 kg/m<sup>2</sup> pour les raisins blancs et à 1,2 kg/m<sup>2</sup> pour les raisins rouges.
+- - Après avoir entendu la Communauté interprofessionnelle du vin vaudois, le département fixe les quantités de production maximales, qui peuvent être différenciées selon les régions, les lieux de production et mentions.
 - b. Autres classes
-- - Après consultation de la Communauté interprofessionnelle du vin vaudois, le Département de l'économie peut limiter les quantités de production maximales des vins de pays avec dénomination traditionnelle propre.
+- - Après consultation de la Communauté interprofessionnelle du vin vaudois, le département​ peut limiter les quantités de production maximales des vins de pays avec dénomination traditionnelle propre.
 
-<sup>2</sup> Pour la région du Vully, la limitation de la production est définie chaque année par le Département de l'économie, pour correspondre à celle applicable au Vully fribourgeois.
+<sup>2</sup> Pour la région du Vully, la limitation de la production est définie chaque année par le département​​, pour correspondre à celle applicable au Vully fribourgeois.
 
-[^chapterChapitreIII-1]: Modif. 4 du 16.06.2000: Modification Art. 18; entrée en vigueur au 16.06.2000 · Modif. 5 du 18.06.2001: Modification Art. 18; entrée en vigueur au 18.06.2001 · Modif. 7 du 29.06.2011: Modification Al. 1; entrée en vigueur au 01.07.2011; Introduction Al. 2; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification Al. 1, a, Tiret 1-2; entrée en vigueur au 01.04.2021; Modification Al. 1, b, Tiret 1; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^chapterChapitreIII-1]: Modif. 4 du 16.06.2000: Modification Art. 18; entrée en vigueur au 16.06.2000 · Modif. 5 du 18.06.2001: Modification Art. 18; entrée en vigueur au 18.06.2001 · Modif. 7 du 29.06.2011: Modification Al. 1; entrée en vigueur au 01.07.2011; Introduction Al. 2; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Modification Al. 1, a, Tiret 1-2; entrée en vigueur au 01.04.2021; Modification Al. 1, b, Tiret 1; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021
 
 #### Art. 19
 
@@ -274,18 +296,109 @@ arrête
 <sup>1</sup> Le dépassement des quantités maximales entraîne d'office le déclassement, avec les conséquences suivantes :
 
 - - Lorsque les quantités récoltées dépassent les quantités maximales uniquement fixées selon l'article 18, pour la classe AOC, l'ensemble de la production est déclassée en vin de pays.
-- - Lorsque les quantités récoltées dépassent les quantités maximales de la classe vin de pays avec dénomination traditionnelle propre fixées selon l'article 18, l'ensemble de la production est déclassé en vin de table pour autant qu'il n'en dépasse pas les quantités maximales fixées.
-- - Lorsque les quantités récoltées dépassent la quantité maximale de la classe vin de table, leur surplus ne peut être transformé qu'en produits non alcooliques ou en vins industriels.
+- - Lorsque les quantités récoltées dépassent les quantités maximales de la classe vin de pays avec dénomination traditionnelle propre fixées selon l'article 18, l'ensemble de la production est déclassé en vin de table.
+- - ...
 
-[^19-1]: Modif. 1 du 06.07.1994: Modification Art. 20; entrée en vigueur au 06.07.1994 · Modif. 7 du 29.06.2011: Modification Al. 1; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification Al. 1, Tiret 2; entrée en vigueur au 01.04.2021; Abrogation Al. 1, Tiret 3; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^19-1]: Modif. 1 du 06.07.1994: Modification Art. 20; entrée en vigueur au 06.07.1994 · Modif. 7 du 29.06.2011: Modification Al. 1; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Modification Al. 1, Tiret 2; entrée en vigueur au 01.04.2021; Abrogation Al. 1, Tiret 3; entrée en vigueur au 01.04.2021
 
 #### Art. 21
 
 **Publication [^20-1]**
 
-<sup>1</sup> Le Département de l'agriculture, de l'industrie et du commerce publie chaque année les quantités de production maximales dans la Feuille des avis officiels du canton de Vaud.
+<sup>1</sup> Le département publie chaque année les quantités de production maximales dans la Feuille des avis officiels du canton de Vaud.
 
-[^20-1]: Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021
+[^20-1]: Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
+[^21-1]: Modif. 10 du 17.03.2021: Introduction ; entrée en vigueur au 01.04.2021
+
+### Chapitre IV Protection des données
+
+[^21-1]
+
+#### Art. 21a
+
+**Gestion des données [^chapterChapitreIV-1]**
+
+<sup>1</sup> Le département, par le service, exploite en tant que responsable de traitement un système d'information viticole.
+
+[^chapterChapitreIV-1]: Modif. 10 du 17.03.2021: Introduction tArt; entrée en vigueur au 01.04.2021; Introduction Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021
+
+#### Art. 21b
+
+**Finalité [^21a-1]**
+
+<sup>1</sup> Le système d'information viticole poursuit les buts suivants :
+
+- a. mettre en œuvre les dispositions fédérales en assurant la traçabilité des lots de vendange et en garantissant le respect des quotas ;
+- b. tenir et mettre à jour les statistiques cantonales relatives au registre des vignes ;
+- c. gérer les maladies de quarantaine ;
+- d. assurer, lorsque cela est nécessaire, notamment à des fins de gestion des paiements directs, le lien avec le Registre cantonal des personnes et le Registre fiscal.
+
+[^21a-1]: Modif. 10 du 17.03.2021: Introduction Art. 21b; entrée en vigueur au 01.04.2021
+
+#### Art. 21c
+
+**Données collectées [^21b-1]**
+
+<sup>1</sup> Le système d'information contient les données personnelles suivantes relatives aux exploitants et aux encaveurs :
+
+- a. les noms et prénoms ;
+- b. l'adresse;
+- c. le numéro de téléphone (portable et/ou fixe) ;
+- d. l'adresse électronique ;
+- e. le numéro d'identification de l'exploitant et de l'exploitation (IDE) ;
+- f. le numéro du registre du commerce.
+
+[^21b-1]: Modif. 10 du 17.03.2021: Introduction Art. 21c; entrée en vigueur au 01.04.2021
+
+#### Art. 21d
+
+**Liens avec les autres registres [^21c-1]**
+
+<sup>1</sup> Le service collecte les données destinées à alimenter le système auprès des personnes et entités suivantes :
+
+- a. le Registre Foncier ;
+- b. le Registre cantonal des personnes ;
+- c. toutes autres entités ou tiers lorsque cela est nécessaire à l'accomplissement des tâches du service.
+
+[^21c-1]: Modif. 10 du 17.03.2021: Introduction tArt; entrée en vigueur au 01.04.2021; Introduction Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021
+
+#### Art. 21e
+
+**Communication des données [^21d-1]**
+
+<sup>1</sup> Un accès en ligne aux données du Système d'informations viticoles est donné aux personnes et entités suivantes dans l'accomplissement de leurs tâches légales :
+
+- a. l'Office fédéral de l'agriculture ;
+- b. le Contrôle suisse du commerce du vin ;
+- c. l'Office des Vins Vaudois ;
+- d. la Communauté interprofessionnelles du Vin Vaudois ;
+- e. l'Observatoire suisse du marché du vin.
+
+<sup>2</sup> Le service communique à l'organe fédéral de contrôle du commerce du vin les données nécessaires à l'accomplissement de ses tâches légales.
+
+<sup>3</sup> L'échange d'informations entre cantons d'origine sur les lots de raisins encavés hors canton est autorisé.
+
+[^21d-1]: Modif. 10 du 17.03.2021: Introduction Art. 21e; entrée en vigueur au 01.04.2021
+
+#### Art. 21f
+
+**Sécurité des données [^21e-1]**
+
+<sup>1</sup> Le responsable de traitement met en œuvre toutes les mesures techniques et organisationnelles pour assurer la sécurité des données personnelles traitées, soit notamment contre leur perte, leur destruction, ainsi que tout traitement illicite. Le service est autorisé à sous-traiter la sécurité des données.
+
+[^21e-1]: Modif. 10 du 17.03.2021: Introduction Art. 21f; entrée en vigueur au 01.04.2021
+
+#### Art. 21g
+
+**Conservation, effacement, archivage et destruction des données [^21f-1]**
+
+<sup>1</sup> Les données sont conservées tant qu'elles sont nécessaires à l'accomplissement des tâches du service. En principe, la durée de conservation est de 10 ans.
+
+<sup>2</sup> Les données qui ne sont plus nécessaires sont effacées.
+
+<sup>3</sup> Les données visées à l'article 3 sont proposées aux Archives cantonales avec les documents qui s'y rattachent. Les données et les documents que les Archives cantonales jugent sans valeur archivistique sont détruits. Les données nécessaires à des fins de statistique, de recherche, sont rendues anonymes.
+
+[^21f-1]: Modif. 10 du 17.03.2021: Introduction tArt; entrée en vigueur au 01.04.2021; Introduction Al. 1-3; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021
 
 ## Titre II Contrôle officiel de la vendange
 
@@ -297,66 +410,69 @@ arrête
 
 <sup>1</sup> Le contrôle qualitatif (teneur en sucre) et quantitatif est obligatoire pour tous les raisins produits sur sol vaudois.
 
-[^chapterChapitreI-2]: Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Al. 2-3; entrée en vigueur au 01.04.2021
+<sup>2</sup> Ce contrôle s'effectue au moyen d'une application informatique mise à disposition des exploitants et des encaveurs par le service.
+
+<sup>3</sup> Les exploitants et les encaveurs s'enregistrent auprès du service et renseignent les informations sur la base des instructions de ce dernier. Ils sont responsables de l'exactitude des informations qu'ils fournissent.
+
+[^chapterChapitreI-2]: Modif. 10 du 17.03.2021: Introduction Al. 2-3; entrée en vigueur au 01.04.2021
 
 #### Art. 23
 
 **Direction [^22-1]**
 
-<sup>1</sup> Ce contrôle est placé sous la direction conjointe du service en charge de la viticulture et du Laboratoire cantonal.
+<sup>1</sup> Ce contrôle est placé sous la direction conjointe du service et de l'Office de la consommation.
 
-[^22-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021
+[^22-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 24
 
 **Surveillance et exécution [^23-1]**
 
-<sup>1</sup> Il est surveillé par des contrôleurs officiels (contrôleurs de la vendange), formés et nommés par le Département de l'agriculture, de l'industrie et du commerce , désignés pour chacune des régions viticoles; les inspecteurs des denrées alimentaires du Laboratoire cantonal y concourent.
+<sup>1</sup> Ce contrôle est surveillé par des contrôleurs officiels (contrôleurs de la vendange), formés et nommés par le département.
 
-<sup>2</sup> Il est exécuté par les encaveurs, les propriétaires de vendange ou leurs représentants.
+<sup>2</sup> Il est exécuté par les encaveurs.
 
-<sup>3</sup> A leur demande, les encaveurs ou leurs représentants peuvent être assermentés.
+<sup>3</sup> ...
 
-[^23-1]: Modif. 2 du 24.05.1995: Modification Art. 24; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1-2; entrée en vigueur au 01.04.2021; Abrogation Al. 3; entrée en vigueur au 01.04.2021
+[^23-1]: Modif. 2 du 24.05.1995: Modification Art. 24; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Modification Al. 1-2; entrée en vigueur au 01.04.2021; Abrogation Al. 3; entrée en vigueur au 01.04.2021
 
 #### Art. 25
 
-**Collaboration des communes [^24-1]**
+**... [^24-1]**
 
-<sup>1</sup> Les communes collaborent à l'établissement des secteurs de travail des contrôleurs officiels.
+<sup>1</sup> ...
 
-[^24-1]: Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Abrogation tArt; entrée en vigueur au 01.04.2021; Abrogation Al. 1; entrée en vigueur au 01.04.2021
+[^24-1]: Modif. 10 du 17.03.2021: Abrogation tArt; entrée en vigueur au 01.04.2021; Abrogation Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 26
 
 **Contrôleurs officiels [^25-1]**
 
-<sup>1</sup> Les contrôleurs officiels sont assimilés au personnel chargé du contrôle des denrées alimentaires conformément à la loi du 12 décembre 1994 relative à l'exécution de la loi fédérale du 9 octobre 1992 sur les denrées alimentaires et les objets usuels [^26-1] .
+<sup>1</sup> Les contrôleurs officiels sont assimilés au personnel chargé du contrôle des denrées alimentaires conformément aux dispositions fédérales et cantonales en la matière.
 
 <sup>2</sup> Ils sont soumis aux mêmes règles et sont notamment tenus de garder le secret sur les constatations qu'ils font dans l'exercice de leurs fonctions.
 
-<sup>3</sup> Ils sont responsables du bon déroulement du contrôle et ils donnent aux encaveurs, aux propriétaires de vendange ou à leurs représentants toutes directives utiles.
+<sup>3</sup> Ils sont responsables du bon déroulement du contrôle et ils donnent aux encaveurs, aux exploitants, aux propriétaires de vendange ou à leurs représentants toutes directives utiles.
 
 <sup>4</sup> …
 
 <sup>5</sup> …
 
-[^25-1]: Modif. 2 du 24.05.1995: Modification Al. 1,3; entrée en vigueur au 24.05.1995; Abrogation Al. 4,5; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1,3; entrée en vigueur au 01.04.2021
-[^26-1]: Loi du 12.12.1994 relative à l'exécution de la loi fédérale du 09.10.1992 sur les denrées alimentaires et les objets usuels ([BLV 817.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/817.01?id=1f199d65-72e3-4491-8c7c-88bc40db6cb3))
+[^25-1]: Modif. 2 du 24.05.1995: Modification Al. 1,3; entrée en vigueur au 24.05.1995; Abrogation Al. 4,5; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Modification Al. 1,3; entrée en vigueur au 01.04.2021
 
 #### Art. 27
 
-**… [^26-2]**
+**… [^26-1]**
 
-[^26-2]: Modif. 2 du 24.05.1995: Abrogation Art. 27; entrée en vigueur au 24.05.1995
+[^26-1]: Modif. 2 du 24.05.1995: Abrogation Art. 27; entrée en vigueur au 24.05.1995
 
 #### Art. 28
 
 **Obligation des encaveurs [^27-1]**
 
-<sup>1</sup> Les encaveurs, les propriétaires de vendange ou leurs représentants contrôlent quantitativement et qualitativement chaque apport de raisins et en spécifient toutes autres caractéristiques requises.
+<sup>1</sup> Les encaveurs contrôlent quantitativement et qualitativement chaque apport de raisin et en spécifient toute autre caractéristique requise.
 
-[^27-1]: Modif. 2 du 24.05.1995: Modification Art. 28; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021
+[^27-1]: Modif. 2 du 24.05.1995: Modification Art. 28; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 29
 
@@ -368,21 +484,22 @@ arrête
 
 #### Art. 30
 
-**Définition - Attestations de contrôle [^chapterChapitreII-2]**
+**Définition [^chapterChapitreII-2]**
 
 <sup>1</sup> On entend par volume de la vendange la quantité de raisins fraîchement récoltés, exprimée en kilogrammes.
 
-<sup>2</sup> Cette quantité est établie par lot au fur et à mesure des apports, par cépage, par commune et par appellation du lieu de production. Elle figure sur les attestations de contrôle ou toute autre formule agréée par l'autorité cantonale.
+<sup>2</sup> Cette quantité est établie par lot au fur et à mesure des apports, par cépage, par commune, par appellation, et par lieu de production. Elle est enregistrée sur l'application informatique mise à disposition par le service en charge de la viticulture[^30-1].
 
-[^chapterChapitreII-2]: Modif. 2 du 24.05.1995: Modification Al. 2; entrée en vigueur au 24.05.1995 · Modif. 7 du 29.06.2011: Introduction Al. 2; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021
+[^chapterChapitreII-2]: Modif. 2 du 24.05.1995: Modification Al. 2; entrée en vigueur au 24.05.1995 · Modif. 7 du 29.06.2011: Introduction Al. 2; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021
+[^30-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 31
 
-**Rendement [^30-1]**
+**Rendement [^30-2]**
 
 <sup>1</sup> Il est admis un rendement maximal de 80 litres de vin clair pour 100 kilogrammes de raisins, tous cépages confondus.
 
-[^30-1]: Modif. 1 du 06.07.1994: Modification Art. 31; entrée en vigueur au 06.07.1994
+[^30-2]: Modif. 1 du 06.07.1994: Modification Art. 31; entrée en vigueur au 06.07.1994
 
 #### Art. 32
 
@@ -400,11 +517,11 @@ arrête
 
 #### Art. 34
 
-**Raisins de table [^33-1]**
+**Raisin de table [^33-1]**
 
-<sup>1</sup> La récolte de raisins de table n'est pas englobée dans les droits de production (acquits), auxquels elle peut être ajoutée.
+<sup>1</sup> La récolte de raisin de table est englobée dans les droits de production (acquits), auxquels elle ne peut donc pas être ajoutée.
 
-[^33-1]: Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021
+[^33-1]: Modif. 10 du 17.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 35
 
@@ -418,7 +535,7 @@ arrête
 
 <sup>1</sup> Les contestations entre les intéressés doivent être faites au moment du contrôle.
 
-<sup>2</sup> Dans ce cas, le service en charge de la viticulture est saisi sans délai par l'encaveur, le propriétaire de la vendange ou leurs représentants et statue conformément à la loi sur la juridiction et la procédure administratives [^36-1] , applicable par analogie. Sa décision peut faire l'objet d'un recours au Tribunal administratif.
+<sup>2</sup> Dans ce cas, le service en charge de la viticulture[^36-1] est saisi sans délai par l'encaveur, l'exploitant, le propriétaire de la vendange ou leurs représentants et statue conformément à la loi sur la procédure administrative[^36-2], applicable par analogie. Sa décision peut faire l'objet d'un recours au Tribunal cantonal.
 
 <sup>3</sup> …
 
@@ -426,8 +543,9 @@ arrête
 
 <sup>5</sup> …
 
-[^35-1]: Modif. 2 du 24.05.1995: Modification Al. 1,2; entrée en vigueur au 24.05.1995; Abrogation Al. 3-5; entrée en vigueur au 24.05.1995 · Modif. 9 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021
-[^36-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+[^35-1]: Modif. 2 du 24.05.1995: Modification Al. 1,2; entrée en vigueur au 24.05.1995; Abrogation Al. 3-5; entrée en vigueur au 24.05.1995 · Modif. 9 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification Al. 2; entrée en vigueur au 01.04.2021
+[^36-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^36-2]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
 
 ### Chapitre III Contrôle de la qualité
 
@@ -461,11 +579,11 @@ arrête
 
 <sup>1</sup> Le contrôle de la qualité est effectué par l'encaveur, le propriétaire de la vendange ou leurs représentants.
 
-<sup>2</sup> Les résultats sont enregistrés sur l'attestation de contrôle ou toute autre formule agréée par l'autorité cantonale, signée par l'encaveur, le propriétaire de la vendange ou leurs représentants, qui en attestent l'exactitude et en conservent une copie.
+<sup>2</sup> Les résultats sont enregistrés sur l'application informatique mise à disposition par le service.
 
 <sup>3</sup> …
 
-[^38-1]: Modif. 1 du 06.07.1994: Modification Al. 3; entrée en vigueur au 06.07.1994 · Modif. 2 du 24.05.1995: Modification Al. 1,2; entrée en vigueur au 24.05.1995; Abrogation Al. 3; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021
+[^38-1]: Modif. 1 du 06.07.1994: Modification Al. 3; entrée en vigueur au 06.07.1994 · Modif. 2 du 24.05.1995: Modification Al. 1,2; entrée en vigueur au 24.05.1995; Abrogation Al. 3; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Modification Al. 2; entrée en vigueur au 01.04.2021
 
 #### Art. 40
 
@@ -481,25 +599,23 @@ arrête
 
 <sup>1</sup> Les contestations entre les intéressés doivent être faites au moment du contrôle.
 
-<sup>2</sup> Dans ce cas, l'encaveur, le propriétaire de la vendange ou leurs représentants procèdent immédiatement à un deuxième contrôle.
+<sup>2</sup> Dans ce cas, l'encaveur, l'exploitant, le propriétaire de la vendange ou leurs représentants procèdent immédiatement à un deuxième contrôle.
 
-<sup>3</sup> Si des divergences subsistent, l'encaveur, le propriétaire de la vendange ou leurs représentants requièrent un nouveau contrôle par le contrôleur officiel.
+<sup>3</sup> Si des divergences subsistent, l'encaveur, l'exploitant, le propriétaire de la vendange ou leurs représentants requièrent un nouveau contrôle par le contrôleur officiel.
 
-<sup>4</sup> Le contrôleur officiel prélève un échantillon qui sera envoyé sans délai au Laboratoire cantonal qui statue conformément à la loi sur la juridiction et la procédure administratives [^41-1] , applicable par analogie. Sa décision peut faire l'objet d'un recours au Tribunal administratif.
+<sup>4</sup> Le contrôleur officiel prélève un échantillon qui sera envoyé sans délai à l'Office de la consommation qui statue conformément à la loi sur la procédure administrative, applicable par analogie. Sa décision peut faire l'objet d'un recours au Tribunal cantonal.
 
-<sup>5</sup> Conformément à l'article 30 de la loi du 12 décembre 1994 relative à l'exécution de la loi fédérale du 9 octobre 1992 sur les denrées alimentaires et les objets usuels [^41-2] , l'autorité de décision ou de recours pourra ordonner d'office des mesures provisionnelles lorsqu'elle accorde un effet suspensif.
+<sup>5</sup> L'autorité de décision ou de recours pourra ordonner d'office des mesures provisionnelles lorsqu'elle accorde un effet suspensif.
 
-[^40-1]: Modif. 2 du 24.05.1995: Modification Art. 41; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 2-5; entrée en vigueur au 01.04.2021
-[^41-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
-[^41-2]: Loi du 12.12.1994 relative à l'exécution de la loi fédérale du 09.10.1992 sur les denrées alimentaires et les objets usuels ([BLV 817.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/817.01?id=1f199d65-72e3-4491-8c7c-88bc40db6cb3))
+[^40-1]: Modif. 2 du 24.05.1995: Modification Art. 41; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Modification Al. 2-5; entrée en vigueur au 01.04.2021
 
 ### Chapitre IV Contrôle de l'encavage
 
 #### Art. 42
 
-**… [^chapterChapitreIV-1]**
+**… [^chapterChapitreIV-2]**
 
-[^chapterChapitreIV-1]: Modif. 1 du 06.07.1994: Abrogation Art. 42; entrée en vigueur au 06.07.1994
+[^chapterChapitreIV-2]: Modif. 1 du 06.07.1994: Abrogation Art. 42; entrée en vigueur au 06.07.1994
 
 #### Art. 43
 
@@ -507,7 +623,7 @@ arrête
 
 *a) déclassement*
 
-<sup>1</sup> Les encaveurs constatent le déclassement confor-mément à l'article 20.
+<sup>1</sup> Les encaveurs constatent le déclassement conformément à l'article 20.
 
 <sup>2</sup> Les quantités réceptionnées d'une classe choisie qui n'atteignent pas les teneurs naturelles minimales en sucre requises pour cette classe sont déclassées en classe inférieure.
 
@@ -527,41 +643,41 @@ arrête
 
 **c) déclaration des acquits et de l'encavage [^44-1]**
 
-<sup>1</sup> Les encaveurs sont tenus de remplir une déclaration d'encavage indiquant notamment :
+<sup>1</sup> Les encaveurs sont tenus de déclarer leur encavage sur l'application informatique mise à disposition par le service en charge de la viticulture indiquant notamment :
 
-- a. le numéro d'encaveur ;
-- b. les nom, prénom(s) et adresse de l'encaveur, ou raison sociale et adresse de l'entreprise ;
-- c. le nombre total d'acquits déposés et la surface totale qu'ils représentent ;
-- d. le ou les cépages ;
-- e. les droits de production exprimés en litres de vin clair, pour les cépages blancs et rouges et le cas échéant par classe ;
-- f. le ou les lieux de production et mentions ;
+- a. ...
+- b. ...
+- c. ...
+- d. ...
+- e. ...
+- f. ...
 - g. le ou les degré(s) moyen(s) par cépage(s), mention(s) et classe(s), selon l'article 39 ;
-- h. le volume encavé exprimé en litres de vin clair par cépage, classe et mention ;
-- i. le lieu, la date, le sceau et la signature de l'encaveur ou de l'entreprise.
+- h. le volume encavé exprimé en kilos de raisin par cépage, classe et mention ;
+- i. ...
 
-[^44-1]: Modif. 7 du 29.06.2011: Modification Al. 1 e-h; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 1, a-f; entrée en vigueur au 01.04.2021; Modification Al. 1, h; entrée en vigueur au 01.04.2021; Abrogation Al. 1, i; entrée en vigueur au 01.04.2021
+[^44-1]: Modif. 7 du 29.06.2011: Modification Al. 1 e-h; entrée en vigueur au 01.07.2011 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 1, a-f; entrée en vigueur au 01.04.2021; Modification Al. 1, h; entrée en vigueur au 01.04.2021; Abrogation Al. 1, i; entrée en vigueur au 01.04.2021
 
 #### Art. 46
 
-**d) acheminement [^45-1]**
+**d) transmission [^45-1]**
 
-<sup>1</sup> L'original de la déclaration d'encavage est remis au service en charge de la viticulture dès la fin des vendanges, mais au plus tard le 10 novembre de chaque année.
+<sup>1</sup> Toutes les données d'encavage sont validées dans l'application informatique au plus tard le 30 novembre de chaque année.
 
-<sup>2</sup> Les originaux des attestations de contrôle ou de toute formule correspondante agréée par l'autorité cantonale sont joints à l'original de la déclaration prévue à l'alinéa premier.
+<sup>2</sup> ...
 
-[^45-1]: Modif. 2 du 24.05.1995: Modification Art. 46; entrée en vigueur au 24.05.1995 · Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 2; entrée en vigueur au 01.04.2021
+[^45-1]: Modif. 2 du 24.05.1995: Modification Art. 46; entrée en vigueur au 24.05.1995 · Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 2; entrée en vigueur au 01.04.2021
 
 #### Art. 47
 
 **Exécution des contrôles [^46-1]**
 
-<sup>1</sup> Les encaveurs et entreprises concessionnés sont contrôlés par la Commission fédérale du commerce des vins.
+<sup>1</sup> Les encaveurs sont contrôlés par le Contrôle suisse du commerce des vins.
 
-<sup>2</sup> Les encaveurs non concessionnés sont soumis au contrôle du Laboratoire cantonal, qui peut en déléguer l'exécution à tout organisme désigné à cet effet, et requérir la collaboration du service en charge de la viticulture .
+<sup>2</sup> ...
 
-<sup>3</sup> Les encaveurs et entreprises sont tenus de présenter les pièces justificatives requises aux organes de contrôle et de leur donner libre accès aux locaux ou installations de réception ou d'encavage.
+<sup>3</sup> Les encaveurs sont tenus de présenter les éléments justificatifs requis aux organes de contrôle et de leur donner libre accès aux locaux ou installations de réception ou d'encavage.
 
-[^46-1]: Modif. 9 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 2; entrée en vigueur au 01.04.2021; Modification Al. 3; entrée en vigueur au 01.04.2021
+[^46-1]: Modif. 9 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021; Abrogation Al. 2; entrée en vigueur au 01.04.2021; Modification Al. 3; entrée en vigueur au 01.04.2021
 
 #### Art. 48
 
@@ -569,42 +685,43 @@ arrête
 
 <sup>1</sup> Les encaveurs tiennent à disposition des organes de contrôle les documents suivants, qui doivent être conservés durant dix ans :
 
-- a. copie de la déclaration d'encavage (pièce de référence pour les vérifications) ;
-- b. acquit(s) ;
-- c. copies des attestations de sondage ou de toute formule correspondante agréée par l'autorité cantonale.
+- a. données numériques des acquits et de la déclaration d'encavage;
+- b. ...
+- c. ...
 
-<sup>2</sup> De plus, les encaveurs non concessionnés, durant dix ans, tiennent à disposition des organes de contrôle :
+<sup>2</sup> De plus, les encaveurs, durant dix ans, tiennent à disposition des organes de contrôle:
 
-- a. l'état des stocks au 31 décembre de chaque année établi sur formule ad hoc fournie par le Laboratoire cantonal ;
+- a. l'état des stocks au 31 décembre de chaque année ;
 - b. les pièces justificatives permettant en tout temps de déterminer les mouvements de cave.
 
-<sup>3</sup> Les producteurs et encaveurs non concessionnés et concessionnés annoncent mensuellement au service en charge de la viticulture , sur formule ad hoc, tous les achats et les ventes de moûts et de vins en vrac effectués. Les données fournies sont en tout temps mises à disposition des organes de contrôle.
+<sup>3</sup> ...
 
-[^47-1]: Modif. 1 du 06.07.1994: Modification Al. 1 a; entrée en vigueur au 06.07.1994; Abrogation Al. 1 d; entrée en vigueur au 06.07.1994 · Modif. 3 du 16.07.1997: Modification Art. 48; entrée en vigueur au 16.07.1997 · Modif. 8 du 26.08.2015: Introduction Al. 3; entrée en vigueur au 01.09.2015 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1, a; entrée en vigueur au 01.04.2021; Abrogation Al. 1, b-c; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021; Modification Al. 2, a; entrée en vigueur au 01.04.2021; Abrogation Al. 3; entrée en vigueur au 01.04.2021
+[^47-1]: Modif. 1 du 06.07.1994: Modification Al. 1 a; entrée en vigueur au 06.07.1994; Abrogation Al. 1 d; entrée en vigueur au 06.07.1994 · Modif. 3 du 16.07.1997: Modification Art. 48; entrée en vigueur au 16.07.1997 · Modif. 8 du 26.08.2015: Introduction Al. 3; entrée en vigueur au 01.09.2015 · Modif. 10 du 17.03.2021: Modification Al. 1, a; entrée en vigueur au 01.04.2021; Abrogation Al. 1, b-c; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021; Modification Al. 2, a; entrée en vigueur au 01.04.2021; Abrogation Al. 3; entrée en vigueur au 01.04.2021
 
 #### Art. 48a
 
 **Gestion du marché [^48-1]**
 
-<sup>1</sup> Les encaveurs remplissent un récapitulatif des stocks au 31 décembre de chaque année établi sur formule ad hoc.
+<sup>1</sup> Les encaveurs saisissent un récapitulatif des stocks au 31 décembre de chaque année dans l'application informatique.
 
-<sup>2</sup> Cette formule est remise au service en charge de la viticulture au plus tard le 31 janvier de l'année suivante.
+<sup>2</sup> Ce récapitulatif est validé dans l'application informatique au plus tard le 31 janvier de l'année suivante.
 
-<sup>3</sup> Les données des formules individuelles ne peuvent en aucun cas être communiquées à l'autorité fiscale ou à des tiers.
+<sup>3</sup> Les données des stocks ne peuvent en aucun cas être communiquées à l'autorité fiscale ou à des tiers, hormis au Contrôle suisse du commerce des vins.
 
 <sup>4</sup> La synthèse des données est remise aux organisations professionnelles intéressées et peut être librement diffusée.
 
-[^48-1]: Modif. 3 du 16.07.1997: Introduction Art. 48a; entrée en vigueur au 16.07.1997 · Modif. 8 du 26.08.2015: Modification Al. 2; entrée en vigueur au 01.09.2015 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1-3; entrée en vigueur au 01.04.2021
+[^48-1]: Modif. 3 du 16.07.1997: Introduction Art. 48a; entrée en vigueur au 16.07.1997 · Modif. 8 du 26.08.2015: Modification Al. 2; entrée en vigueur au 01.09.2015 · Modif. 10 du 17.03.2021: Modification Al. 1-3; entrée en vigueur au 01.04.2021
 
 #### Art. 49
 
 **Résultats du contrôle de la vendange [^48a-1]**
 
-<sup>1</sup> Le service en charge de la viticulture communique les résultats du contrôle de la vendange à l'Office fédéral de l'agriculture au plus tard à fin novembre de chaque année.
+<sup>1</sup> Le service en charge de la viticulture[^49-1] communique les résultats du contrôle de la vendange à l'Office fédéral de l'agriculture au plus tard à fin janvier de chaque année.
 
 <sup>2</sup> Ces résultats sont remis aux organisations professionnelles intéressées, et peuvent être librement diffusés.
 
-[^48a-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021
+[^48a-1]: Modif. 9 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 17.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
+[^49-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ## Titre III Dispositions finales, abrogatoires et exécutoires
 
@@ -612,13 +729,14 @@ arrête
 
 **Infractions et sanctions [^titleTitreIII-1]**
 
-<sup>1</sup> Toute infraction au présent règlement sera punie conformément aux dispositions pénales de la loi fédérale du 9 octobre 1992 sur les denrées alimentaires et les objets usuels [^50-1] , et celles de l'arrêté fédéral sur la viticulture du 19 juin 1992 .
+<sup>1</sup> Toute infraction au présent règlement sera punie conformément aux dispositions pénales de la loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels[^50-1], et celles de la loi fédérale du 29 avril 1998 sur l'agriculture[^50-2].
 
-<sup>2</sup> La poursuite a lieu conformément à la loi du 18 novembre 1969 sur les contraventions[^50-2] .
+<sup>2</sup> La poursuite a lieu conformément à la loi du 19 mai 2009 sur les contraventions[^50-3].
 
-[^titleTitreIII-1]: Modif. 2 du 24.05.1995: Modification Art. 50; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Introduction Art. 1, Al. 4-7; entrée en vigueur au 01.04.2021; Introduction Art. 3, Al. 1, i-n; entrée en vigueur au 01.04.2021; Introduction Art. 4, Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 7, Al. 4; entrée en vigueur au 01.04.2021; Introduction Art. 21a; entrée en vigueur au 01.04.2021; Introduction Art. 21b; entrée en vigueur au 01.04.2021; Introduction Art. 21c; entrée en vigueur au 01.04.2021; Introduction Art. 21d; entrée en vigueur au 01.04.2021; Introduction Art. 21e; entrée en vigueur au 01.04.2021; Introduction Art. 21f; entrée en vigueur au 01.04.2021; Introduction Art. 21g; entrée en vigueur au 01.04.2021; Introduction Art. 22, Al. 2-3; entrée en vigueur au 01.04.2021; Modification Al. 1-2; entrée en vigueur au 01.04.2021
-[^50-1]: Loi fédérale du 09.10.1992 sur les denrées alimentaires et les objets usuels (RS 817.0)
-[^50-2]: Loi du 19.05.2009 sur les contraventions ([BLV 312.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.11?id=1b6bc951-dbb8-4926-aae9-8e0fdcc46bc3))
+[^titleTitreIII-1]: Modif. 2 du 24.05.1995: Modification Art. 50; entrée en vigueur au 24.05.1995 · Modif. 10 du 17.03.2021: Modification Al. 1-2; entrée en vigueur au 01.04.2021
+[^50-1]: Loi fédérale du 20.06.2014 sur les denrées alimentaires et les objets usuels (RS 817.0)
+[^50-2]: Loi fédérale du 29.04.1998 sur l’agriculture (RS 910.1)
+[^50-3]: Loi du 19.05.2009 sur les contraventions ([BLV 312.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.11?id=1b6bc951-dbb8-4926-aae9-8e0fdcc46bc3))
 
 #### Art. 51
 
