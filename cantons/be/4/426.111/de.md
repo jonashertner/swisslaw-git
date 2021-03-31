@@ -4,13 +4,13 @@ number: "426.111"
 title: Naturschutzverordnung
 short: NSchV
 language: de
-version: 2018-07-01
-valid_until: 2021-03-31
-version_adopted: 2018-05-23
+version: 2021-04-01
+valid_until: 2022-02-28
+version_adopted: 2021-02-17
 adopted: 1993-11-10
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1470/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2166/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1470/pdf_file"
 
 (NSchV)
 
-vom 10.11.1993 (Stand 01.07.2018)
+vom 10.11.1993 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -130,7 +130,7 @@ beschliesst:
 
 **Mitwirkung der Betroffenen**
 
-<sup>1</sup> Die ANF sorgt dafür, dass die betroffenen Grundeigentümer und -eigentümerinnen, Bewirtschafterinnen und Bewirtschafter, weitere in ihren Rechten betroffene Personen, Vereinigungen oder Körperschaften sowie Gemeinden über beabsichtigte Unterschutzstellungen frühzeitig informiert werden und schon bei der Planung mitwirken können.
+<sup>1</sup> Die ANF sorgt dafür, dass die betroffenen Grundeigentümerinnen und -eigentümer, Bewirtschafterinnen und Bewirtschafter, weitere in ihren Rechten betroffene Personen, Vereinigungen oder Körperschaften sowie Gemeinden über beabsichtigte Unterschutzstellungen frühzeitig informiert werden und schon bei der Planung mitwirken können.
 
 <sup>2</sup> Die Mitwirkung kann erfolgen, indem
 
@@ -138,7 +138,7 @@ beschliesst:
 - b die Unterlagen über die vorgesehene Unterschutzstellung während einer Mitwirkungsfrist von 30 Tagen öffentlich aufgelegt werden;
 - c an besonderen Orientierungsversammlungen diese Unterlagen zur Diskussion gestellt werden.
 
-<sup>3</sup> Im Rahmen der Mitwirkung können Einwendungen erhoben und Anregungen unterbreitet werden. Sie sind der Volkswirtschaftsdirektion in Form des Gesprächs-, des Versammlungsprotokolls oder eines zusammenfassenden Mitwirkungsberichtes zur Kenntnis zu bringen. Die Gesprächsprotokolle sind nicht öffentlich.
+<sup>3</sup> Im Rahmen der Mitwirkung können Einwendungen erhoben und Anregungen unterbreitet werden. Sie sind der Wirtschafts-, Energie- und Umweltdirektion in Form des Gesprächs-, des Versammlungsprotokolls oder eines zusammenfassenden Mitwirkungsberichtes zur Kenntnis zu bringen. Die Gesprächsprotokolle sind nicht öffentlich.
 
 <sup>4</sup> Vorbehalten bleiben die Verhandlungen über die Zustimmung zur Unterschutzstellung oder einen Vertragsabschluss sowie über allfällige Entschädigungen und Abgeltungen.
 
@@ -169,7 +169,7 @@ beschliesst:
 
 **Artenschutzzonen**
 
-<sup>1</sup> Zusätzlich zu den Naturschutzgebieten kann die Volkswirtschaftsdirektion für bestimmte Zonen besondere Vorschriften zum Schutze von Tier- und Pflanzenarten verfügen.
+<sup>1</sup> Zusätzlich zu den Naturschutzgebieten kann die Wirtschafts-, Energie- und Umweltdirektion für bestimmte Zonen besondere Vorschriften zum Schutze von Tier- und Pflanzenarten verfügen.
 
 <sup>2</sup> Vorbehalten bleiben die besonderen Bestimmungen der Gesetzgebung über Jagd, Wild- und Vogelschutz sowie über die Fischerei.
 
@@ -417,9 +417,9 @@ beschliesst:
 
 **Fachkommission Biodiversität**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion wählt für eine Amtsdauer von vier Jahren eine Fachkommission Biodiversität mit höchstens elf Mitgliedern und bezeichnet die Präsidentin oder den Präsidenten. Die Kommission besteht aus verwaltungsexternen Fachleuten, die sich mit Fragen der Biodiversität befassen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion wählt für eine Amtsdauer von vier Jahren eine Fachkommission Biodiversität mit höchstens elf Mitgliedern und bezeichnet die Präsidentin oder den Präsidenten. Die Kommission besteht aus verwaltungsexternen Fachleuten, die sich mit Fragen der Biodiversität befassen.
 
-<sup>1a</sup> Die Volkswirtschaftsdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
+<sup>1a</sup> Die Wirtschafts-, Energie- und Umweltdirektion gewährt dem Bernjurassischen Rat und dem Rat für französischsprachige Angelegenheiten des zweisprachigen Amtsbezirks Biel das Recht, vorgängig eine Kandidatin oder einen Kandidaten vorzuschlagen.
 
 <sup>2</sup> Die Fachkommission Biodiversität nimmt aus fachlicher Sicht zuhanden des Amts für Landwirtschaft und Natur Stellung zu Vollzugsfragen von kantonaler Bedeutung betreffend Naturschutz, Agrarökologie und Landschaftsqualität.
 

@@ -4,13 +4,13 @@ number: "426.111"
 title: Ordonnance sur la protection de la nature
 short: OPN
 language: fr
-version: 2018-07-01
-valid_until: 2021-03-31
-version_adopted: 2018-05-23
+version: 2021-04-01
+valid_until: 2022-02-28
+version_adopted: 2021-02-17
 adopted: 1993-11-10
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1470/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2166/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1470/pdf_file"
 
 (OPN)
 
-du 10.11.1993 (état au 01.07.2018)
+du 10.11.1993 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -138,7 +138,7 @@ arrête:
 - b à déposer publiquement les documents concernant la mise sous protection prévue pendant un délai de participation de trente jours;
 - c à mettre en discussion ces documents lors de séances d'information spéciales.
 
-<sup>3</sup> Des objections et des suggestions peuvent être faites dans le cadre de la participation. Elles doivent être portées à la connaissance de la Direction de l'économie publique sous la forme d'un procès-verbal des entretiens, d'un procès-verbal de l'assemblée ou d'un rapport de participation. Les procès-verbaux des entretiens ne sont pas publics.
+<sup>3</sup> Des objections et des suggestions peuvent être faites dans le cadre de la participation. Elles doivent être portées à la connaissance de la Direction de l’économie, de l’énergie et de l’environnement sous la forme d'un procès-verbal des entretiens, d'un procès-verbal de l'assemblée ou d'un rapport de participation. Les procès-verbaux des entretiens ne sont pas publics.
 
 <sup>4</sup> Les tractations concernant l'approbation de la mise sous protection ou la conclusion d'un contrat, ainsi que les éventuels dédommagements et indemnités, sont réservés.
 
@@ -169,7 +169,7 @@ arrête:
 
 **Zones de protection d'espèces**
 
-<sup>1</sup> En plus des réserves naturelles, la Direction de l'économie publique peut arrêter des prescriptions particulières visant la protection d'espèces animales et végétales dans certaines zones.
+<sup>1</sup> En plus des réserves naturelles, la Direction de l’économie, de l’énergie et de l’environnement peut arrêter des prescriptions particulières visant la protection d'espèces animales et végétales dans certaines zones.
 
 <sup>2</sup> Les dispositions particulières de la législation sur la chasse et sur la protection du gibier et des oiseaux, ainsi que sur la pêche, sont réservées.
 
@@ -417,9 +417,9 @@ arrête:
 
 **Commission spécialisée de la biodiversité**
 
-<sup>1</sup> La Direction de l’économie publique nomme onze membres au plus qui forment la Commission spécialisée de la biodiversité pour une période de fonction de quatre ans et en désigne le président ou la présidente. La commission est composée d’experts externes à l’administration qui traitent de questions ayant trait à la biodiversité.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement nomme onze membres au plus qui forment la Commission spécialisée de la biodiversité pour une période de fonction de quatre ans et en désigne le président ou la présidente. La commission est composée d’experts externes à l’administration qui traitent de questions ayant trait à la biodiversité.
 
-<sup>1a</sup> La Direction de l’économie publique octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer en priorité un candidat ou une candidate.
+<sup>1a</sup> La Direction de l’économie, de l’énergie et de l’environnement octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer en priorité un candidat ou une candidate.
 
 <sup>2</sup> La Commission spécialisée de la biodiversité, en sa qualité d’experte, prend position à l’attention de l’Office de l’agriculture et de la nature sur des questions d’importance cantonale relevant de l’exécution en matière de protection de la nature, d’agroécologie et de qualité du paysage.
 
