@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2016 sur le système d’information E-VERA
 short: O E-VERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: fr
-version: 2016-09-01
+version: 2021-04-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20160901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20160901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20160901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20160901/fr"
 
 (O E-VERA)
 
-du 17 août 2016 (Etat le 1<sup>er</sup> septembre 2016)
+du 17 août 2016 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -196,14 +196,15 @@ E-VERA présente une interface électronique avec le système d’information ED
 La sécurité informatique est régie par:
 
 - a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^14-1];
-- b. l’art. 10 de l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^14-2];
-- c. les directives du Conseil fédéral du 1<sup>er</sup> juillet 2015 concernant la sécurité informatique dans l’administration fédérale[^14-3].
+- b.[^14-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^14-3];
+- c.[^14-4] …
 
 <sup>2</sup> La DC édicte un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
 [^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^14-3]: FF **2015 5315**
+[^14-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Abrogée par l’annexe ch. 12 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
@@ -267,7 +268,7 @@ Explication des signes:
 <tr><td>Date de naissance</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Lieu de naissance</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Sexe</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
-<tr><td>Etat civil</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
+<tr><td>État civil</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Lieu d’origine</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B</td><td>D</td><td>C</td></tr>
 <tr><td>Nationalité / Droit de cité</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Indications relatives à la naturalisation, perte de la nationalité: lieu, date, autorité, force de chose jugée</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>

@@ -4,11 +4,11 @@ title: "Verordnung vom 17. August 2016 über das Informationssystem E-VERA (Vero
 short: VEVERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: de
-version: 2016-09-01
+version: 2021-04-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20160901/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20160901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20160901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20160901/de"
 
 (Verordnung E-VERA, VEVERA)
 
-vom 17. August 2016 (Stand am 1. September 2016)
+vom 17. August 2016 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -196,14 +196,15 @@ Das E-VERA weist eine elektronische Schnittstelle zum Informationssystem EDAssis
 Die Informatiksicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
-- b. Artikel 10 der Bundesinformatikverordnung vom 9. Dezember 2011[^14-2];
-- c. den Weisungen des Bundesrates vom 1. Juli 2015[^14-3] über die IKT-Sicherheit in der Bundesverwaltung.
+- b.[^14-2] der Cyberrisikenverordnung vom 27. Mai 2020[^14-3];
+- c.[^14-4] ...
 
 <sup>2</sup> Die KD erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung.
 
 [^14-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^14-3]: [BBl 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+[^14-2]: Fassung gemäss Anhang Ziff. 12 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Aufgehoben durch Anhang Ziff. 12 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
@@ -229,7 +230,7 @@ Die VERA-Verordnung vom 7. Juni 2004[^16-1] wird aufgehoben.
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^17-1]
+...[^17-1]
 
 [^17-1]: Die Änderungen können unter [AS 2016 2933](https://fedlex.data.admin.ch/eli/oc/2016/487)konsultiert werden.
 

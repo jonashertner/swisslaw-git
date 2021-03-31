@@ -3,11 +3,11 @@ sr: "235.22"
 title: "Ordinanza del 17 agosto 2016 concernente il sistema d'informazione E-VERA (Ordinanza E-VERA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: it
-version: 2016-09-01
+version: 2021-04-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20160901/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20160901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20160901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20160901/it"
 
 (Ordinanza E-VERA)
 
-del 17 agosto 2016 (Stato 1° settembre 2016)
+del 17 agosto 2016 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -195,14 +195,15 @@ E-VERA dispone di un’interfaccia elettronica con il sistema d’informazione E
 La sicurezza informatica è retta:
 
 - a. dall’ordinanza del 14 giugno 1993[^14-1] relativa alla legge federale sulla protezione dei dati;
-- b. dall’articolo 10 dell’ordinanza del 9 dicembre 2011[^14-2] sull’informatica nell’Amministrazione federale;
-- c. dalle istruzioni del Consiglio federale del 1° luglio 2015[^14-3] sulla sicurezza TIC nell’Amministrazione federale.
+- b.[^14-2] dall’ordinanza del 27 maggio 2020[^14-3] sui ciber-rischi;
+- c.[^14-4] ...
 
 <sup>2</sup> La DC emana un regolamento per il trattamento dei dati. Il regolamento contiene le misure organizzative e tecniche volte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
 
 [^14-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^14-3]: [FF 2015 4787](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+[^14-2]: Nuovo testo giusta l’all. n. 12 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^14-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^14-4]: Abrogata dall’all. n. 12 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
 
