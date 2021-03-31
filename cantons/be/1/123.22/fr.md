@@ -4,13 +4,13 @@ number: "123.22"
 title: "Ordonnance portant introduction de la loi fédérale sur les documents d'identité"
 short: OiLDI
 language: fr
-version: 2021-03-01
-valid_until: 2021-03-31
-version_adopted: 2021-01-20
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2009-12-23
 in_force: 2010-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/123.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2143/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2219/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2143/pdf_file"
 
 (OiLDI)
 
-du 23.12.2009 (état au 01.03.2021)
+du 23.12.2009 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -39,15 +39,15 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> Le Service des documents d’identité (SDI) de l’Office de la population et des migrations (OPM) remplit en tant qu’autorité d’établissement les tâches concernant les documents d’identité des ressortissants suisses domiciliés dans le canton de Berne.
+<sup>1</sup> Le Service des documents d’identité (SDI) de l’Office de la population (OPOP) remplit en tant qu’autorité d’établissement les tâches concernant les documents d’identité des ressortissants suisses domiciliés dans le canton de Berne.
 
-<sup>2</sup> L’OPM peut déléguer certaines tâches à un autre de ses services.
+<sup>2</sup> L’OPOP peut déléguer certaines tâches à un autre de ses services.
 
 #### Art. 2
 
 **Centres de documents d’identité**
 
-<sup>1</sup> Le SDI gère les centres de documents d’identité mentionnés en annexe.
+<sup>1</sup> Le SDI gère les centres de documents d'identité mentionnés à l'annexe 1.
 
 <sup>2</sup> Le centre principal est sis à Berne. Il fait office de service responsable à l’égard des autorités fédérales pour l’établissement de documents d’identité au sens de l’article 4, alinéa 1 LDI.
 
@@ -119,7 +119,7 @@ arrête:
 
 **Documents requis**
 
-<sup>1</sup> L’OPM peut notamment exiger des personnes requérantes ou de leurs représentants légaux les documents supplémentaires suivants:
+<sup>1</sup> L’OPOP peut notamment exiger des personnes requérantes ou de leurs représentants légaux les documents supplémentaires suivants:
 
 - a certificat d’établissement,
 - b documents d’identité destinés à vérifier l’identité (passeport suisse ou carte d’identité suisse; livret pour étrangers; passeport d’un autre Etat),
@@ -158,7 +158,7 @@ arrête:
 
 <sup>1</sup> S’agissant de l’établissement d’avis de perte de documents d’identité, les émoluments de la POCA sont régis par l’annexe V C, chiffre 5.1.2 de l’ordonnance du 22 février 1995 fixant les émoluments de l’administration cantonale (ordonnance sur les émoluments; OEmo)[^14-1].
 
-<sup>2</sup> L’émolument est partagé entre l’OPM et la POCA à raison de 50 pour cent à chacune des deux entités.
+<sup>2</sup> L’émolument est partagé entre l’OPOP et la POCA à raison de 50 pour cent à chacune des deux entités.
 
 [^14-1]: RSB 154.21
 

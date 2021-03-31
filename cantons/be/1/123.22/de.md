@@ -4,13 +4,13 @@ number: "123.22"
 title: Einführungsverordnung zum eidgenössischen Ausweisgesetz
 short: EV AwG
 language: de
-version: 2021-03-01
-valid_until: 2021-03-31
-version_adopted: 2021-01-20
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2009-12-23
 in_force: 2010-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/123.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2143/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2219/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2143/pdf_file"
 
 (EV AwG)
 
-vom 23.12.2009 (Stand 01.03.2021)
+vom 23.12.2009 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -39,7 +39,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Amt für Migration und Personenstand (Pass- und Identitätskartendienst) nimmt die Aufgaben als ausstellende Behörde für Ausweise für Schweizer Staatsangehörige mit Wohnsitz im Kanton Bern wahr.
+<sup>1</sup> Das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst) nimmt die Aufgaben als ausstellende Behörde für Ausweise für Schweizer Staatsangehörige mit Wohnsitz im Kanton Bern wahr.
 
 <sup>2</sup> Es kann einzelne Aufgaben amtsintern einer anderen Abteilung übertragen.
 
@@ -47,7 +47,7 @@ beschliesst:
 
 **Ausweiszentren**
 
-<sup>1</sup> Das Amt für Migration und Personenstand (Pass- und Identitätskartendienst) führt die im Anhang aufgeführten Ausweiszentren.
+<sup>1</sup> Das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst) führt die im Anhang 1 aufgeführten Ausweiszentren.
 
 <sup>2</sup> Der Hauptstandort ist in Bern. Dieser gilt gegenüber den Bundesbehörden als verantwortliche Stelle für die Ausstellung von Ausweisen gemäss Artikel 4 Absatz 1 AwG.
 
@@ -55,11 +55,11 @@ beschliesst:
 
 **Spezielle Aufgabenbereiche**
 
-<sup>1</sup> Das Amt für Migration und Personenstand (Pass- und Identitätskartendienst) führt für die Ausstellung von provisorischen Pässen eine Notpassstelle am Hauptstandort Bern. Diese Aufgabe kann, wenn vertraglich vereinbart, auch für Bürgerinnen und Bürger mit Wohnsitz in einem anderen Kanton übernommen werden.
+<sup>1</sup> Das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst) führt für die Ausstellung von provisorischen Pässen eine Notpassstelle am Hauptstandort Bern. Diese Aufgabe kann, wenn vertraglich vereinbart, auch für Bürgerinnen und Bürger mit Wohnsitz in einem anderen Kanton übernommen werden.
 
-<sup>2</sup> Das Amt für Migration und Personenstand (Pass- und Identitätskartendienst) erfasst die biometrischen Daten für Reisepapiere gemäss Artikel 59 AuG für im Kanton Bern wohnhafte Ausländerinnen und Ausländer.
+<sup>2</sup> Das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst) erfasst die biometrischen Daten für Reisepapiere gemäss Artikel 59 AuG für im Kanton Bern wohnhafte Ausländerinnen und Ausländer.
 
-<sup>3</sup> Nach Inkrafttreten der entsprechenden bundesrechtlichen Bestimmungen erfasst das Amt für Migration und Personenstand (Pass- und Identitätskartendienst) auch die biometrischen Daten für Ausweispapiere der ausländischen Wohnbevölkerung des Kantons Bern, welche von Schweizer Behörden abgegeben werden.
+<sup>3</sup> Nach Inkrafttreten der entsprechenden bundesrechtlichen Bestimmungen erfasst das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst) auch die biometrischen Daten für Ausweispapiere der ausländischen Wohnbevölkerung des Kantons Bern, welche von Schweizer Behörden abgegeben werden.
 
 #### Art. 4
 
@@ -95,7 +95,7 @@ beschliesst:
 
 **Ausnahme von der persönlichen Erscheinungspflicht**
 
-<sup>1</sup> Über das Absehen von der persönlichen Erscheinungspflicht gemäss Artikel 12 Absatz 4 VAwG entscheidet das Amt für Migration und Personenstand (Pass- und Identitätskartendienst).
+<sup>1</sup> Über das Absehen von der persönlichen Erscheinungspflicht gemäss Artikel 12 Absatz 4 VAwG entscheidet das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst).
 
 <sup>2</sup> Braucht die antragstellende Person nicht persönlich zu erscheinen, werden die Personendaten und die biometrischen Daten durch eine Mitarbeiterin oder einen Mitarbeiter der ausstellenden Behörde mittels einer mobilen Erfassungsstation am Wohn- oder Aufenthaltsort der Bürgerin oder des Bürgers erhoben.
 
@@ -105,7 +105,7 @@ beschliesst:
 
 **Aufnahme des Gesichtsbildes**
 
-<sup>1</sup> Die Aufnahme des Gesichtsbildes als Fotografie zur Ausstellung von sämtlichen Ausweisen erfolgt ausschliesslich durch das Amt für Migration und Personenstand (Pass- und Identitätskartendienst). Mitgebrachte Fotografien in Papierform oder in digitaler Form werden nicht akzeptiert.
+<sup>1</sup> Die Aufnahme des Gesichtsbildes als Fotografie zur Ausstellung von sämtlichen Ausweisen erfolgt ausschliesslich durch das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst). Mitgebrachte Fotografien in Papierform oder in digitaler Form werden nicht akzeptiert.
 
 #### Art. 9
 
@@ -119,7 +119,7 @@ beschliesst:
 
 **Beizubringende Dokumente**
 
-<sup>1</sup> Das Amt für Migration und Personenstand kann von den antragstellenden Personen oder von der gesetzlichen Vertretung der antragstellenden Personen als weitere Dokumente insbesondere verlangen:
+<sup>1</sup> Das Amt für Bevölkerungsdienste kann von den antragstellenden Personen oder von der gesetzlichen Vertretung der antragstellenden Personen als weitere Dokumente insbesondere verlangen:
 
 - a Niederlassungsausweis,
 - b Ausweise zur Prüfung der Identität (Schweizer Pass oder Schweizer Identitätskarte; Ausländerausweis; Pass eines anderen Staates),
@@ -140,7 +140,7 @@ beschliesst:
 
 #### Art. 12
 
-<sup>1</sup> Die Verlustmeldung von Ausweisen richtet sich nach Artikel 23 VAwG. Die Meldung kann auch beim Amt für Migration und Personenstand (Pass- und Identitätskartendienst) erfolgen.
+<sup>1</sup> Die Verlustmeldung von Ausweisen richtet sich nach Artikel 23 VAwG. Die Meldung kann auch beim Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst) erfolgen.
 
 <sup>2</sup> Für den Eintrag in das automatisierte Polizeifahndungssystem RIPOL (Sachfahndung) ist ausschliesslich die Kantonspolizei Bern zuständig.
 
@@ -156,9 +156,9 @@ beschliesst:
 
 **2. Bei Verlustmeldungen**
 
-<sup>1</sup> Für die Aufnahme von Ausweisverlustmeldungen gilt der Gebührentarif der Kantonspolizei Bern gemäss Anhang VC Ziffer 5.1.2 der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung; GebV[^14-1]).
+<sup>1</sup> Für die Aufnahme von Ausweisverlustmeldungen gilt der Gebührentarif der Kantonspolizei Bern gemäss Anhang VC Ziffer 5.1.2 der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung; GebV)[^14-1].
 
-<sup>2</sup> Die Gebühr wird zwischen dem Amt für Migration und Personenstand und der Kantonspolizei Bern zu je 50 Prozent geteilt.
+<sup>2</sup> Die Gebühr wird zwischen dem Amt für Bevölkerungsdienste und der Kantonspolizei Bern zu je 50 Prozent geteilt.
 
 [^14-1]: BSG 154.21
 
@@ -174,7 +174,7 @@ beschliesst:
 
 <sup>1</sup> Sämtliche Gebühren und Auslagen sind bei der Antragstellung vor Ort zu bezahlen.
 
-<sup>2</sup> Über die Zulassung der Zahlungsmittel entscheidet das Amt für Migration und Personenstand (Pass- und Identitätskartendienst).
+<sup>2</sup> Über die Zulassung der Zahlungsmittel entscheidet das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst).
 
 #### Art. 17
 
@@ -186,7 +186,7 @@ beschliesst:
 
 #### Art. 18
 
-<sup>1</sup> Das Amt für Migration und Personenstand (Pass- und Identitätskartendienst) bestimmt die Öffnungszeiten der Ausweiszentren.
+<sup>1</sup> Das Amt für Bevölkerungsdienste (Pass- und Identitätskartendienst) bestimmt die Öffnungszeiten der Ausweiszentren.
 
 <sup>2</sup> Es kann in den Ausweiszentren Öffnungszeiten von Montag bis Samstag vorsehen.
 
