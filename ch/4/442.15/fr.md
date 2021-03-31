@@ -3,11 +3,11 @@ sr: "442.15"
 title: Ordonnance du 14 octobre 2020 sur les mesures dans le domaine de la culture prévues par la loi COVID-19 (Ordonnance COVID-19 culture)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: fr
-version: 2021-01-28
+version: 2021-04-01
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210128/fr/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210128-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/fr"
 
 (Ordonnance COVID-19 culture)
 
-du 14 octobre 2020 (Etat le 28 janvier 2021)
+du 14 octobre 2020 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -49,11 +49,13 @@ Au sens de l’art. 11 de la loi COVID-19 du 25 septembre 2020 et de la présent
 - c. *entreprise culturelle*: personne morale qui réalise la majorité de son chiffre d’affaires dans le domaine de la culture;
 - d. *acteur culturel*: personne physique dont l’activité professionnelle s’exerce principalement dans le domaine de la culture;
 - e. *exercer une activité professionnelle principalement dans le domaine de la culture*: être un acteur culturel professionnel au sens de l’art. 6, al. 2, 1<sup>re</sup> phrase, de l’ordonnance du 23 novembre 2011 sur l’encouragement de la culture (OLEC)[^2-1];
+- e<sup>bis</sup>.[^2-2] *intermittent*: acteur culturel qui, entre le 1<sup>er</sup> janvier 2018 et le moment du dépôt de la demande, a contracté au moins quatre engagements à durée déterminée auprès d’au moins deux employeurs différents du domaine de la culture;
 - f. *association culturelle d’amateurs*: association d’acteurs culturels actifs dans les domaines de la musique et du théâtre qui n’exercent pas une activité professionnelle au sens de l’art. 6, al. 2, 1<sup>re</sup> phrase, OLEC;
 - g. *mesures de l’État*: dispositions ordonnées par les autorités fédérales, cantonales et communales pour lutter contre le coronavirus (COVID-19);
 - h. *projet de transformation:* projet poursuivant l’objectif formulé à l’art. 1, let. b, et visant à opérer la réorientation structurelle d’une entreprise culturelle ou à lui faire gagner du public.
 
 [^2-1]: [RS 442.11](https://fedlex.data.admin.ch/eli/cc/2011/855)
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 3
 
@@ -72,7 +74,7 @@ Des aides financières peuvent être allouées sous les formes suivantes:
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
-## Section 2 Indemnisation des entreprises culturelles et des acteurs culturels
+## Section 2 Indemnisation des entreprises culturelles et des acteurs culturels****
 
 [^sec2-1]
 
@@ -84,7 +86,7 @@ Des aides financières peuvent être allouées sous les formes suivantes:
 
 <sup>1</sup> Les entreprises culturelles et les acteurs culturels reçoivent, sur demande, des aides financières pour les pertes financières résultant de l’annulation, du report ou de la tenue dans un format réduit de manifestations ou de projets, ou en raison de limitations de l’activité par suite de la mise en œuvre des mesures de l’État.[^4-1]
 
-<sup>2</sup> Les acteurs culturels doivent être domiciliés en Suisse. Ils ne peuvent faire valoir que les dommages subis dans l’exercice d’une activité lucrative indépendante.[^4-2]
+<sup>2</sup> Les acteurs culturels doivent être domiciliés en Suisse. Ils ne peuvent faire valoir que les dommages subis dans l’exercice d’une activité lucrative indépendante ou en tant qu’intermittents.[^4-2]
 
 <sup>3</sup>
 
@@ -97,7 +99,7 @@ Les aides financières peuvent être allouées exclusivement aux entreprises cul
 <sup>4</sup> Sont également réputées entreprises culturelles et peuvent prétendre aux aides financières visées par la présente section les organisations d’amateurs dotées d’un budget d’au moins 50 000 francs pour leurs manifestations et qui subissent une perte d’au moins 10 000 francs.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 5
 
@@ -131,21 +133,21 @@ Les demandes doivent être déposées auprès des services compétents désigné
   - 3\. pour les dommages subis entre le 1<sup>er</sup> mai 2021 et le 31 août 2021: jusqu’au 30 septembre 2021,
   - 4\. pour les dommages subis entre le 1<sup>er</sup> septembre 2021 et le 31 décembre 2021: jusqu’au 30 novembre 2021;
 
-- b.
+- b.[^6-1]
 
   demandes déposées par des acteurs culturels:
 
-  - 1\. pour les dommages subis entre 19 décembre 2020 et le 31 janvier 2021: jusqu’au 28 février 2021,
-  - 2\. pour les dommages subis entre 1<sup>er</sup> février 2021 et le 30 avril 2021: jusqu’au 31 mai 2021,
-  - 3\. pour les dommages subis entre 1<sup>er</sup> mai 2021 et le 31 août 2021: jusqu’au 30 septembre 2021,
-  - 4\. pour les dommages subis entre 1<sup>er</sup> septembre 2021 et le 31 décembre 2021: jusqu’au 30 novembre 2021.[^6-1]
+  - 1\. pour les dommages subis entre le 1<sup>er</sup> novembre 2020 et le 30 avril 2021: jusqu’au 31 mai 2021,
+  - 2\. pour les dommages subis entre le 1<sup>er</sup> mai 2021 et le 31 août 2021: jusqu’au 30 septembre 2021,
+  - 3\. pour les dommages subis entre le 1<sup>er</sup> septembre 2021 et le 31 décembre 2021: jusqu’au 30 novembre 2021.[^6-2]
 
-<sup>2</sup> Le canton compétent est celui dans lequel l’entreprise culturelle a son siège ou l’acteur culturel son domicile.[^6-2]
+<sup>2</sup> Le canton compétent est celui dans lequel l’entreprise culturelle a son siège ou l’acteur culturel son domicile.[^6-3]
 
 <sup>3</sup> Les cantons statuent sur les demandes. La procédure est régie par le droit cantonal.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021, en vigueur depuis le 28 janv. 2021 ([RO 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021, en vigueur depuis le 28 janv. 2021 ([RO 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## Section 3 Contributions à des projets de transformation
 
@@ -206,16 +208,18 @@ La procédure est réglée à l’art. 6.
 
 <sup>2</sup> Sont réputées dépenses imputables les coûts de logement, les primes d’assurance, les coûts de maladie et les autres frais d’entretien immédiats tels que les contributions d’entretien et les frais de garde extra-familiale des enfants.
 
-<sup>3</sup> Est réputé revenu déterminant le revenu total imposable prévu provenant d’un emploi salarié ou d’une activité indépendante ainsi que d’autres revenus issus d’indemnités journalières, de rentes, de locations, de tantièmes et d’allocations pour perte de gain COVID-19.
+<sup>3</sup> Est réputé revenu déterminant le revenu total imposable prévu provenant d’un emploi salarié ou d’une activité indépendante ainsi que d’autres revenus issus d’indemnités journalières, de rentes, de locations, de tantièmes et d’allocations pour perte de gain COVID-19. Une franchise de 1000 francs est octroyée sur les revenus provenant d’un emploi salarié ou d’une activité indépendante.[^12-1]
 
-<sup>4</sup> Un revenu déterminant supérieur à 60 000 francs pour les personnes seules ou à 80 000 francs pour les couples exclut l’aide d’urgence. Cette limite est augmentée de 15 000 francs pour chaque enfant à charge.[^12-1]
+<sup>4</sup> Un revenu déterminant supérieur à 60 000 francs pour les personnes seules ou à 80 000 francs pour les couples exclut l’aide d’urgence. Cette limite est augmentée de 15 000 francs pour chaque enfant à charge.[^12-2]
 
-<sup>5</sup> Est réputée fortune déterminante la fortune librement disponible au moment du dépôt de la demande. En font partie les avoirs disponibles sur des comptes bancaires ou sous forme d’immobilisations financières. Sont réputés fortune non librement disponible les avoirs de prévoyance, les assurances sur la vie, les biens immobiliers acquis pour un usage personnel, les instruments de musique, les œuvres d’art de création propre, les véhicules et autres choses nécessaires à l’exercice de la profession. La fortune librement disponible gérée en commun par les conjoints est prise en compte par moitié pour chacun d’eux, sauf si le contrat de mariage en dispose autrement.
+<sup>5</sup> Est réputée fortune déterminante la fortune librement disponible au moment du dépôt de la demande. En font partie les avoirs disponibles sur des comptes bancaires ou sous forme d’immobilisations financières. Sont réputés fortune non librement disponible les avoirs de prévoyance, les assurances sur la vie, les biens immobiliers, les instruments de musique, les œuvres d’art de création propre, les véhicules et autres choses nécessaires à l’exercice de la profession. La fortune librement disponible gérée en commun par les conjoints est prise en compte par moitié pour chacun d’eux, sauf si le contrat de mariage en dispose autrement.[^12-3]
 
-<sup>6</sup> Une fortune déterminante supérieure à 45 000 francs exclut l’aide d’urgence. Cette limite est augmentée de 15 000 francs pour chaque enfant à charge.[^12-2]
+<sup>6</sup> Une fortune déterminante supérieure à 60 000 francs exclut l’aide d’urgence. Cette limite est augmentée de 20 000 francs pour chaque enfant à charge.[^12-4]
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 [^12-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+[^12-4]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 13
 
@@ -288,6 +292,10 @@ Ne peuvent être compensés par une indemnité que les dommages qui:
 
 <sup>4</sup> Les services chargés des allocations pour perte de gain COVID-19 fournissent aux organes d’exécution au sens de la présente ordonnance, à leur demande, les informations nécessaires au calcul des prestations.
 
+<sup>5</sup> Les organes d’exécution au sens de la présente ordonnance peuvent verser aux requérants une avance jusqu’à concurrence de la moitié de l’aide financière prévisible si, après un examen sommaire des principaux documents de la demande, les conditions d’octroi et les critères semblent remplis et si la décision n’a pas encore été rendue 30 jours après le dépôt de la demande d’aide financière. Si la demande d’aide financière est rejetée, l’avance doit être remboursée. Si le montant de l’aide financière octroyée est inférieur à celui de l’avance versée, la différence doit être remboursée.[^18-1]
+
+[^18-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+
 ## Section 7 Exécution, voies de droit et financement
 
 #### Art. 19
@@ -323,7 +331,7 @@ Les voies de droit sont régies:
 
 Les demandes déposées avant le 21 septembre 2020 et en suspens à l’entrée en vigueur de la présente ordonnance sont examinées conformément à l’ordonnance COVID dans le secteur de la culture du 20 mars 2020[^22-1].
 
-[^22-1]: [RO 2020 855](https://fedlex.data.admin.ch/eli/oc/2020/162)[1583](https://fedlex.data.admin.ch/eli/oc/2020/322)
+[^22-1]: [RO 2020 855](https://fedlex.data.admin.ch/eli/oc/2020/162), [1583](https://fedlex.data.admin.ch/eli/oc/2020/322)
 
 #### Art. 23
 

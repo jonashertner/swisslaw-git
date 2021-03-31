@@ -3,11 +3,11 @@ sr: "442.15"
 title: Ordinanza del 14 ottobre 2020 sui provvedimenti nel settore della cultura secondo la legge COVID-19 (Ordinanza COVID-19 cultura)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: it
-version: 2021-01-28
+version: 2021-04-01
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210128/it/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/it"
 
 (Ordinanza COVID-19 cultura)
 
-del 14 ottobre 2020 (Stato 28 gennaio 2021) (Stato 28 gennaio 2021)
+del 14 ottobre 2020 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -49,11 +49,13 @@ Nell’articolo 11 della legge COVID-19 del 25 settembre 2020 e nella presente o
 - c. *impresa culturale*: persona giuridica che realizza il proprio fatturato principalmente nel settore della cultura;
 - d. *operatore culturale*: persona fisica che è attiva principalmente nel settore della cultura;
 - e. *essere attivo principalmente nel settore della cultura*: essere attivo professionalmente ai sensi dell’articolo 6 capoverso 2 primo periodo dell’ordinanza del 23 novembre 2011[^2-1] sulla promozione della cultura (OPCu);
+- e<sup>bis</sup>[^2-2] *operatore culturale occasionale*: operatore culturale che tra il 1° gennaio 2018 e la presentazione della richiesta è stato assunto a tempo determinato almeno quattro volte presso minimo due datori di lavoro diversi attivi nel settore della cultura;
 - f. *organizzazione culturale amatoriale*: organizzazione di operatori culturali nelle discipline della musica e del teatro non attivi professionalmente ai sensi dell’articolo 6 capoverso 2 primo periodo OPCu;
 - g. *provvedimenti statali*: provvedimenti ordinati dalle autorità della Confederazione, dei Cantoni e dei Comuni per combattere il coronavirus (COVID–19);
 - h. *progetto di ristrutturazione*: progetto volto al raggiungimento dello scopo di cui all’articolo 1 lettera b avente come oggetto il riorientamento strutturale dell’impresa culturale o l’acquisizione di pubblico da parte sua.
 
 [^2-1]: [RS 442.11](https://fedlex.data.admin.ch/eli/cc/2011/855)
+[^2-2]: Introdotta dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 3
 
@@ -84,7 +86,7 @@ Possono essere concessi i seguenti aiuti finanziari:
 
 <sup>1</sup> Le imprese culturali e gli operatori culturali che ne fanno richiesta ricevono aiuti finanziari per i danni economici legati all’annullamento, al rinvio o alle limitazioni nello svolgimento di manifestazioni e progetti o dovuti a limitazioni della loro attività a seguito dell’attuazione di provvedimenti statali.[^4-1]
 
-<sup>2</sup> Gli operatori culturali devono essere domiciliati in Svizzera. Possono far valere soltanto i danni finanziari che subiscono nel quadro di un’attività lucrativa indipendente.[^4-2]
+<sup>2</sup> Gli operatori culturali devono essere domiciliati in Svizzera. Possono far valere soltanto i danni finanziari che subiscono nel quadro di un’attività lucrativa indipendente o della loro attività come operatori culturali occasionali.[^4-2]
 
 <sup>3</sup>
 
@@ -97,7 +99,7 @@ Sono assegnati aiuti finanziari soltanto alle imprese culturali che:
 <sup>4</sup> Per gli aiuti finanziari secondo la presente sezione sono considerate imprese culturali anche gli organizzatori amatoriali a condizione che dispongano di un budget per la manifestazione di almeno 50 000 franchi e che subiscano un danno di almeno 10 000 franchi.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 5
 
@@ -131,21 +133,21 @@ Le richieste vanno presentate ai servizi competenti designati dai Cantoni entro 
   - 3\. per i danni insorti tra il 1° maggio 2021 e il 31 agosto 2021, entro il 30 settembre 2021;
   - 4\. per i danni insorti tra il 1° settembre 2021 e il 31 dicembre 2021, entro il 30 novembre 2021;
 
-- b.
+- b.[^6-1]
 
   richieste di operatori culturali:
 
-  - 1\. per i danni insorti tra il 19 dicembre 2020 e il 31 gennaio 2021, entro il 28 febbraio 2021;
-  - 2\. per i danni insorti tra il 1° febbraio 2021 e il 30 aprile 2021, entro il 31 maggio 2021;
-  - 3\. per i danni insorti tra il 1° maggio 2021 e il 31 agosto 2021, entro il 30 settembre 2021;
-  - 4\. per i danni insorti tra il 1° settembre 2021 e il 31 dicembre 2021, entro il 30 novembre 2021.[^6-1]
+  - 1\. per i danni insorti tra il 1° novembre 2020 e il 30 aprile 2021, entro il 31 maggio 2021;
+  - 2\. per i danni insorti tra il 1° maggio 2021 e il 31 agosto 2021, entro il 30 settembre 2021;
+  - 3\. per i danni insorti tra il 1° settembre 2021 e il 31 dicembre 2021, entro il 30 novembre 2021.[^6-2]
 
-<sup>2</sup> Il Cantone competente è quello in cui ha sede l’impresa culturale o è domiciliato l’operatore culturale.[^6-2]
+<sup>2</sup> Il Cantone competente è quello in cui ha sede l’impresa culturale o è domiciliato l’operatore culturale.[^6-3]
 
 <sup>3</sup> I Cantoni decidono in merito alle richieste. La procedura è disciplinata dal diritto cantonale.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021, in vigore dal 28 gen. 2021 ([RU 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021, in vigore dal 28 gen. 2021 ([RU 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
+[^6-3]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## Sezione 3: Contributi a progetti di ristrutturazione
 
@@ -206,16 +208,18 @@ La procedura è disciplinata dall’articolo 6.
 
 <sup>2</sup> Sono considerate spese computabili i costi per l’alloggio, i premi di assicurazione, i costi per le cure sanitarie e altre spese di mantenimento immediate quali segnatamente i contributi di mantenimento e i costi per la custodia esterna dei figli.
 
-<sup>3</sup> È considerato reddito computabile il reddito complessivo imponibile previsto derivante da attività lucrativa indipendente o dipendente e gli altri redditi provenienti segnatamente da indennità giornaliere, rendite, locazioni, partecipazioni agli utili e dall’indennità per perdita di guadagno per il coronavirus.
+<sup>3</sup> Sono considerati reddito computabile il reddito complessivo imponibile previsto derivante da attività lucrativa indipendente o dipendente e gli altri redditi provenienti segnatamente da indennità giornaliere, rendite, locazioni, partecipazioni agli utili e dall’indennità per perdita di guadagno per il coronavirus. È applicata una franchigia di 1000 franchi sul reddito da attività lucrativa dipendente o indipendente.[^12-1]
 
-<sup>4</sup> Un reddito computabile di oltre 60 000 franchi per le persone singole e di oltre 80 000 franchi per i coniugi esclude un aiuto finanziario d’emergenza. Il limite di reddito aumenta di 15 000 franchi per ciascun figlio per cui vi è un obbligo di mantenimento.[^12-1]
+<sup>4</sup> Un reddito computabile di oltre 60 000 franchi per le persone singole e di oltre 80 000 franchi per i coniugi esclude un aiuto finanziario d’emergenza. Il limite di reddito aumenta di 15 000 franchi per ciascun figlio per cui vi è un obbligo di mantenimento.[^12-2]
 
-<sup>5</sup> È considerata sostanza computabile la sostanza liberamente disponibile al momento della presentazione della richiesta. Ne fanno parte gli averi disponibili sui conti bancari e negli investimenti finanziari. Sono considerati patrimonio non liberamente disponibile segnatamente gli averi di previdenza, le assicurazioni sulla vita, l’abitazione per uso proprio, gli strumenti musicali, le opere d’arte di propria creazione nonché i veicoli e gli altri oggetti necessari per l’esercizio della professione. Nel caso delle persone coniugate, fatta salva una convenzione matrimoniale di altro tenore, è computata la metà della sostanza liberamente disponibile amministrata congiuntamente.
+<sup>5</sup> È considerata sostanza computabile la sostanza liberamente disponibile al momento della presentazione della richiesta. Ne fanno parte gli averi disponibili sui conti bancari e negli investimenti finanziari. Sono considerati sostanza non liberamente disponibile segnatamente gli averi di previdenza, le assicurazioni sulla vita, gli immobili, gli strumenti musicali, le opere d’arte di propria creazione nonché i veicoli e gli altri oggetti necessari per l’esercizio della professione. Nel caso delle persone coniugate, fatta salva una convenzione matrimoniale di altro tenore, è computata la metà della sostanza liberamente disponibile amministrata congiuntamente.[^12-3]
 
-<sup>6</sup> Una sostanza computabile di oltre 45 000 franchi esclude un aiuto finanziario d’emergenza. Il limite di sostanza aumenta di 15 000 franchi per ogni figlio per cui vi è un obbligo di mantenimento.[^12-2]
+<sup>6</sup> Una sostanza computabile di oltre 60 000 franchi esclude un aiuto finanziario d’emergenza. Il limite di sostanza aumenta di 20 000 franchi per ogni figlio per cui vi è un obbligo di mantenimento.[^12-4]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^12-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 [^12-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^12-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+[^12-4]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 13
 
@@ -288,6 +292,10 @@ Sono indennizzabili soltanto i danni che:
 
 <sup>4</sup> Gli organi d’esecuzione competenti dell’indennità per perdita di guadagno per il coronavirus trasmettono agli organi d’esecuzione secondo la presente ordinanza le informazioni necessarie per il calcolo degli aiuti su richiesta di questi ultimi.
 
+<sup>5</sup> Se in base a una verifica sommaria dei documenti principali della richiesta si possono ritenere soddisfatte le condizioni che danno diritto agli aiuti finanziari nonché i criteri per l’assegnazione dei contributi e se 30 giorni dopo la presentazione della richiesta la decisione sull’aiuto finanziario non è ancora stata presa, gli organi d’esecuzione secondo la presente ordinanza possono concedere ai richiedenti un anticipo pari al massimo alla metà dell’aiuto finanziario che sarà presumibilmente attribuito. Se l’aiuto finanziario non è concesso, l’anticipo deve essere restituito. Se l’importo dell’aiuto finanziario concesso è inferiore all’anticipo, deve essere restituita la differenza.[^18-1]
+
+[^18-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+
 ## Sezione 7: Esecuzione, procedura di ricorso e finanziamento
 
 #### Art. 19
@@ -323,7 +331,7 @@ La procedura di ricorso è disciplinata:
 
 Le richieste presentate prima del 21 settembre 2020 e pendenti all’entrata in vigore della presente ordinanza sono esaminate in base all’ordinanza COVID cultura del 20 marzo 2020[^22-1].
 
-[^22-1]: [RU 2020 855](https://fedlex.data.admin.ch/eli/oc/2020/162)e [1583](https://fedlex.data.admin.ch/eli/oc/2020/322)
+[^22-1]: [RU 2020 855](https://fedlex.data.admin.ch/eli/oc/2020/162), [1583](https://fedlex.data.admin.ch/eli/oc/2020/322)
 
 #### Art. 23
 

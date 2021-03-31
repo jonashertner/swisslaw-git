@@ -3,11 +3,11 @@ sr: "442.15"
 title: Verordnung vom 14. Oktober 2020 über die Massnahmen im Kulturbereich gemäss Covid-19-Gesetz (Covid-19-Kulturverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: de
-version: 2021-01-28
+version: 2021-04-01
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210128/de/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/de"
 
 (Covid-19-Kulturverordnung)
 
-vom 14. Oktober 2020 (Stand am 28. Januar 2021)
+vom 14. Oktober 2020 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -49,11 +49,13 @@ In Artikel 11 des Covid-19-Gesetzes vom 25. September 2020 und in dieser Verordn
 - c. *Kulturunternehmen*: juristische Person, die ihren Geschäftsumsatz mehrheitlich im Kulturbereich erzielt;
 - d. *Kulturschaffende*: natürliche Personen, die hauptberuflich im Kulturbereich tätig sind;
 - e. *hauptberuflich im Kulturbereich tätig sein*: im Sinne von Artikel 6 Absatz 2 erster Satz der Kulturförderungsverordnung vom 23. November 2011[^2-1] (KFV) professionell tätig sein;
+- e<sup>bis</sup>.[^2-2] *Freischaffende*: Kulturschaffende, die zwischen dem 1. Januar 2018 und der Gesuchseinreichung mindestens vier befristete Anstellungen bei mindestens zwei verschiedenen Arbeitgebern aus dem Kulturbereich hatten;
 - f. *Kulturverein im Laienbereich*: Verein von Kulturschaffenden aus den Sparten Musik und Theater, die nicht im Sinne von Artikel 6 Absatz 2 erster Satz KFV professionell tätig sind;
 - g. *staatliche Massnahmen*: Massnahmen auf Anordnung der Behörden des Bundes, der Kantone und der Gemeinden zur Bekämpfung des Coronavirus (Covid-19);
 - h. *Transformationsprojekt*: Projekt, das auf das Ziel nach Artikel 1 Buchstabe b ausgerichtet ist und die strukturelle Neuausrichtung eines Kulturunternehmens oder dessen Publikumsgewinnung zum Gegenstand hat.
 
 [^2-1]: [SR 442.11](https://fedlex.data.admin.ch/eli/cc/2011/855)
+[^2-2]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 3
 
@@ -72,7 +74,7 @@ Es können folgende Finanzhilfen gewährt werden:
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
-## 2. Abschnitt: Ausfallentschädigung für Kulturunternehmen und für Kulturschaffende****
+## 2. Abschnitt: Ausfallentschädigung für Kulturunternehmen und für Kulturschaffende
 
 [^sec2-1]
 
@@ -84,7 +86,7 @@ Es können folgende Finanzhilfen gewährt werden:
 
 <sup>1</sup> Kulturunternehmen und Kulturschaffende erhalten auf Gesuch Finanzhilfen für den finanziellen Schaden, der aus der Absage, Verschiebung oder eingeschränkten Durchführung von Veranstaltungen und Projekten oder aufgrund betrieblicher Einschränkungen infolge der Umsetzung staatlicher Massnahmen entsteht.[^4-1]
 
-<sup>2</sup> Kulturschaffende müssen ihren Wohnsitz in der Schweiz haben. Sie können nur den finanziellen Schaden geltend machen, der ihnen im Zusammenhang mit einer selbstständigen Erwerbstätigkeit entsteht.[^4-2]
+<sup>2</sup> Kulturschaffende müssen ihren Wohnsitz in der Schweiz haben. Sie können nur den finanziellen Schaden geltend machen, der ihnen im Zusammenhang mit einer selbstständigen Erwerbstätigkeit oder mit ihrer Tätigkeit als Freischaffende entsteht.[^4-2]
 
 <sup>3</sup>
 
@@ -97,7 +99,7 @@ Es erhalten nur Kulturunternehmen Finanzhilfen, die:
 <sup>4</sup> Für die Finanzhilfen nach diesem Abschnitt gelten als Kulturunternehmen auch Veranstalter im Laienbereich, sofern sie ein Veranstaltungsbudget von mindesten 50 000 Franken aufweisen und einen Schaden von mindestens 10 000 Franken erleiden.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 5
 
@@ -131,21 +133,21 @@ Gesuche sind bei den von den Kantonen bezeichneten zuständigen Stellen wie folg
   - 3\. für Schäden zwischen dem 1. Mai 2021 und dem 31. August 2021: bis zum 30. September 2021,
   - 4\. für Schäden zwischen dem 1. September 2021 und dem 31. Dezember 2021: bis zum 30. November 2021;
 
-- b.
+- b.[^6-1]
 
   bei Gesuchen von Kulturschaffenden:
 
-  - 1\. für Schäden zwischen dem 19. Dezember 2020 und dem 31. Januar 2021: bis zum 28. Februar 2021,
-  - 2\. für Schäden zwischen dem 1. Februar 2021 und dem 30. April 2021: bis zum 31. Mai 2021,
-  - 3\. für Schäden zwischen dem 1. Mai 2021 und dem 31. August 2021: bis zum 30. September 2021,
-  - 4\. für Schäden zwischen dem 1. September 2021 und dem 31. Dezember 2021: bis zum 30. November 2021.[^6-1]
+  - 1\. für Schäden zwischen dem 1. November 2020 und dem 30. April 2021: bis zum 31. Mai 2021,
+  - 2\. für Schäden zwischen dem 1. Mai 2021 und dem 31. August 2021: bis zum 30. September 2021,
+  - 3\. für Schäden zwischen dem 1. September 2021 und dem 31. Dezember 2021: bis zum 30. November 2021.[^6-2]
 
-<sup>2</sup> Örtlich zuständig ist der Kanton am Sitz des Kulturunternehmens beziehungsweise am Wohnsitz des Kulturschaffenden.[^6-2]
+<sup>2</sup> Örtlich zuständig ist der Kanton am Sitz des Kulturunternehmens beziehungsweise am Wohnsitz des Kulturschaffenden.[^6-3]
 
 <sup>3</sup> Die Kantone entscheiden über die Gesuche. Das Verfahren richtet sich nach kantonalem Recht.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021, in Kraft seit 28. Jan. 2021 ([AS 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021, in Kraft seit 28. Jan. 2021 ([AS 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## 3. Abschnitt: Beiträge an Transformationsprojekte
 
@@ -206,16 +208,18 @@ Für das Verfahren gilt Artikel 6.
 
 <sup>2</sup> Als anrechenbare Ausgaben gelten Wohnkosten, Versicherungsprämien, Krankheitskosten und weitere Ausgaben des unmittelbaren Lebensunterhaltes wie namentlich Unterhaltsbeiträge und Kosten für externe Kinderbetreuung.
 
-<sup>3</sup> Als anrechenbares Einkommen gilt das voraussichtliche steuerbare Gesamteinkommen aus unselbstständiger Anstellung oder selbstständiger Tätigkeit sowie weiteres Einkommen wie namentlich aus Taggeldern, Renten, Vermietung, Tantiemen und Corona-Erwerbsersatz.
+<sup>3</sup> Als anrechenbares Einkommen gilt das voraussichtliche steuerbare Gesamteinkommen aus unselbstständiger Anstellung oder selbstständiger Tätigkeit sowie weiteres Einkommen wie namentlich aus Taggeldern, Renten, Vermietung, Tantiemen und Corona-Erwerbsersatz. Auf das Einkommen aus unselbstständiger Anstellung oder selbstständiger Tätigkeit wird ein Freibetrag von 1000 Franken gewährt.[^12-1]
 
-<sup>4</sup> Ein anrechenbares Einkommen von über 60 000 Franken bei Einzelpersonen beziehungsweise 80 000 Franken bei Ehepaaren schliesst eine Nothilfe aus. Die Einkommensgrenze erhöht sich je unterhaltspflichtiges Kind um 15 000 Franken.[^12-1]
+<sup>4</sup> Ein anrechenbares Einkommen von über 60 000 Franken bei Einzelpersonen beziehungsweise 80 000 Franken bei Ehepaaren schliesst eine Nothilfe aus. Die Einkommensgrenze erhöht sich je unterhaltspflichtiges Kind um 15 000 Franken.[^12-2]
 
-<sup>5</sup> Als anrechenbares Vermögen gilt das frei verfügbare Vermögen zum Zeitpunkt der Gesuchseinreichung. Dazu gehören verfügbare Mittel auf Bankkonten und in Finanzanlagen. Als nicht frei verfügbares Vermögen gelten namentlich Vorsorgeguthaben, Lebensversicherungen, eine selbstbewohnte Liegenschaft, Musikinstrumente, selbst geschaffene Kunstwerke sowie Fahrzeuge und sonstige Sachen, die zur Berufsausübung notwendig sind. Bei Verheirateten wird unter Vorbehalt eines anderslautenden Ehevertrags das gemeinsam verwaltete freie Vermögen hälftig angerechnet.
+<sup>5</sup> Als anrechenbares Vermögen gilt das frei verfügbare Vermögen zum Zeitpunkt der Gesuchseinreichung. Dazu gehören verfügbare Mittel auf Bankkonten und in Finanzanlagen. Als nicht frei verfügbares Vermögen gelten namentlich Vorsorgeguthaben, Lebensversicherungen, Liegenschaften, Musikinstrumente, selbst geschaffene Kunstwerke sowie Fahrzeuge und sonstige Sachen, die zur Berufsausübung notwendig sind. Bei Verheirateten wird unter Vorbehalt eines anderslautenden Ehevertrags das gemeinsam verwaltete freie Vermögen hälftig angerechnet.[^12-3]
 
-<sup>6</sup> Ein anrechenbares Vermögen von über 45 000 Franken schliesst eine Nothilfe aus. Die Vermögensgrenze erhöht sich für jedes unterhaltspflichtige Kind um 15 000 Franken.[^12-2]
+<sup>6</sup> Ein anrechenbares Vermögen von über 60 000 Franken schliesst eine Nothilfe aus. Die Vermögensgrenze erhöht sich für jedes unterhaltspflichtige Kind um 20 000 Franken.[^12-4]
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 [^12-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+[^12-4]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
 
 #### Art. 13
 
@@ -288,6 +292,10 @@ Ersatzfähig sind nur Schäden, die:
 
 <sup>4</sup> Die Durchführungsstellen für den Corona-Erwerbsersatz liefern den Durchführungsstellen nach dieser Verordnung auf deren Anfrage die für die Leistungsberechnung notwendigen Angaben.
 
+<sup>5</sup> Die Durchführungsstellen nach dieser Verordnung können der Gesuchstellerin oder dem Gesuchsteller einen Vorschuss in der Höhe von maximal der Hälfte der voraussichtlich zu gewährenden Finanzhilfe leisten, sofern die Erfüllung der Anspruchsvoraussetzungen und der Beitragskriterien nach summarischer Prüfung der wesentlichen Gesuchsunterlagen als gegeben erscheint und der Entscheid zur Finanzhilfe 30 Tage nach Einreichung des Gesuchs noch nicht vorliegt. Wird die Finanzhilfe abgelehnt, so muss der Vorschuss zurückerstattet werden. Ist die Finanzhilfe geringer als der Vorschuss, so muss die Differenz zurückerstattet werden.[^18-1]
+
+[^18-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 182](https://fedlex.data.admin.ch/eli/oc/2021/182)).
+
 ## 7. Abschnitt: Vollzug, Rechtsmittelverfahren und Finanzierung
 
 #### Art. 19
@@ -323,7 +331,7 @@ Das Rechtsmittelverfahren richtet sich:
 
 Gesuche, die vor dem 21. September 2020 eingereicht wurden und beim Inkrafttreten dieser Verordnung hängig sind, werden nach der Covid-Verordnung Kultur vom 20. März 2020[^22-1] beurteilt.
 
-[^22-1]: [AS 2020 855](https://fedlex.data.admin.ch/eli/oc/2020/162)[1583](https://fedlex.data.admin.ch/eli/oc/2020/322)
+[^22-1]: [AS 2020 855](https://fedlex.data.admin.ch/eli/oc/2020/162), [1583](https://fedlex.data.admin.ch/eli/oc/2020/322)
 
 #### Art. 23
 
