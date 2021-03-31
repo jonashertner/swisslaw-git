@@ -4,13 +4,12 @@ number: "921.11"
 title: Loi cantonale sur les forêts
 short: LCFo
 language: fr
-version: 2014-01-01
-valid_until: 2021-03-31
-version_adopted: 2013-03-18
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-05-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/921.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/590/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2203/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/590/pdf_file"
 
 (LCFo)
 
-du 05.05.1997 (état au 01.01.2014)
+du 05.05.1997 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -80,7 +79,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif édicte des prescriptions sur la constatation de la nature forestière.
 
-<sup>2</sup> Lorsqu'une constatation de la nature forestière est liée à des aménagements locaux, le service compétent de la Direction de l'économie publique fixe le tracé des limites des forêts. Les communes supportent les frais d'aménagement.
+<sup>2</sup> Lorsqu'une constatation de la nature forestière est liée à des aménagements locaux, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement fixe le tracé des limites des forêts. Les communes supportent les frais d'aménagement.
 
 ## 2 Entretien et exploitation des forêts
 
@@ -121,11 +120,11 @@ arrête:
 
 **Conception, exécution et approbation**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique a la responsabilité de réunir les bases de planification et d'établir, d'exécuter et de tenir à jour le plan forestier régional.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement a la responsabilité de réunir les bases de planification et d'établir, d'exécuter et de tenir à jour le plan forestier régional.
 
 <sup>2</sup> Il veille à assurer une participation publique avant l’adoption du plan forestier régional.
 
-<sup>3</sup> La Direction de l’économie publique approuve le plan forestier régional.
+<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement approuve le plan forestier régional.
 
 ### 2.2 Gestion
 
@@ -171,7 +170,7 @@ arrête:
 
 **Protection des forêts**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique ordonne les mesures forestières pour prévenir et réparer les dégâts qui peuvent compromettre la conservation des forêts ou leur capacité fonctionnelle.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement ordonne les mesures forestières pour prévenir et réparer les dégâts qui peuvent compromettre la conservation des forêts ou leur capacité fonctionnelle.
 
 <sup>2</sup> Il décide l'exécution par substitution si la personne assujettie ne respecte pas les instructions.
 
@@ -181,7 +180,7 @@ arrête:
 
 **Prévention des dégâts causés par le gibier**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique veille à ce que toutes les mesures relevant de la chasse, de la sylviculture et de la technique soient prises pour prévenir les dégâts causés par le gibier.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement veille à ce que toutes les mesures relevant de la chasse, de la sylviculture et de la technique soient prises pour prévenir les dégâts causés par le gibier.
 
 ### 2.2.3 Réserves forestières et compensation écologique en forêt
 
@@ -189,9 +188,9 @@ arrête:
 
 **Réserves forestières**
 
-<sup>1</sup> Les réserves forestières sont délimitées par le service compétent de la Direction de l'économie publique d'après le plan forestier régional et les prescriptions y relatives.
+<sup>1</sup> Les réserves forestières sont délimitées par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement d'après le plan forestier régional et les prescriptions y relatives.
 
-<sup>2</sup> Lorsque le plan forestier régional ne comporte pas d'indications en ce sens, le service compétent de la Direction de l'économie publique peut délimiter une réserve forestière en accord avec les propriétaires fonciers.
+<sup>2</sup> Lorsque le plan forestier régional ne comporte pas d'indications en ce sens, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut délimiter une réserve forestière en accord avec les propriétaires fonciers.
 
 <sup>3</sup> Ce service publie le projet en faisant mention de la possibilité de former opposition.
 
@@ -289,11 +288,11 @@ arrête:
 
 - a à des fins forestières et agricoles,
 - b à la pratique de la chasse dans les limites des prescriptions sur la chasse,
-- c aux riverains,
+- c aux riverains et aux riveraines,
 - d à l'organisation de manifestations autorisées et
 - e aux cas prévus par le droit fédéral ou la législation spéciale.
 
-<sup>2</sup> Le service compétent de la Direction de l’économie publique peut accorder pour d’autres usages une autorisation de circuler limitée dans l’espace et dans le temps.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut accorder pour d’autres usages une autorisation de circuler limitée dans l’espace et dans le temps.
 
 <sup>3</sup> Dans des circonstances particulières, les routes forestières qui desservent également des établissements d'hôtellerie et de restauration, des installations de transport ou d'autres installations peuvent être ouvertes entièrement ou partiellement au trafic motorisé.[^23-1]
 
@@ -326,9 +325,9 @@ arrête:
 
 **2. Exceptions**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique peut autoriser des exceptions de cas en cas, s'il existe des circonstances spéciales.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut autoriser des exceptions de cas en cas, s'il existe des circonstances spéciales.
 
-<sup>2</sup> S'il existe des circonstances spéciales, la distance par rapport à la forêt peut être réduite au moyen de l'alignement dans les plans de quartier et les règlements de construction, avec l'approbation du service compétent de la Direction de l'économie publique.
+<sup>2</sup> S'il existe des circonstances spéciales, la distance par rapport à la forêt peut être réduite au moyen de l'alignement dans les plans de quartier et les règlements de construction, avec l'approbation du service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> Ce service peut lier son approbation à la condition qu'une réglementation permanente de l'entretien des lisières soit convenue entre la commune et les propriétaires de forêts concernés.
 
@@ -433,7 +432,7 @@ arrête:
 
 **Conditions et charges**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique peut assortir l'octroi des subventions de conditions ou de charges.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut assortir l'octroi des subventions de conditions ou de charges.
 
 <sup>2</sup> Si l'octroi de subventions procure un avantage à des tiers, le subventionnement peut être lié à la condition qu'ils fournissent aussi une contribution.
 
@@ -568,7 +567,7 @@ arrête:
 
 <sup>1</sup> La poursuite pénale incombe aux autorités de poursuite pénale ordinaires.
 
-<sup>2</sup> Le service compétent de la Direction de l’économie publique peut exercer les droits de partie en procédure pénale.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut exercer les droits de partie en procédure pénale.
 
 ## 8 Exécution et voies de droit
 
@@ -576,11 +575,11 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique exécute la législation sur les forêts.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement exécute la législation sur les forêts.
 
 <sup>2</sup> Le Conseil-exécutif est habilité à conclure des traités intercantonaux et internationaux, sous réserve de la compétence du Grand Conseil.
 
-<sup>3</sup> Le Conseil-exécutif peut déléguer cette compétence à la Direction de l'économie publique par voie d'ordonnance.
+<sup>3</sup> Le Conseil-exécutif peut déléguer cette compétence à la Direction de l’économie, de l’énergie et de l’environnement par voie d'ordonnance.
 
 #### Art. 49
 
@@ -590,13 +589,13 @@ arrête:
 
 <sup>2</sup> Il peut être formé opposition pendant la durée de l'enquête publique.
 
-<sup>3</sup> Le service compétent de la Direction de l'économie publique approuve les plans et examine les oppositions dans l'arrêté d'approbation.
+<sup>3</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement approuve les plans et examine les oppositions dans l'arrêté d'approbation.
 
 #### Art. 50
 
 **Recours**
 
-<sup>1</sup> Les décisions et les arrêtés d'approbation rendus par le service compétent de la Direction de l'économie publique en vertu de la législation sur les forêts sont susceptibles de recours auprès de la Direction de l'économie publique.
+<sup>1</sup> Les décisions et les arrêtés d'approbation rendus par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement en vertu de la législation sur les forêts sont susceptibles de recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> La procédure est régie par les prescriptions sur la procédure et la juridiction administratives.
 

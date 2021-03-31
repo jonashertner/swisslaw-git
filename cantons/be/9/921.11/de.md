@@ -4,13 +4,12 @@ number: "921.11"
 title: Kantonales Waldgesetz
 short: KWaG
 language: de
-version: 2014-01-01
-valid_until: 2021-03-31
-version_adopted: 2013-03-18
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-05-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/921.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/590/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2203/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/590/pdf_file"
 
 (KWaG)
 
-vom 05.05.1997 (Stand 01.01.2014)
+vom 05.05.1997 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -80,7 +79,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt Vorschriften betreffend Waldfeststellungen.
 
-<sup>2</sup> Bei Waldfeststellungen im Zusammenhang mit Ortsplanungen legt die zuständige Stelle der Volkswirtschaftsdirektion den Verlauf der Waldgrenzen fest. Die Gemeinden tragen die Planungskosten.
+<sup>2</sup> Bei Waldfeststellungen im Zusammenhang mit Ortsplanungen legt die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion den Verlauf der Waldgrenzen fest. Die Gemeinden tragen die Planungskosten.
 
 ## 2 Pflege und Nutzung des Waldes
 
@@ -121,11 +120,11 @@ beschliesst:
 
 **Erstellung, Vollzug und Genehmigung**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ist verantwortlich für die Beschaffung der Planungsgrundlagen und für die Erstellung, den Vollzug sowie die Nachführung des Regionalen Waldplanes.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ist verantwortlich für die Beschaffung der Planungsgrundlagen und für die Erstellung, den Vollzug sowie die Nachführung des Regionalen Waldplanes.
 
 <sup>2</sup> Sie sorgt vor der Genehmigung des Regionalen Waldplans für eine öffentliche Mitwirkung.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion genehmigt den Regionalen Waldplan.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion genehmigt den Regionalen Waldplan.
 
 ### 2.2 Bewirtschaftung
 
@@ -171,7 +170,7 @@ beschliesst:
 
 **Forstschutz**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ordnet die forstlichen Massnahmen gegen die Ursachen und Folgen von Schäden an, welche die Erhaltung des Waldes oder dessen Funktionen gefährden können.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ordnet die forstlichen Massnahmen gegen die Ursachen und Folgen von Schäden an, welche die Erhaltung des Waldes oder dessen Funktionen gefährden können.
 
 <sup>2</sup> Sie verfügt die Ersatzvornahme, falls die oder der Pflichtige den Anordnungen nicht nachkommt.
 
@@ -181,7 +180,7 @@ beschliesst:
 
 **Verhütung von Wildschäden**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion sorgt dafür, dass jagdliche, forstliche und technische Massnahmen zur Verhütung von Wildschäden ergriffen werden.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion sorgt dafür, dass jagdliche, forstliche und technische Massnahmen zur Verhütung von Wildschäden ergriffen werden.
 
 ### 2.2.3 Waldreservate und ökologischer Ausgleich im Wald
 
@@ -189,9 +188,9 @@ beschliesst:
 
 **Waldreservate**
 
-<sup>1</sup> Die Ausscheidung von Waldreservaten erfolgt durch die zuständige Stelle der Volkswirtschaftsdirektion auf der Grundlage des Regionalen Waldplanes und nach den diesbezüglichen Vorschriften.
+<sup>1</sup> Die Ausscheidung von Waldreservaten erfolgt durch die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion auf der Grundlage des Regionalen Waldplanes und nach den diesbezüglichen Vorschriften.
 
-<sup>2</sup> Beim Fehlen entsprechender Angaben im Regionalen Waldplan kann die zuständige Stelle der Volkswirtschaftsdirektion im Einverständnis mit den Grundeigentümerinnen und Grundeigentümern ein Waldreservat einrichten.
+<sup>2</sup> Beim Fehlen entsprechender Angaben im Regionalen Waldplan kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion im Einverständnis mit den Grundeigentümerinnen und Grundeigentümern ein Waldreservat einrichten.
 
 <sup>3</sup> Sie macht das Vorhaben diesfalls unter Hinweis auf die Einsprachemöglichkeit öffentlich bekannt.
 
@@ -289,11 +288,11 @@ beschliesst:
 
 - a zu forstlichen und landwirtschaftlichen Zwecken,
 - b zur Ausübung der Jagd im Rahmen der Jagdvorschriften,
-- c von Anstössern,
+- c von Anstösserinnen und Anstössern,
 - d zur Organisation bewilligter Veranstaltungen sowie
 - e falls das Bundesrecht oder die besondere Gesetzgebung solches vorsieht.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann zu weiteren Zwecken eine örtlich und zeitlich befristete Fahrerlaubnis erteilen.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann zu weiteren Zwecken eine örtlich und zeitlich befristete Fahrerlaubnis erteilen.
 
 <sup>3</sup> Beim Vorliegen besonderer Verhältnisse können Waldstrassen, die zugleich bestehende Gastgewerbebetriebe, Transport- und andere Anlagen erschliessen, für den Motorfahrzeugverkehr ganz oder teilweise geöffnet werden.
 
@@ -323,9 +322,9 @@ beschliesst:
 
 **2. Ausnahmen**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann beim Vorliegen besonderer Verhältnisse Ausnahmen bewilligen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann beim Vorliegen besonderer Verhältnisse Ausnahmen bewilligen.
 
-<sup>2</sup> Liegen besondere Verhältnisse vor, kann der Waldabstand in Überbauungsordnungen und Baureglementen mit Zustimmung der zuständigen Stelle der Volkswirtschaftsdirektion mittels Baulinien verkürzt werden.
+<sup>2</sup> Liegen besondere Verhältnisse vor, kann der Waldabstand in Überbauungsordnungen und Baureglementen mit Zustimmung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion mittels Baulinien verkürzt werden.
 
 <sup>3</sup> Diese Stelle kann ihre Zustimmung davon abhängig machen, dass die Gemeinde mit den betroffenen Waldeigentümerinnen und Waldeigentümern eine dauernde Regelung für die Waldrandpflege getroffen hat.
 
@@ -430,7 +429,7 @@ beschliesst:
 
 **Bedingungen und Auflagen**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann die Beitragsgewährung mit Bedingungen und Auflagen versehen.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann die Beitragsgewährung mit Bedingungen und Auflagen versehen.
 
 <sup>2</sup> Falls durch die Gewährung von Beiträgen auch Dritten ein Vorteil entsteht, kann die Beitragsgewährung davon abhängig gemacht werden, dass diese ebenfalls einen Beitrag leisten.
 
@@ -562,7 +561,7 @@ beschliesst:
 
 <sup>1</sup> Die Strafverfolgung obliegt den ordentlichen Strafverfolgungsbehörden.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann im Strafverfahren Parteirechte ausüben.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann im Strafverfahren Parteirechte ausüben.
 
 ## 8 Vollzug, Rechtspflege und Ausführungsbestimmungen
 
@@ -570,11 +569,11 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion vollzieht die Waldgesetzgebung.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion vollzieht die Waldgesetzgebung.
 
 <sup>2</sup> Der Regierungsrat ist unter Vorbehalt der Zuständigkeit des Grossen Rates zum Abschluss interkantonaler und internationaler Verträge berechtigt.
 
-<sup>3</sup> Er kann diese Kompetenz mit Verordnung an die Volkswirtschaftsdirektion übertragen.
+<sup>3</sup> Er kann diese Kompetenz mit Verordnung an die Wirtschafts-, Energie- und Umweltdirektion übertragen.
 
 #### Art. 49
 
@@ -584,13 +583,13 @@ beschliesst:
 
 <sup>2</sup> Während der Dauer der Auflage kann Einsprache erhoben werden.
 
-<sup>3</sup> Die zuständige Stelle der Volkswirtschaftsdirektion genehmigt die Pläne und setzt sich im Genehmigungsbeschluss mit den Einsprachen auseinander.
+<sup>3</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion genehmigt die Pläne und setzt sich im Genehmigungsbeschluss mit den Einsprachen auseinander.
 
 #### Art. 50
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Verfügungen und Genehmigungsbeschlüsse der zuständigen Stelle der Volkswirtschaftsdirektion, die gestützt auf die Waldgesetzgebung erlassen werden, kann bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen und Genehmigungsbeschlüsse der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion, die gestützt auf die Waldgesetzgebung erlassen werden, kann bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
 <sup>2</sup> Das Verfahren richtet sich nach den Vorschriften über die Verwaltungsrechtspflege.
 
