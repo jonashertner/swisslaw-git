@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210101/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 27 giugno 1995 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -638,7 +638,8 @@ I fornitori di prestazioni comunicano all’Ufficio federale di statistica (UST)
 
 L’UST trasmette ai seguenti destinatari i dati elencati qui di seguito:
 
-- a. all’UFSP: i dati di cui all’articolo 30, se necessari per l’esame delle tariffe (art. 43, art. 46 cpv. 4 e art. 47 LAMal), per le comparazioni tra ospedali (art. 49 cpv. 8 LAMal), per il controllo dell’economicità e della qualità delle prestazioni (art. 32, 58 e 59 LAMal) e per la pubblicazione dei dati (art. 59*a* cpv. 3 LAMal);
+- a.[^30b-2] all’UFSP: i dati di cui all’articolo 30, se necessari per l’esame delle tariffe (art. 43, 46 cpv. 4 e 47 LAMal), per le comparazioni tra ospedali (art. 49 cpv. 8 LAMal), per il controllo dell’economicità e della qualità delle prestazioni (art. 32, 58, 58*h* e 59 LAMal) e per la pubblicazione dei dati (art. 59*a* cpv. 3 LAMal);
+- [tab] a<sup>bis</sup>.[^30b-3]alla Commissione federale per la qualità: i dati necessari per l’adempimento dei compiti di cui all’articolo 58*c* LAMal;
 - b.
 
   alle autorità cantonali competenti:
@@ -647,7 +648,7 @@ L’UST trasmette ai seguenti destinatari i dati elencati qui di seguito:
   - 2\. i dati di cui all’articolo 30 lettere a, d ed e, se necessari per l’esame delle tariffe (art. 43, 46 cpv. 4 e art. 47 LAMal);
 
 - c. agli assicuratori: i dati di cui all’articolo 30 lettere a, c, d ed e, se necessari per eseguire le disposizioni in merito al controllo dell’economicità delle prestazioni a carico dell’assicurazione obbligatoria delle cure medico-sanitarie;
-- d. al Sorvegliante dei prezzi: i dati di cui all’articolo 30, se necessari per l’esame dei prezzi e delle tariffe del sistema sanitario nel quadro dell’articolo 14 della legge federale del 20 dicembre 1985[^30b-2] sulla sorveglianza dei prezzi.
+- d. al Sorvegliante dei prezzi: i dati di cui all’articolo 30, se necessari per l’esame dei prezzi e delle tariffe del sistema sanitario nel quadro dell’articolo 14 della legge federale del 20 dicembre 1985[^30b-4] sulla sorveglianza dei prezzi.
 
 <sup>2</sup> Esso garantisce l’anonimato del personale secondo l’articolo 30 lett. b e dei pazienti secondo l’articolo 30 lett. c durante la trasmissione dei dati personali.
 
@@ -659,7 +660,9 @@ I dati di cui all’articolo 30 sono trasmessi per principio in forma aggregata 
 - b. alle autorità cantonali competenti per la pianificazione degli ospedali, delle case per partorienti e delle case di cura.
 
 [^30b-1]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30b-2]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-2]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^30b-3]: Introdotta dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^30b-4]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
 
 #### Art. 30c
 
@@ -871,7 +874,7 @@ Le commissioni si dotano di un regolamento. Tale regolamento disciplina in parti
 
 **Commissione federale delle prestazioni generali e delle questioni fondamentali**[^37d-1]
 
-<sup>1</sup> La Commissione federale delle prestazioni generali e delle questioni fondamentali consiglia il DFI riguardo alla designazione delle prestazioni secondo l’articolo 33 e alla definizione delle disposizioni secondo gli articoli 36 capoverso 1, 77 capoverso 4 e 104*a* capoverso 4, nonché riguardo alla valutazione di questioni fondamentali nell’assicurazione malattie tenendo conto degli aspetti etici nell’ambito della designazione delle prestazioni.[^37d-2]
+<sup>1</sup> La Commissione federale delle prestazioni generali e delle questioni fondamentali consiglia il DFI riguardo alla designazione delle prestazioni secondo l’articolo 33 e alla definizione delle disposizioni secondo gli articoli 36 capoverso 1, 77*k* e 104*a* capoverso 4, nonché riguardo alla valutazione di questioni fondamentali nell’assicurazione malattie tenendo conto degli aspetti etici nell’ambito della designazione delle prestazioni.[^37d-2]
 
 <sup>2</sup>
 
@@ -898,14 +901,14 @@ La Commissione federale delle prestazioni generali e delle questioni fondamental
 - k. un rappresentante dell’industria della tecnica medica.[^37d-3]
 
 [^37d-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
-[^37d-2]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^37d-2]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^37d-3]: Nuovo testo giusta il n. I 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37e
 
 **Commissione federale dei medicamenti**
 
-<sup>1</sup> La Commissione federale dei medicamenti consiglia l’UFSP in merito alla stesura dell’elenco delle specialità ai sensi dell’articolo 34. Consiglia il DFI riguardo alla definizione delle disposizioni che attengono al proprio ambito ai sensi degli articoli 36 capoverso 1, 75, 77 capoverso 4 e 104*a* capoverso 4. Consiglia inoltre il DFI in merito all’attribuzione di principi attivi e medicamenti a un gruppo di costo farmaceutico dell’elenco di cui all’articolo 4 dell’ordinanza del 19 ottobre 2016[^37e-1] sulla compensazione dei rischi nell’assicurazione malattie e in merito alla determinazione delle dosi giornaliere standard ogni qualvolta un medicamento è ammesso nell’elenco delle specialità per la prima volta o per un’indicazione supplementare.[^37e-2]
+<sup>1</sup> La Commissione federale dei medicamenti consiglia l’UFSP in merito alla stesura dell’elenco delle specialità ai sensi dell’articolo 34. Consiglia il DFI riguardo alla definizione delle disposizioni che attengono al proprio ambito ai sensi degli articoli 36 capoverso 1, 75, 77*k* e 104*a* capoverso 4. Consiglia inoltre il DFI in merito all’attribuzione di principi attivi e medicamenti a un gruppo di costo farmaceutico (PCG) dell’elenco di cui all’articolo 4 dell’ordinanza del 19 ottobre 2016[^37e-1] sulla compensazione dei rischi nell’assicurazione malattie e in merito alla determinazione delle dosi giornaliere standard ogni qualvolta un medicamento è ammesso nell’elenco delle specialità per la prima volta o per un’indicazione supplementare. [^37e-2]
 
 <sup>2</sup>
 
@@ -922,7 +925,7 @@ Essa si compone di 16 membri, di cui:[^37e-3]
 - i.[^37e-4] un rappresentante dei Cantoni.[^37e-5]
 
 [^37e-1]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^37e-2]: Nuovo testo giusta l’art. 31 dell’O del 19 ott. 2016 sulla compensazione dei rischi nell’assicurazione malattie, in vigore dal 1° gen. 2020 ([RU 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
+[^37e-2]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^37e-3]: Nuovo testo giusta il n. I dell’O del 18 gen. 2012, in vigore dal 1° feb. 2012 ([RU 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
 [^37e-4]: Introdotta dal n. I dell’O del 18 gen. 2012, in vigore dal 1° feb. 2012 ([RU 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
 [^37e-5]: Nuovo testo giusta il n. I 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
@@ -931,7 +934,7 @@ Essa si compone di 16 membri, di cui:[^37e-3]
 
 **Commissione federale delle analisi, dei mezzi e degli apparecchi[^37f-1]**
 
-<sup>1</sup> La Commissione federale delle analisi, dei mezzi e degli apparecchi consiglia il DFI in merito alla stesura dell’elenco delle analisi ai sensi dell’articolo 34, in merito alla valutazione e alla determinazione dell’importo del rimborso dei mezzi e degli apparecchi di cui all’articolo 33 lettera e, nonché in merito alla definizione delle disposizioni che attengono al proprio ambito ai sensi degli articoli 36 capoverso 1, 75, 77 capoverso 4 e 104*a* capoverso 4.[^37f-2]
+<sup>1</sup> La Commissione federale delle analisi, dei mezzi e degli apparecchi consiglia il DFI in merito alla stesura dell’elenco delle analisi ai sensi dell’articolo 34, in merito alla valutazione e alla determinazione dell’importo del rimborso dei mezzi e degli apparecchi di cui all’articolo 33 lettera e, nonché in merito alla definizione delle disposizioni che attengono al proprio ambito ai sensi degli articoli 36 capoverso 1, 75, 77*k* e 104*a* capoverso 4. [^37f-2]
 
 <sup>2</sup>
 
@@ -949,7 +952,7 @@ Essa si compone di 15 membri, di cui:
 - j. due rappresentanti dei fabbricanti e dei distributori di mezzi e di apparecchi.[^37f-3]
 
 [^37f-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2007, in vigore dal 1° gen. 2008 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
-[^37f-2]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^37f-2]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^37f-3]: Nuovo testo giusta il n. I 2.10 dell’O del 9 nov. 2011 (verifica delle commissioni extraparlamentari), in vigore dal 1° gen. 2012 ([RU 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37g
@@ -1095,9 +1098,10 @@ Le organizzazioni delle levatrici sono autorizzate se:
 - b. hanno definito il loro campo d’attività quanto al territorio, all’orario, al tipo di cure e di pazienti;
 - c. le loro prestazioni sono fornite da persone che adempiono le condizioni di cui all’articolo 45;
 - d. dispongono delle attrezzature corrispondenti al loro campo d’attività;
-- e. partecipano alle misure di controllo di qualità di cui all’articolo 77, intese a garantire, nell’ambito del loro campo d’attività, l’effettuazione di prestazioni di maternità di buona qualità e adeguate.
+- e.[^45a-2] ...
 
 [^45a-1]: Introdotto dal n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^45a-2]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 ### Sezione 6: Persone che dispensano cure previa prescrizione medica e organizzazioni che le occupano
 
@@ -1235,12 +1239,12 @@ Le organizzazioni che dispensano cure e aiuto a domicilio sono autorizzate se:
 - b.[^51-1] hanno definito il loro campo d’attività quanto al territorio, all’orario, al tipo di cure e di pazienti;
 - c.[^51-2] dispongono del personale specializzato necessario, con formazione corrispondente al loro campo d’attività;
 - d.[^51-3] dispongono delle attrezzature corrispondenti al loro campo d’attività;
-- e.[^51-4] partecipano alle misure di controllo di qualità di cui all’articolo 77, intese a garantire, nell’ambito del loro campo d’attività, l’effettuazione di cure di buona qualità e adeguate.
+- e.[^51-4] ...
 
 [^51-1]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^51-2]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^51-3]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^51-4]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^51-4]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 52
 
@@ -1252,12 +1256,12 @@ Le organizzazioni d’ergoterapia sono autorizzate se:
 - b.[^52-1] hanno definito il loro campo d’attività quanto al territorio, all’orario, al tipo di cure e di pazienti;
 - c.[^52-2] dispongono del personale specializzato necessario, con formazione corrispondente al loro campo d’attività;
 - d.[^52-3] dispongono delle attrezzature corrispondenti al loro campo d’attività;
-- e.[^52-4] partecipano alle misure di controllo di qualità di cui all’articolo 77, intese a garantire, nell’ambito del loro campo d’attività, l’effettuazione di cure di buona qualità e adeguate.
+- e.[^52-4] ...
 
 [^52-1]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^52-2]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^52-3]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^52-4]: Nuovo testo giusta il n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^52-4]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
 
 #### Art. 52a
 
@@ -1269,9 +1273,10 @@ Le organizzazioni di fisioterapia sono autorizzate se:
 - b. hanno definito il loro campo d’attività quanto al territorio, all’orario, al tipo di cure e di pazienti;
 - c. le loro prestazioni sono fornite da persone che adempiono le condizioni di cui all’articolo 47;
 - d. dispongono delle attrezzature corrispondenti al loro campo di attività;
-- e. partecipano alle misure di controllo di qualità di cui all’articolo 77, intese a garantire, nell’ambito del loro campo di attività, l’effettuazione di cure di buona qualità e adeguate.
+- e.[^52a-2] ...
 
 [^52a-1]: Introdotto dal n. I dell’O del 24 giu. 2009, in vigore dal 1° ago. 2009 ([RU 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)).
+[^52a-2]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
 
 #### Art. 52b
 
@@ -1283,9 +1288,10 @@ Le organizzazioni di dietetica sono autorizzate se:
 - b. hanno definito il loro campo d’attività quanto al territorio, all’orario, al tipo di cure e di pazienti;
 - c. le loro prestazioni sono fornite da persone che adempiono le condizioni di cui all’articolo 50*a*;
 - d. dispongono delle attrezzature corrispondenti al loro campo d’attività;
-- e. partecipano alle misure di controllo di qualità di cui all’articolo 77, intese a garantire, nell’ambito del loro campo d’attività, l’effettuazione di cure di buona qualità e adeguate.
+- e.[^52b-2] ...
 
 [^52b-1]: Introdotto dal n. I dell’O del n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
+[^52b-2]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
 
 #### Art. 52c
 
@@ -1297,9 +1303,10 @@ Le organizzazioni di logopedia sono autorizzate se:
 - b. hanno definito il loro campo d’attività quanto al territorio, all’orario, al tipo di cure e di pazienti;
 - c. le loro prestazioni sono fornite da persone che adempiono le condizioni di cui all’articolo 50;
 - d. dispongono delle attrezzature corrispondenti al loro campo d’attività;
-- e. partecipano alle misure di controllo di qualità di cui all’articolo 77, intese a garantire, nell’ambito del loro campo d’attività, una logopedia di buona qualità e adeguata.
+- e.[^52c-2] ...
 
 [^52c-1]: Introdotto dal n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^52c-2]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
 
 ### Sezione 7: Laboratori
 
@@ -1307,21 +1314,20 @@ Le organizzazioni di logopedia sono autorizzate se:
 
 **Principio**
 
-<sup>1</sup>
-
 Sono autorizzati quali laboratori gli istituti che:
 
 - a. eseguono analisi mediche;
 - b. sono autorizzati giusta il diritto cantonale;
-- c. partecipano alle misure relative alla garanzia della qualità di cui all’articolo 77;
+- c.[^53-1] ...
 - d. adempiono le altre condizioni stabilite per i laboratori dalla legislazione della Confederazione o del Cantone;
-- e.[^53-1] dispongono di un’autorizzazione corrispondente dell’Istituto svizzero per gli agenti terapeutici, se eseguono analisi per la diagnosi di malattie trasmissibili;
-- [tab] e<sup>bis</sup>.[^53-2] dispongono di una corrispondente autorizzazione dell’UFSP se eseguono esami citogenetici o genetico-molecolari;
+- e.[^53-2] dispongono di un’autorizzazione corrispondente dell’Istituto svizzero per gli agenti terapeutici, se eseguono analisi per la diagnosi di malattie trasmissibili;
+- [tab] e<sup>bis</sup>.[^53-3] dispongono di una corrispondente autorizzazione dell’UFSP se eseguono esami citogenetici o genetico-molecolari;
 - f. dispongono delle attrezzature adeguate e del personale specializzato necessario;
 - g. adempiono le condizioni d’autorizzazione di cui all’articolo 54.
 
-[^53-1]: Nuovo testo giusta l’art. 27 n. 1 dell’O del 29 apr. 2015 concernente i laboratori di microbiologia, in vigore dal 1° gen. 2016 ([RU 2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)).
-[^53-2]: Introdotta dall’art. 37 n. 2 dell’O del 14 feb. 2007 sugli esami genetici sull’essere umano, in vigore dal 1° apr. 2007 ([RU 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
+[^53-1]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^53-2]: Nuovo testo giusta l’art. 27 n. 1 dell’O del 29 apr. 2015 concernente i laboratori di microbiologia, in vigore dal 1° gen. 2016 ([RU 2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)).
+[^53-3]: Introdotta dall’art. 37 n. 2 dell’O del 14 feb. 2007 sugli esami genetici sull’essere umano, in vigore dal 1° apr. 2007 ([RU 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
 #### Art. 54
 
@@ -2226,15 +2232,181 @@ Ogni rapporto e ogni rapporto intermedio devono contenere almeno le seguenti ind
 
 #### Art. 77
 
-**Garanzia della qualità**
+**Convenzioni sulla qualità**[^77-1]
 
-<sup>1</sup> I fornitori di prestazioni o le loro organizzazioni elaborano concetti e programmi in materia d’esigenze inerenti la qualità delle prestazioni e la promozione della qualità. Le modalità d’esecuzione (controllo dell’osservanza, conseguenze dell’inosservanza, finanziamento) sono regolate nelle convenzioni tariffali o nelle convenzioni particolari relative alla garanzia della qualità, stipulate con gli assicuratori o le loro organizzazioni. Questi ordinamenti devono corrispondere al livello di quanto generalmente riconosciuto, tenuto conto dell’economicità delle prestazioni.
+<sup>1</sup> Le associazioni dei fornitori di prestazioni e degli assicuratori sono tenute ad adeguare le convenzioni sulla qualità agli obiettivi del Consiglio federale di cui all’articolo 58 LAMal e alle raccomandazioni della Commissione federale per la qualità di cui all’articolo 58*c* capoverso 1 lettere c ed h LAMal.
 
-<sup>2</sup> Le parti alla convenzione devono informare l’UFSP in merito alle vigenti disposizioni convenzionate. L’UFSP può esigere un rapporto concernente l’applicazione delle regole sulla garanzia della qualità.
-
-<sup>3</sup> Nei campi per i quali non si è potuto stipulare alcuna convenzione oppure laddove la convenzione non corrisponde ai requisiti di cui al capoverso 1, il Consiglio federale emana le necessarie disposizioni. Sente dapprima le organizzazioni interessate.
+<sup>2</sup> Sono tenute a pubblicare le convenzioni sulla qualità.
 
 <sup>4</sup> Sentita la competente commissione, il DFI stabilisce le misure di cui all’articolo 58 capoverso 3 della legge.
+
+[^77-1]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77a
+
+**Commissione federale per la qualità**[^77a-1]
+
+<sup>1</sup> Il Consiglio federale nomina la presidenza e gli altri membri della Commissione federale per la qualità.
+
+<sup>2</sup>
+
+La Commissione è composta di 15 membri, di cui:
+
+- a. quattro persone rappresentano i fornitori di prestazioni, una delle quali gli ospedali, una i medici e una gli infermieri;
+- b. due persone rappresentano i Cantoni;
+- c. due persone rappresentano gli assicuratori;
+- d. due persone rappresentano gli assicurati e le organizzazioni di pazienti;
+- e. cinque persone rappresentano il campo scientifico.
+
+<sup>3</sup> I membri della Commissione devono disporre di elevate competenze specialistiche nell’ambito della qualità della fornitura delle prestazioni, di ampie conoscenze nella gestione della qualità nonché di buone conoscenze del sistema sanitario e delle assicurazioni sociali svizzero.
+
+<sup>4</sup> Per esaminare temi che riguardano cerchie non rappresentate nella Commissione occorre fare appello a esperti.
+
+<sup>5</sup> La segreteria sottostà alla presidenza della Commissione dal punto di vista specialistico e all’UFSP da quello amministrativo.
+
+<sup>6</sup> La Commissione redige ogni anno un rapporto all’attenzione del Consiglio federale e lo pubblica in forma appropriata.
+
+<sup>7</sup> Pubblica i suoi regolamenti e rapporti come pure i documenti legati ai compiti che le sono stati attribuiti secondo l’articolo 58*c* LAMal.
+
+[^77a-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77b
+
+**Dati dei Cantoni, dei fornitori di prestazioni e degli assicuratori**[^77b-1]
+
+<sup>1</sup> I Cantoni, i fornitori di prestazioni e gli assicuratori devono fornire i dati in maniera corretta, completa, tempestiva e a proprie spese.
+
+<sup>2</sup> Devono trasmettere i dati per via elettronica in forma criptata.
+
+<sup>3</sup> Se nell’adempimento dei compiti di cui sono stati incaricati secondo l’articolo 58*c* capoverso 1 lettere e ed f LAMal constatano lacune nella fornitura dei dati, i terzi assegnano al Cantone, al fornitore di prestazioni o all’assicuratore un termine supplementare per fornire dati corretti e completi e ne informano nel contempo la Commissione federale per la qualità.
+
+[^77b-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77c
+
+**Conservazione, cancellazione e distruzione dei dati**[^77c-1]
+
+<sup>1</sup> Alla conservazione, alla cancellazione e alla distruzione dei dati da parte di terzi di cui all’articolo 77*b* capoverso 3 si applica per analogia l’articolo 31*a*.
+
+<sup>2</sup> I terzi informano i fornitori di dati di cui all’articolo 77*b* capoverso 1 e la Commissione federale per la qualità sulla cancellazione e la distruzione dei dati.
+
+[^77c-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77d
+
+**Procedura di selezione in caso di delega di compiti con indennità**[^77d-1]
+
+<sup>1</sup> Se per la delega di un compito sono disponibili più persone o organizzazioni idonee esterne all’Amministrazione federale, la Commissione federale per la qualità svolge una procedura di selezione trasparente, oggettiva e imparziale.
+
+<sup>2</sup>
+
+La documentazione del bando contiene in particolare:
+
+- a. le condizioni di partecipazione;
+- b. i criteri d’idoneità, che possono riguardare in particolare l’idoneità specialistica, finanziaria, economica, tecnica e organizzativa nonché l’esperienza dell’offerente;
+- c. i criteri di aggiudicazione.
+
+<sup>3</sup> I compiti, per i quali è disponibile una sola persona o organizzazione idonea esterna all’Amministrazione federale, possono essere delegati senza bando.
+
+[^77d-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77e
+
+**Aiuti finanziari**[^77e-1]
+
+<sup>1</sup>
+
+La Commissione federale per la qualità concede aiuti finanziari di cui all’articolo 58*e* capoverso 1 LAMal a progetti nazionali o regionali di sviluppo della qualità se:
+
+- a. contribuiscono allo sviluppo della qualità nell’ambito degli obiettivi di cui all’articolo 58 LAMal;
+- b. rispondono a una necessità d’intervento comprovata;
+- c. la loro realizzazione si basa su metodi scientifici e standard o linee guida riconosciuti;
+- d. non distorcono né possono distorcere la concorrenza.
+
+<sup>2</sup>
+
+Le domande di aiuti finanziari devono permettere una valutazione completa dello sviluppo della qualità previsto. In particolare esse devono contenere:
+
+- a. indicazioni concernenti il richiedente;
+- b. una descrizione del progetto con indicazioni riguardanti l’obiettivo, la necessità d’intervento, la procedura e gli effetti attesi;
+- c. le modalità di verifica del raggiungimento degli obiettivi;
+- d. il calendario dell’esecuzione del progetto;
+- e. un preventivo;
+- f. la documentazione che comprovi l’autofinanziamento, con una motivazione dell’impossibilità di realizzare il progetto senza aiuti finanziari.
+
+<sup>3</sup> La Commissione federale per la qualità emana direttive concernenti le indicazioni e la documentazione da allegare alle domande di cui al capoverso 2.
+
+<sup>4</sup> Al termine del progetto occorre presentare alla Commissione federale per la qualità un rapporto sui risultati del progetto.
+
+[^77e-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77f
+
+**Convenzioni sulle prestazioni concernenti rimunerazioni e aiuti finanziari**[^77f-1]
+
+Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* capoverso 2 LAMal disciplinano in particolare:
+
+- a. i compiti da adempiere;
+- b. gli obiettivi da raggiungere;
+- c. la procedura metodologica;
+- d. il trattamento, la sicurezza e la conservazione dei dati;
+- e. le modalità di verifica del raggiungimento degli obiettivi;
+- f. l’ammontare e la durata della partecipazione finanziaria della Confederazione;
+- g. le modalità di pagamento;
+- h. le conseguenze del mancato o lacunoso adempimento dei compiti;
+- i. l’allestimento di rapporti periodici;
+- j. la presentazione periodica del preventivo e dei conti;
+- k. i requisiti che deve soddisfare il rapporto di cui all’articolo 77*e* capoverso 4.
+
+[^77f-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77g
+
+**Calcolo delle quoteparti di finanziamento dei Cantoni e degli assicuratori**[^77g-1]
+
+<sup>1</sup> Per il calcolo della popolazione residente di cui all’articolo 58*f* capoverso 4 LAMal sono determinanti le cifre dell’ultima rilevazione della statistica demografica dell’UST sulla popolazione residente permanente media.
+
+<sup>2</sup> Il numero degli assicurati di cui all’articolo 58*f* capoverso 5 LAMal è determinato in base all’effettivo degli assicurati il 1° gennaio.
+
+<sup>3</sup> L’UFSP calcola le quoteparti dei Cantoni e degli assicuratori.
+
+[^77g-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77h
+
+**Riscossione dei contributi**[^77h-1]
+
+<sup>1</sup> L’UFSP riscuote i contributi presso i Cantoni e gli assicuratori entro il 30 aprile dell’anno di contribuzione.
+
+<sup>2</sup> Gli assicuratori e i Cantoni, che non pagano il contributo dovuto entro il termine, devono un interesse di mora del cinque per cento all’anno.
+
+[^77h-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77i
+
+**Conteggio**[^77i-1]
+
+L’UFSP effettua il conteggio per il contributo della Confederazione, dei Cantoni e degli assicuratori al 31 marzo di ogni anno civile successivo all’anno di contribuzione. Se dal conteggio risulta un’eccedenza o una copertura insufficiente, il contributo corrispondente per Cantone e assicuratore è trasferito all’anno di contribuzione successivo.
+
+[^77i-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77j
+
+**Multe e sanzioni**[^77j-1]
+
+<sup>1</sup> I mezzi finanziari derivanti da multe e sanzioni applicate da un tribunale arbitrale cantonale per il mancato rispetto delle misure di cui agli articoli 58*a* e 58*h* LAMal sono utilizzati per finanziare i costi di cui all’articolo 58*f* capoverso 1 LAMal.
+
+<sup>2</sup> Il tribunale arbitrale cantonale trasferisce all’UFSP i mezzi finanziari derivanti da multe e sanzioni al 1° gennaio dell’anno successivo.
+
+[^77j-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+
+#### Art. 77k
+
+**Garanzia della qualità**[^77k-1]
+
+Sentita la competente commissione, il DFI stabilisce le misure di cui all’articolo 58*h* capoverso 1 LAMal.
+
+[^77k-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
 
 ### Titolo 5: Finanziamento
 
@@ -3192,9 +3364,9 @@ I laboratori già ammessi in virtù degli articoli 53 e 54 come fornitori di pre
 
 #### Art. 135
 
-**Garanzia della qualità**
+[^135-1]
 
-Le convenzioni di cui all’articolo 77 capoverso 1 vanno stipulate entro il 31 dicembre 1997.
+[^135-1]: Abrogato dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
 
 #### Art. 136
 

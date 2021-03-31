@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210101/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2021)
+vom 27. Juni 1995 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -638,7 +638,8 @@ Die Leistungserbringer geben dem Bundesamt für Statistik (BFS) folgende Daten n
 
 Das BFS gibt folgenden Datenempfängern folgende Daten weiter:
 
-- a. dem BAG: die Daten nach Artikel 30, sofern diese zur Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG), für die Betriebsvergleiche zwischen Spitälern (Art. 49 Abs. 8 KVG), zur Kontrolle der Wirtschaftlichkeit und Qualität der Leistungen (Art. 32, 58 und 59 KVG) und für die Veröffentlichung der Daten (Art. 59*a* Abs. 3 KVG) erforderlich sind;
+- a.[^30b-2] dem BAG: die Daten nach Artikel 30, sofern diese zur Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG), für die Betriebsvergleiche zwischen Spitälern (Art. 49 Abs. 8 KVG), zur Kontrolle der Wirtschaftlichkeit und Qualität der Leistungen (Art. 32, 58, 58*h* und 59 KVG) und für die Veröffentlichung der Daten (Art. 59*a* Abs. 3 KVG) erforderlich sind;
+- a<sup>bis</sup>.[^30b-3] der Eidgenössischen Qualitätskommission: die zur Erfüllung der Aufgaben nach Artikel 58*c* KVG erforderlichen Daten;
 - b.
 
   den zuständigen Behörden der Kantone:
@@ -647,7 +648,7 @@ Das BFS gibt folgenden Datenempfängern folgende Daten weiter:
   - 2\. die Daten nach Artikel 30 Buchstaben a, d und e, sofern diese für die Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG) erforderlich sind;
 
 - c. den Versicherern: die Daten nach Artikel 30 Buchstaben a, c, d und e, sofern diese für den Vollzug der Bestimmungen zur Kontrolle der Wirtschaftlichkeit der Leistungen, die von der obligatorischen Krankenpflegeversicherung übernommen werden, erforderlich sind;
-- d. dem Preisüberwacher: die Daten nach Artikel 30, sofern diese zur Prüfung von Preisen und Tarifen im Gesundheitswesen im Rahmen von Artikel 14 des Preisüberwachungsgesetzes vom 20. Dezember 1985[^30b-2] erforderlich sind.
+- d. dem Preisüberwacher: die Daten nach Artikel 30, sofern diese zur Prüfung von Preisen und Tarifen im Gesundheitswesen im Rahmen von Artikel 14 des Preisüberwachungsgesetzes vom 20. Dezember 1985[^30b-4] erforderlich sind.
 
 <sup>2</sup> Es stellt die Anonymität des Personals nach Artikel 30 Buchstabe b und der Patientinnen und Patienten nach Artikel 30 Buchstabe c bei der Weitergabe der personenbezogenen Daten sicher.
 
@@ -659,7 +660,9 @@ Die Daten nach Artikel 30 werden grundsätzlich auf Betriebsebene aggregiert wei
 - b. den zuständigen Behörden der Kantone für die Planung der Spitäler, Geburtshäuser und Pflegeheime.
 
 [^30b-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
-[^30b-2]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^30b-3]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^30b-4]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
 
 #### Art. 30c
 
@@ -816,7 +819,7 @@ Das Programm muss folgende Anforderungen erfüllen:
 
 Bei Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Liechtenstein oder in Norwegen wohnen und bei einem Aufenthalt in der Schweiz aufgrund von Artikel 95*a* KVG Anspruch auf internationale Leistungsaushilfe haben, übernimmt bei stationärer Behandlung in einem Listenspital in der Schweiz der ausländische Versicherer die Vergütungen, die nach Artikel 49 Absatz 1 KVG in Rechnung gestellt werden.
 
-[^37-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749))..
+[^37-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 ### 3. Kapitel:**** Kommissionen
 
@@ -870,7 +873,7 @@ Die Kommissionen geben sich je eine Geschäftsordnung. Diese regeln namentlich f
 
 **Eidgenössische Kommission für allgemeine Leistungen und Grundsatzfragen**[^37d-1]
 
-<sup>1</sup> Die Eidgenössische Kommission für allgemeine Leistungen und Grundsatzfragen berät das EDI bei der Bezeichnung der Leistungen nach Artikel 33, bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 77 Absatz 4 und 104*a* Absatz 4 sowie bei der Beurteilung von Grundsatzfragen in der Krankenversicherung unter Berücksichtigung der ethischen Aspekte bei der Leistungsbezeichnung.[^37d-2]
+<sup>1</sup> Die Eidgenössische Kommission für allgemeine Leistungen und Grundsatzfragen berät das EDI bei der Bezeichnung der Leistungen nach Artikel 33, bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 77*k* und 104*a* Absatz 4 sowie bei der Beurteilung von Grundsatzfragen in der Krankenversicherung unter Berücksichtigung der ethischen Aspekte bei der Leistungsbezeichnung.[^37d-2]
 
 <sup>2</sup>
 
@@ -897,14 +900,14 @@ Sie besteht aus 18 Mitgliedern. Davon vertreten:
 - k. eine Person die Medizintechnikindustrie.[^37d-3]
 
 [^37d-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
-[^37d-2]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^37d-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^37d-3]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37e
 
 **Eidgenössische Arzneimittelkommission**
 
-<sup>1</sup> Die Eidgenössische Arzneimittelkommission berät das BAG bei der Erstellung der Spezialitätenliste nach Artikel 34. Sie berät das EDI, in ihrem Bereich, bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 75, 77 Absatz 4 und 104*a* Absatz 4. Sie berät das EDI bei der Zuordnung von Wirkstoffen und Arzneimitteln zu einer pharmazeutischen Kostengruppe der Liste nach Artikel 4 der Verordnung vom 19. Oktober 2016[^37e-1] über den Risikoausgleich in der Krankenversicherung sowie bei der Festlegung der standardisierten Tagesdosen, wenn Arzneimittel neu oder für eine zusätzliche Indikation in die Spezialitätenliste aufgenommen werden.[^37e-2]
+<sup>1</sup> Die Eidgenössische Arzneimittelkommission berät das BAG bei der Erstellung der Spezialitätenliste nach Artikel 34. Sie berät das EDI, in ihrem Bereich, bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 75, 77*k* und 104*a* Absatz 4. Sie berät das EDI zudem bei der Zuordnung von Wirkstoffen und Arzneimitteln zu einer pharmazeutischen Kostengruppe (PCG) der Liste nach Artikel 4 der Verordnung vom 19. Oktober 2016[^37e-1] über den Risikoausgleich in der Krankenversicherung sowie bei der Festlegung der standardisierten Tagesdosen, wenn Arzneimittel neu oder für eine zusätzliche Indikation in die Spezialitätenliste aufgenommen werden.[^37e-2]
 
 <sup>2</sup>
 
@@ -921,7 +924,7 @@ Sie besteht aus 16 Mitgliedern. Davon vertreten:[^37e-3]
 - i.[^37e-4] eine Person die Kantone.[^37e-5]
 
 [^37e-1]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
-[^37e-2]: Fassung gemäss Art. 31 der V vom 19. Okt. 2016 über den Risikoausgleich in der Krankenversicherung, in Kraft seit 1. Jan. 2020 ([AS 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
+[^37e-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^37e-3]: Fassung gemäss Ziff. I der V vom 18. Jan. 2012, in Kraft seit 1. Febr. 2012 ([AS 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
 [^37e-4]: Eingefügt durch Ziff. I der V vom 18. Jan. 2012, in Kraft seit 1. Febr. 2012 ([AS 2012 459](https://fedlex.data.admin.ch/eli/oc/2012/61)).
 [^37e-5]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
@@ -930,7 +933,7 @@ Sie besteht aus 16 Mitgliedern. Davon vertreten:[^37e-3]
 
 **Eidgenössische Kommission für Analysen, Mittel und Gegenstände[^37f-1]**
 
-<sup>1</sup> Die Eidgenössische Kommission für Analysen, Mittel und Gegenstände berät das EDI bei der Erstellung der Analysenliste nach Artikel 34, bei der Beurteilung und Festsetzung der Vergütung von Mitteln und Gegenständen nach Artikel 33 Buchstabe e sowie bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 75, 77 Absatz 4 und 104*a* Absatz 4, die ihren Bereich betreffen.[^37f-2]
+<sup>1</sup> Die Eidgenössische Kommission für Analysen, Mittel und Gegenstände berät das EDI bei der Erstellung der Analysenliste nach Artikel 34, bei der Beurteilung und Festsetzung der Vergütung von Mitteln und Gegenständen nach Artikel 33 Buchstabe e sowie bei der Ausarbeitung der Bestimmungen nach den Artikeln 36 Absatz 1, 75, 77*k* und 104*a* Absatz 4, die ihren Bereich betreffen.[^37f-2]
 
 <sup>2</sup>
 
@@ -948,7 +951,7 @@ Sie besteht aus 15 Mitgliedern. Davon vertreten:
 - j. zwei Personen die Hersteller und Vertreiber von Mitteln und Gegenständen.[^37f-3]
 
 [^37f-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
-[^37f-2]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
+[^37f-2]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^37f-3]: Fassung gemäss Ziff. I 2.10 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), in Kraft seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
 #### Art. 37g
@@ -1094,9 +1097,10 @@ Organisationen der Hebammen werden zugelassen, wenn sie:
 - b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
 - c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 45 erfüllen;
 - d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e. an Massnahmen zur Qualitätssicherung nach Artikel 77 teilnehmen, die gewährleisten, dass dem Tätigkeitsbereich entsprechende, qualitativ hoch stehende und zweckmässige Leistungen bei Mutterschaft erbracht werden.
+- e.[^45a-2] ...
 
 [^45a-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^45a-2]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 ### 6. Abschnitt: Personen, die auf ärztliche Anordnung hin Leistungen erbringen, und Organisationen, die solche Personen beschäftigen
 
@@ -1235,12 +1239,12 @@ Organisationen der Krankenpflege und Hilfe zu Hause werden zugelassen, wenn sie:
 - b.[^51-1] ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
 - c.[^51-2] über das erforderliche Fachpersonal verfügen, das eine dem Tätigkeitsbereich entsprechende Ausbildung hat;
 - d.[^51-3] über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e.[^51-4] an Massnahmen zur Qualitätssicherung nach Artikel 77 teilnehmen, die gewährleisten, dass eine dem Tätigkeitsbereich entsprechende, qualitativ hoch stehende und zweckmässige Krankenpflege erbracht wird.
+- e.[^51-4] ...
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^51-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^51-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^51-4]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^51-4]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 52
 
@@ -1252,12 +1256,12 @@ Organisationen der Ergotherapie werden zugelassen, wenn sie:
 - b.[^52-1] ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
 - c.[^52-2] über das erforderliche Fachpersonal verfügen, das eine dem Tätigkeitsbereich entsprechende Ausbildung hat;
 - d.[^52-3] über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e.[^52-4] an Massnahmen zur Qualitätssicherung nach Artikel 77 teilnehmen, die gewährleisten, dass eine dem Tätigkeitsbereich entsprechende, qualitativ hoch stehende und zweckmässige Ergotherapie erbracht wird.
+- e.[^52-4] ...
 
 [^52-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^52-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^52-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
-[^52-4]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
+[^52-4]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 52a
 
@@ -1269,9 +1273,10 @@ Organisationen der Physiotherapie werden zugelassen, wenn sie:
 - b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
 - c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 47 erfüllen;
 - d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e. an Massnahmen zur Qualitätssicherung nach Artikel 77 teilnehmen, die gewährleisten, dass eine dem Tätigkeitsbereich entsprechende, qualitativ hoch stehende und zweckmässige Physiotherapie erbracht wird.
+- e.[^52a-2] ...
 
 [^52a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Aug. 2009 ([AS 2009 3525](https://fedlex.data.admin.ch/eli/oc/2009/434)).
+[^52a-2]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 52b
 
@@ -1283,9 +1288,10 @@ Organisationen der Ernährungsberatung werden zugelassen, wenn sie:
 - b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
 - c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 50*a* erfüllen;
 - d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e. an Massnahmen zur Qualitätssicherung nach Artikel 77 teilnehmen, die gewährleisten, dass eine dem Tätigkeitsbereich entsprechende, qualitativ hoch stehende und zweckmässige Ernährungsberatung erbracht wird.
+- e.[^52b-2] ...
 
 [^52b-1]: Eingefügt durch Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
+[^52b-2]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 52c
 
@@ -1297,9 +1303,10 @@ Organisationen der Logopädie werden zugelassen, wenn sie:
 - b. ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt haben;
 - c. ihre Leistungen durch Personen erbringen, welche die Voraussetzungen nach Artikel 50 erfüllen;
 - d. über Einrichtungen verfügen, die dem Tätigkeitsbereich entsprechen;
-- e. an Massnahmen zur Qualitätssicherung nach Artikel 77 teilnehmen, die gewährleisten, dass eine dem Tätigkeitsbereich entsprechende, qualitativ hoch stehende und zweckmässige Logopädie erbracht wird.
+- e.[^52c-2] ...
 
 [^52c-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
+[^52c-2]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 ### 7. Abschnitt: Laboratorien
 
@@ -1311,15 +1318,16 @@ Als Laboratorien werden Einrichtungen zugelassen, die:
 
 - a. medizinische Analysen durchführen;
 - b. nach kantonalem Recht zugelassen sind;
-- c. an den Qualitätssicherungsmassnahmen nach Artikel 77 teilnehmen;
+- c.[^53-1] ...
 - d. den übrigen von der Gesetzgebung des Bundes oder des Kantons festgesetzten Anforderungen an Laboratorien entsprechen;
-- e.[^53-1] über eine entsprechende Bewilligung des Schweizerischen Heilmittelinstituts Swissmedic (Institut) verfügen, wenn sie Untersuchungen zur Erkennung übertragbarer Krankheiten durchführen;
-- [tab] e<sup>bis</sup>.[^53-2] über eine entsprechende Bewilligung des BAG verfügen, wenn sie zyto- oder molekulargenetische Untersuchungen durchführen;
+- e.[^53-2] über eine entsprechende Bewilligung des Schweizerischen Heilmittelinstituts Swissmedic (Institut) verfügen, wenn sie Untersuchungen zur Erkennung übertragbarer Krankheiten durchführen;
+- [tab] e<sup>bis</sup>.[^53-3] über eine entsprechende Bewilligung des BAG verfügen, wenn sie zyto- oder molekulargenetische Untersuchungen durchführen;
 - f. über zweckentsprechende Einrichtungen und das erforderliche Fachpersonal verfügen;
 - g. die Zulassungsbedingungen nach Artikel 54 erfüllen.
 
-[^53-1]: Fassung gemäss Art. 27 Ziff. 1 der V vom 29. April 2015 über mikrobiologische Laboratorien, in Kraft seit 1. Jan. 2016 ([AS 2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)).
-[^53-2]: Eingefügt durch Art. 37 Ziff. 2 der V vom 14. Febr. 2007 über genetische Untersuchungen beim Menschen, in Kraft seit 1. April 2007 ([AS 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
+[^53-1]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^53-2]: Fassung gemäss Art. 27 Ziff. 1 der V vom 29. April 2015 über mikrobiologische Laboratorien, in Kraft seit 1. Jan. 2016 ([AS 2015 1497](https://fedlex.data.admin.ch/eli/oc/2015/299)).
+[^53-3]: Eingefügt durch Art. 37 Ziff. 2 der V vom 14. Febr. 2007 über genetische Untersuchungen beim Menschen, in Kraft seit 1. April 2007 ([AS 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
 #### Art. 54
 
@@ -2226,15 +2234,179 @@ Jeder Bericht sowie jeder Zwischenbericht enthält mindestens folgende Angaben:
 
 #### Art. 77
 
-**Qualitätssicherung**
+**Qualitätsverträge**[^77-1]
 
-<sup>1</sup> Die Leistungserbringer oder deren Verbände erarbeiten Konzepte und Programme über die Anforderungen an die Qualität der Leistungen und die Förderung der Qualität. Die Modalitäten der Durchführung (Kontrolle der Erfüllung und Folgen der Nichterfüllung der Qualitätsanforderungen sowie Finanzierung) werden in den Tarifverträgen oder in besonderen Qualitätssicherungsverträgen mit den Versicherern oder deren Verbänden vereinbart. Die Bestimmungen haben den allgemein anerkannten Standards zu entsprechen, unter Berücksichtigung der Wirtschaftlichkeit der Leistungen.
+<sup>1</sup> Die Verbände der Leistungserbringer und der Versicherer müssen die Qualitätsverträge an die Ziele des Bundesrates nach Artikel 58 KVG und die Empfehlungen der Eidgenössischen Qualitätskommission nach Artikel 58*c* Absatz 1 Buchstaben c und h KVG anpassen.
 
-<sup>2</sup> Die Vertragsparteien sind verpflichtet, das BAG über die jeweils gültigen Vertragsbestimmungen zu informieren. Das BAG kann über die Durchführung der Qualitätssicherung eine Berichterstattung verlangen.
+<sup>2</sup> Sie müssen die Qualitätsverträge veröffentlichen.
 
-<sup>3</sup> In den Bereichen, in denen kein Vertrag abgeschlossen werden konnte oder dieser nicht den Anforderungen von Absatz 1 entspricht, erlässt der Bundesrat die erforderlichen Bestimmungen. Er hört zuvor die interessierten Organisationen an.
+[^77-1]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
-<sup>4</sup> Das EDI setzt nach Anhören der zuständigen Kommission die Massnahmen nach Artikel 58 Absatz 3 des Gesetzes fest.
+#### Art. 77a
+
+**Eidgenössische Qualitätskommission**[^77a-1]
+
+<sup>1</sup> Der Bundesrat wählt das Präsidium und die weiteren Mitglieder der Eidgenössischen Qualitätskommission.
+
+<sup>2</sup>
+
+Die Kommission besteht aus 15 Mitgliedern; davon vertreten:
+
+- a. vier Personen die Leistungserbringer, wobei eine Person die Spitäler, eine Person die Ärzteschaft und eine Person die Pflegefachfrauen und Pflegefachmänner vertritt;
+- b. zwei Personen die Kantone;
+- c. zwei Personen die Versicherer;
+- d. zwei Personen die Versicherten und die Patientenorganisationen;
+- e. fünf Personen die Wissenschaft.
+
+<sup>3</sup> Die Mitglieder der Kommission müssen über eine grosse Fachkompetenz im Bereich der Qualität der Leistungserbringung, ein grosses Wissen im Qualitätsmanagement sowie gute Kenntnisse des schweizerischen Gesundheits- und Sozialversicherungssystems verfügen.
+
+<sup>4</sup> Für die Beratung von Themen, die nicht in der Kommission vertretene Kreise betreffen, müssen entsprechende Expertinnen und Experten beigezogen werden.
+
+<sup>5</sup> Das Sekretariat der Kommission untersteht fachlich dem Präsidium der Kommission und administrativ dem BAG.
+
+<sup>6</sup> Die Kommission erstellt jährlich einen Bericht zuhanden des Bundesrates und veröffentlicht diesen in geeigneter Form.
+
+<sup>7</sup> Sie veröffentlicht ihre Reglemente und Berichte sowie die Dokumente, die mit den ihr nach Artikel 58*c* KVG zugewiesenen Aufgaben zusammenhängen.
+
+[^77a-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77b
+
+**Daten der Kantone, der Leistungserbringer und der Versicherer**[^77b-1]
+
+<sup>1</sup> Die Kantone, die Leistungserbringer und die Versicherer müssen die Daten korrekt, vollständig, fristgerecht und auf eigene Kosten liefern.
+
+<sup>2</sup> Sie müssen die Daten in verschlüsselter Form elektronisch übermitteln.
+
+<sup>3</sup> Stellen die Dritten bei der Erfüllung der Aufgaben, mit denen sie nach Artikel 58*c* Absatz 1 Buchstaben e und f KVG beauftragt wurden, Mängel in der Datenlieferung fest, so setzen sie dem Kanton, dem Leistungserbringer oder dem Versicherer eine Nachfrist zur Lieferung korrekter und vollständiger Daten und informieren gleichzeitig die Eidgenössische Qualitätskommission.
+
+[^77b-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77c
+
+**Aufbewahrung, Löschung und Vernichtung der Daten**[^77c-1]
+
+<sup>1</sup> Für die Aufbewahrung, die Löschung und die Vernichtung der Daten durch die Dritten nach Artikel 77*b* Absatz 3 gilt Artikel 31*a* sinngemäss.
+
+<sup>2</sup> Die Dritten informieren die Datenlieferanten nach Artikel 77*b* Absatz 1 und die Eidgenössische Qualitätskommission über die Löschung und die Vernichtung der Daten.
+
+[^77c-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77d
+
+**Auswahlverfahren bei der Übertragung von Aufgaben mit Abgeltung**[^77d-1]
+
+<sup>1</sup> Stehen für die Übertragung einer Aufgabe mehrere geeignete Personen oder Organisationen ausserhalb der Bundesverwaltung zur Auswahl, so führt die Eidgenössische Qualitätskommission ein transparentes, objektives und unparteiisches Auswahlverfahren durch.
+
+<sup>2</sup>
+
+Die Ausschreibungsunterlagen enthalten insbesondere:
+
+- a. die Teilnahmebedingungen;
+- b. die Eignungskriterien, die insbesondere die fachliche, finanzielle, wirtschaftliche, technische und organisatorische Leistungsfähigkeit sowie die Erfahrung der Anbieterin betreffen können;
+- c. die Zuschlagskriterien.
+
+<sup>3</sup> Steht für die Übertragung einer Aufgabe nur eine geeignete Person oder Organisation ausserhalb der Bundesverwaltung zur Verfügung, so kann die Aufgabe ohne Ausschreibung übertragen werden.
+
+[^77d-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77e
+
+**Finanzhilfen**[^77e-1]
+
+<sup>1</sup>
+
+Die Eidgenössische Qualitätskommission gewährt Finanzhilfen nach Artikel 58*e* Absatz 1 KVG an nationale oder regionale Projekte zur Qualitätsentwicklung, wenn diese:
+
+- a. einen Beitrag an die Qualitätsentwicklung im Rahmen der Ziele nach Artikel 58 KVG leisten;
+- b. aufgrund von nachgewiesenem Handlungsbedarf ausgelöst wurden;
+- c. nach wissenschaftlichen Methoden und anerkannten Standards oder Leitlinien durchgeführt werden;
+- d. nicht zu Wettbewerbsverzerrung führen oder führen können.
+
+<sup>2</sup>
+
+Die Gesuche um Finanzhilfen müssen eine umfassende Beurteilung der beabsichtigten Qualitätsentwicklung ermöglichen. Sie müssen insbesondere enthalten:
+
+- a. Angaben über die Gesuchstellerin oder den Gesuchsteller;
+- b. eine Projektbeschreibung mit Angaben zum Ziel, zum Handlungsbedarf, zum Vorgehen und zu den erwarteten Wirkungen;
+- c. die Modalitäten zur Überprüfung der Zielerreichung;
+- d. den Zeitplan für die Durchführung des Projekts;
+- e. einen Kostenvoranschlag;
+- f. Unterlagen, welche die Eigenfinanzierung ausweisen, mit einer Begründung, warum eine Realisierung des Projekts ohne finanzielle Unterstützung nicht möglich ist.
+
+<sup>3</sup> Die Eidgenössische Qualitätskommission erlässt Richtlinien über die Angaben und Unterlagen zu den Gesuchen nach Absatz 2.
+
+<sup>4</sup> Nach Projektabschluss ist der Eidgenössischen Qualitätskommission ein Bericht über die Ergebnisse des Projekts vorzulegen.
+
+[^77e-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77f
+
+**Leistungsvereinbarungen bei Abgeltungen und Finanzhilfen**[^77f-1]
+
+Die Leistungsvereinbarungen nach den Artikeln 58*d* Absatz 2 und 58*e* Absatz 2 KVG regeln insbesondere:
+
+- a. die zu erfüllenden Aufgaben;
+- b. die zu erreichenden Ziele;
+- c. das methodische Vorgehen;
+- d. die Bearbeitung, die Sicherheit und die Aufbewahrung der Daten;
+- e. die Modalitäten der Überprüfung der Zielerreichung;
+- f. die Höhe und die Dauer der finanziellen Beteiligung des Bundes;
+- g. die Zahlungsmodalitäten;
+- h. die Folgen der Nichterfüllung oder mangelhaften Erfüllung der Aufgaben;
+- i. die periodische Berichterstattung;
+- j. die periodische Vorlage von Budgetierung und Rechnungslegung;
+- k. die Anforderungen an den Bericht nach Artikel 77*e* Absatz 4.
+
+[^77f-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77g
+
+**Berechnung der Finanzierungsanteile der Kantone und der Versicherer**[^77g-1]
+
+<sup>1</sup> Für die Ermittlung der Wohnbevölkerung nach Artikel 58*f* Absatz 4 KVG sind die Zahlen der letzten Erhebung der Bevölkerungsstatistik des BFS über die ständige mittlere Wohnbevölkerung massgebend.
+
+<sup>2</sup> Die Anzahl der Versicherten nach Artikel 58*f* Absatz 5 KVG bestimmt sich nach den Versichertenbeständen am 1. Januar.
+
+<sup>3</sup> Das BAG berechnet die Anteile der Kantone und der Versicherer.
+
+[^77g-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77h
+
+**Einforderung der Beiträge**[^77h-1]
+
+<sup>1</sup> Das BAG fordert die Beiträge jeweils bis 30. April des Beitragsjahres bei den Kantonen und den Versicherern ein.
+
+<sup>2</sup> Versicherer und Kantone, die den geschuldeten Beitrag nicht fristgerecht entrichten, schulden einen Verzugszins von fünf Prozent pro Jahr.
+
+[^77h-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77i
+
+**Abrechnung**[^77i-1]
+
+Das BAG erstellt die Abrechnung für den Beitrag des Bundes, der Kantone und der Versicherer jeweils auf den 31. März des dem Beitragsjahr folgenden Kalenderjahres. Ergibt sich in der Abrechnung eine Über- oder Unterdeckung, so wird der entsprechende Betrag pro Kanton und Versicherer auf das nächste Beitragsjahr übertragen.
+
+[^77i-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77j
+
+**Bussen und Sanktionen**[^77j-1]
+
+<sup>1</sup> Finanzielle Mittel aus Bussen und Sanktionen eines kantonalen Schiedsgerichts wegen Nichteinhaltung der Massnahmen nach den Artikeln 58*a* und 58*h* KVG werden für die Finanzierung der Kosten nach Artikel 58*f* Absatz 1 KVG verwendet.
+
+<sup>2</sup> Das kantonale Schiedsgericht leitet die finanziellen Mittel aus Bussen und Sanktionen jeweils auf den 1. Januar des Folgejahres dem BAG weiter.
+
+[^77j-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77k
+
+**Qualitätssicherung**[^77k-1]
+
+Das EDI setzt nach Anhören der zuständigen Kommission die Massnahmen nach Artikel 58*h* Absatz 1 KVG fest.
+
+[^77k-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 ### 5. Titel: Finanzierung
 
@@ -3196,9 +3368,9 @@ Laboratorien, die bereits nach den Artikeln 53 und 54 als Leistungserbringer fü
 
 #### Art. 135
 
-**Qualitätssicherung**
+[^135-1]
 
-Die Verträge nach Artikel 77 Absatz 1 der Verordnung sind bis zum 31. Dezember 1997 abzuschliessen.
+[^135-1]: Aufgehoben durch Ziff. I der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 136
 
