@@ -3,20 +3,19 @@ canton: BE
 number: "515.81"
 title: "Arrêté du Grand Conseil concernant la Fondation de Laupen *"
 language: fr
-version: 1993-01-01
-valid_until: 2021-03-31
-version_adopted: 1993-03-31
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1939-06-24
 in_force: 1939-06-24
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/515.81"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/444/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2226/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Grand Conseil concernant la Fondation de Laupen
 
-du 24.06.1939 (état au 01.01.1993)
+du 24.06.1939 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -48,7 +47,7 @@ décrète:
 
 #### Art. 3
 
-<sup>1</sup> La Fondation est sous la surveillance de la Direction cantonale de la police et des affaires militaires.
+<sup>1</sup> La Fondation est sous la surveillance de la Direction de la sécurité.
 
 #### Art. 4
 
