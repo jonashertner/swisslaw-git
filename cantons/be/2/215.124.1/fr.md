@@ -4,13 +4,12 @@ number: "215.124.1"
 title: Loi sur le droit foncier rural et le bail à ferme agricole
 short: LDFB
 language: fr
-version: 2019-04-01
-valid_until: 2021-03-31
-version_adopted: 2018-09-05
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1995-06-21
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.124.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1624/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2162/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1624/pdf_file"
 
 (LDFB)
 
-du 21.06.1995 (état au 01.04.2019)
+du 21.06.1995 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -81,9 +80,9 @@ arrête:
 
 **Droit de consultation**
 
-<sup>1</sup> Le ou la notaire qui instrumente un contrat portant sur l'acquisition d'une entreprise ou d'un immeuble agricole soumis à autorisation conformément aux articles 61ss LDFR[^5-1] est, en accord avec les parties contractantes, habilité(e) à consulter, auprès du service compétent de la Direction de l'économie publique, les données relatives aux conditions d'exploitation.
+<sup>1</sup> Le ou la notaire qui instrumente un contrat portant sur l'acquisition d'une entreprise ou d'un immeuble agricole soumis à autorisation conformément aux articles 61ss LDFR[^5-1] est, en accord avec les parties contractantes, habilité(e) à consulter, auprès du service compétent de la Direction de l’économie, de l’énergie et de l’environnement, les données relatives aux conditions d'exploitation.
 
-[^5-1]: RS 211.412.11
+[^5-1]: RS [211.412.11](https://db.clex.ch/link/Bund/211.412.11/fr)
 
 #### Art. 5a
 
@@ -118,11 +117,11 @@ arrête:
 
 #### Art. 7
 
-**Direction de l'économie publique**
+**Direction de l’économie, de l’énergie et de l’environnement**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique est l'autorité de surveillance au sens de l'article 90, lettre b LDFR[^7-1].
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement est l'autorité de surveillance au sens de l'article 90, alinéa 1, lettre b LDFR[^7-1].
 
-[^7-1]: RS 211.412.11
+[^7-1]: RS [211.412.11](https://db.clex.ch/link/Bund/211.412.11/fr)
 
 #### Art. 8
 
@@ -200,9 +199,9 @@ arrête:
 
 #### Art. 15
 
-**Direction de l'économie publique**
+**Direction de l’économie, de l’énergie et de l’environnement**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement
 
 - a délivre l'autorisation de réduire la durée légale du bail à ferme et des éventuelles prolongations;
 - b adapte, sur demande, le fermage aux nouvelles circonstances conformément aux articles 10ss LBFA[^15-1];
@@ -221,11 +220,11 @@ arrête:
 
 **Commission des fermages**
 
-<sup>1</sup> La Commission des fermages donne son avis d'expert sur les questions relatives à l'affermage d'entreprises et d'immeubles agricoles ainsi que sur d'autres affaires que lui soumet la Direction de l'économie publique.
+<sup>1</sup> La Commission des fermages donne son avis d'expert sur les questions relatives à l'affermage d'entreprises et d'immeubles agricoles ainsi que sur d'autres affaires que lui soumet la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> Elle se compose d'un nombre égal de représentants et de représentantes des bailleurs d'une part et des fermiers d'autre part.
+<sup>2</sup> Elle se compose d'un nombre égal de représentants et de représentantes des bailleurs et bailleuses d'une part et des fermiers et fermières d'autre part.
 
-<sup>3</sup> La Direction de l'économie publique nomme les membres pour une période de quatre ans.
+<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement nomme les membres pour une période de quatre ans.
 
 ## 3 Voies de droit et exécution
 
@@ -233,7 +232,7 @@ arrête:
 
 **Droit des autorités de se renseigner**
 
-<sup>1</sup> Les autorités cantonales chargées de l'exécution des prescriptions régissant le droit foncier rural et le bail à ferme agricole sont habilitées à demander aux communes, aux bureaux du registre foncier ainsi qu'aux services compétents de la Direction des finances et de la Direction de l'économie publique des renseignements relatifs à l'estimation officielle, aux rapports de propriété ainsi qu'aux conditions d'exploitation des personnes participant à la procédure.
+<sup>1</sup> Les autorités cantonales chargées de l'exécution des prescriptions régissant le droit foncier rural et le bail à ferme agricole sont habilitées à demander aux communes, aux bureaux du registre foncier ainsi qu'aux services compétents de la Direction des finances et de la Direction de l’économie, de l’énergie et de l’environnement des renseignements relatifs à l'estimation officielle, aux rapports de propriété ainsi qu'aux conditions d'exploitation des personnes participant à la procédure.
 
 #### Art. 18
 
@@ -249,13 +248,15 @@ arrête:
 
 **Procédure et juridiction administratives**
 
-<sup>1</sup> Sous réserve du 2<sup>e</sup> alinéa, recours peut être formé devant la Direction de l'économie publique contre les décisions rendues en vertu de la présente loi.
+<sup>1</sup> Sous réserve du 2<sup>e</sup> alinéa, recours peut être formé devant la Direction de l’économie, de l’énergie et de l’environnement contre les décisions rendues en vertu de la présente loi.
 
 <sup>2</sup> Recours peut être formé devant la Commission des recours en matière fiscale contre les décisions du service compétent de la Direction des finances au sens de l'article 8. La Commission statue en dernière instance cantonale.
 
 <sup>3</sup> …
 
-<sup>4</sup> Au surplus les dispositions de la loi sur la procédure et la juridiction administratives sont applicables.
+<sup>4</sup> Au surplus, les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^19-1] s’appliquent.
+
+[^19-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 #### Art. 20
 

@@ -4,13 +4,12 @@ number: "215.124.1"
 title: Gesetz über das bäuerliche Boden- und Pachtrecht
 short: BPG
 language: de
-version: 2019-04-01
-valid_until: 2021-03-31
-version_adopted: 2018-09-05
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1995-06-21
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.124.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1624/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2162/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1624/pdf_file"
 
 (BPG)
 
-vom 21.06.1995 (Stand 01.04.2019)
+vom 21.06.1995 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -81,9 +80,9 @@ beschliesst:
 
 **Einsichtsrecht**
 
-<sup>1</sup> Die oder der mit der Beurkundung eines Vertrags über den bewilligungspflichtigen Erwerb eines landwirtschaftlichen Gewerbes oder Grundstückes im Sinne von Artikel 61 ff. BGBB[^5-1] beauftragte Notarin oder Notar ist mit Zustimmung der Vertragsparteien berechtigt, bei der zuständigen Stelle der Volkswirtschaftsdirektion die vorhandenen Daten über die interessierenden Betriebsverhältnisse einzusehen.
+<sup>1</sup> Die oder der mit der Beurkundung eines Vertrags über den bewilligungspflichtigen Erwerb eines landwirtschaftlichen Gewerbes oder Grundstückes im Sinne von Artikel 61 ff. BGBB[^5-1] beauftragte Notarin oder Notar ist mit Zustimmung der Vertragsparteien berechtigt, bei der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion die vorhandenen Daten über die interessierenden Betriebsverhältnisse einzusehen.
 
-[^5-1]: SR 211.412.11
+[^5-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
 
 #### Art. 5a
 
@@ -114,11 +113,11 @@ beschliesst:
 
 #### Art. 7
 
-**Volkswirtschaftsdirektion**
+**Wirtschafts-, Energie- und Umweltdirektion**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ist Aufsichtsbehörde im Sinne von Artikel 90 Buchstabe b BGBB[^7-1].
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ist Aufsichtsbehörde im Sinne von Artikel 90 Absatz 1 Buchstabe b BGBB[^7-1].
 
-[^7-1]: SR 211.412.11
+[^7-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
 
 #### Art. 8
 
@@ -196,9 +195,9 @@ beschliesst:
 
 #### Art. 15
 
-**Volkswirtschaftsdirektion**
+**Wirtschafts-, Energie- und Umweltdirektion**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion
 
 - a erteilt die Bewilligung zur Abkürzung der Pacht- und Fortsetzungsdauer;
 - b passt auf Antrag die Pachtzinse den veränderten Verhältnissen gemäss Artikel 10 ff. LPG[^15-1] an;
@@ -217,11 +216,11 @@ beschliesst:
 
 **Pachtkommission**
 
-<sup>1</sup> Die Pachtkommission begutachtet Fragen im Zusammenhang mit der Verpachtung von landwirtschaftlichen Gewerben und Grundstücken sowie weitere Geschäfte, die ihr von der Volkswirtschaftsdirektion zugewiesen werden.
+<sup>1</sup> Die Pachtkommission begutachtet Fragen im Zusammenhang mit der Verpachtung von landwirtschaftlichen Gewerben und Grundstücken sowie weitere Geschäfte, die ihr von der Wirtschafts-, Energie- und Umweltdirektion zugewiesen werden.
 
-<sup>2</sup> Sie setzt sich aus einer gleichen Zahl von Vertreterinnen oder Vertretern der Verpächter- und Pächterschaft zusammen.
+<sup>2</sup> Sie setzt sich aus einer gleichen Zahl von Vertreterinnen und Vertretern der Verpächter- und Pächterschaft zusammen.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion ernennt die Mitglieder auf eine Amtsdauer von vier Jahren.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion ernennt die Mitglieder auf eine Amtsdauer von vier Jahren.
 
 ## 3 Rechtspflege und Vollzug
 
@@ -229,7 +228,7 @@ beschliesst:
 
 **Auskunftsrecht der Behörden**
 
-<sup>1</sup> Die mit dem Vollzug des bäuerlichen Boden- und Pachtrechts beauftragten kantonalen Behörden sind berechtigt, von Gemeinden, Grundbuchämtern und von den zuständigen Stellen der Finanz- und Volkswirtschaftsdirektion Auskunft über die amtliche Bewertung sowie die Grundeigentums- und Bewirtschaftungsverhältnisse der Verfahrensbeteiligten einzuholen.
+<sup>1</sup> Die mit dem Vollzug des bäuerlichen Boden- und Pachtrechts beauftragten kantonalen Behörden sind berechtigt, von Gemeinden, Grundbuchämtern und von den zuständigen Stellen der Finanzdirektion und der Wirtschafts-, Energie- und Umweltdirektion Auskunft über die amtliche Bewertung sowie die Grundeigentums- und Bewirtschaftungsverhältnisse der Verfahrensbeteiligten einzuholen.
 
 #### Art. 18
 
@@ -245,13 +244,15 @@ beschliesst:
 
 **Verwaltungsrechtspflege**
 
-<sup>1</sup> Gegen Verfügungen, die gestützt auf dieses Gesetz erlassen werden, kann unter Vorbehalt von Absatz 2 bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen, die gestützt auf dieses Gesetz erlassen werden, kann unter Vorbehalt von Absatz 2 bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
 <sup>2</sup> Gegen Verfügungen der zuständigen Stelle der Finanzdirektion im Sinne von Artikel 8 kann bei der Steuerrekurskommission Beschwerde geführt werden. Diese entscheidet kantonal letztinstanzlich.
 
 <sup>3</sup> …
 
-<sup>4</sup> Im übrigen gelten die Vorschriften des Gesetzes über die Verwaltungsrechtspflege.
+<sup>4</sup> Im Übrigen gelten die Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^19-1].
+
+[^19-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 #### Art. 20
 
