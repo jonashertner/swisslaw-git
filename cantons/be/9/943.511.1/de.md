@@ -4,13 +4,12 @@ number: "943.511.1"
 title: Verordnung über den Vollzug des eidgenössischen Waffenrechts
 short: "Kantonale Waffenverordnung, KWV"
 language: de
-version: 2019-11-01
-valid_until: 2021-03-31
-version_adopted: 2019-11-20
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 2004-12-15
 in_force: 2005-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/943.511.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1775/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2243/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1775/pdf_file"
 
 (Kantonale Waffenverordnung, KWV)
 
-vom 15.12.2004 (Stand 01.11.2019)
+vom 15.12.2004 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -69,7 +68,7 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Verfügungen der Kantonspolizei kann bei der Polizei- und Militärdirektion Beschwerde erhoben werden.
+<sup>1</sup> Gegen Verfügungen der Kantonspolizei kann bei der Sicherheitsdirektion Beschwerde erhoben werden.
 
 <sup>2</sup> Im Übrigen gelten die Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^4-1].
 

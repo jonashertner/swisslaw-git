@@ -4,13 +4,12 @@ number: "943.511.1"
 title: "Ordonnance sur l'exécution du droit fédéral sur les armes"
 short: "Ordonnance cantonale sur les armes, OCArm"
 language: fr
-version: 2019-11-01
-valid_until: 2021-03-31
-version_adopted: 2019-11-20
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 2004-12-15
 in_force: 2005-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/943.511.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1775/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2243/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1775/pdf_file"
 
 (Ordonnance cantonale sur les armes, OCArm)
 
-du 15.12.2004 (état au 01.11.2019)
+du 15.12.2004 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -69,7 +68,7 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions de la Police cantonale peuvent faire l’objet d’un recours auprès de la Direction de la police et des affaires militaires.
+<sup>1</sup> Les décisions de la Police cantonale peuvent faire l’objet d’un recours auprès de la Direction de la sécurité.
 
 <sup>2</sup> Au surplus, les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^4-1] s’appliquent.
 
