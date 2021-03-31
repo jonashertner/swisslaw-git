@@ -4,13 +4,13 @@ number: "821.40.74"
 title: Verordnung über die Massnahmen für die Wahrung der Kapazitäten im Gesundheitsbereich im Rahmen der Bekämpfung des Coronavirus
 short: VMWKG
 language: de
-version: 2021-03-01
-valid_until: 2021-03-31
-version_adopted: 2021-03-02
+version: 2021-04-01
+valid_until: 2021-04-18
+version_adopted: 2021-03-22
 adopted: 2021-12-14
 in_force: 2021-12-14
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.74"
-pdf: "https://bdlf.fr.ch/api/de/versions/6781/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6815/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Wahrung der Kapazitäten im Gesundheitsbereich – V
 
 (VMWKG)
 
-vom 28.10.2020 (Fassung in Kraft getreten am 01.03.2021)
+vom 28.10.2020 (Fassung in Kraft getreten am 01.04.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -85,7 +85,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung bleibt bis 31. März 2021 um Mitternacht in Kraft; Artikel 117 der Verfassung des Kantons Freiburg vom 16. Mai 2004 bleibt vorbehalten.
+<sup>1</sup> Diese Verordnung bleibt bis 30. April 2021 um Mitternacht in Kraft; Artikel 117 der Verfassung des Kantons Freiburg vom 16. Mai 2004 bleibt vorbehalten.
 
 <sup>2</sup> Sollte die gesundheitliche Lage dies erfordern, kann die Geltungsdauer verlängert werden.
 
