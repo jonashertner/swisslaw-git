@@ -4,11 +4,11 @@ title: "Ordonnance 3 du 11 août 1999 sur l'asile relative au traitement de donn
 short: OA 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: fr
-version: 2019-06-01
+version: 2021-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20190601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20190601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20190601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20190601/fr"
 
 (Ordonnance 3 sur l’asile, OA 3)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> juin 2019)
+du 11 août 1999 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -45,16 +45,16 @@ arrête:
 
 [^1a-2]
 
-Le Secrétariat d’Etat aux migrations (SEM)[^1a-3] exploite les systèmes d’information suivants dans le cadre de l’exécution de ses tâches légales:
+Le Secrétariat d’État aux migrations (SEM)[^1a-3] exploite les systèmes d’information suivants dans le cadre de l’exécution de ses tâches légales:
 
 - a. le système d’information central sur la migration (SYMIC) conformément à l’ordonnance SYMIC du 12 avril 2006[^1a-4];
 - b.[^1a-5] la banque de données Kompass;
 - c. l’administration des prêts;
-- d.[^1a-6] …
+- d.[^1a-6] ...
 - e. la banque de données sur le financement de l’asile (Finasi);
 - f. la banque de données sur les cas médicaux;
 - g. la banque de données «Aide au retour individuelle»;
-- h.[^1a-7] …
+- h.[^1a-7] ...
 - i. le système d’information destiné aux centres de la Confédération[^1a-8] et aux logements dans les aéroports (MIDES);
 - j. le système d’information AURORA visé à l’art. 12 de l’ordonnance du 11 août 1999 sur l’exécution du renvoi et de l’expulsion d’étrangers[^1a-9];
 - k.[^1a-10] la banque de données sur le pool d’interprètes (DOPO);
@@ -88,7 +88,7 @@ Le SEM peut rendre accessibles, par une procédure d’appel, les informations c
 
 - a. aux autorités cantonales de police des étrangers;
 - b. aux représentants de l’administration fédérale qui ont besoin d’informations sur les pays de provenance des requérants d’asile pour accomplir leur travail;
-- c. aux autorités d’Etats étrangers et aux organisations internationales avec lesquelles la Suisse entretient un échange institutionnalisé d’informations.
+- c. aux autorités d’États étrangers et aux organisations internationales avec lesquelles la Suisse entretient un échange institutionnalisé d’informations.
 
 [^1b-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^1b-2]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2017, en vigueur depuis le 15 avr. 2017 ([RO 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
@@ -176,7 +176,7 @@ Le SEM peut rendre accessibles, par une procédure d’appel, les informations c
 La banque de données DOPO contient les données ci-après concernant les personnes qui sont indispensables pour planifier et mener les auditions:
 
 - a. les données personnelles;
-- b. les plans d’intervention; et
+- b. les plans d’intervention, et
 - c.
 
   les données entrant en ligne de compte dans la rémunération des personnes suivantes:
@@ -250,7 +250,7 @@ La banque de données DOPO dispose d’interfaces avec les systèmes suivants:
 
 ### (art. 97, al. 1 et 2 LAsi)
 
-Les autorités fédérales et cantonales qui envisagent de communiquer à l’Etat d’origine ou de provenance des données relatives à un requérant d’asile, un réfugié reconnu ou une personne à protéger résidant en Suisse doivent au préalable s’assurer auprès du SEM que la demande d’asile a été rejetée en première instance ou qu’une décision de non-entrée en matière a été rendue ou encore que la communication de ces données ne met en danger ni l’intéressé ni ses proches.
+Les autorités fédérales et cantonales qui envisagent de communiquer à l’État d’origine ou de provenance des données relatives à un requérant d’asile, un réfugié reconnu ou une personne à protéger résidant en Suisse doivent au préalable s’assurer auprès du SEM que la demande d’asile a été rejetée en première instance ou qu’une décision de non-entrée en matière a été rendue ou encore que la communication de ces données ne met en danger ni l’intéressé ni ses proches.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
 
@@ -260,7 +260,7 @@ Les autorités fédérales et cantonales qui envisagent de communiquer à l’Et
 
 ### (art. 97, al. 3, let. b, LAsi)
 
-S’il s’avère nécessaire de transmettre les empreintes digitales d’une personne à son Etat d’origine ou de provenance aux fins d’assurer l’exécution du renvoi, il ne doit pas transparaître que la personne concernée a déposé une demande d’asile en Suisse.
+S’il s’avère nécessaire de transmettre les empreintes digitales d’une personne à son État d’origine ou de provenance aux fins d’assurer l’exécution du renvoi, il ne doit pas transparaître que la personne concernée a déposé une demande d’asile en Suisse.
 
 #### Art. 4
 
@@ -319,7 +319,7 @@ Afin d’établir l’identité de requérants d’asile et de personnes à prot
 
 #### Art. 6a
 
-**Communication de données personnelles à un Etat non lié par un des accords d’association à Dublin**[^6a-1]
+**Communication de données personnelles à un État non lié par un des accords d’association à Dublin**[^6a-1]
 
 ### (art. 102*c*, al. 3 et 4, LAsi)
 
@@ -329,7 +329,7 @@ Il y a protection adéquate de la personne concernée au sens de l’art. 102*c*
 - b. la finalité de la communication des données est clairement déterminée;
 - c. les données ne sont traitées que dans les limites nécessaires à leur communication;
 - d. les autorités habilitées à traiter les données transmises sont clairement désignées;
-- e. la transmission des données à un autre Etat n’assurant pas un niveau de protection adéquat est interdite;
+- e. la transmission des données à un autre État n’assurant pas un niveau de protection adéquat est interdite;
 - f. la conservation et la destruction des données sont clairement réglementées;
 - g. la personne concernée a le droit de faire rectifier des données inexactes;
 - h. la personne concernée est informée du traitement de ses données personnelles et des conditions-cadres de ce dernier;
@@ -341,11 +341,11 @@ Il y a protection adéquate de la personne concernée au sens de l’art. 102*c*
 
 #### Art. 6b
 
-**Communication de données à un Etat Dublin**[^6b-1]
+**Communication de données à un État Dublin**[^6b-1]
 
 <sup>1</sup>
 
-Dans le cadre de l’application des accords d’association à Dublin[^6b-2], avant de transférer un requérant d’asile vers l’Etat responsable lié par un de ces accords (Etat Dublin), le SEM doit transmettre à cet Etat les données suivantes:
+Dans le cadre de l’application des accords d’association à Dublin[^6b-2], avant de transférer un requérant d’asile vers l’État responsable lié par un de ces accords (État Dublin), le SEM doit transmettre à cet État les données suivantes:
 
 - a. les données personnelles mentionnées à l’annexe VI du règlement (CE) n° 1560/2003[^6b-3], et
 - b. pour les personnes qui nécessitent des soins médicaux ou un traitement, les informations concernant leur état de santé physique et psychique conformément à l’annexe IX du règlement (CE) n° 1560/2003.
@@ -371,7 +371,7 @@ Dans le cadre de l’application des accords d’association à Dublin[^6b-2], a
 
 <sup>1</sup> Dans des cas particuliers, le SEM peut communiquer aux autorités de la Confédération, des cantons et des communes ainsi qu’à des organisations privées, les données personnelles dont elles ont besoin pour s’acquitter de leurs tâches légales.
 
-<sup>2</sup> D’une manière générale, les données personnelles ne sont pas communiquées aux particuliers. A titre exceptionnel, l’adresse d’une personne peut être communiquée lorsque la personne requérante est à même de prouver qu’elle en a besoin pour exercer des droits lui revenant ou pour défendre d’autres intérêts dignes de protection.
+<sup>2</sup> D’une manière générale, les données personnelles ne sont pas communiquées aux particuliers. À titre exceptionnel, l’adresse d’une personne peut être communiquée lorsque la personne requérante est à même de prouver qu’elle en a besoin pour exercer des droits lui revenant ou pour défendre d’autres intérêts dignes de protection.
 
 #### Art. 10
 
@@ -399,7 +399,7 @@ Dans le cadre de l’application des accords d’association à Dublin[^6b-2], a
 
 Les Services AFIS ADN vérifient également les empreintes digitales:
 
-- a. lorsque, à la suite de l’octroi de la protection internationale à une personne par un Etat Dublin et du marquage consécutif des données dans Eurodac, le SEM est informé qu’il avait déjà saisi les données de cette personne et reçoit les empreintes digitales de l’unité centrale en vue de leur marquage; ou
+- a. lorsque, à la suite de l’octroi de la protection internationale à une personne par un État Dublin et du marquage consécutif des données dans Eurodac, le SEM est informé qu’il avait déjà saisi les données de cette personne et reçoit les empreintes digitales de l’unité centrale en vue de leur marquage, ou
 - b. lorsque, lors de l’effacement anticipé des données d’une personne dans Eurodac, le SEM est informé qu’il avait déjà saisi les données de cette personne et reçoit les empreintes digitales de l’unité centrale en vue de leur effacement.
 
 [^11-1]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 20 juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
@@ -410,11 +410,11 @@ Les Services AFIS ADN vérifient également les empreintes digitales:
 
 <sup>1</sup> Si une personne fait valoir son droit d’accès, son droit à la rectification ou son droit à l’effacement de données Eurodac, elle doit fournir les indications nécessaires à son identification, empreintes digitales comprises, et présenter une demande écrite au SEM.
 
-<sup>2</sup> Le SEM traite la demande de droit d’accès en accord avec l’autorité qui a saisi les données ou avec l’Etat qui a transféré les données à l’unité centrale.
+<sup>2</sup> Le SEM traite la demande de droit d’accès en accord avec l’autorité qui a saisi les données ou avec l’État qui a transféré les données à l’unité centrale.
 
 <sup>3</sup> Il enregistre toute demande de droit d’accès et la transmet au préposé fédéral à la protection des données et à la transparence (PFPDT). Il informe ce dernier de la façon dont la demande a été traitée.
 
-<sup>4</sup> Si une personne fait valoir son droit à la rectification ou à l’effacement de données Eurodac qui n’ont pas été saisies par les autorités suisses, le SEM prend contact dans un délai raisonnable avec les Etats qui ont saisi les données et leur transmet la demande. Le SEM informe la personne concernée de la transmission de la requête.
+<sup>4</sup> Si une personne fait valoir son droit à la rectification ou à l’effacement de données Eurodac qui n’ont pas été saisies par les autorités suisses, le SEM prend contact dans un délai raisonnable avec les États qui ont saisi les données et leur transmet la demande. Le SEM informe la personne concernée de la transmission de la requête.
 
 <sup>5</sup> Le SEM traite les demandes d’accès, de rectification ou d’effacement sans délai.
 
@@ -451,13 +451,14 @@ La responsabilité en cas de dommages liés à l’exploitation d’Eurodac est 
 La sécurité des données est régie par:
 
 - a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^12-2];
-- b. le chapitre de l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^12-3] relatif à la sécurité informatique;
-- c. les directives du Conseil fédéral du 14 août 2013 concernant la sécurité des TIC dans l’administration fédérale[^12-4].
+- b.[^12-3] l’ordonnance du 27 mai 2020 sur les cyberrisques[^12-4];
+- c.[^12-5] ...
 
 [^12-1]: Nouvelle teneur selon le ch. I 4 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 20 juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^12-4]: Ces directives peuvent être consultées sur le site Internet de l’Unité de pilotage informatique de la Confédération: www.isb.admin.ch &gt; Thèmes &gt; Sécurité &gt; Bases de sécurité &gt; Directives de la sécurité informatique
+[^12-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-5]: Abrogée par l’annexe ch. 3 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -469,7 +470,7 @@ Les données qui ne sont plus utilisées sont archivées ou détruites. Elles so
 
 **Statistiques, planification et recherche**
 
-<sup>1</sup> …[^14-1]
+<sup>1</sup> ...[^14-1]
 
 <sup>2</sup> Le SEM peut communiquer aux autorités, aux universités et à leurs instituts ainsi qu’à des organisations privées des données personnelles à des fins relevant de la recherche et de la planification. Le nom des personnes concernées ne doit pas être fourni, dans la mesure où le but du traitement le permet. Les résultats doivent être publiés de façon qu’il soit impossible de déterminer qui sont les personnes concernées. La transmission de ces données n’est licite qu’avec l’assentiment du SEM.
 
@@ -489,7 +490,7 @@ Annexe 3
 
 ## Modification du droit en vigueur
 
-…[^annex3-lvlu1-1]
+...[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361).
 
@@ -503,10 +504,10 @@ Annexe 4*[^t-2]*
 
 Les accords d’association à Dublin comprennent les accords suivants:
 
-- a. Accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’Etat responsable de l’examen d’une demande d’asile introduite dans un Etat membre ou en Suisse (AAD)[^annex4-lvlu1-1];
-- b. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’Etat responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex4-lvlu1-2];
-- c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’Etat responsable de l’examen d’une demande d’asile présentée dans un Etat membre ou en Suisse[^annex4-lvlu1-3];
-- d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’Etat responsable de l’examen d’une demande d’asile présentées dans un Etat Membre ou en Suisse[^annex4-lvlu1-4].
+- a. Accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite dans un État membre ou en Suisse (AAD)[^annex4-lvlu1-1];
+- b. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex4-lvlu1-2];
+- c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex4-lvlu1-3];
+- d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentées dans un État Membre ou en Suisse[^annex4-lvlu1-4].
 
 [^annex4-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
 [^annex4-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
@@ -535,14 +536,14 @@ Unités organisationnelles:
 - Encadrement: Collaborateurs externes du domaine Encadrement
 - Flupo: Police aéroportuaire
 - Sécurité: Collaborateurs externes du domaine Sécurité
-- SEM: Secrétariat d’Etat aux migrations
+- SEM: Secrétariat d’État aux migrations
 - – I: Superutilisateurs
 - – II: Secrétariat
 - – III: Direction Centre d’enregistrement et de procédure (CEP)
 - – IV: Bureau de répartition
 - – V: Centrale CEP
 - – VI: Collaborateurs spécialisés du domaine de l’asile
-- – VII: Domaine Echange de données et identification
+- – VII: Domaine Échange de données et identification
 - – VIII: Domaine Saisie et mise à jour des données
 - – IX: Domaine Analyses linguistiques
 - [tab]
@@ -570,7 +571,7 @@ Unités organisationnelles:
 <tr><td>Nationalité</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Langue</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Deuxième langue</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
-<tr><td>Etat civil</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
+<tr><td>État civil</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>B</td><td>B</td><td>A</td><td>A</td></tr>
 <tr><td>Représentant légal</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Personne de confiance</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td>Type de personne (personne principale/personne secondaire)</td><td>B</td><td>B</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td colspan="3"></td><td colspan="2">A</td><td colspan="3"></td><td>A</td><td>B</td><td>A</td><td>A</td></tr>
@@ -646,7 +647,7 @@ Unités organisationnelles:
 <tr><td>Deuxième nationalité</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
 <tr><td>Nationalité à la naissance</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
 <tr><td>Code de provenance</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
-<tr><td>Etat civil depuis:</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
+<tr><td>État civil depuis:</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
 <tr><td>Indications sur le partenaire</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
 <tr><td>Religion</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>
 <tr><td>Identité secondaire</td><td>B</td><td>A</td><td>A</td><td></td><td colspan="2">A</td><td colspan="2">B</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>B</td><td></td><td></td><td></td></tr>

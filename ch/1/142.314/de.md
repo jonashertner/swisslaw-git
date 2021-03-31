@@ -4,11 +4,11 @@ title: "Asylverordnung 3 vom 11. August 1999 über die Bearbeitung von Personend
 short: AsylV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: de
-version: 2019-06-01
+version: 2021-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20190601/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20190601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20190601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20190601/de"
 
 (Asylverordnung 3, AsylV 3)
 
-vom 11. August 1999 (Stand am 1. Juni 2019)
+vom 11. August 1999 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -50,11 +50,11 @@ Das Staatssekretariat für Migration (SEM)[^1a-3] betreibt zur Erfüllung seiner
 - a. Zentrales Migrationsinformationssystem (ZEMIS) nach der ZEMIS-Verordnung vom 12. April 2006[^1a-4];
 - b.[^1a-5] Datenbank Kompass;
 - c. Geschäftsverwaltung Darlehen;
-- d.[^1a-6] …
+- d.[^1a-6] ...
 - e. Datenbank Finanzierung Asyl (Finasi);
 - f. Datenbank Medizinalfälle;
 - g. Datenbank individuelle Rückkehrhilfe;
-- h.[^1a-7] …
+- h.[^1a-7] ...
 - i. Informationssystem der Zentren des Bundes[^1a-8] und der Unterkünfte an den Flughäfen (MIDES);
 - j.[^1a-9] Informationssystem AURORA nach Artikel 12 der Verordnung vom 11. August 1999[^1a-10] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen;
 - k.[^1a-11] Datenbank Dolmetscher Pool (DOPO);
@@ -451,13 +451,14 @@ Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet si
 Die Datensicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^12-2] zum Bundesgesetz über den Datenschutz;
-- b. dem Kapitel über die Informatiksicherheit in der Bundesinformatikverordnung vom 9. Dezember 2011[^12-3];
-- c. den Weisungen des Bundesrates vom 14. August 2013[^12-4] über die IKT-Sicherheit in der Bundesverwaltung.
+- b.[^12-3] der Cyberrisikenverordnung vom 27. Mai 2020[^12-4];
+- c.[^12-5] ...
 
 [^12-1]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 20. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^12-4]: Diese Weisungen sind im Internet auf den Seiten des Informatiksteuerorgans des Bundes (ISB) abrufbar: www.isb.admin.ch &gt; Themen &gt; Sicherheit &gt; Sicherheitsgrundlagen &gt; Weisungen Informatiksicherheit.
+[^12-3]: Fassung gemäss Anhang Ziff. 3 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-4]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-5]: Aufgehoben durch Anhang Ziff. 3 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -469,7 +470,7 @@ Daten, die nicht mehr benötigt werden, müssen archiviert oder vernichtet werde
 
 **Statistik, Planung und Forschung**
 
-<sup>1</sup> …[^14-1]
+<sup>1</sup> ...[^14-1]
 
 <sup>2</sup> Das SEM kann Personendaten zu Forschungs- oder Planungszwecken Behörden, Universitäten und deren Instituten sowie privaten Organisationen bekannt geben. Die Daten müssen anonymisiert werden, soweit der Zweck des Bearbeitens es erlaubt. Die Ergebnisse sind so zu veröffentlichen, dass die betroffenen Personen nicht bestimmbar sind. Die Weiterleitung dieser Daten ist nur mit Zustimmung des SEM zulässig.
 
@@ -489,7 +490,7 @@ Anhang 3
 
 ## Änderung bisherigen Rechts
 
-…[^annex3-lvlu1-1]
+...[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Die Änderung kann unter [AS 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361)konsultiert werden.
 

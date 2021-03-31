@@ -4,11 +4,11 @@ title: "Ordinanza 3 dell' 11 agosto 1999 sull'asilo relativa al trattamento di d
 short: OAsi 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: it
-version: 2019-06-01
+version: 2021-04-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20190601/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20190601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20190601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20190601/it"
 
 (Ordinanza 3 sull’asilo, OAsi 3)
 
-dell’11 agosto 1999 (Stato 1° giugno 2019) (Stato 1° giugno 2019)
+dell’11 agosto 1999 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -365,7 +365,7 @@ Nel quadro dell’applicazione degli Accordi d’associazione alla normativa di 
 
 [^78-1]
 
-[^78-1]: Abrogati dal n. 5 dell’all. 3 all’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+[^78-1]: Abrogati dell’all. 3 n. 5 all’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
 #### Art. 9
 
@@ -453,13 +453,14 @@ La responsabilità in caso di danni in relazione con la gestione di Eurodac è r
 La sicurezza dei dati è retta:
 
 - a. dall’ordinanza del 14 giugno 1993[^12-2] relativa alla legge federale sulla protezione dei dati;
-- b. dal capitolo dell’ordinanza del 9 dicembre 2011[^12-3] sull’informatica nell’Amministrazione federale concernente la sicurezza informatica;
-- c. dalle istruzioni del Consiglio federale del 14 agosto 2013[^12-4] sulla sicurezza TIC nell’Amministrazione federale.
+- b.[^12-3] dall’ordinanza del 27 maggio 2020[^12-4] sui ciber-rischi;
+- c.[^12-5] *...*
 
 [^12-1]: Nuovo testo giusta il n. I 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^12-3]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^12-4]: Le istruzioni possono essere consultate al seguente indirizzo Internet dell’Organo direzione informatica della Confederazione (ODIC): www.isb.admin.ch &gt; Temi &gt; Sicurezza &gt; Basi per la sicurezza &gt; Istruzioni sulla sicurezza informatica.
+[^12-3]: Nuovo testo giusta l’all. n. 3 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^12-4]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^12-5]: Abrogata dall’all. n. 3 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 13
 
@@ -475,7 +476,7 @@ I dati che non sono più necessari vanno archiviati o distrutti. L’archiviazio
 
 <sup>2</sup> A scopo di ricerca o di pianificazione, la SEM può comunicare dati personali ad autorità, a università e a loro istituti nonché a organizzazioni private. I dati devono essere anonimizzati nella misura in cui lo scopo del trattamento lo consenta. I risultati vanno pubblicati in modo tale che le persone interessate non possano essere determinate. L’ulteriore trasmissione di tali dati è lecita unicamente con il consenso della SEM.
 
-[^14-1]: Abrogato dal n. 5 dell’all. 3 all’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+[^14-1]: Abrogato dell’all. 3 n. 5 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
 #### Art. 15
 
@@ -485,7 +486,7 @@ La presente ordinanza entra in vigore il 1° ottobre 1999.
 
 Allegati 1 e 2*[^t-1]*
 
-[^t-1]: Abrogati dal n. 5 dell’all. 3 all’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+[^t-1]: Abrogati dell’all. 3 n. 5 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
 Allegato 3
 
