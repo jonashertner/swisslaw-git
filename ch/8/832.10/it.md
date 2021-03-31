@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210101/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° gennaio 2021)
+del 18 marzo 1994 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -845,15 +845,18 @@ La tariffa è una base di calcolo della rimunerazione. In particolare essa può:
 
 <sup>4</sup> Le tariffe e i prezzi sono stabiliti per convenzione tra gli assicuratori e i fornitori di prestazioni (convenzione tariffale) oppure dalle autorità competenti nei casi previsti dalla legge. Occorre vegliare affinché le convenzioni tariffali siano stabilite secondo le regole dell’economia e adeguatamente strutturate. Nel caso di convenzioni tra associazioni, prima della loro conclusione devono essere sentite le organizzazioni che rappresentano gli interessi degli assicurati a livello cantonale o federale.
 
+<sup>4bis</sup> Le tariffe e i prezzi si rifanno alla remunerazione dei fornitori di prestazioni che forniscono la prestazione tariffata assicurata obbligatoriamente, nella qualità necessaria, in modo efficiente e vantaggioso.[^43-1]
+
 <sup>5</sup> Le tariffe per singola prestazione devono basarsi su una struttura tariffale uniforme, stabilita per convenzione a livello nazionale. Se le parti alla convenzione non si accordano sulla struttura tariffale uniforme, quest’ultima è stabilita dal Consiglio federale.
 
-<sup>5bis</sup> Il Consiglio federale può adeguare la struttura tariffale se quest’ultima si rivela inadeguata e se le parti alla convenzione non si accordano su una sua revisione.[^43-1]
+<sup>5bis</sup> Il Consiglio federale può adeguare la struttura tariffale se quest’ultima si rivela inadeguata e se le parti alla convenzione non si accordano su una sua revisione.[^43-2]
 
 <sup>6</sup> Le parti alla convenzione e le autorità competenti devono vigilare affinché si conseguano cure appropriate e di alto livello qualitativo, a costi il più possibile convenienti.
 
 <sup>7</sup> Il Consiglio federale può stabilire principi affinché le tariffe siano calcolate secondo le regole dell’economia e adeguatamente strutturate; può anche fissare norme relative all’adeguamento delle tariffe. Esso provvede al coordinamento con gli ordinamenti tariffali delle altre assicurazioni sociali.
 
-[^43-1]: Introdotto dal n. I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6559](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6567](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^43-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^43-2]: Introdotto dal n. I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6559](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6567](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
 
 #### Art. 44
 
@@ -1158,28 +1161,163 @@ Il fornitore di prestazioni deve fare usufruire il debitore della rimunerazione 
 
 #### Art. 58
 
-**Garanzia della qualità**
+**Sviluppo della qualità**[^58-1]
 
-<sup>1</sup> Sentite le organizzazioni interessate, il Consiglio federale può prevedere controlli scientifici e sistematici al fine di garantire la qualità e l’impiego appropriato delle prestazioni coperte dall’assicurazione obbligatoria delle cure medico-sanitarie.
+Il Consiglio federale stabilisce ogni quattro anni gli obiettivi in materia di garanzia e promozione della qualità delle prestazioni (sviluppo della qualità), dopo aver sentito le organizzazioni interessate. Può adeguare gli obiettivi durante il quadriennio se gli assunti di base utilizzati per stabilirli hanno subìto modifiche sostanziali.
 
-<sup>2</sup> Ne può affidare l’esecuzione ad associazioni professionali o ad altre istituzioni.
+[^58-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
 
-<sup>3</sup>
+#### Art. 58a
 
-Stabilisce le norme intese a garantire o a ristabilire la qualità e l’impiego appropriato delle prestazioni. Può segnatamente ordinare che:
+**Misure dei fornitori di prestazioni e degli assicuratori per lo sviluppo della qualità**[^58a-1]
 
-- a. prima dell’esecuzione di determinate misure diagnostiche o terapeutiche, segnatamente quelle particolarmente onerose, debba essere ottenuto il consenso del medico di fiducia;
-- b. misure diagnostiche o terapeutiche particolarmente onerose o difficili siano assunte dall’assicurazione obbligatoria delle cure medico-sanitarie soltanto se dispensate da fornitori di prestazioni qualificati. Esso può determinare più dettagliatamente questi fornitori di prestazioni.
+<sup>1</sup> Le federazioni dei fornitori di prestazioni e degli assicuratori concludono convenzioni sullo sviluppo della qualità (convenzioni sulla qualità) valide per tutta la Svizzera.
 
-#### Art. 59
+<sup>2</sup>
 
-**Violazione delle condizioni relative all’economicità e alla qualità delle prestazioni**[^59-1]
+Le convenzioni sulla qualità disciplinano almeno:
+
+- a. le misurazioni della qualità;
+- b. le misure di sviluppo della qualità;
+- c. la collaborazione fra le parti contraenti per la definizione di misure di miglioramento;
+- d. la verifica del rispetto delle misure di miglioramento;
+- e. la pubblicazione delle misurazioni della qualità e delle misure di miglioramento;
+- f. le sanzioni in caso di violazione della convenzione;
+- g. la presentazione di un rapporto annuo sullo stato di sviluppo della qualità all’attenzione della Commissione federale per la qualità e del Consiglio federale.
+
+<sup>3</sup> Le regole per lo sviluppo della qualità si rifanno ai fornitori di prestazioni che forniscono la prestazione assicurata obbligatoriamente, nella qualità necessaria, in modo efficiente e vantaggioso.
+
+<sup>4</sup> Le convenzioni sulla qualità necessitano dell’approvazione del Consiglio federale.
+
+<sup>5</sup> Se le federazioni dei fornitori di prestazioni e degli assicuratori non si accordano su una convenzione sulla qualità, il Consiglio federale stabilisce le regole riguardanti gli ambiti di cui al capoverso 2 lettere a–e e g.
+
+<sup>6</sup> I fornitori di prestazioni si attengono alle regole stabilite nelle convenzioni sulla qualità.
+
+<sup>7</sup> Il rispetto delle regole per lo sviluppo della qualità è una delle condizioni per esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie.
+
+[^58a-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58b
+
+**Commissione federale per la qualità**[^58b-1]
+
+<sup>1</sup> Per realizzare i suoi obiettivi in materia di sviluppo della qualità, il Consiglio federale istituisce una commissione (Commissione federale per la qualità) e ne nomina i membri.
+
+<sup>2</sup> Il Consiglio federale assicura la rappresentanza equa dei Cantoni, dei fornitori di prestazioni, degli assicuratori, degli assicurati, delle organizzazioni dei pazienti nonché degli specialisti.
+
+<sup>3</sup> La Commissione federale per la qualità emana un regolamento interno. Vi disciplina segnatamente la propria organizzazione e la procedura per adottare le decisioni. Il regolamento interno necessita dell’approvazione del Dipartimento.
+
+<sup>4</sup> La Commissione federale per la qualità emana un regolamento sull’impiego delle risorse. Vi disciplina segnatamente il calcolo delle remunerazioni e degli aiuti finanziari. Il regolamento necessita dell’approvazione del Dipartimento.
+
+<sup>5</sup> La Commissione federale per la qualità pubblica le proprie decisioni in forma adeguata.
+
+[^58b-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58c
+
+**Compiti e competenze della Commissione federale per la qualità**[^58c-1]
 
 <sup>1</sup>
 
-Contro i fornitori di prestazioni che violano le condizioni di economicità e qualità previste nella presente legge (art. 56 e 58) o clausole contrattuali vengono prese sanzioni. Le sanzioni consistono:
+La Commissione federale per la qualità ha i compiti e le competenze seguenti:
 
-- a. nell’ammonizione;
+- a. presta consulenza al Consiglio federale, ai Cantoni, ai fornitori di prestazioni e agli assicuratori in materia di coordinamento delle misure di sviluppo della qualità;
+- b. incarica terzi di elaborare nuovi indicatori della qualità e di sviluppare gli indicatori esistenti; rivolge raccomandazioni alle autorità sugli indicatori da utilizzare;
+- c. esamina i rapporti di cui all’articolo 58*a* capoverso 2 lettera g presentati dalle federazioni dei fornitori di prestazioni e degli assicuratori e sottopone loro raccomandazioni in materia di sviluppo della qualità;
+- d. presta consulenza al Consiglio federale per la definizione delle misure da esso previste in virtù degli articoli 58*a* e 58*h*;
+- e. incarica terzi di condurre studi e verifiche sistematici;
+- f. incarica terzi di condurre programmi nazionali di sviluppo della qualità, di assicurare l’identificazione e l’analisi dei rischi per la sicurezza del paziente, di adottare misure per la loro riduzione e di assicurare lo sviluppo di metodi intesi a promuovere la sicurezza del paziente; si avvale in particolare di organizzazioni che dispongono della necessaria esperienza in tali ambiti e nell’applicazione delle conoscenze in collaborazione con specialisti del ramo;
+- g. può sostenere progetti nazionali o regionali intesi a promuovere lo sviluppo della qualità;
+- h. sottopone alle autorità competenti e alle federazioni dei fornitori di prestazioni e degli assicuratori raccomandazioni in materia di misurazioni della qualità e requisiti generali riguardanti la qualità, segnatamente la qualità dell’indicazione, nonché in materia di misure da adottare nei singoli casi.
+
+<sup>2</sup> Su proposta della Commissione federale per la qualità, il Consiglio federale definisce ogni anno gli obiettivi che la Commissione deve perseguire e le modalità per verificarne il raggiungimento.
+
+<sup>3</sup> I Cantoni, i fornitori di prestazioni e gli assicuratori sono tenuti a comunicare ai terzi incaricati dalla Commissione federale per la qualità i dati necessari per l’adempimento dei compiti di cui al capoverso 1 lettere e ed f.
+
+<sup>4</sup> I terzi garantiscono l’anonimato dei pazienti.
+
+<sup>5</sup> Il Consiglio federale disciplina i dettagli della rilevazione, del trattamento e della trasmissione dei dati di cui ai capoversi 3 e 4.
+
+[^58c-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58d
+
+**Remunerazioni**[^58d-1]
+
+<sup>1</sup> Entro i limiti dei crediti stanziati, la Confederazione remunera le prestazioni dei terzi ai quali è assegnato un compito secondo l’articolo 58*c* capoverso 1 lettera b, e o f.
+
+<sup>2</sup> La Commissione federale per la qualità concede, su richiesta, remunerazioni sotto forma di contributi globali in virtù di convenzioni sulle prestazioni.
+
+<sup>3</sup> Il Consiglio federale stabilisce i requisiti e la procedura per la concessione delle remunerazioni.
+
+[^58d-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58e
+
+**Aiuti finanziari**[^58e-1]
+
+<sup>1</sup> Entro i limiti dei crediti stanziati, la Confederazione può sostenere progetti nazionali o regionali di sviluppo della qualità mediante aiuti finanziari.
+
+<sup>2</sup> La Commissione federale per la qualità concede, su richiesta, aiuti finanziari in virtù di convenzioni sulle prestazioni. Detti aiuti coprono al massimo il 50 per cento dei costi.
+
+<sup>3</sup> Il Consiglio federale stabilisce i requisiti e la procedura per la concessione degli aiuti finanziari.
+
+[^58e-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58f
+
+**Finanziamento dei compiti e del funzionamento della Commissione federale per la qualità**[^58f-1]
+
+<sup>1</sup> I costi che la Commissione federale per la qualità sostiene per il suo funzionamento, per l’adempimento dei compiti di cui all’articolo 58*c* capoverso 1, per le remunerazioni secondo l’articolo 58*d* e per gli aiuti finanziari secondo l’articolo 58*e* sono finanziati per un terzo ciascuno dalla Confederazione, dai Cantoni e dagli assicuratori.
+
+<sup>2</sup> Le spese annue massime per il finanziamento dei costi risultano dalla moltiplicazione del numero degli adulti secondo l’articolo 16*a* capoverso 4 per lo 0,07 per cento del premio medio annuo dell’assicurazione obbligatoria delle cure medico-sanitarie previsto per gli assicurati secondo l’articolo 16*a* capoverso 3 con la franchigia fissata dal Consiglio federale in virtù dell’articolo 64 capoverso 3, inclusa la copertura contro gli infortuni.
+
+<sup>3</sup> I crediti necessari per la quotaparte della Confederazione sono iscritti nel preventivo.
+
+<sup>4</sup> La quotaparte dei Cantoni è calcolata in base alla popolazione residente.
+
+<sup>5</sup> La quotaparte degli assicuratori è calcolata in base al numero delle persone assicurate obbligatoriamente per le cure medico-sanitarie.
+
+<sup>6</sup> Nel quadro della definizione degli obiettivi secondo l’articolo 58, il Consiglio federale stabilisce il contributo annuo della Confederazione, dei Cantoni e degli assicuratori tenendo conto dell’importo massimo di cui al capoverso 2 e della ripartizione dei costi secondo il capoverso 1.
+
+<sup>7</sup> L’Ufficio federale riscuote i contributi dei Cantoni e degli assicuratori e, in caso di pagamento tardivo, un interesse di mora.
+
+<sup>8</sup> Il Consiglio federale disciplina i dettagli del versamento e della gestione dei contributi finanziari.
+
+[^58f-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58g
+
+**Credito complessivo**[^58g-1]
+
+L’Assemblea federale decide, mediante un credito pluriennale complessivo, l’importo massimo che la Commissione federale per la qualità può concedere sotto forma di remunerazioni secondo l’articolo 58*d* e di aiuti finanziari secondo l’articolo 58*e*.
+
+[^58g-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58h
+
+**Misure del Consiglio federale intese a sviluppare la qualità e a garantire o ristabilire l’impiego appropriato delle prestazioni**[^58h-1]
+
+<sup>1</sup>
+
+Il Consiglio federale stabilisce le misure intese a sviluppare la qualità e a garantire o ristabilire l’impiego appropriato delle prestazioni. Può segnatamente ordinare che:
+
+- a. prima dell’esecuzione di determinate misure diagnostiche o terapeutiche, segnatamente quelle particolarmente onerose, debba essere ottenuto il consenso del medico di fiducia;
+- b. i costi di misure diagnostiche o terapeutiche particolarmente onerose o difficili siano assunti dall’assicurazione obbligatoria delle cure medico-sanitarie soltanto se dispensate da fornitori di prestazioni qualificati.
+
+<sup>2</sup> Il Consiglio federale può designare più dettagliatamente i fornitori di prestazioni di cui al capoverso 1 lettera b.
+
+[^58h-1]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 59
+
+**Violazione delle condizioni relative all’economicità e allo sviluppo della qualità[^59-2]**[^59-1]
+
+<sup>1</sup>
+
+Contro i fornitori di prestazioni che violano le condizioni di economicità e qualità previste nella presente legge (art. 56, 58*a* e 58*h*) o clausole contrattuali sono inflitte sanzioni. Oltre a quelle previste nelle convenzioni sulla qualità, le sanzioni consistono:[^59-3]
+
+- a.[^59-4] nell’ammonimento;
 - b. nella restituzione in tutto od in parte dell’onorario percepito per prestazioni inadeguate;
 - c. nella multa; nonché
 - d. in caso di recidiva, nell’esclusione temporanea o definitiva dall’attività a carico dell’assicurazione obbligatoria delle cure medico-sanitarie.
@@ -1192,12 +1330,19 @@ Costituiscono violazione delle condizioni legali o delle clausole contrattuali s
 
 - a. l’inosservanza dell’imperativo di economicità secondo l’articolo 56 capoverso 1;
 - b. l’inadempimento o il non corretto adempimento dell’obbligo d’informazione secondo l’articolo 57 capoverso 6;
-- c. il rifiuto di partecipare a misure di garanzia della qualità secondo l’articolo 58;
+- c.[^59-5] l’inosservanza delle misure di cui agli articoli 58*a e* 58*h*;
 - d. l’inosservanza della protezione tariffale secondo l’articolo 44;
 - e. il fatto di non aver traslato sconti secondo l’articolo 56 capoverso 3;
 - f. la manipolazione fraudolenta di conteggi o il rilascio di attestati inveritieri.
 
+<sup>4</sup> Le risorse finanziarie provenienti dalle multe e dalle sanzioni sono impiegate dal Consiglio federale per le misure a favore della qualità previste dalla presente legge.[^59-6]
+
 [^59-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004 (Strategia globale e compensazione dei rischi), in vigore dal 1° gen. 2005 ([RU 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 3803](https://fedlex.data.admin.ch/eli/fga/2004/706)).
+[^59-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-4]: Nuovo testo giusta il n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-5]: Nuovo testo giusta il n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-6]: Introdotto dal n. I della LF del 21 giu. 2019 (Rafforzamento della qualità e dell’economicità), in vigore dal 1° apr. 2021 ([RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)).
 
 #### Art. 59a
 
@@ -1756,12 +1901,12 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 [^84a-6]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^84a-7]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 [^84a-8]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84a-9]: Introdotta dall’all. n. 11 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 17 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^84a-9]: Introdotta dall’all. n. 11 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 17 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^84a-10]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^84a-11]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^84a-12]: Introdotto dall’all. n. 28 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^84a-13]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^84a-14]: Introdotto dall’all. n. 11 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. n. II 17 della lla LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^84a-14]: Introdotto dall’all. n. 11 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. n. II 17 della lla LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^84a-15]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^84a-16]: Abrogato dal n. I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^84a-17]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
@@ -1783,7 +1928,7 @@ Gli assicuratori prendono i necessari provvedimenti tecnici e organizzativi per 
 
 L’assicuratore non può subordinare la notifica della decisione su opposizione all’esaurimento di eventuali procedure interne di ricorso.
 
-[^85-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^85-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 [^85-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 86
@@ -1792,7 +1937,7 @@ L’assicuratore non può subordinare la notifica della decisione su opposizione
 
 L’assicuratore non può subordinare il diritto dell’assicurato di adire il tribunale cantonale delle assicurazioni all’esaurimento di eventuali procedure interne di ricorso.
 
-[^86-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^86-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 [^86-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 87
@@ -1801,13 +1946,13 @@ L’assicuratore non può subordinare il diritto dell’assicurato di adire il t
 
 In caso di controversie tra assicuratori, è competente il tribunale delle assicurazioni del Cantone ove ha sede l’assicuratore convenuto.
 
-[^87-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^87-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 
 #### Art. 88
 
 [^88-1]
 
-[^88-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^88-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 
 #### Art. 89
 
@@ -1829,7 +1974,7 @@ In caso di controversie tra assicuratori, è competente il tribunale delle assic
 
 [^90-1]
 
-[^90-1]: Abrogato dall’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^90-1]: Abrogato dall’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 90a
 
@@ -1839,7 +1984,7 @@ In caso di controversie tra assicuratori, è competente il tribunale delle assic
 
 <sup>2</sup> Il Tribunale amministrativo federale giudica i ricorsi contro le decisioni del governo cantonale secondo l’articolo 53.[^90a-3]
 
-[^90a-1]: Introdotto dal n. I della LF del 6 ott. 2000 ([RU 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3537](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nuovo testo giusta l’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^90a-1]: Introdotto dal n. I della LF del 6 ott. 2000 ([RU 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3537](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nuovo testo giusta l’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^90a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^90a-3]: Introdotto dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
@@ -1849,7 +1994,7 @@ In caso di controversie tra assicuratori, è competente il tribunale delle assic
 
 Contro le sentenze del tribunale arbitrale cantonale può essere interposto ricorso al Tribunale federale secondo la legge del 17 giugno 2005[^91-2] sul Tribunale federale.
 
-[^91-1]: Nuovo testo giusta l’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^91-1]: Nuovo testo giusta l’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^91-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 92
@@ -1872,7 +2017,7 @@ Contro le sentenze del tribunale arbitrale cantonale può essere interposto rico
 [^92-3]: Abrogata dall’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^92-4]: Introdotta dall’all. n. II 8 della LF del 15 dic. 2000 sugli agenti terapeutici, in vigore dal 1° gen. 2002 ([RU 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); FF **1999** 2959).
 [^92-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^92-6]: Introdotto dall’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^92-6]: Introdotto dall’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 93
 
@@ -1896,7 +2041,7 @@ Contro le sentenze del tribunale arbitrale cantonale può essere interposto rico
 
 [^95-1]
 
-[^95-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^95-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 
 ## Titolo 6:**** Relazione con il diritto europeo
 
@@ -1935,7 +2080,7 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 [^95a-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^95a-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
 [^95a-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
-[^95a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
+[^95a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^95a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 ## Titolo 7:**** Disposizioni finali
@@ -2040,7 +2185,7 @@ Il Consiglio federale è incaricato dell’esecuzione della presente legge. Esso
 
 [^104a-1]
 
-[^104a-1]: Introdotto dal n. I della LF del 24 mar. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Abrogato dal n. I 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, con effetto dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^104a-1]: Introdotto dal n. I della LF del 24 mar. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Abrogato dal n. I 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, con effetto dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432), [6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
 
 #### Art. 105
 
@@ -2098,19 +2243,19 @@ Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv
 
 [^u2-1]
 
-[^u2-1]: [RU 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [FF 2004 3803](https://fedlex.data.admin.ch/eli/fga/2004/706). Abrogata dal n. I della LF del 20 dic. 2006 (Tariffe delle cure), con effetto dal 21 dic. 2006 ([RU 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855), [2007 385](https://fedlex.data.admin.ch/eli/oc/2007/74); [FF 2006 6925](https://fedlex.data.admin.ch/eli/fga/2006/922)[6933](https://fedlex.data.admin.ch/eli/fga/2006/924)).
+[^u2-1]: [RU 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [FF 2004 3803](https://fedlex.data.admin.ch/eli/fga/2004/706). Abrogata dal n. I della LF del 20 dic. 2006 (Tariffe delle cure), con effetto dal 21 dic. 2006 ([RU 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [2007 385](https://fedlex.data.admin.ch/eli/oc/2007/74); [FF 2006 6925](https://fedlex.data.admin.ch/eli/fga/2006/922), [6933](https://fedlex.data.admin.ch/eli/fga/2006/924)).
 
-## Disposizione finale della modifica del 18 marzo 2005 (riduzione dei premi)****
+## Disposizione finale della modifica del 18 marzo 2005 (riduzione dei premi)
 
 [^u3-1]
 
-[^u3-1]: [RU 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 3869](https://fedlex.data.admin.ch/eli/fga/2004/711). Abrogata dal n. I della LF del 17 mar. 2017, con effetto dal 1° gen. 2019 ([RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); FF **2016** [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
+[^u3-1]: [RU 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 3869](https://fedlex.data.admin.ch/eli/fga/2004/711). Abrogata dal n. I della LF del 17 mar. 2017, con effetto dal 1° gen. 2019 ([RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); FF **2016** [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 
 ## Disposizioni transitorie della modifica del 20 dicembre 2006 (tariffe delle cure)****
 
 [^u4-1]
 
-[^u4-1]: [RU 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855), [2007 385](https://fedlex.data.admin.ch/eli/oc/2007/74); [FF 2006 6925](https://fedlex.data.admin.ch/eli/fga/2006/922)[6933](https://fedlex.data.admin.ch/eli/fga/2006/924). In vigore fino al 31 dic. 2008.
+[^u4-1]: [RU 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855), [2007 385](https://fedlex.data.admin.ch/eli/oc/2007/74); [FF 2006 6925](https://fedlex.data.admin.ch/eli/fga/2006/922), [6933](https://fedlex.data.admin.ch/eli/fga/2006/924). In vigore fino al 31 dic. 2008.
 
 ## Disposizioni transitorie relative alla modifica del 21 dicembre 2007 (finanziamento ospedaliero)****
 
@@ -2137,13 +2282,13 @@ Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv
 
 [^u6-1]
 
-[^u6-1]: [RU 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024). Abrogate dal n. I della LF del 21 mar. 2014, con effetto dal 1° gen. 2017 ([RU 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [FF 2013 6733](https://fedlex.data.admin.ch/eli/fga/2013/1479)[7221](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
+[^u6-1]: [RU 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024). Abrogate dal n. I della LF del 21 mar. 2014, con effetto dal 1° gen. 2017 ([RU 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [FF 2013 6733](https://fedlex.data.admin.ch/eli/fga/2013/1479), [7221](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
 ## Disposizioni transitorie alla modifica del 13 giugno 2008****
 
 [^u7-1]
 
-[^u7-1]: [RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)
+[^u7-1]: [RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432), [6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)
 
 <sup>1</sup> I contributi alle cure conformemente all’articolo 25*a* capoverso 1 sono fissati la prima volta in modo da corrispondere alla somma delle retribuzioni per le cure dispensate ambulatoriamente e in casa di cura nell’anno precedente l’entrata in vigore. Se questa regola non può essere rispettata nel primo anno dopo l’entrata in vigore della presente modifica, il Consiglio federale procede agli adeguamenti necessari negli anni successivi.
 
@@ -2153,13 +2298,13 @@ Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv
 
 [^u8-1]
 
-[^u8-1]: [RU 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [FF 2009 2867](https://fedlex.data.admin.ch/eli/fga/2009/650)[2877](https://fedlex.data.admin.ch/eli/fga/2009/652). In vigore fino al 31 dic. 2011.
+[^u8-1]: [RU 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [FF 2009 2867](https://fedlex.data.admin.ch/eli/fga/2009/650), [2877](https://fedlex.data.admin.ch/eli/fga/2009/652). In vigore fino al 31 dic. 2011.
 
 ## Disposizioni transitorie della modifica del 19 marzo 2010****
 
 [^u9-1]
 
-[^u9-1]: [RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)
+[^u9-1]: [RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165), [5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)
 
 <sup>2</sup> Se il Cantone non assume i premi e le partecipazioni ai costi in arretrato scaduti al momento dell’entrata in vigore della presente modifica per i quali è stato rilasciato un attestato di carenza di beni o un titolo equivalente, la sospensione delle assunzioni dei costi delle prestazioni conformemente al diritto anteriore è mantenuta e le prestazioni fornite sino all’entrata in vigore della presente modifica non sono rimborsate. Non appena l’assicurato ha pagato integralmente i premi e le partecipazioni ai costi in arretrato, nonché gli interessi di mora e le spese di esecuzione, l’assicuratore assume i costi delle prestazioni fornite.
 
@@ -2174,7 +2319,7 @@ Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv
 
 [^u10-1]
 
-[^u10-1]: [RU 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [FF 2011 2301](https://fedlex.data.admin.ch/eli/fga/2011/341)[2311](https://fedlex.data.admin.ch/eli/fga/2011/343)
+[^u10-1]: [RU 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [FF 2011 2301](https://fedlex.data.admin.ch/eli/fga/2011/341), [2311](https://fedlex.data.admin.ch/eli/fga/2011/343)
 
 Per i fornitori di prestazioni ai sensi dell’articolo 35 capoverso 2 lettera a, il Consiglio federale stabilisce il metodo di controllo dell’economicità delle prestazioni di cui all’articolo 56 capoverso 6 se, entro 12 mesi dall’entrata in vigore della presente modifica, gli assicuratori e i fornitori di prestazioni non hanno convenuto un metodo mediante contratto.
 
@@ -2198,13 +2343,13 @@ Per i fornitori di prestazioni ai sensi dell’articolo 35 capoverso 2 lettera a
 
 [^u13-1]
 
-[^u13-1]: [RU 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [FF 2016 3099](https://fedlex.data.admin.ch/eli/fga/2016/647)[3109](https://fedlex.data.admin.ch/eli/fga/2016/649). In vigore fino al 30 giu. 2019.
+[^u13-1]: [RU 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [FF 2016 3099](https://fedlex.data.admin.ch/eli/fga/2016/647), [3109](https://fedlex.data.admin.ch/eli/fga/2016/649). In vigore fino al 30 giu. 2019.
 
 ## Disposizione transitoria della modifica del 17 marzo 2017****
 
 [^u14-1]
 
-[^u14-1]: [RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)
+[^u14-1]: [RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)
 
 I Cantoni attuano il sistema di riduzione dei premi per i minorenni previsto nell’articolo 65 capoverso 1<sup>bis</sup> entro due anni dall’entrata in vigore della modifica del 17 marzo 2017.
 
@@ -2212,11 +2357,19 @@ I Cantoni attuano il sistema di riduzione dei premi per i minorenni previsto nel
 
 [^u15-1]
 
-[^u15-1]: [RU 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [FF 2018 5389](https://fedlex.data.admin.ch/eli/fga/2018/2239)[5691](https://fedlex.data.admin.ch/eli/fga/2018/2378). In vigore fino al 30 giu. 2021.
+[^u15-1]: [RU 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [FF 2018 5389](https://fedlex.data.admin.ch/eli/fga/2018/2239), [5691](https://fedlex.data.admin.ch/eli/fga/2018/2378). In vigore fino al 30 giu. 2021.
 
 <sup>1</sup> Non è subordinata all’esistenza di un bisogno l’autorizzazione dei medici che sono stati autorizzati secondo l’articolo 36 e hanno esercitato nel proprio studio a carico dell’assicurazione obbligatoria delle cure medico-sanitarie prima dell’entrata in vigore della modifica del 14 dicembre 2018.
 
 <sup>2</sup> Non è subordinata all’esistenza di un bisogno l’autorizzazione dei medici che hanno esercitato in un istituto di cui all’articolo 36*a* o nel settore ambulatoriale di un ospedale di cui all’articolo 39 prima dell’entrata in vigore della presente modifica, sempreché continuino a esercitare nello stesso istituto o nel settore ambulatoriale dello stesso ospedale.
+
+## Disposizione transitoria della modifica del 21 giugno 2019****
+
+[^u16-1]
+
+[^u16-1]: [RU 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 201](https://fedlex.data.admin.ch/eli/fga/2016/65)
+
+Le federazioni dei fornitori di prestazioni e degli assicuratori sottopongono al Consiglio federale per approvazione le convenzioni sulla qualità la prima volta un anno dopo l’entrata in vigore della modifica del 21 giugno 2019.
 
 Allegato
 
@@ -2226,7 +2379,7 @@ Allegato
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [CS **8** 273; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)n. II art. 6 n. 2,[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)all. n. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114,[1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
+[^annexu1-lvlu1-lvl1-1]: [CS **8** 273; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)n. II art. 6 n. 2;[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611; [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)all. n. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114;[1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
 
 ### 2. a 6.
 

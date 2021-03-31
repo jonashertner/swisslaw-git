@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210101/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Januar 2021) (Stand am 1. Januar 2021)
+vom 18. März 1994 (Stand am 1. April 2021) (Stand am 1. April 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -842,15 +842,18 @@ Der Tarif ist eine Grundlage für die Berechnung der Vergütung; er kann namentl
 
 <sup>4</sup> Tarife und Preise werden in Verträgen zwischen Versicherern und Leistungserbringern (Tarifvertrag) vereinbart oder in den vom Gesetz bestimmten Fällen von der zuständigen Behörde festgesetzt. Dabei ist auf eine betriebswirtschaftliche Bemessung und eine sachgerechte Struktur der Tarife zu achten. Bei Tarifverträgen zwischen Verbänden sind vor dem Abschluss die Organisationen anzuhören, welche die Interessen der Versicherten auf kantonaler oder auf Bundesebene vertreten.
 
+<sup>4bis</sup> Die Tarife und Preise orientieren sich an der Entschädigung jener Leistungserbringer, welche die tarifierte obligatorisch versicherte Leistung in der notwendigen Qualität effizient und günstig erbringen.[^43-1]
+
 <sup>5</sup> Einzelleistungstarife müssen auf einer gesamtschweizerisch vereinbarten einheitlichen Tarifstruktur beruhen. Können sich die Tarifpartner nicht einigen, so legt der Bundesrat diese Tarifstruktur fest.
 
-<sup>5bis</sup> Der Bundesrat kann Anpassungen an der Tarifstruktur vornehmen, wenn sie sich als nicht mehr sachgerecht erweist und sich die Parteien nicht auf eine Revision einigen können.[^43-1]
+<sup>5bis</sup> Der Bundesrat kann Anpassungen an der Tarifstruktur vornehmen, wenn sie sich als nicht mehr sachgerecht erweist und sich die Parteien nicht auf eine Revision einigen können.[^43-2]
 
 <sup>6</sup> Die Vertragspartner und die zuständigen Behörden achten darauf, dass eine qualitativ hoch stehende und zweckmässige gesundheitliche Versorgung zu möglichst günstigen Kosten erreicht wird.
 
 <sup>7</sup> Der Bundesrat kann Grundsätze für eine wirtschaftliche Bemessung und eine sachgerechte Struktur sowie für die Anpassung der Tarife aufstellen. Er sorgt für die Koordination mit den Tarifordnungen der anderen Sozialversicherungen.
 
-[^43-1]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215)[7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^43-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^43-2]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215)[7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
 
 #### Art. 44
 
@@ -1155,26 +1158,161 @@ Der Leistungserbringer muss dem Schuldner der Vergütung die direkten oder indir
 
 #### Art. 58
 
-**Qualitätssicherung**
+**Qualitätsentwicklung**[^58-1]
 
-<sup>1</sup> Der Bundesrat kann nach Anhören der interessierten Organisationen systematische wissenschaftliche Kontrollen zur Sicherung der Qualität oder des zweckmässigen Einsatzes der von der obligatorischen Krankenpflegeversicherung übernommenen Leistungen vorsehen.
+Der Bundesrat legt nach Anhörung der interessierten Organisationen jeweils für vier Jahre die Ziele im Hinblick auf die Sicherung und Förderung der Qualität der Leistungen (Qualitätsentwicklung) fest. Er kann die Ziele während der Vierjahresperiode anpassen, falls sich die Grundlagen für deren Festlegung wesentlich verändert haben.
 
-<sup>2</sup> Er kann die Durchführung der Kontrollen den Berufsverbänden oder anderen Einrichtungen übertragen.
+[^58-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
 
-<sup>3</sup>
+#### Art. 58a
 
-Er regelt, mit welchen Massnahmen die Qualität oder der zweckmässige Einsatz der Leistungen zu sichern oder wiederherzustellen ist. Er kann insbesondere vorsehen, dass:
+**Massnahmen der Leistungserbringer und der Versicherer zur Qualitätsentwicklung**[^58a-1]
 
-- a. vor der Durchführung bestimmter, namentlich besonders kostspieliger Diagnose- oder Behandlungsverfahren die Zustimmung des Vertrauensarztes oder der Vertrauensärztin eingeholt wird;
-- b. besonders kostspielige oder schwierige Untersuchungen oder Behandlungen von der obligatorischen Krankenpflegeversicherung nur vergütet werden, wenn sie von dafür qualifizierten Leistungserbringern durchgeführt werden. Er kann die Leistungserbringer näher bezeichnen.
+<sup>1</sup> Die Verbände der Leistungserbringer und der Versicherer schliessen gesamtschweizerisch geltende Verträge über die Qualitätsentwicklung (Qualitätsverträge) ab.
 
-#### Art. 59
+<sup>2</sup>
 
-**Verletzung der Anforderungen bezüglich Wirtschaftlichkeit und Qualität der Leistungen**[^59-1]
+Die Qualitätsverträge regeln mindestens Folgendes:
+
+- a. die Qualitätsmessungen;
+- b. die Massnahmen zur Qualitätsentwicklung;
+- c. die Zusammenarbeit der Vertragspartner bei der Festlegung von Verbesserungsmassnahmen;
+- d. die Überprüfung der Einhaltung der Verbesserungsmassnahmen;
+- e. die Veröffentlichung der Qualitätsmessungen und der Verbesserungsmassnahmen;
+- f. die Sanktionen bei Verletzungen des Vertrags;
+- g. das Vorlegen eines Jahresberichts über den Stand der Qualitätsentwicklung gegenüber der Eidgenössischen Qualitätskommission und dem Bundesrat.
+
+<sup>3</sup> Die Regeln zur Qualitätsentwicklung orientieren sich an jenen Leistungserbringern, welche die obligatorisch versicherte Leistung in der notwendigen Qualität effizient und günstig erbringen.
+
+<sup>4</sup> Die Qualitätsverträge bedürfen der Genehmigung des Bundesrates.
+
+<sup>5</sup> Können sich die Verbände der Leistungserbringer und der Versicherer nicht auf einen Qualitätsvertrag einigen, so legt der Bundesrat die Regeln für die in Absatz 2 Buchstaben a–e und g vorgesehenen Bereiche fest.
+
+<sup>6</sup> Die Leistungserbringer müssen sich an die vertraglich festgelegten Regeln zur Qualitätsentwicklung halten.
+
+<sup>7</sup> Die Einhaltung der Regeln zur Qualitätsentwicklung bildet eine Voraussetzung für die Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung.
+
+[^58a-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58b
+
+**Eidgenössische Qualitätskommission**[^58b-1]
+
+<sup>1</sup> Der Bundesrat setzt zur Realisierung seiner Ziele im Bereich der Qualitätsentwicklung eine Kommission (Eidgenössische Qualitätskommission) ein und ernennt deren Mitglieder.
+
+<sup>2</sup> Er sorgt für eine angemessene Vertretung der Kantone, der Leistungserbringer, der Versicherer, der Versicherten, der Patientenorganisationen sowie von Fachleuten.
+
+<sup>3</sup> Die Eidgenössische Qualitätskommission erlässt ein Geschäftsreglement. Darin regelt sie namentlich ihre Organisation und das Verfahren für ihre Entscheidungen. Das Geschäftsreglement bedarf der Genehmigung des Departements.
+
+<sup>4</sup> Die Eidgenössische Qualitätskommission erlässt ein Reglement zur Mittelverwendung. Darin regelt sie namentlich die Berechnung der Abgeltungen und der Finanzhilfen. Das Reglement bedarf der Genehmigung des Departements.
+
+<sup>5</sup> Die Eidgenössische Qualitätskommission veröffentlicht ihre Beschlüsse in geeigneter Form.
+
+[^58b-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58c
+
+**Aufgaben und Kompetenzen der Eidgenössischen Qualitätskommission**[^58c-1]
 
 <sup>1</sup>
 
-Gegen Leistungserbringer, welche gegen die im Gesetz vorgesehenen Wirtschaftlichkeits- und Qualitätsanforderungen (Art. 56 und 58) oder gegen vertragliche Abmachungen verstossen, werden Sanktionen ergriffen. Diese umfassen:
+Die Eidgenössische Qualitätskommission hat folgende Aufgaben und Kompetenzen:
+
+- a. Sie berät den Bundesrat, die Kantone, die Leistungserbringer und die Versicherer hinsichtlich der Koordination der Massnahmen zur Qualitätsentwicklung.
+- b. Sie beauftragt Dritte, neue Qualitätsindikatoren zu entwickeln und die bestehenden weiterzuentwickeln; sie gibt gegenüber den Behörden Empfehlungen ab, welche Indikatoren zu verwenden sind.
+- c. Sie prüft die Berichte der Verbände der Leistungserbringer und der Versicherer nach Artikel 58*a* Absatz 2 Buchstabe g und unterbreitet diesen Verbänden Empfehlungen zur Qualitätsentwicklung.
+- d. Sie berät den Bundesrat bei der Festlegung von Massnahmen, die der Bundesrat gestützt auf die Artikel 58*a* und 58*h* vorsieht.
+- e. Sie beauftragt Dritte, systematische Studien und Überprüfungen durchzuführen.
+- f. Sie beauftragt Dritte, nationale Programme zur Qualitätsentwicklung durchzuführen, die Identifikation und Analyse von Patientensicherheitsrisiken zu gewährleisten, Massnahmen zu deren Reduktion zu ergreifen und die Weiterentwicklung von Methoden zur Förderung der Patientensicherheit sicherzustellen; dabei berücksichtigt sie insbesondere Organisationen, die über eine entsprechende Erfahrung in der Durchführung derartiger Aktivitäten und in der Implementierung des Wissens mit den zuständigen Fachpersonen verfügen.
+- g. Sie kann nationale oder regionale Projekte zur Qualitätsentwicklung unterstützen.
+- h. Sie unterbreitet den zuständigen Behörden und den Verbänden der Leistungserbringer und der Versicherer Empfehlungen über Qualitätsmessungen und allgemeine Qualitätsvorgaben, namentlich zur Indikationsqualität, sowie über Massnahmen in Einzelfällen.
+
+<sup>2</sup> Der Bundesrat legt auf Antrag der Eidgenössischen Qualitätskommission jährlich die von ihr zu erreichenden Ziele und die Überprüfung der Zielerreichung fest.
+
+<sup>3</sup> Die Kantone, die Leistungserbringer und die Versicherer sind verpflichtet, den von der Eidgenössischen Qualitätskommission beauftragten Dritten die Daten bekannt zu geben, die für die Erfüllung der Aufgaben nach Absatz 1 Buchstaben e und f erforderlich sind.
+
+<sup>4</sup> Die Dritten müssen die Anonymität der Patientinnen und Patienten gewährleisten.
+
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten der Erhebung, Bearbeitung und Weitergabe der Daten nach den Absätzen 3 und 4.
+
+[^58c-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58d
+
+**Abgeltungen**[^58d-1]
+
+<sup>1</sup> Der Bund gilt Leistungen von Dritten, denen eine Aufgabe nach Artikel 58*c* Absatz 1 Buchstabe b, e oder f übertragen wurde, im Rahmen der bewilligten Kredite ab.
+
+<sup>2</sup> Die Abgeltungen werden von der Eidgenössischen Qualitätskommission auf Gesuch hin mittels Globalbeiträgen gestützt auf Leistungsvereinbarungen gewährt.
+
+<sup>3</sup> Der Bundesrat legt die Anforderungen und das Verfahren für die Gewährung von Abgeltungen fest.
+
+[^58d-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58e
+
+**Finanzhilfen**[^58e-1]
+
+<sup>1</sup> Der Bund kann im Rahmen der bewilligten Kredite nationale oder regionale Projekte zur Qualitätsentwicklung mit Finanzhilfen unterstützen.
+
+<sup>2</sup> Die Finanzhilfen werden von der Eidgenössischen Qualitätskommission auf Gesuch hin gestützt auf Leistungsvereinbarungen ausgerichtet. Sie decken höchstens 50 Prozent der Kosten.
+
+<sup>3</sup> Der Bundesrat legt die Anforderungen und das Verfahren für die Gewährung von Finanzhilfen fest.
+
+[^58e-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58f
+
+**Finanzierung der Aufgaben und des Betriebs der Eidgenössischen Qualitätskommission**[^58f-1]
+
+<sup>1</sup> Die Finanzierung der Kosten der Eidgenössischen Qualitätskommission für ihren Betrieb, für die Erfüllung ihrer Aufgaben nach Artikel 58*c* Absatz 1, für die Abgeltungen nach Artikel 58*d* und für die Finanzhilfen nach Artikel 58*e* wird zu je zu einem Drittel vom Bund, von den Kantonen und von den Versicherern sichergestellt.
+
+<sup>2</sup> Die maximalen jährlichen Ausgaben für die Finanzierung der Kosten ergeben sich aus der Multiplikation der Anzahl der Erwachsenen nach Artikel 16*a* Absatz 4 mit 0,07 Prozent der durchschnittlichen Jahresprämie für Versicherte nach Artikel 16*a* Absatz 3 für die obligatorische Krankenpflegeversicherung mit der vom Bundesrat gestützt auf Artikel 64 Absatz 3 festlegten Franchise und Unfalldeckung.
+
+<sup>3</sup> Für den Anteil des Bundes werden die notwendigen Kredite in den Voranschlag eingestellt.
+
+<sup>4</sup> Der Anteil der Kantone bemisst sich nach ihrer Wohnbevölkerung.
+
+<sup>5</sup> Der Anteil der Versicherer bemisst sich nach der Anzahl ihrer Versicherten, die der obligatorischen Krankenpflegeversicherung unterstehen.
+
+<sup>6</sup> Der Bundesrat legt bei der Festlegung der Ziele nach Artikel 58 den jährlichen Beitrag des Bundes, der Kantone und der Versicherer unter Berücksichtigung des Höchstbetrags nach Absatz 2 und der Kostenteilung nach Absatz 1 fest.
+
+<sup>7</sup> Das Bundesamt fordert die Beiträge bei den Kantonen und Versicherern ein und erhebt bei verspäteter Zahlung einen Verzugszins.
+
+<sup>8</sup> Der Bundesrat regelt die Einzelheiten der Überweisung und der Verwaltung der Finanzierungsbeiträge.
+
+[^58f-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58g
+
+**Gesamtkredit**[^58g-1]
+
+Die Bundesversammlung beschliesst mit einem mehrjährigen Gesamtkredit den Höchstbetrag, bis zu dem die Eidgenössische Qualitätskommission Abgeltungen nach Artikel 58*d* und Finanzhilfen nach Artikel 58*e* gewähren kann.
+
+[^58g-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58h
+
+**Massnahmen des Bundesrates zur Qualitätsentwicklung und zur Sicherung und Wiederherstellung des zweckmässigen Einsatzes der Leistungen**[^58h-1]
+
+<sup>1</sup>
+
+Der Bundesrat legt Massnahmen zur Qualitätsentwicklung und zur Sicherung und Wiederherstellung des zweckmässigen Einsatzes der Leistungen fest. Er kann insbesondere vorsehen, dass:
+
+- a. vor der Durchführung bestimmter, namentlich besonders kostspieliger Diagnose- und Behandlungsverfahren die Zustimmung des Vertrauensarztes oder der Vertrauensärztin eingeholt werden muss;
+- b. die Kosten besonders kostspieliger oder schwieriger Untersuchungen oder Behandlungen von der obligatorischen Krankenpflegeversicherung nur übernommen werden, wenn sie von dafür qualifizierten Leistungserbringern durchgeführt werden.
+
+<sup>2</sup> Er kann die Leistungserbringer nach Absatz 1 Buchstabe b näher bezeichnen.
+
+[^58h-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 59
+
+**Verletzung der Anforderungen bezüglich Wirtschaftlichkeit und Qualitätsentwicklung[^59-2]**[^59-1]
+
+<sup>1</sup>
+
+Gegen Leistungserbringer, die gegen die im Gesetz vorgesehenen Wirtschaftlichkeits- und Qualitätsanforderungen (Art. 56, 58*a* und 58*h*) oder gegen vertragliche Abmachungen verstossen, werden Sanktionen ergriffen. Diese umfassen neben den in den Qualitätsverträgen vorgesehenen Sanktionen:[^59-3]
 
 - a. die Verwarnung;
 - b. die gänzliche oder teilweise Rückerstattung der Honorare, welche für nicht angemessene Leistungen bezogen wurden;
@@ -1189,12 +1327,18 @@ Verstösse gegen gesetzliche Anforderungen oder vertragliche Abmachungen nach Ab
 
 - a. die Nichtbeachtung des Wirtschaftlichkeitsgebotes nach Artikel 56 Absatz 1;
 - b. die nicht erfolgte oder die mangelhafte Erfüllung der Informationspflicht nach Artikel 57 Absatz 6;
-- c. die Weigerung, sich an Massnahmen der Qualitätssicherung nach Artikel 58 zu beteiligen;
+- c.[^59-4] die Nichteinhaltung der Massnahmen nach den Artikeln 58*a* und 58*h*;
 - d. die Nichtbeachtung des Tarifschutzes nach Artikel 44;
 - e. die unterlassene Weitergabe von Vergünstigungen nach Artikel 56 Absatz 3;
 - f. die betrügerische Manipulation von Abrechnungen oder die Ausstellung von unwahren Bestätigungen.
 
+<sup>4</sup> Die finanziellen Mittel, die aus Bussen und Sanktionen stammen, werden vom Bundesrat für Qualitätsmassnahmen nach diesem Gesetz verwendet.[^59-5]
+
 [^59-1]: Fassung gemäss Ziff. I des BG vom 8. Okt. 2004 (Gesamtstrategie und Risikoausgleich), in Kraft seit 1. Jan. 2005 ([AS 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [BBl 2004 4259](https://fedlex.data.admin.ch/eli/fga/2004/706)).
+[^59-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-3]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-4]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-5]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019 (Stärkung von Qualität und Wirtschaftlichkeit), in Kraft seit 1. April 2021 ([AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)).
 
 #### Art. 59a
 
@@ -2214,11 +2358,19 @@ Die Kantone setzen das in Artikel 65 Absatz 1<sup>bis</sup> festgelegte System d
 
 <sup>2</sup> Ärztinnen und Ärzte, die vor Inkrafttreten dieser Änderung ihre Tätigkeit in einer Einrichtung nach Artikel 36*a* oder im ambulanten Bereich eines Spitals nach Artikel 39 ausgeübt haben, müssen den Bedürfnisnachweis nicht erbringen, wenn sie ihre Tätigkeit in der gleichen Einrichtung oder im ambulanten Bereich des gleichen Spitals weiter ausüben.
 
+## Übergangsbestimmung zur Änderung vom 21. Juni 2019****
+
+[^u16-1]
+
+[^u16-1]: [AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)
+
+Die Verbände der Leistungserbringer und der Versicherer müssen dem Bundesrat die Verträge über die Qualitätsentwicklung erstmalig ein Jahr nach Inkrafttreten der Änderung vom 21. Juni 2019 zur Genehmigung einreichen.
+
 Anhang
 
 ## Aufhebung und Änderung von Bundesgesetzen
 
-- 1\. Das Bundesgesetz vom 13. Juni 1911**[^annexu1-lvlu1-1]** über die Krankenversicherung wird aufgehoben.
+- 1\. Das Bundesgesetz vom 13. Juni 1911[^annexu1-lvlu1-1] über die Krankenversicherung wird aufgehoben.
 - 2\.‒6. ...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 64](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)II Art. 6 Ziff. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]

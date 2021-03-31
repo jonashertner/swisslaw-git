@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210101/fr"
 
 (LAMal)
 
-du 18 mars 1994 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 mars 1994 (Etat le 1<sup>er</sup> avril 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -245,7 +245,7 @@ Lors de l’affiliation à l’assurance-maladie sociale, l’assureur doit, par
 
 [^1115-1]: Abrogés par l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
-### Section 1*a* Compensation des risques****
+### Section 1*a* Compensation des risques
 
 [^tit2-chap2-sec1a-1]
 
@@ -387,7 +387,7 @@ Le Conseil fédéral règle:
 [^20-1]: Nouvelle teneur selon l’annexe ch. II 10 de la LF du 22 mars 2002 sur l’adaptation des disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^20-2]: Nouvelle teneur selon l’annexe ch. II 10 de la LF du 22 mars 2002 sur l’adaptation des disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 
-### Section 4 Statistiques****
+### Section 4 Statistiques
 
 [^tit2-chap2-sec4-1]
 
@@ -713,7 +713,7 @@ Les établissements et celles de leurs divisions qui servent au traitement hospi
 
 <sup>2</sup> Le Conseil fédéral fixe les conditions que ces établissements doivent remplir en ce qui concerne la direction médicale, la dotation en personnel soignant qualifié, les traitements et les sources thermales.
 
-### Section 2 Choix du fournisseur de prestations, prise en charge des coûts et obligation d’admission faite aux hôpitaux répertoriés****
+### Section 2 Choix du fournisseur de prestations, prise en charge des coûts et obligation d’admission faite aux hôpitaux répertoriés
 
 [^tit2-chap4-sec2-1]
 
@@ -845,15 +845,18 @@ Le tarif est une base de calcul de la rémunération; il peut notamment:
 
 <sup>4</sup> Les tarifs et les prix sont fixés par convention entre les assureurs et les fournisseurs de prestations (convention tarifaire) ou, dans les cas prévus par la loi, par l’autorité compétente. Ceux-ci veillent à ce que les conventions tarifaires soient fixées d’après les règles applicables en économie d’entreprise et structurées de manière appropriée. Lorsqu’il s’agit de conventions conclues entre des fédérations, les organisations qui représentent les intérêts des assurés sur le plan cantonal ou fédéral sont entendues avant la conclusion.
 
+<sup>4bis</sup> Les tarifs et les prix sont déterminés en fonction de la rémunération des fournisseurs de prestations qui fournissent la prestation tarifée obligatoirement assurée, dans la qualité nécessaire, de manière efficiente et avantageuse.[^43-1]
+
 <sup>5</sup> Les tarifs à la prestation doivent se fonder sur une structure tarifaire uniforme, fixée par convention sur le plan suisse. Si les partenaires tarifaires ne peuvent s’entendre sur une structure tarifaire uniforme, le Conseil fédéral la fixe.
 
-<sup>5bis</sup> Le Conseil fédéral peut procéder à des adaptations de la structure tarifaire si celle-ci s’avère inappropriée et que les parties ne peuvent s’entendre sur une révision de la structure.[^43-1]
+<sup>5bis</sup> Le Conseil fédéral peut procéder à des adaptations de la structure tarifaire si celle-ci s’avère inappropriée et que les parties ne peuvent s’entendre sur une révision de la structure.[^43-2]
 
 <sup>6</sup> Les parties à la convention et les autorités compétentes veillent à ce que les soins soient appropriés et leur qualité de haut niveau, tout en étant le plus avantageux possible.
 
 <sup>7</sup> Le Conseil fédéral peut établir des principes visant à ce que les tarifs soient fixés d’après les règles d’une saine gestion économique et structurés de manière appropriée; il peut aussi établir des principes relatifs à leur adaptation. Il veille à la coordination de ces tarifs avec les régimes tarifaires des autres assurances sociales.
 
-[^43-1]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^43-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^43-2]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
 
 #### Art. 44
 
@@ -1158,26 +1161,161 @@ Le fournisseur de prestations doit répercuter sur le débiteur de la rémunéra
 
 #### Art. 58
 
-**Garantie de la qualité**
+**Développement de la qualité**[^58-1]
 
-<sup>1</sup> Après avoir consulté les organisations intéressées, le Conseil fédéral peut prévoir des contrôles scientifiques et systématiques pour garantir la qualité ou l’adéquation des prestations que l’assurance obligatoire des soins prend en charge.
+Le Conseil fédéral fixe tous les quatre ans les objectifs en matière de garantie et d’encouragement de la qualité des prestations (développement de la qualité), après consultation des organisations intéressées. Il peut les adapter en cours de période si les bases qui ont servi à les fixer ont considérablement changé.
 
-<sup>2</sup> Il peut en confier l’exécution aux associations professionnelles ou à d’autres institutions.
+[^58-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
 
-<sup>3</sup>
+#### Art. 58a
 
-Il détermine les mesures servant à garantir ou à rétablir la qualité ou l’adéquation des prestations. Il peut en particulier prévoir que:
+**Mesures de développement de la qualité incombant aux fournisseurs de prestations et aux assureurs**[^58a-1]
 
-- a. l’accord du médecin-conseil est nécessaire avant l’exécution de certaines mesures diagnostiques ou thérapeutiques, notamment celles qui sont particulièrement coûteuses;
-- b. des mesures diagnostiques ou thérapeutiques particulièrement coûteuses ou difficiles ne seront prises en charge par l’assurance obligatoire des soins que lorsqu’elles sont pratiquées par des fournisseurs de prestations qualifiés en la matière. Il peut désigner ces fournisseurs de prestations.
+<sup>1</sup> Les fédérations des fournisseurs de prestations et des assureurs concluent des conventions relatives au développement de la qualité (conventions de qualité) valables pour l’ensemble du territoire suisse.
 
-#### Art. 59
+<sup>2</sup>
 
-**Manquements aux exigences relatives au caractère économique et à la garantie de la qualité des prestations**[^59-1]
+Les conventions de qualité règlent au moins les points suivants:
+
+- a. la mesure de la qualité;
+- b. les mesures de développement de la qualité;
+- c. la collaboration entre partenaires conventionnels pour la définition de mesures d’amélioration;
+- d. le contrôle du respect des mesures d’amélioration;
+- e. la publication de la mesure de la qualité et des mesures d’amélioration;
+- f. les sanctions en cas de violation de la convention;
+- g. la présentation d’un rapport annuel sur l’état du développement de la qualité établi à l’intention de la Commission fédérale pour la qualité et du Conseil fédéral.
+
+<sup>3</sup> Les règles de développement de la qualité sont déterminées en fonction des fournisseurs de prestations qui fournissent la prestation obligatoirement assurée, dans la qualité nécessaire, de manière efficiente et avantageuse.
+
+<sup>4</sup> Les conventions de qualité sont soumises à l’approbation du Conseil fédéral.
+
+<sup>5</sup> Si les fédérations des fournisseurs de prestations et des assureurs ne peuvent s’entendre sur une convention de qualité, le Conseil fédéral fixe les règles pour les domaines prévus à l’al. 2, let. a à e et g.
+
+<sup>6</sup> Les fournisseurs de prestations sont tenus de respecter les règles de développement de la qualité fixées par convention.
+
+<sup>7</sup> Le respect des règles du développement de la qualité est une des conditions pour pratiquer à la charge de l’assurance obligatoire des soins.
+
+[^58a-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58b
+
+**Commission fédérale pour la qualité**[^58b-1]
+
+<sup>1</sup> Afin de réaliser ses objectifs en matière de développement de la qualité, le Conseil fédéral institue une commission (Commission fédérale pour la qualité) et en nomme les membres.
+
+<sup>2</sup> Il veille à une représentation équitable des cantons, des fournisseurs de prestations, des assureurs, des assurés, des associations de patients et des spécialistes.
+
+<sup>3</sup> La Commission fédérale pour la qualité édicte un règlement interne. Elle y règle notamment son organisation et sa procédure de décision. Le règlement interne est soumis à l’approbation du département.
+
+<sup>4</sup> La Commission fédérale pour la qualité édicte un règlement relatif à l’utilisation des fonds. Elle y règle notamment le calcul des indemnités et des aides financières. Ce règlement est soumis à l’approbation du département.
+
+<sup>5</sup> La Commission fédérale pour la qualité publie ses décisions sous une forme appropriée.
+
+[^58b-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58c
+
+**Tâches et compétences de la Commission fédérale pour la qualité**[^58c-1]
 
 <sup>1</sup>
 
-Les fournisseurs de prestations qui ne respectent pas les exigences relatives au caractère économique et à la garantie de la qualité des prestations qui sont prévues dans la loi (art. 56 et 58) ou dans un contrat font l’objet de sanctions. Celles-ci sont:
+La Commission fédérale pour la qualité a les tâches et les compétences suivantes:
+
+- a. elle conseille le Conseil fédéral, les cantons, les fournisseurs de prestations et les assureurs sur la coordination des mesures de développement de la qualité;
+- b. elle charge des tiers d’élaborer de nouveaux indicateurs de qualité et de développer les indicateurs existants; elle émet des recommandations aux autorités sur les indicateurs à utiliser;
+- c. elle examine les rapports visés à l’art. 58*a*, al. 2, let. g, établis par les fédérations des fournisseurs de prestations et des assureurs, et soumet à ces fédérations des recommandations en matière de développement de la qualité;
+- d. elle conseille le Conseil fédéral lors de la détermination des mesures que celui-ci prévoit sur la base des art. 58*a* et 58*h*;
+- e. elle charge des tiers de procéder à des études et à des examens systématiques;
+- f. elle charge des tiers de réaliser des programmes nationaux de développement de la qualité, de garantir l’identification et l’analyse des risques pour la sécurité des patients, de prendre des mesures de réduction de ces risques et d’assurer le développement de méthodes visant à promouvoir la sécurité des patients; elle s’adresse notamment aux organisations qui disposent de l’expérience requise dans ces domaines ainsi que dans l’application des connaissances en collaboration avec les spécialistes compétents;
+- g. elle peut soutenir des projets nationaux ou régionaux de développement de la qualité;
+- h. elle soumet aux autorités compétentes et aux fédérations des fournisseurs de prestations et des assureurs des recommandations relatives à la mesure de la qualité et aux prescriptions générales en matière de qualité, en particulier à la qualité de l’indication, ainsi qu’aux mesures à prendre dans des cas particuliers.
+
+<sup>2</sup> Sur proposition de la Commission fédérale pour la qualité, le Conseil fédéral fixe chaque année les objectifs assignés à celle-ci et la manière de contrôler leur réalisation.
+
+<sup>3</sup> Les cantons, les fournisseurs de prestations et les assureurs sont tenus de communiquer aux tiers mandatés par la Commission fédérale pour la qualité les données dont ces derniers ont besoin pour remplir les tâches visées à l’al. 1, let. e et f.
+
+<sup>4</sup> Les tiers garantissent l’anonymat des patients.
+
+<sup>5</sup> Le Conseil fédéral règle les modalités de la collecte, du traitement et de la transmission des données prévues aux al. 3 et 4.
+
+[^58c-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58d
+
+**Indemnités**[^58d-1]
+
+<sup>1</sup> Dans les limites des crédits autorisés, la Confédération indemnise pour leurs prestations les tiers auxquels a été confiée une des tâches visées à l’art. 58*c*, al. 1, let b, e ou f.
+
+<sup>2</sup> Les indemnités sont octroyées sur demande par la Commission fédérale pour la qualité sous forme de subventions globales en vertu de contrats de prestations.
+
+<sup>3</sup> Le Conseil fédéral définit les exigences et la procédure applicables à l’octroi des indemnités.
+
+[^58d-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58e
+
+**Aides financières**[^58e-1]
+
+<sup>1</sup> Dans les limites des crédits autorisés, la Confédération peut soutenir des projets nationaux ou régionaux de développement de la qualité au moyen d’aides financières.
+
+<sup>2</sup> Les aides financières sont octroyées sur demande par la Commission fédérale pour la qualité en vertu de contrats de prestations. Elles couvrent au maximum 50 % des coûts.
+
+<sup>3</sup> Le Conseil fédéral définit les exigences et la procédure applicables à l’octroi d’aides financières.
+
+[^58e-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58f
+
+**Financement des tâches et du fonctionnement de la Commission fédérale pour la qualité**[^58f-1]
+
+<sup>1</sup> Le financement des coûts de la Commission fédérale pour la qualité pour son fonctionnement, pour l’accomplissement de ses tâches visées à l’art. 58*c*, al. 1, pour les indemnités au sens de l’art. 58*d* et pour les aides financières au sens de l’art. 58*e* est assuré à raison d’un tiers chacun par la Confédération, par les cantons et par les assureurs.
+
+<sup>2</sup> Les dépenses annuelles maximales pour le financement des coûts résultent de la multiplication du nombre d’adultes au sens de l’art. 16*a*, al. 4, par 0,07 % de la prime moyenne annuelle de l’assurance obligatoire des soins des assurés visés à l’art. 16*a*, al. 3, pour la franchise déterminée par le Conseil fédéral conformément à l’art. 64, al. 3, et la couverture accidents.
+
+<sup>3</sup> Pour la part de la Confédération, les crédits nécessaires sont inscrits au budget.
+
+<sup>4</sup> La part des cantons est calculée sur la base de leur population résidente.
+
+<sup>5</sup> La part des assureurs est calculée sur la base du nombre de leurs assurés soumis à l’assurance obligatoire des soins.
+
+<sup>6</sup> Le Conseil fédéral définit, dans le cadre de la fixation des objectifs visés à l’art. 58, la contribution annuelle de la Confédération, des cantons et des assureurs, compte tenu du montant maximal prévu à l’al. 2 et de la répartition des coûts prévue à l’al. 1.
+
+<sup>7</sup> L’office encaisse les contributions des cantons et des assureurs et perçoit des intérêts moratoires en cas de retard de paiement.
+
+<sup>8</sup> Le Conseil fédéral règle les détails du versement et de la gestion des contributions financières.
+
+[^58f-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58g
+
+**Crédit global**[^58g-1]
+
+L’Assemblée fédérale décide, sous la forme d’un crédit global pluriannuel, du montant maximal que la Commission fédérale pour la qualité peut octroyer sous forme d’indemnités au sens de l’art. 58*d* et d’aides financières au sens de l’art. 58*e*.
+
+[^58g-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 58h
+
+**Mesures définies par le Conseil fédéral pour développer la qualité et garantir ou rétablir l’adéquation des prestations**[^58h-1]
+
+<sup>1</sup>
+
+Le Conseil fédéral définit des mesures de développement de la qualité, ainsi que des mesures visant à garantir ou à rétablir l’adéquation des prestations. Il peut en particulier prévoir que:
+
+- a. l’accord du médecin-conseil est nécessaire avant l’exécution de certaines mesures diagnostiques ou thérapeutiques, notamment celles qui sont particulièrement coûteuses;
+- b. des mesures diagnostiques ou thérapeutiques particulièrement coûteuses ou difficiles ne seront prises en charge par l’assurance obligatoire des soins que lorsqu’elles sont pratiquées par des fournisseurs de prestations qualifiés en la matière.
+
+<sup>2</sup> Il peut désigner de manière plus détaillée les fournisseurs de prestations visés à l’al. 1, let. b.
+
+[^58h-1]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+
+#### Art. 59
+
+**Manquements aux exigences relatives au caractère économique et au développement de la qualité des prestations[^59-2]**[^59-1]
+
+<sup>1</sup>
+
+Les fournisseurs de prestations qui ne respectent pas les exigences relatives au caractère économique et à la garantie de la qualité des prestations qui sont prévues dans la loi (art. 56, 58*a* et 58*h*) ou dans une convention font l’objet de sanctions. Celles-ci comprennent, en plus des sanctions prévues par les conventions de qualité:[^59-3]
 
 - a. l’avertissement;
 - b. la restitution de tout ou partie des honoraires touchés pour des prestations fournies de manière inappropriée;
@@ -1188,16 +1326,23 @@ Les fournisseurs de prestations qui ne respectent pas les exigences relatives au
 
 <sup>3</sup>
 
-Constituent notamment des manquements aux exigences légales ou contractuelles visées à l’al. 1:
+Constituent notamment des manquements aux exigences légales ou conventionnelles visées à l’al. 1:[^59-4]
 
 - a. le non-respect du caractère économique des prestations au sens de l’art. 56, al. 1;
 - b. l’inexécution ou la mauvaise exécution du devoir d’information au sens de l’art. 57, al. 6;
-- c. l’obstruction aux mesures de garantie de la qualité prévues à l’art. 58;
+- c.[^59-5] le non-respect des mesures prévues aux art. 58*a* et 58*h*;
 - d. le non-respect de la protection tarifaire visée à l’art. 44;
 - e. la non-répercussion d’avantages au sens de l’art. 56, al. 3;
 - f. la manipulation frauduleuse de décomptes ou la production d’attestations contraires à la vérité.
 
+<sup>4</sup> Les ressources financières provenant des amendes et des sanctions sont utilisées par le Conseil fédéral pour financer des mesures destinées à garantir la qualité au sens de la présente loi.[^59-6]
+
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004 (Stratégie globale, compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706)).
+[^59-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-3]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-4]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-5]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
+[^59-6]: Introduit par le ch. I de la LF du 21 juin 2019 (Renforcement de la qualité et de l’économicité), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)).
 
 #### Art. 59a
 
@@ -2087,7 +2232,7 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 [^107-1]: Art. 1 de l’O du 12 avril 1995 [[RO 1995 1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)]
 [^107-2]: Art. 1 de l’O du 12 avril 1995 [[RO 1995 1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)]
 
-## Dispositions finales de la modification du 24 mars 2000****
+## Dispositions finales de la modification du 24 mars 2000
 
 [^u1-1]
 
@@ -2097,25 +2242,25 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 
 <sup>2</sup> Les cantons édictent les dispositions d’exécution de l’art. 65 avant l’entrée en vigueur de la présente modification. Lorsqu’il ne peut édicter à temps les dispositions définitives pour l’art. 65, le gouvernement cantonal peut arrêter une réglementation provisoire.
 
-## Disposition transitoire du 8 octobre 2004 (Tarif des soins)****
+## Disposition transitoire du 8 octobre 2004 (Tarif des soins)
 
 [^u2-1]
 
 [^u2-1]: [RO 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706). Abrogée par le ch. I de la LF du 20 déc. 2006 (Tarif des soins), avec effet au 1<sup>er</sup> déc. 2006 ([RO 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [FF 2006 7159](https://fedlex.data.admin.ch/eli/fga/2006/922)[7167](https://fedlex.data.admin.ch/eli/fga/2006/924)).
 
-## Disposition finale de la modification du 18 mars 2005 (Réduction des primes)****
+## Disposition finale de la modification du 18 mars 2005 (Réduction des primes)
 
 [^u3-1]
 
 [^u3-1]: [RO 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 4089](https://fedlex.data.admin.ch/eli/fga/2004/711). Abrogée par le ch. I de la LF du 17 mars 2017, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6989](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7729](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 
-## Dispositions transitoires de la modification du 20 décembre 2006****
+## Dispositions transitoires de la modification du 20 décembre 2006
 
 [^u4-1]
 
 [^u4-1]: [RO 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [FF 2006 7159](https://fedlex.data.admin.ch/eli/fga/2006/922)[7167](https://fedlex.data.admin.ch/eli/fga/2006/924). En vigueur jusqu’au 31 déc. 2008.
 
-## Dispositions transitoires de la modification du 21 décembre 2007 (Financement hospitalier)****
+## Dispositions transitoires de la modification du 21 décembre 2007 (Financement hospitalier)
 
 [^u5-1]
 
@@ -2136,13 +2281,13 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 - a. les modalités d’introduction;
 - b. la procédure selon laquelle les investissements effectués avant l’entrée en vigueur de la présente modification sont pris en compte dans le calcul du tarif.
 
-## Dispositions transitoires de la modification du 21 décembre 2007 (Compensation des risques)****
+## Dispositions transitoires de la modification du 21 décembre 2007 (Compensation des risques)
 
 [^u6-1]
 
 [^u6-1]: [RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024). Abrogées par le ch. I de la LF du 21 mars 2014, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [FF 2013 7021](https://fedlex.data.admin.ch/eli/fga/2013/1479)[7519](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
-## Dispositions transitoires de la modification du 13 juin 2008****
+## Dispositions transitoires de la modification du 13 juin 2008
 
 [^u7-1]
 
@@ -2152,13 +2297,13 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 
 <sup>2</sup> Les tarifs et conventions tarifaires valables à l’entrée en vigueur de la présente modification seront alignés dans un délai de trois ans sur les contributions aux soins fixées par le Conseil fédéral. Les gouvernements cantonaux règlent l’adaptation.
 
-## Disposition transitoire de la modification du 12 juin 2009****
+## Disposition transitoire de la modification du 12 juin 2009
 
 [^u8-1]
 
 [^u8-1]: [RO 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [FF 2009 2977](https://fedlex.data.admin.ch/eli/fga/2009/650)[2987](https://fedlex.data.admin.ch/eli/fga/2009/652). En vigueur jusqu’au 31 déc. 2011.
 
-## Dispositions transitoires de la modification du 19 mars 2010****
+## Dispositions transitoires de la modification du 19 mars 2010
 
 [^u9-1]
 
@@ -2173,7 +2318,7 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 - a. primes et participations aux coûts arriérées échues lors de l’entrée en vigueur de la présente modification et pour lesquelles un acte de défaut de biens ou un titre équivalent a été délivré;
 - b. intérêts moratoires et frais de poursuite échus lors de l’entrée en vigueur de la présente modification.
 
-## Disposition transitoire de la modification du 23 décembre 2011****
+## Disposition transitoire de la modification du 23 décembre 2011
 
 [^u10-1]
 
@@ -2181,13 +2326,13 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 
 Le Conseil fédéral fixe pour les fournisseurs de prestations visés à l’art. 35, al. 2, let. a, la méthode visant à contrôler le caractère économique des prestations au sens de l’art. 56, al. 6, si les assureurs et les fournisseurs de prestations ne sont pas convenus d’une méthode dans un délai de 12 mois suivant l’entrée en vigueur de la présente modification.
 
-## Dispositions transitoires de la modification du 21 juin 2013 (Réintroduction temporaire de l’admission selon le besoin)****
+## Dispositions transitoires de la modification du 21 juin 2013 (Réintroduction temporaire de l’admission selon le besoin)
 
 [^u11-1]
 
 [^u11-1]: [RO 2013 2065](https://fedlex.data.admin.ch/eli/oc/2013/428); [FF 2012 8709](https://fedlex.data.admin.ch/eli/fga/2012/1750). En vigueur jusqu’au 30 juin 2016.
 
-## Dispositions transitoires relatives à la modification du 19 juin 2015 (Dossier électronique du patient)****
+## Dispositions transitoires relatives à la modification du 19 juin 2015 (Dossier électronique du patient)
 
 [^u12-1]
 
@@ -2197,13 +2342,13 @@ Le Conseil fédéral fixe pour les fournisseurs de prestations visés à l’art
 
 <sup>2</sup> Les maisons de naissance, y compris celles qui concluent des conventions au sens de l’art. 49*a*, al. 4, ainsi que les établissements médico-sociaux doivent se conformer à l’art. 39, al. 1, let. f, dans un délai transitoire de cinq ans après l’entrée en vigueur de la modification du 19 juin 2015.
 
-## Dispositions transitoires de la modification du 17 juin 2016 (Prolongation de la limitation de l’admission à pratiquer à la charge de l’assurance-maladie)****
+## Dispositions transitoires de la modification du 17 juin 2016 (Prolongation de la limitation de l’admission à pratiquer à la charge de l’assurance-maladie)
 
 [^u13-1]
 
 [^u13-1]: [RO 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [FF 2016 3349](https://fedlex.data.admin.ch/eli/fga/2016/647)[3359](https://fedlex.data.admin.ch/eli/fga/2016/649). En vigueur jusqu’au 30 juin 2019.
 
-## Disposition transitoire de la modification du 17 mars 2017****
+## Disposition transitoire de la modification du 17 mars 2017
 
 [^u14-1]
 
@@ -2211,7 +2356,7 @@ Le Conseil fédéral fixe pour les fournisseurs de prestations visés à l’art
 
 Les cantons mettent en œuvre le système de réduction des primes pour les enfants prévu à l’art. 65, al. 1<sup>bis</sup>, dans un délai de deux ans à compter de l’entrée en vigueur de la modification du 17 mars 2017.
 
-## Dispositions transitoires de la modification du 14 décembre 2018 (Prolongation de la limitation de l’admission à pratiquer à la charge de l’assurance-maladie)****
+## Dispositions transitoires de la modification du 14 décembre 2018 (Prolongation de la limitation de l’admission à pratiquer à la charge de l’assurance-maladie)
 
 [^u15-1]
 
@@ -2221,11 +2366,19 @@ Les cantons mettent en œuvre le système de réduction des primes pour les enfa
 
 <sup>2</sup> Les médecins qui ont exercé au sein d’une institution au sens de l’art. 36*a* ou dans le domaine ambulatoire d’un hôpital au sens de l’art. 39 avant l’entrée en vigueur de la présente modification ne sont pas soumis à la preuve du besoin s’ils continuent d’exercer au sein de la même institution ou dans le domaine ambulatoire du même hôpital.
 
+## Disposition transitoire de la modification du 21 juin 2019
+
+[^u16-1]
+
+[^u16-1]: [RO 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [FF 2016 217](https://fedlex.data.admin.ch/eli/fga/2016/65)
+
+Les fédérations des fournisseurs de prestations et des assureurs soumettent pour approbation au Conseil fédéral les conventions de qualité, pour la première fois, un an après l’entrée en vigueur de la modification du 21 juin 2019.
+
 Annexe
 
 ## Abrogation et modification de lois fédérales
 
-### 1. La loi fédérale du 13 juin 1911 sur l’assurance-maladie**** est abrogée.
+### 1. La loi fédérale du 13 juin 1911 sur l’assurance-maladie est abrogée.
 
 [^annexu1-lvlu1-lvl1-1]
 
