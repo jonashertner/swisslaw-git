@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.22"
 title: Verordnung über die Erklärung der ausserordentlichen Lage auf kantonaler Ebene
 language: de
-version: 2021-03-01
-valid_until: 2021-03-31
-version_adopted: 2021-03-02
+version: 2021-04-01
+valid_until: 2021-04-18
+version_adopted: 2021-03-22
 adopted: 2020-10-28
 in_force: 2020-10-30
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/6779/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6814/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6779/pdf_file"
 
 COVID-19, ausserordentliche Lage auf kantonaler Ebene – V
 
-vom 28.10.2020 (Fassung in Kraft getreten am 01.03.2021)
+vom 28.10.2020 (Fassung in Kraft getreten am 01.04.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -77,7 +77,7 @@ beschliesst:
 
 #### Art. 5
 
-<sup>1</sup> Diese Verordnung bleibt bis 31. März 2021 um Mitternacht in Kraft; Artikel 117 KV bleibt vorbehalten.
+<sup>1</sup> Diese Verordnung bleibt bis 30. April 2021 um Mitternacht in Kraft; Artikel 117 KV bleibt vorbehalten.
 
 <sup>2</sup> Wenn es die gesundheitliche Lage erfordert, kann ihre Geltungsdauer verlängert werden.
 
