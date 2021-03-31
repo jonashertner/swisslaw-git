@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "814.11"
-title: "Ordonnance d'exécution de l'ordonnance fédérale sur la protection contre le bruit"
-short: OEOPB
+title: Ordonnance sur la protection contre le bruit et les dangers liés au son
+short: OPBS
 language: fr
-version: 2009-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-03-17
+version: 2021-04-01
+valid_until: 2022-01-31
+version_adopted: 2021-02-23
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/814.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5459/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6832/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance d'exécution de l'ordonnance fédérale sur la protection contre le bruit
+# Ordonnance sur la protection contre le bruit et les dangers liés au son
 
 Protection contre le bruit – O
 
-(OEOPB)
+(OPBS)
 
-du 17.03.2009 (version entrée en vigueur le 01.01.2009)
+du 17.03.2009 (version entrée en vigueur le 01.04.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -29,7 +29,13 @@ Vu la loi fédérale du 7 octobre 1983 sur la protection de l'environnement (LPE
 
 Vu l'ordonnance fédérale du 15 décembre 1986 sur la protection contre le bruit (OPB);
 
+Vu les sections 4 et 6 de l'ordonnance fédérale du 27 février 2019 relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son (O-LRNIS);
+
 Vu la loi du 15 décembre 1967 sur les routes (LR);
+
+Vu la loi du 24 septembre 1991 sur les établissements publics (LEPu) et son règlement du 16 novembre 1992 (REPu);
+
+Vu la loi du 2 décembre 2008 sur l'aménagement du territoire et les constructions (LATeC);
 
 Sur la proposition de la Direction de l'aménagement, de l'environnement et des constructions,
 
@@ -39,12 +45,14 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> La présente ordonnance précise les modalités d'application de l'ordonnance fédérale du 15 décembre 1986 sur la protection contre le bruit (OPB). Elle définit:
+<sup>1</sup> La présente ordonnance précise les modalités d'application de l'ordonnance fédérale sur la protection contre le bruit (OPB) et des sections 4 et 6 de l'ordonnance fédérale relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son (O-LRNIS). Elle définit:
 
-- a) l'attribution des compétences et des tâches des autorités cantonales chargées de l'application de la législation en matière de protection contre le bruit;
+- a) l'attribution des compétences et des tâches des autorités cantonales et communales chargées de l'application de la législation en matière de protection contre le bruit et les dangers liés au son;
 - b) les procédures applicables;
 - c) les modalités qui prévalent en matière de subventions liées à l'assainissement acoustique des routes communales et des routes privées affectées à l'usage commun;
 - d) d'autres dispositions d'exécution.
+
+<sup>2</sup> Les compétences prévues par la législation spéciale sont réservées.
 
 ## 2 Organisation
 
@@ -57,7 +65,8 @@ Arrête:
 - a) ordonner un assainissement;
 - b) accorder des allégements;
 - c) obliger un ou une propriétaire à procéder à l'isolation acoustique de son bâtiment;
-- d) fixer les délais pour l'exécution des mesures.
+- d) fixer les délais pour l'exécution des mesures;
+- e) veiller à la coordination entre les différents acteurs cantonaux en matière de protection contre le bruit.
 
 <sup>2</sup> Elle décide sur le préavis des organes administratifs concernés. Elle peut charger le Service de l'environnement de l'exécution de ses tâches.
 
@@ -80,7 +89,12 @@ Arrête:
 - i) informer le public;
 - j) préaviser les dossiers de planification et les demandes de permis de construire dans les secteurs exposés au bruit;
 - k) remettre les cadastres de bruit à l'Office fédéral de l'environnement, à la demande de celui-ci;
+- k1) procéder aux contrôles du respect de la limitation des émissions prévus par l'article 9 LEPu et les articles 21 et 27 O-LRNIS;
+- k2) préaviser les demandes de patentes, conformément à la législation sur les établissements publics;
+- k3) recevoir les annonces relatives aux manifestations avec des sons amplifiés par électroacoustique, conformément aux articles 20 al. 1 O-LRNIS et 72 REPu;
 - l) exécuter toutes les tâches qui ne sont pas expressément confiées par la présente ordonnance à un autre organe.
+
+<sup>2</sup> Le SEn établit régulièrement un rapport qui détermine les priorités et les mesures cantonales en matière de protection contre le bruit. Le rapport est soumis à la DAEC pour approbation. Celle-ci consulte les autres Directions.
 
 #### Art. 4
 
@@ -88,10 +102,18 @@ Arrête:
 
 <sup>1</sup> Le Service des ponts et chaussées (SPC) est compétent pour:
 
-- a) établir le cadastre de bruit des routes cantonales, en assurer la mise à jour et le remettre au SEn;
+- a) établir le cadastre de bruit des routes cantonales (y compris les données de trafic), en assurer la mise à jour et le remettre au SEn;
 - b) planifier et réaliser l'assainissement des routes cantonales de telle sorte que les délais imposés par la législation fédérale puissent être respectés.
 
 <sup>2</sup> Il s'assure de la prise en compte des exigences de la protection contre le bruit dans tout projet de construction, de modification, de modération du trafic ou de la vitesse et de signalisation touchant des routes cantonales.
+
+#### Art. 4a
+
+**Service de la mobilité (SMo)**
+
+<sup>1</sup> Le Service de la mobilité (SMo) met à disposition les données de trafic à la demande des autorités compétentes.
+
+<sup>2</sup> Il évalue la plausibilité des données de trafic fournies par des tiers.
 
 #### Art. 5
 
@@ -103,7 +125,19 @@ Arrête:
 
 **Préfet**
 
-<sup>1</sup> Le préfet, dans la procédure de permis de construire, est l'autorité compétente pour décider les mesures nécessaires en lien avec la protection contre le bruit (art. 30, 31, 32 et 37a OPB).
+<sup>1</sup> Le préfet, dans le cadre de l'application de la législation sur l'aménagement du territoire et les constructions et de la législation sur les établissements publics, est l'autorité compétente pour décider les mesures nécessaires en lien avec la protection contre le bruit et les dangers liés au son. Il applique les directives fédérales.
+
+<sup>2</sup> Il est compétent pour recevoir les annonces relatives aux manifestations avec des sons amplifiés par électroacoustique, au sens de l'article 20 al. 1 O-LRNIS.
+
+<sup>3</sup> Les compétences du préfet en matière d'ordre public sont réservées.
+
+#### Art. 6a
+
+**Police cantonale (Pol)**
+
+<sup>1</sup> La Police cantonale (Pol) peut effectuer des mesures et des contrôles dans les locaux des manifestations et les locaux industriels, conformément à l'article 27 al. 1 O-LRNIS.
+
+<sup>2</sup> Les compétences de la Police cantonale (Pol) en matière d'ordre public, de circulation routière et d'établissements publics sont réservées.
 
 #### Art. 7
 
@@ -111,12 +145,19 @@ Arrête:
 
 <sup>1</sup> Les communes sont compétentes pour:
 
-- a) établir le cadastre de bruit des routes communales et des routes privées affectées à l'usage commun, en assurer la mise à jour et le remettre au SEn;
-- b) planifier et réaliser l'assainissement des routes communales et des routes privées affectées à l'usage commun de telle sorte que les délais imposés par la législation fédérale puissent être respectés.
+- a) établir le cadastre de bruit (y compris les données de trafic) des routes communales et des routes privées affectées à l'usage commun, en assurer la mise à jour et le remettre au SEn;
+- b) planifier et réaliser l'assainissement des routes communales et des routes privées affectées à l'usage commun de telle sorte que les délais imposés par la législation fédérale puissent être respectés;
+- c) limiter les émissions d'appareils et de machines mobiles ainsi que les bruits assimilés, par le biais d'un règlement de portée générale, au moyen d'horaires d'exploitation ou de mesures de construction (art. 4 OPB); demeurent réservées les directives fédérales, notamment en matière de bruit de chantier;
+- d) veiller au respect de la législation contre le bruit en matière de police des constructions (art. 165 et 170 LATeC);
+- e) procéder à certains contrôles, aux conditions prévues par l'article 9 al. 4 LEPu.
 
 <sup>2</sup> Les communes s'assurent de la prise en compte des exigences de la protection contre le bruit dans tout projet de construction, de modification, de modération du trafic ou de la vitesse et de signalisation touchant des routes communales ou des routes privées affectées à l'usage commun.
 
 <sup>3</sup> Les communes attribuent les degrés de sensibilité aux zones d'affectation dans le plan d'affectation des zones et la réglementation y relative.
+
+<sup>4</sup> Dans leur domaine de compétence, les communes traitent les plaintes et procèdent par voie de conciliation. A leur demande, le SEn procède à une évaluation technique des nuisances. Si une décision d'assainissement s'avère nécessaire, les communes transmettent le dossier à la DAEC.
+
+<sup>5</sup> Les compétences des communes fondées sur leur réglementation de police en matière d'ordre et de tranquillité publics sont réservées.
 
 ## 3 Limitation des émissions et assainissement
 
@@ -178,7 +219,7 @@ Arrête:
 
 <sup>3</sup> La décision d'assainissement est sujette à recours au Tribunal cantonal.
 
-## 4 Subventions à l'assainissement et aux mesures d'isolation acoustique des routes existantes (art. 21ss OPB et art. 72c et 72d LR)
+## 4 Subventions à l'assainissement des routes existantes (art. 21ss OPB et art. 72c et 72d LR)
 
 #### Art. 15
 
@@ -201,7 +242,7 @@ Arrête:
 
 <sup>1</sup> Le montant de la subvention pour des projets d'assainissement le long d'une route communale ou d'une route privée affectée à l'usage commun correspond à celui qui est déterminé par la Confédération dans le cadre de la convention-programme.
 
-<sup>2</sup> Pour les mesures d'isolation acoustique des bâtiments existants, le montant forfaitaire par fenêtre antibruit ou autre mesure constructive ayant des effets antibruit équivalents est de 400 francs.
+<sup>2</sup> …
 
 <sup>3</sup> Le maître d'ouvrage fournit au canton les informations nécessaires à l'évaluation de chaque projet. L'autorité peut procéder à des contrôles ou mandater des tiers à cet effet.
 
@@ -230,5 +271,9 @@ Arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur avec effet rétroactif au 1<sup>er</sup> janvier 2009.
+
+**Approbation**
+
+La modification du 23.02.2021 a été approuvée par le Département fédéral de l'environnement, des transports, de l'énergie et de la communication le 12.05.2021 (cf. ROF INFO 2021-21).
 
 2009\_030

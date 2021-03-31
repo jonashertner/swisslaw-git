@@ -1,27 +1,27 @@
 ---
 canton: FR
 number: "814.11"
-title: Ausführungsverordnung zur Lärmschutz-Verordnung des Bundes
-short: AVLSV
+title: Lärmschutz- und Schallverordnung
+short: LSSV
 language: de
-version: 2009-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-03-17
+version: 2021-04-01
+valid_until: 2022-01-31
+version_adopted: 2021-02-23
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/814.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5459/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6832/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsverordnung zur Lärmschutz-Verordnung des Bundes
+# Lärmschutz- und Schallverordnung
 
 Lärmschutz – V
 
-(AVLSV)
+(LSSV)
 
-vom 17.03.2009 (Fassung in Kraft getreten am 01.01.2009)
+vom 17.03.2009 (Fassung in Kraft getreten am 01.04.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -29,7 +29,13 @@ gestützt auf das Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz (USG);
 
 gestützt auf die Lärmschutz-Verordnung des Bundes vom 15. Dezember 1986 (LSV);
 
+gestützt auf den 4. und 6. Abschnitt der Bundesverordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG);
+
 gestützt auf das Strassengesetz vom 15. Dezember 1967 (StrG);
+
+gestützt auf das Gesetz vom 24. September 1991 über die öffentlichen Gaststätten (ÖGG) und sein Ausführungsreglement vom 16. November 1992 (ÖGR);
+
+gestützt auf das Raumplanungs- und Baugesetz vom 2. Dezember 2008 (RPBG);
 
 auf Antrag der Raumplanungs-, Umwelt- und Baudirektion,
 
@@ -39,12 +45,14 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Diese Verordnung führt die Lärmschutz-Verordnung des Bundes vom 15. Dezember 1986 (LSV) aus. Sie legt Folgendes fest:
+<sup>1</sup> Diese Verordnung führt die Lärmschutz-Verordnung des Bundes (LSV) und die Abschnitte 4 und 6 der Bundesverordnung zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG) aus. Sie legt Folgendes fest:
 
-- a) die Kompetenzen und Aufgaben der einzelnen kantonalen Behörden, die mit der Ausführung der Lärmschutzgesetzgebung betraut sind;
+- a) die Kompetenzen und Aufgaben der kantonalen und kommunalen Behörden, die mit der Ausführung der Gesetzgebung über den Lärmschutz und den Schutz vor schädlichem Schall betraut sind;
 - b) die anwendbaren Verfahren;
 - c) die Modalitäten der Beitragsleistungen für die Lärmsanierung von Gemeindestrassen und von Privatstrassen im Gemeingebrauch;
 - d) die weiteren Ausführungsbestimmungen.
+
+<sup>2</sup> Die in der Spezialgesetzgebung vorgesehenen Kompetenzen bleiben vorbehalten.
 
 ## 2 Zuständigkeiten
 
@@ -57,7 +65,8 @@ beschliesst:
 - a) ordnet Sanierungen an;
 - b) gewährt Erleichterungen;
 - c) ordnet die Schalldämmung von lärmbelasteten Gebäuden durch die Eigentümerschaft an;
-- d) legt die Fristen für die Ausführung der Massnahmen fest.
+- d) legt die Fristen für die Ausführung der Massnahmen fest;
+- e) sorgt für die Koordination zwischen den verschiedenen kantonalen Akteuren im Bereich des Lärmschutzes.
 
 <sup>2</sup> Sie entscheidet auf Stellungnahme der betroffenen Dienststellen. Sie kann die Ausführung ihrer Aufgaben dem Amt für Umwelt übertragen.
 
@@ -80,7 +89,12 @@ beschliesst:
 - i) klärt die Öffentlichkeit auf;
 - j) begutachtet die Planungsdossiers und Baubewilligungsgesuche in lärmbelasteten Gebieten;
 - k) reicht dem Bundesamt für Umwelt auf Aufforderung hin die Lärmbelastungskataster ein;
+- k1) kontrolliert die Einhaltung der Emissionsbegrenzungen nach den Artikeln 9 ÖGG sowie 21 und 27 V-NISSG;
+- k2) begutachtet die Patentgesuche gemäss der Gesetzgebung über die öffentliche Gaststätten;
+- k3) nimmt die Meldungen über Veranstaltungen mit elektroakustisch verstärktem Schall nach den Artikeln 20 Abs. 1 V-NISSG und 72 ÖGR entgegen;
 - l) führt alle Aufgaben aus, die diese Verordnung nicht ausdrücklich einer andern Behörde überträgt.
+
+<sup>2</sup> Das AfU erstellt regelmässig einen Bericht über die kantonalen Prioritäten und Massnahmen im Bereich des Lärmschutzes. Der Bericht wird der RUBD zur Genehmigung unterbreitet; diese holt die Meinungen der betroffenen Direktionen ein.
 
 #### Art. 4
 
@@ -88,10 +102,18 @@ beschliesst:
 
 <sup>1</sup> Das Tiefbauamt (TBA):
 
-- a) erstellt den Lärmbelastungskataster für die Kantonsstrassen, führt diesen nach und lässt ihn dem AfU zukommen;
+- a) erstellt den Lärmbelastungskataster (einschliesslich Verkehrsdaten) für die Kantonsstrassen, führt diesen nach und lässt ihn dem AfU zukommen;
 - b) plant und verwirklicht die Lärmsanierung der Kantonsstrassen unter Einhaltung der von der Bundesgesetzgebung vorgegebenen Fristen.
 
 <sup>2</sup> Es stellt sicher, dass die Lärmschutzvorgaben bei den Projekten für den Neu- und Ausbau von Kantonsstrassen, bei Massnahmen zur Verkehrsberuhigung und Geschwindigkeitsreduktion sowie bei Signalisationsvorhaben auf diesen Strassen berücksichtigt werden.
+
+#### Art. 4a
+
+**Amt für Mobilität (MobA)**
+
+<sup>1</sup> Das Amt für Mobilität (MobA) stellt auf Anfrage der zuständigen Behörden die Verkehrsdaten zur Verfügung.
+
+<sup>2</sup> Es prüft die Plausibilität der von Dritten gelieferten Verkehrsdaten.
 
 #### Art. 5
 
@@ -103,7 +125,19 @@ beschliesst:
 
 **Oberamtsperson**
 
-<sup>1</sup> Im Baubewilligungsverfahren entscheidet die Oberamtsperson über die notwendigen Massnahmen im Zusammenhang mit dem Lärmschutz (Art. 30, 31, 32 und 37a LSV).
+<sup>1</sup> Die Oberamtsperson entscheidet im Rahmen der Anwendung der Raumplanungs- und Baugesetzgebung und der Gesetzgebung über öffentliche Gaststätten über die notwendigen Massnahmen im Zusammenhang mit dem Lärmschutz und dem Schutz vor schädlichem Schall. Sie wendet dabei die Richtlinien des Bundes an.
+
+<sup>2</sup> Sie nimmt die Meldungen über Veranstaltungen mit elektroakustisch verstärktem Schall nach Artikel 20 Abs. 1 V-NISSG entgegen.
+
+<sup>3</sup> Die Befugnisse der Oberamtsperson in Fragen der öffentlichen Ordnung bleiben vorbehalten.
+
+#### Art. 6a
+
+**Kantonspolizei (Pol)**
+
+<sup>1</sup> Die Kantonspolizei (Pol) kann Kontrollen und Messungen in Veranstaltungs- und Gewerbelokalen gemäss Artikel 27 Abs.1 V-NISSG durchführen.
+
+<sup>2</sup> Die Befugnisse der Kantonspolizei (Pol) in Fragen der öffentlichen Ordnung, des Strassenverkehrs und der öffentlichen Gaststätten bleiben vorbehalten.
 
 #### Art. 7
 
@@ -111,12 +145,19 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden:
 
-- a) erstellen den Lärmbelastungskataster für die Gemeindestrassen und Privatstrassen im Gemeingebrauch, führen diesen nach und lassen ihn dem AfU zukommen;
-- b) planen und verwirklichen die Lärmsanierung der Gemeindestrassen und Privatstrassen im Gemeingebrauch, so dass die von der Bundesgesetzgebung vorgegebenen Fristen eingehalten werden.
+- a) erstellen den Lärmbelastungskataster (einschliesslich Verkehrsdaten) für die Gemeindestrassen und Privatstrassen im Gemeingebrauch, führen diesen nach und lassen ihn dem AfU zukommen;
+- b) planen und verwirklichen die Lärmsanierung der Gemeindestrassen und Privatstrassen im Gemeingebrauch, so dass die von der Bundesgesetzgebung vorgegebenen Fristen eingehalten werden;
+- c) begrenzen die Emissionen beweglicher Geräte und Maschinen und den Lärm, der diesen Emissionen gleichgestellt ist, indem sie in einem allgemein verbindlichen Reglement Betriebszeiten oder bauliche Massnahmen anordnen (Art. 4 LSV); die Richtlinien des Bundes, namentlich zum Baulärm, bleiben vorbehalten;
+- d) sorgen für die Einhaltung der Lärmschutzgesetzgebung im Bereich der Baupolizei (Art. 165 und 170 RPBG);
+- e) führen unter den Bedingungen nach Artikel 9 Abs. 4 ÖGG bestimmte Kontrollen durch.
 
 <sup>2</sup> Sie stellen sicher, dass die Lärmschutzvorgaben bei den Projekten für den Neu- und Ausbau von Gemeindestrassen und Privatstrassen im Gemeingebrauch, bei Massnahmen zur Verkehrsberuhigung und Geschwindigkeitsreduktion sowie bei Signalisationsvorhaben auf diesen Strassen berücksichtigt werden.
 
 <sup>3</sup> Die Gemeinden legen in den Zonennutzungsplänen und den einschlägigen Reglementen die Empfindlichkeitsstufe der verschiedenen Zonen fest.
+
+<sup>4</sup> Die Gemeinden behandeln die Klagen in ihrem Zuständigkeitsbereich und bemühen sich dabei um eine Schlichtung. Auf ihr Ersuchen nimmt das AfU eine technische Bewertung der Immissionen vor. Erweist sich eine Sanierungsverfügung als nötig, so leiten die Gemeinden das Dossier an die RUBD weiter.
+
+<sup>5</sup> Die Befugnisse nach kommunalem Polizeirecht im Bereich der öffentlichen Ruhe bleiben vorbehalten.
 
 ## 3 Emissionsbegrenzungen und Sanierungen
 
@@ -178,7 +219,7 @@ beschliesst:
 
 <sup>3</sup> Gegen die Sanierungsverfügung kann beim Kantonsgericht Beschwerde eingereicht werden.
 
-## 4 Beiträge für Sanierungen und Schallschutzmassnahmen bei bestehenden Strassen (Art. 21 ff. LSV und Art. 72c und 72d StrG)
+## 4 Beiträge für Sanierungen bei bestehenden Strassen (Art. 21 ff. LSV sowie Art. 72c und 72d StrG)
 
 #### Art. 15
 
@@ -201,7 +242,7 @@ beschliesst:
 
 <sup>1</sup> Der Beitrag an die Sanierungsprojekte für Gemeindestrassen und Privatstrassen im Gemeingebrauch richtet sich nach dem Beitrag, den der Bund im Rahmen der Programmvereinbarung vorsieht.
 
-<sup>2</sup> Für Schallschutzmassnahmen an bestehenden Gebäuden wird ein Pauschalbetrag von 400 Franken pro Schallschutzfenster oder andere bauliche, in ihrer Wirkung gleichwertige Schallschutzmassnahme gewährt.
+<sup>2</sup> …
 
 <sup>3</sup> Der Bauherr liefert dem Kanton sämtliche Informationen, die für die Beurteilung des Projekts nötig sind. Die Behörde kann Kontrollen durchführen oder von Dritten durchführen lassen.
 
@@ -230,5 +271,9 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung wird rückwirkend auf den 1. Januar 2009 in Kraft gesetzt.
+
+**Genehmigung**
+
+Die Änderung vom 23.02.2021 ist vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation am 12.05.2021 genehmigt worden (siehe ASF INFO 2021-21).
 
 2009\_030
