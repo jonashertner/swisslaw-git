@@ -4,13 +4,13 @@ number: "437.121"
 title: Verordnung über die Fachkommission für Sport
 short: FAKOV
 language: de
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-09-17
+version: 2021-04-01
+valid_until: 2022-07-31
+version_adopted: 2021-02-24
 adopted: 1998-05-27
 in_force: 1998-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/437.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/680/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/680/pdf_file"
 
 (FAKOV)
 
-vom 27.05.1998 (Stand 01.01.2004)
+vom 27.05.1998 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -35,24 +35,24 @@ beschliesst:
 
 **Zusammensetzung und Wahl**
 
-<sup>1</sup> Die Fachkommission für Sport (FAKOV) besteht aus neun bis dreizehn Mitgliedern. Sie umfasst
+<sup>1</sup> Die Fachkommission für Sport besteht aus neun bis dreizehn Mitgliedern. Sie umfasst
 
 - a das Präsidium,
 - b drei Vertretungen der Vereinigung Bernischer Sportverbände (VBSV),
 - c eine Vertretung des Institutes für Sport- und Sportwissenschaft der Universität Bern (ISSW),
 - d eine Vertretung des Bernischen Turnlehrerinnen- und Turnlehrer-Vereins (BTLV),
-- e eine Vertretung der Erziehungsdirektion,
+- e eine Vertretung der Bildungs- und Kulturdirektion,
 - f zwei bis sechs weitere Mitglieder, die in Ergänzung der unter a bis e genannten Mitglieder eine ausgewogene Vertretung aller Sportbereiche, insbesondere von Jugendsport, Sport aller Schulstufen, Sport mit Behinderten, Sport mit Seniorinnen und Senioren, Leistungs- und Spitzensport, Bau und Betrieb von Sportanlagen, gewährleisten.
 
 <sup>2</sup> Der deutsch- und der französischsprachige Kantonsteil sowie die Geschlechter müssen angemessen vertreten sein.
 
-<sup>3</sup> Der Regierungsrat ernennt die Mitglieder auf Antrag der Polizei- und Militärdirektion. Für die Mitglieder gemäss Absatz 1 Buchstaben b bis e werden dem Regierungsrat die gemeldeten Vertretungen der entsprechenden Institutionen vorgeschlagen.
+<sup>3</sup> Der Regierungsrat ernennt die Mitglieder auf Antrag der Sicherheitsdirektion. Für die Mitglieder gemäss Absatz 1 Buchstaben b bis e werden dem Regierungsrat die gemeldeten Vertretungen der entsprechenden Institutionen vorgeschlagen.
 
 #### Art. 2
 
 **Organisation**
 
-<sup>1</sup> Das Präsidium der Kommission wird von der Polizei- und Militärdirektion bestimmt. Im Übrigen konstituiert sich die Kommission selbst.
+<sup>1</sup> Das Präsidium der Kommission wird von der Sicherheitsdirektion bestimmt. Im Übrigen konstituiert sich die Kommission selbst.
 
 <sup>2</sup> Die Kommission kann zeitlich begrenzt Arbeitsgruppen einsetzen.
 
@@ -76,7 +76,7 @@ beschliesst:
 
 **Sitzungen und Beschlüsse der Kommission**
 
-<sup>1</sup> Die Kommission tritt auf Einladung des Präsidiums oder der Polizei- und Militärdirektion zusammen, so oft es die Geschäfte erfordern, jährlich wenigstens zweimal. Ferner kann ein Drittel der Mitglieder die Einberufung einer Sitzung verlangen.
+<sup>1</sup> Die Kommission tritt auf Einladung des Präsidiums oder der Sicherheitsdirektion zusammen, so oft es die Geschäfte erfordern, jährlich wenigstens zweimal. Ferner kann ein Drittel der Mitglieder die Einberufung einer Sitzung verlangen.
 
 <sup>2</sup> Die Kommission ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist.
 

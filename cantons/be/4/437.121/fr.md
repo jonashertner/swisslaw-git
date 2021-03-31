@@ -4,13 +4,13 @@ number: "437.121"
 title: "Ordonnance sur la Commission d'experts pour le sport *"
 short: OCES
 language: fr
-version: 2004-01-01
-valid_until: 2021-03-31
-version_adopted: 2003-09-17
+version: 2021-04-01
+valid_until: 2022-07-31
+version_adopted: 2021-02-24
 adopted: 1998-05-27
 in_force: 1998-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/437.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/680/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2224/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/680/pdf_file"
 
 (OCES)
 
-du 27.05.1998 (état au 01.01.2004)
+du 27.05.1998 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -35,18 +35,18 @@ arrête:
 
 **Nomination et composition**
 
-<sup>1</sup> La Commission d'experts pour le sport (CES) se compose de neuf à treize membres. Elle comprend
+<sup>1</sup> La Commission d'experts pour le sport se compose de neuf à treize membres. Elle comprend
 
 - a la présidence,
 - b trois délégués ou déléguées de l'Association des sociétés bernoises de sport (ASBS),
 - c un délégué ou une déléguée de l'Institut des sports et des sciences des activités sportives de l'Université de Berne,[^1-1]
 - d un délégué ou une déléguée de l'Association bernoise des maîtres d'éducation physique (ABMEP),[^1-2]
-- e un délégué ou une déléguée de la Direction de l'instruction publique,[^1-3]
+- e un délégué ou une déléguée de la Direction de l’instruction publique et de la culture,[^1-3]
 - f deux à six autres membres qui, pour compléter l'éventail de compétences des personnes déjà citées aux lettres a à e, représenteront équitablement tous les domaines d'activités sportives, notamment le sport pour les jeunes, le sport à tous les degrés de scolarité, le sport pour les handicapés, le sport pour les aînés, le sport de compétition et le sport d'élite, ainsi que la construction et la gestion d'équipements sportifs.
 
 <sup>2</sup> Les régions francophone et germanophone du canton doivent être équitablement représentées, de même que les deux sexes.
 
-<sup>3</sup> Le Conseil-exécutif nomme les membres sur proposition de la Direction de la police et des affaires militaires. Pour les membres mentionnés à l'alinéa 1, lettres b à e, il est proposé au Conseil-exécutif de nommer les personnes annoncées par les institutions concernées.
+<sup>3</sup> Le Conseil-exécutif nomme les membres sur proposition de la Direction de la sécurité. Pour les membres mentionnés à l'alinéa 1, lettres b à e, il est proposé au Conseil-exécutif de nommer les personnes annoncées par les institutions concernées.
 
 [^1-1]: Ancienne lettre b
 [^1-2]: Ancienne lettre c
@@ -56,7 +56,7 @@ arrête:
 
 **Organisation**
 
-<sup>1</sup> La Direction de la police et des affaires militaires désigne le président ou la présidente de la commission. Au surplus, la commission se constitue elle-même.
+<sup>1</sup> La Direction de la sécurité désigne le président ou la présidente de la commission. Au surplus, la commission se constitue elle-même.
 
 <sup>2</sup> La commission peut constituer des groupes de travail temporaires.
 
@@ -80,7 +80,7 @@ arrête:
 
 **Séances et décisions de la commission**
 
-<sup>1</sup> La commission se réunit sur invitation de son président ou de sa présidente ou de la Direction de la police et des affaires militaires, aussi souvent que les affaires l'exigent, mais au moins deux fois par année. En outre, un tiers des membres peuvent demander la convocation d'une séance.
+<sup>1</sup> La commission se réunit sur invitation de son président ou de sa présidente ou de la Direction de la sécurité, aussi souvent que les affaires l'exigent, mais au moins deux fois par année. En outre, un tiers des membres peuvent demander la convocation d'une séance.
 
 <sup>2</sup> Le quorum est atteint lorsque la majorité des membres sont présents.
 
