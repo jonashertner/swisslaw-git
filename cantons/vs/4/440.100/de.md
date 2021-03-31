@@ -4,31 +4,34 @@ number: "440.100"
 title: Reglement zur Kulturförderung
 short: RKF
 language: de
-version: 2010-11-19
-corrected: 2017-09-07
-version_adopted: 2010-11-10
+version: 2021-04-01
+valid_until: 2026-08-31
+version_adopted: 2021-04-21
 adopted: 2026-07-22
 in_force: 2026-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/440.100"
-pdf: "https://lex.vs.ch/api/de/versions/465/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2882/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Kulturförderung
 
-vom 10. November 2010
+(RKF)
+
+vom 10.11.2010 (Stand 01.04.2021)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 der kantonalen Verfassung;
 
-eingesehen das Kulturförderungsgesetz vom 15. November 1996 (KFG); auf Antrag des Departements für Erziehung, Kultur und Sport,
+eingesehen das Kulturförderungsgesetz vom 15. November 1996 (KFG);
+
+auf Antrag des Departements für Erziehung, Kultur und Sport,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -36,7 +39,7 @@ verordnet:
 
 <sup>1</sup> Das vorliegende Reglement regelt die Ausführungsbestimmungen des Kulturförderungsgesetzes (KFG).
 
-<sup>2</sup> Die Anwendung des KFG obliegt dem Departement für Erziehung, Kultur und Sport (nachstehend Departement).
+<sup>2</sup> Die Anwendung des KFG obliegt dem Departement für Erziehung, Kultur und Sport (nachstehend: Departement).
 
 <sup>3</sup> Das Departement kann seine Entscheidungsbefugnisse seinen Dienststellen übertragen und andere Dienststellen des Staates zur Mitarbeit heranziehen.
 
@@ -64,7 +67,7 @@ verordnet:
 
 #### Art. 4
 
-**Der Kulturrat ( 18 KFG)**
+**Der Kulturrat (Art. 18 KFG)**
 
 <sup>1</sup> Auf Vorschlag des Departements ernennt der Staatsrat den Präsidenten, den Vize-Präsidenten und die übrigen Mitglieder des Kulturrates für die Dauer einer Amtsperiode. Ihr Mandat kann zweimal erneuert werden.
 
@@ -82,33 +85,28 @@ verordnet:
 
 #### Art. 5
 
-Kulturelle Anlässe mit nachhaltiger Wirkung auf den Tourismus (Art.7 KFG)
+**Kulturelle Anlässe mit nachhaltiger Wirkung auf den Tourismus (Art. 7 KFG)**
 
 <sup>1</sup> Der Spezialfonds zur Förderung kultureller Anlässe mit nachhaltiger Wirkung auf den Tourismus laut Artikel 7 KFG unterstützt kulturelle Anlässe:
 
 - a) deren Qualität und Bekanntheit wesentlich zur Förderung des Walliser Tourismus beitragen;
-
 - b) die einen Bekanntheitsgrad erreichen könnten, der in starkem Masse zur Förderung des Walliser Tourismus beiträgt;
-
 - c) die auf innovative und bedeutende Weise zur Ausweitung des touristischen Angebotes im Wallis beitragen.
 
 <sup>2</sup> Der Fonds wird gespeist durch:
 
 - a) Vermächtnisse, Schenkungen und Zuwendungen;
-
 - b) vorgesehene Beträge im Voranschlag der für die Kultur und den Tourismus zuständigen Departemente;
-
 - c) Vermögenserträge;
-
 - d) weitere Mittel, die ihm zugewiesen werden können.
 
 <sup>3</sup> Die beiden für die Kultur und den Tourismus zuständigen Departemente bestimmen gemeinsam über die Verwendung der Mittel des Fonds.
 
 <sup>4</sup> Die beiden zuständigen Departemente entscheiden gemäss den Bestimmungen des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle über die Verwendung des Fonds.
 
-### 2. Kapitel: Förderung der kulturellen Aktivitäten durch den Staat
+## 2 Förderung der kulturellen Aktivitäten durch den Staat
 
-### 1. Abschnitt: Form (Art. 8 bis 15 KFG)
+### 2.1 Form (Art. 8 bis 15 KFG)
 
 #### Art. 6
 
@@ -135,9 +133,7 @@ Kulturelle Anlässe mit nachhaltiger Wirkung auf den Tourismus (Art.7 KFG)
 <sup>1</sup> Der kantonale Fonds für Dekoration besteht aus:
 
 - a) Kunstwerken, die gemäss Artikel 7 des vorliegenden Reglementes durch das Departement erworben wurden;
-
 - b) Kunstwerken, die für die künstlerische Gestaltung von Gebäuden durch den Staat erworben wurden;
-
 - c) weiteren Kunstwerken, die ihm einverleibt werden.
 
 <sup>2</sup> Die Kunstwerke des kantonalen Fonds für Dekoration dienen zum Schmuck öffentlicher Gebäude und Räumlichkeiten mit repräsentativem Charakter in der kantonalen Verwaltung.
@@ -146,13 +142,13 @@ Kulturelle Anlässe mit nachhaltiger Wirkung auf den Tourismus (Art.7 KFG)
 
 <sup>4</sup> Die Kunstwerke des Staates, die für die künstlerische Gestaltung von Gebäuden bestimmt sind, werden vom Departement, das für die Gebäude zuständig ist, inventarisiert und verwaltet. Das Kunstmuseum Wallis erhält regelmässig eine Kopie des Inventars.
 
-### 2. Abschnitt: Mittel
+### 2.2 Mittel
 
 #### Art. 9
 
 **Allgemeine Aktivitäten**
 
-Die für die allgemeine Kulturförderung benötigten Mittel werden im Rahmen des jährlichen Voranschlags des Kantons beschlossen.
+<sup>1</sup> Die für die allgemeine Kulturförderung benötigten Mittel werden im Rahmen des jährlichen Voranschlags des Kantons beschlossen.
 
 #### Art. 10
 
@@ -161,46 +157,41 @@ Die für die allgemeine Kulturförderung benötigten Mittel werden im Rahmen des
 <sup>1</sup> Der kantonale Kulturfonds bezweckt:
 
 - a) die Subventionierung ausserordentlicher, kultureller Veranstaltungen oder Animationen;
-
 - b) die Subventionierung ausserordentlicher, vom Staat organisierter, kultureller Veranstaltungen;
-
 - c) die Finanzierung ausserordentlicher Käufe oder Aufträge.
 
 <sup>2</sup> Der kantonale Kulturfonds wird gespeist durch:
 
 - a) ihm zugewiesene Vermächtnisse, Schenkungen und Spenden;
-
 - b) die im Voranschlag des Departements vorgesehenen Beträge;
-
 - c) die Beträge betreffend die Anwendung von Artikel 11 Absatz 4 des vorliegenden Reglements;
-
 - d) den Ertrag seines Vermögens;
-
 - e) alle weiteren Mittel, die ihm zugewiesen werden können.
 
 <sup>3</sup> Das Departement entscheidet über die Benutzung des Fonds.
 
 #### Art. 11
 
-**Künstlerische Gestaltung von Gebäuden (Art. 15 KFG)**
+**Kunst am Bau (Art. 15 KFG)**
 
-<sup>1</sup> Wenn der Staat Neubauten erstellt oder an einer seiner Liegenschaften Renovationsarbeiten ausführen lässt, die eine Million Franken übersteigen, stellt er 0.5 bis 2 Prozent des Gesamtbetrages für die künstlerische Gestaltung zur Verfügung. Im allgemeinen Voranschlag ist ein entsprechender Posten vorgesehen.
+<sup>1</sup> Für sämtliche Neubauten oder Tiefbaukonstruktionen und -anlagen, bei denen der Staat als Bauherr auftritt und für die im Investitionsbudget entsprechende Mittel veranschlagt werden müssen, wird ein den tatsächlichen Bau- oder Renovierungskosten entsprechender Betrag für Kunst am Bau-Interventionen reserviert (KAB).
 
-<sup>2</sup> Das für die öffentlichen Bauten zuständige Departement bestimmt in Anlehnung an das Gesetz über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle über die künstlerische Gestaltung auf Vorschlag einer Expertengruppe oder einer Fachjury, bestehend aus Berufsleuten der visuellen Künste, dem Architekten des Projektes, einem Vertreter der Dienststelle oder der nutzniessenden Dienststelle oder Institution und je einem Vertreter der für die Gebäude und die Kultur zuständigen Departemente.
+<sup>2</sup> Als Kunst am Bau-Intervention gilt die Integration von Werken, Schöpfungen, Beschriftungen oder anderen künstlerischen Formen innerhalb oder ausserhalb des Bauwerks, die mit dessen Architektur, seiner Funktion, seinem Publikum und der Öffentlichkeit im Allgemeinen interagieren.
 
-<sup>3</sup> Die Ausführung kann durch Bestellung, Aufruf an die Künstler oder durch eingeschränkten oder allgemeinen Wettbewerb erfolgen. Die erworbenen Kunstwerke gehören zum kantonalen Fonds für Dekoration.
+<sup>3</sup> Lässt der Staat ein Gebäude bauen oder gibt Tiefbauarbeiten in Auftrag oder lässt Renovierungsarbeiten durchführen, deren Kosten die Summe von 500'000 Franken übersteigen, werden 0,5 bis 2 Prozent der Kosten für die Kunst am Bau-Intervention vorgesehen. Der für diese Intervention vorgesehene Höchstbetrag beträgt 600'000 Franken. Im allgemeinen Voranschlag ist ein entsprechender Posten vorgesehen.
 
-<sup>4</sup> Angesichts der Lage, der Nutzung und der Art des betreffenden Gebäudes kann der Staat auf die Verwirklichung einer künstlerischen Gestaltung verzichten. In diesem Fall werden 0.5 Prozent der Baukosten an den kantonalen Kulturfonds entrichtet. Dieser Betrag dient dem Ankauf von Kunstwerken zugunsten des kantonalen Fonds für Dekoration.
+<sup>4</sup> Die Dienststellen, welche die Bauherrschaft innehaben und die Dienststelle für Kultur legen die zur Anwendung kommenden Verfahren in Anlehnung an das Gesetz über die Geschäftsführung und den Finanzhaushalt des Kantons fest.
 
-<sup>5</sup> Beim Bau oder der Renovation von kommunalen oder interkommunalen Gebäuden, die zum öffentlichen Gebrauch bestimmt sind und vom Staat subventioniert werden, werden die Ausgaben betreffend die künstlerische Gestaltung gesprochen:
+<sup>5</sup> Die Dienststelle für Kultur unterhält in Zusammenarbeit mit den Dienststellen, welche die Bauherrschaft innehaben, ein Inventar der Kunst am Bau-Interventionen
 
-- a) falls der Gesamtbetrag der subventionierten Arbeiten eine Million übersteigt;
+- a) …
+- b) …
+- c) …
+- d) …
 
-- b) falls der für die künstlerische Gestaltung vorgesehene Betrag zwischen 0.5 und 2 Prozent der subventionierten Gesamtkosten ausmacht;
+<sup>6</sup> Angesichts der Lage, der Nutzung und der Art des betreffenden Gebäudes kann der Staat auf die Verwirklichung einer Kunst am Bau-Intervention verzichten. In diesem Fall werden 0,5 Prozent der Baukosten an den kantonalen Kulturfonds entrichtet. Dieser Betrag dient dem Ankauf von Kunstwerken zugunsten des Kantonalen Fonds für zeitgenössische Kunst. Wird der für die Kunst am Bau-Intervention vorgesehene Betrag nicht in vollem Umfang verwendet, wird der Restbetrag dem Kantonalen Fonds für zeitgenössische Kunst zugeführt.
 
-- c) falls das Kunstwerk durch einen diplomierten und/oder anerkannten Künstler ausgeführt wird;
-
-- d) falls der Baumeister bei der Wahl des für die künstlerische Gestaltung bestimmten Kunstwerkes einen Delegierten des für die Bauten zuständigen Departements zuzieht.
+<sup>7</sup> Die vorstehenden Bestimmungen gelangen für die Einrichtungen des öffentlichen Rechts sowie für die Gemeinden, die für den Bau oder die Renovation eines Gebäudes oder eines Tiefbauprojekts von öffentlichem Nutzen eine Unterstützung des Staates beanspruchen, zur Anwendung.
 
 #### Art. 12
 
@@ -211,20 +202,15 @@ Die für die allgemeine Kulturförderung benötigten Mittel werden im Rahmen des
 <sup>2</sup> Bei der Festsetzung der Art und Höhe seiner Beteiligung richtet sich der Staat nach:
 
 - a) den Bedürfnissen und Erwartungen der Ausbildung innerhalb und ausserhalb des Kantons;
-
 - b) der Komplementarität der entsprechenden Ausbildung bezüglich des bestehenden Ausbildungsangebotes und in ihrer Übereinstimmung zum allgemeinen Schulsystem;
-
 - c) dem Gesamtinteresse des Kantons in kultureller, erzieherischer und sozio-ökonomischer Hinsicht;
-
 - d) der Art, der Modalitäten und des Niveaus des erteilten Unterrichts;
-
 - e) der Beteiligung der Wohngemeinden der Schüler;
-
 - f) der Beteiligung der Begünstigten der Ausbildung oder ihrer Eltern oder gesetzlichen Vertreter.
 
 <sup>3</sup> Die Beteiligung des Staates wird in einer zeitlich befristeten Vereinbarung zwischen den beteiligten Institutionen und dem Departement festgehalten.
 
-### 3. Abschnitt: Förderpreis und Kulturpreis des Staates Wallis
+### 2.3 Förderpreis und Kulturpreis des Staates Wallis
 
 #### Art. 13
 
@@ -251,37 +237,29 @@ Die für die allgemeine Kulturförderung benötigten Mittel werden im Rahmen des
 <sup>1</sup> Die Preise beinhalten:
 
 - a) die Übergabe eines Diploms;
-
 - b) einen vom Kulturrat vorgeschlagenen und vom Departement festgesetzten Betrag;
-
 - c) eine Publikation über den Preisträger.
 
-<sup>2</sup> Die für die Preise sowie für die Organisation der Übergabe benötigten Mittel werden dem im Voranschlag des Staates vorgesehenen Budgetposten «Kulturelle Aktivitäten» belastet.
+<sup>2</sup> Die für die Preise sowie für die Organisation der Übergabe benötigten Mittel werden dem im Voranschlag des Staates vorgesehenen Budgetposten "Kulturelle Aktivitäten" belastet.
 
 <sup>3</sup> Die Preise werden anlässlich einer eigens dafür vom Departement organisierten Übergabefeier ausgehändigt. Der Departementschef steht den Feierlichkeiten vor.
 
-### 3. Kapitel: Kulturelle Institutionen
+## 3 Kulturelle Institutionen
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 3.1 Allgemeine Bestimmungen
 
 #### Art. 16
 
 **Fonds (Art. 28 KFG)**
 
-<sup>1</sup> Die kulturellen Institutionen des Staates, d.h. das Staatsarchiv, die Mediathek Wallis und die Kantonsmuseen verfügen je über einen Fonds, der ihnen ausserordentliche Anschaffungen, Konservierungs-Restaurierungsmassnahmen, Veröffentlichungen, Forschungen sowie die Durchführung kultureller Anlässe von grosser Wichtigkeit erleichtern soll und die im Jahresbudget nicht vorgesehen waren. Diese Fonds haben ebenfalls als Ziel, die Finanzierung von jährlichen oder Mehrjahres-Projekten zu verwalten, die teilweise durch Dritte finanziert werden.
-
-**oder**
+<sup>1</sup> Die kulturellen Institutionen des Staates, das heisst das Staatsarchiv, die Mediathek Wallis und die Kantonsmuseen verfügen je über einen Fonds, der ihnen ausserordentliche Anschaffungen, Konservierungs- oder Restaurierungsmassnahmen, Veröffentlichungen, Forschungen sowie die Durchführung kultureller Anlässe von grosser Wichtigkeit erleichtern soll und die im Jahresbudget nicht vorgesehen waren. Diese Fonds haben ebenfalls als Ziel, die Finanzierung von jährlichen oder Mehrjahres-Projekten zu verwalten, die teilweise durch Dritte finanziert werden.
 
 <sup>2</sup> Die Fonds werden gespeist durch:
 
 - a) Vermächtnisse, Schenkungen und Zuwendungen;
-
 - b) die im Voranschlag des Departements diesbezüglich vorgesehenen Beträge;
-
 - c) die Einkünfte, die ihnen durch den Staatsrat zugeteilt werden;
-
 - d) den Ertrag des Vermögens der einzelnen Fonds;
-
 - e) alle weiteren Mittel, die ihnen zugewiesen werden können.
 
 <sup>3</sup> Der Fonds wird durch die nutzniessende Institution verwaltet. Sie entscheidet über die Verwendung der Mittel in Übereinstimmung mit dem Gesetz über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle.
@@ -293,9 +271,7 @@ Die für die allgemeine Kulturförderung benötigten Mittel werden im Rahmen des
 <sup>1</sup> Kantonale Dienststellen und Anstalten, die sich von Gegenständen oder Dokumenten entledigen wollen, die von kultureller oder historischer Bedeutung sein könnten, benachrichtigen:
 
 - a) das Staatsarchiv, wenn es sich um Archivbestände handelt;
-
 - b) die Mediathek Wallis, wenn es sich um Drucksachen oder audiovisuelle Dokumente handelt;
-
 - c) die Kantonsmuseen, wenn es sich um Gegenstände handelt.
 
 <sup>2</sup> Die mit der Konservierung und Restaurierung oder dem Eingriff in private unbewegliche Kulturgüter betrauten kantonalen Dienststellen, aber auch die Gemeinden und andere öffentlich-rechtliche Körperschaften handeln ebenso, wenn es sich um Gegenstände, Mobiliarteile und Dokumente handelt, die zur Vernichtung bestimmt sind, damit sich die entsprechende kulturelle Institution über einen eventuellen Erwerb dieser Gegenstände oder Dokumente äussern kann.
@@ -310,20 +286,18 @@ Die für die allgemeine Kulturförderung benötigten Mittel werden im Rahmen des
 
 **Abgabe von Veröffentlichungen**
 
-Ein oder mehrere Belegexemplare von Arbeiten und Veröffentlichungen, die vollständig oder teilweise auf Sammlungen oder Fonds einer kantonalen Institution beruhen, müssen der betreffenden Institution sowie der Mediathek Wallis kostenlos abgegeben werden.
+<sup>1</sup> Ein oder mehrere Belegexemplare von Arbeiten und Veröffentlichungen, die vollständig oder teilweise auf Sammlungen oder Fonds einer kantonalen Institution beruhen, müssen der betreffenden Institution sowie der Mediathek Wallis kostenlos abgegeben werden.
 
-### 2. Abschnitt: Das Staatsarchiv (Art. 29 bis 31 KFG)
+### 3.2 Das Staatsarchiv (Art. 29 bis 31 KFG)
 
 #### Art. 19
 
 **Organisation**
 
-Das Staatsarchiv hütet:
+<sup>1</sup> Das Staatsarchiv hütet:
 
 - a) die historischen Archivbestände der Republik der sieben Zenden, der Epoche der helvetischen Republik, der Mediation, des Département du Simplon und der Übergangszeit;
-
 - b) die Archivbestände des Staates von 1815 an;
-
 - c) Archivbestände und Dokumente von Personen öffentlichen und privaten Rechts, die von kantonalem oder regionalem Interesse sind.
 
 #### Art. 20
@@ -348,13 +322,9 @@ Das Staatsarchiv hütet:
 
 **Vallesia**
 
-Das Staatsarchiv ist für die Herausgabe des Jahresbuches «Vallesia» verantwortlich. Es dient dazu, Dokumente und Schätze, die in öffentlichen und privaten Sammlungen des Kantons aufbewahrt werden, zur Geltung zu bringen und Grundlagen für die Erarbeitung der Walliser Geschichte zu vereinigen.
+<sup>1</sup> Das Staatsarchiv ist für die Herausgabe des Jahresbuches "Vallesia" verantwortlich. Es dient dazu, Dokumente und Schätze, die in öffentlichen und privaten Sammlungen des Kantons aufbewahrt werden, zur Geltung zu bringen und Grundlagen für die Erarbeitung der Walliser Geschichte zu vereinigen.
 
-### 3. Abschnitt: Die Mediathek Wallis (Kantonsbibliothek;
-
-#### Art. 32 bis
-
-**34 KFG)**
+### 3.3 Die Mediathek Wallis (Kantonsbibliothek) (Art. 32 bis 34 KFG)
 
 #### Art. 23
 
@@ -374,7 +344,7 @@ Das Staatsarchiv ist für die Herausgabe des Jahresbuches «Vallesia» verantwor
 
 **Weiterentwicklung der Sammlungen**
 
-Gemäss Sammelauftrag laut Artikel 33 des KFG ist der Direktor der Mediathek Wallis für die Auswahl und die Anschaffung der Dokumente und Informationsquellen verantwortlich, die der Öffentlichkeit zur Verfügung gestellt werden. Er erfüllt diese Aufgabe gemäss geltender Praxis und beruflichen Grundsätzen.
+<sup>1</sup> Gemäss Sammelauftrag laut Artikel 33 des KFG ist der Direktor der Mediathek Wallis für die Auswahl und die Anschaffung der Dokumente und Informationsquellen verantwortlich, die der Öffentlichkeit zur Verfügung gestellt werden. Er erfüllt diese Aufgabe gemäss geltender Praxis und beruflichen Grundsätzen.
 
 #### Art. 25
 
@@ -405,24 +375,21 @@ Gemäss Sammelauftrag laut Artikel 33 des KFG ist der Direktor der Mediathek Wal
 <sup>1</sup> Das Departement beschliesst:
 
 - a) die Organisations- und Verwaltungsgrundsätze für die Bibliotheken, Dokumentationszentren und Ikonographiebestände, die Eigentum des Kantons sind oder von ihm subventioniert werden;
-
 - b) den Leitplan für die Bibliotheken, Dokumentationszentren und Ikonographiebestände, die Eigentum des Kantons sind oder von ihm subventioniert werden.
 
 <sup>2</sup> Die Mediathek Wallis sorgt für die Einhaltung der Departementsbeschlüsse und die Durchführung des Leitplanes.
 
-### 4. Abschnitt: Kantonsmuseen (Art. 35 bis 36 KFG)
+### 3.4 Kantonsmuseen (Art. 35 bis 36 KFG)
 
 #### Art. 28
 
 **Benennung**
 
-Die Walliser Kantonsmuseen sind:
+<sup>1</sup> Die Walliser Kantonsmuseen sind:
 
 - a) das Geschichtsmuseum Wallis, Sitten, und seine Zweigstelle, das gallorömische Museum von Octodurus in Martigny;
-
-- b) das Kunstmuseum Wallis, Sitten;
-
-- c) das Naturmuseum Wallis, Sitten.
+- b) das Kunstmuseum Wallis in Sitten;
+- c) das Naturmuseum Wallis in Sitten.
 
 #### Art. 29
 
@@ -458,18 +425,16 @@ Die Walliser Kantonsmuseen sind:
 
 **Valeria und Tourbillon**
 
-Die Schlösser Valeria und Tourbillon sind gemäss Übereinkommen mit den Besitzern der Aufsicht der Kantonsmuseen, gegebenenfalls einer Stiftung, anvertraut.
+<sup>1</sup> Die Schlösser Valeria und Tourbillon sind gemäss Übereinkommen mit den Besitzern der Aufsicht der Kantonsmuseen, gegebenenfalls einer Stiftung, anvertraut.
 
 #### Art. 32
 
 **Weisungen betreffend Sonderleistungen**
 
-Das Departement erlässt Weisungen betreffend:
+<sup>1</sup> Das Departement erlässt Weisungen betreffend:
 
 - a) die Benutzung von Museumsräumlichkeiten durch Drittpersonen;
-
 - b) die Erhebung von Gebühren für Dienstleistungen, die einen Sondereinsatz der Institutionen erfordern wie etwa Materialausleihe, Beratung, Nachforschungen, wissenschaftliche Expertisen, Teilnahme an Prüfungsausschüssen;
-
 - c) die Benutzung von Reproduktionen von Objekten aus Museumsammlungen zu Werbezwecken; diese Benutzung bleibt kulturellen Vereinigungen mit öffentlichem Charakter vorbehalten.
 
 #### Art. 33
@@ -480,6 +445,4 @@ Das Departement erlässt Weisungen betreffend:
 
 <sup>2</sup> Es tritt mit seiner Veröffentlichung im Amtsblatt in Kraft.
 
-So angenommen im Staatsrat zu Sitten, den 10. November 2010.
-
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
+CSW BO/Abl. 46/2010
