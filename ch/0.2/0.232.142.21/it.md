@@ -4,11 +4,11 @@ title: Regolamento di esecuzione del 7 dicembre 2006 della Convenzione sul breve
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -25,7 +25,7 @@ Approvato dal Consiglio d’amministrazione il 7 dicembre 2006
 
 Entrato in vigore per la Svizzera il 13 dicembre 2007
 
-(Stato 1° gennaio 2021)
+(Stato 1° aprile 2021)
 
 ## Parte prima: Disposizioni di applicazione della parte prima della Convenzione
 
@@ -258,19 +258,14 @@ Dal giorno in cui un terzo fornisce la prova di aver avviato una procedura nazio
 
 ### **Regola 19**Menzione dell’inventore
 
-(1) La menzione dell’inventore deve essere fatta nella richiesta di concessione del brevetto europeo. Tuttavia, se il richiedente non è l’inventore o l’unico inventore, questa menzione deve essere fatta in un documento distinto. Essa deve contenere il cognome, i nomi e l’indirizzo completo dell’inventore, la dichiarazione di cui all’articolo 81 e la firma del richiedente o quella del suo mandatario.
+(1) La menzione dell’inventore deve essere fatta nella richiesta di concessione del brevetto europeo. Tuttavia, se il richiedente non è l’inventore o l’unico inventore, questa menzione deve essere fatta in un documento distinto. Essa deve contenere il cognome, i nomi, lo Stato sul cui territorio egli risiede e il domicilio dell’inventore, la dichiarazione di cui all’articolo 81 e la firma del richiedente o quella del suo mandatario.[^part2-chapII-lvlu1-1]
 
 (2) L’Ufficio europeo dei brevetti non verifica l’esattezza della menzione dell’inventore.
 
-(3) Se il richiedente non è l’inventore o l’unico inventore, l’Ufficio europeo dei brevetti informa l’inventore menzionato delle indicazioni contenute nella menzione e delle indicazioni seguenti:
+(3) e (4) …[^part2-chapII-lvlu1-2]
 
-- a) il numero della domanda di brevetto europeo;
-- b) la data di deposito della domanda di brevetto europeo e, se è stata rivendicata una priorità, data, Stato e numero di deposito della domanda anteriore;
-- c) il nome del richiedente;
-- d) il titolo dell’invenzione;
-- e) gli Stati contraenti designati.
-
-(4) Il richiedente e l’inventore non possono prevalersi dell’omissione della notificazione di cui al paragrafo 3 né degli errori in essa contenuti.
+[^part2-chapII-lvlu1-1]: Nuovo testo giusta l’art. 1 n. 1 della Dec. del Consiglio d’amministrazione del 15 dic. 2020, in vigore dal 1° apr. 2021 ([RU 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part2-chapII-lvlu1-2]: Abrogate dall’art. 1 n. 2 della Dec. del Consiglio d’amministrazione del 15 dic. 2020, con effetto dal 1° apr. 2021 ([RU 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)).
 
 ### **Regola 20**Pubblicazione della menzione dell’inventore
 
@@ -2096,9 +2091,22 @@ La regola 51 (1) CBE come modificata dall'articolo 1 della presente decisione si
 
 La regola 103 del regolamento di esecuzione della CBE come modificata dall’articolo 1 della presente decisione si applica ai ricorsi in sospeso al momento dell’entrata in vigore della presente decisione nonché a quelli presentati dopo l’entrata in vigore della presente decisione.
 
-## Disposizioni transitorie della modifica del 26 marzo 2020****Campo d’applicazione del Regolamento d’esecuzione****
+## Disposizioni transitorie della modifica del 26 marzo 2020****
 
-[^u20-1][^u20-2]
+[^u20-1]
 
 [^u20-1]: [RU 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)art. 2
-[^u20-2]: Vedi il campo d’applicazione della Conv. sul brevetto europeo ([RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).
+
+La regola 142 paragrafo 2 modificata dall’articolo 1 della presente decisione si applica a tutte le procedure già interrotte in tale data o interrotte a partire da tale data.
+
+## Disposizioni transitorie della modifica del 15 dicembre 2020****
+
+[^u21-1]
+
+[^u21-1]: [RU 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)art. 2
+
+La regola 19 del regolamento di esecuzione della CBE come modificata dall’articolo 1 della presente decisione entra in vigore il 1° aprile 2021. La nuova regola 19 (1) del regolamento di esecuzione della CBE si applica a tutte le menzioni dell’inventore presentate o rettificate a quella data o a decorrere da quella data. La nuova regola 19 (1) del regolamento di esecuzione della CBE si applica altresì a tutte le domande internazionali che entrano nella fase europea a quella data o a decorrere da quella data.
+
+Campo d’applicazione del Regolamento d’esecuzione**[^t-1]**
+
+[^t-1]: Vedi il campo d’applicazione della Conv. sul brevetto europeo ([RS 0.232.142.2](https://fedlex.data.admin.ch/eli/cc/2007/849)).

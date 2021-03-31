@@ -4,11 +4,11 @@ title: Ausführungsordnung vom 7. Dezember 2006 zum Europäischen Patentüberein
 short: AO EPÜ 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Angenommen vom Verwaltungsrat am 7. Dezember 2006
 
 In Kraft getreten für die Schweiz am 13. Dezember 2007
 
-(Stand am 1. Januar 2021)
+(Stand am 1. April 2021)
 
 ## Erster Teil Ausführungsvorschriften zum Ersten Teil des Übereinkommens
 
@@ -258,19 +258,14 @@ Von dem Tag an, an dem ein Dritter nachweist, dass er ein nationales Verfahren n
 
 ### **Regel 19**Einreichung der Erfindernennung
 
-(1) Die Erfindernennung hat im Antrag auf Erteilung eines europäischen Patents zu erfolgen. Ist jedoch der Anmelder nicht oder nicht allein der Erfinder, so ist die Erfindernennung in einem gesonderten Schriftstück einzureichen. Sie muss den Namen, die Vornamen und die vollständige Anschrift des Erfinders, die in Artikel 81 genannte Erklärung und die Unterschrift des Anmelders oder Vertreters enthalten.
+(1) Die Erfindernennung hat im Antrag auf Erteilung eines europäischen Patents zu erfolgen. Ist jedoch der Anmelder nicht oder nicht allein der Erfinder, so ist die Erfindernennung in einem gesonderten Schriftstück einzureichen. Sie muss den Namen, die Vornamen, den Wohnsitzstaat und den Wohnort des Erfinders, die in Artikel 81 genannte Erklärung und die Unterschrift des Anmelders oder Vertreters enthalten.[^part2-chapII-lvlu1-1]
 
 (2) Die Richtigkeit der Erfindernennung wird vom Europäischen Patentamt nicht geprüft.
 
-(3) Ist der Anmelder nicht oder nicht allein der Erfinder, so teilt das Europäische Patentamt dem genannten Erfinder die in der Erfindernennung enthaltenen und die folgenden weiteren Angaben mit:
+(3) und (4) ...[^part2-chapII-lvlu1-2]
 
-- a) Nummer der europäischen Patentanmeldung;
-- b) Anmeldetag der europäischen Patentanmeldung und, wenn eine Priorität in Anspruch genommen worden ist, Tag, Staat und Aktenzeichen der früheren Anmeldung;
-- c) Name des Anmelders;
-- d) Bezeichnung der Erfindung;
-- e) die benannten Vertragsstaaten.
-
-(4) Der Anmelder und der Erfinder können aus der Unterlassung der Mitteilung nach Absatz 3 und aus darin enthaltenen Fehlern keine Ansprüche herleiten.
+[^part2-chapII-lvlu1-1]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 15. Dez. 2020, in Kraft seit 1. April 2021 ([AS 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part2-chapII-lvlu1-2]: Aufgehoben durch Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 15. Dez. 2020, mit Wirkung 1. April 2021 ([AS 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)).
 
 ### **Regel 20**Bekanntmachung der Erfindernennung
 
@@ -567,7 +562,7 @@ Ist nach Regel 31 hinterlegtes biologisches Material bei der anerkannten Hinterl
 
 (5) Die Anzahl der Patentansprüche hat sich mit Rücksicht auf die Art der beanspruchten Erfindung in vertretbaren Grenzen zu halten. Die Patentansprüche sind fortlaufend mit arabischen Zahlen zu nummerieren.
 
-(6) Die Patentansprüche dürfen bei der Angabe der technischen Merkmale der Erfindung nicht auf die Beschreibung oder die Zeichnungen Bezug nehmen, es sei denn, dies ist unbedingt erforderlich. Insbesondere dürfen sie keine Formulierungen enthalten wie «wie beschrieben in Teil … der Beschreibung» oder «wie in Abbildung … der Zeichnungen dargestellt».
+(6) Die Patentansprüche dürfen bei der Angabe der technischen Merkmale der Erfindung nicht auf die Beschreibung oder die Zeichnungen Bezug nehmen, es sei denn, dies ist unbedingt erforderlich. Insbesondere dürfen sie keine Formulierungen enthalten wie «wie beschrieben in Teil ... der Beschreibung» oder «wie in Abbildung ... der Zeichnungen dargestellt».
 
 (7) Sind der europäischen Patentanmeldung Zeichnungen mit Bezugszeichen beigefügt, so sollen die in den Patentansprüchen angegebenen technischen Merkmale mit denselben, in Klammern gesetzten Bezugszeichen versehen werden, wenn dies das Verständnis des Patentanspruchs erleichtert. Die Bezugszeichen dürfen nicht zu einer einschränkenden Auslegung des Patentanspruchs herangezogen werden.
 
@@ -946,7 +941,7 @@ Gleichzeitig mit der Erstellung des europäischen Recherchenberichts bestimmt da
 
 (7) Werden die Erteilungs- und Veröffentlichungsgebühr oder die Anspruchsgebühren nicht rechtzeitig entrichtet oder die Übersetzungen nicht rechtzeitig eingereicht, so gilt die europäische Patentanmeldung als zurückgenommen.[^part4-chapIV-lvlu3-5]
 
-(8)–(11) …[^part4-chapIV-lvlu3-6]
+(8)–(11) ...[^part4-chapIV-lvlu3-6]
 
 [^part4-chapIV-lvlu3-1]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 26. Okt. 2010, in Kraft seit 1. April 2012 ([AS 2011 3303](https://fedlex.data.admin.ch/eli/oc/2011/440)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 [^part4-chapIV-lvlu3-2]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 26. Okt. 2010, in Kraft seit 1. April 2012 ([AS 2011 3303](https://fedlex.data.admin.ch/eli/oc/2011/440)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
@@ -2106,6 +2101,14 @@ Die mit Artikel 1 dieses Beschlusses neu gefasste Regel 103 EPÜ gilt für Besch
 [^u19-1]: [AS 2020 2877](https://fedlex.data.admin.ch/eli/oc/2020/525)Art. 2
 
 Die mit Artikel 1 dieses Beschlusses geänderte Regel 142 Absatz 2 gilt für alle Ver-fahren, die an diesem Datum bereits unterbrochen sind oder ab diesem Datum unter-brochen werden.
+
+## Übergangsbestimmungen der Änderung vom 15. Dezember 2020****
+
+[^u20-1]
+
+[^u20-1]: [AS 2021 224](https://fedlex.data.admin.ch/eli/oc/2021/224)Art. 2
+
+Die mit Artikel 1 dieses Beschlusses geänderte Regel 19 EPÜ tritt am 1. April 2021 in Kraft. Die neu gefasste Regel 19 (1) EPÜ ist auf jede an oder nach diesem Tag eingereichte oder berichtigte Erfindernennung anzuwenden. Die neu gefasste Regel 19 (1) EPÜ ist auch auf jede an oder nach diesem Tag in die europäische Phase eintretende internationale Anmeldung anzuwenden.
 
 Geltungsbereich der Ausführungsordnung**[^t-1]**
 
