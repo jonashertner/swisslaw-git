@@ -4,23 +4,24 @@ number: "415.437"
 title: Verordnung über das Zentrum für Zahnmedizin der Universität Zürich (V-ZZM)
 short: V-ZZM
 language: de
-version: "2019-02-01"
-nachtrag: "104"
-valid_until: 2021-04-01
+version: "2021-04-01"
+nachtrag: "112"
+valid_until: 2023-08-01
 adopted: 2023-05-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_437-2010_06_28-2010_08_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_437-2010_06_28-2010_08_01-112.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über das Zentrum für Zahnmedizin der Universität Zürich
+# Verordnung über das Zentrum für Zahnmedizin der Universität Zürich (V-ZZM)
 
-(vom 28. Juni 2010)[^t-1]
+(vom 28. Juni 2010)[^t-2][^t-1]
 
 Der Universitätsrat beschliesst:
 
-[^t-1]: OS 65, 480.
+[^t-1]: Fassung gemäss URB vom 21. Januar 2021 (OS 76, 94; ABl 2021-01-29). In Kraft seit 1. April 2021. 1. 4. 21 - 112 5
+[^t-2]: OS 65, 480.
 
 ### 1. Teil: Allgemeines
 
@@ -38,7 +39,7 @@ Der Universitätsrat beschliesst:
 
 § 2.[^h2TeilOrganisatio-1] Das Zentrum besteht aus sechs Kliniken, dem Institut für Orale Biologie und der Verwaltung. Diese Einheiten werden je von einer Direktorin oder einem Direktor geleitet.
 
-[^h2TeilOrganisatio-1]: Fassung gemäss URB vom 12. November 2018 (OS 74, 67; ABl 2018-11-30). In Kraft seit 1. Februar 2019. 1. 4. 19 - 104 5
+[^h2TeilOrganisatio-1]: Fassung gemäss URB vom 12. November 2018 (OS 74, 67; ABl 2018-11-30). In Kraft seit 1. Februar 2019.
 
 #### § 3
 
@@ -56,7 +57,7 @@ Der Universitätsrat beschliesst:
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 21 - 112
 
 <sup>2</sup> Die Mitglieder der Zentrumsleitung, ohne die Direktorin oder den Direktor Verwaltung, sowie deren Stellvertretungen werden auf Antrag der Zentrumsversammlung von der Universitätsleitung für eine Amtszeit von vier Jahren gewählt. Wiederwahl in derselben Funktion ist maximal einmal für eine direkt folgende Amtsperiode möglich. Wählbar sind Mitglieder der Medizinischen Fakultät am Zentrum für Zahnmedizin.[^4-1]
 
@@ -66,7 +67,7 @@ Der Universitätsrat beschliesst:
 
 <sup>5</sup> Die Zentrumsleitung kann weitere Personen mit beratender Stimme zu ihren Sitzungen einladen.
 
-[^4-1]: Fassung gemäss URB vom 12. November 2018 (OS 74, 67; ABl 2018-11-30). In Kraft seit 1. Februar 2019. 1. 4. 19 - 104 5
+[^4-1]: Fassung gemäss URB vom 12. November 2018 (OS 74, 67; ABl 2018-11-30). In Kraft seit 1. Februar 2019.
 
 #### § 5
 
@@ -108,16 +109,18 @@ Der Universitätsrat beschliesst:
 
 **Privatpraxis a. Allgemeine Bestimmungen**
 
-§ 7.[^h3TeilPrivatärztl-1] Die Universitätsleitung kann gemäss § 62 der Personalverordnung der Universität Zürich[^h3TeilPrivatärztl-2] Professorinnen und Professoren, leitenden Ärztinnen und Ärzten, Oberärztinnen und Oberärzten sowie Oberassistentinnen und Oberassistenten die Bewilligung erteilen, Patientinnen und Patienten privatärztlich zu behandeln.
+§ 7.[^h3TeilPrivatärztl-1] <sup>1</sup> Die Universitätsleitung kann gemäss § 62 der Personalverordnung der Universität Zürich[^h3TeilPrivatärztl-2] Professorinnen und Professoren, leitenden Ärztinnen und leitenden Ärzten, Oberärztinnen und Oberärzten, Oberassistentinnen und Oberassistenten sowie wissenschaftlichen Abteilungsleiterinnen und wissenschaftlichen Abteilungsleitern die Bewilligung erteilen, Patientinnen und Patienten privatärztlich zu behandeln.
 
-[^h3TeilPrivatärztl-1]: Fassung gemäss URB vom 12. November 2018 (OS 74, 67; ABl 2018-11-30). In Kraft seit 1. Februar 2019. 1. 4. 19 - 104 5
+<sup>2</sup> Die Universitätsleitung erlässt Ausführungsbestimmungen zur privatärztlichen Tätigkeit am Zentrum.
+
+[^h3TeilPrivatärztl-1]: Fassung gemäss URB vom 21. Januar 2021 (OS 76, 94; ABl 2021-01-29). In Kraft seit 1. April 2021. 1. 4. 21 - 112 5
 [^h3TeilPrivatärztl-2]: LS 415.21.
 
 #### § 8
 
 **b. Ärztinnen und Ärzte in leitender Stellung**
 
-<sup>1</sup> Für die Ausübung privatärztlicher Tätigkeit durch leitende Ärztinnen und Ärzte, Oberärztinnen und Oberärzte sowie Oberassistentinnen und Oberassistenten werden höchstens 40 Bewilligungen erteilt. Auf Antrag der Zentrumsversammlung bezeichnet die Zentrumsvorsteherin oder der Zentrumsvorsteher zuhanden der Universitätsleitung die Personen, denen die Bewilligung erteilt werden soll.
+<sup>1</sup> Für die Ausübung privatärztlicher Tätigkeit durch leitende Ärztinnen und leitende Ärzte, Oberärztinnen und Oberärzte sowie Oberassistentinnen und Oberassistenten werden höchstens 40 Bewilligungen erteilt. Auf Antrag der Zentrumsversammlung bezeichnet die Zentrumsvorsteherin oder der Zentrumsvorsteher zuhanden der Universitätsleitung die Personen, denen die Bewilligung erteilt werden soll.
 
 <sup>2</sup> Die Bewilligung setzt einen Beschäftigungsgrad von mindestens 80% voraus. Die aufgewendete Arbeitszeit ist zu kompensieren.
 
@@ -131,29 +134,53 @@ Der Universitätsrat beschliesst:
 
 <sup>2</sup> Die Bewilligung wird in der Regel für die Dauer der Anstellung erteilt und kann aus besonderen Gründen widerrufen werden.
 
-<sup>3</sup> Die Bewilligung gilt nur für persönliche Verrichtungen der Bewilligungsinhaberin und des Bewilligungsinhabers. Bei deren oder dessen Abwesenheit kann eine von der Zentrumsvorsteherin oder dem Zentrumsvorsteher bestätigte Stellvertreterin oder ein Stellvertreter die Privatpatientinnen und Privatpatienten vorübergehend behandeln.
+**3**
+
+- 1\. 4. 21 - 112
+
+<sup>3</sup> Die Bewilligung gilt nur für persönliche Verrichtungen der Bewilligungsinhaberin und des Bewilligungsinhabers. Bei deren oder dessen Abwesenheit kann eine Stellvertreterin oder ein Stellvertreter die Privatpatientinnen und Privatpatienten vorübergehend behandeln.[^9-1]
 
 <sup>4</sup> Die weiteren Einzelheiten werden in der Bewilligung geregelt.
 
-**3**
-
-- 1\. 4. 19 - 104 § 10. <sup>1</sup> Als Entschädigung für die Nutzung von Infrastruktur, Material und Personal im Rahmen der privatärztlichen Tätigkeit entrichten die Bewilligungsinhaberinnen und Bewilligungsinhaber dem Zentrum eine Abgabe.
-
 **Honorarabgabe a. Allgemeine Bestimmungen**
 
-<sup>2</sup> Die Entschädigung für honorarberechtigte Konsilien sowie Berichte, Zeugnisse und Gutachten über Privatpatientinnen und Privatpatienten wird zu den abgabepflichtigen Erträgen hinzugerechnet.
+§ 10.[^9-1] <sup>1</sup> Die Bewilligungsinhaberinnen und Bewilligungsinhaber entrichten dem Zentrum für die Nutzung von Infrastruktur, Material und Personal im Rahmen der privatärztlichen Tätigkeit eine Honorarabgabe.
 
-#### § 11
+<sup>2</sup> Entschädigungen für honorarberechtigte Konsilien sowie Berichte, Zeugnisse und Gutachten über Privatpatientinnen und Privatpatienten werden zu den Gesamteinnahmen aus der privatärztlichen Tätigkeit hinzugezählt.
 
-**b. Professorinnen und Professoren**
+**b. Abgabesatz und Nettoeinnahmen**
 
-Für Professorinnen und Professoren beträgt der Abgabesatz 40% der Nettoeinnahmen.
+§ 11.[^9-1] <sup>1</sup> Der Abgabesatz beträgt 30% der Nettoeinnahmen pro Kalenderjahr.
 
-#### § 12
+<sup>2</sup> Zur Ermittlung der Nettoeinnahmen sind die folgenden Kosten von den Gesamteinnahmen in Abzug zu bringen:
 
-**c. Ärztinnen und Ärzte in leitender Stellung**
+- 1\. die externen Kosten für die Leistungserbringung, wie zahntechnische Anfertigungen und Apparaturen,
 
-Betragen die Einnahmen der leitenden Ärztinnen und Ärzte, Oberärztinnen und Oberärzte sowie Oberassistentinnen und Oberassistenten nach Abzug der Abgaben an das Zentrum nicht mehr als Fr. 90 000 im Kalenderjahr, haben sie dem Zentrum 30% der Nettoeinnahmen abzugeben. Für Nettoeinnahmen, die diesen Betrag übersteigen, beträgt der Abgabesatz 70%.
+- 2\. die für den Betrieb der Privatpraxis anfallenden direkten Kosten, wie für Versicherungen, Mitgliedschaften, Bewilligungen und weitere mit der privatärztlichen Tätigkeit verbundene Gebühren.
+
+**c. Obergrenze der privatärztlichen Nettoeinnahmen nach Abzug gemäss**
+
+§ 12.[^9-1] <sup>1</sup> Die im Kalenderjahr erzielten privatärztlichen Nettoeinnahmen nach Abzug gemäss § 11 Abs. 1 unterliegen den folgenden finanziellen Obergrenzen:
+
+**Fr. 140 000**
+
+- a. für Professorinnen und Professoren:
+
+**§ 11 Abs. 1**
+
+- b. für leitende Ärztinnen und leitende Ärzte sowie wissenschaftliche Abteilungsleiterinnen und wissenschaftliche Abteilungsleiter:
+
+**Fr. 120 000**
+
+**Fr. 95 000**
+
+- c. für Oberärztinnen und Oberärzte sowie Oberassistentinnen und Oberassistenten:
+
+<sup>2</sup> Der Betrag der Nettoeinnahmen nach Abzug gemäss § 11 Abs. 1, der die jeweilige Obergrenze übersteigt, fliesst in die Betriebsrechnung des Zentrums und ist abzugeben.
+
+<sup>3</sup> Es besteht kein Anspruch auf Erzielung der finanziellen Obergrenze gemäss Abs. 1.
+
+[^9-1]: Fassung gemäss URB vom 21. Januar 2021 (OS 76, 94; ABl 2021-01-29). In Kraft seit 1. April 2021. 1. 4. 21 - 112 5
 
 ### 4. Teil: Patientenschutz
 
