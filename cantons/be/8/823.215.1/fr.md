@@ -4,13 +4,13 @@ number: "823.215.1"
 title: "Ordonnance sur le contrôle des installations de combustion alimentées à l'huile «extra-légère» et au gaz"
 short: OCIC
 language: fr
-version: 2016-09-01
-valid_until: 2021-03-31
-version_adopted: 2016-06-22
+version: 2021-04-01
+valid_until: 2025-03-31
+version_adopted: 2021-02-17
 adopted: 2004-04-14
 in_force: 2004-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/823.215.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1179/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2175/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1179/pdf_file"
 
 (OCIC)
 
-du 14.04.2004 (état au 01.09.2016)
+du 14.04.2004 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -84,15 +84,15 @@ arrête:
 
 **Tâches des communes**
 
-<sup>1</sup> Les communes exécutent le contrôle des installations de combustion d’après les directives du beco.
+<sup>1</sup> Les communes exécutent le contrôle des installations de combustion d’après les directives de l'Office de l'environnement et de l'énergie (OEE).
 
-<sup>2</sup> Elles transmettent les résultats du contrôle au beco et lui déclarent les cas particuliers.
+<sup>2</sup> Elles transmettent les résultats du contrôle à l'OEE et lui déclarent les cas particuliers.
 
 #### Art. 8
 
-**Tâches du beco**
+**Tâches de l'OEE**
 
-<sup>1</sup> Le beco aide les communes dans le traitement et l’analyse des résultats des mesures ainsi que dans des questions générales d’exécution.
+<sup>1</sup> L'OEE aide les communes dans le traitement et l’analyse des résultats des mesures ainsi que dans des questions générales d’exécution.
 
 <sup>2</sup> Il fournit aux communes les formulaires nécessaires à la réalisation des contrôles et à l’évaluation annuelle des résultats des contrôles.
 
@@ -120,7 +120,7 @@ arrête:
 
 <sup>2</sup> La fréquence des contrôles est allongée à quatre ans, si, lors du contrôle périodique, il s’avère que l’installation est nettement en dessous des valeurs limites en matière de protection de l’air et d’énergie et dont on peut admettre un bon comportement dans le long terme.
 
-<sup>3</sup> Le beco édicte des directives sur les conditions à l’allongement de la fréquence des contrôles.
+<sup>3</sup> L'OEE édicte des directives sur les conditions à l’allongement de la fréquence des contrôles.
 
 #### Art. 11
 
@@ -160,7 +160,7 @@ arrête:
 
 <sup>1</sup> La commune peut exiger des émoluments équitables pour les contrôles et les contrôles ultérieurs ainsi que pour la charge administrative du contrôle des installations de combustion.
 
-<sup>2</sup> Le tarif des émoluments pour le contrôle des installations doit être communiqué au beco.
+<sup>2</sup> Le tarif des émoluments pour le contrôle des installations doit être communiqué à l'OEE.
 
 ## 3 Personnel de contrôle de la commune
 
@@ -178,13 +178,13 @@ arrête:
 
 **Attestation**
 
-<sup>1</sup> La personne chargée de l’exécution du contrôle par la commune doit être déclarée par écrit au beco.
+<sup>1</sup> La personne chargée de l’exécution du contrôle par la commune doit être déclarée par écrit à l'OEE.
 
-<sup>2</sup> Le beco lui délivre une attestation de contrôleur ou contrôleuse des installations de combustion.
+<sup>2</sup> L'OEE lui délivre une attestation de contrôleur ou contrôleuse des installations de combustion.
 
 <sup>3</sup> Il peut autoriser provisoirement le travail de personnes qui n’ont pas encore obtenu le brevet selon l’article 15, alinéa 2.
 
-<sup>4</sup> Si la personne chargée de l’exécution du contrôle ne remplit pas ses obligations ou ne les remplit qu’incomplètement, le beco peut lui retirer l’attestation selon l’alinéa 2 après l’avoir entendue.
+<sup>4</sup> Si la personne chargée de l’exécution du contrôle ne remplit pas ses obligations ou ne les remplit qu’incomplètement, l'OEE peut lui retirer l’attestation selon l’alinéa 2 après l’avoir entendue.
 
 ## 4 Personnel des entreprises d’installation et d’entretien
 

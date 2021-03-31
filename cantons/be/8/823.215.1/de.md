@@ -4,13 +4,13 @@ number: "823.215.1"
 title: Verordnung über die Kontrolle der Feuerungsanlagen mit Heizöl «Extra leicht» und Gas
 short: VKF
 language: de
-version: 2016-09-01
-valid_until: 2021-03-31
-version_adopted: 2016-06-22
+version: 2021-04-01
+valid_until: 2025-03-31
+version_adopted: 2021-02-17
 adopted: 2004-04-14
 in_force: 2004-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/823.215.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1179/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2175/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1179/pdf_file"
 
 (VKF)
 
-vom 14.04.2004 (Stand 01.09.2016)
+vom 14.04.2004 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -84,21 +84,21 @@ beschliesst:
 
 **Aufgaben der Gemeinden**
 
-<sup>1</sup> Die Gemeinden vollziehen die Feuerungskontrolle nach den Richtlinien des beco.
+<sup>1</sup> Die Gemeinden vollziehen die Feuerungskontrolle nach den Richtlinien des Amtes für Umwelt und Energie (AUE).
 
-<sup>2</sup> Sie übermitteln deren Ergebnisse dem beco und melden ihm besondere Vorfälle.
+<sup>2</sup> Sie übermitteln deren Ergebnisse dem AUE und melden ihm besondere Vorfälle.
 
 #### Art. 8
 
-**Aufgaben des beco**
+**Aufgaben des AUE**
 
-<sup>1</sup> Das beco unterstützt die Gemeinden bei der Verarbeitung und Auswertung der Messergebnisse und in allgemeinen Vollzugsfragen.
+<sup>1</sup> Das AUE unterstützt die Gemeinden bei der Verarbeitung und Auswertung der Messergebnisse und in allgemeinen Vollzugsfragen.
 
 <sup>2</sup> Es liefert den Gemeinden die Formulare für die Durchführung der Kontrollen und die jährliche Auswertung der Kontrollergebnisse.
 
 <sup>3</sup> …
 
-<sup>4</sup> Es erhebt für seine Leistungen Gebühren gemäss der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV[^8-1]).
+<sup>4</sup> Es erhebt für seine Leistungen Gebühren gemäss der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV)[^8-1].
 
 [^8-1]: BSG 154.21
 
@@ -120,7 +120,7 @@ beschliesst:
 
 <sup>2</sup> Die Kontrollen finden alle vier Jahre statt, wenn die Anlage anlässlich der periodischen Kontrolle die lufthygienischen und energetischen Grenzwerte deutlich unterschreitet und ein gutes Langzeitverhalten aufweist.
 
-<sup>3</sup> Das beco erlässt Richtlinien über die Voraussetzungen für grössere Kontrollabstände.
+<sup>3</sup> Das AUE erlässt Richtlinien über die Voraussetzungen für grössere Kontrollabstände.
 
 #### Art. 11
 
@@ -160,7 +160,7 @@ beschliesst:
 
 <sup>1</sup> Für die Kontrollen und Nachkontrollen der Anlagen sowie für den Verwaltungsaufwand der Feuerungskontrolle kann die Gemeinde angemessene Gebühren verlangen.
 
-<sup>2</sup> Der Gebührentarif für die Feuerungskontrolle ist dem beco mitzuteilen.
+<sup>2</sup> Der Gebührentarif für die Feuerungskontrolle ist dem AUE mitzuteilen.
 
 ## 3 Kontrollperson der Gemeinde
 
@@ -178,13 +178,13 @@ beschliesst:
 
 **Ausweis**
 
-<sup>1</sup> Die von der Gemeinde bestimmte Person ist dem beco schriftlich zu melden.
+<sup>1</sup> Die von der Gemeinde bestimmte Person ist dem AUE schriftlich zu melden.
 
-<sup>2</sup> Das beco stellt ihr einen Ausweis als Feuerungskontrolleurin oder Feuerungskontrolleur aus.
+<sup>2</sup> Das AUE stellt ihr einen Ausweis als Feuerungskontrolleurin oder Feuerungskontrolleur aus.
 
 <sup>3</sup> Es kann Personen provisorisch zulassen, die den Fachausweis nach Artikel 15 Absatz 2 noch nicht erlangt haben.
 
-<sup>4</sup> Erfüllt die zuständige Person ihre Pflichten nicht oder nur mangelhaft, so kann das beco nach deren Anhörung den Ausweis nach Absatz 2 entziehen.
+<sup>4</sup> Erfüllt die zuständige Person ihre Pflichten nicht oder nur mangelhaft, so kann das AUE nach deren Anhörung den Ausweis nach Absatz 2 entziehen.
 
 ## 4 Personal der Installations- und der Servicefirmen
 
