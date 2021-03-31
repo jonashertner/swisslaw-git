@@ -4,13 +4,12 @@ number: "913.1"
 title: Gesetz über das Verfahren bei Boden- und Waldverbesserungen
 short: VBWG
 language: de
-version: 2017-04-01
-valid_until: 2021-03-31
-version_adopted: 2016-06-09
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/913.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1259/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2194/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1259/pdf_file"
 
 (VBWG)
 
-vom 16.06.1997 (Stand 01.04.2017)
+vom 16.06.1997 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -113,15 +112,15 @@ beschliesst:
 
 **Anordnung**
 
-<sup>1</sup> Aus wichtigen Gründen kann die Volkswirtschaftsdirektion nach Anhören der betroffenen Gemeinden von Amtes wegen die Durchführung eines Unternehmens anordnen.
+<sup>1</sup> Aus wichtigen Gründen kann die Wirtschafts-, Energie- und Umweltdirektion nach Anhören der betroffenen Gemeinden von Amtes wegen die Durchführung eines Unternehmens anordnen.
 
-<sup>2</sup> Diesfalls kann die zuständige Stelle der Volkswirtschaftsdirektion das Unternehmen leiten.
+<sup>2</sup> Diesfalls kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion das Unternehmen leiten.
 
 #### Art. 9
 
 **Anmerkung im Grundbuch**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ordnet nach der Beschlussfassung beim Grundbuchamt die Anmerkung des Unternehmens an.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ordnet nach der Beschlussfassung beim Grundbuchamt die Anmerkung des Unternehmens an.
 
 <sup>2</sup> Die Anmerkung lässt bei Handänderungen die Mitgliedschaft und im Rahmen des Unternehmens entstandene Rechte und Pflichten von Gesetzes wegen auf die Erwerberin oder den Erwerber übergehen.
 
@@ -129,9 +128,9 @@ beschliesst:
 
 **Genehmigung**
 
-<sup>1</sup> Das Unternehmen und die Statuten bedürfen der Genehmigung der Volkswirtschaftsdirektion.
+<sup>1</sup> Das Unternehmen und die Statuten bedürfen der Genehmigung der Wirtschafts-, Energie- und Umweltdirektion.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion prüft, ob das Unternehmen und die Statuten recht- und zweckmässig sind und im öffentlichen Interesse liegen.
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion prüft, ob das Unternehmen und die Statuten recht- und zweckmässig sind und im öffentlichen Interesse liegen.
 
 #### Art. 11
 
@@ -154,9 +153,9 @@ beschliesst:
 
 **Sanktionen und Ausstand**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion kann die Organe, Mitglieder und Beauftragten der Genossenschaft bei grober Nachlässigkeit oder Pflichtverletzung des Amtes entheben.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann die Organe, Mitglieder und Beauftragten der Genossenschaft bei grober Nachlässigkeit oder Pflichtverletzung des Amtes entheben.
 
-<sup>2</sup> In diesem Fall kann die zuständige Stelle der Volkswirtschaftsdirektion auf Kosten des Unternehmens von Amtes wegen Geschäfte der Genossenschaft besorgen, wenn sonst die Durchführung des Unternehmens gefährdet wäre.
+<sup>2</sup> In diesem Fall kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion auf Kosten des Unternehmens von Amtes wegen Geschäfte der Genossenschaft besorgen, wenn sonst die Durchführung des Unternehmens gefährdet wäre.
 
 <sup>3</sup> Die Mitglieder von Genossenschaftsorganen und die übrigen Beauftragten haben bei Sachgeschäften nach Massgabe des Gemeindegesetzes in den Ausstand zu treten.
 
@@ -166,7 +165,7 @@ beschliesst:
 
 **Verleihung von Rechten an Grund und Boden 1. Im Beizugsgebiet**
 
-<sup>1</sup> Mit der Genehmigung des Unternehmens verleiht die Volkswirtschaftsdirektion der Trägerin die zur Durchführung des Werkes erforderlichen Rechte an Grund und Boden.
+<sup>1</sup> Mit der Genehmigung des Unternehmens verleiht die Wirtschafts-, Energie- und Umweltdirektion der Trägerin die zur Durchführung des Werkes erforderlichen Rechte an Grund und Boden.
 
 <sup>2</sup> Die Beteiligten haben alle für das Unternehmen erforderlichen Arbeiten und Anlagen sowie die für die Benützung notwendigen Belastungen auf ihren Grundstücken zu dulden.
 
@@ -178,7 +177,7 @@ beschliesst:
 
 <sup>1</sup> Aus wichtigen Gründen können Anlagen des Unternehmens auch ausserhalb des Beizugsgebietes erstellt werden.
 
-<sup>2</sup> In diesem Fall kann die Volkswirtschaftsdirektion die Enteignung oder die Bau-, Verkehrs- und Energiedirektion eine Baulandumlegung anordnen.
+<sup>2</sup> In diesem Fall kann die Wirtschafts-, Energie- und Umweltdirektion die Enteignung oder die Direktion für Inneres und Justiz eine Baulandumlegung anordnen.
 
 #### Art. 15
 
@@ -190,15 +189,15 @@ beschliesst:
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Der Baubeginn bei einer mit öffentlichen Mitteln unterstützten Boden- oder Waldverbesserung bedarf der Bewilligung der zuständigen Stelle der Volkswirtschaftsdirektion.
+<sup>1</sup> Der Baubeginn bei einer mit öffentlichen Mitteln unterstützten Boden- oder Waldverbesserung bedarf der Bewilligung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion.
 
 #### Art. 17
 
 **Nachträgliche Änderungen**
 
-<sup>1</sup> Beschlüsse über nachträgliche wesentliche Änderungen des Unternehmens, insbesondere des Beizugsgebietes, und der Statuten bedürfen der Genehmigung der Volkswirtschaftsdirektion.
+<sup>1</sup> Beschlüsse über nachträgliche wesentliche Änderungen des Unternehmens, insbesondere des Beizugsgebietes, und der Statuten bedürfen der Genehmigung der Wirtschafts-, Energie- und Umweltdirektion.
 
-<sup>2</sup> Aus wichtigen Gründen kann die Volkswirtschaftsdirektion von Amtes wegen Projektänderungen anordnen.
+<sup>2</sup> Aus wichtigen Gründen kann die Wirtschafts-, Energie- und Umweltdirektion von Amtes wegen Projektänderungen anordnen.
 
 #### Art. 17a
 
@@ -210,15 +209,15 @@ beschliesst:
 
 **Auflösung**
 
-<sup>1</sup> Boden- und Waldverbesserungsgenossenschaften können nach öffentlicher Bekanntmachung des Auflösungsantrages mit dem absoluten Mehr aller bekannten Mitglieder und der Genehmigung der Volkswirtschaftsdirektion aufgelöst werden.
+<sup>1</sup> Boden- und Waldverbesserungsgenossenschaften können nach öffentlicher Bekanntmachung des Auflösungsantrages mit dem absoluten Mehr aller bekannten Mitglieder und der Genehmigung der Wirtschafts-, Energie- und Umweltdirektion aufgelöst werden.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion kann die Auflösung anordnen, wenn die Genossenschaft ihren Aufgaben nicht mehr gewachsen ist oder ihr Zweck dahingefallen ist.
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann die Auflösung anordnen, wenn die Genossenschaft ihren Aufgaben nicht mehr gewachsen ist oder ihr Zweck dahingefallen ist.
 
 #### Art. 19
 
 **Genehmigung abgeschlossener Unternehmen**
 
-<sup>1</sup> Abgeschlossene Unternehmen bedürfen der Genehmigung der Volkswirtschaftsdirektion, wenn sie Veränderungen an dinglichen Rechten bewirken oder solche neu begründen.
+<sup>1</sup> Abgeschlossene Unternehmen bedürfen der Genehmigung der Wirtschafts-, Energie- und Umweltdirektion, wenn sie Veränderungen an dinglichen Rechten bewirken oder solche neu begründen.
 
 <sup>2</sup> Mit der Genehmigung gehen das Eigentum, die beschränkten dinglichen Rechte sowie die öffentlichrechtlichen Eigentumsbeschränkungen wie in der Neuordnung vorgesehen über.
 
@@ -272,7 +271,7 @@ beschliesst:
 
 <sup>1</sup> Betreffend Zweckentfremdung von mit öffentlichen Mitteln unterstützten Unternehmen gelten sinngemäss die Vorschriften des Bundesrechts.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann aus wichtigen Gründen Ausnahmen vom Zweckentfremdungsverbot erteilen.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann aus wichtigen Gründen Ausnahmen vom Zweckentfremdungsverbot erteilen.
 
 <sup>3</sup> Änderungen von Bestandteilen einer Boden- oder Waldverbesserung wie Leitungen, Entwässerungs- und Bewässerungsanlagen stellen keine Zweckentfremdung dar, gehen jedoch zu Lasten der Person, die die Änderung vornehmen will, und bedürfen der Zustimmung der Trägerin.
 
@@ -289,15 +288,15 @@ beschliesst:
 - a der Zusammenlegung von landwirtschaftlichen Parzellen zwecks Umverteilung der Bewirtschaftungsflächen ohne diesbezügliche Änderung dinglicher Rechte und
 - b der gemeinsamen Bewirtschaftung von Waldparzellen.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion verfügt im Rahmen der Genehmigung von Unternehmen gemäss Absatz 2 die zur Sicherung erforderlichen Massnahmen. Sie kann dabei vorsehen, dass die Neuordnung grundsätzlich während höchstens 15 Jahren gelten soll.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion verfügt im Rahmen der Genehmigung von Unternehmen gemäss Absatz 2 die zur Sicherung erforderlichen Massnahmen. Sie kann dabei vorsehen, dass die Neuordnung grundsätzlich während höchstens 15 Jahren gelten soll.
 
-<sup>4</sup> Die übrigen Bestimmungen dieses Kapitels gelangen bei Unternehmen nach Absatz 2 zur Anwendung, wenn zugleich eine Verbesserung der Erschliessung bezweckt wird.
+<sup>4</sup> Die übrigen Bestimmungen dieses Abschnitts gelangen bei Unternehmen nach Absatz 2 zur Anwendung, wenn zugleich eine Verbesserung der Erschliessung bezweckt wird.
 
 #### Art. 26
 
 **Änderungen am Besitzstand**
 
-<sup>1</sup> Rechtliche Änderungen sowie tatsächliche Veränderungen der einbezogenen Grundstücke sind nach Auflage des Perimeterplans grundsätzlich nur mit Bewilligung der zuständigen Stelle der Volkswirtschaftsdirektion zulässig.
+<sup>1</sup> Rechtliche Änderungen sowie tatsächliche Veränderungen der einbezogenen Grundstücke sind nach Auflage des Perimeterplans grundsätzlich nur mit Bewilligung der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion zulässig.
 
 #### Art. 27
 
@@ -307,10 +306,10 @@ beschliesst:
 
 <sup>2</sup> Für die Ermittlung dieses Wertes kann sie auch Mehrwerte einsetzen, die durch bauliche Massnahmen entstehen.
 
-<sup>3</sup> Zum Zwecke der Landbeschaffung für Kantons- und Nationalstrassen und andere öffentliche Werke ist die Volkswirtschaftsdirektion berechtigt,
+<sup>3</sup> Zum Zwecke der Landbeschaffung für Kantons- und Nationalstrassen und andere öffentliche Werke ist die Wirtschafts-, Energie- und Umweltdirektion berechtigt,
 
 - a gegen Entschädigung des Verkehrswertes einen zusätzlichen Abzug anzuordnen oder
-- b sofern ein zusätzlicher Abzug unzweckmässig wäre und nur die Grundstücke einzelner Grundeigentümerinnen oder Grundeigentümer benötigt werden, die Enteignung anzuordnen.
+- b sofern ein zusätzlicher Abzug unzweckmässig wäre und nur die Grundstücke einzelner Grundeigentümerinnen und Grundeigentümer benötigt werden, die Enteignung anzuordnen.
 
 #### Art. 28
 
@@ -320,7 +319,7 @@ beschliesst:
 
 <sup>2</sup> Beim Verkauf von landwirtschaftlichen Grundstücken im Beizugsgebiet steht der Trägerin des Unternehmens bis zum Zeitpunkt der Auflage der Neuzuteilung das Vorkaufsrecht zu.
 
-<sup>3</sup> Nach Absteckung der Grundstücks- oder Bewirtschaftungsgrenzen und in der Regel nach Erledigung der Einsprachen verfügt die zuständige Stelle der Volkswirtschaftsdirektion den Besitzesübergang.
+<sup>3</sup> Nach Absteckung der Grundstücks- oder Bewirtschaftungsgrenzen und in der Regel nach Erledigung der Einsprachen verfügt die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion den Besitzesübergang.
 
 <sup>4</sup> Mit der Erledigung sämtlicher Einsprachen wird die Neuzuteilung für die Beteiligten rechtskräftig.
 
@@ -330,7 +329,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion vollzieht dieses Gesetz und seine Ausführungsbestimmungen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion vollzieht dieses Gesetz und seine Ausführungsbestimmungen.
 
 #### Art. 30
 

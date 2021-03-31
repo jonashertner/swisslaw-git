@@ -4,13 +4,12 @@ number: "913.1"
 title: Loi sur la procédure des améliorations foncières et forestières
 short: LPAF
 language: fr
-version: 2017-04-01
-valid_until: 2021-03-31
-version_adopted: 2016-06-09
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/913.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1259/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2194/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1259/pdf_file"
 
 (LPAF)
 
-du 16.06.1997 (état au 01.04.2017)
+du 16.06.1997 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -113,15 +112,15 @@ arrête:
 
 **Projets ordonnés d'office**
 
-<sup>1</sup> Pour de justes motifs, la Direction de l'économie publique peut, après avoir entendu les communes concernées, ordonner d'office la mise en œuvre d'un projet.
+<sup>1</sup> Pour de justes motifs, la Direction de l’économie, de l’énergie et de l’environnement peut, après avoir entendu les communes concernées, ordonner d'office la mise en œuvre d'un projet.
 
-<sup>2</sup> Dans de tels cas, le service compétent de la Direction de l'économie publique peut prendre la conduite du projet.
+<sup>2</sup> Dans de tels cas, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut prendre la conduite du projet.
 
 #### Art. 9
 
 **Mention au registre foncier**
 
-<sup>1</sup> Lorsque la mise en œuvre du projet a été décidée, le service compétent de la Direction de l'économie publique en ordonne la mention au registre foncier.
+<sup>1</sup> Lorsque la mise en œuvre du projet a été décidée, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement en ordonne la mention au registre foncier.
 
 <sup>2</sup> En cas de mutation, la mention a pour effet de transférer de par la loi à l'acquéreur ou à l'acquéreuse la qualité de membre du syndicat d'améliorations foncières et les droits et obligations auxquels le projet a donné naissance.
 
@@ -129,9 +128,9 @@ arrête:
 
 **Approbation**
 
-<sup>1</sup> Le projet et les statuts requièrent l'approbation de la Direction de l'économie publique.
+<sup>1</sup> Le projet et les statuts requièrent l'approbation de la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> La Direction de l'économie publique examine le projet et les statuts quant à leur conformité au droit, à leur opportunité et à l'intérêt public.
+<sup>2</sup> La Direction de l’économie, de l’énergie et de l’environnement examine le projet et les statuts quant à leur conformité au droit, à leur opportunité et à l'intérêt public.
 
 #### Art. 11
 
@@ -154,9 +153,9 @@ arrête:
 
 **Sanctions et abstention**
 
-<sup>1</sup> En cas de négligence grave ou de violation grave des obligations, la Direction de l'économie publique peut relever de leurs fonctions les organes, les membres ou les mandataires du syndicat.
+<sup>1</sup> En cas de négligence grave ou de violation grave des obligations, la Direction de l’économie, de l’énergie et de l’environnement peut relever de leurs fonctions les organes, les membres ou les mandataires du syndicat.
 
-<sup>2</sup> Dans ce cas, le service compétent de la Direction de l'économie publique peut gérer d'office les affaires du syndicat aux frais de ce dernier si, à défaut, la réalisation du projet serait compromise.
+<sup>2</sup> Dans ce cas, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut gérer d'office les affaires du syndicat aux frais de ce dernier si, à défaut, la réalisation du projet serait compromise.
 
 <sup>3</sup> Les membres d'organes du syndicat et les autres mandataires doivent se récuser conformément aux dispositions de la loi sur les communes lors du traitement d'affaires ne portant pas sur une question de procédure.
 
@@ -166,7 +165,7 @@ arrête:
 
 **Concession de droits fonciers 1. Dans le périmètre**
 
-<sup>1</sup> En donnant son approbation au projet, la Direction de l'économie publique concède à l'organisme responsable du projet les droits fonciers nécessaires à la mise en œuvre.
+<sup>1</sup> En donnant son approbation au projet, la Direction de l’économie, de l’énergie et de l’environnement concède à l'organisme responsable du projet les droits fonciers nécessaires à la mise en œuvre.
 
 <sup>2</sup> Les personnes participant au projet doivent tolérer sur leurs immeubles les travaux et équipements nécessaires à la réalisation du projet et les nuisances inhérentes à l'utilisation.
 
@@ -178,7 +177,7 @@ arrête:
 
 <sup>1</sup> Pour de justes motifs, les installations liées au projet peuvent être placées hors du périmètre.
 
-<sup>2</sup> Dans ce cas, la Direction de l'économie publique a la compétence d'ordonner l'expropriation ou la Direction des travaux publics, des transports et de l'énergie, un remaniement parcellaire.
+<sup>2</sup> Dans ce cas, la Direction de l’économie, de l’énergie et de l’environnement a la compétence d'ordonner l'expropriation ou la Direction de l'intérieur et de la justice, un remaniement parcellaire.
 
 #### Art. 15
 
@@ -190,15 +189,15 @@ arrête:
 
 **Autorisation obligatoire**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique doit avoir donné son autorisation avant que ne commencent les travaux pour la réalisation d'un projet d'amélioration foncière ou forestière bénéficiant du soutien financier des pouvoirs publics.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement doit avoir donné son autorisation avant que ne commencent les travaux pour la réalisation d'un projet d'amélioration foncière ou forestière bénéficiant du soutien financier des pouvoirs publics.
 
 #### Art. 17
 
 **Modifications ultérieures**
 
-<sup>1</sup> Les décisions portant sur une modification ultérieure essentielle du projet, notamment du périmètre, et des statuts requièrent l'approbation de la Direction de l'économie publique.
+<sup>1</sup> Les décisions portant sur une modification ultérieure essentielle du projet, notamment du périmètre, et des statuts requièrent l'approbation de la Direction de l’économie, de l’énergie et de l’environnement.
 
-<sup>2</sup> Pour de justes motifs, la Direction de l'économie publique peut ordonner d'office la modification du projet.
+<sup>2</sup> Pour de justes motifs, la Direction de l’économie, de l’énergie et de l’environnement peut ordonner d'office la modification du projet.
 
 #### Art. 17a
 
@@ -210,15 +209,15 @@ arrête:
 
 **Dissolution**
 
-<sup>1</sup> Les syndicats d'améliorations foncières ou forestières peuvent être dissous à la majorité absolue de tous les membres connus et avec l'approbation de la Direction de l'économie publique. La proposition de dissolution doit avoir été préalablement rendue publique.
+<sup>1</sup> Les syndicats d'améliorations foncières ou forestières peuvent être dissous à la majorité absolue de tous les membres connus et avec l'approbation de la Direction de l’économie, de l’énergie et de l’environnement. La proposition de dissolution doit avoir été préalablement rendue publique.
 
-<sup>2</sup> La Direction de l'économie publique peut ordonner la dissolution si le syndicat est dépassé par l'ampleur de ses tâches ou qu'il n'ait plus de raison d'être.
+<sup>2</sup> La Direction de l’économie, de l’énergie et de l’environnement peut ordonner la dissolution si le syndicat est dépassé par l'ampleur de ses tâches ou qu'il n'ait plus de raison d'être.
 
 #### Art. 19
 
 **Approbation de projets achevés**
 
-<sup>1</sup> Les projets achevés requièrent l'approbation de la Direction de l'économie publique lorsqu'ils ont pour effet la modification de droits réels ou la constitution de droits réels nouveaux.
+<sup>1</sup> Les projets achevés requièrent l'approbation de la Direction de l’économie, de l’énergie et de l’environnement lorsqu'ils ont pour effet la modification de droits réels ou la constitution de droits réels nouveaux.
 
 <sup>2</sup> L'approbation a pour effet le transfert de la propriété, des droits réels limités et des restrictions de droit public de la propriété tels qu'ils sont prévus dans le nouveau régime.
 
@@ -272,7 +271,7 @@ arrête:
 
 <sup>1</sup> Les dispositions de la législation fédérale s'appliquent par analogie à la désaffectation d'immeubles améliorés à l'aide de fonds publics.
 
-<sup>2</sup> Pour de justes motifs, le service compétent de la Direction de l'économie publique peut accorder des dérogations à l'interdiction de désaffectation.
+<sup>2</sup> Pour de justes motifs, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut accorder des dérogations à l'interdiction de désaffectation.
 
 <sup>3</sup> La modification d'éléments faisant partie intégrante des équipements liés à une amélioration foncière ou forestière, tels que conduites, systèmes de drainage et d'irrigation, ne constitue pas une désaffectation, mais doit être financée par la personne qui en prend l'initiative, et elle requiert l'approbation de l'organisme responsable.
 
@@ -289,15 +288,15 @@ arrête:
 - a au remembrement de parcelles agricoles aux fins d'une nouvelle répartition des surfaces d'exploitation, sans que les droits réels touchés ne soient modifiés;
 - b à l'exploitation en commun de parcelles forestières.
 
-<sup>3</sup> Dans la décision d'approbation de projets tels que décrits au 2<sup>e</sup> alinéa, la Direction de l'économie publique ordonne les mesures de garantie nécessaires. Elle peut prévoir notamment qu'en règle générale le nouveau régime vaudra pour une durée de 15 ans au plus.
+<sup>3</sup> Dans la décision d'approbation de projets tels que décrits au 2<sup>e</sup> alinéa, la Direction de l’économie, de l’énergie et de l’environnement ordonne les mesures de garantie nécessaires. Elle peut prévoir notamment qu'en règle générale le nouveau régime vaudra pour une durée de 15 ans au plus.
 
-<sup>4</sup> Les autres dispositions du présent chapitre s'appliquent aux projets décrits au 2<sup>e</sup> alinéa si le but est d'améliorer également la desserte.
+<sup>4</sup> Les autres dispositions de la présente section s'appliquent aux projets décrits au 2<sup>e</sup> alinéa si le but est d'améliorer également la desserte.
 
 #### Art. 26
 
 **Modification des conditions de propriété**
 
-<sup>1</sup> Après que les plans du périmètre ont été mis à l'enquête publique, les modifications juridiques apportées aux conditions de propriété et les modifications de fait des biens-fonds compris dans le périmètre ne sont en principe admises qu'avec l'autorisation du service compétent de la Direction de l'économie publique.
+<sup>1</sup> Après que les plans du périmètre ont été mis à l'enquête publique, les modifications juridiques apportées aux conditions de propriété et les modifications de fait des biens-fonds compris dans le périmètre ne sont en principe admises qu'avec l'autorisation du service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 #### Art. 27
 
@@ -307,7 +306,7 @@ arrête:
 
 <sup>2</sup> Dans le calcul de cette valeur, il peut faire entrer les plus-values issues de travaux de construction.
 
-<sup>3</sup> Pour l'acquisition des terrains destinés aux routes cantonales ou nationales, la Direction de l'économie publique a le droit
+<sup>3</sup> Pour l'acquisition des terrains destinés aux routes cantonales ou nationales, la Direction de l’économie, de l’énergie et de l’environnement a le droit
 
 - a d'ordonner une réduction supplémentaire contre indemnisation pour une somme équivalente à la valeur vénale ou
 - b d'ordonner l'expropriation si une réduction supplémentaire n'est pas appropriée et que seuls les immeubles de quelques propriétaires sont nécessaires.
@@ -320,7 +319,7 @@ arrête:
 
 <sup>2</sup> Lors de la mise en vente d'immeubles agricoles situés dans le périmètre, l'organisme responsable d'un projet a un droit de préemption jusqu'au moment de la mise à l'enquête publique de la nouvelle répartition.
 
-<sup>3</sup> Après le marquage des limites des immeubles ou de l'exploitation et, en règle générale, lorsque les oppositions ont été réglées, le service compétent de la Direction de l'économie publique ordonne le transfert de la possession par voie de décision.
+<sup>3</sup> Après le marquage des limites des immeubles ou de l'exploitation et, en règle générale, lorsque les oppositions ont été réglées, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement ordonne le transfert de la possession par voie de décision.
 
 <sup>4</sup> Lorsque toutes les oppositions ont été réglées, la nouvelle répartition acquiert force obligatoire pour toutes les parties concernées.
 
@@ -330,7 +329,7 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> L'exécution de la présente loi et de ses dispositions d'application incombe à la Direction de l'économie publique.
+<sup>1</sup> L'exécution de la présente loi et de ses dispositions d'application incombe à la Direction de l’économie, de l’énergie et de l’environnement.
 
 #### Art. 30
 
