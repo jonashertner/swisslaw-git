@@ -4,13 +4,12 @@ number: "915.11"
 title: "Ordonnance sur la vulgarisation en agriculture et en économie familiale rurale *"
 short: OVAEFR
 language: fr
-version: 2006-01-01
-valid_until: 2021-03-31
-version_adopted: 2005-11-09
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/915.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/115/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2196/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/115/pdf_file"
 
 (OVAEFR)
 
-du 05.11.1997 (état au 01.01.2006)
+du 05.11.1997 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -82,7 +81,7 @@ arrête:
 
 <sup>1</sup> Le canton peut coopérer avec d’autres cantons, institutions et organisations en matière de vulgarisation.
 
-<sup>2</sup> La Direction de l'économie publique conclut les contrats de prestation nécessaires et s'engage à verser les contributions qui s'ensuivent.
+<sup>2</sup> La Direction de l’économie, de l’énergie et de l’environnement conclut les contrats de prestation nécessaires et s'engage à verser les contributions qui s'ensuivent.
 
 <sup>3</sup> …
 
@@ -106,7 +105,7 @@ arrête:
 
 **Conseil d'école**
 
-<sup>1</sup> Le conseil d’école de l’école professionnelle cantonale d’agriculture et d’économie familiale rurale conseille la Direction de l’économie publique et l’OAN dans les questions de principe relevant de la vulgarisation en agriculture et en économie familiale rurale.
+<sup>1</sup> Le conseil d’école de l’école professionnelle cantonale d’agriculture et d’économie familiale rurale conseille la Direction de l’économie, de l’énergie et de l’environnement et l’OAN dans les questions de principe relevant de la vulgarisation en agriculture et en économie familiale rurale.
 
 #### Art. 14–17
 
@@ -118,7 +117,7 @@ arrête:
 
 **Subventions et indemnités**
 
-<sup>1</sup> La Direction de l’économie publique peut soutenir au moyen de subventions les cours de formation et les manifestations professionnels, les concours et les conférences proposés par les organisations agricoles.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement peut soutenir au moyen de subventions les cours de formation et les manifestations professionnels, les concours et les conférences proposés par les organisations agricoles.
 
 <sup>2</sup> …
 

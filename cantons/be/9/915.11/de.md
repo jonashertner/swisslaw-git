@@ -4,13 +4,12 @@ number: "915.11"
 title: Verordnung über die landwirtschaftliche und bäuerlich-hauswirtschaftliche Beratung
 short: LBV
 language: de
-version: 2006-01-01
-valid_until: 2021-03-31
-version_adopted: 2005-11-09
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/915.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/115/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2196/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/115/pdf_file"
 
 (LBV)
 
-vom 05.11.1997 (Stand 01.01.2006)
+vom 05.11.1997 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -82,7 +81,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann betreffend die Beratung mit anderen Kantonen, Institutionen und Organisationen zusammenarbeiten.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion schliesst die entsprechenden Leistungsvereinbarungen ab und geht die Beitragsverpflichtungen ein.
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion schliesst die entsprechenden Leistungsvereinbarungen ab und geht die Beitragsverpflichtungen ein.
 
 <sup>3</sup> …
 
@@ -106,7 +105,7 @@ beschliesst:
 
 **Schulrat**
 
-<sup>1</sup> Der Schulrat der kantonalen landwirtschaftlichen und bäuerlich-hauswirtschaftlichen Berufsfachschule berät die Volkswirtschaftsdirektion und das LANAT in grundsätzlichen Fragen der landwirtschaftlichen und bäuerlich-hauswirtschaftlichen Beratung.
+<sup>1</sup> Der Schulrat der kantonalen landwirtschaftlichen und bäuerlich-hauswirtschaftlichen Berufsfachschule berät die Wirtschafts-, Energie- und Umweltdirektion und das LANAT in grundsätzlichen Fragen der landwirtschaftlichen und bäuerlich-hauswirtschaftlichen Beratung.
 
 #### Art. 14–17
 
@@ -118,7 +117,7 @@ beschliesst:
 
 **Beiträge und Entschädigungen**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion kann berufsbildende Kurse, berufskundliche Veranstaltungen, Wettbewerbe und Vorträge, die von landwirtschaftlichen Organisationen veranstaltet werden, durch Beiträge unterstützen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann berufsbildende Kurse, berufskundliche Veranstaltungen, Wettbewerbe und Vorträge, die von landwirtschaftlichen Organisationen veranstaltet werden, durch Beiträge unterstützen.
 
 <sup>2</sup> …
 
