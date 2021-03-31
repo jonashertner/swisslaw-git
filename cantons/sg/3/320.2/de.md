@@ -4,13 +4,13 @@ number: "320.2"
 title: Gesetz über die Spitalverbunde
 short: GSV
 language: de
-version: 2017-01-01
-valid_until: 2021-03-31
-version_adopted: 2016-06-28
+version: 2021-04-01
+valid_until: 2024-12-31
+version_adopted: 2021-02-02
 adopted: 2002-09-22
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2159/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3134/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2159/pdf_file"
 
 (GSV)
 
-vom 22.09.2002 (Stand 01.01.2017)
+vom 22.09.2002 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -57,13 +57,16 @@ als Gesetz:[^ingress-3]
 
 **Standorte**
 
-<sup>1</sup> Der Kantonsrat legt die Spitalstandorte fest.
+<sup>1</sup> Der Kantonsrat legt fest:
+
+- a) die Spitalstandorte;
+- b) die Standorte mit einem Gesundheits- und Notfallzentrum, das über ein auf den regionalen Bedarf abgestimmtes Notfallversorgungsangebot verfügt.
 
 #### Art. 3
 
 **Aufgaben a) allgemein**
 
-<sup>1</sup> Der Spitalverbund trägt bei:
+<sup>1</sup> Der Spitalverbund trägt insbesondere bei:
 
 - a) zur bedarfsgerechten Spitalversorgung;
 - b) zur Notfallversorgung bei Krankheit und Unfall;
@@ -76,6 +79,26 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Die Regierung konkretisiert die Aufgaben des Spitalverbundes im Leistungsauftrag.
 
 <sup>2</sup> Der Leistungsauftrag kann das Leistungsangebot an Spitalstandorten vorgeben.
+
+#### Art. 4bis
+
+**c) weitere Leistungen 1. Grundsatz**
+
+<sup>1</sup> Der Spitalverbund kann weitere Leistungen mit Bezug zur Gesundheitsversorgung anbieten, soweit die Erfüllung des Leistungsauftrags und die langfristige Gesundheitsversorgung nicht beeinträchtigt werden.
+
+<sup>2</sup> Die mit weiteren Leistungen verbundenen Kosten und Erträge werden separat erfasst und ausgewiesen.
+
+#### Art. 4ter
+
+**2. Gesundheits- und Notfallzentren**
+
+<sup>1</sup> Der Spitalverbund betreibt an den nach Art. 2<sup>bis</sup> Bst. b dieses Erlasses festgelegten Standorten Gesundheits- und Notfallzentren, soweit dieses Angebot nicht hinreichend durch private Leistungserbringer aufgebaut und sichergestellt wird. Er arbeitet soweit möglich mit privaten Leistungserbringern zusammen.
+
+#### Art. 4quater
+
+**3. weitere ambulante Leistungen**
+
+<sup>1</sup> Der Spitalverbund kann weitere ambulante Leistungen ausserhalb der Spitalinfrastruktur und der Gesundheits- und Notfallzentren anbieten, soweit eine bedarfsgerechte Versorgung nicht hinreichend durch private Leistungserbringer sichergestellt wird.
 
 ## II. Organe
 
