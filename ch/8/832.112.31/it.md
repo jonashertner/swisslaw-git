@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2021-02-01
+version: 2021-04-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210201/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210201/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 1° febbraio 2021)
+del 29 settembre 1995 (Stato 1° aprile 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -703,7 +703,7 @@ L’assicurazione assume i costi delle seguenti misure di profilassi di malattie
 
 [^12b-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12b-2]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 20 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
-[^12b-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12b-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif
 [^12b-4]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 31 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
 [^12b-5]: I documenti possono essere consultati allʼindirizzo [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Assicurazione malattie &gt; Basi giuridiche e dʼesecuzione&gt; Diritto applicabile &gt; Documenti di riferimento.
 [^12b-6]: Introdotta dal n. I dellʼO del DFI del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Nuovo testo giusta il n. I dellʼO del DFI del 12 giu. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)).
@@ -744,13 +744,13 @@ L’assicurazione assume i costi dei seguenti esami sullo stato di salute genera
 
 [^12d-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
 [^12d-2]: Nuovo testo giusta il n. I dellʼO del DFI del 16 gen. 2019, in vigore dal 1° mar. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)).
-[^12d-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12d-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif
 [^12d-4]: Nuovo testo giusta il n. I dellʼO del DFI del 17 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)).
 [^12d-5]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^12d-6]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif
-[^12d-7]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
-[^12d-8]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
-[^12d-9]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif.
+[^12d-7]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif
+[^12d-8]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif
+[^12d-9]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif
 [^12d-10]: Nuovo testo giusta il n. I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^12d-11]: Introdotta dal n. I dellʼO del DFI del 20 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
 [^12d-12]: Introdotto dal n. I dellʼO del DFI del 17 giu. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)).
@@ -1477,7 +1477,7 @@ Su richiesta dell’UFSP il titolare dell’omologazione deve presentare all’U
 
 <sup>3</sup> L’UFSP tiene in considerazione fino al 1° luglio dell’anno del riesame le modifiche dei dati necessari per il confronto terapeutico trasversale e dei prezzi di fabbrica per la consegna in vigore per i preparati confrontati.
 
-[^34f-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^34f-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 34g
 
@@ -1957,7 +1957,7 @@ Allegato 1[^t-2]
 
 ## Rimunerazione da parte dellʼassicurazione obbligatoria delle cure medico-sanitarie di determinate prestazioni mediche
 
-[^t-2]: Non pubblicato nella RU ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Allegato 1 dell’ordinanza sulle prestazioni (OPre).
+[^t-2]: Non pubblicato nella RU ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Allegato 1 dell’ordinanza sulle prestazioni (OPre).
 
 Allegato 1a[^t-3]
 
@@ -1965,7 +1965,7 @@ Allegato 1a[^t-3]
 
 ## Limitazione dellʼassunzione dei costi per determinati interventi elettivi
 
-[^t-3]: Non pubblicato nella RU ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Lʼall. 1*a* può essere consultato allʼindirizzo: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Prestazione mediche &gt; Allegato 1a dell’OPre
+[^t-3]: Non pubblicato nella RU ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339); [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Lʼall. 1*a* può essere consultato allʼindirizzo: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Prestazione mediche &gt; Allegato 1a dell’OPre
 
 Allegato 2[^t-4]
 
@@ -1973,7 +1973,7 @@ Allegato 2[^t-4]
 
 ## Elenco dei mezzi e degli apparecchi
 
-[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744),[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2 6491 n. II cpv. 2, [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)[5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)[7151](https://fedlex.data.admin.ch/eli/oc/2017/773), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[2375](https://fedlex.data.admin.ch/eli/oc/2018/340)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355)[4387](https://fedlex.data.admin.ch/eli/oc/2019/756), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)e [2539](https://fedlex.data.admin.ch/eli/oc/2020/464)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp).
+[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744);[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2, 6491 n. II cpv. 2; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464)e [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp)
 
 Allegato 3[^t-5]
 
@@ -1981,7 +1981,7 @@ Allegato 3[^t-5]
 
 ## Elenco delle analisi
 
-[^t-5]: Non pubblicato nella RU ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)[3173](https://fedlex.data.admin.ch/eli/oc/2009/401)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744), [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491, [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[4347](https://fedlex.data.admin.ch/eli/oc/2012/511)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)[5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)[3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[629](https://fedlex.data.admin.ch/eli/oc/2020/121)[1409](https://fedlex.data.admin.ch/eli/oc/2020/277)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[4139](https://fedlex.data.admin.ch/eli/oc/2020/755)[6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)e [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
+[^t-5]: Non pubblicato nella RU (art. 28) ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)[148](https://fedlex.data.admin.ch/eli/oc/2021/148)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
 
 Allegato 4[^t-6]
 
@@ -1989,4 +1989,4 @@ Allegato 4[^t-6]
 
 ## Elenco dei medicamenti con tariffa (EMT)
 
-[^t-6]: Non pubblicato nella RU ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Lʼelenco può essere consultata all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Medicamenti &gt; Elenco dei medicamenti con tariffa (EMT)
+[^t-6]: Non pubblicato nella RU ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Lʼelenco può essere consultata all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Medicamenti &gt; Elenco dei medicamenti con tariffa (EMT)
