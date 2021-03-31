@@ -4,13 +4,12 @@ number: "767.2"
 title: "Décret sur l'imposition des bateaux"
 short: DIB
 language: fr
-version: 1991-01-01
-valid_until: 2021-03-31
-version_adopted: 1990-02-19
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1990-02-19
 in_force: 1991-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/767.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1608/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2238/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,15 +18,15 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1608/pdf_file"
 
 (DIB)
 
-du 19.02.1990 (état au 01.01.1991)
+du 19.02.1990 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
-en application de la loi du 19 février 1990 sur la navigation et l'imposition des bateaux,[^ingress-1]sur proposition du Conseil-exécutif,
+en application de la loi du 19 février 1990 sur la navigation et l'imposition des bateaux[^ingress-1], sur proposition du Conseil-exécutif,
 
 décrète:
 
-[^ingress-1]: RSB 767.1
+[^ingress-1]: RSB [767.1](https://www.belex.sites.be.ch/data/767.1/fr)
 
 #### Art. 1
 

@@ -4,13 +4,12 @@ number: "767.2"
 title: Dekret über die Besteuerung der Schiffe
 short: "Schiffssteuerdekret, SSD"
 language: de
-version: 1991-01-01
-valid_until: 2021-03-31
-version_adopted: 1990-02-19
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 1990-02-19
 in_force: 1991-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/767.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1608/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2238/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1608/pdf_file"
 
 (Schiffssteuerdekret, SSD)
 
-vom 19.02.1990 (Stand 01.01.1991)
+vom 19.02.1990 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
-gestützt auf das Gesetz vom 19. Februar 1990 über die Schiffahrt und die Besteuerung der Schiffe[^ingress-1],
+gestützt auf das Gesetz vom 19. Februar 1990 über die Schifffahrt und die Besteuerung der Schiffe[^ingress-1],
 
 auf Antrag des Regierungsrates,
 
 beschliesst:
 
-[^ingress-1]: BSG 767.1
+[^ingress-1]: BSG [767.1](https://www.belex.sites.be.ch/data/767.1/de)
 
 #### Art. 1
 
@@ -71,7 +70,7 @@ beschliesst:
 
 **Meldepflicht**
 
-<sup>1</sup> Der Halter eines Schiffes hat die für die Veranlagung erheblichen Tatsachen vor der Inverkehrsetzung des Schiffes dem Strassenverkehrs- und Schiffahrtsamt zu melden.
+<sup>1</sup> Der Halter eines Schiffes hat die für die Veranlagung erheblichen Tatsachen vor der Inverkehrsetzung des Schiffes dem Strassenverkehrs- und Schifffahrtsamt zu melden.
 
 <sup>2</sup> Unterlässt der Steuerpflichtige die vorgeschriebene Meldung vorsätzlich oder fahrlässig, so wird eine Steuerbusse ausgefällt.
 
@@ -97,7 +96,7 @@ beschliesst:
 
 **Steuernach- und -rückforderung, Verjährung**
 
-<sup>1</sup> Wurde irrtümlich die Steuer nicht erhoben oder zu tief veranlagt, so kann das Strassenverkehrs- und Schiffahrtsamt den betreffenden Betrag für das laufende Steuerjahr sowie für die fünf vorangehenden Steuerperioden nachfordern.
+<sup>1</sup> Wurde irrtümlich die Steuer nicht erhoben oder zu tief veranlagt, so kann das Strassenverkehrs- und Schifffahrtsamt den betreffenden Betrag für das laufende Steuerjahr sowie für die fünf vorangehenden Steuerperioden nachfordern.
 
 <sup>2</sup> Wurde die Steuer zu hoch veranlagt oder irrtümlich eine über die Steuerpflicht hinausgehende Leistung durch den Steuerpflichtigen erbracht, kann er den betreffenden Betrag für das laufende Steuerjahr sowie für die fünf vorangehenden Steuerperioden zurückfordern.
 
@@ -113,7 +112,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Strassenverkehrs- und Schiffahrtsamt ist zuständig für alle Verfügungen im Zusammenhang mit den Schiffssteuern.
+<sup>1</sup> Das Strassenverkehrs- und Schifffahrtsamt ist zuständig für alle Verfügungen im Zusammenhang mit den Schiffssteuern.
 
 #### Art. 10
 
