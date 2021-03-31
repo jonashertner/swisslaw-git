@@ -4,13 +4,13 @@ number: "935.901"
 title: "Ordonnance sur l’exercice de la prostitution *"
 short: OEP
 language: fr
-version: 2019-08-01
-valid_until: 2021-03-31
-version_adopted: 2019-06-12
+version: 2021-04-01
+valid_until: 2023-07-31
+version_adopted: 2021-02-24
 adopted: 2012-12-05
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.901"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1684/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2242/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1684/pdf_file"
 
 (OEP)
 
-du 05.12.2012 (état au 01.08.2019)
+du 05.12.2012 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -146,9 +146,9 @@ arrête:
 - a les préfectures (présidence),
 - b la Police cantonale,
 - c le Ministère public,
-- d l’Office de la population et des migrations,
-- e la Direction de la santé publique et de la prévoyance sociale,
-- f l’autorité du marché du travail de la Direction de l’économie publique,
+- d l’Office de la population,
+- e la Direction de la santé, des affaires sociales et de l’intégration,
+- f l’autorité du marché du travail de la Direction de l’économie, de l’énergie et de l’environnement,
 - g les communes concernées par l’activité de prostitution,
 - h les fournisseurs de prestations définis à l’article 58, alinéa 2 LASoc,
 - i l’Intendance des impôts.
@@ -157,14 +157,14 @@ arrête:
 
 - a s’informe régulièrement des derniers développements dans le domaine de la prostitution;
 - b encourage la coordination des activités des autorités compétentes et des fournisseurs de prestations définis à l’article 58, alinéa 2 LASoc;
-- c fait des propositions à la Direction de la police et des affaires militaires en vue de modifications de la législation par le Conseil-exécutif;
-- d contrôle l’efficacité des mesures prises dans le domaine de l’exercice de la prostitution et, en cas de besoin ou sur demande, en fait rapport à la Direction de la police et des affaires militaires.
+- c fait des propositions à la Direction de la sécurité en vue de modifications de la législation par le Conseil-exécutif;
+- d contrôle l’efficacité des mesures prises dans le domaine de l’exercice de la prostitution et, en cas de besoin ou sur demande, en fait rapport à la Direction de la sécurité.
 
 <sup>4</sup> …
 
-<sup>5</sup> La Direction de la police et des affaires militaires en nomme les membres sur proposition des autorités et services visés à l’alinéa 2. Pour le surplus, la commission se constitue elle-même.
+<sup>5</sup> La Direction de la sécurité en nomme les membres sur proposition des autorités et services visés à l’alinéa 2. Pour le surplus, la commission se constitue elle-même.
 
-<sup>6</sup> La période de fonction des membres est de quatre ans et le mandat est prolongé tacitement, dans la mesure où la Direction de la police et des affaires militaires ne procède pas à une nouvelle nomination au sens de l’alinéa 5.
+<sup>6</sup> La période de fonction des membres est de quatre ans et le mandat est prolongé tacitement, dans la mesure où la Direction de la sécurité ne procède pas à une nouvelle nomination au sens de l’alinéa 5.
 
 ## 4 Protection des données
 
@@ -178,13 +178,13 @@ arrête:
 - d les indications relatives à des contrôles déjà effectués (date, manquements éventuels constatés, etc.),
 - e les indications relatives à d’autres activités de la personne titulaire et soumises à autorisation en vertu de la LEP.
 
-<sup>2</sup> L’Office de gestion et de surveillance de la Direction de la justice, des affaires communales et des affaires ecclésiastiques est responsable de la protection des données, conformément à l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^9-1].
+<sup>2</sup> L’Office des services et des ressources de la Direction de l’intérieur et de la justice est responsable de la protection des données, conformément à l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^9-1].
 
 <sup>3</sup> Le droit d’obtenir des renseignements et de consulter des documents est soumis aux dispositions de la législation relative à la protection des données.
 
 <sup>4</sup> L’autorité compétente pour l’autorisation supprime les données relatives à une personne titulaire de l’autorisation au plus tard dix ans après expiration de l’autorisation.
 
-[^9-1]: RSB 152.04
+[^9-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
 ## 5 Dispositions finales
 

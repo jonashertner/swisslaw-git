@@ -4,13 +4,13 @@ number: "935.901"
 title: Prostitutionsgewerbeverordnung
 short: PGV
 language: de
-version: 2019-08-01
-valid_until: 2021-03-31
-version_adopted: 2019-06-12
+version: 2021-04-01
+valid_until: 2023-07-31
+version_adopted: 2021-02-24
 adopted: 2012-12-05
 in_force: 2013-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.901"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1684/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2242/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1684/pdf_file"
 
 (PGV)
 
-vom 05.12.2012 (Stand 01.08.2019)
+vom 05.12.2012 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -146,9 +146,9 @@ beschliesst:
 - a der Regierungsstatthalterämter (Vorsitz),
 - b der Kantonspolizei,
 - c der Staatsanwaltschaft,
-- d des Amts für Migration und Personenstand,
-- e der Gesundheits- und Fürsorgedirektion,
-- f der Arbeitsmarktbehörde der Volkswirtschaftsdirektion,
+- d des Amts für Bevölkerungsdienste,
+- e der Gesundheits-, Sozial- und Integrationsdirektion,
+- f der Arbeitsmarktbehörde der Wirtschafts-, Energie- und Umweltdirektion,
 - g der vom Prostitutionsgewerbe betroffenen Gemeinden,
 - h der Leistungserbringer gemäss Artikel 58 Absatz 2 SHG,
 - i der Steuerverwaltung.
@@ -157,14 +157,14 @@ beschliesst:
 
 - a informiert sich regelmässig über die Entwicklungen im Prostitutionsgewerbe,
 - b fördert die Koordination der Tätigkeiten der zuständigen Behörden und der Leistungserbringer gemäss Artikel 58 Absatz 2 SHG,
-- c macht der Polizei- und Militärdirektion zuhanden des Regierungsrats Vorschläge für Änderungen der Gesetzgebung,
-- d prüft die Wirksamkeit der im Bereich des Prostitutionsgewerbes getroffenen Massnahmen und erstattet der Polizei- und Militärdirektion bei Bedarf oder auf Verlangen Bericht.
+- c macht der Sicherheitsdirektion zuhanden des Regierungsrats Vorschläge für Änderungen der Gesetzgebung,
+- d prüft die Wirksamkeit der im Bereich des Prostitutionsgewerbes getroffenen Massnahmen und erstattet der Sicherheitsdirektion bei Bedarf oder auf Verlangen Bericht.
 
 <sup>4</sup> …
 
-<sup>5</sup> Die Polizei- und Militärdirektion ernennt die Mitglieder auf Antrag der Behörden und Stellen gemäss Absatz 2. Im Übrigen konstituiert sich die Kommission selbst.
+<sup>5</sup> Die Sicherheitsdirektion ernennt die Mitglieder auf Antrag der Behörden und Stellen gemäss Absatz 2. Im Übrigen konstituiert sich die Kommission selbst.
 
-<sup>6</sup> Die Amtsdauer der Mitglieder beträgt vier Jahre und wird stillschweigend verlängert, wenn die Polizei- und Militärdirektion keine neue Ernennung gemäss Absatz 5 vornimmt.
+<sup>6</sup> Die Amtsdauer der Mitglieder beträgt vier Jahre und wird stillschweigend verlängert, wenn die Sicherheitsdirektion keine neue Ernennung gemäss Absatz 5 vornimmt.
 
 ## 4 Datenschutz
 
@@ -178,13 +178,13 @@ beschliesst:
 - d Angaben über bisherige Kontrollen (Datum, allfällig festgestellte Verfehlungen usw.),
 - e Angaben zu weiteren nach dem PGG bewilligungspflichtigen Tätigkeiten der Bewilligungsinhaberin oder des Bewilligungsinhabers.
 
-<sup>2</sup> Das Amt für Betriebswirtschaft und Aufsicht der Justiz-, Gemeinde- und Kirchendirektion sorgt im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^9-1] für den Datenschutz.
+<sup>2</sup> Das Amt für Dienstleistungen und Ressourcen der Direktion für Inneres und Justiz sorgt im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^9-1] für den Datenschutz.
 
 <sup>3</sup> Die Auskunfts- und Einsichtsrechte richten sich nach den Bestimmungen der Datenschutzgesetzgebung.
 
 <sup>4</sup> Die Bewilligungsbehörde vernichtet die Daten einer Bewilligungsinhaberin oder eines Bewilligungsinhabers spätestens zehn Jahre nach Erlöschen der Bewilligung.
 
-[^9-1]: BSG 152.04
+[^9-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 ## 5 Schlussbestimmungen
 
