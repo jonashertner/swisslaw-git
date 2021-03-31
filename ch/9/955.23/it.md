@@ -4,11 +4,11 @@ title: "Ordinanza del 25 agosto 2004 sull'Ufficio di comunicazione in materia di
 short: OURD
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: it
-version: 2020-01-01
+version: 2021-04-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2004-626-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2004-626-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20200101/it"
 
 (OURD)
 
-del 25 agosto 2004 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 25 agosto 2004 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,7 @@ Per adempiere i suoi compiti, l’Ufficio di comunicazione:
 [^1-7]: Introdotta dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)).
 [^1-8]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
 
-## Capitolo 2: Trattamento di comunicazioni e informazioni****
+## Capitolo 2: Trattamento di comunicazioni e informazioni
 
 [^chap2-1]
 
@@ -206,7 +206,7 @@ L’Ufficio di comunicazione può richiedere alle autorità e agli uffici di cui
 [^7-2]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^7-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
-### Sezione 3: Trasmissione di informazioni a un’autorità di perseguimento penale****
+### Sezione 3: Trasmissione di informazioni a un’autorità di perseguimento penale
 
 [^chap2-sec3-1]
 
@@ -308,7 +308,7 @@ I dati personali e le informazioni ai sensi del capoverso 1 possono essere scamb
 
 [^13-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 
-## Capitolo 4: Sistema d’informazione****
+## Capitolo 4: Sistema d’informazione
 
 [^chap4-1]
 
@@ -412,13 +412,18 @@ Il sistema d’informazione serve per:
 
 **Sicurezza dei dati e aggiornamento**
 
-<sup>1</sup> La sicurezza dei dati è retta dall’ordinanza del 14 giugno 1993[^19-1] relativa alla legge federale sulla protezione dei dati e dall’ordinanza del 9 dicembre 2011[^19-2] sull’informatica nell’Amministrazione federale.[^19-3]
+<sup>1</sup>
+
+La sicurezza dei dati è retta:
+
+- a. dall’ordinanza del 14 giugno 1993[^19-1] relativa alla legge federale sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^19-2] sui ciber-rischi.[^19-3]
 
 <sup>2</sup> L’Ufficio federale di polizia (fedpol) stabilisce in un regolamento di trattamento dei dati le misure tecniche e organizzative intese a impedire il trattamento non autorizzato dei dati e a garantire l’aggiornamento automatico del trattamento dei dati.[^19-4]
 
 [^19-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^19-3]: Nuovo testo giusta il n. I dell’O del 16 ott. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^19-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-3]: Nuovo testo giusta l’all. n. 38 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^19-4]: Nuovo testo giusta il n. I 20 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
@@ -517,7 +522,7 @@ I dati personali sono trasmessi, su richiesta, alle autorità federali e cantona
 La consegna di dati e documenti dell’Ufficio di comunicazione all’Archivio federale è disciplinata dalla legge federale del 26 giugno 1998[^29-1] sull’archiviazione e dalle relative ordinanze d’esecuzione[^29-2].
 
 [^29-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
-[^29-2]: [RS 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371)**/.21**
+[^29-2]: [RS 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371),[152.12](https://fedlex.data.admin.ch/eli/cc/2006/186),[152.13](https://fedlex.data.admin.ch/eli/cc/2011/209),[152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
 
 ## Capitolo 7: Disposizioni finali
 

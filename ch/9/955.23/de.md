@@ -4,11 +4,11 @@ title: Verordnung vom 25. August 2004 über die Meldestelle für Geldwäscherei 
 short: MGwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: de
-version: 2020-01-01
+version: 2021-04-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2004-626-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2004-626-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20200101/de"
 
 (MGwV)
 
-vom 25. August 2004 (Stand am 1. Januar 2020)
+vom 25. August 2004 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -165,7 +165,7 @@ Meldungen nach Artikel 2 Buchstaben a–c müssen enthalten:
 
 <sup>3</sup> Übermittelt die Meldestelle einer Strafverfolgungsbehörde gemäss Artikel 23 Absatz 5 GwG gemeldete Informationen oder erhält sie eine Meldung gestützt auf Artikel 9 Absatz 1 Buchstabe c GwG, so gibt sie die Frist an, während der die Vermögenssperre nach Artikel 10 Absatz 2 GwG aufrechterhalten bleibt.[^4-3]
 
-<sup>4</sup> …[^4-4]
+<sup>4</sup> ...[^4-4]
 
 [^4-1]: Fassung gemäss Anhang 2 Ziff. II 3 der Geldwäschereiverordnung vom 11. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
@@ -280,7 +280,7 @@ Stellt die Meldestelle fest, dass ein Finanzintermediär seine Sorgfaltspflicht 
 
 **Schweizer Behörden**
 
-<sup>1</sup> …[^12-1]
+<sup>1</sup> ...[^12-1]
 
 <sup>2</sup> Hat die Meldestelle Kenntnis, dass bereits eine Strafverfolgungsbehörde gegen im entsprechenden Ersuchen erwähnte Personen ermittelt, so verweist sie die ersuchende Behörde für weitere Informationen in der Regel an diese Strafverfolgungsbehörde.[^12-2]
 
@@ -415,13 +415,18 @@ Das Informationssystem dient der:
 
 **Datensicherheit und Protokollierung**
 
-<sup>1</sup> Für die Datensicherheit gelten die Verordnung vom 14. Juni 1993[^19-1] zum Bundesgesetz über den Datenschutz und die Bundesinformatikverordnung vom 9. Dezember 2011[^19-2].[^19-3]
+<sup>1</sup>
+
+Für die Datensicherheit gelten:
+
+- a. die Verordnung vom 14. Juni 1993[^19-1] zum Bundesgesetz über den Datenschutz;
+- b. die Cyberrisikenverordnung vom 27. Mai 2020[^19-2].[^19-3]
 
 <sup>2</sup> Das Bundesamt für Polizei (fedpol) regelt in einem Datenbearbeitungsreglement die organisatorischen und technischen Massnahmen, die unbefugtes Bearbeiten der Daten verhindern und die automatische Protokollierung der Datenbearbeitung sicherstellen.[^19-4]
 
 [^19-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^19-3]: Fassung gemäss Ziff. I der V vom 16. Okt. 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^19-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-3]: Fassung gemäss Anhang Ziff. 38 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^19-4]: Fassung gemäss Ziff. I 20 der V vom 15. Okt. 2008 über die Anpassungen an das Bundesgesetz über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
@@ -522,7 +527,7 @@ Die Personendaten werden den Aufsichtsbehörden des Bundes und der Kantone sowie
 Die Ablieferung von Daten und Unterlagen der Meldestelle an das Bundesarchiv richtet sich nach dem Archivierungsgesetz vom 26. Juni 1998[^29-1] und nach seinen Ausführungsvorschriften[^29-2].
 
 [^29-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
-[^29-2]: [SR 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371)**/.21**
+[^29-2]: [SR 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371)**/152.12/152.13/152.21**
 
 ## 7. Kapitel: Schlussbestimmungen
 
@@ -772,8 +777,6 @@ Anhang 1*[^t-1]*
   - j. Registrierungsnummer
   - k. Identifikationsnummer
   - l. Kommentar betreffend die Abklärungen nach Artikel 19 GwV
-
-- [tab]
 
 Anhang 2*[^t-2]*
 

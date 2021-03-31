@@ -4,11 +4,11 @@ title: "Ordonnance du 25 août 2004 sur le Bureau de communication en matière d
 short: OBCBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: fr
-version: 2020-01-01
+version: 2021-04-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-626-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-626-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20200101/fr"
 
 (OBCBA)
 
-du 25 août 2004 (Etat le 1<sup>er</sup> janvier 2020)
+du 25 août 2004 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -89,13 +89,11 @@ Pour accomplir ses tâches:
 
 **Provenance des données traitées**[^2-1]
 
-**Art. 3***[^2-2]*Analyse des communications
+Le bureau traite les communications et les informations:[^2-2]
 
-Le bureau traite les communications et les informations:[^2-3]
-
-- a.[^2-4] selon les art. 9, al. 1, et 11*a* LBA de même que l’art. 305<sup>ter</sup>, al. 2, du code pénal (CP)[^2-5], lorsqu’elles émanent d’intermédiaires financiers;
+- a.[^2-3] selon les art. 9, al. 1, et 11*a* LBA de même que l’art. 305<sup>ter</sup>, al. 2, du code pénal (CP)[^2-4], lorsqu’elles émanent d’intermédiaires financiers;
 - b. selon l’art. 27, al. 4, LBA, lorsqu’elles émanent d’organismes d’autorégulation;
-- c.[^2-6]
+- c.[^2-5]
 
   selon l’art. 16, al. 1, LBA, lorsqu’elles émanent:
 
@@ -104,38 +102,43 @@ Le bureau traite les communications et les informations:[^2-3]
   - 3\. de la CFMJ,
   - 4\. de l’autorité intercantonale;
 
-- d.[^2-7] selon les art. 9, al. 1<sup>bis</sup>, et 15, al. 5, LBA, lorsqu’elles émanent de négociants ainsi que de leurs organes de révision;
-- e.[^2-8] selon l’art. 7, al 1 et 2, LVP[^2-9].
+- d.[^2-6] selon les art. 9, al. 1<sup>bis</sup>, et 15, al. 5, LBA, lorsqu’elles émanent de négociants ainsi que de leurs organes de révision;
+- e.[^2-7] selon l’art. 7, al 1 et 2, LVP[^2-8].
+
+[^2-1]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^2-3]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^2-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^2-6]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^2-7]: Introduite par le ch. I de l’O du 25 mai 2016 ([RO 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)). Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^2-8]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+
+#### Art. 3
+
+**Analyse des communications**[^3-1]
 
 <sup>1</sup>
 
 Les communications au sens de l’art. 2, let. a à c, doivent indiquer:
 
 - a. le nom de l’intermédiaire financier, de l’autorité ou de l’organisme auteur de la communication, et pour chacun d’eux un numéro de téléphone qui permette de joindre directement la personne compétente;
-- b. l’autorité ou l’organisme selon l’art. 12 LBA ou 43*a* de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^2-10] qui exerce la surveillance sur l’intermédiaire financier;
+- b. l’autorité ou l’organisme selon l’art. 12 LBA ou 43*a* de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^3-2] qui exerce la surveillance sur l’intermédiaire financier;
 - c. les données permettant d’identifier le client de l’intermédiaire financier selon l’art. 3 LBA;
 - d. les données permettant d’identifier l’ayant droit économique des fonds selon l’art. 4 LBA;
 - e. les données permettant d’identifier d’autres personnes habilitées à signer ou à représenter le client;
 - f. les valeurs patrimoniales impliquées dans l’affaire au moment de la communication, y compris l’état actuel du compte;
 - g. une description aussi précise que possible de la relation d’affaires, y compris de son objet et de son but, ainsi que le numéro et la date d’ouverture de la relation d’affaires concernée;
-- h. une description et une documentation aussi précises que possible des soupçons sur lesquels se base la communication, y compris les extraits de comptes et les pièces justificatives détaillées démontrant les transactions suspectes, d’éventuels liens avec d’autres relations d’affaires visées à l’art. 9 LBA et à l’art. 305<sup>ter</sup>, al. 2, CP[^2-11], ainsi que le résultat des clarifications visées à l’art. 6 LBA.
+- h. une description et une documentation aussi précises que possible des soupçons sur lesquels se base la communication, y compris les extraits de comptes et les pièces justificatives détaillées démontrant les transactions suspectes, d’éventuels liens avec d’autres relations d’affaires visées à l’art. 9 LBA et à l’art. 305<sup>ter</sup>, al. 2, CP[^3-3], ainsi que le résultat des clarifications visées à l’art. 6 LBA.
 
 <sup>2</sup> Les communications au sens de l’art. 2, let. d, doivent contenir par analogie au moins les indications visées à l’al. 1, let. a, c à e et h.
 
-<sup>3</sup> Si les personnes et les institutions qui effectuent une communication en vertu de l’art. 7, al. 1 et 2, LVP[^2-12] ne sont pas des intermédiaires financiers au sens de la LBA, leur communication doit contenir au moins les informations visées à l’al. 1, let. f, dans la mesure où elles leur sont connues.
+<sup>3</sup> Si les personnes et les institutions qui effectuent une communication en vertu de l’art. 7, al. 1 et 2, LVP[^3-4] ne sont pas des intermédiaires financiers au sens de la LBA, leur communication doit contenir au moins les informations visées à l’al. 1, let. f, dans la mesure où elles leur sont connues.
 
-[^2-1]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
-[^2-4]: Nouvelle teneur selon l’annexe 2 ch. II 3 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^2-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-6]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-7]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-8]: Introduite par le ch. I de l’O du 25 mai 2016 ([RO 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)). Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-9]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
-[^2-10]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^2-11]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-12]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^3-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^3-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-4]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
 
 #### Art. 3a
 
@@ -408,13 +411,18 @@ Le système d’information sert à:
 
 **Sécurité des données et journalisation**
 
-<sup>1</sup> La sécurité des données est régie par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^19-1] et l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^19-2].[^19-3]
+<sup>1</sup>
+
+La sécurité des données est régie par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^19-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^19-2].[^19-3]
 
 <sup>2</sup> L’Office fédéral de la police (fedpol) fixe, dans un règlement sur le traitement des données, les mesures organisationnelles et techniques à prendre pour éviter le traitement non autorisé des données et pour assurer la journalisation automatique du traitement des données.[^19-4]
 
 [^19-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^19-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^19-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-3]: Nouvelle teneur selon l’annexe ch. 38 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 [^19-4]: Nouvelle teneur selon le ch. I 20 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 20
@@ -511,7 +519,7 @@ Les données personnelles sont transmises sur requête aux autorités de surveil
 La remise des données et des documents du bureau aux Archives fédérale est régie par la loi fédérale du 26 juin 1998 sur l’archivage[^29-1] et ses ordonnances d’exécution[^29-2].
 
 [^29-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
-[^29-2]: [RS 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371)/.**21**
+[^29-2]: [RS 152.11](https://fedlex.data.admin.ch/eli/cc/1999/371), [152.12](https://fedlex.data.admin.ch/eli/cc/2006/186), [152.13](https://fedlex.data.admin.ch/eli/cc/2011/209), [152.21](https://fedlex.data.admin.ch/eli/cc/1999/460)
 
 ## Chapitre 7 Dispositions finales
 
