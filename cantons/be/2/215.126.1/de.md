@@ -4,13 +4,13 @@ number: "215.126.1"
 title: Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland
 short: EG BewG
 language: de
-version: 2010-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-03-23
+version: 2021-04-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-17
 adopted: 1988-09-25
 in_force: 1988-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.126.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/893/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2163/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/893/pdf_file"
 
 (EG BewG)
 
-vom 25.09.1988 (Stand 01.01.2010)
+vom 25.09.1988 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -39,7 +39,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsstatthalter des Verwaltungskreises, in welchem das Grundstück oder der grössere Teil der Grundstücke liegt, ist Bewilligungsbehörde im Sinn von Artikel 15 Absatz 1 Buchstabe a BewG[^1-1].
 
-<sup>2</sup> Bei Kompetenzkonflikten zwischen Regierungsstatthaltern entscheidet die Volkswirtschaftsdirektion.
+<sup>2</sup> Bei Kompetenzkonflikten zwischen Regierungsstatthaltern entscheidet die Wirtschafts-, Energie- und Umweltdirektion.
 
 [^1-1]: SR 211.412.41
 
@@ -47,9 +47,9 @@ beschliesst:
 
 **Beschwerdeberechtigte Behörde**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ist beschwerdeberechtigte Behörde im Sinn von Artikel 15 Absatz 1 Buchstabe b BewG[^2-1].
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ist beschwerdeberechtigte Behörde im Sinn von Artikel 15 Absatz 1 Buchstabe b BewG[^2-1].
 
-[^2-1]: SR 211.412.41
+[^2-1]: SR [211.412.41](https://db.clex.ch/link/Bund/211.412.41/de)
 
 #### Art. 3
 
@@ -96,11 +96,11 @@ beschliesst:
 
 **Fremdenverkehrsgemeinden**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion bestimmt auf Antrag des Gemeinderats kantonal letztinstanzlich die Fremdenverkehrsgemeinden im Sinn von Artikel 9 Absatz 3 BewG[^7-1].
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion bestimmt auf Antrag des Gemeinderats kantonal letztinstanzlich die Fremdenverkehrsgemeinden im Sinn von Artikel 9 Absatz 3 BewG[^7-1].
 
-<sup>2</sup> Sie hört die Bau-, Verkehrs- und Energiedirektion an und holt die Genehmigung des Bundesrats ein.
+<sup>2</sup> Sie hört die Bau- und Verkehrsdirektion an und holt die Genehmigung des Bundesrats ein.
 
-[^7-1]: SR 211.412.41
+[^7-1]: SR [211.412.41](https://db.clex.ch/link/Bund/211.412.41/de)
 
 #### Art. 8
 
@@ -118,7 +118,7 @@ beschliesst:
 
 <sup>1</sup> Die Fremdenverkehrsgemeinden können durch Beschluss der Stimmberechtigten die in Artikel 13 Absatz 1 BewG[^9-1] festgehaltenen Einschränkungen einführen, namentlich eine befristete Bewilligungssperre für den Erwerb von Ferienwohnungen und Wohneinheiten in einem Apparthotel beschliessen.
 
-<sup>2</sup> Die Beschlüsse der Stimmberechtigten sind der zuständigen Stelle der Volkswirtschaftsdirektion mitzuteilen.
+<sup>2</sup> Die Beschlüsse der Stimmberechtigten sind der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion mitzuteilen.
 
 <sup>3</sup> Für den Erwerb von Ferienwohnungen sowie von Wohneinheiten in Apparthotels gilt eine vorsorgliche Bewilligungssperre, solange
 
@@ -143,7 +143,7 @@ beschliesst:
 
 **Kontingentszuteilung**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ist für die Zuteilung des kantonalen Kontingents zuständig.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ist für die Zuteilung des kantonalen Kontingents zuständig.
 
 <sup>2</sup> Das Jahreskontingent darf bis Mitte des laufenden Jahrs höchstens zu 60 Prozent ausgeschöpft werden.
 
@@ -185,7 +185,7 @@ beschliesst:
 <sup>2</sup> Er hat einen Mitbericht bzw. Vorentscheid einzuholen:
 
 - a bei der Gemeindebehörde am Ort der gelegenen Sache,
-- b bei der zuständigen Stelle der Volkswirtschaftsdirektion , sofern das kantonale Bewilligungskontingent beansprucht werden soll,
+- b bei der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion, sofern das kantonale Bewilligungskontingent beansprucht werden soll,
 - c bei andern eidgenössischen und kantonalen Amtsstellen, sofern dies im BewG[^14-1] oder in der dazugehörigen Verordnung vorgeschrieben ist.
 
 <sup>3</sup> Er ist befugt, von weitern Amtsstellen Mitberichte einzuholen.
@@ -194,11 +194,13 @@ beschliesst:
 
 #### Art. 15
 
-<sup>1</sup> Das Grundbuchamt überweist dem Regierungsstatthalter zuhanden des Bundesamtes für Justiz die Formulare gemäss der Verordnung über den Erwerb von Grundstücken durch Personen im Ausland (BewV).[^15-1]
+**Statistik**
 
-<sup>2</sup> Der Regierungsstatthalter meldet der zuständigen Stelle der Volkswirtschaftsdirektion bis Ende Januar die jährlichen statistischen Angaben.
+<sup>1</sup> Das Grundbuchamt überweist dem Regierungsstatthalter zuhanden des Bundesamtes für Justiz die Formulare gemäss der eidgenössischen Verordnung vom 1. Oktober 1984 über den Erwerb von Grundstücken durch Personen im Ausland (BewV)[^15-1].
 
-[^15-1]: SR 211.412.411
+<sup>2</sup> Der Regierungsstatthalter meldet der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion bis Ende Januar die jährlichen statistischen Angaben.
+
+[^15-1]: SR [211.412.411](https://db.clex.ch/link/Bund/211.412.411/de)
 
 #### Art. 16
 

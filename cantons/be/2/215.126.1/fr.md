@@ -4,13 +4,13 @@ number: "215.126.1"
 title: "Loi portant introduction à la loi fédérale du 16 décembre 1983 sur l'acquisition d'immeubles par des personnes à l'étranger"
 short: Li LFAIE
 language: fr
-version: 2010-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-03-23
+version: 2021-04-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-17
 adopted: 1988-09-25
 in_force: 1988-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.126.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/893/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2163/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/893/pdf_file"
 
 (Li LFAIE)
 
-du 25.09.1988 (état au 01.01.2010)
+du 25.09.1988 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -39,7 +39,7 @@ arrête:
 
 <sup>1</sup> Le préfet dont l’arrondissement administratif constitue le lieu de situation d'un immeuble ou de la majeure partie de plusieurs immeubles est l'autorité de première instance au sens de l'article 15, 1<sup>er</sup> alinéa, lettre a LFAIE[^1-1].
 
-<sup>2</sup> La Direction de l'économie publique tranche les conflits de compétence qui opposent les préfets.
+<sup>2</sup> La Direction de l’économie, de l’énergie et de l’environnement tranche les conflits de compétence qui opposent les préfets.
 
 [^1-1]: RS 211.412.41
 
@@ -47,9 +47,9 @@ arrête:
 
 **Autorité habilitée à recourir**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique est l'autorité habilitée à recourir au sens de l'article 15, 1<sup>er</sup> alinéa, lettre b LFAIE [^2-1].
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement est l'autorité habilitée à recourir au sens de l'article 15, 1<sup>er</sup> alinéa, lettre b LFAIE[^2-1].
 
-[^2-1]: RS 211.412.41
+[^2-1]: RS [211.412.41](https://db.clex.ch/link/Bund/211.412.41/fr)
 
 #### Art. 3
 
@@ -98,9 +98,9 @@ arrête:
 
 **Communes à vocation touristique**
 
-<sup>1</sup> La Direction de l'économie publique, sur la proposition du conseil communal, détermine en qualité de dernière instance cantonale quelles sont les communes à vocation touristique au sens de l'article 9, 3<sup>e</sup> alinéa LFAIE.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement, sur la proposition du conseil communal, détermine en qualité de dernière instance cantonale quelles sont les communes à vocation touristique au sens de l'article 9, 3<sup>e</sup> alinéa LFAIE.
 
-<sup>2</sup> Elle consulte la Direction des travaux publics, des transports et de l’énergie et demande l’approbation du Conseil fédéral.
+<sup>2</sup> Elle consulte la Direction des travaux publics et des transports et demande l’approbation du Conseil fédéral.
 
 #### Art. 8
 
@@ -108,7 +108,7 @@ arrête:
 
 <sup>1</sup> La liste des communes à vocation touristique est publiée dans le bulletin des lois.
 
-<sup>2</sup> Elle est en outre publiée une fois par an dans les Feuilles officielles cantonales.
+<sup>2</sup> Elle est en outre publiée une fois par an dans la Feuille officielle cantonale.
 
 <sup>3</sup> Les communes qui ont introduit le blocage des autorisations seront mentionnées de façon distincte.
 
@@ -118,7 +118,7 @@ arrête:
 
 <sup>1</sup> Les communes à vocation touristique peuvent introduire par décision du corps électoral les restrictions prévues à l'article 13, 1<sup>er</sup> alinéa LFAIE[^9-1], notamment un blocage provisoire des autorisations d'acquisition de logements de vacances et d'appartements dans un apparthôtel.
 
-<sup>2</sup> Les décisions du corps électoral doivent être communiquées au service compétent de la Direction de l'économie publique.
+<sup>2</sup> Les décisions du corps électoral doivent être communiquées au service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> L'acquisition de logements de vacances ainsi que d'appartements dans des apparthôtels reste soumise à titre préventif à un blocage des autorisations tant que
 
@@ -143,7 +143,7 @@ arrête:
 
 **Attribution du contingent**
 
-<sup>1</sup> L'attribution du contingent cantonal relève de la compétence du service compétent de la Direction de l'économie publique.
+<sup>1</sup> L'attribution du contingent cantonal relève de la compétence du service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> 60 pour cent au maximum du contingent annuel peut être utilisé dans la première moitié de l'année en cours.
 
@@ -185,7 +185,7 @@ arrête:
 <sup>2</sup> Il doit demander un corapport ou une décision préalable auprès
 
 - a de l'autorité communale du lieu de situation de l'immeuble,
-- b du service compétent de la Direction de l'économie publique, dans la mesure où il doit être fait recours au contingent cantonal d'autorisations,
+- b du service compétent de la Direction de l’économie, de l’énergie et de l’environnement, dans la mesure où il doit être fait recours au contingent cantonal d'autorisations,
 - c d'autres offices cantonaux et fédéraux, conformément aux dispositions de la LFAIE[^14-1] ou de l'ordonnance y relative, pour autant que celles-ci le prescrivent.
 
 <sup>3</sup> Il est habilité à demander des corapports à d'autres offices.
@@ -196,11 +196,11 @@ arrête:
 
 **Statistique, communications**
 
-<sup>1</sup> Le bureau du registre foncier transmet les formules au préfet à l'intention de l'Office fédéral de la justice, conformément à l'ordonnance sur l'acquisition d'immeubles par des personnes à l'étranger[^15-1].
+<sup>1</sup> Le bureau du registre foncier transmet les formules au préfet à l'intention de l'Office fédéral de la justice, conformément à l'ordonnance fédérale du 1<sup>er</sup> octobre 1984 sur l'acquisition d'immeubles par des personnes à l'étranger (OAIE)[^15-1].
 
-<sup>2</sup> Le préfet communique au service compétent de la Direction de l'économie publique les données statistiques annuelles avant la fin du mois de janvier.
+<sup>2</sup> Le préfet communique au service compétent de la Direction de l’économie, de l’énergie et de l’environnement les données statistiques annuelles avant la fin du mois de janvier.
 
-[^15-1]: RS 211.412.411
+[^15-1]: RS [211.412.411](https://db.clex.ch/link/Bund/211.412.411/fr)
 
 #### Art. 16
 
