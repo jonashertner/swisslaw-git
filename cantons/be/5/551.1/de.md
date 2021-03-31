@@ -4,13 +4,13 @@ number: "551.1"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-02-10
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-24
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1958/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2231/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1958/pdf_file"
 
 (PolG)
 
-vom 10.02.2019 (Stand 01.01.2020)
+vom 10.02.2019 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -204,7 +204,7 @@ beschliesst:
 
 **Kantonale Fachstelle zur Bekämpfung häuslicher Gewalt**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion trifft Massnahmen gegen häusliche Gewalt, indem sie
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion trifft Massnahmen gegen häusliche Gewalt, indem sie
 
 - a die Zusammenarbeit der mit häuslicher Gewalt befassten Behörden und Fachpersonen koordiniert und fördert,
 - b Informations- und Präventionsarbeit leistet und
@@ -218,11 +218,11 @@ beschliesst:
 
 **Kantonale Aufsichtsbehörde im Bereich des Staatsschutzes**
 
-<sup>1</sup> Die Polizei- und Militärdirektorin oder der Polizei- und Militärdirektor übt im Rahmen des Bundesrechts die Aufsicht über die Tätigkeiten der Kantonspolizei gemäss Artikel 9 Absatz 1 Buchstabe g aus.
+<sup>1</sup> Die Sicherheitsdirektorin oder der Sicherheitsdirektor übt im Rahmen des Bundesrechts die Aufsicht über die Tätigkeiten der Kantonspolizei gemäss Artikel 9 Absatz 1 Buchstabe g aus.
 
-<sup>2</sup> Die Polizei- und Militärdirektion verfügt über eine interne Stabsstelle, welche die Polizei- und Militärdirektorin oder den Polizei- und Militärdirektor bei der Wahrnehmung seiner Dienstaufsicht über das kantonale Staatsschutzvollzugsorgan unterstützt, namentlich bei der Überprüfung der Rechtmässigkeit und Angemessenheit, der Zweckmässigkeit sowie der Wirksamkeit der Aktivitäten des kantonalen Staatsschutzvollzugsorgans.
+<sup>2</sup> Die Sicherheitsdirektion verfügt über eine interne Stabsstelle, welche die Sicherheitsdirektorin oder den Sicherheitsdirektor bei der Wahrnehmung seiner Dienstaufsicht über das kantonale Staatsschutzvollzugsorgan unterstützt, namentlich bei der Überprüfung der Rechtmässigkeit und Angemessenheit, der Zweckmässigkeit sowie der Wirksamkeit der Aktivitäten des kantonalen Staatsschutzvollzugsorgans.
 
-<sup>3</sup> Die Polizei- und Militärdirektorin oder der Polizei- und Militärdirektor orientiert den Regierungsrat mindestens einmal pro Jahr über die Aktivitäten des kantonalen Staatsschutzvollzugsorgans.
+<sup>3</sup> Die Sicherheitsdirektorin oder der Sicherheitsdirektor orientiert den Regierungsrat mindestens einmal pro Jahr über die Aktivitäten des kantonalen Staatsschutzvollzugsorgans.
 
 <sup>4</sup> Sie oder er erstattet der parlamentarischen Oberaufsicht einmal pro Jahr schriftlich Bericht über die Aktivitäten des kantonalen Staatsschutzvollzugsorgans und über ihre oder seine Wahrnehmung im Rahmen der Dienstaufsicht.
 
@@ -297,7 +297,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden können Leistungen bei der Kantonspolizei einkaufen.
 
-<sup>2</sup> Zu diesem Zweck schliessen sie mit dem Kanton, handelnd durch die Polizei- und Militärdirektion, einen Ressourcen- oder einen Brennpunktvertrag ab.
+<sup>2</sup> Zu diesem Zweck schliessen sie mit dem Kanton, handelnd durch die Sicherheitsdirektion, einen Ressourcen- oder einen Brennpunktvertrag ab.
 
 <sup>3</sup> Sie haben der Kantonspolizei die von ihnen bestellten Leistungen abzugelten.
 
@@ -305,7 +305,7 @@ beschliesst:
 
 **Regionalisierung**
 
-<sup>1</sup> Die Gemeinden können mit der Polizei- und Militärdirektion die gemeinsame Erfüllung von Aufgaben gemäss Artikel 22 vereinbaren, wenn ein räumlich-sachlicher Zusammenhang besteht und dadurch der operative Polizeibetrieb nicht erschwert wird.
+<sup>1</sup> Die Gemeinden können mit der Sicherheitsdirektion die gemeinsame Erfüllung von Aufgaben gemäss Artikel 22 vereinbaren, wenn ein räumlich-sachlicher Zusammenhang besteht und dadurch der operative Polizeibetrieb nicht erschwert wird.
 
 <sup>2</sup> Sie bezeichnen das Organ, das die aus dem Vertrag fliessenden Zuständigkeiten gegenüber dem Kanton wahrnimmt.
 
@@ -313,7 +313,7 @@ beschliesst:
 
 **Vertragsabschluss**
 
-<sup>1</sup> Die Polizei- und Militärdirektion ist im Rahmen der verfügbaren Personalressourcen verpflichtet, Verträge abzuschliessen, sofern gegen die Vertragsschliessung keine objektiven und von der Kantonspolizei nicht zu vertretenden Gründe vorliegen.
+<sup>1</sup> Die Sicherheitsdirektion ist im Rahmen der verfügbaren Personalressourcen verpflichtet, Verträge abzuschliessen, sofern gegen die Vertragsschliessung keine objektiven und von der Kantonspolizei nicht zu vertretenden Gründe vorliegen.
 
 ### 4.2.2 Ressourcenvertrag
 
@@ -359,7 +359,7 @@ beschliesst:
 
 <sup>2</sup> Der kostendeckende Stundenansatz beträgt 105.20 Franken pro Stunde und wird jährlich an die Entwicklung der Gehälter des Kantonspersonals angepasst.
 
-<sup>3</sup> Die Polizei- und Militärdirektion veröffentlicht den jeweils aktuellen Stundenansatz.
+<sup>3</sup> Die Sicherheitsdirektion veröffentlicht den jeweils aktuellen Stundenansatz.
 
 #### Art. 29
 
@@ -407,7 +407,7 @@ beschliesst:
 
 **Ruhender Verkehr**
 
-<sup>1</sup> Die Polizei- und Militärdirektion überträgt die Überwachung des ruhenden Verkehrs mit Bussenerhebung und entsprechender Anzeige an die Gemeinden, wenn sie dies beantragen und die Voraussetzungen gemäss Artikel 38 erfüllt sind.
+<sup>1</sup> Die Sicherheitsdirektion überträgt die Überwachung des ruhenden Verkehrs mit Bussenerhebung und entsprechender Anzeige an die Gemeinden, wenn sie dies beantragen und die Voraussetzungen gemäss Artikel 38 erfüllt sind.
 
 #### Art. 35
 
@@ -431,7 +431,7 @@ beschliesst:
 
 **Migration und Gewerbepolizei**
 
-<sup>1</sup> Die Polizei- und Militärdirektion kann die Erfüllung einzelner Aufgaben nach Kapitel 3 dieses Gesetzes in den Bereichen Migration und Gewerbepolizei durch Vertrag an die Gemeinden übertragen.
+<sup>1</sup> Die Sicherheitsdirektion kann die Erfüllung einzelner Aufgaben nach Kapitel 3 dieses Gesetzes in den Bereichen Migration und Gewerbepolizei durch Vertrag an die Gemeinden übertragen.
 
 #### Art. 38
 
@@ -439,7 +439,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat regelt die Voraussetzungen für die Aufgabenübertragung gemäss Artikel 34 bis 37, insbesondere die adäquate Aus- und Weiterbildung, durch Verordnung.
 
-<sup>2</sup> Er kann die Polizei- und Militärdirektion für die Festlegung gewisser Einzelheiten durch Direktionsverordnung für zuständig erklären.
+<sup>2</sup> Er kann die Sicherheitsdirektion für die Festlegung gewisser Einzelheiten durch Direktionsverordnung für zuständig erklären.
 
 #### Art. 39
 
@@ -451,7 +451,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Polizei- und Militärdirektion beaufsichtigt den Vollzug der an die Gemeinden übertragenen Aufgaben und kann fachliche Weisungen erlassen.
+<sup>1</sup> Die Sicherheitsdirektion beaufsichtigt den Vollzug der an die Gemeinden übertragenen Aufgaben und kann fachliche Weisungen erlassen.
 
 <sup>2</sup> Sie kann diese Kompetenzen an die Kantonspolizei übertragen.
 
@@ -459,7 +459,7 @@ beschliesst:
 
 **Widerruf**
 
-<sup>1</sup> Die Polizei- und Militärdirektion kann die Aufgabenübertragung widerrufen, wenn die Gemeinden die Voraussetzungen gemäss Artikel 34 bis 38 nicht mehr erfüllen.
+<sup>1</sup> Die Sicherheitsdirektion kann die Aufgabenübertragung widerrufen, wenn die Gemeinden die Voraussetzungen gemäss Artikel 34 bis 38 nicht mehr erfüllen.
 
 ### 4.2.5 Differenzbereinigung
 
@@ -471,11 +471,11 @@ beschliesst:
 
 <sup>2</sup> Erscheint der Leistungseinkauf einer Kernstadt im Verhältnis zu den von der Kantonspolizei erbrachten Interventionsleistungen in missbräuchlicher Art ungenügend, findet unter Leitung der Regierungsstatthalterin oder des Regierungsstatthalters ein Schlichtungsgespräch in Anwesenheit der Polizeikommandantin oder des Polizeikommandanten und weiterer geeigneter Personen statt.
 
-<sup>3</sup> Kommen die Schlichtungsverhandlungen zu keinem Ergebnis, setzt die Polizei- und Militärdirektion die von der Kernstadt zu entrichtende Abgeltung durch Verfügung fest.
+<sup>3</sup> Kommen die Schlichtungsverhandlungen zu keinem Ergebnis, setzt die Sicherheitsdirektion die von der Kernstadt zu entrichtende Abgeltung durch Verfügung fest.
 
-<sup>4</sup> Verbleiben im Zusammenhang mit einem abgeschlossenen Vertrag Differenzen zwischen der Kantonspolizei und einer Gemeinde, findet ein Schlichtungsgespräch gemäss Absatz 2 statt. Kommt keine Einigung zustande, erlässt die Polizei- und Militärdirektion auf Gesuch hin eine Verfügung.
+<sup>4</sup> Verbleiben im Zusammenhang mit einem abgeschlossenen Vertrag Differenzen zwischen der Kantonspolizei und einer Gemeinde, findet ein Schlichtungsgespräch gemäss Absatz 2 statt. Kommt keine Einigung zustande, erlässt die Sicherheitsdirektion auf Gesuch hin eine Verfügung.
 
-<sup>5</sup> Die Verfügungen der Polizei- und Militärdirektion gemäss Absatz 3 und 4 können beim Verwaltungsgericht angefochten werden. Das Verfahren richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^42-1].
+<sup>5</sup> Die Verfügungen der Sicherheitsdirektion gemäss Absatz 3 und 4 können beim Verwaltungsgericht angefochten werden. Das Verfahren richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^42-1].
 
 [^42-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
@@ -561,7 +561,7 @@ beschliesst:
 
 **Bei Ressourcenverträgen**
 
-<sup>1</sup> Bei Gemeinden, die mit der Polizei- und Militärdirektion einen Ressourcenvertrag abgeschlossen haben, bildet die Abgeltung der Leistungen für Veranstaltungen, insbesondere wiederkehrende, Bestandteil des Vertrags.
+<sup>1</sup> Bei Gemeinden, die mit der Sicherheitsdirektion einen Ressourcenvertrag abgeschlossen haben, bildet die Abgeltung der Leistungen für Veranstaltungen, insbesondere wiederkehrende, Bestandteil des Vertrags.
 
 <sup>2</sup> Davon ausgenommen sind in der Jahresplanung nicht berücksichtigte einmalige Veranstaltungen mit überwiegend kommerziellem Charakter oder überdurchschnittlich grossem polizeilichen Aufwand.
 
@@ -585,7 +585,7 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden haben sich in der Regel angemessen an den Kosten zu beteiligen. Sie sprechen sich ab und bezeichnen eine Ansprechperson.
 
-<sup>3</sup> Die Polizei- und Militärdirektion, die Gemeinden und die Veranstalterin oder der Veranstalter verständigen sich vorgängig über die Verteilung der polizeilichen Kosten.
+<sup>3</sup> Die Sicherheitsdirektion, die Gemeinden und die Veranstalterin oder der Veranstalter verständigen sich vorgängig über die Verteilung der polizeilichen Kosten.
 
 <sup>4</sup> Die Bestimmungen gemäss Artikel 51 und 52 gelten sinngemäss.
 
@@ -639,7 +639,7 @@ beschliesst:
 
 <sup>1</sup> Das Kontaktgremium Sicherheit Kanton-Gemeinden kann Evaluationen, Audits oder Wirtschaftlichkeitsprüfungen durchführen.
 
-<sup>2</sup> Es gibt Empfehlungen zuhanden der Polizei- und Militärdirektion ab.
+<sup>2</sup> Es gibt Empfehlungen zuhanden der Sicherheitsdirektion ab.
 
 #### Art. 60
 
@@ -647,9 +647,9 @@ beschliesst:
 
 <sup>1</sup> Das Kontaktgremium Sicherheit Kanton-Gemeinden besteht aus paritätischen Vertretungen des Kantons und der Gemeinden und zählt höchstens zehn Mitglieder, die vom Regierungsrat ernannt werden.
 
-<sup>2</sup> Es wird von der Polizei- und Militärdirektorin oder vom Polizei- und Militärdirektor geleitet.
+<sup>2</sup> Es wird von der Sicherheitsdirektorin oder vom Sicherheitsdirektor geleitet.
 
-<sup>3</sup> Das Sekretariat ist administrativ der Polizei- und Militärdirektion unterstellt.
+<sup>3</sup> Das Sekretariat ist administrativ der Sicherheitsdirektion unterstellt.
 
 ## 5 Zusammenarbeit zwischen der Kantonspolizei und anderen Behörden sowie Privaten
 
@@ -1346,7 +1346,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Behörde verfügt die Videoüberwachung.
 
-<sup>2</sup> Die Verfügung ist zu veröffentlichen. Sie kann mit Beschwerde bei der Polizei- und Militärdirektion angefochten werden.
+<sup>2</sup> Die Verfügung ist zu veröffentlichen. Sie kann mit Beschwerde bei der Sicherheitsdirektion angefochten werden.
 
 <sup>3</sup> Die zuständige Aufsichtsstelle für Datenschutz kann Beschwerde führen.
 
@@ -1640,7 +1640,7 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch hat den Zweck des Informationsberichts, die gesetzliche Grundlage und die Art der verlangten Informationen zu enthalten.
 
-<sup>3</sup> Im Zweifelsfall entscheidet die Polizei- und Militärdirektion über die Erstellung eines Informationsberichts.
+<sup>3</sup> Im Zweifelsfall entscheidet die Sicherheitsdirektion über die Erstellung eines Informationsberichts.
 
 <sup>4</sup> Sofern das rechtliche Gehör nicht von der ersuchenden Behörde gewährt wird, hat die Kantonspolizei der betroffenen Person Gelegenheit zu einer Stellungnahme zu geben.
 
@@ -1766,9 +1766,9 @@ beschliesst:
 
 #### Art. 163
 
-<sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant und ihre oder seine Stellvertretung werden vom Regierungsrat angestellt. Für die Anstellung der übrigen Mitarbeiterinnen und Mitarbeiter ist die Polizei- und Militärdirektion zuständig.
+<sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant und ihre oder seine Stellvertretung werden vom Regierungsrat angestellt. Für die Anstellung der übrigen Mitarbeiterinnen und Mitarbeiter ist die Sicherheitsdirektion zuständig.
 
-<sup>2</sup> Mitarbeiterinnen und Mitarbeiter der Kantonspolizei mit Polizeistatus werden von der Polizei- und Militärdirektorin bzw. vom Polizei- und Militärdirektor vereidigt. Die Polizeikommandantin oder der Polizeikommandant kann weitere Dienstzweige oder einzelne Mitarbeiterinnen und Mitarbeiter zur Vereidigung bestimmen.
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter der Kantonspolizei mit Polizeistatus werden von der Sicherheitsdirektorin bzw. vom Sicherheitsdirektor vereidigt. Die Polizeikommandantin oder der Polizeikommandant kann weitere Dienstzweige oder einzelne Mitarbeiterinnen und Mitarbeiter zur Vereidigung bestimmen.
 
 <sup>3</sup> Im Rahmen der Vereidigung wird wie folgt ein Eid oder ein Gelübde abgelegt: «Ich schwöre / Ich gelobe die Rechte und Freiheiten aller zu achten, die Verfassung und verfassungsmässigen Gesetze streng zu befolgen und die Pflichten meines Amts getreu und gewissenhaft zu erfüllen.»
 
@@ -1822,7 +1822,7 @@ beschliesst:
 
 <sup>3</sup> Pikettdienst wird grundsätzlich mit einer Zulage entschädigt. Mitarbeiterinnen und Mitarbeiter, die besonders oft Pikettdienst leisten, kann eine Zeitgutschrift gewährt werden, wenn es die Umstände rechtfertigen.
 
-<sup>4</sup> Der Regierungsrat regelt nach den Erfordernissen sowie den Bedürfnissen des polizeilichen Dienstbetriebs vom allgemeinen Personalrecht abweichende Bestimmungen über besondere Leistungen wie Pikett, Spesen, Zulagen und Zeitgutschriften durch Verordnung und trägt dabei den besonderen Belastungen des polizeilichen Dienstbetriebs angemessen Rechnung. Er kann seine Kompetenz an die Polizei- und Militärdirektion übertragen.
+<sup>4</sup> Der Regierungsrat regelt nach den Erfordernissen sowie den Bedürfnissen des polizeilichen Dienstbetriebs vom allgemeinen Personalrecht abweichende Bestimmungen über besondere Leistungen wie Pikett, Spesen, Zulagen und Zeitgutschriften durch Verordnung und trägt dabei den besonderen Belastungen des polizeilichen Dienstbetriebs angemessen Rechnung. Er kann seine Kompetenz an die Sicherheitsdirektion übertragen.
 
 <sup>5</sup> Abweichende Bestimmungen sind insbesondere für folgende Bereiche vorzusehen:
 
@@ -1902,7 +1902,7 @@ beschliesst:
 
 <sup>2</sup> Er regelt insbesondere die Anstellungsvoraussetzungen, wobei er namentlich Ausnahmen von den Erfordernissen des Schweizer Bürgerrechts und einer bestandenen polizeilichen Grundschulung vorsehen kann.
 
-<sup>3</sup> Er kann seine Befugnisse ganz oder teilweise an die Polizei- und Militärdirektion delegieren.
+<sup>3</sup> Er kann seine Befugnisse ganz oder teilweise an die Sicherheitsdirektion delegieren.
 
 ## 11 Haftung
 

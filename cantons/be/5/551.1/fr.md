@@ -4,13 +4,13 @@ number: "551.1"
 title: Loi sur la police
 short: LPol
 language: fr
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-02-10
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-24
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1958/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2231/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1958/pdf_file"
 
 (LPol)
 
-du 10.02.2019 (état au 01.01.2020)
+du 10.02.2019 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -204,7 +204,7 @@ arrête:
 
 **Service cantonal de lutte contre la violence domestique**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires prend des mesures contre la violence domestique par
+<sup>1</sup> Le service compétent de la Direction de la sécurité prend des mesures contre la violence domestique par
 
 - a la coordination et la promotion de la collaboration entre autorités et spécialistes chargés de ces questions,
 - b un travail d'information et de prévention,
@@ -218,11 +218,11 @@ arrête:
 
 **Autorité cantonale de surveillance en matière de protection de l'Etat**
 
-<sup>1</sup> Le directeur ou la directrice de la police et des affaires militaires exerce, dans le cadre du droit fédéral, la surveillance visée à l'article 9, alinéa 1, lettre g sur les activités de la Police cantonale.
+<sup>1</sup> Le directeur ou la directrice de la sécurité exerce, dans le cadre du droit fédéral, la surveillance visée à l'article 9, alinéa 1, lettre g sur les activités de la Police cantonale.
 
-<sup>2</sup> La Direction de la police et des affaires militaires est dotée d'un état-major interne qui soutient le directeur ou la directrice dans l'exercice de sa surveillance hiérarchique sur l'organe d'exécution cantonal de la protection de l'Etat, notamment pour contrôler les activités de cet organe sous l’angle de leur légalité, de leur adéquation, de leur opportunité et de leur efficacité.
+<sup>2</sup> La Direction de la sécurité est dotée d'un état-major interne qui soutient le directeur ou la directrice dans l'exercice de sa surveillance hiérarchique sur l'organe d'exécution cantonal de la protection de l'Etat, notamment pour contrôler les activités de cet organe sous l’angle de leur légalité, de leur adéquation, de leur opportunité et de leur efficacité.
 
-<sup>3</sup> Le directeur ou la directrice de la police et des affaires militaires informe le Conseil-exécutif au moins une fois par an des activités de l'organe d'exécution cantonal de la protection de l'Etat.
+<sup>3</sup> Le directeur ou la directrice de la sécurité informe le Conseil-exécutif au moins une fois par an des activités de l'organe d'exécution cantonal de la protection de l'Etat.
 
 <sup>4</sup> Il ou elle rend compte par écrit à l'autorité de haute surveillance parlementaire une fois par an des activités de l'organe d'exécution cantonal de la protection de l'Etat et de l'exercice de sa surveillance hiérarchique.
 
@@ -297,7 +297,7 @@ arrête:
 
 <sup>1</sup> Les communes peuvent acquérir des prestations auprès de la Police cantonale.
 
-<sup>2</sup> Elles passent à cette fin avec le canton, agissant par la Direction de la police et des affaires militaires, un contrat sur les ressources ou un contrat sur des points sensibles.
+<sup>2</sup> Elles passent à cette fin avec le canton, agissant par la Direction de la sécurité, un contrat sur les ressources ou un contrat sur des points sensibles.
 
 <sup>3</sup> Elles sont tenues d'indemniser la Police cantonale pour les prestations qu'elles lui ont commandées.
 
@@ -305,7 +305,7 @@ arrête:
 
 **Régionalisation**
 
-<sup>1</sup> Les communes peuvent convenir avec la Direction de la police et des affaires militaires de l'exécution commune de tâches relevant de l'article 22, s'il existe un rapport géographique et matériel et que l'exécution des tâches policières n'en est pas entravée.
+<sup>1</sup> Les communes peuvent convenir avec la Direction de la sécurité de l'exécution commune de tâches relevant de l'article 22, s'il existe un rapport géographique et matériel et que l'exécution des tâches policières n'en est pas entravée.
 
 <sup>2</sup> Elles désignent l'organe qui assume envers le canton les compétences découlant du contrat.
 
@@ -313,7 +313,7 @@ arrête:
 
 **Conclusion de contrats**
 
-<sup>1</sup> La Direction de la police et des affaires militaires est tenue, dans le cadre des ressources en personnel disponibles, de conclure des contrats dès lors qu'aucun motif objectif ni invoqué à bon droit par la Police cantonale ne s'y oppose.
+<sup>1</sup> La Direction de la sécurité est tenue, dans le cadre des ressources en personnel disponibles, de conclure des contrats dès lors qu'aucun motif objectif ni invoqué à bon droit par la Police cantonale ne s'y oppose.
 
 ### 4.2.2 Contrat sur les ressources
 
@@ -359,7 +359,7 @@ arrête:
 
 <sup>2</sup> Ce tarif horaire s'élève à 105,20 francs par heure et il est adapté annuellement à la progression des traitements du personnel cantonal.
 
-<sup>3</sup> Le montant actualisé est publié par la Direction de la police et des affaires militaires.
+<sup>3</sup> Le montant actualisé est publié par la Direction de la sécurité.
 
 #### Art. 29
 
@@ -407,7 +407,7 @@ arrête:
 
 **Véhicules en stationnement**
 
-<sup>1</sup> La Direction de la police et des affaires militaires délègue à la commune la surveillance des véhicules en stationnement, y compris la perception d'amendes et les dénonciations pénales, si la commune en fait la demande et que les conditions visées à l'article 38 sont remplies.
+<sup>1</sup> La Direction de la sécurité délègue à la commune la surveillance des véhicules en stationnement, y compris la perception d'amendes et les dénonciations pénales, si la commune en fait la demande et que les conditions visées à l'article 38 sont remplies.
 
 #### Art. 35
 
@@ -431,7 +431,7 @@ arrête:
 
 **Migration et police industrielle**
 
-<sup>1</sup> La Direction de la police et des affaires militaires peut déléguer à la commune par contrat l'accomplissement de tâches prévues au chapitre 3 de la présente loi dans les domaines de la migration et de la police industrielle.
+<sup>1</sup> La Direction de la sécurité peut déléguer à la commune par contrat l'accomplissement de tâches prévues au chapitre 3 de la présente loi dans les domaines de la migration et de la police industrielle.
 
 #### Art. 38
 
@@ -439,7 +439,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif règle par voie d'ordonnance les conditions applicables à la délégation de tâches visée aux articles 34 à 37, notamment les formations et perfectionnements appropriés.
 
-<sup>2</sup> Il peut habiliter la Direction de la police et des affaires militaires à préciser certains détails par voie d'ordonnance de Direction.
+<sup>2</sup> Il peut habiliter la Direction de la sécurité à préciser certains détails par voie d'ordonnance de Direction.
 
 #### Art. 39
 
@@ -451,7 +451,7 @@ arrête:
 
 **Surveillance**
 
-<sup>1</sup> La Direction de la police et des affaires militaires surveille l'accomplissement des tâches déléguées à la commune et peut édicter des instructions techniques.
+<sup>1</sup> La Direction de la sécurité surveille l'accomplissement des tâches déléguées à la commune et peut édicter des instructions techniques.
 
 <sup>2</sup> Elle peut déléguer ces compétences à la Police cantonale.
 
@@ -459,7 +459,7 @@ arrête:
 
 **Révocation**
 
-<sup>1</sup> La Direction de la police et des affaires militaires peut révoquer la délégation si la commune ne remplit plus les conditions prévues aux articles 34 à 38.
+<sup>1</sup> La Direction de la sécurité peut révoquer la délégation si la commune ne remplit plus les conditions prévues aux articles 34 à 38.
 
 ### 4.2.5 Élimination des divergences
 
@@ -471,11 +471,11 @@ arrête:
 
 <sup>2</sup> Si l'acquisition de prestations par une commune ayant une fonction de centre urbain apparaît indûment inférieure aux prestations fournies par la Police cantonale, une séance de conciliation présidée par le préfet ou la préfète a lieu avec le concours du commandant ou de la commandante de cette dernière et d'autres personnes dont la présence est appropriée.
 
-<sup>3</sup> Si la conciliation échoue, la Direction de la police et des affaires militaires rend une décision administrative par laquelle elle fixe l'indemnisation à charge du centre urbain.
+<sup>3</sup> Si la conciliation échoue, la Direction de la sécurité rend une décision administrative par laquelle elle fixe l'indemnisation à charge du centre urbain.
 
-<sup>4</sup> S'il subsiste un désaccord entre la Police cantonale et une commune quant à un contrat conclu, une séance de conciliation au sens de l'alinéa 2 a lieu. Si cette tentative échoue, et sur demande des parties, la Direction de la police et des affaires militaires rend une décision administrative.
+<sup>4</sup> S'il subsiste un désaccord entre la Police cantonale et une commune quant à un contrat conclu, une séance de conciliation au sens de l'alinéa 2 a lieu. Si cette tentative échoue, et sur demande des parties, la Direction de la sécurité rend une décision administrative.
 
-<sup>5</sup> Les décisions de la Direction de la police et des affaires militaires selon les alinéas 3 et 4 peuvent faire l'objet d'un recours devant le Tribunal administratif. La procédure est régie par la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^42-1].
+<sup>5</sup> Les décisions de la Direction de la sécurité selon les alinéas 3 et 4 peuvent faire l'objet d'un recours devant le Tribunal administratif. La procédure est régie par la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^42-1].
 
 [^42-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
@@ -561,7 +561,7 @@ arrête:
 
 **Contrats sur les ressources**
 
-<sup>1</sup> Pour les communes ayant conclu un contrat sur les ressources avec la Direction de la police et des affaires militaires, l'indemnisation des prestations policières relatives aux manifestations, en particulier celles qui ont lieu périodiquement, est prévue dans ce contrat.
+<sup>1</sup> Pour les communes ayant conclu un contrat sur les ressources avec la Direction de la sécurité, l'indemnisation des prestations policières relatives aux manifestations, en particulier celles qui ont lieu périodiquement, est prévue dans ce contrat.
 
 <sup>2</sup> En sont exclues les manifestations uniques qui n'ont pas été prises en compte dans la planification annuelle et dont le caractère est essentiellement commercial ou qui exigent un engagement policier supérieur à la moyenne sur le terrain.
 
@@ -585,7 +585,7 @@ arrête:
 
 <sup>2</sup> Les communes sont généralement tenues de participer aux frais de manière appropriée. Elles se concertent et désignent une personne de contact.
 
-<sup>3</sup> La Direction de la police et des affaires militaires, les communes et l'organisateur ou l'organisatrice conviennent préalablement de la répartition des frais de police.
+<sup>3</sup> La Direction de la sécurité, les communes et l'organisateur ou l'organisatrice conviennent préalablement de la répartition des frais de police.
 
 <sup>4</sup> Les dispositions prévues aux articles 51 et 52 sont applicables par analogie.
 
@@ -639,7 +639,7 @@ arrête:
 
 <sup>1</sup> Le groupe sécurité canton-communes peut procéder à des évaluations, à des audits ou au controlling des prestations.
 
-<sup>2</sup> Il émet des recommandations à l'intention de la Direction de la police et des affaires militaires.
+<sup>2</sup> Il émet des recommandations à l'intention de la Direction de la sécurité.
 
 #### Art. 60
 
@@ -647,9 +647,9 @@ arrête:
 
 <sup>1</sup> Le groupe sécurité canton-communes se compose paritairement d'au plus dix représentants ou représentantes du canton et des communes nommés par le Conseil-exécutif.
 
-<sup>2</sup> Il est dirigé par le directeur ou la directrice de la police et des affaires militaires.
+<sup>2</sup> Il est dirigé par le directeur ou la directrice de la sécurité.
 
-<sup>3</sup> Son secrétariat est rattaché administrativement à la Direction de la police et des affaires militaires.
+<sup>3</sup> Son secrétariat est rattaché administrativement à la Direction de la sécurité.
 
 ## 5 Collaboration entre la Police cantonale et d'autres autorités, et avec des personnes privées
 
@@ -1346,7 +1346,7 @@ arrête:
 
 <sup>1</sup> L'autorité compétente ordonne la vidéosurveillance par voie de décision.
 
-<sup>2</sup> La décision doit être publiée. Elle peut être contestée par un recours auprès de la Direction de la police et des affaires militaires.
+<sup>2</sup> La décision doit être publiée. Elle peut être contestée par un recours auprès de la Direction de la sécurité.
 
 <sup>3</sup> L'autorité de surveillance compétente en matière de protection des données a qualité pour recourir.
 
@@ -1640,7 +1640,7 @@ arrête:
 
 <sup>2</sup> La requête expose le but du rapport et la nature des informations demandées et fait état des bases légales.
 
-<sup>3</sup> En cas de doute, la Direction de la police et des affaires militaires décide s'il convient d'établir le rapport demandé.
+<sup>3</sup> En cas de doute, la Direction de la sécurité décide s'il convient d'établir le rapport demandé.
 
 <sup>4</sup> Si le droit d'être entendu n'est pas accordé par l'autorité requérante, la Police cantonale entend la personne concernée.
 
@@ -1766,9 +1766,9 @@ arrête:
 
 #### Art. 163
 
-<sup>1</sup> Le commandant ou la commandante ainsi que la personne assurant sa suppléance sont nommés par le Conseil-exécutif. L'engagement des autres collaborateurs et collaboratrices de la Police cantonale ressortit à la Direction de la police et des affaires militaires.
+<sup>1</sup> Le commandant ou la commandante ainsi que la personne assurant sa suppléance sont nommés par le Conseil-exécutif. L'engagement des autres collaborateurs et collaboratrices de la Police cantonale ressortit à la Direction de la sécurité.
 
-<sup>2</sup> Les collaborateurs et collaboratrices de la Police cantonale qui ont le statut de policier sont assermentés par le directeur ou la directrice de la police et des affaires militaires. Le commandant ou la commandante peut prévoir l'assermentation d'autres services ou l'assermentation de certains collaborateurs et collaboratrices.
+<sup>2</sup> Les collaborateurs et collaboratrices de la Police cantonale qui ont le statut de policier sont assermentés par le directeur ou la directrice de la sécurité. Le commandant ou la commandante peut prévoir l'assermentation d'autres services ou l'assermentation de certains collaborateurs et collaboratrices.
 
 <sup>3</sup> L'assermentation implique un serment ou une promesse solennelle, dont la teneur est la suivante: «Je jure / Je promets de respecter les droits et libertés de chacun, d'observer strictement la Constitution et les lois constitutionnelles, et de remplir fidèlement et consciencieusement les devoirs de ma charge.»
 
@@ -1822,7 +1822,7 @@ arrête:
 
 <sup>3</sup> Le service de piquet est en principe compensé par une allocation. Lorsque les circonstances le justifient, les collaborateurs et collaboratrices fréquemment de piquet peuvent recevoir une bonification en temps.
 
-<sup>4</sup> Le Conseil-exécutif fixe par voie d'ordonnance les dispositions relatives à des prestations particulières telles que le service de piquet, les frais, les allocations et le bonus-temps, lorsqu'elles dérogent au droit ordinaire du personnel; ce faisant, il tient compte de manière appropriée des exigences, des besoins et des contraintes propres au service de police. Il peut déléguer sa compétence à la Direction de la police et des affaires militaires.
+<sup>4</sup> Le Conseil-exécutif fixe par voie d'ordonnance les dispositions relatives à des prestations particulières telles que le service de piquet, les frais, les allocations et le bonus-temps, lorsqu'elles dérogent au droit ordinaire du personnel; ce faisant, il tient compte de manière appropriée des exigences, des besoins et des contraintes propres au service de police. Il peut déléguer sa compétence à la Direction de la sécurité.
 
 <sup>5</sup> Il édicte des dispositions dérogatoires en particulier pour
 
@@ -1902,7 +1902,7 @@ arrête:
 
 <sup>2</sup> Il règle en particulier les conditions d'engagement, et peut notamment prévoir des exceptions à l'obligation d'être titulaire de la nationalité suisse et d'avoir accompli avec succès une formation de base dans une école de police.
 
-<sup>3</sup> Il peut déléguer tout ou partie de ses compétences à la Direction de la police et des affaires militaires.
+<sup>3</sup> Il peut déléguer tout ou partie de ses compétences à la Direction de la sécurité.
 
 ## 11 Responsabilité
 
