@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-04-01
+version: 2021-04-02
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210402/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210402-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210402/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210401/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. April 2021)
+vom 19. Juni 2020 (Stand am 2. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -756,7 +756,7 @@ Anhang 4*[^t-4]*
 - 44\. Covid-19-Immun-Therapeutika
 - 45\. Medizinalgase
 
-### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001
+### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001****
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -1349,7 +1349,7 @@ Anhang 7*[^t-8]*
 
 ## Medizinische Präzisierungen zu Erkrankungen, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen), in Kraft seit 1. März 2021 ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen), in Kraft seit 2. April 2021 ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 
@@ -1450,3 +1450,5 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 ### 9. Nierenerkrankung
 
 - – chronische Niereninsuffizienz ab GFR &lt; 60 ml/min
+
+### 10. Trisomie 21

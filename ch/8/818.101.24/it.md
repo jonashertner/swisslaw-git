@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-04-01
+version: 2021-04-02
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210402/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210402-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210402/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210401/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 1° aprile 2021)
+del 19 giugno 2020 (Stato 2 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -583,13 +583,47 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^27-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020 (Proroga; spese per i test), in vigore dal 14 set. 2020 ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## Capitolo 4*a*:****
+## Capitolo 4*a*:**** Provvedimenti per proteggere i lavoratori particolarmente a rischio
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 apr. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 apr. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
 
 #### Art. 27a
+
+<sup>1</sup> Il datore di lavoro permette ai lavoratori particolarmente a rischio di adempiere da casa i loro obblighi lavorativi. Adotta provvedimenti organizzativi e tecnici idonei a tal fine. Per l’adempimento da casa dei loro obblighi lavorativi disposto in virtù della presente disposizione, ai lavoratori non è dovuta alcuna indennità per spese.
+
+<sup>2</sup> Se non è possibile adempiere da casa gli obblighi lavorativi abituali, il datore di lavoro assegna al lavoratore interessato, in deroga al contratto di lavoro e senza modifica della retribuzione, un lavoro alternativo equivalente che può essere svolto da casa.
+
+<sup>3</sup>
+
+Se, per motivi aziendali, è indispensabile la totale o parziale presenza sul posto di lavoratori particolarmente a rischio, questi ultimi possono essere occupati nella loro attività abituale sul posto se sono adempiute le seguenti condizioni:
+
+- a. la postazione di lavoro è organizzata in modo da evitare qualsiasi contatto stretto con altre persone, in particolare mediante la messa a disposizione di uno spazio individuale o di uno spazio di lavoro chiaramente delimitato; oppure
+- b. nei casi in cui non è sempre possibile evitare un contatto stretto, sono adottati ulteriori provvedimenti di protezione secondo il principio STOP (sostituzione, misure tecniche, misure organizzative, misure di protezione individuale).
+
+<sup>4</sup> Se non è possibile occupare i lavoratori interessati secondo i capoversi 1–3, il datore di lavoro assegna loro, in deroga al contratto di lavoro e senza modifica della retribuzione, un lavoro alternativo equivalente sul posto per il quale sono adempiute le condizioni di cui al capoverso 3 lettere a e b.
+
+<sup>5</sup> Prima di adottare i provvedimenti previsti, il datore di lavoro sente i lavoratori interessati. Documenta per scritto i provvedimenti decisi e li comunica in modo adeguato ai lavoratori.
+
+<sup>6</sup> I lavoratori interessati possono rifiutare un lavoro assegnato loro se il datore di lavoro non adempie le condizioni di cui ai capoversi 1−4 o se, per motivi particolari, considerano troppo elevato il rischio di contagio da coronavirus per sé stessi malgrado i provvedimenti adottati dal datore di lavoro secondo i capoversi 3 e 4. Il datore di lavoro può esigere un certificato medico.
+
+<sup>7</sup> Se non è possibile occupare i lavoratori interessati secondo i capoversi 1−4 oppure se questi rifiutano il lavoro loro assegnato secondo il capoverso 6, il datore di lavoro li esenta dall’obbligo di lavorare con continuazione del pagamento dello stipendio.
+
+<sup>8</sup> I lavoratori attestano la loro condizione di persone particolarmente a rischio mediante un’autodichiarazione. Il datore di lavoro può esigere un certificato medico.
+
+<sup>9</sup> Al diritto all’indennità per perdita di guadagno per il coronavirus si applica l’articolo 2 capoverso 3<sup>quater</sup> dell’ordinanza COVID-19 perdita di guadagno del 20 marzo 2020[^27a-1].
+
+<sup>10</sup> Sono considerate particolarmente a rischio le donne incinte e le persone non vaccinate contro il COVID-19 e che soffrono in particolare delle seguenti patologie: ipertensione arteriosa, diabete, malattie cardiovascolari, malattie croniche delle vie respiratorie, malattie o terapie che indeboliscono il sistema immunitario, cancro, obesità.
+
+<sup>11</sup> Le patologie di cui al capoverso 10 sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva la valutazione clinica del rischio nel singolo caso.
+
+<sup>12</sup> L’UFSP aggiorna costantemente l’allegato 7.
+
+<sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 10 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^27a-2].
+
+[^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
+[^27a-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Capitolo 5: Disposizioni finali
 
@@ -1310,15 +1344,64 @@ Allegato 7*[^t-8]*
 
 ## Precisazioni mediche sulle malattie che rendono le persone interessate particolarmente a rischio
 
-[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 apr. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio), in vigore dal 1° mar. 2021 ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
+[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 apr. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) e del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio), in vigore dal 2 apr. 2021 ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 
-### 1. e 2. ...
+### 1. Ipertensione arteriosa
+
+- – Ipertensione arteriosa con danno agli organi bersaglio
+- – Ipertensione arteriosa resistente alla terapia
+
+### 2. Malattie cardiovascolari
+
+### 2.1 Criteri generali
+
+- – Pazienti con dispnea della classe funzionale NYHA II–IV e NT-pro BNP &gt; 125 pg/ml
+- – Pazienti con almeno due fattori di rischio cardiovascolare (di cui uno è il diabete o l’ipertensione arteriosa)
+- – Ictus cerebrale pregresso e/o vascolopatia sintomatica
+- – Insufficienza renale cronica (stadio 3, GFR &lt; 60 ml/min)
+
+### 2.2 Altri criteri
+
+### 2.2.1 Cardiopatie coronariche
+
+- – Infarto miocardico (STEMI e NSTEMI) negli ultimi dodici mesi
+- – Sindrome coronarica cronica sintomatica, nonostante la terapia farmacologica (indipendentemente da un’eventuale precedente rivascolarizzazione)
+
+### 2.2.2 Malattie delle valvole cardiache
+
+- – Stenosi da moderata a severa o severa e/o rigurgito valvolare, in aggiunta ad almeno un criterio generale
+- – Tutte le sostituzioni valvolari chirurgiche o percutanee, in aggiunta ad almeno un criterio generale
+
+### 2.2.3 Insufficienza cardiaca
+
+- – Pazienti con dispnea della classe funzionale NYHA II–IV o NT-pro BNP &gt; 125 pg/ml, nonostante la terapia farmacologica per tutti i valori LVEF (HFpEF, HFmrEF, HFrEF)
+- – Cardiomiopatie di tutte le eziologie
+- – Ipertensione arteriosa polmonare
+
+### 2.2.4 Aritmie cardiache
+
+- – Fibrillazione atriale con un punteggio CHA2DS2-VASc pari ad almeno 2
+- – Precedente impianto di un pacemaker cardiaco (incl. ICD e/o CRT), in aggiunta a un criterio generale
+
+### 2.2.5 Cardiopatie congenite dell’adulto
+
+- – Cardiopatia congenita dopo valutazione individuale da parte del cardiologo curante
 
 ### 3. Malattie croniche dei polmoni e delle vie respiratorie
 
+- – Malattie polmonari ostruttive croniche allo stadio GOLD II–IV
+- – Enfisema polmonare
+- – Forme di asma bronchiale particolarmente severe e non controllate
 - – Pneumopatie interstiziali / fibrosi polmonare
+- – Cancro attivo ai polmoni
+- – Ipertensione arteriosa polmonare
+- – Malattia vascolare polmonare
+- – Sarcoidosi attiva
+- – Fibrosi cistica
+- – Infezioni polmonari croniche (micobatteriosi atipiche, bronchiectasie ecc.)
+- – Pazienti sottoposti a respirazione artificiale
 - – Malattie che riducono gravemente la capacità polmonare
 
 ### 4. Diabete
@@ -1328,12 +1411,28 @@ Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio pa
 ### 5. Malattie o terapie che indeboliscono il sistema immunitario
 
 - – Immunosoppressione grave (p. es. infezione da HIV con un numero di linfociti T CD4+ &lt; 200/µl)
+- – Neutropenia (&lt; 1000 neutrofili/µl) durante ≥ 1 settimana
+- – Linfocitopenia (&lt; 200 linfociti/µl)
+- – Immunodeficienze ereditarie
 - – Assunzione di medicamenti che sopprimono la risposta immunitaria (p. es. assunzione prolungata di glucocorticoidi (equivalente di prednisolone &gt; 20 mg/giorno), anticorpi monoclonali, citostatici, terapie biologiche ecc.)
+- – Linfomi aggressivi (tutti i tipi)
+- – Leucemia linfatica acuta
+- – Leucemia mieloide acuta
+- – Leucemia promielocitica acuta
+- – Leucemia prolinfocitica a cellule T
+- – Linfomi primari del sistema nervoso centrale
+- – Trapianto di cellule staminali
+- – Amiloidosi (amiloidosi da catene leggere (AL))
+- – Leucemia linfatica cronica
+- – Mieloma multiplo
+- – Anemia falciforme
 - – Trapianto di midollo osseo
 - – Trapianto di organi
 - – Persone in lista d’attesa per un trapianto
 
-### 6. ...
+### 6. Cancro
+
+- – Malattie tumorali in corso di trattamento medico
 
 ### 7. Obesità
 
@@ -1346,3 +1445,5 @@ Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio pa
 ### 9. Nefropatia
 
 - – Insufficienza renale cronica, a partire da GFR &lt; 60 ml/min
+
+### 10. Trisomia 21
