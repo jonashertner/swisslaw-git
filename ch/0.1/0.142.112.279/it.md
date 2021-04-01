@@ -3,26 +3,28 @@ sr: "0.142.112.279"
 title: Accordo del 26 settembre 2014 di cooperazione tra il Consiglio federale svizzero e il Governo della Repubblica del Camerun in materia di migrazione (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/709"
 language: it
-version: 2014-09-26
+version: 2021-04-02
 adopted: 2014-09-26
 in_force: 2014-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/709/20140926/it/xml/fedlex-data-admin-ch-eli-cc-2014-709-20140926-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/709/20140926/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/709/20210402/it/xml/fedlex-data-admin-ch-eli-cc-2014-709-20210402-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/709/20210402/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo di cooperazione tra il Consiglio federale svizzero e il Governo della Repubblica del Camerun in materia di migrazione
 
-Traduzione*[^t-1]*
+Traduzione
 
 Concluso il 26 settembre 2014
 
 Applicato provvisoriamente dalla Svizzera dal 26 settembre 2014
 
-(Stato 26 settembre 2014)
+Entrato in vigore con scambio di note del 19 febbraio/3 marzo 2021 il 2 aprile 2021[^t-1]
 
-[^t-1]: RU **2014** 4313 Dal testo originale francese.
+(Stato 2 aprile 2021)
+
+[^t-1]: RU **2014** 4313 RU **2021** 241
 
 Il Consiglio federale Svizzero e il Governo della Repubblica del Camerun,
 
@@ -268,14 +270,14 @@ Il presente Accordo non pregiudica gli obblighi delle Parti contraenti derivanti
 - – dall’applicazione delle Convenzioni di Vienna del 18 aprile 1961[^19-7] sulle relazioni diplomatiche e del 24 aprile 1963[^19-8] sulle relazioni consolari;
 - – dall’applicazione delle convenzioni internazionali in materia di estradizione.
 
-[^19-1]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^19-2]: [RS 0.142.301](https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148)
-[^19-3]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^19-4]: [RS 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
-[^19-5]: [RS 0.311.541](https://fedlex.data.admin.ch/eli/cc/2006/863)
-[^19-6]: [RS 0.311.542](https://fedlex.data.admin.ch/eli/cc/2006/864)
-[^19-7]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^19-8]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^19-1]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^19-2]: [RS 0.142.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/433)
+[^19-3]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^19-4]: [RS 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
+[^19-5]: [RS 0.311.541](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1309)
+[^19-6]: [RS 0.311.542](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1310)
+[^19-7]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^19-8]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 20
 
@@ -315,7 +317,7 @@ Ogni controversia scaturita dall’interpretazione o dall’attuazione del prese
 
 <sup>2.</sup> Se del caso, le modalità di applicazione del presente Accordo sono precisate da Protocolli o scambi di lettere.
 
-*In fede di che,* i rappresentanti delle Parti contraenti, debitamente autorizzati a tal fine, hanno firmato il presente Accordo. Fatto a Yaoundé, il 26 settembre 2014 in due (2) esemplari originali nelle lingue francese e inglese, entrambi i testi facenti ugualmente fede. Per il Consiglio federale svizzero: Per il Governo della Repubblica del Camerun: Simonetta Sommaruga Adoum Gargoum
+*In fede di che,* i rappresentanti delle Parti contraenti, debitamente autorizzati a tal fine, hanno firmato il presente Accordo. Fatto a Yaoundé, il 26 settembre 2014 in due (2) esemplari originali nelle lingue francese e inglese, entrambi i testi facenti ugualmente fede. Per il Consiglio federale svizzero: Simonetta Sommaruga Per il Governo della Repubblica del Camerun: Adoum Gargoum
 
 Allegato I
 

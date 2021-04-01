@@ -3,11 +3,11 @@ sr: "0.142.112.279"
 title: Accord du 26 septembre 2014 de coopération entre le Conseil fédéral suisse et le Gouvernement de la République du Cameroun en matière de migration (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/709"
 language: fr
-version: 2014-09-26
+version: 2021-04-02
 adopted: 2014-09-26
 in_force: 2014-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/709/20140926/fr/xml/fedlex-data-admin-ch-eli-cc-2014-709-20140926-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/709/20140926/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/709/20210402/fr/xml/fedlex-data-admin-ch-eli-cc-2014-709-20210402-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/709/20210402/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,27 +22,31 @@ Conclu le 26 septembre 2014
 
 Appliqué provisoirement par la Suisse depuis le 26 septembre 2014
 
-(Etat le 26 septembre 2014)
+Entré en vigueur par échange de notes des 19 février et 3 mars 2021 le 2 avril 2021[^t-1]
+
+(État le 2 avril 2021)
+
+[^t-1]: [RO 2021 241](https://fedlex.data.admin.ch/eli/oc/2021/241)
 
 Le Conseil fédéral suisse et le Gouvernement de la République du Cameroun,
 
 ci-après dénommés «les Parties contractantes»;
 
-considérant les excellentes relations d’amitié et de coopération qui existent entre les deux pays;
+considérant les excellentes relations d’amitié et de coopération qui existent entre les deux pays,
 
-désireux de promouvoir un partenariat mutuellement avantageux pour le développement des deux pays;
+désireux de promouvoir un partenariat mutuellement avantageux pour le développement des deux pays,
 
-convaincus que les flux migratoires contribuent au rapprochement entre les peuples et que leur gestion concertée constitue un facteur de développement économique, social et culturel pour les pays concernés;
+convaincus que les flux migratoires contribuent au rapprochement entre les peuples et que leur gestion concertée constitue un facteur de développement économique, social et culturel pour les pays concernés,
 
-désireux d’encourager les relations entre les deux pays par le dialogue, facteur déterminant de prévention et de lutte contre la migration irrégulière et les activités criminelles connexes;
+désireux d’encourager les relations entre les deux pays par le dialogue, facteur déterminant de prévention et de lutte contre la migration irrégulière et les activités criminelles connexes,
 
-reconnaissant que la protection efficace des droits des migrants est l’une des principales composantes de la gestion de la migration, particulièrement la stricte application des dispositions pertinentes des instruments juridiques internationaux relatifs aux droits de l’homme;
+reconnaissant que la protection efficace des droits des migrants est l’une des principales composantes de la gestion de la migration, particulièrement la stricte application des dispositions pertinentes des instruments juridiques internationaux relatifs aux droits de l’homme,
 
-reconnaissant que la lutte contre la migration irrégulière et les retours des personnes ne doivent pas être abordés uniquement sous l’angle de la sécurité, mais qu’ils doivent également se baser sur l’intégration de la migration dans les stratégies de développement;
+reconnaissant que la lutte contre la migration irrégulière et les retours des personnes ne doivent pas être abordés uniquement sous l’angle de la sécurité, mais qu’ils doivent également se baser sur l’intégration de la migration dans les stratégies de développement,
 
-soucieux d’encourager le retour volontaire dans la dignité, de faciliter la réinstallation et la réintégration des ressortissants retournant volontairement dans leur pays d’origine;
+soucieux d’encourager le retour volontaire dans la dignité, de faciliter la réinstallation et la réintégration des ressortissants retournant volontairement dans leur pays d’origine,
 
-mus par la volonté d’appliquer, dans l’intérêt des migrants et dans l’intérêt commun, les règles régissant la circulation et le séjour des personnes entre les Parties contractantes;
+mus par la volonté d’appliquer, dans l’intérêt des migrants et dans l’intérêt commun, les règles régissant la circulation et le séjour des personnes entre les Parties contractantes,
 
 sont convenus de ce qui suit:
 
@@ -117,7 +121,7 @@ La demande de réadmission d’un ressortissant d’une Partie contractante, pr�
 
 <sup>2.</sup> Lorsque la nationalité de la personne concernée est présumée sur la base des éléments mentionnés au par. 2 de l’Annexe I du présent Accord, la représentation diplomatique ou consulaire de la Partie contractante requise procède à l’audition de la personne concernée, en collaboration avec les services compétents de la Partie contractante requérante, conformément aux dispositions de l’art. 6, par. 3 ci-dessus.
 
-<sup>3.</sup> A l’issue de l’audition, un procès-verbal est établi et signé par un représentant de la Partie contractante requise.
+<sup>3.</sup> À l’issue de l’audition, un procès-verbal est établi et signé par un représentant de la Partie contractante requise.
 
 <sup>4.</sup> S’il est établi que la personne concernée est de la nationalité de la Partie contractante requise, le document de voyage nécessaire (laissez-passer) est délivré dans les plus brefs délais possibles, sur demande de l’autorité compétente de la Partie contractante requérante, par la représentation diplomatique ou consulaire.
 
@@ -212,13 +216,13 @@ Les informations relatives aux données personnelles des ressortissants des Part
 
 #### Art. 16
 
-**Echange des données personnelles**
+**Échange des données personnelles**
 
 Les données personnelles échangées en exécution du présent Accord sont traitées et protégées conformément notamment aux règles suivantes:
 
 - – la Partie contractante requise n’utilise les données personnelles communiquées qu’aux fins prévues par le présent Accord;
 - – chacune des Parties contractantes informe, à sa demande, l’autre Partie contractante sur l’utilisation des données personnelles communiquées;
-- – les données personnelles communiquées ne peuvent être traitées que par les Autorités compétentes pour l’exécution de l’Accord. Les données personnelles ne peuvent être transmises à d’autres Autorités de l’Etat ou à d’autres personnes qu’avec l’autorisation préalable écrite de la Partie contractante qui les a communiquées;
+- – les données personnelles communiquées ne peuvent être traitées que par les Autorités compétentes pour l’exécution de l’Accord. Les données personnelles ne peuvent être transmises à d’autres Autorités de l’État ou à d’autres personnes qu’avec l’autorisation préalable écrite de la Partie contractante qui les a communiquées;
 - – la Partie contractante requérante est tenue de s’assurer de l’exactitude des données à transmettre ainsi que de la nécessité et de l’adéquation au but poursuivi par la communication. S’il s’avère que des données inexactes ont été transmises ou que la transmission était indue, le destinataire doit en être avisé immédiatement. Il est tenu de procéder à la rectification ou à la destruction de ces données;
 - – à sa demande, la personne concernée sera renseignée sur les données personnelles existant à son sujet et sur le mode d’utilisation prévu, dans les conditions définies par le droit national de la Partie contractante saisie par la personne concernée;
 - – les données personnelles transmises ne sont conservées qu’aussi longtemps que l’exige le but dans lequel elles ont été communiquées. Le contrôle du traitement et de l’utilisation et de la destruction de ces données est assuré conformément à la législation nationale de chacune des Parties contractantes;
@@ -268,14 +272,14 @@ Le présent Accord n’affecte pas les obligations des Parties contractantes dé
 - – de l’application des Conventions de Vienne sur les relations diplomatiques et consulaires respectivement du 18 avril 1961[^19-7] et du 24 avril 1963[^19-8];
 - – de l’application des conventions internationales relatives à l’extradition.
 
-[^19-1]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^19-2]: [RS 0.142.301](https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148)
-[^19-3]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^19-4]: [RS 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
-[^19-5]: [RS 0.311.541](https://fedlex.data.admin.ch/eli/cc/2006/863)
-[^19-6]: [RS 0.311.542](https://fedlex.data.admin.ch/eli/cc/2006/864)
-[^19-7]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^19-8]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^19-1]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^19-2]: [RS 0.142.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/433)
+[^19-3]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^19-4]: [RS 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
+[^19-5]: [RS 0.311.541](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1309)
+[^19-6]: [RS 0.311.542](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1310)
+[^19-7]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^19-8]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 20
 
@@ -315,11 +319,11 @@ Tout différend relatif à l’interprétation, à l’application ou à la mise
 
 <sup>2.</sup> Le cas échéant, les modalités d’application du présent Accord sont précisées par des Protocoles ou par échange de lettres.
 
-*En foi de quoi,* les Représentants des Parties contractantes, dûment autorisés à cet effet, ont apposé leur signature au bas du présent Accord. Fait à Yaoundé, le 26 septembre 2014 en deux (2) exemplaires originaux en langues française et anglaise, les deux versions faisant également foi. Pour le Conseil fédéral suisse: Pour le Gouvernement de la Republique du Cameroun: Simonetta Sommaruga Adoum Gargoum
+*En foi de quoi,* les Représentants des Parties contractantes, dûment autorisés à cet effet, ont apposé leur signature au bas du présent Accord. Fait à Yaoundé, le 26 septembre 2014 en deux (2) exemplaires originaux en langues française et anglaise, les deux versions faisant également foi. Pour le Conseil fédéral suisse: Simonetta Sommaruga Pour le Gouvernement de la Republique du Cameroun: Adoum Gargoum
 
 Annexe I
 
-## Eléments d’établissement de la nationalité
+## Éléments d’établissement de la nationalité
 
 La présente Annexe précise les éléments documentaires sur la base desquels est constaté l’établissement de la nationalité, et ceux en vertu desquels ladite nationalité est présumée.
 

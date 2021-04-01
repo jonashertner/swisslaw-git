@@ -3,11 +3,11 @@ sr: "0.142.112.279"
 title: Abkommen vom 26. September 2014 zwischen dem schweizerischen Bundesrat und der Regierung der Republik Kamerun über die Zusammenarbeit im Bereich der Migration (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/709"
 language: de
-version: 2014-09-26
+version: 2021-04-02
 adopted: 2014-09-26
 in_force: 2014-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/709/20140926/de/xml/fedlex-data-admin-ch-eli-cc-2014-709-20140926-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/709/20140926/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/709/20210402/de/xml/fedlex-data-admin-ch-eli-cc-2014-709-20210402-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/709/20210402/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,15 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/709/20140926/de"
 
 AS **2014** 4313
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen am 26. September 2014
 
 Von der Schweiz provisorisch angewendet seit 26. September 2014
 
-(Stand am 26. September 2014)
+In Kraft getreten durch Notenaustausch vom 19. Febr. und 3. März 2021 am 2. April 2021[^t-1]
 
-[^t-1]: Übersetzung des französischen Originaltextes.
+(Stand am 2. April 2021)
+
+[^t-1]: [AS 2021 241](https://fedlex.data.admin.ch/eli/oc/2021/241)
 
 Der Schweizerische Bundesrat und die Regierung der Republik Kamerun,
 
@@ -270,14 +272,14 @@ Von diesem Abkommen unberührt bleiben die Verpflichtungen der Vertragsparteien,
 - – der Anwendung der Wiener Übereinkommen über diplomatische und konsularische Beziehungen vom 18. April 1961[^19-7] bzw. 24. April 1963[^19-8];
 - – der Anwendung der internationalen Übereinkommen über die Auslieferung.
 
-[^19-1]: [SR 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^19-2]: [SR 0.142.301](https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148)
-[^19-3]: [SR 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^19-4]: [SR 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
-[^19-5]: [SR 0.311.541](https://fedlex.data.admin.ch/eli/cc/2006/863)
-[^19-6]: [SR 0.311.542](https://fedlex.data.admin.ch/eli/cc/2006/864)
-[^19-7]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^19-8]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^19-1]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^19-2]: [SR 0.142.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/433)
+[^19-3]: [SR 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^19-4]: [SR 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
+[^19-5]: [SR 0.311.541](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1309)
+[^19-6]: [SR 0.311.542](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1310)
+[^19-7]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^19-8]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 20
 
@@ -317,7 +319,7 @@ Sollten sich aus der Auslegung, Anwendung oder Umsetzung dieses Abkommens Meinun
 
 <sup>2.</sup> Gegebenenfalls werden die Modalitäten für die Anwendung dieses Abkommens in Protokollen oder über einen Notenaustausch genauer festgehalten.
 
-*Zu Urkund dessen* haben die hierzu ordnungsgemäss ermächtigten Vertreter der Vertragsparteien ihre Unterschrift unter dieses Abkommen gesetzt. Ausgefertigt in Yaoundé am 26. September 2014 in zwei (2) Originalfassungen in französischer und englischer Sprache, wobei jeder Wortlaut in gleicher Weise massgebend ist. Für den Schweizerischen Bundesrat: Für die Regierung der Republik Kamerun: Simonetta Sommaruga Adoum Gargoum
+*Zu Urkund dessen* haben die hierzu ordnungsgemäss ermächtigten Vertreter der Vertragsparteien ihre Unterschrift unter dieses Abkommen gesetzt. Ausgefertigt in Yaoundé am 26. September 2014 in zwei (2) Originalfassungen in französischer und englischer Sprache, wobei jeder Wortlaut in gleicher Weise massgebend ist. Für den Schweizerischen Bundesrat: Simonetta Sommaruga Für die Regierung der Republik Kamerun: Adoum Gargoum
 
 Anhang I
 
