@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordonnance sur l'importation d'huile de palme produite de manière durable en provenance d'Indonésie au tarif préférentiel"
 document: Projet
 language: fr

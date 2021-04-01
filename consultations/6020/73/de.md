@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Einfuhr von nachhaltig produziertem Palmöl aus Indonesien zum Präferenz-Zollansatz
 document: Vorlage
 language: de

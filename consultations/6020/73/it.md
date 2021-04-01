@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordinanza sull'importazione dall'Indonesia all'aliquota preferenziale di olio di palma prodotto in maniera sostenibile"
 document: Avamprogetto
 language: it
