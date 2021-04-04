@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-03-25
+version: 2021-04-05
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210325/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210325-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210325/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210405/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210405-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210405/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210325/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 25 marzo 2021)
+del 27 gennaio 2021 (Stato 5 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -284,7 +284,7 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 24 mar. 2021, in vigore dal 25 mar. 2021 ([RU 2021 168](https://fedlex.data.admin.ch/eli/oc/2021/168)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 24 mar. 2021, in vigore dal 5 apr. 2021 ([RU 2021 174](https://fedlex.data.admin.ch/eli/oc/2021/174)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni
@@ -296,6 +296,8 @@ Andorra
 Bahrein
 
 Belgio
+
+Bosnia e Erzegovina
 
 Brasile
 
@@ -309,7 +311,11 @@ Emirati Arabi Uniti
 
 Estonia
 
+Giamaica
+
 Giordania
+
+Grecia
 
 Israele
 
@@ -337,6 +343,8 @@ Montenegro
 
 Paesi Bassi (Regno dei)
 
+Paraguay
+
 Perù
 
 Polonia
@@ -359,7 +367,11 @@ Sudafrica
 
 Svezia
 
+Tanzania
+
 Territorio palestinese (occupato)
+
+Ucraina
 
 Ungheria
 
@@ -370,7 +382,9 @@ Uruguay
 Regioni in Germania:
 
 - – Land Turingia
-- [tab] Regioni in Francia:
+
+Regioni in Francia:
+
 - – Regione Alta Francia
 - – Regione Centro-Valle della Loira
 - – Regione Corsica
