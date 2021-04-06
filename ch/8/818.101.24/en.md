@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-04-02
+version: 2021-04-07
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210402/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210402-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210402/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210407/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210407-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 2 April 2021)
+of 19 June 2020 (Status as of 7 April 2021)
 
 The Swiss Federal Council,
 
@@ -543,6 +543,10 @@ Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sectio
 
 <sup>6</sup> If the invoice for the service sent by the service provider is incorrect, the insurer may claim back any payments already made. Once the Confederation has paid for the service in accordance with paragraph 5, the right to reimbursement passes to the Confederation. The insurers shall provide the Confederation with the data required to exercise its right to reimbursement. The data may not include any sensitive personal data.
 
+<sup>6bis</sup> The insurer may recover directly from the insured person the costs of Sars-CoV-2 self-tests in accordance with Annex 6 number 3.3 which an insured person has obtained in excess of the maximum number specified in Annex 6 number 3.3.1. When issuing reminders in connection with the recovery of the costs of such Sars-CoV-2 self-tests, it may charge the Confederation a maximum of CHF 20 per insured person reminded.[^26b-4]
+
+<sup>6ter</sup> On payment by the Confederation for the Sars-CoV-2 self-tests in accordance with paragraph 5 and payment by the Confederation of the costs of the reminder in accordance with paragraph 6bis, the right to claim repayment shall pass to the Confederation. The insurers shall provide the Confederation with the data required to exercise its right to claim repayment. The data may not contain sensitive personal data.[^26b-5]
+
 <sup>7</sup> The joint institution shall invoice the FOPH every quarter on a time and material basis for the administrative costs of its activities as an insurer under Article 26*a* paragraphs 1 letter c and 3 letter a. The hourly rate shall be 95 francs and includes salary costs, social insurance payments and infrastructure costs. The actual costs of any expenditure on audits, system modifications and negative interest not included in the administrative costs shall be reimbursed.
 
 <sup>8</sup> Invoices for analyses for Sars-CoV-2 that meet the requirements of Annex 6 must be marked «Analysis for Sars-CoV-2 without meeting the testing criteria».
@@ -550,6 +554,8 @@ Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sectio
 [^26b-1]: Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [SR 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 [^26b-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26b-4]: Inserted by No I of the O of 12 May 2021, in force since 7 April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26b-5]: Inserted by No I of the O of 12 May 2021, in force since 7 April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26c
 

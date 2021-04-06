@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-04-02
+version: 2021-04-07
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210402/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210402-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210402/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210407/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210407-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210402/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 2 aprile 2021)
+del 19 giugno 2020 (Stato 7 aprile 2021) (Stato 7 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -541,6 +541,10 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 
 <sup>6</sup> Se la prestazione è stata fatturata indebitamente dal fornitore di prestazioni, l’assicuratore può esigere la restituzione delle rimunerazioni già versate. Con il pagamento della prestazione da parte della Confederazione secondo il capoverso 5, un eventuale diritto alla restituzione passa alla Confederazione. Gli assicuratori comunicano alla Confederazione i dati necessari per esercitare il diritto alla restituzione. I dati non possono contenere dati personali degni di particolare protezione.
 
+<sup>6bis</sup> L’assicuratore può esigere da un assicurato la restituzione delle spese per i test autodiagnostici SARS-CoV-2 secondo l’allegato 6 numero 3.3 ritirati dall’assicurato stesso oltre la quantità massima di cui all’allegato 6 numero 3.3.1. Per lo svolgimento di procedure di diffida per la restituzione delle spese per tali test autodiagnostici SARS-CoV-2 può fatturare alla Confederazione al massimo 20 franchi per assicurato diffidato.[^26b-4]
+
+<sup>6ter</sup> Con il pagamento, da parte della Confederazione, della prestazione per i test autodiagnostici SARS-CoV-2 secondo il capoverso 5 e delle spese per la procedura di diffida secondo il capoverso 6<sup>bis</sup>, un eventuale diritto alla restituzione passa alla Confederazione. Gli assicuratori comunicano alla Confederazione i dati necessari per esercitare il diritto alla restituzione. I dati non possono contenere dati personali degni di particolare protezione.[^26b-5]
+
 <sup>7</sup> L’istituzione comune fattura trimestralmente all’UFSP le spese amministrative per la sua attività di assicuratore secondo l’articolo 26*a* capoversi 1 lettera c e 3 lettera a secondo l’onere. La tariffa oraria ammonta a 95 franchi e comprende le spese salariali, i contributi sociali e le spese infrastrutturali. Per le spese non incluse nelle spese amministrative per eventuali revisioni, adattamenti dei sistemi e interessi negativi sono rimunerati i costi effettivi.
 
 <sup>8</sup> Le fatture relative alle analisi per il SARS-CoV-2 che non soddisfano le condizioni di cui all’allegato 6 devono recare la menzione «Analisi per il SARS-CoV-2 su persone che non soddisfano i criteri di prelievo di campioni».
@@ -548,6 +552,8 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 [^26b-1]: Introdotto dal n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 [^26b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26b-4]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 7 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26b-5]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 7 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26c
 

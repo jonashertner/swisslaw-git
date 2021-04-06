@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-04-02
+version: 2021-04-07
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210402/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210402-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210402/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210407/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210407-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210402/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 2 avril 2021)
+du 19 juin 2020 (Etat le 7 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -541,6 +541,10 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 
 <sup>6</sup> Si la prestation a été indûment facturée par le fournisseur de prestations, l’assureur peut exiger de lui la restitution du montant déjà remboursé. Avec le paiement de la prestation par la Confédération au sens de l’al. 5, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.
 
+<sup>6bis</sup> L’assureur peut exiger directement de l’assuré le remboursement des coûts des autotests SARS-CoV-2 prévus à l’annexe 6, ch. 3.3, que l’assuré réalise en plus du nombre maximal prévu à l’annexe 6, ch. 3.3.1. Pour l’exécution des procédures de sommation en lien avec le remboursement des coûts des autotests SARS-CoV-2 excédentaires, il peut facturer à la Confédération 20 francs au plus par assuré faisant l’objet de la sommation.[^26b-4]
+
+<sup>6ter</sup> Avec le paiement de la prestation pour les autotests SARS-CoV-2 par la Confédération au sens de l’al. 5 et le paiement par la Confédération des coûts liés à une procédure de sommation au sens de l’al. 6<sup>bis</sup>, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.[^26b-5]
+
 <sup>7</sup> Tous les trois mois, l’institution commune facture à l’OFSP ses frais administratifs liés à son activité en tant qu’assureur au sens de l’art. 26*a*, al. 1, let. c, et 3, let. a, sur la base de ses coûts effectifs. Le tarif horaire est de 95 francs et comprend les coûts liés aux salaires, aux prestations sociales et aux infrastructures. S’agissant des dépenses qui ne sont pas incluses dans les frais administratifs concernant d’éventuels révisions, modifications du système et intérêts négatifs, les coûts effectifs sont remboursés.
 
 <sup>8</sup> Les factures des analyses pour le SARS-CoV-2 qui ne remplissent pas les conditions de l’annexe 6 doivent porter la mention «analyse pour le SARS-CoV-2 hors critères de prélèvement».
@@ -548,6 +552,8 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 [^26b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 [^26b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26b-4]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 7 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26b-5]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 7 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26c
 
