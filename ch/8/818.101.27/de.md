@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-04-05
+version: 2021-04-08
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210405/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210405-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210405/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210408/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210408-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210408/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210405/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 5. April 2021)
+vom 27. Januar 2021 (Stand am 8. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -274,7 +274,7 @@ Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder Ge
 
 <sup>2</sup> Die Änderung anderer Erlasse ist in Anhang 2 geregelt.
 
-[^11-1]: [[AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496), [3549](https://fedlex.data.admin.ch/eli/oc/2020/626), [3699](https://fedlex.data.admin.ch/eli/oc/2020/672), [4513](https://fedlex.data.admin.ch/eli/oc/2020/794), [6399](https://fedlex.data.admin.ch/eli/oc/2020/1047), [2021 43](https://fedlex.data.admin.ch/eli/oc/2021/43)]
+[^11-1]: [[AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496), [3549](https://fedlex.data.admin.ch/eli/oc/2020/626), [3699](https://fedlex.data.admin.ch/eli/oc/2020/672), [4513](https://fedlex.data.admin.ch/eli/oc/2020/794), [6399](https://fedlex.data.admin.ch/eli/oc/2020/1047); [2021 43](https://fedlex.data.admin.ch/eli/oc/2021/43)]
 
 #### Art. 12
 
@@ -290,12 +290,10 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 24. März 2021, in Kraft seit 5. April 2021 ([AS 2021 174](https://fedlex.data.admin.ch/eli/oc/2021/174)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. April 2021, in Kraft seit 8. April 2021 ([AS 2021 199](https://fedlex.data.admin.ch/eli/oc/2021/199)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
-
-Albanien
 
 Andorra
 
@@ -314,10 +312,6 @@ Chile
 Estland
 
 Griechenland
-
-Israel
-
-Jamaika
 
 Jordanien
 
@@ -379,8 +373,6 @@ Ungarn
 
 Uruguay
 
-Vereinigte Arabische Emirate
-
 Zypern
 
 ### 2. Gebiete der Nachbarstaaten
@@ -394,25 +386,20 @@ Gebiete in Frankreich:
 - – Region Centre-Val de Loire
 - – Region Hauts-de-France
 - – Region Île-de-France
-- – Region Korsika
 - – Region Normandie
 - – Region Occitanie
 - – Region Pays de la Loire
-- – Region Provence-Alpes-Côte d’Azur
+- – Region Provence-Alpes-Côte d'Azur
 
 Gebiete in Italien:
 
-- – Region Abruzzen
-- – Region Basilikata
 - – Region Emilia Romagna
 - – Region Friaul / Julisch Venetien
 - – Region Kampanien
 - – Region Latium
 - – Region Ligurien
 - – Region Marken
-- – Region Molise
 - – Region Toskana
-- – Region Umbrien
 - – Region Venetien
 
 Gebiete in Österreich:

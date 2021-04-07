@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-04-05
+version: 2021-04-08
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210405/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210405-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210405/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210408/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210408-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210408/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210405/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 5 avril 2021)
+du 27 janvier 2021 (Etat le 8 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -288,14 +288,12 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 24 mars 2021, en vigueur depuis le 5 avr. 2021 ([RO 2021 174](https://fedlex.data.admin.ch/eli/oc/2021/174)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 avr. 2021, en vigueur depuis le 8 avr. 2021 ([RO 2021 199](https://fedlex.data.admin.ch/eli/oc/2021/199)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
 
 Afrique du Sud
-
-Albanie
 
 Andorre
 
@@ -313,17 +311,11 @@ Chili
 
 Chypre
 
-Émirats arabes unis
-
 Estonie
 
 Grèce
 
 Hongrie
-
-Israël
-
-Jamaïque
 
 Jordanie
 
@@ -390,7 +382,6 @@ Zones en Allemagne:
 Zones en France:
 
 - – Région Centre-Val de Loire
-- – Région Corse
 - – Région Hauts-de-France
 - – Région Île-de-France
 - – Région Normandie
@@ -400,17 +391,13 @@ Zones en France:
 
 Zones en Italie:
 
-- – Regione Abruzzo
-- – Regione Basilicata
 - – Regione Campania
 - – Regione Emilia Romagna
 - – Regione Friuli Venezia Giulia
 - – Regione Lazio
 - – Regione Liguria
 - – Regione Marche
-- – Regione Molise
 - – Regione Toscana
-- – Regione Umbria
 - – Regione Veneto
 
 Zones en Autriche:

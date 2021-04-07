@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-04-05
+version: 2021-04-08
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210405/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210405-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210405/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210408/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210408-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210408/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 5 April 2021)
+of 27 January 2021 (Status as of 8 April 2021)
 
 The Swiss Federal Council,
 
@@ -290,12 +290,10 @@ Annex 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by Annex No I of the O of the FDHA of 24 March 2021, in force since 5 April 2021 ([AS 2021 174](https://fedlex.data.admin.ch/eli/oc/2021/174)).
+[^t-1]: Amended by Annex No I of the O of the FDHA of 7 April 2021, in force since 8 April 2021 ([AS 2021 199](https://fedlex.data.admin.ch/eli/oc/2021/199)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions
-
-Albania
 
 Andorra
 
@@ -320,10 +318,6 @@ Estonia
 Greece
 
 Hungary
-
-Israel
-
-Jamaica
 
 Jordan
 
@@ -379,8 +373,6 @@ Tanzania
 
 Ukraine
 
-United Arab Emirates
-
 Uruguay
 
 ### 2. Regions in neighbouring countries
@@ -392,7 +384,6 @@ Regions in Germany:
 Regions in France:
 
 - – Centre-Val de Loire Region
-- – Corsica Region
 - – Hauts-de-France Region
 - – Île de France Region
 - – Normandy Region
@@ -402,17 +393,13 @@ Regions in France:
 
 Regions in Italy:
 
-- – Abruzzo Region
-- – Basilicata Region
 - – Emilia Romagna Region
 - – Friuli Venezia Giulia Region
 - – Campania Region
 - – Lazio Region
 - – Liguria Region
 - – Marche Region
-- – Molise Region
 - – Tuscany Region
-- – Umbria Region
 - – Veneto Region
 
 Regions in Austria:
