@@ -3,13 +3,13 @@ canton: BS
 number: "340.100"
 title: Heilmittelverordnung
 language: de
-version: 2020-02-27
-valid_until: 2021-04-07
-version_adopted: 2020-02-18
+version: 2021-04-08
+valid_until: 2022-07-06
+version_adopted: 2021-03-30
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/340.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4818/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5215/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4818/pdf_file"
 
 Heilmittelverordnung | Heilmittelkontrolle / Gifte
 
-Vom 6. Dezember 2011 (Stand 27. Februar 2020)
+Vom 6. Dezember 2011 (Stand 8. April 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -166,18 +166,21 @@ beschliesst:
 
 - a) Impfung gegen Grippe;
 - b) Impfung gegen Frühsommer-Meningoenzephalitis (FSME);
-- c) Impfungen gegen Hepatitis A, Hepatitis B sowie Hepatitis A + B.
+- c) Impfungen gegen Hepatitis A, Hepatitis B sowie Hepatitis A + B;
+- d) Impfung gegen Covid-19.
 
-<sup>2</sup> Apothekerinnen und Apotheker, die Impfungen durchführen:
+<sup>2</sup> Apothekerinnen und Apotheker, die Impfungen durchführen, verfügen über:
 
-- a) verfügen über den Fähigkeitsausweis FPH Impfen und Blutentnahme und erfüllen die damit verbundenen Fortbildungspflichten;
-- b) melden sich vorgängig mit dem dafür vorgesehenen Formular bei der Kantonsapothekerin oder dem Kantonsapotheker.
+- a) den Fähigkeitsausweis FPH Impfen und Blutentnahme und erfüllen die damit verbundenen Fortbildungspflichten;
+- b) geeignete Räumlichkeiten, insbesondere über einen abgetrennten und nicht einsehbaren Bereich mit der Möglichkeit, die zu impfende Person in liegender Position zu lagern;
+- c) eine Notfallausrüstung;
+- d) ein angemessenes Qualitätssicherungssystem.
 
-<sup>3</sup> Die Apotheke, in der Impfungen durchgeführt werden, verfügt über:
+<sup>3</sup> Sie melden sich vorgängig mit dem dafür vorgesehenen Formular bei der Kantonsapothekerin oder dem Kantonsapotheker.
 
-- a) geeignete Räumlichkeiten, insbesondere über einen abgetrennten und nicht einsehbaren Bereich mit der Möglichkeit, die zu impfende Person in liegender Position zu lagern;
-- b) eine Notfallausrüstung;
-- c) ein angemessenes Qualitätssicherungssystem.
+- a) …
+- b) …
+- c) …
 
 <sup>4</sup> Das spezifische Risiko der Impftätigkeit ist durch eine Haftpflichtversicherung abgedeckt.
 
@@ -350,7 +353,7 @@ beschliesst:
 
 <sup>2</sup> Sie sind innert fünf Jahren nach Wirksamkeit dieser Verordnung deren Erfordernissen anzupassen.
 
-Schlussbestimmung
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird am 1. Januar 2012 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über Arzneimittel (Arzneimittelverordnung) vom 7. September 2004 aufgehoben.
 
