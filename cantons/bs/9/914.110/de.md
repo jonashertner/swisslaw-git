@@ -4,13 +4,13 @@ number: "914.110"
 title: Verordnung zum Gesetz über öffentliche Beschaffungen
 short: "Beschaffungsverordnung, VöB"
 language: de
-version: 2016-01-01
-valid_until: 2021-04-07
-version_adopted: 2015-06-02
+version: 2021-04-08
+valid_until: 2024-01-31
+version_adopted: 2021-03-30
 adopted: 2000-04-11
 in_force: 2000-04-16
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/914.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3522/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5216/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Beschaffungsverordnung | Submission
 
 (Beschaffungsverordnung, VöB)
 
-Vom 11. April 2000 (Stand 1. Januar 2016)
+Vom 11. April 2000 (Stand 8. April 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -79,7 +79,7 @@ beschliesst:
 
 #### § 4
 
-<sup>1</sup> Die Anbietenden haben auf Verlangen des Einigungsamtes nachzuweisen, dass bei Arbeitsleistungen in der Schweiz das Diskriminierungsverbot des Bundesgesetzes über die Gleichstellung von Frau und Mann beachtet wird.
+<sup>1</sup> Die Anbietenden haben auf Verlangen der Beschaffungsstelle nachzuweisen, dass bei Arbeitsleistungen in der Schweiz das Diskriminierungsverbot des Bundesgesetzes über die Gleichstellung von Frau und Mann (Gleichstellungsgesetz, GlG) vom 24. März 1995 beachtet wird.
 
 ### A.III. Kontrollen
 
@@ -87,17 +87,26 @@ beschliesst:
 
 #### § 5
 
-<sup>1</sup> Das Einigungsamt prüft von Amtes wegen oder auf Antrag, ob die Anbietenden die für öffentliche Beschaffungen verlangten Arbeitsbedingungen und das Diskriminierungsverbot gemäss dem Bundesgesetz über die Gleichstellung von Frau und Mann einhalten.
+<sup>1</sup> Das Einigungsamt prüft von Amtes wegen oder auf Antrag, ob die Anbietenden die für öffentliche Beschaffungen verlangten Arbeitsbedingungen einhalten.
 
 <sup>2</sup> Überprüfungsanträge von baselstädtischen Beschaffungsstellen sind für das Einigungsamt verbindlich.
+
+<sup>3</sup> Bei Beschaffungen der Departemente ist für die Kontrolle der Einhaltung der Lohngleichheit die Abteilung Gleichstellung von Frauen und Männer (GFM) zuständig. Sie kann Dritte mit der Durchführung von Kontrollen beauftragen.
+
+<sup>4</sup> Die anderen dem Beschaffungsrecht unterstellten Beschaffungsstellen sorgen selbst für die Einhaltung und Kontrolle der Lohngleichheit. Sie können Dritte mit der Durchführung von Kontrollen beauftragen.
 
 ### A.III.2. Verfahren
 
 #### § 6
 
-<sup>1</sup> Das Einigungsamt stellt Verstösse gegen Arbeitsbedingungen und das Diskriminierungsverbot gemäss dem Bundesgesetz über die Gleichstellung von Frau und Mann, die zum Ausschluss von Vergabeverfahren führen können, durch Verfügung fest.
+<sup>1</sup> Die zuständige Stelle stellt Verstösse gegen Arbeitsbedingungen und das Diskriminierungsverbot gemäss Gleichstellungsgesetz, die zum Ausschluss von Vergabeverfahren führen können, durch Verfügung fest.
 
-<sup>2</sup> Es kann Firmen, die bei der Erfüllung öffentlicher Aufträge gegen Arbeitsbedingungen oder das Diskriminierungsverbot gemäss dem Bundesgesetz über die Gleichstellung von Frau und Mann verstossen haben, für eine dem Verschulden angemessene Dauer von der Teilnahme an Vergabeverfahren ausschliessen.
+<sup>1<sup>bis</sup></sup> Die zuständigen Stellen sind:
+
+- a) das Einigungsamt bei Verstössen gegen Arbeitsbedingungen;
+- b) die GFM beziehungsweise die Beschaffungsstelle bei Verstössen gegen das Diskriminierungsverbot gemäss Gleichstellungsgesetz.
+
+<sup>2</sup> Die zuständigen Stellen können Anbietende, die bei der Erfüllung öffentlicher Aufträge gegen Arbeitsbedingungen oder das Diskriminierungsverbot gemäss Gleichstellungsgesetz verstossen haben, für eine dem Verschulden angemessene Dauer von der Teilnahme an Vergabeverfahren ausschliessen.
 
 ### A.III.3. Kosten
 
@@ -390,6 +399,8 @@ beschliesst:
 <sup>1<sup>bis</sup></sup> Die Kantonale Fachstelle für öffentliche Beschaffungen berät die Departemente bei Submissionsfragen und begleitet die offenen und selektiven Ausschreibungsverfahren der Departemente im Binnenmarkt- und Staatsvertragsbereich.
 
 <sup>2</sup> Gemeinden und andere Träger kantonaler oder kommunaler Aufgaben vollziehen die Vorschriften über öffentliche Beschaffungen nach den speziellen Zuständigkeitsregelungen.
+
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird sofort wirksam.[^footer-1] Die Verordnung zum Gesetz betreffend die Vergabe von Arbeiten und Lieferungen durch die öffentliche Verwaltung (Submissionsverordnung) vom 19. April 1994 ist aufgehoben.
 
