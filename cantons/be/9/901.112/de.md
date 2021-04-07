@@ -4,13 +4,13 @@ number: "901.112"
 title: Kantonale Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung
 language: de
-version: 2021-02-25
-valid_until: 2021-04-07
-version_adopted: 2021-02-24
+version: 2021-04-08
+valid_until: 2021-05-05
+version_adopted: 2021-04-07
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2157/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2251/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2157/pdf_file"
 
 (Kantonale Härtefallverordnung)
 
-vom 18.12.2020 (Stand 25.02.2021)
+vom 18.12.2020 (Stand 08.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -58,7 +58,7 @@ beschliesst:
 
 **Spartenrechnung**
 
-<sup>1</sup> Unternehmen, deren Tätigkeitsbereiche durch Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen nach den Artikeln 3, 4, 6 Absatz 1 Buchstaben a und b, 7 Absatz 1 Buchstabe a, 8 Absatz 1 Buchstabe a, 9 Absatz 2 Buchstaben b und c, 10 Absatz 1 Buchstabe d, 12 Absätze 1 und 1a und 13 Absatz 1 für einzelne oder mehrere Sparten separat beurteilt werden, sofern die betroffenen Sparten zusammen mehr als 25 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes ausmachen.
+<sup>1</sup> Unternehmen, deren Tätigkeitsbereiche durch Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen gemäss den Artikeln 3, 4, 6 Absatz 1 Buchstaben a und b, 7 Absatz 1 Buchstabe a, 9 Absatz 2 Buchstaben b und c, 10 Absatz 1 Buchstabe d sowie 12 Absätze 1 und 1a für einzelne oder mehrere Sparten separat beurteilt werden, sofern die betroffenen Sparten zusammen mehr als 25 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes ausmachen.
 
 #### Art. 3
 
@@ -99,7 +99,7 @@ beschliesst:
 
 <sup>1</sup> Als besonders betroffen gelten Unternehmen, die aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen mussten bzw. müssen.
 
-<sup>2</sup> Führt ein Unternehmen mehrere Betriebe, so müssen die von einer Schliessung betroffenen Betriebe mindestens 50 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes erwirtschaften. Artikel 2a gilt sinngemäss.
+<sup>2</sup> Führt ein Unternehmen mehrere Betriebe, so müssen die von einer Schliessung betroffenen Betriebe mindestens 25 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes erwirtschaften. Artikel 2a gilt sinngemäss.
 
 #### Art. 5
 
@@ -110,7 +110,7 @@ beschliesst:
 - a die Rechtsform eines Einzelunternehmens, einer Personengesellschaft oder einer juristischen Person hat,
 - a1 seinen Hauptsitz am 1. Oktober 2020 im Kanton hatte,
 - b über eine Unternehmens-Identifikationsnummer (UID-Nummer) verfügt,
-- c vor dem 1. März 2020 gegründet und im Handelsregister eingetragen ist.
+- c vor dem 1. März 2020 gegründet und, sofern rechtlich zulässig, im Handelsregister eingetragen ist.
 
 #### Art. 6
 
@@ -126,9 +126,9 @@ beschliesst:
 
 **Voraussetzungen für Sofortunterstützung**
 
-<sup>1</sup> Das Unternehmen hat für den Erhalt der Sofortunterstützung nachzuweisen, dass es
+<sup>1</sup> Das Unternehmen hat für den Erhalt der Sofortunterstützung (à-fonds-perdu) nachzuweisen, dass es
 
-- a einen Umsatz gemäss Artikel 3 von mindestens 100'000 Franken erzielt hat,
+- a einen Umsatz gemäss Artikel 3 von mindestens 50'000 Franken erzielt hat,
 - b profitabel oder überlebensfähig im Sinne von Absatz 2 ist.
 
 <sup>2</sup> Als profitables oder überlebensfähiges Unternehmen gilt, wer
@@ -140,19 +140,7 @@ beschliesst:
 
 #### Art. 8
 
-**Voraussetzungen für Bürgschaften**
-
-<sup>1</sup> Das Unternehmen hat für eine Bürgschaft nachzuweisen, dass es
-
-- a einen Umsatz gemäss Artikel 3 von mindestens zwei Millionen Franken erzielt hat,
-- b profitabel oder überlebensfähig im Sinne von Absatz 2 ist.
-
-<sup>2</sup> Als profitables oder überlebensfähiges Unternehmen gilt, wer
-
-- a …
-- b sich zum Zeitpunkt der Einreichung des Gesuchs nicht in einem Konkursverfahren oder in Liquidation befindet,
-- c sich am 15. März 2020 nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befunden hat,
-- d vor dem 15. März 2020 in Betreibung gesetzte Sozialversicherungsbeiträge bezahlt oder hierfür eine Abzahlungsvereinbarung abgeschlossen hat.
+**…**
 
 #### Art. 9
 
@@ -182,9 +170,7 @@ beschliesst:
 
 <sup>1</sup> Das gesuchstellende Unternehmen hat zu bestätigen, dass
 
-- a es keine Dividenden oder Tantiemen beschliesst oder ausschüttet oder Kapitaleinlagen rückerstattet und keine Darlehen an seine Eigentümerinnen und Eigentümer vergibt
-  - 1\. während der gesamten Laufzeit der Bürgschaft,
-  - 2\. während drei Jahren nach Erhalt eines nicht rückzahlbaren Beitrags oder bis zu dessen freiwilliger Rückzahlung an den Kanton,
+- a es im Geschäftsjahr, in dem die Sofortunterstützung ausgerichtet wird sowie in den drei darauffolgenden Jahren oder bis zu deren freiwilligen Rückzahlung keine Dividenden oder Tantiemen beschliesst oder ausschüttet oder Kapitaleinlagen rückerstattet und keine Darlehen an seine Eigentümerinnen und Eigentümer vergibt,
 - b es keine liquiditätsvermindernden Handlungen im Sinne von Artikel 9 Absatz 3 vorgenommen hat,
 - c es die ihm gewährten Mittel nicht an eine mit ihm direkt oder indirekt verbundene Gruppengesellschaft, die ihren Sitz nicht in der Schweiz hat, überträgt; zulässig ist jedoch insbesondere das Erfüllen vorbestehender ordentlicher Zins- und Amortisationszahlungspflichten innerhalb einer Gruppenstruktur,
 - d ihm aus dem Umsatzrückgang erhebliche ungedeckte Fixkosten resultierten.
@@ -197,9 +183,9 @@ beschliesst:
 
 **Wahl der Unterstützung und Beitragssicherung**
 
-<sup>1</sup> Ein Unternehmen kann zwischen einer Form der Sofortunterstützung gemäss Artikel 12 oder der Bürgschaft gemäss Artikel 13 wählen. Sofortunterstützung und Bürgschaft kann nicht kumuliert werden.
+<sup>1</sup> …
 
-<sup>1a</sup> Die mehrfache Ausrichtung von Sofortunterstützung oder die mehrfache Gewährung von Bürgschaften ist ausgeschlossen. Die Wiedererwägung oder die Wiederaufnahme gemäss Artikel 56 des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^11-1] bleibt vorbehalten.
+<sup>1a</sup> Die mehrfache Ausrichtung von Sofortunterstützung ist ausgeschlossen. Die Wiedererwägung oder die Wiederaufnahme gemäss Artikel 56 des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^11-1] bleibt vorbehalten.
 
 <sup>2</sup> Im Übrigen gelten die Bestimmungen des Staatsbeitragsgesetzes vom 16. September 1992 (StBG)[^11-2].
 
@@ -210,27 +196,19 @@ beschliesst:
 
 **Sofortunterstützung**
 
-<sup>1</sup> Die Sofortunterstützung für Unternehmen, die im Zeitraum der gewählten Periode mehr als 40 Prozent Umsatzeinbusse erlitten haben, bemisst sich nach den im Zeitraum der gewählten Periode gemäss Artikel 9 Absatz 2 Buchstabe c angefallenen Fixkosten gemäss Artikel 4 sowie dem Umfang des Umsatzeinbruchs in Prozent und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens 750'000 Franken pro Unternehmen.
+<sup>1</sup> Die Sofortunterstützung für Unternehmen, die im Zeitraum der gewählten Periode mehr als 40 Prozent Umsatzeinbusse erlitten haben, bemisst sich nach den im Zeitraum der gewählten Periode gemäss Artikel 9 Absatz 2 Buchstabe c angefallenen Fixkosten gemäss Artikel 4 sowie dem Umfang des Umsatzeinbruchs in Prozent und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
 
-<sup>1a</sup> Die Sofortunterstützung für besonders betroffene Unternehmen bemisst sich nach den in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zur Gesuchseinreichung angefallenen Fixkosten gemäss Artikel 4 sowie der Dauer der angeordneten Schliessung gemäss Artikel 4a und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens 750'000 Franken pro Unternehmen.
+<sup>1a</sup> Die Sofortunterstützung für besonders betroffene Unternehmen bemisst sich nach den in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zur Gesuchseinreichung angefallenen Fixkosten gemäss Artikel 4 sowie der Dauer der angeordneten Schliessung gemäss Artikel 4a und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
 
 <sup>1b</sup> Unternehmen, die kumulativ Sofortunterstützung gemäss Absatz 1 und 1a beantragen, müssen die Periode gemäss Artikel 9 Absatz 2 Buchstabe c sowie die Fixkosten gemäss Absatz 1a auf den Zeitraum von 1. Januar 2020 bis 31. Dezember 2020 festlegen.
 
 <sup>2</sup> Sie kann in mehreren Tranchen ausgerichtet werden.
 
+<sup>3</sup> Sind die angefallenen Fixkosten gemäss den Absätzen 1 bis 1b nicht durch doppelte Buchhaltung oder anderweitig belegbar, kann die Sofortunterstützung in Form einer Pauschale ausgerichtet werden.
+
 #### Art. 13
 
-**Bürgschaften**
-
-<sup>1</sup> Die Höhe der Bürgschaft bemisst sich nach den im Zeitraum der gewählten Periode gemäss Artikel 9 Absatz 2 Buchstabe c angefallenen Fixkosten gemäss Artikel 4 sowie dem Umfang des Umsatzeinbruchs in Prozent und beträgt höchstens 25 Prozent des Umsatzes gemäss Artikel 3 und höchstens fünf Millionen Franken pro Unternehmen.
-
-<sup>2</sup> Es wird für 90 Prozent eines Kredits oder Darlehens gebürgt.
-
-<sup>3</sup> Wenn mit der Bürgschaft 30 Tage nach Eröffnung der Verfügung kein Kredit oder Darlehen besichert wird, verfällt sie.
-
-<sup>4</sup> Die Laufzeit der Bürgschaft ist auf höchstens zehn Jahre befristet.
-
-<sup>5</sup> Bürgschaften werden nur gewährt, wenn der Bund kein neues Bürgschaftsprogramm auflegt.
+**…**
 
 ## 4 Zuständigkeiten und Vollzug
 
@@ -250,7 +228,7 @@ beschliesst:
 
 <sup>2</sup> Gesuche für Sofortunterstützung sind bis zum 31. Juli 2021 einzureichen. Massgebend ist das Datum der elektronischen Empfangsbestätigung.
 
-<sup>3</sup> Gesuche für Bürgschaften sind bis zum 31. Juli 2021 einzureichen. Massgebend ist das Datum der elektronischen Empfangsbestätigung.
+<sup>3</sup> …
 
 <sup>4</sup> Auf verspätete Gesuche wird nicht eingetreten.
 
@@ -311,6 +289,12 @@ beschliesst:
 ## T3 Übergangsbestimmung der Änderung vom 24.02.2021
 
 #### Art. T3-1
+
+<sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
+
+## T4 Übergangsbestimmung der Änderung vom 07.04.2021
+
+#### Art. T4-1
 
 <sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
 

@@ -4,13 +4,13 @@ number: "901.112"
 title: "Ordonnance cantonale concernant les mesures destinées aux entreprises pour les cas de rigueur en lien avec l'épidémie de COVID-19"
 short: Ordonnance cantonale sur les cas de rigueur
 language: fr
-version: 2021-02-25
-valid_until: 2021-04-07
-version_adopted: 2021-02-24
+version: 2021-04-08
+valid_until: 2021-05-05
+version_adopted: 2021-04-07
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2157/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2251/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2157/pdf_file"
 
 (Ordonnance cantonale sur les cas de rigueur)
 
-du 18.12.2020 (état au 25.02.2021)
+du 18.12.2020 (état au 08.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -58,7 +58,7 @@ arrête:
 
 **Comptabilité par secteur**
 
-<sup>1</sup> Les entreprises dont les domaines d'activité sont clairement délimités au moyen d'une comptabilité par secteur peuvent demander que le respect des exigences énoncées aux articles 3, 4, 6, alinéa 1, lettres a et b, 7, alinéa 1, lettre a, 8, alinéa 1, lettre a, 9, alinéa 2, lettres b et c, 10, alinéa 1, lettre d, 12, alinéas 1 et 1a ainsi que 13, alinéa 1 soit vérifié séparément pour certains ou plusieurs de leurs secteurs, pour autant que les secteurs concernés pris ensemble représentent plus de 25 pour cent du chiffre d'affaires de l'entreprise calculé conformément à l'article 3.
+<sup>1</sup> Les entreprises dont les domaines d'activité sont clairement délimités au moyen d'une comptabilité par secteur peuvent demander que le respect des exigences énoncées aux articles 3, 4, 6, alinéa 1, lettres a et b, 7, alinéa 1, lettre a, 9, alinéa 2, lettres b et c, 10, alinéa 1, lettre d ainsi que 12, alinéas 1 et 1a soit vérifié séparément pour certains ou plusieurs de leurs secteurs, pour autant que les secteurs concernés pris ensemble représentent plus de 25 pour cent du chiffre d'affaires de l'entreprise calculé conformément à l'article 3.
 
 #### Art. 3
 
@@ -99,7 +99,7 @@ arrête:
 
 <sup>1</sup> Sont considérées comme particulièrement touchées les entreprises qui, en raison des mesures prises par la Confédération ou le canton pour endiguer l'épidémie de COVID-19, ont dû ou doivent cesser leur activité pour au moins 40 jours entre le 1<sup>er</sup> novembre 2020 et le 30 juin 2021.
 
-<sup>2</sup> Si une entreprise exploite plusieurs établissements, ceux qui sont concernés par la cessation d'activité doivent avoir généré au moins 50 pour cent du chiffre d'affaires de l'entreprise calculé conformément à l'article 3. L'article 2a s'applique par analogie.
+<sup>2</sup> Si une entreprise exploite plusieurs établissements, ceux qui sont concernés par la cessation d'activité doivent avoir généré au moins 25 pour cent du chiffre d'affaires de l'entreprise calculé conformément à l'article 3. L'article 2a s'applique par analogie.
 
 #### Art. 5
 
@@ -110,7 +110,7 @@ arrête:
 - a revêt la forme juridique d’une entreprise individuelle, d’une société de personnes ou d’une personne morale;
 - a1 avait son siège principal dans le canton de Berne au 1<sup>er</sup> octobre 2020;
 - b dispose d’un numéro d’identification des entreprises (IDE);
-- c a été créée avant le 1<sup>er</sup> mars 2020 et est inscrite au registre du commerce.
+- c a été créée avant le 1<sup>er</sup> mars 2020 et est inscrite au registre du commerce, pour autant que l'inscription soit juridiquement autorisée.
 
 #### Art. 6
 
@@ -126,9 +126,9 @@ arrête:
 
 **Conditions d'octroi d'un soutien immédiat**
 
-<sup>1</sup> Pour bénéficier d'un soutien immédiat, l'entreprise doit prouver qu'elle
+<sup>1</sup> Pour bénéficier d'un soutien immédiat (à fonds perdu), l'entreprise doit prouver qu'elle
 
-- a a réalisé un chiffre d'affaires au sens de l'article 3 d'au moins 100'000 francs;
+- a a réalisé un chiffre d'affaires au sens de l'article 3 d'au moins 50'000 francs;
 - b est rentable ou viable au sens de l'alinéa 2.
 
 <sup>2</sup> Sont réputées rentables ou viables les entreprises qui
@@ -140,19 +140,7 @@ arrête:
 
 #### Art. 8
 
-**Conditions de cautionnement**
-
-<sup>1</sup> Pour bénéficier d'un cautionnement, l'entreprise doit prouver qu'elle
-
-- a a réalisé un chiffre d'affaires au sens de l'article 3 d'au moins deux millions de francs;
-- b est rentable ou viable au sens de l'alinéa 2.
-
-<sup>2</sup> Sont réputées rentables ou viables les entreprises qui
-
-- a …
-- b ne font pas l'objet d'une procédure de faillite ou d'une liquidation au moment du dépôt de la demande;
-- c ne faisaient pas, au 15 mars 2020, l'objet d'une procédure de poursuite relative à des cotisations sociales;
-- d ont acquitté les cotisations sociales qui étaient en poursuite avant le 15 mars 2020 ou ont convenu d'un plan de paiement à cet effet.
+**…**
 
 #### Art. 9
 
@@ -182,9 +170,7 @@ arrête:
 
 <sup>1</sup> L'entreprise requérante doit garantir
 
-- a qu'elle décide de ne distribuer ou ne distribue aucun dividende ou tantième, ne rembourse pas d’apports de capital et n’octroie pas de prêts à ses propriétaires
-  - 1\. pendant toute la durée du cautionnement,
-  - 2\. pendant les trois années suivant l’obtention d’une subvention sans obligation de remboursement ou jusqu'à la restitution volontaire de cette dernière au canton;
+- a que, durant l'exercice au cours duquel un soutien immédiat lui est versé ainsi que durant les trois années suivantes ou jusqu'à la restitution volontaire du montant reçu, elle décide de ne distribuer ou ne distribue aucun dividende ou tantième, ne rembourse pas d’apports de capital et n’octroie pas de prêts à ses propriétaires;
 - b qu'elle n'a entrepris aucune action ayant réduit ses liquidités au sens de l'article 9, alinéa 3;
 - c qu'elle ne transfère pas les fonds qui lui sont accordés à une société du même groupe qui lui est liée directement ou indirectement et n’a pas son siège en Suisse; il lui est toutefois permis en particulier de s’acquitter d’obligations préexistantes de paiement d’intérêts et d’amortissements à l’intérieur d’un groupe;
 - d que le recul du chiffre d'affaires a entraîné des coûts fixes non couverts considérables.
@@ -197,9 +183,9 @@ arrête:
 
 **Choix du soutien et garantie concernant l'utilisation de la subvention**
 
-<sup>1</sup> Une entreprise peut choisir entre une forme de soutien immédiat visé à l'article 12 et le cautionnement visé à l'article 13. Le cumul du soutien immédiat et du cautionnement est exclu.
+<sup>1</sup> …
 
-<sup>1a</sup> Le versement d'un soutien immédiat à plusieurs reprises ou l'octroi de plusieurs cautionnements sont exclus. La reconsidération ou la révision au sens de l'article 56 de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^11-1] sont réservées.
+<sup>1a</sup> Le versement d'un soutien immédiat à plusieurs reprises est exclu. La reconsidération ou la révision au sens de l'article 56 de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^11-1] sont réservées.
 
 <sup>2</sup> Au surplus, les dispositions de la loi du 16 septembre 1992 sur les subventions cantonales (LCSu)[^11-2] s'appliquent.
 
@@ -210,27 +196,19 @@ arrête:
 
 **Soutien immédiat**
 
-<sup>1</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à 750'000 francs par entreprise, le soutien immédiat accordé aux entreprises dont les pertes de chiffre d'affaires au cours de la période retenue conformément à l'article 9, alinéa 2, lettre c dépassent les 40 pour cent est calculé selon les coûts fixes visés à l'article 4 échus durant la même période ainsi que selon la perte de chiffre d'affaires exprimée en pourcentage.
+<sup>1</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux entreprises dont les pertes de chiffre d'affaires au cours de la période retenue conformément à l'article 9, alinéa 2, lettre c dépassent les 40 pour cent est calculé selon les coûts fixes visés à l'article 4 échus durant la même période ainsi que selon la perte de chiffre d'affaires exprimée en pourcentage.
 
-<sup>1a</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à 750'000 francs par entreprise, le soutien immédiat accordé aux entreprises particulièrement touchées est calculé selon les coûts fixes visés à l'article 4 échus durant la période de douze mois consécutifs comprise entre le 1<sup>er</sup> janvier 2020 et le dépôt de la demande ainsi que selon la durée de la cessation d'activité imposée visée à l'article 4a.
+<sup>1a</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux entreprises particulièrement touchées est calculé selon les coûts fixes visés à l'article 4 échus durant la période de douze mois consécutifs comprise entre le 1<sup>er</sup> janvier 2020 et le dépôt de la demande ainsi que selon la durée de la cessation d'activité imposée visée à l'article 4a.
 
 <sup>1b</sup> Les entreprises qui demandent un soutien immédiat à la fois en vertu de l'alinéa 1 et de l'alinéa 1a doivent retenir comme période au sens de l'article 9, alinéa 2, lettre c celle allant du 1<sup>er</sup> janvier 2020 au 31 décembre 2020 et faire valoir les coûts fixes visés à l'alinéa 1a échus durant cette période.
 
 <sup>2</sup> Il peut être versé en plusieurs tranches.
 
+<sup>3</sup> Si les coûts fixes échus visés aux alinéas 1 à 1b ne peuvent être établis par une comptabilité en partie double ou un autre moyen, le soutien immédiat peut être versé sous forme de forfait.
+
 #### Art. 13
 
-**Cautionnements**
-
-<sup>1</sup> Plafonné à 25 pour cent du chiffre d'affaires au sens de l'article 3 et à cinq millions de francs par entreprise, le montant du cautionnement est calculé selon les coûts fixes visés à l'article 4 échus durant la période retenue conformément à l'article 9, alinéa 2, lettre c ainsi que selon la perte de chiffre d'affaires exprimée en pourcentage.
-
-<sup>2</sup> Un crédit ou un prêt est cautionné à hauteur de 90 pour cent.
-
-<sup>3</sup> S'il n'est pas fait usage du cautionnement dans les 30 jours suivant la notification de la décision de cautionnement, celui-ci devient caduc.
-
-<sup>4</sup> La durée maximale du cautionnement est limitée à dix ans.
-
-<sup>5</sup> Des cautionnements ne sont accordés que si la Confédération ne met pas en place de nouveau programme de cautionnement.
+**…**
 
 ## 4 Compétences et exécution
 
@@ -250,7 +228,7 @@ arrête:
 
 <sup>2</sup> Les demandes de soutien immédiat doivent être déposées d'ici au 31 juillet 2021. La date de l'accusé de réception électronique fait foi.
 
-<sup>3</sup> Les demandes de cautionnements doivent être déposées d'ici au 31 juillet 2021. La date de l'accusé de réception électronique fait foi.
+<sup>3</sup> …
 
 <sup>4</sup> Les demandes déposées après expiration du délai ne sont pas recevables.
 
@@ -311,6 +289,12 @@ arrête:
 ## T3 Disposition transitoire de la modification du 24.02.2021
 
 #### Art. T3-1
+
+<sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
+
+## T4 Disposition transitoire de la modification du 07.04.2021
+
+#### Art. T4-1
 
 <sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
 
