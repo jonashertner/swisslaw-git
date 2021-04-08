@@ -4,13 +4,13 @@ number: "431.118"
 title: Verordnung über Massnahmen im Kulturbereich zur Bewältigung der Covid-19-Epidemie
 short: Covid-19-KulturV
 language: de
-version: 2021-02-01
-valid_until: 2021-04-08
-version_adopted: 2020-11-17
+version: 2021-04-09
+valid_until: 2021-08-31
+version_adopted: 2021-02-02
 adopted: 2020-11-17
 in_force: 2021-02-01
 url: "https://bgs.so.ch/app/de/texts_of_law/431.118"
-pdf: "https://bgs.so.ch/api/de/versions/5053/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5071/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5053/pdf_file"
 
 (Covid-19-KulturV)
 
-Vom 17.11.2020 (Stand 01.02.2021)
+Vom 17.11.2020 (Stand 09.04.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>2</sup> Zu den Vollzugsaufgaben des AKS gehören insbesondere:
 
-- a) die Entgegennahme und Prüfung von Gesuchen um Finanzhilfen für Kulturunternehmen;
+- a) die Entgegennahme und Prüfung von Gesuchen um Finanzhilfen;
 - b) der Entscheid über die Gesuche im Einzelfall.
 
 <sup>3</sup> Das AKS berücksichtigt bei der Gesuchsbearbeitung die verfügbaren Mittel und die bereits eingereichten beziehungsweise bewilligten Gesuche.
@@ -47,9 +47,17 @@ beschliesst:
 
 **Gesuchseinreichung**
 
-<sup>1</sup> Die Gesuche müssen spätestens bis zum 30. November 2021 eingereicht werden. Nach diesem Datum eingereichte Gesuche werden nicht mehr bearbeitet.
+<sup>1</sup> Die Fristen für die Einreichung der Gesuche richten sich nach dem Bundesrecht.
 
-<sup>2</sup> Kulturunternehmen, welche für die Zeit vom 26. September 2020 bis zum 31. Januar 2021 verbindlich Veranstaltungen und Projekte programmiert beziehungsweise geplant haben, können für diese Veranstaltungen und Projekte ebenfalls Gesuche um Finanzhilfen einreichen.
+<sup>2</sup> …
+
+#### § 2bis
+
+**Ausfallentschädigungen**
+
+<sup>1</sup> Die Ausfallentschädigung (Art. 4 und 5 Covid-19-Kulturverordnung[^2bis-1]) beträgt höchstens 500'000 Franken pro Kulturunternehmen oder Kulturschaffende beziehungsweise Kulturschaffenden und Kalenderjahr.
+
+[^2bis-1]: SR [442.15](https://db.clex.ch/link/Bund/442.15/de).
 
 #### § 3
 
