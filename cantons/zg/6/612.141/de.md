@@ -3,20 +3,20 @@ canton: ZG
 number: "612.141"
 title: Reglement zur Beurteilung von Gesuchen zu Unterstützungsmassnahmen im Bereich Sport gemäss Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung)
 language: de
-version: 2021-02-06
-valid_until: 2021-04-09
-version_adopted: 2021-02-01
+version: 2021-04-10
+valid_until: 2021-12-10
+version_adopted: 2021-04-01
 adopted: 2020-05-18
 in_force: 2020-05-19
 url: "https://bgs.zg.ch/app/de/texts_of_law/612.141"
-pdf: "https://bgs.zg.ch/api/de/versions/2214/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Beurteilung von Gesuchen zu Unterstützungsmassnahmen im Bereich Sport gemäss Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung)
 
-Vom 18. Mai 2020 (Stand 6. Februar 2021)
+Vom 18. Mai 2020 (Stand 10. April 2021)
 
 Die Gesundheitsdirektion des Kantons Zug,
 
@@ -53,7 +53,7 @@ beschliesst:
 
 **Gesuchseingabe**
 
-<sup>1</sup> Gesuche um Soforthilfe können bis zum 31. Dezember 2021 eingereicht werden. Sie sind elektronisch mittels Formular, das auf der Website des Amtes für Sport aufgeschaltet ist, einzureichen.
+<sup>1</sup> Gesuche um Soforthilfe können bis zum 31. Dezember 2021 eingereicht werden. Sie sind elektronisch mittels Formular, das auf der Website des Amtes für Sport und Gesundheitsförderung aufgeschaltet ist, einzureichen.
 
 #### § 5
 
@@ -84,8 +84,8 @@ beschliesst:
 <sup>1</sup> Anspruchsberechtigt sind:
 
 - a) Sportvereine und Sportverbände mit Sitz und Tätigkeit im Kanton Zug; sofern
-- b) die Organisation einen finanziellen Schaden erlitten hat und glaubhaft machen kann, dass ein Kausalzusammenhang zwischen den fehlenden Mitteln und den Massnahmen des Bundes zur Bekämpfung des Coronavirus besteht;
-- c) die Organisation innerhalb der vergangenen fünf Jahre mindestens einmal einen Unterstützungsbeitrag der öffentlichen Hand erhalten hat (Sportfonds- bzw. Lotteriefondsbeiträge durch das Amt für Sport und Gesundheitsförderung); und
+- b) die Organisation einen finanziellen Schaden erlitten hat und glaubhaft machen kann, dass ein Kausalzusammenhang zwischen den fehlenden Mitteln und den Massnahmen des Bundes zur Bekämpfung des Coronavirus besteht; und
+- c) …
 - d) der Finanzbedarf mindestens 1000 Franken beträgt.
 
 <sup>2</sup> …
