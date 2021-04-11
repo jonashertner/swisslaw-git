@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-04-07
+version: 2021-04-12
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210407/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210407-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210412/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210412-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 7 April 2021)
+of 19 June 2020 (Status as of 12 April 2021)
 
 The Swiss Federal Council,
 
@@ -924,7 +924,7 @@ Annex 6*[^t-7]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O od 12 May 2021, No 1.6.1 in force since 12 April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1202,7 +1202,14 @@ Annex 6*[^t-7]*
 
 ### 1.6 Diagnostic sequencing for Sars-CoV-2
 
-- 1\.6.1 The Confederation shall pay the costs of diagnostic sequencing for Sars-CoV-2 only in cases where there is reasonable suspicion of the presence of a variant of concern for which no screening method is established or available, and only on being specifically instructed to do so by the responsible cantonal body.
+- 1\.6.1
+
+  The Confederation shall pay the costs of diagnostic sequencing for Sars-CoV-2 2 by means of whole genome sequencing only if ordered by the competent cantonal authority and only in the following cases:
+
+  - a. in cases where there is reasonable suspicion of the presence of a Sars-CoV-2 variant, in particular in the case of infection following vaccination, reinfection following previous disease or return from a country or region where a Sars-CoV-2 variant of concern is prevalent;
+  - b. targeted sequencing in the case of conspicuous outbreaks;
+  - c. targeted and random sequencing in the event of major outbreaks.
+
 - 1\.6.2
 
   It shall pay the costs only if the services are provided by:

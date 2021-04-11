@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-04-07
+version: 2021-04-12
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210407/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210407-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210412/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210412-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 7 aprile 2021) (Stato 7 aprile 2021)
+del 19 giugno 2020 (Stato 12 aprile 2021) (Stato 12 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -761,7 +761,7 @@ Allegato 4*[^t-4]*
 - 44\. Immunoterapia contro il COVID-19
 - 45\. Gas medicinali
 
-### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici
+### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001**** relativa ai dispositivi medici
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -862,7 +862,7 @@ Allegato 6*[^t-7]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II dell’O del 12 mag. 2021, in vigore dal 12 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1142,7 +1142,14 @@ Allegato 6*[^t-7]*
 
 ### 1.6 Sequenziamento diagnostico del SARS-CoV-2
 
-- 1\.6.1 La Confederazione assume le spese per il sequenziamento diagnostico del SARS-CoV-2 solo in caso di sospetto fondato della presenza di una variante preoccupante per la quale non è stato ancora stabilito o disponibile alcun metodo di screening e solo su ordine specifico del servizio cantonale competente.
+- 1\.6.1
+
+  La Confederazione assume le spese per il sequenziamento diagnostico del SARS-CoV-2 mediante sequenziamento completo del genoma solo su ordine del servizio cantonale competente e solo nei seguenti casi:
+
+  - a. in caso di sospetto fondato della presenza di una variante di SARS-CoV-2 preoccupante, in particolare in caso di infezione dopo una vaccinazione, reinfezione dopo una precedente malattia o ritorno da uno Stato o una regione in cui è diffusa una variante di SARS-CoV-2 preoccupante;
+  - b. sequenziamenti mirati in caso di focolai insoliti;
+  - c. sequenziamenti mirati eseguiti a campione in caso di focolai consistenti.
+
 - 1\.6.2.
 
   Assume le spese soltanto se le prestazioni sono fornite da:

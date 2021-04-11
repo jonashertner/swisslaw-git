@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-04-07
+version: 2021-04-12
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210407/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210407-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210412/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210412-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 7. April 2021)
+vom 19. Juni 2020 (Stand am 12. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -779,7 +779,7 @@ Anhang 4*[^t-4]*
 
 ### 3. Persönliche Schutzausrüstungen und weitere Ausrüstung
 
-### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017
+### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017****
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -863,7 +863,7 @@ Anhang 6*[^t-7]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021, in Kraft seit 12. April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -1143,7 +1143,14 @@ Anhang 6*[^t-7]*
 
 ### 1.6 Diagnostische Sequenzierung auf Sars-CoV-2
 
-- 1\.6.1 Der Bund übernimmt die Kosten für die diagnostische Sequenzierung auf Sars-CoV-2 nur bei einem begründeten Verdacht auf das Vorliegen einer besorgniserregenden Variante, für die noch keine Screening-Methode etabliert oder verfügbar ist, und nur auf spezifische Anordnung der zuständigen kantonalen Stelle.
+- 1\.6.1
+
+  Der Bund übernimmt die Kosten für die diagnostische Sequenzierung auf Sars-CoV-2 mittels vollständiger Genomsequenzierung nur auf Anordnung der zuständigen kantonalen Stelle und nur in den folgenden Fällen:
+
+  - a. bei begründetem Verdacht auf das Vorliegen einer besorgniserregenden Sars-CoV-2-Variante, insbesondere bei einer Infektion nach einer Impfung, einer Reinfektion nach vorangegangener Erkrankung oder bei der Rückkehr aus einem Staat oder Gebiet, in dem eine besorgniserregende Sars-CoV-2-Variante verbreitet ist;
+  - b. gezielt durchgeführte Sequenzierungen bei auffälligen Ausbrüchen;
+  - c. gezielt und stichprobenartig durchgeführte Sequenzierungen bei grösseren Ausbrüchen.
+
 - 1\.6.2
 
   Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch:

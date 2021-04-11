@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-04-07
+version: 2021-04-12
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210407/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210407-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210412/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210412-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210407/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 7 avril 2021)
+du 19 juin 2020 (Etat le 12 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -916,7 +916,7 @@ Annexe 6*[^t-7]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II de l’O du 12 mai 2021, en vigueur depuis le 12 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -1195,7 +1195,10 @@ Annexe 6*[^t-7]*
 
 ### 1.6 Séquençage diagnostique du SARS-CoV-2
 
-- 1\.6.1 La Confédération prend en charge les coûts pour le séquençage diagnostique du SARS-CoV-2 uniquement en cas de suspicion justifiée de la présence d’un variant préoccupant pour lequel aucune méthode de dépistage par screening n’a encore été établie ou n’est disponible, et uniquement sur ordre spécifique du médecin cantonal compétent.
+- 1\.6.1 La Confédération prend en charge les coûts pour le séquençage diagnostique du SARS-CoV-2 à l’aide d’un séquençage complet du génome uniquement sur ordre du service cantonal compétent et uniquement dans les cas suivants:
+- a. en cas de soupçon fondé concernant la présence d’un variant préoccupant du SARS-CoV-2, notamment en cas d’infection après une vaccination, de réinfection après avoir guéri de la maladie ou de retour depuis un pays ou une région où un variant préoccupant du SARS-CoV-2 est répandu;
+- b. séquençages ciblés en cas de flambées frappantes;
+- c. séquençages ciblés et par échantillonnage lors d’importantes flambées.
 - 1\.6.2
 
   Elle prend en charge les coûts uniquement si les prestations sont fournies par:
