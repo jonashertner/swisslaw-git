@@ -4,12 +4,12 @@ number: "546.260"
 title: Ordinaziun executiva tar la lescha chantunala da sustegn
 language: rm
 version: 2009-01-01
-corrected: 2016-02-10
+corrected: 2021-04-13
 version_adopted: 1978-09-29
 adopted: 1978-09-29
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.260"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2173/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2657/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -29,11 +29,9 @@ relaschada dal cussegl grond ils 29 da settember 1978[^ingress-2]
 
 **Obligaziun d'annunzia**
 
-<sup>1</sup> L'autoritad sociala da la vischnanca da domicil annunzia entaifer 30 dis al post cumpetent per sustegns tar il departament chantunal d'educaziun e da sanitad[^1-1] mintga cas da sustegn, per che quel possia vegnir tramess vinavant a l'autoritad sociala da la vischnanca burgaisa. L'annunzia vegn fatga cun l'indicaziun da la moda e da l'eventuala dimensiun dal sustegn. La medema obligaziun d'annunzia exista per midadas essenzialas da la moda e da la dimensiun dal sustegn.
+<sup>1</sup> L'autoritad sociala da la vischnanca da domicil annunzia entaifer 30 dis al post cumpetent per sustegns tar il departament chantunal d'economia publica e fatgs socials mintga cas da sustegn, per che quel possia vegnir tramess vinavant a l'autoritad sociala da la vischnanca burgaisa. L'annunzia vegn fatga cun l'indicaziun da la moda e da l'eventuala dimensiun dal sustegn. La medema obligaziun d'annunzia exista per midadas essenzialas da la moda e da la dimensiun dal sustegn.
 
 <sup>2</sup> Per burgaisas e per burgais da stadis che han – sin fundament d'in contract internaziunal – in'obligaziun da cumpensar sto l'annunzia vegnir fatga immediatamain.
-
-[^1-1]: nov: departament d'economia publica e fatgs socials
 
 #### Art. 2
 

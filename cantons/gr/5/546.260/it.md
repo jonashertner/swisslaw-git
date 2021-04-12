@@ -4,12 +4,12 @@ number: "546.260"
 title: "Ordinanza d'esecuzione della legge cantonale sull'assistenza alle persone nel bisogno"
 language: it
 version: 2009-01-01
-corrected: 2016-02-10
+corrected: 2021-04-13
 version_adopted: 1978-09-29
 adopted: 1978-09-29
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.260"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2173/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2657/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -29,11 +29,9 @@ ai sensi dell'art. 20 della legge[^ingress-2]
 
 **Obbligo di notifica**
 
-<sup>1</sup> L'autorità sociale del comune di domicilio notifica entro 30 giorni al competente Organo di assistenza pubblica del Dipartimento dell'educazione e dell'igiene[^1-1] tutti i casi di assistenza per l'inoltro all'autorità sociale del comune patriziale. La notifica deve indicare il modo e la misura presumibile dell'assistenza. Lo stesso obbligo di notifica esiste per mutamenti importanti nel modo e nella misura dell'assistenza.
+<sup>1</sup> L'autorità sociale del comune di domicilio notifica entro 30 giorni al competente Organo di assistenza pubblica del Dipartimento dell'economia pubblica e socialità tutti i casi di assistenza per l'inoltro all'autorità sociale del comune patriziale. La notifica deve indicare il modo e la misura presumibile dell'assistenza. Lo stesso obbligo di notifica esiste per mutamenti importanti nel modo e nella misura dell'assistenza.
 
 <sup>2</sup> La notifica va fatta immediatamente per i cittadini di quegli stati, che in virtù di contratti internazionali sono obbligati al rimborso.
-
-[^1-1]: Nuovo: Dipartimento dell'economia pubblica e socialità
 
 #### Art. 2
 

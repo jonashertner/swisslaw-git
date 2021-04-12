@@ -4,12 +4,12 @@ number: "546.260"
 title: Vollziehungsverordnung zum kantonalen Unterstützungsgesetz
 language: de
 version: 2009-01-01
-corrected: 2016-02-10
+corrected: 2021-04-13
 version_adopted: 1978-09-29
 adopted: 1978-09-29
 in_force: 1979-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.260"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2173/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2657/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -29,11 +29,9 @@ vom Grossen Rat erlassen am 29. September 1978[^ingress-2]
 
 **Meldepflicht**
 
-<sup>1</sup> Die Sozialbehörde der Wohngemeinde meldet innert 30 Tagen der zuständigen Stelle für Unterstützungen beim kantonalen Erziehungs- und Sanitätsdepartement[^1-1] jeden Unterstützungsfall zur Weiterleitung an die Sozialbehörde der Bürgergemeinde. Die Anzeige erfolgt unter Angabe von Art und voraussichtlichem Mass der Unterstützung. Die gleiche Meldepflicht besteht für wesentliche Änderungen in der Art und im Mass der Unterstützung.
+<sup>1</sup> Die Sozialbehörde der Wohngemeinde meldet innert 30 Tagen der zuständigen Stelle für Unterstützungen beim kantonalen Departement für Volkswirtschaft und Soziales jeden Unterstützungsfall zur Weiterleitung an die Sozialbehörde der Bürgergemeinde. Die Anzeige erfolgt unter Angabe von Art und voraussichtlichem Mass der Unterstützung. Die gleiche Meldepflicht besteht für wesentliche Änderungen in der Art und im Mass der Unterstützung.
 
 <sup>2</sup> Für Bürger von Staaten, die Kraft Staatsvertrages ersatzpflichtig sind, ist die Meldung sofort zu erstatten.
-
-[^1-1]: Neu: Departement für Volkswirtschaft und Soziales
 
 #### Art. 2
 
