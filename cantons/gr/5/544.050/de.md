@@ -4,58 +4,55 @@ number: "544.050"
 title: Reglement über die Organisation der Sozialversicherungsanstalt des Kantons Graubünden
 language: de
 version: 1997-12-01
-corrected: 2014-10-09
+corrected: 2021-04-13
 version_adopted: 1997-12-02
 adopted: 1994-04-12
 in_force: 1995-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/544.050"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/805/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2086/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Organisation der Sozialversicherungsanstalt des Kantons Graubünden
 
-Gestützt auf Art. 2 der Vollziehungsverordnung zum Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung[^t-1]
+Vom 12.04.1994 (Stand 01.12.1997)
+
+Gestützt auf Art. 2 der Vollziehungsverordnung zum Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung[^ingress-1]
 
 von der Regierung erlassen am 12. April 1994
 
-I. Allgemeine Bestimmungen
+[^ingress-1]: BR [544.010](https://www.gr-lex.gr.ch/data/544.010/de)
 
-[^t-1]: BR 544.010
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gliederung**
 
-Die Sozialversicherungsanstalt des Kantons Graubünden (SVAG) gliedert sich in folgende Bereiche:
+<sup>1</sup> Die Sozialversicherungsanstalt des Kantons Graubünden (SVAG) gliedert sich in folgende Bereiche:
 
 - 1\. Verwaltungsgeschäft
-
 - 2\. AHV-Ausgleichskasse
-
 - 3\. IV-Stelle
-
-[^1-1]: Fassung gemäss RB vom 2. Dezember 1997 1.7.2005 1
 
 #### Art. 2
 
-**Organisation**[^1-1]
+**Organisation**
 
-Die Organisation der einzelnen Bereiche wird durch die Verwaltungskommission geregelt.
+<sup>1</sup> Die Organisation der einzelnen Bereiche wird durch die Verwaltungskommission geregelt.
 
 #### Art. 3
 
 **Zuteilung der Sachgebiete und Geschäfte**
 
-Soweit auf Bundesebene und kantonaler Ebene Gesetze und Verordnungen nichts anderes bestimmen, teilt die Verwaltungskommission die einzelnen Sachgebiete, Zuständigkeiten und Geschäfte den Bereichen mittels Weisungen zu.
+<sup>1</sup> Soweit auf Bundesebene und kantonaler Ebene Gesetze und Verordnungen nichts anderes bestimmen, teilt die Verwaltungskommission die einzelnen Sachgebiete, Zuständigkeiten und Geschäfte den Bereichen mittels Weisungen zu.
 
 #### Art. 4
 
 **Gleichstellung der Geschlechter**
 
-Personen-, Funktions- und Berufsbezeichnungen in diesem Reglement beziehen sich auf beide Geschlechter.
+<sup>1</sup> Personen-, Funktions- und Berufsbezeichnungen in diesem Reglement beziehen sich auf beide Geschlechter.
 
 #### Art. 5
 
@@ -65,22 +62,21 @@ Personen-, Funktions- und Berufsbezeichnungen in diesem Reglement beziehen sich 
 
 <sup>2</sup> Über Ausstandsfragen entscheidet das Organ unter Ausschluss des betreffenden Mitgliedes.
 
-### II. Organe
+## 2. Organe
 
-- 1\. VERWALTUNGSKOMMISSION
+### 2.1. Verwaltungskommission
 
 #### Art. 6
 
 **Obliegenheiten der Verwaltungskommission**
 
-Die Verwaltungskommission hat ausser den im Gesetz[^6-1] und in der Vollziehungsverordnung[^6-2] festgelegten Obliegenheiten insbesondere folgende Befugnisse:
+<sup>1</sup> Die Verwaltungskommission hat ausser den im Gesetz[^6-1] und in der Vollziehungsverordnung[^6-2] festgelegten Obliegenheiten insbesondere folgende Befugnisse:
 
 - 1\. die Genehmigung des Budgets;
-
 - 2\. die Gewährung von Nachtragskrediten.
 
-[^6-1]: BR 544.000
-[^6-2]: BR 544.010 2 1.7.2005
+[^6-1]: BR [544.000](https://www.gr-lex.gr.ch/data/544.000/de)
+[^6-2]: BR [544.010](https://www.gr-lex.gr.ch/data/544.010/de)
 
 #### Art. 7
 
@@ -96,31 +92,30 @@ Die Verwaltungskommission hat ausser den im Gesetz[^6-1] und in der Vollziehungs
 
 **Beschlüsse und Protokoll**
 
-<sup>1</sup> über die Beschlüsse der Verwaltungskommission wird ein Protokoll geführt. Stellungnahmen einzelner Mitglieder sind auf deren Wunsch hin in das Protokoll aufzunehmen. Dieses wird den Mitgliedern zugestellt und liegt an der folgenden Sitzung zur Genehmigung vor.
+<sup>1</sup> Über die Beschlüsse der Verwaltungskommission wird ein Protokoll geführt. Stellungnahmen einzelner Mitglieder sind auf deren Wunsch hin in das Protokoll aufzunehmen. Dieses wird den Mitgliedern zugestellt und liegt an der folgenden Sitzung zur Genehmigung vor.
 
 <sup>2</sup> In das Protokoll sind auch die seit der letzten Sitzung auf dem Zirkulationsweg gefassten Beschlüsse aufzunehmen.
 
 <sup>3</sup> Die Beschlüsse der Verwaltungskommission werden durch den Präsidenten oder seinen Stellvertreter und den Protokollführer unterzeichnet.
 
-- 2\. DIREKTION
+### 2.2. Direktion
 
 #### Art. 9
 
 **Direktion**
 
-Die Direktion ist für alle Geschäfte zuständig, die nicht nach Gesetz und den dazugehörigen weiteren Erlassen ausdrücklich in die Zuständigkeit anderer Organe fallen.
+<sup>1</sup> Die Direktion ist für alle Geschäfte zuständig, die nicht nach Gesetz und den dazugehörigen weiteren Erlassen ausdrücklich in die Zuständigkeit anderer Organe fallen.
 
 #### Art. 10
 
 **Befugnisse und Pflichten**
 
-Die Direktion hat insbesondere folgende Befugnisse und Pflichten:
+<sup>1</sup> Die Direktion hat insbesondere folgende Befugnisse und Pflichten:
 
 - 1\. Entscheid über die Beanspruchung der im Rahmen des Budgets bewilligten Kredite; sie kann diese Kompetenz in dem von ihr festzusetzenden Umfang den Direktionsmitgliedern übertragen;
-
 - 2\. die Anforderung eines Nachtragskredites; die Bestimmungen des Gesetzes über den Finanzhaushalt des Kantons Graubünden[^10-1] gelten sinngemäss.
 
-[^10-1]: BR 710.100 1.7.2005 3
+[^10-1]: BR [710.100](https://www.gr-lex.gr.ch/data/710.100/de)
 
 #### Art. 11
 
@@ -164,40 +159,33 @@ Die Direktion hat insbesondere folgende Befugnisse und Pflichten:
 
 <sup>6</sup> Bei Einreihungen und Stellenschaffungen fordert der Direktor das Personal- und Organisationsamt zur Stellungnahme auf.
 
-- 3\. REVISIONSSTELLE
+### 2.3. Revisionsstelle
 
 #### Art. 15
 
 **Revisionsstelle**
 
-Über das Rechnungswesen und die Geschäftsführung der SVAG hat die Revisionsstelle die gesetzlich vorgeschriebenen Kontrollen durchzuführen und Bericht zu erstatten.
+<sup>1</sup> Über das Rechnungswesen und die Geschäftsführung der SVAG hat die Revisionsstelle die gesetzlich vorgeschriebenen Kontrollen durchzuführen und Bericht zu erstatten.
 
-### III. Schlussbestimmungen
+## 3. Schlussbestimmungen
 
 #### Art. 16
 
-**Änderung von Erlassen**
+**Änderung von Erlassen[^16-1]**
 
-Die nachstehende regierungsrätliche Verordnung wird dem Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung[^16-1] angepasst und wie folgt geändert:
-
-Beschluss betreffend Zuweisung von Sachgebieten an die Departemente vom 15. Dezember 1986[^16-2] Art. 1 Ziff. IV lit. A. g) Sozialversicherung
-
-[^16-1]: richtig: … über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung
-[^16-2]: BR 170.325
+[^16-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
 #### Art. 17
 
 **Aufhebung von Erlassen**
 
-Mit Inkrafttreten dieser Verordnung werden alle mit ihr in Widerspruch stehenden Bestimmungen aufgehoben, insbesondere:
+<sup>1</sup> Mit Inkrafttreten dieser Verordnung werden alle mit ihr in Widerspruch stehenden Bestimmungen aufgehoben, insbesondere:
 
 - 1\. Reglement über die Organisation der Ausgleichskasse des Kantons Graubünden vom 9. März 1981[^17-1];
-
 - 2\. Provisorische Verordnung über die Invalidenversicherung für den Kanton Graubünden vom 29. Dezember 1959[^17-2];
-
 - 3\. Errichtung einer kantonalen Regionalstelle der Invalidenversicherung für den Kanton Graubünden vom 2. Mai 1960[^17-3].
 
-[^17-1]: AGS 1981, 796; AGS 1990, 2353; BR 544.200 4 1.7.2005
+[^17-1]: AGS 1981, 796; AGS 1990, 2353; BR 544.200
 [^17-2]: AGS 1960, 97; BR 544.600
 [^17-3]: AGS 1960, 133; BR 544.650
 
@@ -205,6 +193,8 @@ Mit Inkrafttreten dieser Verordnung werden alle mit ihr in Widerspruch stehenden
 
 **Inkrafttreten**
 
-Dieses Reglement tritt nach der Genehmigung durch den Bund zusammen mit dem Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung in Kraft.[^18-1]
+<sup>1</sup> Dieses Reglement tritt nach der Genehmigung durch den Bund zusammen mit dem Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung in Kraft[^18-1].
 
-[^18-1]: Mit RB vom 5. Juli 1994 auf den 1. Januar 1995 in Kraft gesetzt 1.7.2005 5
+[^18-1]: Mit RB vom 5. Juli 1994 auf den 1. Januar 1995 in Kraft gesetzt.
+
+-
