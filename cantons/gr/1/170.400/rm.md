@@ -5,12 +5,12 @@ title: Lescha davart la relaziun da lavur da las collavuraturas e dals collavura
 short: "lescha dal persunal, LP"
 language: rm
 version: 2017-01-01
-corrected: 2017-02-20
+corrected: 2021-04-13
 version_adopted: 2016-08-31
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2757/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2770/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

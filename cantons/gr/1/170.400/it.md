@@ -5,12 +5,12 @@ title: Legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni
 short: "Legge sul personale, LCPers"
 language: it
 version: 2017-01-01
-corrected: 2017-02-20
+corrected: 2021-04-13
 version_adopted: 2016-08-31
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2757/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2770/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -458,7 +458,7 @@ decide:
 
 **Congedi**
 
-<sup>1</sup> I Dipartimenti hanno la facoltà di concedere, su proposta del servizio e dopo aver sentito l'Ufficio del personale e dell'organizzazione, congedi pagati fino a una settimana. Per congedi pagati più lunghi è competente il Governo.
+<sup>1</sup> I Dipartimenti hanno la facoltà di concedere, su proposta del servizio e dopo aver sentito l'Ufficio del personale, congedi pagati fino a una settimana. Per congedi pagati più lunghi è competente il Governo.
 
 <sup>2</sup> Per eventi come la nascita di figli propri, adozioni, feste in famiglia, decessi, cambiamenti di abitazione, manifestazioni sportive e culturali vengono concessi brevi congedi pagati.
 
@@ -631,9 +631,9 @@ decide:
 
 **Ufficio specializzato e di consulenza**
 
-<sup>1</sup> L'Ufficio del personale e dell'organizzazione è l'ufficio specializzato e di consulenza per questioni relative al personale e all'organizzazione. Esso sostiene il Governo e l'Amministrazione nell'attuazione della politica del personale e nell'applicazione unitaria del diritto del personale.
+<sup>1</sup> L'Ufficio del personale è l'ufficio specializzato e di consulenza per questioni relative al personale e all'organizzazione. Esso sostiene il Governo e l'Amministrazione nell'attuazione della politica del personale e nell'applicazione unitaria del diritto del personale.
 
-<sup>2</sup> L'Ufficio del personale e dell'organizzazione collabora direttamente con tutti i rami dell'Amministrazione. Esso prepara i contratti, le disposizioni e le decisioni in materia di diritto del personale, qualora il Governo non disponga altrimenti. Esso esamina la conformità delle decisioni previste agli atti normativi sul personale e alla prassi e può emanare direttive specifiche nell'ambito della sua sfera di attività.
+<sup>2</sup> L'Ufficio del personale collabora direttamente con tutti i rami dell'Amministrazione. Esso prepara i contratti, le disposizioni e le decisioni in materia di diritto del personale, qualora il Governo non disponga altrimenti. Esso esamina la conformità delle decisioni previste agli atti normativi sul personale e alla prassi e può emanare direttive specifiche nell'ambito della sua sfera di attività.
 
 #### Art. 60
 
@@ -703,7 +703,7 @@ decide:
 
 <sup>1</sup> Se la presente legge o i relativi atti normativi esecutivi non stabiliscono diversamente, per tutte le decisioni in materia di diritto del personale sono considerate autorità competenti i Dipartimenti, la Cancelleria dello Stato o il Controllo delle finanze.
 
-<sup>2</sup> Se l'autorità competente e l'Ufficio del personale e dell'organizzazione non giungono ad un accordo, il Governo decide in via definitiva.
+<sup>2</sup> Se l'autorità competente e l'Ufficio del personale non giungono ad un accordo, il Governo decide in via definitiva.
 
 #### Art. 65
 
