@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Übertragung einzelner Aufgaben/Zuständigkeiten der Militärjustiz an die zivilen Justizbehörden; Änderung des Militärstrafgesetzes
 document: Vorlage
 language: de

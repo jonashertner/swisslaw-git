@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Trasferimento di alcuni compiti/alcune competenze della giustizia militare alle autorità giudiziarie civili; modifica del Codice penale militare
 document: Avamprogetto
 language: it

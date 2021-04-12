@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Transfert de certaines tâches et compétences de la justice militaire à la justice civile; modification du code pénal militaire
 document: Projet
 language: fr
