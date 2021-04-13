@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: "Ordinanza dell'USAV che istituisce provvedimenti per evitare l'introduzione dell'influenza aviaria da taluni Stati membri dell'Unione europea"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/973"
 language: it
-version: 2021-04-02
+version: 2021-04-14
 adopted: 2020-12-15
 in_force: 2020-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210402/it/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210402-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210402/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210414/it/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210414-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210414/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea e dall’Irlanda del Nord****
 
-del 15 dicembre 2020 (Stato 2 aprile 2021)[^t-1]
+del 15 dicembre 2020 (Stato 14 aprile 2021) (Stato 14 aprile 2021)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 15 feb. 2021, in vigore dal 17 feb. 2021 ([RU 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
 
@@ -85,8 +85,8 @@ L’importazione di uova da cova è ammessa se:
 - b.[^5-1] l’autorità competente dello Stato membro dell’Unione europea (UE) interessato o l’autorità competente dell’Irlanda del Nord ha autorizzato l’esportazione secondo le condizioni di cui all’articolo 4 della decisione di esecuzione (UE) 2020/1809[^5-2]; e
 - c. la partita è accompagnata da un certificato sanitario che contiene la seguente dicitura: «La partita è conforme alle norme di polizia sanitaria specificate nella decisione di esecuzione (UE) 2020/1809 della Commissione».
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 31 mar. 2021, in vigore dal 2 apr. 2021 ([RU 2021 190](https://fedlex.data.admin.ch/eli/oc/2021/190)).
-[^5-2]: Decisione di esecuzione (UE) 2020/1809 della Commissione, del 30 novembre 2020, relativa ad alcune misure di protezione contro focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 402 dell’1.12.2020, pag. 144; modificata da ultimo dalla decisione di esecuzione (UE) 2021/489, GU L 101 del 23.3.2021, pag. 2.
+[^5-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 12 apr. 2021, in vigore dal 14 apr. 2021 ([RU 2021 204](https://fedlex.data.admin.ch/eli/oc/2021/204)).
+[^5-2]: Decisione di esecuzione (UE) 2020/1809 della Commissione, del 30 novembre 2020, relativa ad alcune misure di protezione contro focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 402 dell’1.12.2020, pag. 144; modificata da ultimo dalla decisione di esecuzione (UE) 2021/562, GU L 119 del 7.4.2021, pag. 3.
 
 #### Art. 6
 
@@ -108,15 +108,15 @@ Allegato*[^t-2]*
 
 ## Stati membri e zone interessati
 
-[^t-2]: Nuovo testo giusta il n. II dell’O dell’USAV del 31 mar. 2021, in vigore dal 2 apr. 2021 ([RU 2021 190](https://fedlex.data.admin.ch/eli/oc/2021/190)).
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’USAV del 12 apr. 2021, in vigore dal 14 apr. 2021 ([RU 2021 204](https://fedlex.data.admin.ch/eli/oc/2021/204)).
 
 ### 1 Zone di protezione e zone di sorveglianza negli Stati membri dell’UE interessati e nell’Irlanda del Nord
 
-Gli Stati membri dell’Unione europea e altri territori interessati nonché le zone di protezione e le zone di sorveglianza sono stabiliti nella decisione di esecuzione seguente:
+Gli Stati membri dell’UE e altri territori interessati nonché le zone di protezione e le zone di sorveglianza sono stabiliti nella decisione di esecuzione seguente:
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2020/1809</td><td>Decisione di esecuzione (UE) 2020/1809 della Commissione, del 30 novembre 2020, relativa ad alcune misure di protezione contro focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 402 dell’1.12.2020, pag. 144; modificata da ultimo dalla decisione di esecuzione (UE) 2021/489, GU L 101 del 23.3.2021, pag. 2</td></tr>
+<tr><td>Decisione di esecuzione (UE) 2020/1809</td><td>Decisione di esecuzione (UE) 2020/1809 della Commissione, del 30 novembre 2020, relativa ad alcune misure di protezione contro focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 402 dell’1.12.2020, pag. 144; modificata da ultimo dalla decisione di esecuzione (UE) 2021/562, GU L 119 del 7.4.2021, pag. 3</td></tr>
 </table>
 
 Gli allegati della decisione di esecuzione elencano le zone di protezione e le zone di sorveglianza come segue:
