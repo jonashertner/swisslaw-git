@@ -4,13 +4,13 @@ number: "101.5"
 title: Verordnung über die Unterstellung von Schutzeinrichtungen vor Gastronomiebetrieben unter § 4 der Kantonalen Bauverordnung (KBV) infolge der Corona-Pandemie
 short: CorSE-V
 language: de
-version: 2020-11-24
-valid_until: 2021-04-13
-version_adopted: 2020-11-24
+version: 2021-04-14
+valid_until: 2021-11-23
+version_adopted: 2021-04-27
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bgs.so.ch/app/de/texts_of_law/101.5"
-pdf: "https://bgs.so.ch/api/de/versions/5003/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5079/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5003/pdf_file"
 
 (CorSE-V)[^t-1]
 
-Vom 24.11.2020 (Stand 24.11.2020)
+Vom 24.11.2020 (Stand 14.04.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -32,13 +32,13 @@ bschliesst:
 
 #### § 1
 
-<sup>1</sup> Geschützte, beheizte Ersatzflächen oder Warteräume (Schutzeinrichtungen) oder Heizstrahler im Aussenbereich vor Gastronomiebetrieben, welche aufgrund der COVID-19 Situation in den Wintermonaten für eine begrenzte Zeit aufgestellt werden, können analog § 4 der Kantonalen Bauverordnung (KBV) vom 3. Juli 1978[^1-1] auf Gesuch hin bewilligt werden.
+<sup>1</sup> Geschützte, beheizte Ersatzflächen oder Warteräume (Schutzeinrichtungen) oder Heizstrahler im Aussenbereich vor Gastronomiebetrieben, welche aufgrund der COVID-19 Situation für eine begrenzte Zeit aufgestellt werden, können analog § 4 der Kantonalen Bauverordnung (KBV) vom 3. Juli 1978[^1-1] auf Gesuch hin bewilligt werden.
 
 [^1-1]: BGS [711.61](https://bgs.so.ch/data/711.61/de).
 
 #### § 2
 
-<sup>1</sup> Die so erteilten Bewilligungen ohne formelles Baubewilligungsverfahren haben jeweils Gültigkeit vom 1. November bis längstens am 30. April des darauffolgenden Kalenderjahres.
+<sup>1</sup> Die so erteilten Bewilligungen ohne formelles Baubewilligungsverfahren haben jeweils Gültigkeit bis die vorliegende Verordnung ausser Kraft tritt.
 
 #### § 3
 
@@ -56,6 +56,6 @@ Inkrafttreten am 24. November 2020.
 
 Publiziert im Amtsblatt vom 27. November 2020.
 
-Vom Kantonsrat genehmigt am ... (KRB Nr. ...).
+Vom Kantonsrat genehmigt am 15. Dezember 2020 (KRB Nr. RG 0229/2020).
 
 GS 2020, 74
