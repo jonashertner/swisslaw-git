@@ -4,22 +4,22 @@ title: Verordnung des EJPD vom 19. März 2006 über Abgasmessmittel für Verbren
 short: VAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/251"
 language: de
-version: 2018-12-01
+version: 2021-04-15
 adopted: 2006-03-19
 in_force: 2006-10-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/251/20181201/de/xml/fedlex-data-admin-ch-eli-cc-2006-251-20181201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/251/20181201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/251/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2006-251-20210415-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/251/20210415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des EJPD über Abgasmessmittel für Verbrennungsmotoren****
+# Verordnung des EJPD über Abgasmessmittel für Verbrennungsmotoren
 
 (VAMV)[^t-1]
 
-vom 19. März 2006 (Stand am 1. Dezember 2018)
+vom 19. März 2006 (Stand am 15. April 2021)
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 22. Aug. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 22. August 2012, in Kraft seit 1. Januar 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -28,7 +28,7 @@ gestützt auf die Artikel 5 Absatz 2, 8 Absatz 2, 11 Absatz 2, 16 Absatz 2, 17 A
 verordnet:
 
 [^ingress-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^ingress-2]: Fassung gemäss Ziff. I 14 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Jan. 2013 ([AS 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
+[^ingress-2]: Fassung gemäss Ziff. I 14 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Januar 2013 ([AS 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -42,8 +42,8 @@ Diese Verordnung regelt:
 - b. die Verfahren für das Inverkehrbringen dieser Messmittel[^1-2];
 - c. die Verfahren zur Erhaltung der Messbeständigkeit dieser Messmittel.
 
-[^1-1]: Fassung gemäss Ziff. I der V des EJPD vom 22. Aug. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
-[^1-2]: Ausdruck gemäss Ziff. I der V des EJPD vom 22. Aug. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Die Anpassung wurde im ganzen Text vorgenommen.
+[^1-1]: Fassung gemäss Ziff. I der V des EJPD vom 22. August 2012, in Kraft seit 1. Januar 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^1-2]: Ausdruck gemäss Ziff. I der V des EJPD vom 22. August 2012, in Kraft seit 1. Januar 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
@@ -58,15 +58,15 @@ Dieser Verordnung unterstehen Messmittel für Gasgemischanteile, Messmittel für
 - e.[^2-7] die Emissionsmessungen und -kontrollen nach Artikel 13 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^2-8] bei Baumaschinen sowie Maschinen und Geräten mit Verbrennungsmotor eingesetzt werden;
 - f.[^2-9] die Ermittlung von Referenzwerten von Zulassungsbehörden eingesetzt werden.
 
-[^2-1]: Fassung gemäss Ziff. I der V des EJPD vom 22. Aug. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^2-1]: Fassung gemäss Ziff. I der V des EJPD vom 22. August 2012, in Kraft seit 1. Januar 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 [^2-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-3]: Fassung gemäss Ziff. I der V des EJPD vom 15. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^2-3]: Fassung gemäss Ziff. I der V des EJPD vom 15. Oktober 2018, in Kraft seit 1. Dezember 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
 [^2-4]: [SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)
 [^2-5]: [SR 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548)
 [^2-6]: [SR 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338)
-[^2-7]: Fassung gemäss Ziff. I der V des EJPD vom 15. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^2-7]: Fassung gemäss Ziff. I der V des EJPD vom 15. Oktober 2018, in Kraft seit 1. Dezember 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
 [^2-8]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-9]: Eingefügt durch Ziff. I der V des EJPD vom 22. Aug. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^2-9]: Eingefügt durch Ziff. I der V des EJPD vom 22. August 2012, in Kraft seit 1. Januar 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 #### Art. 3
 
@@ -78,7 +78,7 @@ In dieser Verordnung bedeuten:
 - b. *Messmittel für Dieselrauch:* Messmittel, das den Spitzenwert der optischen Trübung aus einem Teilstrom des Abgases eines Motors mit Selbstzündung bei freier Beschleunigung, die Leerlaufdrehzahl und die Abregeldrehzahl bestimmt;
 - c.[^3-1] *Messmittel für Nanopartikel aus Verbrennungsmotoren:* Messmittel, das die Anzahlkonzentration von Nanopartikeln aus einem Teilstrom des Abgases eines Verbrennungsmotors bestimmt.
 
-[^3-1]: Eingefügt durch Ziff. I der V des EJPD vom 22. Aug. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^3-1]: Eingefügt durch Ziff. I der V des EJPD vom 22. August 2012, in Kraft seit 1. Januar 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 ## 2. Abschnitt: Messmittel für Gasgemischanteile
 
@@ -104,7 +104,7 @@ Die Konformität der Messmittel für Gasgemischanteile mit den grundlegenden Anf
 
 Messmittel für Gasgemischanteile müssen jährlich nach Anhang 7 Ziffer 1 der Messmittelverordnung und nach Anhang 3 Ziffer 1 der vorliegenden Verordnung durch die kantonalen Eichämter nachgeeicht werden.
 
-[^6-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+[^6-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. November 2014, in Kraft seit 1. Januar 2015 ([AS 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
 
 ## 3. Abschnitt: Messmittel für Dieselrauch
 
@@ -126,13 +126,13 @@ Messmittel für Dieselrauch bedürfen einer ordentlichen Zulassung und einer Ers
 
 Messmittel für Dieselrauch müssen jährlich nach Anhang 7 Ziffer 1 der Messmittelverordnung und nach Anhang 3 Ziffer 1 der vorliegenden Verordnung durch die kantonalen Eichämter nachgeeicht werden.
 
-[^9-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+[^9-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. November. 2014, in Kraft seit 1. Januar 2015 ([AS 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
 
-## 3*a*. Abschnitt:**** Messmittel für Nanopartikel aus Verbrennungsmotoren
+## 3*a*. Abschnitt: Messmittel für Nanopartikel aus Verbrennungsmotoren
 
 [^sec3a-1]
 
-[^sec3a-1]: Eingefügt durch Ziff. I der V des EJPD vom 22. Aug. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^sec3a-1]: Eingefügt durch Ziff. I der V des EJPD vom 22. August 2012, in Kraft seit 1. Januar 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 #### Art. 9a
 
@@ -142,12 +142,11 @@ Messmittel für Nanopartikel aus Verbrennungsmotoren müssen die grundlegenden A
 
 #### Art. 9b
 
-**Verfahren für das Inverkehrbringen**
+**Verfahren für das Inverkehrbringen**[^9b-1]
 
-Die Konformität der Messmittel für Nanopartikel aus Verbrennungsmotoren mit den Anforderungen nach Artikel 9*a* wird nach folgenden Verfahren nach Anhang 2 der Messmittelverordnung bewertet und bescheinigt:
+Messmittel für Nanopartikel aus Verbrennungsmotoren bedürfen einer ordentlichen Zulassung und einer Ersteichung nach Anhang 5 der Messmittelverordnung.
 
-- a. Bauartprüfung (Modul B); und
-- b. Erklärung der Konformität mit der Bauart auf der Grundlage einer Prüfung der Produkte (Modul F).
+[^9b-1]: Fassung gemäss Ziff. I der V des EJPD vom 4. März 2021, in Kraft seit 15. April 2021 ([AS 2021 147](https://fedlex.data.admin.ch/eli/oc/2021/147)).
 
 #### Art. 9c
 
@@ -160,9 +159,9 @@ Messmittel für Nanopartikel aus Verbrennungsmotoren müssen folgenden Verfahren
 
 #### Art. 9d
 
-**Kennzeichnung**
+[^9d-1]
 
-Messmittel für Nanopartikel aus Verbrennungsmotoren müssen mit dem Konformitätskennzeichen und dem Metrologie-Kennzeichen nach Anhang 5 versehen sein.
+[^9d-1]: Aufgehoben durch Ziff. I der V des EJPD vom 4. März 2021, mit Wirkung seit 15. April 2021 ([AS 2021 147](https://fedlex.data.admin.ch/eli/oc/2021/147)).
 
 ## 4. Abschnitt: Pflichten der Verwenderin
 
@@ -181,7 +180,7 @@ Zusätzlich zur Verantwortung nach Artikel 21 Absatz 1 der Messmittelverordnung 
 
 Bei Beanstandungen im Sinne von Artikel 29 Absatz 1 der Messmittelverordnung oder bei der amtlichen Kontrolle von Messmitteln ausserhalb der Eichung gelten die in den Anhängen 1, 2 und 4 der vorliegenden Verordnung festgelegten Fehlergrenzen.
 
-[^11-1]: Fassung gemäss Ziff. I der V des EJPD vom 22. Aug. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^11-1]: Fassung gemäss Ziff. I der V des EJPD vom 22. August 2012, in Kraft seit 1. Januar 2013 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 
@@ -201,19 +200,29 @@ Die Verordnung vom 20. Oktober 1993[^12-1] über Abgasmessgeräte für Verbrennu
 
 <sup>2</sup> Messmittel für Gasgemischanteile und Messmittel für Dieselrauch, die nach bisherigem Recht zugelassen wurden, können noch während zehn Jahren nach dem Inkrafttreten dieser Verordnung in Verkehr gebracht und der Ersteichung nach Anhang 5 Ziffer 2 der Messmittelverordnung unterzogen werden. Sie dürfen auch nach Ablauf der zehn Jahre nachgeeicht werden.
 
+#### Art. 13a
+
+**Übergangsbestimmungen zur Änderung vom 4. März 2021**[^13a-1]
+
+<sup>1</sup> Konformitätsbescheinigungen für Messmittel für Nanopartikel aus Verbrennungsmotoren, die nach der bisherigen Regelung dieser Verordnung ausgestellt wurden, bleiben bis zu ihrem Ablauf gültig.
+
+<sup>2</sup> Nach Ablauf der Gültigkeit der Konformitätsbescheinigungen nach Absatz 1 müssen die Messmittel für Nanopartikel aus Verbrennungsmotoren neu nach Artikel 9*b* in Verkehr gebracht werden.
+
+[^13a-1]: Eingefügt durch Ziff. I der V des EJPD vom 4. März 2021, in Kraft seit 15. April 2021 ([AS 2021 147](https://fedlex.data.admin.ch/eli/oc/2021/147)).
+
 #### Art. 14
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 30. Oktober 2006 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 4)
 
 ## Spezifische Anforderungen an Messmittel für Gasgemischanteile
 
-[^t-2]: Bereinigt gemäss Ziff. II der V des EJPD vom 15. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^t-2]: Bereinigt gemäss Ziff. II der V des EJPD vom 15. Oktober 2018, in Kraft seit 1. Dezember 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
 
 ### A Begriffsbestimmungen und Erläuterungen
 
@@ -235,16 +244,16 @@ Anhang 1*[^t-2]*
 - Für Messmittel für Gasgemischanteile sind zwei Geräteklassen (0 und I) definiert. Die jeweiligen Mindestmessbereiche für diese Klassen sind in Tabelle 1 angegeben.
 
 <table>
-<tr><td></td><td>Geräteklassen und Messbereiche</td><td>*Tabelle 1*</td></tr>
+<tr><td>Geräteklassen und Messbereiche</td><td>*Tabelle 1*</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Parameter</th><th>Klasse 0 und I</th></tr>
-<tr><td></td><td>CO-Anteil</td><td>von 0 bis 5 % vol</td></tr>
-<tr><td></td><td>CO<sub>2</sub>-Anteil</td><td>von 0 bis 16 % vol</td></tr>
-<tr><td></td><td>Kohlenwasserstoff-Anteil</td><td>von 0 bis 2000 ppm vol</td></tr>
-<tr><td></td><td>O<sub>2</sub>-Anteil</td><td>von 0 bis 21 % vol</td></tr>
-<tr><td></td><td>λ</td><td>von 0,8 bis 1,2</td></tr>
+<tr><th>Parameter</th><th>Klasse 0 und I</th></tr>
+<tr><td>CO-Anteil</td><td>von 0 bis 5 % vol</td></tr>
+<tr><td>CO<sub>2</sub>-Anteil</td><td>von 0 bis 16 % vol</td></tr>
+<tr><td>Kohlenwasserstoff-Anteil</td><td>von 0 bis 2000 ppm vol</td></tr>
+<tr><td>O<sub>2</sub>-Anteil</td><td>von 0 bis 21 % vol</td></tr>
+<tr><td>λ</td><td>von 0,8 bis 1,2</td></tr>
 </table>
 
 ### 2 Nennbetriebsbedingungen
@@ -280,7 +289,7 @@ Anhang 1*[^t-2]*
 </table>
 
 <table>
-<tr><td>Parameter</td><td>Klasse 0</td><td>Klasse I</td></tr>
+<tr><th>Parameter</th><th>Klasse 0</th><th>Klasse I</th></tr>
 <tr><td>CO-Anteil</td><td>± 0,03 % vol ± 5 %</td><td>± 0,06 % vol ± 5 %</td></tr>
 <tr><td>CO<sub>2</sub>-Anteil</td><td>± 0,5 % vol ± 5 %</td><td>± 0,5 % vol ± 5 %</td></tr>
 <tr><td>Kohlenwasserstoff-Anteil</td><td>± 10 ppm vol ± 5 %</td><td>± 12 ppm vol ± 5 %</td></tr>
@@ -310,9 +319,9 @@ Anhang 1*[^t-2]*
 </table>
 
 <table>
-<tr><td colspan="2"></td><td>CO</td><td>CO<sub>2</sub></td><td>O<sub>2</sub></td><td>HC</td></tr>
-<tr><td colspan="2">Klassen 0 und I</td><td>0,01 % vol</td><td>0,1 % vol</td><td>\*</td><td>1 ppm vol</td></tr>
-<tr><td>\*</td><td colspan="5">0,01 % vol bei Messgrössenwerten kleiner oder gleich 4 % vol, sonst 0,1 % vol.</td></tr>
+<tr><th></th><th>CO</th><th>CO<sub>2</sub></th><th>O<sub>2</sub></th><th>HC</th></tr>
+<tr><td>Klassen 0 und I</td><td>0,01 % vol</td><td>0,1 % vol</td><td>\*</td><td>1 ppm vol</td></tr>
+<tr><td colspan="5">\* 0,01 % vol bei Messgrössenwerten kleiner oder gleich 4 % vol, sonst 0,1 % vol.</td></tr>
 </table>
 
 - Der Lambda-Wert ist mit einer Auflösung von 0,001 anzuzeigen.
@@ -347,7 +356,7 @@ Anhang 2
 - 1\.1 Die Messmittel für Dieselrauch müssen die gleichen Resultate liefern wie die Trübungsmessgeräte, die für die Messung nach dem Verfahren der freien Beschleunigung nach EG-Richtlinie 72/306/EWG[^annex2-lvlu1-lvl1-1] und ECE-Reglement Nr. 24[^annex2-lvlu1-lvl1-2] vorgesehen sind.
 - 1\.2 Die Anforderungen über den Aufbau und die messtechnischen Eigenschaften der Messmittel für Dieselrauch nach Artikel 7 gelten als erfüllt, wenn die Messmittel für Dieselrauch den Anforderungen der Norm ISO 11614[^annex2-lvlu1-lvl1-3] und den folgenden Bestimmungen genügen.
 
-[^annex2-lvlu1-lvl1-1]: Richtlinie des Rates 72/306/EWG vom 2. Aug. 1972 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von Fahrzeugen; ABl. L 190 vom 20.8.1972, S. 1, geändert durch die Richtlinien 89/491/EWG (ABl. L 238 vom 15.8.1989, S. 43) und 97/20/EG (ABl. L 125 vom 16.5.1997, S. 21).
+[^annex2-lvlu1-lvl1-1]: Richtlinie des Rates 72/306/EWG vom 2. August 1972 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von Fahrzeugen; ABl. L 190 vom 20.8.1972, S. 1, geändert durch die Richtlinien 89/491/EWG (ABl. L 238 vom 15.8.1989, S. 43) und 97/20/EG (ABl. L 125 vom 16.5.1997, S. 21).
 [^annex2-lvlu1-lvl1-2]: Wirtschaftskommission für Europa (ECE): «Übereinkommen über die Annahme einheitlicher Bedingungen für die Genehmigung der Ausrüstungsgegenstände und Teile von Motorfahrzeugen und über die gegenseitige Anerkennung der Genehmigung», Anlage 23: ECE-Reglement Nr. 24 vom 20. April 1986 zum Übereinkommen. Auskunft über das ECE-Reglement Nr. 24 erteilt das Eidgenössische Institut für Metrologie (METAS), 3003 Bern-Wabern.
 [^annex2-lvlu1-lvl1-3]: International Standard ISO 11614, «Reciprocating internal combustion compression-ignition engines – Apparatus for measurement of the opacity and for determination of the light absorption coefficient of exhaust gas», Ausgabe 1999-09-01.
 
@@ -422,27 +431,27 @@ Anhang 2
   - – falls nötig, den Klassen von Dieselfahrzeugen, an welchen das Messmittel für Dieselrauch für offizielle Messungen benutzt werden darf;
   - – falls vorhanden, den Gebrauchsbedingungen für jede vorgesehene Sonde.
 
-[^annex2-lvlu1-lvl7-1]: Richtlinie des Rates 72/306/EWG vom 2. Aug. 1972 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von Fahrzeugen; ABl. L 190 vom 20.8.1972, S. 1, geändert durch die Richtlinien 89/491/EWG (ABl. L 238 vom 15.8.1989, S. 43) und 97/20/EG (ABl. L 125 vom 16.5.1997, S. 21).
+[^annex2-lvlu1-lvl7-1]: Richtlinie des Rates 72/306/EWG vom 2. August 1972 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von Fahrzeugen; ABl. L 190 vom 20.8.1972, S. 1, geändert durch die Richtlinien 89/491/EWG (ABl. L 238 vom 15.8.1989, S. 43) und 97/20/EG (ABl. L 125 vom 16.5.1997, S. 21).
 [^annex2-lvlu1-lvl7-2]: Wirtschaftskommission für Europa (ECE): «Übereink. vom 20. März 1958 über die An- nahme einheitlicher Bedingungen für die Genehmigung der Ausrüstungsgegenstände und Teile von Motorfahrzeugen und über die gegenseitige Anerkennung der Genehmigung», Anlage 23: ECE-Reglement Nr. 24 vom 20. April 1986 zum Übereink. Auskunft über das ECE-Reglement Nr. 24 erteilt das Eidgenössische Institut für Metrologie (METAS), 3003 Bern-Wabern.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 6 und 9)
 
 ## Nacheichung von Messmitteln für Gasgemischanteile und Messmitteln für Dieselrauch
 
-[^t-3]: Fassung gemäss Ziff. II der V des EJPD vom 19. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+[^t-3]: Fassung gemäss Ziff. II der V des EJPD vom 19. November 2014, in Kraft seit 1. Januar 2015 ([AS 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
 
 - 1 Messmittel für Gasgemischanteile und Messmittel für Dieselrauch werden unter den üblichen Betriebsbedingungen geeicht. Falls messtechnisch möglich, ist die Prüfung am Einsatzort vorzunehmen. Die Beschränkung der Prüfung auf einzelne Teile ist nur gestattet, wenn zwingende Gründe dies erfordern. Das Eidgenössische Institut für Metrologie bestimmt das Vorgehen bei der Nacheichung im Einzelfall aufgrund der Bauart eines Messmittels.
 - 2 Wenn sich die messtechnischen Eigenschaften massiv verschlechtern oder wenn die Instandhaltungspflicht nach Artikel 10 Buchstabe b grob verletzt wurde, kann ein Messmittel so plombiert werden, dass es nicht mehr benützt werden kann. Diese Plombierung besteht beispielsweise aus dem Überkleben des Druckers oder Verschliessen der Stromversorgung. Das zuständige Eichamt gibt für die Instandstellung durch eine fachkompetente Person eine angemessene Frist.
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 9*a* und 9*c*)
 
 ## Spezifische Anforderungen an Messmittel für Nanopartikel aus Verbrennungsmotoren
 
-[^t-4]: Eingefügt durch Ziff. II der V des EJPD vom 22. Aug. 2012 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Bereinigt gemäss Ziff. I der V des EJPD vom 30. Jan. 2014 ([AS 2014 477](https://fedlex.data.admin.ch/eli/oc/2014/85)) und Ziff. II vom 15. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^t-4]: Eingefügt durch Ziff. II der V des EJPD vom 22. August 2012 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Bereinigt gemäss Ziff. I der V des EJPD vom 30. Januar 2014 ([AS 2014 477](https://fedlex.data.admin.ch/eli/oc/2014/85)) und Ziff. II vom 15. Oktober 2018, in Kraft seit 1. Dezember 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
 
 ### A Begriffsbestimmungen und Erläuterungen
 
@@ -528,7 +537,7 @@ Anhang 4*[^t-4]*
 ### 5 Sonstige Anforderungen
 
 - 5\.1 Der Messprozess muss so automatisiert sein, dass die subjektiven Einflüsse der Verwenderin eliminiert werden.
-- 5\.2 …
+- 5\.2 ...
 - 5\.3 Die Dauer des Abgaseintritts bei der Probenahme bis zur Anzeige der Anzahlkonzentration muss kleiner sein als 10 s (Verzögerungszeit).
 - 5\.4 Für die Bauartprüfung ist eine elektronische Ausgabe der Messdaten in eine Textdatei mit Zeitstempel und Anzahlkonzentration und eine Erfassungsrate von mindestens 10 Hz vorzusehen. Die Datei muss via Schnittstelle an handelsübliche Computer herausgegeben werden können.
 - 5\.5 Das Messmittel ist für den portablen Betrieb im Freien auszulegen.
@@ -568,48 +577,3 @@ Anhang 4*[^t-4]*
   - – Datum und Zeit der Messung;
   - – Mittelwert der Anzahlkonzentration;
   - – Dauer der Messung.
-
-Anhang 5*[^t-5]*
-
-(Art. 9*d*)
-
-## Konformitätskennzeichen und zusätzliche erforderliche Aufschriften für Messmittel für Nanopartikel
-
-[^t-5]: Eingefügt durch Ziff. II der V des EJPD vom 22. Aug. 2012 ([AS 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Bereinigt gemäss Ziff. I 14 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen ([AS 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)) und Ziff. II vom 15. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
-
-### Kennzeichen und Aufschriften
-
-### 1 Symbol
-
--
-
-  Messmittel für Nanopartikel müssen versehen sein mit:
-
-  - a.
-
-    folgendem Konformitätskennzeichen und folgender Kennnummer:
-
-    - 1\. Konformitätskennzeichen, dargestellt durch folgendes Symbol, mit einer Mindesthöhe von 5 mm:
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/251/20181201/de/xml/image/image1.png)
-
-- 2\. Kennnummer(n) der Konformitätsbewertungsstelle(n), die die Produktprüfung(en) vorgenommen hat (haben);
-
-- b. folgendem Metrologie-Kennzeichen: Buchstabe «M» und die letzten beiden Ziffern des Jahres, in dem das Kennzeichen angebracht wurde, eingerahmt durch ein Rechteck, wobei die Höhe des Rechtecks der Höhe des Konformitätskennzeichens entspricht; das Metrologie-Kennzeichen steht unmittelbar hinter dem Konformitätskennzeichen;
-
-- c.
-
-  folgenden Aufschriften:
-
-  - 1\. Name der Herstellerin,
-  - 2\. Nummer des Bauartprüfzertifikats,
-  - 3\. Modell und Seriennummer des Messmittels,
-  - 4\. obere und untere Temperaturgrenze (Anhang 1 Ziff. 1.3.1 der Messmittelverordnung).
-
-### 2 Einrichtung zum Anbringen des Konformitätskennzeichens
-
-- Am Messmittel sind geeignete Einrichtungen zum Anbringen des Konformitätskennzeichens und der Aufschriften vorzusehen. Sie müssen so beschaffen sein, dass sich die Kennzeichen und Aufschriften nicht entfernen lassen, ohne beschädigt zu werden, und dass die Kennzeichen und Aufschriften bei normaler Gebrauchslage des Messmittels gut sichtbar sind. Das Kennzeichen und die Aufschriften sind einander deutlich zugeordnet am Messmittel anzubringen.
-
-### 3 Verwendung eines Kennzeichnungsschilds
-
-- Wird ein Kennzeichnungsschild verwendet, so muss es gesichert werden können, es sei denn, es lässt sich nicht entfernen, ohne zerstört zu werden. Ist das Kennzeichnungsschild zu sichern, so muss ein Sicherungsstempel angebracht werden können.

@@ -4,11 +4,11 @@ title: Ordinanza del DFGP del 19 marzo 2006 sugli strumenti di misurazione dei g
 short: OSGS
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/251"
 language: it
-version: 2018-12-01
+version: 2021-04-15
 adopted: 2006-03-19
 in_force: 2006-10-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/251/20181201/it/xml/fedlex-data-admin-ch-eli-cc-2006-251-20181201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/251/20181201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/251/20210415/it/xml/fedlex-data-admin-ch-eli-cc-2006-251-20210415-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/251/20210415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/251/20181201/it"
 
 (OSGS)
 
-del 19 marzo 2006 (Stato 1° dicembre 2018)
+del 19 marzo 2006 (Stato 15 aprile 2021)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -26,7 +26,7 @@ visti gli articoli 5 capoverso 2, 8 capoverso 2, 11 capoverso 2, 16 capoverso 2,
 ordina:
 
 [^ingress-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^ingress-2]: Nuovo testo giusta il n. I 14 dell’O del DFGP del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
+[^ingress-2]: Nuovo testo giusta il n. I 14 dell’O del DFGP del 7 dicembre 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gennaio 2013 ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -40,7 +40,7 @@ La presente ordinanza disciplina:
 - b. le procedure per l’immissione di tali strumenti sul mercato;
 - c. le procedure per il mantenimento della stabilità di misurazione di tali strumenti.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFGP del 22 ago. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del DFGP del 22 agosto 2012, in vigore dal 1° gennaio 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 #### Art. 2
 
@@ -55,15 +55,15 @@ La presente ordinanza si applica agli strumenti destinati alla misurazione delle
 - e.[^2-7] i controlli e le misurazioni delle emissioni conformemente all’articolo 13 dell’ordinanza del 16 dicembre 1985[^2-8] contro l’inquinamento atmosferico effettuati sulle macchine di cantiere nonché sulle macchine e sugli apparecchi con motori a combustione;
 - f.[^2-9] la determinazione di valori di riferimento da parte delle autorità d’immatricolazione.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFGP del 22 ago. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del DFGP del 22 agosto 2012, in vigore dal 1° gennaio 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 [^2-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-3]: Nuovo testo giusta il n. I dell’O del DFGP del 15 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^2-3]: Nuovo testo giusta il n. I dell’O del DFGP del 15 ottobre 2018, in vigore dal 1° dicembre 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
 [^2-4]: [RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)
 [^2-5]: [RS 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548)
 [^2-6]: [RS 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338)
-[^2-7]: Nuovo testo giusta il n. I dell’O del DFGP del 15 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^2-7]: Nuovo testo giusta il n. I dell’O del DFGP del 15 ottobre 2018, in vigore dal 1° dicembre 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
 [^2-8]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-9]: Introdotta dal n. I dell’O del DFGP del 22 ago. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^2-9]: Introdotta dal n. I dell’O del DFGP del 22 agosto 2012, in vigore dal 1° gennaio 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 #### Art. 3
 
@@ -75,7 +75,7 @@ Ai sensi della presente ordinanza s’intende per:
 - b. *strumento di misurazione del fumo diesel:* strumento di misurazione che serve a determinare il valore di punta dell’opacità visiva in una corrente parziale del gas di scarico di un motore ad autoaccensione, in accelerazione libera, al regime minimo e a un regime prestabilito;
 - c. [^3-1] *strumento di misurazione delle nanoparticelle dei motori a combustione:* strumento di misurazione che serve a determinare la concentrazione numerica di nanoparticelle in una corrente parziale del gas di scarico di un motore a combustione.
 
-[^3-1]: Introdotta dal n. I dell’O del DFGP del 22 ago. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^3-1]: Introdotta dal n. I dell’O del DFGP del 22 agosto 2012, in vigore dal 1° gennaio 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 ## Sezione 2: Strumenti di misurazione delle frazioni di gas di scarico
 
@@ -101,7 +101,7 @@ La conformità degli strumenti di misurazione delle frazioni di gas di scarico a
 
 Gli strumenti di misurazione delle frazioni di gas di scarico devono essere sottoposti ogni anno alle verificazioni successive, eseguite dagli uffici cantonali di verificazione conformemente all’allegato 7 numero 1 dell’ordinanza sugli strumenti di misurazione e all’allegato 3 numero 1 della presente ordinanza.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 novembre 2014, in vigore dal 1° gennaio 2015 ([RU 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
 
 ## Sezione 3: Strumenti di misurazione del fumo diesel
 
@@ -123,13 +123,13 @@ Per gli strumenti di misurazione del fumo diesel sono prescritte l’ammissione 
 
 Gli strumenti di misurazione del fumo diesel devono essere sottoposti ogni anno alle verificazioni successive, eseguite dagli uffici cantonali di verificazione conformemente all’allegato 7 numero 1 dell’ordinanza sugli strumenti di misurazione e all’allegato 3 numero 1 della presente ordinanza.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del DFGP del 19 novembre 2014, in vigore dal 1° gennaio 2015 ([RU 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
 
-## Sezione 3*a*:**** Strumenti di misurazione delle nanoparticelle dei motori a combustione
+## Sezione 3*a*: Strumenti di misurazione delle nanoparticelle dei motori a combustione
 
 [^sec3a-1]
 
-[^sec3a-1]: Introdotta dal n. I dell’O del DFGP del 22 ago. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^sec3a-1]: Introdotta dal n. I dell’O del DFGP del 22 agosto 2012, in vigore dal 1° gennaio 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 #### Art. 9a
 
@@ -139,12 +139,11 @@ Gli strumenti di misurazione delle nanoparticelle dei motori a combustione devon
 
 #### Art. 9b
 
-**Procedure per l’immissione sul mercato**
+**Procedura per l’immissione sul mercato**[^9b-1]
 
-La conformità degli strumenti di misurazione delle nanoparticelle dei motori a combustione ai requisiti essenziali secondo l’articolo 9*a* è valutata e attestata secondo le seguenti procedure che figurano nell’allegato 2 dell’ordinanza sugli strumenti di misurazione:
+Per gli strumenti di misurazione delle nanoparticelle dei motori a combustione sono prescritte l’ammissione ordinaria e la verificazione iniziale conformemente all’allegato 5 dell’ordinanza sugli strumenti di misurazione.
 
-- a. esame del tipo (modulo B); e
-- b. dichiarazione di conformità al tipo basata sulla verifica del prodotto (modulo F).
+[^9b-1]: Nuovo testo giusta il n. I dell’O del DFGP del 4 marzo 2021, in vigore dal 15 aprile 2021 ([RU 2021 147](https://fedlex.data.admin.ch/eli/oc/2021/147)).
 
 #### Art. 9c
 
@@ -157,9 +156,9 @@ Gli strumenti di misurazione delle nanoparticelle dei motori a combustione devon
 
 #### Art. 9d
 
-**Marcature**
+[^9d-1]
 
-Gli strumenti di misurazione delle nanoparticelle dei motori a combustione devono essere munite della marcatura di conformità e della marcatura metrologica prescritte nell’allegato 5.
+[^9d-1]: Abrogato dal n. I dell’O del DFGP del 4 marzo 2021, con effetto dal 15 aprile 2021 ([RU 2021 147](https://fedlex.data.admin.ch/eli/oc/2021/147)).
 
 ## Sezione 4: Obblighi dell’utilizzatore
 
@@ -178,7 +177,7 @@ Oltre alla responsabilità di cui all’articolo 21 capoverso 1 dell’ordinanza
 
 In caso di contestazione ai sensi dell’articolo 29 capoverso 1 dell’ordinanza sugli strumenti di misurazione o in occasione dei controlli ufficiali fuori della verificazione, si applicano gli errori massimi tollerati di cui agli allegati 1, 2 e 4 della presente ordinanza.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DFGP del 22 ago. 2012, in vigore dal 1° gen. 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del DFGP del 22 agosto 2012, in vigore dal 1° gennaio 2013 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)).
 
 ## Sezione 6: Disposizioni finali
 
@@ -198,19 +197,29 @@ L’ordinanza del 20 ottobre 1993[^12-1] sugli strumenti di misura dei gas di sc
 
 <sup>2</sup> Gli strumenti di misurazione delle frazioni di gas di scarico e gli strumenti di misurazione del fumo diesel che sono stati ammessi secondo il diritto previgente possono ancora essere immessi sul mercato e sottoposti alla verificazione iniziale conformemente all’allegato 5 numero 2 dell’ordinanza sugli strumenti di misurazione per dieci anni a decorrere dell’entrata in vigore della presente ordinanza. Possono essere sottoposti alla verificazione successiva anche dopo che sono trascorsi i dieci anni.
 
+#### Art. 13a
+
+**Disposizioni transitorie della modifica del 4 marzo 2021**[^13a-1]
+
+<sup>1</sup> I certificati di conformità per gli strumenti di misurazione delle nanoparticelle dei motori a combustione rilasciati secondo la precedente regolamentazione della presente ordinanza rimangono validi fino alla loro scadenza.
+
+<sup>2</sup> Dopo la scadenza della validità dei certificati di conformità di cui al capoverso 1, gli strumenti di misurazione delle nanoparticelle dei motori a combustione devono essere reimmessi sul mercato conformemente all’articolo 9*b*.
+
+[^13a-1]: Introdotto dal n. I dell’O del DFGP del 4 marzo 2021, in vigore dal 15 aprile 2021 ([RU 2021 147](https://fedlex.data.admin.ch/eli/oc/2021/147)).
+
 #### Art. 14
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 30 ottobre 2006.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4)
 
 ## Requisiti specifici degli strumenti di misurazione delle frazioni di gas di scarico
 
-[^t-1]: Aggiornato dal n. II dell’O del DFGP del 15 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^t-1]: Aggiornato dal n. II dell’O del DFGP del 15 ottobre 2018, in vigore dal 1° dicembre 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
 
 ### A Definizioni e spiegazioni
 
@@ -310,7 +319,7 @@ Parametro lambda
 </table>
 
 <table>
-<tr><td></td><td>CO</td><td>CO<sub>2</sub></td><td>O<sub>2</sub></td><td>HC</td></tr>
+<tr><th></th><th>CO</th><th>CO<sub>2</sub></th><th>O<sub>2</sub></th><th>HC</th></tr>
 <tr><td>Classi 0 e I</td><td>0,01 % vol</td><td>0,1 % vol</td><td>\*</td><td>1 ppm vol</td></tr>
 <tr><td colspan="5">\* 0,01 % vol per valori del misurando inferiori o pari al 4 % vol, altrimenti 0,1 % vol.</td></tr>
 </table>
@@ -425,24 +434,24 @@ Allegato 2
 [^annex2-lvlu1-lvl7-1]: Direttiva 72/306/CEE del Consiglio, del 2 agosto 1972, per il ravvicinamento delle legislazioni degli Stati membri relative alle misure da adottare contro l’ inquinamento prodotto dai motori diesel destinati alla propulsione dei veicoli; GUCE L 190 del 20.8.1972**,** pag. 1 modificata delle Direttive 89/491/CEE (GUCE L 213 del 15.8.1989, pag. 43) e 97/20/CEE (GUCE L 125 del 16.5.1997, pag. 21).
 [^annex2-lvlu1-lvl7-2]: Commissione economica per l’Europa (CEE): «Accordo relativo all’adozione di prescrizioni tecniche uniformi applicabili ai veicoli a motore, agli accessori ed alle parti che possono essere installati o utilizzati sui veicoli a motore ed alle condizioni del riconoscimento reciproco delle omologazioni rilasciate sulla base di tali prescrizioni», appendice 23: Regolamento CEE n. 24 del 20 aprile 1986 relativo all’Accordo. Informazioni sul Regolamento CEE n. 24 possono essere richieste all’Istituto federale di metrologia (METAS), 3003 Berna-Wabern.
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 6 e 9)
 
 ## Verificazioni successive di strumenti di misurazione delle frazioni di gas di scarico e del fumo diesel
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del DFGP del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del DFGP del 19 novembre 2014, in vigore dal 1° gennaio 2015 ([RU 2014 4551](https://fedlex.data.admin.ch/eli/oc/2014/759)).
 
 - 1\. Gli strumenti di misurazione di frazioni di miscela dei gas e gli strumenti di misurazione del fumo diesel sono verificati nelle condizioni di funzionamento usuali. Se possibile dal profilo metrologico, l’esame va eseguito nel luogo d’impiego. La limitazione dell’esame a singole parti è consentita unicamente se motivi validi lo esigono. L’Istituto federale di metrologia determina la procedura di verificazione successiva caso per caso, secondo il tipo di strumento di misurazione.
 - 2\. Se le caratteristiche metrologiche si deteriorano fortemente oppure se l’obbligo della manutenzione ai sensi dell’articolo 10 lettera b è stato gravemente disatteso, lo strumento di misurazione può essere piombato in modo tale da impedirne l’ulteriore utilizzazione. Tale piombatura consiste, per esempio, nel bloccare la stampante o nel chiudere l’alimentazione in corrente. Il competente ufficio di verificazione assegna un termine adeguato affinché una persona competente proceda alla revisione.
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 9*a* e 9*c*)
 
 ## Requisiti specifici degli strumenti di misurazione delle nanoparticelle dei motori a combustione
 
-[^t-3]: Introdotto dal n. II dell’O del DFGP del 22 ago. 2012 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Aggiornato dal n. I dell’O del DFGP del 30 gen. 2014 ([RU 2014 477](https://fedlex.data.admin.ch/eli/oc/2014/85)) e dal n. II dell’O del DFGP del 15 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
+[^t-3]: Introdotto dal n. II dell’O del DFGP del 22 agosto 2012 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Aggiornato dal n. I dell’O del DFGP del 30 gennaio 2014 ([RU 2014 477](https://fedlex.data.admin.ch/eli/oc/2014/85)) e dal n. II dell’O del DFGP del 15 ottobre 2018, in vigore dal 1° dicembre 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
 
 ### A Definizioni e spiegazioni
 
@@ -498,9 +507,10 @@ Quoziente della concentrazione numerica di particelle indicata e della concentra
 
 - Gli errori massimi tollerati sono definiti come segue:
 - a seconda della dimensione e della composizione delle particelle, lo strumento di misurazione deve mantenere per tutto il campo di misurazione un’efficienza *E* entro i valori di variazione critici di cui alla tabella 1.
-- Efficienza degli strumenti di misurazione di nanoparticelle
 
-Tabella 1
+<table>
+<tr><td>Efficienza degli strumenti di misurazione di nanoparticelle</td><td>*Tabella 1*</td></tr>
+</table>
 
 <table>
 <tr><th>Diametro di mobilità</th><th>Valori limite dell’efficienza *E*</th></tr>
@@ -554,7 +564,7 @@ Tabella 1
 
 - 6\.3 Lo strumento di misurazione deve essere concepito in modo tale che i lavori di manutenzione bastano per mantenere le caratteristiche metrologiche entro i limiti degli errori massimi tollerati durante il termine di verificazione.
 - 6\.4 Se uno strumento di misurazione è sottoposto a una regolazione dopo la manutenzione, è necessario procedere anche a una verificazione successiva.
-- 6\.5 L'Istituto federale di metrologia determina la procedura di verificazione successiva caso per caso, secondo il tipo di strumento di misurazione.
+- 6\.5 L’Istituto federale di metrologia determina la procedura di verificazione successiva caso per caso, secondo il tipo di strumento di misurazione.
 
 ### 7 Misurazione ufficiale
 
@@ -576,44 +586,3 @@ Tabella 1
   - – la data e l’ora della misurazione;
   - – il valore medio della concentrazione numerica;
   - – la durata della misurazione.
-
-Allegato 5*[^t-4]*
-
-(art. 9*d*)
-
-## Marcature di conformità e iscrizioni supplementari richiesti per gli strumenti di misurazione di nanoparticelle
-
-[^t-4]: Introdotto dal n. II dell’O del DFGP del 22 ago. 2012 ([RU 2012 5371](https://fedlex.data.admin.ch/eli/oc/2012/614)). Aggiornato dal n. I 14 dell’O del DFGP del 7 dic. 2012 (nuove basi legali in materia di metrologia) ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)) e dal n. II dell’O del DFGP del 15 ott. 2018, in vigore dal 1° dic. 2018 ([RU 2018 4071](https://fedlex.data.admin.ch/eli/oc/2018/660)).
-
-### Marchi e iscrizioni
-
-### 1 Simbolo
-
-- [tab] Gli strumenti di misurazione delle nanoparticelle devono essere muniti:
-- a.
-
-  del seguente marchio di conformità e del numero d’identificazione:
-
-  - 1\. l’altezza del marchio rappresentato dal simbolo seguente non può essere inferiore a 5 mm:
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/251/20181201/it/xml/image/image1.png)
-
-- 2\. il(i) numero(i) d’identificazione dello(degli) organismo(i) di valutazione della conformità che ha(hanno) effettuato la(le) operazione(i) di verifica;
-
-- b. della seguente marcatura metrologica: lettera «M» e ultime due cifre dell’anno di apposizione della marcatura, iscritti in un rettangolo dove l’altezza del rettangolo corrisponde all’altezza della marcatura di conformità; l’altezza del rettangolo corrisponde all’altezza della marcatura di conformità; la marcatura metrologica è posta immediatamente dopo la marcatura di conformità;
-- c.
-
-  delle seguenti iscrizioni:
-
-  - 1\. il nome del fabbricante,
-  - 2\. il numero del certificato di esame del tipo,
-  - 3\. il modello e il numero di serie dello strumento di misurazione,
-  - 4\. il limite superiore e inferiore di temperatura (allegato 1 n. 1.3.1 dell’ordinanza sugli strumenti di misurazione).
-
-### 2 Dispositivo per l’apposizione del marchio di conformità
-
-- [tab] Gli strumenti di misurazione devono essere muniti del marchio di conformità e delle iscrizioni. Il marchio di conformità e le iscrizioni devono essere apposti sullo strumento in modo che sia impossibile rimuoverli senza danneggiare lo stesso e devono essere chiaramente visibili quando lo strumento è installato nella sua posizione regolare di funzionamento. Il marchio di conformità e le iscrizioni devono essere apposti insieme sullo strumento ma in maniera distinta.
-
-### 3 Utilizzazione di una targhetta di supporto
-
-- [tab] Se si utilizza una targhetta di supporto, questa deve essere assicurata mediante sigillatura, a meno che la sua eventuale asportazione dello strumento comporti il danneggiamento della medesima. Se la targhetta di supporto va assicurata mediante sigillatura, deve essere possibile apporvi un sigillo di garanzia.
