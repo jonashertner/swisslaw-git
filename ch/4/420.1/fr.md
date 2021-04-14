@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 2012 sur l'encouragement de la recherche 
 short: LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: fr
-version: 2020-01-01
+version: 2021-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/fr"
 
 (LERI)
 
-du 14 décembre 2012 (Etat le 1<sup>er</sup> janvier 2020)
+du 14 décembre 2012 (Etat le 15 avril 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -693,12 +693,8 @@ Le soutien de la Confédération au parc suisse d’innovation peut prendre les 
 - c. la cession de bien-fonds appropriés de la Confédération en droit de superficie avec renonciation temporaire aux rentes des droits de superficie;
 - d. l’acquisition de bien-fonds appartenant à des tiers;
 - e. une combinaison des mesures prévues aux let. a à d;
-- f. d’autres mesures nécessaires au succès des parcs d’innovation qui ne peuvent pas être réalisées dans le cadre de l’encouragement ordinaire au sens de l’art. 7, al. 1, notamment des prêts sans intérêts de durée limitée ou d’autres instruments de financement appropriés.
-
-<sup>2</sup>
-
-Le soutien peut être accordé aux conditions suivantes:
-
+- f.[^33-1] d’autres mesures nécessaires au succès des parcs d’innovation qui ne peuvent pas être réalisées dans le cadre de l’encouragement ordinaire au sens de l’art. 7, al. 1, notamment des prêts sans intérêts de durée limitée, d’autres instruments de financement appropriés et des contributions aux charges de fonctionnement de l’institution responsable visée à l’al. 2, let. b.
+- [tab] <sup>2</sup> Le soutien peut être accordé aux conditions suivantes:
 - a. à l’adoption de l’arrêté fédéral visé à l’art. 32, al. 2, l’affectation des biens-fonds est entièrement compatible avec les exigences en matière de gestion territoriale et de planification des zones relatives à l’affectation des biens-fonds;
 - b. la mise en place du parc d’innovation est confiée à une institution de droit privé ou public portée par un large partenariat national et comprenant la participation de plusieurs cantons et d’entreprises privées; sa création prend effet au plus tard à l’adoption de l’arrêté fédéral;
 - c.
@@ -711,6 +707,8 @@ Le soutien peut être accordé aux conditions suivantes:
   - 4\. une réglementation prévoyant la participation du Conseil des EPF, d’institutions du domaines des EPF et d’autres hautes écoles intéressées aux décisions portant sur des objets qui concernent leurs tâches et leurs intérêts.
 
 <sup>3</sup> Le parc suisse d’innovation est érigé sur plusieurs sites. Les institutions responsables des différents sites peuvent prévoir différents partenariats au sens de l’al. 2, let. b. Les conditions visées à l’al. 2, let. c, s’appliquent à chacune de ces institutions. Par ailleurs, les institutions responsables des différents sites doivent garantir une mise en réseau suffisante des sites.
+
+[^33-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 15 avr. 2021 ([RO 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3577](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 34
 
@@ -750,9 +748,11 @@ L’Assemblée fédérale adopte les arrêtés fédéraux simples ouvrant les pl
 - a. le plafond de dépenses des contributions destinées aux institutions chargées d’encourager la recherche;
 - b. le plafond de dépenses des contributions destinées aux établissements de recherche d’importance nationale;
 - c.[^36-1] le plafond de dépenses pour l’encouragement de l’innovation par Innosuisse;
-- d. les crédits d’engagements des contributions destinées à la coopération internationale en matière de recherche et d’innovation.
+- d. les crédits d’engagements des contributions destinées à la coopération internationale en matière de recherche et d’innovation;
+- e[^36-2]. le plafond de dépenses pour les contributions aux charges de fonctionnement de l’institution responsable du parc suisse d’innovation visée à l’art. 33, al. 2, let. b.
 
 [^36-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^36-2]: Introduite par le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 15 avr. 2021 ([RO 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3577](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 37
 

@@ -4,11 +4,11 @@ title: Federal Act of 14 December 2012 on the Promotion of Research and Innovati
 short: RIPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: en
-version: 2020-01-01
+version: 2021-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2013-786-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/en/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RIPA)
 
-of 14 December 2012 (Status as of 1 January 2020)
+of 14 December 2012 (Status as of 15 April 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -695,7 +695,7 @@ The Confederation’s support for the Swiss Innovation Park can be implemented b
 - c. the provision of suitable real estate owned by the Confederation subject to a fixed-term waiver of claims to land lease interests;
 - d. the acquisition of real estate owned by third parties;
 - e. a combination of the measures under letters a–d;
-- f. further measures necessary to the success of the innovation parks, which cannot be achieved through standard promotion methods under Article 7 paragraph 1, particularly fixed-term interest-free loans or other appropriate financing instruments.
+- f.[^33-1] further measures necessary to the success of the innovation parks which cannot be achieved through standard promotion methods under Article 7 paragraph 1, particularly fixed-term interest-free loans or other appropriate financing instruments or contributions to the operating costs of the institution responsible in accordance with paragraph 2 letter b.
 
 <sup>2</sup>
 
@@ -713,6 +713,8 @@ The following requirements apply to the support:
   - 4\. regulated rights for the ETH Board, research institutes within the Federal Institutes of Technology Domain and other interested higher education institutions to participate in decision-making processes on issues affecting the activities and interests of these bodies and institutions.
 
 <sup>3</sup> The construction of the innovation park will be divided across several sites. For the institutions responsible for the locations, different funding bodies may be provided under paragraph 2 letter b. The requirements under paragraph 2 letter c apply to all of these institutions. Furthermore, the institutions responsible for each location must be able to provide a sufficient guarantee of appropriate networking of the locations.
+
+[^33-1]: Amended by No I of the FA of 25 Sept. 2020, in force since 15 April 2021 ([AS 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 34
 
@@ -752,9 +754,11 @@ The Federal Assembly shall authorise the following for a multi-year period by si
 - a. the payment structure for research funding institutions;
 - b. the payment structure for contributions to research facilities of national significance;
 - c.[^36-1] the payment structure for Innosuisse innovation support activities;
-- d. the guarantee credits for contributions in the context of international cooperation in the field of research and innovation.
+- d. the guarantee credits for contributions in the context of international cooperation in the field of research and innovation;
+- e.[^36-2] the payment structure for the operating costs of the institution responsible for the Swiss Innovation Park under Article 33 paragraph 2 letter b.
 
 [^36-1]: Amended by Annex No 2 of the FA of 17 June 2016 on the Swiss Innovation Agency, in force since 1 Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^36-2]: Inserted by No I of the FA of 25 Sept. 2020, in force since 15 April 2021 ([AS 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 37
 
@@ -1091,6 +1095,6 @@ It shall bring the following provisions into force at the same time as the HEdA[
 - [tab] <sup>4</sup> Articles 5 letter b numbers 2 and 3, 6 paragraph 1 letters b and c and 24 paragraph 2 of the Research and Innovation Promotion Act of 7 October 1983[^58-4] shall be repealed at the same time as the HEdA comes into force.
 
 [^58-1]: FCD of 29 Nov. 2013.
-[^58-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691), in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691))..
+[^58-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691), in force since 1 Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)).
 [^58-3]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^58-4]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99)]

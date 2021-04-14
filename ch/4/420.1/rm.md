@@ -4,11 +4,11 @@ title: "Lescha federala dals 14 da december 2012 davart la promoziun da la persc
 short: LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: rm
-version: 2020-01-01
+version: 2021-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20200101/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20200101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPI)
 
-dals 14 da december 2012 (versiun dal 1. da schaner 2020)
+dals 14 da december 2012 (versiun dals 15 d’avrigl 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -695,7 +695,7 @@ La Confederaziun po sustegnair il Parc svizzer d’innovaziun cun:
 - c. consegnar bains immobigliars adattads da la Confederaziun en il dretg da construcziun, desistind per in temp limità dals tschains dal dretg da construcziun;
 - d. acquistar bains immobigliars ch’èn en possess da terzas persunas;
 - e. ina cumbinaziun da las mesiras ch’èn menziunadas en las literas a–d;
-- f. ulteriuras mesiras ch’èn necessarias per ch’ils parcs d’innovaziun hajan success, che na pon betg vegnir realisadas cun la promoziun ordinaria tenor l’artitgel 7 alinea 1, en spezial tras emprests senza tschains a temp limità u tras auters instruments da finanziaziun adattads.
+- f.[^33-1] ulteriuras mesiras ch’èn necessarias per ch’ils parcs d’innovaziun hajan success, che na pon betg vegnir realisadas cun la promoziun ordinaria tenor l’artitgel 7 alinea 1, en spezial tras emprests senza tschains a temp limità, tras auters instruments da finanziaziun adattads u tras contribuziuns als custs da manaschi da l’instituziun responsabla tenor l’alinea 2 litera b.
 
 <sup>2</sup>
 
@@ -713,6 +713,8 @@ Per il sustegn valan las suandantas premissas:
   - 4\. dretgs da cooperaziun reglads per il Cussegl da las Scolas politecnicas federalas, per instituziuns dal sectur da las Scolas politecnicas federalas e per ulteriuras scolas autas interessadas, en las proceduras da decisiun davart fatgs che pertutgan las incumbensas ed ils interess da quests organs e da questas instituziuns.
 
 <sup>3</sup> Il Parc d’innovaziun vegn constituì en plirs lieus. Per las instituziuns ch’èn responsablas per ils differents lieus pon vegnir previs differents purtaders tenor l’alinea 2 litera b. Las premissas tenor l’alinea 2 litera c valan per mintgina da questas instituziuns. Ultra da quai ston las instituziuns ch’èn responsablas per ils lieus respectivs porscher ina garanzia suffizienta per ina colliaziun adequata dals lieus.
+
+[^33-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020, en vigur dapi ils 15 d’avr. 2021 ([AS 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 34
 
@@ -752,9 +754,11 @@ L’Assamblea federala permetta cun in conclus federal simpel mintgamai per ina 
 - a. la limita d’expensas per las instituziuns per promover la perscrutaziun;
 - b. la limita d’expensas per las contribuziuns als instituts da perscrutaziun d’impurtanza naziunala;
 - c.[^36-1] il rom da pajaments per la promoziun da l’innovaziun da la Innosuisse;
-- d. ils credits d’impegn per las contribuziuns en il rom da la collavuraziun internaziunala en il sectur da la perscrutaziun e da l’innovaziun.
+- d. ils credits d’impegn per las contribuziuns en il rom da la collavuraziun internaziunala en il sectur da la perscrutaziun e da l’innovaziun;
+- e.[^36-2] la limita d’expensas per ils custs da manaschi da l’instituziun responsabla per il Parc svizzer d’innovaziun tenor l’artitgel 33 alinea 2 litera b.
 
 [^36-1]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^36-2]: Integrà tras la cifra I da la LF dals 25 da sett. 2020, en vigur dapi ils 15 d’avr. 2021 ([AS 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 37
 

@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 2012 sulla promozione della ricerca e del
 short: LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: it
-version: 2020-01-01
+version: 2021-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/it"
 
 (LPRI)
 
-del 14 dicembre 2012 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 14 dicembre 2012 (Stato 15 aprile 2021) (Stato 15 aprile 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -99,7 +99,7 @@ Sono organi di ricerca ai sensi della presente legge:
   - 1\. svolga ricerche per l’adempimento dei propri compiti (ricerca del settore pubblico), o
   - 2\. svolga compiti di promozione della ricerca e dell’innovazione.
 
-[^4-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^4-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^4-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
 [^4-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
@@ -167,10 +167,10 @@ La Confederazione promuove la ricerca e l’innovazione secondo la presente legg
 <sup>4</sup> Il Consiglio federale può affidare alle istituzioni di promozione della ricerca e a Innosuisse compiti nell’ambito della cooperazione internazionale il cui adempimento necessita della loro competenza specifica.[^7-5]
 
 [^7-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^7-2]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^7-3]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^7-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^7-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-4]: Nuovo testo giusta il n. II della LF del 30 set. 2016, in vigore dal 1° feb. 2018 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^7-5]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^7-5]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 8
 
@@ -374,8 +374,8 @@ La ricerca del settore pubblico può contemplare i provvedimenti seguenti:
 
 <sup>7</sup> Le disposizioni sul finanziamento di cui alla sezione 8 non si applicano alla ricerca del settore pubblico.
 
-[^16-1]: Nuova espr. giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^16-2]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^16-1]: Nuova espr. giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^16-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 17
 
@@ -393,7 +393,7 @@ La ricerca del settore pubblico può contemplare i provvedimenti seguenti:
 
 <sup>6</sup> I centri federali di ricerca possono presentare domanda a Innosuisse e ad altre organizzazioni di promozione nazionali e internazionali per ottenere mezzi finanziari di terzi o per partecipare a programmi di tali organizzazioni.[^17-1]
 
-[^17-1]: Introdotto dal n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^17-1]: Introdotto dall’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 ### Sezione 4: Promozione dell’innovazione
 
@@ -416,7 +416,7 @@ La Confederazione può inoltre sostenere:
 
 <sup>4</sup> Assicura la valutazione dell’attività di promozione.
 
-[^18-1]: Introdotta dal n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^18-1]: Introdotta dall’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 19
 
@@ -449,8 +449,8 @@ I sussidi sono accordati soltanto se sono adempiute le seguenti condizioni:
 <sup>6</sup> I progetti promossi devono rispettare i principi dell’integrità scientifica e della buona prassi scientifica. In caso di violazione di tali principi, si applicano le sanzioni e l’obbligo d’informare di cui all’articolo 12 capoversi 2–4.
 
 [^19-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^19-2]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-3]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 20
 
@@ -473,10 +473,10 @@ Innosuisse può sostenere la costituzione e lo sviluppo di imprese la cui attivi
 
 <sup>3</sup> Essa può sostenere la valorizzazione del sapere e il trasferimento di sapere e tecnologie, segnatamente promuovendo lo scambio di informazioni tra le scuole universitarie e l’economia.[^20-4]
 
-[^20-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-2]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-3]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-4]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-4]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 21
 
@@ -495,7 +495,7 @@ Le indennità sono accordate per sostenere:
 
 <sup>4</sup> Innosuisse e i beneficiari dei sussidi di cui al capoverso 3 stabiliscono per contratto le prestazioni sostenute e l’importo massimo disponibile a tale scopo. In casi semplici l’indennità è accordata mediante decisione.
 
-[^21-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^21-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 22
 
@@ -516,7 +516,7 @@ I contributi di cui al capoverso 1 sono accordati nell’ambito di un programma 
 
 <sup>5</sup> L’ammontare delle borse di studio, la partecipazione finanziaria delle imprese e le modalità di rimborso dei mutui senza interessi sono stabiliti nell’ordinanza sui sussidi di Innosuisse.
 
-[^22-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018, cpv. 5 in vigore dal 1° gen. 2017 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^22-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018, cpv. 5 in vigore dal 1° gen. 2017 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 23
 
@@ -526,7 +526,7 @@ I contributi di cui al capoverso 1 sono accordati nell’ambito di un programma 
 
 <sup>2</sup> Il Consiglio federale disciplina i principi del calcolo dei sussidi.
 
-[^23-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^23-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 24
 
@@ -534,7 +534,7 @@ I contributi di cui al capoverso 1 sono accordati nell’ambito di un programma 
 
 Alla promozione dell’innovazione da parte di Innosuisse si applicano le disposizioni della legge del 5 ottobre 1990[^24-2] sui sussidi.
 
-[^24-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^24-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^24-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 25
@@ -691,7 +691,7 @@ La Confederazione può sostenere il parco svizzero dell’innovazione mediante:
 - c. la cessione di fondi adeguati della Confederazione in diritto di superficie con rinuncia limitata nel tempo agli interessi sul diritto di superficie;
 - d. l’acquisto di fondi appartenenti a terzi;
 - e. una combinazione dei provvedimenti di cui alle lettere a–d;
-- f. altre misure indispensabili al successo dei parchi dell’innovazione che non possono essere realizzate attraverso la promozione ordinaria di cui all’articolo 7 capoverso 1, in particolare prestiti senza interessi limitati nel tempo o altre modalità di finanziamento appropriate.
+- f.[^33-1] altre misure indispensabili al successo dei parchi dell’innovazione che non possono essere realizzate attraverso la promozione ordinaria di cui all’articolo 7 capoverso 1, in particolare prestiti senza interessi limitati nel tempo, altre modalità di finanziamento appropriate o sussidi per le spese d’esercizio dell’istituzione responsabile di cui al capoverso 2 lettera b.
 
 <sup>2</sup>
 
@@ -709,6 +709,8 @@ Il sostegno può essere accordato alle condizioni seguenti:
   - 4\. siano disciplinati i diritti di partecipazione di cui il Consiglio dei PF, le istituzioni del settore dei PF e altre scuole universitarie interessate dispongono nelle procedure decisionali su oggetti che concernono i loro compiti e interessi.
 
 <sup>3</sup> Il parco dell’innovazione è suddiviso in più sedi. Per le istituzioni responsabili delle sedi possono essere previsti diversi enti responsabili secondo il capoverso 2 lettera b. Le condizioni di cui al capoverso 2 lettera c si applicano a ogni istituzione. Le istituzioni responsabili delle varie sedi devono inoltre offrire sufficienti garanzie per un’interconnessione appropriata tra le sedi.
+
+[^33-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 15 apr. 2021 ([RU 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3295](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 34
 
@@ -748,9 +750,11 @@ L’Assemblea federale stabilisce per un periodo pluriennale, mediante decreto f
 - a. il limite di spesa per le istituzioni di promozione della ricerca;
 - b. il limite di spesa per i sussidi destinati alle strutture di ricerca d’importanza nazionale;
 - c.[^36-1] il limite di spesa per la promozione dell’innovazione da parte di Innosuisse;
-- d. i crediti d’impegno per i sussidi nell’ambito della cooperazione internazionale nel settore della ricerca e dell’innovazione.
+- d. i crediti d’impegno per i sussidi nell’ambito della cooperazione internazionale nel settore della ricerca e dell’innovazione;
+- e.[^36-2] il limite di spesa per le spese d’esercizio dell’istituzione responsabile del parco svizzero dell’innovazione secondo l’articolo 33 capoverso 2 lettera b.
 
-[^36-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^36-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^36-2]: Introdotta dal n. I della LF del 25 set. 2020, in vigore dal 15 apr. 2021 ([RU 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [FF 2020 3295](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 37
 
@@ -785,8 +789,8 @@ I sussidi federali destinati alla cooperazione internazionale sono liberati e ve
 
 <sup>3</sup> Le istituzioni di promozione della ricerca impiegano i mezzi restituiti per i compiti loro conferiti dalla Confederazione. Riferiscono in merito nei loro rapporti annuali.
 
-[^38-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^38-2]: Introdotto dal n. 5 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^38-1]: Nuovo testo giusta l’all. n. 5 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^38-2]: Introdotto dall’all. n. 5 della LF del 15 giu. (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
 #### Art. 39
 
@@ -888,7 +892,7 @@ Gli strumenti di pianificazione della politica della ricerca e dell’innovazion
 
 <sup>6</sup> Sottopone periodicamente all’Assemblea federale, insieme al messaggio ERI, un rapporto sui risultati delle verifiche di cui al capoverso 1 e sulla propria strategia in materia di politica di promozione della ricerca e dell’innovazione.
 
-[^44-1]: Nuova espr. giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^44-1]: Nuova espr. giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 45
 
@@ -1024,7 +1028,7 @@ Su mandato del Consiglio federale o del DEFR, svolge i seguenti compiti:
 - c. sostiene il DEFR nella sua verifica periodica della politica svizzera della ricerca e dell’innovazione;
 - d. presta consulenza al Consiglio federale nell’esecuzione della presente legge.
 
-[^54-1]: Nuova espr. giusta il n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^54-1]: Nuova espr. giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^54-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 55
@@ -1067,7 +1071,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione.
 
 I consulenti che al momento dell’entrata in vigore della modifica del 17 giugno 2016 esercitano una delle attività di cui all’articolo 20 capoversi 2 lettera a e 3 sono considerati qualificati ai sensi dell’articolo 21 nel quadro del contratto in corso.
 
-[^57a-1]: Introdotto dal n. 2 dell’all. alla L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^57a-1]: Introdotto dall’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 58
 

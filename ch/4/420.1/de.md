@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 2012 über die Förderung der Forschung und
 short: FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: de
-version: 2020-01-01
+version: 2021-04-15
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20210415-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20210415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20200101/de"
 
 (FIFG)
 
-vom 14. Dezember 2012 (Stand am 1. Januar 2020)
+vom 14. Dezember 2012 (Stand am 15. April 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -623,7 +623,7 @@ Der Bundesrat kann im Rahmen der bewilligten Kredite folgende Beiträge ausricht
   - 1\. Information interessierter Kreise in der Schweiz über Aktivitäten und Programme der internationalen wissenschaftlichen Zusammenarbeit im Bereich von Forschung und Innovation,
   - 2\. Beratung und Unterstützung interessierter Kreise in der Schweiz bei der Erarbeitung und Einreichung von Gesuchen bezüglich internationaler Programme und Projekte im Bereich von Forschung und Innovation.
 
-- g.[^29-4] …
+- g.[^29-4] ...
 
 <sup>2</sup> Der Bundesrat regelt die Bemessung der Beiträge und das Verfahren.
 
@@ -693,7 +693,7 @@ Die Unterstützung des Bundes für den schweizerischen Innovationspark kann erfo
 - c. die Abgabe geeigneter Grundstücke des Bundes im Baurecht unter zeitlich befristetem Verzicht auf Baurechtszinsen;
 - d. den Erwerb von Grundstücken im Besitz von Dritten;
 - e. eine Kombination der unter den Buchstaben a–d genannten Massnahmen;
-- f. weitere für den Erfolg der Innovationspärke notwendige Massnahmen, die nicht über die ordentliche Förderung nach Artikel 7 Absatz 1 verwirklicht werden können, insbesondere durch zeitlich befristete zinslose Darlehen oder andere geeignete Finanzierungsinstrumente.
+- f.[^33-1] weitere für den Erfolg der Innovationspärke notwendige Massnahmen, die nicht über die ordentliche Förderung nach Artikel 7 Absatz 1 verwirklicht werden können, insbesondere durch zeitlich befristete zinslose Darlehen, andere geeignete Finanzierungsinstrumente oder Beiträge an den Betriebsaufwand der verantwortlichen Institution nach Absatz 2 Buchstabe b.
 
 <sup>2</sup>
 
@@ -711,6 +711,8 @@ Für die Unterstützung gelten die folgenden Voraussetzungen:
   - 4\. geregelte Mitwirkungsrechte des ETH-Rates, von Institutionen des ETH-Bereichs und weiterer interessierter Hochschulen in Entscheidverfahren über Sachverhalte, welche die Aufgaben und Interessen dieser Organe und Institutionen betreffen.
 
 <sup>3</sup> Die Errichtung des Innovationsparks erfolgt verteilt auf mehrere Standorte. Für die Institutionen, die für die Standorte verantwortlich sind, können unterschiedliche Trägerschaften nach Absatz 2 Buchstabe b vorgesehen werden. Die Voraussetzungen nach Absatz 2 Buchstabe c gelten für jede dieser Institutionen. Im Weiteren müssen die für die jeweiligen Standorte verantwortlichen Institutionen ausreichend Gewähr für eine sachgerechte Vernetzung der Standorte bieten.
+
+[^33-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 15. April 2021 ([AS 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 34
 
@@ -750,9 +752,11 @@ Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss jeweils für eine 
 - a. den Zahlungsrahmen für die Forschungsförderungsinstitutionen;
 - b. den Zahlungsrahmen für die Beiträge an Forschungseinrichtungen von nationaler Bedeutung;
 - c.[^36-1] den Zahlungsrahmen für die Innovationsförderung der Innosuisse;
-- d. die Verpflichtungskredite für die Beiträge im Rahmen der internationalen Zusammenarbeit im Bereich von Forschung und Innovation.
+- d. die Verpflichtungskredite für die Beiträge im Rahmen der internationalen Zusammenarbeit im Bereich von Forschung und Innovation;
+- e.[^36-2] den Zahlungsrahmen für den Betriebsaufwand der für den schweizerischen Innovationspark verantwortlichen Institution nach Artikel 33 Absatz 2 Buchstabe b.
 
 [^36-1]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^36-2]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 15. April 2021 ([AS 2021 186](https://fedlex.data.admin.ch/eli/oc/2021/186); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 37
 
@@ -1057,7 +1061,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 <sup>3</sup> Das HFKG wird wie folgt geändert:
 
-…[^57-3]
+...[^57-3]
 
 [^57-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)Ziff. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532)]
 [^57-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
