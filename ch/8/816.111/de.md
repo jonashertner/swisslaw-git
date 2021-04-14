@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 22. März 2017 über das elektronische Patientendo
 short: EPDV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/205"
 language: de
-version: 2020-04-15
+version: 2021-04-15
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20200415/de/xml/fedlex-data-admin-ch-eli-cc-2017-205-20200415-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20200415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2017-205-20210415-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20210415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20200415/de"
 
 (EPDV-EDI)
 
-vom 22. März 2017 (Stand am 15. April 2020)
+vom 22. März 2017 (Stand am 15. April 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -184,7 +184,7 @@ Anhang 2*[^t-1]*
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des BAG vom 13. März 2020, in Kraft seit 15. April 2020 ([AS 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)).
+[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des BAG vom 13. März 2020 ([AS 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021, in Kraft seit 15. April 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)).
 [^annex2-lvlu1-1]: Dieser Text wird in der AS nicht publiziert. Er kann beim BAG, Schwarzenburgstrasse 157, 3003 Bern bezogen oder im Internet unter www.ehealth.admin.ch abgerufen werden.
 
 Anhang 3*[^t-2]*
@@ -195,7 +195,7 @@ Anhang 3*[^t-2]*
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)) und bereinigt gemäss der Berichtigung vom 26. Nov. 2019 ([AS 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss der Berichtigung vom 26. Nov. 2019 ([AS 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)) und Ziff. I Abs. 1 der V des BAG vom 16. März 2021, in Kraft seit 15. April 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)).
 [^annex3-lvlu1-1]: Dieser Text wird in der AS nicht publiziert. Er kann beim BAG, Schwarzenburgstrasse 157, 3003 Bern bezogen oder im Internet unter www.ehealth.admin.ch abgerufen werden. Auf eine Übersetzung in die Amtssprachen wird verzichtet.
 
 Anhang 4
@@ -216,8 +216,8 @@ Anhang 5*[^t-3]*
 
 [^annex5-lvlu1-1]
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss Ziff. I der V des BAG vom 24. Sept. 2019 ([AS 2019 3075](https://fedlex.data.admin.ch/eli/oc/2019/559)), der Berichtigung vom 26. Nov. 2019 ([AS 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)) und Ziff. I Abs. 2 der V des BAG vom 13. März 2020, in Kraft seit 15. April 2020 ([AS 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)).
-[^annex5-lvlu1-1]: Die aufgeführten Integrationsprofile können kostenlos eingesehen werden beim BAG, Schwarzenburgstrasse 157, 3003 Bern, www.ehealth.admin.ch oder bei IHE Suisse, Oberstrasse 222, 9014 St. Gallen, www.ihe-suisse.ch. Der Text der nationalen Anpassungen der Integrationsprofile und der nationalen Integrationsprofile wird in der AS nicht publiziert. Er kann beim BAG, Schwarzenburgstrasse 157, 3003 Bern bezogen oder im Internet unter www.ehealth.admin.ch abgerufen werden. Auf eine Übersetzung in die Amtssprachen wird verzichtet.
+[^t-3]: Fassung gemäss Ziff. I Abs. 2 der V des BAG vom 16. März 2021, in Kraft seit 15. April 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)).
+[^annex5-lvlu1-1]: Die aufgeführten Integrationsprofile können kostenlos eingesehen werden beim BAG, Schwarzenburgstrasse 157, 3003 Bern, www.ehealth.admin.ch oder bei IHE Suisse, Oberstrasse 222, 9014 St. Gallen, www.ihe-suisse.ch. Der Text der nationalen Anpassungen der Integrationsprofile und der nationalen Integrationsprofile wird in der AS nicht publiziert. Er kann beim BAG, Schwarzenburgstrasse 157, 3003 Bern, bezogen oder im Internet unter www.ehealth.admin.ch abgerufen werden. Auf eine Übersetzung in die Amtssprachen wird verzichtet.
 
 ### 1 IHE**** Integrationsprofile
 
@@ -227,33 +227,33 @@ Anhang 5*[^t-3]*
 
 <table>
 <tr><th>Integrationsprofil</th><th>Technisches Dokument</th><th>Transaktionen</th><th>Nationale Anpassungen</th></tr>
-<tr><td>ATNA</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Authenticate Node [ITI‑19] Record Audit Event [ITI‑20]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
+<tr><td>ATNA</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Authenticate Node [ITI-19] Record Audit Event [ITI-20]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
 <tr><td>CT</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Maintain Time [ITI-1]</td><td>Nein</td></tr>
-<tr><td>HPD</td><td>IHE IT Infrastructure Technical Framework, Supplement Healthcare Provider Directory (HPD), Revision 1.7, July 24, 2018</td><td>Provider Information Query [ITI-58] Provider Information Feed [ITI-59] Provider Information Delta Download (CH:PIDD)</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
-<tr><td>PDQv3</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Patient Demographics Query HL7 V3 [ITI-47]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
-<tr><td>PIXv3</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Patient Identity Feed HL7 V3 [ITI-44] PIXV3 Query [ITI-45]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
-<tr><td>RMU</td><td>IHE IT Infrastructure Technical Framework, Supplement Restricted Metadata Update, Revision 1.0, May 23, 2018</td><td>Restricted Update Document Set [ITI‑92]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
-<tr><td>SVS</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Retrieve Value Set [ITI‑48]</td><td>Nein</td></tr>
-<tr><td>XCA</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Cross Gateway Query [ITI-38] Cross Gateway Retrieve [ITI-39]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
+<tr><td>HPD</td><td>IHE IT Infrastructure Technical Framework, Supplement Healthcare Provider Directory (HPD), Revision 1.7, July 24, 2018</td><td>Provider Information Query [ITI-58] Provider Information Feed [ITI-59] Provider Information Delta Download (CH:PIDD)</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
+<tr><td>PDQv3</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Patient Demographics Query HL7 V3 [ITI-47]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
+<tr><td>PIXv3</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Patient Identity Feed HL7 V3 [ITI-44] PIXV3 Query [ITI-45] PIXV3 Update Notification [ITI-46]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
+<tr><td>RMU</td><td>IHE IT Infrastructure Technical Framework, Supplement Restricted Metadata Update, Revision 1.0, May 23, 2018</td><td>Restricted Update Document Set [ITI‑92]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
+<tr><td>SVS</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Retrieve Value Set [ITI-48]</td><td>Nein</td></tr>
+<tr><td>XCA</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Cross Gateway Query [ITI-38] Cross Gateway Retrieve [ITI-39]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
 <tr><td>XCA-I</td><td>IHE Radiology Technical Framework, Volume 3 (RAD-TF-3), Revision 17.0, July 27, 2018</td><td>Cross Gateway Retrieve Image Document Set [RAD-75]</td><td>Nein</td></tr>
-<tr><td>XCPD</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Cross Gateway Patient Discovery [ITI-55]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
+<tr><td>XCPD</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Cross Gateway Patient Discovery [ITI-55]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
 <tr><td>XDM</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Distribute Document Set on Media [ITI-32]</td><td>Nein</td></tr>
-<tr><td>XDS</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Registry Stored Query [ITI-18]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
+<tr><td>XDS</td><td>IHE IT Infrastructure Technical Framework, Volume 2a (ITI TF-2a), Revision 15.0, July 24, 2018</td><td>Registry Stored Query [ITI-18]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
 <tr><td></td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Provide and Register Document Set-b [ITI-41] Register Document Set-b [ITI-42] Retrieve Document Set [ITI-43] Patient Identity Feed HL7v3 [ITI-44]</td><td></td></tr>
-<tr><td>XDS-I.b</td><td>IHE Radiology Technical Framework, Volume 3 (RAD-TF-3), Revision 17.0, July 27, 2018</td><td>Provide & Register Imaging Document Set – MTOM/XOP [RAD-68] Retrieve Imaging Document Set [RAD-69]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
-<tr><td>XDS Metadata Update</td><td>IHE IT Infrastructure Technical Framework, Supplement XDS Metadata Update, Revision 1.10, July 24, 2018</td><td>Update Document Set [ITI-57]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
-<tr><td>XUA</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Authenticate User Get X-User Assertion Provide X-User Assertion [ITI-40]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 3</td></tr>
+<tr><td>XDS-I.b</td><td>IHE Radiology Technical Framework, Volume 3 (RAD-TF-3), Revision 17.0, July 27, 2018</td><td>Provide & Register Imaging Document Set – MTOM/XOP [RAD-68] Retrieve Imaging Document Set [RAD-69]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
+<tr><td>XDS Metadata Update</td><td>IHE IT Infrastructure Technical Framework, Supplement XDS Metadata Update, Revision 1.10, July 24, 2018</td><td>Update Document Set [ITI-57]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
+<tr><td>XUA</td><td>IHE IT Infrastructure Technical Framework, Volume 2b (ITI TF-2b), Revision 15.0, July 24, 2018</td><td>Authenticate User Get X-User Assertion Provide X-User Assertion [ITI-40]</td><td>Ergänzung 1 zu Anhang 5 der EPDV-EDI, Ausgabe 4</td></tr>
 </table>
 
 ### 2 Nationale Integrationsprofile
 
 <table>
 <tr><th>Integrationsprofil</th><th>Technisches Dokument</th><th>Transaktionen</th></tr>
-<tr><td>CH:ADR</td><td>Ergänzung 2.1 zu Anhang 5 EPDV-EDI, Integrationsprofil Authorization Decision Request (CH:ADR), Ausgabe 3</td><td>Authorization Decision Request (CH:ADR)</td></tr>
-<tr><td>CH:ATC</td><td>Ergänzung 2.2 zu Anhang 5 EPDV-EDI, Integrationsprofil Audit Trail Consumption (CH:ATC), Ausgabe 3</td><td>Retrieve ATNA Audit Event [ITI‑81]</td></tr>
+<tr><td>CH:ADR</td><td>Ergänzung 2.1 zu Anhang 5 EPDV-EDI, Integrationsprofil Authorization Decision Request (CH:ADR), Ausgabe 4</td><td>Authorization Decision Request (CH:ADR)</td></tr>
+<tr><td>CH:ATC</td><td>Ergänzung 2.2 zu Anhang 5 EPDV-EDI, Integrationsprofil Audit Trail Consumption (CH:ATC), Ausgabe 3</td><td>Retrieve ATNA Audit Event [ITI-81]</td></tr>
 <tr><td></td><td>IHE IT Infrastructure Technical Framework, Supplement Internet User Authorization (IUA), August 31, 2015</td><td>Incorporate Authorization Token [ITI-72]</td></tr>
-<tr><td>CH:CPI</td><td>Ergänzung 2.3 zu Anhang 5 EPDV-EDI, Integrationsprofil Community Portal Index (CH:CPI), Ausgabe 3</td><td>Community Information Query (CH:CIQ) Community Information Delta Download (CH:CIDD)</td></tr>
-<tr><td>CH:PPQ</td><td>Ergänzung 2.1 zu Anhang 5 EPDV-EDI, Integrationsprofil Privacy Policy Query (CH:PPQ), Ausgabe 3</td><td>Privacy Policy Feed (CH:PPQ-1) Privacy Policy Retrieve (CH:PPQ-2)</td></tr>
+<tr><td>CH:CPI</td><td>Ergänzung 2.3 zu Anhang 5 EPDV-EDI, Integrationsprofil Community Portal Index (CH:CPI), Ausgabe 4</td><td>Community Information Query (CH:CIQ) Community Information Delta Download (CH:CIDD)</td></tr>
+<tr><td>CH:PPQ</td><td>Ergänzung 2.1 zu Anhang 5 EPDV-EDI, Integrationsprofil Privacy Policy Query (CH:PPQ), Ausgabe 4</td><td>Privacy Policy Feed (CH:PPQ-1) Privacy Policy Retrieve (CH:PPQ-2)</td></tr>
 </table>
 
 Anhang 6*[^t-4]*
@@ -388,7 +388,7 @@ Anhang 8*[^t-6]*
 
 [^annex8-lvlu1-1]
 
-[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019, in Kraft seit 15. Juli 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
+[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 24. Juni 2019 ([AS 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021, in Kraft seit 15. April 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)).
 [^annex8-lvlu1-1]: Dieser Text wird in der AS nicht publiziert. Er kann beim BAG, Schwarzenburgstrasse 157, 3003 Bern bezogen oder im Internet unter www.ehealth.admin.ch abgerufen werden. Auf eine Übersetzung in die Amtssprachen wird verzichtet.
 
 Anhang 9*[^t-7]*
