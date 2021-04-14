@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-04-12
+version: 2021-04-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210412/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210412-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210415-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 12. April 2021)
+vom 19. Juni 2020 (Stand am 15. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -589,7 +589,7 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## 4*a*. Kapitel:**** Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
+## 4*a*. Kapitel: Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
 
 [^chap4a-1]
 
@@ -711,7 +711,7 @@ Anhang 4*[^t-4]*
 
 ## Liste der wichtigen Arzneimittel, Medizinprodukte und Schutzausrüstungen (wichtige medizinische Güter)
 
-[^t-4]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^t-4]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)) und gemäss Ziff. I Abs. 1 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 15. April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
 
 ### 1. Wirkstoffe sowie Arzneimittel mit den aufgeführten Wirkstoffen
 
@@ -758,8 +758,9 @@ Anhang 4*[^t-4]*
 - 41\. Covid-19-Impfstoffe
 - 42\. Impfstoffe gegen Influenza
 - 43\. Impfstoff gegen bakterielle Pneumonie (Prevenar 13)
-- 44\. Covid-19-Immun-Therapeutika
-- 45\. Medizinalgase
+- 44\. Medizinalgase
+- 45\. Casirivimab/Imdevimab
+- 46\. Bamlanivimab/Etesevimab
 
 ### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001
 
@@ -779,7 +780,7 @@ Anhang 4*[^t-4]*
 
 ### 3. Persönliche Schutzausrüstungen und weitere Ausrüstung
 
-### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017****
+### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -805,10 +806,10 @@ Anhang 5*[^t-5]*
 
 ## Liste der Wirkstoffe für die Behandlung von Covid-19
 
-[^t-5]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19), in Kraft seit 19. Okt. 2020 ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)).
+[^t-5]: Fassung gemäss gemäss Ziff. I Abs. 2 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 15. April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
 
-- 1\. Remdesivir
-- 2\. Tocilizumab
+- 1\. Casirivimab/Imdevimab
+- 2\. Bamlanivimab/Etesevimab
 
 Anhang 5a*[^t-6]*
 
@@ -856,6 +857,7 @@ Anhang 5a*[^t-6]*
 - 3\.2.2 Die Spezifität des Tests muss bei mindestens 97 Prozent liegen.
 - 3\.3 Kreuzreaktivität: Untersuchung auch von Proben mit hoher Konzentration an verwandten Humanen Coronaviren, darunter mindestens das Humane Coronavirus 229E, das Humane Coronavirus OC43, das Humane Coronavirus NL63 oder das Humane Coronavirus HKU1.
 - 3\.4 Interferenz: Untersuchung auch von Pathogen-positiven Proben, bei denen das Pathogen eine analoge Symptomatik hervorrufen kann (Influenza A, B; RSV) oder mit dem Testprinzip interferieren könnte (Protein-A-positive *Staphylococcus aureus* bei Nasenabstrichen als Probenmatrix).
+- [tab]
 
 Anhang 6*[^t-7]*
 

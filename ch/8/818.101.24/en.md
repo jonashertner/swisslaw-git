@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-04-12
+version: 2021-04-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210412/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210412-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210415/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210415-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 12 April 2021)
+of 19 June 2020 (Status as of 15 April 2021)
 
 The Swiss Federal Council,
 
@@ -713,7 +713,7 @@ Annex 4*[^t-4]*
 
 ## List of important medicinal products, medical devices and protective equipment (Essential Medical Goods)
 
-[^t-4]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and List of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised in accordance with No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^t-4]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised in accordance with No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)) and No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19), in force since 15 April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
 
 ### 1. Active substances or medicinal products with the listed active substances
 
@@ -803,9 +803,11 @@ Annex 4*[^t-4]*
 
 \43. Vaccines against bacterial pneumonia (Prevnar 13)
 
-\44. COVID-19 immunotherapeutics
+\44. Medical gases
 
-\45. Medical gases
+- 45\. Casirivimab/imdevimab
+
+\46. Bamlanivimab/etesevimab
 
 ### 2. Medical devices within the meaning of the Medical Devices Ordinance of 17 October 2001****
 
@@ -865,11 +867,10 @@ Annex 5*[^t-5]*
 
 ## List of active substances for the treatment of COVID-19
 
-[^t-5]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and List of active substances for the treatment of COVID-19), in force since 19 Oct. 2020 ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)).
+[^t-5]: Amended by No I paragraph 2 of the FDHA O of 14 April 2021 (Amendment of lists of important medical products and of active substances for the treatment of COVID-19), in force since 19 Oct. 2020 ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)).
 
-\1. Remdesivir
-
-\2. Tocilizumab
+- [tab] 1. Casirivimab/imdevimab
+- 2\. Bamlanivimab/etesevimab
 
 Annex 5a*[^t-6]*
 
@@ -924,7 +925,7 @@ Annex 6*[^t-7]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O od 12 May 2021, No 1.6.1 in force since 12 April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O od 12 May 2021, in force since 12 Avril 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 

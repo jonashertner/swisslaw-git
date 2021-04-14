@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-04-12
+version: 2021-04-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210412/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210412-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210415-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210412/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 12 avril 2021)
+du 19 juin 2020 (Etat le 15 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -543,7 +543,7 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 
 <sup>6bis</sup> L’assureur peut exiger directement de l’assuré le remboursement des coûts des autotests SARS-CoV-2 prévus à l’annexe 6, ch. 3.3, que l’assuré réalise en plus du nombre maximal prévu à l’annexe 6, ch. 3.3.1. Pour l’exécution des procédures de sommation en lien avec le remboursement des coûts des autotests SARS-CoV-2 excédentaires, il peut facturer à la Confédération 20 francs au plus par assuré faisant l’objet de la sommation.[^26b-4]
 
-<sup>6ter</sup> Avec le paiement de la prestation pour les autotests SARS-CoV-2 par la Confédération au sens de l’al. 5 et le paiement par la Confédération des coûts liés à une procédure de sommation au sens de l’al. 6<sup>bis</sup>, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.[^26b-5]
+<sup>6ter</sup> Avec le paiement de la prestation pour les autotests SARS-CoV-2 par la Confédération au sens de l’al. 5 et le paiement par la Confédération des coûts liés à une procédure de sommation au sens de l’al. 6<sup>bis</sup>, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles. [^26b-5]
 
 <sup>7</sup> Tous les trois mois, l’institution commune facture à l’OFSP ses frais administratifs liés à son activité en tant qu’assureur au sens de l’art. 26*a*, al. 1, let. c, et 3, let. a, sur la base de ses coûts effectifs. Le tarif horaire est de 95 francs et comprend les coûts liés aux salaires, aux prestations sociales et aux infrastructures. S’agissant des dépenses qui ne sont pas incluses dans les frais administratifs concernant d’éventuels révisions, modifications du système et intérêts négatifs, les coûts effectifs sont remboursés.
 
@@ -552,8 +552,8 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 [^26b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 [^26b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26b-4]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 7 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^26b-5]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 7 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26b-4]: Introduit par le ch.I de l’O du 12 mai 2021, en vigueur depuis le 15 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26b-5]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 15 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26c
 
@@ -713,7 +713,7 @@ Annexe 4*[^t-4]*
 
 ## Liste des médicaments, dispositifs médicaux et équipements de protection importants (biens médicaux importants)
 
-[^t-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 6 oct. 2020 (Liste des biens médicaux importants et liste des substances actives pour le traitement du COVID-19) ([RO 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Mise à jour par le ch. II al. 1 de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^t-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 6 oct. 2020 (Liste des biens médicaux importants et liste des substances actives pour le traitement du COVID-19) ([RO 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Mise à jour par le ch. II al. 1 de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)) et le ch. I al. 1 de l’O du DFI du 14 avr. 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19), en vigueur depuis le 15 avr. 2021 ([RO 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
 
 ### 1. Substances actives et médicaments contenant les substances actives mentionnées
 
@@ -803,9 +803,10 @@ Annexe 4*[^t-4]*
 
 \43. Vaccin contre la pneumonie bactérienne (Prevenar 13)
 
-\44. Immunothérapie contre le COVID-19
+- 44\. Gaz médicaux
+- [tab] 45. Casirivimab/imdévimab
 
-\45. Gaz médicaux
+\46. Bamlanivimab/étésevimab
 
 ### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux****
 
@@ -858,10 +859,10 @@ Annexe 5*[^t-5]*
 
 ## Liste des substances actives pour le traitement du COVID-19
 
-[^t-5]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 6 oct. 2020 (Liste des biens médicaux importants et liste des substances actives pour le traitement du COVID-19), en vigueur depuis le 19 oct. 2020 ([RO 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)).
+[^t-5]: Nouvelle teneur selon le ch. I al. 2 de l’O du DFI du 14 avr. 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19), en vigueur depuis le 15 avr. 2021 ([RO 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
 
-- 1\. Remdésivir
-- 2\. Tocilizumab
+- 1\. Casirivimab/imdévimab
+- 2\. Bamlanivimab/étésevimab
 
 Annexe 5a*[^t-6]*
 
@@ -916,7 +917,7 @@ Annexe 6*[^t-7]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II de l’O du 12 mai 2021, en vigueur depuis le 12 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2) ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II de l’O du 12 mai 2021, en vigueur depuis le 12 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
