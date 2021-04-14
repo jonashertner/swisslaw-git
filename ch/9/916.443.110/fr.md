@@ -3,22 +3,22 @@ sr: "916.443.110"
 title: Ordonnance de l’OSAV du 9 avril 2021 instituant des mesures destinées à protéger la population de volaille domestique contre l’influenza aviaire et à prévenir la propagation de la maladie
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/203"
 language: fr
-version: 2021-04-10
+version: 2021-04-15
 adopted: 2021-04-09
 in_force: 2021-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/203/20210410/fr/xml/fedlex-data-admin-ch-eli-cc-2021-203-20210410-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/203/20210410/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/203/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2021-203-20210415-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/203/20210415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à protéger la population de volaille domestique contre l’influenza aviaire et à prévenir la propagation de la maladie
 
-du 9 avril 2021 (Etat le 10 avril 2021)
+du 9 avril 2021 (Etat le 15 avril 2021)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
-vu les art. 24, al. 3, let. a, et 57, al. 1 et 2, let. b, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties*[^ingress-1]*, vu les art. 5, al. 4, et 25, al. 1, let. a, de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande et la Norvège*[^ingress-2]*, arrête:
+vu les art. 24, al. 3, let. a, et 57, al. 1 et 2, let. b, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-1], vu les art. 5, al. 4, et 25, al. 1, let. a, de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande et la Norvège[^ingress-2], arrête:
 
 [^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^ingress-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
@@ -91,17 +91,24 @@ Sur ordre de l’OSAV, le vétérinaire cantonal réalise le dépistage par sond
 
 <sup>2</sup> Il est interdit d’exporter hors de Suisse des œufs destinés à la transformation ou à la consommation, et des sous-produits animaux de volailles domestiques, fumier et lisier compris.
 
+<sup>3</sup>
+
+En dérogation à l’al. 2, sont admises les exportations des sous-produits animaux de volailles domestiques:
+
+- a. si ceux-ci sont soumis à une des méthodes de transformation visées à l’annexe IV, chap. III, du règlement (UE) n<sup>o</sup> 142/2011[^7-2] ou à un autre traitement thermique qui élimine l’agent pathogène de l’influenza aviaire, et
+- b. si l’autorité du lieu de destination a donné son accord.[^7-3]
+
 [^7-1]: Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l’introduction des produits d’origine animale destinés à la consommation humaine, JO L 18 du 23.1.2003, p. 11; modifiée en dernier lieu par la décision d’exécution 2013/20/UE, JO L 158 du 10.6.2013, p. 234.
+[^7-2]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/1720, JO L 386 du 18.11.2020, p. 6
+[^7-3]: Introduit par le ch. I de l’O du 14 avr. 2021, en vigueur le 15 avr. 2021 ([RO 2021 208](https://fedlex.data.admin.ch/eli/oc/2021/208)).
 
 #### Art. 8
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 10 avril 2021 et a effet jusqu’au 30 avril 2021, sous réserve de l’al. 2[^8-1].
+<sup>1</sup> La présente ordonnance entre en vigueur le 10 avril 2021 et a effet jusqu’au 30 avril 2021, sous réserve de l’al. 2.
 
 <sup>2</sup> Les art. 6 et 7 ont effet jusqu’au 18 avril 2021.
-
-[^8-1]: 
 
 Annexe
 

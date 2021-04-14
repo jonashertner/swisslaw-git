@@ -3,18 +3,18 @@ sr: "916.443.110"
 title: Verordnung des BLV vom 9. April 2021 über Massnahmen zum Schutz der Hausgeflügelpopulation vor der Aviären Influenza und zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/203"
 language: de
-version: 2021-04-10
+version: 2021-04-15
 adopted: 2021-04-09
 in_force: 2021-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/203/20210410/de/xml/fedlex-data-admin-ch-eli-cc-2021-203-20210410-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/203/20210410/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/203/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2021-203-20210415-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/203/20210415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zum Schutz der Hausgeflügelpopulation vor der Aviären Influenza und zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 9. April 2021 (Stand am 10. April 2021)
+vom 9. April 2021 (Stand am 15. April 2021)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -93,7 +93,16 @@ Auf Anordnung des BLV führt die Kantonstierärztin oder der Kantonstierarzt in 
 
 <sup>2</sup> Die Ausfuhr von Konsum- und Verarbeitungseiern sowie von tierischen Nebenprodukten von Hausgeflügel, einschliesslich Mist und Gülle, aus der Schweiz ist verboten.
 
+<sup>3</sup>
+
+In Abweichung von Absatz 2 ist die Ausfuhr von tierischen Nebenprodukten von Hausgeflügel aus der Schweiz erlaubt, wenn:
+
+- a. sie einer zugelassenen Verarbeitungsmethode nach Anhang IV Kapitel III der Verordnung (EU) Nr. 142/2011[^7-2] oder einer anderen validierten Hitzebehandlung unterzogen werden, welche den Erreger der Aviären Influenza abtöten; und
+- b. die Zustimmung der Behörde am Bestimmungsort vorliegt.[^7-3]
+
 [^7-1]: Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln tierischen Ursprungs, ABl. L 18 vom 23.1.2003, S. 11; zuletzt geändert durch Richtlinie 2013/20/EU, ABl. L 158 vom 10.6.2013, S. 234.
+[^7-2]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1720, ABl. L 386 vom 18.11.2020, S. 6.
+[^7-3]: Eingefügt durch Ziff. I der V des BLV vom 14. April 2021, in Kraft seit 15. April 2021 ([AS 2021 208](https://fedlex.data.admin.ch/eli/oc/2021/208)).
 
 #### Art. 8
 
