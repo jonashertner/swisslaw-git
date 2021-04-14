@@ -4,11 +4,11 @@ title: "Ordinanza del 29 novembre 2013 relativa alla legge federale sulla promoz
 short: O-LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: it
-version: 2021-01-01
+version: 2021-04-15
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210415/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210415-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210101/it"
 
 (Ordinanza sulla promozione della ricerca e dell’innovazione, O-LPRI)
 
-del 29 novembre 2013 (Stato 1° gennaio 2021)
+del 29 novembre 2013 (Stato 15 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -485,11 +485,45 @@ Può inoltre fissare una quota di partecipazione del partner attuatore ai costi 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 [^30-2]: Introdotto dal n. I dell’O del 3 giu. 2016 ([RU 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Nuovo testo giusta il n. I dell’O dell’11 dic. 2020, in vigore dal 1° gen. 2021 al 31 dic. 2022 ([RU 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
 
-#### Art. 31 e 32
+#### Art. 31
 
-[^3132-1]
+**Contributo federale ai costi d’esercizio dell’istituzione responsabile della realizzazione del parco dell’innovazione**[^31-1]
 
-[^3132-1]: Abrogati dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+<sup>1</sup> Su richiesta, la SEFRI può contribuire ai costi d’esercizio sostenuti dalla segreteria dell’istituzione responsabile della realizzazione del parco dell’innovazione.
+
+<sup>2</sup> Il contributo serve a coprire i costi sostenuti dalla segreteria per adempiere i compiti di cui all’articolo 4 del contratto di diritto pubblico del 21 dicembre 2016[^31-2] tra il Consiglio federale e la fondazione «Switzerland Innovation» concernente il parco dell’innovazione.
+
+<sup>3</sup>
+
+Sono considerati costi computabili:
+
+- a. i costi salariali, nella misura in cui non superano gli importi abituali per funzioni analoghe, e i contributi del datore di lavoro alle assicurazioni sociali;
+- b. i costi per beni e servizi e i costi d’esercizio sostenuti per fornire le prestazioni definite nella convenzione sulle prestazioni tra la SEFRI e l’istituzione responsabile (art. 5*a* del contratto);
+- c. i costi di locazione, ragionevoli e conformi all’uso locale, per i locali necessari all’istituzione responsabile.
+
+<sup>4</sup> Il contributo ai costi d’esercizio copre anche il trattamento delle domande di fideiussione e il monitoraggio delle fideiussioni in essere.
+
+<sup>5</sup> La SEFRI fissa ogni anno mediante decisione il contributo federale massimo.
+
+<sup>6</sup> Rimborsa esclusivamente i costi effettivamente sostenuti e comprovati. I fondi eventualmente non utilizzati del contributo federale di un determinato anno sono compensati con il contributo federale dell’anno successivo dopo presentazione del bilancio annuale dell’istituzione responsabile.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 15 apr. 2021 ([RU 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
+[^31-2]: [FF 2021 705](https://fedlex.data.admin.ch/eli/fga/2021/705)
+
+#### Art. 32
+
+**Domanda di contributo federale**[^32-1]
+
+<sup>1</sup> L’istituzione responsabile della realizzazione del parco dell’innovazione presenta alla SEFRI la domanda di contributo federale annuo ai costi d’esercizio della sua segreteria al più tardi entro la fine dell’anno in corso per l’anno successivo.
+
+<sup>2</sup>
+
+La domanda deve contenere in particolare gli elementi seguenti:
+
+- a. il preventivo dell’istituzione responsabile;
+- b. un elenco delle attività e delle misure previste per adempiere i compiti definiti nella convenzione sulle prestazioni di cui all’articolo 31 capoverso 3 lettera b.
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 15 apr. 2021 ([RU 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
 
 ## Capitolo 4: Sussidi per la compensazione di overhead
 

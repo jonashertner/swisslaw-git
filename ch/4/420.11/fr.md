@@ -4,11 +4,11 @@ title: "Ordonnance du 29 novembre 2013 relative à la loi fédérale sur l'encou
 short: O-LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: fr
-version: 2021-01-01
+version: 2021-04-15
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210415-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210101/fr"
 
 (Ordonnance sur l’encouragement de la recherche et de l’innovation, O-LERI)
 
-du 29 novembre 2013 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 novembre 2013 (Etat le 15 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -487,11 +487,45 @@ Elle peut également fixer la participation à moins de 50 % s’il s’agit d�
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 [^30-2]: Introduit par le ch. I de l’O du 3 juin 2016 ([RO 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020, en vigueur du 1<sup>er</sup> janv. 2021 au 31 déc. 2022 ([RO 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
 
-#### Art. 31 et 32
+#### Art. 31
 
-[^3132-1]
+**Contribution fédérale aux charges d’exploitation de l’institution responsable de la mise en place du parc d’innovation**[^31-1]
 
-[^3132-1]: Abrogés par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+<sup>1</sup> Le SEFRI peut, sur demande, octroyer à l’institution responsable de la mise en place du parc d’innovation une contribution visant à couvrir les charges d’exploitation de son secrétariat.
+
+<sup>2</sup> La contribution sert à couvrir les coûts éligibles du secrétariat nécessaires pour accomplir les tâches définies à l’art. 4 du contrat de droit public du 21 décembre 2016 entre le Conseil fédéral et la fondation «Switzerland Innovation» concernant le parc d’innovation[^31-2].
+
+<sup>3</sup>
+
+Sont réputés coûts éligibles:
+
+- a. les coûts de salaires, pour autant qu’ils ne dépassent pas les barèmes usuels pour des fonctions comparables, et les cotisations de l’employeur aux assurances sociales;
+- b. les coûts de matériel et d’exploitation nécessaires à la fourniture des prestations définies dans la convention de prestations passée entre le SEFRI et l’institution responsable (art. 5*a* du contrat);
+- c. les coûts de location raisonnables et conformes à l’usage local pour les locaux nécessaires à l’institution responsable.
+
+<sup>4</sup> La contribution aux coûts d’exploitation couvre également le traitement des demandes de cautionnement et la surveillance des cautionnements en cours.
+
+<sup>5</sup> Le SEFRI fixe chaque année le montant maximal de la contribution fédérale par voie de décision.
+
+<sup>6</sup> Il ne prend en charge que les dépenses effectives et prouvées. Les moyens éventuellement non utilisés de la contribution fédérale annuelle sont déduits de la contribution fédérale de l’année suivante après présentation des comptes annuels de l’institution responsable.
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 15 avr. 2021 ([RO 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
+[^31-2]: [FF 2021 705](https://fedlex.data.admin.ch/eli/fga/2021/705)
+
+#### Art. 32
+
+**Demande de contribution fédérale**[^32-1]
+
+<sup>1</sup> L’institution responsable de la mise en place du parc d’innovation soumet au SEFRI une demande de contribution fédérale annuelle aux charges d’exploitation de son secrétariat au plus tard à la fin de l’année en cours pour l’année suivante.
+
+<sup>2</sup>
+
+La demande doit notamment contenir les éléments suivants:
+
+- a. le budget de l’institution responsable;
+- b. une liste des activités et des mesures planifiées pour accomplir les tâches conformément à la convention de prestations visée à l’art. 31, al. 3, let. b.
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 15 avr. 2021 ([RO 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
 
 ## Chapitre 4 Contributions pour l’indemnisation des coûts de recherche indirects
 

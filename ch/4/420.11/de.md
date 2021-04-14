@@ -4,11 +4,11 @@ title: "Verordnung vom 29. November 2013 zum Bundesgesetz über die Förderung d
 short: V-FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: de
-version: 2021-01-01
+version: 2021-04-15
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210415-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210101/de"
 
 (Forschungs- und Innovationsförderungsverordnung, V-FIFG)
 
-vom 29. November 2013 (Stand am 1. Januar 2021)
+vom 29. November 2013 (Stand am 15. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -484,11 +484,45 @@ Sie kann überdies die Beteiligung der Umsetzungspartner an den Projektkosten au
 [^30-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 [^30-2]: Eingefügt durch Ziff. I der V vom 3. Juni 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Fassung gemäss Ziff. I der V vom 11. Dez. 2020, in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2022 ([AS 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
 
-#### Art. 31 und 32
+#### Art. 31
 
-[^3132-1]
+**Bundesbeitrag zur Deckung des Betriebsaufwands der für die Errichtung des Innovationsparks verantwortlichen Institution**[^31-1]
 
-[^3132-1]: Aufgehoben durch Ziff. I der V vom 15. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+<sup>1</sup> Das SBFI kann der für die Errichtung des Innovationsparks verantwortlichen Institution auf Gesuch hin einen Beitrag an den Betrieb ihrer Geschäftsstelle gewähren.
+
+<sup>2</sup> Der Beitrag dient der Deckung der anrechenbaren Kosten der Geschäftsstelle, die zur Erfüllung der Aufgaben nach Artikel 4 des Öffentlich-rechtlichen Vertrags vom 21. Dezember 2016[^31-2] zwischen dem Schweizerischen Bundesrat und der Stiftung «Switzerland Innovation» über den Innovationspark notwendig sind.
+
+<sup>3</sup>
+
+Als anrechenbare Kosten gelten:
+
+- a. die Lohnkosten, soweit sie das für vergleichbare Funktionen Übliche nicht übersteigen, und die Arbeitgeberbeiträge an die Sozialversicherungen;
+- b. die Sach- und Betriebskosten zur Erbringung der Leistungen nach der Leistungsvereinbarung zwischen dem SBFI und der verantwortlichen Institution (Art. 5*a* des Vertrags);
+- c. die ortsüblichen und vertretbaren Mietkosten für die von der verantwortlichen Institution benötigten Räume.
+
+<sup>4</sup> Mit dem Beitrag an die Betriebskosten wird auch die Bearbeitung der Gesuche für Bürgschaften und die Überwachung der laufenden Bürgschaften abgegolten.
+
+<sup>5</sup> Das SBFI verfügt jährlich den Höchstbetrag für den Beitrag des Bundes.
+
+<sup>6</sup> Es vergütet nur die tatsächlich entstandenen und nachgewiesenen Aufwendungen. Allfällige nicht beanspruchte Mittel aus dem Bundesbeitrag eines Jahres werden nach Vorliegen der Jahresrechnung der verantwortlichen Institution mit dem Bundesbeitrag des Folgejahres verrechnet.
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 15. April 2021 ([AS 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
+[^31-2]: [BBl 2021 705](https://fedlex.data.admin.ch/eli/fga/2021/705)
+
+#### Art. 32
+
+**Gesuch um Bundesbeitrag**[^32-1]
+
+<sup>1</sup> Die für die Errichtung des Innovationsparks verantwortliche Institution reicht für den jährlichen Bundesbeitrag an den Betrieb der Geschäftsstelle bis spätestens Ende des Vorjahres beim SBFI ein Gesuch ein.
+
+<sup>2</sup>
+
+Das Gesuch muss insbesondere Folgendes enthalten:
+
+- a. das Budget der verantwortlichen Institution;
+- b. eine Aufstellung der geplanten Tätigkeiten und Massnahmen zur Erfüllung der Aufgaben gemäss der Leistungsvereinbarung nach Artikel 31 Absatz 3 Buchstabe b.
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 15. April 2021 ([AS 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
 
 ## 4. Kapitel: Beiträge zur Abgeltung des Overhead
 

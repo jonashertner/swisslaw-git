@@ -4,11 +4,11 @@ title: "Ordinaziun dals 29 da november 2013 tar la Lescha federala davart la pro
 short: O-LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: rm
-version: 2021-01-01
+version: 2021-04-15
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20210415/rm/xml/fedlex-data-admin-ch-eli-cc-2013-814-20210415-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20210415/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da perscrutaziun e d’innovaziun, O-LPPI)
 
-dals 29 da november 2013 (versiun dal 1. da schaner 2021)
+dals 29 da november 2013 (versiun dals 15 d’avrigl 2021)
 
 Il Cussegl federal svizzer,
 
@@ -486,11 +486,45 @@ Ultra da quai po ella fixar la participaziun dals partenaris da realisaziun vi d
 [^30-1]: Versiun tenor la cifra I da l’O dals 15 da nov. 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 [^30-2]: Integrà tras la cifra I da l’O dals 3 da zer. 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Versiun tenor la cifra I da l’O dals 11 da dec. 2020, en vigur dal 1. da schan. 2021 fin ils 31 da dec. 2022 ([AS 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
 
-#### Art. 31 e 32
+#### Art. 31
 
-[^3132-1]
+**Contribuziun federala per cuvrir ils custs da manaschi da l’instituziun responsabla per la constituziun dal Parc d’innovaziun**[^31-1]
 
-[^3132-1]: Abolì tras la cifra I da l’O dals 15 da nov. 2017, cun effect dapi il 1. da schan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+<sup>1</sup> A l’instituziun responsabla per la constituziun dal Parc d’innovaziun po il SEFRI conceder sin dumonda ina contribuziun als custs da manaschi da ses secretariat.
+
+<sup>2</sup> La contribuziun serva a cuvrir ils custs imputabels dal secretariat ch’èn necessaris per ademplir las incumbensas tenor l’artitgel 4 dal contract da dretg public dals 21 da december 2016[^31-2] tranter il Cussegl federal svizzer e la fundaziun «Switzerland Innovation» davart il Parc d’innovaziun.
+
+<sup>3</sup>
+
+Sco custs imputabels valan:
+
+- a. ils custs da salari, uschenavant ch’els na surpassan betg quai ch’è usità per funcziuns cumparegliablas, e las contribuziuns dal patrun a las assicuranzas socialas;
+- b. ils custs da material e da manaschi per furnir las prestaziuns tenor la cunvegna da prestaziun tranter il SEFRI e l’instituziun responsabla (art. 5*a* dal contract);
+- c. ils custs da locaziun raschunaivels ed usitads al lieu per ils locals duvrads da l’instituziun responsabla.
+
+<sup>4</sup> La contribuziun als custs da manaschi cuvra er l’elavuraziun da las dumondas per garanzias e la surveglianza da las garanzias currentas.
+
+<sup>5</sup> Il SEFRI dispona mintga onn l’import maximal per la contribuziun federala.
+
+<sup>6</sup> El indemnisescha mo las expensas effectivas e cumprovadas. Sche meds finanzials d’ina contribuziun federala d’in tschert onn na vegnan betg duvrads, vegnan els scuntrads cun la contribuziun federala da l’onn suandant, suenter ch’il quint annual da l’instituziun responsabla è avant maun.
+
+[^31-1]: Versiun tenor la cifra I da l’O dals 19 da mars 2021, en vigur dapi ils 15 d’avr. 2021 ([AS 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
+[^31-2]: [BBl 2021 705](https://fedlex.data.admin.ch/eli/fga/2021/705)
+
+#### Art. 32
+
+**Dumonda per la contribuziun federala**[^32-1]
+
+<sup>1</sup> Fin il pli tard la fin da l’onn precedent inoltrescha l’instituziun responsabla per la constituziun dal Parc d’innovaziun al SEFRI ina dumonda per la contribuziun federala annuala als custs da manaschi dal secretariat.
+
+<sup>2</sup>
+
+La dumonda sto cuntegnair en spezial il suandant:
+
+- a. il preventiv da l’instituziun responsabla;
+- b. ina glista da las activitads e da las mesiras planisadas per ademplir las incumbensas previsas en la cunvegna da prestaziun tenor l’artitgel 31 alinea 3 litera b.
+
+[^32-1]: Versiun tenor la cifra I da l’O dals 19 da mars 2021, en vigur dapi ils 15 d’avr. 2021 ([AS 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
 
 ## 4. chapitel Contribuziuns per indemnisar ils custs da perscrutaziun indirects
 
