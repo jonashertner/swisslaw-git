@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-04-08
+version: 2021-04-16
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210408/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210408-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210408/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210416/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210416-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210416/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210408/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 8. April 2021)
+vom 27. Januar 2021 (Stand am 16. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -290,7 +290,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. April 2021, in Kraft seit 8. April 2021 ([AS 2021 199](https://fedlex.data.admin.ch/eli/oc/2021/199)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. April 2021 ([AS 2021 199](https://fedlex.data.admin.ch/eli/oc/2021/199)). Bereinigt gemäss Ziff. I der V der EDI vom 16. April 2021, in Kraft seit 16. April 2021 ([AS 2021 220](https://fedlex.data.admin.ch/eli/oc/2021/220)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
@@ -314,6 +314,8 @@ Estland
 Griechenland
 
 Jordanien
+
+Kanada
 
 Kosovo
 

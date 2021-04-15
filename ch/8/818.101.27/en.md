@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-04-08
+version: 2021-04-16
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210408/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210408-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210408/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210416/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210416-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210416/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 8 April 2021)
+of 27 January 2021 (Status as of 16 April 2021)
 
 The Swiss Federal Council,
 
@@ -290,7 +290,7 @@ Annex 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by Annex No I of the O of the FDHA of 7 April 2021, in force since 8 April 2021 ([AS 2021 199](https://fedlex.data.admin.ch/eli/oc/2021/199)).
+[^t-1]: Amended by Annex No I of the O of the FDHA of 7 April 2021 ([AS 2021 199](https://fedlex.data.admin.ch/eli/oc/2021/199)). Revised by No I of the O of the FDHA of 16 April 2021, in force since 16 April 2021 ([AS 2021 220](https://fedlex.data.admin.ch/eli/oc/2021/220)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions
@@ -306,6 +306,8 @@ Bosnia and Herzegovina
 Brazil
 
 Bulgaria
+
+Canada
 
 Chile
 
