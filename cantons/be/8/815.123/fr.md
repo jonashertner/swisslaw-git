@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-03-22
-valid_until: 2021-04-18
-version_adopted: 2021-03-19
+version: 2021-04-19
+valid_until: 2021-04-30
+version_adopted: 2021-04-16
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2248/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2268/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2248/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 22.03.2021)
+du 04.11.2020 (état au 19.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -47,21 +47,13 @@ arrête:
 
 ### 2.1 Etablissements de restauration
 
-#### Art. 2
-
-**Limitation du nombre de clients et clientes[^2-1]**
-
-<sup>1</sup> Un maximum de 50 personnes peuvent être accueillies simultanément dans un établissement de restauration.
-
-[^2-1]: Cet article n'est pas applicable (art. 28, al. 3a).
-
-#### Art. 2a
+#### Art. 2–2a
 
 **…**
 
 #### Art. 3
 
-**Coordonnées de la clientèle[^3-1]**
+**Coordonnées de la clientèle**
 
 <sup>1</sup> La collecte de coordonnées est définie à l'article 5 et à l’annexe, chiffre 4, de l’ordonnance COVID-19 situation particulière.
 
@@ -70,30 +62,24 @@ arrête:
 - a nom et prénom,
 - b adresse complète,
 - c numéro de téléphone,
-- d date de naissance,
+- d …
 - e numéro de table ou de place.
 
 <sup>3</sup> Les coordonnées doivent être conservées dans une liste électronique ordonnée et regroupées par jour.
 
-[^3-1]: Cet article n'est pas applicable (art. 28, al. 3a).
-
 #### Art. 4
 
-**Coordonnées du personnel de l'établissement[^4-1]**
+**Coordonnées du personnel de l'établissement**
 
 <sup>1</sup> Les exploitants et exploitantes sont tenus de recenser les personnes qui travaillent dans leur établissement de restauration.
 
 <sup>2</sup> Les coordonnées doivent être conservées dans une liste électronique ordonnée indiquant les heures de présence dans l'établissement et regroupées par jour.
 
-[^4-1]: Cet article n'est pas applicable (art. 28, al. 3a).
-
 #### Art. 5
 
-**Recommandation de l'utilisation de l'application SwissCovid[^5-1]**
+**Recommandation de l'utilisation de l'application SwissCovid**
 
 <sup>1</sup> Les exploitants et exploitantes d'établissements de restauration sont tenus de recommander à leur clientèle l'utilisation de l'application SwissCovid par des affiches, des dépliants ou tout autre moyen approprié.
-
-[^5-1]: Cet article n'est pas applicable (art. 28, al. 3a).
 
 ### 2.2 Manifestations
 
@@ -105,17 +91,11 @@ arrête:
 
 **Manifestations politiques ou de la société civile**
 
-<sup>1</sup> En dérogation à l'article 6c, alinéa 2 de l’ordonnance COVID-19 situation particulière, les manifestations politiques ou de la société civile de plus de 15 personnes sont interdites.
+<sup>1</sup> En dérogation à l'article 6c, alinéa 2 de l’ordonnance COVID-19 situation particulière, les manifestations politiques ou de la société civile de plus de 100 personnes sont interdites.
 
-#### Art. 7
+#### Art. 7–8
 
 **…**
-
-#### Art. 8
-
-**Marchés**
-
-<sup>1</sup> La vente d'aliments ou de boissons à consommer sur place n'est pas autorisée sur les marchés.
 
 ### 2.2a Initiatives populaires et demandes de vote populaire au niveau cantonal et communal
 
@@ -143,20 +123,9 @@ arrête:
 - b les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales, pour autant que d’autres mesures de protection appropriées soient prises;
 - c toutes les personnes se trouvant dans une situation dans laquelle le port d'un masque facial entrave considérablement l’enseignement, pour autant que d’autres mesures de protection appropriées soient prises.
 
-#### Art. 11
+#### Art. 11–12
 
-**Enseignement du sport**
-
-<sup>1</sup> L’enseignement du sport en 5<sup>e</sup> et 6<sup>e</sup> années du degré primaire (7H et 8H) ainsi qu’aux degrés secondaires I et II n'admet que des activités sans contact physique, pour autant que,
-
-- a dans les espaces clos, les personnes concernées portent un masque facial et maintiennent la distance requise; elles peuvent se passer de masque dans les locaux spacieux s’ils permettent de respecter des règles de distanciation physique supplémentaires;
-- b en plein air, les personnes concernées portent un masque facial ou respectent la distance requise.
-
-#### Art. 12
-
-**Enseignement dans les domaines artistique et culturel**
-
-<sup>1</sup> Les répétitions s’inscrivant dans le cadre d’un enseignement artistique ou culturel en 5<sup>e</sup> et 6<sup>e</sup> années du degré primaire (7H et 8H) ainsi qu’aux degrés secondaires I et II ne peuvent avoir lieu que si les personnes concernées portent un masque facial et maintiennent la distance requise; elles peuvent se passer de masque dans les locaux spacieux si des règles de distanciation physique supplémentaires sont appliquées.
+**…**
 
 ### 2.4
 
@@ -282,6 +251,18 @@ arrête:
 
 <sup>5</sup> Avant de décider de lever la mesure, le préfet ou la préfète consulte la Direction de la santé, des affaires sociales et de l’intégration au sujet du plan de protection de l’exploitant, de l'exploitante, de l’organisateur ou de l’organisatrice.
 
+#### Art. 17b
+
+**Etablissements de restauration**
+
+<sup>1</sup> Le préfet ou la préfète est l'autorité compétente à laquelle les établissements de restauration doivent annoncer les offres destinées aux chauffeurs et chauffeures professionnels ainsi qu'à d'autres catégories professionnelles en vertu de l'article 5, alinéa 2, lettre d de l’ordonnance COVID-19 situation particulière.
+
+#### Art. 17c
+
+**Quarantaine-contact et isolement**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité compétente pour les mesures de quarantaine-contact et d'isolement au sens de la section 2a de l'ordonnance COVID-19 situation particulière.
+
 #### Art. 18
 
 **Allégements**
@@ -340,9 +321,11 @@ arrête:
 
 #### Art. 20d
 
-**Vaccination contre le COVID-19 par les pharmaciens et pharmaciennes**
+**Vaccination contre le COVID-19 en pharmacie**
 
 <sup>1</sup> Les pharmaciens et pharmaciennes autorisés à administrer des vaccins sur la base de l'article 19, alinéa 2 de l'ordonnance du 24 octobre 2001 sur les activités professionnelles dans le secteur sanitaire (ordonnance sur la santé publique, OSP)[^20d-1] sont habilités à et chargés de vacciner des personnes en bonne santé dès 16 ans contre le COVID-19 dans les pharmacies.
+
+<sup>2</sup> Ils peuvent déléguer l’administration du vaccin contre le COVID-19 à des assistants et assistantes en pharmacie placés sous leur surveillance et leur responsabilité, pour autant que ces personnes aient suivi une formation continue appropriée.
 
 [^20d-1]: RSB [811.111](https://www.belex.sites.be.ch/data/811.111/fr)
 
@@ -443,11 +426,9 @@ arrête:
 
 <sup>2a</sup> Les articles 8a à 8d sont valables jusqu'au 22 janvier 2021.
 
-<sup>2b</sup> Les articles 6a, 8, 9 à 12 ainsi que 16a à 16h sont valables jusqu'au 30 avril 2021.
+<sup>2b</sup> Les articles 3 à 5, 6a, 9 et 10 ainsi que 16a à 16h sont valables jusqu'au 31 mai 2021.
 
-<sup>3</sup> …
-
-<sup>3a</sup> Les articles 2 et 3 à 5 ne sont pas applicables du 22 décembre 2020 jusqu'au 30 avril 2021.
+<sup>3–3a</sup> …
 
 #### Art. 29
 

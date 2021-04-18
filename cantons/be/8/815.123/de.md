@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-03-22
-valid_until: 2021-04-18
-version_adopted: 2021-03-19
+version: 2021-04-19
+valid_until: 2021-04-30
+version_adopted: 2021-04-16
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2248/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2268/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2248/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 22.03.2021)
+vom 04.11.2020 (Stand 19.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -47,21 +47,13 @@ beschliesst:
 
 ### 2.1 Restaurationsbetriebe
 
-#### Art. 2
-
-**Beschränkung der Anzahl Gäste[^2-1]**
-
-<sup>1</sup> In einem Restaurationsbetrieb dürfen sich höchstens 50 Gäste gleichzeitig aufhalten.
-
-[^2-1]: Dieser Artikel ist nicht anwendbar (Art. 28 Abs. 3a).
-
-#### Art. 2a
+#### Art. 2–2a
 
 **…**
 
 #### Art. 3
 
-**Kontaktdaten von Gästen[^3-1]**
+**Kontaktdaten von Gästen**
 
 <sup>1</sup> Die Erhebung von Kontaktdaten richtet sich grundsätzlich nach Artikel 5 sowie Anhang Ziffer 4 der Covid-19-Verordnung besondere Lage.
 
@@ -70,30 +62,24 @@ beschliesst:
 - a Name und Vorname,
 - b vollständige Adresse,
 - c Telefonnummer,
-- d Geburtsdatum,
+- d …
 - e Tisch- oder Sitzplatznummer.
 
 <sup>3</sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen geführten elektronischen Gästeliste aufzubewahren.
 
-[^3-1]: Dieser Artikel ist nicht anwendbar (Art. 28 Abs. 3a).
-
 #### Art. 4
 
-**Kontaktdaten von im Betrieb arbeitenden Personen[^4-1]**
+**Kontaktdaten von im Betrieb arbeitenden Personen**
 
 <sup>1</sup> Die Betreiberinnen und Betreiber von Restaurationsbetrieben müssen eine Liste der im jeweiligen Betrieb arbeitenden Personen führen.
 
 <sup>2</sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen geführten elektronischen Liste mit den jeweiligen Einsatzzeiten im Betrieb aufzubewahren.
 
-[^4-1]: Dieser Artikel ist nicht anwendbar (Art. 28 Abs. 3a).
-
 #### Art. 5
 
-**Empfehlung der Verwendung der SwissCovid-App[^5-1]**
+**Empfehlung der Verwendung der SwissCovid-App**
 
 <sup>1</sup> Die Betreiberinnen und Betreiber von Restaurationsbetrieben müssen auf die Empfehlung zur Verwendung der SwissCovid-App mittels Aushang, Flyern oder anderen geeigneten Medien hinweisen.
-
-[^5-1]: Dieser Artikel ist nicht anwendbar (Art. 28 Abs. 3a).
 
 ### 2.2 Veranstaltungen
 
@@ -105,17 +91,11 @@ beschliesst:
 
 **Politische und zivilgesellschaftliche Kundgebungen**
 
-<sup>1</sup> In Abweichung von Artikel 6c Absatz 2 der Covid-19-Verordnung besondere Lage sind politische und zivilgesellschaftliche Kundgebungen von mehr als 15 Personen verboten.
+<sup>1</sup> In Abweichung von Artikel 6c Absatz 2 der Covid-19-Verordnung besondere Lage sind politische und zivilgesellschaftliche Kundgebungen von mehr als 100 Personen verboten.
 
-#### Art. 7
+#### Art. 7–8
 
 **…**
-
-#### Art. 8
-
-**Märkte**
-
-<sup>1</sup> An Märkten dürfen keine Speisen und Getränke zur Konsumation vor Ort angeboten werden.
 
 ### 2.2a Kantonale und kommunale Volksbegehren
 
@@ -143,20 +123,9 @@ beschliesst:
 - b für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
 - c für alle Personen in Situationen, in denen das Tragen einer Gesichtsmaske den Unterricht wesentlich erschwert, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind.
 
-#### Art. 11
+#### Art. 11–12
 
-**Sportunterricht**
-
-<sup>1</sup> Im Sportunterricht des fünften und sechsten Schuljahrs der Primarstufe sowie auf der Sekundarstufe I und II dürfen nur Aktivitäten ohne Körperkontakt ausgeübt werden, wobei
-
-- a in Innenräumen eine Gesichtsmaske getragen und der erforderliche Abstand eingehalten werden muss; auf das Tragen einer Gesichtsmaske kann verzichtet werden in grossen Räumlichkeiten, wenn zusätzliche Abstandsvorgaben eingehalten werden können,
-- b im Freien eine Gesichtsmaske getragen oder der erforderliche Abstand eingehalten werden muss.
-
-#### Art. 12
-
-**Unterricht im Bereich Künste bzw. Kultur**
-
-<sup>1</sup> Im Unterricht im Bereich Künste bzw. Kultur des fünften und sechsten Schuljahrs der Primarstufe sowie auf der Sekundarstufe I und II dürfen Proben stattfinden, wenn eine Gesichtsmaske getragen und der erforderliche Abstand eingehalten wird; auf das Tragen einer Gesichtsmaske kann verzichtet werden in grossen Räumlichkeiten, wenn zusätzliche Abstandsvorgaben gelten.
+**…**
 
 ### 2.4
 
@@ -282,6 +251,18 @@ beschliesst:
 
 <sup>5</sup> Bevor die Regierungsstatthalterin oder der Regierungsstatthalter die Aufhebung der Massnahme verfügt, konsultiert sie oder er die Gesundheits-, Sozial- und Integrationsdirektion zum Schutzkonzept der Betreiberin oder des Betreibers resp. der Organisatorin oder des Organisators.
 
+#### Art. 17b
+
+**Restaurationsbetriebe**
+
+<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist die zuständige Behörde für Meldungen von Restaurationsbetrieben betreffend Angebote für Berufschauffeurinnen und -chauffeure sowie andere Berufsleute gemäss Artikel 5a Absatz 2 Buchstabe d der Covid-19-Verordnung besondere Lage.
+
+#### Art. 17c
+
+**Kontaktquarantäne und Absonderung**
+
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist die zuständige Behörde für Massnahmen betreffend die Kontaktquarantäne und die Absonderung gemäss Abschnitt 2a der Covid-19-Verordnung besondere Lage.
+
 #### Art. 18
 
 **Erleichterungen**
@@ -340,9 +321,11 @@ beschliesst:
 
 #### Art. 20d
 
-**Covid-19-Impfungen durch Apothekerinnen und Apotheker**
+**Covid-19-Impfungen in Apotheken**
 
 <sup>1</sup> Apothekerinnen und Apotheker, die gestützt auf Artikel 19 Absatz 2 der Verordnung vom 24. Oktober 2001 über die beruflichen Tätigkeiten im Gesundheitswesen (Gesundheitsverordnung, GesV)[^20d-1] über eine Bewilligung zur Durchführung von Impfungen verfügen, sind ermächtigt und beauftragt, an gesunden Personen ab 16 Jahren Covid-19-Impfungen in der Apotheke vorzunehmen.
+
+<sup>2</sup> Sie können die Durchführung der Covid-19-Impfungen unter ihrer fachlichen Aufsicht und Verantwortung an Pharma-Assistentinnen und Pharma-Assistenten übertragen, sofern diese über eine entsprechende Weiterbildung verfügen.
 
 [^20d-1]: BSG [811.111](https://www.belex.sites.be.ch/data/811.111/de)
 
@@ -443,11 +426,9 @@ beschliesst:
 
 <sup>2a</sup> Die Artikel 8a bis 8d gelten bis zum 22. Januar 2021.
 
-<sup>2b</sup> Die Artikel 6a, 8, 9 bis 12 sowie 16a bis 16h gelten bis zum 30. April 2021.
+<sup>2b</sup> Die Artikel 3 bis 5, 6a, 9 und 10 sowie 16a bis 16h gelten bis zum 31. Mai 2021.
 
-<sup>3</sup> …
-
-<sup>3a</sup> Die Artikel 2 sowie 3 bis 5 sind vom 22. Dezember 2020 bis zum 30. April 2021 nicht anwendbar.
+<sup>3–3a</sup> …
 
 #### Art. 29
 
