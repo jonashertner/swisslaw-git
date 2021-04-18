@@ -3,13 +3,12 @@ canton: BS
 number: "154.120"
 title: Reglement über das Dolmetscherwesen an den Gerichten
 language: de
-version: 2020-07-02
-valid_until: 2021-04-18
-version_adopted: 2020-06-16
+version: 2021-04-19
+version_adopted: 2021-03-22
 adopted: 2016-11-01
 in_force: 2017-01-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.120"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4945/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5857/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4945/pdf_file"
 
 Dolmetscherwesen an Gerichten: Reglement | Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
 
-Vom 1. November 2016 (Stand 2. Juli 2020)
+Vom 1. November 2016 (Stand 19. April 2021)
 
 Der Gerichtsrat des Kantons Basel-Stadt,
 
@@ -73,7 +72,7 @@ beschliesst:
 - b) eine Fremdsprache zumindest mündlich beherrscht,
 - c) korrekt, vollständig und rasch mündlich oder schriftlich übersetzen kann.
 
-<sup>2</sup> In fachlicher Hinsicht wird zudem vorausgesetzt, dass die Bewerberin oder der Bewerber den Einführungskurs für Gerichtsdolmetschende und die anschliessende Prüfung erfolgreich absolviert hat oder einen gleichwertigen Abschluss vorweist.
+<sup>2</sup> In fachlicher Hinsicht wird zudem vorausgesetzt, dass die Bewerberin oder der Bewerber den Zulassungskurs «Behörden- und Gerichtsdolmetschen» und die anschliessende Prüfung erfolgreich absolviert hat oder einen gleichwertigen Abschluss vorweist.
 
 <sup>3</sup> In persönlicher Hinsicht wird vorausgesetzt, dass die Bewerberin oder der Bewerber
 
@@ -101,9 +100,11 @@ beschliesst:
 
 <sup>1</sup> Das Verzeichnis der Gerichtsdolmetschenden wird vom Appellationsgericht geführt.
 
-<sup>2</sup> Die Einzelheiten des Aufnahmeverfahrens, des Einführungskurses sowie der Bewirtschaftung des Verzeichnisses werden durch eine Fachgruppe festgelegt, welcher je eine Vertretung des Appellationsgerichts, des Sozialversicherungsgerichts, des Strafgerichts und des Zivilgerichts sowie je eine Vertretung der Fachstelle Diversität und Integration und der Personalabteilung des Präsidialdepartements angehören. Die Vertretung des Strafgerichts nimmt auch die Interessen des Jugendgerichts wahr und die Vertretung des Appellationsgerichts jene des Gerichts für fürsorgerische Unterbringungen.
+<sup>2</sup> Die Einzelheiten des Aufnahmeverfahrens, des Zulassungskurses sowie der Bewirtschaftung des Verzeichnisses werden durch eine Fachgruppe festgelegt, welcher je eine Vertretung des Appellationsgerichts, des Sozialversicherungsgerichts, des Strafgerichts und des Zivilgerichts sowie je eine Vertretung der Fachstelle Diversität und Integration[^6-1] und der Personalabteilung des Präsidialdepartements angehören. Die Vertretung des Strafgerichts nimmt auch die Interessen des Jugendgerichts wahr und die Vertretung des Appellationsgerichts jene des Gerichts für fürsorgerische Unterbringungen.
 
 <sup>3</sup> Für die Teilnahme am Kurs einschliesslich Prüfung wird eine Gebühr erhoben. Diese liegt zwischen Fr. 400 und Fr. 600 und richtet sich nach den dem Appellationsgericht von der externen Kursanbieterin oder vom externen Kursanbieter in Rechnung gestellten Kosten.
+
+[^6-1]: Statt «Fachstelle Diversität und Integration» neu: Fachstelle Integration und Antirassismus (Entscheid des Präsidialdepartements vom März 2023).
 
 #### § 7
 
@@ -168,7 +169,9 @@ beschliesst:
 
 <sup>1</sup> Dolmetscherinnen und Dolmetscher, welche bereits vor Inkrafttreten des Reglements für die Gerichte des Kantons Basel-Stadt vom 16. März 2015 als Gerichtsdolmetschende tätig waren, werden in das neue Verzeichnis der Gerichtsdolmetschenden übernommen, sofern sie an der Umfrage vom 18. August 2014 betreffend Überführung aller an den Gerichten des Kantons Basel-Stadt tätigen Dolmetscherinnen und Dolmetscher in ein zentrales Verzeichnis teilgenommen haben.
 
-Schlussbestimmung
+<sup>2</sup> Im Verzeichnis der Gerichtsdolmetschenden ohne erfolgreiche Absolvierung des Zulassungskurses «Behörden- und Gerichtsdolmetschen» und der anschliessenden Prüfung aufgeführte Dolmetscherinnen und Dolmetscher werden aus dem Verzeichnis gestrichen, wenn sie nicht bis am 31. Dezember 2024 den Zulassungskurs und die anschliessende Prüfung erfolgreich absolvieren. Ausgenommen sind die eingetragenen Dolmetscherinnen und Dolmetscher, die den basel-städtischen Einführungskurs und die anschliessende Prüfung erfolgreich absolviert haben.
+
+*Schlussbestimmung*
 
 Diese Änderung ist zu publizieren; sie tritt am fünften Tag nach der Publikation in Kraft.
 
