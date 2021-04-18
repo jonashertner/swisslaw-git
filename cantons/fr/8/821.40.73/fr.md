@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-04-01
-valid_until: 2021-04-18
-version_adopted: 2021-03-22
+version: 2021-04-19
+valid_until: 2021-05-31
+version_adopted: 2021-04-15
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6813/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6818/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6813/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 01.04.2021)
+du 10.11.2020 (version entrée en vigueur le 19.04.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -54,7 +54,7 @@ Arrête:
 
 <sup>2</sup> Les mesures visent à:
 
-- a) diminuer le nombre de nouvelles contaminations de coronavirus (COVID-19);
+- a) contenir le nombre de nouvelles contaminations de coronavirus (COVID-19);
 - b) protéger la population la plus à risque;
 - c) prévenir un engorgement du système sanitaire et hospitalier;
 - d) prévenir la propagation du coronavirus (COVID-19) et interrompre les chaînes de transmission.
@@ -71,7 +71,7 @@ Arrête:
 
 <sup>3</sup> Les événements et manifestations autorisés en vertu de l'article 6 de l'ordonnance fédérale COVID-19 situation particulière doivent avoir un plan de protection, agréé par le préfet, qui prévoit notamment le port du masque facial et la distance interpersonnelle en permanence entre les participants et participantes ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection et peut prévoir de collecter de manière électronique les coordonnées des participants et participantes, les conserver durant quatorze jours, puis les détruire.
 
-<sup>3a</sup> Les manifestations visant la libre formation de l'opinion politique visées par l'article 6 al. 1 let. b de l'ordonnance fédérale COVID-19 situation particulière, organisées à l'extérieur, y compris au moyen de stands d'information et de campagne, sont limitées à 20 personnes.
+<sup>3a</sup> …
 
 <sup>4</sup> Dans des cas exceptionnels, une dérogation à l'interdiction des manifestations prévues par le droit fédéral peut être accordée par le préfet, en coordination avec le Service du médecin cantonal et la Police cantonale, notamment en cas d'impossibilité absolue de report et de réunion en non-présentiel et à la condition que la manifestation réponde à un intérêt prépondérant.
 
@@ -94,13 +94,13 @@ Arrête:
 
 **Etablissements publics**
 
-<sup>1</sup> L'exploitation de tous les établissements publics est interdite, sous réserve des exceptions prévues par l'article 5a al. 2 et 3 de l'ordonnance fédérale COVID-19 situation particulière.
+<sup>1</sup> L'exploitation de tous les établissements publics est interdite, sous réserve des exceptions et règles prévues par l'article 5a al. 2 à 4 de l'ordonnance fédérale COVID-19 situation particulière.
 
-<sup>2</sup> Dans les établissements publics (restaurants et bars) réservés à la clientèle des hôtels au sens de l'article 5a al. 2 let. d de l'ordonnance fédérale COVID-19 situation particulière, seules les personnes séjournant dans la même chambre peuvent s'asseoir à la même table. Les établissements publics concernés ne peuvent accueillir qu'une clientèle assise à table, limitent le nombre de places par table à 4 personnes et respectent la distance de 1,5 m entre chaque table ou installent d'autres mesures de protection efficaces (p. ex. séparations adéquates). Un plan de protection au sens de l'article 4 de l'ordonnance fédérale COVID-19 situation particulière est obligatoire.
+<sup>2</sup> …
 
-<sup>3</sup> Les responsables d'établissements publics (restaurants et bars) autorisés au sens de l'article 5a al. 2 let. b, c et d de l'ordonnance fédérale COVID-19 situation particulière assurent une traçabilité individuelle des personnes présentes. Ils utilisent à cet effet un système de traçage simple et sécurisé enregistrant par voie électronique, en plus des données prévues par le droit fédéral, l'heure d'entrée et l'heure de sortie de chaque personne par un point de passage unique et contrôlé. Une solution alternative est proposée pour les personnes ne disposant pas des moyens techniques permettant ce type de traçage.
+<sup>3</sup> Les responsables d'établissements publics (restaurants et bars) autorisés au sens de l'article 5a al. 2 let. b, c, d et f de l'ordonnance fédérale COVID-19 situation particulière assurent une traçabilité individuelle des personnes présentes, à l'exception des enfants accompagnés de leurs parents. Ils utilisent à cet effet un système de traçage simple et sécurisé enregistrant par voie électronique, en plus des données prévues par le droit fédéral, l'heure d'entrée et l'heure de sortie de chaque personne par un point de passage unique et contrôlé. Une solution alternative est proposée pour les personnes ne disposant pas des moyens techniques permettant ce type de traçage.
 
-<sup>4</sup> Les cantines d'entreprises, des cycles d'orientation et des établissements du secondaire II sont soumises aux règles des alinéas 2 et 3.
+<sup>4</sup> Outre les règles prévues par l'ordonnance fédérale COVID-19 situation particulière, les cantines d'entreprises, des cycles d'orientation et des établissements du secondaire II sont soumises aux règles de l'alinéa 3.
 
 <sup>5</sup> Les modalités de la mise en œuvre de la collecte des données peuvent être précisées par voie d'ordonnance de la Direction de la santé et des affaires sociales ou de la Direction de la sécurité et de la justice, conformément à l'article 5 al. 2 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration.
 
@@ -110,9 +110,7 @@ Arrête:
 
 #### Art. 3c
 
-**Prostitution**
-
-<sup>1</sup> L'exercice de la prostitution et d'activités assimilées est autorisé, dans les limites des heures d'ouverture autorisées selon l'article 5f de l'ordonnance fédérale COVID-19 situation particulière.
+**…**
 
 #### Art. 4
 
@@ -180,11 +178,11 @@ Arrête:
 
 **Autres formations et cours**
 
-<sup>1</sup> Conformément à l'ordonnance fédérale COVID-19 situation particulière, l'enseignement en présentiel est interdit pour les personnes nées en 2000 ou avant, y compris dans le domaine des loisirs. L'enseignement peut être donné à distance.
+<sup>1</sup> L'enseignement relatif aux autres formations, en particulier dans le domaine des loisirs, s'effectue conformément aux modalités fixées à l'article 6d de l'ordonnance fédérale COVID-19 situation particulière. L'enseignement peut être donné à distance.
 
-<sup>2</sup> En cas d'impossibilité d'assurer un enseignement à distance et si les activités didactiques sont indispensables à la filière de formation certifiante et considérées comme essentielles (sécurité et secours, santé, social et intégration), l'enseignement peut se dérouler en présentiel avec 30 participants et participantes au maximum et moyennant le port du masque facial et le respect de la distance interpersonnelle.
+<sup>2</sup> …
 
-<sup>3</sup> Les leçons particulières et individuelles demeurent autorisées.
+<sup>3</sup> …
 
 <sup>4</sup> Des dérogations peuvent être octroyées en application de l'article 7 de l'ordonnance fédérale COVID-19 situation particulière.
 
@@ -208,7 +206,7 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> Les présentes mesures portent effet jusqu'au 30 avril 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
+<sup>1</sup> Les présentes mesures portent effet jusqu'au 31 mai 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
 
 <sup>2</sup> Elles remplacent les mesures consignées dans l'arrêté du 3 novembre 2020, publié dans la Feuille officielle du 6 novembre 2020, concernant les mesures cantonales pour freiner la propagation du coronavirus.
 
