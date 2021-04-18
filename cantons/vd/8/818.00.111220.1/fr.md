@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.111220.1"
 title: "ARRÊTÉ du 11.12.2020 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière et sur certaines mesures cantonales complémentaires"
 language: fr
-version: 2021-03-23
+version: 2021-04-19
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.111220.1?id=12f9065b-b9e7-411e-bfbd-73e104c00e53"
 ---
 
@@ -47,38 +47,65 @@ arrête
 
 [^2-1]: Loi du 23.11.2004 sur la protection de la population ([BLV 510.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/510.11?id=daef13a5-078d-4ee6-a464-4998d97b530a))
 
+#### Art. 2a
+
+**Exemption du port du masque dans les institutions médico-sociales [^2-2]**
+
+<sup>1</sup> Les institutions médico-sociales qui envisagent une exemption à l'obligation de porter le masque au sens de l'article 3b, alinéa 3 de l'ordonnance COVID-19 situation particulière doivent consulter préalablement l'office du Médecin cantonal.
+
+[^2-2]: Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021
+
+#### Art. 2b
+
+**Quarantaine-contact [^2a-1]**
+
+<sup>1</sup> L'office du Médecin cantonal est compétent pour autoriser des dérogations à la quarantaine-contact et pour prévoir une quarantaine-contact conformément à l'article 3d, alinéa 4 de l'ordonnance COVID-19 situation particulière.
+
+[^2a-1]: Modif. 5 du 21.04.2021: Introduction tArt; entrée en vigueur au 19.04.2021; Introduction Al. 1; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021
+
 #### Art. 3
 
-**Établissements de restauration [^2-2]**
+**Établissements de restauration [^2b-1]**
 
 ...
 
-[^2-2]: Modif. 1 du 21.12.2020: Modification Al. 1; entrée en vigueur au 22.12.2020; Modification Al. 1, a; entrée en vigueur au 22.12.2020; Modification Al. 2; entrée en vigueur au 22.12.2020; Introduction Al. 2bis; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1,2,2bis,3; entrée en vigueur au 18.01.2021
+[^2b-1]: Modif. 1 du 21.12.2020: Modification Al. 1; entrée en vigueur au 22.12.2020; Modification Al. 1, a; entrée en vigueur au 22.12.2020; Modification Al. 2; entrée en vigueur au 22.12.2020; Introduction Al. 2bis; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1,2,2bis,3; entrée en vigueur au 18.01.2021
 
 #### Art. 3a
 
 **Restaurants pour collaborateurs travaillant à l'extérieur [^3-1]**
 
-<sup>1</sup> Les restaurants peuvent fonctionner comme restaurants d'entreprise au sens de l'article 5a , alinéa 2, lettre b, de l'ordonnance COVID -19 situation particulière[^3a-1] pour les employés travaillant à l'extérieur.
+<sup>1</sup> ...
 
-<sup>2</sup> Le Département de l'économie, de l'innovation et du sport fixe les conditions et les modalités d'application de l'alinéa 1er.
+<sup>2</sup> ...
 
-[^3-1]: Modif. 3 du 03.03.2021: Introduction tArt; entrée en vigueur au 01.03.2021; Introduction Al. 1-2; entrée en vigueur au 01.03.2021; Introduction Art. 3a; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Abrogation Al. 1-2; entrée en vigueur au 19.04.2021; Introduction Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021
-[^3a-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
+<sup>3</sup> L'annonce prévue par l'article 5, alinéa 2, lettre d, chiffre 1 de l'ordonnance COVID-19 situation particulière doit être faite à l'EMCC.
+
+[^3-1]: Modif. 3 du 03.03.2021: Introduction tArt; entrée en vigueur au 01.03.2021; Introduction Al. 1-2; entrée en vigueur au 01.03.2021; Introduction Art. 3a; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Abrogation Al. 1-2; entrée en vigueur au 19.04.2021; Introduction Al. 3; entrée en vigueur au 19.04.2021
+
+#### Art. 3b
+
+**Terrasses d'établissements de restauration [^3a-1]**
+
+<sup>1</sup> En dérogation à l'article 51 du règlement d'application de la loi du 16 mai 2006 sur l'énergie, les chauffages électriques en plein air sont admis à titre exceptionnel dans les espaces extérieurs au sens de l'article 5a, alinéa 2, lettre b de l'ordonnance COVID-19 Situation particulière.
+
+<sup>2</sup> Leur installation n'est pas soumise à autorisation communale mais à une annonce auprès de la municipalité au moyen d'un formulaire mis à disposition par le service en charge de l'énergie.
+
+[^3a-1]: Modif. 5 du 21.04.2021: Introduction Art. 3b; entrée en vigueur au 19.04.2021
 
 #### Art. 4
 
-**Autres établissements publics [^3a-2]**
+**Autres établissements publics [^3b-1]**
 
 ...
 
-[^3a-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1-3; entrée en vigueur au 18.01.2021
+[^3b-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1-3; entrée en vigueur au 18.01.2021
 
 #### Art. 5
 
 **Marchés [^4-1]**
 
-<sup>1</sup> Les marchés en milieu ouvert qui demeurent possibles selon l'ordonnance COVID-19 Situation particulière[^5-1] peuvent être organisés aux conditions suivantes.
+<sup>1</sup> Les marchés en milieu ouvert et fermé peuvent être organisés aux conditions suivantes.
 
 - a. le port du masque par les clients et les tenanciers de stands est obligatoire;
 - b. les stands doivent être situés à une distance raisonnable les uns des autres;
@@ -101,12 +128,11 @@ arrête
 
 <sup>5</sup> Les communes sont responsables du contrôle et du respect de l'application du présent article.
 
-[^4-1]: Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1, b; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 1; entrée en vigueur au 19.04.2021
-[^5-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
+[^4-1]: Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1, b; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Modification Al. 1; entrée en vigueur au 19.04.2021
 
 #### Art. 6
 
-**Domaines skiables [^5-2]**
+**Domaines skiables [^5-1]**
 
 <sup>1</sup> Le Chef de l'EMCC est l'autorité compétente pour autoriser l'exploitation d'un domaine skiable, conformément à l'article 5c de l'ordonnance COVID-19 Situation particulière[^6-1]. Il consulte préalablement le Médecin cantonal.
 
@@ -114,54 +140,44 @@ arrête
 
 <sup>2</sup> ...
 
-[^5-2]: Modif. 1 du 21.12.2020: Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Abrogation Al. 2; entrée en vigueur au 22.12.2020 · Modif. 3 du 03.03.2021: Abrogation Al. 1bis; entrée en vigueur au 01.03.2021
+[^5-1]: Modif. 1 du 21.12.2020: Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Abrogation Al. 2; entrée en vigueur au 22.12.2020 · Modif. 3 du 03.03.2021: Abrogation Al. 1bis; entrée en vigueur au 01.03.2021
 [^6-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 7
 
 **Manifestations [^6-2]**
 
-<sup>1</sup> Les manifestations politiques ou de la société civile au sens de l'article 6c, alinéa 2 de l'ordonnance COVID-19 Situation particulière[^7-1] sont autorisées jusqu'à 15 personnes.
+<sup>1</sup> L'EMCC, en collaboration avec l'office du Médecin cantonal, peut ordonner que des manifestations comportant des risques de transmission particuliers se dotent de plans de protection prévoyant des mesures de précaution renforcées.
 
 <sup>2</sup> ...
 
-<sup>3</sup> Les manifestations visant à la libre formation de l'opinion politique organisées à l'extérieur (stands d'information et de campagne) sont limitées à 20 personnes.
+<sup>3</sup> ...
 
-[^6-2]: Modif. 2 du 13.01.2021: Abrogation Al. 2; entrée en vigueur au 18.01.2021; Introduction Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 1; entrée en vigueur au 19.04.2021; Abrogation Al. 3; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Modification Al. 1; entrée en vigueur au 09.06.2021; Introduction Art. 7a; entrée en vigueur au 09.06.2021
-[^7-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
+[^6-2]: Modif. 2 du 13.01.2021: Abrogation Al. 2; entrée en vigueur au 18.01.2021; Introduction Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Modification Al. 1; entrée en vigueur au 19.04.2021; Abrogation Al. 3; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Modification Al. 1; entrée en vigueur au 09.06.2021; Introduction Art. 7a; entrée en vigueur au 09.06.2021
 
 #### Art. 8
 
-**Activités et installations sportives [^7-2]**
+**Activités et installations sportives [^7-1]**
 
 ...
 
-[^7-2]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Modification Al. 4; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1bis,4; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Abrogation Al. 1-3; entrée en vigueur au 01.03.2021
+[^7-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Modification Al. 4; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1bis,4; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Abrogation Al. 1-3; entrée en vigueur au 01.03.2021
 
 #### Art. 9
 
-**Activités et établissements culturels [^8-1]**
-
-<sup>1</sup> Les institutions culturelles fermées au public en vertu de l'ordonnance COVID-19 Situation particulière[^9-1] demeurent accessibles aux classes d'école visées par l'article 6d, alinéa 1, lettre a de ladite ordonnance.
-
-- a. ...
-- b. ...
-- c. ...
-
-<sup>2</sup> Les cinémas et théâtres sont accessibles pour des représentations données aux classes d'école visées par l'article 6d, alinéa 1 lettre a dans le cadre de leurs cours.
-
-<sup>3</sup> ...
-
-[^8-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Modification Al. 3; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021; Abrogation Al. 1, a-c; entrée en vigueur au 18.01.2021; Abrogation Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Abrogation tArt; entrée en vigueur au 19.04.2021; Abrogation Al. 1-2; entrée en vigueur au 19.04.2021
-[^9-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
-
-#### Art. 10
-
-**Rassemblements dans l'espace public [^9-2]**
+**... [^8-1]**
 
 ...
 
-[^9-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021
+[^8-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Modification Al. 3; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021; Abrogation Al. 1, a-c; entrée en vigueur au 18.01.2021; Abrogation Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Abrogation tArt; entrée en vigueur au 19.04.2021; Abrogation Al. 1-2; entrée en vigueur au 19.04.2021
+
+#### Art. 10
+
+**Rassemblements dans l'espace public [^9-1]**
+
+...
+
+[^9-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021
 
 #### Art. 11
 
@@ -181,19 +197,19 @@ arrête
 
 <sup>2</sup> Les réunions professionnelles doivent dans toute la mesure du possible avoir lieu par visioconférence.
 
-<sup>3</sup> Elles sont autorisées en présentiel jusqu'à 20 personnes moyennant :
+<sup>3</sup> Elles sont autorisées en présentiel jusqu'à 50 personnes moyennant :
 
 - a. le port du masque obligatoire;
 - b. le respect d'une distance de 1.5 mètre au minimum entre les participants;
 - c. l'aération régulière des locaux.
 
-<sup>4</sup> Sont considérées comme réunions professionnelles celles qui s'inscrivent dans le cadre ordinaire du travail et qui sont nécessaires à l'accomplissement des missions de l'entité considérée. En sont notamment exclus les séminaires et formations.
+<sup>4</sup> Sont considérées comme réunions professionnelles celles qui s'inscrivent dans le cadre ordinaire du travail et qui sont nécessaires à l'accomplissement des missions de l'entité considérée.
 
 <sup>5</sup> Le Chef de l'EMCC est compétent pour octroyer des dérogations au nombre limite fixé à l'alinéa 3 si la tenue de la réunion en présentiel est indispensable à l'activité de l'entité considérée.
 
 <sup>6</sup> Lorsque des entreprises et institutions publiques ou parapubliques accueillent des élèves de dixième et de onzième année de la scolarité obligatoire pour des stages préprofessionnels au sens de l'article 76 de la loi sur l'enseignement obligatoire[^12-1], ces élèves ne sont pas pris en compte dans le nombre limite fixé à l'alinéa 3.
 
-[^11-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 5; entrée en vigueur au 01.03.2021; Introduction Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 3-4; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021; Abrogation Al. 5-6; entrée en vigueur au 09.06.2021
+[^11-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 5; entrée en vigueur au 01.03.2021; Introduction Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Modification Al. 3-4; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021; Abrogation Al. 5-6; entrée en vigueur au 09.06.2021
 [^12-1]: Loi du 07.06.2011 sur l'enseignement obligatoire ([BLV 400.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02?id=1444413b-d078-412a-8edc-b8e277fc2daa))
 
 #### Art. 13
