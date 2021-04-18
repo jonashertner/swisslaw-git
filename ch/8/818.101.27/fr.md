@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-04-16
+version: 2021-04-19
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210416/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210416-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210416/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210419/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210419-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210419/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210416/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 16 avril 2021)
+du 27 janvier 2021 (Etat le 19 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -210,7 +210,7 @@ Sont également exemptés de l’obligation de test visée à l’art. 7:
 
 Toute personne obligée de se mettre en quarantaine-voyage en vertu de la présente ordonnance doit déclarer son entrée en Suisse à l’autorité cantonale compétente dans un délai de 2 jours et suivre ses instructions.
 
-## Section 4*a***** Obligations particulières des entreprises de transport aérien
+## Section 4*a* Obligations particulières des entreprises de transport aérien
 
 [^sec4a-1]
 
@@ -284,11 +284,11 @@ Annexe 1*[^t-1]*
 
 (art. 2, al. 2)
 
-## Liste des États et zones présentant un risque élevé d’infection****
+## Liste des États et zones présentant un risque élevé d’infection
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 avr. 2021 ([RO 2021 199](https://fedlex.data.admin.ch/eli/oc/2021/199)). Mise à jour par le ch. I de l’O du DFI du 16 avr. 2021, en vigueur depuis le 16 avr. 2021 ([RO 2021 220](https://fedlex.data.admin.ch/eli/oc/2021/220)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 avr. 2021, en vigueur depuis le 19 avr. 2021 ([RO 2021 202](https://fedlex.data.admin.ch/eli/oc/2021/202)). Mise à jour par le ch. I de l’O du DFI du 16 avr. 2021, en vigueur depuis le 16 avr. 2021 ([RO 2021 220](https://fedlex.data.admin.ch/eli/oc/2021/220)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
@@ -296,6 +296,8 @@ Annexe 1*[^t-1]*
 Afrique du Sud
 
 Andorre
+
+Arménie
 
 Bahreïn
 
@@ -313,6 +315,8 @@ Chili
 
 Chypre
 
+Croatie
+
 Estonie
 
 Grèce
@@ -328,6 +332,8 @@ Koweït
 Lettonie
 
 Liban
+
+Lituanie
 
 Luxembourg
 
@@ -371,6 +377,8 @@ Tchéquie
 
 Territoire palestinien (occupé)
 
+Turquie
+
 Ukraine
 
 Uruguay
@@ -379,14 +387,17 @@ Uruguay
 
 Zones en Allemagne:
 
+- – Land Sachsen
 - – Land Thüringen
 
 Zones en France:
 
+- – Région Bretagne
 - – Région Centre-Val de Loire
 - – Région Hauts-de-France
 - – Région Île-de-France
 - – Région Normandie
+- – Région Nouvelle-Aquitaine
 - – Région Occitanie
 - – Région Pays de la Loire
 - – Région Provence-Alpes-Côte d’Azur
@@ -399,6 +410,7 @@ Zones en Italie:
 - – Regione Lazio
 - – Regione Liguria
 - – Regione Marche
+- – Regione Puglia
 - – Regione Toscana
 - – Regione Veneto
 
