@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: fr
-version: 2021-04-01
+version: 2021-04-19
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210419/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210419-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210419/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210401/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> avril 2021)
+du 19 juin 2020 (Etat le 19 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -92,13 +92,22 @@ Les personnes suivantes sont exemptées de cette obligation:
 - a. les enfants de moins de 12 ans;
 - b.[^3b-3] les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales; l’art. 3*a*, al. 1, let. b, s’applique à l’attestation médicale;
 - c. les personnes dans les structures d’accueil extrafamilial, dans la mesure où le port d’un masque facial complique considérablement la prise en charge;
-- d. les clients dans les établissements de restauration, les bars et les boîtes de nuit s’ils sont assis à table;
+- d.[^3b-4] les clients dans les établissements de restauration, les bars et les boîtes de nuit lorsqu’ils consomment de la nourriture ou des boissons à table;
 - e. les personnes faisant l’objet d’une prestation médicale ou cosmétique au visage;
 - f. les personnes qui se produisent devant un public, notamment les orateurs, ainsi que les sportifs et les artistes conformément aux art. 6*e* et 6*f*.
+
+<sup>3</sup>
+
+Les institutions médico-sociales peuvent, après consultation de l’autorité cantonale compétente, prévoir dans leur plan de protection une exemption à l’obligation de porter le masque dans les espaces accessibles au public pour leurs résidents:
+
+- a. qui ont été vaccinés selon les recommandations de vaccination de l’OFSP avec des vaccins à ARNm contre le COVID-19: durant 6 mois à compter du 14<sup>e</sup> jour qui suit cette vaccination;
+- b. qui sont en mesure de prouver qu’ils ont contracté le SARS-CoV-2 et sont considérés comme guéris: durant 3 mois à compter de la levée de leur isolement par l’autorité compétente.[^3b-5]
 
 [^3b-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3b-3]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^3b-4]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3b-5]: Introduit par le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3c
 
@@ -146,7 +155,27 @@ Sont exemptées de la quarantaine-contact les personnes:
 - a. qui ont contracté le SARS-CoV-2 au cours des trois derniers mois avant d’avoir eu un contact étroit avec une personne au sens de l’al. 1 et sont considérées comme guéries, et pour lesquelles l’autorité cantonale compétente a levé l’isolement;
 - b. dont l’activité revêt une grande importance pour la société, et ce dans un secteur marqué par une grave pénurie de personnel.
 
-<sup>3</sup> L’autorité cantonale compétente peut, dans des cas justifiés, autoriser d’autres dérogations à la quarantaine-contact ou décider d’autres allègements pour certaines personnes. Elle en informe l’OFSP.
+<sup>3</sup>
+
+Les personnes qui travaillent dans des entreprises qui testent leur personnel de manière ciblée et à réitérées reprises sont exemptées de la quarantaine-contact pour se rendre au travail et exercer leur activité professionnelle si les conditions suivantes sont remplies:
+
+- a. l’entreprise dispose d’un plan permettant à son personnel de se faire tester facilement sur place; le personnel doit pouvoir se faire tester au minimum une fois par semaine;
+- b. les conditions pour la prise en charge des tests par la Confédération au sens de l’annexe 6, ch. 3.1 et 3.2, de l’ordonnance 3 COVID-19 du 19 juin 2020[^3d-1] sont remplies;
+- c. en dehors de leur activité professionnelle et du chemin pour se rendre au travail, les personnes concernées respectent la quarantaine-contact.[^3d-2]
+
+<sup>4</sup>
+
+L’autorité cantonale compétente peut, pour certaines personnes ou catégories de personne et dans des cas justifiés:
+
+- a. autoriser d’autres dérogations à la quarantaine-contact ou décider d’autres allègements;
+- b. prévoir une quarantaine-contact dans d’autres cas que ceux visés à l’al. 1, voire lorsque les conditions prévues à l’al. 3 sont remplies, lorsque cela s’avère nécessaire pour éviter la propagation du COVID-19.[^3d-3]
+
+<sup>5</sup> Elle informe l’OFSP des mesures prises pour certaines catégories de personnes en vertu de l’al. 4.[^3d-4]
+
+[^3d-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^3d-2]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-3]: Introduit par le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-4]: Introduit par le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3e
 
@@ -242,24 +271,46 @@ L’interdiction ne s’applique pas aux établissements suivants:
 - a. les établissements qui proposent de la nourriture et des boissons à l’emporter ou qui livrent des repas à domicile;
 - b.
 
+  les établissements de restauration, les bars et les boîtes de nuit, y compris les établissements de restauration à l’emporter, pour autant qu’ils proposent des places assises pour la consommation de nourriture et de boissons exclusivement à l’extérieur; sont réputés espaces extérieurs les terrasses et les autres endroits à l’extérieur d’un bâtiment qui, pour être suffisamment aérés:
+
+  - 1\. ne sont pas couverts, ou
+  - 2\. sont couverts, mais ouverts sur au moins la moitié de leurs côtés;
+
+- c.
+
   les restaurants d’entreprise qui servent exclusivement le personnel travaillant dans l’entreprise concernée et dont le plan de protection prévoit les mesures suivantes pour la distribution et la consommation de nourriture et de boissons:
 
   - 1\. obligation de consommer assis,
-  - 2\. obligation de respecter la distance requise entre chaque personne qui consomme;
+  - 2\. obligation de respecter la distance requise entre chaque personne ou installation de séparations efficaces;
 
-- c. les cantines et les structures de jour des écoles obligatoires qui servent exclusivement les élèves, les membres du corps enseignant et les employés de l’école;
 - d.
 
-  les établissements de restauration et les bars réservés aux clients des hôtels; pour ceux-ci les règles suivantes s’appliquent:
+  les établissements de restauration qui accueillent à l’intérieur uniquement les chauffeurs professionnels, les professionnels qui travaillent à l’extérieur, notamment dans l’agriculture et la construction, ainsi que les artisans et les employés de service de montage; outre les mesures de protection visées à la let. c, ces établissements doivent respecter les règles suivantes:
 
-  - 1\. chaque table ne peut accueillir que 4 personnes au maximum, à l’exception des familles avec enfants,
-  - 2\. les clients sont tenus de s’asseoir, en particulier, ils ne peuvent consommer nourriture et boissons qu’assis,
-  - 3\. la distance requise entre les groupes doit être respectée ou des séparations efficaces doivent être installées,
-  - 4\. l’exploitant est tenu de collecter les coordonnées d’au moins 1 client par groupe.
+  - 1\. ils doivent annoncer à l’autorité cantonale compétente qu’ils proposent le service mentionné,
+  - 2\. ils peuvent servir uniquement les clients qui ont réservé leur place; font exception les chauffeurs professionnels,
+  - 3\. ils doivent collecter les coordonnées de tous les clients;
 
-<sup>3</sup> Les établissements visés à l’al. 2, let. a et d, peuvent rester ouverts entre 6 h 00 et 23 h 00.
+- e. les cantines et les structures de jour des écoles obligatoires qui servent exclusivement les élèves, les membres du corps enseignant et les employés de l’école;
+- f. les établissements de restauration et les bars réservés aux clients des hôtels.
 
-[^5a-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+<sup>3</sup>
+
+Les établissements visés à l’al. 2, let. b et f, sont soumis aux règles suivantes:
+
+- a. chaque table ne peut accueillir que 4 personnes au maximum, à l’exception des familles avec enfants;
+- b. les clients sont tenus de s’asseoir; en particulier, ils ne peuvent consommer nourriture et boissons qu’assis;
+- c. la distance requise entre les groupes doit être respectée ou des séparations efficaces doivent être installées;
+- d. l’exploitant est tenu de collecter les coordonnées de tous les clients; font exception les coordonnées des enfants accompagnés de leurs parents.
+
+<sup>4</sup>
+
+Les horaires d’ouverture suivants s’appliquent:
+
+- a. les établissements visés à l’al. 2, let. a, b et f, doivent rester fermés entre 23 h et 6 h;
+- b. les établissements visés à l’al. 2, let. c et d, ne peuvent rester ouverts que pendant les heures usuelles des repas et doivent dans tous les cas rester fermés entre 22 h et 6 h; font exception les établissements de restauration des entreprises qui pratiquent le travail en équipes 24 heures sur 24.
+
+[^5a-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur du 19 avr. 2021 au 31 mai 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -329,16 +380,14 @@ Les cantons contrôlent régulièrement si le plan de protection est mis en œuv
 
 <sup>1</sup>
 
-Les espaces intérieurs accessibles au public des installations et des établissements des domaines de la culture, du divertissement, des loisirs et du sport sont fermés au public; font exception:
+Les espaces intérieurs accessibles au public des installations et des établissements des domaines de la culture, du divertissement, des loisirs et du sport peuvent être ouverts au public à condition que le port obligatoire du masque conformément à l’art. 3*b* et le respect de la distance requise puissent être garantis. Font exception:
 
-- a. les musées, les bibliothèques et les archives;
-- b. les installations d’équitation;
-- c. les installations dans les hôtels, pour autant qu’elles soient réservées aux clients des hôtels;
-- d. les installations utilisées pour les manifestations et activités autorisées en vertu des art. 6, al. 1, et 6*e* à 6*g*.
+- a. les installations utilisées pour des activités dans les domaines de la formation, du sport et de la culture ainsi que pour l’animation socioculturelle enfance et jeunesse, à condition qu’il ne soit pas obligatoire de porter un masque ou de respecter la distance requise en vertu des art. 6*e* à 6*g*;
+- b. les installations dans les hôtels, pour autant qu’elles soient réservées aux clients des hôtels.
 
-<sup>2</sup> Les espaces intérieurs des installations et des établissements qui sont nécessaires à l’utilisation des espaces extérieurs, tels que entrées, installations sanitaires et vestiaires, peuvent demeurer ouverts.
+<sup>2</sup> Peuvent demeurer ouverts les espaces intérieurs, tels que les entrées, les installations sanitaires et les vestiaires, des installations et des établissements fermés au public en vertu de l’al. 1, lorsqu’ils sont nécessaires à l’utilisation des espaces extérieurs.
 
-[^5d-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre) ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+[^5d-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre) ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur du 19 avr. 2021 au 31 mai 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 5e et 5f
 
@@ -352,24 +401,39 @@ Les espaces intérieurs accessibles au public des installations et des établiss
 
 <sup>1</sup>
 
-Les manifestations sont interdites. Sont exceptées:
+Les manifestations de plus de 15 personnes sont interdites. Cette limite ne s’applique pas:[^6-2]
 
-- a. les manifestations prévues à l’art. 6*c*;
-- b. les manifestations visant la libre formation de l’opinion politique jusqu’à 50 personnes;
-- c. les procédures des autorités judiciaires et des autorités de conciliation;
-- d. les manifestations religieuses jusqu’à 50 personnes;
-- e. les funérailles dans le cercle familial et dans le cercle amical restreint;
-- f. les manifestations dans le domaine de la formation autorisées en vertu de l’art 6*d*;
-- g. les manifestations sans public dans les domaines du sport et de la culture au sens des art. 6*e* et 6*f*, al. 2 et 3;
-- h. les manifestations dans le cercle familial et entre amis au sens de l’al. 2;
-- i. les réunions de groupes d’entraide établis dans les domaines de la lutte contre la dépendance et de la santé psychique jusqu’à 10 personnes.
+- a. aux manifestations prévues à l’art. 6*c*;
+- b. aux manifestations visant la libre formation de l’opinion politique jusqu’à 50 personnes;
+- c. aux procédures des autorités judiciaires et des autorités de conciliation;
+- d. aux manifestations religieuses jusqu’à 50 personnes;
+- e. aux funérailles dans le cercle familial et dans le cercle amical restreint;
+- f. aux manifestations dans le domaine de la formation autorisées en vertu de l’art 6*d*;
+- g.[^6-3] aux manifestations dans les domaines du sport et de la culture au sens des art. 6*e*, al. 1, et 6*f*, al. 2 et 3;
+- h.[^6-4] aux manifestations organisées dans le cadre des activités autorisées en vertu de l’art. 6*g*;
+- i.[^6-5] aux manifestations organisées avec du public visées à l’al. 1<sup>bis</sup>.
 
-<sup>2</sup> Les manifestations organisées dans le cercle familial et entre amis (manifestations privées) sont limitées à 10 personnes à l’intérieur et à 15 personnes à l’extérieur.[^6-2] L’obligation d’élaborer et de mettre en œuvre un plan de protection ne s’applique pas.
+<sup>1bis</sup>
+
+Les manifestations organisées avec du public sont soumises aux règles suivantes:
+
+- a. les manifestations organisées à l’intérieur sont limitées à un public de 50 personnes et celles organisées à l’extérieur à un public de 100 personnes;
+- b. un tiers au maximum des places assises disponibles peuvent être occupées par le public;
+- c. les personnes doivent rester assises pour toute la durée de la manifestation, y compris durant les pauses, à moins qu’elles aient des raisons impérieuses de se lever; un siège doit être attribué à chaque personne;
+- d. l’exploitation des établissements de restauration, y compris des établissements de restauration à l’emporter, est interdite;
+- e. la consommation de nourriture et de boissons est interdite.[^6-6]
+
+<sup>2</sup> Les manifestations organisées dans le cercle familial et entre amis (manifestations privées) qui n’ont pas lieu dans des installations ou des établissements accessibles au public sont limitées à 10 personnes à l’intérieur et à 15 personnes à l’extérieur. Seul l’art. 3 s’applique; l’obligation d’élaborer et de mettre en œuvre un plan de protection ne s’applique pas.[^6-7]
 
 <sup>3</sup> L’organisation de foires dans des espaces clos est interdite.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021 (Assouplissements pour les manifestations privées, prolongation des mesures limitées dans le temps), en vigueur du 22 mars 2021 ([RO 2021 157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-5]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-6]: Introduit par le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-7]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 6a et 6b
 
@@ -400,30 +464,31 @@ Le nombre de personnes n’est pas limité pour les manifestations suivantes:
 
 <sup>1</sup>
 
-Les activités présentielles sont interdites dans les établissements de formation. Sont exemptés de cette règle:
+Les activités organisées dans les établissements de formation sont soumises aux règles suivantes:
 
-- a. les écoles obligatoires et les écoles du niveau secondaire II, y compris les examens y relatifs;
-- b. les cours particuliers;
-- c.
+- a. les activités présentielles réunissant plus de 50 personnes sont interdites;
+- b. les locaux où se déroulent les activités ne doivent pas être remplis à plus de 1/3 de leur capacité.
+
+<sup>2</sup>
+
+Sont exemptées des restrictions visées à l’al. 1:
+
+- a. les écoles obligatoires et les écoles du degré secondaire II, y compris les examens qui s’y déroulent;
+- b.
 
   les activités suivantes si la présence sur place est nécessaire:
 
   - 1\. les activités didactiques qui sont indispensables pour la filière de formation,
-  - 2\. les examens en lien avec les filières de formation, dans le domaine de la formation professionnelle supérieure ou pour l’obtention d’un certificat officiel.[^6d-2]
+  - 2\. les examens en lien avec les filières de formation, dans le domaine de la formation professionnelle supérieure ou pour l’obtention d’un certificat officiel.
 
-<sup>1bis</sup> Dans des cas dûment fondés, le nombre des participants aux examens visés l’al. 1 peut être supérieur à 50.[^6d-3]
+<sup>3</sup>
 
-<sup>2</sup> Les enfants et les adolescents du degré secondaire II ainsi que le corps enseignant et les autres membres du personnel de ces écoles sont tenus de porter un masque facial lors d’activités présentielles. Font exception les situations où le port du masque compliquerait considérablement l’enseignement.
+Exception faite de l’école obligatoire, le port du masque est obligatoire lors d’activités présentielles. Cette obligation ne s’applique pas:
 
-<sup>3</sup> ...[^6d-4]
+- a. aux personnes visées à l’art. 3*b*, al. 2, let. b;
+- b. aux situations dans lesquelles le port du masque compliquerait considérablement l’enseignement.
 
-<sup>4</sup> ...[^6d-5]
-
-[^6d-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 2 nov. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^6d-2]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6d-3]: Introduit par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6d-4]: Abrogé par le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), avec effet au 1<sup>er</sup> mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^6d-5]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6d-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 6e
 
@@ -431,57 +496,60 @@ Les activités présentielles sont interdites dans les établissements de format
 
 <sup>1</sup>
 
-Dans le domaine du sport, les activités sportives suivantes sont autorisées:
+Les activités sportives suivantes sont autorisées:
 
 - a. les activités sportives d’enfants et d’adolescents nés en 2001 ou après, y compris les compétitions sans public;
-- b. les activités sportives qui n’impliquent pas de contact physique et qui sont pratiquées en plein air à titre individuel ou en groupes d’au maximum 15 personnes, pour les personnes nées en 2000 ou avant, si les personnes concernées portent un masque facial ou respectent la distance requise; les compétitions sont interdites;
-- c. les activités d’entraînement et les compétitions de sportifs d’élite qui détiennent un passeport de performance national ou régional de Swiss Olympic (*Swiss Olympic Card*) ou qui font partie d’un cadre national d’une fédération sportive nationale et qui s’entraînent seuls, en groupes de 15 personnes au plus ou dans des équipes de compétition fixes;
-- d. les activités d’entraînement et les matches d’équipes appartenant à une ligue professionnelle ou semi-professionnelle ou à une ligue nationale espoir; si les matches ont lieu au niveau professionnel ou semi-profesionnel dans une ligue dʼun seul des deux sexes, les activités dʼentraînement et les matches sont également autorisés dans la ligue correspondante de lʼautre sexe.
+- b.
 
-<sup>2</sup> Pour les activités sportives en groupes d’au maximum 5 personnes au sens de l’al. 1, let. a et b, l’élaboration d’un plan de protection au sens de l’art. 4 n’est pas obligatoire.
+  les activités sportives, y compris les compétitions sans public, qui sont pratiquées à titre individuel ou en groupes de 15 au plus par des personnes nées en 2000 ou avant:
 
-[^6e-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+  - 1\. en plein air: à condition de porter un masque facial ou de respecter la distance requise,
+  - 2\. à l’intérieur: à condition de respecter tant les limites de capacité fixées à l’annexe 1, ch. 3.1<sup>bis</sup>, let. f, que le port du masque et la distance requise; il est possible de renoncer au port du masque lorsque cela est nécessaire pour exercer l’activité, que les espaces disponibles satisfont aux exigences plus élevées fixées à l’annexe 1, ch. 3.1<sup>quater</sup>, et que les coordonnées sont collectées conformément à l’art. 5;
+
+- c.
+
+  les activités d’entraînement et les compétitions de sportifs d’élite:
+
+  - 1\. qui détiennent un passeport de performance national ou régional de Swiss Olympic (*Swiss Olympic Card*) ou font partie d’un cadre national d’une fédération sportive nationale, et
+  - 2\. qui s’entraînent seuls, en groupes de 15 personnes au plus ou dans des équipes de compétition fixes;
+
+- d. les activités d’entraînement et les matches d’équipes appartenant à une ligue professionnelle ou semi-professionnelle ou à une ligue nationale espoir; si les matches ont lieu au niveau professionnel ou semi-professionnel dans une ligue d’un seul des deux sexes, les activités d’entraînement et les matches sont également autorisés dans la ligue correspondante de l’autre sexe.
+
+<sup>2</sup> Pour les activités sportives en groupes de 5 personnes au plus au sens de l’al. 1, let. a et b, l’élaboration d’un plan de protection au sens de l’art. 4 n’est pas obligatoire.
+
+[^6e-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur du 19 avr. 2021 au 31 mai 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 6f
 
 **Dispositions particulières pour le domaine de la culture**[^6f-1]
 
-<sup>1</sup> Pour l’exploitation des musées, des bibliothèques et d’autres institutions culturelles comparables, seule s’applique l’obligation d’un plan de protection au sens de l’art. 4.
+<sup>1</sup> Pour l’exploitation des musées, des bibliothèques et d’autres institutions culturelles comparables, seules s’appliquent l’obligation d’un plan de protection au sens de l’art. 4 et les dispositions de l’art. 5*d*, al. 1.
 
 <sup>2</sup>
 
-Dans le domaine de la culture, les activités suivantes, y compris les représentations sans public et l’utilisation des installations et établissements nécessaires aux activités, sont autorisées:
+Dans le domaine non professionnel de la culture, les activités suivantes sont autorisées, à l’exception des représentations avec du public:
 
-- a.
-
-  dans le domaine non professionnel:
-
-  - 1\. les activités d’enfants et d’adolescents nés en 2001 ou après,
-  - 2\. les activités exercées à titre individuel de personnes nées en 2000 ou avant,
-  - 3\. les activités exercées dans des espaces clos en groupes d’au maximum 5 personnes nées en 2000 ou avant, si celles-ci portent un masque facial et respectent la distance requise; elles peuvent renoncer au masque dans de grands locaux, pour autant que des règles supplémentaires en matière de distance et la limitation des capacités soient appliquées,
-  - 4\. les activités en plein air en groupes d’au maximum 15 personnes nées en 2000 ou avant, si celles-ci portent un masque facial ou respectent la distance requise;
-
-- b. dans le domaine professionnel: les activités d’artistes ou d’ensembles.
+- a. les activités d’enfants et d’adolescents nés en 2001 ou après;
+- b. les activités exercées à titre individuel par des personnes nées en 2000 ou avant;
+- c. les activités exercées à l’intérieur en groupes de 15 personnes au plus nées en 2000 ou avant, à condition de respecter tant les limites de capacité fixées à l’annexe 1, ch. 3.1<sup>bis</sup>, let. f, que le port du masque facial et la distance requise; il est possible de renoncer au masque lorsque cela est nécessaire pour exercer l’activité, que les espaces disponibles satisfont aux exigences plus élevées fixées à l’annexe 1, ch. 3.1<sup>ter</sup>, et que les coordonnées sont collectées conformément à l’art. 5;
+- d. les activités en plein air en groupes de 15 personnes au plus nées en 2000 ou avant, si celles-ci portent un masque facial ou respectent la distance requise.
 
 <sup>3</sup>
 
-Les activités de chant sont soumises aux règles suivantes:
+Dans le domaine professionnel de la culture, toutes les activités d’artistes ou d’ensembles sont autorisées. Les activités de chant sont soumises aux règles suivantes:
 
-- a. dans le domaine non professionnel, il est interdit de chanter en groupe en dehors du cercle familial ou d’avoir des activités de chœurs ou impliquant des chanteurs; font exception le chant d’enfants et d’adolescents nés en 2001 ou après et le chant dans le cadre de cours individuels; les représentations en public sont interdites;
-- b.
+- a. les représentations de chœurs avec du public sont interdites;
+- b. les répétitions et les représentations impliquant des chanteurs ne sont admises que si le plan de protection prévoit des mesures de protection spécifiques.
 
-  dans le domaine professionnel:
+<sup>4</sup> Pour les manifestations visées à l’al. 2, let. a, c et d, regroupant 5 personnes au plus, l’élaboration d’un plan de protection au sens de l’art. 4 n’est pas obligatoire.
 
-  - 1\. l’organisation de représentations en public impliquant des chœurs est interdite,
-  - 2\. l’organisation de répétitions et de représentations impliquant des chanteurs n’est admise que si le plan de protection prévoit des mesures de protection spécifiques.
-
-<sup>4</sup> Pour les manifestations visées à l’al. 2, let. a, regroupant au maximum 5 personnes, l’élaboration d’un plan de protection au sens de l’art. 4 n’est pas obligatoire.
-
-[^6f-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+[^6f-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur du 19 avr. 2021 au 31 mai 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 6g
 
 **Dispositions particulières pour l’animation socioculturelle enfance et jeunesse**[^6g-1]
+
+<sup>1</sup>
 
 Les activités des organisations et des institutions de l’animation socioculturelle enfance et jeunesse sont autorisées lorsqu’elles remplissent les conditions suivantes:
 
@@ -491,10 +559,12 @@ Les activités des organisations et des institutions de l’animation sociocultu
 
   le plan de protection mentionne:
 
-  - 1\. les activités autorisées; sont de toute façon exclus les fêtes, les manifestations de danse et la distribution de nourriture et de boissons,
+  - 1\. les activités autorisées;
   - 2\. le nombre maximal autorisé des enfants et des adolescents.
 
-[^6g-1]: Introduit par le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+<sup>2</sup> Sont de toute façon interdites les manifestations de danse et la distribution de nourriture et de boissons à l’intérieur.
+
+[^6g-1]: Introduit par le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins) ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)). Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur du 19 avr. 2021 au 31 mai 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 7
 
@@ -633,20 +703,21 @@ Les cantons ont l’obligation de communiquer régulièrement au Service sanitai
 
 Est puni de l’amende quiconque:
 
-- a.[^13-2] en tant qu’exploitant ou organisateur enfreint intentionnellement ou par négligence les obligations qui lui incombent en vertu des art. 4, al. 1 et 2, 5*a*, 5*d*, al. 1, et 6*d* à 6*g*;
+- a.[^13-2] en tant qu’exploitant ou organisateur enfreint intentionnellement ou par négligence les obligations qui lui incombent en vertu des art. 4, al. 1 et 2, 5*a*, 5*d*, al. 1, 6, al. 1<sup>bis</sup>, let. a à d, et 6*d* à 6*g*;
 - b. en tant qu’exploitant ou organisateur enfreint intentionnellement ou par négligence l’art. 5, al. 3, en utilisant les coordonnées collectées en vertu de l’art. 5 à d’autres fins ou en les conservant pendant plus de 14 jours suivant la manifestation ou la visite de l’installation ou de l’établissement;
 - c. exploite intentionnellement un domaine skiable sans l’autorisation requise en vertu de l’art. 5*c*, al. 2, ou en dérogeant au plan de protection approuvé;
-- d. organise intentionnellement une manifestation interdite en vertu de l’art. 6, al. 1 et 2, ou y participe;
-- e.[^13-3] organise intentionnellement une foire interdite en vertu de l’art. 6, al. 3;
+- d.[^13-3] organise intentionnellement une manifestation rassemblant plus de personnes que le nombre autorisé en vertu de l’art. 6, al. 1, 1<sup>bis</sup> ou 2, ou y participe intentionnellement;
+- e.[^13-4] organise intentionnellement une foire interdite en vertu de l’art. 6, al. 3;
 - f. enfreint intentionnellement ou par négligence l’art. 3*a* ou 3*b*, al. 1, en ne portant pas de masque facial dans les véhicules des transports publics, dans les espaces clos et extérieurs accessibles au public des installations et des établissements, y compris les marchés, ainsi que dans les zones d’attente des gares, des arrêts de bus et de tram et des remontées mécaniques, dans les gares, les aéroports ou d’autres zones d’accès aux transports publics, à moins qu’une exemption ne soit applicable en vertu de l’art. 3*a*, al. 1, ou 3*b*, al. 2;
 - g. enfreint intentionnellement l’interdiction de rassemblements dans l’espace public au sens de l’art. 3*c*, al. 1, ou une disposition cantonale plus stricte;
-- h.[^13-4] enfreint intentionnellement l’obligation de consommer assis dans un établissement de restauration ou un bar réservé aux clients d’un hôtel en vertu de l’art. 5*a*, al. 2, let. d, ch. 2;
+- h.[^13-5] enfreint intentionnellement l’obligation de rester assis dans un établissement de restauration ou un bar ou lors d’une manifestation en vertu de l’art. 5*a*, al. 3, let. b, ou 6, al. 1<sup>bis</sup>, let. c;
 - i. ne porte pas de masque facial intentionnellement ou par négligence en participant à une manifestation politique ou de la société civile ou à une récolte de signatures, à moins qu’une exemption ne soit applicable en vertu de l’art. 6*c*, al. 2, 2<sup>e</sup> phrase.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021.
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-3]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)).
 [^13-4]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-5]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 ## Section 7 Dispositions finales
 
@@ -694,11 +765,11 @@ Les ordonnances suivantes sont modifiées comme suit:
 
 Annexe 1*[^t-1]*
 
-(art. 4, al. 3, et 5, al. 1)
+(art. 4, al. 3, 5, al. 1, 6*e*, al. 1, let. b, ch. 2, et 6*f*, al. 2, let. c)
 
 ## Prescriptions pour les plans de protection
 
-[^t-1]: Anciennement annexe. Mise à jour par le ch. II des O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), et du ch. II al. 1 de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021, le ch. 3.1<sup>ter</sup> jusqu’au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+[^t-1]: Anciennement annexe. Mise à jour par le ch. II des O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), et du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations, accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport), en vigueur depuis le 19 avr. 2021, les ch. 3.1ter et 3.1quater jusqu’au 31 mai 2021 ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 ### 1 Généralités
 
@@ -759,16 +830,34 @@ Annexe 1*[^t-1]*
       - – mais 100 clients autorisés au minimum;
 
   - d. dans les installations où se trouvent plusieurs magasins dont la surface totale de vente dépasse 10 000 mètres carrés (centres commerciaux), le nombre total de clients présents dans le centre commercial ne peut pas dépasser la somme du nombre de clients autorisés dans les différents magasins ouverts;
-  - e. dans les musées, les limitations visées aux let. a et c s’appliquent par analogie;
-  - f. dans les installations et établissements autres que les magasins et les musées, chaque personne doit disposer d’au moins 10 mètres carrés lorsque plusieurs personnes sont présentes dans les espaces où elles peuvent se déplacer librement; mais 5 personnes au moins sont autorisées; dans les installations et établissements d’une surface d’au maximum 30 mètres carrés, chaque personne doit disposer d’au moins 6 mètres carrés; ces exigences ne s’appliquent pas aux activités impliquant des enfants et des adolescents nés en 2001 ou après, que ce soit dans les domaines de la culture et du sport ou dans les organisations et institutions de l’animation socioculturelle enfance et jeunesse;
+  - e. ...
+  - f.
+
+    dans les installations et établissements autres que les magasins les règles suivantes s’appliquent:
+
+    - 1\. chaque personne doit disposer d’au moins 10 mètres carrés lorsque plusieurs personnes sont présentes dans les espaces où elles peuvent se déplacer librement; mais 5 personnes au moins sont autorisées,
+    - 2\. dans les installations et établissements d’une surface de 30 mètres carrés au plus, chaque personne doit disposer d’au moins 6 mètres carrés,
+    - 3\. les règles fixées aux ch. 1 et 2 ne s’appliquent pas aux activités pratiquées par des enfants et des adolescents nés en 2001 ou après dans les domaines de la culture et du sport ou dans le cadre des organisations et institutions de l’animation socioculturelle enfance et jeunesse;
+
   - g. dans le cas de sièges disposés en rangées ou de manière similaire, seuls peuvent être occupés 1 siège sur 2 ou les sièges présentant un espacement équivalent.
 
 - 3\.1<sup>ter</sup>
 
-  Les activités culturelles au sens de l’art. 6*f*, al. 2, let. a, ch. 3, sont soumises aux règles suivantes:
+  Les activités culturelles au sens de l’art. 6*f*, al. 2, let. c, pratiquées sans masque à l’intérieur sont soumises aux règles suivantes:
 
-  - a. l’espace doit être aménagé de telle sorte que chaque personne dispose d’une surface d’au moins 15 mètres carrés pour son usage exclusif ou que des séparations efficaces soient installées entre les différentes personnes;
-  - b. le local doit disposer d’une aération efficace.
+  - a. chaque personne doit disposer d’une surface d’au moins 25 mètres carrés pour son usage exclusif ou des séparations efficaces doivent être installées entre les différentes personnes;
+  - b. pour les activités qui n’impliquent ni chant, ni instruments à vent, ni efforts physiques importants et qui n’exigent pas de changer de place, la surface minimale est de 15 mètres carrés par personne;
+  - c. le local doit disposer d’une aération efficace.
+
+- [tab]
+
+  3.1<sup>quater</sup> Les activités sportives au sens de l’art. 6*e*, al. 1, let. b, ch. 2, pratiquées sans masque à l’intérieur sont soumises aux règles suivantes:
+
+  - a. chaque personne doit disposer d’une surface d’au moins 25 mètres carrés pour son usage exclusif ou des séparations efficaces doivent être installées entre les différentes personnes;
+  - b. pour les sports qui n’impliquent pas d’efforts physiques importants et qui n’exigent pas de changer de place, la surface minimale est de 15 mètres carrés par personne;
+  - c. dans les piscines couvertes, chaque personne doit disposer d’une surface d’eau de 25 mètres carrés;
+  - d. il ne doit pas y avoir plus de 15 personnes à la fois dans un local;
+  - e. le local doit disposer d’une aération efficace.
 
 - 3\.2 En dérogation au ch. 3.1, dans les espaces assis, les sièges doivent être occupés ou disposés de façon à maintenir au moins une place vide ou une distance équivalente entre les sièges.
 - 3\.3 Dans les établissements de restauration, les bars et les boîtes de nuit, les groupes doivent être placés aux tables de façon à ce que la distance requise entre chacun d’entre eux soit respectée.
