@@ -3,11 +3,11 @@ sr: "412.101.243"
 title: Ordinanza del 12 marzo 2021 sulle procedure di qualificazione per la formazione professionale di base nel 2021 in relazione all’epidemia di COVID-19 (Ordinanza COVID-19 procedure di qualificazione per la formazione professionale di base 2021)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/166"
 language: it
-version: 2021-04-01
+version: 2021-04-19
 adopted: 2021-03-12
 in_force: 2021-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/166/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2021-166-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/166/20210419/it/xml/fedlex-data-admin-ch-eli-cc-2021-166-20210419-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210419/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210401/it"
 
 (Ordinanza COVID-19 procedure di qualificazione per la formazione professionale di base 2021)
 
-del 12 marzo 2021 (Stato 1° aprile 2021)
+del 12 marzo 2021 (Stato 19 aprile 2021) (Stato 19 aprile 2021)
 
 La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
@@ -145,12 +145,14 @@ Qualora si decida di non svolgere l’esame finale, il giudizio del campo di qua
 
 <sup>1</sup>
 
-Qualora si decida di non svolgere l’esame finale, nelle formazioni professionali di base qui di seguito la nota del campo di qualificazione «lavoro pratico» è data, in deroga alle disposizioni delle ordinanze in materia di formazione, dalla media della somma delle note della formazione professionale pratica, della conoscenza generale del ramo e dei corsi interaziendali:
+Qualora si decida di non svolgere l’esame finale, nelle formazioni professionali di base qui di seguito la nota del campo di qualificazione «lavoro pratico» è data, in deroga alle disposizioni delle ordinanze in materia di formazione, dalla media della somma delle note della formazione professionale pratica, della conoscenza generale del ramo e dei corsi interaziendali:[^9-1]
 
 - a. impiegato del commercio al dettaglio AFC;
 - b. assistente del commercio al dettaglio CFP.
 
 <sup>2</sup> La media è arrotondata a un decimale.
+
+[^9-1]: La correzione del 19 apr. 2021 concerne soltanto il testo francese ([RU 2021 221](https://fedlex.data.admin.ch/eli/oc/2021/221)).
 
 #### Art. 10
 

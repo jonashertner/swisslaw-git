@@ -3,11 +3,11 @@ sr: "412.101.243"
 title: Verordnung vom 12. März 2021 über die Qualifikationsverfahren 2021 in den beruflichen Grundbildungen im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Verordnung Qualifikationsverfahren berufliche Grundbildung 2021)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/166"
 language: de
-version: 2021-04-01
+version: 2021-04-19
 adopted: 2021-03-12
 in_force: 2021-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/166/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2021-166-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/166/20210419/de/xml/fedlex-data-admin-ch-eli-cc-2021-166-20210419-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210419/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210401/de"
 
 (Covid-19-Verordnung Qualifikationsverfahren berufliche Grundbildung 2021)
 
-vom 12. März 2021 (Stand am 1. April 2021)
+vom 12. März 2021 (Stand am 19. April 2021)
 
 Das Staatsekretariat für Bildung, Forschung und Innovation (SBFI),
 
@@ -145,12 +145,14 @@ In Abweichung von den Bestimmungen der Bildungsverordnung ergibt sich das Prädi
 
 <sup>1</sup>
 
-In Abweichung von den Bestimmungen der Bildungsverordnungen ergibt sich die Note des Qualifikationsbereichs praktische Arbeiten in den folgenden beruflichen Grundbildungen beim Absehen von der Durchführung der Abschlussprüfung aus dem Mittel der Summe der Noten für die Bildung in beruflicher Praxis, für die allgemeine Branchenkunde und für die überbetrieblichen Kurse:
+In Abweichung von den Bestimmungen der Bildungsverordnungen ergibt sich die Note des Qualifikationsbereichs praktische Arbeiten in den folgenden beruflichen Grundbildungen beim Absehen von der Durchführung der Abschlussprüfung aus dem Mittel der Summe der Noten für die Bildung in beruflicher Praxis, für die allgemeine Branchenkunde und für die überbetrieblichen Kurse:[^9-1]
 
 - a. Detailhandelsfachfrau/mann EFZ;
 - b. Detailhandelsassistent/in EBA.
 
 <sup>2</sup> Das Mittel wird auf eine Dezimalstelle gerundet.
+
+[^9-1]: Die Berichtigung vom 19. April 2021 betrifft nur den französischen Text ([AS 2021 221](https://fedlex.data.admin.ch/eli/oc/2021/221)).
 
 #### Art. 10
 

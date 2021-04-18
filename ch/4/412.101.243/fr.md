@@ -3,11 +3,11 @@ sr: "412.101.243"
 title: Ordonnance du 12 mars 2021relative aux procédures de qualification de la formation professionnelle initiale en 2021 dans le contexte de l’épidémie de COVID-19 (Ordonnance COVID-19 procédures de qualification formation professionnelle initiale 2021)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/166"
 language: fr
-version: 2021-04-01
+version: 2021-04-19
 adopted: 2021-03-12
 in_force: 2021-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/166/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2021-166-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/166/20210419/fr/xml/fedlex-data-admin-ch-eli-cc-2021-166-20210419-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210419/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/166/20210401/fr"
 
 (Ordonnance COVID-19 procédures de qualification formation professionnelle initiale 2021)
 
-du 12 mars 2021 (Etat le 1<sup>er</sup> avril 2021)
+du 12 mars 2021 (Etat le 19 avril 2021)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
@@ -143,13 +143,15 @@ En dérogation aux dispositions de l’ordonnance sur la formation , la mention 
 
 **Calcul de la note du domaine de qualification «travaux pratiques» des formations du commerce de détail**
 
-<sup>1</sup> En dérogation aux dispositions des ordonnances sur la formation pour les formations professionnelles initiales ci-après, la note du domaine du domaine de qualification «travaux pratiques» correspond, en cas de renonciation à l’examen final, à la moyenne des notes ci-après: note de la formation à la pratique professionnelle, note de connaissance générale de la branche, note de connaissance spécifique de la branche et note des cours interentreprises:
+<sup>1</sup> En dérogation aux dispositions des ordonnances sur la formation pour les formations professionnelles initiales ci-après, la note du domaine de qualification «travaux pratiques» correspond, en cas de renonciation à l’examen final, à la moyenne de la note de formation à la pratique professionnelle, note de connaissance générale de la branche et note des cours interentreprises:[^9-1]
 
 gestionnaire du commerce de détail CFC;
 
 assistant du commerce de détail AFP.
 
 <sup>2</sup> Cette moyenne est arrondie à la première décimale.
+
+[^9-1]: Erratum du 19 avr. 2021 ([RO 2021 221](https://fedlex.data.admin.ch/eli/oc/2021/221)).
 
 #### Art. 10
 
