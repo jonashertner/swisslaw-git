@@ -4,13 +4,13 @@ number: "100.1"
 title: Verordnung über Massnahmen des Kantons Solothurn zur Bekämpfung der Covid-19-Epidemie
 short: V Covid-19
 language: de
-version: 2021-01-18
-valid_until: 2021-04-18
-version_adopted: 2021-01-14
+version: 2021-04-19
+valid_until: 2021-06-25
+version_adopted: 2021-04-16
 adopted: 2020-10-21
 in_force: 2020-10-22
 url: "https://bgs.so.ch/app/de/texts_of_law/100.1"
-pdf: "https://bgs.so.ch/api/de/versions/5065/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5072/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5065/pdf_file"
 
 (V Covid-19)
 
-Vom 21.10.2020 (Stand 18.01.2021)
+Vom 21.10.2020 (Stand 19.04.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -50,22 +50,38 @@ beschliesst:
 
 **…**
 
+#### § 1quater
+
+**Erhebung von Kontaktdaten**
+
+<sup>1</sup> Betreiber und Betreiberinnen von Restaurations-, Bar- und Clubbetrieben sowie Organisatoren und Organisatorinnen von Veranstaltungen haben, abgesehen von Kindern, die mit ihren Eltern anwesend sind, von allen Gästen und Teilnehmenden folgende, durch geeignete Vorkehrungen auf deren Korrektheit hin zu überprüfende Kontaktdaten zu erheben:
+
+- a) Name, Vorname und vollständige Adresse;
+- b) Geburtsdatum;
+- c) Mobiltelefonnummer;
+- d) E-Mail-Adresse;
+- e) bei Restaurations-, Bar- und Clubbetrieben sowie bei Veranstaltungen mit Sitzplätzen die entsprechende Tisch- oder Sitzplatznummer.
+
+<sup>2</sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen sortierten, elektronischen Gäste- oder Teilnehmerliste zu erheben und aufzubewahren. Letztere ist dem Gesundheitsamt auf Anfrage hin innerhalb von höchstens zwei Stunden zu übermitteln.
+
+<sup>3</sup> Die Absätze 1 und 2 sind sinngemäss anwendbar auf:
+
+- a) Personen, die im Restaurations-, Bar- oder Clubbetrieb arbeiten;
+- b) Personen, die im Rahmen ihrer beruflichen Tätigkeit an einer Veranstaltung mitwirken, und Personen, die bei einer Veranstaltung mithelfen.
+
+<sup>4</sup> Das Gesundheitsamt kann den Betreibern und Betreiberinnen von Restaurations-, Bar- und Clubbetrieben, den Organisatoren und Organisatorinnen von Veranstaltungen, den Betreibern und Betreiberinnen von Eventplattformen sowie den Anbietern und Anbieterinnen von technischen Lösungen zur Erhebung von Kontaktdaten Vorgaben in Bezug auf die Erhebung, Aufbewahrung und Übermittlung der elektronischen Gäste- oder Teilnehmerliste machen und die technischen Voraussetzungen dafür schaffen, damit es auf die Kontaktdaten im Rahmen eines elektronischen Abrufverfahrens zugreifen kann.
+
+<sup>5</sup> Die Bearbeitung, Aufbewahrung und Vernichtung der Kontaktdaten richten sich nach Artikel 5 Absatz 3 der Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage) vom 19. Juni 2020[^1quater-1].
+
+[^1quater-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de).
+
 #### § 2
 
 **…**
 
 #### § 2bis
 
-**Schliessung von Einrichtungen und Betrieben in den Bereichen Unterhaltung und Freizeit**
-
-<sup>1</sup> Folgende öffentlich zugängliche Einrichtungen und Betriebe sind für das Publikum geschlossen:
-
-- a) …
-- b) Shishabars;
-- b<sup>bis</sup>) …
-- b<sup>ter</sup>) …
-- b<sup>quater</sup>) …
-- c) Erotik- und Sexbetriebe.
+**…**
 
 #### § 2ter
 
@@ -77,41 +93,7 @@ beschliesst:
 
 #### § 4
 
-**Veranstaltungen**
-
-<sup>1</sup> Personen, welche im Rahmen ihrer beruflichen Tätigkeit mitwirken, und Personen, die bei der Durchführung der Veranstaltung mithelfen, werden nicht mitgezählt.
-
-- a) …
-- b) …
-- b<sup>bis</sup>) …
-- b<sup>ter</sup>) …
-- c) …
-
-<sup>1<sup>bis</sup></sup> …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>3<sup>bis</sup></sup> …
-
-<sup>4</sup> …
-
-<sup>4<sup>bis</sup></sup> Die Organisatorinnen und Organisatoren von Veranstaltungen haben pro Teilnehmergruppe von mindestens einer Person sowie von Einzelpersonen folgende, durch geeignete Vorkehrungen auf deren Korrektheit hin zu überprüfende Kontaktdaten zu erheben:
-
-- a) Name, Vorname und vollständige Adresse;
-- b) Geburtsdatum;
-- c) Mobiltelefonnummer;
-- d) E-Mail-Adresse;
-- e) bei Veranstaltungen mit Sitzplätzen die Tisch- oder Sitzplatznummer.
-
-<sup>4<sup>ter</sup></sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen sortierten, elektronischen Teilnehmerliste zu erheben und aufzubewahren. Letztere ist dem Gesundheitsamt auf Anfrage hin innerhalb von höchstens zwei Stunden zu übermitteln. Das Gesundheitsamt kann Vorgaben in Bezug auf die Erhebung, Aufbewahrung und Übermittlung der elektronischen Teilnehmerliste machen und die technischen Voraussetzungen dafür schaffen, damit es auf die Kontaktdaten im Rahmen eines elektronischen Abrufverfahrens zugreifen kann.
-
-<sup>4<sup>quater</sup></sup> Die Absätze 4<sup>bis</sup> und 4<sup>ter</sup> sind sinngemäss auf Personen, welche im Rahmen der beruflichen Tätigkeit mitwirken, und Personen, die bei der Durchführung der Veranstaltung mithelfen, anwendbar.
-
-<sup>4<sup>quinquies</sup></sup> Die Bearbeitung, Aufbewahrung und Vernichtung der Kontaktdaten richten sich nach Artikel 5 Absatz 3 der Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage) vom 19. Juni 2020[^4-1].
-
-[^4-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de).
+**…**
 
 #### § 4bis
 
@@ -134,6 +116,8 @@ Die Notverordnung gilt längstens bis zum 31. Januar 2021.
 Mit RRB Nr. 2021/34 wurde die Geltungsdauer der Verordnung bis zum 28. Februar 2021 verlängert.
 
 Mit RRB Nr. 2021/234 wurde die Geltungsdauer der Verordnung bis zum 30. April 2021 verlängert.
+
+Mit RRB Nr. 2021/513 wurde die Geltungsdauer der Verordnung bis zum 31. Juli 2021 verlängert.
 
 Publiziert im Amtsblatt vom 23. Oktober 2020.
 
