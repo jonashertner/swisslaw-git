@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2021-03-22
+version: 2021-04-19
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210322/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210322-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210419/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210419-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210419/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210322/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 22 marzo 2021) (Stato 22 marzo 2021)
+del 16 gennaio 2019 (Stato 19 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -78,7 +78,7 @@ Le quietanze e i moduli concernenti il termine di riflessione ancora in scorta a
 
 La presente ordinanza entra in vigore il 1° gennaio 2020.
 
-Allegato 1[^t-1]
+Allegato 1*[^t-1]*
 
 (art. 1 lett. a)
 
@@ -86,7 +86,7 @@ Allegato 1[^t-1]
 
 [^t-1]: Aggiornato dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)).
 
-### Contravvenzioni secondo la legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
+### Contravvenzioni secondo la legge federale del 19 dicembre 1958**** sulla circolazione stradale (LCStr)
 
 [^annex1-lvlu1-lvlu1-1]
 
@@ -591,33 +591,33 @@ Allegato 1[^t-1]
 [^annex1-lvlu1-lvlu1-9]: O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
 [^annex1-lvlu1-lvlu1-10]: Il testo delle prescrizioni «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» è consultabile sul sito www.astra.admin.ch &gt; Area tecnico-amministrativa &gt; Veicoli e merci pericolose &gt; Merci pericolose &gt; Diritto internazionale.
 
-Allegato 2[^t-2]
+Allegato 2*[^t-2]*
 
 (art. 1 lett. b)
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. dell’O del 27 gen. 2021, in vigore fino al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), dall’all. 2 n. 1 dell’O del COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori) ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), dal n. III dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)) e dal n. III dell’O del 19 mar. 2021 (Allentamenti per manifestazioni private, proroga dei provvedimenti limitati nel tempo), in vigore dal 22 mar. 2021 ([RU 2021 157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. dell’O del 27 gen. 2021, in vigore fino al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), dall’all. 2 n. 1 dell’O del COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori) ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), dal n. III delle O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)) e del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)) .
 
 ### Contravvenzioni secondo gli altri atti normativi
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
-<tr><td>I. Legge federale del 16 dicembre 2005[^annex2-lvlu1-lvlu1-1] sugli stranieri e la loro integrazione (LStrI)</td><td></td></tr>
+<tr><td>I. Legge federale del 16 dicembre 2005**[^annex2-lvlu1-lvlu1-1]** sugli stranieri e la loro integrazione (LStrI)</td><td></td></tr>
 <tr><td>1001. Violazione dell’obbligo di cooperare all’acquisizione di documenti d’identità (art. 120 cpv. 1 lett. e LStrI)</td><td>[tab] 100</td></tr>
-<tr><td>II. Legge del 26 giugno 1998[^annex2-lvlu1-lvlu1-2] sull’asilo (LAsi)</td><td></td></tr>
+<tr><td>II. Legge del 26 giugno 1998**[^annex2-lvlu1-lvlu1-2]** sull’asilo (LAsi)</td><td></td></tr>
 <tr><td>2001. Violazione dell’obbligo di informare rifiutando di fornire un’informazione (art. 116 lett. a LAsi)</td><td>[tab] 200</td></tr>
-<tr><td>III. Legge federale del 19 dicembre 1986[^annex2-lvlu1-lvlu1-3] contro la concorrenza sleale (LCSl)</td><td></td></tr>
+<tr><td>III. Legge federale del 19 dicembre 1986**[^annex2-lvlu1-lvlu1-3]** contro la concorrenza sleale (LCSl)</td><td></td></tr>
 <tr><td>3001. Violazione dell’obbligo d’indicare i prezzi o il prezzo unitario (art. 24 cpv. 1 lett. a e cpv. 2 LCSl)</td><td>[tab] 200</td></tr>
-<tr><td>IV. Legge federale del 1° luglio 1966[^annex2-lvlu1-lvlu1-4] sulla protezione della natura e del paesaggio (LPN)</td><td></td></tr>
+<tr><td>IV. Legge federale del 1° luglio 1966**[^annex2-lvlu1-lvlu1-4]** sulla protezione della natura e del paesaggio (LPN)</td><td></td></tr>
 <tr><td>4001. Raccogliere, dissotterrare, sradicare, trasportare, offrire in vendita, vendere, acquistare o distruggere, senza autorizzazione, non più di cinque esemplari di piante selvatiche delle specie designate nell’allegato 2 OPN[^annex2-lvlu1-lvlu1-5] (art. 24*a* cpv. 1 lett. b LPN, art. 20 cpv. 1 e 5 OPN)</td><td>[tab] 100</td></tr>
-<tr><td>V. Legge del 20 giugno 1997[^annex2-lvlu1-lvlu1-6] sulle armi (LArm)</td><td></td></tr>
+<tr><td>V. Legge del 20 giugno 1997**[^annex2-lvlu1-lvlu1-6]** sulle armi (LArm)</td><td></td></tr>
 <tr><td>5001. Omissione di recare con sé il permesso di porto di armi (art. 34 cpv. 1 lett. h LArm)</td><td>[tab] 20</td></tr>
 <tr><td>5002. Trasporto di un’arma da fuoco senza tenere separate arma e munizioni (art. 34 cpv. 1 lett. n LArm)</td><td>[tab] 300</td></tr>
-<tr><td>VI. Legge del 19 marzo 2010[^annex2-lvlu1-lvlu1-7] sul contrassegno stradale (LUSN)</td><td></td></tr>
+<tr><td>VI. Legge del 19 marzo 2010**[^annex2-lvlu1-lvlu1-7]** sul contrassegno stradale (LUSN)</td><td></td></tr>
 <tr><td>6001. Utilizzo di una strada nazionale assoggettata alla tassa senza il contrassegno necessario per il periodo di tassazione (art. 14 cpv. 1 in combinato disposto con art. 7 e 8 LUSN)</td><td>[tab] 200</td></tr>
 <tr><td>6002. Utilizzo di una strada nazionale assoggettata alla tassa con il contrassegno necessario per il periodo di tassazione non incollato direttamente sul veicolo oppure non al posto prescritto o danneggiato (art. 14 cpv. 1 in combinato disposto con art. 7 e 8 LUSN)</td><td>[tab] 200</td></tr>
-<tr><td>VII. Legge federale del 3 ottobre 1975[^annex2-lvlu1-lvlu1-8] sulla navigazione interna (LNI)</td><td></td></tr>
+<tr><td>VII. Legge federale del 3 ottobre 1975**[^annex2-lvlu1-lvlu1-8]** sulla navigazione interna (LNI)</td><td></td></tr>
 <tr><td>**1.** **Disposizioni amministrative**</td><td>[tab]</td></tr>
 <tr><td>7100. Omissione di tenere a bordo i documenti necessari (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>
 <tr><td>1. Omissione di tenere a bordo la licenza di condurre necessaria (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
@@ -695,17 +695,17 @@ Allegato 2[^t-2]
 <tr><td>7504. Immersione in un canale di navigazione segnalato (art. 40 cpv. 1 LNI, art. 11.04 cpv. 2 RNC)</td><td>100</td></tr>
 <tr><td>7505. Inosservanza del segnale di divieto A14 di cui all’allegato 4 ONI (art. 40 cpv. 1 LNI in combinato disposto con art. 36 cpv. 1 ONI)</td><td>50</td></tr>
 <tr><td>7506. Impiego non autorizzato di scooter da immersione (art. 40 cpv. 1 LNI, art. 54*a* cpv. 1 e 2 ONI)</td><td>100</td></tr>
-<tr><td>VIII. Legge del 3 ottobre 1971[^annex2-lvlu1-lvlu1-13] sugli stupefacenti (LStup)</td><td></td></tr>
+<tr><td>VIII. Legge del 3 ottobre 1971**[^annex2-lvlu1-lvlu1-13]** sugli stupefacenti (LStup)</td><td></td></tr>
 <tr><td>8001. Consumo non autorizzato e intenzionale di stupefacenti del tipo della canapa (art. 19*a* n. 1 LStup)</td><td>[tab] 100</td></tr>
-<tr><td>IX. Legge del 7 ottobre 1983[^annex2-lvlu1-lvlu1-14] sulla protezione dell’ambiente (LPAmb)</td><td></td></tr>
+<tr><td>IX. Legge del 7 ottobre 1983**[^annex2-lvlu1-lvlu1-14]** sulla protezione dell’ambiente (LPAmb)</td><td></td></tr>
 <tr><td>9001. Utilizzo di un punto di raccolta dei materiali riciclabili al di fuori degli orari d’esercizio prescritti (art. 61 cpv. 1 lett. a, art. 12 cpv. 1 lett. C LPAmb)</td><td>[tab] 50</td></tr>
 <tr><td>9002. Omissione di allegare il modulo di accompagnamento in occasione del trasporto di rifiuti (art. 61 cpv. 1 lett. k LPAmb, art. 31 cpv. 4<sup>bis</sup> e 6 OTRif[^annex2-lvlu1-lvlu1-15])</td><td>[tab] 100</td></tr>
-<tr><td>X. Legge federale del 3 ottobre 2008[^annex2-lvlu1-lvlu1-16] concernente la protezione contro il fumo passivo</td><td></td></tr>
+<tr><td>X. Legge federale del 3 ottobre 2008**[^annex2-lvlu1-lvlu1-16]** concernente la protezione contro il fumo passivo</td><td></td></tr>
 <tr><td>10001. Fumare in locali chiusi accessibili al pubblico (art. 2 cpv. 1 e 5 cpv. 1 lett. a della LF concernente la protezione contro il fumo passivo)</td><td>[tab] 80</td></tr>
-<tr><td>XI. Legge forestale del 4 ottobre 1991[^annex2-lvlu1-lvlu1-17] (LFo)</td><td></td></tr>
+<tr><td>XI. Legge forestale del 4 ottobre 1991**[^annex2-lvlu1-lvlu1-17]** (LFo)</td><td></td></tr>
 <tr><td>11001. Inosservanza delle limitazioni d’accesso a determinate zone forestali (art. 14 cpv. 2 lett. a e 43 cpv. 1 lett. c LFo)</td><td>[tab] 100</td></tr>
 <tr><td>11002. Circolazione non autorizzata con veicoli a motore in foresta o su strade forestali (art. 15 e 43 cpv. 1 lett. d LFo)</td><td>[tab] 100</td></tr>
-<tr><td>XII. Legge del 20 giugno 1986[^annex2-lvlu1-lvlu1-18] sulla caccia (LCP)</td><td></td></tr>
+<tr><td>XII. Legge del 20 giugno 1986**[^annex2-lvlu1-lvlu1-18]** sulla caccia (LCP)</td><td></td></tr>
 <tr><td>12001. Entrare, senza un motivo sufficiente, in una zona di caccia muniti di un’arma da tiro (art. 18 cpv. 1 lett. b e cpv. 3 LCP)</td><td>[tab] 200</td></tr>
 <tr><td>12002. Lasciare cacciare cani (art. 18 cpv. 1 lett. d e cpv. 3 LCP)</td><td>[tab] 150</td></tr>
 <tr><td>12003. Accedere a o circolare in zone di tranquillità per la selvaggina al di fuori dei percorsi e sentieri utilizzabili (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 4<sup>ter</sup> OCP[^annex2-lvlu1-lvlu1-19])</td><td>[tab] 150</td></tr>
@@ -717,22 +717,23 @@ Allegato 2[^t-2]
 <tr><td>12009. Pratica del kitesurf o impiego di attrezzature analoghe come pure pratica del modellismo navale in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. g ORUAM)</td><td>[tab] 150</td></tr>
 <tr><td>12010. Foraggiamento di animali selvatici e posa di lecche saline in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. b<sup>bis</sup> OBAF) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. b<sup>bis</sup> ORUAM)</td><td>[tab] 150</td></tr>
 <tr><td>12011. Omissione di recare seco i documenti prescritti durante la caccia (art. 18 cpv. 4 LCP) per documento mancante</td><td>[tab] 20</td></tr>
-<tr><td>XIII. Legge federale del 21 giugno 1991[^annex2-lvlu1-lvlu1-22] sulla pesca (LFSP)</td><td></td></tr>
+<tr><td>XIII. Legge federale del 21 giugno 1991**[^annex2-lvlu1-lvlu1-22]** sulla pesca (LFSP)</td><td></td></tr>
 <tr><td>13001. Pesca di pesci o gamberi durante il periodo protetto (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 1 cpv. 1–3 OLFP[^annex2-lvlu1-lvlu1-23], per pesce o gambero</td><td>[tab] 100</td></tr>
 <tr><td>13002. Inosservanza della lunghezza minima del pescato (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 2 cpv. 1 e 4 OLFP), per pesce o gambero</td><td>[tab] 100</td></tr>
 <tr><td>13003. Inosservanza dei divieti di pesca (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 2*a* OLFP), per pesce o gambero</td><td>[tab] 150</td></tr>
-<tr><td>XIV. Legge federale del 23 marzo 2001[^annex2-lvlu1-lvlu1-24] sul commercio ambulante</td><td></td></tr>
+<tr><td>XIV. Legge federale del 23 marzo 2001**[^annex2-lvlu1-lvlu1-24]** sul commercio ambulante</td><td></td></tr>
 <tr><td>14001. Esercizio del commercio ambulante senza autorizzazione (art. 14 cpv. 1 lett. b e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 200</td></tr>
 <tr><td>14002. Offerta di merci o servizi la cui vendita nell’ambito del commercio ambulante infrange limitazioni o divieti (art. 14 cpv. 1 lett. e e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 200</td></tr>
 <tr><td>14003. Omissione di avere con sé l’autorizzazione mentre si esercita il commercio ambulante (art. 14 cpv. 1 lett. f e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 20</td></tr>
 <tr><td>XV. ...</td><td></td></tr>
-<tr><td>XVI. Ordinanza COVID-19 situazione particolare del 19 giugno 2020[^annex2-lvlu1-lvlu1-25]</td><td>[tab]</td></tr>
+<tr><td>XVI. Ordinanza COVID-19 situazione particolare del 19 giugno 2020**[^annex2-lvlu1-lvlu1-25]**</td><td>[tab]</td></tr>
 <tr><td>[tab] 16001. Svolgimento di una manifestazione privata non consentita (art. 13 lett. d in combinato disposto con l’art. 6 cpv. 2 ordinanza COVID-19 situazione particolare)</td><td>[tab] 200</td></tr>
-<tr><td>16002. Partecipazione a una manifestazione non consentita (art. 13 lett. d in combinato disposto con l’art. 6 cpv. 1 e 2 ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
+<tr><td>16002. Partecipazione a una manifestazione non consentita (art. 13 lett. d in combinato disposto con l’art. 6 cpv. 1, 1<sup>bis</sup> o 2 dell’ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
 <tr><td>16003. Omissione di portare una mascherina facciale sui veicoli del trasporto pubblico, in luoghi chiusi e aree esterne accessibili al pubblico di strutture, compresi i mercati, nonché in aree di attesa delle ferrovie, delle linee di autobus e tram e degli impianti a fune, in stazioni ferroviarie, aeroporti o in altri settori di accesso dei trasporti pubblici (art. 13 lett. f in combinato disposto con l’art. 3*a* cpv. 1 e 3*b* cpv. 1 e 2 ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
 <tr><td>16004. Partecipazione a un assembramento nello spazio pubblico con più di 15 persone o con un numero di persone superiore a quello massimo stabilito a livello cantonale (art. 13 lett. g in combinato disposto con l’art. 3*c* cpv. 1 e l’art. 8 cpv. 1 ordinanza COVID-19 situazione particolare)</td><td>[tab] 50</td></tr>
-<tr><td>16005. Violazione, in qualità di ospite, dell’obbligo di stare seduti nelle strutture della ristorazione e nei bar (art. 13 lett. h in combinato disposto con l’art. 5*a* cpv. 2 lett. d numero 2 dell’ordinanza COVID-19 situazione particolare)</td><td>100</td></tr>
+<tr><td>16005. Violazione, in qualità di ospite, dell’obbligo di stare seduti nelle strutture della ristorazione e nei bar (art. 13 lett. h in combinato disposto con l’art. 5*a* cpv. 3 lett. b dell’ordinanza COVID-19 situazione particolare)</td><td>100</td></tr>
 <tr><td>16006. Omissione di portare una mascherina facciale a una manifestazione politica o a una raccolta di firme (art. 13 lett. i in combinato disposto con l’art. 6*c* cpv. 2 ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
+<tr><td>16007. Violazione, in qualità di visitatore, dell’obbligo di stare seduti alle manifestazioni in presenza di pubblico (art. 13 lett. h in combinato disposto con l’art. 6 cpv. 1<sup>bis</sup> lett. c dell’ordinanza COVID-19 situazione particolare)</td><td>100</td></tr>
 </table>
 
 <table>

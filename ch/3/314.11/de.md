@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2021-03-22
+version: 2021-04-19
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210322/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210322-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210419/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210419-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210419/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210322/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 22. März 2021)
+vom 16. Januar 2019 (Stand am 19. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -78,7 +78,7 @@ Im Zeitpunkt des Inkrafttretens dieser Verordnung vorrätige Quittungen und Bede
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 1 Bst. a)
 
@@ -594,33 +594,33 @@ Anhang 1[^t-1]
 [^annex1-lvlu1-lvlu1-9]: V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)**)**
 [^annex1-lvlu1-lvlu1-10]: Der Text der Allgemeinen Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände ist im Internet abrufbar unter: [www.astra.admin.ch](http://www.astra.admin.ch) &gt; Fachleute und Verwaltung &gt; Fahrzeuge und Gefahrgut &gt; Gefährliche Güter &gt; Recht international.
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 (Art. 1 Bst. b)
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Ziff. III der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden) ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)) und Ziff. III der V vom 19. März 2021 (Lockerung für private Veranstaltungen, Verlängerung befristeter Massnahmen), in Kraft seit 22. März 2021 ([AS 2021 157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Ziff. III der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden) ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)) und vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)).
 
 ### Übertretungen nach den übrigen Erlassen
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
-<tr><td>I. Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^annex2-lvlu1-lvlu1-1] (AIG)</td><td></td></tr>
+<tr><td>I. Ausländer- und Integrationsgesetz vom 16. Dezember 2005**[^annex2-lvlu1-lvlu1-1]** (AIG)</td><td></td></tr>
 <tr><td>1001. Missachtung der Mitwirkungspflicht bei der Beschaffung der Ausweispapiere (Art. 120 Abs. 1 Bst. e AIG)</td><td>[tab] 100</td></tr>
-<tr><td>II. Asylgesetz vom 26. Juni 1998[^annex2-lvlu1-lvlu1-2] (AsylG)</td><td></td></tr>
+<tr><td>II. Asylgesetz vom 26. Juni 1998**[^annex2-lvlu1-lvlu1-2]** (AsylG)</td><td></td></tr>
 <tr><td>2001. Verletzung der Auskunftspflicht durch Verweigerung von Angaben (Art. 116 Bst. a AsylG)</td><td>[tab] 200</td></tr>
-<tr><td>III. Bundesgesetz vom 19. Dezember 1986[^annex2-lvlu1-lvlu1-3] gegen den unlauteren Wettbewerb (UWG)</td><td></td></tr>
+<tr><td>III. Bundesgesetz vom 19. Dezember 1986**[^annex2-lvlu1-lvlu1-3]** gegen den unlauteren Wettbewerb (UWG)</td><td></td></tr>
 <tr><td>3001. Verletzung der Pflicht zur Preisbekanntgabe oder zur Grundpreisbekanntgabe (Art. 24 Abs. 1 Bst. a und Abs. 2 UWG)</td><td>[tab] 200</td></tr>
-<tr><td>IV. Bundesgesetz vom 1. Juli 1966[^annex2-lvlu1-lvlu1-4] über den Natur- und Heimatschutz (NHG)</td><td></td></tr>
+<tr><td>IV. Bundesgesetz vom 1. Juli 1966**[^annex2-lvlu1-lvlu1-4]** über den Natur- und Heimatschutz (NHG)</td><td></td></tr>
 <tr><td>4001. Unberechtigtes Pflücken, Ausgraben, Ausreissen, Wegführen, Anbieten, Verkaufen, Kaufen oder Vernichten von nicht mehr als fünf Stück wildlebender Pflanzen der in Anhang 2 zur NHV[^annex2-lvlu1-lvlu1-5] aufgeführten Arten (Art. 24*a* Abs. 1 Bst. b NHG, Art. 20 Abs. 1 und 5 NHV)</td><td>[tab] 100</td></tr>
-<tr><td>V. Waffengesetz vom 20. Juni 1997[^annex2-lvlu1-lvlu1-6] (WG)</td><td></td></tr>
+<tr><td>V. Waffengesetz vom 20. Juni 1997**[^annex2-lvlu1-lvlu1-6]** (WG)</td><td></td></tr>
 <tr><td>5001. Nichtmitführen der Waffentragbewilligung (Art. 34 Abs. 1 Bst. h WG)</td><td>[tab] 20</td></tr>
 <tr><td>5002. Transportieren von Feuerwaffen, ohne Waffe und Munition zu trennen (Art. 34 Abs. 1 Bst. n WG)</td><td>[tab] 300</td></tr>
-<tr><td>VI. Nationalstrassenabgabegesetz vom 19. März 2010[^annex2-lvlu1-lvlu1-7] (NSAG)</td><td></td></tr>
+<tr><td>VI. Nationalstrassenabgabegesetz vom 19. März 2010**[^annex2-lvlu1-lvlu1-7]** (NSAG)</td><td></td></tr>
 <tr><td>6001. Benutzung einer abgabepflichtigen Nationalstrasse ohne die für die Abgabeperiode erforderliche Vignette (Art. 14 Abs. 1 i. V. m. Art. 7 und 8 NSAG)</td><td>[tab] 200</td></tr>
 <tr><td>6002. Benutzung einer abgabepflichtigen Nationalstrasse mit einer für die Abgabeperiode erforderlichen Vignette, die nicht oder nicht an der vorgeschriebenen Stelle direkt am Fahrzeug aufgeklebt oder beschädigt ist (Art. 14 Abs. 1 i. V. m. Art. 7 und 8 NSAG)</td><td>[tab] 200</td></tr>
-<tr><td>VII. Bundesgesetz vom 3. Oktober 1975[^annex2-lvlu1-lvlu1-8] über die Binnenschifffahrt (BSG)</td><td></td></tr>
+<tr><td>VII. Bundesgesetz vom 3. Oktober 1975**[^annex2-lvlu1-lvlu1-8]** über die Binnenschifffahrt (BSG)</td><td></td></tr>
 <tr><td>**1.** **Administrative Bestimmungen**</td><td>[tab]</td></tr>
 <tr><td>7100. Nichtmitführen der erforderlichen Ausweise oder Urkunden (Art. 45 und 46 BSG, Art. 8 BSV[^annex2-lvlu1-lvlu1-9], Art. 1.06 BSO[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>
 <tr><td>1. Nichtmitführen des erforderlichen Führerausweises oder Schifferpatentes (Art. 45 BSG, Art. 8 BSV, Art. 1.06 BSO)</td><td>20</td></tr>
@@ -698,17 +698,17 @@ Anhang 2[^t-2]
 <tr><td>7504. Tauchen in markierten Fahrwassern (Art. 40 Abs. 1 BSG, Art. 11.04 Abs. 2 BSO)</td><td>100</td></tr>
 <tr><td>7505. Nichtbeachten des Verbotszeichens A14 nach Anhang 4 BSV (Art. 40 Abs. 1 BSG i. V. m. Art. 36 Abs. 1 BSV)</td><td>50</td></tr>
 <tr><td>7506. Unberechtigtes Verwenden eines Tauchscooters (Art. 40 Abs. 1 BSG, Art. 54*a* Abs. 1 und 2 BSV)</td><td>100</td></tr>
-<tr><td>VIII. Betäubungsmittelgesetz vom 3. Oktober 1951[^annex2-lvlu1-lvlu1-13] (BetmG)</td><td></td></tr>
+<tr><td>VIII. Betäubungsmittelgesetz vom 3. Oktober 1951**[^annex2-lvlu1-lvlu1-13]** (BetmG)</td><td></td></tr>
 <tr><td>8001. Unbefugter vorsätzlicher Konsum von Betäubungsmitteln des Wirkungstyps Cannabis (Art. 19*a* Ziff. 1 BetmG)</td><td>[tab] 100</td></tr>
-<tr><td>IX. Umweltschutzgesetz vom 7. Oktober 1983[^annex2-lvlu1-lvlu1-14] (USG)</td><td></td></tr>
+<tr><td>IX. Umweltschutzgesetz vom 7. Oktober 1983**[^annex2-lvlu1-lvlu1-14]** (USG)</td><td></td></tr>
 <tr><td>9001. Benutzen einer öffentlichen Wertstoffsammelstelle ausserhalb der vorgeschriebenen Betriebszeiten (Art. 61 Abs. 1 Bst. a, Art. 12 Abs. 1 Bst. c USG)</td><td>[tab] 50</td></tr>
 <tr><td>9002. Nichtmitführen des Begleitscheins beim Transport von Abfällen (Art. 61 Abs. 1 Bst. k USG, Art. 31 Abs. 4<sup>bis</sup> und 6 VeVA[^annex2-lvlu1-lvlu1-15])</td><td>[tab] 100</td></tr>
-<tr><td>X. Bundesgesetz vom 3. Oktober 2008[^annex2-lvlu1-lvlu1-16] zum Schutz vor Passivrauchen</td><td></td></tr>
+<tr><td>X. Bundesgesetz vom 3. Oktober 2008**[^annex2-lvlu1-lvlu1-16]** zum Schutz vor Passivrauchen</td><td></td></tr>
 <tr><td>10001. Rauchen in geschlossenen, öffentlich zugänglichen Räumen (Art. 2 Abs. 1, Art. 5 Abs. 1 Bst. a des Bundesgesetzes zum Schutz vor Passivrauchen)</td><td>[tab] 80</td></tr>
-<tr><td>XI. Waldgesetz vom 4. Oktober 1991[^annex2-lvlu1-lvlu1-17] (WaG)</td><td></td></tr>
+<tr><td>XI. Waldgesetz vom 4. Oktober 1991**[^annex2-lvlu1-lvlu1-17]** (WaG)</td><td></td></tr>
 <tr><td>11001. Missachtung von Zugänglichkeitsbeschränkungen in bestimmten Waldgebieten (Art. 14 Abs. 2 Bst. a und 43 Abs. 1 Bst. c WaG)</td><td>[tab] 100</td></tr>
 <tr><td>11002. Unberechtigtes Befahren von Wald oder Waldstrassen mit Motorfahrzeugen (Art. 15 und 43 Abs. 1 Bst. d WaG)</td><td>[tab] 100</td></tr>
-<tr><td>XII. Jagdgesetz vom 20. Juni 1986[^annex2-lvlu1-lvlu1-18] (JSG)</td><td></td></tr>
+<tr><td>XII. Jagdgesetz vom 20. Juni 1986**[^annex2-lvlu1-lvlu1-18]** (JSG)</td><td></td></tr>
 <tr><td>12001. Betreten von Jagdgebieten ohne ausreichenden Grund mit einer Schusswaffe (Art. 18 Abs. 1 Bst. b und Abs. 3 JSG)</td><td>[tab] 200</td></tr>
 <tr><td>12002. Wildernlassen von Hunden (Art. 18 Abs. 1 Bst. d und Abs. 3 JSG)</td><td>[tab] 150</td></tr>
 <tr><td>12003. Betreten oder Befahren von Ruhezonen für Wildtiere ausserhalb der bezeichneten Routen und Wege (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 4<sup>ter</sup> JSV[^annex2-lvlu1-lvlu1-19])</td><td>[tab] 150</td></tr>
@@ -720,22 +720,23 @@ Anhang 2[^t-2]
 <tr><td>12009. Fahren mit Drachensegelbrettern oder ähnlichen Geräten und Betreiben von Modellbooten in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. g WZVV)</td><td>[tab] 150</td></tr>
 <tr><td>12010. Füttern von wildlebenden Tieren und das Einrichten von Salzlecken in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. b<sup>bis</sup> VEJ) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. b<sup>bis</sup> WZVV)</td><td>[tab] 150</td></tr>
 <tr><td>12011. Nichtmitführen der vorgeschriebenen Ausweise während der Jagd (Art. 18 Abs. 4 JSG), je fehlender Ausweis</td><td>[tab] 20</td></tr>
-<tr><td>XIII. Bundesgesetz vom 21. Juni 1991[^annex2-lvlu1-lvlu1-22] über die Fischerei (BGF)</td><td></td></tr>
+<tr><td>XIII. Bundesgesetz vom 21. Juni 1991**[^annex2-lvlu1-lvlu1-22]** über die Fischerei (BGF)</td><td></td></tr>
 <tr><td>13001. Fangen von Fischen oder Krebsen während der Schonzeit (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 1 Abs. 1–3 VBGF[^annex2-lvlu1-lvlu1-23]), je Fisch oder Krebs</td><td>[tab] 100</td></tr>
 <tr><td>13002. Unterschreiten der Fangmindestmasse (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 2 Abs. 1 und 4 VBGF), je Fisch oder Krebs</td><td>[tab] 100</td></tr>
 <tr><td>13003. Missachtung von Fangverboten (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 2*a* VBGF), je Fisch oder Krebs</td><td>[tab] 150</td></tr>
-<tr><td>XIV. Bundesgesetz vom 23. März 2001[^annex2-lvlu1-lvlu1-24] über das Gewerbe der Reisenden</td><td></td></tr>
+<tr><td>XIV. Bundesgesetz vom 23. März 2001**[^annex2-lvlu1-lvlu1-24]** über das Gewerbe der Reisenden</td><td></td></tr>
 <tr><td>14001. Ausübung des Reisendengewerbes ohne Bewilligung (Art. 14 Abs. 1 Bst. b und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
 <tr><td>14002. Anbieten von Waren oder Dienstleistungen, deren Vertrieb im Reisendengewerbe gegen Einschränkungen oder Verbote verstösst (Art. 14 Abs. 1 Bst. e und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
 <tr><td>14003. Nichtmitführen der Bewilligung bei der Ausübung des Reisendengewerbes (Art. 14 Abs. 1 Bst. f und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 20</td></tr>
 <tr><td>XV. ...</td><td></td></tr>
-<tr><td>XVI. Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^annex2-lvlu1-lvlu1-25]</td><td></td></tr>
+<tr><td>XVI. Covid-19-Verordnung besondere Lage vom 19. Juni 2020**[^annex2-lvlu1-lvlu1-25]**</td><td></td></tr>
 <tr><td>[tab] 16001. Durchführung einer unzulässigen privaten Veranstaltung (Art. 13 Bst. d i.V.m. Art. 6 Abs. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 200</td></tr>
-<tr><td>16002. Teilnahme an einer unzulässigen Veranstaltung (Art. 13 Bst. d i.V.m. Art. 6 Abs. 1 und 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16002. Teilnahme an einer unzulässigen Veranstaltung (Art. 13 Bst. d i.V.m. 6 Absatz 1, 1<sup>bis</sup> oder 2 Covid-19-Verordnung besondere Lage)</td><td>100</td></tr>
 <tr><td>16003. Unbefugtes Nichttragen einer Gesichtsmaske in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs (Art. 13 Bst. f i.V.m. Art. 3*a* Abs. 1 und 3*b* Abs. 1 und 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
 <tr><td>16004. Sich-Aufhalten in einer Menschenansammlung im öffentlichen Raum, die mehr als 15 Personen oder mehr als die kantonal festgelegte Höchstzahl an Personen umfasst (Art. 13 Bst. g i.V.m. Art. 3*c* Abs. 1 sowie Art. 8 Abs. 1 Covid-19-Verordnung besondere Lage)</td><td>[tab] 50</td></tr>
-<tr><td>16005. Verstoss als Gast gegen die Sitzpflicht in Restaurations- und Barbetrieben für Hotelgäste (Art. 13 Bst. h i.V.m. Art. 5*a* Abs. 2 Bst. d Ziff. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16005. Verstoss als Gast gegen die Sitzpflicht in Restaurations- und Barbetrieben (Art. 13 Bst. h i.V.m. Art. 5*a* Abs. 3 Buchstabe b Covid-19-Verordnung besondere Lage)</td><td>100</td></tr>
 <tr><td>16006. Unbefugtes Nichttragen einer Gesichtsmaske an einer politischen oder zivilgesellschaftlichen Kundgebung oder einer Unterschriftensammlung (Art. 13 Bst. i i.V.m. Art. 6*c* Abs. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16007. Verstoss als Besucherin oder Besucher gegen die Sitzpflicht an einer Veranstaltung vor Publikum (Art. 13 Bst. h i.V.m. Art. 6 Abs. 1<sup>bis</sup> Buchstabe c Covid-19-Verordnung besondere Lage)</td><td>100</td></tr>
 <tr><td>**XVII.** **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** **Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Januar 2021**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
 <tr><td>17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 7 Abs. 1 Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)</td><td>[tab] 200</td></tr>
 <tr><td>[tab] 17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 und 2 Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)</td><td>[tab] 100</td></tr>
