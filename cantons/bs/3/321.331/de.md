@@ -4,13 +4,13 @@ number: "321.331"
 title: Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-Verordnung zusätzliche Massnahmen
 language: de
-version: 2021-04-01
-valid_until: 2021-04-18
-version_adopted: 2021-03-30
+version: 2021-04-19
+valid_until: 2021-04-30
+version_adopted: 2021-04-14
 adopted: 2021-11-22
 in_force: 2021-11-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/321.331"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5212/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Covid-19 zusätzliche Massnahmen: Verordnung | Übertragbare Krankheiten
 
 (Covid-19-Verordnung zusätzliche Massnahmen)
 
-Vom 3. November 2020 (Stand 1. April 2021)
+Vom 3. November 2020 (Stand 19. April 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -69,6 +69,12 @@ beschliesst:
 #### § 3c
 
 **…**
+
+#### § 3d
+
+**Zusätzliche Massnahmen**
+
+<sup>1</sup> Der Kantonsarzt kann zur Verhinderung einer Verbreitung übertragbarer Krankheiten in der Bevölkerung eine örtlich und zeitlich begrenzte allgemeine Maskentragpflicht und/oder ein Konsumationsverbot auf öffentlichem Grund erlassen.
 
 #### § 4
 
