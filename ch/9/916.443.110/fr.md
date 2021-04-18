@@ -3,22 +3,22 @@ sr: "916.443.110"
 title: Ordonnance de l’OSAV du 9 avril 2021 instituant des mesures destinées à protéger la population de volaille domestique contre l’influenza aviaire et à prévenir la propagation de la maladie
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/203"
 language: fr
-version: 2021-04-15
+version: 2021-04-19
 adopted: 2021-04-09
 in_force: 2021-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/203/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2021-203-20210415-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/203/20210415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/203/20210419/fr/xml/fedlex-data-admin-ch-eli-cc-2021-203-20210419-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/203/20210419/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’OSAV instituant des mesures destinées à protéger la population de volaille domestique contre l’influenza aviaire et à prévenir la propagation de la maladie
+# Ordonnance de l’OSAV du 9 avril 2021 instituant des mesures destinées à protéger la population de volaille domestique contre l’influenza aviaire et à prévenir la propagation de la maladie
 
-du 9 avril 2021 (Etat le 15 avril 2021)
+du 9 avril 2021 (Etat le 19 avril 2021)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
-vu les art. 24, al. 3, let. a, et 57, al. 1 et 2, let. b, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-1], vu les art. 5, al. 4, et 25, al. 1, let. a, de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande et la Norvège[^ingress-2], arrête:
+vu les art. 24, al. 3, let. a, et 57, al. 1 et 2, let. b, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties*[^ingress-1]*, vu les art. 5, al. 4, et 25, al. 1, let. a, de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande et la Norvège*[^ingress-2]*, arrête:
 
 [^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^ingress-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
@@ -75,32 +75,11 @@ Les personnes qui détiennent au moins 100 animaux dans l’une des régions ré
 
 Sur ordre de l’OSAV, le vétérinaire cantonal réalise le dépistage par sondage des virus de l’influenza A dans les unités d’élevage de volaille situées dans les régions réglementées.
 
-#### Art. 6
+#### Art. 6 et 7
 
-**Exportation des volailles domestiques vivantes, des volailles prêtes à pondre, des poussins d’un jour et des œufs à couver**
+[^67-1]
 
-<sup>1</sup> Il est interdit d’exporter hors de Suisse des volailles domestiques vivantes, des volailles prêtes à pondre, des poussins d’un jour et des œufs à couver.
-
-<sup>2</sup> Le vétérinaire cantonal peut autoriser l’exportation de volailles domestiques vivantes à des fins d’abattage direct, pour autant que l’autorité du lieu de destination ait donné son accord.
-
-#### Art. 7
-
-**Exportation de la viande de volaille, des œufs destinés à la transformation ou à la consommation, et des sous-produits animaux**
-
-<sup>1</sup> Il est interdit d’exporter hors de Suisse de la viande de volaille, sauf si elle est soumise à un traitement thermique visé à l’annexe III de la directive 2002/99/CE[^7-1], prévu pour éliminer l’agent pathogène de l’influenza aviaire.
-
-<sup>2</sup> Il est interdit d’exporter hors de Suisse des œufs destinés à la transformation ou à la consommation, et des sous-produits animaux de volailles domestiques, fumier et lisier compris.
-
-<sup>3</sup>
-
-En dérogation à l’al. 2, sont admises les exportations des sous-produits animaux de volailles domestiques:
-
-- a. si ceux-ci sont soumis à une des méthodes de transformation visées à l’annexe IV, chap. III, du règlement (UE) n<sup>o</sup> 142/2011[^7-2] ou à un autre traitement thermique qui élimine l’agent pathogène de l’influenza aviaire, et
-- b. si l’autorité du lieu de destination a donné son accord.[^7-3]
-
-[^7-1]: Directive 2002/99/CE du Conseil du 16 décembre 2002 fixant les règles de police sanitaire régissant la production, la transformation, la distribution et l’introduction des produits d’origine animale destinés à la consommation humaine, JO L 18 du 23.1.2003, p. 11; modifiée en dernier lieu par la décision d’exécution 2013/20/UE, JO L 158 du 10.6.2013, p. 234.
-[^7-2]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/1720, JO L 386 du 18.11.2020, p. 6
-[^7-3]: Introduit par le ch. I de l’O du 14 avr. 2021, en vigueur le 15 avr. 2021 ([RO 2021 208](https://fedlex.data.admin.ch/eli/oc/2021/208)).
+[^67-1]: En vigueur jusqu'au 18 avril 2021 ([RO 2021 203](https://fedlex.data.admin.ch/eli/oc/2021/203))
 
 #### Art. 8
 
