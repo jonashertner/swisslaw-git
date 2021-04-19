@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Trattato di unione doganale conchiuso il 29 marzo 1923 tra la Confederazione Svizzera e il Principato del Liechtenstein (con Protocollo finale e allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: it
-version: 2020-10-06
+version: 2021-04-20
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20201006/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20201006-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20201006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20210420/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20210420-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20210420/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Istrumenti di ratificazione scambiati il 28 dicembre 1923
 
 Entrato in vigore il 1° gennaio 1924
 
-(Stato 6 ottobre 2020)
+(Stato 20 aprile 2021)
 
 [^t-1]: RU **39** 575
 
@@ -261,7 +261,7 @@ Per l’esecuzione delle condanne pronunciate in virtù della legislazione feder
 
 Il diritto di grazia per le pene, applicate in virtù della legislazione federale in vigore nel territorio del Principato di Liechtenstein in conformità del presente Trattato, appartiene esclusivamente alle autorità federali.
 
-## Capo VI: Polizia degli stranieri
+## Capo VI: Polizia degli stranieri****
 
 [^chapVI-1]
 
@@ -375,7 +375,7 @@ Berna, ventinove marzo millenovecentoventitrè (29 marzo 1923).
 [^t-2]: Abrogato dallo scambio di note dei 29 giu. 2009/10 dic. 2010, con effetto dal 10 dic. 2010 ([RU 2010 6409](https://fedlex.data.admin.ch/eli/oc/2010/903)).
 [^t-3]: [CS **9** 276; [RU 1948 676](https://fedlex.data.admin.ch/eli/oc/1948/731_711_676), **1949** II 1080, **1950** II 1527, [1952 10](https://fedlex.data.admin.ch/eli/oc/1952/10_10_10), [1954 144](https://fedlex.data.admin.ch/eli/oc/1954/252_259_144), [1955 32](https://fedlex.data.admin.ch/eli/oc/1955/32_32_32)art. 6 cpv. 2, [1959 2274](https://fedlex.data.admin.ch/eli/oc/1959/2178_2243_2274)art. 7 cpv. 2 n. 2, [1961 420](https://fedlex.data.admin.ch/eli/oc/1961/399_409_420), [1964 138](https://fedlex.data.admin.ch/eli/oc/1964/142_138_138). [RU 1967 2100](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100)art. 62.6 cpv. 1]. Vedi ora l’O del 27 giu. 1995 sulle epizoozie ([RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)).
 
-Allegati[^t-4]
+Allegati*[^t-4]*
 
 **Elenco**
 
@@ -384,4 +384,4 @@ Allegati[^t-4]
 <tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-4]: Gli All. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 6 ott. 2020 (stato: 30 giugno 2020). Questi all. non sono più pubblicati nella RU ([RU 2020 4559](https://fedlex.data.admin.ch/eli/oc/2020/805)). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.631.
+[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 20 apr. 2021 (stato: 31 dic. 2020). Questi all. non sono più pubblicati nella RU (RU **2021** 303). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.631.
