@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Verordnung vom 30. März 2011 über Massnahmen gegenüber Libyen
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: de
-version: 2020-10-28
+version: 2021-04-20
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20201028/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20201028-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20201028/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20210420/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20210420-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20210420/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Libyen
 
-vom 30. März 2011 (Stand am 28. Oktober 2020)
+vom 30. März 2011 (Stand am 20. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -122,7 +122,7 @@ Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen un
 - b. natürlicher Personen, Unternehmen und Organisationen in Libyen;
 - c. natürlicher Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten von unter den Buchstaben a und b erwähnten Personen, Unternehmen und Organisationen handeln.
 
-[^6-1]: [[AS 2011 869](https://fedlex.data.admin.ch/eli/oc/2011/131)[961](https://fedlex.data.admin.ch/eli/oc/2011/144)[1195](https://fedlex.data.admin.ch/eli/oc/2011/173)]
+[^6-1]: [[AS 2011 869](https://fedlex.data.admin.ch/eli/oc/2011/131), [961](https://fedlex.data.admin.ch/eli/oc/2011/144), [1195](https://fedlex.data.admin.ch/eli/oc/2011/173)]
 
 ## 2. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -190,7 +190,7 @@ Die Einträge nach den Anhängen 2–5 werden weder in der Amtlichen Sammlung de
 
 Die Verordnung vom 21. Februar 2011[^10-1] über Massnahmen gegen gewisse Personen aus Libyen wird aufgehoben.
 
-[^10-1]: [[AS 2011 869](https://fedlex.data.admin.ch/eli/oc/2011/131)[961](https://fedlex.data.admin.ch/eli/oc/2011/144)[1195](https://fedlex.data.admin.ch/eli/oc/2011/173)]
+[^10-1]: [[AS 2011 869](https://fedlex.data.admin.ch/eli/oc/2011/131), [961](https://fedlex.data.admin.ch/eli/oc/2011/144), [1195](https://fedlex.data.admin.ch/eli/oc/2011/173)]
 
 #### Art. 11
 
@@ -305,7 +305,7 @@ Anhang 3*[^t-2]*
 
 ## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[957](https://fedlex.data.admin.ch/eli/oc/2013/198)[2073](https://fedlex.data.admin.ch/eli/oc/2013/432), [2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107), [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)[2971](https://fedlex.data.admin.ch/eli/oc/2015/563), [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80), [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287), [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471), [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489), [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)[3969](https://fedlex.data.admin.ch/eli/oc/2020/736)[4155](https://fedlex.data.admin.ch/eli/oc/2020/760)[4519](https://fedlex.data.admin.ch/eli/oc/2020/796)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [957](https://fedlex.data.admin.ch/eli/oc/2013/198), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432); [2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107); [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182), [2971](https://fedlex.data.admin.ch/eli/oc/2015/563); [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80); [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287); [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471); [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489); [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627), [3969](https://fedlex.data.admin.ch/eli/oc/2020/736), [4155](https://fedlex.data.admin.ch/eli/oc/2020/760), [4519](https://fedlex.data.admin.ch/eli/oc/2020/796); [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 4*[^t-3]*
 
@@ -330,4 +330,4 @@ Anhang 5*[^t-4]*
 
 ## Natürliche Personen, gegen die sich das Ein- und Durchreiseverbot richtet
 
-[^t-4]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[2073](https://fedlex.data.admin.ch/eli/oc/2013/432), [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)[2971](https://fedlex.data.admin.ch/eli/oc/2015/563), [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80), [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287), [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471), [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489), [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)[3969](https://fedlex.data.admin.ch/eli/oc/2020/736)[4155](https://fedlex.data.admin.ch/eli/oc/2020/760)[4519](https://fedlex.data.admin.ch/eli/oc/2020/796)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^t-4]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432); [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182), [2971](https://fedlex.data.admin.ch/eli/oc/2015/563); [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80); [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287); [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471); [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489); [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627), [3969](https://fedlex.data.admin.ch/eli/oc/2020/736), [4155](https://fedlex.data.admin.ch/eli/oc/2020/760), [4519](https://fedlex.data.admin.ch/eli/oc/2020/796); [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
