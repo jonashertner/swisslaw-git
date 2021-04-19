@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Scambio di note del 27 gennaio 2003 tra la Svizzera e il Liechtenstein relativo alla collaborazione tra le autorità svizzere e liechtensteinensi in materia di aviazione civile (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: it
-version: 2020-10-06
+version: 2021-04-20
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20201006/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20201006-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20201006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20210420/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20210420-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20210420/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20201006/it"
 
 Entrato in vigore il 27 gennaio 2003
 
-(Stato 6 ottobre 2020)
+(Stato 20 aprile 2021)
 
 Traduzione
 
@@ -32,7 +32,7 @@ L’Ambasciata del Principato del Liechtenstein esprime al Dipartimento federale
 In virtù dell’appartenenza del Principato del Liechtenstein allo Spazio economico europeo[^ingress-1] (SEE) e dell’applicabilità al Principato, dal 1° gennaio 2002, del diritto SEE in materia di aviazione civile, in particolare dell’allegato XIII capitolo VI lettere ii) - vi) dell’Accordo sullo Spazio economico europeo, e della conseguente necessità di una propria legislazione aeronautica nel Liechtenstein, considerati i colloqui avuti su detto affare, il Consiglio federale svizzero propone al Governo del Principato del Liechtenstein che lo Scambio di note del 25 gennaio 1950[^ingress-2], tra la Svizzera e il Liechtenstein, concernente l’esercizio della vigilanza dell’aeronavigazione nel Principato da parte delle autorità svizzere sia abrogato e sostituito dallo Scambio di note seguente:
 
 [^ingress-1]: RU **2003** 3431 FF **1992** IV 1
-[^ingress-2]: [[RU 1973 973](https://fedlex.data.admin.ch/eli/oc/1973/973_973_973), [1998 2532](https://fedlex.data.admin.ch/eli/oc/1998/2532_2532_2532), [2001 2895](https://fedlex.data.admin.ch/eli/oc/2001/434)]
+[^ingress-2]: [[RU 1973 973](https://fedlex.data.admin.ch/eli/oc/1973/973_973_973); [1998 2532](https://fedlex.data.admin.ch/eli/oc/1998/2532_2532_2532); [2001 2895](https://fedlex.data.admin.ch/eli/oc/2001/434)]
 
 I
 
@@ -48,7 +48,7 @@ I compiti riservati a un’autorità federale in virtù del diritto svizzero app
 - 4\.[^t-2] la regolamentazione e la vigilanza dei servizi di sicurezza aerea, inclusi l’organizzazione dello spazio aereo, la denominazione dei fornitori del servizio, l’allestimento di carte aeronautiche, la preparazione di dati aeronautici, nonché la gestione delle frequenze di navigazione aerea conformemente alla legislazione nazionale e internazionale vigente in Svizzera;
 - 5\.[^t-3] la definizione di misure amministrative concernenti la polizia aerea e il controllo di polizia aerea dell’aviazione liechtensteinense in connessione con gli organi di polizia aerea locali;
 - 6\. la denuncia alle autorità liechtensteinensi ai fini del perseguimento delle infrazioni alle norme di polizia aerea; per quanto concerne la procedura vigono i disposti degli articoli 27–32 del Trattato di unione doganale del 29 marzo 1923 tra la Svizzera e il Liechtenstein;
-- 1\. l’inchiesta amministrativa e l’interpretazione tecnica degli infortuni e inconvenienti aerei.
+- l’inchiesta amministrativa e l’interpretazione tecnica degli infortuni e inconvenienti aerei.
 
 II
 
@@ -84,13 +84,11 @@ L’Ambasciata del Principato del Liechtenstein coglie questa occasione per rinn
 [^t-3]: Nuovo testo giusta il dello scambio di note del 22 dic. 2010, in vigore dal 22 dic. 2010 ([RU 2011 1221](https://fedlex.data.admin.ch/eli/oc/2011/181)).
 [^t-4]: [RS 0.748.095.141](https://fedlex.data.admin.ch/eli/cc/2001/434)
 
-Allegati*[^t-5]*
-
-## Elenco
-
-[^t-5]: Gli All. I e II sono stati aggiornati dal 27 gen. 2003 regolarmente e l’ultima volta il 6 ott. 2020 (stato: 30 giugno 2020). Questi all. non sono più pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806)). Estratti periodicamente aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.748.
+Allegati[^t-5]
 
 <table>
-<tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
-<tr><td>**Allegato II**</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>Allegato I</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
+
+[^t-5]: Gli All. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente, l’ultima volta il 20 apr. 2021 (stato: 31 dicembre 2020). Questi all. non sono più pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638)). Estratti semestralmente aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.748.
