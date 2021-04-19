@@ -3,11 +3,11 @@ sr: "817.023.41"
 title: "Ordinanza del DFI del 23 novembre 2005 sugli oggetti che vengono a contatto con le mucose, la pelle e i capelli nonché sulle candele, sui fiammiferi, sugli accendini e sugli articoli per scherzi (Ordinanza sugli oggetti che vengono a contatto con il corpo umano, OCCU)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: it
-version: 2019-12-01
+version: 2021-04-20
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20191201/it/xml/fedlex-data-admin-ch-eli-cc-2005-811-20191201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20191201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20210420/it/xml/fedlex-data-admin-ch-eli-cc-2005-811-20210420-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20210420/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20191201/it"
 
 (Ordinanza sugli oggetti che vengono a contatto con il corpo umano, OCCU)**[^t-1]**
 
-del 23 novembre 2005 (Stato 1° dicembre 2019)
+del 23 novembre 2005 (Stato 20 aprile 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 dic. 2016, in vigore dal 1° mag. 2017 ([RU 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -655,7 +655,7 @@ Allegato 1a*[^t-3]*
 
 ## Elenco delle ammine aromatiche che non devono essere contenute nei colori per tatuaggi e nei colori per trucco permanente
 
-[^t-3]: Originario all. 1. Nuovo testo giusta il n. II dell’O del DFI del 15 nov. 2006 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Aggiornato dal n. II cpv. 2 dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
+[^t-3]: Originario all. 1. Nuovo testo giusta il n. II dell’O del DFI del 15 nov. 2006 ([RU 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Aggiornato dal n. II cpv. 2 dell’O del DFI del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Correzione del 20 apr. 2021 ([RU 2021 226](https://fedlex.data.admin.ch/eli/oc/2021/226)).
 
 <table>
 <tr><th>Numero CAS[^annex1a-lvlu1-1]</th><th>Numero d’indice</th><th>Numero CE</th><th>Nome della sostanza</th></tr>
@@ -679,7 +679,7 @@ Allegato 1a*[^t-3]*
 <tr><td>95-53-4</td><td>612-091-00-X</td><td>202-429-0</td><td>o-toluidina 2-amminotoluene</td></tr>
 <tr><td>95-80-7</td><td>612-099-00-3</td><td>202-453-1</td><td>4-metil-m-fenilendiammina</td></tr>
 <tr><td>137-17-7</td><td></td><td>205-282-0</td><td>2,4,5-trimetilanilina</td></tr>
-<tr><td>90-04-4</td><td>612-035-00-4</td><td>201-963-1</td><td>o-anisidina</td></tr>
+<tr><td>90-04-0</td><td>612-035-00-4</td><td>201-963-1</td><td>o-anisidina</td></tr>
 <tr><td>60-09-3</td><td></td><td></td><td>4-amminoazobenzene</td></tr>
 <tr><td>399-95-1</td><td>604-028-00-X</td><td>402-230-0</td><td>4-ammino-3-fluorofenolo</td></tr>
 <tr><td></td><td></td><td></td><td>4-ammino-3-fluorofenolo</td></tr>

@@ -3,20 +3,20 @@ sr: "817.023.41"
 title: "Ordonnance du DFI du 23 novembre 2005 sur les objets destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire, et sur les bougies, les allumettes, les briquets et les articles de farces et attrapes (Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: fr
-version: 2019-12-01
+version: 2021-04-20
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20191201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-811-20191201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20191201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20210420/fr/xml/fedlex-data-admin-ch-eli-cc-2005-811-20210420-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20210420/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les objets destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire, et sur les bougies, les allumettes, les briquets et les articles de farces et attrapes
 
-(Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)**[^t-1]**
+(Ordonnance sur les objets destinés à entrer en contact avec le corps humain, OCCH)[^t-1]
 
-du 23 novembre 2005 (Etat le 1<sup>er</sup> décembre 2019)
+du 23 novembre 2005 (Etat le 20 avril 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -57,7 +57,7 @@ La présente ordonnance fixe les exigences s’appliquant:
 
 ## Chapitre 2 Objets usuels destinés à entrer en contact avec les muqueuses, la peau ou le système pileux et capillaire
 
-### Section 1 Exigences s’appliquant aux objets contenant du métal et destinés à entrer en contact avec la peau****
+### Section 1 Exigences s’appliquant aux objets contenant du métal et destinés à entrer en contact avec la peau
 
 [^chap2-sec1-1]
 
@@ -392,7 +392,7 @@ Les dispositions de la présente section s’appliquent aux produits textiles vi
 
 [^20-1]: Abrogé par le ch. I de l’O du DFI du 16 déc. 2016, avec effet au 1<sup>er</sup> mai 2017 ([RO 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
-### Section 6 Substances chimiques dans les produits textiles, les articles en cuir et les autres objets destinés à entrer en contact avec le corps humain****
+### Section 6 Substances chimiques dans les produits textiles, les articles en cuir et les autres objets destinés à entrer en contact avec le corps humain
 
 [^chap2-sec6-1]
 
@@ -443,7 +443,7 @@ La concentration en composés du dioctylétain ne doit pas dépasser 0,1 % en po
 [^22-5]: Introduit par le ch. I de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3405](https://fedlex.data.admin.ch/eli/oc/2019/616)).
 [^22-6]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
-### Section 7**** Cordons et cordons coulissants sur des vêtements d’enfants
+### Section 7 Cordons et cordons coulissants sur des vêtements d’enfants
 
 [^chap2-sec7-1]
 
@@ -514,7 +514,7 @@ Les articles de farces et attrapes et les objets analogues ne peuvent contenir d
 - a. parties métalliques;
 - b. poudre de Panama *(Quillaja saponaria)* et ses dérivés contenant des saponines;
 - c. poudre de racine de l’ellébore vert *(Helleborus viridis)* et de l’ellébore noir *(Helleborus niger);*
-- d. poudre de racine du vératre blanc *(Veratrum album)* et du vératre noir *(Ver**a**trum nigrum);*
+- d. poudre de racine du vératre blanc *(Veratrum album)* et du vératre noir *(Vera**trum nigrum);*
 - e. benzidine et ses dérivés;
 - f. o-nitrobenzaldéhyde;
 - g. sulfure d’ammonium, hydrogénosulfure d’ammonium et polysulfure d’ammonium;
@@ -576,7 +576,7 @@ L’ordonnance du 26 juin 1995 sur la combustibilité[^29-1] est abrogée.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2006.
 
-## Disposition transitoire de la modification du 15 novembre 2006****
+## Disposition transitoire de la modification du 15 novembre 2006
 
 [^u1-1]
 
@@ -584,7 +584,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2006.
 
 Les objets visés aux art. 14, 14*a* et 14*b* peuvent encore être fabriqués et importés selon l’ancien droit jusqu’au 16 janvier 2007. Ils peuvent encore être remis aux consommateurs jusqu’au 31 mars 2008.
 
-## Dispositions transitoires de la modification du 7 mars 2008****
+## Dispositions transitoires de la modification du 7 mars 2008
 
 [^u2-1]
 
@@ -594,7 +594,7 @@ Les objets visés aux art. 14, 14*a* et 14*b* peuvent encore être fabriqués et
 
 <sup>2</sup> Les briquets peuvent encore être remis aux consommateurs conformément à l’ancien droit jusqu’au 31 décembre 2008.
 
-## Dispositions transitoires de la modification du 13 octobre 2010****
+## Dispositions transitoires de la modification du 13 octobre 2010
 
 [^u3-1]
 
@@ -604,7 +604,7 @@ Les objets visés aux art. 14, 14*a* et 14*b* peuvent encore être fabriqués et
 
 <sup>2</sup> Les objets non conformes à l’art. 22, al. 1<sup>ter</sup>, dans la modification du 13 octobre 2010 de la présente ordonnance peuvent être fabriqués, importés et remis au consommateur selon l’ancien droit jusqu’au 31 décembre 2011.
 
-## Dispositions transitoires de la modification du 21 décembre 2011****
+## Dispositions transitoires de la modification du 21 décembre 2011
 
 [^u4-1]
 
@@ -612,7 +612,7 @@ Les objets visés aux art. 14, 14*a* et 14*b* peuvent encore être fabriqués et
 
 Les objets non conformes à l’art. 2*a* dans la modification du 21 décembre 2011 de la présente ordonnance peuvent être fabriqués, étiquetés, importés et remis aux consommateurs selon l’ancien droit jusqu’au 31 juillet 2012.
 
-## Dispositions transitoires relatives à la modification du 25 novembre 2013****
+## Dispositions transitoires relatives à la modification du 25 novembre 2013
 
 [^u5-1]
 
@@ -622,7 +622,7 @@ Les objets non conformes à l’art. 2*a* dans la modification du 21 décembre 2
 
 <sup>2</sup> Les objets non conformes à l’art. 2*b*, dans la version du 25 novembre 2013 de la présente ordonnance, peuvent être importés, fabriqués, étiquetés et remis au consommateur selon l’ancien droit jusqu’au 31 décembre 2014.
 
-## Disposition transitoire de la modification du 16 décembre 2016****
+## Disposition transitoire de la modification du 16 décembre 2016
 
 [^u6-1]
 
@@ -630,11 +630,11 @@ Les objets non conformes à l’art. 2*a* dans la modification du 21 décembre 2
 
 Les objets usuels au sens de la présente ordonnance qui ne sont pas conformes à la modification du 16 décembre 2016 de la présente ordonnance peuvent encore être importés, fabriqués et étiquetés selon l’ancien droit jusqu’au 30 avril 2018. Ils peuvent être remis au consommateur jusqu’à épuisement des stocks.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 2, al. 4)
 
-## Normes techniques s’appliquant à des objets qui libèrent du nickel****
+## Normes techniques s’appliquant à des objets qui libèrent du nickel
 
 [^annex1-lvlu1-1]
 
@@ -648,13 +648,13 @@ Annexe 1*[^t-2]*
 <tr><th>SN EN 16128:2011</th><th>Méthode d’essai de référence relative à la libération du nickel par les parties des montures de lunettes et lunettes de soleil destinées à entrer en contact direct et prolongé avec la peau</th></tr>
 </table>
 
-Annexe 1a*[^t-3]*
+Annexe 1a[^t-3]
 
 (art. 5, al. 3, let. a)
 
 ## Liste des amines aromatiques interdites dans les couleurs de tatouage et les couleurs de maquillage permanent
 
-[^t-3]: Anciennement annexe 1. Nouvelle teneur selon le ch. II de l’O du DFI du 15 nov. 2006 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Mise à jour selon le ch. II al. 2 de l’O du DFI du 13 oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
+[^t-3]: Anciennement annexe 1. Nouvelle teneur selon le ch. II de l’O du DFI du 15 nov. 2006 ([RO 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Mise à jour selon le ch. II al. 2 de l’O du DFI du 13 oct. 2010, en vigueur depuis le 1<sup>er</sup> nov. 2010 ([RO 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)). Erratum du 20 avr. 2021 ([RO 2021 226](https://fedlex.data.admin.ch/eli/oc/2021/226)).
 
 <table>
 <tr><th>N<sup>o</sup> CAS[^annex1a-lvlu1-1]</th><th>Numéro d’index</th><th>Numéro CE</th><th>Substance</th></tr>
@@ -678,7 +678,7 @@ Annexe 1a*[^t-3]*
 <tr><td>95-53-4</td><td>612-091-00-X</td><td>202-429-0</td><td>o-toluidine</td></tr>
 <tr><td>95-80-7</td><td>612-099-00-3</td><td>202-453-1</td><td>4-méthyl-m-phénylènediamine</td></tr>
 <tr><td>137-17-7</td><td></td><td>205-282-0</td><td>2,4,5-triméthylaniline</td></tr>
-<tr><td>90-04-4</td><td>612-035-00-4</td><td>201-963-1</td><td>o-anisidine</td></tr>
+<tr><td>90-04-0</td><td>612-035-00-4</td><td>201-963-1</td><td>o-anisidine</td></tr>
 <tr><td>60-09-3</td><td></td><td></td><td>4-aminoazobenzène</td></tr>
 <tr><td>399-95-1</td><td>604-028-00-X</td><td>402-230-0</td><td>4-amino-3-fluorophénol</td></tr>
 <tr><td>95-68-1</td><td></td><td></td><td>2,4’-xylidine</td></tr>
@@ -736,7 +736,7 @@ Annexe 2
 
 [^annex2-lvlu1-1]: CI = Colour Index.
 
-Annexe 2a*[^t-4]*
+Annexe 2a[^t-4]
 
 (art. 5, al. 3<sup>bis</sup>)
 
@@ -767,11 +767,11 @@ Annexe 2a*[^t-4]*
 
 [^annex2a-lvlu1-1]: Après extraction dans une solution aqueuse à un pH 5,5
 
-Annexe 3*[^t-5]*
+Annexe 3[^t-5]
 
 (art. 10, 11, al. 3, et 12, al. 1)
 
-## Normes techniques s’appliquant aux lentilles de contact cosmétiques afocales****
+## Normes techniques s’appliquant aux lentilles de contact cosmétiques afocales
 
 [^annex3-lvlu1-1]
 
@@ -784,11 +784,11 @@ Annexe 3*[^t-5]*
 <tr><td>SN EN 980:2008</td><td>Symboles graphiques utilisés pour l’étiquetage des dispositifs médicaux</td></tr>
 </table>
 
-Annexe 4*[^t-6]*
+Annexe 4[^t-6]
 
 (art. 15)
 
-## Normes techniques s’appliquant aux objets usuels destinés aux nourrissons et aux enfants en bas âge****
+## Normes techniques s’appliquant aux objets usuels destinés aux nourrissons et aux enfants en bas âge
 
 [^annex4-lvlu1-1]
 
@@ -803,11 +803,11 @@ Annexe 4*[^t-6]*
 <tr><td>SN EN 14350-1:2004</td><td>Articles de puériculture – Articles pour l’alimentation liquide Partie 1: Exigences générales et mécaniques et essais</td></tr>
 </table>
 
-Annexe 5*[^t-7]*
+Annexe 5[^t-7]
 
 (art. 18, al. 3)
 
-## Normes techniques pour la détermination de la résistance des produits textiles au feu****
+## Normes techniques pour la détermination de la résistance des produits textiles au feu
 
 [^annex5-lvlu1-1]
 
@@ -822,7 +822,7 @@ Annexe 5*[^t-7]*
 <tr><td>SN EN 13772:2011</td><td>Textiles et produits textiles – Comportement au feu – Rideaux et tentures – Mesurage de la propagation de flamme d’éprouvettes orientées verticalement, avec une source d’allumage importante</td></tr>
 </table>
 
-Annexe 6*[^t-8]*
+Annexe 6[^t-8]
 
 (art. 21, al. 1)
 
@@ -869,11 +869,11 @@ Annexe 7
 <tr><td>22</td><td>60-09-3</td><td>611-008-00-4</td><td>200-453-6</td><td>4-aminoazobenzène</td></tr>
 </table>
 
-Annexe 8*[^t-9]*
+Annexe 8[^t-9]
 
 (art. 21, al. 2)
 
-## Normes techniques s’appliquant à la détermination des amines aromatiques****
+## Normes techniques s’appliquant à la détermination des amines aromatiques
 
 [^annex8-lvlu1-1]
 
@@ -888,11 +888,11 @@ Annexe 8*[^t-9]*
 <tr><td>SN EN ISO 17234-2:2011</td><td>Cuir – Essais chimiques pour le dosage de certains colorants azoïques dans les cuirs teints Partie 2: Dosage du 4-amino-azobenzène</td></tr>
 </table>
 
-Annexe 8a*[^t-10]*
+Annexe 8a[^t-10]
 
 (art. 22*a*, al. 2)
 
-## Norme technique s’appliquant aux cordons et cordons coulissants sur des vêtements d’enfants****
+## Norme technique s’appliquant aux cordons et cordons coulissants sur des vêtements d’enfants
 
 [^annex8a-lvlu1-1]
 
@@ -904,11 +904,11 @@ Annexe 8a*[^t-10]*
 <tr><td>SN EN 14682:2015</td><td>Sécurité des vêtements d’enfants – Cordons et cordons coulissants – Spécifications</td></tr>
 </table>
 
-Annexe 9*[^t-11]*
+Annexe 9[^t-11]
 
 (art. 25, al. 6)
 
-## Normes techniques s’appliquant aux briquets****
+## Normes techniques s’appliquant aux briquets
 
 [^annex9-lvlu1-1]
 

@@ -3,11 +3,11 @@ sr: "817.023.41"
 title: "Verordnung des EDI vom 23. November 2005 über Gegenstände für den Schleimhaut-, Haut- und Haarkontakt sowie über Kerzen, Streichhölzer, Feuerzeuge und Scherzartikel (Verordnung über Gegenstände für den Humankontakt, HKV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/811"
 language: de
-version: 2019-12-01
+version: 2021-04-20
 adopted: 2005-11-23
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20191201/de/xml/fedlex-data-admin-ch-eli-cc-2005-811-20191201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20191201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/811/20210420/de/xml/fedlex-data-admin-ch-eli-cc-2005-811-20210420-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20210420/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/811/20191201/de"
 
 (Verordnung über Gegenstände für den Humankontakt)**[^t-1]**
 
-vom 23. November 2005 (Stand am 1. Dezember 2019)
+vom 23. November 2005 (Stand am 20. April 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Dez. 2016, in Kraft seit 1. Mai 2017 ([AS 2017 1619](https://fedlex.data.admin.ch/eli/oc/2017/166)).
 
@@ -655,7 +655,7 @@ Anhang 1a*[^t-3]*
 
 ## Liste der aromatischen Amine, welche nicht in Tätowier- und Permanent-Make-up-Farben enthalten sein dürfen
 
-[^t-3]: Ursprünglich Anhang 1. Fassung gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)).
+[^t-3]: Ursprünglich Anhang 1. Fassung gemäss Ziff. II der V des EDI vom 15. Nov. 2006 ([AS 2006 5121](https://fedlex.data.admin.ch/eli/oc/2006/779)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 13. Okt. 2010, in Kraft seit 1. Nov. 2010 ([AS 2010 4763](https://fedlex.data.admin.ch/eli/oc/2010/678)) und der Berichtigung vom 20. April 2021 ([AS 2021 226](https://fedlex.data.admin.ch/eli/oc/2021/226)).
 
 <table>
 <tr><th>CAS[^annex1a-lvlu1-1]-Nummer</th><th>Index-Nummer</th><th>EG-Nummer</th><th>Stoff-Name</th></tr>
@@ -679,7 +679,7 @@ Anhang 1a*[^t-3]*
 <tr><td>95-53-4</td><td>612-091-00-X</td><td>202-429-0</td><td>o-Toluidin</td></tr>
 <tr><td>95-80-7</td><td>612-099-00-3</td><td>202-453-1</td><td>4-Methyl-m-phenylendiamin</td></tr>
 <tr><td>137-17-7</td><td></td><td>205-282-0</td><td>2,4,5-Trimethylanilin</td></tr>
-<tr><td>90-04-4</td><td>612-035-00-4</td><td>201-963-1</td><td>o-Anisidin</td></tr>
+<tr><td>90-04-0</td><td>612-035-00-4</td><td>201-963-1</td><td>o-Anisidin</td></tr>
 <tr><td>60-09-3</td><td></td><td></td><td>4-Aminoazobenzol</td></tr>
 <tr><td>399-95-1</td><td>604-028-00-X</td><td>402-230-0</td><td>4-Amino-3-flurophenol</td></tr>
 <tr><td>95-68-1</td><td></td><td></td><td>2,4’-Xylidin</td></tr>
