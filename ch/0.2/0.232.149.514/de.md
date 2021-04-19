@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: Vertrag vom 22. Dezember 1978 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über den Schutz der Erfindungspatente (Patentschutzvertrag) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: de
-version: 2020-10-06
+version: 2021-04-20
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20201006/de/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20201006-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20201006/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20210420/de/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20210420-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20210420/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Originaltext
 
 Abgeschlossen am 22. Dezember 1978 Von der Bundesversammlung genehmigt am 4. Dezember 1979[^t-1] Ratifikationsurkunden ausgetauscht am 24. Januar 1980 In Kraft getreten am 1. April 1980
 
-(Stand am 6. Oktober 2020)
+(Stand am 20. April 2021)
 
 [^t-1]: [AS 1980 283](https://fedlex.data.admin.ch/eli/oc/1980/283_284_284)
 
@@ -101,7 +101,7 @@ Ein europäisches Patent kann für die Schweiz und das Fürstentum Liechtenstein
 
 <sup>4</sup> Das Fürstentum Liechtenstein verzichtet während der Vertragsdauer, zweiseitige Verträge über Erfindungspatente mit Drittstaaten selbständig abzuschliessen.
 
-[^6-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.02/.03/.04**
+[^6-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253), [0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265), [0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127), [0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 ## 2. Kapitel: Verwaltungsaufgaben
 
@@ -255,4 +255,4 @@ Anlagen*[^t-2]*
 <tr><td>[tab]</td><td>die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-2]: Es wird mitgeteilt, dass die Anlagen I und II seit dem 27. Oktober 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 6. Oktober 2020 (Stand: 30. Juni 2020), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4555](https://fedlex.data.admin.ch/eli/oc/2020/803)). Separatdrucke der bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.232 konsultiert werden.
+[^t-2]: Es wird mitgeteilt, dass die Anlagen I und II seit dem 27. Okt. 1998 regelmässig und ab dem 21. Juni 2005 halbjährlich, letztmals auf den 20. April 2021 (Stand: 31. Dez. 2020), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307)). Separatdrucke der bereinigten Anlagen können bezogen werden beim Eidgenössischen Departement für auswärtige Angelegenheiten, Direktion für Völkerrecht, 3003 Bern oder auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.232 konsultiert werden.

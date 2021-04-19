@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: "Trattato del 22 dicembre 1978 tra la Confederazione Svizzera e il Principato del Liechtenstein sulla protezione conferita dai brevetti d'invenzione (Trattato sui brevetti) (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: it
-version: 2020-10-06
+version: 2021-04-20
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20201006/it/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20201006-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20201006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20210420/it/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20210420-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20210420/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumenti di ratificazione scambiati il 24 gennaio 1980
 
 Entrato in vigore il 1° aprile 1980
 
-(Stato 6 ottobre 2020)
+(Stato 20 aprile 2021)
 
 [^t-1]: RU **1980** 285; FF **1979** II 261 RU **1980** 284
 
@@ -105,7 +105,7 @@ Un brevetto europeo può essere ottenuto soltanto per la Svizzera ed il Principa
 
 <sup>4</sup> Per la durata del presente trattato, il Principato del Liechtenstein rinuncia a concludere separatamente con Paesi terzi trattati bilaterali in materia di brevetti d’invenzione.
 
-[^6-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**¸0.232.02, 0.232.03, 0.232.04**
+[^6-1]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253),[0.232.02](https://fedlex.data.admin.ch/eli/cc/55/1237_1277_1265),[0.232.03](https://fedlex.data.admin.ch/eli/cc/1963/123_119_127),[0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
 
 ## Capitolo 2: Compiti amministrative
 
@@ -255,7 +255,7 @@ Allegati*[^t-2]*
 
 ## Elenco
 
-[^t-2]: Gli All. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 6 ott. 2020 (stato: 30 giugno 2020). Questi all. non sono più pubblicati nella RU ([RU 2020 4555](https://fedlex.data.admin.ch/eli/oc/2020/803)). Estratti aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.232.
+[^t-2]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 20 aprile 2021 (stato: 31 dicembre 2020). Questi all. non sono più pubblicati nella RU ([RU 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307)). Estratti periodicamente aggiornati si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.232.
 
 <table>
 <tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>

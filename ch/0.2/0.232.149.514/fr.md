@@ -3,11 +3,11 @@ sr: "0.232.149.514"
 title: "Traité du 22 décembre 1978 entre la Confédération suisse et la Principauté de Liechtenstein sur la protection conférée par les brevets d'invention (Traité sur les brevets) (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/284_285_285"
 language: fr
-version: 2020-10-06
+version: 2021-04-20
 adopted: 1978-12-22
 in_force: 1980-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20201006/fr/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20201006-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20201006/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/284_285_285/20210420/fr/xml/fedlex-data-admin-ch-eli-cc-1980-284_285_285-20210420-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/284_285_285/20210420/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Traduction
 
 Conclu le 22 décembre 1978 Approuvé par l’Assemblée fédérale le 4 décembre 1979[^t-1] Instruments de ratification échangés le 24 janvier 1980 Entré en vigueur le 1<sup>er</sup> avril 1980
 
-(Etat le 6 octobre 2020)
+(Etat le 20 avril 2021)
 
 [^t-1]: [RO 1980 284](https://fedlex.data.admin.ch/eli/oc/1980/283_284_284)
 
@@ -254,4 +254,4 @@ Annexes*[^t-2]*
 <tr><td>**Annexe II**</td><td>– Liste des traités internationaux applicables dans la Principauté de Liechtenstein</td></tr>
 </table>
 
-[^t-2]: Les annexes I et II ont été mises à jour régulièrement dès le 27 octobre 1998, deux fois par an dès le 21 juin 2005 et pour la dernière fois le le 6 octobre 2020 (état au 30 juin 2020). Ces annexes ne sont plus publiées dans le RO ([RO 2020 4555](https://fedlex.data.admin.ch/eli/oc/2020/803)). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.232.
+[^t-2]: Les annexes I et II ont été mises à jour régulièrement dès le 27 octobre 1998, deux fois par an dès le 21 juin 2005 et pour la dernière fois le 20 avril 2021 (état au 31 décembre 2020). Ces annexes ne sont plus publiées dans le RO ([RO 2021 307](https://fedlex.data.admin.ch/eli/oc/2021/307)). Des tirés à part des annexes mises à jour peuvent être obtenus auprès du Département fédéral des affaires étrangères, Direction du droit international public, 3003 Berne ou consultés sur le site Internet www.gesetze.li &gt; LR-Nr. 170.551.232.
