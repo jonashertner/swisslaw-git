@@ -4,13 +4,13 @@ number: 835a
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: VCov19
 language: de
-version: 2021-04-01
-valid_until: 2021-04-20
-version_adopted: 2021-03-30
+version: 2021-04-21
+valid_until: 2021-04-30
+version_adopted: 2021-04-20
 adopted: 2021-12-03
 in_force: 2021-12-06
 url: "https://srl.lu.ch/app/de/texts_of_law/835a"
-pdf: "https://srl.lu.ch/api/de/versions/3726/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3738/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3726/pdf_file"
 
 (VCov19)
 
-vom 13.10.2020 (Stand 01.04.2021)
+vom 13.10.2020 (Stand 21.04.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -49,19 +49,7 @@ beschliesst:
 
 #### § 2a
 
-**Für das Publikum geschlossene Einrichtungen und Betriebe**
-
-<sup>1</sup> Für das Publikum geschlossen sind:
-
-- a. …
-- b. …
-- c. …
-- d. …
-- e. Erotik- und Sexbetriebe; Angebote von Sexarbeit, einschliesslich solcher in privaten Räumlichkeiten und auf der Strasse, sind verboten.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### § 2b
 
@@ -91,6 +79,14 @@ beschliesst:
 <sup>5</sup> Die Absätze 2–4 gelten sinngemäss auch für das Personal der Betriebe.
 
 [^3-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+
+#### § 3bis
+
+**Betriebskantinen für Berufstätige im Ausseneinsatz**
+
+<sup>1</sup> Restaurationsbetriebe, die in Innenbereichen Berufschauffeurinnen und -chauffeuren, Berufsleuten, die im Freien arbeiten müssen, namentlich in der Landwirtschaft und im Bausektor, sowie Handwerkerinnen und Handwerkern und Berufstätigen auf Montage offenstehen, melden ihr diesbezügliches Angebot vorgängig der Luzerner Polizei (Abteilung Gastgewerbe und Gewerbepolizei).
+
+<sup>2</sup> Die Betriebe verwalten die von ihnen pro Tag erhobenen Kontaktdaten so, dass sie der Dienststelle Gesundheit und Sport auf Verlangen innert zwei Stunden elektronisch in gegliederter Form übermittelt werden können. Die Kontaktdaten dürfen zu keinem andern Zweck verwendet werden. Die Betriebe stellen sicher, dass die Daten vierzehn Tage nach der Erhebung vernichtet werden.
 
 #### § 3a
 
@@ -170,6 +166,6 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Die §§ 2a, 3a, 4a, 5 und 5b gelten bis 30. April 2021.
+<sup>2<sup>bis</sup></sup> Die §§ 3<sup>bis</sup>, 3a, 4a, 5 und 5b gelten bis 31. Mai 2021.
 
 K 2020 3305 | G 2020-074
