@@ -5,12 +5,12 @@ title: Ordinaziun tar la lescha da scola
 short: ordinaziun da scola
 language: rm
 version: 2021-03-01
-valid_until: 2021-07-31
+corrected: 2021-04-21
 version_adopted: 2021-02-09
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3161/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3148/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

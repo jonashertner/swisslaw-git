@@ -2,22 +2,20 @@
 canton: GR
 number: "421.010"
 title: Ordinanza relativa alla legge scolastica
-short: Ordinanza scolastica
+short: "Ordinanza sulle scuole popolari, OSP"
 language: it
 version: 2021-03-01
-valid_until: 2021-07-31
+corrected: 2021-04-21
 version_adopted: 2021-02-09
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3161/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3148/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza relativa alla legge scolastica
-
-(Ordinanza scolastica)
 
 del 25.09.2012 (stato 01.03.2021)
 
