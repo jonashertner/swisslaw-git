@@ -4,20 +4,22 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2021-03-13
-valid_until: 2021-04-20
-version_adopted: 2021-03-12
+version: 2021-04-21
+valid_until: 2021-05-18
+version_adopted: 2021-04-20
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/3720/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3740/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 
-vom 09.12.2020 (Stand 13.03.2021)
+(Kantonale Härtefallverordnung Covid-19)
+
+vom 09.12.2020 (Stand 21.04.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -49,15 +51,36 @@ beschliesst:
 
 #### § 3
 
-**Form und Umfang der Unterstützungen**
+**Form der Unterstützungen**
 
 <sup>1</sup> Der Kanton unterstützt Unternehmen im Kanton Luzern im Rahmen der vom Kantonsrat oder vom Regierungsrat bewilligten Mittel mit Härtefallmassnahmen in der Form von Garantien und nicht rückzahlbaren Beiträgen.
 
-<sup>2</sup> In Abweichung von Artikel 8 Absätze 1 und 3 der Covid-19-Härtefallverordnung beläuft sich die Unterstützung des Kantons Luzern pro Unternehmen auf höchstens 2 Millionen Franken. Im Übrigen richten sich die Höchstgrenzen für die Unterstützung eines Unternehmens nach Artikel 8 der Covid-19-Härtefallverordnung.
+<sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Das Finanzdepartement kann für einzelne Branchen, innerhalb der Höchstgrenzen von Absatz 2, zur Höhe der nicht rückzahlbaren Beiträge weitere Einzelheiten festlegen.
+<sup>2<sup>bis</sup></sup> …
 
-<sup>3</sup> Härtefallmassnahmen, die mit dem Sonderkredit vom 30. November 2020 finanziert werden, sind auf den festgestellten Unterstützungsbedarf der Unternehmen für maximal vier Monate auszurichten.
+<sup>3</sup> …
+
+#### § 3a
+
+**Beitragsberechnung**
+
+<sup>1</sup> Der nicht rückzahlbare Beitrag an ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken berechnet sich wie folgt:
+
+- a soweit es sich um ein Unternehmen handelt, das aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie seinen Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für insgesamt mindestens 40 Tage schliessen musste (behördlich geschlossenes Unternehmen): pauschaler Fixkostenanteil, berechnet auf die Dauer der behördlichen Schliessung; der pauschale Fixkostenanteil entspricht dabei dem für ungedeckte Fixkosten festgesetzten Prozentsatz der branchenweiten durchschnittlichen Fixkosten vom Jahresumsatz,
+- b für die übrigen Unternehmen: nach der Berechnung für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken gemäss Artikel 8b der Covid-19-Härtefallverordnung.
+
+<sup>2</sup> Soweit die ungedeckten Fixkosten die jeweilige Höchstgrenze für nicht rückzahlbare Beiträge übersteigen, wird für deren Deckung eine Garantie gewährt. Diese Bestimmung ist auf Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für insgesamt mindestens 40 Tage schliessen mussten, nicht anwendbar.
+
+<sup>3</sup> Das Finanzdepartement legt die massgebenden Prozentsätze des Fixkostenanteils gemäss Absatz 1a fest. Überdies kann es für einzelne Branchen oder Unternehmen tiefere Fixkostenanteile festlegen, wenn es feststellt, dass mit den pauschalen Fixkostenanteilen nach Artikel 8b Absatz 3 der Covid-19-Härtefallverordnung eine Überentschädigung entstehen würde.
+
+#### § 3b
+
+**Bedingte Gewinnbeteiligung bei Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken**
+
+<sup>1</sup> Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die im Jahr der Ausrichtung eines nicht rückzahlbaren Beitrags einen steuerbaren Jahresgewinn nach den §§ 71–80 des Steuergesetzes vom 22. November 1999[^3b-1] erzielen, leiten diesen an das Finanzdepartement weiter; dies aber höchstens im Umfang des erhaltenen Beitrags. Die Berechnung der bedingten Gewinnbeteiligung erfolgt sinngemäss nach Artikel 8e der Covid-19-Härtefallverordnung.
+
+[^3b-1]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
 
 ## 2 Anforderungen an die Unternehmen
 
@@ -67,13 +90,11 @@ beschliesst:
 
 <sup>1</sup> Als zumutbare Massnahmen der Unternehmen zum Schutz der Liquidität und der Kapitalbasis gelten neben Einsparungen, Effizienzsteigerungen und Anpassungen des Geschäftsmodells insbesondere der Verzicht auf Dividenden und Tantiemen, der Verzicht auf Rückzahlung von Aktionärsdarlehen seit dem 15. März 2020, soweit solche Massnahmen nicht durch Kapitalerhöhungen in mindestens gleichem Umfang kompensiert wurden, sowie Eigenleistungen der privaten Eignerinnen und Eigner und von Investorinnen und Investoren.
 
-<sup>2</sup> Die Vermögens- und Kapitalsituation von Unternehmen, welche nach dem Gesamtbild der tatsächlichen Verhältnisse durch Stimmenmehrheit oder auf andere Weise unter einheitlicher Leitung zusammengefasst sind, sind gesamthaft zu beurteilen.
+<sup>2</sup> …
 
 #### § 5
 
-**Umsatzrückgang**
-
-<sup>1</sup> Bei der Berechnung des massgebenden Umsatzes des Unternehmens werden Kurzarbeitsentschädigungen, Entschädigungen des Erwerbsausfalls, Mietzinserlasse oder -reduktionen, Erträge aus der Luzerner Härtefallhilfe, Covid-19-Versicherungsleistungen und weitere Erträge aus Entschädigungen hinzugerechnet.
+**…**
 
 ## 3 Verfahren
 
@@ -83,13 +104,15 @@ beschliesst:
 
 <sup>1</sup> Härtefallgesuche sind mittels Gesuchsformular des Kantons online einzureichen. Das gesuchstellende Unternehmen bestätigt im Gesuchsformular, dass alle Angaben vollständig und wahr sind.
 
-<sup>2</sup> Im Gesuchsformular weist das Unternehmen die relevanten Umsatzzahlen und den Finanzbedarf aus und macht Angaben zur Unternehmenspositionierung.
+<sup>2</sup> Im Gesuchsformular weist das Unternehmen den Gründungszeitpunkt und die relevanten Umsatzzahlen aus und es weist mittels Handelsregisterauszuges nach, dass es sich nicht in einem Konkurs- oder Liquidationsverfahren befindet.
 
-<sup>3</sup> Mit dem Gesuch sind eine Kopie der Identitätskarte oder des Passes, der letzte Kontoabschluss der Auszahlungskonti, ein aktueller Betreibungsregisterauszug, ein aktueller Handelsregisterauszug, die neuste Steuererklärung, die im Gesuchsformular verlangten Jahresabschlüsse und ein Finanzplan oder vergleichbare Dokumente einzureichen.
+<sup>3</sup> Mit dem Gesuch sind die Unterlagen gemäss Artikel 8f der Covid-19-Härtefallverordnung sowie eine Kopie der Identitätskarte oder des Passes der im Gesuch angegebenen zeichnungsberechtigten Person einzureichen.
 
-<sup>3<sup>bis</sup></sup> Unternehmen, die auf Anordnung des Bundes oder des Kantons ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, weisen in Abweichung von Absatz 2 lediglich die relevanten Umsatzzahlen nach. In Abweichung von Absatz 3 sind mit dem Gesuch eine Kopie der Identitätskarte oder des Passes, ein aktueller Betreibungsregisterauszug, ein aktueller Handelsregisterauszug, die im Gesuchsformular verlangten Jahresabschlüsse und die Mehrwertsteuerabrechnungen der Jahre 2018 und 2019 einzureichen.
+<sup>3<sup>bis</sup></sup> …
 
-<sup>4</sup> Ein Unternehmen kann so viele Härtefallgesuche einreichen, bis die Höchstgrenze gemäss § 3 Absatz 2 erreicht ist.
+<sup>3<sup>ter</sup></sup> Falls im Gesuch ein Antrag nach Artikel 2a der Covid-19-Härtefallverordnung gestellt wird, ist zusätzlich eine vollständige Spartenaufteilung einzureichen.
+
+<sup>4</sup> Ab dem 1. Juli 2021 können Unternehmen, die ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 nicht aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie für insgesamt mindestens 40 Tage schliessen mussten, für den Umsatzrückgang in den Monaten Januar bis Juni 2021 ein weiteres Gesuch einreichen. Bei behördlich geschlossenen Unternehmen werden Schliessungen bis Ende April 2021 ohne erneute Gesuchseinreichung automatisch berücksichtigt.
 
 <sup>5</sup> Die Härtefallgesuche müssen bis spätestens am 1. Dezember 2021 eingereicht werden.
 
@@ -104,30 +127,32 @@ beschliesst:
 <sup>3</sup> Als Ausschlusskriterien gelten:
 
 - a. eine Beteiligung des Bundes, von Kantonen oder Gemeinden mit mehr als 12 000 Einwohnerinnen und Einwohnern am Kapital des Unternehmens von insgesamt mehr als 10 Prozent,
-- b. keine Ausübung von Geschäftstätigkeiten und keine Beschäftigung von Personal im Kanton Luzern (Domizilgesellschaft),
+- b. keine Ausübung von Geschäftstätigkeiten und keine Beschäftigung von Personal in der Schweiz (Domizilgesellschaft),
 - c. laufendes Konkurs- oder Liquidationsverfahren,
 - d. …
 - e. durchschnittlicher Jahresumsatz 2018 und 2019 unter dem durch das Bundesrecht festgesetzten Betrag,
-- f. laufendes Betreibungsverfahren für Sozialversicherungsbeiträge, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen,
+- f. am 15. März 2020 laufendes Betreibungsverfahren für Sozialversicherungsbeiträge, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen,
 - g. Umsatzreduktion von weniger als 40 Prozent gemäss Selbstdeklaration,
-- h. ausstehende Staatssteuern und direkte Bundessteuern der Steuerjahre 2019 oder früher oder laufendes Betreibungsverfahren für Staatssteuern oder direkte Bundessteuern des Steuerjahres 2020, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen,
-- i. rechtskräftige oder hängige Veranlagung der Steuerjahre 2018, 2019 oder 2020 nach pflichtgemässem Ermessen.
+- h. am 15. März 2020 laufendes Betreibungsverfahren oder Verlustscheine für Steuerschulden gegenüber Bund, Kantonen oder Gemeinden, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen.
+- i. …
 
 <sup>4</sup> Die Unternehmen bestätigen im Gesuch, dass sie keines der Ausschlusskriterien erfüllen, andernfalls wird das Gesuch nicht weiterbearbeitet. Ausgeschlossene Unternehmen werden durch das Finanzdepartement informiert.
 
 <sup>5</sup> Für Unternehmen, die auf Anordnung des Bundes oder des Kantons ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, gilt das Ausschlusskriterium gemäss Absatz 3g nicht.
 
+<sup>6</sup> Für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken gilt das Ausschlusskriterium gemäss Absatz 3h nicht.
+
 #### § 8
 
-**Fachliche und detaillierte Prüfung; Plausibilitätsprüfung**
+**Fachliche Prüfung**
 
-<sup>1</sup> Die Luzerner Kantonalbank übermittelt die vollständigen Gesuchsunterlagen einem externen Wirtschaftsprüfungsunternehmen zur fachlichen und zur detaillierten Prüfung.
+<sup>1</sup> Die Luzerner Kantonalbank übermittelt die vollständigen Gesuchsunterlagen einem externen Wirtschaftsprüfungsunternehmen zur fachlichen Prüfung.
 
-<sup>2</sup> Bei der fachlichen Prüfung werden die eingereichten Unterlagen insbesondere hinsichtlich der Bundesvorgaben plausibilisiert, die Ausschöpfung der Selbsthilfemassnahmen, die Kostenstruktur und die Verschuldungskapazität geprüft sowie der Unterstützungsbedarf ermittelt.
+<sup>2</sup> Bei der fachlichen Prüfung werden die eingereichten Unterlagen insbesondere hinsichtlich der Vorgaben plausibilisiert und der Umsatzrückgang nachgerechnet beziehungsweise der Beitrag berechnet.
 
-<sup>3</sup> Aus der detaillierten Prüfung resultiert eine qualitative und datenbasierte Einschätzung insbesondere bezüglich Liquiditätsbedarf, Verschuldungsfaktor, Kredithöhe und Ausfallrisiko.
+<sup>3</sup> …
 
-<sup>3<sup>bis</sup></sup> Die Gesuche von Unternehmen, die auf Anordnung des Bundes oder des Kantons ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, werden einer Plausibilitätsprüfung unterzogen.
+<sup>3<sup>bis</sup></sup> …
 
 <sup>4</sup> Das externe Wirtschaftsprüfungsunternehmen übermittelt die geprüften Härtefallgesuche der Expertengruppe mit einem Antrag zum Entscheid.
 
@@ -243,6 +268,14 @@ beschliesst:
 **Übergangsbestimmung der Änderung vom 12. März 2021**
 
 <sup>1</sup> Die Änderung von § 7 Absatz 3h und i vom 12. März 2021 ist auf alle hängigen Gesuche anwendbar.
+
+#### § 18b
+
+**Übergangsbestimmungen der Änderung vom 20. April 2021**
+
+<sup>1</sup> Die Gewinnbeteiligung gemäss § 3b gilt für Unternehmen, denen ab dem 21. April 2021 Härtefallhilfen zugesichert werden.
+
+<sup>2</sup> Die Änderung von § 7 Absatz 3b, f und h vom 20. April 2021 ist auf alle hängigen Gesuche anwendbar.
 
 #### § 19
 
