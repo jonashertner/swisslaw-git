@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifications d'ordonnances liées à la reprise des règlements (UE) 2018/1860, 2018/1861 et 2018/1862 (développements de l'acquis de Schengen) et à la modification de la LDEA visant à instaurer une statistique complète sur les retours"
 document: Projet 3
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Verordnungsanpassungen aufgrund der Übernahme der SIS-Verordnungen (EU) 2018/1860, 2018/1861 und 2018/1862 (Weiterentwicklungen des Schengen-Besitzstands) und der Anpassung des BGIAA zur Erstellung einer umfassenden Statistik im Rückkehrbereich"
 document: Vorlage 5
 language: de

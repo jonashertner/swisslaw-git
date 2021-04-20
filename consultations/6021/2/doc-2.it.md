@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Adeguamenti di ordinanze in seguito al recepimento dei regolamenti SIS (UE) 2018/1860, 2018/1861 e 2018/1862 (sviluppo dell'acquis di Schengen) e all'adeguamento della LSISA al fine di allestire una statistica completa dei rimpatri"
 document: Avamprogetto 2
 language: it
