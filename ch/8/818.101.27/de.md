@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-04-19
+version: 2021-04-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210419/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210419-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210419/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210422/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210422-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210422/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210419/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 19. April 2021)
+vom 27. Januar 2021 (Stand am 22. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -290,7 +290,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. April 2021, in Kraft seit 19. April 2021 ([AS 2021 202](https://fedlex.data.admin.ch/eli/oc/2021/202)). Bereinigt gemäss Ziff. I der V der EDI vom 16. April 2021, in Kraft seit 16. April 2021 ([AS 2021 220](https://fedlex.data.admin.ch/eli/oc/2021/220)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 21. April 2021, in Kraft seit 22. April 2021 ([AS 2021 231](https://fedlex.data.admin.ch/eli/oc/2021/231)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
@@ -325,21 +325,11 @@ Kroatien
 
 Kuwait
 
-Lettland
-
 Libanon
 
 Litauen
 
 Luxemburg
-
-Malediven
-
-Malta
-
-Moldova
-
-Monaco
 
 Montenegro
 
@@ -351,11 +341,7 @@ Palästinensisches Gebiet (Besetztes)
 
 Paraguay
 
-Peru
-
 Polen
-
-Rumänien
 
 San Marino
 
@@ -364,8 +350,6 @@ Schweden
 Serbien
 
 Seychellen
-
-Slowakei
 
 Slowenien
 
@@ -410,11 +394,7 @@ Gebiete in Italien:
 - – Region Emilia Romagna
 - – Region Friaul / Julisch Venetien
 - – Region Kampanien
-- – Region Latium
-- – Region Ligurien
-- – Region Marken
 - – Region Toskana
-- – Region Venetien
 
 Gebiete in Österreich:
 
@@ -423,7 +403,6 @@ Gebiete in Österreich:
 - – Land Niederösterreich
 - – Land Oberösterreich
 - – Land Salzburg
-- – Land Steiermark
 - – Land Wien
 - [tab]
 

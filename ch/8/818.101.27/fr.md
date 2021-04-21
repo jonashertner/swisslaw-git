@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-04-19
+version: 2021-04-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210419/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210419-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210419/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210422/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210422-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210422/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210419/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 19 avril 2021)
+du 27 janvier 2021 (Etat le 22 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -280,15 +280,15 @@ Elles peuvent transporter les passagers suivants en l’absence d’un résultat
 
 La présente ordonnance entre en vigueur le 8 février 2021.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, al. 2)
 
-## Liste des États et zones présentant un risque élevé d’infection
+## Liste des États et zones présentant un risque élevé d’infection****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 avr. 2021, en vigueur depuis le 19 avr. 2021 ([RO 2021 202](https://fedlex.data.admin.ch/eli/oc/2021/202)). Mise à jour par le ch. I de l’O du DFI du 16 avr. 2021, en vigueur depuis le 16 avr. 2021 ([RO 2021 220](https://fedlex.data.admin.ch/eli/oc/2021/220)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI I du 21 avr. 2021, en vigueur depuis le 22 avr. 2021 ([RO 2021 231](https://fedlex.data.admin.ch/eli/oc/2021/231)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
@@ -329,8 +329,6 @@ Kosovo
 
 Koweït
 
-Lettonie
-
 Liban
 
 Lituanie
@@ -339,33 +337,19 @@ Luxembourg
 
 Macédoine du Nord
 
-Maldives
-
-Malte
-
-Moldova
-
-Monaco
-
 Monténégro
 
 Paraguay
 
 Pays-Bas (Royaume des)
 
-Pérou
-
 Pologne
-
-Roumanie
 
 Saint-Marin
 
 Serbie
 
 Seychelles
-
-Slovaquie
 
 Slovénie
 
@@ -407,12 +391,8 @@ Zones en Italie:
 - – Regione Campania
 - – Regione Emilia Romagna
 - – Regione Friuli Venezia Giulia
-- – Regione Lazio
-- – Regione Liguria
-- – Regione Marche
 - – Regione Puglia
 - – Regione Toscana
-- – Regione Veneto
 
 Zones en Autriche:
 
@@ -421,7 +401,6 @@ Zones en Autriche:
 - – Land Niederösterreich
 - – Land Oberösterreich
 - – Land Salzburg
-- – Land Steiermark
 - – Land Wien
 
 Annexe 2

@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-04-19
+version: 2021-04-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210419/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210419-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210419/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210422/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210422-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210422/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210419/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 19 aprile 2021)
+del 27 gennaio 2021 (Stato 22 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -210,7 +210,7 @@ Sono inoltre esentati dall’obbligo di test di cui all’articolo 7:
 
 Chi è sottoposto alla quarantena per le persone in entrata secondo la presente ordinanza deve notificare l’entrata entro due giorni all’autorità cantonale competente e seguirne le istruzioni.
 
-## Sezione 4*a*: Obblighi particolari per le imprese di trasporto aereo
+## Sezione 4*a*:**** Obblighi particolari per le imprese di trasporto aereo
 
 [^sec4-1]
 
@@ -276,15 +276,15 @@ Le autorità di controllo alla frontiera possono controllare in funzione del ris
 
 La presente ordinanza entra in vigore l’8 febbraio 2021.
 
-Allegato 1[^t-1]
+Allegato 1*[^t-1]*
 
 (art. 2 cpv. 2)
 
-## Elenchi degli Stati e delle regioni con rischio elevato di contagio
+## Elenchi degli Stati e delle regioni con rischio elevato di contagio****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 7 apr. 2021, in vigore dal 19 apr. 2021 ([RU 2021 202](https://fedlex.data.admin.ch/eli/oc/2021/202)). Aggiornato n. I dell’O del DFI del 16 apr. 2021, in vigore dal 16 apr. 2021 ([RU 2021 220](https://fedlex.data.admin.ch/eli/oc/2021/220)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 21 apr. 2021, in vigore dal 22 apr. 2021 ([RU 2021 231](https://fedlex.data.admin.ch/eli/oc/2021/231)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni
@@ -321,8 +321,6 @@ Kosovo
 
 Kuwait
 
-Lettonia
-
 Libano
 
 Lituania
@@ -331,35 +329,21 @@ Lussemburgo
 
 Macedonia del Nord
 
-Maldive
-
-Malta
-
-Moldova
-
-Monaco
-
 Montenegro
 
 Paesi Bassi (Regno dei)
 
 Paraguay
 
-Perù
-
 Polonia
 
 Repubblica Ceca
-
-Romania
 
 San Marino
 
 Seicelle
 
 Serbia
-
-Slovacchia
 
 Slovenia
 
@@ -401,12 +385,8 @@ Regioni in Italia:
 - – Regione Campania
 - – Regione Emilia Romagna
 - – Regione Friuli Venezia Giulia
-- – Regione Lazio
-- – Regione Liguria
-- – Regione Marche
 - – Regione Puglia
 - – Regione Toscana
-- – Regione Veneto
 
 Regioni in Austria:
 
@@ -415,7 +395,6 @@ Regioni in Austria:
 - – Land Burgenland
 - – Land Carinzia
 - – Land Salisburgo
-- – Land Stiria
 - – Land Vienna
 
 Allegato 2
