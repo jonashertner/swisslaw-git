@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern
 document: Vorlage
 language: de

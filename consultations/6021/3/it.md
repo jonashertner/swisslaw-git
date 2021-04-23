@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale della legge federale concernente il sussidio alla Scuola cantonale di lingua francese in Berna
 document: Avamprogetto
 language: it

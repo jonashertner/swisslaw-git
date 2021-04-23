@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision totale de la loi fédérale concernant l'allocation de subventions à l'École cantonale de langue française de Berne"
 document: Projet
 language: fr
