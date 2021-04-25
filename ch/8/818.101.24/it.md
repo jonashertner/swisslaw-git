@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-04-15
+version: 2021-04-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210415/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210415-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210426/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210426-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 15 aprile 2021)
+del 19 giugno 2020 (Stato 26 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -271,16 +271,21 @@ La Confederazione può distribuire il materiale medico importante contro pagamen
 
 **Deroghe alle disposizioni sull’importazione di medicamenti**
 
-<sup>1</sup> I farmacisti a cui incombe la responsabilità farmaceutica di una farmacia ospedaliera possono importare medicamenti non omologati contenenti i principi attivi elencati nell’allegato 5 per il trattamento dei pazienti affetti da COVID-19. L’incarico di importare tali medicamenti può essere conferito a un’azienda titolare di un’autorizzazione di commercio all’ingrosso o d’importazione.
+<sup>1</sup> Dopo la presentazione di una domanda di omologazione per un medicamento contenente principi attivi elencati nell’allegato 5 per il trattamento dei pazienti affetti da COVID-19, il richiedente può già importare il medicamento prima dell’omologazione o conferire l’incarico di importarlo a un’azienda titolare di un’autorizzazione di commercio all’ingrosso o d’importazione.[^22-1]
 
-<sup>2</sup> L’importazione deve essere notificata a Swissmedic entro 10 giorni dalla ricezione delle merci.
+<sup>1bis</sup> I farmacisti a cui incombe la responsabilità farmaceutica di una farmacia ospedaliera possono importare medicamenti non omologati contenenti i principi attivi elencati nell’allegato 5 per il trattamento dei pazienti affetti da COVID-19. L’incarico di importare tali medicamenti può essere conferito a un’azienda titolare di un’autorizzazione di commercio all’ingrosso o d’importazione.[^22-2]
+
+<sup>2</sup> Ogni importazione secondo il capoverso 1<sup>bis</sup> deve essere notificata a Swissmedic entro 10 giorni dalla ricezione delle merci.[^22-3]
 
 <sup>3</sup> Per prevenire e combattere il coronavirus in Svizzera Swissmedic può autorizzare, per un periodo limitato, l’immissione in commercio di un medicamento per supplire a una temporanea indisponibilità di un medicamento identico omologato in Svizzera, a condizione che in Svizzera non sia disponibile e omologato nessun medicamento sostanzialmente equivalente.
 
-<sup>4</sup> Dopo la presentazione di una domanda di omologazione per un vaccino contro il COVID-19 e di una domanda per il rilascio di un’autorizzazione d’esercizio secondo l’articolo 10 capoverso 1 lettera b della legge del 15 dicembre 2000 sugli agenti terapeutici, il richiedente può incaricare un’azienda titolare di un’autorizzazione di commercio all’ingrosso o d’importazione di importare il vaccino contro il COVID-19 prima ancora che sia stato omologato e di stoccarlo sino alla sua omologazione. L’azienda incaricata deve rispettare le norme internazionali della Buona prassi di distribuzione conformemente all’allegato 4 dell’ordinanza del 14 novembre 2018[^22-1] sull’autorizzazione dei medicamenti.[^22-2]
+<sup>4</sup> Dopo la presentazione di una domanda di omologazione per un vaccino contro il COVID-19 e di una domanda per il rilascio di un’autorizzazione d’esercizio secondo l’articolo 10 capoverso 1 lettera b della legge del 15 dicembre 2000 sugli agenti terapeutici, il richiedente può incaricare un’azienda titolare di un’autorizzazione di commercio all’ingrosso o d’importazione di importare il vaccino contro il COVID-19 prima ancora che sia stato omologato e di stoccarlo sino alla sua omologazione. L’azienda incaricata deve rispettare le norme internazionali della Buona prassi di distribuzione conformemente all’allegato 4 dell’ordinanza del 14 novembre 2018[^22-4] sull’autorizzazione dei medicamenti.[^22-5]
 
-[^22-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^22-2]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^22-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 26 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^22-2]: Originario cpv. 1.
+[^22-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 26 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^22-4]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^22-5]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 23
 
@@ -762,7 +767,7 @@ Allegato 4*[^t-4]*
 - 45\. Casirivimab/Imdevimab
 - 46\. Bamlanivimab/Etesevimab
 
-### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici
+### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001**** relativa ai dispositivi medici
 
 [^annex4-lvlu1-lvl2-1]
 

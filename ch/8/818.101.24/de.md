@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-04-15
+version: 2021-04-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210415-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210426/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210426-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 15. April 2021)
+vom 19. Juni 2020 (Stand am 26. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -271,16 +271,21 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 **Ausnahmen von den Bestimmungen über die Einfuhr von Arzneimitteln**
 
-<sup>1</sup> Apothekerinnen und Apotheker, die in einer Spitalapotheke die pharmazeutische Verantwortung innehaben, dürfen nicht zugelassene Arzneimittel mit Wirkstoffen nach Anhang 5 für die Behandlung von Covid-19-Patientinnen und -Patienten einführen. Mit der Einfuhr solcher Arzneimittel kann ein Betrieb mit Grosshandels- oder Einfuhrbewilligung beauftragt werden.
+<sup>1</sup> Nach Einreichung eines Zulassungsgesuchs für ein Arzneimittel mit Wirkstoffen nach Anhang 5 für die Behandlung von Covid-19-Patientinnen und -Patienten darf die Gesuchstellerin das Arzneimittel bereits vor dessen Zulassung einführen oder einen Betrieb mit Grosshandels- oder Einfuhrbewilligung mit der Einfuhr des Arzneimittels beauftragen.[^22-1]
 
-<sup>2</sup> Die Einfuhr ist der Swissmedic innerhalb von 10 Tagen nach Wareneingang zu melden.
+<sup>1bis</sup> Apothekerinnen und Apotheker, die in einer Spitalapotheke die pharmazeutische Verantwortung innehaben, dürfen nicht zugelassene Arzneimittel mit Wirkstoffen nach Anhang 5 für die Behandlung von Covid-19-Patientinnen und -Patienten einführen. Mit der Einfuhr solcher Arzneimittel kann ein Betrieb mit Grosshandels- oder Einfuhrbewilligung beauftragt werden.[^22-2]
+
+<sup>2</sup> Jede Einfuhr nach Absatz 1<sup>bis</sup> ist der Swissmedic innerhalb von 10 Tagen nach Wareneingang zu melden.[^22-3]
 
 <sup>3</sup> Zur Verhütung und Bekämpfung des Coronavirus in der Schweiz kann die Swissmedic das zeitlich begrenzte Inverkehrbringen eines Arzneimittels als Überbrückung einer temporären Nichtverfügbarkeit eines identischen, in der Schweiz zugelassenen Arzneimittels bewilligen, sofern in der Schweiz kein im Wesentlichen gleiches Arzneimittel zugelassen und verfügbar ist.
 
-<sup>4</sup> Nach Einreichung eines Zulassungsgesuchs für einen Covid-19-Impfstoff und eines Gesuchs um Erteilung einer Betriebsbewilligung nach Artikel 10 Absatz 1 Buchstabe b des Heilmittelgesetzes vom 15. Dezember 2000 kann die Gesuchstellerin einen Betrieb mit Grosshandels- oder Einfuhrbewilligung beauftragen, den Covid-19-Impfstoff bereits vor dessen Zulassung einzuführen und bis zur Zulassung einzulagern. Der beauftragte Betrieb muss die internationalen Regeln der Guten Vertriebspraxis gemäss Anhang 4 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^22-1] einhalten.[^22-2]
+<sup>4</sup> Nach Einreichung eines Zulassungsgesuchs für einen Covid-19-Impfstoff und eines Gesuchs um Erteilung einer Betriebsbewilligung nach Artikel 10 Absatz 1 Buchstabe b des Heilmittelgesetzes vom 15. Dezember 2000 kann die Gesuchstellerin einen Betrieb mit Grosshandels- oder Einfuhrbewilligung beauftragen, den Covid-19-Impfstoff bereits vor dessen Zulassung einzuführen und bis zur Zulassung einzulagern. Der beauftragte Betrieb muss die internationalen Regeln der Guten Vertriebspraxis gemäss Anhang 4 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^22-4] einhalten.[^22-5]
 
-[^22-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^22-2]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^22-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 26. April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^22-2]: Ursprünglich Abs. 1.
+[^22-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 26. April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^22-4]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^22-5]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 23
 
@@ -589,7 +594,7 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## 4*a*. Kapitel: Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
+## 4*a*. Kapitel:**** Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
 
 [^chap4a-1]
 
@@ -857,7 +862,6 @@ Anhang 5a*[^t-6]*
 - 3\.2.2 Die Spezifität des Tests muss bei mindestens 97 Prozent liegen.
 - 3\.3 Kreuzreaktivität: Untersuchung auch von Proben mit hoher Konzentration an verwandten Humanen Coronaviren, darunter mindestens das Humane Coronavirus 229E, das Humane Coronavirus OC43, das Humane Coronavirus NL63 oder das Humane Coronavirus HKU1.
 - 3\.4 Interferenz: Untersuchung auch von Pathogen-positiven Proben, bei denen das Pathogen eine analoge Symptomatik hervorrufen kann (Influenza A, B; RSV) oder mit dem Testprinzip interferieren könnte (Protein-A-positive *Staphylococcus aureus* bei Nasenabstrichen als Probenmatrix).
-- [tab]
 
 Anhang 6*[^t-7]*
 

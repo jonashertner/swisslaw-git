@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-04-15
+version: 2021-04-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210415-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210426/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210426-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 15 avril 2021)
+du 19 juin 2020 (Etat le 26 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -271,16 +271,21 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 **Exceptions aux dispositions concernant l’importation de médicaments**
 
-<sup>1</sup> Les pharmaciens assumant la responsabilité pharmaceutique dans une pharmacie d’hôpital peuvent importer des médicaments non autorisés contenant les substances actives énumérées à l’annexe 5 pour traiter des patients atteints du COVID-19. Une entreprise disposant d’une autorisation de commerce de gros ou d’importation peut être chargée d’importer ces médicaments.
+<sup>1</sup> Après avoir déposé une demande d’autorisation pour un médicament contenant une substance active énumérée à l’annexe 5 pour traiter des patients atteints du COVID-19, le requérant peut importer le médicament avant son autorisation ou charger une entreprise disposant d’une autorisation de commerce de gros ou d’importation de le faire.[^22-1]
 
-<sup>2</sup> L’importation doit être annoncée à Swissmedic dans les dix jours suivant la réception de la marchandise.
+<sup>1bis</sup> Les pharmaciens assumant la responsabilité pharmaceutique dans une pharmacie d’hôpital peuvent importer des médicaments non autorisés contenant les substances actives énumérées à l’annexe 5 pour traiter des patients atteints du COVID-19. Une entreprise disposant d’une autorisation de commerce de gros ou d’importation peut être chargée d’importer ces médicaments.[^22-2]
+
+<sup>2</sup> Chaque importation visée à l’al. 1<sup>bis</sup> doit être annoncée à Swissmedic dans les 10 jours suivant la réception de la marchandise.[^22-3]
 
 <sup>3</sup> Pour prévenir et combattre le coronavirus en Suisse, Swissmedic peut autoriser la mise sur le marché provisoire d’un médicament pour pallier l’absence temporaire d’un médicament identique autorisé en Suisse, s’il n’existe pas de médicament très proche autorisé et disponible en Suisse.
 
-<sup>4</sup> Après avoir déposé une demande d’autorisation pour un vaccin contre le COVID-19 et une demande d’autorisation d’exploitation au sens de l’art. 10, al. 1, let. b, de la loi du 15 décembre 2000 sur les produits thérapeutiques, le requérant peut charger une entreprise titulaire d’une autorisation d’importer ou de faire le commerce de gros d’importer le vaccin contre le COVID-19 avant même son autorisation et de le stocker jusqu’à que cette dernière soit délivrée. L’entreprise mandatée doit respecter les règles internationales de bonnes pratiques de distribution au sens de l’annexe 4 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^22-1].[^22-2]
+<sup>4</sup> Après avoir déposé une demande d’autorisation pour un vaccin contre le COVID-19 et une demande d’autorisation d’exploitation au sens de l’art. 10, al. 1, let. b, de la loi du 15 décembre 2000 sur les produits thérapeutiques, le requérant peut charger une entreprise titulaire d’une autorisation d’importer ou de faire le commerce de gros d’importer le vaccin contre le COVID-19 avant même son autorisation et de le stocker jusqu’à que cette dernière soit délivrée. L’entreprise mandatée doit respecter les règles internationales de bonnes pratiques de distribution au sens de l’annexe 4 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^22-4].[^22-5]
 
-[^22-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^22-2]: Introduit par le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^22-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 26 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^22-2]: Anciennement al. 1.
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 26 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^22-4]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^22-5]: Introduit par le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 23
 

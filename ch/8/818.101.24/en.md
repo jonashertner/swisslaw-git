@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-04-15
+version: 2021-04-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210415/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210415-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210415/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210426/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210426-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 15 April 2021)
+of 19 June 2020 (Status as of 26 April 2021)
 
 The Swiss Federal Council,
 
@@ -273,16 +273,21 @@ The Confederation may sell the essential medical goods on the market in return f
 
 **Exceptions to the provisions on the import of medicinal products**
 
-<sup>1</sup> Pharmacists that have pharmaceutical responsibility in a hospital pharmacy may import non-authorised medicinal products with active substances under Annex 5 for the treatment of COVID-19 patients. A company with a wholesale or import licence may be instructed to import such medicinal products.
+<sup>1</sup> Following the submission of a authorisation application for a medicinal product containing active substances listed in Annex 5 for the treatment of Covid 19 patients, the applicant may import the medicinal product prior to its authorisation or entrust the import of the medicinal product to a company with a wholesale or import licence.[^22-1]
 
-<sup>2</sup> Notice of the import must be given to Swissmedic within 10 days of the arrival of goods.
+<sup>1bis</sup> Pharmacists that have pharmaceutical responsibility in a hospital pharmacy may import non-authorised medicinal products with active substances under Annex 5 for the treatment of COVID-19 patients. A company with a wholesale or import licence may be instructed to import such medicinal products.[^22-2]
+
+<sup>2</sup> Notice of each import under paragraph 1<sup>bis</sup> must be given to Swissmedic within 10 days of the arrival of goods.[^22-3]
 
 <sup>3</sup> In order to prevent and treat COVID-19 in Switzerland, Swissmedic may allow the temporary placing on the market of a medicinal product as a short-term solution for the temporary non-availability of an identical medicinal product authorised in Switzerland, provided no essentially identical medicinal product is authorised and available in Switzerland.
 
-<sup>4</sup> After submitting its application for authorisation for a COVID-19 vaccine and for an operating licence under Article 10 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000, the applicant may instruct a company with a wholesale or import licence to import the COVID-19 vaccine before its authorisation and to store the vaccine until authorisation is granted. The company instructed must comply with the international rules on good distribution practice in accordance with Annex 4 of the Medicinal Products Licensing Ordinance of 14 November 2018[^22-1].[^22-2]
+<sup>4</sup> After submitting its application for authorisation for a COVID-19 vaccine and for an operating licence under Article 10 paragraph 1 letter b of the Therapeutic Products Act of 15 December 2000, the applicant may instruct a company with a wholesale or import licence to import the COVID-19 vaccine before its authorisation and to store the vaccine until authorisation is granted. The company instructed must comply with the international rules on good distribution practice in accordance with Annex 4 of the Medicinal Products Licensing Ordinance of 14 November 2018[^22-4].[^22-5]
 
-[^22-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^22-2]: Inserted by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^22-1]: Inserted by No I of the O of 12 May 2021, in force since 26 April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^22-2]: Originally para. 1.
+[^22-3]: Amended by No I of the O of 12 May 2021, in force since 26 April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^22-4]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^22-5]: Inserted by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 23
 
