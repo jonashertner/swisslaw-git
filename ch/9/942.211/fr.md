@@ -4,11 +4,11 @@ title: "Ordonnance du 11 décembre 1978 sur l'indication des prix (OIP)"
 short: OIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: fr
-version: 2021-01-01
+version: 2021-04-27
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210427/fr/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210427-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210101/fr"
 
 (OIP)**[^t-1]**
 
-du 11 décembre 1978 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 décembre 1978 (Etat le 27 avril 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1987, en vigueur depuis le 1<sup>er</sup> mars 1988 ([RO 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -403,7 +403,7 @@ Le vendeur peut indiquer un prix comparatif en sus du prix à payer effectivemen
 <sup>5</sup> Il n’est licite de donner des prix de catalogue, des prix indicatifs, etc. à titre de prix comparatifs que si les conditions mentionnées à l’al. 1, let. c, sont remplies.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 1999, en vigueur depuis le 1<sup>er</sup> nov. 1999 ([RO 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^16-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Erratum le 27 avr. 2021, ne concerne que le texte italien ([RO 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
 
 #### Art. 17
 
@@ -472,7 +472,7 @@ Les infractions à la présente ordonnance sont poursuivies conformément aux di
 <sup>3</sup> Le SECO peut mener avec les branches entrant en considération et avec les organisations intéressées des pourparlers relatifs à l’indication des prix.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
-[^23-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^23-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 24
 

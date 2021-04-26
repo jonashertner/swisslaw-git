@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 dicembre 1978 sull'indicazione dei prezzi (OIP)"
 short: OIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: it
-version: 2021-01-01
+version: 2021-04-27
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210427/it/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210427-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210101/it"
 
 (OIP)**[^t-1]**
 
-dell’11 dicembre 1978 (Stato 1° gennaio 2021)
+dell’11 dicembre 1978 (Stato 27 aprile 2021) (Stato 27 aprile 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -394,7 +394,7 @@ Oltre al prezzo pagabile effettivamente il fornitore può indicare un prezzo com
 - b. effettivamente offrirà la merce o la prestazione di servizio a questo prezzo con effetto immediato (prezzo di lancio); o
 - c. altri fornitori offrono effettivamente a questo prezzo una parte preponderante delle merci o delle prestazioni di servizi identiche nel settore del mercato che entra in considerazione (confronto con la concorrenza).
 
-<sup>2</sup> In caso di prezzo di lancio o di confronto con la concorrenza, dall’annuncio deve risultare di quale tipo di comparazione dei prezzi si tratta. Su domanda, il fornitore deve poter comprovare l’adempimento delle condizioni giustificanti l’indicazione di prezzi comparativi secondo il capoverso 1.[^16-2]
+<sup>2</sup> In caso di prezzo di lancio o di confronto con la concorrenza, dall’annuncio deve risultare di quale tipo di comparazione dei prezzi si tratta. Su domanda, il fornitore deve rendere verosimile l’adempimento delle condizioni giustificanti l’indicazione di prezzi comparativi secondo il capoverso 1.[^16-2]
 
 <sup>3</sup> Il prezzo comparativo secondo il capoverso 1 lettere a e b può essere indicato durante la metà del periodo in cui è stato o sarà praticato, ma al massimo durante due mesi.
 
@@ -403,7 +403,7 @@ Oltre al prezzo pagabile effettivamente il fornitore può indicare un prezzo com
 <sup>5</sup> È lecito fornire prezzi di catalogo, prezzi indicativi e simili a titolo di prezzi comparativi soltanto se sono adempiute le condizioni di cui al capoverso 1 lettera c.
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 28 apr. 1999, in vigore dal 1° nov. 1999 ([RU 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Correzione del 27 apr. 2021 ([RU 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
 
 #### Art. 17
 
@@ -478,7 +478,7 @@ Le infrazioni alla presente ordinanza sono perseguite conformemente alle disposi
 
 **Modificazione**
 
-... [^24-1]
+...[^24-1]
 
 [^24-1]: Le mod. possono essere consultate alla [RU 1978 2081](https://fedlex.data.admin.ch/eli/oc/1978/2081_2081_2081).
 

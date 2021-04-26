@@ -4,11 +4,11 @@ title: "Verordnung vom 11. Dezember 1978 über die Bekanntgabe von Preisen (Prei
 short: PBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: de
-version: 2021-01-01
+version: 2021-04-27
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210427/de/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210427-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210101/de"
 
 (Preisbekanntgabeverordnung, PBV)**[^t-1]**
 
-vom 11. Dezember 1978 (Stand am 1. Januar 2021)
+vom 11. Dezember 1978 (Stand am 27. April 2021)
 
 [^t-1]: Abkürzung gemäss Ziff. I der V vom 14. Dez. 1987, in Kraft seit 1. März 1988 ([AS 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -223,7 +223,7 @@ Für Dienstleistungen in den folgenden Bereichen sind die tatsächlich zu bezahl
 
 <sup>1</sup> Preisanschläge, Preislisten, Kataloge usw. müssen leicht zugänglich und gut lesbar sein.
 
-<sup>1bis</sup> …[^11-1]
+<sup>1bis</sup> ...[^11-1]
 
 <sup>2</sup> Aus der Bekanntgabe muss hervorgehen, auf welche Art und Einheit der Dienstleistung oder auf welche Verrechnungssätze sich der Preis bezieht.
 
@@ -334,7 +334,7 @@ Neben dem tatsächlich zu bezahlenden Preis ist mindestens der eigentliche Flugp
 
 <sup>1</sup> Werden in der Werbung Preise aufgeführt oder bezifferte Hinweise auf Preisrahmen oder Preisgrenzen gemacht, so sind die tatsächlich zu bezahlenden Preise bekanntzugeben.
 
-<sup>1bis</sup> …[^13-2]
+<sup>1bis</sup> ...[^13-2]
 
 <sup>2</sup> Hersteller, Importeure und Grossisten können Richtpreise bekanntgeben.[^13-3]
 
@@ -352,7 +352,7 @@ Neben dem tatsächlich zu bezahlenden Preis ist mindestens der eigentliche Flugp
 
 <sup>3</sup> Die Preisinformationen müssen mindestens in der Schriftgrösse der beworbenen Nummer, gut sichtbar und deutlich lesbar in unmittelbarer Nähe der beworbenen Nummer angegeben werden.[^13a-2]
 
-<sup>4</sup> …[^13a-3]
+<sup>4</sup> ...[^13a-3]
 
 [^13a-1]: Eingefügt durch Ziff. II der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^13a-2]: Fassung gemäss Ziff. II der V vom 5. Nov. 2014, in Kraft seit 1. Juli 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
@@ -403,7 +403,7 @@ Neben dem tatsächlich zu bezahlenden Preis darf der Anbieter einen Vergleichspr
 <sup>5</sup> Katalog-, Richtpreise und dergleichen sind nur dann als Vergleichspreise zulässig, wenn die Voraussetzungen nach Absatz 1 Buchstabe c erfüllt sind.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 28. April 1999, in Kraft seit 1. Nov. 1999 ([AS 1999 1637](https://fedlex.data.admin.ch/eli/oc/1999/248)).
-[^16-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 (AS **2011** 49591).
+[^16-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)). Die Berichtigung vom 27. April 2021 betrifft nur den italienischen Text ([AS 2021 245](https://fedlex.data.admin.ch/eli/oc/2021/245)).
 
 #### Art. 17
 
@@ -479,7 +479,7 @@ Widerhandlungen gegen diese Verordnung werden nach den Bestimmungen des Bundesge
 
 **Änderung bisherigen Rechts**
 
-…[^24-1]
+...[^24-1]
 
 [^24-1]: Die Änderungen können unter [AS 1978 2081](https://fedlex.data.admin.ch/eli/oc/1978/2081_2081_2081)konsultiert werden.
 
