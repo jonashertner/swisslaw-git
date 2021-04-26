@@ -1,0 +1,120 @@
+---
+status: Vernehmlassung
+title: Modification d’ordonnances relevant de l’Office fédéral de l’énergie (OFEN) avec entrée en vigueur le 1er janvier 2022
+document: Projet mis en consultation OSPEX
+language: fr
+opened: 2021-04-27
+closes: 2021-08-13
+affects: ["734.27", "732.17", "734.26", "734.6", "730.01", "730.010.1", "730.02", "730.03"]
+consultation: dl/proj/2021/53/cons_1
+url: "https://www.fedlex.admin.ch/eli/dl/proj/2021/53/cons_1/fr"
+text: pdf
+---
+
+> Projet mis en consultation, pas du droit en vigueur. Reproduction non officielle du PDF publié sur Fedlex ; le texte en est extrait, la structure déduite de la mise en page.
+
+# Ordonnance sur les appareils et les systèmes de protection destinés à être utilisés en atmosphères explosibles
+
+(OSPEX)
+
+Modification du …
+
+Le Conseil fédéral suisse arrête:
+
+I L’ordonnance du 25 novembre 2015 sur les appareils et les systèmes de protection destinés à être utilisés en atmosphères explosibles[^t-1] est modifiée comme suit:
+
+[^t-1]: RS 734.6
+
+#### Art. 2
+
+**, al. 1, let. b<sup>bis</sup> à c**
+
+<sup>1</sup> Dans la présente ordonnance, on entend par:
+
+b<sup>bis</sup>. fabricant: toute personne physique ou morale qui fabrique ou fait concevoir ou fabriquer un produit et met sur le marché ce produit sous son propre nom ou sa propre marque;
+
+b<sup>ter</sup>. mandataire: toute personne physique ou morale établie en Suisse ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
+
+b<sup>quater</sup>. importateur: toute personne physique ou morale établie en Suisse qui effectue la mise sur le marché suisse d’un produit provenant de l’étranger; b<sup>quinquies</sup>. distributeur: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un produit à disposition sur le marché;
+
+b<sup>sexies</sup>. prestataire de services d’exécution des commandes: toute personne physique ou morale qui propose, dans le cadre d’une activité commerciale, au moins deux des services suivants: entreposage, conditionnement, étiquetage et expédition, sans être propriétaire des produits concernés, à l’exclusion des services postaux au sens de l’art. 2,
+
+**«%ASFF\_YYYY\_ID»**
+
+2021-… let. a, de la loi du 17 décembre 2010 sur la poste[^2-1] et de tout autre service de transport de marchandises;
+
+b<sup>septies</sup>. prestataire de services de la société de l’information: toute personne physique ou morale qui fournit en général contre rémunération un service sur Internet et à la demande individuelle d’un destinataire de services;
+
+- c. opérateurs économiques: le fabricant, le mandataire, l’importateur, le distributeur ou le prestataire de services d’exécution des commandes.
+
+[^2-1]: RS 783.0
+
+#### Art. 5
+
+**, al. 2<sup>bis</sup>**
+
+<sup>2bis</sup> Si le fabricant n’est pas établi en Suisse, qu’il n’a pas désigné de mandataire et qu’il n’y a pas d’importateur, le nom, la raison sociale ou la marque déposée ainsi que les coordonnées du prestataire de services d’exécution des commandes doivent également figurer sur le produit, ou si cela n’est pas possible, sur son emballage ou dans la documentation d’accompagnement.
+
+#### Art. 7
+
+**, al. 1<sup>bis</sup> et 5**
+
+<sup>1bis</sup> Le prestataire de services d’exécution des commandes est soumis aux obligations visées à l’al. 1:
+
+- a. si le fabricant n’est pas établi en Suisse et qu’il n’a pas désigné de mandataire, et
+
+- b. s’il n’y a pas d’importateur.
+
+<sup>5</sup> La déclaration de conformité doit être mise à jour en continu.
+
+#### Art. 9
+
+**, al. 4**
+
+<sup>4</sup> Le prestataire de services d’exécution des commandes est soumis aux obligations visées à l’al. 3:
+
+- a. si le fabricant n’est pas établi en Suisse et qu’il n’a pas désigné de mandataire, et
+
+- b. s’il n’y a pas d’importateur.
+
+#### Art. 17
+
+**, al. 5 et 6**
+
+<sup>5</sup> Les opérateurs économiques sont tenus de coopérer avec les organes d’exécution dans la mise en œuvre de mesures susceptibles d’éliminer ou de réduire les risques présentés par les produits que ces opérateurs ont mis à disposition sur le marché. Cette obligation incombe également au mandataire pour les produits relevant de son mandat.
+
+<sup>6</sup> Sur demande d’un organe d’exécution, les prestataires de services de la société de l’information sont tenus de coopérer avec lui dans la mise en œuvre de mesures susceptibles d’éliminer ou de réduire les risques présentés par les produits qui ont ou ont été proposés à la vente en ligne par l’intermédiaire de leurs services.
+
+#### Art. 18
+
+**, al. 4**
+
+<sup>4</sup> Si le fabricant n’est pas établi en Suisse, qu’il n’a pas désigné de mandataire et qu’il n’y a pas d’importateur, le prestataire de services d’exécution des commandes informe sans tarder l’organe d’exécution des défauts constatés et des mesures prises, pour autant que les risques l’exigent.
+
+#### Art. 19
+
+**, al. 5**
+
+<sup>5</sup> Lorsqu’il n’existe pas d’autre moyen pour éliminer un risque grave, l’organe d’exécution est en outre habilité à ordonner à l’opérateur économique ou au prestataire de services de la société de l’information de retirer le contenu d’une interface en ligne qui mentionne le produit concerné.
+
+Art. 20, al. 1<sup>bis</sup> et 4
+
+<sup>1bis</sup> Les organes d’exécution peuvent informer la population de la non-conformité technique d’un produit, notamment lorsqu’il n’est pas possible d’identifier tous les opérateurs économiques ou que ceux-ci sont trop nombreux. Ils peuvent publier en particulier les informations suivantes:
+
+- a. les informations permettant son identification, notamment le fabricant, la marque et le type;
+
+- b. l’usage auquel le produit est destiné;
+
+- c. des photographies du produit et de son emballage;
+
+- d. la date de la décision de non-conformité;
+
+- e. les mesures prises.
+
+<sup>4</sup> Ils peuvent participer à des bases de données internationales d’échanges d’informations entre autorités de surveillance du marché et y saisir les informations mentionnées à l’al. 1<sup>bis</sup>.
+
+II La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2022.
+
+Au nom du Conseil fédéral suisse:
+
+… Le président de la Confédération, Guy Parmelin Le chancelier de la Confédération, Walter Thurnherr
