@@ -4,11 +4,11 @@ title: Verordnung des BLW vom 26. November 2003 über Investitionshilfen und soz
 short: IBLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/782"
 language: de
-version: 2021-01-01
+version: 2021-04-27
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/782/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2003-782-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/782/20210427/de/xml/fedlex-data-admin-ch-eli-cc-2003-782-20210427-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210427/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210101/de"
 
 (IBLV)
 
-vom 26. November 2003 (Stand am 1. Januar 2021)
+vom 26. November 2003 (Stand am 27. April 2021)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -169,7 +169,7 @@ Beiträge werden insbesondere gewährt an die Kosten für:
 
 [^sec3b-1]: Eingefügt durch Ziff. I der V des BLW vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)).
 
-**Art. 7**c
+#### Art. 7c
 
 In Anhang 4*a* sind festgelegt:
 
@@ -353,7 +353,7 @@ Anhang 4*[^t-3]*
 
 ## Abstufung der Investitionshilfen und zu unterstützende Massnahmen
 
-[^t-3]: Fassung gemäss Ziff. II der V des BLW vom 14. Nov. 2007 ([AS 2007 6201](https://fedlex.data.admin.ch/eli/oc/2007/825)). Bereinigt gemäss Ziff. I Abs. 2 der V des BLW vom 25. Mai 2011 ([AS 2011 2391](https://fedlex.data.admin.ch/eli/oc/2011/343)), Ziff. II Abs. 2 der V des BLW vom 23. Okt. 2013 ([AS 2013 3919](https://fedlex.data.admin.ch/eli/oc/2013/717)), vom 28. Okt. 2015 ([AS 2015 4531](https://fedlex.data.admin.ch/eli/oc/2015/757)), Ziff. II der V des BLW vom 18. Okt. 2017 ([AS 2017 6411](https://fedlex.data.admin.ch/eli/oc/2017/707)), vom 31. Okt. 2018 ([AS 2018 4417](https://fedlex.data.admin.ch/eli/oc/2018/704)) und Ziff. II Abs. 1 der V des BLW vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)).
+[^t-3]: Fassung gemäss Ziff. II der V des BLW vom 14. Nov. 2007 ([AS 2007 6201](https://fedlex.data.admin.ch/eli/oc/2007/825)). Bereinigt gemäss Ziff. I Abs. 2 der V des BLW vom 25. Mai 2011 ([AS 2011 2391](https://fedlex.data.admin.ch/eli/oc/2011/343)), Ziff. II Abs. 2 der V des BLW vom 23. Okt. 2013 ([AS 2013 3919](https://fedlex.data.admin.ch/eli/oc/2013/717)), vom 28. Okt. 2015 ([AS 2015 4531](https://fedlex.data.admin.ch/eli/oc/2015/757)), Ziff. II der V des BLW vom 18. Okt. 2017 ([AS 2017 6411](https://fedlex.data.admin.ch/eli/oc/2017/707)), vom 31. Okt. 2018 ([AS 2018 4417](https://fedlex.data.admin.ch/eli/oc/2018/704)) und Ziff. II Abs. 1 der V des BLW vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)). Die Berichtigung vom 27. April 2021 betrifft nur den französischen und italienischen Text ([AS 2021 244](https://fedlex.data.admin.ch/eli/oc/2021/244)).
 
 ### I. I Investitionskredite für die Starthilfe
 

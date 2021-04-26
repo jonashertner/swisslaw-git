@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFAG del 26 novembre 2003 concernente gli aiuti agli inve
 short: OIMSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/782"
 language: it
-version: 2021-01-01
+version: 2021-04-27
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/782/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2003-782-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/782/20210427/it/xml/fedlex-data-admin-ch-eli-cc-2003-782-20210427-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210427/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210101/it"
 
 (OIMSC)
 
-del 26 novembre 2003 (Stato 1° gennaio 2021)
+del 26 novembre 2003 (Stato 27 aprile 2021)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -351,7 +351,7 @@ Allegato 4*[^t-3]*
 
 ## Graduazione degli aiuti agli investimenti e provvedimenti da sostenere
 
-[^t-3]: Nuovo testo giusta il n. II dell’O c del 14 nov. 2007 ([RU 2007 6201](https://fedlex.data.admin.ch/eli/oc/2007/825)). Aggiornato dal n. I cpv. 2 dell’O dell’UFAG del 25 mag. 2011 ([RU 2011 2391](https://fedlex.data.admin.ch/eli/oc/2011/343)), dai n. II cpv. 2 delle O dell’UFAG del 23 ott. 2013 ([RU 2013 3919](https://fedlex.data.admin.ch/eli/oc/2013/717)), del 28 ott. 2015 ([RU 2015 4531](https://fedlex.data.admin.ch/eli/oc/2015/757)), dai n. II delle O dell’UFAG del 18 ott. 2017 ([RU 2017 6411](https://fedlex.data.admin.ch/eli/oc/2017/707)), del 31 ott. 2018 ([RU 2018 4417](https://fedlex.data.admin.ch/eli/oc/2018/704)) e dal n. II cpv. 1 dell’O dell’UFAG dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)).
+[^t-3]: Nuovo testo giusta il n. II dell’O c del 14 nov. 2007 ([RU 2007 6201](https://fedlex.data.admin.ch/eli/oc/2007/825)). Aggiornato dal n. I cpv. 2 dell’O dell’UFAG del 25 mag. 2011 ([RU 2011 2391](https://fedlex.data.admin.ch/eli/oc/2011/343)), dai n. II cpv. 2 delle O dell’UFAG del 23 ott. 2013 ([RU 2013 3919](https://fedlex.data.admin.ch/eli/oc/2013/717)), del 28 ott. 2015 ([RU 2015 4531](https://fedlex.data.admin.ch/eli/oc/2015/757)), dai n. II delle O dell’UFAG del 18 ott. 2017 ([RU 2017 6411](https://fedlex.data.admin.ch/eli/oc/2017/707)), del 31 ott. 2018 ([RU 2018 4417](https://fedlex.data.admin.ch/eli/oc/2018/704)) e dal n. II cpv. 1 dell’O dell’UFAG dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)). Correzione del 27 apr. 2021 ([RU 2021 244](https://fedlex.data.admin.ch/eli/oc/2021/244)).
 
 ### I. C Crediti d’investimento per l’aiuto iniziale
 
@@ -476,7 +476,7 @@ Disposizioni comuni per i contributi e i crediti d’investimento
 <tr><td>Mangiatoie rialzate per UBG</td><td>franchi</td><td>70</td><td>70</td></tr>
 <tr><td>Impianti di depurazione dell’aria di scarico</td><td>per cento</td><td>25</td><td>50</td></tr>
 <tr><td>Impianti di acidificazione del liquame</td><td>per cento</td><td>25</td><td>50</td></tr>
-<tr><td>Copertura di fosse per liquame esistenti</td><td>franchi</td><td>30</td><td>–</td></tr>
+<tr><td>Copertura di fosse per liquame esistenti per m<sup>2</sup></td><td>franchi</td><td>30</td><td>–</td></tr>
 </table>
 
 I requisiti per la realizzazione tecnico-edilizia e per il funzionamento degli impianti vanno applicati secondo le indicazioni del servizio cantonale specializzato per la protezione dell’aria.

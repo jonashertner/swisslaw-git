@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFAG du 26 novembre 2003 sur les aides à l'investisseme
 short: OIMAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/782"
 language: fr
-version: 2021-01-01
+version: 2021-04-27
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/782/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-782-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/782/20210427/fr/xml/fedlex-data-admin-ch-eli-cc-2003-782-20210427-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210427/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/782/20210101/fr"
 
 (OIMAS)
 
-du 26 novembre 2003 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 novembre 2003 (Etat le 27 avril 2021)
 
 L’Office fédéral de l’agriculture (OFAG),
 
@@ -72,7 +72,12 @@ En ce qui concerne les mesures individuelles, lorsque la surface agricole utile 
 
 <sup>2</sup> La surface agricole utile des exploitations comprenant traditionnellement plusieurs échelons d’exploitation, située à plus 15 km de distance par la route du centre d’exploitation, ne peut être prise en compte que dans les régions où l’exploitation à plusieurs échelons est traditionnellement pratiquée.[^4-2]
 
-**Art. 5***[^4-3]* Échelonnement des aides à l’investissement et mesures à soutenir
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6201](https://fedlex.data.admin.ch/eli/oc/2007/825)).
+[^4-2]: Introduit par le ch. I de l’O de l’OFAG du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3919](https://fedlex.data.admin.ch/eli/oc/2013/717)).
+
+#### Art. 5
+
+**Échelonnement des aides à l’investissement et mesures à soutenir**[^5-1]
 
 L’annexe 4 définit:
 
@@ -84,9 +89,7 @@ L’annexe 4 définit:
 - f. les mesures de construction et les installations à soutenir contribuant à réaliser les objectifs relevant de la protection de l’environnement et à remplir les exigences de la protection du patrimoine et du paysage, ainsi que les taux de contributions pour ces mesures et installations;
 - g. les mesures et installations visées à la let. f pour lesquelles un supplément temporaire est octroyé, ainsi que les délais et le montant du supplément.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6201](https://fedlex.data.admin.ch/eli/oc/2007/825)).
-[^4-2]: Introduit par le ch. I de l’O de l’OFAG du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3919](https://fedlex.data.admin.ch/eli/oc/2013/717)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)).
 
 #### Art. 6
 
@@ -166,7 +169,7 @@ Des contributions sont octroyées notamment pour les frais liés:
 
 [^sec3b-1]: Introduite par le ch. I de l’O de l’OFAG du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)).
 
-**Art. 7**c
+#### Art. 7c
 
 L’annexe 4*a* définit:
 
@@ -348,7 +351,7 @@ Annexe 4*[^t-3]*
 
 ## Échelonnement des aides à l’investissement et mesures à soutenir
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFAG du 14 nov. 2007 ([RO 2007 6201](https://fedlex.data.admin.ch/eli/oc/2007/825)). Mise à jour selon le ch. I al. 2 de l’O de l’OFAG du 25 mai 2011 ([RO 2011 2391](https://fedlex.data.admin.ch/eli/oc/2011/343)), le ch. II al. 2 des O de l’OFAG du 23 oct. 2013 ([RO 2013 3919](https://fedlex.data.admin.ch/eli/oc/2013/717)), du 28 oct. 2015 ([RO 2015 4531](https://fedlex.data.admin.ch/eli/oc/2015/757)), le ch. II des O de l’OFAG du 18 oct. 2017 ([RO 2017 6411](https://fedlex.data.admin.ch/eli/oc/2017/707)) et du 31 oct. 2018 ([RO 2018 4417](https://fedlex.data.admin.ch/eli/oc/2018/704)) et le ch. II al. 1 de l’O de l’OFAG du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFAG du 14 nov. 2007 ([RO 2007 6201](https://fedlex.data.admin.ch/eli/oc/2007/825)). Mise à jour par le ch. I al. 2 de l’O de l’OFAG du 25 mai 2011 ([RO 2011 2391](https://fedlex.data.admin.ch/eli/oc/2011/343)), le ch. II al. 2 des O de l’OFAG du 23 oct. 2013 ([RO 2013 3919](https://fedlex.data.admin.ch/eli/oc/2013/717)), du 28 oct. 2015 ([RO 2015 4531](https://fedlex.data.admin.ch/eli/oc/2015/757)), le ch. II des O de l’OFAG du 18 oct. 2017 ([RO 2017 6411](https://fedlex.data.admin.ch/eli/oc/2017/707)) et du 31 oct. 2018 ([RO 2018 4417](https://fedlex.data.admin.ch/eli/oc/2018/704)), le ch. II al. 1 de l’O de l’OFAG du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5507](https://fedlex.data.admin.ch/eli/oc/2020/957)) et l’erratum du 27 avr. 2021 ([RO 2021 244](https://fedlex.data.admin.ch/eli/oc/2021/244)).
 
 ### I. C Crédits d’investissements alloués comme aide initiale
 
@@ -473,7 +476,7 @@ Construction de l’étable, des locaux destinés au stockage des fourrages, de 
 <tr><td>Stalles d’alimentation surélevées par UGB</td><td>Francs</td><td>70</td><td>70</td></tr>
 <tr><td>Installations d’épuration des effluents gazeux</td><td>Pour-cent</td><td>25</td><td>50</td></tr>
 <tr><td>Installations d’acidification du lisier</td><td>Pour-cent</td><td>25</td><td>50</td></tr>
-<tr><td>Couverture des fosses à purin existantes</td><td>m<sup>2</sup></td><td>30</td><td>–</td></tr>
+<tr><td>Couverture des fosses à purin existantes par m<sup>2</sup></td><td>Francs</td><td>30</td><td>–</td></tr>
 </table>
 
 Les exigences en matière de technique de construction et d’exploitation des installations doivent être remplies conformément aux indications du service cantonal de protection de l’air.
