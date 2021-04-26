@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2021-02-03
+version: 2021-04-27
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210203/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210203-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210203/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210427/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210427-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210427/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (Etat le 3 février 2021)
+du 8 juin 2012 (Etat le 27 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -577,7 +577,7 @@ Annexe 1a*[^t-1]*
 
 ## Biens soumis à autorisation
 
-[^t-1]: Introduit par le ch. II de l’O du 1<sup>er</sup> juin 2018, en vigueur depuis le 1<sup>er</sup> juin 2018, à 18 heures ([RO 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)).
+[^t-1]: Introduit par le ch. II de l’O du 1<sup>er</sup> juin 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 à 18 heures ([RO 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)). Erratum du 27 avr. 2021 ([RO 2021 246](https://fedlex.data.admin.ch/eli/oc/2021/246)).
 
 ### 1. Matières et substances chimiques
 
@@ -588,7 +588,7 @@ Annexe 1a*[^t-1]*
 <tr><td>I.C.A.003</td><td>Substances chimiques à une concentration d’au moins 95 % en poids: chlorure d’aluminium (n<sup>o</sup> CAS 7446-70-0) arsenic (n<sup>o</sup> CAS 7440-38-2) trioxyde d’arsenic (n<sup>o</sup> CAS 1327-53-3) chlorhydrate de bis(2-chloroéthyl)éthylamine (n<sup>o</sup> CAS 3590-07-6) chlorhydrate de bis(2-chloroéthyl)méthylamine (n<sup>o</sup> CAS 55-86-7) chlorhydrate de tris(2-chloroéthyl)amine (n<sup>o</sup> CAS 817-09-4)</td><td></td></tr>
 <tr><td>IX.A1.001</td><td>Substances chimiques à une concentration d’au moins 95 % en poids: phosphite de tributyle (n<sup>o</sup> CAS 102-85-2) isocyanate de méthyle (n<sup>o</sup> CAS 624-83-9) quinaldine (n<sup>o</sup> CAS 91-63-4) bromo-2-chloroéthane (n<sup>o</sup> CAS 107-04-0)</td><td></td></tr>
 <tr><td>IX.A1.002</td><td>Substances chimiques à une concentration d’au moins 95 % en poids: benzyle (n<sup>o</sup> CAS 134-81-6) diéthylamine (n<sup>o</sup> CAS 109-89-7) éther diéthylique (n<sup>o</sup> CAS 60-29-7) éther diméthilique (n<sup>o</sup> CAS 115-10-6) diméthyléthanolamine (n<sup>o</sup> CAS 108-01-0)</td><td></td></tr>
-<tr><td>IX.A1.003</td><td>Substances chimiques à une concentration d’au moins 95 % en poids: 2-méthoxyéthanol (n<sup>o</sup> CAS 109-86-4) butyrylcholinestérase (BCHE) diéthylènetriamine (n<sup>o</sup> CAS 111-40-0) dichlorométhane (n<sup>o</sup> CAS 75-09-3) diméthylaniline (n<sup>o</sup> CAS 121-69-7) bromoéthane (n<sup>o</sup> CAS 74-96-4) chloroéthane (n<sup>o</sup> CAS 75-00-3) éthylamine (n<sup>o</sup> CAS 75-04-7) hexaméthylène tétramine (n<sup>o</sup> CAS 100-97-0) bromure d’isopropyle (n<sup>o</sup> CAS 75-26-3) éther isopropylique (n<sup>o</sup> CAS 108-20-3) méthylamine (n<sup>o</sup> CAS 74-89-5) bromure de méthyle (n<sup>o</sup> CAS 74-83-9) monoisopropylamine (n<sup>o</sup> CAS 75-31-0) chlorure d’obidoxime (n<sup>o</sup> CAS 114-90-9) bromure de potassium (n<sup>o</sup> CAS 7758-02-3) pyridine (n<sup>o</sup> CAS 110-86-1) bromure de pyridostigmine (n<sup>o</sup> CAS 101-26-8) bromure de sodium (n<sup>o</sup> CAS 7647-15-6) sodium métal (n<sup>o</sup> CAS 7440-23-5) tributylamine (n<sup>o</sup> CAS 102-82-9) triéthylamine (n<sup>o</sup> CAS 121-44-8) triméthylamine (n<sup>o</sup> CAS 75-50-3)</td><td></td></tr>
+<tr><td>IX.A1.003</td><td>Substances chimiques à une concentration d’au moins 95 % en poids: 2-méthoxyéthanol (n<sup>o</sup> CAS 109-86-4) butyrylcholinestérase (BCHE) diéthylènetriamine (n<sup>o</sup> CAS 111-40-0) dichlorométhane (n<sup>o</sup> CAS 75-09-2) diméthylaniline (n<sup>o</sup> CAS 121-69-7) bromoéthane (n<sup>o</sup> CAS 74-96-4) chloroéthane (n<sup>o</sup> CAS 75-00-3) éthylamine (n<sup>o</sup> CAS 75-04-7) hexaméthylène tétramine (n<sup>o</sup> CAS 100-97-0) bromure d’isopropyle (n<sup>o</sup> CAS 75-26-3) éther isopropylique (n<sup>o</sup> CAS 108-20-3) méthylamine (n<sup>o</sup> CAS 74-89-5) bromure de méthyle (n<sup>o</sup> CAS 74-83-9) monoisopropylamine (n<sup>o</sup> CAS 75-31-0) chlorure d’obidoxime (n<sup>o</sup> CAS 114-90-9) bromure de potassium (n<sup>o</sup> CAS 7758-02-3) pyridine (n<sup>o</sup> CAS 110-86-1) bromure de pyridostigmine (n<sup>o</sup> CAS 101-26-8) bromure de sodium (n<sup>o</sup> CAS 7647-15-6) sodium métal (n<sup>o</sup> CAS 7440-23-5) tributylamine (n<sup>o</sup> CAS 102-82-9) triéthylamine (n<sup>o</sup> CAS 121-44-8) triméthylamine (n<sup>o</sup> CAS 75-50-3)</td><td></td></tr>
 <tr><td>IX.A1.004</td><td>Composés de constitution chimique définie, présentés isolément, à une concentration d’au moins 90 % en poids, sauf indication contraire: acétone (n<sup>o</sup> CAS 67-64-1) (code NC 2914 11 00) acétylène (n<sup>o</sup> CAS 74-86-2) (code NC 2901 29 00) ammoniac (n<sup>o</sup> CAS 7664-41-7) (code NC 2814 10 00) antimoine (n<sup>o</sup> CAS 7440-36-0) (position 8110) benzaldéhyde (n<sup>o</sup> CAS 100-52-7) (code NC 2912 21 00) benzoïne (n<sup>o</sup> CAS 119-53-9) (code NC 2914 40 90) 1-butanol (n<sup>o</sup> CAS 71-36-3) (code NC 2905 13 00) 2-butanol (n<sup>o</sup> CAS 78-92-2) (code NC 2905 14 90) isobutanol (n<sup>o</sup> CAS 78-83-1) (code NC 2905 14 90) tert-butanol (n<sup>o</sup> CAS 75-65-0) (code NC 2905 14 10) carbure de calcium (n<sup>o</sup> CAS 75-20-7) (code NC 2849 10 00) monoxyde de carbone (n<sup>o</sup> CAS 630-08-0) (code NC 2811 29 90) chlore (n<sup>o</sup> CAS 7782-50-5) (code NC 2801 10 00) cyclohexanol (n<sup>o</sup> CAS 108-93-0) (code NC 2906 12 00) dicyclohexylamine (n<sup>o</sup> CAS 101-83-7) (code NC 2921 30 99) éthanol (n<sup>o</sup> CAS 64-17-5) (code NC 2207 10 00) éthylène (n<sup>o</sup> CAS 74-85-1) (code NC 2901 21 00) oxyde d’éthylène (n<sup>o</sup> CAS 75-21-8) (code NC 2910 10 00) fluorapatite (n<sup>o</sup> CAS 1306-05-4) (code NC 2835 39 00) chlorure d’hydrogène (n<sup>o</sup> CAS 7647-01-0) (code NC 2806 10 00) sulfure d’hydrogène (n<sup>o</sup> CAS 7783-06-4) (code NC 2811 19 80) isopropanol, à une concentration d’au moins 95 % en poids (n<sup>o</sup> CAS 67-63-0) (code NC 2905 12 00) acide mandélique (n<sup>o</sup> CAS 90-64-2) (code NC 2918 19 98) méthanol (n<sup>o</sup> CAS 67-56-1) (code NC 2905 11 00) chlorure de méthyle (n<sup>o</sup> CAS 74-87-3) (code NC 2903 11 00) iodure de méthyle (n<sup>o</sup> CAS 74-88-4) (code NC 2903 39 90) méthyl mercaptan (n<sup>o</sup> CAS 74-93-1) (code NC 2930 90 99) monoéthylène glycol (n<sup>o</sup> CAS 107-21-1) (code NC 2905 31 00) chlorure d’oxalyle (n<sup>o</sup> CAS 79-37-8) (code NC 2917 19 90) sulfure de potassium (n<sup>o</sup> CAS 1312-73-8) (code NC 2830 90 85) thiocyanate de potassium (n<sup>o</sup> CAS 333-20-0) (code NC 2842 90 80) hypochlorite de sodium (n<sup>o</sup> CAS 7681-52-9) (code NC 2828 90 00) soufre (n<sup>o</sup> CAS 7704-34-9) (code NC 2802 00 00) dioxyde de soufre (n<sup>o</sup> CAS 7446-09-5) (code NC 2811 29 05) trioxyde de soufre (n<sup>o</sup> CAS 7446-11-9) (code NC 2811 29 10) chlorure de thiophosphoryle (n<sup>o</sup> CAS 3982-91-0) (code NC 2853 00 90) phosphite de tri-isobutyle (n<sup>o</sup> CAS 1606-96-8) (code NC 2920 90 85) phosphore blanc/jaune (n<sup>os</sup> CAS 12185-10-3 et 7723-14-0) (code NC 2804 70 00)</td><td></td></tr>
 </table>
 
@@ -670,9 +670,9 @@ N.B.: Pour décider si le ou les composant(s) interdit(s) doit/doivent être con
 
 Notes techniques:
 
-- *a)* *le «bloc obturateur de puits» est un dispositif installé en princ**i**pe en surface (ou, en cas de forage sous-marin, au fond de la mer) destiné à empêcher l’écoulement accidentel de pétrole et/ou de gaz s’échappant du puits lors du forage;*
-- *b)* *l’«arbre de Noël ou arbre de production» est un dispositif normalement ut**i**lisé pour réguler l’écoulement des fluides provenant du puits lorsqu’il est term**i**né et que la production de pétrole et/ou de gaz a commencé;*
-- *c)* *aux fins de la présente rubrique, les «spécifications API et ISO» concernées sont les spécifications 6A, 16A, 17D et 11IW de l’American Petroleum Inst**i**tute et/ou les spécifications 10423 et 13533 de l’Organisation internationale de normalisation concernant les blocs obturateurs de puits, les têtes de p**u**its et les arbres de Noël destinés à équiper les puits de pétrole et/ou de gaz.*
+- *a)* *le «bloc obturateur de puits» est un dispositif installé en principe en surface (ou, en cas de forage sous-marin, au fond de la mer) destiné à empêcher l’écoulement accidentel de pétrole et/ou de gaz s’échappant du puits lors du forage;*
+- *b)* *l’«arbre de Noël ou arbre de production» est un dispositif normalement utilisé pour réguler l’écoulement des fluides provenant du puits lorsqu’il est terminé et que la production de pétrole et/ou de gaz a commencé;*
+- *c)* *aux fins de la présente rubrique, les «spécifications API et ISO» concernées sont les spécifications 6A, 16A, 17D et 11IW de l’American Petroleum Institute et/ou les spécifications 10423 et 13533 de l’Organisation internationale de normalisation concernant les blocs obturateurs de puits, les têtes de puits et les arbres de Noël destinés à équiper les puits de pétrole et/ou de gaz.*
 
 \6. Plateformes de forage et de production de pétrole brut et de gaz naturel.
 
@@ -870,7 +870,7 @@ Annexe 5*[^t-2]*
   Équipements d’interception et de surveillance de:
 
   - *–* *IMSI (International Mobile Subscriber Identity)*: identité internationale d’abonné mobile. C’est le code d’identification unique de chaque appareil téléphonique mobile, qui est intégré dans la carte SIM et permet d’identifier celle-ci via les réseaux GSM et UMTS.
-  - *–* *MSISDN (Mobile Subscriber Integrated Services Digital Network Nu**m**ber):* numéro de réseau numérique à intégration de services de l’abonné mobile. C’est un numéro identifiant de façon unique un abonnement à un réseau mobile GSM ou UMTS. Pour simplifier, c’est le numéro de téléphone attribué à la carte SIM d’un téléphone mobile, qui identifie donc un abonné mobile aussi bien que l’IMSI, mais dont le but est de permettre l’acheminement des appels.
+  - *–* *MSISDN (Mobile Subscriber Integrated Services Digital Network Number):* numéro de réseau numérique à intégration de services de l’abonné mobile. C’est un numéro identifiant de façon unique un abonnement à un réseau mobile GSM ou UMTS. Pour simplifier, c’est le numéro de téléphone attribué à la carte SIM d’un téléphone mobile, qui identifie donc un abonné mobile aussi bien que l’IMSI, mais dont le but est de permettre l’acheminement des appels.
   - – *IMEI (International Mobile Equipment Identity)*: identité internationale de l’équipement mobile. C’est un numéro, d’ordinaire unique, permettant d’identifier les téléphones mobiles GSM, WCDMA et IDEN, ainsi que certains téléphones satellitaires. Il est généralement imprimé à l’intérieur du compartiment de la batterie du téléphone. L’interception (écoute téléphonique) peut être spécifiée au moyen du numéro IMEI, ainsi que par l’IMSI et le MSISDN.
   - – *TMSI (Temporary Mobile Subscriber Identity)*: identité temporaire d’abonné mobile. C’est l’identité qui est la plus communément transmise entre le téléphone mobile et le réseau.
 

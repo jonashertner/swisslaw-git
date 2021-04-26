@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2021-02-03
+version: 2021-04-27
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210203/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210203-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210203/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210427/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210427-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210427/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 3 febbraio 2021) (Stato 3 febbraio 2021)
+dell’8 giugno 2012 (Stato 27 aprile 2021) (Stato 27 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -579,7 +579,7 @@ Allegato 1a*[^t-1]*
 
 ## Obbligo di autorizzazione per determinati beni
 
-[^t-1]: Introdotto dal n. II dell’O del 1° giu. 2018, in vigore il 1° giu. 2018 alle ore 18.00 ([RU 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)).
+[^t-1]: Introdotto dal n. II dell’O del 1° giu. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)). Correzione del 27 apr. 2021 ([RU 2021 246](https://fedlex.data.admin.ch/eli/oc/2021/246)).
 
 ### 1. Materiali e prodotti chimici
 
@@ -590,7 +590,7 @@ Allegato 1a*[^t-1]*
 <tr><td>I.C.A.003</td><td>Sostanze chimiche concentrate almeno al 95 %: alluminio cloruro (CAS 7446-70-0) arsenico (CAS 7440-38-2) triossido di arsenico (CAS 1327-53-3) bis(2-cloroetil)ammina, cloridrato (CAS 3590-07-6) bis(2-clorometil)ammina, cloridrato (CAS 55-86-7) tris(2-cloroetil)ammina, cloridrato (CAS 817-09-4)</td><td></td></tr>
 <tr><td>IX.A1.001</td><td>Sostanze chimiche concentrate almeno al 95 %: tributil fosfato (CAS 102-85-2) isocianato di metile (CAS 624-83-9) chinaldina (CAS 91-63-4) 1-bromo-2-cloroetano (CAS 107-04-0)</td><td></td></tr>
 <tr><td>IX.A1.002</td><td>Sostanze chimiche concentrate almeno al 95 %: benzile (CAS 134-81-6) dietilammina (CAS 109-89-7) etere etilico (CAS 60-29-7) dimetiletere (CAS 115-10-6) dimetilamminoetanolo (CAS 108-01-0)</td><td></td></tr>
-<tr><td>IX.A1.003</td><td>Sostanze chimiche concentrate almeno al 95 %: 2-metossietanolo (CAS 109-86-4) butiril-colinesterasi (BCHE) dietilentriammina (CAS 111-40-0) diclorometano (CAS 75-09-3) dimetilanilina (CAS 121-69-7) bromoetano (CAS 74-96-4) cloruro di etile (CAS 75-00-3) etilammina (CAS 75.04.7) esammina (CAS 100-97-0) 2-bromopropano (CAS 75-26-3) ossido di isopropile (CAS 108-20-3) metilammina (CAS 74-89-5) bromometano (CAS 74-83-9) monoisopropilammina (CAS 75-31-0) cloruro di obidossina (CAS 114-90-9) bromuro di potassio (CAS 7758-02-3) piridina (CAS 110-86-1) bromuro di piridostigmina (CAS 101-26-8) bromuro di sodio (CAS 7647-15-6) sodio metallico (CAS 7440-23-5) tributilammina (CAS 102-82-9) trietilammina (CAS 121-44-8) trimetilammina (CAS 75-50-3)</td><td></td></tr>
+<tr><td>IX.A1.003</td><td>Sostanze chimiche concentrate almeno al 95 %: 2-metossietanolo (CAS 109-86-4) butiril-colinesterasi (BCHE) dietilentriammina (CAS 111-40-0) diclorometano (CAS 75-09-2) dimetilanilina (CAS 121-69-7) bromoetano (CAS 74-96-4) cloruro di etile (CAS 75-00-3) etilammina (CAS 75.04.7) esammina (CAS 100-97-0) 2-bromopropano (CAS 75-26-3) ossido di isopropile (CAS 108-20-3) metilammina (CAS 74-89-5) bromometano (CAS 74-83-9) monoisopropilammina (CAS 75-31-0) cloruro di obidossina (CAS 114-90-9) bromuro di potassio (CAS 7758-02-3) piridina (CAS 110-86-1) bromuro di piridostigmina (CAS 101-26-8) bromuro di sodio (CAS 7647-15-6) sodio metallico (CAS 7440-23-5) tributilammina (CAS 102-82-9) trietilammina (CAS 121-44-8) trimetilammina (CAS 75-50-3)</td><td></td></tr>
 <tr><td>IX.A1.004</td><td>Composti di costituzione chimica definita presentati isolatamente concentrati almeno al 90 %, salva diversa indicazione: acetone (CAS 67-64-1) (Codice NC 2914 11 00) acetilene (CAS 74-86-2) (Codice NC 2901 29 00) ammoniaca (CAS 7664-41-7) (Codice NC 2814 10 00) antimonio (CAS 7440-36-0) (voce 8110) benzaldeide (aldeide benzoica) (CAS 100-52-7) (Codice NC 2912 21 00) benzoina (CAS 119-53-9) (Codice NC 2914 40 90) 1-Butanolo (CAS 71-36-3) (Codice NC 2905 13 00) 2-Butanolo (CAS 78-92-2) (Codice NC 2905 14 90) isobutanolo (CAS 78-83-1) (Codice NC 2905 14 90) t-butanolo (CAS 75-65-0) (Codice NC 2905 14 10) carburo di calcio (CAS 75-20-7) (Codice NC 2849 10 00) ossido di carbonio (CAS 630-08-0) (Codice NC 2811 29 90) cloro (CAS 7782-50-5) (Codice NC 2801 10 00) cicloesanolo (CAS 108-93-0) (Codice NC 2906 12 00) dicicloesilammina (DCA) (CAS 101-83-7) (Codice NC 2921 30 99) etanolo (CAS 64-17-5) (Codice NC 2207 10 00) etilene (CAS 74-85-1) (Codice NC 2901 21 00) ossido di etilene (CAS 75-21-8) (Codice NC 2910 10 00) fluoroapatite (CAS 1306-05-4) (Codice NC 2835 39 00) acido cloridrico (CAS 7647-01-0) (Codice NC 2806 10 00) acido solfidrico (CAS 7783-06-4) (Codice NC 2811 19 80) isopropanolo, concentrato almeno al 95 % (CAS 67-63-0) (Codice NC 2905 12 00) acido mandelico (CAS 90-64-2) (Codice NC 2918 19 98) metanolo (CAS 67-56-1) (Codice NC 2905 11 00) cloruro di metile (CAS 74-87-3) (Codice NC 2903 11 00) ioduro di metile (CAS 74-88-4) (Codice NC 2903 39 90) metilmercaptano (CAS 74-93-1) (Codice NC 2930 90 99) monoetilenglicole (CAS 107-21-1) (Codice NC 2905 31 00) cloruro di ossalile (CAS 79-37-8) (Codice NC 2917 19 90) solfuro di potassio (CAS 1312-73-8) (Codice NC 2830 90 85) tiocianato di potassio (KSCN) (CAS 333-20-0) (Codice NC 2842 90 80) ipoclorito di sodio (CAS 7681-52-9) (Codice NC 2828 90 00) zolfo (CAS 7704-34-9) (Codice NC 2802 00 00) diossido di zolfo (CAS 7446-09-5) (Codice NC 2811 29 05) triossido di zolfo (CAS 7446-11-9) (Codice NC 2811 29 10) cloruro di dimetitiofosforile (CAS 3982-91-0) (Codice NC 2853 00 90) fosfato di tri-isobutile (CAS 1606-96-8) (Codice NC 2920 90 85) fosforo bianco/giallo (CAS 12185-10-3, 7723-14-0) (Codice NC 2804 70 00)</td><td></td></tr>
 </table>
 
@@ -674,7 +674,7 @@ Note tecniche:
 
 - *a)* *Il blowout preventer è un dispositivo utilizzato di norma a livello del suolo (o, in caso di perforazione sottomarina, sul fondo marino) per impedire una fuga incontrollata di petrolio e/o gas dal pozzo durante la perforazione.*
 - *b)* *L’albero di Natale o croce di produzione è un dispositivo utilizzato di norma per controllare il flusso di fluidi dal pozzo dopo il completamento e quando comincia la produzione di petrolio e/o di gas naturale.*
-- *c)* *Ai fini della presente voce, le specifiche API e ISO si riferiscono alle specif**i**che 6A, 16A, 17D e 11IW dell’American Petroleum Institute e/o alle specif**i**che 10423 e 13533 dell’Organizzazione internazionale per la standardizz**a**zione (ISO) relative ai blowout preventer, alle teste di pozzo e alle croci di produzione per l’utilizzazione nei pozzi di petrolio e/o gas naturale.*
+- *c)* *Ai fini della presente voce, le specifiche API e ISO si riferiscono alle specifiche 6A, 16A, 17D e 11IW dell’American Petroleum Institute e/o alle specifiche 10423 e 13533 dell’Organizzazione internazionale per la standardizzazione (ISO) relative ai blowout preventer, alle teste di pozzo e alle croci di produzione per l’utilizzazione nei pozzi di petrolio e/o gas naturale.*
 
 \6. Piattaforme di perforazione e di produzione per greggio e gas naturale.
 

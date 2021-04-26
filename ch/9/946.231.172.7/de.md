@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2021-02-03
+version: 2021-04-27
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210203/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210203-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210203/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210427/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210427-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210427/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 3. Februar 2021)
+vom 8. Juni 2012 (Stand am 27. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -461,7 +461,7 @@ Das Staatssekretariat für Migration (SEM)[^17-1] kann Ausnahmen gewähren:
 
 <sup>3</sup> Verstösse nach den Absätzen 1 und 2 werden vom SECO verfolgt und beurteilt; dieses kann Beschlagnahmungen oder Einziehungen anordnen.
 
-## 6. Abschnitt: Veröffentlichung und Schlussbestimmungen****
+## 6. Abschnitt: Veröffentlichung und Schlussbestimmungen
 
 [^sec6-1]
 
@@ -577,7 +577,7 @@ Anhang 1a*[^t-1]*
 
 ## Bewilligungspflicht betreffend bestimmte Güter
 
-[^t-1]: Eingefügt durch Ziff. II der V vom 1. Juni 2018, in Kraft seit 1. Juni 2018 um 18.00 Uhr ([AS 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)).
+[^t-1]: Eingefügt durch Ziff. II der V vom 1. Juni 2018, in Kraft seit 1. Juni 2018 um 18.00 Uhr ([AS 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)). Bereinigt gemäss Berichtigung vom 27. April 2021 ([AS 2021 246](https://fedlex.data.admin.ch/eli/oc/2021/246)).
 
 ### 1. Werkstoffe, Materialien und Chemikalien
 
@@ -588,7 +588,7 @@ Anhang 1a*[^t-1]*
 <tr><td>I.C.A.003</td><td>Chemikalien in einer Konzentration von mindestens 95 Gewichtsprozent: Aluminiumchlorid (CAS 7446-70-0) Arsen (CAS 7440-38-2) Arsentrioxid (CAS 1327-53-3) Bis(2-chloroethyl)ethylaminhydrochlorid (CAS 3590‑07‑6) Bis(2-chloroethyl)methylaminhydrochlorid (CAS 55-86-7) Tris(2-chloroethyl)aminhydrochlorid (CAS 817-09-4)</td><td></td></tr>
 <tr><td>IX.A1.001</td><td>Chemikalien in einer Konzentration von mindestens 95 Gewichtsprozent: Tributylphosphit (CAS 102-85-2) Methylisocyanat (CAS 624-83-9) Chinaldinblau (CAS 91-63-4) 1-Brom-2-chlorethan (CAS-Nr. 107-04-0)</td><td></td></tr>
 <tr><td>IX.A1.002</td><td>Chemikalien in einer Konzentration von mindestens 95 Gewichtsprozent: Benzil (CAS 134-81-6) Diethylamin (CAS 109-89-7) Diethylether (CAS 60-29-7) Dimethylether (CAS 115-10-6) 2-Dimethylaminoethanol (CAS 108-01-0)</td><td></td></tr>
-<tr><td>IX.A1.003</td><td>Chemikalien in einer Konzentration von mindestens 95 Gewichtsprozent: 2-Methoxyethanol (CAS 109-86-4) Pseudocholinesterase (PCHE) 2,2’-Iminodi(ethylamin) (CAS 111-40-0) Dichlormethan (CAS 75-09-3) N,N-Dimethylanilin (CAS 121-69-7) Bromethan (CAS 74-96-4) Chlorethan (CAS 75-00-3) Ethylamin (CAS 75-04-7) Methenamin (CAS 100-97-0) 2-Brompropan (CAS 75-26-3) Diisopropylether (CAS 108-20-3) Methylamin (CAS 74-89-5) Brommethan (CAS 74-83-9) Isopropylamin (CAS 75-31-0) Obidoximchlorid (CAS 114-90-9) Kaliumbromid (CAS 7758-02-3) Pyridin (CAS 110-86-1) Pyridostigminbromid (CAS 101-26-8) Natriumbromid (CAS 7647-15-6) Natrium (CAS 7440-23-5) Tributylamin (CAS 102-82-9) Triethylamin (CAS 121-44-8) Trimethylamin (CAS 75-50-3)</td><td></td></tr>
+<tr><td>IX.A1.003</td><td>Chemikalien in einer Konzentration von mindestens 95 Gewichtsprozent: 2-Methoxyethanol (CAS 109-86-4) Pseudocholinesterase (PCHE) 2,2’-Iminodi(ethylamin) (CAS 111-40-0) Dichlormethan (CAS 75-09-2) N,N-Dimethylanilin (CAS 121-69-7) Bromethan (CAS 74-96-4) Chlorethan (CAS 75-00-3) Ethylamin (CAS 75-04-7) Methenamin (CAS 100-97-0) 2-Brompropan (CAS 75-26-3) Diisopropylether (CAS 108-20-3) Methylamin (CAS 74-89-5) Brommethan (CAS 74-83-9) Isopropylamin (CAS 75-31-0) Obidoximchlorid (CAS 114-90-9) Kaliumbromid (CAS 7758-02-3) Pyridin (CAS 110-86-1) Pyridostigminbromid (CAS 101-26-8) Natriumbromid (CAS 7647-15-6) Natrium (CAS 7440-23-5) Tributylamin (CAS 102-82-9) Triethylamin (CAS 121-44-8) Trimethylamin (CAS 75-50-3)</td><td></td></tr>
 <tr><td>IX.A1.004</td><td>Isolierte, chemisch einheitliche Verbindungen in einer Konzentration von mindestens 90 Gewichtsprozent, sofern nicht anders angegeben: Aceton (CAS 67-64-1) (KN-Code 2914 11 00) Acetylen (CAS 74-86-2) (KN-Code 2901 29 00) Ammoniak (CAS 7664-41-7) (KN-Code 2814 10 00) Antimon (CAS 7440-36-0) (Rubrik 8110) Benzaldehyd (CAS 100-52-7) (KN-Code 2912 21 00) Benzoin (CAS 119-53-9) (KN-Code 2914 40 90) 1-Butanol (CAS 71-36-3) (KN-Code 2905 13 00) 2-Butanol (CAS 78-92-2) (KN-Code 2905 14 90) Isobutanol (CAS 78-83-1) (KN-Code 2905 14 90) tert-Butylalkohol (2-Methyl-2-propanol) (CAS 75-65-0) (KN‑Code 2905 14 10) Calciumkarbid (CAS 75-20-7) (KN-Code 2849 10 00) Kohlenmonoxid (CAS 630-08-0) (KN-Code 2811 29 90) Chlor (CAS 7782-50-5) (KN-Code 2801 10 00) Cyclohexanol (CAS 108-93-0) (KN-Code 2906 12 00) Dicyclohexylamin (CAS 101-83-7) (KN-Code 2921 30 99) Ethanol (CAS 64-17-5) (KN-Code 2207 10 00) Ethylen (CAS 74-85-1) (KN-Code 2901 21 00) Ethylenoxid (CAS 75-21-8) (KN-Code 2910 10 00) Fluor-Apatit (CAS 1306-05-4) (KN-Code 2835 39 00) Chlorwasserstoff (CAS 7647-01-0) (KN-Code 2806 10 00) Hydrogensulfid (CAS 7783-06-4) (KN-Code 2811 19 80) Isopropanol in einer Konzentration von mindestens 95 Gewichtsprozent (CAS 67-63-0) (KN-Code 2905 12 00) Mandelsäure (CAS 90-64-2) (KN-Code 2918 19 98) Methanol (CAS 67-56-1) (KN-Code 2905 11 00) Chlormethan (Methylchlorid) (CAS 74-87-3) (KN‑Code 2903 11 00) Iodmethan (Methyliodid) (CAS 74-88-4) (KN‑Code 2903 39 90) Methanthiol (Methylmercaptan) (CAS 74-93-1) (KN‑Code 2930 90 99) Monoethylenglykol (CAS 107-21-1) (KN‑Code 2905 31 00) Oxalylchlorid (CAS 79-37-8) (KN-Code 2917 19 90) Kaliumsulfid (CAS 1312-73-8) (KN-Code 2830 90 85) Kaliumthiocyanat (CAS 333-20-0) (KN-Code 2842 90 80) Natriumhypochlorid (CAS 7681-52-9) (KN Code 2828 90 00) Schwefel (CAS 7704-34-9) (KN-Code 2802 00 00) Schwefeldioxid (CAS 7446-09-5) (KN-Code 2811 29 05) Schwefeltrioxid (CAS 7446-11-9) (KN-Code 2811 29 10) Thiophosphorylchlorid (CAS 3982-91-0) (KN‑Code 2853 00 90) Triisobutylphosphit (CAS 1606-96-8) (KN‑Code 2920 90 85) Weisser/gelber Phosphor (CAS 12185-10-3, 7723-14-0) (KN‑Code 2804 70 00)</td><td></td></tr>
 </table>
 
@@ -670,9 +670,9 @@ Anmerkung: Bei der Beurteilung der Frage, ob der (die) verbotene(n) Bestandteil(
 
 Technische Anmerkungen:
 
-- *a)* *Ein «Blowout-Preventer» ist ein Gerät, das in der Regel während der Bo**h**rungen in Bodennähe eingesetzt wird (bzw. bei Unterwasserbohrungen auf dem Meeresboden), um das unkontrollierte Ausströmen von Erdöl und/oder Erdgas aus dem Bohrloch zu verhindern.*
-- *b)* *Ein «Eruptionskreuz» ist ein Gerät, das in der Regel eingesetzt wird, um den Ausfluss der Flüssigkeiten aus dem Bohrloch nach dessen Fertigste**l**lung und nach dem Beginn der Erdöl- und/oder Erdgasförderung zu kontro**l**lieren.*
-- *c)* *Für die Zwecke dieser Nummer bezieht sich «API- und ISO-Spezifikationen» auf die Spezifikationen 6A, 16A, 17D und 11IW des American Petroleum I**n**stitute und/oder die ISO-Normen 10423 und 13533 für Blowout-Preventer, Bohrlochkopf- und Eruptions* *kreuz-Ausrüstung zur Verwendung in Erdöl- und/oder Erdgasbohrlöchern.*
+- *a)* *Ein «Blowout-Preventer» ist ein Gerät, das in der Regel während der Bohrungen in Bodennähe eingesetzt wird (bzw. bei Unterwasserbohrungen auf dem Meeresboden), um das unkontrollierte Ausströmen von Erdöl und/oder Erdgas aus dem Bohrloch zu verhindern.*
+- *b)* *Ein «Eruptionskreuz» ist ein Gerät, das in der Regel eingesetzt wird, um den Ausfluss der Flüssigkeiten aus dem Bohrloch nach dessen Fertigstellung und nach dem Beginn der Erdöl- und/oder Erdgasförderung zu kontrollieren.*
+- *c)* Für die Zwecke dieser Nummer bezieht sich «API- und ISO-Spezifikationen» auf die Spezifikationen 6A, 16A, 17D und 11IW des American Petroleum Institute und/oder die ISO-Normen 10423 und 13533 für Blowout-Preventer, Bohrlochkopf- und Eruptions *kreuz-Ausrüstung zur Verwendung in Erdöl- und/oder Erdgasbohrlöchern.*
 
 \6. Bohr- und Förderinseln für Erdöl und Erdgas.
 
@@ -849,7 +849,7 @@ Anhang 4
 <tr><td>ex 8501</td><td>Alle Elektromotoren und elektrischen Generatoren mit einer Leistung von mehr als 3 MW oder 5000 kVA</td></tr>
 </table>
 
-Anhang 5*[^t-2]*
+Anhang 5[^t-2]
 
 (Art. 6 Abs. 1)
 
@@ -922,7 +922,7 @@ Anhang 6
 <tr><td>7012</td><td>Abfälle und Schrott, von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, wie sie hauptsächlich zur Wiedergewinnung von Edelmetallen verwendet werden.</td></tr>
 </table>
 
-Anhang 7*[^t-3]*
+Anhang 7[^t-3]
 
 (Art. 10 Abs. 1 und 17 Abs. 1)
 
@@ -930,7 +930,7 @@ Anhang 7*[^t-3]*
 
 [^t-3]: Der Anhang wird weder in der AS noch in der SR veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[583](https://fedlex.data.admin.ch/eli/oc/2013/115)[1369](https://fedlex.data.admin.ch/eli/oc/2013/324)[3675](https://fedlex.data.admin.ch/eli/oc/2013/685), [2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)[2477](https://fedlex.data.admin.ch/eli/oc/2014/437)[2941](https://fedlex.data.admin.ch/eli/oc/2014/498)[4699](https://fedlex.data.admin.ch/eli/oc/2014/790), [2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)[987](https://fedlex.data.admin.ch/eli/oc/2015/183)[1681](https://fedlex.data.admin.ch/eli/oc/2015/332)[2081](https://fedlex.data.admin.ch/eli/oc/2015/389)[2227](https://fedlex.data.admin.ch/eli/oc/2015/412), [2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)[1779](https://fedlex.data.admin.ch/eli/oc/2016/318)[3433](https://fedlex.data.admin.ch/eli/oc/2016/577)[3811](https://fedlex.data.admin.ch/eli/oc/2016/638)[4147](https://fedlex.data.admin.ch/eli/oc/2016/686)[4493](https://fedlex.data.admin.ch/eli/oc/2016/730), [2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)[3399](https://fedlex.data.admin.ch/eli/oc/2017/372)[3743](https://fedlex.data.admin.ch/eli/oc/2017/439)[3885](https://fedlex.data.admin.ch/eli/oc/2017/462)[5139](https://fedlex.data.admin.ch/eli/oc/2017/562), [2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)[1207](https://fedlex.data.admin.ch/eli/oc/2018/188)[2325](https://fedlex.data.admin.ch/eli/oc/2018/331)[2747](https://fedlex.data.admin.ch/eli/oc/2018/404), [2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)[2561](https://fedlex.data.admin.ch/eli/oc/2019/473)[3087](https://fedlex.data.admin.ch/eli/oc/2019/565), [2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)[2573](https://fedlex.data.admin.ch/eli/oc/2020/472)[4523](https://fedlex.data.admin.ch/eli/oc/2020/798)[4739](https://fedlex.data.admin.ch/eli/oc/2020/854), [2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)). Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 8*[^t-4]*
+Anhang 8[^t-4]
 
 (Art. 9)
 
@@ -960,7 +960,7 @@ Anhang 8*[^t-4]*
 <tr><td>ex 9504 20, [tab] ex 9504 30, [tab] ex 9504 40 00, [tab] ex 9504 90 00</td><td>Artikel und Ausrüstung für Billardspiele, automatische Kegelanlagen (z.B. Bowlingbahnen), Glücksspiele und mit Münzen oder Banknoten betriebene Spiele mit einem Verkaufspreis von mehr als Fr. 600.–/Stück</td></tr>
 </table>
 
-Anhang 9*[^t-5]*
+Anhang 9[^t-5]
 
 (Art. 9*a* Abs. 1)
 
@@ -1011,7 +1011,7 @@ Als Kulturgüter im Sinne von Artikel 9a gelten insbesondere:
 
   - b. mehr als 100 Jahre alte Antiquitäten.
 
-Anhang 10*[^t-6]*
+Anhang 10[^t-6]
 
 (Art. 4*a*)
 
