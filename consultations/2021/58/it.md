@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Proroga dell’ordinanza COVID-19 asilo
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Prolongation de l’ordonnance COVID-19 asile
 document: Projet mis en consultation
 language: fr

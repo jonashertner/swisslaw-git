@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verlängerung der Covid-19-Verordnung Asyl
 document: Vernehmlassungsvorlage
 language: de
