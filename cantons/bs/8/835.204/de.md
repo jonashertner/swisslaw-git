@@ -4,13 +4,13 @@ number: "835.204"
 title: Verordnung betreffend Ausrichtung von Taggeldern zur Existenzsicherung von Kulturschaffenden
 short: Covid-19-Verordnung Kulturschaffende
 language: de
-version: 2020-11-01
-valid_until: 2021-04-27
-version_adopted: 2021-02-09
+version: 2021-04-28
+valid_until: 2021-11-09
+version_adopted: 2021-04-27
 adopted: 2021-02-09
 in_force: 2020-11-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/835.204"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5186/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5353/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Existenzsicherung von Kulturschaffenden: Covid-19-Verordnung | Arbeitslosenversi
 
 (Covid-19-Verordnung Kulturschaffende)
 
-Vom 9. Februar 2021 (Stand 1. November 2020)
+Vom 9. Februar 2021 (Stand 28. April 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -43,7 +43,7 @@ beschliesst:
 
 **Finanzierung**
 
-<sup>1</sup> Die Finanzierung erfolgt über den Fonds zur Bekämpfung der Arbeitslosigkeit und ist auf Fr. 6 Mio. begrenzt.
+<sup>1</sup> Die Finanzierung erfolgt über den Fonds zur Bekämpfung der Arbeitslosigkeit und ist auf Fr. 11.8 Mio. begrenzt.
 
 #### § 3
 
@@ -59,13 +59,17 @@ beschliesst:
 
 <sup>5</sup> Ausgeschlossen vom Anwendungsbereich dieser Verordnung ist der Bildungsbereich in allen Disziplinen.
 
+<sup>6</sup> Nicht beitragsberechtigt sind Kulturschaffende, welche Ausfallentschädigungen gemäss Art. 3 Abs. 1 lit. a sowie Art. 4 ff. der Verordnung über Massnahmen im Kulturbereich gemäss Covid-19-Gesetz (Covid-19-Kulturverordnung) vom 14. Oktober 2020 erhalten.
+
 #### § 4
 
 **Umfang und Berechnung**
 
-<sup>1</sup> Die Beitragsberechtigung beschränkt sich auf ein Taggeld von Fr. 98 für die Monate November 2020 bis April 2021.
+<sup>1</sup> Die Beitragsberechtigung beschränkt sich auf ein Taggeld von Fr. 98 für die Monate November 2020 bis August 2021.
 
-<sup>2</sup> Nettoeinkommen oder Ersatzeinkommen werden vom Taggeld abgezogen. Kulturschaffende, welche gemeinsam in einem Haushalt mit unterhaltspflichtigen Kindern leben, erhalten einen Freibetrag von Fr. 1250 pro unterhaltspflichtiges Kind und Monat, sofern dies für dessen Existenzsicherung notwendig ist.
+<sup>2</sup> Für den Zeitraum von November 2020 bis April 2021 werden Nettoeinkommen oder Ersatzeinkommen vom Taggeld vollumfänglich abgezogen. Kulturschaffende, welche gemeinsam in einem Haushalt mit unterhaltspflichtigen Kindern leben, erhalten einen Freibetrag von Fr. 1'250 pro unterhaltspflichtiges Kind und Monat, sofern dies für dessen Existenzsicherung notwendig ist.
+
+<sup>3</sup> Für den Zeitraum von Mai 2021 bis August 2021 wird auf Nettoeinkommen ein Freibetrag von Fr. 1'000 pro Monat gewährt. Alle weiteren Nettoeinkommen oder Ersatzeinkommen werden vom Taggeld vollumfänglich abgezogen. Kulturschaffende, welche gemeinsam in einem Haushalt mit einem unterhaltspflichtigen Kind leben, erhalten den Freibetrag gemäss Abs. 2.
 
 #### § 5
 
@@ -75,7 +79,7 @@ beschliesst:
 
 <sup>2</sup> Die Kulturschaffenden reichen das Gesuch mit den notwendigen Unterlagen ein. Mit dem Gesuchsformular ermächtigen sie das Präsidialdepartement, sämtliche im Gesuch enthaltenen Daten mit anderen Behörden auszutauschen. Zu diesem Zweck entbinden sie diese von ihrem Amts-, Bank- oder Steuergeheimnis im Zusammenhang mit der Bearbeitung dieser Daten.
 
-<sup>3</sup> Das Gesuch ist bis am 31. Mai 2021einzureichen.
+<sup>3</sup> Gesuche für den Zeitraum November 2020 bis April 2021 sind bis am 31. Mai 2021 einzureichen. Gesuche für den Zeitraum Mai 2021 bis August 2021 sind bis am 30. September 2021 einzureichen.
 
 #### § 6
 
@@ -97,6 +101,8 @@ beschliesst:
 
 *Schlussbestimmung*
 
-Diese Verordnung ist zu publizieren; sie tritt rückwirkend am 1. November 2020 in Kraft und gilt bis zum 31. Dezember 2021.
+Diese Verordnung ist zu publizieren; sie tritt rückwirkend am 1. November 2020 in Kraft und gilt bis zum 31. Dezember 2021. [^footer-1]
 
 KB 13.02.2021
+
+[^footer-1]: Die Befristung der Verordnung wird neu bis 31. Januar 2022 festgelegt (RRB vom 20. 4. 2021, KB 15. 5. 2021).
