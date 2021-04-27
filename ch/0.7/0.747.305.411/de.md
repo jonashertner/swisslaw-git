@@ -3,11 +3,11 @@ sr: "0.747.305.411"
 title: Internationales Freibord-Übereinkommen vom 5. April 1966 (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/728_753_747"
 language: de
-version: 2018-02-28
+version: 2021-04-28
 adopted: 1966-04-05
 in_force: 1968-07-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/728_753_747/20180228/de/xml/fedlex-data-admin-ch-eli-cc-1968-728_753_747-20180228-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/728_753_747/20180228/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/728_753_747/20210428/de/xml/fedlex-data-admin-ch-eli-cc-1968-728_753_747-20210428-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/728_753_747/20210428/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1968** 728; BBl **1967** II 1197
 
 Abgeschlossen in London am 5. April 1966 Von der Bundesversammlung genehmigt am 12. März 1968[^t-1] Schweizerische Annahme‑Urkunde hinterlegt am 23. April 1968 In Kraft getreten für die Schweiz am 23. Juli 1968[^t-2]
 
-(Stand am 28. Februar 2018)
+(Stand am 28. April 2021)
 
 [^t-1]: Ziff. 1 Bst. b des BB vom 12. März 1968 ([AS 1968 705](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725))
 [^t-2]: [AS 1968 936](https://fedlex.data.admin.ch/eli/oc/1968/936_976_)
@@ -404,9 +404,9 @@ Dieses Übereinkommen kann auf Vorschlag einer Vertragsregierung durch eines der
 
 **Hoheitsgebiete**
 
-- (1)a) Die Vereinten Nationen, soweit sie Verwaltungsmacht eines Hoheitsgebiets sind, oder jede für die internationalen Beziehungen eines Hoheitsgebiets verantwortliche Vertragsregierung treten mit diesem Hoheitsgebiet so bald wie möglich in Konsultationen ein mit dem Ziel, dieses Übereinkommen auf das betreffende Hoheitsgebiet zu erstrecken; sie können jederzeit durch eine an die Organisation gerichtete schriftliche Notifikation erklären, dass das Übereinkommen auf das betreffende Hoheitsgebiet erstreckt wird.
+- (1) a) Die Vereinten Nationen, soweit sie Verwaltungsmacht eines Hoheitsgebiets sind, oder jede für die internationalen Beziehungen eines Hoheitsgebiets verantwortliche Vertragsregierung treten mit diesem Hoheitsgebiet so bald wie möglich in Konsultationen ein mit dem Ziel, dieses Übereinkommen auf das betreffende Hoheitsgebiet zu erstrecken; sie können jederzeit durch eine an die Organisation gerichtete schriftliche Notifikation erklären, dass das Übereinkommen auf das betreffende Hoheitsgebiet erstreckt wird.
 - b) Dieses Übereinkommen wird auf das in der Notifikation bezeichnete Hoheitsgebiet vom Tag des Eingangs dieser Notifikation oder von einem anderen darin angegebenen Tag an erstreckt.
-- (2)a) Die Vereinten Nationen oder eine Vertragsregierung, die eine Erklärung nach Absatz 1, Buchstabe a abgegeben haben, können jederzeit nach Ablauf von fünf Jahren nach dem Zeitpunkt, zu dem dieses Übereinkommen auf ein Hoheitsgebiet erstreckt wurde, durch eine an die Organisation gerichtete schriftliche Notifikation erklären, dass das Übereinkommen auf das in der Notifikation bezeichnete Hoheitsgebiet nicht mehr erstreckt wird.
+- (2) a) Die Vereinten Nationen oder eine Vertragsregierung, die eine Erklärung nach Absatz 1, Buchstabe a abgegeben haben, können jederzeit nach Ablauf von fünf Jahren nach dem Zeitpunkt, zu dem dieses Übereinkommen auf ein Hoheitsgebiet erstreckt wurde, durch eine an die Organisation gerichtete schriftliche Notifikation erklären, dass das Übereinkommen auf das in der Notifikation bezeichnete Hoheitsgebiet nicht mehr erstreckt wird.
 - b) Dieses Übereinkommen wird nach Ablauf eines Jahres, nachdem die Notifikation der Organisation zugegangen ist, oder nach einem längeren, in der Notifikation angegebenen Zeitabschnitt nicht mehr auf das in der Notifikation bezeichnete Hoheitsgebiet erstreckt.
 
 <sup>(3)</sup> Die Organisation setzt alle Vertragsregierungen von der Erstreckung dieses Übereinkommens auf ein Hoheitsgebiet gemäss Absatz 1 sowie von der Beendigung einer solchen Erstreckung gemäss Absatz 2 in Kenntnis; hierbei gibt sie jeweils den Zeitpunkt an, zu dem die Erstreckung beginnt oder endet.
@@ -433,7 +433,7 @@ Anlagen I–III[^t-3]
 
 [^t-3]: Bereinigt gemäss Änd. angenommen am 1. Dez. 2005 und 4. Dez. 2013, in Kraft seit 28. Febr. 2018 ([AS 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die Anlagen und ihre Änderungen werden in der AS und in der SR nicht mehr veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
-Geltungsbereich am 27. September 2012[^t-4]
+Geltungsbereich am 28. April 2021[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -537,6 +537,7 @@ Geltungsbereich am 27. September 2012[^t-4]
 <tr><td>Mosambik</td><td colspan="2">30. Oktober</td><td colspan="2">1991 B</td><td>30. Januar</td><td>1992</td></tr>
 <tr><td>Myanmar</td><td colspan="2">11. November</td><td colspan="2">1987 B</td><td>11. Februar</td><td>1988</td></tr>
 <tr><td>Namibia</td><td colspan="2">22. Februar</td><td colspan="2">2002 B</td><td>22. Mai</td><td>2002</td></tr>
+<tr><td>Nauru</td><td colspan="2">7. Juni</td><td colspan="2">2018 B</td><td>7. September</td><td>2018</td></tr>
 <tr><td>Neuseeland</td><td colspan="2">5. Februar</td><td colspan="2">1970</td><td>5. Mai</td><td>1970</td></tr>
 <tr><td>Nicaragua</td><td colspan="2">2. Februar</td><td colspan="2">1994 B</td><td>2. Mai</td><td>1994</td></tr>
 <tr><td>Niederlande</td><td colspan="2">21. Juli</td><td colspan="2">1967</td><td>21. Juli</td><td>1968</td></tr>
@@ -562,6 +563,7 @@ Geltungsbereich am 27. September 2012[^t-4]
 <tr><td>Salomoninseln</td><td colspan="2">30. Juni</td><td colspan="2">2004 B</td><td>30. September</td><td>2004</td></tr>
 <tr><td>Sambia</td><td colspan="2">2. September</td><td colspan="2">1970 B</td><td>2. Dezember</td><td>1970</td></tr>
 <tr><td>Samoa</td><td colspan="2">23. Oktober</td><td colspan="2">1979 B</td><td>23. Januar</td><td>1980</td></tr>
+<tr><td>San Marino</td><td colspan="2">19. April</td><td colspan="2">2021 B</td><td>19. Juli</td><td>2021</td></tr>
 <tr><td>São Tomé und Príncipe</td><td colspan="2">29. Oktober</td><td colspan="2">1998 B</td><td>29. Januar</td><td>1999</td></tr>
 <tr><td>Saudi-Arabien</td><td colspan="2">5. September</td><td colspan="2">1975 B</td><td>5. Dezember</td><td>1975</td></tr>
 <tr><td>Schweden</td><td colspan="2">28. Juli</td><td colspan="2">1967 B</td><td>21. Juli</td><td>1968</td></tr>
@@ -594,6 +596,7 @@ Geltungsbereich am 27. September 2012[^t-4]
 <tr><td>Türkei</td><td colspan="2">5. August</td><td colspan="2">1968 B</td><td>5. November</td><td>1968</td></tr>
 <tr><td colspan="2">Turkmenistan</td><td colspan="2">4. Februar</td><td>2009 B</td><td>4. Mai</td><td>2009</td></tr>
 <tr><td>Tuvalu</td><td colspan="2">22. August</td><td colspan="2">1985 B</td><td>22. November</td><td>1985</td></tr>
+<tr><td>Uganda</td><td colspan="2">10. Oktober</td><td colspan="2">2019 B</td><td>10. Januar</td><td>2020</td></tr>
 <tr><td>Ukraine</td><td colspan="2">25. Oktober</td><td colspan="2">1993 B</td><td>25. Januar</td><td>1994</td></tr>
 <tr><td>Ungarn</td><td colspan="2">25. September</td><td colspan="2">1973 B</td><td>25. Dezember</td><td>1973</td></tr>
 <tr><td>Uruguay</td><td colspan="2">18. April</td><td colspan="2">1977 B</td><td>18. Juli</td><td>1977</td></tr>
@@ -628,4 +631,4 @@ Geltungsbereich am 27. September 2012[^t-4]
 <tr><td colspan="7"><sup>e</sup> 24. Juni 1968: Beitritt der Republik Vietnam. 2. Juli 1976: Wiedervereinigung der Sozialistischen Republik Vietnam mit der Republik Vietnam.</td></tr>
 </table>
 
-[^t-4]: [AS 2004 111](https://fedlex.data.admin.ch/eli/oc/2004/8); [2005 1851](https://fedlex.data.admin.ch/eli/oc/2005/309); [2008 669](https://fedlex.data.admin.ch/eli/oc/2008/165); [2012 5789](https://fedlex.data.admin.ch/eli/oc/2012/670). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2004 111](https://fedlex.data.admin.ch/eli/oc/2004/8); [2005 1851](https://fedlex.data.admin.ch/eli/oc/2005/309); [2008 669](https://fedlex.data.admin.ch/eli/oc/2008/165); [2012 5789](https://fedlex.data.admin.ch/eli/oc/2012/670); [2021 262](https://fedlex.data.admin.ch/eli/oc/2021/262). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

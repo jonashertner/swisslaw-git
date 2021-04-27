@@ -3,11 +3,11 @@ sr: "0.747.305.411"
 title: Convenzione internazionale del 5 aprile 1966 sulle linee di carico (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/728_753_747"
 language: it
-version: 2018-02-28
+version: 2021-04-28
 adopted: 1966-04-05
 in_force: 1968-07-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/728_753_747/20180228/it/xml/fedlex-data-admin-ch-eli-cc-1968-728_753_747-20180228-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/728_753_747/20180228/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/728_753_747/20210428/it/xml/fedlex-data-admin-ch-eli-cc-1968-728_753_747-20210428-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/728_753_747/20210428/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,9 +20,9 @@ Traduzione
 
 Conchiusa a Londra il 5 aprile 1966 Accettata dall’Assemblea federale il 12 marzo 1968[^t-1] Approvata dalla Svizzera con strumento depositato il 23 aprile 1958 Entrata in vigore per la Svizzera il 23 luglio 1968
 
-(Stato 28 febbraio 2018)
+(Stato 28 aprile 2021)
 
-[^t-1]: N. 1 lett. b del DF del 12 mar. 1968 ([RU 1968 725](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725))
+[^t-1]: No 1 lett. b del DF del 12 mar. 1968 ([RU 1968 725](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725)).
 
 I Governi contraenti,
 
@@ -438,12 +438,9 @@ La presente Convenzione è allestita in un solo esemplare nelle lingue francese 
 
 Allegato I a III[^t-2]
 
-## Campo d’applicazione il 27 settembre 2012
-
-[^annexIa-lvlu2-1]
-
 [^t-2]: Aggiornati dalla mod. dei 1° dic. 2005 e 4. dic. 2013, in vigore dal 28 feb. 2018 ([RU 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Gli all. e i loro emendamenti non sono più pubblicati nella RU e nella RS. Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì vengono aggiornati nelle risoluzioni del comitato competente dell’OMI. I testi in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
-[^annexIa-lvlu2-1]: [RU 2004 111](https://fedlex.data.admin.ch/eli/oc/2004/8); [2005 1851](https://fedlex.data.admin.ch/eli/oc/2005/309); [2008 669](https://fedlex.data.admin.ch/eli/oc/2008/165); [2012 5789](https://fedlex.data.admin.ch/eli/oc/2012/670). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+
+Campo d’applicazione il 28 aprile 2021[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -483,7 +480,7 @@ Allegato I a III[^t-2]
 <tr><td>Congo (Kinshasa)</td><td>20 maggio</td><td>1968 A</td><td>20 agosto</td><td>1968</td></tr>
 <tr><td>Corea (Nord)</td><td>18 ottobre</td><td>1989 A</td><td>18 gennaio</td><td>1990</td></tr>
 <tr><td>Corea (Sud)</td><td>10 luglio</td><td>1969</td><td>10 ottobre</td><td>1969</td></tr>
-<tr><td>Côte d'Ivoire</td><td>19 luglio</td><td>1971</td><td>19 ottobre</td><td>1971</td></tr>
+<tr><td>Côte d’Ivoire</td><td>19 luglio</td><td>1971</td><td>19 ottobre</td><td>1971</td></tr>
 <tr><td>Croazia</td><td>27 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>6 febbraio</td><td>1969 A</td><td>6 maggio</td><td>1969</td></tr>
 <tr><td>Danimarca</td><td>28 giugno</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
@@ -551,6 +548,7 @@ Allegato I a III[^t-2]
 <tr><td>Mozambico</td><td>30 ottobre</td><td>1991 A</td><td>30 gennaio</td><td>1992</td></tr>
 <tr><td>Myanmar</td><td>11 novembre</td><td>1987 A</td><td>11 febbraio</td><td>1988</td></tr>
 <tr><td>Namibia</td><td>22 febbraio</td><td>2002 A</td><td>22 maggio</td><td>2002</td></tr>
+<tr><td>Nauru</td><td>7 giugno</td><td>2018 A</td><td>7 settembre</td><td>2018</td></tr>
 <tr><td>Nicaragua</td><td>2 febbraio</td><td>1994 A</td><td>2 maggio</td><td>1994</td></tr>
 <tr><td>Nigeria</td><td>14 novembre</td><td>1968 A</td><td>14 febbraio</td><td>1969</td></tr>
 <tr><td>Niue</td><td>27 giugno</td><td>2012 A</td><td>27 settembre</td><td>2012</td></tr>
@@ -560,7 +558,7 @@ Allegato I a III[^t-2]
 <tr><td>Paesi Bassi</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Aruba</td><td>24 dicembre</td><td>1985</td><td>1° gennaio</td><td>1986</td></tr>
 <tr><td>Curaçao</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
-<tr><td>Parte caraibica Bonaire, (Sant’Eustachio e Saba)</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Sint Maarten</td><td>21 luglio</td><td>1967</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Pakistan</td><td>5 dicembre</td><td>1968</td><td>5 marzo</td><td>1969</td></tr>
 <tr><td>Palau</td><td>29 settembre</td><td>2011 A</td><td>29 dicembre</td><td>2011</td></tr>
@@ -581,12 +579,13 @@ Allegato I a III[^t-2]
 <tr><td>Jersey</td><td>19 maggio</td><td>2004</td><td>19 maggio</td><td>2004</td></tr>
 <tr><td>Sant'Elena</td><td>10 giugno</td><td>2004</td><td>10 giugno</td><td>2004</td></tr>
 <tr><td>Romania</td><td>3 giugno</td><td>1971 A</td><td>3 settembre</td><td>1971</td></tr>
-<tr><td>Russia<sup>c</sup></td><td>4 luglio</td><td>1966 F</td><td>21 luglio</td><td>1968</td></tr>
+<tr><td>Russia <sup>c</sup></td><td>4 luglio</td><td>1966 F</td><td>21 luglio</td><td>1968</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>11 giugno</td><td>2004 A</td><td>11 settembre</td><td>2004</td></tr>
 <tr><td>Saint Lucia</td><td>20 maggio</td><td>2004 A</td><td>20 agosto</td><td>2004</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>29 aprile</td><td>1986 A</td><td>29 luglio</td><td>1986</td></tr>
 <tr><td>Salomone, Isole</td><td>30 giugno</td><td>2004 A</td><td>30 settembre</td><td>2004</td></tr>
 <tr><td>Samoa</td><td>23 ottobre</td><td>1979 A</td><td>23 gennaio</td><td>1980</td></tr>
+<tr><td>San Marino</td><td>19 aprile</td><td>2021 A</td><td>19 luglio</td><td>2021</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>29 ottobre</td><td>1998 A</td><td>29 gennaio</td><td>1999</td></tr>
 <tr><td>Seicelle</td><td>1° ottobre</td><td>1976 A</td><td>1° gennaio</td><td>1977</td></tr>
 <tr><td>Senegal</td><td>18 agosto</td><td>1977 A</td><td>18 novembre</td><td>1977</td></tr>
@@ -620,6 +619,7 @@ Allegato I a III[^t-2]
 <tr><td>Turkmenistan</td><td>4 febbraio</td><td>2009 A</td><td>4 maggio</td><td>2009</td></tr>
 <tr><td>Tuvalu</td><td>22 agosto</td><td>1985 A</td><td>22 novembre</td><td>1985</td></tr>
 <tr><td>Ucraina</td><td>25 ottobre</td><td>1993 A</td><td>25 gennaio</td><td>1994</td></tr>
+<tr><td>Uganda</td><td>10 ottobre</td><td>2019 A</td><td>10 gennaio</td><td>2020</td></tr>
 <tr><td>Ungheria</td><td>25 settembre</td><td>1973 A</td><td>25 dicembre</td><td>1973</td></tr>
 <tr><td>Uruguay</td><td>18 aprile</td><td>1977 A</td><td>18 luglio</td><td>1977</td></tr>
 <tr><td>Vanuatu</td><td>28 luglio</td><td>1982 A</td><td>28 ottobre</td><td>1982</td></tr>
@@ -636,3 +636,5 @@ Allegato I a III[^t-2]
 </table>
 
 - [tab]
+
+[^t-3]: [RU 2004 111](https://fedlex.data.admin.ch/eli/oc/2004/8); [2005 1851](https://fedlex.data.admin.ch/eli/oc/2005/309); [2008 669](https://fedlex.data.admin.ch/eli/oc/2008/165); [2012 5789](https://fedlex.data.admin.ch/eli/oc/2012/670)e [2021 262](https://fedlex.data.admin.ch/eli/oc/2021/262). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (https://fedlex.admin.ch/it/Treaty).
