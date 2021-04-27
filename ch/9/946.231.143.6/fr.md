@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2020-11-27
+version: 2021-04-28
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20201127/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20201127-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20201127/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210428/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210428-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210428/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (Etat le 27 novembre 2020)
+du 11 novembre 2015 (Etat le 28 avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -270,7 +270,7 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 <sup>3</sup> Le SECO poursuit et juge les infractions aux art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-## Section 7 Reprise automatique de listes, publication et dispositions finales****
+## Section 7 Reprise automatique de listes, publication et dispositions finales
 
 [^sec7-1]
 
@@ -400,7 +400,7 @@ Annexe 2
 <tr><td colspan="2">II.A2.013</td><td>Machines de tournage centrifuge et machines de fluotournage, autres que celles visées sous 2B009, 2B109 ou 2B209, ayant une force de roulage de plus de 60 kN et les composants spécialement conçus pour lesdites machines. *Note technique*: aux fins du numéro II.A2.013, les machines combinant les fonctions de tournage centrifuge et de fluotournage sont assimilées à des machines de fluotournage.</td><td></td></tr>
 <tr><td colspan="2">II.A2.014</td><td>Contacteurs liquide-liquide (mélangeurs-décanteurs, colonnes d’échange pulsées et contacteurs centrifuges), et distributeurs de liquide, distributeurs de vapeur ou collecteurs de liquide conçus pour ces équipements, dans lesquels toutes les surfaces venant en contact direct avec les substances chimiques traitées sont obtenues de l’une des manières suivantes: N.B. VOIR EGALEMENT II.A2.008. a. obtenues à partir de l’un des matériaux suivants: 1. alliages contenant plus de 25 % en poids de nickel et 20 % en poids de chrome; 2. fluoropolymères; 3. verre (y compris revêtement vitrifié, émaillé ou en verre); 4. graphite ou ‹carbone-graphite›; 5. nickel ou alliages contenant plus de 40 % en poids de nickel; 6. tantale ou alliages de tantale; 7. titane ou alliages de titane, ou 8. zirconium ou alliages de zirconium, ou b. obtenues à partir d’acier inoxydable et d’un ou plusieurs des matériaux visés sous II.A2.014.a. *Note technique*: le ‹carbone-graphite› est un composé de carbone et de graphite amorphes dont la teneur en graphite est égale ou supérieure à 8 % en poids.</td><td>2B350e</td></tr>
 <tr><td colspan="2">II.A2.015</td><td>Équipements industriels et leurs composants, autres que ceux visés sous 2B350d, comme suit: N.B. VOIR EGALEMENT II.A2.009. échangeurs de chaleur ou condenseurs avec une surface de transfert de chaleur supérieure à 0,05 m<sup>2</sup> et inférieure à 30 m<sup>2</sup>, et les tuyaux, plaques, serpentins ou blocs conçus pour ces échangeurs de chaleur ou condenseurs, dans lesquels toutes les surfaces venant en contact direct avec le(s) fluide(s) sont obtenues de l’une des manières suivantes: a. obtenues à partir de l’un des matériaux suivants: 1. alliages contenant plus de 25 % en poids de nickel et 20 % en poids de chrome; 2. fluoropolymères; 3. verre (y compris revêtement vitrifié, émaillé ou en verre); 4. graphite ou ‹carbone-graphite›; 5. nickel ou alliages contenant plus de 40 % en poids de nickel; 6. tantale ou alliages de tantale; 7. titane ou alliages de titane; 8. zirconium ou alliages de zirconium; 9. carbure de silicium, ou [tab] 10. carbure de titane, ou b. obtenues à partir d’acier inoxydable et d’un ou plusieurs des matériaux visés sous II.A2.015.a. *Note*: ce numéro ne couvre pas les radiateurs pour véhicules. *Note technique*: les matériaux utilisés pour les joints et d’autres applications d’étanchéité ne déterminent pas le statut de l’échangeur de chaleur au regard du contrôle.</td><td>2B350d</td></tr>
-<tr><td colspan="2">II.A2.016</td><td>Pompes à joints d’étanchéité multiples et pompes totalement étanches, autres que celles visées sous 2B350i, convenant aux fluides corrosifs, avec un débit maximal spécifié par le constructeur supérieur à 0,6 m<sup>3</sup>/h, ou pompes à vide avec un débit maximal spécifié par le constructeur supérieur à 5 m<sup>3</sup>/h (sous les conditions de température [273 K, ou 0 °C] et de pression [101,3 kPa] standard), et les boîtiers (corps de pompe), revêtements de boîtiers préformés, roues mobiles, rotors ou gicleurs conçus pour ces pompes, dans lesquels les surfaces venant en contact direct avec les substances chimiques traitées sont obtenues de l’une des manières suivantes: N.B. VOIR EGALEMENT II.A2.010. a. obtenues à partir de l’un des matériaux suivants: 1. alliages contenant plus de 25 % en poids de nickel et 20 % en poids de chrome; 2. céramiques; 3. ferrosilicium; 4. fluoropolymères; 5. verre (y compris revêtement vitrifié, émaillé ou en verre); 6. graphite ou «carbone-graphite»; 7. nickel ou alliages contenant plus de 40 % en poids de nickel; 8. tantale ou alliages de tantale; 9. titane ou alliages de titane; [tab] 10. zirconium ou alliages de zirconium; [tab] 11. niobium (columbium) ou alliages de niobium, ou [tab] 12. alliages d’aluminium, ou b. obtenues à partir d’acier inoxydable et d’un ou plusieurs des matériaux visés sous II.A2.016.a. *Note tec**h**nique*: les matériaux utilisés pour les joints et d’autres applications d’étanchéité ne déterminent pas le statut de la pompe au regard du contrôle.</td><td>2B350i</td></tr>
+<tr><td colspan="2">II.A2.016</td><td>Pompes à joints d’étanchéité multiples et pompes totalement étanches, autres que celles visées sous 2B350i, convenant aux fluides corrosifs, avec un débit maximal spécifié par le constructeur supérieur à 0,6 m<sup>3</sup>/h, ou pompes à vide avec un débit maximal spécifié par le constructeur supérieur à 5 m<sup>3</sup>/h (sous les conditions de température [273 K, ou 0 °C] et de pression [101,3 kPa] standard), et les boîtiers (corps de pompe), revêtements de boîtiers préformés, roues mobiles, rotors ou gicleurs conçus pour ces pompes, dans lesquels les surfaces venant en contact direct avec les substances chimiques traitées sont obtenues de l’une des manières suivantes: N.B. VOIR EGALEMENT II.A2.010. a. obtenues à partir de l’un des matériaux suivants: 1. alliages contenant plus de 25 % en poids de nickel et 20 % en poids de chrome; 2. céramiques; 3. ferrosilicium; 4. fluoropolymères; 5. verre (y compris revêtement vitrifié, émaillé ou en verre); 6. graphite ou «carbone-graphite»; 7. nickel ou alliages contenant plus de 40 % en poids de nickel; 8. tantale ou alliages de tantale; 9. titane ou alliages de titane; [tab] 10. zirconium ou alliages de zirconium; [tab] 11. niobium (columbium) ou alliages de niobium, ou [tab] 12. alliages d’aluminium, ou b. obtenues à partir d’acier inoxydable et d’un ou plusieurs des matériaux visés sous II.A2.016.a. *Note technique*: les matériaux utilisés pour les joints et d’autres applications d’étanchéité ne déterminent pas le statut de la pompe au regard du contrôle.</td><td>2B350i</td></tr>
 <tr><td colspan="2">II.A2.017</td><td>Machines d’électroérosion (EDM) destinées à enlever ou à découper des métaux, de la céramique ou des «composites», comme suit, et électrodes spécialement conçues pour l’électroérosion par enfonçage ou par fil: a) machines d’électroérosion par enfonçage; b) machines d’électroérosion par fil. *Note*: les machines d’électroérosion sont également appelées «machines d’usinage par étincelage».</td><td>2B001d</td></tr>
 <tr><td colspan="2">II.A2.018</td><td>Machines de mesure à coordonnées (CMM) à commande par calculateur ou à «commande numérique», ou machines de contrôle dimensionnel, présentant, à tout point situé dans la plage de fonctionnement de la machine (c’est-à-dire à l’intérieur de la longueur des axes) une erreur maximale admissible (MPP<sub>E</sub>) d’indication de la longueur à trois dimensions (volumétrique) égale ou inférieure à (meilleure que) (3 + L/1000) μm (L représentant la longueur mesurée, exprimée en millimètres), testée conformément à la norme ISO 10360-2(2001), et sondes de mesure conçues à cet effet.</td><td>2B006a 2B206a</td></tr>
 <tr><td colspan="2">II.A2.019</td><td>Machines de soudage par bombardement électronique, à commande par calculateur ou à «commande numérique», ainsi que leurs composants spécialement conçus.</td><td>2B001e1b</td></tr>
@@ -421,7 +421,7 @@ Annexe 2
 <tr><td colspan="2">II.A6.003</td><td>Systèmes de correction de front d’onde destinés à être utilisés avec un faisceau laser d’un diamètre supérieur à 4 mm et leurs composants spécialement conçus, y compris les systèmes de commande, détecteurs de front de phase et «miroirs déformables», y compris les miroirs bimorphes. *Note*: ce numéro ne couvre pas les miroirs désignés sous 6A004a, 6A005e et 6A005f.</td><td>6A003</td></tr>
 <tr><td colspan="2">II.A6.004</td><td>«Lasers» à argon ionisé d’une puissance de sortie moyenne égale ou supérieure à 5 W. *Note*: ce numéro ne couvre pas les «lasers» à argon ionisé désignés sous 0B001g5, 6A005 et 6A205a.</td><td>6A005a6 6A205a</td></tr>
 <tr><td colspan="2">II.A6.005</td><td>«Lasers» à semi-conducteurs et leurs composants, comme suit: a. «lasers» à semi-conducteurs individuels ayant une puissance de sortie supérieure à 200 mW chacun, en nombre supérieur à 100; b. réseaux de «lasers» à semi-conducteurs ayant une puissance de sortie supérieure à 20 W. *Notes*: 1. Les «lasers» à semi-conducteurs sont communément appelés diodes «lasers». 2. Ce numéro ne couvre pas les «lasers» désignés sous 0B001g5, 0B001h6 et 6A005b. 3. Ce numéro ne couvre pas les diodes «lasers» dans la gamme de longueurs d’onde 1200 nm–2000 nm.</td><td>6A005b</td></tr>
-<tr><td colspan="2">II.A6.006</td><td>«Lasers» à semi-conducteurs accordables et réseaux de «lasers» à semi-conducteurs accordables, d’une longueur d’onde comprise entre 9 μm et 17 μm, et empilements de réseaux de «lasers» à semi conducteurs comportant au moins un réseau «laser» à semi-conducteur accordable de cette longueur d’onde. *N**o**tes:* 1. Les «lasers» à semi-conducteurs sont communément appelés diodes «lasers». 2. Ce numéro ne couvre pas les «lasers» à semi-conducteurs désignés sous 0B001h6 et 6A005b.</td><td>6A005b</td></tr>
+<tr><td colspan="2">II.A6.006</td><td>«Lasers» à semi-conducteurs accordables et réseaux de «lasers» à semi-conducteurs accordables, d’une longueur d’onde comprise entre 9 μm et 17 μm, et empilements de réseaux de «lasers» à semi conducteurs comportant au moins un réseau «laser» à semi-conducteur accordable de cette longueur d’onde. *Notes:* 1. Les «lasers» à semi-conducteurs sont communément appelés diodes «lasers». 2. Ce numéro ne couvre pas les «lasers» à semi-conducteurs désignés sous 0B001h6 et 6A005b.</td><td>6A005b</td></tr>
 <tr><td colspan="2">II.A6.007</td><td>«Lasers» «accordables» solides et leurs composants spécialement conçus, comme suit: a. lasers à saphir-titane, b. lasers à alexandrite. *Note*: ce numéro ne couvre pas les lasers à saphir-titane et à alexandrite désignés sous 0B001g5, 0B001h6 et 6A005c1.</td><td>6A005c1</td></tr>
 <tr><td colspan="2">II.A6.008</td><td>«Lasers» (autres qu’en verre) dopés au néodyme, ayant une longueur d’onde de sortie supérieure à 1000 nm mais non supérieure à 1100 nm et une puissance de sortie supérieure à 10 J par impulsion. *Note*: ce numéro ne couvre pas les «lasers» (autres qu’en verre) dopés au néodyme désignés sous 6A005c2b.</td><td>6A005c2</td></tr>
 <tr><td colspan="2">II.A6.009</td><td>Composants acousto-optiques, comme suit: a. tubes à image intégrale et dispositifs d’imagerie fixes ayant une fréquence de récurrence égale ou supérieure à 1 kHz; b. accessoires pour la fréquence de récurrence; c. cellules de Pockels.</td><td>6A203b4c</td></tr>
@@ -545,7 +545,7 @@ Annexe 4
 - – Équipements de reconnaissance et de traitement de la voix.
 - – Équipements d’interception et de surveillance de:
 - *IMSI (International Mobile Subscriber Identity)*: identité internationale d’abonné mobile. C’est le code d’identification unique de chaque appareil téléphonique mobile, qui est intégré dans la carte SIM et permet d’identifier celle-ci via les réseaux GSM et UMTS.
-- *MSISDN (**Mobile Subscriber Integrated Services Digital Network Nu**m**ber):* numéro de réseau numérique à intégration de services de l’abonné mobile. C’est un numéro identifiant de façon unique un abonnement à un réseau mobile GSM ou UMTS. Pour simplifier, c’est le numéro de téléphone attribué à la carte SIM d’un téléphone mobile, qui identifie donc un abonné mobile aussi bien que l’IMSI, mais dont le but est de permettre l’acheminement des appels.
+- *MSISDN (**Mobile Subscriber Integrated Services Digital Network Number):* numéro de réseau numérique à intégration de services de l’abonné mobile. C’est un numéro identifiant de façon unique un abonnement à un réseau mobile GSM ou UMTS. Pour simplifier, c’est le numéro de téléphone attribué à la carte SIM d’un téléphone mobile, qui identifie donc un abonné mobile aussi bien que l’IMSI, mais dont le but est de permettre l’acheminement des appels.
 - *IMEI (International Mobile Equipment Identity)*: identité internationale de l’équipement mobile. C’est un numéro, d’ordinaire unique, permettant d’identifier les téléphones mobiles GSM, WCDMA et IDEN, ainsi que certains téléphones satellitaires. Il est généralement imprimé à l’intérieur du compartiment de la batterie du téléphone. L’interception (écoute téléphonique) peut être spécifiée au moyen du numéro IMEI, ainsi que par l’IMSI et le MSISDN.
 - *TMSI (Temporary Mobile Subscriber Identity)*: identité temporaire d’abonné mobile. C’est l’identité qui est la plus communément transmise entre le téléphone mobile et le réseau.
 - – Équipements tactiques d’interception et de surveillancede : SMS (Short Message System ; service de messages courts), GSM (Global System for Mobile Communications; système mondial de communications mobiles), GPS (Global Positioning System; système de positionnement à capacité globale), GPRS (General Package Radio Service ; service général de radiocommunication par paquets), UMTS (Universal Mobile Telecommunication System; système universel de télécommunications mobiles), CDMA (Code Division Multiple Access; accès multiple par différence de code), PSTN (Public Switch Telephone Network ; réseau téléphonique public commuté).
@@ -579,7 +579,7 @@ Les ch. 1 à 3 ne s’appliquent pas:
 
 - b) aux logiciels qui se trouvent dans le domaine public.
 
-Annexe 5*[^t-1]*
+Annexe 5[^t-1]
 
 (art. 7, al. 1, 10, al. 1 et 2, 11, let. b, 14 et 14*a*)
 
@@ -589,14 +589,14 @@ Annexe 5*[^t-1]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies*[^annex5-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies[^annex5-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annex5-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex5-lvlu1-2].
 
 [^annex5-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; 2231 (2015) &gt; Liste établie en application de la résolution 2231 (2015).
 [^annex5-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 6*[^t-2]*
+Annexe 6[^t-2]
 
 (art. 7, al. 1, 10, al. 1 et 3, et 11, let. b)
 
@@ -604,10 +604,10 @@ Annexe 6*[^t-2]*
 
 [^t-2]: Cette annexe n’est pas publiée au RO ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)[1477](https://fedlex.data.admin.ch/eli/oc/2016/281)[3699](https://fedlex.data.admin.ch/eli/oc/2016/623), [2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59), [2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349), [2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)[4093](https://fedlex.data.admin.ch/eli/oc/2019/714), [2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)[4933](https://fedlex.data.admin.ch/eli/oc/2020/878)). Elle peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
-Annexe 7*[^t-3]*
+Annexe 7[^t-3]
 
 (art. 7, al. 1, et 11, let. b)
 
 ## Personnes physiques visées par les sanctions financières
 
-[^t-3]: Cette annexe n’est pas publiée au RO ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281), [2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273), [2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245), [2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261), [2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-3]: Cette annexe n’est pas publiée au RO ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281); [2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273); [2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245); [2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261); [2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278); [2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.

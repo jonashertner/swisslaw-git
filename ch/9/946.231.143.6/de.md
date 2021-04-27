@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2020-11-27
+version: 2021-04-28
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20201127/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20201127-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20201127/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210428/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210428-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210428/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 27. November 2020)
+vom 11. November 2015 (Stand am 28. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -34,7 +34,7 @@ In dieser Verordnung bedeuten:
 - b. *Sperrung von Geldern*: die Verhinderung jeder Handlung, welche die Verwaltung oder die Nutzung von Geldern ermöglicht, mit Ausnahme von normalen Verwaltungshandlungen von Finanzinstituten;
 - c.
 
-  *iranische Person oder Organ**i**sation*:
+  *iranische Person oder Organisation*:
 
   - 1\. der iranische Staat sowie jede Behörde dieses Staates,
   - 2\. jede natürliche Person mit Aufenthaltsort oder Wohnsitz im Iran, ausgenommen diplomatisches Personal der Schweiz und von Drittstaaten, das in offizieller Funktion im Iran tätig ist,
@@ -574,7 +574,7 @@ Ausgenommen von den Ziffern 1–3 ist:
 
 - b. Software, die allgemein zugänglich ist.
 
-Anhang 5*[^t-1]*
+Anhang 5[^t-1]
 
 (Art. 7 Abs. 1, 10 Abs. 1 und 2, 11 Bst. b sowie Art. 14 und 14*a*)
 
@@ -584,14 +584,14 @@ Anhang 5*[^t-1]*
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.*[^annex5-lvlu1-1]*
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex5-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annex5-lvlu1-2]*
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex5-lvlu1-2]
 
 [^annex5-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; 2231 (2015) &gt; 2231 list.
 [^annex5-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
 
-Anhang 6*[^t-2]*
+Anhang 6[^t-2]
 
 (Art. 7 Abs. 1, 10 Abs. 1 und 3 sowie 11 Bst. b)
 
@@ -599,10 +599,10 @@ Anhang 6*[^t-2]*
 
 [^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)[1477](https://fedlex.data.admin.ch/eli/oc/2016/281)[3699](https://fedlex.data.admin.ch/eli/oc/2016/623), [2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59), [2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349), [2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)[4093](https://fedlex.data.admin.ch/eli/oc/2019/714), [2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)[4933](https://fedlex.data.admin.ch/eli/oc/2020/878)). Er kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 7*[^t-3]*
+Anhang 7[^t-3]
 
 (Art. 7 Abs. 1 und 11 Bst. b)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen richten
 
-[^t-3]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)[2697](https://fedlex.data.admin.ch/eli/oc/2016/431), [2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245), [2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261), [2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)). Er kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^t-3]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281); [2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273); [2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245); [2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261); [2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278); [2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.

@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2020-11-27
+version: 2021-04-28
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20201127/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20201127-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20201127/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210428/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210428-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210428/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 27 novembre 2020) (Stato 27 novembre 2020)
+dell’11 novembre 2015 (Stato 28 aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -270,7 +270,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 6:
 
 <sup>3</sup> Le infrazioni agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; essa può disporre sequestri o confische.
 
-## Sezione 7: Recepimento automatico di liste, pubblicazione e disposizioni finali****
+## Sezione 7: Recepimento automatico di liste, pubblicazione e disposizioni finali
 
 [^sec7-1]
 
@@ -580,7 +580,7 @@ Sono esclusi dalle disposizioni dei numeri 1–3:
 
 - b) software che sono di pubblico dominio.
 
-Allegato 5*[^t-1]*
+Allegato 5[^t-1]
 
 (art. 7 cpv. 1, 10 cpv. 1 e 2, 11 lett. b, 14 e 14*a*)
 
@@ -590,25 +590,25 @@ Allegato 5*[^t-1]*
 
 **Nota bene**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite*[^annex5-lvlu1-1]*.
+\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite[^annex5-lvlu1-1].
 
-\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite*[^annex5-lvlu1-2]*.
+\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex5-lvlu1-2].
 
 [^annex5-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; 2231 (2015) &gt; 2231 list.
 [^annex5-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 6*[^t-2]*
+Allegato 6[^t-2]
 
 (art. 7 cpv. 1, 10 cpv. 1 e 3, 11 lett. b)
 
 ## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di ingresso e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie
 
-[^t-2]: Non pubblicato nella RU ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)[1477](https://fedlex.data.admin.ch/eli/oc/2016/281)[3699](https://fedlex.data.admin.ch/eli/oc/2016/623), [2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59), [2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349), [2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)[4093](https://fedlex.data.admin.ch/eli/oc/2019/714), [2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)[4933](https://fedlex.data.admin.ch/eli/oc/2020/878)). È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-2]: Non pubblicato nella RU ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57), [1477](https://fedlex.data.admin.ch/eli/oc/2016/281), [3699](https://fedlex.data.admin.ch/eli/oc/2016/623); [2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59); [2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349); [2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346), [4093](https://fedlex.data.admin.ch/eli/oc/2019/714); [2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515), [4933](https://fedlex.data.admin.ch/eli/oc/2020/878)). È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
-Allegato 7*[^t-3]*
+Allegato 7[^t-3]
 
 (art. 7 cpv. 1 e 11 lett. b)
 
 ## Persone fisiche interessate dalle sanzioni finanziarie
 
-[^t-3]: Non pubblicato nella RU ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281), [2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273), [2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245), [2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261), [2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)). È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-3]: Non pubblicato nella RU ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281); [2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273); [2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245); [2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261); [2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278); [2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)). È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
