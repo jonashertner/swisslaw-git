@@ -3,11 +3,11 @@ sr: "0.142.01"
 title: "Constitution du 19 octobre 1953 de l'Organisation internationale pour les migrations"
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/166_171_171"
 language: fr
-version: 2020-10-28
+version: 2021-04-28
 adopted: 1953-10-19
 in_force: 1954-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20201028/fr/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20201028-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20201028/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20210428/fr/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20210428-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20210428/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Amendements approuvés par l’Assemblée fédérale le 29 septembre 1988[^t-3]
 
 Acceptés par la Suisse le 2 décembre 1988 et entrés en vigueur le 14 novembre 1989
 
-(Etat le 28 octobre 2020)
+(Etat le 28 avril 2021)
 
 [^t-1]: Anciennement: Constitution du Comité intergouvernemental pour les migrations européennes.
 [^t-2]: [RO 1972 171](https://fedlex.data.admin.ch/eli/oc/1972/166_171_171)
@@ -340,7 +340,7 @@ Les gouvernements membres du Comité intergouvernemental pour les migrations eur
 
 Les textes français, anglais et espagnol de la présente Constitution sont considérés comme également authentiques.
 
-Champ d’application le 5 juin 2018**[^t-4]**
+Champ d’application le 28 avril 2021**[^t-4]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -395,6 +395,7 @@ Champ d’application le 5 juin 2018**[^t-4]**
 <tr><td>Érythrée</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
 <tr><td>Espagne</td><td>8 juin</td><td>2006</td><td>8 juin</td><td>2006</td></tr>
 <tr><td>Estonie</td><td>30 novembre</td><td>2004</td><td>30 novembre</td><td>2004</td></tr>
+<tr><td>Eswatini</td><td>29 novembre</td><td>2010</td><td>29 novembre</td><td>2010</td></tr>
 <tr><td>États-Unis</td><td>21 septembre</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
 <tr><td>Éthiopie</td><td>5 décembre</td><td>2011</td><td>5 décembre</td><td>2011</td></tr>
 <tr><td>Fidji</td><td>26 novembre</td><td>2013</td><td>26 novembre</td><td>2013</td></tr>
@@ -405,6 +406,7 @@ Champ d’application le 5 juin 2018**[^t-4]**
 <tr><td>Géorgie</td><td>7 juin</td><td>2001</td><td>7 juin</td><td>2001</td></tr>
 <tr><td>Ghana</td><td>29 novembre</td><td>2005</td><td>29 novembre</td><td>2005</td></tr>
 <tr><td>Grèce</td><td>8 juillet</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
+<tr><td>Grenade</td><td>28 juin</td><td>2018</td><td>28 juin</td><td>2018</td></tr>
 <tr><td>Guatemala</td><td>25 novembre</td><td>1986</td><td>25 novembre</td><td>1986</td></tr>
 <tr><td>Guinée</td><td>7 juin</td><td>2000</td><td>7 juin</td><td>2000</td></tr>
 <tr><td>Guinée-Bissau</td><td>23 novembre</td><td>1998</td><td>23 novembre</td><td>1998</td></tr>
@@ -428,13 +430,14 @@ Champ d’application le 5 juin 2018**[^t-4]**
 <tr><td>Kenya</td><td>24 mai</td><td>1985</td><td>24 mai</td><td>1985</td></tr>
 <tr><td>Kirghizistan</td><td>28 novembre</td><td>2000</td><td>28 novembre</td><td>2000</td></tr>
 <tr><td>Kiribati</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
+<tr><td>Laos</td><td>29 juin</td><td>2018</td><td>29 juin</td><td>2018</td></tr>
 <tr><td>Lesotho</td><td>29 novembre</td><td>2010</td><td>29 novembre</td><td>2010</td></tr>
 <tr><td>Lettonie</td><td>30 novembre</td><td>1999</td><td>30 novembre</td><td>1999</td></tr>
 <tr><td>Libye</td><td>4 juin</td><td>2004</td><td>4 juin</td><td>2004</td></tr>
 <tr><td>Libéria</td><td>28 novembre</td><td>1995</td><td>28 novembre</td><td>1995</td></tr>
 <tr><td>Lituanie</td><td>23 novembre</td><td>1998</td><td>23 novembre</td><td>1998</td></tr>
 <tr><td>Luxembourg</td><td>18 juillet</td><td>1956</td><td>18 juillet</td><td>1956</td></tr>
-<tr><td>Macédoine</td><td>19 juin</td><td>2014</td><td>19 juin</td><td>2014</td></tr>
+<tr><td>Macédoine du Nord</td><td>19 juin</td><td>2014</td><td>19 juin</td><td>2014</td></tr>
 <tr><td>Madagascar</td><td>27 novembre</td><td>2001</td><td>27 novembre</td><td>2001</td></tr>
 <tr><td>Malawi</td><td>14 juin</td><td>2013 A</td><td>14 juin</td><td>2013</td></tr>
 <tr><td>Maldives</td><td>5 décembre</td><td>2011</td><td>5 décembre</td><td>2011</td></tr>
@@ -459,7 +462,9 @@ Champ d’application le 5 juin 2018**[^t-4]**
 <tr><td>Norvège</td><td>26 novembre</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>13 juin</td><td>2003</td><td>13 juin</td><td>2003</td></tr>
 <tr><td>Ouganda</td><td>27 mai</td><td>1992</td><td>27 mai</td><td>1992</td></tr>
+<tr><td>Ouzbékistan</td><td>27 novembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Pakistan</td><td>24 novembre</td><td>1992</td><td>24 novembre</td><td>1992</td></tr>
+<tr><td>Palaos</td><td>29 juin</td><td>2018</td><td>29 juin</td><td>2018</td></tr>
 <tr><td>Panama</td><td>13 novembre</td><td>1958</td><td>13 novembre</td><td>1958</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>30 novembre</td><td>2012</td><td>30 novembre</td><td>2012</td></tr>
 <tr><td>Paraguay</td><td>29 avril</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
@@ -491,7 +496,6 @@ Champ d’application le 5 juin 2018**[^t-4]**
 <tr><td>Suède</td><td>27 novembre</td><td>1990</td><td>1<sup>er</sup> juillet</td><td>1991</td></tr>
 <tr><td>Suisse</td><td>7 avril</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
 <tr><td>Suriname</td><td>14 juin</td><td>2013</td><td>14 juin</td><td>2013</td></tr>
-<tr><td>Swaziland</td><td>29 novembre</td><td>2010</td><td>29 novembre</td><td>2010</td></tr>
 <tr><td>Tadjikistan</td><td>29 novembre</td><td>1994</td><td>29 novembre</td><td>1994</td></tr>
 <tr><td>Tanzanie</td><td>23 novembre</td><td>1998</td><td>23 novembre</td><td>1998</td></tr>
 <tr><td>Tchad</td><td>5 décembre</td><td>2011</td><td>5 décembre</td><td>2011</td></tr>
@@ -513,4 +517,4 @@ Champ d’application le 5 juin 2018**[^t-4]**
 <tr><td>Zimbabwe</td><td>2 décembre</td><td>2002</td><td>2 décembre</td><td>2002</td></tr>
 </table>
 
-[^t-4]: [RO 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722), [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235), [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246), [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399), [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722), [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235), [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246), [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399), [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344), [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).

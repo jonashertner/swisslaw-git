@@ -3,16 +3,16 @@ sr: "0.142.01"
 title: "Costituzione del 19 ottobre 1953 dell'Organizzazione internazionale per le migrazioni"
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/166_171_171"
 language: it
-version: 2020-10-28
+version: 2021-04-28
 adopted: 1953-10-19
 in_force: 1954-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20201028/it/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20201028-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20201028/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/166_171_171/20210428/it/xml/fedlex-data-admin-ch-eli-cc-1972-166_171_171-20210428-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/166_171_171/20210428/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Costituzione dell’Organizzazione internazionale per le migrazioni****
+# Costituzione dell’Organizzazione internazionale per le migrazioni
 
 RU **1989** 2488; FF **1988** I 1237[^t-1]
 
@@ -24,7 +24,7 @@ Emendamenti approvati dall’Assemblea federale il 29 settembre 1988[^t-3]
 
 accettati dalla Svizzera il 2 dicembre 1988 ed entrati in vigore il 14 novembre 1989
 
-(Stato 28 ottobre 2020)
+(Stato 28 aprile 2021)
 
 [^t-1]: In origine «Costituzione del Comitato intergovernativo per le migrazioni europee».
 [^t-2]: RU **1972** 172
@@ -170,7 +170,7 @@ Il Consiglio può istituire qualsiasi organo ausiliario necessario all’adempim
 
 Il Consiglio adotta il proprio regolamento.
 
-## Capitolo V**** Amministrazione
+## Capitolo V Amministrazione
 
 [^chapV-1]
 
@@ -342,7 +342,7 @@ I Governi membri del comitato intergovernativo per le migrazioni europee i quali
 
 I testi francese, inglese e spagnolo della presente Costituzione sono considerati come ugualmente autentici.
 
-Campo d’applicazione il 5 giugno 2018**[^t-4]**
+Campo d’applicazione il 28 aprile 2021**[^t-4]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Accettazione Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -397,6 +397,7 @@ Campo d’applicazione il 5 giugno 2018**[^t-4]**
 <tr><td>El Salvador</td><td>25 novembre</td><td>1968</td><td>25 novembre</td><td>1968</td></tr>
 <tr><td>Eritrea</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
 <tr><td>Estonia</td><td>30 novembre</td><td>2004</td><td>30 novembre</td><td>2004</td></tr>
+<tr><td>Eswatini</td><td>29 novembre</td><td>2010</td><td>29 novembre</td><td>2010</td></tr>
 <tr><td>Etiopia</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Figi</td><td>26 novembre</td><td>2013</td><td>26 novembre</td><td>2013</td></tr>
 <tr><td>Filippine</td><td>29 novembre</td><td>1988</td><td>29 novembre</td><td>1988</td></tr>
@@ -412,6 +413,7 @@ Campo d’applicazione il 5 giugno 2018**[^t-4]**
 <tr><td>Gibuti</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Giordania</td><td>30 novembre</td><td>1999</td><td>30 novembre</td><td>1999</td></tr>
 <tr><td>Grecia</td><td>8 luglio</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
+<tr><td>Grenada</td><td>28 giugno</td><td>2018</td><td>28 giugno</td><td>2018</td></tr>
 <tr><td>Guatemala</td><td>25 novembre</td><td>1986</td><td>25 novembre</td><td>1986</td></tr>
 <tr><td>Guinea</td><td>7 giugno</td><td>2000</td><td>7 giugno</td><td>2000</td></tr>
 <tr><td>Guinea-Bissau</td><td>23 novembre</td><td>1998</td><td>23 novembre</td><td>1998</td></tr>
@@ -428,13 +430,14 @@ Campo d’applicazione il 5 giugno 2018**[^t-4]**
 <tr><td>Kenya</td><td>24 maggio</td><td>1985</td><td>24 maggio</td><td>1985</td></tr>
 <tr><td>Kirghizistan</td><td>28 novembre</td><td>2000</td><td>28 novembre</td><td>2000</td></tr>
 <tr><td>Kiribati</td><td>24 novembre</td><td>2015</td><td>24 novembre</td><td>2015</td></tr>
+<tr><td>Laos</td><td>29 giugno</td><td>2018</td><td>29 giugno</td><td>2018</td></tr>
 <tr><td>Lesotho</td><td>29 novembre</td><td>2010</td><td>29 novembre</td><td>2010</td></tr>
 <tr><td>Lettonia</td><td>30 novembre</td><td>1999</td><td>30 novembre</td><td>1999</td></tr>
 <tr><td>Liberia</td><td>28 novembre</td><td>1995</td><td>28 novembre</td><td>1995</td></tr>
 <tr><td>Libia</td><td>4 giugno</td><td>2004</td><td>4 giugno</td><td>2004</td></tr>
 <tr><td>Lituania</td><td>23 novembre</td><td>1998</td><td>23 novembre</td><td>1998</td></tr>
 <tr><td>Lussemburgo</td><td>18 luglio</td><td>1956</td><td>18 luglio</td><td>1956</td></tr>
-<tr><td>Macedonia</td><td>19 giugno</td><td>2014</td><td>19 giugno</td><td>2014</td></tr>
+<tr><td>Macedonia del Nord</td><td>19 giugno</td><td>2014</td><td>19 giugno</td><td>2014</td></tr>
 <tr><td>Madagascar</td><td>27 novembre</td><td>2001</td><td>27 novembre</td><td>2001</td></tr>
 <tr><td>Malawi</td><td>14 giugno</td><td>2013 A</td><td>14 giugno</td><td>2013</td></tr>
 <tr><td>Maldive</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
@@ -461,6 +464,7 @@ Campo d’applicazione il 5 giugno 2018**[^t-4]**
 <tr><td>Nuova Zelanda</td><td>13 giugno</td><td>2003</td><td>13 giugno</td><td>2003</td></tr>
 <tr><td>Paesi Bassi</td><td>12 aprile</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
 <tr><td>Pakistan</td><td>24 novembre</td><td>1992</td><td>24 novembre</td><td>1992</td></tr>
+<tr><td>Palau</td><td>29 giugno</td><td>2018</td><td>29 giugno</td><td>2018</td></tr>
 <tr><td>Panama</td><td>13 novembre</td><td>1958</td><td>13 novembre</td><td>1958</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>30 novembre</td><td>2012</td><td>30 novembre</td><td>2012</td></tr>
 <tr><td>Paraguay</td><td>29 aprile</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
@@ -492,7 +496,6 @@ Campo d’applicazione il 5 giugno 2018**[^t-4]**
 <tr><td>Suriname</td><td>14 giugno</td><td>2013</td><td>14 giugno</td><td>2013</td></tr>
 <tr><td>Svezia</td><td>27 novembre</td><td>1990</td><td>1° luglio</td><td>1991</td></tr>
 <tr><td>Svizzera</td><td>7 aprile</td><td>1954</td><td>30 novembre</td><td>1954</td></tr>
-<tr><td>Swaziland</td><td>29 novembre</td><td>2010</td><td>29 novembre</td><td>2010</td></tr>
 <tr><td>Tagikistan</td><td>29 novembre</td><td>1994</td><td>29 novembre</td><td>1994</td></tr>
 <tr><td>Tanzania</td><td>23 novembre</td><td>1998</td><td>23 novembre</td><td>1998</td></tr>
 <tr><td>Thailandia</td><td>28 maggio</td><td>1986</td><td>28 maggio</td><td>1986</td></tr>
@@ -507,6 +510,7 @@ Campo d’applicazione il 5 giugno 2018**[^t-4]**
 <tr><td>Uganda</td><td>27 maggio</td><td>1992</td><td>27 maggio</td><td>1992</td></tr>
 <tr><td>Ungheria</td><td>26 novembre</td><td>1991</td><td>26 novembre</td><td>1991</td></tr>
 <tr><td>Uruguay</td><td>3 maggio</td><td>1965</td><td>3 maggio</td><td>1965</td></tr>
+<tr><td>Uzbekistan</td><td>27 novembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Vanuatu</td><td>5 dicembre</td><td>2011</td><td>5 dicembre</td><td>2011</td></tr>
 <tr><td>Venezuela</td><td>4 dicembre</td><td>1973</td><td>4 dicembre</td><td>1973</td></tr>
 <tr><td>Vietnam</td><td>27 novembre</td><td>2007</td><td>27 novembre</td><td>2007</td></tr>
@@ -515,4 +519,4 @@ Campo d’applicazione il 5 giugno 2018**[^t-4]**
 <tr><td>Zimbabwe</td><td>2 dicembre</td><td>2002</td><td>2 dicembre</td><td>2002</td></tr>
 </table>
 
-[^t-4]: [RU 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722), [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235), [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246), [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399)e [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 1991 722](https://fedlex.data.admin.ch/eli/oc/1991/722_722_722); [2012 1653](https://fedlex.data.admin.ch/eli/oc/2012/235); [2014 1155](https://fedlex.data.admin.ch/eli/oc/2014/246); [2017 3607](https://fedlex.data.admin.ch/eli/oc/2017/399); [2018 2391](https://fedlex.data.admin.ch/eli/oc/2018/344); [2021 267](https://fedlex.data.admin.ch/eli/oc/2021/267). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (https://fedlex.admin.ch/it/Treaty). I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.
