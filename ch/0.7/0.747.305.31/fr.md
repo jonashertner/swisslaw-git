@@ -3,11 +3,11 @@ sr: "0.747.305.31"
 title: Convention du 9 avril 1965 visant à faciliter le trafic maritime international (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/706_730_726"
 language: fr
-version: 2018-08-21
+version: 2021-04-28
 adopted: 1965-04-09
 in_force: 1968-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20180821/fr/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20180821-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20180821/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20210428/fr/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20210428-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20210428/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ Texte original
 
 Signée à Londres le 9 avril 1965 Approuvée par l’Assemblée fédérale le 12 mars 1968[^t-1] Entrée en vigueur le 5 mars 1967 Entrée en vigueur pour la Suisse le 22 juin 1968
 
-(Etat le 21 août 2018)
+(Etat le 28 avril 2021)
 
 [^t-1]: RO **1968** 730 Ch. 1 let. a de l’AF du 12 mars **1968** (RO **1968** 729).
 
@@ -153,7 +153,7 @@ La présente Convention et son Annexe sont rédigées en langues anglaise et fra
 
 *En foi de quoi,* les soussignés dûment autorisés à cet effet par leurs gouvernements ont signé la présente Convention. Fait à Londres, le 9 avril 1965.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 ## Chapitre Premier définitions et dispositions générales
 
@@ -284,7 +284,7 @@ Les documents visés sont:
 
 2.3.4 *Norme.* Les pouvoirs publics acceptent, en lieu et place de la déclaration de la cargaison, un exemplaire du manifeste du navire à la condition qu’il contienne au moins les renseignements visés à la pratique recommandée 2.3.1 et à la norme 2.3.2 et qu’il soit signé ou authentifié et daté comme prévu à la norme 2.3.3.
 
-2.3.4.1 *Pratique recomman**dée.* A titre de variante de la norme 2.3.4, les pouvoirs publics peuvent accepter un exemplaire du document de transport signé ou authentifié comme prévu à la norme 2.3.3 ou une copie certifiée conforme, si la variété et le nombre des marchandises énumérées le permettent et si les renseignements visés dans la pratique recommandée 2.3.1 et la norme 2.3.2 qui ne figurent pas sur lesdites copies sont fournis par ailleurs et dûment certifiés.
+2.3.4.1 *Pratique recommandée.* A titre de variante de la norme 2.3.4, les pouvoirs publics peuvent accepter un exemplaire du document de transport signé ou authentifié comme prévu à la norme 2.3.3 ou une copie certifiée conforme, si la variété et le nombre des marchandises énumérées le permettent et si les renseignements visés dans la pratique recommandée 2.3.1 et la norme 2.3.2 qui ne figurent pas sur lesdites copies sont fournis par ailleurs et dûment certifiés.
 
 2.3.5 *Pratique recommandée.* Les pouvoirs publics devraient admettre que les colis non portés au manifeste, en possession du capitaine, ne figurent pas sur la déclaration de la cargaison, à condition que les renseignements s’y rapportant leur soient fournis séparément.
 
@@ -294,7 +294,7 @@ Les documents visés sont:
 
 2.5 *Norme.* La déclaration des effets et marchandises de l’équipage est le document de base sur lequel figurent les renseignements exigés par les pouvoirs publics touchant les effets et marchandises de l’équipage. Elle n’est pas exigée à la sortie.
 
-2.5.1 *Norme**.* Les pouvoirs publics acceptent la déclaration des effets et marchandises de l’équipage, soit datée et signée par le capitaine du navire ou par un autre officier de bord dûment autorisé par le capitaine, soit authentifiée d’une manière jugée acceptable par le pouvoir public concerné. Les pouvoirs publics peuvent également exiger que chaque membre de l’équipage appose sa signature ou, s’il ne le peut, une marque distinctive en face de la déclaration relative à ses effets et marchandises.
+2.5.1 *Norme.* Les pouvoirs publics acceptent la déclaration des effets et marchandises de l’équipage, soit datée et signée par le capitaine du navire ou par un autre officier de bord dûment autorisé par le capitaine, soit authentifiée d’une manière jugée acceptable par le pouvoir public concerné. Les pouvoirs publics peuvent également exiger que chaque membre de l’équipage appose sa signature ou, s’il ne le peut, une marque distinctive en face de la déclaration relative à ses effets et marchandises.
 
 2.5.2 *Pratique recommandée.* Les pouvoirs publics ne devraient normalement exiger de renseignements pour les effets et marchandises de l’équipage que s’ils sont possibles de droits ou soumis à des prohibitions ou à des restrictions.
 
@@ -314,7 +314,7 @@ Les documents visés sont:
 
 2.6.2 *Norme.* Les pouvoirs publics acceptent la liste de l’équipage, soit datée et signée par le capitaine ou un autre officier de bord dûment autorisé par le capitaine, soit authentifiée d’une manière jugée acceptable par le pouvoir public concerné.
 
-2.6.3 *Norme**.* Les pouvoirs publics n’exigent normalement pas que la liste de l’équipage soit présentée à chaque escale lorsque le navire assure une ligne régulière et refait escale dans le même port au moins une fois dans la quinzaine et que la composition de l’équipage n’a pas été modifiée. Dans ce cas, une déclaration attestant qu’il n’y a pas eu de modification est présentée d’une manière jugée acceptable par les pouvoirs publics concernés.
+2.6.3 *Norme.* Les pouvoirs publics n’exigent normalement pas que la liste de l’équipage soit présentée à chaque escale lorsque le navire assure une ligne régulière et refait escale dans le même port au moins une fois dans la quinzaine et que la composition de l’équipage n’a pas été modifiée. Dans ce cas, une déclaration attestant qu’il n’y a pas eu de modification est présentée d’une manière jugée acceptable par les pouvoirs publics concernés.
 
 2.6.4 *Pratique recommandée.* Dans les circonstances prévues dans la norme 2.6.3 mais lorsque la composition de l’équipage a subi de légères modifications, les pouvoirs publics ne devraient pas normalement exiger qu’une nouvelle liste complète de l’équipage soit présentée, mais devraient accepter une liste sur laquelle les modifications intervenues seraient indiquées.
 
@@ -703,7 +703,7 @@ Note:
 
 Lors de la création d’une Commission nationale de simplification des formalités du transport maritime ou d’un organisme de coordination national analogue, les Gouvernements contractants sont invités à tenir compte des directives énoncées dans la circulaire FAL.5/Circ. 2.
 
-Champ d’application le 21 août 2018**[^t-3]**
+Champ d’application le 21 avril 2021[^t-3]
 
 <table>
 <tr><th colspan="2">Etats parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
@@ -737,6 +737,7 @@ Champ d’application le 21 août 2018**[^t-3]**
 <tr><td colspan="2">Congo (Brazzaville)</td><td colspan="2">7 août</td><td colspan="2">2002 A</td><td>6 octobre</td><td>2002</td></tr>
 <tr><td colspan="2">Corée (Nord)</td><td colspan="2">24 avril</td><td colspan="2">1992 A</td><td>23 juin</td><td>1992</td></tr>
 <tr><td colspan="2">Corée (Sud)</td><td colspan="2">6 mars</td><td colspan="2">2001</td><td>5 mai</td><td>2001</td></tr>
+<tr><td colspan="2">Costa Rica\*</td><td colspan="2">12 février</td><td colspan="2">2019 A</td><td>13 avril</td><td>2019</td></tr>
 <tr><td colspan="2">Côte d'Ivoire</td><td colspan="2">16 février</td><td colspan="2">1967</td><td>5 mars</td><td>1967</td></tr>
 <tr><td colspan="2">Croatie</td><td colspan="2">27 juillet</td><td colspan="2">1992 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td colspan="2">Cuba<sup>\*</sup></td><td colspan="2">27 novembre</td><td colspan="2">1984 A</td><td>26 janvier</td><td>1985</td></tr>
@@ -785,6 +786,7 @@ Champ d’application le 21 août 2018**[^t-3]**
 <tr><td colspan="2">Lituanie</td><td colspan="2">25 janvier</td><td colspan="2">2000 A</td><td>25 mars</td><td>2000</td></tr>
 <tr><td colspan="2">Luxembourg</td><td colspan="2">14 février</td><td colspan="2">1991 A</td><td>15 avril</td><td>1991</td></tr>
 <tr><td colspan="2">Madagascar</td><td colspan="2">8 juillet</td><td colspan="2">1970</td><td>6 septembre</td><td>1970</td></tr>
+<tr><td colspan="2">Malaisie</td><td colspan="2">10 avril</td><td colspan="2">2019</td><td>9 avril</td><td>2019</td></tr>
 <tr><td colspan="2">Mali</td><td colspan="2">12 octobre</td><td colspan="2">2004 A</td><td>11 décembre</td><td>2004</td></tr>
 <tr><td colspan="2">Malte<sup>\*</sup></td><td colspan="2">24 septembre</td><td colspan="2">2002 A</td><td>23 novembre</td><td>2002</td></tr>
 <tr><td colspan="2">Maurice</td><td colspan="2">18 juin</td><td colspan="2">1990 A</td><td>17 août</td><td>1990</td></tr>
@@ -795,6 +797,7 @@ Champ d’application le 21 août 2018**[^t-3]**
 <tr><td colspan="2">Nigéria</td><td colspan="2">24 janvier</td><td colspan="2">1967 A</td><td>5 mars</td><td>1967</td></tr>
 <tr><td colspan="2">Norvège</td><td colspan="2">8 septembre</td><td colspan="2">1966</td><td>5 mars</td><td>1967</td></tr>
 <tr><td colspan="2">Nouvelle-Zélande</td><td colspan="2">27 juillet</td><td colspan="2">1973 A</td><td>25 septembre</td><td>1973</td></tr>
+<tr><td colspan="2">Ouganda</td><td colspan="2">3 avril</td><td colspan="2">2019 A</td><td>2 juin</td><td>2019</td></tr>
 <tr><td colspan="2">Palaos</td><td colspan="2">29 septembre</td><td colspan="2">2011 A</td><td>28 novembre</td><td>2011</td></tr>
 <tr><td colspan="2">Panama</td><td colspan="2">1<sup>er</sup> septembre</td><td colspan="2">2008 A</td><td>13 octobre</td><td>2008</td></tr>
 <tr><td colspan="2">Pays-Bas<sup>\*</sup></td><td colspan="2">21 septembre</td><td colspan="2">1967</td><td>20 novembre</td><td>1967</td></tr>
@@ -812,6 +815,7 @@ Champ d’application le 21 août 2018**[^t-3]**
 <tr><td colspan="2">Russie<sup>\*</sup></td><td colspan="2">25 octobre</td><td colspan="2">1966</td><td>5 mars</td><td>1967</td></tr>
 <tr><td colspan="2">Sainte-Lucie</td><td colspan="2">20 mai</td><td colspan="2">2004 A</td><td>19 juillet</td><td>2004</td></tr>
 <tr><td colspan="2">Saint-Kitts-et-Nevis</td><td colspan="2">4 octobre</td><td colspan="2">2004 A</td><td>6 décembre</td><td>2004</td></tr>
+<tr><td colspan="2">Saint-Vincent-et-les Grenadines</td><td colspan="2">2 juillet</td><td colspan="2">2020 A</td><td>30 septembre</td><td>2020</td></tr>
 <tr><td colspan="2">Samoa</td><td colspan="2">18 mai</td><td colspan="2">2004 A</td><td>17 juillet</td><td>2004</td></tr>
 <tr><td colspan="2">Sénégal</td><td colspan="2">17 octobre</td><td colspan="2">1980</td><td>16 décembre</td><td>1980</td></tr>
 <tr><td colspan="2">Serbie</td><td colspan="2">27 avril</td><td colspan="2">1992 S</td><td>27 avril</td><td>1992</td></tr>
@@ -838,8 +842,8 @@ Champ d’application le 21 août 2018**[^t-3]**
 <tr><td colspan="2">Vietnam</td><td colspan="2">23 janvier</td><td colspan="2">2006 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td colspan="2">Yémen</td><td colspan="2">6 mars</td><td colspan="2">1979 A</td><td>5 mai</td><td>1979</td></tr>
 <tr><td colspan="2">Zambie</td><td colspan="2">14 décembre</td><td colspan="2">1965 A</td><td>5 mars</td><td>1967</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org/OurWork/Facilitation ou à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation maritime internationale (OMI) (www.imo.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org/OurWork/Facilitation ou à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="8"><sup>a</sup> Du 5 mars 1967 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-3]: [RO 1973 254](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257), [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330), **1978** 1572, [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133), [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159), [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243), [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482)[1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146), [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159), [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697), **1993** 1907, [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193), [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539), [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443), [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1973 254](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257), [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330), **1978** 1572, [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133), [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159), [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243), [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482)[1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146), [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159), [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697), **1993** 1907, [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193), [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539), [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443), [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486),[2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral Fedlex (https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.747.305.31"
 title: Convenzione del 9 aprile 1965 intesa ad agevolare il traffico marittimo internazionale (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/706_730_726"
 language: it
-version: 2018-08-21
+version: 2021-04-28
 adopted: 1965-04-09
 in_force: 1968-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20180821/it/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20180821-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20180821/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20210428/it/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20210428-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20210428/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 23 aprile 1968
 
 Entrata in vigore il 5 marzo 1967 e, per la Svizzera, il 22 giugno 1968
 
-(Stato 21 agosto 2018)
+(Stato 28 aprile 2021)
 
 [^t-1]: Cpv. 1 lett. a del DF del 12 mar. 1968 ([RU 1968 725](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725)).
 
@@ -161,7 +161,7 @@ La presente Convenzione e l’allegato sono fatti nelle lingue inglese e frances
 
 *In fede di che,* i sottoscritti, debitamente autorizzati dai loro Governi, hanno firmato la presente Convenzione. Fatto a Londra, il 9 aprile 1965.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 ## Capitolo 1 Definizioni e disposizioni generali
 
@@ -191,6 +191,7 @@ Per l’applicazione delle disposizioni del presente allegato alle espressioni c
 
 *«Nave in crociera».* Nave effettuante un viaggio internazionale e che alloggia a bordo dei passeggeri partecipanti ad un programma collettivo e facente degli scali turistici temporanei, conformemente ad un determinato piano, in uno o più porti. Durante il viaggio la nave non deve per principio:
 
+- [tab]
 - a. né imbarcare o sbarcare altri passeggeri;
 - b. né caricare o scaricare delle merci.
 
@@ -710,7 +711,7 @@ Nota:
 
 Al momento dell’istituzione di una Commissione nazionale di semplificazione delle formalità di trasporto marittimo o di un organismo di coordinamento nazionale analogo, i Governi contraenti sono pregati di tenere conto delle direttive contenute nella circolare FAL. 5/Circ. 2.
 
-Campo d’applicazione il 21 agosto 2018**[^t-3]**
+Campo d’applicazione il 28 aprile 2021**[^t-3]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -744,6 +745,7 @@ Campo d’applicazione il 21 agosto 2018**[^t-3]**
 <tr><td>Congo (Brazzaville)</td><td>7 agosto</td><td>2002 A</td><td>6 ottobre</td><td>2002</td></tr>
 <tr><td>Corea (Nord)</td><td>24 aprile</td><td>1992 A</td><td>23 giugno</td><td>1992</td></tr>
 <tr><td>Corea (Sud)</td><td>6 marzo</td><td>2001</td><td>5 maggio</td><td>2001</td></tr>
+<tr><td>Costa Rica\*</td><td>12 febbraio</td><td>2019 A</td><td>13 aprile</td><td>2019</td></tr>
 <tr><td>Côte d’Ivoire</td><td>16 febbraio</td><td>1967</td><td>5 marzo</td><td>1967</td></tr>
 <tr><td>Croazia</td><td>27 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>27 novembre</td><td>1984 A</td><td>26 gennaio</td><td>1985</td></tr>
@@ -786,6 +788,7 @@ Campo d’applicazione il 21 agosto 2018**[^t-3]**
 <tr><td>Lituania</td><td>25 gennaio</td><td>2000 A</td><td>25 marzo</td><td>2000</td></tr>
 <tr><td>Lussemburgo</td><td>14 febbraio</td><td>1991 A</td><td>15 aprile</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>8 luglio</td><td>1970</td><td>6 settembre</td><td>1970</td></tr>
+<tr><td>Malaysia</td><td>10 aprile</td><td>2019</td><td>9 aprile</td><td>2019</td></tr>
 <tr><td>Mali</td><td>12 ottobre</td><td>2004 A</td><td>11 dicembre</td><td>2004</td></tr>
 <tr><td>Malta<sup>\*</sup></td><td>24 settembre</td><td>2002 A</td><td>23 novembre</td><td>2002</td></tr>
 <tr><td>Maurizio</td><td>18 giugno</td><td>1990 A</td><td>17 agosto</td><td>1990</td></tr>
@@ -811,6 +814,7 @@ Campo d’applicazione il 21 agosto 2018**[^t-3]**
 <tr><td>Russia<sup>\*</sup></td><td>25 ottobre</td><td>1966</td><td>5 marzo</td><td>1967</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>4 ottobre</td><td>2004 A</td><td>6 dicembre</td><td>2004</td></tr>
 <tr><td>Saint Lucia</td><td>20 maggio</td><td>2004 A</td><td>19 luglio</td><td>2004</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>2 luglio</td><td>2020 A</td><td>30 settembre</td><td>2020</td></tr>
 <tr><td>Samoa</td><td>18 maggio</td><td>2004 A</td><td>17 luglio</td><td>2004</td></tr>
 <tr><td>Seicelle</td><td>13 dicembre</td><td>1989 A</td><td>11 febbraio</td><td>1990</td></tr>
 <tr><td>Senegal</td><td>17 ottobre</td><td>1980</td><td>16 dicembre</td><td>1980</td></tr>
@@ -838,6 +842,7 @@ Campo d’applicazione il 21 agosto 2018**[^t-3]**
 <tr><td>Tunisia</td><td>27 gennaio</td><td>1969 A</td><td>28 marzo</td><td>1969</td></tr>
 <tr><td>Turchia</td><td>13 maggio</td><td>2016 A</td><td>12 luglio</td><td>2016</td></tr>
 <tr><td>Ucraina</td><td>25 ottobre</td><td>1993</td><td>24 dicembre</td><td>1993</td></tr>
+<tr><td>Uganda</td><td>3 aprile</td><td>2019 A</td><td>2 giugno</td><td>2019</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>15 dicembre</td><td>1976</td><td>13 febbraio</td><td>1977</td></tr>
 <tr><td>Uruguay<sup>\*</sup></td><td>2 dicembre</td><td>1992 A</td><td>31 gennaio</td><td>1993</td></tr>
 <tr><td>Vanuatu</td><td>13 gennaio</td><td>1989 A</td><td>14 marzo</td><td>1989</td></tr>
@@ -845,8 +850,7 @@ Campo d’applicazione il 21 agosto 2018**[^t-3]**
 <tr><td>Vietnam</td><td>23 gennaio</td><td>2006 A</td><td>24 marzo</td><td>2006</td></tr>
 <tr><td>Yemen</td><td>6 marzo</td><td>1979 A</td><td>5 maggio</td><td>1979</td></tr>
 <tr><td>Zambia</td><td>14 dicembre</td><td>1965 A</td><td>5 marzo</td><td>1967</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. I testi inglesi si possono ottener sul sito Internet dell’Organizzazione internazionale per la navigazione marittima (IMO): www.imo.org/OurWork/Facilitation od presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Dal 5 mar. 1967 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione marittima internazionale (OMI) (www.imo.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab] <sup>a</sup> Dal 5 mar. 1967 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-3]: [RU 1973 257](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257), [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330), **1978** 1572, [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133), [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159), [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243), [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482)[1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146), [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159), [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697), **1993** 1907, [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193), [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539), [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443)e [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1973 257](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257); [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330); [1978 1567](https://fedlex.data.admin.ch/eli/oc/1978/1567_1567_1567); [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133); [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159); [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243); [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482), [1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146); [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159); [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697); **1993** 1907; [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193); [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539); [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443); [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486)e [2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (https://fedlex.admin.ch/it/Treaty).

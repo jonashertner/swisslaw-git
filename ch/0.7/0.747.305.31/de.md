@@ -3,11 +3,11 @@ sr: "0.747.305.31"
 title: Übereinkommen vom 9. April 1965 zur Erleichterung des internationalen Seeverkehrs (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/706_730_726"
 language: de
-version: 2018-08-21
+version: 2021-04-28
 adopted: 1965-04-09
 in_force: 1968-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20180821/de/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20180821-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20180821/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20210428/de/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20210428-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20210428/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1968** 706; BBl **1967** II 1197
 
 Abgeschlossen in London am 9. April 1965 Von der Bundesversammlung genehmigt am 12. März 1968[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. April 1968 In Kraft getreten für die Schweiz am 22. Juni 1968
 
-(Stand am 21. August 2018)
+(Stand am 28. April 2021)
 
 [^t-1]: Ziff. 1 Bst. a des BB vom 12. März 1968 ([AS 1968 705](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725)).
 
@@ -685,7 +685,7 @@ Anmerkung:
 
 Die Vertragsregierung werden aufgefordert, bei der Einsetzung eines nationalen Ausschusses zur Erleichterung des Seeverkehrs oder eines ähnlichen nationalen Koordinierungsgremiums die in FAL.5/Circ.2 enthaltenen Richtlinien zu berücksichtigen.
 
-Geltungsbereich am 21. August 2018**[^t-3]**
+Geltungsbereich am 28. April 2021**[^t-3]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -709,6 +709,7 @@ Geltungsbereich am 21. August 2018**[^t-3]**
 <tr><td>China</td><td>16. Januar</td><td>1995 B</td><td>17. März</td><td colspan="2">1995</td></tr>
 <tr><td>Hongkong <sup>a</sup></td><td>5. Juni</td><td>1997</td><td>1. Juli</td><td colspan="2">1997</td></tr>
 <tr><td>Macau</td><td>24. Juni</td><td>2005</td><td>24. Juni</td><td colspan="2">2005</td></tr>
+<tr><td>Costa Rica\*</td><td>12. Februar</td><td>2019 B</td><td>13. April</td><td colspan="2">2019</td></tr>
 <tr><td>Côte d’Ivoire</td><td>16. Februar</td><td>1967</td><td>5. März</td><td colspan="2">1967</td></tr>
 <tr><td>Dänemark</td><td>9. Januar</td><td>1968</td><td>9. März</td><td colspan="2">1968</td></tr>
 <tr><td>Deutschland\*</td><td>26. Juli</td><td>1967</td><td>24. September</td><td colspan="2">1967</td></tr>
@@ -756,6 +757,7 @@ Geltungsbereich am 21. August 2018**[^t-3]**
 <tr><td>Litauen</td><td>25. Januar</td><td>2000 B</td><td>25. März</td><td colspan="2">2000</td></tr>
 <tr><td>Luxemburg</td><td>14. Februar</td><td>1991 B</td><td>15. April</td><td colspan="2">1991</td></tr>
 <tr><td>Madagaskar</td><td>8. Juli</td><td>1970</td><td>6. September</td><td colspan="2">1970</td></tr>
+<tr><td>Malaysia</td><td>10. April</td><td>2019</td><td>9. April</td><td colspan="2">2019</td></tr>
 <tr><td>Mali</td><td>12. Oktober</td><td>2004 B</td><td>11. Dezember</td><td colspan="2">2004</td></tr>
 <tr><td>Malta\*</td><td>24. September</td><td>2002 B</td><td>23. November</td><td colspan="2">2002</td></tr>
 <tr><td>Marshallinseln</td><td>29. November</td><td>1994 B</td><td>28. Januar</td><td colspan="2">1995</td></tr>
@@ -796,6 +798,7 @@ Geltungsbereich am 21. August 2018**[^t-3]**
 <tr><td>Sri Lanka</td><td>6. März</td><td>1998 B</td><td>5. Mai</td><td colspan="2">1998</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>4. Oktober</td><td>2004 B</td><td>6. Dezember</td><td colspan="2">2004</td></tr>
 <tr><td>St. Lucia</td><td>20. Mai</td><td>2004 B</td><td>19. Juli</td><td colspan="2">2004</td></tr>
+<tr><td>St. Vincent und die Grenadinen</td><td>2. Juli</td><td>2020 B</td><td>30. September</td><td colspan="2">2020</td></tr>
 <tr><td>Suriname</td><td>29. November</td><td>1975 N</td><td>25. November</td><td colspan="2">1975</td></tr>
 <tr><td>Syrien\*</td><td>6. Februar</td><td>1975 B</td><td>7. April</td><td colspan="2">1975</td></tr>
 <tr><td>Tansania</td><td>23. Juli</td><td>2008 B</td><td>21. September</td><td colspan="2">2008</td></tr>
@@ -805,6 +808,7 @@ Geltungsbereich am 21. August 2018**[^t-3]**
 <tr><td>Tschechische Republik\*</td><td>19. Oktober</td><td>1993 N</td><td>1. Januar</td><td colspan="2">1993</td></tr>
 <tr><td>Tunesien</td><td>27. Januar</td><td>1969 B</td><td>28. März</td><td colspan="2">1969</td></tr>
 <tr><td>Türkei</td><td>13. Mai</td><td>2016 B</td><td>12. Juli</td><td colspan="2">2016</td></tr>
+<tr><td>Uganda</td><td>3. April</td><td>2019 B</td><td>2. Juni</td><td colspan="2">2019</td></tr>
 <tr><td>Ukraine</td><td>25. Oktober</td><td>1993</td><td>24. Dezember</td><td colspan="2">1993</td></tr>
 <tr><td>Ungarn\*</td><td>15. Dezember</td><td>1976</td><td>13. Februar</td><td colspan="2">1977</td></tr>
 <tr><td>Uruguay\*</td><td>2. Dezember</td><td>1992 B</td><td>31. Januar</td><td colspan="2">1993</td></tr>
@@ -822,8 +826,8 @@ Geltungsbereich am 21. August 2018**[^t-3]**
 <tr><td>Zypern</td><td>9. März</td><td>2004 B</td><td>8. Mai</td><td colspan="2">2004</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
 <tr><td colspan="5">\*\* Einwendungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte, Erklärungen und die Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): http://www.imo.org/OurWork/facilitation eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte, Erklärungen und die Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Vom 5. März 1967 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1973 256](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257), [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330), **1978** 1572, [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133), [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159), [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243), [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482)[1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146), [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159), [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697), [1993 1903](https://fedlex.data.admin.ch/eli/oc/1993/1903_1903_1903), [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193), [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539), **2012** 2815, [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1973 256](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257); [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330); [1978 1567](https://fedlex.data.admin.ch/eli/oc/1978/1567_1567_1567); [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133); [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159); [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243); [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482), [1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146); [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159); [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697); **1993** 1907; [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193); [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539); [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443); [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486); [2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://fedlex.admin.ch/de/Treaty).
