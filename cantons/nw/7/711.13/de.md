@@ -1,16 +1,16 @@
 ---
 canton: NW
 number: "711.13"
-title: Verordnung zur Bekämpfung der Verbreitung des Coronavi
+title: Verordnung zur Bekämpfung der Verbreitung des Coronavirus
 short: Kantonale Covid-19-Verordnung
 language: de
-version: 2021-03-01
-valid_until: 2021-04-28
-version_adopted: 2021-02-23
+version: 2021-04-29
+valid_until: 2021-06-27
+version_adopted: 2021-04-27
 adopted: 2020-11-03
 in_force: 2020-11-04
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/271/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/463/pdf_file"
 text: pdf
 ---
 
@@ -64,11 +64,11 @@ beschliesst:
 
 **Aufgehoben[^2a-1]**
 
+[^3-1]: Fassung gemäss Regierungsratsbeschluss vom 27. April 2021, A 2021, 825; in Kraft seit 29. April 2021
+
 #### § 4
 
-**Für das Publikum geschlossene Einrichtungen**
-
-und Betriebe Erotik- und Sexbetriebe sind für das Publikum geschlossen.
+**Aufgehoben[^3-1]**
 
 #### § 4a
 
