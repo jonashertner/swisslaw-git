@@ -4,13 +4,13 @@ number: "153.113"
 title: Verordnung über die Delegation von Kompetenzen des Regierungsrats
 short: "Delegationsverordnung, DelV"
 language: de
-version: 2021-01-01
-valid_until: 2021-04-29
-version_adopted: 2020-09-23
+version: 2021-04-30
+valid_until: 2021-06-30
+version_adopted: 2021-03-17
 adopted: 2013-04-10
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3026/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3027/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3026/pdf_file"
 
 (Delegationsverordnung, DelV)
 
-Vom 10.04.2013 (Stand 01.01.2021)
+Vom 10.04.2013 (Stand 30.04.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -259,9 +259,9 @@ beschliesst:
 
 #### § 16a
 
-**Verfahrensbeteiligung**
+**Mehrwertabgabeverfahren gemäss Baugesetz**
 
-<sup>1</sup> Das Departement Bau, Verkehr und Umwelt vertritt den Regierungsrat in Verfahren betreffend die Mehrwertabgabe gemäss Baugesetzgebung.
+<sup>1</sup> Das Departement Bau, Verkehr und Umwelt, oder nach Rücksprache mit diesem das Departement Finanzen und Ressourcen, vertritt den Regierungsrat in Verfahren betreffend die Mehrwertabgabe gemäss Baugesetz. Beide Departemente sind namentlich ermächtigt, in diesen Verfahren Rechtsmittel zu ergreifen, sie zurückzuziehen und Vergleiche abzuschliessen.
 
 ## 4. Übergangs- und Schlussbestimmungen
 
