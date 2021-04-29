@@ -4,13 +4,13 @@ number: "490.11"
 title: Energieverordnung
 short: EnV BL
 language: de
-version: 2020-10-23
-valid_until: 2021-04-29
-version_adopted: 2020-10-13
+version: 2021-04-30
+valid_until: 2021-10-07
+version_adopted: 2021-04-20
 adopted: 2016-12-20
 in_force: 2017-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/490.11"
-pdf: "https://bl.clex.ch/api/de/versions/2739/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2987/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2739/pdf_file"
 
 (EnV BL)
 
-Vom 20.12.2016 (Stand 23.10.2020)
+Vom 20.12.2016 (Stand 30.04.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -402,7 +402,7 @@ beschliesst:
 
 <sup>1</sup> Heizungen im Freien zur Erwärmung von Weichen öffentlicher Verkehrsmittel benötigen keine Bewilligung.
 
-<sup>2</sup> Elektrisch betriebene Heizstrahler sind für Betriebe der Gastro- und Event-Branche befristet bis zum 30. April 2021 ohne Bewilligung zugelassen.
+<sup>2</sup> Elektrisch betriebene Heizstrahler sind für Betriebe der Gastro- und Event-Branche befristet bis zum 30. Juni 2021 ohne Bewilligung zugelassen.
 
 #### § 33
 
