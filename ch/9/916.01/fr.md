@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2021-04-01
+version: 2021-05-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210401/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> avril 2021)
+du 26 octobre 2011 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -759,7 +759,7 @@ Les importations avec PGI sont soumises à un émolument. Le tarif des émolumen
 [^55-1]: Cet art. a une nouvelle teneur ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 1, 4, 5, al. 1, 7, 10, 13, al. 2, 27, al. 1, 32, al. 1, 34 et 37, al. 3)
 
@@ -2743,133 +2743,133 @@ L’importation des produits mentionnés ci-après requiert un PGI. Les dérogat
 <tr><th>0105.9400</th><th></th><th>20</th><th>Les poules dont le poids dépasse 2000 g ne sont pas soumises au régime du PGI</th></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 4 et 28)
 
 ## Droits de douane applicables aux marchés des semences des céréales, des aliments pour animaux, des oléagineux, des marchandises dont les sous-produits de transformation servent à l’alimentation des animaux et des céréales secondaires pour l’alimentation humaine
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 22 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 171](https://fedlex.data.admin.ch/eli/oc/2021/171)).
+[^t-2]: Nouvelle teneur selon le ch.I de l’O de l’OFAG du 19 avril 2021, en vigueur le 1 <sup>er</sup> mai 2021 ([RO 2021 227](https://fedlex.data.admin.ch/eli/oc/2021/227)).
 
 <table>
-<tr><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th></tr>
-<tr><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
-<tr><td>0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
-<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>2.00</td><td>\*</td><td>0709.9991</td><td>5.00</td><td>\*</td><td>0712.9070</td><td>5.00</td><td>\*</td></tr>
-<tr><td>0713.1011</td><td>1.00</td><td>\*</td><td>0713.1012</td><td>0.10</td><td>\*</td><td>0713.1091</td><td>1.00</td><td>\*</td><td>0713.2011</td><td>1.00</td><td>\*</td></tr>
-<tr><td>0713.2012</td><td>0.10</td><td>\*</td><td>0713.2091</td><td>1.00</td><td>\*</td><td>0713.3111</td><td>2.00</td><td>\*</td><td>0713.3112</td><td>0.20</td><td>\*</td></tr>
-<tr><td>0713.3191</td><td>2.00</td><td>\*</td><td>0713.3211</td><td>2.00</td><td>\*</td><td>0713.3212</td><td>0.20</td><td>\*</td><td>0713.3291</td><td>2.00</td><td>\*</td></tr>
-<tr><td>0713.3311</td><td>2.00</td><td>\*</td><td>0713.3312</td><td>0.20</td><td>\*</td><td>0713.3391</td><td>2.00</td><td>\*</td><td>0713.3411</td><td>1.00</td><td>\*</td></tr>
-<tr><td>0713.3412</td><td>0.10</td><td>\*</td><td>0713.3491</td><td>1.00</td><td>\*</td><td>0713.3511</td><td>2.00</td><td>\*</td><td>0713.3512</td><td>0.20</td><td>\*</td></tr>
-<tr><td>0713.3591</td><td>2.00</td><td>\*</td><td>0713.3911</td><td>2.00</td><td>\*</td><td>0713.3912</td><td>0.20</td><td>\*</td><td>0713.3991</td><td>2.00</td><td>\*</td></tr>
-<tr><td>0713.4011</td><td>2.00</td><td>\*</td><td>0713.4012</td><td>0.20</td><td>\*</td><td>0713.4091</td><td>2.00</td><td>\*</td><td>0713.5012</td><td>2.00</td><td>\*</td></tr>
-<tr><td>0713.5013</td><td>0.20</td><td>\*</td><td>0713.5091</td><td>2.00</td><td>\*</td><td>0713.6011</td><td>1.00</td><td>\*</td><td>0713.6012</td><td>0.10</td><td>\*</td></tr>
-<tr><td>0713.6091</td><td>1.00</td><td>\*</td><td>0713.9021</td><td>2.00</td><td>\*</td><td>0713.9022</td><td>0.20</td><td>\*</td><td>0713.9081</td><td>2.00</td><td>\*</td></tr>
-<tr><td>0714.1010</td><td>0.00</td><td></td><td>0714.2010</td><td>0.00</td><td></td><td>0714.3010</td><td>0.00</td><td></td><td>0714.4010</td><td>0.00</td><td></td></tr>
-<tr><td>0714.5010</td><td>0.00</td><td></td><td>0714.9020</td><td>0.00</td><td></td><td>0802.2110</td><td>0.00</td><td></td><td>0802.2120</td><td>0.00</td><td></td></tr>
-<tr><td>0802.2210</td><td>1.70</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
-<tr><td>0802.3210</td><td>1.70</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
-<tr><td>0813.5012</td><td>4.70</td><td></td><td>0813.5021</td><td>4.70</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>4.70</td><td></td></tr>
-<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>9.00</td><td>\*</td><td>1001.1939</td><td>7.00</td><td>\*</td></tr>
-<tr><td>1001.1940</td><td>0.70</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>9.00</td><td>\*</td><td>1001.9939</td><td>7.00</td><td>\*</td></tr>
-<tr><td>1001.9940</td><td>0.70</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>9.00</td><td>\*</td><td>1002.9039</td><td>8.00</td><td>\*</td></tr>
-<tr><td>1002.9040</td><td>0.80</td><td>\*</td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>3.50</td><td>\*</td><td>1003.9030</td><td>0.20</td><td>\*</td></tr>
-<tr><td>1003.9041</td><td>1.60</td><td>\*</td><td>1003.9051</td><td>9.00</td><td>\*</td><td>1003.9059</td><td>7.00</td><td>\*</td><td>1003.9060</td><td>1.05</td><td>\*</td></tr>
-<tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.20</td><td>\*</td><td>1004.9031</td><td>9.00</td><td>\*</td><td>1004.9039</td><td>1.00</td><td>\*</td></tr>
-<tr><td>1004.9040</td><td>0.25</td><td>\*</td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>1.25</td><td>\*</td><td>1005.9031</td><td>9.00</td><td>\*</td></tr>
-<tr><td>1005.9039</td><td>5.00</td><td>\*</td><td>1005.9040</td><td>0.50</td><td>\*</td><td>1006.1021</td><td>9.00</td><td>\*</td><td>1006.1029</td><td>0.00</td><td></td></tr>
-<tr><td>1006.2021</td><td>9.00</td><td>\*</td><td>1006.2029</td><td>0.00</td><td></td><td>1006.3021</td><td>9.00</td><td>\*</td><td>1006.3029</td><td>0.00</td><td></td></tr>
-<tr><td>1006.4021</td><td>9.00</td><td>\*</td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>9.00</td><td>\*</td><td>1007.9039</td><td>8.00</td><td></td></tr>
-<tr><td>1007.9040</td><td>0.25</td><td></td><td>1008.1031</td><td>9.00</td><td>\*</td><td>1008.1039</td><td>4.00</td><td></td><td>1008.1040</td><td>0.10</td><td></td></tr>
-<tr><td>1008.2931</td><td>9.00</td><td>\*</td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>9.00</td><td>\*</td></tr>
-<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>9.00</td><td>\*</td><td>1008.4039</td><td>7.00</td><td>\*</td></tr>
-<tr><td>1008.4040</td><td>0.20</td><td>\*</td><td>1008.5031</td><td>9.00</td><td>\*</td><td>1008.5039</td><td>7.00</td><td>\*</td><td>1008.5040</td><td>0.20</td><td>\*</td></tr>
-<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>9.00</td><td>\*</td><td>1008.6049</td><td>9.00</td><td>\*</td><td>1008.6050</td><td>0.90</td><td>\*</td></tr>
-<tr><td>1008.9035</td><td>9.00</td><td>\*</td><td>1008.9037</td><td>7.00</td><td>\*</td><td>1008.9040</td><td>0.20</td><td>\*</td><td>1101.0051</td><td>14.00</td><td>\*</td></tr>
-<tr><td>1101.0059</td><td>18.00</td><td>\*</td><td>1102.2010</td><td>21.80</td><td>\*</td><td>1102.2020</td><td>11.00</td><td>\*</td><td>1102.9013</td><td>20.00</td><td>\*</td></tr>
-<tr><td>1102.9045</td><td>14.00</td><td>\*</td><td>1102.9046</td><td>12.00</td><td>\*</td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>18.00</td><td>\*</td></tr>
-<tr><td>1103.1112</td><td>17.00</td><td>\*</td><td>1103.1192</td><td>15.00</td><td>\*</td><td>1103.1320</td><td>12.00</td><td>\*</td><td>1103.1390</td><td>22.50</td><td>\*</td></tr>
-<tr><td>1103.1912</td><td>17.00</td><td>\*</td><td>1103.1922</td><td>19.00</td><td>\*</td><td>1103.1929</td><td>20.30</td><td>\*</td><td>1103.1932</td><td>0.70</td><td></td></tr>
-<tr><td>1103.1993</td><td>15.00</td><td>\*</td><td>1103.2012</td><td>14.00</td><td>\*</td><td>1103.2022</td><td>14.00</td><td>\*</td><td>1103.2092</td><td>14.00</td><td>\*</td></tr>
-<tr><td>1104.1220</td><td>20.00</td><td>\*</td><td>1104.1290</td><td>20.35</td><td>\*</td><td>1104.1912</td><td>15.00</td><td>\*</td><td>1104.1922</td><td>16.00</td><td>\*</td></tr>
-<tr><td>1104.1929</td><td>22.30</td><td>\*</td><td>1104.1993</td><td>15.00</td><td>\*</td><td>1104.2220</td><td>20.30</td><td>\*</td><td>1104.2230</td><td>19.00</td><td>\*</td></tr>
-<tr><td>1104.2320</td><td>10.00</td><td></td><td>1104.2390</td><td>23.45</td><td>\*</td><td>1104.2912</td><td>15.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
-<tr><td>1104.2932</td><td>22.30</td><td>\*</td><td>1104.2933</td><td>15.00</td><td>\*</td><td>1104.2993</td><td>13.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
-<tr><td>1104.3081</td><td>3.70</td><td></td><td>1104.3093</td><td>0.00</td><td></td><td>1105.1021</td><td>9.70</td><td></td><td>1105.2021</td><td>11.70</td><td></td></tr>
-<tr><td>1106.1010</td><td>4.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
-<tr><td>1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
-<tr><td>1108.1220</td><td>0.00</td><td></td><td>1108.1320</td><td>0.00</td><td></td><td>1108.1420</td><td>2.70</td><td></td><td>1108.1912</td><td>4.70</td><td></td></tr>
-<tr><td>1108.1992</td><td>4.70</td><td></td><td>1108.2020</td><td>5.70</td><td></td><td>1201.9010</td><td>0.00</td><td></td><td>1201.9021</td><td>0.10</td><td></td></tr>
-<tr><td>1201.9023</td><td>24.35</td><td></td><td>1201.9024</td><td>18.65</td><td></td><td>1201.9026</td><td>0.10</td><td></td><td>1201.9027</td><td>0.10</td><td></td></tr>
-<tr><td>1201.9091</td><td>0.00</td><td></td><td>1202.4110</td><td>6.70</td><td></td><td>1202.4121</td><td>0.10</td><td></td><td>1202.4123</td><td>51.00</td><td></td></tr>
-<tr><td>1202.4124</td><td>43.75</td><td></td><td>1202.4126</td><td>0.10</td><td></td><td>1202.4127</td><td>0.10</td><td></td><td>1202.4210</td><td>7.70</td><td></td></tr>
-<tr><td>1202.4221</td><td>0.10</td><td></td><td>1202.4223</td><td>61.80</td><td></td><td>1202.4224</td><td>56.80</td><td></td><td>1202.4226</td><td>0.10</td><td></td></tr>
-<tr><td>1202.4227</td><td>0.10</td><td></td><td>1203.0010</td><td>7.70</td><td></td><td>1203.0021</td><td>0.10</td><td></td><td>1203.0023</td><td>82.85</td><td></td></tr>
-<tr><td>1203.0024</td><td>77.15</td><td></td><td>1203.0026</td><td>0.10</td><td></td><td>1203.0027</td><td>0.10</td><td></td><td>1204.0010</td><td>0.00</td><td></td></tr>
-<tr><td>1204.0021</td><td>0.10</td><td></td><td>1204.0023</td><td>50.05</td><td></td><td>1204.0024</td><td>42.90</td><td></td><td>1204.0026</td><td>0.10</td><td></td></tr>
-<tr><td>1204.0027</td><td>0.10</td><td></td><td>1205.1010</td><td>1.00</td><td></td><td>1205.1021</td><td>0.10</td><td></td><td>1205.1023</td><td>52.90</td><td></td></tr>
-<tr><td>1205.1024</td><td>45.75</td><td></td><td>1205.1026</td><td>0.10</td><td></td><td>1205.1027</td><td>0.10</td><td></td><td>1205.1040</td><td>1.00</td><td></td></tr>
-<tr><td>1205.1051</td><td>0.10</td><td></td><td>1205.1053</td><td>60.00</td><td></td><td>1205.1054</td><td>52.90</td><td></td><td>1205.1056</td><td>0.10</td><td></td></tr>
-<tr><td>1205.1057</td><td>0.10</td><td></td><td>1205.9010</td><td>1.00</td><td></td><td>1205.9021</td><td>0.10</td><td></td><td>1205.9023</td><td>52.90</td><td></td></tr>
-<tr><td>1205.9024</td><td>45.75</td><td></td><td>1205.9026</td><td>0.10</td><td></td><td>1205.9027</td><td>0.10</td><td></td><td>1205.9040</td><td>1.00</td><td></td></tr>
-<tr><td>1205.9051</td><td>0.10</td><td></td><td>1205.9053</td><td>60.00</td><td></td><td>1205.9054</td><td>52.90</td><td></td><td>1205.9056</td><td>0.10</td><td></td></tr>
-<tr><td>1205.9057</td><td>0.10</td><td></td><td>1206.0010</td><td>0.00</td><td></td><td>1206.0021</td><td>0.10</td><td></td><td>1206.0023</td><td>58.30</td><td></td></tr>
-<tr><td>1206.0024</td><td>49.55</td><td></td><td>1206.0026</td><td>0.10</td><td></td><td>1206.0027</td><td>0.10</td><td></td><td>1206.0040</td><td>2.70</td><td></td></tr>
-<tr><td>1206.0041</td><td>0.10</td><td></td><td>1206.0053</td><td>65.60</td><td></td><td>1206.0054</td><td>58.30</td><td></td><td>1206.0056</td><td>0.10</td><td></td></tr>
-<tr><td>1206.0057</td><td>0.10</td><td></td><td>1207.1010</td><td>2.70</td><td></td><td>1207.1021</td><td>0.10</td><td></td><td>1207.1023</td><td>60.35</td><td></td></tr>
-<tr><td>1207.1024</td><td>53.20</td><td></td><td>1207.1026</td><td>0.10</td><td></td><td>1207.1027</td><td>0.10</td><td></td><td>1207.2910</td><td>4.70</td><td></td></tr>
-<tr><td>1207.2921</td><td>0.10</td><td></td><td>1207.2923</td><td>28.65</td><td></td><td>1207.2924</td><td>21.50</td><td></td><td>1207.2926</td><td>0.10</td><td></td></tr>
-<tr><td>1207.2927</td><td>0.10</td><td></td><td>1207.3010</td><td>9.70</td><td></td><td>1207.3021</td><td>0.10</td><td></td><td>1207.3023</td><td>64.30</td><td></td></tr>
-<tr><td>1207.3024</td><td>57.15</td><td></td><td>1207.3026</td><td>0.10</td><td></td><td>1207.3027</td><td>0.10</td><td></td><td>1207.4010</td><td>7.70</td><td></td></tr>
-<tr><td>1207.4021</td><td>0.10</td><td></td><td>1207.4023</td><td>71.40</td><td></td><td>1207.4024</td><td>64.30</td><td></td><td>1207.4026</td><td>0.10</td><td></td></tr>
-<tr><td>1207.4027</td><td>0.10</td><td></td><td>1207.5010</td><td>0.00</td><td></td><td>1207.5021</td><td>0.10</td><td></td><td>1207.5023</td><td>28.65</td><td></td></tr>
-<tr><td>1207.5024</td><td>21.50</td><td></td><td>1207.5026</td><td>0.10</td><td></td><td>1207.5027</td><td>0.10</td><td></td><td>1207.6010</td><td>4.70</td><td></td></tr>
-<tr><td>1207.6021</td><td>0.10</td><td></td><td>1207.6023</td><td>35.75</td><td></td><td>1207.6024</td><td>28.65</td><td></td><td>1207.6026</td><td>0.10</td><td></td></tr>
-<tr><td>1207.6027</td><td>0.10</td><td></td><td>1207.7010</td><td>11.70</td><td></td><td>1207.7021</td><td>0.10</td><td></td><td>1207.7023</td><td>71.85</td><td></td></tr>
-<tr><td>1207.7024</td><td>64.65</td><td></td><td>1207.7026</td><td>0.10</td><td></td><td>1207.7027</td><td>0.10</td><td></td><td>1207.9111</td><td>5.70</td><td></td></tr>
-<tr><td>1207.9113</td><td>0.10</td><td></td><td>1207.9114</td><td>57.15</td><td></td><td>1207.9115</td><td>50.05</td><td></td><td>1207.9116</td><td>0.10</td><td></td></tr>
-<tr><td>1207.9117</td><td>0.10</td><td></td><td>1207.9921</td><td>5.70</td><td></td><td>1207.9922</td><td>0.10</td><td></td><td>1207.9923</td><td>50.05</td><td></td></tr>
-<tr><td>1207.9924</td><td>42.90</td><td></td><td>1207.9925</td><td>0.10</td><td></td><td>1207.9926</td><td>0.10</td><td></td><td>1207.9981</td><td>11.70</td><td></td></tr>
-<tr><td>1207.9983</td><td>0.10</td><td></td><td>1207.9984</td><td>71.85</td><td></td><td>1207.9985</td><td>64.65</td><td></td><td>1207.9986</td><td>0.10</td><td></td></tr>
-<tr><td>1207.9987</td><td>0.10</td><td></td><td>1208.1010</td><td>0.00</td><td></td><td>1208.9010</td><td>0.00</td><td></td><td>1209.1010</td><td>3.70</td><td></td></tr>
-<tr><td>1209.2911</td><td>7.70</td><td></td><td>1209.2912</td><td>0.75</td><td></td><td>1209.9911</td><td>14.70</td><td></td><td>1209.9912</td><td>1.45</td><td></td></tr>
-<tr><td>1209.9991</td><td>15.70</td><td></td><td>1212.2910</td><td>3.70</td><td></td><td>1212.9110</td><td>6.70</td><td></td><td>1212.9291</td><td>0.00</td><td></td></tr>
-<tr><td>1212.9310</td><td>0.00</td><td></td><td>1212.9410</td><td>10.70</td><td></td><td>1212.9920</td><td>0.00</td><td></td><td>1213.0091</td><td>0.00</td><td></td></tr>
-<tr><td>1213.0099</td><td>0.00</td><td></td><td>1214.1010</td><td>1.00</td><td></td><td>1214.9011</td><td>2.00</td><td></td><td>1214.9019</td><td>1.00</td><td></td></tr>
-<tr><td>1404.9010</td><td>0.00</td><td></td><td>1501.1011</td><td>0.00</td><td></td><td>1501.1019</td><td>0.00</td><td></td><td>1501.2011</td><td>0.00</td><td></td></tr>
-<tr><td>1501.2019</td><td>0.00</td><td></td><td>1501.9011</td><td>0.00</td><td></td><td>1501.9019</td><td>0.00</td><td></td><td>1502.1011</td><td>0.00</td><td></td></tr>
-<tr><td>1502.1019</td><td>0.00</td><td></td><td>1502.9011</td><td>0.00</td><td></td><td>1502.9012</td><td>0.00</td><td></td><td>1502.9019</td><td>0.00</td><td></td></tr>
-<tr><td>1503.0010</td><td>0.00</td><td></td><td>1504.1091</td><td>0.00</td><td></td><td>1504.2010</td><td>0.00</td><td></td><td>1504.3010</td><td>0.00</td><td></td></tr>
-<tr><td>1505.0011</td><td>0.00</td><td></td><td>1505.0091</td><td>0.00</td><td></td><td>1506.0011</td><td>0.00</td><td></td><td>1506.0012</td><td>0.00</td><td></td></tr>
-<tr><td>1506.0019</td><td>0.00</td><td></td><td>1507.1010</td><td>0.00</td><td></td><td>1507.9011</td><td>0.00</td><td></td><td>1507.9091</td><td>0.00</td><td></td></tr>
-<tr><td>1508.1010</td><td>0.00</td><td></td><td>1508.9011</td><td>0.00</td><td></td><td>1508.9091</td><td>0.00</td><td></td><td>1509.1010</td><td>0.00</td><td></td></tr>
-<tr><td>1509.9010</td><td>0.00</td><td></td><td>1510.0010</td><td>0.00</td><td></td><td>1511.1010</td><td>0.00</td><td></td><td>1511.9011</td><td>0.00</td><td></td></tr>
-<tr><td>1511.9091</td><td>0.00</td><td></td><td>1512.1110</td><td>0.00</td><td></td><td>1512.1911</td><td>0.00</td><td></td><td>1512.1991</td><td>0.00</td><td></td></tr>
-<tr><td>1512.2110</td><td>0.00</td><td></td><td>1512.2910</td><td>0.00</td><td></td><td>1513.1110</td><td>0.00</td><td></td><td>1513.1911</td><td>0.00</td><td></td></tr>
-<tr><td>1513.1991</td><td>0.00</td><td></td><td>1513.2110</td><td>0.00</td><td></td><td>1513.2911</td><td>0.00</td><td></td><td>1513.2991</td><td>0.00</td><td></td></tr>
-<tr><td>1514.1110</td><td>0.00</td><td></td><td>1514.1910</td><td>0.00</td><td></td><td>1514.9110</td><td>0.00</td><td></td><td>1514.9910</td><td>0.00</td><td></td></tr>
-<tr><td>1515.1110</td><td>0.00</td><td></td><td>1515.1910</td><td>0.00</td><td></td><td>1515.2110</td><td>0.00</td><td></td><td>1515.2910</td><td>0.00</td><td></td></tr>
-<tr><td>1515.3010</td><td>0.00</td><td></td><td>1515.5011</td><td>0.00</td><td></td><td>1515.5020</td><td>0.00</td><td></td><td>1515.9011</td><td>0.00</td><td></td></tr>
-<tr><td>1515.9021</td><td>0.00</td><td></td><td>1515.9031</td><td>0.00</td><td></td><td>1515.9091</td><td>0.00</td><td></td><td>1516.1010</td><td>0.00</td><td></td></tr>
-<tr><td>1516.2010</td><td>0.00</td><td></td><td>1517.1010</td><td>0.00</td><td></td><td>1517.9010</td><td>0.00</td><td></td><td>1518.0011</td><td>0.00</td><td></td></tr>
-<tr><td>1518.0081</td><td>0.00</td><td></td><td>1518.0093</td><td>0.00</td><td></td><td>1702.3021</td><td>0.00</td><td></td><td>1702.3033</td><td>0.00</td><td></td></tr>
-<tr><td>1702.4011</td><td>0.00</td><td></td><td>1702.6022</td><td>0.00</td><td></td><td>1702.9011</td><td>0.00</td><td></td><td>1703.9091</td><td>10.00</td><td></td></tr>
-<tr><td>1802.0010</td><td>0.00</td><td></td><td>1905.9021</td><td>1.00</td><td></td><td>2102.1091</td><td>0.00</td><td></td><td>2102.2011</td><td>0.00</td><td></td></tr>
-<tr><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>9.70</td><td></td><td>2301.1011</td><td>0.00</td><td></td><td>2301.1019</td><td>0.00</td><td></td></tr>
-<tr><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>16.00</td><td></td><td>2302.3020</td><td>14.00</td><td>\*</td><td>2302.4030</td><td>15.00</td><td>\*</td></tr>
-<tr><td>2302.4091</td><td>15.00</td><td>\*</td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td><td>2303.1012</td><td>4.00</td><td></td></tr>
-<tr><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>3.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
-<tr><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.70</td><td></td><td>2306.2010</td><td>0.00</td><td></td><td>2306.3010</td><td>0.00</td><td></td></tr>
-<tr><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td><td>2306.6010</td><td>0.00</td><td></td></tr>
-<tr><td>2306.9011</td><td>12.70</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>3.70</td><td></td><td>2308.0030</td><td>0.00</td><td></td></tr>
-<tr><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>7.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>4.05</td><td>\*</td></tr>
-<tr><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.00</td><td>\*</td><td>2309.9082</td><td>4.05</td><td>\*</td><td>2309.9089</td><td>4.05</td><td>\*</td></tr>
-<tr><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>12.70</td><td></td><td>3809.1010</td><td>18.70</td><td></td><td>3823.1110</td><td>0.00</td><td></td></tr>
-<tr><td>3823.1210</td><td>4.70</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="12">**[1]** Les droits de douane peuvent s’écarter du tarif général. Les droits de douane modifiés sont signalés par un astérisque («\*»).</td></tr>
+<tr><th colspan="2">Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th></tr>
+<tr><th colspan="2"></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
+<tr><td colspan="2">0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
+<tr><td colspan="2">0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>0.00</td><td>\*</td><td>0709.9991</td><td>4.00</td><td>\*</td><td>0712.9070</td><td>4.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.1011</td><td>0.00</td><td>\*</td><td>0713.1012</td><td>0.00</td><td>\*</td><td>0713.1091</td><td>0.00</td><td>\*</td><td>0713.2011</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.2012</td><td>0.00</td><td>\*</td><td>0713.2091</td><td>0.00</td><td>\*</td><td>0713.3111</td><td>0.00</td><td>\*</td><td>0713.3112</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.3191</td><td>0.00</td><td>\*</td><td>0713.3211</td><td>0.00</td><td>\*</td><td>0713.3212</td><td>0.00</td><td>\*</td><td>0713.3291</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.3311</td><td>0.00</td><td>\*</td><td>0713.3312</td><td>0.00</td><td>\*</td><td>0713.3391</td><td>0.00</td><td>\*</td><td>0713.3411</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.3412</td><td>0.00</td><td>\*</td><td>0713.3491</td><td>0.00</td><td>\*</td><td>0713.3511</td><td>0.00</td><td>\*</td><td>0713.3512</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.3591</td><td>0.00</td><td>\*</td><td>0713.3911</td><td>0.00</td><td>\*</td><td>0713.3912</td><td>0.00</td><td>\*</td><td>0713.3991</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.4011</td><td>0.00</td><td>\*</td><td>0713.4012</td><td>0.00</td><td>\*</td><td>0713.4091</td><td>0.00</td><td>\*</td><td>0713.5012</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.5013</td><td>0.00</td><td>\*</td><td>0713.5091</td><td>0.00</td><td>\*</td><td>0713.6011</td><td>0.00</td><td>\*</td><td>0713.6012</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0713.6091</td><td>0.00</td><td>\*</td><td>0713.9021</td><td>0.00</td><td>\*</td><td>0713.9022</td><td>0.00</td><td>\*</td><td>0713.9081</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">0714.1010</td><td>0.00</td><td></td><td>0714.2010</td><td>0.00</td><td></td><td>0714.3010</td><td>0.00</td><td></td><td>0714.4010</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">0714.5010</td><td>0.00</td><td></td><td>0714.9020</td><td>0.00</td><td></td><td>0802.2110</td><td>0.00</td><td></td><td>0802.2120</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">0802.2210</td><td>1.70</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">0802.3210</td><td>1.70</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">0813.5012</td><td>4.70</td><td></td><td>0813.5021</td><td>4.70</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>4.70</td><td></td></tr>
+<tr><td colspan="2">0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>9.00</td><td></td><td>1001.1939</td><td>6.00</td><td>\*</td></tr>
+<tr><td colspan="2">1001.1940</td><td>0.60</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>9.00</td><td></td><td>1001.9939</td><td>6.00</td><td>\*</td></tr>
+<tr><td colspan="2">1001.9940</td><td>0.60</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>9.00</td><td></td><td>1002.9039</td><td>8.00</td><td></td></tr>
+<tr><td colspan="2">1002.9040</td><td>0.80</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>2.50</td><td>\*</td><td>1003.9030</td><td>0.15</td><td>\*</td></tr>
+<tr><td colspan="2">1003.9041</td><td>1.15</td><td>\*</td><td>1003.9051</td><td>9.00</td><td></td><td>1003.9059</td><td>5.00</td><td>\*</td><td>1003.9060</td><td>0.75</td><td>\*</td></tr>
+<tr><td colspan="2">1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.20</td><td></td><td>1004.9031</td><td>9.00</td><td></td><td>1004.9039</td><td>1.00</td><td></td></tr>
+<tr><td colspan="2">1004.9040</td><td>0.25</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>1.00</td><td>\*</td><td>1005.9031</td><td>9.00</td><td></td></tr>
+<tr><td colspan="2">1005.9039</td><td>4.00</td><td>\*</td><td>1005.9040</td><td>0.40</td><td>\*</td><td>1006.1021</td><td>9.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1006.2021</td><td>9.00</td><td></td><td>1006.2029</td><td>0.00</td><td></td><td>1006.3021</td><td>9.00</td><td></td><td>1006.3029</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1006.4021</td><td>9.00</td><td></td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>9.00</td><td></td><td>1007.9039</td><td>8.00</td><td></td></tr>
+<tr><td colspan="2">1007.9040</td><td>0.25</td><td></td><td>1008.1031</td><td>9.00</td><td></td><td>1008.1039</td><td>4.00</td><td></td><td>1008.1040</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1008.2931</td><td>9.00</td><td></td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>9.00</td><td></td></tr>
+<tr><td colspan="2">1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>9.00</td><td></td><td>1008.4039</td><td>6.00</td><td>\*</td></tr>
+<tr><td colspan="2">1008.4040</td><td>0.20</td><td></td><td>1008.5031</td><td>9.00</td><td></td><td>1008.5039</td><td>6.00</td><td>\*</td><td>1008.5040</td><td>0.20</td><td></td></tr>
+<tr><td colspan="2">1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>9.00</td><td></td><td>1008.6049</td><td>9.00</td><td></td><td>1008.6050</td><td>0.90</td><td></td></tr>
+<tr><td colspan="2">1008.9035</td><td>9.00</td><td></td><td>1008.9037</td><td>6.00</td><td>\*</td><td>1008.9040</td><td>0.20</td><td></td><td>1101.0051</td><td>13.00</td><td>\*</td></tr>
+<tr><td colspan="2">1101.0059</td><td>17.00</td><td>\*</td><td>1102.2010</td><td>21.45</td><td>\*</td><td>1102.2020</td><td>10.00</td><td>\*</td><td>1102.9013</td><td>20.00</td><td></td></tr>
+<tr><td colspan="2">1102.9045</td><td>14.00</td><td></td><td>1102.9046</td><td>12.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>17.00</td><td>\*</td></tr>
+<tr><td colspan="2">1103.1112</td><td>16.00</td><td>\*</td><td>1103.1192</td><td>14.00</td><td>\*</td><td>1103.1320</td><td>11.00</td><td>\*</td><td>1103.1390</td><td>22.00</td><td>\*</td></tr>
+<tr><td colspan="2">1103.1912</td><td>17.00</td><td></td><td>1103.1922</td><td>19.00</td><td></td><td>1103.1929</td><td>20.30</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
+<tr><td colspan="2">1103.1993</td><td>14.00</td><td>\*</td><td>1103.2012</td><td>13.00</td><td>\*</td><td>1103.2022</td><td>14.00</td><td></td><td>1103.2092</td><td>13.00</td><td>\*</td></tr>
+<tr><td colspan="2">1104.1220</td><td>20.00</td><td></td><td>1104.1290</td><td>20.35</td><td></td><td>1104.1912</td><td>14.00</td><td>\*</td><td>1104.1922</td><td>14.00</td><td>\*</td></tr>
+<tr><td colspan="2">1104.1929</td><td>21.65</td><td>\*</td><td>1104.1993</td><td>14.00</td><td>\*</td><td>1104.2220</td><td>20.30</td><td></td><td>1104.2230</td><td>19.00</td><td></td></tr>
+<tr><td colspan="2">1104.2320</td><td>10.00</td><td></td><td>1104.2390</td><td>22.80</td><td>\*</td><td>1104.2912</td><td>14.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
+<tr><td colspan="2">1104.2932</td><td>21.65</td><td>\*</td><td>1104.2933</td><td>13.00</td><td>\*</td><td>1104.2993</td><td>12.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
+<tr><td colspan="2">1104.3081</td><td>3.70</td><td></td><td>1104.3093</td><td>0.00</td><td></td><td>1105.1021</td><td>9.70</td><td></td><td>1105.2021</td><td>11.70</td><td></td></tr>
+<tr><td colspan="2">1106.1010</td><td>2.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
+<tr><td colspan="2">1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1108.1220</td><td>0.00</td><td></td><td>1108.1320</td><td>0.00</td><td></td><td>1108.1420</td><td>2.70</td><td></td><td>1108.1912</td><td>4.70</td><td></td></tr>
+<tr><td colspan="2">1108.1992</td><td>4.70</td><td></td><td>1108.2020</td><td>5.70</td><td></td><td>1201.9010</td><td>0.00</td><td></td><td>1201.9021</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1201.9023</td><td>24.35</td><td></td><td>1201.9024</td><td>18.65</td><td></td><td>1201.9026</td><td>0.10</td><td></td><td>1201.9027</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1201.9091</td><td>0.00</td><td></td><td>1202.4110</td><td>6.70</td><td></td><td>1202.4121</td><td>0.10</td><td></td><td>1202.4123</td><td>51.00</td><td></td></tr>
+<tr><td colspan="2">1202.4124</td><td>43.75</td><td></td><td>1202.4126</td><td>0.10</td><td></td><td>1202.4127</td><td>0.10</td><td></td><td>1202.4210</td><td>7.70</td><td></td></tr>
+<tr><td colspan="2">1202.4221</td><td>0.10</td><td></td><td>1202.4223</td><td>61.80</td><td></td><td>1202.4224</td><td>56.80</td><td></td><td>1202.4226</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1202.4227</td><td>0.10</td><td></td><td>1203.0010</td><td>7.70</td><td></td><td>1203.0021</td><td>0.10</td><td></td><td>1203.0023</td><td>82.85</td><td></td></tr>
+<tr><td colspan="2">1203.0024</td><td>77.15</td><td></td><td>1203.0026</td><td>0.10</td><td></td><td>1203.0027</td><td>0.10</td><td></td><td>1204.0010</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1204.0021</td><td>0.10</td><td></td><td>1204.0023</td><td>50.05</td><td></td><td>1204.0024</td><td>42.90</td><td></td><td>1204.0026</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1204.0027</td><td>0.10</td><td></td><td>1205.1010</td><td>0.00</td><td>\*</td><td>1205.1021</td><td>0.10</td><td></td><td>1205.1023</td><td>52.90</td><td></td></tr>
+<tr><td colspan="2">1205.1024</td><td>45.75</td><td></td><td>1205.1026</td><td>0.10</td><td></td><td>1205.1027</td><td>0.10</td><td></td><td>1205.1040</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">1205.1051</td><td>0.10</td><td></td><td>1205.1053</td><td>60.00</td><td></td><td>1205.1054</td><td>52.90</td><td></td><td>1205.1056</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1205.1057</td><td>0.10</td><td></td><td>1205.9010</td><td>0.00</td><td>\*</td><td>1205.9021</td><td>0.10</td><td></td><td>1205.9023</td><td>52.90</td><td></td></tr>
+<tr><td colspan="2">1205.9024</td><td>45.75</td><td></td><td>1205.9026</td><td>0.10</td><td></td><td>1205.9027</td><td>0.10</td><td></td><td>1205.9040</td><td>0.00</td><td>\*</td></tr>
+<tr><td colspan="2">1205.9051</td><td>0.10</td><td></td><td>1205.9053</td><td>60.00</td><td></td><td>1205.9054</td><td>52.90</td><td></td><td>1205.9056</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1205.9057</td><td>0.10</td><td></td><td>1206.0010</td><td>0.00</td><td></td><td>1206.0021</td><td>0.10</td><td></td><td>1206.0023</td><td>58.30</td><td></td></tr>
+<tr><td colspan="2">1206.0024</td><td>49.55</td><td></td><td>1206.0026</td><td>0.10</td><td></td><td>1206.0027</td><td>0.10</td><td></td><td>1206.0040</td><td>2.70</td><td></td></tr>
+<tr><td colspan="2">1206.0041</td><td>0.10</td><td></td><td>1206.0053</td><td>65.60</td><td></td><td>1206.0054</td><td>58.30</td><td></td><td>1206.0056</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1206.0057</td><td>0.10</td><td></td><td>1207.1010</td><td>2.70</td><td></td><td>1207.1021</td><td>0.10</td><td></td><td>1207.1023</td><td>60.35</td><td></td></tr>
+<tr><td colspan="2">1207.1024</td><td>53.20</td><td></td><td>1207.1026</td><td>0.10</td><td></td><td>1207.1027</td><td>0.10</td><td></td><td>1207.2910</td><td>4.70</td><td></td></tr>
+<tr><td colspan="2">1207.2921</td><td>0.10</td><td></td><td>1207.2923</td><td>28.65</td><td></td><td>1207.2924</td><td>21.50</td><td></td><td>1207.2926</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1207.2927</td><td>0.10</td><td></td><td>1207.3010</td><td>9.70</td><td></td><td>1207.3021</td><td>0.10</td><td></td><td>1207.3023</td><td>64.30</td><td></td></tr>
+<tr><td colspan="2">1207.3024</td><td>57.15</td><td></td><td>1207.3026</td><td>0.10</td><td></td><td>1207.3027</td><td>0.10</td><td></td><td>1207.4010</td><td>7.70</td><td></td></tr>
+<tr><td colspan="2">1207.4021</td><td>0.10</td><td></td><td>1207.4023</td><td>71.40</td><td></td><td>1207.4024</td><td>64.30</td><td></td><td>1207.4026</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1207.4027</td><td>0.10</td><td></td><td>1207.5010</td><td>0.00</td><td></td><td>1207.5021</td><td>0.10</td><td></td><td>1207.5023</td><td>28.65</td><td></td></tr>
+<tr><td colspan="2">1207.5024</td><td>21.50</td><td></td><td>1207.5026</td><td>0.10</td><td></td><td>1207.5027</td><td>0.10</td><td></td><td>1207.6010</td><td>4.70</td><td></td></tr>
+<tr><td colspan="2">1207.6021</td><td>0.10</td><td></td><td>1207.6023</td><td>35.75</td><td></td><td>1207.6024</td><td>28.65</td><td></td><td>1207.6026</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1207.6027</td><td>0.10</td><td></td><td>1207.7010</td><td>11.70</td><td></td><td>1207.7021</td><td>0.10</td><td></td><td>1207.7023</td><td>71.85</td><td></td></tr>
+<tr><td colspan="2">1207.7024</td><td>64.65</td><td></td><td>1207.7026</td><td>0.10</td><td></td><td>1207.7027</td><td>0.10</td><td></td><td>1207.9111</td><td>5.70</td><td></td></tr>
+<tr><td colspan="2">1207.9113</td><td>0.10</td><td></td><td>1207.9114</td><td>57.15</td><td></td><td>1207.9115</td><td>50.05</td><td></td><td>1207.9116</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1207.9117</td><td>0.10</td><td></td><td>1207.9921</td><td>5.70</td><td></td><td>1207.9922</td><td>0.10</td><td></td><td>1207.9923</td><td>50.05</td><td></td></tr>
+<tr><td colspan="2">1207.9924</td><td>42.90</td><td></td><td>1207.9925</td><td>0.10</td><td></td><td>1207.9926</td><td>0.10</td><td></td><td>1207.9981</td><td>11.70</td><td></td></tr>
+<tr><td colspan="2">1207.9983</td><td>0.10</td><td></td><td>1207.9984</td><td>71.85</td><td></td><td>1207.9985</td><td>64.65</td><td></td><td>1207.9986</td><td>0.10</td><td></td></tr>
+<tr><td colspan="2">1207.9987</td><td>0.10</td><td></td><td>1208.1010</td><td>0.00</td><td></td><td>1208.9010</td><td>0.00</td><td></td><td>1209.1010</td><td>3.70</td><td></td></tr>
+<tr><td colspan="2">1209.2911</td><td>7.70</td><td></td><td>1209.2912</td><td>0.75</td><td></td><td>1209.9911</td><td>14.70</td><td></td><td>1209.9912</td><td>1.45</td><td></td></tr>
+<tr><td colspan="2">1209.9991</td><td>15.70</td><td></td><td>1212.2910</td><td>3.70</td><td></td><td>1212.9110</td><td>6.70</td><td></td><td>1212.9291</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1212.9310</td><td>0.00</td><td></td><td>1212.9410</td><td>10.70</td><td></td><td>1212.9920</td><td>0.00</td><td></td><td>1213.0091</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1213.0099</td><td>0.00</td><td></td><td>1214.1010</td><td>1.00</td><td></td><td>1214.9011</td><td>1.00</td><td>\*</td><td>1214.9019</td><td>1.00</td><td></td></tr>
+<tr><td colspan="2">1404.9010</td><td>0.00</td><td></td><td>1501.1011</td><td>0.00</td><td></td><td>1501.1019</td><td>0.00</td><td></td><td>1501.2011</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1501.2019</td><td>0.00</td><td></td><td>1501.9011</td><td>0.00</td><td></td><td>1501.9019</td><td>0.00</td><td></td><td>1502.1011</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1502.1019</td><td>0.00</td><td></td><td>1502.9011</td><td>0.00</td><td></td><td>1502.9012</td><td>0.00</td><td></td><td>1502.9019</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1503.0010</td><td>0.00</td><td></td><td>1504.1091</td><td>0.00</td><td></td><td>1504.2010</td><td>0.00</td><td></td><td>1504.3010</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1505.0011</td><td>0.00</td><td></td><td>1505.0091</td><td>0.00</td><td></td><td>1506.0011</td><td>0.00</td><td></td><td>1506.0012</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1506.0019</td><td>0.00</td><td></td><td>1507.1010</td><td>0.00</td><td></td><td>1507.9011</td><td>0.00</td><td></td><td>1507.9091</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1508.1010</td><td>0.00</td><td></td><td>1508.9011</td><td>0.00</td><td></td><td>1508.9091</td><td>0.00</td><td></td><td>1509.1010</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1509.9010</td><td>0.00</td><td></td><td>1510.0010</td><td>0.00</td><td></td><td>1511.1010</td><td>0.00</td><td></td><td>1511.9011</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1511.9091</td><td>0.00</td><td></td><td>1512.1110</td><td>0.00</td><td></td><td>1512.1911</td><td>0.00</td><td></td><td>1512.1991</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1512.2110</td><td>0.00</td><td></td><td>1512.2910</td><td>0.00</td><td></td><td>1513.1110</td><td>0.00</td><td></td><td>1513.1911</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1513.1991</td><td>0.00</td><td></td><td>1513.2110</td><td>0.00</td><td></td><td>1513.2911</td><td>0.00</td><td></td><td>1513.2991</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1514.1110</td><td>0.00</td><td></td><td>1514.1910</td><td>0.00</td><td></td><td>1514.9110</td><td>0.00</td><td></td><td>1514.9910</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1515.1110</td><td>0.00</td><td></td><td>1515.1910</td><td>0.00</td><td></td><td>1515.2110</td><td>0.00</td><td></td><td>1515.2910</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1515.3010</td><td>0.00</td><td></td><td>1515.5011</td><td>0.00</td><td></td><td>1515.5020</td><td>0.00</td><td></td><td>1515.9011</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1515.9021</td><td>0.00</td><td></td><td>1515.9031</td><td>0.00</td><td></td><td>1515.9091</td><td>0.00</td><td></td><td>1516.1010</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1516.2010</td><td>0.00</td><td></td><td>1517.1010</td><td>0.00</td><td></td><td>1517.9010</td><td>0.00</td><td></td><td>1518.0011</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1518.0081</td><td>0.00</td><td></td><td>1518.0093</td><td>0.00</td><td></td><td>1702.3021</td><td>0.00</td><td></td><td>1702.3033</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">1702.4011</td><td>0.00</td><td></td><td>1702.6022</td><td>0.00</td><td></td><td>1702.9011</td><td>0.00</td><td></td><td>1703.9091</td><td>10.00</td><td></td></tr>
+<tr><td colspan="2">1802.0010</td><td>0.00</td><td></td><td>1905.9021</td><td>1.00</td><td></td><td>2102.1091</td><td>0.00</td><td></td><td>2102.2011</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>9.70</td><td></td><td>2301.1011</td><td>0.00</td><td></td><td>2301.1019</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>16.00</td><td></td><td>2302.3020</td><td>12.00</td><td>\*</td><td>2302.4030</td><td>13.00</td><td>\*</td></tr>
+<tr><td colspan="2">2302.4091</td><td>13.00</td><td>\*</td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td><td>2303.1012</td><td>2.00</td><td>\*</td></tr>
+<tr><td colspan="2">2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>1.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.70</td><td></td><td>2306.2010</td><td>0.00</td><td></td><td>2306.3010</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td><td>2306.6010</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">2306.9011</td><td>12.70</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>3.70</td><td></td><td>2308.0030</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>5.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>3.05</td><td>\*</td></tr>
+<tr><td colspan="2">2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>161.90</td><td>\*</td><td>2309.9082</td><td>3.05</td><td>\*</td><td>2309.9089</td><td>3.05</td><td>\*</td></tr>
+<tr><td colspan="2">3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>12.70</td><td></td><td>3809.1010</td><td>18.70</td><td></td><td>3823.1110</td><td>0.00</td><td></td></tr>
+<tr><td colspan="2">3823.1210</td><td>4.70</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>[tab] [1]</td><td colspan="12">[tab] Les droits de douane peuvent s’écarter du tarif général. Les droits de douane modifiés sont signalés par un astérisque («\*»).</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 10 et 27, al. 2<sup>bis</sup>, let. a)
 
@@ -2932,8 +2932,8 @@ Annexe 3*[^t-3]*
 <tr><td>06.3</td><td>Produits de charcuterie, y compris coppa, jambon en vessie et jambon saumoné</td><td colspan="2">**3148**</td></tr>
 <tr><td></td><td>Compris dans le contingent préférentiel 301 de 3715 t net selon l’ordonnance du 18 juin 2008 sur le libre échange 1</td><td colspan="2"></td></tr>
 <tr><td>06.4</td><td>Autre viande d’animaux, nourris principalement à base d’aliments concentrés:</td><td>**48 681**</td></tr>
-<tr><td></td><td>de volaille, y compris volaille en conserves et abats de volaille</td><td>**42 200 [2]**</td></tr>
-<tr><td></td><td>de porc, y compris pâté, granulés pour la fabrication de soupes et porcs de boucherie provenant des zones franches</td><td>**6481 [2]**</td></tr>
+<tr><td></td><td>de volaille, y compris volaille en conserves et abats de volaille</td><td>**42 200** **[2]**</td></tr>
+<tr><td></td><td>de porc, y compris pâté, granulés pour la fabrication de soupes et porcs de boucherie provenant des zones franches</td><td>**6481** **[2]**</td></tr>
 <tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 <tr><td colspan="4">**[2]** **Quantité indicative**</td></tr>
 </table>
@@ -3056,7 +3056,7 @@ Annexe 3*[^t-3]*
 <tr><td colspan="4">**[2]** **Le contingent tarifaire peut être dépassé.**</td></tr>
 </table>
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 31, al. 2)
 
@@ -3074,11 +3074,11 @@ Annexe 4*[^t-4]*
 <tr><td>15 000 t brut</td><td>3 novembre – 31 décembre</td></tr>
 </table>
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 [^t-5]: Abrogée par l’annexe de l’O du 2 avr. 2014, avec effet au 1<sup>er</sup> juil. 2014 ([RO 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 (art. 50)
 
