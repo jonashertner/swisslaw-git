@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2021-01-01
+version: 2021-05-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20210101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20210501/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20210501-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20210101/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2021)
+vom 27. Juni 1995 (Stand am 1. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 10, 16, 20, 32 Absatz 1<sup>bis</sup>, 53 Absatz 1 und 56*a* Absatz 2 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-1] (TSG) und auf Artikel 32 Absatz 1 des Tierschutzgesetzes vom 16. Dezember 2005[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 10, 16, 19, 20, 31*a*, 32 Absatz 1<sup>bis</sup>, 53 Absatz 1 und 56*a* Absatz 2 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-1] (TSG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ## 1. Titel: Gegenstand, Tierseuchen und Bekämpfungsziel
 
@@ -46,24 +45,24 @@ verordnet:
 Als hochansteckende Seuchen gelten folgende Tierkrankheiten:
 
 - a. Maul- und Klauenseuche;
-- b. Vesikuläre Stomatitis;
-- c. Vesikulärkrankheit der Schweine;
+- [tab] b. und c.[^2-1] ...
 - d. Rinderpest;
 - e. Pest der kleinen Wiederkäuer;
 - f. Lungenseuche der Rinder;
 - g. *Dermatitis nodularis* (Lumpy skin disease);
 - h. Rifttalfieber;
-- i.[^2-1] ...
+- i.[^2-2] ...
 - k. Schaf- und Ziegenpocken;
 - l. Pferdepest;
 - m. Afrikanische Schweinepest;
 - n. Klassische Schweinepest;
-- o.[^2-2] Aviäre Influenza[^2-3];
+- o.[^2-3] Aviäre Influenza[^2-4];
 - p. Newcastle Krankheit.
 
-[^2-1]: Aufgehoben durch Ziff. I der V vom 14. Mai 2008, mit Wirkung seit 1. Juni 2008 ([AS 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)).
-[^2-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^2-3]: Ausdruck gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^2-1]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^2-2]: Aufgehoben durch Ziff. I der V vom 14. Mai 2008, mit Wirkung seit 1. Juni 2008 ([AS 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^2-4]: Ausdruck gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 3
 
@@ -80,7 +79,7 @@ Als auszurottende Seuchen gelten folgende Tierkrankheiten:
 - g. Infektiöse bovine Rhinotracheitis/Infektiöse pustulöse Vulvovaginitis;
 - [tab] g<sup>bis</sup>.[^3-1] Bovine Virus-Diarrhoe;
 - h. Bovine spongiforme Enzephalopathie und Traberkrankheit;
-- i.[^3-2] Deckinfektionen der Rinder: Infektionen mit *Campylobacter fetus* und *T**ri**trichomonas foetus**;*
+- i.[^3-2] Deckinfektionen der Rinder: Infektionen mit *Campylobacter fetus* und *Tri**trichomonas foetus**;*
 - i<sup>bis</sup>.[^3-3] Besnoitiose;
 - k. Brucellose der Schafe und Ziegen;
 - l. Infektiöse Agalaktie;
@@ -125,7 +124,7 @@ Als zu bekämpfende Seuchen gelten folgende Tierkrankheiten:
 - o. Faulbrut der Bienen;
 - p. Sauerbrut der Bienen;
 - p<sup>bis</sup>.[^4-9] Befall mit dem Kleinen Beutenkäfer (*Aethina tumida*);
-- q. Infektiöse Pankreasnekrose;
+- q.[^4-10] ...
 - r. Krebspest.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
@@ -133,10 +132,11 @@ Als zu bekämpfende Seuchen gelten folgende Tierkrankheiten:
 [^4-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^4-4]: Eingefügt gemäss Ziff. I der V vom 14. Mai 2008 ([AS 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)). Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^4-6]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 (AS **201****2** 6859).
+[^4-6]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^4-7]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^4-8]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^4-9]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. April 2015 ([AS 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
+[^4-10]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 5
 
@@ -176,9 +176,9 @@ Als zu überwachende Seuchen gelten folgende Tierkrankheiten:
 [^5-2]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^5-3]: Eingefügt durch Ziff. I der V vom 8. Juni 1998, in Kraft seit 1. Juli 1998 ([AS 1998 1575](https://fedlex.data.admin.ch/eli/oc/1998/1575_1575_1575)).
 [^5-4]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^5-5]: Fassung gemäss Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 (AS **2****009** 581).
+[^5-5]: Fassung gemäss Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^5-6]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
-[^5-7]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Aufgehoben durch Ziff. I der V vom 25. März 2015, mit Wirkung seit 1. April 2015 (AS **2****015** 1007).
+[^5-7]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Aufgehoben durch Ziff. I der V vom 25. März 2015, mit Wirkung seit 1. April 2015 ([AS 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
 [^5-8]: Fassung gemäss Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 [^5-9]: Eingefügt durch Ziff. I der V vom 28. März 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184). Fassung gemäss Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^5-10]: Eingefügt durch Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
@@ -194,67 +194,69 @@ Die folgenden Ausdrücke bedeuten:
 
 - a.[^6-2] *EDI*: Eidgenössisches Departement des Innern;
 - b.[^6-3] BLV*:* Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
-- c. *IVI:* Institut für Virologie und Immunologie[^6-4];
+- c. *IVI**:* Institut für Virologie und Immunologie[^6-4];
 - d.[^6-5] *Zentrum für Bienenforschung:* Zentrum für Bienenforschung der Forschungsanstalt Agroscope Liebefeld-Posieux ALP;
-- e*.*[^6-6] *VTNP:* Verordnung vom 25. Mai 2011[^6-7] über die Entsorgung von tierischen Nebenprodukten;
-- f. *Zuständige kantonale Stelle:* eine vom Kanton bezeichnete Behörde oder Amtsstelle;
+- e.[^6-6] *VTNP:* Verordnung vom 25. Mai 2011[^6-7] über tierische Nebenprodukte;
+- f. *Zuständige kantonale Ste**lle:* eine vom Kanton bezeichnete Behörde oder Amtsstelle;
 - g. *Tierarzt:* Inhaber eines eidgenössischen oder eines als gleichwertig anerkannten Tierarztdiploms;
 - h. *Amtlicher Tierarzt:* nach Artikel 302 vom Kanton ernannter Tierarzt;
 - i.[^6-8] ...
-- k. *Seuchenpolizeiliche Organe:* Behörden oder Personen, die für den Bund oder einen Kanton auf dem Gebiet der Tierseuchenpolizei amtliche Verrichtungen ausüben;
+- k. *Seuchenpolizei**liche Organe:* Behörden oder Personen, die für den Bund oder einen Kanton auf dem Gebiet der Tierseuchenpolizei amtliche Verrichtungen ausüben;
 - l. *Tierseuchen:* die in den Artikeln 2–5 bezeichneten Tierkrankheiten;
 
-- m.[^6-9] *Ausmerzen:* Tiere aus einem Bestand entfernen, wobei sie entweder getötet und als tierische Nebenprodukte entsorgt oder geschlachtet und verwertet werden;
+- l<sup>ter</sup>.[^6-9] *Biosicherheit:* Schutz gegen die Risiken der Einschleppung, Verschleppung und Ausbreitung einer Tierseuche;
+- m.[^6-10] *Ausmerzen:* Tiere aus einem Bestand entfernen, wobei sie entweder getötet und als tierische Nebenprodukte entsorgt oder geschlachtet und verwertet werden;
 - n. *Ausrotten:* eine Seuche so auslöschen, dass weder kranke Tiere noch Tiere, die Träger des Seuchenerregers sind, zurückbleiben;
-- o.[^6-10]
+- o.[^6-11]
 
   *Tierhaltung**:*
 
-  - 1\. landwirtschaftliche Tierhaltungen nach Artikel 11 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^6-11] (LBV),
+  - 1\. landwirtschaftliche Tierhaltungen nach Artikel 11 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^6-12] (LBV),
   - 2\. Wanderherden,
   - 3\. Viehhandelsunternehmen, Tierkliniken, Schlachtbetriebe,
   - 4\. Viehmärkte, Viehauktionen, Viehausstellungen und ähnliche Veranstaltungen,
   - 5\. nichtkommerzielle Tierhaltungen,
-  - 6\.[^6-12] Aquakulturbetriebe;
+  - 6\.[^6-13] Aquakulturbetriebe;
 
-- o<sup>bis</sup>.[^6-13] *Aquakulturbetrieb:* Anlage, in der Wassertiere unter Einsatz von Techniken gehalten werden, die auf eine Produktionssteigerung über das unter natürlichen Bedingungen mögliche Mass hinaus ausgerichtet sind;
-- p.[^6-14] *Bestand (Herde)**:* Tiere einer Tierhaltung, die eine epidemiologische Einheit bilden; eine Tierhaltung kann einen oder mehrere Bestände umfassen;
+- o<sup>bis</sup>.[^6-14] *Aquakulturbetrieb:* Anlage, in der Wassertiere unter Einsatz von Techniken gehalten werden, die auf eine Produktionssteigerung über das unter natürlichen Bedingungen mögliche Mass hinaus ausgerichtet sind;
+- p.[^6-15] *Bestand (Herde)**:* Tiere einer Tierhaltung, die eine epidemiologische Einheit bilden; eine Tierhaltung kann einen oder mehrere Bestände umfassen;
 - q. *Ansteckungsverdächtiges Tier:* Tier, das in direktem oder indirektem Kontakt mit verseuchten Tieren war und keine seuchenähnlichen Merkmale aufweist;
 - r. *Verdächtiges Tier:* Tier, das seuchenähnliche Merkmale aufweist, ohne dass bei ihm das Vorliegen einer Seuche durch eine anerkannte Diagnostikmethode bestätigt oder widerlegt ist;
 - s. *Verseuchtes Tier:* Tier, das die charakteristischen Seuchenmerkmale aufweist oder bei dem die Seuche oder die Ansteckung durch anerkannte diagnostische Methoden bestätigt ist;
-- t.[^6-15] *Klauentiere:* Haustiere der Rinder‑, Schaf‑, Ziegen- und Schweinegattung einschliesslich Büffel und Neuweltkameliden (Lamas, Alpakas) sowie in Gehegen gehaltenes Wild der Ordnung Paarhufer, ausgenommen Zootiere;
+- t.[^6-16] *Klauentiere:* Haustiere der Rinder‑, Schaf‑, Ziegen- und Schweinegattung einschliesslich Büffel und Neuweltkameliden (Lamas, Alpakas) sowie in Gehegen gehaltenes Wild der Ordnung Paarhufer, ausgenommen Zootiere;
 - u. *Vieh:* Haustiere der Pferde‑, Rinder‑, Schaf‑, Ziegen- und Schweinegattung;
-- v*.*[^6-16] *Exotische Tiere nach Artikel 34 Absat**z 2 Ziffer 1 TSG*[^6-17]: natürlicherweise in der Schweiz nicht vorkommende Tiere mit Ausnahme der Tiere nach Buchstabe t;
-- w.[^6-18] *Geflügel:* Vögel der Ordnungen Hühnervögel (*Galliformes*), Gänsevögel (*An**seriformes*) und Laufvögel (*Struthioniformes*);
-- x.[^6-19] *Hausgeflügel:* in Gefangenschaft gehaltenes Geflügel;
-- y.[^6-20] *Equiden:* domestizierte Tiere der Pferdegattung (Pferd, Esel, Maultier, Maulesel);
-- z.[^6-21] *Wassertiere:* Fische der Überklasse Kieferlose (*Agnatha*) und der Klassen Knorpelfische (*Chondrichthyes*) und Knochenfische (*Ost**eichthyes*) sowie Weichtiere (*Mollusca*) und Krebstiere (*Crustacea*).
-- z<sup>bis</sup>.[^6-22] *Abort:* Ausstossen eines unreifen, nicht lebensfähigen Fötus vor Ablauf der normalen Trächtigkeitsdauer;
-- z<sup>ter</sup>.[^6-23] *Totgeburt:* Nachkomme, der nach einer normalen Trächtigkeitsdauer tot geboren wird oder innerhalb von 24 Stunden nach der Geburt stirbt.
+- v*.*[^6-17] *Exotische Tiere nach Artikel 34 Absatz 2 Ziffer 1 TSG*[^6-18]: natürlicherweise in der Schweiz nicht vorkommende Tiere mit Ausnahme der Tiere nach Buchstabe t;
+- w.[^6-19] *Geflügel:* Vögel der Ordnungen Hühnervögel (*Galliformes*), Gänsevögel (*An**seriformes*) und Laufvögel (*Struthioniformes*);
+- x.[^6-20] *Hausgeflügel:* in Gefangenschaft gehaltenes Geflügel;
+- y.[^6-21] *Equiden**:* domestizierte Tiere der Pferdegattung (Pferd, Esel, Maultier, Maulesel);
+- z.[^6-22] *Wassertiere:* Fische der Überklasse Kieferlose (*Agnatha*) und der Klassen Knorpelfische (*Chondrichthyes*) und Knochenfische (*Osteichthyes*) sowie Weichtiere (*Mollusca*) und Krebstiere (*Crustacea*);
+- z<sup>bis</sup>.[^6-23] *Abort:* Ausstossen eines unreifen, nicht lebensfähigen Fötus vor Ablauf der normalen Trächtigkeitsdauer;
+- z<sup>ter</sup>.[^6-24] *Totgeburt:* Nachkomme, der nach einer normalen Trächtigkeitsdauer tot geboren wird oder innerhalb von 24 Stunden nach der Geburt stirbt.
 
 [^6-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^6-2]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^6-3]: Fassung gemäss Ziff. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
 [^6-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Mai 2013 angepasst.
 [^6-5]: Fassung gemäss Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
-[^6-6]: Fassung gemäss Anhang 8 Ziff. II 4 der V vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten, in Kraft seit 1. Juli 2011 ([AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
+[^6-6]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^6-7]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^6-8]: Aufgehoben durch Anhang 2 Ziff. 5 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst, mit Wirkung seit 1. April 2007 ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
-[^6-9]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
-[^6-10]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^6-11]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^6-12]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^6-8]: Aufgehoben durch Anhang 2 Ziff. 5 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst, mit Wirkung seit 1. April 2007 (AS **20****07** 561).
+[^6-9]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^6-10]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
+[^6-11]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
+[^6-12]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^6-13]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^6-14]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^6-15]: Fassung gemäss Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^6-16]: Eingefügt durch Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^6-17]: Ausdruck gemäss Ziff. I der V vom 15. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 945](https://fedlex.data.admin.ch/eli/oc/2013/192)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^6-18]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^6-14]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^6-15]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
+[^6-16]: Fassung gemäss Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 (AS **200****1** 1337).
+[^6-17]: Eingefügt durch Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^6-18]: Ausdruck gemäss Ziff. I der V vom 15. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 945](https://fedlex.data.admin.ch/eli/oc/2013/192)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^6-19]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^6-20]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
-[^6-21]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^6-22]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^6-20]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^6-21]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
+[^6-22]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^6-23]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^6-24]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
 ## 2. Titel: Verkehr mit Tieren, tierischen Stoffen, Samen und Embryonen
 
@@ -297,7 +299,7 @@ Die Kantone erfassen alle Tierhaltungen, in denen Klauentiere gehalten werden. S
 [^7-6]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
 [^7-7]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^7-8]: Ausdruck gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Diese Änd. wurde im ganzen Text vorgenommen.
-[^7-9]: Ausdruck gemäss Ziff. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)). Diese Änd. wurde im ganzen Erlass vorgenommen.
+[^7-9]: Ausdruck gemäss Ziff. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 (AS **201****3** 3997). Diese Änd. wurde im ganzen Erlass vorgenommen.
 
 #### Art. 8
 
@@ -391,7 +393,7 @@ Der Kantonstierarzt kann bei erhöhter Seuchengefahr vorschreiben, dass:
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^12-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
-[^12-3]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^12-3]: SR **916.4****04.1**
 [^12-4]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^12-5]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^12-6]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
@@ -469,7 +471,7 @@ Er meldet der Betreiberin der Tierverkehrsdatenbank:[^14-3]
 
 [^tit2-chap1-sec1a-1]
 
-[^tit2-chap1-sec1a-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
+[^tit2-chap1-sec1a-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Jan. 2011 (AS **2****010** 2525).
 
 #### Art. 15a
 
@@ -519,7 +521,7 @@ Er meldet der Betreiberin der Tierverkehrsdatenbank:[^14-3]
 [^15c-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-2]: Aufgehoben durch Ziff. I der V vom 25. Mai 2011, mit Wirkung seit 1. Juli 2011 ([AS 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
 [^15c-3]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^15c-4]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 (AS **2****012** 6859).
+[^15c-4]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^15c-5]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-6]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-7]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
@@ -567,7 +569,7 @@ Der Equidenpass muss zudem folgende Anhänge enthalten:
 [^15d-2]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-3]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-4]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^15d-5]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^15d-5]: [SR 812.212](https://fedlex.data.admin.ch/eli/cc/1979/748_748_748)**.****27**
 [^15d-6]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^15d-7]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^15d-8]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
@@ -646,7 +648,7 @@ Keine Meldung muss gemacht werden, wenn:
 <sup>7</sup> Die Meldungen nach Artikel 8 der TVD-Verordnung vom 26. Oktober 2011 sind elektronisch über das Internetportal Agate zu tätigen.[^15e-7]
 
 [^15e-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^15e-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 (AS **201****1** 5449).
+[^15e-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
 [^15e-3]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
 [^15e-4]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
 [^15e-5]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
@@ -840,7 +842,7 @@ Hundehalter und Personen, die einen Hund einführen oder für länger als drei M
 
 <sup>4</sup> Tierheime können für die Erfüllung ihrer Aufgaben in der Hundedatenbank online Daten bearbeiten, soweit dies das kantonale Recht vorsieht.
 
-[^17h-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+[^17h-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 (AS **2****018** 721).
 
 #### Art. 17i
 
@@ -928,7 +930,7 @@ Die Kantone erfassen alle Tierhaltungen, in denen Equiden oder Hausgeflügel geh
 
 <sup>3</sup> Der Tierhalter hat der zuständigen kantonalen Stelle innert zehn Arbeitstagen eine neue Tierhaltung, den Wechsel des Tierhalters sowie die Auflösung der Tierhaltung zu melden.
 
-<sup>3bis</sup> Der Imker hat der zuständigen kantonalen Stelle innert zehn Arbeitstagen einen neuen Bienenstand, den Wechsel des Imkers sowie die Auflösung des Bienenstandes zu melden.[^18a-5]
+<sup>3bis</sup> Der Imker hat der zuständigen kantonalen Stelle innert drei Arbeitstagen einen neuen Bienenstand, den Wechsel des Imkers sowie die Auflösung des Bienenstandes zu melden.[^18a-5]
 
 <sup>4</sup> Die kantonale Stelle teilt jedem Tierhalter und jeder Tierhaltung mit Equiden oder Hausgeflügel sowie jedem Imker und jedem Bienenstand eine Identifikationsnummer zu.[^18a-6]
 
@@ -940,7 +942,7 @@ Die Kantone erfassen alle Tierhaltungen, in denen Equiden oder Hausgeflügel geh
 [^18a-2]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^18a-3]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^18a-4]: Aufgehoben durch Ziff. 1 der V vom 30. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^18a-5]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^18a-5]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)). Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^18a-6]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 18b
@@ -958,7 +960,7 @@ Bei Geflügelhaltungen in den folgenden Grössen müssen die Tierhalter der Betr
 
 <sup>2</sup> Die Mastgeflügelorganisationen müssen dem BLV jährlich eine aktuelle Liste ihrer Mitglieder zustellen, die eine Geflügelhaltung nach Absatz 1 Buchstaben c und d bewirtschaften. Das BLV stellt die Liste den kantonalen Veterinärämtern zur Verfügung.
 
-[^18b-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)). Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^18b-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)). Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 (AS **201****8** 2069).
 
 #### Art. 19
 
@@ -972,10 +974,13 @@ Wer mit Papageienvögeln *(Psittaciformes)* Handel treibt, hat sie dauerhaft ind
 
 <sup>1</sup> Bienenstände sind durch den Imker nach den Vorgaben der zuständigen kantonalen Stelle mit der Identifikationsnummer zu kennzeichnen. Die Identifikationsnummer muss von aussen gut sichtbar sein.
 
-<sup>2</sup> Bevor ein Imker Bienen in einen anderen Inspektionskreis verbringt, muss er dies dem Bieneninspektor des alten und des neuen Standorts melden. Der Bieneninspektor des alten Standorts führt nötigenfalls eine Gesundheitskontrolle durch. Das Verstellen von Begattungseinheiten auf Belegstationen muss nicht gemeldet werden.[^19a-2]
+<sup>2</sup> Bevor ein Imker Bienen in einen anderen Inspektionskreis verbringt, muss er dies dem Bieneninspektor des alten und des neuen Standorts melden. Der Bieneninspektor des alten Standorts führt nötigenfalls eine Gesundheitskontrolle durch.[^19a-2]
+
+<sup>3</sup> Das Verstellen von Begattungseinheiten auf Belegstationen muss nicht gemeldet werden. Als Begattungseinheit gilt ein Kunstschwarm mit einer unbegatteten Königin auf Mittelwänden oder Leitstreifen ohne Brut.[^19a-3]
 
 [^19a-1]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^19a-2]: Die Berichtigung vom 28. Juli 2020 betrifft nur den französischen Text ([AS 2020 3443](https://fedlex.data.admin.ch/eli/oc/2020/592)).
+[^19a-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^19a-3]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 3. Abschnitt:**** Bestandeskontrolle für Geflügel, Papageienvögel und Bienenvölker
 
@@ -1065,9 +1070,35 @@ Aquakulturbetriebe müssen eine Bestandeskontrolle führen. Diese muss enthalten
 
 **Gesundheitsüberwachung von Aquakulturbetrieben**[^23-1]
 
-Die Aquakulturbetriebe werden einer risikobasierten periodischen Gesundheitsüberwachung unterzogen. Das BLV erlässt Vorschriften technischer Art über den Ablauf und die Durchführung der Überwachung.
+<sup>1</sup>
 
-[^23-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+Die Gesundheit der Tiere folgender Aquakulturbetriebe muss von einem Tierarzt mit Erfahrung im Bereich Gesundheit von Wassertieren mindestens einmal pro Jahr geprüft werden:
+
+- a. Betriebe, die lebende Wassertiere importieren;
+- b. Betriebe, die lebende Wassertiere abgeben, mit Ausnahme von Besatzfischzuchten;
+- c. Betriebe mit einer jährlichen Produktion von mehr als 500 kg;
+- d.
+
+  Betriebe, die Wasser aus einem umliegenden natürlichen Gewässer verwenden, mit Ausnahme von:
+
+  - 1\. Besatzfischzuchten,
+  - 2\. Betrieben, bei denen die Übertragung einer Wassertierseuche vom natürlichen Gewässer in die Fischzucht aus epidemiologischen Gründen kein Risiko darstellt.
+
+<sup>2</sup>
+
+Bei der Prüfung müssen folgende Punkte kontrolliert und dokumentiert werden:
+
+- a. die Gesundheitssituation im Betrieb;
+- b. gesundheitliche Probleme, die seit der letzten Prüfung aufgetreten sind, sowie deswegen erfolgte Behandlungen und Nachüberprüfungen;
+- c. die Indikationen, die seit der letzten Prüfung aufgetreten sind, sowie die Behandlungen und die prophylaktischen Massnahmen, die seitdem durchgeführt worden sind;
+- d. das Behandlungsjournal und die Lagerung der Tierarzneimittel;
+- e. die Biosicherheit und die Hygienepraxis des Betriebs.
+
+<sup>3</sup> Bei Aquakulturbetrieben, welche die Voraussetzungen nach Absatz 1 nicht erfüllen, kann der Kantonstierarzt eine Gesundheitsüberwachung anordnen.
+
+<sup>4</sup> Die Dokumentation zur Gesundheitsüberwachung ist den seuchenpolizeilichen Organen auf Verlangen vorzuweisen. Die Unterlagen sind während drei Jahren aufzubewahren.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 4. Abschnitt: Tiertransport
 
@@ -1090,10 +1121,10 @@ Die Aquakulturbetriebe werden einer risikobasierten periodischen Gesundheitsübe
 <sup>4</sup> Im Übrigen gelten die besonderen Bestimmungen der Transportverordnung vom 5. November 1986[^25-2], der Verkehrsregelnverordnung vom 13. November 1962[^25-3], der Verordnung vom 19. Juni 1995[^25-4] über die technischen Anforderungen an Strassenfahrzeuge und der Tierschutzverordnung vom 27. Mai 1981[^25-5].
 
 [^25-1]: Satz eingefügt durch Ziff. I der V vom 15. März 1999, in Kraft seit 1. Juli 1999 ([AS 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
-[^25-2]: [[AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [AS 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)Art. 6]. Siehe heute: die Gütertransportverordnung vom 4. Nov. 2009 (SR **742.4****11**).
+[^25-2]: [[AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [AS 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)Art. 6]. Siehe heute: die Gütertransportverordnung vom 4. Nov. 2009 ([SR 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
 [^25-3]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^25-4]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-5]: [[AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572), [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408), [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349), [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121), [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303), [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)Anhang Ziff. 1 [2063](https://fedlex.data.admin.ch/eli/oc/2001/304), [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 2, [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 1. [AS 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)Anhang 6 Ziff. I]. Siehe heute: die V vom 23. April 2008 (SR **45****5.1**).
+[^25-5]: [[AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572), [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408), [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349), [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121), [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303), [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)Anhang Ziff. 1 [2063](https://fedlex.data.admin.ch/eli/oc/2001/304), [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 2, [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 1. [AS 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)Anhang 6 Ziff. I]. Siehe heute: die V vom 23. April 2008 ([SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)).
 
 #### Art. 26
 
@@ -1433,29 +1464,43 @@ Beim Auftreten einer Seuche, die durch Milch verbreitet werden kann, schreibt de
 
 Das BLV hat folgende Aufgaben:
 
-- a. Es regelt die Ausbildung der Besamungstechniker und der Tierhalter, die in der eigenen Tierhaltung oder in der Tierhaltung ihres Arbeitgebers besamen.
+- a.[^51-1] Es regelt die Ausbildung der Besamungstechniker und der Personen, die in der eigenen Tierhaltung oder in der Tierhaltung ihres Arbeitgebers besamen.
 - b. Es anerkennt die Ausbildungsstätten.
 - c. Es erteilt den Fähigkeitsausweis an Besamungstechniker.
-- d.[^51-1] ...
-- e.[^51-2] Es erlässt Vorschriften technischer Art über die seuchenpolizeilichen Anforderungen an Tierhaltungen, in denen Tiere für die Samengewinnung gehalten werden (Besamungsstationen), an Tiere, die für die Samengewinnung gehalten werden, sowie über die Kontrolle der Gewinnung, Lagerung und Übertragung von Samen.
+- d.[^51-2] ...
+- e.[^51-3] Es erlässt Vorschriften technischer Art über die seuchenpolizeilichen Anforderungen an Tierhaltungen, in denen Tiere für die Samengewinnung gehalten werden (Besamungsstationen), an Tiere, die für die Samengewinnung gehalten werden, sowie über die Kontrolle der Gewinnung, Lagerung und Übertragung von Samen.
 
-<sup>2</sup>
-
-Der Kanton erteilt die Bewilligung zum Besamen an:
-
-- a. Besamungstechniker aufgrund des Fähigkeitsausweises des BLV;
-- b. Tierhalter, die sich über die vorgeschriebene Ausbildung ausweisen können, zur Besamung in der eigenen Tierhaltung oder in der Tierhaltung ihres Arbeitgebers.
+<sup>2</sup> ...[^51-4]
 
 <sup>3</sup>
 
 Der Kantonstierarzt hat folgende Aufgaben:
 
 - a. Er erteilt die Bewilligungen für das Betreiben von Samenlagern und Besamungsstationen mit grenzüberschreitendem Handel.
-- b. Er bezeichnet für jedes Samenlager und jede Besamungsstation mit grenzüberschreitendem Handel einen amtlichen Tierarzt, der für die seuchenpolizeiliche Überwachung zuständig ist.[^51-3]
+- b. Er bezeichnet für jedes Samenlager und jede Besamungsstation mit grenzüberschreitendem Handel einen amtlichen Tierarzt, der für die seuchenpolizeiliche Überwachung zuständig ist.[^51-5]
 
-[^51-1]: Aufgehoben durch Ziff. I der V vom 16. Mai 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
-[^51-2]: Fassung gemäss Ziff. I der V vom 16. Mai 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
-[^51-3]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^51-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^51-2]: Aufgehoben durch Ziff. I der V vom 16. Mai 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
+[^51-3]: Fassung gemäss Ziff. I der V vom 16. Mai 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
+[^51-4]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^51-5]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+
+#### Art. 51a
+
+**Bewilligung für die künstliche Besamung**[^51a-1]
+
+<sup>1</sup>
+
+Der Kantonstierarzt erteilt die Bewilligung für die künstliche Besamung an:
+
+- a. Besamungstechniker aufgrund des Fähigkeitsausweises des BLV;
+- b. Personen, die sich über die vorgeschriebene Ausbildung ausweisen können, zur Besamung in der eigenen Tierhaltung oder in der Tierhaltung ihres Arbeitgebers.
+
+<sup>2</sup> Die Bewilligung nach Absatz 1 Buchstabe a gilt für die ganze Schweiz. Das Gesuch ist beim Kantonstierarzt des Wohnsitzkantons des Gesuchstellers einzureichen.
+
+<sup>3</sup> Besamungstechniker, die ausserhalb des Kantons, der die Bewilligung erteilt hat, tätig sein wollen, müssen dies dem am Standort der Tiere zuständigen Kantonstierarzt melden.
+
+[^51a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 52
 
@@ -1597,15 +1642,19 @@ Der grenzüberschreitende Handel mit Eizellen oder Embryonen ist bewilligungspfl
 
 **Pflichten der Tierhalter[^59-1]**
 
-<sup>1</sup> Tierhalter haben die Tiere ordnungsgemäss zu warten und zu pflegen und die Vorkehren zu treffen, um sie gesund zu erhalten.
+<sup>1</sup> Tierhalter haben die Tiere ordnungsgemäss zu betreuen und zu pflegen; sie haben die notwendigen Massnahmen zu treffen, um sie gesund zu erhalten und die Biosicherheit in ihrer Tierhaltung zu gewährleisten.[^59-2]
 
-<sup>2</sup> Sie haben die seuchenpolizeilichen Organe bei der Durchführung von Massnahmen in ihren Beständen, wie Überwachung und Untersuchung der Tiere, Registrierung und Kennzeichnung, Impfung, Verlad und Tötung, zu unterstützen und das dafür notwendige Material, soweit vorhanden, zur Verfügung zu stellen. Sie sorgen dafür, dass die Infrastruktur zur Fixierung der Tiere vorhanden ist und die Tiere den Umgang mit Menschen und die Fixierung gewohnt sind. Für ihre Mithilfe haben sie keinen Entschädigungsanspruch.[^59-2]
+<sup>1bis</sup> Sie sind in ihrer Tierhaltung dafür verantwortlich, dass Dritte die Massnahmen nach Absatz 1 einhalten.[^59-3]
 
-<sup>3</sup> Imker haben die besetzten und unbesetzten Bienenstände ordnungsgemäss zu warten und alle Vorkehrungen zu treffen, damit von den Bienenständen keine Seuchengefahr ausgeht. Beutensysteme müssen so konstruiert sein, dass sie für Kontrollen jederzeit zugänglich sind und die Brutnester jederzeit geöffnet werden können.[^59-3]
+<sup>2</sup> Sie haben die seuchenpolizeilichen Organe bei der Durchführung von Massnahmen in ihren Beständen, wie Überwachung und Untersuchung der Tiere, Registrierung und Kennzeichnung, Impfung, Verlad und Tötung, zu unterstützen und das dafür notwendige Material, soweit vorhanden, zur Verfügung zu stellen. Sie sorgen dafür, dass die Infrastruktur zur Fixierung der Tiere vorhanden ist und die Tiere den Umgang mit Menschen und die Fixierung gewohnt sind. Für ihre Mithilfe haben sie keinen Entschädigungsanspruch.[^59-4]
+
+<sup>3</sup> Imker haben die besetzten und unbesetzten Bienenstände ordnungsgemäss zu warten und alle Vorkehrungen zu treffen, damit von den Bienenständen keine Seuchengefahr ausgeht. Beutensysteme müssen so konstruiert sein, dass sie für Kontrollen jederzeit zugänglich sind und die Brutnester jederzeit geöffnet werden können.[^59-5]
 
 [^59-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^59-2]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^59-3]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^59-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^59-3]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^59-4]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^59-5]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
 #### Art. 59a
 
@@ -1641,7 +1690,7 @@ Die Bestimmungen dieses Abschnitts finden Anwendung, soweit für die einzelnen S
 
 <sup>6</sup> Jäger und Organe der Jagdaufsicht sind verpflichtet, den Ausbruch einer Seuche bei frei lebenden Wildtieren und jede verdächtige Erscheinung, die den Ausbruch einer solchen vermuten lässt, unverzüglich einem amtlichen Tierarzt zu melden.[^61-4]
 
-[^61-1]: Eingefügt durch Ziff. I der V vom 8. Juni 1998 (AS **199****8** 1575). Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^61-1]: Eingefügt durch Ziff. I der V vom 8. Juni 1998 ([AS 1998 1575](https://fedlex.data.admin.ch/eli/oc/1998/1575_1575_1575)). Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^61-2]: Fassung gemäss Ziff. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
 [^61-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^61-4]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
@@ -1701,7 +1750,7 @@ Der amtliche Tierarzt, der amtliche Fachassistent, der Bieneninspektor oder die 
 
 [^65b-1]
 
-[^65b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Aufgehoben durch Art. 25 der V vom 29. Okt. 2008 über das Informationssystem für den öffentlichen Veterinärdienst, mit Wirkung seit 1. Jan. 2009 (AS **20****08** 5589).
+[^65b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Aufgehoben durch Art. 25 der V vom 29. Okt. 2008 über das Informationssystem für den öffentlichen Veterinärdienst, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5589](https://fedlex.data.admin.ch/eli/oc/2008/775)).
 
 ### 3. Abschnitt: Sperrmassnahmen
 
@@ -1861,7 +1910,7 @@ Der Warenverkehr wird wie folgt eingeschränkt:
 <sup>5</sup> Die Kantone können namentlich im Fall von hochansteckenden Seuchen spezialisierte Unternehmen mit der Reinigung und Desinfektion beauftragen und die Tierhalter an den Kosten beteiligen.
 
 [^74-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^74-2]: Fassung gemäss Ziff. II 20 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes, in Kraft seit 1. Aug. 2005 (AS **20****05** 2695).
+[^74-2]: Fassung gemäss Ziff. II 20 der V vom 18. Mai 2005 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit dem Inkrafttreten des Chemikaliengesetzes, in Kraft seit 1. Aug. 2005 ([AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)).
 [^74-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 
 ### 5. Abschnitt: Entschädigung für Tierverluste
@@ -2269,7 +2318,7 @@ Der Kantonstierarzt sorgt dafür, dass:
 [^101-4]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^101-5]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 [^101-6]: Ausdruck gemäss Anhang 8 Ziff. II 4 der V vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten, in Kraft seit 1. Juli 2011 ([AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^101-7]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^101-7]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 (AS **20****18** 2069).
 [^101-8]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 102
@@ -2320,25 +2369,13 @@ Der Kantonstierarzt kann für die Schutz- und Überwachungszonen folgende Massna
 
 [^103-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
-### 3. Abschnitt: Vesikulärkrankheit der Schweine
+### 3. Abschnitt: ...
 
-#### Art. 104
+#### Art. 104 und 105
 
-**Allgemeines**
+[^104105-1]
 
-<sup>1</sup> Als empfänglich für die Vesikulärkrankheit der Schweine gelten alle Schweinearten, einschliesslich Wildschweine.
-
-<sup>2</sup> Die Inkubationszeit beträgt 14 Tage.
-
-#### Art. 105
-
-**Massnahmen betreffend Fleisch**
-
-<sup>1</sup> Der Kantonstierarzt sorgt dafür, dass Fleisch von Schweinen aus verseuchten Beständen, das in der Zeit zwischen der mutmasslichen Einschleppung der Seuche in den Bestand und der Verhängung der Sperrmassnahmen gewonnen wurde, soweit wie möglich ausfindig gemacht und als tierische Nebenprodukte der Kategorie 2 nach Artikel 6 VTNP[^105-1] entsorgt wird.
-
-<sup>2</sup> Aus Schutz- und Überwachungszonen darf Fleisch von Schweinen nur mit Genehmigung des Kantonstierarztes verbracht werden; das BLV erlässt Vorschriften technischer Art über die Kennzeichnung und Behandlung solchen Fleisches.
-
-[^105-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^104105-1]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 4. Abschnitt: Lungenseuche der Rinder
 
@@ -2405,7 +2442,7 @@ Das BLV ordnet bei Feststellung von Lungenseuche die Erhebung und die Untersuchu
 
 **Allgemeines**[^111a-1]
 
-<sup>1</sup> Als empfänglich für die *Dermatitis nodularis* gelten alle Tiere der Rindergattung.
+<sup>1</sup> Als empfänglich für die *Dermat**itis nodularis* gelten alle Tiere der Rindergattung.
 
 <sup>2</sup> *Dermatitis nodularis* liegt vor, wenn in einem Bestand mit empfänglichen Tieren bei mindestens einem Tier das *Dermatitis-nodularis*-Virus nachgewiesen wurde.
 
@@ -2419,7 +2456,7 @@ Das BLV ordnet bei Feststellung von Lungenseuche die Erhebung und die Untersuchu
 
 Das BLV kann nach Anhören der Kantone ein Programm zur Überwachung der Bestände mit empfänglichen Tieren festlegen.
 
-[^111b-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^111b-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 (AS **2****018** 2069).
 
 #### Art. 111c
 
@@ -2584,11 +2621,11 @@ Bei Ausbruch oder drohendem Ausbruch der Pferdepest in der Schweiz kann das BLV 
 
 <sup>1</sup> Als empfänglich für die Afrikanische und die Klassische Schweinepest gelten alle Schweinearten, einschliesslich Wildschweine.
 
-<sup>2</sup> Die Inkubationszeit beträgt für die Afrikanische Schweinepest 40 Tage und für die Klassische Schweinepest 21 Tage.[^116-1]
+<sup>2</sup> Die Inkubationszeit beträgt 15 Tage.[^116-1]
 
 <sup>3</sup> Die Artikel 117–120 gelten nicht für freilebende Wildschweine.
 
-[^116-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^116-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 117
 
@@ -2608,29 +2645,36 @@ Bei Ausbruch oder drohendem Ausbruch der Pferdepest in der Schweiz kann das BLV 
 
 #### Art. 118
 
-**Tierverkehr in den Schutz- und Überwachungszonen**
+**Tierverkehr in den Schutzzonen bei Ausbruch der Afrikanischen Schweinepest**[^118-1]
 
-<sup>1</sup> Tiere der empfänglichen Arten dürfen die Stallungen zum Auslauf auf an den Stall angrenzende Weiden oder Laufhöfe erst verlassen, wenn alle Bestände der Schutzzone untersucht und keine weiteren Fälle festgestellt worden sind.[^118-1]
+<sup>1</sup> Bei Ausbruch der Afrikanischen Schweinepest kann der Kantonstierarzt in Abweichung von Artikel 90 Absatz 2 gestatten, dass Tiere in einen anderen Bestand verbracht werden, wenn alle Tiere der empfänglichen Arten untersucht worden sind und kein Seuchenverdacht vorliegt.
 
-<sup>1bis</sup> Artikel 90 Absatz 3 ist erst anwendbar, wenn alle Bestände der Schutzzone untersucht und keine weiteren Fälle festgestellt worden sind.[^118-2]
+<sup>2</sup> Die Tiere müssen eindeutig gekennzeichnet werden, bevor sie den Bestand verlassen.
 
-<sup>2</sup> Der Kantonstierarzt kann ab dem 21. Tag nach Anordnung der Schutzzone das Verstellen in einen anderen Bestand der Schutz- oder Überwachungszone gestatten, sofern alle Bestände untersucht worden sind und der Befund negativ ist.
+[^118-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
-<sup>3</sup> In Abweichung von Artikel 92 Absatz 3 dürfen Schweine erst sieben Tage nach Anordnung der Überwachungszone in einen anderen Bestand oder zur Schlachtung verbracht werden.
+#### Art. 118a
 
-<sup>4</sup> Die Schweine müssen, bevor sie den Bestand verlassen, eindeutig gekennzeichnet sein.
+**Tierverkehr in den Schutz- und Überwachungszonen bei Ausbruch der Klassischen Schweinepest**[^118a-1]
 
-[^118-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
-[^118-2]: Eingefügt durch Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
+<sup>1</sup> Bei Ausbruch der Klassischen Schweinepest dürfen Tiere der empfänglichen Arten die Stallungen zum Auslauf auf an den Stall angrenzenden Weiden oder Laufhöfen erst verlassen, wenn alle Bestände der Schutzzone untersucht und keine weiteren Fälle festgestellt worden sind.
+
+<sup>2</sup> Artikel 90 Absatz 3 ist erst anwendbar, wenn alle Bestände der Schutzzone untersucht und keine weiteren Fälle festgestellt worden sind.
+
+<sup>3</sup> In Abweichung von Artikel 92 Absatz 3 dürfen Schweine erst sieben Tage nach Anordnung der Überwachungszone in einen anderen Bestand oder zur Schlachtung verbracht werden. Sie müssen eindeutig gekennzeichnet werden, bevor sie den Bestand verlassen.
+
+[^118a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 119
 
-**Aufhebung der Sperrmassnahmen**
+**Aufhebung der Sperrmassnahmen in den Überwachungszonen**[^119-1]
 
-Die für den Bereich der Schutz- und Überwachungszonen getroffenen Massnahmen können aufgehoben werden:
+Die Sperrmassnahmen in den Überwachungszonen können aufgehoben werden:
 
-- a. frühestens 30 Tage nach Ausmerzung des letzten verseuchten Bestandes; und
-- b. nachdem die serologische Untersuchung aller Bestände der Schutzzone und einer repräsentativen Anzahl der Bestände der Überwachungszone einen negativen Befund ergeben hat.
+- a. frühestens 15 Tage nach der Aufhebung der Sperrmassnahmen in den Schutzzonen; und
+- b. nachdem die serologische Untersuchung einer repräsentativen Anzahl der Bestände einen negativen Befund ergeben hat.
+
+[^119-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 120
 
@@ -2767,7 +2811,7 @@ Der Kantonstierarzt sorgt dafür, dass:
 
 <sup>2</sup> Der Kantonstierarzt kann aufgrund epidemiologischer Abklärungen ein an die Überwachungszone angrenzendes Gebiet mit erhöhtem Risiko ausscheiden (Restriktionsgebiet) und die für die Schutz- und Überwachungszone geltenden Massnahmen darauf ausdehnen. Der Umfang des Restriktionsgebietes wird vom BLV nach Anhören des Kantonstierarztes festgelegt.
 
-[^122d-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^122d-1]: SR **916.441****.****22**
 
 #### Art. 122e
 
@@ -2912,16 +2956,17 @@ Tritt die Newcastle-Krankheit bei anderen in Gefangenschaft gehaltenen Vögeln a
 
 Als andere hochansteckende Tierseuchen gelten folgende Tierkrankheiten:
 
-- a. Vesikuläre Stomatitis;
+- a.[^126-1] ...
 - b. Rinderpest;
 - c. Pest der kleinen Wiederkäuer;
-- d.[^126-1] ...
+- d.[^126-2] ...
 - e. Rifttalfieber;
-- f.[^126-2] ...
+- f.[^126-3] ...
 - g. Schaf- und Ziegenpocken.
 
-[^126-1]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^126-2]: Aufgehoben durch Ziff. I der V vom 16. Mai 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
+[^126-1]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^126-2]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^126-3]: Aufgehoben durch Ziff. I der V vom 16. Mai 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
 
 #### Art. 127
 
@@ -2953,7 +2998,7 @@ Die Bestimmungen dieses Abschnitts gelten für die auszurottenden Seuchen mit Au
 
 Die Untersuchung umfasst:
 
-- a. bei Rindern: Bovine Virus-Diarrhoe, *Bru**cella abortus, Coxiella burnetii* sowie Infektiöse bovine Rhinotracheitis / Infektiöse pustulöse Vulvovaginitis;
+- a. bei Rindern: Bovine Virus-Diarrhoe, *Brucella abortus, Coxiella burnetii* sowie Infektiöse bovine Rhinotracheitis / Infektiöse pustulöse Vulvovaginitis;
 - b. bei Schafen und Ziegen: *Brucella melitensis, Coxiella burnetii* sowie *Chl**a**my**dia*;
 - c. bei Schweinen: *Brucella suis,* Porcines reproduktives und respiratorisches Syndrom sowie Aujeszkysche Krankheit.[^129-3]
 
@@ -3018,13 +3063,15 @@ Der Kantonstierarzt ordnet bei Feststellung von Milzbrand im verseuchten Bestand
 - b. die Tötung der erkrankten Tiere ohne Blutentzug;
 - c.[^134-1] die Entsorgung der getöteten oder umgestandenen Tiere;
 - d. die täglich zweimalige Temperaturmessung der gefährdeten Tiere;
-- e. die Reinigung und die Desinfektion der Stallungen sowie aller kontaminierten Gegenstände.
+- e. die Reinigung und die Desinfektion der Stallungen sowie aller kontaminierten Gegenstände;
+- f.[^134-2] die Pasteurisation der Milch.
 
 <sup>2</sup> Er kann in gefährdeten Beständen Impfungen oder Behandlungen anordnen.
 
 <sup>3</sup> Er hebt die Sperre nach Absatz 1 frühestens 15 Tage nach dem letzten Seuchenfall auf.
 
 [^134-1]: Fassung gemäss Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^134-2]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 3. Abschnitt: Aujeszkysche Krankheit
 
@@ -3310,7 +3357,7 @@ Nach Aufhebung der Sperre müssen alle Nachgeburten und abortierten Föten währ
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der Tuberkulose der Rinder infolge von Infektionen mit *Mycobacterium bovis,* *Mycobacterium caprae* und *Mycobacterium tuberculosis.*[^158-1]
+<sup>1</sup> Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der Tuberkulose der Rinder infolge von Infektionen mit *Mycobacterium bovis,* *Mycobacterium caprae* und *Mycobacterium tuberc**ulosis.*[^158-1]
 
 <sup>2</sup> Wird die Seuche bei andern Tierarten festgestellt, ordnet der Kantonstierarzt die Massnahmen an, die zur Bekämpfung der Tuberkulose bei Rindern erforderlich sind.
 
@@ -3324,12 +3371,12 @@ Nach Aufhebung der Sperre müssen alle Nachgeburten und abortierten Föten währ
 
 Tuberkulose liegt vor, wenn:
 
-- a.[^159-1] im Untersuchungsmaterial *Mycobacterium bovis,* *Mycobacterium caprae* oder *Mycobacterium tube**rc**u**losis* nachgewiesen wurde;
+- a.[^159-1] im Untersuchungsmaterial *Myco**bacterium bovis,* *Mycobacterium caprae* oder *Mycobacterium tuberc**u**losis* nachgewiesen wurde;
 - b. die Tuberkulinprobe eines Tieres, das aus einem Bestand stammt, in dem die Tuberkulose bereits nach Buchstabe a festgestellt wurde, einen positiven Befund ergeben hat.
 
 <sup>2</sup> Die Inkubationszeit beträgt 150 Tage.
 
-[^159-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
+[^159-1]: Fassung gemäss Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 (AS **20****11** 2691).
 
 #### Art. 160
 
@@ -3643,9 +3690,12 @@ Der Kantonstierarzt verhängt bei Feststellung von BVD die einfache Sperre 1. Gr
 
 <sup>2</sup> Er hebt die einfache Sperre 1. Grades auf, sobald die epidemiologischen Abklärungen abgeschlossen sind, frühestens jedoch 14 Tage nachdem alle verseuchten Tiere des Bestandes ausgemerzt worden sind.
 
+<sup>2bis</sup> Er ordnet spätestens ein Jahr nach Aufhebung aller Sperren die serologische Untersuchung einer Gruppe von Rindern des Bestandes auf BVD an.[^174e-2]
+
 <sup>3</sup> Vom Zeitpunkt des Abkalbens eines Tieres nach Absatz 1 Buchstabe d bis zum Vorliegen eines negativen Befunds der virologischen Untersuchung des Kalbes oder der Totgeburt dürfen keine Rinder die betroffene Tierhaltung verlassen. Die Abgabe von Tieren direkt zur Schlachtung ist gestattet.
 
 [^174e-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^174e-2]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 174f
 
@@ -3897,12 +3947,13 @@ Der Kantonstierarzt ordnet bei Feststellung von Traberkrankheit im Bestand, in d
 
 <sup>1</sup>
 
-Als spezifiziertes Risikomaterial gelten:
+Als spezifiziertes Risikomaterial gilt folgendes Material von Schafen und Ziegen, die über zwölf Monate alt sind oder bei denen ein bleibender Schneidezahn das Zahnfleisch durchbrochen hat:
 
-- a. von Schafen und Ziegen, die über zwölf Monate alt sind oder bei denen ein bleibender Schneidezahn das Zahnfleisch durchbrochen hat: das Gehirn in der Gehirnschale, die Augen, das Rückenmark mit der harten Rückenmarkhaut *(Dura mater)* und die Tonsillen;
-- b. von Schafen und Ziegen jeden Alters: die Milz und der Krummdarm (*Ileum*).
+- a. das Gehirn in der Gehirnschale;
+- b. die Augen;
+- c. das Rückenmark mit der harten Rückenmarkhaut (*Dura mater*).[^180c-1]
 
-<sup>2</sup> Das spezifizierte Risikomaterial ist direkt nach dem Schlachten als tierisches Nebenprodukt der Kategorie 1 zu entsorgen (Art. 22 VTNP[^180c-1]).[^180c-2] Das Rückenmark kann auch erst nach dem Zerlegen entsorgt werden, wenn es von ungespaltenen Schlachttierkörpern stammt, deren Wirbelsäule einschliesslich Rückenmark ungeöffnet wie spezifiziertes Risikomaterial entsorgt wird.
+<sup>2</sup> Das spezifizierte Risikomaterial ist direkt nach dem Schlachten als tierisches Nebenprodukt der Kategorie 1 zu entsorgen (Art. 22 VTNP[^180c-2]).[^180c-3] Das Rückenmark kann auch erst nach dem Zerlegen entsorgt werden, wenn es von ungespaltenen Schlachttierkörpern stammt, deren Wirbelsäule einschliesslich Rückenmark ungeöffnet wie spezifiziertes Risikomaterial entsorgt wird.
 
 <sup>3</sup> Die Hirnbasis darf nach dem Betäuben nicht zerstört werden.
 
@@ -3912,8 +3963,9 @@ Als spezifiziertes Risikomaterial gelten:
 
 <sup>6</sup> Die Fleischkontrolle und die Lebensmittelkontrolle überwachen die Durchführung der Massnahmen je in ihrem Zuständigkeitsbereich.
 
-[^180c-1]: SR **9****16.441.22**
-[^180c-2]: Fassung gemäss Anhang 8 Ziff. II 4 der V vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten, in Kraft seit 1. Juli 2011 ([AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
+[^180c-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^180c-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^180c-3]: Fassung gemäss Anhang 8 Ziff. II 4 der V vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten, in Kraft seit 1. Juli 2011 ([AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
 
 ### D. Andere spongiforme Enzephalopathien
 
@@ -4134,7 +4186,7 @@ Er hebt die Sperre auf, nachdem:
 
 **Geltungsbereich und Diagnose**
 
-<sup>1</sup> Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der Brucellose der Schafe und Ziegen infolge von Infektionen mit *Brucella melit**ensis.*
+<sup>1</sup> Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der Brucellose der Schafe und Ziegen infolge von Infektionen mit *Brucella melitensis.*
 
 <sup>2</sup>
 
@@ -4276,7 +4328,7 @@ Er hebt die Sperre auf, nachdem:
 
 Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der folgenden Seuchen bei Pferden, Eseln, Zebras und bei den Kreuzungen zwischen diesen:
 
-- a. Beschälseuche (*Trypanosoma equiperdum*);
+- a. Beschälseuche (*Trypanosoma equiper**dum*);
 - b.[^204-1] ...
 - c. Infektiöse Anämie;
 - d. Rotz.
@@ -4458,11 +4510,14 @@ Tierverluste nach Artikel 32 Absatz 1 Buchstaben a und b TSG werden nicht entsch
 
 #### Art. 218
 
-**Amtliche Anerkennung und Überwachung**
+**Amtliche Anerkennung[^218-1]**
 
 <sup>1</sup> Alle Ziegenbestände gelten als amtlich anerkannt CAE-frei. Im Verdachts- oder Seuchenfall wird dem betroffenen Bestand die Anerkennung bis zur Aufhebung der Sperre entzogen.
 
-<sup>2</sup> Die Bestände werden durch periodische serologische Untersuchungen überwacht.
+<sup>2</sup> ...[^218-2]
+
+[^218-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^218-2]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 219
 
@@ -4683,8 +4738,8 @@ Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der Paratuberkulo
 
 Bei jedem Verdachtsfall ordnet der Kantonstierarzt zusätzlich an, dass:
 
-- a.[^238-1] das verdächtige Tier und seine saugenden Jungtiere abgesondert werden;
-- b.[^238-2] das verdächtige Tier und seine saugenden Jungtiere unter Verbringungssperre gestellt werden;
+- a.[^238-1] das verdächtige Tier abgesondert und unter Verbringungssperre gestellt wird;
+- b. [^238-2] die Nachkommen von weiblichen Tiere nach Buchstabe a, die innerhalb der letzten 12 Monate vor dem Verdachtsfall geboren wurden und sich noch im Bestand befinden, unter Verbringungssperre gestellt werden;
 - c. die Milch des verdächtigen Tiers als tierisches Nebenprodukt der Kategorie 2 nach Artikel 6 VTNP[^238-3] entsorgt wird.
 
 <sup>4</sup>
@@ -4694,8 +4749,8 @@ Der Verdacht auf Paratuberkulose gilt als widerlegt:
 - a. in den Fällen nach Absatz 1: wenn kein Erreger nachgewiesen wurde;
 - b. in den Fällen nach Absatz 2: wenn die klinische Untersuchung einen negativen Befund ergeben hat.
 
-[^238-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^238-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^238-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^238-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 #### Art. 238a
@@ -4706,21 +4761,26 @@ Der Verdacht auf Paratuberkulose gilt als widerlegt:
 
 Der Kantonstierarzt verhängt bei Feststellung der Paratuberkulose die einfache Sperre 1. Grades über alle Bestände der verseuchten Tierhaltung. Ausserdem ordnet er an, dass:
 
-- a.[^238a-1] die verseuchten Tiere und ihre saugenden Jungtiere abgesondert, getötet und entsorgt werden;
+- a.[^238a-1] die verseuchten Tiere abgesondert, getötet und entsorgt werden;
+- a<sup>bis</sup>.[^238a-2] die Nachkommen von weiblichen Tieren nach Buchstabe a, die innerhalb der letzten 12 Monate vor dem Seuchenfall geboren wurden und sich noch im Bestand befinden, abgesondert und bis spätestens im Alter von 12 Monaten geschlachtet werden;
 - b. die Tiere der empfänglichen Arten des Bestandes klinisch untersucht werden;
-- c. die Milch der verdächtigen und verseuchten Tiere als tierisches Nebenprodukt der Kategorie 2 nach Artikel 6 VTNP[^238a-2] entsorgt wird;
+- c. die Milch der verdächtigen und verseuchten Tiere als tierisches Nebenprodukt der Kategorie 2 nach Artikel 6 VTNP[^238a-3] entsorgt wird;
 - d. die Stallungen gereinigt und desinfiziert werden.
+
+<sup>1bis</sup> Er ordnet für die Tiere nach Absatz 1 Buchstabe a<sup>bis</sup> eine Verbringungssperre bis zu ihrer Schlachtung an.[^238a-4]
 
 <sup>2</sup>
 
 Er hebt die Sperre auf, nachdem:
 
 - a. die klinische Untersuchung abgeschlossen ist und dabei keine verdächtigen Tiere entdeckt wurden; und
-- b.[^238a-3] die verseuchten Tiere und ihre saugenden Jungtiere getötet und entsorgt sowie die Stallungen gereinigt und desinfiziert worden sind.
+- b.[^238a-5] die verseuchten Tiere getötet und entsorgt sowie die Stallungen gereinigt und desinfiziert worden sind.
 
-[^238a-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^238a-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^238a-3]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^238a-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^238a-2]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^238a-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^238a-4]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^238a-5]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 239
 
@@ -4776,7 +4836,7 @@ Der Kantonstierarzt verhängt bei Seuchen- oder Ansteckungsverdacht auf Blauzung
 
 [^239c-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^239c-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^239c-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^239c-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 (AS **201****5** 4255).
 
 #### Art. 239d
 
@@ -4848,7 +4908,7 @@ Das BLV kann nach Anhören der Kantone für empfängliche Tiere Impfungen gegen 
 
 <sup>1</sup> Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der ansteckenden Pferdemetritis bei Pferden und Eseln infolge von Infektionen mit *Taylorella equi**ge**nitalis.*
 
-<sup>2</sup> Ansteckende Pferdemetritis (CEM) liegt vor, wenn im Untersuchungsmaterial *Taylorella equigenitalis* bakteriologisch nachgewiesen wurde. Das BLV kann weitere Untersuchungsmethoden zulassen.
+<sup>2</sup> Ansteckende Pferdemetritis (CEM) liegt vor, wenn im Untersuchungsmaterial *Taylorel**la equigenitalis* bakteriologisch nachgewiesen wurde. Das BLV kann weitere Untersuchungsmethoden zulassen.
 
 #### Art. 241
 
@@ -5187,7 +5247,7 @@ Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der durch *Salmon
 - c.[^255-2] Masttiere zur Produktion von Poulet- oder Trutenfleisch (Masttiere);
 - d.[^255-3] ...
 
-<sup>2</sup> Eine *Salmonella*-Infektion liegt vor, wenn der Erreger bei Geflügel, in Eiern oder in Schlachttierkörpern von Geflügel nachgewiesen wurde.[^255-4]
+<sup>2</sup> Eine *Salmonel**la*-Infektion liegt vor, wenn der Erreger bei Geflügel, in Eiern oder in Schlachttierkörpern von Geflügel nachgewiesen wurde.[^255-4]
 
 <sup>3</sup> Das BLV bestimmt in Absprache mit dem Bundesamt für Gesundheit (BAG) die Salmonella-Serotypen, deren Bekämpfung für die öffentliche Gesundheit von Bedeutung ist, und die Anforderungen an die Untersuchungsmethoden.[^255-5]
 
@@ -5205,52 +5265,66 @@ Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der durch *Salmon
 
 #### Art. 257
 
-**Überwachung**[^257-1]
+**Zu überwachende Geflügelhaltungen**[^257-1]
 
-<sup>1</sup>
-
-Bei Geflügelhaltungen in den folgenden Grössen müssen die Tierhalter ihren gesamten Geflügelbestand auf *Salmonella*-Infektionen untersuchen:
+Geflügelhaltungen der folgenden Grössen müssen auf *Salmonella*-Infektionen untersucht werden:
 
 - a. Zuchttiere der Mast- und der Legelinie: wenn die Geflügelhaltung mehr als 250 Plätze umfasst;
 - b. Legehennen: wenn die Geflügelhaltung mehr als 1000 Plätze umfasst;
 - c. Mastpoulets: wenn die Stallgrundfläche der Geflügelhaltung mehr als 333 m<sup>2</sup> beträgt;
 - d. Masttruten: wenn die Stallgrundfläche der Geflügelhaltung mehr als 200 m<sup>2</sup> beträgt.
 
-<sup>2</sup>
+[^257-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
-Der Geflügelhalter nimmt Proben:
+#### Art. 257a
 
-- a. von Zuchttieren: alle zwei Wochen während der Legezeit;
-- b. von Legehennen: alle 15 Wochen während der Legezeit, erstmals in der vierundzwanzigsten Lebenswoche;
-- c. von Masttieren: frühestens drei Wochen vor der Schlachtung.
+**Probenahmen durch den Geflügelhalter**[^257a-1]
 
-<sup>3</sup> Bei Zuchttieren können anstelle der Probenahme nach Absatz 2 Buchstabe a Proben in der Brüterei genommen und untersucht werden, sofern die geschlüpften Tiere nur für den Vertrieb im Inland bestimmt sind. Die Untersuchung muss mindestens alle 2 Wochen erfolgen.
+<sup>1</sup>
 
-<sup>4</sup>
-
-Der amtliche Tierarzt nimmt Proben:
+In den zu überwachenden Geflügelhaltungen nimmt der Geflügelhalter nach Anleitung des kantonalen Veterinärdienstes Proben von:
 
 - a.
 
-  von Zuchttieren:
+  Zuchttieren:
 
   - 1\. als Eintagsküken zwischen dem ersten und dritten Lebenstag,
-  - 2\. im Alter von vier bis fünf Wochen,
-  - 3\. im Alter von 15–20 Wochen, in jedem Fall zwei Wochen vor dem Wechsel in den Legestall,
-  - 4\. während der Legezeit innerhalb von vier Wochen nach ihrem Beginn, zur Halbzeit und frühestens acht Wochen vor ihrem Ende, total 3 Probenahmen;
+  - 2\. im Alter von 4 bis 5 Wochen,
+  - 3\. im Alter von 15 bis 20 Wochen, in jedem Fall spätestens 2 Wochen vor dem Wechsel in den Legestall,
+  - 4\. alle 3 Wochen während der Legezeit;
 
 - b.
 
-  von Legehennen:
+  Legehennen:
 
-  - 1\. im Alter von 15–20 Wochen, in jedem Fall zwei Wochen vor dem Wechsel in den Legestall,
-  - 2\. frühestens neun Wochen vor Ende der Legezeit;
+  - 1\. im Alter von 15 bis 20 Wochen, in jedem Fall spätestens 2 Wochen vor dem Wechsel in den Legestall,
+  - 2\. alle 15 Wochen während der Legezeit, erstmals zwischen der 22. und der 26. Lebenswoche;
 
-- c. von Masttieren: frühestens drei Wochen vor der Schlachtung.
+- c. Masttieren: frühestens 3 Wochen vor der Schlachtung.
 
-<sup>5</sup> Die Proben nach Absatz 4 Buchstabe c müssen während eines Kalenderjahrs in mindestens zehn Prozent der Masttierhaltungen nach Absatz 1 Buchstaben c und d genommen werden.
+<sup>2</sup> Er muss von allen Herden seiner Tierhaltung Proben nehmen.
 
-[^257-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+<sup>3</sup> Abweichend von Absatz 1 Buchstabe a Ziffer 4 können Proben in der Brüterei genommen und untersucht werden, sofern die geschlüpften Tiere für den Vertrieb im Inland bestimmt sind. Die Untersuchung muss mindestens alle 3 Wochen erfolgen.
+
+<sup>4</sup> Abweichend von Absatz 2 ist bei Masttieren einmal im Jahr eine Probenahme von allen zu diesem Zeitpunkt gehaltenen Herden ausreichend, wenn während eines Jahres alle Herden negativ auf Salmonellen getestet worden sind.
+
+[^257a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 257b
+
+**Probenahmen durch den Veterinärdienst**[^257b-1]
+
+<sup>1</sup>
+
+In den zu überwachenden Geflügelhaltungen nimmt der kantonale Veterinärdienst Proben von:
+
+- a. Zuchttieren: zweimal pro Jahr von jeder Herde einer Geflügelhaltung während der Legezeit;
+- b. Legehennen: einmal pro Jahr von mindestens einer Herde einer Geflügelhaltung während der Legezeit;
+- c. Masttieren: einmal pro Jahr von einer Herde in mindestens zehn Prozent der Geflügelhaltungen nach Artikel 257 Buchstaben c und d.
+
+<sup>2</sup> Die Probenahme nach Absatz 1 Buchstabe c darf frühestens 3 Wochen vor der Schlachtung erfolgen.
+
+[^257b-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 258
 
@@ -5258,14 +5332,14 @@ Der amtliche Tierarzt nimmt Proben:
 
 <sup>1</sup> Die Proben müssen zur Untersuchung in ein vom BLV anerkanntes Labor geschickt werden. Beizulegen ist der Untersuchungsantrag, der bei der Meldung nach Artikel 18*b* automatisch in der Tierverkehrsdatenbank erstellt wird.[^258-1]
 
-<sup>1bis</sup> Bei Proben nach Artikel 257 Absatz 4 müssen die Laboratorien dem Kantonstierarzt eine Kopie der Befunde zustellen.[^258-2]
+<sup>1bis</sup> ...[^258-2]
 
 <sup>2</sup> Das BLV erlässt für die Entnahme von Proben und deren Untersuchung Vorschriften technischer Art.
 
 <sup>3</sup> Die Brütereien und die Geflügelhaltungen müssen die Laborbefunde während drei Jahren aufbewahren und den Kontrollorganen auf Verlangen vorweisen.[^258-3]
 
 [^258-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^258-2]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^258-2]: Eingefügt durch Ziff. I der V vom 25. April 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^258-3]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 
 #### Art. 259
@@ -5276,15 +5350,17 @@ Der amtliche Tierarzt nimmt Proben:
 
 Es besteht der Verdacht, dass ein Bestand verseucht ist, wenn:
 
-- a. in einer Probe aus der Umgebung der Tiere *Salmonella*-Serotypen, deren Bekämpfung für die öffentliche Gesundheit von Bedeutung ist, nachgewiesen werden;
-- b. die serologische Untersuchung von Blut oder Eiern einen positiven Befund ergibt; oder
+- a.[^259-1] in einer Probe aus der Umgebung der Tiere *Salmonella*-Serotypen nach Artikel 255 Absatz 3 nachgewiesen werden;
+- b.[^259-2] die serologische Untersuchung einen positiven Befund ergibt; oder
 - c. die Abklärungen darauf hindeuten, dass Menschen infolge des Konsums von Eiern oder Fleisch aus dem betreffenden Bestand erkrankt sind.
 
 <sup>2</sup> Der amtliche Tierarzt entnimmt bei Verdacht so schnell wie möglich Untersuchungsmaterial und lässt es bakteriologisch auf *Salmonella*-Infektionen untersuchen.
 
-<sup>3</sup> Der Verdacht auf eine *Salmonella*-Infektion gilt als widerlegt, wenn im Untersuchungsmaterial nach Absatz 2 kein Erreger nachgewiesen wird.[^259-1]
+<sup>3</sup> Der Verdacht auf eine *Salmonella*-Infektion gilt als widerlegt, wenn im Untersuchungsmaterial nach Absatz 2 kein Erreger nachgewiesen wird.[^259-3]
 
-[^259-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^259-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^259-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^259-3]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 
 #### Art. 260
 
@@ -5292,19 +5368,20 @@ Es besteht der Verdacht, dass ein Bestand verseucht ist, wenn:
 
 <sup>1</sup>
 
-Der Kantonstierarzt verhängt bei Feststellung von *Salmonella*-Serotypen, deren Bekämpfung für die öffentliche Gesundheit von Bedeutung ist, die einfache Sperre 1. Grades über den verseuchten Geflügelbestand. Ausserdem ordnet er an, dass:
+Der Kantonstierarzt verhängt bei Feststellung von *Salmonella*-Serotypen nach Artikel 255 Absatz 3 die einfache Sperre 1. Grades über den verseuchten Geflügelbestand. Ausserdem ordnet er an, dass:[^260-1]
 
 - a. der verseuchte Bestand geschlachtet oder getötet wird;
-- b. die Eier nicht mehr zu Brutzwecken verwendet werden und sie entweder als tierische Nebenprodukte der Kategorie 2 nach Artikel 6 VTNP[^260-1] zu entsorgen oder vor ihrem Inverkehrbringen zu Speisezwecken einer Behandlung zur Tilgung der Salmonellen zu unterziehen sind;
+- b. die Eier nicht mehr zu Brutzwecken verwendet werden und sie entweder als tierische Nebenprodukte der Kategorie 2 nach Artikel 6 VTNP[^260-2] zu entsorgen oder vor ihrem Inverkehrbringen zu Speisezwecken einer Behandlung zur Tilgung der Salmonellen zu unterziehen sind;
 - c. die Eier, die bereits bebrütet werden, als tierische Nebenprodukte der Kategorie 2 nach Artikel 6 VTNP entsorgt werden;
 - d. das Frischfleisch von aus dem verseuchten Bestand stammenden Tieren vor dem Inverkehrbringen einer Behandlung zur Tilgung der Salmonellen unterzogen wird.
 
 <sup>2</sup> Er hebt die Sperre auf, wenn alle Tiere des verseuchten Bestandes getötet oder geschlachtet worden und die Örtlichkeiten gereinigt, desinfiziert und durch eine bakteriologische Untersuchung überprüft worden sind.
 
-<sup>3</sup> ...[^260-2]
+<sup>3</sup> ...[^260-3]
 
-[^260-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^260-2]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^260-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^260-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^260-3]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 
 #### Art. 260a
 
@@ -5429,7 +5506,7 @@ Tierverluste nach Artikel 32 Absatz 1 Buchstabe a TSG werden nicht entschädigt.
 
 **Diagnose**[^269-1]
 
-Faulbrut der Bienen liegt vor, wenn in der erkrankten Brut *Paenibacillus larvae* nachgewiesen wurde.
+Faulbrut der Bienen liegt vor, wenn in der erkrankten Brut *Pae**nibacillus larvae* nachgewiesen wurde.
 
 [^269-1]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 
@@ -5437,7 +5514,7 @@ Faulbrut der Bienen liegt vor, wenn in der erkrankten Brut *Paenibacillus larvae
 
 **Verdachtsfall**[^270-1]
 
-Besteht Verdacht auf Faulbrut der Bienen, hat der Bieneninspektor Probematerial zur Untersuchung auf *Paenib**acillus l**arvae* an ein Untersuchungslaboratorium einzusenden.
+Besteht Verdacht auf Faulbrut der Bienen, hat der Bieneninspektor Probematerial zur Untersuchung auf *Paenib**acillus larvae* an ein Untersuchungslaboratorium einzusenden.
 
 [^270-1]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 
@@ -5566,7 +5643,7 @@ Tierverluste nach Artikel 32 Absatz 1 Buchstaben a, b und d TSG werden nicht ent
 
 [^tit3-chap4-sec17-1]
 
-[^tit3-chap4-sec17-1]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. April 2015 ([AS 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
+[^tit3-chap4-sec17-1]: Eingefügt durch Ziff. I der V vom 25. März 2015, in Kraft seit 1. April 2015 (AS **20****15** 1007).
 
 #### Art. 274a
 
@@ -5603,7 +5680,8 @@ Bei Feststellung eines Befalls mit dem Kleinen Beutenkäfer ordnet der Kantonsti
 - a. die Bienenvölker oder Hummelnester, das gebrauchte Imkereimaterial, der Wabenhonig und die Imkereinebenprodukte des verseuchten Betriebs nicht verstellt werden dürfen und die Bienenvölker oder Hummelnester nach den Anweisungen des Bieneninspektors unverzüglich vernichtet werden;
 - b. das gebrauchte Imkereimaterial, der Wabenhonig, die Imkereinebenprodukte sowie weitere Gegenstände, die mit dem Kleinen Beutenkäfer in Berührung gekommen sein könnten, nach den Anweisungen des Bieneninspektors unverzüglich vernichtet oder gereinigt und entseucht werden;
 - c. das Bienenhaus sowie alle Räumlichkeiten und Gerätschaften des verseuchten Betriebs nach den Anweisungen des Bieneninspektors gereinigt und entseucht werden;
-- d. der Boden in der Umgebung des verseuchten Bienenstandes oder Hummelnestes nach den Anweisungen des Bieneninspektors behandelt wird.
+- d. der Boden in der Umgebung des verseuchten Bienenstandes oder Hummelnestes nach den Anweisungen des Bieneninspektors behandelt wird;
+- e.[^274d-1] ein Bienenvolk als Sentinel auf dem verseuchten Betrieb eingerichtet und regelmässig durch den Bieneninspektor kontrolliert wird.
 
 <sup>2</sup> Der Kantonstierarzt legt nach Rücksprache mit dem zuständigen Bieneninspektor eine Schutz- und eine Überwachungszone fest. Die Schutzzone umfasst in der Regel ein Gebiet im Umkreis von drei Kilometern um den verseuchten Imkereibetrieb oder das verseuchte Hummelnest, die Überwachungszone ein Gebiet im Umkreis von zehn Kilometern. Bei der Festlegung sind geografische Gegebenheiten zu berücksichtigen, insbesondere Gemeinde-, Kantons- und Landesgrenzen sowie Geländehindernisse wie Wälder, Kuppen, Kreten, Täler oder Seen.
 
@@ -5614,7 +5692,10 @@ Der Kantonstierarzt hebt die Schutz- und die Überwachungszone auf, wenn:
 - a. die Massnahmen nach Absatz 1 durchgeführt worden sind; und
 - b. nach Abschluss der Nachkontrollen in der Schutzzone (Art. 274*e* Abs. 5) kein Verdacht mehr auf Befall mit dem Kleinen Beutenkäfer besteht.
 
-<sup>4</sup> In Abweichung von Absatz 1 Buchstaben a und d kann das BLV anordnen, dass auf die Vernichtung von verseuchten Bienenvölkern oder Hummelnestern und auf die Behandlung des Bodens verzichtet wird, wenn dadurch die Ausbreitung des Kleinen Beutenkäfers nicht verhindert werden kann.
+<sup>4</sup> In Abweichung von Absatz 1 Buchstaben a, d und e kann das BLV anordnen, dass auf die Vernichtung von verseuchten Bienenvölkern oder Hummelnestern, auf die Behandlung des Bodens und auf das Einrichten eines Bienenvolkes als Sentinel verzichtet wird, wenn dadurch die Ausbreitung des Kleinen Beutenkäfer nicht verhindert werden kann.[^274d-2]
+
+[^274d-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^274d-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 274e
 
@@ -5723,29 +5804,98 @@ Bei Verdacht auf IHN, VHS oder ISA verhängt der Kantonstierarzt die einfache Sp
 
 #### Art. 282
 
-**Seuchenfall**
+**Seuchenfall in einem Aquakulturbetrieb**[^282-1]
 
 <sup>1</sup>
 
-Der Kantonstierarzt verhängt bei Feststellung von IHN, VHS oder ISA die einfache Sperre 1. Grades über den verseuchten Aquakulturbetrieb. Ausserdem ordnet er an, dass:[^282-1]
+Der Kantonstierarzt verhängt bei Feststellung von IHN, VHS oder ISA in einem Aquakulturbetrieb die einfache Sperre 1. Grades über den verseuchten Betrieb. Ausserdem ordnet er an, dass:
 
-- a.[^282-2] alle Fische des Betriebs unverzüglich getötet oder geschlachtet werden;
-- b.[^282-3] der Wasserzulauf und der Wasserablauf des Betriebs, soweit die Verhältnisse dies erlauben, gesperrt werden;
-- c. tote und getötete Fische sowie die Abfälle der geschlachteten Fische als tierische Nebenprodukte der Kategorie 2 nach Artikel 6 VTNP[^282-4] entsorgt werden;
-- d. die Teiche sowie die Geräte gereinigt und desinfiziert werden.
+- a. alle Fische des Betriebs unverzüglich getötet oder geschlachtet werden;
+- b. sofern eine Gefahr für die Weiterverbreitung der Seuche in öffentlichen Gewässern besteht, der Wasserzulauf und der Wasserablauf des Betriebs gesperrt werden, soweit die Verhältnisse dies erlauben, und das Wasser der Haltungseinrichtungen in die Kanalisation abgeleitet wird;
+- c. tote und getötete Fische sowie die Abfälle der geschlachteten Fische als tierische Nebenprodukte der Kategorie 2 nach Artikel 6 VTNP[^282-2] entsorgt werden;
+- d. die Haltungseinrichtungen geleert, gereinigt und desinfiziert sowie Gerätschaften, verwendete Schutzkleidung und Transportmittel des Betriebs gereinigt und desinfiziert werden;
+- e. Fischereierzeugnisse, Futtermittel und Gerätschaften den Betrieb nicht verlassen dürfen.
 
-<sup>2</sup> Er veranlasst die Untersuchung der benachbarten Aquakulturbetriebe desselben Wassereinzugsgebietes auf Anzeichen von IHN, VHS oder ISA.[^282-5]
+<sup>2</sup>
 
-<sup>3</sup> Er hebt die Sperre auf, nachdem alle Fische ausgemerzt sind und die Reinigung und die Desinfektion erfolgt sind.
+Besteht keine Gefahr für die Weiterverbreitung der festgestellten Seuche, so kann der Kantonstierarzt anordnen, dass abweichend von Absatz 1 auf folgende Massnahmen verzichtet wird:
 
-<sup>4</sup> Wird IHN, VHS oder ISA bei freilebenden Fischen festgestellt, so ordnet der Kantonstierarzt nach Rücksprache mit der kantonalen Fischereibehörde diejenigen Massnahmen an, die geeignet sind, eine Weiterverbreitung der Seuche zu verhindern.[^282-6]
+- a. die Tötung oder Schlachtung von Fischen, die in einer Haltungseinrichtung untergebracht sind, die nicht verseucht ist;
+- b. die Sperrung des Wasserzulaufs und des Wasserablaufs des Betriebs;
+- c.
 
-[^282-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^282-2]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^282-3]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^282-4]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^282-5]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^282-6]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+  die Leerung, Reinigung und Desinfektion von Haltungseinrichtungen, die:
+
+  - 1\. nicht verseucht sind,
+  - 2\. über eine separate Wasserversorgung verfügen, und
+  - 3\. ausreichend von den verseuchten Haltungseinrichtungen getrennt sind, um eine Einschleppung der Seuche zu verhindern;
+
+- d. das Verbringungsverbot für Fischereierzeugnisse, Futtermittel und Gerätschaften.
+
+<sup>3</sup> Der Kantonstierarzt ordnet eine Schutz- und eine Überwachungszone an. Er legt deren Umfang nach dem Risiko für die Verbreitung der festgestellten Seuche fest. Die Schutzzone umfasst mindestens die Fläche des Aquakulturbetriebs.
+
+[^282-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^282-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+
+#### Art. 282a
+
+**Massnahmen in der Schutz- und der Überwachungszone**[^282a-1]
+
+<sup>1</sup>
+
+Der Kantonstierarzt ordnet für die Schutzzone Folgendes an:
+
+- a.
+
+  die Untersuchung aller:
+
+  - 1\. Betriebe, in denen Fische gehalten werden, die für IHN, VHS oder ISA empfänglich sind,
+  - 2\. Gewässer, in denen Fische leben, die für IHN, VHS oder ISA empfänglich sind;
+
+- b. die monatliche Überprüfung aller Betriebe, bei denen die Untersuchung nach Buchstabe a einen negativen Befund ergeben hat.
+
+<sup>2</sup> In der Überwachungszone ordnet er die stichprobenartige Untersuchung von Gewässern und Betrieben nach Absatz 1 Buchstabe a an.
+
+<sup>3</sup> Fische, die für IHN, VHS oder ISA empfänglich sind, dürfen nicht aus der Schutz- und der Überwachungszone verbracht werden. Der Kantonstierarzt kann Ausnahmen gestatten für Tiere, die klinisch gesund sind und aus einem nicht verseuchten Betrieb oder aus einer nicht verseuchten Haltungseinrichtung eines verseuchten Betriebs stammen, die von den verseuchten Haltungseinrichtungen ausreichend getrennt ist, um eine Einschleppung der Seuche zu verhindern.
+
+[^282a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 282b
+
+**Ablauf und Durchführung der Massnahmen**[^282b-1]
+
+Das BLV erlässt Vorschriften technischer Art über den Ablauf und die Durchführung der Massnahmen im Seuchenfall.
+
+[^282b-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 282c
+
+**Wiederbesetzung und Aufhebung der Sperrmassnahmen**[^282c-1]
+
+<sup>1</sup>
+
+Nach Abschluss der Sanierungsmassnahmen darf während folgender Zeitspanne im verseuchten Betrieb oder in den verseuchten Haltungseinrichtungen eines Betriebs keine Wiederbesetzung erfolgen:
+
+- a. bei einem Ausbruch von IHN oder VHS: sechs Wochen;
+- b. bei einem Ausbruch von ISA: drei Monate.
+
+<sup>2</sup> Der Kantonstierarzt kann abweichend von Absatz 1 die Wiederbesetzung des Betriebs vor Ablauf der jeweiligen Zeitspanne gestatten, wenn aufgrund der Beschaffenheit der Haltungseinrichtungen für die sichere Abtötung der Viren eine kürzere Zeitspanne genügt.
+
+<sup>3</sup> Vier Wochen nach der Wiederbesetzung sind der betreffende Betrieb oder die betreffende Haltungseinrichtung erneut zu untersuchen.
+
+<sup>4</sup> Der Kantonstierarzt wandelt nach Abschluss der Sanierungsarbeiten die Schutz- in eine Überwachungszone um.
+
+<sup>5</sup> Er hebt die Sperre und die Überwachungszone auf, wenn die Untersuchung des sanierten Betriebs nach Absatz 3 und die Untersuchungen nach Artikel 282*a* Absätze 1 und 2 einen negativen Befund ergeben haben.
+
+[^282c-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 282d
+
+**Seuchenfall bei freilebenden Fischen**[^282d-1]
+
+Wird IHN, VHS oder ISA bei freilebenden Fischen festgestellt, so ordnet der Kan-tonstierarzt nach Rücksprache mit der kantonalen Fischereibehörde die Massnahmen an, die erforderlich sind, um eine Weiterverbreitung der Seuche zu verhindern.
+
+[^282d-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 283
 
@@ -5761,37 +5911,13 @@ Impfungen gegen IHN, VHS und ISA sind verboten.
 
 Tierverluste nach Artikel 32 Absatz 1 Buchstaben a und b TSG werden nur entschädigt, wenn die Fische nicht als Lebensmittel verwertet werden können.
 
-### 3. Abschnitt: Infektiöse Pankreasnekrose
+### 3. Abschnitt: ...
 
-#### Art. 285
+#### Art. 285–287
 
-**Geltungsbereich und Diagnose**
+[^285287-1]
 
-<sup>1</sup> Die Vorschriften dieses Abschnitts gelten für die Bekämpfung der Infektiösen Pankreasnekrose (IPN) der Forellen, Saiblinge und Lachse.
-
-<sup>2</sup> IPN liegt vor, wenn der Erreger im Untersuchungsmaterial nachgewiesen wurde.
-
-#### Art. 286
-
-**Bekämpfung**
-
-<sup>1</sup> Der Kantonstierarzt verhängt bei Feststellung von IPN die Sperre 1. Grades über die Anlagen mit Fischen der empfänglichen Arten.
-
-<sup>2</sup> Er ordnet im Einvernehmen mit der Fischuntersuchungsstelle und mit der kantonalen Fischereibehörde die Massnahmen an, die erforderlich sind, um eine Weiterverbreitung der Seuche zu verhindern.[^286-1]
-
-<sup>2</sup> <sup>bis</sup> Das BLV kann nach Rücksprache mit dem BAFU und der Fischuntersuchungsstelle Vorschriften technischer Art zur Bekämpfung der IPN erlassen.[^286-2]
-
-<sup>3</sup> Der Kantonstierarzt hebt die Sperre auf, nachdem alle Fische ausgemerzt worden und die Reinigung und die Desinfektion erfolgt sind oder nachdem der Nachweis erbracht worden ist, dass der Fischbestand virusfrei ist.[^286-3]
-
-[^286-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^286-2]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^286-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-
-#### Art. 287
-
-**Entschädigung**
-
-Verluste von Fischen wegen IPN werden nicht entschädigt.
+[^285287-1]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 4. Abschnitt: Krebspest
 
@@ -5985,13 +6111,35 @@ Das BLV erstellt und veröffentlicht in Zusammenarbeit mit dem BAG und dem BLW s
 
 **Mitwirkung von Behörden und Organisationen**
 
-<sup>1</sup> Die kantonalen Polizeibehörden, die Organe der milchwirtschaftlichen Inspektions- und Beratungsdienste, der Tiergesundheitsdienste nach Artikel 11*a* TSG und der Lebensmittelkontrolle sowie die für die Jagd und Fischerei zuständigen kantonalen Stellen haben die seuchenpolizeilichen Organe in ihrer amtlichen Tätigkeit zu unterstützen.
+<sup>1</sup> Die kantonalen Polizeibehörden, die Organe der milchwirtschaftlichen Beratungsdienste, der Tiergesundheitsdienste nach Artikel 11*a* TSG und der Lebensmittelkontrolle sowie die für die Jagd, die Fischerei und den Wald zuständigen kantonalen Stellen haben die seuchenpolizeilichen Organe in ihrer amtlichen Tätigkeit zu unterstützen.[^295-1]
 
 <sup>2</sup> Die Kantone regeln die Mitwirkung der Organe der Lebensmittelkontrolle bei der Kontrolle tierseuchenpolizeilicher Einschränkungen im Verkehr mit Lebensmitteln.
 
 <sup>3</sup> Die amtlichen Tierärzte sind verpflichtet, bei der Entnahme der Proben in den Schlachtbetrieben mitzuhelfen.
 
 <sup>4</sup> Das zuständige Gemeinwesen hat die angeordneten Massnahmen zu überwachen und im Rahmen seiner Möglichkeiten dafür zu sorgen, dass das für deren Durchführung erforderliche Personal und Material zur Verfügung steht.
+
+[^295-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+
+#### Art. 295a
+
+**Mitwirkung von Personenbeförderungsunternehmen, Betreibern von Bahnhöfen, Flughäfen, Häfen und Rastplätzen sowie Reiseveranstaltern**[^295a-1]
+
+<sup>1</sup>
+
+Beim Ausbruch einer hochansteckenden Seuche in der Schweiz oder im Ausland kann das BLV folgende Unternehmen verpflichten, ihre Kundschaft über die mit dem Seuchenausbruch zusammenhängenden Einschränkungen und Verbote zu informieren:
+
+- a. Unternehmen mit einer Personenbeförderungskonzession nach Artikel 6 oder einer Bewilligung nach Artikel 8 Absatz 1 des Personenbeförderungsgesetzes vom 20. März 2009[^295a-2];
+- b. Betreiber von Bahnhöfen, Flughäfen, Häfen und Rastplätzen;
+- c. Reiseveranstalter, die Reisen in die betroffenen Seuchengebiete anbieten.
+
+<sup>2</sup> Die Unternehmen informieren die Reisenden mit Plakaten oder Informationsblättern.
+
+<sup>3</sup> Das BLV bestimmt die betroffenen Unternehmen, den Inhalt und die Dauer der Information. Es harmonisiert die Massnahmen mit den Pflichten aus Anhang 11 des Abkommens vom 21. Juni 1999[^295a-3] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen. Es stellt das Informationsmaterial zur Verfügung.
+
+[^295a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^295a-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^295a-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 
 #### Art. 296
 
@@ -6028,7 +6176,7 @@ Das BLV hat zudem die folgenden Befugnisse:
 - d. Es kann prophylaktische oder therapeutische Massnahmen für bestimmte Seuchen und Tiergattungen gebietsweise oder für einzelne Bestände vorschreiben.
 - e.[^297-6] Es kann festlegen, welche Untersuchungsverfahren zur Überwachung und Bekämpfung der einzelnen Tierseuchen anzuwenden sind.
 - f.[^297-7] Es kann Fachleute und Institute ausserhalb der Bundesverwaltung mit Forschungsaufgaben im Tierseuchenbereich betrauen.
-- g.[^297-8] Es kann anordnen, dass die Behörden der Grenzkantone auf Kosten des Bundes Desinfektions- und Wachtposten einrichten, Schutzimpfungen vornehmen und weitere Massnahmen treffen, wenn die Gefahr besteht, dass Tierseuchen aus benachbarten Grenzgebieten auf die Schweiz übergreifen.
+- g.[^297-8] Es kann anordnen, dass die zuständigen Behörden auf Kosten des Bundes Desinfektions- und Wachtposten einrichten, Schutzimpfungen vornehmen und weitere nach dem jeweiligen Stand der Wissenschaft angezeigte Massnahmen treffen, wenn die Gefahr besteht, dass eine Tierseuche aus dem Ausland in die Schweiz eingeschleppt wird.
 
 [^297-1]: Aufgehoben durch Ziff. I der V vom 12. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4659](https://fedlex.data.admin.ch/eli/oc/2007/657)).
 [^297-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
@@ -6037,7 +6185,7 @@ Das BLV hat zudem die folgenden Befugnisse:
 [^297-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^297-6]: Eingefügt durch Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^297-7]: Eingefügt durch Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
-[^297-8]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^297-8]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 298
 
@@ -6130,7 +6278,7 @@ Die Kantone können dem amtlichen Tierarzt weitere Aufgaben übertragen und sorg
 <sup>4</sup> ...[^302-5]
 
 [^302-1]: Eingefügt durch Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^302-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^302-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), **20****11** 5227 Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^302-3]: Aufgehoben durch Anhang 3 Ziff. 3 der Tierarzneimittelverordnung vom 18. Aug. 2004, mit Wirkung seit 1. Sept. 2004 ([AS 2004 4057](https://fedlex.data.admin.ch/eli/oc/2004/592)).
 [^302-4]: Fassung gemäss Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 [^302-5]: Aufgehoben durch Anhang 2 Ziff. 4 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst, mit Wirkung seit 1. April 2007 ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
@@ -6214,7 +6362,7 @@ Ein Labor wird anerkannt, wenn es:
 - b.[^312-4] im Rahmen seiner Kernaufgaben ein Untersuchungsspektrum von mindestens 15 Tierseuchen nach den Artikeln 3–5 anbietet und über die für die Untersuchungen erforderlichen Methoden verfügt;
 - c. seinen Sitz in der Schweiz hat und die Untersuchungen in der Schweiz durchführt;
 - d. die personellen Anforderungen nach den Absätzen 3 und 4 erfüllt;
-- e. an das Laborinformationssystem (ALIS) nach der ISVet-V[^312-5] angeschlossen ist.
+- e.[^312-5] an ALIS angeschlossen ist.
 
 <sup>3</sup> Das Labor muss unter der Leitung eines auf dem Gebiete der veterinärmedizinischen Infektionsdiagnostik ausgewiesenen Tierarztes und einer fachlich vergleichbaren Stellvertretung stehen. Leitung und Stellvertretung müssen eine Weiterbildung auf dem Gebiet der Tierseuchenbekämpfung absolviert haben und je zu mindestens 60 Prozent im gleichen Labor arbeiten.
 
@@ -6226,7 +6374,7 @@ Ein Labor wird anerkannt, wenn es:
 [^312-2]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^312-3]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^312-4]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^312-5]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^312-5]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 312a
 
@@ -6234,7 +6382,7 @@ Ein Labor wird anerkannt, wenn es:
 
 Für nationale Referenzlaboratorien gelten die Voraussetzungen nach Artikel 312 Absätze 2–4 sinngemäss. Von den Anforderungen nach Artikel 312 Absatz 2 Buchstaben b und d können in begründeten Fällen Ausnahmen gewährt werden.
 
-[^312a-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 (AS **2****015** 4255).
+[^312a-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 #### Art. 312b
 
@@ -6379,7 +6527,7 @@ Die im Zeitpunkt des Inkrafttretens der Änderung vom 28. Oktober 2015 anerkannt
 
 <sup>2</sup> Für Equiden, die vor dem 1. Januar 2011 geboren wurden und die noch keinen Equidenpass haben, muss der Eigentümer bis zum 31. Dezember 2012 einen Equidenpass ausstellen lassen.
 
-[^315g-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
+[^315g-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Jan. 2011 (AS **201****0** 2525).
 
 #### Art. 316
 
