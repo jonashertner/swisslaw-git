@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.53"
 title: Ordonnance pour le soutien à la relance du commerce local
 language: fr
-version: 2020-11-24
-valid_until: 2021-04-30
-version_adopted: 2020-11-16
+version: 2021-05-01
+valid_until: 2021-12-31
+version_adopted: 2021-04-20
 adopted: 2020-11-16
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.53"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6647/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6826/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6647/pdf_file"
 
 COVID-19, soutien à la relance du commerce local – O
 
-du 16.11.2020 (version entrée en vigueur le 24.11.2020)
+du 16.11.2020 (version entrée en vigueur le 01.05.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -88,14 +88,14 @@ Arrête:
 
 **Bons d'achat – Durée et limitation**
 
-<sup>1</sup> Les bons d'achat sont valables jusqu'au 30 juin 2021.
+<sup>1</sup> Les bons d'achat sont valables jusqu'au 31 décembre 2021.
 
 <sup>2</sup> Ils ne sont pas valables:
 
 - a) pour les achats effectués en ligne;
 - b) pour les prestations prescrites sur ordonnance médicale et remboursées par l'assurance-maladie.
 
-<sup>3</sup> Le Conseil d'Etat peut décider de prolonger la durée de validité des bons d'achat, au maximum jusqu'au 31 décembre 2021.
+<sup>3</sup> …
 
 #### Art. 6
 
@@ -115,7 +115,7 @@ Arrête:
 
 **Dispositions transitoires**
 
-<sup>1</sup> Les bons d'achat acquis sur la plate-forme en ligne avant le 30 septembre 2020 et avec 20 % de rabais demeurent valables jusqu'au 30 juin 2021.
+<sup>1</sup> Les bons d'achat acquis sur la plate-forme en ligne avant le 30 septembre 2020 et avec 20 % de rabais demeurent valables jusqu'au 31 décembre 2021.
 
 #### Art. 9
 

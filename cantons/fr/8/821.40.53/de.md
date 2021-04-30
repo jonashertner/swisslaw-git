@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.53"
 title: Verordnung zur Unterstützung der Wiederankurbelung des lokalen Handels
 language: de
-version: 2020-11-24
-valid_until: 2021-04-30
-version_adopted: 2020-11-16
+version: 2021-05-01
+valid_until: 2021-12-31
+version_adopted: 2021-04-20
 adopted: 2020-11-16
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.53"
-pdf: "https://bdlf.fr.ch/api/de/versions/6647/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6826/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6647/pdf_file"
 
 COVID-19, Unterstützung der Wiederankurbelung des lokalen Handels – V
 
-vom 16.11.2020 (Fassung in Kraft getreten am 24.11.2020)
+vom 16.11.2020 (Fassung in Kraft getreten am 01.05.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -88,14 +88,14 @@ beschliesst:
 
 **Gutscheine – Dauer und Beschränkungen**
 
-<sup>1</sup> Die Gutscheine sind gültig bis am 30. Juni 2021.
+<sup>1</sup> Die Gutscheine sind gültig bis am 31. Dezember 2021.
 
 <sup>2</sup> Sie gelten nicht für:
 
 - a) Online-Einkäufe;
 - b) Leistungen auf ärztliche Verordnung, die von der Krankenversicherung rückerstattet werden.
 
-<sup>3</sup> Der Staatsrat kann beschliessen, die Gültigkeitsdauer der Gutscheine bis längstens am 31. Dezember 2021 zu verlängern.
+<sup>3</sup> …
 
 #### Art. 6
 
@@ -115,7 +115,7 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Die Gutscheine, die auf der Online-Plattform vor dem 30. September 2020 mit einem Rabatt von 20 % erworben wurden, bleiben bis 30. Juni 2021 gültig.
+<sup>1</sup> Die Gutscheine, die auf der Online-Plattform vor dem 30. September 2020 mit einem Rabatt von 20 % erworben wurden, bleiben bis 31. Dezember 2021 gültig.
 
 #### Art. 9
 
