@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives �
 short: OEEE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: fr
-version: 2021-03-01
+version: 2021-05-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210301/fr"
 
 (Ordonnance sur les exigences relatives à l’efficacité énergétique, OEEE)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> mars 2021)
+du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -227,11 +227,12 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 #### Art. 13
 
-**Mise en circulation et fourniture de pneumatiques**
+**Mise en circulation et fourniture de pneumatiques**[^13-1]
 
-Quiconque met en circulation ou fournit des pneumatiques des classes C1, C2 ou C3 selon le règlement (CE) n<sup>o</sup> 1222/2009[^13-1] doit satisfaire aux exigences visées à l’annexe 4.2.
+Quiconque importe, met en circulation ou fournit en Suisse des pneumatiques des classes C1, C2 ou C3 selon le règlement (UE) 2020/740[^13-2] doit satisfaire aux exigences visées à l’annexe 4.2.
 
-[^13-1]: Règlement (CE) n<sup>o</sup> 1222/2009 du Parlement européen et du Conseil du 25 novembre 2009 sur l’étiquetage des pneumatiques en relation avec l’efficacité en carburant et d’autres paramètres essentiels, JO L 342 du 22.12.2009, p. 46; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 1235/2011, JO L 317 du 30.11.2011, p. 17.
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^13-2]: Règlement (UE) 2020/740 du Parlement européen et du Conseil du 25 mai 2020 sur l’étiquetage des pneumatiques en relation avec l’efficacité en carburant et d’autres paramètres, modifiant le règlement (UE) 2017/1369 et abrogeant le règlement (CE) n<sup>o</sup> 1222/2009, version du JO L 177 du 5.6.2020, p. 1.
 
 ## Chapitre 3 Exécution
 
@@ -1695,7 +1696,7 @@ Annexe 3.2*[^t-26]*
 
 - 3\.1 L’étiquette-énergie doit avoir au minimum 60 mm de largeur et 120 mm de hauteur. Si elle est imprimée dans un format plus grand, les proportions doivent être conservées. L’étiquette-énergie a un fond blanc.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/fr/xml/image/image1.png)
 
 - A) Trait de l’encadré: 3 pt – angles arrondis 2 mm – X-00-00-00
 - B) Logo de la Suisse: 8 mm de large, 8 mm de haut – coins arrondis 2 mm – 00-X-X-00
@@ -1830,44 +1831,43 @@ On entend par types de véhicules actuels au sens du ch. 3.3 pour 2020 les voitu
 
 ### 10 Exemple de présentation d’une étiquette-énergie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/fr/xml/image/image2.png)
 
 ### 11 Exemple de présentation de l’échelle des catégories d’efficacité énergétique
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/fr/xml/image/image3.png)
 
-Annexe 4.2
+Annexe 4.2*[^t-28]*
 
 (art. 13)
 
 ## Indication de la classe d’efficacité en carburant et d’autres caractéristiques des pneumatiques
 
+[^t-28]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+
 ### 1 Champ d’application
 
-- 1\.1 La présente annexe s’applique, conformément à l’art. 2, al. 1, du règlement (CE) n<sup>o</sup> 1222/2009[^annex42-lvlu1-lvl1-1], aux pneumatiques des classes C1, C2 et C3.
-- 1\.2 Elle ne s’applique pas aux pneumatiques visés à l’art. 2, al. 2, du règlement (CE) n<sup>o</sup> 1222/2009.
-- 1\.3 Les définitions figurant à l’art. 3, ch. 2, du règlement (CE) n<sup>o</sup> 1222/2009 et à l’art. 8 du règlement (CE) n<sup>o</sup> 661/2009[^annex42-lvlu1-lvl1-2] sont applicables.
+- 1\.1 La présente annexe s’applique, conformément à l’art. 2, al. 1, du règlement (UE) 2020/740[^annex42-lvlu1-lvl1-1], aux pneumatiques des classes C1, C2 et C3.
+- 1\.2 Elle ne s’applique pas aux pneumatiques visés à l’art. 2, al. 2, du règlement (UE) 2020/740.
+- 1\.3 Les définitions figurant à l’art. 3, ch. 1, du règlement (UE) 2020/740 et à l’art. 8 du règlement (CE) n<sup>o</sup> 661/2009[^annex42-lvlu1-lvl1-2] sont applicables.
 
-[^annex42-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 1222/2009 du Parlement européen et du Conseil du 25 novembre 2009 sur l’étiquetage des pneumatiques en relation avec l’efficacité en carburant et d’autres paramètres essentiels, JO L 342 du 22.12.2009, p. 46; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 1235/2011, JO L 317 du 30.11.2011, p. 17.
-[^annex42-lvlu1-lvl1-2]: Règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés, JO L 200 du 31.7.2009, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 523/2012 de la Commission du 20 juin 2012, JO L 160 du 21.6.2012, p. 8.
+[^annex42-lvlu1-lvl1-1]: Cf. note de bas de page relative à l’art. 13.
+[^annex42-lvlu1-lvl1-2]: Règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés, JO L 200 du 31.7.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2019/543 de la Commission du 3 avril 2019, JO L 95 du 4.4.2019, p. 1.
 
 ### 2 Indications et marquage
 
-- 2\.1 Quiconque met en circulation ou fournit des pneumatiques des classes C1 ou C2 doit veiller à ce que ceux-ci soient pourvus d’une étiquette-énergie indiquant la classe d’efficacité en carburant, la classe du bruit de roulement externe et la valeur de mesure correspondante ainsi que la classe d’adhérence sur sol mouillé, selon l’annexe I du règlement (CE) n<sup>o</sup> 1222/2009[^annex42-lvlu1-lvl2-1].
-- 2\.2 L’étiquette-énergie doit être placée de manière clairement visible et lisible sur la surface de roulement du pneumatique ou à proximité immédiate de celui-ci.
-- 2\.3 Quiconque met en circulation ou fournit les pneumatiques visés au ch. 1 sans qu’ils puissent être vus par l’acquéreur au moment de l’acquisition doit indiquer à celui-ci la classe d’efficacité en carburant ainsi que les autres caractéristiques des pneumatiques visées à l’annexe I du règlement (CE) n<sup>o</sup> 1222/ 2009.
-- 2\.4 Quiconque propose, pour une nouvelle voiture de tourisme, le choix entre les divers pneumatiques visés au ch. 1.1, doit indiquer à l’acquéreur la classe d’efficacité en carburant ainsi que les autres caractéristiques des pneumatiques selon l’annexe I du règlement (CE) n<sup>o</sup> 1222/2009 pour les différents pneumatiques. Ces indications doivent figurer au moins dans la documentation technique promotionnelle.
-- 2\.5 L’indication de la classe d’efficacité en carburant et des autres caractéristiques des pneumatiques selon l’annexe I du règlement (CE) n<sup>o</sup> 1222/2009 et le marquage doivent, à l’exception des emblèmes de l’UE, être conformes à l’annexe II du règlement (CE) n<sup>o</sup> 1222/2009. Si des emblèmes de l’UE ont été apposés, ils peuvent être conservés pour autant qu’ils soient conformes aux prescriptions de l’UE.
-- 2\.6 La classe d’efficacité en carburant et les autres caractéristiques des pneumatiques visés à l’annexe I du règlement (CE) n<sup>o</sup> 1222/2009 doivent être indiquées dans la documentation technique promotionnelle (manuels techniques, brochures, prospectus et catalogues sous forme imprimée ou électronique, sites Internet, etc.) servant à la commercialisation des pneumatiques visés au ch. 1.1. L’indication doit être conforme à l’annexe III du règlement (CE) n<sup>o</sup> 1222/2009.
+- 2\.1 Quiconque importe en Suisse les pneumatiques visés au ch. 1 doit remplir les obligations figurant à l’art. 4, al. 1 à 4, 6, 9 et 10, du règlement (UE) 2020/740[^annex42-lvlu1-lvl2-1].
+- 2\.2 Quiconque met en circulation ou fournit en Suisse les pneumatiques visés au ch. 1 doit remplir les obligations figurant à l’art. 6 du règlement (UE) 2020/740.
+- 2\.3 Quiconque propose, pour une voiture de tourisme neuve, le choix entre les divers pneumatiques visés au ch. 1 doit remplir les obligations figurant à l’art. 7 du règlement (UE) 2020/740.
+- 2\.4 L’indication des paramètres des pneumatiques énoncés à l’annexe I du règlement (UE) 2020/740 et le marquage doivent, à l’exception des emblèmes de l’UE, être conformes à l’annexe II du règlement (UE) 2020/740. Si des emblèmes de l’UE ont été apposés conformément aux prescriptions de l’UE, ils peuvent être conservés.
 
-[^annex42-lvlu1-lvl2-1]: Voir note de bas de page ad ch. 1.1.
+[^annex42-lvlu1-lvl2-1]: Cf. note de bas de page relative à l’art. 13.
 
 ### 3 Procédure d’évaluation de la conformité
 
-- La classe d’efficacité en carburant et les autres caractéristiques des pneumatiques visés au ch. 1.1 sont soumis à la procédure d’évaluation selon l’annexe I du règlement (CE) n<sup>o</sup> 1222/2009[^annex42-lvlu1-lvl3-1] et du règlement CEE-ONU n<sup>o</sup> 117[^annex42-lvlu1-lvl3-2].
+- Les informations à fournir sur les paramètres du marquage des pneumatiques visés au ch. 1 sont déterminées selon les méthodes d’essai et de mesure visées à l’art. 9 du règlement (UE) 2020/740[^annex42-lvlu1-lvl3-1].
 
-[^annex42-lvlu1-lvl3-1]: Voir note de bas de page ad ch. 1.1.
-[^annex42-lvlu1-lvl3-2]: Règlement CEE-ONU n<sup>o</sup> 117 du 6 avril 2005 sur les prescriptions uniformes relatives à l’homologation des pneumatiques en ce qui concerne les émissions de bruit de roulement et/ou l’adhérence sur sol mouillé et/ou la résistance au roulement; modifié en dernier lieu par le complément 4 à la série d’amendements 2, en vigueur depuis le 13.2.2014 (add.116, rev.3).
+[^annex42-lvlu1-lvl3-1]: Cf. note de bas de page relative à l’art. 13.
 
 Annexe 5
 

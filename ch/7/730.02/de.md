@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Anforderungen an die Energieef
 short: EnEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: de
-version: 2021-03-01
+version: 2021-05-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210301/de"
 
 (Energieeffizienzverordnung, EnEV)
 
-vom 1. November 2017 (Stand am 1. März 2021)
+vom 1. November 2017 (Stand am 1. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -227,11 +227,12 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 #### Art. 13
 
-**Inverkehrbringen und Abgeben von Reifen**
+**Inverkehrbringen und Abgeben von Reifen**[^13-1]
 
-Wer Reifen der Klassen C1, C2 oder C3 gemäss der Verordnung (EG) Nr. 1222/2009[^13-1] in Verkehr bringt oder abgibt, muss die Anforderungen nach Anhang 4.2 erfüllen.
+Wer Reifen der Klassen C1, C2 oder C3 gemäss der Verordnung (EU) 2020/740[^13-2] in die Schweiz importiert oder in der Schweiz in Verkehr bringt oder abgibt, muss die Anforderungen nach Anhang 4.2 erfüllen.
 
-[^13-1]: Verordnung (EG) Nr. 1222/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere wesentliche Parameter, ABl. L 342 vom 22.12.2009, S. 46; zuletzt geändert durch Verordnung (EU) Nr. 1235/2011, ABl. L 317 vom 30.11.2011, S. 17.
+[^13-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Mai 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^13-2]: Verordnung (EU) 2020/740 des Europäischen Parlaments und des Rates vom 25. Mai 2020 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter, zur Änderung der Verordnung (EU) 2017/1369 und zur Aufhebung der Verordnung (EG) Nr. 1222/2009, Fassung gemäss ABl. L 177 vom 5.6.2020, S. 1.
 
 ## 3. Kapitel: Vollzug
 
@@ -1692,7 +1693,7 @@ Anhang 3.2*[^t-26]*
 
 - 3\.1 Die Energieetikette muss mindestens 60 mm breit und 120 mm hoch sein. Wird die Energieetikette in einem grösseren Format gedruckt, so müssen die Proportionen der Spezifikationen gewahrt bleiben. Die grafischen Elemente werden proportional skaliert. Der Hintergrund ist weiss.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/de/xml/image/image1.png)
 
 - A) Begrenzungslinie: 3 pt – abgerundete Ecken 2 mm – X-00-00-00
 - B) CH-Logo:Breite 8 mm, Höhe 8 mm – abgerundete Ecken 2 mm – 00‑X-X-00
@@ -1827,44 +1828,43 @@ Für das Jahr 2020 gelten als aktuelle Fahrzeugtypen im Sinne von Ziffer 3.3 typ
 
 ### 10 Beispiel der Darstellung der Energieetikette
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/de/xml/image/image2.png)
 
 ### 11 Beispiel der Darstellung der Skala der Energieeffizienz-Kategorien
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/de/xml/image/image3.png)
 
-Anhang 4.2
+Anhang 4.2*[^t-28]*
 
 (Art. 13)
 
 ## Angabe der Treibstoffeffizienzklasse und weiterer Eigenschaften von Reifen
 
+[^t-28]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Mai 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+
 ### 1 Geltungsbereich
 
-- 1\.1 Dieser Anhang gilt in Übereinstimmung mit Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1222/2009[^annex42-lvlu1-lvl1-1] für Reifen der Klassen C1, C2 und C3.
-- 1\.2 Er gilt nicht für Reifen nach Artikel 2 Absatz 2 der Verordnung (EG) Nr. 1222/2009.
-- 1\.3 Es gelten die Begriffsbestimmungen gemäss Artikel 3 Ziffer 2 der Verordnung (EG) Nr. 1222/2009 und Artikel 8 der Verordnung (EG) Nr. 661/2009[^annex42-lvlu1-lvl1-2].
+- 1\.1 Dieser Anhang gilt in Übereinstimmung mit Artikel 2 Absatz 1 der Verordnung (EU) 2020/740[^annex42-lvlu1-lvl1-1] für Reifen der Klassen C1, C2 und C3.
+- 1\.2 Er gilt nicht für Reifen nach Artikel 2 Absatz 2 der Verordnung (EU) 2020/740.
+- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 3 Ziffer 1 der Verordnung (EU) 2020/740 und Artikel 8 der Verordnung (EG) Nr. 661/2009[^annex42-lvlu1-lvl1-2].
 
-[^annex42-lvlu1-lvl1-1]: Verordnung (EG) Nr. 1222/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere wesentliche Parameter, ABl. L 342 vom 22.12.2009, S. 46; zuletzt geändert durch Verordnung (EU) Nr. 1235/2011, ABl. L 317 vom 30.11.2011, S. 17.
-[^annex42-lvlu1-lvl1-2]: Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Typengenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, ABl. L 200 vom 31.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 523/2012 der Kommission vom 20. Juni 2012, ABl. L 160 vom 21.6.2012, S. 8.
+[^annex42-lvlu1-lvl1-1]: Siehe Fussnote zu Artikel 13.
+[^annex42-lvlu1-lvl1-2]: Verordnung (EG) Nr. 661/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Typengenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, ABl. L 200 vom 31.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/543 der Kommission vom 3. April 2019, ABl. L 95 vom 4.4.2019, S. 1.
 
 ### 2 Angaben und Kennzeichnung
 
-- 2\.1 Wer Reifen der Klassen C1 oder C2 in Verkehr bringt oder abgibt, muss dafür sorgen, dass diese mit einer Reifenetikette mit Angabe der Treibstoffeffizienzklasse, der Klasse des externen Rollgeräuschs und des entsprechenden Messwerts sowie der Nasshaftungsklasse gemäss Anhang I der Verordnung (EG) Nr. 1222/2009[^annex42-lvlu1-lvl2-1] gekennzeichnet sind.
-- 2\.2 Die Reifenetikette muss gut sichtbar und lesbar auf der Lauffläche des Reifens oder in dessen unmittelbarer Nähe angebracht sein.
-- 2\.3 Wer Reifen gemäss Ziffer 1 in Verkehr bringt oder abgibt, die für die Abnehmer zum Zeitpunkt des Erwerbs nicht sichtbar sind, hat den Abnehmern die Treibstoffeffizienzklasse und die weiteren Reifeneigenschaften gemäss Anhang I der Verordnung (EG) Nr. 1222/2009 anzugeben.
-- 2\.4 Wer für die Bereifung eines neuen Personenwagens die Wahl zwischen verschiedenen Reifen gemäss Ziffer 1.1 anbietet, hat dem Abnehmer die Treibstoffeffizienzklasse und die weiteren Reifeneigenschaften gemäss Anhang I der Verordnung (EG) Nr. 1222/2009 der verschiedenen Reifen anzugeben. Diese Angaben müssen mindestens im technischen Werbematerial enthalten sein.
-- 2\.5 Die Angabe der Treibstoffeffizienzklasse und der weiteren Reifeneigenschaften gemäss Anhang I der Verordnung (EG) Nr. 1222/2009 und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen gemäss Anhang II der Verordnung (EG) Nr. 1222/2009 vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
-- 2\.6 In technischem Werbematerial (technische Handbücher, Broschüren, Faltblätter und Kataloge in gedruckter oder elektronischer Form, Websites usw.), das der Vermarktung von Reifen gemäss Ziffer 1.1 dient, sind die Treibstoffeffizienzklasse und die weiteren Reifeneigenschaften gemäss Anhang I der Verordnung (EG) Nr. 1222/2009 anzugeben. Die Angabe ist gemäss Anhang III der Verordnung (EG) Nr. 1222/2009 vorzunehmen.
+- 2\.1 Wer Reifen nach Ziffer 1 in die Schweiz importiert, muss die Pflichten nach Artikel 4 Absätze 1–4, 6, 9 und 10 der Verordnung (EU) 2020/740[^annex42-lvlu1-lvl2-1] erfüllen.
+- 2\.2 Wer Reifen nach Ziffer 1 in Verkehr bringt oder abgibt, muss die Pflichten nach Artikel 6 der Verordnung (EU) 2020/740 erfüllen.
+- 2\.3 Wer für die Bereifung eines neuen Personenwagens die Wahl zwischen verschiedenen Reifen nach Ziffer 1 anbietet, muss die Pflichten nach Artikel 7 der Verordnung (EU) 2020/740 erfüllen.
+- 2\.4 Die Angabe der Reifenparameter nach Anhang I der Verordnung (EU) 2020/740 und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen gemäss Anhang II der Verordnung (EU) 2020/740 vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
 
-[^annex42-lvlu1-lvl2-1]: Siehe Fussnote zu Ziffer 1.1.
+[^annex42-lvlu1-lvl2-1]: Siehe Fussnote zu Artikel 13.
 
 ### 3 Konformitätsbewertungsverfahren
 
-- Die Treibstoffeffizienzklasse und die weiteren Eigenschaften von Reifen gemäss Ziffer 1.1 werden nach den Prüfverfahren gemäss Anhang I der Verordnung (EG) Nr. 1222/2009[^annex42-lvlu1-lvl3-1] und dem UNECE-Reglement Nr. 117[^annex42-lvlu1-lvl3-2] ermittelt.
+- Die zur Verfügung zu stellenden Informationen zu den Parametern der Kennzeichnung von Reifen nach Ziffer 1 werden nach den Prüf- und Messmethoden nach Artikel 9 der Verordnung (EU) 2020/740[^annex42-lvlu1-lvl3-1] ermittelt.
 
-[^annex42-lvlu1-lvl3-1]: Siehe Fussnote zu Ziffer 1.1.
-[^annex42-lvlu1-lvl3-2]: UNECE-Reglement Nr. 117 vom 6. April 2005 über einheitliche Vorschriften für die Genehmigung von Reifen hinsichtlich der Rollgeräuschemissionen und/oder der Haftung auf nassen Oberflächen und/oder des Rollwiderstandes; zuletzt geändert durch Änderungsserie 02 Ergänzung 4, in Kraft seit 13.2.2014 (Add.116 Rev.3).
+[^annex42-lvlu1-lvl3-1]: Siehe Fussnote zu Artikel 13.
 
 Anhang 5
 
