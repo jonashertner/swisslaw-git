@@ -4,20 +4,20 @@ number: "740.11"
 title: Verordnung zum Energiegesetz
 short: V EnG-ZG
 language: de
-version: 2020-12-05
-valid_until: 2021-04-30
-version_adopted: 2020-12-01
+version: 2021-05-01
+valid_until: 2021-10-22
+version_adopted: 2021-04-22
 adopted: 2024-01-23
 in_force: 2024-02-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/740.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2178/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Energiegesetz
 
-Vom 12. Juli 2005 (Stand 5. Dezember 2020)
+Vom 12. Juli 2005 (Stand 1. Mai 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -58,7 +58,7 @@ beschliesst:
 
 <sup>1</sup> Die Beheizung von Anlagen im Freien ist nur dann gestattet, wenn wenigstens zwei Drittel der benötigten Energie aus erneuerbaren Quellen stammen und die Energieverwendung bedarfsabhängig gesteuert ist.
 
-<sup>1a</sup> Die Branchen Gastronomie, Hotellerie, Kultur, Detailhandel und ähnliche sind befristet bis Ende April 2021 von den Vorgaben gemäss Abs. 1 befreit.
+<sup>1a</sup> Die Branchen Gastronomie, Hotellerie, Kultur, Detailhandel und ähnliche sind befristet bis Ende Mai 2021 von den Vorgaben gemäss Abs. 1 befreit.
 
 <sup>2</sup> Vorbehalten bleiben Erleichterungen aus Sicherheitsgründen.
 
