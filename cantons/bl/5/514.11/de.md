@@ -3,24 +3,28 @@ canton: BL
 number: "514.11"
 title: Verordnung über die Investitionshilfen in der Landwirtschaft
 language: de
-version: 2014-01-01
-valid_until: 2021-04-30
-version_adopted: 2013-12-17
+version: 2021-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-16
 adopted: 1999-01-26
 in_force: 1999-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/514.11"
-pdf: "https://bl.clex.ch/api/de/versions/110/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3271/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Investitionshilfen in der Landwirtschaft
 
-Vom 26.01.1999 (Stand 01.01.2014)
+Vom 26.01.1999 (Stand 01.05.2021)
 
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 46 des Landwirtschaftsgesetzes vom 8. Januar 1998[^ingress-1], beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: GS 33.73, SGS 510
+gestützt auf § 46 des Landwirtschaftsgesetzes vom 8. Januar 1998[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: [SGS 510](https://bl.clex.ch/data/510/de/art46)
 
 ## 1 Allgemeines
 
@@ -28,23 +32,23 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 46 des Landwirt
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug des folgenden eidgenössischen und kantonalen Rechtes:
+<sup>1</sup> Diese Verordnung regelt den Vollzug des folgenden eidgenössischen und kantonalen Rechts:
 
-- a. Beiträge an landwirtschaftliche Gebäude
-- b. Investitionskredite
-- c. Betriebshilfedarlehen
-- d. Beiträge an Projekte zur Regionalentwicklung, Vermarktung und Verarbeitung
-- e. Beiträge an Bauten gewerblicher Kleinbetriebe im Berggebiet
+- a. Beiträge an landwirtschaftliche Gebäude;
+- b. Investitionskredite;
+- c. Betriebshilfedarlehen;
+- d. Beiträge an Projekte zur Regionalentwicklung, Vermarktung und Verarbeitung;
+- e. Beiträge an Bauten gewerblicher Kleinbetriebe im Berggebiet.
 
 #### § 2
 
 **Zuständigkeit und Verfahren**
 
-<sup>1</sup> Das Landwirtschaftliche Zentrum Ebenrain (kurz: LZE) ist für die Durchführung zuständig, soweit die Kompetenzen nicht bei der Kommission gemäss § 3 liegen.
+<sup>1</sup> Das Ebenrain-Zentrum für Landwirtschaft, Natur und Ernährung («Der Ebenrain») ist für die Durchführung zuständig, soweit die Kompetenzen nicht bei der Kommission gemäss § 3 liegen.
 
-<sup>2</sup> Gesuche um Unterstützung nach § 1 sind schriftlich an das LZE zu richten.
+<sup>2</sup> Gesuche um Unterstützung nach § 1 sind schriftlich an den Ebenrain zu richten.
 
-<sup>3</sup> Das LZE bereitet die Entscheide der Kommission vor.
+<sup>3</sup> Der Ebenrain bereitet die Entscheide der Kommission vor.
 
 #### § 3
 
@@ -52,13 +56,13 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 46 des Landwirt
 
 <sup>1</sup> Der Regierungsrat wählt eine Investitionshilfekommission und bestimmt die Präsidentin oder den Präsidenten.
 
-<sup>2</sup> Die Kommission besteht aus sieben Mitgliedern und setzt sich zusammen aus mindestens je
+<sup>2</sup> Die Kommission besteht aus 7 Mitgliedern und setzt sich zusammen aus mindestens je:
 
-- a. zwei Vertreterinnen oder Vertretern der Landwirtschaft,
-- b. eine Vertreterin oder einem Vertreter der Banken,
-- c. einer Vertreterin oder einem Vertreter des Kantons.
+- a. 2 Vertreterinnen oder Vertretern der Landwirtschaft,
+- b. 1 Vertreterin oder 1 Vertreter der Banken,
+- c. 1 Vertreterin oder 1 Vertreter des Kantons.
 
-<sup>3</sup> Die Kommission ist beschlussfähig, wenn mindestens vier Mitglieder anwesend sind.
+<sup>3</sup> Die Kommission ist beschlussfähig, wenn mindestens 4 Mitglieder anwesend sind.
 
 <sup>4</sup> Mitglieder treten in den Ausstand, wenn Gesuche von Personen oder Betrieben behandelt werden, mit denen sie persönlich oder wirtschaftlich direkt verbunden sind.
 
@@ -66,11 +70,11 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 46 des Landwirt
 
 **Zuständigkeit der Kommission**
 
-<sup>1</sup> Die Kommission ist zuständig für die Gewährung von Kantonsbeiträgen sowie Investitionskrediten und Betriebshilfedarlehen, die zusammen und unter Berücksichtigung bestehender Kreditsalden sowie von Bundesbeiträgen 50'000 Franken pro Fall übersteigen.
+<sup>1</sup> Die Kommission ist zuständig für die Gewährung von Kantonsbeiträgen sowie Investitionskrediten und Betriebshilfedarlehen, die zusammen und unter Berücksichtigung bestehender Kreditsalden sowie von Bundesbeiträgen CHF 50'000.– pro Fall übersteigen.
 
 <sup>2</sup> Die Kommission entscheidet über Rückerstattungen in Zusammenhang mit der Zweckentfremdung landwirtschaftlicher Gebäude.
 
-<sup>3</sup> Für die Gewährung von Kantons- und Bundesbeiträgen an Bodenverbesserungen ohne wesentlichen Eingriff ins Grundbuch gilt Absatz 1 analog.
+<sup>3</sup> Für die Gewährung von Kantons- und Bundesbeiträgen an Bodenverbesserungen ohne wesentlichen Eingriff ins Grundbuch gilt Abs. 1 analog.
 
 ## 2 Beiträge an landwirtschaftliche Gebäude
 
@@ -84,31 +88,31 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 46 des Landwirt
 
 **Kantonale Leistung**
 
-<sup>1</sup> Die Höhe der kantonalen Beiträge wird vom LZE jährlich aufgrund der Bedürfnisse und der finanziellen Möglichkeiten des Kantons festgelegt.
+<sup>1</sup> Die Höhe der kantonalen Beiträge wird vom Ebenrain jährlich aufgrund der Bedürfnisse und der finanziellen Möglichkeiten des Kantons festgelegt.
 
-<sup>2</sup> Für Remisen und Heu-/ Siloraum als Einzelelemente werden keine Beiträge
+<sup>2</sup> …
 
-gewährt.
+<sup>3</sup> Gebäude, welche die Bedingungen für besonders tierfreundliche Stallhaltungssysteme erfüllen, werden mit einem kantonalen Zusatzbeitrag in Höhe von 10 % des entsprechenden Investitionskredites gefördert.
 
-<sup>3</sup> Gebäude, welche die Bedingungen für besonders tierfreundliche Stallhaltungssysteme erfüllen, werden mit einem kantonalen Zusatzbeitrag in Höhe von 10% des entsprechenden Investitionskredites gefördert.
+<sup>4</sup> Bauliche Massnahmen und Einrichtungen zur Verwirklichung ökologischer Ziele im Bereich der Minderung von Ammoniakemissionen werden mit einem kantonalen Zusatzbeitrag in Höhe von 25 % des entsprechenden Bundesbeitrags gefördert.
 
 #### § 7
 
 **Publikation**
 
-<sup>1</sup> Auf Grundlage von Art. 97 Absatz 3 des eidgenössischen Landwirtschaftsgesetzes vom 29. April 1998[^7-1] werden Bauvorhaben für beitragsberechtigte landwirtschaftliche Gebäude im Amtsblatt veröffentlicht.
+<sup>1</sup> Auf Grundlage von Art. 97 Abs. 3 des eidgenössischen Landwirtschaftsgesetzes vom 29. April 1998[^7-1] werden Bauvorhaben für beitragsberechtigte landwirtschaftliche Gebäude im Amtsblatt veröffentlicht.
 
-<sup>2</sup> Das LZE ist zuständig für die Durchführung der Auflage und des Einspracheverfahrens.
+<sup>2</sup> Der Ebenrain ist zuständig für die Durchführung der Auflage und des Einspracheverfahrens.
 
-[^7-1]: SR 910.1
+[^7-1]: [SR 910.1](https://db.clex.ch/link/Bund/910.1/de)
 
 #### § 8
 
 **Baubeginn**
 
-<sup>1</sup> Mit den Bauarbeiten darf erst begonnen werden, wenn das LZE die schriftliche Bewilligung zum Baubeginn erteilt hat.
+<sup>1</sup> Mit den Bauarbeiten darf erst begonnen werden, wenn der Ebenrain die schriftliche Bewilligung zum Baubeginn erteilt hat.
 
-<sup>2</sup> An ausgeführte oder in Ausführung befindliche Bauten werden keine Beiträge ausgerichtet, sofern das LZE nicht eine vorgängige Bewilligung erteilt hat.
+<sup>2</sup> An ausgeführte oder in Ausführung befindliche Bauten werden keine Beiträge ausgerichtet, sofern der Ebenrain nicht eine vorgängige Bewilligung erteilt hat.
 
 ## 3 Investitionskredite und Betriebshilfedarlehen
 
@@ -134,7 +138,7 @@ gewährt.
 
 <sup>1</sup> Der Einsatz der Mittel erfolgt gemäss Verordnung vom 15. Juni 2010[^10a-1] über die Durchführung von Bodenverbesserungen.
 
-[^10a-1]: GS 37.133, SGS 515.11
+[^10a-1]: [SGS 515.11](https://bl.clex.ch/data/515.11/de)
 
 ## 5 Projekte zur regionalen Entwicklung und gewerbliche Kleinbetriebe im Berggebiet
 
@@ -162,7 +166,7 @@ gewährt.
 
 <sup>1</sup> Je nach Bau- oder Projektfortschritt und verfügbaren Mitteln sind Teilzahlungen möglich.
 
-<sup>2</sup> Teilzahlungen von Beiträgen werden bis zu höchstens 80 Prozent getätigt, die Restzahlung erfolgt nach Abnahme des fertig gestellten Bauwerkes oder der Beendigung des Projektes und aufgrund der vollständigen, vom LZE genehmigten Bau- oder Projektabrechnung.
+<sup>2</sup> Teilzahlungen von Beiträgen werden bis zu höchstens 80 % getätigt. Die Restzahlung erfolgt nach Abnahme des fertiggestellten Bauwerks oder der Beendigung des Projekts und aufgrund der vollständigen, vom Ebenrain genehmigten Bau- oder Projektabrechnung.
 
 <sup>3</sup> Zugesicherte Beiträge und Darlehen werden entsprechend den verfügbaren Mitteln ausbezahlt.
 
@@ -172,9 +176,9 @@ gewährt.
 
 <sup>1</sup> Im Grundbuch werden durch eine Anmerkung die Unterhalts- und Bewirtschaftungspflicht sowie die Rückerstattungspflicht sichergestellt.
 
-<sup>2</sup> Die Grundbuchämter und Fertigungsbehörden melden dem LZE vor dem Grundbucheintrag Rechtsgeschäfte wie Kauf, Tausch, Schenkung, Erbteilung über Grundstücke, die mit einer Grundbuchanmerkung belastet sind.
+<sup>2</sup> Die Grundbuchämter und Fertigungsbehörden melden dem Ebenrain vor dem Grundbucheintrag Rechtsgeschäfte wie Kauf, Tausch, Schenkung, Erbteilung über Grundstücke, die mit einer Grundbuchanmerkung belastet sind.
 
-<sup>3</sup> Das LZE erteilt die Bewilligung zum Grundbucheintrag des Rechtsgeschäftes.
+<sup>3</sup> Der Ebenrain erteilt die Bewilligung zum Grundbucheintrag des Rechtsgeschäfts.
 
 <sup>4</sup> Nach Ablauf der Rückerstattungsfrist löscht das Grundbuchamt die Anmerkungen von Amtes wegen.
 
@@ -208,7 +212,7 @@ gewährt.
 
 <sup>1</sup> Der Rechtsschutz richtet sich nach dem Verwaltungsverfahrensgesetz vom 13. Juni 1988[^18-1].
 
-[^18-1]: GS 29.677, SGS 175
+[^18-1]: [SGS 175](https://bl.clex.ch/data/175/de)
 
 #### § 19
 
@@ -224,6 +228,6 @@ gewährt.
 
 <sup>2</sup> Diese Verordnung tritt am 1. Februar 1999 in Kraft.
 
-[^20-1]: GS 33.0179, SGS 514.11
+[^20-1]: GS 33.0179
 
 GS 33.0578
