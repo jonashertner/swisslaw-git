@@ -4,13 +4,13 @@ number: "134.114"
 title: Geschäftsreglement für das Obergericht
 short: GRO
 language: de
-version: 2018-05-08
-valid_until: 2021-04-30
-version_adopted: 2018-05-03
+version: 2021-05-01
+valid_until: 2023-08-31
+version_adopted: 2021-04-20
 adopted: 2016-03-30
 in_force: 2016-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/134.114"
-pdf: "http://gdb.ow.ch/api/de/versions/1288/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1288/pdf_file"
 
 (GRO)
 
-vom 30.03.2016 (Stand 08.05.2018)
+vom 30.03.2016 (Stand 01.05.2021)
 
 Die Gerichtspräsidien,
 
@@ -52,8 +52,10 @@ beschliessen:
 - a. das Sozialversicherungsrecht;
 - b. das Steuerrecht;
 - c. die Aufgaben der Beschwerdeinstanz in Strafsachen (einschliesslich Aufsichtsbeschwerden);
-- d. weitere Aufgaben nach Absprache mit dem Gerichtspräsidium I;
-- e. die Stellvertretung des Gerichtspräsidiums I, insbesondere bei Ausstand, Ferienabwesenheit, Krankheit und dergleichen.
+- d. das Familienrecht;
+- e. das Kindes- und Erwachsenenschutzrecht;
+- f. weitere Aufgaben nach Absprache mit dem Gerichtspräsidium I;
+- g. die Stellvertretung des Gerichtspräsidiums I, insbesondere bei Ausstand, Ferienabwesenheit, Krankheit und dergleichen.
 
 ## 2. Gerichtsschreiberinnen und Gerichtsschreiber
 
@@ -156,6 +158,8 @@ Aufgehobener Erlass: Reglement über die Besetzung des Obergerichts vom 22. Deze
 
 Geändert durch:
 
-\- Nachtrag vom 3. Mai 2018, Genehmigung durch die Rechtspflegekommission vom 8. Mai 2018, in Kraft seit 8. Mai 2018 (OGS 2018, 13)
+\- Nachtrag vom 3. Mai 2018, Genehmigung durch die Rechtspflegekommission vom 8. Mai 2018, in Kraft seit 8. Mai 2018 (OGS 2018, 13),
+
+\- Nachtrag vom 20. April 2021, Genehmigung durch die Rechtspflegekommission vom 26. April 2021, in Kraft seit 1. Mai 2021 (OGS 2021, 18)
 
 OGS 2016, 33
