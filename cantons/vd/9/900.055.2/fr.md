@@ -3,7 +3,7 @@ canton: VD
 number: "900.055.2"
 title: "RÈGLEMENT du 25.11.2020 sur l'emploi du fonds de soutien à l'industrie dans le contexte de la pandémie de coronavirus (COVID-19)"
 language: fr
-version: 2021-03-01
+version: 2021-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.055.2?id=ab7e6839-2959-4c28-a8f7-3cf8869cb31e"
 ---
 
@@ -30,15 +30,13 @@ arrête
 
 #### Art. 1
 
-**Principes [^chapterChapitreI-1]**
+**Objet [^chapterChapitreI-1]**
 
-<sup>1</sup> En application de l'arrêté du 25 novembre 2020 visant la réactivation du fonds de soutien en faveur des PME industrielles vaudoises, en lien avec la pandémie de coronavirus (COVID-19)[^1-1], le présent arrêté fixe des règles temporaires d'emploi de ce fonds, afin de renforcer immédiatement le soutien aux entreprises souffrant des conséquences économiques de la pandémie de coronavirus (COVID-19).
+<sup>1</sup> Le présent règlement précise les conditions et la procédure d'octroi d'aides financières au moyen du fonds de soutien à l'industrie, en faveur des entreprises souffrant des conséquences économiques de la pandémie de coronavirus (COVID-19).
 
-<sup>2</sup> Pendant sa période de validité, le présent arrêté déroge en conséquence au règlement du 25 novembre 2015 sur le fonds de soutien à l'industrie[^1-2].
+<sup>2</sup> ...
 
 [^chapterChapitreI-1]: Modif. 2 du 26.05.2021: Modification tArt; entrée en vigueur au 01.05.2021; Modification Al. 1; entrée en vigueur au 01.05.2021; Abrogation Al. 2; entrée en vigueur au 01.05.2021
-[^1-1]: Arrêté du 25.11.2020 visant la réactivation du fonds de soutien à l'industrie, en lien avec la pandémie de coronavirus (COVID-19) et ses conséquences économiques ([BLV 900.05.251120.3](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.251120.3?id=fcc93dd3-2513-41c4-ad46-f34c15a40fd3))
-[^1-2]: Règlement du 25.11.2015 sur le fonds de soutien à l'industrie [(BLV 900.055.1)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.055.1?id=c8742488-3afa-4cbb-b93f-aec33180feb9)
 
 ## Chapitre II Octroi des aides
 
@@ -54,7 +52,7 @@ arrête
 - b. utilisation de machines automatisées dans le cadre de la production ;
 - c. production en série et et volume important de pièces produites.
 
-<sup>2</sup> Le recours à une aide financière doit être justifié et documenté par un recul avéré de la marche des affaires de l'entreprise.
+<sup>2</sup> Le recours à une aide financière doit être justifié et documenté par un recul avéré de la marche des affaires de l'entreprise, lié à la pandémie de coronavirus (COVID-19).
 
 <sup>3</sup> Sauf exception décidée par le Conseil d'Etat, les entreprises en procédure d'assainissement ou d'ajournement de faillite ne peuvent pas bénéficier des aides du fonds.
 
@@ -111,7 +109,7 @@ arrête
 
 **Tâches et délégation**
 
-<sup>1</sup> Le service en charge de la promotion économique (ci-après le Service) a la responsabilité des tâches suivantes :
+<sup>1</sup> Le service en charge de la promotion économique (ci-après le Service)[^6-1] a la responsabilité des tâches suivantes :
 
 - a. gérer le fonds ;
 - b. procéder à l'examen prévu à l'article 8 et soumettre aux instances décisionnelles pour approbation ;
@@ -120,12 +118,15 @@ arrête
 - e. établir un rapport annuel sur les aides octroyées ;
 - f. statuer sur les demandes manifestement irrecevables ou infondées ;
 - g. établir un rapport sur les aides octroyées ;
-- h. informer semestriellement le département en charge des finances de l'état de situation des aides octroyées et des montants engagés, y compris le suivi des risques et du contentieux ;
+- h. informer semestriellement le département en charge des finances[^6-2] de l'état de situation des aides octroyées et des montants engagés, y compris le suivi des risques et du contentieux ;
 - i. transmettre à l'Administration cantonale des impôts la liste des bénéficiaires et le montant des aides octroyées au titre du fonds.
 
 <sup>2</sup> A l'exception de la lettre f de l'alinéa 1, le service peut déléguer la responsabilité de ces tâches à un tiers.
 
 <sup>3</sup> Le fonds est utilisé pour les dépenses de fonctionnement liées à sa propre gestion.
+
+[^6-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^6-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 7
 
@@ -215,7 +216,7 @@ arrête
 
 <sup>1</sup> Un acte de cautionnement solidaire au sens de l'article 496 CO[^13-1] est établi en lien avec l'octroi du crédit mais seulement après qu'une décision d'octroi ait été rendue.
 
-[^13-1]: Loi fédérale du 30.03.1911 complétant le code civil suisse (RS 220)
+[^13-1]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
 
 #### Art. 14
 
@@ -251,6 +252,6 @@ arrête
 
 **Entrée en vigueur et échéance [^chapterChapitreIV-1]**
 
-<sup>1</sup> Le Département de l'économie, de l'innovation et du sport est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2021 et échoit le 31 mai 2021.
+<sup>1</sup> Le Département de l'économie, de l'innovation et du sport est chargé de l'exécution du présent règlement, qui entre en vigueur le 1er janvier 2021.
 
 [^chapterChapitreIV-1]: Modif. 2 du 26.05.2021: Modification Al. 1; entrée en vigueur au 01.05.2021
