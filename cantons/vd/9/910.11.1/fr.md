@@ -4,7 +4,7 @@ number: "910.11.1"
 title: "RÈGLEMENT du 15.12.2010 sur la promotion de l'économie agricole (RPEAgr)"
 short: RPEAgr
 language: fr
-version: 2016-10-01
+version: 2021-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/910.11.1?id=daf70536-c9c9-426a-a344-40a34367f528"
 ---
 
@@ -22,11 +22,13 @@ vu la loi du 7 septembre 2010 sur l'agriculture vaudoise (LVLAgr) [^ingress-1]
 
 vu la loi du 29 novembre 1961 sur les améliorations foncières (LAF) [^ingress-2]
 
-vu la loi du 12 juin 2007 sur l'appui au développement économique (LADE) [^ingress-3]
+vu la loi du 12 juin 2007 sur l'appui au développement économique (LADE)
 
-vu l'ordonnance fédérale du 9 juin 2006 sur la promotion des ventes de produits agricoles (OPVA) [^ingress-4]
+vu l'ordonnance fédérale du 9 juin 2006 sur la promotion des ventes de produits agricoles (OPVA) [^ingress-3]
 
-vu l'ordonnance fédérale du 26 novembre 2003 sur le bétail de boucherie (OBB) [^ingress-5]
+vu l'ordonnance fédérale du 26 novembre 2003 sur le bétail de boucherie (OBB) [^ingress-4]
+
+vu l'ordonnance fédérale du 27 juin 1995 sur les épizooties (OFE) [^ingress-5]
 
 vu le préavis du Département de l'économie
 
@@ -34,9 +36,9 @@ arrête
 
 [^ingress-1]: Loi du 07.09.2010 sur l'agriculture vaudoise ([BLV 910.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/910.03?id=584fcfc3-b5e1-41b4-aae3-9cafb54147f1))
 [^ingress-2]: Loi du 29.11.1961 sur les améliorations foncières ([BLV 913.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/913.11?id=847cb49f-8c75-47f1-b355-b1f88ea1919d))
-[^ingress-3]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
-[^ingress-4]: Ordonnance du 09.06.2006 sur l’aide à la promotion des ventes de produits agricoles (RS 916.010)
-[^ingress-5]: Ordonnance du 26.11.2003 sur les marchés du bétail de boucherie et de la viande (RS 916.341)
+[^ingress-3]: Ordonnance du 09.06.2006 sur l’aide à la promotion des ventes de produits agricoles (RS 916.010)
+[^ingress-4]: Ordonnance du 26.11.2003 sur les marchés du bétail de boucherie et de la viande (RS 916.341)
+[^ingress-5]: Ordonnance du 27.06.1995 sur les épizooties (RS 916.401)
 
 ## Chapitre I Dispositions générales
 
@@ -54,15 +56,17 @@ arrête
 
 **Compétences du chef de département**
 
-<sup>1</sup> Le chef du département en charge de l'agriculture est compétent pour les décisions de subventionnement supérieures ou égales à 50'000 francs.
+<sup>1</sup> Le chef du département en charge de l'agriculture[^2-1] est compétent pour les décisions de subventionnement supérieures ou égales à 50'000 francs.
+
+[^2-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 3
 
 **Compétences du service**
 
-<sup>1</sup> Le service en charge de l'agriculture (ci-après : le service) est compétent pour statuer sur toutes les demandes d'aides financières, sous réserve des compétences du chef de département, notamment pour :
+<sup>1</sup> Le service en charge de l'agriculture (ci-après : le service)[^3-1] est compétent pour statuer sur toutes les demandes d'aides financières, sous réserve des compétences du chef de département, notamment pour :
 
-- a. établir la liste des frais reconnus[^3-1] , soit le tarif forfaitaire ou la partie du coût des actions soutenues auxquels le taux de subvention s'applique ;
+- a. établir la liste des frais reconnus[^3-2] , soit le tarif forfaitaire ou la partie du coût des actions soutenues auxquels le taux de subvention s'applique ;
 - b. recevoir, examiner et instruire les demandes d'aides financières ;
 - c. coordonner les demandes d'aides financières avec les autres autorités concernées ;
 - d. octroyer les aides financières et en fixer les conditions et les charges ;
@@ -72,7 +76,8 @@ arrête
 
 <sup>2</sup> Le service est également compétent pour octroyer et verser les aides individuelles prévues par le présent règlement.
 
-[^3-1]: Disponible auprès du Service de l'agriculture et consultable sur le site www.vd.ch/agriculture.
+[^3-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^3-2]: Disponible auprès du Service de l'agriculture et consultable sur le site www.vd.ch/agriculture.
 
 ### Section II Aides financières
 
@@ -176,17 +181,28 @@ arrête
 
 **Bénéficiaires**
 
-<sup>1</sup> Les bénéficiaires des aides individuelles sont les exploitants des diverses formes d'exploitation, au sens de l'ordonnance fédérale sur la terminologie agricole , dont le domicile et le centre d'exploitation sont situés dans le Canton de Vaud.
+<sup>1</sup> Les bénéficiaires des aides individuelles sont les exploitants des diverses formes d'exploitation, au sens de l'ordonnance fédérale sur la terminologie agricole [^12-1] , dont le domicile et le centre d'exploitation sont situés dans le Canton de Vaud.
+
+[^12-1]: [Ordonnance du 07.12.1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation, RS 910.91](https://www.admin.ch/opc/fr/classified-compilation/19983381/index.html)
 
 #### Art. 13
 
-**Demande d'octroi [^12-1]**
+**Demande d'octroi [^12-2]**
 
 <sup>1</sup> Les demandes d'octroi d'aide individuelle sont adressées par écrit au service.
 
 <sup>2</sup> Les demandes d'aides individuelles octroyées dans le cadre des marchés publics surveillés de bétail sont effectuées lors de la présentation et de la commercialisation de l'animal sur le marché.
 
-[^12-1]: Modif. 5 du 21.04.2021: Introduction Al. 3-6; entrée en vigueur au 01.05.2021; Introduction Art. 41, Al. 1bis; entrée en vigueur au 01.05.2021
+<sup>3</sup> Les aides individuelles peuvent également être octroyées sans présentation de l'animal sur un marché public surveillé pour les bovins provenant d'exploitations non reconnues indemnes de diarrhée virale bovine (BVD) au sens de l'art. 174f de l'ordonnance fédérale sur les épizooties (OFE)[^13-1].
+
+<sup>4</sup> Les aides individuelles pouvant être obtenues sans présentation sont limitées au nombre annuel le plus élevé de bovins ayant bénéficié d'une telle aide au cours de l'une des deux années précédant la demande.
+
+<sup>5</sup> Les détenteurs de bétail au sens de l'article 40, alinéa 3, qui n'ont pas obtenu le paiement d'aides individuelles durant les deux années précédant la demande peuvent joindre à leur demande toute pièce démontrant leur statut de nouvel exploitant. Le nombre de bovins pouvant prétendre à l'aide individuelle sans présentation est dans ce cas limité à 10 % du cheptel mais au maximum à 5 bovins.
+
+<sup>6</sup> Pour bénéficier des aides conformément à l'alinéa 3, l'exploitant joint à sa demande une attestation de l'abattoir confirmant l'abattage et sa date ainsi que toute pièce démontrant qu'il a obtenu le paiement d'aides individuelles durant les deux années précédant la demande. La demande est adressée à l'organisation mentionnée à l'article 40, alinéa 1, qui se chargera d'obtenir du service vétérinaire l'attestation du séquestre.
+
+[^12-2]: Modif. 5 du 21.04.2021: Introduction Al. 3-6; entrée en vigueur au 01.05.2021
+[^13-1]: Ordonnance du 27.06.1995 sur les épizooties (RS 916.401)
 
 #### Art. 14
 
@@ -597,7 +613,7 @@ arrête
 
 **Organisation des marchés publics surveillés (art. 30 al. 1 et 2 LVLAgr) [^sectionSectionI-1]**
 
-<sup>1</sup> Le chef du département en charge de l'agriculture, en accord avec l'organisation mandatée en vertu de l'ordonnance fédérale sur le bétail de boucherie [^40-1] , désigne l'organisation de producteurs chargée de mettre sur pied des marchés publics surveillés.
+<sup>1</sup> Le chef du département en charge de l'agriculture[^40-1], en accord avec l'organisation mandatée en vertu de l'ordonnance fédérale sur le bétail de boucherie [^40-2] , désigne l'organisation de producteurs chargée de mettre sur pied des marchés publics surveillés.
 
 <sup>2</sup> Les modalités de soutien et de collaboration à l'organisation des marchés publics surveillés font l'objet d'une convention entre le service et l'organisation désignée.
 
@@ -608,13 +624,16 @@ arrête
 <sup>5</sup> L'aide financière est fixée à 42 francs par tête de bétail détenue dans une exploitation vaudoise et amenée sur le marché public surveillé. Elle est de 19.50 francs par tête pour la catégorie veaux d'engrais. Le nombre maximum de têtes de bétail est fixé chaque année par le service, dans la limite des disponibilités budgétaires.
 
 [^sectionSectionI-1]: Modif. 1 du 05.06.2013: Modification Al. 5; entrée en vigueur au 01.07.2013 · Modif. 2 du 04.03.2015: Modification Al. 5; entrée en vigueur au 01.01.2015
-[^40-1]: Ordonnance du 26.11.2003 sur les marchés du bétail de boucherie et de la viande (RS 916.341)
+[^40-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^40-2]: Ordonnance du 26.11.2003 sur les marchés du bétail de boucherie et de la viande (RS 916.341)
 
 #### Art. 41
 
-**Aides individuelles aux détenteurs de bétail (art. 30 al. 3 LVLAgr) [^40-2]**
+**Aides individuelles aux détenteurs de bétail (art. 30 al. 3 LVLAgr) [^40-3]**
 
 <sup>1</sup> Les détenteurs de bétail dont l'exploitation est située dans la région de montagne du territoire cantonal reçoivent une aide individuelle unique maximale de 350 francs par bête conduite et commercialisée sur un marché public surveillé.
+
+<sup>1bis</sup> L'aide individuelle prévue à l'alinéa 1 peut également être octroyée sans présentation de l'animal sur un marché public surveillé, aux conditions énoncées à l'article 13, alinéas 3 à 6.
 
 <sup>2</sup> Dans cette limite et sur proposition de l'organisation désignée, le service peut adapter le montant de l'aide en fonction de la situation du marché, du type d'animal et des disponibilités budgétaires. Il publie le tarif en vigueur.
 
@@ -622,7 +641,7 @@ arrête
 
 <sup>4</sup> Le détenteur de bétail qui reprend une bête n'ayant pas trouvé preneur ou qui retourne sur son exploitation pour une durée de plus de 3 jours ne touche aucune aide individuelle.
 
-[^40-2]: Modif. 1 du 05.06.2013: Modification Al. 1,4; entrée en vigueur au 01.07.2013 · Modif. 2 du 04.03.2015: Modification Al. 1,3; entrée en vigueur au 01.01.2015 · Modif. 5 du 21.04.2021: Introduction Art. 13, Al. 3-6; entrée en vigueur au 01.05.2021; Introduction Al. 1bis; entrée en vigueur au 01.05.2021
+[^40-3]: Modif. 1 du 05.06.2013: Modification Al. 1,4; entrée en vigueur au 01.07.2013 · Modif. 2 du 04.03.2015: Modification Al. 1,3; entrée en vigueur au 01.01.2015 · Modif. 5 du 21.04.2021: Introduction Al. 1bis; entrée en vigueur au 01.05.2021
 
 ### Section II Transparence des marchés
 
@@ -689,7 +708,7 @@ arrête
 
 <sup>1</sup> Une aide individuelle forfaitaire par pâquier normal (ci-après : PN), d'un montant maximum de 1'000 francs par année et par alpage, peut être octroyée aux exploitants d'alpages pour :
 
-- a. l'élaboration d'un plan d'exploitation au sens de l'ordonnance fédérale sur les paiements directs, 20 francs par PN ;
+- a. l'élaboration d'un plan d'exploitation au sens de l'ordonnance fédérale sur les paiements directs[^48-1], 20 francs par PN ;
 - b. les frais de contrôle et d'entretien des installations spécifiques aux alpages, destinées à la protection ou à l'amélioration de la qualité des eaux, 20 francs par PN.
 
 <sup>2</sup> Un PN correspond à l'estivage pendant 100 jours d'une UGB consommant des fourrages grossiers.
@@ -697,6 +716,7 @@ arrête
 <sup>3</sup> En dérogation à l'article 12 du présent règlement, les exploitants d'alpages sis sur territoire vaudois mais dont le domicile se situe en dehors du canton peuvent également bénéficier de cette aide.
 
 [^47-1]: Modif. 2 du 04.03.2015: Modification Al. 1; entrée en vigueur au 01.01.2015; Introduction Al. 3; entrée en vigueur au 01.01.2015
+[^48-1]: Ordonnance du 23.10.2013 sur les paiements directs versés dans l’agriculture (RS 910.13)
 
 ### Section II Gestion des estivages (Gest'Alpe) (art. 34 LVLAgr)
 
@@ -762,7 +782,7 @@ arrête
 
 **Modalités de restitution**
 
-<sup>1</sup> Le chef du département en charge de l'agriculture est compétent pour ordonner à l'organisation bénéficiaire la restitution de tout ou partie des contributions perçues indûment, soit en cas :
+<sup>1</sup> Le chef du département en charge de l'agriculture[^55-1] est compétent pour ordonner à l'organisation bénéficiaire la restitution de tout ou partie des contributions perçues indûment, soit en cas :
 
 - a. d'obtention frauduleuse de la force obligatoire,
 - b. d'utilisation des contributions non conforme aux conditions légales, ou
@@ -771,6 +791,8 @@ arrête
 <sup>2</sup> Cette décision est publiée dans la Feuille des avis officiels du Canton de Vaud.
 
 <sup>3</sup> Il appartient à l'organisation bénéficiaire de rembourser les assujettis à la contribution, sous réserve de leurs obligatoires sociétaires.
+
+[^55-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ## Chapitre VIII Dispositions finales
 
@@ -806,6 +828,6 @@ Annexes [^57-1]
 
 1
 
-[Espèces soutenues](https://prestations.vd.ch/pub/blv-publication/api/actes/daf70536-c9c9-426a-a344-40a34367f528/annexes/1?dmev=01.10.2016)
+[Espèces soutenues](https://prestations.vd.ch/pub/blv-publication/api/actes/daf70536-c9c9-426a-a344-40a34367f528/annexes/1?dmev=01.05.2021)
 
 [^57-1]: Modif. 3 du 11.03.2015: Introduction Annexes, Ann. 1; entrée en vigueur au 12.03.2015
