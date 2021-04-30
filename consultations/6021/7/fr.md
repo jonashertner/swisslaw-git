@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Accord temporaire entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord sur la mobilité des fournisseurs de services"
 document: Projet
 language: fr

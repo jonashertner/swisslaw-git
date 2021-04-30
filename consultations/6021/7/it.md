@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accordo temporaneo tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del nord sulla mobilità dei prestatori di servizi
 document: Avamprogetto
 language: it
