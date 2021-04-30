@@ -4,13 +4,13 @@ number: "152.221.171"
 title: Verordnung über die Organisation und die Aufgaben der Finanzdirektion
 short: Organisationsverordnung FIN; OrV FIN
 language: de
-version: 2021-03-01
-valid_until: 2021-04-30
-version_adopted: 2021-01-20
+version: 2021-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-10
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2147/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2455/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2147/pdf_file"
 
 (Organisationsverordnung FIN; OrV FIN)
 
-vom 18.10.1995 (Stand 01.03.2021)
+vom 18.10.1995 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -214,7 +214,7 @@ beschliesst:
 - e berät und unterstützt die Personaldienste der Direktionen und der Staatskanzlei in allen Belangen der Personalarbeit und Personalentwicklung und erlässt die notwendigen fachlichen Weisungen;
 - f erarbeitet und realisiert direktionsübergreifende Massnahmen zur Aus- und Weiterbildung des Personals und koordiniert die Lernendenausbildung in der Kantonsverwaltung;
 - g bearbeitet alle direktionsübergreifenden Fragen im Personalwesen;
-- h stellt die zentrale Auszahlung der Gehälter des Personals der kantonalen Verwaltung und der Lehrkräfte, soweit diese nicht durch die zuständige Stelle der Erziehungsdirektion betreut werden, über das Personalinformationssystem sicher;
+- h stellt die zentrale Auszahlung der Gehälter des Personals der kantonalen Verwaltung und der Lehrkräfte, soweit diese nicht durch die zuständige Stelle der Bildungs- und Kulturdirektion betreut werden, über das Personalinformationssystem sicher;
 - i macht die in seinem Verantwortungsbereich liegenden Rückerstattungsansprüche geltend und übt Regressrechte aus;
 - k überwacht den Personal- und Stellenetat des Kantons;
 - l führt die statistischen Erhebungen im Personalbereich durch;

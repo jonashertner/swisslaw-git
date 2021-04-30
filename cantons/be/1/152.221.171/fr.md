@@ -4,13 +4,13 @@ number: "152.221.171"
 title: "Ordonnance sur l'organisation et les tâches de la Direction des finances"
 short: "Ordonnance d'organisation FIN, OO FIN"
 language: fr
-version: 2021-03-01
-valid_until: 2021-04-30
-version_adopted: 2021-01-20
+version: 2021-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-10
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2147/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2455/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2147/pdf_file"
 
 (Ordonnance d'organisation FIN, OO FIN)
 
-du 18.10.1995 (état au 01.03.2021)
+du 18.10.1995 (état au 01.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -172,7 +172,7 @@ arrête:
 - m est compétente pour le système d’informations financières du canton, et coordonne les sous-systèmes;
 - n assure un service de conseil et d’assistance pour toutes les questions matérielles et techniques concernant la gestion financière;
 - o assure, aux plans matériel et technique, la formation et le perfectionnement des collaborateurs et collaboratrices des services financiers et des responsables de ligne dans le domaine de la gestion financière;
-- p est responsable de la gestion des assurances du canton;
+- p est responsable de la gestion des assurances du canton et des achats centralisés de prestations d’assurance;
 - q assure l’exécution de la péréquation financière ainsi que le calcul et la coordination de la compensation des charges;
 - r coordonne les questions relatives aux statistiques du canton, assure la collaboration avec les services de statistique extérieurs à l’administration cantonale, tient un registre cantonal des statistiques et établit les statistiques financières;
 - s s’occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de leur exécution et des rapports y relatifs, ainsi que de la gestion des risques.
@@ -214,7 +214,7 @@ arrête:
 - e conseille et seconde les services du personnel des Directions et de la Chancellerie d'Etat pour toutes les questions concernant le personnel et son évolution, et édicte les directives techniques nécessaires;
 - f élabore et réalise des mesures interdirectionnelles de formation et de perfectionnement du personnel et coordonne la formation des personnes en apprentissage dans l'administration cantonale;
 - g traite toutes les questions interdirectionnelles concernant le personnel;
-- h assure le paiement centralisé des traitements du personnel de l'administration cantonale et du personnel enseignant au moyen du système informatique du personnel, dans la mesure où les traitements du personnel enseignant ne sont pas gérés par le service compétent de la Direction de l'instruction publique;
+- h assure le paiement centralisé des traitements du personnel de l'administration cantonale et du personnel enseignant au moyen du système informatique du personnel, dans la mesure où les traitements du personnel enseignant ne sont pas gérés par le service compétent de la Direction de l’instruction publique et de la culture;
 - i fait valoir les droits à remboursement qui relèvent de son domaine de compétence et les droits de recours;
 - k surveille l'état des effectifs du canton et celui des emplois à pourvoir;
 - l effectue les relevés statistiques concernant le personnel;
