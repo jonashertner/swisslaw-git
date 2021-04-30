@@ -4,13 +4,13 @@ number: "961.212"
 title: Sonderverordnung 2 zur Abfederung der wirtschaftlichen Auswirkungen der COVID-19-Pandemie
 short: SonderV 20-2
 language: de
-version: 2021-04-01
-valid_until: 2021-04-30
-version_adopted: 2021-03-24
+version: 2021-05-01
+valid_until: 2021-05-31
+version_adopted: 2021-04-28
 adopted: 2020-04-15
 in_force: 2020-04-20
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.212"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2969/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2978/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2969/pdf_file"
 
 (SonderV 20-2)
 
-Vom 15.04.2020 (Stand 01.04.2021)
+Vom 15.04.2020 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -98,7 +98,9 @@ beschliesst:
 
 <sup>1<sup>quater</sup></sup> Das Unternehmen hat gegenüber dem Kanton zu belegen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war. Es muss zudem den Nachweis der Überlebensfähigkeit erbringen, der glaubhaft aufzeigt, dass die Finanzierung des Unternehmens mit der Härtefallmassnahme gesichert werden kann.
 
-<sup>1<sup>quinquies</sup></sup> Bringen Eigentümer frisches Eigenkapital in das Unternehmen ein oder verzichten Fremdkapitalgeber auf ihre Forderungen, können nicht rückzahlbare Beiträge in der Höhe bis höchstens Fr. 1.5 Mio. ausgerichtet werden. Das zusätzliche Eigenkapital oder der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Beitrag entsprechen.
+<sup>1<sup>quinquies</sup></sup> …
+
+<sup>1<sup>sexies</sup></sup> Ist das Unternehmen zwischen dem 1. Januar 2020 und dem 31. Dezember 2020 überschuldet, kann für die Gewährung einer Härtefallmassnahme gemäss § 7a verlangt werden, dass Eigentümer frisches Eigenkapital in das Unternehmen einbringen oder Fremdkapitalgeber auf ihre Forderungen verzichten.
 
 <sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben.
 
@@ -106,11 +108,15 @@ beschliesst:
 
 <sup>3<sup>bis</sup></sup> Bei Umsätzen im Durchschnitt der Jahre 2018 und 2019 bis Fr. 200'000.– können im vereinfachten Verfahren ohne Einzelfallprüfung nicht rückzahlbare Beiträge in der Höhe von 10 % des Umsatzes, maximal Fr. 20'000.–, ausgerichtet werden.
 
-<sup>4</sup> Für die Berechnung des Umsatzrückgangs gemäss Art. 5 Covid-19-Härtefallverordnung sind bereits geleistete Sofort- und Direktzahlungen des Kantons zu berücksichtigen.
+<sup>3<sup>ter</sup></sup> Kann das Unternehmen bei einem normalen Geschäftsgang nach der Covid-19-Pandemie einen Kredit innerhalb von fünf bis sieben Jahren, im Ausnahmefall bis zu zehn Jahren, amortisieren, wird der Liquiditätsbedarf mit einem Kredit gedeckt. Die Möglichkeit der Amortisation wird anhand der Einnahmen und Ausgaben der Jahre 2017 bis 2019 und der aktuellen Verschuldungssituation geprüft. Ist eine Amortisation innerhalb von fünf bis sieben Jahren, im Ausnahmefall bis zu zehn Jahren, nicht möglich, wird der Liquiditätsbedarf mit einem nicht rückzahlbaren Beitrag gedeckt. Eine Kombination von Kredit und nicht rückzahlbarem Beitrag ist möglich, wobei der Kreditanteil so hoch ist, dass dieser innerhalb von fünf bis sieben Jahren, im Ausnahmefall bis zu zehn Jahren, amortisiert werden kann.
+
+<sup>4</sup> …
 
 <sup>5</sup> Die Kreditausfallgarantien des Kantons zugunsten der Geschäftsbanken von aargauischen Unternehmen betragen 100 % des Kredits.
 
 <sup>6</sup> In den Garantieverträgen beziehungsweise Verfügungen über die nicht rückzahlbaren Beiträge werden geeignete Bedingungen und Auflagen zur Missbrauchsbekämpfung, namentlich Rückforderungsvorbehalte, Meldepflichten und Sicherheiten, festgelegt.
+
+<sup>7</sup> Der Kanton kann gewährte Härtefallmassnahmen zurückfordern, wenn das Unternehmen die Geschäftstätigkeit innerhalb eines Jahres nach Gewährung der Härtefallmassnahmen aufgibt.
 
 #### § 7b
 
@@ -122,15 +128,17 @@ beschliesst:
 
 <sup>3</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben. Pro Unternehmen kann ein Gesuch für alle betroffenen Betriebsteile eingereicht werden.
 
-<sup>4</sup> Die Fixkostenbeiträge werden für die Dauer der behördlich angeordneten Schliessung ausgerichtet. Der Beitrag pro Tag bemisst sich am branchenüblichen Fixkostenanteil am ausgewiesenen Gesamtaufwand 2019 und beträgt pro Monat maximal Fr. 50'000.-.
+<sup>4</sup> Die Fixkostenbeiträge werden für die Dauer der behördlich angeordneten Schliessung ausgerichtet. Der Beitrag pro Tag bemisst sich am branchenüblichen Fixkostenanteil am ausgewiesenen Gesamtaufwand 2019 und beträgt pro Monat maximal Fr. 50'000.–.
 
 <sup>5</sup> Das Unternehmen hat gegenüber dem Kanton zu bestätigen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war.
 
+<sup>5<sup>bis</sup></sup> Ist das Unternehmen zwischen dem 1. Januar 2020 und dem 31. Dezember 2020 überschuldet, kann für die Gewährung einer Härtefallmassnahme gemäss § 7b verlangt werden, dass Eigentümer frisches Eigenkapital in das Unternehmen einbringen oder Fremdkapitalgeber auf ihre Forderungen verzichten.
+
 <sup>6</sup> Das Unternehmen muss gegenüber dem Kanton bestätigen, dass es beabsichtigt, nach der behördlich angeordneten Schliessung wieder zu öffnen. Der Kanton kann Fixkostenbeiträge zurückverlangen, wenn das Unternehmen nach der behördlich angeordneten Schliessung nicht weitergeführt wird.
 
-<sup>7</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7a und 7d werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
+<sup>7</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7a und 7d werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
 
-<sup>7<sup>bis</sup></sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7b erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss § 7d sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die jeweiligen Voraussetzungen erfüllen. Die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
+<sup>7<sup>bis</sup></sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7b erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss § 7d sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die jeweiligen Voraussetzungen erfüllen. Die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
 
 <sup>8</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
 
@@ -146,11 +154,13 @@ beschliesst:
 
 <sup>4</sup> Das Unternehmen hat gegenüber dem Kanton zu belegen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war.
 
+<sup>4<sup>bis</sup></sup> Ist das Unternehmen zwischen dem 1. Januar 2020 und dem 31. Dezember 2020 überschuldet, kann für die Gewährung einer Härtefallmassnahme gemäss § 7c verlangt werden, dass Eigentümer frisches Eigenkapital in das Unternehmen einbringen oder Fremdkapitalgeber auf ihre Forderungen verzichten.
+
 <sup>5</sup> Das Unternehmen muss gegenüber dem Kanton bestätigen, dass es beabsichtigt, seinen Betrieb nach der behördlich angeordneten Schliessung der belieferten Betriebe weiterzuführen. Der Kanton kann Fixkostenbeiträge zurückverlangen, wenn das Unternehmen nach der behördlich angeordneten Schliessung der belieferten Betriebe nicht weitergeführt wird.
 
-<sup>6</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7a und 7d werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
+<sup>6</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7a und 7d werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
 
-<sup>7</sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7c erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss § 7d sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die jeweiligen Voraussetzungen erfüllen. Die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
+<sup>7</sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7c erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss § 7d sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die jeweiligen Voraussetzungen erfüllen. Die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
 
 <sup>8</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
 
@@ -162,19 +172,48 @@ beschliesst:
 
 <sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben.
 
-<sup>3</sup> Die nicht rückzahlbaren Beiträge berechnen sich anhand eines branchenüblichen Fixkostenanteils am Gesamtumsatz 2019 zuzüglich Abschreibungen und anhand der Umsatzeinbusse im Jahr 2020 respektive der letzten 12 Monate gegenüber den Jahren 2018 und 2019. Im Zusammenhang mit besonderem Personalaufwand kann das Departement Volkswirtschaft und Inneres (DVI) den Fixkostenansatz erhöhen. Eine Abgeltung wird für die Monate November 2020 bis Juni 2021 gewährt.
+<sup>3</sup> Die nicht rückzahlbaren Beiträge berechnen sich anhand eines branchenüblichen Anteils an den Fixkosten samt Abschreibungen und anhand der Umsatzeinbusse im Jahr 2020 respektive der letzten 12 Monate gegenüber den Jahren 2018 und 2019. Im Zusammenhang mit besonderen Aufwandpositionen kann das Departement Volkswirtschaft und Inneres (DVI) den Fixkostenansatz erhöhen.
 
 <sup>4</sup> Das Unternehmen hat gegenüber dem Kanton zu belegen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war.
 
-<sup>5</sup> Bringen Eigentümer frisches Eigenkapital in das Unternehmen ein oder verzichten Fremdkapitalgeber auf ihre Forderungen, können nicht rückzahlbare Beiträge in der Höhe bis höchstens Fr. 1.5 Mio. ausgerichtet werden. Das zusätzliche Eigenkapital oder der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Beitrag entsprechen.
+<sup>4<sup>bis</sup></sup> Ist das Unternehmen zwischen dem 1. Januar 2020 und dem 31. Dezember 2020 überschuldet, kann für die Gewährung einer Härtefallmassnahme gemäss § 7a verlangt werden, dass Eigentümer frisches Eigenkapital in das Unternehmen einbringen oder Fremdkapitalgeber auf ihre Forderungen verzichten.
+
+<sup>5</sup> …
 
 <sup>6</sup> Für die Berechnung des Umsatzrückgangs gemäss Art. 5 Covid-19-Härtefallverordnung sind bereits geleistete Sofort- und Direktzahlungen des Kantons zu berücksichtigen.
 
-<sup>7</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss §§ den 7a–7c werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss Art. 8 Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
+<sup>7</sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7a–7c werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
 
-<sup>8</sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7d erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss den §§ 7b und 7c sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die Voraussetzungen erfüllen.
+<sup>8</sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7d erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss den §§ 7b und 7c sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die Voraussetzungen erfüllen. Die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
 
 <sup>9</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
+
+<sup>10</sup> Der Kanton kann gewährte Härtefallmassnahmen zurückfordern, wenn das Unternehmen die Geschäftstätigkeit innerhalb eines Jahres nach Gewährung der Härtefallmassnahmen aufgibt.
+
+#### § 7e
+
+**Härtefallmassnahmen für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken**
+
+<sup>1</sup> Für Unternehmen mit einem Jahresumsatz über Fr. 5 Mio. richten sich die Anforderungen an die Unternehmen und die Anforderungen an die Ausgestaltung der Härtefallmassnahmen nach der Covid-19-Härtefallverordnung.
+
+<sup>2</sup> Unternehmen mit einem Jahresumsatz über Fr. 5 Mio. und einer Umsatzeinbusse zwischen 25 % und 40 % können eine Härtefallmassnahme gemäss § 7a beantragen, wenn sie nicht behördlich geschlossen sind.
+
+#### § 7f
+
+**Unternehmen mit klar abgrenzbaren Tätigkeitsbereichen**
+
+<sup>1</sup> Die Berücksichtigung einer Spartenrechnung gemäss Art. 2a Covid-19-Härtefallverordnung kann für die Härtefallmassnahme gemäss § 7d beantragt werden. Voraussetzung ist ein Gesamtumsatz im Durchschnitt der Jahre 2018 und 2019 von mindestens Fr. 200'000.–.
+
+<sup>2</sup> Der Nachweis der Spartenrechnung ist mittels den Jahresabschlüssen oder der spartenweise geführten Buchhaltung der Jahre 2018 bis 2020 zu erbringen.
+
+#### § 7g
+
+**Unternehmensgründungen zwischen März und September 2020**
+
+<sup>1</sup> Unternehmen, die zwischen dem 1. März 2020 und dem 1. Oktober 2020 gegründet worden sind, können Massnahmen gemäss den §§ 7a–7d beantragen, wenn sie folgende Zusatzvoraussetzungen erfüllen:
+
+- a) das Unternehmen darf sich am 15. Dezember 2020 nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befunden haben, es sei denn, dass zum Zeitpunkt der Einreichung des Gesuchs eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen ist,
+- b) das Unternehmen darf zwischen dem Gründungszeitpunkt und dem 31. Dezember 2020 nicht überschuldet sein.
 
 ### 2.5 Vollzug
 
