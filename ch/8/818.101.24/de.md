@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-04-26
+version: 2021-05-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210426/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210426-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 26. April 2021)
+vom 19. Juni 2020 (Stand am 1. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -598,7 +598,7 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Mai 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)).
 
 #### Art. 27a
 
@@ -670,7 +670,7 @@ Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Re
 [^29-2]: Aufgehoben durch Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), mit Wirkung seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3 Abs. 2)
 
@@ -695,12 +695,13 @@ Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Singapur
 - – Thailand
 - – Zypern
+- [tab]
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Obsolet geworden durch die Aufhebung von Art. 8 (s. Art. 6 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 2. Juli 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 9 Abs. 3)
 
@@ -710,7 +711,7 @@ Anhang 3*[^t-3]*
 
 Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 11 Abs. 1, 19 Abs. 1 und 21 Abs. 2)
 
@@ -805,7 +806,7 @@ Anhang 4*[^t-4]*
 
 \4. Hygieneartikel in der Intensivmedizin (z. B. absorbierende Unterlagen, Windeln, Rectalkollektoren, Artikel zur Mund- und Rachenhygiene
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 21 Abs. 1 und 3 sowie 22 Abs. 1)
 
@@ -816,7 +817,7 @@ Anhang 5*[^t-5]*
 - 1\. Casirivimab/Imdevimab
 - 2\. Bamlanivimab/Etesevimab
 
-Anhang 5a*[^t-6]*
+Anhang 5a[^t-6]
 
 (Art. 23*a* Abs. 2 Bst. e, 24 Abs. 4<sup>bis</sup> Bst. b und 24*a* Abs. 1)
 
@@ -862,6 +863,7 @@ Anhang 5a*[^t-6]*
 - 3\.2.2 Die Spezifität des Tests muss bei mindestens 97 Prozent liegen.
 - 3\.3 Kreuzreaktivität: Untersuchung auch von Proben mit hoher Konzentration an verwandten Humanen Coronaviren, darunter mindestens das Humane Coronavirus 229E, das Humane Coronavirus OC43, das Humane Coronavirus NL63 oder das Humane Coronavirus HKU1.
 - 3\.4 Interferenz: Untersuchung auch von Pathogen-positiven Proben, bei denen das Pathogen eine analoge Symptomatik hervorrufen kann (Influenza A, B; RSV) oder mit dem Testprinzip interferieren könnte (Protein-A-positive *Staphylococcus aureus* bei Nasenabstrichen als Probenmatrix).
+- [tab]
 
 Anhang 6*[^t-7]*
 
@@ -869,7 +871,7 @@ Anhang 6*[^t-7]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021, in Kraft seit 12. April 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021, Ziff. 1.6.1 in Kraft seit 12. April, Ziff. 1.5.1, 1.5.3 und 1.5.4 in Kraft seit 1. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -1135,9 +1137,16 @@ Anhang 6*[^t-7]*
 
 ### 1.5 Molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten
 
-- 1\.5.1 Der Bund übernimmt die Kosten für den molekularbiologischen Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten («Variant of Concern», VOC) nur nach einem positiven Ergebnis einer molekularbiologischen Analyse.
+- 1\.5.1 Der Bund übernimmt die Kosten für den molekularbiologischen Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten («Variant of Concern», VOC) nur nach einem positiven Ergebnis einer molekularbiologischen Analyse, auf Anordnung der zuständigen kantonalen Stelle und sofern die Ergebnisse zu spezifischen Massnahmen des Kantons führen.
 - 1\.5.2 Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
-- 1\.5.3 Für den molekularbiologischen Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten übernimmt er 106 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 1\.5.3
+
+  Der molekularbiologische Nachweis kann auf Anordnung der zuständigen kantonalen Stelle mittels eines der folgenden Verfahren erfolgen:
+
+  - a. mutationsspezifische PCR;
+  - b. partielle Genomsequenzierung.
+
+- 1\.5.4 Für den molekularbiologischen Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten übernimmt er 106 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
@@ -1357,14 +1366,16 @@ Anhang 6*[^t-7]*
 - 4\.2 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine immunologische Analyse auf Sars-CoV-2-Antigene oder ein Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard oder gemäss Screening-Standard nach Ziffer 1.4 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.3 Buchstabe a und 1.4.4 Buchstabe a nur einmal.
 - 4\.3 Werden bei einer Person sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch ein molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten nach Ziffer 1.5 oder eine Sequenzierung auf Sars-CoV-2 nach Ziffer 1.6 vom selben Leistungserbringer durchgeführt, so übernimmt der Bund den Kostenanteil für die Auftragsabwicklung und die Overheadkosten nach den Ziffern 1.1.3 Buchstabe b und 1.5.3 beziehungsweise 1.6.3 nur einmal.
 - 4\.4 Bei Analysen auf Sars-CoV-2, bei denen die Probenentnahme durch die getestete Person selbst durchgeführt werden kann, darf die Probenentnahme nicht verrechnet werden.
+- [tab]
+- [tab]
 
-Anhang 7*[^t-8]*
+Anhang 7[^t-8]
 
 (Art. 27*a* Abs. 11)
 
 ## Medizinische Präzisierungen zu Erkrankungen, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen), in Kraft seit 2. April 2021 ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Mai 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen), in Kraft seit 2. April 2021 ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 

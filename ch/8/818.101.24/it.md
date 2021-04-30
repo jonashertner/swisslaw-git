@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-04-26
+version: 2021-05-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210426/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210426-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 26 aprile 2021)
+del 19 giugno 2020 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -598,7 +598,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 apr. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mag. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)).
 
 #### Art. 27a
 
@@ -767,7 +767,7 @@ Allegato 4*[^t-4]*
 - 45\. Casirivimab/Imdevimab
 - 46\. Bamlanivimab/Etesevimab
 
-### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001**** relativa ai dispositivi medici
+### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -868,7 +868,7 @@ Allegato 6*[^t-7]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II dell’O del 12 mag. 2021, in vigore dal 12 apr. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II dell’O del 12 mag. 2021, n. 1.6.1 in vigore dal 12 apr. 2021 e n. 1.5.1, 1.5.3, 1.5.4 in vigore dal 1° mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1134,9 +1134,16 @@ Allegato 6*[^t-7]*
 
 ### 1.5 Rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti
 
-- 1\.5.1 La Confederazione assume le spese per il rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti (*Variant of Concern*, VOC) solo dopo il risultato positivo di un’analisi di biologia molecolare.
+- 1\.5.1 La Confederazione assume le spese per il rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti (*Variant of Concern*, VOC) solo dopo il risultato positivo di un’analisi di biologia molecolare, su ordine del servizio cantonale competente e se i risultati portano a provvedimenti specifici da parte del Cantone.
 - 1\.5.2 Assume le spese soltanto se le prestazioni sono fornite da laboratori di cui all’articolo 54 capoverso 3 OAMal e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp.
-- 1\.5.3 Per il rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti assume 106 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 1\.5.3
+
+  Il rilevamento di biologia molecolare può essere eseguito, su ordine del servizio cantonale competente, mediante una delle seguenti procedure:
+
+  - a. PCR specifica per la mutazione;
+  - b. sequenziamento parziale del genoma.
+
+- 1\.5.4 Per il rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti assume 106 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
@@ -1174,7 +1181,7 @@ Allegato 6*[^t-7]*
 
 [^annex6-lvlu1-lvl1-lvl16-1]: L’elenco del SAS dei laboratori di diagnostica accreditati in Svizzera con esperienza nel sequenziamento di campioni microbiologici è consultabile su www.sas.admin.ch.
 
-### Tariffe ridotte per i test mirati e ripetuti
+### 2 Tariffe ridotte per i test mirati e ripetuti
 
 ### 2.1 Test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening
 
@@ -1363,7 +1370,7 @@ Allegato 7*[^t-8]*
 
 ## Precisazioni mediche sulle malattie che rendono le persone interessate particolarmente a rischio
 
-[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 apr. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) e del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio), in vigore dal 2 apr. 2021 ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
+[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mag. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) e del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio), in vigore dal 2 apr. 2021 ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 

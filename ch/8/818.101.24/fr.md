@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-04-26
+version: 2021-05-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210426/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210426-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 26 avril 2021)
+du 19 juin 2020 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -548,7 +548,7 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 
 <sup>6bis</sup> L’assureur peut exiger directement de l’assuré le remboursement des coûts des autotests SARS-CoV-2 prévus à l’annexe 6, ch. 3.3, que l’assuré réalise en plus du nombre maximal prévu à l’annexe 6, ch. 3.3.1. Pour l’exécution des procédures de sommation en lien avec le remboursement des coûts des autotests SARS-CoV-2 excédentaires, il peut facturer à la Confédération 20 francs au plus par assuré faisant l’objet de la sommation.[^26b-4]
 
-<sup>6ter</sup> Avec le paiement de la prestation pour les autotests SARS-CoV-2 par la Confédération au sens de l’al. 5 et le paiement par la Confédération des coûts liés à une procédure de sommation au sens de l’al. 6<sup>bis</sup>, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles. [^26b-5]
+<sup>6ter</sup> Avec le paiement de la prestation pour les autotests SARS-CoV-2 par la Confédération au sens de l’al. 5 et le paiement par la Confédération des coûts liés à une procédure de sommation au sens de l’al. 6<sup>bis</sup>, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.[^26b-5]
 
 <sup>7</sup> Tous les trois mois, l’institution commune facture à l’OFSP ses frais administratifs liés à son activité en tant qu’assureur au sens de l’art. 26*a*, al. 1, let. c, et 3, let. a, sur la base de ses coûts effectifs. Le tarif horaire est de 95 francs et comprend les coûts liés aux salaires, aux prestations sociales et aux infrastructures. S’agissant des dépenses qui ne sont pas incluses dans les frais administratifs concernant d’éventuels révisions, modifications du système et intérêts négatifs, les coûts effectifs sont remboursés.
 
@@ -557,8 +557,8 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 [^26b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 [^26b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26b-4]: Introduit par le ch.I de l’O du 12 mai 2021, en vigueur depuis le 15 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^26b-5]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 15 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26b-4]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 7 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26b-5]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 7 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26c
 
@@ -598,7 +598,7 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 [^chap4a-1]
 
-[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 30 avr. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
+[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mai 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)).
 
 #### Art. 27a
 
@@ -922,7 +922,7 @@ Annexe 6*[^t-7]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2) ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II de l’O du 12 mai 2021, en vigueur depuis le 12 avr. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II de l’O du 12 mai 2021, le ch. 1.6.1 en vigueur depuis le 12 avr. 2021 et les ch. 1.5.1, 1.5.3 et 1.5.4 en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -1187,9 +1187,12 @@ Annexe 6*[^t-7]*
 
 ### 1.5 Mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2
 
-- 1\.5.1 La Confédération prend en charge les coûts pour la mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2 (*Variant of Concern*, VOC) uniquement après un résultat positif d’une analyse de biologie moléculaire.
+- 1\.5.1 La Confédération prend en charge les coûts pour la mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2 (*Variant of Concern*, VOC) uniquement après un résultat positif d’une analyse de biologie moléculaire, sur ordre du service cantonal compétent et si les résultats mènent à des mesures spécifiques du canton.
 - 1\.5.2 Elle prend en charge les coûts uniquement si les prestations sont fournies par les laboratoires visés à l’art. 54, al. 3, OAMal, et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
-- 1\.5.3 Elle prend en charge au maximum 106 francs pour la mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
+- 1\.5.3 La mise en évidence par biologie moléculaire peut être effectuée sur ordre du service cantonal compétent à l’aide de l’une des méthodes suivantes:
+- a. PCR spécifique aux mutations;
+- b. séquençage partiel du génome.
+- 1\.5.4 Elle prend en charge au maximum 106 francs pour la mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
@@ -1412,7 +1415,7 @@ Annexe 7*[^t-8]*
 
 ## Précisions médicales sur les maladies rendant vulnérables les personnes concernées
 
-[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 30 avr. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées), en vigueur depuis le 2 avr. 2021 ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
+[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mai 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées), en vigueur depuis le 2 avr. 2021 ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
 
 Selon l’état actuel de la science, seules certaines catégories d’adultes sont vulnérables. Partant, les critères ci-après concernent uniquement les adultes.
 

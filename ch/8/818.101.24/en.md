@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-04-26
+version: 2021-05-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210426/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210426-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210426/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210501/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210501-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 26 April 2021)
+of 19 June 2020 (Status as of 1 May 2021)
 
 The Swiss Federal Council,
 
@@ -600,7 +600,7 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 [^chap4a-1]
 
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)).
+[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 May 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)).
 
 #### Art. 27a
 
@@ -930,7 +930,7 @@ Annex 6*[^t-7]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O od 12 May 2021, in force since 12 Avril 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O od 12 May 2021, No 1.6.1 in force since 12 Avril 2021, No 1.5.1, 1.5.3 and 1.5.4 in force since 1 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1196,9 +1196,16 @@ Annex 6*[^t-7]*
 
 ### 1.5 Molecular-biological detection of one or more Sars-CoV-2 variants of concern
 
-- 1\.5.1 The Confederation shall pay the costs of the molecular-biological detection of one or more Sars-CoV-2 variants of concern (VOCs) only if a molecular-biological analysis produces a positive result.
+- 1\.5.1 On the order of the competent cantonal authority and provided the results lead to specific measures by the canton, the Confederation shall, if a molecular-biological analysis produces a positive result, pay the costs of the molecular-biological detection of one or more Sars-CoV-2 variants of concern (VOCs), but only.
 - 1\.5.2 It shall pay the costs only if the services are provided by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
-- 1\.5.3 It shall pay 106 francs for the molecular-biological detection of one or more Sars-CoV-2 variants of concern. The amount covers the following services and cost components:
+- 1\.5.3
+
+  On the order of the competent cantonal authority, molecular biological detection may be carried out by one of the following methods:
+
+  - [tab] a. mutation-specific PCR testing;
+  - [tab] b. partial genome sequencing.
+
+- 1\.5.4 It shall pay 106 francs for the molecular-biological detection of one or more Sars-CoV-2 variants of concern. The amount covers the following services and cost components:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
@@ -1212,9 +1219,9 @@ Annex 6*[^t-7]*
 
   The Confederation shall pay the costs of diagnostic sequencing for Sars-CoV-2 2 by means of whole genome sequencing only if ordered by the competent cantonal authority and only in the following cases:
 
-  - a. in cases where there is reasonable suspicion of the presence of a Sars-CoV-2 variant, in particular in the case of infection following vaccination, reinfection following previous disease or return from a country or region where a Sars-CoV-2 variant of concern is prevalent;
-  - b. targeted sequencing in the case of conspicuous outbreaks;
-  - c. targeted and random sequencing in the event of major outbreaks.
+  - [tab] a. in cases where there is reasonable suspicion of the presence of a Sars-CoV-2 variant, in particular in the case of infection following vaccination, reinfection following previous disease or return from a country or region where a Sars-CoV-2 variant of concern is prevalent;
+  - [tab] b. targeted sequencing in the case of conspicuous outbreaks;
+  - [tab] c. targeted and random sequencing in the event of major outbreaks.
 
 - 1\.6.2
 
@@ -1422,7 +1429,7 @@ Annex 7*[^t-8]*
 
 ## Medical specifications of diseases that make the persons concerned persons at high risk
 
-[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 April 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), and of 1 April 2021 (List of Diseases that place Persons at High Risk), in force since 2 April 2021 ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
+[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 May 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), and of 1 April 2021 (List of Diseases that place Persons at High Risk), in force since 2 April 2021 ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
