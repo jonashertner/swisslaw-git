@@ -3,11 +3,11 @@ sr: "916.404.1"
 title: Ordonnance du 26 octobre 2011 relative à la banque de données sur le trafic des animaux (Ordonnance sur la BDTA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/775"
 language: fr
-version: 2020-07-01
+version: 2021-05-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/775/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2011-775-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/775/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2011-775-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20200701/fr"
 
 (Ordonnance sur la BDTA)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> juillet 2020)
+du 26 octobre 2011 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -270,8 +270,11 @@ Pour ce qui est des unités d’élevage de volailles domestiques de plus de 250
 
 <sup>2</sup> Lors de la mise au poulailler d’un nouveau troupeau, le détenteur d’une unité d’élevage au sens de l’al. 1 doit notifier à l’exploitant les données énumérées à l’annexe 1, ch. 5.
 
+<sup>3</sup> Dans leurs notifications, les détenteurs d’animaux peuvent donner en outre des indications concernant le bâtiment[^8b-3].
+
 [^8b-1]: Introduit par l’annexe ch. 2 de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^8b-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)).
+[^8b-3]: Introduit par le ch.II de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219))
 
 #### Art. 9
 
@@ -798,7 +801,7 @@ Annexe 1*[^t-1]*
 
 ## Données à notifier à l’exploitant
 
-[^t-1]: Mise à jour selon le ch. II de l’O du 23 oct. 2013 ([RO 2013 3999](https://fedlex.data.admin.ch/eli/oc/2013/730)), l’annexe ch. 2 des O du 20 juin 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)) et du 28 oct. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)), le ch. II des O du 28 oct. 2015 ([RO 2015 4573](https://fedlex.data.admin.ch/eli/oc/2015/770)), du 16 sept. 2016 ([RO 2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570)), du 18 oct. 2017 ([RO 2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680)) et du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)).
+[^t-1]: Mise à jour selon le ch. II de l’O du 23 oct. 2013 ([RO 2013 3999](https://fedlex.data.admin.ch/eli/oc/2013/730)), l’annexe ch. 2 des O du 20 juin 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)) et du 28 oct. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)), le ch. II des O du 28 oct. 2015 ([RO 2015 4573](https://fedlex.data.admin.ch/eli/oc/2015/770)), du 16 sept. 2016 ([RO 2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570)), du 18 oct. 2017 ([RO 2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680)), du 25 avr. 2008 ([RO 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)) et par l'annexe ch.II du 31 mars 2021, en vigueur le 1 <sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 1. Données relatives aux bovins, aux buffles et aux bisons
 
@@ -1155,10 +1158,10 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
 Pour ce qui est des volailles domestiques, les données suivantes doivent être notifiées:
 
 - a. le numéro BDTA de l’unité d’élevage;
-- b. le numéro BDTA de l’unité d’élevage d’où proviennent les animaux, pour autant qu’il soit disponible;
-- c. le type de production (animaux d’élevage de type ponte, animaux d’élevage de type chair, poules pondeuses, poulets à l’engrais, dindes à l’engrais);
-- d. le nombre d’animaux introduits;
-- e. la date de la mise au poulailler;
+- b. le type de production (animaux d’élevage de type ponte, animaux d’élevage de type chair, poules pondeuses, poulets à l’engrais, dindes à l’engrais);
+- c. le nombre d’animaux introduits;
+- d. la date de la mise au poulailler;
+- e. l’âge en semaines lors de la mise au poulailler;
 - f. la date de la notification.
 
 Annexe 2

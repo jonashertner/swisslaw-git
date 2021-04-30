@@ -3,11 +3,11 @@ sr: "916.404.1"
 title: Ordinanza del 26 ottobre 2011 concernente la banca dati sul traffico di animali (Ordinanza BDTA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/775"
 language: it
-version: 2020-07-01
+version: 2021-05-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/775/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2011-775-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/775/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2011-775-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20200701/it"
 
 (Ordinanza BDTA)
 
-del 26 ottobre 2011 (Stato 1° luglio 2020)
+del 26 ottobre 2011 (Stato 1° maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -273,8 +273,11 @@ Per le aziende detentrici di pollame da cortile con oltre 250 posti per gli anim
 
 <sup>2</sup> Per la stabulazione di un nuovo effettivo, i detentori di animali delle aziende detentrici di cui al capoverso 1 devono notificare al gestore i dati di cui all’allegato 1 numero 5.
 
+<sup>3</sup> Nelle loro notifiche i detentori di animali possono fornire anche indicazioni sugli edifici di stabulazione.[^8b-3]
+
 [^8b-1]: Introdotto dall’all. n. 2 dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^8b-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)).
+[^8b-3]: Introdotto dall’all. n. 1 dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 9
 
@@ -462,7 +465,6 @@ I detentori presso i quali si è trovato l’animale, il macello nonché un even
 - a. i risultati della classificazione neutrale della qualità di cui all’articolo 3 capoverso 1 OBM;
 - b. il peso alla macellazione e il valore L\*;
 - c.[^16-6] i risultati del controllo degli animali da macello e del controllo delle carni in riferimento alla loro commestibilità.[^16-7]
-- [tab]
 
 <sup>2</sup>
 
@@ -721,7 +723,7 @@ Oltre ai dati di cui agli articoli 4–11 il gestore può trattare ulteriori dat
 
 [^27-1]: Nuovo testo giusta il n. I 13 dell’O del 4 set. 2013 (Riorganizzazione del settore della sicurezza alimentare e della veterinaria), in vigore dal 1° gen. 2014 ([RU 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
 [^27-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
-[^27-3]: Nuovo testo giusta l’all. 4 n. 9 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 (RU **2****020** 2441).
+[^27-3]: Nuovo testo giusta l’all. 4 n. 9 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^27-4]: Introdotto dall’all. 3 n. 6 dell’O del 23 ott. 2013 sul coordinamento dei controlli delle aziende agricole ([RU 2013 3867](https://fedlex.data.admin.ch/eli/oc/2013/712)). Abrogato dall’all. 4 n. 9 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^27-5]: Abrogato dall’all. 4 n. 9 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
@@ -800,7 +802,7 @@ Allegato 1*[^t-1]*
 
 ## Dati da notificare al gestore
 
-[^t-1]: Aggiornato dall’all. n. 1 dell’O del 30 nov. 2012 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)), dal n. II dell’O del 23 ott. 2013 ([RU 2013 3999](https://fedlex.data.admin.ch/eli/oc/2013/730)), dall’all. n. 2 dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)), dall’all. n. 2 dell’O del 28 ott. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)), dai n. II delle O del 28 ott. 2015 ([RU 2015 4573](https://fedlex.data.admin.ch/eli/oc/2015/770)), del 16 set. 2016 ([RU 2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570)), del 18 ott. 2017 ([RU 2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680)) e del 25 apr. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)).
+[^t-1]: Aggiornato dall’all. n. 1 dell’O del 30 nov. 2012 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)), dal n. II dell’O del 23 ott. 2013 ([RU 2013 3999](https://fedlex.data.admin.ch/eli/oc/2013/730)), dall’all. n. 2 dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)), dall’all. n. 2 dell’O del 28 ott. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)), dai n. II delle O del 28 ott. 2015 ([RU 2015 4573](https://fedlex.data.admin.ch/eli/oc/2015/770)), del 16 set. 2016 ([RU 2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570)), del 18 ott. 2017 ([RU 2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680)), del 25 apr. 2018 ([RU 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)) e dall’all. n. 1 dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 1. Dati per animali della specie bovina, bufali e bisonti
 
@@ -1156,11 +1158,11 @@ Per animali delle specie ovina e caprina devono essere notificati i seguenti dat
 
 Per il pollame da cortile devono essere notificati i seguenti dati:
 
-- a. il numero BDTA dell’azienda detentrice;
-- b. il numero BDTA dell’azienda di provenienza, se ne è stato attribuito uno;
-- c. il tipo di utilizzo (animali da allevamento delle razze ovaiole, animali da allevamento delle razze da ingrasso, galline ovaiole, polli da ingrasso, tacchini da ingrasso);
-- d. il numero degli animali stabulati;
-- e. la data della stabulazione;
+- a. il numero BDTA dell’azienda detentrice di animali;
+- b. il tipo di utilizzo (animali da allevamento delle razze ovaiole, animali da allevamento delle razze da ingrasso, galline ovaiole, polli da ingrasso, tacchini da ingrasso);
+- c. il numero degli animali stabulati;
+- d. la data della stabulazione;
+- e. l’età in settimane di vita al momento della stabulazione;
 - f. la data della notifica.
 
 Allegato 2

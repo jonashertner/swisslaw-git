@@ -3,11 +3,11 @@ sr: "916.404.1"
 title: Verordnung vom 26. Oktober 2011 über die Tierverkehrsdatenbank (TVD-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/775"
 language: de
-version: 2020-07-01
+version: 2021-05-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/775/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2011-775-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/775/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2011-775-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/775/20200701/de"
 
 (TVD-Verordnung)
 
-vom 26. Oktober 2011 (Stand am 1. Juli 2020)
+vom 26. Oktober 2011 (Stand am 1. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -273,8 +273,11 @@ Für Tierhaltungen mit Hausgeflügel mit mehr als 250 Plätzen für Zuchttiere, 
 
 <sup>2</sup> Bei der Einstallung einer neuen Herde müssen Tierhalterinnen und Tierhalter von Tierhaltungen nach Absatz 1 der Betreiberin die Daten nach Anhang 1 Ziffer 5 melden.
 
+<sup>3</sup> Die Tierhalterinnen und Tierhalter können bei ihren Meldungen zusätzlich Angaben zum Stallgebäude machen.[^8b-3]
+
 [^8b-1]: Eingefügt durch Anhang Ziff. 2 der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^8b-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)).
+[^8b-3]: Eingefügt durch Anhang Ziff. 1 der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 9
 
@@ -801,7 +804,7 @@ Anhang 1*[^t-1]*
 
 ## Der Betreiberin zu meldende Daten
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 30. Nov. 2012 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)), Ziff. II der V vom 23. Okt. 2013 ([AS 2013 3999](https://fedlex.data.admin.ch/eli/oc/2013/730)), Anhang Ziff. II der V vom 20. Juni 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)), Anhang Ziff. 2 der V vom 28. Okt. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4573](https://fedlex.data.admin.ch/eli/oc/2015/770)), 16. Sept. 2016 ([AS 2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570)), 18. Okt. 2017 ([AS 2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680)), vom 25. April 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)).
+[^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 30. Nov. 2012 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)), Ziff. II der V vom 23. Okt. 2013 ([AS 2013 3999](https://fedlex.data.admin.ch/eli/oc/2013/730)), Anhang Ziff. II der V vom 20. Juni 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)), Anhang Ziff. 2 der V vom 28. Okt. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4573](https://fedlex.data.admin.ch/eli/oc/2015/770)), vom 16. Sept. 2016 ([AS 2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570)), vom 18. Okt. 2017 ([AS 2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680)), vom 25. April 2018 ([AS 2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293)) und Anhang Ziff. 1 der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 ### 1. Daten zu Tieren der Rindergattung, Büffeln und Bisons
 
@@ -1158,11 +1161,12 @@ Zu den Tieren der Schaf- und Ziegengattung sind folgende Daten zu melden:
 Zu Hausgeflügel sind folgende Daten zu melden:
 
 - a. die TVD-Nummer der Tierhaltung;
-- b. die TVD-Nummer der Herkunftstierhaltung, sofern vorhanden;
-- c. die Nutzungsrichtung (Zuchttiere Legelinien, Zuchttiere Mastlinien, Legehennen, Mastpoulets, Masttruten);
-- d. die Anzahl der eingestallten Tiere;
-- e. das Datum der Einstallung;
+- b. die Nutzungsrichtung (Zuchttiere Legelinien, Zuchttiere Mastlinien, Legehennen, Mastpoulets, Masttruten);
+- c. die Anzahl der eingestallten Tiere;
+- d. das Datum der Einstallung;
+- e. das Alter in Lebenswochen bei der Einstallung;
 - f. das Datum der Meldung.
+- [tab]
 
 Anhang 2
 
