@@ -3,7 +3,7 @@ canton: VD
 number: "172.215.1.1"
 title: "ARRÊTÉ du 19.12.2018 sur la composition des départements et les noms des services de l'administration (AdésA)"
 language: fr
-version: 2020-05-01
+version: 2021-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.215.1.1?id=351b27a1-100f-425a-9f7b-d0a3e9d50d75"
 ---
 
@@ -54,12 +54,12 @@ arrête
 <sup>1</sup> Le Département de la formation, de la jeunesse et de la culture comprend les services suivants :
 
 - a. Secrétariat général.
-- b. Direction générale de l'enseignement obligatoire.
+- b. Direction générale de l'enseignement obligatoire et de la pédagogie spécialisée.
 - c. Direction générale de l'enseignement postobligatoire.
 - d. Direction générale de l'enseignement supérieur.
 - e. Service des affaires culturelles.
 - f. Service de protection de la jeunesse.
-- g. Service de l'enseignement spécialisé et de l'appui à la formation.
+- g. ...
 
 [^1-1]: Modif. 4 du 21.04.2021: Modification Al. 1, b; entrée en vigueur au 01.05.2021; Abrogation Al. 1, g; entrée en vigueur au 01.05.2021
 
