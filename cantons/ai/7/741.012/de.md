@@ -4,21 +4,22 @@ number: "741.012"
 title: Standeskommissionsbeschluss über das gebührenpflichtige Parkieren
 short: StKB Parkgebühren
 language: de
-version: 2016-10-01
-corrected: 2018-09-04
-version_adopted: 2015-10-20
+version: 2021-05-01
+valid_until: 2022-06-30
+version_adopted: 2021-04-13
 adopted: 2019-07-02
 in_force: 2019-07-09
 url: "https://ai.clex.ch/app/de/texts_of_law/741.012"
-pdf: "https://ai.clex.ch/api/de/versions/714/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1926/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über das gebührenpflichtige Parkieren
 
-vom 20. Oktober 20151
+(StKB Parkgebühren)
+
+vom 02.07.2019 (Stand 01.05.2021)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -30,7 +31,7 @@ beschliesst:
 
 **Zweck**
 
-Dieser Beschluss regelt das gebührenpflichtige Parkieren von Motorfahrzeugen und Anhängern.
+<sup>1</sup> Dieser Beschluss regelt das gebührenpflichtige Parkieren von Motorfahrzeugen und Anhängern.
 
 #### Art. 2
 
@@ -38,53 +39,90 @@ Dieser Beschluss regelt das gebührenpflichtige Parkieren von Motorfahrzeugen un
 
 <sup>1</sup> Der Vollzug obliegt dem Bezirk der gelegenen Sache.
 
-<sup>2</sup> Der zuständige Bezirksrat kann den Vollzug teilweise oder ganz an eine andere öffentlich-rechtliche Körperschaft übertragen oder einen gemeinsamen Vollzug beschliessen.
+<sup>2</sup> Der zuständige Bezirksrat kann den Vollzug teilweise oder ganz einer anderen öffentlich-rechtlichen Körperschaft übertragen oder einen gemeinsamen Vollzug beschliessen.
 
 #### Art. 3
 
-**Parkgebühr**
+**Gebührenpflichtige Parkplätze**
 
-<sup>1</sup> Für das Parkieren von Motorfahrzeugen und Anhängern auf den Parkierungsflächen gemäss Anhang werden Gebühren erhoben. Keine Gebühren werden für Motorfahrräder auf für sie vorgesehenen Flächen erhoben.
+<sup>1</sup> Für das Parkieren von Motorfahrzeugen und Anhängern auf den Parkplätzen gemäss Anhang werden Gebühren erhoben. Keine Gebühren werden für Motorfahrräder auf für sie vorgesehenen Flächen erhoben.
 
-<sup>2</sup> Die gebührenpflichtigen Parkierungsflächen sind mit dem Signal "Parkieren gegen Gebühr" zu kennzeichnen. Die Parkiermöglichkeit kann durch polizeiliche Anordnung zeitlich begrenzt oder anderweitig eingeschränkt werden.
+<sup>2</sup> Die gebührenpflichtigen Parkierungsflächen sind mit dem Signal «Parkieren gegen Gebühr» zu kennzeichnen. Die Parkiermöglichkeit kann durch polizeiliche Anordnung zeitlich begrenzt oder anderweitig eingeschränkt werden.
 
-<sup>3</sup> Die Gebührenpflicht gilt von Montag bis am Samstag von 08.00 bis 18.00 Uhr. Sonn- und Feiertage sind gebührenfrei.
+#### Art. 4
 
-<sup>4</sup> Es werden folgende Gebühren erhoben:
+**Private Parkplätze**
 
-bis 90 Minuten gratis danach für jede Stunde Fr. 1.-- ganzer Tag Fr. 8.-- Art. 4 Tages-, Monats- <sup>1</sup>Für gebührenpflichtige Parkierungsflächen können Tages-, Monats- oder Jahres- und Jahresbewil- bewilligungen gelöst werden, welche für die fragliche Dauer von der Entrichtung von ligungen Parkgebühren nach Art. 3 entbinden.
+<sup>1</sup> Werden private Parkplätze gemäss Strassenverkehrsgesetzgebung gebührenpflichtig erklärt, gehören die Parkgebühren den privaten Eigentümerinnen und Eigentümern. Sie können darüber frei verfügen.
 
-<sup>2</sup> Die Tagesbewilligung gilt für einen Tag, die Monatsbewilligung gilt für 30 aufeinanderfolgende Tage, die Jahresbewilligung für 365 aufeinanderfolgende Tage.
-
-<sup>3</sup> Die Gebühr beträgt für einen Tag Fr. 8.--, für einen Monat Fr. 80.-- und für ein Jahr Fr. 800.--.
+<sup>2</sup> Die Bezirke können mit privaten Eigentümerschaften gebührenpflichtiger Parkplätze Verträge über den Betrieb der Parkplätze abschliessen und darin insbesondere das Bereitstellen von Infrastruktur, den Unterhalt, den Kontrolldienst und die Abgeltung der Leistungen regeln.
 
 #### Art. 5
 
-Gültigkeitserfor- <sup>1</sup>Tages-, Monats- und Jahresbewilligungen gelten nur für die darauf angegebene dernisse Zeit und nur für die Fahrzeuge und Anhänger, auf deren Kontrollschilder sie ausgestellt sind.
+**Pauschalbewilligungen**
 
-<sup>2</sup> Tagesbewilligungen sind nur gültig, wenn auf ihnen mit nicht entfernbarer Schrift (Kugelschreiber, Filzstift oder Ähnliches) das vollständige Datum (Tag, Monat und
+<sup>1</sup> Für gebührenpflichtige Parkierungsflächen können Tages-, Monats-, Saison- oder Jahresbewilligungen abgegeben werden, welche für die fragliche Dauer von der Entrichtung einzelner Parkgebühren entbinden.
 
-Kalenderjahr) und die Kontrollschildnummer angegeben sind.
+<sup>2</sup> Die Bewilligungen gelten nur für die angegebene Zeit und nur für die Fahrzeuge und Anhänger, auf deren Kontrollschilder sie lauten.
 
 #### Art. 6
 
-Parkkarten <sup>1</sup>Bewilligungen werden in Form von Parkkarten abgegeben, welche am Fahrzeug oder Anhänger gut sichtbar anzubringen sind.
+**Vergünstigungen**
 
-<sup>2</sup> Parkkarten vermitteln keinen Anspruch auf einen Parkplatz.
+<sup>1</sup> Mitarbeitenden von Eigentümerschaften an privaten gebührenpflichtigen Parkflächen können für die betreffenden Parkplätze vergünstigte Parkbewilligungen angeboten werden.
 
 #### Art. 7
 
-Inkrafttreten Die Standeskommission setzt diesen Beschluss in Kraft.
+**Form der Bewilligungen**
 
-Gemäss StKB vom 20. September 2016 am 1. Oktober 2016 in Kraft getreten.
+<sup>1</sup> Die Bewilligungen werden physisch oder in elektronischer Form ausgestellt.
 
-**Anhang2**
+<sup>2</sup> Werden Pauschalbewilligungen als Parkkarten oder Billette abgegeben, sind diese am Fahrzeug oder Anhänger gut sichtbar anzubringen.
 
-### Gebührenpflichtige Flächen
+<sup>3</sup> Frei einsetzbare Parkkarten für Tagesbewilligungen sind nur gültig, wenn auf ihnen mit nicht entfernbarer Schrift (Kugelschreiber, Filzstift oder Ähnliches) das vollständige Datum (Tag, Monat und Kalenderjahr) und die Kontrollschildnummer angegeben sind.
 
-Zielparkplatz Brauereiparkplatz Hallenbadparkplatz Parkplätze zwischen Wühre- und Jakob-Signer-Strasse
+<sup>4</sup> Pauschalbewilligungen vermitteln keinen Anspruch auf einen Parkplatz.
 
-## Weitere Fussnoten
+#### Art. 8
 
-- [1] Mit Revision vom 16. August 2016.
-- [2] Abgeändert durch StKB vom 16. August 2016.
+**Gebühren Parkplätze A**
+
+<sup>1</sup> Die Gebührenpflicht gilt von Montag bis am Samstag von 08.00 bis 18.00 Uhr. Sonn- und Feiertage sind gebührenfrei.
+
+<sup>2</sup> Es werden folgende Gebühren erhoben:
+
+- a) bis 90 Minuten — gratis
+- b) danach für jede Stunde — Fr. 1.--
+- c) ganzer Tag — Fr. 8.--
+
+<sup>3</sup> Die Gebühr beträgt für eine Tageskarte Fr. 8.--, für eine Monatskarte Fr. 80.-- und für eine Jahreskarte Fr. 800.--.
+
+#### Art. 9
+
+**Gebühren Parkplätze B**
+
+<sup>1</sup> Die Gebührenpflicht gilt täglich rund um die Uhr.
+
+<sup>2</sup> Es werden folgende Gebühren erhoben:
+
+- 1\. bis 90 Minuten — gratis
+- 2\. bis drei Stunden — Fr. 3.--
+- 3\. ganzer Tag — Fr. 5.--
+
+<sup>3</sup> Es darf höchstens für sieben Tage durchgehend parkiert werden.
+
+<sup>4</sup> Die Gebühr beträgt für eine Tageskarte Fr. 5.--, für eine Monatskarte Fr. 50.--, für eine Saisonkarte (sechs Monate) Fr. 250.-- und für eine Jahreskarte Fr. 500.--.
+
+#### Art. 10
+
+**Aufhebung bestehenden Rechts**
+
+<sup>1</sup> Der Standeskommissionsbeschluss über das gebührenpflichtige Parkieren vom 20. Oktober 2015 wird aufgehoben.
+
+#### Art. 11
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieser Standeskommissionsbeschluss tritt am 9. Juli 2019 in Kraft.
+
+cGS 2019-8
