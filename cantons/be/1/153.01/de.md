@@ -4,13 +4,13 @@ number: "153.01"
 title: Personalgesetz
 short: PG
 language: de
-version: 2020-01-01
-valid_until: 2021-04-30
-version_adopted: 2019-03-07
+version: 2021-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-10
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1702/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2656/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1702/pdf_file"
 
 (PG)
 
-vom 16.09.2004 (Stand 01.01.2020)
+vom 16.09.2004 (Stand 01.05.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -321,7 +321,7 @@ beschliesst:
 
 <sup>1</sup> Das Arbeitsverhältnis ist in der Regel unbefristet. Ausnahmsweise kann im Arbeitsvertrag eine Befristung vorgesehen werden.
 
-<sup>2</sup> Das befristete Arbeitsverhältnis darf für eine Vertragsdauer von längstens fünf Jahren geschlossen werden. Ohne Unterbruch an-einandergereihte befristete Arbeitsverhältnisse, die zusammen über fünf Jahre dauern, gelten als ein unbefristetes Arbeitsverhältnis.
+<sup>2</sup> Das befristete Arbeitsverhältnis darf für eine Vertragsdauer von längstens fünf Jahren geschlossen werden. Ohne Unterbruch aneinandergereihte befristete Arbeitsverhältnisse, die zusammen über fünf Jahre dauern, gelten als ein unbefristetes Arbeitsverhältnis.
 
 #### Art. 17
 
@@ -337,7 +337,7 @@ beschliesst:
 
 <sup>2</sup> Abweichungen sind insbesondere zulässig für Beendigungsfristen und -gründe, Folgen der Beendigung, die Bemessung des Gehalts, die Regelung von Nebenbeschäftigung, Ferien und Urlaub.
 
-<sup>3</sup> Soweit nicht der Regierungsrat als Anstellungsbehörde für den Abschluss des Arbeitsvertrags zuständig ist, sind es die Direktionen oder die Staatskanzlei sowie die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit im Einvernehmen mit der zuständigen Stelle der Finanzdirektion. Der Arbeitsvertrag wird im Einvernehmen mit der Justiz-, Gemeinde- und Kirchendirektion abgeschlossen, wenn die Finanzdirektion betroffen ist.
+<sup>3</sup> Soweit nicht der Regierungsrat als Anstellungsbehörde für den Abschluss des Arbeitsvertrags zuständig ist, sind es die Direktionen oder die Staatskanzlei sowie die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit im Einvernehmen mit der zuständigen Stelle der Finanzdirektion. Der Arbeitsvertrag wird im Einvernehmen mit der Direktion für Inneres und Justiz abgeschlossen, wenn die Finanzdirektion betroffen ist.
 
 <sup>4</sup> Die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft sind in ihrem jeweiligen Bereich zuständig für den Abschluss punktuell abweichender Arbeitsverträge. Die zuständige Stelle der Finanzdirektion nimmt vorgängig dazu Stellung.
 
@@ -440,7 +440,7 @@ beschliesst:
 
 <sup>2</sup> Abweichungen von diesem Gesetz sind zulässig betreffend Kündigungsfrist (Art. 25 Abs. 1) und Abgangsentschädigung (Art. 32), wobei die Abgangsentschädigung den gesetzlich vorgesehenen Maximalbetrag nicht überschreiten darf. Überdies können Beiträge an die Kosten einer externen Unterstützung bei der beruflichen Neuorientierung gewährt werden.
 
-<sup>3</sup> Soweit nicht der Regierungsrat als Anstellungsbehörde für den Abschluss der Austrittsvereinbarung zuständig ist, sind es die Direktionen oder die Staatskanzlei sowie für ihren jeweiligen Bereich die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit im Einvernehmen mit der zuständigen Stelle der Finanzdirektion. Die Austrittsvereinbarung wird im Einvernehmen mit der Justiz-, Gemeinde- und Kirchendirektion abgeschlossen, wenn die Finanzdirektion betroffen ist.
+<sup>3</sup> Soweit nicht der Regierungsrat als Anstellungsbehörde für den Abschluss der Austrittsvereinbarung zuständig ist, sind es die Direktionen oder die Staatskanzlei sowie für ihren jeweiligen Bereich die diesem Gesetz unterstellten Anstalten mit eigener Rechtspersönlichkeit im Einvernehmen mit der zuständigen Stelle der Finanzdirektion. Die Austrittsvereinbarung wird im Einvernehmen mit der Direktion für Inneres und Justiz abgeschlossen, wenn die Finanzdirektion betroffen ist.
 
 <sup>4</sup> Die Justizleitung, das Obergericht, das Verwaltungsgericht, die übrigen verwaltungsunabhängigen Verwaltungsjustizbehörden und die Generalstaatsanwaltschaft sind für ihren jeweiligen Bereich zuständig für den Abschluss von Austrittsvereinbarungen. Die zuständige Stelle der Finanzdirektion nimmt vorgängig dazu Stellung.
 
@@ -535,7 +535,7 @@ beschliesst:
 
 <sup>1</sup> Kündigt die Anstellungsbehörde das Arbeitsverhältnis, wird festgestellt, ob die Entlassung im Sinn der Anspruchsvoraussetzungen für besondere vorsorgerechtliche Leistungen bzw. für die Abgangsentschädigung unverschuldet ist oder nicht. Diese Feststellung ist für die Vorsorgeeinrichtung unter Vorbehalt des Entscheides der BVG-Rechtspflegeinstanzen verbindlich.
 
-<sup>2</sup> Zuständig für die Verschuldensfeststellung ist die Direktion oder die Staatskanzlei im Einvernehmen mit der Finanzdirektion, wenn sie selber oder eine ihr unterstellte Organisationseinheit Anstellungsbehörde ist. Das Verschulden wird im Einvernehmen mit der Justiz-, Gemeinde- und Kirchendirektion festgestellt, wenn die Finanzdirektion betroffen ist.
+<sup>2</sup> Zuständig für die Verschuldensfeststellung ist die Direktion oder die Staatskanzlei im Einvernehmen mit der Finanzdirektion, wenn sie selber oder eine ihr unterstellte Organisationseinheit Anstellungsbehörde ist. Das Verschulden wird im Einvernehmen mit der Direktion für Inneres und Justiz festgestellt, wenn die Finanzdirektion betroffen ist.
 
 <sup>3</sup> Der Regierungsrat stellt das Verschulden fest, wenn er Anstellungsbehörde ist. Die zuständige Behörde gemäss Absatz 2 kann den Entscheid der Verschuldensfeststellung an den Regierungsrat überweisen, wenn das Verschulden verwaltungsintern umstritten ist.
 
@@ -1302,7 +1302,7 @@ beschliesst:
 
 - a die zuständige Stelle der Finanzdirektion, wenn Gehaltsansprüche umstritten sind,
 - b die zuständige Stelle der Finanzdirektion bzw. die Justizleitung, wenn über Rückgriffsansprüche nach Artikel 102 oder über Haftungsansprüche nach Artikel 103 zu entscheiden ist,
-- c die Anstellungsbehörde, die zuständige Stelle der Justiz-, Gemeinde- und Kirchendirektion oder die am Vertragsverhältnis für den Kanton beteiligte Organisationseinheit in den übrigen Fällen sowie bei Streitigkeiten über den Gehaltsaufstieg nach Artikel 72.
+- c die Anstellungsbehörde, die zuständige Stelle der Direktion für Inneres und Justiz oder die am Vertragsverhältnis für den Kanton beteiligte Organisationseinheit in den übrigen Fällen sowie bei Streitigkeiten über den Gehaltsaufstieg nach Artikel 72.
 
 <sup>3</sup> Das Verfahren ist kostenlos.
 

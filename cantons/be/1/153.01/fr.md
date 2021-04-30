@@ -4,13 +4,13 @@ number: "153.01"
 title: Loi sur le personnel
 short: LPers
 language: fr
-version: 2020-01-01
-valid_until: 2021-04-30
-version_adopted: 2019-03-07
+version: 2021-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-10
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1702/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2656/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1702/pdf_file"
 
 (LPers)
 
-du 16.09.2004 (état au 01.01.2020)
+du 16.09.2004 (état au 01.05.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -337,7 +337,7 @@ arrête:
 
 <sup>2</sup> Des dérogations sont notamment autorisées en ce qui concerne les délais et les motifs de résiliation, les conséquences de la résiliation, le calcul du traitement, la réglementation des activités accessoires, les vacances et les congés.
 
-<sup>3</sup> A moins que le Conseil-exécutif ne soit, en qualité d’autorité d’engagement, compétent pour conclure le contrat de travail, la compétence en incombe aux Directions ou à la Chancellerie d’Etat ainsi qu’aux établissements dotés de la personnalité juridique soumis à la présente loi, d’entente avec le service compétent de la Direction des finances. Le contrat de travail est conclu d’entente avec la Direction de la justice, des affaires communales et des affaires ecclésiastiques lorsque la Direction des finances est concernée.
+<sup>3</sup> A moins que le Conseil-exécutif ne soit, en qualité d’autorité d’engagement, compétent pour conclure le contrat de travail, la compétence en incombe aux Directions ou à la Chancellerie d’Etat ainsi qu’aux établissements dotés de la personnalité juridique soumis à la présente loi, d’entente avec le service compétent de la Direction des finances. Le contrat de travail est conclu d’entente avec la Direction de l’intérieur et de la justice lorsque la Direction des finances est concernée.
 
 <sup>4</sup> La Direction de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général sont compétents pour conclure, dans leurs domaines respectifs, des contrats de travail dérogeant ponctuellement aux dispositions de la législation sur le personnel. Le service compétent de la Direction des finances prend position au préalable.
 
@@ -440,7 +440,7 @@ arrête:
 
 <sup>2</sup> Des dérogations à la présente loi sont admises quant au délai de préavis (art. 25, al. 1) et à l’indemnité de départ (art. 32), le montant de celle-ci ne devant par ailleurs pas excéder le maximum prévu par la loi. Des contributions peuvent en outre être octroyées au coût d’une aide extérieure à la réorientation professionnelle.
 
-<sup>3</sup> A moins que le Conseil-exécutif ne soit, en qualité d’autorité d’engagement, compétent pour conclure la convention de départ, la compétence en incombe aux Directions ou à la Chancellerie d’Etat ainsi que, pour leurs domaines respectifs, aux établissements dotés de la personnalité juridique soumis à la présente loi, d’entente avec le service compétent de la Direction des finances. La convention de départ est conclue d’entente avec la Direction de la justice, des affaires communales et des affaires ecclésiastiques lorsque la Direction des finances est concernée.
+<sup>3</sup> A moins que le Conseil-exécutif ne soit, en qualité d’autorité d’engagement, compétent pour conclure la convention de départ, la compétence en incombe aux Directions ou à la Chancellerie d’Etat ainsi que, pour leurs domaines respectifs, aux établissements dotés de la personnalité juridique soumis à la présente loi, d’entente avec le service compétent de la Direction des finances. La convention de départ est conclue d’entente avec la Direction de l’intérieur et de la justice lorsque la Direction des finances est concernée.
 
 <sup>4</sup> La Direction de la magistrature, la Cour suprême, le Tribunal administratif, les autres autorités de justice administrative indépendantes de l’administration et le Parquet général sont compétents pour conclure les conventions de départ dans leurs domaines respectifs. Le service compétent de la Direction des finances prend position au préalable.
 
@@ -535,7 +535,7 @@ arrête:
 
 <sup>1</sup> Si l’autorité d'engagement résilie les rapports de travail, elle détermine si le licenciement est fautif ou non au sens des conditions fixées pour bénéficier de prestations de prévoyance spéciales ou de l’indemnité de départ. Cette détermination lie l’institution de prévoyance, sous réserve de la décision de l’instance juridictionnelle compétente en vertu de la loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP).
 
-<sup>2</sup> La détermination de la faute incombe à la Direction concernée ou la Chancellerie d’Etat d’entente avec la Direction des finances lorsque l’autorité d'engagement est la Direction elle-même ou l’une des unités administratives qui lui sont subordonnées. La détermination de la faute intervient d’entente avec la Direction de la justice, des affaires communales et des affaires ecclésiastiques lorsque la Direction des finances est concernée.
+<sup>2</sup> La détermination de la faute incombe à la Direction concernée ou la Chancellerie d’Etat d’entente avec la Direction des finances lorsque l’autorité d'engagement est la Direction elle-même ou l’une des unités administratives qui lui sont subordonnées. La détermination de la faute intervient d’entente avec la Direction de l’intérieur et de la justice lorsque la Direction des finances est concernée.
 
 <sup>3</sup> La détermination de la faute incombe au Conseil-exécutif lorsqu’il est lui-même l’autorité d'engagement. L’autorité compétente conformément à l’alinéa 2 peut déférer la détermination de la faute au Conseil-exécutif si la faute prête à contestation à l’intérieur de l’administration.
 
@@ -1304,7 +1304,7 @@ arrête:
 
 - a le service compétent de la Direction des finances lorsque le litige porte sur des prétentions salariales;
 - b le service compétent de la Direction des finances ou la Direction de la magistrature lorsque le litige porte sur des prétentions récursoires en vertu de l’article 102 ou des prétentions en responsabilité en vertu de l’article 103;
-- c l’autorité d'engagement, le service compétent de la Direction de la justice, des affaires communales et des affaires ecclésiastique ou l’unité administrative qui est partie au contrat pour le canton dans les autres cas de litiges, y compris les litiges portant sur la progression du traitement conformément à l’article 72.
+- c l’autorité d'engagement, le service compétent de la Direction de l'intérieur et de la justice ou l’unité administrative qui est partie au contrat pour le canton dans les autres cas de litiges, y compris les litiges portant sur la progression du traitement conformément à l’article 72.
 
 <sup>3</sup> La procédure est gratuite.
 
