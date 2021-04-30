@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2020-08-01
-valid_until: 2021-04-30
-version_adopted: 2020-07-09
+version: 2021-05-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-30
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1934/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2262/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1934/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.08.2020)
+vom 06.04.2006 (Stand 01.05.2021)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -252,7 +252,7 @@ beschliesst:
 
 **Massnahmen**
 
-<sup>1</sup> Massnahmen zur Lehrstellenförderung im Bereich Gesundheitsberufe sind mit der Gesundheits- und Fürsorgedirektion abzusprechen.
+<sup>1</sup> Massnahmen zur Lehrstellenförderung im Bereich Gesundheitsberufe sind mit der Gesundheits-, Sozial- und Integrationsdirektion abzusprechen.
 
 #### Art. 8
 
@@ -1243,7 +1243,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Abteilung Betriebliche Bildung des Mittelschul- und Berufsbildungsamts koordiniert das Qualifikationsverfahren bei nicht formal erworbener Bildung zum Erwerb eines eidgenössisch anerkannten Abschlusses. Die Organisationen der Arbeitswelt, die Berufsfachschulen und die Abteilung Weiterbildung und höhere Berufsbildung des Mittelschul- und Berufsbildungsamts sind beizuziehen.
+<sup>1</sup> Die Abteilung Betriebliche Bildung des Mittelschul- und Berufsbildungsamts koordiniert das Qualifikationsverfahren bei nicht formal erworbener Bildung zum Erwerb eines eidgenössisch anerkannten Abschlusses. Die Organisationen der Arbeitswelt, die Berufsfachschulen und die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts sind beizuziehen.
 
 <sup>2</sup> Es gelten die Qualitätsvorgaben des Bundes oder die interkantonal vereinbarten Vorgaben.
 
@@ -1256,12 +1256,12 @@ beschliesst:
 <sup>1</sup> Geförderte Angebote
 
 - a werden von Institutionen angeboten, welche die konfessionelle, politische und wirtschaftliche Unabhängigkeit des Angebots gewährleisten,
-- b richten sich vorwiegend an Bewohnerinnen und Bewohner des Kantons Bern,
+- b richten sich vorwiegend an Bewohnerinnen und Bewohner des Kantons,
 - c werden in der Regel öffentlich ausgeschrieben und sind allgemein zugänglich,
-- d dauern mindestens 6 Stunden oder entsprechend der festgelegten Mindestdauer und
-- e dauern pro Tag höchstens 8 Stunden.
+- d dauern mindestens sechs Stunden oder entsprechend der festgelegten Mindestdauer und
+- e dauern pro Tag höchstens acht Stunden.
 
-<sup>2</sup> Die Mindestzahl der Teilnehmenden wird von der Abteilung Weiterbildung und höhere Berufsbildung des Mittelschul- und Berufsbildungsamts festgelegt.
+<sup>2</sup> Die Mindestzahl der Teilnehmenden wird von der Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts festgelegt.
 
 <sup>3</sup> Ein allfälliger Nettoertragsüberschuss der Institution darf fünf Prozent der Gesamtkosten des geförderten Angebots nicht übersteigen. Er ist zweckgebunden für die Belange des geförderten Angebots einzusetzen. Die Anbieterorganisation legt über dessen Verwendung Rechenschaft ab.
 
@@ -1285,10 +1285,10 @@ beschliesst:
 - a Personen mit einer Beeinträchtigung durch Behinderung, Krankheit oder Abhängigkeiten,
 - b Wiedereinsteigerinnen und Wiedereinsteiger,
 - c Umsteigerinnen und Umsteiger,
-- d Personen, welche von tief greifenden wirtschaftlichen und technologischen Veränderungen betroffen sind, und
-- e Personen, welche in der Weiterbildung tätig sind.
+- d Personen, die von tief greifenden wirtschaftlichen und technologischen Veränderungen betroffen sind, und
+- e Personen, die in der Weiterbildung tätig sind.
 
-<sup>3</sup> Die Abteilung Weiterbildung und höhere Berufsbildung des Mittelschul- und Berufsbildungsamts kann begleitende Kinderbetreuung bewilligen. Der Beitrag je Kursstunde kann um 40 Franken pro Person, welche die Kinder betreut, erhöht werden. Die Kursgebühr muss auch einen Beitrag an die Kinderbetreuung beinhalten.
+<sup>3</sup> Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts kann begleitende Kinderbetreuung bewilligen. Der Beitrag je Kursstunde kann um 40 Franken pro Person, welche die Kinder betreut, erhöht werden. Die Kursgebühr muss auch einen Beitrag an die Kinderbetreuung beinhalten.
 
 <sup>4</sup> …
 
@@ -1302,7 +1302,7 @@ beschliesst:
 - b Grundwissen in Alltagsgestaltung (Haushaltführung, Konsum, Gesundheit),
 - c Vereinbarkeit der Lebens- und Arbeitswelten (work-life-balance),
 - d gesellschaftlicher Wandel und seine Auswirkungen (Technologie, Wirtschaft, Migration, Werte und Normen),
-- e Angebote, welche zum interkulturellen Austausch und zur kulturellen Identität beitragen, um die Integration in die Gesellschaft und in die Arbeitswelt zu unterstützen,
+- e Angebote, die zum interkulturellen Austausch und zur kulturellen Identität beitragen, um die Integration in die Gesellschaft und in die Arbeitswelt zu unterstützen,
 - f Kommunikation und Konfliktbewältigung,
 - g Bildung zu Fragen nachhaltiger Entwicklung,
 - h politische Bildung und Partizipation,
@@ -1311,11 +1311,11 @@ beschliesst:
 
 <sup>2</sup> Es werden höchstens 40 Prozent an die Kosten oder folgende Pauschalbeiträge je Kursstunde zu 60 Minuten geleistet:
 
-- a 60 Franken bei einem Kursleitenden und mindestens acht Teilnehmenden,
-- b 105 Franken bei zwei Kursleitenden und mindestens 16 Teilnehmenden,
-- c 150 Franken bei drei Kursleitenden und mindestens 24 Teilnehmenden.
+- a 60 Franken bei einer Kursleiterin oder einem Kursleiter und mindestens acht Teilnehmerinnen und Teilnehmern,
+- b 105 Franken bei zwei Kursleiterinnen und Kursleitern und mindestens 16 Teilnehmerinnen und Teilnehmern,
+- c 150 Franken bei drei Kursleiterinnen und Kursleitern und mindestens 24 Teilnehmerinnen und Teilnehmern.
 
-<sup>3</sup> Die Abteilung Weiterbildung und höhere Berufsbildung des Mittelschul- und Berufsbildungsamts kann begleitende Kinderbetreuung bewilligen. Der Beitrag je Kursstunde kann um 40 Franken pro Person, welche die Kinder betreut, erhöht werden. Die Kursgebühr muss auch einen Beitrag an die Kinderbetreuung beinhalten.
+<sup>3</sup> Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts kann begleitende Kinderbetreuung bewilligen. Der Beitrag je Kursstunde kann um 40 Franken pro Person, welche die Kinder betreut, erhöht werden. Die Kursgebühr muss auch einen Beitrag an die Kinderbetreuung beinhalten.
 
 #### Art. 78
 
@@ -1346,7 +1346,7 @@ beschliesst:
 - b Am Beratungsprozess beteiligt sind mindestens sechs Personen (exklusive Beratungsperson).
 - c Die Dauer der Beratung ist auf maximal 20 Stunden begrenzt (inklusive Vorgespräch).
 - d Ein Abbruch der Beratung setzt eine Auswertung zwischen Ratsuchenden und Beratungsperson voraus.
-- e Die Abteilung Weiterbildung und höhere Berufsbildung des Mittelschul- und Berufsbildungsamts wird bei der Abrechnung über das Ergebnis der Beratung, nicht aber über den Beratungsprozess informiert.
+- e Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts wird bei der Abrechnung über das Ergebnis der Beratung, nicht aber über den Beratungsprozess informiert.
 
 <sup>3</sup> Der Beitrag beträgt 80 Prozent der Honorarkosten der Beratung bis zu einem Maximalbeitrag von 150 Franken pro Beratungsstunde sowie die Fahrspesen bis zur Höhe der öffentlichen Verkehrsmittel 2. Klasse.
 
@@ -1664,6 +1664,18 @@ beschliesst:
 </table>
 
 <sup>2</sup> Im Übrigen gilt auch im Kursjahr 2020 Artikel 78.
+
+## T6 Übergangsbestimmungen der Änderung vom 30.03.2021
+
+#### Art. T6-1
+
+**Beiträge an zielgruppen- und themenspezifische Weiterbildungsangebote im Kursjahr 2021**
+
+<sup>1</sup> Die definitiven Beiträge an die Weiterbildungsangebote des Kursjahres 2021 gemäss Artikel 76 berechnen sich aufgrund der jeweils geltenden Prozentsätze an die Gesamtkosten. Die Höchstbeträge je Kursstunde finden keine Anwendung.
+
+<sup>2</sup> Die definitiven Beiträge an die Weiterbildungsangebote des Kursjahres 2021 gemäss Artikel 77, die 20'000 Franken übersteigen, berechnen sich aufgrund des geltenden Prozentsatzes an die Kosten. Die Pauschalbeiträge je Kursstunde finden keine Anwendung.
+
+<sup>3</sup> Das zugesicherte Kostendach für einen im Zeitpunkt der Inkraftsetzung dieser Änderung gewährten Beitrag bleibt unverändert bestehen.
 
 Bern, 6. April 2006
 

@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2020-08-01
-valid_until: 2021-04-30
-version_adopted: 2020-07-09
+version: 2021-05-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-30
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1934/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2262/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1934/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.08.2020)
+du 06.04.2006 (état au 01.05.2021)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -33,7 +33,7 @@ arrête:
 
 #### Art. 1
 
-<sup>1</sup> Pour autant que la Section de la formation en entreprise ou la Section des écoles professionnelles soient déclarées compétentes ci-après, la Section francophone de l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle est compétente pour les élèves et les écoles francophones.
+<sup>1</sup> Pour autant que la Section de la formation en entreprise ou la Section des écoles professionnelles soient déclarées compétentes ci-après, la Section francophone de l'Office des écoles moyennes et de la formation professionnelle est compétente pour les élèves et les écoles francophones.
 
 ## 2 Formation initiale
 
@@ -191,7 +191,7 @@ arrête:
 
 <sup>3</sup> La direction d'école statue par voie de décision sur l'admission.
 
-<sup>4</sup> Si les candidats et les candidates remplissant les conditions d'admission sont plus nombreux que les places disponibles, l'admission s'effectue en fonction de la date à laquelle le contrat de préapprentissage est parvenu à l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+<sup>4</sup> Si les candidats et les candidates remplissant les conditions d'admission sont plus nombreux que les places disponibles, l'admission s'effectue en fonction de la date à laquelle le contrat de préapprentissage est parvenu à l'Office des écoles moyennes et de la formation professionnelle.
 
 #### Art. 4e
 
@@ -224,7 +224,7 @@ arrête:
 
 <sup>2</sup> La direction d'école statue par voie de décision sur l'admission.
 
-<sup>3</sup> Si les candidats et les candidates remplissant les conditions d'admission sont plus nombreux que les places disponibles, l'admission s'effectue en fonction de la date à laquelle le contrat de préapprentissage est parvenu à l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+<sup>3</sup> Si les candidats et les candidates remplissant les conditions d'admission sont plus nombreux que les places disponibles, l'admission s'effectue en fonction de la date à laquelle le contrat de préapprentissage est parvenu à l'Office des écoles moyennes et de la formation professionnelle.
 
 #### Art. 5a
 
@@ -250,7 +250,7 @@ arrête:
 
 **Mesures**
 
-<sup>1</sup> Les mesures de promotion des places d’apprentissage dans le domaine de la santé doivent être prises en concertation avec la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Les mesures de promotion des places d’apprentissage dans le domaine de la santé doivent être prises en concertation avec la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 8
 
@@ -265,7 +265,7 @@ arrête:
 <sup>1</sup> La direction d’école
 
 - a organise et entretient la collaboration avec le conseil d’école;
-- b conclut la convention de prestations avec l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle;
+- b conclut la convention de prestations avec l’Office des écoles moyennes et de la formation professionnelle;
 - c établit la planification des finances et des investissements;
 - d est responsable de l’organisation structurelle et fonctionnelle;
 - e veille à une communication interne et externe appropriée;
@@ -302,7 +302,7 @@ arrête:
 
 <sup>1</sup> L’année scolaire dure en règle générale 38 semaines pour les personnes en formation. En cas d’organisation particulière de l’enseignement, telle que l’année initiale d’apprentissage ou l’enseignement sous forme de blocs, les dispositions s’appliquent par analogie.
 
-<sup>2</sup> L’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle peut autoriser des exceptions dans des cas justifiés.
+<sup>2</sup> L’Office des écoles moyennes et de la formation professionnelle peut autoriser des exceptions dans des cas justifiés.
 
 <sup>3</sup> Il peut fixer la date du début ou de la fin des vacances, dans l’intérêt d’une coordination cantonale ou intercantonale.
 
@@ -320,7 +320,7 @@ arrête:
 
 <sup>2</sup> Pour les filières de la formation professionnelle supérieure, la direction d’école peut fixer le début de l’année scolaire à une autre date.
 
-<sup>3</sup> La Section des écoles professionnelles de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle peut autoriser des exceptions pour des modèles de formation particuliers du degré secondaire II.
+<sup>3</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle peut autoriser des exceptions pour des modèles de formation particuliers du degré secondaire II.
 
 #### Art. 12
 
@@ -336,9 +336,9 @@ arrête:
 
 <sup>1</sup> Le nombre de personnes en formation par classe dans les années scolaires de préparation professionnelle est réglé dans le plan d’études correspondant.
 
-<sup>2</sup> Dans les autres formations transitoires ainsi que dans la formation professionnelle initiale, les classes comprennent en règle générale au plus 24 personnes en formation. La Section des écoles professionnelles de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle statue sur les exceptions.
+<sup>2</sup> Dans les autres formations transitoires ainsi que dans la formation professionnelle initiale, les classes comprennent en règle générale au plus 24 personnes en formation. La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle statue sur les exceptions.
 
-<sup>3</sup> Si une classe compte moins de dix personnes en formation, l’école doit disposer d’une autorisation dérogatoire délivrée par la Section des écoles professionnelles de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle. Celle-ci vérifie si des solutions intercantonales peuvent être trouvées ou si des classes par domaine professionnel ou comprenant plusieurs volées peuvent être organisées.
+<sup>3</sup> Si une classe compte moins de dix personnes en formation, l’école doit disposer d’une autorisation dérogatoire délivrée par la Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle. Celle-ci vérifie si des solutions intercantonales peuvent être trouvées ou si des classes par domaine professionnel ou comprenant plusieurs volées peuvent être organisées.
 
 <sup>4</sup> Dans la formation professionnelle initiale sanctionnée par une attestation professionnelle fédérale (APF), les classes comprennent en règle générale 12 à 15 élèves.
 
@@ -358,7 +358,7 @@ arrête:
 
 **Fréquentation scolaire intercantonale**
 
-<sup>1</sup> La Section des écoles professionnelles de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle autorise les personnes en formation, sur demande motivée, à fréquenter une école en dehors du canton, pour autant que cela décharge considérablement les personnes concernées.
+<sup>1</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle autorise les personnes en formation, sur demande motivée, à fréquenter une école en dehors du canton, pour autant que cela décharge considérablement les personnes concernées.
 
 #### Art. 16
 
@@ -400,11 +400,11 @@ arrête:
 
 <sup>1</sup> Les personnes souhaitant fréquenter une école professionnelle doivent posséder un contrat d’apprentissage ou un contrat de préapprentissage approuvé.
 
-<sup>2</sup> Les personnes adultes au sens de l’article 32 de l’ordonnance fédérale du 19 novembre 2003 sur la formation professionnelle (OFPr)[^20-1] souhaitant fréquenter une école professionnelle doivent présenter une autorisation de la Section de la formation en entreprise de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+<sup>2</sup> Les personnes adultes au sens de l’article 32 de l’ordonnance fédérale du 19 novembre 2003 sur la formation professionnelle (OFPr)[^20-1] souhaitant fréquenter une école professionnelle doivent présenter une autorisation de la Section de la formation en entreprise de l’Office des écoles moyennes et de la formation professionnelle.
 
-<sup>3</sup> En cas de rupture du contrat d’apprentissage, la personne en formation peut continuer de fréquenter l’école professionnelle pendant une durée maximale de trois mois. La Section de la formation en entreprise de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle statue par voie de décision sur les exceptions.
+<sup>3</sup> En cas de rupture du contrat d’apprentissage, la personne en formation peut continuer de fréquenter l’école professionnelle pendant une durée maximale de trois mois. La Section de la formation en entreprise de l’Office des écoles moyennes et de la formation professionnelle statue par voie de décision sur les exceptions.
 
-<sup>4</sup> Les personnes en préapprentissage sont autorisées à fréquenter l'école professionnelle pendant six semaines scolaires au maximum après la résiliation de leur contrat de préapprentissage. La Section de la formation en entreprise de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle statue par voie de décision sur les exceptions.
+<sup>4</sup> Les personnes en préapprentissage sont autorisées à fréquenter l'école professionnelle pendant six semaines scolaires au maximum après la résiliation de leur contrat de préapprentissage. La Section de la formation en entreprise de l’Office des écoles moyennes et de la formation professionnelle statue par voie de décision sur les exceptions.
 
 [^20-1]: RS 412.101
 
@@ -416,7 +416,7 @@ arrête:
 
 <sup>2</sup> Le nombre de leçons octroyées aux écoles proposant la maturité professionnelle (MP), par année scolaire, pour les cours d'appui et les cours facultatifs s'élève à trois pour cent au maximum des leçons prévues pour la formation initiale sans MP, auxquels s'ajoutent trois pour cent des leçons prévues pour la formation initiale, y compris les leçons de la MP 1 et de la MP 2.
 
-<sup>3</sup> La Section des écoles professionnelles de l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle statue sur les exceptions.
+<sup>3</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle statue sur les exceptions.
 
 <sup>4</sup> Les personnes qui suivent un cours d'appui ne peuvent en règle générale pas suivre de cours facultatifs. La direction d'école statue par voie de décision sur les exceptions.
 
@@ -1099,7 +1099,7 @@ arrête:
 
 **Certificats de maturité professionnelle**
 
-<sup>1</sup> Les certificats de maturité professionnelle et les bulletins de notes égarés sont remplacés par un duplicata signé par le chef ou la cheffe de la Section des écoles professionnelles de l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+<sup>1</sup> Les certificats de maturité professionnelle et les bulletins de notes égarés sont remplacés par un duplicata signé par le chef ou la cheffe de la Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle.
 
 #### Art. 60
 
@@ -1141,7 +1141,7 @@ arrête:
 
 **Responsables des examens**
 
-<sup>1</sup> Le ou la responsable des examens de la Section de la formation en entreprise de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle a b
+<sup>1</sup> Le ou la responsable des examens de la Section de la formation en entreprise de l’Office des écoles moyennes et de la formation professionnelle
 
 - a assure le secrétariat de la Commission cantonale d’examen;
 - b organise et coordonne la procédure de qualification en collaboration avec l’expert ou l’experte en chef des groupes d’examen et les écoles professionnelles concernées;
@@ -1241,7 +1241,7 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> La Section de la formation en entreprise de l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle coordonne la procédure de qualification visant à l'obtention d'un titre de fin d'études reconnu par la Confédération en cas de formation acquise par des voies informelles. Les organisations du monde du travail, les écoles professionnelles ainsi que la Section de la formation continue et de la formation professionnelle supérieure de l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle doivent être consultées.
+<sup>1</sup> La Section de la formation en entreprise de l'Office des écoles moyennes et de la formation professionnelle coordonne la procédure de qualification visant à l'obtention d'un titre de fin d'études reconnu par la Confédération en cas de formation acquise par des voies informelles. Les organisations du monde du travail, les écoles professionnelles ainsi que la Section de la formation continue et de la formation professionnelle supérieure de l'Office des écoles moyennes et de la formation professionnelle doivent être consultées.
 
 <sup>2</sup> Les prescriptions en matière de qualité édictées par la Confédération ou les prescriptions convenues au niveau intercantonal sont applicables.
 
@@ -1254,12 +1254,12 @@ arrête:
 <sup>1</sup> Les formations encouragées
 
 - a sont proposées par des institutions qui en garantissent la neutralité confessionnelle, politique et économique;
-- b s’adressent principalement aux habitants et habitantes du canton de Berne;
+- b s’adressent principalement aux habitants et aux habitantes du canton;
 - c sont en règle générale annoncées publiquement et accessibles à tout le monde;
 - d durent au moins six heures ou ont une durée conforme à la durée minimale fixée;
 - e durent au plus huit heures par jour.
 
-<sup>2</sup> Le nombre minimum de participants et de participantes est fixé par la Section de la formation continue et de la formation professionnelle supérieure de l'Office de l'enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle.
+<sup>2</sup> Le nombre minimum de participants et de participantes est fixé par la Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle.
 
 <sup>3</sup> Un éventuel excédent de revenus nets de l’institution ne doit pas dépasser cinq pour cent des frais totaux de la formation encouragée. Il doit être exclusivement affecté aux intérêts de la formation en question. L’organisation formatrice rend des comptes sur son utilisation.
 
@@ -1286,7 +1286,7 @@ arrête:
 - d personnes concernées par de profondes mutations économiques et technologiques, et
 - e personnes actives dans la formation continue.
 
-<sup>3</sup> La Section de la formation continue et de la formation professionnelle supérieure de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle peut autoriser l’offre d’un service de garde d’enfants pendant les cours. Le montant de la subvention par heure de cours peut être relevé de 40 francs par personne assurant ce service. La taxe de cours doit comprendre une contribution à ce service de garde d’enfants.
+<sup>3</sup> La Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle peut autoriser l’offre d’un service de garde d’enfants pendant les cours. Le montant de la subvention par heure de cours peut être relevé de 40 francs par personne assurant ce service. La taxe de cours doit comprendre une contribution à ce service de garde d’enfants.
 
 <sup>4</sup> …
 
@@ -1309,11 +1309,11 @@ arrête:
 
 <sup>2</sup> Sont versées une subvention correspondant au plus à 40 pour cent des frais ou des subventions forfaitaires par heure de cours de 60 minutes s'élevant aux montants suivants:
 
-- a avec un animateur ou une animatrice de cours et au moins huit participants et participantes: 60 francs,
-- b avec deux animateurs ou animatrices de cours et au moins 16 participants et participantes: 105 francs,
-- c avec trois animateurs ou animatrices de cours et au moins 24 participants et participantes: 150 francs.
+- a avec un animateur ou une animatrice de cours et au moins huit participants ou participantes: 60 francs,
+- b avec deux animateurs ou animatrices de cours et au moins 16 participants ou participantes: 105 francs,
+- c avec trois animateurs ou animatrices de cours et au moins 24 participants ou participantes: 150 francs.
 
-<sup>3</sup> La Section de la formation continue et de la formation professionnelle supérieure de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle peut autoriser l’offre d’un service de garde d’enfants pendant les cours. Le montant de la subvention par heure de cours peut être relevé de 40 francs par personne assurant ce service. La taxe de cours doit comprendre une contribution à ce service de garde d’enfants.
+<sup>3</sup> La Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle peut autoriser l’offre d’un service de garde d’enfants pendant les cours. Le montant de la subvention par heure de cours peut être relevé de 40 francs par personne assurant ce service. La taxe de cours doit comprendre une contribution à ce service de garde d’enfants.
 
 #### Art. 78
 
@@ -1344,7 +1344,7 @@ arrête:
 - b Six personnes au minimum (conseillère ou conseiller non compris) participent au processus de conseil.
 - c La durée du conseil est limitée à 20 heures (entretien préalable compris).
 - d Une interruption du processus de conseil suppose une évaluation entre le groupement conseillé et le conseiller ou la conseillère.
-- e La Section de la formation continue et de la formation professionnelle supérieure de l’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle est informée dans le décompte du résultat du conseil mais pas du processus lui-même.
+- e La Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle est informée dans le décompte du résultat du conseil mais pas du processus lui-même.
 
 <sup>3</sup> La subvention correspond à 80 pour cent des frais d’honoraires jusqu’à concurrence de 150 francs par heure de conseil et couvre les frais de transport jusqu’à concurrence du tarif de 2 e classe des transports publics.
 
@@ -1459,7 +1459,7 @@ arrête:
 
 **Versement d’acomptes**
 
-<sup>1</sup> L’Office de l’enseignement secondaire du 2<sup>e</sup> degré et de la formation professionnelle verse des acomptes aux prestataires de formations subventionnées.
+<sup>1</sup> L’Office des écoles moyennes et de la formation professionnelle verse des acomptes aux prestataires de formations subventionnées.
 
 ### 6.2 Cantines et internats
 
@@ -1530,7 +1530,7 @@ arrête:
 
 <sup>4</sup> Le remboursement des frais est soumis aux dispositions applicables au personnel du canton.[^93-1]
 
-<sup>5</sup> Si des experts principaux et des expertes principales ainsi que des experts et des expertes pour la validation des examens sont enseignants ou enseignantes à la Haute école spécialisée bernoise, ils sont indemnisés par celle-ci. Les autres experts principaux et expertes principales et les autres experts et expertes pour la validation des examens reçoivent un montant forfaitaire conforme à la convention conclue entre la Haute école spécialisée bernoise et l’Office de l’enseignement secondaire du 2e degré et de la formation professionnelle.
+<sup>5</sup> Si des experts principaux et des expertes principales ainsi que des experts et des expertes pour la validation des examens sont enseignants ou enseignantes à la Haute école spécialisée bernoise, ils sont indemnisés par celle-ci. Les autres experts principaux et expertes principales et les autres experts et expertes pour la validation des examens reçoivent un montant forfaitaire conforme à la convention conclue entre la Haute école spécialisée bernoise et l’Office des écoles moyennes et de la formation professionnelle.
 
 <sup>6</sup> Lors des visites d’examens, les membres de la CCMP ainsi que les experts principaux et les expertes principales de MP sont indemnisés selon les dispositions cantonales relatives aux indemnités journalières et de déplacement des membres des commissions cantonales.[^93-2]
 
@@ -1662,6 +1662,18 @@ arrête:
 </table>
 
 <sup>2</sup> Au surplus, l'article 78 s'applique aussi à l'année de cours 2020.
+
+## T6 Dispositions transitoires de la modification du 30.03.2021
+
+#### Art. T6-1
+
+**Subventions attribuées aux formations continues destinées à un public spécifique et aux formations continues portant sur des thèmes spécifiques durant l’année de cours 2021**
+
+<sup>1</sup> Les subventions définitives attribuées aux formations continues proposées durant l’année de cours 2021 conformément à l’article 76 sont calculées sur la base du pourcentage des frais totaux en vigueur pour la formation considérée. Les montants maximaux par heure de cours ne s’appliquent pas.
+
+<sup>2</sup> Les subventions définitives qui sont attribuées aux formations continues proposées durant l’année de cours 2021 conformément à l’article 77 et qui sont supérieures à 20'000 francs sont calculées sur la base du pourcentage des frais en vigueur. Les subventions forfaitaires par heure de cours ne s’appliquent pas.
+
+<sup>3</sup> Le plafond promis pour une subvention attribuée au moment de l’entrée en vigueur de la présente modification est maintenu.
 
 Berne, le 20 octobre 2016
 
