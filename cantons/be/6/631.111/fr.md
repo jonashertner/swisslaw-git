@@ -4,13 +4,13 @@ number: "631.111"
 title: Ordonnance sur la péréquation financière et la compensation des charges
 short: OPFC
 language: fr
-version: 2019-01-01
-valid_until: 2021-04-30
-version_adopted: 2018-10-24
+version: 2021-05-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-10
 adopted: 2001-08-22
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/631.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1538/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2255/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1538/pdf_file"
 
 (OPFC)
 
-du 22.08.2001 (état au 01.01.2019)
+du 22.08.2001 (état au 01.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -74,7 +74,7 @@ arrête:
 
 **Nombre d'élèves et nombre de classes**
 
-<sup>1</sup> L'Office des services centralisés de la Direction de l'instruction publique relève auprès des écoles le nombre d'élèves déterminants pour l'exécution. Il édicte des directives concernant ce recensement.
+<sup>1</sup> L'Office des services centralisés de la Direction de l'instruction publique et de la culture relève auprès des écoles le nombre d'élèves déterminants pour l'exécution. Il édicte des directives concernant ce recensement.
 
 #### Art. 7
 
@@ -195,12 +195,12 @@ arrête:
 
 **Détermination des parts des communes**
 
-<sup>1</sup> L'Office des transports publics et de la coordination des transports, l'Office des services centralisés de la Direction de l'instruction publique , l'Office des affaires sociales et l'Office des assurances sociales fournissent à l'Administration des finances les bases de calcul nécessaires à la détermination des parts des communes.
+<sup>1</sup> L'Office des transports publics et de la coordination des transports, l'Office des services centralisés de la Direction de l'instruction publique et de la culture, l'Office de l'intégration et de l'action sociale et l'Office des assurances sociales fournissent à l'Administration des finances les bases de calcul nécessaires à la détermination des parts des communes.
 
 <sup>2</sup> Les parts des communes sont calculées
 
-- a par l’Office des services centralisés de la Direction de l’instruction publique pour la compensation des charges des traitements du corps enseignant,
-- b par l’Office des affaires sociales pour la compensation des charges de l’aide sociale,
+- a par l'Office des services centralisés de la Direction de l'instruction publique et de la culture pour la compensation des charges des traitements du corps enseignant,
+- b par l'Office de l'intégration et de l'action sociale pour la compensation des charges de l'aide sociale,
 - c par l’Office des transports publics et de la coordination des transports pour la compensation des charges des transports publics,
 - d par l’Administration des finances pour les compensations de charges liées à la nouvelle répartition des tâches, aux prestations complémentaires et aux allocations familiales en faveur des personnes sans activité lucrative.
 
@@ -212,11 +212,11 @@ arrête:
 
 <sup>1</sup> L’Office des transports publics et de la coordination des transports arrête les parts des communes pour la compensation des charges des transports publics au plus tard à la fin du mois d’août de l’année suivante. La différence entre les acomptes versés et le montant effectivement dû selon le décompte final est compensée avec le deuxième acompte de l’année suivante.
 
-<sup>2</sup> L’Office des services centralisés de la Direction de l’instruction publique arrête les parts des communes pour la compensation des charges des traitements du corps enseignant au plus tard à la fin du mois d’octobre de l’année durant laquelle prend fin l’année scolaire considérée.[^17-1]
+<sup>2</sup> L'Office des services centralisés de la Direction de l'instruction publique et de la culture arrête les parts des communes pour la compensation des charges des traitements du corps enseignant au plus tard à la fin du mois d’octobre de l’année durant laquelle prend fin l’année scolaire considérée.[^17-1]
 
 <sup>3</sup> L’Office des assurances sociales arrête les parts des communes pour la compensation des charges des prestations complémentaires et des allocations familiales en faveur des personnes sans activité lucrative au plus tard à la fin du mois de mai de l’année suivante.
 
-<sup>4</sup> L’Office des affaires sociales arrête les parts des communes pour la compensation des charges de l’aide sociale au plus tard à la fin du mois de mai de l’année suivante.
+<sup>4</sup> L'Office de l'intégration et de l'action sociale arrête les parts des communes pour la compensation des charges de l’aide sociale au plus tard à la fin du mois de mai de l’année suivante.
 
 <sup>5</sup> L’Administration des finances arrête les parts des communes pour la compensation des charges liées à la nouvelle répartition des tâches au plus tard à la fin du mois de mai.
 
@@ -264,7 +264,7 @@ arrête:
 
 **d Réglementation dérogatoire**
 
-<sup>1</sup> Si les coûts imputables à une commune au sens de l’article 24, alinéa 6 LPFC excèdent 400 francs par habitant en incluant les participations aux frais de traitement conformément aux articles 24b et 24e LPFC, la Direction de l’instruction publique peut augmenter la participation cantonale.
+<sup>1</sup> Si les coûts imputables à une commune au sens de l’article 24, alinéa 6 LPFC excèdent 400 francs par habitant en incluant les participations aux frais de traitement conformément aux articles 24b et 24e LPFC, la Direction de l’instruction publique et de la culture peut augmenter la participation cantonale.
 
 <sup>2</sup> L’augmentation de la participation cantonale peut être autorisée, en particulier, si
 
@@ -278,9 +278,9 @@ arrête:
 
 **Budgétisation et paiement des acomptes**
 
-<sup>1</sup> Des acomptes mensuels sont versés pendant l'année en cours sur la part des communes dans la compensation des charges des traitements du personnel enseignant. La facturation incombe à l'Office des services centralisés de la Direction de l'instruction publique.
+<sup>1</sup> Des acomptes mensuels sont versés pendant l'année en cours sur la part des communes dans la compensation des charges des traitements du personnel enseignant. La facturation incombe à l'Office des services centralisés de la Direction de l’instruction publique et de la culture.
 
-<sup>2</sup> Des acomptes sont versés, à la fin du mois de juin au plus tard, sur les avoirs prévisionnels des communes ou les créances prévisionnelles du canton résultant du décompte de la compensation des charges de l'aide sociale pour l'année en cours. Ils représentent au maximum deux tiers du dernier avoir ou de la dernière créance. Le calcul de l'avoir ou de la créance incombe à l'Office des affaires sociales.
+<sup>2</sup> Des acomptes sont versés, à la fin du mois de juin au plus tard, sur les avoirs prévisionnels des communes ou les créances prévisionnelles du canton résultant du décompte de la compensation des charges de l'aide sociale pour l'année en cours. Ils représentent au maximum deux tiers du dernier avoir ou de la dernière créance. Le calcul de l'avoir ou de la créance incombe à l'Office de l'intégration et de l'action sociale.
 
 <sup>3</sup> Les communes versent un acompte de 50 pour cent de leur part prévisionnelle dans la compensation des charges des transports publics à fin février et à fin août de l'année en cours. La facturation incombe à l'Office des transports publics et de la coordination des transports.
 
@@ -325,7 +325,7 @@ arrête:
 
 <sup>1</sup> Les communes qui, du fait d’une fusion, subissent des pertes financières sur la dotation minimale ou sur les mesures en faveur des communes supportant des charges particulièrement lourdes, peuvent bénéficier d’une compensation de la différence pendant une période transitoire.
 
-<sup>2</sup> Le Conseil-exécutif fixe, sur proposition de la Direction de la justice, des affaires communales et des affaires ecclésiastiques, et de la Direction des finances
+<sup>2</sup> Le Conseil-exécutif fixe, sur proposition de la Direction de l’intérieur et de la justice et de la Direction des finances
 
 - a la compensation des pertes financières résultant d’une fusion sur la dotation minimale et sur la prestation complémentaire géo-topographique;
 - b les prestations complémentaires versées aux communes désireuses de fusionner pour la réalisation de leur projet.

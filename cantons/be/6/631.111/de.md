@@ -4,13 +4,13 @@ number: "631.111"
 title: Verordnung über den Finanz- und Lastenausgleich
 short: FILAV
 language: de
-version: 2019-01-01
-valid_until: 2021-04-30
-version_adopted: 2018-10-24
+version: 2021-05-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-10
 adopted: 2001-08-22
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/631.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1538/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2255/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1538/pdf_file"
 
 (FILAV)
 
-vom 22.08.2001 (Stand 01.01.2019)
+vom 22.08.2001 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -74,7 +74,7 @@ beschliesst:
 
 **Schülerzahlen**
 
-<sup>1</sup> Die für den Vollzug massgebenden Schülerzahlen werden durch das Amt für zentrale Dienste der Erziehungsdirektion bei den Schulen erhoben. Es erlässt Weisungen bezüglich der Erfassung.
+<sup>1</sup> Die für den Vollzug massgebenden Schülerzahlen werden durch das Amt für zentrale Dienste der Bildungs- und Kulturdirektion bei den Schulen erhoben. Es erlässt Weisungen bezüglich der Erfassung.
 
 #### Art. 7
 
@@ -195,12 +195,12 @@ beschliesst:
 
 **Ermittlung der Gemeindeanteile**
 
-<sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination, das Amt für zentrale Dienste der Erziehungsdirektion , das Sozialamt und Amt für Sozialversicherungen teilen der Finanzverwaltung die für die Ermittlung der Gemeindeanteile erforderlichen Berechnungsgrundlagen mit.
+<sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination, das Amt für zentrale Dienste der Bildungs- und Kulturdirektion, das Amt für Integration und Soziales sowie das Amt für Sozialversicherungen teilen der Finanzverwaltung die für die Ermittlung der Gemeindeanteile erforderlichen Berechnungsgrundlagen mit.
 
-<sup>2</sup> Die Gemeindeanteile werden berechnet:
+<sup>2</sup> Die Gemeindeanteile werden berechnet
 
-- a durch das Amt für zentrale Dienste der Erziehungsdirektion für den Lastenausgleich Lehrergehälter,
-- b durch das Sozialamt für den Lastenausgleich Sozialhilfe,
+- a durch das Amt für zentrale Dienste der Bildungs- und Kulturdirektion für den Lastenausgleich Lehrergehälter,
+- b durch das Amt für Integration und Soziales für den Lastenausgleich Sozialhilfe,
 - c durch das Amt für öffentlichen Verkehr und Verkehrskoordination für den Lastenausgleich Öffentlicher Verkehr,
 - d durch die Finanzverwaltung für die Lastenausgleiche neue Aufgabenteilung, Ergänzungsleistungen und Familienzulagen für Nichterwerbstätige.
 
@@ -212,11 +212,11 @@ beschliesst:
 
 <sup>1</sup> Das Amt für öffentlichen Verkehr und Verkehrskoordination verfügt die Gemeindeanteile für den Lastenausgleich öffentlicher Verkehr bis spätestens Ende August des Folgejahres. Die Verrechnung der Differenz zwischen den geleisteten Akontozahlungen und dem effektiv geschuldeten Betrag gemäss Schlussabrechnung erfolgt mit der zweiten Akontozahlung des Folgejahres.
 
-<sup>2</sup> Das Amt für zentrale Dienste der Erziehungsdirektion verfügt die Gemeindeanteile für den Lastenausgleich Lehrergehälter bis spätestens Ende Oktober des Jahres, in dem das abzurechnende Schuljahr zu Ende geht.[^17-1]
+<sup>2</sup> Das Amt für zentrale Dienste der Bildungs- und Kulturdirektion verfügt die Gemeindeanteile für den Lastenausgleich Lehrergehälter bis spätestens Ende Oktober des Jahres, in dem das abzurechnende Schuljahr zu Ende geht.[^17-1]
 
 <sup>3</sup> Das Amt für Sozialversicherungen verfügt die Gemeindeanteile für die Lastenausgleiche Ergänzungsleistungen und Familienzulagen für Nichterwerbstätige bis spätestens Ende Mai des Folgejahres.
 
-<sup>4</sup> Das Sozialamt verfügt die Gemeindeanteile für den Lastenausgleich Sozialhilfe bis spätestens Ende Mai des Folgejahres.
+<sup>4</sup> Das Amt für Integration und Soziales verfügt die Gemeindeanteile für den Lastenausgleich Sozialhilfe bis spätestens Ende Mai des Folgejahres.
 
 <sup>5</sup> Die Finanzverwaltung verfügt die Gemeindeanteile für den Lastenausgleich neue Aufgabenteilung bis spätestens Ende Mai.
 
@@ -264,7 +264,7 @@ beschliesst:
 
 **Ausnahmeregelung**
 
-<sup>1</sup> Betragen die Aufwendungen einer Gemeinde gemäss Artikel 24 Absatz 6 FILAG unter Einschluss der Gehaltskostenanteile gemäss Artikel 24b und 24e FILAG mehr als 400 Franken pro Einwohner, kann die Erziehungsdirektion den Kantonsanteil erhöhen.
+<sup>1</sup> Betragen die Aufwendungen einer Gemeinde gemäss Artikel 24 Absatz 6 FILAG unter Einschluss der Gehaltskostenanteile gemäss Artikel 24b und 24e FILAG mehr als 400 Franken pro Einwohner, kann die Bildungs- und Kulturdirektion den Kantonsanteil erhöhen.
 
 <sup>2</sup> Ein höherer Kantonsanteil kann insbesondere bewilligt werden, wenn
 
@@ -278,9 +278,9 @@ beschliesst:
 
 **Budgetierung und Akontozahlungen**
 
-<sup>1</sup> Für die Gemeindeanteile beim Lastenausgleich Lehrergehälter sind für das laufende Jahr monatliche Akontozahlungen zu leisten. Die Rechnungsstellung erfolgt durch das Amt für zentrale Dienste der Erziehungsdirektion.
+<sup>1</sup> Für die Gemeindeanteile beim Lastenausgleich Lehrergehälter sind für das laufende Jahr monatliche Akontozahlungen zu leisten. Die Rechnungsstellung erfolgt durch das Amt für zentrale Dienste der Bildungs- und Kulturdirektion.
 
-<sup>2</sup> Für die sich im laufenden Jahr aus der Abrechnung des Lastenausgleichs Fürsorge voraussichtlich ergebenden Guthaben der Gemeinden bzw. Forderungen des Kantons sind bis Ende Juni Akontozahlungen zu leisten. Diese betragen maximal zwei Drittel des letzten Guthabens bzw. der letzten Forderung. Die Ermittlung des Guthabens bzw. der Forderung erfolgt durch das Sozialamt.
+<sup>2</sup> Für die sich im laufenden Jahr aus der Abrechnung des Lastenausgleichs Fürsorge voraussichtlich ergebenden Guthaben der Gemeinden bzw. Forderungen des Kantons sind bis Ende Juni Akontozahlungen zu leisten. Diese betragen maximal zwei Drittel des letzten Guthabens bzw. der letzten Forderung. Die Ermittlung des Guthabens bzw. der Forderung erfolgt durch das Amt für Integration und Soziales.
 
 <sup>3</sup> Vom voraussichtlichen Gemeindeanteil beim Lastenausgleich öffentlicher Verkehr leisten die Gemeinden per Ende Februar und per Ende August des laufenden Jahres eine Akontozahlung im Umfang von je 50 Prozent. Die Rechnungsstellung erfolgt durch das Amt für öffentlichen Verkehr und Verkehrskoordination.
 
@@ -325,7 +325,7 @@ beschliesst:
 
 <sup>1</sup> Gemeinden, die durch eine Zusammenlegung bei der Mindestausstattung oder bei den Massnahmen für besonders belastete Gemeinden finanzielle Einbussen erleiden, kann die Differenz während einer Übergangszeit ausgeglichen werden.
 
-<sup>2</sup> Der Regierungsrat legt auf Antrag der Justiz-, Gemeinde- und Kirchendirektion und der Finanzdirektion fest:
+<sup>2</sup> Der Regierungsrat legt auf Antrag der Direktion für Inneres und Justiz und der Finanzdirektion fest:
 
 - a den Ausgleich von finanziellen Einbussen infolge einer Zusammenlegung bei der Mindestausstattung und beim geografisch-topografischen Zuschuss,
 - b die projektbezogenen Zuschüsse an zusammenlegungswillige Gemeinden.
