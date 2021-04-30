@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2021-02-01
+version: 2021-05-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Februar 2021)
+vom 30. März 1911 (Stand am 1. Mai 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -10483,32 +10483,15 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder statutarisch f
 
 [^697h-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### K. Meldepflicht des Aktionärs
-
-### I. Meldung des Erwerbs von Inhaberaktien
-
 #### Art. 697i
 
 [^697i-1]
 
-<sup>1</sup> Wer Inhaberaktien einer Gesellschaft erwirbt, deren Aktien nicht an einer Börse kotiert sind, muss den Erwerb, seinen Vor- und seinen Nachnamen oder seine Firma sowie seine Adresse innert Monatsfrist der Gesellschaft melden.
+[^697i-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, mit Wirkung seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-<sup>2</sup>
+### K. Meldepflicht des Aktionärs
 
-Der Aktionär hat den Besitz der Inhaberaktie nachzuweisen und sich wie folgt zu identifizieren:
-
-- a. als natürliche Person: durch einen amtlichen Ausweis mit Fotografie, namentlich durch den Pass, die Identitätskarte oder den Führerausweis, im Original oder in Kopie;
-- b. als schweizerische juristische Person: durch einen Handelsregisterauszug;
-- c. als ausländische juristische Person: durch einen aktuellen beglaubigten Auszug aus dem ausländischen Handelsregister oder durch eine gleichwertige Urkunde.
-
-<sup>3</sup> Der Aktionär muss der Gesellschaft jede Änderung seines Vor- oder seines Nachnamens oder seiner Firma sowie seiner Adresse melden.
-
-<sup>4</sup> Die Meldepflicht besteht nicht, wenn die Inhaberaktien nach dem Bucheffektengesetz vom 3. Oktober 2008[^697i-2] als Bucheffekten ausgestaltet sind. Die Gesellschaft bezeichnet die Verwahrungsstelle, bei der die Inhaberaktien hinterlegt oder ins Hauptregister eingetragen werden; die Verwahrungsstelle muss in der Schweiz sein.
-
-[^697i-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^697i-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-
-### II. Meldung der an Aktien wirtschaftlich berechtigten Person
+### I. Meldung der an Aktien wirtschaftlich berechtigten Person
 
 #### Art. 697j
 
@@ -10526,40 +10509,33 @@ Der Aktionär hat den Besitz der Inhaberaktie nachzuweisen und sich wie folgt zu
 
 [^697j-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-### III. Meldung an einen Finanzintermediär und Auskunftspflicht des Finanzintermediärs
-
 #### Art. 697k
 
 [^697k-1]
 
-<sup>1</sup> Die Generalversammlung kann vorsehen, dass die Meldungen nach den Artikeln 697*i* und 697*j*, die Inhaberaktien betreffen, nicht der Gesellschaft zu erstatten sind, sondern einem Finanzintermediär im Sinne des Geldwäschereigesetzes vom 10. Oktober 1997[^697k-2].
+[^697k-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Aufgehoben durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, mit Wirkung seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-<sup>2</sup> Der Verwaltungsrat bezeichnet den Finanzintermediär und macht den Aktionären bekannt, wen er bezeichnet hat.
-
-<sup>3</sup> Der Finanzintermediär hat der Gesellschaft jederzeit darüber Auskunft zu geben, für welche Inhaberaktien die vorgeschriebenen Meldungen erstattet und der Besitz nachgewiesen wurden.
-
-[^697k-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^697k-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-
-### IV. Verzeichnis
+### II. Verzeichnis der wirtschaftlich berechtigten Personen
 
 #### Art. 697l
 
 [^697l-1]
 
-<sup>1</sup> Die Gesellschaft führt ein Verzeichnis über die Inhaberaktionäre sowie über die der Gesellschaft gemeldeten wirtschaftlich berechtigten Personen.
+<sup>1</sup> Die Gesellschaft führt ein Verzeichnis über die ihr gemeldeten wirtschaftlich berechtigten Personen.
 
-<sup>2</sup> Dieses Verzeichnis enthält den Vor- und den Nachnamen oder die Firma sowie die Adresse der Inhaberaktionäre und der wirtschaftlich berechtigten Personen. Es enthält die Staatsangehörigkeit und das Geburtsdatum der Inhaberaktionäre.
+<sup>2</sup> Dieses Verzeichnis enthält den Vor- und den Nachnamen sowie die Adresse der wirtschaftlich berechtigten Personen.
 
-<sup>3</sup> Die Belege, die einer Meldung nach den Artikeln 697*i* und 697*j* zugrunde liegen, müssen während zehn Jahren nach der Streichung der Person aus dem Verzeichnis aufbewahrt werden.
+<sup>3</sup> Die Belege, die einer Meldung nach Artikel 697*j* zugrunde liegen, müssen nach der Streichung der Person aus dem Verzeichnis während zehn Jahren aufbewahrt werden.
 
-<sup>4</sup> Hat die Gesellschaft nach Artikel 697*k* einen Finanzintermediär bezeichnet, so ist dieser für die Führung des Verzeichnisses und die Aufbewahrung der Belege zuständig.
+<sup>4</sup> Das Verzeichnis muss so geführt werden, dass in der Schweiz jederzeit darauf zugegriffen werden kann.
 
-<sup>5</sup> Das Verzeichnis muss so geführt werden, dass in der Schweiz jederzeit darauf zugegriffen werden kann.
+[^697l-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-[^697l-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+### III. Nichteinhaltung der Meldepflichten
 
-### V. Nicht-einhaltung der Meldepflichten
+[^part3-tit26-chap2-lvlK-lvlIII-1]
+
+[^part3-tit26-chap2-lvlK-lvlIII-1]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
@@ -11417,7 +11393,7 @@ Ein Aktionär oder ein Gläubiger kann dem Gericht bei folgenden Mängeln in der
 - 1\. Der Gesellschaft fehlt eines der vorgeschriebenen Organe.
 - 2\. Ein vorgeschriebenes Organ der Gesellschaft ist nicht richtig zusammengesetzt.
 - 3\. Die Gesellschaft führt das Aktienbuch oder das Verzeichnis über die ihr gemeldeten wirtschaftlich berechtigten Personen nicht vorschriftsgemäss.
-- 4\. ...
+- 4\. Die Gesellschaft hat Inhaberaktien ausgegeben, ohne dass sie Beteiligungspapiere an einer Börse kotiert hat oder die Inhaberaktien als Bucheffekten ausgestaltet sind.
 - 5\. Die Gesellschaft hat an ihrem Sitz kein Rechtsdomizil mehr.[^731b-1]
 
 <sup>1bis</sup>
@@ -11434,7 +11410,7 @@ Das Gericht kann insbesondere:
 
 <sup>4</sup> Die zur Liquidation der Gesellschaft nach den Vorschriften über den Konkurs eingesetzten Liquidatoren haben, sobald sie eine Überschuldung feststellen, das Gericht zu benachrichtigen; es eröffnet den Konkurs.[^731b-3]
 
-[^731b-1]: Fassung gemäss Ziff. II des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Jan. 2021, Ziff. 4 in Kraft ab 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^731b-1]: Fassung gemäss Ziff. II des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Jan. 2021, Ziff. 4 in Kraft seit 1. Mai 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-2]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-3]: Eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
@@ -14053,7 +14029,7 @@ Die im Handelsregister eingetragenen Rechtseinheiten erhalten eine Unternehmens-
 
 <sup>3</sup> Machen weitere Betroffene ein Interesse an der Aufrechterhaltung des Eintrags geltend, so überweist das Handelsregisteramt die Angelegenheit dem Gericht zum Entscheid.
 
-### 2. Bei fehlendem Rechtsdomizil von Einzelunternehmen und Zweigniederlassungen
+### 2. Bei fehlendem Rechtsdomizil von Einzel-unternehmen und Zweigniederlassungen
 
 #### Art. 934a
 

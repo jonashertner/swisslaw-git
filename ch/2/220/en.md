@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2021-02-01
+version: 2021-05-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 February 2021)
+of 30 March 1911 (Status as of 1 May 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -542,7 +542,7 @@ The prescriptive period for revocation is 14 days and commences as soon as the c
 
 [^40g-1]
 
-[^40g-1]: Inserted by No I of the FA of 5 Oct. 1990 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Repealed by Annex No 5 to the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^40g-1]: Inserted by No I of the FA of 5 Oct. 1990 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Repealed by Annex No 5 to the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### Section Two: Obligations in Tort
 
@@ -1075,7 +1075,7 @@ The obligee is in default if he refuses without good cause to accept performance
 
 <sup>2</sup> The court decides which place should serve as depositary; however, merchandise may be deposited in a warehouse without need for a court decision.[^92-1]
 
-[^92-1]: Amended by Annex No 5 to the Civil Jurisdiction Act of 24 March 2000, in force since 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^92-1]: Amended by Annex No 5 to the Civil Jurisdiction Act of 24 March 2000, in force since 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### b. Right to sell
 
@@ -1779,7 +1779,7 @@ Where a condition is attached with the intention of encouraging an unlawful or i
 
 <sup>2</sup> ...[^162-1]
 
-[^162-1]: Repealed by Annex 2 No II 1 to the FA of 23 March 2001 on Consumer Credit, with effect from 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^162-1]: Repealed by Annex 2 No II 1 to the FA of 23 March 2001 on Consumer Credit, with effect from 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 ### II. Amount, nullity and reduction of the penalty
 
@@ -2499,7 +2499,7 @@ In other respects the provisions governing chattel sale apply *mutatis mutandis*
 
 [^226a226d-1]
 
-[^226a226d-1]: Inserted by No I of the FA of 23 March 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Repealed by Annex 2 No II 1 to the FA of 23 March 2001 on Consumer Credit, with effect from 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226a226d-1]: Inserted by No I of the FA of 23 March 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Repealed by Annex 2 No II 1 to the FA of 23 March 2001 on Consumer Credit, with effect from 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226e
 
@@ -2511,19 +2511,19 @@ In other respects the provisions governing chattel sale apply *mutatis mutandis*
 
 [^226f226k-1]
 
-[^226f226k-1]: Inserted by No I of the FA of 23 March 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Repealed by Annex 2 No II 1 to the FA of 23 March 2001 on Consumer Credit, with effect from 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226f226k-1]: Inserted by No I of the FA of 23 March 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Repealed by Annex 2 No II 1 to the FA of 23 March 2001 on Consumer Credit, with effect from 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226l
 
 [^226l-1]
 
-[^226l-1]: Inserted by No I of the FA of 23 March 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Repealed by Annex No 5 to the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^226l-1]: Inserted by No I of the FA of 23 March 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Repealed by Annex No 5 to the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 #### Art. 226m
 
 [^226m-1]
 
-[^226m-1]: Inserted by No I of the FA of 23 March 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Repealed by Annex 2 No II 1 to the FA of 23 March 2001 on Consumer Credit, with effect from 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226m-1]: Inserted by No I of the FA of 23 March 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Repealed by Annex 2 No II 1 to the FA of 23 March 2001 on Consumer Credit, with effect from 1 Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 227
 
@@ -4591,7 +4591,7 @@ Where the employment contract has been concluded for an indefinite duration or f
 [^331-1]: Term in accordance with Annex No 2 of the Vested Benefits Act of 17 Dec. 1993, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^331-2]: Amended by Annex No 2 to the FA of 3 Oct. 2003 (OPA Revision I), in force since 1 Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207)1700; [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^331-3]: Amended by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^331-4]: Inserted by No II 2 of the FA of 18 Dec. 1998, in force since 1 May 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^331-4]: Inserted by No II 2 of the FA of 18 Dec. 1998, in force since 1 May 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); [BBl 1998 V 5569](https://fedlex.data.admin.ch/eli/fga/1998/5_5569__)).
 
 ### II. Beginning and end of insurance cover
 
@@ -5272,7 +5272,7 @@ The following are reserved:
 
 <sup>2</sup> Where federal or cantonal provisions governing work and vocational training impose an obligation under public law on the employer or employee, the other party has a claim under civil law for performance of said obligation if it is susceptible to inclusion in the individual employment contract.
 
-[^342-1]: Amended by No II 2 of the FA of 18 Dec. 1998, in force since 1 May 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^342-1]: Amended by No II 2 of the FA of 18 Dec. 1998, in force since 1 May 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); [BBl 1998 V 5569](https://fedlex.data.admin.ch/eli/fga/1998/5_5569__)).
 
 #### Art. 343
 
@@ -5824,7 +5824,7 @@ It is not permissible to derogate from the following provisions to the detriment
 [^361-1]: Inserted by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-2]: Repealed by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, with effect from 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-3]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^361-4]: Repealed by Annex No 5 to the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^361-4]: Repealed by Annex No 5 to the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 [^361-5]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### B. Provisions from which no derogation is permissible to the detriment of the employee
@@ -10487,32 +10487,15 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 [^697h-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), with effect from 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### K. Shareholder’s obligation to report
-
-### I. Notice of acquisition of bearer shares
-
 #### Art. 697i
 
 [^697i-1]
 
-<sup>1</sup> Any person who acquires bearer shares in a company whose shares are not listed on a stock exchange must give notice of the acquisition, together with their first name and surname or business name and their address to the company within one month.
+[^697i-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Repealed by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, with effect from 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-<sup>2</sup>
+### K. Obligation of shareholder to give notice
 
-The shareholder must prove ownership of the registered share and identify themselves as follows:
-
-- a. as a natural person: by means of an official identity document with photograph, in particular the original or a copy of a passport, identity card or driving licence;
-- b. as a Swiss legal entity: by means of a extract from the commercial register;
-- c. as a foreign legal entity: by means of a current certified extract from a foreign commercial register or an equivalent document.
-
-<sup>3</sup> The shareholder must give notice of any change to their first name or surname, company name, or address to the company.
-
-<sup>4</sup> The obligation to give notice does not apply if the bearer shares are organised as intermediated securities in accordance with the Intermediated Securities Act of 3 October 2008[^697i-2]. The company shall designate the custodian where the bearer shares are held or recorded in the main register; the custodian must be in Switzerland.
-
-[^697i-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^697i-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-
-### II. Notice of beneficial owner of shares
+### I. Notice of beneficial owner of shares
 
 #### Art. 697j
 
@@ -10526,44 +10509,37 @@ The shareholder must prove ownership of the registered share and identify themse
 
 <sup>4</sup> The shareholder must give notice to the company within three months of any change to the first name or surname or to the address of the beneficial owner.
 
-5 The obligation to give notice does not apply if the bearer shares are organised as intermediated securities and deposited with a custodian in Switzerland or entered in the main register. The company shall designate the custodian.
+<sup>5</sup> The obligation to give notice does not apply if the bearer shares are organised as intermediated securities and deposited with a custodian in Switzerland or entered in the main register. The company shall designate the custodian.
 
 [^697j-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-
-### III. Notice to a financial intermediary and obligation of the financial intermediary to provide information
 
 #### Art. 697k
 
 [^697k-1]
 
-<sup>1</sup> The general meeting may provide that notice under Articles 697*i* and 697*j* relating to bearer shares is not given to the company but to a financial intermediary in terms of the Anti-Money Laundering Act of 10 October 1997[^697k-2].
+[^697k-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Repealed by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, with effect from 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-<sup>2</sup> The board of directors shall appoint the financial intermediary and notify the shareholders of whom it has appointed.
-
-<sup>3</sup> The financial intermediary must provide the company at any time with information on the bearer shares for which the required notices have been given and ownership proven.
-
-[^697k-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^697k-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-
-### IV. Register
+### II. Register of beneficial owners
 
 #### Art. 697l
 
 [^697l-1]
 
-<sup>1</sup> The company shall keep a register of bearer shareholders and of the beneficial owners notified to the company.
+<sup>1</sup> The company shall keep a register of its beneficial owners that have been notified to the company.
 
-<sup>2</sup> This register shall contain the first name and surname or business name and the address of the bearer shareholders and the beneficial owners. It also contains the nationality and date of birth of the bearer shareholders.
+<sup>2</sup> This register shall contain the first name and surname and the address of the beneficial owners.
 
-<sup>3</sup> The documents on which notice under Articles 697*i* and 697*j* are based must be retained for ten years following the person’s deletion from the register.
+<sup>3</sup> The documents on which notice under Article 697*j* are based must be retained for ten years following the person’s deletion from the register.
 
-<sup>4</sup> If the company has appointed a financial intermediary under Article 697*k*, this intermediary is responsible for keeping the register and retaining the documents.
+<sup>4</sup> The register must be kept in such a manner that it can be accessed in Switzerland at any time.
 
-<sup>5</sup> The register must must be kept in such a manner that it can be accessed in Switzerland at any time.
+[^697l-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-[^697l-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+### III. Failure to comply with obligations to give notice
 
-### V. Failure to comply with obligations to give notice
+[^part3-tit26-chap2-lvlJ-lvlIII-1]
+
+[^part3-tit26-chap2-lvlJ-lvlIII-1]: Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
@@ -11421,7 +11397,7 @@ Any shareholder or creditor may request the court to take the required measures 
 - 1\. The company lacks any of the required corporate bodies.
 - 2\. A required corporate body of the company is not composed correctly.
 - 3\. The company is not keeping the share register or the register of its reported beneficial owners in accordance with the regulations.
-- 4\. ...
+- 4\. The company has issued bearer shares without having equity securities listed on a stock exchange or organising the bearer shares as intermediated securities
 - 5\. The company is no longer legally domiciled at its seat.[^731b-1]
 
 <sup>1bis</sup>
@@ -11816,7 +11792,7 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 [^761-1]
 
-[^761-1]: Repealed by Annex No 5 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^761-1]: Repealed by Annex No 5 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### Section Seven: Involvement of Public Sector Corporations
 
@@ -15143,7 +15119,7 @@ The obligor may raise against a claim deriving from a ledger-based security only
 
 - 1\. are aimed at contesting the validity of the registration or derive from the securities ledger itself or its accompanying data;
 - 2\. he or she is personally entitled to raise against the current creditor of the ledger-based security; or
-- 3\. are based on the direct relations between the obligor and a former creditor of the ledger-based security, if the current creditor intentionally acted to the detriment of the obligor when acquiring the ledger-based security.
+- 3\. are based on the direct relations between the obligor and a former creditor of the ledger-based security, if the current creditor intentionally acted to the detriment of the obligor when acquiring the ledger-based security
 
 [^973e-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -15153,11 +15129,9 @@ The obligor may raise against a claim deriving from a ledger-based security only
 
 [^973f-1]
 
-<sup>1</sup> <sup>The transfer of the ledger-based security is subject to the provisions of the registration agreement.</sup>
+<sup>The transfer of the ledger-based security is subject to the provisions of the registration agreement.</sup>
 
-<sup>2</sup>
-
-If the creditor of a ledger-based security is declared bankrupt, if his or her property is distrained or if a debt restructuring moratorium is authorised, the creditor's decisions regarding ledger-based securities are legally binding and effective against third parties, provided that they:
+<sup>2</sup> If the creditor of a ledger-based security is declared bankrupt, if his or her property is distrained or if a debt restructuring moratorium is authorised, the creditor's decisions regarding ledger-based securities are legally binding and effective against third parties, provided that they
 
 - 1\. were made beforehand;
 - 2\. have become irrevocable under the rules of the securities ledger or another trading facility; and
@@ -15184,7 +15158,7 @@ Collateral may be posted even without the transfer of the ledger-based security,
 
 In other respects:
 
-- 1\. the special lien on ledger-based securities is governed by the provisions on special liens that apply to certificated securities (Arts. 895–898 of the CC[^973g-2]);
+- 1\. the special lien on ledger-based securities is governed by the provisions on special liens that apply to certificated securities (Arts. 895–898 of the CC[^973g-2]).
 - 2\. the pledging of ledger-based securities is governed by the provisions on liens on debts and other rights as applicable for certificated securities (Arts. 899–906 of the CC).
 
 [^973g-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
@@ -15196,7 +15170,7 @@ In other respects:
 
 [^973h-1]
 
-<sup>1</sup> The beneficiary of a ledger-based security may demand that the court cancel the security, provided that he or she furnishes credible evidence of his or her original power of disposal and of the loss thereof. Following cancellation of the instrument, the beneficiary may also exercise his or her right outside the ledger or, at his or her own expense, demand that the obligor allocate a new ledger-based security. In addition, Articles 982–86 apply mutatis mutandis to the procedure for and effect of cancellation.
+<sup>1</sup> The beneficiary of a ledger-based security may demand that the court cancel the security, provided that he or she furnishes credible evidence of his or her original power of disposal and of the loss thereof. Following cancellation of the instrument, the beneficiary may also exercise his or her right outside the ledger or, at his or her own expense, demand that the obligor allocate a new ledger-based security. In addition, Articles 982-986 apply mutatis mutandis to the procedure for and effect of cancellation.
 
 <sup>2</sup> The parties may make provision for a simplified form of cancellation consisting in a reduction of the number of public calls for presentation or a curtailment of the time limits.
 
@@ -15207,8 +15181,6 @@ In other respects:
 #### Art. 973i
 
 [^973i-1]
-
-<sup>1</sup>
 
 The obligor under a ledger-based security or a right that is offered as such must inform each acquirer of:
 
@@ -15291,7 +15263,7 @@ Where the obligor under the registered security has reserved the right to render
 
 [^part5-tit33-chap3-lvlC-lvlI-lvl1-1]
 
-[^part5-tit33-chap3-lvlC-lvlI-lvl1-1]: Amended by Annex No 5 of the Civil Jurisdiction Act of 24 March 2000, in force since 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^part5-tit33-chap3-lvlC-lvlI-lvl1-1]: Amended by Annex No 5 of the Civil Jurisdiction Act of 24 March 2000, in force since 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 #### Art. 981
 
@@ -15303,7 +15275,7 @@ Where the obligor under the registered security has reserved the right to render
 
 <sup>4</sup> Where the bearer of a security with a coupon sheet or subscription warrant has merely lost the coupon sheet or subscription warrant, presentation of the security in question is sufficient to establish grounds for the application.
 
-[^981-1]: Repealed by Annex No 5 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^981-1]: Repealed by Annex No 5 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### 2. Attachment order
 
@@ -16223,7 +16195,7 @@ The prescriptive period is interrupted by commencement of action on the bill, su
 
 <sup>2</sup> In serving the attachment order, the court authorises the drawee to deposit the bill amount on the maturity date and designates the place where it is to be deposited.
 
-[^1072-1]: Amended by Annex No 5 of the Civil Jurisdiction Act of 24 March 2000, in force since 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^1072-1]: Amended by Annex No 5 of the Civil Jurisdiction Act of 24 March 2000, in force since 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### 2. Known holder
 
@@ -17019,7 +16991,7 @@ The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[^1150-
 
 ### A. Requirements
 
-### I. In general
+### . In general
 
 [^part5-tit33-chap7-lvlB-1]
 

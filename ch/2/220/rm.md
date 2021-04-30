@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2021-02-01
+version: 2021-05-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. da favrer 2021)
+dals 30 da mars 1911 (versiun dal 1. da matg 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -540,7 +540,7 @@ Il termin da revocaziun importa 14 dis e cumenza, uschespert ch’il client:[^40
 
 [^40g-1]
 
-[^40g-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 1990 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374), BBl **1999** 2829).
+[^40g-1]: Integrà tras la cifra I da la LF dals 5 d’oct. 1990 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374), [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### Segund chapitel: Obligaziuns che resultan tras acts illegals
 
@@ -1073,7 +1073,7 @@ Il creditur vegn en retard, sch’el refusa en moda nungiustifitgada d’accepta
 
 <sup>2</sup> Il lieu dal deposit sto vegnir fixà dal derschader. Rauba po dentant er vegnir depositada en in magasin senza ina disposiziun giudiziala.[^92-1]
 
-[^92-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, en vigur dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^92-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, en vigur dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### b. Dretg da vender
 
@@ -1777,7 +1777,7 @@ Sch’ina cundiziun vegn fixada cun l’intenziun da promover in act illegal u i
 
 <sup>2</sup> ...[^162-1]
 
-[^162-1]: Abolì tras la cifra II 1 da l’agiunta 2 da la LF dals 23 da mars 2001 davart credits da consum, cun effect dapi il 1. da schan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^162-1]: Abolì tras la cifra II 1 da l’agiunta 2 da la LF dals 23 da mars 2001 davart credits da consum, cun effect dapi il 1. da schan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 ### II. Autezza, nunvalaivladad e reducziun dal chasti
 
@@ -2497,7 +2497,7 @@ Per la cumpra d’in bain immobigliar vegnan dal rest applitgadas correspundenta
 
 [^226a226d-1]
 
-[^226a226d-1]: Integrà tras la cifra I da la LF dals 23 da mars 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abolì tras la cifra II 1 da l’agiunta 2 da la LF dals 23 da mars 2001 davart credits da consum, cun effect dapi il 1. da schan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226a226d-1]: Integrà tras la cifra I da la LF dals 23 da mars 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abolì tras la cifra II 1 da l’agiunta 2 da la LF dals 23 da mars 2001 davart credits da consum, cun effect dapi il 1. da schan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226e
 
@@ -2509,19 +2509,19 @@ Per la cumpra d’in bain immobigliar vegnan dal rest applitgadas correspundenta
 
 **<sup>–</sup>**226***k*[^226f-1]**
 
-[^226f-1]: Integrà tras la cifra I da la LF dals 23 da mars 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abolì tras la cifra II 1 da l’agiunta 2 da la LF dals 23 da mars 2001 davart credits da consum, cun effect dapi il 1. da schan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226f-1]: Integrà tras la cifra I da la LF dals 23 da mars 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abolì tras la cifra II 1 da l’agiunta 2 da la LF dals 23 da mars 2001 davart credits da consum, cun effect dapi il 1. da schan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226l
 
 [^226l-1]
 
-[^226l-1]: Integrà tras la cifra I da la LF dals 23 da mars 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2003 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^226l-1]: Integrà tras la cifra I da la LF dals 23 da mars 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2003 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 #### Art. 226m
 
 [^226m-1]
 
-[^226m-1]: Integrà tras la cifra I da la LF dals 23 da mars 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abolì tras la cifra II 1 da l’agiunta 2 da la LF dals 23 da mars 2001 davart credits da consum, cun effect dapi il 1. da schan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226m-1]: Integrà tras la cifra I da la LF dals 23 da mars 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abolì tras la cifra II 1 da l’agiunta 2 da la LF dals 23 da mars 2001 davart credits da consum, cun effect dapi il 1. da schan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 227
 
@@ -4589,7 +4589,7 @@ Sch’ina relaziun da lavur è vegnida concludida per in temp illimità u per da
 [^331-1]: Expressiun tenor la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^331-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^331-3]: Expressiun tenor la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^331-4]: Integrà tras la cifra II 2 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^331-4]: Integrà tras la cifra II 2 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); [BBl 1998 V 5569](https://fedlex.data.admin.ch/eli/fga/1998/5_5569__)).
 
 ### II. Cumenzament e fin da la prevenziun
 
@@ -5270,7 +5270,7 @@ Resalvadas restan:
 
 <sup>2</sup> Sche las prescripziuns da la Confederaziun u dals chantuns davart la lavur e davart la furmaziun professiunala imponan al patrun u al lavurant in’obligaziun da dretg public, ha l’autra partida contrahenta il dretg da pretender l’adempliment sin via civila, sche l’obligaziun pudess esser ina part d’in contract individual da lavur.
 
-[^342-1]: Versiun tenor la cifra II 2 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^342-1]: Versiun tenor la cifra II 2 da la LF dals 18 da dec. 1998, en vigur dapi il 1. da matg 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); [BBl 1998 V 5569](https://fedlex.data.admin.ch/eli/fga/1998/5_5569__)).
 
 #### Art. 343
 
@@ -5822,7 +5822,7 @@ Tras ina cunvegna, tras in contract normal u tras in contract collectiv da lavur
 [^361-1]: Integrà tras la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-2]: Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, cun effect dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-3]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^361-4]: Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^361-4]: Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 [^361-5]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### B. Nunpussaivladad da midar las disposiziuns a disfavur dal lavurant
@@ -10489,32 +10489,15 @@ Il dretg da votar cumenza, uschespert che l’import che vegn fixà da la lescha
 
 [^697h-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abolì tras la cifra I 1 da la LF dals 23 da dec. 2011 (dretg da rendaquint), cun effect dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### K. Obligaziun d’annunzia da l’acziunari
-
-### I. Annunzia da l’acquist d’aczias al possessur
-
 #### Art. 697i
 
 [^697i-1]
 
-<sup>1</sup> Tgi ch’acquista aczias al possessur d’ina societad, da la quala las aczias n’èn betg quotadas a la bursa, sto annunziar a la societad entaifer 1 mais l’acquist, ses prenum e ses num u sia firma sco er sia adressa.
+[^697i-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abolì tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, cun effect dapi il 1. da matg 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-<sup>2</sup>
+### K. Obligaziun d’annunzia da l’acziunari
 
-L’acziunari sto cumprovar ch’el posseda l’aczia al possessur e sto s’identifitgar sco suonda:
-
-- a. sco persuna natirala: tras in document d’identitad uffizial cun fotografia, en spezial tras l’original u tras ina copia dal passaport, da la carta d’identitad u dal permiss da manischar;
-- b. sco persuna giuridica svizra: tras in extract dal register da commerzi;
-- c. sco persuna giuridica estra: tras in extract actual legalisà uffizialmain dal register da commerzi ester u tras in document equivalent.
-
-<sup>3</sup> L’acziunari sto annunziar a la societad mintga midada da ses prenum u da ses num u da sia firma sco er da sia adressa.
-
-<sup>4</sup> Betg suttamessas a l’obligaziun d’annunzia n’èn las aczias al possessur ch’èn concepidas sco titels contabels tenor la Lescha federala dals 3 d’october 2008[^697i-2] davart las vaglias contabilisadas. La societad designescha il lieu da deposit, nua che las aczias al possessur vegnan depositadas u inscrittas en il register principal; il lieu da deposit sto esser en Svizra.
-
-[^697i-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^697i-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-
-### II. Annunzia da la persuna che ha il dretg economic da las aczias
+### I. Annunzia da la persuna che ha il dretg economic da las aczias
 
 #### Art. 697j
 
@@ -10530,42 +10513,35 @@ L’acziunari sto cumprovar ch’el posseda l’aczia al possessur e sto s’ide
 
 <sup>5</sup> L’obligaziun d’annunzia n’exista betg, sche las aczias èn concepidas sco vaglias contabilisadas ed èn deponidas en in lieu da deposit en Svizra u èn inscrittas en il register principal. La societad designescha il lieu da deposit.
 
-[^697j-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns da la Groupe d’action financière, revedidas l’onn 2012 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-
-### III. Annunzia ad in intermediari finanzial ed obligaziun da l’intermediari finanzial da dar infurmaziuns
+[^697j-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697k
 
 [^697k-1]
 
-<sup>1</sup> La radunanza generala po prevair che las annunzias tenor ils artitgels 697*i* e 697*j* che concernan aczias al possessur, na stoppian betg vegnir fatgas a la societad, mabain ad in intermediari finanzial en il senn da la Lescha dals 10 d’october 1997[^697k-2] davart la lavada da daners suspectus.
+[^697k-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abolì tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, cun effect dapi il 1. da matg 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-<sup>2</sup> Il cussegl d’administraziun designescha l’intermediari finanzial e communitgescha als acziunaris l’identitad da tal.
-
-<sup>3</sup> L’intermediari finanzial sto infurmar da tut temp la societad, per tge aczias al possessur che las annunzias prescrittas èn vegnidas fatgas e ch’il possess è vegnì cumprovà.
-
-[^697k-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^697k-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-
-### IV. Glista
+### II. Glista da las persunas che han il dretg economic
 
 #### Art. 697l
 
 [^697l-1]
 
-<sup>1</sup> La societad maina ina glista davart ils possessurs d’aczias al possessur sco er davart las persunas che han il dretg economic e ch’èn vegnidas annunziadas a la societad.
+<sup>1</sup> La societad maina ina glista davart las persunas che han il dretg economic e ch’èn vegnidas annunziadas ad ella.
 
-<sup>2</sup> Questa glista cuntegna il prenum ed il num u la firma sco er l’adressa dals possessurs d’aczias al possessur e da las persunas che han il dretg economic. Ella cuntegna la naziunalitad e la data da naschientscha dals possessurs d’aczias al possessur.
+<sup>2</sup> Questa glista cuntegna il prenum ed il num sco er l’adressa da las persunas che han il dretg economic.
 
-<sup>3</sup> Ils mussaments che resultan d’ina annunzia tenor ils artitgels 697*i* e 697*j* ston vegnir conservads durant 10 onns suenter che la persuna è vegnida stritgada da la glista.
+<sup>3</sup> Ils mussaments che resultan d’ina annunzia tenor l’artitgel 697*j* ston vegnir conservads durant 10 onns suenter che la persuna è vegnida stritgada da la glista.
 
-<sup>4</sup> Sche la societad ha designà in intermediari finanzial tenor l’artitgel 697*k*, ha quel l’incumbensa da manar la glista e da conservar ils mussaments.
+<sup>4</sup> La glista sto vegnir manada uschia, ch’igl è pussaivel d’acceder da tut temp a tala en Svizra.
 
-<sup>5</sup> La glista sto vegnir manada uschia, ch’igl è pussaivel d’acceder da tut temp a tala en Svizra.
+[^697l-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da matg 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-[^697l-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+### III. Inobservanza da las obligaziuns d’annunzia
 
-### V. Inobservanza da las obligaziuns d’annunzia
+[^part3-tit26-chap2-lvlK-lvlIII-1]
+
+[^part3-tit26-chap2-lvlK-lvlIII-1]: Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da matg 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
@@ -11423,7 +11399,7 @@ In acziunari u in creditur po dumandar la dretgira da prender las mesiras necess
 - 1\. a la societad manca in dals organs prescrits;
 - 2\. in dals organs da la societad prescrits n’è betg cumponì correctamain;
 - 3\. la societad na maina betg tenor las prescripziuns il register da las aczias u la glista davart las persunas che han il dretg economic e ch’èn vegnidas annunziadas ad ella;
-- 4\. ...
+- 4\. la societad ha emess aczias al possessur senza avair quotà titels da participaziun a la bursa u senza avair concepì las aczias al possessur sco vaglias contabilisadas;
 - 5\. la societad n’ha pli nagin domicil legal a sia sedia.[^731b-1]
 
 <sup>1bis</sup>
@@ -11440,7 +11416,7 @@ La dretgira po en spezial:
 
 <sup>4</sup> Uschespert ch’ils liquidaturs incumbensads da liquidar la societad tenor las prescripziuns davart il concurs constateschan ina surdebitaziun, ston els infurmar la dretgira; quella declera il concurs.[^731b-3]
 
-[^731b-1]: Versiun tenor la cifra II da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da schan. 2021, cifra 4 en vigur a partir dal 1. da matg 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^731b-1]: Versiun tenor la cifra II da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da schan. 2021, cifra 4 en vigur dapi il 1. da matg 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583), [2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-2]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-3]: Integrà tras la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
@@ -11818,7 +11794,7 @@ Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas 
 
 [^761-1]
 
-[^761-1]: Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^761-1]: Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### Settavel chapitel: Participaziun da corporaziuns da dretg public
 
@@ -12309,7 +12285,7 @@ En il register da participaziun ston vegnir registrads:
 
 <sup>5</sup> Las disposiziuns dal dretg d’aczias concernent la glista da las persunas che han il dretg economic (art. 697*l*) e las consequenzas da l’inobservanza da las obligaziuns d’annunzia (art. 697*m*) èn applitgablas tenor il senn.
 
-[^790a-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns da la Groupe d’action financière, revedidas l’onn 2012 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^790a-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Versiun tenor la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 ### IV. Inscripziun en il register da commerzi
 
@@ -16224,7 +16200,7 @@ La surannaziun vegn interrutta cun l’inoltraziun dal plant, cun l’inoltraziu
 
 <sup>2</sup> Cun il scumond da pajar dat il derschader al trassà il dretg da depositar la summa da la cambiala il di che quella scada, ed el fixescha il lieu dal deposit.
 
-[^1072-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, en vigur dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^1072-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, en vigur dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### 2. Possessur enconuschent
 

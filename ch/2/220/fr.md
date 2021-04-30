@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2021-02-01
+version: 2021-05-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (Etat le 1<sup>er</sup> février 2021)
+du 30 mars 1911 (Etat le 1<sup>er</sup> mai 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -539,7 +539,7 @@ Le délai de révocation est de quatorze jours et commence à courir dès que l�
 
 [^40g-1]
 
-[^40g-1]: Introduit par le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> juil. 1991 ([RO 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [FF 1986 II 360](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Abrogé par l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^40g-1]: Introduit par le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> juil. 1991 ([RO 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [FF 1986 II 360](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Abrogé par l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [FF 1999 III 2591](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### Chapitre II: Des obligations résultant d’actes illicites
 
@@ -632,7 +632,7 @@ Le juge peut, en tenant compte de circonstances particulières, allouer à la vi
 <sup>2</sup> Le juge peut substituer ou ajouter à l’allocation de cette indemnité un autre mode de réparation.
 
 [^49-1]: Nouvelle teneur selon le ch. II 1 de la LF du 16 déc. 1983, en vigueur depuis le 1<sup>er</sup> juil. 1985 ([RO 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 661](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
-[^49-2]: Dans le texte allemand «... *und diese nicht anders wiedergutgemacht worden ist*» et dans le texte italien «... *e questa non sia stata riparata in altro modo*...» (... et que le préjudice subi n’ait pas été réparé autrement ...).
+[^49-2]: Dans le texte allemand «... *und diese nicht anders wiede**r**gutgemacht worden ist*» et dans le texte italien «... *e questa non sia stata riparata in altro modo*...» (... et que le préjudice subi n’ait pas été réparé autrement ...).
 
 ### VI. Responsabilité plurale
 
@@ -1076,7 +1076,7 @@ Le créancier est en demeure lorsqu’il refuse sans motif légitime d’accepte
 
 <sup>2</sup> Le juge décide du lieu de la consignation; toutefois les marchandises peuvent, même sans décision du juge, être consignées dans un entrepôt.[^92-1]
 
-[^92-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^92-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [FF 1999 III 2591](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### b. Droit de vendre
 
@@ -1784,7 +1784,7 @@ Lorsque la condition stipulée a pour objet de provoquer soit un acte, soit une 
 
 <sup>2</sup> ...[^162-1]
 
-[^162-1]: Abrogé par l’annexe 2 ch. II 1 de la LF du 23 mars 2001 sur le crédit à la consommation, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2879).
+[^162-1]: Abrogé par l’annexe 2 ch. II 1 de la LF du 23 mars 2001 sur le crédit à la consommation, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2879](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 ### II. Montant, nullité et réduction de la peine
 
@@ -2508,7 +2508,7 @@ Les règles concernant la vente mobilière s’appliquent par analogie aux vente
 
 [^226a226d-1]
 
-[^226a226d-1]: Introduits par le ch. I de la LF du 23 mars 1962 ([RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [FF 1960 I 537](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abrogés par l’annexe 2 ch. II 1 de à la LF du 23 mars 2001 sur le crédit à la consommation, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2879).
+[^226a226d-1]: Introduits par le ch. I de la LF du 23 mars 1962 ([RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [FF 1960 I 537](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abrogés par l’annexe 2 ch. II 1 de à la LF du 23 mars 2001 sur le crédit à la consommation, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2879](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226e
 
@@ -2520,19 +2520,19 @@ Les règles concernant la vente mobilière s’appliquent par analogie aux vente
 
 [^226f226k-1]
 
-[^226f226k-1]: Introduits par le ch. I de la LF du 23 mars 1962 ([RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [FF 1960 I 537](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abrogés par l’annexe 2 ch. II 1 de la LF du 23 mars 2001 sur le crédit à la consommation, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2879).
+[^226f226k-1]: Introduits par le ch. I de la LF du 23 mars 1962 ([RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [FF 1960 I 537](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abrogés par l’annexe 2 ch. II 1 de la LF du 23 mars 2001 sur le crédit à la consommation, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2879](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226l
 
 [^226l-1]
 
-[^226l-1]: Introduit par le ch. I de la LF du 23 mars 1962 ([RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [FF 1960 I 537](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abrogé par l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2000 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^226l-1]: Introduit par le ch. I de la LF du 23 mars 1962 ([RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [FF 1960 I 537](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abrogé par l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2000 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [FF 1999 III 2591](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 #### Art. 226m
 
 [^226m-1]
 
-[^226m-1]: Introduit par le ch. I de la LF du 23 mars 1962 ([RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [FF 1960 I 537](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abrogé par l’annexe 2 ch. II 1 de la LF du 23 mars 2001 sur le crédit à la consommation, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2879).
+[^226m-1]: Introduit par le ch. I de la LF du 23 mars 1962 ([RO 1962 1082](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [FF 1960 I 537](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Abrogé par l’annexe 2 ch. II 1 de la LF du 23 mars 2001 sur le crédit à la consommation, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2879](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 227
 
@@ -4517,7 +4517,7 @@ En cas de maternité, la travailleuse a droit, après l’accouchement, à un co
 
 [^329g-1]
 
-<sup>1</sup> En cas de paternité, le travailleur a droit à un congé de deux se-maines s’il est le père légal au moment de la naissance de l’enfant ou s’il le devient au cours des six mois qui suivent.
+<sup>1</sup> En cas de paternité, le travailleur a droit à un congé de deux semaines s’il est le père légal au moment de la naissance de l’enfant ou s’il le devient au cours des six mois qui suivent.
 
 <sup>2</sup> Le congé de paternité doit être pris dans les six mois qui suivent la naissance de l’enfant.
 
@@ -4595,7 +4595,7 @@ Lorsque le rapport de travail a été convenu pour une durée indéterminée ou 
 
 [^331-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^331-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^331-3]: Introduit par le ch. II 2 de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4873).
+[^331-3]: Introduit par le ch. II 2 de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); [FF 1998 V 4873](https://fedlex.data.admin.ch/eli/fga/1998/5__4873_)).
 
 ### II. Début et fin de la prévoyance
 
@@ -5278,7 +5278,7 @@ Sont réservées:
 
 <sup>2</sup> Si des dispositions de la Confédération ou des cantons sur le travail et la formation professionnelle imposent à l’employeur ou au travailleur une obligation de droit public susceptible d’être l’objet d’un contrat individuel de travail, l’autre partie peut agir civilement en vue d’obtenir l’exécution de cette obligation.
 
-[^342-1]: Nouvelle teneur selon le ch. II 2 de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4873).
+[^342-1]: Nouvelle teneur selon le ch. II 2 de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); [FF 1998 V 4873](https://fedlex.data.admin.ch/eli/fga/1998/5__4873_)).
 
 #### Art. 343
 
@@ -5828,7 +5828,7 @@ Il ne peut être dérogé aux dispositions ci-après par accord, contrat-type de
 [^361-1]: Introduit par l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-2]: Abrogé par l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-3]: Introduit par l’annexe de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^361-4]: Abrogé par l’annexe 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^361-4]: Abrogé par l’annexe 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [FF 1999 III 2591](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 [^361-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 574](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### B. Dispositions auxquelles il ne peut pas être dérogé au détriment du travailleur
@@ -8458,7 +8458,7 @@ Après la fin de la liquidation, les liquidateurs requièrent la radiation de la
 
 #### Art. 591
 
-<sup>1</sup> Les actions qu’un créancier de la société peut faire valoir contre un associé en raison de dettes sociales se prescrivent par cinq ans dès la publication de sa sortie ou de la dissolution de la société dans la *Feuille officielle suisse du commerce,* à moins que la créance ne soit, de par sa nature, soumise à une prescription plus courte.
+<sup>1</sup> Les actions qu’un créancier de la société peut faire valoir contre un associé en raison de dettes sociales se prescrivent par cinq ans dès la publication de sa sortie ou de la dissolution de la société dans la *Feui**l**le officielle suisse du commerce,* à moins que la créance ne soit, de par sa nature, soumise à une prescription plus courte.
 
 <sup>2</sup> Si la créance n’est devenue exigible que postérieurement à la publication, le délai court dès l’exigibilité.
 
@@ -9021,7 +9021,7 @@ La société doit être inscrite au registre du commerce du lieu où elle a son 
 
 [^640-1]: Nouvelle teneur selon le ch. I 3 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### II. ...
+### II...
 
 #### Art. 641
 
@@ -10140,7 +10140,7 @@ Si des actions nominatives cotées en bourse sont vendues en bourse, la banque d
 
 <sup>3</sup> Les acquéreurs non encore reconnus par la société sont, après le transfert du droit, inscrits au registre des actions comme actionnaires sans droit de vote. Leurs actions ne sont pas représentées à l’assemblée générale.
 
-<sup>4</sup> En cas de refus illicite de l’acquéreur, la société est tenue de reconnaître son droit de vote ainsi que les droits attachés au droit de vote à partir du jour du tribunalment; elle est en outre tenue de réparer le dommage que l’acquéreur a subi du fait de son refus à moins qu’elle ne prouve qu’aucune faute ne lui est imputable.
+<sup>4</sup> En cas de refus illicite de l’acquéreur, la société est tenue de reconnaître son droit de vote ainsi que les droits attachés au droit de vote à partir du jour du jugement; elle est en outre tenue de réparer le dommage que l’acquéreur a subi du fait de son refus à moins qu’elle ne prouve qu’aucune faute ne lui est imputable.
 
 [^685f-1]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -10391,7 +10391,7 @@ Le droit de vote prend naissance dès que le versement fixé par la loi ou les s
 
 <sup>3</sup> Les livres et la correspondance ne peuvent être consultés qu’en vertu d’une autorisation expresse de l’assemblée générale ou d’une décision du conseil d’administration et pour autant que le secret des affaires soit sauvegardé.
 
-<sup>4</sup> Si les renseignements ou la consultation ont été refusés, le juge statue sur requête.[^697-2]
+<sup>4</sup> Si les renseignements ou la consultation ont été refusés, le tribunal statue sur requête.[^697-2]
 
 [^697-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^697-2]: Nouvelle teneur selon l’annexe 1 ch. II 5 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
@@ -10496,32 +10496,15 @@ Le droit de vote prend naissance dès que le versement fixé par la loi ou les s
 
 [^697h-1]: Introduit par le ch. I de la LF du 4 oct. 1991 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogé par le ch. I 1 de la LF du 23 déc. 2011 (Droit comptable), avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### K. Obligation d’annoncer de l’actionnaire
-
-### I. Annonce de l’acquisition d’actions au porteur
-
 #### Art. 697i
 
 [^697i-1]
 
-<sup>1</sup> Quiconque acquiert des actions au porteur d’une société dont les titres ne sont pas cotés en bourse est tenu d’annoncer cette acquisition, soit son prénom et son nom soit sa raison sociale, ainsi que son adresse dans un délai d’un mois à la société.
+[^697i-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogé par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, avec effet au 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-<sup>2</sup>
+### K. Obligation d’annoncer de l’actionnaire
 
-L’actionnaire doit établir qu’il est le détenteur de l’action au porteur et s’identifier:
-
-- a. en tant que personne physique au moyen d’une pièce de légitimation officielle comportant une photographie, notamment au moyen de son passeport, de sa carte d’identité ou de son permis de conduire (original ou copie de l’un de ces documents);
-- b. en tant que personne morale suisse au moyen d’un extrait du registre du commerce;
-- c. en tant que personne morale étrangère au moyen d’un extrait actuel et attesté conforme du registre du commerce étranger ou au moyen d’un document de même valeur.
-
-<sup>3</sup> L’actionnaire est tenu de communiquer à la société toute modification soit de son prénom et de son nom soit de sa raison sociale, ainsi que de son adresse.
-
-<sup>4</sup> L’acquisition d’actions au porteur émises sous forme de titres intermédiés au sens de la loi du 3 octobre 2008 sur les titres intermédiés[^697i-2] n’est pas soumise à l’obligation d’annoncer. La société désigne le dépositaire auprès duquel les actions au porteur sont déposées ou inscrites au registre principal; ce dépositaire doit être en Suisse.
-
-[^697i-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^697i-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-
-### II. Annonce de l’ayant droit économique des actions
+### I. Annonce de l’ayant droit économique des actions
 
 #### Art. 697j
 
@@ -10539,40 +10522,33 @@ L’actionnaire doit établir qu’il est le détenteur de l’action au porteur
 
 [^697j-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-### III. Annonce auprès d’un intermédiaire financier et obligation de renseigner incombant à ce dernier
-
 #### Art. 697k
 
 [^697k-1]
 
-<sup>1</sup> L’assemblée générale peut prévoir que les annonces visées aux art. 697*i* et 697*j* concernant les actions au porteur sont effectuées non pas à la société, mais à un intermédiaire financier au sens de la loi du 10 octobre 1997 sur le blanchiment d’argent[^697k-2].
+[^697k-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Abrogé par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, avec effet au 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-<sup>2</sup> Le conseil d’administration désigne l’intermédiaire financier et communique son identité aux actionnaires.
-
-<sup>3</sup> L’intermédiaire financier doit renseigner en tout temps la société sur les actions au porteur pour lesquelles les annonces prescrites ont été effectuées et la détention a été établie.
-
-[^697k-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^697k-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-
-### IV. Liste
+### II. Liste des ayants droit économiques
 
 #### Art. 697l
 
 [^697l-1]
 
-<sup>1</sup> La société tient une liste des détenteurs d’actions au porteur et des ayants droit économiques annoncés à la société.
+<sup>1</sup> La société tient une liste des ayants droit économiques qui lui ont été annoncés.
 
-<sup>2</sup> Cette liste mentionne soit le prénom et le nom soit la raison sociale ainsi que l’adresse des détenteurs d’actions au porteur et des ayants droit économiques. Elle mentionne la nationalité et la date de naissance des détenteurs d’actions au porteur.
+<sup>2</sup> Cette liste mentionne le prénom et le nom ainsi que l’adresse des ayants droit économiques.
 
-<sup>3</sup> Les pièces justificatives de l’annonce au sens des art. 697*i* et 697*j* doivent être conservées pendant dix ans après la radiation de la personne de la liste.
+<sup>3</sup> Les pièces justificatives de l’annonce au sens de l’art. 697*j* doivent être conservées pendant dix ans après la radiation de la personne de la liste.
 
-<sup>4</sup> Si la société a désigné un intermédiaire financier conformément à l’art. 697*k*, c’est à lui qu’incombe l’obligation de tenir la liste et de conserver les pièces justificatives de l’annonce.
+<sup>4</sup> La liste doit être tenue de manière à ce qu’il soit possible d’y accéder en tout temps en Suisse.
 
-<sup>5</sup> La liste doit être tenue de manière à ce qu’il soit possible d’y accéder en tout temps en Suisse.
+[^697l-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
-[^697l-1]: Introduit par le ch. I 2 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+### III. Non-respect des obligations d’annoncer
 
-### V. Non-respect des obligations d’annoncer
+[^part3-tit26-chap2-lvlK-lvlIII-1]
+
+[^part3-tit26-chap2-lvlK-lvlIII-1]: Nouvelle teneur selon le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
@@ -10723,7 +10699,7 @@ Une décision de l’assemblée générale recueillant au moins les deux tiers d
 
 <sup>2</sup> Les dispositions statutaires qui prévoient pour la prise de certaines décisions une plus forte majorité que celle prévue par la loi ne peuvent être adoptées qu’à la majorité prévue.
 
-<sup>3</sup> Les titulaires d’actions nominatives qui n’ont pas adhéré à une décision ayant pour objet la transformation du but social ou l’introduction d’actions à droit de vote privilégié ne sont pas liés par les restrictions statutaires de la transmissibilité des actions pendant un délai de six mois à compter de la publication de cette décision dans la *Feuille officielle suisse du commerce.*
+<sup>3</sup> Les titulaires d’actions nominatives qui n’ont pas adhéré à une décision ayant pour objet la transformation du but social ou l’introduction d’actions à droit de vote privilégié ne sont pas liés par les restrictions statutaires de la transmissibilité des actions pendant un délai de six mois à compter de la publication de cette décision dans la *Feuille off**i**cielle suisse du commerce.*
 
 [^704-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^704-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
@@ -11430,7 +11406,7 @@ Un actionnaire ou un créancier peut requérir du tribunal qu’il prenne les me
 - 1\. un des organes prescrits fait défaut;
 - 2\. un organe prescrit n’est pas composé correctement;
 - 3\. la société ne tient pas conformément aux prescriptions le registre des actions ou la liste des ayants droit économiques qui lui ont été annoncés;
-- 4\. ...
+- 4\. la société a émis des actions au porteur sans avoir de titres de participation cotés en bourse ou sous une forme autre que celle de titres intermédiés;
 - 5\. la société n’a plus de domicile à son siège.[^731b-1]
 
 <sup>1bis</sup>
@@ -11524,7 +11500,7 @@ La réduction du capital-actions ne peut être opérée qu’après que le déla
 - 1\. les raisons pour lesquelles la représentation de chaque sexe n’atteint pas le minimum prévu;
 - 2\. les mesures de promotion du sexe le moins représenté.
 
-[^734f-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Voir l’art. 4 des disp. trans. de cette mod. à la fin du texte.
+[^734f-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). ). Voir l’art. 4 des disp. trans. de cette mod. à la fin du texte.
 
 ### E. Réduction en cas de bilan déficitaire
 
@@ -11827,7 +11803,7 @@ Les fondateurs, les membres du conseil d’administration et toutes les personne
 
 [^761-1]
 
-[^761-1]: Abrogé par l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^761-1]: Abrogé par l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [FF 1999 III 2591](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### Chapitre VII: Participation de corporations de droit public
 
@@ -14592,7 +14568,7 @@ Le passif du bilan est présenté par ordre d’exigibilité décroissante; il c
 
 <sup>2</sup>
 
-Le compte de résultat par nature comporte au moins les postes ci-après, indiqués séparément et selon la structure suivante:
+Le compte de résultat par nature comporte au moins les postes ci‑après, indiqués séparément et selon la structure suivante:
 
 - 1\. produits nets des ventes de biens et de prestations de services;
 - 2\. variation des stocks de produits finis et semi-finis et variation des prestations de services non facturées;
@@ -14608,7 +14584,7 @@ Le compte de résultat par nature comporte au moins les postes ci-après, indiqu
 
 <sup>3</sup>
 
-Le compte de résultat par fonction comporte au moins les postes ci-après, indiqués séparément et selon la structure suivante:
+Le compte de résultat par fonction comporte au moins les postes ci‑après, indiqués séparément et selon la structure suivante:
 
 - 1\. produits nets des ventes de biens et de prestations de services;
 - 2\. coûts d’acquisition ou de production des biens et prestations de services vendus;
@@ -14916,7 +14892,7 @@ Dans les cas suivants, l’entreprise reste tenue d’établir des comptes conso
 
 [^part4-tit32-chap6-1]
 
-[^part4-tit32-chap6-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). ). Voir l’art. 7 des disp. trans. de cette mod. à la fin du texte.
+[^part4-tit32-chap6-1]: Introduit par le ch. I de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Voir l’art. 7 des disp. trans. de cette mod. à la fin du texte.
 
 ### A. Principe
 
@@ -15315,7 +15291,7 @@ Le débiteur qui s’est réservé, sur le titre nominatif, la faculté de payer
 
 [^part5-tit33-chap3-lvlC-lvlI-lvl1-1]
 
-[^part5-tit33-chap3-lvlC-lvlI-lvl1-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^part5-tit33-chap3-lvlC-lvlI-lvl1-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [FF 1999 III 2591](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 #### Art. 981
 
@@ -15327,7 +15303,7 @@ Le débiteur qui s’est réservé, sur le titre nominatif, la faculté de payer
 
 <sup>4</sup> Lorsque le porteur a perdu seulement la feuille de coupons ou le talon dont le titre était muni, il suffit que le titre principal soit produit à l’appui de sa requête.
 
-[^981-1]: Abrogé par l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^981-1]: Abrogé par l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [FF 1999 III 2591](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### 2. Défense de payer
 
@@ -15347,7 +15323,7 @@ Si le juge estime dignes de foi les allégations du requérant au sujet de la po
 
 #### Art. 984
 
-<sup>1</sup> La sommation de produire le titre est publiée trois fois dans la *Feuille officielle suisse du commerce*.
+<sup>1</sup> La sommation de produire le titre est publiée trois fois dans la *Feui**l**le officielle suisse du commerce*.
 
 <sup>2</sup> Le juge peut exceptionnellement prescrire telles autres mesures de publicité qui lui paraîtraient utiles.
 
@@ -16249,7 +16225,7 @@ La prescription est interrompue par l’introduction d’une action en justice, 
 
 <sup>2</sup> Dans cette ordonnance, le juge autorise le tiré à consigner, lors de l’échéance, le montant de la lettre de change et il désigne le lieu de la consignation.
 
-[^1072-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^1072-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [FF 1999 III 2591](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### 2. Si le détenteur du titre est connu
 
@@ -17992,7 +17968,7 @@ Le Conseil fédéral fixe la date de l’entrée en vigueur de la présente loi.
 [^u14-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^u14-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
-## Dispositions finales et transitoires des titres vingt-quatrième à trente-troisième****
+## Dispositions finales et transitoires des titres vingt‑quatrième à trente-troisième****
 
 [^u15-1]
 
@@ -18250,7 +18226,7 @@ La présente loi est sujette au référendum facultatif.
 
 Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-## Dispositions finales du chapitre II du titre trente-quatrième****
+## Dispositions finales du chapitre II du titre trente‑quatrième****
 
 [^u17-1]
 
