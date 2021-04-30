@@ -3,18 +3,18 @@ sr: "412.101.221.84"
 title: Ordonnance du SEFRI du 23 août 2012 sur la formation professionnelle initiale de conductrice de véhicules lourds/conducteur de véhicules lourds avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/658"
 language: fr
-version: 2018-01-01
+version: 2021-05-01
 adopted: 2012-08-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/658/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-658-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/658/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/658/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2012-658-20210501-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/658/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale de conductrice de véhicules lourds/conducteur de véhicules lourds avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de conductrice de véhicules lourds/conducteur de véhicules lourds avec certificat fédéral de capacité (CFC)\*
 
-du 23 août 2012 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 23 août 2012 (Etat le 1<sup>er</sup> mai 2021)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -26,7 +26,7 @@ Le Secrétariat d’État à la formation, à la recherche et à l’innovation 
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -197,18 +197,16 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 <sup>1</sup> L’entreprise formatrice est responsable de l’enseignement de la conduite des personnes en formation.
 
-<sup>2</sup>
+<sup>2</sup> ...[^11-1]
 
-Est chargé par l’entreprise formatrice de donner les leçons de conduite:
-
-- a. un collaborateur de l’entreprise disposant d’une autorisation de former au sens de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière (OAC)[^11-1], ou
-- b. un moniteur de conduite.
-
-<sup>3</sup> Les courses d’apprentissage sont régies par l’OAC.
+<sup>3</sup> Les courses d’apprentissage sont régies par les art. 15 de la loi fédérale du 19 décembre 1958 sur la circulation routière[^11-2] et 150, al. 6, de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière[^11-3].[^11-4]
 
 <sup>4</sup> Les coûts des leçons de conduite et du premier examen de conduite de toutes les catégories sont à la charge de l’entreprise formatrice.
 
-[^11-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^11-1]: Abrogé par le ch. I de l’O du SEFRI du 26 mars 2021, avec effet au 1<sup>er</sup> mai 2021 ([RO 2021 179](https://fedlex.data.admin.ch/eli/oc/2021/179)).
+[^11-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^11-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^11-4]: Nouvelle teneur selon le ch.I de l’O du 26 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 179](https://fedlex.data.admin.ch/eli/oc/2021/179)).
 
 #### Art. 12
 
