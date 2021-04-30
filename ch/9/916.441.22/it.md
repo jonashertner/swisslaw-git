@@ -4,11 +4,11 @@ title: Ordinanza del 25 maggio 2011 concernente i sottoprodotti di origine anima
 short: OSOAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: it
-version: 2018-06-01
+version: 2021-05-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20180601/it/xml/fedlex-data-admin-ch-eli-cc-2011-372-20180601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20180601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2011-372-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20180601/it"
 
 (OSOAn)**[^t-1]**
 
-del 25 maggio 2011 (Stato 1° giugno 2018) (Stato 1° giugno 2018)
+del 25 maggio 2011 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -91,7 +91,7 @@ I seguenti sottoprodotti di origine animale sono inoltre soggetti all’ordinanz
 [^2-4]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^2-5]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 [^2-6]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^2-7]: Nuovo testo giusta il n. 14 dell’all. 5 all’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^2-7]: Nuovo testo giusta l’all. 5 n. 14 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 2a
 
@@ -305,7 +305,7 @@ Non sussiste alcun obbligo di notifica per:
 
 <sup>4</sup> L’autorizzazione rimane valida anche in seguito a un cambiamento di proprietario dell’impianto o dello stabilimento.[^12-3]
 
-<sup>5</sup> L’autorizzazione d’esercizio è rinnovata su richiesta, qualora dal controllo risulti che i requisiti costruttivi e gestionali sono soddisfatti.
+<sup>5</sup> L’autorizzazione d’esercizio è rinnovata su richiesta, qualora dalla verifica risulti che i requisiti costruttivi e gestionali sono soddisfatti.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^12-2]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
@@ -640,7 +640,7 @@ In deroga all’articolo 27 capoverso 3, le proteine animali trasformate di non 
 
 <sup>1</sup>
 
-In deroga all’articolo 27 capoverso 3, le proteine animali trasformate di insetti possono entrare nella composizione di alimenti per animali acquatici, se:
+In deroga all’articolo 27 capoverso 3 le proteine animali trasformate di insetti possono entrare nella composizione di alimenti per animali acquatici, se:[^31a-2]
 
 - a. provengono da sottoprodotti di origine animale di cui all’articolo 7 lettera d;
 - b.
@@ -652,14 +652,15 @@ In deroga all’articolo 27 capoverso 3, le proteine animali trasformate di inse
   - 3\. alfitobio (*Alphitobius diaperinus*),
   - 4\. grillo domestico (*Acheta domesticus*),
   - 5\. grillo tropicale (*Gryllodes sigillatus*),
-  - 6\. grillo silente (*Gryllus assimilis*);
+  - 6\. grillo silente (*Gryllus assimilis*),
+  - 7\.[^31a-3] mosca domestica (*Musca domestica*);
 
 - c. le larve degli insetti sono alimentate esclusivamente con prodotti di cui al capoverso 2;
 - d. sono prodotte secondo l’allegato 5 numero 30 e si dimostra l’adempimento delle norme microbiologiche di cui all’allegato 5 numero 38;
 - e. a ogni livello della filiera (dalla produzione fino al momento della somministrazione) sono raccolte, immagazzinate, trasformate e trasportate in installazioni e impianti non utilizzati per produrre alimenti per ruminanti;
 - f. lo stabilimento di produzione di alimenti per animali è notificato al controllo ufficiale degli alimenti per animali Agroscope;
 - g. lo stabilimento di produzione tiene un registro sull’utilizzo delle proteine animali trasformate;
-- h. gli alimenti per animali sono immagazzinati e somministrati soltanto in aziende di acquacoltura registrate di cui all’articolo 6 lettera o<sup>bis</sup> OFE[^31a-2]; e
+- h. gli alimenti per animali sono immagazzinati e somministrati soltanto in aziende di acquacoltura registrate di cui all’articolo 6 lettera o<sup>bis</sup> OFE[^31a-4]; e
 - i. gli altri animali da reddito tenuti nell’area dell’azienda di acquacoltura non entrano a contatto né direttamente né indirettamente con gli alimenti per animali acquatici.
 
 <sup>2</sup>
@@ -672,7 +673,9 @@ Le larve degli insetti possono essere alimentate con sostrati vegetali e con i s
 - d. farina di pesce.
 
 [^31a-1]: Introdotto dal n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^31a-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^31a-2]: Nuovo testo giusta l’all. n. 2 dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^31a-3]: Introdotto dall’all. n. 2 dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^31a-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 32
 
@@ -1195,7 +1198,7 @@ Allegato 4
 - 433 Nei centri di raccolta devono essere attuati i provvedimenti necessari per impedire l’intrusione di uccelli e roditori come pure per combattere gli insetti.
 - 434 I centri di raccolta devono disporre di un sistema di evacuazione delle acque reflue igienicamente ineccepibile.
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 20 cpv. 3 lett. c, 21, 22 cpv. 1 lett. b, 23 cpv. 1 lett. b, 28 lett. a e d, 29 lett. a, 30 lett. d, 31 lett. b, 31*a* lett. d, 32 lett. b, 33 cpv. 1 e 2 lett. a e d nonché cpv. 4, 34*a* e 35 lett. a)
 
@@ -1360,7 +1363,7 @@ Allegato 5*[^t-5]*
 
 - I sottoprodotti di origine animale e i prodotti derivati usati nella fabbricazione di prodotti tecnici devono essere pastorizzati oppure trattati utilizzando un altro processo di efficacia comparabile per quanto attiene alla riduzione di microorganismi.
 
-Allegato 6*[^t-6]*
+Allegato 6[^t-6]
 
 [^t-6]: Ora: allegato 1*a* ([RU 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -1370,7 +1373,7 @@ Allegato 7*[^t-7]*
 
 ## Requisiti dei luoghi di sotterramento di corpi di animali e misure preventive relative al sotterramento
 
-[^t-7]: Aggiornato dal n. 5 dell’all. all’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^t-7]: Aggiornato dell’all. n. 5 dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 ### 1 Ubicazione
 

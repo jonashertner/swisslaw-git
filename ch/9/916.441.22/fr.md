@@ -4,11 +4,11 @@ title: Ordonnance du 25 mai 2011 concernant les sous-produits animaux (OSPA)
 short: OSPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: fr
-version: 2018-06-01
+version: 2021-05-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20180601/fr/xml/fedlex-data-admin-ch-eli-cc-2011-372-20180601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20180601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2011-372-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20180601/fr"
 
 (OSPA)**[^t-1]**
 
-du 25 mai 2011 (Etat le 1<sup>er</sup> juin 2018)
+du 25 mai 2011 (Etat le 1<sup>er</sup> mai 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -91,7 +91,7 @@ L’ordonnance du 9 mai 2012 sur l’utilisation confinée[^2-6] est applicable 
 [^2-4]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 [^2-5]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)).
 [^2-6]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^2-7]: Nouvelle teneur selon le ch. 14 de l’annexe 5 à l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^2-7]: Nouvelle teneur selon l’annexe 5 ch. 14 de l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 2a
 
@@ -308,7 +308,7 @@ Une communication n’est pas requise pour:
 
 <sup>4</sup> L’autorisation reste valable même en cas de changement d’exploitant.
 
-<sup>5</sup> L’autorisation est renouvelée sur demande, si l’inspection permet de conclure que les exigences relatives à la construction et à l’exploitation formulées dans la présente ordonnance sont remplies.
+<sup>5</sup> L’autorisation est renouvelée sur demande, si la vérification permet de conclure que les exigences relatives à la construction et à l’exploitation formulées dans la présente ordonnance sont remplies.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -438,7 +438,7 @@ Les exigences des al. 1 et 2 s’appliquent aux produits dérivés:
 
 #### Art. 22
 
-**Elimination des sous-produits animaux de catégorie 1**
+**Élimination des sous-produits animaux de catégorie 1**
 
 <sup>1</sup>
 
@@ -472,7 +472,7 @@ Les cadavres d’animaux et les parties de cadavres d’animaux peuvent être ut
 
 #### Art. 23
 
-**Elimination des sous-produits animaux de catégorie 2**
+**Élimination des sous-produits animaux de catégorie 2**
 
 <sup>1</sup>
 
@@ -495,7 +495,7 @@ Les sous-produits animaux de catégorie 2 doivent être éliminés:
 
 #### Art. 24
 
-**Elimination des sous-produits animaux de catégorie 3**
+**Élimination des sous-produits animaux de catégorie 3**
 
 <sup>1</sup>
 
@@ -530,7 +530,7 @@ Peuvent être enfouis:
 
 #### Art. 26
 
-**Elimination des résidus de l’incinération et de la fermentation**
+**Élimination des résidus de l’incinération et de la fermentation**
 
 L’élimination ou la valorisation des résidus produits par les usines d’incinération et par les usines de production de biogaz ou de compostage sont régies par la législation sur la protection de l’environnement et par la législation sur l’agriculture, notamment par l’ordonnance du 4 décembre 2015 sur les déchets (OLED)[^26-1], par l’ordonnance du 22 juin 2005 sur les mouvements de déchets[^26-2], par l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques[^26-3] et par l’ordonnance du 10 janvier 2001 sur les engrais[^26-4].
 
@@ -652,14 +652,15 @@ En dérogation à l’art. 27, al. 3, les protéines animales transformées dér
   - 3\. le petit ténébrion mat *(Alphitobius diaperinus)*,
   - 4\. le grillon domestique (*Acheta domesticus*),
   - 5\. le grillon domestique tropical (*Gryllodes sigillatus*),
-  - 6\. le grillon des steppes (*Gryllus assimilis*);
+  - 6\. le grillon des steppes (*Gryllus assimilis*),
+  - 7\.[^31a-2] la mouche domestique *(Musca domestica)*;
 
 - c. que les larves d’insectes aient été exclusivement nourries avec des produits visés à l’al. 2;
 - d. qu’elles aient été fabriquées conformément à l’annexe 5, ch. 30, et que le respect des normes microbiologiques visées à l’annexe 5, ch. 38, soit établi;
 - e. qu’à tous les stades, depuis la production jusqu’à l’utilisation dans l’alimentation animale, elles aient été collectées, entreposées, transformées et transportées dans des équipements, des usines ou des installations non utilisés pour les aliments destinés aux ruminants;
 - f. que l’établissement de fabrication de l’aliment ait été annoncé au service d’Agroscope chargé du contrôle officiel des aliments pour animaux;
 - g. que l’établissement de fabrication tienne un registre des protéines animales transformées utilisées;
-- h. que les aliments pour animaux ne soient pas entreposés et affourragés dans d’autres unités d’élevage que les exploitations aquacoles enregistrées visées l’art. 6, let. o<sup>bis</sup>, OFE[^31a-2], et
+- h. que les aliments pour animaux ne soient pas entreposés et affourragés dans d’autres unités d’élevage que les exploitations aquacoles enregistrées visées l’art. 6, let. o<sup>bis</sup>, OFE[^31a-3], et
 - i. que les autres animaux de rente détenus sur le site de l’exploitation aquacole n’entrent pas en contact direct ou indirect avec les aliments destinés aux animaux aquatiques.
 
 <sup>2</sup>
@@ -672,7 +673,8 @@ Les larves d’insectes peuvent être nourries avec des substrats végétaux et 
 - d. les farines de poisson.
 
 [^31a-1]: Introduit par le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^31a-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^31a-2]: Introduit par le ch. II de l’O du 31 mars 2021, en vigueur depuis le 1 <sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^31a-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 32
 
@@ -780,7 +782,7 @@ Les sous-produits animaux de catégorie 3 peuvent être utilisés pour la fabric
 
 #### Art. 36
 
-**Elimination par le détenteur**
+**Élimination par le détenteur**
 
 <sup>1</sup> Quiconque produit ou transforme des produits d’origine animale à titre d’activité professionnelle est tenu d’éliminer ou de faire éliminer les sous-produits animaux résultant de cette production ou transformation.
 
@@ -790,7 +792,7 @@ Les sous-produits animaux de catégorie 3 peuvent être utilisés pour la fabric
 
 #### Art. 37
 
-**Elimination par le canton**
+**Élimination par le canton**
 
 <sup>1</sup> Le canton est responsable de l’élimination des sous-produits animaux qui n’ont pas été produits dans le cadre de la production ou de la transformation de produits d’origine animale exercée à titre d’activité professionnelle; les restes d’aliments ne sont pas concernés.
 
@@ -939,7 +941,7 @@ Annexe 1a*[^t-2]*
 
 ## Produits dérivés qui ont atteint le point final
 
-[^t-2]: Anciennement annexe 6. Mise à jour selon l’erratum du 5 juil. 2011 ([RO 2011 3253](https://fedlex.data.admin.ch/eli/oc/2011/425)), le ch. II de l’O du 28 oct. 2015 ([RO 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)) et le ch. II al. 4 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-2]: Anciennement annexe 6. Mise à jour par l’erratum du 5 juil. 2011 ([RO 2011 3253](https://fedlex.data.admin.ch/eli/oc/2011/425)), le ch. II de l’O du 28 oct. 2015 ([RO 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)) et le ch. II al. 4 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 - 1 Biodiesel et résidus du processus de distillation, biogaz et autres carburants obtenus à partir de produits dérivés.
 - 2 Aliments pour animaux de compagnie et articles à mâcher en confectionnement fini, prêts à l’emploi, dans des récipients ou emballages étiquetés conformément à l’art. 15 de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^annex1a-lvlu1-1].
@@ -974,7 +976,7 @@ Annexe 1b*[^t-3]*
 [^t-3]: Anciennement annexe 1. Nouvelle teneur selon le ch. II al. 3 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 - 1 Établissements qui transforment des sous-produits animaux en utilisant les méthodes définies à l’annexe 5 ou à l’art. 21, al. 2.
-- 2 Etablissements qui incinèrent des sous-produits animaux, à l’exception des entreprises titulaires d’une autorisation d’exploitation exigée par le droit sur la protection de l’environnement.
+- 2 Établissements qui incinèrent des sous-produits animaux, à l’exception des entreprises titulaires d’une autorisation d’exploitation exigée par le droit sur la protection de l’environnement.
 - 3 Établissements qui produisent des combustibles ou du carburant à partir de sous-produits animaux ou qui utilisent ces combustibles.
 - 4 Établissements qui fabriquent des aliments pour animaux de compagnie.
 - 5 Usines et installations de production de biogaz ou de compostage.
@@ -1005,7 +1007,7 @@ Annexe 2*[^t-4]*
 
 ## Principes de l’autocontrôle
 
-[^t-4]: Mise à jour selon le ch. II al. 4 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-4]: Mise à jour par le ch. II al. 4 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 - 1
 
@@ -1037,7 +1039,7 @@ Annexe 3
 - 113 La partie sale des usines ou installations comprend le point de déchargement des sous-produits animaux et les secteurs où une propagation d’agents pathogènes est possible. La partie sale doit constituer un espace fermé.
 - 114 Les usines ou installations doivent disposer d’une aire couverte pour la réception des sous-produits animaux.
 
-### 12 Equipement des locaux
+### 12 Équipement des locaux
 
 - 121 Les usines ou installations doivent être construites de manière à pouvoir être aisément nettoyées et désinfectées. Les sols doivent être conçus de manière à faciliter l’écoulement des liquides.
 - 122 Les usines ou installations doivent être dotées d’une installation de réfrigération qui permette de réfrigérer, à une température de +4 °C au maximum, les sous-produits animaux qui ne sont pas transformés dans les 24 heures après leur réception.
@@ -1178,7 +1180,7 @@ Annexe 4
 - 411 Les centres de collecte doivent être clôturés ou empêcher d’une autre manière l’accès des animaux et des personnes non autorisées.
 - 412 Les centres de collecte doivent disposer d’une aire couverte pour la réception des sous-produits animaux.
 
-### 42 Equipement des locaux
+### 42 Équipement des locaux
 
 - 421 Les centres de collecte doivent être conçus de manière à pouvoir être aisément nettoyés et désinfectés. Les sols doivent être conçus de manière à faciliter l’écoulement des liquides.
 - 422 Les centres de collecte doivent être dotés d’une installation de réfrigération qui permette de réfrigérer, à une température de +4 °C au maximum, les sous-produits animaux qui ne sont pas ramassés dans les 24 heures.
@@ -1196,7 +1198,7 @@ Annexe 5*[^t-5]*
 
 ## Méthodes de transformation des sous-produits animaux
 
-[^t-5]: Mise à jour selon le ch. II de l’O du 28 oct. 2015 ([RO 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)) et le ch. II al. 4 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
+[^t-5]: Mise à jour par le ch. II de l’O du 28 oct. 2015 ([RO 2015 4271](https://fedlex.data.admin.ch/eli/oc/2015/718)) et le ch. II al. 4 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 ### 1 Stérilisation sous pression
 
@@ -1357,8 +1359,6 @@ Annexe 5*[^t-5]*
 
 Annexe 6*[^t-6]*
 
-- [tab]
-
 [^t-6]: Actuellement annexe 1a ([RO 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
 Annexe 7*[^t-7]*
@@ -1367,7 +1367,7 @@ Annexe 7*[^t-7]*
 
 ## Exigences applicables aux sites d’enfouissement des cadavres d’animaux et mesures de précaution lors de l’enfouissement
 
-[^t-7]: Mise à jour selon le ch. 5 de l’annexe à l’O du 4 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
+[^t-7]: Mise à jour par l’annexe ch. 5 de l’O du 4 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
 
 ### 1 Emplacement
 

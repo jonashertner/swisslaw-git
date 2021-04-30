@@ -4,11 +4,11 @@ title: Verordnung vom 25. Mai 2011 über tierische Nebenprodukte (VTNP)
 short: VTNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/372"
 language: de
-version: 2018-06-01
+version: 2021-05-01
 adopted: 2011-05-25
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20180601/de/xml/fedlex-data-admin-ch-eli-cc-2011-372-20180601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20180601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/372/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2011-372-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/372/20180601/de"
 
 (VTNP)**[^t-1]**
 
-vom 25. Mai 2011 (Stand am 1. Juni 2018)
+vom 25. Mai 2011 (Stand am 1. Mai 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -57,7 +57,7 @@ Sie gilt nicht für:
 - c. Eizellen, Embryonen und Samen zu Zuchtzwecken;
 - d. Rohmilch, Kolostrum und daraus gewonnene Erzeugnisse, die im Ursprungsbetrieb gewonnen, aufbewahrt und beseitigt oder verwendet werden;
 - e. Schalen von Weich- und Krebstieren ohne weiches Gewebe und Fleisch;
-- f.[^2-3] …
+- f.[^2-3] ...
 - g.
 
   Stoffwechselprodukte, ausser wenn diese:
@@ -185,7 +185,7 @@ Tierische Nebenprodukte der Kategorie 2 sind:
 - a. Schlachttierkörper oder Teile davon, die nicht zur Kategorie 1 gehören, von der Fleischkontrolle als ungeniessbar bezeichnet worden sind und Anzeichen einer auf Menschen oder Tiere übertragbaren Krankheit aufweisen;
 - b.[^6-1] Tierkörper von Geflügel, das aus kommerziellen Gründen oder im Rahmen der Salmonellenbekämpfung getötet statt geschlachtet wurde;
 - c. Stoffwechselprodukte;
-- d.[^6-2] …
+- d.[^6-2] ...
 - e. tierische Erzeugnisse, die mit Fremdkörpern vermengt und deshalb nicht genusstauglich sind;
 - f. tierische Nebenprodukte mit Rückständen in Konzentrationen, welche die Grenzwerte nach der Fremd- und Inhaltsstoffverordnung vom 26. Juni 1995[^6-3] überschreiten, oder die aufgrund eines positiven Hemmstofftests aus der Lebensmittelkette ausgeschlossen werden;
 - g. Feststoffe aus anderen Schlachtbetrieben als den in Artikel 5 Buchstabe f genannten.
@@ -436,7 +436,7 @@ Für Folgeprodukte gelten die Anforderungen nach den Absätzen 1 und 2:
 
 <sup>2</sup> Das BLV kann weitere Verarbeitungsmethoden zulassen, wenn sie in der Wirkung mindestens den Methoden nach Anhang 5 entsprechen.
 
-<sup>3</sup> …[^21-1]
+<sup>3</sup> ...[^21-1]
 
 [^21-1]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
 
@@ -658,14 +658,15 @@ Abweichend von Artikel 27 Absatz 3 darf verarbeitetes tierisches Protein von Ins
   - 3\. glänzender Getreideschimmelkäfer (*Alphitobius diaperinus*),
   - 4\. Heimchen oder Hausgrille (*Acheta domesticus*),
   - 5\. Kurzflügelgrille oder südliche Hausgrille (*Gryllodes sigillatus*),
-  - 6\. Steppengrille (*Gryllus assimilis*);
+  - 6\. Steppengrille (*Gryllus assimilis*),
+  - 7\.[^31a-2] Stubenfliege (*Musca domestica*);
 
 - c. die Insektenlarven ausschliesslich mit Produkten nach Absatz 2 gefüttert werden;
 - d. es nach Anhang 5 Ziffer 30 hergestellt und die Einhaltung der mikrobiologischen Normen nach Anhang 5 Ziffer 38 nachgewiesen wird;
 - e. es auf allen Stufen von der Gewinnung bis zum Zeitpunkt der Verfütterung in Einrichtungen und Anlagen, die nicht für Futtermittel von Wiederkäuern benutzt werden, gesammelt, gelagert, verarbeitet und transportiert wird;
 - f. der Herstellerbetrieb des Futtermittels der amtlichen Futtermittelkontrolle von Agroscope gemeldet ist;
 - g. der Herstellerbetrieb über die Verwendung des verarbeiteten tierischen Proteins Buch führt;
-- h. die Futtermittel in keinen anderen Tierhaltungen gelagert und verfüttert werden als in registrierten Aquakulturbetrieben nach Artikel 6 Buchstabe o<sup>bis</sup> TSV[^31a-2]; und
+- h. die Futtermittel in keinen anderen Tierhaltungen gelagert und verfüttert werden als in registrierten Aquakulturbetrieben nach Artikel 6 Buchstabe o<sup>bis</sup> TSV[^31a-3]; und
 - i. andere Nutztiere, die auf dem Areal des Aquakulturbetriebs gehalten werden, weder direkt noch indirekt mit den Futtermitteln für Wassertiere in Kontakt kommen.
 
 <sup>2</sup>
@@ -678,7 +679,8 @@ Den Insektenlarven dürfen pflanzliche Substrate sowie die folgenden tierischen 
 - d. Fischmehl.
 
 [^31a-1]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2097](https://fedlex.data.admin.ch/eli/oc/2018/296)).
-[^31a-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^31a-2]: Eingefügt durch Anhang Ziff. 2 der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^31a-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 32
 
@@ -1405,7 +1407,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annex8-lvlu1-2]
+...[^annex8-lvlu1-2]
 
 [^annex8-lvlu1-1]: [[AS 2004 3079](https://fedlex.data.admin.ch/eli/oc/2004/399), [2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)Anhang 3 Ziff. II 9, [2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 6, [2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 2, [2008 1189](https://fedlex.data.admin.ch/eli/oc/2008/214)]
 [^annex8-lvlu1-2]: Die Änderungen können unter [AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)konsultiert werden.
