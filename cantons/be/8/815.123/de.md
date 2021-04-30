@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-04-19
-valid_until: 2021-04-30
-version_adopted: 2021-04-16
+version: 2021-05-01
+valid_until: 2021-05-27
+version_adopted: 2021-04-28
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2268/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2272/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2268/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 19.04.2021)
+vom 04.11.2020 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 31 Absatz 1 und Artikel 40 Absatz 1 und Absatz 2 des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-1], Artikel 2, Artikel 7, Artikel 8 und Artikel 9 Absatz 2 der eidgenössischen Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^ingress-2] sowie Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19-Verordnung 3)[^ingress-3],
+gestützt auf Artikel 31 Absatz 1, Artikel 33, Artikel 40 Absatz 1 und 2, Artikel 58 und Artikel 59 Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-1], Artikel 2, Artikel 7, Artikel 8 und Artikel 9 Absatz 2 der eidgenössischen Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^ingress-2] sowie Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19-Verordnung 3)[^ingress-3],
 
 auf Antrag der Staatskanzlei,
 
@@ -55,7 +55,7 @@ beschliesst:
 
 **Kontaktdaten von Gästen**
 
-<sup>1</sup> Die Erhebung von Kontaktdaten richtet sich grundsätzlich nach Artikel 5 sowie Anhang Ziffer 4 der Covid-19-Verordnung besondere Lage.
+<sup>1</sup> Die Erhebung von Kontaktdaten richtet sich grundsätzlich nach der Covid-19-Verordnung besondere Lage.
 
 <sup>2</sup> Es sind folgende Angaben zu erheben:
 
@@ -65,7 +65,53 @@ beschliesst:
 - d …
 - e Tisch- oder Sitzplatznummer.
 
-<sup>3</sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen geführten elektronischen Gästeliste aufzubewahren.
+<sup>3</sup> Die Kontaktdaten sind in Abweichung von Artikel 5 Absatz 2 Covid-19-Verordnung besondere Lage unaufgefordert an die zentrale Datenbank gemäss Artikel 3a zu übermitteln.
+
+<sup>4</sup> Die Übermittlung gemäss Absatz 3 hat automatisch oder mindestens einmal innert 24 Stunden zu erfolgen. Im Übrigen legt die Gesundheits-, Sozial- und Integrationsdirektion die Form der Übermittlung fest.
+
+#### Art. 3a
+
+**Zentrale Datenbank**
+
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion betreibt eine zentrale Datenbank, in welche die Kontaktdaten gemäss Artikel 3 aufzunehmen sind.
+
+<sup>2</sup> Die Datenbank dient der Bearbeitung von Kontaktdaten zwecks Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen nach Artikel 33 EpG (Contact Tracing).
+
+#### Art. 3b
+
+**Bearbeitung von Kontaktdaten**
+
+<sup>1</sup> Die erhobenen Kontaktdaten dürfen zu keinem anderen Zweck als dem Contact Tracing gemäss Artikel 3a Absatz 2 bearbeitet werden.
+
+<sup>2</sup> Auf die Kontaktdaten darf nur aufgrund eines konkreten gesundheitsrelevanten Ereignisses zugegriffen werden und der Zugriff ist auf die erforderlichen Daten zu beschränken.
+
+<sup>3</sup> Für die Bekanntgabe der Kontaktdaten gilt sinngemäss Artikel 59 EpG.
+
+<sup>4</sup> Die Kontaktdaten müssen bis 14 Tage nach dem Besuch der Einrichtung oder des Betriebs aufbewahrt und anschliessend sofort vernichtet werden.
+
+#### Art. 3c
+
+**Informationssicherheit und Datenschutz**
+
+<sup>1</sup> Der Datenschutz richtet sich nach dem Datenschutzgesetz vom 19. Februar 1986 (KDSG)[^3c-1].
+
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist für die Sicherheit der Datenbank und die Rechtmässigkeit der Datenbearbeitung verantwortlich. Sie trifft entsprechende organisatorische und technische Massnahmen.
+
+<sup>3</sup> Sie sorgt für die Vorabkontrolle bei der kantonalen Aufsichtsstelle gemäss Artikel 17a KDSG.
+
+[^3c-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
+
+#### Art. 3d
+
+**Auslagerung**
+
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann Private oder Organisationen ausserhalb der Verwaltung mit dem Betrieb der Datenbank beauftragen, sofern die ordnungsgemässe Aufgabenerfüllung gewährleistet ist.
+
+<sup>2</sup> Wird der Betrieb der Datenbank an Private oder Organisationen ausserhalb der Verwaltung ausgelagert, schliesst die Gesundheits-, Sozial- und Integrationsdirektion einen Leistungsvertrag ab.
+
+<sup>3</sup> Leistungserbringer gemäss Absatz 1 unterliegen denselben Pflichten wie die Gesundheits-, Sozial- und Integrationsdirektion. Sie haben insbesondere die Informationssicherheit und den Datenschutz zu gewährleisten.
+
+<sup>4</sup> Im Leistungsvertrag verpflichtet die Gesundheits-, Sozial- und Integrationsdirektion die Private oder den Privaten bzw. die Organisation zur Gewährleistung gemäss Absatz 3.
 
 #### Art. 4
 
@@ -168,9 +214,11 @@ beschliesst:
 
 **Quarantäne**
 
-<sup>1</sup> Aus der Freiheit eintretende Personen aller Vollzugs- und Haftarten können für den Zeitraum von 10 bis 15 Tagen ab Eintritt in Quarantäne gesetzt werden.
+<sup>1</sup> Aus der Freiheit eintretende Personen aller Vollzugs- und Haftarten können bis zu zehn Tage ab Eintritt in Quarantäne gesetzt werden.
 
 <sup>2</sup> Eingewiesene Personen, die sich in Quarantäne befinden, können sich während einer Stunde am Tag ausserhalb ihrer Zelle an der frischen Luft aufhalten.
+
+<sup>2a</sup> Die Quarantäne kann frühestens am siebten Tag bei Vorliegen eines aktuellen negativen Covid-19-Tests aufgehoben werden.
 
 <sup>3</sup> Im Übrigen gelten die Bestimmungen zur Kontaktquarantäne gemäss Covid-19-Verordnung besondere Lage sinngemäss.
 
@@ -178,7 +226,9 @@ beschliesst:
 
 **Besuche**
 
-<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV sind unter Einhaltung von Schutzmassnahmen, namentlich Trennscheiben, Hygienemasken und Abstandsregeln, und unter Vorbehalt von Absatz 2 zulässig.
+<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV sind unter Einhaltung von Schutzmassnahmen, namentlich Trennscheiben, Hygienemasken und Abstandsregeln, beschränkt zulässig.
+
+<sup>1a</sup> Die Zulassung von Besucherinnen und Besuchern kann vom Vorliegen eines aktuellen negativen Covid-19-Tests abhängig gemacht werden.
 
 <sup>2</sup> Das Besuchskontingent gemäss Artikel 68 Absatz 1 JVV kann aus organisatorischen Gründen von der Vollzugseinrichtung eingeschränkt werden.
 
@@ -186,19 +236,31 @@ beschliesst:
 
 #### Art. 16e
 
-**Ausgang und Urlaub**
+**Gewährung von Ausgang und Urlaub**
 
-<sup>1</sup> In Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV sind Ausgänge und Urlaube untersagt.
+<sup>1</sup> …
+
+<sup>1a</sup> Die Gewährung von Ausgängen und Urlauben kann aus organisatorischen Gründen eingeschränkt werden.
 
 <sup>2</sup> Ausgenommen sind Ausgänge und Urlaube aus unaufschiebbaren Gründen gemäss Artikel 75 Absatz 1 Buchstabe b und e JVV.
 
 <sup>3</sup> Nicht erfolgte Ausgänge und Urlaube werden im Rahmen des progressiven Justizvollzugs nicht berücksichtigt.
 
+#### Art. 16e1
+
+**Vorgehen nach Ausgang und Urlaub**
+
+<sup>1</sup> Nach der Rückkehr in die Vollzugseinrichtung werden eingewiesene Personen auf eine Ansteckung mit dem Coronavirus getestet.
+
+<sup>2</sup> Unmittelbar nach der Rückkehr werden sie vom Personal zu Kontakten während des Aufenthalts ausserhalb der Vollzugseinrichtung befragt.
+
+<sup>3</sup> Ergibt sich ein Verdacht auf Kontakt zu einer mit dem Coronavirus erkrankten Person, müssen sich eingewiesene Personen in Quarantäne gemäss Artikel 16c begeben.
+
 #### Art. 16f
 
 **Arbeitsentgelt**
 
-<sup>1</sup> Eingewiesene Personen, die infolge der Massnahmen zur Bekämpfung der Covid-19-Epidemie nicht arbeiten können, haben Anspruch auf ihr bisheriges Arbeitsentgelt.
+<sup>1</sup> Eingewiesene Personen, die infolge der Massnahmen zur Bekämpfung der Covid-19-Epidemie nicht oder nur reduziert arbeiten können, haben Anspruch auf ihr bisheriges Arbeitsentgelt.
 
 #### Art. 16g
 
@@ -437,6 +499,14 @@ beschliesst:
 <sup>1</sup> Diese Verordnung ist in Anwendung der Artikel 7 und 8 des Publikationsgesetzes vom 18. Januar 1993 (PUG)[^29-1] amtlich zu veröffentlichen (ausserordentliche Veröffentlichung).
 
 [^29-1]: BSG [103.1](https://www.belex.sites.be.ch/data/103.1/de)
+
+## T1 Übergangsbestimmung der Änderung vom 28.04.2021
+
+#### Art. T1-1
+
+**Zentrale Datenbank**
+
+<sup>1</sup> Die Änderung von Artikel 3 sowie die Artikel 3a bis 3d sind ab 10. Mai 2021 anwendbar.
 
 Bern, 4. November 2020
 

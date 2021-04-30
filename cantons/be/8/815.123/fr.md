@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-04-19
-valid_until: 2021-04-30
-version_adopted: 2021-04-16
+version: 2021-05-01
+valid_until: 2021-05-27
+version_adopted: 2021-04-28
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2268/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2272/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2268/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 19.04.2021)
+du 04.11.2020 (état au 01.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 31, alinéa 1 et 40, alinéas 1 et 2 de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies, LEp)[^ingress-1], les articles 2, 7, 8 et 9, alinéa 2 de l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^ingress-2], ainsi que l'article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (ordonnance 3 COVID-19)[^ingress-3],
+vu les articles 31, alinéa 1, 33, 40, alinéas 1 et 2, 58 et 59 de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies, LEp)[^ingress-1], les articles 2, 7, 8 et 9, alinéa 2 de l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^ingress-2], ainsi que l'article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (ordonnance 3 COVID-19)[^ingress-3],
 
 sur proposition de la Chancellerie d'Etat,
 
@@ -55,7 +55,7 @@ arrête:
 
 **Coordonnées de la clientèle**
 
-<sup>1</sup> La collecte de coordonnées est définie à l'article 5 et à l’annexe, chiffre 4, de l’ordonnance COVID-19 situation particulière.
+<sup>1</sup> La collecte de coordonnées est régie par l’ordonnance COVID-19 situation particulière.
 
 <sup>2</sup> Les coordonnées suivantes doivent être collectées:
 
@@ -65,7 +65,53 @@ arrête:
 - d …
 - e numéro de table ou de place.
 
-<sup>3</sup> Les coordonnées doivent être conservées dans une liste électronique ordonnée et regroupées par jour.
+<sup>3</sup> En dérogation à l'article 5, alinéa 2 de l'ordonnance COVID-19 situation particulière, les coordonnées doivent être transmises spontanément à la base de données centrale au sens de l'article 3a.
+
+<sup>4</sup> La transmission au sens de l'alinéa 3 doit être automatique ou intervenir au moins une fois dans les 24 heures. Par ailleurs, la Direction de la santé, des affaires sociales et de l’intégration détermine la forme de la transmission.
+
+#### Art. 3a
+
+**Base de données centrale**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration gère une base de données centrale dans laquelle les coordonnées doivent être enregistrées au sens de l'article 3.
+
+<sup>2</sup> La base de données centrale sert au traitement des coordonnées à des fins d'identification et d'information des personnes présumées infectées conformément à l'article 33 LEp (traçage des contacts).
+
+#### Art. 3b
+
+**Traitement des coordonées**
+
+<sup>1</sup> Les coordonnées collectées ne doivent être traitées à aucune autre fin que celle du traçage des contacts au sens de l'article 3a, alinéa 2.
+
+<sup>2</sup> Les coordonnées doivent être consultées uniquement en cas d'évènement concret en lien avec la santé et la consultation doit se limiter aux données nécessaires.
+
+<sup>3</sup> L'article 59 LEp s'applique par analogie à la communication des coordonnées.
+
+<sup>4</sup> Les coordonnées doivent être conservées durant 14 jours après la visite de l'institution ou de l'établissement, puis immédiatement détruites.
+
+#### Art. 3c
+
+**Sécurité de l'information et protection des données**
+
+<sup>1</sup> La protection des donnée est régie par la loi du 19 février 1986 sur la protection des données (LCPD)[^3c-1].
+
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l'intégration est responsable de la sécurité de la base de données et de la légalité du traitement des données. Elle prend les mesures organisationnelles et techniques correspondantes.
+
+<sup>3</sup> Elle s'assure du contrôle préalable par l'autorité cantonale de surveillance au sens de l'article 17a LCPD.
+
+[^3c-1]: RSB [152.04](https://www.belex.sites.be.ch/data/%20152.04/fr)
+
+#### Art. 3d
+
+**Délégation**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration peut déléguer la gestion de la base de données à des personnes privées ou à des organisations externes à l'administration, pour autant que l'exécution correcte du mandat soit assurée.
+
+<sup>2</sup> Si la gestion de la base de données est déléguée à des personnes privées ou à des organisations externes à l'administration, la Direction de la santé, des affaires sociales et de l'intégration conclut un contrat de prestations.
+
+<sup>3</sup> Les prestataires au sens de l'alinéa 1 sont soumis aux mêmes devoirs que la Direction de la santé, des affaires sociales et de l'intégration. Ils doivent garantir en particulier la sécurité de l'information et la protection des données.
+
+<sup>4</sup> La Direction de la santé, des affaires sociales et de l'intégration oblige, dans le contrat de prestations, la personne privée ou l'organisation à fournir une garantie au sens de l'alinéa 3.
 
 #### Art. 4
 
@@ -168,9 +214,11 @@ arrête:
 
 **Quarantaine**
 
-<sup>1</sup> Toute personne venue exécuter une peine ou une mesure privative de liberté quelle qu'elle soit peut être placée en quarantaine pour une période de dix à quinze jours à compter de son entrée dans l'établissement d'exécution.
+<sup>1</sup> Toute personne venue exécuter une peine ou une mesure privative de liberté quelle qu'elle soit peut être placée en quarantaine pour une période de dix jours au maximum à compter de son entrée dans l'établissement d'exécution.
 
 <sup>2</sup> Les personnes détenues qui observent une quarantaine sont autorisées à quitter leur cellule une heure par jour pour prendre l'air.
+
+<sup>2a</sup> La quarantaine peut être levée au plus tôt le septième jour lorsqu'un test Covid-19 récent s'est avéré négatif.
 
 <sup>3</sup> Au surplus, les dispositions de l'ordonnance COVID-19 situation particulière sur la quarantaine-contact s'appliquent par analogie.
 
@@ -178,7 +226,9 @@ arrête:
 
 **Visites**
 
-<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 OEJ sont admises dans le respect de mesures de protection, notamment vitres de séparation, masques d'hygiène et règles de distance, et sous réserve de l'alinéa 2.
+<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 OEJ sont admises dans le respect de mesures de protection, notamment vitres de séparation, masques d'hygiène et règles de distance, et de manière limitée.
+
+<sup>1a</sup> L'admission de visiteurs et de visiteuses peut être soumise à l'obligation de présenter un test Covid-19 négatif récent.
 
 <sup>2</sup> L'établissement d'exécution peut diminuer le contingent de visites découlant de l'article 68, alinéa 1 OEJ pour des raisons d'organisation.
 
@@ -186,19 +236,31 @@ arrête:
 
 #### Art. 16e
 
-**Sorties et congés**
+**Octroi de sorties et de congés**
 
-<sup>1</sup> Dans les établissements d'exécution au sens des articles 6 à 10 et 13 OEJ, les sorties et congés sont interdits.
+<sup>1</sup> …
+
+<sup>1a</sup> L'octroi de sorties et de congés peut être limité pour des raisons d'organisation.
 
 <sup>2</sup> Font exception les sorties et congés motivés par des affaires ne pouvant être reportées au sens de l'article 75, alinéa 1, lettres b et e OEJ.
 
 <sup>3</sup> Les sorties et congés qui n'ont pas été effectués ne sont pas pris en compte dans le cadre de l'exécution progressive.
 
+#### Art. 16e1
+
+**Procédure à suivre après une sortie ou un congé**
+
+<sup>1</sup> Après leur retour au sein de l'établissement d'exécution, les personnes détenues sont soumises à un test de dépistage du coronavirus.
+
+<sup>2</sup> Immédiatement après leur retour, elles sont interrogées par le personnel au sujet des contacts qu'elles ont eu en dehors de l'établissement d'exécution.
+
+<sup>3</sup> En cas de soupçon de contact avec une personne atteinte du Covid-19, les personnes détenues doivent se soumettre à une quarantaine au sens de l'article 16c.
+
 #### Art. 16f
 
 **Rémunération du travail**
 
-<sup>1</sup> Les personnes détenues qui ne peuvent plus travailler en raison des mesures visant à lutter contre l'épidémie de COVID-19 ont droit au maintien de leur rémunération.
+<sup>1</sup> Les personnes détenues qui doivent arrêter de travailler ou ne peuvent plus travailler dans la même mesure qu'auparavant en raison des mesures visant à lutter contre l'épidémie de COVID-19 ont droit au maintien de leur rémunération.
 
 #### Art. 16g
 
@@ -437,6 +499,14 @@ arrête:
 <sup>1</sup> La présente ordonnance est publiée en application des articles 7 et 8 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^29-1] (publication extraordinaire).
 
 [^29-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/fr)
+
+## T1 Disposition transitoire de la modification du 28.04.2021
+
+#### Art. T1-1
+
+**Base de données centrale**
+
+<sup>1</sup> La modification de l'article 3 ainsi que les articles 3a à 3d sont applicables à partir du 10 mai 2021.
 
 Berne, le 4 novembre 2020
 
