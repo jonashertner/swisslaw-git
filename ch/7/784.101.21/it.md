@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM sugli impianti di telecomunicazione (OOIT)"
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: it
-version: 2021-01-01
+version: 2021-05-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210101/it"
 
 (OOIT)
 
-del 26 maggio 2016 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 26 maggio 2016 (Stato 1° maggio 2021)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -186,14 +186,14 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Aggiornato dal n. I dell’O dell’UFCOM del 23 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)).
 [^annex2-lvlu1-1]: Le prescrizioni applicabili alle interfacce sono ottenibili gratuitamente presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne oppure consultabili in rete al seguente indirizzo: www.ufcom.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Apparecchi e impianti &gt; Prescrizioni tecniche delle interfacce (RIR).
 
 <table>
 <tr><th>N.</th><th>Titolo del documento</th><th>Edizione</th></tr>
 <tr><td>RIR0000</td><td>Prescrizioni tecniche d’interfacce: documento di base</td><td>10</td></tr>
-<tr><td>RIR0101</td><td>Comunicazione aeronautica</td><td>9</td></tr>
-<tr><td>RIR0102</td><td>Navigazione aeronautica</td><td>9</td></tr>
+<tr><td>RIR0101</td><td>Comunicazione aeronautica</td><td>10</td></tr>
+<tr><td>RIR0102</td><td>Navigazione aeronautica</td><td>10</td></tr>
 <tr><td>RIR0103</td><td>Sorveglianza aeronautica</td><td>8</td></tr>
 <tr><td>RIR0104</td><td>Sistemi d’emergenza aeronautica</td><td>4</td></tr>
 <tr><td>RIR0105</td><td>Telemetria/telecomando aeronautica</td><td>3</td></tr>
@@ -209,7 +209,7 @@ Allegato 2*[^t-2]*
 <tr><td>RIR0510</td><td>Sistemi intelligenti di trasporto (ITS)</td><td>7</td></tr>
 <tr><td>RIR0601</td><td>Stazioni terminali per il sistema mondiale di soccorso e sicurezza in mare</td><td>9</td></tr>
 <tr><td>RIR0603</td><td>Comunicazione marittima</td><td>9</td></tr>
-<tr><td>RIR0604</td><td>Radionavigazione marittima</td><td>10</td></tr>
+<tr><td>RIR0604</td><td>Radionavigazione marittima</td><td>11</td></tr>
 <tr><td>RIR0702</td><td>Sonde meteorologiche</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Radar meteorologici</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
@@ -223,7 +223,7 @@ Allegato 2*[^t-2]*
 <tr><td>RIR1005</td><td>Applicazioni induttive</td><td>13</td></tr>
 <tr><td>RIR1006</td><td>Applicazioni senza filo nel settore sanitario</td><td>18</td></tr>
 <tr><td>RIR1007</td><td>Telecomandi di modelli ridotti</td><td>9</td></tr>
-<tr><td>RIR1008</td><td>Applicazioni non specifiche a corta portata</td><td>21</td></tr>
+<tr><td>RIR1008</td><td>Applicazioni non specifiche a corta portata</td><td>22</td></tr>
 <tr><td>RIR1009</td><td>Microfoni senza filo</td><td>25</td></tr>
 <tr><td>RIR1010</td><td>Sistemi di trasmissione dati a banda larga</td><td>17</td></tr>
 <tr><td>RIR1011</td><td>Identificazione tramite radiofrequenza (RFID)</td><td>12</td></tr>
@@ -300,7 +300,7 @@ Allegato 5*[^t-3]*
 
 (art. 4 cpv. 2 e art. 6)
 
-## Prescrizioni tecniche e amministrative varie****
+## Prescrizioni tecniche e amministrative varie
 
 [^annex5-lvlu1-1]
 
@@ -327,7 +327,7 @@ Allegato 6*[^t-4]*
 
 <sup>2</sup> Include il seguente simbolo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/it/xml/image/image1.png)
 
 <sup>3</sup> Per un impianto di radiocomunicazione recante il marchio di conformità svizzero secondo l’allegato 1 numero 1 OIT riporta, sotto o accanto al simbolo di cui al capoverso 2, l’abbreviazione della Svizzera (CH).
 
@@ -345,13 +345,13 @@ Allegato 6*[^t-4]*
 <sup>7</sup> Esempio a carattere informativo:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/it/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Regolamento di esecuzione (UE) 2017/1354 della Commissione, del 20 luglio 2017, che specifica le modalità di presentazione delle informazioni di cui all’articolo 10, paragrafo 10, della direttiva 2014/53/UE del Parlamento europeo e del Consiglio, versione GU L 190 del 21.7.2017, pag. 7.

@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 26. Mai 2016 über Fernmeldeanlagen (VFAV)
 short: VFAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: de
-version: 2021-01-01
+version: 2021-05-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210101/de"
 
 (VFAV)
 
-vom 26. Mai 2016 (Stand am 1. Januar 2021)
+vom 26. Mai 2016 (Stand am 1. Mai 2021)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -143,7 +143,7 @@ Wird eine bezeichnete technische Norm geändert, so veröffentlicht das BAKOM im
 
 Die Verordnung des Bundesamts für Kommunikation vom 14. Juni 2002[^10-1] über Fernmeldeanlagen wird aufgehoben.
 
-[^10-1]: [[AS 2002 2111](https://fedlex.data.admin.ch/eli/oc/2002/311), [2005 2219](https://fedlex.data.admin.ch/eli/oc/2005/370)[5139](https://fedlex.data.admin.ch/eli/oc/2005/711), [2007 1001](https://fedlex.data.admin.ch/eli/oc/2007/171)[7081](https://fedlex.data.admin.ch/eli/oc/2007/925), [2008 1907](https://fedlex.data.admin.ch/eli/oc/2008/280)[6471](https://fedlex.data.admin.ch/eli/oc/2008/878), [2009 4229](https://fedlex.data.admin.ch/eli/oc/2009/514)[5839](https://fedlex.data.admin.ch/eli/oc/2009/708)[6543](https://fedlex.data.admin.ch/eli/oc/2009/801), [2010 959](https://fedlex.data.admin.ch/eli/oc/2010/154)[3549](https://fedlex.data.admin.ch/eli/oc/2010/510)[5067](https://fedlex.data.admin.ch/eli/oc/2010/729), [2011 1391](https://fedlex.data.admin.ch/eli/oc/2011/214)[4339](https://fedlex.data.admin.ch/eli/oc/2011/592)[5265](https://fedlex.data.admin.ch/eli/oc/2011/758), [2012 1921](https://fedlex.data.admin.ch/eli/oc/2012/265)[4337](https://fedlex.data.admin.ch/eli/oc/2012/509)[6565](https://fedlex.data.admin.ch/eli/oc/2012/789), [2013 2649](https://fedlex.data.admin.ch/eli/oc/2013/536)[4129](https://fedlex.data.admin.ch/eli/oc/2013/759), [2014 919](https://fedlex.data.admin.ch/eli/oc/2014/200)[4357](https://fedlex.data.admin.ch/eli/oc/2014/718), [2015 2771](https://fedlex.data.admin.ch/eli/oc/2015/523)[4977](https://fedlex.data.admin.ch/eli/oc/2015/812)]
+[^10-1]: [[AS 2002 2111](https://fedlex.data.admin.ch/eli/oc/2002/311); [2005 2219](https://fedlex.data.admin.ch/eli/oc/2005/370), [5139](https://fedlex.data.admin.ch/eli/oc/2005/711); [2007 1001](https://fedlex.data.admin.ch/eli/oc/2007/171), [7081](https://fedlex.data.admin.ch/eli/oc/2007/925); [2008 1907](https://fedlex.data.admin.ch/eli/oc/2008/280), [6471](https://fedlex.data.admin.ch/eli/oc/2008/878); [2009 4229](https://fedlex.data.admin.ch/eli/oc/2009/514), [5839](https://fedlex.data.admin.ch/eli/oc/2009/708), [6543](https://fedlex.data.admin.ch/eli/oc/2009/801); [2010 959](https://fedlex.data.admin.ch/eli/oc/2010/154), [3549](https://fedlex.data.admin.ch/eli/oc/2010/510), [5067](https://fedlex.data.admin.ch/eli/oc/2010/729); [2011 1391](https://fedlex.data.admin.ch/eli/oc/2011/214), [4339](https://fedlex.data.admin.ch/eli/oc/2011/592), [5265](https://fedlex.data.admin.ch/eli/oc/2011/758); [2012 1921](https://fedlex.data.admin.ch/eli/oc/2012/265), [4337](https://fedlex.data.admin.ch/eli/oc/2012/509), [6565](https://fedlex.data.admin.ch/eli/oc/2012/789); [2013 2649](https://fedlex.data.admin.ch/eli/oc/2013/536), [4129](https://fedlex.data.admin.ch/eli/oc/2013/759); [2014 919](https://fedlex.data.admin.ch/eli/oc/2014/200), [4357](https://fedlex.data.admin.ch/eli/oc/2014/718); [2015 2771](https://fedlex.data.admin.ch/eli/oc/2015/523), [4977](https://fedlex.data.admin.ch/eli/oc/2015/812)]
 
 #### Art. 10a
 
@@ -187,14 +187,14 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
+[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)).
 [^annex2-lvlu1-1]: Die anwendbaren Vorschriften für Schnittstellen können beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen werden und sind im Internet unter folgender Adresse abrufbar: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Technische Schnittstellenanforderungen (RIR).
 
 <table>
 <tr><th>Nr.</th><th>Titel der technischen Anforderung</th><th>Ausgabe</th></tr>
 <tr><td>RIR0000</td><td>Schnittstellen-Anforderungen: Basisdokument</td><td>10</td></tr>
-<tr><td>RIR0101</td><td>Flugfunk</td><td>9</td></tr>
-<tr><td>RIR0102</td><td>Flugnavigation</td><td>9</td></tr>
+<tr><td>RIR0101</td><td>Flugfunk</td><td>10</td></tr>
+<tr><td>RIR0102</td><td>Flugnavigation</td><td>10</td></tr>
 <tr><td>RIR0103</td><td>Überwachungssysteme Luftverkehr</td><td>8</td></tr>
 <tr><td>RIR0104</td><td>Alarmsysteme Luftverkehr</td><td>4</td></tr>
 <tr><td>RIR0105</td><td>Flugtelemetrie/Flugfernwirken</td><td>3</td></tr>
@@ -210,7 +210,7 @@ Anhang 2*[^t-2]*
 <tr><td>RIR0510</td><td>Intelligente Transportsysteme (ITS)</td><td>7</td></tr>
 <tr><td>RIR0601</td><td>Endgeräte für das weltweite Seenot- und Sicherheitsfunksystem</td><td>9</td></tr>
 <tr><td>RIR0603</td><td>Maritime Kommunikation</td><td>9</td></tr>
-<tr><td>RIR0604</td><td>Maritime Radionavigation</td><td>10</td></tr>
+<tr><td>RIR0604</td><td>Maritime Radionavigation</td><td>11</td></tr>
 <tr><td>RIR0702</td><td>Wettersonden</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Wetterradar</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
@@ -224,7 +224,7 @@ Anhang 2*[^t-2]*
 <tr><td>RIR1005</td><td>Induktive Anwendungen</td><td>13</td></tr>
 <tr><td>RIR1006</td><td>Drahtlose Anwendungen im Gesundheitswesen</td><td>18</td></tr>
 <tr><td>RIR1007</td><td>Modell-Fernsteuerungen</td><td>9</td></tr>
-<tr><td>RIR1008</td><td>Allgemeiner Kurzstreckenfunk</td><td>21</td></tr>
+<tr><td>RIR1008</td><td>Allgemeiner Kurzstreckenfunk</td><td>22</td></tr>
 <tr><td>RIR1009</td><td>Drahtlose Mikrofonanlagen</td><td>25</td></tr>
 <tr><td>RIR1010</td><td>Breitband-Datenübertragungssysteme</td><td>17</td></tr>
 <tr><td>RIR1011</td><td>Hochfrequenz-Identifikationsanlagen (RFID)</td><td>12</td></tr>
@@ -328,7 +328,7 @@ Anhang 6*[^t-4]*
 
 <sup>2</sup> Es enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/de/xml/image/image1.png)
 
 <sup>3</sup> Für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 FAV trägt, enthält es neben oder unter dem Symbol gemäss Absatz 2 die Abkürzung der Schweiz (CH).
 
@@ -346,13 +346,13 @@ Anhang 6*[^t-4]*
 <sup>7</sup> Beispiel mit informativem Charakter:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/de/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Durchführungsverordnung (EU) 2017/1354 der Kommission vom 20. Juli 2017 zur Festlegung der Aufmachung von Informationen gemäss Artikel 10 Absatz 10 der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 190 vom 21.7.2017, S. 7.

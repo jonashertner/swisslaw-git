@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 26 mai 2016 sur les installations de télécomm
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: fr
-version: 2021-01-01
+version: 2021-05-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210101/fr"
 
 (OOIT)
 
-du 26 mai 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 mai 2016 (Etat le 1<sup>er</sup> mai 2021)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -179,7 +179,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 1)
 
@@ -187,14 +187,14 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l'O du 23 mars 2021, en vigueur depuis le 1 <sup>er</sup> mai 2021 ([RO 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 [^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: www.ofcom.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Titre du document</th><th>Édition</th></tr>
 <tr><td>RIR0000</td><td>Prescription technique d’interface: document de base</td><td>10</td></tr>
-<tr><td>RIR0101</td><td>Communication aéronautique</td><td>9</td></tr>
-<tr><td>RIR0102</td><td>Navigation aéronautique</td><td>9</td></tr>
+<tr><td>RIR0101</td><td>Communication aéronautique</td><td>10</td></tr>
+<tr><td>RIR0102</td><td>Navigation aéronautique</td><td>10</td></tr>
 <tr><td>RIR0103</td><td>Surveillance aéronautique</td><td>8</td></tr>
 <tr><td>RIR0104</td><td>Systèmes de détresse aéronautique</td><td>4</td></tr>
 <tr><td>RIR0105</td><td>Télémétrie/télécommandes aéronautiques</td><td>3</td></tr>
@@ -210,7 +210,7 @@ Annexe 2*[^t-2]*
 <tr><td>RIR0510</td><td>Systèmes intelligents de transport (ITS)</td><td>7</td></tr>
 <tr><td>RIR0601</td><td>Terminaux pour le système global de détresse et de sûreté maritime</td><td>9</td></tr>
 <tr><td>RIR0603</td><td>Communication maritime</td><td>9</td></tr>
-<tr><td>RIR0604</td><td>Radionavigation maritime</td><td>10</td></tr>
+<tr><td>RIR0604</td><td>Radionavigation maritime</td><td>11</td></tr>
 <tr><td>RIR0702</td><td>Sondes météorologiques</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Radars météorologiques</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
@@ -224,7 +224,7 @@ Annexe 2*[^t-2]*
 <tr><td>RIR1005</td><td>Applications inductives</td><td>13</td></tr>
 <tr><td>RIR1006</td><td>Applications sans fil dans le domaine de la santé</td><td>18</td></tr>
 <tr><td>RIR1007</td><td>Télécommandes de modèles réduits</td><td>9</td></tr>
-<tr><td>RIR1008</td><td>Applications à courte portée non spécifiques</td><td>21</td></tr>
+<tr><td>RIR1008</td><td>Applications à courte portée non spécifiques</td><td>22</td></tr>
 <tr><td>RIR1009</td><td>Microphones sans fil</td><td>25</td></tr>
 <tr><td>RIR1010</td><td>Systèmes de transmission de données à large bande</td><td>17</td></tr>
 <tr><td>RIR1011</td><td>Identification par fréquence radio (RFID)</td><td>12</td></tr>
@@ -328,7 +328,7 @@ Annexe 6*[^t-4]*
 
 <sup>2</sup> Il contient le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/fr/xml/image/image1.png)
 
 <sup>3</sup> Pour une installation de radiocommunication portant la marque suisse de con-formité selon l’annexe 1, ch. 1, OIT, il mentionne, en dessous ou à côté du symbole figurant à l’al. 2, l’abréviation de la Suisse (CH).
 
@@ -346,13 +346,13 @@ Annexe 6*[^t-4]*
 <sup>7</sup> Exemple, à caractère informatif:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/fr/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210101/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Règlement d’exécution (UE) 2017/1354 de la Commission du 20 juillet 2017 précisant comment présenter les informations prévues à l’art. 10, par. 10, de la directive 2014/53/UE du Parlement européen et du Conseil, version du JO L 190 du 21.7.2017, p. 7.
