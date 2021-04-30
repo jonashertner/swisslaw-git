@@ -4,13 +4,13 @@ number: 835a
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: VCov19
 language: de
-version: 2021-04-21
-valid_until: 2021-04-30
-version_adopted: 2021-04-20
+version: 2021-05-01
+valid_until: 2021-05-31
+version_adopted: 2021-04-15
 adopted: 2021-12-03
 in_force: 2021-12-06
 url: "https://srl.lu.ch/app/de/texts_of_law/835a"
-pdf: "https://srl.lu.ch/api/de/versions/3738/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3741/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3738/pdf_file"
 
 (VCov19)
 
-vom 13.10.2020 (Stand 21.04.2021)
+vom 13.10.2020 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -96,6 +96,16 @@ beschliesst:
 
 <sup>2</sup> Die Leitung der Einrichtung regelt die Einzelheiten unter Berücksichtigung des massgebenden Schutzkonzeptes.
 
+#### § 3b
+
+**Bildungseinrichtungen**
+
+<sup>1</sup> Die kommunalen Sekundarschulen, die kantonalen Gymnasien und Fachmittelschulen sowie das Fach- und Wirtschaftsmittelschulzentrum Luzern sind verpflichtet, für Lernende und Lehrpersonen mindestens einmal pro Woche einen Test auf SARS-CoV-2 durchzuführen.
+
+<sup>2</sup> Die Teilnahme an den Tests ist für die Lernenden und die Lehrpersonen freiwillig.
+
+<sup>3</sup> Das Bildungs- und Kulturdepartement kann organisatorische Vorschriften erlassen.
+
 #### § 4
 
 **…**
@@ -167,5 +177,7 @@ beschliesst:
 <sup>2</sup> …
 
 <sup>2<sup>bis</sup></sup> Die §§ 3<sup>bis</sup>, 3a, 4a, 5 und 5b gelten bis 31. Mai 2021.
+
+<sup>2<sup>ter</sup></sup> Der § 3b gilt bis 10. Juli 2021.
 
 K 2020 3305 | G 2020-074
