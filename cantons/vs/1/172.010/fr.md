@@ -3,228 +3,136 @@ canton: VS
 number: "172.010"
 title: Ordonnance sur les attributions de la présidence et des départements
 language: fr
-version: 2013-05-01
-corrected: 2017-05-18
-version_adopted: 2013-05-01
+version: 2021-05-01
+valid_until: 2025-04-30
+version_adopted: 2021-05-01
 adopted: 2025-05-01
 in_force: 2025-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.010"
-pdf: "https://lex.vs.ch/api/fr/versions/673/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2928/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les attributions de la présidence et des départements
 
-du 1er mai 2013
+du 01.05.2021 (état 01.05.2021)
 
 Le Conseil d'Etat du canton du Valais
 
 vu l'article 53 de la Constitution cantonale;
 
-vu l'article 79 alinéa 2 de la loi sur l'organisation des conseils et des rapports entre les pouvoirs du 28 mars 1996;
+vu l'article 79 alinéa 2 de la loi sur l'organisation des conseils et des rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 
-sur la proposition de la Présidence,
+sur la proposition de la présidence,
 
-ordonne:
+ordonne: [^ingress-1]
+
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction, vise indifféremment l’homme ou la femme.
 
 #### Art. 1
 
-L'administration de l'Etat comprend la présidence et les cinq départements ci-après:
+<sup>1</sup> L'administration de l'Etat comprend la présidence et les cinq départements ci-après:
 
-- le Département des finances et des institutions (DFI);
-
-- le Département de la santé, des affaires sociales et de la culture (DSSC);
-
-- le Département de la formation et de la sécurité (DFS);
-
-- le Département de l'économie, de l'énergie et du territoire (DEET);
-
-- le Département des transports, de l'équipement et de l'environnement (DTEE).
+- a) le Département des finances et de l’énergie (DFE);
+- b) le Département de la santé, des affaires sociales et de la culture (DSSC);
+- c) le Département de l'économie et de la formation (DEF);
+- d) le Département de la sécurité, des institutions et du sport (DSIS);
+- e) le Département de la mobilité, du territoire et de l’environnement (DMTE).
 
 #### Art. 2
 
-La présidence comprend:
+<sup>1</sup> La présidence comprend:
 
-La Chancellerie d'Etat dont relèvent notamment:
-
-- la planification, la coordination et le suivi des affaires du Conseil d'Etat;
-
-- la coordination des relations intergouvernementales;
-
-- les recours, le contrôle législatif et la traduction;
-
-- le protocole et l'expédition des séances du Conseil d'Etat;
-
-- la sécurité des agents publics;
-
-- les relations avec le service parlementaire;
-
-- la publication des actes législatifs;
-
-- l'information;
-
-- le controlling gouvernemental.
-
-L'inspection des finances.
+- a) la Chancellerie d'Etat dont relèvent notamment:
+  - 1\. planification, coordination et suivi des affaires du Conseil d'Etat,
+  - 2\. coordination des relations intergouvernementales,
+  - 3\. recours, contrôle législatif et traduction,
+  - 4\. protocole du Conseil d'Etat,
+  - 5\. sécurité des agents publics,
+  - 6\. relations avec le Service parlementaire,
+  - 7\. publication des actes législatifs,
+  - 8\. information,
+  - 9\. affaires fédérales et intercantonales,
+  - 10\. coordination des objets gouvernementaux,
+  - 11\. analyse prospective en vue de l’identification des défis, enjeux et opportunités à moyen et long termes,
+  - 12\. controlling gouvernemental,
+  - 13\. distribution du courrier;
+- b) l'Inspection des finances.
 
 #### Art. 3
 
 <sup>1</sup> Le département assure, pour les services qui lui sont rattachés, la direction administrative, la planification, l'assistance juridique, la législation, l'information, la coordination, la gestion administrative et le controlling départemental.
 
-<sup>2</sup> Un(e) ou plusieurs délégués(es) peuvent assister le département pour des missions particulières.
+<sup>2</sup> Un ou plusieurs délégué/s peuvent assister le département pour des missions particulières.
 
 #### Art. 4
 
-Les attributions des départements sont les suivantes:
-
-### I. Département des finances et des institutions (DFI) dont relèvent
-
-notamment:
-
-- la planification et la gestion financières de l'Etat;
-
-- les contributions publiques;
-
-- la gestion de la politique du personnel et de l'organisation;
-
-- les affaires intérieures;
-
-- les finances communales;
-
-- les institutions;
-
-- la promotion de l'égalité et de la famille;
-
-- l'informatique.
-
-### II. Département de la santé, des affaires sociales et de la culture (DSSC)
-
-dont relèvent notamment:
-
-- la santé publique;
-
-- le laboratoire cantonal;
-
-- les affaires vétérinaires ;
-
-- la promotion et l'encouragement des activités culturelles;
-
-- la Médiathèque Valais, les archives, les musées;
-
-- l'action sociale;
-
-- la protection des travailleurs et les relations du travail;
-
-- les poursuites et faillites;
-
-- la caisse de compensation et l'office cantonal AI.
-
-### III. Département de la formation et de la sécurité (DFS) dont relèvent
-
-notamment:
-
-- l'enseignement obligatoire;
-
-- la formation professionnelle;
-
-- l'enseignement secondaire du deuxième degré;
-
-- la formation tertiaire et universitaire;
-
-- la recherche et le transfert de technologie;
-
-- l'aide à la jeunesse;
-
-- l'orientation scolaire et professionnelle;
-
-- les bourses d'études et les prêts d'honneur;
-
-- l'éducation physique à l'école et l'encouragement du sport;
-
-- la police cantonale;
-
-- les affaires militaires;
-
-- la police du feu, la protection civile et la protection de la population;
-
-- les relations avec la justice et le ministère public;
-
-- la circulation routière et la navigation;
-
-- l'exécution des peines et les établissements pénitentiaires;
-
-- l'état civil, la police des étrangers et l'intégration.
-
-### IV. Département de l'économie, de l'énergie et du territoire (DEET) dont
-
-relèvent notamment:
-
-- le développement économique;
-
-- le tourisme, l'industrie, le commerce, le travail et le transfert de technologie;
-
-- l'agriculture;
-
-- l'énergie hydraulique;
-
-- l'approvisionnement et l'utilisation de l'énergie;
-
-- le développement territorial;
-
-- les registres fonciers, la géomatique et la vente aux étrangers;
-
-- la conduite du dossier EPFL et campus;
-
-- les affaires extérieures;
-
-- la Caisse publique de chômage.
-
-### V. Département des transports, de l'équipement et de l'environnement (DTEE) dont relèvent notamment:
-
-- la construction et l'entretien des routes;
-
-- l'entretien des cours d'eau;
-
-- la police des constructions;
-
-- les transports publics;
-
-- les bâtiments et infrastructures publics;
-
-- les forêts et le paysage;
-
-- la protection de l'environnement;
-
-- la chasse, la pêche et la faune;
-
-- la protection des sites et monuments historiques;
-
-- les fouilles et les recherches archéologiques.
-
-#### Art. 5
-
-<sup>1</sup> La présente ordonnance abroge l'ordonnance du 1er mai 2009.
-
-<sup>2</sup> Elle est soumise à l'approbation du Grand Conseil.
-
-<sup>3</sup> Elle sera publiée dans le Bulletin officiel et entre en vigueur immédiatement sous réserve de la ratification par le Grand Conseil.
-
-Ainsi adopté en séance du Conseil d'Etat à Sion, le 1er mai 2013.
-
-Le président du Conseil d'Etat: Maurice Tornay Le chancelier d'Etat: Philipp Spörri
-
-Approuvé en séance du Grand Conseil à Sion, le 17 mai 2013.
-
-La présidente du Grand Conseil: Marcelle Monnet-Terrettaz Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Ordonnance sur les attributions de la BO No 42/2013 présidence et des départements du 1er mai
-
-**01.05.13**
-
-### 2013
+<sup>1</sup> Les attributions des départements sont notamment les suivantes:
+
+- a) Département des finances et de l’énergie (DFE):
+  - 1\. planification et gestion financières de l'Etat,
+  - 2\. contributions publiques,
+  - 3\. gestion de la politique du personnel et de l'organisation,
+  - 4\. énergie,
+  - 5\. informatique,
+  - 6\. administration numérique,
+  - 7\. affaires extérieures,
+  - 8\. construction, entretien et gérance d'immeubles,
+  - 9\. protection du patrimoine bâti;
+- b) Département de la santé, des affaires sociales et de la culture (DSSC):
+  - 1\. santé publique,
+  - 2\. laboratoire cantonal,
+  - 3\. affaires vétérinaires,
+  - 4\. promotion et encouragement des activités culturelles,
+  - 5\. Médiathèque Valais, archives, musées,
+  - 6\. fouilles et recherches archéologiques,
+  - 7\. action sociale,
+  - 8\. protection des travailleurs et relations du travail,
+  - 9\. poursuites et faillites,
+  - 10\. promotion de l’égalité et de la famille,
+  - 11\. Caisse de compensation et Office cantonal AI;
+- c) Département de l’économie et de la formation (DEF):
+  - 1\. développement économique,
+  - 2\. tourisme, industrie, commerce, travail,
+  - 3\. agriculture,
+  - 4\. enseignement obligatoire,
+  - 5\. formation professionnelle,
+  - 6\. enseignement secondaire du deuxième degré,
+  - 7\. formation tertiaire et universitaire,
+  - 8\. recherche et transfert de technologie,
+  - 9\. aide à la jeunesse,
+  - 10\. éducation physique à l’école,
+  - 11\. orientation scolaire et professionnelle,
+  - 12\. bourses d’études et prêts d’honneur,
+  - 13\. conduite du dossier EPFL et campus,
+  - 14\. Caisse publique de chômage;
+- d) Département de la sécurité, des institutions et du sport (DSIS):
+  - 1\. police cantonale,
+  - 2\. affaires militaires,
+  - 3\. police du feu, protection civile et protection de la population,
+  - 4\. relations avec la justice et le Ministère public,
+  - 5\. exécution des peines et mesures et établissements pénitentiaires,
+  - 6\. état civil, police des étrangers et intégration,
+  - 7\. circulation routière et navigation,
+  - 8\. affaires intérieures,
+  - 9\. finances communales,
+  - 10\. institutions,
+  - 11\. encouragement du sport,
+  - 12\. chasse, pêche et faune,
+  - 13\. géoinformation,
+  - 14\. registre foncier et vente aux étrangers;
+- e) Département de la mobilité, du territoire et de l’environnement (DMTE):
+  - 1\. construction et entretien des routes,
+  - 2\. entretien des cours d'eau,
+  - 3\. achèvement et entretien de l’autoroute,
+  - 4\. domaine du droit public des constructions,
+  - 5\. transports publics,
+  - 6\. nature, forêts et paysage,
+  - 7\. protection de l'environnement,
+  - 8\. construction du Rhône,
+  - 9\. développement territorial,
+  - 10\. dangers naturels,
+  - 11\. mobilité professionnelle et de loisir.
+
+RCV RO/AGS 2021-098
