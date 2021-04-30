@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2021-01-01
+version: 2021-05-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20210501/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210101/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. Januar 2021)
+vom 11. August 1999 (Stand am 1. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1253,7 +1253,7 @@ Anhang 2*[^t-2]*
 
 ## Verfolgungssichere Heimat- oder Herkunftsstaaten
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 12. Juni 2015 ([AS 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Fassung gemäss Ziff. I der V vom 28. Aug. 2019, in Kraft seit 1. Okt. 2019 ([AS 2019 2813](https://fedlex.data.admin.ch/eli/oc/2019/514)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 12. Juni 2015 ([AS 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 205](https://fedlex.data.admin.ch/eli/oc/2021/205)).
 
 <table>
 <tr><td>Albanien</td><td>Niederlande</td></tr>
@@ -1261,19 +1261,18 @@ Anhang 2*[^t-2]*
 <tr><td>Benin</td><td>Norwegen</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>Österreich</td></tr>
 <tr><td>Bulgarien</td><td>Polen</td></tr>
-<tr><td>Burkina Faso</td><td>Portugal</td></tr>
-<tr><td>Dänemark</td><td>Rumänien</td></tr>
-<tr><td>Deutschland</td><td>Schweden</td></tr>
-<tr><td>Estland</td><td>Senegal</td></tr>
-<tr><td>Finnland</td><td>Serbien</td></tr>
-<tr><td>Frankreich</td><td>Slowakei</td></tr>
-<tr><td>Georgien</td><td>Slowenien</td></tr>
-<tr><td>Ghana</td><td>Spanien</td></tr>
-<tr><td>Griechenland</td><td>Tschechien</td></tr>
-<tr><td>Indien</td><td>Ungarn</td></tr>
-<tr><td>Irland</td><td>Vereinigtes Königreich</td></tr>
-<tr><td>Island</td><td>Zypern</td></tr>
-<tr><td>Italien</td><td></td></tr>
+<tr><td>Dänemark</td><td>Portugal</td></tr>
+<tr><td>Deutschland</td><td>Rumänien</td></tr>
+<tr><td>Estland</td><td>Schweden</td></tr>
+<tr><td>Finnland</td><td>Senegal</td></tr>
+<tr><td>Frankreich</td><td>Serbien</td></tr>
+<tr><td>Georgien</td><td>Slowakei</td></tr>
+<tr><td>Ghana</td><td>Slowenien</td></tr>
+<tr><td>Griechenland</td><td>Spanien</td></tr>
+<tr><td>Indien</td><td>Tschechien</td></tr>
+<tr><td>Irland</td><td>Ungarn</td></tr>
+<tr><td>Island</td><td>Vereinigtes Königreich</td></tr>
+<tr><td>Italien</td><td>Zypern</td></tr>
 <tr><td>Kosovo</td><td></td></tr>
 <tr><td>Kroatien</td><td></td></tr>
 <tr><td>Lettland</td><td></td></tr>
@@ -1281,7 +1280,7 @@ Anhang 2*[^t-2]*
 <tr><td>Litauen</td><td></td></tr>
 <tr><td>Luxemburg</td><td></td></tr>
 <tr><td>Malta</td><td></td></tr>
-<tr><td>Moldau (ohne Transnistrien)</td><td></td></tr>
+<tr><td>Moldova (ohne Transnistrien)</td><td></td></tr>
 <tr><td>Mongolei</td><td></td></tr>
 <tr><td>Montenegro</td><td></td></tr>
 </table>

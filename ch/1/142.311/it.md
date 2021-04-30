@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2021-01-01
+version: 2021-05-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20210501/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210101/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+dell’11 agosto 1999 (Stato 1° maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1269,7 +1269,7 @@ Allegato 2*[^t-2]*
 
 ## Stati d’origine o di provenienza sicuri da persecuzioni
 
-[^t-2]: Introdotto dal n. II dell’O del 12 giu. 2015 ([RU 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Nuovo testo giusta il n. I dell’O del DFGP del 28 ago. 2019, in vigore dal 1° ott. 2019 ([RU 2019 2813](https://fedlex.data.admin.ch/eli/oc/2019/514)).
+[^t-2]: Introdotto dal n. II dell’O del 12 giu. 2015 ([RU 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 205](https://fedlex.data.admin.ch/eli/oc/2021/205)).
 
 <table>
 <tr><td>Albania</td><td>Malta</td></tr>
@@ -1278,19 +1278,18 @@ Allegato 2*[^t-2]*
 <tr><td>Benin</td><td>Montenegro</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>Norvegia</td></tr>
 <tr><td>Bulgaria</td><td>Paesi Bassi</td></tr>
-<tr><td>Burkina Faso</td><td>Polonia</td></tr>
-<tr><td>Cipro</td><td>Portogallo</td></tr>
-<tr><td>Croazia</td><td>Regno Unito</td></tr>
-<tr><td>Danimarca</td><td>Repubblica Ceca</td></tr>
-<tr><td>Estonia</td><td>Romania</td></tr>
-<tr><td>Finlandia</td><td>Senegal</td></tr>
-<tr><td>Francia</td><td>Serbia</td></tr>
-<tr><td>Georgia</td><td>Slovacchia</td></tr>
-<tr><td>Germania</td><td>Slovenia</td></tr>
-<tr><td>Ghana</td><td>Spagna</td></tr>
-<tr><td>Grecia</td><td>Svezia</td></tr>
-<tr><td>India</td><td>Ungheria</td></tr>
-<tr><td>Irlanda</td><td></td></tr>
+<tr><td>Cipro</td><td>Polonia</td></tr>
+<tr><td>Croazia</td><td>Portogallo</td></tr>
+<tr><td>Danimarca</td><td>Regno Unito</td></tr>
+<tr><td>Estonia</td><td>Repubblica Ceca</td></tr>
+<tr><td>Finlandia</td><td>Romania</td></tr>
+<tr><td>Francia</td><td>Senegal</td></tr>
+<tr><td>Georgia</td><td>Serbia</td></tr>
+<tr><td>Germania</td><td>Slovacchia</td></tr>
+<tr><td>Ghana</td><td>Slovenia</td></tr>
+<tr><td>Grecia</td><td>Spagna</td></tr>
+<tr><td>India</td><td>Svezia</td></tr>
+<tr><td>Irlanda</td><td>Ungheria</td></tr>
 <tr><td>Islanda</td><td></td></tr>
 <tr><td>Italia</td><td></td></tr>
 <tr><td>Kosovo</td><td></td></tr>

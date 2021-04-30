@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2021-01-01
+version: 2021-05-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20210101/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 août 1999 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -1250,9 +1250,9 @@ Annexe 2*[^t-2]*
 
 (art. 2)
 
-## États d’origine ou de provenance exempts de persécutions
+## Etats d’origine ou de provenance exempts de persécutions
 
-[^t-2]: Introduite par le ch. II de l’O du 12 juin 2015 ([RO 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Nouvelle teneur selon le ch. I de l’O du 28 août 2019, en vigueur depuis le 1<sup>er</sup> oct. 2019 ([RO 2019 2813](https://fedlex.data.admin.ch/eli/oc/2019/514)).
+[^t-2]: Introduite par le ch. II de l’O du 12 juin 2015 ([RO 2015 1873](https://fedlex.data.admin.ch/eli/oc/2015/361)). Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 205](https://fedlex.data.admin.ch/eli/oc/2021/205)).
 
 <table>
 <tr><td>Albanie</td><td>Macédoine du Nord</td></tr>
@@ -1262,17 +1262,16 @@ Annexe 2*[^t-2]*
 <tr><td>Bénin</td><td>Monténégro</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>Norvège</td></tr>
 <tr><td>Bulgarie</td><td>Pays-Bas</td></tr>
-<tr><td>Burkina Faso</td><td>Pologne</td></tr>
-<tr><td>Chypre</td><td>Portugal</td></tr>
-<tr><td>Croatie</td><td>Roumanie</td></tr>
-<tr><td>Danemark</td><td>Royaume-Uni</td></tr>
-<tr><td>Espagne</td><td>Sénégal</td></tr>
-<tr><td>Estonie</td><td>Serbie</td></tr>
-<tr><td>Finlande</td><td>Slovaquie</td></tr>
-<tr><td>France</td><td>Slovénie</td></tr>
-<tr><td>Géorgie</td><td>Suède</td></tr>
-<tr><td>Ghana</td><td>Tchéquie</td></tr>
-<tr><td>Grèce</td><td></td></tr>
+<tr><td>Chypre</td><td>Pologne</td></tr>
+<tr><td>Croatie</td><td>Portugal</td></tr>
+<tr><td>Danemark</td><td>Roumanie</td></tr>
+<tr><td>Espagne</td><td>Royaume-Uni</td></tr>
+<tr><td>Estonie</td><td>Sénégal</td></tr>
+<tr><td>Finlande</td><td>Serbie</td></tr>
+<tr><td>France</td><td>Slovaquie</td></tr>
+<tr><td>Géorgie</td><td>Slovénie</td></tr>
+<tr><td>Ghana</td><td>Suède</td></tr>
+<tr><td>Grèce</td><td>Tchéquie</td></tr>
 <tr><td>Hongrie</td><td></td></tr>
 <tr><td>Inde</td><td></td></tr>
 <tr><td>Irlande</td><td></td></tr>
