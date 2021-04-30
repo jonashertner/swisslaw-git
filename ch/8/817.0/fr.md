@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2014 sur les denrées alimentaires et les obje
 short: LDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: fr
-version: 2017-05-01
+version: 2021-05-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-62-20170501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-62-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20170501/fr"
 
 (Loi sur les denrées alimentaires, LDAl)**[^t-1]**
 
-du 20 juin 2014 (Etat le 1<sup>er</sup> mai 2017)
+du 20 juin 2014 (Etat le 1<sup>er</sup> mai 2021)
 
 [^t-1]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
@@ -253,7 +253,7 @@ Quiconque met sur le marché des denrées alimentaires préemballées est tenu d
 
 #### Art. 13
 
-**Etiquetage particulier**
+**Étiquetage particulier**
 
 <sup>1</sup>
 
@@ -336,7 +336,7 @@ Pour garantir la sécurité des objets usuels, le Conseil fédéral peut en outr
 
 #### Art. 16
 
-**Etiquetage et publicité**
+**Étiquetage et publicité**
 
 <sup>1</sup> Les objets usuels doivent être étiquetés de manière à garantir la protection de la santé du consommateur et la protection contre la tromperie visée à l’art. 18.
 
@@ -741,7 +741,7 @@ Les laboratoires doivent répondre aux exigences suivantes:
 - b. disposer des personnels, locaux, équipements et moyens leur permettant d’accomplir à tout moment les missions qui leur incombent;
 - c. présenter les garanties appropriées de confidentialité, d’impartialité et d’indépendance à l’égard de toute personne fabriquant, important ou commercialisant des produits relevant de leur domaine de compétence.
 
-[^43-1]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^43-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 
 #### Art. 44
 
@@ -935,7 +935,7 @@ Toute personne chargée de l’exécution de la présente loi est soumise au dev
 
 #### Art. 58
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> Le contrôle des denrées alimentaires est exempt d’émoluments, à moins que la présente loi n’en dispose autrement.
 
@@ -973,7 +973,7 @@ Des émoluments sont perçus pour:
 
 #### Art. 60
 
-**Echange de données nécessaires à l’exécution**
+**Échange de données nécessaires à l’exécution**
 
 <sup>1</sup>
 
@@ -995,7 +995,7 @@ Le Conseil fédéral règle:
 
 #### Art. 61
 
-**Echange de données avec des autorités ou des institutions étrangères et avec des organisations internationales**
+**Échange de données avec des autorités ou des institutions étrangères et avec des organisations internationales**
 
 <sup>1</sup> Le Conseil fédéral règle les compétences et les procédures régissant les échanges de données personnelles avec des autorités ou des institutions étrangères et avec des organisations internationales.
 
@@ -1183,9 +1183,12 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 **Disposition transitoire**
 
-Tant qu’aucune loi particulière régissant le tabac, les autres produits destinés à être fumés et les produits du tabac n’est édictée, les art. 2 à 4, 6, 10, 12, 13, 15, 18, 20 à 25, 27 à 34, 36 à 43, 44, 45 et 47 à 57 de la loi du 9 octobre 1992 sur les denrées alimentaires[^73-1] dans sa version antérieure à la présente loi sont applicables dans un délai de quatre ans au plus suivant l’entrée en vigueur de la présente loi.
+<sup>1</sup> Tant qu’aucune loi particulière régissant le tabac, les autres produits destinés à être fumés et les produits du tabac n’est édictée, les art. 2 à 4, 6, 10, 12, 13, 15, 18, 20 à 25, 27 à 34, 36 à 43, 44, 45 et 47 à 57 de la loi du 9 octobre 1992 sur les denrées alimentaires[^73-1] dans sa version antérieure à la présente loi sont applicables dans un délai de quatre ans au plus suivant l’entrée en vigueur de la présente loi.
+
+<sup>2</sup> Le délai fixé à l’al. 1 est prolongé jusqu’au 30 avril 2025.[^73-2]
 
 [^73-1]: [RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725), [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033), [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422), [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[2363](https://fedlex.data.admin.ch/eli/oc/2006/364), [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)
+[^73-2]: Introduit par le ch. I de la LF du 18 déc. 2020 (Prolongation de la réglementation provisoire sur les produits du tabac), en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 240](https://fedlex.data.admin.ch/eli/oc/2021/240); [FF 2020 8441](https://fedlex.data.admin.ch/eli/fga/2020/2318), [9011](https://fedlex.data.admin.ch/eli/fga/2020/2510)).
 
 #### Art. 74
 

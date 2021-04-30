@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2014 sulle derrate alimentari e gli oggetti
 short: LDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: it
-version: 2017-05-01
+version: 2021-05-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20170501/it/xml/fedlex-data-admin-ch-eli-cc-2017-62-20170501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20170501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2017-62-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20170501/it"
 
 (Legge sulle derrate alimentari, LDerr)
 
-del 20 giugno 2014 (Stato 1° maggio 2017)
+del 20 giugno 2014 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -739,7 +739,7 @@ I laboratori devono:
 - b. disporre di personale, locali, attrezzature e mezzi sufficienti per poter adempiere in ogni momento il mandato conferito loro;
 - c. poter fornire garanzie adeguate sulla loro attendibilità, imparzialità e indipendenza nei confronti di persone che fabbricano, importano o commercializzano prodotti che rientrano nel settore di competenza del relativo laboratorio.
 
-[^43-1]: RS **172****.****056.1**
+[^43-1]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 
 #### Art. 44
 
@@ -1182,9 +1182,12 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 **Disposizione transitoria**
 
-Fino all’emanazione di una legge federale specifica, ma al più tardi fino a quattro anni dopo l’entrata in vigore della presente legge, al tabacco e agli altri articoli per fumatori, nonché ai prodotti del tabacco, si applicano gli articoli 2–4, 6, 10, 12, 13, 15, 18, 20–25, 27–34, 36–43, 44, 45 e 47–57 della legge del 9 ottobre 1992[^73-1] sulle derrate alimentari nella versione precedente all’entrata in vigore della presente legge.
+<sup>1</sup> Fino all’emanazione di una legge federale specifica, ma al più tardi fino a quattro anni dopo l’entrata in vigore della presente legge, al tabacco e agli altri articoli per fumatori, nonché ai prodotti del tabacco, si applicano gli articoli 2–4, 6, 10, 12, 13, 15, 18, 20–25, 27–34, 36–43, 44, 45 e 47–57 della legge del 9 ottobre 1992[^73-1] sulle derrate alimentari nella versione precedente all’entrata in vigore della presente legge.
+
+<sup>2</sup> Il termine di cui al capoverso 1 è prorogato fino al 30 aprile 2025.[^73-2]
 
 [^73-1]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6, [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3.]
+[^73-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Proroga della disposizione transitoria sui prodotti del tabacco), in vigore dal 1° mag. 2021 ([RU 2021 240](https://fedlex.data.admin.ch/eli/oc/2021/240); [FF 2020 7669](https://fedlex.data.admin.ch/eli/fga/2020/2318), [8159](https://fedlex.data.admin.ch/eli/fga/2020/2510)).
 
 #### Art. 74
 

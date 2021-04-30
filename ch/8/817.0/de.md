@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2014 über Lebensmittel und Gebrauchsgegenstä
 short: LMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: de
-version: 2017-05-01
+version: 2021-05-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20170501/de/xml/fedlex-data-admin-ch-eli-cc-2017-62-20170501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2017-62-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20170501/de"
 
 (Lebensmittelgesetz, LMG)
 
-vom 20. Juni 2014 (Stand am 1. Mai 2017)
+vom 20. Juni 2014 (Stand am 1. Mai 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -739,7 +739,7 @@ Die Laboratorien müssen:
 - b. über genügend Personal, Räume, Ausrüstung und Mittel verfügen, um den ihnen übertragenen Auftrag jederzeit erfüllen zu können;
 - c. geeignete Garantien beibringen können für ihre Vertrauenswürdigkeit, Unparteilichkeit und Unabhängigkeit gegenüber Personen, die Produkte herstellen, einführen oder vermarkten, die in den Zuständigkeitsbereich des betreffenden Labors fallen.
 
-[^43-1]: SR **172****.****056.1**
+[^43-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 
 #### Art. 44
 
@@ -1182,9 +1182,12 @@ Die Aufhebung und Änderung anderer Erlasse werden im Anhang geregelt.
 
 **Übergangsbestimmung**
 
-Für Tabak und andere Raucherwaren sowie für Tabakerzeugnisse gelten bis zum Erlass eines entsprechenden besonderen Bundesgesetzes, jedoch längstens vier Jahre nach Inkrafttreten dieses Gesetzes, die Artikel 2–4, 6, 10, 12, 13, 15, 18, 20–25, 27–34, 36–43, 44, 45 und 47–57 des Lebensmittelgesetzes vom 9. Oktober 1992[^73-1] in der Fassung vor dem Inkrafttreten dieses Gesetzes.
+<sup>1</sup> Für Tabak und andere Raucherwaren sowie für Tabakerzeugnisse gelten bis zum Erlass eines entsprechenden besonderen Bundesgesetzes, jedoch längstens vier Jahre nach Inkrafttreten dieses Gesetzes, die Artikel 2–4, 6, 10, 12, 13, 15, 18, 20–25, 27–34, 36–43, 44, 45 und 47–57 des Lebensmittelgesetzes vom 9. Oktober 1992[^73-1] in der Fassung vor dem Inkrafttreten dieses Gesetzes.
 
-[^73-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3]
+<sup>2</sup> Die Geltungsdauer nach Absatz 1 wird bis zum 30. April 2025 verlängert.[^73-2]
+
+[^73-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3]
+[^73-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Verlängerung der Übergangsregelung für Tabakprodukte), in Kraft seit 1. Mai 2021 ([AS 2021 240](https://fedlex.data.admin.ch/eli/oc/2021/240); [BBl 2020 8765](https://fedlex.data.admin.ch/eli/fga/2020/2318), [9317](https://fedlex.data.admin.ch/eli/fga/2020/2510)).
 
 #### Art. 74
 
@@ -1212,7 +1215,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3]
+[^annexu1-lvlu1-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)konsultiert werden.

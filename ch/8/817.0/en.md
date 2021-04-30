@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 2014 on Foodstuffs and Consumer Products (Foodstu
 short: FSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: en
-version: 2017-05-01
+version: 2021-05-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20170501/en/xml/fedlex-data-admin-ch-eli-cc-2017-62-20170501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20170501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20210501/en/xml/fedlex-data-admin-ch-eli-cc-2017-62-20210501-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20210501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foodstuffs Act, FSA)
 
-of 20 June 2014 (Status as of 1 May 2017)
+of 20 June 2014 (Status as of 1 May 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of Article 97 paragraph 1, 105 and 118 paragraph 2 letter a of the Federal Constitution [^ingress-1], and having considered the dispatch of the Federal Council dated 25 May 2011[^ingress-2],
+on the basis of Articles 97 paragraph 1, 105 and 118 paragraph 2 letter a of the Federal Constitution [^ingress-1], and having considered the dispatch of the Federal Council dated 25 May 2011[^ingress-2],
 
 decrees:
 
@@ -741,7 +741,7 @@ The laboratories must:
 - b. have sufficient staff, rooms, equipment and resources to be able to fulfil their tasks at all times;
 - c. be able to provide suitable guarantees of their credibility, impartiality and independence vis-à-vis persons who manufacture, import or place on the market products that fall within the scope of responsibility of the laboratories concerned.
 
-[^43-1]: SR **172****.****056.1**
+[^43-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 para. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Annex No 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 para. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Annex No II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Annex 7 No I]. See now: the FA of 21 June 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 
 #### Art. 44
 
@@ -1092,7 +1092,7 @@ Any person who wilfully:
 
 **Contraventions**
 
-<sup>1</sup> shall be liable to a fine not exceeding 40,000 francs
+<sup>1</sup> shall be liable to a fine not exceeding 40,000 francs.
 
 Any person who wilfully:
 
@@ -1184,9 +1184,12 @@ The repeal and amendment of other legislation is regulated in the Annex.
 
 **Transitional commission**
 
-Articles 2–4, 6, 10, 12, 13, 15, 18, 20–25, 27–34, 36–43, 44, 45 and 47–57 of the Foodstuffs Act of 9 October 1992[^73-1] as worded prior to the commencement of this Act apply for a maximum of four years from the commencement of this Act to tobacco and other smoking products and to tobacco products until a corresponding special federal act is enacted.
+<sup>1</sup> Articles 2–4, 6, 10, 12, 13, 15, 18, 20–25, 27–34, 36–43, 44, 45 and 47–57 of the Foodstuffs Act of 9 October 1992[^73-1] as worded prior to the commencement of this Act apply for a maximum of four years from the commencement of this Act to tobacco and other smoking products and to tobacco products until a corresponding special federal act is enacted.
+
+<sup>2</sup> The period of validity in accordance with paragraph 1 shall be extended until 30 April 2025.[^73-2]
 
 [^73-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3]
+[^73-2]: Inserted by No I of the FA of 18 Dec. 2020 (Extension of the Transitional Arrangement for Tobacco Products), in force since 1 May 2021 ([AS 2021 240](https://fedlex.data.admin.ch/eli/oc/2021/240); [BBl 2020 8765](https://fedlex.data.admin.ch/eli/fga/2020/2318), [9317](https://fedlex.data.admin.ch/eli/fga/2020/2510)).
 
 #### Art. 74
 
@@ -1198,7 +1201,7 @@ Articles 2–4, 6, 10, 12, 13, 15, 18, 20–25, 27–34, 36–43, 44, 45 and 47�
 
 Commencement date: 1 May 2017[^74-1]
 
-[^74-1]: Federal Council Decree of 16 Dec. 2016
+[^74-1]: FCD of 16 Dec. 2016.
 
 Annex
 
