@@ -4,13 +4,13 @@ number: "860.111"
 title: Verordnung über die öffentliche Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2021-03-01
-valid_until: 2021-04-30
-version_adopted: 2020-12-16
+version: 2021-05-01
+valid_until: 2021-07-31
+version_adopted: 2021-03-24
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2155/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2260/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2155/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 24.10.2001 (Stand 01.03.2021)
+vom 24.10.2001 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -186,20 +186,20 @@ beschliesst:
 
 **Ausrichtung und Bemessung der wirtschaftlichen Hilfe**
 
-<sup>1</sup> Die Richtlinien für die Ausgestaltung und Bemessung der Sozialhilfe der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien)[^8-1] in der Fassung der vierten überarbeiteten Ausgabe vom April 2005 mit den Ergänzungen 12/05, 12/07, 12/08, 12/10, 12/12, 12/14, 12/15 und 12/16 sind für den Vollzug der individuellen Sozialhilfe verbindlich, soweit das Sozialhilfegesetz und diese Verordnung keine andere Regelung vorsehen.
+<sup>1</sup> Die Richtlinien für die Ausgestaltung und Bemessung der Sozialhilfe der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien)[^8-1] in der Fassung der fünften Ausgabe vom 1. Januar 2021 sind für den Vollzug der individuellen Sozialhilfe verbindlich, soweit das Sozialhilfegesetz und diese Verordnung keine andere Regelung vorsehen.
 
 <sup>2</sup> Der Grundbedarf für den Lebensunterhalt nach Haushaltsgrösse beträgt pro Monat, unter Vorbehalt der Absätze 3 bis 5, für
 
 - a eine Person — CHF 977
-- b zwei Personen — CHF 1 495
-- c drei Personen — CHF 1 818
-- d vier Personen — CHF 2 090
-- e fünf Personen — CHF 2 364
+- b zwei Personen — CHF 1495
+- c drei Personen — CHF 1818
+- d vier Personen — CHF 2090
+- e fünf Personen — CHF 2364
 - f jede weitere Person — + CHF 200
 
 <sup>3</sup> Bei jungen Erwachsenen wird der Grundbedarf für den Lebensunterhalt nach Lebens- und Wohnform pro Monat wie folgt festgelegt:
 
-- a entsprechender Anteil bei einer Hausgemeinschaft mit den Eltern oder in einer familienähnlichen Gemeinschaft, wobei sich dieser nach dem Grundbedarf für den gesamten Haushalt, geteilt durch die Anzahl der im Haushalt lebenden Personen bestimmt,
+- a entsprechender Anteil bei einer Hausgemeinschaft mit den Eltern oder in einer familienähnlichen Gemeinschaft, wobei sich dieser nach dem Grundbedarf für den gesamten Haushalt, geteilt durch die Anzahl der im Haushalt lebenden Personen, bestimmt,
 - b Pauschale von 748 Franken bei einer Zweckwohngemeinschaft,
 - c Pauschale von 782 Franken bei eigenem Haushalt aus wichtigen Gründen,
 - d gemäss Absatz 2 bei eigenem Haushalt, wenn sie
@@ -208,7 +208,7 @@ beschliesst:
   - 3 eigene Kinder betreuen,
 - e Pauschale von 748 Franken bei eigenem Haushalt, ohne die Voraussetzungen nach den Buchstaben c und d zu erfüllen.
 
-<sup>4</sup> Der Grundbedarf für den Lebensunterhalt für Personen nach Artikel 46a Absatz 1 Buchstabe c SHG (vorläufig Aufgenommene) wird unabhängig ihres Alters nach Haushaltsgrösse festgelegt. Er beträgt pro Monat für:
+<sup>4</sup> Der Grundbedarf für den Lebensunterhalt für Personen nach Artikel 46a Absatz 1 Buchstabe c SHG (vorläufig Aufgenommene) wird unabhängig ihres Alters nach Haushaltsgrösse festgelegt. Er beträgt pro Monat für
 
 - a eine Person — CHF 696
 - b zwei Personen — CHF 1065
@@ -218,7 +218,7 @@ beschliesst:
 - f sechs Personen — CHF 1825
 - g für jede weitere Person — + CHF 141
 
-<sup>5</sup> Der Grundbedarf für den Lebensunterhalt für Personen nach Artikel 46a Absatz 1 Buchstabe a SHG (Flüchtlinge und anerkannte Staatenlose), die in einer Kollektivunterkunft leben, wird unabhängig ihres Alters nach Unterstützungseinheit festgelegt. Er beträgt pro Monat für:
+<sup>5</sup> Der Grundbedarf für den Lebensunterhalt für Personen nach Artikel 46a Absatz 1 Buchstabe a SHG (Flüchtlinge und anerkannte Staatenlose), die in einer Kollektivunterkunft leben, wird unabhängig ihres Alters nach Unterstützungseinheit festgelegt. Er beträgt pro Monat für
 
 - a eine Person — CHF 582
 - b zwei Personen — CHF 891
@@ -228,7 +228,7 @@ beschliesst:
 - f sechs Personen — CHF 1526
 - g für jede weitere Person — + CHF 118
 
-[^8-1]: http://skos.ch/skos-richtlinien/richtlinien-konsultieren
+[^8-1]: [https://rl.skos.ch](https://rl.skos.ch)
 
 #### Art. 8a
 
@@ -286,6 +286,12 @@ beschliesst:
 
 <sup>2–4</sup> …
 
+#### Art. 8e1
+
+**Berücksichtigung des Einkommensfreibetrags**
+
+<sup>1</sup> Sind die Voraussetzungen für einen Einkommensfreibetrag nach Artikel 8d oder Artikel 8e erfüllt, wird der Einkommensfreibetrag bei der Berechnung, ob eine Bedürftigkeit vorliegt, als Abzug vom anrechenbaren Einkommen berücksichtigt.
+
 #### Art. 8f
 
 **Höchstgrenze**
@@ -327,6 +333,12 @@ beschliesst:
 
 <sup>4</sup> Die GSI erlässt eine Verordnung zur Bemessung von situationsbedingten Leistungen.
 
+#### Art. 8i1
+
+**1a Berücksichtigung vorhersehbarer situationsbedingter Leistungen**
+
+<sup>1</sup> Sind die Voraussetzungen für vorhersehbare situationsbedingte Leistungen erfüllt, werden diese bei der Berechnung, ob eine Bedürftigkeit vorliegt, als anrechenbarer Aufwand berücksichtigt.
+
 #### Art. 8k
 
 **2 Private Motorfahrzeuge**
@@ -334,6 +346,12 @@ beschliesst:
 <sup>1</sup> Bedürftige Personen haben nur dann Anspruch auf Beiträge an die Kosten für Betrieb und Unterhalt eines privaten Motorfahrzeugs, wenn sie das Fahrzeug aus gesundheitlichen Gründen, zu Erwerbszwecken oder nach Würdigung der Umstände aufgrund einer abgelegenen Wohnlage benötigen.
 
 <sup>2</sup> Führen Betrieb und Unterhalt eines nicht benötigten privaten Motorfahrzeuges zu finanziellen Nachteilen für im selben Haushalt lebende Familienangehörige oder dazu, dass sich die bedürftige Person verschuldet, so ist diese anzuweisen, die Nummernschilder zu hinterlegen.
+
+#### Art. 8k1
+
+**3 Berufliche Vorsorge**
+
+<sup>1</sup> Für die Weiterführung der beruflichen Vorsorge (2. Säule) wird keine wirtschaftliche Hilfe gewährt.
 
 #### Art. 8l
 
@@ -361,6 +379,21 @@ beschliesst:
 <sup>1</sup> Die Sozialdienste gewährleisten, dass Jugendliche und junge Erwachsene unter 25 Jahren, die Sozialhilfe beziehen, für ihre berufliche Integration primär die Angebote der Berufs-, Studien- und Laufbahnberatung sowie das Case Management Berufsbildung nutzen.
 
 <sup>2</sup> Die Sozialdienste berücksichtigen bei ihren Leistungen die Empfehlungen der in Absatz 1 genannten Institutionen.
+
+#### Art. 8n
+
+**Vermögensfreibeträge**
+
+<sup>1</sup> Jede bedürftige Person hat Anspruch auf Anrechnung eines Freibetrags auf ihrem Vermögen.
+
+<sup>2</sup> Die Vermögensfreibeträge richten sich unter Vorbehalt von Absatz 3 nach den SKOS-Richtlinien.
+
+<sup>3</sup> Auf Leistungen aus Genugtuung und Integritätsentschädigung werden folgende Freibeträge gewährt:
+
+- a pro Einzelperson — CHF 25'000
+- b pro verheiratetes oder in eingetragener Partnerschaft lebendes Paar — CHF 40'000
+- c pro minderjähriges Kind — CHF 15'000
+- d pro Unterstützungseinheit höchstens — CHF 55'000
 
 #### Art. 9
 
@@ -404,10 +437,25 @@ beschliesst:
 
 **2 Wirtschaftliche Verhältnisse**
 
-<sup>1</sup> Eine wesentliche Verbesserung der wirtschaftlichen Verhältnisse im Sinne von Artikel 40 Absatz 1 SHG liegt dann vor, wenn die Person, die wirtschaftliche Hilfe bezogen hat,
+<sup>1</sup> Eine wesentliche Verbesserung der wirtschaftlichen Verhältnisse im Sinne von Artikel 40 Absatz 1 SHG liegt vor, wenn die Voraussetzungen von Absatz 2 oder 3 erfüllt sind.
 
-- a ein Einkommen erzielt, das über dem erweiterten Bedarf gemäss Kapitel H. 9 der SKOS-Richtlinien liegt oder
-- b ein Vermögen aufweist, das über dem Betrag von Kapitel E. 3.1 der SKOS-Richtlinien liegt.
+<sup>2</sup> Wesentlich verbesserte Verhältnisse aufgrund von Einkommen sind anzunehmen, wenn dieses über dem Bedarf, bestehend aus den nachfolgenden Positionen, liegt:
+
+- a doppelter Ansatz des Grundbedarfs für den Lebensunterhalt,
+- b effektive Wohnkosten,
+- c Kosten für die medizinische Versorgung,
+- d Erwerbs- und Ausbildungsunkosten sowie weitere begründete Auslagen nach effektivem Aufwand,
+- e Kosten für
+  - 1\. Steuern,
+  - 2\. Versicherungen,
+  - 3\. Unterhaltsbeiträge,
+  - 4\. Schuldzinsen und Schuldentilgung.
+
+<sup>3</sup> Bei wesentlich verbesserten Verhältnissen aufgrund eines Vermögensanfalls sind folgende Freibeträge zu gewähren:
+
+- a pro Einzelperson — CHF 25'000
+- b pro verheiratetes oder in eingetragener Partnerschaft lebendes Paar — CHF 40'000
+- c pro minderjähriges Kind — CHF 15'000
 
 #### Art. 11c
 

@@ -4,13 +4,13 @@ number: "860.111"
 title: "Ordonnance sur l'aide sociale"
 short: OASoc
 language: fr
-version: 2021-03-01
-valid_until: 2021-04-30
-version_adopted: 2020-12-16
+version: 2021-05-01
+valid_until: 2021-07-31
+version_adopted: 2021-03-24
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2155/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2260/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2155/pdf_file"
 
 (OASoc)
 
-du 24.10.2001 (état au 01.03.2021)
+du 24.10.2001 (état au 01.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -184,15 +184,15 @@ arrête:
 
 **Concepts et normes de calcul**
 
-<sup>1</sup> Les concepts et normes de calcul de l'aide sociale édictés par la Conférence suisse des institutions d'action sociale (normes CSIAS)[^8-1], 4<sup>e</sup> édition d'avril 2005 avec les compléments 12/05, 12/07, 12/08, 12/10, 12/12, 12/14, 12/15 et 12/16 ont force obligatoire pour l’exécution de l’aide sociale individuelle, pour autant que la LASoc et la présente ordonnance n’en disposent pas autrement.
+<sup>1</sup> Les concepts et normes de calcul de l'aide sociale édictés par la Conférence suisse des institutions d'action sociale (normes CSIAS)[^8-1], dans leur version du 1<sup>er</sup> janvier 2021 (5<sup>e</sup> édition), ont force obligatoire pour l’exécution de l’aide sociale individuelle, sauf réglementation contraire de la LASoc et de la présente ordonnance.
 
 <sup>2</sup> Le forfait pour l’entretien est fixé par mois, selon la taille du ménage, comme suit, sous réserve des alinéas 3 à 5:
 
 - a une personne — CHF 977
-- b deux personnes — CHF 1 495
-- c trois personnes — CHF 1 818
-- d quatre personnes — CHF 2 090
-- e cinq personnes — CHF 2 364
+- b deux personnes — CHF 1495
+- c trois personnes — CHF 1818
+- d quatre personnes — CHF 2090
+- e cinq personnes — CHF 2364
 - f par personne supplémentaire — + CHF 200
 
 <sup>3</sup> Le forfait pour l’entretien en faveur des jeunes adultes est calculé par mois en fonction du type de résidence:
@@ -226,7 +226,7 @@ arrête:
 - f six personnes — CHF 1526
 - g par personne supplémentaire — + CHF 118
 
-[^8-1]: voir site internet http://csias.ch/les-normes-csias/consulter-les-normes/
+[^8-1]: [https://rl.skos.ch](https://rl.skos.ch)/
 
 #### Art. 8a
 
@@ -256,9 +256,9 @@ arrête:
 
 #### Art. 8d
 
-**Franchise sur les revenus pour les personnes exerçant un emploi**
+**Franchise sur le revenu pour les personnes exerçant un emploi**
 
-<sup>1</sup> Toute personne dans le besoin âgée de 16 ans révolus ou ayant achevé la scolarité obligatoire qui exerce un emploi sur le marché primaire du travail a droit à une franchise sur les revenus provenant de son activité lucrative.
+<sup>1</sup> Toute personne dans le besoin âgée de 16 ans révolus ou ayant achevé la scolarité obligatoire qui exerce un emploi sur le marché primaire du travail a droit à une franchise sur le revenu provenant de son activité lucrative.
 
 <sup>2</sup> Sous réserve des alinéas 3 et 4, la franchise s'élève à
 
@@ -278,17 +278,23 @@ arrête:
 
 #### Art. 8e
 
-**Franchise sur les revenus pour les personnes effectuant un apprentissage**
+**Franchise sur le revenu pour les personnes effectuant un apprentissage**
 
-<sup>1</sup> Toute personne dans le besoin qui effectue un apprentissage a droit à une franchise de 300 francs par mois sur les revenus provenant de son activité.
+<sup>1</sup> Toute personne dans le besoin qui effectue un apprentissage a droit à une franchise de 300 francs par mois sur le revenu provenant de son activité.
 
 <sup>2–4</sup> …
+
+#### Art. 8e1
+
+**Prise en compte de la franchise sur le revenu**
+
+<sup>1</sup> Si les conditions requises pour l’octroi d’une franchise sur le revenu selon l'article 8d ou l'article 8e sont remplies, celle-ci est déduite du revenu à prendre en compte dans le calcul opéré pour déterminer le besoin d’aide sociale.
 
 #### Art. 8f
 
 **Plafond**
 
-<sup>1</sup> Les suppléments d’intégration et franchises cu-mulés ne doivent pas dépasser 850 francs par mois pour un ménage comptant jusqu’à cinq personnes et 1000 francs par mois pour un ménage de six personnes et plus.
+<sup>1</sup> Les suppléments d’intégration et franchises cumulés ne doivent pas dépasser 850 francs par mois pour un ménage comptant jusqu’à cinq personnes et 1000 francs par mois pour un ménage de six personnes et plus.
 
 #### Art. 8g
 
@@ -325,6 +331,12 @@ arrête:
 
 <sup>4</sup> La DSSI édicte une ordonnance sur le calcul des prestations circonstancielles.
 
+#### Art. 8i1
+
+**1a Prise en compte des prestations circonstancielles prévisibles**
+
+<sup>1</sup> Si les conditions requises pour l’octroi de prestations circonstancielles prévisibles sont remplies, ces dernières sont incluses en tant que dépenses à prendre en compte dans le calcul opéré pour déterminer le besoin d’aide sociale.
+
 #### Art. 8k
 
 **2 Véhicules à moteur privés**
@@ -332,6 +344,12 @@ arrête:
 <sup>1</sup> Les personnes tributaires de l’aide sociale ont droit à une contribution aux frais d’usage et d’entretien de leur véhicule à moteur privé uniquement si elles en ont besoin pour des raisons de santé ou des motifs professionnels, ou si les circonstances liées à leur domicile isolé le justifient.
 
 <sup>2</sup> Si tel n’est pas le cas et que l’usage et l’entretien d’un véhicule à moteur privé entraînent des désavantages financiers pour les membres de la famille vivant dans le même ménage ou conduisent son détenteur ou sa détentrice à s’endetter, le service social l’enjoint de déposer les plaques.
+
+#### Art. 8k1
+
+**3 Prévoyance professionnelle**
+
+<sup>1</sup> Aucune aide matérielle n'est allouée pour la poursuite du versement de cotisations à la prévoyance professionnelle (2<sup>e</sup> pilier).
 
 #### Art. 8l
 
@@ -358,6 +376,21 @@ arrête:
 <sup>1</sup> Les services sociaux veillent à ce que les adolescents et les jeunes adultes âgés de moins de 25 ans tributaires de l’aide sociale recourent en premier lieu aux offres des services d’orientation professionnelle et personnelle, ainsi qu’au Case management Formation professionnelle.
 
 <sup>2</sup> Ils octroient leurs prestations conformément aux recommandations des institutions citées à l’alinéa 1.
+
+#### Art. 8n
+
+**Franchises sur la fortune**
+
+<sup>1</sup> Toute personne dans le besoin a droit à une franchise sur sa fortune.
+
+<sup>2</sup> Les franchises sur la fortune sont régies par les normes CSIAS, sous réserve de l'alinéa 3.
+
+<sup>3</sup> Les franchises suivantes sont accordées sur les prestations de réparation morale et les indemnités pour atteinte à l’intégrité:
+
+- a personne seule — CHF 25'000
+- b couple marié ou vivant en partenariat enregistré — CHF 40'000
+- c enfant mineur — CHF 15'000
+- d montant maximum par unité d'assistance — CHF 55'000
 
 #### Art. 9
 
@@ -387,7 +420,7 @@ arrête:
 
 **Personnes relevant du domaine de l’asile**
 
-<sup>1</sup> Si l’organisme responsable d’un service social délègue l’exécution de l’aide sociale en faveur de personnes admises provisoirement qui séjournent depuis plus de sept ans en Suisse à un autre organisme privé ou public, les articles 34 et suivants concernant l’admission à la compensation des charges des frais de traitement et de perfectionnement sont applicables.
+<sup>1</sup> Si l’organisme responsable d’un service social délègue l’exécution de l’aide sociale en faveur de personnes admises à titre provisoire qui séjournent depuis plus de sept ans en Suisse à un autre organisme privé ou public, les articles 34 et suivants concernant l’admission à la compensation des charges des frais de traitement et de perfectionnement sont applicables.
 
 #### Art. 11a
 
@@ -401,10 +434,25 @@ arrête:
 
 **2 Situation économique**
 
-<sup>1</sup> L’amélioration des conditions économiques est considérée comme notable au sens de l’article 40, alinéa 1 LASoc dès lors que la personne ayant bénéficié de l’aide matérielle
+<sup>1</sup> Les conditions économiques sont considérées comme sensiblement améliorées au sens de l’article 40, alinéa 1 LASoc dès lors que les prérequis définis à l'alinéa 2 ou 3 sont remplis.
 
-- a touche un revenu dépassant le budget élargi conformément au chapitre H.9 des normes CSIAS ou
-- b dispose d’une fortune supérieure au montant prévu au chapitre E.3–1 des normes CSIAS.
+<sup>2</sup> Le revenu est supposé sensiblement amélioré lorsqu'il dépasse les besoins, qui se composent des postes suivants:
+
+- a montant du forfait pour l'entretien multiplié par deux,
+- b frais effectifs de logement,
+- c frais médicaux,
+- d frais d'acquisition du revenu, frais de formation et autres frais justifiés à hauteur des dépenses effectives,
+- e dépenses encourues pour
+  - 1\. impôts,
+  - 2\. assurances,
+  - 3\. contributions d'entretien,
+  - 4\. intérêts et amortissement des dettes.
+
+<sup>3</sup> Lorsqu'une personne entre en possession de biens améliorant sensiblement sa fortune, elle se voit accorder les franchises suivantes:
+
+- a personne seule — CHF 25'000
+- b couple marié ou vivant en partenariat enregistré — CHF 40'000
+- c enfant mineur — CHF 15'000
 
 #### Art. 11c
 
