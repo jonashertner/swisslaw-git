@@ -4,10 +4,11 @@ number: "172.5"
 title: Verordnung über die strategische Führung und den Einsatz der kantonalen Führungsorganisation (KFOV)
 short: KFOV
 language: de
-nachtrag: "72"
-valid_until: 2021-05-01
+version: "2021-05-01"
+nachtrag: "113"
+valid_until: 2024-01-01
 adopted: 2010-12-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_5-2010_12_22-2011_04_01-072.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_5-2010_12_22-2011_04_01-113.html"
 text: pdf
 ---
 
@@ -45,17 +46,15 @@ Diese Verordnung regelt a. die Organisation und den Betrieb der Kantonalen Führ
 
 **KFO a. Einsatz**
 
-Neben dem Einsatz in ausserordentlichen Lagen dient die KFO a. für Einsätze im Rahmen des Bevölkerungsschutzes bei bewaffneten Konflikten,
+<sup>1</sup> Neben dem Einsatz in ausserordentlichen Lagen dient die KFO a. für Einsätze im Rahmen des Bevölkerungsschutzes bei bewaffneten Konflikten,
 
 - b. zur Bewältigung von Ereignissen anderer Lagen.
 
-#### § 3
+<sup>2</sup> Die Direktionen können beim Regierungsrat die Unterstützung der KFO beantragen. Deren Einsatz erfolgt in Absprache mit der Sicherheitsdirektion.[^2-1]
+
+<sup>3</sup> Der Regierungsrat entscheidet über den Einsatz der KFO ausserhalb von ausserordentlichen Lagen.[^2-1] § 3. <sup>1</sup> Ständige Mitglieder des Fachstabs der KFO sind die Chefinnen oder die Chefs bzw. die von ihnen bezeichneten Vertreterinnen oder Vertreter folgender Verwaltungseinheiten:[^2-2] a. der Kantonspolizei,
 
 **b. Fachstab**
-
-<sup>1</sup> Ständige Mitglieder des Fachstabs der KFO sind die Chefinnen oder die Chefs bzw. die von ihnen bezeichneten Stellvertreterinnen oder Stellvertreter folgender Verwaltungseinheiten:
-
-- a. der Kantonspolizei,
 
 - b. des Amtes für Militär und Zivilschutz,
 
@@ -63,17 +62,30 @@ Neben dem Einsatz in ausserordentlichen Lagen dient die KFO a. für Einsätze im
 
 - d. des Amtes für Abfall, Wasser, Energie und Luft,
 
-- e. des Kantonsärztlichen Dienstes,
-
-- f. der Kommunikationsabteilung des Regierungsrates.
-
 **1**
 
-- 1\. 4. 11 - 72
+- 1\. 7. 21 - 113
+
+- e. des Kantonsärztlichen Dienstes,
+
+- f. des Amtes für Wirtschaft und Arbeit,
+
+- g. der Kommunikationsabteilung des Regierungsrates,
+
+- h. der Staatskanzlei,
+
+- i. der für das integrale Risikomanagement zuständigen Stelle,
+
+- j. der Stadträte der Städte Zürich und Winterthur,
+
+- k. des Verbandes der Gemeindepräsidien.
 
 <sup>2</sup> Der Regierungsrat kann bei der Bewältigung von ausserordentlichen Lagen weitere Mitglieder beiziehen.
 
 <sup>3</sup> Der Fachstab kann zusätzliche Fachleute beiziehen.
+
+[^2-1]: Eingefügt durch RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021.
+[^2-2]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021. 1. 7. 21 - 113 5
 
 #### § 4
 
@@ -138,22 +150,21 @@ Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion a. lässt sich in re
 <sup>2</sup> Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion informiert den Regierungsrat.
 
 [^8-1]: LS 520.
+[^8-2]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021. 1. 7. 21 - 113 5
 
 #### § 9
 
 **Aufgaben des Regierungsrates a. Allgemeines**
 
-<sup>1</sup> Im Rahmen seiner Aufgaben gemäss § 10 BSG[^8-1] entscheidet der Regierungsrat insbesondere über a. Anträge des Fachstabes,
-
-- b. zusätzliche Aufträge an die Leitung der KFO.
+<sup>1</sup> Im Rahmen seiner Aufgaben gemäss § 10 BSG[^8-1] entscheidet der Regierungsrat insbesondere über zusätzliche Aufträge an die Leitung der KFO.[^8-2]
 
 <sup>2</sup> Er kann ereignisbezogen einen Ausschuss einsetzen. Diesem gehören die Regierungspräsidentin oder der Regierungspräsident, die Vorsteherin oder der Vorsteher der Sicherheitsdirektion und ein weiteres Regierungsmitglied an.
 
-#### § 10
+**3**
+
+- 1\. 7. 21 - 113 § 10. <sup>1</sup> Der Regierungsrat entscheidet über Unterstützungsbegehren des Bundes, anderer Kantone und des benachbarten Auslands. Er koordiniert gemeinsame Einsätze mit ausserkantonalen Behörden.
 
 **b. Verkehr mit ausserkantonalen Behörden**
-
-<sup>1</sup> Der Regierungsrat entscheidet über Unterstützungsbegehren des Bundes, anderer Kantone und des benachbarten Auslands. Er koordiniert gemeinsame Einsätze mit ausserkantonalen Behörden.
 
 <sup>2</sup> Ausserkantonale Unterstützungskräfte sind der KFO zur Zusammenarbeit zugewiesen.
 
@@ -171,25 +182,25 @@ Der Regierungsrat setzt bei der Informationsführung die eigene Kommunikationsab
 
 <sup>2</sup> Der Regierungsrat kann als zusätzliche Unterstützung die Generalsekretärenkonferenz beiziehen.
 
-**3**
-
-- 1\. 4. 11 - 72 § 13. Ist rechtzeitiges Handeln des Regierungsrates nicht möglich, trifft an dessen Stelle die Kommandantin oder der Kommandant der Kantonspolizei die erforderlichen Massnahmen. Sie oder er informiert den Regierungsrat unverzüglich.
-
-#### § 14
+#### § 13
 
 **Handeln bei Gefahr**
 
+Ist rechtzeitiges Handeln des Regierungsrates nicht möglich, trifft an dessen Stelle die Kommandantin oder der Kommandant der Kantonspolizei die erforderlichen Massnahmen. Sie oder er informiert den Regierungsrat unverzüglich.
+
+[^13-1]: Fassung gemäss RRB vom 17. März 2021 (OS 76, 116; ABl 2021-03-26). In Kraft seit 1. Mai 2021. 1. 7. 21 - 113 5
+
+#### § 14
+
 **Aufgaben des Fachstabs**
 
-<sup>1</sup> Der Fachstab a. beobachtet und beurteilt die Lage und analysiert die Bedrohung,
+<sup>1</sup> Der Fachstab[^13-1] a. beobachtet und beurteilt die Lage und analysiert die Bedrohung,
 
 - b. trifft Sofortmassnahmen,
 
 - c. erarbeitet Massnahmenpläne für mögliche Situationen,
 
-- d. beantragt dem Regierungsrat die strategischen Massnahmen,
-
-- e. gibt fachlich erforderliche Empfehlungen zuhanden Dritter ab.
+- d. gibt fachlich erforderliche Empfehlungen zuhanden Dritter ab.
 
 <sup>2</sup> Der Regierungsrat kann ihm im Einzelfall weitere Aufgaben zur selbstständigen Erledigung übertragen.
 
