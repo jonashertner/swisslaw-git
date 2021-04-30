@@ -4,20 +4,20 @@ number: 539c
 title: Statut der Universität Luzern
 short: Universitätsstatut
 language: de
-version: 2020-11-01
-valid_until: 2021-04-30
-version_adopted: 2020-10-22
+version: 2021-05-01
+valid_until: 2021-06-30
+version_adopted: 2021-03-24
 adopted: 2023-12-13
 in_force: 2024-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539c"
-pdf: "https://srl.lu.ch/api/de/versions/3641/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3745/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Statut der Universität Luzern
 
-vom 12.12.2001 (Stand 01.11.2020)
+vom 12.12.2001 (Stand 01.05.2021)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -165,7 +165,7 @@ beschliesst:
 - s. erstattet Bericht an den Universitätsrat, kann für bestimmte Aufgaben Delegierte bezeichnen und erledigt alle gesamtuniversitären Geschäfte, soweit die Universitätsgesetzgebung keine anderen Zuständigkeiten vorsieht,
 - t. kann nach Voranmeldung an Sitzungen der Fakultäten und ihrer Organisationseinheiten sowie von Kommissionen teilnehmen.
 
-<sup>3</sup> Prorektorinnen und Prorektoren werden vom Universitätsrat auf Antrag der Rektorin oder des Rektors gewählt, nachdem sie oder er dazu den Senat angehört hat.
+<sup>3</sup> Prorektorinnen und Prorektoren werden vom Universitätsrat auf Antrag der Rektorin oder des Rektors gewählt, nachdem sie oder er dazu die Erweiterte Universitätsleitung und den Senat angehört hat.
 
 <sup>4</sup> Prorektorinnen und Prorektoren sind Mitglieder der Universitätsleitung.
 
@@ -178,7 +178,9 @@ Es bestehen folgende Zuständigkeiten:
 - c. Prorektorat Universitätsentwicklung: Universitätsverein, Alumni-Organisation, Forschungsinformationssystem, Qualitätsmanagement, Universitätsarchiv,
 - d. Prorektorat Personal und Professuren: Personaldienst, Chancengleichheit, Gleichstellungskommission.
 
-<sup>6</sup> Die Rektorin oder der Rektor regelt ihre beziehungsweise seine Stellvertretung.
+<sup>6</sup> Die Rektorin oder der Rektor kann die Zuständigkeiten der Prorektorinnen und Prorektoren nach Anhören der Erweiterten Universitätsleitung anpassen beziehungsweise ihnen weitere Aufgaben zur selbständigen Erledigung übertragen.
+
+<sup>7</sup> Die Rektorin oder der Rektor regelt ihre beziehungsweise seine Stellvertretung.
 
 #### § 12a
 
@@ -187,8 +189,8 @@ Es bestehen folgende Zuständigkeiten:
 <sup>1</sup> Die Universitätsleitung umfasst die Rektorin oder den Rektor und die Leitungspersonen der Stabs- und Diensteinrichtungen:
 
 - a. die Prorektorinnen und Prorektoren,
-- b. die Verwaltungsdirektorin oder den Verwaltungsdirektor,
-- c. die Generalsekretärin oder den Generalsekretär.
+- b. die Universitätsmanagerin oder der Universitätsmanager,
+- c. in beratender Funktion die Leitungspersonen der Universitätskommunikation, des Fundraising und des Rechtsdienstes.
 
 <sup>2</sup> Die Mitglieder der Universitätsleitung
 
@@ -202,9 +204,9 @@ Es bestehen folgende Zuständigkeiten:
 
 **Erweiterte Universitätsleitung**
 
-<sup>1</sup> Die erweiterte Universitätsleitung umfasst die Universitätsleitung gemäss § 12a, die Dekaninnen und Dekane sowie Leitungspersonen der direkt unterstellten Departemente.
+<sup>1</sup> Die Erweiterte Universitätsleitung befasst sich mit gesamtorganisatorischen Fragen des Universitätsbetriebs und bereitet Geschäfte des Senats vor.
 
-<sup>2</sup> Die Rektorin oder der Rektor beruft die erweiterte Universitätsleitung ein, um Informationsflüsse in alle Richtungen sicherzustellen und jene Instanzen in Entscheidungsprozesse einzubeziehen, welche die Beschlüsse später umsetzen werden.
+<sup>2</sup> Sie setzt sich zusammen aus den Mitgliedern der Universitätsleitung gemäss § 12a, den Dekaninnen und Dekanen sowie den Leitungspersonen der Departemente.
 
 #### § 13
 
@@ -235,40 +237,27 @@ Es bestehen folgende Zuständigkeiten:
 
 #### § 14
 
-**Verwaltungsdirektorin oder Verwaltungsdirektor**
+**Universitätsmanagerin oder Universitätsmanager**
 
-<sup>1</sup> Der Universitätsrat wählt auf Antrag der Rektorin oder des Rektors eine Verwaltungsdirektorin oder einen Verwaltungsdirektor.
+<sup>1</sup> Der Universitätsrat wählt auf Antrag der Rektorin oder des Rektors eine Universitätsmanagerin oder einen Universitätsmanager.
 
-<sup>2</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor ist der Rektorin oder dem Rektor unterstellt und unterstützt sie oder ihn in der betrieblichen Leitung der Universität Luzern.
+<sup>2</sup> Die Universitätsmanagerin oder der Universitätsmanager ist Stabschefin oder Stabschef der Universität und ist der Rektorin oder dem Rektor unterstellt.
 
-<sup>3</sup> Sie oder er trägt die Verantwortung für das Finanz- und Rechnungswesen, das Personalmanagement, die Infrastruktur und das Beschaffungswesen der Universität Luzern. Insbesondere
+<sup>3</sup> Sie oder er
 
-- a. erbringt sie oder er im Auftrag der Rektorin oder des Rektors zentrale Dienstleistungen für die Gesamtuniversität sowie für die Fakultäten und weitere Organisationseinheiten der Universität Luzern,
-- b. stellt sie oder er den Führungsinstanzen der Universität Luzern Informationen, Instrumente und Dienstleistungen, die für die Führung und Entwicklung der Universität erforderlich sind, stufengerecht zur Verfügung,
-- c. leitet sie oder er die Administration der Universität Luzern,
-- d. führt sie oder er das zentrale Verwaltungspersonal sowie das technische Personal,
-- e. ist sie oder er weisungsberechtigt hinsichtlich der Verwaltungsabläufe der Universität,
-- f. stellt sie oder er das Instrumentarium für die sinnvolle und effiziente Nutzung der Universitätsmittel im Rahmen von Zielsetzung und Leistungsauftrag der Universität Luzern zur Verfügung,
-- g. ist sie oder er zuhanden der Rektorin oder des Rektors für die Erstellung und den Vollzug des Budgets verantwortlich.
+- a. koordiniert die Stabsaufgaben in der Universitätsleitung und stellt die notwendigen Instrumente bereit,
+- b. ist verantwortlich für die ihr oder ihm unterstellten Einrichtungen: Finanz- und Rechnungswesen, Facility Management, Informatikdienste, Bibliothek und Campusorganisationen,
+- c. ist zuständig für die Beziehungen zu Hochschulnetzwerken und Partnerinstitutionen.
+- d. …
+- e. …
+- f. …
+- g. …
 
-<sup>4</sup> Die Rektorin oder der Rektor kann der Verwaltungsdirektorin oder dem Verwaltungsdirektor weitere Aufgaben zur selbständigen Erledigung übertragen.
+<sup>4</sup> Die Rektorin oder der Rektor kann die Zuständigkeiten der Universitätsmanagerin oder des Universitätsmanagers nach Anhören der Erweiterten Universitätsleitung anpassen beziehungsweise ihr oder ihm weitere Aufgaben zur selbständigen Erledigung übertragen.
 
 #### § 14a
 
-**Generalsekretärin oder Generalsekretär**
-
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär wird vom Universitätsrat auf Antrag der Rektorin oder des Rektors gewählt und ist ihr oder ihm unterstellt.
-
-<sup>2</sup> Die Generalsekretärin oder der Generalsekretär
-
-- a. ist Mitglied der Universitätsleitung,
-- b. koordiniert die Stabsaufgaben in der Universitätsleitung und stellt die notwendigen Instrumente bereit,
-- c. ist zuständig für die Beziehungen zu Hochschulnetzwerken und Partnerinstitutionen,
-- d. ist verantwortlich für die ihr oder ihm unterstellten Einrichtungen, Kommissionen und Arbeitsgruppen: Qualitätssicherung, Rechtsdienst, Bibliothek, Universitätsarchiv und Campusorganisationen.
-
-<sup>3</sup> …
-
-<sup>4</sup> Die Rektorin oder der Rektor kann der Generalsekretärin oder dem Generalsekretär weitere Aufgaben übertragen.
+**…**
 
 ### 2.2 Organisation und Aufgaben der Fakultäten und weiteren Organisationseinheiten
 
@@ -303,7 +292,7 @@ Es bestehen folgende Zuständigkeiten:
 - e. beruft die Fakultätsversammlung ein und leitet die Sitzungen,
 - f. kann in den Gremien der Fakultät, der Institute und Seminare mit beratender Stimme Einsitz nehmen,
 - g. ist für den Studienbetrieb verantwortlich,
-- h. ist im Rahmen der Vorgaben der Verwaltungsdirektion zuständig für die Durchführung der Anstellungsverfahren des wissenschaftlichen sowie des administrativen und technischen Personals,
+- h. ist im Rahmen der personalrechtlichen Vorgaben zuständig für die Durchführung der Anstellungsverfahren des wissenschaftlichen sowie des administrativen und technischen Personals,
 - i. wirkt mit bei Berufungen,
 - k. kann für bestimmte Aufgaben Delegierte bezeichnen,
 - l. führt in der Regel den Vorsitz in Berufungskommissionen,
@@ -437,7 +426,7 @@ Es bestehen folgende Zuständigkeiten:
 
 <sup>1</sup> Die Forschungskommission der Universität Luzern entscheidet über die Zuteilung der Mittel aus dem Forschungsfonds der Universität Luzern. Sie kann sich zu Gesuchen an den Schweizerischen Nationalfonds und an andere Institutionen der Forschungsförderung äussern.
 
-<sup>2</sup> Die Forschungskommission besteht aus mindestens 13 Mitgliedern, wobei die Generalsekretärin oder der Generalsekretär, die Fakultäten und Departemente mit je zwei Professorinnen oder Professoren, die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie die Studierenden mit je einer Person vertreten sind. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
+<sup>2</sup> Die Forschungskommission besteht aus mindestens zwölf Mitgliedern, wobei die Fakultäten und Departemente mit je zwei Professorinnen oder Professoren, die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie die Studierenden mit je einer Person vertreten sind. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
 
 <sup>3</sup> Der Senat wählt die Mitglieder der Forschungskommission auf Vorschlag der Fakultäten, der Departemente und der Rektorin oder des Rektors beziehungsweise der einzelnen Gruppierungen für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich. Die gesamte Amtszeit eines Mitgliedes der Forschungskommission darf die Dauer von zwölf Jahren nicht überschreiten.
 
@@ -461,7 +450,7 @@ Es bestehen folgende Zuständigkeiten:
 
 <sup>1</sup> Die Lehrkommission befasst sich mit Fragen der Entwicklung der Lehre und der Hochschuldidaktik. Sie beurteilt und fördert neue Lehrformen und die Entwicklung neuer Technologien für die Lehre. Sie erarbeitet insbesondere Grundsätze für gute Lehre.
 
-<sup>2</sup> Die Lehrkommission besteht aus mindestens acht Mitgliedern, wobei die Generalsekretärin oder der Generalsekretär, die Fakultäten und Departemente mit je einer Professorin oder einem Professor, die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie die Studierenden mit je einer Person vertreten sind. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
+<sup>2</sup> Die Lehrkommission besteht aus mindestens sieben Mitgliedern, wobei die Fakultäten und Departemente mit je einer Professorin oder einem Professor, die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie die Studierenden mit je einer Person vertreten sind. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
 
 <sup>3</sup> Der Senat wählt die Mitglieder der Lehrkommission auf Vorschlag der Fakultäten und der Departemente beziehungsweise der einzelnen Gruppierungen für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich.
 
@@ -471,11 +460,11 @@ Es bestehen folgende Zuständigkeiten:
 
 <sup>1</sup> Die Gleichstellungskommission begleitet und fördert die nachhaltige Verankerung der Chancengleichheit als Querschnittaufgabe im Sinne der Qualitätsentwicklung in allen Aufgabenbereichen der Universität.
 
-<sup>2</sup> Die Gleichstellungskommission besteht aus mindestens acht Mitgliedern, wobei die Fakultäten, die Departemente, das wissenschaftliche Personal, die Studierenden und das übrige Universitätspersonal mit je einer Person vertreten sind sowie die oder der Gleichstellungsbeauftragte, die Generalsekretärin oder der Generalsekretär und die Leiterin oder der Leiter des Personaldienstes Einsitz nehmen. Weitere Personen können auf Antrag der Rektorin oder des Rektors zur Wahl vorgeschlagen werden. Es ist auf eine ausgewogene Vertretung der Geschlechter zu achten. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
+<sup>2</sup> Die Gleichstellungskommission besteht aus mindestens sechs Mitgliedern, wobei die Fakultäten, die Departemente, das wissenschaftliche Personal, die Studierenden und das übrige Universitätspersonal mit je einer Person vertreten sind sowie die oder der Gleichstellungsbeauftragte und die Leiterin oder der Leiter des Personaldienstes Einsitz nehmen. Weitere Personen können auf Antrag der Rektorin oder des Rektors zur Wahl vorgeschlagen werden. Es ist auf eine ausgewogene Vertretung der Geschlechter zu achten. Die Kommission wird von der zuständigen Prorektorin oder dem zuständigen Prorektor geleitet.
 
 <sup>3</sup> Der Senat wählt die Mitglieder der Gleichstellungskommission auf Vorschlag der Fakultäten, der Departemente, der einzelnen Gruppierungen und der Rektorin oder des Rektors auf eine Amtsdauer von zwei Jahren. Eine Wiederwahl ist möglich; die gesamte Amtszeit eines Mitglieds der Gleichstellungskommission darf die Dauer von acht Jahren nicht überschreiten. Für die Mitglieder von Amtes wegen gemäss Absatz 2 gilt keine Amtszeitbeschränkung.
 
-### 2.3a Ombudsstelle
+### 2.3a Ombuds- und Meldestelle
 
 #### § 25a
 
@@ -489,6 +478,20 @@ Es bestehen folgende Zuständigkeiten:
 
 <sup>4</sup> Die Ombudsstelle legt der Präsidentin oder dem Präsidenten des Universitätsrates jährlich einen schriftlichen Tätigkeitsbericht vor.
 
+#### § 25b
+
+<sup>1</sup> Die Universität unterhält eine zentrale, von der Universität unabhängige Meldestelle für Hinweise betreffend vermutete oder tatsächliche Regelverstösse und Unregelmässigkeiten, die die Universität oder Universitätsangehörige betreffen.
+
+<sup>2</sup> Die Meldestelle wird vom Universitätsrat auf Antrag der Präsidentin oder des Präsidenten gewählt. Die Amtsdauer beträgt vier Jahre. Wiederwahl ist möglich.
+
+<sup>3</sup> Meldungen können schriftlich, telefonisch oder in elektronischer Form unterbreitet werden. Das System gewährleistet die vollständige Anonymität der Hinweisgebenden, sofern dies gewünscht ist.
+
+<sup>4</sup> Eingehende Meldungen werden durch die Meldestelle an die zuständige Stelle der Universität zur Behandlung weitergeleitet, sofern kein offensichtlicher Interessenkonflikt besteht. In letzterem Fall erfolgt eine Weiterleitung an die Präsidentin oder den Präsidenten des Universitätsrates.
+
+<sup>5</sup> Die Meldestelle legt der Präsidentin oder dem Präsidenten des Universitätsrates jährlich einen schriftlichen Bericht vor.
+
+<sup>6</sup> Einzelheiten zu den Zuständigkeiten und zum Verfahren regelt die Rektorin oder der Rektor in einer Richtlinie.
+
 ### 2.4 Bibliothek
 
 #### § 26
@@ -497,7 +500,7 @@ Es bestehen folgende Zuständigkeiten:
 
 <sup>1</sup> Die Zentral- und Hochschulbibliothek Luzern ist zugleich Universitätsbibliothek.
 
-<sup>2</sup> Die Generalsekretärin oder der Generalsekretär ist verantwortlich für die Zusammenarbeit, einschliesslich der Leistungserbringung, der Qualitätskontrolle und der Abgeltung.
+<sup>2</sup> Die Universitätsmanagerin oder der Universitätsmanager ist verantwortlich für die Zusammenarbeit, einschliesslich der Leistungserbringung, der Qualitätskontrolle und der Abgeltung.
 
 ## 3 Angehörige der Universität
 
@@ -863,6 +866,12 @@ Es bestehen folgende Zuständigkeiten:
 <sup>1</sup> Die Statuten der Hochschule Luzern vom 27. September 1996[^59-1] werden aufgehoben.
 
 [^59-1]: G 1996 210 (SRL Nr. 540)
+
+#### § 59a
+
+**Übergangsbestimmungen zur Änderung vom 22. Oktober 2020**
+
+<sup>1</sup> Die Änderung vom 22. Oktober 2020 betreffend die Prorektorate (§ 12 Absatz 5) tritt per sofort in Kraft, die Änderung zu den extern getragenen Instituten (§ 21a) am 1. November 2020 und die anderen Änderungen am Tag des Stellenantritts der Universitätsmanagerin oder des Universitätsmanagers.
 
 #### § 60
 
