@@ -4,11 +4,11 @@ title: "Ordonnance du 13 novembre 2019 concernant l'Inventaire fédéral des sit
 short: OISOS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/673"
 language: fr
-version: 2020-01-01
+version: 2021-05-01
 adopted: 2019-11-13
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-673-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2019-673-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20200101/fr"
 
 (OISOS)
 
-du 13 novembre 2019 (Etat le 1<sup>er</sup> janvier 2020)
+du 13 novembre 2019 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -231,11 +231,13 @@ L’ordonnance du 9 septembre 1981 concernant l’Inventaire fédéral des sites
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
 (art. 1, al. 1)
 
 ## Sites construits d’importance nationale à protéger
+
+[^t-1]: Mise à jour par le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)).
 
 <table>
 <tr><th>Canton</th><th>N<sup>o</sup></th><th>Objet</th><th>Catégorie d’agglomération</th></tr>
@@ -584,28 +586,23 @@ Annexe 1
 <tr><td>FR</td><td>1648</td><td>Vuippens (Marsens)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1589</td><td>Vuissens</td><td>village</td></tr>
 <tr><td>GE</td><td>1802</td><td>Avully</td><td>village</td></tr>
-<tr><td>GE</td><td>1809</td><td>Bourdigny (Satigny)</td><td>village</td></tr>
 <tr><td>GE</td><td>1812</td><td>Carouge</td><td>ville</td></tr>
-<tr><td>GE</td><td>1813</td><td>Carre (Meinier)</td><td>hameau</td></tr>
+<tr><td>GE</td><td>1813</td><td>Carre, Le (Meinier, Choulex)</td><td>hameau</td></tr>
 <tr><td>GE</td><td>1814</td><td>Cartigny</td><td>village</td></tr>
 <tr><td>GE</td><td>1815</td><td>Céligny</td><td>village</td></tr>
-<tr><td>GE</td><td>1824</td><td>Choully (Satigny)</td><td>village</td></tr>
 <tr><td>GE</td><td>1828</td><td>Compesières (Bardonnex)</td><td>cas particulier</td></tr>
 <tr><td>GE</td><td>1834</td><td>Dardagny</td><td>village</td></tr>
 <tr><td>GE</td><td>1840</td><td>Genève</td><td>ville</td></tr>
 <tr><td>GE</td><td>1841</td><td>Genthod</td><td>village</td></tr>
 <tr><td>GE</td><td>1845</td><td>Hermance</td><td>petite ville/bourg</td></tr>
-<tr><td>GE</td><td>1846</td><td>Jussy</td><td>village</td></tr>
+<tr><td>GE</td><td>1846</td><td>Jussy (Jussy, Gy, Meinier)</td><td>village</td></tr>
 <tr><td>GE</td><td>1848</td><td>Landecy (Bardonnex)</td><td>village</td></tr>
+<tr><td>GE</td><td>6282</td><td>Lignon, Le (Vernier)</td><td>cas particulier</td></tr>
 <tr><td>GE</td><td>1852</td><td>Malval (Dardagny)</td><td>hameau</td></tr>
-<tr><td>GE</td><td>1857</td><td>Onex</td><td>village</td></tr>
-<tr><td>GE</td><td>1858</td><td>Peissy (Satigny)</td><td>village</td></tr>
-<tr><td>GE</td><td>1874</td><td>Satigny-dessus (Satigny)</td><td>cas particulier</td></tr>
-<tr><td>GE</td><td>1875</td><td>Sézegnin (Avusy)</td><td>village</td></tr>
+<tr><td>GE</td><td>6280</td><td>Mandement, Coteau du (Satigny)</td><td>cas particulier</td></tr>
+<tr><td>GE</td><td>1870</td><td>Russin</td><td>village</td></tr>
 <tr><td>GE</td><td>1877</td><td>Sierne (Veyrier)</td><td>hameau</td></tr>
-<tr><td>GE</td><td>1878</td><td>Sionnet (Jussy)</td><td>hameau</td></tr>
-<tr><td>GE</td><td>1879</td><td>Soral</td><td>village</td></tr>
-<tr><td>GE</td><td>1888</td><td>Veyrier</td><td>village urbanisé</td></tr>
+<tr><td>GE</td><td>1878</td><td>Sionnet (Jussy, Meinier)</td><td>hameau</td></tr>
 <tr><td>GL</td><td>1890</td><td>Adlenbach (Luchsingen)</td><td>Weiler</td></tr>
 <tr><td>GL</td><td>1896</td><td>Diesbach</td><td>Dorf</td></tr>
 <tr><td>GL</td><td>1897</td><td>Elm</td><td>Dorf</td></tr>
@@ -616,13 +613,12 @@ Annexe 1
 <tr><td>GL</td><td>1921</td><td>Rüti</td><td>Dorf</td></tr>
 <tr><td>GL</td><td>1925</td><td>Steinibach (Elm)</td><td>Weiler</td></tr>
 <tr><td>GL</td><td>1928</td><td>Ziegelbrücke (Niederurnen)</td><td>Spezialfall</td></tr>
-<tr><td>GR</td><td>1934</td><td>Almens</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>1934</td><td>Almens (Domleschg)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>1935</td><td>Alvaneu</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1937</td><td>Alvaschein</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1938</td><td>Andeer</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1943</td><td>Ardez</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1946</td><td>Augio (Rossa)</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>1948</td><td>Averser Hofweiler (Avers)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>1950</td><td>Bergün/Bravuogn</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1951</td><td>Bever</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1953</td><td>Bodio/Cauco (Cauco)</td><td>villaggio</td></tr>
@@ -632,24 +628,24 @@ Annexe 1
 <tr><td>GR</td><td>1956</td><td>Braggio con Aira, Mezzana, Miaddi, Oer, Refontana, Stabbio (Braggio)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1959</td><td>Brienz</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1960</td><td>Brün (Valendas)</td><td>Weiler</td></tr>
-<tr><td>GR</td><td>1966</td><td>Calfreisen</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>1972</td><td>Campi (Sils im Domleschg)</td><td>Spezialfall</td></tr>
+<tr><td>GR</td><td>1966</td><td>Calfreisen (Arosa)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>1977</td><td>Cantone (Poschiavo)</td><td>casale/piccolo villaggio</td></tr>
 <tr><td>GR</td><td>2322</td><td>Castasegna</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1983</td><td>Castrisch</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1984</td><td>Cavaione (Brusio)</td><td>casale/piccolo villaggio</td></tr>
 <tr><td>GR</td><td>1985</td><td>Cavardiras (Disentis/Mustér)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>1991</td><td>Chur</td><td>Stadt</td></tr>
+<tr><td>GR</td><td>1993</td><td>Cinuos-chel (S-chanf)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>2323</td><td>Coltura (Stampa)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2008</td><td>Curaglia (Medel (Lucmagn))</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2019</td><td>Degen/Igels</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2023</td><td>Disla (Disentis/Mustér)</td><td>fracziun</td></tr>
+<tr><td>GR</td><td>2204</td><td>Dörfji/Schmitten (Arosa (Sapün))</td><td>Spezialfall</td></tr>
+<tr><td>GR</td><td>6284</td><td>Dusch (Domleschg)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2026</td><td>Duvin</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2033</td><td>Felsberg</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2036</td><td>Fideris</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2037</td><td>Filisur</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2038</td><td>Fläsch</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>2041</td><td>Flims-Waldhaus (Flims)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2049</td><td>Fürstenau</td><td>Kleinstadt/Flecken</td></tr>
 <tr><td>GR</td><td>2057</td><td>Grono con Pont del Ram e San Clemente (Grono)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2058</td><td>Grüsch/Schmitten (Grüsch, Seewis im Prättigau)</td><td>vitg</td></tr>
@@ -667,20 +663,19 @@ Annexe 1
 <tr><td>GR</td><td>2094</td><td>Luzein</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2096</td><td>Maienfeld</td><td>Kleinstadt/Flecken</td></tr>
 <tr><td>GR</td><td>2099</td><td>Malans</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>2108</td><td>Medergen (Langwies)</td><td>Weiler</td></tr>
+<tr><td>GR</td><td>2108</td><td>Medergen (Arosa)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2110</td><td>Mesocco</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2119</td><td>Monstein (Davos)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2125</td><td>Müstair</td><td>vitg urban</td></tr>
-<tr><td>GR</td><td>2130</td><td>Obermutten (Mutten)</td><td>Weiler</td></tr>
-<tr><td>GR</td><td>2139</td><td>Paspels</td><td>cas spezial</td></tr>
-<tr><td>GR</td><td>2146</td><td>Pignia</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2153</td><td>Pontresina</td><td>vitg urban</td></tr>
+<tr><td>GR</td><td>2130</td><td>Obermutten (Thusis)</td><td>Weiler</td></tr>
+<tr><td>GR</td><td>2146</td><td>Pignia (Andeer)</td><td>vitg</td></tr>
+<tr><td>GR</td><td>2153</td><td>Pontresina</td><td>cas spezial</td></tr>
 <tr><td>GR</td><td>2155</td><td>Poschiavo</td><td>cittadina/borgo</td></tr>
 <tr><td>GR</td><td>2156</td><td>Prada (Poschiavo)</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>2159</td><td>Präz</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>2159</td><td>Präz (Cazis)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2326</td><td>Promontogno (Bondo)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>5958</td><td>Pulvermühle, Eidgenössische (Chur)</td><td>Spezialfall</td></tr>
-<tr><td>GR</td><td>2161</td><td>Punt, La (La Punt-Chamues-ch)</td><td>vitg</td></tr>
+<tr><td>GR</td><td>2161</td><td>Punt, La (La Punt Chamues-ch)</td><td>cas spezial</td></tr>
 <tr><td>GR</td><td>2163</td><td>Putz (Luzein)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>2171</td><td>Reichenau (Tamins)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2172</td><td>Reischen (Zillis-Reischen)</td><td>fracziun</td></tr>
@@ -694,23 +689,22 @@ Annexe 1
 <tr><td>GR</td><td>2199</td><td>San Vittore</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2203</td><td>Santa Maria in Calanca</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2202</td><td>Santa Maria</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2204</td><td>Sapün (Langwies)</td><td>Weiler</td></tr>
-<tr><td>GR</td><td>2205</td><td>Sarn</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2188</td><td>S-chanf</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2209</td><td>Scharans</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2213</td><td>Schlans</td><td>vitg</td></tr>
+<tr><td>GR</td><td>6285</td><td>Schloss Sins (Domleschg)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2218</td><td>Scuol</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2220</td><td>Seewis im Prättigau</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2221</td><td>Segnes (Disentis/Mustér)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2225</td><td>Sent</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2231</td><td>Sils im Domleschg</td><td>Spezialfall</td></tr>
+<tr><td>GR</td><td>2231</td><td>Sils im Domleschg</td><td>Verstädtertes Dorf</td></tr>
 <tr><td>GR</td><td>2234</td><td>Soazza</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2328</td><td>Soglio</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>2237</td><td>Splügen</td><td>Dorf</td></tr>
+<tr><td>GR</td><td>2237</td><td>Splügen (Rheinwald)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2240</td><td>St. Luzisteig (Maienfeld)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2330</td><td>Stampa</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2244</td><td>Stierva</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2248</td><td>Strassberg (Langwies)</td><td>Weiler</td></tr>
+<tr><td>GR</td><td>2248</td><td>Strassberg (Arosa)</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>2249</td><td>Stugl (Bergün/Bravuogn)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>2251</td><td>Somvix</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2253</td><td>Sur En (Ardez)</td><td>fracziun</td></tr>
@@ -719,7 +713,6 @@ Annexe 1
 <tr><td>GR</td><td>2269</td><td>Tersnaus</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2277</td><td>Trun</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2283</td><td>Tschlin</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2284</td><td>Tumegl/Tomils/Ortenstein (Tumegl/Tomils)</td><td>cas spezial</td></tr>
 <tr><td>GR</td><td>2295</td><td>Valendas</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2300</td><td>Villa</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2331</td><td>Vicosoprano</td><td>villaggio</td></tr>
