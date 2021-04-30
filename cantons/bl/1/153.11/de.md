@@ -3,20 +3,20 @@ canton: BL
 number: "153.11"
 title: Verordnung zur Arbeitszeit
 language: de
-version: 2021-04-01
-valid_until: 2021-04-30
-version_adopted: 2020-12-08
+version: 2021-05-01
+valid_until: 2021-08-30
+version_adopted: 2021-04-20
 adopted: 2000-01-04
 in_force: 2000-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.11"
-pdf: "https://bl.clex.ch/api/de/versions/2970/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Arbeitszeit
 
-Vom 04.01.2000 (Stand 01.04.2021)
+Vom 04.01.2000 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -90,15 +90,19 @@ beschliesst:
 
 **Telearbeit**
 
-<sup>1</sup> Telearbeit ermöglicht den Mitarbeiterinnen und Mitarbeitern, unter Berücksichtigung der betrieblichen Anforderungen, einen Teil ihrer Arbeitszeit an einem Telearbeitsplatz zu erbringen.
+<sup>1</sup> Telearbeit ermöglicht den Mitarbeiterinnen und Mitarbeitern, einen Teil ihrer Arbeitszeit an einem Telearbeitsplatz zu erbringen.
+
+<sup>1<sup>bis</sup></sup> Telearbeit darf die Aufgabenerfüllung nicht beeinträchtigen. Eine Beeinträchtigung der Aufgabenerfüllung kann betrieblich begründet sein oder in der Person der Mitarbeiterin oder des Mitarbeiters liegen.
 
 <sup>2</sup> Telearbeit umfasst sämtliche Tätigkeiten, die regelmässig räumlich entfernt vom ordentlichen dienstlichen Arbeitsplatz in der kantonalen Verwaltung ausgeführt werden. Die Telearbeit wird dabei in der Regel durch Informations- und Kommunikationstechnik unterstützt.
 
 <sup>3</sup> Nicht als Telearbeit gelten der gelegentliche Fernzugriff auf die Informatiksysteme und das Datennetz der Kantonsverwaltung sowie Tätigkeiten, die sporadisch räumlich entfernt vom ordentlichen dienstlichen Arbeitsplatz in der kantonalen Verwaltung ausgeführt werden.
 
-<sup>4</sup> Es besteht kein Rechtsanspruch auf Telearbeit noch kann diese angeordnet werden.
+<sup>4</sup> Die Mitarbeiterinnen und Mitarbeiter können Arbeitszeit im Umfang von bis zu 20 % ihres Beschäftigungsgrads an einem Telearbeitsplatz erbringen, sofern die Voraussetzungen von Abs. 1<sup>bis</sup> erfüllt sind. Die Genehmigung von Telearbeit im Umfang von mehr als 20 % des Beschäftigungsgrads liegt im Ermessen der zuständigen Stelle.
 
-<sup>5</sup> Die Anstellungsbehörde entscheidet über den Antrag auf Telearbeit.
+<sup>5</sup> Sofern die Anstellungsbehörde keine abweichende Regelung trifft, entscheidet die vorgesetzte Person über den Antrag auf Telearbeit und über die damit verbundenen Bedingungen.
+
+<sup>5<sup>bis</sup></sup> Telearbeit kann nicht angeordnet werden.
 
 <sup>6</sup> Die Telearbeitenden haben dafür Gewähr zu bieten, dass auch am Telearbeitsplatz das Dienstgeheimnis sowie die datenschutzrechtlichen Bestimmungen jederzeit eingehalten werden.
 
