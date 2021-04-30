@@ -4,13 +4,13 @@ number: "731.22"
 title: Ordonnance sur l’organisation des marchés publics
 short: OOMP
 language: fr
-version: 2015-01-01
-valid_until: 2021-04-30
-version_adopted: 2014-11-05
+version: 2021-05-01
+valid_until: 2022-01-31
+version_adopted: 2021-03-10
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/396/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2257/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/396/pdf_file"
 
 (OOMP)
 
-du 05.11.2014 (état au 01.01.2015)
+du 05.11.2014 (état au 01.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -142,7 +142,7 @@ arrête:
 <sup>1</sup> Les achats de biens et de services sont réalisés,
 
 - a lorsque l'annexe le prévoit, de manière centralisée par la CAC;
-- b pour les prestations de construction, par les offices compétents de la Direction des travaux publics, des transports et de l'énergie (TTE) selon les prescriptions applicables;
+- b pour les prestations de construction, par les offices compétents de la Direction des travaux publics et des transports (DTT) selon les prescriptions applicables;
 - c dans les autres cas, de manière décentralisée par les services demandeurs.
 
 <sup>2</sup> Lorsque la présente ordonnance prévoit la compétence des services demandeurs, leurs services supérieurs peuvent transférer celle-ci à une autre unité administrative subordonnée.

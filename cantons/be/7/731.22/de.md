@@ -4,13 +4,13 @@ number: "731.22"
 title: Verordnung über die Organisation des öffentlichen Beschaffungswesens
 short: OÖBV
 language: de
-version: 2015-01-01
-valid_until: 2021-04-30
-version_adopted: 2014-11-05
+version: 2021-05-01
+valid_until: 2022-01-31
+version_adopted: 2021-03-10
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/396/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2257/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/396/pdf_file"
 
 (OÖBV)
 
-vom 05.11.2014 (Stand 01.01.2015)
+vom 05.11.2014 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -142,7 +142,7 @@ beschliesst:
 <sup>1</sup> Beschaffungen von Gütern und Dienstleistungen erfolgen
 
 - a zentral durch die ZBS, soweit der Anhang dies vorsieht,
-- b bei Bauleistungen gemäss den dafür geltenden Vorschriften durch die zuständigen Ämter der Bau-, Verkehrs- und Energiedirektion (BVE),
+- b bei Bauleistungen gemäss den dafür geltenden Vorschriften durch die zuständigen Ämter der Bau- und Verkehrsdirektion (BVD),
 - c ansonsten dezentral durch die Bedarfsstellen.
 
 <sup>2</sup> Wo in dieser Verordnung die Zuständigkeit der Bedarfsstellen gegeben ist, können deren vorgesetzte Stellen diese einer anderen unterstellten Organisationseinheit übertragen.
