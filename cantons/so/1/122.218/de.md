@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2020-10-19
-valid_until: 2021-04-30
-version_adopted: 2020-10-19
+version: 2021-05-01
+valid_until: 2021-10-31
+version_adopted: 2021-02-23
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5009/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5078/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 19.10.2020)
+Vom 25.05.2004 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -315,7 +315,7 @@ beschliesst:
 - g) vom Chef oder von der Chefin des Amtes für Gemeinden: Verfügungen und Anordnungen nach der Gesetzgebung über
   - 1\. die Gemeinden;
   - 2\. das Bürgerrecht; diese Verrichtungen können auch vom Leiter oder von der Leiterin Bürgerrecht unterzeichnet werden;
-  - 3\. den Zivilstand und das Zivilstandswesen; diese Verrichtungen können auch vom Leiter oder von der Leiterin Zivilstand unterzeichnet werden.
+  - 3\. den Zivilstand und das Zivilstandswesen; diese Verrichtungen können auch vom Leiter oder von der Leiterin Zivilstand oder dem Zivilstandsinspektor oder der Zivilstandsinspektorin unterzeichnet werden.
   - 4\. Bestattungswesen; diese Verrichtungen können auch vom Leiter oder der Leiterin Gemeindeorganisation unterzeichnet werden.
 
 ### 2.2.6. Geschäftskreis der Staatskanzlei
