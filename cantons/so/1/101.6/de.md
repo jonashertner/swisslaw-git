@@ -4,13 +4,13 @@ number: "101.6"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung-SO
 language: de
-version: 2021-03-12
-valid_until: 2021-04-30
-version_adopted: 2021-03-11
+version: 2021-05-01
+valid_until: 2021-05-31
+version_adopted: 2021-04-27
 adopted: 2020-12-07
 in_force: 2021-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/101.6"
-pdf: "https://bgs.so.ch/api/de/versions/5070/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5080/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5070/pdf_file"
 
 (Härtefallverordnung-SO)
 
-Vom 07.12.2020 (Stand 12.03.2021)
+Vom 07.12.2020 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Diese Verordnung bezweckt die Bereitstellung von finanziellen Mitteln zur Unterstützung von Unternehmen, welche aufgrund der Natur ihrer wirtschaftlichen Tätigkeit von den vom Bund angeordneten Massnahmen zur Bekämpfung von Covid-19 im Sinne eines Härtefalls besonders betroffen sind.
+<sup>1</sup> Diese Verordnung bezweckt die Bereitstellung von finanziellen Mitteln zur Unterstützung von Unternehmen, welche aufgrund der Natur ihrer wirtschaftlichen Tätigkeit von den vom Bund angeordneten Massnamen zur Bekämpfung von Covid-19 im Sinne eines Härtefalls oder in anderer Weise besonders betroffen sind.
 
 #### § 2
 
@@ -55,10 +55,10 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Die Fachstelle Standortförderung ist zuständig für:
+<sup>1</sup> Die Fachstelle Standortförderung ist zuständig für den Vollzug dieser Verordnung, soweit dieser keiner anderen Behörde übertragen wird. Sie ist insbesondere zuständig für:
 
-- a) die Entgegennahme und Prüfung von Gesuchen;
-- b) den Entscheid über die Gewährung von Härtefallmassnahmen namens des Departements;
+- a) die Entgegennahme und Prüfung von Gesuchen für Härtefallmassnahmen, kantonale Unterstützungsbeiträge und kantonale Härtefallbeiträge;
+- b) den Entscheid über die Gewährung von Härtefallmassnahmen und kantonalen Härtefallbeiträgen namens des Departements;
 - c) die Durchführung von Rückerstattungsverfahren gemäss § 20;
 - d) die angemessene Bewirtschaftung der ausstehenden Forderungen selber oder durch die Bürgschaftsorganisation;
 - e) die Ergreifung geeigneter Massnahmen zur Wiedereinbringung des Forderungsbetrages bei Eintritt von Bürgschaftsverlusten selber oder durch die Bürgschaftsorganisation.
@@ -68,6 +68,22 @@ beschliesst:
 <sup>3</sup> Die Fachstelle Standortförderung, das Steueramt, das Amt für Wirtschaft und Arbeit, das Amt für Finanzen, die Bürgschaftsorganisation, das kantonale Konkursamt und die Betreibungsämter können sämtliche Personendaten bearbeiten, die sie zur Erfüllung der Aufgaben gemäss dieser Verordnung benötigen.
 
 <sup>4</sup> Die Fachstelle Standortförderung darf zur Gesuchsprüfung Dritte beiziehen. Die Absätze 2 und 3 sowie § 17 sind analog anwendbar.
+
+#### § 3bis
+
+**Zuständigkeit für kantonale Miet- und Pachtzinsbeiträge**
+
+<sup>1</sup> Das Departementssekretariat des Volkswirtschaftsdepartements ist zuständig für:
+
+- a) die Entgegennahme und Prüfung von Gesuchen für kantonale Miet- und Pachtzinsbeiträge;
+- b) den Entscheid über die Gewährung von kantonalen Miet- und Pachtzinsbeiträgen namens des Departements;
+- c) die Durchführung von Rückerstattungsverfahren gemäss § 20<sup>septies</sup>.
+
+<sup>2</sup> Das Departementssekretariat des Volkswirtschaftsdepartements wird insbesondere unterstützt vom Steueramt, von der Fachstelle Standortförderung betreffend Härtefallmassnahmen, vom Amt für Finanzen betreffend kantonales Einwohnerregister und Auszahlung, vom kantonalen Konkursamt, von den Betreibungsämtern, von der zuständigen Ausgleichskasse und von den Zivilstandsämtern für Abklärungen und Datenbekanntgaben im Rahmen der Gesuchsprüfung gemäss § 20<sup>quinquies</sup>.
+
+<sup>3</sup> Das Departementssekretariat des Volkswirtschaftsdepartements, das Steueramt, die Fachstelle Standortförderung, das Amt für Finanzen, das kantonale Konkursamt, die Betreibungsämter, die zuständige Ausgleichskasse und die Zivilstandsämter können sämtliche Personendaten bearbeiten, die sie zur Erfüllung der Aufgaben gemäss § 20<sup>quinquies</sup> dieser Verordnung benötigen.
+
+<sup>4</sup> Das Departementssekretariat des Volkswirtschaftsdepartements darf zur Gesuchsprüfung Dritte beiziehen. Die Absätze 2 und 3 sowie § 17<sup>bis</sup> sind analog anwendbar.
 
 ## 2. Arten und Höchstgrenzen von Härtefallmassnahmen
 
@@ -187,7 +203,7 @@ beschliesst:
 
 **Frist zur Gesuchseinreichung**
 
-<sup>1</sup> Gesuche können bis spätestens 31. Juli 2021 eingereicht werden. Verspätet eingereichte Gesuche werden ohne weitere Begründung abgelehnt.
+<sup>1</sup> Gesuche für Härtefallmassnahmen oder kantonale Unterstützungsmassnahmen können bis spätestens 31. Juli 2021 eingereicht werden. Verspätet eingereichte Gesuche werden ohne weitere Begründung abgelehnt.
 
 #### § 15
 
@@ -206,6 +222,16 @@ beschliesst:
 <sup>1</sup> Die Fachstelle Standortförderung wird ermächtigt, bei anderen Amtsstellen von Bund und Kantonen Daten zum betreffenden Unternehmen einzuholen oder diesen Amtsstellen Daten zum betreffenden Unternehmen bekannt zu geben, soweit dies für die Überprüfung der Anforderungen an die Unternehmen gemäss dieser Verordnung, die Bewirtschaftung der Unterstützungen und die Missbrauchsbekämpfung nötig ist.
 
 <sup>2</sup> Das Steueramt kann der Fachstelle Standortförderung die für die Erfüllung ihrer Aufgaben erforderlichen Auskünfte aus Steuerakten erteilen.
+
+#### § 17bis
+
+**Datenüberprüfung für kantonale Miet- und Pachtzinsbeiträge**
+
+<sup>1</sup> Das Departementssekretariat des Volkswirtschaftsdepartements kann zur Überprüfung der Voraussetzungen gemäss § 20<sup>quinquies</sup> vom Steueramt, von der Fachstelle Standortförderung betreffend Härtefallmassnahmen, vom Amt für Finanzen betreffend kantonales Einwohnerregister und Auszahlung, vom kantonalen Konkursamt, von den Betreibungsämtern, von der zuständigen Ausgleichskasse und den Zivilstandsämtern Auskünfte einholen.
+
+<sup>2</sup> Das Steueramt kann dem Departementssekretariat des Volkswirtschaftsdepartements die für die Erfüllung seiner Aufgaben erforderlichen Auskünfte aus Steuerakten erteilen.
+
+<sup>3</sup> Der Regierungsrat kann dem Departementssekretariat des Volkswirtschaftsdepartements die für die Erfüllung seiner Aufgaben erforderlichen Auskünfte aus dem kantonalen Einwohnerregister mittels eines elektronischen Abrufverfahrens erteilen.
 
 ## 5. Gewährung von Härtefallmassnahmen
 
@@ -262,6 +288,72 @@ beschliesst:
 <sup>2</sup> Das Amt für Wirtschaft und Arbeit ist für den Vollzug zuständig.
 
 [^20ter-1]: BGS [940.11](https://bgs.so.ch/data/940.11/de).
+
+#### § 20quater
+
+**Kantonaler Härtefallbeitrag**
+
+<sup>1</sup> Der Kanton kann einem Unternehmen einen nicht rückzahlbaren kantonalen Härtefallbeitrag gewähren, wenn:
+
+- a) es belegt, dass sein Umsatzrückgang gemäss Covid-19-Härtefallverordnung mindestens 25 Prozent beträgt;
+- b) es erheblich ungedeckte Fixkosten ausweist;
+- c) es im Zeitpunkt der Gesuchseinreichung Sitz im Kanton Solothurn hat;
+- d) sein durchschnittlicher Jahresumsatz 2018 und 2019 nicht mehr als 5 Millionen Franken beträgt;
+- e) es belegt, dass seine Lohnkosten überwiegend im Kanton Solothurn anfallen;
+- f) es sämtliche weiteren Anforderungen gemäss § 7 und § 7<sup>bis</sup> dieser Verordnung erfüllt.
+
+<sup>2</sup> Die Höchstgrenzen des nicht rückzahlbaren kantonalen Härtefallbeitrags richten sich analog nach § 4 Absatz 2 dieser Verordnung.
+
+<sup>3</sup> Sämtliche der für Härtefallmassnahmen geltenden Bestimmungen dieser Verordnung finden, soweit diese Verordnung keine Ausnahme vorsieht, auch auf kantonale Härtefallbeiträge Anwendung.
+
+<sup>4</sup> Auf die Gewährung eines kantonalen Härtefallbeitrags besteht kein Rechtsanspruch. Das Departement entscheidet abschliessend darüber.
+
+#### § 20quinquies
+
+**Kantonaler Miet- und Pachtzinsbeitrag; Voraussetzungen**
+
+<sup>1</sup> Der Kanton kann ein privatrechtlich organisiertes Unternehmen, das insbesondere in der Wertschöpfungskette der Eventbranche, Schausteller, Dienstleister der Reisebranche, Gastronomie- und Hotelleriebetriebe sowie touristische Betriebe tätig ist oder das aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie seinen Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen muss, mit einem kantonalen Miet- und Pachtzinsbeitrag für Geschäftsräume unterstützen, wenn:
+
+- a) die Beteiligung am Kapital des Unternehmens durch Bund, Kanton oder Gemeinden insgesamt nicht mehr als 10 Prozent beträgt;
+- b) das Unternehmen im Kanton Solothurn einen vor dem 1. November 2020 abgeschlossenen und ungekündigten Miet- bzw. Pachtvertrag für Geschäftsräume mit:
+  - 1\. einer nicht verwandten, nicht verschwägerten und nicht durch faktische Lebensgemeinschaft verbundenen Drittperson, oder
+  - 2\. einer dem Unternehmen anderweitig nicht nahestehenden Drittperson oder Gesellschaft hat.
+- c) sich das Unternehmen mit der Vermieterschaft bzw. der Verpächterschaft schriftlich auf eine Reduktion des vertraglich vereinbarten monatlichen Miet- bzw. Pachtzinses zwischen dem 1. November 2020 und dem 30. Juni 2021 von mindestens einem Drittel geeinigt hat;
+- d) sich das Unternehmen zum Zeitpunkt der Gesuchseinreichung nicht in einem Konkursverfahren oder in Liquidation befindet;
+- e) sich das Unternehmen am 15. März 2020 nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befunden hat, es sei denn, dass zum Zeitpunkt der Einreichung des Gesuchs eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen ist; und
+- f) das Unternehmen keine Härtefallmassnahmen oder kantonalen Unterstützungsmassnahmen nach dieser Verordnung erhalten hat.
+
+<sup>2</sup> Das Unternehmen hat zusätzlich zum Gesuch mit Originalunterschrift der zeichnungsberechtigten Personen per Post sowie als Scan die vom Departementssekretariat des Volkswirtschaftsdepartements einverlangten Unterlagen in elektronischer Form einzureichen.
+
+<sup>3</sup> Die im Gesuch gemachten Angaben gelten als verbindliche Selbstdeklaration. Es kann eine stichprobenweise Überprüfung erfolgen.
+
+#### § 20sexies
+
+**Kantonaler Miet- und Pachtzinsbeitrag; Höhe und Auszahlung**
+
+<sup>1</sup> Die Höhe des kantonalen Miet- und Pachtzinsbeitrags richtet sich grundsätzlich nach der Vereinbarung der Parteien gemäss § 20<sup>quinquies</sup> Absatz 1 Buchstabe c und entspricht jeweils der Höhe des Betrags, auf den die Vermieterschaft bzw. die Verpächterschaft verzichtet, jedoch maximal:
+
+- a) für die Dauer vom 1. November 2020 bis 30. Juni 2021;
+- b) einen Drittel des vertraglich vereinbarten monatlichen Nettomietzinses bzw. Nettopachtzinses; und
+- c) 15'000 Franken für die Gesamtdauer.
+
+<sup>2</sup> Die Zusicherung eines kantonalen Miet- und Pachtzinsbeitrags erfolgt durch Verfügung und die Abweisung durch einfache Mitteilung an das Unternehmen.
+
+<sup>3</sup> Erhält ein Unternehmen zu einem späteren Zeitpunkt einen Härtefallbeitrag, wird der zugesprochene Miet- und Pachtzinsbeitrag vom zu gewährenden Härtefallbeitrag in Abzug gebracht.
+
+<sup>4</sup> Die Auszahlung des kantonalen Miet- und Pachtzinsbeitrags erfolgt direkt an die Vermieterschaft bzw. Verpächterschaft.
+
+<sup>5</sup> Auf die Gewährung eines kantonalen Miet- und Pachtzinsbeitrags besteht kein Rechtsanspruch. Das Departement entscheidet abschliessend darüber.
+
+#### § 20septies
+
+**Kantonaler Miet- und Pachtzinsbeitrag; Rückforderung**
+
+<sup>1</sup> Geldleistungen können ganz oder teilweise zurückgefordert werden, wenn nachträglich Tatsachen bekannt werden, aufgrund derer der kantonale Miet- und Pachtzinsbeitrag hätte verweigert werden müssen.
+
+<sup>2</sup> Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970 [^20septies-1]
+
+[^20septies-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
 
 #### § 21
 
