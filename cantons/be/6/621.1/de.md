@@ -4,13 +4,13 @@ number: "621.1"
 title: Verordnung über die Steuerung von Finanzen und Leistungen
 short: FLV
 language: de
-version: 2019-01-01
-valid_until: 2021-04-30
-version_adopted: 2018-11-21
+version: 2021-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-10
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/621.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1581/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2522/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1581/pdf_file"
 
 (FLV)
 
-vom 03.12.2003 (Stand 01.01.2019)
+vom 03.12.2003 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1380,11 +1380,11 @@ beschliesst:
 
 #### Art. 138a
 
-**Zustimmung der Bau-, Verkehrs- und Energiedirektion**
+**Zustimmung der Bau- und Verkehrsdirektion**
 
-<sup>1</sup> Die Zustimmung der Bau-, Verkehrs- und Energiedirektion ist erforderlich bei sämtlichen Liegenschaftsgeschäften wie Kauf, Verkauf, Pacht oder dingliche Belastung von Grundstücken sowie Abschluss von Miet- und Pachtverträgen.
+<sup>1</sup> Die Zustimmung der Bau- und Verkehrsdirektion ist erforderlich bei sämtlichen Liegenschaftsgeschäften wie Kauf, Verkauf, Pacht oder dingliche Belastung von Grundstücken sowie Abschluss von Miet- und Pachtverträgen.
 
-<sup>2</sup> Können sich die beteiligten Direktionen oder die Staatskanzlei nicht mit der Bau-, Verkehrs- und Energiedirektion einigen, entscheidet der Regierungsrat.
+<sup>2</sup> Können sich die beteiligten Direktionen oder die Staatskanzlei nicht mit der Bau- und Verkehrsdirektion einigen, entscheidet der Regierungsrat.
 
 ### 2.1.2 Ausgabenbewilligung
 
@@ -1624,7 +1624,7 @@ beschliesst:
 
 <sup>4</sup> Die Abrechnung wird durch die zuständige Direktion oder Staatskanzlei, bei delegierten Ausgabenbefugnissen gemäss Artikel 153 Absatz 1 durch die zuständige unterstellte Organisationseinheit genehmigt.
 
-<sup>5</sup> Abrechnungen für Bauten, die der Kanton subventioniert hat, sind vor der Schlusszahlung durch ein verwaltungsinternes Baufachorgan zu prüfen. Organisationseinheiten, die über keine eigenen Baufachleute verfügen, lassen die Prüfung von der Bau-, Verkehrs- und Energiedirektion durchführen.
+<sup>5</sup> Abrechnungen für Bauten, die der Kanton subventioniert hat, sind vor der Schlusszahlung durch ein verwaltungsinternes Baufachorgan zu prüfen. Organisationseinheiten, die über keine eigenen Baufachleute verfügen, lassen die Prüfung von der Bau- und Verkehrsdirektion durchführen.
 
 ### 2.5 Voranschlagskredit, Kreditübertragung und Nachkreditwesen
 
@@ -1909,7 +1909,7 @@ beschliesst:
 
 **Personalbefragungen**
 
-<sup>1</sup> Personalbefragungen allgemeiner Art werden durch das Personalamt oder für die Lehrkräfte durch die Erziehungsdirektion durchgeführt.
+<sup>1</sup> Personalbefragungen allgemeiner Art werden durch das Personalamt oder für die Lehrkräfte durch die Bildungs- und Kulturdirektion durchgeführt.
 
 <sup>2</sup> In den einzelnen Organisationseinheiten sollen Personalbefragungen nur zur Ermittlung spezifischer betrieblicher Bedürfnisse durchgeführt werden.
 

@@ -4,13 +4,13 @@ number: "621.1"
 title: Ordonnance sur le pilotage des finances et des prestations
 short: OFP
 language: fr
-version: 2019-01-01
-valid_until: 2021-04-30
-version_adopted: 2018-11-21
+version: 2021-05-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-10
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/621.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1581/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2522/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1581/pdf_file"
 
 (OFP)
 
-du 03.12.2003 (état au 01.01.2019)
+du 03.12.2003 (état au 01.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -335,7 +335,7 @@ arrête:
 
 <sup>1</sup> Les intérêts internes sont les intérêts servis dans les relations financières entre divisions administratives. Ils sont enregistrés dans la comptabilité financière.
 
-<sup>2</sup> Sous réserve de l’alinéa 3, le taux des intérêts internes correspond à celui qu’accorde la Banque Cantonale Bernoise sur les comptes courants au 1<sup>er</sup> janvier et au 1<sup>er</sup> juillet de l’année en cours, augmenté d’un quart de pour-cent.
+<sup>2</sup> Sous réserve de l’alinéa 3, le taux des intérêts internes correspond à celui qu’accorde la Banque Cantonale Bernoise sur les comptes courants au 1<sup>er</sup> janvier et au 1<sup>er</sup> juillet de l’année en cours, augmenté d’un quart de pour cent.
 
 <sup>3</sup> Le service compétent de la Direction des finances peut convenir de rémunérer des fonds de tiers, des legs et des fondations non autonomes à des taux d'intérêt conformes au marché.
 
@@ -1384,11 +1384,11 @@ arrête:
 
 #### Art. 138a
 
-**Accord de la Direction des travaux publics, des transports et de l'énergie**
+**Accord de la Direction des travaux publics et des transports**
 
-<sup>1</sup> L'accord de la Direction des travaux publics, des transports et de l'énergie est requis pour toutes les affaires immobilières telles que l'achat, la vente, l'affermage ou la création de droits réels sur des immeubles, ainsi que la conclusion de contrats de bail à ferme ou à loyer.
+<sup>1</sup> L'accord de la Direction des travaux publics et des transports est requis pour toutes les affaires immobilières telles que l'achat, la vente, l'affermage ou la création de droits réels sur des immeubles, ainsi que la conclusion de contrats de bail à ferme ou à loyer.
 
-<sup>2</sup> Si les Directions concernées ou la Chancellerie d'Etat ne parviennent pas à s'entendre avec la Direction des travaux publics, des transports et de l'énergie, le Conseil-exécutif tranche.
+<sup>2</sup> Si les Directions concernées ou la Chancellerie d'Etat ne parviennent pas à s'entendre avec la Direction des travaux publics et des transports, le Conseil-exécutif tranche.
 
 ### 2.1.2 Autorisation de dépenses
 
@@ -1632,7 +1632,7 @@ arrête:
 
 <sup>4</sup> L’arrêté de compte est approuvé par la Direction compétente ou la Chancellerie d’Etat, ou par l’unité administrative compétente qui lui est subordonnée en cas de délégation de compétences en matière de dépenses au sens de l’article 153, alinéa 1.
 
-<sup>5</sup> Les arrêtés de compte concernant des constructions subventionnées par le canton doivent être vérifiés par un organe de l’administration expert en matière de construction avant le paiement définitif. Les unités administratives qui ne disposent pas de leurs propres experts confient cette vérification à la Direction des travaux publics, des transports et de l’énergie.
+<sup>5</sup> Les arrêtés de compte concernant des constructions subventionnées par le canton doivent être vérifiés par un organe de l’administration expert en matière de construction avant le paiement définitif. Les unités administratives qui ne disposent pas de leurs propres experts confient cette vérification à la Direction des travaux publics et des transports.
 
 ### 2.5 Crédit budgétaire, report de crédit et crédit supplémentaire
 
@@ -1917,7 +1917,7 @@ arrête:
 
 **Sondages du personnel**
 
-<sup>1</sup> Les sondages d’ordre général sont réalisés auprès du personnel par l’Office du personnel ou, pour ce qui concerne le corps enseignant, par la Direction de l’instruction publique.
+<sup>1</sup> Les sondages d’ordre général sont réalisés auprès du personnel par l’Office du personnel ou, pour ce qui concerne le corps enseignant, par la Direction de l’instruction publique et de la culture.
 
 <sup>2</sup> Dans les différentes unités administratives, les sondages du personnel sont réalisés uniquement pour déterminer des besoins spécifiques concernant l’exploitation.
 
