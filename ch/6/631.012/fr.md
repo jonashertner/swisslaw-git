@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 4 avril 2007 sur les marchandises bénéficiant d'a
 short: OADou
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: fr
-version: 2021-04-01
+version: 2021-05-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-252-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2007-252-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210401/fr"
 
 (Ordonnance sur les allégements douaniers, OADou)
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> avril 2021)
+du 4 avril 2007 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Département fédéral des finances (DFF),
 
@@ -418,13 +418,13 @@ Sont abrogées:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2007.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 3)
 
 ## Allégements douaniers accordés selon l’emploi
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 mars 2016 ([RO 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Mise à jour par le ch. I des O du DFF du 12 août 2016 ([RO 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), du 28 oct. 2016 ([RO 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)) et du 28 oct. 2016 ([RO 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), de l’O de la DGD du 11 nov. 2016 ([RO 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des O du DFF du 11 août 2017 ([RO 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), du 1<sup>er</sup> nov. 2017 ([RO 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), le ch. I de l’O de la DGD du 4 déc. 2018 ([RO 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), le ch. I de l’O du DFF du 9 août 2019 ([RO 2019 2569](https://fedlex.data.admin.ch/eli/oc/2019/475)), le ch. I de l’O de la DGD du 22 sept. 2020 ([RO 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), le ch. I de l’O du DFF du 17 nov. 2020 ([RO 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), le ch. I de l’O de la DGD du 23 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 170](https://fedlex.data.admin.ch/eli/oc/2021/170)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 mars 2016 ([RO 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Mise à jour par le ch. I des O du DFF du 12 août 2016 ([RO 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), du 28 oct. 2016 ([RO 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)) et du 28 oct. 2016 ([RO 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), de l’O de la DGD du 11 nov. 2016 ([RO 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des O du DFF du 11 août 2017 ([RO 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), du 1<sup>er</sup> nov. 2017 ([RO 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), le ch. I de l’O de la DGD du 4 déc. 2018 ([RO 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), le ch. I de l’O du DFF du 9 août 2019 ([RO 2019 2569](https://fedlex.data.admin.ch/eli/oc/2019/475)), le ch. I de l’O de la DGD du 22 sept. 2020 ([RO 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), le ch. I de l’O du DFF du 17 nov. 2020 ([RO 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), le ch. I de l’O de la DGD du 23 mars 2021 ([RO 2021 170](https://fedlex.data.admin.ch/eli/oc/2021/170)) et le ch.I. de l’O du DFF du 20 avr. 2021, en vigueur le 1 <sup>er</sup> mai ([RO 2021 229](https://fedlex.data.admin.ch/eli/oc/2021/229)).
 
 <table>
 <tr><th>N<sup>o</sup> du tarif</th><th>Désignation de la marchandise</th><th>Emploi</th><th>Taux du droit Fr. par 100 kg brut</th></tr>
@@ -468,10 +468,10 @@ Annexe 1*[^t-1]*
 <tr><td>1008. 10 29</td><td>Sarrasin</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>2.––</td></tr>
 <tr><td>1008. 29 29</td><td>Millet</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>exempt</td></tr>
 <tr><td>1008. 30 20</td><td>Alpiste</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>2.––</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>3.50</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>3.50</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>3.–</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>3.–</td></tr>
 <tr><td>1008. 60 39</td><td>Triticale</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>4.50</td></tr>
-<tr><td>1008. 90 27</td><td>Autres céréales</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>3.50</td></tr>
+<tr><td>1008. 90 27</td><td>Autres céréales</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>1008. 90 27</td></tr>
 <tr><td>1102. 20 10</td><td>Farine de maïs</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>20.—</td></tr>
 <tr><td>1102. 90 51</td><td>Farine de riz</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>20.—</td></tr>
 <tr><td>1102. 90 61</td><td>Farines d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>20.—</td></tr>
@@ -500,7 +500,7 @@ Annexe 1*[^t-1]*
 <tr><td>1104. 29 22</td><td>Autres grains travaillés de millet</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>––.85</td></tr>
 <tr><td>1104. 29 22</td><td>Autres grains travaillés de millet</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td>1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>9.––</td></tr>
-<tr><td>1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
+<tr><td>1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>7.80</td></tr>
 <tr><td>1104. 29 99</td><td>Autres grains travaillés d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td>1104. 30 89</td><td>Germes de froment (blé)</td><td>pour dégraissage partiel pour l’alimentation humaine</td><td>28.80</td></tr>
 <tr><td>1104. 30 89</td><td>Germes de froment (blé)</td><td>pour l’alimentation humaine, mais pas pour dégraissage partiel</td><td>26.13</td></tr>
@@ -527,6 +527,7 @@ Annexe 1*[^t-1]*
 <tr><td>1501. 10 91 10 99 20 91 20 99 90 91 90 99</td><td>Graisses de porc (y compris le saindoux) et graisses de volailles</td><td>pour usages techniques</td><td>1.—</td></tr>
 <tr><td>1501. 10 99</td><td>Saindoux</td><td>auxiliaire pour la production de jambon</td><td>13.15</td></tr>
 <tr><td>1502. 10 91 10 99 90 91 90 99</td><td>Graisses des animaux des espèces bovine, ovine ou caprine</td><td>pour la fabrication de graisses alimentaires</td><td>8.15</td></tr>
+<tr><td>1502. 10 91 10 99 90 91 90 99</td><td>Graisses des animaux des espèces bovine, ovine ou caprine</td><td>pour usages techniques</td><td>1.—</td></tr>
 <tr><td>1503. 00 91 00 99</td><td>Stéarine solaire, huile de saindoux, oléo‑stéarine, oléo-margarine et huile de suif, non émulsionnées, ni mélangées ni autrement préparées</td><td>pour usages techniques</td><td>1.—</td></tr>
 <tr><td>1504. 10 98 10 99 20 91 20 99 30 91 30 99</td><td>Graisses et huiles et leurs fractions, de poissons ou de mammifères marins, même raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.—</td></tr>
 <tr><td>1506. 00 91 00 99</td><td>Autres graisses et huiles animales et leurs fractions, même raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.—</td></tr>

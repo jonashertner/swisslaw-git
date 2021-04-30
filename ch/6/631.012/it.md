@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 4 aprile 2007 sulle agevolazioni doganali per le m
 short: OADo
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: it
-version: 2021-04-01
+version: 2021-05-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2007-252-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2007-252-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210401/it"
 
 (Ordinanza sulle agevolazioni doganali, OADo)
 
-del 4 aprile 2007 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 4 aprile 2007 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -424,7 +424,7 @@ Allegato 1*[^t-1]*
 
 ## Agevolazioni doganali in base allo scopo d’impiego
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFF del 16 mar. 2016 ([RU 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Aggiornato dal n. I delle O del DFF del 12 ago. 2016 ([RU 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), del 28 ott. 2016 ([RU 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), del 28 ott. 2016 ([RU 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), dell’O della DGD dell’11 nov. 2016 ([RU 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), delle O del DFF dell’11 ago. 2017 ([RU 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), del 1° nov. 2017 ([RU 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), delle O della DGD del 4 dic. 2018 ([RU 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), dal n. 1 dell’O del DFF del 9 ago. 2019 ([RU 2019 2569](https://fedlex.data.admin.ch/eli/oc/2019/475)), dal n. I dell’O della DGD del 22 set. 2020 ([RU 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), dal n. I dell’O del DFF del 17 nov. 2020 ([RU 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), e dal n. I dell’O della DGD del 23 mar. 2021 in vigore dal 1° apr. 2021 ([RU 2021 170](https://fedlex.data.admin.ch/eli/oc/2021/170)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFF del 16 mar. 2016 ([RU 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Aggiornato dal n. I delle O del DFF del 12 ago. 2016 ([RU 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), del 28 ott. 2016 ([RU 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), del 28 ott. 2016 ([RU 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), dell’O della DGD dell’11 nov. 2016 ([RU 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), delle O del DFF dell’11 ago. 2017 ([RU 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), del 1° nov. 2017 ([RU 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), delle O della DGD del 4 dic. 2018 ([RU 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), dal n. 1 dell’O del DFF del 9 ago. 2019 ([RU 2019 2569](https://fedlex.data.admin.ch/eli/oc/2019/475)), dal n. I dell’O della DGD del 22 set. 2020 ([RU 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), dal n. I dell’O del DFF del 17 nov. 2020 ([RU 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), dai n. I delle O della DGD del 23 mar. 2021 ([RU 2021 170](https://fedlex.data.admin.ch/eli/oc/2021/170)) e del 20 apr. 2021, in vigore dal 1° mag. 2021 ([RU 2021 229](https://fedlex.data.admin.ch/eli/oc/2021/229)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Designazione della merce</th><th>Impiego</th><th>Dazio di favore Fr. / 100 kg peso lordo</th></tr>
@@ -468,10 +468,10 @@ Allegato 1*[^t-1]*
 <tr><td>1008. 10 29</td><td>Grano saraceno</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>2.––</td></tr>
 <tr><td>1008. 29 29</td><td>Miglio</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>esente</td></tr>
 <tr><td>1008. 30 20</td><td>Scagliola</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>2.––</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>3.50</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>3.50</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>3.—</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>3.—</td></tr>
 <tr><td>1008. 60 39</td><td>Triticale</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>4.50</td></tr>
-<tr><td>1008. 90 27</td><td>Altri cereali</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>3.50</td></tr>
+<tr><td>1008. 90 27</td><td>Altri cereali</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>3.—</td></tr>
 <tr><td>1102. 20 10</td><td>Farina di granturco</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>20.—</td></tr>
 <tr><td>1102. 90 51</td><td>Farina di riso</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>20.—</td></tr>
 <tr><td>1102. 90 61</td><td>Farine di altri cereali</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>20.—</td></tr>
@@ -499,7 +499,7 @@ Allegato 1*[^t-1]*
 <tr><td>1104. 29 18</td><td>Altri cereali lavorati di frumento (grano), di segala, di frumento segalato o di triticale, mondati o perlati</td><td>per usi tecnici</td><td>40.—</td></tr>
 <tr><td>1104. 29 22</td><td>Altri cereali lavorati di miglio</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>––.85</td></tr>
 <tr><td>1104. 29 22</td><td>Altri cereali lavorati di miglio</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>10.—</td></tr>
-<tr><td>1104. 29 32</td><td>Altri cereali lavorati, di orzo</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>9.––</td></tr>
+<tr><td>1104. 29 32</td><td>Altri cereali lavorati, di orzo</td><td>per la fabbricazione di derrate alimentari, con residui per il foraggiamento</td><td>7.80</td></tr>
 <tr><td>1104. 29 32</td><td>Altri cereali lavorati di orzo</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>10.—</td></tr>
 <tr><td>1104. 29 99</td><td>Altri cereali lavorati di altri cereali</td><td>per l’alimentazione umana, senza residui per il foraggiamento</td><td>10.—</td></tr>
 <tr><td>1104. 30 89</td><td>Germi di frumento</td><td>per la sgrassatura parziale, per l’alimentazione umana</td><td>28.80</td></tr>
