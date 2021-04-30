@@ -4,38 +4,38 @@ number: "175.1"
 title: Loi sur les communes
 short: LCo
 language: fr
-version: 2012-01-01
-corrected: 2017-09-04
+version: 2021-05-01
+valid_until: 2022-12-31
 version_adopted: 2011-09-15
 adopted: 2004-02-05
 in_force: 2004-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/175.1"
-pdf: "https://lex.vs.ch/api/fr/versions/633/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2863/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur les communes (LCo)
+# Loi sur les communes
 
-du 5 février 2004
+(LCo)
+
+du 05.02.2004 (état 01.05.2021)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 31 alinéa 1 chiffre 1, 42 alinéa 1 et 75 alinéas 3 et 4 de la Constitution cantonale;
+vu les articles 31 alinéa 1 lettre a, 42 alinéa 1 et 75 alinéas 3 et 4 de la Constitution cantonale;
 
 sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-#### Article premier
+#### Art. 1
 
 **Champ d'application**
 
 <sup>1</sup> La présente loi régit, sous réserve des dispositions contraires de la législation spéciale, les collectivités de droit public suivantes désignées ci-après par le terme "collectivités de droit public":
 
-- a) les communes municipales,
-
+- a) les communes municipales;
 - b) les communes bourgeoisiales.
 
 <sup>2</sup> Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
@@ -50,11 +50,11 @@ ordonne:
 
 <sup>3</sup> Elles élisent leurs autorités, nomment leurs employés et s'administrent librement.
 
-### Titre 1: Organisation
+## 1 Organisation
 
-### Chapitre 1: Communes municipales
+### 1.1 Communes municipales
 
-### Section 1: Dispositions générales
+### 1.1.1 Dispositions générales
 
 #### Art. 3
 
@@ -72,8 +72,7 @@ ordonne:
 
 <sup>1</sup> Il y a dans chaque commune municipale les organes suivants:
 
-- a) une assemblée primaire, organe délibérant,
-
+- a) une assemblée primaire, organe délibérant;
 - b) un conseil municipal, organe exécutif.
 
 <sup>2</sup> L'assemblée primaire peut être remplacée par le conseil général sauf en matière électorale et sous réserve du référendum prévu aux articles 68 et 69 de la présente loi.
@@ -82,51 +81,37 @@ ordonne:
 
 **Nom**
 
-Le nom et les armoiries des communes ne peuvent être changés que par une décision de l'assemblée primaire, homologuée par le Conseil d'Etat.
+<sup>1</sup> Le nom et les armoiries des communes ne peuvent être changés que par une décision de l'assemblée primaire, homologuée par le Conseil d'Etat.
 
 #### Art. 6
 
-<sup>5</sup> Attributions et souveraineté territoriale
+**Attributions et souveraineté territoriale**
 
-Sous réserve des législations cantonale et fédérale, la commune municipale a notamment les attributions suivantes:
+<sup>1</sup> Sous réserve des législations cantonale et fédérale, la commune municipale a notamment les attributions suivantes:
 
 - a) la gestion et le contrôle des finances municipales;
-
 - b) la police locale;
-
 - c) l'aménagement local et la police des constructions;
-
 - d) la construction et l'entretien des bâtiments, rues, routes et chemins municipaux;
-
 - e) l'alimentation en eau potable, l'évacuation et l'épuration des eaux usées, le traitement des ordures;
-
 - f) la protection contre le feu;
-
 - g) la protection de l'environnement;
-
 - h) l'enseignement dans les écoles enfantines, dans les écoles primaires et au cycle d'orientation;
-
 - i) la promotion du bien-être social;
-
 - j) l'aide sociale et la tutelle;
-
 - k) l'encouragement des activités culturelles et sportives;
-
 - l) la promotion de l'économie locale;
-
 - m) l'approvisionnement en énergie;
-
 - n) le contrôle des habitants;
-
 - o) l'adoption de mesures en vue de remédier aux éventuelles carences en matière d'approvisionnement en énergie, denrées alimentaires et autres produits de première nécessité.
 
-### Section 2: Organes
+### 1.1.2 Organes
 
-### Sous-section 1: Assemblée primaire
+### 1.1.2.1 Assemblée primaire
 
 #### Art. 7
 
-<sup>1</sup> Convocation ordinaire
+**Convocation ordinaire**
 
 <sup>1</sup> L'assemblée primaire se réunit deux fois l'an pour adopter globalement le budget avant le 20 décembre et approuver les comptes avant le 30 juin.
 
@@ -140,7 +125,7 @@ Sous réserve des législations cantonale et fédérale, la commune municipale a
 
 <sup>1</sup> Le président, le conseil municipal ou le cinquième au moins des citoyens habiles à voter dans la commune peuvent provoquer la réunion de l'assemblée primaire, pour l'examen d'un objet qui relève de ses compétences.
 
-<sup>2</sup> La requête du cinquième du corps électoral est déposée par écrit, avec mention des objets à traiter. Le retrait des signatures est inopérant, une fois la requête déposée.
+<sup>2</sup> La requête du cinquième du corps électoral est déposée par écrit, avec mention de l’objet à traiter. Le retrait des signatures est inopérant, une fois la requête déposée.
 
 <sup>3</sup> Par la voie du règlement d'organisation, les communes peuvent abaisser cette quote-part jusqu'à un dixième.
 
@@ -150,7 +135,7 @@ Sous réserve des législations cantonale et fédérale, la commune municipale a
 
 <sup>1</sup> Les assemblées primaires sont convoquées par affichage au pilier public 20 jours au moins avant la date de la séance.
 
-<sup>2</sup> Le règlement communal d'organisation peut prévoir des moyens complémentaires de publication.
+<sup>2</sup> Le conseil communal ou le règlement communal d'organisation peut prévoir des moyens complémentaires de publication.
 
 #### Art. 10
 
@@ -160,7 +145,7 @@ Sous réserve des législations cantonale et fédérale, la commune municipale a
 
 <sup>2</sup> L'assemblée ne peut se prononcer valablement que sur les objets prévus à l'ordre du jour. Les autres sujets évoqués ne peuvent faire l'objet que d'une discussion, si l'assemblée la juge opportune.
 
-<sup>3</sup> Les objets prévus dans la requête ayant provoqué la convocation d'une assemblée primaire extraordinaire doivent être traités en priorité.
+<sup>3</sup> L’objet prévu dans la requête ayant provoqué la convocation d'une assemblée primaire extraordinaire doit être traité en priorité.
 
 <sup>4</sup> Avec l'accord de l'assemblée, le conseil municipal peut retirer un objet de l'ordre du jour.
 
@@ -172,11 +157,19 @@ Sous réserve des législations cantonale et fédérale, la commune municipale a
 
 <sup>2</sup> La date d'une assemblée primaire extraordinaire, convoquée par requête, doit être fixée dans les 30 jours au plus tard, à compter du jour où la requête a été valablement déposée auprès du président ou du secrétariat de la municipalité. Un reçu peut être exigé par celui qui dépose la requête.
 
+#### Art. 11a
+
+**Publicité**
+
+<sup>1</sup> Les séances de l’assemblée primaire sont publiques. L'assemblée peut toutefois décider le huis clos si un intérêt prépondérant public ou privé l'exige.
+
+<sup>2</sup> Les tiers qui assistent à l’assemblée primaire sont placés de manière à ne pas gêner le déroulement régulier des délibérations, notamment la constatation exacte du résultat des votes. Ils ne sont pas autorisés à prendre la parole et doivent se comporter de manière convenable sous peine d'être exclus de la salle.
+
 #### Art. 12
 
 **Quorum**
 
-L'assemblée primaire régulièrement convoquée délibère valablement quel que soit le nombre de membres présents. Pour le surplus, les dispositions de la législation régissant les élections et les votations sont applicables.
+<sup>1</sup> L'assemblée primaire régulièrement convoquée délibère valablement quel que soit le nombre de membres présents. Pour le surplus, les dispositions de la législation régissant les élections et les votations sont applicables.
 
 #### Art. 13
 
@@ -188,11 +181,13 @@ L'assemblée primaire régulièrement convoquée délibère valablement quel que
 
 #### Art. 14
 
-**Mise à disposition des règlements**
+**Mise à disposition des règlements et d'autres documents**
 
 <sup>1</sup> Les règlements soumis à l'assentiment de l'assemblée primaire doivent être mis à la disposition du public, gratuitement, auprès du secrétariat municipal.
 
-<sup>2</sup> Le conseil municipal peut décider en outre l'envoi à chaque ménage de citoyens ou à chaque électeur d'un exemplaire du projet de règlement en question.
+<sup>2</sup> Le conseil municipal peut décider la publication du projet de règlement sur le site internet de la commune ou son envoi à chaque ménage de citoyens ou à chaque électeur.
+
+<sup>2<sup>bis</sup></sup> Pour chaque objet soumis à l’approbation de l’assemblée primaire, le conseil municipal met à la disposition du public, gratuitement, les informations et documents utiles, auprès du secrétariat municipal et, dans la mesure du possible, sur le site internet de la commune. A défaut de publication sur le site, un citoyen peut obtenir les informations et documents utiles par voie électronique.
 
 <sup>3</sup> Cette mise à disposition doit intervenir simultanément avec la convocation de l'assemblée primaire.
 
@@ -204,7 +199,7 @@ L'assemblée primaire régulièrement convoquée délibère valablement quel que
 
 <sup>2</sup> Pendant le délai de dépôt des comptes, tout citoyen a le droit de se faire montrer les pièces à l'appui des comptes communaux, à l'exception des dossiers fiscaux et dans le respect des dispositions de la loi sur la protection des données.
 
-<sup>3</sup> Les comptes et le budget sont transmis, en deux exemplaires, au département chargé de la surveillance des finances communales dans les 60 jours dès l'expiration du délai de dépôt.
+<sup>3</sup> Les comptes et le budget sont transmis, en deux exemplaires ou par voie numérique au département chargé de la surveillance des finances communales dans les 60 jours dès leur approbation par l’assemblée primaire.
 
 #### Art. 16
 
@@ -228,37 +223,27 @@ L'assemblée primaire régulièrement convoquée délibère valablement quel que
 
 #### Art. 17
 
-<sup>1</sup> Compétences inaliénables
+**Compétences inaliénables**
 
 <sup>1</sup> L'assemblée primaire délibère et décide:
 
 - a) de l'adoption et de la modification de tous les règlements municipaux, à l'exception de ceux qui ont une portée purement interne;
-
 - b) de l'adoption du budget et des comptes;
-
-- c) de la conclusion d'une nouvelle dépense à caractère non obligatoire dont le montant est supérieur à 5% des recettes brutes du dernier exercice, mais au moins 10'000 francs;
-
-- d) d'une nouvelle dépense annuelle et périodique non liée lorsque le montant dépasse 1% des recettes brutes du dernier exercice;
-
-- e) des emprunts liés à un nouvel investissement, dont le montant dépasse 10% des recettes brutes du dernier exercice; des emprunts en compte courant pour le financement des dépenses de fonctionnement, dont les limites maximales cumulées sont supérieures à 25% des recettes brutes du dernier exercice;
-
-- f) de l'octroi de prêts, des cautionnements et des garanties analogues à charge de la commune et dont le montant dépasse 5% des recettes brutes du dernier exercice;
-
-- g) des ventes, des échanges, des partages d'immeubles, de l'octroi de droits réels restreints, de la location de biens, de l'aliénation de capitaux, dont la valeur dépasse 5% des recettes brutes du dernier exercice;
-
+- c) de la conclusion d'une nouvelle dépense à caractère non obligatoire dont le montant est supérieur à 5 pour cent des recettes brutes du dernier exercice, mais au moins 10'000 francs;
+- d) d'une nouvelle dépense annuelle et périodique non liée lorsque le montant dépasse 1 pour cent des recettes brutes du dernier exercice;
+- e) des emprunts liés à une nouvelle dépense, dont le montant dépasse 10 pour cent des recettes brutes du dernier exercice; des emprunts en compte courant pour le financement des charges de fonctionnement, dont les limites maximales cumulées sont supérieures à 25 pour cent des recettes brutes du dernier exercice;
+- f) de l'octroi de prêts, des cautionnements et des garanties analogues à charge de la commune et dont le montant dépasse 5 pour cent des recettes brutes du dernier exercice;
+- g) des ventes, des échanges, des partages d'immeubles, de l'octroi de droits réels restreints, de la location de biens, de l'aliénation de capitaux, dont la valeur dépasse 5 pour cent des recettes brutes du dernier exercice;
 - h) de la fusion ou de la scission des communes et de la rectification des limites municipales, sous réserve des compétences du Grand Conseil;
-
 - i) de l'adhésion à une association de communes et de la délégation de tâches publiques à des organisations mixtes ou privées;
-
 - j) de l'octroi et du transfert de concessions hydrauliques;
-
 - k) des affaires qui lui sont attribuées par les prescriptions légales spéciales.
 
-<sup>2</sup> Par la voie du règlement d'organisation, les communes peuvent réduire au maximum de 50% les taux prévus à l'alinéa 1 lettres c, d, e, f et g, et déléguer à l'assemblée primaire d'autres attributions dans le cadre de l'autonomie communale.
+<sup>2</sup> Par la voie du règlement d'organisation, les communes peuvent réduire au maximum de 50 pour cent les taux prévus à l'alinéa 1 lettres c, d, e, f et g, et déléguer à l'assemblée primaire d'autres attributions dans le cadre de l'autonomie communale.
 
 <sup>3</sup> Les communes peuvent organiser un vote de principe préalable pour les affaires importantes relevant de la compétence de l'assemblée primaire.
 
-<sup>4</sup> L'ordonnance définit les notions de « recettes brutes », de « dépenses nouvelles à caractère non obligatoire » et de « dépenses liées ».
+<sup>4</sup> L'ordonnance définit les notions de "recettes brutes", de "dépenses nouvelles à caractère non obligatoire" et de "dépenses liées".
 
 #### Art. 18
 
@@ -272,15 +257,15 @@ L'assemblée primaire régulièrement convoquée délibère valablement quel que
 
 **Cas de force majeure**
 
-Si un cas de force majeure (guerre, catastrophe naturelle, épidémie, etc.) empêche la convocation de l'assemblée primaire, le conseil municipal est compétent pour décider des affaires qu'il n'est pas possible de différer.
+<sup>1</sup> Si un cas de force majeure (guerre, catastrophe naturelle, épidémie, etc.) empêche la convocation de l'assemblée primaire, le conseil municipal est compétent pour décider des affaires qu'il n'est pas possible de différer.
 
-### Sous-section 2: Conseil général
+### 1.1.2.2 Conseil général
 
 #### Art. 20
 
 **Principe**
 
-Toute commune dont la population est supérieure à 700 habitants peut élire un conseil général.
+<sup>1</sup> Toute commune dont la population est supérieure à 700 habitants peut élire un conseil général.
 
 #### Art. 21
 
@@ -289,11 +274,8 @@ Toute commune dont la population est supérieure à 700 habitants peut élire un
 <sup>1</sup> Le nombre des membres du conseil général est fixé comme il suit, sur la base du dernier recensement fédéral:
 
 - a) jusqu'à 1'000 habitants: 20 membres;
-
 - b) de 1'001 à 5'000 habitants: 30 membres;
-
 - c) de 5'001 à 10'000 habitants: 45 membres;
-
 - d) dès 10'001 habitants: 60 membres.
 
 <sup>2</sup> Le règlement communal d'organisation peut fixer librement le nombre des membres du conseil général entre 20 et 80.
@@ -307,6 +289,8 @@ Toute commune dont la population est supérieure à 700 habitants peut élire un
 <sup>2</sup> Il se réunit en outre chaque fois que le conseil municipal le juge nécessaire ou à la demande du cinquième au moins des conseillers généraux.
 
 <sup>3</sup> La convocation doit contenir l'ordre du jour et être accompagnée des documents concernant les objets à traiter.
+
+<sup>4</sup> La convocation et les documents qui l'accompagnent sont mis à la disposition du public, gratuitement, auprès du secrétariat municipal, et, dans la mesure du possible, sur le site internet de la commune.
 
 #### Art. 23
 
@@ -340,13 +324,13 @@ Toute commune dont la population est supérieure à 700 habitants peut élire un
 
 **Publicité**
 
-Les séances du conseil général sont publiques. L'assemblée peut toutefois décider le huis clos lorsque les circonstances l'exigent. En cas de huis clos, toute personne qui n'occupe pas une fonction officielle dans la salle doit se retirer.
+<sup>1</sup> Les séances du conseil général sont publiques. L'assemblée peut toutefois décider le huis clos lorsque les circonstances l'exigent. En cas de huis clos, toute personne qui n'occupe pas une fonction officielle dans la salle doit se retirer.
 
 #### Art. 27
 
 **Participation du conseil municipal**
 
-Les membres du conseil municipal assistent aux séances du conseil général, avec voix consultative. Ils peuvent se faire accompagner de fonctionnaires.
+<sup>1</sup> Les membres du conseil municipal assistent aux séances du conseil général, avec voix consultative. Ils peuvent se faire accompagner de fonctionnaires.
 
 #### Art. 28
 
@@ -360,14 +344,11 @@ Les membres du conseil municipal assistent aux séances du conseil général, av
 
 **Règlement**
 
-Le conseil général adopte un règlement fixant notamment les points suivants:
+<sup>1</sup> Le conseil général adopte un règlement fixant notamment les points suivants:
 
 - a) la composition du bureau;
-
 - b) la procédure des délibérations;
-
 - c) les commissions et leur statut;
-
 - d) les indemnités.
 
 #### Art. 30
@@ -377,18 +358,17 @@ Le conseil général adopte un règlement fixant notamment les points suivants:
 <sup>1</sup> Le conseil général élit, au début de chaque période administrative, une commission qui examine le budget, les comptes et la gestion du conseil municipal. Celle-ci contrôle notamment:
 
 - a) l'utilisation conforme des crédits budgétaires;
-
 - b) les demandes de crédits supplémentaires.
 
 <sup>2</sup> Cette commission fait rapport au conseil général, lors des assemblées délibérant sur le budget et les comptes et lors des demandes de crédits supplémentaires.
 
 #### Art. 31
 
-<sup>1</sup> Compétences
+**Compétences**
 
 <sup>1</sup> Le conseil général a les mêmes compétences que celles dévolues à l'assemblée primaire par l'article 17 de la présente loi et par les législations spéciales.
 
-<sup>2</sup> De plus, il est compétent pour approuver le coefficient d'impôt et les crédits supplémentaires pour autant que ces derniers dépassent de 10% la dépense prévue à la rubrique budgétée.
+<sup>2</sup> De plus, il est compétent pour approuver le coefficient d'impôt et les crédits supplémentaires pour autant que ces derniers dépassent de 10 pour cent la dépense prévue à la rubrique budgétée.
 
 <sup>3</sup> Le règlement communal d'organisation peut prévoir le vote du budget rubrique par rubrique, à l'exception des dépenses liées.
 
@@ -402,9 +382,9 @@ Le conseil général adopte un règlement fixant notamment les points suivants:
 
 <sup>1</sup> Chaque membre du conseil général peut déposer une motion. Celle-ci doit être appuyée par deux cosignataires au moins. La proposition doit être conforme aux exigences qui règlent le droit d'initiative populaire sur le plan municipal. En cas d'acceptation par le conseil général, la motion oblige le conseil municipal à présenter les propositions réglementaires correspondantes.
 
-<sup>2</sup> En outre, chaque membre du conseil général peut interpeller le conseil municipal sur son administration et présenter des postulats. Ces derniers, s'ils sont admis par le conseil général, obligent le conseil municipal à étudier une question déterminée et à déposer un rapport avec des conclusions.
+<sup>2</sup> En outre, chaque membre du conseil général peut interpeller le conseil municipal sur son administration et présenter des postulats. Ces derniers, s'ils sont admis par le conseil général, obligent le conseil municipal à étudier une question déterminée et à déposer un rapport avec des conclusions. Le vote sur le rapport et les conclusions peut être demandé par leurs auteurs.
 
-### Sous-section 3: Conseil municipal
+### 1.1.2.3 Conseil municipal
 
 #### Art. 33
 
@@ -418,33 +398,28 @@ Le conseil général adopte un règlement fixant notamment les points suivants:
 
 **Nombre de membres**
 
-Le conseil municipal se compose de 3 membres au moins et de 15 membres au plus, ce nombre étant toujours impair.
+<sup>1</sup> Le conseil municipal se compose de trois membres au moins et de 15 membres au plus, ce nombre étant toujours impair.
 
 #### Art. 35
 
-<sup>1</sup> Compétences
+**Compétences**
 
 <sup>1</sup> Les attributions du conseil municipal sont exercées dans les limites déterminées par la législation.
 
 <sup>2</sup> Elles concernent notamment:
 
 - a) l'administration des services publics;
-
 - b) l'administration des biens communaux, celle du domaine public et des biens affectés aux services publics;
-
 - c) la nomination des fonctionnaires et employés de la commune, la fixation de leur statut et l'exercice du pouvoir disciplinaire;
-
 - d) l'élaboration du budget, la gestion financière et l'établissement des comptes;
-
 - e) la conduite des affaires courantes;
-
 - f) les tâches qui lui sont directement attribuées par la législation.
 
 #### Art. 36
 
 **Permanence**
 
-Par la voie du règlement communal d'organisation, il peut être créé la fonction à plein temps, soit du président, soit de tous les membres du conseil municipal. Dans ce dernier cas, le nombre des membres du conseil ne peut être supérieur à cinq.
+<sup>1</sup> Par la voie du règlement communal d'organisation, il peut être créé la fonction à plein temps, soit du président, soit de tous les membres du conseil municipal. Dans ce dernier cas, le nombre des membres du conseil ne peut être supérieur à cinq.
 
 #### Art. 37
 
@@ -480,7 +455,7 @@ Par la voie du règlement communal d'organisation, il peut être créé la fonct
 
 **Quorum**
 
-Le conseil municipal ne peut délibérer valablement que si le nombre des membres présents forme la majorité absolue du nombre total de ses membres.
+<sup>1</sup> Le conseil municipal ne peut délibérer valablement que si le nombre des membres présents forme la majorité absolue du nombre total de ses membres.
 
 #### Art. 41
 
@@ -502,7 +477,7 @@ Le conseil municipal ne peut délibérer valablement que si le nombre des membre
 
 <sup>2</sup> Pour le surplus, sont applicables les articles 87 à 90 et 94 à 96 de la présente loi.
 
-### Sous-section 4: Président
+### 1.1.2.4 Président
 
 #### Art. 43
 
@@ -515,19 +490,12 @@ Le conseil municipal ne peut délibérer valablement que si le nombre des membre
 <sup>3</sup> Il est notamment compétent dans les cas suivants:
 
 - a) il préside le conseil municipal et l'assemblée primaire;
-
 - b) il ordonne l'exécution des décisions du conseil municipal;
-
 - c) il gère le courrier de la municipalité;
-
 - d) il surveille la rédaction et la tenue du procès-verbal;
-
 - e) il veille à l'exécution des législations cantonale et fédérale et des règlements municipaux;
-
 - f) il fait respecter l'ordre dans la commune;
-
 - g) il reçoit les pétitions et les requêtes, en accuse réception et les communique à l'organe concerné lors de la première séance suivant leur réception;
-
 - h) il prend les mesures d'urgence nécessitées par les circonstances, en cas de force majeure (guerre, catastrophe naturelle, épidémie, etc.).
 
 #### Art. 44
@@ -540,13 +508,13 @@ Le conseil municipal ne peut délibérer valablement que si le nombre des membre
 
 <sup>3</sup> Toutefois, le vice-président n'est légitimé à convoquer et à présider le conseil municipal que sur l'ordre du président ou, le cas échéant, du Conseil d'Etat.
 
-### Sous-section 5: Commissions
+### 1.1.2.5 Commissions
 
 #### Art. 45
 
 **Principe**
 
-Les communes municipales ont la faculté d'instituer des commissions permanentes ou non permanentes, en plus de celles qui sont prescrites par la législation spéciale.
+<sup>1</sup> Les communes municipales ont la faculté d'instituer des commissions permanentes ou non permanentes, en plus de celles qui sont prescrites par la législation spéciale.
 
 #### Art. 46
 
@@ -562,15 +530,15 @@ Les communes municipales ont la faculté d'instituer des commissions permanentes
 
 <sup>5</sup> Pour autant que la législation ne l'exclue pas, les règlements d'organisation peuvent fixer la délégation de compétences à une commission.
 
-### Sous-section 6: Instances de révision
+### 1.1.2.6 Instances de révision
 
 #### Art. 47
 
 **Principe**
 
-Les instances de révision sont celles prévues à l'article 83 de la présente loi.
+<sup>1</sup> Les instances de révision sont celles prévues à l'article 83 de la présente loi.
 
-### Chapitre 2: Communes bourgeoisiales
+### 1.2 Communes bourgeoisiales
 
 #### Art. 48
 
@@ -587,27 +555,21 @@ Les instances de révision sont celles prévues à l'article 83 de la présente 
 <sup>1</sup> Les attributions de la commune bourgeoisiale sont les suivantes:
 
 - a) l'octroi du droit de bourgeoisie;
-
 - b) l'octroi de la bourgeoisie d'honneur;
-
 - c) la tenue du rôle des bourgeois;
-
 - d) la gestion de ses biens;
-
 - e) l'accomplissement des services et la prestation des contributions fixées par les lois spéciales;
-
 - f) la réalisation, dans la mesure de ses moyens, d'oeuvres d'intérêt public.
 
 <sup>2</sup> Les principes de la gestion et de la jouissance des biens bourgeoisiaux sont fixés par la loi.
 
 #### Art. 50
 
-<sup>1</sup> Organisation
+**Organisation**
 
 <sup>1</sup> Les organes de la commune bourgeoisiale sont:
 
 - a) l'assemblée bourgeoisiale, organe délibérant;
-
 - b) le conseil bourgeoisial, organe exécutif de trois à neuf membres au plus, ce nombre étant toujours impair.
 
 <sup>2</sup> L'assemblée bourgeoisiale se réunit au moins une fois par an. L'approbation du budget et des comptes peut intervenir lors de la même assemblée, celle-ci devant alors se tenir avant le 31 mars.
@@ -622,19 +584,19 @@ Les instances de révision sont celles prévues à l'article 83 de la présente 
 
 #### Art. 52
 
-<sup>2</sup> Conseil bourgeoisial séparé
+**Conseil bourgeoisial séparé**
 
-Dans l'année de renouvellement des autorités communales, mais au plus tard le 1er mai de l'année électorale, le cinquième des citoyens habiles à voter en matière bourgeoisiale peut déposer, au greffe municipal, une requête demandant la création d'un conseil bourgeoisial séparé. Le conseil municipal fait établir la liste électorale des bourgeois et prépare la votation et les élections subséquentes, conformément à la législation régissant les élections et les votations.
+<sup>1</sup> Dans l'année de renouvellement des autorités communales, mais au plus tard le 1<sup>er</sup> mai de l'année électorale, le cinquième des citoyens habiles à voter en matière bourgeoisiale peut déposer, au greffe municipal, une requête demandant la création d'un conseil bourgeoisial séparé. La demande doit mentionner le nombre de conseillers bourgeoisiaux souhaité. Le conseil municipal organise la votation et les élections subséquentes, conformément à la législation régissant les élections et les votations.
 
 #### Art. 53
 
 **Fusion**
 
-Deux ou plusieurs communes bourgeoisiales peuvent fusionner même si les communes municipales correspondantes ne fusionnent pas.
+<sup>1</sup> Deux ou plusieurs communes bourgeoisiales peuvent fusionner même si les communes municipales correspondantes ne fusionnent pas.
 
 #### Art. 54
 
-Coexistence de plusieurs communes bourgeoisiales sur le territoire d'une seule commune municipale
+**Coexistence de plusieurs communes bourgeoisiales sur le territoire d'une seule commune municipale**
 
 <sup>1</sup> Lorsqu'il y a deux ou plusieurs communes bourgeoisiales sur le territoire d'une seule commune municipale, chaque commune bourgeoisiale continue à s'acquitter, auprès de la municipalité, des tâches et des contributions qui lui sont imparties par la loi.
 
@@ -644,35 +606,35 @@ Coexistence de plusieurs communes bourgeoisiales sur le territoire d'une seule c
 
 **Avis de fusion**
 
-En cas de projet de fusion de communes bourgeoisiales sans fusion des communes municipales correspondantes, les conseils bourgeoisiaux en avisent immédiatement les conseils municipaux.
+<sup>1</sup> En cas de projet de fusion de communes bourgeoisiales sans fusion des communes municipales correspondantes, les conseils bourgeoisiaux en avisent immédiatement les conseils municipaux.
 
 #### Art. 56
 
 **Accomplissement des obligations légales**
 
-Les communes bourgeoisiales ont la faculté de passer des conventions avec les communes municipales pour régler leurs obligations légales.
+<sup>1</sup> Les communes bourgeoisiales ont la faculté de passer des conventions avec les communes municipales pour régler leurs obligations légales.
 
 #### Art. 57
 
 **Représentation dans les organismes régionaux**
 
-Les communes bourgeoisiales ont droit à une représentation équitable au sein des organismes régionaux, dans la mesure où elles démontrent un intérêt.
+<sup>1</sup> Les communes bourgeoisiales ont droit à une représentation équitable au sein des organismes régionaux, dans la mesure où elles démontrent un intérêt.
 
 #### Art. 58
 
 **Avoirs bourgeoisiaux**
 
-Les avoirs bourgeoisiaux qui, antérieurement à l'organisation de la commune municipale, étaient affectés au service public et qui ont passé, en propriété ou en jouissance à la commune municipale, sont déterminés par les lois spéciales.
+<sup>1</sup> Les avoirs bourgeoisiaux qui, antérieurement à l'organisation de la commune municipale, étaient affectés au service public et qui ont passé, en propriété ou en jouissance à la commune municipale, sont déterminés par les lois spéciales.
 
-### Titre 2: Droits politiques
+## 2 Droits politiques
 
-### Chapitre 1: Initiative
+### 2.1 Initiative
 
 #### Art. 59
 
 **Principe**
 
-Les communes municipales ont la faculté d'introduire le droit d'initiative, en matière de règlements relevant de l'assemblée primaire ou du conseil général.
+<sup>1</sup> Les communes municipales ont la faculté d'introduire le droit d'initiative, en matière de règlements relevant de l'assemblée primaire ou du conseil général.
 
 #### Art. 60
 
@@ -696,7 +658,7 @@ Les communes municipales ont la faculté d'introduire le droit d'initiative, en 
 
 **Abolition**
 
-Une fois introduit, le droit d'initiative demeure jusqu'à son abolition. La demande et la décision d'abolition sont traitées conformément aux articles 60 et 61 de la présente loi.
+<sup>1</sup> Une fois introduit, le droit d'initiative demeure jusqu'à son abolition. La demande et la décision d'abolition sont traitées conformément aux articles 60 et 61 de la présente loi.
 
 #### Art. 63
 
@@ -742,24 +704,20 @@ Une fois introduit, le droit d'initiative demeure jusqu'à son abolition. La dem
 
 **Vote**
 
-Les initiatives recevables doivent être soumises au vote, conformément à l'article 66, dans le délai de six mois dès l'entrée en force de la décision de recevabilité.
+<sup>1</sup> Les initiatives recevables doivent être soumises au vote, conformément à l'article 66, dans le délai de six mois dès l'entrée en force de la décision de recevabilité.
 
-### Chapitre 2: Référendum
+### 2.2 Référendum
 
 #### Art. 68
 
-<sup>1</sup> Référendum obligatoire
+**Référendum obligatoire**
 
 <sup>1</sup> Sont soumis au scrutin secret dans les formes prévues par la législation régissant les élections et les votations:
 
 - a) le règlement communal d'organisation;
-
 - b) l'introduction du droit d'initiative;
-
 - c) la décision concernant les initiatives rejetées par le conseil général;
-
 - d) le préavis sur la fusion, respectivement le contrat de fusion, et la scission des communes;
-
 - e) la modification du nom et des armoiries des communes.
 
 <sup>2</sup> Le règlement communal d'organisation peut soumettre d'autres affaires, prévues à l'article 17, au référendum obligatoire, à l'exception du budget et des comptes.
@@ -791,14 +749,12 @@ Les initiatives recevables doivent être soumises au vote, conformément à l'ar
 <sup>6</sup> La liste des signatures doit renfermer:
 
 - a) la désignation de l'acte soumis au référendum;
-
 - b) l'échéance du délai pour le dépôt des signatures;
-
 - c) la mention que la demande de référendum ne peut être retirée.
 
 <sup>7</sup> L'électeur doit apposer de sa main lisiblement sur la liste ses nom, prénom, année de naissance et adresse ainsi que sa signature.
 
-### Chapitre 3: Pétition
+### 2.3 Pétition
 
 #### Art. 71
 
@@ -830,9 +786,9 @@ Les initiatives recevables doivent être soumises au vote, conformément à l'ar
 
 <sup>3</sup> La décision ne peut faire l'objet d'un recours ordinaire. Demeurent réservés les dispositions des lois particulières et le recours de droit public au Tribunal fédéral.
 
-### Titre 3: Finances et principes de fonctionnement
+## 3 Finances et principes de fonctionnement
 
-### Chapitre 1: Définitions et principes financiers
+### 3.1 Définitions et principes financiers
 
 #### Art. 74
 
@@ -878,7 +834,7 @@ Les initiatives recevables doivent être soumises au vote, conformément à l'ar
 
 **Contrôle interne**
 
-Le contrôle interne est organisé en rapport avec le volume des recettes et des dépenses. Il est exercé sous la responsabilité du conseil municipal qui doit s'assurer que les procédures mises en oeuvre assurent une vérification adéquate des recettes et des dépenses.
+<sup>1</sup> Le contrôle interne est organisé en rapport avec le volume des recettes et des dépenses. Il est exercé sous la responsabilité du conseil municipal qui doit s'assurer que les procédures mises en oeuvre assurent une vérification adéquate des recettes et des dépenses.
 
 #### Art. 79
 
@@ -900,15 +856,15 @@ Le contrôle interne est organisé en rapport avec le volume des recettes et des
 
 **Découvert au bilan**
 
-En cas de découvert au bilan, la commune élabore un plan financier assorti de mesures d'assainissement qui seront portées à la connaissance de l'assemblée primaire ou du conseil général et du département cantonal compétent.
+<sup>1</sup> En cas de découvert au bilan, la commune élabore un plan financier assorti de mesures d'assainissement qui seront portées à la connaissance de l'assemblée primaire ou du conseil général et du département cantonal compétent.
 
 #### Art. 82
 
 **Mesures d'assainissement**
 
-Si l'équilibre à terme des finances communales n'est pas assuré en application des articles 80 et 81, le Conseil d'Etat nomme, aux frais de la commune et après l'avoir entendue, un préposé chargé d'établir un plan financier et de présenter des mesures d'assainissement.
+<sup>1</sup> Si l'équilibre à terme des finances communales n'est pas assuré en application des articles 80 et 81, le Conseil d'Etat nomme, aux frais de la commune et après l'avoir entendue, un préposé chargé d'établir un plan financier et de présenter des mesures d'assainissement.
 
-### Chapitre 2: Révision des comptes
+### 3.2 Révision des comptes
 
 #### Art. 83
 
@@ -951,22 +907,15 @@ Si l'équilibre à terme des finances communales n'est pas assuré en applicatio
 <sup>2</sup> Il définit notamment:
 
 - a) le département chargé de la surveillance des finances communales;
-
 - b) les prescriptions relatives à la gestion financière des communes, à la tenue des comptes, aux tâches et aux conditions d'habilitation des réviseurs;
-
 - c) les prescriptions concernant les amortissements minimaux et les règles d'évaluation des actifs;
-
 - d) les recettes brutes, les dépenses nouvelles à caractère non obligatoire et les dépenses liées;
-
 - e) la formation et l'information à donner aux personnes chargées de la gestion financière et aux réviseurs;
-
 - f) la manière de publier les résultats de ses activités en matière de surveillance des communes;
-
 - g) la publication des statistiques des finances communales;
-
 - h) les prescriptions concernant les mesures à prendre par l'autorité de surveillance lorsque l'équilibre des finances est compromis ou lorsque des manquements apparaissent dans la tenue de la comptabilité.
 
-### Chapitre 3: Devoirs de fonctions
+### 3.3 Devoirs de fonctions
 
 #### Art. 87
 
@@ -980,7 +929,7 @@ Si l'équilibre à terme des finances communales n'est pas assuré en applicatio
 
 **Secret de fonction**
 
-Les personnes mentionnées à l'article précédent sont tenues au secret de fonction. Cette obligation subsiste même après la cessation des fonctions.
+<sup>1</sup> Les personnes mentionnées à l'article précédent sont tenues au secret de fonction. Cette obligation subsiste même après la cessation des fonctions.
 
 #### Art. 89
 
@@ -997,9 +946,7 @@ Les personnes mentionnées à l'article précédent sont tenues au secret de fon
 <sup>1</sup> Les membres des autorités exécutives et des commissions appelés à rendre ou à préparer une décision doivent se récuser:
 
 - a) s'ils ont un intérêt personnel dans l'affaire;
-
 - b) s'ils sont parents ou alliés d'une partie, en ligne directe, ou jusqu'au troisième degré en ligne collatérale, ou s'ils sont unis par mariage, fiançailles ou adoption;
-
 - c) s'ils représentent une partie ou ont agi dans la même affaire pour une partie.
 
 <sup>2</sup> Ces personnes doivent se récuser et quitter la salle. Elles peuvent cependant être appelées à fournir des renseignements.
@@ -1008,21 +955,21 @@ Les personnes mentionnées à l'article précédent sont tenues au secret de fon
 
 **Documents**
 
-Les personnes qui détiennent des documents officiels, de la correspondance, des titres, des livres et registres, des valeurs pécuniaires, des créances et d'autres biens appartenant à une collectivité de droit public, doivent les remettre sans délai aux autorités à l'échéance de leur mandat ou en tout temps sur requête de celles-ci.
+<sup>1</sup> Les personnes qui détiennent des documents officiels, de la correspondance, des titres, des livres et registres, des valeurs pécuniaires, des créances et d'autres biens appartenant à une collectivité de droit public, doivent les remettre sans délai aux autorités à l'échéance de leur mandat ou en tout temps sur requête de celles-ci.
 
 #### Art. 92
 
 **Renseignements**
 
-Toute personne, membre des autorités ou fonctionnaire d'une collectivité de droit public, doit renseigner son ou ses successeurs sur les affaires en cours, au moment de la cessation de ses fonctions publiques.
+<sup>1</sup> Toute personne, membre des autorités ou fonctionnaire d'une collectivité de droit public, doit renseigner son ou ses successeurs sur les affaires en cours, au moment de la cessation de ses fonctions publiques.
 
 #### Art. 93
 
 **Sanction**
 
-La violation des obligations mentionnées aux articles 91 et 92 est réprimée par le département chargé de la surveillance des communes qui peut infliger aux contrevenants une amende de 100 à 5'000 francs.
+<sup>1</sup> La violation des obligations mentionnées aux articles 91 et 92 est réprimée par le département chargé de la surveillance des communes qui peut infliger aux contrevenants une amende de 100 à 5'000 francs.
 
-### Chapitre 4: Fonctionnaires et employés
+### 3.4 Fonctionnaires et employés
 
 #### Art. 94
 
@@ -1044,11 +991,9 @@ La violation des obligations mentionnées aux articles 91 et 92 est réprimée p
 
 **Fonctionnaires et employés engagés selon un contrat**
 
-Les fonctionnaires et les employés peuvent être engagés sur la base du droit privé.
+<sup>1</sup> Les fonctionnaires et les employés peuvent être engagés sur la base du droit privé.
 
-### Chapitre 5: Actes, procès-verbaux, communications officielles et
-
-archives
+### 3.5 Actes, procès-verbaux, communications officielles et archives
 
 #### Art. 97
 
@@ -1064,20 +1009,17 @@ archives
 
 **Procès-verbaux**
 
-Les délibérations des organes des collectivités de droit public sont consignées dans un procès-verbal qui est signé par le président et le secrétaire.
+<sup>1</sup> Les délibérations des organes des collectivités de droit public sont consignées dans un procès-verbal qui est signé par le président et le secrétaire.
 
 #### Art. 99
 
 **Contenu**
 
-Ce procès-verbal doit mentionner au moins:
+<sup>1</sup> Ce procès-verbal doit mentionner au moins:
 
 - a) le nombre des personnes présentes et, pour les organes exécutifs, le nom des membres présents;
-
 - b) l'ordre du jour;
-
 - c) les propositions présentées;
-
 - d) les décisions prises.
 
 #### Art. 100
@@ -1092,7 +1034,7 @@ Ce procès-verbal doit mentionner au moins:
 
 **Publicité des procès-verbaux et décisions**
 
-<sup>1</sup> Les procès-verbaux de l'organe législatif d'une collectivité de droit public peuvent être consultés auprès du bureau communal.
+<sup>1</sup> Les procès-verbaux de l'organe législatif d'une collectivité de droit public peuvent être consultés auprès du bureau communal, et dans la mesure du possible sur le site internet de la commune.
 
 <sup>2</sup> Les procès-verbaux des organes exécutifs ne sont pas publics.
 
@@ -1114,7 +1056,7 @@ Ce procès-verbal doit mentionner au moins:
 
 **Objets soumis au référendum**
 
-Le délai de référendum, la validité juridique et la date d'entrée en vigueur des objets soumis au référendum doivent être rendus publics, avec mention de l'endroit où ils peuvent être consultés.
+<sup>1</sup> Le délai de référendum, la validité juridique et la date d'entrée en vigueur des objets soumis au référendum doivent être rendus publics, avec mention de l'endroit où ils peuvent être consultés.
 
 #### Art. 104
 
@@ -1125,18 +1067,14 @@ Le délai de référendum, la validité juridique et la date d'entrée en vigueu
 <sup>2</sup> Sont notamment déposés dans les archives:
 
 - a) les comptes et les budgets, les documents comptables et le rôle des impôts;
-
 - b) les procès-verbaux des séances des organes de la collectivité de droit public;
-
 - c) les actes et les contrats qui ont été passés par la collectivité de droit public;
-
 - d) les registres prévus par la législation;
-
 - e) les règlements en vigueur et les règlements abrogés.
 
 <sup>3</sup> Les modalités de conservation sont définies par la législation spéciale.
 
-### Chapitre 6: Taxes
+### 3.6 Taxes
 
 #### Art. 105
 
@@ -1146,11 +1084,9 @@ Le délai de référendum, la validité juridique et la date d'entrée en vigueu
 
 <sup>2</sup> Elles sont fixées dans un règlement déterminant au moins le montant maximal, le mode de perception et les personnes assujetties.
 
-### Titre 4: Accomplissement des tâches, collaboration et fusion
+## 4 Accomplissement des tâches, collaboration et fusion ou scission de communes
 
-ou scission de communes
-
-### Chapitre 1: Accomplissement des tâches
+### 4.1 Accomplissement des tâches
 
 #### Art. 106
 
@@ -1177,16 +1113,12 @@ ou scission de communes
 <sup>4</sup> La décision de délégation doit renfermer au moins:
 
 - a) la nature et l'étendue de la prestation à accomplir;
-
 - b) les moyens de financement;
-
 - c) la mention que la délégation a été approuvée par l'autorité compétente;
-
 - d) les obligations du délégataire quant aux renseignements à fournir;
-
 - e) la durée de la délégation et les modalités de surveillance et de résiliation.
 
-### Chapitre 2: Collaboration
+### 4.2 Collaboration
 
 #### Art. 108
 
@@ -1197,9 +1129,7 @@ ou scission de communes
 <sup>2</sup> La collaboration peut revêtir les formes suivantes:
 
 - a) une convention ou un contrat passé avec une autre commune, avec une association de communes de droit public ou de droit privé ou avec des tiers;
-
 - b) l'adhésion à une association existante de droit public ou de droit privé;
-
 - c) la constitution d'une association de droit public ou de droit privé ou d'une société mixte.
 
 #### Art. 109
@@ -1210,7 +1140,7 @@ ou scission de communes
 
 <sup>2</sup> Les mandats prennent fin à l'échéance de la période administrative communale. Ils peuvent être reconduits par les nouvelles autorités.
 
-### Section 1: Collaboration sur la base du droit public
+### 4.2.1 Collaboration sur la base du droit public
 
 #### Art. 110
 
@@ -1234,7 +1164,7 @@ ou scission de communes
 
 #### Art. 112
 
-<sup>3</sup> Convention intercommunale
+**Convention intercommunale**
 
 <sup>1</sup> Deux ou plusieurs communes peuvent conclure une convention pour l'exploitation d'un service public sans personnalité juridique ou de services administratifs.
 
@@ -1242,7 +1172,7 @@ ou scission de communes
 
 <sup>3</sup> Les différends surgissant entre les communes, dans le cadre de la convention, sont tranchés soit par le Tribunal cantonal, soit par le Conseil d'Etat, selon les compétences respectives, soit par arbitrage. Celui-ci est constitué selon les dispositions du code de procédure civile suisse appliqué par analogie.
 
-<sup>4</sup> Abrogé
+<sup>4</sup> …
 
 #### Art. 113
 
@@ -1252,11 +1182,11 @@ ou scission de communes
 
 <sup>2</sup> Il convient avec les cantons ou pays intéressés des règles applicables et approuve les accords de collaboration.
 
-### Section 2: Collaboration sur la base du droit privé
+### 4.2.2 Collaboration sur la base du droit privé
 
 #### Art. 114
 
-<sup>1</sup> Contrat
+**Contrat**
 
 <sup>1</sup> Sur la base d'un contrat de droit privé, les communes peuvent collaborer entre elles ou avec des tiers.
 
@@ -1272,7 +1202,7 @@ ou scission de communes
 
 <sup>3</sup> Les articles 75 et 84 de la présente loi sont applicables.
 
-### Section 3: Association de communes
+### 4.2.3 Association de communes
 
 #### Art. 116
 
@@ -1295,29 +1225,17 @@ ou scission de communes
 <sup>2</sup> Les statuts doivent notamment déterminer:
 
 - a) les communes membres de l'association;
-
 - b) le nom de l'association et le ou les buts poursuivis;
-
 - c) le siège de l'association;
-
 - d) les obligations et participations de chacune des communes membres;
-
 - e) les règles qui président à l'établissement des comptes, à leur révision et à la fixation du budget;
-
 - f) le nombre de délégués de chacune des communes membres compte tenu des intérêts représentés;
-
 - g) les modalités des convocations assurant à chaque commune la possibilité d'être représentée;
-
 - h) les compétences respectives, notamment en matière de nouveaux crédits, de l'assemblée des délégués et du comité, la procédure de leurs délibérations avec quorum éventuel;
-
 - i) la procédure de dissolution, ainsi que les conditions à observer pour le retrait d'un membre;
-
 - j) la répartition du patrimoine de l'association lors de sa dissolution, au cas où cette répartition se fait d'une manière différente de celle des bénéfices;
-
 - k) les conditions d'adhésion d'une nouvelle commune;
-
-- l) les modalités d'information des communes membres et des citoyens: budget, rapport annuel, publication des décisions, publicité des procès-verbaux de l'organe législatif de l'association;
-
+- l) les modalités d'information des communes membres et des citoyens: budget, comptes, rapport annuel, publication des décisions, publicité des procès-verbaux de l'organe législatif de l'association;
 - m) les règles essentielles ainsi que le montant à partir duquel les dépenses sont soumises au référendum facultatif.
 
 <sup>3</sup> La modification des statuts relève de la compétence de l'assemblée des délégués. Demeure réservé le référendum facultatif à l'encontre de la modification des règles essentielles définies par les statuts.
@@ -1334,12 +1252,10 @@ ou scission de communes
 
 **Organes**
 
-Les organes de l'association sont:
+<sup>1</sup> Les organes de l'association sont:
 
 - a) l'assemblée des délégués;
-
 - b) le comité de direction;
-
 - c) les réviseurs.
 
 #### Art. 120
@@ -1367,7 +1283,6 @@ Les organes de l'association sont:
 <sup>1</sup> Sont soumises au référendum facultatif les décisions concernant:
 
 - a) les modifications essentielles des statuts, définies par les statuts eux-mêmes;
-
 - b) les dépenses nettes supérieures au montant fixé par les statuts.
 
 <sup>2</sup> Les actes soumis au référendum sont affichés au pilier public des communes concernées avec la mention du délai référendaire et du lieu de dépôt de la demande et des signatures.
@@ -1378,7 +1293,7 @@ Les organes de l'association sont:
 
 <sup>1</sup> Un cinquième des communes membres qui s'expriment par leurs organes exécutifs ou un cinquième de l'ensemble des électeurs des communes concernées peuvent demander que les affaires mentionnées à l'article 122 soient soumises à la votation populaire dans la forme prévue par la législation régissant les élections et les votations.
 
-<sup>2</sup> Les statuts peuvent abaisser cette quote-part jusqu'à un dixième des électeurs ou à 1000 électeurs.
+<sup>2</sup> Les statuts peuvent abaisser cette quote-part jusqu'à un dixième des électeurs ou à 1'000 électeurs.
 
 <sup>3</sup> Pour le surplus, l'article 70 alinéas 5 à 7 est applicable par analogie.
 
@@ -1396,7 +1311,7 @@ Les organes de l'association sont:
 
 **Réviseurs**
 
-Les réviseurs sont désignés selon les statuts. Ceux-ci peuvent prévoir que les réviseurs de chacune des communes membres fonctionnent à tour de rôle. Les articles 84 et 85 sont applicables par analogie.
+<sup>1</sup> Les réviseurs sont désignés selon les statuts. Ceux-ci peuvent prévoir que les réviseurs de chacune des communes membres fonctionnent à tour de rôle. Les articles 84 et 85 sont applicables par analogie.
 
 #### Art. 126
 
@@ -1426,19 +1341,19 @@ Les réviseurs sont désignés selon les statuts. Ceux-ci peuvent prévoir que l
 
 <sup>3</sup> La liquidation est opérée par les soins des organes de l'association.
 
-### Chapitre 3: Fusion ou scission de communes
+### 4.3 Fusion ou scission de communes
 
-### Section 1: Mesures d'encouragement
+### 4.3.1 Mesures d'encouragement
 
 #### Art. 129
 
-<sup>4</sup> Moyen de financement
+**Moyen de financement**
 
-Le canton encourage la fusion de communes. Il peut, en particulier, y consacrer les ressources financières nécessaires tirées d'un fonds spécial créé à cet effet et alimenté notamment par le budget ordinaire.
+<sup>1</sup> Le canton encourage la fusion de communes. Il peut, en particulier, y consacrer les ressources financières nécessaires tirées d'un fonds spécial créé à cet effet et alimenté notamment par le budget ordinaire.
 
 #### Art. 130
 
-<sup>4</sup> Aide financière
+**Aide financière**
 
 <sup>1</sup> La participation financière du canton au projet de fusion est fixée par voie d'ordonnance. Celle-ci tient compte notamment du nombre de communes concernées par la fusion et de leur population.
 
@@ -1456,7 +1371,7 @@ Le canton encourage la fusion de communes. Il peut, en particulier, y consacrer 
 
 <sup>2</sup> Le canton accorde, sur demande, un soutien administratif et juridique à tout projet de fusion de communes. A cet effet, le Conseil d'Etat peut désigner un groupe de travail interdépartemental chargé de les seconder.
 
-### Section 2: Concept de fusion
+### 4.3.2 Concept de fusion
 
 #### Art. 132
 
@@ -1480,21 +1395,19 @@ Le canton encourage la fusion de communes. Il peut, en particulier, y consacrer 
 
 **Mesures de contraintes**
 
-Le canton supprime la péréquation à laquelle une commune a droit, lorsque celle-ci figure dans les propositions de fusions et qu'elle ne s'exécute pas dans un délai de 5 ans dès l'approbation par le Conseil d'Etat, et lorsque manifestement cette commune ne peut plus assumer ses obligations légales.
+<sup>1</sup> Le canton supprime la péréquation à laquelle une commune a droit, lorsque celle-ci figure dans les propositions de fusions et qu'elle ne s'exécute pas dans un délai de 5 ans dès l'approbation par le Conseil d'Etat, et lorsque manifestement cette commune ne peut plus assumer ses obligations légales.
 
 #### Art. 135
 
 **Fusion obligatoire**
 
-Le Grand Conseil peut contraindre deux ou plusieurs communes à fusionner dans l'une des hypothèses suivantes:
+<sup>1</sup> Le Grand Conseil peut contraindre deux ou plusieurs communes à fusionner dans l'une des hypothèses suivantes:
 
 - a) une décision négative à un projet de fusion met en danger leur pérennité financière;
-
 - b) une commune, seule, fait obstacle à une fusion alors que les communes avoisinantes ont donné leur accord pour une fusion plus importante;
-
 - c) une commune n'est plus en mesure d'assurer le fonctionnement des institutions, notamment quand elle ne peut repourvoir les postes devenus vacants à cause du nombre restreint d'habitants.
 
-### Section 3: Procédure de fusion
+### 4.3.3 Procédure de fusion
 
 #### Art. 136
 
@@ -1508,7 +1421,7 @@ Le Grand Conseil peut contraindre deux ou plusieurs communes à fusionner dans l
 
 **Consultation des assemblées primaires**
 
-En cas de projet de fusion, les conseils municipaux consultent les conseils généraux et les assemblées primaires au scrutin secret.
+<sup>1</sup> En cas de projet de fusion, les conseils municipaux consultent les conseils généraux et les assemblées primaires au scrutin secret.
 
 #### Art. 138
 
@@ -1540,13 +1453,10 @@ En cas de projet de fusion, les conseils municipaux consultent les conseils gén
 
 <sup>2</sup> En outre, elle permet un régime transitoire défini dans les limites ci-après:
 
-- a) La période transitoire prend fin, en principe, à l'expiration d'une période administrative en cours. En ce qui concerne les règlements en vigueur dans les diverses collectivités fusionnées, la période transitoire peut toutefois être prolongée jusqu'à la fin de la période suivante.
-
-- b) Le nombre des membres de l'organe exécutif peut dépasser celui prévu par la loi. Il peut atteindre l'effectif total des exécutifs des anciennes collectivités.
-
-- c) La fonction de président peut être, exceptionnellement, assumée alternativement pour la durée de la fin de la période administrative en cours.
-
-- d) Les règles contenues sous lettres b et c du présent article sont applicables, par analogie, aux conseillers généraux pour autant que toutes les communes dont la fusion est décidée disposent d'un conseil général.
+- a) la période transitoire prend fin, en principe, à l'expiration d'une période administrative en cours. En ce qui concerne les règlements en vigueur dans les diverses collectivités fusionnées, la période transitoire peut toutefois être prolongée jusqu'à la fin de la période suivante;
+- b) le nombre des membres de l'organe exécutif peut dépasser celui prévu par la loi. Il peut atteindre l'effectif total des exécutifs des anciennes collectivités;
+- c) la fonction de président peut être, exceptionnellement, assumée alternativement pour la durée de la fin de la période administrative en cours;
+- d) les règles contenues sous lettres b et c du présent article sont applicables, par analogie, aux conseillers généraux pour autant que toutes les communes dont la fusion est décidée disposent d'un conseil général.
 
 #### Art. 141
 
@@ -1555,15 +1465,10 @@ En cas de projet de fusion, les conseils municipaux consultent les conseils gén
 <sup>1</sup> Les collectivités concernées par une fusion peuvent régler contractuellement les conditions de la fusion et de la création de la nouvelle collectivité. Le contrat précise en particulier:
 
 - a) le calendrier;
-
 - b) le nom et les armoiries;
-
 - c) le transfert des organes et du personnel;
-
 - d) le transfert du patrimoine, des charges et des engagements;
-
 - e) les compétences pour clore les comptes et les affaires pendantes;
-
 - f) le régime transitoire.
 
 <sup>2</sup> Le contrat doit être approuvé par les assemblées primaires et par le Grand Conseil.
@@ -1580,9 +1485,9 @@ En cas de projet de fusion, les conseils municipaux consultent les conseils gén
 
 **Scission de communes**
 
-Les principes mentionnés aux articles 136ss sont applicables, par analogie, à la scission de communes.
+<sup>1</sup> Les principes mentionnés aux articles 136 et suivants sont applicables, par analogie, à la scission de communes.
 
-### Titre 5: Surveillance de l'Etat et protection juridique
+## 5 Surveillance de l'Etat et protection juridique
 
 #### Art. 144
 
@@ -1596,18 +1501,18 @@ Les principes mentionnés aux articles 136ss sont applicables, par analogie, à 
 
 **Organes**
 
-La surveillance des collectivités de droit public est effectuée par le Conseil d'Etat lui-même, par les instances désignées par lui ou par la loi.
+<sup>1</sup> La surveillance des collectivités de droit public est effectuée par le Conseil d'Etat lui-même, par les instances désignées par lui ou par la loi.
 
 #### Art. 146
 
-<sup>1</sup> Objets soumis à approbation
+**Objets soumis à approbation**
 
-Doivent être soumis à l'approbation du Conseil d'Etat:
+<sup>1</sup> Doivent être soumis à l'approbation du Conseil d'Etat:
 
 - a) tous les règlements à l'exception de ceux qui ont une portée purement interne;
-
-- b) à d) abrogés
-
+- b) …
+- c) …
+- d) …
 - e) l'octroi ou le transfert de concessions hydrauliques.
 
 #### Art. 147
@@ -1620,23 +1525,45 @@ Doivent être soumis à l'approbation du Conseil d'Etat:
 
 <sup>3</sup> L'autorité de surveillance ne peut modifier une disposition que si la commune, dans un délai raisonnable, n'a pas élaboré elle-même une disposition recevable.
 
-[^147-1]: Nouvelle teneur selon le ch. I de la RO/VS 2006, 2 et 1.02.2006 modification du 14.09.2005 198
+<sup>4</sup> Les communes peuvent soumettre leur projet de règlement au département compétent, pour examen préalable, avant l’approbation de l’assemblée primaire.
 
 #### Art. 148
 
-**Abrogé**[^147-1]
+**…**
+
+#### Art. 148a
+
+**Enquête officielle**
+
+<sup>1</sup> Le Conseil d’Etat peut ordonner au service cantonal compétent ou à un groupe de travail ad hoc qu’il désigne d’ouvrir une enquête officielle sur une collectivité de droit public lorsqu’il existe un soupçon fondé que la bonne administration de celle-ci est sérieusement menacée ou compromise par des actes illicites d’un de ses organes ou d'une autre manière.
+
+<sup>2</sup> L’organe chargé de l’enquête peut notamment:
+
+- a) demander la mise à disposition de tous documents officiels;
+- b) procéder à l’audition des membres des organes de la collectivité de droit public et du personnel de celle-ci;
+- c) requérir la collaboration de la police cantonale;
+- d) prendre toute autre mesure pour établir les faits.
+
+<sup>3</sup> Le Conseil d’Etat peut notamment:
+
+- a) en cas d’urgence, prendre toutes les mesures provisoires utiles;
+- b) donner à la collectivité de droit public des instructions visant à mettre fin à une situation illicite ou propres à rétablir le bon fonctionnement de ses organes et/ou de son administration;
+- c) prendre toute mesure nécessaire pour rétablir un état de fait conforme au droit;
+- d) ouvrir les procédures prévues par la loi, notamment adresser une sommation (art. 150 al. 1) ou un avertissement (art. 151 al. 1) aux organes de la collectivité de droit public.
+
+<sup>4</sup> Les frais d’intervention du Conseil d’Etat et de l’organe chargé de l’enquête peuvent être mis totalement ou partiellement à la charge de la collectivité de droit public.
 
 #### Art. 149
 
 **Assistance d'un expert**
 
-Lorsqu'une commune rencontre des difficultés importantes dans un domaine particulier, le Conseil d'Etat peut nommer un ou plusieurs experts, en principe à la charge de la commune, pour l'assister dans l'accomplissement de ses tâches. Il fixe les conditions d'engagement. La commune doit être entendue.
+<sup>1</sup> Lorsqu'une commune rencontre des difficultés importantes dans un domaine particulier, le Conseil d'Etat peut nommer un ou plusieurs experts, en principe à la charge de la commune, pour l'assister dans l'accomplissement de ses tâches. Il fixe les conditions d'engagement. La commune doit être entendue.
 
 #### Art. 150
 
 **Sanctions contre les collectivités**
 
-Lorsqu'une autorité d'une collectivité de droit public néglige d'entreprendre une tâche ou d'accomplir un acte prescrit impérativement par la loi, le Conseil d'Etat, après une sommation au moins, prend les mesures nécessaires ou charge un tiers de l'exécution de cette tâche, à la place et aux frais de la collectivité défaillante.
+<sup>1</sup> Lorsqu'une autorité d'une collectivité de droit public néglige d'entreprendre une tâche ou d'accomplir un acte prescrit impérativement par la loi, le Conseil d'Etat, après une sommation au moins, prend les mesures nécessaires ou charge un tiers de l'exécution de cette tâche, à la place et aux frais de la collectivité défaillante.
 
 #### Art. 151
 
@@ -1654,7 +1581,7 @@ Lorsqu'une autorité d'une collectivité de droit public néglige d'entreprendre
 
 **Recours**
 
-La collectivité de droit public peut interjeter recours auprès du Tribunal cantonal contre les décisions du Conseil d'Etat au sens des articles 150 et 151. Ce recours n'a pas d'effet suspensif.
+<sup>1</sup> La collectivité de droit public peut interjeter recours auprès du Tribunal cantonal contre les décisions du Conseil d'Etat au sens des articles 150 et 151. Ce recours n'a pas d'effet suspensif.
 
 #### Art. 153
 
@@ -1676,7 +1603,7 @@ La collectivité de droit public peut interjeter recours auprès du Tribunal can
 
 **Recours en matière de votation et d'élection**
 
-Pour les recours dirigés contre la légalité ou la validité d'une votation ou d'une élection, les prescriptions de la législation cantonale en cette matière sont applicables.
+<sup>1</sup> Pour les recours dirigés contre la légalité ou la validité d'une votation ou d'une élection, les prescriptions de la législation cantonale en cette matière sont applicables.
 
 #### Art. 156
 
@@ -1686,7 +1613,7 @@ Pour les recours dirigés contre la légalité ou la validité d'une votation ou
 
 <sup>2</sup> En outre, les dispositions et les décisions des autorités de surveillance, prises en violation de l'autonomie communale, peuvent être déférées au Tribunal cantonal.
 
-### Titre 6: Dispositions finales et transitoires
+## 6 Dispositions finales et transitoires
 
 #### Art. 157
 
@@ -1695,9 +1622,7 @@ Pour les recours dirigés contre la légalité ou la validité d'une votation ou
 <sup>1</sup> Sont abrogées:
 
 - a) toutes les dispositions contraires à la présente loi, notamment la loi sur le régime communal du 13 novembre 1980;
-
 - b) les articles 228, 230, 231, 233 et 234 de la loi fiscale du 10 mars 1976;
-
 - c) l'article 105 de la loi sur les élections et les votations du 17 mai 1972.
 
 <sup>2</sup> La présente loi et ses dispositions d'exécution sont applicables en lieu et place des dispositions qu'elles abrogent et auxquelles la législation en vigueur se réfère.
@@ -1706,21 +1631,7 @@ Pour les recours dirigés contre la légalité ou la validité d'une votation ou
 
 **Modification de loi**
 
-Est modifiée la loi fiscale du 10 mars 1976:
-
-#### Art. 232
-
-**VII. Décision d'imposition**
-
-<sup>1</sup> Le conseil municipal arrête:
-
-- a) le coefficient applicable aux taux prévus aux articles 178 et 179, ainsi que le montant de l'impôt personnel (art. 177);
-
-- b) le montant de l'impôt sur les chiens (art. 182);
-
-- c) le taux de l'intérêt rémunératoire (art. 193).
-
-<sup>2</sup> Dans les communes dotées d'un conseil général, le coefficient d'impôt est arrêté par celui-ci dans le cadre du budget.
+<sup>1</sup> Est modifiée la loi fiscale du 10 mars 1976.
 
 #### Art. 159
 
@@ -1738,7 +1649,7 @@ Est modifiée la loi fiscale du 10 mars 1976:
 
 **Modèle de règlement**
 
-Le Conseil d'Etat publie dans un délai d'une année dès l'entrée en vigueur de la présente loi, le modèle d'un règlement communal d'organisation.
+<sup>1</sup> Le Conseil d'Etat publie dans un délai d'une année dès l'entrée en vigueur de la présente loi, le modèle d'un règlement communal d'organisation.
 
 #### Art. 161
 
@@ -1748,23 +1659,4 @@ Le Conseil d'Etat publie dans un délai d'une année dès l'entrée en vigueur d
 
 <sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente loi.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 5février 2004.
-
-Le président du Grand Conseil: Jean-Paul Duroux Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Loi sur les communes (LCo) du 5 février RO/VS 2004, 24 et 01.07.2004
-
-**368**
-
-### 2004
-
-## Autres notes
-
-- [2] Nouvelle teneur selon le ch. II de la RO/VS 2008, 23 et 1.04.2008 modification de la loi sur les droits politiques 406 du 12.12.2007
-- [3] Nouvelle teneur selon l'art. 10 ch. 4 de la loi RO/VS 2010, 60 et 1.01.2011 d'application du code de procédure civile 390 suisse (LACPC) du 11.02.2009
-- [4] Nouvelle teneur selon ch. II/1 de la loi BO No 38/2011 01.01.2012 concernant la deuxième étape de la mise en oeuvre de la réforme de la pérequation financière et de la répartition des tâches entre la Confédération, le canton et les communes du 15.09.2011
-- [5] Nouvelle teneur selon l'art. 55 al. 2 de la loi BO No 39/2010; BO 01.01.2012 sur la protection civile (LPCi) du 10.09.2010 No 12/2011
+RCV BO/Abl. 10/2004, 26/2004

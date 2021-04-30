@@ -4,25 +4,26 @@ number: "175.1"
 title: Gemeindegesetz
 short: GemG
 language: de
-version: 2012-01-01
-corrected: 2017-09-04
+version: 2021-05-01
+valid_until: 2022-12-31
 version_adopted: 2011-09-15
 adopted: 2004-02-05
 in_force: 2004-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/175.1"
-pdf: "https://lex.vs.ch/api/de/versions/633/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2863/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gemeindegesetz (GemG)
+# Gemeindegesetz
 
-vom 5. Februar 2004
+(GemG)
+
+vom 05.02.2004 (Stand 01.05.2021)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 31 Absatz 1 Ziffer 1, 42 Absatz 1 und 75 Absätze 3 und 4 der Kantonsverfassung;
+eingesehen die Artikel 31 Absatz 1 Buchstabe a, 42 Absatz 1 und 75 Absätze 3 und 4 der Kantonsverfassung;
 
 auf Antrag des Staatsrates,
 
@@ -32,10 +33,9 @@ verordnet:
 
 **Geltungsbereich**
 
-<sup>1</sup> Das vorliegende Gesetz findet, unter Vorbehalt gegenteiliger Bestimmungen der Spezialgesetzgebung, Anwendung auf folgende öffentlichrechtliche Körperschaften, nachstehend als «öffentlichrechtliche Körperschaften» bezeichnet:
+<sup>1</sup> Das vorliegende Gesetz findet, unter Vorbehalt gegenteiliger Bestimmungen der Spezialgesetzgebung, Anwendung auf folgende öffentlichrechtliche Körperschaften, nachstehend als "öffentlichrechtliche Körperschaften" bezeichnet:
 
 - a) die Einwohnergemeinden;
-
 - b) die Burgergemeinden.
 
 <sup>2</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
@@ -50,11 +50,11 @@ verordnet:
 
 <sup>3</sup> Sie wählen ihre Behörden, ernennen ihre Angestellten und verwalten sich selbständig.
 
-### 1. Titel: Organisation
+## 1 Organisation
 
-### 1. Kapitel: Einwohnergemeinden
+### 1.1 Einwohnergemeinden
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+### 1.1.1 Allgemeine Bestimmungen
 
 #### Art. 3
 
@@ -73,7 +73,6 @@ verordnet:
 <sup>1</sup> In jeder Einwohnergemeinde hat es folgende Organe:
 
 - a) eine Urversammlung, als Beschlussfassungsorgan;
-
 - b) einen Gemeinderat, als Vollzugsorgan.
 
 <sup>2</sup> Die Urversammlung kann ausser in Wahlangelegenheiten durch den Generalrat ersetzt werden. Vorbehalten bleibt das in den Artikeln 68 und 69 des vorliegenden Gesetzes vorgesehene Referendum.
@@ -82,51 +81,37 @@ verordnet:
 
 **Name**
 
-Name und Wappen der Gemeinden können nur durch einen vom Staatsrat genehmigten Urversammlungsbeschluss geändert werden.
+<sup>1</sup> Name und Wappen der Gemeinden können nur durch einen vom Staatsrat genehmigten Urversammlungsbeschluss geändert werden.
 
 #### Art. 6
 
-<sup>5</sup> Befugnisse und Gebietshoheit
+**Befugnisse und Gebietshoheit**
 
-Unter Vorbehalt der kantonalen und eidgenössischen Gesetzgebung besitzt die Einwohnergemeinde namentlich folgende Befugnisse:
+<sup>1</sup> Unter Vorbehalt der kantonalen und eidgenössischen Gesetzgebung besitzt die Einwohnergemeinde namentlich folgende Befugnisse:
 
 - a) die Verwaltung und die Kontrolle der Gemeindefinanzen;
-
 - b) die Ortspolizei;
-
 - c) die Ortsplanung und das Bauwesen;
-
 - d) den Bau und Unterhalt der kommunalen Gebäude, Gassen, Strassen und Wege;
-
 - e) die Trinkwasserversorgung, die Ableitung und Behandlung der Abwasser, die Kehrichtbehandlung;
-
 - f) den Feuerschutz;
-
 - g) den Umweltschutz;
-
 - h) den Unterricht im Kindergarten, in den Primar- und Orientierungsschulen;
-
 - i) die Förderung der sozialen Wohlfahrt;
-
 - j) das Sozialhilfe- und Vormundschaftswesen;
-
 - k) die Förderung der kulturellen und sportlichen Tätigkeiten;
-
 - l) die Förderung der lokalen Wirtschaft;
-
 - m) die Energieversorgung;
-
 - n) die Einwohnerkontrolle;
-
 - o) der Entscheid von Massnahmen in eventuellen Notfällen für die Versorgung mit Energie, Nahrungsmitteln und anderen absolut notwendigen Produkten.
 
-### 2. Abschnitt: Organe
+### 1.1.2 Organe
 
-### 1. Unterabschnitt: Urversammlung
+### 1.1.2.1 Urversammlung
 
 #### Art. 7
 
-<sup>1</sup> Ordentliche Einberufung
+**Ordentliche Einberufung**
 
 <sup>1</sup> Jedes Jahr finden zwei Urversammlungen statt, eine vor dem 20. Dezember für die Globalgenehmigung des Voranschlags und eine vor dem 30. Juni für die Genehmigung der Rechnung.
 
@@ -140,7 +125,7 @@ Unter Vorbehalt der kantonalen und eidgenössischen Gesetzgebung besitzt die Ein
 
 <sup>1</sup> Der Präsident, der Gemeinderat oder wenigstens ein Fünftel der in der Gemeinde stimmfähigen Bürger können die Einberufung der Urversammlung verlangen, um einen Gegenstand zu prüfen, für den sie zuständig ist.
 
-<sup>2</sup> Das Begehren von einem Fünftel der Wähler wird schriftlich mit der Erwähnung der zu behandelnden Gegenstände eingereicht. Der Rückzug von Unterschriften ist unerheblich, wenn das Begehren einmal eingereicht ist.
+<sup>2</sup> Das Begehren von einem Fünftel der Wähler wird schriftlich mit der Erwähnung des zu behandelnden Gegenstands eingereicht. Der Rückzug von Unterschriften ist unerheblich, wenn das Begehren einmal eingereicht ist.
 
 <sup>3</sup> Die Gemeinden können diesen Ansatz mittels eines Organisationsreglements bis auf einen Zehntel herabsetzen.
 
@@ -150,7 +135,7 @@ Unter Vorbehalt der kantonalen und eidgenössischen Gesetzgebung besitzt die Ein
 
 <sup>1</sup> Die Urversammlungen werden mindestens 20 Tage vor dem Sitzungsdatum durch öffentlichen Anschlag einberufen.
 
-<sup>2</sup> Das kommunale Organisationsreglement kann zusätzliche Arten der Bekanntmachung vorsehen.
+<sup>2</sup> Der Gemeinderat oder das kommunale Organisationsreglement kann ergänzende Arten der Bekanntmachung vorsehen.
 
 #### Art. 10
 
@@ -160,7 +145,7 @@ Unter Vorbehalt der kantonalen und eidgenössischen Gesetzgebung besitzt die Ein
 
 <sup>2</sup> Die Versammlung kann sich nur über die in der Tagesordnung vorgesehenen Gegenstände gültig aussprechen. Über die anderen aufgeworfenen Fragen kann nur beraten werden, sofern die Versammlung es für zweckmässig erachtet.
 
-<sup>3</sup> In einer auf Begehren einberufenen ausserordentlichen Urversammlung müssen die in diesem Begehren erwähnten Gegenstände vorrangig behandelt werden.
+<sup>3</sup> In einer auf Begehren einberufenen ausserordentlichen Urversammlung muss der in diesem Begehren erwähnte Gegenstand vorrangig behandelt werden.
 
 <sup>4</sup> Mit Zustimmung der Versammlung kann der Gemeinderat einen Gegenstand von der Tagesordnung zurückziehen.
 
@@ -172,11 +157,19 @@ Unter Vorbehalt der kantonalen und eidgenössischen Gesetzgebung besitzt die Ein
 
 <sup>2</sup> Das Datum einer ausserordentlichen, auf Begehren einberufenen Urversammlung muss spätestens innert 30 Tagen vom Tag an gerechnet, an dem dieses Begehren gültig beim Präsidenten oder bei der Gemeindekanzlei eingereicht wurde, festgesetzt werden. Der Gesuchsteller kann eine Empfangsbescheinigung verlangen.
 
+#### Art. 11a
+
+**Öffentlichkeit**
+
+<sup>1</sup> Die Sitzungen der Urversammlung sind öffentlich. Die Versammlung kann den Ausschluss der Öffentlichkeit beschliessen, wenn ein überwiegendes öffentliches oder privates Interesse es verlangt.
+
+<sup>2</sup> Dritte, die der Urversammlung beiwohnen, sind so zu platzieren, dass sie den ordnungsgemässen Ablauf der Beratungen, insbesondere die genaue Feststellung des Abstimmungsergebnisses, nicht behindern. Sie sind nicht berechtigt, das Wort zu ergreifen, und haben sich angemessen zu verhalten. Widrigenfalls können sie des Saals verwiesen werden.
+
 #### Art. 12
 
 **Quorum**
 
-Die gültig einberufene Urversammlung ist unabhängig von der Zahl der an ihr teilnehmenden Bürger beschlussfähig. Im Übrigen sind die Bestimmungen der Gesetzgebung über die Wahlen und Abstimmungen anwendbar.
+<sup>1</sup> Die gültig einberufene Urversammlung ist unabhängig von der Zahl der an ihr teilnehmenden Bürger beschlussfähig. Im Übrigen sind die Bestimmungen der Gesetzgebung über die Wahlen und Abstimmungen anwendbar.
 
 #### Art. 13
 
@@ -188,11 +181,13 @@ Die gültig einberufene Urversammlung ist unabhängig von der Zahl der an ihr te
 
 #### Art. 14
 
-**Auflage von Reglementen**
+**Bereitstellung von Reglementen und anderen Dokumenten**
 
 <sup>1</sup> Die Reglemente, die der Urversammlung zur Zustimmung unterbreitet werden, müssen der Öffentlichkeit auf der Gemeindekanzlei unentgeltlich zur Verfügung stehen.
 
-<sup>2</sup> Der Gemeinderat kann überdies die Zustellung eines Exemplars des Reglements an jede Haushaltung der Stimmbürger oder an jeden Stimmberechtigten beschliessen.
+<sup>2</sup> Der Gemeinderat kann die Veröffentlichung des Reglementsentwurfs auf der Website der Gemeinde oder dessen Zustellung an jeden Haushalt der Stimmbürger oder an jeden Stimmberechtigten beschliessen.
+
+<sup>2<sup>bis</sup></sup> Für jeden Gegenstand, der der Urversammlung zur Genehmigung unterbreitet wird, stellt der Gemeinderat der Öffentlichkeit die nützlichen Informationen und Dokumente auf der Gemeindekanzlei und nach Möglichkeit auf der Website der Gemeinde unentgeltlich zur Verfügung. Erfolgt keine Veröffentlichung auf der Website, können die Bürger die nützlichen Informationen und Dokumente auf elektronischem Weg erhalten.
 
 <sup>3</sup> Die Auflage muss gleichzeitig mit der Einberufung zur Urversammlung erfolgen.
 
@@ -204,7 +199,7 @@ Die gültig einberufene Urversammlung ist unabhängig von der Zahl der an ihr te
 
 <sup>2</sup> Während der Auflagedauer der Rechnung hat jeder Stimmbürger Anspruch darauf, die Belege der Gemeinderechnung, mit Ausnahme der Steuerdossiers und unter Berücksichtigung der Bestimmungen des Datenschutzgesetzes, einzusehen.
 
-<sup>3</sup> Die Rechnung und der Voranschlag sind in zwei Exemplaren innert 60 Tagen nach Ablauf der Auflagefrist an das mit der Aufsicht über die Gemeindefinanzen beauftragte Departement zu überweisen.
+<sup>3</sup> Die Rechnung und der Voranschlag sind in zwei Exemplaren oder auf elektronischem Weg innert 60 Tagen nach deren Genehmigung durch die Urversammlung an das mit der Aufsicht über die Gemeindefinanzen beauftragte Departement zu überweisen.
 
 #### Art. 16
 
@@ -228,30 +223,20 @@ Die gültig einberufene Urversammlung ist unabhängig von der Zahl der an ihr te
 
 #### Art. 17
 
-<sup>1</sup> Unveräusserliche Befugnisse
+**Unveräusserliche Befugnisse**
 
 <sup>1</sup> Die Urversammlung berät und beschliesst:
 
 - a) die Annahme und die Abänderung aller kommunalen Reglemente, mit Ausnahme jener von rein interner Tragweite;
-
 - b) die Annahme des Voranschlags und der Rechnung;
-
-- c) den Beschluss einer neuen nichtgebundenen Ausgabe, deren Betrag höher ist als 5% der Bruttoeinnahmen des letzten Verwaltungsjahres, mindestens aber 10'000 Franken beträgt;
-
-- d) eine neue jährlich wiederkehrende, jedoch nicht gebundene Ausgabe, deren Betrag höher als 1% der Bruttoeinnahmen des letzten Verwaltungsjahres ist;
-
-- e) die Aufnahme der an eine Neuinvestition gebundenen Darlehen, deren Betrag 10% der Bruttoeinnahmen des letzten Verwaltungsjahres übersteigt; die Kontokorrentdarlehen für die Finanzierung der Ausgaben der laufenden Rechnung, deren kumulierter Höchstbetrag 25% der Bruttoeinnahmen des letzten Verwaltungsjahres übersteigt;
-
-- f) die Gewährung von Darlehen, Bürgschaften und analogen Garantien zu Lasten der Gemeinde, deren Betrag 5% der Bruttoeinnahmen des letzten Verwaltungsjahres übersteigt;
-
-- g) den Verkauf, Tausch, die Teilung von Immobilien, die Gewährung von beschränkten dinglichen Rechten, die Vermietung von Gütern, die Veräusserung von Kapitalien, deren Wert 5% der Bruttoeinnahmen des letzten Verwaltungsjahres übersteigt;
-
+- c) den Beschluss einer neuen nichtgebundenen Ausgabe, deren Betrag höher ist als 5 Prozent der Bruttoeinnahmen des letzten Verwaltungsjahres, mindestens aber 10'000 Franken beträgt;
+- d) eine neue jährlich wiederkehrende, jedoch nicht gebundene Ausgabe, deren Betrag höher als 1 Prozent der Bruttoeinnahmen des letzten Verwaltungsjahres ist;
+- e) die Aufnahme der an eine neue Ausgabe gebundenen Darlehen, deren Betrag 10 Prozent der Bruttoeinnahmen des letzten Verwaltungsjahres übersteigt; die Kontokorrentdarlehen für die Finanzierung des Aufwandes der laufenden Rechnung, deren kumulierter Höchstbetrag 25 Prozent der Bruttoeinnahmen des letzten Verwaltungsjahres übersteigt;
+- f) die Gewährung von Darlehen, Bürgschaften und analogen Garantien zu Lasten der Gemeinde, deren Betrag 5 Prozent der Bruttoeinnahmen des letzten Verwaltungsjahres übersteigt;
+- g) den Verkauf, Tausch, die Teilung von Immobilien, die Gewährung von beschränkten dinglichen Rechten, die Vermietung von Gütern, die Veräusserung von Kapitalien, deren Wert 5 Prozent der Bruttoeinnahmen des letzten Verwaltungsjahres übersteigt;
 - h) die Fusion oder Trennung von Gemeinden und die kommunalen Grenzbereinigungen, unter Vorbehalt der Befugnisse des Grossen Rates;
-
 - i) den Beitritt zu einem Gemeindeverband und die Übertragung öffentlicher Aufgaben an gemischtwirtschaftliche oder private Organisationen;
-
 - j) die Verleihung oder die Übertragung von Wasserkraftkonzessionen;
-
 - k) Geschäfte, die ihr durch gesetzliche Sondervorschriften zugewiesen werden.
 
 <sup>2</sup> Die Gemeinden können über das Organisationsreglement die im Absatz 1 Buchstaben c, d, e, f und g vorgesehenen Ansätze um höchstens 50% reduzieren und der Urversammlung im Rahmen der Gemeindeautonomie weitere Befugnisse übertragen.
@@ -272,15 +257,15 @@ Die gültig einberufene Urversammlung ist unabhängig von der Zahl der an ihr te
 
 **Fälle von höherer Gewalt**
 
-Wenn die Einberufung der Urversammlung durch höhere Gewalt (Krieg, Naturkatastrophen, Epidemien usw.) verhindert wird, ist der Gemeinderat zuständig, um über die unaufschiebbaren Angelegenheiten zu beschliessen.
+<sup>1</sup> Wenn die Einberufung der Urversammlung durch höhere Gewalt (Krieg, Naturkatastrophen, Epidemien usw.) verhindert wird, ist der Gemeinderat zuständig, um über die unaufschiebbaren Angelegenheiten zu beschliessen.
 
-### 2. Unterabschnitt: Generalrat
+### 1.1.2.2 Generalrat
 
 #### Art. 20
 
 **Grundsatz**
 
-Alle Gemeinden, deren Bevölkerung 700 Einwohner übersteigt, können einen Generalrat wählen.
+<sup>1</sup> Alle Gemeinden, deren Bevölkerung 700 Einwohner übersteigt, können einen Generalrat wählen.
 
 #### Art. 21
 
@@ -289,11 +274,8 @@ Alle Gemeinden, deren Bevölkerung 700 Einwohner übersteigt, können einen Gene
 <sup>1</sup> Die Zahl der Mitglieder des Generalrats wird auf der Grundlage der letzten eidgenössischen Volkszählung wie folgt festgesetzt:
 
 - a) bis zu 1'000 Einwohner: 20 Mitglieder;
-
 - b) von 1'001 bis 5'000 Einwohner: 30 Mitglieder;
-
 - c) von 5'001 bis 10'000 Einwohner: 45 Mitglieder;
-
 - d) ab 10'001 Einwohner: 60 Mitglieder.
 
 <sup>2</sup> Das kommunale Organisationsreglement kann die Zahl der Mitglieder des Generalrats frei zwischen 20 und 80 festlegen.
@@ -307,6 +289,8 @@ Alle Gemeinden, deren Bevölkerung 700 Einwohner übersteigt, können einen Gene
 <sup>2</sup> Er versammelt sich überdies jedes Mal, wenn es der Gemeinderat als notwendig erachtet oder auf Begehren von wenigstens einem Fünftel der Generalräte.
 
 <sup>3</sup> Die Einladung muss die Tagesordnung und die Dokumente betreffend die zu behandelnden Gegenstände enthalten.
+
+<sup>4</sup> Die Einladung und die dazugehörigen Dokumente werden der Öffentlichkeit auf der Gemeindekanzlei und nach Möglichkeit auf der Website der Gemeinde unentgeltlich zur Verfügung gestellt.
 
 #### Art. 23
 
@@ -340,13 +324,13 @@ Alle Gemeinden, deren Bevölkerung 700 Einwohner übersteigt, können einen Gene
 
 **Öffentlichkeit**
 
-Die Sitzungen des Generalrats sind öffentlich. Die Versammlung kann jedoch, sofern es die Umstände erfordern, den Ausschluss der Öffentlichkeit beschliessen. Im Falle des Ausschlusses der Öffentlichkeit müssen sich alle Personen, die nicht eine amtliche Funktion im Saal ausüben, zurückziehen.
+<sup>1</sup> Die Sitzungen des Generalrats sind öffentlich. Die Versammlung kann jedoch, sofern es die Umstände erfordern, den Ausschluss der Öffentlichkeit beschliessen. Im Falle des Ausschlusses der Öffentlichkeit müssen sich alle Personen, die nicht eine amtliche Funktion im Saal ausüben, zurückziehen.
 
 #### Art. 27
 
 **Teilnahme des Gemeinderats**
 
-Die Mitglieder des Gemeinderats nehmen an den Sitzungen des Generalrats mit beratender Stimme teil. Sie können sich von Beamten begleiten lassen.
+<sup>1</sup> Die Mitglieder des Gemeinderats nehmen an den Sitzungen des Generalrats mit beratender Stimme teil. Sie können sich von Beamten begleiten lassen.
 
 #### Art. 28
 
@@ -360,14 +344,11 @@ Die Mitglieder des Gemeinderats nehmen an den Sitzungen des Generalrats mit bera
 
 **Reglement**
 
-Der Generalrat beschliesst ein Reglement, das namentlich folgende Gegenstände regelt:
+<sup>1</sup> Der Generalrat beschliesst ein Reglement, das namentlich folgende Gegenstände regelt:
 
 - a) die Zusammensetzung des Büros;
-
 - b) das Verfahren der Verhandlungen;
-
 - c) die Kommissionen und ihren Status;
-
 - d) die Entschädigungen.
 
 #### Art. 30
@@ -377,18 +358,17 @@ Der Generalrat beschliesst ein Reglement, das namentlich folgende Gegenstände r
 <sup>1</sup> Der Generalrat wählt zu Beginn jeder Verwaltungsperiode eine Kommission, welche den Voranschlag, die Rechnung und die Geschäftsführung des Gemeinderats prüft. Diese kontrolliert namentlich:
 
 - a) die zweckmässige Verwendung der veranschlagten Kredite;
-
 - b) die Nachtragskredite.
 
 <sup>2</sup> Die Kommission erstattet dem Generalrat anlässlich der Budget- und Rechnungsversammlungen sowie der zur Gewährung von Nachtragskrediten einberufenen Versammlungen Bericht.
 
 #### Art. 31
 
-<sup>1</sup> Befugnisse
+**Befugnisse**
 
 <sup>1</sup> Der Generalrat hat die gleichen Befugnisse, die vom Artikel 17 des vorliegenden Gesetzes und durch die Spezialgesetzgebung der Urversammlung übertragen werden.
 
-<sup>2</sup> Er ist überdies für die Genehmigung des Steuerkoeffizienten und der Nachtragskredite zuständig, sofern diese letzteren die in der budgetierten Rubrik vorgesehene Ausgabe um 10% übersteigen.
+<sup>2</sup> Er ist überdies für die Genehmigung des Steuerkoeffizienten und der Nachtragskredite zuständig, sofern diese letzteren die in der budgetierten Rubrik vorgesehene Ausgabe um 10 Prozent übersteigen.
 
 <sup>3</sup> Das kommunale Organisationsreglement kann die rubrikweise Abstimmung über den Voranschlag vorsehen, mit Ausnahme der gebundenen Ausgaben.
 
@@ -402,9 +382,9 @@ Der Generalrat beschliesst ein Reglement, das namentlich folgende Gegenstände r
 
 <sup>1</sup> Jedes Generalratsmitglied kann eine Motion einreichen. Diese muss von wenigstens zwei Mitunterzeichnern unterstützt werden. Der Vorschlag muss den Anforderungen entsprechen, welche das Initiativrecht auf Gemeindeebene regeln. Im Falle der Annahme durch den Generalrat verpflichtet die Motion den Gemeinderat, die entsprechenden reglementarischen Vorschläge zu unterbreiten.
 
-<sup>2</sup> Überdies kann jedes Mitglied des Generalrats den Gemeinderat über seine Verwaltung befragen und Postulate einreichen. Werden diese letzteren vom Generalrat angenommen, verpflichten sie den Gemeinderat, eine bestimmte Frage zu prüfen und einen Bericht mit Schlussfolgerungen zu erstatten.
+<sup>2</sup> Überdies kann jedes Mitglied des Generalrats den Gemeinderat über seine Verwaltung befragen und Postulate einreichen. Werden letztere vom Generalrat angenommen, verpflichten sie den Gemeinderat, eine bestimmte Frage zu prüfen und einen Bericht mit Schlussfolgerungen zu erstatten. Die Abstimmung über den Bericht und die Schlussfolgerungen kann von ihren Verfassern verlangt werden.
 
-### 3. Unterabschnitt: Gemeinderat
+### 1.1.2.3 Gemeinderat
 
 #### Art. 33
 
@@ -418,33 +398,28 @@ Der Generalrat beschliesst ein Reglement, das namentlich folgende Gegenstände r
 
 **Anzahl Mitglieder**
 
-Der Gemeinderat besteht aus mindestens drei und höchstens 15 Mitgliedern, wobei diese Zahl immer ungerade sein muss.
+<sup>1</sup> Der Gemeinderat besteht aus mindestens drei und höchstens 15 Mitgliedern, wobei diese Zahl immer ungerade sein muss.
 
 #### Art. 35
 
-<sup>1</sup> Befugnisse
+**Befugnisse**
 
 <sup>1</sup> Die Befugnisse des Gemeinderats werden in den von der Gesetzgebung bestimmten Grenzen ausgeübt.
 
 <sup>2</sup> Sie betreffen namentlich:
 
 - a) die Verwaltung der öffentlichen Dienste;
-
 - b) die Verwaltung des Gemeindevermögens, diejenige des öffentlichen Eigentums und der für die öffentlichen Dienste bestimmten Vermögenswerte;
-
 - c) die Ernennung der Beamten und der Angestellten der Gemeinde, die Festsetzung ihres Dienstverhältnisses und die Ausübung der Disziplinargewalt;
-
 - d) die Ausarbeitung des Voranschlags, die Finanzhaushaltführung und die Erstellung der Rechnung;
-
 - e) die Führung der laufenden Geschäfte;
-
 - f) die ihm durch das Gesetz direkt übertragenen Befugnisse.
 
 #### Art. 36
 
 **Vollamtlichkeit**
 
-Auf dem Wege des kommunalen Organisationsreglements kann die Vollamtlichkeit, sowohl für den Präsidenten wie für alle Mitglieder des Gemeinderats eingeführt werden. Im letzteren Fall darf die Zahl der Ratsmitglieder nicht höher als fünf sein.
+<sup>1</sup> Auf dem Wege des kommunalen Organisationsreglements kann die Vollamtlichkeit, sowohl für den Präsidenten wie für alle Mitglieder des Gemeinderats eingeführt werden. Im letzteren Fall darf die Zahl der Ratsmitglieder nicht höher als fünf sein.
 
 #### Art. 37
 
@@ -480,7 +455,7 @@ Auf dem Wege des kommunalen Organisationsreglements kann die Vollamtlichkeit, so
 
 **Quorum**
 
-Der Gemeinderat kann nur gültig beraten, wenn die Zahl der anwesenden Mitglieder die absolute Mehrheit der Gesamtzahl seiner Mitglieder ausmacht.
+<sup>1</sup> Der Gemeinderat kann nur gültig beraten, wenn die Zahl der anwesenden Mitglieder die absolute Mehrheit der Gesamtzahl seiner Mitglieder ausmacht.
 
 #### Art. 41
 
@@ -502,7 +477,7 @@ Der Gemeinderat kann nur gültig beraten, wenn die Zahl der anwesenden Mitgliede
 
 <sup>2</sup> Überdies sind die Artikel 87 bis 90 und 94 bis 96 des vorliegenden Gesetzes anwendbar.
 
-### 4. Unterabschnitt: Präsident
+### 1.1.2.4 Präsident
 
 #### Art. 43
 
@@ -515,19 +490,12 @@ Der Gemeinderat kann nur gültig beraten, wenn die Zahl der anwesenden Mitgliede
 <sup>3</sup> Er ist namentlich in folgenden Fällen zuständig:
 
 - a) er präsidiert den Gemeinderat und die Urversammlung;
-
 - b) er ordnet den Vollzug der Beschlüsse des Gemeinderats an;
-
 - c) er bewirtschaftet die Post der Gemeinde;
-
 - d) er überwacht die Redaktion und Führung des Protokolls;
-
 - e) er wacht über die Vollziehung der kantonalen und eidgenössischen Gesetzgebung und der Gemeindereglemente;
-
 - f) er ist für die Ordnung in der Gemeinde besorgt;
-
 - g) er nimmt die Petitionen und die Begehren entgegen, bestätigt deren Empfang und übermittelt sie anlässlich der ersten auf ihren Erhalt folgenden Sitzung dem zuständigen Organ;
-
 - h) er trifft die durch die Umstände gebotenen dringlichen Massnahmen im Falle höherer Gewalt (Krieg, Naturkatastrophen, Epidemien usw.).
 
 #### Art. 44
@@ -540,13 +508,13 @@ Der Gemeinderat kann nur gültig beraten, wenn die Zahl der anwesenden Mitgliede
 
 <sup>3</sup> Der Vizepräsident ist nur auf Weisung des Präsidenten oder gegebenenfalls des Staatsrats berechtigt, den Gemeinderat einzuberufen und zu präsidieren.
 
-### 5. Unterabschnitt: Kommissionen
+### 1.1.2.5 Kommissionen
 
 #### Art. 45
 
 **Grundsatz**
 
-Den Gemeinden steht es frei, nebst den von der Spezialgesetzgebung vorgeschriebenen Kommissionen, ständige oder nichtständige Kommissionen einzusetzen.
+<sup>1</sup> Den Gemeinden steht es frei, nebst den von der Spezialgesetzgebung vorgeschriebenen Kommissionen, ständige oder nichtständige Kommissionen einzusetzen.
 
 #### Art. 46
 
@@ -562,15 +530,15 @@ Den Gemeinden steht es frei, nebst den von der Spezialgesetzgebung vorgeschriebe
 
 <sup>5</sup> Wenn es die Gesetzgebung nicht ausschliesst, können die kommunalen Organisationsreglemente die Delegation von Kompetenzen an Kommissionen vorsehen.
 
-### 6. Unterabschnitt: Revisionsinstanzen
+### 1.1.2.6 Revisionsinstanzen
 
 #### Art. 47
 
 **Grundsatz**
 
-Die Revisionsinstanzen sind diejenigen, die in Artikel 83 des vorliegenden Gesetzes vorgesehen sind.
+<sup>1</sup> Die Revisionsinstanzen sind diejenigen, die in Artikel 83 des vorliegenden Gesetzes vorgesehen sind.
 
-### 2. Kapitel: Burgergemeinden
+### 1.2 Burgergemeinden
 
 #### Art. 48
 
@@ -587,27 +555,21 @@ Die Revisionsinstanzen sind diejenigen, die in Artikel 83 des vorliegenden Geset
 <sup>1</sup> Die Befugnisse der Burgergemeinde sind folgende:
 
 - a) die Verleihung des Burgerrechts im Sinne der Gesetzgebung über das Burgerrecht;
-
 - b) die Verleihung des Ehrenburgerrechts;
-
 - c) die Nachführung des Verzeichnisses der Burger;
-
 - d) die Verwaltung ihres Vermögens;
-
 - e) die Erbringung von Dienstleistungen und die Entrichtung der von den Spezialgesetzen festgesetzten Beiträge;
-
 - f) die Verwirklichung, im Rahmen ihrer Möglichkeiten, von Werken öffentlichen Nutzens.
 
 <sup>2</sup> Die Grundsätze der Verwaltung und Nutzung des Burgervermögens werden durch das Gesetz festgesetzt.
 
 #### Art. 50
 
-<sup>1</sup> Organisation
+**Organisation**
 
 <sup>1</sup> Die Organe der Burgergemeinden sind:
 
 - a) die Burgerversammlung, als Beschlussfassungsorgan;
-
 - b) der Burgerrat, als Vollzugsorgan, von drei bis höchstens neun Mitgliedern, wobei diese Zahl immer ungerade ist.
 
 <sup>2</sup> Die Burgerversammlung tritt wenigstens einmal im Jahr zusammen. Die Genehmigung des Voranschlags und der Rechnung kann in der gleichen Versammlung erfolgen, die aber vor dem 31. März abgehalten werden muss.
@@ -622,19 +584,19 @@ Die Revisionsinstanzen sind diejenigen, die in Artikel 83 des vorliegenden Geset
 
 #### Art. 52
 
-<sup>2</sup> Getrennter Burgerrat
+**Getrennter Burgerrat**
 
-Im Jahre der Erneuerung der Gemeindebehörden, spätestens aber am 1. Mai des Wahljahres, kann ein Fünftel der in Burgerangelegenheiten Stimmberechtigten bei der Gemeindekanzlei ein Begehren einreichen, welches die Bildung eines getrennten Burgerrates verlangt. Der Gemeinderat lässt die Stimmliste der Burger erstellen und bereitet gemäss der Gesetzgebung über die Wahlen und Abstimmungen die Abstimmung und die darauf folgenden Wahlen vor.
+<sup>1</sup> Im Jahre der Erneuerung der Gemeindebehörden, spätestens aber am 1. Mai des Wahljahres, kann ein Fünftel der in Burgerangelegenheiten Stimmberechtigten bei der Gemeindekanzlei ein Begehren einreichen, das die Bildung eines getrennten Burgerrates verlangt. Das Gesuch muss die gewünschte Zahl der Burgerräte nennen. Der Gemeinderat organisiert die Abstimmung und die darauffolgenden Wahlen gemäss der Gesetzgebung über die Wahlen und Abstimmungen.
 
 #### Art. 53
 
 **Fusion**
 
-Zwei oder mehrere Burgergemeinden können fusionieren, selbst wenn die betreffenden Einwohnergemeinden nicht fusionieren.
+<sup>1</sup> Zwei oder mehrere Burgergemeinden können fusionieren, selbst wenn die betreffenden Einwohnergemeinden nicht fusionieren.
 
 #### Art. 54
 
-Mehrheit von Burgergemeinden auf dem Gebiet einer einzigen Einwohnergemeinde
+**Mehrheit von Burgergemeinden auf dem Gebiet einer einzigen Einwohnergemeinde**
 
 <sup>1</sup> Bestehen auf dem Gebiet einer einzigen Einwohnergemeinde zwei oder mehrere Burgergemeinden, so erfüllt jede Burgergemeinde bei der Einwohnergemeinde die Aufgaben und entrichtet die Beiträge, zu denen sie von Gesetzes wegen verpflichtet ist.
 
@@ -644,35 +606,35 @@ Mehrheit von Burgergemeinden auf dem Gebiet einer einzigen Einwohnergemeinde
 
 **Anzeige einer Fusion**
 
-Liegt ein Projekt zur Fusion von Burgergemeinden ohne Fusion der betreffenden Einwohnergemeinden vor, benachrichtigen die Burgerräte davon unverzüglich die Einwohnerräte.
+<sup>1</sup> Liegt ein Projekt zur Fusion von Burgergemeinden ohne Fusion der betreffenden Einwohnergemeinden vor, benachrichtigen die Burgerräte davon unverzüglich die Einwohnerräte.
 
 #### Art. 56
 
 **Erfüllung gesetzlicher Verpflichtungen**
 
-Den Burgergemeinden steht es frei, mit den Einwohnergemeinden Vereinbarungen abzuschliessen, um ihre gesetzlichen Verpflichtungen zu regeln.
+<sup>1</sup> Den Burgergemeinden steht es frei, mit den Einwohnergemeinden Vereinbarungen abzuschliessen, um ihre gesetzlichen Verpflichtungen zu regeln.
 
 #### Art. 57
 
 **Vertretung in den regionalen Organisationen**
 
-Die Burgergemeinden haben einen Anspruch auf eine angemessene Vertretung in den regionalen Institutionen in dem Mass, als sie hierfür ein Interesse nachweisen können.
+<sup>1</sup> Die Burgergemeinden haben einen Anspruch auf eine angemessene Vertretung in den regionalen Institutionen in dem Mass, als sie hierfür ein Interesse nachweisen können.
 
 #### Art. 58
 
 **Burgervermögen**
 
-Das Burgervermögen, das vor der Organisation der Einwohnergemeinde dem öffentlichen Dienst zugeteilt war und das nachher in das Eigentum oder das Nutzungsrecht der Einwohnergemeinde überging, wird durch die Spezialgesetzgebung bestimmt.
+<sup>1</sup> Das Burgervermögen, das vor der Organisation der Einwohnergemeinde dem öffentlichen Dienst zugeteilt war und das nachher in das Eigentum oder das Nutzungsrecht der Einwohnergemeinde überging, wird durch die Spezialgesetzgebung bestimmt.
 
-### 2. Titel: Politische Rechte
+## 2 Politische Rechte
 
-### 1. Kapitel: Initiative
+### 2.1 Initiative
 
 #### Art. 59
 
 **Grundsatz**
 
-Die Einwohnergemeinden haben bezüglich der Reglemente, die in die Zuständigkeit der Urversammlung oder des Generalrats fallen, die Befugnis, das Initiativrecht einzuführen.
+<sup>1</sup> Die Einwohnergemeinden haben bezüglich der Reglemente, die in die Zuständigkeit der Urversammlung oder des Generalrats fallen, die Befugnis, das Initiativrecht einzuführen.
 
 #### Art. 60
 
@@ -696,7 +658,7 @@ Die Einwohnergemeinden haben bezüglich der Reglemente, die in die Zuständigkei
 
 **Aufhebung**
 
-Das einmal eingeführte Initiativrecht bleibt bis zu seiner Aufhebung bestehen. Das Begehren und der Beschluss für dessen Aufhebung werden gemäss den Artikeln 60 und 61 des vorliegenden Gesetzes behandelt.
+<sup>1</sup> Das einmal eingeführte Initiativrecht bleibt bis zu seiner Aufhebung bestehen. Das Begehren und der Beschluss für dessen Aufhebung werden gemäss den Artikeln 60 und 61 des vorliegenden Gesetzes behandelt.
 
 #### Art. 63
 
@@ -742,24 +704,20 @@ Das einmal eingeführte Initiativrecht bleibt bis zu seiner Aufhebung bestehen. 
 
 **Abstimmung**
 
-Die zulässigen Initiativen müssen innert sechs Monaten nach Inkrafttreten des Zulässigkeitsentscheids gemäss Artikel 66 der Abstimmung unterbreitet werden.
+<sup>1</sup> Die zulässigen Initiativen müssen innert sechs Monaten nach Inkrafttreten des Zulässigkeitsentscheids gemäss Artikel 66 der Abstimmung unterbreitet werden.
 
-### 2. Kapitel: Referendum
+### 2.2 Referendum
 
 #### Art. 68
 
-<sup>1</sup> Obligatorisches Referendum
+**Obligatorisches Referendum**
 
 <sup>1</sup> Dem geheimen Urnengang in der von der Gesetzgebung über die Wahlen und Abstimmungen vorgesehenen Form sind unterworfen:
 
 - a) das kommunale Organisationsreglement;
-
 - b) die Einführung des Initiativrechts;
-
 - c) der Beschluss über Initiativen, die vom Generalrat verworfen wurden;
-
 - d) die Vormeinung zur Fusion, beziehungsweise zum Fusionsvertrag, oder Trennung von Gemeinden;
-
 - e) die Abänderung des Namens und des Wappens der Gemeinden.
 
 <sup>2</sup> Das kommunale Organisationsreglement kann weitere in Artikel 17 vorgesehene Geschäfte dem obligatorischen Referendum unterstellen, mit Ausnahme des Voranschlags und der Rechnung.
@@ -791,14 +749,12 @@ Die zulässigen Initiativen müssen innert sechs Monaten nach Inkrafttreten des 
 <sup>6</sup> Die Liste der Unterzeichner muss beinhalten:
 
 - a) die Bezeichnung des dem Referendum unterworfenen Geschäfts;
-
 - b) den Ablauf der Frist für die Hinterlegung der Unterschriften;
-
 - c) den Hinweis, dass das Referendumsbegehren nicht zurückgezogen werden kann.
 
 <sup>7</sup> Der Stimmbürger muss auf der Liste seinen Namen, Vornamen, Geburtsjahr und Adresse, sowie seine Unterschrift handschriftlich und leserlich anbringen.
 
-### 3. Kapitel: Petition
+### 2.3 Petition
 
 #### Art. 71
 
@@ -830,9 +786,9 @@ Die zulässigen Initiativen müssen innert sechs Monaten nach Inkrafttreten des 
 
 <sup>3</sup> Der Beschluss kann nicht mit einer ordentlichen Beschwerde angefochten werden. Vorbehalten bleiben die Bestimmungen der Sondergesetzgebung und die staatsrechtliche Beschwerde an das Bundesgericht.
 
-### 3. Titel: Finanzen und Rechnungswesen
+## 3 Finanzen und Rechnungswesen
 
-### 1. Kapitel: Begriffsbestimmungen und Finanzgrundsätze
+### 3.1 Begriffsbestimmungen und Finanzgrundsätze
 
 #### Art. 74
 
@@ -878,7 +834,7 @@ Die zulässigen Initiativen müssen innert sechs Monaten nach Inkrafttreten des 
 
 **Interne Kontrolle**
 
-Die interne Kontrolle wird im Verhältnis zum Volumen der Einnahmen und Ausgaben organisiert. Sie wird unter der Verantwortung des Gemeinderats ausgeübt, der sich vergewissern muss, dass die bereitgestellten Verfahren eine zweckmässige Prüfung der Einnahmen und Ausgaben sicherstellen.
+<sup>1</sup> Die interne Kontrolle wird im Verhältnis zum Volumen der Einnahmen und Ausgaben organisiert. Sie wird unter der Verantwortung des Gemeinderats ausgeübt, der sich vergewissern muss, dass die bereitgestellten Verfahren eine zweckmässige Prüfung der Einnahmen und Ausgaben sicherstellen.
 
 #### Art. 79
 
@@ -900,15 +856,15 @@ Die interne Kontrolle wird im Verhältnis zum Volumen der Einnahmen und Ausgaben
 
 **Bilanzfehlbetrag**
 
-Im Fall eines Bilanzfehlbetrages, erarbeitet die Gemeinde einen Finanzplan mit Sanierungsmassnahmen, die der Urversammlung oder dem Generalrat und dem zuständigen kantonalen Departement zur Kenntnis zu bringen sind.
+<sup>1</sup> Im Fall eines Bilanzfehlbetrages, erarbeitet die Gemeinde einen Finanzplan mit Sanierungsmassnahmen, die der Urversammlung oder dem Generalrat und dem zuständigen kantonalen Departement zur Kenntnis zu bringen sind.
 
 #### Art. 82
 
 **Sanierungsmassnahmen**
 
-Ist das Gleichgewicht der Gemeindefinanzen auf Dauer nach den Artikeln 80 und 81 nicht sichergestellt, ernennt der Staatsrat auf Kosten der Gemeinde und nachdem die Gemeinde angehört wurde, einen Beauftragten, der einen Finanzplan ausarbeitet und Sanierungsmassnahmen vorschlägt.
+<sup>1</sup> Ist das Gleichgewicht der Gemeindefinanzen auf Dauer nach den Artikeln 80 und 81 nicht sichergestellt, ernennt der Staatsrat auf Kosten der Gemeinde und nachdem die Gemeinde angehört wurde, einen Beauftragten, der einen Finanzplan ausarbeitet und Sanierungsmassnahmen vorschlägt.
 
-### 2. Kapitel: Rechnungsprüfung
+### 3.2 Rechnungsprüfung
 
 #### Art. 83
 
@@ -946,27 +902,20 @@ Ist das Gleichgewicht der Gemeindefinanzen auf Dauer nach den Artikeln 80 und 81
 
 **Verordnung**
 
-Der Staatsrat erlässt auf dem Verordnungsweg die Bestimmungen zur Ausführung der vorgenannten Grundsätze.
+<sup>1</sup> Der Staatsrat erlässt auf dem Verordnungsweg die Bestimmungen zur Ausführung der vorgenannten Grundsätze.
 
-Er bestimmt namentlich:
+<sup>2</sup> Er bestimmt namentlich:
 
 - a) das mit der Aufsicht über die Gemeindefinanzen beauftragte Departement;
-
 - b) die Vorschriften bezüglich der Finanzhaushaltsführung der Gemeinden, die Rechnungsführung, die Aufgaben und Voraussetzungen der Befähigung der Revisoren;
-
 - c) die Vorschriften über die Mindestabschreibungen und die Regeln für die Bewertung der Vermögenswerte;
-
 - d) die Bruttoeinnahmen, die neuen nichtgebundenen Ausgaben und die gebundenen Ausgaben;
-
 - e) die Ausbildung und die Information, welche an die Revisoren und an die Personen zu geben sind, die mit der Finanzhaushaltsführung beauftragt sind;
-
 - f) die Art der Bekanntgabe der Ergebnisse seiner Tätigkeiten auf dem Gebiet der Gemeindeaufsicht;
-
 - g) die Veröffentlichung der Statistik der Gemeindefinanzen;
-
 - h) die Vorschriften bezüglich der von der Aufsichtsbehörde zu treffenden Massnahmen, falls das Finanzgleichgewicht gefährdet ist oder Versäumnisse in der Führung der Buchhaltung auftreten.
 
-### 3. Kapitel: Amtspflichten
+### 3.3 Amtspflichten
 
 #### Art. 87
 
@@ -980,7 +929,7 @@ Er bestimmt namentlich:
 
 **Amtsgeheimnis**
 
-Die im vorangehenden Artikel erwähnten Personen sind an das Amtsgeheimnis gebunden. Diese Pflicht bleibt auch nach der Auflösung des Dienstverhältnisses bestehen.
+<sup>1</sup> Die im vorangehenden Artikel erwähnten Personen sind an das Amtsgeheimnis gebunden. Diese Pflicht bleibt auch nach der Auflösung des Dienstverhältnisses bestehen.
 
 #### Art. 89
 
@@ -997,9 +946,7 @@ Die im vorangehenden Artikel erwähnten Personen sind an das Amtsgeheimnis gebun
 <sup>1</sup> Die Mitglieder der Exekutivbehörde und der Kommissionen, die eine Verfügung zu treffen oder diese vorzubereiten haben, treten in Ausstand, wenn sie:
 
 - a) in der Sache ein persönliches Interesse haben;
-
 - b) mit einer Partei in gerader Linie oder in der Seitenlinie bis zum dritten Grad verwandt oder verschwägert oder durch Ehe, Verlobung oder Kindesannahme verbunden sind;
-
 - c) Vertreter einer Partei sind oder für eine Partei in der gleichen Sache tätig waren.
 
 <sup>2</sup> Diese Personen müssen sich in Ausstand begeben und das Sitzungszimmer verlassen. Sie können jedoch zur Erteilung von Auskünften herbeigerufen werden.
@@ -1008,21 +955,21 @@ Die im vorangehenden Artikel erwähnten Personen sind an das Amtsgeheimnis gebun
 
 **Dokumente**
 
-Die Personen, welche amtliche Dokumente, Korrespondenzen, Titel, Bücher und Register, Geldwerte, Guthaben und andere einer öffentlichrechtlichen Körperschaft gehörende Vermögenswerte besitzen, müssen diese den Behörden sofort bei Beendigung ihres Mandates oder auf deren Ersuchen jederzeit herausgeben.
+<sup>1</sup> Die Personen, welche amtliche Dokumente, Korrespondenzen, Titel, Bücher und Register, Geldwerte, Guthaben und andere einer öffentlichrechtlichen Körperschaft gehörende Vermögenswerte besitzen, müssen diese den Behörden sofort bei Beendigung ihres Mandates oder auf deren Ersuchen jederzeit herausgeben.
 
 #### Art. 92
 
 **Auskünfte**
 
-Jedes Behördemitglied und jeder Beamte einer öffentlichrechtlichen Körperschaft muss am Ende der Amtstätigkeit den Nachfolger über die laufenden Geschäfte orientieren.
+<sup>1</sup> Jedes Behördemitglied und jeder Beamte einer öffentlichrechtlichen Körperschaft muss am Ende der Amtstätigkeit den Nachfolger über die laufenden Geschäfte orientieren.
 
 #### Art. 93
 
 **Sanktion**
 
-Die Verletzung der in den Artikeln 91 und 92 erwähnten Verpflichtungen wird durch das mit der Aufsicht über die Gemeinden betraute Departement geahndet, welches dem Fehlbaren eine Busse von 100 bis 5'000 Franken auferlegen kann.
+<sup>1</sup> Die Verletzung der in den Artikeln 91 und 92 erwähnten Verpflichtungen wird durch das mit der Aufsicht über die Gemeinden betraute Departement geahndet, welches dem Fehlbaren eine Busse von 100 bis 5'000 Franken auferlegen kann.
 
-### 4. Kapitel: Beamte und Angestellte
+### 3.4 Beamte und Angestellte
 
 #### Art. 94
 
@@ -1044,9 +991,9 @@ Die Verletzung der in den Artikeln 91 und 92 erwähnten Verpflichtungen wird dur
 
 **Durch Vertrag verpflichtete Beamte und Angestellte**
 
-Beamte und Angestellte können auf privatrechtlicher Basis angestellt werden.
+<sup>1</sup> Beamte und Angestellte können auf privatrechtlicher Basis angestellt werden.
 
-### 5. Kapitel: Urkunden, Protokolle, amtliche Mitteilungen und Archiv
+### 3.5 Urkunden, Protokolle, amtliche Mitteilungen und Archiv
 
 #### Art. 97
 
@@ -1062,20 +1009,17 @@ Beamte und Angestellte können auf privatrechtlicher Basis angestellt werden.
 
 **Protokolle**
 
-Über die Beratungen der Organe der öffentlichrechtlichen Körperschaften wird ein Protokoll geführt, das vom Präsidenten und vom Sekretär zu unterzeichnen ist.
+<sup>1</sup> Über die Beratungen der Organe der öffentlichrechtlichen Körperschaften wird ein Protokoll geführt, das vom Präsidenten und vom Sekretär zu unterzeichnen ist.
 
 #### Art. 99
 
 **Inhalt**
 
-Dieses Protokoll muss mindestens enthalten:
+<sup>1</sup> Dieses Protokoll muss mindestens enthalten:
 
 - a) die Zahl der anwesenden Personen und für die Vollzugsorgane, die Namen der anwesenden Mitglieder;
-
 - b) die Tagesordnung;
-
 - c) die gestellten Anträge;
-
 - d) die gefassten Beschlüsse.
 
 #### Art. 100
@@ -1090,7 +1034,7 @@ Dieses Protokoll muss mindestens enthalten:
 
 **Öffentlichkeit der Protokolle und Beschlüsse**
 
-<sup>1</sup> Die Protokolle des gesetzgebenden Organs einer öffentlichrechtlichen Körperschaft können beim Gemeindebüro eingesehen werden.
+<sup>1</sup> Die Protokolle des gesetzgebenden Organs einer öffentlichrechtlichen Körperschaft können auf der Website der betroffenen Körperschaft beziehungsweise beim Gemeindebüro und nach Möglichkeit auf der Website der Gemeinde eingesehen werden.
 
 <sup>2</sup> Die Protokolle der Vollziehungsorgane sind nicht öffentlich.
 
@@ -1112,7 +1056,7 @@ Dieses Protokoll muss mindestens enthalten:
 
 **Referendumspflichtige Gegenstände**
 
-Die Referendumsfrist, die Rechtsgültigkeit und das Datum des Inkrafttretens der dem Referendum unterworfenen Gegenstände müssen mit Angabe des Ortes, wo sie eingesehen werden können, veröffentlicht werden.
+<sup>1</sup> Die Referendumsfrist, die Rechtsgültigkeit und das Datum des Inkrafttretens der dem Referendum unterworfenen Gegenstände müssen mit Angabe des Ortes, wo sie eingesehen werden können, veröffentlicht werden.
 
 #### Art. 104
 
@@ -1123,18 +1067,14 @@ Die Referendumsfrist, die Rechtsgültigkeit und das Datum des Inkrafttretens der
 <sup>2</sup> Im Archiv sind namentlich zu klassieren:
 
 - a) die Rechnungen und Voranschläge, die Buchhaltungsbelege und die Steuerrodel;
-
 - b) die Sitzungsprotokolle der Organe der öffentlichrechtlichen Körperschaften;
-
 - c) die Urkunden und Verträge der öffentlichrechtlichen Körperschaften;
-
 - d) die von der Gesetzgebung vorgesehenen Register;
-
 - e) die in Kraft stehenden und aufgehobenen Reglemente.
 
 <sup>3</sup> Die Modalitäten der Archivierung werden durch die Spezialgesetzgebung geregelt.
 
-### 6. Kapitel: Gebühren
+### 3.6 Gebühren
 
 #### Art. 105
 
@@ -1144,11 +1084,9 @@ Die Referendumsfrist, die Rechtsgültigkeit und das Datum des Inkrafttretens der
 
 <sup>2</sup> In einem entsprechenden Reglement werden zumindest ihr Höchstbetrag, die Erhebungsart sowie die gebührenpflichtigen Personen festgesetzt.
 
-### 4. Titel: Aufgabenerfüllung, Zusammenarbeit und Fusion
+## 4 Aufgabenerfüllung, Zusammenarbeit und Fusion oder Trennung von Gemeinden
 
-oder Trennung von Gemeinden
-
-### 1. Kapitel: Aufgabenerfüllung
+### 4.1 Aufgabenerfüllung
 
 #### Art. 106
 
@@ -1175,16 +1113,12 @@ oder Trennung von Gemeinden
 <sup>4</sup> Der Übertragungsbeschluss muss mindestens beinhalten:
 
 - a) die Natur und den Umfang der zu erbringenden Leistung;
-
 - b) die Finanzierungsmittel;
-
 - c) die Feststellung, dass die Übertragung von der zuständigen Behörde genehmigt wurde;
-
 - d) die Verpflichtungen des Beauftragten bezüglich der zu erbringenden Auskünfte;
-
 - e) die Dauer der Übertragung und die Modalitäten der Aufsicht und der Kündigung.
 
-### 2. Kapitel: Zusammenarbeit
+### 4.2 Zusammenarbeit
 
 #### Art. 108
 
@@ -1195,9 +1129,7 @@ oder Trennung von Gemeinden
 <sup>2</sup> Die Zusammenarbeit kann in folgenden Formen erfolgen:
 
 - a) eine Vereinbarung oder ein Vertrag mit einer anderen Gemeinde, einem Gemeindeverband öffentlichen oder privaten Rechts, oder mit Dritten;
-
 - b) den Beitritt zu einem bestehenden Verband öffentlichen oder privaten Rechts;
-
 - c) die Gründung eines öffentlichrechtlichen oder privatrechtlichen Verbandes oder einer gemischtwirtschaftlichen Gesellschaft.
 
 #### Art. 109
@@ -1208,9 +1140,7 @@ oder Trennung von Gemeinden
 
 <sup>2</sup> Der Auftrag endet mit dem Ablauf der kommunalen Verwaltungsperiode. Sie können von den neuen Behörden erneuert werden.
 
-### 1. Abschnitt: Zusammenarbeit auf der Grundlage des
-
-öffentlichen Rechts
+### 4.2.1 Zusammenarbeit auf der Grundlage des öffentlichen Rechts
 
 #### Art. 110
 
@@ -1234,7 +1164,7 @@ oder Trennung von Gemeinden
 
 #### Art. 112
 
-<sup>3</sup> Interkommunale Vereinbarung
+**Interkommunale Vereinbarung**
 
 <sup>1</sup> Zwei oder mehrere Gemeinden können für den Betrieb eines öffentlichen Dienstes ohne Rechtspersönlichkeit oder eines Verwaltungsdienstes eine Vereinbarung abschliessen.
 
@@ -1242,7 +1172,7 @@ oder Trennung von Gemeinden
 
 <sup>3</sup> Die sich im Rahmen der Vereinbarung zwischen den Gemeinden ergebenden Streitigkeiten werden im Rahmen ihrer Zuständigkeit entweder vom Kantonsgericht oder vom Staatsrat oder von einem Schiedsgericht entschieden. Letzteres wird gemäss den analog anwendbaren Bestimmungen der Schweizerischen Zivilprozessordnung konstituiert.
 
-<sup>4</sup> Aufgehoben
+<sup>4</sup> …
 
 #### Art. 113
 
@@ -1250,15 +1180,13 @@ oder Trennung von Gemeinden
 
 <sup>1</sup> Der Staatsrat fördert die interkommunale Zusammenarbeit mit Gemeinden anderer Kantone oder Länder.
 
-**genehmigt die**
+<sup>2</sup> Er vereinbart mit den interessierten Kantonen oder Ländern die Anwendungsbestimmungen und genehmigt die Zusammenarbeitsvereinbarungen.
 
-<sup>2</sup> Er vereinbart mit den interessierten Kantonen oder Ländern die Anwendungsbestimmungen und Zusammenarbeitsvereinbarungen.
-
-### 2. Abschnitt: Zusammenarbeit auf der Grundlage des Privatrechts
+### 4.2.2 Zusammenarbeit auf der Grundlage des Privatrechts
 
 #### Art. 114
 
-<sup>1</sup> Vertrag
+**Vertrag**
 
 <sup>1</sup> Auf der Grundlage eines privatrechtlichen Vertrages können die Gemeinden unter sich oder mit Dritten zusammenarbeiten.
 
@@ -1274,7 +1202,7 @@ oder Trennung von Gemeinden
 
 <sup>3</sup> Die Artikel 75 und 84 dieses Gesetzes sind anwendbar.
 
-### 3. Abschnitt Gemeindeverband
+### 4.2.3 Abschnitt Gemeindeverband
 
 #### Art. 116
 
@@ -1297,29 +1225,17 @@ oder Trennung von Gemeinden
 <sup>2</sup> Die Statuten müssen insbesondere bestimmen:
 
 - a) die Mitgliedergemeinden des Verbandes;
-
 - b) den Namen des Verbandes und den oder die verfolgten Zwecke;
-
 - c) den Sitz des Verbandes;
-
 - d) die Verpflichtungen und die Beteiligungen jeder Mitgliedergemeinde;
-
 - e) die für die Erstellung der Rechnung und ihrer Revision sowie des Voranschlages massgeblichen Regeln;
-
 - f) die Zahl der Delegierten jeder Mitgliedergemeinde unter Berücksichtigung der vertretenen Interessen;
-
 - g) die Art der Einberufung, die jeder Gemeinde die Möglichkeit bietet, vertreten zu sein;
-
 - h) die Befugnisse der Delegiertenversammlung und des Ausschusses, namentlich auf dem Gebiete von neuen Krediten, das Verfahren ihrer Beratungen mit eventuellem Quorum;
-
 - i) das Auflösungsverfahren sowie die beim Austritt eines Mitgliedes zu beachtenden Bedingungen;
-
 - j) die Vermögensaufteilung bei Auflösung des Verbandes für den Fall, dass diese von der Verteilung des Reingewinnes verschieden ist;
-
 - k) die Beitrittsbedingungen einer neuen Gemeinde;
-
-- l) die Art der Information der Mitgliedergemeinden und der Bürger: Voranschlag, jährlicher Bericht, Veröffentlichung der Beschlüsse, öffentlicher Zugang zu den Protokollen des gesetzgebenden Organs des Gemeindeverbandes;
-
+- l) die Art der Information der Mitgliedergemeinden und der Bürger: Voranschlag, Rechnung, jährlicher Bericht, Veröffentlichung der Beschlüsse, öffentlicher Zugang zu den Protokollen des gesetzgebenden Organs des Gemeindeverbandes;
 - m) die wesentlichen Vorschriften und den Betrag, ab welchem eine Ausgabe dem fakultativen Referendum untersteht.
 
 <sup>3</sup> Die Statutenänderung fällt in die Zuständigkeit der Delegiertenversammlung. Vorbehalten bleibt das fakultative Referendum gegen die Änderung von wesentlichen Vorschriften, die von den Statuten bestimmt werden.
@@ -1336,12 +1252,10 @@ oder Trennung von Gemeinden
 
 **Organe**
 
-Die Organe des Verbandes sind:
+<sup>1</sup> Die Organe des Verbandes sind:
 
 - a) die Delegiertenversammlung;
-
 - b) der Ausschuss;
-
 - c) die Revisoren.
 
 #### Art. 120
@@ -1369,7 +1283,6 @@ Die Organe des Verbandes sind:
 <sup>1</sup> Dem fakultativen Referendum unterliegen die Beschlüsse betreffend:
 
 - a) die wesentlichen Änderungen der Statuten, die von den Statuten selbst als solche definiert sind;
-
 - b) die Nettoausgaben, die den in den Statuten festgesetzten Betrag übersteigen.
 
 <sup>2</sup> Die dem Referendum unterworfenen Rechtsgeschäfte werden durch öffentlichen Anschlag in den betroffenen Gemeinden, mit Angabe der Referendumsfrist sowie der Angabe des Ortes der Hinterlegung des Gesuchs und der Unterschriften, publiziert.
@@ -1398,7 +1311,7 @@ Die Organe des Verbandes sind:
 
 **Revisoren**
 
-Die Revisoren werden gemäss den Statuten ernannt. Diese können vorsehen, dass die Revisoren jeder Mitgliedergemeinde sich im Turnus abwechseln. Die Artikel 84 und 85 sind sinngemäss anwendbar.
+<sup>1</sup> Die Revisoren werden gemäss den Statuten ernannt. Diese können vorsehen, dass die Revisoren jeder Mitgliedergemeinde sich im Turnus abwechseln. Die Artikel 84 und 85 sind sinngemäss anwendbar.
 
 #### Art. 126
 
@@ -1428,19 +1341,19 @@ Die Revisoren werden gemäss den Statuten ernannt. Diese können vorsehen, dass 
 
 <sup>3</sup> Die Liquidation obliegt den Organen des Verbandes.
 
-### 3. Kapitel: Fusion oder Trennung von Gemeinden
+### 4.3 Fusion oder Trennung von Gemeinden
 
-### 1. Abschnitt: Förderungsmassnahmen
+### 4.3.1 Förderungsmassnahmen
 
 #### Art. 129
 
-<sup>4</sup> Finanzierungsmittel
+**Finanzierungsmittel**
 
-Der Kanton fördert die Fusion von Gemeinden. Er kann insbesondere die hierfür erforderlichen Finanzmittel aus einem zweckbestimmten und namentlich über den ordentlichen Voranschlag geäufneten Spezialfonds verwenden.
+<sup>1</sup> Der Kanton fördert die Fusion von Gemeinden. Er kann insbesondere die hierfür erforderlichen Finanzmittel aus einem zweckbestimmten und namentlich über den ordentlichen Voranschlag geäufneten Spezialfonds verwenden.
 
 #### Art. 130
 
-<sup>4</sup> Finanzhilfe
+**Finanzhilfe**
 
 <sup>1</sup> Die finanzielle Beteiligung des Kantons an Fusionsprojekten wird in einer Verordnung geregelt. Diese berücksichtigt namentlich die Zahl der von der Fusion betroffenen Gemeinden und deren Bevölkerung.
 
@@ -1458,7 +1371,7 @@ Der Kanton fördert die Fusion von Gemeinden. Er kann insbesondere die hierfür 
 
 <sup>2</sup> Der Kanton gewährt auf Gesuch hin eine administrative und juristische Unterstützung für alle Fusionsprojekte der Gemeinden. Zu diesem Zweck kann der Staatsrat eine interdepartementale Arbeitsgruppe einsetzen, die sie begleitet.
 
-### 2. Abschnitt: Fusionskonzept
+### 4.3.2 Fusionskonzept
 
 #### Art. 132
 
@@ -1482,21 +1395,19 @@ Der Kanton fördert die Fusion von Gemeinden. Er kann insbesondere die hierfür 
 
 **Zwangsmassnahmen**
 
-Der Kanton hebt den Finanzausgleich, auf den eine Gemeinde Anspruch hat, auf, falls diese in den Fusionsvorschlägen aufgeführt ist und sich diesen nicht innert der Frist von fünf Jahren ab Genehmigung durch den Staatsrat unterzieht, und wenn diese Gemeinde offenkundig ihren gesetzlichen Verpflichtungen nicht mehr nachkommen kann.
+<sup>1</sup> Der Kanton hebt den Finanzausgleich, auf den eine Gemeinde Anspruch hat, auf, falls diese in den Fusionsvorschlägen aufgeführt ist und sich diesen nicht innert der Frist von fünf Jahren ab Genehmigung durch den Staatsrat unterzieht, und wenn diese Gemeinde offenkundig ihren gesetzlichen Verpflichtungen nicht mehr nachkommen kann.
 
 #### Art. 135
 
 **Zwangsfusion**
 
-Der Grosse Rat kann zwei oder mehrere Gemeinden zur Fusion zwingen, wenn eine der folgenden Voraussetzungen erfüllt ist:
+<sup>1</sup> Der Grosse Rat kann zwei oder mehrere Gemeinden zur Fusion zwingen, wenn eine der folgenden Voraussetzungen erfüllt ist:
 
 - a) wenn ein negativer Entscheid zu einem Fusionsprojekt ihren finanziellen Weiterbestand gefährdet;
-
 - b) wenn eine einzige Gemeinde das Hindernis zu einer Fusion darstellt, währenddem die angrenzenden Gemeinden bereits ihre Zustimmung zu einer bedeutenden Fusion gegeben haben;
-
 - c) wenn eine Gemeinde nicht mehr in der Lage ist, das Funktionieren der Institutionen zu gewährleisten, namentlich dann, wenn sie die freigewordenen Ämter aufgrund der beschränkten Einwohnerzahl nicht wiederbesetzen kann.
 
-### 3. Abschnitt: Fusionsverfahren
+### 4.3.3 Fusionsverfahren
 
 #### Art. 136
 
@@ -1510,7 +1421,7 @@ Der Grosse Rat kann zwei oder mehrere Gemeinden zur Fusion zwingen, wenn eine de
 
 **Befragung der Urversammlung**
 
-Bei Fusionsbegehren befragen die Gemeinderäte in geheimer Abstimmung die Generalräte und Urversammlungen.
+<sup>1</sup> Bei Fusionsbegehren befragen die Gemeinderäte in geheimer Abstimmung die Generalräte und Urversammlungen.
 
 #### Art. 138
 
@@ -1542,13 +1453,10 @@ Bei Fusionsbegehren befragen die Gemeinderäte in geheimer Abstimmung die Genera
 
 <sup>2</sup> Überdies gestattet er eine Übergangsverwaltung in folgendem Umfang:
 
-- a) Die Übergangsperiode endet grundsätzlich mit dem Ablauf einer Verwaltungsperiode. Für Reglemente, die in den verschiedenen fusionierten Gemeinden in Kraft sind, kann die Übergangsperiode bis zum Ende der folgenden Periode verlängert werden.
-
-- b) Die Zahl der Mitglieder des Vollzugsorgans kann die im Gesetz vorgesehene Zahl überschreiten. Sie kann die Gesamtzahl aller bisherigen Gemeinderäte erreichen.
-
-- c) Das Amt des Präsidenten kann ausnahmsweise bis zum Ablauf der laufenden Verwaltungsperiode abwechselnd versehen werden.
-
-- d) Die unter Buchstaben b und c dieses Artikels enthaltenen Regeln sind sinngemäss auf die Generalräte anwendbar, sofern alle Fusionsgemeinden einen Generalrat besitzen.
+- a) die Übergangsperiode endet grundsätzlich mit dem Ablauf einer Verwaltungsperiode. Für Reglemente, die in den verschiedenen fusionierten Gemeinden in Kraft sind, kann die Übergangsperiode bis zum Ende der folgenden Periode verlängert werden;
+- b) die Zahl der Mitglieder des Vollzugsorgans kann die im Gesetz vorgesehene Zahl überschreiten. Sie kann die Gesamtzahl aller bisherigen Gemeinderäte erreichen;
+- c) das Amt des Präsidenten kann ausnahmsweise bis zum Ablauf der laufenden Verwaltungsperiode abwechselnd versehen werden;
+- d) die unter Buchstaben b und c dieses Artikels enthaltenen Regeln sind sinngemäss auf die Generalräte anwendbar, sofern alle Fusionsgemeinden einen Generalrat besitzen.
 
 #### Art. 141
 
@@ -1557,15 +1465,10 @@ Bei Fusionsbegehren befragen die Gemeinderäte in geheimer Abstimmung die Genera
 <sup>1</sup> Die an einer Fusion beteiligten Gemeinden können vertraglich die Bedingungen der Fusion und die Ausgestaltung der neuen Körperschaft regeln. Der Vertrag bestimmt insbesondere:
 
 - a) den Zeitplan;
-
 - b) den Namen und das Wappen;
-
 - c) die Überführung der Organe und des Personals;
-
 - d) den Übergang des Vermögens, der Lasten und der Verpflichtungen;
-
 - e) die Zuständigkeiten zum Abschluss der Rechnungen und der hängigen Geschäfte;
-
 - f) die Übergangsordnung.
 
 <sup>2</sup> Der Vertrag muss von den Urversammlungen und vom Grossen Rat genehmigt werden.
@@ -1582,9 +1485,9 @@ Bei Fusionsbegehren befragen die Gemeinderäte in geheimer Abstimmung die Genera
 
 **Trennung von Gemeinden**
 
-Die in den Artikeln 136 ff. genannten Grundsätze sind auf die Trennung von Gemeinden sinngemäss anwendbar.
+<sup>1</sup> Die in den Artikeln 136 und folgende genannten Grundsätze sind auf die Trennung von Gemeinden sinngemäss anwendbar.
 
-### 5. Titel: Staatsaufsicht und Rechtsschutz
+## 5 Staatsaufsicht und Rechtsschutz
 
 #### Art. 144
 
@@ -1598,18 +1501,18 @@ Die in den Artikeln 136 ff. genannten Grundsätze sind auf die Trennung von Geme
 
 **Organe**
 
-Die Aufsicht über die öffentlichrechtlichen Körperschaften wird ausgeübt durch den Staatsrat selbst oder durch die Instanzen, die von ihm oder vom Gesetz benannt sind.
+<sup>1</sup> Die Aufsicht über die öffentlichrechtlichen Körperschaften wird ausgeübt durch den Staatsrat selbst oder durch die Instanzen, die von ihm oder vom Gesetz benannt sind.
 
 #### Art. 146
 
 **Genehmigungspflichtige Gegenstände**
 
-Dem Staatsrat müssen zur Genehmigung unterbreitet werden:
+<sup>1</sup> Dem Staatsrat müssen zur Genehmigung unterbreitet werden:
 
 - a) alle Reglemente mit Ausnahme jener von rein interner Tragweite;
-
-- b) bis d) aufgehoben
-
+- b) …
+- c) …
+- d) …
 - e) die Verleihung oder die Übertragung von Wasserkraftkonzessionen.
 
 #### Art. 147
@@ -1622,21 +1525,45 @@ Dem Staatsrat müssen zur Genehmigung unterbreitet werden:
 
 <sup>3</sup> Die Aufsichtsbehörde kann eine Bestimmung nur abändern, wenn die Gemeinde nicht selber innert angemessener Frist eine gesetzeskonforme oder zweckmässige Bestimmung erlassen hat.
 
+<sup>4</sup> Die Gemeinden können ihre Reglementsentwürfe vor der Genehmigung durch die Urversammlung dem zuständigen Departement zur Vorprüfung unterbreiten.
+
 #### Art. 148
 
-**Aufgehoben**
+**…**
+
+#### Art. 148a
+
+**Amtliche Untersuchung**
+
+<sup>1</sup> Der Staatsrat kann die zuständige kantonale Dienststelle oder eine von ihm eingesetzte Ad-hoc-Arbeitsgruppe anweisen, eine amtliche Untersuchung gegen eine öffentlichrechtliche Körperschaft zu eröffnen, wenn der begründete Verdacht besteht, dass deren ordnungsgemässe Verwaltung durch rechtswidriges Handeln von einem ihrer Organe oder auf andere Weise ernsthaft gefährdet oder gestört wird.
+
+<sup>2</sup> Das mit der Untersuchung betraute Organ kann insbesondere:
+
+- a) die Edition aller amtlichen Dokumente verlangen;
+- b) die Mitglieder der Organe der öffentlich-rechtlichen Körperschaft sowie deren Personal anhören;
+- c) die Mitarbeit der Kantonspolizei anfordern;
+- d) jede andere Massnahme ergreifen, um den Sachverhalt zu ermitteln.
+
+<sup>3</sup> Der Staatsrat kann insbesondere:
+
+- a) im Notfall alle zweckdienlichen vorsorglichen Massnahmen treffen;
+- b) der öffentlichrechtlichen Körperschaft Anweisungen erteilen, die darauf abzielen, eine rechtswidrige Situation zu beenden oder das ordnungsgemässe Funktionieren ihrer Organe und/oder ihrer Verwaltung wiederherzustellen;
+- c) alle notwendigen Massnahmen zur Wiederherstellung eines rechtmässigen Zustandes ergreifen;
+- d) die gesetzlich vorgesehenen Verfahren eröffnen, insbesondere eine Mahnung (Art. 150 Abs. 1) oder eine Verwarnung (Art. 151 Abs. 1) gegenüber den Organen der öffentlichrechtlichen Körperschaft aussprechen.
+
+<sup>4</sup> Die Interventionskosten des Staatsrates und des mit der Untersuchung betrauten Organs können ganz oder teilweise der öffentlichrechtlichen Körperschaft auferlegt werden.
 
 #### Art. 149
 
 **Unterstützung durch einen Experten**
 
-Begegnet eine Gemeinde in einem Bereich bedeutenden Schwierigkeiten, kann der Staatsrat, grundsätzlich auf Kosten der Gemeinde, einen oder mehrere Experten ernennen, um sie in der Erfüllung ihrer Aufgaben zu unterstützen. Er setzt die Anstellungsbedingungen fest. Die Gemeinde muss angehört werden.
+<sup>1</sup> Begegnet eine Gemeinde in einem Bereich bedeutenden Schwierigkeiten, kann der Staatsrat, grundsätzlich auf Kosten der Gemeinde, einen oder mehrere Experten ernennen, um sie in der Erfüllung ihrer Aufgaben zu unterstützen. Er setzt die Anstellungsbedingungen fest. Die Gemeinde muss angehört werden.
 
 #### Art. 150
 
 **Sanktionen gegen die Körperschaften**
 
-Versäumt eine Behörde einer öffentlichrechtlichen Körperschaft die Erfüllung einer vom Gesetz zwingend vorgeschriebenen Aufgabe oder Handlung, kann der Staatsrat nach wenigstens einer Mahnung die notwendigen Massnahmen treffen oder einen Dritten an Stelle und auf Kosten der säumigen Körperschaften mit der Ausführung dieser Aufgabe beauftragen.
+<sup>1</sup> Versäumt eine Behörde einer öffentlichrechtlichen Körperschaft die Erfüllung einer vom Gesetz zwingend vorgeschriebenen Aufgabe oder Handlung, kann der Staatsrat nach wenigstens einer Mahnung die notwendigen Massnahmen treffen oder einen Dritten an Stelle und auf Kosten der säumigen Körperschaften mit der Ausführung dieser Aufgabe beauftragen.
 
 #### Art. 151
 
@@ -1654,7 +1581,7 @@ Versäumt eine Behörde einer öffentlichrechtlichen Körperschaft die Erfüllun
 
 **Beschwerde**
 
-Die öffentlichrechtliche Körperschaft kann gegen die Beschlüsse des Staatsrates im Sinne der Artikel 150 und 151 beim Kantonsgericht Beschwerde einreichen. Diese Beschwerde hat keine aufschiebende Wirkung.
+<sup>1</sup> Die öffentlichrechtliche Körperschaft kann gegen die Beschlüsse des Staatsrates im Sinne der Artikel 150 und 151 beim Kantonsgericht Beschwerde einreichen. Diese Beschwerde hat keine aufschiebende Wirkung.
 
 #### Art. 153
 
@@ -1676,7 +1603,7 @@ Die öffentlichrechtliche Körperschaft kann gegen die Beschlüsse des Staatsrat
 
 **Wahl- und Abstimmungsbeschwerden**
 
-Beschwerden gegen die Gesetzmässigkeit oder die Gültigkeit einer Abstimmung oder Wahl richten sich nach den Vorschriften der einschlägigen kantonalen Gesetzgebung.
+<sup>1</sup> Beschwerden gegen die Gesetzmässigkeit oder die Gültigkeit einer Abstimmung oder Wahl richten sich nach den Vorschriften der einschlägigen kantonalen Gesetzgebung.
 
 #### Art. 156
 
@@ -1686,7 +1613,7 @@ Beschwerden gegen die Gesetzmässigkeit oder die Gültigkeit einer Abstimmung od
 
 <sup>2</sup> Zudem können Erlasse und Entscheide der Aufsichtsbehörde, welche die Gemeindeautonomie verletzen, mit Beschwerde an das Kantonsgericht angefochten werden.
 
-### 6. Titel: Schluss- und Übergangsbestimmungen
+## 6 Schluss- und Übergangsbestimmungen
 
 #### Art. 157
 
@@ -1695,9 +1622,7 @@ Beschwerden gegen die Gesetzmässigkeit oder die Gültigkeit einer Abstimmung od
 <sup>1</sup> Sind aufgehoben:
 
 - a) Alle diesem Gesetz widersprechenden Bestimmungen, namentlich das Gesetz über die Gemeindeordnung vom 13. November 1980;
-
 - b) Die Artikel 228, 230, 231, 233 und 234 des Steuergesetzes vom 10. März 1976;
-
 - c) Artikel 105 des Gesetzes über die Wahlen und Abstimmungen vom 17. Mai 1972.
 
 <sup>2</sup> Das vorliegende Gesetz und die dazugehörigen Ausführungserlasse sind anwendbar anstelle von Bestimmungen, die durch sie aufgehoben werden und auf die in der geltenden Gesetzgebung verwiesen wird.
@@ -1706,21 +1631,7 @@ Beschwerden gegen die Gesetzmässigkeit oder die Gültigkeit einer Abstimmung od
 
 **Gesetzesänderung**
 
-Das Steuergesetz vom 10. März 1976 wird wie folgt abgeändert:
-
-#### Art. 232
-
-**VII. Besteuerungsbeschluss**
-
-<sup>1</sup> Der Gemeinderat beschliesst:
-
-- a) den auf die in den Artikeln 178 und 179 vorgesehenen Steueransätze anwendbaren Koeffizienten und den Betrag der Kopfsteuer (Art. 177);
-
-- b) den Betrag der Hundesteuer (Art. 182);
-
-- c) den Prozentsatz des Vergütungszinses (Art. 193).
-
-<sup>2</sup> In den Gemeinden mit einem Generalrat wird der Steuerkoeffizient durch diesen im Rahmen des Voranschlags festgesetzt.
+<sup>1</sup> Das Steuergesetz vom 10. März 1976 wird abgeändert.
 
 #### Art. 159
 
@@ -1738,7 +1649,7 @@ Das Steuergesetz vom 10. März 1976 wird wie folgt abgeändert:
 
 **Musterreglement**
 
-Der Staatsrat erlässt innert Jahresfrist ab Inkrafttreten des vorliegenden Gesetzes ein Muster eines kommunalen Organisationsreglements.
+<sup>1</sup> Der Staatsrat erlässt innert Jahresfrist ab Inkrafttreten des vorliegenden Gesetzes ein Muster eines kommunalen Organisationsreglements.
 
 #### Art. 161
 
@@ -1748,22 +1659,4 @@ Der Staatsrat erlässt innert Jahresfrist ab Inkrafttreten des vorliegenden Gese
 
 <sup>2</sup> Der Staatsrat bestimmt das Datum des Inkrafttretens des vorliegenden Gesetzes.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 5. Februar 2004.
-
-Der Präsident des Grossen Rates: Jean-Paul Duroux Der Chef des Parlamentsdienstes: Claude Bumann
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Gemeindegesetz (GemG) vom 5. Februar GS/VS 2004, 25 und 01.06.2004
-
-**376)**
-
-### 2004
-
-## Weitere Fussnoten
-
-- [1] Fassung gemäss Ziff. I der Änderung vom GS/VS 2006, 3 und 1.02.2006 14.09.2005 206
-- [2] Fassung gemäss Ziff. II der Änderung des GS/VS 2008, 23 und 1.04.2008 Gesetzes über die politischen Rechte vom 417 12.12.2007
-- [3] Fassung gemäss Art. 10 Ziff. 4 des GS/VS 2010, 42 und 1.01.2011 Einführungsgesetzes zur Schweizerischen 399 Zivilprozessordnung (EGZPO) vom 11.02.2009
-- [4] Fassung gemäss Ziff. II/1 des Gesetzes über Abl. Nr. 38/2011; 01.01.2012 die zweite Etappe der Neugestaltung des Abl. Nr. 52/2011 Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 15.09.2011
-- [5] Fassung gemäss Art. 55 Abs. 2 des Gesetzes Abl. Nr. 39/2010; 01.01.2012 über den Zivilschutz (GZS) vom 10.09.2010 Abl. Nr. 12/2011
+CSW BO/Abl. 10/2004, 26/2004
