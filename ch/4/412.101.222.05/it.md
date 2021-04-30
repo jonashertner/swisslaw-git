@@ -3,18 +3,18 @@ sr: "412.101.222.05"
 title: Ordinanza della SEFRI del 4 febbraio 2014 sulla formazione professionale di base Autista di veicoli leggeri con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/103"
 language: it
-version: 2018-01-01
+version: 2021-05-01
 adopted: 2014-02-04
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/103/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2014-103-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/103/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/103/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2014-103-20210501-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/103/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Autista di veicoli leggeri con certificato federale di formazione pratica (CFP)
 
-del 4 febbraio 2014 (Stato 1° gennaio 2018)
+del 4 febbraio 2014 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
 
 <table>
 <tr><td>73305</td><td>Autista di veicoli leggeri CFP Strassentransportpraktikerin EBA/ Strassentransportpraktiker EBA Conductrice de véhicules légers AFP/ Conducteur de véhicules légers AFP</td></tr>
@@ -189,18 +189,15 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
 
 <sup>1</sup> L’azienda di tirocinio è responsabile delle lezioni di guida della persona in formazione.
 
-<sup>2</sup>
+<sup>2</sup> ...[^11-1]
 
-L’azienda affida tale compito a:
-
-- a. un suo dipendente titolare di un permesso di formazione ai sensi dell’ordinanza del 27 ottobre 1976[^11-1] sull’ammissione alla circolazione (OAC); o
-- b. un maestro conducente.
-
-<sup>3</sup> Le corse di scuola guida sono disciplinate dall’OAC.
+<sup>3</sup> Le lezioni di guida si svolgono conformemente all’articolo 15 della legge federale del 19 dicembre 1958[^11-2] sulla circolazione stradale.[^11-3]
 
 <sup>4</sup> I costi per le lezioni di guida e per il primo esame pratico per conducente di ogni categoria sono a carico dell’azienda di tirocinio.
 
-[^11-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^11-1]: Abrogato dal n. I dell’O della SEFRI del 26 mar. 2021, con effetto dal 1° mag. 2021 ([RU 2021 180](https://fedlex.data.admin.ch/eli/oc/2021/180)).
+[^11-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^11-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 26 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 180](https://fedlex.data.admin.ch/eli/oc/2021/180)).
 
 #### Art. 12
 
