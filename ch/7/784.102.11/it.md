@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM del 18 novembre 2020 sull'utilizzazione dello spett
 short: OUUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: it
-version: 2021-01-01
+version: 2021-05-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210101/it"
 
 (OUUS)
 
-del 18 novembre 2020 (Stato 1° gennaio 2021)
+del 18 novembre 2020 (Stato 1° maggio 2021)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -179,7 +179,7 @@ L’ordinanza dell’UFCOM del 9 marzo 2007[^15-1] sulla gestione delle frequenz
 
 La presente ordinanza entra in vigore il 1° gennaio 2021.
 
-Allegato 1
+Allegato 1*[^t-1]*
 
 (art. 1 cpv. 1)
 
@@ -187,7 +187,10 @@ Allegato 1
 
 [^annex1-lvlu1-1]
 
-[^annex1-lvlu1-1]: Il testo dell’allegato 1 non è pubblicato né nella RU né nella RS. Può essere ordinato gratuitamente presso l’Ufficio federale delle comunicazioni (UFCOM), Sezione KF-FK, rue de l’Avenir 44, casella postale 256, 2501 Bienne oppure consultato all’indirizzo www.ufcom.admin.ch &gt; Frequenze & antenne &gt; Utilizzo delle frequenze con o senza concessioni.
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 23 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 197](https://fedlex.data.admin.ch/eli/oc/2021/197)).
+[^annex1-lvlu1-1]: Il testo dell’allegato 1 è pubblicato nella RU e nella RS mediante rimando (art. 5 cpv. 1 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali [[RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)]). Può essere ordinato gratuitamente presso l’Ufficio federale delle comunicazioni (UFCOM), Sezione KF-FK, rue de l’Avenir 44, casella postale 256, 2501 Bienne oppure consultato all’indirizzo www.ufcom.admin.ch &gt; Frequenze & antenne &gt; Utilizzo delle frequenze con o senza concessioni.
+
+Edizione 2 del 23 marzo 2021
 
 Allegato 2
 
@@ -314,7 +317,7 @@ Allegato 5
 
 <table>
 <tr><th></th><th>Certificato di capacità</th><th>Edizione delle prescrizioni per l’esame</th></tr>
-<tr><td>1</td><td>Certificato limitato per la navigazione da diporto (*Short Range* *Certif**i**cate*)</td><td>2</td></tr>
+<tr><td>1</td><td>Certificato limitato per la navigazione da diporto (*Short Range* *Certificate*)</td><td>2</td></tr>
 <tr><td>2</td><td>Certificato generale per la navigazione da diporto (*Long Range* *Certificate*)</td><td>3</td></tr>
 <tr><td>3</td><td>Certificato di radiotelefonista OUC per le radiocomunicazioni della navigazione interna</td><td>2</td></tr>
 <tr><td>4</td><td>Certificato di capacità per radioamatori e certificato per radioamatori principianti</td><td>3</td></tr>

@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 18. November 2020 über die Nutzung des Funkfreq
 short: VVNF
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: de
-version: 2021-01-01
+version: 2021-05-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210101/de"
 
 (VVNF)
 
-vom 18. November 2020 (Stand am 1. Januar 2021)
+vom 18. November 2020 (Stand am 1. Mai 2021)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -171,7 +171,7 @@ Die Vorschriften für die Prüfung zum Erwerb der Fähigkeitszeugnisse nach Arti
 
 Die Verordnung des BAKOM vom 9. März 2007[^15-1] über Frequenzmanagement und Funkkonzessionen wird aufgehoben.
 
-[^15-1]: [[AS 2007 1023](https://fedlex.data.admin.ch/eli/oc/2007/173)[7087](https://fedlex.data.admin.ch/eli/oc/2007/927), [2009 1089](https://fedlex.data.admin.ch/eli/oc/2009/171)[4231](https://fedlex.data.admin.ch/eli/oc/2009/515), [2011 5267](https://fedlex.data.admin.ch/eli/oc/2011/759), [2012 6573](https://fedlex.data.admin.ch/eli/oc/2012/791), [2015 2775](https://fedlex.data.admin.ch/eli/oc/2015/524)[4979](https://fedlex.data.admin.ch/eli/oc/2015/813), [2016 1685](https://fedlex.data.admin.ch/eli/oc/2016/308), [2017 3203](https://fedlex.data.admin.ch/eli/oc/2017/319)[7145](https://fedlex.data.admin.ch/eli/oc/2017/772), [2018 2689](https://fedlex.data.admin.ch/eli/oc/2018/394), [2019 989](https://fedlex.data.admin.ch/eli/oc/2019/181)[2573](https://fedlex.data.admin.ch/eli/oc/2019/477)[4247](https://fedlex.data.admin.ch/eli/oc/2019/730), [2020 1223](https://fedlex.data.admin.ch/eli/oc/2020/232)[3565](https://fedlex.data.admin.ch/eli/oc/2020/633)]
+[^15-1]: [[AS 2007 1023](https://fedlex.data.admin.ch/eli/oc/2007/173), [7087](https://fedlex.data.admin.ch/eli/oc/2007/927); [2009 1089](https://fedlex.data.admin.ch/eli/oc/2009/171), [4231](https://fedlex.data.admin.ch/eli/oc/2009/515); [2011 5267](https://fedlex.data.admin.ch/eli/oc/2011/759); [2012 6573](https://fedlex.data.admin.ch/eli/oc/2012/791); [2015 2775](https://fedlex.data.admin.ch/eli/oc/2015/524), [4979](https://fedlex.data.admin.ch/eli/oc/2015/813); [2016 1685](https://fedlex.data.admin.ch/eli/oc/2016/308); [2017 3203](https://fedlex.data.admin.ch/eli/oc/2017/319), [7145](https://fedlex.data.admin.ch/eli/oc/2017/772); [2018 2689](https://fedlex.data.admin.ch/eli/oc/2018/394); [2019 989](https://fedlex.data.admin.ch/eli/oc/2019/181), [2573](https://fedlex.data.admin.ch/eli/oc/2019/477), [4247](https://fedlex.data.admin.ch/eli/oc/2019/730); [2020 1223](https://fedlex.data.admin.ch/eli/oc/2020/232), [3565](https://fedlex.data.admin.ch/eli/oc/2020/633)]
 
 #### Art. 16
 
@@ -179,7 +179,7 @@ Die Verordnung des BAKOM vom 9. März 2007[^15-1] über Frequenzmanagement und F
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft.
 
-Anhang 1
+Anhang 1*[^t-1]*
 
 (Art. 1 Abs. 1)
 
@@ -187,7 +187,10 @@ Anhang 1
 
 [^annex1-lvlu1-1]
 
-[^annex1-lvlu1-1]: Der Text von Anhang 1 wird weder in der AS noch in der SR publiziert. Er kann beim Bundesamt für Kommunikation (BAKOM), Sektion KF-FK, Zukunftstrasse 44, Postfach 256, 2501 Biel kostenlos bestellt oder unter www.bakom.admin.ch &gt; Frequenzen und Antennen &gt; Frequenznutzung mit oder ohne Konzessionen eingesehen werden.
+[^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 23. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 197](https://fedlex.data.admin.ch/eli/oc/2021/197)).
+[^annex1-lvlu1-1]: Der Text von Anhang 1 wird in der AS und in der SR per Verwies publiziert (Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 – [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann beim Bundesamt für Kommunikation (BAKOM), Sektion KF-FK, Zukunftstrasse 44, Postfach 256, 2501 Biel kostenlos bestellt oder unter www.bakom.admin.ch &gt; Frequenzen und Antennen &gt; Frequenznutzung mit oder ohne Konzessionen eingesehen werden.
+
+Fassung 2 vom 23. März 2021
 
 Anhang 2
 
