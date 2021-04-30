@@ -4,13 +4,13 @@ number: "321.331"
 title: Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-Verordnung zusätzliche Massnahmen
 language: de
-version: 2021-04-19
-valid_until: 2021-04-30
-version_adopted: 2021-04-14
+version: 2021-05-01
+valid_until: 2021-11-23
+version_adopted: 2021-04-27
 adopted: 2021-11-22
 in_force: 2021-11-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/321.331"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5229/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Covid-19 zusätzliche Massnahmen: Verordnung | Übertragbare Krankheiten
 
 (Covid-19-Verordnung zusätzliche Massnahmen)
 
-Vom 3. November 2020 (Stand 19. April 2021)
+Vom 3. November 2020 (Stand 1. Mai 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -52,15 +52,7 @@ beschliesst:
 
 #### § 3a
 
-**Einrichtungen im Sportbereich**
-
-<sup>1</sup> …
-
-<sup>2</sup> Die Nutzung von Turnhallen ist für Schülerinnen und Schüler der Sekundarstufe im Rahmen des Schulsports nur für alternativen Unterricht zulässig.
-
-<sup>2<sup>bis</sup></sup> …
-
-<sup>3</sup> Die Nutzung von Turnhallen und Hallenbädern sowie Innenräumen von sonstigen Sportanlagen und Sportstadien ist für Prüfungen zur Erlangung eines Studien- oder Lehrabschlusses bei Bildungsgängen im Bereich Sport, Tanz, Bewegung und Gesundheit zulässig.
+**…**
 
 #### § 3b
 
@@ -99,4 +91,4 @@ Diese Verordnung ist zu publizieren; sie tritt am 4. November 2020 in Kraft. Auf
 
 KB 04.11.2020
 
-[^footer-1]: Die Befristung für die §§ 3a - 4 wird neu bis 30. April 2021 festgelegt (RRB vom 30. 03.2021, KB 31.03.2021)
+[^footer-1]: Die Befristung von § 4 wird neu bis 3. Juli 2021 festgelegt. (RRB vom 25.05.2021, KB 29.05.2021)
