@@ -4,13 +4,13 @@ number: "731.21"
 title: Ordonnance sur les marchés publics
 short: OCMP
 language: fr
-version: 2015-01-01
-valid_until: 2021-04-30
-version_adopted: 2014-11-05
+version: 2021-05-01
+valid_until: 2022-01-31
+version_adopted: 2021-03-10
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/930/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2256/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/930/pdf_file"
 
 (OCMP)
 
-du 16.10.2002 (état au 01.01.2015)
+du 16.10.2002 (état au 01.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -185,7 +185,7 @@ arrête:
 - m le formulaire de déclaration spontanée et ses pièces justificatives selon l'article 20,
 - n l'éventuelle exclusion ou les restrictions concernant des offres émanant de consortiums.
 
-<sup>2</sup> Ils mentionnent en outre que le beco Economie bernoise et du travail fournit des renseignements sur les dispositions de la protection des travailleurs applicables sur le lieu d'exécution des travaux.
+<sup>2</sup> Ils mentionnent en outre que l'Office de l'économie fournit des renseignements sur les dispositions de la protection des travailleurs applicables sur le lieu d'exécution des travaux.
 
 #### Art. 12
 

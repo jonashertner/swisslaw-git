@@ -4,13 +4,13 @@ number: "731.21"
 title: Verordnung über das öffentliche Beschaffungswesen
 short: ÖBV
 language: de
-version: 2015-01-01
-valid_until: 2021-04-30
-version_adopted: 2014-11-05
+version: 2021-05-01
+valid_until: 2022-01-31
+version_adopted: 2021-03-10
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/930/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2256/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/930/pdf_file"
 
 (ÖBV)
 
-vom 16.10.2002 (Stand 01.01.2015)
+vom 16.10.2002 (Stand 01.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -188,7 +188,7 @@ beschliesst:
 - m Formular für die Selbstdeklaration und weitere Nachweise nach Artikel 20,
 - n den allfälligen Ausschluss oder die Einschränkung von Angeboten von Arbeitsgemeinschaften.
 
-<sup>2</sup> Sie enthalten zudem den Hinweis, dass das kantonale beco Berner Wirtschaft über die am Ort der Ausführung geltenden Arbeitsschutzbestimmungen Auskunft erteilt.
+<sup>2</sup> Sie enthalten zudem den Hinweis, dass das kantonale Amt für Wirtschaft über die am Ort der Ausführung geltenden Arbeitsschutzbestimmungen Auskunft erteilt.
 
 #### Art. 12
 
