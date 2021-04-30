@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2021-04-01
+version: 2021-05-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210401/fr"
 
 (OAMal)
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> avril 2021)
+du 27 juin 1995 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -2132,6 +2132,15 @@ L’assurance obligatoire des soins prend en charge les coûts d’un médicamen
 
 [^71d-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 
+#### Art. 71e
+
+**Prise en charge des coûts des médicaments visant à traiter le COVID-19**[^71e-1]
+
+Les art. 71*a* à 71*d* ne s’appliquent pas à la prise en charge des coûts de médicaments qui sont utilisés pour traiter des patients atteints du COVID-19 et qui contiennent des substances actives énumérées à l’annexe 5 de l’ordonnance 3 COVID-19 du 19 juin 2020[^71e-2].
+
+[^71e-1]: Introduit par le ch. III de l’O du 12 mai 2021, en vigueur du 1<sup>er</sup> mai 2021 au 31 déc. 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^71e-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+
 ### Section 5 Dispositions communes pour la Liste des analyses, la Liste des médicaments avec tarif et la Liste des spécialités****
 
 [^part1-tit4-chap3-sec5-1]
@@ -2365,7 +2374,7 @@ Les contrats de prestations visés aux art. 58*d*, al. 2, et 58*e*, al. 2, LAMal
 
 **Calcul des parts de financement des cantons et des assureurs**[^77g-1]
 
-<sup>1</sup> Le calcul de la population résidente visée à l’art. 58*f*, al. 4, LAMal se base des chiffres du dernier relevé de la population résidente permanente moyenne effectué par l’OFS.
+<sup>1</sup> Le calcul de la population résidente visée à l’art. 58*f*, al. 4, LAMal se base sur les chiffres du dernier relevé de la population résidente permanente moyenne effectué par l’OFS.
 
 <sup>2</sup> Le calcul du nombre d’assurés au sens de l’art. 58*f*, al. 5, LAMal se base sur les effectifs d’assurés au 1<sup>er</sup> janvier.
 

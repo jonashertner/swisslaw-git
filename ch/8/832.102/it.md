@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2021-04-01
+version: 2021-05-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20210501/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20210401/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° aprile 2021)
+del 27 giugno 1995 (Stato 1° maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -294,7 +294,7 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 [^10-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
 [^10-3]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
-### Capitolo 2: Sospensione dell’obbligo d’assicurazione e della copertura dell’infortunio****
+### Capitolo 2: Sospensione dell’obbligo d’assicurazione e della copertura dell’infortunio
 
 [^part1-tit1-chap2-1]
 
@@ -822,7 +822,7 @@ Se le persone che risiedono in uno Stato membro dell’Unione europea, in Island
 
 [^37-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
-### Capitolo 3:**** Commissioni
+### Capitolo 3: Commissioni
 
 [^part1-tit3-chap3-1]
 
@@ -965,7 +965,7 @@ Essa si compone di 15 membri, di cui:
 
 ### Capitolo 1: Autorizzazione
 
-### Sezione 1:**** Medici
+### Sezione 1: Medici
 
 [^part1-tit4-chap1-sec1-1]
 
@@ -990,7 +990,7 @@ I medici devono aver conseguito un titolo di perfezionamento secondo l’articol
 [^39-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 [^39-2]: Nuovo testo giusta il n. III dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 
-### Sezione 2:**** Farmacisti
+### Sezione 2: Farmacisti
 
 [^part1-tit4-chap1-sec2-1]
 
@@ -1016,7 +1016,7 @@ I farmacisti devono aver conseguito un titolo di perfezionamento secondo l’art
 [^41-1]: Nuovo testo giusta il n. III dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2705](https://fedlex.data.admin.ch/eli/oc/2017/276)).
 [^41-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-### Sezione 3:**** Dentisti
+### Sezione 3: Dentisti
 
 [^part1-tit4-chap1-sec3-1]
 
@@ -1392,7 +1392,7 @@ I laboratori che, per mandato di un altro fornitore di prestazioni autorizzato, 
 
 Chiunque è autorizzato in virtù del diritto cantonale e stipula con un assicuratore-malattie un contratto di consegna di mezzi e d’apparecchi diagnostici o terapeutici, può esercitare a carico di questo assicuratore.
 
-### Sezione 8*a*:**** Case per partorienti
+### Sezione 8*a*: Case per partorienti
 
 [^part1-tit4-chap1-sec8a-1]
 
@@ -1431,7 +1431,7 @@ Chiunque è autorizzato in virtù del diritto cantonale e stipula con un assicur
 
 <sup>2</sup> Le proprietà chimiche o fisiche devono essere dimostrate mediante analisi peritali dell’acqua e riesaminate ogni tre anni mediante analisi di controllo effettuate dalla competente istanza cantonale.
 
-### Sezione 11:**** Criteri di pianificazione
+### Sezione 11: Criteri di pianificazione
 
 [^part1-tit4-chap1-sec11-1]
 
@@ -1567,14 +1567,14 @@ Per il settore ambulatoriale e per il settore della riabilitazione il DFI emana 
 [^59ater-1]: Introdotto dal n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59ater-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
-### Capitolo 3: Tariffe e prezzi**** ****
+### Capitolo 3: Tariffe e prezzi
 
 [^part1-tit4-chap3-1][^part1-tit4-chap3-2]
 
 [^part1-tit4-chap3-1]: Originario avanti art. 59*a.* Introdotto dal n. I dell’O del 17 set. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 [^part1-tit4-chap3-2]: [RU 1997 2440](https://fedlex.data.admin.ch/eli/oc/1997/2440_2440_2440)
 
-### Sezione 1: Principi****
+### Sezione 1: Principi
 
 [^part1-tit4-chap3-sec1-1]
 
@@ -1636,7 +1636,7 @@ Le parti contraenti sottopongono la convenzione tariffale all’approvazione del
 
 [^59e-1]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
-### Sezione 2:**** Elenco delle analisi
+### Sezione 2: Elenco delle analisi
 
 [^part1-tit4-chap3-sec2-1]
 
@@ -1676,7 +1676,7 @@ Il DFI designa le analisi che:
 
 [^62-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2000, in vigore dal 1° apr. 2000 ([RU 2000 889](https://fedlex.data.admin.ch/eli/oc/2000/137)).
 
-### Sezione 3:**** Elenco dei medicamenti con tariffa
+### Sezione 3: Elenco dei medicamenti con tariffa
 
 [^part1-tit4-chap3-sec3-1]
 
@@ -1688,7 +1688,7 @@ Il DFI designa le analisi che:
 
 <sup>2</sup> Per l’ammissione di medicamenti nell’elenco dei medicamenti con tariffa si applicano per analogia le disposizioni relative all’ammissione nell’elenco delle specialità.
 
-### Sezione 4:**** Elenco delle specialità
+### Sezione 4: Elenco delle specialità
 
 [^part1-tit4-chap3-sec4-1]
 
@@ -2070,7 +2070,7 @@ Il DFI emana prescrizioni di dettaglio:
 [^71-3]: Nuovo testo giusta il n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
 [^71-4]: I documenti possono essere consultati al seguente indirizzo Internet: www.bag.admin.ch &gt; Temi &gt; Assicurazione malattie &gt; Tariffe e prezzi &gt; Elenco delle specialità
 
-### Sezione 4*a*: Rimunerazione di medicamenti nel singolo caso****
+### Sezione 4*a*: Rimunerazione di medicamenti nel singolo caso
 
 [^part1-tit4-chap3-sec4a-1]
 
@@ -2128,6 +2128,15 @@ L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi di un 
 <sup>4</sup> Il fornitore di prestazioni addebita all’assicuratore i costi effettivi. Per i medicamenti di cui all’articolo 71*a* è addebitato il prezzo massimo figurante nell’elenco delle specialità, mentre per i medicamenti di cui agli articoli 71*b* e 71*c* il prezzo al quale il fornitore di prestazioni ha acquistato il medicamento, maggiorato dalla parte propria alla distribuzione di cui all’articolo 67 capoverso 1<sup>quater</sup> e dall’imposta sul valore aggiunto.
 
 [^71d-1]: Introdotto dal n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106)).
+
+#### Art. 71e
+
+**Assunzione dei costi dei medicamenti per il trattamento dei pazienti affetti da COVID-19**[^71e-1]
+
+Gli articoli 71*a*–71*d* si applicano all’assunzione dei costi dei medicamenti impiegati per il trattamento dei pazienti affetti da COVID-19 e contenenti principi attivi elencati nell’allegato 5 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^71e-2].
+
+[^71e-1]: Introdotto dal n. III dell’O del 12 mag. 2021, in vigore dal 1° mag. al 31 dic. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^71e-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 ### Sezione 5:**** Disposizioni comuni per l’Elenco delle analisi, l’Elenco dei medicamenti con tariffa e l’Elenco delle specialità
 
@@ -2568,7 +2577,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 [^92-1]: Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### Sezione 1*a*:**** Premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia****
+### Sezione 1*a*:**** Premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia
 
 [^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
@@ -2855,7 +2864,7 @@ Il DFI designa le prestazioni per le quali va riscossa una partecipazione ai cos
 
 [^105-1]: Introdotto dal n. I dell’O del 29 nov. 2013, in vigore dal 1° mar. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)).
 
-### Capitolo 3*a*:**** Mancato pagamento dei premi e delle partecipazioni ai costi
+### Capitolo 3*a*: Mancato pagamento dei premi e delle partecipazioni ai costi
 
 [^part1-tit5-chap3a-1]
 
@@ -3026,7 +3035,7 @@ Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda o della 
 
 ### Capitolo 4: Riduzione dei premi da parte dei Cantoni
 
-### Sezione 1: Aventi diritto****
+### Sezione 1: Aventi diritto
 
 [^part1-tit5-chap4-sec1-1]
 
@@ -3057,7 +3066,7 @@ Per le seguenti persone la riduzione dei premi è praticata secondo l’articolo
 [^106a-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 [^106a-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
-### Sezione 2:**** Esecuzione della riduzione dei premi
+### Sezione 2: Esecuzione della riduzione dei premi
 
 [^part1-tit5-chap4-sec2-1]
 
@@ -3238,7 +3247,7 @@ L’assicuratore-malattie che anticipa le prestazioni deve avvertire l’assicur
 
 <sup>2</sup> Se l’assicuratore avente diritto al rimborso ha pagato più di quanto avrebbe dovuto applicando le tariffe valevoli per l’assicuratore tenuto al rimborso, i fornitori di prestazioni devono versargli la differenza.
 
-### Sezione 4:**** Obbligo dell’assicuratore d’informare
+### Sezione 4: Obbligo dell’assicuratore d’informare
 
 [^part3-tit1-chap1-sec4-1]
 
@@ -3277,7 +3286,7 @@ Trattandosi di prestazioni in natura, vi è sovrindennizzo nella misura in cui, 
 
 [^123126-1]: Abrogati dal n. I dell’O dell’11 set. 2002, con effetto 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
-## Parte quarta: Decisione, spese di comunicazione e pubblicazione di dati****
+## Parte quarta: Decisione, spese di comunicazione e pubblicazione di dati
 
 [^part4-1]
 
@@ -3380,19 +3389,19 @@ I laboratori già ammessi in virtù degli articoli 53 e 54 come fornitori di pre
 
 La presente ordinanza entra in vigore il 1° gennaio 1996.
 
-## Disposizione finale della modifica del 17 settembre 1997****
+## Disposizione finale della modifica del 17 settembre 1997
 
 [^u1-1]
 
 [^u1-1]: Abrogata dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 23 febbraio 2000****
+## Disposizioni finali della modifica del 23 febbraio 2000
 
 [^u2-1]
 
 [^u2-1]: Abrogate dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizione finale della modifica del 2 ottobre 2000****
+## Disposizione finale della modifica del 2 ottobre 2000
 
 [^u3-1]
 
@@ -3400,13 +3409,13 @@ La presente ordinanza entra in vigore il 1° gennaio 1996.
 
 Per determinati gruppi di medicamenti, l’UFSP può rinunciare durante cinque anni al massimo all’adeguamento dei prezzi alla struttura dei prezzi di cui all’articolo 67 oppure prevedere un adeguamento scaglionato.
 
-## Disposizioni finali della modifica del 22 maggio 2002****
+## Disposizioni finali della modifica del 22 maggio 2002
 
 [^u4-1]
 
 [^u4-1]: Abrogate dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 26 giugno 2002****
+## Disposizioni finali della modifica del 26 giugno 2002
 
 [^u5-1]
 
@@ -3414,13 +3423,13 @@ Per determinati gruppi di medicamenti, l’UFSP può rinunciare durante cinque a
 
 Le procedure pendenti all’entrata in vigore della presente modifica sono rette dal nuovo diritto.
 
-## Disposizione finale della modifica del 6 giugno 2003****
+## Disposizione finale della modifica del 6 giugno 2003
 
 [^u6-1]
 
 [^u6-1]: Abrogata dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 26 maggio 2004****
+## Disposizioni finali della modifica del 26 maggio 2004
 
 [^u7-1]
 
@@ -3430,7 +3439,7 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 <sup>2</sup> Per gli assicurati che hanno scelto una franchigia opzionale, a partire dal 1° gennaio 2005 si applica la franchigia opzionale offerta dal loro assicuratore che corrisponde alla loro franchigia attuale o che vi si avvicina maggiormente. Se la franchigia appena superiore o appena inferiore differiscono dello stesso ammontare dalla loro franchigia attuale, si applica la franchigia superiore. Gli assicurati con franchigia opzionale possono tuttavia scegliere un’altra franchigia o passare all’assicurazione ordinaria se lo comunicano per scritto all’assicuratore al più tardi entro il 30 novembre 2004.
 
-## Disposizioni finali della modifica del 3 dicembre 2004****
+## Disposizioni finali della modifica del 3 dicembre 2004
 
 [^u8-1]
 
@@ -3440,13 +3449,13 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 <sup>2</sup> Per quanto concerne i rapporti assicurativi conclusi prima dell’entrata in vigore della presente modifica dell’articolo 103 capoverso 5, la normativa previgente si applica alla durata contrattuale convenuta, ma al massimo sino al 31 dicembre 2005.
 
-## Disposizioni finali della modifica del 9 novembre 2005****
+## Disposizioni finali della modifica del 9 novembre 2005
 
 [^u9-1]
 
 [^u9-1]: Abrogate dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 26 aprile 2006****
+## Disposizioni finali della modifica del 26 aprile 2006
 
 [^u10-1]
 
@@ -3466,7 +3475,7 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 [^u10-3]: Abrogato dal n. I dell’O del 27 giu. 2007, con effetto dal 1° ago. 2007 ([RU 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 [^u10-4]: Abrogato dal n. II dell’O del 22 giu. 2011, con effetto dal 1° gen. 2012 ([RU 2011 3449](https://fedlex.data.admin.ch/eli/oc/2011/462)).
 
-## Disposizioni transitorie della modifica del 27 giugno 2007****
+## Disposizioni transitorie della modifica del 27 giugno 2007
 
 [^u11-1]
 
@@ -3486,7 +3495,7 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 [^u11-2]: [RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
-## Disposizione transitoria della modifica del 22 agosto 2007****
+## Disposizione transitoria della modifica del 22 agosto 2007
 
 [^u12-1]
 
@@ -3494,7 +3503,7 @@ Le procedure pendenti all’entrata in vigore della presente modifica sono rette
 
 Le disposizioni della presente ordinanza relative all’ufficio di revisione valgono a partire dal primo esercizio annuale che inizia con l’entrata in vigore della presente modifica o in seguito.
 
-## Disposizioni finali della modifica del 22 ottobre 2008****
+## Disposizioni finali della modifica del 22 ottobre 2008
 
 [^u13-1]
 
@@ -3518,7 +3527,7 @@ Le disposizioni della presente ordinanza relative all’ufficio di revisione val
 [^u13-5]: [RS 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
 [^u13-6]: Introdotto dal n. I dell’O del 2 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5037](https://fedlex.data.admin.ch/eli/oc/2011/738)).
 
-## Disposizione finale della modifica del 13 marzo 2009****
+## Disposizione finale della modifica del 13 marzo 2009
 
 [^u14-1]
 
@@ -3528,7 +3537,7 @@ In collaborazione con l’UFSP, con gli uffici preposti al versamento delle rend
 
 [^u14-2]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
 
-## Disposizione transitoria della modifica del 24 giugno 2009****
+## Disposizione transitoria della modifica del 24 giugno 2009
 
 [^u15-1]
 
@@ -3536,7 +3545,7 @@ In collaborazione con l’UFSP, con gli uffici preposti al versamento delle rend
 
 Per i progetti pilota di cui all’articolo 36*a* approvati prima dell’entrata in vigore della modifica del 24 giugno 2009 la durata di quattro anni è ridotta del tempo già trascorso al momento dell’entrata in vigore della presente modifica.
 
-## Disposizioni transitorie della modifica del 1° luglio 2009****
+## Disposizioni transitorie della modifica del 1° luglio 2009
 
 [^u16-1]
 
@@ -3561,7 +3570,7 @@ Per i progetti pilota di cui all’articolo 36*a* approvati prima dell’entrata
 
 [^u16-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4759](https://fedlex.data.admin.ch/eli/oc/2009/560)).
 
-## Disposizioni transitorie della modifica del 3 dicembre 2010****
+## Disposizioni transitorie della modifica del 3 dicembre 2010
 
 [^u17-1]
 
@@ -3573,7 +3582,7 @@ Per i progetti pilota di cui all’articolo 36*a* approvati prima dell’entrata
 
 <sup>3</sup> Gli assicuratori devono sottoporre entro un anno all’UFSP, per approvazione, i collocamenti secondo l’articolo 80*d* capoverso 1 lettera e esistenti al momento dell’entrata in vigore della modifica del 3 dicembre 2010.
 
-## Disposizioni transitorie relativa alla modifica del 22 giugno 2011****
+## Disposizioni transitorie relativa alla modifica del 22 giugno 2011
 
 [^u18-1]
 
@@ -3586,7 +3595,7 @@ Per i progetti pilota di cui all’articolo 36*a* approvati prima dell’entrata
 - a. delle riserve di sicurezza di cui all’articolo 78 capoverso 4 del diritto vigente; e
 - b. di una riassicurazione, sempre che abbiano meno di 50 000 persone nell’assicurazione obbligatoria delle cure medico sanitarie.
 
-## Disposizione transitoria della modifica del 6 luglio 2011****
+## Disposizione transitoria della modifica del 6 luglio 2011
 
 [^u19-1]
 
@@ -3594,7 +3603,7 @@ Per i progetti pilota di cui all’articolo 36*a* approvati prima dell’entrata
 
 Se un beneficiario del soccorso d’emergenza oggetto di una decisione in materia di asilo passata in giudicato prima dell’entrata in vigore della presente modifica presenta a un assicuratore una domanda di assunzione dei costi, i premi e i supplementi secondo la presente modifica sono dovuti con effetto retroattivo dal momento dell’entrata in vigore di quest’ultima.
 
-## Disposizione transitoria della modifica del 2 novembre 2011****
+## Disposizione transitoria della modifica del 2 novembre 2011
 
 [^u20-1]
 
@@ -3605,7 +3614,7 @@ Il diritto previgente si applica a Islanda, Liechtenstein e Norvegia fino all’
 [^u20-2]: RU **2012** …
 [^u20-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Disposizione transitoria della modifica del 4 luglio 2012****
+## Disposizione transitoria della modifica del 4 luglio 2012
 
 [^u21-1]
 
@@ -3617,7 +3626,7 @@ Il diritto previgente si applica a Islanda, Liechtenstein e Norvegia fino all’
 
 [^u21-2]: Nuovo testo giusta il n. II dell’O del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4391](https://fedlex.data.admin.ch/eli/oc/2014/723), [2015 1177](https://fedlex.data.admin.ch/eli/oc/2015/236)).
 
-## Disposizione transitoria della modifica dell’8 maggio 2013****
+## Disposizione transitoria della modifica dell’8 maggio 2013
 
 [^u22-1]
 
@@ -3625,7 +3634,7 @@ Il diritto previgente si applica a Islanda, Liechtenstein e Norvegia fino all’
 
 L’articolo 65*f* si applica parimenti alle domande di estensione dell’indicazione e di modificazione o soppressione di una limitazione ancora pendenti presso l’UFSP al momento dell’entrata in vigore della presente modifica.
 
-## Disposizioni transitorie della modifica del 29 novembre 2013****
+## Disposizioni transitorie della modifica del 29 novembre 2013
 
 [^u23-1]
 
@@ -3637,7 +3646,7 @@ L’articolo 65*f* si applica parimenti alle domande di estensione dell’indica
 
 [^u23-2]: [RU 2010 6161](https://fedlex.data.admin.ch/eli/oc/2010/879)
 
-## Disposizioni transitorie della modifica del 29 aprile 2015****
+## Disposizioni transitorie della modifica del 29 aprile 2015
 
 [^u24-1]
 
@@ -3655,7 +3664,7 @@ L’articolo 65*f* si applica parimenti alle domande di estensione dell’indica
 
 [^u24-2]: Nuovo testo giusta il n. I dell’O del 23 mar. 2016, in vigore dal 1° mag. 2016 ([RU 2016 1175](https://fedlex.data.admin.ch/eli/oc/2016/219)).
 
-## Disposizione transitoria della modifica del 9 dicembre 2016****
+## Disposizione transitoria della modifica del 9 dicembre 2016
 
 [^u25-1]
 
@@ -3663,7 +3672,7 @@ L’articolo 65*f* si applica parimenti alle domande di estensione dell’indica
 
 Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in medicina di laboratorio secondo l’articolo 54*a*, presentate prima dell’entrata in vigore della modifica del 9 dicembre 2016, sono rette dal diritto vigente.
 
-## Disposizioni transitorie della modifica del 1° febbraio 2017****
+## Disposizioni transitorie della modifica del 1° febbraio 2017
 
 [^u26-1]
 
@@ -3673,7 +3682,7 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 
 <sup>2</sup> Il primo riesame delle condizioni di ammissione secondo l’articolo 65*d* è effettuato nel 2017.
 
-## Disposizione transitoria della modifica del 5 aprile 2017****
+## Disposizione transitoria della modifica del 5 aprile 2017
 
 [^u27-1]
 
@@ -3685,7 +3694,7 @@ Le domande di riconoscimento dell’equipollenza di titoli di perfezionamento in
 
 [^u27-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 70*b*)
 
@@ -3706,7 +3715,7 @@ Allegato 1*[^t-1]*
 <tr><td>2. tassa annuale per ogni medicamento ammesso e per ogni imballaggio iscritto</td><td>40</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 ## Abrogazione e modifica di ordinanze
 
