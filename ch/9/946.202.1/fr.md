@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2016 sur le contrôle des biens utilisables à des 
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: fr
-version: 2020-01-01
+version: 2021-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20210501-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20200101/fr"
 
 (Ordonnance sur le contrôle des biens, OCB)
 
-du 3 juin 2016 (Etat le 1<sup>er</sup> janvier 2020)
+du 3 juin 2016 (Etat le 1<sup>er</sup> mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -392,13 +392,13 @@ Annexes 1 et 2*[^t-1]*
 
 (art. 2, al. 2, et 3, al. 1 et 2)
 
-[^t-1]: Ces annexes ne sont pas publiées au RO ([RO 2018 1253](https://fedlex.data.admin.ch/eli/oc/2018/203)et **2019** 4279). Il peuvent être commandés au Secrétariat d’Etat à l’économie (SECO), secteur contrôles à l’exportation/produits industriels, Holzikofenweg 36, 3003 Berne ou consulté sur Internet à l’adresse www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels (dual-use) et biens militaires spécifiques (Licensing) &gt; Bases légales et listes des biens (annexes).
+[^t-1]: Le texte de ces annexes n’est pas publié au RO (**2021** 191). Il peut être commandé au Secrétariat d’État à l’économie (SECO), secteur contrôles à l’exportation/produits industriels, Holzikofenweg 36, 3003 Berne ou consulté sur Internet à l’adresse www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels (dual-use) et biens militaires spécifiques (Licensing) &gt; Bases légales et listes des biens (annexes).
 
 Annexe 3*[^t-2]*
 
 (art. 3, al. 1)
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2017 2629](https://fedlex.data.admin.ch/eli/oc/2017/252)). Téléchargement: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produit industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^t-2]: Le texte de cette annexe n’est pas publié au RO (**2021** 191). Il peut être commandé au Secrétariat d’État à l’économie (SECO), secteur contrôles à l’exportation/produits industriels, Holzikofenweg 36, 3003 Berne ou consulté sur Internet à l’adresse www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels (dual-use) et biens militaires spécifiques (Licensing) &gt; Bases légales et listes des biens (annexes).
 
 Annexe 4
 

@@ -4,11 +4,11 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2020-01-01
+version: 2021-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20210501/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20210501-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 1 January 2020)
+of 3 June 2016 (Status as of 1 May 2021)
 
 The Swiss Federal Council,
 
@@ -376,7 +376,7 @@ The content of Annexes 1–3 is not published in the Official Compilation of Fed
 
 The Goods Control Ordinance of 25 June 1997[^30-1] is repealed.
 
-[^30-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704), [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No 11, [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)No II, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 4 [3537](https://fedlex.data.admin.ch/eli/oc/2005/507), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 63, [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Annex 4 No II 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 22, [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569), [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Annex 6 No II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Attachment 2 No 4, **2014** 2507 4553, **2016** 493]
+[^30-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)No II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 4 [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Annex 4 No II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Annex 4 No II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Annex 6 No II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Attachment 2 No 4; **2014** 2507 4553; **2016** 493]
 
 #### Art. 31
 
@@ -394,13 +394,13 @@ Annexes 1 and 2*[^t-1]*
 
 (Art. 2 para. 2 and 3 para. 1 and 2)
 
-[^t-1]: Annexes 1 and 2 are not published in the AS ([AS 2018 1253](https://fedlex.data.admin.ch/eli/oc/2018/203), [2019 4279](https://fedlex.data.admin.ch/eli/oc/2019/737)). They may be ordered from the State Secretariat for Economic Affairs, Export Controls Division/Industrial products, Holzikofenweg 36, 3003 Bern or consulted under unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) &gt; Rechtliche Grundlagen und Güterlisten (Anhänge).
+[^t-1]: Annexes 1 and 2 are not published in the AS ([AS 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). They may be ordered from the State Secretariat for Economic Affairs, Export Controls Division/Industrial products, Holzikofenweg 36, 3003 Bern or consulted under unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) &gt; Rechtliche Grundlagen und Güterlisten (Anhänge)
 
 Annex 3*[^t-2]*
 
 (Art. 3 para. 1)
 
-[^t-2]: Annex 3 is not published in the AS ([AS 2017 2629](https://fedlex.data.admin.ch/eli/oc/2017/252)). They may be ordered from the State Secretariat for Economic Affairs, Export Controls Division/Industrial products, Holzikofenweg 36, 3003 Bern or consulted under www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing).
+[^t-2]: Annex 3 is not published in the AS ([AS 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). They may be ordered from the State Secretariat for Economic Affairs, Export Controls Division/Industrial products, Holzikofenweg 36, 3003 Bern or consulted under www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing)
 
 Annex 4
 

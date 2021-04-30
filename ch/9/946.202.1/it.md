@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2020-01-01
+version: 2021-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20210501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20200101/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016
+del 3 giugno 2016 (Stato 1° maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -392,13 +392,13 @@ Allegati 1 e 2*[^t-1]*
 
 (art. 2 cpv. 2 e 3 cpv. 1 e 2)
 
-[^t-1]: I testi degli all. non sono pubblicati nella RU ([RU 2018 1253](https://fedlex.data.admin.ch/eli/oc/2018/203)e [2019 4279](https://fedlex.data.admin.ch/eli/oc/2019/737)). Possono essere ordinati presso la SECO, settore Controlli all’esportazione/Prodotti industriali, Holzikofenweg 36, 3003 Berna, oppure consultato sul sito Internet www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali (dual-use) e beni militari speciali (Licensing) &gt; Legge e elenchi dei beni (Allegati)
+[^t-1]: I testi degli all. non sono pubblicati nella RU ([RU 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). Possono essere ordinati presso la SECO, settore Controlli all’esportazione/Prodotti industriali, Holzikofenweg 36, 3003 Berna, oppure consultato sul sito www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali (dual-use) e beni militari speciali (Licensing) &gt; Legge e elenchi dei beni (Allegati)
 
 Allegato 3*[^t-2]*
 
 (art. 3 cpv. 1)
 
-[^t-2]: Il testo dell’all. non è pubblicato nella RU ([RU 2017 2629](https://fedlex.data.admin.ch/eli/oc/2017/252)). Può essere ordinato presso la Segreteria di Stato dell’economia, settore Controlli all’esportazione/Prodotti industriali, Holzikofenweg 36, 3003 Berna, oppure consultati sul sito Internet www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali (dual-use) e beni militari speciali (Licensing).
+[^t-2]: Il testo dell’all. non è pubblicato nella RU ([RU 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). Può essere ordinato presso la SECO, settore Controlli all’esportazione/Prodotti industriali, Holzikofenweg 36, 3003 Berna, oppure consultato sul sito www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali (dual-use) e beni militari speciali (Licensing) &gt; Legge e elenchi dei beni (Allegati)
 
 Allegato 4
 

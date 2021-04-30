@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2016 über die Kontrolle zivil und militärisch v
 short: GKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: de
-version: 2020-01-01
+version: 2021-05-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20210501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20210501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20200101/de"
 
 (Güterkontrollverordnung, GKV)
 
-vom 3. Juni 2016 (Stand am 1. Januar 2020)
+vom 3. Juni 2016 (Stand am 1. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -374,7 +374,7 @@ Der Inhalt der Anhänge 1–3 wird in der Amtlichen Sammlung des Bundesrechts un
 
 Die Güterkontrollverordnung vom 25. Juni 1997[^30-1] wird aufgehoben.
 
-[^30-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704), [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 11, [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Ziff. II, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 4 [3537](https://fedlex.data.admin.ch/eli/oc/2005/507), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 63, [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Anhang 4 Ziff. II 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 22, [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569), [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Anhang 6 Ziff. II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Beilage 2 Ziff. 4, **2014** 2507 4553, **2016** 493]
+[^30-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Ziff. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 4, [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Anhang 4 Ziff. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Anhang 6 Ziff. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249), [6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Beilage 2 Ziff. 4; **2014** 2507, 4553; **2016** 493]
 
 #### Art. 31
 
@@ -392,13 +392,13 @@ Anhänge 1 und 2*[^t-1]*
 
 (Art. 2 Abs. 2 und 3 Abs. 1 und 2)
 
-[^t-1]: Der Text der Anhänge 1 und 2 wird weder in der AS noch in der SR publiziert ([AS 2018 1253](https://fedlex.data.admin.ch/eli/oc/2018/203), [2019 4279](https://fedlex.data.admin.ch/eli/oc/2019/737)). Er kann beim SECO, Ressort Exportkontrollen/Industrieprodukte, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) &gt; Rechtliche Grundlagen und Güterlisten (Anhänge) eingesehen werden.
+[^t-1]: Der Text der Anhänge 1 und 2 wird weder in der AS noch in der SR publiziert ([AS 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). Er kann beim SECO, Ressort Exportkontrollen/Industrieprodukte, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) &gt; Rechtliche Grundlagen und Güterlisten (Anhänge) eingesehen werden.
 
 Anhang 3*[^t-2]*
 
 (Art. 3 Abs. 1)
 
-[^t-2]: Der Text des Anhangs 3 wird weder in der AS noch in der SR publiziert ([AS 2017 2629](https://fedlex.data.admin.ch/eli/oc/2017/252)). Er kann beim Staatssekretariat für Wirtschaft, Ressort Exportkontrollen/Industrieprodukte, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) eingesehen werden.
+[^t-2]: Der Text des Anhangs 3 wird weder in der AS noch in der SR publiziert ([AS 2021 191](https://fedlex.data.admin.ch/eli/oc/2021/191)). Er kann beim Staatssekretariat für Wirtschaft, Ressort Exportkontrollen/Industrieprodukte, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte (Dual-Use) und besondere militärische Güter (Licensing) eingesehen werden.
 
 Anhang 4
 
@@ -568,6 +568,6 @@ Anhang 8
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annex8-lvlu1-1]
+...[^annex8-lvlu1-1]
 
 [^annex8-lvlu1-1]: Die Änderungen können unter [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)konsultiert werden.
