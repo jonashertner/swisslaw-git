@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-04-26
+version: 2021-05-03
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210426/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210426-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210426/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210503/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210503-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210503/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 26 April 2021)
+of 27 January 2021 (Status as of 3 May 2021)
 
 The Swiss Federal Council,
 
@@ -290,12 +290,14 @@ Annex 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FDHA O of 21 April 2021 ([AS 2021 231](https://fedlex.data.admin.ch/eli/oc/2021/231)). Revised by No I of the FDHA O of 26 April 2021, in force since 26 April at 6pm ([AS 2021 242](https://fedlex.data.admin.ch/eli/oc/2021/242)).
+[^t-1]: Amended by No I of the FDHA O of 21 April 2021 ([AS 2021 235](https://fedlex.data.admin.ch/eli/oc/2021/235)). Revised by No I of the FDHA O of 26 April 2021 ([AS 2021 242](https://fedlex.data.admin.ch/eli/oc/2021/242)) and of 3 May 2021, in force since 3 May 2021 at 6pm ([AS 2021 255](https://fedlex.data.admin.ch/eli/oc/2021/255)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions
 
 Andorra
+
+Argentina
 
 Armenia
 
@@ -311,6 +313,8 @@ Bulgaria
 
 Canada
 
+Cape Verde
+
 Chile
 
 Croatia
@@ -318,6 +322,8 @@ Croatia
 Cyprus
 
 Czech Republic
+
+Egypt
 
 Estonia
 
@@ -339,7 +345,11 @@ Lithuania
 
 Luxembourg
 
+Mexico
+
 Montenegro
+
+Nepal
 
 Netherlands
 
@@ -350,6 +360,8 @@ Palestinian Territory (Occupied)
 Paraguay
 
 Poland
+
+Qatar
 
 San Marino
 
