@@ -5,12 +5,12 @@ title: Ergänzende Verordnung über das Arbeitsverhältnis der Mittelschul-Lehrp
 short: EVA-MS
 language: de
 version: 2017-08-01
-valid_until: 2022-07-31
+corrected: 2021-05-04
 version_adopted: 2016-10-25
 adopted: 2004-06-15
 in_force: 2004-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.4"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3158/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2210/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -303,12 +303,10 @@ als Verordnung:[^ingress-2]
 - a) dem Gehalt einer Lehrperson;
 - b) der Funktionszulage.
 
-<sup>2</sup> Als jährliche Funktionszulage erhalten:[^20-1]
+<sup>2</sup> Als jährliche Funktionszulage erhalten:
 
 - 1\. die Rektorin oder der Rektor der Kantonsschule am Burggraben St.Gallen: Fr. 33 385.–
 - 2\. die Rektorinnen oder Rektoren der übrigen Kantonsschulen: Fr. 29 380.–
-
-[^20-1]: Ausgeglichener Indexstand vom November 2002 mit 102,3 Punkten (Basis Mai 2000 = 100 Indexpunkte).
 
 #### Art. 21
 
