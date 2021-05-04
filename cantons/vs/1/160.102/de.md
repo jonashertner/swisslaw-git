@@ -3,27 +3,26 @@ canton: VS
 number: "160.102"
 title: Verordnung über die briefliche Stimmabgabe
 language: de
-version: 2012-01-01
-corrected: 2017-08-31
-version_adopted: 2011-12-21
+version: 2021-05-05
+valid_until: 2024-01-31
+version_adopted: 2021-03-10
 adopted: 2008-03-12
 in_force: 2008-03-28
 url: "https://lex.vs.ch/app/de/texts_of_law/160.102"
-pdf: "https://lex.vs.ch/api/de/versions/688/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2892/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die briefliche Stimmabgabe
 
-vom 12. März 2008
+vom 12.03.2008 (Stand 05.05.2021)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Bestimmungen des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte (BPR), der Bundesverordnung vom 24. Mai 1978 über die politischen Rechte (VPR) und des kantonalen Ausführungsgesetzes vom 15. Februar 1995 (AGBPR);
+eingesehen die Bestimmungen des Bundesgesetzes über die politischen Rechte vom 17. Dezember 1976 (BPR), der Bundesverordnung über die politischen Rechte vom 24. Mai 1978 (VPR) und des kantonalen Ausführungsgesetzes vom 15. Februar 1995 (AGBPR);
 
-eingesehen die Artikel 25 und 26 des kantonalen Gesetzes über die politischen Rechte vom 13. Mai 2004 (GPR);
+eingesehen die Artikel 25 und 26 des kantonalen Gesetzes über die politischen Rechte vom 13. Mai 2004 (kGPR);
 
 auf Antrag des Departements für Finanzen, Institutionen und Sicherheit,
 
@@ -54,13 +53,9 @@ verordnet:
 <sup>1</sup> Vor jeder Wahl und Abstimmung sendet die Gemeindeverwaltung allen Stimmbürgern an ihre Wohnadresse und persönlich:
 
 - a) einen Stimmzettel, oder bei Wahlen ein Exemplar von jedem gedruckten Wahlzettel sowie einen leeren amtlichen Wahlzettel;
-
 - b) für die eidgenössischen und kantonalen Urnengänge die Abstimmungstexte sowie die amtlichen Broschüren oder Botschaften;
-
 - c) einen Übermittlungsumschlag und ein Rücksendungsblatt;
-
 - d) so viele Stimmkuverts, wie es organisierte Urnengänge gibt;
-
 - e) gegebenenfalls eine permanente oder nicht permanente Stimmkarte.
 
 <sup>2</sup> Finden mehrere Urnengänge am gleichen Tag statt, erhält der Stimmbürger einen einzigen Übermittlungsumschlag und so viele Stimmkuverts, wie es organisierte Urnengänge hat. Die am Eingang zu den Stimmkabinen abgegebenen Stimmkuverts wie auch jene, die für die briefliche Stimmabgabe sowie für die Stimmabgabe durch Hinterlegung bei der Gemeinde versandt wurden, müssen identisch sein und den Urnengang, für welchen sie bestimmt sind, klar angeben.
@@ -85,41 +80,48 @@ verordnet:
 
 **Zustellfristen**
 
-Die Gemeinde richtet es so ein, dass jeder Stimmbürger das Stimmmaterial innert den folgenden Fristen erhält:
+<sup>1</sup> Die Gemeinde richtet es so ein, dass jeder Stimmbürger das Stimmmaterial innert den folgenden Fristen erhält:
 
-- a) für die eidgenössischen Abstimmungen frühestens vier Wochen, spätestens aber drei Wochen vor dem Abstimmungstag;
-
-- b) für die Nationalratswahlen spätestens zehn Tage vor dem Wahlsonntag;
-
+- a) für die eidgenössischen Abstimmungen und für die Nationalratswahlen frühestens vier Wochen, spätestens aber drei Wochen vor dem Abstimmungstag;
+- b) …
 - c) für die kantonalen und kommunalen Wahlen und Abstimmungen mindestens 15 Tage vor dem Urnengang; für die zweiten Wahlgänge und für die kommunalen Ergänzungswahlen verkürzt sich diese Frist auf fünf Tage.
 
 #### Art. 7
 
 **Gleichzeitige Zustellung**
 
-Finden am gleichen Tag eine eidgenössische und eine kantonale Abstimmung statt, erfolgt der Versand des Stimmmaterials an die Stimmbürger gleichzeitig und zwar entsprechend den vom Bundesrecht vorgesehenen Fristen.
+<sup>1</sup> Finden am gleichen Tag ein eidgenössischer und ein kantonaler oder kommunaler Urnengang statt, erfolgt der Versand des Stimmmaterials an die Stimmbürger gleichzeitig und zwar entsprechend den vom Bundesrecht vorgesehenen Fristen.
 
 #### Art. 8
 
 **Übermittlungsumschlag**
 
-Der Übermittlungsumschlag hat die Form eines Zustell- und Antwortkuverts. Er enthält folgende Angaben:
+<sup>1</sup> Der Übermittlungsumschlag hat die Form eines Zustell- und Antwortkuverts. Er enthält folgende Angaben:
 
-- a) den Text von Artikel 282<sup>bis</sup> des Schweizerischen Strafgesetzbuches, wonach «jener, wer planmässig Stimm- oder Wahlzettel einsammelt, ausfüllt oder ändert oder wer derartige Wahl- oder Stimmzettel verteilt, mit Haft oder mit Busse bestraft wird»;
-
+- a) den Text von Artikel 282<sup>bis</sup> des Schweizerischen Strafgesetzbuches, wonach "jener, wer planmässig Stimm- oder Wahlzettel einsammelt, ausfüllt oder ändert oder wer derartige Wahl- oder Stimmzettel verteilt, mit Busse bestraft wird";
 - b) den Hinweis, wonach nicht oder ungenügend frankierte Übermittlungsumschläge von der Gemeinde zurückgewiesen werden müssen;
-
 - c) den Hinweis, wonach der über die Post zugestellte Übermittlungsumschlag spätestens am Freitag vor dem Urnengang bei der Gemeinde eintreffen muss;
-
-- d) den Hinweis, dass die Hinterlegung des Übermittlungsumschlags bei der Gemeinde während den von der Gemeinde angegebenen Zeiten erfolgen muss, spätestens aber am Freitag vor dem Urnengang um 17 Uhr.
+- d) den Hinweis, dass die Hinterlegung des Übermittlungsumschlags bei der Gemeinde während den von der Gemeinde angegebenen Zeiten erfolgen muss, spätestens aber am Freitag vor dem Urnengang.
 
 #### Art. 9
 
 **Rücksendungsblatt**
 
-<sup>1</sup> Das Rücksendungsblatt wird vom Kanton vorbereitet und von der Gemeinde vervollständigt. Nebst dem Namen und dem Wappen der Gemeinde sowie dem Datum und der Art des Urnengangs, muss es alle Angaben enthalten, welche die Identifizierung des Stimmbürgers ermöglichen (Name, Vorname, Geschlecht, Geburtsjahr und Adresse). Es muss auch erwähnen, dass der Stimmbürger seine Unterschrift anbringen muss, andernfalls die Stimmabgabe ungültig ist.
+<sup>1</sup> Das Rücksendungsblatt wird vom Kanton vorbereitet und von der Gemeinde vervollständigt. Nebst dem Namen und dem Wappen der Gemeinde sowie dem Datum und der Art des Urnengangs, muss es alle Angaben enthalten, welche die Identifizierung des Stimmbürgers ermöglichen (Name, Vorname, Geschlecht, Geburtsjahr und Adresse). Es muss auch erwähnen, dass der Stimmbürger seine Unterschrift anbringen und die persönliche selbstklebende Etikette aufkleben muss, andernfalls die Stimmabgabe ungültig ist. Vorbehalten bleibt Artikel 9a Absatz 4.
 
 <sup>2</sup> Jedesmal, wenn das Stimmvolk zu einem Urnengang einberufen wird, ist ein neues Rücksendungsblatt auszustellen.
+
+#### Art. 9a
+
+**Selbstklebende Etikette**
+
+<sup>1</sup> Zu Beginn der Verwaltungsperiode stellt die Gemeinde jedem Stimmbürger selbstklebende Etiketten mit seinen persönlichen Daten (Name, Vorname, geografische Angabe) zu. Gleiches gilt namentlich bei jeder neuen Eintragung eines Stimmbürgers ins Stimmregister.
+
+<sup>2</sup> Der brieflich abstimmende Stimmbürger muss seine persönliche selbstklebende Etikette auf das Rücksendungsblatt, in das dafür vorgesehene Feld kleben, andernfalls die Stimmabgabe ungültig ist.
+
+<sup>3</sup> Der Stimmbürger, der seine persönlichen selbstklebenden Etiketten verloren hat, kann bei der Gemeindeverwaltung schriftlich einen neuen Satz beantragen. Diese kann die Erstattung der Kosten verlangen.
+
+<sup>4</sup> Die Vorschrift der selbstklebenden Etikette findet für die im zentralen Stimmregister für Auslandschweizer eingtragenen Stimmbürger keine Anwendung.
 
 #### Art. 10
 
@@ -135,13 +137,13 @@ Der Übermittlungsumschlag hat die Form eines Zustell- und Antwortkuverts. Er en
 
 <sup>1</sup> Stimmbürger, die ihre Stimmkarte oder das als Stimmkarte dienende Rücksendungsblatt (Art. 10 Abs. 2) verloren oder nicht erhalten haben, können bei der Gemeindeverwaltung ein Doppel davon verlangen.
 
-<sup>2</sup> Die neue Stimmkarte oder das neue Rücksendungsblatt muss den Aufdruck «Doppel oder Duplikata» tragen. Diese werden dem Stimmbürger persönlich ausgehändigt, gegebenenfalls unter Vorweisung einer Identitätskarte und gegen Empfangsbestätigung. Das Wahlbüro stellt sicher, dass diese Stimmbürger nicht zweimal stimmen können.
+<sup>2</sup> Die neue Stimmkarte oder das neue Rücksendungsblatt muss den Aufdruck "Doppel oder Duplikata" tragen. Diese werden dem Stimmbürger persönlich ausgehändigt, gegebenenfalls unter Vorweisung einer Identitätskarte und gegen Empfangsbestätigung. Das Wahlbüro stellt sicher, dass diese Stimmbürger nicht zweimal stimmen können.
 
 #### Art. 12
 
 **Verlust des Stimmmaterials**
 
-Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann dieses erneut bei der Gemeindeverwaltung verlangen.
+<sup>1</sup> Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann dieses erneut bei der Gemeindeverwaltung verlangen.
 
 #### Art. 13
 
@@ -151,7 +153,7 @@ Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann diese
 
 <sup>2</sup> Er legt sodann das oder die Stimmkuverts, gegebenenfalls mit der Stimmkarte, in den Übermittlungsumschlag.
 
-<sup>3</sup> Er unterschreibt das Rücksendungsblatt und bringt, sofern die Empfängergemeinde nicht vorgedruckt ist, die Adresse der Gemeindeverwaltung an.
+<sup>3</sup> Er unterschreibt das Rücksendungsblatt und bringt die persönliche selbstklebende Etikette sowie, sofern die Empfängergemeinde nicht vorgedruckt ist, die Adresse der Gemeindeverwaltung an.
 
 <sup>4</sup> Er schiebt das Rücksendungsblatt derart in den Übermittlungsumschlag, dass die Adresse der Empfängergemeinde im Sichtfenster erscheint. Sodann verschliesst er den Übermittlungsumschlag.
 
@@ -161,7 +163,7 @@ Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann diese
 
 <sup>1</sup> Übt der Stimmbürger seine briefliche Stimmabgabe auf postalischem Weg aus, frankiert er den Übermittlungsumschlag gemäss massgebendem Posttarif, andernfalls die Stimmabgabe ungültig ist, und übergibt die Sendung einem Postbüro.
 
-<sup>2</sup> Die Sendung muss bei der Gemeindeverwaltung spätestens am Freitag, der der Wahl oder der Abstimmung vorausgeht, eintreffen. Die zu spät eintreffenden Übermittlungsumschläge werden nicht geöffnet. Die Gemeinde bewahrt diese bis zum Ablauf der Beschwerdefrist auf und vernichtet diese sodann zusammen mit dem Stimmmaterial (Art. 88 GPR).
+<sup>2</sup> Die Sendung muss bei der Gemeindeverwaltung spätestens am Freitag, der der Wahl oder der Abstimmung vorausgeht, eintreffen. Die zu spät eintreffenden Übermittlungsumschläge werden nicht geöffnet. Die Gemeinde bewahrt diese bis zum Ablauf der Beschwerdefrist auf und vernichtet diese sodann zusammen mit dem Stimmmaterial (Art. 88 kGPR).
 
 <sup>3</sup> Die Gemeinde hat die Annahme von nicht oder ungenügend frankierten Übermittlungsumschlägen, die ihr auf postalischem Weg zugegangen sind, zu verweigern.
 
@@ -169,7 +171,7 @@ Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann diese
 
 **Hinterlegung bei der Gemeinde**
 
-<sup>1</sup> Der Stimmbürger kann seine Stimme abgeben, indem er den verschlossenen Übermittlungsumschlag direkt auf der Gemeindekanzlei in die dafür vorgesehene versiegelte Urne legt. Diese Hinterlegung kann erfolgen, sobald der Stimmbürger das Stimmmaterial erhalten hat und bis Freitag, der dem Urnengang vorausgeht, 17 Uhr.
+<sup>1</sup> Der Stimmbürger kann seine Stimme abgeben, indem er den verschlossenen Übermittlungsumschlag direkt auf der Gemeindekanzlei in die dafür vorgesehene versiegelte Urne legt. Diese Hinterlegung kann erfolgen, sobald der Stimmbürger das Stimmmaterial erhalten hat und bis Freitag, der dem Urnengang vorausgeht.
 
 <sup>2</sup> Die Gemeinde erwähnt in der Anzeige zur Einberufung der Urversammlung die Tage und die Zeiten, während denen diese Hinterlegung erfolgen kann. Diese Hinterlegung muss mindestens während zwei Stunden jeweils am Donnerstag und Freitag, die dem Urnengang vorausgehen, möglich sein.
 
@@ -181,7 +183,7 @@ Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann diese
 
 <sup>1</sup> Die Gemeinden sehen zwei Urnen vor, die eine für die briefliche Stimmabgabe und die andere für die Stimmabgabe durch Hinterlegung.
 
-<sup>2</sup> Beide Urnen müssen vor dem für den Empfang der Stimmen vorgesehenen Datum in Anwesenheit von mindestens drei Mitgliedern des Auszählbüros versiegelt werden. Die Siegel dürfen während des Urnengangs nur in Anwesenheit von drei Mitgliedern des Auszählbüros entfernt werden. Diese treffen alle notwendigen Vorkehren zur Gewährleistung der Unversehrtheit des Stimmmaterials.
+<sup>2</sup> Beide Urnen müssen ab Versand des Stimmmaterials an die Stimmbürger in Anwesenheit von mindestens drei Mitgliedern des Auszählbüros versiegelt werden. Die Siegel dürfen während des Urnengangs nur in Anwesenheit von drei Mitgliedern des Auszählbüros entfernt werden. Diese treffen alle notwendigen Vorkehren zur Gewährleistung der Unversehrtheit des Stimmmaterials.
 
 <sup>3</sup> Die Urne, welche für die Stimmabgabe durch Hinterlegung vorgesehen ist, muss während den Zeiten, an denen die Stimmabgabe durch Hinterlegung möglich ist, unter ständiger Aufsicht einer Person der Gemeindeverwaltung bleiben. Ausserhalb dieser Zeiten ist sie an einem sicheren Ort aufzubewahren.
 
@@ -193,7 +195,7 @@ Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann diese
 
 **Stimmabgabe an der Urne**
 
-<sup>1</sup> Der Stimmbürger, der sich an die Urne begibt, muss seine Stimmkarte oder das als Stimmkarte dienende Rücksendungsblatt vorweisen (Art. 10 Abs. 2). Liegt diese nicht vor, so wird der Stimmbürger dennoch zur Stimmabgabe zugelassen, wenn er seine Identität ausweisen kann. Das Büro vergewissert sich, dass diese Person nicht brieflich oder durch Hinterlegung bei der Gemeinde oder in einer anderen Sektion gestimmt hat (Art. 64 GPR).
+<sup>1</sup> Der Stimmbürger, der sich an die Urne begibt, muss seine Stimmkarte oder das als Stimmkarte dienende Rücksendungsblatt vorweisen (Art. 10 Abs. 2). Liegt diese nicht vor, so wird der Stimmbürger dennoch zur Stimmabgabe zugelassen, wenn er seine Identität ausweisen kann. Das Büro vergewissert sich, dass diese Person nicht brieflich oder durch Hinterlegung bei der Gemeinde oder in einer anderen Sektion gestimmt hat (Art. 64 kGPR).
 
 <sup>2</sup> Die anlässlich der Stimmabgabe an der Urne eingesammelten Stimmkarten sind getrennt von den Stimmkarten aufzubewahren, die von der brieflichen Stimmabgabe oder der Stimmabgabe durch Hinterlegung bei der Gemeinde herkommen.
 
@@ -205,7 +207,7 @@ Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann diese
 
 <sup>1</sup> Für die briefliche Stimmabgabe stellt der Gemeindepräsident sicher, dass die Briefpost von der Gemeindeverwaltung am Freitag, der dem Urnengang vorausgeht, nach 17 Uhr, ein letztes Mal abgeholt wird.
 
-<sup>2</sup> Die Urnen, die der brieflichen Stimmabgabe und der Stimmabgabe durch Hinterlegung bei der Gemeinde gedient haben, sind vom Auszählbüro vor der Eröffnung des Urnengangs vom Samstag zu leeren. Vor diesem Zeitpunkt dürfen die Urnen nur in Gegenwart von mindestens drei Mitgliedern des Auszählbüros geöffnet werden. Der Urneninhalt ist sodann zu versiegeln und von den anwesenden Personen zu unterzeichnen.
+<sup>2</sup> Die Urnen, die der brieflichen Stimmabgabe und der Stimmabgabe durch Hinterlegung bei der Gemeinde gedient haben, sind vom Auszählbüro vor der Eröffnung des Urnengangs zu leeren. Vor diesem Zeitpunkt dürfen die Urnen nur in Gegenwart von mindestens drei Mitgliedern des Auszählbüros geöffnet werden. Der Urneninhalt ist sodann zu versiegeln und von den anwesenden Personen zu unterzeichnen.
 
 #### Art. 19
 
@@ -215,24 +217,20 @@ Der Stimmbürger, der das ihm zugestellte Stimmmaterial verloren hat, kann diese
 
 <sup>2</sup> Die Namen der Stimmbürger, die brieflich oder durch Hinterlegung bei der Gemeinde gestimmt haben, werden in das Register der Stimmenden unter Angabe der Stimmart eingetragen.
 
-<sup>3</sup> Das Auszählbüro ist frühzeitig einzuberufen, um diese Handlungen (Teilauszählung) vor der amtlichen Eröffnung des Urnengangs vom Samstag zu ermöglichen.
+<sup>3</sup> Das Auszählbüro ist frühzeitig einzuberufen, um diese Handlungen (Teilauszählung) vor der amtlichen Eröffnung des Urnengangs zu ermöglichen.
 
 <sup>4</sup> In den Gemeinden, in denen sektionsweise gestimmt wird, werden diese Handlungen vom Hauptbüro vorgenommen.
 
 #### Art. 20
 
-Ungültigkeit der brieflichen Stimmabgabe und der Stimmabgabe durch Hinterlegung bei der Gemeinde
+**Ungültigkeit der brieflichen Stimmabgabe und der Stimmabgabe durch Hinterlegung bei der Gemeinde**
 
 <sup>1</sup> Die briefliche Stimmabgabe oder die Stimmabgabe durch Hinterlegung bei der Gemeinde sind ungültig:
 
 - a) wenn der Stimmbürger nicht den amtlichen Übermittlungsumschlag und die amtlichen Stimmkuverts benützt hat;
-
-- b) wenn die Stimmkarte fehlt oder das Rücksendungsblatt nicht die handschriftliche Unterschrift des Stimmbürgers trägt;
-
+- b) wenn die Stimmkarte fehlt oder das Rücksendungsblatt nicht die handschriftliche Unterschrift des Stimmbürgers trägt oder der Stimmbürger seine selbstklebende Etikette nicht auf das Rücksendungsblatt geklebt hat. Vorbehalten bleibt Artikel 9a Absatz 4;
 - c) wenn der Übermittlungsumschlag nicht über die Post zugestellt oder nicht in die auf der Gemeindeverwaltung bereitgestellte versiegelte Urne gelegt wurde (z.B. Einwerfen des Übermittlungsumschlags in den Briefkasten der Gemeindeverwaltung);
-
 - d) wenn ein Übermittlungsumschlag das Stimmmaterial von mehreren Stimmbürgern enthält (gruppierter Versan;
-
 - e) wenn die Stimmkuverts Angaben enthalten, die auf deren Herkunft schliessen lassen; diese werden nicht geöffnet.
 
 <sup>2</sup> Die in Artikel 77 des Gesetzes über die politischen Rechte aufgelisteten Ungültigkeitsgründe der Stimmzettel bleiben vorbehalten.
@@ -241,7 +239,7 @@ Ungültigkeit der brieflichen Stimmabgabe und der Stimmabgabe durch Hinterlegung
 
 **Portokosten**
 
-Die Frankierung der Postsendungen geht zu Lasten des Absenders.
+<sup>1</sup> Die Frankierung der Postsendungen geht zu Lasten des Absenders.
 
 #### Art. 22
 
@@ -249,19 +247,17 @@ Die Frankierung der Postsendungen geht zu Lasten des Absenders.
 
 <sup>1</sup> Die Gemeinden bestellen beim Staatsökonomat die Übermittlungsumschläge, die Stimmkuverts und die Rücksendungsblätter.
 
-<sup>2</sup> Der Kanton liefert den Gemeinden die Übermittlungsumschläge und die Stimmkuverts für die eidgenössischen, kantonalen und kommunalen Urnengänge unentgeltlich.[^22-1]
+<sup>2</sup> Der Kanton liefert den Gemeinden die Übermittlungsumschläge, die Stimmkuverts und die Rücksendungsblätter für die eidgenössischen, kantonalen und kommunalen Urnengänge sowie die leeren persönlichen selbstklebenden Etiketten unentgeltlich.
 
 <sup>3</sup> Die Rücksendungsblätter werden vom Kanton vorbereitet und von den Gemeinden vervollständigt. Die Gemeinden dürfen die Rücksendungsblätter selber erstellen, wobei diese die Angaben gemäss Artikel 9 Absatz 1 zu enthalten haben.
-
-[^22-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
 
 #### Art. 23
 
 **Aufhebung geltenden Rechts**
 
-Die Verordnung über die briefliche Stimmabgabe vom 17. November 2004 wird aufgehoben.
+<sup>1</sup> Die Verordnung über die briefliche Stimmabgabe vom 17. November 2004 wird aufgehoben.
 
-#### Art. 22
+#### Art. 24
 
 **Genehmigung**
 
@@ -269,12 +265,4 @@ Die Verordnung über die briefliche Stimmabgabe vom 17. November 2004 wird aufge
 
 <sup>2</sup> Sie tritt nach ihrer Veröffentlichung im Amtsblatt in Kraft.
 
-So beschlossen im Staatsrat zu Sitten, den 12. März 2008.
-
-Der Präsident des Staatsrats: Jean-Jacques Rey-Bellet Der Staatskanzler: Henri v. Roten
-
-Genehmigt durch die Bundeskanzlei am 20. März 2008
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-GS/VS 2008
+CSW BO/Abl. 13/2008

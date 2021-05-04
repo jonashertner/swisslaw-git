@@ -3,25 +3,28 @@ canton: VS
 number: "160.102"
 title: Ordonnance sur le vote par correspondance
 language: fr
-version: 2012-01-01
-corrected: 2017-08-31
-version_adopted: 2011-12-21
+version: 2021-05-05
+valid_until: 2024-01-31
+version_adopted: 2021-03-10
 adopted: 2008-03-12
 in_force: 2008-03-28
 url: "https://lex.vs.ch/app/fr/texts_of_law/160.102"
-pdf: "https://lex.vs.ch/api/fr/versions/688/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2892/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur le vote par correspondance
 
-du 12 mars 2008
+du 12.03.2008 (état 05.05.2021)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les dispositions de la loi fédérale du 17 décembre 1976 sur les droits politiques (LDP), de l'ordonnance fédérale du 24 mai 1978 sur les droits politiques (ODP) et de la législation cantonale d'application du 15 février 1995 (LALDP), vu les articles 25 et 26 de la loi cantonale sur les droits politiques du 13 mai2004 (LcDP), sur la proposition du Département des finances, des institutions et de la sécurité,
+vu les dispositions de la loi fédérale sur les droits politiques du 17 décembre 1976 (LDP), de l'ordonnance fédérale sur les droits politiques du 24 mai 1978 (ODP) et de la législation cantonale d'application du 15 février 1995 (LALDP),
+
+vu les articles 25 et 26 de la loi cantonale sur les droits politiques du 13 mai 2004 (LcDP),
+
+sur la proposition du Département des finances, des institutions et de la sécurité,
 
 arrête:
 
@@ -50,13 +53,9 @@ arrête:
 <sup>1</sup> Avant chaque élection et votation, l'administration communale adresse à leur lieu de domicile et personnellement à tous les citoyens:
 
 - a) un bulletin de vote ou, en cas d'élection, un exemplaire de chaque bulletin imprimé ainsi qu'un bulletin blanc officiel;
-
 - b) pour les scrutins fédéraux et cantonaux, les textes soumis au vote ainsi que les notices ou messages explicatifs officiels;
-
 - c) une enveloppe de transmission et une feuille de réexpédition;
-
 - d) autant d'enveloppes de vote qu'il y a de scrutins organisés;
-
 - e) cas échéant, une carte civique permanente ou non.
 
 <sup>2</sup> Lorsque plusieurs scrutins ont lieu le même jour, l'électeur reçoit une seule enveloppe de transmission et autant d'enveloppes de vote qu'il y a de scrutins organisés. Les enveloppes de vote distribuées à l'entrée de l'isoloir ainsi que celles remises pour le vote par correspondance ou par dépôt à la commune doivent être identiques et mentionner clairement le scrutin auquel elles sont destinées.
@@ -81,41 +80,48 @@ arrête:
 
 **Délais d'envoi**
 
-La commune fait en sorte que chaque électeur reçoit le matériel de vote dans les délais suivants:
+<sup>1</sup> La commune fait en sorte que chaque électeur reçoit le matériel de vote dans les délais suivants:
 
-- a) pour les votations fédérales, au plus tôt quatre semaines avant le jour de la votation mais au plus tard trois semaines avant cette date;
-
-- b) pour l'élection du Conseil National, au plus tard dix jours avant le dimanche du scrutin;
-
+- a) pour les votations fédérales et pour l’élection du Conseil national, au plus tôt quatre semaines avant le jour de la votation mais au plus tard trois semaines avant cette date;
+- b) …
 - c) pour les votations et élections cantonales et communales, quinze jours au moins avant le scrutin; pour les élections au second tour et pour les élections communales de remplacement, ce délai est réduit à cinq jours.
 
 #### Art. 7
 
 **Envoi simultané**
 
-Lorsqu'une votation fédérale et une votation cantonale ont lieu le même jour, l'envoi du matériel de vote aux citoyens est effectué simultanément, selon les délais prévus par le droit fédéral.
+<sup>1</sup> Lorsqu'un scrutin fédéral et un scrutin cantonal ou communal ont lieu le même jour, l'envoi du matériel de vote aux citoyens est effectué simultanément, selon les délais prévus par le droit fédéral.
 
 #### Art. 8
 
 **Enveloppe de transmission**
 
-L'enveloppe de transmission se présente sous la forme d'une enveloppe-réponse. Elle comprend les indications suivantes:
+<sup>1</sup> L'enveloppe de transmission se présente sous la forme d'une enveloppe-réponse. Elle comprend les indications suivantes:
 
-- a) le texte de l'article 282<sup>bis</sup> du Code pénal suisse, aux termes duquel « celui qui recueille, remplit ou modifie systématiquement des bulletins de vote ou qui distribue des bulletins ainsi remplis ou modifiés sera puni des arrêts ou de l'amende »;
-
+- a) le texte de l'article 282<sup>bis</sup> du Code pénal suisse, aux termes duquel "celui qui recueille, remplit ou modifie systématiquement des bulletins de vote ou qui distribue des bulletins ainsi remplis ou modifiés sera puni d'une amende";
 - b) la mention selon laquelle les enveloppes de transmission non affranchies ou insuffisamment affranchies doivent être refusées par la commune;
-
 - c) la mention que, si l'enveloppe de transmission est postée, elle doit parvenir à la commune au plus tard le vendredi précédant le jour du scrutin;
-
-- d) la mention que le dépôt de l'enveloppe de transmission à la commune doit être effectué aux heures indiquées par la commune, mais au plus tard le vendredi qui précède le scrutin à 17 heures.
+- d) la mention que le dépôt de l'enveloppe de transmission à la commune doit être effectué aux heures indiquées par la commune, mais au plus tard le vendredi qui précède le scrutin.
 
 #### Art. 9
 
 **Feuille de réexpédition**
 
-<sup>1</sup> La feuille de réexpédition est préétablie par le canton et complétée par la commune. Outre le nom ou l'armoirie de la commune, la date et le genre du scrutin, elle doit comporter toutes les indications qui permettent d'identifier l'électeur (nom, prénom, sexe, année de naissance et adresse). Elle doit également mentionner que l'électeur doit apposer sa signature sous peine de nullité.
+<sup>1</sup> La feuille de réexpédition est préétablie par le canton et complétée par la commune. Outre le nom ou l'armoirie de la commune, la date et le genre du scrutin, elle doit comporter toutes les indications qui permettent d'identifier l'électeur (nom, prénom, sexe, année de naissance et adresse). Elle doit également mentionner que l'électeur doit apposer sa signature et coller son étiquette autocollante personnelle sous peine de nullité. Demeure réservé l’article 9a alinéa 4.
 
 <sup>2</sup> Une nouvelle feuille de réexpédition est établie chaque fois que le corps électoral est convoqué pour un scrutin aux urnes.
+
+#### Art. 9a
+
+**Etiquette autocollante**
+
+<sup>1</sup> Au début de la période administrative, la commune adresse à chaque citoyen des étiquettes autocollantes comprenant les données personnelles de celui-ci (nom, prénom, mention géographique). Il en va notamment de même lors de toute nouvelle inscription d'un citoyen dans le registre électoral.
+
+<sup>2</sup> Le citoyen qui vote par correspondance doit coller son étiquette autocollante personnelle sur la feuille de réexpédition, dans la case prévue à cet effet, sous peine de nullité.
+
+<sup>3</sup> Le citoyen qui a perdu ses étiquettes autocollantes personnelles peut demander, par écrit, un nouveau jeu à l'administration communale. Celle-ci peut exiger le remboursement des frais.
+
+<sup>4</sup> L’exigence de l’étiquette autocollante ne s’applique pas aux citoyens inscrits dans le registre électoral central des Suisses de l’étranger.
 
 #### Art. 10
 
@@ -131,13 +137,13 @@ L'enveloppe de transmission se présente sous la forme d'une enveloppe-réponse.
 
 <sup>1</sup> Les citoyens qui ont perdu ou n'ont pas reçu leur carte civique ou la feuille de réexpédition qui en tient lieu (art. 10 al. 2) peuvent en demander un double à l'administration communale.
 
-<sup>2</sup> La nouvelle carte civique ou feuille de réexpédition doit porter la mention «double ou duplicata». Elle est délivrée en mains propres de l'électeur, le cas échéant sur présentation d'une pièce d'identité et contre récépissé. Le bureau électoral s'assure que cet électeur ne puisse voter deux fois.
+<sup>2</sup> La nouvelle carte civique ou feuille de réexpédition doit porter la mention "double ou duplicata". Elle est délivrée en mains propres de l'électeur, le cas échéant sur présentation d'une pièce d'identité et contre récépissé. Le bureau électoral s'assure que cet électeur ne puisse voter deux fois.
 
 #### Art. 12
 
 **Perte du matériel de vote**
 
-L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le réclamer à nouveau à l'administration communale.
+<sup>1</sup> L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le réclamer à nouveau à l'administration communale.
 
 #### Art. 13
 
@@ -147,7 +153,7 @@ L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le 
 
 <sup>2</sup> Il introduit ensuite la ou les enveloppes de vote dans l'enveloppe de transmission avec, le cas échéant, la carte civique.
 
-<sup>3</sup> Il appose sa signature sur la feuille de réexpédition et, en l'absence de texte pré-imprimé, y inscrit l'adresse de l'administration communale destinataire.
+<sup>3</sup> Il appose sa signature et colle son étiquette autocollante personnelle sur la feuille de réexpédition et, en l'absence de texte pré-imprimé, y inscrit l'adresse de l'administration communale destinataire.
 
 <sup>4</sup> Il introduit la feuille de réexpédition dans l'enveloppe de transmission de façon à ce que l'adresse de la commune destinataire apparaisse dans la fenêtre transparente. Enfin, il ferme l'enveloppe de transmission.
 
@@ -165,7 +171,7 @@ L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le 
 
 **Dépôt à la commune**
 
-<sup>1</sup> L'électeur peut exercer son vote en déposant l'enveloppe de transmission fermée directement auprès du secrétariat communal, dans l'urne scellée prévue à cet effet. Ce dépôt peut intervenir dès que le citoyen a reçu le matériel de vote et jusqu'au vendredi qui précède le scrutin, à 17 heures.
+<sup>1</sup> L'électeur peut exercer son vote en déposant l'enveloppe de transmission fermée directement auprès du secrétariat communal, dans l'urne scellée prévue à cet effet. Ce dépôt peut intervenir dès que le citoyen a reçu le matériel de vote et jusqu'au vendredi qui précède le scrutin.
 
 <sup>2</sup> La commune mentionne dans l'avis de convocation de l'assemblée primaire les jours et les heures durant lesquels ce dépôt peut être effectué. Ce dépôt doit être rendu possible au minimum pendant deux heures les jeudi et vendredi qui précèdent le scrutin.
 
@@ -177,7 +183,7 @@ L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le 
 
 <sup>1</sup> Les communes prévoient deux urnes, l'une destinée aux votes par correspondance, l'autre aux votes par dépôt.
 
-<sup>2</sup> Les deux urnes doivent être scellées en présence d'au moins trois membres du bureau de dépouillement avant la date prévue pour la réception des votes. Les scellés ne peuvent être levés, en cours de scrutin, qu'en présence de trois membres du bureau de dépouillement. Ceux-ci prennent les mesures utiles pour assurer l'intangibilité du matériel de vote.
+<sup>2</sup> Les deux urnes doivent être scellées en présence d'au moins trois membres du bureau de dépouillement dès l’envoi du matériel de vote aux citoyens. Les scellés ne peuvent être levés, en cours de scrutin, qu'en présence de trois membres du bureau de dépouillement. Ceux-ci prennent les mesures utiles pour assurer l'intangibilité du matériel de vote.
 
 <sup>3</sup> L'urne destinée à recevoir les votes par dépôt doit, pendant les heures d'ouverture de ce mode de scrutin, rester sous la surveillance constante d'une personne de l'administration communale. En dehors de ces heures, elle est conservée en lieu sûr.
 
@@ -201,7 +207,7 @@ L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le 
 
 <sup>1</sup> Pour le vote par correspondance, le président de la commune s'assure que le courrier postal est relevé par l'administration communale une dernière fois le vendredi qui précède le scrutin, après 17 heures.
 
-<sup>2</sup> Les urnes ayant servi au vote par correspondance et par dépôt à la commune sont relevées par le bureau de dépouillement avant l'ouverture du scrutin du samedi. Les urnes ne peuvent être ouvertes avant cette échéance qu'en présence de trois membres au moins du bureau de dépouillement. Le contenu de l'urne est alors mis sous pli cacheté et signé par les personnes présentes.
+<sup>2</sup> Les urnes ayant servi au vote par correspondance et par dépôt à la commune sont relevées par le bureau de dépouillement avant l'ouverture du scrutin. Les urnes ne peuvent être ouvertes avant cette échéance qu'en présence de trois membres au moins du bureau de dépouillement. Le contenu de l'urne est alors mis sous pli cacheté et signé par les personnes présentes.
 
 #### Art. 19
 
@@ -211,7 +217,7 @@ L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le 
 
 <sup>2</sup> Les noms des citoyens ayant voté par correspondance ou par dépôt sont inscrits au registre des votants avec mention du mode de vote.
 
-<sup>3</sup> Le bureau de dépouillement est convoqué suffisamment tôt pour permettre d'achever ces opérations (dépouillement partiel) avant l'ouverture officielle du scrutin du samedi.
+<sup>3</sup> Le bureau de dépouillement est convoqué suffisamment tôt pour permettre d'achever ces opérations (dépouillement partiel) avant l'ouverture officielle du scrutin.
 
 <sup>4</sup> Dans les communes qui votent par sections, ces opérations sont effectuées par le bureau principal.
 
@@ -222,13 +228,9 @@ L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le 
 <sup>1</sup> Le vote par correspondance ou par dépôt à la commune est nul si:
 
 - a) l'électeur n'a pas utilisé les enveloppes de transmission et de vote officielles;
-
-- b) la carte civique fait défaut ou la feuille de réexpédition ne porte pas la signature manuscrite de l'électeur;
-
-- c) l'enveloppe de transmission n'a pas été transmise par la poste ou n'a pas été déposée dans l'urne scellée prévue à cet effet par l'administration communale (p. ex. dépôt de l'enveloppe de transmission dans la boîte aux lettres de l'administration communale);
-
+- b) la carte civique fait défaut ou la feuille de réexpédition ne porte pas la signature manuscrite de l'électeur ou l’électeur n’a pas collé son étiquette autocollante personnelle sur la feuille de réexpédition. Demeure réservé l’article 9a alinéa 4;
+- c) l'enveloppe de transmission n'a pas été transmise par la poste ou n'a pas été déposée dans l'urne scellée prévue à cet effet par l'administration communale (p.ex. dépôt de l'enveloppe de transmission dans la boîte aux lettres de l'administration communale);
 - d) une enveloppe de transmission comprend le matériel de vote de plusieurs électeurs (envoi groupé);
-
 - e) les enveloppes de vote renferment des indications en révélant la provenance; celles-ci ne sont pas ouvertes.
 
 <sup>2</sup> Les motifs de nullité des bulletins énumérés à l'article 77 de la loi sur les droits politiques sont réservés.
@@ -237,7 +239,7 @@ L'électeur ayant égaré le matériel de vote qui lui a été adressé peut le 
 
 **Frais de port**
 
-L'affranchissement des envois postaux est à la charge de l'expéditeur.
+<sup>1</sup> L'affranchissement des envois postaux est à la charge de l'expéditeur.
 
 #### Art. 22
 
@@ -245,17 +247,15 @@ L'affranchissement des envois postaux est à la charge de l'expéditeur.
 
 <sup>1</sup> Les communes adressent à l'Economat de l'Etat leurs commandes d'enveloppes de transmission, d'enveloppes de vote et de feuilles de réexpédition.
 
-<sup>2</sup> Le canton fournit gratuitement aux communes les enveloppes de transmission et de vote ainsi que la feuille de réexpédition pour les scrutins fédéraux, cantonaux et communaux.[^22-1]
+<sup>2</sup> Le canton fournit gratuitement aux communes les enveloppes de transmission et de vote, les feuilles de réexpédition pour les scrutins fédéraux, cantonaux et communaux ainsi que les étiquettes autocollantes personnelles vierges.
 
 <sup>3</sup> Les feuilles de réexpédition sont préétablies par le canton et complétées par les communes. Les communes sont autorisées à établir elles-mêmes les feuilles de réexpédition en y mentionnant les indications qui figurent à l'article 9 alinéa 1.
-
-[^22-1]: Modification du 21.12.2011 BO No 52/2011 1.01.2012
 
 #### Art. 23
 
 **Abrogation du droit en vigueur**
 
-L'ordonnance sur le vote par correspondance du 17 novembre 2004 est abrogée.
+<sup>1</sup> L'ordonnance sur le vote par correspondance du 17 novembre 2004 est abrogée.
 
 #### Art. 24
 
@@ -265,14 +265,4 @@ L'ordonnance sur le vote par correspondance du 17 novembre 2004 est abrogée.
 
 <sup>2</sup> Elle entre en vigueur dès sa publication dans le Bulletin officiel.
 
-Ainsi décidé en Conseil d'Etat, à Sion, le 12 mars 2008.
-
-Le président du Conseil d'Etat: Jean-Jacques Rey-Bellet Le chancelier d'Etat: Henri v. Roten
-
-Approuvé par la Chancellerie fédérale le 20 mars 2008.
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur RO/VS 2008
+RCV BO/Abl. 13/2008
