@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: "Ordonnance du 30 mars 2011 instituant des mesures à l'encontre de la Libye"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: fr
-version: 2021-04-20
+version: 2021-05-06
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20210420/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20210420-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20210420/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20210506/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20210506-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20210506/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Libye
 
-du 30 mars 2011 (Etat le 2020 avril 2021)
+du 30 mars 2011 (Etat le 66 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -311,7 +311,7 @@ Annexe 3*[^t-2]*
 
 ## Personnes physiques, entreprises et entités visées par les sanctions financières
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [957](https://fedlex.data.admin.ch/eli/oc/2013/198), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432)); (**2014** 541); (**2015** 985 2971); (**2016** 477); (**2017** 2805); (**2018** 3023); (**2019** 2629); (**2020** 3551, 3969, 4155, 4519); (**2021** 228). Elle peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.
+[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [957](https://fedlex.data.admin.ch/eli/oc/2013/198), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432); [2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107); 2**015** 985 2971; [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80); [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287); [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471); [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489); [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627), [3969](https://fedlex.data.admin.ch/eli/oc/2020/736), [4155](https://fedlex.data.admin.ch/eli/oc/2020/760), [4519](https://fedlex.data.admin.ch/eli/oc/2020/796); [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228), [264](https://fedlex.data.admin.ch/eli/oc/2021/264)). Elle peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.
 
 Annexe 4*[^t-3]*
 
@@ -336,4 +336,4 @@ Annexe 5*[^t-4]*
 
 ## Personnes physiques visées par l’interdiction d’entrée et de transit
 
-[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[2073](https://fedlex.data.admin.ch/eli/oc/2013/432), [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)[2971](https://fedlex.data.admin.ch/eli/oc/2015/563), [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80), [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287), [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471), [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489), [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)[3969](https://fedlex.data.admin.ch/eli/oc/2020/736)[4155](https://fedlex.data.admin.ch/eli/oc/2020/760)[4519](https://fedlex.data.admin.ch/eli/oc/2020/796), [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)). Elle peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.
+[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432); [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182), [2971](https://fedlex.data.admin.ch/eli/oc/2015/563); [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80); [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287); [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471); [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489); [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627), [3969](https://fedlex.data.admin.ch/eli/oc/2020/736), [4155](https://fedlex.data.admin.ch/eli/oc/2020/760), [4519](https://fedlex.data.admin.ch/eli/oc/2020/796); [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228), [264](https://fedlex.data.admin.ch/eli/oc/2021/264)). Elle peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.

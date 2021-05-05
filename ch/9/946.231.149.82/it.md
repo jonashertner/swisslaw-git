@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Ordinanza del 30 marzo 2011 che istituisce provvedimenti nei confronti della Libia
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: it
-version: 2021-04-20
+version: 2021-05-06
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20210420/it/xml/fedlex-data-admin-ch-eli-cc-2011-203-20210420-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20210420/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20210506/it/xml/fedlex-data-admin-ch-eli-cc-2011-203-20210506-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20210506/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Libia
 
-del 30 marzo 2011 (Stato 20 aprile 2021)
+del 30 marzo 2011 (Stato 6 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -311,7 +311,7 @@ Allegato 3*[^t-2]*
 
 ## Persone fisiche, imprese e organizzazioni interessate dalle sanzioni finanziarie
 
-[^t-2]: Non pubblicato nella RU ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [957](https://fedlex.data.admin.ch/eli/oc/2013/198), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432); [2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107); [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182), [2971](https://fedlex.data.admin.ch/eli/oc/2015/563); [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80); [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287); [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471); [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489); [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627), [3969](https://fedlex.data.admin.ch/eli/oc/2020/736), [4155](https://fedlex.data.admin.ch/eli/oc/2020/760), [4519](https://fedlex.data.admin.ch/eli/oc/2020/796); [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)). È possibile ordinare il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: www.seco.admin.ch &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
+[^t-2]: Non pubblicato nella RU ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [957](https://fedlex.data.admin.ch/eli/oc/2013/198), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432); [2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107); [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182), [2971](https://fedlex.data.admin.ch/eli/oc/2015/563); [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80); [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287); [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471); [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489); [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627), [3969](https://fedlex.data.admin.ch/eli/oc/2020/736), [4155](https://fedlex.data.admin.ch/eli/oc/2020/760), [4519](https://fedlex.data.admin.ch/eli/oc/2020/796); [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)e [264](https://fedlex.data.admin.ch/eli/oc/2021/264)). È possibile ordinare il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: www.seco.admin.ch &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
 
 Allegato 4*[^t-3]*
 
@@ -336,4 +336,4 @@ Allegato 5*[^t-4]*
 
 ## Persone fisiche interessante dal divieto di entrata e di transito
 
-[^t-4]: Non pubblicato nella RU ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432); [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182), [2971](https://fedlex.data.admin.ch/eli/oc/2015/563); [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80); [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287); [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471); [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489); [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627), [3969](https://fedlex.data.admin.ch/eli/oc/2020/736), [4155](https://fedlex.data.admin.ch/eli/oc/2020/760), [4519](https://fedlex.data.admin.ch/eli/oc/2020/796); [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)). È possibile ordinare il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: www.seco.admin.ch &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
+[^t-4]: Non pubblicato nella RU ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [2073](https://fedlex.data.admin.ch/eli/oc/2013/432); [2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182), [2971](https://fedlex.data.admin.ch/eli/oc/2015/563); [2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80); [2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287); [2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471); [2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489); [2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627), [3969](https://fedlex.data.admin.ch/eli/oc/2020/736), [4155](https://fedlex.data.admin.ch/eli/oc/2020/760), [4519](https://fedlex.data.admin.ch/eli/oc/2020/796); [2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)e [264](https://fedlex.data.admin.ch/eli/oc/2021/264)). È possibile ordinare il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: www.seco.admin.ch &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
