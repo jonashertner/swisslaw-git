@@ -5,12 +5,12 @@ title: Règlement fixant le tarif des prestations cantonales en matière agricol
 short: RTPMA
 language: fr
 version: 2018-01-01
-valid_until: 2022-04-30
+corrected: 2021-05-06
 version_adopted: 2017-12-06
 adopted: 2017-01-11
 in_force: 2017-02-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/910.103"
-pdf: "https://lex.vs.ch/api/fr/versions/2896/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2352/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -104,7 +104,7 @@ ordonne:
   - 1\. surfaces en propriété jusqu'à 1'000 m² — Fr. 200
   - 2\. surfaces en propriété de 1'001 m² jusqu'à 5'000 m² — Fr. 400
   - 3\. surfaces en propriété supérieures à 5'000 m² — Fr. 500
-- d) pour la procédure de reconnaissance de dénominations spécifiques telles que: "Clos", "Château", "Domaine" ou "Lieu-dit":
+- d) pour la procédure de reconnaissance de dénominations spécifiques telles que: "Clos", "Château", "Domaie" ou "Lieu-di":
   - 1\. surfaces jusqu'à 1'000 m² — Fr. 200
   - 2\. surfaces de 1'001 m² jusqu'à 5'000 m² — Fr. 400
   - 3\. surfaces supérieures à 5'000 m² — Fr. 500

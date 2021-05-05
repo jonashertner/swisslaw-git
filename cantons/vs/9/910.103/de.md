@@ -5,12 +5,12 @@ title: "Reglement zur Festlegung des Tarifs der kantonalen Leistungen in Sachen 
 short: RTLSL
 language: de
 version: 2018-01-01
-valid_until: 2022-04-30
+corrected: 2021-05-06
 version_adopted: 2017-12-06
 adopted: 2017-01-11
 in_force: 2017-02-01
 url: "https://lex.vs.ch/app/de/texts_of_law/910.103"
-pdf: "https://lex.vs.ch/api/de/versions/2896/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2352/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
