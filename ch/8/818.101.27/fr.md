@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-05-03
+version: 2021-05-06
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210503/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210503-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210503/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210506/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210506-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210506/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210503/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 3 mai 2021)
+du 27 janvier 2021 (Etat le 6 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -288,7 +288,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 avr. 2021 ([RO 2021 235](https://fedlex.data.admin.ch/eli/oc/2021/235)). Mise a jour par le ch.I des O du DFI du 26 avr. 2021 ([RO 2021 242](https://fedlex.data.admin.ch/eli/oc/2021/242)) et du 3 mai 2021, en vigueur depuis le 3 mai 2021 à 18H00 ([RO 2021 258](https://fedlex.data.admin.ch/eli/oc/2021/258)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 mai 2021, en vigueur depuis le 6 mai 2021 ([RO 2021 261](https://fedlex.data.admin.ch/eli/oc/2021/261)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
@@ -299,19 +299,13 @@ Andorre
 
 Argentine
 
-Arménie
-
 Bahreïn
 
 Belgique
 
-Bosnie et Herzégovine
-
 Brésil
 
-Bulgarie
-
-Cabo verde
+Cabo Verde
 
 Canada
 
@@ -321,33 +315,21 @@ Chypre
 
 Croatie
 
-Egypte
+Égypte
 
 Estonie
-
-Grèce
 
 Hongrie
 
 Inde
 
-Jordanie
-
-Kosovo
-
 Koweït
-
-Liban
 
 Lituanie
 
 Luxembourg
 
-Macédoine du Nord
-
 Mexique
-
-Monténégro
 
 Népal
 
@@ -359,8 +341,6 @@ Pologne
 
 Qatar
 
-Saint-Marin
-
 Serbie
 
 Seychelles
@@ -371,13 +351,9 @@ Suède
 
 Tanzanie
 
-Tchéquie
-
 Territoire palestinien (occupé)
 
 Turquie
-
-Ukraine
 
 Uruguay
 
@@ -403,19 +379,12 @@ Zones en France:
 Zones en Italie:
 
 - – Regione Campania
-- – Regione Emilia Romagna
-- – Regione Friuli Venezia Giulia
 - – Regione Puglia
-- – Regione Toscana
 
 Zones en Autriche:
 
-- – Land Burgenland
-- – Land Kärnten
-- – Land Niederösterreich
 - – Land Oberösterreich
 - – Land Salzburg
-- – Land Wien
 
 Annexe 2
 

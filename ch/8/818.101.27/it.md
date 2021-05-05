@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-05-03
+version: 2021-05-06
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210503/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210503-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210503/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210506/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210506-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210506/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210503/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 3 maggio 2021)
+del 27 gennaio 2021 (Stato 6 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -216,16 +216,20 @@ Chi è sottoposto alla quarantena per le persone in entrata secondo la presente 
 
 [^sec4-1]: Introdotta dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
-**Art. 9**a
+#### Art. 9a
 
 <sup>1</sup> Le imprese di trasporto aereo devono informare i passeggeri che, prima della partenza, devono sottoporsi a un test per il SARS-CoV-2 e che sono ammessi sul velivolo soltanto se possono presentare un risultato negativo del test.
 
-<sup>2</sup> Prima della partenza, devono verificare l’esistenza di un risultato negativo del test effettuato in base a una procedura che corrisponda allo stato attuale della scienza e della tecnica. Vige il principio che il prelievo dei campioni per:
+<sup>2</sup>
+
+Prima della partenza, devono verificare l’esistenza di un risultato negativo del test effettuato in base a una procedura che corrisponda allo stato attuale della scienza e della tecnica. Vige il principio che il prelievo dei campioni per:
 
 - a. un’analisi di biologia molecolare per il SARS-CoV-2 sia stato effettuato non più di 72 ore prima;
 - b. un test rapido immunologico per il SARS-CoV-2 sia stato effettuato non più di 24 ore prima.
 
-<sup>3</sup> Sul documento con il risultato del test devono essere riportati i dati seguenti:
+<sup>3</sup>
+
+Sul documento con il risultato del test devono essere riportati i dati seguenti:
 
 - a. il cognome, il nome e la data di nascita della persona testata;
 - b. la data e l’ora del prelievo dei campioni;
@@ -234,7 +238,9 @@ Chi è sottoposto alla quarantena per le persone in entrata secondo la presente 
 
 <sup>4</sup> Le imprese di trasporto aereo devono negare l’accesso al velivolo ai passeggeri che non possono presentare un risultato negativo del test secondo il capoverso 2.
 
-<sup>5</sup> Le imprese di trasporto aereo possono trasportare i seguenti passeggeri in assenza di un risultato negativo del test:
+<sup>5</sup>
+
+Le imprese di trasporto aereo possono trasportare i seguenti passeggeri in assenza di un risultato negativo del test:
 
 - a. bambini sotto i 12 anni;
 - b. persone che possono provare mediante un attestato medico che, per motivi medici, devono essere urgentemente trasportate in Svizzera;
@@ -284,24 +290,20 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 21 apr. 2021 ([RU 2021 235](https://fedlex.data.admin.ch/eli/oc/2021/235)). Aggiornato dal n. I delle O del 26 apr. 2021 ([RU 2021 242](https://fedlex.data.admin.ch/eli/oc/2021/242)) e del 3 mag. 2021, in vigore dal 3 mag. 2021 alle ore 18.00 ([RU 2021 258](https://fedlex.data.admin.ch/eli/oc/2021/258)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 5 mag. 2021, in vigore dal 6 mag. 2021 ([RU 2021 261](https://fedlex.data.admin.ch/eli/oc/2021/261)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
+
+### 1. Stati e regioni
 
 Andorra
 
 Argentina
 
-Armenia
-
 Bahrein
 
 Belgio
 
-Bosnia e Erzegovina
-
 Brasile
-
-Bulgaria
 
 Capo Verde
 
@@ -317,27 +319,15 @@ Egitto
 
 Estonia
 
-Giordania
-
-Grecia
-
 India
 
-Kosovo
-
 Kuwait
-
-Libano
 
 Lituania
 
 Lussemburgo
 
-Macedonia del Nord
-
 Messico
-
-Montenegro
 
 Nepal
 
@@ -348,10 +338,6 @@ Paraguay
 Polonia
 
 Qatar
-
-Repubblica Ceca
-
-San Marino
 
 Seicelle
 
@@ -369,8 +355,6 @@ Territorio palestinese (occupato)
 
 Turchia
 
-Ucraina
-
 Ungheria
 
 Uruguay
@@ -381,9 +365,7 @@ Regioni in Germania:
 
 - – Land Sassonia
 - – Land Turingia
-
-Regioni in Francia:
-
+- [tab] Regioni in Francia:
 - – Regione Alta Francia
 - – Regione Bretagna
 - – Regione Centro-Valle della Loira
@@ -397,19 +379,12 @@ Regioni in Francia:
 Regioni in Italia:
 
 - – Regione Campania
-- – Regione Emilia Romagna
-- – Regione Friuli Venezia Giulia
 - – Regione Puglia
-- – Regione Toscana
 
 Regioni in Austria:
 
 - – Land Alta Austria
-- – Land Bassa Austria
-- – Land Burgenland
-- – Land Carinzia
 - – Land Salisburgo
-- – Land Vienna
 
 Allegato 2
 
