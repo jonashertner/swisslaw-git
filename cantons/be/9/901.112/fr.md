@@ -4,13 +4,13 @@ number: "901.112"
 title: "Ordonnance cantonale concernant les mesures destinées aux entreprises pour les cas de rigueur en lien avec l'épidémie de COVID-19"
 short: Ordonnance cantonale sur les cas de rigueur
 language: fr
-version: 2021-04-08
-valid_until: 2021-05-05
-version_adopted: 2021-04-07
+version: 2021-05-06
+valid_until: 2021-06-30
+version_adopted: 2021-05-05
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2251/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2280/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2251/pdf_file"
 
 (Ordonnance cantonale sur les cas de rigueur)
 
-du 18.12.2020 (état au 08.04.2021)
+du 18.12.2020 (état au 06.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -58,23 +58,32 @@ arrête:
 
 **Comptabilité par secteur**
 
-<sup>1</sup> Les entreprises dont les domaines d'activité sont clairement délimités au moyen d'une comptabilité par secteur peuvent demander que le respect des exigences énoncées aux articles 3, 4, 6, alinéa 1, lettres a et b, 7, alinéa 1, lettre a, 9, alinéa 2, lettres b et c, 10, alinéa 1, lettre d ainsi que 12, alinéas 1 et 1a soit vérifié séparément pour certains ou plusieurs de leurs secteurs, pour autant que les secteurs concernés pris ensemble représentent plus de 25 pour cent du chiffre d'affaires de l'entreprise calculé conformément à l'article 3.
+<sup>1</sup> Les entreprises dont les domaines d'activité sont clairement délimités au moyen d'une comptabilité par secteur peuvent demander que le respect des exigences énoncées aux articles 4, 6, alinéa 1, lettres a et b, 7, alinéa 1, lettre a, 9, alinéa 2, lettres b et c, 10, alinéa 1, lettre d, 12, alinéas 1 et 1a ainsi que 12a soit vérifié séparément pour certains ou plusieurs de leurs secteurs, pour autant que les secteurs concernés pris ensemble représentent plus de 25 pour cent du chiffre d'affaires de l'entreprise calculé conformément à l'article 3.
 
 #### Art. 3
 
-**Chiffre d’affaires déterminant**
+**Chiffre d’affaires déterminant et taille des entreprises**
 
 <sup>1</sup> Est considéré comme chiffre d’affaires déterminant au sens de la présente ordonnance le chiffre d’affaires moyen des années 2018 et 2019.
 
 <sup>1a</sup> Pour les entreprises dont l'exercice ne coïncide pas avec l'année civile, est considéré comme déterminant le chiffre d'affaires moyen des deux derniers exercices ayant pris fin avant le 1<sup>er</sup> mars 2020.
 
-<sup>2</sup> Si l’entreprise a débuté son activité commerciale après le 1<sup>er</sup> janvier 2018, est considéré comme déterminant le chiffre d’affaires, calculé sur douze mois, qui a été réalisé entre le 1<sup>er</sup> janvier 2018 et le 29 février 2020.
+<sup>2</sup> Si l’entreprise a été créée entre le 31 décembre 2017 et le 29 février 2020, le chiffre d’affaires déterminant est calculé comme suit:
+
+- a chiffre d'affaires réalisé entre la création de l'entreprise et le 29 février 2020, calculé sur douze mois ou
+- b chiffre d'affaires réalisé entre la création de l'entreprise et le 31 décembre 2020, calculé sur douze mois.
+
+<sup>3</sup> Pour une entreprise créée entre le 29 février 2020 et le 30 septembre 2020, est considéré comme déterminant l'ensemble du chiffre d'affaires réalisé entre la création de l'entreprise et le 31 décembre 2020, calculé sur douze mois.
+
+<sup>4</sup> Sont considérées comme petites entreprises les entreprises réalisant un chiffre d'affaires déterminant allant jusqu'à cinq millions de francs.
+
+<sup>5</sup> Sont considérées comme grandes entreprises les entreprises réalisant un chiffre d'affaires déterminant de plus de cinq millions de francs.
 
 #### Art. 4
 
 **Coûts fixes**
 
-<sup>1</sup> Sont considérés comme coûts fixes pour le calcul du soutien immédiat et des cautionnements tous les coûts indépendants du chiffre d'affaires, sans les amortissements comptables, les salaires et les cotisations à l'AVS, à l'AI, aux APG et à l'AC, en particulier
+<sup>1</sup> Sont considérés comme coûts fixes pour le calcul du soutien immédiat alloué aux petites et aux grandes entreprises tous les coûts indépendants du chiffre d'affaires, sans les amortissements comptables, les salaires et les cotisations à l'AVS, à l'AI, aux APG et à l'AC, en particulier
 
 - a les cotisations de l'employeur pour la prévoyance professionnelle, les allocations familiales, l'assurance d'indemnités journalières en cas de maladie et l'assurance-accidents,
 - b les loyers, fermages et échéances de leasing,
@@ -110,7 +119,7 @@ arrête:
 - a revêt la forme juridique d’une entreprise individuelle, d’une société de personnes ou d’une personne morale;
 - a1 avait son siège principal dans le canton de Berne au 1<sup>er</sup> octobre 2020;
 - b dispose d’un numéro d’identification des entreprises (IDE);
-- c a été créée avant le 1<sup>er</sup> mars 2020 et est inscrite au registre du commerce, pour autant que l'inscription soit juridiquement autorisée.
+- c a été créée avant le 1<sup>er</sup> octobre 2020 et est inscrite au registre du commerce, pour autant que l'inscription soit juridiquement autorisée.
 
 #### Art. 6
 
@@ -119,7 +128,7 @@ arrête:
 <sup>1</sup> L'entreprise doit prouver
 
 - a qu'elle paie la plus grande partie de ses charges salariales en Suisse;
-- b qu'elle exerce une activité commerciale dans le canton ou y emploie son propre personnel comptant au moins un poste à plein temps;
+- b qu'elle exerce une activité commerciale en Suisse ou y emploie son propre personnel comptant au moins un poste à plein temps;
 - c que la Confédération, des cantons ou des communes de plus de 12'000 habitants et habitantes ne détiennent pas au total plus de dix pour cent de son capital.
 
 #### Art. 7
@@ -154,7 +163,10 @@ arrête:
 - b qu'elle n'a pas droit aux aides financières actuelles ou futures au titre du COVID-19 accordées spécifiquement par la Confédération, notamment aux domaines de la culture, du sport, des transports publics ou des médias;
 - c que son chiffre d'affaires sur douze mois consécutifs entre le 1<sup>er</sup> janvier 2020 et le dépôt de la demande est inférieur à 60 pour cent du chiffre d'affaires au sens de l'article 3 en raison des mesures ordonnées par les autorités aux fins de la lutte contre l’épidémie de COVID-19.
 
-<sup>2a</sup> Les entreprises particulièrement touchées au sens de l'article 4a ne sont pas tenues d'apporter les preuves exigées à l'alinéa 2, lettres a et c.
+<sup>2a</sup> Les entreprises particulièrement touchées au sens de l'article 4a ne sont pas tenues d'apporter les preuves suivantes:
+
+- a petites entreprises: alinéa 2, lettres a et c,
+- b grandes entreprises: alinéa 2, lettre c.
 
 <sup>3</sup> Parmi les mesures au sens de l'alinéa 2, lettre a figure en particulier la renonciation aux décisions suivantes à compter du 1<sup>er</sup> juillet 2020:
 
@@ -194,17 +206,61 @@ arrête:
 
 #### Art. 12
 
-**Soutien immédiat**
+**Soutien immédiat pour les petites entreprises**
 
-<sup>1</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux entreprises dont les pertes de chiffre d'affaires au cours de la période retenue conformément à l'article 9, alinéa 2, lettre c dépassent les 40 pour cent est calculé selon les coûts fixes visés à l'article 4 échus durant la même période ainsi que selon la perte de chiffre d'affaires exprimée en pourcentage.
+<sup>1</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux petites entreprises dont les pertes de chiffre d'affaires au cours de la période retenue conformément à l'article 9, alinéa 2, lettre c dépassent les 40 pour cent est calculé selon les coûts fixes visés à l'article 4 échus durant la même période ainsi que selon la perte de chiffre d'affaires exprimée en pourcentage.
 
-<sup>1a</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux entreprises particulièrement touchées est calculé selon les coûts fixes visés à l'article 4 échus durant la période de douze mois consécutifs comprise entre le 1<sup>er</sup> janvier 2020 et le dépôt de la demande ainsi que selon la durée de la cessation d'activité imposée visée à l'article 4a.
+<sup>1a</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux petites entreprises particulièrement touchées est calculé selon les coûts fixes visés à l'article 4 échus durant la période de douze mois consécutifs comprise entre le 1<sup>er</sup> janvier 2020 et le dépôt de la demande ainsi que selon la durée de la cessation d'activité imposée visée à l'article 4a.
 
-<sup>1b</sup> Les entreprises qui demandent un soutien immédiat à la fois en vertu de l'alinéa 1 et de l'alinéa 1a doivent retenir comme période au sens de l'article 9, alinéa 2, lettre c celle allant du 1<sup>er</sup> janvier 2020 au 31 décembre 2020 et faire valoir les coûts fixes visés à l'alinéa 1a échus durant cette période.
+<sup>1b</sup> Les petites entreprises qui demandent un soutien immédiat en vertu à la fois de l'alinéa 1 et de l'alinéa 1a doivent retenir comme période au sens de l'article 9, alinéa 2, lettre c celle allant du 1<sup>er</sup> janvier 2020 au 31 décembre 2020 et faire valoir les coûts fixes visés à l'alinéa 1a échus durant cette période.
 
-<sup>2</sup> Il peut être versé en plusieurs tranches.
+<sup>2</sup> Le soutien immédiat peut être versé en plusieurs tranches.
 
 <sup>3</sup> Si les coûts fixes échus visés aux alinéas 1 à 1b ne peuvent être établis par une comptabilité en partie double ou un autre moyen, le soutien immédiat peut être versé sous forme de forfait.
+
+#### Art. 12a
+
+**Soutien immédiat pour les grandes entreprises**
+
+<sup>1</sup> Le soutien immédiat accordé aux grandes entreprises
+
+- a est calculé selon les pertes de chiffre d'affaires déterminées en vertu de l'article 9, alinéa 2, lettre c ainsi que selon d'autres pertes de chiffre d'affaires imputables en vertu de l'alinéa 2, multipliées par la part de coûts fixes au sens de l'alinéa 3;
+- b ne doit pas dépasser les plafonds visés aux alinéas 4 et 5.
+
+<sup>2</sup> Les grandes entreprises qui ont enregistré un recul du chiffre d'affaires pendant plus de douze mois peuvent ajouter le recul du chiffre d'affaires pour les mois de janvier à juin 2021 si ceux-ci ne sont pas déjà pris en compte dans le calcul visé à l'article 9, alinéa 2, lettre c; le recul du chiffre d'affaires est alors calculé par rapport aux périodes correspondantes du chiffre d'affaires déterminant.
+
+<sup>3</sup> La part de coûts fixes est calculée selon la formule suivante: coûts fixes imputables divisés par le chiffre d'affaires déterminant. Elle n'excédera toutefois pas les parts de coûts fixes forfaitaires visées à l'article 8b, alinéas 3 et 5 de l'ordonnance fédérale du 25 novembre 2020 concernant les mesures pour les cas de rigueur destinées aux entreprises en lien avec l’épidémie de COVID-19 (ordonnance COVID-19 cas de rigueur)[^12a-1].
+
+<sup>4</sup> Le soutien immédiat est plafonné à 20 pour cent du chiffre d'affaires déterminant au sens de l'article 3 et à cinq millions de francs.
+
+<sup>5</sup> Il est plafonné à 30 pour cent du chiffre d'affaires déterminant au sens de l'article 3 et à dix millions de francs
+
+- a si le chiffre d’affaires de l’entreprise a reculé de plus de 70 pour cent par rapport au chiffre d’affaires déterminant ou
+- b si, depuis le 1<sup>er</sup> mars 2020, de nouveaux fonds propres ayant une incidence sur les liquidités sont apportés à l’entreprise sous forme d’espèces à hauteur d’au moins 40 pour cent de la contribution dépassant cinq millions de francs.
+
+[^12a-1]: RS [951.262](https://db.clex.ch/link/Bund/951.262/fr)
+
+#### Art. 12b
+
+**Base déterminante pour la participation conditionnelle aux bénéfices pour les grandes entreprises**
+
+<sup>1</sup> Le bénéfice annuel imposable de 2021 avant compensation des pertes au sens des articles 58 à 67 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^12b-1] est déterminant pour calculer la participation conditionnelle aux bénéfices visée à l’article 12, alinéa 1<sup>septies</sup> de la loi COVID-19. Seule une perte subie au cours de l’exercice 2020 déterminante sur le plan fiscal peut être déduite du bénéfice annuel imposable.
+
+[^12b-1]: RS [642.11](https://db.clex.ch/link/Bund/642.11/fr)
+
+#### Art. 12c
+
+**Justificatifs à fournir par les grandes entreprises**
+
+<sup>1</sup> Les grandes entreprises doivent fournir les justificatifs suivants:
+
+- a extrait du registre du commerce;
+- b extrait du registre des poursuites;
+- c comptes annuels (bilan, compte de résultats et annexe) 2018 et 2019 ainsi que, s’ils sont disponibles, comptes annuels 2020;
+- d ventilation complète par secteur si une demande est présentée en vertu de l’article 2a;
+- e décomptes trimestriels de la TVA pour les exercices 2018, 2019, 2020 et 2021 ou, à défaut, autre justificatif concernant le recul allégué du chiffre d’affaires.
+
+<sup>2</sup> Les entreprises assujetties à l'obligation de révision doivent fournir les comptes annuels révisés.
 
 #### Art. 13
 
@@ -226,7 +282,7 @@ arrête:
 
 <sup>1</sup> L'entreprise requérante doit déposer sa demande par voie électronique selon la procédure définie par le service compétent.
 
-<sup>2</sup> Les demandes de soutien immédiat doivent être déposées d'ici au 31 juillet 2021. La date de l'accusé de réception électronique fait foi.
+<sup>2</sup> Les demandes de soutien immédiat doivent être déposées d'ici au 31 août 2021. La date de l'accusé de réception électronique fait foi.
 
 <sup>3</sup> …
 
@@ -295,6 +351,12 @@ arrête:
 ## T4 Disposition transitoire de la modification du 07.04.2021
 
 #### Art. T4-1
+
+<sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
+
+## T5 Disposition transitoire de la modification du 05.05.2021
+
+#### Art. T5-1
 
 <sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
 

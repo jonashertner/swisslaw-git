@@ -4,13 +4,13 @@ number: "901.112"
 title: Kantonale Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung
 language: de
-version: 2021-04-08
-valid_until: 2021-05-05
-version_adopted: 2021-04-07
+version: 2021-05-06
+valid_until: 2021-06-30
+version_adopted: 2021-05-05
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2251/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2280/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2251/pdf_file"
 
 (Kantonale Härtefallverordnung)
 
-vom 18.12.2020 (Stand 08.04.2021)
+vom 18.12.2020 (Stand 06.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -58,23 +58,32 @@ beschliesst:
 
 **Spartenrechnung**
 
-<sup>1</sup> Unternehmen, deren Tätigkeitsbereiche durch Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen gemäss den Artikeln 3, 4, 6 Absatz 1 Buchstaben a und b, 7 Absatz 1 Buchstabe a, 9 Absatz 2 Buchstaben b und c, 10 Absatz 1 Buchstabe d sowie 12 Absätze 1 und 1a für einzelne oder mehrere Sparten separat beurteilt werden, sofern die betroffenen Sparten zusammen mehr als 25 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes ausmachen.
+<sup>1</sup> Unternehmen, deren Tätigkeitsbereiche durch Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen gemäss den Artikeln 4, 6 Absatz 1 Buchstaben a und b, 7 Absatz 1 Buchstabe a, 9 Absatz 2 Buchstaben b und c, 10 Absatz 1 Buchstabe d, 12 Absätze 1 und 1a sowie 12a für einzelne oder mehrere Sparten separat beurteilt werden, sofern die betroffenen Sparten zusammen mehr als 25 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes ausmachen.
 
 #### Art. 3
 
-**Massgebender Umsatz**
+**Massgebender Umsatz und Unternehmensgrösse**
 
 <sup>1</sup> Als massgebender Umsatz im Sinne dieser Verordnung gilt der durchschnittliche Umsatz der Jahre 2018 und 2019.
 
 <sup>1a</sup> Für Unternehmen, deren Geschäftsjahr sich nicht mit dem Kalenderjahr deckt, gilt als massgebender Umsatz der durchschnittliche Jahresumsatz der letzten zwei Geschäftsjahre, die vor dem 1. März 2020 geendet haben.
 
-<sup>2</sup> Hat das Unternehmen die Geschäftstätigkeit nach dem 1. Januar 2018 aufgenommen, so gilt der Umsatz als massgebend, der, berechnet auf zwölf Monate, zwischen dem 1. Januar 2018 und dem 29. Februar 2020 erzielt worden ist.
+<sup>2</sup> Ist das Unternehmen zwischen dem 31. Dezember 2017 und dem 29. Februar 2020 gegründet worden, so wird der massgebende Umsatz wie folgt berechnet:
+
+- a Der zwischen der Gründung und dem 29. Februar 2020 erwirtschaftete Umsatz, berechnet auf zwölf Monate, oder
+- b der zwischen der Gründung und dem 31. Dezember 2020 erwirtschaftete Umsatz, berechnet auf zwölf Monate.
+
+<sup>3</sup> Für ein Unternehmen, das zwischen dem 29. Februar 2020 und dem 30. September 2020 gegründet wurde, gilt als massgebender Umsatz der gesamte Umsatz, der, berechnet auf zwölf Monate, von der Gründung bis zum 31. Dezember 2020 erzielt worden ist.
+
+<sup>4</sup> Als kleine Unternehmen gelten Unternehmen mit bis zu fünf Millionen Franken massgebendem Umsatz.
+
+<sup>5</sup> Als grosse Unternehmen gelten Unternehmen mit über fünf Millionen Franken massgebendem Umsatz.
 
 #### Art. 4
 
 **Fixkosten**
 
-<sup>1</sup> Als Fixkosten zur Berechnung der Sofortunterstützung und Bürgschaften gelten alle vom Umsatz unabhängigen Kosten exklusive Abschreibungen, Löhne und Beiträge für AHV, IV, EO und ALV, insbesondere
+<sup>1</sup> Als Fixkosten zur Berechnung der Sofortunterstützung für kleine und grosse Unternehmen gelten alle vom Umsatz unabhängigen Kosten exklusive Abschreibungen, Löhne und Beiträge für AHV, IV, EO und ALV, insbesondere
 
 - a Arbeitgeberbeiträge für die berufliche Vorsorge sowie für Familienzulagen, Krankentaggeldversicherung und Unfallversicherung,
 - b Miete, Pacht und Leasing,
@@ -110,7 +119,7 @@ beschliesst:
 - a die Rechtsform eines Einzelunternehmens, einer Personengesellschaft oder einer juristischen Person hat,
 - a1 seinen Hauptsitz am 1. Oktober 2020 im Kanton hatte,
 - b über eine Unternehmens-Identifikationsnummer (UID-Nummer) verfügt,
-- c vor dem 1. März 2020 gegründet und, sofern rechtlich zulässig, im Handelsregister eingetragen ist.
+- c vor dem 1. Oktober 2020 gegründet und, sofern rechtlich zulässig, im Handelsregister eingetragen ist.
 
 #### Art. 6
 
@@ -119,7 +128,7 @@ beschliesst:
 <sup>1</sup> Das Unternehmen hat nachzuweisen, dass
 
 - a seine Lohnkosten überwiegend in der Schweiz anfallen,
-- b es im Kanton eine Geschäftstätigkeit ausübt oder eigenes Personal im Umfang von mindestens einer Vollzeitstelle beschäftigt,
+- b es in der Schweiz eine Geschäftstätigkeit ausübt oder eigenes Personal im Umfang von mindestens einer Vollzeitstelle beschäftigt,
 - c Bund, Kantone oder Gemeinden mit über 12'000 Einwohnerinnen und Einwohnern gesamthaft keine Beteiligung von über zehn Prozent aufweisen.
 
 #### Art. 7
@@ -154,7 +163,10 @@ beschliesst:
 - b es keinen Anspruch auf bestehende oder zukünftige branchenspezifische Covid-19-Finanzhilfen des Bundes namentlich in den Bereichen Kultur, Sport, öffentlicher Verkehr oder Medien hat,
 - c sein Umsatz in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zur Gesuchseinreichung in Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 60 Prozent des Umsatzes gemäss Artikel 3 liegt.
 
-<sup>2a</sup> Besonders betroffene Unternehmen gemäss Artikel 4a müssen den Nachweis gemäss Absatz 2 Buchstaben a und c nicht erbringen.
+<sup>2a</sup> Besonders betroffene Unternehmen gemäss Artikel 4a müssen die nachfolgenden Nachweise nicht erbringen:
+
+- a kleine Unternehmen: Absatz 2 Buchstaben a und c,
+- b grosse Unternehmen: Absatz 2 Buchstabe c.
 
 <sup>3</sup> Als Massnahmen im Sinne von Absatz 2 Buchstabe a gelten insbesondere der Verzicht auf Beschluss der nachfolgenden Handlungen nach dem 1. Juli 2020:
 
@@ -194,17 +206,61 @@ beschliesst:
 
 #### Art. 12
 
-**Sofortunterstützung**
+**Sofortunterstützung für kleine Unternehmen**
 
-<sup>1</sup> Die Sofortunterstützung für Unternehmen, die im Zeitraum der gewählten Periode mehr als 40 Prozent Umsatzeinbusse erlitten haben, bemisst sich nach den im Zeitraum der gewählten Periode gemäss Artikel 9 Absatz 2 Buchstabe c angefallenen Fixkosten gemäss Artikel 4 sowie dem Umfang des Umsatzeinbruchs in Prozent und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
+<sup>1</sup> Die Sofortunterstützung für kleine Unternehmen, die im Zeitraum der gewählten Periode mehr als 40 Prozent Umsatzeinbusse erlitten haben, bemisst sich nach den im Zeitraum der gewählten Periode gemäss Artikel 9 Absatz 2 Buchstabe c angefallenen Fixkosten gemäss Artikel 4 sowie dem Umfang des Umsatzeinbruchs in Prozent und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
 
-<sup>1a</sup> Die Sofortunterstützung für besonders betroffene Unternehmen bemisst sich nach den in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zur Gesuchseinreichung angefallenen Fixkosten gemäss Artikel 4 sowie der Dauer der angeordneten Schliessung gemäss Artikel 4a und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
+<sup>1a</sup> Die Sofortunterstützung für besonders betroffene kleine Unternehmen bemisst sich nach den in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zur Gesuchseinreichung angefallenen Fixkosten gemäss Artikel 4 sowie der Dauer der angeordneten Schliessung gemäss Artikel 4a und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
 
-<sup>1b</sup> Unternehmen, die kumulativ Sofortunterstützung gemäss Absatz 1 und 1a beantragen, müssen die Periode gemäss Artikel 9 Absatz 2 Buchstabe c sowie die Fixkosten gemäss Absatz 1a auf den Zeitraum von 1. Januar 2020 bis 31. Dezember 2020 festlegen.
+<sup>1b</sup> Kleine Unternehmen, die kumulativ Sofortunterstützung gemäss den Absätzen 1 und 1a beantragen, müssen die Periode gemäss Artikel 9 Absatz 2 Buchstabe c sowie die Fixkosten gemäss Absatz 1a auf den Zeitraum von 1. Januar 2020 bis 31. Dezember 2020 festlegen.
 
-<sup>2</sup> Sie kann in mehreren Tranchen ausgerichtet werden.
+<sup>2</sup> Die Sofortunterstützung kann in mehreren Tranchen ausgerichtet werden.
 
 <sup>3</sup> Sind die angefallenen Fixkosten gemäss den Absätzen 1 bis 1b nicht durch doppelte Buchhaltung oder anderweitig belegbar, kann die Sofortunterstützung in Form einer Pauschale ausgerichtet werden.
+
+#### Art. 12a
+
+**Sofortunterstützung für grosse Unternehmen**
+
+<sup>1</sup> Die Sofortunterstützung für grosse Unternehmen
+
+- a bemisst sich nach der gemäss Artikel 9 Absatz 2 Buchstabe c bestimmten Umsatzeinbusse sowie weiteren anrechenbaren Umsatzeinbussen gemäss Absatz 2 multipliziert mit dem Fixkostenanteil gemäss Absatz 3,
+- b darf die Höchstgrenzen gemäss den Absätzen 4 und 5 nicht überschreiten.
+
+<sup>2</sup> Grosse Unternehmen, die in mehr als zwölf Monaten einen Umsatzrückgang zu verzeichnen hatten, können den Umsatzrückgang für diejenigen Monate von Januar bis Juni 2021 hinzuzählen, die nicht in die Berechnung gemäss Artikel 9 Absatz 2 Buchstabe c eingeflossen sind; dabei bemisst sich der Umsatzrückgang im Vergleich zu den entsprechenden Perioden des massgebenden Umsatzes.
+
+<sup>3</sup> Der Fixkostenanteil berechnet sich nach der Formel: Anrechenbare Fixkosten geteilt durch den massgebenden Umsatz. Er beläuft sich jedoch höchstens auf die pauschalen Fixkostenanteile gemäss Artikel 8b Absätze 3 und 5 der eidgenössischen Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung)[^12a-1].
+
+<sup>4</sup> Die Sofortunterstützung ist begrenzt auf 20 Prozent des massgebenden Umsatzes gemäss Artikel 3 und fünf Millionen Franken.
+
+<sup>5</sup> Sie ist begrenzt auf 30 Prozent des massgebenden Umsatzes gemäss Artikel 3 und zehn Millionen Franken, wenn
+
+- a der Umsatz des Unternehmens im Vergleich zum massgebenden Umsatz um mehr als 70 Prozent zurückgegangen ist oder
+- b seit dem 1. März 2020 neues liquiditätswirksames Eigenkapital im Umfang von mindestens 40 Prozent des fünf Millionen Franken übersteigenden Beitrags in Form von Bareinlagen in das Unternehmen eingebracht wird.
+
+[^12a-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
+
+#### Art. 12b
+
+**Massgebliche Basis für die bedingte Gewinnbeteiligung bei grossen Unternehmen**
+
+<sup>1</sup> Für die Berechnung der bedingten Gewinnbeteiligung gemäss Artikel 12 Absatz 1<sup>septies</sup> Covid-19-Gesetz massgebend ist der steuerbare Jahresgewinn 2021 vor Verlustverrechnung gemäss den Artikeln 58 bis 67 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)[^12b-1]. Vom steuerbaren Jahresgewinn abziehbar ist ausschliesslich ein im Geschäftsjahr 2020 entstandener steuerlich massgebender Verlust.
+
+[^12b-1]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de)
+
+#### Art. 12c
+
+**Einzufordernde Belege für grosse Unternehmen**
+
+<sup>1</sup> Grosse Unternehmen müssen die folgenden Belege einreichen:
+
+- a Handelsregisterauszug,
+- b Betreibungsregisterauszug,
+- c Jahresrechnungen (Bilanz, Erfolgsrechnung und Anhang) 2018, 2019 und, soweit vorhanden, 2020,
+- d vollständige Spartenaufteilung, falls ein Antrag gemäss Artikel 2a gestellt wird,
+- e Quartalsabrechnungen der Mehrwertsteuer für die Jahre 2018, 2019, 2020 und 2021 oder, falls keine solchen vorliegen, ein anderer Beleg für den geltend gemachten Umsatzrückgang.
+
+<sup>2</sup> Unterliegen sie der Revisionspflicht, so müssen die revidierten Fassungen der Jahresrechnungen eingereicht werden.
 
 #### Art. 13
 
@@ -226,7 +282,7 @@ beschliesst:
 
 <sup>1</sup> Das gesuchstellende Unternehmen hat sein Gesuch elektronisch auf dem von der zuständigen Stelle vorgegebenen Verfahrensweg einzureichen.
 
-<sup>2</sup> Gesuche für Sofortunterstützung sind bis zum 31. Juli 2021 einzureichen. Massgebend ist das Datum der elektronischen Empfangsbestätigung.
+<sup>2</sup> Gesuche für Sofortunterstützung sind bis zum 31. August 2021 einzureichen. Massgebend ist das Datum der elektronischen Empfangsbestätigung.
 
 <sup>3</sup> …
 
@@ -295,6 +351,12 @@ beschliesst:
 ## T4 Übergangsbestimmung der Änderung vom 07.04.2021
 
 #### Art. T4-1
+
+<sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
+
+## T5 Übergangsbestimmung der Änderung vom 05.05.2021
+
+#### Art. T5-1
 
 <sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
 
