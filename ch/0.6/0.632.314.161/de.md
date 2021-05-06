@@ -3,11 +3,11 @@ sr: "0.632.314.161"
 title: "Freihandelsabkommen vom 21. Juni 2011 zwischen den EFTA-Staaten und Hongkong, China (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/597"
 language: de
-version: 2017-10-31
+version: 2021-05-07
 adopted: 2011-06-21
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/597/20171031/de/xml/fedlex-data-admin-ch-eli-cc-2012-597-20171031-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/597/20171031/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/597/20210507/de/xml/fedlex-data-admin-ch-eli-cc-2012-597-20210507-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/597/20210507/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 17. Juli 2012
 
 In Kraft getreten für die Schweiz am 1. Oktober 2012
 
-(Stand am 31. Oktober 2017)
+(Stand am 7. Mai 2021)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 16. März 2012 ([AS 2012 5189](https://fedlex.data.admin.ch/eli/oc/2012/596))
 
@@ -1208,9 +1208,10 @@ Liste der Anhänge**[^t-2]**
 <tr><td>Annex XII</td><td colspan="2">Referred to in Article 5 (Protection of Intellectual Property Rights)</td></tr>
 <tr><td>Joint Committee Decisions</td><td colspan="2"></td></tr>
 <tr><td>No 7/2017</td><td colspan="2">Amendments to Appendix 1 and 5 to Annex X "Lists of Reservations and Commitments"</td></tr>
+<tr><td>No 4/2017</td><td colspan="2">Amendments to Annex VII "Disciplines on Domestic Regulation"</td></tr>
 </table>
 
-[^t-2]: Diese Anhänge werden weder in der AS noch in der SR veröffentlicht ([AS 2021 448](https://fedlex.data.admin.ch/eli/oc/2021/448)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite des EFTA-Sekretariates unter folgender Adresse: www.efta.int &gt; Global Trade Relations &gt; Free Trade Agreements &gt; Hong-kong, China
+[^t-2]: Diese Anhänge werden weder in der AS noch in der SR veröffentlicht ([AS 2021 447](https://fedlex.data.admin.ch/eli/oc/2021/447), [448](https://fedlex.data.admin.ch/eli/oc/2021/448)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite des EFTA-Sekretariates unter folgender Adresse: www.efta.int &gt; Global Trade Relations &gt; Free Trade Agreements &gt; Hong-kong, China
 
 Geltungsbereich am 1. Oktober 2012
 

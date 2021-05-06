@@ -3,11 +3,11 @@ sr: "0.632.314.161"
 title: "Accordo del 21 giugno 2011 di libero scambio tra gli Stati dell'AELS e Hong Kong, Cina (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/597"
 language: it
-version: 2017-10-31
+version: 2021-05-07
 adopted: 2011-06-21
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/597/20171031/it/xml/fedlex-data-admin-ch-eli-cc-2012-597-20171031-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/597/20171031/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/597/20210507/it/xml/fedlex-data-admin-ch-eli-cc-2012-597-20210507-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/597/20210507/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 17 luglio 2012
 
 Entrato in vigore per la Svizzera il 1° ottobre 2012
 
-(Stato 31 ottobre 2017)
+(Stato 7 maggio 2021)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 16 mar. 2012 ([RU 2012 5189](https://fedlex.data.admin.ch/eli/oc/2012/596)).
 
@@ -1207,11 +1207,12 @@ Lista degli Allegati**[^t-2]**
 <tr><td>Annex XII</td><td colspan="2">Referred to in Article 5 (Protection of Intellectual Property Rights)</td></tr>
 <tr><td>Joint Committee Decisions</td><td colspan="2"></td></tr>
 <tr><td>No 7/2017</td><td colspan="2">Amendments to Appendix 1 and 5 to Annex X "Lists of Reservations and Commitments"</td></tr>
+<tr><td>No 4/2017</td><td colspan="2">Amendments to Annex VII "Disciplines on Domestic Regulation"</td></tr>
 </table>
 
 ## Campo d’applicazione il 1° ottobre 2012
 
-[^t-2]: Non pubblicati né nella RU né nella RS ([RU 2021 448](https://fedlex.data.admin.ch/eli/oc/2021/448)). Sono disponibili solo in inglese e possono essere consultati sul sito del Segretariato dell’AELS: www.efta.int &gt; Global trade relations &gt; Free Trade Agreements &gt; Hong-Kong, China
+[^t-2]: Non pubblicati né nella RU né nella RS ([RU 2021 447](https://fedlex.data.admin.ch/eli/oc/2021/447), [448](https://fedlex.data.admin.ch/eli/oc/2021/448)). Sono disponibili solo in inglese e possono essere consultati sul sito del Segretariato dell’AELS: www.efta.int &gt; Global trade relations &gt; Free Trade Agreements &gt; Hong-Kong, China
 
 <table>
 <tr><th>Stati partecipanti</th><th>Adesione (A) Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>

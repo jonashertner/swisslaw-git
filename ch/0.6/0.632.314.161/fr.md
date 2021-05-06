@@ -3,11 +3,11 @@ sr: "0.632.314.161"
 title: "Accord du 21 juin 2011 de libre-échange entre les États de l'AELE et Hong Kong, Chine (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/597"
 language: fr
-version: 2017-10-31
+version: 2021-05-07
 adopted: 2011-06-21
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/597/20171031/fr/xml/fedlex-data-admin-ch-eli-cc-2012-597-20171031-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/597/20171031/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/597/20210507/fr/xml/fedlex-data-admin-ch-eli-cc-2012-597-20210507-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/597/20210507/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 17 juillet 2012
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> octobre 2012
 
-(Etat le 31 octobre 2017)
+(Etat le 7 mai 2021)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 16 mars 2012 ([RO 2012 5189](https://fedlex.data.admin.ch/eli/oc/2012/596))
 
@@ -1203,11 +1203,12 @@ Liste des annexes**[^t-2]**
 <tr><td>Annex XII</td><td colspan="2">Referred to in Article 5 (Protection of Intellectual Property Rights)</td></tr>
 <tr><td>Joint Committee Decisions</td><td colspan="2"></td></tr>
 <tr><td>No 7/2017</td><td colspan="2">Amendments to Appendix 1 and 5 to Annex X "Lists of Reservations and Commitments"</td></tr>
+<tr><td>No 4/2017</td><td colspan="2">Amendments to Annex VII "Disciplines on Domestic Regulation"</td></tr>
 </table>
 
 ## Champ d’application le 1<sup>er</sup> octobre 2012
 
-[^t-2]: Les annexes ne sont disponibles qu’en anglais, ne sont pas publiées au RO ni au RS ([RO 2021 448](https://fedlex.data.admin.ch/eli/oc/2021/448)). Elles peuvent être obtenues auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, ou téléchargées sur le site Internet du Secrétariat de l’AELE: www.efta.int &gt; Global Trade Relations &gt; Free Trade Agreements &gt; Hong Kong, Chine.
+[^t-2]: Les annexes ne sont disponibles qu’en anglais, ne sont pas publiées au RO ni au RS ([RO 2021 447](https://fedlex.data.admin.ch/eli/oc/2021/447), [448](https://fedlex.data.admin.ch/eli/oc/2021/448)). Elles peuvent être obtenues auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, ou téléchargées sur le site Internet du Secrétariat de l’AELE: www.efta.int &gt; Global Trade Relations &gt; Free Trade Agreements &gt; Hong Kong, Chine.
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
