@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 18 novembre 2015 réglant les échanges d'importati
 short: OITE-PT-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: fr
-version: 2021-04-24
+version: 2021-05-08
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210424/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210424-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210424/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210508/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210508-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210508/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210424/fr"
 
 (OITE-PT-DFI)
 
-du 18 novembre 2015 (Etat le 24 avril 2021)
+du 18 novembre 2015 (Etat le 8 mai 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -155,7 +155,7 @@ Annexe 1*[^t-1]*
 
 ## Actes législatifs de l’UE relatifs aux conditions d’importation et de transit harmonisées
 
-[^t-1]: Mise à jour par le ch. I des O de l’OSAV du 21 déc. 2015 ([RO 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), du 14 janv. 2016 ([RO 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), du 27 mai 2016 ([RO 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), du 11 oct. 2016 ([RO 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), du 31 oct. 2016 ([RO 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), du 3 nov. 2016 ([RO 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), du 30 janv. 2017 ([RO 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), du 24 mars 2017 ([RO 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), du 27 juin 2017 ([RO 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), du 29 déc. 2017 ([RO 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), du 27 sept. 2018 ([RO 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), du 27 mars 2019 ([RO 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), du 27 juin 2019 ([RO 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), du 25 juil. 2019 ([RO 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), du 22 août 2019 ([RO 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), du 12 nov. 2019 ([RO 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), du 18 nov. 2019 ([RO 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), du 19 déc. 2019 ([RO 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)),du 23 déc. 2019 ([RO 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), du 5 mars 2020 ([RO 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), le ch. I al. 1 de l’O de l’OSAV du 13 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)) et le ch. I des O de l’OSAV du 26 nov. 2020 ([RO 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), du 21 déc. 2020 ([RO 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), du 30 déc. 2020 ([RO 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)), du 24 fév. 2021 ([RO 2021 114](https://fedlex.data.admin.ch/eli/oc/2021/114)), et du 22 avril 2021, en vigueur depuis le 24 avril 2021 ([RO 2021 238](https://fedlex.data.admin.ch/eli/oc/2021/238)).
+[^t-1]: Mise à jour par le ch. I des O de l’OSAV du 21 déc. 2015 ([RO 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), du 14 janv. 2016 ([RO 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), du 27 mai 2016 ([RO 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), du 11 oct. 2016 ([RO 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), du 31 oct. 2016 ([RO 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), du 3 nov. 2016 ([RO 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), du 30 janv. 2017 ([RO 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), du 24 mars 2017 ([RO 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), du 27 juin 2017 ([RO 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), du 29 déc. 2017 ([RO 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), du 27 sept. 2018 ([RO 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), du 27 mars 2019 ([RO 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), du 27 juin 2019 ([RO 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), du 25 juil. 2019 ([RO 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), du 22 août 2019 ([RO 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), du 12 nov. 2019 ([RO 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), du 18 nov. 2019 ([RO 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), du 19 déc. 2019 ([RO 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)),du 23 déc. 2019 ([RO 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), du 5 mars 2020 ([RO 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), le ch. I al. 1 de l’O de l’OSAV du 13 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)) et le ch. I des O de l’OSAV du 26 nov. 2020 ([RO 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), du 21 déc. 2020 ([RO 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), du 30 déc. 2020 ([RO 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)), du 24 fév. 2021 ([RO 2021 114](https://fedlex.data.admin.ch/eli/oc/2021/114)), du 22 avril 2021 ([RO 2021 238](https://fedlex.data.admin.ch/eli/oc/2021/238)) et du 6 mai 2021, en vigueur depuis le 8 mai 2021 ([RO 2021 266](https://fedlex.data.admin.ch/eli/oc/2021/266)).
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et de l’acte modificateur</th></tr>
@@ -217,12 +217,12 @@ Annexe 1*[^t-1]*
 <tr><td>57. Directive 2009/158/CE</td><td>Directive 2009/158/CE du Conseil du 30 novembre 2009 relative aux conditions de police sanitaire régissant les échanges intracommunautaires et les importations en provenance des pays tiers de volailles et d’œufs à couver, JO L 343 du 22.12.2009, p. 74; modifiée en dernier lieu par la décision d’exécution 2011/879/UE, JO L 343 du 23.12.2011, p. 105</td></tr>
 <tr><td>58. ...</td><td></td></tr>
 <tr><td>59. Règlement (CE) n<sup>o</sup> 206/2010</td><td>Règlement (UE) n<sup>o</sup> 206/2010 de la Commission du 12 mars 2010 établissant des listes des pays tiers, territoires ou parties de pays tiers ou territoires en provenance desquels l’introduction dans l’Union européenne de certains animaux et viandes fraîches est autorisée, et définissant les exigences applicables en matière de certification vétérinaire, JO L 73 du 20.3.2010, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2204, JO L 438 du 28.12.2020, p. 7</td></tr>
-<tr><td>60. Règlement (UE) n<sup>o</sup> 605/2010</td><td>Règlement (UE) n<sup>o</sup> 605/2010 de la Commission du 2 juillet 2010 arrêtant les conditions sanitaires et de police sanitaire ainsi que les exigences en matière de certification vétérinaire pour l’introduction dans l’Union européenne de lait cru et de produits laitiers destinés à la consommation humaine, JO L 175 du 10.7.2010, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2207, JO L 438 du 28.12.2020, p. 18</td></tr>
+<tr><td>60. Règlement (UE) n<sup>o</sup> 605/2010</td><td>Règlement (UE) n<sup>o</sup> 605/2010 de la Commission du 2 juillet 2010 arrêtant les conditions sanitaires et de police sanitaire ainsi que les exigences en matière de certification vétérinaire pour l’introduction dans l’Union européenne de lait cru et de produits laitiers destinés à la consommation humaine, JO L 175 du 10.7.2010, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/645, JO L 133 du 20.4.2021, p. 29</td></tr>
 <tr><td>61. Décision 2010/381/UE</td><td>Décision 2010/381/UE de la Commission du 8 juillet 2010 relative à des mesures d’urgence applicables aux lots de produits de l’aquaculture importés d’Inde et destinés à la consommation humaine, JO L 174 du 9.7.2010, p. 51; modifiée en dernier lieu par la décision d’exécution (UE) 2016/1774, JO L 271 du 6.10.2016, p. 7</td></tr>
 <tr><td>62. ...</td><td></td></tr>
 <tr><td>63. Décision 2010/472/UE</td><td>Décision 2010/472/UE de la Commission du 26 août 2010 relative aux importations dans l’Union de sperme, d’ovules et d’embryons d’ovins et de caprins, JO L 228 du 31.8.2010, p. 74; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2217, JO L 438 du 28.12.2020, p. 60</td></tr>
 <tr><td>64. Règlement (UE) n<sup>o</sup> 142/2011</td><td>Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/1720, JO L 386 du 18.11.2020, p. 6</td></tr>
-<tr><td>65. Décision 2011/163/UE</td><td>Décision 2011/163/UE de la Commission du 16 mars 2011 relative à l’approbation des plans soumis par les pays tiers conformément à l’art. 29 de la directive 96/23/CE du Conseil, JO L 70 du 17.3.2011, p. 40; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2218, JO L 438 du 28.12.2020, p. 63</td></tr>
+<tr><td>65. Décision 2011/163/UE</td><td>Décision 2011/163/UE de la Commission du 16 mars 2011 relative à l’approbation des plans soumis par les pays tiers conformément à l’art. 29 de la directive 96/23/CE du Conseil, JO L 70 du 17.3.2011, p. 40; modifiée en dernier lieu par la décision d’exécution (UE) 2021/653, JO L 138 du 22.4.2021, p. 1</td></tr>
 <tr><td>66. Décision d’exécution 2011/630/UE</td><td>Décision d’exécution 2011/630/UE de la Commission du 20 septembre 2011 relative aux importations dans l’Union de sperme d’animaux domestiques de l’espèce bovine, JO L 247 du 24.9.2011, p. 32; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2215, JO L 438 du 28.12.2020, p. 54</td></tr>
 <tr><td>67. Règlement (UE) n<sup>o</sup> 28/2012</td><td>Règlement (UE) n<sup>o</sup> 28/2012 de la Commission du 11 janvier 2012 fixant les exigences de certification applicables à certains produits composés importés dans l’Union ou transitant par celle-ci, et modifiant la décision 2007/275/CE et le règlement (CE) n<sup>o</sup> 1162/2009, JO L 12 du 14.1.2012, p. 1; modifié en dernier lieu par le règlement Délégué (UE) 2019/2124, JO L 321 du 12.12.2019, p. 73</td></tr>
 <tr><td>68. Décision d’exécution 2012/137/UE</td><td>Décision d’exécution 2012/137/UE de la Commission du 1er mars 2012 relative à l’importation dans l’Union de sperme d’animaux domestiques de l’espèce porcine, JO L 64 du 3.3.2012, p. 29; modifiée par la décision d’exécution (UE) 2020/2214, JO L 438 du 28.12.2020, p. 51</td></tr>
@@ -261,7 +261,7 @@ Annexe 1*[^t-1]*
 <tr><td>104. Règlement d’exécution (UE) 2021/405</td><td>Règlement d’exécution (UE) 2021/405 de la Commission du 24 mars 2021 établissant les listes des pays tiers ou régions de pays tiers en provenance desquels l’entrée dans l’Union de certains animaux et biens destinés à la consommation humaine est autorisée conformément au règlement (UE) 2017/625 du Parlement européen et du Conseil, JO L 114 du 31.3.2021, p. 118; modifié en dernier lieu par le règlement d’exécution (UE) 2021/606, JO L 129 du 15.4.2021, p. 65</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 2)
 
@@ -281,7 +281,7 @@ Les garanties sanitaires additionnelles définies à l’art. 2, al. 1, let. b, 
 
 [^annex2-lvlu1-lvl2-1]: Décision 2008/185/CE de la Commission du 21 février 2008 établissant des garanties supplémentaires concernant la maladie d’Aujeszky pour les porcs destinés aux échanges intracommunautaires et fixant les critères relatifs aux renseignements à fournir sur cette maladie, JO L 59 du 4.3.2008, p. 19; modifiée en dernier lieu par la décision d’exécution (UE) n<sup>o</sup> 2016/1782, JO L 272 du 7.10.2016, p. 90.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 3)
 
@@ -304,7 +304,7 @@ Les produits d’origine animale qui présentent un risque élevé sur le plan d
 
 [^annex3-lvlu1-1]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/797, JO L 194 du 18.6.2020, p. 1.
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 5)
 
@@ -374,7 +374,7 @@ III. Les produits animaux suivants ne peuvent être importés en Suisse ou trans
 <tr><td>4. Denrées alimentaires mentionnées sous le ch. I, let. b, et sous-produits animaux destinés à l’alimentation des animaux de compagnie.</td><td>Îles Féroé, Groenland</td><td>au maximum 10 kg par personne</td></tr>
 </table>
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 7)
 
@@ -387,7 +387,7 @@ Annexe 5*[^t-5]*
 <tr><th>Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement (UE) 2019/1243, JO L 198 du 25.7.2019, p. 241</th><th>Annexe II</th></tr>
 </table>
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 (art. 8)
 
@@ -461,7 +461,7 @@ Annexe 7
   - e. d’équipements appropriés permettant des échanges d’informations rapides, par le biais de TRACES, et
   - f. d’appareils et d’équipements de nettoyage et de désinfection.
 
-Annexe 8*[^t-7]*
+Annexe 8[^t-7]
 
 (art. 10)
 
