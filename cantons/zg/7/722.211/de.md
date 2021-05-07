@@ -4,20 +4,22 @@ number: "722.211"
 title: Verordnung zum Gesetz über den Feuerschutz
 short: "Feuerschutzverordnung, FSV"
 language: de
-version: 2018-03-03
-valid_until: 2021-05-07
-version_adopted: 2018-02-27
+version: 2021-05-08
+valid_until: 2022-12-31
+version_adopted: 2021-05-04
 adopted: 1995-03-21
 in_force: 1995-04-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/722.211"
-pdf: "https://bgs.zg.ch/api/de/versions/1795/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2230/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über den Feuerschutz
 
-Vom 21. März 1995 (Stand 3. März 2018)
+(Feuerschutzverordnung, FSV)
+
+Vom 21. März 1995 (Stand 8. Mai 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -229,8 +231,8 @@ Die Gebäudeversicherung Zug legt die maximale beitragsberechtigte Löschwasserr
 
 <table>
 <tr><th>Grössenklasse</th><th>Gemeinde, Beitragsberechtigung</th><th>Fahrzeug (Anzahl)</th></tr>
-<tr><td>Stützpunktfeuerwehr</td><td>60 %</td><td>Tanklöschfahrzeug (1), Autodrehleiter (1), Universallöschfahrzeug (ULF) (1), Pionierfahrzeug (1), Transportfahrzeug für Wechselladebrücken (1), Vorausfahrzeug (Pikett-Offizier) (1), Zusatzfahrzeug für Transporte (3)</td></tr>
-<tr><td>1</td><td>Zug, 40 %</td><td>Tanklöschfahrzeug (2), Offiziersfahrzeug (1), Dienstfahrzeug (1), Zusatzfahrzeuge für Transporte (6), Hubrettungsfahrzeug (1), Atemschutzfahrzeug (1), Verkehrsdienstfahrzeug (1), Einsatzleitfahrzeug (1)</td></tr>
+<tr><td>Stützpunktfeuerwehr</td><td>60 %</td><td>Tanklöschfahrzeug (1), Autodrehleiter (1), Universallöschfahrzeug (ULF) (1), Pionierfahrzeug (1), Transportfahrzeug für Wechselladebrücken (1), Vorausfahrzeug (Pikett-Offizier) (1), Zusatzfahrzeug für Transporte (3), Verkehrsdienstfahrzeug (1), Einsatzleitfahrzeug (1)</td></tr>
+<tr><td>1</td><td>Zug, 40 %</td><td>Tanklöschfahrzeug (2), Offiziersfahrzeug (1), Dienstfahrzeug (1), Zusatzfahrzeuge für Transporte (6), Hubrettungsfahrzeug (1), Atemschutzfahrzeug (1)</td></tr>
 <tr><td>2</td><td>Baar, Cham, 40 %</td><td>Tanklöschfahrzeug (1), Pikettfahrzeug (1), Pionierfahrzeug (1), Atemschutzfahrzeug (1), Verkehrsdienstfahrzeug (1), Hubrettungs- bzw. Leiternfahrzeug (1), Vorausfahrzeug (1), Einsatzleitfahrzeug (1), Zusatzfahrzeug für Transporte (5), Ersteinsatz-/Löschfahrzeug Allenwinden (nur Baar) (1)</td></tr>
 <tr><td>3</td><td>Oberägeri, Unterägeri, Menzingen, Hünenberg, Steinhausen, Risch, Walchwil, Neuheim, 40 %</td><td>Tanklöschfahrzeug (1), Pikett-/Pionierfahrzeug (1), Atemschutzfahrzeug (1), Vorausfahrzeug (1), Zusatzfahrzeug für Transporte (5)</td></tr>
 <tr><td>3</td><td>Oberägeri, Unterägeri, gemeinsam 40 %</td><td>Hubrettungs- bzw. Leiternfahrzeug (1)</td></tr>
@@ -238,7 +240,7 @@ Die Gebäudeversicherung Zug legt die maximale beitragsberechtigte Löschwasserr
 
 <sup>2</sup> Die nachstehenden Betriebe mit Betriebsfeuerwehr haben Anspruch auf folgende Fahrzeuge, an deren Anschaffung die Gebäudeversicherung Zug Beiträge von 40 % ausrichtet:
 
-- 1\. Papierfabriken Cham-Tenero AG (1 Pikettfahrzeug)
+- 1\. …
 
 #### § 22
 
