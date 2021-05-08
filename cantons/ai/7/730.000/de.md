@@ -4,29 +4,29 @@ number: "730.000"
 title: Energiegesetz
 short: EnerG
 language: de
-version: 2011-01-01
-corrected: 2018-10-16
-version_adopted: 2009-04-26
+version: 2021-05-09
+version_adopted: 2021-05-09
 adopted: 2001-04-29
 in_force: 2002-06-24
 url: "https://ai.clex.ch/app/de/texts_of_law/730.000"
-pdf: "https://ai.clex.ch/api/de/versions/690/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2082/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Energiegesetz (EnerG)
+# Energiegesetz
 
-vom 29. April 20011
+(EnerG)
+
+vom 29.04.2001 (Stand 09.05.2021)
 
 Die Landsgemeinde des Kantons Appenzell I.Rh.,
 
-in Vollziehung des Energiegesetzes des Bundes vom 26. Juni 1998 und der dazugehörigen Verordnungen sowie gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,2
+in Vollziehung des Energiegesetzes des Bundes vom 26. Juni 1998 und der dazugehörigen Verordnungen sowie gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
-- l. Allgemeine Bestimmungen
+## l. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -40,9 +40,11 @@ beschliesst:
 
 #### Art. 2
 
-**Verhalten der öffentlichen Hand**
+**Vorbild der öffentlichen Hand**
 
-Die öffentliche Hand nutzt die Energie möglichst sparsam und rationell; nach Möglichkeit werden erneuerbare Energien eingesetzt.
+<sup>1</sup> Für öffentliche Bauten im Eigentum von Kanton, Bezirk, Schul- und Kirchgemeinden werden die Minimalanforderungen an die Energienutzung erhöht. Die Standeskommission legt einen Standard fest.
+
+<sup>2</sup> Der Elektrizitätsverbrauch ist bis 2030 bezogen auf die Geschossfläche um 20% gegenüber dem Niveau von 1990 zu senken oder im gleichen Umfang durch neu zugebaute erneuerbare Energien zu ersetzen.
 
 #### Art. 3
 
@@ -52,7 +54,7 @@ Die öffentliche Hand nutzt die Energie möglichst sparsam und rationell; nach M
 
 <sup>2</sup> Sie bezeichnet das für den Vollzug zuständige Departement.
 
-#### Art. 43
+#### Art. 4
 
 **Übertragung von Vollzugsaufgaben an Dritte**
 
@@ -62,37 +64,69 @@ Die öffentliche Hand nutzt die Energie möglichst sparsam und rationell; nach M
 
 <sup>3</sup> Es veröffentlicht die Namen und Adressen der für den Vollzug beigezogenen Dritten.
 
-#### Art. 51
+#### Art. 5
 
-Ausnahmen <sup>1</sup>Liegen ausserordentliche Verhältnisse vor und bedeutet die Einhaltung der Bestimmungen dieses Gesetzes und dessen Ausführungsbestimmungen eine unverhältnismässige Härte, kann das Departement Ausnahmen von einzelnen Vorschriften zulassen, wenn dadurch keine öffentlichen Interessen verletzt werden.
+**Ausnahmen**
+
+<sup>1</sup> Liegen ausserordentliche Verhältnisse vor und bedeutet die Einhaltung der Bestimmungen dieses Gesetzes und dessen Ausführungsbestimmungen eine unverhältnismässige Härte, kann das Departement Ausnahmen von einzelnen Vorschriften zulassen, wenn dadurch keine öffentlichen oder überwiegenden privaten Interessen verletzt werden.
 
 <sup>2</sup> Vorbehältlich ausdrücklicher anderweitiger Regelung besteht kein Anspruch auf eine Ausnahmebewilligung.
 
 <sup>3</sup> Die Ausnahmebewilligung kann mit Bedingungen und Auflagen verknüpft und befristet werden.
 
-<sup>4</sup> Vom Gesuchsteller\*, kann namentlich die Einreichung spezieller Nachweise (Denkmalpflege, Bauphysik etc.) verlangt werden.
+<sup>4</sup> Vom Gesuchsteller[^5-1], kann namentlich die Einreichung spezieller Nachweise (Denkmalpflege, Bauphysik etc.) verlangt werden.
 
-### II. Energiesparmassnahmen bei Bauten und Anlagen
+[^5-1]: Die Verwendung männlicher Bezeichnungen gilt sinngemäss für beide Geschlechter.
+
+## II.
 
 #### Art. 6
 
-Grundsatz <sup>1</sup>Neue Bauten und Anlagen sowie Erweiterungen an bestehenden Bauten, die geheizt oder gekühlt werden, sind so zu erstellen, dass der Wärme- und Kälteschutz sowie die haustechnischen Anlagen dem jeweiligen Stand der Energietechnik entsprechen.
+**Grundsatz**
 
-<sup>2</sup> Die Vollzugsbehörde kann nach Abschluss der Arbeiten von der Bauherrschaft eine Ausführungsbestätigung einverlangen.
+<sup>1</sup> Energie ist sparsam und effizient zu nutzen.
+
+<sup>2</sup> Gebäude und Anlagen sind so zu erstellen und zu unterhalten, dass möglichst geringe Energieverluste eintreten und ein effizienter Betrieb möglich ist.
+
+<sup>3</sup> Gebäude und Anlagen sowie damit zusammenhängende Ausstattungen und Ausrüstungen sind so zu erstellen und zu unterhalten, dass verstärkt Abwärme und erneuerbare Energien genutzt werden.
+
+<sup>4</sup> Soweit dieses Gesetz und die Ausführungsverordnung nichts Anderes bestimmen, sind Gebäude oder Teile davon, die den Minimalanforderungen für bestehende Gebäude, Gebäudeteile oder Anlagen nicht entsprechen, an diese anzupassen, wenn sie so umgebaut oder umgenutzt werden, dass die Energienutzung beeinflusst wird.
+
+<sup>5</sup> Soweit dieses Gesetz und die Ausführungsverordnung nichts Anderes bestimmen, sind gebäudetechnische Anlagen dann anzupassen, wenn sie erneuert oder umgebaut werden.
+
+## IIa. Energiesparmassnahmen bei Bauten und Anlagen
 
 #### Art. 7
 
-Erweiterte Anfor- Der Grosse Rat bestimmt durch Verordnung den Höchstanteil an nichterneuerbaren derungen an Energien bei Neubauten und Erweiterungen an bestehenden Bauten.
+**Erweiterte Anforderungen**
 
-Neubauten Art. 82
+<sup>1</sup> Neubauten und Erweiterungen von bestehenden Gebäuden, insbesondere Aufstockungen und Anbauten, müssen nach dem Stand der Technik energieeffizient erstellt und ausgerüstet werden.
 
-Ausrüstungs- <sup>1</sup>Neue Bauten und neue Gebäudegruppen mit zentraler Wärmeversorgung für fünf pflicht VHKA oder mehr Nutzeinheiten sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten (Verbrauchsabhängige Heizkostenabrechnung, VHKA).
+<sup>2</sup> Die Verordnung regelt Art und Umfang der Anforderungen an den Energieeinsatz sowie Befreiungen. Sie berücksichtigt dabei insbesondere die Wirtschaftlichkeit sowie besondere Verhältnisse wie Klima, Verschattung oder Quartiersituation.
 
-<sup>2</sup> Bei Flächenheizungen ist der Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit zu isolieren.
+#### Art. 7a
 
-<sup>3</sup> Bestehende Gebäude oder bestehende Gebäudegruppen mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten, wenn das Heizungs- oder Warmwassersystem gesamthaft erneuert wird oder am Gebäude, im Falle einer Gebäudegruppe an mindestens einem Gebäude, die Gebäudehülle zu über 75 % saniert wird.
+**Eigenproduktion**
 
-#### Art. 91
+<sup>1</sup> Bei Neubauten wird ein Teil der benötigten Elektrizität auf der Parzelle der Neubaute selber produziert.
+
+<sup>2</sup> Die Verordnung regelt Art, Umfang und Befreiungen. Sie berücksichtigt dabei die Energiebezugsfläche als Berechnungsgrundlage für die selbst zu erzeugende Elektrizität.
+
+#### Art. 8
+
+**Erfassung Wärmeverbrauch**
+
+<sup>1</sup> Neue Gebäude mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit Geräten zur Erfassung des individuellen Wärmeverbrauchs auszurüsten (Verbrauchsabhängige Heizkostenabrechnung, VHKA).
+
+<sup>2</sup> Neue Gebäude, die Wärme von einer zentralen Wärmeversorgung für eine Gebäudegruppe beziehen, sind mit Geräten zur Erfassung des Wärmeverbrauchs pro Gebäude auszurüsten.
+
+<sup>3</sup> Bestehende Gebäude mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind bei einer Gesamterneuerung des Heizungs- oder des Warmwassersystems mit Geräten zur Erfassung des individuellen Wärmeverbrauchs auszurüsten.
+
+<sup>4</sup> Mehrere bestehende Gebäude mit gemeinsamer zentraler Wärmeversorgung sind mit Geräten zur Erfassung des Wärmeverbrauchs pro Gebäude auszurüsten, wenn an einem oder mehreren Gebäuden die Gebäudehülle saniert wird.
+
+<sup>5</sup> Die Verordnung kann Befreiungen vorsehen.
+
+#### Art. 9
 
 **Wärmenutzung bei Elektrizitätserzeugungsanlagen**
 
@@ -104,7 +138,7 @@ Ausrüstungs- <sup>1</sup>Neue Bauten und neue Gebäudegruppen mit zentraler Wä
 
 <sup>4</sup> Die Erstellung von Elektrizitätserzeugungsanlagen zur Notstromerzeugung ist ohne Nutzung der im Betrieb entstehenden Wärme zulässig, wenn der Betrieb der Anlage samt den Probeläufen höchstens 50 Stunden pro Jahr umfasst.
 
-#### Art. 102
+#### Art. 10
 
 **Heizungen im Freien**
 
@@ -112,51 +146,63 @@ Ausrüstungs- <sup>1</sup>Neue Bauten und neue Gebäudegruppen mit zentraler Wä
 
 <sup>2</sup> Ausnahmen vom Erfordernis der Verwendung erneuerbarer Energie oder nicht anders nutzbarer Abwärme für den Bau neuer sowie für den Ersatz und die Änderung bestehender Heizungen im Freien können bewilligt werden, wenn:
 
-- a. die Sicherheit von Personen und Sachen oder der Schutz von technischen Einrichtungen den Betrieb einer Heizung im Freien erfordert und
+- a) die Sicherheit von Personen und Sachen oder der Schutz von technischen Einrichtungen den Betrieb einer Heizung im Freien erfordert und
+- b) bauliche Massnahmen (z.B. Überdachungen) sowie betriebliche Massnahmen (z.B. Schneeräumungen) nicht ausführbar oder unverhältnismässig sind und
+- c) die Heizung im Freien mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet ist.
 
-- b. bauliche Massnahmen (z.B. Überdachungen) sowie betriebliche Massnahmen (z.B. Schneeräumungen) nicht ausführbar oder unverhältnismässig sind und
+#### Art. 11
 
-- c. die Heizung im Freien mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet ist.
+**Beheizte Freiluftbäder**
 
-#### Art. 111
-
-Beheizte <sup>1</sup>Der Bau neuer und die Sanierung bestehender beheizter Freiluftbäder sowie der Freiluftbäder Ersatz und die wesentliche Änderung der technischen Einrichtungen zur Beheizung von Freiluftbädern ist nur zulässig, wenn sie ausschliesslich mit erneuerbaren Ener-
-
-gien oder nicht anders nutzbarer Abwärme betrieben werden.
+<sup>1</sup> Der Bau neuer und die Sanierung bestehender beheizter Freiluftbäder sowie der Ersatz und die wesentliche Änderung der technischen Einrichtungen zur Beheizung von Freiluftbädern ist nur zulässig, wenn sie ausschliesslich mit erneuerbaren Energien oder nicht anders nutzbarer Abwärme betrieben werden.
 
 <sup>2</sup> Elektrische Wärmepumpen dürfen für Massnahmen gemäss Abs. 1 dieses Artikels eingesetzt werden. In diesem Fall ist eine Abdeckung gegen Wärmeverluste erforderlich.
 
-<sup>3</sup> Als Freiluftbäder im Sinne von Abs. 1 dieses Artikels gelten Wasserbecken mit einem Inhalt von mehr als 8 m<sup>3</sup>.
+<sup>3</sup> Als Freiluftbäder im Sinne von Abs. 1 dieses Artikels gelten Wasserbecken, die der Baubewilligungspflicht unterstehen.
 
-Art. 11a2
+#### Art. 11a
 
-Ortsfeste elektri- <sup>1</sup>Die Neuinstallation ortsfester elektrischer Widerstandsheizungen zur Gebäudebesche Wider- heizung ist nicht zulässig.
+**Ortsfeste elektrische Widerstandsheizungen**
 
-standsheizungen <sup>2</sup>Das Ersetzen ortsfester elektrischer Widerstandsheizungen mit Wasserverteilsystem durch ortsfeste elektrische Widerstandsheizung ist nicht zulässig.
+<sup>1</sup> Die Neuinstallation ortsfester elektrischer Widerstandsheizungen zur Gebäudebeheizung ist nicht zulässig.
+
+<sup>2</sup> Das Ersetzen ortsfester elektrischer Widerstandsheizungen mit Wasserverteilsystem durch ortsfeste elektrische Widerstandsheizung ist nicht zulässig.
 
 <sup>3</sup> Der Einsatz ortsfester elektrischer Widerstandsheizungen als Zusatzheizung ist nicht zulässig.
 
 <sup>4</sup> Notheizungen sind in begrenztem Umfang zulässig.
 
-<sup>5</sup> Ausnahmen für die Installation neuer sowie für den Ersatz bestehender ortsfester elektrischer Widerstandsheizungen können insbesondere bei Bauten an speziellen geographischen Lagen und bei denkmalgeschützten Bauten bewilligt werden, wenn:
+<sup>5</sup> …
 
-- a. die Installation eines anderen Heizsystems nicht möglich oder unverhältnismässig ist;
+#### Art. 11b
 
-- b. überwiegende Interessen, namentlich des Orts- und Landschaftsschutzes sowie der Denkmalpflege der Installation eines anderen Heizsystems entgegenstehen.
+**Ersatz Wärmeerzeuger**
 
-#### Art. 123
+<sup>1</sup> Beim Ersatz des Wärmeerzeugers in bestehenden Bauten mit Wohnnutzung ist die Wärmeerzeugung so einzurichten, dass mindestens 10% des Wärmebedarfs durch erneuerbare Energie gedeckt wird. Die Verordnung kann Befreiungen vorsehen.
 
-Grossver- <sup>1</sup>Grossverbraucher mit einem jährlichen Wärmeverbrauch von mehr als 5 GWh oder braucher einem jährlichen Elektrizitätsverbrauch von mehr als 0,5 GWh können vom Departement verpflichtet werden, ihren Energieverbrauch zu analysieren und zumutbare Massnahmen zur Verbrauchsoptimierung zu realisieren.
+#### Art. 11c
+
+**Elektro-Wassererwärmer**
+
+<sup>1</sup> Die Neuinstallation und das Ersetzen zentraler Wassererwärmer, die ausschliesslich elektrisch beheizt werden, ist nicht zulässig.
+
+<sup>2</sup> Der Ersatz eines zentralen Elektro-Wassererwärmers ist meldepflichtig.
+
+#### Art. 12
+
+**Grossverbraucher**
+
+<sup>1</sup> Grossverbraucher mit einem jährlichen Wärmeverbrauch von mehr als 5 GWh oder einem jährlichen Elektrizitätsverbrauch von mehr als 0,5 GWh können vom Departement verpflichtet werden, ihren Energieverbrauch zu analysieren und zumutbare Massnahmen zur Verbrauchsoptimierung zu realisieren.
 
 <sup>2</sup> Abs. 1 dieses Artikels ist nicht anwendbar für Grossverbraucher, die sich verpflichten, individuell oder in einer Gruppe vom Departement vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten. Solche Grossverbraucher können vom Departement überdies von der Einhaltung näher zu bezeichnender energietechnischer Vorschriften entbunden werden.
 
-Art. 12a1
+#### Art. 12a
 
-**Gebäudeenergieausweis**
+**Vollzug**
 
-Der Kanton führt den Gebäudeenergieausweis der Kantone (GEAK) ein.
+<sup>1</sup> Der Kanton kann für den Vollzug vereinheitlichte Gebäudeausweise verlangen.
 
-### III. Förderung
+## III. Förderung
 
 #### Art. 13
 
@@ -164,13 +210,10 @@ Der Kanton führt den Gebäudeenergieausweis der Kantone (GEAK) ein.
 
 <sup>1</sup> Finanzhilfen können gewährt werden für Massnahmen betreffend:
 
-- a. sparsamer und rationeller Energienutzung;
-
-- b. Nutzung von erneuerbaren Energien und Abwärme;
-
-- c. Aus- und Weiterbildung im Energiebereich, insbesondere solche von Fachleuten;
-
-- d. Information, Beratung und Marketing im Energiebereich.
+- a) sparsamer und rationeller Energienutzung;
+- b) Nutzung von erneuerbaren Energien und Abwärme;
+- c) Aus- und Weiterbildung im Energiebereich, insbesondere solche von Fachleuten;
+- d) Information, Beratung und Marketing im Energiebereich.
 
 <sup>2</sup> Finanzhilfen zur rationellen Energienutzung sowie zur Nutzung von erneuerbaren Energien und Abwärme richten sich nach der eingesparten beziehungsweise nach der absetzbaren Energiemenge.
 
@@ -182,19 +225,35 @@ Der Kanton führt den Gebäudeenergieausweis der Kantone (GEAK) ein.
 
 <sup>2</sup> Für die Verwendung der Mittel erstellt die Standeskommission Förderprogramme.
 
-Art. 14a2
+#### Art. 14a
 
 **Kantonale Energieplanung**
 
-Der Grosse Rat kann auf dem Verordnungsweg eine kantonale Energieplanung einführen.
+<sup>1</sup> Der Grosse Rat kann auf dem Verordnungsweg eine kantonale Energieplanung einführen.
 
-### IV. Bestimmungen zur Stromversorgung3
+#### Art. 14b
+
+**Erneuerbare Energie**
+
+<sup>1</sup> Der Kanton leistet einen Beitrag zur Versorgungssicherheit durch die Schaffung günstiger Rahmenbedingungen für die Erzeugung von erneuerbarer Energie.
+
+#### Art. 14c
+
+**Windkraft**
+
+<sup>1</sup> Der Kanton setzt sich dafür ein, rechtliche und planerische Voraussetzungen zu schaffen, damit mindestens 10GWh/Jahr elektrische Energie aus Windkraftanlagen erzeugt werden können.
+
+<sup>2</sup> Dieses Ziel ist in erster Linie am Standort Honegg, Bezirk Oberegg, zu erreichen.
+
+<sup>3</sup> Für die definitive Festsetzung des Standorts Honegg im Richtplan ist der Grosse Rat zuständig. In der dafür vorzunehmenden Interessenabwägung ist das Interesse an der Versorungssicherheit mit elektrischer Energie mindestens gleich stark zu gewichten wie das Interesse des Landschaftsschutzes.
+
+## IV. Bestimmungen zur Stromversorgung
 
 #### Art. 15
 
 **Versorgungssicherung**
 
-Die Standeskommission ist für die Versorgungssicherung mit elektrischer Energie zuständig und trifft die dazu erforderlichen Massnahmen.
+<sup>1</sup> Die Standeskommission ist für die Versorgungssicherung mit elektrischer Energie zuständig und trifft die dazu erforderlichen Massnahmen.
 
 #### Art. 16
 
@@ -204,7 +263,7 @@ Die Standeskommission ist für die Versorgungssicherung mit elektrischer Energie
 
 <sup>2</sup> Vor der Bezeichnung der Netzgebiete und der Erteilung von Leistungsaufträgen werden die Versorgungsunternehmen angehört.
 
-#### Art. 171
+#### Art. 17
 
 **Anschlusspflicht**
 
@@ -214,27 +273,26 @@ Die Standeskommission ist für die Versorgungssicherung mit elektrischer Energie
 
 <sup>3</sup> Mittels Verfügung kann die Standeskommission die auf ihrem Gebiet tätigen Elektrizitätsversorgungsunternehmen verpflichten, Endverbraucher sowie Elektrizitätserzeuger auch ausserhalb ihres Netzgebietes an das Netz anzuschliessen, wenn:
 
-- a. die Selbstversorgung oder der Anschluss an ein anderes Netz nicht möglich oder unverhältnismässig ist;
-
-- b. der Anschluss an das zu verpflichtende Elektrizitätsversorgungsunternehmen technisch und betrieblich möglich und wirtschaftlich tragbar ist.
+- a) die Selbstversorgung oder der Anschluss an ein anderes Netz nicht möglich oder unverhältnismässig ist;
+- b) der Anschluss an das zu verpflichtende Elektrizitätsversorgungsunternehmen technisch und betrieblich möglich und wirtschaftlich tragbar ist.
 
 <sup>4</sup> Die Standeskommission kann in den Verfügungen nach Abs. 2 und 3 dieses Artikels die Kriterien für die Berechnung der Anschlusskosten oder deren Höhe festlegen.
 
 <sup>5</sup> Die Kosten für die Hausanschlussleitungen sind grundsätzlich nach dem Verursacherprinzip zu verrechnen.
 
-### V. Gebühren und Strafbestimmungen
+## V. Gebühren und Strafbestimmungen
 
 #### Art. 18
 
 **Gebühren**
 
-Für Bewilligungen, Kontrollen und besondere Dienstleistungen nach eidgenössischem und kantonalem Energierecht werden Gebühren bis höchstens Fr. 5‘000.— erhoben. Die Kosten für die öffentliche Auflage bzw. Publikation von Gesuchen, für Kontrollen und allfällige Gutachten etc. hat der Gesuchsteller zu tragen.
+<sup>1</sup> Für Bewilligungen, Kontrollen und besondere Dienstleistungen nach eidgenössischem und kantonalem Energierecht werden Gebühren bis höchstens Fr. 5'000.-- erhoben. Die Kosten für die öffentliche Auflage bzw. Publikation von Gesuchen, für Kontrollen und allfällige Gutachten etc. hat der Gesuchsteller zu tragen.
 
-#### Art. 191
+#### Art. 19
 
 **Strafbestimmungen**
 
-<sup>1</sup> Widerhandlungen gegen Bestimmungen dieses Gesetzes, der dazugehörigen Ausführungsbestimmungen und der sich darauf stützenden Verfügungen und Entscheide werden mit Busse bis zu Fr. 40'000.— bestraft. Das Strafverfahren richtet sich nach dem Einführungsgesetz zur Schweizerischen Strafprozessordnung.
+<sup>1</sup> Widerhandlungen gegen Bestimmungen dieses Gesetzes, der dazugehörigen Ausführungsbestimmungen und der sich darauf stützenden Verfügungen und Entscheide werden mit Busse bis zu Fr. 40'000.-- bestraft. Das Strafverfahren richtet sich nach dem Einführungsgesetz zur Schweizerischen Strafprozessordnung.
 
 <sup>2</sup> Wird die Widerhandlung im Betrieb einer juristischen Person oder einer Kollektiv- oder Kommanditgesellschaft begangen, so sind die Strafbestimmungen auf die Mitglieder der Organe oder der Gesellschaft anwendbar, die für sie gehandelt haben oder hätten handeln sollen, für Bussen und Kosten unter solidarischer Mithaftung der juristischen Person oder der Gesellschaft.
 
@@ -242,48 +300,34 @@ Für Bewilligungen, Kontrollen und besondere Dienstleistungen nach eidgenössisc
 
 <sup>4</sup> Vorbehalten bleibt das Recht zur Ersatzvornahme.
 
-### VI. Übergangsbestimmung
+<sup>5</sup> …
+
+## VI. Übergangsbestimmung
 
 #### Art. 20
 
 **Preise für feste Kundinnen und Kunden**
 
-Bis zur vollständigen Marktöffnung legt die Standeskommission die Bedingungen fest, unter denen festen Kunden in Ausnahmefällen unterschiedliche Anschlussgebühren verrechnet werden dürfen.
+<sup>1</sup> Bis zur vollständigen Marktöffnung legt die Standeskommission die Bedingungen fest, unter denen festen Kunden in Ausnahmefällen unterschiedliche Anschlussgebühren verrechnet werden dürfen.
 
-### VII. Schlussbestimmungen
+## VII. Schlussbestimmungen
 
 #### Art. 21
 
 **Ausführungsbestimmungen**
 
-Der Grosse Rat erlässt die zu diesem Gesetz erforderlichen Ausführungsbestimmungen.
+<sup>1</sup> Der Grosse Rat erlässt die zu diesem Gesetz erforderlichen Ausführungsbestimmungen.
 
-#### Art. 222
+#### Art. 22
+
+**…**
 
 #### Art. 23
 
 **Inkrafttreten**
 
-Der Grosse Rat bestimmt das Inkrafttreten dieses Gesetzes.
+<sup>1</sup> Der Grosse Rat bestimmt das Inkrafttreten dieses Gesetzes.[^23-1]
 
-Vom Grossen Rat am 24. Juni 2002 in Kraft gesetzt.
+[^23-1]: Vom Grossen Rat am 24. Juni 2002 in Kraft gesetzt.
 
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 25. April 2004, 24. April 2005 und 26. April 2009.
-- [2] Ingress abgeändert durch LdsgB vom 25. April 2004.
-- [3] Angefügt (Abs. 3) durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [1] Eingefügt (Abs. 2) durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [*] Die Verwendung männlicher Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [2] Angefügt (Abs. 2 und 3) durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [1] Neue Fassung durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [2] Neue Fassung durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [1] Abgeändert (Abs. 2 und 3) durch LdsgB vom 25. April 2004. Abgeändert (Abs. 1) durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [2] Eingefügt durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [3] Abgeändert (Abs. 2) durch LdsgB vom 25. April 2004.
-- [1] Eingefügt durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [2] Eingefügt durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [3] Titel abgeändert durch LdsgB vom 26. April 2009 (Inkrafttreten: 1. Januar 2010).
-- [1] Abgeändert (Abs. 4) durch LdsgB vom 25. April 2004.
-- [1] Aufgehoben (Abs. 5) durch LdsgB vom 25. April 2004. Abgeändert (Abs. 1) durch LdsgB vom 24. April 2005 (Inkrafttreten: 1. Januar 2007). Abgeändert (Abs. 1) durch EG StPO vom 26. April 2009 (Inkrafttreten: 1. Januar 2011).
-- [2] Aufgehoben durch LdsgB vom 25. April 2004.
+cGS -
