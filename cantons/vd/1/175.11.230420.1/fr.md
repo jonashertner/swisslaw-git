@@ -3,7 +3,7 @@ canton: VD
 number: "175.11.230420.1"
 title: "ARRÊTÉ du 23.04.2020 relatif à l'adaptation de certaines règles en matière communale dans le cadre de la lutte contre le coronavirus (COVID-19)"
 language: fr
-version: 2020-12-03
+version: 2021-05-11
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.11.230420.1?id=9cb7c458-7131-4fe9-b1d0-8f821e1ce413"
 ---
 
@@ -68,7 +68,7 @@ arrête
 
 **Transmission aux préfets [^4-1]**
 
-<sup>1</sup> En dérogation aux articles 93g LC et 38 RCCom, le délai de transmission des comptes et du rapport de gestion 2019 aux préfets est fixé au 15 octobre 2020.
+...
 
 [^4-1]: Modif. 3 du 05.05.2021: Abrogation Al. 1; entrée en vigueur au 11.05.2021
 
@@ -76,7 +76,7 @@ arrête
 
 **Transmission au département [^5-1]**
 
-<sup>1</sup> En dérogation à l'article 41 RCCom, le délai pour transmettre le résumé des comptes 2019 au département est fixé au 15 novembre 2020.
+...
 
 [^5-1]: Modif. 3 du 05.05.2021: Abrogation Al. 1; entrée en vigueur au 11.05.2021
 
@@ -102,9 +102,9 @@ arrête
 
 **Séances des conseils généraux et communaux [^sectionSectionII-1]**
 
-<sup>1</sup> Les conseils généraux et communaux sont autorisés à se réunir, pour autant que les recommandations de l'Office fédéral de la santé publique (OFSP) en matière de distance sociale et d'hygiène soient respectées. Le port du masque est obligatoire durant toute la séance, hormis pour l'orateur, si celui-ci se trouve à plus d'1.5 mètre des autres personnes présentes. Les séances sont accessibles à la presse, mais pas au public.
+<sup>1</sup> Les conseils généraux et communaux sont autorisés à se réunir, pour autant que les recommandations de l'Office fédéral de la santé publique (OFSP) en matière de distance sociale et d'hygiène soient respectées. Le port du masque est obligatoire durant toute la séance, hormis pour l'orateur, si celui-ci se trouve à plus d'1.5 mètre des autres personnes présentes. Les séances sont accessibles à la presse et au public, aux conditions posées par l'article 6, alinéa 1bis de l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 Situation particulière).
 
-<sup>2</sup> Les conseils généraux ou communaux qui entendent se réunir en informent le préfet qui examine si les recommandations de l'OFSP sont respectées. Si tel n'est pas le cas, il peut interdire la tenue de la séance.
+<sup>2</sup> Les conseils généraux ou communaux qui entendent se réunir en informent le préfet qui examine si les conditions posées à l'article 1er, y compris s'agissant du public, sont respectées. Si tel n'est pas le cas, il peut interdire la tenue de la séance ou en interdire l'accès au public.
 
 <sup>3</sup> Si un conseil général ou communal ne peut se réunir en raison du non-respect des recommandations de l'OFSP, il peut requérir du Département des institutions et du territoire qu'il l'autorise à prendre des décisions sans se réunir. Le Conseil d'Etat fixe par voie de directive les conditions de cette autorisation.
 
