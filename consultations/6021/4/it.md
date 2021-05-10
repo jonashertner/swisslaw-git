@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Armonizzazione delle pene e adeguamento del diritto penale accessorio alla nuova disciplina delle sanzioni. Oggetto 3: Legge federale sulla revisione del diritto penale in materia sessuale"
 document: Avamprogetto
 language: it

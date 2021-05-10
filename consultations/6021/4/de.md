@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Strafrahmenharmonisierung und Anpassung des Nebenstrafrechts an das neue Sanktionenrecht. Vorlage 3: Bundesgesetz über eine Revision des Sexualstrafrechts"
 document: Vorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Harmonisation des peines et adaptation du droit pénal accessoire au nouveau droit des sanctions. Projet 3: loi fédérale portant révision du droit pénal en matière sexuelle"
 document: Projet
 language: fr
