@@ -3,26 +3,32 @@ sr: "0.362.380.085"
 title: "Notenaustausch vom 20. Dezember 2018 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2018/1861 über die Einrichtung, den Betrieb und die Nutzung des SIS im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006 (Weiterentwicklung des Schengen-Besitzstands)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/601"
 language: de
-version: 2019-12-28
+version: 2021-05-11
 adopted: 2018-12-20
 in_force: 2019-12-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/601/20191228/de/xml/fedlex-data-admin-ch-eli-cc-2019-601-20191228-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/601/20191228/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/601/20210511/de/xml/fedlex-data-admin-ch-eli-cc-2019-601-20210511-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/601/20210511/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Notenaustausch vom 20. Dezember 2018 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2018/1861 über die Einrichtung, den Betrieb und die Nutzung des SIS im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006
 
-AS **2019** 3285
+AS **2019** 3285; BBl **2020** 3465
 
 (Weiterentwicklung des Schengen-Besitzstands)
 
 Von der Schweiz vorläufig angewendet ab 28. Dezember 2019[^t-1]
 
-(Stand am 28. Dezember 2019)
+Von der Bundesversammlung genehmigt am 18. Dezember 2020[^t-2]
+
+In Kraft getreten am 11. Mai 2021[^t-3]
+
+(Stand am 11. Mai 2021)
 
 [^t-1]: Folgende Bestimmung der Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006, wird von der Schweiz vorläufig angewendet: Art. 63 Nr. 9.
+[^t-2]: [AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365)
+[^t-3]: [AS 2021 367](https://fedlex.data.admin.ch/eli/oc/2021/367)
 
 Übersetzung
 
@@ -54,4 +60,4 @@ Die Mission der Schweiz bei der Europäischen Union benützt die Gelegenheit, um
 
 [^ingress-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
 [^ingress-2]: Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006, Fassung gemäss ABl. L 312 vom 7.12.2018, S. 14.
-[^ingress-3]: [SR 0.362.380.008](https://fedlex.data.admin.ch/eli/cc/2008/714)
+[^ingress-3]: [[AS 2008 5119](https://fedlex.data.admin.ch/eli/oc/2008/714)]

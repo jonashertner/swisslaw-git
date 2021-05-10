@@ -3,26 +3,32 @@ sr: "0.362.380.085"
 title: "Échange de notes du 20 décembre 2018 entre la Suisse et l'Union européenne concernant la reprise du règlement (UE) 2018/1861 sur l'établissement, le fonctionnement et l'utilisation du SIS dans le domaine des vérifications aux frontières, modifiant la convention d'application de l'accord de Schengen et modifiant et abrogeant le règlement (CE) no 1987/2006 (Développement de l'acquis de Schengen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/601"
 language: fr
-version: 2019-12-28
+version: 2021-05-11
 adopted: 2018-12-20
 in_force: 2019-12-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/601/20191228/fr/xml/fedlex-data-admin-ch-eli-cc-2019-601-20191228-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/601/20191228/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/601/20210511/fr/xml/fedlex-data-admin-ch-eli-cc-2019-601-20210511-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/601/20210511/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Échange de notes du 20 décembre 2018 entre la Suisse et l’Union européenne concernant la reprise du règlement (UE) 2018/1861 sur l’établissement, le fonctionnement et l’utilisation du SIS dans le domaine des vérifications aux frontières, modifiant la convention d’application de l’accord de Schengen et modifiant et abrogeant le règlement (CE) n<sup>o</sup> 1987/2006
 
-RO **2019** 3285
+RO **2019** 3285; FF **2020** 3361
 
 (Développement de l’acquis de Schengen)
 
 Appliqué provisoirement par la Suisse dès le 28 décembre 2019[^t-1]
 
-(Etat le 28 décembre 2019)
+Approuvé par l’Assemblée fédérale le 18 décembre 2020[^t-2]
+
+Entrée en vigueur le 11 mai 2021[^t-3]
+
+(Etat le 11 mai 2021)
 
 [^t-1]: La disposition suivante du règlement (UE) 2018/1861 du Parlement européen et du Conseil du 28 novembre 2018 sur l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS) dans le domaine des vérifications aux frontières, modifiant la convention d’application de l’accord de Schengen et modifiant et abrogeant le règlement (CE) n<sup>o</sup> 1987/2006, est appliquée provisoirement par la Suisse: art. 63 n<sup>o</sup> 9.
+[^t-2]: [RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365)
+[^t-3]: [RO 2021 367](https://fedlex.data.admin.ch/eli/oc/2021/367)
 
 Traduction
 
@@ -54,4 +60,4 @@ La Mission de la Suisse auprès de l’Union européenne saisit cette occasion p
 
 [^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
 [^ingress-2]: Règlement (UE) 2018/1861 du Parlement européen et du Conseil du 28 novembre 2018 sur l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS) dans le domaine des vérifications aux frontières, modifiant la convention d’application de l’accord de Schengen et modifiant et abrogeant le règlement (CE) n<sup>o</sup> 1987/2006, version du JO L 312 du 7.12.2018, p. 14.
-[^ingress-3]: [RS 0.362.380.008](https://fedlex.data.admin.ch/eli/cc/2008/714)
+[^ingress-3]: [[RO 2008 5119](https://fedlex.data.admin.ch/eli/oc/2008/714)]
