@@ -3,11 +3,11 @@ sr: "0.362.380.086"
 title: "Notenaustausch vom 20. Dezember 2018 zwischen der Schweiz und der Europäischen Union betreffend die Übernahme der Verordnung (EU) 2018/1862 über die Einrichtung, den Betrieb und die Nutzung des SIS im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 und des Beschlusses 2010/261/EU (Weiterentwicklung des Schengen-Besitzstands)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/602"
 language: de
-version: 2019-12-28
+version: 2021-05-11
 adopted: 2018-12-20
 in_force: 2019-12-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/602/20191228/de/xml/fedlex-data-admin-ch-eli-cc-2019-602-20191228-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/602/20191228/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/602/20210511/de/xml/fedlex-data-admin-ch-eli-cc-2019-602-20210511-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/602/20210511/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,11 +18,12 @@ AS **2019** 3289
 
 (Weiterentwicklung des Schengen-Besitzstands)
 
-Von der Schweiz vorläufig angewendet ab 28. Dezember 2019[^t-1]
+Von der Schweiz vorläufig angewendet ab 28. Dezember 2019[^t-1] In Kraft getreten am 11. Mai 2021[^t-2]
 
-(Stand am 28. Dezember 2019)
+(Stand am 11. Mai 2021)
 
 [^t-1]: Folgende Bestimmungen der Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission, werden von der Schweiz vorläufig angewendet: Art. 77 Nr. 7 und 8.
+[^t-2]: [AS 2021 367](https://fedlex.data.admin.ch/eli/oc/2021/367)
 
 Übersetzung
 

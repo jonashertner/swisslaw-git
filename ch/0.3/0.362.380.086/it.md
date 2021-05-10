@@ -3,26 +3,32 @@ sr: "0.362.380.086"
 title: "Scambio di note del 20 dicembre 2018 tra la Svizzera e l'Unione europea concernente il recepimento del regolamento (UE) 2018/1862 sull'istituzione, l'esercizio e l'uso del SIS nel settore della cooperazione di polizia e della cooperazione giudiziaria in materia penale, che modifica e abroga la decisione 2007/533/GAI e abroga il regolamento (CE) n. 1986/2006 e la decisione 2010/261/UE (Sviluppo dell'acquis di Schengen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/602"
 language: it
-version: 2019-12-28
+version: 2021-05-11
 adopted: 2018-12-20
 in_force: 2019-12-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/602/20191228/it/xml/fedlex-data-admin-ch-eli-cc-2019-602-20191228-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/602/20191228/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/602/20210511/it/xml/fedlex-data-admin-ch-eli-cc-2019-602-20210511-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/602/20210511/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Scambio di note del 20 dicembre 2018 tra la Svizzera e l’Unione europea concernente il recepimento del regolamento (UE) 2018/1862 sull’istituzione, l’esercizio e l’uso del SIS nel settore della cooperazione di polizia e della cooperazione giudiziaria in materia penale, che modifica e abroga la decisione 2007/533/GAI e abroga il regolamento (CE) n. 1986/2006 e la decisione 2010/261/UE
 
-RU **2019** 3289
+RU **2019** 3289; FF **2020** 3117
 
 (Sviluppo dell’acquis di Schengen)
 
 Applicato provvisoriamente dalla Svizzera dal 28 dicembre 2019[^t-1]
 
-(Stato 28 dicembre 2019)
+Approvato dall’Assemblea federale il 18 dicembre 2021[^t-2]
+
+Entrato in vigore mediante scambio di note l’11 maggio 2021[^t-3]
+
+(Stato 11 maggio 2021)
 
 [^t-1]: Le seguenti disposizioni del regolamento (UE) 2018/1862 del Parlamento europeo e del Consiglio, del 28 novembre 2018, sull’istituzione, l’esercizio e l’uso del sistema d’informazione Schengen (SIS) nel settore della cooperazione di polizia e della cooperazione giudiziaria in materia penale, che modifica e abroga la decisione 2007/533/GAI del Consiglio e abroga il regolamento (CE) n. 1986/2006 del Parlamento europeo e del Consiglio e la decisione 2010/261/UE della Commissione, sono applicate provvisoriamente dalla Svizzera: art. 77 n. 7 e 8.
+[^t-2]: [RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365)
+[^t-3]: [RU 2021 367](https://fedlex.data.admin.ch/eli/oc/2021/367)
 
 Traduzione
 
@@ -57,5 +63,5 @@ La Missione della Svizzera presso l’Unione europea coglie l’occasione per ri
 
 [^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
 [^ingress-2]: Regolamento (UE) 2018/1862 del Parlamento europeo e del Consiglio, del 28 novembre 2018, sull’istituzione, l’esercizio e l’uso del sistema d’informazione Schengen (SIS) nel settore della cooperazione di polizia e della cooperazione giudiziaria in materia penale, che modifica e abroga la decisione 2007/533/GAI del Consiglio e che abroga il regolamento (CE) n. 1986/2006 del Parlamento europeo e del Consiglio e la decisione 2010/261/UE della Commissione, versione della GU L 312 del 7.12.2018, pag. 56.
-[^ingress-3]: [RS 0.362.380.009](https://fedlex.data.admin.ch/eli/cc/2008/715)
-[^ingress-4]: [RS 0.362.380.007](https://fedlex.data.admin.ch/eli/cc/2008/713)
+[^ingress-3]: [[RU 2008 5121](https://fedlex.data.admin.ch/eli/oc/2008/715)]
+[^ingress-4]: [[RU 2008 5117](https://fedlex.data.admin.ch/eli/oc/2008/713)]
