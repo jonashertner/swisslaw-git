@@ -3,11 +3,11 @@ sr: "943.11"
 title: Ordonnance du 4 septembre 2002 sur le commerce itinérant (OCi)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: fr
-version: 2020-05-11
+version: 2021-05-11
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20200511/fr/xml/fedlex-data-admin-ch-eli-cc-2002-509-20200511-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20200511/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20210511/fr/xml/fedlex-data-admin-ch-eli-cc-2002-509-20210511-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20210511/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20200511/fr"
 
 (OCI)**[^t-1]**
 
-du 4 septembre 2002 (Etat le 11 mai 2020)
+du 4 septembre 2002 (Etat le 11 mai 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -320,7 +320,7 @@ Sont dispensés de l’attestation de sécurité:
   - 1\. elles comportent une zone accessible d’une hauteur supérieure à 5 m,
   - 2\. elles comportent des zones couvertes qui sont éloignées de plus de 3 m ou, si des mesures de construction en empêchent l’affaissement, de plus de 10 m de la sortie.
 
-[^21-1]: Introduit par le ch. I de l’O du 8 mai 2020, en vigueur du 11 mai 2020 au 10 mai 2021 ([RO 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301)).
+[^21-1]: Introduit par le ch. I de l’O du 8 mai 2020, en vigueur depuis le 11 mai 2020 ([RO 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301); [2021 249](https://fedlex.data.admin.ch/eli/oc/2021/249)).
 [^21-2]: Introduite par le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
 #### Art. 22
@@ -344,7 +344,7 @@ Le SECO, en accord avec le SAS, reconnaît un organisme d’inspection étranger
 - b. l’organisme étranger dispose de qualifications qui sont équivalentes à celles exigées en Suisse.
 
 [^22-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^22-2]: Introduite par le ch. I de l’O du 8 mai 2020, en vigueur du 11 mai 2020 au 10 mai 2021 ([RO 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301)).
+[^22-2]: Introduite par le ch. I de l’O du 8 mai 2020, en vigueur depuis le 11 mai 2020 ([RO 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301); [2021 249](https://fedlex.data.admin.ch/eli/oc/2021/249)).
 [^22-3]: Acronyme de: Deutsche Akkreditierungsstelle
 [^22-4]: Acronyme de: Comité français d’accréditation
 [^22-5]: Acronyme de: Akkreditierung Austria
@@ -529,7 +529,7 @@ Annexe 1*[^t-2]*
 
 ## Marchandises dont le commerce itinérant est restreint ou interdit
 
-[^t-2]: Mise à jour selon l’annexe ch. 5 de l’O du 20 juin 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)) et le ch. II al. 1 de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
+[^t-2]: Mise à jour par l’annexe ch. 5 de l’O du 20 juin 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)) et le ch. II al. 1 de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
 ### 1.
 
@@ -589,7 +589,7 @@ Annexe 3*[^t-4]*
 
 ## Liste des montants de couverture des assurances responsabilité civile des forains et des exploitants de cirque en fonction du danger potentiel des installations
 
-[^t-4]: Nouvelle teneur selon le ch. II de l’O du 21 janv. 2004 ([RO 2004 753](https://fedlex.data.admin.ch/eli/oc/2004/77)). Mise à jour selon le ch. II al. 2 de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 21 janv. 2004 ([RO 2004 753](https://fedlex.data.admin.ch/eli/oc/2004/77)). Mise à jour par le ch. II al. 2 de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
 <table>
 <tr><td>Type d’installation</td><td>Montant minimal à couvrir (en millions de francs)</td></tr>

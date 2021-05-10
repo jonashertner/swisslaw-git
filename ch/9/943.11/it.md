@@ -3,11 +3,11 @@ sr: "943.11"
 title: Ordinanza del 4 settembre 2002 sul commercio ambulante (OCAmb)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: it
-version: 2020-05-11
+version: 2021-05-11
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20200511/it/xml/fedlex-data-admin-ch-eli-cc-2002-509-20200511-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20200511/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20210511/it/xml/fedlex-data-admin-ch-eli-cc-2002-509-20210511-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20210511/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20200511/it"
 
 (OCAmb)**[^t-1]**
 
-del 4 settembre 2002 (Stato 11 maggio 2020)
+del 4 settembre 2002 (Stato 11 maggio 2021) (Stato 11 maggio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -322,7 +322,7 @@ Non occorre presentare un attestato di sicurezza per:
   - 1\. la parte accessibile dell’impianto ha un’altezza superiore ai cinque metri,
   - 2\. l’impianto dispone di un settore coperto che dista dall’uscita più di tre metri, o più di dieci metri qualora l’abbassamento del settore coperto sia impedito da un’apposita costruzione.
 
-[^21-1]: Introdotto dal n. I dell’O dell’8 mag. 2020, in vigore dall’11 mag. 2020 al 10 mag. 2021 ([RU 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301)).
+[^21-1]: Introdotto dal n. I dell’O dell’8 mag. 2020, in vigore dall’11 mag. 2020 ([RU 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301); [2021 249](https://fedlex.data.admin.ch/eli/oc/2021/249)).
 [^21-2]: Introdotta dal n. I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
 #### Art. 22
@@ -346,7 +346,7 @@ La SECO riconosce, d’intesa con il SAS, un organismo d’ispezione estero il q
 - b. l’organismo estero dispone di una qualifica equivalente a quella richiesta in Svizzera.
 
 [^22-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^22-2]: Introdotta dal n. I dell’O dell’8 mag. 2020, in vigore dall’11 mag. 2020 al 10 mag. 2021 ([RU 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301)).
+[^22-2]: Introdotta dal n. I dell’O dell’8 mag. 2020, in vigore dall’11 mag. 2020 ([RU 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301); [2021 249](https://fedlex.data.admin.ch/eli/oc/2021/249)).
 [^22-3]: Deutsche Akkreditierungsstelle
 [^22-4]: Comité français d’accréditation
 [^22-5]: Akkreditierung Austria

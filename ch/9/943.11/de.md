@@ -3,11 +3,11 @@ sr: "943.11"
 title: Verordnung vom 4. September 2002 über das Gewerbe der Reisenden (RGV)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/509"
 language: de
-version: 2020-05-11
+version: 2021-05-11
 adopted: 2002-09-04
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20200511/de/xml/fedlex-data-admin-ch-eli-cc-2002-509-20200511-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20200511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/509/20210511/de/xml/fedlex-data-admin-ch-eli-cc-2002-509-20210511-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20210511/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/509/20200511/de"
 
 (RGV)**[^t-1]**
 
-vom 4. September 2002 (Stand am 11. Mai 2020)
+vom 4. September 2002 (Stand am 11. Mai 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
@@ -320,7 +320,7 @@ Vom Sicherheitsnachweis befreit sind:
   - 1\. deren betretbarer Bereich überschreitet die Höhe von fünf Metern,
   - 2\. die Anlage verfügt über einen überdachten Bereich, der mehr als drei Meter oder, falls dessen Absinken konstruktiv verhindert wird, zehn Meter vom Ausgang entfernt ist.
 
-[^21-1]: Eingefügt durch Ziff. I der V vom 8. Mai 2020, in Kraft vom 11. Mai 2020 bis zum 10. Mai 2021 ([AS 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301)).
+[^21-1]: Eingefügt durch Ziff. I der V vom 8. Mai 2020, in Kraft seit 11. Mai 2020 ([AS 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301); [2021 249](https://fedlex.data.admin.ch/eli/oc/2021/249)).
 [^21-2]: Eingefügt durch Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 853](https://fedlex.data.admin.ch/eli/oc/2018/110)).
 
 #### Art. 22
@@ -344,7 +344,7 @@ Das SECO anerkennt im Einvernehmen mit der SAS eine ausländische Inspektionsste
 - b. die ausländische Stelle über eine Qualifikation verfügt, die der in der Schweiz geforderten gleichwertig ist.
 
 [^22-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^22-2]: Eingefügt durch Ziff. I der V vom 8. Mai 2020, in Kraft vom 11. Mai 2020 bis zum 10. Mai 2021 ([AS 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301)).
+[^22-2]: Eingefügt durch Ziff. I der V vom 8. Mai 2020, in Kraft seit 11. Mai 2020 ([AS 2020 1509](https://fedlex.data.admin.ch/eli/oc/2020/301); [2021 249](https://fedlex.data.admin.ch/eli/oc/2021/249)).
 [^22-3]: Steht für: Deutsche Akkreditierungsstelle
 [^22-4]: Steht für: Comité français d’accréditation
 [^22-5]: Steht für: Akkreditierung Austria
