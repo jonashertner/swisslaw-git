@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 1994 sur l'infrastructure aéronautique (OSIA)
 short: OSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: fr
-version: 2021-01-01
+version: 2021-05-12
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20210512/fr/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20210512-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210512/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210101/fr"
 
 (OSIA)
 
-du 23 novembre 1994 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 novembre 1994 (Etat le 12 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -595,9 +595,11 @@ L’autorité chargée d’approuver les plans évalue les avis des cantons et d
 
 <sup>1</sup> Un projet de construction est réputé avoir débuté dès la réception du gabarit d’implantation ou, si celle-ci n’a pas lieu, dès le commencement des travaux ou dès la mise en oeuvre d’autres mesures qui présupposent à elles seules une approbation des plans.
 
-<sup>2</sup> La durée de validité de la décision d’approbation doit être prolongée lorsqu’un projet de construction dont l’exécution a débuté dans les délais est interrompu pendant plus d’un an et qu’une période de cinq ans s’est écoulée depuis l’entrée en force de la décision.
+<sup>2</sup> La durée de validité de la décision d’approbation doit être prolongée lorsqu’un projet de construction dont l’exécution a débuté dans les délais est interrompu pendant plus d’un an et qu’une période de cinq ans s’est écoulée depuis l’entrée en force de la décision.[^27f-1]
 
 <sup>3</sup> La demande de prolongation dûment motivée doit être adressée à l’autorité compétente trois mois au moins avant la date d’expiration. Ladite autorité rend sa décision dans un délai d’un mois.
+
+[^27f-1]: Erratum du 12 mai 2021, ne concerne que le texte italien ([RO 2021 269](https://fedlex.data.admin.ch/eli/oc/2021/269)).
 
 #### Art. 27g
 

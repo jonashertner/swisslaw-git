@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 1994 über die Infrastruktur der Luftfahrt (V
 short: VIL
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050"
 language: de
-version: 2021-01-01
+version: 2021-05-12
 adopted: 1994-11-23
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050/20210512/de/xml/fedlex-data-admin-ch-eli-cc-1994-3050_3050_3050-20210512-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210512/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/3050_3050_3050/20210101/de"
 
 (VIL)
 
-vom 23. November 1994 (Stand am 1. Januar 2021)
+vom 23. November 1994 (Stand am 12. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -595,9 +595,11 @@ Die Genehmigungsbehörde wertet die Stellungnahmen von Kantonen und Fachstellen 
 
 <sup>1</sup> Ein Bauvorhaben gilt mit der Schnurgerüstabnahme als begonnen oder, wenn diese nicht erfolgt, mit dem Beginn von Arbeiten sowie mit dem Einleiten von anderen Massnahmen, die für sich allein betrachtet einer Plangenehmigung bedürften.
 
-<sup>2</sup> Wird ein rechtzeitig begonnenes Bauvorhaben während über einem Jahr unterbrochen, so ist eine Verlängerung der Geltungsdauer erforderlich, wenn seit rechtskräftiger Erteilung der Plangenehmigung mehr als fünf Jahre vergangen sind.
+<sup>2</sup> Wird ein rechtzeitig begonnenes Bauvorhaben während über einem Jahr unterbrochen, so ist eine Verlängerung der Geltungsdauer erforderlich, wenn seit rechtskräftiger Erteilung der Plangenehmigung mehr als fünf Jahre vergangen sind.[^27f-1]
 
 <sup>3</sup> Gesuche um Verlängerung der Geltungsdauer sind spätestens drei Monate vor Ablauf der Gültigkeit unter Angabe der Gründe bei der Genehmigungsbehörde einzureichen. Diese entscheidet innert einem Monat.
+
+[^27f-1]: Die Berichtigung vom 12. Mai 2021 betrifft nur den italienischen Text ([AS 2021 269](https://fedlex.data.admin.ch/eli/oc/2021/269)).
 
 #### Art. 27g
 
@@ -967,7 +969,7 @@ Keiner Beschränkung unterliegen:
 
 <sup>2</sup> Der Flugplatzhalter kann bei unvorhergesehenen ausserordentlichen Ereignissen Ausnahmen von den Vorschriften nach Artikel 39 Absätze 1 und 2 gewähren. Er meldet diese Ausnahmen dem BAZL.
 
-<sup>2bis</sup> Die Halter der Landesflughäfen Genf und Zürich können für Versorgungs- und Repatriierungsflüge, die zur Bewältigung der COVID-19-Pandemie und ihrer Folgen notwendig sind und sich nicht während des Tagesbetriebs ordnungsgemäss abwickeln lassen, Ausnahmen von den Vorschriften gemäss Artikel 39 Absätze 1 und 2 gewähren. Sie melden die gewährten Ausnahmen wöchentlich dem BAZL.[^39d-2]
+<sup>2bis</sup> ...[^39d-2]
 
 <sup>3</sup>
 
