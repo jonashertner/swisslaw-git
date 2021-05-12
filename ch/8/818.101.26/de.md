@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-04-19
+version: 2021-05-13
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210419/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210419-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210419/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210513/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210513-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210513/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210419/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 19. April 2021)
+vom 19. Juni 2020 (Stand am 13. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -96,18 +96,22 @@ Folgende Personen sind von dieser Pflicht ausgenommen:
 - e. Personen, die eine medizinische oder kosmetische Dienstleistung im Gesicht in Anspruch nehmen;
 - f. auftretende Personen, namentlich Rednerinnen und Redner, sowie Sportlerinnen und Sportler und Künstlerinnen und Künstler nach den Artikeln 6*e* und 6*f*.
 
+<sup>2bis</sup> Badeanstalten einschliesslich Thermalbäder können in ihren Schutzkonzepten Ausnahmen von der Pflicht nach Absatz 1 für die Aussenbereiche vorsehen.[^3b-5]
+
 <sup>3</sup>
 
 Sozialmedizinische Institutionen können nach Rücksprache mit der zuständigen kantonalen Behörde in ihren Schutzkonzepten vorsehen, dass in den öffentlich zugänglichen Bereichen von dieser Pflicht ausgenommen sind:
 
 - a. Bewohnerinnen und Bewohner, die gemäss den Impfempfehlungen des BAG für mRNA-Impfstoffe gegen Covid-19 geimpft wurden: während 6 Monaten ab dem 14. Tag nach dieser Impfung;
-- b. Bewohnerinnen und Bewohner, die nachweisen, dass sie sich mit Sars- CoV-2 angesteckt haben und als geheilt gelten: während 3 Monaten ab dem Zeitpunkt der Aufhebung ihrer Absonderung durch die zuständige kantonale Behörde.[^3b-5]
+- b.[^3b-6] Bewohnerinnen und Bewohner, die nachweisen, dass sie sich mit Sars- CoV-2 angesteckt haben und als genesen gelten: während 6 Monaten ab dem Zeitpunkt der Aufhebung ihrer Absonderung durch die zuständige kantonale Behörde.[^3b-7]
 
 [^3b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3b-3]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), in Kraft seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^3b-4]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^3b-5]: Eingefügt durch Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3b-5]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3b-6]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3b-7]: Eingefügt durch Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3c
 
@@ -119,7 +123,7 @@ Sozialmedizinische Institutionen können nach Rücksprache mit der zuständigen 
 
 Jede Person muss im öffentlichen Raum in folgenden Bereichen eine Gesichtsmaske tragen:
 
-- a.[^3c-4] in belebten Fussgängerbereichen von urbanen Zentren, Dorfkernen und Wintersportorten;
+- a.[^3c-4] in belebten Fussgängerbereichen von urbanen Zentren und Dorfkernen;
 - b. in weiteren Bereichen des öffentlichen Raums, sobald es zu einer Konzentration von Personen kommt, bei welcher der erforderliche Abstand nicht eingehalten werden kann.[^3c-5]
 
 <sup>3</sup> Auf die Pflicht nach Absatz 2 sind die Ausnahmen nach Artikel 3*b* Absatz 2 Buchstaben a und b anwendbar.[^3c-6]
@@ -127,7 +131,7 @@ Jede Person muss im öffentlichen Raum in folgenden Bereichen eine Gesichtsmaske
 [^3c-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung), in Kraft seit 19. Okt. 2020 ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
 [^3c-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-3]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), in Kraft seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^3c-4]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3c-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 [^3c-5]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
@@ -152,7 +156,7 @@ Die zuständige kantonale Behörde stellt Personen unter Kontaktquarantäne, die
 
 Von der Kontaktquarantäne ausgenommen sind Personen:
 
-- a. die sich innerhalb der letzten drei Monate vor dem engen Kontakt mit einer der Personen nach Absatz 1 mit Sars-CoV-2 angesteckt haben und als geheilt gelten und bei denen die zuständige kantonale Behörde die Absonderung aufgehoben hat;
+- a.[^3d-1] die nachweisen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten: während 6 Monaten ab dem Zeitpunkt der Aufhebung ihrer Absonderung durch die zuständige kantonale Behörde;
 - b. die eine Tätigkeit ausüben, die für die Gesellschaft von grosser Bedeutung ist und bei der ein akuter Personalmangel herrscht.
 
 <sup>3</sup>
@@ -160,22 +164,23 @@ Von der Kontaktquarantäne ausgenommen sind Personen:
 Von der Kontaktquarantäne während der Ausübung der beruflichen Tätigkeit und auf dem Arbeitsweg ausgenommen sind Personen, die in Betrieben tätig sind, in denen das Personal gezielt und repetitiv getestet wird, wenn die folgenden Voraussetzungen erfüllt sind:
 
 - a. Der Betrieb verfügt über ein Konzept, das den Mitarbeitenden einen einfachen Zugang zu Tests vor Ort gewährt; die Mitarbeitenden müssen sich mindestens einmal pro Woche testen lassen können.
-- b. Die Voraussetzungen für die Übernahme der Kosten der Tests durch den Bund nach Anhang 6 Ziffern 3.1 und 3.2 der Covid-19-Verordnung 3 vom 19. Juni 2020[^3d-1] sind erfüllt.
-- c. Die betroffenen Personen halten sich ausserhalb der beruflichen Tätigkeit und des Arbeitswegs an die Kontaktquarantäne.[^3d-2]
+- b. Die Voraussetzungen für die Übernahme der Kosten der Tests durch den Bund nach Anhang 6 Ziffern 3.1 und 3.2 der Covid-19-Verordnung 3 vom 19. Juni 2020[^3d-2] sind erfüllt.
+- c. Die betroffenen Personen halten sich ausserhalb der beruflichen Tätigkeit und des Arbeitswegs an die Kontaktquarantäne.[^3d-3]
 
 <sup>4</sup>
 
 Die zuständige kantonale Behörde kann in begründeten Fällen für bestimmte Personen oder Kategorien von Personen:
 
 - a. weitere Ausnahmen von der Kontaktquarantäne bewilligen oder Erleichterungen gewähren;
-- b. in anderen Fällen als nach Absatz 1 oder auch wenn die Voraussetzungen nach Absatz 3 erfüllt sind, eine Kontaktquarantäne vorsehen, wenn dies zur Verhinderung der Verbreitung von Covid-19 erforderlich ist.[^3d-3]
+- b. in anderen Fällen als nach Absatz 1 oder auch wenn die Voraussetzungen nach Absatz 3 erfüllt sind, eine Kontaktquarantäne vorsehen, wenn dies zur Verhinderung der Verbreitung von Covid-19 erforderlich ist.[^3d-4]
 
-<sup>5</sup> Sie informiert das BAG über Massnahmen gegenüber Kategorien von Personen nach Absatz 4.[^3d-4]
+<sup>5</sup> Sie informiert das BAG über Massnahmen gegenüber Kategorien von Personen nach Absatz 4.[^3d-5]
 
-[^3d-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3d-2]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^3d-3]: Eingefügt durch Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3d-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^3d-3]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^3d-4]: Eingefügt durch Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-5]: Eingefügt durch Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3e
 
@@ -318,61 +323,11 @@ Es gelten folgende Öffnungszeiten:
 
 [^5abis-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben) ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Aufgehoben durch Ziff. I der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), mit Wirkung seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 
-#### Art. 5b
+#### Art. 5b und 5c
 
-**Besondere Bestimmungen für Wintersportorte**[^5b-1]
+[^5b5c-1]
 
-<sup>1</sup> Gemeinden mit Skigebieten und zahlreichen Wintersportgästen (Wintersportorte) müssen ein Schutzkonzept erarbeiten und umsetzen, das Massnahmen zur Gewährleistung der Abstandsvorgaben und zur Vermeidung von Menschenansammlungen im öffentlichen Raum vorsieht.
-
-<sup>2</sup>
-
-Das Schutzkonzept muss namentlich Folgendes vorsehen:
-
-- a. die Koordination der Öffnungszeiten von Geschäften und Restaurationsbetrieben sowie die Ausgestaltung der davor liegenden Zugangs- und Wartebereiche im öffentlichen Raum;
-- b. die Lenkung des Personenflusses, namentlich im Bereich von Haltestellen des öffentlichen Verkehrs und bei Parkplätzen, in Koordination mit den Massnahmen des Betreibers des Skigebiets;
-- c. die Angabe der Lokalitäten, in denen Covid-19-Tests durchgeführt werden können;
-- d. den Einsatz von Personal, das die Einhaltung der Massnahmen überwacht.
-
-[^5b-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-
-#### Art. 5c
-
-**Besondere Bestimmungen für Betreiber von Skigebieten**[^5c-1]
-
-<sup>1</sup> Als Skigebiet gilt die Gesamtheit der Beförderungsanlagen eines Betreibers, einschliesslich der zugehörigen Skipisten, Schlittelwege und anderen Schneesportanlagen.
-
-<sup>2</sup> Betreiber von Skigebieten benötigen eine Bewilligung der zuständigen kantonalen Behörde.
-
-<sup>3</sup>
-
-Die Bewilligung wird erteilt, wenn:
-
-- a. die epidemiologische Lage im Kanton oder in der betreffenden Region dies erlaubt, wobei die Lage namentlich aufgrund der Indikatoren nach Artikel 8 Absatz 1 Buchstabe a zu beurteilen ist;
-- b. der Kanton über die notwendigen Kapazitäten für die erforderliche Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen nach Artikel 33 EpG verfügt und der entsprechende interkantonale Datenaustausch gewährleistet ist;
-- c. in den Einrichtungen der ambulanten und der stationären Gesundheitsversorgung im Kanton oder in der betreffenden Region hinreichende Kapazitäten für die Behandlung sowohl von an Covid-19 erkrankten Personen als auch von anderen Personen, namentlich solchen mit Sportverletzungen, zur Verfügung stehen;
-- d. der Kanton im betreffenden Wintersportort oder in der betreffenden Region genügende Testkapazitäten für Personen mit Symptomen von Covid-19 zur Verfügung stellt; und
-- e. der Betreiber ein Schutzkonzept vorlegt.
-
-<sup>4</sup>
-
-Das Schutzkonzept des Betreibers muss zusätzlich zu den Vorgaben nach Artikel 4 Folgendes vorsehen:
-
-- a. Geschlossene Fahrzeuge dürfen nur zu zwei Dritteln ihrer Kapazität besetzt werden.
-- b. Der Personenfluss auf den Zugangswegen von den Haltestellen des öffentlichen Verkehrs und den Parkplätzen zu den Beförderungsanlagen sowie in den Zugangs- und Wartebereichen dieser Anlagen muss so gestaltet werden, dass der erforderliche Abstand eingehalten werden kann; auf den Zugangswegen ist der Personenfluss in Koordination mit den Wintersportorten und den Verkehrsbetrieben zu gestalten.
-- c. Während der Fahrt mit den Beförderungsanlagen und beim Anstehen vor diesen Anlagen muss eine Gesichtsmaske getragen werden. Beim Anstehen muss zudem der erforderliche Abstand eingehalten werden.
-- d. Personen, die an Covid-19 erkrankt sind oder Symptome einer Covid-19-Erkrankung aufweisen, dürfen nicht in das Skigebiet eingelassen werden; es sind hierzu geeignete Vorkehren zu treffen, namentlich die Verpflichtung der Besucherinnen und Besucher zur Selbstdeklaration und die Anweisung an das Personal, Gäste mit offensichtlichen Symptomen nicht zu befördern.
-- e. Das Schutzkonzept ist zu koordinieren mit den Schutzkonzepten der Wintersportorte und der Betreiber von Restaurationsbetrieben im Skigebiet.
-- f. Die Einhaltung der im Schutzkonzept vorgesehenen Massnahmen ist zu überwachen; namentlich muss die Einhaltung des erforderlichen Abstands in den Zugangs- und Wartebereichen der Beförderungsanlagen kontrolliert werden.
-- g. Besucherinnen und Besucher, die sich trotz wiederholter Mahnung nicht an die Massnahmen gemäss Schutzkonzept halten, sind aus dem Skigebiet zu weisen.
-
-<sup>5</sup>
-
-Die Kantone prüfen regelmässig, ob das Schutzkonzept korrekt umgesetzt wird. Sie widerrufen eine Bewilligung oder erlassen zusätzliche Vorgaben, wenn:
-
-- a. der Betreiber das Schutzkonzept trotz einmaliger Mahnung nicht korrekt umsetzt;
-- b. eine der Voraussetzungen nach Absatz 3 Buchstaben a–d nicht mehr erfüllt ist.
-
-[^5c-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^5b5c-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Aufgehoben durch Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), mit Wirkung seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 #### Art. 5d
 
@@ -501,7 +456,7 @@ Folgende Sportaktivitäten sind zulässig:
 - a. Sportaktivitäten von Kindern und Jugendlichen mit Jahrgang 2001 oder jünger, einschliesslich Wettkämpfe ohne Publikum;
 - b.
 
-  Sportaktivitäten, einschliesslich Wettkämpfe ohne Publikum, die von Einzelpersonen oder in Gruppen bis zu 15 Personen mit Jahrgang 2000 oder älter ausgeübt werden:
+  Sportaktivitäten, einschliesslich Wettkämpfe ohne Publikum,, die von Einzelpersonen oder in Gruppen bis zu 15 Personen mit Jahrgang 2000 oder älter ausgeübt werden:
 
   - 1\. im Freien, wenn eine Gesichtsmaske getragen oder der erforderliche Abstand eingehalten wird,
   - 2\. in Innenräumen unter Beachtung der Kapazitätsgrenzen nach Anhang 1 Ziffer 3.1<sup>bis</sup> Buchstabe f, wenn eine Gesichtsmaske getragen und der erforderliche Abstand eingehalten wird; auf das Tragen einer Gesichtsmaske kann verzichtet werden, wenn dies zur Ausübung der Aktivität erforderlich ist, die räumlichen Verhältnisse erhöhten Anforderungen nach Anhang 1 Ziffer 3.1<sup>quater</sup> genügen und die Kontaktdaten nach Artikel 5 erhoben werden;
@@ -626,15 +581,15 @@ Die Betreiber und Organisatoren müssen:
 - a. ihr Schutzkonzept den zuständigen kantonalen Behörden auf deren Verlangen vorweisen;
 - b. den zuständigen kantonalen Behörden den Zutritt zu den Einrichtungen, Betrieben und Veranstaltungen gewähren.
 
-<sup>1bis</sup> Die zuständigen kantonalen Behörden kontrollieren regelmässig die Einhaltung der Schutzkonzepte, namentlich in den Wintersportorten und den Skigebieten.[^9-1]
+<sup>1bis</sup> Die zuständigen kantonalen Behörden kontrollieren regelmässig die Einhaltung der Schutzkonzepte.[^9-1]
 
 <sup>2</sup> Stellen sie fest, dass kein ausreichendes Schutzkonzept vorliegt oder dieses nicht oder nicht vollständig umgesetzt wird, so treffen sie umgehend die geeigneten Massnahmen. Sie können Mahnungen aussprechen, Einrichtungen oder Betriebe schliessen oder Veranstaltungen verbieten oder auflösen.[^9-2]
 
-<sup>3</sup> Die Absätze 1 Buchstabe a sowie 2 erster Satz gelten auch für die Schutzkonzepte der Wintersportorte.[^9-3]
+<sup>3</sup> ...[^9-3]
 
-[^9-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^9-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^9-3]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^9-3]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Aufgehoben durch Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), mit Wirkung seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 ## 4. Abschnitt: Massnahmen zum Schutz von Arbeitnehmerinnen und Arbeitnehmern
 
@@ -705,19 +660,21 @@ Mit Busse wird bestraft, wer:
 
 - a.[^13-2] als Betreiber oder Organisator vorsätzlich oder fahrlässig seine Verpflichtungen nach Artikel 4 Absätze 1 und 2 sowie nach den Artikeln 5*a,* 5*d* Absatz 1, 6 Absatz 1<sup>bis</sup> Buchstaben a–d und 6*d*–6*g* nicht einhält;
 - b. als Betreiber oder Organisator vorsätzlich oder fahrlässig die nach Artikel 5 erhobenen Kontaktdaten entgegen Artikel 5 Absatz 3 zu anderen Zwecken bearbeitet oder länger als 14 Tage nach der Teilnahme an der Veranstaltung oder dem Besuch der Einrichtung oder des Betriebs aufbewahrt;
-- c. vorsätzlich ein Skigebiet ohne die nach Artikel 5*c* Absatz 2 erforderliche Bewilligung oder abweichend vom bewilligten Schutzkonzept betreibt;
-- d.[^13-3] vorsätzlich eine Veranstaltung mit mehr Personen durchführt, als nach Artikel 6 Absatz 1, 1<sup>bis</sup> oder 2 zulässig sind, oder vorsätzlich an einer solchen Veranstaltung teilnimmt;
-- e.[^13-4] vorsätzlich Messen durchführt, deren Durchführung nach Artikel 6 Absatz 3 verboten ist;
-- f. entgegen Artikel 3*a* oder 3*b* Absatz 1 in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 3*a* Absatz 1 oder Artikel 3*b* Absatz 2 gegeben ist;
+- c.[^13-3] ...
+- d.[^13-4] vorsätzlich eine Veranstaltung mit mehr Personen durchführt, als nach Artikel 6 Absatz 1 oder 1<sup>bis</sup> zulässig sind, oder vorsätzlich an einer solchen Veranstaltung teilnimmt;
+- e.[^13-5] vorsätzlich Messen durchführt, deren Durchführung nach Artikel 6 Absatz 3 verboten ist;
+- f.[^13-6] entgegen Artikel 3*a* oder 3*b* Absatz 1 in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 3*a* Absatz 1 oder Artikel 3*b* Absätze 2 und 2<sup>bis</sup> gegeben ist;
 - g. vorsätzlich gegen das Verbot von Menschenansammlungen im öffentlichen Raum nach Artikel 3*c* Absatz 1 oder nach einer strengeren Bestimmung des kantonalen Rechts verstösst;
-- h.[^13-5] als Gast eines Restaurations- oder Barbetriebs oder als Besucherin oder Besucher einer Veranstaltung vorsätzlich gegen die Sitzpflicht nach Artikel 5*a* Absatz 3 Buchstabe b beziehungsweise nach Artikel 6 Absatz 1<sup>bis</sup> Buchstabe c verstösst;
+- h.[^13-7] als Gast eines Restaurations- oder Barbetriebs oder als Besucherin oder Besucher einer Veranstaltung vorsätzlich gegen die Sitzpflicht nach Artikel 5*a* Absatz 3 Buchstabe b beziehungsweise nach Artikel 6 Absatz 1<sup>bis</sup> Buchstabe c verstösst;
 - i. an einer politischen oder zivilgesellschaftlichen Kundgebung oder einer Unterschriftensammlung vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 6*c* Absatz 2 zweiter Satz gegeben ist.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 [^13-2]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^13-3]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)).
-[^13-4]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), in Kraft seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-5]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-3]: Aufgehoben durch Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), mit Wirkung seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^13-4]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-5]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), in Kraft seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-6]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^13-7]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -733,17 +690,9 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 #### Art. 14a
 
-**Übergangsbestimmungen zur Änderung vom 4. Dezember 2020**[^14a-1]
+[^14a-1]
 
-<sup>1</sup> Betreiber von Skigebieten, die den Betrieb bereits vor dem 9. Dezember 2020 aufgenommen haben und weiterführen wollen oder die den Betrieb vor dem 22. Dezember 2020 aufnehmen wollen, müssen das Schutzkonzept nach Artikel 5*c* Absatz 4 bis zum 11. Dezember 2020 bei der zuständigen kantonalen Behörde einreichen.
-
-<sup>2</sup> Wird das Schutzkonzept nicht rechtzeitig eingereicht, so ist der Betrieb erst mit Bewilligung der zuständigen kantonalen Behörde zulässig.
-
-<sup>3</sup> Die kantonale Behörde entscheidet innert zehn Tagen nach Einreichung des Schutzkonzepts.
-
-<sup>4</sup> Die Wintersportorte müssen ihre Schutzkonzepte nach Artikel 5*b* am 18. Dezember 2020 vorweisen können und ab diesem Datum umsetzen.
-
-[^14a-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^14a-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Aufgehoben durch Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), mit Wirkung seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 #### Art. 15
 
@@ -769,7 +718,7 @@ Anhang 1*[^t-1]*
 
 ## Vorgaben für Schutzkonzepte
 
-[^t-1]: Ursprünglich: Anhang. Bereinigt gemäss Ziff. II der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) und Ziff. II der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. Apr. 2021, Ziff. 3.1<sup>ter</sup> und 3.1<sup>quater</sup> in Kraft bis zum 31. Mai 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^t-1]: Ursprünglich: Anhang. Bereinigt gemäss Ziff. II der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) und Ziff. II der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), Ziff. 3.1<sup>ter</sup> und 3.1<sup>quater</sup> in Kraft bis zum 31. Mai 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)) und vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 ### 1 Allgemeines
 
@@ -831,7 +780,7 @@ Anhang 1*[^t-1]*
       - – zulässig sind aber mindestens 100 Kundinnen oder Kunden.
 
   - d. In Einrichtungen, in denen sich mehrere Einkaufsläden befinden, deren gesamte Verkaufsfläche grösser ist als 10 000 Quadratmeter (Einkaufszentren), darf die Gesamtzahl der im Einkaufszentrum anwesenden Kundinnen und Kunden nicht grösser sein als die Summe der zulässigen Anzahl Kundinnen und Kunden der einzelnen offenen Läden.
-  - e. …
+  - e. ...
   - f.
 
     In anderen Einrichtungen und Betrieben als Einkaufsläden gilt Folgendes:
@@ -884,7 +833,7 @@ Anhang 1*[^t-1]*
   - b. bei Betrieben, namentlich Restaurationsbetrieben und Kinos, und bei Veranstaltungen mit Sitzplätzen: die entsprechende Sitzplatz- oder Tischnummer.
 
 - 4\.4<sup>bis</sup> Der Betreiber oder Organisator hat durch geeignete Vorkehren sicherzustellen, dass die Korrektheit der erhobenen Kontaktdaten gewährleistet ist.
-- 4\.5 Bei Familien oder anderen Gruppen mit untereinander bekannten Personen sowie in Restaurations-, Bar- und Clubbetrieben genügt die Erfassung der Kontaktdaten nur einer Person der betreffenden Familie oder Gruppe.
+- 4\.5 Bei Familien oder anderen Gruppen mit untereinander bekannten Personen genügt die Erfassung der Kontaktdaten nur einer Person der betreffenden Familie oder Gruppe. Vorbehalten bleibt Artikel 5*a* Absatz 3 Buchstabe d über die Erhebung von Kontaktdaten in Aussenbereichen von Restaurations‑, Bar- und Clubbetrieben und in Restaurations- und Barbetrieben für Hotelgäste.
 - 4\.6 Der Betreiber oder Organisator muss die Vertraulichkeit der Kontaktdaten bei der Erhebung und die Datensicherheit namentlich bei der Aufbewahrung der Daten gewährleisten.
 
 Anhang 2*[^t-2]*

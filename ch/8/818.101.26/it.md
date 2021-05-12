@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-04-19
+version: 2021-05-13
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210419/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210419-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210419/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210513/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210513-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210513/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210419/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 19 aprile 2021)
+del 19 giugno 2020 (Stato 13 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -96,18 +96,22 @@ Sono esentati da quest’obbligo:
 - e. le persone che seguono un trattamento medico o cosmetico al viso;
 - f. le persone che si esibiscono, segnatamente gli oratori, nonché gli sportivi e gli artisti secondo gli articoli 6*e* e 6*f*.
 
+<sup>2bis</sup> Gli stabilimenti balneari, compresi i bagni termali, possono prevedere nei loro piani di protezione esenzioni dall’obbligo di cui al capoverso 1 per le aree esterne.[^3b-5]
+
 <sup>3</sup>
 
 Sentita l’autorità cantonale competente, gli istituti medico-sociali possono prevedere nei loro piani di protezione che, nei settori accessibili al pubblico, siano esentati da quest’obbligo:
 
 - a. gli ospiti vaccinati contro il COVID-19 secondo le raccomandazioni di vaccinazione dell’UFSP per i vaccini a mRNA: durante sei mesi a partire dal 14° giorno dopo la vaccinazione;
-- b. gli ospiti che possono provare di essere stati contagiati dal SARS-CoV-2 e che sono considerati guariti: durante tre mesi a partire dalla revoca del loro isolamento disposta dall’autorità cantonale competente.[^3b-5]
+- b.[^3b-6] gli ospiti che possono provare di essere stati contagiati dal SARS-CoV-2 e che sono considerati guariti: durante sei mesi a partire dalla revoca del loro isolamento disposta dall’autorità cantonale competente.[^3b-7]
 
 [^3b-1]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro)([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3b-3]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^3b-4]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^3b-5]: Introdotto dal n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3b-5]: Introdotto dal n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3b-6]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3b-7]: Introdotto dal n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3c
 
@@ -119,7 +123,7 @@ Sentita l’autorità cantonale competente, gli istituti medico-sociali possono 
 
 Chiunque deve portare una mascherina facciale nei seguenti settori dello spazio pubblico:
 
-- a.[^3c-4] nelle aree pedonali animate dei centri urbani, dei nuclei di paesi e delle località di sport invernali;
+- a.[^3c-4] nelle aree pedonali animate dei centri urbani e dei nuclei di paesi;
 - b. in altri settori dello spazio pubblico, non appena la concentrazione di persone non permette più il rispetto della distanza obbligatoria.[^3c-5]
 
 <sup>3</sup> All’obbligo di cui al capoverso 2 si applicano le deroghe di cui all’articolo 3*b* capoverso 2 lettere a e b.[^3c-6]
@@ -127,7 +131,7 @@ Chiunque deve portare una mascherina facciale nei seguenti settori dello spazio 
 [^3c-1]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro), in vigore dal 19 ott. 2020 ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
 [^3c-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-3]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^3c-4]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3c-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 [^3c-5]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
@@ -152,7 +156,7 @@ L’autorità cantonale competente sottopone alla quarantena dei contatti le per
 
 Sono esentate dalla quarantena dei contatti le persone che:
 
-- a. negli ultimi tre mesi prima del contatto stretto di cui al capoverso 1 sono state contagiate dal SARS-CoV-2 e sono considerate guarite, e per le quali l’autorità cantonale competente ha revocato l’isolamento;
+- a.[^3d-1] possono provare di essere state contagiate dal SARS-CoV-2 e sono considerate guarite: durante sei mesi a partire dalla revoca del loro isolamento disposta dall’autorità cantonale competente;
 - b. svolgono un’attività che è di grande importanza per la società e per la quale vi è una grave mancanza di personale.
 
 <sup>3</sup>
@@ -160,22 +164,23 @@ Sono esentate dalla quarantena dei contatti le persone che:
 Le persone che lavorano in aziende nelle quali il personale è sottoposto a test mirati e ripetuti sono esentate dalla quarantena dei contatti durante l’esercizio dell’attività professionale e lungo il tragitto per andare al lavoro se sono soddisfatte le seguenti condizioni:
 
 - a. l’azienda dispone di un piano che assicura ai dipendenti un accesso semplice ai test in sede; i dipendenti devono potersi sottoporre a un test almeno una volta alla settimana;
-- b. sono soddisfatte le condizioni per l’assunzione delle spese dei test da parte della Confederazione secondo l’allegato 6 numeri 3.1 e 3.2 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^3d-1];
-- c. al di fuori dell’attività professionale e del tragitto per andare al lavoro, le persone interessate si attengono alla quarantena dei contatti.[^3d-2]
+- b. sono soddisfatte le condizioni per l’assunzione delle spese dei test da parte della Confederazione secondo l’allegato 6 numeri 3.1 e 3.2 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^3d-2];
+- c. al di fuori dell’attività professionale e del tragitto per andare al lavoro, le persone interessate si attengono alla quarantena dei contatti.[^3d-3]
 
 <sup>4</sup>
 
 In casi motivati, per determinate persone o categorie di persone l’autorità cantonale competente può:
 
 - a. autorizzare altre deroghe alla quarantena dei contatti oppure concedere agevolazioni;
-- b. prevedere una quarantena dei contatti in casi diversi da quelli di cui al capoverso 1 o anche se sono soddisfatte le condizioni di cui al capoverso 3, se necessario per impedire la diffusione del COVID-19.[^3d-3]
+- b. prevedere una quarantena dei contatti in casi diversi da quelli di cui al capoverso 1 o anche se sono soddisfatte le condizioni di cui al capoverso 3, se necessario per impedire la diffusione del COVID-19.[^3d-4]
 
-<sup>5</sup> Informa l’UFSP in merito ai provvedimenti adottati nei confronti di categorie di persone secondo il capoverso 4.[^3d-4]
+<sup>5</sup> Informa l’UFSP in merito ai provvedimenti adottati nei confronti di categorie di persone secondo il capoverso 4.[^3d-5]
 
-[^3d-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3d-2]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^3d-3]: Introdotto dal n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3d-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^3d-3]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^3d-4]: Introdotto dal n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-5]: Introdotto dal n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3e
 
@@ -314,65 +319,11 @@ Vigono i seguenti orari di apertura:
 
 #### Art. 5a<sup>bis</sup>
 
-[^5abis-1]
+#### Art. 5b e 5c
 
-[^5abis-1]: Introdotto dal n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico) ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Abrogato dal n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), con effetto dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^5b5c-1]
 
-#### Art. 5b
-
-**Disposizioni particolari per le località di sport invernali**[^5b-1]
-
-<sup>1</sup> I Comuni con comprensori sciistici e numerosi ospiti che praticano sport invernali (località di sport invernali) devono elaborare e attuare un piano di protezione che preveda misure per garantire il rispetto delle prescrizioni sul distanziamento e per evitare assembramenti di persone nello spazio pubblico.
-
-<sup>2</sup>
-
-Il piano di protezione deve prevedere segnatamente quanto segue:
-
-- a. il coordinamento degli orari di apertura di negozi e strutture della ristorazione nonché l’organizzazione dei settori di accesso e delle aree di attesa adiacenti dello spazio pubblico;
-- b. l’incanalamento del flusso di persone, segnatamente alle fermate dei trasporti pubblici e nei posteggi, in coordinamento con le misure del gestore del comprensorio sciistico;
-- c. l’indicazione dei luoghi in cui possono essere effettuati i test COVID-19;
-- d. l’impiego di personale per sorvegliare il rispetto delle misure.
-
-[^5b-1]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-
-#### Art. 5c
-
-**Disposizioni particolari per i gestori di comprensori sciistici**[^5c-1]
-
-<sup>1</sup> Per comprensorio sciistico s’intende l’insieme degli impianti di trasporto di un gestore, compresi le piste da sci e da slitta e altri impianti per sport sulla neve.
-
-<sup>2</sup> I gestori di comprensori sciistici necessitano di un’autorizzazione dell’autorità cantonale competente.
-
-<sup>3</sup>
-
-L’autorizzazione è concessa se:
-
-- a. nel Cantone o nella regione interessata la situazione epidemiologica, che deve essere valutata segnatamente in base agli indicatori di cui all’articolo 8 capoverso 1 lettera a, lo consente;
-- b. il Cantone dispone delle capacità necessarie per identificare e informare le persone sospette contagiate secondo l’articolo 33 LEp ed è garantito il relativo scambio di dati tra i Cantoni;
-- c. nelle strutture dell’assistenza sanitaria ambulatoriale e stazionaria del Cantone o della regione interessata sono disponibili capacità sufficienti per curare sia le persone ammalate di COVID‑19 sia altre persone, segnatamente quelle vittime di infortuni sportivi;
-- d. nella località di sport invernale o nella regione interessata il Cantone mette a disposizione capacità sufficienti per testare persone con sintomi di COVID‑19; e
-- e. il gestore presenta un piano di protezione.
-
-<sup>4</sup>
-
-Oltre alle prescrizioni secondo l’articolo 4, il piano di protezione del gestore deve prevedere quanto segue:
-
-- a. i veicoli chiusi possono essere occupati soltanto per due terzi della loro capienza;
-- b. il flusso di persone nelle vie di accesso dalle fermate dei trasporti pubblici e dai posteggi agli impianti di trasporto, nonché nelle aree di attesa e nei settori di accesso di questi impianti deve essere organizzato in modo da consentire il rispetto della distanza obbligatoria; il flusso di persone nelle vie di accesso deve essere organizzato in coordinamento con le località di sport invernali e le imprese di trasporto;
-- c. durante gli spostamenti con gli impianti di trasporto e nelle file di attesa davanti a questi impianti deve essere portata la mascherina facciale. Nelle file di attesa deve inoltre essere rispettata la distanza obbligatoria;
-- d. le persone ammalate di COVID‑19 o che presentano sintomi di COVID‑19 non possono essere ammesse nel comprensorio sciistico; a tal fine devono essere adottate misure adeguate, quali segnatamente l’obbligo di autocertificazione per i visitatori e l’istruzione al personale di non trasportare ospiti che presentano sintomi manifesti;
-- e. il piano di protezione deve essere coordinato con i piani di protezione delle località di sport invernali e dei gestori di strutture della ristorazione situate nel comprensorio sciistico;
-- f. il rispetto delle misure previste dal piano di protezione deve essere sorvegliato; deve essere segnatamente controllato il rispetto della distanza obbligatoria nei settori di accesso e nelle aree di attesa degli impianti di trasporto;
-- g. i visitatori che nonostante ripetuti richiami non si attengono alle misure del piano di protezione devono essere allontanati dal comprensorio sciistico.
-
-<sup>5</sup>
-
-I Cantoni verificano regolarmente se il piano di protezione è attuato in modo corretto. Revocano un’autorizzazione o emanano prescrizioni supplementari se:
-
-- a. dopo una prima ingiunzione, il gestore non attua correttamente il piano di protezione;
-- b. non è più adempiuta una delle condizioni di cui al capoverso 3 lettere a–d.
-
-[^5c-1]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^5b5c-1]: Introdotti dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali) ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Abrogati dal n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), con effetto dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 #### Art. 5d
 
@@ -625,15 +576,15 @@ I gestori e gli organizzatori devono:
 - a. su richiesta, presentare il loro piano di protezione alle autorità cantonali competenti;
 - b. concedere alle autorità cantonali competenti l’accesso alle strutture e alle manifestazioni.
 
-<sup>1bis</sup> Le autorità cantonali competenti controllano regolarmente il rispetto dei piani di protezione, segnatamente nelle località di sport invernali e nei comprensori sciistici.[^9-1]
+<sup>1bis</sup> Le autorità cantonali competenti controllano regolarmente il rispetto dei piani di protezione.[^9-1]
 
 <sup>2</sup> Se constatano che non è disponibile un piano di protezione adeguato oppure che il piano non è rispettato o è rispettato soltanto parzialmente, prendono immediatamente i provvedimenti opportuni. Possono emettere ingiunzioni, chiudere strutture oppure vietare o disperdere manifestazioni.[^9-2]
 
-<sup>3</sup> I capoversi 1 lettera a e 2 primo periodo si applicano anche ai piani di protezione delle località di sport invernali.[^9-3]
+<sup>3</sup> ...[^9-3]
 
-[^9-1]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^9-1]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali) ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 [^9-2]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^9-3]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^9-3]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Abrogato dal n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), con effetto dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 ## Sezione 4: Provvedimenti di protezione dei lavoratori
 
@@ -704,19 +655,21 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 
 - a.[^13-2] in qualità di gestore o organizzatore intenzionalmente o per negligenza non rispetta i suoi obblighi di cui all’articolo 4 capoversi 1 e 2 e agli articoli 5*a*, 5*d* capoverso 1, 6 capoverso 1<sup>bis</sup> lettere a–d e 6*d*–6*g*;
 - b. in qualità di gestore o organizzatore intenzionalmente o per negligenza tratta i dati di contatto rilevati secondo l’articolo 5 per altri scopi o li conserva per più di 14 giorni dopo la partecipazione a una manifestazione o la visita di una struttura in violazione dell’articolo 5 capoverso 3;
-- c. intenzionalmente gestisce un comprensorio sciistico senza la necessaria autorizzazione secondo l’articolo 5*c* capoverso 2 o in deroga al piano di protezione approvato;
-- d.[^13-3] intenzionalmente svolge una manifestazione con un numero di persone superiore a quello ammesso secondo l’articolo 6 capoverso 1, 1<sup>bis</sup> o 2, o intenzionalmente vi partecipa;
-- e.[^13-4] intenzionalmente svolge fiere il cui svolgimento è vietato secondo l’articolo 6 capoverso 3;
-- f. in violazione dell’articolo 3*a* o 3*b* capoverso 1, sui veicoli del trasporto pubblico, in luoghi chiusi e aree esterne accessibili al pubblico di strutture, compresi i mercati, nonché in aree di attesa delle ferrovie, delle linee di autobus e tram e degli impianti a fune, in stazioni ferroviarie, aeroporti o in altri settori di accesso dei trasporti pubblici intenzionalmente o per negligenza non porta una mascherina facciale, a meno che non sia applicabile la deroga di cui all’articolo 3*a* capoverso 1 o all’articolo 3*b* capoverso 2;
+- c.[^13-3] ...
+- d.[^13-4] intenzionalmente svolge una manifestazione con un numero di persone superiore a quello ammesso secondo l’articolo 6 capoverso 1 o 1<sup>bis</sup> o intenzionalmente vi partecipa;
+- e.[^13-5] intenzionalmente svolge fiere il cui svolgimento è vietato secondo l’articolo 6 capoverso 3;
+- f.[^13-6] in violazione dell’articolo 3*a* o 3*b* capoverso 1, sui veicoli del trasporto pubblico, in luoghi chiusi e aree esterne accessibili al pubblico di strutture, compresi i mercati, nonché in aree di attesa delle ferrovie, delle linee di autobus e tram e degli impianti a fune, in stazioni ferroviarie, aeroporti o in altri settori di accesso dei trasporti pubblici intenzionalmente o per negligenza non porta una mascherina facciale, a meno che non sia applicabile la deroga di cui all’articolo 3*a* capoverso l o all’articolo 3*b* capoversi 2 e 2<sup>bis</sup>;
 - g. intenzionalmente viola il divieto di assembramento nello spazio pubblico secondo l’articolo 3*c* capoverso 1 o secondo una disposizione può restrittiva del diritto cantonale;
-- h.[^13-5] in qualità di ospite di una struttura della ristorazione o di un bar o in qualità di visitatore di una manifestazione intenzionalmente viola l’obbligo di stare seduti di cui all’articolo 5*a* capoverso 3 lettera b o di cui all’articolo 6 capoverso 1<sup>bis</sup> lettera c.
+- h.[^13-7] in qualità di ospite di una struttura della ristorazione o di un bar o in qualità di visitatore di una manifestazione intenzionalmente viola l’obbligo di stare seduti di cui all’articolo 5*a* capoverso 3 lettera b o di cui all’articolo 6 capoverso 1<sup>bis</sup> lettera c.
 - i. intenzionalmente o per negligenza non porta una mascherina facciale a una manifestazione politica o a una raccolta di firme, a meno che non sia applicabile la deroga di cui all’articolo 6*c* capoverso 2 secondo periodo.
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021 (Ampliamento delle disposizioni penali e introduzione della procedura della multa disciplinare), in vigore dal 1° feb. 2021 al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 [^13-2]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^13-3]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)).
-[^13-4]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-5]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-3]: Abrogata dal n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), con effetto dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^13-4]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-5]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-6]: Nuovo testo gisuta il n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^13-7]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 ## Sezione 7: Disposizioni finali
 
@@ -730,17 +683,9 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 
 #### Art. 14a
 
-**Disposizioni transitorie della modifica del 4 dicembre 2020**[^14a-1]
+[^14a-1]
 
-<sup>1</sup> I gestori di comprensori sciistici che hanno iniziato la loro attività prima del 9 dicembre 2020 e intendono proseguirla o che intendono iniziarla prima del 22 dicembre 2020 devono inoltrare entro l’11 dicembre 2020 all’autorità cantonale competente il piano di protezione secondo l’articolo 5*c* capoverso 4.
-
-<sup>2</sup> Se il piano di protezione non è inoltrato entro questo termine, l’esercizio è ammesso soltanto dopo il rilascio dell’autorizzazione da parte dell’autorità cantonale competente.
-
-<sup>3</sup> L’autorità cantonale competente decide entro 10 giorni dall’inoltro del piano di protezione.
-
-<sup>4</sup> Le località di sport invernali devono essere in grado di presentare i loro piani di protezione secondo l’articolo 5*b* il 18 dicembre 2020 e attuarlo a partire da questa data.
-
-[^14a-1]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^14a-1]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali) ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Abrogato dal n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), con effetto dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 #### Art. 15
 
@@ -766,7 +711,7 @@ Allegato 1[^t-1]
 
 ## Prescrizioni relative ai piani di protezione
 
-[^t-1]: Originario all. Aggiornato dal n. II delle O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), e del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021, il n. 3.1<sup>ter</sup> e 3.1<sup>quater</sup> fino al 31 mag. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^t-1]: Originario all. Aggiornato dal n. II delle O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), n. 3.1<sup>ter</sup> e 3.1<sup>quater</sup> con effetto al 31 mag. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)) e del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 ### 1 In generale
 
@@ -881,7 +826,7 @@ Allegato 1[^t-1]
   - b. per le strutture, segnatamente quelle della ristorazione e i cinema, e per le manifestazioni con posti a sedere: il numero di posto o di tavolo.
 
 - 4\.4<sup>bis</sup> Il gestore o l’organizzatore deve garantire con misure adeguate la correttezza dei dati di contatto rilevati.
-- 4\.5 Per le famiglie o altri gruppi di persone che si conoscono tra di loro e nelle strutture della ristorazione, nei bar e nei club è sufficiente registrare i dati di contatto di un solo membro della famiglia o del gruppo.
+- 4\.5 Per le famiglie o altri gruppi di persone che si conoscono tra di loro è sufficiente registrare i dati di contatto di un solo membro della famiglia o del gruppo. È fatto salvo l’articolo 5*a* capoverso 3 lettera d sulla registrazione dei dati di contatto nelle aree esterne di strutture della ristorazione, bar e club e nelle strutture della ristorazione e nei bar riservati agli ospiti dell’albergo.
 - 4\.6 Il gestore o l’organizzatore deve garantire la riservatezza dei dati di contatto registrati e la sicurezza dei dati, segnatamente nell’ambito della loro conservazione.
 
 Allegato 2[^t-2]

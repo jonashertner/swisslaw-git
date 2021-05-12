@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinance of 19 June 2020 on Measures during the Special Situation to combat the COVID-19 Epidemic (COVID-19 Ordinance Special Situation)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: en
-version: 2021-04-19
+version: 2021-05-13
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210419/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210419-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210419/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210513/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210513-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210513/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 19 June 2020 (Status as of 19 April 2021)
+of 19 June 2020 (Status as of 13 May 2021)
 
 The Swiss Federal Council,
 
@@ -98,18 +98,22 @@ The following persons are exempted from this requirement:
 - e. persons undergoing a medical or cosmetic procedure to the face;
 - f. performers, in particular speakers, and athletes and artists in accordance with Articles 6*e* and 6*f*.
 
+<sup>2bis</sup> Bathing establishments, including thermal baths, may provide in their precautionary measures plans for exceptions to the requirement in paragraph 1 for outdoor areas.[^3b-5]
+
 <sup>3</sup>
 
 Socio-medical institutions may in consultation with the responsible cantonal authority provide in their precautionary measures plans that the following persons are exempted from this requirement in their publicly accessible areas:
 
 - a. residents who have been vaccinated against COVID-19 in accordance with the FOPH vaccination recommendations for mRNA vaccines: for 6 months from the 14th day after vaccination;
-- b. residents who can prove that they have been infected with Sars- CoV-2 and have recovered: for 3 months from the date on which they were authorised to leave isolation by the responsible cantonal authority.[^3b-5]
+- b.[^3b-6] residents who can prove that they have been infected with Sars- CoV-2 and have recovered: for 6 months from the date on which they were authorised to leave isolation by the responsible cantonal authority.[^3b-7]
 
 [^3b-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3b-3]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^3b-4]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^3b-5]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3b-5]: Inserted by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3b-6]: amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3b-7]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3c
 
@@ -121,7 +125,7 @@ Socio-medical institutions may in consultation with the responsible cantonal aut
 
 All persons in the following public areas must wear a face mask:
 
-- a.[^3c-4] in busy pedestrian zones in city, town and village centres and winter sports resorts;
+- a.[^3c-4] in busy pedestrian zones in city, town and village centres;
 - b. in other public areas whenever too many people are present for the required distance to be maintained.[^3c-5]
 
 <sup>3</sup> The exceptions under Article 3*b* paragraph 2 letters a and b apply to the requirement under paragraph 2.[^3c-6]
@@ -129,7 +133,7 @@ All persons in the following public areas must wear a face mask:
 [^3c-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home), in force since 19 Oct. 2020 ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
 [^3c-2]: Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-3]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^3c-4]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3c-4]: Amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 [^3c-5]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
@@ -154,7 +158,7 @@ The responsible cantonal authority shall place into quarantine persons who withi
 
 The following persons are exempted from contact quarantine:
 
-- a. persons who within the three months prior to having close contact with one of the persons under paragraph 1 were infected with and have recovered from Sars-CoV-2 and who have been permitted by the responsible cantonal authority to leave isolation;
+- a.[^3d-1] persons who have proof that they were infected with and have recovered from Sars-CoV-2: for 6 months from the date on which they were authorised to leave isolation by the responsible cantonal authority;
 - b. persons who carry out an activity that is of high importance to society and for which there is an acute shortage of staff.
 
 <sup>3</sup>
@@ -162,21 +166,22 @@ The following persons are exempted from contact quarantine:
 Persons working for businesses in which employees are subject to systematic and repetitive testing are exempted from contact quarantine during their professional activities and when travelling to work, provided the following requirements are met:
 
 - a. The business has a plan that allows employees simple access to tests on the premises; employees must be able to take a test at least once a week.
-- b. The requirements are met for the Confederation to pay the cost of the tests in accordance with Annex 6 Sections 3.1 and 3.2 the COVID-19 Ordinance 3 of 19 June 2020[^3d-1].
-- c. The persons concerned remain in contact quarantine when not at work or travelling to work.[^3d-2]
+- b. The requirements are met for the Confederation to pay the cost of the tests in accordance with Annex 6 Sections 3.1 and 3.2 the COVID-19 Ordinance 3 of 19 June 2020[^3d-2].
+- c. The persons concerned remain in contact quarantine when not at work or travelling to work.[^3d-3]
 
 <sup>4</sup>
 
 In respect of specific persons or categories of persons, the responsible cantonal authority may:
 
 - a. in justified cases authorise additional exemptions from or relaxations of the regulations on contact quarantine for specific persons;
-- b. in cases other than those under paragraph 1 or even if the requirements under paragraph 3 are met, place a person in contact quarantine if this is necessary in order to prevent the spread of COVID-19.[^3d-3]
-- [tab] <sup>5</sup> It shall notify the FOPH of measures taken in respect of specific categories of persons under paragraph 4.[^3d-4]
+- b. in cases other than those under paragraph 1 or even if the requirements under paragraph 3 are met, place a person in contact quarantine if this is necessary in order to prevent the spread of COVID-19.[^3d-4]
+- [tab] <sup>5</sup> It shall notify the FOPH of measures taken in respect of specific categories of persons under paragraph 4.[^3d-5]
 
-[^3d-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3d-2]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^3d-3]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-1]: Amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^3d-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^3d-3]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^3d-4]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-5]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3e
 
@@ -311,61 +316,11 @@ The prohibition does not apply to the following businesses:
 
 [^5abis-1]: Inserted by No I of the O of 11 Dec. 2020 (Restrictions on Events and Opening Hours of Restaurants and other publicly accessible Businesses and Establishments) ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Repealed by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), with effect from 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 
-#### Art. 5b
+#### Art. 5b and 5c
 
-**Special Provisions for winter sports resorts**[^5b-1]
+[^5b5c-1]
 
-<sup>1</sup> Communes with ski areas and significant numbers of winter sport guests (winter sports resorts) must draw up and implement a precautionary measures plan containing measures to guarantee compliance with social distancing requirements and to prevent gatherings of people in public areas.
-
-<sup>2</sup>
-
-The precautionary measures plan must have rules on the following in particular:
-
-- a. coordinating the opening hours of shops and restaurant-type establishments and arrangements for public access and waiting areas outside such shops and establishments;
-- b. directing the movement of persons, in particular in areas around public transport stops and in car parks; these measures must be coordinated with those taken by the ski area operator;
-- c. details of the locations where COVID-19 tests can be conducted;
-- d. the deployment of staff to monitor compliance with the measures.
-
-[^5b-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-
-#### Art. 5c
-
-**Special provisions for ski area operators**[^5c-1]
-
-<sup>1</sup> A ski area is defined as the entirety of transport installations pertaining to an operator, including the related ski slopes, sledge runs and other snow sports facilities.
-
-<sup>2</sup> Ski area operators require authorisation from the responsible cantonal authority.
-
-<sup>3</sup>
-
-Authorisation shall be granted if:
-
-- a. the epidemiological situation in the canton or region concerned so permits, whereby the situation must be assessed based on the indicators specified in Article 8 paragraph 1 letter a in particular;
-- b. the canton has the capacities required to identify and notify persons who may have been infected as stipulated in Article 33 EpidA and the related exchange of data between cantons is guaranteed;
-- c. the facilities for out- and in-patient healthcare services in the canton or region concerned have sufficient capacities for treating both persons who are ill with COVID-19 and other persons, in particular those with sports injuries;
-- d. the canton in which the winter sports resort or region is located has sufficient test capacities for persons with symptoms of COVID-19; and
-- e. the operator submits a precautionary measures plan.
-
-<sup>4</sup>
-
-The operator’s precautionary measures plan must provide for the following in addition to what is required by Article 4:
-
-- a. Occupancy of closed vehicles may not exceed two thirds of capacity.
-- b. The movement of persons on access paths to public transport stops and car parks for transport installations as well as in access and waiting areas for these installations must be arranged so as to comply with social distancing requirements; on access paths the movement of persons must be organised in coordination with the winter sports resorts and the transport operators.
-- c. Persons standing in the vicinity of and travelling on the transport installations must wear a face mask. Persons standing in the vicinity of the installation must maintained the required distance from each other.
-- d. Persons who are infected with the coronavirus or who have symptoms of a COVID-19-illness may not be admitted to the ski area; to this end, suitable precautions must be taken, in particular requiring guests to make a personal declaration and instructing staff not to transport guests with obvious symptoms.
-- e. The precautionary measures plan must be coordinated with the precautionary measures plans of the winter sports resorts and the operators of restaurant-type establishments in the ski area.
-- f. Compliance with the measures in the precautionary measures plan must be monitored; in particular, compliance with social distancing requirements in access and waiting areas for transport installations must be checked.
-- g. Guests who fail to comply with the measures in the precautionary measures plan despite repeated warnings shall be removed from the ski area.
-
-<sup>5</sup>
-
-The cantons shall conduct regular checks on whether the precautionary measures plan is being correctly implemented. They shall withdraw authorisation or impose additional requirements if:
-
-- a. the operator fails to implement the precautionary measures plan correctly despite receiving a warning to do so;
-- b. any of the requirements under paragraph 3 letters a–d is no longer satisfied.
-
-[^5c-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^5b5c-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Repealed by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), with effect from 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 #### Art. 5d
 
@@ -613,15 +568,15 @@ The operator and organisers must:
 - a. submit their precautionary measures plan to the responsible cantonal authorities if requested to do so;
 - b. allow the responsible cantonal authorities access to the establishments, businesses or events.
 
-<sup>1bis</sup> The responsible cantonal authorities shall conduct regularly checks on compliance with the precautionary measures plans, in particular in winter sports resorts and ski areas.[^9-1]
+<sup>1bis</sup> The responsible cantonal authorities shall conduct regularly checks on compliance with the precautionary measures plans.[^9-1]
 
 <sup>2</sup> If they establish that no adequate precautionary measures plan has been drawn up or that a plan has not been implemented or only in part, they shall take appropriate measures immediately. They may issue reminders, close down establishments or businesses or prohibit or break up events.[^9-2]
 
-<sup>3</sup> Paragraphs 1 letter a and 2 first sentence also apply to precautionary measures plans in winter sports resorts.[^9-3]
+<sup>3</sup> ... [^9-3]
 
-[^9-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^9-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 [^9-2]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^9-3]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^9-3]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Repealed by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), with effect from 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 ## Section 4 Measures to Protect Workers
 
@@ -692,19 +647,21 @@ Any person who commits any of the following acts shall be liable to a fine:
 
 - a.[^13-2] as an operator or organiser, wilfully or negligently failing to comply with the requirements imposed in Article 4 paragraphs 1 and 2 or in Articles 5*a*, 5*d* paragraph 1, 6 paragraph 1<sup>bis</sup> letters a–d and 6*d*–6*g*;
 - b. as an operator or organiser, wilfully or negligently processing contact details recorded pursuant to Article 5 for other purposes in contravention of Article 5 paragraph 3 or retaining such details for longer than 14 days after the person or persons concerned participated in the event or visited the establishment or business;
-- c. wilfully operating a ski area without the required authorisation pursuant to Article 5*c* paragraph 2 or in derogation from the approved precautionary measures plan;
-- d.[^13-3] wilfully holding an event involving more persons than are permitted under Article 6 paragraphs 1, 1<sup>bis</sup> or 2, or wilfully participating in such an event;
-- e.[^13-4] wilfully holding a trade fair the holding of which is prohibited by Article 6 paragraph 3;
-- f. wilfully or negligently failing to wear a face mask in contravention of Article 3*a* or 3*b* paragraph 1 in public transport vehicles, publicly accessible indoor and outdoor areas of businesses and establishments, including markets, in waiting areas for trains, buses trams and cableways, and in railway stations, airports and other public transport access areas, unless an exception pursuant to Article 3*a* paragraph 1 or Article 3*b* paragraph 2 applies;
+- c.[^13-3] ...
+- d.[^13-4] wilfully holding an event involving more persons than are permitted under Article 6 paragraphs 1, 1<sup>bis</sup> or 2, or wilfully participating in such an event;
+- e.[^13-5] wilfully holding a trade fair the holding of which is prohibited by Article 6 paragraph 3;
+- f.[^13-6] wilfully or negligently failing to wear a face mask in contravention of Article 3*a* or 3*b* paragraph 1 in public transport vehicles, publicly accessible indoor and outdoor areas of businesses and establishments, including markets, in waiting areas for trains, buses trams and cableways, and in railway stations, airports and other public transport access areas, unless an exception pursuant to Article 3*a* paragraph 1 or Article 3*b* paragraph 2 and 2<sup>bis</sup> applies;
 - g. wilfully contravening the ban on gatherings of people in public areas in Article 3*c* paragraph 1 or pursuant to a stricter provision of cantonal law;
-- h.[^13-5] as a guest of a restaurant or bar or as a person attending an event, wilfully contravening the requirement to be seated in Article 5*a* paragraph 3 letter b or Article 6 paragraph 1<sup>bis</sup> letter c;
+- h.[^13-7] as a guest of a restaurant or bar or as a person attending an event, wilfully contravening the requirement to be seated in Article 5*a* paragraph 3 letter b or Article 6 paragraph 1<sup>bis</sup> letter c;
 - i. wilfully or negligently failing to wear a face mask at a political or civil society demonstration or when collecting signatures, unless an exception pursuant to Article 6*c* paragraph 2 second sentence applies.
 
 [^13-1]: Amended by No I of the O of 27 Jan. 2021 (Additional Criminal Provisions and Introduction of the Fixed Penalty Procedure), in force from 1 Feb. 2021 to 31 Dec. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 [^13-2]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^13-3]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)).
-[^13-4]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-5]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-3]: Repealed by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), with effect from 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^13-4]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)).
+[^13-5]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-6]: Amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^13-7]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 ## Section 7 Final Provisions
 
@@ -720,17 +677,9 @@ The following Ordinances are amended as follows:
 
 #### Art. 14a
 
-**Transitional provisions to the Amendment of 4 December 2020**[^14a-1]
+[^14a-1]
 
-<sup>1</sup> Ski area operators that have already begun operations before 9 December 2020 and wish to continue or that wish to begin operations before 22 December 2020 must submit their precautionary measures plan under Article 5*c* paragraph 4 to the responsible cantonal authority by 11 December 2020.
-
-<sup>2</sup> If the precautionary measures plan is not submitted on time, operations are only permitted once the responsible cantonal authority grants authorisation.
-
-<sup>3</sup> The cantonal authority shall decide within ten days of receiving the precautionary measures plan.
-
-<sup>4</sup> Winter sports resorts must be able to produce their precautionary measures plans under Article 5*b* on 18 December 2020 and must implement them from this date.
-
-[^14a-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^14a-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Repealed by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), with effect from 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 #### Art. 15
 
@@ -756,7 +705,7 @@ Annex 1*[^t-1]*
 
 ## Requirements for precautionary measures plans
 
-[^t-1]: Originally: Annex. Revised by No II of the O of 2 Sept. 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) and No II of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 Apr. 2021, No 3.1<sup>ter</sup> and 3.1<sup>quater</sup>, in force until 31 May 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^t-1]: Originally: Annex. Revised by No II of the O of 2 Sept. 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) and No II of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), No 3.1<sup>ter</sup> and 3.1<sup>quater</sup>, in force until 31 May 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)) and of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 ### 1 General Remarks
 
@@ -871,7 +820,7 @@ Annex 1*[^t-1]*
   - b. in the case of businesses, in particular restaurant-type establishments and cinemas, and in the case of events with seats: the seat or table number;
 
 - 4\.4<sup>bis</sup> The operator or organiser must take appropriate measures to ensure that the contact details recorded are accurate.
-- 4\.5 In the case of families or other groups with persons who know each other and in restaurants, bars and clubs, it is sufficient to record the contact details of only one person in the family or group concerned.
+- 4\.5 In the case of families or other groups with persons who know each other, it is sufficient to record the contact details of only one person in the family or group concerned. The foregoing is subject to Article 5*a* paragraph 3 letter d on the recording of contact data in the outdoor areas of restaurants, bars and clubs and in restaurants and bars for hotel guests.
 - 4\.6 The operator or organiser must guarantee the confidentiality of the contact details when recording the same, and data security, in particular in storing the data.
 
 Annex 2*[^t-2]*
