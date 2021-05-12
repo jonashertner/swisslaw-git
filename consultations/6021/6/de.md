@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Landwirtschatliches Verordnungspaket 2021
 document: Vorlage
 language: de

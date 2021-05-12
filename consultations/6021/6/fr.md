@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Train d'ordonnances agricoles 2021"
 document: Projet
 language: fr

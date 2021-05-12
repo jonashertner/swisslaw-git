@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pacchetto di ordinanze agricole 2021
 document: Avamprogetto
 language: it
