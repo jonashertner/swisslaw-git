@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2021-04-19
+version: 2021-05-13
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210419/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210419-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210419/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210513/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210513-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210513/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210419/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 19. April 2021)
+vom 16. Januar 2019 (Stand am 13. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -600,7 +600,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Ziff. III der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden) ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)) und vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Ziff. III der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden) ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)) und vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport) ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)) und vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -732,7 +732,7 @@ Anhang 2*[^t-2]*
 <tr><td>XVI. Covid-19-Verordnung besondere Lage vom 19. Juni 2020**[^annex2-lvlu1-lvlu1-25]**</td><td></td></tr>
 <tr><td>[tab] 16001. Durchführung einer unzulässigen privaten Veranstaltung (Art. 13 Bst. d i.V.m. Art. 6 Abs. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 200</td></tr>
 <tr><td>16002. Teilnahme an einer unzulässigen Veranstaltung (Art. 13 Bst. d i.V.m. 6 Absatz 1, 1<sup>bis</sup> oder 2 Covid-19-Verordnung besondere Lage)</td><td>100</td></tr>
-<tr><td>16003. Unbefugtes Nichttragen einer Gesichtsmaske in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs (Art. 13 Bst. f i.V.m. Art. 3*a* Abs. 1 und 3*b* Abs. 1 und 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16003. Unbefugtes Nichttragen einer Gesichtsmaske in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs (Art. 13 Bst. f i.V.m. Art. 3*a* Abs. 1 und 3*b* Abs. 1, 2 und 2<sup>bis</sup> Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
 <tr><td>16004. Sich-Aufhalten in einer Menschenansammlung im öffentlichen Raum, die mehr als 15 Personen oder mehr als die kantonal festgelegte Höchstzahl an Personen umfasst (Art. 13 Bst. g i.V.m. Art. 3*c* Abs. 1 sowie Art. 8 Abs. 1 Covid-19-Verordnung besondere Lage)</td><td>[tab] 50</td></tr>
 <tr><td>16005. Verstoss als Gast gegen die Sitzpflicht in Restaurations- und Barbetrieben (Art. 13 Bst. h i.V.m. Art. 5*a* Abs. 3 Buchstabe b Covid-19-Verordnung besondere Lage)</td><td>100</td></tr>
 <tr><td>16006. Unbefugtes Nichttragen einer Gesichtsmaske an einer politischen oder zivilgesellschaftlichen Kundgebung oder einer Unterschriftensammlung (Art. 13 Bst. i i.V.m. Art. 6*c* Abs. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
