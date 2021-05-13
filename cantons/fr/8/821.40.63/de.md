@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Verordnung über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle
 short: WMHV-COVID-19
 language: de
-version: 2021-03-05
-valid_until: 2021-05-13
-version_adopted: 2021-03-16
+version: 2021-05-14
+valid_until: 2021-06-18
+version_adopted: 2021-05-04
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/de/versions/6811/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6827/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Beiträge für Härtefälle – V
 
 (WMHV-COVID-19)
 
-vom 16.11.2020 (Fassung in Kraft getreten am 05.03.2021)
+vom 16.11.2020 (Fassung in Kraft getreten am 14.05.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -114,28 +114,49 @@ beschliesst:
 
 <sup>1</sup> Das gesuchstellende Unternehmen weist nach, dass es
 
-- a) vor dem 1. März 2020 im Handelsregister eingetragen worden ist oder, bei fehlendem Handelsregistereintrag, vor dem 1. März 2020 gegründet worden ist;
+- a) vor dem 1. Oktober 2020 im Handelsregister eingetragen worden ist oder, bei fehlendem Handelsregistereintrag, vor dem 1. Oktober 2020 gegründet worden ist;
 - b) im Durchschnitt der Jahre 2018 und 2019 einen Umsatz von mindestens 50'000 Franken erzielt hat;
-- c) seinen Sitz und seine tatsächliche Unternehmensleitung im Kanton Freiburg hat und dort seine Geschäftstätigkeit ausübt;
-- d) seine Löhne überwiegend in der Schweiz bezahlt.
+- c) vor dem 1. Oktober 2020 bereits seinen Sitz und seine tatsächliche Unternehmensleitung im Kanton Freiburg hatte;
+- d) in der Schweiz eine Geschäftstätigkeit ausübt und seine Löhne überwiegend in der Schweiz bezahlt.
 
 <sup>2</sup> Das Unternehmen verfügt über eine aktive Unternehmensidentifikationsnummer (UID);
 
-<sup>3</sup> Nahm das Unternehmen die Geschäftstätigkeit auf den 1. Januar 2020 oder später auf oder wurde es 2019 oder 2018 gegründet und sind darum die Geschäftsjahre 2019 oder 2018 überlang, so gilt als durchschnittlicher Umsatz nach Absatz 1 Bst. b der Umsatz, der zwischen dem 1. Januar 2018 und dem 29. Februar 2020 erzielt wurde, berechnet auf 12 Monate.
+<sup>3</sup> …
 
 #### Art. 5a
 
 **Gründungsdatum – Ausnahmen**
 
-<sup>1</sup> Wurde die Rechtsform des Unternehmens nach dem 1. März 2020 geändert, so gilt der Grundsatz der wirtschaftlichen Betrachtungsweise, demzufolge der Inhalt Vorrang vor der Form hat.
+<sup>1</sup> Wurde die Rechtsform des Unternehmens nach dem 1. Oktober 2020 geändert, so gilt der Grundsatz der wirtschaftlichen Betrachtungsweise, demzufolge der Inhalt Vorrang vor der Form hat.
 
-<sup>2</sup> Bei einem Handelsregistereintrag nach dem 1. März 2020 bestätigt die Gesuchstellerin oder der Gesuchsteller, dass das Unternehmen vor dem 1. März gegründet wurde.
+<sup>2</sup> Bei einem Handelsregistereintrag nach dem 1. Oktober 2020 bestätigt die Gesuchstellerin oder der Gesuchsteller, dass das Unternehmen vor dem 1. Oktober gegründet wurde.
 
-<sup>3</sup> Wurde nach dem 1. März 2020 eine Auffanggesellschaft gegründet, so bestätigt die Gesuchstellerin oder der Gesuchsteller, dass:
+<sup>3</sup> Wurde nach dem 1. Oktober 2020 eine Auffanggesellschaft gegründet, so bestätigt die Gesuchstellerin oder der Gesuchsteller, dass:
 
 - a) die Auffanggesellschaft einen wesentlichen Anteil des Betriebs eines Unternehmens übernommen hat;
-- b) das Unternehmen, das einen Betriebsanteil überträgt, vor dem 1. März 2020 gegründet wurde;
+- b) das Unternehmen, das einen Betriebsanteil überträgt, vor dem 1. Oktober 2020 gegründet wurde;
 - c) das Unternehmen, das einen Betriebsanteil überträgt, nicht bereits Unterstützung gemäss der COVID-19-Härtefallverordnung erhalten hat.
+
+#### Art. 5b
+
+**Sitz – Ausnahme**
+
+<sup>1</sup> Befindet sich der Sitz des gesuchstellenden Unternehmens am 1. Oktober 2020 im Kanton Freiburg, so ist dieser unabhängig vom Ort der Geschäftstätigkeit für die Zahlung des Härtefallbeitrags für alle Niederlassungen dieses Unternehmens in der Schweiz zuständig.
+
+<sup>2</sup> Die kantonale Zuständigkeit bleibt von einer Sitzverlegung des Unternehmens in einen anderen Kanton unberührt.
+
+<sup>3</sup> Bei Einzelunternehmen ohne Handelsregistereintrag ist der Kanton am Wohnsitz der Einzelunternehmerin oder des Einzelunternehmers zuständig.
+
+#### Art. 5c
+
+**Umsatz – Ausnahme**
+
+<sup>1</sup> Für ein Unternehmen, das zwischen dem 31. Dezember 2017 und dem 29. Februar 2020 gegründet wurde, gilt als durchschnittlicher Jahresumsatz nach Artikel 5 Abs. 1 Bst. b:
+
+- a) der durchschnittliche Umsatz, der von der Gründung bis zum 29. Februar 2020 erzielt wurde, berechnet auf 12 Monate, oder
+- b) der durchschnittliche Umsatz, der von der Gründung bis zum 31. Dezember 2020 erzielt wurde, berechnet auf 12 Monate.
+
+<sup>2</sup> Für ein Unternehmen, das zwischen dem 1. März 2020 und dem 30. September 2020 gegründet wurde, wird der durchschnittliche Umsatz, der von der Gründung bis zum 31. Dezember 2020 erzielt wurde, auf 12 Monate hochgerechnet.
 
 #### Art. 6
 
@@ -175,7 +196,7 @@ beschliesst:
 <sup>1</sup> Das gesuchstellende Unternehmen belegt, dass es
 
 - a) keine Dividenden oder Tantiemen ausschüttet oder Kapitaleinlagen rückerstattet und keine Darlehen an seine Eigentümer vergibt:
-  - 1\. während drei Jahren nach Erhalt eines nicht rückzahlbaren Beitrags oder bis zu dessen freiwilliger Rückzahlung an den Kanton;
+  - 1\. im Geschäftsjahr, in dem der nicht rückzahlbare Beitrag ausgerichtet wird, sowie in den drei darauffolgenden Jahren oder bis zu dessen freiwilliger Rückzahlung an den Kanton;
   - 2\. während der gesamten Laufzeit eines Darlehens, einer Bürgschaft oder einer Garantie oder bis zur Rückzahlung des Darlehens oder bis zum Erlöschen der erwähnten vertraglichen Verpflichtungen.
 - b) …
 - c) die ihm gewährten Mittel nicht an eine mit ihm direkt oder indirekt verbundene Gruppengesellschaft, die ihren Sitz nicht in der Schweiz hat, überträgt; zulässig ist jedoch insbesondere das Erfüllen vorbestehender ordentlicher Zins- und Amortisationszahlungspflichten innerhalb einer Gruppenstruktur.
@@ -194,7 +215,7 @@ beschliesst:
 - b) die Kurzarbeitsentschädigung, die Erwerbsausfallentschädigung und die kantonalen Ergänzungsbeiträge gemäss Gesetz vom 14. Oktober 2020 über die Ergänzung der wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus auf Unternehmerinnen und Unternehmer sowie Selbstständigerwerbende (MUSG-COVID-19) und gemäss Verordnung vom 16. November 2020 über die Begleitmassnahmen für Angestellte der Einrichtungen, deren Schliessung infolge der zweiten Coronavirus-Welle angeordnet wurde (BMAV-COVID-19);
 - c) die finanziellen Unterstützungen gemäss der Verordnung vom 21. April 2020 über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge an Miet- und Pachtzinsen von Gewerbeflächen (WMMV-COVID-19) und der Verordnung vom 16. November 2020 über die Begleitmassnahmen für Einrichtungen, deren Schliessung infolge der zweiten Coronavirus-Welle angeordnet wurde (BMSV-COVID-19).
 
-<sup>3</sup> Vom Verbot der Kumulierung ebenfalls ausgeschlossen sind die finanziellen Beiträge gestützt auf die Verordnung vom 14. April 2020 über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus im Tourismusbereich (WMT-COVID-19) und gestützt auf Artikel 4a der Ausführungsverordnung vom 24. November 2020 zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus (KWPV-Gastro-COVID-19). Wird das Unternehmen als Härtefall anerkannt, so wird der entsprechende bereits erhaltene oder noch ausstehende Beitrag vom Härtefallbeitrag abgezogen.
+<sup>3</sup> Vom Verbot der Kumulierung ebenfalls ausgeschlossen sind die finanziellen Beiträge gestützt auf die Verordnung vom 14. April 2020 über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus im Tourismusbereich (WMT-COVID-19) und gestützt auf Artikel 4a der Ausführungsverordnung vom 24. November 2020 zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus (KWPV-Gastro-COVID-19). Wird das Unternehmen als Härtefall anerkannt, so wird der gesamte für das Jahr 2020 zugesicherte Beitrag von der Härtefallhilfe gemäss dieser Verordnung abgezogen. Vom Beitrag für das Jahr 2021 wird nur der Teil abgezogen, der den gleichen Zeitraum wie die Härtefallhilfe abdeckt.
 
 #### Art. 11
 
@@ -202,13 +223,13 @@ beschliesst:
 
 <sup>1</sup> Das Unternehmen belegt, dass sein Jahresumsatz 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 60 % des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 liegt.
 
-<sup>1a</sup> Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der COVID-19-Epidemie kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz der letzten 12 Monate verwenden.
+<sup>1a</sup> Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der COVID-19-Epidemie kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz einer späteren Periode von 12 Monaten verwenden.
 
 <sup>2</sup> …
 
 <sup>3</sup> Für Unternehmen, die nach dem 31. Dezember 2017 gegründet worden sind, gilt der nach Artikel 5 Abs. 3 berechnete Umsatz als durchschnittlicher Jahresumsatz 2018 und 2019.
 
-<sup>3a</sup> Für Unternehmen in Sinne von Artikel 5a Abs. 3, die nach dem 1. März 2020 gegründet wurden, gilt als Umsatz der Auffanggesellschaft der Umsatzanteil des übernommenen Unternehmensteils am Gesamtumsatz.
+<sup>3a</sup> Für Unternehmen in Sinne von Artikel 5a Abs. 3, die nach dem 1. Oktober 2020 gegründet wurden, gilt als Umsatz der Auffanggesellschaft der Umsatzanteil des übernommenen Unternehmensteils am Gesamtumsatz.
 
 <sup>4</sup> Das Unternehmen hat gegenüber dem Kanton bestätigt, dass der Umsatzrückgang zur Folge hat, dass erhebliche Fixkosten bleiben.
 
@@ -226,17 +247,17 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Gemäss Artikel 12 Abs. 1<sup>bis</sup> des COVID-19-Gesetzes des Bundes und Artikel 6 Abs. 2 des kantonalen Genehmigungsgesetzes werden für die Berechnung und die Form der finanziellen Unterstützung im Sinne dieser Verordnung die Fixkosten und das Eigenkapital, genauer gesagt der Anteil der ungedeckten Fixkosten und die Vermögenssituation des Unternehmens und seiner wichtigsten wirtschaftlich Berechtigten, berücksichtigt.
+<sup>1</sup> Gemäss Artikel 12 Abs. 1<sup>bis</sup> des COVID-19-Gesetzes des Bundes und Artikel 6 Abs. 2 des kantonalen Genehmigungsgesetzes werden für die Berechnung und die Form der finanziellen Unterstützung im Sinne dieser Verordnung die Fixkosten und das Eigenkapital, genauer gesagt der Anteil der ungedeckten Fixkosten und die Vermögenssituation des Unternehmens, berücksichtigt.
 
-<sup>2</sup> Die Vermögenssituation eines wirtschaftlich Berechtigten wird berücksichtigt, sobald seine Beteiligung am Kapital der Gesellschaft mindestens einen Drittel erreicht.
+<sup>2</sup> …
 
-<sup>3</sup> Bei Härtefällen im Sinne von Artikel 4 Abs. 2a wird weder die Vermögenssituation des Unternehmens noch die seiner wirtschaftlich Berechtigten berücksichtigt.
+<sup>3</sup> Bei Härtefällen im Sinne von Artikel 4 Abs. 2a wird die Vermögenssituation des Unternehmens nicht berücksichtigt.
 
 #### Art. 13
 
 **Finanzierung der Fixkosten – Ordentliches Verfahren**
 
-<sup>1</sup> Für Härtefälle im Sinne von Artikel 4 Abs. 2 besteht der Beitrag in der Übernahme eines Teils der Fixkosten des Unternehmens zu einem prozentualen Anteil der höchstens dem Umsatzrückgang in den 12 Monaten vor Einreichen des Gesuchs und nach Abzug der bereits erhaltenen Beiträge des Bundes und des Kantons im Sinne von Artikel 10 Abs. 2 Bst. b und c und Abs. 3 entspricht.
+<sup>1</sup> Für Härtefälle im Sinne von Artikel 4 Abs. 2 besteht der Beitrag in der Übernahme eines Teils der Fixkosten des Unternehmens zu einem prozentualen Anteil der höchstens dem Umsatzrückgang in den fünfzehn Monaten vor Einreichen des Gesuchs und nach Abzug der bereits erhaltenen Beiträge des Bundes und des Kantons im Sinne von Artikel 10 Abs. 2 Bst. b und c und Abs. 3 entspricht.
 
 <sup>1a</sup> Anrechenbar sind nur Ausgaben, die tatsächlich entstanden sind (Art. 22 Abs. 1 SubG).
 
@@ -259,25 +280,27 @@ beschliesst:
 - a) einem Betrag, der dem anteilig für die Dauer der Schliessung geschuldeten Miet- oder Pachtzins ohne Nebenkosten oder den entsprechenden Hypothekarzinsen für die Geschäftsräume des gesuchstellenden Unternehmens entspricht, und
 - b) einem Betrag, der einen Teil des effektiven Umsatzrückgangs in den Monaten, die Gegenstand des Gesuchs sind, gegenüber den entsprechenden Monaten des Jahres 2019 oder 2020 deckt.
 
-<sup>2</sup> Die Entschädigung wird in Form von Anzahlungen während der behördlichen Schliessung, also frühestens ab dem 23. Oktober 2020 bezahlt. Sie wird am Ende dieses Zeitraums nach Abrechnung durch eine teilweise Übernahme des Umsatzrückgangs ergänzt.
+<sup>1a</sup> Für Unternehmen, die zwischen dem 1. März 2020 und dem 30. September 2020 gegründet wurden, beläuft sich die Entschädigung auf den doppelten Betrag der anteilig für die Dauer der Schliessung geschuldeten Miet- oder Pachtzinsen ohne Nebenkosten oder der entsprechenden Hypothekarzinsen.
+
+<sup>2</sup> Die Entschädigung wird in Form von Anzahlungen während der behördlichen Schliessung, also frühestens ab dem 23. Oktober 2020, bezahlt. Der Rest der Entschädigung wird am Ende dieses Zeitraums gestützt auf eine Schlussabrechnung ausgezahlt.
 
 <sup>3</sup> Sie wird wie folgt ausgezahlt:
 
-- a) Eine erste Anzahlung erfolgt pro rata temporis entsprechend der Dauer der angeordneten Schliessung im Umfang von 130 % des für diesen Zeitraum geschuldeten Miet- oder Pachtzinses ohne Nebenkosten oder der entsprechenden Hypothekarzinsen. Davon abgezogen werden die für den gleichen Zeitraum bereits gezahlten Beiträge gemäss BMSV-COVID-19.
-- b) Eine oder mehrere weitere Anzahlungen erfolgen monatlich im Anschluss an die erste Anzahlung und entsprechen 130 % des monatlichen Mietzinses ohne Nebenkosten oder der monatlich geschuldeten Hypothekarzinsen bis die Behörden die Schliessungsanordnung aufheben.
-- c) Die Restzahlung erfolgt nach der Wiedereröffnung gestützt auf eine Abrechnung. Sie entspricht einem Prozentsatz des effektiven monatlichen Umsatzrückgangs während der Dauer der Schliessung, von dem der Anteil der Anzahlungen nach Buchstaben a und b abgezogen wird, der über dem effektiven Mietzins ohne Nebenkosten oder den effektiven Hypothekarzinsen liegt. Ebenfalls abgezogen werden 75 % der allfälligen Entschädigungsleistungen einer Versicherung, die das Risiko deckt, auf das sich die vorliegende Unterstützung bezieht.
+- a) Eine erste Anzahlung pro rata temporis entsprechend der Dauer der angeordneten Schliessung im Umfang von 130 % des für diesen Zeitraum geschuldeten Miet- oder Pachtzinses ohne Nebenkosten oder der entsprechenden Hypothekarzinsen. Davon abgezogen werden die für den gleichen Zeitraum bereits gezahlten Beiträge gemäss BMSV-COVID-19.
+- b) Eine oder mehrere weitere Anzahlungen im Anschluss an die erste Anzahlung, die 100 bis 130 % des monatlichen Miet- oder Pachtzinses ohne Nebenkosten oder der monatlich geschuldeten Hypothekarzinsen oder einem Teil des belegten Umsatzrückgangs entsprechen, bis die Behörden die Schliessungsanordnung aufheben.
+- c) Die Restzahlung nach der Wiedereröffnung gestützt auf eine Abrechnung. Ihr Betrag entspricht dem monatlichen Miet- oder Pachtzins ohne Nebenkosten oder den Hypothekarzinsen und einem Prozentsatz des effektiven monatlichen Umsatzrückgangs während der Dauer der Schliessung, von dem die Anzahlungen nach Buchstaben a und b und 75 % der allfälligen Entschädigungsleistungen einer Versicherung, die das Risiko deckt, auf das sich die vorliegende Unterstützung bezieht, abgezogen werden.
 
-<sup>3a</sup> Eine zusätzliche Anzahlung im Umfang von 11 % des effektiven Umsatzrückgangs zwischen November 2020 und Ende Januar 2021 kann den Unternehmen gewährt werden, die Beiträge im Sinne von Artikel 4a KWPV-Gastro-COVID-19 erhalten haben.
+<sup>3a</sup> …
 
 <sup>4</sup> Der anrechenbare monatliche Miet- oder Pachtzins beträgt höchstens 40'000 Franken.
 
-<sup>5</sup> Das Unternehmen kann aufgrund seiner Lage auf den Zuschlag verzichten, mit dem die Anzahlungen gemäss Absatz 3 Bst. a und b versehen werden.
+<sup>5</sup> Das Unternehmen kann aufgrund seiner Lage auf die Anzahlungen gemäss Absatz 3 Bst. a und b ganz oder teilweise verzichten.
 
 <sup>6</sup> Der Prozentsatz des effektiven monatlichen Umsatzrückgangs nach Absatz 3 Bst. c wird je nach Branche wie folgt festgelegt:
 
 - a) 20 % für die Gastronomie;
 - b) 15 % für Sport, Unterhaltung und Erholung unter Vorbehalt von Artikel 10 Abs. 1;
-- c) 7,5 % für den Detailhandel;
+- c) 10 % für den Detailhandel;
 - d) 10 % für die anderen Branchen.
 
 #### Art. 13b
@@ -291,19 +314,21 @@ beschliesst:
 
 <sup>1a</sup> Unternehmen, die Beiträge nach BMSV-COVID-19 oder KWPV-Gastro-COVID-19 erhalten haben, müssen den in Absatz 1 verlangten Umsatzrückgang nicht nachweisen.
 
+<sup>1b</sup> Unternehmen, die eine Spartenrechnung für klar abgrenzbare Tätigkeitsbereiche vorlegen können, müssen den in Absatz 1 verlangten Umsatzrückgang nicht nachweisen.
+
 <sup>2</sup> Im Übrigen gelten die Anforderungen von Artikel 13a.
 
 #### Art. 13c
 
 **Finanzierung der Fixkosten – Ausnahmen**
 
-<sup>1</sup> Betriebe und öffentliche Gaststätten mit einem Patent im Sinne des Gesetzes über die öffentlichen Gaststätten (ÖGG), die nach dem 1. März 2020 gegründet wurden und denen bereits ein Beitrag nach BMSV-COVID-19 oder KWPV-Gastro-COVID-19 ausgezahlt wurde, können einen ausserordentlichen Pauschalbeitrag erhalten, der dem Miet- oder Pachtzins für einen Monat oder den für einen Monat geschuldeten Hypothekarzinsen entspricht. Die Beträge, die bereits gestützt auf die genannten Verordnungen ausgezahlt wurden, werden davon nicht abgezogen. Der Pauschalbeitrag wird für jeden Monat der Schliessung ab dem 1. Februar 2021 bis zur behördlich erlaubten vollständigen Wiedereröffnung gewährt.
+<sup>1</sup> Betriebe und öffentliche Gaststätten mit einem Patent im Sinne des Gesetzes über die öffentlichen Gaststätten (ÖGG), die nach dem 1. Oktober 2020 gegründet wurden und denen bereits ein Beitrag nach BMSV-COVID-19 oder KWPV-Gastro-COVID-19 ausgezahlt wurde, können einen ausserordentlichen Pauschalbeitrag erhalten, der einem monatlichen Miet- oder Pachtzins oder den für einen Monat geschuldeten Hypothekarzinsen entspricht. Die Beträge, die bereits gestützt auf die genannten Verordnungen ausgezahlt wurden, werden davon nicht abgezogen. Der Pauschalbeitrag wird für jeden Monat der Schliessung ab dem 1. Februar 2021 bis zur behördlich erlaubten vollständigen Wiedereröffnung gewährt.
 
 #### Art. 14
 
-**Berücksichtigung der Vermögens- und Kapitalsituation des Unternehmens und seiner wichtigsten wirtschaftlich Berechtigten**
+**Berücksichtigung der Vermögens- und Kapitalsituation des Unternehmens**
 
-<sup>1</sup> Die Form des Härtefallbeitrags hängt vom Vermögen des Unternehmens und seiner wichtigsten wirtschaftlich Berechtigten ab.
+<sup>1</sup> Die Form des Härtefallbeitrags hängt vom Vermögen des Unternehmens ab.
 
 <sup>2</sup> Bei Kapitalgesellschaften wird der A-fonds-perdu-Beitrag um die am 31. Dezember 2019 verfügbaren Eigenmittel (d. h. Rücklagen, Gewinnvortrag und Aktien- oder Stammkapital) gekürzt, die 500'000 Franken übersteigen. Der Betrag der Kürzung kann als Darlehen gewährt werden.
 
@@ -313,17 +338,17 @@ beschliesst:
 
 <sup>5</sup> Falls die nachweislich vorhandenen stillen Reserven den berechneten Beitrag übersteigen, wird der Beitrag in Form eines zinslosen Darlehens oder einer Bürgschaft gewährt.
 
-<sup>6</sup> Falls die steuerliche Situation der wichtigsten wirtschaftlich Berechtigten, die mehr als einen Drittel der Vermögenswerte der Gesellschaft halten, eine Finanzkraft belegt, die über dem berechneten A-fonds-perdu-Beitrag liegt, wird der Beitrag in Form eines zinslosen Darlehens oder einer Bürgschaft gewährt.
+<sup>6</sup> …
 
-<sup>7</sup> Bei der Bestimmung der steuerlichen Situation der wirtschaftlich Berechtigten wird der Wert der Beteiligungen am gesuchstellenden Unternehmen nicht berücksichtigt. Die steuerliche Situation wird nach Abzug eines Freibetrags von 750'000 Franken berücksichtigt.
+<sup>7</sup> …
 
 #### Art. 15
 
 **Höchstbetrag**
 
-<sup>1</sup> Die finanzielle Unterstützung, die sich aus der vorliegenden Härtefallhilfe unabhängig von ihrer Form gemäss Artikel 1 Abs. 2 und aus den bereits ausgezahlten Beiträgen nach BMSV-COVID-19 und KWPV-Gastro-COVID-19 zusammensetzt, beläuft sich pro Unternehmen auf höchstens 20 % des durchschnittlichen Umsatzes der Jahre 2018 und 2019, höchstens jedoch auf 750'000 Franken pro Unternehmen für die gesamte Dauer gemäss Artikel 16.
+<sup>1</sup> Die finanzielle Unterstützung, die sich aus der vorliegenden Härtefallhilfe unabhängig von ihrer Form gemäss Artikel 1 Abs. 2 und aus den bereits ausgezahlten Beiträgen nach BMSV-COVID-19 und KWPV-Gastro-COVID-19 zusammensetzt, beläuft sich pro Unternehmen auf höchstens 20 % des durchschnittlichen Umsatzes der Jahre 2018 und 2019, höchstens jedoch auf 1 Million Franken pro Unternehmen für die gesamte Dauer gemäss Artikel 16.
 
-<sup>1a</sup> Der Kanton kann den maximalen Beitrag nach Absatz 1 ausnahmsweise auf höchstens 1,5 Millionen Franken erhöhen, wenn die Eigentümer zusätzliches Eigenkapital einbringen oder Fremdkapitalgeber auf ihre Forderungen verzichten. Das zusätzliche Eigenkapital und der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Beitrag entsprechen.
+<sup>1a</sup> …
 
 <sup>1b</sup> Der Beitrag darf unabhängig von seiner Form und vom angewendeten Verfahren grundsätzlich den im Beitragszeitraum nachgewiesenen finanziellen Verlust (d. h. den Betriebsverlust, der dem Nettoergebnis vor Steuern und Abschreibungen entspricht) nicht übersteigen.
 
@@ -337,13 +362,15 @@ beschliesst:
 
 <sup>2</sup> Für Unternehmen, die ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 auf Anordnung der Bundes- oder Kantonsbehörden für mindestens 40 Tage schliessen mussten oder müssen, werden die Massnahmen für die Dauer der angeordneten Schliessung gewährt, längsten jedoch bis am 30. Juni 2021.
 
-<sup>3</sup> Der gesamte Unterstützungszeitraum darf 12 Monate nicht überschreiten.
+<sup>2a</sup> Wurde eine teilweise Öffnung im Bereich der Gastronomie behördlich erlaubt (Nutzung der Aussenbereiche), so bleibt Absatz 2 gültig.
+
+<sup>3</sup> Der gesamte Unterstützungszeitraum darf fünfzehn Monate nicht überschreiten.
 
 #### Art. 16a
 
-**Ausnahme – Grosse Bedeutung oder Systemrelevanz**
+**Ausnahme - grosse Bedeutung oder Systemrelevanz**
 
-<sup>1</sup> In besonderen Fällen, die für die Freiburger Wirtschaft von wesentlicher Bedeutung oder systemrelevant sind, kann der Staatsrat Ausnahmen von den Bedingungen der Gewährung, den Berechnungsgrundlagen und/oder der Dauer der Beiträge vorsehen.
+<sup>1</sup> In besonderen Fällen, die für die Freiburger Wirtschaft von wesentlicher Bedeutung oder systemrelevant sind, kann der Staatsrat Ausnahmen von den Gewährungsbedingungen, den Berechnungsgrundlagen und/oder der Beitragsdauer vorsehen.
 
 ## 4 Verfahren
 
@@ -418,7 +445,7 @@ beschliesst:
 
 **Betriebssparte**
 
-<sup>1</sup> Unternehmen, deren Tätigkeitsbereiche mittels Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen nach den Artikeln 5 Abs. 1 Bst. b und c, 6 Abs. 1 Bst. c, 11 Abs. 1 und 4 und 15 separat nach Betriebssparte beurteilt werden.
+<sup>1</sup> Unternehmen, deren Tätigkeitsbereiche mittels Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen nach den Artikeln 5 Abs. 1 Bst. c, 6 Abs. 1 Bst. c, 11 Abs. 1 und 4 und Artikel 15 separat nach Betriebssparte beurteilt werden.
 
 <sup>2</sup> In diesem Fall ist Artikel 10 Abs. 1 auf jeden Tätigkeitsbereich einzeln anwendbar.
 
@@ -426,20 +453,32 @@ beschliesst:
 
 <sup>4</sup> Unternehmen, die weniger als 50 % ihres Gesamtumsatzes im Kulturbereich erwirtschaften, können ein Gesuch um Härtefallhilfe im Sinne dieser Verordnung stellen.
 
+#### Art. 17d
+
+**Unternehmen mit einem Umsatz über 5 Millionen Franken**
+
+<sup>1</sup> Für Unternehmen mit einem durchschnittlichen Jahresumsatz über 5 Millionen Franken im Sinne von Artikel 5 Abs. 1 Bst. b gelten die Anforderungen des Bundes und insbesondere Artikel 12 des COVID-19-Gesetzes des Bundes und Artikel 8b der COVID-19-Härtefallverordnung des Bundes für die Anerkennung als Härtefall, die Berechnung der Beiträge, die geltenden Höchstgrenzen, die Eigenleistung, die Gewinnbeteiligung, die Belege und die Bewirtschaftung von Darlehen, Garantien oder Bürgschaften.
+
+<sup>2</sup> Das Amt ist dafür zuständig, die entsprechenden Gesuche ohne Ausnahmen in strikter Anwendung der Bundesvorschriften zu bearbeiten.
+
+<sup>3</sup> Die Artikel 20 bis 26 bleiben vorbehalten.
+
 #### Art. 18
 
 **Fristen**
 
-<sup>1</sup> Gesuche im ordentlichen Verfahren im Sinne von Artikel 17 müssen eingereicht werden bis am:
+<sup>1</sup> Gesuche im ordentlichen Verfahren im Sinne von Artikel 17 müssen innerhalb von drei Monaten nach dem Quartal eingereicht werden, auf das sich das Gesuch bezieht.
 
 - a) …
-- b) 31. März 2021 für das zweite, dritte und vierte Quartal 2020; Das Unternehmen kann ein einziges Gesuch für die ganze Unterstützungsperiode 2020 stellen;
-- c) 30. Juni 2021 für das erste Quartal 2021;
-- d) 30. September 2021 für das zweite Quartal 2021;
+- b) …
+- c) …
+- d) …
 
 <sup>2</sup> Ein Erstgesuch im Sinne von Artikel 17 Abs. 1 kann für jeden Zeitraum nach vorangehendem Absatz eingereicht werden.
 
 <sup>3</sup> Gesuche im erleichterten Verfahren im Sinne von Artikel 17a müssen bis am 30. Juni 2021 eingereicht werden.
+
+<sup>4</sup> Für Unternehmen die ein Gesuch im ordentlichen Verfahren für einen Zeitraum stellen, der auf eine Härtefallhilfe im erleichterten Verfahren folgt, gilt die Frist nach Absatz 1 ab Empfang der Schlussabrechnung gemäss Artikel 13a Abs. 3 Bst. c.
 
 #### Art. 19
 
@@ -489,11 +528,13 @@ beschliesst:
 
 <sup>1</sup> Das Amt überwacht gemäss Artikel 36 Abs. 1 SubG die Bearbeitung der Gesuche und die Zahlung der Beiträge.
 
-<sup>2</sup> Wurde ein Betrag zu Unrecht ausgezahlt, so fordert der Staat den Betrag gestützt auf Artikel 37 SubG ganz oder teilweise zurück.
+<sup>2</sup> Die gemäss Artikel 19 zuständige Behörde kann gestützt auf Artikel 37 SubG den Entscheid über die Gewährung widerrufen, den öffentlich-rechtlichen Vertrag über ein Darlehen und/oder eine Bürgschaft kündigen, die Entschädigung oder die Subvention kürzen und/oder die zu Unrecht ausgezahlten Beiträge ganz oder teilweise zurückfordern.
 
 <sup>3</sup> Im Übrigen gelten die Strafbestimmungen gemäss Artikel 41 SubG.
 
-<sup>4</sup> Das Finanzinspektorat kann jederzeit, auch nach der Zahlung der Beiträge, Kontrollen durchführen.
+<sup>4</sup> Das Finanzinspektorat kann jederzeit, auch nach der Zahlung der Beiträge, Kontrollen durchführen. Dasselbe gilt für die Behörden, welche die Einhaltung der Massnahmen zum Schutz der Gesundheit und/oder der öffentlichen Sicherheit kontrollieren.
+
+<sup>5</sup> Sind die Massnahmen administrativer Art, richtet sich das Verfahren nach dem Gesetz über die Verwaltungsrechtspflege, sind sie strafrechtlicher Art, richtet sich das Verfahren mit Verweis auf das Justizgesetz nach der Schweizerischen Strafprozessordnung.
 
 #### Art. 22
 
@@ -521,7 +562,7 @@ beschliesst:
 
 <sup>1</sup> Die Pflichten des begünstigten Unternehmens, der Widerruf des Entscheids und die Rückerstattung des Beitrags richten sich nach dem SubG.
 
-<sup>2</sup> Falls die gesamte Unterstützung den tatsächlichen finanziellen Verlust im Sinne von Artikel 15 Abs. 1b übersteigt (Überentschädigung), kann die Rückerstattung der finanziellen Unterstützung verlangt werden, unabhängig davon, ob sie als Individualbeitrag oder als Entschädigung gilt.
+<sup>2</sup> Falls die gesamte Unterstützung den im Unterstützungszeitraum tatsächlich verzeichneten finanziellen Verlust im Sinne von Artikel 15 Abs. 1b übersteigt (Überentschädigung), kann die Rückerstattung der finanziellen Unterstützung verlangt werden, unabhängig davon, ob sie als Individualbeitrag oder als Entschädigung gilt.
 
 <sup>3</sup> Dasselbe gilt, falls die Bedingungen dieser Verordnung sowie des COVID-19-Gesetzes des Bundes und seiner Ausführungsverordnung nicht erfüllt sind oder sich die eingereichten Informationen als unrichtig oder falsch erweisen.
 
@@ -540,6 +581,16 @@ beschliesst:
 <sup>3</sup> Im ordentlichen Verfahren eingereichte Gesuche im Sinne von Artikel 17 werden nach diesem Verfahren bearbeitet, sofern sie die Bedingungen für die Gewährung von Beiträgen erfüllen.
 
 <sup>4</sup> Die im Rahmen von Artikel 4a KWPV-Gastro-COVID-19 eingereichten Gesuche werden von Amtes wegen nach dem erleichterten Verfahren im Sinne von Artikel 17a bearbeitet. Vorbehalten bleibt ein neues Gesuch im ordentlichen Verfahren.
+
+#### Art. 24b
+
+**Übergangsrecht über die Änderung vom 4. Mai 2021**
+
+<sup>1</sup> Die am 4. Mai 2021 geänderten oder eingeführten Bestimmungen dieser Verordnung gelten für alle neuen und bei Inkrafttreten der Änderungen hängigen Gesuche. Die am 1. April 2021 in Kraft getretenen Änderungen des Bundesrechts bleiben vorbehalten.
+
+<sup>2</sup> Bei Unternehmen, für die neu in Anwendung von Artikel 17d die Bestimmungen des Bundes gelten, die aber bereits einen Beitrag gestützt auf diese Verordnung erhalten haben, wird das Gesuch anhand der Daten des ersten Halbjahres 2021 neu geprüft.
+
+<sup>3</sup> Die Entscheide werden von Amtes wegen oder auf Antrag des Unternehmens revidiert. Bei Bedarf verlangt das Amt zusätzliche Unterlagen.
 
 #### Art. 25
 
