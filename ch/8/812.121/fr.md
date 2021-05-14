@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 octobre 1951 sur les stupéfiants et les substances 
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: fr
-version: 2020-02-01
+version: 2021-05-15
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20200201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/fr/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20200201/fr"
 
 (Loi sur les stupéfiants, LStup)**[^t-1]**
 
-du 3 octobre 1951 (Etat le 1<sup>er</sup> février 2020)
+du 3 octobre 1951 (Etat le 15 mai 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1**996** ([RO 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1249](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -372,15 +372,29 @@ Les stupéfiants indiqués ci-après ne peuvent être ni cultivés, ni importés
 [^8-5]: Abrogé par le ch. I de la LF du 20 mars 1975, avec effet au 1<sup>er</sup> août 1975 ([RO 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [FF 1973 I 1303](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^8-6]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-7]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-8]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** 1321). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-9]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** 1321). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-10]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** 1321). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-8]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-9]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-10]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 8a
 
-[^8a-1]
+**Essais pilotes**[^8a-1]
 
-[^8a-1]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** 1321). Abrogé par le ch. I de la LF du 20 mars 2008, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+<sup>1</sup>
+
+Après audition des cantons et des communes concernés, l’Office fédéral de la santé publique peut autoriser des essais pilotes scientifiques impliquant des stupéfiants ayant des effets de type cannabique, qui:
+
+- a. sont limités dans l’espace, dans le temps et dans leur objet;
+- b. permettent d’acquérir des connaissances concernant l’effet de nouvelles réglementations sur l’utilisation de ces stupéfiants à des fins non médicales et concernant la façon dont évolue l’état de santé des participants;
+- c. sont menés de manière à assurer la protection de la santé et de la jeunesse, la protection de l’ordre public et la sécurité publique, et
+- d. concernent si possible des produits cannabiques d’origine suisse et correspondant aux normes de l’agriculture biologique suisse.
+
+<sup>2</sup> Le Conseil fédéral fixe les conditions de la réalisation des essais pilotes. Dans ce cadre, il peut déroger aux art. 8, al. 1, let. d, et 5, 11, 13, 19, al. 1, let. f, et 20, al. 1, let. d et e.
+
+<sup>3</sup> Les stupéfiants ayant des effets de type cannabique qui sont remis dans le cadre des essais pilotes ne sont pas soumis à l’impôt sur le tabac tel qu’il est défini à l’art. 4 de la loi fédérale du 21 mars 1969 sur l’imposition du tabac[^8a-2].
+
+[^8a-1]: Introduit par le ch. I de l’AF du 9 oct. 1998 sur la prescription médicale d’héroïne ([RO 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 II 1321](https://fedlex.data.admin.ch/eli/fga/1998/2__1321_)). Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur du 15 mai 2021 au 14 mai 2031 ([RO 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [FF 2019 2497](https://fedlex.data.admin.ch/eli/fga/2019/721)).
+[^8a-2]: [RS 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
 
 ### Section 2 Professions médicales
 
@@ -514,7 +528,7 @@ Pour toute livraison de stupéfiants, un bulletin doit être établi et remis au
 <sup>5</sup> Le Conseil fédéral édicte des dispositions sur la détention et la désignation des stupéfiants ainsi que sur la réclame faite à leur sujet et les indications figurant dans les prospectus d’emballage.[^17-4]
 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1970 ([RO 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 784](https://fedlex.data.admin.ch/eli/fga/1968/1_757_784_977)).
-[^17-2]: Nouvelle teneur selon l’annexe ch. II 3 de la loi du 15 déc. 2000 sur les produits thérapeutiques, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); FF **1999** 3151).
+[^17-2]: Nouvelle teneur selon l’annexe ch. II 3 de la loi du 15 déc. 2000 sur les produits thérapeutiques, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); [FF 1999 III 3151](https://fedlex.data.admin.ch/eli/fga/1999/1_3453_3151_2959)).
 [^17-3]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^17-4]: Introduit par le ch. I de la LF du 18 déc. 1968, en vigueur depuis le 1<sup>er</sup> janv. 1970 ([RO 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [FF 1968 I 784](https://fedlex.data.admin.ch/eli/fga/1968/1_757_784_977)).
 
@@ -628,7 +642,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 <sup>4.</sup> Lorsque l’auteur sera victime d’une dépendance aux stupéfiants, le juge pourra ordonner son renvoi dans une maison de santé. L’art. 44 du code pénal suisse[^19a-3] est applicable par analogie.
 
 [^19a-1]: Introduit par le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [FF 1973 I 1303](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
-[^19a-2]: Nouvelle expression selon l’annexe ch. 3 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le texte.
+[^19a-2]: Nouvelle expression selon l’annexe ch. 3 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 1999 II 1787](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)). Il a été tenu compte de cette mod. dans tout le texte.
 [^19a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement "les art. 60 et 63".
 
 #### Art. 19b
@@ -706,7 +720,7 @@ Est puni d’une amende celui qui, intentionnellement ou par négligence:
 <sup>2</sup> Le fonctionnaire chargé de combattre le trafic illicite de stupéfiants qui, à des fins d’enquête, accepte une offre de stupéfiants n’est pas punissable même s’il ne dévoile pas son identité et sa fonction.[^23-2]
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [FF 1973 I 1303](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
-[^23-2]: Nouvelle teneur selon l’art. 24 ch. 2 de la LF du 20 juin 2003 sur l’investigation secrète, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); FF **1998** 3689).
+[^23-2]: Nouvelle teneur selon l’art. 24 ch. 2 de la LF du 20 juin 2003 sur l’investigation secrète, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [FF 1998 IV 3689](https://fedlex.data.admin.ch/eli/fga/1998/4__3689_)).
 
 #### Art. 24
 

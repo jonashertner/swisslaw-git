@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 1951 on Narcotics and Psychotropic Substances (
 short: NarcA
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: en
-version: 2020-02-01
+version: 2021-05-15
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20200201/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20200201-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20200201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/en/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Narcotics Act, NarcA)**[^t-1]**
 
-of 3 October 1951 (Status as of 1 February 2020)
+of 3 October 1951 (Status as of 15 May 2021)
 
 [^t-1]: Title amended by No I of the FA of 24 March 1995, in force since 1 July 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -376,9 +376,23 @@ The following narcotics may not be cultivated, imported, produced or placed on t
 
 #### Art. 8a
 
-[^8a-1]
+**Pilot trials**[^8a-1]
 
-[^8a-1]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Repealed by No I of the FA of 20 March 2008, with effect from 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+<sup>1</sup>
+
+After consulting the cantons and communes concerned, the Federal Office of Public Health may authorise scientific pilot trials involving narcotics containing an effective concentration of cannabinoids:
+
+- a. that are limited in terms of location, time and subject matter;
+- b. that allow findings to made on the impact of new regulations on the use of these narcotics for non-medical purposes and on the health of participants;
+- c. that are conducted so as to ensure the protection of health and of minors, and the protection of public order and public safety; and
+- d. in which, if possible, cannabis products are used that are of Swiss origin and that comply with the rules of Swiss organic farming.
+
+<sup>2</sup> The Federal Council shall regulate the requirements for conducting the pilot trials. In doing so, it may derogate from Articles 8 paragraphs 1 letter d and 5, 11, 13, 19 paragraph 1 letter f and 20 paragraph 1 letters d and e.
+
+<sup>3</sup> Narcotics containing an effective concentration of cannabinoids that are supplied in the course of the pilot trials are exempt from tobacco tax under Article 4 of the Tobacco Tax Act of 21 March 1969[^8a-2].
+
+[^8a-1]: Inserted by No I of the FD on the Medical Prescription of Heroin of 9 Oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Amended by No I of the FA of 25 Sept. 2020, in force from 15 May 2021 to 14 May 2031 ([AS 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [BBl 2019 2529](https://fedlex.data.admin.ch/eli/fga/2019/721)).
+[^8a-2]: [SR 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
 
 ### Section 2 Medical Professionals
 

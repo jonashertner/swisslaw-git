@@ -4,11 +4,11 @@ title: "Legge federale del 3 ottobre 1951 sugli stupefacenti e sulle sostanze ps
 short: LStup
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: it
-version: 2020-02-01
+version: 2021-05-15
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20200201/it/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20200201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/it/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20200201/it"
 
 (Legge sugli stupefacenti, LStup)**[^t-1]**
 
-del 3 ottobre 1951 (Stato 1° febbraio 2020)
+del 3 ottobre 1951 (Stato 15 maggio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° lug. 1996 ([RU 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [FF 1994 III 1137](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -367,15 +367,29 @@ I seguenti stupefacenti non possono essere coltivati, importati, fabbricati o me
 [^8-5]: Abrogato dal n. I della LF del 20 mar. 1975, con effetto dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 [^8-6]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
 [^8-7]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-8]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** 1161). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-9]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** 1161). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-10]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** 1161). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-8]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [FF 1998 I 1161](https://fedlex.data.admin.ch/eli/fga/1998/1_1607_1321_1161)). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-9]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-10]: Introdotto dal n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 8a
 
-[^8a-1]
+**Progetti pilota**[^8a-1]
 
-[^8a-1]: Introdotto giusta il n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** 1161). Abrogato dal n. I della LF del 20 mar. 2008, con effetto dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+<sup>1</sup>
+
+L’Ufficio federale della sanità pubblica, dopo avere consultato i Cantoni e i Comuni interessati, può autorizzare progetti pilota scientifici con stupefacenti che producono effetti del tipo della canapa, che:
+
+- a. sono limitati sotto il profilo territoriale, temporale e materiale;
+- b. permettono di acquisire conoscenze riguardo all’impatto di nuovi disciplinamenti sull’impiego di questi stupefacenti a scopi non medici e riguardo all’evoluzione dello stato di salute dei partecipanti;
+- c. sono svolti in modo tale da assicurare la protezione della salute e della gioventù, la protezione dell’ordine pubblico e la sicurezza pubblica; e
+- d. impiegano, se possibile, prodotti a base di canapa di origine svizzera, conformi alle norme dell’agricoltura biologica svizzera.
+
+<sup>2</sup> Il Consiglio federale disciplina le condizioni per lo svolgimento dei progetti pilota. A tale scopo può derogare agli articoli 8 capoversi 1 lettera d e 5, 11, 13, 19 capoverso 1 lettera f e 20 capoverso 1 lettere d ed e.
+
+<sup>3</sup> Gli stupefacenti che producono effetti del tipo della canapa dispensati nel quadro di progetti pilota sono esentati dall’imposta sul tabacco secondo l’articolo 4 della legge del 21 marzo 1969[^8a-2] sull’imposizione del tabacco.
+
+[^8a-1]: Introdotto giusta il n. I del DF del 9 ott. 1998 sulla prescrizione medica d’eroina ([RU 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); FF **1998** I1161). Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 15 mag. 2021 al 14 mag. 2031 ([RU 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [FF 2019 2187](https://fedlex.data.admin.ch/eli/fga/2019/721)).
+[^8a-2]: [RS 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
 
 ### Sezione 2: Professioni sanitarie
 
@@ -505,7 +519,7 @@ Per ogni fornitura di stupefacenti dev’essere allestito un bollettino di conse
 
 [^17-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 [^17-2]: Rettificato dalla Commissione di redazione dell’AF [art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
-[^17-3]: Nuovo testo giusta l’all. n. II 3 della LF del 15 dic. 2000 sugli agenti terapeutici, in vigore dal 1° gen. 2002 ([RU 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); FF **1999** 2959).
+[^17-3]: Nuovo testo giusta l’all. n. II 3 della LF del 15 dic. 2000 sugli agenti terapeutici, in vigore dal 1° gen. 2002 ([RU 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); [FF 1999 III 2959](https://fedlex.data.admin.ch/eli/fga/1999/1_3453_3151_2959)).
 [^17-4]: Nuovo testo giusta il n. I della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^17-5]: Introdotto dal n. I della LF del 18 dic. 1968, in vigore dal 1° gen. 1970 ([RU 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [FF 1968 I 489](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 
@@ -618,7 +632,7 @@ Il giudice può attenuare la pena secondo il suo libero apprezzamento:
 <sup>4.</sup> Se l’autore è tossicomane, il giudice può ordinare il collocamento in una casa di salute. L’articolo 44 del Codice penale svizzero[^19a-3] è applicabile per analogia.
 
 [^19a-1]: Introdotto dal n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
-[^19a-2]: Nuova espr. giusta l’all. n. 3 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^19a-2]: Nuova espr. giusta l’all. n. 3 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 1999 II 1669](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^19a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)**.** Ora gli art. 60 e 63.
 
 #### Art. 19b
@@ -696,7 +710,7 @@ Chiunque intenzionalmente istiga o tenta di istigare altri a consumare illecitam
 <sup>2</sup> Il funzionario incaricato di combattere il traffico illecito di stupefacenti che, a fini d’inchiesta, accetta un’offerta di stupefacenti non è punibile neppure qualora non riveli la sua identità e la sua funzione.[^23-2]
 
 [^23-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1975, in vigore dal 1° ago. 1975 ([RU 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); FF **1973** I 1106).
-[^23-2]: Nuovo testo giusta l’art. 24 n. 2. della LF del 20 giu. 2003 sull’inchiesta mascherata, in vigore dal 1° gen. 2005 ([RU 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); FF **1998** 3319).
+[^23-2]: Nuovo testo giusta l’art. 24 n. 2. della LF del 20 giu. 2003 sull’inchiesta mascherata, in vigore dal 1° gen. 2005 ([RU 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [FF 1998 III 3319](https://fedlex.data.admin.ch/eli/fga/1998/3___3319)).
 
 #### Art. 24
 

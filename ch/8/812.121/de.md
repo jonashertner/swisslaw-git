@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psy
 short: BetmG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: de
-version: 2020-02-01
+version: 2021-05-15
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20200201/de/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20200201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/de/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20200201/de"
 
 (Betäubungsmittelgesetz, BetmG)**[^t-1]**
 
-vom 3. Oktober 1951 (Stand am 1. Februar 2020)
+vom 3. Oktober 1951 (Stand am 15. Mai 2021)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Juli 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -116,7 +116,7 @@ Soweit das Gesetz nichts anderes vorsieht, gelten die Bestimmungen zu den Betäu
 
 <sup>2</sup> Der Bundesrat kann Betäubungsmittel von den Kontrollmassnahmen teilweise und – in bestimmter Konzentration oder Menge – ganz ausnehmen, wenn die zuständigen internationalen Organisationen (Vereinte Nationen, Weltgesundheitsorganisation) die Befreiung aufgrund eines auch von der Schweiz ratifizierten Abkommens beschliessen oder empfehlen.[^3-3]
 
-<sup>3</sup> …[^3-4]
+<sup>3</sup> ...[^3-4]
 
 <sup>4</sup> Für den Vollzug von Absatz 1, insbesondere für Informations- und Beratungsaufgaben, kann der Bundesrat private Organisationen beiziehen.[^3-5]
 
@@ -347,7 +347,7 @@ Die folgenden Betäubungsmittel dürfen weder angebaut, eingeführt, hergestellt
 - c. Halluzinogene wie Lysergid (LSD 25);
 - d.[^8-3] Betäubungsmittel des Wirkungstyps Cannabis.[^8-4]
 
-<sup>2</sup> …[^8-5]
+<sup>2</sup> ...[^8-5]
 
 <sup>3</sup> Der Bundesrat kann die Einfuhr, die Herstellung und das Inverkehrbringen weiterer Betäubungsmittel untersagen, wenn internationale Abkommen ihre Herstellung verbieten oder die wichtigsten Fabrikationsländer auf die Herstellung verzichten.[^8-6]
 
@@ -368,15 +368,29 @@ Die folgenden Betäubungsmittel dürfen weder angebaut, eingeführt, hergestellt
 [^8-5]: Aufgehoben durch Ziff. I des BG vom 20. März 1975, mit Wirkung seit 1. Aug 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^8-6]: Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-7]: Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-8]: Eingefügt durch Ziff. I des BB über die ärztliche Verschreibung von Heroin vom 9. Okt. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-9]: Eingefügt durch Ziff. I des BB über die ärztliche Verschreibung von Heroin vom 9. Okt. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^8-10]: Eingefügt durch Ziff. I des BB über die ärztliche Verschreibung von Heroin vom 9. Okt. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-8]: Eingefügt durch Ziff. I des BB über die ärztliche Verschreibung von Heroin vom 9. Okt. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [BBl 1998 II 1607](https://fedlex.data.admin.ch/eli/fga/1998/2_1607__)). Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-9]: Eingefügt durch Ziff. I des BB über die ärztliche Verschreibung von Heroin vom 9. Okt. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [BBl 1998 II 1607](https://fedlex.data.admin.ch/eli/fga/1998/2_1607__)). Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-10]: Eingefügt durch Ziff. I des BB über die ärztliche Verschreibung von Heroin vom 9. Okt. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [BBl 1998 II 1607](https://fedlex.data.admin.ch/eli/fga/1998/2_1607__)). Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 8a
 
-[^8a-1]
+**Pilotversuche**[^8a-1]
 
-[^8a-1]: Eingefügt durch Ziff. I des BB über die ärztliche Verschreibung von Heroin vom 9. Okt. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Aufgehoben durch Ziff. I des BG vom 20. März 2008, mit Wirkung seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+<sup>1</sup>
+
+Das Bundesamt für Gesundheit kann nach Anhörung der betroffenen Kantone und Gemeinden wissenschaftliche Pilotversuche mit Betäubungsmitteln des Wirkungstyps Cannabis bewilligen:
+
+- a. die örtlich, zeitlich und sachlich begrenzt sind;
+- b. die es erlauben, Erkenntnisse darüber zu gewinnen, wie sich neue Regelungen auf den Umgang mit diesen Betäubungsmitteln zu nicht medizinischen Zwecken auswirken und wie sich der gesundheitliche Zustand der Teilnehmer entwickelt;
+- c. die so durchgeführt werden, dass der Gesundheits- und Jugendschutz, der Schutz der öffentlichen Ordnung sowie die öffentliche Sicherheit gewährleistet sind; und
+- d. in denen wenn möglich Cannabisprodukte verwendet werden, die Schweizer Herkunft sind und den Regeln der Schweizer Biolandwirtschaft entsprechen.
+
+<sup>2</sup> Der Bundesrat regelt die Voraussetzungen für die Durchführung der Pilotversuche. Dabei kann er von den Artikeln 8 Absätze 1 Buchstabe d und 5, 11, 13, 19 Absatz 1 Buchstabe f und 20 Absatz 1 Buchstaben d und e abweichen.
+
+<sup>3</sup> Betäubungsmittel des Wirkungstyps Cannabis, die im Rahmen der Pilotversuche abgegeben werden, sind von der Tabaksteuer nach Artikel 4 des Tabaksteuergesetzes vom 21. März 1969[^8a-2] befreit.
+
+[^8a-1]: Eingefügt durch Ziff. I des BB über die ärztliche Verschreibung von Heroin vom 9. Okt. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); [BBl 1998 II 1607](https://fedlex.data.admin.ch/eli/fga/1998/2_1607__)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft vom 15. Mai 2021 bis zum 14. Mai 2031 ([AS 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [BBl 2019 2529](https://fedlex.data.admin.ch/eli/fga/2019/721)).
+[^8a-2]: [SR 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
 
 ### 2. Abschnitt: Medizinalpersonen
 
@@ -386,9 +400,9 @@ Die folgenden Betäubungsmittel dürfen weder angebaut, eingeführt, hergestellt
 
 <sup>2</sup> Die Befugnis nach Absatz 1 steht auch Medizinalpersonen und Studierenden von universitären Medizinalberufen zu, die mit Bewilligung der zuständigen kantonalen Behörde eine Medizinalperson in einem universitären Medizinalberuf vertreten.[^9-4]
 
-<sup>2</sup> *<sup>a</sup>* …[^9-5]
+<sup>2</sup> *<sup>a</sup>* ...[^9-5]
 
-<sup>3</sup> …[^9-6]
+<sup>3</sup> ...[^9-6]
 
 <sup>4</sup> Die Kantone können die Befugnis der Zahnärzte auf bestimmte Betäubungsmittel beschränken.
 
@@ -466,7 +480,7 @@ In den Apotheken darf die Abgabe von Betäubungsmitteln an das Publikum nur auf 
 
 <sup>2</sup> Der Bundesrat und die Kantone können die von ihnen erteilten Bewilligungen für bestimmte Zeit oder dauernd entziehen, sofern besondere Umstände es erfordern.
 
-### 4. Abschnitt: …****
+### 4. Abschnitt: ...****
 
 [^chap2-sec4-1]
 
@@ -509,7 +523,7 @@ Für jede Lieferung von Betäubungsmitteln ist ein Lieferschein zu erstellen und
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 1968, in Kraft seit 1. Jan. 1970 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 [^17-2]: Berichtigt von der Redaktionskommission der BVers [Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
-[^17-3]: Fassung gemäss Anhang Ziff. II 3 des Heilmittelgesetzes vom 15. Dez. 2000, in Kraft seit 1. Jan. 2002 ([AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); BBl **1999** 3453).
+[^17-3]: Fassung gemäss Anhang Ziff. II 3 des Heilmittelgesetzes vom 15. Dez. 2000, in Kraft seit 1. Jan. 2002 ([AS 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); [BBl 1999 III 3453](https://fedlex.data.admin.ch/eli/fga/1999/1_3453_3151_2959)).
 [^17-4]: Fassung gemäss Ziff. I des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^17-5]: Eingefügt durch Ziff. I des BG vom 18. Dez. 1968, in Kraft seit 1. Jan. 1970 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9)13; [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)).
 
@@ -622,7 +636,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer einer 
 <sup>4.</sup> Ist der Täter von Betäubungsmitteln abhängig, so kann ihn der Richter in eine Heilanstalt einweisen. Artikel 44 des Strafgesetzbuches[^19a-3] gilt sinngemäss.
 
 [^19a-1]: Eingefügt durch Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
-[^19a-2]: Ausdruck gemäss Anhang Ziff. 3 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^19a-2]: Ausdruck gemäss Anhang Ziff. 3 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [BBl 1999 II 1979](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 [^19a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Heute Art. 60 und 63.
 
 #### Art. 19b
@@ -700,7 +714,7 @@ Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig:
 <sup>2</sup> Der Beamte, der mit der Bekämpfung des unerlaubten Betäubungsmittelverkehrs beauftragt ist und zu Ermittlungszwecken selber ein Angebot von Betäubungsmitteln annimmt, bleibt straflos, auch wenn er seine Identität und Funktion nicht bekannt gibt.[^23-2]
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
-[^23-2]: Fassung gemäss Art. 24 Ziff. 2 des BG vom 20. Juni 2003 über die verdeckte Ermittlung, in Kraft seit 1. Jan. 2005 ([AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); BBl **1998** 4241).
+[^23-2]: Fassung gemäss Art. 24 Ziff. 2 des BG vom 20. Juni 2003 über die verdeckte Ermittlung, in Kraft seit 1. Jan. 2005 ([AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); [BBl 1998 IV 4241](https://fedlex.data.admin.ch/eli/fga/1998/4_4241__)).
 
 #### Art. 24
 

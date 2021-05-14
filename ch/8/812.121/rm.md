@@ -4,11 +4,11 @@ title: "Lescha federala dals 3 d'october 1951 davart ils narcotics e las substan
 short: LNarc
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/241_241_245"
 language: rm
-version: 2020-02-01
+version: 2021-05-15
 adopted: 1951-10-03
 in_force: 1952-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20200201/rm/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20200201-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20200201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/241_241_245/20210515/rm/xml/fedlex-data-admin-ch-eli-cc-1952-241_241_245-20210515-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/241_241_245/20210515/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha da narcotics, LNarc)**[^t-1]**
 
-dals 3 d’october 1951 (versiun dal 1. da favrer 2020)
+dals 3 d’october 1951 (versiun dals 15 da matg 2021)
 
 [^t-1]: Versiun dal titel tenor la cifra I da la LF dals 24 da mars 1995, en vigur dapi il 1. da fan. 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
@@ -77,7 +77,7 @@ La Confederaziun ed ils chantuns prevesan mesiras en ils suandants quatter sectu
 Per narcotics che vegnan duvrads sco medicaments valan las disposiziuns da la Lescha dals 15 da december 2000[^1b-2] davart ils products terapeutics. Las disposiziuns da questa lescha èn applitgablas, sche la Lescha davart ils products terapeutics na cuntegna naginas regulaziuns u sch’ella cuntegna ina regulaziun main extendida.
 
 [^1b-1]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^1b-2]: SR **81****2.21**
+[^1b-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 
 #### Art. 2
 
@@ -122,10 +122,10 @@ Uschenavant che la lescha na prevesa nagut auter, valan las disposiziuns davart 
 
 <sup>4</sup> Per exequir l’alinea 1, en spezial per incumbensas d’infurmaziun e da cussegliaziun, po il Cussegl federal consultar organisaziuns privatas.[^3-5]
 
-[^3-1]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 (AS **2****009** 2623, **2011** 2559; [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^3-1]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^3-2]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^3-3]: Versiun tenor la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
-[^3-4]: Integrà tras la cifra I da la LF dals 18 da dec. 1968 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)). Abolì tras la cifra I da la LF dals 20 da mars 2008, cun effect dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); BBl **20****06** 8573 8645).
+[^3-4]: Integrà tras la cifra I da la LF dals 18 da dec. 1968 ([AS 1970 9](https://fedlex.data.admin.ch/eli/oc/1970/9_9_9); [BBl 1968 I 737](https://fedlex.data.admin.ch/eli/fga/1968/1_737_765_489)). Abolì tras la cifra I da la LF dals 20 da mars 2008, cun effect dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^3-5]: Integrà tras la cifra I da la LF dals 24 da mars 1995, en vigur dapi il 1. da fan. 1996 ([AS 1996 1677](https://fedlex.data.admin.ch/eli/oc/1996/1677_1677_1677); [BBl 1994 III 1273](https://fedlex.data.admin.ch/eli/fga/1994/3_1273_1249_1137)).
 
 #### Art. 3a
@@ -170,7 +170,7 @@ Ils uffizis e las persunas spezialisadas dals secturs da l’educaziun, dals fat
 
 <sup>5</sup> Sch’ils uffizis e las persunas spezialisadas tenor l’alinea 1 vegnan a savair ch’ina persuna ch’è affidada ad els haja cuntrafatg a l’artitgel 19*a*, n’èn els betg obligads d’annunziar questa persuna.
 
-[^3c-1]: SR **311****.****0**
+[^3c-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^3c-2]: Rectifitgà da la Cumissiun da redacziun da l’AF ils 20 da favr. 2013, publitgà ils 4 d’avr. 2013 ([AS 2013 973](https://fedlex.data.admin.ch/eli/oc/2013/205)).
 
 ### 2. secziun Terapia e reintegraziun
@@ -205,7 +205,7 @@ Per il tractament cun prescripziun da heroin dovri ina permissiun da la Confeder
 - b. il heroin vegnia ordinà mo da medis spezialisads, e quai en instituziuns ch’èn adattadas per quest intent;
 - c. la realisaziun e l’andament dal tractament cun prescripziun da heroin vegnia examinà periodicamain.
 
-[^3e-1]: En vigur dapi il 1. da schan. 2010.
+[^3e-1]: En vigur dapi il 1. da schan. 2010 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352)).
 
 #### Art. 3f
 
@@ -224,7 +224,7 @@ Il Cussegl federal fixescha ils detagls, en spezial:
 - c. las circulaziuns da datas;
 - d. las autorisaziuns d’access.
 
-[^3f-1]: En vigur dapi il 1. da schan. 2010.
+[^3f-1]: En vigur dapi il 1. da schan. 2010 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352)).
 
 ### 3. secziun Reducziun da donns ed agid per surviver
 
@@ -363,11 +363,11 @@ Ils suandants narcotics na dastgan betg vegnir cultivads, importads, producids u
 
 <sup>8</sup> L’Uffizi federal da sanadad publica po conceder permissiuns excepziunalas, sche las substanzas tenor ils alineas 1 e 3 vegnan utilisadas per mesiras da cumbat.[^8-10]
 
-[^8-1]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), **201****1** 2559; [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^8-1]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-2]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-3]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-4]: Versiun tenor la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
-[^8-5]: Abolì tras la cifra I da la LF dals 20 da mars 1975, cun effect dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
+[^8-5]: Abolì tras la cifra I da la LF dals 20 da mars 1975, cun effect dapi il 1. d’avust 1975 (AS **1****975** 1220; [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^8-6]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-7]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^8-8]: Integrà tras la cifra I dal COF davart la prescripziun medicala da heroin dals 9 d’oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
@@ -376,9 +376,23 @@ Ils suandants narcotics na dastgan betg vegnir cultivads, importads, producids u
 
 #### Art. 8a
 
-[^8a-1]
+**Projects da pilot**[^8a-1]
 
-[^8a-1]: Integrà tras la cifra I dal COF davart la prescripziun medicala da heroin dals 9 d’oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Abolì tras la cifra I da la LF dals 20 da mars 2008, cun effect dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+<sup>1</sup>
+
+Suenter avair tadlà ils chantuns pertutgads e las vischnancas pertutgadas po l’Uffizi federal da sanadad publica permetter projects da pilot scientifics cun narcotics che han effects dal tip da cannabis, sche quests projects da pilot:
+
+- a. èn limitads areguard il lieu, areguard il temp ed areguard la materia;
+- b. permettan da survegnir enconuschientschas davart ils effects da novas regulaziuns sin il diever da quests narcotics per intents betg medicinals e davart il svilup dal stadi da sanadad dals participants;
+- c. vegnan realisads uschia, che la protecziun da la sanadad, da la giuventetgna e da l’urden public sco er la segirezza publica èn garantidas; e
+- d. dovran sche pussaivel products da cannabis che derivan da la Svizra e che correspundan a las reglas da l’agricultura biologica svizra.
+
+<sup>2</sup> Il Cussegl federal regla las premissas per realisar ils projects da pilot. Per quest intent po el divergiar dals artitgels 8 alinea 1 litera d, 5, 11, 13, 19 alinea 1 litera f e 20 alinea 1 literas d ed e.
+
+<sup>3</sup> Narcotics che han effects dal tip da cannabis e che vegnan consegnads en il rom dals projects da pilot èn liberads da la taglia sin il tubac tenor l’artitgel 4 da la Lescha dals 21 da mars 1969[^8a-2] davart l’imposiziun da taglia sin il tubac.
+
+[^8a-1]: Integrà tras la cifra I dal COF davart la prescripziun medicala da heroin dals 9 d’oct. 1998 ([AS 1998 2293](https://fedlex.data.admin.ch/eli/oc/1998/2293_2293_2293); BBl **1998** 1607). Versiun tenor la cifra I da la LF dals 25 da sett. 2020, en vigur dals 15 da matg 2021 fin ils 14 da matg 2031 ([AS 2021 216](https://fedlex.data.admin.ch/eli/oc/2021/216); [BBl 2019 2529](https://fedlex.data.admin.ch/eli/fga/2019/721)).
+[^8a-2]: [SR 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
 
 ### 2. secziun Persunas medicinalas
 
@@ -478,7 +492,7 @@ En las apotecas dastgan narcotics vegnir consegnads al public mo sin prescripziu
 
 [^15-1]
 
-[^15-1]: Abolì tras la cifra I da la LF dals 20 da mars 2008, cun effect dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); BBl **2****006** 8573 8645).
+[^15-1]: Abolì tras la cifra I da la LF dals 20 da mars 2008, cun effect dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 15a–15c
 
@@ -623,7 +637,7 @@ Cun in chasti da detenziun da fin 3 onns u cun in chasti pecuniar vegn chastià,
 
 <sup>4.</sup> Sch’il delinquent è dependent da narcotics, al po il derschader trametter en in institut da cura. L’artitgel 44 dal Cudesch penal[^19a-3] vala tenor il senn.
 
-[^19a-1]: Integrà tras la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); BBl **19****73** I 1348).
+[^19a-1]: Integrà tras la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^19a-2]: Noziun tenor la cifra 3 da l’agiunta da la LF dals 13 da dec. 2002, en vigur dapi il 1. da schan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979). Questa midada è resguardada en l’entir decret.
 [^19a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)**.** Oz art. 60 e 63.
 
@@ -715,7 +729,7 @@ Cun ina multa vegn chastià, tgi che violescha intenziunadamain u per negligient
 [^24-1]: Versiun tenor la cifra I da la LF dals 20 da mars 1975, en vigur dapi il 1. d’avust 1975 ([AS 1975 1220](https://fedlex.data.admin.ch/eli/oc/1975/1220_1220_1220); [BBl 1973 I 1348](https://fedlex.data.admin.ch/eli/fga/1973/1_1348_1303_1106)).
 [^24-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^24-3]: Versiun da la segunda frasa tenor la cifra II 27 da l’agiunta 1 dal CPP dals 5 d’oct. 2007, en vigur dapi il 1. da schan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^24-4]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), **2****011** 2559; [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^24-4]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 25
 
@@ -737,7 +751,7 @@ Las disposiziuns generalas dal Cudesch penal[^26-1] vegnan applitgadas per quant
 
 <sup>2</sup> Las disposiziuns penalas da la Lescha da dazi dals 18 da mars 2005[^27-5] e da l’Ordinaziun dals 29 da mars 2000[^27-6] tar la Lescha federala davart la taglia sin la plivalur na vegnan betg applitgadas en cas d’import, d’export u da transit nunautorisà da narcotics tenor l’artitgel 19.
 
-[^27-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 (AS **2****009** 2623, **2011** 2559; [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^27-1]: Versiun tenor la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 [^27-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^27-3]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^27-4]: Versiun tenor la cifra II 4 da l’agiunta da la L da victualias dals 20 da zer. 2014, en vigur dapi il 1. da matg 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
@@ -770,13 +784,13 @@ Las disposiziuns generalas dal Cudesch penal[^26-1] vegnan applitgadas per quant
 Cuntravenziuns tenor ils artitgels 20 fin 22, che vegnan constatadas da l’autoritad federala cumpetenta en il sectur executiv da la Confederaziun, vegnan persequitadas e giuditgadas da l’autoritad federala. Per la procedura vala la Lescha federala dals 22 da mars 1974[^28a-2] davart il dretg penal administrativ.
 
 [^28a-1]: Integrà tras la cifra I da la LF dals 20 da mars 2008, en vigur dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
-[^28a-2]: SR **31****3.0**
+[^28a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 28b–28l
 
 [^28b28l-1]
 
-[^28b28l-1]: Integrà tras la cifra I da la LF dals 28 da sett. 2012 ([AS 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [BBl 2011 8195](https://fedlex.data.admin.ch/eli/fga/2011/1437)[8221](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Abolì tras la cifra II 3 da l’agiunta da la LF dals 18 da mars 2016 davart las multas disciplinaras, cun effect dapi il 1. da schan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), **20****19** 527; [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
+[^28b28l-1]: Integrà tras la cifra I da la LF dals 28 da sett. 2012 ([AS 2013 1451](https://fedlex.data.admin.ch/eli/oc/2013/334); [BBl 2011 8195](https://fedlex.data.admin.ch/eli/fga/2011/1437)[8221](https://fedlex.data.admin.ch/eli/fga/2011/1439)). Abolì tras la cifra II 3 da l’agiunta da la LF dals 18 da mars 2016 davart las multas disciplinaras, cun effect dapi il 1. da schan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
 ## 5. chapitel**** Incumbensas dals chantuns e da la Confederaziun
 
@@ -870,7 +884,7 @@ Ils chantuns decreteschan las prescripziuns ch’èn necessarias per exequir il 
 
 <sup>2</sup> Tenor las disposiziuns da la Lescha federala dals 7 d’october 1994[^29e-1] davart ils Posts centrals da polizia criminala federala han ils chantuns da communitgar a temp a l’Uffizi federal da polizia mintga persecuziun penala ch’è vegnida introducida pervia d’ina cuntravenziun cunter questa lescha. Las infurmaziuns correspundentas vegnan da princip tramessas sin via electronica u endatadas directamain en ils sistems d’elavuraziun da datas da l’Uffizi federal da polizia. Il Cussegl federal regla ils detagls.
 
-[^29e-1]: SR **3****60**
+[^29e-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 
 ## 6. chapitel Disposiziuns finalas
 
@@ -902,7 +916,7 @@ Ils chantuns decreteschan las prescripziuns ch’èn necessarias per exequir il 
 
 [^36-1]
 
-[^36-1]: Abolì tras la cifra I da la LF dals 20 da mars 2008, cun effect dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^36-1]: Abolì tras la cifra I da la LF dals 20 da mars 2008, cun effect dapi il 1. da fan. 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), **201****1** 2559; [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
 #### Art. 37
 
