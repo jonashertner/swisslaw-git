@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 14 ottobre 2019 sull'attuazione della compensazion
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: it
-version: 2021-03-15
+version: 2021-05-15
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20210315-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20210515/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20210515-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210515/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210315/it"
 
 (OCoR-DFI)
 
-del 14 ottobre 2019 (Stato 15 marzo 2021)
+del 14 ottobre 2019 (Stato 15 maggio 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -96,5 +96,5 @@ Allegato*[^t-1]*
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DFI del 22 gen. 2021, in vigore dal 15 mar. 2021 ([RU 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
-[^annexu1-lvlu1-1]: L’elenco dei PCG non è pubblicato nella RU. Può essere consultato all’indirizzo www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Assicuratori e vigilanza &gt; Compensazione dei rischi. Fa stato la versione del 22 gen. 2021.
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 15 apr. 2021, in vigore dal 15 mag. 2021 ([RU 2021 230](https://fedlex.data.admin.ch/eli/oc/2021/230)).
+[^annexu1-lvlu1-1]: L’elenco dei PCG non è pubblicato nella RU. Può essere consultato all’indirizzo www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Assicuratori e vigilanza &gt; Compensazione dei rischi. Fa stato la versione del 15 apr. 2021.
