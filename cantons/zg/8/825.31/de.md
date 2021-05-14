@@ -3,24 +3,24 @@ canton: ZG
 number: "825.31"
 title: Vollziehungsverordnung zum Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen
 language: de
-version: 2020-12-24
-valid_until: 2021-05-14
-version_adopted: 2020-12-23
+version: 2021-05-15
+valid_until: 2024-12-31
+version_adopted: 2021-05-11
 adopted: 1980-07-08
 in_force: 1980-08-14
 url: "https://bgs.zg.ch/app/de/texts_of_law/825.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2203/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2233/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollziehungsverordnung zum Bundesgesetz über die Bekämpfung übertragbarer Krankheiten des Menschen
 
-Vom 8. Juli 1980 (Stand 24. Dezember 2020)
+Vom 8. Juli 1980 (Stand 15. Mai 2021)
 
 Der Regierungsrat des Kantons Zug,
 
-in Vollziehung des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen vom 18. Dezember 1970[^ingress-1] (nachfolgend Epidemiengesetz genannt) sowie der bundesrätlichen Verordnungen, von Art. 6 und Art. 10 Bst. b des Bundesgesetzes betreffend Massnahmen gegen die Tuberkulose vom 13. Juni 1928[^ingress-2] (nachfolgend Tuberkulosegesetz genannt) und von § 5 Abs. 3 Bst. c – e sowie §§ 55 – 59 des Gesetzes über das Gesundheitswesen im Kanton Zug vom 30. Oktober 2008[^ingress-3],
+in Vollziehung des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen vom 18. Dezember 1970[^ingress-1] (nachfolgend Epidemiengesetz genannt) sowie der bundesrätlichen Verordnungen, von Art. 6 und Art. 10 Bst. b des Bundesgesetzes betreffend Massnahmen gegen die Tuberkulose vom 13. Juni 1928[^ingress-2] (nachfolgend Tuberkulosegesetz genannt) und von § 5 Abs. 3 Bst. c – e sowie §§ 55 – 59 und § 62 Abs. 2 Bst. a des Gesetzes über das Gesundheitswesen im Kanton Zug vom 30. Oktober 2008[^ingress-3],
 
 beschliesst:
 
@@ -135,6 +135,10 @@ beschliesst:
 <sup>1</sup> Allen Kantonseinwohnern werden die in der bundesrätlichen Verordnung über die kostenlosen Impfungen vorgesehenen Schutzimpfungen angeboten (Art. 23 Abs. 1 des Epidemiengesetzes).
 
 <sup>2</sup> Die Impfungen sind freiwillig (Art. 23 Abs. 2 des Epidemiengesetzes).
+
+<sup>3</sup> Apothekerinnen und Apotheker mit Bewilligung nach § 15 Abs. 2 der Verordnung über das Gesundheitswesen im Kanton Zug (Gesundheitsverordnung, GesV)[^9-1] können Teilschritte von COVID-19-Impfungen an Pharma-Assistentinnen und Pharma-Assistenten delegieren, sofern diese über eine anerkannte Impfausbildung verfügen. Die Delegation hat patientenspezifisch und schriftlich zu erfolgen. Die Indikationsstellung und die Aufklärung sind nicht delegierbar.
+
+[^9-1]: BGS [821.11](https://bgs.zg.ch/data/821.11/de)
 
 #### § 10
 
