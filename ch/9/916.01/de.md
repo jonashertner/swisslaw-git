@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2021-05-01
+version: 2021-05-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210515/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210515-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210515/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210501/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Mai 2021)
+vom 26. Oktober 2011 (Stand am 15. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -2885,13 +2885,13 @@ Anhang 2*[^t-2]*
 <tr><td colspan="12">**[1]** Die Zollansätze können vom Generaltarif abweichen. Neu festgelegte Zollansätze sind mit einem «\*» gekennzeichnet.</td></tr>
 </table>
 
-Anhang 3[^t-3]
+Anhang 3*[^t-3]*
 
 (Art. 10 und 27 Abs. 2<sup>bis</sup> Bst. a)
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2015 ([AS 2015 1759](https://fedlex.data.admin.ch/eli/oc/2015/345)), Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Ziff. I der V des BLW vom 13. Jan. 2020 ([AS 2020 175](https://fedlex.data.admin.ch/eli/oc/2020/30)), vom 3. Febr. 2020 ([AS 2020 483](https://fedlex.data.admin.ch/eli/oc/2020/84)), vom 23. März 2020 ([AS 2020 1119](https://fedlex.data.admin.ch/eli/oc/2020/202)), vom 14. April 2020 ([AS 2020 1319](https://fedlex.data.admin.ch/eli/oc/2020/245)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)) und Ziff. I der V des BLW vom 16. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)).
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 16. Febr. 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)) und vom 29. April 2021, in Kraft seit 15. Mai 2021 ([AS 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -3004,18 +3004,15 @@ Anhang 3[^t-3]
 ### 7. Marktordnung Kartoffeln und Kartoffelprodukte
 
 <table>
-<tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th colspan="2">Umfang des Zollkontingents (Tonnen)</th></tr>
-<tr><th>**[1]**</th><th>**[1]**</th><th colspan="2">**[1]**</th></tr>
+<tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen)</th></tr>
+<tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
 <tr><td>14</td><td>Kartoffeln und Kartoffelprodukte, davon:</td><td>**23 750**</td></tr>
 <tr><td>14.1</td><td>Saatkartoffeln</td><td>**4 000**</td></tr>
-<tr><td>14.1.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2020: ab 1. März bis 31. Dezember 2020</td><td>2 500</td></tr>
 <tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9 250**</td></tr>
-<tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2020: 1. Februar bis 30. Juni 2020</td><td>**18 000**</td></tr>
 <tr><td>14.3</td><td>Speisekartoffeln</td><td>**6 500**</td></tr>
-<tr><td>14.3.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2020: ab 1. April bis 15. Juni 2020</td><td>8 000</td></tr>
-<tr><td>14.3.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2020: ab 1. Mai bis 15. Juli 2020</td><td>9500</td></tr>
+<tr><td>14.3.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: 15. Mai bis 30. Juni 2021</td><td>5 000</td></tr>
 <tr><td>14.4</td><td>Kartoffelprodukte</td><td>**4 000**</td></tr>
-<tr><td colspan="4">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Frei****zonen nach dem Reglement vom 22. Dez. 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz** (SR *0.631.256.934.953*) **werden nicht an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
+<tr><td colspan="3">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Frei****zonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
 </table>
 
 ### 8. Marktordnung Frisches Gemüse
@@ -3083,7 +3080,7 @@ Anhang 3[^t-3]
 <tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
-Anhang 4[^t-4]
+Anhang 4*[^t-4]*
 
 (Art. 31 Abs. 2)
 
@@ -3101,11 +3098,11 @@ Anhang 4[^t-4]
 <tr><td>15 000 t brutto</td><td>3. November – 31. Dezember</td></tr>
 </table>
 
-Anhang 5[^t-5]
+Anhang 5*[^t-5]*
 
 [^t-5]: Aufgehoben durch Anhang der V vom 2. April 2014, mit Wirkung seit 1. Juli 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
-Anhang 6[^t-6]
+Anhang 6*[^t-6]*
 
 (Art. 50)
 

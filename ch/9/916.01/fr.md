@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2021-05-01
+version: 2021-05-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210515/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210515-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210515/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210501/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> mai 2021)
+du 26 octobre 2011 (Etat le 15 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -279,7 +279,7 @@ Lorsque la quantité mise aux enchères n’a pas été entièrement attribuée,
 
 L’OFAG publie l’attribution des parts des contingents sur son site Internet.
 
-### Section 3 Prestation en faveur de la production suisse
+### Section 3 Prestation en faveur de la production suisse****
 
 [^chap3-sec3-1]
 
@@ -515,7 +515,7 @@ En cas de pénurie sur le marché intérieur, l’OFAG peut augmenter temporaire
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
-### Section 4 Importation de pommes de terre et produits à base de pommes de terre
+### Section 4**** Importation de pommes de terre et produits à base de pommes de terre
 
 [^chap4-sec4-1]
 
@@ -759,7 +759,7 @@ Les importations avec PGI sont soumises à un émolument. Le tarif des émolumen
 [^55-1]: Cet art. a une nouvelle teneur ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 1, al. 1, 4, 5, al. 1, 7, 10, 13, al. 2, 27, al. 1, 32, al. 1, 34 et 37, al. 3)
 
@@ -2743,13 +2743,13 @@ L’importation des produits mentionnés ci-après requiert un PGI. Les dérogat
 <tr><th>0105.9400</th><th></th><th>20</th><th>Les poules dont le poids dépasse 2000 g ne sont pas soumises au régime du PGI</th></tr>
 </table>
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 4 et 28)
 
 ## Droits de douane applicables aux marchés des semences des céréales, des aliments pour animaux, des oléagineux, des marchandises dont les sous-produits de transformation servent à l’alimentation des animaux et des céréales secondaires pour l’alimentation humaine
 
-[^t-2]: Nouvelle teneur selon le ch.I de l’O de l’OFAG du 19 avril 2021, en vigueur le 1 <sup>er</sup> mai 2021 ([RO 2021 227](https://fedlex.data.admin.ch/eli/oc/2021/227)).
+[^t-2]: Nouvelle teneur selon le ch.I de l’O de l’OFAG du 19 avr. 2021, en vigueur le 1<sup>er</sup> mai 2021 ([RO 2021 227](https://fedlex.data.admin.ch/eli/oc/2021/227)).
 
 <table>
 <tr><th colspan="2">Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut (CHF)</th><th></th></tr>
@@ -2869,13 +2869,13 @@ Annexe 2[^t-2]
 <tr><td>[tab] [1]</td><td colspan="12">[tab] Les droits de douane peuvent s’écarter du tarif général. Les droits de douane modifiés sont signalés par un astérisque («\*»).</td></tr>
 </table>
 
-Annexe 3[^t-3]
+Annexe 3*[^t-3]*
 
 (art. 10 et 27, al. 2<sup>bis</sup>, let. a)
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch. I de l’O du 20 mai 2015 ([RO 2015 1759](https://fedlex.data.admin.ch/eli/oc/2015/345)), le ch. I al. 1 de l’O du 9 déc. 2016 ([RO 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)) et le ch. I des O de l’OFAG du 13 janv. 2020 ([RO 2020 175](https://fedlex.data.admin.ch/eli/oc/2020/30)), du 3 fév. 2020 ([RO 2020 483](https://fedlex.data.admin.ch/eli/oc/2020/84)), du 23 mars 2020 ([RO 2020 1119](https://fedlex.data.admin.ch/eli/oc/2020/202)), du 14 avr. 2020 ([RO 2020 1319](https://fedlex.data.admin.ch/eli/oc/2020/245)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)) et le ch. I de l’O de l’OFAG du 16 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)).
+[^t-3]: Mise à jour par le ch. I al. 1 de l’O du 9 déc. 2016 ([RO 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), le ch. I des O de l’OFAG du 16 fév. 2021 ([RO 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)) et du 29 avr. 2021, en vigueur depuis le 15 mai 2021 ([RO 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)).
 
 ### 1. Marché des équidés
 
@@ -2932,8 +2932,8 @@ Annexe 3[^t-3]
 <tr><td>06.3</td><td>Produits de charcuterie, y compris coppa, jambon en vessie et jambon saumoné</td><td colspan="2">**3148**</td></tr>
 <tr><td></td><td>Compris dans le contingent préférentiel 301 de 3715 t net selon l’ordonnance du 18 juin 2008 sur le libre échange 1</td><td colspan="2"></td></tr>
 <tr><td>06.4</td><td>Autre viande d’animaux, nourris principalement à base d’aliments concentrés:</td><td>**48 681**</td></tr>
-<tr><td></td><td>de volaille, y compris volaille en conserves et abats de volaille</td><td>**42 200** **[2]**</td></tr>
-<tr><td></td><td>de porc, y compris pâté, granulés pour la fabrication de soupes et porcs de boucherie provenant des zones franches</td><td>**6481** **[2]**</td></tr>
+<tr><td></td><td>de volaille, y compris volaille en conserves et abats de volaille</td><td>**42 200 [2]**</td></tr>
+<tr><td></td><td>de porc, y compris pâté, granulés pour la fabrication de soupes et porcs de boucherie provenant des zones franches</td><td>**6481 [2]**</td></tr>
 <tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 <tr><td colspan="4">**[2]** **Quantité indicative**</td></tr>
 </table>
@@ -2986,16 +2986,13 @@ Annexe 3[^t-3]
 <table>
 <tr><th>Numéro du contingent tarifaire</th><th>Désignation de la marchandise</th><th>Contingent tarifaire (en tonnes)</th></tr>
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><td>14</td><td>Pommes de terre et produits à base de pommes de terre, dont</td><td>**23 750**</td></tr>
+<tr><td>14</td><td>Pommes de terre et produits à base de pommes de terre, dont:</td><td>23 750</td></tr>
 <tr><td>14.1</td><td>Pommes de terre de semence</td><td>**4 000**</td></tr>
-<tr><td>14.1.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2020: dès le 1<sup>er</sup> mars et jusqu’au 31 décembre</td><td>2 500</td></tr>
 <tr><td>14.2</td><td>Pommes de terre destinées à la transformation</td><td>**9 250**</td></tr>
-<tr><td>14.2.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2020: dès le 1<sup>er</sup> février et jusqu’au 30 juin</td><td>**18 000**</td></tr>
 <tr><td>14.3</td><td>Pommes de terre de table</td><td>**6 500**</td></tr>
-<tr><td>14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2020: dès le 1<sup>er</sup> avril et jusqu’au 15 juin</td><td>8000</td></tr>
-<tr><td>14.3.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2020: dès le 1<sup>er</sup> mai et jusqu’au 15 juillet</td><td>9500</td></tr>
-<tr><td>14.4</td><td>Produits de pommes de terre</td><td>**4 000**</td></tr>
-<tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 déc. 1933 concernant les importations en Suisse des produits des zones franches** (RS *0.631.256.934.953*) **n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
+<tr><td>14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2021: dès le 15 mai jusqu’au 30 juin</td><td>5 000</td></tr>
+<tr><td>14.4</td><td>Produits de pommes de terre</td><td>4 000</td></tr>
+<tr><td colspan="3">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement** **22 décembre** **1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 </table>
 
 ### 8. Marché des légumes frais
@@ -3056,7 +3053,7 @@ Annexe 3[^t-3]
 <tr><td colspan="4">**[2]** **Le contingent tarifaire peut être dépassé.**</td></tr>
 </table>
 
-Annexe 4[^t-4]
+Annexe 4*[^t-4]*
 
 (art. 31, al. 2)
 
@@ -3074,11 +3071,11 @@ Annexe 4[^t-4]
 <tr><td>15 000 t brut</td><td>3 novembre – 31 décembre</td></tr>
 </table>
 
-Annexe 5[^t-5]
+Annexe 5*[^t-5]*
 
 [^t-5]: Abrogée par l’annexe de l’O du 2 avr. 2014, avec effet au 1<sup>er</sup> juil. 2014 ([RO 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
-Annexe 6[^t-6]
+Annexe 6*[^t-6]*
 
 (art. 50)
 

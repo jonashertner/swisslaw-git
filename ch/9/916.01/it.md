@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2021-05-01
+version: 2021-05-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210515/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210515-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210515/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210501/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
+del 26 ottobre 2011 (Stato 15 maggio 2021) (Stato 15 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -2742,7 +2742,7 @@ Per l’importazione dei prodotti di seguito elencati è necessario un PGI. Le d
 <tr><th>0105.9400</th><th></th><th>20</th><th>Per galli di peso superiore a 2000 g non è necessario un PGI</th></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4 e 28)
 
@@ -2874,7 +2874,7 @@ Allegato 3*[^t-3]*
 
 ## Contingenti doganali interi e parziali
 
-[^t-3]: Aggiornato dal n. I dell’O del 20 mag. 2015 ([RU 2015 1759](https://fedlex.data.admin.ch/eli/oc/2015/345)), dal n. I cpv. 1 dell’O del 9 dic. 2016 ([RU 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dai n. I delle O dell’UFAG del 13 gen. 2020 ([RU 2020 175](https://fedlex.data.admin.ch/eli/oc/2020/30)), del 3 feb. 2020 ([RU 2020 483](https://fedlex.data.admin.ch/eli/oc/2020/84)), del 23 mar. 2020 ([RU 2020 1119](https://fedlex.data.admin.ch/eli/oc/2020/202)), del 14 apr. 2020 ([RU 2020 1319](https://fedlex.data.admin.ch/eli/oc/2020/245)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)) e dal n. I dell’O dell’UFAG del 16 feb. 2021, in vigore dal 1° mar. 2021 ([RU 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)).
+[^t-3]: Aggiornato dal n. I cpv. 1 dell’O del 9 dic. 2016 ([RU 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dai n. I dell’O dell’UFAG del 16 feb. 2021 ([RU 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)) e del 29 apr. 2021, in vigore dal 15 mag. 2021 ([RU 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -2995,16 +2995,13 @@ Allegato 3*[^t-3]*
 <table>
 <tr><th>Contingente doganale n.</th><th>Prodotto</th><th>Volume del contingente doganale (tonnellate)</th></tr>
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><td>14</td><td>Patate e prodotti a base di patate, di cui:</td><td>23 750</td></tr>
+<tr><td>14</td><td>Patate e prodotti a base di patate, di cui:</td><td>**23 750**</td></tr>
 <tr><td>14.1</td><td>Patate da semina</td><td>4 000</td></tr>
-<tr><td>14.1.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2020: dal 1° marzo al 31 dicembre</td><td>2 500</td></tr>
 <tr><td>14.2</td><td>Patate destinate alla valorizzazione</td><td>9 250</td></tr>
-<tr><td>14.2.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2020: dal 1° febbraio al 30 giugno</td><td>18 000</td></tr>
 <tr><td>14.3</td><td>Patate da tavola</td><td>6 500</td></tr>
-<tr><td>14.3.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2020: dal 1° aprile fino al 15 giugno</td><td>8000</td></tr>
-<tr><td>14.3.2</td><td>Aumento temporaneo del contingente doganale parziale per il 2020: dal 1° maggio fino al 15 luglio</td><td>9500</td></tr>
-<tr><td>14.4</td><td>Prodotti a base di patate</td><td>**4 000**</td></tr>
-<tr><td colspan="4">**[1]** **In grassetto le indicazioni che divergono dalla tariffa generale. Le importazioni dalle zone franche secondo il regolamento del 22 dic. 1933 concernente le importazioni in Svizzera dei prodotti delle zone franche** (RS *0.631.256.934.953*) **non sono computate sul contingente da ripartire.**</td></tr>
+<tr><td>14.3.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2021: dal 15 maggio al 30 giugno 2021</td><td>5 000</td></tr>
+<tr><td>14.4</td><td>Prodotti a base di patate</td><td>4 000</td></tr>
+<tr><td colspan="3">**[1]** **In grassetto le indicazioni che divergono dalla tariffa generale. Le importazioni dalle** **zone** **franche secondo il regolamento del 22 dic. 1933 concernente le importazioni in Svizzera dei prodotti delle zone franche (RS** *0.631.256.934.953***) non sono computate sul contingente da ripartire.**</td></tr>
 </table>
 
 ### 8. Disciplinamento del mercato: ortaggi o legumi freschi
