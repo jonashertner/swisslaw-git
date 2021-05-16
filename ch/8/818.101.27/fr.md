@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-05-06
+version: 2021-05-17
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210506/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210506-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210506/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210517/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210517-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210517/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210506/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 6 mai 2021)
+du 27 janvier 2021 (Etat le 17 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -53,13 +53,15 @@ Un État ou une zone présentent un risque élevé d’infection au SARS-CoV-2 l
 - a. une mutation du coronavirus SARS-CoV-2 présentant un risque d’infection plus important ou provoquant une évolution plus grave de la maladie que la forme du virus qui prévaut en Suisse a été détectée dans le pays ou la zone concernés;
 - b. pendant les 14 derniers jours, l’État ou la zone concernés comptent plus de 60 nouvelles infections de plus que la Suisse pour 100 000 personnes et ce nombre ne peut pas être attribué à des événements particuliers ou à des cas très localisés;
 - c. les informations disponibles en provenance de l’État ou de la zone concernés ne permettent pas d’estimer la situation de manière fiable, et des indices laissent supposer que le risque d’infection dans l’État ou la zone concernés est élevé;
-- d. à plusieurs reprises au cours des 4 dernières semaines, des personnes infectées sont entrées en Suisse après avoir séjourné dans l’État ou la zone concernés.
+- d. [^2-1] à plusieurs reprises au cours des 7 derniers jours, des personnes infectées sont entrées en Suisse après avoir séjourné dans l’État ou la zone concernés.
 
 <sup>2</sup> Les listes des États et des zones présentant un risque élevé d’infection figurent à l’annexe 1.
 
 <sup>3</sup> Le Département fédéral de l’intérieur (DFI) l’actualise en permanence après consultation du Département fédéral de justice et police (DFJP), du Département fédéral des finances (DFF) et du Département fédéral des affaires étrangères (DFAE).
 
 <sup>4</sup> Les zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse peuvent être exclues des listes visées à l’al. 2, même si elles remplissent une des conditions mentionnées à l’al. 1.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des mutations du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 ## Section 3 Collecte des coordonnées
 
@@ -84,12 +86,15 @@ Sont exemptées des obligations prévues aux al. 1 et 2 les personnes:
 
 - a. qui entrent en Suisse en provenance de zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse;
 - b. qui transportent des voyageurs ou des biens dans le cadre de leur activité professionnelle en traversant la frontière;
-- c. qui n’entrent en Suisse que pour la traverser, avec l’intention et la possibilité de continuer directement leur voyage vers un autre pays.[^3-4]
+- c. [^3-4] qui n’entrent en Suisse que pour la traverser, avec l’intention et la possibilité de continuer directement leur voyage vers un autre pays; cette exception ne s’applique pas aux personnes qui traversent la Suisse avec une entreprise de transport de personnes visée à l’art. 4 et qui font une halte;
+- d. [^3-5] qui traversent la Suisse avec une entreprise de transport de personnes visée à l’art. 4 sans faire de halte.[^3-6]
 
 [^3-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: La plateforme d’enregistrement des coordonnées des voyageurs est accessible à l’adresse https://swissplf.admin.ch
 [^3-3]: Introduit par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
-[^3-4]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^3-5]: Introduite par le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine),en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^3-6]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 4
 
@@ -150,18 +155,20 @@ Les personnes suivantes doivent prouver qu’elles se sont fait tester dans les 
 
 <sup>3</sup>
 
-Les personnes visées à l’al. 1 qui ne peuvent pas présenter de résultat de test négatif lorsqu’elles entrent en Suisse doivent, immédiatement après leur arrivée et en accord avec l’autorité cantonale compétente, se faire tester à leurs propres frais:
+Les personnes visées à l’al. 1 qui ne peuvent pas présenter de résultat de test négatif lorsqu’elles entrent en Suisse doivent se faire tester immédiatement après leur arrivée:[^7-1]
 
 - a. par une analyse de biologie moléculaire pour le SARS-CoV-2, ou
-- b. par un test rapide pour le SARS-CoV-2.
+- b.[^7-2] par un test rapide pour le SARS-CoV-2 selon le «standard diagnostic».
 
-<sup>4</sup> Les personnes en quarantaine-voyage peuvent mettre fin à leur quarantaine de manière anticipée si elles font faire une analyse de biologie moléculaire ou un test rapide pour le SARS-CoV-2 selon le «standard diagnostic», et que le résultat est négatif. Le test peut être effectué au plus tôt le 7<sup>e</sup> jour de la quarantaine.[^7-1]
+<sup>4</sup> Les personnes en quarantaine-voyage peuvent mettre fin à leur quarantaine de manière anticipée si elles font faire une analyse de biologie moléculaire ou un test rapide pour le SARS-CoV-2 selon le «standard diagnostic», et que le résultat est négatif. Le test peut être effectué au plus tôt le 7<sup>e</sup> jour de la quarantaine. L’autorité cantonale compétente peut, dans des cas justifiés, suspendre la levée anticipée de la quarantaine pour les personnes en provenance d’un pays ou d’une zone visés à l’annexe 1, ch. 2.[^7-3]
 
 <sup>5</sup> Les personnes qui mettent fin à la quarantaine-voyage de manière anticipée en vertu de l’al. 4 doivent, jusqu’à la date à laquelle la quarantaine était fixée en vertu de l’al. 2, porter un masque facial à l’extérieur de leur logement ou de leur lieu d’hébergement et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.
 
 <sup>6</sup> Si la personne est entrée en Suisse en passant par un État ou une zone ne présentant pas un risque élevé d’infection, l’autorité cantonale compétente peut réduire la durée de la quarantaine prévue à l’al. 2 de la durée du séjour dans cet État ou cette zone.
 
-[^7-1]: Nouvelle teneur selon le ch. II 3 de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 #### Art. 8
 
@@ -186,14 +193,16 @@ Sont exemptées de l’obligation de test et de quarantaine visée à l’art. 7
 - e. qui ont séjourné dans un État ou une zone présentant un risque élevé d’infection pendant moins de 24 heures en tant que passagers en transit;
 - f. qui n’entrent en Suisse que pour la traverser, avec l’intention et la possibilité de continuer directement leur voyage vers un autre pays;
 - g. qui reviennent en Suisse après avoir participé à une manifestation dans un État ou une zone présentant un risque élevé d’infection, pour autant que la preuve soit fournie que la participation et le séjour se sont déroulés dans le respect d’un plan de protection spécifique; est notamment considérée comme participation à une manifestation la participation en règle générale professionnelle à une compétition sportive ou à une manifestation culturelle, ainsi qu’à un congrès spécialisé pour professionnels;
-- h. qui peuvent fournir la preuve qu’elles ont déjà contracté le SARS-CoV-2 au cours des trois derniers mois précédant leur entrée en Suisse et qu’elles sont considérées comme guéries.
+- h.[^8-2] qui peuvent fournir la preuve qu’elles ont déjà contracté le SARS-CoV-2 au cours des six derniers mois précédant leur entrée en Suisse et qu’elles sont considérées comme guéries.
 
 <sup>1bis</sup>
 
 Sont également exemptés de l’obligation de test visée à l’art. 7:
 
 - a. les enfants de moins de douze ans;
-- b. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas subir le frottis nasopharyngé nécessaire au dépistage du SARS-CoV-2.[^8-2]
+- b. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas subir le frottis nasopharyngé nécessaire au dépistage du SARS-CoV-2.[^8-3]
+
+<sup>1ter</sup> L’exemption de l’obligation de quarantaine prévue à l’al. 1, let. c, d, g et h, n’est pas applicable aux personnes en provenance d’un pays ou d’une zone visés à l’annexe 1, ch. 2.[^8-4]
 
 <sup>2</sup> L’al. 1 ne s’applique pas aux personnes qui présentent des symptômes du COVID-19 à moins que celles-ci puissent prouver, attestation médicale à l’appui, que les symptômes peuvent être attribués à une autre cause.
 
@@ -202,7 +211,9 @@ Sont également exemptés de l’obligation de test visée à l’art. 7:
 <sup>4</sup> Dans des cas fondés, l’autorité cantonale compétente peut autoriser d’autres dérogations à l’obligation de test et de quarantaine ou accorder des allégements.
 
 [^8-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^8-2]: Introduit par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^8-3]: Introduit par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^8-4]: Introduit par le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 #### Art. 9
 
@@ -210,7 +221,7 @@ Sont également exemptés de l’obligation de test visée à l’art. 7:
 
 Toute personne obligée de se mettre en quarantaine-voyage en vertu de la présente ordonnance doit déclarer son entrée en Suisse à l’autorité cantonale compétente dans un délai de 2 jours et suivre ses instructions.
 
-## Section 4*a* Obligations particulières des entreprises de transport aérien
+## Section 4*a***** Obligations particulières des entreprises de transport aérien
 
 [^sec4a-1]
 
@@ -246,14 +257,18 @@ Elles peuvent transporter les passagers suivants en l’absence d’un résultat
 - b. les personnes munies d’une attestation médicale prouvant qu’elles doivent être transportées d’urgence en Suisse pour des raisons médicales;
 - c. les personnes de nationalité suisse ou titulaires d’un titre de séjour délivré par la Suisse qui n’ont pas la possibilité de se faire tester pour le SARS-CoV-2 en temps utile ou sans efforts disproportionnés; ces personnes doivent remplir une déclaration confirmant cette impossibilité;
 - d. les personnes qui transitent par un aéroport suisse et ne le quittent pas avant de poursuivre leur voyage;
-- e. les personnes munies d’une attestation médicale prouvant qu’elles ont déjà contracté le SARS-CoV-2 au cours des trois derniers mois précédant leur entrée en Suisse et qu’elles sont considérées comme guéries;
+- e. [^9a-1] les personnes qui peuvent fournir la preuve qu’elles ont déjà contracté le SARS-CoV-2 au cours des six derniers mois précédant leur entrée en Suisse et qu’elles sont considérées comme guéries;
 - f. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas subir le frottis nasopharyngé nécessaire au dépistage du SARS-CoV-2.
+
+[^9a-1]: Nouvelle teneur selon le ch. II de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 ## Section 5 Contrôles et signalements des autorités chargées des contrôle à la frontière
 
-**Art. 10**
+#### Art. 10
 
-<sup>1</sup> Les autorités chargées des contrôles à la frontière peuvent effectuer des contrôles basés sur les risques sur les personnes entrant dans le pays en provenance d’un État ou d’une zone présentant un risque élevé d’infection. Dans ce cas, elles vérifient:
+<sup>1</sup>
+
+Les autorités chargées des contrôles à la frontière peuvent effectuer des contrôles basés sur les risques sur les personnes entrant dans le pays en provenance d’un État ou d’une zone présentant un risque élevé d’infection. Dans ce cas, elles vérifient:
 
 - a. l’existence d’un résultat de test négatif conformément à l’art. 7, al. 1;
 - b. l’enregistrement des coordonnées conformément à l’art. 3, al. 1.
@@ -288,12 +303,10 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 mai 2021, en vigueur depuis le 6 mai 2021 ([RO 2021 261](https://fedlex.data.admin.ch/eli/oc/2021/261)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
-
-Afrique du Sud
 
 Andorre
 
@@ -303,15 +316,15 @@ Bahreïn
 
 Belgique
 
-Brésil
-
 Cabo Verde
-
-Canada
 
 Chili
 
 Chypre
+
+Colombie
+
+Costa Rica
 
 Croatie
 
@@ -319,19 +332,25 @@ Croatie
 
 Estonie
 
+Géorgie
+
 Hongrie
 
-Inde
+Iran
 
 Koweït
+
+Lettonie
 
 Lituanie
 
 Luxembourg
 
+Maldives
+
 Mexique
 
-Népal
+Mongolie
 
 Paraguay
 
@@ -357,7 +376,19 @@ Turquie
 
 Uruguay
 
-### 2. Zones des pays voisins
+### 2. États et zones présentant un risque d’infection plus important ou provoquant une évolution plus grave de la maladie en raison d’une mutation du SARS-CoV-2
+
+Afrique du Sud
+
+Brésil
+
+Canada
+
+Inde
+
+Népal
+
+### 3. Zones des pays voisins
 
 Zones en Allemagne:
 
@@ -378,6 +409,7 @@ Zones en France:
 
 Zones en Italie:
 
+- – Regione Basilicata
 - – Regione Campania
 - – Regione Puglia
 

@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-05-06
+version: 2021-05-17
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210506/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210506-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210506/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210517/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210517-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210517/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210506/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 6. Mai 2021)
+vom 27. Januar 2021 (Stand am 17. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -53,13 +53,15 @@ In einem Staat oder Gebiet liegt ein erhöhtes Risiko einer Ansteckung mit Sars-
 - a. Im betreffenden Staat oder Gebiet ist eine Mutation des Coronavirus Sars-CoV-2 nachgewiesen worden, von der im Vergleich zu der in der Schweiz verbreiteten Virusform eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht.
 - b. Die Zahl der Neuinfektionen pro 100 000 Personen ist im betreffenden Staat oder Gebiet in den letzten 14 Tagen um mehr als 60 höher als in der Schweiz, und diese Zahl ist nicht auf einzelne Ereignisse oder örtlich eng begrenzte Fälle zurückzuführen.
 - c. Die verfügbaren Informationen aus dem betreffenden Staat oder Gebiet erlauben keine verlässliche Einschätzung der Risikolage, und es bestehen Hinweise auf ein erhöhtes Übertragungsrisiko im betreffenden Staat oder Gebiet.
-- d. In den letzten vier Wochen sind wiederholt infizierte Personen in die Schweiz eingereist, die sich im betreffenden Staat oder Gebiet aufgehalten haben.
+- d.[^2-1] In den letzten sieben Tagen sind wiederholt infizierte Personen in die Schweiz eingereist, die sich im betreffenden Staat oder Gebiet aufgehalten haben.
 
 <sup>2</sup> Die Listen der Staaten oder Gebiete mit erhöhtem Ansteckungsrisiko werden in Anhang 1 aufgeführt.
 
 <sup>3</sup> Das Eidgenössische Departement des Innern (EDI) führt den Anhang nach Rücksprache mit dem Eidgenössischen Justiz- und Polizeidepartement (EJPD), dem Eidgenössischen Finanzdepartement (EFD) und dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) laufend nach.
 
 <sup>4</sup> Gebiete an der Grenze zur Schweiz, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet, können von der Aufnahme in die Listen nach Absatz 2 ausgenommen werden, auch wenn sie eine der Voraussetzungen nach Absatz 1 erfüllen.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 ## 3. Abschnitt: Erhebung von Kontaktdaten
 
@@ -84,12 +86,15 @@ Ausgenommen von den Pflichten nach den Absätzen 1 und 2 sind Personen, die:
 
 - a. aus Gebieten an der Grenze zur Schweiz einreisen, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet;
 - b. im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Güter oder Personen befördern;
-- c. lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und der Möglichkeit, direkt in ein anderes Land weiterzureisen.[^3-4]
+- c.[^3-4] lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und der Möglichkeit, direkt in ein anderes Land weiterzureisen; diese Ausnahme gilt nicht für Personen, die mit einem Personenbeförderungsunternehmen nach Artikel 4 durch die Schweiz durchreisen und dabei einen Zwischenhalt einlegen;
+- d.[^3-5] mit einem Personenbeförderungsunternehmen nach Artikel 4 ohne Zwischenhalt durch die Schweiz reisen.[^3-6]
 
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: Die Plattform für die Kontaktdatenerfassung für Reisende ist zugänglich unter https://swissplf.admin.ch
 [^3-3]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
-[^3-4]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^3-5]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^3-6]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 4
 
@@ -150,18 +155,20 @@ Folgende Personen müssen nachweisen, dass sie sich innerhalb der letzten 72 Stu
 
 <sup>3</sup>
 
-Personen nach Absatz 1, die bei der Einreise in die Schweiz keinen Test mit negativem Ergebnis vorweisen können, müssen sich unverzüglich nach der Einreise und nach Absprache mit der zuständigen kantonalen Behörde auf eigene Kosten testen lassen:
+Personen nach Absatz 1, die bei der Einreise in die Schweiz keinen Test mit negativem Ergebnis vorweisen können, müssen sich unverzüglich nach der Einreise testen lassen:[^7-1]
 
 - a. mit einer molekularbiologischen Analyse auf Sars-CoV-2; oder
-- b. mit einem Sars-CoV-2-Schnelltest.
+- b.[^7-2] mit einem Sars-CoV-2-Schnelltest gemäss diagnostischem Standard.
 
-<sup>4</sup> Personen in Einreisequarantäne können die Quarantäne vorzeitig beenden, wenn sie sich mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder mit einem Sars-CoV-2-Schnelltest gemäss diagnostischem Standard testen lassen und das Resultat negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen.[^7-1]
+<sup>4</sup> Personen in Einreisequarantäne können die Quarantäne vorzeitig beenden, wenn sie sich mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder mit einem Sars-CoV-2-Schnelltest gemäss diagnostischem Standard testen lassen und das Resultat negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen. Die zuständige kantonale Behörde kann in begründeten Fällen für Personen, die aus Staaten und Gebieten nach Anhang 1 Ziffer 2 einreisen, die vorzeitige Beendigung der Quarantäne aussetzen.[^7-3]
 
 <sup>5</sup> Personen, die nach Absatz 4 die Einreisequarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne nach Absatz 2 gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
 
 <sup>6</sup> Ist die Person über einen Staat oder ein Gebiet ohne erhöhtes Ansteckungsrisiko eingereist, so kann die zuständige kantonale Behörde die Dauer des Aufenthalts in diesem Staat oder Gebiet an die Quarantäne nach Absatz 2 anrechnen.
 
-[^7-1]: Fassung gemäss Ziff. II 3 der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 #### Art. 8
 
@@ -186,14 +193,16 @@ Von der Test- und Quarantänepflicht nach Artikel 7 ausgenommen sind Personen:
 - e. die sich als Transitpassagiere weniger als 24 Stunden in einem Staat oder Gebiet mit erhöhtem Ansteckungsrisiko aufgehalten haben;
 - f. die lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und der Möglichkeit, direkt in ein anderes Land weiterzureisen;
 - g. die nach der Teilnahme an einer Veranstaltung in einem Staat oder Gebiet mit erhöhtem Ansteckungsrisiko wieder in die Schweiz einreisen, wenn der Nachweis erbracht wird, dass die Teilnahme und der Aufenthalt unter Einhaltung eines spezifischen Schutzkonzepts stattgefunden haben; als Teilnahme an einer Veranstaltung gilt namentlich die in der Regel berufsmässige Teilnahme an einem Sportwettkampf oder Kulturanlass oder an einem Fachkongress für Berufsleute;
-- h. die den Nachweis erbringen, dass sie sich innerhalb der letzten drei Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als geheilt gelten.
+- h.[^8-2] die den Nachweis erbringen, dass sie sich innerhalb der letzten sechs Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als genesen gelten.
 
 <sup>1bis</sup>
 
 Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind:
 
 - a. Kinder unter 12 Jahren;
-- b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.[^8-2]
+- b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.[^8-3]
+
+<sup>1ter</sup> Bei Einreisen aus Staaten und Gebieten nach Anhang 1 Ziffer 2 sind die Ausnahmen von der Pflicht zur Quarantäne nach Absatz 1 Buchstaben c, d, g und h nicht anwendbar.[^8-4]
 
 <sup>2</sup> Auf Personen, die Symptome einer Erkrankung mit Covid-19 aufweisen, ist Absatz 1 nicht anwendbar, es sei denn, die betreffende Person kann mit einem ärztlichen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzuführen sind.
 
@@ -202,7 +211,9 @@ Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind:
 <sup>4</sup> Die zuständige kantonale Behörde kann in begründeten Fällen weitere Ausnahmen von der Test- und Quarantänepflicht bewilligen oder Erleichterungen gewähren.
 
 [^8-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^8-2]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^8-4]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 #### Art. 9
 
@@ -246,8 +257,10 @@ Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergeb
 - b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen dringend in die Schweiz transportiert werden müssen;
 - c. Personen, die das Schweizer Bürgerrecht oder einen von der Schweiz ausgestellten Aufenthaltstitel besitzen und keine Möglichkeit haben, sich innert nützlicher Frist oder mit vernünftigem Aufwand auf Sars-CoV-2 testen zu lassen; die fehlende Möglichkeit muss mit einer Selbstdeklaration bestätigt werden;
 - d. Personen, die auf der Durchreise einen schweizerischen Flughafen nutzen, ohne diesen vor der Weiterreise zu verlassen;
-- e. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie sich innerhalb der letzten drei Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und dass sie als geheilt gelten;
+- e.[^9a-1] Personen, die den Nachweis erbringen, dass sie sich innerhalb der letzten sechs Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als genesen gelten;
 - f. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.
+
+[^9a-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 ## 5. Abschnitt: Kontrollen und Meldungen durch Grenzkontrollbehörden
 
@@ -290,10 +303,10 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 5. Mai 2021, in Kraft seit 6. Mai 2021 ([AS 2021 261](https://fedlex.data.admin.ch/eli/oc/2021/261)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
-### 1. Staaten und Gebiete
+### 1. Staaten und Gebiete (Art. 2 Abs. 1 Bst. b–d)
 
 Ägypten
 
@@ -305,31 +318,37 @@ Bahrain
 
 Belgien
 
-Brasilien
-
 Cabo Verde
 
 Chile
 
+Costa Rica
+
 Estland
 
-Indien
+Georgien
 
-Kanada
+Iran
 
 Katar
+
+Kolumbien
 
 Kroatien
 
 Kuwait
 
+Lettland
+
 Litauen
 
 Luxemburg
 
+Malediven
+
 Mexiko
 
-Nepal
+Mongolei
 
 Niederlande (Königreich der)
 
@@ -347,8 +366,6 @@ Seychellen
 
 Slowenien
 
-Südafrika
-
 Tansania
 
 Türkei
@@ -359,7 +376,19 @@ Uruguay
 
 Zypern
 
-### 2. Gebiete der Nachbarstaaten
+### 2. Staaten und Gebiete mit einer Mutation von Sars-CoV-2, von der eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht (Art. 2 Abs. 1 Bst. a)
+
+Brasilien
+
+Indien
+
+Kanada
+
+Nepal
+
+Südafrika
+
+### 3. Gebiete der Nachbarstaaten
 
 Gebiete in Deutschland:
 
@@ -381,6 +410,7 @@ Gebiete in Frankreich:
 Gebiete in Italien:
 
 - – Region Apulien
+- – Region Basilikata
 - – Region Kampanien
 
 Gebiete in Österreich:

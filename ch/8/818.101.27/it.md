@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-05-06
+version: 2021-05-17
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210506/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210506-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210506/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210517/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210517-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210517/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210506/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 6 maggio 2021)
+del 27 gennaio 2021 (Stato 17 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -53,13 +53,15 @@ Uno Stato o una regione presentano un rischio elevato di contagio con il SARS-Co
 - a. nello Stato o nella regione in questione è stata rilevata una mutazione del SARS-CoV-2 che presenta un rischio di contagio più elevato o un decorso più grave della malattia rispetto alla forma del virus diffusa in Svizzera;
 - b. nello Stato o nella regione in questione, negli ultimi 14 giorni il numero dei nuovi contagi per 100 000 persone è più alto di almeno 60 rispetto a quello registrato in Svizzera e questo numero non è riconducibile a singoli eventi o casi localmente circoscritti;
 - c. le informazioni disponibili provenienti dallo Stato o dalla regione in questione non permettono una valutazione attendibile della situazione di rischio e vi sono indizi che lasciano supporre un rischio elevato di contagio in questo Stato o in questa regione;
-- d. nelle ultime quattro settimane sono entrate in Svizzera a più riprese persone contagiate che hanno soggiornato nello Stato o nella regione in questione.
+- d.[^2-1] negli ultimi sette giorni sono entrate in Svizzera a più riprese persone contagiate che hanno soggiornato nello Stato o nella regione in questione.
 
 <sup>2</sup> Gli elenchi degli Stati e delle regioni con rischio elevato di contagio sono riportati nell’allegato 1.
 
 <sup>3</sup> Il Dipartimento federale dell’interno (DFI), sentiti il Dipartimento federale di giustizia e polizia (DFGP), il Dipartimento federale delle finanze (DFF) e il Dipartimento federale degli affari esteri (DFAE), aggiorna costantemente l’allegato.
 
 <sup>4</sup> Le regioni confinanti con la Svizzera con le quali esiste uno stretto scambio economico, sociale e culturale possono essere escluse dagli elenchi di cui al capoverso 2 anche se soddisfanno una delle condizioni di cui al capoverso 1.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 ## Sezione 3: Registrazione dei dati di contatto
 
@@ -84,12 +86,15 @@ Sono esentate dagli obblighi di cui ai capoversi 1 e 2 le persone che:
 
 - a. entrano in Svizzera da regioni confinanti con la Svizzera con le quali esiste uno stretto scambio economico, sociale e culturale;
 - b. nell’ambito della loro attività professionale effettuano il trasporto transfrontaliero di merci o persone;
-- c. entrano in Svizzera unicamente a fini di transito, con l’intenzione e la possibilità di recarsi direttamente in un altro Paese.[^3-4]
+- c.[^3-4] entrano in Svizzera unicamente a fini di transito, con l’intenzione e la possibilità di recarsi direttamente in un altro Paese; questa deroga non si applica alle persone che transitano attraverso la Svizzera con un’impresa che trasporta persone secondo l’articolo 4 e che fanno una sosta;
+- d.[^3-5] che transitano attraverso la Svizzera senza alcuna sosta intermedia con un’impresa che trasporta persone secondo l’articolo 4.[^3-6]
 
 [^3-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: La piattaforma per la registrazione dei dati di contatto delle persone in entrata è accessibile all’indirizzo https://swissplf.admin.ch
 [^3-3]: Introdotto dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^3-5]: Introdotta dal n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^3-6]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 4
 
@@ -150,18 +155,20 @@ Le seguenti persone devono attestare di essersi sottoposte nelle ultime 72 ore a
 
 <sup>3</sup>
 
-Le persone di cui al capoverso 1 che all’entrata in Svizzera non possono presentare un test con risultato negativo devono, immediatamente dopo l’entrata in Svizzera e d’intesa con l’autorità cantonale competente, sottoporsi a proprie spese:
+Le persone di cui al capoverso 1 che all’entrata in Svizzera non possono presentare un test con risultato negativo devono, immediatamente dopo l’entrata in Svizzera, sottoporsi:[^7-1]
 
 - a. a un’analisi di biologia molecolare per il SARS-CoV-2; oppure
-- b. a un test rapido per il SARS-CoV-2.
+- b.[^7-2] a un test rapido per il SARS-CoV-2 secondo lo standard diagnostico.
 
-<sup>4</sup> Le persone sottoposte alla quarantena per le persone in entrata possono concluderla anticipatamente se si sottopongono a un’analisi di biologia molecolare o a un test rapido per il SARS-CoV-2 secondo lo standard diagnostico e se il risultato è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena.[^7-1]
+<sup>4</sup> Le persone sottoposte alla quarantena per le persone in entrata possono concluderla anticipatamente se si sottopongono a un’analisi di biologia molecolare o a un test rapido per il SARS-CoV-2 secondo lo standard diagnostico e se il risultato è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena. In casi motivati l’autorità cantonale competente può escludere le persone che entrano in Svizzera da Stati o regioni di cui all’allegato 1 numero 2 dalla conclusione anticipata della quarantena.[^7-3]
 
 <sup>5</sup> Le persone che concludono anticipatamente la quarantena per le persone in entrata secondo il capoverso 4 devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena secondo il capoverso 2.
 
 <sup>6</sup> Se la persona è entrata in Svizzera passando da uno Stato o una regione senza rischio elevato di contagio, l’autorità cantonale competente può considerare la durata del soggiorno in questo Stato o in questa regione nel calcolo del periodo di quarantena secondo il capoverso 2.
 
-[^7-1]: Nuovo testo giusta il n. II 3 dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^7-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 #### Art. 8
 
@@ -186,14 +193,16 @@ Sono esentate dall’obbligo di test e di quarantena di cui all’articolo 7 le 
 - e. hanno soggiornato in uno Stato o in una regione con rischio elevato di contagio per meno di 24 ore come passeggeri in transito;
 - f. entrano in Svizzera esclusivamente per il transito con l’intenzione e la possibilità di recarsi direttamente in un altro Paese;
 - g. rientrano in Svizzera dopo aver partecipato a una manifestazione svoltasi in un Paese o una regione con rischio elevato di contagio, se attestano che per la partecipazione e il soggiorno è stato rispettato un piano di protezione specifico; per partecipazione a una manifestazione si intende segnatamente la partecipazione, generalmente per motivi professionali, a una competizione sportiva, a un evento culturale o a un congresso per professionisti;
-- h. attestano che nei tre mesi precedenti l’entrata in Svizzera erano già state contagiate dal SARS-CoV-2 e sono considerate guarite.
+- h.[^8-2] possono provare che, nei sei mesi precedenti l’entrata in Svizzera, sono state contagiate dal SARS-CoV-2 e sono considerate guarite.
 
 <sup>1bis</sup>
 
 Sono inoltre esentati dall’obbligo di test di cui all’articolo 7:
 
 - a. i bambini sotto i 12 anni;
-- b. le persone che possono provare mediante un attestato medico che, per motivi medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test per il SARS-CoV-2.[^8-2]
+- b. le persone che possono provare mediante un attestato medico che, per motivi medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test per il SARS-CoV-2.[^8-3]
+
+<sup>1ter</sup> Le deroghe all’obbligo di quarantena di cui al capoverso 1 lettere c, d, g e h non si applicano in caso di entrata in Svizzera da Stati o regioni di cui all’allegato 1 numero 2.[^8-4]
 
 <sup>2</sup> Il capoverso 1 non si applica alle persone che presentano sintomi di COVID-19, a meno che non possano attestare con un certificato medico che i sintomi sono riconducibili a altra causa.
 
@@ -202,7 +211,9 @@ Sono inoltre esentati dall’obbligo di test di cui all’articolo 7:
 <sup>4</sup> In casi motivati l’autorità cantonale competente può autorizzare altre deroghe all’obbligo di test e di quarantena oppure concedere agevolazioni.
 
 [^8-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^8-2]: Introdotto dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^8-3]: Introdotto dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^8-4]: Introdotto dal n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 #### Art. 9
 
@@ -210,7 +221,7 @@ Sono inoltre esentati dall’obbligo di test di cui all’articolo 7:
 
 Chi è sottoposto alla quarantena per le persone in entrata secondo la presente ordinanza deve notificare l’entrata entro due giorni all’autorità cantonale competente e seguirne le istruzioni.
 
-## Sezione 4*a*:**** Obblighi particolari per le imprese di trasporto aereo
+## Sezione 4*a*: Obblighi particolari per le imprese di trasporto aereo
 
 [^sec4-1]
 
@@ -246,8 +257,10 @@ Le imprese di trasporto aereo possono trasportare i seguenti passeggeri in assen
 - b. persone che possono provare mediante un attestato medico che, per motivi medici, devono essere urgentemente trasportate in Svizzera;
 - c. persone che hanno la cittadinanza svizzera o un titolo di soggiorno rilasciato dalla Svizzera e che non hanno la possibilità di sottoporsi al test per il SARS-CoV-2 entro un termine utile o a spese ragionevoli; l’impossibilità di sottoporsi al test deve essere attestata mediante un’autodichiarazione;
 - d. persone in transito in un aeroporto svizzero che non escono dall’area di transito prima di proseguire il viaggio;
-- e. persone che possono provare mediante un attestato medico che, nei tre mesi precedenti l’entrata in Svizzera, erano già state contagiate dal SARS-CoV-2 e sono considerate guarite;
+- e.[^9a-1] persone che possono provare che, nei sei mesi precedenti l’entrata in Svizzera, sono state contagiate dal SARS-CoV-2 e sono considerate guarite;
 - f. persone che possono provare mediante un attestato medico che, per motivi medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test per il SARS-CoV-2.
+
+[^9a-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 
 ## Sezione 5: Controlli e notifiche da parte dell’Amministrazione federale delle dogane
 
@@ -282,18 +295,18 @@ Le autorità di controllo alla frontiera possono controllare in funzione del ris
 
 La presente ordinanza entra in vigore l’8 febbraio 2021.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 2)
 
-## Elenchi degli Stati e delle regioni con rischio elevato di contagio****
+## Elenchi degli Stati e delle regioni con rischio elevato di contagio
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 5 mag. 2021, in vigore dal 6 mag. 2021 ([RU 2021 261](https://fedlex.data.admin.ch/eli/oc/2021/261)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
-### 1. Stati e regioni
+### 1. Stati e regioni (art. 2 cpv. 1 lett. b–d)
 
 Andorra
 
@@ -303,15 +316,15 @@ Bahrein
 
 Belgio
 
-Brasile
-
 Capo Verde
-
-Canada
 
 Cile
 
 Cipro
+
+Colombia
+
+Costa Rica
 
 Croazia
 
@@ -319,17 +332,23 @@ Egitto
 
 Estonia
 
-India
+Georgia
+
+Iran
 
 Kuwait
+
+Lettonia
 
 Lituania
 
 Lussemburgo
 
+Maldive
+
 Messico
 
-Nepal
+Mongolia
 
 Paesi Bassi (Regno dei)
 
@@ -345,8 +364,6 @@ Serbia
 
 Slovenia
 
-Sudafrica
-
 Svezia
 
 Tanzania
@@ -359,13 +376,27 @@ Ungheria
 
 Uruguay
 
-### 2. Regioni degli Stati limitrofi
+### 2. Stati e regioni con una mutazione del SARS-CoV-2, che presenta un rischio maggiore di infezione o di decorso grave della malattia (art. 2 cpv. 1 lett. a)
+
+Brasile
+
+Canada
+
+India
+
+Nepal
+
+Sudafrica
+
+### 3. Regioni degli Stati limitrofi
 
 Regioni in Germania:
 
 - – Land Sassonia
 - – Land Turingia
-- [tab] Regioni in Francia:
+
+Regioni in Francia:
+
 - – Regione Alta Francia
 - – Regione Bretagna
 - – Regione Centro-Valle della Loira
@@ -378,6 +409,7 @@ Regioni in Germania:
 
 Regioni in Italia:
 
+- – Regione Basilicata
 - – Regione Campania
 - – Regione Puglia
 
