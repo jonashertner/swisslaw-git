@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-05-01
+version: 2021-05-17
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210517/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210517-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210517/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. Mai 2021)
+vom 19. Juni 2020 (Stand am 17. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -167,7 +167,9 @@ Die Interdepartementale Arbeitsgruppe medizinische Güter besteht mindestens aus
 - f. Armeeapotheke;
 - g. Koordinierter Sanitätsdienst (KSD).
 
-<sup>2</sup> Der Delegierte des Bundesrates für den KSD leitet die Arbeitsgruppe.
+<sup>2</sup> Der oder die Beauftragte des Bundesrates für den KSD leitet die Arbeitsgruppe.[^12-1]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 13
 
@@ -201,13 +203,15 @@ Die Interdepartementale Arbeitsgruppe medizinische Güter besteht mindestens aus
 
 **Zuteilung von wichtigen medizinischen Gütern**
 
-<sup>1</sup> Die Kantone stellen bei Bedarf Zuteilungsgesuche an den KSD.
+<sup>1</sup> Die Kantone stellen bei Bedarf Zuteilungsgesuche an das ResMaB.[^15-1]
 
 <sup>2</sup> Die Zuteilung erfolgt laufend aufgrund der Versorgungslage und der aktuellen Fallzahlen in den jeweiligen Kantonen.
 
 <sup>3</sup> Der KSD kann nach Anhörung der Interdepartementalen Arbeitsgruppe medizinische Güter wichtige medizinische Güter an die Kantone, an gemeinnützige Organisationen sowie an Dritte zuteilen.
 
 <sup>4</sup> Für die Zuteilung von In-vitro-Diagnostika (Covid-19-Tests) ist das Labor Spiez im Einvernehmen mit dem BAG zuständig. Die Zuteilung erfolgt bei Bedarf für alle in der Schweiz vorhandenen Tests.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 16
 
@@ -237,6 +241,10 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 <sup>4</sup> Die Kantone tragen die Kosten für die Weiterverteilung dieser wichtigen medizinischen Güter innerhalb des Kantons.
 
+<sup>5</sup> Sind die beschafften Güter auf dem Markt wieder frei erhältlich, so kann der Bund seine Bestände zu Marktpreisen abgeben.[^18-1]
+
+[^18-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+
 #### Art. 19
 
 **Einziehung**
@@ -259,13 +267,14 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 <sup>1</sup> Arzneimittel, die mit Wirkstoffen nach Anhang 5 für die Behandlung von Covid-19-Patientinnen und -Patienten hergestellt werden, dürfen nach Einreichung eines Zulassungsgesuchs für ein Arzneimittel mit einem dieser Wirkstoffe bis zum Zulassungsentscheid der Swissmedic ohne Zulassung in Verkehr gebracht werden. Die Swissmedic kann im Rahmen der Prüfung von Zulassungsgesuchen auf der Grundlage einer Nutzen-/Risiko-Analyse bei diesen Arzneimitteln Abweichungen von den geltenden heilmittelrechtlichen Vorgaben bewilligen.
 
-<sup>2</sup> Änderungen der Zulassung eines in der Schweiz zugelassenen Arzneimittels mit einem Wirkstoff nach Anhang 4 Ziffer 1, der zur Verhütung und Bekämpfung des Coronavirus in der Schweiz eingesetzt wird, dürfen nach Einreichung eines entsprechenden Änderungsgesuchs sofort umgesetzt werden. Die Swissmedic kann auf der Grundlage einer Nutzen-/Risiko-Analyse bei diesen Änderungen Abweichungen von den geltenden heilmittelrechtlichen Vorgaben bewilligen.
+<sup>2</sup> Änderungen der Zulassung eines in der Schweiz zugelassenen Arzneimittels mit einem Wirkstoff nach Anhang 4 Ziffer 1, aufgrund deren das Arzneimittel für die Behandlung von Covid-19-Patientinnen und -Patienten in der Schweiz eingesetzt werden kann, dürfen nach Einreichung eines entsprechenden Änderungsgesuchs bis zum Entscheid der Swissmedic sofort umgesetzt werden. Die Swissmedic kann auf der Grundlage einer Nutzen-/Risiko-Analyse bei Änderungen der Zulassung von Arzneimitteln mit einem Wirkstoff nach Anhang 4 Ziffer 1 Abweichungen von den geltenden heilmittelrechtlichen Vorgaben bewilligen.[^21-1]
 
-<sup>3</sup> Das EDI führt die Liste in Anhang 5 laufend nach.[^21-1]
+<sup>3</sup> Das EDI führt die Liste in Anhang 5 laufend nach.[^21-2]
 
 <sup>4</sup> Die Swissmedic kann auf der Grundlage einer Nutzen-/Risiko-Analyse bei Arzneimitteln zur Verhütung und Bekämpfung des Coronavirus in der Schweiz Abweichungen von dem im Rahmen der Zulassung genehmigten Herstellungsprozess bewilligen. Sie legt Kriterien fest, unter denen die fachtechnisch verantwortliche Person eine vorzeitige Marktfreigabe für Arzneimittel zur Verhütung und Bekämpfung des Coronavirus in der Schweiz erteilen kann.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^21-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 22
 
@@ -519,7 +528,7 @@ Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 
 
 <sup>3</sup>
 
-Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 1.4.1 Buchstaben h und i und 3.1.1 Buchstabe a durchgeführt, so können die Leistungserbringer als Schuldner der Vergütung der Leistung wählen:
+Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 1.4.1 Buchstaben h und i, 3.1.1 Buchstabe a und 3.2.1 Buchstabe a durchgeführt, so können die Leistungserbringer als Schuldner der Vergütung der Leistung wählen:[^26a-4]
 
 - a. den Versicherer nach Absatz 1, der die Vergütung der Leistungen nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG schuldet; oder
 - b. den Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird.
@@ -529,6 +538,7 @@ Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 
 [^26a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2020 ([AS 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^26a-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26b
 
@@ -625,16 +635,32 @@ Ist aus betrieblichen Gründen die Präsenz besonders gefährdeter Arbeitnehmeri
 
 <sup>9</sup> Für die Geltendmachung des Anspruchs auf Corona-Erwerbsersatz gilt Artikel 2 Absatz 3<sup>quater</sup> der Covid-19-Verordnung Erwerbsausfall vom 20. März 2020[^27a-1].
 
-<sup>10</sup> Als besonders gefährdete Personen gelten schwangere Frauen sowie Personen, die nicht gegen Covid-19 geimpft sind und insbesondere folgende Erkrankungen aufweisen: Bluthochdruck, Diabetes, Herz-Kreislauf-Erkrankungen, chronische Atemwegserkrankungen, Erkrankungen und Therapien, die das Immunsystem schwächen, Krebs, Adipositas.
+<sup>10</sup>
 
-<sup>11</sup> Die Erkrankungen nach Absatz 10 werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten.
+Als besonders gefährdet gelten:
 
-<sup>12</sup> Das BAG führt Anhang 7 laufend nach.
+- a. schwangere Frauen;
+- b. Personen, die Erkrankungen oder genetische Anomalien aufweisen, die in Anhang 7 aufgeführt sind.[^27a-2]
 
-<sup>13</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 10 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^27a-2].
+<sup>10bis</sup>
+
+Nicht unter Absatz 10 fallen Personen, die:
+
+- a. gegen Covid-19 geimpft sind;
+- b. sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten nach der Aufhebung einer Absonderung durch die zuständige Behörde.[^27a-3]
+
+<sup>11</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10<sup>bis</sup> als besonders gefährdet eingestuft werden.[^27a-4]
+
+<sup>12</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.[^27a-5]
+
+<sup>13</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 10 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^27a-6].
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft vom 17. bis zum 31. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft vom 17. bis zum 31. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft vom 17. bis zum 31. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-5]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft vom 17. bis zum 31. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-6]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -670,7 +696,7 @@ Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Re
 [^29-2]: Aufgehoben durch Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), mit Wirkung seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 3 Abs. 2)
 
@@ -695,13 +721,12 @@ Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Singapur
 - – Thailand
 - – Zypern
-- [tab]
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 [^t-2]: Obsolet geworden durch die Aufhebung von Art. 8 (s. Art. 6 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 2. Juli 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
-Anhang 3[^t-3]
+Anhang 3*[^t-3]*
 
 (Art. 9 Abs. 3)
 
@@ -711,13 +736,13 @@ Anhang 3[^t-3]
 
 Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
 
-Anhang 4[^t-4]
+Anhang 4*[^t-4]*
 
 (Art. 11 Abs. 1, 19 Abs. 1 und 21 Abs. 2)
 
 ## Liste der wichtigen Arzneimittel, Medizinprodukte und Schutzausrüstungen (wichtige medizinische Güter)
 
-[^t-4]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)) und gemäss Ziff. I Abs. 1 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 15. April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
+[^t-4]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), Ziff. I Abs. 1 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19) ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1. Wirkstoffe sowie Arzneimittel mit den aufgeführten Wirkstoffen
 
@@ -767,8 +792,10 @@ Anhang 4[^t-4]
 - 44\. Medizinalgase
 - 45\. Casirivimab/Imdevimab
 - 46\. Bamlanivimab/Etesevimab
+- 47\. Medizinischer Sauerstoff
+- 48\. Infusionslösungen
 
-### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001
+### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001****
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -779,10 +806,11 @@ Anhang 4[^t-4]
 - 3\. In-vitro-Diagnostika («Covid-19-Tests», einschliesslich präanalytische Bestandteile und Instrumente)
 - 4\. Chirurgische Masken / OP-Masken (Hygienemasken)
 - 5\. Chirurgische Handschuhe / Untersuchungshandschuhe
-- 6\. Medizinischer Sauerstoff
-- 7\. Infusionslösungen
+- 6\. Infusionsbesteck
+- 7\. Pipettenspitzen mit Filter
 - 8\. Probenahme-Kits (Röhrchen und Tupfer)
 - 9\. Einmalspritzen und Einmalkanülen
+- 10\. Blutgasspritzen
 
 ### 3. Persönliche Schutzausrüstungen und weitere Ausrüstung
 
@@ -806,7 +834,7 @@ Anhang 4[^t-4]
 
 \4. Hygieneartikel in der Intensivmedizin (z. B. absorbierende Unterlagen, Windeln, Rectalkollektoren, Artikel zur Mund- und Rachenhygiene
 
-Anhang 5[^t-5]
+Anhang 5*[^t-5]*
 
 (Art. 21 Abs. 1 und 3 sowie 22 Abs. 1)
 
@@ -817,7 +845,7 @@ Anhang 5[^t-5]
 - 1\. Casirivimab/Imdevimab
 - 2\. Bamlanivimab/Etesevimab
 
-Anhang 5a[^t-6]
+Anhang 5a*[^t-6]*
 
 (Art. 23*a* Abs. 2 Bst. e, 24 Abs. 4<sup>bis</sup> Bst. b und 24*a* Abs. 1)
 
@@ -863,7 +891,6 @@ Anhang 5a[^t-6]
 - 3\.2.2 Die Spezifität des Tests muss bei mindestens 97 Prozent liegen.
 - 3\.3 Kreuzreaktivität: Untersuchung auch von Proben mit hoher Konzentration an verwandten Humanen Coronaviren, darunter mindestens das Humane Coronavirus 229E, das Humane Coronavirus OC43, das Humane Coronavirus NL63 oder das Humane Coronavirus HKU1.
 - 3\.4 Interferenz: Untersuchung auch von Pathogen-positiven Proben, bei denen das Pathogen eine analoge Symptomatik hervorrufen kann (Influenza A, B; RSV) oder mit dem Testprinzip interferieren könnte (Protein-A-positive *Staphylococcus aureus* bei Nasenabstrichen als Probenmatrix).
-- [tab]
 
 Anhang 6*[^t-7]*
 
@@ -871,7 +898,7 @@ Anhang 6*[^t-7]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021, Ziff. 1.6.1 in Kraft seit 12. April, Ziff. 1.5.1, 1.5.3 und 1.5.4 in Kraft seit 1. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021, mit Ausnahme von Ziff. 1.6.1 in Kraft seit 12. April 2021, Ziff. 1.5.1, 1.5.3 und 1.5.4 in Kraft seit 1. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -990,7 +1017,7 @@ Anhang 6*[^t-7]*
 
 - 1\.2.3
 
-  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens Fr. 279.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens Fr. 321.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
@@ -1004,14 +1031,14 @@ Anhang 6*[^t-7]*
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>232 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>274 Fr.</td></tr>
 <tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis zur Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
-<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>213 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis zur Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>255 Fr.</td></tr>
 <tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
 </table>
 
 ### 1.3 Analysen auf Sars-CoV-2-Antikörper
@@ -1173,12 +1200,12 @@ Anhang 6*[^t-7]*
   - a. mikrobiologische diagnostische Laboratorien mit einer Akkreditierung der Schweizerischen Akkreditierungsstelle (SAS) in Sequenzierung[^annex6-lvlu1-lvl1-lvl16-1];
   - b. Referenzlaboratorien, die die Voraussetzungen nach Artikel 17 EpG erfüllen.
 
-- 1\.6.3 Für die Sequenzierung auf Sars-CoV-2 übernimmt er höchstens Fr. 243.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 1\.6.3 Für die Sequenzierung auf Sars-CoV-2 übernimmt er höchstens 221 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für die Durchführung der Analyse, davon:</td><td>243.50 Fr.</td></tr>
-<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>219.50 Fr.</td></tr>
+<tr><td>Für die Durchführung der Analyse, davon:</td><td>221 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>197 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
 
@@ -1223,7 +1250,8 @@ Anhang 6*[^t-7]*
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für die Probenentnahme und Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und Auftragsabwicklung</td><td>34 Fr.</td></tr>
+<tr><td>Sofern die Probenentnahme nicht durch die getestete Person selbst durchgeführt wird: für die Probenentnahme und Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und die Auftragsabwicklung</td><td>34 Fr.</td></tr>
+<tr><td>Sofern die Probenentnahme durch die getestete Person selbst durchgeführt wird: für die Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und die Auftragsabwicklung</td><td>15.50 Fr.</td></tr>
 </table>
 
 ### 2.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
@@ -1263,27 +1291,34 @@ Anhang 6*[^t-7]*
 
 - 2\.2.3
 
-  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens Fr. 250.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 311 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials und der Arbeitszeit und der Auftragsabwicklung</td><td>18.50 Fr.</td></tr>
+<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials der Arbeitszeit, und für die Auftragsabwicklung</td><td>18.50 Fr.</td></tr>
 </table>
 
 - b. für die gepoolte molekularbiologische Analyse:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>232 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>274 Fr.</td></tr>
 <tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
-<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>213 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>255 Fr.</td></tr>
 <tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+</table>
+
+- c. für das zentralisierte Pooling:
+
+<table>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für die Durchführung auf der obligatorischen Schulstufe sowie Sekundarstufe II pro Poolerstellung</td><td>18.50 Fr.</td></tr>
 </table>
 
 ### 3 Basistarif für gezielte und repetitive Testungen
@@ -1296,7 +1331,7 @@ Anhang 6*[^t-7]*
 
   - a. bei gezielten und repetitiven Testungen in Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
   - b. bei gezielten und repetitiven Testungen in Betrieben und Vereinen, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt;
-  - c. bei einer Kontaktperson, die sich in Quarantäne befindet, und wenn bei 80 Prozent der Belegschaft des Betriebs, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung durchgeführt wird.
+  - c. bei einer Kontaktperson, die sich in Quarantäne befindet, wenn im Betrieb, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird.
 
 - 3\.1.2 Er übernimmt zudem die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard in Fällen nach Ziffer 3.1.1 Buchstabe b.
 - 3\.1.3
@@ -1333,21 +1368,23 @@ Anhang 6*[^t-7]*
 
   - a. bei gezielten und repetitiven Testungen in Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
   - b. bei gezielten und repetitiven Testungen in Betrieben, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt;
-  - c. bei einer Kontaktperson, die sich in Quarantäne befindet, und wenn bei 80 Prozent der Belegschaft des Betriebs, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung durchgeführt wird.
+  - c. bei einer Kontaktperson, die sich in Quarantäne befindet, und wenn bei der Belegschaft des Betriebs, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird.
 
 - 3\.2.2 Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
-- 3\.2.3 Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 232 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.2.3 Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 292.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>232 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>274 Fr.</td></tr>
 <tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
-<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>213 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+<tr><td>– für die Durchführung eines zentralisierten Poolings in Fällen nach Ziff. 3.2.1 Bst. b und c pro Poolerstellung</td><td>18.50 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>255 Fr.</td></tr>
 <tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+<tr><td>– für die Durchführung eines zentralisierten Poolings in Fällen nach Ziff. 3.2.1 Bst. b und c pro Poolerstellung</td><td>18.50 Fr.</td></tr>
 </table>
 
 ### 3.3 Sars-CoV-2-Selbsttests
@@ -1363,19 +1400,17 @@ Anhang 6*[^t-7]*
 ### 4 Limitationen
 
 - 4\.1 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine Analyse auf Sars-CoV-2-Antikörper nach Ziffer 1.3 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.3 Buchstabe a und 1.3.3 Buchstabe a sowie denjenigen für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial nach den Ziffern 1.1.3 Buchstabe b und 1.3.3 Buchstabe b nur einmal.
-- 4\.2 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine immunologische Analyse auf Sars-CoV-2-Antigene oder ein Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard oder gemäss Screening-Standard nach Ziffer 1.4 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.3 Buchstabe a und 1.4.4 Buchstabe a nur einmal.
+- 4\.2 ...
 - 4\.3 Werden bei einer Person sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch ein molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten nach Ziffer 1.5 oder eine Sequenzierung auf Sars-CoV-2 nach Ziffer 1.6 vom selben Leistungserbringer durchgeführt, so übernimmt der Bund den Kostenanteil für die Auftragsabwicklung und die Overheadkosten nach den Ziffern 1.1.3 Buchstabe b und 1.5.3 beziehungsweise 1.6.3 nur einmal.
 - 4\.4 Bei Analysen auf Sars-CoV-2, bei denen die Probenentnahme durch die getestete Person selbst durchgeführt werden kann, darf die Probenentnahme nicht verrechnet werden.
-- [tab]
-- [tab]
 
-Anhang 7[^t-8]
+Anhang 7*[^t-8]*
 
-(Art. 27*a* Abs. 11)
+(Art. 27*a* Abs. 10 und 11)
 
-## Medizinische Präzisierungen zu Erkrankungen, welche die Betroffenen zu besonders gefährdeten Personen machen
+## Erkrankungen und genetische Anomalien, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Mai 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen), in Kraft seit 2. April 2021 ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Mai 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 

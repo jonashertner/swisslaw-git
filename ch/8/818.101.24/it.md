@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-05-01
+version: 2021-05-17
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210517/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210517-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210517/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 1° maggio 2021) (Stato 1° maggio 2021)
+del 19 giugno 2020 (Stato 17 maggio 2021) (Stato 17 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -167,7 +167,9 @@ Il Gruppo di lavoro interdipartimentale materiale medico è costituito da rappre
 - f. Farmacia dell’esercito;
 - g. Servizio sanitario coordinato (SSC).
 
-<sup>2</sup> Il gruppo di lavoro è diretto dal delegato del Consiglio federale per il SSC.
+<sup>2</sup> Il gruppo di lavoro è diretto dall’incaricato del Consiglio federale per il SSC.[^12-1]
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 13
 
@@ -201,13 +203,15 @@ Il Gruppo di lavoro interdipartimentale materiale medico è costituito da rappre
 
 **Attribuzione di materiale medico importante**
 
-<sup>1</sup> Se necessario, i Cantoni presentano una domanda di attribuzione al SSC.
+<sup>1</sup> Se necessario, i Cantoni presentano una domanda di attribuzione alla ResMaB.[^15-1]
 
 <sup>2</sup> L’attribuzione è continua ed è determinata in base alla situazione di approvvigionamento e al numero di casi aggiornato nei singoli Cantoni.
 
 <sup>3</sup> Il SSC può, sentito il Gruppo di lavoro interdipartimentale materiale medico, attribuire materiale medico importante a Cantoni, organizzazioni di utilità pubblica e terzi.
 
 <sup>4</sup> Per l’attribuzione di dispositivi medico-diagnostici in vitro («test COVID-19») è competente il Laboratorio Spiez, d’intesa con l’UFSP. L’attribuzione riguarda, se necessario, tutti i test disponibili in Svizzera.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 16
 
@@ -237,6 +241,10 @@ La Confederazione può distribuire il materiale medico importante contro pagamen
 
 <sup>4</sup> I Cantoni assumono le spese per l’ulteriore distribuzione sul loro territorio del materiale medico importante.
 
+<sup>5</sup> Se il materiale acquistato è di nuovo liberamente disponibile sul mercato, la Confederazione può cedere le sue scorte a prezzi di mercato.[^18-1]
+
+[^18-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+
 #### Art. 19
 
 **Confisca**
@@ -259,13 +267,14 @@ La Confederazione può distribuire il materiale medico importante contro pagamen
 
 <sup>1</sup> I medicamenti contenenti i principi attivi elencati nell’allegato 5 fabbricati per il trattamento dei pazienti affetti da COVID-19 possono, dopo che è stata presentata una domanda di omologazione per un medicamento contenente uno di questi principi attivi, essere immessi in commercio senza omologazione finché Swissmedic non ha emanato una decisione in merito al rilascio dell’omologazione. Nel quadro dell’esame delle domande di omologazione, sulla base di un’analisi dei rischi e dei benefici Swissmedic può, per questi medicamenti, autorizzare deroghe alle vigenti disposizioni del diritto in materia di agenti terapeutici.
 
-<sup>2</sup> Le modifiche all’omologazione di un medicamento omologato in Svizzera, contenente uno dei principi attivi elencati nell’allegato 4 numero 1, impiegato in Svizzera per prevenire e combattere il coronavirus, possono essere attuate immediatamente dopo che è stata presentata una corrispondente domanda. Sulla base di un’analisi dei rischi e dei benefici Swissmedic può, per queste modifiche, autorizzare deroghe alle vigenti disposizioni del diritto in materia di agenti terapeutici.
+<sup>2</sup> Le modifiche all’omologazione di un medicamento omologato in Svizzera contenente un principio attivo elencato nell’allegato 4 numero 1, in virtù del quale il medicamento può essere impiegato in Svizzera per il trattamento dei pazienti affetti da COVID-19, possono essere attuate immediatamente dopo che è stata presentata una corrispondente domanda, in attesa della decisione di Swissmedic. Per le modifiche all’omologazione di medicamenti contenenti un principio attivo elencato nell’allegato 4 numero 1, Swissmedic può, sulla base di un’analisi dei rischi e dei benefici, autorizzare deroghe alle vigenti disposizioni del diritto in materia di agenti terapeutici.[^21-1]
 
-<sup>3</sup> Il DFI aggiorna costantemente l’elenco di cui all’allegato 5.[^21-1]
+<sup>3</sup> Il DFI aggiorna costantemente l’elenco di cui all’allegato 5.[^21-2]
 
 <sup>4</sup> Sulla base di un’analisi dei rischi e dei benefici Swissmedic può, per i medicamenti impiegati in Svizzera per prevenire e combattere il coronavirus, autorizzare deroghe al processo di fabbricazione approvato nel quadro del rilascio dell’omologazione. Fissa i criteri in base ai quali il responsabile tecnico può emanare la decisione di liberazione sul mercato anticipata dei medicamenti impiegati in Svizzera per prevenire e combattere il coronavirus.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^21-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 22
 
@@ -519,7 +528,7 @@ Se la prestazione nell’ambito di un’analisi per il SARS-CoV-2 secondo l’al
 
 <sup>3</sup>
 
-Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1 lettere i e j, 1.4.1 lettere h e i e 3.1.1 lettera a, i fornitori di prestazioni possono scegliere quale debitore della rimunerazione delle prestazioni:
+Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1 lettere i e j, 1.4.1 lettere h e i, 3.1.1 lettera a e 3.2.1 lettera a, i fornitori di prestazioni possono scegliere quale debitore della rimunerazione delle prestazioni:[^26a-4]
 
 - a. l’assicuratore di cui al capoverso 1 che è debitore della rimunerazione delle prestazioni secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal; o
 - b. il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.
@@ -529,6 +538,7 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 [^26a-1]: Introdotto dal n. I dell’O del 24 giu. 2020 ([RU 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^26a-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26b
 
@@ -625,16 +635,32 @@ Se, per motivi aziendali, è indispensabile la totale o parziale presenza sul po
 
 <sup>9</sup> Al diritto all’indennità per perdita di guadagno per il coronavirus si applica l’articolo 2 capoverso 3<sup>quater</sup> dell’ordinanza COVID-19 perdita di guadagno del 20 marzo 2020[^27a-1].
 
-<sup>10</sup> Sono considerate particolarmente a rischio le donne incinte e le persone non vaccinate contro il COVID-19 e che soffrono in particolare delle seguenti patologie: ipertensione arteriosa, diabete, malattie cardiovascolari, malattie croniche delle vie respiratorie, malattie o terapie che indeboliscono il sistema immunitario, cancro, obesità.
+<sup>10</sup>
 
-<sup>11</sup> Le patologie di cui al capoverso 10 sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva la valutazione clinica del rischio nel singolo caso.
+Sono considerate particolarmente a rischio:
 
-<sup>12</sup> L’UFSP aggiorna costantemente l’allegato 7.
+- a. le donne incinte;
+- b. le persone che soffrono delle patologie o anomalie genetiche elencate nell’allegato 7.[^27a-2]
 
-<sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 10 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^27a-2].
+<sup>10bis</sup>
+
+Non rientrano nel capoverso 10 le persone:
+
+- a. vaccinate contro il COVID-19;
+- b. che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, durante sei mesi a partire dalla revoca dell’isolamento disposta dall’autorità competente.[^27a-3]
+
+<sup>11</sup> Le patologie e anomalie genetiche di cui al capoverso 10 lettera b sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva una valutazione clinica del rischio nel singolo caso, che può portare a classificare anche persone di cui al capoverso 10<sup>bis</sup> tra quelle particolarmente a rischio.[^27a-4]
+
+<sup>12</sup> L’EDI aggiorna costantemente l’allegato 7 in base allo stato delle conoscenze scientifiche.[^27a-5]
+
+<sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 10 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^27a-6].
 
 [^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 al 31 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-3]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 al 31 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 al 31 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 al 31 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-6]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Capitolo 5: Disposizioni finali
 
@@ -716,7 +742,7 @@ Allegato 4*[^t-4]*
 
 ## Elenco dei medicamenti, dei dispositivi medici e dei dispositivi di protezione importanti (materiale medico importante)
 
-[^t-4]: Nuovo testo giusta il n. I dell’O dell’UFSP del 19 ott. 2020 (Elenco del materiale medico importante e elenco dei principi attivi per il trattamento del COVID-19 ([RU 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Aggiornato dal n. II cpv. 1 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)) e dal n. I cpv. 1 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 15 apr. 2021 ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
+[^t-4]: Nuovo testo giusta il n. I dell’O dell’UFSP del 19 ott. 2020 (Elenco del materiale medico importante e elenco dei principi attivi per il trattamento del COVID-19 ([RU 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Aggiornato dal n. II cpv. 1 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), dal n. I cpv. 1 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1. Principi attivi nonché medicamenti contenenti i principi attivi elencati
 
@@ -766,6 +792,8 @@ Allegato 4*[^t-4]*
 - 44\. Gas medicinali
 - 45\. Casirivimab/Imdevimab
 - 46\. Bamlanivimab/Etesevimab
+- 47\. Ossigeno medicinale
+- 48\. Soluzioni per infusioni
 
 ### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici
 
@@ -778,10 +806,11 @@ Allegato 4*[^t-4]*
 - 3\. Dispositivi medico-diagnostici in vitro («test COVID-19», inclusi i componenti preanalitici e gli strumenti)
 - 4\. Mascherine chirurgiche / Mascherine da sala operatoria (Mascherine igieniche)
 - 5\. Guanti chirurgici / Guanti per visita medica
-- 6\. Ossigeno medicinale
-- 7\. Soluzioni per infusioni
+- 6\. Deflussori
+- 7\. Puntali per pipette con filtro
 - 8\. Set per i prelievi (tubi e tamponi)
 - 9\. Siringhe monouso e aghi monouso
+- 10\. Siringhe per emogasanalisi
 
 ### 3. Dispositivi di protezione individuale e altri dispositivi
 
@@ -868,7 +897,7 @@ Allegato 6*[^t-7]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II dell’O del 12 mag. 2021, n. 1.6.1 in vigore dal 12 apr. 2021 e n. 1.5.1, 1.5.3, 1.5.4 in vigore dal 1° mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021, n. 1.6.1 in vigore dal 12 apr. 2021 e n. 1.5.1, 1.5.3, 1.5.4 in vigore dal 1° mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -989,7 +1018,7 @@ Allegato 6*[^t-7]*
 
 - 1\.2.3
 
-  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 279.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 321.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
@@ -1003,14 +1032,14 @@ Allegato 6*[^t-7]*
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>232 fr.</td></tr>
+<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>274 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
-<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>6 fr.</td></tr>
-<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>213 fr.</td></tr>
+<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
+<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
-<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>6 fr.</td></tr>
+<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
 </table>
 
 ### 1.3 Analisi per gli anticorpi contro il SARS-CoV-2
@@ -1170,12 +1199,12 @@ Allegato 6*[^t-7]*
   - a. laboratori di diagnostica microbiologica con un accreditamento in sequenziamento rilasciato dal Servizio di accreditamento svizzero (SAS)[^annex6-lvlu1-lvl1-lvl16-1];
   - b. laboratori di riferimento che soddisfano i requisiti dell’articolo 17 LEp.
 
-- 1\.6.3. Per il sequenziamento del SARS-CoV-2 assume al massimo 243.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 1\.6.3 Per il sequenziamento del SARS-CoV-2 assume al massimo 221 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Per l’analisi, di cui:</td><td>243.50 fr.</td></tr>
-<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>219.50 fr.</td></tr>
+<tr><td>Per l’analisi, di cui:</td><td>221 fr.</td></tr>
+<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>197 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 </table>
 
@@ -1216,11 +1245,12 @@ Allegato 6*[^t-7]*
     - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
     - 4\. da assistenti secondo la LAI.
 
-- 2\.1.3 Per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening assume al massimo 34 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 2\.1.3 Per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico o lo standard di screening assume al massimo 34 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><td>Prestazione</td><td>Importo massimo</td></tr>
-<tr><td>Prelievo del campione ed esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché analisi e disbrigo dell’incarico</td><td>34 fr.</td></tr>
+<tr><td>Se il campione non è prelevato dalla persona testata stessa: per il prelievo del campione e l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché l’analisi e il disbrigo dell’incarico</td><td>34 fr.</td></tr>
+<tr><td>Se il campione è prelevato dalla persona testata stessa: per l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché l’analisi e il disbrigo dell’incarico</td><td>15.50 fr.</td></tr>
 </table>
 
 ### 2.2 Analisi di biologia molecolare aggregate per il SARS-CoV-2
@@ -1260,7 +1290,7 @@ Allegato 6*[^t-7]*
 
 - 2\.2.3
 
-  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 250.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 311 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
@@ -1273,14 +1303,21 @@ Allegato 6*[^t-7]*
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>232 fr.</td></tr>
+<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>274 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
-<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>6 fr</td></tr>
-<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>213 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
+<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
-<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>6 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
+</table>
+
+- c. per l’aggregazione centralizzata:
+
+<table>
+<tr><th colspan="2">Prestazione</th><th>Importo massimo</th></tr>
+<tr><td colspan="2">Esecuzione nell’ambito della scuola dell’obbligo e del livello secondario II, per ogni campione aggregato formato</td><td>18.50 fr.</td></tr>
 </table>
 
 ### 3 Tariffe di base per i test mirati e ripetuti
@@ -1293,7 +1330,7 @@ Allegato 6*[^t-7]*
 
   - a. per test mirati e ripetuti in ospedali, case di riposo e di cura nonché in istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
   - b. per test mirati e ripetuti in aziende e associazioni, se il servizio cantonale competente presenta una strategia all’UFSP;
-  - c. per un contatto in quarantena, se sull’80 per cento del personale dell’azienda in cui lavora sono eseguiti test mirati e ripetuti.
+  - c. per un contatto in quarantena, se nell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana.
 
 - 3\.1.2 Assume inoltre le spese per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard di screening nei casi di cui al numero 3.1.1 lettera b.
 - 3\.1.3
@@ -1330,21 +1367,23 @@ Allegato 6*[^t-7]*
 
   - a. per test mirati e ripetuti in ospedali, case di riposo e di cura nonché in altri istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
   - b. per test mirati e ripetuti nelle aziende, se il servizio cantonale competente presenta una strategia all’UFSP;
-  - c. per un contatto in quarantena, se sull’80 per cento del personale dell’azienda in cui lavora sono eseguiti test mirati e ripetuti.
+  - c. per un contatto in quarantena, se tra il personale dell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana.
 
 - 3\.2.2 Assume le spese soltanto se le prestazioni sono fornite da laboratori di cui all’articolo 54 capoverso 3 OAMal e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp.
-- 3\.2.3 Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 232 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 3\.2.3 Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 292.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>232 fr.</td></tr>
+<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>274 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
-<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>6 fr.</td></tr>
-<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>213 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
+<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lett. b e c, per ogni campione aggregato formato</td><td>18.50 fr.</td></tr>
+<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
-<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>6 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
+<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lett. b e c, per ogni campione aggregato formato</td><td>18.50 fr.</td></tr>
 </table>
 
 ### 3.3 Test autodiagnostici SARS-CoV-2
@@ -1360,17 +1399,17 @@ Allegato 6*[^t-7]*
 ### 4 Limitazioni
 
 - 4\.1 Se su una persona sono eseguite lo stesso giorno un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un’analisi per gli anticorpi contro il SARS-CoV-2 secondo il numero 1.3, la Confederazione assume *una tantum* l’importo per il prelievo del campione secondo i numeri 1.1.3 lettera a e 1.3.3 lettera a, nonché quello per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione secondo i numeri 1.1.3 lettera b e 1.3.3 lettera b.
-- 4\.2 Se su una persona sono eseguite lo stesso giorno un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un’analisi immunologica degli antigeni SARS-CoV-2 o un test rapido SARS-CoV-2 per uso professionale secondo lo standard diagnostico o lo standard di screening, la Confederazione assume *una tantum* l’importo per il prelievo del campione secondo i numeri 1.1.3 lettera a e 1.4.4 lettera a.
+- 4\.2 ...
 - 4\.3 Se su una persona sono eseguite dallo stesso fornitore di prestazioni un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti secondo il numero 1.5 o un sequenziamento del SARS-CoV-2 secondo il numero 1.6, la Confederazione assume *una tantum* l’importo per il disbrigo dell’incarico e i costi generali secondo i numeri 1.1.3 lettera b, 1.5.3 o 1.6.3.
 - 4\.4 Per le analisi per il SARS-CoV-2 nelle quali il campione è prelevato dalla persona testata stessa, il prelievo del campione non può essere fatturato.
 
 Allegato 7*[^t-8]*
 
-(art. 27*a* cpv. 11)
+(art. 27*a* cpv. 10 e 11)
 
-## Precisazioni mediche sulle malattie che rendono le persone interessate particolarmente a rischio
+## Malattie e anomalie genetiche che rendono le persone interessate particolarmente a rischio
 
-[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mag. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) e del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio), in vigore dal 2 apr. 2021 ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
+[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mag. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 

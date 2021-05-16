@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-05-01
+version: 2021-05-17
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210517/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210517-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210517/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> mai 2021)
+du 19 juin 2020 (Etat le 17 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -167,7 +167,9 @@ Le groupe de travail interdépartemental concernant les biens médicaux comprend
 - f. Pharmacie de l’armée;
 - g. Service sanitaire coordonné (SSC).
 
-<sup>2</sup> Le délégué du Conseil fédéral pour le SSC dirige le groupe de travail.
+<sup>2</sup> Le mandataire du Conseil fédéral pour le SSC dirige le groupe de travail.[^12-1]
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 13
 
@@ -201,13 +203,15 @@ Le groupe de travail interdépartemental concernant les biens médicaux comprend
 
 **Attribution des biens médicaux importants**
 
-<sup>1</sup> Si nécessaire, les cantons déposent des demandes d’attribution auprès du SSC.
+<sup>1</sup> Si nécessaire, les cantons déposent des demandes d’attribution auprès de la ResMaB.[^15-1]
 
 <sup>2</sup> L’attribution se base continuellement sur l’état d’approvisionnement et le nombre de cas actuels dans chaque canton.
 
 <sup>3</sup> Après avoir entendu le groupe de travail interdépartemental concernant les biens médicaux, le SSC peut attribuer les biens médicaux importants aux cantons, à des organisations d’utilité publique et à des tiers.
 
 <sup>4</sup> L’attribution des diagnostics *in vitro* («tests COVID-19») incombe au Laboratoire de Spiez, en accord avec l’OFSP. L’attribution concerne tous les tests disponibles en Suisse si nécessaire.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 16
 
@@ -237,6 +241,10 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 <sup>4</sup> Les cantons prennent en charge les coûts de distribution de ces biens médicaux importants sur leur territoire.
 
+<sup>5</sup> Si les biens acquis sont de nouveau disponibles librement sur le marché, la Confédération peut remettre ses stocks aux prix du marché.[^18-1]
+
+[^18-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+
 #### Art. 19
 
 **Confiscation**
@@ -259,13 +267,14 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 <sup>1</sup> En attendant la décision de Swissmedic, les médicaments fabriqués avec les substances actives énumérées à l’annexe 5 et destinés à tratier les patients atteints du COVID-19 peuvent être mis sur le marché sans autorisation si une demande d’autorisation correspondante a été déposée. Dans le cadre de l’examen des demandes d’autorisation, Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour ces médicaments.
 
-<sup>2</sup> Des modifications de l’autorisation d’un médicament autorisé en Suisse contenant une substance active énumérée à l’annexe 4, ch. 1, et destinée à être utilisée en Suisse pour prévenir ou combattre le coronavirus peuvent être mises en œuvre immédiatement après le dépôt d’une demande correspondante. Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour ces modifications.
+<sup>2</sup> Des modifications de l’autorisation d’un médicament autorisé en Suisse contenant une substance active énumérée à l’annexe 4, ch. 1, qui doivent permettre d’utiliser le médicament pour traiter en Suisse des patients atteints du COVID-19, peuvent être mises en œuvre immédiatement après le dépôt d’une demande correspondante jusqu’à la décision de Swissmedic. Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour les modifications de l’autorisation des médicaments contenant une substance active énumérée à l’annexe 4, ch. 1.[^21-1]
 
-<sup>3</sup> Le DFI actualise régulièrement la liste figurant à l’annexe 5.[^21-1]
+<sup>3</sup> Le DFI actualise régulièrement la liste figurant à l’annexe 5.[^21-2]
 
 <sup>4</sup> Si une analyse bénéfice-risque a été effectuée, Swissmedic peut, pour les médicaments destinés à prévenir ou à combattre le coronavirus en Suisse, autoriser des divergences par rapport au processus de fabrication approuvé dans le cadre de l’autorisation. Il fixe les critères qui permettent au responsable technique de libérer précocement sur le marché les médicaments destinés à prévenir et à combattre le coronavirus en Suisse.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 22
 
@@ -519,7 +528,7 @@ Si la prestation fournie dans le cadre d’une analyse pour le SARS-CoV-2 visée
 
 <sup>3</sup>
 
-Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, ch. 1.1.1, let. i et j, 1.4.1, let. h et i, et 3.1.1, let. a, les fournisseurs de prestations peuvent choisir comme débiteur de la rémunération de la prestation:
+Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, ch. 1.1.1, let. i et j, 1.4.1, let. h et i, 3.1.1, let. a, et 3.2.1, let. a, les fournisseurs de prestations peuvent choisir comme débiteur de la rémunération de la prestation:[^26a-4]
 
 - a. l’assureur visé à l’al. 1, qui est le débiteur de la rémunération des prestations selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal, ou
 - b. le canton dans lequel l’échantillon pour le SARS-CoV-2 est prélevé.
@@ -529,6 +538,7 @@ Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, 
 [^26a-1]: Introduit par le ch. I de l’O du 24 juin 2020 ([RO 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^26a-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26b
 
@@ -625,16 +635,32 @@ Si, pour des raisons dʼexploitation, la présence dʼemployés vulnérables sur
 
 <sup>9</sup> L’octroi des allocations pour perte de gain COVID-19 est régi par l’art. 2, al. 3<sup>quater</sup>, de l’ordonnance du 20 mars 2020 sur les pertes de gain COVID-19[^27a-1].
 
-<sup>10</sup> Par personnes vulnérables, on entend les femmes enceintes et les personnes qui n’ont pas été vaccinées contre le COVID-19 et qui souffrent notamment des pathologies suivantes: hypertension artérielle, diabète, maladie cardio-vasculaire, affection chronique des voies respiratoires, faiblesse immunitaire due à une maladie ou à un traitement, cancer, obésité.
+<sup>10</sup>
 
-<sup>11</sup> Les pathologies visées à lʼal. 10 sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée.
+Sont considérées comme vulnérables:
 
-<sup>12</sup> LʼOFSP actualise en permanence lʼannexe 7.
+- a. les femmes enceintes;
+- b. les personnes qui souffrent des pathologies ou des anomalies génétiques énumérées à l’annexe 7.[^27a-2]
 
-<sup>13</sup> L’art. 10 de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^27a-2] s’applique à la protection générale des employés.
+<sup>10bis</sup>
+
+Ne tombent pas sous le coup de l’al. 10 les personnes qui:
+
+- a. sont vaccinées contre le COVID-19;
+- b. ont contracté le SARS-CoV-2 et sont considérées comme guéries, durant 6 mois à compter de la levée de leur isolement par l’autorité compétente.[^27a-3]
+
+<sup>11</sup> Les pathologies et anomalies génétiques visées à lʼal. 10, let. b, sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée et peut aussi avoir pour conséquence que des personnes visées à l’al. 10<sup>bis</sup> soient considérées comme vulnérables.[^27a-4]
+
+<sup>12</sup> Le DFI actualise en permanence lʼannexe 7 selon l’état des connaissances scientifiques.[^27a-5]
+
+<sup>13</sup> L’art. 10 de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^27a-6] s’applique à la protection générale des employés.
 
 [^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-3]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-5]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-6]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapitre 5 Dispositions finales
 
@@ -718,7 +744,7 @@ Annexe 4*[^t-4]*
 
 ## Liste des médicaments, dispositifs médicaux et équipements de protection importants (biens médicaux importants)
 
-[^t-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 6 oct. 2020 (Liste des biens médicaux importants et liste des substances actives pour le traitement du COVID-19) ([RO 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Mise à jour par le ch. II al. 1 de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)) et le ch. I al. 1 de l’O du DFI du 14 avr. 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19), en vigueur depuis le 15 avr. 2021 ([RO 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
+[^t-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 6 oct. 2020 (Liste des biens médicaux importants et liste des substances actives pour le traitement du COVID-19) ([RO 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Mise à jour par le ch. II al. 1 de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), le ch. I al. 1 de l’O du DFI du 14 avr. 2021 (Modification des listes des biens médicaux importants et des substances actives pour le traitement du COVID-19) ([RO 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) et le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1. Substances actives et médicaments contenant les substances actives mentionnées
 
@@ -813,6 +839,10 @@ Annexe 4*[^t-4]*
 
 \46. Bamlanivimab/étésevimab
 
+- 47\. Oxygène médical
+
+\48. Solutions de perfusion
+
 ### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux****
 
 [^annex4-lvlu1-lvl2-1]
@@ -829,13 +859,15 @@ Annexe 4*[^t-4]*
 
 \5. Gants chirurgicaux / gants d’examen
 
-\6. Oxygène médical
+- 6\. Instrument de perfusion
 
-\7. Solutions de perfusion
+\7. Pointes pour pipettes avec filtre
 
 \8. Set de prélèvements (tubes et écouvillons)
 
 \9. Seringues non réutilisables et aiguilles non réutilisables
+
+\10. Pointes pour l’analyses des gaz du sang
 
 ### 3. Équipements de protection individuelle et autres équipements
 
@@ -922,7 +954,7 @@ Annexe 6*[^t-7]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II de l’O du 12 mai 2021, le ch. 1.6.1 en vigueur depuis le 12 avr. 2021 et les ch. 1.5.1, 1.5.3 et 1.5.4 en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021, sous réserve du ch. 1.6.1 en vigueur depuis le 12 avr. 2021 et des ch. 1.5.1, 1.5.3 et 1.5.4, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -1042,7 +1074,7 @@ Annexe 6*[^t-7]*
 
 - 1\.2.3
 
-  Elle prend en charge au maximum 279,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
+  Elle prend en charge au maximum 321,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
@@ -1056,14 +1088,14 @@ Annexe 6*[^t-7]*
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>232 francs</td></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>274 francs</td></tr>
 <tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
-<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
-<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>213 francs</td></tr>
-<tr><td>– pour l’analyse avec taille minimale du pool =</td><td>82 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>255 francs</td></tr>
+<tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
-<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
 </table>
 
 ### 1.3 Analyses des anticorps contre le SARS-CoV-2
@@ -1215,12 +1247,12 @@ Annexe 6*[^t-7]*
   - a. des laboratoires de diagnostic microbiologique avec une accréditation du Service d’accréditation suisse (SAS) dans le domaine du séquençage[^annex6-lvlu1-lvl1-lvl16-1];
   - b. des laboratoires de référence qui satisfont aux conditions visées à l’art. 17 LEp.
 
-- 1\.6.3 Elle prend en charge au maximum 243,50 francs pour le séquençage du SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
+- 1\.6.3 Elle prend en charge au maximum 221 francs pour le séquençage du SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation de l’analyse, à savoir:</td><td>243,50 francs</td></tr>
-<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>219,50 francs</td></tr>
+<tr><td>Pour la réalisation de l’analyse, à savoir:</td><td>221 francs</td></tr>
+<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>197 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
 </table>
 
@@ -1265,7 +1297,8 @@ Annexe 6*[^t-7]*
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour le prélèvement de l’échantillon et la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat</td><td>34 francs</td></tr>
+<tr><td>Pour le prélèvement de l’échantillon et la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon n’est pas effectué par la personne testée elle-même</td><td>34 francs</td></tr>
+<tr><td>Pour la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon est effectué par la personne testée elle-même</td><td>15,50 francs</td></tr>
 </table>
 
 ### 2.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
@@ -1305,7 +1338,7 @@ Annexe 6*[^t-7]*
 
 - 2\.2.3
 
-  Elle prend en charge au maximum 250,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
+  Elle prend en charge au maximum 311 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
@@ -1317,15 +1350,22 @@ Annexe 6*[^t-7]*
 - b. pour l’analyse poolée de biologie moléculaire:
 
 <table>
-<tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>232 francs</td></tr>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>274 francs</td></tr>
 <tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
-<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
-<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>213 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>255 francs</td></tr>
 <tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
-<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
+</table>
+
+- c. pour le pooling centralisé:
+
+<table>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation à l’école obligatoire et au niveau secondaire II, par création de pool</td><td>18,50 francs</td></tr>
 </table>
 
 ### 3 Tarif de base pour les dépistages ciblés et répétitifs
@@ -1338,7 +1378,7 @@ Annexe 6*[^t-7]*
 
   - a. lors de tests ciblés et répétitifs dans des hôpitaux, des maisons pour personnes âgées, des établissements médicaux-sociaux ainsi que d’autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation;
   - b. lors de tests ciblés et répétitifs dans des entreprises et des associations, dans la mesure où le service cantonal compétent présente un projet à l’OFSP.
-  - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué auprès de 80 % du personnel de l’entreprise dans laquelle travaille la personne-contact.
+  - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué au moins une fois par semaine dans l’entreprise dans laquelle travaille la personne-contact.
 
 - 3\.1.2 En outre, elle prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard screening» dans les cas visés au ch. 3.1.1, let. b.
 - 3\.1.3
@@ -1375,21 +1415,23 @@ Annexe 6*[^t-7]*
 
   - a. lors de tests ciblés et répétitifs dans des hôpitaux, des maisons pour personnes âgées, des établissements médicaux-sociaux ainsi que d’autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation;
   - b. lors de tests ciblés et répétitifs dans des entreprises, dans la mesure où le service cantonal compétent présente un projet à l’OFSP;
-  - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué auprès de 80 % du personnel de l’entreprise dans laquelle travaille la personne-contact.
+  - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué au moins une fois par semaine auprès du personnel de l’entreprise dans laquelle travaille la personne-contact.
 
 - 3\.2.2 Elle prend en charge les coûts uniquement si les prestations sont fournies par les laboratoires visés à l’art. 54, al. 3, OAMal et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
-- 3\.2.3 Elle prend en charge au maximum 232 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
+- 3\.2.3 Elle prend en charge au maximum 292.50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>232 francs</td></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>274 francs</td></tr>
 <tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
-<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
-<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>213 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
+<tr><td>– Pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1 let b et c</td><td>18,50 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>255 francs</td></tr>
 <tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
-<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
+<tr><td>– Pour la réalisation d’un pooling centralisé dans les cas visés au ch. 3.2.1 let b et c</td><td>18,50 francs</td></tr>
 </table>
 
 ### 3.3 Autotests SARS-CoV-2
@@ -1405,17 +1447,17 @@ Annexe 6*[^t-7]*
 ### 4 Limitations
 
 - 4\.1 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une analyse des anticorps contre le SARS-CoV-2 selon le ch. 1.3 sont réalisées le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.1.3, let. a, et 1.3.3, let. a, et une seule fois le montant comprenant le traitement du mandat, les frais généraux et le matériel de prélèvement visé aux ch. 1.1.3, let. b, et 1.3.3, let. b.
-- 4\.2 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une analyse des antigènes du SARS-CoV-2 par immunologie ou un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» ou selon le «standard screening» conformément au ch. 1.4 sont réalisés le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.1.3, let. a, et 1.4.4, let. a.
+- 4\.2 …
 - 4\.3 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2 selon le ch. 1.5 ou un séquençage du SARS-CoV-2 selon le ch. 1.6 sont réalisés sur une personne par le même fournisseur de prestations, la Confédération prend en charge une seule fois le montant comprenant le traitement du mandat et les frais généraux visés aux ch. 1.1.3, let. b, 1.5.3 et 1.6.3.
 - 4\.4 Lors d’analyses pour le SARS-CoV-2 pour lesquelles le prélèvement de l’échantillon est effectué par la personne testée elle-même, le coût du prélèvement ne doit pas être facturé.
 
 Annexe 7*[^t-8]*
 
-(art. 27*a*, al. 11)
+(art. 27*a*, al. 10 et 11)
 
-## Précisions médicales sur les maladies rendant vulnérables les personnes concernées
+## Maladies et anomalies génétiques rendant vulnérables les personnes concernées
 
-[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mai 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées), en vigueur depuis le 2 avr. 2021 ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
+[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mai 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) et le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Selon l’état actuel de la science, seules certaines catégories d’adultes sont vulnérables. Partant, les critères ci-après concernent uniquement les adultes.
 

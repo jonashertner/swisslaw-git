@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-05-01
+version: 2021-05-17
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210501/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210517/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210517-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210517/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 1 May 2021)
+of 19 June 2020 (Status as of 17 May 2021)
 
 The Swiss Federal Council,
 
@@ -159,7 +159,7 @@ The Federal Office of Public Health (FOPH) shall define the goods that need to b
 
 <sup>1</sup>
 
-The Interdepartmental Working Group on Medical Goods shall comprise as a minimum representatives from the following federal agencies:
+<sup>1</sup> The Interdepartmental Working Group on Medical Goods shall comprise as a minimum representatives from the following federal agencies:
 
 - a. the FOPH;
 - b. the Therapeutic Products Division of the Federal Office for National Economic Supply;
@@ -169,7 +169,9 @@ The Interdepartmental Working Group on Medical Goods shall comprise as a minimum
 - f. the Armed Forces Pharmacy;
 - g. the Coordinated Medical Services (CMS).
 
-<sup>2</sup> The Federal Council CMS delegate chairs the working group.
+<sup>2</sup> The Federal Council CMS delegate chairs the working group.[^12-1]
+
+[^12-1]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 13
 
@@ -203,13 +205,15 @@ The Interdepartmental Working Group on Medical Goods shall comprise as a minimum
 
 **Allocation of essential medical goods**
 
-<sup>1</sup> The cantons shall submit requests for allocation to the CMS as required.
+<sup>1</sup> The cantons shall submit requests for allocation to the ResMaB as required.[^15-1]
 
 <sup>2</sup> Allocation shall be made continuously based on the supply situation and the current number of cases in each canton.
 
 <sup>3</sup> The CMS in consultation with Interdepartmental Working Group on Medical Goods may allocate essential medical goods to the cantons, to charitable organisations and to third parties.
 
 <sup>4</sup> The Spiez Laboratory in consultation with the FOPH is responsible for allocating in vitro diagnostics (COVID-19 tests). Allocation when required applies to all tests available in Switzerland.
+
+[^15-1]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 16
 
@@ -239,6 +243,10 @@ The Confederation may sell the essential medical goods on the market in return f
 
 <sup>4</sup> The cantons shall bear the costs of distributing these essential medical goods within the canton.
 
+<sup>5</sup> If the procured goods become freely available in the market again, the Confederation may sell its stocks at market prices.[^18-1]
+
+[^18-1]: Inserted by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+
 #### Art. 19
 
 **Requisitioning**
@@ -261,13 +269,14 @@ The Confederation may sell the essential medical goods on the market in return f
 
 <sup>1</sup> Medicinal products that are manufactured with active substances under Annex 5 for the treatment of COVID-19 patients may, provided an application for authorisation of a medicinal product containing one of these active substances has been filed, be placed on the market without authorisation pending Swissmedic’s decision on authorisation. When examining applications for authorisation, Swissmedic may permit a relaxation of the relevant requirements for such medicinal products under the law on therapeutic products on the basis of a risk-benefit analysis.
 
-<sup>2</sup> Amendments to the authorisation for a medicinal product authorised in Switzerland containing an active substance under Annex 4 number 1 that is used to prevent and treat COVID-19 in Switzerland may be made immediately after filing a corresponding amendment application. Swissmedic may permit a relaxation of the relevant requirements for such amendments under the law on therapeutic products on the basis of a risk-benefit analysis.
+<sup>2</sup> Amendments to the authorisation for a medicinal product authorised in Switzerland containing an active substance under Annex 4 number 1 on the basis of which the medicinal product can be used to treat COVID-19 patients in Switzerland may be made immediately after filing a corresponding amendment application and pending Swissmedic’s decision on authorisation. Swissmedic may, on the basis of a risk-benefit analysis, permit a relaxation of the relevant requirements under the law on therapeutic products for amendments to the authorisation of medicinal products containing an active substance listed in Annex 4 number 1.[^21-1]
 
-<sup>3</sup> The FDHA shall regularly update the list in Annex 5.[^21-1]
+<sup>3</sup> The FDHA shall regularly update the list in Annex 5.[^21-2]
 
 <sup>4</sup> Swissmedic may on the basis of a risk-benefit analysis permit changes to the manufacturing process approved within the framework of the authorisation of medicinal products used to prevent and treat COVID-19 in Switzerland. It shall specify criteria according to which the person responsible for technical matters may grant an early market release for medicinal products used to prevent and treat COVID-19 in Switzerland.
 
-[^21-1]: Amended by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^21-1]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^21-2]: Amended by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 
 #### Art. 22
 
@@ -521,7 +530,7 @@ Where a service involving an analysis for Sars-CoV-2 under Annex 6 number 1 is c
 
 <sup>3</sup>
 
-Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sections 1.1.1 letters i and j, 1.4.1 letters h and i and 3.1.1 letter a, the service providers may choose as the person liable to pay for the service:
+Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sections 1.1.1 letters i and j, 1.4.1 letters h and i, 3.1.1 letter a and 3.2.1 letter a, the service providers may choose as the person liable to pay for the service:[^26a-4]
 
 - a. the insurer under paragraph 1 that is liable to pay for the services under the *tiers payant* system in terms of Article 42 paragraph 2 HIA; or
 - b. the canton in which the sample for Sars-CoV-2 is taken.
@@ -531,6 +540,7 @@ Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sectio
 [^26a-1]: Inserted by No I of the O of 24 June 2020 ([AS 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^26a-4]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 #### Art. 26b
 
@@ -627,16 +637,32 @@ Where for operational reasons the presence of employees at high risk in the work
 
 <sup>9</sup> Article 2 paragraph 3<sup>quater</sup> of the COVID-19 Loss of Earnings Ordinance of 20 March 2020[^27a-1] governs claims for compensation for loss of earnings related to the corona pandemic.
 
-<sup>10</sup> Persons at high risk include pregnant women and persons who have not been vaccinated against COVID-19 and who suffer from the following conditions in particular: hypertension, diabetes, cardio-vascular diseases, chronic respiratory diseases, diseases and therapies that weaken the immune system, cancer, obesity.
+<sup>10</sup>
 
-<sup>11</sup> The diseases referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved.
+Persons at high risk are:
 
-<sup>12</sup> The FOPH shall update Annex 7 regularly.
+- a. pregnant women;
+- b. persons with the diseases or genetic anomalies listed in Annex 7.[^27a-2]
 
-<sup>13</sup> For the general protection of employees, Article 10 of the COVID-19 Special Situation Ordinance of 19 June 2020[^27a-2] applies.
+<sup>10bis</sup>
+
+The following persons do not fall under paragraph 10:
+
+- a. persons who have been vaccinated against COVID-19;
+- b. persons who have been were infected with Sars-CoV-2 and have recovered, in the 6 months following the authorisation of their release from isolation by the competent authority.[^27a-3]
+
+<sup>11</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.[^27a-4]
+
+<sup>12</sup> The FDHA shall continually update Annex 7 based on the state of science.[^27a-5]
+
+<sup>13</sup> For the general protection of employees, Article 10 of the COVID-19 Special Situation Ordinance of 19 June 2020[^27a-6] applies.
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-2]: Amended by No I of the O of 12 May 2021, in force from 17 to 31 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-3]: Inserted by No I of the O of 12 May 2021, in force from 17 to 31 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-4]: Amended by No I of the O of 12 May 2021, in force from 17 to 31 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-5]: Amended by No I of the O of 12 May 2021, in force from 17 to 31 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-6]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapter 5 Final Provisions
 
@@ -718,7 +744,7 @@ Annex 4*[^t-4]*
 
 ## List of important medicinal products, medical devices and protective equipment (Essential Medical Goods)
 
-[^t-4]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised in accordance with No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)) and No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19), in force since 15 April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
+[^t-4]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised in accordance with No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) and No II of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1. Active substances or medicinal products with the listed active substances
 
@@ -814,6 +840,10 @@ Annex 4*[^t-4]*
 
 \46. Bamlanivimab/etesevimab
 
+\47. Medical oxygen
+
+\48. Infusion solutions
+
 ### 2. Medical devices within the meaning of the Medical Devices Ordinance of 17 October 2001****
 
 [^annex4-lvlu1-lvl2-1]
@@ -830,13 +860,15 @@ Annex 4*[^t-4]*
 
 \5. Surgical gloves / examination gloves
 
-\6. Medical oxygen
+\6. Infusion sets
 
-\7. Infusion solutions
+\7. Pipette tips with filters
 
 \8. Test kits (tubes and swabs)
 
 \9. Single-use syringes and cannulae
+
+\10. Blood gas syringes
 
 ### 3. Personal protective equipment and other equipment
 
@@ -930,7 +962,7 @@ Annex 6*[^t-7]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O od 12 May 2021, No 1.6.1 in force since 12 Avril 2021, No 1.5.1, 1.5.3 and 1.5.4 in force since 1 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O od 12 May 2021, No 1.6.1 in force since 12 April 2021, No 1.5.1, 1.5.3 and 1.5.4 in force since 1 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1049,7 +1081,7 @@ Annex 6*[^t-7]*
 
 - 1\.2.3
 
-  It shall pay a maximum of 279.50 francs for pooled molecular-biological analyses for Sars-CoV-2. This amount covers the following services and cost components:
+  It shall pay a maximum of 321.50 francs for pooled molecular-biological analyses for Sars-CoV-2. This amount covers the following services and cost components:
 
   - a. for taking a sample:
 
@@ -1230,7 +1262,7 @@ Annex 6*[^t-7]*
   - a. micro-biological diagnostic laboratories with an accreditation in sequencing from the Swiss Accreditation Service (SAS)[^annex6-lvlu1-lvl1-lvl16-1];
   - b. reference laboratories that meet the requirements of Article 17 EpidA.
 
-- 1\.6.3 It shall pay a maximum of 243.50 francs for sequencing for Sars-CoV-2. The amount covers the following services and cost components:
+- 1\.6.3 It shall pay a maximum of 221 francs for sequencing for Sars-CoV-2. The amount covers the following services and cost components:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
@@ -1318,7 +1350,7 @@ Annex 6*[^t-7]*
 
 - 2\.2.3
 
-  It shall pay a maximum of 250.50 francs for pooled molecular-biological analyses for Sars-CoV-2. The amount covers the following services and cost components:
+  It shall pay a maximum of 311 francs for pooled molecular-biological analyses for Sars-CoV-2. The amount covers the following services and cost components:
 
   - a. for taking a sample:
 
@@ -1341,6 +1373,8 @@ Annex 6*[^t-7]*
 <tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>6 Fr.</td></tr>
 </table>
 
+- c. for centralised pooling:
+
 ### 3 Basic tariff for targeted and repetitive testing
 
 ### 3.1 Sars-CoV-2 rapid tests for specialist use
@@ -1351,7 +1385,7 @@ Annex 6*[^t-7]*
 
   - a. where targeted and repetitive testing is carried out in hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
   - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH;
-  - c. where a contact person is in quarantine and targeted and repetitive testing is carried out on 80 per cent of the workforce of the business where the contact person works.
+  - c. where a contact person is in quarantine and targeted and repetitive testing is carried in the business where the contact person works, with at least one test per week.
 
 - 3\.1.2 It shall also pay the costs of Sars-CoV-2 rapid tests for specialist use according to the screening standard in cases under number 3.1.1 letter b.
 - 3\.1.3
@@ -1389,10 +1423,10 @@ Annex 6*[^t-7]*
 
   - a. where targeted and repetitive testing is carried out in hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
   - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH;
-  - c. where a contact person is in quarantine and targeted and repetitive testing is carried out on 80 per cent of the workforce of the business where the contact person works.
+  - c. where a contact person is in quarantine and targeted and repetitive testing is carried out in the business where the contact person works, with at least one test per week.
 
 - 3\.2.2 It shall pay the costs only if the services are provided by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
-- 3\.2.3 It shall pay a maximum of 232 francs for pooled molecular-biological analyses for Sars-CoV-2. The amount covers the following services and cost components:
+- 3\.2.3 It shall pay a maximum of 292.50 francs for pooled molecular-biological analyses for Sars-CoV-2. The amount covers the following services and cost components:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
@@ -1419,17 +1453,17 @@ Annex 6*[^t-7]*
 ### 4 Limitations
 
 - 4\.1 If both a molecular-biological analysis for Sars-CoV-2 in accordance with number 1.1 and an analysis for Sars-CoV-2 antibodies in accordance with number 1.3 are carried out on the same person on the same day, the Confederation shall make only one payment of the amount due for taking a sample in accordance with number 1.1.3 letter a and 1.3.3 letter a and the amount due for the order processing, overheads and sampling materials in accordance with the number 1.1.3 letter b and 1.3.3 letter b.
-- 4\.2 If both a molecular-biological analysis for Sars-CoV-2 in accordance with number 1.1 and an immunological analysis for Sars-CoV-2 antigens or a Sars-CoV-2 rapid test for specialist use according to the diagnostic standard or according to the screening standard in accordance with number 1.4 are carried out on the same person on the same day, the Confederation shall make only one payment of the amount due for taking a sample in accordance with number 1.1.3 letter a and 1.4.4 letter a.
+- 4\.2 ...
 - 4\.3 If both a molecular-biological analysis for Sars-CoV-2 in accordance with number 1.1 and the molecular-biological detection of one or more Sars-CoV-2 variants of concern in accordance with number 1.5 or sequencing for Sars-CoV-2 in accordance with number 1.6 are carried out by the same service provider, the Confederation shall make only one payment in respect of its share of the costs for order processing and overheads in accordance with numbers 1.1.3 letter b and 1.5.3 letter a or 1.6.3.
 - 4\.4 In the case of analyses for Sars-CoV-2, where the person tested can take the sample, no charge may be made for taking a sample.
 
 Annex 7*[^t-8]*
 
-(Art. 27*a* para. 11)
+(Art. 27*a* para. 10 and 11)
 
-## Medical specifications of diseases that make the persons concerned persons at high risk
+## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 May 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), and of 1 April 2021 (List of Diseases that place Persons at High Risk), in force since 2 April 2021 ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)).
+[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 May 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 149](https://fedlex.data.admin.ch/eli/oc/2021/149)) und No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
