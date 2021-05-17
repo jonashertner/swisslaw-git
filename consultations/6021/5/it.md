@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale concernente progetti pilota di mobility pricing
 document: Avamprogetto
 language: it

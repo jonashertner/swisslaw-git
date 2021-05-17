@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über Pilotprojekte zu Mobility Pricing
 document: Vorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur les projets pilotes de tarification de la mobilité
 document: Projet
 language: fr
