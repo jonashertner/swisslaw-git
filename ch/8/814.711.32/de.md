@@ -3,18 +3,18 @@ sr: "814.711.32"
 title: Verordnung des EDI vom 24. März 2021 über die Sachkundenachweise für Behandlungen zu kosmetischen Zwecken mit nichtionisierender Strahlung und Schall
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/207"
 language: de
-version: 2021-05-01
+version: 2021-05-18
 adopted: 2021-03-24
 in_force: 2021-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2021-207-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20210518/de/xml/fedlex-data-admin-ch-eli-cc-2021-207-20210518-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20210518/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Sachkundenachweise für Behandlungen zu kosmetischen Zwecken mit nichtionisierender Strahlung und Schall
 
-vom 24. März 2021 (Stand am 1. Mai 2021)
+vom 24. März 2021 (Stand am 18. Mai 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -68,11 +68,13 @@ Die im Anhang aufgeführten Prüfungsstellen melden dem BAG jährlich bis späte
 
 Diese Verordnung tritt am 1. Mai 2021 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 1)
 
 ## Sachkundenachweise
+
+[^t-1]: Die Berichtigung vom 18. Mai 2021 betrifft nur den französischen Text ([AS 2021 278](https://fedlex.data.admin.ch/eli/oc/2021/278)).
 
 - 1\. Die nachstehenden Sachkundenachweise berechtigen zur Durchführung der Behandlungen nach Anhang 2 Ziffer 1 V-NISSG:
 

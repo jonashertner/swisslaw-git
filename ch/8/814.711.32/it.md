@@ -3,18 +3,18 @@ sr: "814.711.32"
 title: Ordinanza del DFI del 24 marzo 2021 sugli attestati di competenza per trattamenti estetici con radiazioni non ionizzanti e stimoli sonori
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/207"
 language: it
-version: 2021-05-01
+version: 2021-05-18
 adopted: 2021-03-24
 in_force: 2021-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2021-207-20210501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/207/20210518/it/xml/fedlex-data-admin-ch-eli-cc-2021-207-20210518-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/207/20210518/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sugli attestati di competenza per trattamenti estetici con radiazioni non ionizzanti e stimoli sonori
 
-del 24 marzo 2021 (Stato 1° maggio 2021)
+del 24 marzo 2021 (Stato 18 maggio 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -26,7 +26,7 @@ ordina:
 
 #### Art. 1
 
-**Attestati di competenza**
+**Attestati dicompetenza**
 
 Gli attestati di competenza che autorizzano l’esecuzione di trattamenti secondo l’allegato 2 numero 1 O-LRNIS sono elencati nell’allegato.
 
@@ -68,11 +68,13 @@ Gli organi d’esame che figurano nell’allegato notificano all’UFSP entro il
 
 La presente ordinanza entra in vigore il 1° maggio 2021.
 
-Allegato
+Allegato*[^t-1]*
 
 (art. 1)
 
 ## Attestato di competenza
+
+[^t-1]: La correzione del 18 mag. 2021 concerne soltanto il testo francese ([RU 2021 278](https://fedlex.data.admin.ch/eli/oc/2021/278)).
 
 - 1\. Gli attestati di competenza seguenti autorizzano l’esecuzione dei trattamenti di cui all’allegato 2 numero 1 O-LRNIS
 
