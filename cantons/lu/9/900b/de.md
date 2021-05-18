@@ -4,13 +4,13 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2021-04-21
-valid_until: 2021-05-18
-version_adopted: 2021-04-20
+version: 2021-05-19
+valid_until: 2021-06-18
+version_adopted: 2021-05-18
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/3740/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3746/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3740/pdf_file"
 
 (Kantonale Härtefallverordnung Covid-19)
 
-vom 09.12.2020 (Stand 21.04.2021)
+vom 09.12.2020 (Stand 19.05.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -136,7 +136,7 @@ beschliesst:
 - h. am 15. März 2020 laufendes Betreibungsverfahren oder Verlustscheine für Steuerschulden gegenüber Bund, Kantonen oder Gemeinden, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen.
 - i. …
 
-<sup>4</sup> Die Unternehmen bestätigen im Gesuch, dass sie keines der Ausschlusskriterien erfüllen, andernfalls wird das Gesuch nicht weiterbearbeitet. Ausgeschlossene Unternehmen werden durch das Finanzdepartement informiert.
+<sup>4</sup> Die Unternehmen bestätigen im Gesuch, dass sie keines der Ausschlusskriterien erfüllen, andernfalls wird das Gesuch nicht weiterbearbeitet. Ein Ausschluss wird den Unternehmen mit summarisch begründetem Entscheid durch das Finanzdepartement eröffnet.
 
 <sup>5</sup> Für Unternehmen, die auf Anordnung des Bundes oder des Kantons ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, gilt das Ausschlusskriterium gemäss Absatz 3g nicht.
 
@@ -160,15 +160,15 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Der Regierungsrat setzt für den Entscheid über die Gesuche eine Expertengruppe ein. Diese entscheidet mit Mehrheitsentscheid endgültig über die Gewährung von Unterstützungen.
+<sup>1</sup> Der Regierungsrat setzt für den Entscheid über die Gesuche eine Expertengruppe ein.
 
 <sup>2</sup> Die Expertengruppe besteht aus je einem unabhängigen Vertreter oder einer unabhängigen Vertreterin aus der Wirtschaft und aus der Treuhandbranche, einem Vertreter oder einer Vertreterin einer gemeinnützigen Organisation, einem unabhängigen externen Juristen oder einer unabhängigen externen Juristin, Vertreterinnen und Vertretern der Dienststellen Raum und Wirtschaft sowie Steuern, der Wirtschaftsförderung, des Sozialversicherungszentrums und des Finanzdepartementes. Das externe Wirtschaftsprüfungsunternehmen hat als Beisitzerin beratende Funktion.
 
 <sup>3</sup> Die Expertengruppe entscheidet gestützt auf den Antrag des externen Wirtschaftsprüfungsunternehmens frei.
 
-<sup>4</sup> Auf die Gewährung von Unterstützungen im Rahmen der Härtefallmassnahmen besteht kein Rechtsanspruch.
+<sup>4</sup> …
 
-<sup>5</sup> Die Entscheide der Expertengruppe werden durch das Finanzdepartement eröffnet.
+<sup>5</sup> Die Entscheide der Expertengruppe werden summarisch begründet und durch das Finanzdepartement eröffnet.
 
 <sup>6</sup> Die Garantien und nicht rückzahlbaren Beiträge werden zwischen dem 25. Januar 2021 (behördlich geschlossene Unternehmen) beziehungsweise dem 4. Februar 2021 (übrige Unternehmen) und dem 31. Dezember 2021 definitiv zugesichert oder ausbezahlt.
 
@@ -228,7 +228,7 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Entscheide der Expertengruppe, die gestützt auf diese Verordnung ergehen, kann kein Rechtsmittel ergriffen werden.
+<sup>1</sup> Entscheide, die gestützt auf diese Verordnung ergehen, können mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden.
 
 #### § 16
 
