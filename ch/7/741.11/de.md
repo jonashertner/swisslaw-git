@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2021-02-09
+version: 2021-05-20
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210209/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210209-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210209/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210520/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210520-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210209/de"
 
 (VRV)**[^t-1]**
 
-vom 13. November 1962 (Stand am 9. Februar 2021)
+vom 13. November 1962 (Stand am 20. Mai 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -58,7 +58,7 @@ verordnet:
 
 <sup>10</sup> Fahrzeugähnliche Geräte sind Rollschuhe, Inline-Skates, Trottinette oder ähnliche mit Rädern oder Rollen ausgestattete Fortbewegungsmittel, welche ausschliesslich durch die Körperkraft des Benützers angetrieben werden. Kinderräder sind den fahrzeugähnlichen Geräten gleichgestellt.[^1-8]
 
-<sup>\*</sup> Vgl. z.B. die Art. 6 Abs. 1 und 2, 47 Abs. 2 und 6.
+<sup>\*</sup> Vgl. z.B. die Art. 6 Abs. 1 und 2, 47 Abs. 2.
 
 [^1-1]: Gemäss Ziff. I der V vom 15. Mai 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)) wurden im ganzen Erlass die Randtitel in Sachüberschriften umgewandelt.
 [^1-2]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)**.** Heute: Signalisationsverordnung
@@ -1249,7 +1249,7 @@ Die Führer von Fahrrädern und Motorfahrrädern dürfen nicht neben andern Fahr
 
 [^49-1]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
-### 1*a*. Abschnitt: Benützer von fahrzeugähnlichen Geräten****
+### 1*a*. Abschnitt: Benützer von fahrzeugähnlichen Geräten
 
 [^part2-chap1a-1]
 
@@ -1435,7 +1435,7 @@ Die Fahrzeugführer haben jede Beschmutzung der Fahrbahn zu vermeiden. Ist eine 
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
-### I*a.***** Abgasemissionen, Abgaswartung des Fahrzeugs
+### I*a.* Abgasemissionen, Abgaswartung des Fahrzeugs
 
 [^part4-chap1-lvlIa-1]
 
@@ -2109,7 +2109,7 @@ Ausnahmen von den gesetzlichen Höchstmassen und Höchstgewichten (Art. 64–67)
 [^85-1]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Juli 2007 ([AS 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
 [^85-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 
-### 3. Abschnitt: Land- und forstwirtschaftliche Fahrzeuge****
+### 3. Abschnitt: Land- und forstwirtschaftliche Fahrzeuge
 
 [^part4-chap3-1]
 
@@ -2145,7 +2145,7 @@ Den Land- und Forstwirtschaftsbetrieben sind gleichgestellt:[^86-4]
 [^86-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^86-4]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^86-5]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^86-6]: Fassung gemäss Ziff. I der V vom 22. Okt. 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
+[^86-6]: Fassung gemäss Ziff. I der V vom 22. Okt. 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)). Die Berichtigung vom 20. Mai 2021 betrifft nur den italienischen Text ([AS 2021 284](https://fedlex.data.admin.ch/eli/oc/2021/284)).
 [^86-7]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 
 #### Art. 87
@@ -2480,7 +2480,7 @@ Bereits in Verkehr stehende Fahrzeuge, welche der vor dem 1. August 2002 geltend
 [^99-2]: [BS **7** 595 614; [AS 1948 531](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1491 Art. 4, [1959 679](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)Art. 107 Abs. 3, [1960 1157](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)Art. 28 Abs. 1 Ziff. 1, [1308](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)Art. 4 Abs. 6]
 [^99-3]: [BS **9** 360]
 
-## Schlussbestimmungen der Änderung vom 25. Januar 1989****
+## Schlussbestimmungen der Änderung vom 25. Januar 1989
 
 [^u1-1]
 
@@ -2494,7 +2494,7 @@ Zu Art. 41 Abs. 1 und 1<sup>bis</sup>
 
 Artikel 41 Absätze 1 und 1<sup>bis</sup> gilt ab 1. Juli 1989.
 
-## Schlussbestimmungen der Änderung vom 22. Dezember 1993****
+## Schlussbestimmungen der Änderung vom 22. Dezember 1993
 
 [^u2-1]
 
@@ -2510,7 +2510,7 @@ Artikel 41 Absätze 1 und 1<sup>bis</sup> gilt ab 1. Juli 1989.
 
 [^u2-2]: [[AS 1969 821](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839), [1972 1577](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781)[1748](https://fedlex.data.admin.ch/eli/oc/1972/1748__), [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)Ziff. II 2, [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611), [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922), [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)Art. 72 Ziff. 3, [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495)[531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)Ziff. II, [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)Art. 88 Ziff. 1, [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338), [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608), [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833), [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)Ziff. II 2 [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195), [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)Ziff. III, [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)Ziff. II 214 Ziff. I, II [816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)Ziff. II 3 [1326](https://fedlex.data.admin.ch/eli/oc/1994/1326_1326_1326). [AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. I Bst. a]. Siehe heute die V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
 
-## Schlussbestimmung der Änderung vom 22. Oktober 1997****
+## Schlussbestimmung der Änderung vom 22. Oktober 1997
 
 [^u3-1]
 
@@ -2518,10 +2518,10 @@ Artikel 41 Absätze 1 und 1<sup>bis</sup> gilt ab 1. Juli 1989.
 
 Kleidung nach Artikel 48 Absatz 3 VRV, die nicht der Schweizer Norm SN 640 710 entspricht, kann noch bis zum 31. Dezember 2000 verwendet werden.
 
-Anhang I*[^t-2]*
+Anhang I[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. I der V vom 7. März 1994, mit Wirkung seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 
-Anhang II*[^t-3]*
+Anhang II[^t-3]
 
 [^t-3]: Aufgehoben durch Art. 72 Ziff. 2 der Tierschutzverordnung vom 27. Mai 1981, mit Wirkung seit 1. Juli 1981 ([AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).

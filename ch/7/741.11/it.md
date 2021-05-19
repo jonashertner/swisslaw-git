@@ -4,20 +4,20 @@ title: Ordinanza del 13 novembre 1962 sulle norme della circolazione stradale (O
 short: ONC
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: it
-version: 2021-02-09
+version: 2021-05-20
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210209/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210209-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210209/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210520/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210520-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle norme della circolazione stradale
 
-(ONC)[^t-1]
+(ONC)**[^t-1]**
 
-del 13 novembre 1962 (Stato 9 febbraio 2021)
+del 13 novembre 1962 (Stato 20 maggio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 10 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -60,7 +60,7 @@ ordina:
 
 <sup>10</sup> I mezzi simili a veicoli sono pattini a rotelle, pattini in linea, monopattini o mezzi di spostamento analoghi muniti di ruote o rotelle che vengono azionati dalla sola forza fisica dell’utente. I velocipedi per bambini sono equiparati ai mezzi simili a veicoli.[^1-9]
 
-\* Cfr. art. 6 cpv. 1 e 2, e art. 47 cpv. 2 e 6
+\* Cfr. art. 6 cpv. 1 e 2, e art. 47 cpv. 2
 
 [^1-1]: Giusta il n. I dell’O del 15 mag. 2002, in vigore dal 1° ago. 2002, i titoli marginali sono stati sostituiti da titoli mediani ([RU 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^1-2]: Abbreviazione introdotta dal n. I dell’O del 25 gen. 1989, in vigore dal 1° mag. 1989 ([RU 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Di tale mod. è tenuto conto in tutto il presente testo.
@@ -2150,20 +2150,19 @@ I veicoli a motore agricoli e forestali e i loro rimorchi (veicoli agricoli e fo
 Sono equiparate alle aziende agricole e forestali:[^86-4]
 
 - a.[^86-5] ...
-- b. le aziende ortofrutticole e vitivinicole;
-- c. le aziende orticole[^86-6];
-- d. le aziende di apicoltura.[^86-7]
+- b. le aziende ortofrutticole, vitivinicole e simili;
+- c. le aziende vivaistiche;
+- d. le aziende di apicoltura.[^86-6]
 
-<sup>3</sup> I veicoli agricoli e forestali possono essere parimenti adoperati per trasporti agricoli e forestali per conto di terzi, anche dietro compenso. Le persone e le aziende che non operano nel settore agricolo o forestale possono tenere veicoli agricoli e forestali, a condizione che se ne servano soltanto per effettuare lavori e trasporti agricoli e forestali per conto di terzi.[^86-8]
+<sup>3</sup> I veicoli agricoli e forestali possono essere parimenti adoperati per trasporti agricoli e forestali per conto di terzi, anche dietro compenso. Le persone e le aziende che non operano nel settore agricolo o forestale possono tenere veicoli agricoli e forestali, a condizione che se ne servano soltanto per effettuare lavori e trasporti agricoli e forestali per conto di terzi.[^86-7]
 
 [^86-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^86-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^86-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^86-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^86-5]: Abrogata dal n. I dell’O del 21 nov. 2018, con effetto dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^86-6]: Leggere: «le aziende di giardinaggio».
-[^86-7]: Nuovo testo giusta il n. I dell’O del 22 ott. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
-[^86-8]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^86-6]: Nuovo testo giusta il n. I dell’O del 22 ott. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)). Correzione delle lett. b e c del 20 mag. 2021 ([RU 2021 284](https://fedlex.data.admin.ch/eli/oc/2021/284)).
+[^86-7]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 
 #### Art. 87
 

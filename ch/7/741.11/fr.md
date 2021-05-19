@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2021-02-09
+version: 2021-05-20
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210209/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210209-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210209/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210520/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210520-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210520/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210209/fr"
 
 (OCR)**[^t-1]**
 
-du 13 novembre 1962 (Etat le 9 février 2021)
+du 13 novembre 1962 (Etat le 20 mai 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -58,7 +58,7 @@ arrête:
 
 <sup>10</sup> Les engins assimilés à des véhicules sont les patins à roulettes, les rollers, les trottinettes ou les moyens de locomotion analogues équipés de roues ou de roulettes et mus par la seule force musculaire des utilisateurs. Les vélos d’enfants sont considérés comme des engins assimilés à des véhicules.[^1-9]
 
-<sup>\*</sup> Voir par ex. les art. 6 al. 1 et 2, et 47 al. 2 et 6.
+<sup>\*</sup> Voir par ex. les art. 6 al. 1 et 2, et 47 al. 2.
 
 [^1-1]: Selon le ch. I de l’O du 15 mai 2002, les titres marginaux ont été remplacés par des titres médians, avec effet au 1<sup>er</sup> août 2002 ([RO 2002 1931](https://fedlex.data.admin.ch/eli/oc/2002/288)).
 [^1-2]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
@@ -352,7 +352,7 @@ La vitesse est limitée, sur les autoroutes et semi-autoroutes, à 100 km/h:
 [^5-4]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5701](https://fedlex.data.admin.ch/eli/oc/2009/695)).
 [^5-5]: Introduite par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^5-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
-[^5-7]: Introduit par le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Abrogé par le ch. I de l’O du 15 nov. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
+[^5-7]: Introduit par l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Abrogé par le ch. I de l’O du 15 nov. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^5-8]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2012, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 1821](https://fedlex.data.admin.ch/eli/oc/2012/259)).
 
 #### Art. 6
@@ -427,7 +427,7 @@ Lorsque des véhicules automobiles à voies multiples et des cycles utilisent la
 
 \* ...[^9-3]
 
-[^9-1]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^9-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^9-2]: 3<sup>e</sup> phrase introduite par le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^9-3]: Note abrogée par le ch. I de l’O du 25 janv. 1989, avec effet au 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -555,7 +555,7 @@ Le conducteur ne dépassera pas un véhicule qui en dépasse un autre, sauf:
 
 <sup>4</sup> Lors de courses officielles urgentes effectuées de nuit, le feu bleu peut être utilisé sans l’avertisseur à deux sons alternés, pour autant que le conducteur du véhicule ne déroge pas de manière significative aux règles de la circulation et qu’il ne fasse pas valoir son droit spécial de priorité.[^16-4]
 
-[^16-1]: Nouvelle teneur selon le ch. 33 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^16-1]: Nouvelle teneur selon l’annexe 4 ch. 33 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^16-4]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
@@ -747,9 +747,9 @@ Les feux clignotants avertisseurs (art. 110, al. 1, let. g, OETV) ne peuvent êt
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1976, en vigueur depuis le 1<sup>er</sup> janv. 1977 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)).
 [^23-2]: Nouvelle expression selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)). Il a été tenu compte de cette mod. dans tout le texte.
 [^23-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^23-4]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^23-4]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^23-5]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^23-6]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^23-6]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^23-7]: Nouvelle teneur selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^23-8]: Abrogés par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
@@ -769,8 +769,8 @@ Les feux clignotants avertisseurs (art. 110, al. 1, let. g, OETV) ne peuvent êt
 
 [^24-1]: Abrogé par le ch. I de l’O du 24 juin 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^24-3]: Nouvelle teneur selon le ch. II 2 de l’annexe à l’O du 12 nov. 2003, en vigueur depuis le 14 déc. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
-[^24-4]: Abrogé par le ch. II 2 de l’annexe à l’O du 12 nov. 2003, avec effet au 14 déc. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
+[^24-3]: Nouvelle teneur selon l’annexe ch. II 2 de l’O du 12 nov. 2003, en vigueur depuis le 14 déc. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
+[^24-4]: Abrogé par l’annexe ch. II 2 de l’O du 12 nov. 2003, avec effet au 14 déc. 2003 ([RO 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
 
 #### Art. 25
 
@@ -837,7 +837,7 @@ Les feux clignotants avertisseurs (art. 110, al. 1, let. g, OETV) ne peuvent êt
 [^28-1]: Nouvelle expression selon le ch. I de l’O du 25 janv. 1989, en vigueur depuis le 1<sup>er</sup> mai 1989 ([RO 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 [^28-2]: Phrase introduite par le ch. I de l’O du 22 oct. 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
 [^28-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^28-4]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^28-4]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^28-5]: Nouvelle teneur selon l’art. 36 ch. 1 de l’ACF du 27 août 1969 groupant les disp. administratives prises en application de la loi sur la circulation routière, en vigueur depuis le 1<sup>er</sup> oct. 1969 ([RO 1969 813](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)).
 
 #### Art. 29
@@ -1101,7 +1101,7 @@ Sur les routes secondaires situées dans les quartiers d’habitation et sur les
 <sup>3</sup> Dans les carrefours à sens giratoire, les cyclistes peuvent déroger à l’obligation de tenir leur droite.[^41b-3]
 
 [^41b-1]: Introduit par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^41b-2]: Introduit par le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^41b-2]: Introduit par l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^41b-3]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 ### Chapitre 5 Catégories spéciales de véhicules
@@ -1178,7 +1178,7 @@ Les conducteurs de cycles et de cyclomoteurs ne circuleront pas à côté d’au
 
 <sup>3</sup> Chaque fois que la sécurité de la circulation l’exige, ils feront fonctionner leur avertisseur optique ou acoustique, notamment avant de démarrer.
 
-[^45-1]: Nouvelle teneur selon le ch. 33 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^45-1]: Nouvelle teneur selon l’annexe 4 ch. 33 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Partie 2 Règles applicables aux autres usagers de la route
 
@@ -1377,7 +1377,7 @@ Il est permis d’utiliser les engins assimilés à des véhicules comme moyen d
 
 [^56-1]: [RO 1973 1001](https://fedlex.data.admin.ch/eli/oc/1973/_1001_)
 [^56-2]: Introduit par le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
-[^56-3]: Nouvelle teneur selon le ch. 33 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^56-3]: Nouvelle teneur selon l’annexe 4 ch. 33 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Partie 4 Usage des véhicules
 
@@ -1601,9 +1601,9 @@ Un cycliste âgé de plus de seize ans peut transporter:
 <sup>3</sup> Les engins de déneigement peuvent être plus larges que le véhicule avec lequel ils sont utilisés; ils seront toutefois signalés bien visiblement.
 
 [^64-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^64-2]: Introduit par le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^64-2]: Introduit par l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^64-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
-[^64-4]: Nouvelle teneur selon le ch. 1 de l’annexe 1 à l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^64-4]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 
 #### Art. 65
 
@@ -1632,7 +1632,7 @@ Un cycliste âgé de plus de seize ans peut transporter:
 
 <sup>4</sup> Pour les véhicules articulés qui transportent des conteneurs et des unités de transport similaires d’une longueur de 45 pieds dans le cadre du transport combiné non accompagné, la longueur admise selon l’al. 1, let. e, peut, même à vide, être dépassée de 0,15 m au maximum.[^65-5]
 
-[^65-1]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^65-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^65-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^65-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
 [^65-4]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
@@ -1725,7 +1725,7 @@ Le poids reposant sur les essieux moteurs ne doit pas être inférieur (poids mi
 
 <sup>9</sup> L’OFROU peut édicter des instructions concernant les charges maximales autorisées par essieu et le poids minimal d’adhérence pour les véhicules et transports spéciaux.[^67-22]
 
-[^67-1]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^67-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^67-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^67-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2882](https://fedlex.data.admin.ch/eli/oc/2000/499)).
 [^67-4]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -1781,9 +1781,9 @@ Les exceptions suivantes sont applicables:
 [^68-3]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^68-4]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 [^68-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^68-6]: Nouvelle teneur selon le ch. 1 de l’annexe 1 à l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^68-7]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^68-8]: Introduit par le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^68-6]: Nouvelle teneur selon l’annexe 1 ch. 1 de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^68-7]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^68-8]: Introduit par l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^68-9]: Introduit par le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 #### Art. 69
@@ -1834,10 +1834,10 @@ Les exceptions suivantes sont applicables:
 
 <sup>5</sup> La longueur maximale d’une barre de remorquage sera de 5 m, celle d’une corde, de 8 m. La corde sera signalée à son milieu, de façon bien visible. L’emploi d’une chaîne est interdit; de même l’emploi d’un câble pour remorquer un motocycle.
 
-[^72-1]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^72-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^72-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^72-3]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^72-4]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^72-3]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^72-4]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 ### V. Chargement
 
@@ -1868,15 +1868,15 @@ Le chargement ne doit pas dépasser latéralement les véhicules automobiles à 
 
 <sup>7</sup> Lorsqu’il y a danger de verglas, il ne faut transporter aucun chargement imprégné d’eau, tel que du gravier, du sable, etc., qui pourrait s’égoutter sur la voie publique.
 
-[^73-1]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^73-2]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^73-1]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^73-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^73-3]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^73-4]: Nouvelle teneur selon le ch. I de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-5]: Nouvelle teneur selon le ch. I de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^73-6]: Introduite par le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^73-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^73-8]: Nouvelle teneur selon le ch. II de l’O du 19 fév. 1992, en vigueur depuis le 1<sup>er</sup> avr. 1992 ([RO 1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536)).
-[^73-9]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^73-9]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^73-10]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
 #### Art. 74
@@ -1939,7 +1939,7 @@ Ils peuvent autoriser une largeur maximale de 2 m 55 même sur des routes dont l
 
 [^76-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
 [^76-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^76-3]: Nouvelle teneur selon le ch. II 5 de l’annexe 4 à l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^76-3]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^76-4]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^76-5]: Nouvelle teneur selon le ch. I de l’O du 6 mai 1998, en vigueur depuis le 15 mai 1998 ([RO 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^76-6]: Abrogé par le ch. I de l’O du 16 oct. 2002, avec effet au 1<sup>er</sup> déc. 2002 ([RO 2002 3565](https://fedlex.data.admin.ch/eli/oc/2002/534)).
@@ -2003,7 +2003,7 @@ Seules des autorisations uniques sont admises pour les dépassements de la large
 
 [^part4-chap2-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^78-2]: Nouvelle teneur selon le ch. II 4 de l’annexe 1 à l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^78-2]: Nouvelle teneur selon l’annexe 1 ch. II 4 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^78-3]: Phrase introduite par le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-4]: Phrase introduite par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3212](https://fedlex.data.admin.ch/eli/oc/2002/481)).
 [^78-5]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
@@ -2033,14 +2033,14 @@ Lorsque les dimensions et le poids dépassent le maximum légal, les autorisatio
 
 <sup>5</sup> Lorsque les dimensions et le poids fixés à l’al. 2, let. a, sont dépassés, l’autorisation de circuler sur les routes nationales ne peut être délivrée qu’avec l’approbation de l’OFROU.[^79-8]
 
-[^79-1]: Nouvelle teneur selon le ch. II 5 de l’annexe 4 à l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
-[^79-2]: Nouvelle teneur selon le ch. II 5 de l’annexe 4 à l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^79-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^79-2]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-3]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^79-4]: [RS 741.272](https://fedlex.data.admin.ch/eli/cc/1992/341_341_341)
 [^79-5]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^79-6]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^79-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1992 ([RO 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Nouvelle teneur selon le ch. II 5 de l’annexe 4 à l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
-[^79-8]: Introduit par le ch. II 5 de l’annexe 4 à l’O du 7 nov. 2007 sur les routes nationales, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^79-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1992 ([RO 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^79-8]: Introduit par l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 
 #### Art. 80
 
@@ -2151,7 +2151,7 @@ Sont assimilées aux exploitations agricoles et forestières:[^86-4]
 [^86-3]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^86-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 [^86-5]: Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^86-6]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)).
+[^86-6]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)). Erratum du 20 mai 2021, ne concerne que le texte italien ([RO 2021 284](https://fedlex.data.admin.ch/eli/oc/2021/284))
 [^86-7]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
 
 #### Art. 87
@@ -2291,7 +2291,7 @@ Ne tombent pas sous l’interdiction de circuler le dimanche et de nuit:
 <sup>4</sup> Lors des courses effectuées pendant l’interdiction de circuler le dimanche et de nuit, tout ce qui pourrait troubler la tranquillité doit être évité.
 
 [^91a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^91a-2]: Nouvelle teneur selon le ch. II 4 de l’annexe 2 à l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^91a-2]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 [^91a-3]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
 [^91a-4]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
 [^91a-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
@@ -2324,11 +2324,11 @@ Des autorisations sont octroyées pour les courses suivantes:
 <sup>5</sup> Pour chaque transport, le quart du volume de chargement du véhicule peut être occupé par d’autres marchandises.
 
 [^92-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^92-2]: Nouvelle teneur selon le ch. II 4 de l’annexe 2 à l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-2]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 [^92-3]: [RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)
-[^92-4]: Introduite par le ch. II 4 de l’annexe 2 à l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-4]: Introduite par l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 [^92-5]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^92-6]: Nouvelle teneur selon le ch. II 4 de l’annexe 2 à l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-6]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 
 #### Art. 93
 
@@ -2391,7 +2391,7 @@ Sont admises toutefois, avec l’autorisation des cantons:
 
 \* En ce qui concerne l’attestation d’assurance, voir les art. 30 et 31 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^95-2].
 
-[^95-1]: Introduit par le ch. I de l’O du 18 déc. 2015, en vigueur du 1<sup>er</sup> avr. 2016 au 31 mars 2026. ([RO 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61), [2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^95-1]: Introduit par le ch. I de l’O du 18 déc. 2015, en vigueur du 1<sup>er</sup> avr. 2016 au 31 mars 2026 ([RO 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61); [2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^95-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
 ### Chapitre 3 Disposition pénale
@@ -2525,7 +2525,7 @@ Ad art. 59a
 
 [^u3-1]
 
-[^u3-1]: [RO 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404). Caduque depuis le ... ?
+[^u3-1]: [RO 1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)
 
 Les vêtements conformes à l’art. 48, al. 3, OCR, qui ne répondent toutefois pas aux exigences de la norme suisse SN 640 710, peuvent encore être utilisés jusqu’au 31 décembre 2000.
 
