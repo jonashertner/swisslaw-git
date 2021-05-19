@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-05-17
+version: 2021-05-20
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210517/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210517-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210517/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210520/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210520-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210520/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 17 May 2021)
+of 27 January 2021 (Status as of 20 May 2021)
 
 The Swiss Federal Council,
 
@@ -303,7 +303,7 @@ Annex 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No II of the O of 12 May 2021 (Countries and regions with dangerous virus mutations, more precise details of the testing and quarantine requirement), in force since 17 May 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^t-1]: Amended by No I of the O of the DFI of 19 May 2021, in force since 20 May 2021 ([AS 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions (Art. 2 para. 1 let. b–d)
@@ -315,8 +315,6 @@ Argentina
 Bahrain
 
 Belgium
-
-Brazil
 
 Cape Verde
 
@@ -336,8 +334,6 @@ Estonia
 
 Georgia
 
-Hungary
-
 Iran
 
 Kuwait
@@ -356,15 +352,7 @@ Mongolia
 
 Netherlands
 
-Palestinian Territory (Occupied)
-
 Paraguay
-
-Poland
-
-Qatar
-
-Serbia
 
 Seychelles
 
@@ -399,12 +387,10 @@ Regions in Germany:
 
 Regions in France:
 
-- – Brittany Region
 - – Centre-Val de Loire Region
 - – Hauts-de-France Region
 - – Île de France Region
 - – Normandy Region
-- – Nouvelle-Aquitaine Region
 - – Occitanie Region
 - – Pays de la Loire Region
 - – Provence-Alpes-Côte d’Azur Region
@@ -412,13 +398,7 @@ Regions in France:
 Regions in Italy:
 
 - – Apulia Region
-- – Basilicata Region
 - – Campania Region
-
-Regions in Austria:
-
-- – State of Upper Austria
-- – State of Salzburg
 
 Annex 2
 

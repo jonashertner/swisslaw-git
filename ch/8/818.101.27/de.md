@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-05-17
+version: 2021-05-20
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210517/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210517-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210517/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210520/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210520-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210517/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 17. Mai 2021)
+vom 27. Januar 2021 (Stand am 20. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -303,7 +303,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Mai 2021, in Kraft seit 20. Mai 2021 ([AS 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete (Art. 2 Abs. 1 Bst. b–d)
@@ -330,8 +330,6 @@ Georgien
 
 Iran
 
-Katar
-
 Kolumbien
 
 Kroatien
@@ -352,15 +350,9 @@ Mongolei
 
 Niederlande (Königreich der)
 
-Palästinensisches Gebiet (Besetztes)
-
 Paraguay
 
-Polen
-
 Schweden
-
-Serbien
 
 Seychellen
 
@@ -369,8 +361,6 @@ Slowenien
 Tansania
 
 Türkei
-
-Ungarn
 
 Uruguay
 
@@ -388,7 +378,7 @@ Nepal
 
 Südafrika
 
-### 3. Gebiete der Nachbarstaaten
+### 3. Gebiete der Nachbarstaaten (Art. 2 Abs. 1 Bst. b–d und Abs. 4)
 
 Gebiete in Deutschland:
 
@@ -397,12 +387,10 @@ Gebiete in Deutschland:
 
 Gebiete in Frankreich:
 
-- – Region Bretagne
 - – Region Centre-Val de Loire
 - – Region Hauts-de-France
 - – Region Île-de-France
 - – Region Normandie
-- – Region Nouvelle-Aquitaine
 - – Region Occitanie
 - – Region Pays de la Loire
 - – Region Provence-Alpes-Côte d’Azur
@@ -410,13 +398,7 @@ Gebiete in Frankreich:
 Gebiete in Italien:
 
 - – Region Apulien
-- – Region Basilikata
 - – Region Kampanien
-
-Gebiete in Österreich:
-
-- – Land Oberösterreich
-- – Land Salzburg
 
 Anhang 2
 
