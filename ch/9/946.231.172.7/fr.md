@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2021-04-27
+version: 2021-05-21
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210427/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210427-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210427/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210521/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210521-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210521/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (Etat le 27 avril 2021)
+du 8 juin 2012 (Etat le 21 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -461,7 +461,7 @@ Le Secrétariat d’État aux migrations (SEM)[^17-1] peut accorder des dérogat
 
 <sup>3</sup> Le SECO poursuit et juge les infractions au sens des al. 1 et 2; il peut ordonner des saisies ou des confiscations.
 
-## Section 6 Publication et dispositions finales****
+## Section 6 Publication et dispositions finales
 
 [^sec6-1]
 
@@ -928,7 +928,7 @@ Annexe 7*[^t-3]*
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
-[^t-3]: Cette annexe n’est pas publiée au RO ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[583](https://fedlex.data.admin.ch/eli/oc/2013/115)[1369](https://fedlex.data.admin.ch/eli/oc/2013/324)[3675](https://fedlex.data.admin.ch/eli/oc/2013/685), [2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)[2477](https://fedlex.data.admin.ch/eli/oc/2014/437)[2941](https://fedlex.data.admin.ch/eli/oc/2014/498)[4699](https://fedlex.data.admin.ch/eli/oc/2014/790), [2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)[987](https://fedlex.data.admin.ch/eli/oc/2015/183)[1681](https://fedlex.data.admin.ch/eli/oc/2015/332)[2081](https://fedlex.data.admin.ch/eli/oc/2015/389)[2227](https://fedlex.data.admin.ch/eli/oc/2015/412), [2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)[1779](https://fedlex.data.admin.ch/eli/oc/2016/318)[3433](https://fedlex.data.admin.ch/eli/oc/2016/577)[3811](https://fedlex.data.admin.ch/eli/oc/2016/638)[4147](https://fedlex.data.admin.ch/eli/oc/2016/686)[4493](https://fedlex.data.admin.ch/eli/oc/2016/730), [2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)[3399](https://fedlex.data.admin.ch/eli/oc/2017/372)[3743](https://fedlex.data.admin.ch/eli/oc/2017/439)[3885](https://fedlex.data.admin.ch/eli/oc/2017/462)[5139](https://fedlex.data.admin.ch/eli/oc/2017/562), [2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)[1207](https://fedlex.data.admin.ch/eli/oc/2018/188)[2325](https://fedlex.data.admin.ch/eli/oc/2018/331)[2747](https://fedlex.data.admin.ch/eli/oc/2018/404), [2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)[2561](https://fedlex.data.admin.ch/eli/oc/2019/473)[3087](https://fedlex.data.admin.ch/eli/oc/2019/565), [2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)[2573](https://fedlex.data.admin.ch/eli/oc/2020/472)[4523](https://fedlex.data.admin.ch/eli/oc/2020/798)[4739](https://fedlex.data.admin.ch/eli/oc/2020/854), [2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)). L’annexe peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-3]: Cette annexe n’est pas publiée au RO ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [583](https://fedlex.data.admin.ch/eli/oc/2013/115), [1369](https://fedlex.data.admin.ch/eli/oc/2013/324), [3675](https://fedlex.data.admin.ch/eli/oc/2013/685); [2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339), [2477](https://fedlex.data.admin.ch/eli/oc/2014/437), [2941](https://fedlex.data.admin.ch/eli/oc/2014/498), [4699](https://fedlex.data.admin.ch/eli/oc/2014/790); [2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153), [987](https://fedlex.data.admin.ch/eli/oc/2015/183), [1681](https://fedlex.data.admin.ch/eli/oc/2015/332), [2081](https://fedlex.data.admin.ch/eli/oc/2015/389), [2227](https://fedlex.data.admin.ch/eli/oc/2015/412); [2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35), [1779](https://fedlex.data.admin.ch/eli/oc/2016/318), [3433](https://fedlex.data.admin.ch/eli/oc/2016/577), [3811](https://fedlex.data.admin.ch/eli/oc/2016/638), [4147](https://fedlex.data.admin.ch/eli/oc/2016/686), [4493](https://fedlex.data.admin.ch/eli/oc/2016/730); [2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198), [3399](https://fedlex.data.admin.ch/eli/oc/2017/372), [3743](https://fedlex.data.admin.ch/eli/oc/2017/439), [3885](https://fedlex.data.admin.ch/eli/oc/2017/462), [5139](https://fedlex.data.admin.ch/eli/oc/2017/562); [2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147), [1207](https://fedlex.data.admin.ch/eli/oc/2018/188), [2325](https://fedlex.data.admin.ch/eli/oc/2018/331), [2747](https://fedlex.data.admin.ch/eli/oc/2018/404); [2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411), [2561](https://fedlex.data.admin.ch/eli/oc/2019/473), [3087](https://fedlex.data.admin.ch/eli/oc/2019/565); [2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106), [2573](https://fedlex.data.admin.ch/eli/oc/2020/472), [4523](https://fedlex.data.admin.ch/eli/oc/2020/798), [4739](https://fedlex.data.admin.ch/eli/oc/2020/854); [2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67), [290](https://fedlex.data.admin.ch/eli/oc/2021/290)). L’annexe peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 8*[^t-4]*
 

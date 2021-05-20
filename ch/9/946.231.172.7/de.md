@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2021-04-27
+version: 2021-05-21
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210427/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210427-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210427/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210521/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210521-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210521/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 27. April 2021)
+vom 8. Juni 2012 (Stand am 21. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -481,7 +481,7 @@ Der Inhalt von Anhang 7 wird in der Amtlichen Sammlung des Bundesrechts (AS) und
 
 Die Verordnung vom 18. Mai 2011[^21-1] über Massnahmen gegenüber Syrien wird aufgehoben.
 
-[^21-1]: [[AS 2011 2193](https://fedlex.data.admin.ch/eli/oc/2011/298)[4483](https://fedlex.data.admin.ch/eli/oc/2011/618)[4515](https://fedlex.data.admin.ch/eli/oc/2011/629)[6269](https://fedlex.data.admin.ch/eli/oc/2011/884), [2012 1209](https://fedlex.data.admin.ch/eli/oc/2012/181)[2339](https://fedlex.data.admin.ch/eli/oc/2012/281)[3257](https://fedlex.data.admin.ch/eli/oc/2012/375)]
+[^21-1]: [[AS 2011 2193](https://fedlex.data.admin.ch/eli/oc/2011/298), [4483](https://fedlex.data.admin.ch/eli/oc/2011/618), [4515](https://fedlex.data.admin.ch/eli/oc/2011/629), [6269](https://fedlex.data.admin.ch/eli/oc/2011/884); [2012 1209](https://fedlex.data.admin.ch/eli/oc/2012/181), [2339](https://fedlex.data.admin.ch/eli/oc/2012/281), [3257](https://fedlex.data.admin.ch/eli/oc/2012/375)]
 
 #### Art. 22
 
@@ -922,15 +922,15 @@ Anhang 6
 <tr><td>7012</td><td>Abfälle und Schrott, von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, wie sie hauptsächlich zur Wiedergewinnung von Edelmetallen verwendet werden.</td></tr>
 </table>
 
-Anhang 7[^t-3]
+Anhang 7*[^t-3]*
 
 (Art. 10 Abs. 1 und 17 Abs. 1)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-3]: Der Anhang wird weder in der AS noch in der SR veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[583](https://fedlex.data.admin.ch/eli/oc/2013/115)[1369](https://fedlex.data.admin.ch/eli/oc/2013/324)[3675](https://fedlex.data.admin.ch/eli/oc/2013/685), [2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)[2477](https://fedlex.data.admin.ch/eli/oc/2014/437)[2941](https://fedlex.data.admin.ch/eli/oc/2014/498)[4699](https://fedlex.data.admin.ch/eli/oc/2014/790), [2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)[987](https://fedlex.data.admin.ch/eli/oc/2015/183)[1681](https://fedlex.data.admin.ch/eli/oc/2015/332)[2081](https://fedlex.data.admin.ch/eli/oc/2015/389)[2227](https://fedlex.data.admin.ch/eli/oc/2015/412), [2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)[1779](https://fedlex.data.admin.ch/eli/oc/2016/318)[3433](https://fedlex.data.admin.ch/eli/oc/2016/577)[3811](https://fedlex.data.admin.ch/eli/oc/2016/638)[4147](https://fedlex.data.admin.ch/eli/oc/2016/686)[4493](https://fedlex.data.admin.ch/eli/oc/2016/730), [2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)[3399](https://fedlex.data.admin.ch/eli/oc/2017/372)[3743](https://fedlex.data.admin.ch/eli/oc/2017/439)[3885](https://fedlex.data.admin.ch/eli/oc/2017/462)[5139](https://fedlex.data.admin.ch/eli/oc/2017/562), [2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)[1207](https://fedlex.data.admin.ch/eli/oc/2018/188)[2325](https://fedlex.data.admin.ch/eli/oc/2018/331)[2747](https://fedlex.data.admin.ch/eli/oc/2018/404), [2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)[2561](https://fedlex.data.admin.ch/eli/oc/2019/473)[3087](https://fedlex.data.admin.ch/eli/oc/2019/565), [2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)[2573](https://fedlex.data.admin.ch/eli/oc/2020/472)[4523](https://fedlex.data.admin.ch/eli/oc/2020/798)[4739](https://fedlex.data.admin.ch/eli/oc/2020/854), [2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)). Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-3]: Der Anhang wird weder in der AS noch in der SR veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [583](https://fedlex.data.admin.ch/eli/oc/2013/115), [1369](https://fedlex.data.admin.ch/eli/oc/2013/324), [3675](https://fedlex.data.admin.ch/eli/oc/2013/685); [2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339), [2477](https://fedlex.data.admin.ch/eli/oc/2014/437), [2941](https://fedlex.data.admin.ch/eli/oc/2014/498), [4699](https://fedlex.data.admin.ch/eli/oc/2014/790); [2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153), [987](https://fedlex.data.admin.ch/eli/oc/2015/183), [1681](https://fedlex.data.admin.ch/eli/oc/2015/332), [2081](https://fedlex.data.admin.ch/eli/oc/2015/389), [2227](https://fedlex.data.admin.ch/eli/oc/2015/412); [2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35), [1779](https://fedlex.data.admin.ch/eli/oc/2016/318), [3433](https://fedlex.data.admin.ch/eli/oc/2016/577), [3811](https://fedlex.data.admin.ch/eli/oc/2016/638), [4147](https://fedlex.data.admin.ch/eli/oc/2016/686), [4493](https://fedlex.data.admin.ch/eli/oc/2016/730); [2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198), [3399](https://fedlex.data.admin.ch/eli/oc/2017/372), [3743](https://fedlex.data.admin.ch/eli/oc/2017/439), [3885](https://fedlex.data.admin.ch/eli/oc/2017/462), [5139](https://fedlex.data.admin.ch/eli/oc/2017/562); [2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147), [1207](https://fedlex.data.admin.ch/eli/oc/2018/188), [2325](https://fedlex.data.admin.ch/eli/oc/2018/331), [2747](https://fedlex.data.admin.ch/eli/oc/2018/404); [2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411), [2561](https://fedlex.data.admin.ch/eli/oc/2019/473), [3087](https://fedlex.data.admin.ch/eli/oc/2019/565); [2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106), [2573](https://fedlex.data.admin.ch/eli/oc/2020/472), [4523](https://fedlex.data.admin.ch/eli/oc/2020/798), [4739](https://fedlex.data.admin.ch/eli/oc/2020/854); [2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67), [290](https://fedlex.data.admin.ch/eli/oc/2021/290)). Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 8[^t-4]
+Anhang 8*[^t-4]*
 
 (Art. 9)
 
