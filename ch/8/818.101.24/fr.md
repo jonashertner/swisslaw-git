@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-05-17
+version: 2021-05-24
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210517/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210517-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210517/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210524/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210524-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210524/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210517/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 17 mai 2021)
+du 19 juin 2020 (Etat le 24 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -702,7 +702,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 2 fév. 2021, en vigueur depuis le 8 fév. 2021 ([RO 2021 71](https://fedlex.data.admin.ch/eli/oc/2021/71)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 20 mai 2021, en vigueur depuis le 24 mai 2021 ([RO 2021 287](https://fedlex.data.admin.ch/eli/oc/2021/287)).
 
 Tous les États en dehors de l’espace Schengen, sauf les suivants:
 
@@ -713,6 +713,7 @@ Tous les États en dehors de l’espace Schengen, sauf les suivants:
 - – Corée (Sud)
 - – Croatie
 - – Irlande
+- – Israël
 - – Monaco
 - – Nouvelle-Zélande
 - – Roumanie

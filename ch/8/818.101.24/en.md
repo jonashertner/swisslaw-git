@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-05-17
+version: 2021-05-24
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210517/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210517-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210517/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210524/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210524-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210524/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 17 May 2021)
+of 19 June 2020 (Status as of 24 May 2021)
 
 The Swiss Federal Council,
 
@@ -704,7 +704,7 @@ Annex 1*[^t-1]*
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the FDJP O of 2 Feb. 2021, in force since 8 Feb. 2021 ([AS 2021 71](https://fedlex.data.admin.ch/eli/oc/2021/71)).
+[^t-1]: Amended by No I of the FDJP O of 20 May 2021, in force since 24 May 2021 ([AS 2021 287](https://fedlex.data.admin.ch/eli/oc/2021/287)).
 
 All states outside the Schengen area, with the exception of:
 
@@ -715,6 +715,7 @@ All states outside the Schengen area, with the exception of:
 - – Cyprus
 - – Holy See
 - – Ireland
+- – Israel
 - – Monaco
 - – New Zealand
 - – Romania
@@ -1463,7 +1464,7 @@ Annex 7*[^t-8]*
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 May 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 149](https://fedlex.data.admin.ch/eli/oc/2021/149)) und No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 May 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
