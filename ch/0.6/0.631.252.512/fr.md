@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Convention douanière du 14 novembre 1975 relative au transport international de marchandises sous le couvert de carnets TIR (Convention TIR) (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: fr
-version: 2019-02-03
+version: 2021-05-25
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20190203-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210525-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 3 février 1978
 
 Entrée en vigueur pour la Suisse le 3 août 1978
 
-(Etat le 3 février 2019)
+(Etat le 25 mai 2021)
 
 [^t-1]: [RO 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -78,6 +78,7 @@ Aux fins de la présente Convention, on entend
 - p)[^1-16] par «marchandises pondéreuses ou volumineuses», tout produit pondéreux ou volumineux qui, en raison de son poids, de ses dimensions ou de sa nature, n’est en général transporté ni dans un véhicule routier clos ni dans un conteneur clos;
 - q)[^1-17] par «association garante», une association habilitée par les autorités douanières ou d’autres autorités compétentes[^1-18] d’une Partie contractante à se porter garantie des personnes qui utilisent le régime TIR;
 - r)[^1-19] par «organisation internationale», une organisation autorisée par le comité de gestion à assumer la responsabilité de l’organisation et du fonctionnement efficaces d’un système de garantie international.
+- [tab] s)[^1-20] par «procédure eTIR», le régime TIR mis en œuvre au moyen d’un échange électronique de données qui constitue l’équivalent fonctionnel du carnet TIR. Étant entendu que les dispositions de la Convention TIR s’appliquent, les dispositions propres à la procédure eTIR sont énoncées à l’annexe 11.
 
 [^1-1]: Nouvelle expression selon la mod. approuvée par le CF le 8 mars 2002, en vigueur depuis le 12 mai 2002 ([RO 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-2]: Guillemets supprimés selon la mod. approuvée par le CF le 8 mars 2002 ([RO 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
@@ -98,6 +99,7 @@ Aux fins de la présente Convention, on entend
 [^1-17]: Anciennement let. l. Nouvelle teneur selon la mod. approuvée par le CF le 8 juin 2012, en vigueur depuis le 13 sept. 2012 ([RO 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
 [^1-18]: Nouveau terme selon la mod. du 12 octobre 2017, en vigueur pour la Suisse depuis le 3 fév. 2019 ([RO 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
 [^1-19]: Introduite par la mod. approuvée par le CF le 8 juin 2012, en vigueur depuis le 13 sept. 2012 ([RO 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
+[^1-20]: Introduite par la mod. du 6 fév. 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### b) Champ d’application
 
@@ -121,10 +123,10 @@ Afin d’appliquer les dispositions de la présente Convention:
   - ii) par d’autres véhicules routiers, d’autres ensembles de véhicules ou d’autres conteneurs s’ils se font conformément aux conditions énoncées au chap. III c); ou
   - iii) par des véhicules routiers ou des véhicules spéciaux tels que autocars, grues, balayeuses, bétonnières, etc., exportés et donc eux-mêmes assimilés à des marchandises se déplaçant par leurs propres moyens d’un bureau de douane de départ à un bureau de douane de destination, dans les conditions énoncées au chap. III c). Lorsque ces véhicules transportent d’autres marchandises, les conditions visées aux al. i) ou ii) ci‑dessus s’appliquent en conséquence;
 
-- b) les transports doivent avoir lieu sous la garantie d’associations habilitées[^3-2], conformément aux dispositions de l’art. 6, et doivent être effectués sous le couvert d’un carnet TIR conforme au modèle reproduit. à l’annexe 1 de la présente Convention.
+- b)[^3-2] Les transports doivent avoir lieu sous la garantie d’associations agréées conformément aux dispositions de l’art. 6 et doivent être effectués sous le couvert d’un carnet TIR conforme au modèle reproduit à l’annexe 1 de la présente Convention, ou au moyen de la procédure eTIR.
 
 [^3-1]: Nouvelle teneur selon la mod. approuvée par le CF le 8 mars 2002, en vigueur depuis le 12 mai 2002 ([RO 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
-[^3-2]: Nouveau terme selon la mod. du 12 octobre 2017, en vigueur pour la Suisse depuis le 3 fév. 2019 ([RO 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
+[^3-2]: Nouvelle teneur selon la mod. du 6 fév. 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### c) Principe
 
@@ -292,7 +294,7 @@ Pour le parcours sur le territoire de leur pays, les autorités douanières pour
 
 #### Art. 21
 
-A chaque bureau de douane de passage, ainsi qu’aux bureaux de douane de destination, le véhicule routier, l’ensemble de véhicules ou le conteneur seront présentés aux fins de contrôle aux autorités douanières avec le chargement et le carnet TIR y afférent.
+À chaque bureau de douane de passage, ainsi qu’aux bureaux de douane de destination, le véhicule routier, l’ensemble de véhicules ou le conteneur seront présentés aux fins de contrôle aux autorités douanières avec le chargement et le carnet TIR y afférent.
 
 #### Art. 22
 
@@ -317,7 +319,7 @@ Si un scellement douanier est rompu en cours de route, dans des cas autres que c
 
 #### Art. 26
 
-<sup>1.</sup> Lorsque le transport effectué sous carnet TIR emprunte sur une partie de trajet le territoire d’un Etat qui n’est pas Partie contractante à la présente Convention, le transport TIR sera suspendu durant cette traversée. Dans ce cas les autorités douanières de la Partie contractante dont le territoire est ensuite emprunté accepteront le carnet TIR pour la reprise du transport TIR sous réserve que les scellements douaniers et/ou marques d’identification soient demeurés intacts. Lorsque les scellements douaniers ne sont plus intacts, les autorités douanières peuvent accepter le carnet TIR pour la reprise de l’opération de transport conformément aux dispositions de l’art. 25.[^26-1]
+<sup>1.</sup> Lorsque le transport effectué sous carnet TIR emprunte sur une partie de trajet le territoire d’un État qui n’est pas Partie contractante à la présente Convention, le transport TIR sera suspendu durant cette traversée. Dans ce cas les autorités douanières de la Partie contractante dont le territoire est ensuite emprunté accepteront le carnet TIR pour la reprise du transport TIR sous réserve que les scellements douaniers et/ou marques d’identification soient demeurés intacts. Lorsque les scellements douaniers ne sont plus intacts, les autorités douanières peuvent accepter le carnet TIR pour la reprise de l’opération de transport conformément aux dispositions de l’art. 25.[^26-1]
 
 <sup>2.</sup> Il en sera de même pour la partie du trajet au cours de laquelle le carnet TIR n’est pas utilisé par le titulaire du carnet sur le territoire d’une Partie contractante en raison de l’existence de procédures plus simples de transit douanier ou lorsque l’utilisation d’un régime de transit douanier n’est pas nécessaire.
 
@@ -437,7 +439,11 @@ En étroite coopération avec les associations, les autorités compétentes pren
 
 #### Art. 43
 
-Les notes explicatives figurant aux annexes 6 et 7 (troisième partie) donnent l’interprétation de certaines dispositions de la présente Convention et de ses annexes. Elles reprennent également certaines pratiques recommandées.
+[^43-1]
+
+Les notes explicatives figurant aux annexes 6, 7, troisième partie et 11, deuxième partie donnent l’interprétation de certaines dispositions de la présente Convention et de ses annexes. Elles reprennent également certaines pratiques recommandées.
+
+[^43-1]: Nouvelle teneur selon la mod. du 6 fév. 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ## Chapitre VI Dispositions diverses
 
@@ -488,15 +494,15 @@ Les annexes à la présente Convention font partie intégrante de la Convention.
 
 <sup>1.</sup>
 
-Tous les Etats Membres de l’Organisation des Nations Unies ou membres de l’une de ses institutions spécialisées ou de l’Agence internationale de l’énergie atomique, Parties au statut de la Cour internationale de Justice, et tout autre Etat invité par l’Assemblée générale de l’Organisation des Nations Unies, peuvent devenir Parties contractantes à la présente Convention:
+Tous les États Membres de l’Organisation des Nations Unies ou membres de l’une de ses institutions spécialisées ou de l’Agence internationale de l’énergie atomique, Parties au statut de la Cour internationale de Justice, et tout autre État invité par l’Assemblée générale de l’Organisation des Nations Unies, peuvent devenir Parties contractantes à la présente Convention:
 
 - a) en la signant, sans réserve de ratification, d’acceptation ou d’approbation;
 - b) en déposant un instrument de ratification, d’acceptation ou d’approbation après l’avoir signée sous réserve de ratification, d’acceptation ou d’approbation; ou
 - c) en déposant un instrument d’adhésion.
 
-<sup>2.</sup> La présente Convention sera ouverte du 1<sup>er</sup> janvier 1976 jusqu’au 31 décembre 1976 inclus, à l’Office des Nations Unies à Genève, à la signature des Etats visés au paragraphe 1 du présent article. Après cette date, elle sera ouverte à leur adhésion.
+<sup>2.</sup> La présente Convention sera ouverte du 1<sup>er</sup> janvier 1976 jusqu’au 31 décembre 1976 inclus, à l’Office des Nations Unies à Genève, à la signature des États visés au paragraphe 1 du présent article. Après cette date, elle sera ouverte à leur adhésion.
 
-<sup>3.</sup> Les unions douanières ou économiques peuvent également, conformément aux dispositions des par. 1 et 2 du présent article, devenir Parties contractantes à la présente Convention en même temps que tous leurs Etats membres ou à n’importe quel moment après que tous leurs Etats membres sont devenus Parties contractantes à ladite Convention. Toutefois, ces unions n’auront pas le droit de vote.
+<sup>3.</sup> Les unions douanières ou économiques peuvent également, conformément aux dispositions des par. 1 et 2 du présent article, devenir Parties contractantes à la présente Convention en même temps que tous leurs États membres ou à n’importe quel moment après que tous leurs États membres sont devenus Parties contractantes à ladite Convention. Toutefois, ces unions n’auront pas le droit de vote.
 
 <sup>4.</sup> Les instruments de ratification, d’acceptation, d’approbation ou d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
@@ -504,9 +510,9 @@ Tous les Etats Membres de l’Organisation des Nations Unies ou membres de l’u
 
 **Entrée en vigueur**
 
-<sup>1.</sup> La présente Convention entrera en vigueur six mois après la date à laquelle cinq des Etats mentionnés au par. 1 de l’art. 52 l’auront signée sans réserve de ratification, d’acceptation ou d’approbation, ou auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>1.</sup> La présente Convention entrera en vigueur six mois après la date à laquelle cinq des États mentionnés au par. 1 de l’art. 52 l’auront signée sans réserve de ratification, d’acceptation ou d’approbation, ou auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-<sup>2.</sup> Après que cinq des Etats mentionnés au par. 1 de l’art. 52 l’auront signée sans réserve de ratification, d’acceptation ou d’approbation ou auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la présente Convention entrera en vigueur, pour toutes les nouvelles Parties contractantes, six mois après la date du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>2.</sup> Après que cinq des États mentionnés au par. 1 de l’art. 52 l’auront signée sans réserve de ratification, d’acceptation ou d’approbation ou auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la présente Convention entrera en vigueur, pour toutes les nouvelles Parties contractantes, six mois après la date du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 <sup>3.</sup> Tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion déposé après l’entrée en vigueur d’un amendement à la présente Convention sera considéré comme s’appliquant au texte modifié de la présente Convention.
 
@@ -526,13 +532,13 @@ Tous les Etats Membres de l’Organisation des Nations Unies ou membres de l’u
 
 **Extinction**
 
-Si, après l’entrée en vigueur de la présente Convention, le nombre des Etats qui sont Parties contractantes se trouve ramené à moins de cinq pendant une période quelconque de douze mois consécutifs, la présente Convention cessera de produire ses effets à partir de la fin de ladite période de douze mois.
+Si, après l’entrée en vigueur de la présente Convention, le nombre des États qui sont Parties contractantes se trouve ramené à moins de cinq pendant une période quelconque de douze mois consécutifs, la présente Convention cessera de produire ses effets à partir de la fin de ladite période de douze mois.
 
 #### Art. 56
 
 **Abrogation de la Convention TIR (1959)**
 
-<sup>1.</sup> A son entrée en vigueur, la présente Convention abrogera et remplacera, dans les relations entre les Parties contractantes à la présente Convention, la Convention TIR (1959)[^56-1].
+<sup>1.</sup> À son entrée en vigueur, la présente Convention abrogera et remplacera, dans les relations entre les Parties contractantes à la présente Convention, la Convention TIR (1959)[^56-1].
 
 <sup>2.</sup> Les certificats d’agrément délivrés pour les véhicules routiers et les conteneurs selon les conditions de la Convention TIR (1959) seront acceptés, dans la limite de leur délai de validité, ou sous réserve de renouvellement, pour le transport de marchandises sous scellement douanier par les Parties contractantes à la présente Convention, pourvu que ces véhicules et ces conteneurs continuent de remplir les conditions selon lesquelles ils avaient été agréés à l’origine.
 
@@ -558,11 +564,11 @@ Si, après l’entrée en vigueur de la présente Convention, le nombre des Etat
 
 **Réserves**
 
-<sup>1.</sup> Tout Etat pourra, au moment où il signera ou ratifiera la présente Convention ou y adhérera, déclarer qu’il ne se considère pas lié par les par. 2 à 6 de l’art. 57 de la présente Convention. Les autres Parties contractantes ne seront pas liées par ces paragraphes envers toute Partie contractante qui aura formulé une telle réserve.
+<sup>1.</sup> Tout État pourra, au moment où il signera ou ratifiera la présente Convention ou y adhérera, déclarer qu’il ne se considère pas lié par les par. 2 à 6 de l’art. 57 de la présente Convention. Les autres Parties contractantes ne seront pas liées par ces paragraphes envers toute Partie contractante qui aura formulé une telle réserve.
 
 <sup>2.</sup> Toute Partie contractante qui aura formulé une réserve conformément au par. 1 du présent article pourra à tout moment lever cette réserve par une notification adressée au Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>3.</sup> A l’exception des réserves prévues au par. 1 du présent article, aucune réserve à la présente Convention ne sera admise.
+<sup>3.</sup> À l’exception des réserves prévues au par. 1 du présent article, aucune réserve à la présente Convention ne sera admise.
 
 #### Art. 58a
 
@@ -580,47 +586,75 @@ Le Comité de gestion créera une Commission de contrôle TIR en tant qu’organ
 
 [^58b-1]: Introduit par la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998, en vigueur depuis le 17 fév. 1999 ([RO 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 
+#### Art. 58c
+
+**Organe de mise en œuvre technique**[^58c-1]
+
+Un organe de mise en œuvre technique doit être établi. Sa composition, ses fonctions et son règlement intérieur sont précisés à l’annexe 11.
+
+[^58c-1]: Introduit par la mod. du 6 fév. 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
+
 #### Art. 59
 
-**Procédure d’amendement de la présente Convention**
+**Procédure d’amendement de la présente Convention**[^59-1]
 
 <sup>1.</sup> La présente Convention y compris ses annexes pourra être modifiée sur proposition d’une Partie contractante suivant la procédure prévue dans le présent article.
 
-<sup>2.</sup> Tout amendement proposé à la présente Convention sera examiné par le Comité de gestion composé de toutes les Parties contractantes conformément au Règlement intérieur faisant l’objet de l’annexe 8.[^59-1] Tout amendement de cette nature examiné ou élaboré au cours de la réunion du Comité de gestion et adopté par le Comité à la majorité des deux tiers de ses membres présents et votants sera communiqué par le Secrétaire général de l’Organisation des Nations Unies aux Parties contractantes pour acceptation.
+<sup>2.</sup> Sauf dispositions contraires énoncées dans l’art. 60*a*, tout amendement proposé à la présente Convention sera examiné par le Comité de gestion composé de toutes les Parties contractantes conformément au Règlement intérieur faisant l’objet de l’annexe 8. Tout amendement de cette nature examiné ou élaboré au cours de la réunion du Comité de gestion et adopté par le Comité à la majorité des deux tiers de ses membres présents et votants sera communiqué par le Secrétaire général de l’Organisation des Nations Unies aux Parties contractantes pour acceptation.
 
-<sup>3.</sup> Sous réserve des dispositions de l’art. 60, tout amendement proposé communiqué en application des dispositions du paragraphe précédent entrera en vigueur pour toutes les Parties contractantes trois mois après l’expiration d’une période de douze mois suivant la date à laquelle la communication a été faite, si pendant cette période aucune objection à l’amendement proposé n’a été notifiée au Secrétaire général de l’Organisation des Nations Unies par un Etat qui est Partie contractante.
+<sup>3.</sup> Sous réserve des dispositions des art. 60 et 60*a*, tout amendement proposé communiqué en application du paragraphe précédent entre en vigueur pour toutes les Parties contractantes trois mois après l’expiration d’une période de douze mois suivant la date à laquelle la communication de l’amendement a été faite si, pendant cette période, aucune objection à l’amendement proposé n’a été notifiée au Secrétaire général de l’Organisation des Nations Unies par un État qui est Partie contractante.
 
-<sup>4.</sup> Si une objection à l’amendement proposé a été notifiée conformément aux dispositions du par. 3 du présent article, l’amendement sera réputé ne pas avoir été accepté et n’aura aucun effet.
+<sup>4.</sup> Si une objection à l’amendement proposé a été notifiée conformément aux dispositions du paragraphe 3 du présent article, l’amendement sera réputé ne pas avoir été accepté et n’aura aucun effet.
 
-[^59-1]: Nouvelle teneur selon la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998, en vigueur depuis le 17 fév. 1999 ([RO 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^59-1]: Nouvelle teneur selon la mod. du 6 fév. 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 #### Art. 60
 
 **Procédure spéciale d’amendement des annexes 1, 2, 3, 4, 5, 6, 7, 8, 9 et 10[^60-1]**
 
-<sup>1.</sup> Tout amendement proposé aux annexes 1, 2, 3, 4, 5, 6, 7, 8, 9 et 10[^60-2] examiné conformément aux dispositions des par. 1 et 2 de l’art. 59, entrera en vigueur à une date qui sera fixée par le Comité de gestion au moment de son adoption, à moins qu’à une date antérieure, que fixera le Comité de gestion au même moment, un cinquième des Etats qui sont Parties contractantes ou cinq Etats qui sont Parties contractantes, si ce chiffre est inférieur, aient notifié au Secrétaire général de l’Organisation des Nations Unies qu’ils élèvent des objections contre l’amendement.[^60-3] Les dates visées au présent paragraphe seront fixées par le Comité de gestion à la majorité des deux tiers de ses membres présents et votants.
+<sup>1.</sup> Tout amendement proposé aux annexes 1, 2, 3, 4, 5, 6, 7, 8, 9 et 10[^60-2] examiné conformément aux dispositions des par. 1 et 2 de l’art. 59, entrera en vigueur à une date qui sera fixée par le Comité de gestion au moment de son adoption, à moins qu’à une date antérieure, que fixera le Comité de gestion au même moment, un cinquième des États qui sont Parties contractantes ou cinq États qui sont Parties contractantes, si ce chiffre est inférieur, aient notifié au Secrétaire général de l’Organisation des Nations Unies qu’ils élèvent des objections contre l’amendement.[^60-3] Les dates visées au présent paragraphe seront fixées par le Comité de gestion à la majorité des deux tiers de ses membres présents et votants.
 
-<sup>2.</sup> A son entrée en vigueur, un amendement adopté conformément à la procédure prévue au par. 1 ci‑dessus remplacera, pour toutes les Parties contractantes, toute disposition précédente à laquelle il se rapporte.
+<sup>2.</sup> À son entrée en vigueur, un amendement adopté conformément à la procédure prévue au par. 1 ci‑dessus remplacera, pour toutes les Parties contractantes, toute disposition précédente à laquelle il se rapporte.
 
 [^60-1]: Nouvelle teneur selon la mod., approuvée par le CF le 3 mai 2006, en vigueur depuis le 12 août 2006 ([RO 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
 [^60-2]: Nouvelle teneur de la partie de phrase selon la mod., approuvée par le CF le 3 mai 2006, en vigueur depuis le 12 août 2006 ([RO 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
 [^60-3]: Nouvelle teneur selon la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998, en vigueur depuis le 17 fév. 1999 ([RO 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 
+#### Art. 60a
+
+**Procédure spéciale aux fins de l’entrée en vigueur de l’annexe 11 et des amendements y relatifs**[^60a-1]
+
+<sup>1.</sup> L’annexe 11, considérée conformément aux dispositions des par. 1 et 2 de l’art. 59, entrera en vigueur pour toutes les Parties contractantes trois mois après l’expiration d’une période de douze mois suivant la date de la communication faite par le Secrétaire général de l’Organisation des Nations Unies aux Parties contractantes, sauf pour les Parties contractantes qui, pendant cette période de trois mois, auront notifié par écrit au Secrétaire général qu’elles n’acceptaient pas ladite annexe. En ce qui concerne les Parties qui auront retiré cette notification de non-acceptation, l’annexe 11 entrera en vigueur six mois après la date de réception par le dépositaire de la notification dudit retrait.
+
+<sup>2.</sup> Toute proposition d’amendement à l’annexe 11 doit être examinée par le Comité de gestion. Ces amendements doivent être adoptés à la majorité des Parties contractantes liées par les dispositions de ladite annexe qui sont présentes et votantes.
+
+<sup>3.</sup> Les amendements à l’annexe 11 examinés et adoptés selon les dispositions du par. 2 du présent article doivent être communiqués par le Secrétaire général de l’Organisation des Nations Unies à toutes les Parties contractantes pour information, ou aux Parties contractantes liées par les dispositions de ladite annexe pour acceptation.
+
+<sup>4.</sup> La date d’entrée en vigueur de ces amendements doit être fixée, au moment de leur adoption, à la majorité des Parties contractantes liées par les dispositions de l’annexe 11 qui sont présentes et votantes.
+
+<sup>5.</sup> Les amendements entrent en vigueur conformément au par. 4 du présent article, à moins qu’à une date antérieure fixée au moment de l’adoption, un cinquième des États qui sont des Parties contractantes liées par les dispositions de l’annexe 11, ou cinq d’entre eux si ce chiffre est inférieur, aient notifié au Secrétaire général de l’Organisation des Nations Unies qu’ils élèvent des objections contre l’amendement.
+
+<sup>6.</sup> À son entrée en vigueur, un amendement adopté conformément à la procédure prévue aux par. 2 à 5 du présent article remplacera, pour toutes les Parties contractantes liées par les dispositions de l’annexe 11, toute disposition précédente à laquelle il se rapporte.
+
+[^60a-1]: Introduit par la mod. du 6 fév. 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
+
 #### Art. 61
 
-**Demandes, communications et objections**
+**Demandes, communications et objections**[^61-1]
 
-Le Secrétariat général de l’Organisation des Nations Unies informera toutes les Parties contractantes et tous les Etats visés au par. 1 de l’art. 52 de la présente Convention, de toute demande, communication ou objection faite en vertu des art. 59 et 60 ci‑dessus et de la date d’entrée en vigueur d’un amendement.
+Le Secrétaire général de l’Organisation des Nations Unies informera toutes les Parties contractantes et tous les États visés au premier paragraphe de l’art. 52 de la présente Convention de toute demande, communication ou objection faite en vertu des art. 59, 60 et 60*a* ainsi que de la date d’entrée en vigueur d’un amendement.
+
+[^61-1]: Nouvelle teneur selon la mod. du 6 fév. 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 #### Art. 62
 
 **Conférence de revision**
 
-<sup>1.</sup> Un Etat qui est Partie contractante pourra, par notification adressée au Secrétaire général de l’Organisation des Nations Unies, demander la convocation d’une conférence à l’effet de réviser la présente Convention.
+<sup>1.</sup> Un État qui est Partie contractante pourra, par notification adressée au Secrétaire général de l’Organisation des Nations Unies, demander la convocation d’une conférence à l’effet de réviser la présente Convention.
 
-<sup>2.</sup> Une conférence de révision, à laquelle seront invités toutes les Parties contractantes et tous les Etats visés au par. 1 de l’art. 52, sera convoquée par le Secrétaire général de l’Organisation des Nations Unies si, dans un délai de six mois à compter de la date à laquelle le Secrétaire général de l’Organisation des Nations Unies aura communiqué la notification, un quart au moins des Etats qui sont Parties contractantes lui signifient leur assentiment à la demande.
+<sup>2.</sup> Une conférence de révision, à laquelle seront invités toutes les Parties contractantes et tous les États visés au par. 1 de l’art. 52, sera convoquée par le Secrétaire général de l’Organisation des Nations Unies si, dans un délai de six mois à compter de la date à laquelle le Secrétaire général de l’Organisation des Nations Unies aura communiqué la notification, un quart au moins des États qui sont Parties contractantes lui signifient leur assentiment à la demande.
 
-<sup>3.</sup> Une conférence de révision à laquelle seront invités toutes les Parties contractantes et tous les Etats visés au par. 1 de l’art. 52 sera convoquée également par le Secrétaire général de l’Organisation des Nations Unies dès notification d’une requête à cet effet du Comité de gestion. Le Comité de gestion décidera s’il y a lieu de formuler une telle requête à la majorité de ses membres présents et votants.
+<sup>3.</sup> Une conférence de révision à laquelle seront invités toutes les Parties contractantes et tous les États visés au par. 1 de l’art. 52 sera convoquée également par le Secrétaire général de l’Organisation des Nations Unies dès notification d’une requête à cet effet du Comité de gestion. Le Comité de gestion décidera s’il y a lieu de formuler une telle requête à la majorité de ses membres présents et votants.
 
 <sup>4.</sup> Si une conférence est convoquée en application des dispositions des par. 1 ou 3 du présent article, le Secrétaire général de l’Organisation des Nations Unies en avisera toutes les Parties contractantes et les invitera à soumettre, dans un délai de trois mois, les propositions qu’elles voudraient voir examiner par la conférence. Le Secrétaire général de l’Organisation des Nations Unies fera tenir à toutes les Parties contractantes l’ordre du jour provisoire de la conférence et les textes de ces propositions trois mois au moins avant la date d’ouverture de la conférence.
 
@@ -628,7 +662,7 @@ Le Secrétariat général de l’Organisation des Nations Unies informera toutes
 
 **Notifications**
 
-Outre les notifications et communications prévues aux art. 61 et 62, le Secrétaire général de l’Organisation des Nations Unies notifiera à tous les Etats visés à l’art. 52:
+Outre les notifications et communications prévues aux art. 61 et 62, le Secrétaire général de l’Organisation des Nations Unies notifiera à tous les États visés à l’art. 52:
 
 - a) les signatures, ratifications, acceptations, approbations et adhésions au titre de l’art. 52;
 - b) les dates d’entrée en vigueur de la présente Convention conformément à l’art. 53;
@@ -640,7 +674,7 @@ Outre les notifications et communications prévues aux art. 61 et 62, le Secrét
 
 **Texte authentique**
 
-Après le 31 décembre 1976, l’original de la présente Convention sera déposée auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à chacune des Parties contractantes et à chacun des Etats visés au paragraphe 1 de l’art. 52, qui ne sont pas Parties contractantes.
+Après le 31 décembre 1976, l’original de la présente Convention sera déposée auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à chacune des Parties contractantes et à chacun des États visés au paragraphe 1 de l’art. 52, qui ne sont pas Parties contractantes.
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé la présente Convention. Fait à Genève, le quatorze novembre mil neuf cent soixante‑quinze en un seul exemplaire, en langues anglaise, française et russe, les trois textes faisant également foi.
 
@@ -798,9 +832,9 @@ Les bâches coulissantes, plancher, portes et autres éléments constitutifs du 
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image2.png)
 
 Lorsqu’il existe un dispositif spécial (chicane, etc.) empêchant d’avoir accès au compartiment réservé au chargement sans laisser de traces visibles, un rabat ne sera pas exigé.
 
@@ -808,37 +842,37 @@ Lorsqu’il existe un dispositif spécial (chicane, etc.) empêchant d’avoir a
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image3.png)
 
 *Croquis n**<sup>o</sup>* *2a*
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image4.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
 Bâche faite de plusieurs pièces assemblées par soudure
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image5.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
 Raccommodage de la bâche dure
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image6.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Spécimen d’embout
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image7.png)
 
 *Croquis n**<sup>o</sup>* *6*
 
 Exemple de système de verrouillage de bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image8.png)
 
 La bâche de toit coulissante doit être conforme aux prescriptions des al. a) à c) ci‑après:
 
@@ -856,7 +890,7 @@ Le présent système de verrouillage de bâche peut être autorisé à condition
 
 Exemple de bâche fixée à une armature spécialement conçue
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image9.png)
 
 ### Description
 
@@ -866,49 +900,49 @@ Cette fixation de la bâche aux véhicules est acceptable à condition que les a
 
 Bâche à ouverture de chargement et de déchargement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image10.png)
 
 ### Description
 
-Avec ce système de verrouillage, les deux bords des ouvertures de la bâche utilisées pour le chargement et le déchargement sont réunis par une tige de verrouillage en aluminium. Sur toute leur longueur, les ouvertures de la bâche sont munies d’une corde ou d’un câble enserrés dans un ourlet (voir croquis 8.1), de telle sorte qu’il est impossible de sortir la bâche de la gorge de la tige de verrouillage. L’ourlet est du côté extérieur et soudé selon les prescriptions du par. 4 de l’art. 3 de l’annexe 2 de la Convention. Les bords doivent être introduits dans les gorges de la tige de verrouillage en aluminium puis poussés dans les deux glissières longitudinales parallèles. Quand la tige de verrouillage est en position verticale, les bords de la bâche sont réunis. A la limite supérieure de l’ouverture, la tige de verrouillage est bloquée par une plaque de plastique transparent rivetée à la bâche (voir croquis 8.2). La tige de verrouillage est en deux parties, reliées par une charnière rivetée, ce qui permet de la plier pour la mettre en place ou l’enlever plus facilement. Cette charnière doit être conçue de manière à empêcher que l’on puisse enlever la broche quand le système est verrouillé (voir croquis 8.3). Une ouverture est ménagée en bas de la tige de verrouillage pour laisser passer l’anneau. Cette ouverture est ovale et permet tout juste le passage de l’anneau (voir croquis 8.4). La corde ou le câble de fermeture TIR sont passés dans cet anneau pour bloquer la tige de verrouillage.
+Avec ce système de verrouillage, les deux bords des ouvertures de la bâche utilisées pour le chargement et le déchargement sont réunis par une tige de verrouillage en aluminium. Sur toute leur longueur, les ouvertures de la bâche sont munies d’une corde ou d’un câble enserrés dans un ourlet (voir croquis 8.1), de telle sorte qu’il est impossible de sortir la bâche de la gorge de la tige de verrouillage. L’ourlet est du côté extérieur et soudé selon les prescriptions du par. 4 de l’art. 3 de l’annexe 2 de la Convention. Les bords doivent être introduits dans les gorges de la tige de verrouillage en aluminium puis poussés dans les deux glissières longitudinales parallèles. Quand la tige de verrouillage est en position verticale, les bords de la bâche sont réunis. À la limite supérieure de l’ouverture, la tige de verrouillage est bloquée par une plaque de plastique transparent rivetée à la bâche (voir croquis 8.2). La tige de verrouillage est en deux parties, reliées par une charnière rivetée, ce qui permet de la plier pour la mettre en place ou l’enlever plus facilement. Cette charnière doit être conçue de manière à empêcher que l’on puisse enlever la broche quand le système est verrouillé (voir croquis 8.3). Une ouverture est ménagée en bas de la tige de verrouillage pour laisser passer l’anneau. Cette ouverture est ovale et permet tout juste le passage de l’anneau (voir croquis 8.4). La corde ou le câble de fermeture TIR sont passés dans cet anneau pour bloquer la tige de verrouillage.
 
 *Croquis n**<sup>o</sup>* *9*
 
 Modèle de construction d’un véhicule à bâches coulissantes
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image11.png)
 
 *Croquis n**<sup>o</sup>* *9.1*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image12.png)
 
 *Croquis n**<sup>o</sup>* *9.2*
 
 Guidage de la bâche et chevauchement-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image13.png)
 
 *Croquis n**<sup>o</sup>* *9.3*
 
 Chevauchement de la bâche-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image14.png)
 
 *Croquis n**<sup>o</sup>* *9.4*
 
 Pour tendre la bâche coulissante horizontalement, on utilise un enrouleur à cliquet (habituellement à l’arrière du véhicule). Le présent croquis donne deux exemples a) et b) de la manière de verrouiller l’enrouleur à cliquet ou le tendeur à réducteur.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image15.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image16.png)
 
 *Croquis n**<sup>o</sup>* *9.5*
 
 Pour fixer la bâche coulissante de l’autre côté (habituellement à l’avant du véhicule), on peut utiliser les systèmes a) ou b) suivants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image17.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image18.png)
 
 *Croquis n**<sup>o</sup>* *10*
 
@@ -916,25 +950,25 @@ Exemple de construction d’un véhicule à bâche de toit coulissante
 
 Ce croquis illustre un exemple de véhicule ainsi que les importantes prescriptions décrites à l’art. 5 du présent Règlement.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image19.png)
 
 *Croquis n**<sup>o</sup>* *10.1*
 
 Deux câbles d’acier précontraint, insérés dans l’ourlet des bâches latérales, sont fixés de part et d’autre du compartiment de chargement. Chacun d’eux est fixé à l’avant (voir croquis 10.2) et à l’arrière du compartiment (voir croquis 10.3). La force de traction et le disque de connexion sur chaque chariot de coulissage empêchent de soulever le câble et l’ourlet au-dessus de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image20.png)
 
 *Croquis n**<sup>o</sup>* *10.2*
 
 La bâche de toit coulissante doit recouvrir la partie pleine du toit à l’avant du compartiment de chargement de telle manière qu’elle ne puisse être tirée par-dessus l’arête supérieure de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image21.png)
 
 *Croquis n**<sup>o</sup>* *10.3*
 
 À l’arrière, un dispositif spécial, par exemple une plaque déflectrice, est monté sur le toit et empêche d’accéder au compartiment de chargement sans laisser de traces visibles une fois les portes fermées et scellées.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image22.png)
 
 - [tab] a) Verrouillage de l’enrouleur à cliquet
 
@@ -1081,7 +1115,7 @@ Annexe 6*[^t-4]*
 - 0\.8.3 Il est recommandé aux parties contractantes de limiter à une somme équivalente à 100 000 euros par carnet TIR le montant maximum éventuellement exigible de l’association garante.
 -
 
-  Pour un transport d’alcool et de tabac, dont le détail est donné ci‑après et qui excède les seuils définis ci‑dessous, il est recommandé aux autorités douanières de porter le montant maximum éventuellement exigible des associations garantes à une somme équivalant à 200 000 dollars des Etats‑Unis:
+  Pour un transport d’alcool et de tabac, dont le détail est donné ci‑après et qui excède les seuils définis ci‑dessous, il est recommandé aux autorités douanières de porter le montant maximum éventuellement exigible des associations garantes à une somme équivalant à 200 000 dollars des États‑Unis:
 
   - 1\. Alcool éthylique non dénaturé d’un titre alcoométrique volumique de 80 % vol ou plus (code SH: 2207.10);
   - 2\. Alcool éthylique non dénaturé d’un titre alcoométrique volumique de moins de 80 % vol; eaux‑de‑vie, liqueurs et autres boissons spiritueuses; préparations alcooliques composées des types utilisés pour la fabrication des boissons (code SH: 2208);
@@ -1091,7 +1125,7 @@ Annexe 6*[^t-4]*
 
 -
 
-  Il est recommandé de limiter à une somme équivalant à 100 000 euros des Etats‑Unis le montant maximum éventuellement exigible des associations garantes, si les quantités ci‑dessous ne sont pas dépassées pour les catégories de tabac et d’alcool définies ci‑dessus:
+  Il est recommandé de limiter à une somme équivalant à 100 000 euros des États‑Unis le montant maximum éventuellement exigible des associations garantes, si les quantités ci‑dessous ne sont pas dépassées pour les catégories de tabac et d’alcool définies ci‑dessus:
 
   - 1\. 300 litres,
   - 2\. 500 litres,
@@ -1102,7 +1136,7 @@ Annexe 6*[^t-4]*
 - Les quantités exactes en litres, pièces et kilogrammes des catégories de tabac et d’alcool ci‑dessus doivent être inscrites dans le manifeste du carnet TIR.
 - 0\.8.5 Si une demande de paiement est faite auprès de l’association garante pour des marchandises qui ne sont pas énumérées dans le carnet TIR, l’administration intéressée devrait mentionner les faits sur lesquels elle s’est fondée pour conclure que les marchandises étaient contenues dans le compartiment scellé du camion ou du conteneur.
 - [tab] 0.8.6
-  - 1\. A défaut de l’existence, dans le carnet TIR, d’indications suffisamment précises pour permettre de taxer les marchandises, les intéressés peuvent apporter la preuve de leur nature exacte.
+  - 1\. À défaut de l’existence, dans le carnet TIR, d’indications suffisamment précises pour permettre de taxer les marchandises, les intéressés peuvent apporter la preuve de leur nature exacte.
   - 2\. Si aucune preuve n’est apportée, les droits et taxes seront appliqués, non pas à un taux forfaitaire sans relation avec la nature des marchandises, mais au taux le plus élevé applicable au genre de marchandises couvertes par les indications du carnet TIR.
 
 ### 0.10 Art. 10
@@ -1168,7 +1202,7 @@ Annexe 6*[^t-4]*
 
 ### 0.42 Art. 42*a*
 
-- A l’art. 42*a*, l’adverbe «immédiatement» signifie que toute mesure prise au niveau national qui serait susceptible d’influer sur l’application de la Convention et/ou le fonctionnement du régime TIR doit être communiquée par écrit dès que possible, et, si possible, avant son entrée en vigueur, à la Commission de contrôle TIR, afin de permettre à celle-ci de s’acquitter pleinement de sa fonction de contrôle et de vérifier que ladite mesure est conforme aux dispositions de la Convention, en vertu de l’art. 42<sup>bis</sup> et de son mandat tel qu’énoncé à l’annexe 8 de la Convention TIR.
+- À l’art. 42*a*, l’adverbe «immédiatement» signifie que toute mesure prise au niveau national qui serait susceptible d’influer sur l’application de la Convention et/ou le fonctionnement du régime TIR doit être communiquée par écrit dès que possible, et, si possible, avant son entrée en vigueur, à la Commission de contrôle TIR, afin de permettre à celle-ci de s’acquitter pleinement de sa fonction de contrôle et de vérifier que ladite mesure est conforme aux dispositions de la Convention, en vertu de l’art. 42<sup>bis</sup> et de son mandat tel qu’énoncé à l’annexe 8 de la Convention TIR.
 
 ### 0.45 Art. 45
 
@@ -1222,7 +1256,7 @@ Annexe 6*[^t-4]*
 
     - Le terme «compartiment calorifugé réservé au chargement» doit être interprété comme s’appliquant aux compartiments frigorifiques et isothermes réservés au chargement.
 
-  - d) Les véhicules comportant un nombre important de fermetures telles que vannes, robinets, trous d’homme, flasques, etc., seront aménagés de manière à limiter, autant que possible, le nombre de scellements douaniers. A cet effet, les fermetures voisines les unes des autres seront reliées par un dispositif commun exigeant un seul scellement ou pourvues d’un couvercle répondant au même but.
+  - d) Les véhicules comportant un nombre important de fermetures telles que vannes, robinets, trous d’homme, flasques, etc., seront aménagés de manière à limiter, autant que possible, le nombre de scellements douaniers. À cet effet, les fermetures voisines les unes des autres seront reliées par un dispositif commun exigeant un seul scellement ou pourvues d’un couvercle répondant au même but.
   - e) Les véhicules à toit ouvrant seront construits de manière à limiter autant que possible le nombre de scellements douaniers.
   - f) Dans les cas où plusieurs scellements douaniers sont nécessaires pour en assurer la sécurité, le nombre de ces scellements sera indiqué dans le certificat d’agrément sous la rubrique 5 (annexe 4 de la Convention TIR de 1975). Un croquis, ou des photographies, du véhicule sera joint au certificat d’agrément pour montrer l’emplacement exact des scellements douaniers.
 
@@ -1303,7 +1337,7 @@ Annexe 6*[^t-4]*
 
 ### 8 Annexe 8
 
-- 8\.1*a*.6 Le Comité peut demander aux services compétents de l’ONU d’effectuer l’examen supplémentaire. A titre subsidiaire, le Comité peut décider d’engager un vérificateur externe indépendant et charger la Commission de contrôle TIR d’établir son mandat en fonction de l’objet et du but de la vérification tels que déterminés par lui. Ce mandat doit être approuvé par le Comité. Tout examen supplémentaire mené par un vérificateur externe indépendant donne lieu à l’établissement d’un rapport et d’une lettre d’observations qui sont soumis au Comité. Dans ce cas, le coût financier de l’engagement d’un vérificateur externe indépendant, y compris la procédure de passation de marché y relative, est imputé au budget de la Commission de contrôle TIR.
+- 8\.1*a*.6 Le Comité peut demander aux services compétents de l’ONU d’effectuer l’examen supplémentaire. À titre subsidiaire, le Comité peut décider d’engager un vérificateur externe indépendant et charger la Commission de contrôle TIR d’établir son mandat en fonction de l’objet et du but de la vérification tels que déterminés par lui. Ce mandat doit être approuvé par le Comité. Tout examen supplémentaire mené par un vérificateur externe indépendant donne lieu à l’établissement d’un rapport et d’une lettre d’observations qui sont soumis au Comité. Dans ce cas, le coût financier de l’engagement d’un vérificateur externe indépendant, y compris la procédure de passation de marché y relative, est imputé au budget de la Commission de contrôle TIR.
 - 8\.9.1 Les membres de la Commission de contrôle TIR sont compétents et expérimentés en matière d’application des procédures douanières, en particulier de la procédure de transit TIR, tant au niveau national qu’international. Les membres de la Commission sont proposés par leurs gouvernements respectifs ou par des organisations, Parties contractantes à la Convention. Ils représentent les intérêts des Parties contractantes à la Convention et non les intérêts particuliers d’un gouvernement ou d’une organisation.
 - 8\.9.2 Au cas où l’un des membres de la Commission de contrôle TIR démissionnerait avant le terme de son mandat, le Comité de gestion de la Convention TIR peut élire un membre de remplacement. Dans ce cas, le membre qui sera élu ne restera en fonctions que pour la période de temps restante du mandat de son prédécesseur. Lorsqu’un membre de la Commission de contrôle TIR n’est pas en mesure, pour des raisons autres qu’une démission, d’honorer son mandat jusqu’à son terme, l’administration nationale du membre concerné devrait en aviser, par écrit, la Commission de contrôle TIR et le secrétariat TIR. Dans ce cas, le Comité de gestion peut élire un remplaçant pour la période de temps restante du mandat.
 - 8\.10 b) *Art. 10 let. b*
@@ -1326,7 +1360,7 @@ Annexe 6*[^t-4]*
 
 Exemple de charnière et de dispositif de scellement douanier pour les portes de véhicules munis de compartiments de chargements calorifugés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image23.png)
 
 *Croquis n**<sup>o</sup>* *1a*
 
@@ -1334,19 +1368,19 @@ Exemple de charnière ne nécessitant pas de protection particulière de la tige
 
 La charnière représentée ci‑après est conforme aux exigences énoncées dans la deuxième phrase du par. b) de la note 2.2.1 b). La conception de la lame et du pontet rend superflue toute protection particulière de la tige, étant donné que les becquets de la lame remontent jusque derrière les extrémités du pontet. Ces becquets empêchent ainsi que la porte scellée par la douane puisse être ouverte au niveau du dispositif d’attache sans laisser de traces visibles même si la tige non protégée a été enlevée.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image24.png)
 
 *Croquis n**<sup>o</sup>* *2*
 
 Véhicules bâchés à anneaux coulissants
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image25.png)
 
 *Croquis n**<sup>o</sup>* *2a*
 
 Exemple de pontet‑tourniquet (modèle «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image26.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
@@ -1354,7 +1388,7 @@ Exemple de dispositif de fermeture d’une bâche de véhicule
 
 Le dispositif reproduit ci‑dessous répond aux prescriptions du dernier alinéa du par. 11 a) de l’art. 3 de l’annexe 2. Il répond aussi aux prescriptions du par. 6 de l’art. 3 de l’annexe 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image27.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
@@ -1362,13 +1396,13 @@ Dispositif de fermeture d’une bâche
 
 Le dispositif reproduit ci‑dessous répond aux prescriptions de l’al. a) du par. 6 de l’art. 3 de l’annexe 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image28.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Exemple de dispositif de fixation introduit de l’intérieurde la porte isolée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image29.png)
 
 Annexe 7*[^t-5]*
 
@@ -1516,13 +1550,13 @@ Bâche faite de plusieurs pièces
 
 (Assemblage par couture)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image30.png)
 
 *Croquis n**<sup>o</sup>* *2*
 
 Bâche faite de plusieurs pièces
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image31.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
@@ -1530,25 +1564,25 @@ Bâche faite de plusieurs pièces
 
 (Assemblage par soudure)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image32.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
 Raccommodage de la bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image33.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Spécimen d'embout
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image34.png)
 
 *Croquis n**<sup>o</sup>* *6*
 
 Exemple de système de verrouillage de bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image8.png)
 
 La bâche de toit coulissante doit être conforme aux prescriptions des al. a) à c) ci‑après:
 
@@ -1568,7 +1602,7 @@ Le présent système de verrouillage de bâche peut être autorisé à condition
 
 Exemple de bâche fixée à une armature spécialement conçue
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image35.png)
 
 ### Description
 
@@ -1578,49 +1612,49 @@ Cette fixation de la bâche aux véhicules est acceptable à condition que les a
 
 Bâche à ouverture de chargement et de déchargement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image36.png)
 
 ### Description
 
-Avec ce système de verrouillage, les deux bords des ouvertures de la bâche utilisées pour le chargement et le déchargement sont réunis par une tige de verrouillage en aluminium. Sur toute leur longueur, les ouvertures de la bâche sont munies d’une corde ou d’un câble enserrés dans un ourlet (voir croquis 8.1), de telle sorte qu’il est impossible de sortir la bâche de la gorge de la tige de verrouillage. L’ourlet est du côté extérieur et soudé selon les prescriptions du par. 4 de l’art. 3 de l’annexe 2 de la Convention. Les bords doivent être introduits dans les gorges de la tige de verrouillage en aluminium puis poussés dans les deux glissières longitudinales parallèles. Quand la tige de verrouillage est en position verticale, les bords de la bâche sont réunis. A la limite supérieure de l’ouverture, la tige de verrouillage est bloquée par une plaque de plastique transparent rivetée à la bâche (voir croquis 8.2). La tige de verrouillage est en deux parties, reliées par une charnière rivetée, ce qui permet de la plier pour la mettre en place ou l’enlever plus facilement. Cette charnière doit être conçue de manière à empêcher que l’on puisse enlever la broche quand le système est verrouillé (voir croquis 8.3). Une ouverture est ménagée en bas de la tige de verrouillage pour laisser passer l’anneau. Cette ouverture est ovale et permet tout juste le passage de l’anneau (voir croquis 8.4). La corde ou le câble de fermeture TIR sont passés dans cet anneau pour bloquer la tige de verrouillage.
+Avec ce système de verrouillage, les deux bords des ouvertures de la bâche utilisées pour le chargement et le déchargement sont réunis par une tige de verrouillage en aluminium. Sur toute leur longueur, les ouvertures de la bâche sont munies d’une corde ou d’un câble enserrés dans un ourlet (voir croquis 8.1), de telle sorte qu’il est impossible de sortir la bâche de la gorge de la tige de verrouillage. L’ourlet est du côté extérieur et soudé selon les prescriptions du par. 4 de l’art. 3 de l’annexe 2 de la Convention. Les bords doivent être introduits dans les gorges de la tige de verrouillage en aluminium puis poussés dans les deux glissières longitudinales parallèles. Quand la tige de verrouillage est en position verticale, les bords de la bâche sont réunis. À la limite supérieure de l’ouverture, la tige de verrouillage est bloquée par une plaque de plastique transparent rivetée à la bâche (voir croquis 8.2). La tige de verrouillage est en deux parties, reliées par une charnière rivetée, ce qui permet de la plier pour la mettre en place ou l’enlever plus facilement. Cette charnière doit être conçue de manière à empêcher que l’on puisse enlever la broche quand le système est verrouillé (voir croquis 8.3). Une ouverture est ménagée en bas de la tige de verrouillage pour laisser passer l’anneau. Cette ouverture est ovale et permet tout juste le passage de l’anneau (voir croquis 8.4). La corde ou le câble de fermeture TIR sont passés dans cet anneau pour bloquer la tige de verrouillage.
 
 *Croquis n**<sup>o</sup>* *9*
 
 Modèle de construction d’un véhicule à bâches coulissantes
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image37.png)
 
 *Croquis n**<sup>o</sup>* *9.1*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image38.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image38.png)
 
 *Croquis n**<sup>o</sup>* *9.2*
 
 Guidage de la bâche et chevauchement-haut
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image39.png)
 
 *Croquis n**<sup>o</sup>* *9.3*
 
 Chevauchement de de la bâche-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image40.png)
 
 *Croquis n**<sup>o</sup>* *9.4*
 
 Pour tendre la bâche coulissante horizontalement, on utilise un enrouleur à cliquet (habituellement à l’arrière du conteneur). Le présent croquis donne deux exemples a) et b) de la manière de verrouiller l’enrouleur à cliquet ou le tendeur à réducteur.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image41.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image42.png)
 
 *Croquis n**<sup>o</sup>* *9.5*
 
 Pour fixer la bâche coulissante de l’autre côté (habituellement à l’avant du véhicule), on peut utiliser les systèmes a) ou b) suivants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image43.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image18.png)
 
 *Croquis n**<sup>o</sup>* *10*
 
@@ -1628,19 +1662,19 @@ Exemple de construction d’un véhicule à bâche de toit coulissante
 
 Ce croquis illustre un exemple de conteneur ainsi que certains points importants décrits à l’art. 6 du présent Règlement.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image19.png)
 
 *Croquis n**<sup>o</sup>* *10.1*
 
 Deux câbles d’acier précontraint, insérés dans l’ourlet des bâches latérales, sont fixés de part et d’autre du conteneur. Chacun d’eux est fixé à l’avant (voir croquis 10.2) et à l’arrière du conteneur (voir croquis 10.3). La force de traction et le disque de connexion sur chaque chariot de coulissage empêchent de soulever le câble et l’ourlet au-dessus de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image44.png)
 
 *Croquis n**<sup>o</sup>* *10.2*
 
 La bâche de toit coulissante doit recouvrir la partie pleine du toit à l’avant du conteneur de telle manière qu’elle ne puisse être tirée par-dessus l’arête supérieure de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image21.png)
 
 - [tab] a) Verrouillage de l’enrouleur à cliquet
 
@@ -1716,7 +1750,7 @@ Modèle N<sup>o</sup> I
 
 (version anglaise)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image45.png)
 
 *Appendice 1 de la deuxième partie*
 
@@ -1726,7 +1760,7 @@ Modèle N<sup>o</sup> I
 
 (version française)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image46.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image46.png)
 
 *Appendice 2 de la deuxième partie*
 
@@ -1749,7 +1783,7 @@ Modèle N<sup>o</sup> II
 <tr><td colspan="3">11.</td><td colspan="10">Délivré à</td><td colspan="2"></td></tr>
 <tr><td colspan="6"></td><td colspan="6">(Nom et adresse du constructeur)</td><td colspan="3"></td></tr>
 <tr><td colspan="5"></td><td colspan="8">qui est autorisé à apposer une plaque d’agrément sur chaque conteneur du type agréé construit par ses soins.</td><td colspan="2"></td></tr>
-<tr><td colspan="7">A <sup>,</sup></td><td colspan="3">le</td><td colspan="5">19</td></tr>
+<tr><td colspan="7">À <sup>,</sup></td><td colspan="3">le</td><td colspan="5">19</td></tr>
 <tr><td></td><td colspan="7">(Lieu)</td><td colspan="3">(Date)</td><td colspan="4"></td></tr>
 <tr><td colspan="16">Par</td></tr>
 <tr><td colspan="4"></td><td colspan="7">(Signature et cachet de l’organisation ou du service émetteur)</td><td colspan="4"></td></tr>
@@ -1783,7 +1817,7 @@ Modèle N<sup>o</sup> III
 <tr><td colspan="4">8.</td><td colspan="5">Délivré à</td></tr>
 <tr><td colspan="5"></td><td colspan="4">(Nom et adresse du demandeur)</td></tr>
 <tr><td colspan="4"></td><td colspan="5">qui est autorisé à apposer une plaque d’agrément sur le(s) conteneur(s) indiqué(s) ci-dessus.</td></tr>
-<tr><td colspan="6">A <sup>,</sup></td><td colspan="2">le</td><td>19</td></tr>
+<tr><td colspan="6">À <sup>,</sup></td><td colspan="2">le</td><td>19</td></tr>
 <tr><td></td><td colspan="6">(Lieu)</td><td colspan="2">(Date)</td></tr>
 <tr><td colspan="10"><sup>Par</sup></td></tr>
 <tr><td colspan="2"></td><td colspan="8">(Signature et cachet de l’organisation ou du service émetteur)</td></tr>
@@ -1816,7 +1850,7 @@ Dispositif de fixation d’une bâche autour des ferrures de coin
 
 Le dispositif reproduit ci-dessous répond aux prescriptions de l’alinéa a) du paragraphe 6 de l’article 4 de la première partie.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/fr/xml/image/image47.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/fr/xml/image/image47.png)
 
 Annexe 8*[^t-6]*
 
@@ -1829,25 +1863,25 @@ Annexe 8*[^t-6]*
 #### Art. 1
 
 - i) Les Parties contractantes sont membres du Comité de gestion.
-- ii) Le Comité peut décider que les administrations compétentes des Etats visées au par. 1 de l’art. 52 de la présente Convention qui ne sont pas Parties contractantes ou des représentants d’organisations internationales peuvent, pour les questions qui les intéressent, assister à ses sessions en qualité d’observateurs.
+- ii) Le Comité peut décider que les administrations compétentes des États visées au par. 1 de l’art. 52 de la présente Convention qui ne sont pas Parties contractantes ou des représentants d’organisations internationales peuvent, pour les questions qui les intéressent, assister à ses sessions en qualité d’observateurs.
 
 #### Art. 1a
 
-<sup>(1)</sup> Le Comité examine toute proposition de modification de la Convention conformément aux par. 1 et 2 de l’art. 59.
+<sup>1.</sup> Le Comité examine toute proposition de modification de la Convention conformément aux par. 1 et 2 de l’art. 59.
 
-<sup>(2)</sup> Le Comité surveille l’application de la Convention et examine toute mesure prise par les Parties contractantes, les associations et les organisations internationales au titre de la Convention ainsi que leur conformité avec la Convention.
+<sup>2.</sup> Le Comité surveille l’application de la Convention et examine toute mesure prise par les Parties contractantes, les associations et les organisations internationales au titre de la Convention ainsi que leur conformité avec la Convention.
 
-<sup>(3)</sup> Le Comité, par l’intermédiaire de la Commission de contrôle TIR, supervise l’application de la Convention aux niveaux national et international et apporte son appui.
+<sup>3.</sup> Le Comité, par l’intermédiaire de la Commission de contrôle TIR, supervise l’application de la Convention aux niveaux national et international et apporte son appui.
 
-<sup>(4)</sup> Le Comité doit recevoir et examiner les états financiers annuels vérifiés et le(s) rapport(s) de vérification soumis par l’organisation internationale en applications des obligations qui lui incombent en vertu des dispositions de la troisième partie de l’annexe 9. Dans le cadre de son examen et dans les limites de ces attributions à cet égard, le Comité peut demander à l’organisation internationale ou au vérificateur externe indépendant de lui communiquer des renseignements, précisions ou documents complémentaires.
+<sup>4.</sup> Le Comité doit recevoir et examiner les états financiers annuels vérifiés et le(s) rapport(s) de vérification soumis par l’organisation internationale en applications des obligations qui lui incombent en vertu des dispositions de la troisième partie de l’annexe 9. Dans le cadre de son examen et dans les limites de ces attributions à cet égard, le Comité peut demander à l’organisation internationale ou au vérificateur externe indépendant de lui communiquer des renseignements, précisions ou documents complémentaires.
 
-<sup>(5)</sup> Sans préjudice du contrôle mentionné au par. 4, le Comité peut, en se fondant sur une évaluation des risques, demander à ce qu’il soit procédé à des contrôles supplémentaires. Le Comité charge la Commission de contrôle TIR ou demande aux services compétents de l’ONU de procéder à l’évaluation des risques.
+<sup>5.</sup> Sans préjudice du contrôle mentionné au par. 4, le Comité peut, en se fondant sur une évaluation des risques, demander à ce qu’il soit procédé à des contrôles supplémentaires. Le Comité charge la Commission de contrôle TIR ou demande aux services compétents de l’ONU de procéder à l’évaluation des risques.
 
 Le Comité détermine l’étendue de ces contrôles supplémentaires, compte tenu de l’évaluation des risques effectuée par la Commission de contrôle TIR ou les services compétents des Nations unies.
 
 Les résultats de tous les examens visés au présent article doivent être conservés par la Commission de contrôle TIR et fournis pour examen à toutes les Parties contractantes.
 
-<sup>(6)</sup> La procédure de réalisation de contrôles supplémentaires doit être approuver par le Comité.
+<sup>6.</sup> La procédure de réalisation de contrôles supplémentaires doit être approuver par le Comité.
 
 #### Art. 2
 
@@ -1859,15 +1893,15 @@ Le Comité procède, à sa première session de chaque année, à l’élection 
 
 #### Art. 4
 
-Le Secrétaire général de l’Organisation des Nations Unies convoque le Comité, sous les auspices de la Commission économique pour l’Europe tous les ans, ainsi que sur la demande des administrations compétentes d’au moins cinq Etats qui sont Parties contractantes.
+Le Secrétaire général de l’Organisation des Nations Unies convoque le Comité, sous les auspices de la Commission économique pour l’Europe tous les ans, ainsi que sur la demande des administrations compétentes d’au moins cinq États qui sont Parties contractantes.
 
 #### Art. 5
 
-Les propositions sont mises aux voix. Chaque Etat qui est Partie contractante représenté à la session dispose d’une voix. Les propositions autres que les amendements à la présente Convention sont adoptées par le Comité à la majorité des suffrages exprimés par les membres présents et votants. Les amendements à la présente Convention, ainsi que les décisions visées aux art. 59 et 60 de la présente Convention, sont adoptés à la majorité des deux tiers des suffrages exprimés par les membres présents et votants.
+Les propositions sont mises aux voix. Chaque État qui est Partie contractante représenté à la session dispose d’une voix. Les propositions autres que les amendements à la présente Convention sont adoptées par le Comité à la majorité des suffrages exprimés par les membres présents et votants. Les amendements à la présente Convention, ainsi que les décisions visées aux art. 59 et 60 de la présente Convention, sont adoptés à la majorité des deux tiers des suffrages exprimés par les membres présents et votants.
 
 #### Art. 6
 
-Un quorum d’au moins le tiers des Etats qui sont Parties contractantes est nécessaire pour prendre les décisions.
+Un quorum d’au moins le tiers des États qui sont Parties contractantes est nécessaire pour prendre les décisions.
 
 #### Art. 7
 
@@ -1881,9 +1915,9 @@ En l’absence de dispositions pertinentes dans la présente annexe, le Règleme
 
 #### Art. 9
 
-<sup>(1)</sup> La Commission de contrôle TIR, créée par le Comité de gestion conformément à l’art. 58*b*, est composée de neuf membres de Parties contractantes à la Convention différentes. Le Secrétaire de la Convention TIR participe aux sessions de la Commission.
+<sup>1.</sup> La Commission de contrôle TIR, créée par le Comité de gestion conformément à l’art. 58*b*, est composée de neuf membres de Parties contractantes à la Convention différentes. Le Secrétaire de la Convention TIR participe aux sessions de la Commission.
 
-<sup>(2)</sup> Les membres de la Commission de contrôle TIR sont élus par le Comité de gestion à la majorité des membres présents et votants. Le mandat de chaque membre de la Commission de contrôle TIR est de deux ans. Les membres de la Commission de contrôle TIR sont rééligibles. Le mandat de la Commission de contrôle TIR doit être établi par le Comité de gestion.
+<sup>2.</sup> Les membres de la Commission de contrôle TIR sont élus par le Comité de gestion à la majorité des membres présents et votants. Le mandat de chaque membre de la Commission de contrôle TIR est de deux ans. Les membres de la Commission de contrôle TIR sont rééligibles. Le mandat de la Commission de contrôle TIR doit être établi par le Comité de gestion.
 
 #### Art. 10
 
@@ -1900,15 +1934,15 @@ La Commission de contrôle TIR:
 
 #### Art. 11
 
-<sup>(1)</sup> Le Secrétaire de la Convention TIR convoque une session de la Commission à la demande du Comité de gestion ou à celle d’au moins trois membres de la Commission.
+<sup>1.</sup> Le Secrétaire de la Convention TIR convoque une session de la Commission à la demande du Comité de gestion ou à celle d’au moins trois membres de la Commission.
 
-<sup>(2)</sup> La Commission s’efforce de prendre les décisions par consensus. Faute de consensus, elles sont mises aux voix et adoptées à la majorité des suffrages exprimés par les membres présents et votants. Aux fins de la prise de décisions, le quorum est de cinq membres. Le Secrétaire de la Convention TIR ne prend pas part au vote.
+<sup>2.</sup> La Commission s’efforce de prendre les décisions par consensus. Faute de consensus, elles sont mises aux voix et adoptées à la majorité des suffrages exprimés par les membres présents et votants. Aux fins de la prise de décisions, le quorum est de cinq membres. Le Secrétaire de la Convention TIR ne prend pas part au vote.
 
-<sup>(3)</sup> La Commission élit un président et adopte toute autre disposition relative au règlement intérieur.
+<sup>3.</sup> La Commission élit un président et adopte toute autre disposition relative au règlement intérieur.
 
-<sup>(4)</sup> Au moins une fois par an ou à la demande du Comité de gestion, la Commission fait rapport sur ses activités au Comité de gestion, auquel elle présente également des comptes vérifiés. La Commission est représentée au Comité de gestion par son président.
+<sup>4.</sup> Au moins une fois par an ou à la demande du Comité de gestion, la Commission fait rapport sur ses activités au Comité de gestion, auquel elle présente également des comptes vérifiés. La Commission est représentée au Comité de gestion par son président.
 
-<sup>(5)</sup> La Commission examine toute information et toute question qui lui sont transmises par le Comité de gestion, les Parties contractantes, le Secrétaire de la Convention TIR, les associations nationales et les organisations internationales auxquelles il est fait référence dans l’art. 6 de la Convention. Ces organisations internationales ont le droit de participer aux sessions de la Commission de contrôle TIR en qualité d’observateurs, à moins que le Président n’en décide autrement. Si nécessaire, toute autre organisation peut, à l’invitation du Président, participer en qualité d’observateur aux sessions de la Commission.
+<sup>5.</sup> La Commission examine toute information et toute question qui lui sont transmises par le Comité de gestion, les Parties contractantes, le Secrétaire de la Convention TIR, les associations nationales et les organisations internationales auxquelles il est fait référence dans l’art. 6 de la Convention. Ces organisations internationales ont le droit de participer aux sessions de la Commission de contrôle TIR en qualité d’observateurs, à moins que le Président n’en décide autrement. Si nécessaire, toute autre organisation peut, à l’invitation du Président, participer en qualité d’observateur aux sessions de la Commission.
 
 #### Art. 12
 
@@ -1916,15 +1950,15 @@ Le Secrétaire de la Convention TIR est un membre du secrétariat de la Commissi
 
 #### Art. 13
 
-<sup>(1)</sup> Le fonctionnement de la Commission de contrôle TIR et du secrétariat TIR est financé, en attendant de trouver d’autres sources de financement, par un montant par carnet TIR distribué par l’organisation internationale mentionnée à l’art. 6. Ce montant doit être approuvé par le Comité de gestion.
+<sup>1.</sup> Le fonctionnement de la Commission de contrôle TIR et du secrétariat TIR est financé, en attendant de trouver d’autres sources de financement, par un montant par carnet TIR distribué par l’organisation internationale mentionnée à l’art. 6. Ce montant doit être approuvé par le Comité de gestion.
 
-<sup>(2)</sup> Les modalités du financement du fonctionnement de la Commission de contrôle TIR et du secrétariat TIR doivent être approuvées par le Comité de gestion.
+<sup>2.</sup> Les modalités du financement du fonctionnement de la Commission de contrôle TIR et du secrétariat TIR doivent être approuvées par le Comité de gestion.
 
 Annexe 9*[^t-7]*
 
 ## Accès au régime TIR
 
-[^t-7]: Introduite par la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998, ([RO 2003 663](https://fedlex.data.admin.ch/eli/oc/2003/132)[664](https://fedlex.data.admin.ch/eli/oc/2003/133); FF **1998** 3293). Mise à jour selon la mod. approuvée par le CF le 21 déc. 2005, en vigueur pour la Suisse depuis le 1<sup>er</sup> avril 2006 ([RO 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), la mod. en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), les mod. approuvées par le DFF le 26 juin 2013 ([RO 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), le 30 sept. 2014 ([RO 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) et la mod. du 30 mars 2018, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-7]: Introduite par la mod. du 27 juin 1997, approuvée par l’Ass. féd. le 24 sept. 1998, ([RO 2003 663](https://fedlex.data.admin.ch/eli/oc/2003/132)[664](https://fedlex.data.admin.ch/eli/oc/2003/133); FF **1998** 3293). Mise à jour selon la mod. approuvée par le CF le 21 déc. 2005, en vigueur pour la Suisse depuis le 1<sup>er</sup> avril 2006 ([RO 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), la mod. en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), les mod. approuvées par le DFF le 26 juin 2013 ([RO 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), le 30 sept. 2014 ([RO 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), la mod. du 30 mars 2018, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) et la mod. du 6 fév. 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### Première partie Habilitation des associations à délivrer des carnets TIR et à se porter caution
 
@@ -1951,7 +1985,8 @@ Annexe 9*[^t-7]*
 - vii) permettre aux autorités compétentes de vérifier tous les dossiers et les comptes tenus quant à l’administration du régime TIR;
 - viii) accepter une procédure pour le règlement efficace des différends liés à l’utilisation indue ou frauduleuse des carnets TIR, chaque fois que possible sans recourir aux tribunaux;
 - ix) respecter strictement les décisions des autorités compétentes de la Partie contractante sur le territoire de laquelle elle est établie en ce qui concerne la révocation ou le retrait de l’habilitation conformément à l’art. 6 de la Convention et à la deuxième partie de la présente annexe, ou l’exclusion de personnes conformément à l’art. 38 de la Convention;
-- x) accepter d’appliquer scrupuleusement toutes les décisions adoptées par le Comité de gestion et la Commission de contrôle TIR, dans la mesure où les autorités compétentes de la Partie contractante sur le territoire de laquelle elle est établie les auront acceptées.
+- x) accepter d’appliquer scrupuleusement toutes les décisions adoptées par le Comité de gestion et la Commission de contrôle TIR, dans la mesure où les autorités compétentes de la Partie contractante sur le territoire de laquelle elle est établie les auront acceptées;
+- xi) Confirmer, dans le cas de la procédure de secours telle que décrite au par. 2 de l’art. 10 de l’annexe 11, pour les Parties contractantes liées par les dispositions de ladite annexe et à la demande des autorités compétentes, que la garantie est valide et qu’un transport TIR est effectué conformément à la procédure eTIR, et fournir d’autres renseignements concernant le transport TIR.
 
 (4) Lorsqu’une association garante est priée, conformément à la procédures prévue à l’art. 11, de verser les sommes visées aux par. 1 et 2 de l’art. 8, elle doit, conformément aux accords écrits visés à la note explicative 0.6.<sup>2bis-1</sup> au par. 2<sup>bis</sup> de l’art. 6, informer l’organisation internationale de la réception de la demande.
 
@@ -2001,7 +2036,7 @@ Annexe 9*[^t-7]*
 </table>
 
 <table>
-<tr><td colspan="10">A remplir par l’association nationale et/ou l’autorité compétente</td></tr>
+<tr><td colspan="10">À remplir par l’association nationale et/ou l’autorité compétente</td></tr>
 <tr><td colspan="2">Numéro d’identification</td><td>Nom de la (des) personne(s) ou de l’entre-prise</td><td>Adresse professionnelle</td><td>Point de contact et numéro d’appel (N<sup>o</sup> de tél., de téléscripteur et de courrier électronique)</td><td>Immatri-culation commer-ciale ou numéro de permis, etc.\*</td><td>Retrait d’habilitation précédent\*\*</td><td>Date d’habilitation\*\*</td><td>Date de retrait de l’habilitation\*\*</td><td>Cachet/ signature</td></tr>
 <tr><td>\*</td><td colspan="9">si disponible</td></tr>
 <tr><td>\*\*</td><td colspan="9">le cas échéant</td></tr>
@@ -2085,11 +2120,156 @@ Au nom de ses associations membres et afin d’assumer ses responsabilités en t
 - 3) Pour couvrir les échanges de données susmentionnés, les autorités douanières et les associations garantes nationales concluent un accord conforme à leur législation nationale.
 - 4) Une organisation internationale donne aux autorités douanières l’accès à la base de données des carnets TIR terminés ainsi qu’à celle des carnets TIR invalidés.
 
+Annexe 11*[^t-9]*
+
+## La procédure eTIR
+
+[^t-9]: Introduite par la mod. du 6 fév, 2020, en vigueur pour la Suisse depuis le 25 mai 2021 ([RO 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)). Conformément à l’article 60*a* paragraphe 1 de la Convention TIR, la Suisse déclare qu’elle n’accepte pas, pour le moment, l’Annexe 11.
+
+### Première partie
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1.</sup> Les dispositions de la présente annexe régissent la mise en œuvre de la procédure eTIR telle qu’elle est définie au paragraphe s) de l’article premier de la Convention et s’appliquent aux relations entre les Parties contractantes liées par les dispositions de cette annexe, conformément aux dispositions du premier paragraphe de l’art. 60*a*.
+
+<sup>2.</sup> La procédure eTIR ne peut être appliquée pour les transports effectués en partie sur le territoire d’une Partie contractante qui n’est pas liée par les dispositions de l’annexe 11 et qui est membre d’une union douanière ou économique ayant un territoire douanier unique.
+
+#### Art. 2
+
+**Définitions**
+
+Aux fins de la présente annexe:
+
+- a) par «système international eTIR», on entend le système informatique conçu pour permettre l’échange électronique de données entre les acteurs de la procédure eTIR;
+- b) par «spécifications eTIR», on entend les spécifications conceptuelles, fonctionnelles et techniques de la procédure eTIR telles qu’adoptées et amendées conformément aux dispositions de l’art. 5 de la présente annexe;
+- c) par «renseignements anticipés TIR», on entend les renseignements communiqués aux autorités compétentes du pays de départ, conformément aux spécifications eTIR, qui indiquent l’intention du titulaire de placer des marchandises sous la procédure eTIR;
+- d) par «renseignements anticipés rectifiés», on entend les renseignements communiqués aux autorités compétentes du pays dans lequel une rectification des données de la déclaration est demandée, conformément aux spécifications eTIR, qui indiquent l’intention du titulaire de rectifier les données de sa déclaration;
+- e) par «données de la déclaration», on entend les renseignements anticipés TIR et les renseignements anticipés rectifiés qui ont été acceptés par les autorités compétentes;
+- f) par «déclaration», on entend l’acte par lequel le titulaire, ou son représentant, exprime, conformément aux spécifications eTIR, son intention de placer des marchandises sous la procédure eTIR. Dès lors que la déclaration a été acceptée par les autorités compétentes, sur la base des renseignements anticipés TIR ou des renseignements anticipés rectifiés, et que les données correspondantes ont été transférées dans le système international eTIR, elle constitue l’équivalent juridique d’un carnet TIR accepté;
+- g) par «document d’accompagnement», on entend le document imprimé généré électroniquement par le système douanier, après l’acceptation de la déclaration, conformément aux directives énoncées dans les spécifications techniques eTIR. Le document d’accompagnement peut être utilisé pour signaler les incidents survenus en cours de route et il remplace le procès-verbal de constat conformément aux dispositions de l’art. 25 de la présente Convention. Il est également utilisé dans le cadre de la procédure de secours;
+- h) par «authentification», on entend un processus électronique qui permet de confirmer l’identification électronique d’une personne physique ou morale, ou l’origine et l’intégrité d’une donnée sous forme électronique.
+
+#### Art. 3
+
+**Mise en œuvre de la procédure eTIR**
+
+<sup>1.</sup> Les Parties contractantes liées par les dispositions de l’annexe 11 doivent connecter leurs systèmes douaniers au système international eTIR conformément aux spécifications eTIR.
+
+<sup>2.</sup> Chaque Partie contractante est libre de choisir la date à laquelle elle connectera ses systèmes douaniers au système international eTIR. Cette date de connexion doit être communiquée à toutes les autres Parties contractantes liées par les dispositions de l’annexe 11 au moins six mois à l’avance.
+
+#### Art. 4
+
+**Composition, fonctions et Règlement intérieur de l*’*Organe de mise en œuvre technique**
+
+<sup>1.</sup> Les Parties contractantes liées par les dispositions de l’annexe 11 sont membres de l’Organe de mise en œuvre technique. Les sessions de cet organe sont convoquées à intervalles réguliers ou à la demande du Comité de gestion pour assurer la tenue à jour des spécifications eTIR. Le Comité de gestion doit être régulièrement informé des activités et des avis de l’Organe de mise en œuvre technique.
+
+<sup>2.</sup> Les Parties contractantes qui n’ont pas accepté l’annexe 11 conformément aux dispositions du premier paragraphe de l’art. 60a ainsi que des représentants d’organisations internationales peuvent assister aux sessions de l’Organe de mise en œuvre technique en qualité d’observateurs.
+
+<sup>3.</sup> L’Organe de mise en œuvre technique doit surveiller les aspects techniques et fonctionnels de la mise en œuvre de la procédure eTIR, et coordonner et encourager l’échange d’informations sur les questions relevant de sa compétence.
+
+<sup>4.</sup> L’Organe de mise en œuvre technique adoptera son règlement intérieur à sa première session et le soumettra au Comité de gestion pour approbation par les Parties contractantes liées par les dispositions de l’annexe 11.
+
+#### Art. 5
+
+**Procédures d’adoption et d’amendement des spécifications eTIR**
+
+L’Organe de mise en œuvre technique:
+
+- a) adopte les spécifications techniques de la procédure eTIR, ainsi que les amendements qui doivent y être apportés, en veillant à assurer leur conformité avec les spécifications fonctionnelles de la procédure eTIR. Au moment de l’adoption, il détermine la durée de la période transitoire qui convient pour leur mise en œuvre;
+- b) élabore les spécifications fonctionnelles de la procédure eTIR, ainsi que les amendements qui doivent y être apportés, en veillant à assurer leur conformité avec les spécifications conceptuelles de la procédure eTIR. Ces textes sont transmis au Comité de gestion pour adoption à la majorité des Parties contractantes liées par les dispositions de l’annexe 11 qui sont présentes et votantes, mis en œuvre et, si nécessaire, traduits en spécifications techniques à une date qui est déterminée au moment de l’adoption;
+- c) examine les amendements à apporter aux spécifications conceptuelles de la procédure eTIR si le Comité de gestion le lui demande. Les spécifications conceptuelles de la procédure eTIR et les amendements y relatifs sont adoptés à la majorité des Parties contractantes liées par l’annexe 11 qui sont présentes et votantes, mis en œuvre et, si nécessaire, traduits en spécifications fonctionnelles à une date qui est déterminée lors de l’adoption.
+
+#### Art. 6
+
+**Communication des renseignements anticipés TIR et des renseignements anticipés rectifiés**
+
+<sup>1.</sup> Les renseignements anticipés TIR et les renseignements anticipés rectifiés doivent être communiqués par le titulaire, ou par son représentant, aux autorités compétentes du pays de départ et du pays dans lequel une rectification des données de la déclaration est demandée. Une fois que la déclaration ou la rectification a été acceptée conformément à la législation nationale, les autorités compétentes doivent transmettre les données de la déclaration, ou la rectification qui y a été apportée, au système international eTIR.
+
+<sup>2.</sup> Les renseignements anticipés TIR et les renseignements anticipés rectifiés mentionnés au par. 1 peuvent être communiqués aux autorités compétentes, directement ou par le système international eTIR.
+
+<sup>3.</sup> Les Parties contractantes liées par les dispositions de l’annexe 11 doivent accepter le dépôt de renseignements anticipés TIR et de renseignements anticipés rectifiés via le système international eTIR.
+
+<sup>4.</sup> Les autorités compétentes doivent publier la liste de tous les moyens électroniques par lesquels les renseignements anticipés TIR et les renseignements anticipés rectifiés peuvent être communiqués.
+
+#### Art. 7
+
+**Authentification**
+
+<sup>1.</sup> Lorsqu’elles s’apprêtent à accepter une déclaration dans le pays de départ ou une rectification des données de la déclaration dans un pays situé le long de l’itinéraire, les autorités compétentes doivent authentifier les renseignements anticipés TIR ou les renseignements anticipés rectifiés, ainsi que le titulaire, conformément à la législation nationale.
+
+<sup>2.</sup> Les Parties contractantes liées par les dispositions de l’annexe 11 doivent accepter l’authentification du titulaire effectuée par le système international eTIR.
+
+<sup>3.</sup> Les autorités compétentes doivent publier une liste des mécanismes d’authentification autres que ceux qui sont spécifiés au paragraphe 2 du présent article et qui peuvent être utilisés pour l’authentification.
+
+<sup>4.</sup> Les Parties contractantes liées par les dispositions de l’annexe 11 doivent accepter en tant qu’équivalent juridique d’un carnet TIR accepté les données de la déclaration reçues des autorités compétentes du pays de départ et de celles du pays dans lequel une rectification des données de la déclaration a été demandée, qui sont communiquées via le système international eTIR.
+
+#### Art. 8
+
+**Reconnaissance mutuelle de l’authentification du titulaire**
+
+L’authentification du titulaire réalisée par les autorités compétentes des Parties contractantes liées par les dispositions de l’annexe 11 qui acceptent la déclaration ou la rectification des données de la déclaration doit être reconnue par les autorités compétentes de toutes les Parties contractantes subséquentes liées par les dispositions de ladite annexe tout au long du transport TIR.
+
+#### Art. 9
+
+**Données supplémentaires à fournir**
+
+<sup>1.</sup> Outre les données mentionnées dans les spécifications fonctionnelles et techniques, les autorités compétentes peuvent exiger des données supplémentaires conformément à la législation nationale.
+
+<sup>2.</sup> Les autorités compétentes devraient autant que possible limiter les exigences en matière de données à celles énoncées dans les spécifications fonctionnelles et techniques et s’efforcer de faciliter la communication des données supplémentaires de manière à ne pas entraver les transports TIR effectués conformément aux dispositions de la présente annexe.
+
+#### Art. 10
+
+**Procédure de secours**
+
+<sup>1.</sup> Lorsque, pour des raisons techniques, la procédure eTIR ne peut être engagée au bureau de douane de départ, le titulaire du carnet TIR peut revenir au régime TIR.
+
+<sup>2.</sup> Lorsque la poursuite de la procédure eTIR engagée est entravée pour des raisons techniques, les autorités compétentes doivent accepter le document d’accompagnement et le traiter conformément à la procédure décrite dans les spécifications eTIR, sous réserve de la disponibilité de renseignements supplémentaires provenant d’autres systèmes électroniques, comme énoncé dans les spécifications fonctionnelles et techniques.
+
+<sup>3.</sup> Les autorités compétentes des Parties contractantes sont également en droit de demander aux associations garantes nationales de confirmer que la garantie est valide et qu’un transport TIR est effectué conformément à la procédure eTIR, et de fournir d’autres renseignements concernant le transport TIR.
+
+<sup>4.</sup> La procédure décrite au par. 3 doit être établie dans l’accord conclu entre les autorités compétentes et l’association garante nationale, conformément à l’al. d) du par. 1 dans la première partie de l’annexe 9.
+
+#### Art. 11
+
+**Hébergement du système international eTIR**
+
+<sup>1.</sup> Le système international eTIR est hébergé et administré sous les auspices de la Commission économique des Nations Unies pour l’Europe (CEE-ONU).
+
+2 La CEE-ONU aide les pays à connecter leurs systèmes douaniers au système international eTIR, y compris au moyen de tests de conformité visant à garantir leur fonctionnement correct avant la connexion opérationnelle.
+
+<sup>3.</sup> Les ressources nécessaires sont mises à la disposition de la CEE-ONU de sorte que celle-ci soit à même de s’acquitter des obligations qui découlent des dispositions des paragraphes 1 et 2 du présent article. À moins que le système international eTIR ne soit financé au moyen de ressources issues du budget ordinaire de l’Organisation des Nations Unies, les ressources nécessaires sont régies par les dispositions du Règlement financier et des règles de gestion financière de l’ONU concernant les fonds et projets extrabudgétaires. Le mécanisme de financement du système international eTIR, qui relève de la CEE-ONU, est défini et approuvé par le Comité de gestion.
+
+#### Art. 12
+
+**Administration du système international eTIR**
+
+<sup>1.</sup> La CEE-ONU prend les dispositions appropriées pour assurer le stockage et l’archivage des données dans le système international eTIR pendant une période minimale de 10 ans.
+
+<sup>2.</sup> Toutes les données conservées dans le système international eTIR peuvent être utilisées par la CEE-ONU au nom des organes compétents de la présente Convention dans le but d’en tirer des statistiques agrégées.
+
+<sup>3.</sup> Les autorités compétentes des Parties contractantes sur le territoire desquelles un transport TIR effectué sous la procédure eTIR fait l’objet d’une procédure administrative ou judiciaire concernant l’obligation de paiement incombant à la ou aux personnes directement responsables ou à l’association garante nationale peuvent demander à la CEE-ONU de fournir des renseignements relatifs au différend conservés dans le système international eTIR, à des fins de vérification. Ces renseignements peuvent être présentés en tant qu’éléments de preuve dans une procédure administrative ou judiciaire nationale.
+
+<sup>4.</sup> Dans les cas autres que ceux visés dans le présent article, la diffusion ou la communication à des personnes ou entités non autorisées de renseignements conservés dans le système international eTIR est interdite.
+
+#### Art. 13
+
+**Publication de la liste des bureaux de douane capables d’utiliser le système eTIR**
+
+Les autorités compétentes doivent veiller à ce que la liste des bureaux de douane de départ, des bureaux de douane en route et des bureaux de douane de destination autorisés à réaliser les opérations TIR dans le cadre de la procédure eTIR soit à tout moment exacte et actualisée dans la base de données électronique des bureaux de douane autorisés qui est créée et gérée par la Commission de contrôle TIR.
+
+#### Art. 14
+
+**Prescriptions juridiques relatives à la communication des données au titre de l’annexe 10 de la Convention TIR**
+
+Les prescriptions juridiques relatives à la communication des données qui sont énoncées dans les par. 1, 3 et 4 de l’annexe 10 de la présente Convention sont réputées satisfaites si la procédure eTIR est appliquée.
+
 Appendice
 
 ## Formule type de réconciliation
 
-A compléter par le demandeur de la réconciliation
+À compléter par le demandeur de la réconciliation
 
 <table>
 <tr><td colspan="8">Destination:</td></tr>
@@ -2117,10 +2297,10 @@ Réponse du bureau de douane de destination
 <tr><td>\*</td><td colspan="8">Veuillez noter que ces données se réfèrent au **bureau de douane de destination** où l’opération TIR s’est terminée.»</td></tr>
 </table>
 
-Champ d’application le 8 janvier 2019**[^t-9]**
+Champ d’application le 8 janvier 2019**[^t-10]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan\*</td><td>23 septembre</td><td>1982 A</td><td>23 mars</td><td>1983</td></tr>
 <tr><td>Albanie\*</td><td>4 janvier</td><td>1985 A</td><td>4 juillet</td><td>1985</td></tr>
 <tr><td>Algérie\*</td><td>28 février</td><td>1989 A</td><td>28 août</td><td>1989</td></tr>
@@ -2141,11 +2321,11 @@ Champ d’application le 8 janvier 2019**[^t-9]**
 <tr><td>Corée (Sud)</td><td>29 janvier</td><td>1982 A</td><td>29 juillet</td><td>1982</td></tr>
 <tr><td>Croatie</td><td>3 août</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Danemark\* \*\*</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
-<tr><td>Iles Féroé</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
-<tr><td>Emirats arabes unis</td><td>20 avril</td><td>2007 A</td><td>20 octobre</td><td>2007</td></tr>
+<tr><td>Îles Féroé</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
+<tr><td>Émirats arabes unis</td><td>20 avril</td><td>2007 A</td><td>20 octobre</td><td>2007</td></tr>
 <tr><td>Espagne</td><td>11 août</td><td>1982 A</td><td>11 février</td><td>1983</td></tr>
 <tr><td>Estonie</td><td>21 septembre</td><td>1992 A</td><td>21 mars</td><td>1993</td></tr>
-<tr><td>Etats-Unis\*</td><td>18 septembre</td><td>1981 A</td><td>18 mars</td><td>1982</td></tr>
+<tr><td>États-Unis\*</td><td>18 septembre</td><td>1981 A</td><td>18 mars</td><td>1982</td></tr>
 <tr><td>Finlande</td><td>27 février</td><td>1978</td><td>27 août</td><td>1978</td></tr>
 <tr><td>France\*\*</td><td>30 décembre</td><td>1976 Si</td><td>20 mars</td><td>1978</td></tr>
 <tr><td>Géorgie</td><td>24 mars</td><td>1994 A</td><td>24 septembre</td><td>1994</td></tr>
@@ -2190,14 +2370,14 @@ Champ d’application le 8 janvier 2019**[^t-9]**
 <tr><td>Royaume-Uni\*</td><td>8 octobre</td><td>1982</td><td>8 avril</td><td>1983</td></tr>
 <tr><td>Gibraltar</td><td>8 octobre</td><td>1982</td><td>8 avril</td><td>1983</td></tr>
 <tr><td>Guernesey</td><td>8 octobre</td><td>1982</td><td>8 avril</td><td>1983</td></tr>
-<tr><td>Ile de Man</td><td>8 octobre</td><td>1982</td><td>8 avril</td><td>1983</td></tr>
+<tr><td>Île de Man</td><td>8 octobre</td><td>1982</td><td>8 avril</td><td>1983</td></tr>
 <tr><td>Jersey</td><td>8 octobre</td><td>1982</td><td>8 avril</td><td>1983</td></tr>
 <tr><td>Russie\*</td><td>8 juin</td><td>1982 A</td><td>8 décembre</td><td>1982</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Slovaquie\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Suède</td><td>17 décembre</td><td>1976 Si</td><td>20 mars</td><td>1978</td></tr>
-<tr><td>Suisse</td><td>3 février</td><td>1978</td><td>3 août</td><td>1978</td></tr>
+<tr><td>Suisse\*</td><td>3 février</td><td>1978</td><td>3 août</td><td>1978</td></tr>
 <tr><td>Syrie\*</td><td>11 janvier</td><td>1999 A</td><td>11 juillet</td><td>1999</td></tr>
 <tr><td>Tadjikistan</td><td>11 septembre</td><td>1996 A</td><td>11 mars</td><td>1997</td></tr>
 <tr><td>Tunisie</td><td>13 octobre</td><td>1977</td><td>13 avril</td><td>1978</td></tr>
@@ -2206,8 +2386,14 @@ Champ d’application le 8 janvier 2019**[^t-9]**
 <tr><td>Union européenne (CE/UE/CEE)\*\*</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
 <tr><td>Ukraine</td><td>11 octobre</td><td>1994 S</td><td>12 septembre</td><td>1991</td></tr>
 <tr><td>Uruguay</td><td>24 décembre</td><td>1980 A</td><td>24 juin</td><td>1981</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas à Hong Kong et Macao.</td></tr>
 </table>
 
-[^t-9]: [RO 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281), [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258), [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716), [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434), [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445), [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246), [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570)[875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875), [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867), [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025), [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605), **1994** 1162, [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133), [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120), [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139), [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140)et **2019** 377. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-10]: [RO 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281), [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258), [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716), [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434), [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445), [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246), [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570)[875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875), [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867), [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025), [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605), **1994** 1162, [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133), [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120), [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139), [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140)et **2019** 377. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+
+Déclaration
+
+**Suisse**
+
+Conformément à l’art. 60*a* paragraphe 1 de la Convention TIR, la Suisse déclare qu’elle n’accepte pas, pour le moment, l’Annexe 11.

@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Convenzione doganale del 14 novembre 1975 concernente il trasporto internazionale di merci con libretti TIR (Convenzione TIR) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: it
-version: 2019-02-03
+version: 2021-05-25
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20190203-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210525-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,7 +28,7 @@ Istrumento di ratificazione depositato dalla Svizzera il 3 febbraio 1978
 
 Entrata in vigore per la Svizzera il 3 agosto 1978
 
-(Stato 3 febbraio 2019)
+(Stato 25 maggio 2021)
 
 [^t-1]: [RU 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -77,7 +77,8 @@ Secondo la presente Convenzione, sono considerati:
 - o)[^1-14] «titolare» di un libretto TIR, la persona a cui è stato rilasciato un libretto TIR conformemente alle pertinenti disposizioni della Convenzione e in nome della quale è stata fatta una dichiarazione doganale sotto forma di un libretto TIR indicante la volontà di assoggettare merci al regime TIR all’ufficio doganale di partenza. Il titolare è responsabile della presentazione del veicolo stradale, dell’autotreno o del contenitore, con il carico e il libretto TIR relativi, all’ufficio doganale di partenza, all’ufficio doganale di passaggio e all’ufficio doganale di destinazione, nel debito rispetto delle pertinenti disposizioni della Convenzione;
 - p)[^1-15] «merci ponderose o voluminose», tutte le merci ponderose o voluminose che a cagione del loro peso, delle loro dimensioni o della loro natura non sono di solito trasportate nè in un veicolo stradale chiuso, nè in un contenitore chiuso;
 - q)[^1-16] «associazione garante», un’associazione autorizzata[^1-17] dalle autorità doganali o da altre autorità competenti[^1-18] di una Parte contraente come garante delle persone che usufruiscono del regime TIR;
-- r)[^1-19] «organizzazione internazionale» un’organizzazione autorizzata dal Comitato di gestione ad assumere la responsabilità dell’organizzazione e del funzionamento efficaci di un sistema internazionale di garanzia.
+- r)[^1-19] «organizzazione internazionale» un’organizzazione autorizzata dal Comitato di gestione ad assumere la responsabilità dell’organizzazione e del funzionamento efficaci di un sistema internazionale di garanzia;
+- s)[^1-20] «regime eTIR», il regime TIR attuato mediante uno scambio elettronico di dati che costituisce l’equivalente funzionale del libretto TIR. Nella misura in cui si applicano le disposizioni della Convenzione TIR, le specifiche del regime eTIR sono definite nell’Allegato 11.
 
 [^1-1]: Nuovo testo giusta la mod. approvata dal CF l’8 mar. 2002, in vigore dal 12 mag. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
 [^1-2]: Introdotta dalla mod. approvata dal CF l’8 mar. 2002, in vigore dal 12 mag. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
@@ -98,6 +99,7 @@ Secondo la presente Convenzione, sono considerati:
 [^1-17]: Nuovo termine giusta la mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
 [^1-18]: Nuovo termine giusta la mod. del 12 ott. 2017, in vigore per la Svizzera dal 3 feb. 2019 ([RU 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
 [^1-19]: Introdotta dalla mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
+[^1-20]: Introdotta dalla mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### b) Campo d’applicazione
 
@@ -105,7 +107,7 @@ Secondo la presente Convenzione, sono considerati:
 
 La presente Convenzione concerne i trasporti di merci, senza trasbordo, attraverso una o parecchie frontiere, eseguiti da un ufficio doganale di partenza d’una Parte contraente ad un ufficio doganale di destinazione di un’altra Parte contraente, o della medesima Parte contraente, con veicoli stradali, autotreni o contenitori, a condizione che una parte del tragitto tra l’inizio e la fine del trasporto TIR[^2-1] sia effettuato su strada.
 
-[^2-1]: Nuova espressione giusta la mod. approvata dal CF l’8 mar. 2002, in vigore dal 12 mag. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Nuova espr. giusta la mod. approvata dal CF l’8 mar. 2002, in vigore dal 12 mag. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -121,10 +123,10 @@ Per applicare le disposizioni della presente Convenzione:
   - ii) con altri veicoli stradali, autotreni o contenitori, sempreché siano adempiute le condizioni menzionate al capo III c);
   - iii) con veicoli stradali o veicoli speciali come torpedoni, gru, spazzatrici, betoniere ecc., esportati e dunque equiparati a merci che si spostano con i propri mezzi da un ufficio doganale di partenza a un ufficio doganale di destinazione a tenore delle condizioni menzionate nel capo III c). Quando questi veicoli trasportano altre merci, si applicano di conseguenza le condizioni di cui nei commi i) o ii) qui sopra.
 
-- b) i trasporti devono essere garantiti da associazioni ammesse[^3-2] conformemente all’articolo 6 ed essere effettuati sulla scorta di un libretto TIR conforme al modello riprodotto nell’allegato 1 della presente Convenzione.
+- b)[^3-2] i trasporti devono essere garantiti da associazioni abilitate conformemente all’articolo 6 ed essere effettuati sulla scorta di un libretto TIR conforme al modello riprodotto nell’allegato 1 della presente convenzione o essere effettuati nell’ambito del regime eTIR.
 
 [^3-1]: Nuovo testo giusta la mod. approvata dal CF l’8 mar. 2002, in vigore dal 12 mag. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
-[^3-2]: Nuova espressione giusta la mod. del 12 ott. 2017, in vigore per la Svizzera dal 3 feb. 2019 ([RU 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
+[^3-2]: Nuovo testo giusta la mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### c) Principi
 
@@ -157,7 +159,7 @@ Presso gli uffici doganali di passaggio, le merci trasportate nel regime TIR non
 <sup>5.</sup> L’accesso al regime TIR è accordato in virtù delle procedure definite nella seconda parte dell’allegato 9 alla presente Convenzione.[^6-6]
 
 [^6-1]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
-[^6-2]: Nuova espressione giusta la mod. del 12 ott. 2017, in vigore per la Svizzera dal 3 feb. 2019 ([RU 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
+[^6-2]: Nuova espr. giusta la mod. del 12 ott. 2017, in vigore per la Svizzera dal 3 feb. 2019 ([RU 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
 [^6-3]: Introdotto dalla mod. approvata dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)). Nuovo testo giusta la mod. approvata dal CF il 26 giu. 2013 ed in vigore dal 10 ott. 2013 ([RU 2013 2787](https://fedlex.data.admin.ch/eli/oc/2013/573)).
 [^6-4]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 [^6-5]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
@@ -202,7 +204,7 @@ I moduli di libretti TIR, inviati alle associazioni garanti da associazioni este
 <sup>2.</sup> Se hanno appurato un’operazione TIR, le autorità doganali di una Parte contraente[^10-2] non possono più esigere dall’associazione garante il pagamento dei tributi menzionati all’articolo 8 paragrafi 1 e 2, tranne nel caso in cui l’attestazione della fine dell’operazione TIR sia stata ottenuta abusivamente o fraudolentemente o non vi sia stata la fine dell’operazione.
 
 [^10-1]: Nuovo testo giusta la mod. approvata dal CF l’8 mar. 2002, in vigore dal 12 mag. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
-[^10-2]: Nuova espressione giusta la mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
+[^10-2]: Nuova espr. giusta la mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
 
 #### Art. 11
 
@@ -223,7 +225,7 @@ In caso di non appuramento di un’operazione TIR, le autorità competenti posso
 
 [^11-1]: Nuovo testo giusta la mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
 [^11-2]: Introdotto dalla mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
-[^11-3]: Nuova espressione giusta la mod. del 12 ott. 2017, in vigore per la Svizzera dal 3 feb. 2019 ([RU 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
+[^11-3]: Nuova espr. giusta la mod. del 12 ott. 2017, in vigore per la Svizzera dal 3 feb. 2019 ([RU 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
 [^11-4]: Originario par. 2. Nuovo testo giusta la mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
 [^11-5]: Originario par. 3. Nuovo testo giusta la mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
 [^11-6]: Introdotto dalla mod. approvata dal CF l’8 giu. 2012, in vigore dal 13 set. 2012 ([RU 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
@@ -432,7 +434,11 @@ Le autorità competenti, in stretta collaborazione con le associazioni, adottano
 
 #### Art. 43
 
-Le note esplicate degli Allegati 6 e 7 (Parte III) contengono l’interpretazione di certe disposizioni della presente Convenzione e dei suoi Allegati. Esse menzionano parimenti certe pratiche raccomandate.
+[^43-1]
+
+Le note esplicative dell’Allegato 6, dell’Allegato 7, Parte III, e dell’Allegato 11, Parte II, contengono l’interpretazione di certe disposizioni della presente Convenzione e dei suoi Allegati. Esse menzionano parimenti certe pratiche raccomandate.
+
+[^43-1]: Nuovo testo giusta la mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ## Capo VI Disposizioni diverse
 
@@ -577,17 +583,17 @@ Il Comitato di gestione istituisce una Commissione di controllo TIR che fungerà
 
 #### Art. 59
 
-**Procedura d’emendamento della presente Convenzione**
+**Procedura d’emendamento della presente Convenzione**[^59-1]
 
 <sup>1.</sup> La presente Convenzione, compresi i suoi Allegati, potrà essere modificata su proposta di una Parte contraente, conformemente alla procedura prevista nel presente articolo.
 
-<sup>2.</sup> Ogni proposta di emendamento della presente Convenzione sarà esaminata dal Comitato di gestione composto di tutte le Parti contraenti, conformemente al Regolamento interno oggetto dell’Allegato 8[^59-1]. Ogni emendamento di detto genere, esaminato o elaborato durante la riunione del Comitato di gestione e adottato dal Comitato alla maggioranza dei due terzi dei suoi membri presenti e votanti, sarà comunicato dal Segretario generale dell’Organizzazione delle Nazioni Unite alle Parti contraenti, per l’accettazione.
+<sup>2.</sup> Con riserva delle disposizioni dell’articolo 60*a*, ogni proposta di emendamento della presente Convenzione sarà esaminata dal Comitato di gestione composto di tutte le Parti contraenti, conformemente al Regolamento interno oggetto dell’Allegato 8. Ogni emendamento di detto genere, esaminato o elaborato durante la riunione del Comitato di gestione e adottato dal Comitato alla maggioranza dei due terzi dei suoi membri presenti e votanti, sarà comunicato dal Segretario generale dell’Organizzazione delle Nazione Unite alle Parti contraenti, per l’accettazione.
 
-<sup>3.</sup> Verso riserva delle disposizioni dell’articolo 60, ogni emendamento proposto, comunicato in applicazione delle disposizioni del paragrafo che precede, entrerà in vigore per tutte le Parti contraenti tre mesi dopo la scadenza d’un periodo di dodici mesi, a contare dalla data alla quale è stato comunicato, sempreché durante tale periodo nessuna obiezione all’emendamento proposto sia stata notificata al Segretario generale dell’Organizzazione delle Nazioni Unite da uno Stato che è Parte contraente.
+<sup>3.</sup> Con riserva delle disposizioni degli articoli 60 e 60*a*, ogni emendamento proposto, comunicato in applicazione delle disposizioni del paragrafo che precede, entra in vigore per tutte le Parti contraenti tre mesi dopo la scadenza d’un periodo di dodici mesi, a contare dalla data alla quale è stato comunicato, sempreché durante tale periodo nessuna obiezione all’emendamento proposto sia stata notificata al Segretario generale dell’Organizzazione delle Nazioni Unite da uno Stato che è Parte contraente.
 
-<sup>4.</sup> Se un’obiezione all’emendamento proposto è stata notificata conformemente alle disposizioni del paragrafo 3 del presente articolo, l’emendamento sarà reputato non accettato e non avrà alcun effetto.
+<sup>4.</sup> Se un’obiezione all’emendamento proposto è stata notificata conformemente alle disposizioni del paragrafo 3 del presente articolo, l’emendamento è reputato non accettato e non avrà alcun effetto.
 
-[^59-1]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
+[^59-1]: Nuovo testo giusta la mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 #### Art. 60
 
@@ -601,11 +607,31 @@ Il Comitato di gestione istituisce una Commissione di controllo TIR che fungerà
 [^60-2]: Nuovo testo di parte del per. giusta la mod. approvata dal CF il 3 mag. 2006, in vigore dal 12 ago. 2006 ([RU 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
 [^60-3]: Nuovo testo giusta la mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 in vigore dal 17 feb. 1999 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293).
 
+#### Art. 60a
+
+**Procedura speciale per l’entrata in vigore dell’Allegato 11 e dei relativi emendamenti**[^60a-1]
+
+<sup>1.</sup> L’Allegato 11, esaminato conformemente all’articolo 59, paragrafi 1 e 2, entra in vigore per tutte le Parti contraenti tre mesi dopo la scadenza di un periodo di dodici mesi a contare dalla data alla quale è stato comunicato dal Segretario generale dell’Organizzazione delle Nazioni Unite alle Parti contraenti, ad eccezione delle Parti contraenti che hanno notificato per iscritto al Segretario generale, entro il suddetto termine di tre mesi, la loro non accettazione dell’Allegato 11. L’Allegato 11 entra in vigore per le Parti contraenti che ritirano la loro notifica di non accettazione sei mesi dopo la data in cui il depositario ha ricevuto comunicazione del ritiro di tale notifica.
+
+<sup>2.</sup> Qualsiasi proposta di emendamento dell’Allegato 11 è esaminata dal Comitato di gestione. Tali emendamenti sono adottati a maggioranza delle Parti contraenti vincolate dall’Allegato 11 presenti e votanti.
+
+<sup>3.</sup> Gli emendamenti all’Allegato 11, esaminati e adottati conformemente al paragrafo 2 del presente articolo, sono comunicati dal Segretario generale dell’Organizzazione delle Nazioni Unite a tutte le Parti contraenti a titolo informativo o, per le Parti contraenti vincolate dall’Allegato 11, per accettazione.
+
+<sup>4.</sup> La data di entrata in vigore di tali emendamenti è fissata, al momento della loro adozione, dalla maggioranza delle Parti contraenti vincolate dall’Allegato 11 presenti e votanti.
+
+<sup>5.</sup> Gli emendamenti entrano in vigore conformemente al paragrafo 4 del presente articolo, a meno che entro una data anteriore fissata al momento dell’adozione, un quinto degli Stati che sono Parti contraenti vincolate dall’Allegato 11 o cinque di essi, qualora detto numero sia inferiore, avranno notificato al Segretario generale dell’Organizzazione delle Nazioni Unite che essi sollevano obiezioni contro gli emendamenti.
+
+<sup>6.</sup> All’atto della sua entrata in vigore, un emendamento adottato conformemente alle procedure previste ai paragrafi da 2 a 5 del presente articolo annulla e sostituisce, per tutte le Parti contraenti vincolate dall’Allegato 11, qualsiasi disposizione anteriore cui esso si riferisce.
+
+[^60a-1]: Introdotto dalla mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
+
 #### Art. 61
 
-**Domande, comunicazioni e obiezioni**
+**Domande, comunicazioni e obiezioni**[^61-1]
 
-Il Segretario generale dell’Organizzazione delle Nazioni Unite notificherà a tutte le Parti contraenti e a tutti gli Stati menzionati al paragrafo 1 dell’articolo 52 della presente Convenzione ogni domanda, comunicazione o obiezione presentata in virtù dei succitati articoli 59 e 60, nonché la data dell’entrata in vigore di un emendamento.
+Il Segretario generale dell’Organizzazione delle Nazioni Unite notificherà a tutte le Parti contraenti e a tutti gli Stati menzionati al paragrafo 1 dell’articolo 52 della presente Convenzione ogni domanda, comunicazione o obiezione presentata in virtù dei succitati articoli 59, 60 e 60*a*, nonché la data dell’entrata in vigore di un emendamento.
+
+[^61-1]: Nuovo testo giusta la mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 #### Art. 62
 
@@ -794,43 +820,43 @@ Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image1.png)
 
 Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image2.png)
 
 Illustrazione n. 2a)
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image3.png)
 
 Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image4.png)
 
 Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image5.png)
 
 Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image6.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image7.png)
 
 Il tetto scorrevole telonato è conforme ai requisiti di cui alle lettere a–c seguenti:
 
@@ -846,7 +872,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image8.png)
 
 ### Descrizione
 
@@ -856,7 +882,7 @@ Illustrazione n. 8
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image9.png)
 
 ### Descrizione
 
@@ -866,19 +892,19 @@ Illustrazione n. 9
 
 Esempio della struttura di un veicolo dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image12.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image15.png)
 
 Allegato 3
 
@@ -1095,7 +1121,7 @@ Illustrazione n. 1
 
 Esempio di cerniera e di dispositivo di chiusura doganale per le parte di veicoli provvisti di compartimenti di carico calorifughi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image16.png)
 
 Illustrazione n. 1a
 
@@ -1103,19 +1129,19 @@ Esempio di una cerniera che non ha bisogno di una protezione particolare del per
 
 La cerniera qui riprodotta è conforme alle prescrizioni della seconda frase del paragrafo b) della nota 2.2.1 b). La struttura della piastra e del ponticello rende superflua ogni particolare protezione del perno, dato che i becchetti della piastra risalgono fin dietro le estremità del ponticello. Questi becchetti impediscono che la porta provvista di chiusura doganale possa essere aperta al livello del dispositivo d’arresto senza lasciare tracce visibili anche se il perno non protetto è stato smontato.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image17.png)
 
 Illustrazione n. 2
 
 Veicolo provvisti di copertoni ad anelli scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image18.png)
 
 Illustrazione n. 2a
 
 Esempio di anello di fissazione girevole (modello «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image19.png)
 
 Illustrazione n. 3
 
@@ -1123,7 +1149,7 @@ Esempio di dispositivo di fissazione d’un copertone di veicolo
 
 Il dispositivo riprodotto qui appresso corrisponde alle prescrizioni dell’ultimo capoverso del paragrafo 11a) dell’articolo 3 dell’allegato 2. Esso è pure conforme alle prescrizioni del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image20.png)
 
 Illustrazione n. 4
 
@@ -1131,13 +1157,13 @@ Dispositivo di fissazione d’un copertone
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni della lettera a) del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image21.png)
 
 Illustrazione 5
 
 Esempio di dispositivo di fissazione introdotto dall’interno della porta isolata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image22.png)
 
 Allegato 7*[^t-5]*
 
@@ -1283,13 +1309,13 @@ Parte I – Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image23.png)
 
 Parte I – Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image24.png)
 
 *Nota*: Le cuciture d’angolo effettuate secondo il metodo esposto nell’illustrazione n. 2a dell’allegato 2 alla presente Convenzione sono pure ammesse.
 
@@ -1297,25 +1323,25 @@ Parte I – Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image25.png)
 
 Parte I – Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image26.png)
 
 Parte I – Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image27.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image28.png)
 
 Il tetto scorrevole telonato deve essere conforme ai requisiti di cui alle lettera a)–c) seguenti:
 
@@ -1331,7 +1357,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image29.png)
 
 ### Descrizione
 
@@ -1341,7 +1367,7 @@ Illustrazione n. 8
 
 Copertone con l’apertura per il caricamento e lo scaricamento
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image30.png)
 
 ### Descrizione
 
@@ -1351,17 +1377,17 @@ Illustrazione n. 9
 
 Esempio della struttura di un contenitore dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image32.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image33.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image34.png)
 
 ### Parte II Procedure per l’ammissione dei contenitori che adempiono le condizioni tecniche della parte I
 
@@ -1429,7 +1455,7 @@ Modello n. I
 
 (testo inglese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image35.png)
 
 Appendice 1 della parte II
 
@@ -1439,7 +1465,7 @@ Modello n. I
 
 (testo francese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image36.png)
 
 Appendice 2 della parte II
 
@@ -1512,8 +1538,8 @@ Avviso importante
 <tr><td>7.</td><td colspan="3">La modificazione delle caratteristiche essenziali di un contenitore annulla la validità del certificato rilasciato; prima di poterlo utilizzare per il trasporto di merci sotto chiusura doganale, il contenitore dovrà essere nuovamente ammesso dall’autorità competente.</td></tr>
 </table>
 
-[^annexu1-lvlu1-partII-1]: Iscrivere qui le lettere e le cifre che dovranno essere apposte sulla targa d’ammissione (v. lettera b) del paragrafo 5 della Parte II dell’allegato 7 alla Convenzione doganale concernente il trasporto internazionale di merci con libretti TIR, 1975).
-[^annexu1-lvlu1-partII-2]: Iscrivere qui le lettere e le cifre che dovranno essere apposte sulla targa d’ammissione (v. lettera b) del paragrafo 5 della Parte II dell’allegato 7 alla Convenzione doganale concernente il trasporto internazionale di merci con libretti **TIR**, 1975).
+[^annexu1-lvlu1-partII-1]: Iscrivere qui le lettere e le cifre che dovranno essere apposte sulla targa d’ammissione (v. lettera b) del para. 5 della Parte II dell’all. 7 alla Convenzione doganale concernente il trasporto internazionale di merci con libretti TIR, 1975).
+[^annexu1-lvlu1-partII-2]: Iscrivere qui le lettere e le cifre che dovranno essere apposte sulla targa d’ammissione (v. lettera b) del par. 5 della Parte II dell’all. 7 alla Convenzione doganale concernente il trasporto internazionale di merci con libretti **TIR**, 1975).
 
 ### Parte III Note esplicative
 
@@ -1529,7 +1555,7 @@ Dispositivo per fissare il copertone attorno ai montanti d’angolo
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni delle lettera a) del paragrafo 6 dell’articolo 4 della Parte I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/it/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image37.png)
 
 Allegato 8*[^t-6]*
 
@@ -1635,7 +1661,7 @@ Allegato 9*[^t-7]*
 
 ## Accesso al regime TIR
 
-[^t-7]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293). Aggiornato dalla mod. in vigore per la Svizzera dal 1° apr. 2006 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalla mod. in vigore per la Svizzera dal 10 ott. 2013 ([RU 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)) e dalla mod. del 30 mar. 2018, in vigore per la Svizzera il 1° lug. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-7]: Introdotto dalla mod. del 27 giu. 1997, approvata dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293). Aggiornato dalla mod. in vigore per la Svizzera dal 1° apr. 2006 ([RU 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalla mod. in vigore per la Svizzera dal 10 ott. 2013 ([RU 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) e dalla mod. del 6 feb. 2020, in vigore per la Svizzera dal 25 mag. 2021 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### Parte prima Autorizzazione delle associazioni a rilasciare i libretti TIR e ad agire come garanti
 
@@ -1662,7 +1688,8 @@ Allegato 9*[^t-7]*
 - vii) consentire alle autorità competenti di controllare tutti i registri e la contabilità relativi all’amministrazione del regime TIR;
 - viii) accettare una procedura per l’efficiente soluzione delle controversie derivanti dall’uso improprio o fraudolento dei libretti TIR, se possibile senza adire i tribunali;
 - ix) conformarsi strettamente alle decisioni delle autorità competenti della Parte contraente sul territorio in cui essa è stabilita riguardo alla revoca dell’autorizzazione o all’esclusione di persone nel rispetto degli articoli 6 e 38 della Convenzione e della seconda parte del presente allegato;
-- x) acconsentire all’attuazione fedele di tutte le decisioni adottate dal Comitato di gestione e dalla Commissione di controllo TIR, nella misura in cui dette decisioni sono state accettate dalle competenti autorità della Parte contraente sul cui territorio l’associazione è stabilita.
+- x) acconsentire all’attuazione fedele di tutte le decisioni adottate dal Comitato di gestione e dalla Commissione di controllo TIR, nella misura in cui dette decisioni sono state accettate dalle competenti autorità della Parte contraente sul cui territorio l’associazione è stabilita;
+- xi) confermare, in caso di procedura di riserva di cui all’Allegato 11 articolo 10 paragrafo 2, per le Parti contraenti vincolate dall’Allegato 11, su richiesta delle autorità competenti, che la garanzia è valida e che un trasporto TIR è effettuato nell’ambito del regime eTIR e fornire altre informazioni pertinenti per il trasporto TIR.
 
 \4. Quando, conformemente alle procedure indicate all’articolo 11, un’associazione garante è invitata a pagare le somme di cui all’articolo 8 paragrafi 1 e 2, essa informa l’organizzazione internazionale del ricevimento di tale richiesta conformemente all’accordo scritto menzionato nella nota esplicativa 0.6.2<sup>bis-1</sup> relativa all’articolo 6 paragrafo 2<sup>bis</sup>.
 
@@ -1796,6 +1823,149 @@ In nome delle associazioni membro e al fine di assumersi le proprie responsabili
 - 3) Per tutelare gli scambi dei summenzionati dati, le autorità doganali e le associazioni garanti nazionali concludono un accordo conforme alla loro legislazione nazionale.
 - 4) Un’organizzazione internazionale fornisce alle autorità doganali l’accesso alla banca dati rispettivamente dei libretti TIR terminati nonché di quelli invalidati.
 
+Allegato 11*[^t-9]*
+
+## Il regime eTIR
+
+[^t-9]: Introdotta dalla mod del 6 feb. 2020 ([RU 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)). In conformità all’art. 60*a* para. 1, la Svizzera dichiara di non accettare, per il momento, l’all. 11.
+
+### Parte prima
+
+**Art. 1** Campo d’applicazione
+
+\1. Le disposizioni del presente Allegato disciplinano l’attuazione del regime eTIR quale definito all’articolo 1 lettera s) della Convenzione e si applicano nelle relazioni tra le Parti contraenti vincolate dal presente Allegato, come previsto all’articolo 60*a* paragrafo 1.
+
+\2. Il regime eTIR non può essere utilizzato per i trasporti effettuati in parte nel territorio di una Parte contraente che non è vincolata dall’Allegato 11 e che è uno Stato membro di un’unione doganale o economica con un unico territorio doganale.
+
+#### Art. 2
+
+**Definizioni**
+
+Ai fini del presente allegato si intende per:
+
+- a) «sistema internazionale eTIR»: il sistema delle tecnologie dell’informazione e della comunicazione (TIC) concepito per consentire lo scambio elettronico di informazioni tra gli attori partecipanti al regime eTIR;
+- b) «specifiche eTIR»: le specifiche concettuali, funzionali e tecniche del regime eTIR adottate e modificate conformemente alle disposizioni dell’articolo 5 del presente Allegato;
+- c) «dati TIR anticipati»: i dati comunicati alle autorità competenti del Paese di partenza, conformemente alle specifiche eTIR, che indicano l’intenzione del titolare di assoggettare le merci al regime eTIR;
+- d) «dati di modifica anticipati»: i dati comunicati alle autorità competenti del Paese in cui è chiesta una modifica dei dati della dichiarazione, conformemente alle specifiche eTIR, che indicano l’intenzione del titolare di modificare i dati della dichiarazione;
+- e) «dati della dichiarazione»: i dati TIR anticipati e i dati di modifica anticipati accettati dalle autorità competenti;
+- f) «dichiarazione»: l’atto con cui il titolare, o il suo rappresentante, indica, conformemente alle specifiche eTIR, l’intenzione di assoggettare le merci al regime eTIR. Dal momento in cui la dichiarazione è accettata dalle autorità competenti, sulla base dei dati TIR anticipati o dei dati di modifica anticipati, e i dati della dichiarazione sono trasferiti al sistema internazionale eTIR, essa costituisce l’equivalente giuridico di un libretto TIR accettato;
+- g) «documento di accompagnamento»: il documento stampato generato elettronicamente dal sistema doganale, dopo l’accettazione della dichiarazione, in linea con gli orientamenti contenuti nelle specifiche tecniche eTIR. Il documento di accompagnamento può essere utilizzato per registrare eventi verificatisi nel corso del trasporto e sostituisce il processo verbale di accertamento a norma dell’articolo 25 della presente Convenzione e per la procedura di riserva;
+- h) «autenticazione»: un processo elettronico che consente di confermare l’identificazione elettronica di una persona fisica o giuridica oppure l’origine e l’integrità di dati in formato elettronico.
+
+#### Art. 3
+
+**Attuazione del regime eTIR**
+
+<sup>1.</sup> Le Parti contraenti vincolate dall’Allegato 11 collegano i propri sistemi doganali al sistema internazionale eTIR in conformità alle specifiche eTIR.
+
+<sup>2.</sup> Ciascuna Parte contraente è libera di stabilire entro quale data collegare i propri sistemi doganali al sistema internazionale eTIR. La data del collegamento è comunicata a tutte le altre Parti contraenti vincolate dall’Allegato 11 almeno sei mesi prima della data effettiva del collegamento.
+
+#### Art. 4
+
+**Composizione, funzioni e regolamento interno dell’Organo di attuazione tecnica**
+
+<sup>1.</sup> Le Parti contraenti vincolate dall’Allegato 11 sono membri dell’Organo di attuazione tecnica. Le sedute di tale organo sono convocate periodicamente o su richiesta del Comitato di gestione, in funzione delle necessità di mantenimento delle specifiche eTIR. Il Comitato di gestione è regolarmente informato delle attività e delle considerazioni dell’Organo di attuazione tecnica.
+
+<sup>2.</sup> Le Parti contraenti che non hanno accettato l’Allegato 11 conformemente all’articolo 60*a* paragrafo 1 e i rappresentanti delle organizzazioni internazionali possono partecipare alle sedute dell’Organo di attuazione tecnica in qualità di osservatori.
+
+<sup>3.</sup> L’Organo di attuazione tecnica controlla gli aspetti tecnici e funzionali dell’attuazione del regime eTIR e coordina e promuove lo scambio di informazioni su questioni di sua competenza.
+
+<sup>4.</sup> Alla sua prima seduta l’Organo di attuazione tecnica adotta il proprio regolamento interno e lo presenta al Comitato di gestione per l’approvazione delle Parti contraenti vincolate dall’Allegato 11.
+
+#### Art. 5
+
+**Procedure di adozione ed emendamento delle specifiche eTIR**
+
+L’Organo di attuazione tecnica:
+
+- a) adotta le specifiche tecniche del regime eTIR e i relativi emendamenti per assicurarne la conformità con le specifiche funzionali del regime eTIR. All’atto dell’adozione decide in merito al periodo transitorio appropriato per la loro attuazione;
+- b) elabora le specifiche funzionali del regime eTIR e i relativi emendamenti per assicurarne la conformità con le specifiche concettuali del regime eTIR. Tali testi sono trasmessi al Comitato di gestione per adozione a maggioranza delle Parti contraenti vincolate dall’Allegato 11 presenti e votanti, nonché attuati e, se necessario, sviluppati in specifiche tecniche a una data da stabilire al momento dell’adozione;
+- c) esamina, su richiesta del Comitato di gestione, le modifiche da apportare alle specifiche concettuali del regime eTIR. Le specifiche concettuali del regime eTIR e i relativi emendamenti sono adottati a maggioranza delle Parti contraenti vincolate dall’Allegato 11 presenti e votanti, nonché attuati e, se necessario, sviluppati in specifiche funzionali a una data da stabilire al momento dell’adozione.
+
+#### Art. 6
+
+**Comunicazione dei dati TIR anticipati e dei dati di modifica anticipati**
+
+<sup>1.</sup> I dati TIR anticipati e i dati di modifica anticipati sono comunicati dal titolare, o dal suo rappresentante, alle autorità competenti del Paese di partenza e del Paese in cui è richiesta una modifica dei dati della dichiarazione. Una volta accettata la dichiarazione o la modifica in conformità della legislazione nazionale, le autorità competenti trasmettono i dati della dichiarazione o la relativa modifica al sistema internazionale eTIR.
+
+<sup>2.</sup> I dati TIR anticipati e i dati di modifica anticipati di cui al paragrafo 1 possono essere comunicati alle autorità competenti direttamente o tramite il sistema internazionale eTIR.
+
+<sup>3.</sup> Le Parti contraenti vincolate dall’Allegato 11 accettano la comunicazione dei dati TIR anticipati e dei dati di modifica anticipati tramite il sistema internazionale eTIR.
+
+<sup>4.</sup> Le autorità competenti pubblicano l’elenco di tutti i mezzi elettronici mediante i quali possono essere comunicati i dati TIR anticipati e i dati di modifica anticipati.
+
+#### Art. 7
+
+**Autenticazione del titolare**
+
+<sup>1.</sup> All’atto di accettare la dichiarazione nel Paese di partenza o una modifica dei dati della dichiarazione in uno dei Paesi situati lungo l’itinerario, le autorità competenti autenticano i dati TIR anticipati o i dati di modifica anticipati nonché il titolare, in conformità della legislazione nazionale.
+
+<sup>2.</sup> Le Parti contraenti vincolate dall’Allegato 11 accettano l’autenticazione del titolare effettuata dal sistema internazionale eTIR.
+
+<sup>3.</sup> Le autorità competenti pubblicano l’elenco dei meccanismi di autenticazione diversi da quelli specificati nel paragrafo 2 del presente articolo e che possono essere utilizzati per l’autenticazione.
+
+<sup>4.</sup> Le Parti contraenti vincolate dall’allegato 11 accettano i dati della dichiarazione ricevuti dalle autorità competenti del Paese di partenza e da quelle del Paese in cui è richiesta una modifica dei dati della dichiarazione tramite il sistema internazionale eTIR come l’equivalente giuridico di un libretto TIR accettato.
+
+#### Art. 8
+
+**Riconoscimento reciproco dell’autenticazione del titolare**
+
+L’autenticazione del titolare effettuata dalle autorità competenti delle Parti contraenti vincolate dall’Allegato 11 che accettano la dichiarazione o la modifica dei dati della dichiarazione è riconosciuta dalle autorità competenti di tutte le Parti contraenti successive vincolate dall’Allegato 11 nel corso di tutto il trasporto TIR.
+
+#### Art. 9
+
+**Requisiti aggiuntivi in materia di dati**
+
+<sup>1.</sup> Oltre ai dati indicati nelle specifiche funzionali e tecniche, le autorità competenti possono chiedere dati aggiuntivi stabiliti dalla legislazione nazionale.
+
+<sup>2.</sup> Le autorità competenti dovrebbero, per quanto possibile, limitare i requisiti in materia di dati a quelli contenuti nelle specifiche funzionali e tecniche e adoperarsi per facilitare la comunicazione dei dati aggiuntivi in modo da non ostacolare i trasporti TIR effettuati in conformità del presente Allegato.
+
+#### Art. 10
+
+**Procedura di riserva**
+
+<sup>1.</sup> Se per motivi tecnici non è possibile avviare il regime eTIR presso l’ufficio doganale di partenza, il titolare del libretto TIR può ricorrere al regime TIR.
+
+<sup>2.</sup> Se un regime eTIR è stato avviato, ma non può essere continuato per motivi tecnici, le autorità competenti accettano il documento di accompagnamento e lo trattano secondo la procedura descritta nelle specifiche eTIR, a condizione che siano disponibili informazioni aggiuntive provenienti da altri sistemi elettronici, come descritto nelle specifiche funzionali e tecniche.
+
+<sup>3.</sup> Le autorità competenti delle Parti contraenti hanno anche il diritto di chiedere alle associazioni garanti nazionali di confermare che la garanzia è valida e che il trasporto TIR è effettuato nell’ambito del regime eTIR, nonché di fornire altre informazioni pertinenti per il trasporto TIR.
+
+<sup>4.</sup> La procedura descritta al paragrafo 3 è definita di comune accordo fra le autorità competenti e l’associazione garante nazionale, come stabilito all’Allegato 9 parte prima paragrafo 1 lettera d.
+
+#### Art. 11
+
+**Hosting del sistema internazionale eTIR**
+
+<sup>1.</sup> Il sistema internazionale eTIR è ospitato e gestito sotto l’egida della Commissione economica per l’Europa delle Nazioni Unite (UNECE).
+
+<sup>2.</sup> L’UNECE aiuta i Paesi a collegare i rispettivi sistemi doganali al sistema internazionale eTIR, anche mediante prove di conformità volte a garantirne il corretto funzionamento prima del collegamento operativo.
+
+<sup>3.</sup> Le risorse necessarie sono messe a disposizione dell’UNECE per adempiere agli obblighi derivati dai paragrafi 1 e 2 del presente articolo. Salvo qualora il sistema internazionale eTIR sia finanziato con risorse provenienti dal bilancio ordinario dell’Organizzazione delle Nazioni Unite, le risorse necessarie sono soggette alle norme e ai regolamenti finanziari dell’Organizzazione delle Nazioni Unite applicabili ai fondi e ai progetti extra-bilancio. Il meccanismo di finanziamento relativo al funzionamento del sistema internazionale eTIR a livello dell’UNECE è deciso e approvato dal Comitato di gestione.
+
+#### Art. 12
+
+**Gestione del sistema internazionale eTIR**
+
+<sup>1.</sup> L’UNECE adotta le disposizioni opportune per la conservazione e l’archiviazione dei dati nel sistema internazionale eTIR per un periodo minimo di dieci anni.
+
+<sup>2.</sup> Tutti i dati conservati nel sistema internazionale eTIR possono essere utilizzati dall’UNECE per conto degli organi competenti della presente convenzione ai fini dell’estrazione di statistiche aggregate.
+
+<sup>3.</sup> Le autorità competenti delle Parti contraenti sul cui territorio è effettuato un trasporto TIR nell’ambito del regime eTIR che diviene oggetto di un procedimento amministrativo o giudiziario riguardante l’obbligo di pagamento della persona o delle persone direttamente responsabili o dell’associazione garante nazionale possono chiedere all’UNECE e ottenere, a fini di verifica, le informazioni conservate nel sistema internazionale eTIR relative alla controversia in esame. Tali informazioni possono essere addotte come elementi di prova nell’ambito di procedimenti amministrativi o giudiziari nazionali.
+
+<sup>4.</sup> In casi diversi da quelli specificati nel presente articolo è vietata la diffusione o la divulgazione di informazioni conservate nel sistema internazionale eTIR a persone o entità non autorizzate.
+
+#### Art. 13
+
+**Pubblicazione dell’elenco di uffici doganali in grado di gestire operazioni eTIR**
+
+Le autorità competenti provvedono affinché l’elenco degli uffici doganali di partenza, di passaggio e di destinazione abilitati a compiere operazioni TIR nell’ambito del regime eTIR sia in ogni momento esatto e aggiornato nella banca dati elettronica per gli uffici doganali abilitati, costituita e gestita dalla Commissione di controllo TIR.
+
+#### Art. 14
+
+**Requisiti giuridici relativi alla comunicazione di dati a norma dell’Allegato 10 della Convenzione TIR**
+
+I requisiti giuridici per la comunicazione di dati di cui all’Allegato 10 paragrafi 1, 3 e 4 della presente Convenzione sono considerati soddisfatti mediante l’applicazione del regime eTIR.
+
 Appendice
 
 ## Modulo tipo di riconciliazione
@@ -1828,7 +1998,7 @@ Risposta dell’ufficio doganale di destinazione
 <tr><td colspan="8">\* I dati si riferiscono all’**ufficio doganale di destinazione** nel quale si è conclusa l’operazione TIR.</td></tr>
 </table>
 
-Campo d’applicazione l’8 gennaio 2019**[^t-9]**
+Campo d’applicazione l’8 gennaio 2019**[^t-10]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1908,7 +2078,7 @@ Campo d’applicazione l’8 gennaio 2019**[^t-9]**
 <tr><td>Spagna</td><td>11 agosto</td><td>1982 A</td><td>11 febbraio</td><td>1983</td></tr>
 <tr><td>Stati Uniti d’America\*</td><td>18 settembre</td><td>1981 A</td><td>18 marzo</td><td></td></tr>
 <tr><td>Svezia</td><td>17 dicembre</td><td>1976 F</td><td>20 marzo</td><td>1978</td></tr>
-<tr><td>Svizzera</td><td>3 febbraio</td><td>1978</td><td>3 agosto</td><td>1978</td></tr>
+<tr><td>Svizzera\*</td><td>3 febbraio</td><td>1978</td><td>3 agosto</td><td>1978</td></tr>
 <tr><td>Tagikistan</td><td>11 settembre</td><td>1996 A</td><td>11 marzo</td><td>1997</td></tr>
 <tr><td>Tunisia</td><td>13 ottobre</td><td>1977</td><td>13 aprile</td><td>1978</td></tr>
 <tr><td>Turchia</td><td>12 novembre</td><td>1984 A</td><td>12 maggio</td><td>1985</td></tr>
@@ -1918,8 +2088,14 @@ Campo d’applicazione l’8 gennaio 2019**[^t-9]**
 <tr><td>Unione europea\*\*</td><td>20 dicembre</td><td>1982</td><td>20 giugno</td><td>1983</td></tr>
 <tr><td>Uruguay</td><td>24 dicembre</td><td>1980 A</td><td>24 giugno</td><td>1981</td></tr>
 <tr><td>[tab] Uzbekistan</td><td>28 settembre</td><td>1995 A</td><td>28 marzo</td><td>1996</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e dichiarazioni ed obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e dichiarazioni ed obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica a Hong Kong e Macao.</td></tr>
 </table>
 
-[^t-9]: [RU 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281), [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258), [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716), [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434), [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445), [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246), [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570)[875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875), [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867), [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025), [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605), **1994** 1162, [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133), [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120), [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139), [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140)e [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-10]: [RU 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281), [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258), [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716), [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434), [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445), [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246), [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570)[875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875), [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867), [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025), [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605), **1994** 1162, [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133), [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120), [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139), [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140)e [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+
+Dichiarazione
+
+**Svizzera**
+
+In conformità all’articolo 60a paragrafo 1 della Convenzione TIR, la Svizzera dichiara di non accettare, per il momento, l’allegato 11.

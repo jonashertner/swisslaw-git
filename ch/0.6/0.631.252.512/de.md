@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Zollabkommen vom 14. November 1975 über den internationalen Warentransport mit Carnets TIR (TIR-Abkommen) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: de
-version: 2019-02-03
+version: 2021-05-25
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20190203-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210525-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ AS **1978** 1281; BBl **1977** I 1397
 
 Abgeschlossen in Genf am 14. November 1975 Von der Bundesversammlung genehmigt am 27. September 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. Februar 1978 In Kraft getreten für die Schweiz am 3. August 1978
 
-(Stand am 3. Februar 2019)
+(Stand am 25. Mai 2021)
 
 [^t-1]: [AS 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -67,7 +67,8 @@ Im Sinne dieses Abkommens bedeutet der Begriff
 - o)[^1-14] «Inhaber» eines Carnet TIR diejenige Person, für die ein Carnet TIR gemäss den einschlägigen Bestimmungen des Abkommens ausgestellt und in deren Namen eine Zollanmeldung in Form eines Carnet TIR vorgenommen worden ist, wodurch die Absicht zum Ausdruck gebracht wurde, Waren an dem Abgangszollamt dem TIR-Verfahren zuzuführen. Der Inhaber ist verantwortlich für die Vorführung des Strassenfahrzeugs, des Lastzugs oder des Behälters zusammen mit der Ladung und dem zugehörigen Carnet TIR bei dem Abgangszollamt, dem Durchgangszollamt und dem Bestimmungszollamt sowie für die ordnungsgemässe Einhaltung der anderen einschlägigen Bestimmungen des Abkommens;
 - p)[^1-15] «aussergewöhnlich schwere oder sperrige Waren» alle schweren oder sperrigen Waren, die wegen ihres Gewichts, ihrer Ausmasse oder ihrer Beschaffenheit gewöhnlich nicht in einem geschlossenen Strassenfahrzeug oder Behälter befördert werden;
 - q)[^1-16] «bürgender Verband» einen Verband, der von den Zollbehörden oder anderen zuständigen Behörden[^1-17] einer Vertragspartei zugelassen ist, um für die Benutzer des TIR-Verfahrens die Bürgschaft zu übernehmen;
-- r)[^1-18] «internationale Organisation» eine vom Verwaltungsausschuss zugelassene Organisation, die die Verantwortlichkeit für die wirksame Gestaltung und Funktionsweise eines internationalen Bürgschaftssystems übernimmt.
+- r)[^1-18] «internationale Organisation» eine vom Verwaltungsausschuss zugelassene Organisation, die die Verantwortlichkeit für die wirksame Gestaltung und Funktionsweise eines internationalen Bürgschaftssystems übernimmt;
+- s)[^1-19] «eTIR-Verfahren» das TIR-Verfahren, das mittels eines elektronischen Datenaustauschs durchgeführt wird und die funktionale Entsprechung des Carnet TIR ist. Es finden die Bestimmungen des TIR-Abkommens Anwendung, die Einzelheiten des eTIR-Verfahrens sind jedoch in der Anlage 11 festgelegt.
 
 [^1-1]: Ausdruck gemäss der vom BR am 8. März 2002 genehmigten Änd., in Kraft getreten für die Schweiz am 12. Mai 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
 [^1-2]: Eingefügt durch die vom BR am 8. März 2002 genehmigte Änd., in Kraft getreten für die Schweiz am 12. Mai 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
@@ -87,6 +88,7 @@ Im Sinne dieses Abkommens bedeutet der Begriff
 [^1-16]: Ursprünglich Bst. l.
 [^1-17]: Wörter gemäss der Änd. vom 12. Okt. 2017, in Kraft getreten für die Schweiz am 3. Febr. 2019 ([AS 2019 375](https://fedlex.data.admin.ch/eli/oc/2019/66)).
 [^1-18]: Eingefügt durch die vom BR am 8. Juni 2012 genehmigte Änd., in Kraft getreten für die Schweiz am 13. Sept. 2012 ([AS 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
+[^1-19]: Eingefügt durch Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### b) Geltungsbereich
 
@@ -105,9 +107,10 @@ Voraussetzung für die Anwendung dieses Abkommens ist:
   - ii) mit anderen Strassenfahrzeugen, Lastzügen oder Behältern, sofern die in Kapitel III c) festgelegten Bedingungen beachtet werden, oder
   - iii) mit Strassenfahrzeugen oder Spezialfahrzeugen wie Bussen, Kränen, Kehrmaschinen, Betonmischmaschinen usw., die ausgeführt werden und daher selbst als Waren gelten und die unter den in Kapitel III c) festgelegten Bedingungen selbständig von einem Abgangszollamt zu einem Bestimmungszollamt gelangen. Transportieren solche Fahrzeuge andere Waren, so finden die unter Ziffer i) oder ii) genannten Bedingungen entsprechend Anwendung;
 
-- b) dass für den Warentransport eine Bürgschaft von Verbänden geleistet wird, die nach Artikel 6 zugelassen worden sind, und der Transport unter Verwendung eines Carnet TIR durchgeführt wird, das dem in Anlage 1 wiedergegebenen Muster entspricht.
+- b)[^3-2] dass für den Warentransport eine Bürgschaft von Verbänden geleistet wird, die nach Artikel 6 zugelassen worden sind, und der Transport unter Verwendung eines Carnet TIR, das dem in Anlage 1 dieses Abkommens wiedergegebenen Muster entspricht, oder unter Verwendung des eTIR-Verfahrens durchgeführt wird.
 
 [^3-1]: Fassung gemäss der vom BR am 8. März 2002 genehmigten Änd., in Kraft getreten für die Schweiz am 12. Mai 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
+[^3-2]: Fassung gemäss Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### c) Grundsätzliche Bestimmungen
 
@@ -418,7 +421,11 @@ Die zuständigen Behörden treffen in enger Zusammenarbeit mit den Verbänden al
 
 #### Art. 43
 
-Die Erläuterungen in Anlage 6 und Anlage 7 Teil III enthalten Auslegungen einiger Bestimmungen dieses Abkommens und seiner Anlagen. Sie geben auch einige empfohlene Praktiken wieder.
+[^43-1]
+
+Die Erläuterungen in Anlage 6, Anlage 7 Teil III und Anlage 11 Teil II enthalten Auslegungen einiger Bestimmungen dieses Abkommens und seiner Anlagen. Sie geben auch einige empfohlene Praktiken wieder.
+
+[^43-1]: Fassung gemäss Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ## Kapitel VI Verschiedenes
 
@@ -559,19 +566,27 @@ Der Verwaltungsausschuss richtet als nachgeordnetes Organ eine TIR-Kontrollkommi
 
 [^58b-1]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 und in Kraft getreten für die Schweiz am 17. Febr. 1999 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770).
 
+#### Art. 58c
+
+**Gremium für die technische Durchführung**[^58c-1]
+
+Es wird ein Gremium für die technische Durchführung eingesetzt. Seine Zusammensetzung, seine Aufgaben und seine Geschäftsordnung sind in Anlage 11 festgelegt.
+
+[^58c-1]: Eingefügt durch Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
+
 #### Art. 59
 
-**Verfahren zur Änderung dieses Abkommens**
+**Verfahren zur Änderung dieses Abkommens**[^59-1]
 
 <sup>1.</sup> Dieses Abkommen kann mit seinen Anlagen auf Vorschlag einer Vertragspartei nach dem in diesem Artikel vorgesehenen Verfahren geändert werden.
 
-<sup>2.</sup> Jeder Vorschlag einer Änderung dieses Abkommens wird vom Verwaltungsausschuss geprüft, der sich gemäss der Geschäftsordnung in Anlage 8 aus allen Vertragsparteien zusammensetzt.[^59-1] Jeder derartige auf der Sitzung des Verwaltungsausschusses geprüfte oder ausgearbeitete und vom Ausschuss mit einer Zweidrittelmehrheit seiner anwesenden und abstimmenden Mitglieder angenommene Änderungsvorschlag wird den Vertragsparteien durch den Generalsekretär der Vereinten Nationen zur Annahme mitgeteilt.
+<sup>2.</sup> Soweit Artikel 60*a* nichts anderes bestimmt, wird jeder Vorschlag einer Änderung dieses Abkommens vom Verwaltungsausschuss geprüft, der sich gemäss der Geschäftsordnung in Anlage 8 aus allen Vertragsparteien zusammensetzt. Jeder derartige auf der Sitzung des Verwaltungsausschusses geprüfte oder ausgearbeitete und vom Ausschuss mit einer Zweidrittelmehrheit seiner anwesenden und abstimmenden Mitglieder angenommene Änderungsvorschlag wird den Vertragsparteien durch den Generalsekretär der Vereinten Nationen zur Annahme mitgeteilt.
 
-<sup>3.</sup> Jeder nach den vorstehenden Absatz mitgeteilte Änderungsvorschlag tritt vorbehaltlich der Bestimmungen von Artikel 60 für alle Vertragsparteien drei Monate nach Ablauf einer Frist von zwölf Monaten nach dem Datum der Mitteilung in Kraft, wenn während dieser Frist kein Staat, der Vertragspartei ist, beim Generalsekretär der Vereinten Nationen Einwendungen gegen den Änderungsvorschlag erhoben hat.
+<sup>3.</sup> Jeder nach dem vorstehenden Absatz mitgeteilte Änderungsvorschlag tritt vorbehaltlich der Bestimmungen der Artikel 60 und 60*a* für alle Vertragsparteien drei Monate nach Ablauf einer Frist von zwölf Monaten nach dem Datum der Mitteilung der vorgeschlagenen Änderung in Kraft, wenn während dieser Frist kein Staat, der Vertragspartei ist, beim Generalsekretär der Vereinten Nationen Einwendungen gegen den Änderungsvorschlag erhoben hat.
 
 <sup>4.</sup> Sind gemäss Absatz 3 Einwendungen gegen einen Änderungsvorschlag notifiziert worden, so gilt die Änderung als nicht angenommen und bleibt ohne jede Wirkung.
 
-[^59-1]: Fassung gemäss der Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 und in Kraft getreten für die Schweiz am 17. Febr. 1999 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770).
+[^59-1]: Fassung gemäss Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 #### Art. 60
 
@@ -585,11 +600,31 @@ Der Verwaltungsausschuss richtet als nachgeordnetes Organ eine TIR-Kontrollkommi
 [^60-2]: Fassung des Satzteils gemäss der vom BR am 3. Mai 2006 genehmigten Änd., in Kraft getreten für die Schweiz am 12. Aug. 2006 ([AS 2007 1187](https://fedlex.data.admin.ch/eli/oc/2007/197)).
 [^60-3]: Fassung gemäss der Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 und in Kraft getreten für die Schweiz am 17. Febr. 1999 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770).
 
+#### Art. 60a
+
+**Sonderverfahren für das Inkrafttreten und zur Änderung von Anlage 11**[^60a-1]
+
+<sup>1.</sup> Die nach Artikel 59 Absätze 1 und 2 geprüfte Anlage 11 tritt für alle Vertragsparteien drei Monate nach Ablauf einer Frist von zwölf Monaten nach dem Tag der Mitteilung durch den Generalsekretär der Vereinten Nationen an die Vertragsparteien in Kraft, mit Ausnahme der Vertragsparteien, die dem Generalsekretär innerhalb der oben genannten Frist von drei Monaten schriftlich mitgeteilt haben, dass sie Anlage 11 nicht annehmen. Anlage 11 tritt für die Vertragsparteien, die ihre Mitteilung über die Nichtannahme zurückziehen, sechs Monate nach dem Tag in Kraft, an dem die Rücknahme dieser Mitteilung beim Verwahrer eingegangen ist.
+
+<sup>2.</sup> Jeder Vorschlag für eine Änderung von Anlage 11 wird vom Verwaltungsausschuss geprüft. Diese Änderungen werden von der Mehrheit der durch Anlage 11 gebundenen anwesenden und abstimmenden Vertragsparteien angenommen.
+
+<sup>3.</sup> Die gemäss Absatz 2 geprüften und angenommenen Änderungen von Anlage 11 werden den Vertragsparteien durch den Generalsekretär der Vereinten Nationen zur Information oder, für die durch Anlage 11 gebundenen Vertragsparteien, zur Annahme mitgeteilt.
+
+<sup>4.</sup> Der Tag des Inkrafttretens dieser Änderungen wird zum Zeitpunkt ihrer Annahme von der Mehrheit der anwesenden und abstimmenden Vertragsparteien, die durch Anlage 11 gebunden sind, festgelegt.
+
+<sup>5.</sup> Änderungen treten gemäss Absatz 4 in Kraft, es sei denn, dass zu einem früheren Zeitpunkt, der bei der Annahme festgelegt wurde, ein Fünftel der Staaten, die durch Anlage 11 gebundene Vertragsparteien sind, oder fünf dieser Staaten – je nachdem, welche Zahl geringer ist –, dem Generalsekretär der Vereinten Nationen notifizieren, dass sie Einwendungen gegen die Änderungen erheben.
+
+<sup>6.</sup> Die gemäss den Absätzen 2–5 angenommenen Änderungen treten bei ihrem Inkrafttreten für alle durch Anlage 11 gebundenen Vertragsparteien an die Stelle aller bisherigen Bestimmungen, auf die sie sich beziehen.»
+
+[^60a-1]: Eingefügt durch Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
+
 #### Art. 61
 
-**Ersuchen, Mitteilungen und Einwendungen**
+**Ersuchen, Mitteilungen und Einwendungen**[^61-1]
 
-Der Generalsekretär der Vereinten Nationen unterrichtet alle Vertragsparteien und alle in Artikel 52 Absatz 1 bezeichneten Staaten von allen Ersuchen, Mitteilungen und Einwendungen auf Grund der Artikel 59 und 60 und vom Datum des Inkrafttretens einer Änderung.
+Der Generalsekretär der Vereinten Nationen unterrichtet alle Vertragsparteien und alle in Artikel 52 Absatz 1 bezeichneten Staaten von allen Ersuchen, Mitteilungen und Einwendungen aufgrund der Artikel 59, 60 und 60a und vom Datum des Inkrafttretens einer Änderung.
+
+[^61-1]: Fassung gemäss Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 #### Art. 62
 
@@ -623,9 +658,9 @@ Nach dem 31. Dezember 1976 wird die Urschrift dieses Abkommens beim Generalsekre
 
 *Zu Urkund dessen* haben die hierzu gehörig Bevollmächtigten dieses Abkommen unterzeichnet. Geschehen zu Genf, am vierzehnten November neunzehnhundertfünfundsiebzig in einer Urschrift in englischer, französischer und russischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. (Es folgen die Unterschriften)
 
-Anlage 1*[^t-2]*
+Anlage 1[^t-2]
 
-## Muster des Carnet TIR****
+## Muster des Carnet TIR
 
 [^annexu1-lvlu1-1]
 
@@ -644,7 +679,7 @@ Je nach Bedarf kann das «Protokoll» auf seiner Rückseite auch in einer andere
 
 \3. Für die Beförderung von Tabakwaren und Alkohol, für die vom bürgenden Verband nach Anlage 6 Erläuterung 0.8.3 eine erhöhte Sicherheitsleistung verlangt werden kann, fordern die Zollbehörden Carnets TIR mit gut lesbarem Aufdruck «TABAC/ALCOOL» und «TOBACCO/ALCOHOL» auf dem Umschlagblatt und allen weiteren Blättern. Zusätzlich sind auf einem gesonderten Blatt, das nach Seite 2 des Carnet-TIR-Umschlagblatts einzufügen ist, zu den Tabak- und Branntweinerzeugnissen, für die die Sicherheit geleistet wurde, nähere Angaben – zumindest in englischer und französischer Sprache – zu machen.
 
-Anlage 2*[^t-3]*
+Anlage 2[^t-3]
 
 ## Vorschriften über die technischen Bedingungen für Strassenfahrzeuge, die für den internationalen Warentransport unter Zollverschluss zugelassen werden können.
 
@@ -771,43 +806,43 @@ Schiebeplanen, Boden, Türen und andere Bestandteile des Laderaums müssen den E
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image1.png)
 
 *Zeichnung 2*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image2.png)
 
 *Zeichnung 2a*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image3.png)
 
 *Zeichnung* 3
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image4.png)
 
 *Zeichnung* 4
 
 Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image5.png)
 
 *Zeichnung* 5
 
 Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image6.png)
 
 *Zeichnung* 6
 
 Beispiel eines Schutzdeckenverschlusssystem
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image7.png)
 
 Beschreibung
 
@@ -817,7 +852,7 @@ Dieses Schutzdeckenverschlusssystem kann zugelassen werden unter der Voraussetzu
 
 Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image8.png)
 
 Beschreibung
 
@@ -827,7 +862,7 @@ Diese Befestigung der Schutzdecke an den Fahrzeugen ist annehmbar unter der Vora
 
 Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image9.png)
 
 Beschreibung
 
@@ -837,19 +872,19 @@ Bei diesem Verschlusssystem werden die beiden Ränder an den Öffnungen der Schu
 
 Beispiel einer Konstruktion eines Fahrzeugs mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image12.png)
 
 *Zeichnung 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image15.png)
 
 Das Schiebeplanendach muss den Erfordernissen der nachstehenden Buchstaben a) bis c) entsprechen:
 
@@ -929,7 +964,7 @@ Verfahren für das Anbringen von Anmerkungen auf der Zulassungsbescheinigung (Ve
 
 Anlage 4
 
-## Muster der Zulassungsbescheinigung (Verschlussanerkenntnis) für Strassenfahrzeuge****
+## Muster der Zulassungsbescheinigung (Verschlussanerkenntnis) für Strassenfahrzeuge
 
 [^annexu1-lvlu1-2]
 
@@ -943,7 +978,7 @@ Anlage 5
 
 \2. Die Buchstaben TIR in grosser lateinischer Druckschrift müssen 200 mm hoch und ihre Striche mindestens 20 mm breit sein. Sie müssen weiss auf blauem Grund sein.
 
-Anlage 6*[^t-4]*
+Anlage 6[^t-4]
 
 ## Erläuterungen
 
@@ -1271,7 +1306,7 @@ Zeichnung 1
 
 Scharniere und Zollverschlusssysteme für Türen von Fahrzeugen mit wärmeisolierten Laderäumen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image16.png)
 
 Zeichnung 1a
 
@@ -1279,19 +1314,19 @@ Beispiel für ein Scharnier, bei dem es nicht erforderlich ist, den Scharnierbol
 
 Das abgebildete Scharnier entspricht der Vorschrift der Nr. 2.2.1 b) Buchstabe b zweiter Satz. Auf eine Sicherung des Scharnierbolzens kann verzichtet werden, weil Scharnierblatt und Scharnierbock so konstruiert sind, dass das Scharnierblatt mit seinem Hinterschnitt hinter die Backen des Scharnierbockes greift. Der Hinterschnitt verhindert, dass die zollamtlich verschlossene Tür auch bei Entfernung des ungesicherten Scharnierbolzens an der Anschlagvorrichtung geöffnet werden kann, ohne sichtbare Spuren zu hinterlassen.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image17.png)
 
 Zeichnung 2
 
 Fahrzeuge mit Schutzdecken und Gleitringen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image18.png)
 
 Zeichnung 2a
 
 Beispiel eines drehbaren Befestigungsringes (Modell «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image19.png)
 
 Zeichnung 3
 
@@ -1299,7 +1334,7 @@ Beispiel einer Vorrichtung zur Befestigung von Schutzdecken
 
 Die abgebildete Vorrichtung entspricht den Vorschriften der Anlage 2 Artikel 3 Absatz 11 Buchstabe a letzter Satz. Sie entspricht auch den Vorschriften der Anlage 2 Artikel 3 Absatz 6.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image20.png)
 
 Zeichnung 4
 
@@ -1307,15 +1342,15 @@ Vorrichtung zur Befestigung einer Schutzdecke
 
 Die abgebildete Vorrichtung entspricht den Vorschriften der Anlage 2 Artikel 3 Absatz 6 Buchstabe a.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image21.png)
 
 Zeichnung 5
 
 Befestigungsvorrichtung, die von der Innenseite der isolierten Tür angebracht wird
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image22.png)
 
-Anlage 7*[^t-5]*
+Anlage 7[^t-5]
 
 ## Anlage über die Zulassung von Behältern
 
@@ -1450,13 +1485,13 @@ Schutzdecke aus mehreren Stücken
 
 (zusammengenäht)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image23.png)
 
 *Teil I – Zeichnung 2*
 
 Schutzdecke aus mehreren Stücken
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image24.png)
 
 *Teil I – Zeichnung 3*
 
@@ -1464,31 +1499,31 @@ Schutzdecke aus mehreren Stücken
 
 (zusammengeschweisst)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image25.png)
 
 *Teil I – Zeichnung 4*
 
 Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image26.png)
 
 *Teil I – Zeichnung 5*
 
 Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image27.png)
 
 *Zeichnung 6*
 
 Beispiel für ein Schutzdeckenverschlusssystem
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image28.png)
 
 *Zeichnung 7*
 
 Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image29.png)
 
 Das Schiebeplanendach muss den Erfordernissen der nachstehenden Ziffern a) bis c) entsprechen:
 
@@ -1504,7 +1539,7 @@ Diese Befestigung der Schutzdecke an den Fahrzeugen ist annehmbar unter der Vora
 
 Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image30.png)
 
 ### Beschreibung
 
@@ -1514,17 +1549,17 @@ Bei diesem Verschlusssystem werden die beiden Ränder an den Öffnungen der Schu
 
 Beispiel einer Konstruktion eines Behälters mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image32.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image33.png)
 
 *Zeichnung 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image34.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image35.png)
 
 ### Teil II Verfahren bei der Zulassung von Behältern, die den technischen Bedingungen des Teils I entsprechen
 
@@ -1592,7 +1627,7 @@ Muster I
 
 (englische Fassung)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image36.png)
 
 Anhang I von Teil II
 
@@ -1602,7 +1637,7 @@ Muster I
 
 (französische Fassung)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image37.png)
 
 Anhang 2 von Teil II
 
@@ -1696,9 +1731,9 @@ Teil III
 
 Die abgebildete Vorrichtung entspricht den Vorschriften des Teils I Artikel 4 Absatz 6 Buchstabe a
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20190203/de/xml/image/image38.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image38.png)
 
-Anlage 8*[^t-6]*
+Anlage 8[^t-6]
 
 ## Zusammensetzung, Aufgaben und Geschäftsordnungen des Verwaltungsausschusses und der TIR-Kontrollkommission
 
@@ -1804,7 +1839,7 @@ Anlage 9*[^t-7]*
 
 ## Zulassung zum TIR-Verfahren
 
-[^t-7]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der vom BR am 21. Dez. 2005 genehmigten Änd. ([AS 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der am 10. Okt. 2013 für die Schweiz in Kraft getretenen Änd. ([AS 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), der vom EFD am 30. Sept. 2014 genehmigten Änd. ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) und der Änd. vom 30. März 2018, in Kraft getreten für die Schweiz am 1. Juli 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-7]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der vom BR am 21. Dez. 2005 genehmigten Änd. ([AS 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der am 10. Okt. 2013 für die Schweiz in Kraft getretenen Änd. ([AS 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), der vom EFD am 30. Sept. 2014 genehmigten Änd. ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) und der Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### Teil I Ermächtigung der Verbände zur Ausgabe von Carnets TIR und zur Übernahme der Bürgschaft
 
@@ -1831,7 +1866,8 @@ Anlage 9*[^t-7]*
 - (vii) den zuständigen Behörden zu gestatten, alle Aufzeichnungen und Abrechnungen im Zusammenhang mit der Verwaltung des TIR-Verfahrens zu prüfen;
 - (viii) ein möglichst aussergerichtliches Verfahren zur wirksamen Beilegung von Streitigkeiten aufgrund nicht ordnungsgemässer oder betrügerischer Verwendung von Carnets TIR anzuerkennen;
 - (ix) den von den zuständigen Behörden der Vertragspartei, in deren Hoheitsgebiet er seinen Geschäftssitz hat, getroffenen Entscheidungen über den Widerruf der Bewilligung oder den Ausschluss von Personen nach Artikel 6 bzw. Artikel 38 des Übereinkommens und Teil II dieser Anlage strikt Folge zu leisten;
-- (x) alle vom Verwaltungsausschuss und der TIR-Kontrollkommission getroffenen Entscheidungen gewissenhaft umzusetzen, soweit die zuständigen Behörden der Vertragspartei, in deren Hoheitsgebiet der Verband seinen Geschäftssitz hat, ihnen zugestimmt haben.
+- (x) alle vom Verwaltungsausschuss und der TIR-Kontrollkommission getroffenen Entscheidungen gewissenhaft umzusetzen, soweit die zuständigen Behörden der Vertragspartei, in deren Hoheitsgebiet der Verband seinen Geschäftssitz hat, ihnen zugestimmt haben;
+- (xi) den durch Anlage 11 gebundenen Vertragsparteien und auf Verlangen der zuständigen Behörden zu bestätigen, dass im Falle eines Ausweichverfahrens gemäss Anlage 11 Artikel 10 Absatz 2 die Bürgschaft gültig ist und ein TIR‐Transport im eTIR‐Verfahren durchgeführt wird, und sonstige für den TIR‐Transport relevante Informationen bereitzustellen.
 
 (4) Wird ein bürgender Verband nach den Verfahren des Artikels 11 aufgefordert, die in Artikel 8 Absätze 1 und 2 genannten Beträge zu entrichten, so unterrichtet er im Einklang mit der schriftlichen Vereinbarung gemäss Erläuterung 0.6.2<sup>bis-1</sup> zu Artikel 6 Absatz 2<sup>bis</sup> die internationale Organisation über den Eingang der Zahlungsaufforderung.
 
@@ -1927,7 +1963,7 @@ Zu jeder Person, für die von dem zugelassenen Verband ein Zulassungsantrag gest
 
 (6) Die einer internationalen Organisation nach Massgabe der vorstehenden Bestimmungen erteilte Zulassung lässt die Verantwortlichkeiten und Verpflichtungen dieser Organisation nach dem Übereinkommen unberührt.
 
-Anlage 10*[^t-8]*
+Anlage 10[^t-8]
 
 ## Auskünfte der Vertragsparteien an zugelassene Verbände (nach Art. 42*b*) und internationale Organisationen (nach Art. 6 Abs. 2<sup>bis</sup>)
 
@@ -1961,6 +1997,151 @@ Im Rahmen ihrer Verantwortlichkeiten als nach Artikel 6 Absatz 2<sup>bis</sup> z
 - 3) Die Zollbehörden und die nationalen bürgenden Verbände schließen über den oben beschriebenen Datenaustausch eine Vereinbarung im Einklang mit ihrem innerstaatlichen Recht.
 - 4) Eine internationale Organisation gewährt den Zollbehörden Zugang zur Datenbank der erledigten Carnets TIR und zur Datenbank der für ungültig erklärten Carnets TIR.
 
+Anlage 11*[^t-9]*
+
+## eTIR-Verfahren
+
+[^t-9]: Eingefügt durch Änd. vom 6. Febr. 2020 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)). Gemäß Artikel 60*a* Absatz 1 des TIR-Abkommens erklärt die Schweiz, dass sie die Anlage 11 zur Zeit nicht akzeptiert.
+
+### Teil I
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>(1)</sup> Diese Anlage regelt die Durchführung des eTIR‐Verfahrens gemäss der Definition in Artikel 1 Buchstabe s des Abkommens und gilt im Verhältnis zwischen den Vertragsparteien, die gemäss Artikel 60*a* Absatz 1 durch diese Anlage gebunden sind.
+
+<sup>(2)</sup> Das eTIR‐Verfahren kann nicht für Transporte verwendet werden, die teilweise im Hoheitsgebiet einer Vertragspartei stattfinden, welche nicht durch diese Anlage gebunden und Mitgliedstaat einer Zoll- oder Wirtschaftsunion mit einem einheitlichen Zollgebiet ist.
+
+#### Art. 2
+
+**Begriffsbestimmungen**
+
+Im Sinne dieser Anlage bedeutet der Begriff:
+
+- a) «internationales eTIR‐System» das für den Austausch elektronischer Informationen zwischen den am eTIR-Verfahren Beteiligten entwickelte Informatiksystem;
+- b) «eTIR‐Spezifikationen» die gemäss Artikel 5 dieser Anlage angenommenen und geänderten konzeptionellen, funktionalen und technischen Spezifikationen des eTIR‐Verfahrens;
+- c) «Vorab‐TIR‐Daten» die den zuständigen Behörden des Abgangslandes übermittelten Daten gemäss den eTIR‐Spezifikationen, mit denen der Inhaber seine Absicht mitteilt, Waren in das eTIR‐Verfahren zu überführen;
+- d) «Vorab‐Änderung» die Angaben, die den zuständigen Behörden des Landes, in dem eine Änderung der Anmeldung beantragt wurde, gemäss den eTIR‐Spezifikationen übermittelt werden und mit denen der Inhaber seine Absicht mitteilt, seine Anmeldung zu ändern;
+- e) «Daten der Anmeldung» die Vorab‐TIR‐Daten und die Vorab‐Änderungen, die von den zuständigen Behörden angenommen wurden;
+- f) «Anmeldung» den Vorgang, mit dem der Inhaber oder dessen Vertreter gemäss den eTIR‐Spezifikationen angibt, dass er Waren in das eTIR‐Verfahren zu überführen beabsichtigt. Sobald die Anmeldung von den zuständigen Behörden auf der Grundlage der Vorab‐TIR‐Daten oder der Vorab‐Änderung angenommen und die Daten der Anmeldung an das internationale eTIR‐System übermittelt wurden, gilt diese Anmeldung als rechtliche Entsprechung eines angenommenen Carnet‐TIR;
+- g) «Begleitdokument» einen Ausdruck des Dokuments, das nach der Annahme der Anmeldung gemäss den Leitlinien der technischen eTIR‐Spezifikationen vom Zollsystem elektronisch erstellt wurde. Das Begleitdokument kann anstelle des Protokolls gemäss Artikel 25 dieses Abkommens für die Aufzeichnung von Ereignissen während der Beförderung verwendet werden. Es wird auch für das Ausweichverfahren verwendet;
+- h) «Authentifizierung» einen elektronischen Vorgang, der die elektronische Identifizierung einer natürlichen oder juristischen Person oder die Bestätigung des Ursprungs und der Unversehrtheit von Daten in elektronischer Form ermöglicht.
+
+#### Art. 3
+
+**Durchführung des eTIR-Verfahrens**
+
+<sup>(1)</sup> Die durch Anlage 11 gebundenen Vertragsparteien verbinden ihre Zollsysteme gemäss den eTIR‐Spezifikationen mit dem internationalen eTIR‐System.
+
+<sup>(2)</sup> Es steht jeder Vertragspartei frei festzulegen, zu welchem Zeitpunkt sie ihre Zollsysteme mit dem internationalen eTIR‐ System verbindet. Das Datum der Verbindung wird allen durch Anlage 11 gebundenen Vertragsparteien mindestens sechs Monate vor dem Tag der tatsächlichen Verbindung mitgeteilt.
+
+#### Art. 4
+
+**Zusammensetzung, Aufgaben und Geschäftsordnung des Gremiums für die technische Durchführung**
+
+<sup>(1)</sup> Die durch Anlage 11 gebundenen Vertragsparteien sind Mitglieder des Gremiums für die technische Durchführung. Das Gremium tritt in regelmässigen Abständen oder auf Ersuchen des Verwaltungsausschusses zusammen, um die Fortschreibung der eTIR‐Spezifikationen zu gewährleisten. Der Verwaltungsausschuss wird regelmässig über die Aktivitäten und Erwägungen des Gremiums für die technische Durchführung unterrichtet.
+
+<sup>(2)</sup> Die Vertragsparteien, die Anlage 11 nicht gemäss Artikel 60*a* Absatz 1 angenommen haben, sowie Vertreterinnen und Vertreter internationaler Organisationen können als Beobachter an den Sitzungen des Gremiums für die technische Durchführung teilnehmen.
+
+<sup>(3)</sup> Das Gremium für die technische Durchführung überwacht die technischen und funktionalen Aspekte der Durchführung des eTIR‐Verfahrens und koordiniert und fördert den Informationsaustausch über Fragen, die in seine Zuständigkeit fallen.
+
+<sup>(4)</sup> Bei seiner ersten Tagung gibt sich das Gremium für die technische Durchführung seine Geschäftsordnung und legt sie dem Verwaltungsausschuss zur Billigung durch die durch Anlage 11 gebundenen Vertragsparteien vor.
+
+#### Art. 5
+
+**Verfahren zur Annahme und zu Änderung der eTIR-Spezifikationen**
+
+Das Gremium für die technische Durchführung:
+
+- a) nimmt die technischen Spezifikationen des eTIR‐Verfahrens und deren Änderungen an, um deren Übereinstimmung mit den funktionalen Spezifikationen des eTIR‐Verfahrens zu gewährleisten. Zum Zeitpunkt der Annahme entscheidet es über eine angemessene Übergangsfrist für deren Umsetzung;
+- b) bereitet die funktionalen Spezifikationen des eTIR‐Verfahrens und deren Änderungen vor, um die Übereinstimmung mit den konzeptuellen Spezifikationen des eTIR‐Verfahrens zu gewährleisten. Diese funktionalen Spezifikationen werden dem Verwaltungsausschuss zur Annahme mit der Mehrheit der anwesenden und abstimmenden Vertragsparteien, die durch Anlage 11 gebunden sind, übermittelt, umgesetzt und erforderlichenfalls zu einem bei der Annahme festzulegenden Zeitpunkt in technische Spezifikationen übersetzt;
+- c) prüft auf Aufforderung des Verwaltungsausschusses Änderungen der konzeptuellen Spezifikationen des eTIR‐Verfahrens. Die konzeptuellen Spezifikationen des eTIR‐Verfahrens und ihre Änderungen werden von der Mehrheit der anwesenden und abstimmenden Vertragsparteien, die durch Anlage 11 gebunden sind, angenommen, umgesetzt und erforderlichenfalls zu einem bei der Annahme festzulegenden Zeitpunkt in funktionale Spezifikationen übersetzt.
+
+#### Art. 6
+
+**Übermittlung von Vorab-TIR-Daten und Vorab-Änderungen**
+
+<sup>(1)</sup> Vorab‐TIR‐Daten und Vorab‐Änderungen werden vom Inhaber oder seinem Vertreter an die zuständigen Behörden des Abgangslandes und des Landes übermittelt, in dem die Änderung der Daten der Anmeldung beantragt wird. Sobald die Anmeldung oder die Änderung gemäss dem nationalen Recht angenommen wurde, übermitteln die zuständigen Behörden die Daten der Anmeldung oder deren Änderung an das internationale eTIR‐System.
+
+<sup>(2)</sup> Die in Absatz 1 genannten Vorab‐TIR‐Daten und Vorab‐Änderungen können direkt an die zuständigen Behörden oder über das internationale eTIR‐System übermittelt werden.
+
+<sup>(3)</sup> Die durch Anlage 11 gebundenen Vertragsparteien nehmen die Übermittlung von Vorab‐TIR‐Daten und Vorab‐Änderungen über das internationale eTIR‐System an.
+
+<sup>(4)</sup> Die zuständigen Behörden veröffentlichen die Liste aller elektronischen Verfahren, die für die Übermittlung von Vorab‐TIR‐Daten und Vorab‐Änderungen genutzt werden dürfen.
+
+#### Art. 7
+
+**Authentifizierung**
+
+<sup>(1)</sup> Nehmen die zuständigen Behörden im Abgangsland eine Anmeldung oder in einem Land entlang des Transportwegs eine Änderung von Daten der Anmeldung an, so authentifizieren sie die Vorab‐TIR‐Daten oder die Vorab‐Änderungen sowie den Inhaber gemäss ihrem nationalen Recht.
+
+<sup>(2)</sup> Die Vertragsparteien, die durch Anlage 11 gebunden sind, akzeptieren die Authentifizierung des Inhabers durch das internationale eTIR‐System.
+
+<sup>(3)</sup> Die zuständigen Behörden veröffentlichen eine Liste von anderen als den in Absatz 2 genannten Authentifizierungsmechanismen, die zur Authentifizierung verwendet werden dürfen.
+
+<sup>(4)</sup> Die durch Anlage 11 gebundenen Vertragsparteien nehmen die von den zuständigen Behörden des Abgangslandes und des Landes, in dem eine Änderung der Daten der Anmeldung beantragt wurde, erhaltenen Daten als rechtliche Entsprechung eines angenommenen Carnet TIR an, wenn die Daten über das internationale eTIR‐ System übermittelt wurden.
+
+#### Art. 8
+
+**Gegenseitige Anerkennung der Authentifizierung des Inhabers**
+
+Die Authentifizierung des Inhabers durch die zuständigen Behörden der durch Anlage 11 gebundenen Vertragsparteien, die die Anmeldung oder die Änderung von Daten der Anmeldung annehmen, werden von den zuständigen Behörden aller nachfolgenden durch Anlage 11 gebundenen Vertragsparteien während des gesamten TIR‐Transports anerkannt.
+
+#### Art. 9
+
+**Einfordern zusätzlicher Daten**
+
+<sup>(1)</sup> Zusätzlich zu den in den funktionalen und technischen Spezifikationen genannten Daten können die zuständigen Behörden weitere, nach nationalem Recht vorgeschriebene Daten einfordern.
+
+<sup>(2)</sup> Die zuständigen Behörden sollten die Anforderungen an die Daten auf die in den funktionalen und technischen Spezifikationen enthaltenen Anforderungen beschränken und sich bemühen, die Einreichung zusätzlicher Daten zu erleichtern, damit die gemäss diesem Anhang durchgeführten TIR‐Transporte nicht behindert werden.
+
+#### Art. 10
+
+**Ausweichverfahren**
+
+<sup>(1)</sup> Kann das eTIR‐Verfahren bei der Abgangszollstelle aus technischen Gründen nicht eingeleitet werden, so kann der Inhaber des Carnet TIR auf das TIR‐Verfahren zurückgreifen.
+
+<sup>(2)</sup> Wurde ein eTIR‐Verfahren begonnen, kann es aber aus technischen Gründen nicht fortgesetzt werden, so akzeptieren die zuständigen Behörden das Begleitdokument und bearbeiten es gemäss dem in den eTIR‐Spezifikationen beschriebenen Verfahren, wenn zusätzliche Informationen aus anderen elektronischen Systemen zur Verfügung stehen, die in den funktionalen und technischen Spezifikationen beschrieben sind.
+
+<sup>(3)</sup> Die zuständigen Behörden der Vertragsparteien sind auch berechtigt, die nationalen bürgenden Verbände aufzufordern, die Gültigkeit der Bürgschaft sowie die Durchführung eines TIR‐Transports im eTIR‐Verfahren zu bestätigen und andere relevante Informationen zum TIR‐Transport zu übermitteln.
+
+<sup>(4)</sup> Das in Absatz 3 beschriebene Verfahren wird in Abstimmung zwischen den zuständigen Behörden und dem nationalen bürgenden Verband gemäss Anlage 9 Teil I Absatz 1 Buchstabe d festgelegt.
+
+#### Art. 11
+
+**Einrichtung des internationalen eTIR-Systems**
+
+<sup>(1)</sup> Das internationale eTIR‐System wird unter der Federführung der Wirtschaftskommission für Europa der Vereinten Nationen (UNECE) eingerichtet und verwaltet.
+
+<sup>(2)</sup> Die UNECE unterstützt die Länder bei der Anbindung ihrer Zollsysteme an das internationale eTIR‐System, unter anderem durch Konformitätsprüfungen, um vor der Inbetriebnahme der Verbindung deren ordnungsgemässes Funktionieren zu gewährleisten.
+
+<sup>(3)</sup> Der UNECE werden die erforderlichen Mittel für die Erfüllung der Verpflichtungen gemäss den Absätzen 1 und 2 bereitgestellt. Wird das internationale eTIR‐System nicht aus Mitteln des regulären Haushalts der Vereinten Nationen finanziert, so fallen die erforderlichen Mittel unter die Finanzvorschriften und ‐regelungen der Vereinten Nationen für ausserbudgetäre Fonds und Projekte. Der Finanzierungsmechanismus für den Betrieb des internationalen eTIR‐Systems bei der UNECE wird vom Verwaltungsausschuss beschlossen und genehmigt.
+
+#### Art. 12
+
+**Verwaltung des internationalen eTIR-Systems**
+
+<sup>(1)</sup> Die UNECE trifft geeignete Vorkehrungen für die Speicherung und Archivierung der Daten im internationalen eTIR‐System für einen Zeitraum von mindestens 10 Jahren.
+
+<sup>(2)</sup> Alle im internationalen eTIR‐System gespeicherten Daten können von der UNECE im Namen der zuständigen Stellen dieses Abkommens für die Zwecke der Erstellung aggregierter Statistiken verwendet werden.
+
+<sup>(3)</sup> Die zuständigen Behörden der Vertragsparteien, in deren Hoheitsgebiet ein TIR‐Transport im eTIR‐Verfahren durchgeführt wird, der zum Gegenstand eines Verwaltungs- oder Gerichtsverfahrens im Zusammenhang mit der Zahlungsverpflichtung der unmittelbar haftbaren Person oder Personen oder des nationalen bürgenden Verbands gemacht wird, kann bei der UNECE einen Antrag stellen und die im internationalen eTIR‐System gespeicherten Informationen über die strittige Forderung zu Überprüfungszwecken einholen. Diese Informationen können in nationalen Verwaltungs- und Gerichtsverfahren als Beweismittel dienen.
+
+<sup>(4)</sup> In anderen als den in diesem Artikel genannten Fällen ist es verboten, im internationalen eTIR‐System gespeicherte Informationen zu verbreiten oder gegenüber nicht befugten Personen oder Stellen offenzulegen.
+
+#### Art. 13
+
+**Veröffentlichung der für das eTIR-System zugelassenen Zollbehörden**
+
+Die zuständigen Behörden stellen sicher, dass die Liste der Abgangszollstellen, der Durchgangszollstellen und der Bestimmungszollstellen, die für die Abwicklung eines TIR‐Versands im eTIR‐Verfahren zugelassen sind, jederzeit zutreffend ist und in der elektronischen Datenbank für zugelassene Zollstellen, die von der TIR‐Kontrollkommission entwickelt und geführt wird, aktualisiert wird.
+
+#### Art. 14
+
+**Rechtliche Anforderungen an die Übermittlung von Daten gemäss Anlage 10 des TIR-Abkommens**
+
+Die rechtlichen Anforderungen an die Übermittlung von Daten gemäss den Absätzen 1, 3 und 4 von Anlage 10 dieses Abkommens gelten mit der Durchführung des eTIR‐Verfahrens als erfüllt.
+
 Anhang
 
 ## Musterformular für Klärungsanfragen (MFK)
@@ -1993,7 +2174,7 @@ Antwort der Bestimmungszollstelle
 <tr><td colspan="8">\* Bitte beachten: Es handelt sich um Angaben zu der Bestimmungszollstelle, bei der der TIR‑Versand beendet wurde.»</td></tr>
 </table>
 
-Geltungsbereich am 8. Januar 2019**[^t-9]**
+Geltungsbereich am 8. Januar 2019**[^t-10]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2059,7 +2240,7 @@ Geltungsbereich am 8. Januar 2019**[^t-9]**
 <tr><td>Russland\*</td><td>8. Juni</td><td>1982 B</td><td>8. Dezember</td><td>1982</td></tr>
 <tr><td>Saudi-Arabien</td><td>17. Mai</td><td>2018 B</td><td>17. November</td><td>2018</td></tr>
 <tr><td>Schweden</td><td>17. Dezember</td><td>1976 U</td><td>20. März</td><td>1978</td></tr>
-<tr><td>Schweiz</td><td>3. Februar</td><td>1978</td><td>3. August</td><td>1978</td></tr>
+<tr><td>Schweiz\*</td><td>3. Februar</td><td>1978</td><td>3. August</td><td>1978</td></tr>
 <tr><td>Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
 <tr><td>Slowakei\*</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>6. Juli</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
@@ -2082,7 +2263,13 @@ Geltungsbereich am 8. Januar 2019**[^t-9]**
 <tr><td>Insel Man</td><td>8. Oktober</td><td>1982</td><td>8. April</td><td>1983</td></tr>
 <tr><td>Jersey</td><td>8. Oktober</td><td>1982</td><td>8. April</td><td>1983</td></tr>
 <tr><td>Zypern</td><td>7. August</td><td>1981 B</td><td>7. Februar</td><td>1982</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Hong Kong und Macao.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Hong Kong und Macao.</td></tr>
 </table>
 
-[^t-9]: [AS 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281), [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258), [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716), [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434), [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445), [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246), [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570)[875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875), [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867), [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025), [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605), **1994** 1162, [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133), [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120), [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139), [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140), [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-10]: [AS 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281); [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258); [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716); [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434); [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445); [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246); [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570), [875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875); [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867); [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025); [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605); **1994** 1162; [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133); [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120); [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139); [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140); [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67); [2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+
+Erklärung
+
+**Schweiz**
+
+Gemäss Artikel 60*a* Absatz 1 des TIR-Abkommens erklärt die Schweiz, dass sie die Anlage 11 zur Zeit nicht akzeptiert.
