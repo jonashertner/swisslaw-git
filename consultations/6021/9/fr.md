@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l'ordonnance sur le registre du commerce"
 document: Projet
 language: fr

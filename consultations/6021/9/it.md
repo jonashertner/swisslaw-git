@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell'ordinanza sul registro di commercio"
 document: Avamprogetto
 language: it
