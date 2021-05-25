@@ -4,11 +4,11 @@ title: "Ordonnance d'organisation du 20 septembre 2013 concernant la loi relativ
 short: Org LRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: fr
-version: 2014-01-01
+version: 2021-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-644-20140101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-644-20210526-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20140101/fr"
 
 (Ordonnance d’organisation concernant la LRH, Org LRH)
 
-du 20 septembre 2013 (Etat le 1<sup>er</sup> janvier 2014)
+du 20 septembre 2013 (Etat le 26 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -43,7 +43,7 @@ La commission d’éthique de la recherche (commission d’éthique) est constit
 - d. pharmacie ou médecine pharmaceutique;
 - e. biologie;
 - f. biostatistique;
-- g. éthique; et
+- g. éthique, et
 - h. droit, protection des données incluse.
 
 <sup>2</sup> Les deux sexes et les groupes professionnels doivent être représentés équitablement au sein de la commission d’éthique.
@@ -70,14 +70,14 @@ Les personnes qui travaillent au secrétariat scientifique doivent avoir:
 
 - a. accompli des études universitaires complètes en médecine, pharmacie, sciences naturelles, psychologie ou droit;
 - b. une formation suffisante en matière de bonnes pratiques cliniques;
-- c. des connaissances sur les méthodes scientifiques des projets de recherche sur l’être humain; et
+- c. des connaissances sur les méthodes scientifiques des projets de recherche sur l’être humain, et
 - d. des connaissances sur les conditions légales s’appliquant à la recherche sur l’être humain.
 
 <sup>2</sup>
 
 Les ressources en personnel du secrétariat scientifique sont calculées de manière à:
 
-- a. assurer une disponibilité suffisante pour la commission et les requérants; et
+- a. assurer une disponibilité suffisante pour la commission et les requérants, et
 - b. garantir le respect des délais de procédure.
 
 #### Art. 4
@@ -89,7 +89,7 @@ Les ressources en personnel du secrétariat scientifique sont calculées de mani
 Les membres de la commission d’éthique se récusent, quand:
 
 - a. ils prennent part eux-mêmes au projet de recherche ou que, pour d’autres raisons, ils y ont un intérêt personnel;
-- b. des personnes auxquelles ils sont habilités à donner des instructions, aux ordres desquelles ils sont soumis ou avec lesquelles ils sont personnellement liés prennent part au projet de recherche; ou quand
+- b. des personnes auxquelles ils sont habilités à donner des instructions, aux ordres desquelles ils sont soumis ou avec lesquelles ils sont personnellement liés prennent part au projet de recherche, ou quand
 - c. ils sont impliqués dans le projet pour d’autres raisons.
 
 <sup>2</sup> Les membres impliqués ne peuvent pas prendre part aux délibérations ni à la prise de décision concernant l’objet en question.
@@ -114,13 +114,14 @@ Les membres de la commission d’éthique se récusent, quand:
 
 La commission d’éthique statue dans une composition à trois membres sur:
 
-- a. les essais cliniques de la catégorie A selon les art. 19, al. 1, 20, al. 1, 49, al. 1, et 61, al. 1, de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^6-1], si l’essai ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
-- b. les projets de recherche sur des personnes de la catégorie A selon l’art. 7, al. 1, de l’ordonnance du 20 septembre 2013 relative à la recherche sur l’être humain[^6-2];
+- a.[^6-1] les essais cliniques de la catégorie A au sens des art. 19, al. 1, 20, al. 1, 49, al. 1, et 61, al. 1, de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^6-2] si l’essai ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
+- a<sup>bis</sup>.[^6-3] les essais cliniques avec des dispositifs médicaux de la sous-catégorie A1 au sens de l’art. 6, al. 1, de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques avec des dispositifs médicaux[^6-4] si l’essai ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
+- b. les projets de recherche sur des personnes de la catégorie A selon l’art. 7, al. 1, de l’ordonnance du 20 septembre 2013 relative à la recherche sur l’être humain[^6-5];
 - c. la réutilisation de matériel biologique et de données personnelles liées à la santé à des fins de recherche en cas de défaut de consentement ou d’information selon l’art. 34 LRH, si le projet de recherche ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
 - d. les projets de recherche sur des personnes décédées, exception faite des projets de recherche sur des personnes décédées placées sous respiration artificielle selon l’art. 37, al. 2, LRH;
 - e. les modifications essentielles apportées aux projets de recherche autorisés soulevant des questions spécifiques d’ordre éthique, scientifique ou juridique.
 
-<sup>2</sup> La composition à trois doit comprendre des membres appartenant à différents domaines selon l’art. 1, al. 1.
+<sup>2</sup> La composition à trois doit comprendre des membres appartenant à différents domaines visés à l’art. 1.[^6-6]
 
 <sup>3</sup> Une procédure écrite est autorisée si aucun membre n’exige des délibérations orales.
 
@@ -128,11 +129,15 @@ La commission d’éthique statue dans une composition à trois membres sur:
 
 La procédure ordinaire est appliquée quand:
 
-- a. il n’y a pas d’unanimité; ou quand
+- a. il n’y a pas d’unanimité, ou quand
 - b. un membre de la composition à trois le demande.
 
-[^6-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^6-2]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^6-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^6-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^6-3]: Introduite par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^6-4]: RS **812.213.3**
+[^6-5]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^6-6]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 #### Art. 7
 
@@ -199,7 +204,7 @@ L’organe de coordination assume notamment les tâches suivantes:
 Avant que l’autorité d’exécution ne communique des données personnelles aux services compétents selon l’art. 59, al. 1 et 2, LRH, elle invite la personne concernée à prendre position et lui fournit en même temps des informations sur:
 
 - a. le but de la communication des données;
-- b. l’étendue des données qui doivent être communiquées; et
+- b. l’étendue des données qui doivent être communiquées, et
 - c. le destinataire des données.
 
 <sup>2</sup>
@@ -208,14 +213,14 @@ Les obligations visées à l’al. 1 ne s’appliquent pas quand:
 
 - a. la personne concernée a déjà été suffisamment informée;
 - b. la communication de données est évidente du fait des circonstances dans le cas d’espèce;
-- c. il existe un risque imminent que des droits ou d’autres intérêts importants de tiers soient menacés ou que l’exécution de tâches légales soit entravée; ou quand
+- c. il existe un risque imminent que des droits ou d’autres intérêts importants de tiers soient menacés ou que l’exécution de tâches légales soit entravée, ou quand
 - d. la personne concernée est introuvable.
 
 <sup>3</sup> Si les données doivent être publiées en application de l’art. 59, al. 3, LRH, toutes les indications qui, combinées, permettent de rétablir l’identité de la personne sans efforts disproportionnés doivent être rendues méconnaissables ou être détruites. Il s’agit notamment du nom, de l’adresse, de la date de naissance et des numéros d’identification caractéristiques.
 
 #### Art. 12
 
-**Echange de données avec des autorités et des institutions étrangères**
+**Échange de données avec des autorités et des institutions étrangères**
 
 <sup>1</sup>
 
@@ -223,7 +228,7 @@ Sont autorisés à échanger des données confidentielles avec des autorités et
 
 - a. la commission d’éthique compétente;
 - b. l’autorité cantonale de surveillance;
-- c. l’Institut suisse des produits thérapeutiques; et
+- c. l’Institut suisse des produits thérapeutiques, et
 - d. l’OFSP.
 
 <sup>2</sup> Les données personnelles qui contiennent des données confidentielles peuvent être transmises à des autorités et des institutions étrangères ainsi qu’à des organisations internationales seulement si la personnalité de la personne concernée n’est pas gravement menacée, notamment en raison de l’absence de législation assurant un niveau de protection adéquat.
@@ -234,7 +239,7 @@ En l’absence de législation assurant un niveau de protection adéquat, les do
 
 - a. la communication est nécessaire pour protéger la vie ou l’intégrité corporelle de la personne concernée;
 - b. la communication est indispensable pour écarter un danger imminent pour la santé publique;
-- c. des garanties suffisantes, notamment contractuelles, permettent d’assurer un niveau de protection adéquat à l’étranger; ou que
+- c. des garanties suffisantes, notamment contractuelles, permettent d’assurer un niveau de protection adéquat à l’étranger, ou que
 - d. la personne concernée a donné en l’espèce son consentement.
 
 ## Chapitre 4 Entrée en vigueur

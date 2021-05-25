@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Organisational Aspects of the Human Re
 short: OrgO-HRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: en
-version: 2014-01-01
+version: 2021-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20140101/en/xml/fedlex-data-admin-ch-eli-cc-2013-644-20140101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20140101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20210526/en/xml/fedlex-data-admin-ch-eli-cc-2013-644-20210526-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20210526/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,17 +19,17 @@ English is not an official language of the Swiss Confederation. This translation
 
 (HRA Organisation Ordinance, OrgO-HRA)
 
-of 20 September 2013 (Status as of 1 January 2014)
+of 20 September 2013 (Status as of 26 May 2021)
 
 The Swiss Federal Council,
 
-on the basis of Article 49 paragraphs 1 and 2, Article 53 paragraph 3, Article 59 paragraph 6, Article 60 paragraph 2 and Article 65 of the Human Research Act of 30 September 2011[^ingress-1] (HRA),
+on the basis of Articles 49 paragraphs 1 and 2, 53 paragraph 3, 59 paragraph 6, 60 paragraph 2 and 65 of the Human Research Act of 30 September 2011[^ingress-1] (HRA),
 
 ordains:
 
 [^ingress-1]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
-## Chapter 1: Research Ethics Committee
+## Chapter 1 Research Ethics Committee
 
 #### Art. 1
 
@@ -116,13 +116,14 @@ Members of the ethics committee shall withdraw from participation in cases where
 
 The ethics committee shall make decisions with the participation of three members on:
 
-- a. Category A clinical trials, as specified in Article 19 paragraph 1, Article 20 paragraph 1, Article 49 paragraph 1 and Article 61 paragraph 1 of the Ordinance of 20 September 2013[^6-1] on Clinical Trials (ClinO), provided that the trial does not raise any particular ethical, scientific or legal issues;
-- b. Category A research projects involving persons, as specified in Article 7 paragraph 1 of the Human Research Ordinance of 20 September 2013[^6-2];
+- a.[^6-1] Category A clinical trials, as specified in Article 19 paragraph 1, Article 20 paragraph 1, Article 49 paragraph 1 and Article 61 paragraph 1 of the Ordinance of 20 September 2013[^6-2] on Clinical Trials (ClinO), provided that the trial does not raise any particular ethical, scientific or legal issues;
+- a<sup>bis</sup>.[^6-3] clinical trials of devices in Subcategory A1 as referred to in Article 6 paragraph 1 of the Ordinance of 1 July 2020[^6-4] on Clinical Trials with Medical Devices, provided the trial does not raise any particular specific ethical, scientific or legal issues;
+- b. Category A research projects involving persons, as specified in Article 7 paragraph 1 of the Human Research Ordinance of 20 September 2013[^6-5];
 - c. the further use for research of biological material or health-related personal data in the absence of informed consent, in accordance with Article 34 HRA, provided that this does not raise any particular ethical, scientific or legal issues;
 - d. research projects involving deceased persons, with the exception of research projects involving deceased persons undergoing artificial respiration, as specified in Article 37 paragraph 2 HRA;
 - e. significant changes to authorised research projects, if they raise particular ethical, scientific or legal issues.
 
-<sup>2</sup> The group of three must comprise members from different disciplines specified in Article 1 paragraph 1.
+<sup>2</sup> The group of three must comprise members from different disciplines specified in Article 1.[^6-6]
 
 <sup>3</sup> The conduct of proceedings in writing is permissible if no members request oral deliberations.
 
@@ -133,8 +134,12 @@ The regular procedure shall be adopted if:
 - a. unanimous agreement is not reached; or
 - b. a request to this effect is made by a member of the group of three.
 
-[^6-1]: SR …
-[^6-2]: SR …
+[^6-1]: Amended by Annex No 3 of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^6-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^6-3]: Inserted by Annex 2 No 3 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^6-4]: SR **812.213.3**
+[^6-5]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^6-6]: Amended by Annex 2 No 3 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 #### Art. 7
 
@@ -168,7 +173,7 @@ The chair or vice-chair of the ethics committee shall make decisions on:
 
 The cantonal supervisory authority shall notify the coordination office as specified in Article 10 of the responsible ethics committee.
 
-## Chapter 2: Coordination Office
+## Chapter 2 Coordination Office
 
 #### Art. 10
 
@@ -190,7 +195,7 @@ In particular, the coordination office has the following duties:
 
 [^10-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
-## Chapter 3: Data Protection
+## Chapter 3 Data Protection
 
 #### Art. 11
 
@@ -239,7 +244,7 @@ In the absence of legislation that guarantees adequate protection, personal data
 - c. sufficient safeguards, in particular contractual clauses, ensure an adequate level of protection abroad; or
 - d. the data subject has consented in the particular case.
 
-## Chapter 4: Commencement
+## Chapter 4 Commencement
 
 #### Art. 13
 
