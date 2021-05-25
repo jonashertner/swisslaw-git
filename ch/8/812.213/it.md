@@ -1,0 +1,1864 @@
+---
+sr: "812.213"
+title: Ordinanza del 1° luglio 2020 relativa ai dispositivi medici (ODmed)
+short: ODmed
+eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
+language: it
+version: 2021-05-26
+adopted: 2020-07-01
+in_force: 2021-05-26
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2020-552-20210526-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20210526/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza relativa ai dispositivi medici
+
+(ODmed)
+
+del 1° luglio 2020 (Stato 26 maggio 2021)
+
+Il Consiglio federale svizzero,
+
+vista la legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer); visto l’articolo 21 numero 2 della legge del 24 giugno 1902[^ingress-2] sugli impianti elettrici; visto l’articolo 5 della legge federale del 17 giugno 2011[^ingress-3] sulla metrologia; visto l’articolo 4 capoverso 1 della legge federale del 12 giugno 2009[^ingress-4] sulla sicurezza dei prodotti; visto l’articolo 37 della legge del 22 marzo 1991[^ingress-5] sulla radioprotezione; in esecuzione della legge federale del 6 ottobre 1995[^ingress-6] sugli ostacoli tecnici al commercio,
+
+ordina:
+
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
+[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+
+## Capitolo 1: Disposizioni generali
+
+### Sezione 1: Campo d’applicazione ed eccezioni
+
+#### Art. 1
+
+**Campo d’applicazione**
+
+<sup>1</sup>
+
+La presente ordinanza si applica a:
+
+- a. dispositivi medici e loro accessori ai sensi dell’articolo 3;
+- b. gruppi di prodotti senza destinazione d’uso medica secondo l’allegato 1.
+
+<sup>2</sup> Nella presente ordinanza per *dispositivi* si intendono i dispositivi e prodotti di cui al capoverso 1.
+
+<sup>3</sup>
+
+La presente ordinanza si applica anche a:
+
+- a. dispositivi che, al momento dell’immissione in commercio o della messa in servizio, incorporano come parte integrante un medicamento avente un’azione accessoria a quella del dispositivo;
+- b. dispositivi destinati a somministrare un medicamento;
+- c.
+
+  dispositivi fabbricati:
+
+  - 1\. con tessuti o cellule di origine animale, o loro derivati, non vitali o resi non vitali,
+  - 2\. con derivati di tessuti o cellule di origine umana non vitali o resi non vitali;
+
+- d. dispositivi che, al momento dell’immissione in commercio o della messa in servizio, incorporano come parte integrante tessuti o cellule non vitali di origine umana o loro derivati, aventi un’azione accessoria a quella del dispositivo;
+- e. dispositivi che, al momento dell’immissione in commercio o della messa in servizio, incorporano come parte integrante un dispositivo medico-diagnostico in vitro; a questa parte integrante si applicano le disposizioni sui dispositivi medico-diagnostici in vitro.
+
+#### Art. 2
+
+**Eccezioni**
+
+La presente ordinanza non si applica a:
+
+- a. sangue umano, emoderivati, plasma o cellule ematiche di origine umana oppure dispositivi che, al momento dell’immissione in commercio o della messa in servizio, contengono tali emoderivati, plasma o cellule ematiche, ad eccezione dei dispositivi di cui all’articolo 1 capoverso 3 lettera a;
+- b. organi, tessuti o cellule vitali oppure espianti standardizzati di origine umana;
+- c. organi, tessuti o cellule vitali oppure espianti standardizzati di origine animale;
+- d. prodotti diversi da quelli di cui alle lettere a–c che contengono o sono costituiti da materiali biologici vitali o organismi vitali, compresi microrganismi, batteri, funghi o virus vivi, al fine di conseguire o contribuire alla destinazione d’uso del prodotto;
+- e. dispositivi medico-diagnostici in vitro; sono fatti salvi gli articoli 105 e 107;
+- f. combinazioni indivisibili derivanti da un dispositivo destinato a somministrare un medicamento e da un medicamento, che sono destinate a essere utilizzate esclusivamente in questa combinazione e non riutilizzabili;
+- g. combinazioni che, al momento dell’immissione in commercio o della messa in servizio, oltre al dispositivo incorporano come parte integrante un medicamento avente una funzione principale;
+- h. combinazioni che, al momento dell’immissione in commercio o della messa in servizio, oltre al dispositivo incorporano come parte integrante tessuti o cellule non vitali di origine umana, o loro derivati, aventi una funzione principale;
+- i. dispositivi medici che sono destinati unicamente all’uso veterinario o alla diagnostica veterinaria.
+
+<sup>2</sup> Nei casi di cui al capoverso 1 lettere f–h, per la parte della combinazione che è considerata dispositivo devono essere soddisfatti i requisiti generali di sicurezza e prestazione di cui all’articolo 6.
+
+### Sezione 2: Definizioni e rimandi al diritto europeo
+
+#### Art. 3
+
+**Dispositivo medico e accessorio di un dispositivo medico**
+
+<sup>1</sup>
+
+Sono considerati *dispositivi medici* strumenti, apparecchi, apparecchiature, software, impianti, reagenti, materiali o altri articoli:
+
+- a. che sono destinati dal fabbricante a essere impiegati sull’essere umano;
+- b. che non esercitano l’azione principale cui sono destinati nel o sul corpo umano con mezzi farmacologici, immunologici o metabolici, ma la cui funzione può essere coadiuvata da tali mezzi; e
+- c.
+
+  che da soli o in combinazione adempiono uno o più dei seguenti scopi medici specifici:
+
+  - 1\. diagnosi, prevenzione, monitoraggio, previsione, prognosi, trattamento o attenuazione di malattie,
+  - 2\. diagnosi, monitoraggio, trattamento, attenuazione o compensazione di una lesione o di una disabilità,
+  - 3\. studio, sostituzione o modifica dell’anatomia oppure di un processo o stato fisiologico o patologico,
+  - 4\. fornire informazioni attraverso l’esame in vitro di campioni provenienti dal corpo umano, inclusi organi, sangue e tessuti donati.
+
+<sup>2</sup>
+
+Sono considerati dispositivi medici anche:
+
+- a. dispositivi per il controllo del concepimento o il supporto al concepimento;
+- b. prodotti specificamente destinati alla pulizia, disinfezione o sterilizzazione dei dispositivi di cui all’articolo 1 capoverso 1 e al capoverso 1 del presente articolo.
+
+<sup>3</sup>
+
+Un *accessorio di un dispositivo medico* è un articolo che, pur non essendo esso stesso un dispositivo medico, è destinato dal fabbricante a essere utilizzato con uno o più dispositivi medici specifici:
+
+- a. per permettere che questi ultimi siano impiegati conformemente alla loro destinazione d’uso; oppure
+- b. per assistere specificamente e direttamente la funzionalità sul piano medico dei dispositivi medici in relazione alla loro destinazione d’uso.
+
+#### Art. 4
+
+**Altre definizioni**
+
+<sup>1</sup>
+
+Nella presente ordinanza si intende per:
+
+- a. *messa a disposizione sul mercato:* ogni consegna o cessione, a titolo oneroso o gratuito, di un dispositivo, diverso da un dispositivo oggetto di sperimentazione clinica, per la distribuzione, il consumo o l’uso sul mercato svizzero nel corso di un’attività commerciale;
+- b. *immissione in commercio:* la prima messa a disposizione di un dispositivo, diverso da un dispositivo oggetto di sperimentazione clinica, sul mercato svizzero;
+- c. *messa in servizio:* momento in cui un dispositivo pronto per l’uso, diverso da un dispositivo oggetto di sperimentazione clinica, è reso disponibile all’utilizzatore finale per essere utilizzato per la prima volta sul mercato svizzero secondo la sua destinazione d’uso;
+- d. *manutenzione:* misure quali assistenza tecnica, aggiornamenti di software, ispezione, riparazione, preparazione per il primo utilizzo e ricondizionamento per il riutilizzo, il mantenimento o il ripristino dello stato funzionante di un dispositivo;
+- e. *ricondizionamento**:* processo eseguito su un dispositivo usato per consentirne un riutilizzo sicuro, comprendente la pulizia, la disinfezione, la sterilizzazione e procedure simili, in particolare l’imballaggio, il trasporto e l’immagazzinamento, nonché i test e il ripristino della sicurezza tecnica e funzionale del dispositivo usato;
+- f. *fabbricante:* ogni persona fisica o giuridica che fabbrica o rimette a nuovo un dispositivo oppure lo fa progettare, fabbricare o rimettere a nuovo, e lo commercializza apponendovi il suo nome o marchio; sono fatte salve le precisazioni e le deroghe riportate all’articolo 16 paragrafi 1 e 2 del regolamento (UE) 2017/745[^4-1] relativo ai dispositivi medici (UE-MDR);
+- g. *mandatario:* ogni persona fisica o giuridica stabilita in Svizzera che riceve dal fabbricante, avente sede all’estero, un mandato scritto che la autorizza ad agire per conto del fabbricante in relazione a determinate attività per adempiere obblighi del fabbricante derivanti dalla presente ordinanza;
+- h. *importatore:* ogni persona fisica o giuridica stabilita in Svizzera che immette in commercio sul mercato svizzero un dispositivo proveniente dall’estero;
+- i. *distributore*: ogni persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall’importatore, che mette a disposizione sul mercato svizzero un dispositivo fino al momento della messa in servizio;
+- j. *operatore economico:* un fabbricante, un mandatario, un importatore, un distributore o la persona di cui all’articolo 22 paragrafi 1 e 3 UE-MDR;
+- k. *istituzione sanitaria:* organizzazione il cui fine principale è la cura o il trattamento di pazienti o la promozione della salute pubblica;
+- l. *ospedale:* istituzione sanitaria nella quale sono attuati mediante prestazioni mediche e infermieristiche e con degenza ospedaliera trattamenti di malattie oppure trattamenti di riabilitazione medica o interventi medici per scopi estetici;
+- m. *Stato contraente:* Stato vincolato al reciproco riconoscimento di valutazioni e procedure di conformità per dispositivi da una convenzione di diritto internazionale con la Svizzera basata sull’equivalenza delle legislazioni.
+
+<sup>2</sup> Si applicano inoltre le definizioni di cui all’articolo 2 punti 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 e 71 UE-MDR, tenendo conto delle modifiche alle definizioni di cui all’articolo 2 punti 18–21 UE-MDR che la Commissione europea apporta mediante atti delegati[^4-2].
+
+[^4-1]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio; GU L 117 del 5.5.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2020/561, GU L 130 del 24.4.2020, pag. 18.
+[^4-2]: Cfr. allegato 4.
+
+#### Art. 5
+
+**Rimandi al diritto europeo**
+
+<sup>1</sup> Le equivalenze terminologiche tra l’UE-MDR[^5-1] e la presente ordinanza figurano nell’allegato 2.
+
+<sup>2</sup> Se nella presente ordinanza si rimanda a disposizioni dell’UE-MDR che a loro volta rimandano ad altre disposizioni dell’UE-MDR o di altri atti dell’UE, si applicano anche tali disposizioni. Per i rimandi all’UE-MDR è determinante la versione inserita nella nota a piè di pagina relativa all’articolo 4 capoverso 1 lettera f; per i rimandi ad altri atti dell’UE è determinante la versione dell’atto in questione nell’allegato 3 numero 1. Sono fatti salvi i rimandi agli atti dell’UE elencati all’allegato 3 numero 2; in luogo di tali normative si applicano le disposizioni svizzere ivi elencate.
+
+[^5-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+## Capitolo 2: Messa a disposizione sul mercato e messa in servizio
+
+### Sezione 1: Requisiti
+
+#### Art. 6
+
+**Requisiti generali di sicurezza e prestazione**
+
+<sup>1</sup> Un dispositivo può essere immesso in commercio o messo in servizio solo se è conforme alla presente ordinanza qualora sia debitamente fornito e correttamente installato, oggetto di un’adeguata manutenzione e utilizzato conformemente alla sua destinazione d’uso.
+
+<sup>2</sup> Tenuto conto della loro destinazione d’uso, i dispositivi devono soddisfare i requisiti generali di sicurezza e prestazione di cui all’allegato I UE-MDR[^6-1].
+
+<sup>3</sup> Per la parte della combinazione che nei casi di cui all’articolo 2 lettere f–h è considerata dispositivo, la prova del rispetto dei requisiti del dispositivo deve poter essere presentata su richiesta all’autorità competente.
+
+<sup>4</sup> L’osservanza dei requisiti della presente ordinanza concretizzati in norme tecniche designate[^6-2], specifiche comuni o prescrizioni della farmacopea[^6-3] si ritiene adempiuta quando il dispositivo concorda con dette norme, specifiche o prescrizioni.
+
+<sup>5</sup> La presunzione di cui al capoverso 4 si applica anche al rispetto degli obblighi in materia di sistemi o processi imposti agli operatori economici dalla presente ordinanza, compresi quelli relativi ai sistemi di gestione della qualità, alla gestione del rischio, ai sistemi di sorveglianza post-commercializzazione, alle sperimentazioni cliniche, alla valutazione clinica o al *follow-up* clinico post-commercializzazione.
+
+<sup>6</sup> Le specifiche comuni di cui al capoverso 4 devono essere adempiute a meno che il fabbricante non possa adeguatamente dimostrare che le soluzioni da lui adottate garantiscono i requisiti di sicurezza e prestazione in modo equivalente. È fatto salvo l’articolo 8 capoverso 1.
+
+[^6-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^6-2]: Le norme elettrotecniche sono ottenibili presso l’Associazione Electrosuisse, Luppmenstrasse 1, 8320 Fehraltorf, www.electrosuisse.ch. Le altre norme sono ottenibili presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^6-3]: [RS 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+
+#### Art. 7
+
+**Vendite a distanza**
+
+<sup>1</sup> I dispositivi offerti mediante i servizi della società dell’informazione, segnatamente mediante un servizio online che soddisfa i requisiti di cui al capoverso 4, devono essere conformi ai requisiti della presente ordinanza.
+
+<sup>2</sup> Devono altresì soddisfare i requisiti della presente ordinanza i dispositivi non immessi in commercio, ma utilizzati nell’ambito di un’attività commerciale, a titolo oneroso o gratuito, per fornire servizi diagnostici o terapeutici offerti mediante i servizi della società dell’informazione o altri canali di comunicazione.
+
+<sup>3</sup> Chi offre un dispositivo ai sensi del capoverso 1 o fornisce un servizio secondo il capoverso 2 deve fornire all’Istituto svizzero per gli agenti terapeutici (Swissmedic), su richiesta, una copia della dichiarazione di conformità.
+
+<sup>4</sup>
+
+Un dispositivo si considera offerto mediante i servizi della società dell’informazione quando il servizio:
+
+- a. è prestato a distanza, vale a dire senza la presenza fisica simultanea delle parti contraenti;
+- b. avviene per via elettronica; e
+- c. avviene su richiesta individuale di un destinatario o del suo rappresentante.
+
+<sup>5</sup> Per la tutela della salute pubblica, Swissmedic può esigere da un fornitore di servizi della società dell’informazione che ponga fine alla sua attività in Svizzera.
+
+#### Art. 8
+
+**Requisiti specifici**
+
+<sup>1</sup> I dispositivi senza destinazione d’uso medica di cui all’articolo 1 capoverso 1 lettera b devono essere conformi alle specifiche comuni designate da Swissmedic.
+
+<sup>2</sup> I dispositivi che hanno una destinazione d’uso sia medica sia non medica devono adempiere i requisiti sia dei dispositivi con destinazione d’uso medica, sia dei dispositivi senza destinazione d’uso medica.
+
+<sup>3</sup> I dispositivi che sono anche macchine ai sensi dell’articolo 1 dell’ordinanza del 2 aprile 2008[^8-1] sulle macchine devono essere conformi ai pertinenti requisiti essenziali di sicurezza e di tutela della salute dell’ordinanza sulle macchine, purché tali requisiti siano più specifici di quelli di cui all’allegato I capo II UE-MDR[^8-2].
+
+[^8-1]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^8-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f .
+
+#### Art. 9
+
+**Dispositivi fabbricati e utilizzati in istituzioni sanitarie**
+
+<sup>1</sup> I dispositivi fabbricati e utilizzati esclusivamente in istituzioni sanitarie sono considerati messi in servizio. A tali dispositivi si applicano i pertinenti requisiti generali di sicurezza e prestazione secondo l’allegato I UE-MDR[^9-1], ma non gli altri requisiti della presente ordinanza, purché siano soddisfatti i presupposti di cui all’articolo 5 paragrafo 5 lettere a–h UE-MDR.
+
+<sup>2</sup> Il capoverso 1 non si applica ai dispositivi fabbricati su scala industriale.
+
+[^9-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 10
+
+**Dispositivi su misura**
+
+<sup>1</sup> Ai dispositivi su misura si applicano i requisiti secondo l’allegato XIII UE-MDR[^10-1]. La dichiarazione di cui all’allegato XIII punto 1 UE-MDR deve essere allegata al momento dell’immissione in commercio.
+
+<sup>2</sup> In aggiunta alla procedura di cui al capoverso 1, i fabbricanti di dispositivi su misura impiantabili della classe III devono eseguire una procedura di valutazione della conformità secondo l’allegato IX capo I UE-MDR. In alternativa possono optare per una valutazione della conformità secondo l’allegato XI parte A UE-MDR.
+
+<sup>3</sup> I fabbricanti devono elaborare e aggiornare la documentazione conformemente all’allegato XIII punto 2 UE-MDR e tenerla a disposizione delle autorità competenti.
+
+[^10-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 11
+
+**Sistemi e kit procedurali**
+
+<sup>1</sup> All’immissione in commercio di sistemi o kit procedurali si applicano i requisiti di cui agli articoli 22 e 29 paragrafo 2 UE-MDR[^11-1].
+
+<sup>2</sup> Chi sterilizza sistemi o kit procedurali ai fini dell’immissione in commercio deve applicare al processo di sterilizzazione una procedura di valutazione della conformità coinvolgendo un organismo di valutazione della conformità designato conformemente alla presente ordinanza oppure riconosciuto nel quadro di una convenzione internazionale (organismo designato). Le modalità sono rette dall’articolo 22 paragrafo 3 UE-MDR.
+
+<sup>3</sup>
+
+Chi immette in commercio sistemi o kit procedurali deve adempiere agli obblighi del fabbricante secondo gli articoli 46–50 e svolgere la pertinente procedura di valutazione della conformità secondo l’articolo 23, qualora tali sistemi o kit procedurali:
+
+- a. contengano dispositivi che non recano il marchio di conformità;
+- b. siano costituiti da una combinazione di dispositivi non compatibile con la destinazione d’uso originaria; o
+- c. non siano stati sterilizzati secondo le istruzioni del fabbricante.
+
+[^11-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 12
+
+**Parti e componenti**
+
+<sup>1</sup> Ogni persona fisica o giuridica che mette a disposizione sul mercato un articolo destinato a sostituire una parte o un componente identico o simile di un dispositivo difettoso o usurato al fine di mantenere o ripristinare la funzione di tale dispositivo senza modificarne le caratteristiche di sicurezza o prestazione o la sua destinazione d’uso, si assicura che l’articolo non comprometta la sicurezza e le prestazioni del dispositivo. Prove a tal sostegno devono essere tenute a disposizione delle autorità competenti.
+
+<sup>2</sup> Un articolo destinato a sostituire una parte o un componente di un dispositivo e che ne modifica sostanzialmente le caratteristiche di sicurezza o prestazione o la destinazione d’uso è considerato un dispositivo a sé stante e deve soddisfare i requisiti della presente ordinanza.
+
+#### Art. 13
+
+**Marchio di conformità e numero d’identificazione**
+
+<sup>1</sup> I dispositivi immessi in commercio in Svizzera o messi a disposizione sul mercato svizzero devono recare un marchio di conformità secondo l’allegato 5. È ammesso anche il marchio di conformità riportato nell’allegato V UE-MDR[^13-1].
+
+<sup>2</sup>
+
+Non è permesso apporre un marchio di conformità su:
+
+- a. dispositivi su misura;
+- b. dispositivi destinati esclusivamente a scopi di dimostrazione ed esposizione;
+- c. sistemi e kit procedurali;
+- d. dispositivi oggetto di sperimentazione clinica, fatto salvo l’articolo 6 dell’ordinanza del 1° luglio 2020[^13-2] sulle sperimentazioni cliniche con dispositivi medici;
+- e. dispositivi fabbricati e utilizzati in istituzioni sanitarie.
+
+<sup>3</sup> I dispositivi la cui conformità deve essere valutata da un organismo designato devono recare, oltre al marchio di conformità, il numero d’identificazione di tale organismo.
+
+[^13-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^13-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+
+#### Art. 14
+
+**Apposizione di marchi di conformità e numeri d’identificazione**
+
+<sup>1</sup> Il marchio di conformità e, se del caso, il numero d’identificazione devono essere apposti sul dispositivo oppure sul relativo imballaggio sterile.
+
+<sup>2</sup> Se le caratteristiche del dispositivo non consentono o non rendono appropriata tale apposizione, il marchio di conformità e, se del caso, il numero d’identificazione devono essere apposti sull’imballaggio.
+
+<sup>3</sup> Il marchio di conformità deve essere apposto anche sulle istruzioni per l’uso e sulla confezione commerciale.
+
+<sup>4</sup> All’apposizione del marchio di conformità si applicano inoltre i requisiti di cui all’articolo 20 paragrafi 3–6 UE-MDR[^14-1] nonché i principi generali di cui all’articolo 30 del regolamento (CE) n. 765/2008[^14-2].
+
+[^14-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^14-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 del Consiglio; versione della GU L 218 del 13.8.2008, pag. 30.
+
+### Sezione 2: Classificazione, etichettatura e identificazione del dispositivo
+
+#### Art. 15
+
+**Classificazione**
+
+<sup>1</sup> I dispositivi sono suddivisi nelle classi I, IIa, IIb e III in funzione della loro destinazione d’uso e dei rischi che essa comporta. Per la classificazione è determinante l’allegato VIII UE-MDR[^15-1].
+
+<sup>2</sup> La procedura per la risoluzione di controversie tra il fabbricante e un organismo designato riguardanti la classificazione di un dispositivo è retta dall’articolo 51 paragrafo 2 UE-MDR.
+
+[^15-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 16
+
+**Informazione sul dispositivo**
+
+<sup>1</sup> L’informazione sul dispositivo comprende l’etichettatura e le istruzioni per l’uso. È retta dall’allegato I capo III UE-MDR[^16-1].
+
+<sup>2</sup> L’informazione sul dispositivo deve essere redatta nelle tre lingue ufficiali. La formulazione linguistica può essere sostituita da simboli definiti in norme tecniche.
+
+<sup>3</sup>
+
+L’informazione sul dispositivo può limitarsi a meno di tre lingue ufficiali o può essere redatta solo in inglese purché:
+
+- a. il dispositivo sia dispensato esclusivamente a specialisti o si tratti di un dispositivo su misura o di un dispositivo fabbricato e utilizzato all’interno di un’istituzione sanitaria;
+- b. l’utilizzatore disponga dei necessari presupposti specialistici e linguistici e sia d’accordo con tale limitazione linguistica;
+- c. la tutela dei pazienti, degli utilizzatori e di terzi sia garantita; e
+- d. l’utilizzazione efficace e performante non sia a rischio.
+
+<sup>4</sup> Agli utilizzatori che ne fanno domanda devono essere fornite informazioni supplementari in una lingua ufficiale.
+
+<sup>5</sup> Nella presentazione e nell’informazione di un prodotto che non può o non può ancora essere immesso in commercio come dispositivo medico ma che può essere scambiato per tale deve essere indicato, in modo chiaramente visibile e facilmente leggibile, che il prodotto non è un dispositivo medico e che non è adatto a scopi medici.
+
+<sup>6</sup> I dispositivi destinati esclusivamente a scopi di dimostrazione ed esposizione devono essere espressamente designati come tali. L’indicazione deve essere chiaramente visibile e comprensibile.
+
+<sup>7</sup> Le indicazioni ingannevoli o contraddittorie su destinazione d’uso, sicurezza e prestazioni di un dispositivo sono vietate.
+
+[^16-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 17
+
+**Identificazione unica del dispositivo**
+
+<sup>1</sup> Prima dell’immissione in commercio, il fabbricante o la persona che assembla sistemi e kit procedurali secondo l’articolo 22 paragrafi 1 e 3 UE-MDR[^17-1] attribuisce al dispositivo, al sistema o al kit procedurale, eccettuati i dispositivi su misura, nonché a tutti i livelli esterni di imballaggio, un identificativo unico del dispositivo (UDI)[^17-2].[^17-3]
+
+<sup>2</sup> Appone l’UDI sull’etichetta del dispositivo, del sistema o del kit procedurale e su tutti i livelli esterni di imballaggio. I livelli esterni di imballaggio non comprendono i container di trasporto.[^17-4]
+
+<sup>3</sup> Il fabbricante o la persona che assembla sistemi e kit procedurali tiene un elenco di tutti gli UDI che attribuisce. L’elenco fa parte della documentazione tecnica di cui all’allegato II UE-MDR. Deve essere tenuto aggiornato.[^17-5]
+
+<sup>4</sup> Gli obblighi e le modalità connessi all’identificazione e alla registrazione dei dispositivi sono retti dagli articoli 27, 29 e dall’allegato VI UE-MDR, tenendo conto delle modifiche a tale allegato che la Commissione europea apporta mediante atti delegati[^17-6].
+
+<sup>5</sup> ...[^17-7]
+
+[^17-1]: Cfr. nota a piè di pagina relativa all’art 4 cpv. 1 lett. f.
+[^17-2]: Acronimo di «Unique Device Identification».
+[^17-3]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^17-4]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^17-5]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^17-6]: Cfr. allegato 4.
+[^17-7]: Non ancora in vigore (art. 110 cpv. 2).
+
+### Sezione 3: Obblighi di notifica e informazioni
+
+#### Art. 18
+
+**Obbligo di notifica per l’utilizzo di dispositivi fabbricati in istituzioni sanitarie**
+
+<sup>1</sup>
+
+Le istituzioni sanitarie che fabbricano e utilizzano dispositivi secondo l’articolo 9 devono comunicare a Swissmedic prima della messa in servizio:
+
+- a. nome e indirizzo dell’istituzione sanitaria;
+- b. nome e destinazione d’uso del dispositivo;
+- c. classe di rischio del dispositivo secondo l’articolo 15 capoverso 1.
+
+<sup>2</sup> Tutte le altre indicazioni pertinenti su tali dispositivi devono essere fornite a Swissmedic su richiesta. La dichiarazione di cui all’articolo 5 paragrafo 5 lettera e UE-MDR[^18-1] deve essere messa a disposizione del pubblico.
+
+<sup>3</sup> Le modifiche alle indicazioni di cui al capoverso 1 devono essere notificate a Swissmedic entro 30 giorni.
+
+<sup>4</sup> In base al rischio intrinseco del dispositivo e della sua utilizzazione, Swissmedic può esentare dall’obbligo di notifica di cui al capoverso 1 i dispositivi fabbricati e utilizzati secondo l’articolo 9.
+
+[^18-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 19
+
+**Obbligo di notifica per chi mette a disposizione sul mercato dispositivi su misura**
+
+<sup>1</sup>
+
+Chi mette a disposizione sul mercato in Svizzera dispositivi su misura deve comunicare a Swissmedic prima della messa a disposizione:
+
+- a. nome e indirizzo del fabbricante e di tutti i luoghi di fabbricazione;
+- b. nome e indirizzo dell’eventuale mandatario;
+- c. i codici necessari per identificare le corrispondenti categorie di dispositivi definiti dalla Commissione europea mediante atti di esecuzione[^19-1].
+
+<sup>2</sup> Le modifiche a tali indicazioni devono essere comunicate a Swissmedic entro 30 giorni dalla modifica.
+
+<sup>3</sup> In base al rischio intrinseco del dispositivo e della sua utilizzazione, Swissmedic può esentare dall’obbligo di notifica di cui al capoverso 1 i dispositivi su misura.
+
+[^19-1]: Cfr. allegato 4.
+
+#### Art. 20
+
+**Informazioni sui dispositivi impiantabili**
+
+<sup>1</sup> Per i dispositivi impiantabili il fabbricante deve fornire, in aggiunta alle informazioni sul dispositivo di cui all’articolo 16, le indicazioni e le informazioni di cui all’articolo 18 paragrafo 1 UE-MDR[^20-1], inclusa la tessera per il portatore di impianto. Valgono le deroghe di cui all’articolo 18 paragrafo 3 UE-MDR, tenendo conto delle modifiche che la Commissione europea apporta mediante atti delegati[^20-2].
+
+<sup>2</sup> La tessera per il portatore di impianto deve essere redatta nelle tre lingue ufficiali.
+
+<sup>3</sup> Le istituzioni sanitarie riportano nella tessera per il portatore di impianto le indicazioni sull’identità della persona cui viene impiantato un dispositivo e consegnano la tessera alla persona interessata. Mettono a disposizione di quest’ultima le indicazioni necessarie in una forma accessibile rapidamente.
+
+[^20-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^20-2]: Cfr. allegato 4.
+
+## Capitolo 3: Valutazione, certificato e dichiarazione di conformità
+
+### Sezione 1: Valutazione della conformità
+
+#### Art. 21
+
+**Principio**
+
+<sup>1</sup> Chi, avendo sede in Svizzera, mette dispositivi a disposizione sul mercato in Svizzera o in uno Stato contraente, deve presentare alle autorità competenti per il controllo nel quadro della sorveglianza del mercato, su richiesta, la dichiarazione di conformità.
+
+<sup>2</sup> Chi, avendo sede in Svizzera, immette in commercio o, senza immissione in commercio, mette in servizio in Svizzera o in uno Stato contraente un dispositivo, deve, prima dell’immissione in commercio o della messa in servizio, eseguire e poter dimostrare una valutazione della conformità ai requisiti generali di sicurezza e prestazione.
+
+<sup>3</sup> La prova del rispetto dei requisiti generali di sicurezza e prestazione comprende anche una valutazione clinica conformemente all’articolo 61 UE-MDR[^21-1].
+
+[^21-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 22
+
+**Deroghe**
+
+<sup>1</sup>
+
+Swissmedic può autorizzare, su richiesta motivata, l’immissione in commercio o la messa in servizio di un dispositivo specifico il cui impiego è nell’interesse della salute pubblica o della sicurezza o salute dei pazienti, sebbene:
+
+- a. la pertinente procedura di valutazione della conformità secondo l’articolo 23 non sia stata svolta; oppure
+- b. i requisiti linguistici secondo l’articolo 16 capoverso 2 non siano adempiuti.
+
+<sup>2</sup>
+
+Singoli dispositivi per i quali la pertinente procedura di valutazione della conformità non è stata svolta possono essere immessi in commercio e applicati senza autorizzazione di Swissmedic, se:
+
+- a. servono a rimediare a situazioni di pericolo di morte o a disturbi permanenti di una funzione fisiologica;
+- b. non è disponibile alcun dispositivo conforme per quella determinata indicazione;
+- c. sono applicati esclusivamente da persone esercitanti una professione medica su singole persone;
+- d. la persona esercitante una professione medica che applica il dispositivo ha informato la singola persona interessata della non conformità del dispositivo e dei relativi rischi; e
+- e. la singola persona interessata ha acconsentito all’applicazione del dispositivo.
+
+<sup>3</sup> Per i dispositivi destinati a essere immessi in commercio esclusivamente all’interno dell’esercito o nel quadro dei suoi compiti speciali, il Dipartimento federale dell’interno (DFI), d’intesa con il Dipartimento federale della difesa, della protezione della popolazione e dello sport, può concedere deroghe.
+
+#### Art. 23
+
+**Procedura**
+
+La procedura di valutazione della conformità è retta dagli articoli 52 e 54 nonché dagli allegati IX–XI UE-MDR[^23-1], tenendo conto delle modifiche all’articolo 52 paragrafo 4 secondo comma UE-MDR che la Commissione europea apporta mediante atti delegati[^23-2].
+
+[^23-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^23-2]: Cfr. allegato 4.
+
+#### Art. 24
+
+**Ricorso a un organismo designato**
+
+<sup>1</sup> Se si fa ricorso a un organismo designato, tutte le indicazioni necessarie per la valutazione della conformità devono essere messe a disposizione di tale organismo.
+
+<sup>2</sup> Il fabbricante non può presentare parallelamente a più organismi designati in Svizzera o in uno Stato contraente domanda per lo svolgimento di una procedura di valutazione della conformità per lo stesso dispositivo.
+
+<sup>3</sup> Chi presenta domanda a un organismo designato deve dichiarare a quest’ultimo se ha ritirato una domanda presentata a un altro organismo designato, in Svizzera o in uno Stato contraente, prima che detto organismo prendesse una decisione al riguardo o se la domanda è stata respinta da un altro organismo designato in Svizzera o in uno stato contraente.
+
+<sup>4</sup> Se un fabbricante ritira la sua domanda per lo svolgimento di una procedura di valutazione della conformità prima della decisione dell’organismo designato in merito alla valutazione della conformità, l’organismo designato interessato ne informa Swissmedic e gli altri organismi designati.
+
+<sup>5</sup> L’informazione di cui al capoverso 4 deve avvenire esclusivamente tramite Eudamed.
+
+<sup>6</sup> In caso di cambio volontario dell’organismo designato occorre osservare i requisiti di cui all’articolo 58 UE-MDR[^24-1].
+
+[^24-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+### Sezione 2: Certificato di conformità
+
+#### Art. 25
+
+**Rilascio e contenuto**
+
+<sup>1</sup> Gli organismi designati rilasciano i certificati di conformità secondo gli allegati IX–XI UE-MDR[^25-1] (certificati).
+
+<sup>2</sup> I certificati devono essere redatti in una delle tre lingue ufficiali o in inglese.
+
+<sup>3</sup> I certificati devono contenere almeno le indicazioni di cui all’allegato XII UE-MDR, tenendo conto delle modifiche a tale allegato che la Commissione europea apporta mediante atti delegati[^25-2].
+
+<sup>4</sup>
+
+I certificati che sono rilasciati da organi designati ai sensi del diritto dell’UE con sede in uno Stato UE o SEE e che non sono riconosciuti mediante un accordo internazionale sono equiparati ai certificati di organi svizzeri, se può essere reso verosimile che:
+
+- a. le procedure di valutazione della conformità applicate soddisfano i requisiti svizzeri; ed
+- b. essi sono rilasciati da un organo che dispone di una qualificazione equivalente a quella richiesta in Svizzera.[^25-3]
+
+[^25-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^25-2]: Cfr. allegato 4.
+[^25-3]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+#### Art. 26
+
+**Durata di validità**
+
+<sup>1</sup> I certificati sono validi al massimo per cinque anni. La durata di validità è stabilita nel certificato.
+
+<sup>2</sup> Su domanda del fabbricante, la validità del certificato può essere prorogata al massimo per cinque anni, sulla base di una nuova valutazione secondo la pertinente procedura di valutazione della conformità. Il certificato può essere prorogato più volte.
+
+<sup>3</sup> Ogni integrazione del certificato rimane valida finché è valido il certificato cui si riferisce.
+
+#### Art. 27
+
+**Sospensione, limitazione e revoca**
+
+<sup>1</sup> Qualora constati che il fabbricante non rispetta più i requisiti della presente ordinanza, l’organismo designato gli fissa un congruo termine per il ripristino della conformità ai requisiti.
+
+<sup>2</sup> Se il termine scade senza che il fabbricante abbia adottato le opportune azioni correttive, l’organismo designato sospende o revoca il certificato rilasciato o impone una limitazione.
+
+<sup>3</sup> Un certificato sospeso, revocato o modificato da parte di un organismo designato non può più essere utilizzato nella sua forma originaria.
+
+#### Art. 28
+
+**Obbligo di documentazione**
+
+<sup>1</sup>
+
+L’organo designato notifica a Swissmedic e agli altri organi designati:[^28-1]
+
+- a. tutte le informazioni riguardanti i certificati rilasciati, comprese le modifiche e le integrazioni;
+- b. le indicazioni riguardanti i certificati sospesi, resi nuovamente validi o revocati;
+- c. le indicazioni riguardanti i certificati rifiutati;
+- d. le indicazioni sulle limitazioni imposte sui certificati.
+
+<sup>2</sup> Esso notifica a Swissmedic anche l’informazione sulla necessità o meno di applicare una procedura di valutazione della conformità secondo l’articolo 54 paragrafo 1 UE-MDR[^28-2]. Le notifiche inerenti ai certificati di dispositivi per i quali è stata svolta una tale procedura devono contenere i documenti di cui all’articolo 55 paragrafo 1 UE-MDR.[^28-3]
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^28-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^28-3]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+### Sezione 3: Dichiarazione di conformità
+
+#### Art. 29
+
+<sup>1</sup> Se nell’ambito della procedura di valutazione della conformità applicabile è stato dimostrato l’adempimento dei requisiti della presente ordinanza, il fabbricante di dispositivi, diversi dai dispositivi su misura o oggetto di sperimentazione clinica, redige una dichiarazione di conformità. Egli aggiorna costantemente tale dichiarazione.
+
+<sup>2</sup> La dichiarazione di conformità riporta le indicazioni di cui all’allegato IV UE-MDR[^29-1], tenendo conto delle modifiche a tale allegato che la Commissione europea apporta mediante atti delegati[^29-2]. Deve essere redatta o tradotta in una delle tre lingue ufficiali o in inglese.
+
+<sup>3</sup> Se i dispositivi, per aspetti non contemplati dalla presente ordinanza, sono disciplinati da altre legislazioni che richiedono anch’esse una dichiarazione di conformità del fabbricante attestante il rispetto dei requisiti ivi stabiliti, è redatta un’unica dichiarazione di conformità.
+
+<sup>4</sup> Con la redazione della dichiarazione di conformità il fabbricante si assume la responsabilità che il dispositivo rispetti i requisiti della presente ordinanza e di tutte le altre legislazioni valide per il dispositivo.
+
+[^29-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^29-2]: Cfr. allegato 4.
+
+## Capitolo 4: Requisiti per tessuti e cellule di origine umana contenuti in dispositivi o utilizzati per la fabbricazione di dispositivi
+
+#### Art. 30
+
+**Autorizzazione d’esercizio**
+
+<sup>1</sup>
+
+Necessita di un’autorizzazione d’esercizio da parte di Swissmedic chi:
+
+- a. preleva da esseri umani tessuti o cellule per devitalizzarli e per utilizzarli nella fabbricazione di dispositivi o cederli a tale scopo;
+- b. immagazzina tessuti o cellule prelevati secondo la lettera a;
+- c. importa o esporta tessuti o cellule prelevati secondo la lettera a.
+
+<sup>2</sup>
+
+L’autorizzazione è rilasciata se:
+
+- a. sono soddisfatte le necessarie condizioni relative alle qualifiche professionali e all’azienda;
+- b. esiste un sistema di garanzia della qualità corrispondente allo stato della scienza e della tecnica;
+- c. l’azienda dispone di un responsabile tecnico con le conoscenze specifiche e l’esperienza necessarie, il quale è autorizzato a emanare istruzioni nel suo campo d’attività e risponde della qualità;
+- d. sono rispettati gli obblighi di cui agli articoli 31 e 32.
+
+<sup>3</sup> Swissmedic verifica mediante ispezione che siano soddisfatti i presupposti necessari per l’autorizzazione.
+
+<sup>4</sup> Alla procedura di autorizzazione si applicano per analogia gli articoli 39–43 dell’ordinanza del 14 novembre 2018[^30-1] sull’autorizzazione dei medicamenti (OAMed).
+
+[^30-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+
+#### Art. 31
+
+**Prelievo, donazione e test**
+
+<sup>1</sup> I requisiti per il prelievo, la donazione e i test sono retti per analogia dagli articoli 3, 4, 6–15 e 30–33 della legge dell’8 ottobre 2004[^31-1] sui trapianti e dagli articoli 2–12 dell’ordinanza del 16 marzo 2007[^31-2] sui trapianti.
+
+<sup>2</sup> Il titolare dell’autorizzazione di cui all’articolo 30 deve verificare l’idoneità del donatore.
+
+[^31-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^31-2]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+
+#### Art. 32
+
+**Obbligo di registrazione e tracciabilità**
+
+<sup>1</sup> Qualsiasi tessuto o cellula prelevato da un essere umano ai fini della devitalizzazione e utilizzato in un dispositivo deve poter essere rintracciato dal donatore al ricevente e viceversa. Si applica per analogia l’articolo 35 capoversi 1 e 2 OAMed[^32-1].
+
+<sup>2</sup> Per il resto, la tracciabilità è retta per analogia dagli articoli 34 e 35 della legge dell’8 ottobre 2004[^32-2] sui trapianti.
+
+[^32-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^32-2]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+
+## Capitolo 5: Organismi designati
+
+### Sezione 1: Designazione
+
+#### Art. 33
+
+**Presupposti e domanda**
+
+<sup>1</sup> Swissmedic designa soltanto gli organismi di valutazione della conformità che hanno svolto una procedura di valutazione secondo l’articolo 34 e soddisfano i presupposti di cui all’allegato VII UE-MDR[^33-1].
+
+<sup>2</sup>
+
+La domanda di designazione deve essere presentata a Swissmedic. Essa deve contenere in particolare:
+
+- a. le attività e i tipi di dispositivi per i quali è chiesta la designazione;
+- b. la prova che siano soddisfatti i presupposti di cui all’allegato VII UE-MDR.
+
+<sup>3</sup> Entro 30 giorni Swissmedic verifica se la domanda di designazione è completa e sollecita il richiedente a presentare ogni informazione mancante.
+
+<sup>4</sup> Swissmedic esamina la domanda e la documentazione allegata e redige un rapporto di valutazione preliminare.
+
+[^33-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 34
+
+**Valutazione**
+
+<sup>1</sup> Swissmedic svolge una valutazione in loco dell’organismo di valutazione della conformità e, se pertinente, di tutti i subcontraenti e le società controllate.
+
+<sup>2</sup> Se nella valutazione constata delle lacune, ne redige un elenco per l’organismo di valutazione della conformità richiedente. Stabilisce il termine entro cui l’organismo deve sottoporre a Swissmedic un piano d’azione correttivo destinato a sanare le lacune e un piano d’azione preventivo.
+
+<sup>3</sup> Nei piani devono essere indicati i motivi principali delle lacune rilevate e un termine per l’attuazione delle azioni.
+
+<sup>4</sup> Swissmedic decide se le azioni proposte sono adeguate e se il termine previsto è appropriato.
+
+#### Art. 35
+
+**Rapporto di valutazione**
+
+<sup>1</sup> Se approva i piani di cui all’articolo 34 capoverso 2, Swissmedic redige un rapporto di valutazione.
+
+<sup>2</sup>
+
+Il rapporto include quanto segue:
+
+- a. i risultati della valutazione;
+- b. la conferma che azioni correttive e preventive appropriate sono previste e all’occorrenza attuate;
+- c. il campo d’applicazione della designazione.
+
+#### Art. 36
+
+**Rilascio ed estensione della designazione**
+
+<sup>1</sup> Swissmedic rilascia la designazione qualora l’organismo di valutazione della conformità soddisfi i presupposti.
+
+<sup>2</sup> L’estensione di una designazione è retta dai presupposti e dalle procedure secondo gli articoli 33–35.
+
+#### Art. 37
+
+**Subcontraenti e società controllate**
+
+<sup>1</sup> Gli organismi designati che assegnano una parte del lavoro a subcontraenti oppure la delegano a una società controllata si assumono la piena responsabilità dei lavori svolti a loro nome dai subcontraenti o dalla società controllata.
+
+<sup>2</sup> Essi garantiscono che il subcontraente o la società controllata soddisfi i presupposti secondo l’allegato VII UE-MDR[^37-1].
+
+<sup>3</sup> Essi informano Swissmedic dell’avvenuta assegnazione o delega secondo il capoverso 1. Nei confronti di Swissmedic devono poter attestare che il subcontraente o la società controllata è in grado di svolgere i compiti affidati.
+
+<sup>4</sup> L’assegnazione o delega può avvenire solo se l’organismo designato ha adeguatamente informato la persona giuridica o fisica che ha richiesto la valutazione della conformità.
+
+<sup>5</sup> Gli organismi designati pubblicano un elenco delle loro società controllate.
+
+[^37-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 38
+
+**Obbligo di collaborazione e notifica**
+
+<sup>1</sup> Gli organismi designati, inclusi le loro società controllate e i loro subcontraenti, sono tenuti a mettere a disposizione di Swissmedic in qualunque momento tutti i dati necessari per la valutazione, la designazione, la sorveglianza e la rivalutazione, compresi i documenti necessari per valutare la qualificazione dei subcontraenti o delle società controllate. I dati devono essere costantemente aggiornati.
+
+<sup>2</sup> Gli organismi designati notificano a Swissmedic, entro 15 giorni, qualsiasi modifica che si ripercuota sull’adempimento dei presupposti di cui all’allegato VII UE-MDR[^38-1] o sulla capacità di svolgere valutazioni della conformità.
+
+[^38-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 39
+
+**Tariffe**
+
+Gli organismi designati stabiliscono elenchi delle tariffe standard per le loro attività e li rendono accessibili al pubblico.
+
+### Sezione 2: Cessazione dell’attività di valutazione della conformità
+
+#### Art. 40
+
+<sup>1</sup> Se cessa le sue attività di valutazione della conformità, l’organismo designato ne informa Swissmedic e i fabbricanti interessati il più presto possibile. La comunicazione deve avvenire un anno prima della cessazione delle attività nel caso in cui la cessazione sia stata programmata. Swissmedic revoca la designazione a far tempo dalla cessazione delle attività.
+
+<sup>2</sup> I certificati rimangono validi durante nove mesi al massimo dalla cessazione delle attività purché un altro organismo designato si assuma la responsabilità per i certificati dei dispositivi in questione e ne dia conferma per scritto.
+
+<sup>3</sup> L’organismo designato che assume la responsabilità secondo il capoverso 2 svolge una valutazione integrale dei dispositivi in questione entro il termine indicato di nove mesi prima di rilasciare nuovi certificati per tali dispositivi.
+
+### Sezione 3: Sospensione, limitazione o revoca della designazione
+
+#### Art. 41
+
+**Principio**
+
+<sup>1</sup>
+
+La designazione è sospesa, limitata o revocata se l’organismo designato:
+
+- a. non soddisfa più o soddisfa solo parzialmente i necessari presupposti; oppure
+- b. non attua le azioni correttive disposte da Swissmedic.
+
+<sup>2</sup> La sospensione è pronunciata per 12 mesi al massimo e può essere prorogata di altri 12 mesi al massimo.
+
+<sup>3</sup> L’organismo designato la cui designazione è sospesa, limitata o revocata deve informarne entro dieci giorni tutti i fabbricanti interessati.
+
+#### Art. 42
+
+**Certificati rilasciati indebitamente**
+
+<sup>1</sup> In caso di limitazione, sospensione o revoca di una designazione, l’organismo designato sospende o revoca tutti i certificati rilasciati indebitamente.
+
+<sup>2</sup> Se l’organismo designato non adempie tale obbligo, Swissmedic gli ordina di sospendere o di revocare i certificati e gli fissa a tal fine un termine appropriato.
+
+#### Art. 43
+
+**Validità dei certificati in caso di sospensione o limitazione della designazione**
+
+<sup>1</sup>
+
+Se Swissmedic sospende o limita la designazione di un organismo designato, i certificati in questione rimangono validi se Swissmedic:
+
+- a. conferma entro un mese che in relazione ai certificati in questione non sussistono problemi di sicurezza; e
+- b. indica le azioni e un relativo programma d’attuazione che portano alla revoca della sospensione o della limitazione.
+
+<sup>2</sup>
+
+I certificati rimangono parimenti validi se Swissmedic:
+
+- a. conferma che durante il periodo di sospensione o di limitazione non sono rilasciati, modificati o rinnovati certificati interessati dalla sospensione; e
+- b. indica che l’organismo designato è in grado di continuare a controllare e a rimanere responsabile dei certificati esistenti durante il periodo della sospensione o della limitazione.
+
+<sup>3</sup> L’organismo designato informa i fabbricanti interessati o le persone che immettono in commercio i dispositivi in questione.
+
+<sup>4</sup>
+
+Se Swissmedic constata che l’organismo designato non è in grado di mantenere il controllo sui certificati esistenti, questi ultimi rimangono validi se il fabbricante del dispositivo in questione conferma per scritto a Swissmedic o all’autorità competente dello Stato contraente in cui il fabbricante ha la propria sede, entro tre mesi dalla sospensione o dalla limitazione della designazione, che:
+
+- a. un altro organismo designato qualificato assume temporaneamente i compiti di sorveglianza; e
+- b. questi è responsabile dei certificati durante il periodo di sospensione o di limitazione.
+
+#### Art. 44
+
+**Validità dei certificati in caso di revoca della designazione**
+
+<sup>1</sup>
+
+Se Swissmedic revoca la designazione di un organismo designato, i certificati in questione rimangono validi durante nove mesi se:
+
+- a. Swissmedic o, nel caso in cui il fabbricante abbia la sua sede in uno Stato contraente, l’autorità ivi competente conferma che i dispositivi in questione non comportano problemi di sicurezza; e
+- b. un altro organismo designato conferma per scritto di assumersi immediatamente la responsabilità per i certificati di questi dispositivi e di poter completare la valutazione degli stessi entro 12 mesi dalla revoca della designazione.
+
+<sup>2</sup> Nei limiti delle sue competenze, Swissmedic può prorogare ogni volta di tre mesi, ma al massimo complessivamente di 12 mesi, la validità provvisoria dei certificati.
+
+### Sezione 4: Sorveglianza e rivalutazione degli organismi designati
+
+#### Art. 45
+
+<sup>1</sup> Swissmedic sorveglia gli organismi designati come pure le loro società controllate e i loro subcontraenti e svolge rivalutazioni. Nella sorveglianza e nella rivalutazione degli organismi designati nonché nel riesame delle loro valutazioni, Swissmedic si basa sui presupposti e le procedure di cui agli articoli 44 e 45 UE-MDR[^45-1].
+
+<sup>2</sup> Swissmedic esamina tre anni dopo la designazione di un organismo designato e in seguito ogni quattro anni, nell’ambito di una completa rivalutazione, se l’organismo designato continua a soddisfare i presupposti di cui all’articolo 36 paragrafo 1 e all’allegato VII UE-MDR. Sono fatte salve le modifiche delle frequenze che la Commissione europea apporta mediante atti delegati[^45-2].
+
+<sup>3</sup> Swissmedic esamina almeno una volta l’anno con una valutazione in loco se gli organismi designati, e se del caso le loro società controllate e i loro subcontraenti, soddisfano i presupposti e gli obblighi di cui all’allegato VII UE-MDR.
+
+<sup>4</sup>
+
+A tal fine Swissmedic può, in ogni tempo:
+
+- a. procedere a valutazioni in loco, con o senza preavviso;
+- b. svolgere audit del personale dell’organismo designato, delle sue società controllate o dei suoi subcontraenti oppure sovrintendere ad audit che l’organismo designato svolge nei locali dei fabbricanti.
+
+[^45-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^45-2]: Cfr. allegato 4.
+
+## Capitolo 6: Prescrizioni per gli operatori economici
+
+### Sezione 1: Fabbricante
+
+#### Art. 46
+
+**Apposizione del marchio di conformità e valutazione clinica**
+
+<sup>1</sup> All’atto dell’immissione in commercio o della messa in servizio dei sui dispositivi, il fabbricante garantisce che siano stati progettati e fabbricati conformemente ai requisiti della presente ordinanza.
+
+<sup>2</sup> Il fabbricante appone sui suoi dispositivi il marchio di conformità.
+
+<sup>3</sup> Il fabbricante effettua una valutazione clinica secondo l’articolo 61 UE-MDR[^46-1], tenendo conto delle modifiche a tale articolo che la Commissione europea apporta mediante atti delegati[^46-2], nonché secondo l’allegato XIV UE-MDR. Tiene aggiornata la valutazione clinica in funzione dei risultati del *follow-up* clinico post-commercializzazione.
+
+[^46-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^46-2]: Cfr. allegato 4.
+
+#### Art. 47
+
+**Documentazione tecnica**
+
+<sup>1</sup> Il fabbricante deve menzionare nella documentazione tecnica le indicazioni di cui agli allegati II e III UE-MDR[^47-1], tenendo conto delle modifiche a tali allegati che la Commissione europea apporta mediante atti delegati[^47-2].
+
+<sup>2</sup> Su richiesta dell’autorità competente il fabbricante fornisce la documentazione tecnica completa o una sua sintesi.
+
+[^47-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^47-2]: Cfr. allegato 4.
+
+#### Art. 48
+
+**Obbligo di conservazione**
+
+<sup>1</sup>
+
+Il fabbricante tiene a disposizione dell’autorità competente per un periodo di almeno dieci anni dall’immissione in commercio dell’ultimo dispositivo oggetto della dichiarazione di conformità:
+
+- a. la documentazione tecnica completa;
+- b. la dichiarazione di conformità;
+- c. una copia dei certificati rilasciati, comprese le eventuali modifiche e integrazioni.
+
+<sup>2</sup> Per i dispositivi impiantabili il periodo di conservazione è di almeno 15 anni dall’immissione in commercio dell’ultimo dispositivo.
+
+#### Art. 49
+
+**Persona responsabile del rispetto delle prescrizioni**
+
+<sup>1</sup> Il fabbricante, all’interno della sua organizzazione, deve disporre di almeno una persona responsabile del rispetto delle prescrizioni che possieda le competenze necessarie nel settore dei dispositivi medici.
+
+<sup>2</sup> La prova delle competenze necessarie della persona responsabile del rispetto delle prescrizioni, la sua responsabilità nonché le deroghe e le ulteriori modalità sono rette dall’articolo 15 UE-MDR[^49-1].
+
+<sup>3</sup> Deve essere garantita la supplenza della persona responsabile del rispetto delle prescrizioni. Qualora più persone siano congiuntamente responsabili del rispetto delle prescrizioni, i rispettivi ambiti di competenza devono essere stabiliti per scritto.
+
+<sup>4</sup> La persona responsabile del rispetto delle prescrizioni non deve subire alcuno svantaggio all’interno dell’organizzazione del fabbricante in relazione alla corretta esecuzione dei propri compiti, indipendentemente dal fatto che sia o non sia un dipendente dell’organizzazione.
+
+[^49-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 50
+
+**Altri obblighi**
+
+Gli altri obblighi del fabbricante, in particolare i requisiti dei sistemi di gestione della qualità e di gestione del rischio, sono retti dall’articolo 10 UE-MDR[^50-1].
+
+[^50-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+### Sezione 2: Mandatario
+
+#### Art. 51
+
+**Obblighi**
+
+<sup>1</sup> Se il fabbricante non ha sede in Svizzera, i suoi dispositivi possono essere immessi in commercio solo se il fabbricante ha designato un mandatario con sede in Svizzera. Il mandato deve essere convenuto per scritto.
+
+<sup>2</sup> Il mandatario si occupa delle questioni formali e legate alla sicurezza inerenti all’immissione in commercio del dispositivo.
+
+<sup>3</sup> I suoi diritti e doveri nonché la portata del mandato sono retti dall’articolo 11 UE-MDR[^51-1].
+
+<sup>3bis</sup> Il fabbricante e il mandatario possono concordare contrattualmente che la documentazione tecnica non sia mantenuta a disposizione in copia presso il mandatario, bensì trasmessa, su richiesta, direttamente a Swissmedic dal fabbricante. Il mandatario deve assicurare che la trasmissione a Swissmedic avvenga entro sette giorni.[^51-2]
+
+<sup>4</sup> Il cambio di mandatario è retto dall’articolo 12 UE-MDR.
+
+<sup>5</sup> I capoversi 1–4 si applicano per analogia anche alle persone che assemblano sistemi e kit procedurali secondo l’articolo 22 paragrafi 1 e 3 UE-MDR e che non hanno sede in Svizzera.[^51-3]
+
+[^51-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^51-2]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^51-3]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+#### Art. 52
+
+**Persona responsabile del rispetto delle prescrizioni**
+
+<sup>1</sup> Il mandatario deve poter disporre in maniera permanente e continuativa di almeno una persona responsabile del rispetto delle prescrizioni che possieda le competenze necessarie sui requisiti applicabili ai dispositivi medici secondo la presente ordinanza.
+
+<sup>2</sup> Per il resto si applica per analogia l’articolo 49 capoversi 2–4.
+
+### Sezione 3: Importatore
+
+#### Art. 53
+
+<sup>1</sup>
+
+L’importatore può immettere in commercio soltanto dispositivi conformi alla presente ordinanza. Prima dell’immissione in commercio verifica se:
+
+- a. il marchio di conformità è apposto sul dispositivo;
+- b. la dichiarazione di conformità esiste;
+- c. il fabbricante è identificato e se questi ha designato un mandatario conformemente all’articolo 51;
+- d. il dispositivo è etichettato conformemente alla presente ordinanza e corredato delle istruzioni per l’uso;
+- e. il fabbricante, laddove necessario, ha attribuito un UDI al dispositivo.
+
+<sup>2</sup> L’importatore indica sul dispositivo, sul suo imballaggio o in un documento che accompagna il dispositivo il suo nome, la sua sede e l’indirizzo al quale può essere contattato.
+
+<sup>3</sup> L’importatore, se ritiene o ha motivo di credere che un dispositivo non sia conforme ai requisiti della presente ordinanza, non può immettere in commercio il dispositivo in questione fino a quando non venga reso conforme.
+
+<sup>4</sup>
+
+Gli altri obblighi dell’importatore prima e dopo l’immissione in commercio di un dispositivo sono retti dagli articoli 13 e 16 paragrafi 3 e 4 UE-MDR[^53-1]. Devono in particolare essere rispettati gli obblighi riguardanti:
+
+- a. l’immagazzinamento e il trasporto nonché il sistema di gestione della qualità;
+- b. la collaborazione con il fabbricante, il mandatario, l’organismo designato e le autorità competenti;
+- c. l’informazione nei confronti del fabbricante, del mandatario, dell’organismo designato e delle autorità competenti.
+
+[^53-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+### Sezione 4: Distributore
+
+#### Art. 54
+
+<sup>1</sup>
+
+Quando mette a disposizione sul mercato un dispositivo, il distributore rispetta, nell’ambito della sua attività, i requisiti vigenti con la dovuta diligenza. Prima della messa a disposizione sul mercato verifica se:
+
+- a. il marchio di conformità è apposto sul dispositivo;
+- b. la dichiarazione di conformità esiste;
+- c. l’informazione sul dispositivo esiste;
+- d. per i dispositivi importati, l’importatore ha fornito le informazioni di cui all’articolo 53 capoverso 2; e
+- e. il fabbricante, laddove necessario, ha attribuito un UDI al dispositivo.
+
+<sup>2</sup> Fatta eccezione per il capoverso 1 lettera d, la verifica può essere effettuata a campione.
+
+<sup>3</sup> Il distributore, se ritiene o ha motivo di credere che un dispositivo non sia conforme ai requisiti della presente ordinanza, non può mettere a disposizione sul mercato il dispositivo in questione fino a quando non venga reso conforme.
+
+<sup>4</sup>
+
+Gli altri obblighi del distributore prima e dopo la messa a disposizione sul mercato di un dispositivo sono retti dagli articoli 14 e 16 paragrafi 3 e 4 UE-MDR[^54-1]. Devono in particolare essere rispettati gli obblighi riguardanti:
+
+- a. l’immagazzinamento e il trasporto nonché il sistema di gestione della qualità;
+- b. la collaborazione con il fabbricante, il mandatario, l’importatore e le autorità competenti;
+- c. l’informazione nei confronti del fabbricante, del mandatario, dell’importatore e delle autorità competenti.
+
+[^54-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+## Sezione 5:**** Registrazione di operatori economici
+
+[^chap7-1]
+
+[^chap7-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+#### Art. 55
+
+<sup>1</sup> Entro tre mesi dalla prima immissione in commercio di un dispositivo, i fabbricanti o i loro mandatari e gli importatori registrano presso Swissmedic le necessarie indicazioni di cui all’allegato VI parte A punto 1 UE-MDR[^55-1].
+
+<sup>2</sup> Le modifiche delle indicazioni devono essere notificate a Swissmedic dall’operatore economico interessato entro una settimana.
+
+<sup>3</sup> Ulteriori obblighi e modalità riguardanti la registrazione sono retti dagli articoli 30 paragrafo 3 e 31 UE-MDR.
+
+<sup>4</sup> Swissmedic verifica le indicazioni notificate dagli operatori economici e attribuisce loro un numero di identificazione unico.
+
+<sup>5</sup> Chi immette in commercio per la prima volta sistemi e kit procedurali secondo l’articolo 11 registra presso Swissmedic entro tre mesi dall’immissione in commercio del sistema o del kit procedurale il proprio nome e l’indirizzo al quale può essere contattato. Se è richiesto un mandatario secondo l’articolo 51 capoverso 5, anche il nome e l’indirizzo di quest’ultimo devono essere registrati presso Swissmedic.
+
+[^55-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+## Capitolo 7: Sorveglianza sui dispositivi
+
+### Sezione 1: Sorveglianza post-commercializzazione
+
+#### Art. 56
+
+**Sistema**
+
+<sup>1</sup> Per ogni dispositivo il fabbricante deve pianificare, istituire, documentare, applicare, mantenere e aggiornare un sistema di sorveglianza post-commercializzazione in modo proporzionato alla classe di rischio e alla tipologia di dispositivo. Il sistema è parte integrante del sistema di gestione della qualità del fabbricante.
+
+<sup>2</sup> Il sistema deve essere atto a raccogliere, registrare e analizzare attivamente e sistematicamente i pertinenti dati sulla qualità, le prestazioni e la sicurezza di un dispositivo durante la sua intera vita, a trarre le necessarie conclusioni e a determinare, attuare e sorvegliare le eventuali azioni preventive o correttive.
+
+<sup>3</sup> Le modalità riguardanti il sistema, in particolare le misure, gli aggiornamenti e gli adeguamenti della documentazione tecnica che ne conseguono, sono rette dall’articolo 83 paragrafo 3 UE-MDR[^56-1].
+
+[^56-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 57
+
+**Incidenti e azioni**
+
+<sup>1</sup> Se nel corso della sorveglianza post-commercializzazione è identificata la necessità di azioni preventive o correttive, o entrambe, il fabbricante adotta i provvedimenti appropriati e informa le autorità competenti interessate nonché, se del caso, l’organismo designato.
+
+<sup>2</sup> Se constata un incidente grave o adotta per motivi di ordine medico o tecnico un’azione al fine di prevenire o ridurre il rischio di un tale incidente in relazione a un dispositivo messo a disposizione sul mercato (azione correttiva di sicurezza), il fabbricante deve notificarlo ai sensi dell’articolo 66.
+
+#### Art. 58
+
+**Piano**
+
+Il piano di sorveglianza post-commercializzazione deve soddisfare i requisiti di cui all’allegato III punto 1 UE-MDR[^58-1]. Per i dispositivi diversi da quelli su misura, il piano fa parte della documentazione tecnica di cui all’allegato II UE-MDR.
+
+[^58-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 59
+
+**Rapporto**
+
+<sup>1</sup> Il fabbricante dei dispositivi della classe I redige un rapporto sulla sorveglianza post-commercializzazione.
+
+<sup>2</sup>
+
+Il rapporto contiene:
+
+- a. una sintesi dei risultati e delle conclusioni delle analisi dei dati raccolti sulla scorta del piano di cui all’articolo 58;
+- b. una descrizione delle eventuali azioni preventive o correttive adottate e la relativa motivazione.
+
+<sup>3</sup> Il rapporto fa parte della documentazione tecnica sulla sorveglianza post-commercializzazione secondo l’allegato III UE-MDR[^59-1].
+
+<sup>4</sup> Il fabbricante aggiorna il rapporto ove necessario e lo mette a disposizione dell’autorità competente su richiesta.
+
+[^59-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+### Sezione 2: Rapporto sulla sicurezza
+
+#### Art. 60
+
+**Obbligo**
+
+<sup>1</sup> Il fabbricante di dispositivi delle classi IIa, IIb e III redige un rapporto sulla sicurezza per ogni dispositivo e, se del caso, per ogni categoria o gruppo di dispositivi.
+
+<sup>2</sup> Il fabbricante di dispositivi della classe IIa aggiorna il rapporto ove necessario e almeno ogni due anni. Il fabbricante di dispositivi delle classi IIb e III aggiorna il rapporto almeno una volta all’anno.
+
+#### Art. 61
+
+**Contenuto**
+
+<sup>1</sup>
+
+Il rapporto sulla sicurezza contiene:
+
+- a. una sintesi dei risultati e delle conclusioni delle analisi dei dati raccolti sulla scorta del piano di cui all’articolo 58;
+- b. una descrizione delle eventuali azioni preventive e correttive adottate e la relativa motivazione.
+
+<sup>2</sup>
+
+Durante l’intera vita del dispositivo in questione, nel rapporto sulla sicurezza rimangono indicati:
+
+- a. le conclusioni della determinazione del rapporto benefici-rischi;
+- b. i principali risultati del *follow-up* clinico post-commercializzazione;
+- c. il volume di vendite del dispositivo;
+- d. una stima dell’entità della popolazione che utilizza il dispositivo in questione;
+- e. le caratteristiche della popolazione di cui alla lettera d;
+- f. se possibile, la frequenza d’uso del dispositivo.
+
+<sup>3</sup> Il rapporto sulla sicurezza fa parte della documentazione tecnica di cui agli allegati II e III UE-MDR[^61-1]. Nel caso dei dispositivi su misura, il rapporto fa parte della documentazione di cui all’allegato XIII punto 2 UE-MDR.
+
+[^61-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 62
+
+**Verifica**[^62-1]
+
+<sup>1</sup> I fabbricanti presentano il rapporto sulla sicurezza all’organo designato coinvolto nella valutazione della conformità.
+
+<sup>2</sup> Per i dispositivi della classe III o i dispositivi impiantabili l’organo designato esamina il rapporto sulla sicurezza e riporta il risultato della sua valutazione con i dettagli delle eventuali misure.
+
+<sup>3</sup> Su richiesta, i fabbricanti o i loro mandatari presentano all’autorità competente il rapporto sulla sicurezza e il risultato della valutazione con i dettagli delle eventuali misure.
+
+[^62-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+### Sezione 3: Sintesi relativa alla sicurezza e alla prestazione clinica
+
+#### Art. 63
+
+<sup>1</sup> Nel caso dei dispositivi della classe III e dei dispositivi impiantabili, diversi dai dispositivi su misura o oggetto di sperimentazione clinica, il fabbricante redige una sintesi relativa alla sicurezza e alla prestazione clinica.
+
+<sup>2</sup> Questa sintesi deve essere redatta in modo da essere chiara per l’utilizzatore previsto e, se del caso, per il paziente.
+
+<sup>3</sup> Il contenuto minimo della sintesi è retto dall’articolo 32 paragrafo 2 UE-MDR[^63-1].
+
+<sup>4</sup> La bozza della sintesi va presentata unitamente alla documentazione all’organismo designato coinvolto nella valutazione della conformità secondo l’articolo 24, che la convalida.
+
+<sup>5</sup> La sintesi validata è pubblicata dal fabbricante.[^63-2]
+
+<sup>6</sup> Il fabbricante indica sull’etichetta o nelle istruzioni per l’uso dove è reperibile la sintesi.
+
+[^63-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^63-2]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+### Sezione 4: Tracciabilità e registrazione dell’identificazione del dispositivo
+
+#### Art. 64
+
+**Tracciabilità**
+
+<sup>1</sup> I distributori e gli importatori cooperano con i fabbricanti e i loro mandatari affinché i dispositivi siano adeguatamente tracciabili.
+
+<sup>2</sup> L’obbligo di comunicazione di cui all’articolo 47*c* LATer vige per almeno dieci anni, nel caso di dispositivi impiantabili per almeno 15 anni, dall’immissione in commercio dell’ultimo dispositivo oggetto della dichiarazione di conformità.
+
+#### Art. 65
+
+**Registrazione dell’UDI**
+
+<sup>1</sup> Gli operatori economici e le istituzioni sanitarie registrano e conservano, di preferenza per via elettronica, gli UDI dei dispositivi impiantabili della classe III che hanno ricevuto o che hanno fornito.
+
+<sup>2</sup> Swissmedic può estendere tale obbligo ad altri dispositivi, categorie o gruppi di dispositivi.
+
+### Sezione 5: Vigilanza
+
+#### Art. 66
+
+**Obbligo di notifica**
+
+<sup>1</sup>
+
+Il fabbricante di un dispositivo messo a disposizione in Svizzera o la persona che assembla e mette a disposizione in Svizzera sistemi o kit procedurali secondo l’articolo 22 paragrafi 1 e 3 UE-MDR[^66-1] deve notificare a Swissmedic:
+
+- a. gli incidenti gravi relativi al dispositivo in questione accaduti in Svizzera, non appena ne viene a conoscenza;
+- b. le azioni correttive di sicurezza sul campo intraprese in Svizzera.[^66-2]
+
+<sup>2</sup> Le deroghe a tale obbligo di notifica, le modalità, la comunicazione di relazioni di sintesi periodiche, il rapporto sulle tendenze e l’analisi degli incidenti gravi e delle azioni correttive di sicurezza sono retti dagli articoli 27 paragrafo 5 e 87–89 UE-MDR.
+
+<sup>2bis</sup> Se è richiesto un mandatario secondo l’articolo 51, questi è responsabile della notifica di cui al capoverso 1. Il mandatario trasmette inoltre di propria iniziativa a Swissmedic i rapporti sulle tendenze di cui al capoverso 2 concernenti gli incidenti accaduti in Svizzera nonché all’estero. Le relazioni finali di cui all’articolo 89 paragrafo 5 UE-MDR vanno trasmesse a Swissmedic. La delega di tali obblighi al mandatario da parte del fabbricante o della persona che assembla sistemi o kit procedurali secondo l’articolo 22 paragrafi 1 e 3 UE-MDR deve essere concordata per scritto nel mandato.[^66-3]
+
+<sup>3</sup> Le relative notifiche e informazioni devono essere trasmesse tramite Eudamed secondo le disposizioni dell’UE-MDR menzionate al capoverso 2.
+
+<sup>4</sup> Chi, quale specialista, accerta un incidente grave nell’applicazione di dispositivi deve notificarlo al fornitore e a Swissmedic. La notifica può essere fatta da un’associazione professionale. I termini delle notifiche sono retti dall’articolo 87 UE-MDR.
+
+<sup>5</sup> Le notifiche a Swissmedic devono avvenire per via elettronica e in un formato a lettura ottica. Swissmedic pubblica informazioni relative alla trasmissione elettronica nonché i moduli da utilizzare corredati da indicazioni sui contenuti.
+
+[^66-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^66-2]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^66-3]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+#### Art. 67
+
+**Sistema di notifica negli ospedali**
+
+<sup>1</sup> Per le notifiche di cui all’articolo 66 capoverso 4 gli ospedali istituiscono un sistema interno di notifica nel quadro di un consolidato sistema di gestione della qualità.
+
+<sup>2</sup> Essi designano un esperto idoneo (persona di contatto per la vigilanza), con formazione medica o tecnica, che assume l’obbligo di notifica nei confronti di Swissmedic. Notificano i dati di tale persona a Swissmedic.
+
+<sup>3</sup> L’obbligo di conservazione delle registrazioni e di qualsiasi documento redatto nel quadro del sistema di gestione della qualità della vigilanza è di almeno 15 anni.
+
+## Capitolo 8: Impiego di dispositivi
+
+#### Art. 68
+
+**Dispensazione**
+
+La dispensazione di dispositivi è conforme alla destinazione d’uso e alle indicazioni del fabbricante.
+
+#### Art. 69
+
+**Pubblicità**
+
+<sup>1</sup> La promozione di dispositivi deve contenere esclusivamente enunciati che corrispondono all’informazione sul dispositivo.
+
+<sup>2</sup> Le indicazioni ingannevoli, in particolare su destinazione d’uso, sicurezza e prestazioni di un dispositivo, sono vietate.
+
+<sup>3</sup> La pubblicità destinata al pubblico è vietata per i dispositivi destinati esclusivamente all’applicazione da parte di specialisti.
+
+#### Art. 70
+
+**Applicazione da parte di specialisti**
+
+<sup>1</sup> Chi, quale specialista, applica direttamente un dispositivo proveniente dall’estero senza immetterlo in commercio è responsabile della conformità del dispositivo.
+
+<sup>2</sup> I gruppi di dispositivi destinati all’applicazione da parte di specialisti che possono mettere in pericolo la salute delle persone se non sono utilizzati a regola d’arte sono elencati nell’allegato 6.
+
+<sup>3</sup> I gruppi di dispositivi menzionati nell’allegato 6 possono essere applicati soltanto alle condizioni relative alle qualifiche professionali e all’azienda ivi menzionate.
+
+#### Art. 71
+
+**Manutenzione**
+
+<sup>1</sup> Chi applica dispositivi in qualità di specialista provvede all’esecuzione della manutenzione conforme alle prescrizioni nonché ai relativi esami.
+
+<sup>2</sup>
+
+La manutenzione deve essere eseguita conformemente ai principi di un sistema di gestione della qualità, essere organizzata e documentata opportunamente e orientarsi in particolare:
+
+- a. alle istruzioni del fabbricante;
+- b. al rischio del dispositivo e della sua utilizzazione.
+
+<sup>3</sup> Per i dispositivi con funzioni di misurazione possono essere previste procedure di controllo conformemente all’ordinanza del 15 febbraio 2006[^71-1] sugli strumenti di misurazione.
+
+<sup>4</sup> Swissmedic può elaborare e pubblicare direttive sulle misure di manutenzione. Tali disposizioni valgono come stato della scienza e della tecnica.
+
+[^71-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+
+#### Art. 72
+
+**Ricondizionamento**
+
+<sup>1</sup> Chi impiega un dispositivo destinato a un uso ripetuto, in qualità di specialista, provvede a effettuare un test di funzionamento prima di ogni nuova applicazione e al corretto ricondizionamento secondo lo stato della scienza e della tecnica nel rispetto delle istruzioni del fabbricante e dei requisiti igienici.
+
+<sup>2</sup> Per il ricondizionamento si devono utilizzare procedure appropriate e convalidate secondo lo stato della scienza e della tecnica, per le quali l’efficacia dimostrata sia garantita in modo comprensibile e riproducibile nell’ambito di un sistema di gestione della qualità.
+
+<sup>3</sup>
+
+Chi ricondiziona dispositivi per terzi deve:
+
+- a.
+
+  dichiarare per quanto riguarda il dispositivo ricondizionato che il dispositivo:
+
+  - 1\. è stato ricondizionato conformemente alle istruzioni del fabbricante, oppure
+  - 2\. è stato ricondizionato secondo una propria procedura di ricondizionamento che garantisce la stessa sicurezza ed efficacia di quella prevista dal fabbricante e tale equivalenza è stata comprovata mediante un’analisi dei rischi e una procedura di convalida;
+
+- b. disporre di un adeguato sistema di gestione della qualità, certificato secondo le norme riconosciute a livello nazionale o internazionale;
+- c. attestare che il ricondizionamento è svolto in locali adeguati secondo le regole della tecnica e della scienza riconosciute e nel rispetto dei requisiti igienici;
+- d. documentare che il dispositivo è stato ricondizionato secondo la lettera a.
+
+<sup>4</sup> La dichiarazione di cui al capoverso 3 lettera a deve contenere l’identificazione del dispositivo nonché il nome e l’indirizzo dell’azienda che effettua il ricondizionamento.
+
+#### Art. 73
+
+**Dispositivi monouso e ricondizionamento**
+
+<sup>1</sup> Il ricondizionamento e l’ulteriore utilizzo di dispositivi monouso usati è vietato.
+
+<sup>2</sup> L’utilizzo e la messa a disposizione sul mercato di dispositivi monouso ricondizionati all’estero in virtù dell’articolo 17 paragrafo 3 UE-MDR[^73-1] sono vietati.
+
+[^73-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 74
+
+**Cybersicurezza**
+
+<sup>1</sup> Le istituzioni sanitarie adottano ogni misura tecnica e organizzativa che sia necessaria, secondo lo stato della tecnica, a garantire la tutela da attacchi e accessi elettronici per i dispositivi con funzionalità di rete.
+
+<sup>2</sup> Gli ospedali identificano, valutano e documentano le misure secondo il capoverso 1 in base ai principi di un sistema di gestione del rischio. Questo sistema è parte integrante del sistema di gestione della qualità degli ospedali.
+
+## Capitolo 9: Sorveglianza del mercato
+
+#### Art. 75
+
+**Principio**
+
+<sup>1</sup> Il controllo nel quadro della sorveglianza del mercato include i dispositivi messi a disposizione sul mercato, le procedure di valutazione della conformità, la sorveglianza sui dispositivi, l’impiego dei dispositivi e il rispetto degli obblighi da parte degli operatori economici. Il controllo include anche dispositivi messi a disposizione negli Stati contraenti da persone con sede in Svizzera, le relative procedure di valutazione della conformità e la sorveglianza sui dispositivi, nonché il rispetto degli obblighi da parte di tali persone.
+
+<sup>2</sup> Le attività di sorveglianza del mercato di Swissmedic e dei Cantoni sono rette dagli articoli 93–95, 97 e 98 UE-MDR[^75-1]. Sono esclusi gli articoli 97 paragrafo 3 e 98 paragrafi 3 e 4 UE-MDR.
+
+<sup>3</sup> I Cantoni elaborano piani annuali per le loro attività di sorveglianza del mercato di cui al capoverso 2. Trasmettono a Swissmedic una sintesi annuale dei risultati delle proprie attività di sorveglianza. Swissmedic può determinare il contenuto della sintesi e la forma in cui gli viene messa a disposizione.
+
+<sup>4</sup> Per quanto necessario per proteggere la popolazione, Swissmedic adotta le misure secondo l’articolo 66 LATer sotto forma di una decisione di portata generale.
+
+[^75-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 76
+
+**Competenze**
+
+<sup>1</sup>
+
+Swissmedic è competente per la sorveglianza:
+
+- a. di dispositivi e della loro conformità;
+- b. della vigilanza;
+- c.
+
+  della manutenzione e del ricondizionamento di dispositivi:
+
+  - 1\. negli ospedali,
+  - 2\. destinati a essere utilizzati negli ospedali.
+
+<sup>2</sup> Per alcuni aspetti della sorveglianza di cui al capoverso 1 è fatta salva la competenza di altri organi federali o istituzioni.
+
+<sup>3</sup>
+
+I Cantoni sono competenti per la sorveglianza:
+
+- a. nel commercio al dettaglio e presso i centri di consegna;
+- b. della produzione artigianale di dispositivi su misura, di sistemi e di kit procedurali;
+- c. della manutenzione e del ricondizionamento di dispositivi presso gli specialisti che li applicano e nelle istituzioni sanitarie, eccetto gli ospedali.
+
+#### Art. 77
+
+**Poteri**
+
+<sup>1</sup>
+
+Allo scopo di verificare la conformità dei dispositivi, le autorità competenti per la sorveglianza secondo l’articolo 76 possono, gratuitamente:
+
+- a. esigere le necessarie prove e informazioni;
+- b. prelevare campioni;
+- c. far eseguire esami e test di laboratorio sui campioni;
+- d. accedere ai locali commerciali e alle strutture delle persone tenute a fornire informazioni e visitare gli stessi durante l’orario normale di lavoro, con e, se necessario, senza preavviso;
+- e. consultare i documenti ed esigere che questi o altre informazioni siano redatti in una delle lingue ufficiali o in inglese.
+
+<sup>2</sup> Se il fabbricante o la persona che assembla sistemi o kit procedurali secondo l’articolo 22 paragrafi 1 e 3 UE-MDR[^77-1] non adempie l’obbligo di cui all’articolo 66, Swissmedic può, a tutela della salute, disporre misure adeguate fino al divieto di messa a disposizione sul mercato e di messa in servizio.[^77-2]
+
+[^77-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^77-2]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+#### Art. 78
+
+**Obbligo di collaborazione e di informazione**
+
+Gli operatori economici che immettono in commercio in Svizzera o in uno Stato contraente un dispositivo nonché gli operatori economici, gli specialisti e le istituzioni sanitarie che mettono a disposizione sul mercato o mettono in servizio in Svizzera o in uno Stato contraente un dispositivo sono tenuti a collaborare all’esecuzione. Devono in particolare fornire gratuitamente agli organi d’esecuzione tutte le informazioni necessarie e consegnare le prove e i documenti necessari.
+
+## Capitolo 10: Trattamento dei dati
+
+### Sezione 1: Trattamento dei dati in generale
+
+#### Art. 79
+
+**Trattamento di dati personali**
+
+Swissmedic e i terzi da esso incaricati sono autorizzati a trattare i dati personali di cui necessitano per adempiere tutti i compiti loro attribuiti dalla presente ordinanza. Fra questi rientrano segnatamente:
+
+- a. i dati concernenti la salute rilevati nell’ambito della sorveglianza del mercato e della vigilanza;
+- b. i dati che dimostrano l’affidabilità e la competenza delle persone di contatto per la vigilanza (art. 67 cpv. 2) o delle persone responsabili del rispetto delle prescrizioni (art. 49 e 52).
+
+#### Art. 80
+
+**Gestione di sistemi d’informazione**
+
+<sup>1</sup> Swissmedic è responsabile della gestione sicura dei propri sistemi d’informazione e della legittimità del trattamento dei dati.
+
+<sup>2</sup> Per ciascun sistema d’informazione elabora un regolamento per il trattamento. Vi definisce le misure tecniche e organizzative atte a garantire la sicurezza e la protezione dei dati trattati.
+
+#### Art. 81
+
+**Diritti di accesso**
+
+<sup>1</sup>
+
+Laddove necessario allo svolgimento dei rispettivi compiti, l’accesso online ai sistemi d’informazione è concesso alle seguenti persone e posizioni:
+
+- a. i collaboratori di Swissmedic che operano nel settore della vigilanza e della sorveglianza del mercato nonché terzi incaricati di compiti in questo settore;
+- b. i collaboratori di Swissmedic che operano nel settore del diritto penale amministrativo;
+- c. gli amministratori di Swissmedic e terzi incaricati.
+
+<sup>2</sup> Gli accessi ai sistemi d’informazione sono verbalizzati; i dati verbalizzati sono conservati per due anni.
+
+#### Art. 82
+
+**Conservazione e distruzione dei dati**
+
+I dati relativi a una persona sono conservati per dieci anni dall’ultimo inserimento e in seguito distrutti.
+
+### Sezione 2: Sistema d’informazione sui dispositivi medici
+
+#### Art. 83
+
+**Autorità responsabile**
+
+Swissmedic è responsabile del sistema d’informazione sui dispositivi medici di cui all’articolo 62*c* LATer (sistema d’informazione sui dispositivi medici).
+
+#### Art. 84
+
+**Garanzia della protezione e della sicurezza dei dati**
+
+<sup>1</sup> Swissmedic emana un regolamento per il trattamento di cui all’articolo 21 dell’ordinanza del 14 giugno 1993[^84-1] relativa alla legge federale sulla protezione dei dati (OLPD).
+
+<sup>2</sup> Al fine di garantire la sicurezza dei dati si applicano gli articoli 20 e 21 OLPD.
+
+<sup>3</sup> Il trattamento dei dati deve essere verbalizzato automaticamente.
+
+[^84-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+
+#### Art. 85
+
+**Contenuto del sistema d’informazione sui dispositivi medici**
+
+<sup>1</sup>
+
+Il sistema d’informazione sui dispositivi medici contiene i seguenti dati:
+
+- a. dati sui dispositivi;
+- b. dati sugli operatori economici;
+- c. dati sugli organismi designati e sui certificati rilasciati;
+- d. dati sulle sperimentazioni cliniche;
+- e. dati sulla vigilanza;
+- f. dati sulla sorveglianza del mercato;
+- g. dati necessari ad amministrare e adeguare il sistema d’informazione sui dispositivi medici (dati di sistema);
+- h. dati per l’autenticazione, ruoli assegnati agli utilizzatori e impostazioni di base per l’utilizzo del sistema d’informazione sui dispositivi medici (dati sugli utilizzatori).
+
+<sup>2</sup> Il sistema d’informazione sui dispositivi medici contiene dati personali, sempre che ciò sia necessario a raccogliere e trattare le informazioni.
+
+#### Art. 86
+
+**Scambio di dati con altri sistemi d’informazione**
+
+Il sistema d’informazione sui dispositivi medici può ricevere e inviare i dati di cui all’articolo 85 da e verso Eudamed e da e verso i sistemi elettronici cantonali.
+
+#### Art. 87
+
+**Diritti di accesso**
+
+Tutti i dati registrati e trattati nel sistema d’informazione sui dispositivi medici sono accessibili a Swissmedic.
+
+#### Art. 88
+
+**Diritti delle persone interessate e rettifica dei dati**
+
+<sup>1</sup> I diritti delle persone interessate, in particolare il diritto d’accesso, di rettifica e di distruzione dei dati, sono retti dalla legislazione sulla protezione dei dati.
+
+<sup>2</sup> Swissmedic provvede a far rettificare o cancellare i dati inesatti o trattati illecitamente nel sistema d’informazione sui dispositivi medici. Le rettifiche e le cancellazioni sono effettuate quanto prima ma al più tardi entro 60 giorni dalla richiesta della persona interessata.
+
+#### Art. 89
+
+**Conservazione dei dati**
+
+I dati personali di cui all’articolo 85 capoverso 2 sono conservati in una forma che consenta l’identificazione delle persone interessate soltanto per un periodo di dieci anni dall’immissione in commercio dell’ultimo dispositivo oggetto della dichiarazione di conformità. Per i dispositivi impiantabili tale periodo è di 15 anni.
+
+#### Art. 90
+
+**Pubblicazione di dati**
+
+<sup>1</sup>
+
+Swissmedic può pubblicare nel sistema d’informazione sui dispositivi medici segnatamente quanto segue:
+
+- a. i dati sui dispositivi conformemente all’allegato VI parte B UE-MDR[^90-1];
+- b. le informazioni relative agli operatori economici e ai dispositivi di cui all’allegato VI parte A UE-MDR;
+- c. le informazioni generali di cui all’articolo 35 paragrafo 7 UE-MDR sulle proprie misure che disciplinano la valutazione, la designazione e la notifica degli organismi di valutazione della conformità e per la sorveglianza degli organismi designati, nonché sulle modifiche che hanno un impatto significativo su tali compiti;
+- d. le sintesi redatte secondo l’articolo 44 paragrafo 12 UE-MDR del rapporto annuale sulle attività di sorveglianza e le valutazioni in loco;
+- e. le sintesi relative alla sicurezza e alla prestazione clinica di cui all’articolo 63;
+- f. le informazioni riguardanti i certificati di cui agli articoli 28 e 42–44;
+- g. gli avvisi di sicurezza di cui all’articolo 89 paragrafo 8 UE-MDR rivolti agli utilizzatori o clienti nell’ambito delle azioni correttive di sicurezza;
+- h. le sintesi dei rapporti sulla verifica delle attività di sorveglianza del mercato di Swissmedic;
+- i. i pareri scientifici di cui all’articolo 106 paragrafo 12 UE-MDR;
+- j. le informazioni sulle misure di sorveglianza del mercato, in particolare su richiami, sulla non conformità di dispositivi e su misure preventive di protezione della salute.
+
+[^90-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+#### Art. 91
+
+**Utilizzo ulteriore dei dati**
+
+I dati diversi dai dati personali possono essere utilizzati per la valutazione indipendente della sicurezza e della prestazione a lungo termine dei dispositivi o della tracciabilità dei dispositivi impiantabili.
+
+#### Art. 92
+
+**Applicabilità della legge federale sulla protezione dei dati**
+
+Qualsiasi trattamento dei dati effettuato nel sistema d’informazione sui dispositivi medici deve essere conforme alla legge federale del 19 giugno 1992[^92-1] sulla protezione dei dati.
+
+[^92-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+## Capitolo 11: Disposizioni finali
+
+### Sezione 1: Esecuzione
+
+#### Art. 93
+
+**Modifica degli allegati**
+
+<sup>1</sup> Il DFI può adeguare gli allegati 1–3, 5 e 6 della presente ordinanza agli sviluppi a livello internazionale o nel campo della tecnica.
+
+<sup>2</sup> Gli adeguamenti che possono costituire ostacoli tecnici al commercio sono effettuati dal DFI d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca.
+
+#### Art. 94
+
+**Informazione sugli atti della Commissione europea direttamente applicabili**
+
+Swissmedic informa sul proprio sito Internet sugli atti della Commissione europea che, secondo la presente ordinanza, si applicano direttamente anche in Svizzera nella versione vincolante per gli Stati membri dell’UE e che sono elencati all’allegato 4.
+
+#### Art. 95
+
+**Armonizzazione dell’esecuzione**
+
+<sup>1</sup> Nell’esecuzione della presente ordinanza Swissmedic osserva gli atti d’esecuzione emanati dalla Commissione europea sulla base dell’UE-MDR[^95-1].
+
+<sup>2</sup> I regolamenti (UE) n. 207/2012[^95-2] e n. 722/2012[^95-3] restano applicabili fino a quando sono abrogati nell’UE da atti d’esecuzione emanati dalla Commissione europea sulla base dell’UE-MDR.
+
+[^95-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^95-2]: Regolamento (UE) n. 207/2012 della Commissione, del 9 marzo 2012, relativo alle istruzioni per l’uso elettroniche dei dispositivi medici; versione della GU L 72 del 10.03.2012, pag. 28.
+[^95-3]: Regolamento (UE) n. 722/2012 della Commissione, dell’8 agosto 2012 relativo ai requisiti particolari per quanto riguarda i requisiti di cui alle direttive 90/385/CEE e 93/42/CEE del Consiglio per i dispositivi medici impiantabili attivi e i dispositivi medici fabbricati con tessuti d’origine animale; versione della GU L 212 del 9.8.2012, pag. 3.
+
+#### Art. 96
+
+**Collaborazione con la Commissione europea e con le autorità degli Stati contraenti**
+
+<sup>1</sup> Swissmedic, gli organismi designati e gli operatori economici collaborano con la Commissione europea e con le autorità degli Stati contraenti, per quanto lo preveda un accordo internazionale.
+
+<sup>2</sup> Swissmedic può nominare esperti che siano qualificati nella valutazione degli organismi di valutazione della conformità nel campo dei dispositivi medici.
+
+<sup>3</sup> Esso può nominare esperti per la partecipazione a gruppi di specialisti della Commissione europea e delle autorità degli Stati contraenti.
+
+#### Art. 97
+
+**Collaborazione con le autorità doganali**
+
+<sup>1</sup> Le autorità doganali forniscono a Swissmedic informazioni sull’importazione, l’esportazione e il transito di dispositivi.
+
+<sup>2</sup> Swissmedic può incaricare le autorità doganali di trattenere dispositivi per ulteriori chiarimenti e di raccogliere dei campioni.
+
+#### Art. 98
+
+**Laboratori specializzati in Svizzera**
+
+<sup>1</sup> I laboratori che intendono operare come laboratori specializzati designati dalla Commissione europea secondo l’articolo 106 paragrafo 7 UE-MDR[^98-1] possono presentarne richiesta a Swissmedic.
+
+<sup>2</sup>
+
+Essi devono dimostrare a Swissmedic in particolare che:
+
+- a. soddisfano i criteri di cui all’articolo 106 paragrafo 8 UE-MDR; e
+- b. sono in grado di assumere, a seconda delle esigenze, i compiti di cui all’articolo 106 paragrafo 10 UE-MDR, tenendo conto delle modifiche a tale disposizione che la Commissione europea apporta mediante atti delegati[^98-2].
+
+<sup>3</sup>
+
+I laboratori specializzati devono operare in uno dei seguenti ambiti:
+
+- a. caratterizzazione fisico-chimica;
+- b. test microbiologici, meccanici, elettrici o elettronici oppure test biologici e tossicologici non clinici oppure test di biocompatibilità.
+
+<sup>4</sup> Se sono soddisfatti i presupposti, Swissmedic propone alla Commissione europea il laboratorio come laboratorio specializzato.
+
+[^98-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^98-2]: Cfr. allegato 4.
+
+### Sezione 2: Abrogazione di altri atti normativi e disposizioni transitorie
+
+#### Art. 99
+
+**Abrogazione di altri atti normativi**
+
+Sono abrogate:
+
+- 1\. l’ordinanza del 17 ottobre 2001[^99-1] relativa ai dispositivi medici;
+- 2\. l’ordinanza del 22 giugno 2006[^99-2] concernente la lista dei dispositivi medici soggetti a prescrizione medica.
+
+[^99-1]: [[RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520),[2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)n. I 5, II cpv. 2, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 2, [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)[2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 7, [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189), [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650), [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183)art. 28 cpv. 2, [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)]
+[^99-2]: [[RU 2006 3679](https://fedlex.data.admin.ch/eli/oc/2006/560)]
+
+#### Art. 100
+
+**Validità dei certificati rilasciati secondo il diritto anteriore**
+
+<sup>1</sup> I certificati rilasciati secondo il diritto anteriore prima del 25 maggio 2017 restano validi fino alla fine del periodo indicato sugli stessi, ma al più tardi fino al 26 maggio 2022.
+
+<sup>2</sup> I certificati rilasciati secondo il diritto anteriore a partire dal 25 maggio 2017 restano validi fino alla fine del periodo indicato sugli stessi, ma al più tardi fino al 26 maggio 2024.
+
+#### Art. 101
+
+**Immissione in commercio di dispositivi secondo il diritto anteriore**
+
+<sup>1</sup>
+
+Possono continuare a essere immessi in commercio o messi in servizio fino al 26 maggio 2024 i seguenti dispositivi a condizione che a partire dal 26 maggio 2021 continuino a corrispondere al diritto anteriore e che non ci siano cambiamenti significativi nella progettazione e nella destinazione d’uso del dispositivo medico in questione:
+
+- a. i dispositivi che secondo il diritto anteriore appartengono alla classe I, per i quali prima del 26 maggio 2021 è stata rilasciata una dichiarazione di conformità e per i quali la procedura di valutazione della conformità ai sensi della presente ordinanza richiede il coinvolgimento di un organismo designato;
+- b. i dispositivi con un certificato valido ai sensi dell’articolo 100.
+
+<sup>2</sup> Per la sorveglianza post-commercializzazione di questi dispositivi, la sorveglianza del mercato che li concerne, la vigilanza, la registrazione di operatori economici e di questi dispositivi vigono le disposizioni della presente ordinanza.
+
+<sup>3</sup> I dispositivi legittimamente immessi in commercio prima del 26 maggio 2021 secondo il diritto anteriore e i dispositivi immessi in commercio a partire dal 26 maggio 2021 conformemente al capoverso 1 possono continuare a essere messi a disposizione sul mercato o messi in servizio fino al 26 maggio 2025. È fatto salvo l’articolo 103.
+
+#### Art. 102
+
+**Deroghe per dispositivi medici non conformi**
+
+Le deroghe concesse da Swissmedic ai sensi dell’articolo 9 capoverso 4 dell’ordinanza del 17 ottobre 2001[^102-1] relativa ai dispositivi medici continuano a rimanere valide.
+
+[^102-1]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+
+#### Art. 103
+
+**Dispositivi e prodotti con tessuti o cellule devitalizzati di origine umana**
+
+<sup>1</sup> I dispositivi con tessuti o cellule devitalizzati di origine umana o loro derivati di cui all’articolo 1 capoverso 3 lettere c numero 2 e d, legittimamente immessi in commercio o messi in servizio prima del 26 maggio 2021, possono continuare a essere messi a disposizione sul mercato o messi in servizio fino al 26 maggio 2025. L’articolo 101 capoverso 2 si applica per analogia.
+
+<sup>2</sup> Fino all’emanazione di una specifica ordinanza in materia, ai prodotti di cui all’articolo 2*a* capoverso 2 LATer si applica l’ordinanza del 17 ottobre 2001[^103-1] relativa ai dispositivi medici. I prodotti di cui all’articolo 2*a* capoverso 2 LATer legittimamente immessi in commercio prima del 26 maggio 2021 possono continuare a essere messi a disposizione sul mercato o messi in servizio fino all’emanazione di una specifica ordinanza in materia.
+
+[^103-1]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+
+#### Art. 104
+
+**Apposizione dell’UDI**
+
+L’UDI di cui all’articolo 17 capoverso 2 deve essere apposto:
+
+- a. per i dispositivi impiantabili e i dispositivi della classe III: dal 26 maggio 2021;
+- b. per i dispositivi delle classi IIa e IIb: dal 26 maggio 2023;
+- c. per i dispositivi della classe I: dal 26 maggio 2025;
+- d. per i dispositivi riutilizzabili nei quali l’UDI deve essere apposto sul dispositivo stesso: 2 anni dopo le date indicate alle lettere a–c per la corrispondente classe di dispositivi.
+
+#### Art. 104a
+
+**Designazione di un mandatario**[^104a-1]
+
+<sup>1</sup>
+
+Se il fabbricante ha sede in uno Stato UE o SEE o ha dato mandato a una persona con sede in uno Stato UE o SEE, deve designare un mandatario secondo l’articolo 51 capoverso 1 per tutti i dispositivi che sono stati immessi in commercio successivamente al 26 maggio 2021 entro i seguenti termini:
+
+- a. per i dispositivi della classe III, i dispositivi impiantabili della classe IIb e i dispositivi medici impiantabili attivi: entro il 31 dicembre 2021;
+- b. per i dispositivi non impiantabili della classe IIb e i dispositivi della classe IIa: entro il 31 marzo 2022;
+- c. per i dispositivi della classe I: entro il 31 luglio 2022.
+
+<sup>2</sup> Per i sistemi e i kit procedurali, la designazione di un mandatario secondo l’articolo 51 capoverso 5 deve avvenire entro il 31 luglio 2022.
+
+[^104a-1]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+#### Art. 104b
+
+**Registrazione da parte degli operatori economici**[^104b-1]
+
+Gli operatori economici che hanno immesso in commercio già prima del 26 maggio 2021 dispositivi secondo l’articolo 22*a* dell’ordinanza del 17 ottobre 2001[^104b-2] relativa ai dispositivi medici devono eseguire le registrazioni di cui all’articolo 55 capoversi 1 e 5 entro il 26 novembre 2021.
+
+[^104b-1]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^104b-2]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+
+#### Art. 105
+
+**Dispositivi medico-diagnostici in vitro**[^105-1]
+
+<sup>1</sup> Fino all’emanazione di una specifica ordinanza in materia, ai dispositivi medico-diagnostici in vitro si applica l’ordinanza del 17 ottobre 2001[^105-2] relativa ai dispositivi medici. Sono fatti salvi i capoversi 2 e 3.
+
+<sup>2</sup> Se un dispositivo medico-diagnostico in vitro è provvisto del nome e dell’indirizzo della persona che lo immette per la prima volta in commercio in uno Stato UE o SEE, non è necessario che etichetta, imballaggio esterno o istruzioni per l’uso siano provvisti del nome e dell’indirizzo della persona che lo immette per la prima volta in commercio in Svizzera.
+
+<sup>3</sup> Se i dispositivi medico-diagnostici in vitro sono stati notificati all’autorità competente di uno Stato UE o SEE conformemente all’articolo 6 capoverso 2 dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici, non è necessaria un’ulteriore notifica a Swissmedic.
+
+[^105-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^105-2]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+
+#### Art. 106
+
+**Prodotti senza destinazione d’uso medica**
+
+Finché Swissmedic non avrà designato specifiche comuni secondo l’articolo 8 capoverso 1 per i prodotti senza destinazione d’uso medica di cui all’allegato 1, a tali prodotti si applica il diritto anteriore.
+
+#### Art. 107
+
+**Organismi di valutazione della conformità**
+
+<sup>1</sup> La designazione di organismo di valutazione della conformità secondo la sezione 4 dell’ordinanza del 17 ottobre 2001[^107-1] relativa ai dispositivi medici non è più valida.
+
+<sup>2</sup> L’organismo di valutazione della conformità che ha rilasciato i certificati secondo il diritto anteriore continua a essere responsabile dell’appropriata sorveglianza dei dispositivi in questione. È soggetto alla sorveglianza di Swissmedic.
+
+<sup>3</sup> La designazione di organismo di valutazione della conformità secondo la sezione 4*a* dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici mantiene la propria validità.
+
+<sup>4</sup> Fino all’entrata in vigore di una specifica ordinanza in materia di dispositivi medico-diagnostici in vitro, gli organismi di valutazione della conformità di tali dispositivi continuano a essere designati secondo le sezioni 4 e 4*a* dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici.
+
+[^107-1]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+
+#### Art. 108
+
+**Notifica di dispositivi, sistemi e kit procedurali**[^108-1]
+
+<sup>1</sup>
+
+Fino all’entrata in vigore dell’articolo 17 capoverso 5, alle persone con sede in Svizzera rimangono applicabili i seguenti obblighi di notifica:
+
+- a. ai fabbricanti nonché alle persone che assemblano sistemi o kit procedurali secondo l’articolo 22 paragrafi 1 e 3 UE-MDR[^108-2]: gli obblighi di notifica di cui all’articolo 6 capoversi 1 e 4 dell’ordinanza del 17 ottobre 2001[^108-3] relativa ai dispositivi medici;
+- b. alle persone che immettono in commercio dispositivi medici di cui all’articolo 2 capoverso 1 dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici: gli obblighi di notifica di cui all’articolo 6 capoversi 3 e 4 dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici.
+
+<sup>2</sup> ...[^108-4]
+
+[^108-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^108-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^108-3]: Cfr. nota a piè di pagina relativa all’art. 99 n. 1.
+[^108-4]: Entra in vigore posteriormente (art. 110 cpv. 2).
+
+#### Art. 109
+
+[^109-1]
+
+[^109-1]: Abrogato dal n. I dell’O del 19 mag. 2021, con effetto dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+#### Art. 110
+
+**Entrata in vigore**
+
+<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 26 maggio 2021.
+
+<sup>2</sup> Gli articoli 17 capoverso 5 e 108 capoverso 2 entrano in vigore in un secondo tempo.[^110-1]
+
+[^110-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+
+Allegato 1
+
+(art. 1 cpv. 1 lett. b)
+
+## Gruppi di dispositivi senza destinazione d’uso medica
+
+- 1\. Lenti a contatto o altri elementi destinati a essere introdotti nel o applicati sull’occhio.
+- 2\. Prodotti destinati a essere introdotti totalmente o parzialmente nel corpo umano mediante strumenti invasivi di tipo chirurgico allo scopo di modificare l’anatomia o per la fissazione di parti del corpo, a eccezione dei prodotti per tatuaggi e piercing.
+- 3\. Sostanze, associazioni di sostanze o elementi destinati a essere utilizzati per filling facciali o altri filling cutanei o per le mucose attraverso iniezione sottocutanea, sottomucosa o intradermica, eccetto quelli per i tatuaggi.
+- 4\. Apparecchiature destinate a essere utilizzate per ridurre, rimuovere o distruggere il tessuto adiposo, quali apparecchiature per la liposuzione, lipolisi o lipoplastica.
+- 5\. Apparecchiature che emettono radiazioni elettromagnetiche ad alta intensità, come infrarossi, luce visibile e ultravioletti, destinate a essere utilizzate sul corpo umano, comprese fonti coerenti e non coerenti, monocromatiche e ad ampio spettro, come laser e apparecchiature a luce pulsata ad alta intensità per fotoringiovanimento cutaneo, tatuaggio o epilazione o altro trattamento dermico.
+- 6\. Attrezzature destinate alla stimolazione cerebrale che applicano correnti elettriche o campi magnetici o elettromagnetici che attraversano il cranio per modificare l’attività neuronale del cervello.
+
+Allegato 2
+
+(art. 5 cpv. 1)
+
+## Equivalenze terminologiche
+
+Le espressioni qui appresso dell’UE-MDR[^annex2-lvlu1-1] hanno nella presente ordinanza gli equivalenti seguenti:
+
+<table>
+<tr><th colspan="2">Unione europea</th><th>Svizzera</th></tr>
+<tr><td colspan="2">a. Espressioni in tedesco:</td><td></td></tr>
+<tr><td colspan="2">Union</td><td>Schweiz</td></tr>
+<tr><td colspan="2">Mitgliedstaat</td><td>Schweiz</td></tr>
+<tr><td colspan="2">Drittstaat / Drittland</td><td>anderer Staat</td></tr>
+<tr><td colspan="2">Unionsmarkt</td><td>Schweizer Markt</td></tr>
+<tr><td colspan="2">Rechtsvorschriften der Union / Harmonisierungsrechtssvorschriften der Union</td><td>Rechtsvorschriften</td></tr>
+<tr><td colspan="2">Harmonisierte Norm</td><td>Bezeichnete Norm</td></tr>
+<tr><td colspan="2">Stand der Technik</td><td>Stand von Wissenschaft und Technik</td></tr>
+<tr><td colspan="2">EU-Konformitätserklärung</td><td>Konformitätserklärung</td></tr>
+<tr><td colspan="2">Amtsblatt der Europäischen Union</td><td>Bundesblatt</td></tr>
+<tr><td colspan="2">Ausserhalb / In der Union ansässig</td><td>Sitz ausserhalb / in der Schweiz</td></tr>
+<tr><td colspan="2">Behörde</td><td>Nach schweizerischem Recht zuständige Behörde</td></tr>
+<tr><td colspan="2">Angehörige der Gesundheitsberufe</td><td>Fachpersonen</td></tr>
+<tr><td colspan="2">Aussetzung</td><td>Suspendierung</td></tr>
+<tr><td colspan="2">Zurückziehung</td><td>Widerruf</td></tr>
+<tr><td colspan="2">Transplantate</td><td>Organe</td></tr>
+<tr><td colspan="2">b. Espressioni in francese:</td><td></td></tr>
+<tr><td colspan="2">Union</td><td>Suisse</td></tr>
+<tr><td colspan="2">État membre</td><td>Suisse</td></tr>
+<tr><td colspan="2">État tiers / pays tiers</td><td>autre État</td></tr>
+<tr><td colspan="2">marché de l’Union</td><td>marché suisse</td></tr>
+<tr><td colspan="2">législation (actes legislatifs) de l’Union / législation d’harmonisation de l’Union</td><td>législations</td></tr>
+<tr><td colspan="2">norme harmonisée</td><td>norme designée</td></tr>
+<tr><td colspan="2">état de l’art</td><td>état de la science et de la technique</td></tr>
+<tr><td colspan="2">déclaration de conformité UE</td><td>déclaration de conformité</td></tr>
+<tr><td colspan="2">investigation clinique</td><td>essai clinique</td></tr>
+<tr><td colspan="2">dispositif faisant l’objet d’une investigation</td><td>dispositif faisant l’objet d’un essai clinique</td></tr>
+<tr><td colspan="2">Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+<tr><td colspan="2">situé hors de l’Union / établi dans l’Union</td><td>sis à l’étranger / en Suisse</td></tr>
+<tr><td colspan="2">notice d’utilisation</td><td>mode d’emploi</td></tr>
+<tr><td colspan="2">conditionnement</td><td>emballage</td></tr>
+<tr><td colspan="2">notification des incidents graves</td><td>déclaration des incidents graves</td></tr>
+<tr><td colspan="2">autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
+<tr><td colspan="2">professionnels de la santé</td><td>professionnels</td></tr>
+<tr><td colspan="2">retrait</td><td>révocation</td></tr>
+<tr><td colspan="2">c. Espressioni in italiano:</td><td></td></tr>
+<tr><td colspan="2">Unione</td><td>Svizzera</td></tr>
+<tr><td colspan="2">Stato membro</td><td>Svizzera</td></tr>
+<tr><td colspan="2">paese terzo</td><td>altro Stato</td></tr>
+<tr><td colspan="2">mercato dell’Unione</td><td>mercato svizzero</td></tr>
+<tr><td colspan="2">atto legislativo dell’Unione / normativa di armonizzazione dell’Unione</td><td>legislazioni</td></tr>
+<tr><td colspan="2">norma armonizzata</td><td>norma designata</td></tr>
+<tr><td colspan="2">stato dell’arte</td><td>stato della scienza e della tecnica</td></tr>
+<tr><td colspan="2">dichiarazione di conformità UE</td><td>dichiarazione di conformità</td></tr>
+<tr><td colspan="2">marcatura CE di conformità</td><td>marchio di conformità</td></tr>
+<tr><td colspan="2">Gazzetta ufficiale dell’Unione europea</td><td>Foglio federale</td></tr>
+<tr><td colspan="2">avente sede fuori dall’Unione / stabilito nell’Unione</td><td>avente sede all’estero / in Svizzera</td></tr>
+<tr><td colspan="2">autorità</td><td>autorità competente secondo il diritto svizzero</td></tr>
+<tr><td colspan="2">operatori sanitari</td><td>specialisti</td></tr>
+<tr><td colspan="2">controllata</td><td>società controllata</td></tr>
+<tr><td colspan="2">ritiro</td><td>revoca</td></tr>
+<tr><td colspan="2">controllata</td><td>società controllata</td></tr>
+<tr><td colspan="2">immissione sul mercato</td><td>immissione in commercio</td></tr>
+<tr><td colspan="2">segnalazione di incidenti gravi</td><td>notifica di incidenti gravi</td></tr>
+<tr><td colspan="2">indagini cliniche</td><td>sperimentazioni cliniche</td></tr>
+<tr><td colspan="2">dispositivo oggetto di indagine</td><td>dispositivo oggetto di sperimentazione clinica</td></tr>
+<tr><td colspan="2">confezionamento</td><td>imballaggio</td></tr>
+</table>
+
+[^annex2-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+Allegato 3
+
+(art. 5 cpv. 2)
+
+## Diritto applicabile
+
+### 1 Diritto UE
+
+Se nella presente ordinanza si rimanda a disposizioni dell’UE-MDR[^annex3-lvlu1-lvl1-1] che, a loro volta, rimandano alle seguenti normative UE, valgono le seguenti versioni:
+
+- 1\.1 Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006 (GU L 353 del 31.12.2008, pag. 1);
+- 1\.2 Regolamento (UE) n. 207/2012 della Commissione, del 9 marzo 2012, relativo alle istruzioni per l’uso elettroniche dei dispositivi medici (GU L 72 del 10.3.2012, pag. 28);
+- 1\.3 Regolamento (UE) n. 722/2012 della Commissione, dell’8 agosto 2012 relativo ai requisiti particolari per quanto riguarda i requisiti di cui alle direttive 90/385/CEE e 93/42/CEE del Consiglio per i dispositivi medici impiantabili attivi e i dispositivi medici fabbricati con tessuti d’origine animale (GU L 212 del 9.8.2012, pag. 3).
+
+[^annex3-lvlu1-lvl1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+### 2 Diritto Svizzero
+
+Se la presente ordinanza rimanda a disposizioni dell’UE-MDR[^annex3-lvlu1-lvl2-1] che, a loro volta, rimandano alle seguenti normative UE, in luogo di tali normative si applica il seguente diritto svizzero:
+
+<table>
+<tr><th colspan="2">Diritto UE</th><th>Diritto svizzero</th></tr>
+<tr><td>1. Direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001, recante un codice comunitario relativo ai medicinali per uso umano, GU L 311 del 28.1.2001, pag. 67</td><td colspan="2">[tab] Legge del 15 dicembre 2000[^annex3-lvlu1-lvl2-2] sugli agenti terapeutici</td></tr>
+<tr><td>2. Regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio del 31 marzo 2004 che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.4.2004, pag. 1</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici</td></tr>
+<tr><td>3. Regolamento (CE) n. 1394/2007 del Parlamento europeo e del Consiglio, del 13 novembre 2007, sui medicinali per terapie avanzate recante modifica della direttiva 2001/83/CE e del regolamento (CE) n. 726/2004, GU L 324 del 10.12.2007, pag. 121</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici</td></tr>
+<tr><td>4. Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici in vitro e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici</td></tr>
+<tr><td>5. Direttiva 85/374/CEE del Consiglio del 25 luglio 1985 relativa al ravvicinamento delle disposizioni legislative, regolamentari ed amministrative degli Stati Membri in materia di responsabilità per danno da prodotti difettosi, GU L 210 del 7.8.1985, pag. 29</td><td colspan="2">[tab] Legge federale del 18 giugno 1993[^annex3-lvlu1-lvl2-3] sulla responsabilità per danno da prodotti</td></tr>
+<tr><td>6. Direttiva 2014/30/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla compatibilità elettromagnetica (rifusione), GU L 96 del 29.3.2014, pag. 79</td><td colspan="2">[tab] Ordinanza del 25 novembre 2015[^annex3-lvlu1-lvl2-4] sulla compatibilità elettromagnetica</td></tr>
+<tr><td>7. Direttiva 2006/42/CE del Parlamento europeo e del Consiglio, del 17 maggio 2006, relativa alle macchine e che modifica la direttiva 95/16/CE (rifusione), GU L 157 del 9.6.2006, pag. 24</td><td colspan="2">[tab] Ordinanza del 2 aprile 2008[^annex3-lvlu1-lvl2-5] sulle macchine</td></tr>
+<tr><td>8. Regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio del 30 novembre 2009, sui prodotti cosmetici, GU L 324 del 22.12.2009, pag. 59</td><td colspan="2">[tab] Ordinanza del DFI del 16 dicembre 2016[^annex3-lvlu1-lvl2-6] sui cosmetici</td></tr>
+<tr><td>9. Direttiva 2004/23/CE del Parlamento europeo e del Consiglio, del 31 marzo 2004, sulla definizione di norme di qualità e di sicurezza per la donazione, l’approvvigionamento, il controllo, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani, GU L 102 del 7.4.2004, pag. 48</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge dell’8 ottobre 2004[^annex3-lvlu1-lvl2-7] sui trapianti</td></tr>
+<tr><td>10. Direttiva 2002/98/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003, che stabilisce norme di qualità e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti e che modifica la direttiva 2001/83/CE, GU L 33 dell’8.2.2003, pag. 30</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge dell’8 ottobre 2004 sui trapianti</td></tr>
+<tr><td>11. Regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l’Autorità europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare, GU L 31 del 1.2.2002, pag. 1</td><td colspan="2">[tab] Legge del 20 giugno 2014[^annex3-lvlu1-lvl2-8] sulle derrate alimentari</td></tr>
+<tr><td>12. Regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, sulla normazione europea, che modifica le direttive 89/686/CEE e 93/15/CEE del Consiglio nonché le direttive 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE del Parlamento europeo e del Consiglio e che abroga la decisione 87/95/CEE del Consiglio e la decisione n. 1673/2006/CE del Parlamento europeo e del Consiglio, GU L 316 del 14.11.2012, pag. 12</td><td colspan="2">[tab] Legge del 15 dicembre 2000 sugli agenti terapeutici e legge federale del 6 ottobre 1995[^annex3-lvlu1-lvl2-9] sugli ostacoli tecnici al commercio</td></tr>
+<tr><td>13. Regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del 18 dicembre 2000, concernente la tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni e degli organismi comunitari, nonché la libera circolazione di tali dati, GU L 8 del 12.1.2001, pag. 1</td><td colspan="2">[tab] Legge federale del 19 giugno 1992[^annex3-lvlu1-lvl2-10] sulla protezione dei dati</td></tr>
+<tr><td>14. Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93, GU L 218 del 13.8.2008, pag. 30</td><td colspan="2">[tab] Legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio e legge federale del 12 giugno 2009[^annex3-lvlu1-lvl2-11] sulla sicurezza dei prodotti</td></tr>
+<tr><td>15. Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1</td><td colspan="2">[tab] Legge del 15 dicembre 2000[^annex3-lvlu1-lvl2-12] sui prodotti chimici</td></tr>
+<tr><td>16. Regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, relativo alla messa a disposizione sul mercato e all’uso dei biocidi, GU L 167 del 27.6.2012, pag. 1</td><td colspan="2">[tab] Ordinanza del 18 maggio 2005[^annex3-lvlu1-lvl2-13] sui biocidi</td></tr>
+<tr><td>17. Direttiva 80/181/CEE del Consiglio, del 20 dicembre 1979, per il ravvicinamento delle legislazioni degli Stati Membri relative alle unità di misura che abroga la direttiva 71/354/CEE, GU L 39 del 15.2.1980, pag. 40</td><td colspan="2">[tab] Legge federale del 17 giugno 2011[^annex3-lvlu1-lvl2-14] sulla metrologia</td></tr>
+<tr><td>18. Direttiva 2013/59/Euratom del Consiglio, del 5 dicembre 2013, che stabilisce norme fondamentali di sicurezza relative alla protezione contro i pericoli derivanti dall’esposizione alle radiazioni ionizzanti, e che abroga le direttive 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom e 2003/122/Euratom, GU L 13 del 17.1.2014, pag. 1</td><td colspan="2">[tab] Legge federale del 22 marzo 1991[^annex3-lvlu1-lvl2-15] sulla radioprotezione</td></tr>
+<tr><td>19. Direttiva 2004/10/CE del Parlamento europeo e del Consiglio, dell’11 febbraio 2004, concernente il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative relative all’applicazione dei principi di buona pratica di laboratorio e al controllo della loro applicazione per le prove sulle sostanze chimiche, GU L 50 del 20.2.2004, pag. 44</td><td colspan="2">[tab] Ordinanza del 18 maggio 2005[^annex3-lvlu1-lvl2-16] sulla buona prassi di laboratorio</td></tr>
+<tr><td>20. Direttiva 90/385/CEE del Consiglio, del 20 giugno 1990, per il ravvicinamento delle legislazioni degli Stati Membri relative ai dispositivi medici impiantabili attivi, GU L 189 del 20.7.1990, pag. 17.</td><td colspan="2">[tab] Ordinanza relativa ai dispositivi medici del 17 ottobre 2001</td></tr>
+<tr><td>21. Direttiva 93/42/CEE del Consiglio, del 14 giugno 1993, concernente i dispositivi medici, GU L 169 del 12.7.1993, pag. 1.</td><td colspan="2">[tab] Ordinanza relativa ai dispositivi medici del 17 ottobre 2001</td></tr>
+</table>
+
+[^annex3-lvlu1-lvl2-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+[^annex3-lvlu1-lvl2-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^annex3-lvlu1-lvl2-3]: [RS 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
+[^annex3-lvlu1-lvl2-4]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^annex3-lvlu1-lvl2-5]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^annex3-lvlu1-lvl2-6]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^annex3-lvlu1-lvl2-7]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^annex3-lvlu1-lvl2-8]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex3-lvlu1-lvl2-9]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^annex3-lvlu1-lvl2-10]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^annex3-lvlu1-lvl2-11]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^annex3-lvlu1-lvl2-12]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^annex3-lvlu1-lvl2-13]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^annex3-lvlu1-lvl2-14]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
+[^annex3-lvlu1-lvl2-15]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex3-lvlu1-lvl2-16]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
+
+Allegato 4*[^t-1]*
+
+(art. 4 cpv. 2, 17 cpv. 4, 19 cpv. 1 lett. c, 20 cpv. 1, 23, 25 cpv. 3, 29 cpv. 2, 45 cpv. 2, 46 cpv. 3, 47 cpv. 1 e 98 cpv. 2 lett. b)
+
+## Atti della Commissione europea direttamente applicabili secondo l’UE-MDR****
+
+[^annex4-lvlu1-1]
+
+[^t-1]: Aggiornato dall’errata del 4 mag. 2021 ([RU 2021 260](https://fedlex.data.admin.ch/eli/oc/2021/260)).
+[^annex4-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. f.
+
+Nell’applicazione della presente ordinanza gli atti emanati sulla base delle disposizioni dell’UE-MDR sotto elencate sono direttamente applicabili in Svizzera nella rispettiva versione vincolante per gli Stati membri dell’UE:
+
+<table>
+<tr><th>Oggetto</th><th>Atto della Commissione europea in virtù dell’UE-MDR</th></tr>
+<tr><th>Art. 4 cpv. 2 ODmed</th><th>Atti delegati secondo l’articolo 3 UE-MDR</th></tr>
+<tr><th>Art. 17 cpv. 4 ODmed</th><th>Atti delegati secondo l’articolo 27 paragrafo 10 UE-MDR</th></tr>
+<tr><th>Art. 19 cpv. 1 lett. c ODmed</th><th>Atti di esecuzione secondo l’articolo 42 paragrafo 13 UE-MDR</th></tr>
+<tr><th>Art. 20 cpv. 1 ODmed</th><th>Atti delegati secondo l’articolo 18 paragrafo 3 UE-MDR</th></tr>
+<tr><th>Art. 23 ODmed</th><th>Atti delegati secondo l’articolo 52 paragrafo 5 UE-MDR</th></tr>
+<tr><th>Art. 25 cpv. 3 ODmed</th><th>Atti delegati secondo l’articolo 56 paragrafo 6 UE-MDR</th></tr>
+<tr><th>Art. 29 cpv. 2 ODmed</th><th>Atti delegati secondo l’articolo 19 paragrafo 4 UE-MDR</th></tr>
+<tr><th>Art. 45 cpv. 2 ODmed</th><th>Atti delegati secondo l’articolo 44 paragrafo 11 UE-MDR</th></tr>
+<tr><th>Art. 46 cpv. 3 ODmed</th><th>Atti delegati secondo l’articolo 61 paragrafo 8 UE-MDR</th></tr>
+<tr><th>Art. 47 cpv. 1 ODmed</th><th>Atti delegati secondo l’articolo 10 paragrafo 4 UE-MDR</th></tr>
+<tr><td>Art. 98 cpv. 2 lett. b ODmed</td><td>Atti delegati secondo l’articolo 106 paragrafo 15 UE-MDR</td></tr>
+</table>
+
+Allegato 5
+
+(art. 13 cpv. 1)
+
+## Marchio di conformità
+
+Il marchio di conformità è indicato nel modo seguente:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/it/xml/image/image1.png)
+
+Se occorre fare ricorso a un organismo designato, oltre al marchio di conformità va indicato anche il numero d’identificazione di tale organismo.
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20210526/it/xml/image/image2.png)
+
+Allegato 6
+
+(art. 70 cpv. 2 e 3)
+
+## Gruppi di dispositivi destinati all’applicazione da parte di specialisti e presupposti professionali e aziendali per il loro utilizzo
+
+### 1. Gruppi di dispositivi
+
+I dispositivi per iniezione destinati a rimanere nel corpo umano per più di 30 giorni (dispositivi a lunga permanenza) possono essere utilizzati esclusivamente da un medico oppure da uno specialista formato conformemente al numero 2 e sotto il diretto controllo e la responsabilità di un medico.
+
+## 2. Presupposti professionali
+
+I dispositivi a lunga permanenza possono essere utilizzati da infermieri diplomati provvisti di formazione continua nell’ambito dei dispositivi per iniezione a lunga permanenza.
