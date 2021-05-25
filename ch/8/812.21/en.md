@@ -4,11 +4,11 @@ title: "Federal Act of 15 December 2000 on Medicinal Products and Medical Device
 short: TPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: en
-version: 2020-08-01
+version: 2021-05-26
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20200801/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20200801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20200801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20210526/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20210526-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Therapeutic Products Act, TPA)
 
-of 15 December 2000 (Status as of 1 August 2020)
+of 15 December 2000 (Status as of 26 May 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -48,7 +48,7 @@ It shall furthermore:
 
 <sup>3</sup>
 
-In the implementation of this Act, in particular in the enactment of the regulations and in the application to an individual case, it shall be necessary to ensure that:
+In the implementation of this Act, in particular in the enactment of the regulations and in the application to an individual case, it must be ensured that:
 
 - a. the efficiency and independence of the control of therapeutic products is guaranteed in Switzerland;
 - b. favourable conditions exist for research and development in the therapeutic product sector;
@@ -56,19 +56,36 @@ In the implementation of this Act, in particular in the enactment of the regulat
 
 #### Art. 2
 
-**Applicability**
+**Scope**
 
 <sup>1</sup>
 
 This Act applies to:
 
-- a. the handling of therapeutic products (medicinal products and medical devices), particularly in their manufacture and placing on the market;
-- b. narcotics as defined in the Narcotics Act of 3 October 1951[^2-1], insofar as they are used as therapeutic products;
+- a.[^2-1] the handling of medicinal products and medical devices (therapeutic products);
+- b. narcotics as defined in the Narcotics Act of 3 October 1951[^2-2], insofar as they are used as therapeutic products;
 - c. therapeutic treatments, such as gene therapy, insofar as they directly relate to therapeutic products; the Federal Council may enact provisions specific to this subject.
 
 <sup>2</sup> The Federal Council may completely or partially exempt medical devices intended for use on animals or in veterinary diagnostics from the scope of this Act.
 
-[^2-1]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+<sup>3</sup> It may make subject to this Act certain products without an intended medical purpose which are comparable to medical devices in terms of functioning and risks profile.[^2-3]
+
+[^2-1]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^2-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^2-3]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 2a
+
+**Devitalised human tissue or cells**[^2a-1]
+
+<sup>1</sup> For therapeutic products which contain or consist of devitalised human tissues or cells, or derivatives thereof, the Federal Council shall specify requirements for the donation, removal, testing and devitalisation of these tissues or cells.
+
+<sup>2</sup> It may make subject to specific requirements of this Act and of the Transplantation Act of 8 October 2004[^2a-2] products which contain or consist of devitalised human tissues or cells, or derivatives thereof, and are not therapeutic products, but function as therapeutic products. In addition, it may also specify requirements for the donation, removal, testing and devitalisation of such tissues or cells, or derivatives thereof.
+
+<sup>3</sup> Human tissue or human cells may only be removed or used for the manufacture of products as specified in paragraphs 1 and 2 if consent has been obtained for removal. For this tissue and these cells, neither financial gain nor any other advantage may be offered, granted, demanded or accepted.
+
+[^2a-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^2a-2]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
 
 #### Art. 3
 
@@ -88,7 +105,7 @@ This Act applies to:
 
 In this Act:
 
-- a. *Medicinal products* means products of chemical or biological origin which are intended to have or are presented as having a medicinal effect on the human or animal organism, in particular in the diagnosis, prevention or treatment of diseases, injuries and handicaps; blood and blood products are also considered to be medicinal products;
+- a. *Medicinal products* means products of chemical or biological origin which are intended or claimed to have a medicinal effect on the human or animal organism, in particular in the diagnosis, prevention or treatment of diseases, injuries and handicaps; blood and blood products are also considered to be medicinal products;
 - a<sup>bis</sup>.[^4-1] *Medicinal products with indications* means medicinal products with an officially authorised indication in a specific field of application which are intended for use in accordance with the rules of the medical and pharmaceutical sciences;
 - a<sup>ter</sup>.[^4-2] *Complementary medicines with indications* means medicinal products with an officially authorised indication in a specific field of application which are manufactured according to the manufacturing regulations for complementary therapies such as homeopathy, anthroposophic medicine or traditional Asian medicine and whose field of application is determined according to the principles of the corresponding therapy approach;
 - [tab] a<sup>quater</sup>.[^4-3] *Complementary medicines without indications* means complementary medicines without an officially authorised indication in a specific field of application which are intended for use in individual therapies;
@@ -104,19 +121,21 @@ In this Act:
   - 1\. they are indicated for the diagnosis, prevention or treatment of a life-threatening or chronically debilitating disease affecting no more than five in ten thousand people in Switzerland when the application was submitted, or
   - 2\. they or their active substances are granted the status of Important medicinal products intended to treat rare diseases by another country with an equivalent system of medicinal product control within the meaning of Article 13;
 
-- b. *Medical devices* means products, including instruments, apparatus, in vitro diagnostics, software and other goods or substances which are intended to have, or are presented as having, a medical use and whose principal effect is not obtained with a medicinal product;
+- b.[^4-10] *Medical devices* means products, including instruments, apparatus, equipment, in vitro diagnostics, software, implants, reagents, materials and other goods or substances which are intended or claimed to have a medical use and whose principal effect is not obtained with a medicinal product;
 - c. *Manufacture* means all stages in the manufacture of a therapeutic product, from the acquisition of the precursors and the processing to the packaging, storage and delivery of the end products, and including the quality controls and batch release;
 - d. *Placing on the market* means the distribution and dispensing of therapeutic products;
-- e.[^4-10] *Distribution* means the transfer or release, either free of charge or in return for payment, but not the dispensing, of a therapeutic product and includes the activities of brokers and agents;
+- e.[^4-11] *Distribution* means the transfer or release, either free of charge or in return for payment, but not the dispensing, of a therapeutic product and includes the activities of brokers and agents;
 - f. *Dispensing* means the transfer or release, either free of charge or in return for payment, of a ready-to-use therapeutic product destined for use by the purchaser or for use on a third party or on animals;
-- f<sup>bis</sup>.[^4-11] *Prescription* means the recorded decision of a qualified medical professional issued in accordance with Article 26 paragraph 2 to a specific person, granting that person a right of access to medical services such as care services, medication, analyses or medical devices;
+- f<sup>bis</sup>.[^4-12] *Prescription* means the recorded decision of a qualified medical professional issued in accordance with Article 26 paragraph 2 to a specific person, granting that person a right of access to medical services such as care services, medication, analyses or medical devices;
 - g. *Pharmacopoeia* (*Pharmacopoeia Europaea* and *Pharmacopoeia Helvetica*) means a collection of regulations on the quality of medicinal products, excipients and certain medical devices;
-- h.[^4-12] *New active substance* means an active substance which is authorised for the first time in Switzerland pursuant to an ordinary procedure under Article 11. Active substances previously only authorised in medicinal products for human use shall be considered new active substances if they are used in products for veterinary use, and vice versa;
-- i.[^4-13] *Public pharmacy* means a pharmacy licensed by the canton, run by a pharmacist, which guarantees regular opening hours and offers direct access to the public;
-- j.[^4-14] *Hospital pharmacy* means a pharmacy in a hospital establishment, run by a pharmacist, offering pharmaceutical services to the customers of the hospital;
-- k.[^4-15] *Pro-pharmacy* means the cantonally approved dispensing of medicinal products in a doctor’s practice or an outpatient healthcare service whose pharmacy is under the professional responsibility of a doctor with a professional licence.
+- h.[^4-13] *New active substance* means an active substance which is authorised for the first time in Switzerland pursuant to an ordinary procedure under Article 11. Active substances previously only authorised in medicinal products for human use shall be considered new active substances if they are used in products for veterinary use, and vice versa;
+- i.[^4-14] *Public pharmacy* means a pharmacy licensed by the canton, run by a pharmacist, which guarantees regular opening hours and offers direct access to the public;
+- j.[^4-15] *Hospital pharmacy* means a pharmacy in a hospital establishment which is run by a pharmacist and offers, in particular, pharmaceutical services to the customers of the hospital; for the preparation of radiopharmaceuticals in accordance with Article 9 paragraph 2 letter a and paragraph 2<sup>bis</sup>, an internal radiopharmaceutical establishment is also deemed to be a hospital pharmacy;
+- k.[^4-16] *Pro-pharmacy* means the cantonally approved dispensing of medicinal products in a doctor’s practice or an outpatient healthcare service whose pharmacy is under the professional responsibility of a doctor with a professional licence.
 
 <sup>2</sup> The Federal Council may, by ordinance, distinguish between the terms used in this Act as well as those used in paragraph 1, define them in greater detail, and may provide for exceptions based upon new findings in science and technology as well as on international developments.
+
+<sup>3</sup> It may, for the area of medical devices, by ordinance, specify different definitions for the terms listed in paragraph 1, provided that this serves the purpose of international harmonisation.[^4-17]
 
 [^4-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-2]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -127,12 +146,14 @@ In this Act:
 [^4-7]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-8]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-9]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-10]: Amended by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^4-11]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-10]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^4-11]: Amended by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^4-12]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-13]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-14]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-15]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-15]: Inserted by No I of the FA of 18 March 2016 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^4-16]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-17]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ## Chapter 2 Medicinal Products
 
@@ -239,7 +260,7 @@ The following shall be exempt from authorisation:
 [^9-3]: Amended by No 1 of the FA of 13 June 2008, in force since 1 Oct. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^9-4]: Inserted by No I of the FA of 13 June 2008, in force since 1 Oct. 2010 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^9-5]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^9-6]: Inserted by No I of the FA of 13 June 2008 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)). Amended by No I of the FA of 18 March 2016, in force since 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^9-6]: Inserted by No I of the FA of 13 June 2008 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)). Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^9-7]: Inserted by No I of the FA of 13 June 2008 ([AS 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [BBl 2007 2393](https://fedlex.data.admin.ch/eli/fga/2007/384)). Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^9-8]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^9-9]: Repealed by No I of the FA of 18 March 2016, with effect from 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -319,7 +340,7 @@ The application for a marketing authorisation for the following medicinal produc
 
   Medicinal products with indication:
 
-  - 1\. the results of physical, chemical, galenic and biological or microbiological tests,
+  - 1\. the results of physical, chemical, pharmaceutical and biological or microbiological tests,
   - 2\. the results of pharmacological and toxicological tests and clinical trials, including all results from trials in specific population groups,
   - 3\. the therapeutic effects and the undesirable effects,
   - 4\. the labelling, the information supplied about the medicinal product, and the dispensing method and method of administration,
@@ -1055,7 +1076,7 @@ The Federal Council may impose measures for enforcement on the cantons and oblig
 
 **Requirements**
 
-<sup>1</sup> A medical device used in accordance with its intended use must not endanger the health of the user, the consumer, the patient or a third party. Claims for its performance or effectiveness must be provable.
+<sup>1</sup> A medical device used in accordance with its intended use must not endanger the health of the user, the consumer, the patient or a third party. The intended performance must be demonstrated.[^45-1]
 
 <sup>2</sup> Any person placing a medical device on the market must be able to prove that the device satisfies the fundamental requirements.
 
@@ -1063,15 +1084,25 @@ The Federal Council may impose measures for enforcement on the cantons and oblig
 
 The Federal Council shall lay down the requirements that medical devices must satisfy. In particular it shall lay down:
 
-- a. the fundamental requirements;
+- a[^45-2]. the fundamental safety and performance requirements;
 - b. the rules of their classification;
-- c. the languages used for the product information.
+- c. the languages used for the product information;
+- d.[^45-3] the product labelling.
 
-<sup>4</sup> The Agency shall designate the technical standards which are appropriate for fulfilling the fundamental requirements. It shall designate, as far as possible, the internationally harmonised standards. Any deviations must be approved by the competent authority[^45-1].
+<sup>4</sup> The Agency shall, in consultation with the State Secretariat for Economic Affairs, designate technical standards and common specifications which are appropriate for giving concrete form to the fundamental requirements. It shall designate, as far as possible, internationally harmonised standards. It shall publish in the Federal Gazette the titles of the designated technical standards and common specifications, also indicating the references or where they may be obtained.[^45-4]
 
 <sup>5</sup> The Federal Council shall lay down the requirements for medical devices intended for use in clinical trials.
 
-[^45-1]: Currently: State Secretariat for Economic Affairs.
+<sup>6</sup> It may provide for the relaxation of requirements for medical devices produced and used only within health institutions.[^45-5]
+
+<sup>7</sup> It may provide for the permissibility of reprocessing and further use of single-use devices. It shall specify the relevant conditions.[^45-6]
+
+[^45-1]: Second sentence amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-2]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-3]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-4]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-5]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-6]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 46
 
@@ -1098,16 +1129,97 @@ It may:
 
 #### Art. 47
 
-**Further regulations concerning the placing on the market**
+**Registration and device identification**[^47-1]
 
-<sup>1</sup> Any person placing medical devices on the market must introduce and maintain a product-tracking system allowing for the collection and analysis of experiences with the devices, and to ensure that such acquired insights are taken into account during the manufacture and further development of the devices.
+<sup>1</sup> The manufacturer must register medical devices in the information system specified in Article 62*c* or in the European database on medical devices (Eudamed). It must also ensure that a unique device identifier is assigned to the medical device.
 
-<sup>2</sup>
+<sup>2</sup> The Federal Council shall define the modalities for registration and for device identification. It may provide for exemptions from the obligations specified in paragraph 1.
+
+<sup>3</sup> It may regulate the obligations incumbent on the other economic operators concerned and on health institutions in connection with registration and device identification. It may, in particular, provide for an obligation to record and store the unique device identifiers of the devices acquired or supplied in certain categories.
+
+<sup>4</sup>
+
+The following are deemed to be economic operators:
+
+- a. the manufacturers;
+- b. the persons authorised to represent manufacturers with headquarters abroad (authorised representatives);
+- c. the importers;
+- d. the distributors;
+- e. the natural and legal persons who combine medical devices in order to place them on the market in the form of a system or a procedure pack;
+- f. the natural and legal persons who sterilise devices as specified in letter e before they are placed on the market.
+
+[^47-1]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47a
+
+**Documentation requirements**[^47a-1]
+
+<sup>1</sup> The manufacturer must produce technical documentation.
+
+<sup>2</sup> The technical documentation must be such as to permit an assessment of the conformity of the medical device with the requirements of this Act. In particular, it shall also contain information and data on post-market surveillance.
+
+<sup>3</sup> The manufacturer must keep the technical documentation up to date.
+
+<sup>4</sup> The Federal Council shall specify for what medical devices what data and information must be included in the technical documentation, and how this documentation must be made available.
+
+[^47a-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47b
+
+**Quality management**[^47b-1]
+
+<sup>1</sup> The manufacturer must establish and maintain a quality management system which is appropriate to the risk class and type of medical device and ensures compliance with the requirements of this Act.
+
+<sup>2</sup> The quality management system shall include, in particular, a risk management system and a post-market surveillance system.
+
+[^47b-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47c
+
+**Disclosure requirements**[^47c-1]
+
+<sup>1</sup>
+
+The economic operators shall disclose to the competent authority, on request:
+
+- a. all economic operators from whom they have acquired a medical device;
+- b. all economic operators to whom they have supplied a medical device;
+- c. all health institutions or health professionals to whom they have supplied a medical device.
+
+<sup>2</sup> The Federal Council shall specify for how long the information has to be kept.
+
+[^47c-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47d
+
+**Financial coverage and liability**[^47d-1]
+
+<sup>1</sup> The manufacturer or the authorised representative must have sufficient financial coverage to compensate for damage caused by defective medical devices.
+
+<sup>2</sup> The authorised representative shall be jointly and severally liable with the manufacturer vis-à-vis the injured party.
+
+[^47d-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47e
+
+**Additional obligations**[^47e-1]
+
+<sup>1</sup>
 
 The Federal Council may:
 
-- a. make provision for mandatory notification for the placing of certain medical devices on the market;
-- b. make provision for a licence for the placing of certain medical devices on the market, in particular for in vitro diagnostics.
+- a. make provision for mandatory notification for the placing on the market of certain medical devices;
+- b. make provision for mandatory licensing for the placing on the market of certain medical devices, in particular for in vitro diagnostics;
+- c. make provision for an obligation for economic operators and conformity assessment bodies to use Eudamed or the information system specified in Article 62*c*.
+
+<sup>2</sup>
+
+It shall regulate:
+
+- a. the additional obligations of economic operators and health institutions, in particular concerning the registration of the manufacturers and the information to be provided in connection with implantable medical devices;
+- b. the requirements for the manufacturers’ and authorised representatives’ persons responsible for regulatory compliance, and their other obligations.
+
+[^47e-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 48
 
@@ -1145,7 +1257,12 @@ The Federal Council may:
 
 <sup>1</sup> If required for the protection of health, the Federal Council may restrict or prohibit the import or export of certain medical devices.
 
-<sup>2</sup> If another State requires export certificates and attestations for the import of medical devices, the Agency may issue such documents to the exporters.
+<sup>2</sup> If another state requests export certificates and attestations for medical devices which are to be imported, the Agency may, on request, issue these documents to the manufacturer or to the authorised representative with a registered office in Switzerland.[^50-1]
+
+<sup>3</sup> Anyone exporting a medical device to a state with which Switzerland has concluded an agreement under international law for the mutual recognition of conformity assessments and procedures for medical devices must be able to demonstrate that the fundamental requirements referred to in Article 45 paragraph 2 are fulfilled.[^50-2]
+
+[^50-1]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^50-2]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 51
 
@@ -1184,43 +1301,45 @@ For clinical trials of therapeutic products in humans, the Human Research Act of
 
 <sup>1</sup> Clinical trials of therapeutic products require authorisation from the Agency in advance.
 
-<sup>2</sup>
-
-Exempted from mandatory authorisation are clinical trials involving:
-
-- a. authorised medicinal products administered in accordance with the approved conditions of use;
-- b. compliant medical devices applied in accordance with the intended use specified in the conformity assessment.
+<sup>2</sup> Exempted from mandatory authorisation are clinical trials involving authorised medicinal products used in accordance with the product information.[^54-2]
 
 <sup>3</sup>
 
 The Federal Council may:
 
 - a. for other trials, grant an exemption from mandatory authorisation or specify mandatory notification;
-- b. for clinical trials of veterinary therapeutic products, specify mandatory authorisation or notification.
+- b. for clinical trials of veterinary therapeutic products, specify mandatory authorisation or notification;
+- c.[^54-3] make modifications to clinical trials subject to mandatory authorisation.
 
 <sup>4</sup>
 
-As part of the authorisation procedure, the Agency shall verify whether:
+As part of the authorisation procedure, the Agency shall verify:
 
-- a. the medicinal products meet the requirements of Good Manufacturing Practice and of medicinal product safety; or
-- b. the medical devices meet the requirements specified in Article 45, the product risks are duly considered in the clinical trial, and the product data is in line with current scientific knowledge and correctly indicated in the protocol.
+- a. in the case of medicinal products, whether they comply with the rules of Good Manufacturing Practice and of medicinal product safety;
+- b.
 
-<sup>5</sup> It may at any time carry out an inspection to determine whether the conduct of the clinical trial meets the requirements specified in this Act and in the Human Research Act of 30 September 2011[^54-2].
+  in the case of medical devices, whether:
 
-<sup>6</sup> The Federal Council shall issue regulations concerning the procedure. It may specify mandatory authorisation for changes to clinical trials.
+  - 1\. the medical devices meet the requirements specified in Article 45, insofar as compliance with these requirements is not the subject of the clinical trial,
+  - 2\. the risks associated with a medical device are duly considered in the clinical trial,
+  - 3\. the information on the medical device is in line with current scientific knowledge and is correctly indicated in the protocol.[^54-4]
 
-<sup>7</sup>
+<sup>5</sup> ...[^54-5]
 
-It may specify notification or information requirements, in particular with regard to:
+<sup>6</sup> The Federal Council shall regulate the authorisation procedure. It may define the required form of the application and stipulate that the submission of applications, correspondence and the publication of decisions must be effected electronically.[^54-6]
 
-- a. the completion or discontinuation of a clinical trial;
-- b. adverse events observed in connection with a clinical trial;
-- c. the occurrence of circumstances during the conduct of a clinical trial which could affect the safety or health of the participants.
+<sup>7</sup> ...[^54-7]
 
-<sup>8</sup> In issuing regulations in accordance with paragraphs 4 and 5, the Federal Council shall have regard to recognised international regulations.
+<sup>8</sup> In issuing regulations in accordance with paragraphs 3 and 6, the Federal Council shall have regard to the recognised international regulations.[^54-8]
 
 [^54-1]: Amended by Annex No 6 of the Human Research Act of 30 Sept. 2011, in force since 1 Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
-[^54-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^54-2]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-3]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-4]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-5]: Repealed by No I of the FA of 22 March 2019, with effect from 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-6]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-7]: Repealed by No I of the FA of 22 March 2019, with effect from 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-8]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 54a
 
@@ -1238,6 +1357,25 @@ The Federal Council shall regulate:
 <sup>3</sup> It may waive the obligation to prepare a paediatric investigation plan, in particular for medicinal products for the treatment of diseases that occur only in adults. It may provide for a paediatric investigation plan assessed by a foreign authority to be taken into account.
 
 [^54a-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 54b
+
+**Supervision**[^54b-1]
+
+<sup>1</sup> The Agency may at any time carry out an inspection to determine whether the conduct of the clinical trial meets the requirements specified in this Act and in the Human Research Act of 30 September 2011[^54b-2].
+
+<sup>2</sup>
+
+The Federal Council may, having regard to recognised international regulations, specify notification and information requirements, concerning in particular:
+
+- a. the completion or discontinuation of a clinical trial;
+- b. adverse events observed in connection with a clinical trial;
+- c. incidents occurring during the conduct of a clinical trial which may affect the safety or health of the participants or call into question the acquisition of reliable and robust data.
+
+<sup>3</sup> It shall regulate the notification procedure and the exchange of information. It may stipulate that notification and the exchange of information must be effected electronically.
+
+[^54b-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54b-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
 ### Section 2*a* Integrity and Transparency****
 
@@ -1288,7 +1426,7 @@ The following are not regarded as undue advantages:
 
 **Official market surveillance**
 
-<sup>1</sup> The Agency and the other authorities entrusted with the implementation of this Act shall monitor, within the limits of their powers, whether the manufacture, distribution, dispensing and presentation of therapeutic products are in accordance with this Act.[^58-1] They shall verify by periodic inspection that the conditions for the licences are still fulfilled.
+<sup>1</sup> The Agency and the other authorities entrusted with the enforcement of this Act shall monitor, within the limits of their powers, whether the manufacture, distribution, dispensing and maintenance of, and claims relating to therapeutic products are lawful. For this purpose, they may carry out announced and unannounced inspections.[^58-1]
 
 <sup>2</sup> The Agency shall verify the therapeutic products placed on the market. It shall verify that the medicinal products conform to the marketing authorisation and that the medical devices satisfy the legal requirements.
 
@@ -1298,7 +1436,7 @@ The following are not regarded as undue advantages:
 
 <sup>5</sup> In the course of their monitoring services, the cantons shall notify the Agency or the Federal Office of Public Health (FOPH) in accordance with their respective responsibilities of any events, findings or complaints. The Agency or the FOPH shall take the necessary administrative measures. The cantons may also take the necessary administrative measures in the case of a serious direct threat to health.[^58-3]
 
-[^58-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^58-1]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^58-2]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^58-3]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
@@ -1379,15 +1517,16 @@ Persons responsible for the execution of this Act are obliged to maintain profes
 
 <sup>1</sup>
 
-Federal and cantonal authorities, regional centres and third parties entrusted with enforcement tasks may, to the extent necessary to fulfil their duties under this Act, process the following sensitive personal data and personality profiles:
+Federal and cantonal authorities, regional centres and third parties entrusted with enforcement tasks may, to the extent necessary to fulfil their duties under this Act, process the following sensitive personal data:[^62a-2]
 
 - a.
 
   data on health:
 
-  - 1\. for official market surveillance of blood and blood products,
-  - 2\. to exercise vigilance within the framework of incoming notifications on adverse effects and on quality defects, or
-  - 3\. to verify clinical trials on the basis of incoming notifications and inspections;
+  - 1\.[^62a-3] for official market surveillance,
+  - 2\. to exercise vigilance in connection with incoming notifications on adverse effects and events and on quality defects,
+  - 3\. to verify clinical trials on the basis of incoming notifications and inspections, or
+  - 4\.[^62a-4] in connection with applications for temporary authorisations as specified in Article 9*b* paragraph 1 and for exemptions for medical devices as specified in Article 46 paragraph 3 letter b;
 
 - b.
 
@@ -1403,12 +1542,15 @@ Federal and cantonal authorities, regional centres and third parties entrusted w
 The Federal Council shall issue implementing provisions on:
 
 - a. responsibility for data processing;
-- b. the scope of access authorisations through search processes;
+- b. the scope of access rights for retrieval procedures;
 - c. the length of time the data is to be kept;
 - d. the archiving and destruction of data;
 - e. data security.
 
 [^62a-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^62a-2]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-3]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-4]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 62b
 
@@ -1420,6 +1562,29 @@ The Federal Council shall issue implementing provisions on:
 
 [^62b-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 62c
+
+**Medical devices information system**[^62c-1]
+
+<sup>1</sup> The Agency, to fulfil its tasks, shall operate a medical devices information system; this shall serve in particular to ensure the safety of medical devices, as well as vigilance and surveillance.
+
+<sup>2</sup> The information system shall contain data as specified in Article 62*a* which is necessary for the surveillance of medical devices and the conduct of notification and authorisation procedures for clinical trials in accordance with this Act.
+
+<sup>3</sup> The data referred to in paragraph 2 may be automatically aligned with Eudamed.
+
+<sup>4</sup> Any data referred to in paragraph 2 which is not sensitive may be published with due protection of professional confidentiality and trade secrets.
+
+<sup>5</sup>
+
+The Federal Council shall regulate:
+
+- a. the structure and data catalogue;
+- b. the access rights;
+- c. the organisational and technical measures necessary to ensure data protection and data security;
+- d. the storage period.
+
+[^62c-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 63
 
@@ -1435,60 +1600,65 @@ The Federal Council shall issue implementing provisions on:
 
 #### Art. 64
 
-**Data disclosure to a foreign country and international administrative assistance[^64-1]**
-
-<sup>1</sup> The federal authorities responsible for enforcing this Act may request information from the competent foreign authorities or international organisations.
-
-<sup>2</sup> They shall be authorised to disclose non-confidential data collected in accordance with this Act to competent foreign authorities or international organisations.
-
-<sup>3</sup> They shall be authorised to disclose confidential data, including personal data, collected in accordance with this Act to competent foreign authorities or international organisations on a case by case basis insofar as this makes it possible to avoid serious health risks or to uncover illegal traffic or other serious violations of this Act.[^64-2]
-
-<sup>4</sup>
-
-They shall be authorised to disclose confidential data, including personal data, collected in accordance with this Act to competent foreign authorities, on request, on condition that:[^64-3]
-
-- a. the foreign authorities making the request guarantee confidentiality;
-- a<sup>bis</sup>.[^64-4] the disclosure does not violate the confidentiality of the personal data of the person concerned;
-- b. the foreign authorities making the request use the data exclusively within the scope of an administrative procedure for the execution of provisions relating to therapeutic products;
-- c. only data necessary for the execution of the provisions relating to therapeutic products are disclosed;
-- d. no manufacturing or trade secrets are revealed unless the disclosure of such information is essential for averting dangers directly threatening to health.
-
-<sup>4bis</sup>
-
-The Agency is entitled to disclose the following to the World Health Organization’s Global Pharmacovigilance Database for the purpose of reporting and registering adverse reactions to medicinal products:
-
-- a. confidential data and personal data relating to health, namely the initials, sex and year of birth of the person concerned;
-- b. a report on the adverse effects.[^64-5]
-
-<sup>5</sup> The Federal Council may conclude international agreements on the disclosure of confidential data, including personal data, to foreign authorities or to international organisations insofar as this is necessary for the enforcement of this Act.[^64-6]
-
-<sup>6</sup> The provisions on international mutual assistance in criminal matters are reserved.
-
-[^64-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-2]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-3]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-4]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-5]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-6]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-
-#### Art. 64a
-
-**Cross-border controls**[^64a-1]
+**Conditions for the disclosure of data and information abroad**[^64-1]
 
 <sup>1</sup>
 
-Competent foreign authorities shall, on notifying the Agency, be entitled to control Swiss establishments operating in the therapeutic product sector provided:
+The federal authorities responsible for the enforcement of this Act may disclose information which is not publicly accessible to the foreign authorities and institutions responsible for the enforcement of therapeutic product regulations and to international organisations, provided that it is ensured that:
 
-- a. the control has the sole purpose of verifying compliance with the regulations on therapeutic products;
-- b. the result of the control is used solely in administrative proceedings in connection with the enforcement of regulations on therapeutic products;
-- c. the establishment concerned consents to the control; and
-- d. the foreign authority informs the Agency of the result by providing it with the inspection report in an official Swiss language or in English.
+- a. the requesting body is bound by official secrecy and uses the information received exclusively in an administrative procedure in connection with the enforcement of therapeutic product regulations and does not pass it on to third parties;
+- b. only information required for the enforcement of therapeutic product regulations is transmitted;
+- c. no manufacturing or trade secrets are disclosed, unless the transmission of such information is required to avert an immediate and serious risk to human life or health.
 
-<sup>2</sup> The Agency may accompany the foreign authority during the control.
+<sup>2</sup>
 
-<sup>3</sup> It may in consultation with the competent authorities carry out controls of establishments abroad that operate in the therapeutic product sector if this is required to guarantee the protection of health.
+They may disclose personal data, including data on health and on administrative or criminal proceedings or sanctions, if legislation in the state concerned guarantees adequate protection of the privacy of the data subject. In the absence of such legislation, the data may only be disclosed if:
+
+- a. sufficient safeguards, in particular contractual clauses, ensure an adequate level of protection;
+- b. the data subject has consented in the specific case;
+- c. serious risks to health can thereby be averted in the specific case;
+- d. disclosure is required in the specific case in order to protect the life or the physical integrity of the data subject; or
+- e. in the specific case, there is a possibility that illegal traffic or other serious violations of this Act may be revealed as a result.
+
+<sup>3</sup>
+
+In particular, the following data may be disclosed:
+
+- a. results of market surveillance;
+- b. inspection reports;
+- c. information on clinical trials;
+- d. information from vigilance;
+- e. information on authorisations;
+- f. information on conformity assessment bodies.
+
+<sup>4</sup>
+
+The Agency is entitled to disclose the following information to the World Health Organization via its Global Pharmacovigilance Database, in connection with notifications and registrations of adverse reactions to medicinal products:
+
+- a. information which is not publicly accessible and personal data relating to health, together with the data subject’s initials, sex and year of birth;
+- b. a report on the adverse reactions.
+
+[^64-1]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 64a
+
+**Cross-border inspections**[^64a-1]
+
+<sup>1</sup>
+
+Competent foreign authorities shall, on notifying the Agency, be entitled to inspect Swiss establishments operating in the therapeutic products sector provided that:
+
+- a. the inspection has the sole purpose of verifying compliance with regulations on therapeutic products;
+- b. the results of the inspection are used solely in administrative proceedings in connection with the enforcement of regulations on therapeutic products;
+- c. the establishment concerned consents to the inspection; and
+- d. the foreign authority informs the Agency of the results by providing it with the inspection report in an official Swiss language or in English.
+
+<sup>2</sup> The Agency may accompany the foreign authority during its inspection.
+
+<sup>3</sup> It may in consultation with the competent authorities carry out inspections of establishments abroad that operate in the therapeutic products sector, if this is required to guarantee the protection of health. In addition, it may participate in inspections carried out by competent foreign authorities.[^64a-2]
 
 [^64a-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64a-2]: Second sentence inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### Section 4*a***** Information System on Antibiotics in Veterinary Medicine
 
@@ -1521,7 +1691,7 @@ The competent federal and cantonal authorities are entitled to process personal 
 The Antibiotics Information System contains personal data including:
 
 - a. the quantity of medicinal products containing antimicrobial agents distributed to the persons entitled to dispense them;
-- b. the data on prescription, dispensing and use of medicinal prodcuts containing antimicrobial agents in accordance with the instructions for use and the official prescription form;
+- b. the data on prescription, dispensing and use of medicinal products containing antimicrobial agents in accordance with the instructions for use and the official prescription form;
 - c. the name and address of the dispensing person or practice;
 - d. the name of the livestock holder to whom the medicinal product is dispensed;
 - e. the date of dispensing.
@@ -1593,7 +1763,7 @@ The cantons that use the Antibiotics Information System for their own enforcemen
 
 <sup>2</sup> It shall levy a supervision fee on the marketing authorisation holders for the financing of costs it incurs in the field of medicinal products which are not covered by fees in accordance with paragraph 1 or by payments from the Confederation in accordance with Article 77 paragraph 2a.[^65-1]
 
-<sup>3</sup> The supervision fee shall be levied on the ex factory price of the authorised ready-to-use medicinal products sold in Switzerland. The maximum fee is 1.5 per cent of the ex factory price. The income from the fee may not exceed a total of 1 per cent of the proceeds from all medicinal products sold in the respective levy year.[^65-2]
+<sup>3</sup> The supervision fee shall be levied on the ex-factory price of the authorised ready-to-use medicinal products sold in Switzerland. The maximum fee is 1.5 per cent of the ex-factory price. The income from the fee may not exceed a total of 1 per cent of the proceeds from all medicinal products sold in the respective levy year.[^65-2]
 
 <sup>4</sup> The Federal Council shall regulate the details of the supervision fee, in particular the fee rate applicable to the individual price categories.[^65-3]
 
@@ -1613,7 +1783,7 @@ The cantons that use the Antibiotics Information System for their own enforcemen
 
 **In general**
 
-<sup>1</sup> The Agency and the other authorities entrusted with the implementation of this Act may within their jurisdiction take all administrative measures necessary to enforce this Act.[^66-1]
+<sup>1</sup> The Agency and the other authorities entrusted with the enforcement of this Act may within their jurisdiction take all administrative measures necessary to enforce this Act.[^66-1]
 
 <sup>2</sup>
 
@@ -1743,7 +1913,7 @@ The Federal Council:
 
 <sup>5</sup> It may appoint advisory committees and experts.
 
-### Section 2 Duties and Strategic Objectives****
+### Section 2 Tasks and Strategic Objectives****
 
 [^chap5-sec2-1]
 
@@ -1751,13 +1921,13 @@ The Federal Council:
 
 #### Art. 69
 
-**Duties**
+**Tasks**
 
-<sup>1</sup> The Agency shall accomplish the duties assigned to it under this Act and other federal acts.[^69-1]
+<sup>1</sup> The Agency shall accomplish the tasks assigned to it under this Act and other federal acts.[^69-1]
 
-<sup>1bis</sup> The Federal Council may, against payment, delegate other duties to the Agency which are closely related to the duties assigned to it by law and which do not impair its performance.[^69-2]
+<sup>1bis</sup> The Federal Council may, against payment, delegate other tasks to the Agency which are closely related to the tasks assigned to it by law and which do not impair its performance.[^69-2]
 
-<sup>2</sup> The Agency may, in return for payment, provide services to other authorities and international organisations within the scope of its duties under this Act, provided that such services do not jeopardise the independence of the Agency.[^69-3]
+<sup>2</sup> The Agency may, in return for payment, provide services to other authorities and international organisations within the scope of its tasks under this Act, provided that such services do not jeopardise the independence of the Agency.[^69-3]
 
 <sup>3</sup> The Federal Council may ask the Agency to participate in the drafting of legislation in the therapeutic products sector.
 
@@ -1933,6 +2103,49 @@ The Management Board has the following duties:
 [^75a-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^75a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
+#### Art. 75b
+
+**Data processing**[^75b-1]
+
+<sup>1</sup>
+
+The Agency shall process, on paper and in one or more information systems, employee data for the fulfilment of its tasks in accordance with this Act, in particular for:
+
+- a. determining personnel requirements;
+- b. meeting personnel requirements through staff recruitment;
+- c. wage and salary accounting, preparation of personnel records, social insurance notifications;
+- d. development and long-term retention of staff;
+- e. maintenance and improvement of staff qualifications;
+- f. planning, management and control through data analysis, benchmarking, reporting and planning of measures.
+
+<sup>2</sup>
+
+It may process the following personnel data necessary for the fulfilment of its tasks as specified in paragraph 1, including sensitive personal data:
+
+- a. personal details;
+- b. information on the health situation in relation to fitness for work;
+- c. information on performance and potential, and on personal and professional development;
+- d. data required for participation in the enforcement of social insurance law;
+- e. procedural documents and decisions by authorities relating to work.
+
+<sup>3</sup> It shall be responsible for data protection and security.
+
+<sup>4</sup> It may pass on data to third parties if a legal basis for this exists, or if written consent has been given by the data subject.
+
+<sup>5</sup>
+
+It shall issue implementing provisions on:
+
+- a. the architecture, organisation and operation of the information systems;
+- b. the processing of data, in particular the collection, storage, archiving and destruction thereof;
+- c. data processing permissions;
+- d. data categories in accordance with paragraph 2;
+- e. data protection and security.
+
+<sup>6</sup> It may provide for the disclosure of non-sensitive data through retrieval procedures. It shall issue implementing provisions for this purpose.
+
+[^75b-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
 #### Art. 76
 
 **Pension fund**[^76-1]
@@ -1955,17 +2168,28 @@ The staff of the Agency are insured by the Federal Pension Fund.
 
 <sup>2</sup>
 
-The Agency shall finance its expenditure, in particular from:
+The Agency shall finance its expenditure, in particular, from:
 
-- a. federal remuneration for tasks referred to in Article 69 paragraph 1, provided they are not covered by fees;
+- a.[^77-2] federal remuneration for tasks referred to in Article 69 paragraph 1, where these are not covered by charges and fees;
 - b. charges and fees referred to in Article 65;
 - c. charges for services provided to other authorities and international organisations referred to in Article 69 paragraph 2.
 
-<sup>3</sup> The task-specific use of funds referred to in paragraph 2 letters a and b shall be determined within the framework of the approval of the strategic objectives.
+<sup>2bis</sup>
+
+The following tasks and activities of the Agency shall be fully financed from federal remuneration:
+
+- a. legislation;
+- b. enforcement of criminal provisions;
+- c. surveillance of medical devices.[^77-3]
+
+<sup>3</sup> The task-specific use of the funds referred to in paragraph 2 letters a and b and the adjustments to be made in the event of over- or underfinancing of the tasks and activities referred to in paragraph 2<sup>bis</sup> shall be determined within the framework of the approval of strategic objectives.[^77-4]
 
 <sup>4</sup> The fines and income from sanctions shall go to the Confederation.
 
 [^77-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^77-2]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^77-3]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^77-4]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 78
 
@@ -2078,11 +2302,29 @@ The Federal Council shall carry out its supervisory and control functions in par
 
 **Federal government**
 
-<sup>1</sup> The Federal Council and the Agency shall enforce this Act insofar as the Act states that the Confederation is competent to do so. The FOPH is responsible for implementing Chapter 4 Section 2*a*. The Federal Council may delegate certain of the Agency’s or the FOPH’s duties to other authorities.[^82-1]
+<sup>1</sup> The Federal Council and the Agency shall enforce this Act insofar as the Act states that the Confederation is competent to do so. The Agency is the enforcement authority for products specified in Article 2*a*. The FOPH is responsible for the enforcement of Chapter 4 Section 2*a*. The Federal Council may delegate certain of the Agency’s or the FOPH’s tasks to other authorities.[^82-1]
 
 <sup>2</sup> The Federal Council shall enact the implementing provisions unless this Act states that the Agency is competent to do so, or when it has not allocated the enactment of provisions of a technical nature or of minor importance to the Agency.
 
-[^82-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+<sup>3</sup> Insofar as certain delegated acts and implementing acts of the European Commission in the area of medical devices concern technical or administrative details that are regulated on an ongoing basis and generally amended at short notice, the Federal Council may determine that the relevant acts in the version binding for EU member states are also to be applicable in Switzerland.[^82-2]
+
+[^82-1]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^82-2]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 82a
+
+**International cooperation**[^82a-1]
+
+<sup>1</sup> The federal authorities responsible for the enforcement of this Act shall cooperate with foreign authorities and international organisations.
+
+<sup>2</sup>
+
+The Federal Council may conclude treaties under international law concerning:
+
+- a. the exchange of information with foreign authorities or international organisations and Switzerland’s involvement in international information systems to ensure the safety of therapeutic products;
+- b. the disclosure of personal data, including data on health and on administrative or criminal proceedings or sanctions, to foreign authorities or international organisations, insofar as this is necessary for the enforcement of this Act.
+
+[^82a-1]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 83
 
@@ -2140,24 +2382,34 @@ A custodial sentence not exceeding three years or a monetary penalty shall be im
 - a. manufactures, places on the market, uses, prescribes, imports or exports, or trades in a foreign country medicinal products without the required marketing authorisation or licence, or contrary to the due diligence requirements stipulated in Articles 3, 7, 21, 22, 26, 29 and 42;
 - b. uses antibiotic substances contrary to the restrictions or prohibitions laid down in Article 42*a* paragraph 2;
 - c. violates, when handling blood or blood products, the provisions on the fitness of the donor to give blood, on the obligation to test, on the obligation to record or archive or due diligence requirements in accordance with Article 37, or fails to take the necessary protections and safeguards;
-- d. places medical devices on the market which do not satisfy the requirements of this Act, or uses medical devices without fulfilling the technical or operational requirements;
+- d.[^86-2] places on the market, exports or uses medical devices which do not satisfy the requirements of this Act, or uses medical devices without the necessary technical or operational requirements being fulfilled;
 - e. violates the due diligence requirement pursuant to Article 48 or the obligation to maintain medical devices;
 - f. performs a clinical trial on a human being which does not satisfy the requirements of this Act, or allows the same to be performed;
 - g. unlawfully copies, falsifies or incorrectly names medicinal products or medical devices, or places on the market, uses, imports or exports, or trades in a foreign country, unlawfully copied, falsified or incorrectly named medicinal products or medical devices;
-- h. violates a ban under Article 55.
+- h. violates a prohibition under Article 55.
+- i.[^86-3] places on the market products which do not meet the requirements specified by the Federal Council in accordance with Article 2*a*;
+- j.[^86-4] offers, grants, demands or accepts a financial gain or other advantage for human tissue or human cells or uses such tissues or cells for the manufacture of products as specified in Article 2*a*;
+- k.[^86-5] removes or uses human tissue or human cells for the manufacture of products as specified in Article 2*a* in the absence of consent for removal.
 
 <sup>2</sup>
 
-A custodial sentence not exceeding ten years, which may be combined with a monetary penalty, shall be imposed on any person who, in the cases referred to in paragraph 1a–g:
+A custodial sentence not exceeding ten years, which may be combined with a monetary penalty, or a monetary penalty shall be imposed on any person who, in the cases referred to in paragraph 1 letters a–g and i–k:[^86-6]
 
 - a. knows or must assume that the violation specifically endangers human health;
 - b. achieves a high turnover or makes substantial profits through commercial activity.
 
-<sup>3</sup> Any person acting as a member of a gang involved in the illicit trade in therapeutic products in the cases referred to in paragraph 1 letters a, c, d, f and g shall be liable to a custodial sentence not exceeding ten years, which may be combined with a fine.
+<sup>3</sup> Any person acting as a member of a gang involved in the illicit trade in therapeutic products in the cases referred to in paragraph 1 letters a, c, d, f, g and i–k shall be liable to a custodial sentence not exceeding ten years, which may be combined with a monetary penalty, or to a monetary penalty.[^86-7]
 
-<sup>4</sup> If the person concerned acts through negligence, he or she shall be liable to a monetary penalty not exceeding 180 daily penalty units. In minor cases, a fine may be imposed.
+<sup>4</sup> If the person concerned acts through negligence, he or she shall be liable to a monetary penalty. In minor cases, a fine may be imposed.[^86-8]
 
 [^86-1]: Amended by No I of the FA of 18 March 2016 with the exception of paragraph 1 letter h in force since 1 Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^86-2]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-3]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-4]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-5]: Inserted by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-6]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-7]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-8]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
 
@@ -2169,14 +2421,14 @@ A fine not exceeding 50,000 Swiss francs shall be imposed on any person who wilf
 
 - a. manufactures, places on the market, imports or exports, or trades in a foreign country therapeutic products or excipients which do not conform to the requirements stated in the Pharmacopoeia;
 - b. contravenes the regulations on the advertising of medicinal products;
-- c.[^87-3] violates the obligation under this Act to notify or disclose;
+- c.[^87-3] violates an obligation under this Act to notify, register or disclose;
 - d. violates the obligations to label, keep records, to archive or to cooperate;
 - e. violates the obligation of secrecy, unless there is a violation of Article 162, 320 or 321 of the Criminal Code[^87-4];
-- f.[^87-5] commits an offence referred to in Article 86 paragraph 1 letters a-g where the therapeutic product is intended exclusively for personal use or involves an over-the-counter medicinal product or a Class I medical device in accordance with Annex IX to Directive 93/42/EEC[^87-6] concerning medical devices;
+- f.[^87-5] commits an offence referred to in Article 86 paragraph 1 letters a–g where the therapeutic product is intended exclusively for personal use or involves an over-the-counter medicinal product or a Class I medical device in accordance with Annex IX to Directive 93/42/EEC[^87-6] concerning medical devices;
 - [tab] g.[^87-7]fails to comply with a ruling against him or her which refers to the penalties provided for in this article;
 - h.[^87-8] infringes the obligation of transparency laid down in Article 56.
 
-<sup>2</sup> If the person concerned acts in a professional capacity in the cases provided for by paragraphs 1 letters a, b, e or f, he or she shall be liable to a monetary penalty not exceeding 180 daily penalty units.[^87-9]
+<sup>2</sup> If the person concerned acts in a professional capacity in the cases referred to in paragraph 1 letter a, b, e or f, he or she shall be liable to a monetary penalty.[^87-9]
 
 <sup>3</sup> If the person concerned acts through negligence, the penalty shall be a fine not exceeding 20,000 Swiss francs.[^87-10]
 
@@ -2188,13 +2440,13 @@ A fine not exceeding 50,000 Swiss francs shall be imposed on any person who wilf
 
 [^87-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-2]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^87-3]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-3]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^87-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^87-5]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-6]: Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169 of 12.7.1993, p. 1; last amended by Directive 2007/47/ECD, OJ L 247 of 21.9.2007, p. 21.
 [^87-7]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-8]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^87-9]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-9]: Amended by No I of the FA of 22 March 2019, in force since 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^87-10]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 88

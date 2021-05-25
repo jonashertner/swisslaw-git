@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur les médicaments et les disposit
 short: LPTh
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: fr
-version: 2020-08-01
+version: 2021-05-26
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20200801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20200801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20200801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20210526-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20200801/fr"
 
 (Loi sur les produits thérapeutiques, LPTh)[^t-1]
 
-du 15 décembre 2000 (Etat le 1<sup>er</sup> août 2020)
+du 15 décembre 2000 (Etat le 26 mai 2021)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -62,13 +62,30 @@ Dans l’exécution de la présente loi, notamment lors de la mise au point des 
 
 La présente loi s’applique:
 
-- a. aux opérations en rapport avec les produits thérapeutiques (médicaments et dispositifs médicaux), notamment à leur fabrication et à leur mise sur le marché;
-- b. aux stupéfiants visés par la loi du 3 octobre 1951 sur les stupéfiants[^2-1] lorsqu’ils sont utilisés comme produits thérapeutiques;
+- a.[^2-1] aux opérations en rapport avec les médicaments et dispositifs médicaux (produits thérapeutiques);
+- b. aux stupéfiants visés par la loi du 3 octobre 1951 sur les stupéfiants[^2-2] lorsqu’ils sont utilisés comme produits thérapeutiques;
 - c. aux procédés thérapeutiques, tels que la thérapie génique, pour autant qu’ils aient un rapport direct avec des produits thérapeutiques; le Conseil fédéral peut édicter des dispositions particulières à ce sujet.
 
 <sup>2</sup> Le Conseil fédéral peut soustraire au champ d’application de la présente loi tout ou partie des dispositifs médicaux destinés aux animaux ou à un usage diagnostique vétérinaire.
 
-[^2-1]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+<sup>3</sup> Il peut soumettre à la présente loi des produits qui ne sont pas destinés à un usage médical mais dont le mode de fonctionnement et le profil de risque sont comparables à ceux de dispositifs médicaux.[^2-3]
+
+[^2-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^2-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^2-3]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 2a
+
+**Tissus humains et cellules humaines dévitalisés**[^2a-1]
+
+<sup>1</sup> Pour les produits thérapeutiques qui contiennent des tissus humains dévitalisés, des cellules humaines dévitalisées ou leurs dérivés, ou qui en sont constitués, le Conseil fédéral fixe des exigences concernant le don, le prélèvement, le dépistage et la dévitalisation de ces tissus et cellules.
+
+<sup>2</sup> Il peut soumettre à des exigences spécifiques de la présente loi ou de la loi du 8 octobre 2004 sur la transplantation[^2a-2] les produits qui contiennent des tissus humains dévitalisés, des cellules humaines dévitalisées ou leurs dérivés, ou qui en sont constitués, et qui ne sont pas des produits thérapeutiques mais revêtent une fonction thérapeutique. Par ailleurs, il peut fixer des exigences concernant le don, le prélèvement, le dépistage et la dévitalisation de ces tissus et cellules ou de leurs dérivés.
+
+<sup>3</sup> Des tissus humains et cellules humaines ne peuvent être prélevés ou utilisés pour fabriquer les produits visés aux al. 1 et 2 qu’en cas de consentement au prélèvement. Aucun avantage pécuniaire ou autre ne peut être proposé, octroyé, exigé ou accepté concernant ces tissus et cellules.
+
+[^2a-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^2a-2]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
 
 #### Art. 3
 
@@ -104,19 +121,21 @@ Au sens de la présente loi, on entend par:
   - 1\. il est destiné au diagnostic, à la prévention ou au traitement d’une maladie mettant en danger la vie du patient ou entraînant une invalidité chronique, qui ne touche pas plus de cinq personnes sur dix mille en Suisse au moment du dépôt de la demande,
   - 2\. le statut de médicament orphelin a été accordé à ce médicament ou à son principe actif dans un autre pays ayant institué un contrôle des médicaments considéré comme équivalent au sens de l’art. 13;
 
-- b. *Dispositifs médicaux:* les produits, y compris les instruments, les appareils, les diagnostics in vitro, les logiciels et autres objets ou substances destinés à un usage médical, ou présentés comme tels, dont l’action principale n’est pas obtenue par un médicament;
+- b.[^4-10] *dispositifs médicaux:* les produits, y compris les instruments, les appareils, les équipements, les diagnostics in vitro, les logiciels, les implants, les réactifs, les matières et autres articles ou substances destinés à un usage médical, ou présentés comme tels, dont l’action principale n’est pas obtenue par un médicament;
 - c. *Fabrication:* toutes les étapes de la production des produits thérapeutiques, de l’acquisition des matériaux de base au conditionnement du produit fini en passant par la préparation, le stockage et la livraison, ainsi que les contrôles de qualité et la libération des lots;
 - d. *Mise sur le marché:* la distribution et la remise de produits thérapeutiques;
-- e.[^4-10] *Distribution:* le transfert ou la mise à disposition, rémunérés ou non, d’un produit thérapeutique, y compris les activités des courtiers et des agents, à l’exclusion de la remise;
+- e.[^4-11] *Distribution:* le transfert ou la mise à disposition, rémunérés ou non, d’un produit thérapeutique, y compris les activités des courtiers et des agents, à l’exclusion de la remise;
 - f. *Remise:* le transfert ou la mise à disposition, rémunéré ou non, d’un produit thérapeutique prêt à l’emploi, destiné à être utilisé par l’acquéreur sur lui-même, sur autrui ou sur un animal;
-- f<sup>bis</sup>.[^4-11] *prescription:* décision protocolée d’un membre autorisé d’une profession médicale qui est établie conformément à l’art. 26, al. 2, pour une personne déterminée et qui confère à cette dernière un droit d’accès à des prestations médicales telles que des soins, des médicaments, des analyses ou des dispositifs médicaux;
+- f<sup>bis</sup>.[^4-12] *prescription:* décision protocolée d’un membre autorisé d’une profession médicale qui est établie conformément à l’art. 26, al. 2, pour une personne déterminée et qui confère à cette dernière un droit d’accès à des prestations médicales telles que des soins, des médicaments, des analyses ou des dispositifs médicaux;
 - g. *Pharmacopée (Pharmacopoea Europaea* et *Pharmacopoea Helvetica):* un recueil de prescriptions relatives à la qualité des médicaments, des excipients et de certains dispositifs médicaux;
-- h.[^4-12] *nouveau principe actif**:* tout principe actif autorisé pour la première fois en Suisse selon la procédure ordinaire visée à l’art. 11. Les principes actifs ayant été autorisés auparavant uniquement dans les médicaments à usage humain sont considérés comme de nouveaux principes actifs s’il sont utilisés pour les médicaments à usage vétérinaire et inversement;
-- i.[^4-13] *pharmacie publique:* exploitation pharmaceutique qui dispose d’une autorisation cantonale, est dirigée par un pharmacien, garantit des horaires d’ouverture réguliers et offre un accès direct au public;
-- j.[^4-14] *pharmacie d’hôpital:* structure au sein d’un établissement hospitalier dirigée par un pharmacien qui fournit des prestations pharmaceutiques à la clientèle de l’hôpital;
-- k.[^4-15] *pro-pharmacie:* remise de médicaments autorisée par le canton au sein d’un cabinet médical ou d’une institution ambulatoire de santé dont la pharmacie est placée sous la responsabilité professionnelle d’un médecin possédant une autorisation d’exercer.
+- h.[^4-13] *nouveau principe actif**:* tout principe actif autorisé pour la première fois en Suisse selon la procédure ordinaire visée à l’art. 11. Les principes actifs ayant été autorisés auparavant uniquement dans les médicaments à usage humain sont considérés comme de nouveaux principes actifs s’il sont utilisés pour les médicaments à usage vétérinaire et inversement;
+- i.[^4-14] *pharmacie publique:* exploitation pharmaceutique qui dispose d’une autorisation cantonale, est dirigée par un pharmacien, garantit des horaires d’ouverture réguliers et offre un accès direct au public;
+- j.[^4-15] *pharmacie d’hôpital:* le service qui, au sein d’un établissement hospitalier, est dirigé par un pharmacien et fournit notamment des prestations pharmaceutiques aux clients de l’hôpital; pour la fabrication de produits radiopharmaceutiques visés à l’art. 9, al. 2, let. a, et al. 2<sup>bis</sup>, le service de radiopharmacie d’un hôpital équivaut à une pharmacie d’hôpital;
+- k.[^4-16] *pro-pharmacie:* remise de médicaments autorisée par le canton au sein d’un cabinet médical ou d’une institution ambulatoire de santé dont la pharmacie est placée sous la responsabilité professionnelle d’un médecin possédant une autorisation d’exercer.
 
 <sup>2</sup> Le Conseil fédéral peut, par voie d’ordonnance, délimiter les uns par rapport aux autres les autres termes utilisés dans la présente loi et les définitions énoncées à l’al. 1, les préciser et prévoir des exceptions compte tenu des dernières connaissances scientifiques et techniques ainsi que des développements sur le plan international.
+
+<sup>3</sup> Il peut, par voie d’ordonnance, donner aux termes visés à l’al. 1 une définition différente pour le domaine des dispositifs médicaux, à des fins d’harmonisation internationale.[^4-17]
 
 [^4-1]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-2]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -127,12 +146,14 @@ Au sens de la présente loi, on entend par:
 [^4-7]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-8]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Erratum de la Commission de rédaction de l’Assemblée fédérale du 13 déc. 2018 ([RO 2018 5449](https://fedlex.data.admin.ch/eli/oc/2018/824)).
 [^4-9]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-10]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^4-11]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-10]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^4-11]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^4-12]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-13]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^4-14]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^4-15]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-15]: Introduite par le ch. I de la LF du 18 mars 2016 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^4-16]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^4-17]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ## Chapitre 2 Médicaments
 
@@ -1058,7 +1079,7 @@ Le Conseil fédéral peut prescrire aux cantons des mesures visant à uniformise
 
 **Exigences**
 
-<sup>1</sup> Nul dispositif médical utilisé conformément à l’usage auquel il est destiné ne doit mettre en danger la santé de l’utilisateur, du consommateur, du patient ou de tiers. Les allégations quant à ses performances ou à son efficacité doivent pouvoir être prouvées.
+<sup>1</sup> Nul dispositif médical utilisé conformément à l’usage auquel il est destiné ne doit mettre en danger la santé de l’utilisateur, du consommateur, du patient ou de tiers. Les performances prévues doivent être prouvées.[^45-1]
 
 <sup>2</sup> Quiconque met un dispositif médical sur le marché doit pouvoir prouver que ledit dispositif satisfait aux exigences essentielles.
 
@@ -1066,15 +1087,25 @@ Le Conseil fédéral peut prescrire aux cantons des mesures visant à uniformise
 
 Le Conseil fédéral fixe les exigences auxquelles les dispositifs médicaux doivent satisfaire. Il fixe notamment:
 
-- a. les exigences essentielles;
+- a.[^45-2] les exigences essentielles en matière de sécurité et de performances;
 - b. les règles de leur classification;
-- c. les langues dans lesquelles doit être rédigée l’information sur le produit.
+- c. les langues dans lesquelles doit être rédigée l’information sur le produit;
+- d.[^45-3] l’étiquetage des dispositifs médicaux.
 
-<sup>4</sup> L’institut désigne les normes techniques qui permettent de concrétiser les exigences essentielles. Il désigne autant que possible des normes harmonisées sur le plan international. Toute dérogation doit être approuvée par l’autorité compétente[^45-1].
+<sup>4</sup> L’institut désigne, en accord avec le Secrétariat d’État à l’économie, des normes techniques et des spécifications communes permettant de concrétiser les exigences essentielles. Il désigne dans la mesure du possible des normes harmonisées au niveau international. Il publie dans la Feuille fédérale les normes techniques et les spécifications communes désignées, avec leur titre et leur référence ou le nom de l’organisme auprès duquel elles peuvent être obtenues.[^45-4]
 
 <sup>5</sup> Le Conseil fédéral fixe les exigences applicables aux dispositifs médicaux destinés à des essais.
 
-[^45-1]: Secrétariat d’état à l’économie
+<sup>6</sup> Il peut prévoir des allégements pour les dispositifs médicaux qui sont fabriqués et utilisés exclusivement dans des établissements de santé.[^45-5]
+
+<sup>7</sup> Il peut prévoir que des dispositifs médicaux à usage unique puissent être remis à neuf et réutilisés. Il fixe les conditions à respecter.[^45-6]
+
+[^45-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-3]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-5]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^45-6]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 46
 
@@ -1101,18 +1132,97 @@ Il peut:
 
 #### Art. 47
 
-**Autres dispositions concernant la mise sur le marché**
+**Enregistrement et identification**[^47-1]
 
-<sup>1</sup> Quiconque met des dispositifs médicaux sur le marché est tenu de mettre en place et de gérer un système d’observation des produits permettant de recueillir et d’analyser les expériences faites avec ceux-ci, et de pourvoir à ce que les données ainsi acquises soient prises en considération lors de leur fabrication ou de leur développement ultérieur.
+<sup>1</sup> Le fabricant enregistre les dispositifs médicaux dans le système d’information visé à l’art. 62*c* ou dans la base de données européenne sur les dispositifs médicaux (Eudamed). Il s’assure en outre qu’un identifiant unique leur est attribué.
 
-<sup>2</sup>
+<sup>2</sup> Le Conseil fédéral définit les modalités d’enregistrement et d’identification des dispositifs médicaux. Il peut prévoir des exceptions aux obligations visées à l’al. 1.
+
+<sup>3</sup> Il peut fixer les obligations des autres opérateurs économiques et des établissements de santé en matière d’enregistrement et d’identification des dispositifs médicaux. Il peut notamment prévoir que les identifiants uniques des dispositifs médicaux acquis ou remis appartenant à certaines catégories soient saisis et enregistrés.
+
+<sup>4</sup>
+
+Sont considérés comme des opérateurs économiques:
+
+- a. les fabricants;
+- b. les personnes mandatées par les fabricants ayant leur siège à l’étranger (mandataires);
+- c. les importateurs;
+- d. les distributeurs;
+- e. les personnes physiques et morales et qui associent des dispositifs médicaux en vue de les mettre sur le marché sous la forme de systèmes ou de nécessaires;
+- f. les personnes physiques et morales qui stérilisent les dispositifs médicaux visés à la let. e en vue de leur mise sur le marché.
+
+[^47-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47a
+
+**Obligation de documenter**[^47a-1]
+
+<sup>1</sup> Le fabricant doit rédiger une documentation technique.
+
+<sup>2</sup> La documentation technique doit être conçue de façon à permettre d’évaluer la conformité du dispositif médical aux exigences de la présente loi. Elle contient en particulier des informations et des données relatives à la surveillance après la mise sur le marché.
+
+<sup>3</sup> Le fabricant doit tenir la documentation technique à jour.
+
+<sup>4</sup> Le Conseil fédéral détermine les données et les informations qui doivent figurer dans la documentation technique des différents dispositifs médicaux et la manière dont celle-ci doit être rendue disponible.
+
+[^47a-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47b
+
+**Gestion de la qualité**[^47b-1]
+
+<sup>1</sup> Le fabricant doit mettre en place et maintenir un système de gestion de la qualité, adapté à la classe de risques et au type de dispositif médical, qui garantit le respect des exigences de la présente loi.
+
+<sup>2</sup> Le système de gestion de la qualité comprend notamment un système de gestion des risques et un système de surveillance après la mise sur le marché.
+
+[^47b-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47c
+
+**Obligation de communiquer**[^47c-1]
+
+<sup>1</sup>
+
+Les opérateurs économiques sont tenus, sur demande, de communiquer à l’autorité compétente:
+
+- a. tous les opérateurs économiques auprès desquels ils se sont procuré un dispositif médical;
+- b. tous les opérateurs économiques auxquels ils ont livré un dispositif médical;
+- c. tous les établissements de santé et tous les professionnels de la santé auxquels ils ont livré un dispositif médical.
+
+<sup>2</sup> Le Conseil fédéral règle la durée de conservation des informations.
+
+[^47c-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47d
+
+**Couverture financière et responsabilité**[^47d-1]
+
+<sup>1</sup> Le fabricant ou le mandataire doit disposer d’une couverture financière suffisante pour réparer les dommages causés par des dispositifs médicaux défectueux.
+
+<sup>2</sup> Le mandataire et le fabricant répondent solidairement des dommages causés.
+
+[^47d-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 47e
+
+**Autres obligations**[^47e-1]
+
+<sup>1</sup>
 
 Le Conseil fédéral peut:
 
-- a. prévoir l’obligation de déclarer[^47-1] la mise sur le marché de certains dispositifs médicaux;
-- b. prévoir une autorisation pour la mise sur le marché de certains dispositifs médicaux, notamment les diagnostics in vitro.
+- a. prévoir une obligation de déclarer pour la mise sur le marché de certains dispositifs médicaux;
+- b. soumettre au régime de l’autorisation la mise sur le marché de certains dispositifs médicaux, notamment celle des diagnostics in vitro;
+- c. imposer aux opérateurs économiques et aux organes d’évaluation de la conformité l’obligation d’utiliser Eudamed ou le système d’information visé à l’art. 62*c*.
 
-[^47-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Il a été tenu compte de cette mod. dans tout le texte.
+<sup>2</sup>
+
+Il fixe:
+
+- a. les autres obligations des opérateurs économiques et des établissements de santé s’agissant notamment de l’enregistrement des fabricants et de l’obligation d’informer en rapport avec les dispositifs médicaux implantables;
+- b. les exigences s’appliquant aux personnes désignées par les fabricants et les mandataires comme responsables du respect des prescriptions, et leurs autres obligations.
+
+[^47e-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 48
 
@@ -1150,7 +1260,12 @@ Le Conseil fédéral peut:
 
 <sup>1</sup> Si la protection de la santé le requiert, le Conseil fédéral peut restreindre ou interdire l’importation et l’exportation de certains dispositifs médicaux.
 
-<sup>2</sup> Si un autre état exige des certificats d’exportation et des attestations pour les dispositifs médicaux à importer, l’institut peut délivrer ces pièces aux exportateurs.
+<sup>2</sup> Si un autre État exige des certificats d’exportation et des attestations pour les dispositifs médicaux à importer, l’institut peut délivrer ces pièces sur demande au fabricant ou au mandataire ayant leur siège en Suisse.[^50-1]
+
+<sup>3</sup> Quiconque exporte un dispositif médical dans un État qui a conclu avec la Suisse une convention de droit international portant sur la reconnaissance mutuelle des évaluations et procédures de conformité relatives aux dispositifs médicaux doit pouvoir prouver que les exigences essentielles visées à l’art. 45, al. 2, sont remplies.[^50-2]
+
+[^50-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^50-2]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 51
 
@@ -1192,42 +1307,44 @@ La réalisation d’essais cliniques de produits thérapeutiques sur l’être h
 
 <sup>1</sup> Avant d’être effectués, les essais cliniques de produits thérapeutiques requièrent l’autorisation de l’institut.
 
-<sup>2</sup>
-
-Les essais cliniques portant sur les produits thérapeutiques suivants sont soustraits au régime de l’autorisation:
-
-- a. les médicaments autorisés et administrés conformément aux conditions d’utilisation autorisées;
-- b. les dispositifs médicaux conformes et utilisés selon l’emploi prévu dans le cadre de l’évaluation de leur conformité.
+<sup>2</sup> Les essais cliniques portant sur les médicaments autorisés et administrés conformément à l’information professionnelle sur le médicament sont soustraits au régime de l’autorisation.[^54-1]
 
 <sup>3</sup>
 
 Le Conseil fédéral peut:
 
 - a. soustraire d’autres essais au régime de l’autorisation ou les soumettre à une obligation de déclarer;
-- b. soumettre les essais cliniques de produits thérapeutiques vétérinaires au régime de l’autorisation ou à l’obligation de déclarer.
+- b. soumettre les essais cliniques de produits thérapeutiques vétérinaires au régime de l’autorisation ou à l’obligation de déclarer;
+- c.[^54-2] soumettre toute modification relative aux essais cliniques au régime de l’autorisation.
 
 <sup>4</sup>
 
 Dans le cadre de la procédure d’autorisation, l’institut vérifie:
 
-- a. que les médicaments satisfont aux règles de Bonnes pratiques de fabrication et aux exigences en matière de sécurité des médicaments;
-- b. que les dispositifs médicaux satisfont aux exigences visées à l’art. 45, l’essai clinique tient compte des risques liés aux produits et les données relatives aux produits correspondent à l’état de la science et figurent correctement dans le protocole.
+- a. que les médicaments satisfont aux règles des Bonnes pratiques de fabrication et aux exigences en matière de sécurité;
+- b.
 
-<sup>5</sup> L’institut peut en tout temps procéder à une inspection en vue de contrôler que l’essai clinique satisfait aux exigences de la présente loi et de la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^54-1].
+  pour les dispositifs médicaux:
 
-<sup>6</sup> Le Conseil fédéral édicte des dispositions de procédure. Il peut soumettre à autorisation toute modification relative aux essais cliniques.
+  - 1\. que ceux-ci satisfont aux exigences visées à l’art. 45, pour autant que l’essai clinique ne porte pas sur le respect desdites exigences,
+  - 2\. que les risques qui leur sont liés sont pris en compte dans l’essai clinique,
+  - 3\. que les données qui s’y rapportent correspondent à l’état de la science et figurent correctement dans le protocole.[^54-3]
 
-<sup>7</sup>
+<sup>5</sup> ...[^54-4]
 
-Il peut prévoir une obligation de déclarer et d’informer, en particulier dans les cas suivants:
+<sup>6</sup> Le Conseil fédéral règle la procédure d’autorisation. Il peut déterminer la forme de la déclaration et prescrire que le dépôt de demandes d’autorisation, la correspondance et la communication de décisions soient effectués par voie électronique.[^54-5]
 
-- a. l’essai clinique est terminé ou interrompu;
-- b. des événements indésirables surviennent au cours de l’essai clinique;
-- c. des événements survenant lors de l’essai clinique peuvent porter atteinte à la sécurité ou à la santé des personnes y participant.
+<sup>7</sup> ...[^54-6]
 
-<sup>8</sup> Le Conseil fédéral édicte les dispositions requises en vertu des al. 4 et 5 en tenant compte des réglementations internationales reconnues.
+<sup>8</sup> Le Conseil fédéral édicte les dispositions requises en vertu des al. 3 et 6 en tenant compte des réglementations internationales reconnues.[^54-7]
 
-[^54-1]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^54-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-2]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-4]: Abrogé par le ch. I de la LF du 22 mars 2019, avec effet au 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-6]: Abrogé par le ch. I de la LF du 22 mars 2019, avec effet au 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54-7]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 54a
 
@@ -1245,6 +1362,25 @@ Le Conseil fédéral règle:
 <sup>3</sup> Il peut exempter de l’obligation d’élaborer un plan d’investigation pédiatrique, notamment pour les médicaments destinés à traiter des maladies survenant uniquement chez l’adulte. Il peut prévoir qu’un plan d’investigation pédiatrique évalué par une autorité étrangère est pris en considération.
 
 [^54a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+
+#### Art. 54b
+
+**Surveillance**[^54b-1]
+
+<sup>1</sup> L’institut peut procéder à tout moment à une inspection pour contrôler que le déroulement de l’essai clinique satisfait aux exigences de la présente loi et de la loi du 30 septembre 2011 relative à la recherche sur l’être humain[^54b-2].
+
+<sup>2</sup>
+
+Le Conseil fédéral peut prévoir, en tenant compte des réglementations internationales, une obligation de déclarer et d’informer, en particulier dans les cas suivants:
+
+- a. l’essai clinique est terminé ou interrompu;
+- b. des événements indésirables surviennent au cours de l’essai clinique;
+- c. des incidents surviennent au cours de l’essai clinique qui menacent la sécurité ou la santé des participants ou qui risquent de compromettre l’obtention de données fiables et solides.
+
+<sup>3</sup> Il règle la procédure de déclaration et l’échange d’informations. Il peut exiger que la déclaration et l’échange d’informations soient effectués par voie électronique.
+
+[^54b-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^54b-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
 
 ### Section 2a Intégrité et transparence****
 
@@ -1295,7 +1431,7 @@ Ne sont pas considérés comme des avantages illicites:
 
 **Surveillance officielle du marché**
 
-<sup>1</sup> L’institut et les autres autorités chargées de l’exécution de la présente loi contrôlent, dans les limites de leurs attributions, que la fabrication, la distribution et la remise des produits thérapeutiques ainsi que la présentation de leurs effets sont conformes à la loi.[^58-1] Ils vérifient, par des inspections périodiques, que les conditions auxquelles sont liées les autorisations sont remplies.
+<sup>1</sup> L’institut et les autres autorités chargées de l’exécution de la présente loi surveillent, dans les limites de leurs attributions, si la fabrication, la distribution, la remise et la maintenance des produits thérapeutiques ainsi que la présentation de leurs effets sont conformes à la loi. À cet effet, ils peuvent effectuer des inspections avec ou sans préavis.[^58-1]
 
 <sup>2</sup> L’institut vérifie les produits thérapeutiques mis sur le marché. Il vérifie que les médicaments sont conformes à l’autorisation de mise sur le marché et que les dispositifs médicaux satisfont aux exigences légales.
 
@@ -1305,7 +1441,7 @@ Ne sont pas considérés comme des avantages illicites:
 
 <sup>5</sup> Les cantons signalent à l’institut ou à l’Office fédéral de la santé publique (OFSP), en fonction de leurs compétences, tout événement, toute constatation ou toute contestation relevés dans le cadre de leur activité de surveillance. L’institut ou l’OFSP prend les mesures administratives nécessaires. Les cantons peuvent aussi prendre les mesures administratives nécessaires en cas de menace grave et immédiate pour la santé.[^58-5]
 
-[^58-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^58-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^58-2]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)). Il a été tenu compte de cette mod. dans tout le texte.
 [^58-3]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^58-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -1388,15 +1524,16 @@ Les personnes chargées de l’exécution de la présente loi ont l’obligation
 
 <sup>1</sup>
 
-Les services fédéraux et cantonaux, les centres régionaux et les tiers chargés de tâches d’exécution peuvent, dans la mesure où ils en ont besoin pour accomplir les tâches qui leur incombent aux termes de la présente loi, traiter les données personnelles sensibles et les profils de la personnalité suivants:
+Les services fédéraux et cantonaux, les centres régionaux et les tiers chargés de tâches d’exécution peuvent, dans la mesure où ils en ont besoin pour accomplir les tâches qui leur incombent aux termes de la présente loi, traiter les données sensibles suivantes:[^62a-2]
 
 - a.
 
   des données sur la santé dans le cadre:
 
-  - 1\. de la surveillance officielle du marché du sang et des produits sanguins,
-  - 2\. de la vigilance en cas de déclarations concernant des effets indésirables ou des incidents ainsi que des défauts, ou
-  - 3\. des vérifications concernant un essai clinique sur la base de déclarations ou d’informations obtenues lors d’inspections;
+  - 1\.[^62a-3] de la surveillance officielle du marché,
+  - 2\. de la vigilance en cas de déclarations concernant des effets indésirables ou des incidents ainsi que des défauts;
+  - 3\. des vérifications concernant un essai clinique sur la base de déclarations ou d’informations obtenues lors d’inspections, ou
+  - 4\.[^62a-4] des demandes d’autorisation à durée limitée au sens de l’art. 9*b*, al. 1, et des demandes de dérogation pour les dispositifs médicaux aux termes de l’art. 46, al. 3, let. b;
 
 - b.
 
@@ -1418,6 +1555,9 @@ Le Conseil fédéral édicte les dispositions d’exécution régissant:
 - e. la sécurité des données.
 
 [^62a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^62a-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^62a-4]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 62b
 
@@ -1429,6 +1569,29 @@ Le Conseil fédéral édicte les dispositions d’exécution régissant:
 
 [^62b-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: RS **235****.****1**
+
+#### Art. 62c
+
+**Système d’information sur les dispositifs médicaux**[^62c-1]
+
+<sup>1</sup> L’institut exploite un système d’information sur les dispositifs médicaux pour accomplir ses tâches; celui-ci vise notamment à garantir la sécurité et la surveillance des dispositifs médicaux ainsi que la vigilance dans ce domaine.
+
+<sup>2</sup> Le système d’information contient les données visées à l’art. 62*a* qui sont nécessaires en vertu de la présente loi pour la surveillance des dispositifs médicaux et la mise en œuvre des procédures de déclaration et d’autorisation des essais cliniques.
+
+<sup>3</sup> Les données visées à l’al. 2 peuvent être comparées automatiquement avec Eudamed.
+
+<sup>4</sup> Les données non sensibles visées à l’al. 2 peuvent être publiées dans le respect des secrets professionnel et commercial.
+
+<sup>5</sup>
+
+Le Conseil fédéral fixe les modalités concernant:
+
+- a. la structure et le catalogue des données;
+- b. les droits d’accès;
+- c. les mesures organisationnelles et techniques nécessaires pour garantir la protection et la sécurité des données;
+- d. la durée de conservation des données.
+
+[^62c-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 63
 
@@ -1444,41 +1607,45 @@ Le Conseil fédéral édicte les dispositions d’exécution régissant:
 
 #### Art. 64
 
-**Communication de données à l’étranger et assistance administrative internationale[^64-1]**
+**Conditions à la communication de données et d’informations à l’étranger**[^64-1]
 
-<sup>1</sup> Les services de la Confédération chargés de l’exécution de la présente loi peuvent solliciter des renseignements des autorités étrangères compétentes ou des organisations internationales.
+<sup>1</sup>
 
-<sup>2</sup> Ils sont autorisés à communiquer à des autorités étrangères compétentes ou à des organisations internationales des données non confidentielles collectées en vertu de la présente loi.
+Les services de la Confédération chargés de l’exécution de la présente loi sont autorisés à communiquer des informations non accessibles au public à des autorités ou institutions étrangères exécutant des prescriptions relatives aux produits thérapeutiques, ainsi qu’à des organisations internationales, s’il est garanti:
 
-<sup>3</sup> Ils sont autorisés à communiquer, au cas par cas, à des autorités étrangères compétentes ou à des organisations internationales, des données confidentielles, y compris des données personnelles, collectées en vertu de la présente loi si cette mesure permet d’éviter de graves risques pour la santé ou de mettre au jour un trafic illégal ou d’autres infractions graves à la présente loi.[^64-2]
+- a. que le service requérant est tenu au secret de fonction, qu’il utilise les informations reçues uniquement dans une procédure administrative en rapport avec l’exécution de dispositions relatives aux produits thérapeutiques et qu’il ne les remet pas à des tiers;
+- b. que seules des informations nécessaires à l’exécution de dispositions relatives aux produits thérapeutiques sont communiquées;
+- c. qu’aucun secret de fabrication ni aucun secret commercial ne sont divulgués, à moins que la communication d’informations soit indispensable pour parer à des dangers menaçant directement et gravement la vie ou la santé humaine.
+
+<sup>2</sup>
+
+Ils sont autorisés à leur communiquer des données personnelles, y compris des données sur la santé et sur les poursuites ou sanctions administratives et pénales, pour autant que la législation dans le pays concerné garantisse un niveau adéquat de protection de la personnalité aux personnes concernées. Si une telle législation fait défaut, les données ne peuvent être communiquées que dans les cas suivants:
+
+- a. des garanties suffisantes, notamment contractuelles, permettent d’assurer un niveau de protection adéquat;
+- b. la personne concernée a donné son accord dans le cas d’espèce;
+- c. la communication permet, dans le cas d’espèce, d’éviter de graves risques pour la santé;
+- d. la communication est nécessaire dans le cas d’espèce pour protéger la vie ou l’intégrité corporelle de la personne concernée;
+- e. la communication est susceptible, dans le cas d’espèce, de mettre au jour un trafic illégal ou d’autres infractions graves à la présente loi.
+
+<sup>3</sup>
+
+Les données suivantes, en particulier, peuvent être communiquées:
+
+- a. résultats de la surveillance du marché;
+- b. rapports d’inspection;
+- c. données sur les essais cliniques;
+- d. informations issues de la vigilance;
+- e. données sur les autorisations;
+- f. données sur les organes d’évaluation de la conformité.
 
 <sup>4</sup>
 
-Ils sont en outre autorisés à communiquer à des autorités étrangères compétentes, à leur demande, des données confidentielles, y compris des données personnelles, collectées en vertu de la présente loi, à condition:[^64-3]
+Dans le cadre des déclarations et de l’enregistrement d’effets indésirables de médicaments, l’institut est autorisé à communiquer à l’Organisation mondiale de la santé, via la banque de données internationale de pharmacovigilance:
 
-- a. que les autorités étrangères requérantes garantissent le respect de la confidentialité;
-- a<sup>bis</sup>.[^64-4] que la personnalité des personnes concernées ne s’en trouve pas gravement menacée;
-- b. qu’elles utilisent les données exclusivement dans le cadre d’une procédure administrative en relation avec l’exécution de dispositions relatives aux produits thérapeutiques;
-- c. que soient communiquées uniquement des données nécessaires à l’exécution de dispositions relatives aux produits thérapeutiques;
-- d. que ne soit divulgué aucun secret de fabrication ni aucun secret commercial, à moins que la communication de données soit indispensable pour parer à des dangers menaçant directement la santé.
+- a. des informations non accessibles au public ainsi que des données personnelles relatives à la santé, notamment les initiales, le sexe et l’année de naissance des personnes concernées;
+- b. un rapport sur les effets indésirables.
 
-<sup>4bis</sup>
-
-Pour déclarer et répertorier les effets indésirables d’un médicament, l’institut est autorisé à communiquer à la banque de données internationale de pharmacovigilance, gérée par l’Organisation mondiale de la santé, les données suivantes:
-
-- a. des données confidentielles ainsi que des données personnelles relatives à la santé, notamment les initiales, le sexe et l’année de naissance des personnes concernées;
-- b. un rapport sur les effets indésirables.[^64-5]
-
-<sup>5</sup> Le Conseil fédéral peut conclure des accords internationaux sur la communication de données confidentielles, y compris des données personnelles, à des autorités étrangères ou à des organisations internationales, pour autant que l’exécution de la présente loi l’exige.[^64-6]
-
-<sup>6</sup> Les dispositions sur l’entraide internationale en matière pénale sont réservées.
-
-[^64-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-4]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-5]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^64-6]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 64a
 
@@ -1495,9 +1662,10 @@ Les autorités étrangères compétentes sont habilitées à contrôler, après 
 
 <sup>2</sup> L’institut peut accompagner l’autorité étrangère lors du contrôle.
 
-<sup>3</sup> En accord avec les autorités compétentes, l’institut peut contrôler à l’étranger des établissements actifs dans le domaine des produits thérapeutiques si cela s’avère nécessaire pour garantir la protection de la santé.
+<sup>3</sup> En accord avec les autorités compétentes, l’institut peut contrôler à l’étranger des établissements actifs dans le domaine des produits thérapeutiques si cela s’avère nécessaire pour garantir la protection de la santé. Il peut en outre prendre part à des contrôles effectués par les autorités étrangères compétentes.[^64a-2]
 
 [^64a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^64a-2]: Phrase introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### Section 4*a***** Système d’information sur les antibiotiques en médecine vétérinaire
 
@@ -1944,6 +2112,49 @@ Elle assume les tâches suivantes:
 [^75a-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^75a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
+#### Art. 75b
+
+**Traitement des données**[^75b-1]
+
+<sup>1</sup>
+
+L’institut traite, sous forme papier et dans un ou plusieurs systèmes d’information, les données relatives au personnel dont il a besoin pour exécuter les tâches qui lui sont assignées par la présente loi, notamment pour:
+
+- a. déterminer les effectifs nécessaires;
+- b. recruter du personnel afin de garantir les effectifs nécessaires;
+- c. gérer les salaires et les rémunérations, établir les dossiers du personnel et gérer les communications adressées aux assurances sociales;
+- d. promouvoir des mesures de développement et de fidélisation des employés;
+- e. maintenir et augmenter le niveau de qualification des employés;
+- f. assurer une planification, un pilotage et un contrôle au moyen d’analyses de données, de comparaisons, de rapports et de plans de mesures.
+
+<sup>2</sup>
+
+Il peut traiter les données suivantes relatives au personnel qui sont nécessaires à l’exécution des tâches mentionnées à l’al. 1, y compris les données sensibles:
+
+- a. données relatives à la personne;
+- b. données relatives à l’état de santé en rapport avec la capacité de travail;
+- c. données relatives aux prestations, au potentiel et au développement personnel et professionnel;
+- d. données requises dans le cadre de la collaboration à la mise en œuvre du droit des assurances sociales;
+- e. actes de procédure et décisions des autorités ayant trait au travail.
+
+<sup>3</sup> Il est responsable de la protection et de la sécurité des données.
+
+<sup>4</sup> Il peut transmettre des données à des tiers s’il existe une base légale ou si la personne à laquelle les données se rapportent y a consenti par écrit.
+
+<sup>5</sup>
+
+Il édicte des dispositions d’exécution concernant:
+
+- a. l’architecture, l’organisation et l’exploitation des systèmes d’information;
+- b. le traitement des données, notamment leur collecte, leur conservation, leur archivage et leur destruction;
+- c. les autorisations de traitement des données;
+- d. les catégories de données visées à l’al. 2;
+- e. la protection et la sécurité des données.
+
+<sup>6</sup> Il peut prévoir la communication en ligne de données non sensibles à des tiers. Il édicte les dispositions d’exécution.
+
+[^75b-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
 #### Art. 76
 
 **Caisse de pensions**[^76-1]
@@ -1968,15 +2179,26 @@ Le personnel de l’institut est assuré à la Caisse fédérale de pensions.
 
 L’institut finance ses dépenses notamment par:
 
-- a. l’indemnisation versée par la Confédération pour les tâches visées à l’art. 69, al. 1, dans la mesure où leur coût n’est pas couvert par des émoluments;
+- a.[^77-2] l’indemnisation versée par la Confédération pour les tâches visées à l’art. 69, al. 1, dans la mesure où leur coût n’est pas couvert par des taxes ou des émoluments;
 - b. les taxes et les émoluments prévus à l’art. 65;
 - c. la rémunération des prestations de service fournies à d’autres autorités ou à des organisations internationales conformément à l’art 69, al 2.
 
-<sup>3</sup> L’utilisation des moyens visés à l’al. 2, let. a et b, est fixée dans le cadre de l’approbation des objectifs stratégiques.
+<sup>2bis</sup>
+
+Les tâches et activités suivantes de l’institut sont financées en totalité par l’indemnisation versée par la Confédération:
+
+- a. élaboration de la législation;
+- b. exécution des dispositions de droit pénal;
+- c. surveillance des dispositifs médicaux.[^77-3]
+
+<sup>3</sup> L’utilisation des moyens visés à l’al. 2, let. a et b, et la compensation en cas d’excédent ou de sous-financement en relation avec les tâches et activités visées à l’al. 2<sup>bis</sup> sont fixées dans le cadre de l’approbation des objectifs stratégiques.[^77-4]
 
 <sup>4</sup> Les amendes et le produit des autres pénalités pécuniaires reviennent à la Confédération.
 
 [^77-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^77-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^77-3]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^77-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 78
 
@@ -2089,11 +2311,29 @@ Le Conseil fédéral exerce sa fonction de surveillance et de contrôle, notamme
 
 **Confédération**
 
-<sup>1</sup> Le Conseil fédéral et l’institut exécutent les tâches qui sont attribuées par la présente loi à la Confédération. L’exécution du chap. 4, sect. 2*a*, incombe à l’OFSP. Le Conseil fédéral peut déléguer à d’autres autorités certaines tâches de l’institut ou de l’OFSP.[^82-1]
+<sup>1</sup> Le Conseil fédéral et l’institut exécutent les tâches qui sont attribuées par la présente loi à la Confédération. L’institut est l’autorité d’exécution pour les produits visés à l’art. 2*a*. L’exécution du chapitre 4, section 2*a*, incombe à l’OFSP. Le Conseil fédéral peut déléguer à d’autres autorités certaines tâches de l’institut ou de l’OFSP.[^82-1]
 
 <sup>2</sup> Le Conseil fédéral édicte les dispositions d’exécution pour autant que la présente loi ne déclare pas l’institut compétent ou qu’il n’a pas confié à celui-ci la compétence d’édicter des prescriptions de nature technique et d’importance mineure.
 
-[^82-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+<sup>3</sup> Le Conseil fédéral peut prévoir que certains actes délégués et certains actes d’exécution de la Commission européenne dans le domaine des dispositifs médicaux s’appliquent également en Suisse dans la version qui s’applique aux États membres de l’Union européenne, pour autant qu’il s’agisse de modalités techniques ou administratives dont la réglementation est adaptée régulièrement et en général à court terme.[^82-2]
+
+[^82-1]: Nouvelle teneur selon le ch. III de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^82-2]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 82a
+
+**Coopération internationale**[^82a-1]
+
+<sup>1</sup> Les services de la Confédération chargés de l’exécution de la présente loi coopèrent avec les autorités étrangères ainsi qu’avec les organisations internationales.
+
+<sup>2</sup>
+
+Le Conseil fédéral peut conclure des accords internationaux:
+
+- a. sur l’échange d’information avec des autorités étrangères ou des organisations internationales et sur la participation de la Suisse à des systèmes d’information internationaux visant à garantir la sécurité des produits thérapeutiques;
+- b. sur la communication de données personnelles, y compris de données sur la santé et sur les poursuites ou sanctions administratives et pénales, à des autorités étrangères ou à des organisations internationales, pour autant que l’exécution de la présente loi l’exige.
+
+[^82a-1]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 83
 
@@ -2152,24 +2392,33 @@ Est passible d’une peine privative de liberté de trois ans au plus ou d’une
 - a. fabrique, met sur le marché, utilise, prescrit, importe ou exporte des médicaments ou en fait le commerce à l’étranger sans l’autorisation nécessaire, en enfreignant les exigences et conditions liés à l’autorisation obtenue ou en enfreignant les devoirs de diligence visés aux art. 3, 7, 21, 22, 26, 29 et 42;
 - b. recourt à des antibiotiques sans respecter les restrictions ou interdictions découlant de l’art. 42*a*, al. 2;
 - c. contrevient, lorsqu’il effectue une opération en rapport avec le sang ou des produits sanguins, aux dispositions sur l’aptitude à donner du sang, sur l’obligation de faire un test, sur l’obligation d’enregistrer et d’archiver, néglige son devoir de diligence au sens de l’art. 37 ou omet de prendre les mesures de protection ou de sécurité requises;
-- d. met sur le marché ou utilise des dispositifs médicaux qui ne satisfont pas aux exigences de la présente loi, ou utilise des dispositifs médicaux sans que les conditions relatives aux qualifications professionnelles et à l’exploitation soient remplies;
+- d.[^86-2] met sur le marché, exporte ou utilise des dispositifs médicaux qui ne satisfont pas aux exigences de la présente loi, ou utilise des dispositifs médicaux sans que les conditions relatives aux qualifications professionnelles et à l’exploitation soient remplies;
 - e. contrevient au devoir de diligence visé à l’art. 48 ou néglige son obligation d’assurer la maintenance des dispositifs médicaux;
 - f. effectue ou fait effectuer sur l’être humain un essai clinique qui ne satisfait pas aux exigences de la présente loi;
 - g. contrefait, falsifie ou désigne de manière inexacte des médicaments ou des dispositifs médicaux ou s’il met sur le marché, utilise, importe ou exporte des médicaments ou des dispositifs médicaux contrefaits, falsifiés ou désignés de manière inexacte ou en fait le commerce à l’étranger;
-- h. contrevient à l’une des interdictions visée à l’art. 55.
+- h. contrevient à l’une des interdictions visée à l’art. 55;
+- i.[^86-3] met sur le marché des produits qui ne satisfont pas aux exigences fixées par le Conseil fédéral en vertu de l’art. 2*a*;
+- j.[^86-4] propose, octroie, exige ou accepte un avantage pécuniaire ou un autre avantage pour le don de tissus humains ou des cellules humaines ou utilise de tels tissus ou cellules pour fabriquer les produits visés à l’art. 2*a*;
+- k.[^86-5] prélève ou utilise des tissus humains ou des cellules humaines pour fabriquer les produits visés à l’art. 2*a* en l’absence de consentement au prélèvement.
 
-<sup>2</sup> Est passible d’une peine privative de liberté de dix ans au plus, à laquelle peut s’ajouter une peine pécuniaire, quiconque, dans les cas prévus à l’al. 1, let. a à g:
+<sup>2</sup> Est passible d’une peine privative de liberté de dix ans au plus, à laquelle peut s’ajouter une peine pécuniaire, ou d’une peine pécuniaire, quiconque, dans les cas prévus à l’al. 1, let. a à g et i à k:[^86-6]
 
 a. sait ou ne peut ignorer que cette infraction met concrètement en danger la santé humaine;
 
 - b. ayant agi par métier, réalise un chiffre d’affaires élevé ou un gain important.
 
-<sup>3</sup> Est passible d’une peine privative de liberté de dix ans au plus, à laquelle peut s’ajouter une peine pécuniaire, quiconque, dans les cas prévus à l’al. 1, let. a, c, d, f et g, agit comme membre d’une bande se livrant de manière systématique au trafic illicite de produits thérapeutiques.[^86-2]
+<sup>3</sup> Est passible d’une peine privative de liberté de dix ans au plus, à laquelle peut s’ajouter une peine pécuniaire, ou d’une peine pécuniaire, quiconque, dans les cas prévus à l’al. 1, let. a, c, d, f, g et i à k, agit en tant que membre d’une bande se livrant de manière systématique au trafic illicite de produits thérapeutiques.[^86-7]
 
-<sup>4</sup> Si l’auteur agit par négligence, la peine pécuniaire est de 180 jours-amende au plus. Dans les cas de peu de gravité, une amende peut être prononcée.
+<sup>4</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire. Dans les cas de peu de gravité, une amende peut être prononcée.[^86-8]
 
 [^86-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019, sous réserve de l’al. 1, let. h, en vigueur depuis le 1er janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^86-2]: Erratum de la Commission de rédaction de l’Assemblée fédérale du 13 déc. 2018 ([RO 2018 5449](https://fedlex.data.admin.ch/eli/oc/2018/824)).
+[^86-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-3]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-4]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-5]: Introduite par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-6]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-7]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^86-8]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 87
 
@@ -2181,14 +2430,14 @@ Est passible d’une amende de 50 000 francs au plus, quiconque, intentionnellem
 
 - a. fabrique, met sur le marché, importe ou exporte des produits thérapeutiques ou des excipients non conformes aux exigences figurant dans la Pharmacopée, ou en fait le commerce à l’étranger;
 - b. contrevient aux dispositions sur la publicité pour les médicaments;
-- c.[^87-3] contrevient aux obligations de déclarer ou de publier prévues par la présente loi;
+- c.[^87-3] contrevient aux obligations de déclarer, d’enregistrer ou de publier prévues par la présente loi;
 - d. contrevient à l’obligation d’étiqueter, de tenir un registre, d’archiver ou de collaborer;
 - e. enfreint l’obligation de garder le secret, à moins qu’il y ait infraction aux art. 162, 320 ou 321 du code pénal[^87-4];
 - f.[^87-5] commet une infraction visée à l’art. 86, al. 1, let. a à g, si son infraction concerne un produit thérapeutique destiné à son usage personnel, des médicaments en vente libre ou des dispositifs médicaux entrant dans la classe I selon l’annexe IX de la directive 93/42/CEE[^87-6];
 - g.[^87-7] ne se conforme pas à une décision qui lui a été signifiée avec indication de la peine prévue au présent article;
 - h.[^87-8] contrevient à l’obligation de transparence au sens de l’art. 56.
 
-<sup>2</sup> Si l’auteur agit par métier, dans les cas prévus à l’al. 1, let. a, b, e et f, la peine pécuniaire est de 180 jours-amende au plus.[^87-9]
+<sup>2</sup> Si l’auteur agit par métier, dans les cas prévus à l’al. 1, let. a, b, e et f, il est puni d’une peine pécuniaire.[^87-9]
 
 <sup>3</sup> Si l’auteur agit par négligence, il est puni d’une amende de 20 000 francs au plus.[^87-10]
 
@@ -2200,13 +2449,13 @@ Est passible d’une amende de 50 000 francs au plus, quiconque, intentionnellem
 
 [^87-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^87-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^87-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^87-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-6]: Directive 93/42/CEE du Conseil, du 14 juin 1993, relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1; modifiée en dernier lieu par la directive 2007/47/CE, JO L 247 du 21.9.2007, p. 21.
 [^87-7]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^87-8]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^87-9]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^87-9]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 [^87-10]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 88
