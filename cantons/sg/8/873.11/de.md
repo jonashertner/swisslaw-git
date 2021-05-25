@@ -4,12 +4,12 @@ number: "873.11"
 title: Verordnung zum Gesetz über die Gebäudeversicherung
 language: de
 version: 2021-01-01
-valid_until: 2022-12-31
+corrected: 2021-05-26
 version_adopted: 2021-04-27
 adopted: 2001-09-18
 in_force: 2002-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/873.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3160/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3029/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -43,11 +43,11 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Verwaltung besorgt alle Geschäfte, die nicht einem anderen Organ zugewiesen sind.
 
-<sup>2</sup> Der Verwaltung steht die Geschäftsleitung vor. Sie vertritt die Gebäudeversicherung nach aussen, soweit Gesetz, Verordnung und Geschäftsreglement nichts anderes bestimmen.
+<sup>2</sup> Der Verwaltung steht die Direktion vor. Sie vertritt die Gebäudeversicherung nach aussen, soweit Gesetz, Verordnung und Geschäftsreglement nichts anderes bestimmen.
 
 <sup>3</sup> Für das Personal der Gebäudeversicherung gelten die Vorschriften des Personalgesetzes vom 25. Januar 2011.[^2-1]
 
-<sup>4</sup> Die Gebäudeversicherung kann für die Schadenermittlung teilzeitlich beschäftigte Fachpersonen nach Privatrecht anstellen oder Aufträge an Dritte erteilen.
+<sup>4</sup> Die für die Schadenermittlung teilzeitlich beschäftigten Fachpersonen können nach Privatrecht angestellt werden.
 
 [^2-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
