@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2011 über die Forschung am Menschen (Hum
 short: HFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: de
-version: 2021-02-01
+version: 2021-05-26
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210526/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210526-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/de"
 
 (Humanforschungsgesetz, HFG)
 
-vom 30. September 2011 (Stand am 1. Februar 2021)
+vom 30. September 2011 (Stand am 26. Mai 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -87,7 +87,9 @@ Im Sinne dieses Gesetzes gelten als:
 - i. *anonymisiertes biologisches Material und anonymisierte gesundheitsbe**zogene Daten:* biologisches Material und gesundheitsbezogene Daten, die nicht oder nur mit unverhältnismässigem Aufwand auf eine bestimmte Person zurückgeführt werden können;
 - j. *Kind:* minderjährige Person bis zur Vollendung des 14. Altersjahres;
 - k. *Jugendliche* oder *Jugendlicher:* minderjährige Person ab der Vollendung des 14. Altersjahres;
-- l. *klinischer Versuch:* Forschungsprojekt mit Personen, das diese prospektiv einer gesundheitsbezogenen Intervention zuordnet, um deren Wirkungen auf die Gesundheit oder auf den Aufbau und die Funktion des menschlichen Körpers zu untersuchen.
+- l.[^3-1] ...
+
+[^3-1]: Aufgehoben durch Anhang des BG vom 22. März 2019, mit Wirkung seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### 2. Abschnitt: Grundsätze
 
@@ -577,9 +579,16 @@ Eine Bewilligung der zuständigen Ethikkommission ist erforderlich für:
 - a. die Durchführung eines Forschungsprojekts; oder
 - b. die Weiterverwendung von biologischem Material oder gesundheitsbezogenen Personendaten zu Forschungszwecken bei fehlender Einwilligung oder Information über das Widerspruchsrecht (Art. 34).
 
-<sup>2</sup> Die Bewilligung wird erteilt, wenn die ethischen, rechtlichen und wissenschaftlichen Anforderungen dieses Gesetzes erfüllt sind. Der Entscheid muss innert zwei Monaten nach Einreichung des Gesuchs vorliegen. Der Bundesrat kann kürzere, risikoadaptierte Obergrenzen für Bearbeitungszeiten festlegen.
+<sup>2</sup>
+
+Die Bewilligung wird erteilt, wenn die ethischen, rechtlichen und wissenschaftlichen Anforderungen dieses Gesetzes erfüllt sind. Der Entscheid muss innert zwei Monaten nach Einreichung des Gesuchs vorliegen. Der Bundesrat kann:
+
+- a. kürzere, risikoadaptierte Obergrenzen für Bearbeitungsfristen festlegen;
+- b. die Bearbeitungsfristen anpassen, wenn anerkannte internationale Regelungen das verlangen.[^45-1]
 
 <sup>3</sup> Der Bundesrat kann Änderungen an Forschungsprojekten einer Bewilligungspflicht unterstellen. Dabei beachtet er anerkannte internationale Regelungen.
+
+[^45-1]: Fassung gemäss Anhang des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 46
 
@@ -623,11 +632,16 @@ Der Bundesrat kann Melde- und Informationspflichten vorsehen, insbesondere bei:
 
 **Verfahren**
 
-<sup>1</sup> Der Bundesrat regelt das Verfahren, um einen einheitlichen Vollzug und die Umsetzung nationaler und internationaler Regelungen sicherzustellen.
+<sup>1</sup> Die Dokumente für die Bewilligungs- und Meldeverfahren sowie für die Berichterstattung und Aufsicht sind in das Informationssystem der Kantone nach Artikel 56*a* einzugeben.[^49-1]
+
+<sup>1bis</sup> Der Bundesrat regelt das Verfahren, um einen einheitlichen Vollzug und die Umsetzung nationaler und internationaler Regelungen sicherzustellen. Er kann festlegen, dass die Eingabe von Gesuchen, der Schriftenverkehr und die Eröffnung von Entscheiden auf elektronischem Weg erfolgen müssen.[^49-2]
 
 <sup>2</sup> Er kann insbesondere für Forschungsprojekte mit biologischem Material und genetischen Daten nach Artikel 32 sowie mit nichtgenetischen gesundheitsbezogenen Personendaten nach Artikel 33 erleichterte Anforderungen an das Verfahren vorsehen.
 
 <sup>3</sup> Im Übrigen gilt das kantonale Verfahrensrecht.
+
+[^49-1]: Fassung gemäss Anhang des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^49-2]: Eingefügt durch Anhang des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 50
 
@@ -661,11 +675,18 @@ Der Bundesrat kann Melde- und Informationspflichten vorsehen, insbesondere bei:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Ethikkommissionen müssen so zusammengesetzt sein, dass sie über die zur Wahrnehmung ihrer Aufgaben erforderlichen Fachkompetenzen und Erfahrungen verfügen. Es müssen ihnen Sachverständige verschiedener Bereiche, insbesondere der Medizin, der Ethik und des Rechts, angehören. Die Kantone können den Einsitz von Patientenvertretungen vorsehen.
+<sup>1</sup>
+
+Die Ethikkommissionen müssen so zusammengesetzt sein, dass sie über die zur Wahrnehmung ihrer Aufgaben erforderlichen Fachkompetenzen und Erfahrungen verfügen. Ihnen müssen angehören:
+
+- a. Sachverständige verschiedener Bereiche, insbesondere der Medizin, der Ethik und des Rechts; und
+- b. mindestens eine Person, welche die Patientinnen und Patienten vertritt.[^53-1]
 
 <sup>2</sup> Die Ethikkommissionen können externe Fachpersonen als Gutachterinnen beziehungsweise Gutachter beiziehen.
 
 <sup>3</sup> Der Bundesrat erlässt weitere Vorschriften zur Zusammensetzung der Ethikkommissionen und zu den Anforderungen an deren Mitglieder. Dabei beachtet er anerkannte internationale Regelungen.
+
+[^53-1]: Fassung gemäss Anhang des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 54
 
@@ -699,7 +720,7 @@ Der Bundesrat kann Melde- und Informationspflichten vorsehen, insbesondere bei:
 
 **Registrierung**
 
-<sup>1</sup> Bewilligte klinische Versuche müssen in einem öffentlichen Register erfasst werden. Der Bundesrat kann Ausnahmen von der Registrierungspflicht bezeichnen; er orientiert sich dabei an den anerkannten internationalen Regelungen.
+<sup>1</sup> Bewilligte klinische Versuche müssen in einem öffentlichen Register erfasst werden. Der Bundesrat umschreibt die klinischen Versuche näher und kann Ausnahmen von der Registrierungspflicht bezeichnen; er orientiert sich dabei an den anerkannten internationalen Regelungen.[^56-1]
 
 <sup>2</sup> Er bezeichnet das Register, informiert über den Zugang zu diesem und legt dessen Inhalt sowie die Meldepflicht und das Meldeverfahren fest. Er beachtet dabei anerkannte internationale Regelungen und berücksichtigt nach Möglichkeit bereits bestehende Register.
 
@@ -708,7 +729,29 @@ Der Bundesrat kann Melde- und Informationspflichten vorsehen, insbesondere bei:
 Er kann:
 
 - a. Organisationen des öffentlichen oder des privaten Rechts mit der Einrichtung und Führung des Registers betrauen;
-- b. die Veröffentlichung von Ergebnissen registrierter Forschungsprojekte in solchen Registern vorsehen.
+- b.[^56-2] vorsehen, dass die Ergebnisse registrierter Forschungsprojekte auf einer anerkannten Plattform veröffentlicht werden müssen.
+
+[^56-1]: Fassung des zweiten Satzes gemäss Anhang des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^56-2]: Fassung gemäss Anhang des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 56a
+
+**Informationssystem der Kantone**[^56a-1]
+
+<sup>1</sup> Die Kantone führen ein gemeinsames Informationssystem für die Durchführung der Bewilligungs- und Meldeverfahren, die Übermittlung von Berichten und die Ausübung der Aufsicht bei Forschungsprojekten.
+
+<sup>2</sup> Das System enthält Daten, einschliesslich Personendaten über administrative oder strafrechtliche Verfolgungen und Sanktionen oder über die Gesundheit, die für die Durchführung von Bewilligungs- und Meldeverfahren und zu Berichterstattung und Aufsicht nach diesem Gesetz notwendig sind.
+
+<sup>3</sup> Die Kantone sorgen dafür, dass das Informationssystem mit dem Informationssystem «Medizinprodukte» des Schweizerischen Heilmittelinstituts und mit der Europäischen Datenbank für Medizinprodukte (Eudamed) kompatibel ist.
+
+<sup>4</sup>
+
+Der Bundesrat kann vorsehen, dass:
+
+- a. die Daten nach Absatz 2, die klinische Versuche mit Medizinprodukten betreffen, automatisch abgeglichen werden mit dem Informationssystem «Medizinprodukte» des Schweizerischen Heilmittelinstituts oder mit Eudamed;
+- b. die Daten nach Absatz 2, die nicht besonders schützenswert sind, unter Wahrung von Berufs- und Geschäftsgeheimnissen veröffentlicht werden.
+
+[^56a-1]: Eingefügt durch Anhang des BG vom 22. März 2019, in Kraft seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 57
 

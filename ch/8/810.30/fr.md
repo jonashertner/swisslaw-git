@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2011 relative à la recherche sur l'être
 short: LRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: fr
-version: 2021-02-01
+version: 2021-05-26
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210526-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/fr"
 
 (Loi relative à la recherche sur l’être humain, LRH)
 
-du 30 septembre 2011 (Etat le 1<sup>er</sup> février 2021)
+du 30 septembre 2011 (Etat le 26 mai 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -87,7 +87,9 @@ Au sens de la présente loi, on entend par:
 - i. *matériel biologique anonymisé et données anonymisées liées à la santé:* le matériel biologique et les données liées à la santé qui ne peuvent être mis en relation avec une personne déterminée ou ne peuvent l’être sans engager des efforts démesurés;
 - j. *enfant:* le mineur âgé de moins de 14 ans;
 - k. *adolescent:* le mineur âgé d’au moins 14 ans;
-- l. *essai clinique:* projet de recherche sur des personnes dans lequel les participants sont affectés dès le départ à des interventions liées à la santé afin d’évaluer les effets de ces dernières sur la santé ou sur la structure et le fonctionnement du corps humain.
+- l.[^3-1] ...
+
+[^3-1]: Abrogée par l’annexe de la LF du 22 mars 2019, avec effet au 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### Section 2 Principes
 
@@ -578,9 +580,16 @@ Les activités ci-après sont soumises à l’autorisation de la commission d’
 - a. la réalisation d’un projet de recherche;
 - b. la réutilisation de matériel biologique ou de données personnelles liées à la santé à des fins de recherche dans les cas où l’obtention du consentement ou l’information sur le droit d’opposition font défaut (art. 34).
 
-<sup>2</sup> L’autorisation est délivrée si les exigences éthiques, juridiques et scientifiques prévues par la présente loi sont remplies. La décision doit être prise dans un délai de deux mois à compter du dépôt de la demande. Le Conseil fédéral peut raccourcir ce délai lorsque les risques encourus le permettent.
+<sup>2</sup>
+
+L’autorisation est délivrée si les exigences éthiques, juridiques et scientifiques prévues par la présente loi sont remplies. La décision doit être prise dans un délai de deux mois à compter du dépôt de la demande. Le Conseil fédéral peut:
+
+- a. raccourcir ce délai lorsque les risques encourus le permettent;
+- b. adapter ce délai lorsque des réglementations internationales reconnues l’exigent.[^45-1]
 
 <sup>3</sup> Le Conseil fédéral peut soumettre à autorisation toute modification apportée à un projet de recherche. Ce faisant, il tient compte des réglementations internationales reconnues.
+
+[^45-1]: Nouvelle teneur selon l’annexe de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 46
 
@@ -624,11 +633,16 @@ Le Conseil fédéral peut prévoir une obligation d’annoncer et d’informer, 
 
 **Procédure**
 
-<sup>1</sup> Le Conseil fédéral règle la procédure pour assurer l’uniformité de l’exécution et la mise en œuvre des réglementations nationales et internationales.
+<sup>1</sup> Les documents pour les procédures d’autorisation et d’annonce ainsi que pour les rapports et la surveillance sont saisis dans le système d’information des cantons visé à l’art. 56*a*.[^49-1]
+
+<sup>1bis</sup> Le Conseil fédéral règle la procédure afin de garantir une exécution uniforme et l’application des réglementations nationales et internationales. Il peut prescrire que le dépôt de demandes, la correspondance et la communication de décisions soient effectuées par voie électronique.[^49-2]
 
 <sup>2</sup> Il peut prévoir des exigences moins élevées en matière procédurale notamment pour les projets de recherche portant sur du matériel biologique et des données génétiques visés à l’art. 32, ainsi que sur des données personnelles non génétiques liées à la santé visées à l’art. 33.
 
 <sup>3</sup> Au surplus, la procédure est régie par le droit cantonal.
+
+[^49-1]: Nouvelle teneur selon l’annexe de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^49-2]: Introduit par l’annexe de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 50
 
@@ -662,11 +676,18 @@ Le Conseil fédéral peut prévoir une obligation d’annoncer et d’informer, 
 
 **Composition**
 
-<sup>1</sup> Les commissions d’éthique doivent être constituées de sorte à disposer des compétences et de l’expérience nécessaires à l’accomplissement de leurs tâches. Elles sont formées d’experts issus notamment des domaines médical, éthique et juridique. Les cantons peuvent prévoir que les patients seront représentés au sein des commissions.
+<sup>1</sup>
+
+Les commissions d’éthique doivent être constituées de sorte à disposer des compétences et de l’expérience nécessaires à l’accomplissement de leurs tâches. Elles sont formées:
+
+- a. d’experts issus notamment des domaines médical, éthique et juridique;
+- b. d’au moins un représentant des patients.[^53-1]
 
 <sup>2</sup> Les commissions d’éthique peuvent faire appel à des experts externes.
 
 <sup>3</sup> Le Conseil fédéral édicte des dispositions supplémentaires, notamment en ce qui concerne la composition des commissions d’éthique et les exigences posées à leurs membres. Ce faisant, il tient compte des réglementations internationales reconnues.
+
+[^53-1]: Nouvelle teneur selon l’annexe de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 54
 
@@ -700,16 +721,39 @@ Le Conseil fédéral peut prévoir une obligation d’annoncer et d’informer, 
 
 **Enregistrement**
 
-<sup>1</sup> Les essais cliniques autorisés doivent être répertoriés dans un registre public. Le Conseil fédéral peut prévoir des exceptions à cette obligation en se fondant sur les réglementations internationales reconnues.
+<sup>1</sup> Les essais cliniques autorisés doivent être répertoriés dans un registre public. Le Conseil fédéral définit plus précisément les essais cliniques et peut prévoir des exceptions à l’obligation d’enregistrement en se fondant sur les réglementations internationales reconnues.[^56-1]
 
 <sup>2</sup> Il définit le registre déterminant, indique les modalités d’accès et précise les données qui doivent y figurer, l’obligation d’annoncer et la procédure à suivre. Pour ce faire, il tient compte des réglementations internationales reconnues et, dans la mesure du possible, des registres existants.
 
 <sup>3</sup>
 
-Le Conseil fédéral peut:
+Il peut:[^56-2]
 
 - a. confier l’établissement et la gestion du registre à des organisations de droit public ou de droit privé;
-- b. prévoir dans le registre la publication des résultats des projets de recherche enregistrés.
+- b.[^56-3] prévoir que les résultats de projets de recherche enregistrés doivent être publiés sur une plateforme reconnue.
+
+[^56-1]: Nouvelle teneur de la phrase selon l’annexe de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^56-2]: Nouvelle teneur selon l’annexe de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^56-3]: Nouvelle teneur selon l’annexe de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 56a
+
+**Système d’information des cantons**[^56a-1]
+
+<sup>1</sup> Les cantons gèrent un système d’information commun pour la mise en œuvre des procédures d’autorisation et d’annonce, pour la transmission des rapports et pour l’exercice de la surveillance des projets de recherche.
+
+<sup>2</sup> Le système contient des données, y compris des données personnelles concernant les poursuites ou sanctions administratives et pénales ou concernant la santé, qui sont nécessaires pour les procédures d’autorisation et d’annonce, pour les rapports et pour les activités de surveillance en vertu de la présente loi.
+
+<sup>3</sup> Les cantons veillent à ce que le système d’information soit compatible avec le système d’information «Dispositifs médicaux» de l’Institut suisse des produits thérapeutiques ainsi qu’avec la base de données européenne sur les dispositifs médicaux (Eudamed).
+
+<sup>4</sup>
+
+Le Conseil fédéral peut prévoir:
+
+- a. des opérations automatiques de comparaison des données visées à l’al. 2 concernant des essais cliniques de dispositifs médicaux avec le système d’information «Dispositifs médicaux» de l’Institut suisse des produits thérapeutiques ou avec Eudamed;
+- b. la publication, dans le respect des secrets professionnel et commercial, de données visées à l’al. 2 qui ne sont pas sensibles.
+
+[^56a-1]: Introduit par l’annexe de la LF du 22 mars 2019, en vigueur depuis le 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 57
 
@@ -884,6 +928,6 @@ Annexe
 
 Les lois mentionnées ci-après sont modifiées comme suit:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617).

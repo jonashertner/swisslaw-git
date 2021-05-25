@@ -4,11 +4,11 @@ title: "Legge federale del 30 settembre 2011 concernente la ricerca sull'essere 
 short: LRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: it
-version: 2021-02-01
+version: 2021-05-26
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210526-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/it"
 
 (Legge sulla ricerca umana, LRUm)
 
-del 30 settembre 2011 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
+del 30 settembre 2011 (Stato 26 maggio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -52,7 +52,7 @@ Si prefigge inoltre di:
 
 <sup>1</sup>
 
-La presente legge si applica alla ricerca sulle malattie dell’essere umano, nonché sulla struttura e sulla funzione del corpo umano, condotta:
+La presente legge si applica alla ricerca sulle malattie dellcessere umano, nonché sulla struttura e sulla funzione del corpo umano, condotta:
 
 - a. con persone;
 - b. su persone decedute;
@@ -88,7 +88,9 @@ Ai sensi della presente legge si intende per:
 - i. *materiale biologico anonimizzato e dati sanitari anonimizzati:* il materiale biologico e i dati sanitari che non sono riferibili a una determinata persona o possono esserlo soltanto con un onere eccessivo;
 - j. *bambino:* un minore di età inferiore ai 14 anni;
 - k. *adolescente*: un minore di almeno 14 anni;
-- l. *sperimentazione clinica*: un progetto di ricerca con persone nel cui ambito è previsto di sottoporre le stesse a un intervento sanitario al fine di esaminarne gli effetti sulla salute o sulla struttura e sulla funzione del corpo umano.
+- l.[^3-1] ...
+
+[^3-1]: Abrogata dall’all. della LF del 22 mar. 2019, con effetto dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### Sezione 2: Principi
 
@@ -579,9 +581,16 @@ Un’autorizzazione della commissione d’etica competente è necessaria per:
 - a. condurre un progetto di ricerca; oppure
 - b. riutilizzare materiale biologico o dati sanitari personali a scopo di ricerca in assenza del consenso o dell’informazione sul diritto di opposizione (art. 34).
 
-<sup>2</sup> L’autorizzazione è rilasciata se le esigenze di natura etica, giuridica e scientifica della presente legge sono adempiute. La relativa decisione va presa entro due mesi dalla presentazione della domanda. Il Consiglio federale può prevedere termini di trattazione più brevi in funzione dei rischi.
+<sup>2</sup>
+
+L’autorizzazione è rilasciata se le esigenze di natura etica, giuridica e scientifica della presente legge sono adempiute. La relativa decisione va presa entro due mesi dalla presentazione della domanda. Il Consiglio federale può:
+
+- a. prevedere termini di trattazione più brevi in funzione dei rischi;
+- b. adeguare i termini di trattazione, se norme internazionali riconosciute lo esigono.[^45-1]
 
 <sup>3</sup> Il Consiglio federale può subordinare ad autorizzazione le modifiche apportate a un progetto di ricerca. Al riguardo, tiene conto delle norme internazionali riconosciute.
+
+[^45-1]: Nuovo testo giusta l’all. della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 46
 
@@ -625,11 +634,16 @@ Il Consiglio federale può prevedere obblighi di notifica e di informazione, in 
 
 **Procedura**
 
-<sup>1</sup> Il Consiglio federale disciplina la procedura affinché sia garantita l’uniformità e l’applicazione di norme nazionali e internazionali.
+<sup>1</sup> I documenti relativi alle procedure di autorizzazione e di notifica nonché alla trasmissione di rapporti e alla vigilanza sono registrati nel sistema d’informazione dei Cantoni di cui all’articolo 56*a*.[^49-1]
+
+<sup>1bis</sup> Il Consiglio federale disciplina la procedura affinché sia garantita un’esecuzione uniforme e l’applicazione delle norme nazionali e internazionali. Può stabilire che la presentazione delle domande, la corrispondenza e la comunicazione di decisioni debbano avvenire per via elettronica.[^49-2]
 
 <sup>2</sup> Il Consiglio federale può in particolare prevedere condizioni procedurali agevolate per progetti di ricerca con materiale biologico e dati genetici secondo l’articolo 32, nonché con dati sanitari personali non genetici secondo l’articolo 33.
 
 <sup>3</sup> Per il rimanente si applica il diritto di procedura cantonale.
+
+[^49-1]: Nuovo testo giusta l’all. della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^49-2]: Introdotto dall’all. della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 50
 
@@ -663,11 +677,18 @@ Il Consiglio federale può prevedere obblighi di notifica e di informazione, in 
 
 **Composizione**
 
-<sup>1</sup> Le commissioni d’etica devono essere costituite in modo tale da disporre delle competenze specialistiche e delle esperienze necessarie per svolgere i loro compiti. Sono costituite da specialisti di diversi settori, in particolare della medicina, dell’etica e del diritto. I Cantoni possono prevedere che i pazienti siano rappresentati nelle commissioni.
+<sup>1</sup>
+
+Le commissioni d’etica devono essere costituite in modo tale da disporre delle competenze specialistiche e delle esperienze necessarie per svolgere i loro compiti. Sono composte:
+
+- a. da specialisti di diversi settori, in particolare della medicina, dell’etica e del diritto; e
+- b. da almeno un rappresentante dei pazienti.[^53-1]
 
 <sup>2</sup> Le commissioni d’etica possono avvalersi di specialisti esterni in qualità di periti.
 
 <sup>3</sup> Il Consiglio federale emana disposizioni supplementari sulla composizione delle commissioni d’etica e sui requisiti dei loro membri. A tal fine tiene conto delle norme internazionali riconosciute.
+
+[^53-1]: Nuovo testo giusta l’all. della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 54
 
@@ -701,7 +722,7 @@ Il Consiglio federale può prevedere obblighi di notifica e di informazione, in 
 
 **Registro**
 
-<sup>1</sup> Le sperimentazioni cliniche autorizzate devono essere iscritte in un registro pubblico. Il Consiglio federale può prevedere deroghe all’obbligo di registrazione fondandosi su norme internazionali riconosciute.
+<sup>1</sup> Le sperimentazioni cliniche autorizzate devono essere iscritte in un registro pubblico. Il Consiglio federale precisa le sperimentazioni cliniche e può prevedere deroghe all’obbligo di registrazione fondandosi su norme internazionali riconosciute.[^56-1]
 
 <sup>2</sup> Il Consiglio federale designa il registro indicando le relative modalità d’accesso e determinandone il contenuto, nonché l’obbligo di notifica e la procedura da seguire. Tiene conto delle norme internazionali riconosciute e, per quanto possibile, dei registri esistenti.
 
@@ -710,7 +731,29 @@ Il Consiglio federale può prevedere obblighi di notifica e di informazione, in 
 Il Consiglio federale può:
 
 - a. affidare l’istituzione e la tenuta del registro a organizzazioni di diritto pubblico o privato;
-- b. prevedere, in tali registri, la pubblicazione dei risultati dei progetti di ricerca registrati.
+- b.[^56-2] prevedere che i risultati dei progetti di ricerca registrati debbano essere pubblicati su una piattaforma riconosciuta.
+
+[^56-1]: Nuovo testo del per. giusta l’all. della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^56-2]: Nuovo testo giusta l’all. della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+
+#### Art. 56a
+
+**Sistema d’informazione dei Cantoni**[^56a-1]
+
+<sup>1</sup> I Cantoni gestiscono un sistema d’informazione comune per l’esecuzione della procedura di autorizzazione e di notifica, la trasmissione di rapporti e l’esercizio della vigilanza sui progetti di ricerca.
+
+<sup>2</sup> Il sistema contiene dati, compresi i dati personali inerenti a perseguimenti e sanzioni amministrativi o penali o concernenti la salute, necessari per l’esecuzione della procedura di autorizzazione e di notifica nonché per la trasmissione di rapporti e l’esercizio della vigilanza secondo la presente legge.
+
+<sup>3</sup> I Cantoni provvedono affinché il sistema d’informazione sia compatibile con il sistema d’informazione «Dispositivi medici» dell’Istituto svizzero per gli agenti terapeutici e con la banca dati europea dei dispositivi medici (Eudamed).
+
+<sup>4</sup>
+
+Il Consiglio federale può prevedere che:
+
+- a. i dati di cui al capoverso 2 concernenti sperimentazioni cliniche con dispositivi medici siano confrontati automaticamente con il sistema d’informazione «Dispositivi medici» dell’Istituto svizzero per gli agenti terapeutici o con Eudamed;
+- b. i dati di cui al capoverso 2 non degni di particolare protezione siano pubblicati, purché sia garantita la protezione dei segreti professionali e commerciali.
+
+[^56a-1]: Introdotto dall’all. della LF del 22 mar. 2019, in vigore dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 #### Art. 57
 
