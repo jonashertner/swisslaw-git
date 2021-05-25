@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2013 relative à la recherche sur l'être hum
 short: ORH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: fr
-version: 2018-04-24
+version: 2021-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20180424/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20180424-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20180424/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20210526-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20180424/fr"
 
 (Ordonnance relative à la recherche sur l’être humain, ORH)
 
-du 20 septembre 2013 (Etat le 24 avril 2018)
+du 20 septembre 2013 (Etat le 26 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -98,7 +98,7 @@ Quiconque conserve du matériel biologique à des fins de recherche doit notamme
 
 Est réputé être un projet de recherche en vertu du présent chapitre tout projet pour lequel du matériel biologique est prélevé sur une personne ou des données personnelles liées à sa santé sont collectées dans le but:
 
-- a. de répondre à une problématique scientifique; ou
+- a. de répondre à une problématique scientifique, ou
 - b. de réutiliser le matériel biologique ou les données liées à la santé à des fins de recherche.
 
 #### Art. 7
@@ -118,9 +118,10 @@ Les risques et les contraintes inhérents au prélèvement de matériel biologiq
 - c. le prélèvement ou le recueil de substances corporelles sans mesures invasives (notamment l’échantillon de salive, d’urine ou de selles);
 - d. les frottis;
 - e. les tomographies à résonance magnétique sans produit de contraste, les échographies et les électrogrammes;
-- f. les examens au moyen de dispositifs médicaux pourvus d’une marque de conformité sans produit de contraste ou au moyen de médicaments autorisés susceptibles d’émettre des rayonnements ionisants, dans la mesure où la dose efficace[^7-1] est inférieure à 5 mSv par projet de recherche et par personne examinée.
+- f.[^7-1] les examens au moyen de dispositifs médicaux visés à l’art. 3 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^7-2] pourvus d’un marquage de conformité sans produit de contraste ou au moyen de médicaments autorisés susceptibles d’émettre des rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée.
 
-[^7-1]: Erratum du 24 avr. 2018 ([RO 2018 1653](https://fedlex.data.admin.ch/eli/oc/2018/243)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^7-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8
 
@@ -154,21 +155,21 @@ En plus des informations figurant à l’art. 16, al. 2, LRH, la personne concer
 L’information et le consentement peuvent avoir lieu et être documentés sous une forme autre que la forme écrite:
 
 - a. lorsqu’il s’agit d’un projet de recherche de catégorie A selon la présente ordonnance qui est réalisé avec des adultes capables de discernement;
-- b. lorsqu’une information et un consentement écrits sont disproportionnés en raison du dispositif du projet; et
+- b. lorsqu’une information et un consentement écrits sont disproportionnés en raison du dispositif du projet, et
 - c. lorsque l’exception à la forme écrite est prévue dans la demande adressée à la commission d’éthique de la recherche (commission d’éthique) compétente.
 
 <sup>2</sup>
 
 Dans le cas d’espèce, l’information et le consentement peuvent avoir lieu sous une forme autre que la forme écrite:
 
-- a. lorsque, pour des raisons corporelles ou cognitives, la personne concernée ne peut pas lire ou écrire; et
+- a. lorsque, pour des raisons corporelles ou cognitives, la personne concernée ne peut pas lire ou écrire, et
 - b. lorsque la direction du projet apporte la preuve de l’information et du consentement, notamment par le biais d’une attestation écrite de témoins ou de l’enregistrement du consentement donné verbalement.
 
 <sup>3</sup>
 
 Dans le cas d’espèce, l’information peut être donnée sous une autre forme que la forme écrite:
 
-- a. lorsque les connaissances linguistiques de la personne concernée sont telles qu’une information par écrit représente une charge disproportionnée; et
+- a. lorsque les connaissances linguistiques de la personne concernée sont telles qu’une information par écrit représente une charge disproportionnée, et
 - b. lorsque, pour l’information verbale, un traducteur indépendant et qualifié est consulté et que celui-ci confirme par écrit que l’information a eu lieu.
 
 #### Art. 10
@@ -181,7 +182,7 @@ Dans le cas d’espèce, l’information peut être donnée sous une autre forme
 
 L’anonymisation du matériel biologique ou des données personnelles n’est pas nécessaire:
 
-- a. lorsque la personne concernée y a expressément renoncé au moment de la révocation; ou
+- a. lorsque la personne concernée y a expressément renoncé au moment de la révocation, ou
 - b. lorsqu’il est évident depuis le début du projet de recherche qu’une anonymisation n’est pas possible et que la personne concernée a consenti à participer au projet après avoir été suffisamment informée de cette circonstance.
 
 <sup>3</sup> Un suivi médical doit être proposé à la personne qui révoque son consentement, dans la mesure où il est nécessaire pour protéger sa santé.
@@ -200,7 +201,7 @@ Les art. 15 à 17 OClin[^11-1] sont applicables par analogie aux projets de rech
 
 Est libéré de la responsabilité au sens de l’art. 19, al. 1, LRH celui qui prouve que le dommage:
 
-- a. n’a que des effets minimaux sur la santé et est temporaire; et
+- a. n’a que des effets minimaux sur la santé et est temporaire, et
 - b. ne dépasse pas l’ampleur qui est à prévoir en fonction de l’état de la science.
 
 #### Art. 13
@@ -259,7 +260,7 @@ La commission d’éthique compétente vérifie:
 - j. le financement du projet de recherche et les accords entre le promoteur, les tiers et l’investigateur relatifs à la répartition des tâches, la rémunération et à la publication;
 - k. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes participant au projet.
 
-[^15-1]: Nouvelle expression selon le ch. 5 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
+[^15-1]: Nouvelle expression selon l’annexe 11 ch. 5 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 16
 
@@ -297,7 +298,7 @@ Sont considérées comme des modifications essentielles:
 
 - a. les modifications qui ont une influence sur la sécurité et la santé des personnes participant au projet de recherche ainsi que sur leurs droits et leurs obligations;
 - b. les modifications du plan de recherche qui ont trait à l’objectif ou à la problématique centrale du projet de recherche, pour autant qu’il s’agisse d’un projet de la catégorie B;
-- c. un changement de lieu de réalisation ou l’ajout d’un lieu de réalisation; ou
+- c. un changement de lieu de réalisation ou l’ajout d’un lieu de réalisation, ou
 - d. le changement de la direction du projet ou du promoteur.
 
 <sup>4</sup> La commission d’éthique rend une décision sur les modifications essentielles dans les 30 jours. L’art. 16 est applicable par analogie.
@@ -324,12 +325,12 @@ La direction du projet fournit de plus à l’OFSP les documents de la demande r
 
 La commission d’éthique accorde l’autorisation, lorsque:
 
-- a. les exigences visées à l’art. 15 sont respectées; et que
+- a. les exigences visées à l’art. 15 sont respectées, et que
 - b. l’OFSP n’oppose pas d’objections au projet de recherche.
 
 <sup>5</sup> En pareil cas, elle rend sa décision dans les 45 jours, à compter de la confirmation de réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision à l’OFSP.
 
-[^19-1]: Nouvelle expression selon le ch. 5 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
+[^19-1]: Nouvelle expression selon l’annexe 11 ch. 5 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### Section 3 Annonces et rapport
 
@@ -341,7 +342,7 @@ La direction du projet annonce à la commission d’éthique dans les sept jours
 
 #### Art. 21
 
-**Evénements graves**
+**Événements graves**
 
 <sup>1</sup> Si des événements graves se produisent sur des personnes participant au projet de recherche au cours de sa réalisation, celui-ci doit être interrompu.
 
@@ -383,7 +384,7 @@ La direction du projet annonce à la commission d’éthique la fin ou l’arrê
 
 <sup>6</sup> Dans le cadre de son avis au sens de l’art. 19 ou sur demande, l’OFSP peut prévoir d’autres exceptions à l’obligation d’établir un rapport visé à l’al. 4.
 
-[^23-1]: Nouvelle teneur selon le ch. 5 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^23-1]: Nouvelle teneur selon l’annexe 11 ch. 5 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^23-2]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
 ## Chapitre 3 Réutilisation pour la recherche avec du matériel biologique et des données personnelles liées à la santé
@@ -424,7 +425,7 @@ Toute opération effectuée à des fins de recherche avec du matériel biologiqu
 Le matériel biologique codé et les données personnelles liées à la santé codées peuvent uniquement être décodés si:
 
 - a. le décodage est nécessaire pour prévenir un risque immédiat pour la santé de la personne concernée;
-- b. une base légale pour le décodage existe; ou que
+- b. une base légale pour le décodage existe, ou que
 - c. le décodage est nécessaire pour garantir les droits de la personne concernée, notamment le droit de révocation.
 
 ### Section 2 Consentement éclairé et information

@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2013 concernente i progetti di ricerca sull'e
 short: ORUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: it
-version: 2018-04-24
+version: 2021-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20180424/it/xml/fedlex-data-admin-ch-eli-cc-2013-642-20180424-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20180424/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2013-642-20210526-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20210526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20180424/it"
 
 (Ordinanza sulla ricerca umana, ORUm)
 
-del 20 settembre 2013 (Stato 24 aprile 2018) (Stato 24 aprile 2018)
+del 20 settembre 2013 (Stato 26 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -118,9 +118,10 @@ Il prelievo di materiale biologico o la raccolta di dati sanitari personali comp
 - c. il prelievo o la raccolta di sostanze organiche senza misure invasive (in particolare campioni di saliva, urina e feci);
 - d. gli strisci;
 - e. le tomografie a risonanza magnetica senza mezzo di contrasto, le ecografie o gli elettrogrammi;
-- f. gli esami con dispositivi medici provvisti di marchio di conformità senza mezzo di contrasto oppure con medicamenti omologati che possono emettere radiazioni ionizzanti, se la dose efficace[^7-1] è inferiore a 5 mSv per progetto di ricerca e per persona interessata.
+- f.[^7-1] gli esami con dispositivi medici di cui all’articolo 3 dell’ordinanza del 1° luglio 2020[^7-2] relativa ai dispositivi medici, provvisti di marchio di conformità senza mezzo di contrasto oppure con medicamenti omologati che possono emettere radiazioni ionizzanti, se la dose efficace è inferiore a 5 mSv per progetto di ricerca e per persona partecipante.
 
-[^7-1]: Correzione del 24 apr. 2018 ([RU 2018 1653](https://fedlex.data.admin.ch/eli/oc/2018/243)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^7-1]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^7-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8
 
@@ -259,7 +260,7 @@ La commissione d’etica competente verifica:
 - j. il finanziamento del progetto di ricerca nonché gli accordi tra il promotore, terzi e la direzione del progetto per quanto concerne l’assegnazione di compiti, la retribuzione e la pubblicazione;
 - k altri ambiti, ove necessario per valutare la protezione delle persone partecipanti.
 
-[^15-1]: Nuova espr. giusta il n. 5 dell’all. 11 all’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^15-1]: Nuova espr. giusta l’all. 11 n. 5 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -329,7 +330,7 @@ La commissione d’etica rilascia l’autorizzazione se:
 
 <sup>5</sup> In tal caso, la commissione d’etica decide entro 45 giorni dal ricevimento della documentazione formalmente corretta. Essa comunica la sua decisione all’UFSP.
 
-[^19-1]: Nuova espr. giusta il n. 5 dell’all. 11 all’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^19-1]: Nuova espr. giusta l’all. 11 n. 5 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 3: Notifiche e rapporto
 
@@ -383,7 +384,7 @@ La direzione del progetto notifica alla commissione d’etica, entro 90 giorni, 
 
 <sup>6</sup> Nell’ambito del parere di cui all’articolo 19 o su domanda, l’UFSP può prevedere ulteriori deroghe dall’obbligo di fare rapporto di cui al capoverso 4.
 
-[^23-1]: Nuovo testo giusta il n. 5 dell’all. 11 all’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^23-1]: Nuovo testo giusta l’all. 11 n. 5 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^23-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
 ## Capitolo 3: Riutilizzazione a scopo di ricerca di materiale biologico e di dati sanitari personali
