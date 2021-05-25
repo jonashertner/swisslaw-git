@@ -4,22 +4,24 @@ title: "Ordinance of 20 September 2013 on Clinical Trials in Human Research (Cli
 short: ClinO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: en
-version: 2018-04-24
+version: 2021-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20180424/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20180424-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20180424/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20210526/en/xml/fedlex-data-admin-ch-eli-cc-2013-643-20210526-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20210526/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on Clinical Trials in Human Research
+# Ordinance on Clinical Trials with the exception of Clinical Trials of Medical Devices****
 
-English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.[^t-1]
 
 (Clinical Trials Ordinance, ClinO)
 
-of 20 September 2013 (Status as of 24 April 2018)
+of 20 September 2013 (Status as of 26 May 2021)
+
+[^t-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 The Swiss Federal Council,
 
@@ -43,37 +45,58 @@ ordains:
 
 This Ordinance regulates:
 
-- a. the requirements for the conduct of clinical trials as defined in Article 3 letter l HRA;
+- a.[^1-1]
+
+  the requirements for the conduct of clinical trials as defined in Article 3 letter l HRA:
+
+  - 1\.[^1-2] clinical trials with medicinal products, including combinations under Article 2 paragraph 1 letters f and g of the Medical Devices Ordinance of 1 July 2020 (MedDO)[^1-3], or transplant products,
+  - 2\. clinical trials with in vitro diagnostic medical devices or products under Article 2*a* paragraph 2 TPA[^1-4],
+  - 3\. clinical trials of transplantation,
+  - 4\. clinical trials that are not clinical trials under numbers 1 to 3;
+
 - b. the authorisation and notification procedures for clinical trials;
-- c. the duties and responsibilities of research ethics committees (ethics committees), the Swiss Agency for Therapeutic Products (Agency) and the Federal Office of Public Health (FOPH) in connection with the authorisation and notification procedures;
+- c. the duties and responsibilities of research ethics committees (ethics committees), the Swiss Agency for Therapeutic Products (the Agency) and the Federal Office of Public Health (the FOPH) in connection with the authorisation and notification procedures;
 - d. the registration of clinical trials and public access to the registry.
 
-<sup>2</sup> For clinical trials of xenotransplantation, the Xenotransplantation Ordinance of 16 March 2007[^1-1] applies.
+<sup>2</sup>
 
-[^1-1]: [SR 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+The following apply:
+
+- a. for clinical trials with medical devices under the MedDO: the Ordinance of 1 July 2020[^1-5] on Clinical Trials with Medical Devices;
+- b. for clinical trials of xenotransplantation: the Xenotransplantation Ordinance of 16 March 2007[^1-6] applies.[^1-7]
+
+[^1-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^1-2]: Amended by Annex No 2 of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^1-3]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-4]: Term in accordance with Annex No 2 of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). This change has been made throughout the text.
+[^1-5]: SR **812.213.3**
+[^1-6]: [SR 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-7]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 #### Art. 2
 
-**Definitions**
+**Definitions**[^2-1]
 
 In this Ordinance:
 
-- a. *health-related intervention* means a preventive, diagnostic, therapeutic, palliative or rehabilitative measure investigated in a clinical trial;
-- b.
+- a. *clinical trial* means a research project involving individuals that prospectively assigns them to undergo a health-related intervention in order to study its effects on health or on the structure and function of the human body;
+- b. *health-related intervention* means a preventive, diagnostic, therapeutic, palliative or rehabilitative measure investigated in a clinical trial;
+- c.
 
   *minimal risks and burdens* means risks and burdens, which, in terms of intensity and quality, and taking into account the vulnerability of the participants and the specific circumstances, will have only a slight and temporary impact on the participants’ health; in particular, minimal risks and burdens may be associated with:
 
   - 1\. surveys and observations,
   - 2\. peripheral venous or capillary blood sampling and skin punch biopsies of limited extent,
-  - 3\. removing or collecting bodily substances without invasive interventions (in particular, saliva, urine and stool samples),
+  - 3\. removing or collecting bodily substances without invasive interventions, in particular, saliva, urine and stool samples,
   - 4\. taking swabs,
   - 5\. magnetic resonance imaging scans without a contrast medium, ultrasound examinations or electrograms,
-  - 6\. examinations using medical devices bearing conformity markings without a contrast medium, or using authorised medicinal products capable of emitting ionising radiation, provided that the effective dose[^2-1] is below 5 mSv per research project and per person concerned;
+  - 6\. examinations using medical devices under Article 3 MedDO[^2-2] bearing conformity markings without a contrast medium, or using authorised medicinal products capable of emitting ionising radiation, provided that the effective dose is below 5 mSv per research project and per person concerned;
 
-- c. *sponsor* means a person or institution headquartered or represented in Switzerland that takes responsibility for organising a clinical trial, and in particular for the initiation, management and financing of the trial in Switzerland;
-- d. *investigator* means a person responsible in Switzerland for the conduct of a clinical trial and for the protection of the participants at the trial site; an investigator who takes responsibility for organising a clinical trial in Switzerland is also a sponsor.
+- d. *sponsor* means a person or institution headquartered or represented in Switzerland that takes responsibility for organising a clinical trial, and in particular for the initiation, management and financing of the trial in Switzerland;
+- e. *investigator* means a person responsible in Switzerland for the conduct of a clinical trial and for the protection of the participants at the trial site; an investigator who takes responsibility for organising a clinical trial in Switzerland is also a sponsor.
 
-[^2-1]: The correction (replacement of expressions) of 24 April 2018 relates to the French and Italian texts only ([AS 2018 1653](https://fedlex.data.admin.ch/eli/oc/2018/243)).
+[^2-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^2-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### Section 2 Principles
 
@@ -125,9 +148,11 @@ The clinical trial investigator must:
 
 <sup>2</sup> In addition, the investigator in a clinical trial of medicinal products or transplantation must be entitled to practise the medical profession independently.
 
-<sup>3</sup> For clinical trials of medical devices and for clinical trials covered by Chapter 4, a person without medical qualifications may also serve as an investigator, provided that this person is entitled to practise independently the profession specifically qualifying him or her to conduct the clinical trial.
+<sup>3</sup> For clinical trials of in vitro diagnostic medical devices[^6-1] and products under Article 2*a* paragraph 2 TPA and for clinical trials covered by Chapter 4, a person without medical qualifications may also serve as an investigator, provided that this person is entitled to practise independently the profession specifically qualifying him or her to conduct the clinical trial.
 
 <sup>4</sup> The other persons conducting the clinical trial must have the professional knowledge and experience appropriate to the activities in question.
+
+[^6-1]: Term in accordance with Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). This change has been made throughout the text.
 
 ### Section 3 Information, Consent and Revocation
 
@@ -202,7 +227,7 @@ Exempt from liability in relation to clinical trials under Article 19 paragraph 
 
 - a. the administration of an authorised medicinal product used in accordance with the prescribing information;
 - b. the administration of an authorised medicinal product, if this is recognised as standard in guidelines prepared in accordance with internationally accepted quality criteria;
-- c. the employment of a medical device bearing a conformity marking and used in accordance with the instructions;
+- c. the employment of an in vitro diagnostic medical device and product under Article 2*a* paragraph 2 TPA bearing a conformity marking and used in accordance with the instructions;
 - d. the use of some other health-related intervention which is recognised as standard in guidelines prepared in accordance with internationally accepted quality criteria.
 
 <sup>2</sup>
@@ -325,7 +350,11 @@ Any person who stores biological material in connection with a clinical trial mu
 - b. ensure that the technical requirements are met for appropriate storage of the biological material;
 - c. make available the resources required for storage.
 
-## Chapter 2 Authorisation and Notification Procedures for Clinical Trials of Therapeutic Products and Transplant Products
+## Chapter 2 Authorisation and Notification Procedures for Clinical Trials of Medicinal Products, In Vitro Diagnostic Medical Devices**** or Products under Article 2*a* paragraph 2 TPA and Transplant Products
+
+[^chap2-1]
+
+[^chap2-1]: Term in accordance with Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). This change has been made throughout the text
 
 ### Section 1 General Provisions
 
@@ -360,22 +389,22 @@ Clinical trials of medicinal products come under Category B if the medicinal pro
 
 #### Art. 20
 
-**Categorisation of clinical trials of medical devices**
+**Categorisation of clinical trials of in vitro diagnostic medical devices and products under Article 2*a* paragraph 2 TPA**
 
 <sup>1</sup>
 
-Clinical trials of medical devices come under Category A if:
+Clinical trials of in vitro diagnostic medical devices and products under Article 2a paragraph 2 TPA come under Category A if:
 
-- a. the medical device bears a conformity marking; and
+- a. the in vitro diagnostic medical device and product under Article 2a paragraph 2 TPA bears a conformity marking; and
 - b. it is used in accordance with the instructions.
 
 <sup>2</sup>
 
 They come under Category C if:
 
-- a. the medical device does not have a conformity marking;
+- a. the in vitro diagnostic medical device and product under Article 2a paragraph 2 TPA does not have a conformity marking;
 - b. it is not used in accordance with the intended purposes recognised in the conformity assessment and specified in the instructions; or
-- c. use of the medical device is prohibited in Switzerland.
+- c. use of the in vitro diagnostic medical device and product under Article 2a paragraph 2 TPA is prohibited in Switzerland.
 
 #### Art. 21
 
@@ -444,7 +473,7 @@ The responsible ethics committee shall review:
 - g. the adequacy of the knowledge and experience of the investigator and of the other persons conducting the clinical trial, in relation to the discipline concerned and the conduct of a clinical trial;
 - h. the suitability of the infrastructure at the trial site;
 - i. the financing of the clinical trial and the agreements between the sponsor, third parties and the investigator concerning the allocation of tasks, remuneration and publication;
-- j. for Category A clinical trials of therapeutic products capable of emitting ionising radiation: additionally, compliance with radiological protection legislation and the dose estimation;
+- j. for Category A clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO capable of emitting ionising radiation: additionally, compliance with radiological protection legislation and the dose estimation;
 - k. for investigations involving radiation sources[^25-1]: additionally, compliance with radiological protection legislation and the dose estimation, in cases where an opinion does not have to be sought from the FOPH in accordance with Article 28;
 - l. other areas, where this is necessary to assess the protection of participants.
 
@@ -501,7 +530,7 @@ The ethics committee shall grant authorisation if:
 
 <sup>5</sup> It shall reach a decision within 45 days of acknowledgement of receipt of the formally correct application documents. It shall inform the FOPH of its decision.
 
-[^28-1]: German text amended by Annex 11 No 6 of the Radiological Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^28-1]: Term in accordance with Annex 11 No 6 of the Radiological Protection Ordinance of 26 April 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 29
 
@@ -526,13 +555,15 @@ The following are considered to be significant changes:
 
 <sup>6</sup> Other changes must be notified to the ethics committee in the annual safety report specified in Article 43.
 
-### Section 3 Procedure for the Swiss Agency for Therapeutic Products
+### Section 3 Procedure for the Swiss Agency for Medicinal Products, In Vitro Diagnostic Medical Devices or Combinations under Article 2 letters f–h MedDO
 
 #### Art. 30
 
-**Exemption from mandatory authorisation**
+**Exemption from mandatory authorisation**[^30-1]
 
-Category A clinical trials of therapeutic products are exempted from the requirement for authorisation from the Agency as specified in Article 54 paragraph 1 TPA.
+Category A clinical trials are exempted from the requirement for authorisation from the Agency as specified in Article 54 paragraph 1 TPA.
+
+[^30-1]: Amended by Annex No 2 of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 #### Art. 31
 
@@ -573,7 +604,7 @@ For clinical trials of medical devices, it shall review:
 
 <sup>2</sup> It shall reach a decision within 30 days of acknowledgement of receipt of the formally correct application documents.
 
-<sup>3</sup> If a therapeutic product is to be used in persons for the first time or manufactured in a new process, this deadline may be extended by a maximum of 30 days. The Agency shall inform the sponsor of the extended deadline.
+<sup>3</sup> If a medicinal product, in vitro diagnostic medical device or combinations under Article 2 letters f–h MedDO is to be used in persons for the first time or manufactured in a new process, this deadline may be extended by a maximum of 30 days. The Agency shall inform the sponsor of the extended deadline.
 
 <sup>4</sup> If the Agency requests additional information in accordance with Article 31 paragraph 2, the clock shall be stopped until this information has been received.
 
@@ -591,9 +622,9 @@ For clinical trials of medical devices, it shall review:
 
 The following are considered to be significant changes:
 
-- a. changes to the therapeutic product, or to its administration or use;
+- a. changes to the medicinal product, in vitro diagnostic medical device or combinations under Article 2 letters f–h MedDO, or to its administration or use;
 - b. changes based on new preclinical or clinical data which may affect product safety; or
-- c. changes concerning the production of the therapeutic product which may affect product safety.
+- c. changes concerning the production of the medicinal product, in vitro diagnostic medical device or combinations under Article 2 letters f–h MedDO which may affect product safety.
 
 <sup>4</sup> The Agency shall reach a decision within 30 days after receipt of the complete application documents affected by the change. Article 33 applies *mutatis mutandis*.
 
@@ -626,9 +657,9 @@ It shall grant authorisation if:
 
 #### Art. 36
 
-**Clinical trials of therapeutic products capable of emitting ionising radiation**
+**Clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO capable of emitting ionising radiation**
 
-<sup>1</sup> For Category B and C clinical trials of therapeutic products capable of emitting ionising radiation, the documents specified in Annex 4 number 5 must additionally be submitted to the Agency.
+<sup>1</sup> For Category B and C clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO capable of emitting ionising radiation, the documents specified in Annex 4 number 5 must additionally be submitted to the Agency.
 
 <sup>2</sup> In the case of Category C clinical trials, the Agency shall seek an opinion from the FOPH before granting authorisation. The FOPH shall review compliance with radiological protection legislation and the dose estimation.
 
@@ -714,7 +745,7 @@ In the case of Category C clinical trials, it shall transmit to the FOPH directl
 
 #### Art. 42
 
-**Serious adverse events (SAE) in clinical trials of medical devices**[^42-1]
+**Serious adverse events (SAE) and deficiencies in clinical trials of in vitro diagnostic medical devices**[^42-1]
 
 <sup>1</sup>
 
@@ -722,44 +753,44 @@ The investigator shall, within 7 days, notify the responsible ethics committee o
 
 - a.
 
-  serious adverse events which occur in participants in Switzerland in the course of a Category C clinical trial of medical devices and where it cannot be excluded that the events are attributable:
+  serious adverse events which occur in participants in Switzerland in the course of a Category C clinical trial of in vitro diagnostic medical devices and where it cannot be excluded that the events are attributable:
 
-  - 1\. to the device under investigation, or
+  - 1\. to the in vitro diagnostic medical device under investigation, or
   - 2\. to an intervention undertaken in the clinical trial;
 
-- b. device deficiencies that could have led to serious adverse events if suitable action had not been taken, intervention had not been made, or circumstances had been less fortunate.
+- b. deficiencies in the in vitro diagnostic medical device under investigation that could have led to serious adverse events if suitable action had not been taken, intervention had not been made, or circumstances had been less fortunate.
 
-<sup>2</sup> If, in the case of a multicentre clinical trial, serious adverse events or device deficiencies occur at one of the trial sites, the coordinating investigator shall also notify the responsible ethics committee concerned.
+<sup>2</sup> If, in the case of a multicentre clinical trial at one of the trial sites, serious adverse events or deficiencies occur deficiencies in the in vitro diagnostic medical device under investigation, the coordinating investigator shall also notify the responsible ethics committee concerned.
 
-<sup>3</sup> For a Category C clinical trial, the notifications specified in paragraph 1 shall also be made to the Agency. This obligation rests on the sponsor. In addition, the sponsor shall notify the Agency of any events occurring or device deficiencies observed abroad. In the case of a Category A clinical trial, the sponsor is subject to the notification requirements specified in Article 15 paragraph 1 of the Medical Devices Ordinance of 17 October 2001[^42-2].
+<sup>3</sup> For a Category C clinical trial, the notifications specified in paragraph 1 shall also be made to the Agency. This obligation rests on the sponsor. In addition, the sponsor shall notify the Agency of any events occurring or deficiencies in the in vitro diagnostic medical device under investigation observed abroad. In the case of a Category A clinical trial, the sponsor is subject to the notification requirements specified in Article 15 paragraph 1 of the Medical Devices Ordinance of 17 October 2001[^42-2].
 
-<sup>4</sup> The definition of serious adverse events and device deficiencies is governed by the rules of Good Clinical Practice as specified in Annex 1 number 2.
+<sup>4</sup> The definition of serious adverse events and deficiencies an in vitro diagnostic medical devices is governed by the rules of Good Clinical Practice as specified in Annex 1 number 2.
 
-[^42-1]: Amended by Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
-[^42-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^42-2]: [[AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520), [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)]
 
 #### Art. 43
 
 **Reporting on the safety of participants**
 
-<sup>1</sup> Once a year, the investigator shall present to the responsible ethics committee a list of events, device deficiencies and adverse reactions as specified in Articles 40–42 and, on this basis, shall submit a report on their severity and causal relationship to the intervention, and on the safety of participants (annual safety report, ASR).[^43-1]
+<sup>1</sup> Once a year, the investigator shall present to the responsible ethics committee a list of events and deficiencies in the in vitro diagnostic medical device under investigation and adverse reactions as specified in Articles 40–42 and, on this basis, shall submit a report on their severity and causal relationship to the intervention, and on the safety of participants (annual safety report, ASR).[^43-1]
 
-<sup>2</sup> In the case of clinical trials also conducted abroad according to the same protocol, the events, device deficiencies and adverse reactions occurring abroad must also be included in the list and the report.[^43-2]
+<sup>2</sup> In the case of clinical trials also conducted abroad according to the same protocol, the events and deficiencies in the in vitro diagnostic medical device under investigation and adverse reactions occurring abroad must also be included in the list and the report.[^43-2]
 
 <sup>3</sup> For Category B and C clinical trials, reports as specified in paragraphs 1 and 2 must also be submitted to the Agency. This obligation rests on the sponsor.
 
-[^43-1]: Amended by Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
-[^43-2]: Amended by Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+[^43-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^43-2]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 #### Art. 44
 
 **Assessment, notification and reporting on the use of radiation sources**[^44-1]
 
-<sup>1</sup> In clinical trials involving therapeutic products capable of emitting ionising radiation, and in investigations using radiation sources, the investigator shall assess compliance with the dose guidance value in accordance with Article 45 of the Radiological Protection Ordinance of 26 April 2017[^44-2].
+<sup>1</sup> In clinical trials involving medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO capable of emitting ionising radiation, and in investigations using radiation sources, the investigator shall assess compliance with the dose guidance value in accordance with Article 45 of the Radiological Protection Ordinance of 26 April 2017[^44-2].
 
 <sup>2</sup> If the permitted dose guidance value is exceeded at any time, the investigator shall notify the responsible ethics committee within seven working days of it becoming known.
 
-<sup>3</sup> In the case of Category B and C clinical trials with therapeutic products that emit ionising radiation, notification in accordance with paragraph 2 must also be given to the Agency. This obligation rests on the sponsor.
+<sup>3</sup> In the case of Category B and C clinical trials with medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO that emit ionising radiation, notification in accordance with paragraph 2 must also be given to the Agency. This obligation rests on the sponsor.
 
 <sup>4</sup> The responsible ethics committee and the Agency may obtain specialist advice from the FOPH in order to assess the dose calculation or the dose estimation and to decide what further measures are required.
 
@@ -776,11 +807,14 @@ The investigator shall, within 7 days, notify the responsible ethics committee o
 
 **Data retention requirements**
 
-<sup>1</sup> The sponsor must retain all data relating to the clinical trial until the expiry date of the last batch supplied of the medicinal product investigated or of the last medical device manufactured, but at least for ten years after the completion or discontinuation of the clinical trial. In the case of implantable medical devices, the retention period shall be at least 15 years.
+<sup>1</sup> The sponsor must retain all data relating to the clinical trial until the expiry date of the last batch supplied of the medicinal product investigated or of the last in vitro diagnostic medical device manufactured, but at least for ten years after the completion or discontinuation of the clinical trial.[^45-1]
 
-<sup>2</sup> The investigator must retain all documents required for the identification and follow-up of participants, and all other original data, for at least ten years after the completion or discontinuation of the clinical trial. In the case of implantable medical devices, the retention period shall be at least 15 years.
+<sup>2</sup> The investigator must retain all documents required for the identification and follow-up of participants, and all other original data, for at least ten years after the completion or discontinuation of the clinical trial.[^45-2]
 
 <sup>3</sup> For clinical trials of transplant products and for clinical trials of blood and blood products, the retention requirements are governed by Article 40 paragraph 1 TPA.
+
+[^45-1]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^45-2]: Amended by Annex 2 No 2 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 ### Section 6 Inspections and Official Measures
 
@@ -788,17 +822,17 @@ The investigator shall, within 7 days, notify the responsible ethics committee o
 
 **Agency inspections**
 
-<sup>1</sup> The Agency is entitled to inspect all clinical trials of therapeutic products and transplant products.
+<sup>1</sup> The Agency is entitled to inspect all clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO and transplant products.
 
 <sup>2</sup> If the Agency carries out inspections, it shall inform in advance the responsible ethics committee and other competent cantonal and federal authorities. They may participate in the inspection.
 
-<sup>3</sup> The Agency’s powers are governed by Article 43 of the Medicinal Products Authorisation Ordinance of 17 October 2001[^46-1].
+<sup>3</sup> The Agency’s powers are governed by Article 62 of the Medicinal Products Authorisation Ordinance of 14 November 2018[^46-1].
 
 <sup>4</sup> The Agency may additionally carry out inspections abroad at the sponsor’s expense, if this is necessary to assess the clinical trial conducted in Switzerland. The sponsor must be informed in advance.
 
 <sup>5</sup> The Agency shall inform the responsible ethics committee and other competent cantonal and federal authorities of the results of the inspection.
 
-[^46-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^46-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). The reference has been amended on 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 47
 
@@ -953,7 +987,7 @@ The FOPH may revoke or suspend the authorisation granted or make the continuatio
 
 **Scope**
 
-This Chapter applies to clinical trials which are neither trials of therapeutic products or transplant products nor trials of transplantation.
+This Chapter applies to clinical trials which are neither trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO or transplant products nor trials of transplantation.
 
 #### Art. 61
 
@@ -1081,7 +1115,7 @@ The Federal Department of Home Affairs may update Annexes 1–5 in accordance wi
 The following Ordinances shall be repealed:
 
 - 1\. Ordinance of 14 June 1993[^69-1] on the Waiver of Professional Confidentiality in Medical Research;
-- 2\. Ordinance of 17 October 2001[^69-2] on Clinical Trials of Therapeutic Products;
+- 2\. Ordinance of 17 October 2001[^69-2] on Clinical Trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO;
 - 3\. HIV Studies Ordinance of 30 June 1993[^69-3].
 
 [^69-1]: [[AS 1993 1983](https://fedlex.data.admin.ch/eli/oc/1993/1983_1983_1983)]
@@ -1098,7 +1132,7 @@ The amendment of other legislation is regulated in Annex 6.
 
 **Transitional provisions for clinical trials authorised under existing law**
 
-<sup>1</sup> Clinical trials of therapeutic products and transplant products and trials of transplantation which were authorised before 1 January 2014 are considered to be Category C clinical trials.
+<sup>1</sup> Clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO and transplant products and trials of transplantation which were authorised before 1 January 2014 are considered to be Category C clinical trials.
 
 <sup>2</sup> Other authorised clinical trials are considered to be Category B clinical trials.
 
@@ -1128,13 +1162,13 @@ The sponsor of an authorised clinical trial which is not completed within a year
 
 This Ordinance comes into force on 1 January 2014.
 
-Annex 1*[^t-1]*
+Annex 1*[^t-2]*
 
 (Art. 3, 5, 19, 39–42)
 
 ## Rules and classifications
 
-[^t-1]: Revised in accordance with No I of the FDHA Ordinance of 24 March 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)) and Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+[^t-2]: Revised by No I of the FDHA Ordinance of 24 March 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)) and Annex No 1 of the O of 25 Oct. 2017, in force since 26 Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
 
 ### 1 Guidelines on scientific integrity
 
@@ -1147,20 +1181,20 @@ The applicable guidelines are the Principles and Procedures for Integrity in Sci
 The applicable rules of Good Clinical Practice are:
 
 - 1\. for clinical trials of medicinal products and transplant products: the Guideline for Good Clinical Practice issued by the International Conference on Harmonisation, in the version dated 9 November 2016[^annex1-lvlu1-lvl2-1] (ICH Guideline);
-- 2\. for clinical trials of medical devices: Annexes VIII and X to Directive 93/42/EEC[^annex1-lvlu1-lvl2-2] and Annexes 6 and 7 to Directive 90/385/EEC[^annex1-lvlu1-lvl2-3] and the requirements specified in EN ISO 14155:2011[^annex1-lvlu1-lvl2-4]. The definition of serious adverse events in accordance with Article 42 is based on the Guidelines on Medical Devices (MEDDEV 2.7/3) of May 2015[^annex1-lvlu1-lvl2-5];
+- 2\. for clinical trials of medical devices: Annexes VIII and X to Directive 93/42/EEC[^annex1-lvlu1-lvl2-2] and Annexes 6 and 7 to Directive 90/385/EEC[^annex1-lvlu1-lvl2-3] and the requirements specified in EN ISO 14155:2011[^annex1-lvlu1-lvl2-4]. The definition of serious adverse events in accordance with Article 42 is based on the Guidelines on in vitro diagnostic medical devices and products under Article 2a paragraph 2 TPA (MEDDEV 2.7/3) of May 2015[^annex1-lvlu1-lvl2-5];
 - 3\. for clinical trials as specified in Chapters 3 and 4 of this Ordinance: the ICH Guideline *mutatis mutandis*.
 
 [^annex1-lvlu1-lvl2-1]: This Guideline can be obtained against payment or consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; it can also be accessed online at: www.ich.org &gt; work products &gt; Efficacy Guidelines.
 [^annex1-lvlu1-lvl2-2]: Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169, 12.7.1993, p. 1; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
 [^annex1-lvlu1-lvl2-3]: Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices, OJ L 189, 20.7.1990, p. 17; last amended by Directive 2007/47/EC, OJ L 247, 21.9.2007, p. 21.
 [^annex1-lvlu1-lvl2-4]: This standard can be consulted free of charge at the Federal Office of Public Health, CH‑3003 Bern and at the Swiss Agency for Therapeutic Products, CH-3003 Bern. It can also be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex1-lvlu1-lvl2-5]: These Guidelines can be consulted free of charge at the Federal Office of Public Health, CH-3003 Bern, or accessed online at: www.ec.europa.eu/growth/ &gt; Sectors &gt; Medical devices &gt; Guidance www.ec.europa.eu/growth/ &gt; Sectors &gt; Medical devices &gt; Guidance.
+[^annex1-lvlu1-lvl2-5]: These guidelines can be consulted free of charge at the Federal Office of Public Health, CH-3003 Bern, or accessed online at: www.ec.europa.eu/growth/ &gt; Sectors &gt; Medical devices &gt; Guidance.
 
 ### 3 International Classification of Diseases
 
 The applicable classification is the 2010 version of the International Classification of Diseases issued by the World Health Organization (WHO) (ICD-10)[^annex1-lvlu1-lvl3-1]; the relevant disease groups are those identified by three-character codes.
 
-[^annex1-lvlu1-lvl3-1]: The Classification can be obtained against payment or consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; it can also be accessed online at: www.who.int &gt; Health topics &gt; Classifications of disease.
+[^annex1-lvlu1-lvl3-1]: The classification can be obtained against payment or consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; it can also be accessed online at: www.who.int &gt; Health topics &gt; Classifications of disease.
 
 Annex 2
 
@@ -1190,7 +1224,7 @@ Annex 3
 
 ## Application documents to be submitted to the responsible ethics committee for the procedure for clinical trials
 
-### 1 Application documents for Category A clinical trials of therapeutic products and transplant products
+### 1 Application documents for Category A clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO and transplant products
 
 - 1\.1 Basic form, including a summary of the protocol in the national language of the trial site and reasons for the requested categorisation;
 - 1\.2 protocol;
@@ -1199,8 +1233,8 @@ Annex 3
 - 1\.5 other documents issued to participants;
 - 1\.6 information on the type and amount of remuneration for participants;
 - 1\.7 for clinical trials of medicinal products: the prescribing information;
-- 1\.8 for clinical trials of medical devices: the conformity marking, including the intended use and instructions;
-- 1\.9 for clinical trials not using proprietary products: proof of compliance with Good Manufacturing Practice and correct labelling of the therapeutic products;
+- 1\.8 for clinical trials of in vitro diagnostic medical devices and products under Article 2a paragraph 2 TPA: the conformity marking, including the intended use and instructions;
+- 1\.9 for clinical trials not using proprietary products: proof of compliance with Good Manufacturing Practice and correct labelling of the medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO;
 - 1\.10 the investigator’s CV, including evidence of his or her knowledge and experience, and a list of the other persons conducting the clinical trial, indicating their responsibilities and relevant professional knowledge;
 - 1\.11 information on the suitability and availability of infrastructure at the trial site;
 - 1\.12 information on the secure handling of personal data;
@@ -1208,7 +1242,7 @@ Annex 3
 - 1\.14 certificate of insurance or other proof of coverage for possible damage, including agreements on this matter between the sponsor, or a third party acting on the sponsor’s behalf, and the investigator;
 - 1\.15 any decisions or opinions of ethics committees abroad concerning the clinical trial, including any conditions imposed and the reasons given.
 
-### 2 Application documents for Category B and C clinical trials of therapeutic products and transplant products
+### 2 Application documents for Category B and C clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO and transplant products
 
 - 2\.1 Basic form, including a summary of the protocol in the national language of the trial site and reasons for the requested categorisation;
 - 2\.2 protocol;
@@ -1230,7 +1264,7 @@ Annex 3
 
 [^annex3-lvlu1-lvl2-1]: Correction of 27 Dec. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
 
-### 3 Application documents for clinical trials of transplantation and for clinical trials not involving therapeutic products
+### 3 Application documents for clinical trials of transplantation and for clinical trials not involving medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO
 
 - 3\.1 Basic form, including a summary of the protocol in the national language of the trial site and reasons for the requested categorisation;
 - 3\.2 protocol;
@@ -1265,7 +1299,7 @@ Annex 3
 - 4\.6 agreements between the sponsor, or third parties acting on the sponsor’s behalf, and the coordinating investigator and other investigators at the other sites, in particular with regard to the remuneration of the investigator at the site in question;
 - 4\.7 certificate of insurance or other proof of coverage for possible damage occurring at the trial site in question, including agreements on this matter between the sponsor, or a third party acting on the sponsor’s behalf, and the investigator.
 
-### 5 Additional application documents for Category A clinical trials of therapeutic products capable of emitting ionising radiation, and for investigations involving radiation sources
+### 5 Additional application documents for Category A clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO capable of emitting ionising radiation, and for investigations involving radiation sources
 
 - 5\.1 Details of all relevant radiological protection aspects, and in particular a calculation or estimate of the effective dose, organ doses and any tumour doses;
 - 5\.2 the licences required under Article 28 of the Radiological Protection Act of 22 March 1991[^annex3-lvlu1-lvl5-1].
@@ -1286,7 +1320,7 @@ Annex 4
 
 (Art. 31, 34–36, 54, 55)
 
-## Application documents to be submitted to the Swiss Agency for Therapeutic Products or to the FOPH for the procedure for clinical trials of therapeutic products and transplant products, clinical trials of gene therapy and of genetically modified or pathogenic organisms, and clinical trials of transplantation
+## Application documents to be submitted to the Swiss Agency for Therapeutic Products or to the FOPH for the procedure for clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO and transplant products, clinical trials of gene therapy and of genetically modified or pathogenic organisms, and clinical trials of transplantation
 
 ### 1 Application documents for Category B clinical trials of medicinal products and transplant products
 
@@ -1314,7 +1348,7 @@ Annex 4
 
 ### 3 Application documents for Category C clinical trials of medical devices
 
-- 3\.1. Basic form;
+- 3\.1 Basic form;
 - 3\.2 protocol;
 - 3\.3 case report form (CRF);
 - 3\.4
@@ -1352,13 +1386,13 @@ Annex 4
 - 4\.2 risk assessment of the conduct of the clinical trial with regard to the protection of human health and the environment;
 - 4\.3 a description of the safety measures required for the protection of human and animal health and the environment, and in particular to prevent the release of microorganisms into the environment during and after transplantation, and during transport, storage and disposal.
 
-### 5 Additional application documents for clinical trials of therapeutic products capable of emitting ionising radiation
+### 5 Additional application documents for clinical trials of medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO capable of emitting ionising radiation
 
 - 5\.1 Details of all relevant radiological protection aspects, and in particular a calculation or estimate of the effective dose, organ doses and any tumour doses;
 - 5\.2 the licences required under Article 28 of the Radiological Protection Act of 22 March 1991[^annex4-lvlu1-lvl5-1];
 - 5\.3
 
-  for therapeutic products containing radioactive sources[^annex4-lvlu1-lvl5-2]:
+  for medicinal products, in vitro diagnostic medical devices or combinations under Article 2 letters f–h MedDO containing radioactive sources[^annex4-lvlu1-lvl5-2]:
 
   - a. information on the properties of the radiopharmaceutical, and in particular on pharmacokinetics, quality, stability, radiochemical purity and radionuclide purity,
   - b. for authorised radiopharmaceuticals: the prescribing information,
@@ -1392,7 +1426,7 @@ Annex 5
 
 The data specified in Version 1.2.1 of the WHO Trial Registration Data Set[^annex5-lvlu1-lvl1-1] must be entered in a registry as specified in Article 64 paragraph 1.
 
-[^annex5-lvlu1-lvl1-1]: The Trial Registration Data Set can be consulted free of charge at the Federal Office of Public Health, CH-3003 Bern; it can also be accessed online at: www.who.int &gt; Programmes and projects &gt; Clinical Trials – International Registry Platform &gt; Registry Network.
+[^annex5-lvlu1-lvl1-1]: The Trial Registration Data Set can be consulted free of charge at the Federal Office of Public Health, CH-3003 Bern: www.bag.admin.ch. It can also be accessed online at: www.who.int &gt; Programmes and projects &gt; Clinical Trials – International Registry Platform &gt; Registry Network.
 
 ### 2 Data to be entered in the supplementary database
 

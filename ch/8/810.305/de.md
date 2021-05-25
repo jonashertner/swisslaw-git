@@ -4,20 +4,22 @@ title: Verordnung vom 20. September 2013 über klinische Versuche mit Ausnahme k
 short: KlinV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: de
-version: 2018-04-24
+version: 2021-05-26
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20180424/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20180424-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20180424/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20210526/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20210526-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20210526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über klinische Versuche in der Humanforschung
+# Verordnung über klinische Versuche mit Ausnahme klinischer Versuche mit Medizinprodukten****
 
-(Verordnung über klinische Versuche; KlinV)
+(Verordnung über klinische Versuche; KlinV)[^t-1]
 
-vom 20. September 2013 (Stand am 24. April 2018)
+vom 20. September 2013 (Stand am 26. Mai 2021)
+
+[^t-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 Der Schweizerische Bundesrat,
 
@@ -41,37 +43,58 @@ verordnet:
 
 Diese Verordnung regelt:
 
-- a. die Anforderungen an die Durchführung klinischer Versuche nach Artikel 3 Buchstabe l HFG;
+- a.[^1-1]
+
+  die Anforderungen an die Durchführung:
+
+  - 1\.[^1-2] klinischer Versuche mit Arzneimitteln, einschliesslich Kombinationen nach Artikel 2 Absatz 1 Buchstaben f und g Medizinprodukteverordnung vom 1. Juli 2020 (MepV)[^1-3], oder Transplantatprodukten,
+  - 2\. klinischer Versuche mit In-vitro-Diagnostika oder Produkten nach Artikel 2*a* Absatz 2 HMG[^1-4],
+  - 3\. klinischer Versuche der Transplantation,
+  - 4\. klinische Versuche die keine klinischen Versuche nach Ziffern 1 bis 3 sind;
+
 - b. die Bewilligungs- und Meldeverfahren für klinische Versuche;
 - c. die Aufgaben und Zuständigkeiten der Ethikkommissionen für die Forschung (Ethikkommissionen), des Schweizerischen Heilmittelinstituts (Institut) sowie des Bundesamtes für Gesundheit (BAG) im Zusammenhang mit den Bewilligungs- und Meldeverfahren;
 - d. die Registrierung klinischer Versuche sowie den Zugang der Öffentlichkeit zum Register.
 
-<sup>2</sup> Für klinische Versuche der Xenotransplantation ist die Xenotransplantationsverordnung vom 16. März 2007[^1-1] anwendbar.
+<sup>2</sup>
 
-[^1-1]: [SR 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+Anwendbar sind:
+
+- a. für klinische Versuche mit Medizinprodukten nach MepV: die Verordnung vom 1. Juli 2020[^1-5] über klinische Versuche mit Medizinprodukten;
+- b. für klinische Versuche der Xenotransplantation: die Xenotransplantationsverordnung vom 16. März 2007[^1-6].[^1-7]
+
+[^1-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^1-2]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^1-3]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-4]: Ausdruck gemäss Anhang Ziff. 2 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-5]: SR **812.213.3**
+[^1-6]: [SR 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-7]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 #### Art. 2
 
-**Begriffe**
+**Begriffe**[^2-1]
 
 Im Sinne dieser Verordnung gelten als:
 
-- a. *gesundheitsbezogene Intervention:* präventive, diagnostische, therapeutische, palliative oder rehabilitative Handlung, die im Rahmen eines klinischen Versuchs untersucht wird;
-- b.
+- a. klinischer Versuch: Forschungsprojekt mit Personen, das diese prospektiv einer gesundheitsbezogenen Intervention zuordnet, um deren Wirkungen auf die Gesundheit oder auf den Aufbau und die Funktion des menschlichen Körpers zu untersuchen;
+- b. *gesundheitsbezogene Intervention:* präventive, diagnostische, therapeutische, palliative oder rehabilitative Handlung, die im Rahmen eines klinischen Versuchs untersucht wird;
+- c.
 
   *minimale Risiken und Bela**s**tungen:* Risiken und Belastungen, die sich unter Berücksichtigung der Verletzbarkeit der teilnehmenden Personen und der konkreten Umstände in ihrer Intensität und Qualität nur geringfügig und vorübergehend auf die Gesundheit der teilnehmenden Personen auswirken; mit minimalen Risiken und Belastungen können namentlich verbunden sein:
 
   - 1\. Befragungen und Beobachtungen,
   - 2\. periphere venöse oder kapillare Blutentnahmen sowie kleinflächige Stanzbiopsien der Haut,
-  - 3\. die Entnahme oder Abgabe von Körpersubstanzen ohne invasive Massnahmen (insbesondere Speichel-, Urin- und Stuhlproben),
+  - 3\. die Entnahme oder Abgabe von Körpersubstanzen ohne invasive Massnahmen, insbesondere Speichel-, Urin- und Stuhlproben,
   - 4\. Abstriche,
   - 5\. Magnetresonanztomographien ohne Kontrastmittel, Ultraschalluntersuchungen oder Elektrogramme,
-  - 6\. Untersuchungen mit Medizinprodukten mit Konformitätskennzeichen ohne Kontrastmittel beziehungsweise mit zugelassenen Arzneimitteln, welche ionisierende Strahlen aussenden können, sofern die effektive Dosis[^2-1] unter 5 mSv pro Forschungsprojekt und betroffener Person liegt;
+  - 6\. Untersuchungen mit Medizinprodukten nach Artikel 3 MepV[^2-2]: mit Konformitätskennzeichen ohne Kontrastmittel beziehungsweise mit zugelassenen Arzneimitteln, welche ionisierende Strahlen aussenden können, sofern die effektive Dosis unter 5 mSv pro Forschungsprojekt und betroffener Person liegt;
 
-- c. *Sponsor:* Person oder Institution mit Sitz oder Vertretung in der Schweiz, die für die Veranlassung eines klinischen Versuchs, namentlich für dessen Einleitung, Management und Finanzierung in der Schweiz die Verantwortung übernimmt;
-- d. *Prüfperson:* Person, die in der Schweiz für die praktische Durchführung des klinischen Versuchs sowie für den Schutz der teilnehmenden Personen vor Ort verantwortlich ist; wenn eine Prüfperson für die Veranlassung eines klinischen Versuchs in der Schweiz die Verantwortung übernimmt, ist sie zugleich Sponsor.
+- d. *Sponsor:* Person oder Institution mit Sitz oder Vertretung in der Schweiz, die für die Veranlassung eines klinischen Versuchs, namentlich für dessen Einleitung, Management und Finanzierung in der Schweiz die Verantwortung übernimmt;
+- e. *Prüfperson:* Person, die in der Schweiz für die praktische Durchführung des klinischen Versuchs sowie für den Schutz der teilnehmenden Personen vor Ort verantwortlich ist; wenn eine Prüfperson für die Veranlassung eines klinischen Versuchs in der Schweiz die Verantwortung übernimmt, ist sie zugleich Sponsor.
 
-[^2-1]: Die Berichtigung (Ersatz von Ausdrücken) vom 24. April 2018 betrifft nur den französischen und italienischen Text ([AS 2018 1653](https://fedlex.data.admin.ch/eli/oc/2018/243)).
+[^2-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^2-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### 2. Abschnitt: Grundsätze
 
@@ -123,9 +146,11 @@ Die Prüfperson eines klinischen Versuchs muss:
 
 <sup>2</sup> Die Prüfperson eines klinischen Versuchs mit Arzneimitteln oder der Transplantation muss zudem zur Ausübung des Arztberufs in eigener fachlicher Verantwortung berechtigt sein.
 
-<sup>3</sup> Für klinische Versuche mit Medizinprodukten sowie für klinische Versuche nach dem 4. Kapitel ist auch eine Person ohne ärztliche Qualifikation als Prüfperson befugt, sofern sie zur Ausübung des Berufs, der sie zum klinischen Versuch spezifisch qualifiziert, in eigener fachlicher Verantwortung berechtigt ist.
+<sup>3</sup> Für klinische Versuche mit In-vitro-Diagnostika[^6-1] oder Produkten nach Artikel 2*a* Absatz 2 HMG sowie für klinische Versuche nach dem 4. Kapitel ist auch eine Person ohne ärztliche Qualifikation als Prüfperson befugt, sofern sie zur Ausübung des Berufs, der sie zum klinischen Versuch spezifisch qualifiziert, in eigener fachlicher Verantwortung berechtigt ist.
 
 <sup>4</sup> Die übrigen Personen, die den klinischen Versuch durchführen, müssen über die ihrer jeweiligen Tätigkeit entsprechenden fachlichen Kenntnisse und Erfahrungen verfügen.
+
+[^6-1]: Ausdruck gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### 3. Abschnitt: Aufklärung, Einwilligung und Widerruf
 
@@ -200,7 +225,7 @@ Von der Haftpflicht bei klinischen Versuchen gemäss Artikel 19 Absatz 1 HFG wir
 
 - a. die Verabreichung eines zugelassenen, gemäss der Fachinformation angewendeten Arzneimittels;
 - b. die Verabreichung eines zugelassenen Arzneimittels, wenn diese in einer nach international anerkannten Qualitätskriterien verfassten Leitlinie als Standard ausgewiesen ist;
-- c. den Einsatz eines Medizinproduktes, das ein Konformitätskennzeichen trägt und gemäss der Gebrauchsanweisung angewendet wird;
+- c. den Einsatz eines In-vitro-Diagnostikums und Produkts nach Artikel 2*a* Absatz 2 HMG, das ein Konformitätskennzeichen trägt und gemäss der Gebrauchsanweisung angewendet wird;
 - d. die Anwendung einer anderen gesundheitsbezogenen Intervention, die in einer nach international anerkannten Qualitätskriterien verfassten Leitlinie als Standard ausgewiesen ist.
 
 <sup>2</sup>
@@ -323,7 +348,11 @@ Wer im Rahmen eines klinischen Versuchs biologisches Material aufbewahrt, muss n
 - b. die technischen Anforderungen für die sachgerechte Aufbewahrung des biologischen Materials gewährleisten;
 - c. die erforderlichen Ressourcen für die Aufbewahrung bereitstellen.
 
-## 2. Kapitel: Bewilligungs- und Meldeverfahren für klinische Versuche mit Heilmitteln und Transplantatprodukten
+## 2. Kapitel: Bewilligungs- und Meldeverfahren für klinische Versuche mit Arzneimitteln, In-vitro-Diagnostika****, Produkten nach Artikel 2*a* Absatz 2 HMG oder Transplantatprodukten
+
+[^chap2-1]
+
+[^chap2-1]: Ausdruck gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -358,22 +387,22 @@ Klinische Versuche mit Arzneimitteln entsprechen der Kategorie B, wenn das Arzne
 
 #### Art. 20
 
-**Kategorisierung der klinischen Versuche mit Medizinprodukten**
+**Kategorisierung der klinischen Versuche mit In-vitro-Diagnostika oder Produkten nach Artikel 2*a* Absatz 2 HMG**
 
 <sup>1</sup>
 
-Klinische Versuche mit Medizinprodukten entsprechen der Kategorie A, wenn:
+Klinische Versuche mit In-vitro-Diagnostika oder Produkten nach Artikel 2*a* Absatz 2 HMG entsprechen der Kategorie A, wenn:
 
-- a. das Medizinprodukt ein Konformitätskennzeichen trägt; und
+- a. das In-vitro-Diagnostikum oder Produkt nach Artikel 2*a* Absatz 2 HMG ein Konformitätskennzeichen trägt; und
 - b. gemäss der Gebrauchsanweisung angewendet wird.
 
 <sup>2</sup>
 
 Sie entsprechen der Kategorie C, wenn:
 
-- a. das Medizinprodukt kein Konformitätskennzeichen trägt;
+- a. das In-vitro-Diagnostikum oder Produkt nach Artikel 2*a* Absatz 2 HMG kein Konformitätskennzeichen trägt;
 - b. die Anwendung von den im Rahmen der Konformitätsprüfung anerkannten Bestimmungen der Gebrauchsanweisung abweicht; oder
-- c. die Anwendung des Medizinprodukts in der Schweiz verboten ist.
+- c. die Anwendung des In-vitro-Diagnostikums oder Produkts nach Artikel 2*a* Absatz 2 HMG in der Schweiz verboten ist.
 
 #### Art. 21
 
@@ -442,7 +471,7 @@ Die zuständige Ethikkommission überprüft:
 - g. die hinreichenden Kenntnisse und Erfahrungen der Prüfperson und der übrigen Personen, die den klinischen Versuch durchführen, in Bezug auf das betreffende Fachgebiet sowie die Durchführung eines klinischen Versuchs;
 - h. die Eignung der Infrastrukturen am Durchführungsort;
 - i. die Finanzierung des klinischen Versuchs sowie die Vereinbarungen zwischen Sponsor, Dritten und Prüfperson hinsichtlich der Zuteilung von Aufgaben, der Vergütung und der Publikation;
-- j. bei klinischen Versuchen mit Heilmitteln, die ionisierende Strahlen aussenden können und der Kategorie A zugeordnet sind: zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung;
+- j. bei klinischen Versuchen mit Arzneimitteln, In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können und der Kategorie A zugeordnet sind: zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung;
 - k. bei Untersuchungen mit Strahlungsquellen[^25-1]: zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung, sofern keine Stellungnahme des BAG gemäss Artikel 28 einzuholen ist;
 - l. weitere Bereiche, sofern dies zur Beurteilung des Schutzes der teilnehmenden Personen notwendig ist.
 
@@ -528,9 +557,11 @@ Als wesentliche Änderungen gelten:
 
 #### Art. 30
 
-**Ausnahme von der Bewilligungspflicht**
+**Ausnahme von der Bewilligungspflicht**[^30-1]
 
-Klinische Versuche mit Heilmitteln der Kategorie A sind von der Bewilligungspflicht beim Institut nach Artikel 54 Absatz 1 HMG ausgenommen.
+Klinische Versuche der Kategorie A sind von der Bewilligungspflicht beim Institut nach Artikel 54 Absatz 1 HMG ausgenommen.
+
+[^30-1]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 #### Art. 31
 
@@ -558,7 +589,7 @@ Das Institut überprüft bei klinischen Versuchen mit Arzneimitteln:
 
 <sup>3</sup>
 
-Es überprüft bei klinischen Versuchen mit Medizinprodukten:
+Es überprüft bei klinischen Versuchen mit In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG:
 
 - a. die Vollständigkeit des Gesuchs;
 - b. die Anforderungen nach Artikel 54 Absatz 4 Buchstabe b HMG.
@@ -571,7 +602,7 @@ Es überprüft bei klinischen Versuchen mit Medizinprodukten:
 
 <sup>2</sup> Es entscheidet innerhalb von 30 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen.
 
-<sup>3</sup> Wird ein Heilmittel erstmals an Personen angewendet oder in einem neuen Verfahren hergestellt, so kann es diese Frist um höchstens 30 Tage verlängern. Es teilt die Verlängerung dem Sponsor mit.
+<sup>3</sup> Wird ein Arzneimittel, In-vitro-Diagnostikum oder Produkt nach Art. 2*a* Absatz 2 HMG erstmals an Personen angewendet oder in einem neuen Verfahren hergestellt, so kann es diese Frist um höchstens 30 Tage verlängern. Es teilt die Verlängerung dem Sponsor mit.
 
 <sup>4</sup> Verlangt das Institut zusätzliche Informationen nach Artikel 31 Absatz 2, so steht die Frist bis zu deren Eingang still.
 
@@ -589,9 +620,9 @@ Es überprüft bei klinischen Versuchen mit Medizinprodukten:
 
 Als wesentliche Änderungen gelten:
 
-- a. Änderungen am Heilmittel oder an dessen Verabreichung beziehungsweise Anwendung;
+- a. Änderungen am Arzneimittel, In-vitro-Diagnostikum oder Produkt nach Art. 2*a* Absatz 2 HMG oder an dessen Verabreichung beziehungsweise Anwendung;
 - b. Änderungen aufgrund neuer präklinischer und klinischer Daten, die sich auf die Produktesicherheit auswirken können; oder
-- c. Änderungen betreffend die Herstellung des Heilmittels, die sich auf die Produktesicherheit auswirken können.
+- c. Änderungen betreffend die Herstellung des Arzneimittels, In-vitro-Diagnostika oder Produkts nach Art. 2*a* Absatz 2 HMG, die sich auf die Produktesicherheit auswirken können.
 
 <sup>4</sup> Das Institut entscheidet innerhalb von 30 Tagen nach Eingang der vollständigen von der Änderung betroffenen Gesuchsunterlagen. Artikel 33 ist sinngemäss anwendbar.
 
@@ -624,9 +655,9 @@ Es erteilt die Bewilligung, wenn:
 
 #### Art. 36
 
-**Klinische Versuche mit Heilmitteln, die ionisierende Strahlen aussenden können**
+**Klinische Versuche mit Arzneimitteln, In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlenaussenden können**
 
-<sup>1</sup> Für klinische Versuche der Kategorien B und C mit Heilmitteln, die ionisierende Strahlen aussenden können, müssen dem Institut zusätzlich die Dokumente nach Anhang 4 Ziffer 5 eingereicht werden.
+<sup>1</sup> Für klinische Versuche der Kategorien B und C mit Arzneimitteln, In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können, müssen dem Institut zusätzlich die Dokumente nach Anhang 4 Ziffer 5 eingereicht werden.
 
 <sup>2</sup> Bei klinischen Versuchen der Kategorie C holt das Institut vor der Erteilung der Bewilligung die Stellungnahme des BAG ein. Das BAG prüft die Einhaltung der Strahlenschutzgesetzgebung und die Dosisabschätzung.
 
@@ -654,7 +685,7 @@ Es übermittelt dem BAG bei klinischen Versuchen der Kategorie C unmittelbar nac
 
 <sup>1</sup> Müssen während der Durchführung eines klinischen Versuchs unverzüglich Sicherheits- und Schutzmassnahmen getroffen werden, so meldet die Prüfperson diese Massnahmen sowie die Umstände, aufgrund derer sie notwendig wurden, der Ethikkommission innerhalb von 7 Tagen.
 
-<sup>2</sup> Bei klinischen Versuchen mit Medizinprodukten ist diese Meldung innerhalb von 2 Tagen zu erstatten.
+<sup>2</sup> Bei klinischen Versuchen mit In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG ist diese Meldung innerhalb von 2 Tagen zu erstatten.
 
 <sup>3</sup> Für klinische Versuche der Kategorien B und C sind die Meldungen nach den Absätzen 1 und 2 dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor.
 
@@ -712,7 +743,7 @@ Es übermittelt dem BAG bei klinischen Versuchen der Kategorie C unmittelbar nac
 
 #### Art. 42
 
-**Schwerwiegende unerwünschte Ereignisse (*Serious Adverse Events, SAE*) und Produktemängel bei klinischen Versuchen mit Medizinprodukten**[^42-1]
+**Schwerwiegende unerwünschte Ereignisse (Serious Adverse Events, SAE) und Mängel an In-vitro-Diagnostika bei klinischen Versuchen mit In-vitro-Diagnostika**[^42-1]
 
 <sup>1</sup>
 
@@ -720,44 +751,44 @@ Die Prüfperson meldet der zuständigen Ethikkommission innerhalb von 7 Tagen:
 
 - a.
 
-  schwerwiegende unerwünschte Ereignisse, die bei der Durchführung eines klinischen Versuchs der Kategorie C mit Medizinprodukten bei teilnehmenden Personen in der Schweiz auftreten und bei denen nicht ausgeschlossen ist, dass sie zurückgeführt werden können:
+  schwerwiegende unerwünschte Ereignisse, die bei der Durchführung eines klinischen Versuchs der Kategorie C mit In-vitro-Diagnostika bei teilnehmenden Personen in der Schweiz auftreten und bei denen nicht ausgeschlossen ist, dass sie zurückgeführt werden können:
 
-  - 1\. auf das Prüfprodukt, oder
+  - 1\. auf das zu untersuchende In-vitro-Diagnostikum, oder
   - 2\. auf einen im klinischen Versuch erfolgten Eingriff;
 
-- b. Produktemängel, die ohne angemessene Massnahmen, ohne einen Eingriff oder unter weniger günstigen Umständen zu schwerwiegenden unerwünschten Ereignissen hätten führen können.
+- b. Mängel am zu untersuchenden In-vitro-Diagnostikum, die ohne angemessene Massnahmen, ohne einen Eingriff oder unter weniger günstigen Umständen zu schwerwiegenden unerwünschten Ereignissen hätten führen können.
 
-<sup>2</sup> Treten bei einem multizentrischen klinischen Versuch schwerwiegende unerwünschte Ereignisse oder Produktemängel an einem der Durchführungsorte auf, so erstattet die koordinierende Prüfperson die Meldung auch der zuständigen beteiligten Ethikkommission.
+<sup>2</sup> Treten bei einem multizentrischen klinischen Versuch an einem der Durchführungsorte schwerwiegende unerwünschte Ereignisse oder Mängel am zu untersuchenden In-vitro-Diagnostikum auf, so erstattet die koordinierende Prüfperson die Meldung auch der zuständigen beteiligten Ethikkommission.
 
-<sup>3</sup> Für einen klinischen Versuch der Kategorie C sind die Meldungen nach Absatz 1 auch dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor. Er meldet dem Institut zudem im Ausland aufgetretene Ereignisse und beobachtete Produktemängel. Bei einem klinischen Versuch der Kategorie A obliegt dem Sponsor die Meldepflicht nach Artikel 15 Absatz 1 der Medizinprodukteverordnung vom 17. Oktober 2001[^42-2].
+<sup>3</sup> Für einen klinischen Versuch der Kategorie C sind die Meldungen nach Absatz 1 auch dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor. Er meldet dem Institut zudem im Ausland aufgetretene Ereignisse und am zu untersuchenden In-vitro-Diagnostikum beobachtete Mängel. Bei einem klinischen Versuch der Kategorie A obliegt dem Sponsor die Meldepflicht nach Artikel 15 Absatz 1 der Medizinprodukteverordnung vom 17. Oktober 2001[^42-2].
 
-<sup>4</sup> Die Definition schwerwiegender unerwünschter Ereignisse und Produktemängel richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2 Ziffer 2.
+<sup>4</sup> Die Definition schwerwiegender unerwünschter Ereignisse und Mängel an In-vitro-Diagnostika richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2 Ziffer 2
 
-[^42-1]: Fassung gemäss Anhang Ziff. 1 der V vom 25. Okt. 2017, in Kraft seit 26. Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
-[^42-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^42-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520), [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)
 
 #### Art. 43
 
 **Berichterstattung über die Sicherheit der teilnehmenden Personen**
 
-<sup>1</sup> Die Prüfperson legt der zuständigen Ethikkommission einmal jährlich eine Liste der Ereignisse und Produktemängel beziehungsweise Arzneimittelwirkungen nach den Artikeln 40–42 vor und erstattet ihr daraus abgeleitet einen Bericht über deren Schweregrad, deren Kausalität zur Intervention sowie über die Sicherheit der teilnehmenden Personen (*Annual Safety Report, ASR*).[^43-1]
+<sup>1</sup> Die Prüfperson legt der zuständigen Ethikkommission einmal jährlich eine Liste der Ereignisse und Mängel am zu untersuchenden In-vitro-Diagnostikum beziehungsweise Arzneimittelwirkungen nach den Artikeln 40–42 vor und erstattet ihr daraus abgeleitet einen Bericht über deren Schweregrad, deren Kausalität zur Intervention sowie über die Sicherheit der teilnehmenden Personen (Annual Safety Report, ASR).[^43-1]
 
-<sup>2</sup> Bei klinischen Versuchen, die nach gleichem Prüfplan auch im Ausland durchgeführt werden, sind zusätzlich die Ereignisse und Produktemängel beziehungsweise die Arzneimittelwirkungen im Ausland in die Liste und den Bericht aufzunehmen.[^43-2]
+<sup>2</sup> Bei klinischen Versuchen, die nach gleichem Prüfplan auch im Ausland durchgeführt werden, sind zusätzlich die Ereignisse und Mängel am zu untersuchenden In-vitro-Diagnostikum beziehungsweise die Arzneimittelwirkungen im Ausland in die Liste und den Bericht aufzunehmen[^43-2]
 
 <sup>3</sup> Für klinische Versuche der Kategorien B und C ist auch dem Institut Bericht nach den Absätzen 1 und 2 zu erstatten. Diese Pflicht obliegt dem Sponsor.
 
-[^43-1]: Fassung gemäss Anhang Ziff. 1 der V vom 25. Okt. 2017, in Kraft seit 26. Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
-[^43-2]: Fassung gemäss Anhang Ziff. 1 der V vom 25. Okt. 2017, in Kraft seit 26. Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+[^43-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^43-2]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 #### Art. 44
 
 **Überprüfung, Meldung und Berichterstattung bei der Anwendung von Strahlungsquellen**[^44-1]
 
-<sup>1</sup> Die Prüfperson überprüft bei klinischen Versuchen mit Heilmitteln, die ionisierende Strahlen aussenden können, sowie bei Untersuchungen mit Strahlungsquellen die Einhaltung des Dosisrichtwerts nach Artikel 45 der Strahlenschutzverordnung vom 26. April 2017[^44-2].
+<sup>1</sup> Die Prüfperson überprüft bei klinischen Versuchen mit Arzneimitteln, In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können, sowie bei Untersuchungen mit Strahlungsquellen die Einhaltung des Dosisrichtwerts nach Artikel 45 der Strahlenschutzverordnung vom 26. April 2017[^44-2].
 
 <sup>2</sup> Sie meldet eine Überschreitung des zulässigen Dosisrichtwertes innerhalb von sieben Arbeitstagen nach Bekanntwerden der zuständigen Ethikkommission.
 
-<sup>3</sup> Für klinische Versuche der Kategorien B und C mit Heilmitteln, die ionisierende Strahlen aussenden, ist die Meldung nach Absatz 2 auch dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor.
+<sup>3</sup> Für klinische Versuche der Kategorien B und C mit Arzneimitteln, In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden, ist die Meldung nach Absatz 2 auch dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor.
 
 <sup>4</sup> Die zuständige Ethikkommission und das Institut können zur Beurteilung der Dosisberechnung oder der Dosisabschätzung sowie zur Bestimmung der weiteren Massnahmen die fachliche Beratung des BAG einholen.
 
@@ -774,11 +805,14 @@ Die Prüfperson meldet der zuständigen Ethikkommission innerhalb von 7 Tagen:
 
 **Aufbewahrungspflicht**
 
-<sup>1</sup> Der Sponsor muss sämtliche Daten, die den klinischen Versuch betreffen, bis zum Verfalldatum der letzten ausgelieferten Charge des untersuchten Arzneimittels oder des zuletzt hergestellten Medizinprodukts, mindestens aber während zehn Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren. Bei implantierbaren Medizinprodukten beträgt die Aufbewahrungsfrist mindestens 15 Jahre.
+<sup>1</sup> Der Sponsor muss sämtliche Daten, die den klinischen Versuch betreffen, bis zum Verfalldatum der letzten ausgelieferten Charge des untersuchten Arzneimittels oder des zuletzt hergestellten In-vitro-Diagnostikums, mindestens aber während zehn Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren.[^45-1]
 
-<sup>2</sup> Die Prüfperson muss sämtliche für die Identifizierung und die Nachbetreuung der teilnehmenden Personen notwendigen Unterlagen sowie alle anderen Originaldaten während mindestens zehn Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren. Bei implantierbaren Medizinprodukten beträgt die Aufbewahrungsfrist mindestens 15 Jahre.
+<sup>2</sup> Die Prüfperson muss sämtliche für die Identifizierung und die Nachbetreuung der teilnehmenden Personen notwendigen Unterlagen sowie alle anderen Originaldaten während mindestens zehn Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren.[^45-2]
 
 <sup>3</sup> Für klinische Versuche mit Transplantatprodukten und für klinische Versuche mit Blut und Blutprodukten richtet sich die Aufbewahrungspflicht nach Artikel 40 Absatz 1 HMG.
+
+[^45-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^45-2]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
 ### 6. Abschnitt: Inspektionen und Verwaltungsmassnahmen
 
@@ -786,7 +820,7 @@ Die Prüfperson meldet der zuständigen Ethikkommission innerhalb von 7 Tagen:
 
 **Inspektionen des Instituts**
 
-<sup>1</sup> Das Institut ist zur Inspektion sämtlicher klinischer Versuche mit Heilmitteln und Transplantatprodukten berechtigt.
+<sup>1</sup> Das Institut ist zur Inspektion sämtlicher klinischer Versuche mit Arzneimitteln, In-vitro-Diagnostika, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten berechtigt.
 
 <sup>2</sup> Führt das Institut Inspektionen durch, so informiert es vorgängig die zuständige Ethikkommission sowie weitere zuständige Behörden des Kantons und des Bundes. Diese können an der Inspektion teilnehmen.
 
@@ -951,7 +985,7 @@ Das BAG kann die erteilte Bewilligung widerrufen, sistieren oder die Weiterführ
 
 **Gegenstand**
 
-Dieses Kapitel ist anwendbar auf klinische Versuche, die weder Versuche mit Heilmitteln oder Transplantatprodukten noch Versuche der Transplantation sind.
+Dieses Kapitel ist anwendbar auf klinische Versuche, die weder Versuche mit Arzneimitteln, In-vitro-Diagnostika, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten noch Versuche der Transplantation sind.
 
 #### Art. 61
 
@@ -1083,7 +1117,7 @@ Folgende Verordnungen werden aufgehoben:
 - 3\. HIV-Studienverordnung vom 30. Juni 1993[^69-3].
 
 [^69-1]: [[AS 1993 1983](https://fedlex.data.admin.ch/eli/oc/1993/1983_1983_1983)]
-[^69-2]: [[AS 2001 3511](https://fedlex.data.admin.ch/eli/oc/2001/521), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 6, [2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)Ziff. II 3, [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)Anhang 7 [4043](https://fedlex.data.admin.ch/eli/oc/2010/586), [2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)Anhang 5 Ziff. 4]
+[^69-2]: [[AS 2001 3511](https://fedlex.data.admin.ch/eli/oc/2001/521); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 6; [2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)Ziff. II 3; [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)Anhang 7 [4043](https://fedlex.data.admin.ch/eli/oc/2010/586); [2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)Anhang 5 Ziff. 4]
 [^69-3]: [[AS 1993 2294](https://fedlex.data.admin.ch/eli/oc/1993/2294_2294_2294)]
 
 #### Art. 70
@@ -1126,13 +1160,13 @@ Der Sponsor eines bewilligten klinischen Versuchs, der nicht innerhalb eines Jah
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1*[^t-2]*
 
 (Art. 3, 5, 19, 39–42)
 
 ## Regeln und Klassifizierungen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 24. März 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)) und Anhang Ziff. 1 der V vom 25. Okt. 2017, in Kraft seit 26. Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+[^t-2]: Bereinigt gemäss Ziff. I der V des EDI vom 24. März 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)) und Anhang Ziff. 1 der V vom 25. Okt. 2017, in Kraft seit 26. Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
 
 ### 1. Regeln über die wissenschaftliche Integrität
 
@@ -1145,7 +1179,7 @@ Anwendbar sind die Grundsätze und Verfahrensregeln über die wissenschaftliche 
 Als Regeln der Guten Klinischen Praxis sind anwendbar:
 
 - 1\. bei klinischen Versuchen mit Arzneimitteln und Transplantatprodukten: die Leitlinie der Guten Klinischen Praxis der Internationalen Harmonisierungskonferenz in der Fassung vom 9. November 2016[^annex1-lvlu1-lvl2-1] (ICH-Leitlinie);
-- 2\. bei klinischen Versuchen mit Medizinprodukten: die Anhänge VIII und X der Richtlinie 93/42/EWG[^annex1-lvlu1-lvl2-2] sowie die Anhänge 6 und 7 der Richtlinie 90/385/EWG[^annex1-lvlu1-lvl2-3] und die Konkretisierung durch die Norm EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]. Die Definition des *Serious Adverse Event* nach Artikel 42 richtet sich nach den *Guidelines on Medical Devices* (MEDDEV 2.7/3) vom Mai 2015[^annex1-lvlu1-lvl2-5];
+- 2\. bei klinischen Versuchen mit In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG: die Anhänge VIII und X der Richtlinie 93/42/EWG[^annex1-lvlu1-lvl2-2] sowie die Anhänge 6 und 7 der Richtlinie 90/385/EWG[^annex1-lvlu1-lvl2-3] und die Konkretisierung durch die Norm EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]. Die Definition des *Serious Adverse Event* nach Artikel 42 richtet sich nach den *Guidelines on Medical Devices* (MEDDEV 2.7/3) vom Mai 2015[^annex1-lvlu1-lvl2-5];
 - 3\. bei klinischen Versuchen nach dem 3. und 4. Kapitel dieser Verordnung sinngemäss die ICH-Leitlinie.
 
 [^annex1-lvlu1-lvl2-1]: Der Text der Leitlinie kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: www.bag.admin.ch &gt; Medizin & Forschung &gt; Forschung am Menschen sowie unter www.ich.org &gt; Work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
@@ -1188,7 +1222,7 @@ Anhang 3
 
 ## Gesuchsunterlagen für das Verfahren bei der zuständigen Ethikkommission für klinische Versuche
 
-### 1 Gesuchsunterlagen für klinische Versuche der Kategorie A mit Heilmitteln und Transplantatprodukten
+### 1 Gesuchsunterlagen für klinische Versuche der Kategorie A mit Arzneimitteln, In-vitro-Diagnostika, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten
 
 - 1\.1 Basisformular, einschliesslich der Zusammenfassung des Prüfplans in der Landessprache des Durchführungsorts sowie der Begründung der beantragten Kategorisierung;
 - 1\.2 Prüfplan;
@@ -1197,8 +1231,8 @@ Anhang 3
 - 1\.5 weitere Unterlagen, die der teilnehmenden Person abgegeben werden;
 - 1\.6 Angaben über Art und Ausmass der Entschädigung der teilnehmenden Personen;
 - 1\.7 bei klinischen Versuchen mit Arzneimitteln: die Fachinformation;
-- 1\.8 bei klinischen Versuchen mit Medizinprodukten: die Konformitätskennzeichnung einschliesslich deren Zweckbestimmung und Gebrauchsanweisung;
-- 1\.9 bei klinischen Versuchen, in denen nicht Originalpräparate angewendet werden: Nachweis über die Einhaltung der Guten Herstellungspraxis und der korrekten Kennzeichnung der Heilmittel;
+- 1\.8 bei klinischen Versuchen mit In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG: die Konformitätskennzeichnung einschliesslich deren Zweckbestimmung und Gebrauchsanweisung;
+- 1\.9 bei klinischen Versuchen, in denen nicht Originalpräparate angewendet werden: Nachweis über die Einhaltung der Guten Herstellungspraxis und der korrekten Kennzeichnung der Arzneimittel, In-vitro-Diagnostika oder Produkte nach Art. 2*a* Absatz 2 HMG;
 - 1\.10 Lebenslauf der Prüfperson einschliesslich des Nachweises über deren Kenntnisse und Erfahrungen sowie eine Auflistung der weiteren am klinischen Versuch beteiligten Personen, einschliesslich ihrer Funktionen und der entsprechenden fachlichen Kenntnisse;
 - 1\.11 Angaben über die Geeignetheit und Verfügbarkeit der Infrastrukturen am Durchführungsort;
 - 1\.12 Angaben über den sicheren Umgang mit Personendaten;
@@ -1206,7 +1240,7 @@ Anhang 3
 - 1\.14 Versicherungsnachweis oder anderer Nachweis der Sicherstellung für allfällige Schäden einschliesslich der diesbezüglichen Vereinbarungen zwischen Sponsor beziehungsweise von ihm beauftragter Dritter und der Prüfperson;
 - 1\.15 allfällige Entscheide oder Stellungnahmen von Ethikkommissionen im Ausland zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung.
 
-### 2 Gesuchsunterlagen für klinische Versuche der Kategorien B und C mit Heilmitteln und Transplantatprodukten
+### 2 Gesuchsunterlagen für klinische Versuche der Kategorien B und C mit Arzneimitteln, In-vitro-Diagnostika, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten
 
 - 2\.1 Basisformular, einschliesslich der Zusammenfassung des Prüfplans in der Landessprache des Durchführungsorts sowie der Begründung der beantragten Kategorisierung;
 - 2\.2 Prüfplan;
@@ -1216,8 +1250,8 @@ Anhang 3
 - 2\.6 Angaben über Art und Ausmass der Entschädigung der teilnehmenden Personen;
 - 2\.7[^annex3-lvlu1-lvl2-1] bei klinischen Versuchen mit Arzneimitteln der Kategorie B: die Fachinformation sowie die die Abweichungen der Verabreichung betreffende Prüferinformation (*Investigator’s Brochure, IB*);
 - 2\.8 bei klinischen Versuchen mit Arzneimitteln der Kategorie C: die Prüferinformation (*Investigator’s Brochure, IB*);
-- 2\.9 bei klinischen Versuchen mit Medizinprodukten der Kategorie C ohne Konformitätsbewertung: die Unterlagen nach Anhang 4 Ziffer 3.4 Buchstabe a;
-- 2\.10 bei klinischen Versuchen mit Medizinprodukten der Kategorie C mit Konformitätskennzeichnung, die ausserhalb der Zweckbestimmung beziehungsweise der Gebrauchsanweisung verwendet werden: die Unterlagen nach Anhang 4 Ziffer 3.5 Buchstaben a–d;
+- 2\.9 bei klinischen Versuchen mit der Kategorie C ohne Konformitätsbewertung: die Unterlagen nach Anhang 4 Ziffer 3.4 Buchstabe a;
+- 2\.10 bei klinischen Versuchen mit In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG der Kategorie C mit Konformitätskennzeichnung, die ausserhalb der Zweckbestimmung beziehungsweise der Gebrauchsanweisung verwendet werden: die Unterlagen nach Anhang 4 Ziffer 3.5 Buchstaben a–d;
 - 2\.11 Lebenslauf der Prüfperson einschliesslich des Nachweises ihrer Kenntnisse und Erfahrungen sowie eine Auflistung der weiteren am klinischen Versuch beteiligten Personen, einschliesslich ihrer Funktionen und der entsprechenden fachlichen Kenntnisse;
 - 2\.12 Angaben über die Geeignetheit und Verfügbarkeit der Infrastrukturen am Durchführungsort;
 - 2\.13 Angaben über den sicheren Umgang mit Personendaten;
@@ -1228,7 +1262,7 @@ Anhang 3
 
 [^annex3-lvlu1-lvl2-1]: Berichtigung vom 27. Dez. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
 
-### 3 Gesuchsunterlagen für klinische Versuche der Transplantation sowie für klinische Versuche ohne Heilmittel
+### 3 Gesuchsunterlagen für klinische Versuche der Transplantation sowie für klinische Versuche ohne Arzneimittel, In-vitro-Diagnostika oder Produkte nach Art. 2*a* Absatz 2 HMG
 
 - 3\.1 Basisformular, einschliesslich der Zusammenfassung des Prüfplans in der Landessprache des Durchführungsorts sowie der Begründung der beantragten Kategorisierung;
 - 3\.2 Prüfplan;
@@ -1263,7 +1297,7 @@ Anhang 3
 - 4\.6 Vereinbarungen zwischen Sponsor beziehungsweise von ihm beauftragten Dritten und der koordinierenden Prüfperson sowie weiteren Prüfpersonen an den übrigen Durchführungsorten, namentlich bezüglich der Vergütung der Prüfperson am jeweiligen Durchführungsort;
 - 4\.7 Versicherungsnachweis oder anderer Nachweis der Sicherstellung für allfällige Schäden am jeweiligen Durchführungsort einschliesslich der diesbezüglichen Vereinbarungen zwischen Sponsor beziehungsweise von ihm beauftragter Dritter und der Prüfperson.
 
-### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche der Kategorie A mit Heilmitteln, die ionisierende Strahlen aussenden können, sowie für Untersuchungen mit Strahlungsquellen
+### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche der Kategorie A mit Arzneimitteln, In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können, sowie für Untersuchungen mit Strahlungsquellen
 
 - 5\.1 Angaben zu wesentlichen Strahlenschutzaspekten, insbesondere eine Berechnung beziehungsweise Abschätzung der effektiven Strahlendosis, der Organdosen und allfälliger Tumordosen;
 - 5\.2 die erforderlichen Bewilligungen gemäss Artikel 28 des Strahlenschutzgesetzes vom 22. März 1991[^annex3-lvlu1-lvl5-1].
@@ -1284,7 +1318,7 @@ Anhang 4
 
 (Art. 31, 34–36, 54, 55)
 
-## Gesuchsunterlagen für das Verfahren beim Schweizerischen Heilmittelinstitut beziehungsweise beim BAG für klinische Versuche mit Heilmitteln und Transplantatprodukten, für klinische Versuche der Gentherapie und mit gentechnisch veränderten oder mit pathogenen Organismen sowie für klinische Versuche der Transplantation
+## Gesuchsunterlagen für das Verfahren beim Schweizerischen Heilmittelinstitut beziehungsweise beim BAG für klinische Versuche mit Arzneimitteln, In-vitro-Diagnostika, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten, für klinische Versuche der Gentherapie und mit gentechnisch veränderten oder mit pathogenen Organismen sowie für klinische Versuche der Transplantation
 
 ### 1 Gesuchsunterlagen für klinische Versuche der Kategorie B mit Arzneimitteln und Transplantatprodukten
 
@@ -1310,17 +1344,17 @@ Anhang 4
 - 2\.8 allfällige Entscheide von Arzneimittelaufsichtsbehörden anderer Länder zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung;
 - 2\.9 Information über allfällige Gesuche, die bei einer Ethikkommission in der Schweiz hängig sind, und über allfällige Entscheide von Ethikkommissionen in der Schweiz.
 
-### 3 Gesuchsunterlagen für klinische Versuche der Kategorie C mit Medizinprodukten
+### 3 Gesuchsunterlagen für klinische Versuche der Kategorie C mit In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG
 
 - 3\.1. Basisformular;
 - 3\.2 Prüfplan;
 - 3\.3 Datenerhebungsbogen *(Case Report Form, CRF)*;
 - 3\.4
 
-  bei klinischen Versuchen mit einem Medizinprodukt ohne Konformitätskennzeichnung: dessen Dokumentation, enthaltend:
+  bei klinischen Versuchen mit einem In-vitro-Diagnostikum oder Produkt nach Art. 2*a* Absatz 2 HMG ohne Konformitätskennzeichnung: dessen Dokumentation, enthaltend:
 
   - a. Prüferinformation (*Investigator’s Brochure, IB*) mit Zusammenstellung der aktuellen klinischen und nichtklinischen Informationen über das Prüfprodukt und seine Bestandteile,
-  - b. Liste der anwendbaren Normen für Medizinprodukte und Beschreibung sämtlicher Abweichungen,
+  - b. Liste der anwendbaren Normen für In-vitro-Diagnostika oder Produkte nach Art. 2*a* Absatz 2 HMG und Beschreibung sämtlicher Abweichungen,
   - c. Dokumentation und Begründung allfälliger Abweichungen von der Norm ISO 14155,
   - d. Versicherung beziehungsweise Freigabe des Herstellers gemäss Anhang VIII der Richtlinie 93/42/EWG[^annex4-lvlu1-lvl3-1] oder Anhang 6 der Richtlinie 90/385/EWG[^annex4-lvlu1-lvl3-2],
   - e. Bestätigung der Bereithaltung der Unterlagen gemäss Anhang VIII der Richtlinie 93/42/EWG oder Anhang 6 der Richtlinie 90/385/EWG,
@@ -1328,13 +1362,13 @@ Anhang 4
 
 - 3\.5
 
-  bei klinischen Versuchen eines Medizinprodukts mit Konformitätskennzeichnung, das abweichend von der vorgesehenen Zweckbestimmung oder Gebrauchsanweisung angewendet wird: dessen Dokumentation, enthaltend:
+  bei klinischen Versuchen eines In-vitra-Diagnostikums oder Produkts nach Art. 2*a* Absatz 2 HMG mit Konformitätskennzeichnung, das abweichend von der vorgesehenen Zweckbestimmung oder Gebrauchsanweisung angewendet wird: dessen Dokumentation, enthaltend:
 
-  - a. Angaben zur Konformität des Medizinprodukts,
-  - b. Produktinformation zum Medizinprodukt,
+  - a. Angaben zur Konformität des In-vitra-Diagnostikums oder Produkts nach Art. 2*a* Absatz 2 HMG,
+  - b. Produktinformation zum In-vitra-Diagnostikum oder Produkt nach Art. 2*a* Absatz 2 HMG,
   - c. Risikoanalyse für die neue Anwendung und daraus abgeleitete Sicherheitsmassnahmen,
   - d. andere Elemente der Prüferinformation (*Investigator’s Brochure, IB*), welche die neue Anwendung betreffen,
-  - e. Liste der anwendbaren Normen für Medizinprodukte, Beschreibung der Abweichungen davon aufgrund der neuen Anwendung,
+  - e. Liste der anwendbaren Normen für In-vitro-Diagnostika oder Produkte nach Art. 2*a* Absatz 2 HMG, Beschreibung der Abweichungen davon aufgrund der neuen Anwendung,
   - f. Dokumentation und Begründung allfälliger Abweichungen von der Norm ISO 14155;
 
 - 3\.6 Aufklärungsbogen und Einwilligungserklärung;
@@ -1350,13 +1384,13 @@ Anhang 4
 - 4\.2 Risikobewertung der Durchführung des klinischen Versuchs bezüglich des Schutzes von Mensch und Umwelt;
 - 4\.3 eine Beschreibung der für den Schutz von Mensch, Tier und Umwelt notwendigen Sicherheitsmassnahmen, namentlich der Massnahmen zur Verhinderung einer Freisetzung von Mikroorganismen in die Umwelt während und nach der Transplantation, beim Transport, bei der Lagerung und der Entsorgung.
 
-### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche mit Heilmitteln, die ionisierende Strahlen aussenden können
+### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche mit Arzneimitteln, In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können
 
 - 5\.1 Angaben zu wesentlichen Strahlenschutzaspekten, insbesondere eine Berechnung beziehungsweise Abschätzung der effektiven Strahlendosis, der Organdosen und allfälliger Tumordosen;
 - 5\.2 die erforderlichen Bewilligungen gemäss Artikel 28 des Strahlenschutzgesetzes vom 22. März 1991[^annex4-lvlu1-lvl5-1];
 - 5\.3
 
-  bei Heilmitteln, die radioaktive Quellen[^annex4-lvlu1-lvl5-2] enthalten:
+  bei Arzneimitteln, In-vitro-Diagnostika oder Produkten nach Art. 2*a* Absatz 2 HMG, die radioaktive Quellen[^annex4-lvlu1-lvl5-2] enthalten:
 
   - a. Angaben zu den Eigenschaften des Radiopharmazeutikums, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit,
   - b. bei zugelassenen Radiopharmazeutika: die Fachinformation,
@@ -1411,6 +1445,6 @@ Anhang 6
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annex6-lvlu1-1]
+...[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: Die Änd. können unter [AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)konsultiert werden.
