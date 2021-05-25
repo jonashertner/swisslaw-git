@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verpflichtungskredit «Finanzierung einer sicheren Stromversorgung von Sendeanlagen des Bundes»
 document: Vorlage
 language: de

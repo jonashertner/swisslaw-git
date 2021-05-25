@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Crédit d'engagement «Financement d'un approvisionnement en électricité sûr des émetteurs de la Confédération»"
 document: Projet
 language: fr

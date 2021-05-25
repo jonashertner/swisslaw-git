@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Credito d'impegno «finanziamento di un'alimentazione elettrica sicura degli impianti di trasmissione della Confederazione»"
 document: Avamprogetto
 language: it
