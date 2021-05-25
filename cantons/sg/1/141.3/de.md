@@ -4,13 +4,13 @@ number: "141.3"
 title: Geschäftsreglement der Regierung und der Staatskanzlei
 short: GeschR
 language: de
-version: 2021-02-01
-valid_until: 2021-07-31
-version_adopted: 2021-01-26
+version: 2021-01-01
+corrected: 2021-05-26
+version_adopted: 2021-04-27
 adopted: 1951-12-07
 in_force: 1952-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3162/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3053/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3162/pdf_file"
 
 (GeschR)
 
-vom 07.12.1951 (Stand 01.02.2021)
+vom 07.12.1951 (Stand 01.01.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -230,7 +230,6 @@ verordnen:[^ingress-1]
 - k) Aufsicht über die Kantonalbank;
 - l) …
 - m) …
-- n) öffentliches Beschaffungswesen.
 
 #### Art. 25
 
@@ -253,8 +252,8 @@ verordnen:[^ingress-1]
 - i) Badanstalten in Bad Ragaz und Pfäfers;
 - k) Bergbau;
 - l) Arbeitsbeschaffung;
-- m) Enteignungen zugunsten des Kantons;
-- n) Energieversorgung und -nutzung;
+- m) Enteignungen zugunsten des Kantons, öffentliches Beschaffungswesen;
+- n) Energieversorung und -nutzung;
 - o) Bau und Unterhalt von Flugplätzen;
 - p) Abschluss und Vollzug der Grundbuchgeschäfte für die Regierung und die Departemente im Bereich des Finanz- und Verwaltungsvermögens.
 
@@ -284,7 +283,7 @@ verordnen:[^ingress-1]
 - h<sup>ter</sup>) unentgeltliche Rechtspflege vor Verwaltungsbehörden;
 - i) Justizvollzug (Straf- und Massnahmenvollzug, Vollzugseinrichtungen und Gefängnisse, Bewährungshilfe);
 - k) …
-- l) kantonale Gebäudeversicherung und Feuerschutz.
+- l) kantonale Gebäudeversicherung, Feuerschutz und Feuerwehrwesen.
 
 #### Art. 26bis
 
