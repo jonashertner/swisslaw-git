@@ -4,11 +4,11 @@ number: "413.112"
 title: Mittel- und Berufsschullehrpersonenvollzugsverordnung (MBVVO)
 short: MBVVO
 language: de
-version: "2018-08-01"
-nachtrag: "101"
-valid_until: 2021-05-26
+version: "2021-01-01"
+nachtrag: "113"
+valid_until: 2022-10-01
 adopted: 1999-05-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-101.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_112-1999_05_26-1999_08_23-113.html"
 text: pdf
 ---
 
@@ -85,7 +85,7 @@ Der Altersrücktritt erfolgt auf Ende eines Semesters.
 
 **1**
 
-- 1\. 7. 18 - 101
+- 1\. 7. 21 - 113
 
 ### III. Lohn
 
@@ -170,7 +170,7 @@ Normal- Kurzlektion lektion a.[^14-1] an Mittelschulen:
 
 **3**
 
-- 1\. 7. 18 - 101 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
+- 1\. 7. 21 - 113 § 16. <sup>1</sup> Das Schuljahr umfasst 39 Wochen Unterricht. Die Lehrpersonen sind verpflichtet, ihre Ferien in der unterrichtsfreien Zeit zu beziehen. Die §§ 79–83 der VVO[^14-2],[^14-3] sind nicht anwendbar.
 
 **Unterricht und Ferien**
 
@@ -242,11 +242,17 @@ Für Stellvertretung kann jede unbefristet angestellte Lehrperson in Anspruch ge
 
 Die gemäss §§ 85–90 der VVO[^21-1],[^21-3] vorgesehenen Urlaube können nicht kompensiert werden, falls sie nicht in die Unterrichtszeit fallen.
 
+**Vaterschaftsurlaub**
+
+§ 22 a.[^22-1] Lehrpersonen müssen den bezahlten Vaterschaftsurlaub gemäss § 96 a VVO[^22-2] wochenweise beziehen.
+
 **Tätigkeit an andern Schulen und Institutionen**
 
-§ 23.[^22-1] Das Mittelschul- und Berufsbildungsamt kann für Tätigkeiten von Lehrpersonen an anderen öffentlichen Schulen sowie kantonalen oder eidgenössischen Institutionen und Konferenzen Entlastungen bewilligen.
+§ 23.[^22-3] Das Mittelschul- und Berufsbildungsamt kann für Tätigkeiten von Lehrpersonen an anderen öffentlichen Schulen sowie kantonalen oder eidgenössischen Institutionen und Konferenzen Entlastungen bewilligen.
 
-[^22-1]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
+[^22-1]: Eingefügt durch RRB vom 31. März 2021 (OS 76, 168; ABl 2021-04-09). In Kraft seit 1. Januar 2021. 1. 7. 21 - 113 7
+[^22-2]: LS 177.111.
+[^22-3]: Fassung gemäss RRB vom 9. Mai 2012 (OS 67, 225; ABl 2012, 1053). In Kraft seit 1. August 2012.
 
 #### § 24
 
@@ -277,7 +283,7 @@ Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausla
 
 **5**
 
-- 1\. 7. 18 - 101
+- 1\. 7. 21 - 113
 
 ### VI. Schulleitungen
 
@@ -313,7 +319,7 @@ Die Schulleitungen bewilligen die dienstlichen Reisen von Lehrpersonen ins Ausla
 
 <sup>2</sup> Die Schulkommission bewilligt für besondere Aufgaben in begründeten Fällen Entlastungen nach Bedarf. Verursacht die Entlastung Mehrkosten, entscheidet das Mittelschul- und Berufsbildungsamt.
 
-[^hVISchulleitungen-1]: Fassung gemäss RRB vom 17. Januar 2018 (OS 73, 126; ABl 2018-01-26). In Kraft seit 1. August 2018. 1. 7. 18 - 101 7
+[^hVISchulleitungen-1]: Fassung gemäss RRB vom 17. Januar 2018 (OS 73, 126; ABl 2018-01-26). In Kraft seit 1. August 2018.
 
 ### VII. Übergangs- und Schlussbestimmungen
 
