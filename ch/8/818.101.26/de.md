@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-05-13
+version: 2021-05-27
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210513/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210513-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210513/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210527/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210527-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210527/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210513/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 13. Mai 2021)
+vom 19. Juni 2020 (Stand am 27. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -245,11 +245,12 @@ Für das Schutzkonzept gelten folgende Vorgaben:
 - c. Es muss Massnahmen vorsehen, die den Zugang zur Einrichtung, zum Betrieb oder zur Veranstaltung so weit beschränken, dass der erforderliche Abstand eingehalten wird. Dies gilt nicht für den Zugang zu Fahrzeugen des öffentlichen Verkehrs.
 - d. Sind Personen anwesend, die nach Artikel 3*b* Absatz 2 oder nach Artikel 6*e* oder 6*f* von der Pflicht zum Tragen einer Gesichtsmaske ausgenommen sind, so muss entweder der erforderliche Abstand eingehalten oder es müssen andere wirksame Schutzmassnahmen wie das Anbringen geeigneter Abschrankungen ergriffen werden. Ist dies aufgrund der Art der Aktivität oder wegen örtlicher Gegebenheiten nicht möglich, so muss die Erhebung von Kontaktdaten der anwesenden Personen nach Artikel 5 vorgesehen werden.[^4-1]
 
-<sup>3</sup> Die Vorgaben nach Absatz 2 werden im Anhang 1 näher ausgeführt. Das Eidgenössische Departement des Innern (EDI) führt diesen im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) entsprechend dem aktuellen Stand der Wissenschaften nach.
+<sup>3</sup> Die Vorgaben nach Absatz 2 werden in Anhang 1 näher ausgeführt.[^4-2]
 
 <sup>4</sup> Im Schutzkonzept muss eine für die Umsetzung des Konzepts und für den Kontakt mit den zuständigen Behörden verantwortliche Person bezeichnet werden.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 5
 
@@ -366,35 +367,176 @@ Die Durchführung von Veranstaltungen mit mehr als 15 Teilnehmerinnen und Teilne
 - f. Veranstaltungen im Bildungsbereich, die nach Artikel 6*d* erlaubt sind;
 - g.[^6-3] Veranstaltungen in den Bereichen Sport und Kultur nach den Artikeln 6*e* Absatz 1 und 6*f* Absätze 2 und 3;
 - h.[^6-4] Veranstaltungen im Rahmen von zulässigen Aktivitäten nach Artikel 6*g*;
-- i.[^6-5] Veranstaltungen vor Publikum nach Absatz 1<sup>bis</sup>.
+- i.[^6-5] Veranstaltungen vor Publikum nach Absatz 1<sup>bis</sup>;
+- j.[^6-6] Grossveranstaltungen nach Artikel 6*a* sowie Pilotprojekte für Grossveranstaltungen nach Artikel 6*b*<sup>quater</sup>.
 
 <sup>1bis</sup>
 
-Für Veranstaltungen vor Publikum gilt Folgendes:
+Für Veranstaltungen vor Publikum, ausser Grossveranstaltungen nach Artikel 6*a* und Pilotprojekten zur Durchführung von Grossveranstaltungen nach Artikel 6*b*<sup>quater</sup>*,* gilt Folgendes:[^6-7]
 
 - a. Bei Veranstaltungen in Innenräumen sind höchstens 50 Personen als Publikum (Besucherinnen und Besucher) erlaubt, bei Veranstaltungen in Aussenbereichen höchstens 100.
 - b. Die für die Besucherinnen und Besucher verfügbaren Sitzplätze dürfen zu höchstens einem Drittel besetzt werden.
 - c. Für die Besucherinnen und Besucher gilt während der gesamten Veranstaltung, einschliesslich der Pausen, eine Sitzpflicht, es sei denn, es sprechen triftige Gründe für eine Unterbrechung des Sitzens; die Sitzplätze müssen den einzelnen Besucherinnen und Besuchern zugeordnet sein.
 - d. Der Betrieb von Restaurationsbetrieben einschliesslich Takeawaybetrieben ist verboten.
-- e. Die Konsumation von Speisen und Getränken ist verboten.[^6-6]
+- e. Die Konsumation von Speisen und Getränken ist verboten.[^6-8]
 
-<sup>2</sup> An Veranstaltungen im Familien- und Freundeskreis (private Veranstaltungen), die nicht in öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, dürfen in Innenräumen höchstens 10 Personen und in Aussenräumen höchstens 15 Personen teilnehmen. Es gilt einzig Artikel 3; die Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts gilt nicht.[^6-7]
+<sup>2</sup> An Veranstaltungen im Familien- und Freundeskreis (private Veranstaltungen), die nicht in öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, dürfen in Innenräumen höchstens 10 Personen und in Aussenräumen höchstens 15 Personen teilnehmen. Es gilt einzig Artikel 3; die Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts gilt nicht.[^6-9]
 
-<sup>3</sup> Die Durchführung von Messen in Innenräumen ist verboten.
+<sup>3</sup> Die Durchführung von Messen in Innenräumen ist verboten. Ausgenommen sind Fach- und Publikumsmessen nach Artikel 6*b*<sup>quinquies</sup>.[^6-10]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), in Kraft seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-3]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-4]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-5]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-6]: Eingefügt durch Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-7]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-6]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6-7]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6-8]: Eingefügt durch Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-9]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-10]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
-#### Art. 6a und 6b
+#### Art. 6a
 
-[^6a6b-1]
+**Besondere Bestimmungen für Grossveranstaltungen: Bewilligung**[^6a-1]
 
-[^6a6b-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Aufgehoben durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), mit Wirkung seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+<sup>1</sup> Veranstaltungen mit mehr als 1000 Personen, seien es Besucherinnen und Besucher oder Teilnehmende (Grossveranstaltungen), sind ab dem 1. Juli 2021 zulässig, wenn die zuständige kantonale Behörde dem Organisator für die Durchführung eine Bewilligung erteilt.
+
+<sup>2</sup>
+
+Die Bewilligung wird erteilt, wenn:
+
+- a. davon auszugehen ist, dass die epidemiologische Lage im Kanton oder in der betroffenen Region die Durchführung erlauben wird;
+- b.
+
+  davon auszugehen ist, dass der Kanton zur Zeit der Durchführung der Veranstaltung über die notwendigen Kapazitäten in den folgenden Bereichen verfügen wird:
+
+  - 1\.[^6a-2] Kapazitäten für die erforderliche Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen nach Artikel 33 EpG,
+  - 2\. Kapazitäten in der Gesundheitsversorgung, um sowohl Covid-19-Patientinnen und -Patienten als auch andere Patientinnen und Patienten uneingeschränkt versorgen zu können; dies schliesst namentlich ein, dass auch medizinisch nicht dringende Eingriffe durchgeführt werden können;
+
+- c. der Organisator ein Schutzkonzept nach Artikel 4 vorlegt, das, basierend auf einer Analyse der Risiken der entsprechenden Grossveranstaltung, die Schutzmassnahmen nach den Artikeln 6*b* und 6*b*<sup>bis</sup> beziehungsweise 6*b*<sup>ter</sup> vorsieht.
+
+<sup>3</sup> Findet eine Grossveranstaltung in zwei oder mehr Kantonen statt, so ist von jedem Kanton eine Bewilligung erforderlich. Die Kantone koordinieren die Verfahren untereinander.
+
+<sup>4</sup> Wer in derselben Einrichtung wiederholt gleichartige Veranstaltungen durchführen will, kann dies in einem einzigen Gesuch beantragen.
+
+<sup>5</sup>
+
+Der Kanton widerruft eine Bewilligung oder erlässt zusätzliche Einschränkungen, wenn:
+
+- a. sich die epidemiologische Lage so verschlechtert, dass die Durchführung der Veranstaltung nicht mehr möglich ist, namentlich weil die notwendigen Kapazitäten nach Absatz 2 Buchstabe b nicht mehr sichergestellt werden können; oder
+- b. ein Organisator die im Schutzkonzept vorgesehenen Massnahmen an einer bereits durchgeführten Veranstaltung nicht eingehalten hat und nicht gewährleisten kann, dass die Massnahmen zukünftig eingehalten werden.
+
+[^6a-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6a-2]: In Kraft bis zum 19. Aug. 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b
+
+**Besondere Bestimmungen für Grossveranstaltungen: Allgemeine Schutzmassnahmen**[^6b-1]
+
+<sup>1</sup>
+
+Der Zugang zu einer Grossveranstaltung ist ab dem 16. Altersjahr auf folgende Personen beschränkt:
+
+- a. Personen, die nachweisen, dass sie mit einem Impfstoff gemäss Anhang 2 gegen Covid-19 geimpft wurden; die Zeit, die seit der Impfung vergangen sein darf, wird in Anhang 2 festgelegt;
+- b. Personen, die nachweisen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Zeit, die seit der Genesung vergangen sein darf, wird in Anhang 2 festgelegt;
+- c.
+
+  Personen, die ein negatives Resultat eines der folgenden Covid-19-Tests vorweisen können:
+
+  - 1\. molekularbiologische Analyse auf Sars-CoV-2, die nicht mehr als 72 Stunden vor Beginn der Veranstaltung durchgeführt wurde,
+  - 2\. Sars-CoV-2-Schnelltest gemäss diagnostischem Standard, der nicht mehr als 24 Stunden vor Beginn der Veranstaltung durchgeführt wurde.
+
+<sup>2</sup> Die Kantone können bei Freiluftveranstaltungen, die auf längeren Wegstrecken oder auf Strecken im freien Gelände stattfinden, örtlich begrenzte Ausnahmen von den Vorgaben nach Absatz 1 erlauben, wenn aufgrund örtlicher Gegebenheiten keine Zugangskontrolle möglich ist.
+
+<sup>3</sup> Der Betrieb von Restaurationsbetrieben richtet sich nach Artikel 5*a*.
+
+<sup>4</sup> Die Pflicht zum Tragen einer Gesichtsmaske richtet sich nach Artikel 3*b*. Zusätzlich zu den Ausnahmen nach Artikel 3*b* Absatz 2 sind bei Veranstaltungen im Freien auch Besucherinnen und Besucher an ihrem Sitzplatz von der Pflicht ausgenommen.
+
+<sup>5</sup> Die zuständige Bewilligungsbehörde kann bei Aktivitäten in den Bereichen Sport nach Artikeln 6*e* Absatz 1 Buchstabe b und Kultur nach Artikel 6*f* Absätze 2 Buchstabe c und 3 Ausnahmen von den Einschränkungen vorsehen, wenn das Schutzkonzept spezifische Schutzmassnahmen enthält.
+
+<sup>6</sup> Die Schutzmassnahmen werden in Anhang 3 näher ausgeführt.
+
+[^6b-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>bis</sup>
+
+**Besondere Bestimmungen für Grossveranstaltungen: Zusätzliche Vorgaben für Veranstaltungen zwischen dem 1. Juli und dem 19. August 2021**[^6bbis-1]
+
+<sup>1</sup>
+
+Für Grossveranstaltungen, die zwischen dem 1. Juli und dem 19. August 2021 durchgeführt werden, gilt zusätzlich zu den Vorgaben nach Artikel 6*b* Folgendes:
+
+- a. Die maximale Anzahl Personen, seien es Besucherinnen und Besucher oder Teilnehmende, beträgt 3000.
+- b. Bei Publikumsveranstaltungen im Freien beträgt die maximale Anzahl 5000 Personen, wenn dem Publikum ausschliesslich Sitzplätze zur Verfügung stehen.
+- c. Die zuständige Bewilligungsbehörde kann bei Veranstaltungen, die auf längeren Wegstrecken oder auf Strecken im freien Gelände stattfinden, Ausnahmen von der maximalen Personenzahl nach den Buchstaben a und b erlauben, wenn aufgrund örtlicher Gegebenheiten keine Absperrung möglich ist.
+- d. Für den Zuschauerbereich gilt eine Sitzpflicht; Ausnahmen sind möglich bei Zuschauerbereichen entlang von Wegstrecken oder im freien Gelände sowie bei Veranstaltungen im Freien, die üblicherweise ohne Sitzplätze durchgeführt werden.
+- e. Die zuständige Bewilligungsbehörde legt unter Berücksichtigung der örtlichen Gegebenheiten und des vorliegenden Schutzkonzepts fest, in welchem Umfang die in der Einrichtung verfügbaren Plätze höchstens besetzt werden dürfen. Dieser Wert darf bei Sitzplätzen zwei Drittel und bei Stehplätzen die Hälfte der Kapazität für Besucherinnen und Besucher nicht überschreiten.
+- f. Die Konsumation von Speisen und Getränken ausserhalb von Restaurationsbetrieben ist nur am Sitzplatz zulässig.
+
+<sup>2</sup> Es gelten überdies die zusätzlichen Vorgaben nach Anhang 3 Ziffer 2.
+
+[^6bbis-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft vom 27. Mai 2021 bis zum 19. Aug. 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>ter</sup>
+
+**Besondere Bestimmungen für Grossveranstaltungen: Zusätzliche Vorgaben für Veranstaltungen ab dem 20. August 2021**[^6bter-1]
+
+Für Grossveranstaltungen, die ab dem 20. August 2021 durchgeführt werden, gilt zusätzlich zu den Vorgaben nach Artikel 6*b* Folgendes:
+
+- a. Die maximale Anzahl Personen, seien es Besucherinnen und Besucher oder Teilnehmende, beträgt 10 000.
+- b. Die zuständige Bewilligungsbehörde kann bei Veranstaltungen, die auf längeren Wegstrecken oder auf Strecken im freien Gelände stattfinden, Ausnahmen von der maximalen Personenzahl nach Buchstabe a erlauben, wenn aufgrund örtlicher Gegebenheiten keine Absperrung möglich ist.
+- c. Bei Publikumsveranstaltungen im Freien, bei denen dem Publikum ausschliesslich Sitzplätze zur Verfügung stehen, gilt keine Begrenzung der Personenanzahl.
+
+[^6bter-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>quater</sup>
+
+**Pilotprojekte zur Durchführung von Grossveranstaltungen**[^6bquater-1]
+
+<sup>1</sup> Um Modelle für eine sichere und praxistaugliche Durchführung von Grossveranstaltungen zu erproben, kann die zuständige kantonale Behörde die Durchführung entsprechender Pilotprojekte bewilligen, die vom 1. Juni 2021 bis zum 30. Juni 2021 durchgeführt werden.
+
+<sup>2</sup> Jeder Kanton darf höchstens fünf Pilotprojekte bewilligen und berücksichtigt dabei die verschiedenen Veranstaltungstypen.
+
+<sup>3</sup> Pilotprojekte müssen mit mindestens 300 und dürfen in Innenräumen mit höchstens 600, im Freien mit höchstens 1000 Personen, seien es Besucherinnen und Besucher oder Teilnehmende, durchgeführt werden. Im Übrigen gelten die Schutzmassnahmen und Vorgaben nach den Artikeln 6*b* und 6*b*<sup>bis</sup>.
+
+<sup>4</sup>
+
+Die Bewilligung kann nur erteilt werden, wenn:
+
+- a. die Voraussetzungen nach Artikel 6*a* Absatz 2 Buchstaben a und b erfüllt sind;
+- b. der Organisator ein Schutzkonzept nach Artikel 4 und Anhang 3 Ziffern 1 und 2 vorlegt, das auf einer Analyse der Risiken der entsprechenden Veranstaltung beruht und Erkenntnisse über die praktische Durchführung von gleichartigen Grossveranstaltungen erwarten lässt;
+- c. der Organisator eine Evaluation der Durchführung der Veranstaltung vorsieht.
+
+<sup>5</sup>
+
+Die Evaluation muss zur Erreichung des Ziels nach Absatz 1 insbesondere über folgende Punkte Auskunft geben:
+
+- a. Erfahrungen betreffend die Zugangskontrolle, insbesondere betreffend deren Organisation, Testangebote vor Ort und deren Nutzung, die Anzahl Personen, denen der Zugang verwehrt werden musste, und die Gründe hierfür, sowie Verbesserungsmöglichkeiten;
+- b. Erfahrungen mit der Umsetzung des Schutzkonzepts, insbesondere betreffend die Lenkung der Personenströme, die Befolgung der Vorgaben durch die Besucherinnen, Besucher und teilnehmenden Personen, die Praxistauglichkeit der Vorgaben, sowie Verbesserungsmöglichkeiten.
+
+<sup>6</sup> Der Organisator legt die Ergebnisse der Evaluation innerhalb von zehn Tagen nach Abschluss der Veranstaltung der zuständigen Bewilligungsbehörde sowie, unter Beilage der kantonalen Bewilligung und des umgesetzten Schutzkonzepts, dem BAG vor.
+
+<sup>7</sup> Für den Widerruf einer Bewilligung oder den Erlass zusätzlicher Einschränkungen gilt Artikel 6*a* Absatz 5.
+
+<sup>8</sup> Der Kanton informiert das BAG über die Erteilung und den Widerruf einer Bewilligung.
+
+[^6bquater-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft vom 27. Mai 2021 bis zum 30. Juni 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>quinquies</sup>
+
+**Besondere Bestimmungen für grosse Fach- und Publikumsmessen**[^6bquinquies-1]
+
+<sup>1</sup> Fach- und Publikumsmessen mit mehr als 1000 Besucherinnen und Besuchern sind ab dem 1. Juli 2021 zulässig, wenn die zuständige kantonale Behörde dem Organisator für ihre Durchführung eine Bewilligung erteilt. Die Bewilligungsvoraussetzungen und die Widerrufsvoraussetzungen nach Artikel 6*a* Absätze 2, 4 und 5 sind anwendbar.
+
+<sup>2</sup>
+
+Für Fach- und Publikumsmessen gilt zudem Folgendes:
+
+- a. Wird der Zugang auf geimpfte und genesene Personen sowie auf Personen mit einem negativen Testresultat nach Artikel 6*b* Absatz 1 eingeschränkt, so ist die Anzahl anwesender Personen so zu begrenzen, dass für jede Person eine Mindestfläche gemäss Anhang 3 Ziffer 3.2 zur Verfügung steht; für die Durchführung der Kontrolle gilt Anhang 3 Ziffer 3.1.
+- b. Steht der Zugang auch Personen offen, welche die Anforderungen nach Artikel 6*b* Absatz 1 nicht erfüllen, so gilt eine Begrenzung der Anzahl anwesender Personen gemäss Anhang 3 Ziffer 3.3.
+- c. Die Pflicht zum Tragen einer Gesichtsmaske richtet sich nach Artikel 3*b*.
+
+[^6bquinquies-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 6c
 
@@ -410,8 +552,11 @@ Folgende Veranstaltungen unterliegen keinen Beschränkungen der Personenzahl:
 
 <sup>2</sup> Für politische und zivilgesellschaftliche Kundgebungen und für Unterschriftensammlungen sind die Artikel 4–6 nicht anwendbar. Die Teilnehmerinnen und Teilnehmer müssen eine Gesichtsmaske tragen; es gelten jedoch die Ausnahmen nach Artikel 3*b* Absatz 2 Buchstaben a und b.
 
+<sup>3</sup> Für Veranstaltungen nach den Absätzen 1 und 2 sind die Artikel 6*a*–6*b*<sup>quater</sup> nicht anwendbar.[^6c-3]
+
 [^6c-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6c-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^6c-3]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 6d
 
@@ -527,7 +672,7 @@ Aktivitäten von Organisationen und Institutionen der offenen Kinder- und Jugend
 
 <sup>1</sup>
 
-Die zuständige kantonale Behörde kann Erleichterungen gegenüber den Vorgaben nach Artikel 4 Absätze 2–4 sowie nach den Artikeln 6–6*f* bewilligen, wenn:[^7-1]
+Die zuständige kantonale Behörde kann Erleichterungen gegenüber den Vorgaben nach Artikel 4 Absätze 2–4 sowie nach den Artikeln 6 und 6*c*–6*f* bewilligen, wenn:[^7-1]
 
 - a. überwiegende öffentliche Interessen dies gebieten;
 - a<sup>bis</sup>.[^7-2] die epidemiologische Lage im Kanton oder in der betreffenden Region dies aufgrund der Indikatoren nach Artikel 8 Absatz 1 Buchstabe a zulässt; und
@@ -537,7 +682,7 @@ Die zuständige kantonale Behörde kann Erleichterungen gegenüber den Vorgaben 
 
 <sup>6</sup> ...[^7-5]
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^7-2]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^7-3]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^7-4]: Eingefügt durch Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben) ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Aufgehoben durch Ziff. I der V vom 6. Jan. 2021 (Aufhebung bestimmter Möglichkeiten kantonaler Erleichterungen), mit Wirkung seit 9. Jan. 2021 ([AS 2021 2](https://fedlex.data.admin.ch/eli/oc/2021/2)).
@@ -658,23 +803,37 @@ Die Kantone sind verpflichtet, dem Koordinierten Sanitätsdienst regelmässig Fo
 
 Mit Busse wird bestraft, wer:
 
-- a.[^13-2] als Betreiber oder Organisator vorsätzlich oder fahrlässig seine Verpflichtungen nach Artikel 4 Absätze 1 und 2 sowie nach den Artikeln 5*a,* 5*d* Absatz 1, 6 Absatz 1<sup>bis</sup> Buchstaben a–d und 6*d*–6*g* nicht einhält;
+- a.[^13-2] als Betreiber oder Organisator vorsätzlich oder fahrlässig seine Verpflichtungen nach Artikel 4 Absätze 1 und 2 sowie nach den Artikeln 5*a*, 5*d* Absatz 1, 6 Absatz 1<sup>bis</sup> Buchstaben b–d, 6*b* Absatz 1, 6*b*<sup>bis</sup> Absatz 1 Buchstabe e, 6*b*<sup>quater</sup> Absätze 3 und 6, 6*b*<sup>quinquies</sup> Absatz 2 Buchstaben a und b und 6*d*–6*g* nicht einhält;
 - b. als Betreiber oder Organisator vorsätzlich oder fahrlässig die nach Artikel 5 erhobenen Kontaktdaten entgegen Artikel 5 Absatz 3 zu anderen Zwecken bearbeitet oder länger als 14 Tage nach der Teilnahme an der Veranstaltung oder dem Besuch der Einrichtung oder des Betriebs aufbewahrt;
 - c.[^13-3] ...
-- d.[^13-4] vorsätzlich eine Veranstaltung mit mehr Personen durchführt, als nach Artikel 6 Absatz 1 oder 1<sup>bis</sup> zulässig sind, oder vorsätzlich an einer solchen Veranstaltung teilnimmt;
+- d.[^13-4] vorsätzlich eine Veranstaltung oder eine Fach- oder Publikumsmesse mit mehr Personen durchführt, als nach Artikel 6 Absatz 1, 1<sup>bis</sup> Buchstabe a oder 2, 6*b*<sup>bis</sup> Absatz 1 Buchstabe a oder b, 6*b*<sup>ter</sup> Buchstabe a, 6*b*<sup>quater</sup> Absatz 3 oder 6*b*<sup>quinquies</sup> Absatz 2 Buchstabe a oder b zulässig sind, oder vorsätzlich an einer Veranstaltung nach Artikel 6 Absatz 1, 1<sup>bis</sup> oder 2 mit mehr Personen, als zulässig sind, teilnimmt;
 - e.[^13-5] vorsätzlich Messen durchführt, deren Durchführung nach Artikel 6 Absatz 3 verboten ist;
-- f.[^13-6] entgegen Artikel 3*a* oder 3*b* Absatz 1 in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 3*a* Absatz 1 oder Artikel 3*b* Absätze 2 und 2<sup>bis</sup> gegeben ist;
+- e<sup>bis</sup>.[^13-6] vorsätzlich eine Grossveranstaltung nach Artikel 6*a* Absatz 1 oder eine Fach- oder Publikumsmesse nach Artikel 6*b*<sup>quinquies</sup> Absatz 1 ohne die dafür erforderliche Bewilligung oder abweichend vom bewilligten Schutzkonzept durchführt;
+- f.[^13-7] entgegen Artikel 3*a* oder 3*b* Absatz 1 in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, Messen und Grossveranstaltungen, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 3*a* Absatz 1, 3*b* Absatz 2 oder 2<sup>bis</sup> oder 6*b* Absatz 4 zweiter Satz gegeben ist;
 - g. vorsätzlich gegen das Verbot von Menschenansammlungen im öffentlichen Raum nach Artikel 3*c* Absatz 1 oder nach einer strengeren Bestimmung des kantonalen Rechts verstösst;
-- h.[^13-7] als Gast eines Restaurations- oder Barbetriebs oder als Besucherin oder Besucher einer Veranstaltung vorsätzlich gegen die Sitzpflicht nach Artikel 5*a* Absatz 3 Buchstabe b beziehungsweise nach Artikel 6 Absatz 1<sup>bis</sup> Buchstabe c verstösst;
+- h.[^13-8] als Gast eines Restaurations- oder Barbetriebs oder als Besucherin oder Besucher einer Veranstaltung vorsätzlich gegen die Sitzpflicht nach Artikel 5*a* Absatz 3 Buchstabe b, 6 Absatz 1<sup>bis</sup> Buchstabe c oder 6*b*<sup>bis</sup> Absatz 1 Buchstabe d verstösst;
 - i. an einer politischen oder zivilgesellschaftlichen Kundgebung oder einer Unterschriftensammlung vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 6*c* Absatz 2 zweiter Satz gegeben ist.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
-[^13-2]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^13-3]: Aufgehoben durch Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), mit Wirkung seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^13-4]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-4]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^13-5]: Fassung gemäss Ziff. I der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), in Kraft seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-6]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Freibäder, Ausnahmeregelungen für genesene Personen, Wintersportorte und Skigebiete, Kontaktdaten), in Kraft seit 13. Mai 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^13-7]: Fassung gemäss Ziff. I der V vom 14. April 2021 (Lockerungen: sozialmedizinische Institutionen, Gastronomiebetriebe, Veranstaltungen, Innenbereiche von Einrichtungen in den Bereichen Kultur, Unterhaltung, Freizeit und Sport), in Kraft seit 19. April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-6]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^13-7]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^13-8]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+## 6*a*. Abschnitt:**** Nachführung der Anhänge
+
+[^sec6a-1]
+
+[^sec6a-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 13a
+
+<sup>1</sup> Das Eidgenössische Departement des Innern führt die Anhänge 1–3 gemäss den aktuellen wissenschaftlichen Erkenntnissen nach.
+
+<sup>2</sup> Es führt Anhang 1 im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung nach, Anhang 2 nach Anhörung der Eidgenössischen Kommission für Impffragen.
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -838,4 +997,111 @@ Anhang 1*[^t-1]*
 
 Anhang 2*[^t-2]*
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Aufgehoben durch Ziff. II Abs. 2 der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), mit Wirkung seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+(Art. 6*b* Abs. 1 Bst. a und b sowie Art. 13*a*)
+
+## Vorgaben für den Zugang genesener und geimpfter Personen zu Grossveranstaltungen
+
+[^t-2]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Fassung gemäss Ziff. II der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+### 1 Geimpfte Personen
+
+- 1\.1
+
+  Als geimpfte Personen, die zum Zugang zu Grossveranstaltungen nach Artikel *6b* Absatz 1 Buchstabe a berechtigt sind, gelten Personen, die mit einem Impfstoff geimpft wurden, der:
+
+  - a. über eine Zulassung in der Schweiz verfügt und gemäss den Empfehlungen des BAG vollständig verimpft wurde;
+  - b. über eine Zulassung der Europäischen Arzneimittelagentur für die Europäische Union verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
+
+- 1\.2 Die Dauer, während der geimpfte Personen Zugang erhalten zu Grossveranstaltungen, beträgt 6 Monate ab vollständig erfolgter Impfung.
+
+### 2 Genesene Personen
+
+Die Dauer, während der genesene Personen nach Artikel 6*b* Absatz 1 Buchstabe b Zugang erhalten zu Grossveranstaltungen, beträgt 6 Monate ab dem 11. Tag nach der Bestätigung der Ansteckung.
+
+Anhang 3*[^t-3]*
+
+(Art. 6*b* Abs. 6, 6*b*<sup>bis</sup> Abs. 2, 6*b*<sup>quater</sup> Abs. 4 Bst. b und 6*b*<sup>quinquies</sup> Abs. 2 Bst. a und b)
+
+## Vorgaben für Grossveranstaltungen und grosse Fach- und Publikumsmessen
+
+[^t-3]: Eingefügt durch Ziff. II der V vom 26. Mai 2021 (Grossveranstaltungen, grosse Fach- und Publikumsmessen sowie Pilotprojekte für Veranstaltungen bis 1000 Personen), in Kraft seit 27. Mai 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+### 1 Generelle Vorgaben für Grossveranstaltungen
+
+- 1\.1 Der Organisator muss die Zutrittsberechtigung nach Artikel 6*b* Absatz 1 anhand eines Covid-19-Zertifikats nach Artikel 6*a* des Covid-19-Gesetzes vom 25. September 2020[^annex3-lvlu1-lvl1-1] kontrollieren.
+- 1\.2
+
+  Wurde noch kein Zertifikat nach Ziffer 1.1 eingeführt, so ist die Zutrittsberechtigung anhand eines hinreichenden Nachweises zu kontrollieren. Dieser muss einer aktuell üblichen Nachweisform entsprechen und hinsichtlich seiner Echtheit überprüft werden. Er muss neben dem Namen, Vornamen und Geburtsdatum der betreffenden Person folgende Angaben enthalten:
+
+  - a.
+
+    beim Nachweis einer Impfung:
+
+    - – Datum der Impfung,
+    - – verwendeter Impfstoff,
+    - – Bezeichnung und Adresse der Impfstelle;
+
+  - b.
+
+    beim Nachweis einer früheren Ansteckung und Genesung:
+
+    - – Bestätigung der Ansteckung einschliesslich Name und Adresse der bestätigenden Stelle (Teststelle, Ärztin oder Arzt, Apotheke, Spital), oder
+    - – Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung;
+
+  - c.
+
+    beim Nachweis eines negativen Testergebnisses:
+
+    - – Datum und Zeit der Probeentnahme
+    - – Art der Testung,
+    - – Testergebnis selber,
+    - – Bezeichnung und Adresse der Teststelle.
+
+- 1\.3 Der Organisator muss beim Zutritt die Identität der Personen anhand eines amtlichen Ausweises oder eines anderen geeigneten amtlichen Dokuments überprüfen.
+- 1\.4
+
+  Er darf im Rahmen der Zugangskontrolle nach den Ziffern 1.1–1.3 nur dann Personendaten bearbeiten, wenn dies zur Umsetzung der Kontrolle erforderlich ist. Dabei gilt Folgendes:
+
+  - a. Der Organisator muss die betroffenen Personen frühzeitig über die Datenbearbeitung informieren.
+  - b. Die Daten dürfen zu keinen anderen Zwecken bearbeitet werden.
+  - c. Sie dürfen nur dann aufbewahrt werden, wenn dies zur Sicherstellung der Zugangskontrolle erforderlich ist. Diesfalls müssen sie spätestens zwölf Stunden nach Abschluss der Veranstaltungen vernichtet werden.
+
+- 1\.5
+
+  Das Schutzkonzept enthält Massnahmen, die den in der Risikoanalyse aufgezeigten Gefährdungen der Grossveranstaltung wirksam begegnen, namentlich in Bezug auf:
+
+  - a. die Art der Veranstaltung;
+  - b. die örtlichen und infrastrukturellen Gegebenheiten des Veranstaltungsorts;
+  - c. die geordnete und lückenlose Durchführung der Zugangskontrolle, einschliesslich der Schulung des Personals;
+  - d. die Gewährleistung der Einhaltung und die Kontrolle des Tragens von Gesichtsmasken in Zugangs-, Pausen- und Sanitärbereichen am Veranstaltungsort sowie im Zuschauerbereich;
+  - e. das Vorgehen beim Auftreten von Verdachts- und Infektionsfällen bei Besucherinnen und Besuchern, bei Teilnehmenden sowie beim Personal, das mit dem Publikum Kontakt hat;
+  - f. die Hygiene, insbesondere die Bereitstellung von Desinfektionsmitteln, periodische Reinigungen, Lüftung;
+  - g. die Information der Besucherinnen und Besucher sowie der Teilnehmenden über geltende Hygiene- und Verhaltensmassnahmen, insbesondere über das Vorgehen bei einer nach der Veranstaltung bekannt werdenden Infektion;
+  - h. die Schulung des Personals betreffend die geltenden Massnahmen, die Erkennung von Covid-19-Symptomen und das Vorgehen bei einem Verdacht auf einen Infektionsfall im Publikum;
+  - i. das Vorgehen bei Widerhandlungen von Besucherinnen und Besuchern und Teilnehmenden gegen die Vorgaben des Schutzkonzepts.
+
+- 1\.6 Im Übrigen gelten die Vorgaben nach Anhang 1 Ziffern 1 und 2.
+
+[^annex3-lvlu1-lvl1-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+
+### 2 Zusätzliche Vorgaben für Grossveranstaltungen vom 1. Juli bis zum 19. August 2021
+
+- 2\.1 Allgemeine Vorgaben
+  - a. Die Personenflüsse im Zugangsbereich vor dem Veranstaltungsort oder der Veranstaltungseinrichtung müssen in Absprache mit den örtlichen Sicherheitskräften und Verkehrsbetrieben geregelt werden.
+  - b. Die Personenflüsse, namentlich in Zugangs-, Pausen- und Sanitärbereichen, müssen in räumlicher und zeitlicher Hinsicht so gestaltet werden, dass der erforderliche Abstand nach Möglichkeit eingehalten wird.
+  - c. Die Sitz- und Stehplatzbereiche sind so zu besetzen, dass der erforderliche Abstand nach Möglichkeit eingehalten wird.
+
+- 2\.2
+
+  Das Schutzkonzept muss in Ergänzung zu Ziffer 1.5 weitere Massnahmen enthalten in Bezug auf:
+
+  - a. die typischen Verhaltensweisen der Besucherinnen und Besucher und der Teilnehmenden;
+  - b. die Bereiche, in denen der Abstand voraussichtlich nicht eingehalten werden kann oder Menschenansammlungen zu erwarten sind;
+  - c. die An- und Abreise von Besucherinnen und Besuchern und Teilnehmenden (öffentlicher Verkehr, private Verkehrsmittel, typischerweise vor oder nach der Veranstaltung besuchte Restaurationsbetriebe);
+  - d. die Steuerung des Verhaltens der Teilnehmenden.
+
+### 3 Vorgaben für grosse Fach- und Publikumsmessen nach Artikel 6*b*<sup>quinquies</sup>
+
+- 3\.1 Für die Zugangskontrolle gelten die Ziffern 1.1–1.4.
+- 3\.2 Bei Fach- und Publikumsmessen mit einer Zugangsbeschränkung nach Artikel 6*b*<sup>quinquies</sup> Absatz 2 Buchstabe a ist der Zugang so zu beschränken, dass für jede Person mindestens 4 Quadratmeter Fläche zur Verfügung stehen.
+- 3\.3 Bei Fach- und Publikumsmessen nach Artikel 6*b*<sup>quinquies</sup> Absatz 2 Buchstabe b ist der Zugang so zu beschränken, dass für jede Person mindestens 10 Quadratmeter Fläche zur Verfügung stehen.

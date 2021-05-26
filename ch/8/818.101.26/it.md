@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-05-13
+version: 2021-05-27
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210513/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210513-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210513/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210527/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210527-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210527/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210513/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 13 maggio 2021)
+del 19 giugno 2020 (Stato 27 maggio 2021) (Stato 27 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -135,7 +135,7 @@ Chiunque deve portare una mascherina facciale nei seguenti settori dello spazio 
 [^3c-5]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-## Sezione 2*a*: Provvedimenti concernenti la quarantena dei contatti e l’isolamento
+## Sezione 2*a*:**** Provvedimenti concernenti la quarantena dei contatti e l’isolamento
 
 [^sec2a-1]
 
@@ -245,11 +245,12 @@ Al piano di protezione si applicano le seguenti prescrizioni:
 - c. deve prevedere provvedimenti che limitino l’accesso alla struttura o alla manifestazione in modo da garantire il rispetto della distanza obbligatoria. La prescrizione non si applica all’accesso ai veicoli dei trasporti pubblici;
 - d. se sono presenti persone esentate dall’obbligo della mascherina facciale in virtù dell’articolo 3*b* capoverso 2 o dell’articolo 6*e* o 6*f*, deve essere mantenuta la distanza obbligatoria o devono essere adottate ulteriori misure di protezione idonee, quale l’installazione di barriere efficaci. Se a causa del tipo di attività o delle circostanze locali questo non è possibile, occorre prevedere la registrazione dei dati di contatto delle persone presenti secondo l’articolo 5.[^4-1]
 
-<sup>3</sup> Le prescrizioni di cui al capoverso 2 sono precisate nell’allegato 1. Il Dipartimento federale dell’interno (DFI) le aggiorna d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) in base allo stato attuale della scienza.
+<sup>3</sup> Le prescrizioni secondo il capoverso 2 sono precisate nellʼallegato 1.[^4-2]
 
 <sup>4</sup> Nel piano di protezione deve essere designata una persona responsabile dell’attuazione del piano e dei contatti con le autorità competenti.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 5
 
@@ -362,35 +363,176 @@ Lo svolgimento di manifestazioni con più di 15 partecipanti è vietato. Questa 
 - f. le manifestazioni nel settore della formazione ammesse secondo l’articolo 6*d*;
 - g.[^6-3] le manifestazioni nel settore dello sport e della cultura secondo gli articoli 6*e* capoverso 1 e 6*f* capoversi 2 e 3;
 - h.[^6-4] le manifestazioni nel quadro di attività ammesse secondo l’articolo 6*g*;
-- i.[^6-5] le manifestazioni in presenza di pubblico secondo il capoverso 1<sup>bis</sup>.
+- i.[^6-5] le manifestazioni in presenza di pubblico secondo il capoverso 1<sup>bis</sup>;
+- j.[^6-6] le grandi manifestazioni secondo l’articolo 6*a* e i progetti pilota per grandi manifestazioni secondo l’articolo 6*b*<sup>quater</sup>.
 
 <sup>1bis</sup>
 
-Alle manifestazioni in presenza di pubblico si applica quanto segue:
+Per le manifestazioni in presenza di pubblico, tranne che per le grandi manifestazioni di cui all’articolo 6*a* e per i progetti pilota per lo svolgimento di grandi manifestazioni di cui allʼarticolo 6*b*<sup>quater</sup>, vige quanto segue:[^6-7]
 
 - a. alle manifestazioni in luoghi chiusi sono ammesse come pubblico (visitatori) al massimo 50 persone, a quelle in aree esterne al massimo 100;
 - b. può essere occupato al massimo un terzo dei posti a sedere disponibili per i visitatori;
 - c. per i visitatori vige l’obbligo di stare seduti durante l’intera manifestazione, comprese le pause, salvo nei casi in cui vi siano validi motivi per alzarsi; i posti a sedere devono essere attribuiti ai singoli visitatori;
 - d. l’esercizio di strutture della ristorazione, comprese le strutture take-away, è vietato;
-- e. la consumazione di cibi e bevande è vietata.[^6-6]
+- e. la consumazione di cibi e bevande è vietata.[^6-8]
 
-<sup>2</sup> Alle manifestazioni nella cerchia familiare e di amici (manifestazioni private) che non si svolgono in strutture accessibili al pubblico possono partecipare al massimo 10 persone nei luoghi chiusi e al massimo 15 persone nelle aree esterne. Si applica unicamente l’articolo 3; non vige l’obbligo di elaborare e attuare un piano di protezione.[^6-7]
+<sup>2</sup> Alle manifestazioni nella cerchia familiare e di amici (manifestazioni private) che non si svolgono in strutture accessibili al pubblico possono partecipare al massimo 10 persone nei luoghi chiusi e al massimo 15 persone nelle aree esterne. Si applica unicamente l’articolo 3; non vige l’obbligo di elaborare e attuare un piano di protezione.[^6-9]
 
-<sup>3</sup> Lo svolgimento di fiere in luoghi chiusi è vietato.
+<sup>3</sup> Lo svolgimento di fiere in luoghi chiusi è vietato. Sono fatte salve le fiere specialistiche e quelle aperte al pubblico secondo l’articolo 6*b*<sup>quinquies</sup>.[^6-10]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-3]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-4]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-5]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-6]: Introdotto dal n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-7]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-6]: Introdotta dal n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6-7]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021(Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6-8]: Introdotto dal n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-9]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-10]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
-#### Art. 6a e 6b
+#### Art. 6a
 
-[^6a6b-1]
+**Disposizioni particolari per le grandi manifestazioni: autorizzazione**[^6a-1]
 
-[^6a6b-1]: Introdotti dal n. I dell’O del 2 set. 2020 (Grandi manifestazioni)([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Abrogati dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+<sup>1</sup> Le manifestazioni con più di 1000 persone, siano esse visitatori o partecipanti (grandi manifestazioni), sono ammesse a partire dal 1° luglio 2021 se l’autorità cantonale competente rilascia all’organizzatore un’autorizzazione per lo svolgimento.
+
+<sup>2</sup>
+
+L’autorizzazione è rilasciata se:
+
+- a. si può presumere che la situazione epidemiologica nel Cantone o nella regione interessata permetterà lo svolgimento;
+- b.
+
+  si può presumere che al momento dello svolgimento della manifestazione il Cantone disporrà delle capacità necessarie per:
+
+  - 1\.[^6a-2] identificare e informare le persone sospette contagiate secondo l’articolo 33 LEp,
+  - 2\. garantire un’assistenza sanitaria senza restrizioni sia ai pazienti COVID-19 sia agli altri pazienti; questo significa che possono essere eseguiti anche interventi non urgenti dal punto di vista medico;
+
+- c. l’organizzatore presenta un piano di protezione secondo l’articolo 4 basato su unʼanalisi dei rischi della grande manifestazione che intende organizzare, che preveda le misure di protezione di cui agli articoli 6*b* e 6*b*<sup>bis</sup> o 6*b*<sup>ter</sup>.
+
+<sup>3</sup> Se una grande manifestazione si svolge in due o più Cantoni, è richiesta l’autorizzazione di ciascun Cantone. I Cantoni coordinano tra di loro le procedure.
+
+<sup>4</sup> Chi intende svolgere più manifestazioni dello stesso tipo nella stessa struttura può farne richiesta in un’unica domanda.
+
+<sup>5</sup>
+
+Il Cantone revoca un’autorizzazione o emana ulteriori restrizioni se:
+
+- a. la situazione epidemiologica peggiora a tal punto che lo svolgimento della manifestazione non è più possibile, segnatamente perché le capacità necessarie secondo il capoverso 2 lettera b non possono più essere garantite; oppure
+- b. un organizzatore non ha rispettato le misure previste nel piano di protezione in una manifestazione già svolta e non può garantirne il rispetto in futuro.
+
+[^6a-1]: Introdotto dal n. I dell’O del 2 set. 2020 (Grandi manifestazioni)([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6a-2]: In vigore dal 27 mag. 2021 al 19 ago. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b
+
+**Disposizioni particolari per grandi manifestazioni: misure di protezione generali**[^6b-1]
+
+<sup>1</sup>
+
+L’accesso a una grande manifestazione è limitato alle seguenti persone a partire dai 16 anni che:
+
+- a. possono provare di essere state vaccinate contro il COVID-19 con un vaccino secondo l’allegato 2; il tempo che può essere trascorso dalla vaccinazione è stabilito nell’allegato 2;
+- b. possono provare di essere state contagiate dal SARS-CoV-2 e sono considerate guarite; il tempo che può essere trascorso dalla guarigione è stabilito nell’allegato 2;
+- c.
+
+  si sono sottoposte a uno dei test per il COVID-19 seguenti e possono presentare un risultato negativo:
+
+  - 1\. un’analisi di biologia molecolare per il SARS-CoV-2 eseguita non più di 72 ore prima dell’inizio della manifestazione,
+  - 2\. un test rapido per il SARS-CoV-2 secondo lo standard diagnostico, eseguito non più di 24 ore prima dell’inizio della manifestazione.
+
+<sup>2</sup> I Cantoni possono accordare deroghe localmente limitate alle prescrizioni di cui al capoverso 1 per manifestazioni all’aperto che si svolgono su percorsi più lunghi o su percorsi in terreno aperto, se le peculiarità locali non permettono controlli all’ingresso.
+
+<sup>3</sup> L’esercizio di strutture della ristorazione è retto dall’articolo 5*a*.
+
+<sup>4</sup> L’obbligo di portare una mascherina facciale è retto dall’articolo 3*b*. Per le manifestazioni allʼaperto, oltre alle deroghe di cui all’articolo 3*b* capoverso 2, sono esentati dall’obbligo anche i visitatori seduti al loro posto.
+
+<sup>5</sup> L’autorità competente per il rilascio dell’autorizzazione può prevedere deroghe alle restrizioni per le attività sportive secondo l’articolo 6*e* capoverso 1 lettera b e culturali secondo secondo l’articolo 6*f* capoversi 2 lettera c e 3, se il piano di protezione contempla misure di protezione specifiche.
+
+<sup>6</sup> Le misure di protezione sono precisate nell’allegato 3.
+
+[^6b-1]: Introdotto dal n. I dell’O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>bis</sup>
+
+**Disposizioni particolari per grandi manifestazioni: prescrizioni supplementari per manifestazioni tra il 1° luglio e il 19 agosto 2021**[^6bbis-1]
+
+<sup>1</sup>
+
+Oltre alle prescrizioni di cui all’articolo 6*b*, alle grandi manifestazioni svolte tra il 1° luglio e il 19 agosto 2021 si applica quanto segue:
+
+- a. il numero di persone, visitatori o partecipanti, è limitato a 3000;
+- b. per le manifestazioni in presenza di pubblico all’aperto il numero è limitato a 5000 persone, se al pubblico sono messi a disposizione soltanto posti a sedere;
+- c. l’autorità competente per il rilascio dell’autorizzazione può accordare deroghe al numero massimo di persone di cui alle lettere a e b per manifestazioni che si svolgono su percorsi più lunghi o su percorsi in terreno aperto, se le peculiarità locali non permettono sbarramenti;
+- d. nel settore destinato agli spettatori vige l’obbligo di stare seduti; sono possibili deroghe per i settori destinati agli spettatori lungo percorsi o in terreno aperto e per manifestazioni all’aperto che solitamente si svolgono senza posti a sedere;
+- e. l’autorità competente per il rilascio dell’autorizzazione stabilisce, tenendo conto delle peculiarità locali e del piano di protezione, l’occupazione massima dei posti disponibili nella struttura. Questo valore non può superare i due terzi dei posti a sedere e la metà dei posti in piedi disponibili per gli spettatori;
+- f. la consumazione di cibi e bevande al di fuori delle strutture della ristorazione è ammessa soltanto al posto a sedere.
+
+<sup>2</sup> Sono inoltre applicabili le prescrizioni supplementari di cui allʼallegato 3 numero 2.
+
+[^6bbis-1]: Introdotto dal n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 al 19 ago. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>ter</sup>
+
+**Disposizioni particolari per grandi manifestazioni: prescrizioni supplementari per manifestazioni dal 20 agosto 2021**[^6bter-1]
+
+Oltre alle prescrizioni di cui all’articolo 6*b*, alle grandi manifestazioni svolte a partire dal 20 agosto 2021 si applica quanto segue:
+
+- a. il numero di persone, visitatori o partecipanti, è limitato a 10 000;
+- b. l’autorità competente per il rilascio dell’autorizzazione può accordare deroghe al numero massimo di persone di cui alla lettera a per manifestazioni che si svolgono su percorsi più lunghi o su percorsi in terreno aperto, se le peculiarità locali non permettono sbarramenti;
+- c. per le manifestazioni in presenza di pubblico all’aperto in cui sono messi a disposizione del pubblico soltanto posti a sedere non vige alcuna limitazione del numero di persone.
+
+[^6bter-1]: Introdotto dal n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>quater</sup>
+
+**Progetti pilota per lo svolgimento di grandi manifestazioni**[^6bquater-1]
+
+<sup>1</sup> Al fine di testare modelli per lo svolgimento sicuro e fattibile di grandi manifestazioni, l’autorità cantonale competente può autorizzare appositi progetti pilota svolti tra il 1° e il 30 giugno 2021.
+
+<sup>2</sup> Ciascun Cantone può autorizzare al massimo cinque progetti pilota tenendo conto dei diversi tipi di manifestazione.
+
+<sup>3</sup> I progetti pilota devono essere svolti con almeno 300 e al massimo 600 persone, visitatori o partecipanti, in luoghi chiusi e al massimo 1000 persone, visitatori o partecipanti, all’aperto. Si applicano inoltre le misure di protezione e le prescrizioni di cui agli articoli 6*b* e 6*b*<sup>bis</sup>.
+
+<sup>4</sup>
+
+L’autorizzazione può essere rilasciata soltanto se:
+
+- a. sono adempiute le condizioni di cui all’articolo 6*a* capoverso 2 lettere a e b;
+- b. l’organizzatore presenta un piano di protezione secondo l’articolo 4 e l’allegato 3 numeri 1 e 2 basato su un’analisi dei rischi della manifestazione che intende organizzare e suscettibile di permettere l’acquisizione di conoscenze sullo svolgimento pratico di grandi manifestazioni dello stesso tipo;
+- c. l’organizzatore prevede una valutazione dello svolgimento della manifestazione.
+
+<sup>5</sup>
+
+Per raggiungere lʼobiettivo di cui al capoverso 1, la valutazione deve fornire in particolare informazioni sui seguenti punti:
+
+- a. esperienze sul controllo all’ingresso, in particolare sulla sua organizzazione, sulle offerte di test sul posto e sul loro utilizzo, sul numero di persone cui ha dovuto essere rifiutato l’ingresso e sui motivi del rifiuto nonché sulle possibilità di miglioramento;
+- b. esperienza sullʼattuazione del piano di protezione, in particolare sullʼincanalamento dei flussi di persone, l’osservanza delle prescrizioni da parte dei visitatori e dei partecipanti, la praticabilità delle prescrizioni e le possibilità di miglioramento.
+
+<sup>6</sup> L’organizzatore presenta i risultati della valutazione all’autorità competente per il rilascio dell’autorizzazione nonché, allegando lʼautorizzazione cantonale e il piano di protezione attuato, all’UFSP entro dieci giorni dalla conclusione della manifestazione.
+
+<sup>7</sup> La revoca di un’autorizzazione o l’emanazione di ulteriori restrizioni sono rette dall’articolo 6*a* capoverso 5.
+
+<sup>8</sup> Il Cantone informa l’UFSP del rilascio o della revoca di un’autorizzazione.
+
+[^6bquater-1]: Introdotto dal n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 al 30 giu. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>quinquies</sup>
+
+**Disposizioni particolari per le grandi fiere specialistiche e le grandi fiere aperte al pubblico**[^6bquinquies-1]
+
+<sup>1</sup> Le grandi fiere specialistiche e le grandi fiere aperte al pubblico con più di 1000 visitatori sono ammesse dal 1° luglio 2021, se l’autorità cantonale competente rilascia all’organizzatore un’autorizzazione per lo svolgimento. Si applicano le condizioni di autorizzazione e di revoca di cui all’articolo 6*a* capoversi 2, 4 e 5.
+
+<sup>2</sup>
+
+Alle fiere specialistiche e a quelle aperte al pubblico si applica inoltre quanto segue:
+
+- a. se l’accesso è limitato alle persone vaccinate o guarite o alle persone risultate negative al test secondo l’articolo 6*b* capoverso 1, il numero di persone presenti deve essere limitato in modo che per ogni persona sia disponibile una superficie minima secondo l’allegato 3 numero 3.2; ai controlli si applica l’allegato 3 numero 3.1;
+- b. se l’accesso è aperto anche a persone che non soddisfano le condizioni di cui all’articolo 6*b* capoverso 1, il numero di persone presenti è limitato secondo l’allegato 3 numero 3.3;
+- c. l’obbligo di portare una mascherina facciale è retto dall’articolo 3*b*.
+
+[^6bquinquies-1]: Introdotto dal n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 6c
 
@@ -406,8 +548,11 @@ Le seguenti manifestazioni non sono soggette ad alcuna limitazione del numero di
 
 <sup>2</sup> Alle manifestazioni politiche e della società civile e alla raccolta di firme non sono applicabili gli articoli 4–6. I partecipanti devono portare una mascherina facciale; si applicano tuttavia le deroghe di cui all’articolo 3*b* capoverso 2 lettere a e b.
 
+<sup>3</sup> Alle manifestazioni di cui ai capoversi 1 e 2 non si applicano gli articoli 6*a*–6*b*<sup>quater</sup>.[^6c-3]
+
 [^6c-1]: Introdotto dal n. I dell’O del 2 set. 2020 (Grandi manifestazioni)([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6c-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^6c-3]: Introdotto dal n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 6d
 
@@ -522,7 +667,7 @@ Le attività di organizzazioni o istituzioni di animazione socioculturale dell�
 
 <sup>1</sup>
 
-L’autorità cantonale competente può autorizzare agevolazioni rispetto alle prescrizioni di cui all’articolo 4 capoversi 2–4 e agli articoli 6–6*f* se:[^7-1]
+L’autorità cantonale competente può autorizzare agevolazioni rispetto alle prescrizioni di cui all’articolo 4 capoversi 2–4 e agli articoli 6 e 6*c*–6*f*, se:[^7-1]
 
 - a. lo impongono interessi pubblici preponderanti;
 - a<sup>bis</sup>.[^7-2] nel Cantone o nella regione interessata la situazione epidemiologica lo consente in base agli indicatori di cui all’articolo 8 capoverso 1 lettera a; e
@@ -532,7 +677,7 @@ L’autorità cantonale competente può autorizzare agevolazioni rispetto alle p
 
 <sup>6</sup> ...[^7-5]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^7-1]: Nuo Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^7-2]: Introdotta dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^7-3]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^7-4]: Introdotti dal n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico) ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Abrogati dal n. I dell’O del 6 gen. 2021 (Abrogazione di determinate possibilità di agevolazioni cantonali), con effetto dal 9 gen. 2021 ([RU 2021 2](https://fedlex.data.admin.ch/eli/oc/2021/2)).
@@ -653,23 +798,37 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 
 È punito con la multa chi:
 
-- a.[^13-2] in qualità di gestore o organizzatore intenzionalmente o per negligenza non rispetta i suoi obblighi di cui all’articolo 4 capoversi 1 e 2 e agli articoli 5*a*, 5*d* capoverso 1, 6 capoverso 1<sup>bis</sup> lettere a–d e 6*d*–6*g*;
+- a.[^13-2] in qualità di gestore o organizzatore intenzionalmente o per negligenza non rispetta i suoi obblighi di cui allʼarticolo 4 capoversi 1 e 2 e agli articoli 5*a*, 5*d* capoverso 1, 6 capoverso 1<sup>bis</sup> lettere b–d, 6*b* capoverso 1, 6*b*<sup>bis</sup> capoverso 1 lettera e, 6*b*<sup>quater</sup> capoversi 3 e 6, 6*b*<sup>quinquies</sup> capoverso 2 lettere a e b e 6*d*–6*g*;
 - b. in qualità di gestore o organizzatore intenzionalmente o per negligenza tratta i dati di contatto rilevati secondo l’articolo 5 per altri scopi o li conserva per più di 14 giorni dopo la partecipazione a una manifestazione o la visita di una struttura in violazione dell’articolo 5 capoverso 3;
 - c.[^13-3] ...
-- d.[^13-4] intenzionalmente svolge una manifestazione con un numero di persone superiore a quello ammesso secondo l’articolo 6 capoverso 1 o 1<sup>bis</sup> o intenzionalmente vi partecipa;
+- d.[^13-4] intenzionalmente svolge una grande manifestazione, una grande fiera specialistica o una grande fiera aperta al pubblico con un numero di persone superiore a quello ammesso secondo l’articolo 6 capoverso 1, 1<sup>bis</sup> lettera a o 2, 6*b*<sup>bis</sup> capoverso 1 lettera a o b, 6*b*<sup>ter</sup> lettera a, 6*b*<sup>quater</sup> capoverso 3 o 6*b*<sup>quinquies</sup> capoverso 2 lettera a o b, o intenzionalmente partecipa a una manifestazione con un numero di persone superiore a quello ammesso secondo l’articolo 6 capoverso 1, 1<sup>bis</sup> o 2;
 - e.[^13-5] intenzionalmente svolge fiere il cui svolgimento è vietato secondo l’articolo 6 capoverso 3;
-- f.[^13-6] in violazione dell’articolo 3*a* o 3*b* capoverso 1, sui veicoli del trasporto pubblico, in luoghi chiusi e aree esterne accessibili al pubblico di strutture, compresi i mercati, nonché in aree di attesa delle ferrovie, delle linee di autobus e tram e degli impianti a fune, in stazioni ferroviarie, aeroporti o in altri settori di accesso dei trasporti pubblici intenzionalmente o per negligenza non porta una mascherina facciale, a meno che non sia applicabile la deroga di cui all’articolo 3*a* capoverso l o all’articolo 3*b* capoversi 2 e 2<sup>bis</sup>;
+- e<sup>bis</sup>.[^13-6] intenzionalmente svolge una grande manifestazione di cui all’articolo 6*a* capoverso 1 oppure svolge una grande fiera specialistica o una grande fiera aperta al pubblico di cui all’articolo 6*b*<sup>quinquies</sup> capoverso 1 senza essere in possesso dell’autorizzazione necessaria o in deroga al piano di protezione autorizzato;
+- f.[^13-7] in violazione dell’articolo 3*a* o 3*b* capoverso 1, sui veicoli del trasporto pubblico, in luoghi chiusi e aree esterne accessibili al pubblico di strutture, compresi i mercati, le fiere e le grandi manifestazioni, nonché in aree di attesa delle ferrovie, delle linee di autobus e tram e degli impianti a fune, in stazioni ferroviarie, aeroporti o in altri settori di accesso dei trasporti pubblici intenzionalmente o per negligenza non porta una mascherina facciale, a meno che non sia applicabile la deroga di cui all’articolo 3*a* capoverso 1, 3*b* capoverso 2 o 2<sup>bis</sup> o 6*b* capoverso 4 secondo periodo;
 - g. intenzionalmente viola il divieto di assembramento nello spazio pubblico secondo l’articolo 3*c* capoverso 1 o secondo una disposizione può restrittiva del diritto cantonale;
-- h.[^13-7] in qualità di ospite di una struttura della ristorazione o di un bar o in qualità di visitatore di una manifestazione intenzionalmente viola l’obbligo di stare seduti di cui all’articolo 5*a* capoverso 3 lettera b o di cui all’articolo 6 capoverso 1<sup>bis</sup> lettera c.
-- i. intenzionalmente o per negligenza non porta una mascherina facciale a una manifestazione politica o a una raccolta di firme, a meno che non sia applicabile la deroga di cui all’articolo 6*c* capoverso 2 secondo periodo.
+- h.[^13-8] in qualità di ospite di una struttura della ristorazione o di un bar o in qualità di visitatore di una manifestazione intenzionalmente viola l’obbligo di stare seduti di cui all’articolo 5*a* capoverso 3 lettera b, 6 capoverso 1<sup>bis</sup> lettera c o 6*b*<sup>bis</sup> capoverso 1 lettera d;
+- i. intenzionalmente o per negligenza non porta una mascherina facciale a una manifestazione politica o a una raccolta di firme, a meno che non sia applicabile la deroga di cui all’articolo 6*c* capoverso 2 secondo periodo
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021 (Ampliamento delle disposizioni penali e introduzione della procedura della multa disciplinare), in vigore dal 1° feb. 2021 al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^13-3]: Abrogata dal n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), con effetto dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^13-4]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-4]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^13-5]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-6]: Nuovo testo gisuta il n. I dell’O del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13 mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^13-7]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive), in vigore dal 19 apr. 2021 ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-6]: Introdotta dal n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^13-7]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^13-8]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+## Sezione 6*a*:**** Aggiornamento degli allegati
+
+[^sec6a-1]
+
+[^sec6a-1]: Introdotta dal n. I dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 13a
+
+<sup>1</sup> Il Dipartimento federale dell’interno aggiorna gli allegati 1–3 secondo le conoscenze scientifiche più recenti.
+
+<sup>2</sup> Aggiorna l’allegato 1 d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca e l’allegato 2 dopo aver sentito la Commissione federale per le vaccinazioni.
 
 ## Sezione 7: Disposizioni finali
 
@@ -705,7 +864,7 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 [^15-2]: Introdotto dal n. I dell’O del 12 ago. 2020 (Obbligo della mascherina negli aeromobili; grandi manifestazioni)([RU 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)). Abrogato dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^15-3]: Introdotto dal n. I dell’O del 2 set. 2020 (Grandi manifestazioni)([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Abrogato dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-Allegato 1[^t-1]
+Allegato 1*[^t-1]*
 
 (art. 4 cpv. 3, 5 cpv. 1, 6*e* cpv. 1 lett. b n. 2 e 6*f* cpv. 2 lett. c)
 
@@ -829,6 +988,113 @@ Allegato 1[^t-1]
 - 4\.5 Per le famiglie o altri gruppi di persone che si conoscono tra di loro è sufficiente registrare i dati di contatto di un solo membro della famiglia o del gruppo. È fatto salvo l’articolo 5*a* capoverso 3 lettera d sulla registrazione dei dati di contatto nelle aree esterne di strutture della ristorazione, bar e club e nelle strutture della ristorazione e nei bar riservati agli ospiti dell’albergo.
 - 4\.6 Il gestore o l’organizzatore deve garantire la riservatezza dei dati di contatto registrati e la sicurezza dei dati, segnatamente nell’ambito della loro conservazione.
 
-Allegato 2[^t-2]
+Allegato 2*[^t-2]*
 
-[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Abrogato dal n. II cpv. 2 dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), con effetto dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+(art. 6*b* cpv. 1 lett. a e b, nonché 13*a*)
+
+## Prescrizioni relative all’accesso di persone vaccinate o guarite a grandi manifestazioni
+
+[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Nuovo testo giusta il n. II dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+### 1 Persone vaccinate
+
+- 1\.1
+
+  Sono considerate persone vaccinate cui è consentito l’accesso a grandi manifestazioni secondo l’articolo *6b* capoverso 1 lettera a, le persone che sono state vaccinate con un vaccino:
+
+  - a. omologato in Svizzera e che è stato interamente somministrato conformemente alle raccomandazioni dell’UFSP;
+  - b. omologato dall’Agenzia europea per i medicinali per l’Unione europea e che è stato interamente somministrato conformemente alle prescrizioni o alle raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.
+
+- 1\.2 Il lasso di tempo durante il quale le persone vaccinate hanno accesso a grandi manifestazioni è di sei mesi a partire dal completamento della vaccinazione.
+
+### 2 Persone guarite
+
+Il lasso di tempo durante il quale le persone guarite hanno accesso a grandi manifestazioni secondo l’articolo 6*b* capoverso 1 lettera b è di sei mesi a partire dallʼundicesimo giorno dalla conferma del contagio.
+
+Allegato 3*[^t-3]*
+
+(art. 6*b* cpv. 6, 6*b*<sup>bis</sup> cpv. 2, 6*b*<sup>quater</sup> cpv. 4 lett. b e 6*b*<sup>quinquies</sup> cpv. 2 lett. a e b)
+
+## Prescrizioni relative alle grandi manifestazioni, alle grandi fiere specialistiche e alle grandi fiere aperte al pubblico
+
+[^t-3]: Introdotto dal n. II dell’O del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+### 1 Prescrizioni generali relative alle grandi manifestazioni
+
+- 1\.1 L’organizzatore deve controllare l’autorizzazione all’ingresso secondo l’articolo 6*b* capoverso 1 sulla base di un certificato COVID-19 secondo l’articolo 6*a* della legge COVID-19 del 25 settembre 2020[^annex3-lvlu1-lvl1-1].
+- 1\.2
+
+  Se non è stato ancora introdotto un certificato secondo il numero 1.1, l’autorizzazione all’ingresso deve essere controllata sulla base di un attestato sufficiente. Quest’ultimo deve essere conforme a una forma di attestazione attualmente applicata e deve esserne verificata segnatamente l’autenticità. Deve contenere, oltre a nome, cognome e data di nascita della persona in questione, anche i dati seguenti:
+
+  - a.
+
+    per l’attestato di vaccinazione:
+
+    - – data della vaccinazione,
+    - – vaccino utilizzato,
+    - – designazione e indirizzo del centro di vaccinazione;
+
+  - b.
+
+    per l’attestato di un precedente contagio e di guarigione:
+
+    - – conferma del contagio compreso il nome e lʼindirizzo della struttura che rilascia la conferma (centro di test, medico, farmacia, ospedale), o
+    - – conferma della revoca dell’isolamento o conferma medica della guarigione;
+
+  - c.
+
+    per l’attestato del risultato negativo del test:
+
+    - – data e ora del prelievo del campione,
+    - – tipo di test,
+    - – risultato del test,
+    - – designazione e indirizzo del centro di test.
+
+- 1\.3 L’organizzatore deve verificare all’ingresso l’identità delle persone sulla base di un documento dʼidentità ufficiale o di un altro documento ufficiale appropriato.
+- 1\.4
+
+  Nell’ambito dei controlli all’ingresso secondo i numeri 1.1–1.3, può trattare dati personali soltanto se necessario per attuare il controllo. A tale scopo si applica quanto segue:
+
+  - a. l’organizzatore deve informare precocemente le persone interessate del trattamento dei dati;
+  - b. i dati non possono essere trattati per altri scopi;
+  - c. possono essere conservati soltanto se necessario per garantire il controllo all’ingresso. Se questo è il caso, devono essere distrutti al più tardi dodici ore dopo la conclusione della manifestazione.
+
+- 1\.5
+
+  Il piano di protezione prevede misure che permettono di contrastare efficacemente i pericoli della grande manifestazione indicati nell’analisi dei rischi, segnatamente per quanto riguarda:
+
+  - a. il tipo di manifestazione;
+  - b. le peculiarità del luogo e dell’infrastruttura della manifestazione;
+  - c. l’esecuzione ordinata e capillare dei controlli all’ingresso, inclusa l’istruzione del personale;
+  - d. la garanzia del rispetto e il controllo dell’uso di mascherine facciali nei settori d’accesso, nelle aree destinate alle pause e nei settori dei bagni nel luogo della manifestazione e nel settore destinato agli spettatori;
+  - e. la procedura da seguire in presenza di casi sospetti e di casi d’infezione tra i visitatori, i partecipanti e il personale a contatto con il pubblico;
+  - f. l’igiene, in particolare la messa a disposizione di disinfettanti, le pulizie periodiche, l’areazione;
+  - g. l’informazione di visitatori e partecipanti sulle misure di igiene e di comportamento in vigore, in particolare sulla procedura da seguire se dopo la manifestazione si scopre di essere stati contagiati;
+  - h. l’istruzione del personale sui provvedimenti in vigore, sul riconoscimento dei sintomi da COVID-19 e sulla procedura da seguire in caso di sospetta infezione tra il pubblico;
+  - i. la procedura da seguire in caso di infrazioni alle prescrizioni del piano di protezione da parte di visitatori e partecipanti.
+
+- 1\.6 Per il resto si applicano le prescrizioni secondo l’allegato 1 numeri 1 e 2.
+
+[^annex3-lvlu1-lvl1-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+
+### 2 Prescrizioni supplementari relative alle grandi manifestazioni svolte tra il 1° luglio e il 19 agosto 2021
+
+- 2\.1 Prescrizioni generali
+  - a. I flussi di persone nel settore di accesso antistante il luogo o la struttura in cui si svolge la manifestazione devono essere regolamentati in accordo con le forze di sicurezza e le imprese di trasporto locali.
+  - b. I flussi di persone, segnatamente nei settori di accesso, nelle aree destinate alle pause e nei settori dei bagni, devono essere organizzati a livello spaziale e temporale in modo che sia rispettata per quanto possibile la distanza obbligatoria.
+  - c. Il settore dei posti a sedere e dei posti in piedi devono essere occupati in in modo che sia rispettata per quanto possibile la distanza obbligatoria.
+
+- 2\.2
+
+  A complemento del numero 1.5, il piano di protezione deve prevedere ulteriori misure per quanto riguarda:
+
+  - a. i comportamenti tipici dei visitatori o dei partecipanti;
+  - b. i settori in cui presumibilmente non può essere rispettata la distanza o in cui sono da attendersi assembramenti di persone;
+  - c. l’arrivo e la partenza di visitatori o partecipanti (trasporti pubblici, mezzi di trasporto privati, strutture della ristorazione usualmente frequentate prima o dopo la manifestazione);
+  - d. la gestione del comportamento dei partecipanti.
+
+### 3. Prescrizioni relative alle grandi fiere specialistiche e alle grandi fiere aperte al pubblico secondo l’articolo 6*b*<sup>quinquies</sup>
+
+- 3\.1 Ai controlli all’ingresso si applicano i numeri 1.1–1.4.
+- 3\.2 L’accesso alle fiere specialistiche e a quelle aperte al pubblico con una limitazione dellʼaccesso di cui all’articolo 6*b*<sup>quinquies</sup> capoverso 2 lettera a deve essere limitato in modo da garantire che siano disponibili almeno quattro metri quadrati di superficie per persona.
+- 3\.3 L’accesso alle fiere specialistiche e a quelle aperte al pubblico di cui all’articolo 6*b*<sup>quinquies</sup> capoverso 2 lettera b deve essere limitato in modo da garantire che siano disponibili almeno dieci metri quadrati di superficie per persona.

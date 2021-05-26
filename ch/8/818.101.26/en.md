@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinance of 19 June 2020 on Measures during the Special Situation to combat the COVID-19 Epidemic (COVID-19 Ordinance Special Situation)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: en
-version: 2021-05-13
+version: 2021-05-27
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210513/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210513-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210513/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210527/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210527-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210527/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 19 June 2020 (Status as of 13 May 2021)
+of 19 June 2020 (Status as of 27 May 2021)
 
 The Swiss Federal Council,
 
@@ -246,11 +246,12 @@ The precautionary measures plan must meet the following requirements:
 - c. It must include measures that restrict access to the establishment, business or event in such a way that allows the required distance to be maintained. This does not apply to access to public transport vehicles.
 - d. If persons are present who are exempted from the requirement to wear a face mask under Article 3*b* paragraph 2 or under Article 6*e* or 6*f*, either the required distance must be maintained or other effective protective measures must be taken, such as erecting suitable barriers. If this is not possible because of the nature of the activity or of the premises, provision must be made for recording the contact details of the persons present in accordance with Article 5.[^4-1]
 
-<sup>3</sup> The requirements of paragraph 2 are specified in more detail in Annex 1. The Federal Department of Home Affairs (FDHA) shall update these requirements in consultation with the Federal Department of Economic Affairs, Education and Research (EAER) in line with the latest scientific advice.
+<sup>3</sup> The requirements of paragraph 2 are specified in more detail in Annex 1.[^4-2]
 
 <sup>4</sup> A person must be designated in the precautionary measures plan as responsible for implementing the plan and as the contact for the competent authorities.
 
 [^4-1]: Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^4-2]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 5
 
@@ -358,35 +359,176 @@ It is prohibited to hold events with more than 15 participants. This restriction
 - f. education and training events permitted under Article 6*d*;
 - g.[^6-3] sporting or cultural events under Articles 6*e* paragraph 1 and 6*f* paragraphs 2 and 3;
 - h.[^6-4] events that are permitted activities under Article 6*g*;
-- i.[^6-5] events with spectators or an audience in accordance with paragraph 1<sup>bis</sup>.
+- i.[^6-5] events with spectators or an audience in accordance with paragraph 1<sup>bis</sup>;
+- j.[^6-6] large-scale events under Article 6*a* and pilot projects for large-scale events under Article 6*b*<sup>quater</sup>
 
 <sup>1bis</sup>
 
-The following applies to events with spectators or an audience:
+The following applies to events involving spectators or an audience with the exception of large-scale events under Article 6*a* and pilot projects for large-scale events under Article 6*b*<sup>quater</sup>:[^6-7]
 
 - a. a maximum of 50 persons are permitted as spectators or an audience (visitors) at indoor events. A maximum of 100 is permitted at outdoor events.
 - b. A maximum of one third of the seats available to visitors may be occupied.
 - c. Visitors must remain seated for the entire event, including any intervals, unless there are valid reasons for not remaining seated for a period; each visitor must be allocated a specific seat.
 - d. The operation of restaurant-type establishments including takeaway businesses is prohibited.
-- e. The consumption of food and drinks is prohibited.[^6-6]
+- e. The consumption of food and drinks is prohibited.[^6-8]
 
-<sup>2</sup> In the case of events involving family members and friends (private events) that are not held in publicly accessible establishments or businesses, a maximum of 10 persons may attend indoor events and a maximum of 15 persons may attend outdoor events. Only Article 3 applies. The requirement to draw up and implement a precautionary measures plan does not apply.[^6-7]
+<sup>2</sup> In the case of events involving family members and friends (private events) that are not held in publicly accessible establishments or businesses, a maximum of 10 persons may attend indoor events and a maximum of 15 persons may attend outdoor events. Only Article 3 applies. The requirement to draw up and implement a precautionary measures plan does not apply.[^6-9]
 
-<sup>3</sup> It is prohibited to hold trade fairs indoors.
+<sup>3</sup> It is prohibited to hold trade fairs indoors. Exempted therefrom are trade and consumer fairs under Article 6*b*<sup>quinquies</sup>.[^6-10]
 
 [^6-1]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^6-2]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-3]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-4]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-5]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-6]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-7]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-6]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6-7]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6-8]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-9]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-10]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
-#### Art. 6a and 6b
+#### Art. 6a
 
-[^6a6b-1]
+**Special Provisions for large-scale events: Authorisation**[^6a-1]
 
-[^6a6b-1]: Inserted by No I of the O of 2 Sept. 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Repealed by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), with effect from 29 Oct 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+<sup>1</sup> Events involving more than 1000 persons, whether visitors or participants, (large-scale events), are permitted from 1 July 2021 provided the competent cantonal authority grants the organiser authorisation to hold the event.
+
+<sup>2</sup>
+
+Authorisation shall be issued provided:
+
+- a. it can be assumed that the epidemiological situation in the canton or region concerned permits the event to be held;
+- b.
+
+  it can be assumed that at the time the event is held the canton has the required capacities in the following areas:
+
+  - 1\.[^6a-2] capacities to identify and notify persons who may have been infected as required under Article 33 EpidA,
+  - 2\. capacities in the healthcare sector to treat both COVID-19-patients and other patients without restriction; this includes in particular the capacity to carry out non-urgent medical procedures;
+
+- c. the organiser submits a precautionary measures plan under Article 4 which makes provision for protection measures in accordance with Articles 6*b* and 6*b*<sup>bis</sup> or 6*b*<sup>ter</sup> based on an analysis of the risks of the large-scale event concerned.
+
+<sup>3</sup> If a large-scale event is being held in two or more cantons, authorisation is required from each canton. The cantons shall coordinate the procedure together.
+
+<sup>4</sup> Any person who wishes to hold similar events regularly in the same establishment may request authorisation to do so in a single application.
+
+<sup>5</sup>
+
+The canton shall revoke authorisation or shall issue additional restrictions if:
+
+- a. the epidemiological situation has deteriorated to the extent that holding the event is no longer possible, in particular because the required capacities under paragraph 2 letter b can no longer be guaranteed; or
+- b. an organiser did not comply with the measures set out in the precautionary measures plan at an event that has already been held and cannot guarantee that the measures will be complied with in future.
+
+[^6a-1]: Inserted by No I of the O of 2. Sept 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6a-2]: In force till 19 Aug. 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b
+
+**Special Provisions for large-scale events: General protection measures**[^6b-1]
+
+<sup>1</sup>
+
+Entry to a large-scale event shall be limited to the following persons aged 16 and over:
+
+- a. persons who prove that they have been vaccinated against COVID-19 with a vaccine in accordance with Annex 2; the period that may have elapsed since vaccination is specified in Annex 2;
+- b. persons who prove that they were infected with Sars-CoV-2 and have recovered; period that may have elapsed since recovery is specified in Annex 2;
+- c.
+
+  persons who can produce a negative result to one of the following COVID-19 tests:
+
+  - 1\. a molecular-biological analysis for Sars-CoV-2 carried out no more than 72 hours before the start of the event,
+  - 2\. a Sars-CoV-2 rapid test according to the diagnostic standard carried out no more than 24 hours before the start of the event.
+
+<sup>2</sup> In the case of outdoor events that are held over longer routes or on routes in the open air, the cantons may permit local exceptions to the requirements under paragraph 1 if no control on access to the event is possible because of local conditions or circumstances.
+
+<sup>3</sup> The operation of restaurant-type establishments is governed by Article 5*a*.
+
+<sup>4</sup> The requirement to wear a face mask is governed by Article 3*b*. In addition to the exceptions under Article 3*b* paragraph 2, visitors to outdoor events are exempted from the requirement when seated.
+
+<sup>5</sup> In the case of sporting activities under Articles 6*e* paragraph 1 letter b and cultural activities under Article 6*f* paragraphs 2 letter c and 3, the competent licensing authority may permit exceptions to the restrictions if the precautionary measures plan contains specific protection measures.
+
+<sup>6</sup> The protection measures are specified in more detail in Annex 3.
+
+[^6b-1]: Inserted by No I of the O of 2. Sept 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>bis</sup>
+
+**Special Provisions for large-scale events: Additional requirements for events between 1 July and 19 August 2021**[^6bbis-1]
+
+<sup>1</sup>
+
+For large-scale events held between 1 July and 19 August 2021, in addition to the requirements under Article 6*b*, the following applies:
+
+- a. The maximum number of persons in attendance, whether visitors or participants, shall be 3000.
+- b. In the case of public outdoor events, the maximum number shall be 5000 provided all the audience or spectators are seated.
+- c. In the case of events that are held on longer routes or on routes in the open air, the competent licensing authority may permit exceptions to the maximum number of persons in accordance with letters a and b if it is not possible to restrict access because of local conditions or circumstances.
+- d. Persons in the spectator area must be seated; exceptions are possible for spectator areas along routes or in open areas and at outdoor events that are normally held without seating.
+- e. The competent licensing authority shall stipulate the maximum number of seats that may be occupied in any spectator area, taking account of the local conditions or circumstances and the precautionary measures plan submitted. This value may not exceed two thirds of capacity where spectators are seated and half of capacity where spectators are standing.
+- f. The consumption of food and drinks outside of restaurant-type establishments is only permitted at the allocated seat.
+
+<sup>2</sup> The additional requirements under Annex 3 number 2 also apply.
+
+[^6bbis-1]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force from 27 May 2021 to 19 Aug. 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>ter</sup>
+
+**Special provisions for large-scale events: Additional requirements for events from 20 August 2021**[^6bter-1]
+
+For large-scale events held on or after 20 August 2021, the following applies in addition to the requirements under Article 6*b*:
+
+- a. The maximum number of persons, whether visitors or participants, shall be 10 000.
+- b. In the case of events that are held on longer routes or on routes in the open air, the competent licensing authority may permit exceptions to the maximum number of persons in accordance with letters a and b if it is not possible to restrict access because of local conditions or circumstances.
+- c. At public outdoor events where all the audience or spectators are seated, no limit applies to the number of persons.
+
+[^6bter-1]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>quater</sup>
+
+**Pilot projects for holding large-scale events**[^6bquater-1]
+
+<sup>1</sup> In order to test models for the safe and practical organisation of large-scale events, the competent cantonal authority may authorise related pilot projects to be carried out between 1 June and 30 June 2021.
+
+<sup>2</sup> Each canton may authorise a maximum of five pilot projects, taking account of the various types of event in doing so.
+
+<sup>3</sup> Pilot projects must involve a minimum of 300 persons, with a maximum of 600 indoors and a maximum of 1000 outdoors, whether visitors or participants. In addition, the protection measures and requirements in accordance with Articles 6*b* and 6*b*<sup>bis</sup> apply.
+
+<sup>4</sup>
+
+Authorisation may only be issued if:
+
+- a. the requirements in Article 6*a* paragraph 2 letters a and b are met;
+- b. the organiser submits a precautionary measures plan in accordance with Article 4 and Annex 3 Sections 1 and 2 that is based on an analysis of the risks of the event concerned and which aims to produce findings on the practical aspects of holding similar large-scale events;
+- c. the organiser plans for an evaluation to be made of holding the event.
+
+<sup>5</sup>
+
+The evaluation must provide information on the following issues in particular in order to achieve the objective set out in paragraph 1:
+
+- a. experiences relating to entry checks, in particular relating to its organisation, testing procedures on site and their use, the number of persons who had to be denied entry and the reasons for doing so, and options for improvement;
+- b. experiences in implementing the precautionary measures plan, in particular with regard to managing movements of large numbers of persons, compliance by visitors and participants with the requirements, the practicality of the requirements, and options for improvement.
+
+<sup>6</sup> The organiser shall submit the results of the evaluation within ten days of the conclusion of the event to the competent licensing authority and, enclosing the cantonal authorisation and the precautionary measures plan, to the FOPH.
+
+<sup>7</sup> Article 6*a* paragraph 5 applies to revoking authorisation or issuing additional restrictions.
+
+<sup>8</sup> The canton shall notify the FOPH of authorisations that have been granted or revoked.
+
+[^6bquater-1]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force from 27 May 2021 to 30 June 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 6b<sup>quinquies</sup>
+
+**Special provisions for large-scale trade and consumer fairs**[^6bquinquies-1]
+
+<sup>1</sup> Trade and consumer fairs with more than 1000 visitors are permitted from 1 July 2021 provided the competent cantonal authority grants the organiser authorisation. The authorisation requirements and the requirements for revoking authorisation are set out in Article 6*a* paragraphs 2, 4 and 5.
+
+<sup>2</sup>
+
+The following also applies to trade and consumer fairs:
+
+- a. If entry is restricted to persons who have been vaccinated or who have recovered and persons with a negative test result under Article 6*b* paragraph 1, the number of persons in attendance must be limited so that a minimum area in accordance with Annex 3 number 3.2 is available for each person; Annex 3 number 3.1 applies to conducting checks.
+- b. If the entry is also open to persons who do not meet the requirements of Article 6*b* paragraph 1, the number of persons in attendance shall be limited in accordance with Annex 3 number 3.3.
+- c. The requirement to wear a face mask is governed by Article 3*b*.
+
+[^6bquinquies-1]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 6c
 
@@ -402,8 +544,11 @@ Restrictions on numbers do not apply to the following events:
 
 <sup>2</sup> Articles 4–6 do not apply to political and civil society demonstrations and to collecting signatures. Participants must wear face masks; however, the exemptions under Article 3*b* paragraph 2 letters a and b apply.
 
+<sup>3</sup> Articles 6*a*–6*b*<sup>quater</sup> do not apply to events in accordance with paragraphs 1 and 2.[^6c-3]
+
 [^6c-1]: Inserted by No I of the O of 2 Sept. 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6c-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^6c-3]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 6d
 
@@ -514,7 +659,7 @@ Activities of organisations and institutions involved in public child and youth 
 
 <sup>1</sup>
 
-The responsible cantonal authority may authorise a relaxation of the requirements under Article 4 paragraphs 2–4 and Articles 5–6*f* provided:[^7-1]
+The responsible cantonal authority may authorise a relaxation of the requirements under Article 4 paragraphs 2–4 and Articles 6 and 6*c*–6*f* provided:[^7-1]
 
 - a. overriding public interests so require;
 - [tab] a<sup>bis</sup>.[^7-2]the epidemiological situation in the canton or the region concerned permits this based on the indicators specified in Article 8 paragraph 1 letter a; and
@@ -524,7 +669,7 @@ The responsible cantonal authority may authorise a relaxation of the requirement
 
 <sup>6</sup> ...[^7-5]
 
-[^7-1]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^7-1]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^7-2]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^7-3]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^7-4]: Inserted by No I of the O of 11 Dec. 2020 (Restrictions on Events and Opening Hours of Restaurants and other publicly accessible Businesses and Establishments) ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Repealed by No 1 of the O of 6 Jan. 2021 (Repeal of relaxation of requirements by the cantons under certain circumstances), with effect from 9 Jan. 2021 ([AS 2021 2](https://fedlex.data.admin.ch/eli/oc/2021/2)).
@@ -645,23 +790,37 @@ The cantons are required to report the following to the Coordinated Medical Serv
 
 Any person who commits any of the following acts shall be liable to a fine:
 
-- a.[^13-2] as an operator or organiser, wilfully or negligently failing to comply with the requirements imposed in Article 4 paragraphs 1 and 2 or in Articles 5*a*, 5*d* paragraph 1, 6 paragraph 1<sup>bis</sup> letters a–d and 6*d*–6*g*;
+- a.[^13-2] as an operator or organiser, wilfully or negligently failing to comply with the requirements imposed in Article 4 paragraphs 1 and 2 or in Articles 5*a*, 5*d* paragraph 1, 6 paragraph 1<sup>bis</sup> letters b–d, 6*b* paragraph 1, 6*b*<sup>bis</sup> paragraph 1 letter e, 6*b*<sup>quater</sup> paragraphs 3 and 6, 6*b*<sup>quinquies</sup> paragraph 2 letters a and b and 6*d*–6*g*;
 - b. as an operator or organiser, wilfully or negligently processing contact details recorded pursuant to Article 5 for other purposes in contravention of Article 5 paragraph 3 or retaining such details for longer than 14 days after the person or persons concerned participated in the event or visited the establishment or business;
 - c.[^13-3] ...
-- d.[^13-4] wilfully holding an event involving more persons than are permitted under Article 6 paragraphs 1, 1<sup>bis</sup> or 2, or wilfully participating in such an event;
-- e.[^13-5] wilfully holding a trade fair the holding of which is prohibited by Article 6 paragraph 3;
-- f.[^13-6] wilfully or negligently failing to wear a face mask in contravention of Article 3*a* or 3*b* paragraph 1 in public transport vehicles, publicly accessible indoor and outdoor areas of businesses and establishments, including markets, in waiting areas for trains, buses trams and cableways, and in railway stations, airports and other public transport access areas, unless an exception pursuant to Article 3*a* paragraph 1 or Article 3*b* paragraph 2 and 2<sup>bis</sup> applies;
+- d.[^13-4] wilfully holding an event or a trade or consumer fair involving more persons than are permitted under Article 6 paragraph 1, 1<sup>bis</sup> letter a or 2, 6*b*<sup>bis</sup> paragraph 1 letter a or b, 6*b*<sup>ter</sup> letter a, 6*b*<sup>quater</sup> paragraph 3 or 6*b*<sup>quinquies</sup> paragraph 2 letter a or b, or wilfully participating in an event under Article 6 paragraph 1, 1<sup>bis</sup> or 2 involving more persons than are permitted;
+- e.[^13-5] wilfully holding a trade fair the holding of which is prohibited by Article 6 paragraph 1<sup>ter</sup>;
+- e<sup>bis</sup>.[^13-6] wilfully holding a large-scale event under Article 6*a* paragraph 1 or a trade or consumer fair under Article 6*b*<sup>quinquies</sup> paragraph 1 without the required authorisation or in derogation from the approved precautionary measures plan;
+- f.[^13-7] wilfully or negligently failing to wear a face mask in contravention of Article 3*a* or 3*b* paragraph 1 in public transport vehicles, publicly accessible indoor and outdoor areas of businesses and establishments, including markets, trade fairs or large-scale events in waiting areas for trains, buses trams and cableways, and in railway stations, airports and other public transport access areas, unless an exception pursuant to Article 3*a* paragraph 1, 3*b* paragraph 2 or 2<sup>bis</sup> or 6*b* paragraph 4 second sentence applies;
 - g. wilfully contravening the ban on gatherings of people in public areas in Article 3*c* paragraph 1 or pursuant to a stricter provision of cantonal law;
-- h.[^13-7] as a guest of a restaurant or bar or as a person attending an event, wilfully contravening the requirement to be seated in Article 5*a* paragraph 3 letter b or Article 6 paragraph 1<sup>bis</sup> letter c;
+- h.[^13-8] as a guest of a restaurant or bar or as a person attending an event, wilfully contravening the requirement to be seated in Articles 5*a* paragraph 2 letter b, 6 paragraph 1<sup>bis</sup> letter c or 6*b*<sup>bis</sup> paragraph 1 letter d;
 - i. wilfully or negligently failing to wear a face mask at a political or civil society demonstration or when collecting signatures, unless an exception pursuant to Article 6*c* paragraph 2 second sentence applies.
 
 [^13-1]: Amended by No I of the O of 27 Jan. 2021 (Additional Criminal Provisions and Introduction of the Fixed Penalty Procedure), in force from 1 Feb. 2021 to 31 Dec. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
-[^13-2]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-2]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^13-3]: Repealed by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), with effect from 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^13-4]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)).
+[^13-4]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^13-5]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-6]: Amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^13-7]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^13-6]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^13-7]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^13-8]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+## Section 6*a***** Updating the Annexes
+
+[^sec6a-1]
+
+[^sec6a-1]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+#### Art. 13a
+
+<sup>1</sup> The Federal Department of Home Affairs shall update Annexes 1–3 in accordance with the latest scientific knowledge.
+
+<sup>2</sup> It shall update Annex 1 in consultation with the Federal Department of Economic Affairs, Education and Research and Annex 2 in consultation with the Federal Commission for Vaccination.
 
 ## Section 7 Final Provisions
 
@@ -825,4 +984,111 @@ Annex 1*[^t-1]*
 
 Annex 2*[^t-2]*
 
-[^t-2]: Inserted by No II of the O of 13 Jan. 2021 (Further Tightening of Measures) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Repealed by No II para. 2 of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), with effect from 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+(Art. 6*b* para. 1 let. a and b and Art. 13*a*)
+
+## Requirements for the entry of persons who have been vaccinated or who have recovered to large-scale events
+
+[^t-2]: Inserted by No II of the O of 13. Jan. 2021 (Further Tightening of Measures) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Amended by No II of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+### 1 Persons who have been vaccinated
+
+- 1\.1
+
+  Persons who are permitted to attend large-scale events in accordance with Article *6b* paragraph 1 letter a are persons who have been vaccinated in terms of this Ordinance are persons, who have been vaccinated with a vaccine that:
+
+  - a. is authorised in Switzerland and which has been administered in full in accordance with the FOPH recommendations;
+  - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
+
+- 1\.2 The period during which vaccinated are permitted to attend large-scale events shall amount to 6 months from the date of vaccination in full.
+
+### 2 Persons who have recovered
+
+The period during which persons who have recovered in accordance with Article 6*b* paragraph 1 letter b are permitted to attend large-scale events amounts to 6 months from the 11th day following confirmation of the infection.
+
+Annex 3*[^t-3]*
+
+(Art. 6*b* para. 6, 6*b*<sup>bis</sup> para. 2, 6*b*<sup>quater</sup> para. 4 let. b and 6*b*<sup>quinquies</sup> para. 2 let. a and b)
+
+## Requirements for large-scale events and large-scale trade and consumer fairs
+
+[^t-3]: Inserted by No II of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+
+### 1 General requirements for large-scale events
+
+- 1\.1 The organiser must check the right of entry under Article 6*b* paragraph 1 on the basis of a COVID-19 certificate under Article 6*a* of the COVID-19 Act of 25 September 2020[^annex3-lvlu1-lvl1-1].
+- 1\.2
+
+  If the certificate mentioned in Number 1.1 has not yet been introduced, the right of entry must be checked on the basis of adequate proof. This must be a form of proof that is currently customary, which is checked to confirm that it is genuine. In addition to the surname, forename and date of birth of the person concerned, it must include the following information:
+
+  - a.
+
+    for proof of vaccination:
+
+    - – the date of vaccination,
+    - – the vaccine used,
+    - – the name and address of the vaccination centre;
+
+  - b.
+
+    for proof of an earlier infection and recovery:
+
+    - – confirmation of the infection including the name and address of the confirming body (test centre, doctor, pharmacy, hospital), or
+    - – confirmation of isolation being lifted or confirmation of recovery from a doctor;
+
+  - c.
+
+    for proof of a negative test result:
+
+    - – the date and time the test sample was taken,
+    - – the form of test,
+    - – the test result itself,
+    - – the name and address of the test centre.
+
+- 1\.3 The organiser must verify the identity of the persons on entry based on an official identity document or another suitable official document.
+- 1\.4
+
+  The organiser may only process personal data as part of the entry check in sections 1.1–1.3 if this is required in order to conduct the check. In such an event, the following applies:
+
+  - a. The organiser must inform the persons concerned at an early stage about the data processing.
+  - b. The data may not be processed for any other purposes.
+  - c. The data may only be retained if this is necessary in order to carry out the entry check. In such an event, the data must be erased twelve hours at the latest after the conclusion of the event.
+
+- 1\.5
+
+  The precautionary measures plan shall contain measures that effectively counter the risks of the large-scale event identified in the risk analysis, in particular in relation to:
+
+  - a. the type of event;
+  - b. the local and infrastructure-related features of the venue;
+  - c. the orderly and uninterrupted conduct of entry checks, including the training of the staff;
+  - d. ensuring compliance with and monitoring the wearing of face masks in access and recreation areas and in sanitary facilities at the venue and in the audience area;
+  - e. the procedure to be followed in the event of suspected and actual cases of infection among visitors, participants and staff in contact with the public;
+  - f. hygiene, in particular the provision of disinfectants, regular cleaning, and ventilation;
+  - g. the information given to visitors and participants about the applicable measures relating to hygiene and behaviour, in particular about the procedure in the event of an infection coming to light after the event;
+  - h. training the staff with regard to the applicable measures, recognising COVID-19 symptoms and the procedure in the event of a suspected infection among the audience;
+  - i. the procedure in the event of visitors or participants failing to comply with the requirements of the precautionary measures plan.
+
+- 1\.6 In addition, the requirements in Annex 1 Sections 1 and 2 apply.
+
+[^annex3-lvlu1-lvl1-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
+
+### 2 Additional requirements for large-scale events from 1 July until 19 August 2021
+
+- 2\.1 General requirements
+  - a. Movements of persons in the access area outside the venue must be regulated in consultation with the local security forces and transport operators.
+  - b. Movements of persons, in particular in access and recreation areas and in sanitary facilities must be organised in terms of the space and time available so that the required distances can be maintained wherever possible.
+  - c. The seating and standing areas must be occupied in such a manner that required distances can be maintained wherever possible.
+
+- 2\.2
+
+  The precautionary measures plan must contain measures in addition to those specified in number 1.5 in relation to:
+
+  - a. the anticipated behaviour of visitors and the participants;
+  - b. the areas in which distancing will probably not be complied with or gatherings of people are expected;
+  - c. the outward and return journeys of visitors and participants (public transport, private vehicles, restaurants and cafés likely to be visited before or after the event);
+  - d. managing the behaviour of the participants.
+
+### 3 Requirements for large-scale trade and consumer fairs under Article 6*b*<sup>quinquies</sup>
+
+- 3\.1 Sections 1.1–1.4 apply to entry checks.
+- 3\.2 In the case of trade and consumer fairs with restricted entry in accordance with Article 6*b*<sup>quinquies</sup> paragraph 2 letter a, entry must be restricted so that at least 4 square metres of space is available for each person.
+- 3\.3 In the case of trade and consumer fairs under Article 6*b*<sup>quinquies</sup> paragraph 2 letter b, entry must be restricted so that at least 10 square metres of space is available for each person.
