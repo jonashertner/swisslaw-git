@@ -3,10 +3,11 @@ canton: ZH
 number: "415.112"
 title: Finanzreglement der Universität Zürich
 language: de
-nachtrag: "67"
-valid_until: 2021-05-26
+version: "2021-05-01"
+nachtrag: "113"
+valid_until: 2025-01-01
 adopted: 2009-11-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_112-2009_11_16-2010_01_01-067.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_112-2009_11_16-2010_01_01-113.html"
 text: pdf
 ---
 
@@ -36,11 +37,21 @@ Für die Haushaltsführung der Universität gelten die Vorschriften des Gesetzes
 
 Universitätsrat und Universitätsleitung können im Rahmen des Gesetzes ihre Zuständigkeiten ganz oder teilweise an ihnen nachgeordnete Stellen delegieren.
 
-#### § 3
+**Ausführungsreglement**
 
-**Genehmigung**
+§ 3.[^2-1] <sup>1</sup> Die Universitätsleitung erlässt ein Reglement mit Ausführungsvorschriften zum Finanzrecht der Universität. Dieses regelt insbesondere:
 
-Der Universitätsrat genehmigt die durch die Universitätsleitung erlassenden Regelungen, soweit das Finanzreglement nichts anderes vorsieht.
+- a. die Planung und Berichterstattung,
+
+- b. die Finanzkompetenzen,
+
+- c. die Verwertung von geistigem Eigentum,
+
+- d. die Beteiligungen.
+
+<sup>2</sup> Das Ausführungsreglement untersteht der Genehmigung durch den Universitätsrat.
+
+[^2-1]: Fassung gemäss URB vom 21. Januar 2021 (OS 76, 174; ABl 2021-03-05). In Kraft seit 1. Mai 2021.
 
 ### 2. Abschnitt: Rechnungswesen
 
@@ -60,17 +71,13 @@ Der Universitätsrat genehmigt die durch die Universitätsleitung erlassenden Re
 
 Die Universität kann in ihrer Buchhaltung einen eigenen Kontenplan bewirtschaften, der in den kantonalen Kontenplan überführbar sein muss.
 
-#### § 6
+**1**
+
+- 1\. 7. 21 - 113 § 6. <sup>1</sup> Die Universität führt für ihre Mobilien eine Anlagenbuchhaltung und eine Investitionsrechnung.
 
 **Anlagevermögen**
 
-<sup>1</sup> Die Universität führt für ihre Mobilien eine Anlagenbuchhaltung und eine Investitionsrechnung.
-
 <sup>2</sup> Investitionen bis Fr. 10 000 werden der Erfolgsrechnung belastet.
-
-**1**
-
-- 1\. 1. 10 - 67
 
 ### B. Kostenrechnung
 
@@ -148,7 +155,7 @@ Die Einnahmen der Universität setzen sich insbesondere zusammen aus:
 
 #### § 13
 
-**Forschungs- und Lehrbeiträge, Zuwendungen undErbschaften**
+**Forschungs-und Lehrbeiträge, Zuwendungen undErbschaften**
 
 <sup>1</sup> Als Forschungs- und Lehrbeiträge gelten projektbezogene Einnahmen zur Förderung der universitären Forschung beziehungsweise Lehre.
 
@@ -156,29 +163,31 @@ Die Einnahmen der Universität setzen sich insbesondere zusammen aus:
 
 <sup>3</sup> Erbschaften können von der Universität als eingesetzter Erbin angenommen werden.
 
+**3**
+
+- 1\. 7. 21 - 113
+
 <sup>4</sup> Forschungs- und Lehrbeiträge, Zuwendungen und Erbschaften sowie Einnahmen aus Forschungskooperationen werden in der separaten Rechnung geführt. Eine allfällige Verzinsung erfolgt gemäss § 28 der Finanzcontrollingverordnung vom 5. März 2008 (FCV)[^13-1] oder gestützt auf eine Vereinbarung zwischen Universität und Finanzdirektion des Kantons Zürich.
 
 <sup>5</sup> Die Universitätsleitung regelt die Einzelheiten.
 
-**3**
-
-- 1\. 1. 10 - 67
-
-[^13-1]: LS 611.2. 1. 1. 10 - 67 7
+[^13-1]: LS 611.2.
 
 ### B. Zuständigkeiten, Kalkulation und Eigentumsverhältnisse
 
-#### § 14
-
 **Genehmigungs- und Meldepflicht**
 
-<sup>1</sup> Der Universitätsrat genehmigt die Rechtsgeschäfte, die jährliche Einnahmen von mehr als Fr. 1 000 000 zur Folge haben oder besondere Bedingungen oder Auflagen vorsehen.
+§ 14.[^hBZuständigkeiten-1] <sup>1</sup> Der Universitätsrat genehmigt Rechtsgeschäfte a. mit Einnahmen von insgesamt mehr als Fr. 3 000 000,
+
+- b. mit besonderen Bedingungen und Auflagen.
 
 <sup>2</sup> Die Universitätsleitung genehmigt die übrigen Rechtsgeschäfte, die den Einnahmen gemäss § 10 lit. d–f zugrunde liegen.
 
-<sup>3</sup> Forschungsbeiträge von Institutionen der Forschungsförderung, die vom Universitätsrat anerkannt sind und keine Rechte an den Forschungsergebnissen beanspruchen, unterliegen nicht der Genehmigungspflicht. Sie sind bei Einnahmen von jährlich mehr als Fr. 1 000 000 dem Universitätsrat zur Kenntnisnahme zu unterbreiten.
+<sup>3</sup> Forschungsbeiträge von Institutionen der Forschungsförderung, die vom Universitätsrat anerkannt sind und keine Rechte an den Forschungsergebnissen beanspruchen, unterstehen nicht der Genehmigungspflicht. Sie sind bei Einnahmen von insgesamt mehr als Fr. 3 000 000 dem Universitätsrat zur Kenntnisnahme zu unterbreiten.
 
 <sup>4</sup> Betrifft die Zuwendung oder Erbschaft eine Liegenschaft, so holt die Universität vor deren Annahme eine Stellungnahme der Finanzdirektion ein.
+
+[^hBZuständigkeiten-1]: Fassung gemäss URB vom 21. Januar 2021 (OS 76, 174; ABl 2021-03-05). In Kraft seit 1. Mai 2021.
 
 #### § 15
 
@@ -222,11 +231,11 @@ Die Einnahmen der Universität setzen sich insbesondere zusammen aus:
 
 **Ausgabenkompetenzen**
 
-<sup>1</sup> Die Ausgabenkompetenz des Universitätsrats entspricht jener des Regierungsrates, die der Universitätsleitung jener der Direktionen.
+<sup>1</sup> Die Ausgabenkompetenz des Universitätsrates entspricht jener des Regierungsrates, die der Universitätsleitung jener der Direktionen.
 
 <sup>2</sup> Die Ausgabenkompetenz der Universitätsleitung richtet sich nach § 39 FCV[^17-1].
 
-[^17-1]: LS 611.2. 1. 1. 10 - 67 7
+[^17-1]: LS 611.2.
 
 ### B. Beteiligungen
 
@@ -256,6 +265,10 @@ Beteiligungen der Universität an juristischen Personen des öffentlichen und pr
 
 <sup>2</sup> Die Universitätsleitung regelt die Einzelheiten.
 
+**5**
+
+- 1\. 7. 21 - 113
+
 ### 5. Abschnitt: Gewinnverwendung und Verlustdeckung
 
 ### A. Zuständigkeit
@@ -267,10 +280,6 @@ Beteiligungen der Universität an juristischen Personen des öffentlichen und pr
 <sup>1</sup> Der Universitätsrat legt dem Kantonsrat mit dem Geschäftsbericht einen Antrag auf Verwendung des Gewinns oder zur Deckung des Verlustes der konsolidierten Rechnung vor.
 
 <sup>2</sup> Der Gewinn oder Verlust beeinflusst zweckgebundene und freie Reserven der Universität.
-
-**5**
-
-- 1\. 1. 10 - 67
 
 <sup>3</sup> Als zweckgebundene Reserven gelten Mittel, die nur für bestimmte Projekte oder Ziele ausgegeben werden können.
 
@@ -327,6 +336,10 @@ Bis zum Erlass neuer Regelungen gelten die bisherigen Weisungen für die Haushal
 **Nicht kostendeckende Dienstleistungen und Weiterbildungsangebote in der separaten Rechnung**
 
 Einnahmen sowie allfällige Überschüsse und Verluste aus laufenden Dienstleistungen und Weiterbildungsangeboten, die in der separaten Rechnung geführt, aber nicht kostendeckend entschädigt werden, können bis zum vertraglich festgelegten Projektende oder bis Ende 2011 von der Projektleitung analog zu den Regelungen gemäss § 11 Abs. 3 und § 23 gehandhabt werden. Ab 2012 sind diese Einnahmen in der Universitätsrechnung abzubilden.
+
+**7**
+
+- 1\. 7. 21 - 113
 
 ### B. Inkrafttreten
 
