@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2021-05-13
+version: 2021-05-27
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210513/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210513-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210513/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210527/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210527-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210527/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210513/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 13 maggio 2021)
+del 16 gennaio 2019 (Stato 27 maggio 2021) (Stato 27 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -597,7 +597,7 @@ Allegato 2*[^t-2]*
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. dell’O del 27 gen. 2021, in vigore fino al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), dall’all. 2 n. 1 dell’O del COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori) ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), dal n. III delle O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)), del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive) ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)) e del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti), in vigore dal 13. mag. 2021 ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. dell’O del 27 gen. 2021, in vigore fino al 31 dic. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), dall’all. 2 n. 1 dell’O del COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori) ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), dai n. III delle O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)), del 14 apr. 2021 (Allentamenti: istituti medico-sociali, strutture della ristorazione, manifestazioni, luoghi chiusi di strutture culturali, ricreative, per il tempo libero e sportive) ([RU 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)), del 12 mag. 2021 (Piscine all’aperto, deroghe per le persone guarite, località di sport invernali e comprensori sciistici, dati di contatti) ([RU 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)) e del 26 mag. 2021 (Grandi manifestazioni, grandi fiere specialistiche e grandi fiere aperte al pubblico e progetti pilota per manifestazioni fino a 1000 persone), in vigore dal 27 mag. 2021 ([RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -729,15 +729,11 @@ Allegato 2*[^t-2]*
 <tr><td>XVI. Ordinanza COVID-19 situazione particolare del 19 giugno 2020**[^annex2-lvlu1-lvlu1-25]**</td><td>[tab]</td></tr>
 <tr><td>[tab] 16001. Svolgimento di una manifestazione privata non consentita (art. 13 lett. d in combinato disposto con l’art. 6 cpv. 2 ordinanza COVID-19 situazione particolare)</td><td>[tab] 200</td></tr>
 <tr><td>16002. Partecipazione a una manifestazione non consentita (art. 13 lett. d in combinato disposto con l’art. 6 cpv. 1, 1<sup>bis</sup> o 2 dell’ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
-<tr><td>16003. Omissione di portare una mascherina facciale sui veicoli del trasporto pubblico, in luoghi chiusi e aree esterne accessibili al pubblico di strutture, compresi i mercati, nonché in aree di attesa delle ferrovie, delle linee di autobus e tram e degli impianti a fune, in stazioni ferroviarie, aeroporti o in altri settori di accesso dei trasporti pubblici (art. 13 lett. f in combinato disposto con l’art. 3*a* cpv. 1 e 3*b* cpv. 1, 2 e 2<sup>bis</sup> dell’ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
+<tr><td>16003. Omissione di portare una mascherina facciale sui veicoli del trasporto pubblico, in luoghi chiusi e aree esterne accessibili al pubblico di strutture, compresi i mercati, le fiere e le grandi manifestazioni nonché in aree di attesa delle ferrovie, delle linee di autobus e tram e degli impianti a fune, in stazioni ferroviarie, aeroporti o in altri settori di accesso dei trasporti pubblici (art. 13 lett. f in combinato disposto con l’art. 3*a* cpv. 1, 3*b* cpv. 1, 2 e 2<sup>bis</sup> e l’art. 6*b* cpv. 4 ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
 <tr><td>16004. Partecipazione a un assembramento nello spazio pubblico con più di 15 persone o con un numero di persone superiore a quello massimo stabilito a livello cantonale (art. 13 lett. g in combinato disposto con l’art. 3*c* cpv. 1 e l’art. 8 cpv. 1 ordinanza COVID-19 situazione particolare)</td><td>[tab] 50</td></tr>
 <tr><td>16005. Violazione, in qualità di ospite, dell’obbligo di stare seduti nelle strutture della ristorazione e nei bar (art. 13 lett. h in combinato disposto con l’art. 5*a* cpv. 3 lett. b dell’ordinanza COVID-19 situazione particolare)</td><td>100</td></tr>
 <tr><td>16006. Omissione di portare una mascherina facciale a una manifestazione politica o a una raccolta di firme (art. 13 lett. i in combinato disposto con l’art. 6*c* cpv. 2 ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
-<tr><td>16007. Violazione, in qualità di visitatore, dell’obbligo di stare seduti alle manifestazioni in presenza di pubblico (art. 13 lett. h in combinato disposto con l’art. 6 cpv. 1<sup>bis</sup> lett. c dell’ordinanza COVID-19 situazione particolare)</td><td>100</td></tr>
-</table>
-
-<table>
-<tr><th></th><th>Fr.</th></tr>
+<tr><td>16007. Violazione, in qualità di visitatore, dell’obbligo di stare seduti alle manifestazioni in presenza di pubblico o alle grandi manifestazioni (art. 13 lett. h in combinato disposto con l’art. 6 cpv. 1<sup>bis</sup> lett. c e 6*b*<sup>bis</sup> lett. d ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
 <tr><td>**XVII.** **Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-26] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori del 27 gennaio 2021**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
 <tr><td>17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 7 cpv. 1 dell’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)</td><td>[tab] 200</td></tr>
 <tr><td>[tab] 17002. Dati di contatto errati o mancanti all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 3 cpv. 1 e 2 dell’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)</td><td>[tab] 100</td></tr>
