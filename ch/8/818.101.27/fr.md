@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-05-20
+version: 2021-05-27
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210520/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210520-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210520/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210527/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210527-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210527/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210520/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 20 mai 2021)
+du 27 janvier 2021 (Etat le 27 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -303,7 +303,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 mai 2021, en vigueur depuis le 20 mai 2021 ([RO 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 mai 2021 ([RO 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Mise à jour par le ch. I de l’O du DFI du 27 mai 2021, en vigueur depuis le 27 mai 2021 ([RO 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones (art. 2, al. 1, let. b à d)
@@ -377,6 +377,8 @@ Canada
 Inde
 
 Népal
+
+Royaume-Uni
 
 ### 3. Zones des pays voisins (art. 2, al. 1, let. b à d, et al. 4)
 
