@@ -4,10 +4,10 @@ number: "182.21"
 title: Geschäftsordnung des Synodalrates der Römisch-katholischen Körperschaft des Kantons Zürich (Geschäftsordnung Synodalrat; GeschO SyR)
 short: GeschO SyR
 language: de
-nachtrag: "106"
-valid_until: 2021-05-26
+version: "2021-05-01"
+nachtrag: "113"
 adopted: 2019-07-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_21-2019_07_01-2019_07_01-106.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_21-2019_07_01-2019_07_01-113.html"
 text: pdf
 ---
 
@@ -59,7 +59,7 @@ Der Synodalrat beschliesst:
 
 **1**
 
-- 1\. 10. 19 - 106
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Anlässlich der Konstituierung beschliesst der Synodalrat über die Zuteilung der Ressorts und ihrer Aufgaben auf die einzelnen Mitglieder als deren Ressortleiterinnen und Ressortleiter und bestimmt die Stellvertretungen.
 
@@ -77,13 +77,11 @@ Der Synodalrat beschliesst:
 
 <sup>3</sup> Ein Funktionendiagramm zeigt die Zuständigkeiten und Aufgaben von Personen und Gremien im Rahmen der internen Zusammenarbeit mit dem Generalvikariat (Anhang 3).
 
-<sup>4</sup> Über Änderungen in den Zuständigkeiten gemäss den Organigrammen und dem Funktionendiagramm (Anhänge 1–3) entscheidet der Synodalrat auf Antrag einer Ressortleiterin oder eines Ressortleiters halbjährlich.
+<sup>4</sup> Über Änderungen in den Zuständigkeiten gemäss den Organigrammen und dem Funktionendiagramm (Anhänge 1 bis 3) entscheidet der Synodalrat auf Antrag einer Ressortleiterin oder eines Ressortleiters.[^3-1]
 
-#### § 4
+**Strategische, fachliche und personelle Führung in den Bereichen**
 
-**Strategische und operative Führung in den Bereichen**
-
-<sup>1</sup> Die strategische Führung wird in jedem Bereich von einem Leitungsgremium wahrgenommen, dessen Vorsitz jeweils die zuständige Ressortleiterin oder der zuständige Ressortleiter innehat. Im Übrigen konstituiert sich das Leitungsgremium selbst. Die operative Führung in den Bereichen obliegt den Bereichsleitenden des Synodalrates oder des Generalvikariats.
+§ 4. <sup>1</sup> Die strategische Führung wird in jedem Bereich von einem Leitungsgremium wahrgenommen, dessen Vorsitz jeweils die zuständige Ressortleiterin oder der zuständige Ressortleiter innehat. Im Übrigen konstituiert sich das Leitungsgremium selbst. Die fachliche und personelle Führung in den Bereichen obliegt den Bereichsleitenden des Synodalrates oder des Generalvikariats.[^3-1]
 
 \*Die Anhänge 1–3 werden nicht in die Zürcher Loseblattsammlung (LS) aufgenommen. Sie sind erhältlich bei: Katholische Kirche im Kanton Zürich, Synodalrat, Hirschengraben 66, 8001 Zürich, Telefon 044 266 12 12, E-Mail synodalrat@zhkath.ch
 
@@ -94,6 +92,8 @@ Der Synodalrat beschliesst:
 <sup>4</sup> In den Bereichen mit Fachverantwortung beim Synodalrat nehmen die Ressortleiterinnen und Ressortleiter und die Bereichsleitenden des Synodalrates die fachliche und personelle Führung im Leitungsgremium wahr. Der Generalvikar oder die Bereichsleitenden des Generalvikariats nehmen nur bei Bedarf im Leitungsgremium Einsitz. Die Ressortleiterinnen und Ressortleiter bestimmen, ob ein solcher Bedarf besteht.
 
 <sup>5</sup> Die Führung betreffend Organisation, Finanzen und Administration wird in allen Bereichen von den Ressortleiterinnen und Ressortleitern sowie den Bereichsleitenden des Synodalrates wahrgenommen.
+
+[^3-1]: Fassung gemäss B vom 8. März 2021 (OS 76, 172; ABl 2021-03-19). In Kraft seit 1. Mai 2021. 1. 7. 21 - 113 11
 
 #### § 5
 
@@ -113,7 +113,7 @@ Die Mitglieder des Synodalrates geben der Präsidentin oder dem Präsidenten zuh
 
 **3**
 
-- 1\. 10. 19 - 106 § 7. Die Mitglieder des Synodalrates teilen ihren vorzeitigen Rücktritt während einer Amtsdauer spätestens sechs Monate vor dem Rücktrittstermin der Präsidentin oder dem Präsidenten zuhanden der Synode mit.
+- 1\. 7. 21 - 113 § 7. Die Mitglieder des Synodalrates teilen ihren vorzeitigen Rücktritt während einer Amtsdauer spätestens sechs Monate vor dem Rücktrittstermin der Präsidentin oder dem Präsidenten zuhanden der Synode mit.
 
 **Vorzeitiger Amtsrücktritt**
 
@@ -207,7 +207,7 @@ Der Synodalrat versammelt sich auf Einladung seiner Präsidentin oder seines Pr�
 
 **5**
 
-- 1\. 10. 19 - 106
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Bei den A-Geschäften handelt es sich insbesondere um Geschäfte von grosser Tragweite mit hohem Ermessensspielraum sowie um alle im Budget nicht enthaltenen neuen einmaligen Ausgaben der Kostenstellen 8651 (nicht budgetierte, einmalige Beiträge Synodalrat) und 8652 (nicht budgetierte, einmalige Beiträge Synode).
 
@@ -303,7 +303,7 @@ Eine Minderheit des Synodalrates ist berechtigt, ihre Stimmabgabe unter Anführu
 
 **7**
 
-- 1\. 10. 19 - 106 § 29. <sup>1</sup> Über die Sitzungen wird ein Protokoll geführt, das alle Geschäfte mit den dazugehörenden Erwägungen und Beschlüssen enthält.
+- 1\. 7. 21 - 113 § 29. <sup>1</sup> Über die Sitzungen wird ein Protokoll geführt, das alle Geschäfte mit den dazugehörenden Erwägungen und Beschlüssen enthält.
 
 **Protokoll**
 
@@ -389,12 +389,12 @@ Die Generalsekretärin oder der Generalsekretär führt eine aktuelle Liste säm
 
 **9**
 
-- 1\. 10. 19 - 106
+- 1\. 7. 21 - 113
 
 ### B. Finanzkompetenzen
 
 [^hBFinanzkompetenzen-1]: LS 182.10.
-[^hBFinanzkompetenzen-2]: LS 182.25. 1. 10. 19 - 106 11
+[^hBFinanzkompetenzen-2]: LS 182.25.
 
 #### § 38
 
@@ -421,6 +421,18 @@ bis Fr. 50 000 bis Fr. 10 000
 <sup>3</sup> Die Bereichsleiterinnen oder Bereichsleiter des Synodalrates können ihre Finanzkompetenzen an Angestellte delegieren.
 
 <sup>4</sup> Vorbehalten bleiben die Bestimmungen zu Zuständigkeiten und Finanzkompetenzen von Kommissionen mit Entscheidungsbefugnissen.
+
+**Ressortentscheide betreffend Gesuche Dritter**
+
+§ 38 a.[^hGeneralsekretärinde-1] <sup>1</sup> Entscheide, die auf ein Gesuch von Dritten hin im Rahmen der delegierten Finanzkompetenzen gemäss § 38 Abs. 1 in einem Ressort getroffen werden, sind schriftlich zu begründen. Die Mitteilung der Entscheide erfolgt gemäss § 37 Abs. 3. Sie werden im Protokoll der nächsten Sitzung des Synodalrates vermerkt.
+
+<sup>2</sup> Wird betreffend ein Gesuch von Dritten ein ablehnender Ressortentscheid getroffen, ist dieser im Protokoll der nächsten Sitzung des Synodalrates ebenfalls festzuhalten.
+
+**Ressortentscheide unabhängig von Gesuchen Dritter**
+
+§ 38 b.[^hGeneralsekretärinde-1] Entscheide ab Fr. 10 000, die im Rahmen der delegierten Finanzkompetenzen gemäss § 38 Abs. 1 in einem Ressort getroffen werden, sind im Protokoll der nächsten Sitzung des Synodalrates zu vermerken.
+
+[^hGeneralsekretärinde-1]: Eingefügt durch B vom 8. März 2021 (OS 76, 172; ABl 2021-03-19). In Kraft seit 1. Mai 2021.
 
 ### 5. Abschnitt: Schlussbestimmungen
 
