@@ -3,11 +3,11 @@ sr: "0.631.122"
 title: Internationales Übereinkommen vom 21. Oktober 1982 zur Harmonisierung der Warenkontrollen an den Grenzen (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/764_764_764"
 language: de
-version: 2019-03-12
+version: 2021-05-27
 adopted: 1982-10-21
 in_force: 1986-04-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/fedlex-data-admin-ch-eli-cc-1986-764_764_764-20190312-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/764_764_764/20190312/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/fedlex-data-admin-ch-eli-cc-1986-764_764_764-20210527-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/764_764_764/20210527/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1986** 764; BBl **1985** I 1213
 
 Abgeschlossen in Genf am 21. Oktober 1982 Von der Bundesversammlung genehmigt am 17. September 1985[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 21. Januar 1986 in Kraft getreten für die Schweiz am 21. April 1986
 
-(Stand am 12. März 2019)
+(Stand am 27. Mai 2021)
 
 [^t-1]: [AS 1986 763](https://fedlex.data.admin.ch/eli/oc/1986/763_763_763)
 
@@ -658,11 +658,11 @@ Vor Abschluss der Tagung nimmt der Ausschuss seinen Bericht an.
 
 Soweit diese Anlage keine einschlägigen Bestimmungen enthält, gilt die Geschäftsordnung der Wirtschaftskommission für Europa, es sei denn, dass der Ausschuss etwas anderes beschliesst.
 
-Anlage 8[^t-2]
+Anlage 8*[^t-2]*
 
 ## Erleichterung der Grenzübertrittsverfahren im grenzüberschreitenden Strassenverkehr
 
-[^t-2]: Eingefügt durch die am 20. Mai 2008 für die Schweiz in Kraft getretene Änd. ([AS 2008 4847](https://fedlex.data.admin.ch/eli/oc/2008/677)).
+[^t-2]: Eingefügt durch die vom BR am13. Febr. 2008 genehmigte Änd. ([AS 2008 4847](https://fedlex.data.admin.ch/eli/oc/2008/677)). Bereinigt gemäss der vom EFD am 27. Okt. 2020 genehmigten und am 27. Mai 2021 für die Schweiz in Kraft getretene Änd. ([AS 2021 726](https://fedlex.data.admin.ch/eli/oc/2021/726)).
 
 #### Art. 1
 
@@ -730,7 +730,7 @@ Um sicherzustellen, dass die erforderlichen Formalitäten an den Grenzübergangs
 
 **Berichterstattung**
 
-In Bezug auf die Artikel 1–6 dieser Anlage führt der Exekutivsekretär der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) alle zwei Jahre unter den Vertragsparteien eine Erhebung zu den erzielten Fortschritten bei der Verbesserung der Grenzübertrittsverfahren in den betreffenden Ländern durch.
+In Bezug auf die Artikel 1–6 dieser Anlage führt der Exekutivsekretär der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) alle fünf Jahre unter den Vertragsparteien eine Erhebung zu den erzielten Fortschritten bei der Verbesserung der Grenzübertrittsverfahren in den betreffenden Ländern durch.
 
 Anhang 1 zu Anlage 8 des Übereinkommens
 
@@ -819,7 +819,7 @@ Anhang 2 zu Anlage 8 des Übereinkommens
 
 \8. (Übergangsbestimmung) Da derzeit nur sehr wenige Wiegestationen mit Waagen ausgerüstet sind, mit denen die Achslast von Einzelachsen oder Achsgruppen bestimmt werden kann, kommen die Vertragsparteien, die diese Bescheinigungen akzeptieren, überein, dass während eines Übergangszeitraums, der zwölf Monate nach Inkrafttreten dieser Anlage abläuft, das Bruttogewicht des Fahrzeugs gemäss Nummer 7.3 der Internationalen Fahrzeuggewichtsbescheinigung ausreichend ist und von den zuständigen nationalen Behörden akzeptiert wird.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image1.png)
 
 <table>
 <tr><td><sup>1</sup> Zum Beispiel: Nummer des CMR-Frachtbriefs.</td></tr>
@@ -830,7 +830,7 @@ Anhang 2 zu Anlage 8 des Übereinkommens
 <tr><td><sup>6</sup> Bei mehr als sechs Achsen: unter «Bemerkungen» auf Seite 2 angeben.</td></tr>
 </table>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image2.png)
 
 <table>
 <tr><td>Internationale Fahrzeuggewichtsbescheinigung (IVWC)</td></tr>
@@ -857,43 +857,43 @@ Skizzen von Strassengüterfahrzeugtypen gemäss Nummer 7.1 der IVWC
 <table>
 <tr><th>Nr.</th><th>Strassengüterfahrzeuge</th><th>Fahrzeugtyp \* bedeutet erste alternative Radachsenkonfiguration \*\* bedeutet zweite alternative Radachsenkonfiguration</th><th>Abstand zwischen den Radachsen (m)<sup>1</sup> <sup>1</sup> Keine Angabe, wenn nicht relevant</th></tr>
 <tr><td colspan="4">I. Einzelfahrzeuge</td></tr>
-<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image3.png)</td><td>A<sub>2</sub></td><td>D &lt; 4.0</td></tr>
-<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image4.png)</td><td>A<sub>2</sub>\*</td><td>D ≥ 4.0</td></tr>
-<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image5.png)</td><td>A<sub>3</sub></td><td></td></tr>
-<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image6.png)</td><td>A<sub>4</sub></td><td></td></tr>
-<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image7.png)</td><td>A<sub>3</sub>\*</td><td></td></tr>
-<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image8.png)</td><td>A<sub>4</sub>\*</td><td></td></tr>
-<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image9.png)</td><td>A<sub>5</sub></td><td></td></tr>
+<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image3.png)</td><td>A<sub>2</sub></td><td>D &lt; 4.0</td></tr>
+<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image4.png)</td><td>A<sub>2</sub>\*</td><td>D ≥ 4.0</td></tr>
+<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image5.png)</td><td>A<sub>3</sub></td><td></td></tr>
+<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image6.png)</td><td>A<sub>4</sub></td><td></td></tr>
+<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image7.png)</td><td>A<sub>3</sub>\*</td><td></td></tr>
+<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image8.png)</td><td>A<sub>4</sub>\*</td><td></td></tr>
+<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image9.png)</td><td>A<sub>5</sub></td><td></td></tr>
 <tr><td colspan="4">II. Fahrzeugkombination</td></tr>
 <tr><td colspan="4">(Lastzüge gemäss dem Übereinkommen über den Strassenverkehr [1968], Kapitel I Artikel 1 Buchstabe [t])</td></tr>
-<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image10.png)</td><td>A<sub>2</sub>T<sub>2</sub></td><td></td></tr>
-<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image11.png)</td><td>A<sub>2</sub>T<sub>3</sub></td><td></td></tr>
-<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image12.png)</td><td>A<sub>3</sub>T<sub>2</sub></td><td></td></tr>
-<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image13.png)</td><td>A<sub>3</sub>T<sub>3</sub></td><td></td></tr>
-<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image14.png)</td><td>A<sub>3</sub>T<sub>3</sub>\*</td><td></td></tr>
-<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image15.png)</td><td>A<sub>2</sub>C<sub>2</sub></td><td></td></tr>
-<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image16.png)</td><td>A<sub>2</sub>C<sub>3</sub></td><td></td></tr>
-<tr><td>8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image17.png)</td><td>A<sub>3</sub>C<sub>2</sub></td><td></td></tr>
-<tr><td>9</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image18.png)</td><td>A<sub>3</sub>C<sub>3</sub></td><td></td></tr>
-<tr><td>10</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image19.png)</td><td>A<sub>2</sub>C<sub>1</sub></td><td></td></tr>
-<tr><td>11</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image20.png)</td><td>A<sub>3</sub>C<sub>1</sub></td><td></td></tr>
+<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image10.png)</td><td>A<sub>2</sub>T<sub>2</sub></td><td></td></tr>
+<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image11.png)</td><td>A<sub>2</sub>T<sub>3</sub></td><td></td></tr>
+<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image12.png)</td><td>A<sub>3</sub>T<sub>2</sub></td><td></td></tr>
+<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image13.png)</td><td>A<sub>3</sub>T<sub>3</sub></td><td></td></tr>
+<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image14.png)</td><td>A<sub>3</sub>T<sub>3</sub>\*</td><td></td></tr>
+<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image15.png)</td><td>A<sub>2</sub>C<sub>2</sub></td><td></td></tr>
+<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image16.png)</td><td>A<sub>2</sub>C<sub>3</sub></td><td></td></tr>
+<tr><td>8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image17.png)</td><td>A<sub>3</sub>C<sub>2</sub></td><td></td></tr>
+<tr><td>9</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image18.png)</td><td>A<sub>3</sub>C<sub>3</sub></td><td></td></tr>
+<tr><td>10</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image19.png)</td><td>A<sub>2</sub>C<sub>1</sub></td><td></td></tr>
+<tr><td>11</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image20.png)</td><td>A<sub>3</sub>C<sub>1</sub></td><td></td></tr>
 </table>
 
 <table>
 <tr><th>Nr.</th><th colspan="2">Strassengüterfahrzeuge</th><th>Fahrzeugtyp \* bedeutet erste alternative Radachsenkonfiguration \*\* bedeutet zweite alternative Radachsenkonfiguration</th><th>Abstand zwischen den Radachsen (m)<sup>1</sup> <sup>1</sup> Keine Angabe, wenn nicht relevant</th></tr>
 <tr><td colspan="5">III. Gelenkfahrzeuge</td></tr>
-<tr><td>1</td><td>mit 3 Achsen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image21.png)</td><td>A<sub>2</sub>S<sub>1</sub></td><td></td></tr>
-<tr><td>2</td><td>mit 4 Achsen (Einzel- oder Tandem-Achsen)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image22.png)</td><td>A<sub>2</sub>S<sub>2</sub></td><td>D ≤ 2.0</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image23.png)</td><td>A<sub>2</sub>S<sub>2</sub>\*</td><td>D &gt; 2.0</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image24.png)</td><td>A<sub>3</sub>S<sub>1</sub></td><td></td></tr>
-<tr><td>3</td><td>Mit 5 oder 6 Achsen (Einzel-, Tandem- oder Dreifach-Achsen)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image25.png)</td><td>A<sub>2</sub>S<sub>3</sub></td><td></td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image26.png)</td><td>A<sub>2</sub>S<sub>3</sub>\*</td><td></td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image27.png)</td><td>A<sub>2</sub>S<sub>3</sub>\*\*</td><td></td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image28.png)</td><td>A<sub>3</sub>S<sub>2</sub></td><td>D ≤ 2.0</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image29.png)</td><td>A<sub>3</sub>S<sub>2</sub>\*</td><td>D &gt; 2.0</td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image30.png)</td><td>A<sub>3</sub>S<sub>3</sub></td><td></td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image31.png)</td><td>A<sub>3</sub>S<sub>3</sub>\*</td><td></td></tr>
-<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/de/xml/image/image32.png)</td><td>A<sub>3</sub>S<sub>3</sub>\*\*</td><td></td></tr>
+<tr><td>1</td><td>mit 3 Achsen</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image21.png)</td><td>A<sub>2</sub>S<sub>1</sub></td><td></td></tr>
+<tr><td>2</td><td>mit 4 Achsen (Einzel- oder Tandem-Achsen)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image22.png)</td><td>A<sub>2</sub>S<sub>2</sub></td><td>D ≤ 2.0</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image23.png)</td><td>A<sub>2</sub>S<sub>2</sub>\*</td><td>D &gt; 2.0</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image24.png)</td><td>A<sub>3</sub>S<sub>1</sub></td><td></td></tr>
+<tr><td>3</td><td>Mit 5 oder 6 Achsen (Einzel-, Tandem- oder Dreifach-Achsen)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image25.png)</td><td>A<sub>2</sub>S<sub>3</sub></td><td></td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image26.png)</td><td>A<sub>2</sub>S<sub>3</sub>\*</td><td></td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image27.png)</td><td>A<sub>2</sub>S<sub>3</sub>\*\*</td><td></td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image28.png)</td><td>A<sub>3</sub>S<sub>2</sub></td><td>D ≤ 2.0</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image29.png)</td><td>A<sub>3</sub>S<sub>2</sub>\*</td><td>D &gt; 2.0</td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image30.png)</td><td>A<sub>3</sub>S<sub>3</sub></td><td></td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image31.png)</td><td>A<sub>3</sub>S<sub>3</sub>\*</td><td></td></tr>
+<tr><td></td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/de/xml/image/image32.png)</td><td>A<sub>3</sub>S<sub>3</sub>\*\*</td><td></td></tr>
 <tr><td></td><td></td><td>Ohne Skizze</td><td>A<sub>n</sub>S<sub>n</sub></td><td></td></tr>
 </table>
 

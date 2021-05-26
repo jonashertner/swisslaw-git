@@ -3,11 +3,11 @@ sr: "0.631.122"
 title: "Convention internationale du 21 octobre 1982 sur l'harmonisation des contrôles des marchandises aux frontières (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/764_764_764"
 language: fr
-version: 2019-03-12
+version: 2021-05-27
 adopted: 1982-10-21
 in_force: 1986-04-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/fedlex-data-admin-ch-eli-cc-1986-764_764_764-20190312-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/764_764_764/20190312/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/fedlex-data-admin-ch-eli-cc-1986-764_764_764-20210527-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/764_764_764/20210527/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 21 janvier 1986
 
 Entrée en vigueur pour la Suisse le 21 avril 1986
 
-(Etat le 12 mars 2019)
+(Etat le 27 mai 2021)
 
 [^t-1]: [RO 1986 763](https://fedlex.data.admin.ch/eli/oc/1986/763_763_763)
 
@@ -118,7 +118,7 @@ Dans le cas de franchissement d’une frontière commune, les Parties contractan
 
 #### Art. 8
 
-**Echange d’informations**
+**Échange d’informations**
 
 Les Parties contractantes se communiqueront mutuellement, sur demande, les informations nécessaires à l’application de la présente Convention conformément aux conditions énoncées dans les annexes.
 
@@ -182,20 +182,20 @@ La présente Convention ne fait pas obstacle à l’application de facilités pl
 
 **Signature, ratification, acceptation, approbation et adhésion**
 
-<sup>1.</sup> La présente Convention, déposée auprès du Secrétaire général de l’Organisation des Nations Unies, est ouverte à la participation de tous les Etats et des organisations d’intégration économique régionale constituées par des Etats souverains et ayant compétence pour négocier, conclure et appliquer des accords internationaux dans les matières couvertes par la présente Convention.
+<sup>1.</sup> La présente Convention, déposée auprès du Secrétaire général de l’Organisation des Nations Unies, est ouverte à la participation de tous les États et des organisations d’intégration économique régionale constituées par des États souverains et ayant compétence pour négocier, conclure et appliquer des accords internationaux dans les matières couvertes par la présente Convention.
 
-<sup>2.</sup> Les organisations d’intégration économique régionale visées au par. 1 pourront, pour les questions qui relèvent de leur compétence, exercer en leur nom propre les droits et s’acquitter des responsabilités que la présente Convention confère par ailleurs à leurs Etats membres qui sont Parties contractantes à la présente Convention. En pareil cas, les Etats membres de ces organisations ne seront pas habilités à exercer individuellement ces droits, y compris le droit de vote.
+<sup>2.</sup> Les organisations d’intégration économique régionale visées au par. 1 pourront, pour les questions qui relèvent de leur compétence, exercer en leur nom propre les droits et s’acquitter des responsabilités que la présente Convention confère par ailleurs à leurs États membres qui sont Parties contractantes à la présente Convention. En pareil cas, les États membres de ces organisations ne seront pas habilités à exercer individuellement ces droits, y compris le droit de vote.
 
 <sup>3.</sup>
 
-Les Etats et les organisations d’intégration économique régionale précitées peuvent devenir Parties contractantes à la présente Convention:
+Les États et les organisations d’intégration économique régionale précitées peuvent devenir Parties contractantes à la présente Convention:
 
-- a) en déposant un instrument de ratification, d’acceptation ou d’approbation après l’avoir signée; ou
+- a) en déposant un instrument de ratification, d’acceptation ou d’approbation après l’avoir signée, ou
 - b) en déposant un instrument d’adhésion.
 
-<sup>4.</sup> La présente Convention sera ouverte du 1<sup>er</sup> avril 1983 jusqu’au 31 mars 1984 inclus, à l’Office des Nations Unies à Genève, à la signature de tous les Etats et des organisations d’intégration économique régionale visées au par. 1.
+<sup>4.</sup> La présente Convention sera ouverte du 1<sup>er</sup> avril 1983 jusqu’au 31 mars 1984 inclus, à l’Office des Nations Unies à Genève, à la signature de tous les États et des organisations d’intégration économique régionale visées au par. 1.
 
-<sup>5.</sup> A partir du 1<sup>er</sup> avril 1984 elle sera aussi ouverte à leur adhésion.
+<sup>5.</sup> À partir du 1<sup>er</sup> avril 1984 elle sera aussi ouverte à leur adhésion.
 
 <sup>6.</sup> Les instruments de ratification, d’acceptation, d’approbation ou d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
@@ -203,9 +203,9 @@ Les Etats et les organisations d’intégration économique régionale précité
 
 **Entrée en vigueur**
 
-<sup>1.</sup> La présente Convention entrera en vigueur trois mois après la date à laquelle cinq Etats auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>1.</sup> La présente Convention entrera en vigueur trois mois après la date à laquelle cinq États auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-<sup>2.</sup> Après que cinq Etats auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la présente Convention entrera en vigueur, pour toutes les nouvelles Parties contractantes, trois mois après la date du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>2.</sup> Après que cinq États auront déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, la présente Convention entrera en vigueur, pour toutes les nouvelles Parties contractantes, trois mois après la date du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 <sup>3.</sup> Tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion déposé après l’entrée en vigueur d’un amendement à la présente Convention sera considéré comme s’appliquant au texte modifié de la présente Convention.
 
@@ -223,7 +223,7 @@ Les Etats et les organisations d’intégration économique régionale précité
 
 **Extinction**
 
-Si, après l’entrée en vigueur de la présente Convention, le nombre des Etats qui sont Parties contractantes se trouve ramené à moins de cinq pendant une période quelconque de douze mois consécutifs, la présente Convention cessera de produire ses effets à partir de la fin de ladite période de douze mois.
+Si, après l’entrée en vigueur de la présente Convention, le nombre des États qui sont Parties contractantes se trouve ramené à moins de cinq pendant une période quelconque de douze mois consécutifs, la présente Convention cessera de produire ses effets à partir de la fin de ladite période de douze mois.
 
 #### Art. 20
 
@@ -251,7 +251,7 @@ Si, après l’entrée en vigueur de la présente Convention, le nombre des Etat
 
 <sup>2.</sup> Toute Partie contractante qui aura formulé une réserve conformément au par. 1 du présent article pourra à tout moment retirer cette réserve par une notification adressée au Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>3.</sup> A l’exception des réserves prévues au par. 1 du présent article, aucune réserve à la présente Convention ne sera admise.
+<sup>3.</sup> À l’exception des réserves prévues au par. 1 du présent article, aucune réserve à la présente Convention ne sera admise.
 
 #### Art. 22
 
@@ -261,7 +261,7 @@ Si, après l’entrée en vigueur de la présente Convention, le nombre des Etat
 
 <sup>2.</sup> Tout amendement proposé à la présente Convention sera examiné par un Comité de gestion composé de toutes les Parties contractantes conformément au Règlement intérieur faisant l’objet de l’annexe 7. Tout amendement de cette nature examiné ou élaboré au cours de la réunion du Comité de gestion et adopté par le Comité sera communiqué par le Secrétaire général de l’Organisation des Nations Unies aux Parties contractantes pour acceptation.
 
-<sup>3.</sup> Tout amendement proposé communiqué en application des dispositions du paragraphe précédent entrera en vigueur pour toutes les Parties contractantes trois mois après l’expiration d’une période de douze mois suivant la date à laquelle la communication a été faite si, pendant cette période, aucune objection à l’amendement proposé n’a été notifiée au Secrétaire général de l’Organisation des Nations Unies par un Etat qui est Partie contractante ou par une organisation d’intégration économique régionale, elle‑même Partie contractante, qui agit alors dans les conditions définies au par. 2 de l’art. 16 de la présente Convention.
+<sup>3.</sup> Tout amendement proposé communiqué en application des dispositions du paragraphe précédent entrera en vigueur pour toutes les Parties contractantes trois mois après l’expiration d’une période de douze mois suivant la date à laquelle la communication a été faite si, pendant cette période, aucune objection à l’amendement proposé n’a été notifiée au Secrétaire général de l’Organisation des Nations Unies par un État qui est Partie contractante ou par une organisation d’intégration économique régionale, elle‑même Partie contractante, qui agit alors dans les conditions définies au par. 2 de l’art. 16 de la présente Convention.
 
 <sup>4.</sup> Si une objection à l’amendement proposé a été notifiée conformément aux dispositions du par. 3 du présent article, l’amendement sera réputé ne pas avoir été accepté et n’aura aucun effet.
 
@@ -269,7 +269,7 @@ Si, après l’entrée en vigueur de la présente Convention, le nombre des Etat
 
 **Demandes, communications et objections**
 
-Le Secrétaire général de l’Organisation des Nations Unies informera toutes les Parties contractantes et tous les Etats de toute demande, communication ou objection faite en vertu de l’art. 22 et de la date d’entrée en vigueur d’un amendement.
+Le Secrétaire général de l’Organisation des Nations Unies informera toutes les Parties contractantes et tous les États de toute demande, communication ou objection faite en vertu de l’art. 22 et de la date d’entrée en vigueur d’un amendement.
 
 #### Art. 24
 
@@ -285,7 +285,7 @@ Après que la présente Convention aura été en vigueur pendant cinq ans, toute
 
 **Notifications**
 
-Outre les notifications et communications prévues aux art. 23 et 24, le Secrétaire général de l’Organisation des Nations Unies notifiera à tous les Etats:
+Outre les notifications et communications prévues aux art. 23 et 24, le Secrétaire général de l’Organisation des Nations Unies notifiera à tous les États:
 
 - a) les signatures, ratifications, acceptations, approbations et adhésions au titre de l’art. 16;
 - b) les dates d’entrée en vigueur de la présente Convention conformément à l’art. 17;
@@ -297,7 +297,7 @@ Outre les notifications et communications prévues aux art. 23 et 24, le Secrét
 
 **Exemplaires certifiés conformes**
 
-Après le 31 mars 1984, le Secrétaire général de l’Organisation des Nations Unies transmettra deux exemplaires certifiés conformes de la présente Convention à chacune des Parties contractantes et à tous les Etats qui ne sont pas Parties contractantes.
+Après le 31 mars 1984, le Secrétaire général de l’Organisation des Nations Unies transmettra deux exemplaires certifiés conformes de la présente Convention à chacune des Parties contractantes et à tous les États qui ne sont pas Parties contractantes.
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Genève, le 21 octobre 1982, en un seul original dont les textes anglais, espagnol, français et russe font également foi. (Suivent les signatures)
 
@@ -622,7 +622,7 @@ Les membres du Comité de gestion sont les Parties contractantes à la présente
 
 **Observateurs**
 
-<sup>1.</sup> Le Comité de gestion peut décider d’inviter les administrations compétentes des Etats qui ne sont pas des parties contractantes, ou des représentants d’organisations internationales qui ne sont pas parties contractantes, pour les questions qui les intéressent, à assister à ses sessions en qualité d’observateurs.
+<sup>1.</sup> Le Comité de gestion peut décider d’inviter les administrations compétentes des États qui ne sont pas des parties contractantes, ou des représentants d’organisations internationales qui ne sont pas parties contractantes, pour les questions qui les intéressent, à assister à ses sessions en qualité d’observateurs.
 
 <sup>2.</sup> Toutefois, sans préjudice de l’article premier, les organisations internationales visées au par. 1, compétentes en ce qui concerne les matières traitées par les annexes à la présente Convention, participent de droit aux travaux du Comité de gestion en tant qu’observateurs.
 
@@ -640,7 +640,7 @@ Le Secrétaire exécutif de la Commission économique pour l’Europe convoque l
 
 - i) deux ans après l’entrée en vigueur de la Convention;
 - ii) par la suite, à une date fixée par le Comité, mais au moins tous les cinq ans;
-- iii) à la demande des administrations compétentes d’au moins cinq Etats qui sont Parties contractantes.
+- iii) à la demande des administrations compétentes d’au moins cinq États qui sont Parties contractantes.
 
 #### Art. 5
 
@@ -652,15 +652,15 @@ Le Comité élit un président et un vice‑président à l’occasion de chacun
 
 **Quorum**
 
-Un quorum d’au moins le tiers des Etats qui sont Parties contractantes est nécessaire pour rendre des décisions.
+Un quorum d’au moins le tiers des États qui sont Parties contractantes est nécessaire pour rendre des décisions.
 
 #### Art. 7
 
 **Décisions**
 
 - i) Les propositions sont mises aux voix.
-- ii) Chaque Etat qui est Partie contractante, représenté à la session, dispose d’une voix.
-- iii) En cas d’application du par. 2 de l’art. 16 de la Convention, les organisations d’intégration économique régionale Parties à la Convention ne disposent en cas de vote que d’un nombre de voix égal au total des voix attribuables à leurs Etats membres également Parties à la Convention. Dans ce dernier cas ces Etats membres n’exercent pas leur droit de vote.
+- ii) Chaque État qui est Partie contractante, représenté à la session, dispose d’une voix.
+- iii) En cas d’application du par. 2 de l’art. 16 de la Convention, les organisations d’intégration économique régionale Parties à la Convention ne disposent en cas de vote que d’un nombre de voix égal au total des voix attribuables à leurs États membres également Parties à la Convention. Dans ce dernier cas ces États membres n’exercent pas leur droit de vote.
 - iv) Sous réserve des dispositions de l’al. v) ci‑dessous, les propositions sont adoptées à la majorité simple des membres présents et votants selon les conditions définies aux al. ii) et iii) ci‑dessus.
 - v) Les amendements à la présente Convention sont adoptés à la majorité des deux tiers des membres présents et votants selon les conditions définies aux al. ii) et iii) ci‑dessus.
 
@@ -680,7 +680,7 @@ Annexe 8*[^t-2]*
 
 ## Facilitation du passage des frontières en transport routier international
 
-[^t-2]: Introduite par la mod. en vigueur pour la Suisse depuis le 20 mai 2008 ([RO 2008 4847](https://fedlex.data.admin.ch/eli/oc/2008/677)).
+[^t-2]: Introduite par la mod. approuvée par le Conseil fédéral le 13 fév. 2008 ([RO 2008 4847](https://fedlex.data.admin.ch/eli/oc/2008/677)). Mise à jour par la mod. approuvée par le Département fédéral des finances le 27 oct. 2020 et en vigueur pour la Suisse depuis le 27 mai 2021 ([RO 2021 726](https://fedlex.data.admin.ch/eli/oc/2021/726)).
 
 #### Art. 1
 
@@ -737,7 +737,7 @@ En ce qui concerne en particulier l’art. 7 de la présente Convention, la prio
 
 Pour simplifier et accélérer les formalités prescrites aux points de passage des frontières, les Parties contractantes doivent veiller à satisfaire dans la mesure du possible aux conditions minimales suivantes pour les points de passage des frontières ouverts au transport international de marchandises:
 
-- i) prévoir des installations permettant de procéder à des contrôles communs entre Etats limitrophes (système de l’arrêt unique), 24 heures sur 24, dans la mesure où les nécessités commerciales le justifient et dans le respect des règles de la circulation routière;
+- i) prévoir des installations permettant de procéder à des contrôles communs entre États limitrophes (système de l’arrêt unique), 24 heures sur 24, dans la mesure où les nécessités commerciales le justifient et dans le respect des règles de la circulation routière;
 - ii) aménager des voies de circulation séparées selon le type de transport, de part et d’autre de la frontière, afin de pouvoir traiter en priorité les véhicules ayant un titre de transit douanier international valable ou transportant des animaux vivants ou des denrées périssables;
 - iii) prévoir des zones d’arrêt à l’écart pour les contrôles inopinés des chargements et des véhicules;
 - iv) aménager des parcs de stationnement et des terminaux adéquats;
@@ -748,7 +748,7 @@ Pour simplifier et accélérer les formalités prescrites aux points de passage 
 
 **Rapports périodiques**
 
-Pour ce qui est de la mise en œuvre des art. 1 à 6 de la présente annexe, le Secrétaire exécutif de la Commission économique des Nations Unies pour l’Europe effectue tous les deux ans une enquête auprès des Parties contractantes sur les progrès réalisés dans l’amélioration de l’efficacité des procédures de franchissement des frontières dans leur pays.
+Pour ce qui est de la mise en oeuvre des art. 1 à 6 de la présente annexe, le Secrétaire exécutif de la Commission économique des Nations Unies pour l’Europe effectue tous les cinq ans une enquête auprès des Parties contractantes sur les progrès réalisés dans l’amélioration de l’efficacité des procédures de franchissement des frontières dans leur pays.
 
 Appendice 1 de l’annexe 8 à la Convention
 
@@ -779,7 +779,7 @@ Conformément à l’Accord concernant l’adoption de conditions uniformes appl
 <tr><td></td><td colspan="2">Certificat international de contrôle technique</td><td></td></tr>
 <tr><td></td><td>1.</td><td>Plaque d’immatriculation (n<sup>o</sup> d’immatriculation)</td><td></td></tr>
 <tr><td></td><td>2.</td><td>N° de série du véhicule</td><td></td></tr>
-<tr><td></td><td>3.</td><td>Première immatriculation après construction (Etat, autorité)[^annex1-lvlu1-lvlu1-3]</td><td></td></tr>
+<tr><td></td><td>3.</td><td>Première immatriculation après construction (État, autorité)[^annex1-lvlu1-lvlu1-3]</td><td></td></tr>
 <tr><td></td><td>4.</td><td>Date de première immatriculation après construction</td><td></td></tr>
 <tr><td></td><td>5.</td><td>Date du contrôle technique</td><td></td></tr>
 <tr><td></td><td colspan="2">Certificat de conformité</td><td></td></tr>
@@ -835,9 +835,9 @@ Appendice 2 de l’annexe 8 à la Convention
 
 \7. Chaque Partie acceptant ces certificats doit publier la liste de toutes les stations de pesage agréées conformément aux principes internationaux existant dans son pays, ainsi que les modifications à celle‑ci. Cette liste ainsi que toute modification la concernant doivent être transmises au Secrétaire exécutif de la Commission économique des Nations Unies pour l’Europe pour distribution à chaque Partie contractante et aux organisations internationales visées à l’art. 2 de l’annexe 7 à la présente Convention.
 
-\8. (Disposition transitoire) Etant donné que très peu de stations de pesage seulement sont actuellement équipées d’instruments de pesage permettant de mesurer la charge par essieu ou par groupe d’essieux, les Parties contractantes acceptant ces certificats conviennent que, pendant une période transitoire expirant 12 mois après l’entrée en vigueur de la présente annexe, la valeur mesurée du poids brut du véhicule, comme prévu à la rubrique n<sup>o</sup> 7.3 du Certificat international de pesée de véhicule, sera jugée suffisante et sera acceptée par les autorités nationales compétentes.
+\8. (Disposition transitoire) Étant donné que très peu de stations de pesage seulement sont actuellement équipées d’instruments de pesage permettant de mesurer la charge par essieu ou par groupe d’essieux, les Parties contractantes acceptant ces certificats conviennent que, pendant une période transitoire expirant 12 mois après l’entrée en vigueur de la présente annexe, la valeur mesurée du poids brut du véhicule, comme prévu à la rubrique n<sup>o</sup> 7.3 du Certificat international de pesée de véhicule, sera jugée suffisante et sera acceptée par les autorités nationales compétentes.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image1.png)
 
 <table>
 <tr><td><sup>1</sup></td><td>Par exemple lettre de voiture CMR no.</td></tr>
@@ -848,7 +848,7 @@ Appendice 2 de l’annexe 8 à la Convention
 <tr><td><sup>6</sup></td><td>Si le nombre d’essieux est supérieur à six, l’indiquer dans la case «Remarques», p. 2.</td></tr>
 </table>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image2.png)
 
 <table>
 <tr><td colspan="2">Certificat international de pesée de véhicule (CIPV)</td></tr>
@@ -875,31 +875,31 @@ Croquis représentant les types de véhicule mentionnés à la rubrique n<sup>o<
 <table>
 <tr><th>N<sup>o</sup></th><th>Véhicules routiers de transport de marchandises</th><th>Type de véhicule \* correspond à la première configuration d’essieu représentée \*\* correspond à la deuxième configuration d’essieu représentée</th><th>Empattement (en m)<sup>1</sup> <sup>1</sup> Non précisé lorsque le critère n’est pas pertinent</th></tr>
 <tr><td colspan="4">I. Véhicules rigides</td></tr>
-<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image3.png)</td><td>A<sub>2</sub></td><td>D &lt; 4.0</td></tr>
-<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image4.png)</td><td>A<sub>2</sub>\*</td><td>D ≥ 4.0</td></tr>
-<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image5.png)</td><td>A<sub>3</sub></td><td></td></tr>
-<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image6.png)</td><td>A<sub>4</sub></td><td></td></tr>
-<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image7.png)</td><td>A<sub>3</sub>\*</td><td></td></tr>
-<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image8.png)</td><td>A<sub>4</sub>\*</td><td></td></tr>
-<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image9.png)</td><td>A<sub>5</sub></td><td></td></tr>
+<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image3.png)</td><td>A<sub>2</sub></td><td>D &lt; 4.0</td></tr>
+<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image4.png)</td><td>A<sub>2</sub>\*</td><td>D ≥ 4.0</td></tr>
+<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image5.png)</td><td>A<sub>3</sub></td><td></td></tr>
+<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image6.png)</td><td>A<sub>4</sub></td><td></td></tr>
+<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image7.png)</td><td>A<sub>3</sub>\*</td><td></td></tr>
+<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image8.png)</td><td>A<sub>4</sub>\*</td><td></td></tr>
+<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image9.png)</td><td>A<sub>5</sub></td><td></td></tr>
 <tr><td colspan="4">II. Ensembles de véhicules</td></tr>
 <tr><td colspan="4">(véhicules accouplés au sens de l’art. 1 t) du chapitre I de la Convention de 1968 sur la circulation routière)</td></tr>
-<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image10.png)</td><td>A<sub>2</sub>T<sub>2</sub></td><td></td></tr>
-<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image11.png)</td><td>A<sub>2</sub>T<sub>3</sub></td><td></td></tr>
-<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image12.png)</td><td>A<sub>3</sub>T<sub>2</sub></td><td></td></tr>
-<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image13.png)</td><td>A<sub>3</sub>T<sub>3</sub></td><td></td></tr>
-<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image14.png)</td><td>A<sub>3</sub>T<sub>3</sub>\*</td><td></td></tr>
-<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image15.png)</td><td>A<sub>2</sub>C<sub>2</sub></td><td></td></tr>
-<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image16.png)</td><td>A<sub>2</sub>C<sub>3</sub></td><td></td></tr>
-<tr><td>8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image17.png)</td><td>A<sub>3</sub>C<sub>2</sub></td><td></td></tr>
-<tr><td>9</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image18.png)</td><td>A<sub>3</sub>C<sub>3</sub></td><td></td></tr>
-<tr><td>10</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image19.png)</td><td>A<sub>2</sub>C<sub>1</sub></td><td></td></tr>
-<tr><td>11</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image20.png)</td><td>A<sub>3</sub>C<sub>1</sub></td><td></td></tr>
+<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image10.png)</td><td>A<sub>2</sub>T<sub>2</sub></td><td></td></tr>
+<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image11.png)</td><td>A<sub>2</sub>T<sub>3</sub></td><td></td></tr>
+<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image12.png)</td><td>A<sub>3</sub>T<sub>2</sub></td><td></td></tr>
+<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image13.png)</td><td>A<sub>3</sub>T<sub>3</sub></td><td></td></tr>
+<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image14.png)</td><td>A<sub>3</sub>T<sub>3</sub>\*</td><td></td></tr>
+<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image15.png)</td><td>A<sub>2</sub>C<sub>2</sub></td><td></td></tr>
+<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image16.png)</td><td>A<sub>2</sub>C<sub>3</sub></td><td></td></tr>
+<tr><td>8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image17.png)</td><td>A<sub>3</sub>C<sub>2</sub></td><td></td></tr>
+<tr><td>9</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image18.png)</td><td>A<sub>3</sub>C<sub>3</sub></td><td></td></tr>
+<tr><td>10</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image19.png)</td><td>A<sub>2</sub>C<sub>1</sub></td><td></td></tr>
+<tr><td>11</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image20.png)</td><td>A<sub>3</sub>C<sub>1</sub></td><td></td></tr>
 </table>
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Véhicules routiers de transport de marchandises</th><th>Type de véhicule \* correspond à la première configuration d’essieu représentée \*\* correspond à la deuxième configuration d’essieu représentée</th><th>Empattement (en m)<sup>1</sup> <sup>1</sup> Non précisé lorsque le critère n’est pas pertinent</th></tr>
-<tr><td colspan="4">III. Véhicules articulés 1 A 3 essieux ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image21.png) A<sub>2</sub>S<sub>1</sub> 2 A 4 essieux (simples ou tandem) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image22.png) A<sub>2</sub>S<sub>2</sub> D ≤ 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image23.png) A<sub>2</sub>S<sub>2</sub>\* D &gt; 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image24.png) A<sub>3</sub>S<sub>1</sub> 3 A 5 ou 6 essieux (simples, tandem ou triples) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image25.png) A<sub>2</sub>S<sub>3</sub> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image26.png) A<sub>2</sub>S<sub>3</sub>\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image27.png) A<sub>2</sub>S<sub>3</sub>\*\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image28.png) A<sub>3</sub>S<sub>2</sub> D ≤ 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image29.png) A<sub>3</sub>S<sub>2</sub>\* D &gt; 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image30.png) A<sub>3</sub>S<sub>3</sub> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image31.png) A<sub>3</sub>S<sub>3</sub>\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/fr/xml/image/image32.png) A<sub>3</sub>S<sub>3</sub>\*\* Sans croquis A<sub>n</sub>S<sub>n</sub></td></tr>
+<tr><td colspan="4">III. Véhicules articulés 1 A 3 essieux ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image21.png) A<sub>2</sub>S<sub>1</sub> 2 A 4 essieux (simples ou tandem) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image22.png) A<sub>2</sub>S<sub>2</sub> D ≤ 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image23.png) A<sub>2</sub>S<sub>2</sub>\* D &gt; 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image24.png) A<sub>3</sub>S<sub>1</sub> 3 A 5 ou 6 essieux (simples, tandem ou triples) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image25.png) A<sub>2</sub>S<sub>3</sub> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image26.png) A<sub>2</sub>S<sub>3</sub>\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image27.png) A<sub>2</sub>S<sub>3</sub>\*\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image28.png) A<sub>3</sub>S<sub>2</sub> D ≤ 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image29.png) A<sub>3</sub>S<sub>2</sub>\* D &gt; 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image30.png) A<sub>3</sub>S<sub>3</sub> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image31.png) A<sub>3</sub>S<sub>3</sub>\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/fr/xml/image/image32.png) A<sub>3</sub>S<sub>3</sub>\*\* Sans croquis A<sub>n</sub>S<sub>n</sub></td></tr>
 </table>
 
 Annexe 9*[^t-3]*
@@ -930,7 +930,7 @@ Par «gare frontière (d’échange)», on entend une gare ferroviaire où sont 
 
 <sup>2.</sup> Les procédures de passage des frontières par les personnes visées au par. 1 du présent article, y compris en ce qui concerne les documents officiels confirmant le statut de ces personnes, sont établies sur la base d’accords bilatéraux.
 
-<sup>3.</sup> Lors des opérations de contrôle commun, les agents des services de surveillance des frontières, des douanes et des autres organes exerçant des fonctions de contrôle dans les gares frontière (d’échange), dans l’exercice de leurs fonctions, franchissent la frontière de l’Etat en utilisant des documents établis par les Parties contractantes pour leurs ressortissants.
+<sup>3.</sup> Lors des opérations de contrôle commun, les agents des services de surveillance des frontières, des douanes et des autres organes exerçant des fonctions de contrôle dans les gares frontière (d’échange), dans l’exercice de leurs fonctions, franchissent la frontière de l’État en utilisant des documents établis par les Parties contractantes pour leurs ressortissants.
 
 #### Art. 4
 
@@ -990,7 +990,7 @@ Les Parties contractantes peuvent utiliser, à la place des documents de transpo
 Champ d’application le 12 mars 2019**[^t-4]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud<sup>\*</sup></td><td>24 février</td><td>1987 A</td><td>24 mai</td><td>1987</td></tr>
 <tr><td>Albanie</td><td>28 décembre</td><td>2004 A</td><td>28 mars</td><td>2005</td></tr>
 <tr><td>Allemagne</td><td>12 juin</td><td>1987</td><td>12 septembre</td><td>1987</td></tr>
@@ -1059,11 +1059,10 @@ Champ d’application le 12 mars 2019**[^t-4]**
 <tr><td>Turquie\*</td><td>21 mars</td><td>2006 A</td><td>21 juin</td><td>2006</td></tr>
 <tr><td>Ukraine</td><td>12 septembre</td><td>2003 A</td><td>12 décembre</td><td>2003</td></tr>
 <tr><td>Union européenne</td><td>12 juin</td><td>1987</td><td>12 septembre</td><td>1987</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. [tab] Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. [tab] Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-4]: [RO 1986 764](https://fedlex.data.admin.ch/eli/oc/1986/764_764_764), [1987 1016](https://fedlex.data.admin.ch/eli/oc/1987/1016_1016_1016), [1989 314](https://fedlex.data.admin.ch/eli/oc/1989/314_314_314), [2004 3609](https://fedlex.data.admin.ch/eli/oc/2004/489), [2007 1405](https://fedlex.data.admin.ch/eli/oc/2007/246), [2009 7105](https://fedlex.data.admin.ch/eli/oc/2009/860), [2012 4383](https://fedlex.data.admin.ch/eli/oc/2012/516), [2015 759](https://fedlex.data.admin.ch/eli/oc/2015/134), [2019 1039](https://fedlex.data.admin.ch/eli/oc/2019/190). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 1986 764](https://fedlex.data.admin.ch/eli/oc/1986/764_764_764); [1987 1016](https://fedlex.data.admin.ch/eli/oc/1987/1016_1016_1016); [1989 314](https://fedlex.data.admin.ch/eli/oc/1989/314_314_314); [2004 3609](https://fedlex.data.admin.ch/eli/oc/2004/489); [2007 1405](https://fedlex.data.admin.ch/eli/oc/2007/246); [2009 7105](https://fedlex.data.admin.ch/eli/oc/2009/860); [2012 4383](https://fedlex.data.admin.ch/eli/oc/2012/516); [2015 759](https://fedlex.data.admin.ch/eli/oc/2015/134); [2019 1039](https://fedlex.data.admin.ch/eli/oc/2019/190). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty.
 
 Réserves et déclarations
 

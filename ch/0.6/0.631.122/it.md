@@ -3,11 +3,11 @@ sr: "0.631.122"
 title: "Convenzione internazionale del 21 ottobre 1982 sull'armonizzazione dei controlli delle merci alle frontiere (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/764_764_764"
 language: it
-version: 2019-03-12
+version: 2021-05-27
 adopted: 1982-10-21
 in_force: 1986-04-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/fedlex-data-admin-ch-eli-cc-1986-764_764_764-20190312-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/764_764_764/20190312/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/fedlex-data-admin-ch-eli-cc-1986-764_764_764-20210527-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/764_764_764/20210527/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Istrumento di ratificazione depositato dalla Svizzera il 21 gennaio 1986
 
 Entrata in vigore per la Svizzera il 21 aprile 1986
 
-(Stato 12 marzo 2019)
+(Stato 27 maggio 2021)
 
 [^t-1]: [RU 1986 763](https://fedlex.data.admin.ch/eli/oc/1986/763_763_763)
 
@@ -680,7 +680,7 @@ Allegato 8*[^t-2]*
 
 ## Agevolazione dell’attraversamento delle frontiere per i trasporti internazionali su strada
 
-[^t-2]: Introdotto dalla mod. del 13 feb. 2008, in vigore per la Svizzera dal 20 mag. 2008 ([RU 2008 4847](https://fedlex.data.admin.ch/eli/oc/2008/677)).
+[^t-2]: Introdotto dalla mod. approvata dal CF il 13 feb. 2008 ([RU 2008 4847](https://fedlex.data.admin.ch/eli/oc/2008/677)). Aggiornato dalla mod. approvata dal DFI il 27 ott. 2020, in vigore per la Svizzera il 27 mag. 2021 ([RU 2021 726](https://fedlex.data.admin.ch/eli/oc/2021/726)).
 
 #### Art. 1
 
@@ -748,7 +748,7 @@ Al fine di garantire lo snellimento e l’accelerazione delle formalità da espl
 
 **Rendicontazione**
 
-In relazione agli articoli 1–6 del presente allegato, il Segretario esecutivo della Commissione economica per l’Europa delle Nazioni Unite (UN/ECE) effettua, ogni due anni, un’indagine tra le Parti contraenti riguardo ai progressi compiuti nel miglioramento delle procedure applicate nei rispettivi Paesi per l’attraversamento delle frontiere.
+In relazione agli articoli 1–6 del presente allegato, il Segretario esecutivo della Commissione economica per l’Europa delle Nazioni Unite (UN/ECE) effettua, ogni cinque anni, un’indagine tra le Parti contraenti riguardo ai progressi compiuti nel miglioramento delle procedure applicate nei rispettivi Paesi per l’attraversamento delle frontiere.
 
 Appendice 1 dell’allegato 8 alla Convenzione
 
@@ -837,7 +837,7 @@ Appendice 2 dell’allegato 8 alla Convenzione
 
 \8. (Disposizione transitoria) Poiché attualmente le stazioni di pesatura dotate di strumenti che consentono di effettuare misurazioni del peso per asse o per gruppo di assi sono molto poche, le Parti contraenti che accettano il Certificato convengono che, per un periodo transitorio di 12 mesi a decorrere dall’entrata in vigore del presente allegato, siano sufficienti e vengano accettate dalle autorità nazionali competenti le misurazioni del peso lordo del veicolo di cui al punto 7.3 del Certificato internazionale di pesatura del veicolo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image1.png)
 
 <table>
 <tr><td><sup>1</sup> Ad esempio: n. della lettera di vettura CMR.</td></tr>
@@ -848,7 +848,7 @@ Appendice 2 dell’allegato 8 alla Convenzione
 <tr><td><sup>6</sup> Se gli assi sono più di sei, darne indicazione nella casella «Osservazioni», a pag. 2.</td></tr>
 </table>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image2.png)
 
 <table>
 <tr><td></td><td colspan="2">Certificato internazionale di pesatura del veicolo (CIPV)</td><td></td></tr>
@@ -875,34 +875,34 @@ Figure dei tipi di veicoli stradali merci di cui al punto 7.1 del CIPV
 <table>
 <tr><th>N.</th><th>Veicoli stradali merci</th><th>Tipo di veicolo \* prima configurazione alternativa degli assi \*\* seconda configurazione alternativa degli assi</th><th>Distanza tra gli assi (in m)<sup>1</sup> <sup>1</sup> Non precisata se non pertinente</th></tr>
 <tr><td colspan="4">I. Veicoli rigidi</td></tr>
-<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image3.png)</td><td>A<sub>2</sub></td><td>D &lt; 4.0</td></tr>
-<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image4.png)</td><td>A<sub>2</sub>\*</td><td>D ≥ 4.0</td></tr>
-<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image5.png)</td><td>A<sub>3</sub></td><td></td></tr>
-<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image6.png)</td><td>A<sub>4</sub></td><td></td></tr>
-<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image7.png)</td><td>A<sub>3</sub>\*</td><td></td></tr>
-<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image8.png)</td><td>A<sub>4</sub>\*</td><td></td></tr>
-<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image9.png)</td><td>A<sub>5</sub></td><td></td></tr>
+<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image3.png)</td><td>A<sub>2</sub></td><td>D &lt; 4.0</td></tr>
+<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image4.png)</td><td>A<sub>2</sub>\*</td><td>D ≥ 4.0</td></tr>
+<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image5.png)</td><td>A<sub>3</sub></td><td></td></tr>
+<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image6.png)</td><td>A<sub>4</sub></td><td></td></tr>
+<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image7.png)</td><td>A<sub>3</sub>\*</td><td></td></tr>
+<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image8.png)</td><td>A<sub>4</sub>\*</td><td></td></tr>
+<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image9.png)</td><td>A<sub>5</sub></td><td></td></tr>
 <tr><td colspan="4">II. Veicoli combinati</td></tr>
 <tr><td colspan="4">(veicoli accoppiati ai sensi del capo I, articolo 1, lettera t), della Convenzione del 1968 sulla circolazione stradale)</td></tr>
-<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image10.png)</td><td>A<sub>2</sub>T<sub>2</sub></td><td></td></tr>
-<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image11.png)</td><td>A<sub>2</sub>T<sub>3</sub></td><td></td></tr>
-<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image12.png)</td><td>A<sub>3</sub>T<sub>2</sub></td><td></td></tr>
-<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image13.png)</td><td>A<sub>3</sub>T<sub>3</sub></td><td></td></tr>
-<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image14.png)</td><td>A<sub>3</sub>T<sub>3</sub>\*</td><td></td></tr>
-<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image15.png)</td><td>A<sub>2</sub>C<sub>2</sub></td><td></td></tr>
-<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image16.png)</td><td>A<sub>2</sub>C<sub>3</sub></td><td></td></tr>
-<tr><td>8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image17.png)</td><td>A<sub>3</sub>C<sub>2</sub></td><td></td></tr>
-<tr><td>9</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image18.png)</td><td>A<sub>3</sub>C<sub>3</sub></td><td></td></tr>
-<tr><td>10</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image19.png)</td><td>A<sub>2</sub>C<sub>1</sub></td><td></td></tr>
-<tr><td>11</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image20.png)</td><td>A<sub>3</sub>C<sub>1</sub></td><td></td></tr>
-<tr><td colspan="4">III. Veicoli articolati 1 con 3 assi ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image21.png) A<sub>2</sub>S<sub>1</sub> 2 con 4 assi (semplici o tandem) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image22.png) A<sub>2</sub>S<sub>2</sub> D ≤ 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image23.png) A<sub>2</sub>S<sub>2</sub>\* D &gt; 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image24.png) A<sub>3</sub>S<sub>1</sub> 3 con 5 o 6 assi (semplici, tandem, tridem) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image25.png) A<sub>2</sub>S<sub>3</sub> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image26.png) A<sub>2</sub>S<sub>3</sub>\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image27.png) A<sub>2</sub>S<sub>3</sub>\*\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image28.png) A<sub>3</sub>S<sub>2</sub> D ≤ 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image29.png) A<sub>3</sub>S<sub>2</sub>\* D &gt; 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image30.png) A<sub>3</sub>S<sub>3</sub> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image31.png) A<sub>3</sub>S<sub>3</sub>\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20190312/it/xml/image/image32.png) A<sub>3</sub>S<sub>3</sub>\*\* Senza figura A<sub>n</sub>S<sub>n</sub></td></tr>
+<tr><td>1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image10.png)</td><td>A<sub>2</sub>T<sub>2</sub></td><td></td></tr>
+<tr><td>2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image11.png)</td><td>A<sub>2</sub>T<sub>3</sub></td><td></td></tr>
+<tr><td>3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image12.png)</td><td>A<sub>3</sub>T<sub>2</sub></td><td></td></tr>
+<tr><td>4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image13.png)</td><td>A<sub>3</sub>T<sub>3</sub></td><td></td></tr>
+<tr><td>5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image14.png)</td><td>A<sub>3</sub>T<sub>3</sub>\*</td><td></td></tr>
+<tr><td>6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image15.png)</td><td>A<sub>2</sub>C<sub>2</sub></td><td></td></tr>
+<tr><td>7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image16.png)</td><td>A<sub>2</sub>C<sub>3</sub></td><td></td></tr>
+<tr><td>8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image17.png)</td><td>A<sub>3</sub>C<sub>2</sub></td><td></td></tr>
+<tr><td>9</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image18.png)</td><td>A<sub>3</sub>C<sub>3</sub></td><td></td></tr>
+<tr><td>10</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image19.png)</td><td>A<sub>2</sub>C<sub>1</sub></td><td></td></tr>
+<tr><td>11</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image20.png)</td><td>A<sub>3</sub>C<sub>1</sub></td><td></td></tr>
+<tr><td colspan="4">III. Veicoli articolati 1 con 3 assi ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image21.png) A<sub>2</sub>S<sub>1</sub> 2 con 4 assi (semplici o tandem) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image22.png) A<sub>2</sub>S<sub>2</sub> D ≤ 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image23.png) A<sub>2</sub>S<sub>2</sub>\* D &gt; 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image24.png) A<sub>3</sub>S<sub>1</sub> 3 con 5 o 6 assi (semplici, tandem, tridem) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image25.png) A<sub>2</sub>S<sub>3</sub> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image26.png) A<sub>2</sub>S<sub>3</sub>\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image27.png) A<sub>2</sub>S<sub>3</sub>\*\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image28.png) A<sub>3</sub>S<sub>2</sub> D ≤ 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image29.png) A<sub>3</sub>S<sub>2</sub>\* D &gt; 2.0 ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image30.png) A<sub>3</sub>S<sub>3</sub> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image31.png) A<sub>3</sub>S<sub>3</sub>\* ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/764_764_764/20210527/it/xml/image/image32.png) A<sub>3</sub>S<sub>3</sub>\*\* Senza figura A<sub>n</sub>S<sub>n</sub></td></tr>
 </table>
 
 Allegato 9*[^t-3]*
 
 ## Agevolazione delle procedure di attraversamento delle frontiere per i trasporti internazionali di merci per ferrovia
 
-[^t-3]: Introdotto dalla mod. del 24 ago. 2011, in vigore per la Svizzera dal 30 nov. 2011 ([RU 2011 5049](https://fedlex.data.admin.ch/eli/oc/2011/742)).
+[^t-3]: Introdotto dalla mod. approvata dal CF il 24 ago. 2011, in vigore per la Svizzera dal 30 nov. 2011 ([RU 2011 5049](https://fedlex.data.admin.ch/eli/oc/2011/742)).
 
 #### Art. 1
 
@@ -1055,11 +1055,11 @@ Campo d’applicazione il 12 marzo 2019**[^t-4]**
 <tr><td>Ungheria<sup>\*</sup></td><td>26 gennaio</td><td>1984</td><td>15 ottobre</td><td>1985</td></tr>
 <tr><td>Unione europea (UE)</td><td>12 giugno</td><td>1987</td><td>12 settembre</td><td>1987</td></tr>
 <tr><td>Uzbekistan</td><td>27 novembre</td><td>1996 A</td><td>27 febbraio</td><td>1997</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. [tab] Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. [tab] Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale delle dogane: www.wcoomd.org/ &gt; Français &gt; A notre propos &gt; Conventions et Accords, oppure ottenuti presso la Direzione delle Dogane, Sezione Affari Internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-4]: [RU 1986 764](https://fedlex.data.admin.ch/eli/oc/1986/764_764_764), [1987 1016](https://fedlex.data.admin.ch/eli/oc/1987/1016_1016_1016), [1989 314](https://fedlex.data.admin.ch/eli/oc/1989/314_314_314), [2004 3609](https://fedlex.data.admin.ch/eli/oc/2004/489), [2007 1405](https://fedlex.data.admin.ch/eli/oc/2007/246), [2009 7105](https://fedlex.data.admin.ch/eli/oc/2009/860), [2012 4383](https://fedlex.data.admin.ch/eli/oc/2012/516), [2015 759](https://fedlex.data.admin.ch/eli/oc/2015/134)e [2019 1039](https://fedlex.data.admin.ch/eli/oc/2019/190). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 1986 764](https://fedlex.data.admin.ch/eli/oc/1986/764_764_764); [1987 1016](https://fedlex.data.admin.ch/eli/oc/1987/1016_1016_1016); [1989 314](https://fedlex.data.admin.ch/eli/oc/1989/314_314_314); [2004 3609](https://fedlex.data.admin.ch/eli/oc/2004/489); [2007 1405](https://fedlex.data.admin.ch/eli/oc/2007/246); [2009 7105](https://fedlex.data.admin.ch/eli/oc/2009/860); [2012 4383](https://fedlex.data.admin.ch/eli/oc/2012/516); [2015 759](https://fedlex.data.admin.ch/eli/oc/2015/134); [2019 1039](https://fedlex.data.admin.ch/eli/oc/2019/190). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Dichiarazione
 
