@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-05-01
-valid_until: 2021-05-27
-version_adopted: 2021-04-28
+version: 2021-05-28
+valid_until: 2021-06-25
+version_adopted: 2021-05-27
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2272/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2284/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2272/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 01.05.2021)
+vom 04.11.2020 (Stand 28.05.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -381,6 +381,26 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat entscheidet auf Antrag der Direktion für Inneres und Justiz über den Widerruf der Bewilligung wegen Nichteinhaltung des Schutzkonzepts (Art. 5c Abs. 5 Bst. a der Covid-19-Verordnung besondere Lage).
 
+#### Art. 20c1
+
+**Bewilligung für Grossveranstaltungen sowie Fach- und Publikumsmessen**
+
+<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig für die Erteilung der Bewilligung gemäss Artikel 6a Absatz 1 bis 4 und Artikel 6b<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage sowie für den Widerruf einer erteilten Bewilligung oder den Erlass zusätzlicher Einschränkungen gemäss Artikel 6a Absatz 5 der Covid-19-Verordnung besondere Lage.
+
+<sup>2</sup> Sie oder er ist dabei an die Beurteilung der epidemiologischen Lage, der notwendigen Kapazitäten für die erforderliche Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen sowie der notwendigen Kapazitäten in der Gesundheitsversorgung durch die Gesundheits-, Sozial- und Integrationsdirektion gebunden (Art. 6a Abs. 2 Bst. a und b Covid-19-Verordnung besondere Lage).
+
+<sup>3</sup> Bei Gesuchen um Erteilung einer Bewilligung zur Durchführung einer Grossveranstaltung mit internationalem Charakter sowie für deren Widerruf ist vor dem Entscheid die Zustimmung des Regierungsrates einzuholen. Die Regierungsstatthalterin oder der Regierungsstatthalter wendet sich in einem solchen Fall an die Gesundheits-, Sozial- und Integrationsdirektion, die dem Regierungsrat einen entsprechenden Antrag unterbreitet.
+
+<sup>4</sup> Die Gesuche sind bei der Standortgemeinde einzureichen und werden von dieser an die Regierungsstatthalterin oder den Regierungsstatthalter weitergeleitet.
+
+#### Art. 20c2
+
+**Pilotprojekte zur Durchführung von Grossveranstaltungen**
+
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist zuständig für die Erteilung der Bewilligung gemäss Artikel 6b<sup>quater</sup> Absatz 1 bis 4 der Covid-19-Verordnung besondere Lage sowie für den Widerruf einer erteilten Bewilligung oder den Erlass zusätzlicher Einschränkungen gemäss Artikel 6b<sup>quater</sup> Absatz 7 der Covid-19-Verordnung besondere Lage.
+
+<sup>2</sup> Sie informiert das Bundesamt für Gesundheit gemäss Artikel 6b<sup>quater</sup> Absatz 8 der Covid-19-Verordnung besondere Lage.
+
 #### Art. 20d
 
 **Covid-19-Impfungen in Apotheken**
@@ -488,7 +508,11 @@ beschliesst:
 
 <sup>2a</sup> Die Artikel 8a bis 8d gelten bis zum 22. Januar 2021.
 
-<sup>2b</sup> Die Artikel 3 bis 5, 6a, 9 und 10 sowie 16a bis 16h gelten bis zum 31. Mai 2021.
+<sup>2b</sup> Artikel 6a gilt bis zum 31. Mai 2021.
+
+<sup>2c</sup> Die Artikel 3 bis 5, 16a bis 16h sowie 20c2 gelten bis zum 30. Juni 2021.
+
+<sup>2d</sup> Die Artikel 9 und 10 gelten bis zum 10. Juli 2021.
 
 <sup>3–3a</sup> …
 

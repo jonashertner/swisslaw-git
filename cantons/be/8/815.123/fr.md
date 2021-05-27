@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-05-01
-valid_until: 2021-05-27
-version_adopted: 2021-04-28
+version: 2021-05-28
+valid_until: 2021-06-25
+version_adopted: 2021-05-27
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2272/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2284/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2272/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 01.05.2021)
+du 04.11.2020 (état au 28.05.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -381,6 +381,26 @@ arrête:
 
 <sup>2</sup> Si le plan de protection n'est pas respecté, le Conseil-exécutif statue sur la révocation de l'autorisation sur proposition de la Direction de l'intérieur et de la justice (art. 5c, al. 5, lit. a ordonnance COVID-19 situation particulière).
 
+#### Art. 20c1
+
+**Autorisation pour les grandes manifestations, les foires spécialisées et tout public**
+
+<sup>1</sup> Le préfet ou la préfète est compétente pour octroyer l'autorisation prévue à l’article 6a, alinéas 1 à 4 et à l'article 6b<sup>quinquies</sup> de l'ordonnance COVID-19 situation particulière et pour la révoquer ou pour édicter des restrictions supplémentaires selon l'article 6a, alinéa 5 de l’ordonnance COVID-19 situation particulière.
+
+<sup>2</sup> Il ou elle doit se tenir à l'évaluation, faite par la Direction de la santé, des affaires sociales et de l’intégration, de la situation épidémiologique, des capacités nécessaires à l'identification et à l’information des personnes présumées infectées, ainsi que des capacités nécessaires à la couverture de soins (art. 6a, al. 2, lit. a et b ordonnance COVID-19 situation particulière).
+
+<sup>3</sup> Les demandes d’octroi d’une autorisation pour l’organisation d’une grande manifestation de portée internationale, et le cas échéant la révocation d’une telle autorisation, sont soumises au préalable à l’approbation du Conseil-exécutif. Le préfet ou la préfète s’adresse dans un tel cas à la Direction de la santé, des affaires sociales et de l’intégration, qui soumet une proposition correspondante au Conseil-exécutif.
+
+<sup>4</sup> Les demandes doivent être déposées à la commune, qui les transmet au préfet ou à la préfète.
+
+#### Art. 20c2
+
+**Organisation de grandes manifestations à titre de projets pilotes**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration est compétente pour octroyer l'autorisation prévue à l’article 6b<sup>quater</sup>, alinéas 1 à 4 de l'ordonnance COVID-19 situation particulière et pour la révoquer ou pour édicter des restrictions supplémentaires selon l'article 6b<sup>quater</sup>, alinéa 7 de l’ordonnance COVID-19 situation particulière.
+
+<sup>2</sup> Elle informe l'Office fédéral de la santé publique conformément à l'article 6b<sup>quater</sup>, alinéa 8 de l'ordonnance COVID-19 situation particulière.
+
 #### Art. 20d
 
 **Vaccination contre le COVID-19 en pharmacie**
@@ -488,7 +508,11 @@ arrête:
 
 <sup>2a</sup> Les articles 8a à 8d sont valables jusqu'au 22 janvier 2021.
 
-<sup>2b</sup> Les articles 3 à 5, 6a, 9 et 10 ainsi que 16a à 16h sont valables jusqu'au 31 mai 2021.
+<sup>2b</sup> L'article 6a est valable jusqu'au 31 mai 2021.
+
+<sup>2c</sup> Les articles 3 à 5, 16a à 16h ainsi que 20c2 sont valables jusqu'au 30 juin 2021.
+
+<sup>2d</sup> Les articles 9 et 10 sont valables jusqu'au 10 juillet 2021.
 
 <sup>3–3a</sup> …
 
