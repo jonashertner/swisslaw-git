@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Disposizioni esecutive per l'utilizzo del sistema di ingressi e uscite (sviluppi dell'acquis di Schengen)"
 document: Avamprogetto 2
 language: it

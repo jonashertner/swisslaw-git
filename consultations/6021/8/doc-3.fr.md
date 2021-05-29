@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Dispositions d'exécution relatives à l'utilisation du système d'entrée et de sortie (développements de l'acquis de Schengen)"
 document: Projet 3
 language: fr

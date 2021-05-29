@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ausführungsbestimmungen zur Nutzung des Einreise- und Ausreisesystems (Weiterentwicklungen des Schengen-Besitzstands)
 document: Vorlage 2
 language: de
