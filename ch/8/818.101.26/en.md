@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinance of 19 June 2020 on Measures during the Special Situation to combat the COVID-19 Epidemic (COVID-19 Ordinance Special Situation)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: en
-version: 2021-05-27
+version: 2021-05-31
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210527/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210527-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210527/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210531/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210531-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210531/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 19 June 2020 (Status as of 27 May 2021)
+of 19 June 2020 (Status as of 31 May 2021)
 
 The Swiss Federal Council,
 
@@ -94,7 +94,7 @@ The following persons are exempted from this requirement:
 - a. children under the age of 12;
 - b.[^3b-3] persons who can prove that they are unable to wear a face mask for compelling reasons, in particular medical reasons; proof of medical reasons must be provided in accordance with Article 3*a* paragraph 1 letter b;
 - c. persons in institutions that provide childcare outside the family, provided wearing a face mask significantly impedes the provision of care;
-- d.[^3b-4] guests in restaurants, bars and clubs who are consuming food or drinks while seated at a table;
+- d.[^3b-4] guests in restaurants, bars and clubs if they are seated at a table;
 - e. persons undergoing a medical or cosmetic procedure to the face;
 - f. performers, in particular speakers, and athletes and artists in accordance with Articles 6*e* and 6*f*.
 
@@ -104,22 +104,24 @@ The following persons are exempted from this requirement:
 
 Socio-medical institutions may in consultation with the responsible cantonal authority provide in their precautionary measures plans that the following persons are exempted from this requirement in their publicly accessible areas:
 
-- a. residents who have been vaccinated against COVID-19 in accordance with the FOPH vaccination recommendations for mRNA vaccines: for 6 months from the 14th day after vaccination;
-- b.[^3b-6] residents who can prove that they have been infected with Sars- CoV-2 and have recovered: for 6 months from the date on which they were authorised to leave isolation by the responsible cantonal authority.[^3b-7]
+- a. residents who have been vaccinated against COVID-19: for the period specified in Annex 2;
+- b. residents who were infected with Sars-CoV-2 and have recovered: for the period specified in Annex 2.[^3b-6]
+
+<sup>4</sup> The persons who are regarded as vaccinated in terms of paragraph 3 letter a are defined in Annex 2.[^3b-7]
 
 [^3b-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3b-3]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^3b-4]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3b-4]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 [^3b-5]: Inserted by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^3b-6]: amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^3b-7]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3b-6]: Inserted by No I of the O of 14 April 2021 (Relaxations: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Cultural, Entertainment, Leisure and Sports Establishments) ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)). Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^3b-7]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 3c
 
 **Measures that apply in public places[^3c-2]**[^3c-1]
 
-<sup>1</sup> Gatherings of more than 15 persons are prohibited in public places such as squares, paths and parks.[^3c-3]
+<sup>1</sup> ...[^3c-3]
 
 <sup>2</sup>
 
@@ -132,7 +134,7 @@ All persons in the following public areas must wear a face mask:
 
 [^3c-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home), in force since 19 Oct. 2020 ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
 [^3c-2]: Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^3c-3]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^3c-3]: Repealed by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), with effect from 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 [^3c-4]: Amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 [^3c-5]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
@@ -158,30 +160,38 @@ The responsible cantonal authority shall place into quarantine persons who withi
 
 The following persons are exempted from contact quarantine:
 
-- a.[^3d-1] persons who have proof that they were infected with and have recovered from Sars-CoV-2: for 6 months from the date on which they were authorised to leave isolation by the responsible cantonal authority;
-- b. persons who carry out an activity that is of high importance to society and for which there is an acute shortage of staff.
+- a. persons who prove that they have been vaccinated against COVID-19: for the period specified in Annex 2;
+- b. persons who prove that they were infected with Sars-CoV-2 and have recovered: for the period specified in Annex 2;
+- b. persons who carry out an activity that is of high importance to society and for which there is an acute shortage of staff; while working and when travelling to work.[^3d-1]
+
+<sup>2bis</sup> The persons who are regarded as vaccinated in terms of paragraph 3 letter a are defined in Annex 2.[^3d-2]
 
 <sup>3</sup>
 
-Persons working for businesses in which employees are subject to systematic and repetitive testing are exempted from contact quarantine during their professional activities and when travelling to work, provided the following requirements are met:
+Persons working for businesses that have a testing plan that meets the following requirements are exempted from contact quarantine while working and when travelling to work:
 
-- a. The business has a plan that allows employees simple access to tests on the premises; employees must be able to take a test at least once a week.
-- b. The requirements are met for the Confederation to pay the cost of the tests in accordance with Annex 6 Sections 3.1 and 3.2 the COVID-19 Ordinance 3 of 19 June 2020[^3d-2].
-- c. The persons concerned remain in contact quarantine when not at work or travelling to work.[^3d-3]
+- a. The plan allows employees simple access to tests and provides that employees are regularly informed of the advantages of the tests.
+- b. Employees must be able to take a test at least once a week.
+- c. The requirements are met for the Confederation to pay the cost of the tests in accordance with Annex 6 Sections 3.1 and 3.2 the COVID-19 Ordinance 3 of 19 June 2020[^3d-3].[^3d-4]
+
+<sup>3bis</sup> The persons specified in paragraph 3 must remain in contact quarantine when not at work or travelling to work.[^3d-5]
 
 <sup>4</sup>
 
 In respect of specific persons or categories of persons, the responsible cantonal authority may:
 
 - a. in justified cases authorise additional exemptions from or relaxations of the regulations on contact quarantine for specific persons;
-- b. in cases other than those under paragraph 1 or even if the requirements under paragraph 3 are met, place a person in contact quarantine if this is necessary in order to prevent the spread of COVID-19.[^3d-4]
-- [tab] <sup>5</sup> It shall notify the FOPH of measures taken in respect of specific categories of persons under paragraph 4.[^3d-5]
+- b.[^3d-6] in cases other than those under paragraph 1 or even if the requirements under paragraphs 2 and 3 are met, place a person in contact quarantine if this is necessary in order to prevent the spread of COVID-19.[^3d-7]
+- [tab] <sup>5</sup> It shall notify the FOPH of measures taken in respect of specific categories of persons under paragraph 4.[^3d-8]
 
-[^3d-1]: Amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
-[^3d-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3d-3]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^3d-4]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^3d-5]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-1]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^3d-2]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^3d-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^3d-4]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^3d-5]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^3d-6]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^3d-7]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^3d-8]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 
 #### Art. 3e
 
@@ -269,47 +279,32 @@ The precautionary measures plan must meet the following requirements:
 
 **Special provisions for restaurants, bars and clubs and on discotheques and dance venues**[^5a-1]
 
-<sup>1</sup> Restaurants, bars, clubs, discotheques and dance halls are not permitted to operate.
+<sup>1</sup> Discotheques and dance venues are not permitted to operate.
 
 <sup>2</sup>
 
-The prohibition does not apply to the following businesses:
+In restaurants, bars and clubs in which food and drinks are consumed on the premises, the following applies:
 
-- a. businesses that offer takeaway food and drinks and that deliver meals;
-- b.
+- a. Either the required distance must be maintained between individual groups of guests or effective partitioning must be in place.
+- b. Guests must be seated; in particular food and drink may only be consumed while seated.
+- c. Groups of guests may be a maximum of 4 persons in indoor areas and a maximum of 6 persons in outdoor areas; the foregoing does not apply to parents with children.
+- d. The proprietor must record the contact details of all guests; the contact details of children who are with their parents need not be recorded.
 
-  restaurants, cafés, bars and clubs including takeaway businesses, provided they only offer food and drinks for consumption in outdoor areas; outdoor areas are defined as terraces and other spaces outside of a building where the free circulation of air is guaranteed and which:
+<sup>3</sup>
 
-  - 1\. are not covered, or
-  - 2\. are covered but at least half of their sides are open.
+Staff canteens and canteens and lunch and after-school clubs in primary and lower secondary schools are exempted from paragraph 2. In their case, the following applies:
 
-- c.
+- a.
 
-  staff canteens that cater exclusively for persons working in the business concerned and that include the following measures in their precautionary measures plan on serving and consuming food and drinks:
+  in staff canteens:
 
-  - 1\. guests consuming food and drinks in the restaurant area must be seated,
-  - 2\. either the required distance must be maintained between individual guests or effective partitioning must be in place;
+  - 1\. persons consuming food and drinks in the restaurant area must be seated,
+  - 2\. all guests must maintain the required distance from each other,
+  - 3\. only persons working in the business concerned may be served;
 
-- d.
+- b. in canteens and lunch and after-school clubs in primary and lower secondary schools: only school pupils, teaching staff and other employees of the school the school or organisation may be served.
 
-  restaurants and cafés, the indoor areas of which are open only to professional drivers and other professionals who are required to work outdoors, in particular agricultural and construction workers, tradespeople and assembly workers; in such restaurants and cafés, the following applies in addition to the protection measures under letter c:
-
-  - 1\. they must notify the responsible cantonal authority of the services that they are offering,
-  - 2\. they may only serve guests who have made a reservation; the foregoing does not apply to serving professional drivers,
-  - 3\. they must record the contact details of all their guests;
-
-- e. canteens or lunch and after-school clubs in primary and lower secondary schools that cater exclusively for schoolchildren, teaching staff and other school employees;
-- f. restaurants and bars in hotels that are open only to hotel guests.
-- [tab] <sup>3</sup> In establishments under paragraph 2 letters b and f, the following applies:
-- a. groups of guests are limited to 4 persons per table; this does not apply to parents with children;
-- b. guests must be seated; in particular food and drink may only be consumed while seated;
-- c. groups of guests must either maintain the required distance from each other or must be separated by effective barriers;
-- d. the proprietor must record the contact details of all guests; the contact details of children who are with their parents need not be recorded.
-- [tab] <sup>4</sup> The following opening hours apply:
-- a. Businesses under paragraph 2 letters a and d must remain closed between 11pm and 6am.
-- b. Businesses under paragraph 2 letters c and d may only open during customary mealtimes and must in every case remain closed between 10pm and 6am; the foregoing does not apply to restaurants and cafés in companies that operate 24 hours a day in shifts.
-
-[^5a-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force from 19 April until 31 May 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^5a-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force from 31 May 2021 to 30 June 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -332,10 +327,16 @@ The prohibition does not apply to the following businesses:
 Publicly accessible indoor areas of businesses and establishments in the culture, entertainment, leisure and sport sectors may only open to the public if the requirement to wear a mask under Article 3*b* is applied and the required distance can be maintained. The foregoing does not apply to:
 
 - a. use for educational, sporting and cultural activities and for child and youth work, provided an exemption from wearing a face mask or maintaining the required distance in accordance with Articles 6*e*–6*g* applies;
-- b. hotel facilities that are accessible to hotel guests only.
+- b.
+
+  thermal baths and spa facilities if the activities concerned cannot be carried out while wearing a face mask; in such an event, the following applies:
+
+  - 1\. the capacity limits in Annex 1 number 3.1<sup>bis</sup> letter e must be complied with, and
+  - 2\. the precautionary measures plan must include specific measures to ensure that the required distance is maintained.
+
 - [tab] <sup>2</sup> The indoor areas of businesses and establishments that are closed in accordance with paragraph 1 but which are required in order that the outdoor areas may be used, in particular entrance areas, sanitary facilities and cloakrooms may be kept open.
 
-[^5d-1]: Inserted by No I of the O of 18 Dec. 2020 (Tightening of Measures in December) ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force from 19 April to 31 May 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^5d-1]: Inserted by No I of the O of 18 Dec. 2020 (Tightening of Measures in December) ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force from 31 May 2021 to 30 June 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 5e and 5f
 
@@ -349,43 +350,50 @@ Publicly accessible indoor areas of businesses and establishments in the culture
 
 <sup>1</sup>
 
-It is prohibited to hold events with more than 15 participants. This restriction does not apply to:[^6-2]
+It is prohibited to hold events involving more than 50 participants. This restriction does not apply to:[^6-2]
 
 - a. events under Article 6*c*;
-- b. political campaign events with up to 50 persons in attendance;
-- c. hearings before courts and arbitration tribunals;
-- d. religious events with up to 50 persons in attendance;
-- e. funerals attended by family and close friends;
+- b.[^6-3] political campaign events; these may be held indoors with up to 100 persons in attendance, outdoors with up to 300 persons;
+- c.[^6-4] ...
+- d.[^6-5] religious events; these may be held indoors with up to 100 persons in attendance, outdoors with up to 300 persons;
+- e.[^6-6] ...
 - f. education and training events permitted under Article 6*d*;
-- g.[^6-3] sporting or cultural events under Articles 6*e* paragraph 1 and 6*f* paragraphs 2 and 3;
-- h.[^6-4] events that are permitted activities under Article 6*g*;
-- i.[^6-5] events with spectators or an audience in accordance with paragraph 1<sup>bis</sup>;
-- j.[^6-6] large-scale events under Article 6*a* and pilot projects for large-scale events under Article 6*b*<sup>quater</sup>
+- g.[^6-7] sporting and cultural events in accordance with Articles 6*e* paragraphs 1 and 2 letter a, 6*f* paragraphs 2 and 3 letter a;
+- h.[^6-8] events that are permitted activities under Article 6*g*;
+- i.[^6-9] events involving spectators or an audience in accordance with paragraph 1<sup>bis</sup>;
+- j.[^6-10] large-scale events under Article 6*a* and pilot projects for large-scale events under Article 6*b*<sup>quater</sup>.
 
 <sup>1bis</sup>
 
-The following applies to events involving spectators or an audience with the exception of large-scale events under Article 6*a* and pilot projects for large-scale events under Article 6*b*<sup>quater</sup>:[^6-7]
+The following applies to events involving spectators or an audience with the exception of large-scale events under Article 6*a* and pilot projects for large-scale events under Article 6*b*<sup>quater</sup>:
 
-- a. a maximum of 50 persons are permitted as spectators or an audience (visitors) at indoor events. A maximum of 100 is permitted at outdoor events.
-- b. A maximum of one third of the seats available to visitors may be occupied.
-- c. Visitors must remain seated for the entire event, including any intervals, unless there are valid reasons for not remaining seated for a period; each visitor must be allocated a specific seat.
-- d. The operation of restaurant-type establishments including takeaway businesses is prohibited.
-- e. The consumption of food and drinks is prohibited.[^6-8]
+- a. A maximum of 100 persons are permitted as spectators or an audience (visitors) at indoor events. A maximum of 300 is permitted at outdoor events.
+- b. A maximum of one half of the seats available to visitors may be occupied.
+- c. Visitors must remain seated.
+- d. In derogation from letter c, in the case of outdoor sporting and cultural events involving children and young people born in 2001 or later, the requirement to be seated does not apply.
+- e. If the organiser permits the consumption of food and drinks at the seats in the public area, he must record the contact details of all visitors.
+- f. If the event is held in a restaurant-type establishment, only the requirements under letter a under Article 5*a* paragraph 2 apply.[^6-11]
 
-<sup>2</sup> In the case of events involving family members and friends (private events) that are not held in publicly accessible establishments or businesses, a maximum of 10 persons may attend indoor events and a maximum of 15 persons may attend outdoor events. Only Article 3 applies. The requirement to draw up and implement a precautionary measures plan does not apply.[^6-9]
+<sup>1ter</sup> Dance events are prohibited.[^6-12]
 
-<sup>3</sup> It is prohibited to hold trade fairs indoors. Exempted therefrom are trade and consumer fairs under Article 6*b*<sup>quinquies</sup>.[^6-10]
+<sup>2</sup> In the case of events involving family members and friends (private events) that are not held in publicly accessible establishments or businesses, a maximum of 30 persons may attend indoor events and a maximum of 50 persons may attend outdoor events. Only Article 3 applies. The requirement to draw up and implement a precautionary measures plan does not apply.[^6-13]
+
+<sup>3</sup> It is prohibited to hold trade fairs indoors. Exempted therefrom are trade and consumer fairs under Article 6*b*<sup>quinquies</sup>.[^6-14]
 
 [^6-1]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^6-2]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-3]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-4]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-5]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-6]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
-[^6-7]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
-[^6-8]: Inserted by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6-2]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-3]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-4]: Repealed by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), with effect from 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-5]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-6]: Repealed by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), with effect from 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-7]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-8]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
 [^6-9]: Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
-[^6-10]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6-10]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6-11]: Inserted by No I of the O of 14 April 2021 (Relaxations: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Cultural, Entertainment, Leisure and Sports Establishments) ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)). Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-12]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-13]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6-14]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 6a
 
@@ -419,7 +427,7 @@ The canton shall revoke authorisation or shall issue additional restrictions if:
 - b. an organiser did not comply with the measures set out in the precautionary measures plan at an event that has already been held and cannot guarantee that the measures will be complied with in future.
 
 [^6a-1]: Inserted by No I of the O of 2. Sept 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
-[^6a-2]: In force till 19 Aug. 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6a-2]: With effet to 19 Aug. 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 
 #### Art. 6b
 
@@ -444,11 +452,12 @@ Entry to a large-scale event shall be limited to the following persons aged 16 a
 
 <sup>4</sup> The requirement to wear a face mask is governed by Article 3*b*. In addition to the exceptions under Article 3*b* paragraph 2, visitors to outdoor events are exempted from the requirement when seated.
 
-<sup>5</sup> In the case of sporting activities under Articles 6*e* paragraph 1 letter b and cultural activities under Article 6*f* paragraphs 2 letter c and 3, the competent licensing authority may permit exceptions to the restrictions if the precautionary measures plan contains specific protection measures.
+<sup>5</sup> In the case of sporting activities under Article 6*e* paragraph 2 and cultural activities under Article 6*f* paragraphs 2 and 3, the competent licensing authority may permit exceptions to the restrictions if the precautionary measures plan contains specific protection measures.[^6b-2]
 
 <sup>6</sup> The protection measures are specified in more detail in Annex 3.
 
 [^6b-1]: Inserted by No I of the O of 2. Sept 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6b-2]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 6b<sup>bis</sup>
 
@@ -464,14 +473,18 @@ For large-scale events held between 1 July and 19 August 2021, in addition to th
 - d. Persons in the spectator area must be seated; exceptions are possible for spectator areas along routes or in open areas and at outdoor events that are normally held without seating.
 - e. The competent licensing authority shall stipulate the maximum number of seats that may be occupied in any spectator area, taking account of the local conditions or circumstances and the precautionary measures plan submitted. This value may not exceed two thirds of capacity where spectators are seated and half of capacity where spectators are standing.
 - f. The consumption of food and drinks outside of restaurant-type establishments is only permitted at the allocated seat.
+- g.[^6bbis-2] The ban on dance events under Article 6 paragraph 1<sup>ter</sup> does not apply to outdoor events.
 
 <sup>2</sup> The additional requirements under Annex 3 number 2 also apply.
 
 [^6bbis-1]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force from 27 May 2021 to 19 Aug. 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6bbis-2]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 6b<sup>ter</sup>
 
 **Special provisions for large-scale events: Additional requirements for events from 20 August 2021**[^6bter-1]
+
+<sup>1</sup>
 
 For large-scale events held on or after 20 August 2021, the following applies in addition to the requirements under Article 6*b*:
 
@@ -479,7 +492,10 @@ For large-scale events held on or after 20 August 2021, the following applies in
 - b. In the case of events that are held on longer routes or on routes in the open air, the competent licensing authority may permit exceptions to the maximum number of persons in accordance with letters a and b if it is not possible to restrict access because of local conditions or circumstances.
 - c. At public outdoor events where all the audience or spectators are seated, no limit applies to the number of persons.
 
+<sup>2</sup> The ban on dance events under Article 6 paragraph 1<sup>ter</sup> including the ban on operating the required discotheques and dance venues under Article 5*a* paragraph 1 does not apply.[^6bter-2]
+
 [^6bter-1]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^6bter-2]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 6b<sup>quater</sup>
 
@@ -559,7 +575,7 @@ Restrictions on numbers do not apply to the following events:
 The following applies to events in educational and training institutions:
 
 - a. Events requiring physical presence with more than 50 persons are prohibited.
-- b. Rooms in which the events are held may be filled to a maximum of one third of their capacity.
+- b.[^6d-2] Rooms in which events are held may be filled to a maximum of one half of their capacity.
 
 <sup>2</sup>
 
@@ -571,9 +587,11 @@ The restrictions under paragraph 1 do not apply to:
   the following activities, provided classroom presence is required for their conduct:
 
   - 1\. teaching activities that are an essential part of the teaching programme,
-  - 2\. examinations in connection with study courses, in professional education or in order to obtain an official diploma.
+  - 2\. examinations in connection with study courses, in professional education or in order to obtain an official diploma;
 
-<sup>2</sup>
+- c.[^6d-3] institutions in the higher education sector and providers of higher vocational training and the advanced training, provided they have a plan for targeted and repetitive testing for Sars-CoV-2 that has been approved by the competent cantonal authority.
+
+<sup>3</sup>
 
 In the case of events requiring physical presence in institutions other than primary and lower secondary schools, the requirement to wear a face mask applies. This requirement does not apply:
 
@@ -581,6 +599,8 @@ In the case of events requiring physical presence in institutions other than pri
 - b. in situations in which wearing a face mask would significantly impede teaching.
 
 [^6d-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force since 19 April 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6d-2]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^6d-3]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 6e
 
@@ -588,28 +608,42 @@ In the case of events requiring physical presence in institutions other than pri
 
 <sup>1</sup>
 
-The following sports activities are permitted:
+No restrictions apply to the following persons when carrying out sports activities including competitions:
 
-- a. sports activities for children and young persons born in 2001 or later, including matches and competitions without spectators;
-- b.
+- a. children and young people born in 2001 or later;
+- b. elite athletes who hold a national or regional Swiss Olympic card or who are members of the national squad of a national sports association,
+- c. members of teams that compete in a professional or semi-professional league or a national junior league; where competition is professional or semi-professional only in the league for one of the two sexes, this also applies to sporting activities in the league for the other sex.
 
-  sports activities, including matches and competitions without spectators, for individuals or in groups of up to 15 persons born in 2000 or earlier:
+<sup>2</sup>
 
-  - 1\. outdoors provided participants wear a face mask or maintain the required distance,
-  - 2\. indoors subject to compliance the capacity limits under Annex 1 number 3.1<sup>bis</sup> letter f provided participants wear a face mask or maintain the required distance; face masks are not required if the activity cannot otherwise be carried out, there is sufficient space to meet the stricter requirements of Annex 1 number 3.1<sup>quater</sup> and contact details are recorded in accordance with Article 5;
+For persons other than those mentioned in paragraph 1, the following applies when carrying out sports activities:
 
+- a. The activities may be carried out by individuals or in groups of a maximum of 50 persons.
+- b. Outdoors a face mask must be worn or the required distance must be maintained; the requirements to wear a face mask and maintain the necessary distance may be disregarded only if contact details are recorded.
 - c.
 
-  training activities and competitions involving elite athletes who:
+  In indoor areas the capacity limit under Annex 1 number 3.1<sup>bis</sup> letter f must be complied with, a face mask must be worn and the required distance must be maintained; the following exceptions are permitted:
 
-  - 1\. hold a national or regional Swiss Olympic card or who are members of the national squad of a national sports association, and
-  - 2\. who train as individuals, in groups of up to 15 persons or as an established competitive team;
+  - 1\.
 
-- d. training activities and competitive matches involving teams that compete in a professional or semi-professional league or a national junior league; where competition is professional or semi-professional only in the league for one of the two sexes, the training activities and competitive matches may also take place in the league for the other sex.
+    a face mask need not be worn if:
 
-<sup>2</sup> Sports activities in groups of up to 5 persons under paragraph 1 letters a and b are exempted from the requirement to draw up a precautionary measures plan under Article 4.
+    - – the activity cannot otherwise be carried out and
+    - – there is sufficient space to satisfy the stricter requirements of Annex 1 number 3.1<sup>quater</sup> letters a and b,
 
-[^6e-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force from 19 April to 31 May 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+  - 2\.
+
+    a face mask need not be worn and the required distance need not be maintained if:
+
+    - – physical contact is unavoidable in the sport concerned
+    - – the activity is always carried out in permanent groups of a maximum of four persons and
+    - – there is sufficient space to satisfy the stricter requirements of Annex 1 number 3.1<sup>quater</sup> letter c,
+
+  - 3\. contact details must be recorded.
+
+<sup>3</sup> Activities under paragraphs 1 letter a and 2 in groups of up to 5 persons are exempted from the requirement to draw up a precautionary measures plan under Article 4.
+
+[^6e-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force from 31 May 2021 to 30 June 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 6f
 
@@ -619,25 +653,47 @@ The following sports activities are permitted:
 
 <sup>2</sup>
 
-In the non-professional cultural sector, the following activities are permitted, with the exception of performances before an audience:
+For the following persons, the only restriction that applies when carrying out cultural activities is that performances by choirs before an audience in indoor areas are prohibited:
 
-- a. any activities by children and young persons born in 2001 or later;
-- b. activities by any individual born in 2000 or earlier;
-- c. indoor activities in groups of up to 15 persons born in 2000 or earlier subject to the capacity limits in Annex 1 number 3.1<sup>bis</sup> letter f, provided participants wear face masks and maintain the required distance; face masks are not required if the activity cannot otherwise be carried out, there is sufficient space to meet the stricter requirements of Annex 1 number 3.1<sup>ter</sup> and contact details are recorded in accordance with Article 5;
-- d. outdoor activities in groups of up to 15 persons born in 2000 or earlier, provided participants wear face masks and maintain the required distance;
-- [tab] <sup>3</sup> In the professional cultural sector, all activities by artists or ensembles are permitted. The following applies to the activities that involve singing:
-- a. performances involving choirs with an audience are prohibited;
-- b. rehearsing and performing that involves singers is only permitted if the precautionary measures plan includes relevant protective measures.
+- a. children and young people born in 2001 or later;
+- b. professional artists.
 
-<sup>4</sup> Events under paragraph 2 letters a, c and d involving groups of up to 5 persons are exempt from the requirement to draw up a precautionary measures plan under Article 4.
+<sup>3</sup>
 
-[^6f-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force from 19 April to 31 May 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+For persons other than those mentioned in paragraph 2, the following applies when carrying out cultural activities:
+
+- a. The activities may be carried out by individuals or in groups of a maximum of 50 persons.
+- b. Outdoors a face mask must be worn or the required distance must be maintained; the requirements to wear a face mask and maintain the necessary distance may be disregarded only if contact details are recorded.
+- c.
+
+  Indoors the capacity limit in Annex 1 number 3.1<sup>bis</sup> letter f must be complied with, a face mask must be worn and the required distance must be maintained; the following exceptions are permitted:
+
+  - 1\.
+
+    face masks are not required if:
+
+    - – the activity cannot otherwise be carried out and
+    - – there is sufficient space to satisfy the stricter requirements of Annex 1 number 3.1<sup>ter</sup> letters a and b,
+
+  - 2\.
+
+    a face mask need not be worn and the required distance need not be maintained if:
+
+    - – physical contact is unavoidable in the sport concerned
+    - – the activity is always carried out in permanent groups of a maximum of four persons and
+    - – there is sufficient space to satisfy the stricter requirements of Annex 1 number 3.1<sup>ter</sup> letter c,
+
+  - 3\. contact details must be recorded.
+
+- d. Choir performances in indoor areas are prohibited.
+
+<sup>4</sup> Activities under paragraph 2 letter a and paragraph 3 involving groups of up to 5 persons are exempt from the requirement to draw up a precautionary measures plan under Article 4.
+
+[^6f-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force from 31 May 2021 to 30 June 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 6g
 
 **Special provisions for child and youth work**[^6g-1]
-
-<sup>1</sup>
 
 Activities of organisations and institutions involved in public child and youth work are permitted provided the following requirements are met:
 
@@ -647,11 +703,10 @@ Activities of organisations and institutions involved in public child and youth 
 
   The precautionary measures plan indicates:
 
-  - 1\. the permitted activities; parties, dancing events and the provision of food and drinks are not permitted at any time;
+  - 1\. the permitted activities; parties, dance events and the provision of food and drinks are not permitted at any time;
   - 2\. the maximum permitted number of children and young persons.
-  - [tab] <sup>2</sup> Dancing events and the provision of food and drinks in indoor areas are not permitted.
 
-[^6g-1]: Inserted by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops) ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)). Amended by No I of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), in force from 19 April to 31 May 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)).
+[^6g-1]: Inserted by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops) ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)). Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 #### Art. 7
 
@@ -713,13 +768,13 @@ The operator and organisers must:
 - a. submit their precautionary measures plan to the responsible cantonal authorities if requested to do so;
 - b. allow the responsible cantonal authorities access to the establishments, businesses or events.
 
-<sup>1bis</sup> The responsible cantonal authorities shall conduct regularly checks on compliance with the precautionary measures plans.[^9-1]
+<sup>1bis</sup> The responsible cantonal authorities shall conduct regularly checks on compliance with the precautionary measures plans, in particular in restaurant-type establishments.[^9-1]
 
 <sup>2</sup> If they establish that no adequate precautionary measures plan has been drawn up or that a plan has not been implemented or only in part, they shall take appropriate measures immediately. They may issue reminders, close down establishments or businesses or prohibit or break up events.[^9-2]
 
 <sup>3</sup> ... [^9-3]
 
-[^9-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Amended by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^9-1]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 [^9-2]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^9-3]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Repealed by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), with effect from 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 
@@ -743,7 +798,9 @@ All persons must wear face masks indoors, including in vehicles in which more th
 
 <sup>3</sup> Where the nature of the activity makes this possible and feasible at a reasonable cost, employers shall ensure that employees fulfil their work obligations from home. They shall take the appropriate organisational and technical measures for this purpose. Employees shall not be entitled to any reimbursement of expenses for fulfilling their work obligations from home on the basis of this provision.[^10-6]
 
-<sup>4</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^10-7] also applies.[^10-8]
+<sup>3bis</sup> Employers shall be relieved of the obligation under paragraph 3 to require employees to work from home provided they have introduced a test plan under Article 3*d* paragraph 3.[^10-7]
+
+<sup>4</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^10-8] also applies.[^10-9]
 
 [^10-1]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^10-2]: Repealed by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), with effect from 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
@@ -751,8 +808,9 @@ All persons must wear face masks indoors, including in vehicles in which more th
 [^10-4]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^10-5]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^10-6]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^10-7]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^10-8]: Inserted by No I of the O of 13 Jan. 2021 (Further Tightening of Measures) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^10-7]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^10-8]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^10-9]: Inserted by No I of the O of 13 Jan. 2021 (Further Tightening of Measures) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 
 #### Art. 11
 
@@ -794,21 +852,24 @@ Any person who commits any of the following acts shall be liable to a fine:
 - b. as an operator or organiser, wilfully or negligently processing contact details recorded pursuant to Article 5 for other purposes in contravention of Article 5 paragraph 3 or retaining such details for longer than 14 days after the person or persons concerned participated in the event or visited the establishment or business;
 - c.[^13-3] ...
 - d.[^13-4] wilfully holding an event or a trade or consumer fair involving more persons than are permitted under Article 6 paragraph 1, 1<sup>bis</sup> letter a or 2, 6*b*<sup>bis</sup> paragraph 1 letter a or b, 6*b*<sup>ter</sup> letter a, 6*b*<sup>quater</sup> paragraph 3 or 6*b*<sup>quinquies</sup> paragraph 2 letter a or b, or wilfully participating in an event under Article 6 paragraph 1, 1<sup>bis</sup> or 2 involving more persons than are permitted;
-- e.[^13-5] wilfully holding a trade fair the holding of which is prohibited by Article 6 paragraph 1<sup>ter</sup>;
+- e.[^13-5] wilfully holding a dance event or trade fair the holding of which is prohibited by Article 6 paragraph 1<sup>ter</sup> or 3;
 - e<sup>bis</sup>.[^13-6] wilfully holding a large-scale event under Article 6*a* paragraph 1 or a trade or consumer fair under Article 6*b*<sup>quinquies</sup> paragraph 1 without the required authorisation or in derogation from the approved precautionary measures plan;
-- f.[^13-7] wilfully or negligently failing to wear a face mask in contravention of Article 3*a* or 3*b* paragraph 1 in public transport vehicles, publicly accessible indoor and outdoor areas of businesses and establishments, including markets, trade fairs or large-scale events in waiting areas for trains, buses trams and cableways, and in railway stations, airports and other public transport access areas, unless an exception pursuant to Article 3*a* paragraph 1, 3*b* paragraph 2 or 2<sup>bis</sup> or 6*b* paragraph 4 second sentence applies;
-- g. wilfully contravening the ban on gatherings of people in public areas in Article 3*c* paragraph 1 or pursuant to a stricter provision of cantonal law;
-- h.[^13-8] as a guest of a restaurant or bar or as a person attending an event, wilfully contravening the requirement to be seated in Articles 5*a* paragraph 2 letter b, 6 paragraph 1<sup>bis</sup> letter c or 6*b*<sup>bis</sup> paragraph 1 letter d;
+- e<sup>ter</sup>.[^13-7] wilfully participating in a dance event;
+- f.[^13-8] wilfully or negligently failing to wear a face mask in contravention of Article 3*a* or 3*b* paragraph 1 in public transport vehicles, publicly accessible indoor and outdoor areas of businesses and establishments, including markets, trade fairs or large-scale events in waiting areas for trains, buses trams and cableways, and in railway stations, airports and other public transport access areas, unless an exception pursuant to Article 3*a* paragraph 1, 3*b* paragraph 2 or 2<sup>bis</sup> or 6*b* paragraph 4 second sentence applies;
+- g.[^13-9] ...
+- h.[^13-10] as a guest of a restaurant or bar or as a person attending an event, wilfully contravening the requirement to be seated in Article 5*a* paragraph 2 letter b, 6 paragraph 1<sup>bis</sup> letter c or 6*b*<sup>bis</sup> paragraph 1 letter d;
 - i. wilfully or negligently failing to wear a face mask at a political or civil society demonstration or when collecting signatures, unless an exception pursuant to Article 6*c* paragraph 2 second sentence applies.
 
 [^13-1]: Amended by No I of the O of 27 Jan. 2021 (Additional Criminal Provisions and Introduction of the Fixed Penalty Procedure), in force from 1 Feb. 2021 to 31 Dec. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 [^13-2]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
 [^13-3]: Repealed by No I of the O of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), with effect from 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
 [^13-4]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
-[^13-5]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-5]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300), [308](https://fedlex.data.admin.ch/eli/oc/2021/308)).
 [^13-6]: Inserted by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
-[^13-7]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^13-7]: Inserted by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 [^13-8]: Amended by No I of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^13-9]: Repealed by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), with effect from 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
+[^13-10]: Amended by No I of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 ## Section 6*a***** Updating the Annexes
 
@@ -860,11 +921,11 @@ The following Ordinances are amended as follows:
 
 Annex 1*[^t-1]*
 
-(Art. 4 para. 3, 5 para. 1, 6*e* para. 1 let. b No 2 and 6*f* para. 2 let. c)
+(Art. 4 para. 3, 5 para. 1, 6*e* para. 2 let. c Sec. 1 and 2 as well as 6*f* para. 3 let. c Sec. 1 and 2)
 
 ## Requirements for precautionary measures plans
 
-[^t-1]: Originally: Annex. Revised by No II of the O of 2 Sept. 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) and No II of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport), No 3.1<sup>ter</sup> and 3.1<sup>quater</sup>, in force until 31 May 2021 ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)) and of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data), in force since 13 May 2021 ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)).
+[^t-1]: Originally: Annex. Revised by No II of the O of 2 Sept. 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), No II of the O of 14 April 2021 (Relaxation of Measures: Socio-Medical Institutions, Restaurants and Bars, Events, Indoor Areas of Establishments for Culture, Entertainment, Leisure and Sport) ([AS 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213)), of 12 May 2021 (Outdoor pools, Exceptions for persons who have recovered, Winter sports resorts and ski areas, Contact data) ([AS 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)) and No II para. 1 of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021, No 3.1<sup>bis</sup> let. e, 3.1<sup>ter</sup> and 3.1<sup>quater</sup> in force until 30 June 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 ### 1 General Remarks
 
@@ -895,38 +956,14 @@ Annex 1*[^t-1]*
   - a. In shops with a floor area of up to 40 square metres, a maximum of 3 customers may be present.
   - b.
 
-    In shops with a floor area of more than 40 square metres that make at least two thirds of their turnover from the sale of foodstuffs, the following applies:
+    In shops with a floor area of more than 40 square metres, the following applies:
 
     - 1\. 10 square metres per customer;
     - 2\. the lowest maximum number of customers is 5.
 
-  - c.
-
-    For shops with a floor area of more than 40 square metres that make less than two thirds of their turnover from the sale of foodstuffs, the following applies:
-
-    - 1\.
-
-      for shops with a floor area of between 41 and 500 square metres:
-
-      - – 10 square metres per customer,
-      - – the lowest maximum number of customers is 5;
-
-    - 2\.
-
-      for shops with a floor area of between 501 and 1500 square metres:
-
-      - – 15 square metres per customer,
-      - – the lowest maximum number of customers is 50;
-
-    - 3\.
-
-      for shops with a floor area of over 1500 square metres:
-
-      - – 20 square metres per customer,
-      - – the lowest maximum number of customers is 100.
-
+  - c. …
   - d. In establishments in which there are several shops with a total floor area larger than 10,000 square metres (shopping centres), the maximum number of customers present in the shopping centre may not exceed the sum of the customers permitted in the individual shops.
-  - e. ...
+  - e. In indoor areas of thermal baths and spa facilities under Article 5*d* paragraph 1 letter b, a minimum of 15 square metres area must be made available for each person.
   - f.
 
     In businesses and establishments other than shops, the following applies:
@@ -935,24 +972,37 @@ Annex 1*[^t-1]*
     - 2\. In establishments and businesses with an area of up to 30 square metres, a minimum area of 6 square metres of space for each person applies;
     - 3\. The requirements in numbers 1 and 2 do not apply to cultural or sports activities with children and young persons born in 2001 or later or that are organised by public child and youth work organisations and institutions
 
-  - g. In the case of seats arranged in rows or in a similar way, only every second seat or seats an equivalent distance apart may be occupied.
+  - g. If seats are available, only every second seat or seats an equivalent distance apart may be made available.
 
 - 3\.1<sup>ter</sup>
 
-  The following applies to cultural activities carried out indoors without wearing a face mask in accordance with Article 6*f* paragraph 2 letter a number 3:
+  The following applies to cultural activities carried out indoors without wearing a face mask in accordance with Article 6*f* paragraph 3 letter a number 3:
 
   - a. Each person must have at least 25 square metres of space for his or her exclusive use or effective barriers must be erected between the individual persons.
-  - b. In the case of activities that do not involve singing, wind instruments or considerable physical exertion and which do not involve leaving the allocated space, the minimum area is 15 square metres per person.
+  - b. In the case of activities that do not involve singing or considerable physical exertion and which do not involve leaving the allocated space, the minimum area is 10 square metres per person.
+  - c.
+
+    If physical contact is unavoidable when carrying out an activity, the activity may only be carried out if:
+
+    - 1\. permanent groups of four persons are formed that always carry out the activity together and who do not mix with other groups of four; and
+    - 2\. 50 square metres of space is available for the exclusive use of each group of four.
+
   - c. The premises must be effectively ventilated.
 
 - 3\.1<sup>quater</sup>
 
-  The following applies to sports activities carried out indoors without wearing a face mask in accordance with Article 6*e* paragraph 1 letter b number 2:
+  The following applies to sports activities carried out indoors without wearing a face mask in accordance with Article 6*e* paragraph 1 letter c number 2:
 
   - a. Each person must have at least 25 square metres for his or her exclusive use or effective barriers must be erected between the individual persons.
-  - b. In the case of sports that do not involve considerable physical exertion and which do not involve leaving the allocated space, the minimum area is 15 square metres per person.
-  - c. In indoor swimming pools, there must be a water surface of 25 square metres available to each swimmer.
-  - d. No more than 15 persons may be in a room at the same time.
+  - b. In the case of sports that do not involve considerable physical exertion and which do not involve leaving the allocated space, the minimum area allocated for exclusive use is 10 square metres per person.
+  - c.
+
+    If physical contact is unavoidable when carrying out a sports activity, the activity may only be carried out if:
+
+    - 1\. permanent groups of four persons are formed that always train together and who do not mix with other groups of four; and
+    - 2\. 50 square metres of space is available for the exclusive use of each group of four.
+
+  - d. In indoor swimming pools, there must be an area of 15 square metres available to each swimmer.
   - e. The premises must be effectively ventilated.
 
 - 3\.2 In derogation from number 3.1, in the seating area seats must be arranged or occupied so that a minimum of one seat remains free or an equivalent distance is maintained between the seats.
@@ -976,34 +1026,34 @@ Annex 1*[^t-1]*
   The following details must be recorded:
 
   - a. surname, first name, address and telephone number;
-  - b. in the case of businesses, in particular restaurant-type establishments and cinemas, and in the case of events with seats: the seat or table number;
+  - b. in the case of businesses, in particular restaurant-type establishments and cinemas, and in the case of events involving seats: the seat or table number;
 
 - 4\.4<sup>bis</sup> The operator or organiser must take appropriate measures to ensure that the contact details recorded are accurate.
-- 4\.5 In the case of families or other groups with persons who know each other, it is sufficient to record the contact details of only one person in the family or group concerned. The foregoing is subject to Article 5*a* paragraph 3 letter d on the recording of contact data in the outdoor areas of restaurants, bars and clubs and in restaurants and bars for hotel guests.
+- 4\.5 In the case of families or other groups with persons who know each other, it is sufficient to record the contact details of only one person in the family or group concerned. The foregoing is subject to Article 5*a* paragraph 3 letter d on the recording of contact data in the outdoor areas of restaurant-type establishments.
 - 4\.6 The operator or organiser must guarantee the confidentiality of the contact details when recording the same, and data security, in particular in storing the data.
 
 Annex 2*[^t-2]*
 
-(Art. 6*b* para. 1 let. a and b and Art. 13*a*)
+(Art. 3*b* para. 3 and 4, 3*d* para. 2 and 2<sup>bis</sup>, 6*b* para. 1 let. a and b and 13*a*)
 
-## Requirements for the entry of persons who have been vaccinated or who have recovered to large-scale events
+## Requirements for an exemption from the requirement to wear a mask and from contact quarantine for persons who have been vaccinated or who have recovered, and requirements for the entry of persons who have been vaccinated or who have recovered to large-scale events
 
-[^t-2]: Inserted by No II of the O of 13. Jan. 2021 (Further Tightening of Measures) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Amended by No II of the O of 26 May 2021 (Large-Scale Events, Large Trade and Consumer Fairs, and Pilot Projects for Events with up to 1000 Persons), in force since 27 May 2021 ([AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^t-2]: Inserted by No II of the O of 13. Jan. 2021 (Weitere Massnahmenverschärfungen) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Amended by No II para. 2 of the O of 26 May 2021 (Relaxations: Restaurants and bars, Events, Sporting and Cultural Activities, Working from Home), in force since 31 May 2021 ([AS 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 ### 1 Persons who have been vaccinated
 
 - 1\.1
 
-  Persons who are permitted to attend large-scale events in accordance with Article *6b* paragraph 1 letter a are persons who have been vaccinated in terms of this Ordinance are persons, who have been vaccinated with a vaccine that:
+  Persons who have been vaccinated in terms of this Ordinance are persons, who have been vaccinated with a vaccine that:
 
   - a. is authorised in Switzerland and which has been administered in full in accordance with the FOPH recommendations;
   - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
 
-- 1\.2 The period during which vaccinated are permitted to attend large-scale events shall amount to 6 months from the date of vaccination in full.
+- 1\.2 The period during which vaccinated residents of socio-medical institutions are exempt from the requirement to wear a mask (Art. 3*b* para. 3 let. a) and persons who have been vaccinated are exempt from contact quarantine (Art. 3*d* para. 2 let. a) or are allowed entry to large-scale events shall amount to 6 months from the date of vaccination in full.
 
 ### 2 Persons who have recovered
 
-The period during which persons who have recovered in accordance with Article 6*b* paragraph 1 letter b are permitted to attend large-scale events amounts to 6 months from the 11th day following confirmation of the infection.
+The period during which residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 3*b* para. 3 let. b) and persons who have recovered are exempt from contact quarantine (Art. 3*d* para. 2 let. b) or are allowed entry to large-scale events (Art. 6*b* para. 1 let. b), amounts to 6 months from the 11th day following confirmation of the infection.
 
 Annex 3*[^t-3]*
 
@@ -1074,9 +1124,9 @@ Annex 3*[^t-3]*
 ### 2 Additional requirements for large-scale events from 1 July until 19 August 2021
 
 - 2\.1 General requirements
-  - a. Movements of persons in the access area outside the venue must be regulated in consultation with the local security forces and transport operators.
-  - b. Movements of persons, in particular in access and recreation areas and in sanitary facilities must be organised in terms of the space and time available so that the required distances can be maintained wherever possible.
-  - c. The seating and standing areas must be occupied in such a manner that required distances can be maintained wherever possible.
+  - a. movements of persons in the access area outside the venue must be regulated in consultation with the local security forces and transport operators;
+  - b. movements of persons, in particular in access and recreation areas and in sanitary facilities must be organised in terms of the space and time available so that the required distances can be maintained wherever possible;
+  - c. the seating and standing areas must be occupied in such a manner that required distances can be maintained wherever possible.
 
 - 2\.2
 
