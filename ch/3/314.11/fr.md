@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2021-05-27
+version: 2021-05-31
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210527/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210527-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210527/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210531/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210531-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210531/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210527/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 27 mai 2021)
+du 16 janvier 2019 (Etat le 31 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -594,7 +594,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur jusqu’au 31 déc. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), l’annexe 2 ch. 1 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), le ch. III des l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins) ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)), du 14 avr. 2021 (Assouplissements: institutions médico-sociales, établissements de restauration, manifestations,accès aux espaces intérieurs des installations des domaines de la culture, du divertissement, des loisirs et du sport) ([RO 2021 213](https://fedlex.data.admin.ch/eli/oc/2021/213), [222](https://fedlex.data.admin.ch/eli/oc/2021/222)) du 12 mai 2021 (Piscines en plein air, exceptions pour les personnes guéries, les stations de sports d’hiver, les domaines skiables, les coordonnées ([RO 2021 275](https://fedlex.data.admin.ch/eli/oc/2021/275)) et du 26 mai 2021 (Grandes manifestations, grandes foires spécialisées et tout public et projets pilotes pour les manifestations de 1000 personnes au plus) en vigueur depuis le 27 mai 2021 ( [RO 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur jusqu’au 31 déc. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), l’annexe 2 ch. 1 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), le ch. III des l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins) ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)), du 26 mai 2021 (Grandes manifestations, grandes foires spécialisées et tout public et projets pilotes pour les manifestations de 1000 personnes au plus) ( [RO 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)) et du 26 mai 2021 (Assouplissements: établissements de restauration, manifestations, activités menées dans les domaines du sport et de la culture, travail à domicile), en vigueur depuis le 31 mai 2021 ([RO 2021 300](https://fedlex.data.admin.ch/eli/oc/2021/300)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -725,10 +725,10 @@ Annexe 2*[^t-2]*
 <tr><td>**XV.** **...**</td><td></td></tr>
 <tr><td>XVI. Ordonnance COVID-19 du 19 juin 2020 situation particulière[^annex2-lvlu1-lvlu1-25]</td><td>[tab]</td></tr>
 <tr><td>16001. Organisation d’une manifestation privée interdite (art. 13, let. d, en relation avec l’art. 6, al. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 200</td></tr>
-<tr><td>[tab] 16002. Participation à une manifestation interdite (art. 13, let. d, en relation avec l’art. 6, al. 1, 1<sup>bis</sup> ou 2 de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>[tab] 16002. Participation à une manifestation interdite (art. 13, let. d, en relation avec l’art. 6, al. 1, 1<sup>bis</sup>, 1<sup>ter</sup> ou 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>16003. Infractions à l’obligation de porter un masque facial dans les véhicules des transports publics, dans les espaces clos et extérieurs accessibles au public des installations et des établissements, y compris les marchés, les foires et les grandes manifestations, ainsi que dans les zones d’attente des gares, des arrêts de bus et de tram et des remontées mécaniques, dans les gares, les aéroports ou d’autres zones d’accès aux transports publics (art. 13, let. f, en relation avec les art. 3*a*, al. 1, 3*b*, al. 1, 2 et 2<sup>bis</sup>, et 6*b*, al. 4, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
-<tr><td>16004. Participation à un rassemblement dans l’espace public de plus de 15 personnes ou dépassant le nombre maximal de personnes fixé par le canton (art. 13, let. g, en relation avec les art. 3*c*, al. 1, et 8, al. 1, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 50</td></tr>
-<tr><td>16005. Infractions à l’obligation de rester assis dans un établissement de restauration ou un bar (art. 13, let. h, en relation avec l’art. 5*a*, al. 3, let. b, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>16004. *...*</td><td>[tab]</td></tr>
+<tr><td>16005. Infractions à l’obligation de rester assis dans les établissements de restauration et dans les bars (art. 13, let. h, en relation avec l’art. 5*a*, al. 2, let. b, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>16006. Infractions à l’obligation de porter un masque facial lors de la participation à une manifestation politique ou de la société civile ou à une récolte de signatures (art. 13, let. i, en relation avec l’art. 6*c*, al. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>16007. Infractions à l’obligation de rester assis en tant que visiteur lors d’une manifestation organisée avec du public ou d’une grande manifestation (art. 13, let. h, en relation avec les art. 6, al. 1<sup>bis</sup>, let. c, et 6*b*<sup>bis</sup>, let. d, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>**XVII.** **Loi du 28 septembre 2012 sur les épidémies (LEp)**[^annex2-lvlu1-lvlu1-26]**, en relation avec l’ordonnance COVID-19 du 27 janvier 2021 mesures dans** **le domaine du transport international de voyageurs**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
