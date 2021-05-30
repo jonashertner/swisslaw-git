@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 16 décembre 2016 sur les denrées alimentaires dest
 short: OBNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: fr
-version: 2020-07-01
+version: 2021-05-31
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-180-20200701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20210531/fr/xml/fedlex-data-admin-ch-eli-cc-2017-180-20210531-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20210531/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20200701/fr"
 
 (OBNP)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (Etat le 31 mai 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -447,7 +447,7 @@ En plus des informations visées à l’art. 4, l’étiquette doit contenir les
 
 <sup>4</sup> Les produits ne doivent pas contenir de résidus de produits phytosanitaires dans des proportions supérieures à 0,01 mg/kg par substance active du produit prêt à la vente tel quel ou tel que reconstitué selon les instructions du fabricant.
 
-### Section 5 Exigences applicables aux préparations pour nourrissons et aux préparations de suite relatives aux informations en matière d’alimentation des nourrissons et des enfants en bas âge
+### Section 5**** Exigences applicables aux préparations pour nourrissons et aux préparations de suite relatives aux informations en matière d’alimentation des nourrissons et des enfants en bas âge
 
 [^chap2-sec5-1]
 
@@ -601,7 +601,7 @@ Pour les denrées alimentaires destinées à des fins médicales spéciales éla
 
 <sup>3</sup> Il n’est pas permis aux fabricants et aux distributeurs d’offrir ces denrées alimentaires, ces échantillons et tout autre cadeau publicitaire à titre gracieux ou à un prix réduit à la population visée, à savoir les femmes enceintes, les mères de famille et les autres membres de la famille.
 
-## Chapitre 4 Substitut de la ration journalière totale pour contrôle du poids
+## Chapitre 4**** Substitut de la ration journalière totale pour contrôle du poids
 
 [^chap4-1]
 
@@ -805,7 +805,7 @@ L’ordonnance du DFI du 23 novembre 2005 sur les aliments spéciaux[^42-1] est 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
-## Disposition transitoire de la modification du 27 mai 2020
+## Disposition transitoire de la modification du 27 mai 2020****
 
 [^u1-1]
 
@@ -813,7 +813,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
 Les denrées alimentaires destinées aux personnes ayant des besoins nutritionnels particuliers qui ne sont pas conformes à la modification du 27 mai 2020 de la présente ordonnance peuvent encore être fabriquées, importées et étiquetées selon l’ancien droit jusqu’au 30 juin 2022. Elles peuvent encore être remises au consommateur selon l’ancien droit jusqu’à épuisement des stocks.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 3, al. 2, let. a, 6, let. d, 8, al. 3, let. c, 13, let. d, 15, al. 3, let. c, 17, al. 1, 19, al. 3, let. c, 21, al. 1, 25, al. 2, 34, al. 1, et 35*a*, al. 3, let. b)
 
@@ -1018,13 +1018,13 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-3]: Pour les acides aminés utilisés dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés, seul le chlorhydrate expressément mentionné peut être utilisé. Pour les acides aminés utilisés dans les denrées alimentaires destinées à des fins médicales spéciales et dans les substituts de la ration journalière totale pour contrôle du poids, s’il y a lieu, le sodium, le calcium, le potassium et les sels de magnésium ainsi que leurs chlorhydrates peuvent être utilisés.
 [^annex1-lvlu1-4]: Seule la forme L-cystine peut être utilisée dans les préparations pour nourrissons, les préparations de suite, les préparations à base de céréales et les denrées alimentaires pour bébés.
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 6, let. a, ch. 1, et b, et 8, al. 3)
 
 ## Exigences applicables à la composition des préparations pour nourrissons
 
-[^t-2]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-2]: Mise à jour par le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Erratum du 31 mai 2021, ne concerne que le texte allemand ([RO 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
 
 *Remarque:* les valeurs indiquées se rapportent aux produits prêts à la consommation commercialisés tels quels ou après reconstitution selon les instructions du fabricant.
 
@@ -1311,7 +1311,7 @@ En cas d’ajout de taurine à des préparations pour nourrissons, la concentrat
 [^annex2-lvlu1-lvl12-1]: La concentration totale en nucléotides ne peut pas dépasser 1,2 mg/100 kJ.
 [^annex2-lvlu1-lvl12-2]: La concentration totale en nucléotides ne peut pas dépasser 5 mg/100 kcal.
 
-Annexe 3[^t-3]
+Annexe 3*[^t-3]*
 
 (art. 13, let. a, ch. 1, et b, et 15, al. 3)
 
@@ -1555,7 +1555,7 @@ Annexe 3[^t-3]
 [^annex3-lvlu1-lvl10-1]: La concentration totale en nucléotides ne peut pas dépasser 1,2 mg/100 kJ.
 [^annex3-lvlu1-lvl10-2]: La concentration totale en nucléotides ne peut pas dépasser 5 mg/100 kcal.
 
-Annexe 4[^t-4]
+Annexe 4*[^t-4]*
 
 (art. 15, al. 1, let. c, et 21, al. 2)
 
@@ -1597,7 +1597,7 @@ Annexe 4[^t-4]
 [^annex4-lvlu1-2]: Vitamine A préformée; ER = équivalent rétinol tout-trans.
 [^annex4-lvlu1-3]: α–ET= d–α–équivalent tocophérol.
 
-Annexe 5[^t-5]
+Annexe 5*[^t-5]*
 
 (art. 19, al. 3, let. a, et 20, let. c)
 
@@ -1812,7 +1812,9 @@ Annexe 8
 - – Aldrine et dieldrine, exprimées en dieldrine
 - – Endrine
 
-### Liste B[^annex8-lvlu1-lvlu2-1]: Teneurs maximales
+### Liste B****: Teneurs maximales
+
+[^annex8-lvlu1-lvlu2-1]
 
 [^annex8-lvlu1-lvlu2-1]: Les teneurs visées dans la liste B s’appliquent aux produits à consommer tels quels ou tels que reconstitués selon les instructions des fabricants.
 
@@ -1825,7 +1827,7 @@ Annexe 8
 <tr><td>Propinèbe/propylènethiourée (somme de propinèbe et de propylènethiourée)</td><td>0,006</td></tr>
 </table>
 
-Annexe 9[^t-6]
+Annexe 9*[^t-6]*
 
 (art. 25, al. 3, let. c, et 29, al. 1, let. a)
 
@@ -1958,7 +1960,7 @@ Les spécifications portent sur les produits prêts à l’emploi qui sont comme
 [^annex9-lvlu1-lvl3-lvl32-3]: Pour les produits destinés aux enfants de 1 à 10 ans
 [^annex9-lvlu1-lvl3-lvl32-4]: Pour les produits destinés aux enfants de 1 à 10 ans
 
-Annexe 10[^t-7]
+Annexe 10*[^t-7]*
 
 (art. 34, al. 1 et 2, et 35*a*, al. 1)
 
@@ -1986,6 +1988,10 @@ L’apport énergétique des substituts de la ration journalière totale pour co
 <tr><td>Lysine</td><td>4,5</td></tr>
 <tr><td>Phénylalanine + Tyrosine</td><td>3,8</td></tr>
 <tr><td>Thréonine</td><td>2,3</td></tr>
+</table>
+
+<table>
+<tr><td>Besoins en acides aminés</td><td>en g/100 g protéine</td></tr>
 <tr><td>Tryptophane</td><td>0,6</td></tr>
 <tr><td>Valine</td><td>3,9</td></tr>
 </table>
@@ -2050,13 +2056,13 @@ L’apport en magnésium des substituts de la ration journalière totale pour co
 [^annex10-lvlu1-lvl6-3]: Équivalents rétinol
 [^annex10-lvlu1-lvl6-4]: Activité de la vitamine E pour le RRR-α-tocophérol
 
-Annexe 11[^t-8]
+Annexe 11*[^t-8]*
 
 (art. 38, al. 1, let. a, 39, let. a et b, et 40, al. 2)
 
 ## Vitamines, sels minéraux et autres substances: quantités maximales admises pour les adultes
 
-[^t-8]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-8]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). ). Erratum du 31 mai 2021, ne concerne que le texte allemand ([RO 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
 
 Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] s’appliquent. Pour les substances pour lesquelles aucun critère de pureté n’a été défini, les critères de pureté généralement reconnus et recommandés par des organismes internationaux comme l’Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO), l’Organisation mondiale de la Santé (OMS) ou des pharmacopées internationales s’appliquent.
 
@@ -2154,7 +2160,7 @@ Les critères de pureté fixés dans l’annexe 4 de l’OAdd[^annex11-lvlu1-1] 
 [^annex11-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^annex11-lvlu1-2]: Équivalents rétinol, facteur de conversion: β-carotène = 6 x équivalents rétinol
 
-Annexe 12[^t-9]
+Annexe 12*[^t-9]*
 
 (art. 38, al. 1, let. a, 39, let. c, et 40, al. 2)
 

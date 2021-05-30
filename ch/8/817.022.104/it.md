@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sulle derrate alimentari destinate
 short: ODPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: it
-version: 2020-07-01
+version: 2021-05-31
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20210531/it/xml/fedlex-data-admin-ch-eli-cc-2017-180-20210531-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20210531/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20200701/it"
 
 (ODPPE)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 31 maggio 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -48,7 +48,7 @@ Le derrate alimentari per persone con particolari esigenze nutrizionali sono cla
 - e.[^2-2] i sostituti dell’intera razione alimentare giornaliera per il controllo del peso;
 - f. alimenti per sportivi.
 
-[^2-1]: Nuova espressione giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-1]: Nuova espr. giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^2-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
 
 #### Art. 3
@@ -448,7 +448,7 @@ Oltre alle indicazioni di cui all’articolo 4, l’etichetta deve recare le seg
 
 <sup>4</sup> I prodotti pronti per la vendita o preparati sulla base delle indicazioni del fabbricante non devono contenere residui di prodotti fitosanitari superiori a 0,01 mg/kg per sostanza attiva.
 
-### Sezione 5: Requisiti applicabili agli alimenti per lattanti e agli alimenti di proseguimento relativi alle informazioni in materia di alimentazione dei lattanti e dei bambini nella prima infanzia
+### Sezione 5:**** Requisiti applicabili agli alimenti per lattanti e agli alimenti di proseguimento relativi alle informazioni in materia di alimentazione dei lattanti e dei bambini nella prima infanzia
 
 [^chap2-sec5-1]
 
@@ -600,7 +600,7 @@ Oltre agli articoli 28 e 29, agli alimenti a fini medici speciali sviluppati per
 
 <sup>3</sup> I produttorie i distributori non devono offrire alla popolazione, in particolare alle donne in gravidanza, alle madri e ai membri delle relative famiglie, tali alimenti sotto forma di prodotti gratuiti o a basso prezzo, campioni o altri omaggi.
 
-## Capitolo 4: Sostituti dell’intera razione alimentare giornaliera per il controllo del peso
+## Capitolo 4: Sostituti dell’intera razione alimentare giornaliera per il controllo del peso****
 
 [^chap4-1]
 
@@ -817,7 +817,7 @@ L’ordinanza del DFI del 23 novembre 2005[^42-1] sugli alimenti speciali è abr
 
 La presente ordinanza entra in vigore il 1° maggio 2017.
 
-## Disposizione transitoria della modifica del 27 maggio 2020
+## Disposizione transitoria della modifica del 27 maggio 2020****
 
 [^u1-1]
 
@@ -825,7 +825,7 @@ La presente ordinanza entra in vigore il 1° maggio 2017.
 
 Le derrate alimentari destinate alle persone con particolari esigenze nutrizionali che non risultano conformi alla modifica del 27 maggio 2020 della presente ordinanza possono essere ancora importate, fabbricate e caratterizzate secondo il diritto anteriore sino al 30 giugno 2022. Esse possono essere consegnate ai consumatori secondo il diritto anteriore fino a esaurimento delle scorte.
 
-Allegato 1[^t-1]
+Allegato 1*[^t-1]*
 
 (art. 3 cpv. 2 lett. a, 6 lett. d, 8 cpv. 3 lett. c, 13 lett. d, 15 cpv. 3 lett. c, 17 cpv. 1, 19 cpv. 3 lett. c, 21 cpv. 1, 25 cpv. 2, 34 cpv. 1 e 35*a* cpv. 3 lett. b)
 
@@ -1030,13 +1030,13 @@ Allegato 1[^t-1]
 [^annex1-lvlu1-3]: Per gli aminoacidi aggiunti agli alimenti per lattanti, agli alimenti di proseguimento, agli alimenti a base di cereali e alle altre pappe di complemento possono essere utilizzati esclusivamente i cloridrati indicati espressamente. Per gli aminoacidi aggiunti agli alimenti a fini medici speciali e ai sostituti dell’intera razione alimentare giornaliera per il controllo del peso possono essere utilizzati eventualmente anche i sali di sodio, potassio, calcio e magnesio, come pure i loro cloridrati.
 [^annex1-lvlu1-4]: In caso di utilizzo negli alimenti per lattanti, negli alimenti di proseguimento, negli alimenti a base di cereali e negli altri alimenti per la prima infanzia, la cistina può essere utilizzata solo nella forma L-cistina.
 
-Allegato 2[^t-2]
+Allegato 2*[^t-2]*
 
 (art. 6 lett. a n. 1 e b, nonché 8 cpv. 3)
 
 ## Requisiti della composizione di alimenti per lattanti
 
-[^t-2]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-2]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). La correzione del 31 mag. 2021 concerne soltanto il testo tedesco ([RU 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
 
 *Osservazione:* i valori indicati si riferiscono al prodotto pronto al consumo immesso sul mercato come tale o preparato secondo le istruzioni del fabbricante.
 
@@ -1321,7 +1321,7 @@ Se all’alimento per lattanti è aggiunta taurina, il suo tenore non deve super
 [^annex2-lvlu1-lvl12-1]: La concentrazione totale di nucleotidi non deve superare 1,2 mg/100 kJ.
 [^annex2-lvlu1-lvl12-2]: La concentrazione totale di nucleotidi non deve superare 5 mg/100 kcal.
 
-Allegato 3[^t-3]
+Allegato 3*[^t-3]*
 
 (art. 13 lett. a n. 1 e b, nonché 15 cpv. 3)
 
@@ -1564,7 +1564,7 @@ Allegato 3[^t-3]
 [^annex3-lvlu1-lvl10-1]: La concentrazione totale di nucleotidi non deve superare 1,2 mg/100 kJ.
 [^annex3-lvlu1-lvl10-2]: La concentrazione totale di nucleotidi non deve superare 5 mg/100 kcal.
 
-Allegato 4[^t-4]
+Allegato 4*[^t-4]*
 
 (art. 15 cpv. 1 lett. c e 21 cpv. 2)
 
@@ -1606,7 +1606,7 @@ Allegato 4[^t-4]
 [^annex4-lvlu1-2]: Vitamina A preformata; ER = equivalente retinolo, tutti trans.
 [^annex4-lvlu1-3]: α-ET = equivalente d-α-tocoferolo
 
-Allegato 5[^t-5]
+Allegato 5*[^t-5]*
 
 (art. 19 cpv. 3 lett. a e 20 lett. c)
 
@@ -1818,7 +1818,9 @@ Allegato 8
 - – Aldrin e dieldrin, espressi in dieldrin
 - – Endrin
 
-### Elenco B[^annex8-lvlu1-lvlu2-1]: Tenori massimi
+### Elenco B****: Tenori massimi
+
+[^annex8-lvlu1-lvlu2-1]
 
 [^annex8-lvlu1-lvlu2-1]: I valori riportati nell’elenco B si riferiscono ai prodotti pronti al consumo o ricostituiti in base alle istruzioni del fabbricante.
 
@@ -1831,7 +1833,7 @@ Allegato 8
 <tr><td>Propineb/propilentiourea (somma di propineb e propilentiourea)</td><td>0,006</td></tr>
 </table>
 
-Allegato 9[^t-6]
+Allegato 9*[^t-6]*
 
 (art. 25 cpv. 3 lett. c e 29 cpv. 1 lett. a)
 
@@ -1876,17 +1878,23 @@ Le specificazioni riguardano i prodotti pronti per il consumo, commercializzati 
 <tr><td>Vitamina K (µg)</td><td>0,24</td><td>6</td><td></td><td>1</td><td>25</td></tr>
 </table>
 
-2.2 Minerali
+[^annex9-lvlu1-lvl2-lvl21-1]: Equivalente di folato dalla dieta; 1 µg DFE (dietary folate equivalent) = 1 µg di folato dagli alimenti = 0,6 µg di acido folico sintetico dagli alimenti.
+[^annex9-lvlu1-lvl2-lvl21-2]: Niacina preformata.
+[^annex9-lvlu1-lvl2-lvl21-3]: Vitamina A preformata; ER = equivalente retinolo, tutti trans.
+[^annex9-lvlu1-lvl2-lvl21-4]: Sotto forma di colecalciferolo o ergocalciferolo, di cui 10 µg = 400 UI di vitamina D.
+[^annex9-lvlu1-lvl2-lvl21-5]: α-ET = equivalente d-α-tocoferolo
+
+### 2.2 Minerali
 
 <table>
 <tr><th>Sali minerali</th><th>per 100 kJ</th><th></th><th></th><th>per 100 kcal</th><th></th></tr>
 <tr><th></th><th>Minimo</th><th>Massimo</th><th></th><th>Minimo</th><th>Massimo</th></tr>
-<tr><td>Calcio (mg)[^annex9-lvlu1-lvl2-lvl21-6]</td><td>12</td><td>60</td><td></td><td>50</td><td>250</td></tr>
+<tr><td>Calcio (mg)[^annex9-lvlu1-lvl2-lvl22-1]</td><td>12</td><td>60</td><td></td><td>50</td><td>250</td></tr>
 <tr><td>Cloruro (mg)</td><td>14,3</td><td>38,2</td><td></td><td>60</td><td>160</td></tr>
 <tr><td>Cromo (µg)</td><td>–</td><td>2,4</td><td></td><td>–</td><td>10</td></tr>
 <tr><td>Ferro (mg)</td><td>0,07</td><td>0,6</td><td></td><td>0,3</td><td>2,5</td></tr>
 <tr><td>Fluoruro (µg)</td><td>–</td><td>47,8</td><td></td><td>–</td><td>200</td></tr>
-<tr><td>Fosforo (mg)[^annex9-lvlu1-lvl2-lvl21-7]</td><td>6</td><td>24</td><td></td><td>25</td><td>100</td></tr>
+<tr><td>Fosforo (mg)[^annex9-lvlu1-lvl2-lvl22-2]</td><td>6</td><td>24</td><td></td><td>25</td><td>100</td></tr>
 <tr><td>Iodio (µg)</td><td>3,6</td><td>8,4</td><td></td><td>15</td><td>35</td></tr>
 <tr><td>Magnesio (mg)</td><td>1,2</td><td>3,6</td><td></td><td>5</td><td>15</td></tr>
 <tr><td>Manganese (µg)</td><td>0,24</td><td>24</td><td></td><td>1</td><td>100</td></tr>
@@ -1898,13 +1906,8 @@ Le specificazioni riguardano i prodotti pronti per il consumo, commercializzati 
 <tr><td>Zinco (mg)</td><td>0,12</td><td>0,6</td><td></td><td>0,5</td><td>2,4</td></tr>
 </table>
 
-[^annex9-lvlu1-lvl2-lvl21-1]: Equivalente di folato dalla dieta; 1 µg DFE (dietary folate equivalent) = 1 µg di folato dagli alimenti = 0,6 µg di acido folico sintetico dagli alimenti.
-[^annex9-lvlu1-lvl2-lvl21-2]: Niacina preformata.
-[^annex9-lvlu1-lvl2-lvl21-3]: Vitamina A preformata; ER = equivalente retinolo, tutti trans.
-[^annex9-lvlu1-lvl2-lvl21-4]: Sotto forma di colecalciferolo o ergocalciferolo, di cui 10 µg = 400 UI di vitamina D.
-[^annex9-lvlu1-lvl2-lvl21-5]: α-ET = equivalente d-α-tocoferolo
-[^annex9-lvlu1-lvl2-lvl21-6]: Il rapporto molare tra calcio e fosforo disponibile non deve essere inferiore a 1 o superiore a 2.
-[^annex9-lvlu1-lvl2-lvl21-7]: Fosforo totale
+[^annex9-lvlu1-lvl2-lvl22-1]: Il rapporto molare tra calcio e fosforo disponibile non deve essere inferiore a 1 o superiore a 2.
+[^annex9-lvlu1-lvl2-lvl22-2]: Fosforo totale
 
 ### 3 Valori per le vitamine e i sali minerali in alimenti completi dal punto di vista nutrizionale diversi da quelli destinati ai lattanti
 
@@ -1963,7 +1966,7 @@ Le specificazioni riguardano i prodotti pronti per il consumo, commercializzati 
 [^annex9-lvlu1-lvl3-lvl32-3]: Per i prodotti destinati ai bambini da 1 a 10 anni.
 [^annex9-lvlu1-lvl3-lvl32-4]: Per i prodotti destinati ai bambini da 1 a 10 anni.
 
-Allegato 10[^t-7]
+Allegato 10*[^t-7]*
 
 (art. 34 cpv. 1 e 2 nonché 35*a* cpv. 1)
 
@@ -2055,13 +2058,13 @@ I sostituti dell’intera razione alimentare giornaliera per il controllo del pe
 [^annex10-lvlu1-lvl6-3]: Retinolo equivalenti.
 [^annex10-lvlu1-lvl6-4]: Attività della vitamina E per il RRR-α-tocoferolo.
 
-Allegato 11[^t-8]
+Allegato 11*[^t-8]*
 
 (art. 38 cpv. 1 lett. a, 39 lett. a e b nonché 40 cpv. 2)
 
 ## Vitamine, sali minerali e altre sostanze nelle quantità massime ammesse per gli adulti
 
-[^t-8]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-8]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). La correzione del 31 mag. 2021 concerne soltanto il testo tedesco ([RU 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
 
 Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’allegato 4 dell’OAdd[^annex11-lvlu1-1]. Alle sostanze per le quali non sono stati stabiliti requisiti di purezza si applicano i criteri di purezza generalmente riconosciuti, raccomandati da organismi internazionali, quali l’Organizzazione delle Nazioni Unite per l’alimentazione e l’agricoltura (FAO) e l’Organizzazione mondiale della sanità (OMS), o farmacopee internazionali.
 
@@ -2160,7 +2163,7 @@ Si applicano i criteri di purezza specifici stabiliti per gli additivi nell’al
 [^annex11-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^annex11-lvlu1-2]: Equivalente retinolo, fattore di conversione: β-carotene = 6 × equivalente retinolo
 
-Allegato 12[^t-9]
+Allegato 12*[^t-9]*
 
 (art. 38 cpv. 1 lett. a, 39 lett. c e 40 cpv. 2)
 

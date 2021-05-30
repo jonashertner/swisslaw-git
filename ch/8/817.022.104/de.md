@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Lebensmittel für Personen
 short: VLBE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/180"
 language: de
-version: 2020-07-01
+version: 2021-05-31
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/180/20210531/de/xml/fedlex-data-admin-ch-eli-cc-2017-180-20210531-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20210531/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/180/20200701/de"
 
 (VLBE)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 31. Mai 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -447,7 +447,7 @@ Zusätzlich zu den Angaben nach Artikel 4 muss das Etikett folgende Angaben und 
 
 <sup>4</sup> In verkaufsfertigen oder nach Anweisung der Herstellerin oder des Herstellers hergestellten Produkten dürfen Rückstände von Pflanzenschutzmitteln nicht in einer Menge enthalten sein, die 0,01 mg/kg je Wirkstoff übersteigt.
 
-### 5. Abschnitt: Anforderungen an Säuglingsanfangsnahrung und Folgenahrung bezüglich der Informationen zur Ernährung von Säuglingen und Kleinkindern
+### 5. Abschnitt:**** Anforderungen an Säuglingsanfangsnahrung und Folgenahrung bezüglich der Informationen zur Ernährung von Säuglingen und Kleinkindern
 
 [^chap2-sec5-1]
 
@@ -599,7 +599,7 @@ Für Lebensmittel für besondere medizinische Zwecke, die für die Ernährungsan
 
 <sup>3</sup> Herstellerinnen,Hersteller, Vertreiberinnen und Vertreiber dürfen diese Lebensmittel der Bevölkerung, namentlich Schwangeren, Müttern und deren Familienmitgliedern, nicht als kostenlose oder verbilligte Erzeugnisse, Proben oder Muster oder andere Werbegeschenke abgeben.
 
-## 4. Kapitel: Tagesration für gewichtskontrollierende Ernährung
+## 4. Kapitel:**** Tagesration für gewichtskontrollierende Ernährung
 
 [^chap4-1]
 
@@ -806,7 +806,7 @@ Die Verordnung des EDI vom 23. November 2005[^42-1] über Speziallebensmittel wi
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-## Übergangsbestimmung zur Änderung vom 27. Mai 2020
+## Übergangsbestimmung zur Änderung vom 27. Mai 2020****
 
 [^u1-1]
 
@@ -814,7 +814,7 @@ Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
 Lebensmittel für Personen mit besonderem Ernährungsbedarf, die der Änderung vom 27. Mai 2020 dieser Verordnung nicht entsprechen, dürfen noch bis zum 30. Juni 2022 nach bisherigem Recht hergestellt, eingeführt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 3 Abs. 2 Bst. a, 6 Bst. d, 8 Abs. 3 Bst. c, 13 Bst. d, 15 Abs. 3 Bst. c, 17 Abs. 1, 19 Abs. 3 Bst. c, 21 Abs. 1, 25 Abs. 2, 34 Abs. 1 und 35*a* Abs. 3 Bst. b)
 
@@ -862,7 +862,7 @@ Anhang 1[^t-1]
 <tr><td></td><td>DL-α-Tocopherylacetat</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
 <tr><td>Vitamin K</td><td>Menachinon[^annex1-lvlu1-1]</td><td></td><td></td><td>x</td><td>x</td></tr>
 <tr><td></td><td>Phyllochinon oder Phytomenadion</td><td>x</td><td>x</td><td>x</td><td>x</td></tr>
-<tr><td>**Mineralstoffe**</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>**Mineralstoff****e**</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Bor</td><td>Borsäure</td><td></td><td></td><td>x</td><td>x</td></tr>
 <tr><td></td><td>Natriumborat</td><td></td><td></td><td>x</td><td>x</td></tr>
 <tr><td>Calcium</td><td>Calciumbisglycinat</td><td></td><td></td><td>x</td><td>x</td></tr>
@@ -1019,13 +1019,13 @@ Anhang 1[^t-1]
 [^annex1-lvlu1-3]: Für Aminosäuren, die Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost zugesetzt werden, dürfen nur die ausdrücklich genannten Hydrochloride verwendet werden. Für Aminosäuren, die Lebensmitteln für besondere medizinische Zwecke und für Tagesrationen für gewichtskontrollierende Ernährung zugesetzt werden, dürfen gegebenenfalls auch die Natrium-, Kalium-, Calcium- und Magnesiumsalze sowie ihre Hydrochloride verwendet werden.
 [^annex1-lvlu1-4]: Im Falle der Verwendung in Säuglingsanfangsnahrung und Folgenahrung, Getreidebeikost und anderer Beikost darf Cystin nur in Form von L-Cystin zugesetzt werden.
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 (Art. 6 Bst. a Ziff. 1 und b sowie 8 Abs. 3)
 
 ## Anforderungen an die Zusammensetzung von Säuglingsanfangsnahrung
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)) und der Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
 
 *Anmerkung:* Die angegebenen Werte beziehen sich auf das genussfertige Erzeugnis, das entweder so in Verkehr gebracht oder nach den Anweisungen der Herstellerin oder des Herstellers zubereitet worden ist.
 
@@ -1310,7 +1310,7 @@ Das molare Verhältnis zwischen Kalzium und verwertbarem Phosphor beträgt minde
 [^annex2-lvlu1-lvl12-1]: Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ nicht überschreiten.
 [^annex2-lvlu1-lvl12-2]: Die Gesamtkonzentration an Nukleotiden darf 5 mg/100 kcal nicht überschreiten.
 
-Anhang 3[^t-3]
+Anhang 3*[^t-3]*
 
 (Art. 13 Bst. a Ziff. 1 und b sowie 15 Abs. 3)
 
@@ -1553,7 +1553,7 @@ Anhang 3[^t-3]
 [^annex3-lvlu1-lvl10-1]: Die Gesamtkonzentration an Nukleotiden darf 1,2 mg/100 kJ nicht überschreiten.
 [^annex3-lvlu1-lvl10-2]: Die Gesamtkonzentration an Nukleotiden darf 5 mg/100 kcal nicht überschreiten.
 
-Anhang 4[^t-4]
+Anhang 4*[^t-4]*
 
 (Art. 15 Abs. 1 Bst. c und 21 Abs. 2)
 
@@ -1595,7 +1595,7 @@ Anhang 4[^t-4]
 [^annex4-lvlu1-2]: Vorgebildetes Vitamin A; RE = Retinoläquivalent, all-trans.
 [^annex4-lvlu1-3]: α-TE = d-α-Tocopheroläquivalent.
 
-Anhang 5[^t-5]
+Anhang 5*[^t-5]*
 
 (Art. 19 Abs. 3 Bst. a und 20 Bst. c)
 
@@ -1810,7 +1810,9 @@ Anhang 8
 - – Aldrin und Dieldrin, ausgedrückt als Dieldrin
 - – Endrin
 
-### Liste B[^annex8-lvlu1-lvlu2-1]: Höchstgehalte
+### Liste B****: Höchstgehalte
+
+[^annex8-lvlu1-lvlu2-1]
 
 [^annex8-lvlu1-lvlu2-1]: Die in der Liste B genannten Werte gelten für verbrauchsfertig angebotene oder nach den Anweisungen der Herstellerin oder des Herstellers rekonstituierte Erzeugnisse.
 
@@ -1823,7 +1825,7 @@ Anhang 8
 <tr><td>Propineb/Propylen-thioharnstoff (Summe von Propineb und Propylen-thioharnstoff)</td><td>0,006</td></tr>
 </table>
 
-Anhang 9[^t-6]
+Anhang 9*[^t-6]*
 
 (Art. 25 Abs. 3 Bst. c und 29 Abs. 1 Bst. a)
 
@@ -1956,7 +1958,7 @@ Die Spezifikationen beziehen sich auf das gebrauchsfertige Erzeugnis, sei es als
 [^annex9-lvlu1-lvl3-lvl32-3]: Für Erzeugnisse, die für Kinder von 1 bis 10 Jahren bestimmt sind
 [^annex9-lvlu1-lvl3-lvl32-4]: Für Erzeugnisse, die für Kinder von 1 bis 10 Jahren bestimmt sind
 
-Anhang 10[^t-7]
+Anhang 10*[^t-7]*
 
 (Art. 34 Abs. 1 und 2 sowie 35*a* Abs. 1)
 
@@ -2048,13 +2050,13 @@ Tagesrationen für gewichtskontrollierende Ernährung dürfen pro Tagesration ni
 [^annex10-lvlu1-lvl6-3]: Retinol-Äquivalente.
 [^annex10-lvlu1-lvl6-4]: Vitamin-E-Aktivität von RRR-α-Tocopherol.
 
-Anhang 11[^t-8]
+Anhang 11*[^t-8]*
 
 (Art. 38 Abs. 1 Bst. a, 39 Bst. a und b sowie 40 Abs. 2)
 
 ## Vitamine, Mineralstoffe und sonstige Stoffe in den für Erwachsene zulässigen Höchstmengen
 
-[^t-8]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2245](https://fedlex.data.admin.ch/eli/oc/2020/444)). Bereinigt gemäss Berichtigung vom 31. Mai 2021 ([AS 2021 309](https://fedlex.data.admin.ch/eli/oc/2021/309)).
 
 Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-lvlu1-1] für Zusatzstoffe festgelegt sind. Für Stoffe, für die keine Reinheitskriterien festgelegt wurden, gelten die allgemein anerkannten Reinheitskriterien, die von internationalen Gremien, wie der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO), der Weltgesundheitsorganisation (WHO) oder internationalen Pharmakopöen empfohlen werden.
 
@@ -2063,23 +2065,23 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>1 Vitamine und Mineralstoffe</td><td></td><td></td></tr>
 <tr><td>1.1 Vitamine</td><td></td><td></td></tr>
 <tr><td>Biotin</td><td>keine</td><td></td></tr>
-<tr><td>Folsäure</td><td>750 mg</td><td></td></tr>
+<tr><td>Folsäure</td><td>750 µg</td><td></td></tr>
 <tr><td>Niacin</td><td>600 mg</td><td></td></tr>
 <tr><td></td><td>wovon 10 mg als Nicotinsäure und Inositolhexanicotinat (Summe)</td><td></td></tr>
 <tr><td>Pantothensäure</td><td>keine</td><td></td></tr>
 <tr><td>Riboflavin (Vitamin B<sub>2</sub><sub>)</sub></td><td>keine</td><td></td></tr>
 <tr><td>Thiamin (Vitamin B<sub>1</sub><sub>)</sub></td><td>keine</td><td></td></tr>
-<tr><td>Vitamin A</td><td>1360 mg[^annex11-lvlu1-2] (entspricht 8,2 mg β-Carotin)</td><td>Nur als β-Carotin</td></tr>
+<tr><td>Vitamin A</td><td>1360 µg[^annex11-lvlu1-2] (entspricht 8,2 mg β-Carotin)</td><td>Nur als β-Carotin</td></tr>
 <tr><td>Vitamin B<sub>6</sub></td><td>15 mg</td><td></td></tr>
 <tr><td>Vitamin B<sub>12</sub></td><td>keine</td><td></td></tr>
 <tr><td>Vitamin C</td><td>750 mg</td><td></td></tr>
-<tr><td>Vitamin D</td><td>70 mg</td><td></td></tr>
+<tr><td>Vitamin D</td><td>70 µg</td><td></td></tr>
 <tr><td>Vitamin E</td><td>205 mg</td><td></td></tr>
 <tr><td>Vitamin K</td><td>225 µg</td><td>Ab einer Tagesdosis von 25 µg: *«Patientinnen und Patienten, die Antikoagulantien einnehmen, sollten vor der Einnahme von Vitamin-K-Präparaten ihre Ärztin oder ihren Arzt konsultieren.»*</td></tr>
 <tr><td>1.2 Mineralstoffe</td><td></td><td></td></tr>
 <tr><td>Bor</td><td>1 mg</td><td></td></tr>
 <tr><td>Chlorid</td><td>nur als Begleition</td><td></td></tr>
-<tr><td>Chrom</td><td>188 mg</td><td></td></tr>
+<tr><td>Chrom</td><td>188 µg</td><td></td></tr>
 <tr><td>Eisen</td><td>21 mg</td><td></td></tr>
 <tr><td>Jod</td><td>200 µg</td><td></td></tr>
 <tr><td>Kalium</td><td>2250 mg</td><td></td></tr>
@@ -2087,7 +2089,7 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>Kupfer</td><td>1,6 mg</td><td></td></tr>
 <tr><td>Magnesium</td><td>375 mg</td><td>Ab einer Tagesdosis von &gt;250 mg: *«Magnesium-Präparate können abführend wirken.»*</td></tr>
 <tr><td>Mangan</td><td>3 mg</td><td></td></tr>
-<tr><td>Molybdän</td><td>300 mg</td><td></td></tr>
+<tr><td>Molybdän</td><td>300 µg</td><td></td></tr>
 <tr><td>Natrium</td><td>550 mg keine</td><td>Lebensmittel für Sportlerinnen und Sportler, die speziell für extremen Ausdauersport entwickelt wurden.</td></tr>
 <tr><td>Phosphat</td><td>nur als Begleition</td><td></td></tr>
 <tr><td>Selen</td><td>165 µg</td><td></td></tr>
@@ -2123,7 +2125,7 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>Carotinoid Lutein</td><td>20 mg</td><td></td></tr>
 <tr><td>Carotinoid Zeaxanthin</td><td>2 mg</td><td></td></tr>
 <tr><td>Cholin</td><td>550 mg</td><td></td></tr>
-<tr><td>Chondroitinsulfat</td><td>500 mg</td><td>*«Für schwangere und stillende Frauen, Kinder, Jugendliche und Personen mit gerinnungshemmenden Arzneimitteln nicht geeignet.»*</td></tr>
+<tr><td>Chondroitinsulfat</td><td>500 mg</td><td>*«Für schwangere und stillende Frauen, Kinder, Jugendliche und Per**sonen mit gerinnungshemmenden Arzneimitteln nicht geeignet.»*</td></tr>
 <tr><td>L-Carnitin</td><td>2000 mg</td><td></td></tr>
 <tr><td>L-Carnosin</td><td>55 mg</td><td></td></tr>
 <tr><td>Coenzym NADH (Nicotinamidadenindinukleotid)</td><td>20 mg</td><td></td></tr>
@@ -2137,7 +2139,7 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 <tr><td>Inositol</td><td>1000 mg</td><td></td></tr>
 <tr><td>Isoflavone</td><td>50 mg (bezogen auf das Aglycon)</td><td></td></tr>
 <tr><td>Katechine, Epigallocatechingallat (EGCG)</td><td>90 mg (berechnet als EGCG)</td><td>*«Nicht auf nüchternen Magen, nicht bei strikter, kalorienarmer Ernährung und nicht gleichzeitig mit anderen Produkten auf Basis von Grüntee einnehmen.»*</td></tr>
-<tr><td>konjugierte Linolsäure (CLA)</td><td>3 g</td><td>*«Für Diabetikerinnen und Diabetiker, Jugendliche, schwangere und stillende Frauen nicht geeignet.»*</td></tr>
+<tr><td>konjugierte Linolsäure (CLA)</td><td>3 g</td><td>*«Für Diabetiker**innen und Diabetiker, Jugendliche, schwangere und stillende Frauen nicht geeignet.»*</td></tr>
 <tr><td>Kreatin</td><td>3 g</td><td></td></tr>
 <tr><td>Lactulose</td><td>10 g</td><td></td></tr>
 <tr><td>Lebende Bakterienkulturen nach</td><td>mind. 10<sup>8</sup> KBE (kolonienbildende Einheiten)</td><td>Anforderungen nach Anhang 13</td></tr>
@@ -2152,7 +2154,7 @@ Es gelten die spezifischen Reinheitskriterien, die im Anhang 4 der ZuV[^annex11-
 [^annex11-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^annex11-lvlu1-2]: Retinol-Äquivalente, Umrechnungsfaktor: β-Carotin = 6 × Retinol-Äquivalente
 
-Anhang 12[^t-9]
+Anhang 12*[^t-9]*
 
 (Art. 38 Abs. 1 Bst. a, 39 Bst. c und 40 Abs. 2)
 
