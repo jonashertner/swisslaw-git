@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-05-24
+version: 2021-05-31
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210524/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210524-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210524/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210531/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210531-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210531/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210524/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 24 mai 2021)
+du 19 juin 2020 (Etat le 31 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -608,7 +608,7 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 [^chap4a-1]
 
-[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mai 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)).
+[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 30 juin 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)).
 
 #### Art. 27a
 
@@ -1458,7 +1458,7 @@ Annexe 7*[^t-8]*
 
 ## Maladies et anomalies génétiques rendant vulnérables les personnes concernées
 
-[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mai 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) et le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 30 juin 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) et le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Selon l’état actuel de la science, seules certaines catégories d’adultes sont vulnérables. Partant, les critères ci-après concernent uniquement les adultes.
 

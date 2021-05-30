@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-05-24
+version: 2021-05-31
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210524/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210524-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210524/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210531/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210531-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210531/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210524/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 24 maggio 2021) (Stato 24 maggio 2021)
+del 19 giugno 2020 (Stato 31 maggio 2021) (Stato 31 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -608,7 +608,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mag. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 giu. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)).
 
 #### Art. 27a
 
@@ -656,10 +656,10 @@ Non rientrano nel capoverso 10 le persone:
 <sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 10 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^27a-6].
 
 [^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 al 31 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-3]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 al 31 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 al 31 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 al 31 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-3]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^27a-6]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Capitolo 5: Disposizioni finali
@@ -1410,7 +1410,7 @@ Allegato 7*[^t-8]*
 
 ## Malattie e anomalie genetiche che rendono le persone interessate particolarmente a rischio
 
-[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mag. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 giu. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 
