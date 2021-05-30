@@ -4,71 +4,70 @@ number: "173.1"
 title: "Loi sur l'organisation de la Justice"
 short: LOJ
 language: fr
-version: 2013-01-01
-corrected: 2017-09-22
-version_adopted: 2012-09-13
+version: 2021-01-01
+corrected: 2021-05-31
+version_adopted: 2019-12-12
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/fr/versions/644/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2685/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur l'organisation de la Justice (LOJ)
+# Loi sur l'organisation de la Justice
 
-du 11 février 2009
+(LOJ)
+
+du 11.02.2009 (état 01.01.2021)
 
 Le Grand Conseil du canton du Valais
 
 vu les articles 122 alinéa 2 et 123 alinéa 2 de la Constitution fédérale;
 
-vu les articles 31 alinéa 1 chiffre 1, 42 alinéa 1 et 60ss de la Constitution cantonale;
+vu les articles 31 alinéa 1 lettre a, 42 alinéa 1 et 60 et suivants de la Constitution cantonale;
 
 sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Chapitre 1: Objet de la loi
+## 1 Objet de la loi
 
 #### Art. 1
 
 **But**
 
-La présente loi a pour but de définir :
+<sup>1</sup> La présente loi a pour but de définir:
 
 - a) l'organisation des autorités judiciaires et du ministère public;
-
 - b) les attributions du Tribunal cantonal et du ministère public dans l'organisation interne des autorités judiciaires et de poursuite pénale;
-
 - c) les conditions d'exercice des fonctions de juge et de procureur.
 
 #### Art. 2
 
-Compétences des autorités judiciaires et du ministère public Les compétences des autorités judiciaires et du ministère public sont définies par la législation spéciale, en particulier par:
+**Compétences des autorités judiciaires et du ministère public**
+
+<sup>1</sup> Les compétences des autorités judiciaires et du ministère public sont définies par la législation spéciale, en particulier par:
 
 - a) le droit judiciaire fédéral;
-
 - b) les lois d'application du droit judiciaire fédéral;
-
 - c) la loi sur la procédure et la juridiction administratives.
 
 #### Art. 3
 
 **Compétence des autorités administratives**
 
-La compétence des autorités administratives pour l'administration de la justice civile, de la justice pénale, de la justice administrative et des assurances sociales est réservée.
+<sup>1</sup> La compétence des autorités administratives pour l'administration de la justice civile, de la justice pénale, de la justice administrative et des assurances sociales est réservée.
 
 #### Art. 4
 
 **Egalité entre hommes et femmes**
 
-Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+<sup>1</sup> Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Chapitre 2: Organisation judiciaire - Généralités
+## 2 Organisation judiciaire - Généralités
 
-- 1\. Administration de la justice
+### 2.1 Administration de la justice
 
 #### Art. 5
 
@@ -77,17 +76,13 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 <sup>1</sup> La justice civile est rendue par:
 
 - a) les juges de commune;
-
 - b) les tribunaux de district;
-
 - c) le Tribunal cantonal.
 
 <sup>2</sup> Demeurent réservées les attributions:
 
 - a) du tribunal du travail et de la commission cantonale de conciliation pour les litiges relevant de la loi fédérale sur l'égalité, dont l'organisation est arrêtée par la loi cantonale sur le travail;
-
 - b) de la commission de conciliation en matière de baux, dont l'organisation est arrêtée par la loi d'application du code civil suisse;
-
 - c) de l'autorité de protection de l'enfant et de l'adulte.
 
 #### Art. 6
@@ -96,27 +91,19 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 <sup>1</sup> La justice pénale est rendue par:
 
-- a) abrogé;[^6-1]
-
+- a) …
 - b) les tribunaux de district;
-
 - c) les tribunaux d'arrondissement;
-
 - d) le tribunal des mesures de contrainte;
-
 - e) le tribunal de l'application des peines et mesures;
-
 - f) les juges des mineurs et le tribunal des mineurs;
+- g) le Tribunal cantonal,
 
-- g) le Tribunal cantonal, avec la collaboration de la police judiciaire et du service cantonal de la jeunesse.
+<sup>2</sup> Les compétences du ministère public, du tribunal de police et des autres autorités administratives sont réservées.
 
-<sup>2</sup> Les compétences du ministère public, du tribunal de police et des autres autorités administratives sont réservées.[^6-1]
+#### Art. 6a
 
-[^6-1]: Nouvelle teneur selon ch. II de la loi BO No 39/2012 1.01.2013 modifiant le droit applicable à la poursuite et au jugement des contraventions de droit cantonal et communal, et au prononcé des amendes d'ordre du 13.09.2012
-
-#### Art. 6bis
-
-<sup>3</sup> Tribunal de police
+**Tribunal de police**
 
 <sup>1</sup> Le tribunal de police est une autorité pénale administrative communale composée de trois membres.
 
@@ -125,22 +112,16 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 <sup>3</sup> Le conseil municipal:
 
 - a) nomme les membres du tribunal de police pour une période administrative de quatre ans;
-
 - b) désigne son président;
-
 - c) nomme un ou plusieurs suppléants en cas de récusation ou d'empêchement.
 
 <sup>4</sup> Le président ou un membre du tribunal de police désigné par son président peut statuer comme juge unique:
 
 - a) si le prévenu a admis les faits ou que ceux-ci sont suffisamment établis, et qu'une amende de 500 francs au plus paraît appropriée pour sanctionner la contravention;
-
 - b) en cas de dénonciation manifestement infondée;
-
 - c) en cas d'irrecevabilité manifeste;
-
 - d) lorsque l'affaire devient sans objet;
-
-- e) lorsqu’une législation spéciale le prévoit.
+- e) lorsqu'une législation spéciale le prévoit.
 
 <sup>5</sup> Le tribunal de police, son président ou un membre statuant comme juge unique peuvent se faire assister d'un greffier, titulaire d'un titre universitaire en droit, qui dispose d'une voix consultative.
 
@@ -153,12 +134,11 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 <sup>1</sup> La justice administrative est exercée par:
 
 - a) le Tribunal cantonal;
-
 - b) les commissions spéciales de recours.
 
 <sup>2</sup> La justice en matière d'assurances sociales est exercée par le Tribunal cantonal. Si une cour du Tribunal cantonal a été saisie comme juridiction de première instance dans une matière qui ne relève pas de l'article 86 alinéa 2 de la loi fédérale sur le Tribunal fédéral, un recours peut être formé, selon les règles de la procédure administrative, auprès d'une autre cour du Tribunal cantonal.
 
-- 2\. Autorités judiciaires
+### 2.2 Autorités judiciaires
 
 #### Art. 8
 
@@ -176,11 +156,9 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 <sup>6</sup> L'autorité de surveillance des juges de commune veille à coordonner leur formation, notamment par voie de circulaires et de directives ainsi que, selon les besoins, par l'aménagement de conférences.
 
-[^8-1]: Nouvelle teneur selon ch. II de la loi BO No 39/2012 1.01.2013 modifiant le droit applicable à la poursuite et au jugement des contraventions de droit cantonal et communal, et au prononcé des amendes d'ordre du 13.09.2012
-
 #### Art. 9
 
-**Abrogé**[^8-1]
+**…**
 
 #### Art. 10
 
@@ -189,21 +167,13 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 <sup>1</sup> Il y a neuf tribunaux de district, dont le siège est fixé comme il suit:
 
 - a) à Brigue, pour les districts de Conches, Rarogne oriental et Brigue;
-
 - b) à Viège, pour le district de Viège;
-
 - c) à Loèche-Ville, pour les districts de Loèche et de Rarogne occidental;
-
 - d) à Sierre, pour le district de Sierre;
-
 - e) à Sion, pour les districts d'Hérens et de Conthey;
-
 - f) à Sion, pour le district de Sion;
-
 - g) à Martigny, pour les districts de Martigny et de St-Maurice;
-
 - h) à Sembrancher, pour le district d'Entremont;
-
 - i) à Monthey, pour le district de Monthey.
 
 <sup>2</sup> Il y a dans chaque tribunal un ou plusieurs juges de district.
@@ -219,9 +189,7 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 <sup>1</sup> Il y a trois tribunaux d'arrondissement:
 
 - a) le tribunal du premier arrondissement, pour les districts du Haut-Valais: Conches, Rarogne oriental et occidental, Brigue, Viège et Loèche;
-
 - b) le tribunal du deuxième arrondissement, pour les districts du Valais central: Sierre, Sion, Hérens et Conthey;
-
 - c) le tribunal du troisième arrondissement, pour les districts du Bas-Valais: Martigny, Entremont, St-Maurice et Monthey.
 
 <sup>2</sup> Le tribunal d'arrondissement est formé du juge de district du for de l'infraction qui préside et des deux autres juges de district du même arrondissement, venant en principe de districts différents.
@@ -230,11 +198,11 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 #### Art. 12
 
-Tribunal des mesures de contrainte - Tribunal de l'application des peines et mesures
+**Tribunal des mesures de contrainte - Tribunal de l'application des peines et mesures**
 
 <sup>1</sup> Le tribunal des mesures de contrainte est un tribunal centralisé de première instance, composé de plusieurs juges, et dont le siège est à Sion. Il statue dans la composition du juge unique. Le juge des mesures de contrainte peut être saisi en permanence; il peut tenir séance en tout lieu qui lui paraît opportun.
 
-<sup>2</sup> Le tribunal de l'application des peines et mesures est un tribunal centralisé de première instance, composé de plusieurs juges, et dont le siège est à Sion. Il statue dans la composition du juge unique.
+<sup>2</sup> Le tribunal de l'application des peines et mesures est un tribunal centralisé de première instance, composé de plusieurs juges, et dont le siège est à Sion. Il statue dans la composition du juge unique, sauf disposition contraire de la loi.
 
 <sup>3</sup> Le juge des mesures de contrainte et le juge de l'application des peines et mesures peuvent être affectés à un autre tribunal ou au traitement d'autres affaires déterminées (art. 15 al. 2).
 
@@ -242,13 +210,13 @@ Tribunal des mesures de contrainte - Tribunal de l'application des peines et mes
 
 #### Art. 13
 
-<sup>1</sup> Tribunal des mineurs
+**Tribunal des mineurs**
 
 <sup>1</sup> La juridiction des mineurs se compose de juges, de juges suppléants et d'assesseurs.
 
 <sup>2</sup> Les juges des mineurs, les juges suppléants et les assesseurs sont nommés et assermentés par le Tribunal cantonal pour la durée de la législature.
 
-<sup>3</sup> Le Tribunal cantonal exerce la surveillance sur la juridiction des mineurs, fixe son siège administratif et en désigne le doyen.
+<sup>3</sup> Le Tribunal cantonal fixe le siège administratif du tribunal des mineurs et en désigne le doyen.
 
 <sup>4</sup> La réglementation traitant de la récusation du juge pénal de première instance s'applique à la récusation d'un juge des mineurs et d'un assesseur. Toutefois, le juge des mineurs qui a mené l'instruction doit, sur demande et dans les conditions prévues par la loi fédérale sur la procédure pénale applicable aux mineurs, se récuser lors du jugement. Les juges suppléants remplacent les juges des mineurs en cas d'empêchement, de récusation ou de surcharge. Le Tribunal cantonal décide si cette dernière condition est remplie et fixe dans un règlement les attributions des juges suppléants.
 
@@ -266,9 +234,7 @@ Tribunal des mesures de contrainte - Tribunal de l'application des peines et mes
 
 <sup>4</sup> Le Tribunal cantonal a son siège à Sion.
 
-### Chapitre 3: Organisation des autorités judiciaires de première
-
-instance
+## 3 Organisation des autorités judiciaires de première instance
 
 #### Art. 15
 
@@ -279,10 +245,9 @@ instance
 <sup>2</sup> Le Tribunal cantonal peut en outre:
 
 - a) affecter un ou plusieurs juges dans plusieurs tribunaux;
-
 - b) affecter un ou plusieurs juges, à plein temps ou à temps partiel, au traitement d'affaires déterminées.
 
-<sup>3</sup> Les décisions du Tribunal cantonal en matière d'organisation judiciaire sont publiées dans le Bulletin Officiel.
+<sup>3</sup> Les décisions du Tribunal cantonal en matière d'organisation judiciaire sont publiées dans le Bulletin officiel.
 
 <sup>4</sup> Pour le surplus, le Tribunal cantonal fixe dans un règlement l'organisation interne des tribunaux de district, du tribunal des mineurs, du tribunal des mesures de contrainte et de l'application des peines et mesures.
 
@@ -290,7 +255,7 @@ instance
 
 **Juge extraordinaire**
 
-En cas d'empêchement ou de récusation, ou s'il existe un autre motif important, le Tribunal cantonal peut nommer, pour traiter d'une cause, un juge de district, un juge des mineurs, un juge des mesures de contrainte ou un juge de l'application des peines et mesures extraordinaire choisi hors du corps judiciaire. Dans ce cas, le juge extraordinaire doit satisfaire aux conditions de l'article 27.
+<sup>1</sup> En cas d'empêchement ou de récusation, ou s'il existe un autre motif important, le Tribunal cantonal peut nommer, pour traiter d'une cause, un juge de district, un juge des mineurs, un juge des mesures de contrainte ou un juge de l'application des peines et mesures extraordinaire choisi hors du corps judiciaire. Dans ce cas, le juge extraordinaire doit satisfaire aux conditions de l'article 27.
 
 #### Art. 17
 
@@ -316,7 +281,7 @@ En cas d'empêchement ou de récusation, ou s'il existe un autre motif important
 
 <sup>3</sup> L'article 41 alinéa 2 demeure réservé.
 
-### Chapitre 4: Organisation du Tribunal cantonal
+## 4 Organisation du Tribunal cantonal
 
 #### Art. 19
 
@@ -335,9 +300,7 @@ En cas d'empêchement ou de récusation, ou s'il existe un autre motif important
 <sup>1</sup> Le président d'un tribunal collégial ou un juge délégué peut, sans débat ni échange d'écritures, statuer comme juge unique:
 
 - a) lorsqu'une affaire devient sans objet;
-
 - b) en cas d'irrecevabilité manifeste;
-
 - c) en cas de conclusions manifestement infondées.
 
 <sup>2</sup> Le président d'un tribunal collégial ou un juge délégué est compétent pour instruire les recours relevant du Tribunal cantonal.
@@ -355,20 +318,18 @@ En cas d'empêchement ou de récusation, ou s'il existe un autre motif important
 <sup>3</sup> En cas de recours contre une décision statuant sur la demande de récusation, la procédure suivante est applicable:
 
 - a) le recours, adressé au Conseil d'Etat, est régi, selon la matière entrant en considération, par les règles de la procédure civile, pénale ou administrative;
-
 - b) le Conseil d'Etat procède à la désignation d'un second tribunal extraordinaire en appliquant l'alinéa 2 par analogie.
 
 #### Art. 22
 
 **Tribunal supérieur - Cas particuliers**
 
-Si, devant une juridiction de recours en dernière instance cantonale ou devant une juridiction cantonale devant statuer en unique instance, une décision incidente ou une ordonnance d'instruction doit être rendue, la procédure suivante est applicable:
+<sup>1</sup> Si, devant une juridiction de recours en dernière instance cantonale ou devant une juridiction cantonale devant statuer en unique instance, une décision incidente ou une ordonnance d'instruction doit être rendue, la procédure suivante est applicable:
 
 - a) un juge de cette juridiction statue;
-
 - b) un recours, selon les règles de la procédure civile, pénale ou administrative, peut être formé devant un autre juge de la même juridiction.
 
-### Chapitre 5: Organisation du ministère public
+## 5 Organisation du ministère public
 
 #### Art. 23
 
@@ -380,25 +341,25 @@ Si, devant une juridiction de recours en dernière instance cantonale ou devant 
 
 <sup>3</sup> L'office central est dirigé par le procureur général, assisté d'un procureur général adjoint; chaque office régional est dirigé par un premier procureur sous réserve des compétences du procureur général.
 
-<sup>4</sup> Le Grand Conseil élit le procureur général, le procureur général adjoint, les premiers procureurs, les procureurs, les substituts et, le cas échéant, un procureur extraordinaire.
+<sup>4</sup> Le Grand Conseil élit et assermente le procureur général, le procureur général adjoint et les premiers procureurs, qui forment le bureau du ministère public.
 
-<sup>5</sup> Il assermente le procureur général, le procureur général adjoint et les premiers procureurs qui forment le bureau du ministère public.
+<sup>5</sup> …
 
 #### Art. 24
 
-**Contrôle - Surveillance**
+**Haute surveillance**
 
-<sup>1</sup> Le secret de l'instruction est garanti.
+<sup>1</sup> Le Grand Conseil exerce la haute surveillance sur le ministère public.
 
-<sup>2</sup> Le Conseil d'Etat exerce un contrôle administratif et financier sur l'activité du ministère public.
+<sup>2</sup> …
 
-<sup>3</sup> Il peut lui donner des instructions de portée générale en matière d'administration ou de finances.
+<sup>3</sup> …
 
-<sup>4</sup> L'activité du ministère public dans des cas d'espèce n'est pas soumise au contrôle du Conseil d'Etat. Celui-ci ne peut pas lui donner d'instructions relatives à l'ouverture, au déroulement ou à la clôture de la procédure, à la représentation de l'accusation devant le tribunal ou au dépôt de recours.
+<sup>4</sup> …
 
-<sup>5</sup> Le Conseil d'Etat n'a pas accès aux dossiers du ministère public.
+<sup>5</sup> …
 
-<sup>6</sup> La haute surveillance du Grand Conseil sur le ministère public demeure réservée.
+<sup>6</sup> …
 
 #### Art. 25
 
@@ -407,20 +368,15 @@ Si, devant une juridiction de recours en dernière instance cantonale ou devant 
 <sup>1</sup> Par l'intermédiaire du Conseil d'Etat, le procureur général adresse au Grand Conseil chaque année un rapport sur l'activité du ministère public. Le rapport contient notamment des informations sur:
 
 - a) l'organisation interne;
-
 - b) les instructions de portée générale;
-
 - c) le nombre et le type d'affaires closes et d'affaires pendantes, et la charge de travail des différentes unités;
-
 - d) la durée de traitement des affaires;
-
 - e) l'utilisation des ressources humaines, des moyens financiers et de l'infrastructure;
-
 - f) le nombre et l'issue des recours déposés contre les ordonnances et les actes de procédure du ministère public.
 
-<sup>2</sup> Le Conseil d'Etat remet le rapport tel quel au Grand Conseil. Il peut y adjoindre ses remarques, en particulier si ses instructions de portée générale en matière d'administration et de finances ne sont pas respectées.
+<sup>2</sup> …
 
-<sup>3</sup> Si l'indépendance du ministère public est menacée, le procureur général peut saisir directement le Grand Conseil.
+<sup>3</sup> …
 
 #### Art. 26
 
@@ -430,23 +386,29 @@ Si, devant une juridiction de recours en dernière instance cantonale ou devant 
 
 <sup>2</sup> Le bureau du ministère public:
 
-- a) assermente les procureurs et les substituts;
-
+- a) nomme et assermente les procureurs et les substituts;
 - b) nomme le personnel administratif;
-
 - c) décide de l'affectation des procureurs, des substituts et du personnel administratif dans les offices.
 
-<sup>3</sup> Les décisions du bureau du ministère public en matière d'organisation sont publiées dans le Bulletin Officiel.
+<sup>3</sup> Les décisions du bureau du ministère public en matière d'organisation sont publiées dans le Bulletin officiel.
 
-#### Art. 26bis
+#### Art. 26a
 
-<sup>1</sup> Ministère public des mineurs
+**Procureur extraordinaire**
+
+<sup>1</sup> En cas d'empêchement, ou s'il existe un autre motif important, le bureau du ministère public peut nommer et assermenter, pour traiter d'une cause, un procureur extraordinaire choisi hors du corps du ministère public du canton du Valais. Dans ce cas, le procureur extraordinaire doit satisfaire aux conditions de l'article 27.
+
+<sup>2</sup> En cas d'empêchement ou de récusation de tous les membres du bureau du ministère public, le procureur extraordinaire est élu et assermenté par le Grand Conseil.
+
+#### Art. 26b
+
+**Ministère public des mineurs**
 
 <sup>1</sup> Les tâches confiées au ministère public des mineurs par la loi fédérale sur la procédure pénale applicable aux mineurs sont de la compétence du ministère public ordinaire.
 
 <sup>2</sup> Le bureau du ministère public peut affecter un ou plusieurs procureurs au traitement des affaires relevant de la juridiction pénale des mineurs.
 
-### Chapitre 6: Exercice des fonctions de juge ou procureur
+## 6 Exercice des fonctions de juge ou procureur
 
 #### Art. 27
 
@@ -458,7 +420,15 @@ Si, devant une juridiction de recours en dernière instance cantonale ou devant 
 
 #### Art. 28
 
-Election des juges cantonaux et des membres du ministère public Le mode d'élection des juges cantonaux, des juges cantonaux suppléants et des membres du ministère public est fixé par le règlement du Grand Conseil.
+**Election des juges cantonaux et des membres du bureau du ministère public**
+
+<sup>1</sup> Le mode d'élection des juges cantonaux, des juges cantonaux suppléants et des membres du bureau du ministère public est fixé par le règlement du Grand Conseil.
+
+#### Art. 28a
+
+**Nomination et assermentation des procureurs et des substituts**
+
+<sup>1</sup> La procédure de nomination et d'assermentation des procureurs, des substituts et du procureur extraordinaire est fixée par le règlement du ministère public du canton du Valais.
 
 #### Art. 29
 
@@ -474,49 +444,59 @@ Election des juges cantonaux et des membres du ministère public Le mode d'élec
 
 <sup>1</sup> Les membres des autorités judiciaires à assermenter, les membres du ministère public ainsi que les greffiers doivent prêter serment ou promettre solennellement de remplir leur fonction en toute conscience.
 
-<sup>2</sup> S'ils entendent être assermentés, ils prêtent le serment suivant: «Je jure de remplir en toute conscience les fonctions qui me sont confiées, je le jure par le nom de Dieu comme je désire qu'il m'assiste à mon dernier jour.»
+<sup>2</sup> S'ils entendent être assermentés, ils prêtent le serment suivant: "Je jure de remplir en toute conscience les fonctions qui me sont confiées, je le jure par le nom de Dieu comme je désire qu'il m'assiste à mon dernier jour."
 
-<sup>3</sup> S'ils entendent faire la promesse solennelle, ils prononcent les paroles suivantes: «Je promets solennellement de remplir en toute conscience les fonctions qui me sont confiées.»
+<sup>3</sup> S'ils entendent faire la promesse solennelle, ils prononcent les paroles suivantes: "Je promets solennellement de remplir en toute conscience les fonctions qui me sont confiées."
 
 #### Art. 31
 
-<sup>2</sup> Statut des greffiers
+**Statut des greffiers**
 
-Sauf disposition contraire, la législation sur le personnel de l'Etat s'applique par analogie aux greffiers.
+<sup>1</sup> Sauf disposition contraire, la législation sur le personnel de l'Etat s'applique par analogie aux greffiers.
+
+#### Art. 31a
+
+**Devoirs généraux des juges et des procureurs**
+
+<sup>1</sup> Les juges et les procureurs:
+
+- a) sont indépendants et impartiaux;
+- b) exercent leur charge avec assiduité, diligence et rigueur;
+- c) sont tenus au secret de fonction;
+- d) sont tenus à un devoir de réserve;
+- e) tiennent à jour et perfectionnent leur connaissance du droit.
 
 #### Art. 32
 
 **Surveillance**
 
-<sup>1</sup> Le Tribunal cantonal exerce la surveillance sur les magistrats de l'ordre judiciaire, leurs suppléants, les greffiers et le personnel administratif. Il est compétent pour prononcer des mesures disciplinaires en première instance et sur recours, conformément au règlement d'organisation des tribunaux valaisans.
+<sup>1</sup> Le Tribunal cantonal exerce la surveillance sur les greffiers et le personnel administratif. Il est compétent pour prononcer des mesures disciplinaires en première instance et sur recours, conformément au règlement d'organisation des tribunaux valaisans.
 
-<sup>2</sup> Le bureau du ministère public exerce de la même manière la surveillance sur les procureurs, les substituts et le personnel administratif. Le Tribunal cantonal connaît des recours contre les décisions en matière disciplinaire prononcées à l'endroit d'un procureur.
+<sup>2</sup> Le bureau du ministère public exerce la même surveillance sur le personnel administratif. Le Tribunal cantonal connaît des recours contre les décisions en matière disciplinaire prononcées à l'endroit du personnel administratif.
+
+<sup>3</sup> Demeure réservé le contrôle interne sur les tribunaux et les offices du ministère public au sens de l'article 19 alinéa 4 de la loi sur le Conseil de la magistrature.
 
 #### Art. 33
 
-**Procédure disciplinaire**
+**Sanctions disciplinaires**
 
-<sup>1</sup> Sont applicables les mesures disciplinaires suivantes:
+<sup>1</sup> Les sanctions disciplinaires suivantes peuvent être prononcées:
 
-- a) la réprimande;
+- a) …
+- b) le blâme écrit;
+- c) …
+- d) la diminution du traitement mensuel jusqu'à concurrence du tiers, pour une durée maximale d'une année;
+- e) le transfert dans une autre fonction ou à un poste, équivalent ou inférieur avec traitement correspondant à la nouvelle situation;
+- f) la révocation disciplinaire.
+- g) …
 
-- b) l'amende jusqu'à 1'000 francs;
+<sup>2</sup> La sanction disciplinaire est fixée selon la gravité des faits et la conduite antérieure du magistrat.
 
-- c) la mise au provisoire pour une durée maximale d'un an;
+<sup>3</sup> …
 
-- d) la diminution du traitement jusqu'à concurrence de la moitié pour une durée maximale de trois mois;
+<sup>4</sup> Si la faute commise est légère, il peut être renoncé à toute sanction disciplinaire.
 
-- e) la suspension temporaire d'emploi jusqu'à six mois, le cas échéant avec diminution ou suspension du traitement;
-
-- f) le transfert dans une fonction inférieure avec traitement correspondant;
-
-- g) le renvoi sans délai et, le cas échéant, sans indemnité.
-
-<sup>2</sup> La mesure disciplinaire est fixée selon la gravité du manquement et selon la conduite antérieure du magistrat ou de l'intéressé. Plusieurs mesures disciplinaires peuvent être cumulées.
-
-<sup>3</sup> En ordonnant l'ouverture d'une enquête disciplinaire, l'autorité compétente peut ordonner la suspension provisoire avec ou sans suppression du traitement.
-
-<sup>4</sup> Le droit d'ouvrir une action disciplinaire se prescrit par une année dès la connaissance des faits. Dans tous les cas, la mesure doit avoir été prononcée dans les cinq ans dès la commission des faits.
+<sup>5</sup> En cas de démission présentée par le magistrat concerné, l'autorité compétente peut renoncer à une mesure disciplinaire et accepter la démission, si cette solution s'avère la plus adéquate au vu de l'ensemble des circonstances et des divers intérêts en présence.
 
 #### Art. 34
 
@@ -524,7 +504,15 @@ Sauf disposition contraire, la législation sur le personnel de l'Etat s'appliqu
 
 <sup>1</sup> Les juges, les juges suppléants, le procureur général, le procureur général adjoint, les premiers procureurs, les procureurs et les substituts peuvent présenter leur démission en tout temps auprès de l'autorité d'élection ou de nomination en respectant un préavis de six mois pour la fin d'un mois. La durée du préavis peut être abrégée avec l'accord de l'autorité compétente.
 
-<sup>2</sup> L'autorité d'élection ou de nomination peut en tout temps mettre fin aux fonctions d'un magistrat pour de justes motifs.
+<sup>2</sup> L'autorité d'élection ou de nomination peut en tout temps mettre fin aux fonctions d'un magistrat pour de justes motifs. Demeure réservée la procédure disciplinaire.
+
+#### Art. 34a
+
+**Liens d'intérêts**
+
+<sup>1</sup> En entrant en fonction et lors de toute modification, chaque magistrat de l'ordre judiciaire et du ministère public signale ses liens d'intérêts définis par règlement.
+
+<sup>2</sup> Le secrétaire général des tribunaux valaisans établit un registre public des indications fournies par les magistrats de l'ordre judiciaire. Le procureur général en fait de même des indications fournies par les magistrats du ministère public. Ces registres sont publiés sur les sites officiels du pouvoir judiciaire et du ministère public.
 
 #### Art. 35
 
@@ -533,13 +521,9 @@ Sauf disposition contraire, la législation sur le personnel de l'Etat s'appliqu
 <sup>1</sup> Est compétent pour statuer sur une demande de récusation lorsque la requête est dirigée:
 
 - a) contre un juge de commune: le vice-juge de commune ou un autre juge de commune désigné par le juge de district du siège dont il relève;
-
 - b) contre un juge de première instance ou un juge de première instance suppléant: un autre juge de première instance ou un juge de première instance suppléant désigné par le président du Tribunal cantonal;
-
 - c) contre un juge cantonal: le président du Tribunal cantonal;
-
 - d) contre le président du Tribunal cantonal: le vice-président du Tribunal cantonal;
-
 - e) contre le président et le vice-président du Tribunal cantonal: le juge cantonal doyen de fonction qui n'est pas concerné par le motif de récusation.
 
 <sup>2</sup> La décision de récusation concernant un juge de commune ou un juge de première instance est sujette à recours auprès du président du Tribunal cantonal qui statue, selon la matière entrant en considération, conformément aux règles de la procédure civile, de la procédure pénale ou de la procédure administrative.
@@ -547,14 +531,12 @@ Sauf disposition contraire, la législation sur le personnel de l'Etat s'appliqu
 <sup>3</sup> Demeurent réservés:
 
 - a) l'article 59 du code de procédure pénale suisse lorsque la récusation est dirigée contre une autorité pénale;
-
 - b) l'article 21 alinéas 2 et 3 de la présente loi lorsque la récusation est dirigée contre tous les membres du Tribunal cantonal;
-
 - c) l'article 22 de la présente loi lorsque le recours est dirigé contre la décision de récusation concernant un juge cantonal, le président ou le vice-président du Tribunal cantonal.
 
 <sup>4</sup> Lorsque la récusation est dirigée contre tous les membres du tribunal de police, l'article 21 alinéas 2 et 3 s'applique par analogie.
 
-### Chapitre 7: Dispositions diverses, finales et transitoires
+## 7 Dispositions diverses, finales et transitoires
 
 #### Art. 36
 
@@ -570,12 +552,10 @@ Sauf disposition contraire, la législation sur le personnel de l'Etat s'appliqu
 
 **Computation des délais**
 
-Pour les délais légaux ou les délais fixés par une autorité au sens de la présente loi, sont considérés comme fériés:
+<sup>1</sup> Pour les délais légaux ou les délais fixés par une autorité au sens de la présente loi, sont considérés comme fériés:
 
 - a) les jours fixés par le droit fédéral;
-
 - b) les jours fixés par la loi cantonale sur le repos du dimanche et des jours de fête et par son règlement d'exécution;
-
 - c) le 2 janvier, le lundi de Pâques, le lundi de Pentecôte et le 26 décembre.
 
 #### Art. 38
@@ -602,25 +582,25 @@ Pour les délais légaux ou les délais fixés par une autorité au sens de la p
 
 **Prestations des communes**
 
-Le Conseil d'Etat arrête les prestations à fournir par les communes où siègent les autorités judiciaires et le ministère public, et éventuellement par les autres communes des districts ou des arrondissements intéressés.
+<sup>1</sup> Le Conseil d'Etat arrête les prestations à fournir par les communes où siègent les autorités judiciaires et le ministère public, et éventuellement par les autres communes des districts ou des arrondissements intéressés.
 
 #### Art. 41
 
-<sup>1</sup> Personnel administratif
+**Personnel administratif**
 
-<sup>1</sup> Le personnel administratif des tribunaux est nommé par le Tribunal cantonal; celui du ministère public par son bureau. Le personnel administratif est sou-mis à la législation sur le personnel de l'Etat. Les juges de district, les juges des mineurs, les juges du tribunal des mesures de contrainte et de l'application des peines et mesures ainsi que les premiers procureurs proposent le personnel à nommer pour leur siège.
+<sup>1</sup> Le personnel administratif des tribunaux est nommé par le Tribunal cantonal; celui du ministère public par son bureau. Le personnel administratif est soumis à la législation sur le personnel de l'Etat. Les juges de district, les juges des mineurs, les juges du tribunal des mesures de contrainte et de l'application des peines et mesures ainsi que les premiers procureurs proposent le personnel à nommer pour leur siège.
 
-<sup>2</sup> Dans le cadre du budget, le Tribunal cantonal peut transformer un poste de l'organigramme attribué au personnel administratif en un poste de greffier ou de juge de première instance.
+<sup>2</sup> Dans le cadre du budget, le Tribunal cantonal peut transformer un poste de l'organigramme attribué au personnel administratif en un poste de greffier ou de juge de première instance. De la même façon, le bureau du ministère public peut transformer un poste de l'organigramme attribué au personnel administratif en un poste de procureur ou de substitut.
 
 #### Art. 42
 
-<sup>2</sup> Huissiers
+**Huissiers**
 
 <sup>1</sup> Le Tribunal cantonal, le ministère public, les tribunaux d'arrondissement et les juges de première instance peuvent être assistés par un ou plusieurs huissiers nommés pour la durée de la législature et assermentés par ces autorités.
 
 <sup>2</sup> Le procès-verbal fait mention de la nomination et de l'assermentation.
 
-<sup>3</sup> Les nominations des huissiers sont rendues publiques par la voie du Bulletin Officiel.
+<sup>3</sup> Les nominations des huissiers sont rendues publiques par la voie du Bulletin officiel.
 
 <sup>4</sup> Sauf disposition contraire, la législation sur le personnel de l'Etat s'applique par analogie.
 
@@ -628,7 +608,7 @@ Le Conseil d'Etat arrête les prestations à fournir par les communes où siège
 
 **Police**
 
-Les autorités judiciaires et le ministère public peuvent requérir les services de la police.
+<sup>1</sup> Les autorités judiciaires et le ministère public peuvent requérir les services de la police.
 
 #### Art. 44
 
@@ -650,35 +630,17 @@ Les autorités judiciaires et le ministère public peuvent requérir les service
 
 **Abrogation et modification du droit en vigueur**
 
-- 1\. Toute disposition contraire à la présente loi est abrogée, en particulier la loi d'organisation judiciaire du 27 juin 2000.
+<sup>1</sup> Toute disposition contraire à la présente loi est abrogée, en particulier la loi d'organisation judiciaire du 27 juin 2000.
 
-- 2\. La loi sur la procédure et la juridiction administratives du 6 octobre 1976 est modifiée comme il suit:
+<sup>2</sup> La loi sur la procédure et la juridiction administratives du 6 octobre 1976 est modifiée.
 
-#### Art. 15
-
-**al. 2 Computation**
-
-<sup>2</sup> Sont considérés comme jours fériés:
-
-- a) les jours fixés par le droit fédéral;
-
-- b) les jours fixés par la loi cantonale sur le repos du dimanche et des jours de fête et par son règlement d'exécution;
-
-- c) le 2 janvier, le lundi de Pâques, le lundi de Pentecôte et le 26 décembre.
-
-- 3\. La loi sur l'organisation des Conseils et les rapports entre les pouvoirs est modifiée comme il suit:
-
-#### Art. 129
-
-**Règlement interne**
-
-Abrogé.
+<sup>3</sup> La loi sur l'organisation des Conseils et les rapports entre les pouvoirs est modifiée.
 
 #### Art. 47
 
 **Droit transitoire**
 
-La présente loi s'applique aux procédures pendantes lors de son entrée en vigueur, sous réserve des dispositions transitoires du droit fédéral.
+<sup>1</sup> La présente loi s'applique aux procédures pendantes lors de son entrée en vigueur, sous réserve des dispositions transitoires du droit fédéral.
 
 #### Art. 48
 
@@ -688,17 +650,10 @@ La présente loi s'applique aux procédures pendantes lors de son entrée en vig
 
 <sup>2</sup> Le Conseil d'Etat fixe la date de l'entrée en vigueur de la présente loi.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 11 février 2009.
+## T1 Disposition transitoire de la modification du 16.02.2017
 
-Le président du Grand Conseil: Paul-André Roux Le chef du Service parlementaire: Claude Bumann
+#### Art. T1-1
 
-**Entrée en**
+<sup>1</sup> Les nouvelles dispositions de la loi relatives à la procédure de nomination et d'assermentation des membres du ministère public ne déploient d'effet à l'égard de personnes déjà élues lors de son entrée en vigueur qu'à l'échéance de la période judiciaire en cours.
 
-### Intitulé et modifications Publication
-
-vigueur BO No 49/2009; 01.01.2011
-
-## Autres notes
-
-- [1] Nouvelle teneur selon la loi d'application de BO No 49/2009; 01.01.2011 la loi fédérale sur la procédure pénale 26/2010 applicable aux mineurs (LAPPMin) du 12.11.2009
-- [2] Nouvelle teneur selon l'art. 71 ch. 2 de la loi BO No 48/2010; 01.07.2011 sur le personnel de l'Etat du Valais 19.11.2010 26/2011
+RCV BO/Abl. 13/2009, 26/2010

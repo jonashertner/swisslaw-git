@@ -4,69 +4,70 @@ number: "173.1"
 title: Gesetz über die Rechtspflege
 short: RPflG
 language: de
-version: 2013-01-01
-corrected: 2017-09-22
-version_adopted: 2012-09-13
+version: 2021-01-01
+corrected: 2021-05-31
+version_adopted: 2019-12-12
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/de/versions/644/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2685/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Rechtspflege (RPflG)
+# Gesetz über die Rechtspflege
 
-vom 11. Februar 2009
+(RPflG)
+
+vom 11.02.2009 (Stand 01.01.2021)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 122 Absatz 2 und 123 Absatz 2 der Bundesverfassung; eingesehen die Artikel 31 Absatz 1 Ziffer 1, 42 Absatz 1, 60 ff. der Kantonsverfassung;
+eingesehen die Artikel 122 Absatz 2 und 123 Absatz 2 der Bundesverfassung;
 
-auf Antrag des Staatsrates;
+eingesehen die Artikel 31 Absatz 1 Buchstabe a, 42 Absatz 1 und 60 und folgende der Kantonsverfassung;
+
+auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Gegenstand des Gesetzes
+## 1 Gegenstand des Gesetzes
 
 #### Art. 1
 
 **Zweck**
 
-Vorliegendes Gesetz bezweckt die Bezeichnung:
+<sup>1</sup> Vorliegendes Gesetz bezweckt die Bezeichnung:
 
 - a) der Organisation der Gerichtsbehörden und der Staatsanwaltschaft;
-
 - b) der Aufgaben des Kantonsgerichts und der Staatsanwaltschaft hinsichtlich der internen Organisation der Gerichts- und der Strafverfolgungsbehörden;
-
 - c) der Voraussetzungen zur Ausübung der Ämter als Richter und Staatsanwalt.
 
 #### Art. 2
 
-Zuständigkeiten der Gerichtsbehörden und der Staatsanwaltschaft Die Zuständigkeiten der Gerichtsbehörden und der Staatsanwaltschaft sind durch die Spezialgesetzgebung festgelegt, namentlich durch:
+**Zuständigkeiten der Gerichtsbehörden und der Staatsanwaltschaft**
+
+<sup>1</sup> Die Zuständigkeiten der Gerichtsbehörden und der Staatsanwaltschaft sind durch die Spezialgesetzgebung festgelegt, namentlich durch:
 
 - a) die Bundesrechtspflege;
-
 - b) die Einführungsgesetze zur Bundesrechtspflege;
-
 - c) das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege.
 
 #### Art. 3
 
 **Zuständigkeit der Verwaltungsbehörden**
 
-Die Zuständigkeit der Verwaltungsbehörden in Zivil-, Straf-, Verwaltungs- und Sozialversicherungssachen bleibt vorbehalten.
+<sup>1</sup> Die Zuständigkeit der Verwaltungsbehörden in Zivil-, Straf-, Verwaltungs- und Sozialversicherungssachen bleibt vorbehalten.
 
 #### Art. 4
 
 **Gleichstellung von Mann und Frau**
 
-Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
-### 2. Kapitel: Gerichtsorganisation - Allgemeines
+## 2 Gerichtsorganisation - Allgemeines
 
-### 1. Ausübung der Gerichtsbarkeit
+### 2.1 Ausübung der Gerichtsbarkeit
 
 #### Art. 5
 
@@ -75,17 +76,13 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 <sup>1</sup> Die Zivilgerichtsbarkeit wird ausgeübt durch:
 
 - a) die Gemeinderichter;
-
 - b) die Bezirksgerichte;
-
 - c) das Kantonsgericht.
 
 <sup>2</sup> Vorbehalten bleiben die Befugnisse:
 
 - a) des Arbeitsgerichtes und der kantonalen Schlichtungskommission für die dem Bundesgesetz über die Gleichstellung unterliegenden Streitfälle, deren Organisation durch das kantonale Arbeitsgesetz bestimmt wird;
-
 - b) der kantonalen Schlichtungskommission für Mietverhältnisse, deren Organisation durch das kantonale Einführungsgesetz zum Schweizerischen Zivilgesetzbuch bestimmt wird;
-
 - c) der Kindes- und Erwachsenenschutzbehörde.
 
 #### Art. 6
@@ -94,27 +91,19 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 <sup>1</sup> Die Strafgerichtsbarkeit wird ausgeübt durch:
 
-- a) aufgehoben;[^6-1]
-
+- a) …
 - b) die Bezirksgerichte;
-
 - c) die Kreisgerichte;
-
 - d) das Zwangsmassnahmengericht;
-
 - e) das Straf- und Massnahmenvollzugsgericht;
-
 - f) die Jugendrichter und das Jugendgericht;
+- g) das Kantonsgericht,
 
-- g) das Kantonsgericht, in Zusammenarbeit mit der gerichtlichen Polizei und der kantonalen Dienststelle für die Jugend.
+<sup>2</sup> Die Zuständigkeit der Staatsanwaltschaft, des Polizeigerichts und der anderen Verwaltungsbehörden bleibt vorbehalten.
 
-<sup>2</sup> Die Zuständigkeit der Staatsanwaltschaft, des Polizeigerichts und der anderen Verwaltungsbehörden bleibt vorbehalten.[^6-1]
+#### Art. 6a
 
-[^6-1]: Fassung gemäss Ziff. II des Gesetzes zur Abl. Nr. 39/2012 1.01.2013 Änderung des geltenden Rechts betreffend die Verfolgung und Beurteilung von Übertretungen des kantonalen und kommunalen Rechts und die Verhängung von Ordnungsbussen vom 13.09.2012
-
-#### Art. 6bis
-
-<sup>3</sup> Polizeigericht
+**Polizeigericht**
 
 <sup>1</sup> Das Polizeigericht ist eine strafrechtliche Gemeindeverwaltungsbehörde, die aus drei Mitgliedern besteht.
 
@@ -123,21 +112,15 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 <sup>3</sup> Der Gemeinderat:
 
 - a) ernennt die Mitglieder des Polizeigerichts für eine Amtsdauer von vier Jahren;
-
 - b) bestimmt seinen Präsidenten;
-
 - c) ernennt eine oder mehrere Ersatzpersonen für den Fall eines Ausstands oder einer Verhinderung.
 
 <sup>4</sup> Der Präsident oder ein vom Präsidenten delegiertes Mitglied des Polizeigerichts kann als Einzelrichter entscheiden:
 
 - a) wenn die beschuldigte Person den Sachverhalt eingestanden hat oder dieser anderweitig ausreichend geklärt ist und eine Busse von höchstens 500 Franken zur Bestrafung der Übertretung angemessen scheint;
-
 - b) bei offensichtlich unbegründeter Anzeige;
-
 - c) bei offensichtlicher Unzulässigkeit;
-
 - d) wenn eine Angelegenheit gegenstandslos wird;
-
 - e) wenn eine Spezialgesetzgebung dies vorsieht.
 
 <sup>5</sup> Das Polizeigericht, sein Präsident oder ein als Einzelrichter entscheidendes Mitglied kann sich von einem Gerichtsschreiber, der Inhaber eines Universitätstitels in Rechtswissenschaft ist, mit beratender Stimme verbeiständen lassen.
@@ -151,12 +134,11 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 <sup>1</sup> Die Verwaltungsgerichtsbarkeit wird ausgeübt durch:
 
 - a) das Kantonsgericht;
-
 - b) die besonderen Rekurskommissionen.
 
 <sup>2</sup> Die Gerichtsbarkeit in sozialversicherungsrechtlichen Angelegenheiten wird vom Kantonsgericht ausgeübt. Wenn ein Gerichtshof des Kantonsgerichts sich erstinstanzlich mit einer Angelegenheit, welche nicht unter den Artikel 86 Absatz 2 des Bundesgerichtsgesetzes fällt, befasst hat, kann gemäss den Bestimmungen über das Verwaltungsverfahren Beschwerde bei einem anderen Gerichtshof des Kantonsgerichts geführt werden.
 
-- 2\. Gerichtsbehörden
+### 2.2 Gerichtsbehörden
 
 #### Art. 8
 
@@ -174,11 +156,9 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 <sup>6</sup> Die Aufsichtsbehörde der Gemeinderichter sorgt für eine einheitliche Ausbildung, namentlich mittels Rundschreiben, Weisungen sowie nach Bedarf durch die Einberufung von Konferenzen.
 
-[^8-1]: Fassung gemäss Ziff. II des Gesetzes zur Abl. Nr. 39/2012 1.01.2013 Änderung des geltenden Rechts betreffend die Verfolgung und Beurteilung von Übertretungen des kantonalen und kommunalen Rechts und die Verhängung von Ordnungsbussen vom 13.09.2012
-
 #### Art. 9
 
-**Aufgehoben**[^8-1]
+**…**
 
 #### Art. 10
 
@@ -187,21 +167,13 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 <sup>1</sup> Es gibt neun Bezirksgerichte, deren Sitz wie folgt bestimmt wird:
 
 - a) in Brig für die Bezirke Goms, Östlich-Raron und Brig;
-
 - b) in Visp für den Bezirk Visp;
-
 - c) in Leuk-Stadt für die Bezirke Leuk und Westlich-Raron;
-
 - d) in Siders für den Bezirk Siders;
-
 - e) in Sitten für die Bezirke Ering und Gundis;
-
 - f) in Sitten für den Bezirk Sitten;
-
 - g) in Martinach für die Bezirke Martinach und St-Maurice;
-
 - h) in Sembrancher für den Bezirk Entremont;
-
 - i) in Monthey für den Bezirk Monthey.
 
 <sup>2</sup> An jedem Gericht gibt es einen oder mehrere Bezirksrichter.
@@ -217,9 +189,7 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 <sup>1</sup> Es bestehen drei Kreisgerichte:
 
 - a) das erste Kreisgericht für die Bezirke des Oberwallis: Goms, Östlich- und Westlich-Raron, Brig, Visp und Leuk;
-
 - b) das zweite Kreisgericht für die Bezirke des Mittelwallis: Siders, Sitten, Ering und Gundis;
-
 - c) das dritte Kreisgericht für das Unterwallis: Martinach, Entremont, St-Maurice und Monthey.
 
 <sup>2</sup> Das Kreisgericht setzt sich aus dem Bezirksrichter, in dessen Amtsbereich das strafbare Verhalten begangen wurde, als Präsident und zwei anderen Bezirksrichtern des gleichen Kreises, aber grundsätzlich unterschiedlicher Bezirke, zusammen.
@@ -228,15 +198,11 @@ Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Fu
 
 #### Art. 12
 
-**Straf- und**
-
-**Zwangsmassnahmengericht -**
-
-Massnahmenvollzugsgericht
+**Zwangsmassnahmengericht - Straf- und Massnahmenvollzugsgericht**
 
 <sup>1</sup> Das Zwangsmassnahmengericht ist ein zentrales erstinstanzliches Gericht, welches aus mehreren Richtern besteht und seinen Sitz in Sitten hat. Es entscheidet als Einzelrichter. Der Zwangsmassnahmenrichter kann jederzeit angerufen werden. Er kann Verhandlungen an ihm geeignet erscheinenden Orten durchführen.
 
-<sup>2</sup> Das Straf- und Massnahmenvollzugsgericht ist ein zentrales erstinstanzliches Gericht, welches aus mehreren Richtern besteht und seinen Sitz in Sitten hat. Es entscheidet als Einzelrichter.
+<sup>2</sup> Das Straf- und Massnahmenvollzugsgericht ist ein zentrales erstinstanzliches Gericht, das aus mehreren Richtern besteht und seinen Sitz in Sitten hat. Bestimmt es das Gesetz nicht anders, so entscheidet es als Einzelrichter.
 
 <sup>3</sup> Der Zwangsmassnahmenrichter und der Straf- und Massnahmenvollzugsrichter können einem anderen Gericht zugeteilt oder für die Behandlung von bestimmten anderen Fällen eingesetzt werden (Art. 15 Abs. 2).
 
@@ -244,13 +210,13 @@ Massnahmenvollzugsgericht
 
 #### Art. 13
 
-<sup>1</sup> Jugendgericht
+**Jugendgericht**
 
 <sup>1</sup> Das Jugendgericht setzt sich aus Richtern, Ersatzrichtern und Beisitzern zusammen.
 
 <sup>2</sup> Die Jugendrichter, die Ersatzrichter und die Beisitzer werden vom Kantonsgericht für die Dauer einer Amtsperiode ernannt und vereidigt.
 
-<sup>3</sup> Das Kantonsgericht übt die Aufsicht über die Jugendgerichtsbarkeit aus, legt den Verwaltungssitz fest und bezeichnet den Doyen.
+<sup>3</sup> Das Kantonsgericht legt den Verwaltungssitz des Jugendgerichts fest und bezeichnet den Doyen.
 
 <sup>4</sup> Die Bestimmungen über den Ausstand des erstinstanzlichen Strafrichters sind auf den Jugendrichter und den Beisitzer anwendbar. Jedoch hat der Jugendrichter, der die Untersuchung geführt hat, auf Antrag und unter den im Bundesgesetz über das Jugendstrafrecht vorgesehenen Voraussetzungen für das Urteil in den Ausstand zu treten. Die Ersatzrichter ersetzen die Jugendrichter bei Verhinderung, Ausstand oder Arbeitsüberlastung. Das Kantonsgericht entscheidet, ob die letztgenannte Bedingung erfüllt ist und ordnet in einem Reglement die Aufgaben der Ersatzrichter.
 
@@ -268,7 +234,7 @@ Massnahmenvollzugsgericht
 
 <sup>4</sup> Das Kantonsgericht hat seinen Sitz in Sitten.
 
-### 3. Kapitel: Organisation der Gerichtsbehörden erster Instanz
+## 3 Organisation der Gerichtsbehörden erster Instanz
 
 #### Art. 15
 
@@ -279,7 +245,6 @@ Massnahmenvollzugsgericht
 <sup>2</sup> Das Kantonsgericht kann ausserdem:
 
 - a) einen oder mehrere Richter mehreren Gerichten zuteilen;
-
 - b) einen oder mehrere Richter in Teilzeit- oder Vollzeitbeschäftigung für die Behandlung von bestimmten Fällen einsetzen.
 
 <sup>3</sup> Die Entscheide des Kantonsgerichts hinsichtlich der gerichtlichen Organisation werden im Amtsblatt veröffentlicht.
@@ -290,7 +255,7 @@ Massnahmenvollzugsgericht
 
 **Ausserordentliche Richter**
 
-Im Verhinderungsfall, bei Ausstand oder aus einem anderen wichtigen Grund kann das Kantonsgericht zur Behandlung eines Falls einen ausserhalb der Gerichtsbehörden ausgewählten ausserordentlichen Bezirksrichter, Jugendrichter, Zwangsmassnahmenrichter oder Straf- und Massnahmenvollzugsrichter ernennen. In diesem Fall muss der ausserordentliche Richter die Bedingungen von Artikel 27 erfüllen.
+<sup>1</sup> Im Verhinderungsfall, bei Ausstand oder aus einem anderen wichtigen Grund kann das Kantonsgericht zur Behandlung eines Falls einen ausserhalb der Gerichtsbehörden ausgewählten ausserordentlichen Bezirksrichter, Jugendrichter, Zwangsmassnahmenrichter oder Straf- und Massnahmenvollzugsrichter ernennen. In diesem Fall muss der ausserordentliche Richter die Bedingungen von Artikel 27 erfüllen.
 
 #### Art. 17
 
@@ -316,7 +281,7 @@ Im Verhinderungsfall, bei Ausstand oder aus einem anderen wichtigen Grund kann d
 
 <sup>3</sup> Artikel 41 Absatz 2 bleibt vorbehalten.
 
-### 4. Kapitel: Organisation des Kantonsgerichts
+## 4 Organisation des Kantonsgerichts
 
 #### Art. 19
 
@@ -335,9 +300,7 @@ Im Verhinderungsfall, bei Ausstand oder aus einem anderen wichtigen Grund kann d
 <sup>1</sup> Der Präsident eines Kollegialgerichts oder ein delegierter Richter kann ohne Verhandlung und ohne Schriftenwechsel als Einzelrichter entscheiden:
 
 - a) bei Gegenstandslosigkeit einer Angelegenheit;
-
 - b) bei offensichtlicher Unzulässigkeit;
-
 - c) bei offensichtlich unbegründeten Begehren.
 
 <sup>2</sup> Der Präsident eines Kollegialgerichts oder ein delegierter Richter führt die Instruktion der Rechtsmittel, die in die Zuständigkeit des Kantonsgerichts fallen.
@@ -355,20 +318,18 @@ Im Verhinderungsfall, bei Ausstand oder aus einem anderen wichtigen Grund kann d
 <sup>3</sup> Im Falle einer Beschwerde gegen einen Entscheid bezüglich eines Ausstandsbegehrens ist nachfolgendes Verfahren anwendbar:
 
 - a) die Beschwerde ist beim Staatsrat einzureichen. Das Verfahren richtet sich entsprechend dem Rechtsgebiet nach den Bestimmungen der Zivil- oder Strafprozessordnung oder denjenigen des Verwaltungsverfahrens;
-
 - b) der Staatsrat bezeichnet in analoger Anwendung von Absatz 2 ein zweites ausserordentliches Gericht.
 
 #### Art. 22
 
 **Das Obergericht - Sonderfälle**
 
-Wenn ein Gericht als letzte kantonale Beschwerdeinstanz oder ein kantonales Gericht als einzige Instanz einen Zwischenentscheid oder eine verfahrensleitende Verfügung erlässt, ist folgendes Verfahren anwendbar:
+<sup>1</sup> Wenn ein Gericht als letzte kantonale Beschwerdeinstanz oder ein kantonales Gericht als einzige Instanz einen Zwischenentscheid oder eine verfahrensleitende Verfügung erlässt, ist folgendes Verfahren anwendbar:
 
 - a) ein Richter dieses Gerichts entscheidet;
-
 - b) eine Beschwerde kann bei einem anderen Richter des gleichen Gerichts entsprechend den Bestimmungen der Zivil- und Strafprozessordnung oder des Verwaltungsverfahrens eingereicht werden.
 
-### 5. Kapitel: Organisation der Staatsanwaltschaft
+## 5 Organisation der Staatsanwaltschaft
 
 #### Art. 23
 
@@ -380,25 +341,25 @@ Wenn ein Gericht als letzte kantonale Beschwerdeinstanz oder ein kantonales Geri
 
 <sup>3</sup> Das zentrale Amt wird vom Generalstaatsanwalt, unterstützt von einem Generalstaatsanwalt-Stellvertreter, geleitet. Jedes regionale Amt wird, unter Vorbehalt der Zuständigkeiten des Generalstaatsanwaltes, von einem Oberstaatsanwalt geleitet.
 
-<sup>4</sup> Der Grosse Rat wählt den Generalstaatsanwalt, den Generalstaatsanwalt-Stellvertreter, die Oberstaatsanwälte, die Staatsanwälte, die Substituten und gegebenenfalls einen ausserordentlichen Staatsanwalt.
+<sup>4</sup> Der Grosse Rat wählt und vereidigt den Generalstaatsanwalt, den Generalstaatsanwalt-Stellvertreter und die Oberstaatsanwälte, welche das Büro der Staatsanwaltschaft bilden.
 
-<sup>5</sup> Er vereidigt den Generalstaatsanwalt, den Generalstaatsanwalt-Stellvertreter und die Oberstaatsanwälte, welche das Büro der Staatsanwaltschaft bilden.
+<sup>5</sup> …
 
 #### Art. 24
 
-**Kontrolle - Aufsicht**
+**Oberaufsicht**
 
-<sup>1</sup> Die Geheimhaltung der Untersuchung ist gewährleistet.
+<sup>1</sup> Der Grosse Rat übt die Oberaufsicht über die Staatsanwaltschaft aus.
 
-<sup>2</sup> Der Staatsrat übt eine administrative und finanzielle Kontrolle der Tätigkeit der Staatsanwaltschaft aus.
+<sup>2</sup> …
 
-<sup>3</sup> Er kann ihr allgemeine Weisungen im Bereich Verwaltung und Finanzen erteilen.
+<sup>3</sup> …
 
-<sup>4</sup> Die Tätigkeit der Staatsanwaltschaft in konkreten Fällen unterliegt nicht der Kontrolle des Staatsrates. Dieser kann ihr keine Weisungen bezüglich Eröffnung, Verlauf oder Abschluss des Verfahrens, Vertretung der Anklage vor Gericht oder Einreichung einer Beschwerde erteilen.
+<sup>4</sup> …
 
-<sup>5</sup> Der Staatsrat hat keinen Zugang zu den Akten der Staatsanwaltschaft.
+<sup>5</sup> …
 
-<sup>6</sup> Die Oberaufsicht des Grossen Rates über die Staatsanwaltschaft bleibt vorbehalten.
+<sup>6</sup> …
 
 #### Art. 25
 
@@ -407,20 +368,15 @@ Wenn ein Gericht als letzte kantonale Beschwerdeinstanz oder ein kantonales Geri
 <sup>1</sup> Der Generalstaatsanwalt erstattet dem Grossen Rat jährlich durch den Staatsrat Bericht über die Tätigkeit der Staatsanwaltschaft. Der Bericht umfasst namentlich Angaben über:
 
 - a) die interne Organisation;
-
 - b) die allgemeinen Weisungen;
-
 - c) die Zahl und die Art der abgeschlossenen und der hängigen Fälle sowie die Arbeitslast der einzelnen Einheiten;
-
 - d) die Bearbeitungsdauer der Fälle;
-
 - e) den Einsatz von Personal sowie von Finanzmitteln und bestehender Infrastruktur;
-
 - f) die Anzahl und den Ausgang der eingereichten Beschwerden gegen Verfügungen und Verfahrenshandlungen der Staatsanwaltschaft.
 
-<sup>2</sup> Der Staatsrat überreicht den Bericht unverändert dem Grossen Rat. Er kann seine Bemerkungen anbringen, insbesondere wenn die allgemeinen Weisungen im Bereich Verwaltung und Finanzen nicht beachtet wurden.
+<sup>2</sup> …
 
-<sup>3</sup> Wenn die Unabhängigkeit der Staatsanwaltschaft bedroht ist, kann der Generalstaatsanwalt direkt an den Grossen Rat gelangen.
+<sup>3</sup> …
 
 #### Art. 26
 
@@ -430,37 +386,49 @@ Wenn ein Gericht als letzte kantonale Beschwerdeinstanz oder ein kantonales Geri
 
 <sup>2</sup> Das Büro der Staatsanwaltschaft:
 
-- a) vereidigt die Staatsanwälte und die Substituten;
-
+- a) ernennt und vereidigt die Staatsanwälte und die Substituten;
 - b) ernennt das administrative Personal;
-
 - c) entscheidet über die Zuteilung der Staatsanwälte, der Substituten und des administrativen Personals zu den Ämtern.
 
 <sup>3</sup> Die Entscheide des Büros der Staatsanwaltschaft hinsichtlich der Organisation werden im kantonalen Amtsblatt veröffentlicht.
 
-#### Art. 26bis
+#### Art. 26a
 
-<sup>1</sup> Jugendstaatsanwaltschaft
+**Ausserordentlicher Staatsanwalt**
+
+<sup>1</sup> Im Verhinderungsfall oder aus einem anderen wichtigen Grund kann das Büro der Staatsanwaltschaft zur Behandlung eines Falls einen ausserhalb der Staatsanwaltschaft des Kantons Wallis ausgewählten ausserordentlichen Staatsanwalt ernennen und vereidigen. In diesem Fall muss der ausserordentliche Staatsanwalt die Bedingungen von Artikel 27 erfüllen.
+
+<sup>2</sup> Im Verhinderungsfall oder bei Ausstand aller Mitglieder des Büros der Staatsanwaltschaft wird der ausserordentliche Staatsanwalt vom Grossen Rat gewählt und vereidigt.
+
+#### Art. 26b
+
+**Jugendstaatsanwaltschaft**
 
 <sup>1</sup> Die Aufgaben, welche die Schweizerische Jugendstrafprozessordnung der Jugendstaatsanwaltschaft überträgt, liegen in der Zuständigkeit der ordentlichen Staatsanwaltschaft.
 
 <sup>2</sup> Das Büro der Staatsanwaltschaft kann zur Behandlung der Jugendstrafsachen einen oder mehrere Staatsanwälte bezeichnen.
 
-### 6. Kapitel: Ausübung der Tätigkeit als Richter oder Staatsanwalt
+## 6 Ausübung der Tätigkeit als Richter oder Staatsanwalt
 
 #### Art. 27
 
 **Wählbarkeit**
 
-**Jugendrichter,**
-
-<sup>1</sup> Als Kantonsrichter, Bezirksrichter, Zwangsmassnahmenrichter, Straf- und Massnahmenvollzugsrichter, Generalstaatsanwalt, Generalstaatsanwalt-Stellvertreter, Oberstaatsanwalt, Staatsanwalt, Substitut, als Stellvertreter dieser Magistraten oder als Gerichtsschreiber ist nur wählbar, wer Inhaber eines Anwaltsdiploms ist.
+<sup>1</sup> Als Kantonsrichter, Bezirksrichter, Jugendrichter, Zwangsmassnahmenrichter, Straf- und Massnahmenvollzugsrichter, Generalstaatsanwalt, Generalstaatsanwalt-Stellvertreter, Oberstaatsanwalt, Staatsanwalt, Substitut, als Stellvertreter dieser Magistraten oder als Gerichtsschreiber ist nur wählbar, wer Inhaber eines Anwaltsdiploms ist.
 
 <sup>2</sup> Inhaber eines Lizentiats, Masters oder Doktorats der Rechte oder eines gleichwertigen akademischen Titels sind wählbar, wenn sie den Nachweis einer hinreichenden praktischen Erfahrung erbringen.
 
 #### Art. 28
 
-Wahl der Kantonsrichter und der Mitglieder der Staatsanwaltschaft Die Wahl der Kantonsrichter, der Ersatzrichter am Kantonsgericht und der Mitglieder der Staatsanwaltschaft ist durch das Reglement des Grossen Rates festgelegt.
+**Wahl der Kantonsrichter und der Mitglieder des Büros der Staatsanwaltschaft**
+
+<sup>1</sup> Die Wahl der Kantonsrichter, der Ersatzrichter am Kantonsgericht und der Mitglieder des Büros der Staatsanwaltschaft ist durch das Reglement des Grossen Rates festgelegt.
+
+#### Art. 28a
+
+**Ernennung und Vereidigung der Staatsanwälte und der Substituten**
+
+<sup>1</sup> Das Ernennungsverfahren und die Vereidigung der Staatsanwälte, der Substituten und des ausserordentlichen Staatsanwalts wird durch das Reglement der Staatsanwaltschaft des Kantons Wallis festgelegt.
 
 #### Art. 29
 
@@ -482,43 +450,53 @@ Wahl der Kantonsrichter und der Mitglieder der Staatsanwaltschaft Die Wahl der K
 
 #### Art. 31
 
-<sup>2</sup> Statuts der Gerichtsschreiber und Schreiber
+**Statuts der Gerichtsschreiber und Schreiber**
 
-Ohne anders lautende Bestimmungen ist die Gesetzgebung über das Personal des Staates auf die Gerichtsschreiber und Schreiber analog anwendbar.
+<sup>1</sup> Ohne anders lautende Bestimmungen ist die Gesetzgebung über das Personal des Staates auf die Gerichtsschreiber und Schreiber analog anwendbar.
+
+#### Art. 31a
+
+**Allgemeine Pflichten der Richter und Staatsanwälte**
+
+<sup>1</sup> Die Richter und Staatsanwälte:
+
+- a) sind unabhängig und unparteiisch;
+- b) üben ihre Aufgabe mit Gewissenhaftigkeit, Sorgfalt und Strenge aus;
+- c) sind ans Amtsgeheimnis gebunden;
+- d) sind an die Verschwiegenheitspflicht gebunden;
+- e) halten ihre Rechtskenntnisse auf dem neuesten Stand und vertiefen sie.
 
 #### Art. 32
 
 **Aufsicht**
 
-<sup>1</sup> Das Kantonsgericht übt die Aufsicht über die Gerichtsmagistraten, die Ersatzrichter, die Gerichtsschreiber und das administrative Personal aus. Gemäss dem Organisationsreglement über die Walliser Gerichte ist es zuständig, disziplinarische Massnahmen in erster Instanz und als Beschwerdeinstanz auszusprechen.
+<sup>1</sup> Das Kantonsgericht übt die Aufsicht über die Gerichtsschreiber und das administrative Personal aus. Gemäss dem Organisationsreglement über die Walliser Gerichte ist es zuständig, disziplinarische Massnahmen in erster Instanz und als Beschwerdeinstanz auszusprechen.
 
-<sup>2</sup> Das Büro der Staatsanwaltschaft übt in gleicher Weise die Aufsicht aus über die Staatsanwälte, die Substituten und das administrative Personal aus. Das Kantonsgericht ist Beschwerdeinstanz für die gegen einen Staatsanwalt getroffenen Disziplinarentscheide.
+<sup>2</sup> Das Büro der Staatsanwaltschaft übt die gleiche Aufsicht über das administrative Personal aus. Das Kantonsgericht ist Beschwerdeinstanz für die gegen das administrative Personal getroffenen Disziplinarentscheide.
+
+<sup>3</sup> Vorbehalten bleibt die interne Kontrolle über die Gerichte und die Ämter der Staatsanwaltschaft im Sinne von Artikel 19 Absatz 4 des Gesetzes über den Justizrat.
 
 #### Art. 33
 
-**Disziplinarverfahren**
+**Disziplinarstrafen**
 
-<sup>1</sup> Folgende Disziplinarmassnahmen sind anwendbar:
+<sup>1</sup> Es können folgende Disziplinarstrafen verhängt werden:
 
-- a) der Verweis;
+- a) …
+- b) schriftlicher Verweis;
+- c) …
+- d) Kürzung der monatlichen Besoldung um bis zu einem Drittel während höchstens eines Jahres;
+- e) Versetzung in eine andere bzw. eine gleichwertige oder tiefer eingestufte Funktion mit einer der neuen Situation entsprechenden Besoldung;
+- f) disziplinarische Abberufung.
+- g) …
 
-- b) die Geldbusse bis zu 1000 Franken;
+<sup>2</sup> Die Art der Disziplinarstrafe richtet sich, unter Berücksichtigung des bisherigen Verhaltens des Magistraten, nach der Schwere der Dienstpflichtverletzung.
 
-- c) die Versetzung ins Provisorium für die Dauer von maximal einem Jahr;
+<sup>3</sup> …
 
-- d) die Kürzung des Gehalts bis zur Hälfte während höchstens dreier Monate;
+<sup>4</sup> Bei leichtem Verschulden kann von einer Disziplinarstrafe abgesehen werden.
 
-- e) die vorübergehende Einstellung im Amt bis zu einem halben Jahr, gegebenenfalls mit Kürzung oder Entzug des Gehalts;
-
-- f) die Versetzung in eine tiefer eingereihte Funktion mit entsprechendem Gehalt;
-
-- g) die fristlose Entlassung, gegebenenfalls ohne Entschädigung.
-
-<sup>2</sup> Die Disziplinarmassnahme richtet sich, unter Berücksichtigung des bisherigen Verhaltens des Magistraten oder Betroffenen, nach der Schwere der Dienstpflichtverletzung. Mehrere Disziplinarmassnahmen können miteinander verbunden werden.
-
-<sup>3</sup> Mit der Einleitung eines Disziplinarverfahrens kann die zuständige Behörde die vorläufige Einstellung im Dienst mit oder ohne Aufhebung des Gehalts verordnen.
-
-<sup>4</sup> Das Recht, eine Disziplinarklage einzureichen, verjährt innert Jahresfrist seit Kenntnis des Sachverhalts. In jedem Fall muss die Massnahme innert fünf Jahren seit der Dienstpflichtverletzung ausgesprochen werden.
+<sup>5</sup> Falls der betroffene Magistrat seine Kündigung einreicht, kann die zuständige Behörde auf eine Disziplinarstrafe verzichten und die Kündigung akzeptieren, wenn dies unter Berücksichtigung aller Umstände und der verschiedenen Interessen die angemessenste Lösung ist.
 
 #### Art. 34
 
@@ -526,7 +504,15 @@ Ohne anders lautende Bestimmungen ist die Gesetzgebung über das Personal des St
 
 <sup>1</sup> Die Richter, die Ersatzrichter, der Generalstaatsanwalt, der Generalstaatsanwalt-Stellvertreter, die Oberstaatsanwälte, die Staatsanwälte und die Substituten können ihren Rücktritt auf Ende eines Monats unter Einhaltung einer Kündigungsfrist von sechs Monaten bei der Wahl- oder Ernennungsbehörde einreichen. Die Dauer der Kündigungsfrist kann mit Zustimmung der zuständigen Behörde verkürzt werden.
 
-<sup>2</sup> Aus wichtigen Gründen kann die Wahl- oder Ernennungsbehörde die Tätigkeiten eines Magistraten jederzeit beenden.
+<sup>2</sup> Aus wichtigen Gründen kann die Wahl- oder Ernennungsbehörde die Tätigkeiten eines Magistraten jederzeit beenden. Vorbehalten bleibt das Disziplinarverfahren.
+
+#### Art. 34a
+
+**Interessenbindungen**
+
+<sup>1</sup> Bei Amtsantritt und bei jeder Änderung zeigt jeder Magistrat der Gerichtsbehörden und der Staatsanwaltschaft gemäss den reglementarisch festgelegten Kriterien seine Interessenbindungen an.
+
+<sup>2</sup> Der Generalsekretär der Walliser Gerichte erstellt ein öffentliches Register mit den Angaben der Magistraten der Gerichtsbehörden. Der Generalstaatsanwalt macht dasselbe mit den Angaben der Magistraten der Staatsanwaltschaft. Diese Register werden auf den offiziellen Websites der Justiz und der Staatsanwaltschaft veröffentlicht.
 
 #### Art. 35
 
@@ -535,13 +521,9 @@ Ohne anders lautende Bestimmungen ist die Gesetzgebung über das Personal des St
 <sup>1</sup> Für die Behandlung eines Ausstandsgesuchs ist zuständig, richtet es sich:
 
 - a) gegen einen Gemeinderichter: der Vizegemeinderichter oder ein anderer Gemeinderichter, der vom Bezirksrichter ihres Sitzes bezeichnet wird;
-
 - b) gegen einen erstinstanzlichen Richter oder einen erstinstanzlichen Ersatzrichter: ein anderer erstinstanzlicher Richter oder ein erstinstanzlicher Ersatzrichter, der vom Präsidenten des Kantonsgerichts bezeichnet wird;
-
 - c) gegen einen Kantonsrichter: der Präsident des Kantonsgerichts;
-
 - d) gegen den Kantonsgerichtspräsidenten: der Vizepräsident des Kantonsgerichts;
-
 - e) gegen den Präsidenten und den Vizepräsidenten des Kantonsgerichts: der amtsälteste Kantonsrichter, der nicht von einem Ausstandsgrund betroffen ist.
 
 <sup>2</sup> Der Ausstandsentscheid betreffend einen Gemeinderichter oder einen erstinstanzlichen Richter unterliegt der Beschwerde an den Präsidenten des Kantonsgerichts. Dieser entscheidet über den in Erwägung zu ziehenden Sachverhalt entsprechend den Bestimmungen des Zivil- oder Strafprozessrechts oder des Verwaltungsverfahrensrechts.
@@ -549,14 +531,12 @@ Ohne anders lautende Bestimmungen ist die Gesetzgebung über das Personal des St
 <sup>3</sup> Vorbehalten bleiben:
 
 - a) Artikel 59 der Schweizerischen Strafprozessordnung, wenn der Ausstand gegen eine Strafbehörde gerichtet ist;
-
 - b) Artikel 21 Absätze 2 und 3 des vorliegenden Gesetzes, wenn der Ausstand von sämtlichen Mitgliedern des Kantonsgerichts verlangt wird;
-
 - c) Artikel 22 des vorliegenden Gesetzes, wenn Beschwerde gegen den Ausstandsentscheid betreffend einen Kantonsrichter, den Präsidenten oder den Vizepräsidenten des Kantonsgerichts geführt wird.
 
 <sup>4</sup> Artikel 21 Absätze 2 und 3 werden analog angewendet, wenn der Ausstand von sämtlichen Mitgliedern des Polizeigerichts verlangt wird.
 
-### 7. Kapitel: Verschiedene Bestimmungen, Schluss- und Übergangsbestimmungen
+## 7 Verschiedene Bestimmungen, Schluss- und Übergangsbestimmungen
 
 #### Art. 36
 
@@ -572,12 +552,10 @@ Ohne anders lautende Bestimmungen ist die Gesetzgebung über das Personal des St
 
 **Fristenlauf**
 
-Hinsichtlich der gesetzlichen Fristen oder den von einer Behörde im Sinne des vorliegenden Gesetzes angesetzten Fristen gelten nachfolgende Feiertage:
+<sup>1</sup> Hinsichtlich der gesetzlichen Fristen oder den von einer Behörde im Sinne des vorliegenden Gesetzes angesetzten Fristen gelten nachfolgende Feiertage:
 
 - a) die vom Bundesrecht festgesetzten Tage;
-
 - b) die im kantonalen Gesetz über die Ruhe an Sonn- und Feiertagen und in dessen Ausführungsreglement festgesetzten Tage;
-
 - c) der 2. Januar, der Ostermontag, der Pfingstmontag und der 26. Dezember.
 
 #### Art. 38
@@ -604,19 +582,19 @@ Hinsichtlich der gesetzlichen Fristen oder den von einer Behörde im Sinne des v
 
 **Leistungen der Gemeinden**
 
-Der Staatsrat setzt die Leistungen fest, die von den Gemeinden, in denen Gerichtsbehörden und die Staatsanwaltschaft ihren Sitz haben, und allenfalls von den übrigen Gemeinden der betreffenden Bezirke oder Kreise zu erbringen sind.
+<sup>1</sup> Der Staatsrat setzt die Leistungen fest, die von den Gemeinden, in denen Gerichtsbehörden und die Staatsanwaltschaft ihren Sitz haben, und allenfalls von den übrigen Gemeinden der betreffenden Bezirke oder Kreise zu erbringen sind.
 
 #### Art. 41
 
-<sup>2</sup> Administratives Personal
+**Administratives Personal**
 
 <sup>1</sup> Das administrative Personal der Gerichte wird durch das Kantonsgericht ernannt, dasjenige der Staatsanwaltschaft durch ihr Büro. Das administrative Personal wird der Gesetzgebung über das Personal des Staates unterworfen. Die Bezirksrichter, die Jugendrichter, die Richter des Zwangsmassnahmengerichts und des Straf- und Massnahmenvollzugsgerichts sowie die Oberstaatsanwälte schlagen das für ihren Sitz zu ernennende Personal vor.
 
-<sup>2</sup> Im Rahmen des Budgets kann das Kantonsgericht eine gemäss Organigramm dem administrativen Personal zugeteilte Stelle in eine Stelle als Gerichtsschreiber oder eines erstinstanzlichen Richters umwandeln.
+<sup>2</sup> Im Rahmen des Budgets kann das Kantonsgericht eine gemäss Organigramm dem administrativen Personal zugeteilte Stelle in eine Stelle als Gerichtsschreiber oder erstinstanzlicher Richter umwandeln. In gleicher Weise kann das Büro der Staatsanwaltschaft eine gemäss Organigramm dem administrativen Personal zugeteilte Stelle in eine Stelle als Staatsanwalt oder Substitut umwandeln.
 
 #### Art. 42
 
-<sup>2</sup> Weibel
+**Weibel**
 
 <sup>1</sup> Das Kantonsgericht, die Staatsanwaltschaft, die Kreisgerichte und die erstinstanzlichen Richter können von einem oder mehreren Weibeln unterstützt werden, die von diesen Behörden für die Legislaturperiode ernannt und vereidigt werden.
 
@@ -630,7 +608,7 @@ Der Staatsrat setzt die Leistungen fest, die von den Gemeinden, in denen Gericht
 
 **Polizei**
 
-Die Justizbehörden und die Staatsanwaltschaft können die Hilfe der Polizei anfordern.
+<sup>1</sup> Die Justizbehörden und die Staatsanwaltschaft können die Hilfe der Polizei anfordern.
 
 #### Art. 44
 
@@ -642,7 +620,7 @@ Die Justizbehörden und die Staatsanwaltschaft können die Hilfe der Polizei anf
 
 #### Art. 45
 
-Reglemente des Kantonsgerichtes und des Büros der Staatsanwaltschaft
+**Reglemente des Kantonsgerichtes und des Büros der Staatsanwaltschaft**
 
 <sup>1</sup> Das Kantonsgericht beschliesst in einem Reglement die Bestimmungen über seine interne Organisation, jene der Bezirksgerichte, des Jugendgerichts, des Zwangsmassnahmengerichts und des Straf- und Massnahmenvollzugsgerichts.
 
@@ -652,35 +630,17 @@ Reglemente des Kantonsgerichtes und des Büros der Staatsanwaltschaft
 
 **Aufhebungen und Änderungen des geltenden Rechts**
 
-- 1\. Sämtliche mit dem vorliegenden Gesetz im Widerspruch stehenden Bestimmungen sind aufgehoben, namentlich das Gesetz über die Gerichtsbehörden vom 27. Juni 2000.
+<sup>1</sup> Sämtliche mit dem vorliegenden Gesetz im Widerspruch stehenden Bestimmungen sind aufgehoben, namentlich das Gesetz über die Gerichtsbehörden vom 27. Juni 2000.
 
-- 2\. Das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 wird wie folgt geändert:
+<sup>2</sup> Das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 wird geändert.
 
-#### Art. 15
-
-**Abs. 2 Berechnung**
-
-<sup>2</sup> Es gelten folgende Feiertage:
-
-- a) die vom Bundesrecht festgesetzten Tage;
-
-- b) die im kantonalen Gesetz über die Ruhe an Sonn- und Feiertagen und in dessen Ausführungsreglement festgesetzten Tage;
-
-- c) der 2. Januar, der Ostermontag, der Pfingstmontag und der 26. Dezember.
-
-- 3\. Das Gesetz über die Organisation der Räte und die Beziehungen zwischen den Gewalten wird wie folgt abgeändert:
-
-#### Art. 129
-
-**Internes Reglement**
-
-Aufgehoben
+<sup>3</sup> Das Gesetz über die Organisation der Räte und die Beziehungen zwischen den Gewalten wird abgeändert.
 
 #### Art. 47
 
 **Übergangsrecht**
 
-Das vorliegende Gesetz ist bei seinem Inkrafttreten unter Vorbehalt der Übergangsbestimmungen des Bundesrechts auf hängige Verfahren anwendbar.
+<sup>1</sup> Das vorliegende Gesetz ist bei seinem Inkrafttreten unter Vorbehalt der Übergangsbestimmungen des Bundesrechts auf hängige Verfahren anwendbar.
 
 #### Art. 48
 
@@ -690,15 +650,10 @@ Das vorliegende Gesetz ist bei seinem Inkrafttreten unter Vorbehalt der Übergan
 
 <sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 11. Februar 2009.
+## T1 Übergangsbestimmungen der Änderung vom 16.02.2017
 
-Der Präsident des Grossen Rates: Paul-André Roux Der Chef des Parlamentsdienstes: Claude Bumann
+#### Art. T1-1
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>1</sup> Die neuen Gesetzesbestimmungen zur Ernennung und Vereidigung der Mitglieder der Staatsanwaltschaft gelten nicht für Personen, die bei Inkrafttreten der Bestimmungen bereits gewählt sind. Sie entfalten ihre Wirkung erst nach Ablauf der laufenden Amtsperiode.
 
-Abl. Nr. 13/2009; 23.06.2010
-
-## Weitere Fussnoten
-
-- [1] Änderung gemäss Art. 14 Ziff. 2 des Abl. Nr. 49/2009; 01.01.2011 Einführungsgesetzes zur Schweizerischen 26/2010 Jugendstrafprozessordnung (EGJStPO) vom 12.11.2009
-- [2] Änderung gemäss Art. 71 Ziff. 2 des Gesetzes Abl. Nr. 48/2010; 01.07.2011 über das Personal des Staates Wallis vom 19. 26/2011 Nov. 2010
+CSW BO/Abl. 13/2009, 26/2010
