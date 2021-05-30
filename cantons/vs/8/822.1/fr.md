@@ -4,27 +4,28 @@ number: "822.1"
 title: Loi cantonale sur le travail
 short: LcTr
 language: fr
-version: 2016-10-01
-corrected: 2017-10-07
-version_adopted: 2016-05-12
+version: 2021-01-01
+corrected: 2021-05-31
+version_adopted: 2019-12-12
 adopted: 2016-05-12
 in_force: 2016-10-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/822.1"
-pdf: "https://lex.vs.ch/api/fr/versions/203/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2789/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi cantonale sur le travail (LcTr)
+# Loi cantonale sur le travail
 
-du 12 mai 2016
+(LcTr)
+
+du 12.05.2016 (état 01.01.2021)
 
 Le Grand Conseil du canton du Valais
 
 vu les articles 14, 30 et 64 de la Constitution cantonale;
 
-vu la loi fédérale sur l'égalité entre femmes et hommes du 24 mars 1995 (loi sur l'égalité);
+vu la loi fédérale sur l'égalité entre femmes et hommes du 24 mars 1995 (Loi sur l'égalité);
 
 vu la loi fédérale permettant d'étendre le champ d'application de la convention collective de travail du 28 septembre 1956;
 
@@ -32,7 +33,9 @@ vu le titre dixième du Code des obligations du 30 mars 1911 (CO);
 
 vu le Code de procédure civile suisse du 19 décembre 2008 (CPC);
 
-vu les articles 30 à 35 de la loi fédérale sur les fabriques du 18 juin 1914; vu la loi fédérale sur le travail dans l'industrie, l'artisanat et le commerce du 13 mars 1964 (loi sur le travail, LTr) et ses ordonnances d'application;
+vu les articles 30 à 35 de la loi fédérale sur les fabriques du 18 juin 1914;
+
+vu la loi fédérale sur le travail dans l'industrie, l'artisanat et le commerce du 13 mars 1964 (Loi sur le travail, LTr) et ses ordonnances d'application;
 
 vu la loi fédérale sur l'information et la consultation des travailleurs dans les entreprises du 17 décembre 1993 (loi sur la participation);
 
@@ -58,19 +61,19 @@ vu l'ordonnance fédérale sur l'utilisation des organismes en milieu confiné d
 
 vu l'article 5 alinéa 2 lettre a de la loi cantonale sur l'organisation de la Justice du 11 février 2009;
 
-vu l'article 10 alinéa 1 chiffre 10 de la loi cantonale d'application du Code civil suisse du 24 mars 1998;
+vu l'article 10 alinéa 1 lettre j de la loi cantonale d'application du Code civil suisse du 24 mars 1998;
 
 vu la loi concernant l'adhésion du canton du Valais à l'accord intercantonal sur les marchés publics du 8 mai 2003;
 
-vu la loi d'application de la loi fédérale sur les conditions minimales de travail et de salaire applicables aux travailleurs détachés en Suisse et sur les mesures d'accompagnement (LDét) et de la loi fédérale concernant les mesures en matière de lutte contre le travail au noir (LTN) du 12 mai 2016;
+vu la loi d'application de la loi fédérale sur les conditions minimales de travail et de salaire applicables aux travailleurs détachés en Suisse et sur les mesures d'accompagnement (LDét) et de la loi fédérale concernant les mesures en matière de lutte contre le travail au noir du 12 mai 2016 (LTN);
 
 sur la proposition du Conseil d'Etat,
 
-ordonne:[^t-1]
+ordonne:[^ingress-1]
 
-[^t-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -79,15 +82,10 @@ ordonne:[^t-1]
 <sup>1</sup> La présente loi règle l'exécution du droit fédéral et le complète dans les domaines suivants:
 
 - a) prévention des risques professionnels et promotion de la santé et de la sécurité au travail;
-
 - b) relations du travail et maintien de la paix sociale;
-
 - c) règlement des conflits individuels de travail;
-
 - d) règlement des conflits collectifs de travail;
-
 - e) travailleurs détachés et lutte contre le travail au noir;
-
 - f) listes permanentes relatives à l'accès aux marchés publics (préqualification).
 
 <sup>2</sup> Elle définit le rôle du Service de protection des travailleurs et des relations du travail et des autres autorités concernées dans la mise en oeuvre des lois y relatives, ainsi que leur collaboration.
@@ -96,18 +94,13 @@ ordonne:[^t-1]
 
 **Autorités**
 
-Les autorités suivantes sont chargées de l'application des dispositions légales mentionnées en préambule de la présente loi, en tant qu'elles ne sont pas expressément réservées à une autre autorité:
+<sup>1</sup> Les autorités suivantes sont chargées de l'application des dispositions légales mentionnées en préambule de la présente loi, en tant qu'elles ne sont pas expressément réservées à une autre autorité:
 
 - a) le Service de protection des travailleurs et des relations du travail (ci-après: Service), s'agissant des législations relatives à la sécurité des travailleurs et à la protection de la santé physique et psychique, la lutte contre le travail au noir, la mise en oeuvre des mesures d'accompagnement à la libre circulation des personnes, la gestion des listes permanentes et le suivi des relations du travail;
-
 - b) les commissions consultatives relatives aux contrats-types de travail, pour autant qu'existantes;
-
 - c) le Tribunal du travail et l'Autorité de conciliation, pour connaître des litiges individuels de travail ne dépassant pas la valeur litigieuse définie par le CPC en matière de procédure simplifiée;
-
 - d) la Commission cantonale de conciliation pour les litiges relevant de la loi sur l'égalité;
-
 - e) l'Office cantonal de conciliation, pour connaître des conflits collectifs du travail;
-
 - f) les communes, dans le cadre des tâches que la présente loi et ses dispositions d'application lui attribuent.
 
 #### Art. 3
@@ -126,9 +119,9 @@ Les autorités suivantes sont chargées de l'application des dispositions légal
 
 <sup>6</sup> Les bénéficiaires d'aide matérielle ou financière, sous forme de subventionnement par exemple, pourront être requis de fournir au Service tous les documents à même de prouver le respect des conditions de salaire et de travail ainsi que de sécurité au travail.
 
-### Chapitre 2: Inspection du travail
+## 2 Inspection du travail
 
-### Section 1: Protection de la santé et sécurité au travail
+### 2.1 Protection de la santé et sécurité au travail
 
 #### Art. 4
 
@@ -143,13 +136,9 @@ Les autorités suivantes sont chargées de l'application des dispositions légal
 <sup>4</sup> Il est habilité à:
 
 - a) pénétrer librement, sans avertissement préalable, dans tout établissement susceptible de faire l'objet d'un contrôle de l'inspection;
-
 - b) exiger des employeurs tous documents et renseignements nécessaires;
-
 - c) interroger les travailleurs hors de la présence de tiers;
-
 - d) procéder aux enregistrements utiles (mesures, images) et emporter tous les documents ou matériaux nécessaires;
-
 - e) décider en cas de doute de l'applicabilité de la loi fédérale sur le travail.
 
 #### Art. 5
@@ -174,9 +163,7 @@ Les autorités suivantes sont chargées de l'application des dispositions légal
 
 <sup>2</sup> Le Service conduit la procédure d'assujettissement d'entreprises ou de parties d'entreprises industrielles, au sens de l'ordonnance 4 relative à la LTr.
 
-### Section 2: Construction et aménagement de locaux et postes de
-
-travail
+### 2.2 Construction et aménagement de locaux et postes de travail
 
 #### Art. 7
 
@@ -190,7 +177,7 @@ travail
 
 #### Art. 8
 
-Approbation des plans des entreprises industrielles ou assimilées
+**Approbation des plans des entreprises industrielles ou assimilées**
 
 <sup>1</sup> Toute construction, transformation ou agrandissement d'une entreprise industrielle ou assimilée doit faire l'objet d'un examen préalable par le Service, selon la procédure d'approbation des plans prévue à l'article 7, respectivement 8 LTr.
 
@@ -224,9 +211,9 @@ Approbation des plans des entreprises industrielles ou assimilées
 
 **Sécurité des installations**
 
-Le Service veille à ce que les entreprises utilisent des installations et appareils techniques qui répondent aux normes de sécurité.
+<sup>1</sup> Le Service veille à ce que les entreprises utilisent des installations et appareils techniques qui répondent aux normes de sécurité.
 
-### Section 3: Durée du travail et du repos
+### 2.3 Durée du travail et du repos
 
 #### Art. 12
 
@@ -264,9 +251,9 @@ Le Service veille à ce que les entreprises utilisent des installations et appar
 
 **Jours fériés**
 
-Les huit jours fériés cantonaux assimilés aux dimanches au sens de l'article 20a alinéa 1 de la LTr sont déterminés par voie de règlement.
+<sup>1</sup> Les huit jours fériés cantonaux assimilés aux dimanches au sens de l'article 20a alinéa 1 de la LTr sont déterminés par voie de règlement.
 
-### Section 4: Règlement d'entreprise
+### 2.4 Règlement d'entreprise
 
 #### Art. 16
 
@@ -276,7 +263,7 @@ Les huit jours fériés cantonaux assimilés aux dimanches au sens de l'article 
 
 <sup>3</sup> S'il constate une incompatibilité, il agit conformément à la procédure définie par la LTr.
 
-### Section 5: Travail à domicile
+### 2.5 Travail à domicile
 
 #### Art. 17
 
@@ -293,22 +280,16 @@ Les huit jours fériés cantonaux assimilés aux dimanches au sens de l'article 
 <sup>1</sup> Le Service a notamment les attributions suivantes:
 
 - a) statuer en cas de doute sur l'application de la loi;
-
 - b) délivrer l'attestation d'inscription au registre des employeurs;
-
 - c) effectuer des contrôles auprès des employeurs et des travailleurs à domicile en les conseillant au besoin;
-
 - d) veiller au respect par l'employeur et le travailleur à domicile des prescriptions contenues au chapitre 2 LTrD et section 2 OTrD;
-
 - e) accorder les dérogations aux heures limites pour la remise du travail à domicile;
-
 - f) soumettre son rapport annuel au Secrétariat d'Etat à l'économie (ci-après: SECO);
-
 - g) préaviser à l'intention de l'Office fédéral compétent les demandes de subventions fondées sur l'Ordonnance sur l'encouragement du travail à domicile.
 
 <sup>2</sup> Les dispositions de la loi cantonale sur les subventions sont applicables directement et dans leur intégralité aux subventions prévues par la présente loi. Les dispositions de ce dernier demeurent applicables dans la mesure où elles ne sont pas contraires à la loi sur les subventions.
 
-### Section 6: Protections spéciales
+### 2.6 Protections spéciales
 
 #### Art. 19
 
@@ -332,12 +313,10 @@ Les huit jours fériés cantonaux assimilés aux dimanches au sens de l'article 
 
 **Contrôle des conditions de travail des jeunes gens**
 
-Le Service prend les dispositions tendant à:
+<sup>1</sup> Le Service prend les dispositions tendant à:
 
 - a) assurer aux jeunes gens des mesures de protection à l'engagement;
-
 - b) s'assurer de l'application des dispositions fédérales de protection des jeunes travailleurs;
-
 - c) contrôler les conditions de travail des jeunes gens non soumis aux dispositions fédérales précitées.
 
 #### Art. 22
@@ -347,9 +326,7 @@ Le Service prend les dispositions tendant à:
 <sup>1</sup> En vue de l'engagement d'un jeune travailleur, l'employeur doit:
 
 - a) se faire remettre l'attestation d'âge certifiant que le jeune travailleur est libéré de la scolarité obligatoire;
-
 - b) exiger le certificat médical requis par l'article 9 alinéa 2 de l'ordonnance 5 relative à la LTr;
-
 - c) s'assurer et, le cas échéant, faire le nécessaire pour que les conditions particulières soient remplies, s'il s'agit d'une personne ressortissante d'un pays étranger.
 
 <sup>2</sup> Le Service peut retirer à l'employeur le droit d'engager ou d'occuper des jeunes travailleurs dans la mesure où il contrevient à ses obligations légales.
@@ -366,7 +343,7 @@ Le Service prend les dispositions tendant à:
 
 #### Art. 24
 
-Contrôle des chauffeurs professionnels et du transport de marchandi- ses dangereuses
+**Contrôle des chauffeurs professionnels et du transport de marchandi- ses dangereuses**
 
 <sup>1</sup> Le Service est compétent pour effectuer les contrôles du respect par les entreprises de l'OTR 1, OTR 2 et l'OCS.
 
@@ -378,16 +355,13 @@ Contrôle des chauffeurs professionnels et du transport de marchandi- ses danger
 
 #### Art. 25
 
-Protection contre les accidents majeurs et les risques biologiques
+**Protection contre les accidents majeurs et les risques biologiques**
 
 <sup>1</sup> Le Service est chargé de contrôler, en collaboration et de manière coordonnée avec les autres autorités et organismes compétents, les installations stationnaires des entreprises, l'organisation mise en place, ainsi que les dispositions prises par les entreprises pour garantir le respect des ordonnances fédérales sur:
 
-- a) la protection contre les accidents majeurs (OPAM),
-
-- b) les conseillers à la sécurité pour le transport des marchandises dangereuses (OCS),
-
-- c) l'utilisation des organismes en milieu confiné (OUC),
-
+- a) la protection contre les accidents majeurs (OPAM);
+- b) les conseillers à la sécurité pour le transport des marchandises dangereuses (OCS);
+- c) l'utilisation des organismes en milieu confiné (OUC);
 - d) la protection des travailleurs contre les risques liés aux microorganismes (OPTM).
 
 <sup>2</sup> Il s'adjoint les services d'un laboratoire spécialisé.
@@ -414,9 +388,7 @@ Protection contre les accidents majeurs et les risques biologiques
 
 <sup>5</sup> Le Service échange toute information nécessaire en lien avec les contrôles réalisés par d'autres services de l'administration et par les communes concernées.
 
-### Chapitre 3: Inspection cantonale de l'emploi et Listes
-
-permanentes
+## 3 Inspection cantonale de l'emploi et Listes permanentes
 
 #### Art. 27
 
@@ -427,6 +399,12 @@ permanentes
 <sup>2</sup> Dans le cadre des marchés publics, la tenue des listes permanentes des entreprises et des prestataires pré-qualifiés est réglée par voie d'ordonnance.
 
 <sup>3</sup> Les renseignements nécessaires à la pré-qualification des aptitudes professionnelles et au contrôle du respect des exigences sociales et économiques des soumissionnaires sont obtenus dans le cadre des contrôles menés par l'inspection cantonale de l'emploi et l'inspection cantonale du travail, voire d'autres institutions sociales. Ils sont portés à la connaissance des listes permanentes. Les dispositions de la loi sur l'information du public, la protection des données et l'archivage (LIPDA) doivent être respectées.
+
+<sup>4</sup> Sont tenus de transmettre au Service, sans frais ni émolument, les informations nécessaires au contrôle des entreprises figurant ou souhaitant figurer sur les listes permanentes:
+
+- a) les Offices des poursuites et faillites compétents en raison du siège de l’entreprise ou du domicile de la personne;
+- b) les autorités en charge du prélèvement des contributions publiques;
+- c) les commissions professionnelles paritaires concernées par la branche économique en cas de convention collective de travail étendue et les institutions d’assurances sociales obligatoires ou surobligatoires, dont la Caisse nationale suisse d’assurance en cas d’accidents et les caisses de compensation.
 
 #### Art. 28
 
@@ -440,7 +418,7 @@ permanentes
 
 <sup>4</sup> Les entreprises inscrites qui enfreindraient leur devoir de diligence peuvent être suspendues ou radiées des listes permanentes.
 
-### Chapitre 4: Relations du travail
+## 4 Relations du travail
 
 #### Art. 29
 
@@ -454,7 +432,7 @@ permanentes
 
 **Extension des conventions collectives de travail**
 
-Le Conseil d'Etat promulgue les arrêtés d'extension du champ d'application des CCT et désigne les organes de contrôle spéciaux, au sens de l'article 6 de la loi fédérale permettant d'étendre le champ d'application de la convention collective de travail.
+<sup>1</sup> Le Conseil d'Etat promulgue les arrêtés d'extension du champ d'application des CCT et désigne les organes de contrôle spéciaux, au sens de l'article 6 de la loi fédérale permettant d'étendre le champ d'application de la convention collective de travail.
 
 #### Art. 31
 
@@ -470,33 +448,28 @@ Le Conseil d'Etat promulgue les arrêtés d'extension du champ d'application des
 
 **Information et documentation**
 
-Le Service tient à la disposition du public le texte des CCT étendues et des CTT en vigueur dans le canton.
+<sup>1</sup> Le Service tient à la disposition du public le texte des CCT étendues et des CTT en vigueur dans le canton.
 
-### Chapitre 5: Contestations de droit civil
+## 5 Contestations de droit civil
 
 #### Art. 33
 
 **Définitions**
 
-Les contestations de droit civil au sens du présent chapitre se réfèrent:
+<sup>1</sup> Les contestations de droit civil au sens du présent chapitre se réfèrent:
 
 - a) au titre dixième du CO (contrat de travail), notamment aux articles 357b CO et 360e CO (actions en constatation de droit);
-
 - b) à la loi fédérale sur le service de l'emploi et la location de service;
-
 - c) à la loi sur l'égalité;
-
 - d) à la loi sur la participation.
 
-### Section 1: Autorité de conciliation en matière de droit du
-
-travail
+### 5.1 Autorité de conciliation en matière de droit du travail
 
 #### Art. 34
 
 **Organisation**
 
-Dans les causes pour lesquelles le Tribunal du travail est compétent, la procédure de conciliation est assurée par un employé du Service.
+<sup>1</sup> Dans les causes pour lesquelles le Tribunal du travail est compétent, la procédure de conciliation est assurée par un employé du Service.
 
 #### Art. 35
 
@@ -508,9 +481,7 @@ Dans les causes pour lesquelles le Tribunal du travail est compétent, la procé
 
 <sup>3</sup> L'Autorité de conciliation rend des décisions sur sa compétence (art. 59 CPC) et statue sur les demandes d'assistance judiciaire et sur les moyens de preuve, dans les affaires où elle est compétente pour rendre ou proposer un jugement (art. 210 et 212 CPC).
 
-### Section 2: Commission cantonale de conciliation pour les litiges
-
-relevant de la loi sur l'égalité
+### 5.1.1 Commission cantonale de conciliation pour les litiges relevant de la loi sur l'égalité
 
 #### Art. 36
 
@@ -521,7 +492,6 @@ relevant de la loi sur l'égalité
 <sup>2</sup> La Commission est composée:
 
 - a) d'un président et de deux présidents substituts, tous titulaires d'un titre universitaire en droit;
-
 - b) de douze autres membres.
 
 <sup>3</sup> Cinq membres, dont le président ou un président substitut, doivent être de langue allemande.
@@ -536,7 +506,7 @@ relevant de la loi sur l'égalité
 
 <sup>3</sup> La Commission peut déléguer à son président ou à son président substitut la compétence pour rendre des décisions d'instruction ou procéder à l'administration des preuves.
 
-### Section 3: Tribunal du travail
+### 5.2 Tribunal du travail
 
 #### Art. 38
 
@@ -547,7 +517,6 @@ relevant de la loi sur l'égalité
 <sup>2</sup> Le Conseil d'Etat nomme au début de chaque période administrative les membres du Tribunal du travail. Celui-ci est composé:
 
 - a) de quatre présidents, dont un doyen, en principe tous titulaires du brevet d'avocat. Les personnes au bénéfice d'une formation universitaire complète en droit sont éligibles à condition de justifier d'une expérience pratique suffisante;
-
 - b) de huit juges assesseurs représentatifs paritairement des milieux d'employeurs et de travailleurs.
 
 <sup>3</sup> Un président et un juge assesseur de chaque type au moins doivent être de langue allemande.
@@ -574,15 +543,15 @@ relevant de la loi sur l'égalité
 
 **Compétence**
 
-La compétence du Tribunal du travail est limitée aux causes dont la valeur litigieuse ne dépasse pas celle prévue par le CPC en matière de procédure simplifiée. Il n'y a aucune limite pécuniaire pour les litiges relatifs à la loi sur l'égalité ainsi que pour toutes les actions en constatation de droit et en validation des amendes conventionnelles.
+<sup>1</sup> La compétence du Tribunal du travail est limitée aux causes dont la valeur litigieuse ne dépasse pas celle prévue par le CPC en matière de procédure simplifiée. Il n'y a aucune limite pécuniaire pour les litiges relatifs à la loi sur l'égalité ainsi que pour toutes les actions en constatation de droit et en validation des amendes conventionnelles.
 
 #### Art. 41
 
 **Dépens**
 
-Les mandataires professionnellement qualifiés ont droit à des dépens conformément à la loi fixant le tarif des frais et dépens devant les autorités judiciaires et administratives (LTar) qui sont fixés en tenant compte de la complexité de la cause et de l'activité utile des mandataires sous la forme d'une indemnité globale.
+<sup>1</sup> Les mandataires professionnellement qualifiés ont droit à des dépens conformément à la loi fixant le tarif des frais et dépens devant les autorités judiciaires et administratives (LTar) qui sont fixés en tenant compte de la complexité de la cause et de l'activité utile des mandataires sous la forme d'une indemnité globale.
 
-### Section 4: Dispositions communes
+### 5.3 Dispositions communes
 
 #### Art. 42
 
@@ -620,23 +589,23 @@ Les mandataires professionnellement qualifiés ont droit à des dépens conform�
 
 **Représentation à titre professionnel**
 
-Les mandataires professionnellement qualifiés agissant au nom d'une association de défense des travailleurs ou d'une association patronale sont autorisés à assister les parties à titre professionnel devant les juridictions spéciales en matière de contrat de travail (art. 68 al. 2 let. d CPC).
+<sup>1</sup> Les mandataires professionnellement qualifiés agissant au nom d'une association de défense des travailleurs ou d'une association patronale sont autorisés à assister les parties à titre professionnel devant les juridictions spéciales en matière de contrat de travail (art. 68 al. 2 let. d CPC).
 
 #### Art. 46
 
 **Computation des délais**
 
-La loi sur l'organisation de la justice est applicable pour la computation des délais.
+<sup>1</sup> La loi sur l'organisation de la justice est applicable pour la computation des délais.
 
 #### Art. 47
 
 **Indemnités**
 
-Les indemnités dues aux membres du Tribunal du travail et de la Commission cantonale de conciliation pour les litiges relevant de la loi sur l'égalité sont fixées par le Conseil d'Etat.
+<sup>1</sup> Les indemnités dues aux membres du Tribunal du travail et de la Commission cantonale de conciliation pour les litiges relevant de la loi sur l'égalité sont fixées par le Conseil d'Etat.
 
-### Chapitre 6: Conflits collectifs
+## 6 Conflits collectifs
 
-### Section 1: Office cantonal de conciliation
+### 6.1 Office cantonal de conciliation
 
 #### Art. 48
 
@@ -655,16 +624,11 @@ Les indemnités dues aux membres du Tribunal du travail et de la Commission cant
 <sup>1</sup> L'OCC est composé de:
 
 - a) dix membres permanents nommés par le Conseil d'Etat au début de chaque période administrative, soit:
-
-- 1\. deux présidents, dont un doyen;
-
-- 2\. huit assesseurs représentant paritairement les milieux d'employeurs et de travailleurs;
-
+  - 1\. deux présidents, dont un doyen,
+  - 2\. huit assesseurs représentant paritairement les milieux d'employeurs et de travailleurs;
 - b) quatre membres non permanents proposés par les parties impliquées dans un conflit collectif et nommés par le Conseil d'Etat:
-
-- 1\. deux assesseurs patronaux;
-
-- 2\. deux assesseurs travailleurs.
+  - 1\. deux assesseurs patronaux,
+  - 2\. deux assesseurs travailleurs.
 
 <sup>2</sup> Les présidents doivent en principe être titulaires d'un brevet d'avocat. Les personnes au bénéfice d'une formation universitaire complète en droit sont éligibles à condition de justifier d'une expérience pratique suffisante.
 
@@ -704,13 +668,13 @@ Les indemnités dues aux membres du Tribunal du travail et de la Commission cant
 
 <sup>5</sup> Si les parties ou l'une d'elle rejettent cette proposition ou en cas d'absence d'une partie aux débats, l'OCC peut ordonner la publication dans le Bulletin officiel de l'état de fait, avec indication des motifs invoqués, et l'assortir de son avis, après avoir octroyé à la partie ou aux parties en cause un délai pour se déterminer.
 
-### Section 2: Instance d'arbitrage
+### 6.1.1 Instance d'arbitrage
 
 #### Art. 52
 
 **Compétence**
 
-L'OCC peut être saisi comme tribunal arbitral par les parties intéressées à un conflit collectif lorsqu'elles décident de trancher leur différend par une sentence arbitrale obligatoire.
+<sup>1</sup> L'OCC peut être saisi comme tribunal arbitral par les parties intéressées à un conflit collectif lorsqu'elles décident de trancher leur différend par une sentence arbitrale obligatoire.
 
 #### Art. 53
 
@@ -718,7 +682,7 @@ L'OCC peut être saisi comme tribunal arbitral par les parties intéressées à 
 
 <sup>1</sup> Le Tribunal arbitral est composé de trois arbitres, soit le président de l'OCC, ou à son défaut l'un de ses vice-présidents, et deux arbitres choisis parmi les assesseurs par chacune des parties.
 
-<sup>2</sup> Si l'une des parties omet de désigner son arbitre dans le délai imparti, ce dernier est nommé conformément aux articles 353ss CPC.
+<sup>2</sup> Si l'une des parties omet de désigner son arbitre dans le délai imparti, ce dernier est nommé conformément aux articles 353 et suivants CPC.
 
 <sup>3</sup> Les parties peuvent demander l'arbitrage du président seul.
 
@@ -734,7 +698,7 @@ L'OCC peut être saisi comme tribunal arbitral par les parties intéressées à 
 
 <sup>3</sup> Si l'une des parties ne fait pas l'avance de frais qui lui incombe, l'autre partie a le choix d'avancer la totalité des frais ou de renoncer à l'arbitrage. Dans ces derniers cas, les parties ne sont plus liées par la convention d'arbitrage pour la contestation en cause.
 
-### Section 3: Dispositions communes
+### 6.2 Dispositions communes
 
 #### Art. 55
 
@@ -748,13 +712,13 @@ L'OCC peut être saisi comme tribunal arbitral par les parties intéressées à 
 
 **Obligation de comparaître**
 
-Toute personne citée est tenue de comparaître et de fournir tout renseignement pertinent, sous peine d'amende d'ordre de 500 à 2'000 francs prononcée par le Service. Les cas de force majeure sont réservés.
+<sup>1</sup> Toute personne citée est tenue de comparaître et de fournir tout renseignement pertinent, sous peine d'amende d'ordre de 500 à 2'000 francs prononcée par le Service. Les cas de force majeure sont réservés.
 
 #### Art. 57
 
 **Secret de fonction**
 
-Les membres de l'Office sont tenus de garder le secret sur les renseignements et documents dont ils ont connaissance par les débats devant l'OCC et sur ses délibérations.
+<sup>1</sup> Les membres de l'Office sont tenus de garder le secret sur les renseignements et documents dont ils ont connaissance par les débats devant l'OCC et sur ses délibérations.
 
 #### Art. 58
 
@@ -780,15 +744,15 @@ Les membres de l'Office sont tenus de garder le secret sur les renseignements et
 
 **Indemnisation**
 
-Les membres de l'OCC sont indemnisés par application analogique de l'arrêté fixant les indemnités dues aux membres du Tribunal du travail et de la Commission cantonale de conciliation pour les litiges relevant de la loi sur l'égalité.
+<sup>1</sup> Les membres de l'OCC sont indemnisés par application analogique de l'arrêté fixant les indemnités dues aux membres du Tribunal du travail et de la Commission cantonale de conciliation pour les litiges relevant de la loi sur l'égalité.
 
 #### Art. 61
 
 **Droit supplétif**
 
-Les règles du CPC sont applicables par analogie, pour autant qu'elles ne soient pas en contradiction avec les dispositions du présent chapitre.
+<sup>1</sup> Les règles du CPC sont applicables par analogie, pour autant qu'elles ne soient pas en contradiction avec les dispositions du présent chapitre.
 
-### Chapitre 7: Frais, mesures, voies de droit et sanctions
+## 7 Frais, mesures, voies de droit et sanctions
 
 #### Art. 62
 
@@ -804,7 +768,7 @@ Les règles du CPC sont applicables par analogie, pour autant qu'elles ne soient
 
 **Plaintes et dénonciations**
 
-Les plaintes ou dénonciations pour inobservation d'une disposition légale entrant dans le champ d'application de la présente loi, d'une disposition d'application ou d'une décision administrative doivent être adressées au Service.
+<sup>1</sup> Les plaintes ou dénonciations pour inobservation d'une disposition légale entrant dans le champ d'application de la présente loi, d'une disposition d'application ou d'une décision administrative doivent être adressées au Service.
 
 #### Art. 64
 
@@ -823,7 +787,6 @@ Les plaintes ou dénonciations pour inobservation d'une disposition légale entr
 <sup>2</sup> La nécessité est notamment établie dans les cas suivants:
 
 - a) risque imminent;
-
 - b) dossiers incomplets ou ne correspondant pas à la demande du Service, après avertissement infructueux.
 
 #### Art. 66
@@ -857,7 +820,6 @@ Les plaintes ou dénonciations pour inobservation d'une disposition légale entr
 <sup>2</sup> Sont applicables en première instance:
 
 - a) les dispositions du CPP pour les contraventions prévues par le droit fédéral;
-
 - b) la LPJA pour les contraventions de droit cantonal, le CPP étant toutefois réservé pour les mesures de contrainte.
 
 <sup>3</sup> En cas de concours d'infractions réprimées par le droit fédéral et le droit cantonal, les dispositions du CPP sont applicables.
@@ -872,27 +834,23 @@ Les plaintes ou dénonciations pour inobservation d'une disposition légale entr
 
 <sup>2</sup> Le Service a qualité de partie à la procédure. L'autorité judiciaire a l'obligation de lui communiquer les rapports de police et de lui notifier la décision qu'elle a rendue suite à sa dénonciation.
 
-### Chapitre 8: Dispositions d'application, dispositions transitoires et
-
-finales
+## 8 Dispositions d'application, dispositions transitoires et finales
 
 #### Art. 70
 
 **Dispositions d'application**
 
-Le Conseil d'Etat édicte les dispositions nécessaires à l'application de la présente loi.
+<sup>1</sup> Le Conseil d'Etat édicte les dispositions nécessaires à l'application de la présente loi.
 
 #### Art. 71
 
 **Abrogation et modification**
 
-Sont abrogées:
+<sup>1</sup> Sont abrogées:
 
-- a) la loi cantonale sur le travail du 16 novembre 1966 (RS/VS 822.1);
-
-- b) la loi cantonale d'application de la loi fédérale sur le travail à domicile du 15 novembre 1985 (RS/VS 822.3);
-
-- c) l'article 10 alinéa 1 chiffre 10 de la loi cantonale d'application du code civil suisse (RS/VS 211.1).
+- a) la loi cantonale sur le travail du 16 novembre 1966;
+- b) la loi cantonale d'application de la loi fédérale sur le travail à domicile du 15 novembre 1985;
+- c) l'article 10 alinéa 1 lettre j de la loi cantonale d'application du code civil suisse.
 
 #### Art. 72
 
@@ -902,14 +860,4 @@ Sont abrogées:
 
 <sup>2</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 12 mai 2016.
-
-Le président du Grand Conseil: Nicolas Voide Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**No 39/2016**
-
-vigueur Loi cantonale sur le travail (LcTr) du 12 BO No 23/2016; BO 01.10.2016 mai 2016
+RCV BO/Abl. 23/2016, 39/2016

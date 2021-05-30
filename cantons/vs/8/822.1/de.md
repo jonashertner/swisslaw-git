@@ -4,21 +4,22 @@ number: "822.1"
 title: Kantonales Arbeitsgesetz
 short: kArG
 language: de
-version: 2016-10-01
-corrected: 2017-10-07
-version_adopted: 2016-05-12
+version: 2021-01-01
+corrected: 2021-05-31
+version_adopted: 2019-12-12
 adopted: 2016-05-12
 in_force: 2016-10-01
 url: "https://lex.vs.ch/app/de/texts_of_law/822.1"
-pdf: "https://lex.vs.ch/api/de/versions/203/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2789/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonales Arbeitsgesetz (kArG)
+# Kantonales Arbeitsgesetz
 
-vom 12. Mai 2016
+(kArG)
+
+vom 12.05.2016 (Stand 01.01.2021)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -38,7 +39,9 @@ eingesehen das Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel vo
 
 eingesehen das Bundesgesetz über die Information und Mitsprache der Arbeitnehmerinnen und Arbeitnehmer in den Betrieben vom 17. Dezember 1993 (Mitwirkungsgesetz);
 
-eingesehen das Bundesgesetz über die Heimarbeit vom 20. März 1981 (HArG) und seine Vollzugsverordnung vom 20. Dezember 1982 (HArGV); eingesehen den sechsten Titel des Bundesgesetzes über die Unfallversicherung vom 20. März 1981 (UVG);
+eingesehen das Bundesgesetz über die Heimarbeit vom 20. März 1981 (HArG) und seine Vollzugsverordnung vom 20. Dezember 1982 (HArGV);
+
+eingesehen den sechsten Titel des Bundesgesetzes über die Unfallversicherung vom 20. März 1981 (UVG);
 
 eingesehen die Verordnung über Gefahrgutbeauftragte für die Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässern vom 15. Juni 2001 (GGBV);
 
@@ -58,19 +61,19 @@ eingesehen die eidgenössische Verordnung über den Umgang mit Organismen in ges
 
 eingesehen Artikel 5 Absatz 2 Buchstabe a des kantonalen Gesetzes über die Rechtspflege vom 11. Februar 2009;
 
-eingesehen Artikel 10 Absatz 1 Ziffer 10 des kantonalen Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. März 1998;
+eingesehen Artikel 10 Absatz 1 Buchstabe j des kantonalen Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. März 1998;
 
 eingesehen das Gesetz betreffend den Beitritt des Kantons Wallis zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 8. Mai 2003;
 
-eingesehen das Ausführungsgesetz zum Bundesgesetz über die minimalen Arbeits- und Lohnbedingungen für in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen (EntsG) und zum Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit (BGSA) vom 12. Mai 2016;
+eingesehen das Ausführungsgesetz zum Bundesgesetz über die minimalen Arbeits- und Lohnbedingungen für in die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer und flankierende Massnahmen (EntsG) und zum Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit vom 12. Mai 2016 (BGSA);
 
 auf Antrag des Staatsrates,
 
-verordnet:[^t-1]
+verordnet:[^ingress-1]
 
-[^t-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+[^ingress-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -79,15 +82,10 @@ verordnet:[^t-1]
 <sup>1</sup> Das vorliegende Gesetz regelt den Vollzug von Bundesrecht und ergänzt dieses in den folgenden Bereichen:
 
 - a) Prävention von Berufsrisiken und Förderung von Gesundheit und Sicherheit am Arbeitsplatz;
-
 - b) Arbeitsverhältnisse und Erhaltung des sozialen Friedens;
-
 - c) Schlichtung individueller Arbeitskonflikte;
-
 - d) Schlichtung kollektiver Arbeitskonflikte;
-
 - e) entsandte Arbeitnehmer und Bekämpfung der Schwarzarbeit;
-
 - f) ständige Listen betreffend den Zugang zum öffentlichen Beschaffungswesen (Vorqualifikation).
 
 <sup>2</sup> Es definiert die Rolle der Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse und der anderen Behörden, die von der Umsetzung der diesbezüglichen Gesetze betroffen sind, sowie ihre Zusammenarbeit.
@@ -96,18 +94,13 @@ verordnet:[^t-1]
 
 **Behörden**
 
-Die folgenden Behörden sind mit der Anwendung der eingangs erwähnten Bestimmungen beauftragt, sofern dies nicht ausdrücklich einer anderen Behörde vorbehalten ist:
+<sup>1</sup> Die folgenden Behörden sind mit der Anwendung der eingangs erwähnten Bestimmungen beauftragt, sofern dies nicht ausdrücklich einer anderen Behörde vorbehalten ist:
 
 - a) die Dienststelle für Arbeitnehmerschutz und Arbeitsverhältnisse (nachstehend: Dienststelle), wenn es um Gesetze über die Sicherheit der Arbeitnehmer und den Schutz der physischen und psychischen Gesundheit, die Bekämpfung von Schwarzarbeit, die Umsetzung der flankierenden Massnahmen zur Personenfreizügigkeit, die Führung der ständigen Listen und die Betreuung der Arbeitsbeziehungen geht;
-
 - b) die beratenden Kommissionen, wenn es um Normalarbeitsverträge geht, sofern es solche gibt;
-
 - c) das Arbeitsgericht und die Schlichtungsbehörde, wenn es um die Regelung individueller Arbeitskonflikte geht, welche die in der ZPO festgelegten Streitwertgrenze in Sachen vereinfachtes Verfahren nicht übersteigen;
-
 - d) die kantonale Schlichtungskommission, wenn es um Streitigkeiten geht, die dem Gleichstellungsgesetz unterstehen;
-
 - e) das Kantonale Einigungsamt, wenn es um die Regelung kollektiver Arbeitskonflikte geht;
-
 - f) die Gemeinden, wenn es um die Aufgaben geht, die ihnen das vorliegende Gesetz und die entsprechenden Anwendungsbestimmungen übertragen.
 
 #### Art. 3
@@ -126,9 +119,9 @@ Die folgenden Behörden sind mit der Anwendung der eingangs erwähnten Bestimmun
 
 <sup>6</sup> Die Empfänger materieller oder finanzieller Hilfe, zum Beispiel in Form einer Subvention, können aufgefordert werden, der Dienststelle alle Dokumente einzureichen, welche die Einhaltung der Lohn-, Arbeits- und Sicherheitsbedingungen am Arbeitsplatz belegen.
 
-### 2. Kapitel: Arbeitsinspektion
+## 2 Arbeitsinspektion
 
-### 1. Abschnitt: Gesundheitsschutz und Arbeitssicherheit
+### 2.1 Gesundheitsschutz und Arbeitssicherheit
 
 #### Art. 4
 
@@ -143,13 +136,9 @@ Die folgenden Behörden sind mit der Anwendung der eingangs erwähnten Bestimmun
 <sup>4</sup> Sie ist befugt:
 
 - a) sämtliche Betriebe, die Gegenstand einer Kontrolle durch die Inspektion sein können, ohne Voranmeldung frei zu betreten;
-
 - b) von den Arbeitgebern sämtliche notwendigen Unterlagen und Auskünfte zu verlangen;
-
 - c) die Arbeitnehmer ohne die Gegenwart Dritter zu befragen;
-
 - d) die nützlichen Aufzeichnungen vorzunehmen (Messungen, Bilder) und sämtliche notwendigen Dokumente oder Materialien mitzunehmen;
-
 - e) im Zweifelsfall über die Anwendbarkeit des ArG zu entscheiden.
 
 #### Art. 5
@@ -174,7 +163,7 @@ Die folgenden Behörden sind mit der Anwendung der eingangs erwähnten Bestimmun
 
 <sup>2</sup> Die Dienststelle führt das Verfahren zur Unterstellung industrieller Betriebe oder Betriebsteile im Sinne der Verordnung 4 zum ArG.
 
-### 2. Abschnitt: Bau und Einrichtung von Arbeitsräumen und Arbeitsplätzen
+### 2.2 Bau und Einrichtung von Arbeitsräumen und Arbeitsplätzen
 
 #### Art. 7
 
@@ -188,7 +177,7 @@ Die folgenden Behörden sind mit der Anwendung der eingangs erwähnten Bestimmun
 
 #### Art. 8
 
-Genehmigung der Pläne industrieller oder vergleichbarer Betriebe
+**Genehmigung der Pläne industrieller oder vergleichbarer Betriebe**
 
 <sup>1</sup> Der Bau, der Umbau oder die Erweiterung eines industriellen oder vergleichbaren Betriebs muss vorgängig durch die Dienststelle gemäss dem in Artikel 7 beziehungsweise 8 ArG vorgesehenen Genehmigungsverfahren geprüft werden.
 
@@ -196,9 +185,7 @@ Genehmigung der Pläne industrieller oder vergleichbarer Betriebe
 
 <sup>3</sup> Die Genehmigung der Dienststelle kann unter der Auflage erteilt werden, dass besondere Schutzmassnahmen zu treffen sind.
 
-**der Schweizerischen**
-
-<sup>4</sup> Der Plangenehmigungsentscheid nennt die Auflagen der Dienststelle, der Dienststelle für Umweltschutz, Unfallversicherungsanstalt (nachstehend: SUVA) sowie die Auflagen zur Verhütung von Störfällen gemäss Artikel 25 des vorliegenden Gesetzes.
+<sup>4</sup> Der Plangenehmigungsentscheid nennt die Auflagen der Dienststelle, der Dienststelle für Umweltschutz, der Schweizerischen Unfallversicherungsanstalt (nachstehend: SUVA) sowie die Auflagen zur Verhütung von Störfällen gemäss Artikel 25 des vorliegenden Gesetzes.
 
 #### Art. 9
 
@@ -224,9 +211,9 @@ Genehmigung der Pläne industrieller oder vergleichbarer Betriebe
 
 **Sicherheit der Installationen**
 
-Die Dienststelle achtet darauf, dass die Betriebe Installationen und technische Geräte benutzen, die den Sicherheitsnormen entsprechen.
+<sup>1</sup> Die Dienststelle achtet darauf, dass die Betriebe Installationen und technische Geräte benutzen, die den Sicherheitsnormen entsprechen.
 
-### 3. Abschnitt: Arbeits- und Ruhezeit
+### 2.3 Arbeits- und Ruhezeit
 
 #### Art. 12
 
@@ -264,9 +251,9 @@ Die Dienststelle achtet darauf, dass die Betriebe Installationen und technische 
 
 **Feiertage**
 
-Die acht den Sonntagen gleichgestellten kantonalen Feiertage gemäss Artikel 20a Absatz 1 ArG werden vom Staatsrat festgelegt.
+<sup>1</sup> Die acht den Sonntagen gleichgestellten kantonalen Feiertage gemäss Artikel 20a Absatz 1 ArG werden vom Staatsrat festgelegt.
 
-### 4. Abschnitt: Betriebsordnung
+### 2.4 Betriebsordnung
 
 #### Art. 16
 
@@ -276,7 +263,7 @@ Die acht den Sonntagen gleichgestellten kantonalen Feiertage gemäss Artikel 20a
 
 <sup>3</sup> Falls die Betriebsordnung nicht mit den vorliegenden Bestimmungen übereinstimmt, handelt die Dienststelle gemäss dem Verfahren, das im ArG definiert ist.
 
-### 5. Abschnitt: Heimarbeit
+### 2.5 Heimarbeit
 
 #### Art. 17
 
@@ -293,22 +280,16 @@ Die acht den Sonntagen gleichgestellten kantonalen Feiertage gemäss Artikel 20a
 <sup>1</sup> Die Dienststelle hat insbesondere folgende Befugnisse:
 
 - a) in Zweifelsfällen über die Anwendung des Gesetzes zu entscheiden;
-
 - b) die Bescheinigung über die Eintragung im Arbeitgeberregister auszustellen;
-
 - c) bei Arbeitgebern und Heimarbeitnehmern Kontrollen vornehmen und sie bei Bedarf beraten;
-
 - d) die Einhaltung der im 2. Abschnitt HArG und im 2. Abschnitt HArGV enthaltenen Vorschriften durch die Arbeitgeber und Heimarbeiter zu überwachen;
-
 - e) die Bewilligung um Ausnahme von der zeitlichen Begrenzung der Ausgabe von Heimarbeit zu erteilen;
-
 - f) ihren Jahresbericht an das Staatssekretariat für Wirtschaft (nachstehend: SECO) abzugeben;
-
 - g) die Beitragsgesuche gestützt auf die Verordnung über die Förderung der Heimarbeit zuhanden des zuständigen eidgenössischen Amtes zu begutachten.
 
 <sup>2</sup> Die Bestimmungen des kantonalen Subventionsgesetzes sind auf alle im vorliegenden Gesetz vorgesehenen Subventionen unmittelbar und vollumfänglich anwendbar. Die Bestimmungen des vorliegenden Gesetzes bleiben nur insoweit anwendbar, als sie den Bestimmungen des Subventionsgesetzes nicht widersprechen.
 
-### 6. Abschnitt: Sonderschutz
+### 2.6 Sonderschutz
 
 #### Art. 19
 
@@ -332,12 +313,10 @@ Die acht den Sonntagen gleichgestellten kantonalen Feiertage gemäss Artikel 20a
 
 **Kontrolle der Arbeitsbedingungen Jugendlicher**
 
-Die Dienststelle ergreift Massnahmen, um:
+<sup>1</sup> Die Dienststelle ergreift Massnahmen, um:
 
 - a) den Schutz der Jugendlichen bei der Einstellung zu gewährleisten;
-
 - b) die Anwendung der eidgenössischen Bestimmungen zum Schutz jugendlicher Arbeitnehmer sicherzustellen;
-
 - c) die Arbeitsbedingungen Jugendlicher, die nicht den oben genannten eidgenössischen Bestimmungen unterstehen, zu kontrollieren.
 
 #### Art. 22
@@ -347,9 +326,7 @@ Die Dienststelle ergreift Massnahmen, um:
 <sup>1</sup> Im Hinblick auf die Einstellung eines jugendlichen Arbeitnehmers muss der Arbeitgeber:
 
 - a) eine Altersbestätigung verlangen, die ausserdem bezeugt, dass der Jugendliche aus der obligatorischen Schulpflicht entlassen ist;
-
 - b) das ärztliche Zeugnis gemäss Artikel 9 Absatz 2 der Verordnung 5 zum ArG verlangen;
-
 - c) bei einem ausländischen Staatsbürger sicherstellen, dass die Sonderbedingungen erfüllt sind, und gegebenenfalls die notwendigen Massnahmen ergreifen.
 
 <sup>2</sup> Die Dienststelle kann dem Arbeitgeber das Recht, Jugendliche einzustellen oder zu beschäftigen, entziehen, wenn dieser gegen seine rechtlichen Pflichten verstösst.
@@ -366,7 +343,7 @@ Die Dienststelle ergreift Massnahmen, um:
 
 #### Art. 24
 
-Kontrolle der Berufschauffeure und des Transports gefährlicher Güter
+**Kontrolle der Berufschauffeure und des Transports gefährlicher Güter**
 
 <sup>1</sup> Die Dienststelle ist dafür zuständig, zu kontrollieren, dass die Betriebe die ARV 1, die ARV 2 und die GGBV einhalten.
 
@@ -383,11 +360,8 @@ Kontrolle der Berufschauffeure und des Transports gefährlicher Güter
 <sup>1</sup> Die Dienststelle ist dafür zuständig, in Zusammenarbeit und Koordination mit den anderen zuständigen Behörden und Organen die stationären Anlagen der Betriebe, die Organisation und die Vorkehrungen zur Gewährleistung der Einhaltung der folgenden eidgenössischen Verordnungen zu kontrollieren:
 
 - a) Verordnung über den Schutz vor Störfällen (StFV);
-
 - b) Verordnung über Gefahrgutbeauftragte für die Beförderung gefährlicher Güter auf Strasse, Schiene und Gewässern (GGBV);
-
 - c) Verordnung über den Umgang mit Organismen in geschlossenen Systemen (ESV);
-
 - d) Verordnung über den Schutz der Arbeitnehmerinnen und Arbeitnehmer vor Gefährdung durch Mikroorganismen (SAMV).
 
 <sup>2</sup> Sie zieht die Dienste eines spezialisierten Labors bei.
@@ -414,7 +388,7 @@ Kontrolle der Berufschauffeure und des Transports gefährlicher Güter
 
 <sup>5</sup> Die Dienststelle tauscht alle notwendigen Informationen im Zusammenhang mit den ausgeführten Kontrollen anderer kantonaler Dienststellen und der betroffenen Gemeinden aus.
 
-### 3. Kapitel: Kantonale Beschäftigungsinspektion und ständige Listen
+## 3 Kantonale Beschäftigungsinspektion und ständige Listen
 
 #### Art. 27
 
@@ -425,6 +399,12 @@ Kontrolle der Berufschauffeure und des Transports gefährlicher Güter
 <sup>2</sup> Die Führung ständiger Listen im Rahmen des öffentlichen Beschaffungswesens von vorqualifizierten Unternehmen und Leistungserbringern wird in einer Verordnung geregelt.
 
 <sup>3</sup> Die für die Vorqualifikation der beruflichen Fähigkeiten und die Kontrolle der Einhaltung der sozialen und wirtschaftlichen Bedingungen durch die Auftragnehmer notwendigen Auskünfte, die bei den Kontrollen der kantonalen Beschäftigungsinspektion und der kantonalen Arbeitsinspektion sowie anderer Sozialinstitutionen eingeholt werden, werden in den ständigen Listen eingetragen. Die Bestimmungen des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA) müssen beachtet werden.
+
+<sup>4</sup> Folgende Behörden sind verpflichtet, der Dienststelle kostenlos und gebührenfrei die Informationen zu übermitteln, die für die Kontrolle der Unternehmen, die auf den ständigen Listen aufgeführt sind oder aufgeführt werden möchten, erforderlich sind:
+
+- a) die aufgrund des Sitzes des Unternehmens oder des Wohnorts der Person zuständigen Betreibungs- und Konkursämter;
+- b) die für die Erhebung der öffentlichen Abgaben zuständigen Behörden;
+- c) die im Falle eines allgemein verbindlichen Gesamtarbeitsvertrags von der Wirtschaftsbranche betroffenen paritätischen Berufskommissionen und die obligatorischen oder überobligatorischen Sozialversicherungen, darunter die Schweizerische Unfallversicherungsanstalt und die Ausgleichskassen.
 
 #### Art. 28
 
@@ -438,7 +418,7 @@ Kontrolle der Berufschauffeure und des Transports gefährlicher Güter
 
 <sup>4</sup> Der Eintrag in den ständigen Listen derjenigen Unternehmen, die der Sorgfaltspflicht zuwiderhandeln, kann sistiert oder gestrichen werden.
 
-### 4. Kapitel: Arbeitsbeziehungen
+## 4 Arbeitsbeziehungen
 
 #### Art. 29
 
@@ -450,13 +430,15 @@ Kontrolle der Berufschauffeure und des Transports gefährlicher Güter
 
 #### Art. 30
 
-Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen Der Staatsrat veröffentlicht die Beschlüsse zur Allgemeinverbindlicherklärung der GAV und bezeichnet die besonderen Kontrollorgane gemäss Artikel 6 des Bundesgesetzes über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen.
+**Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen**
+
+<sup>1</sup> Der Staatsrat veröffentlicht die Beschlüsse zur Allgemeinverbindlicherklärung der GAV und bezeichnet die besonderen Kontrollorgane gemäss Artikel 6 des Bundesgesetzes über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen.
 
 #### Art. 31
 
 **Normalarbeitsverträge**
 
-<sup>1</sup> Der Staatsrat erlässt die NAV gemäss den Artikeln 359 ff., 360a und 360b OR.
+<sup>1</sup> Der Staatsrat erlässt die NAV gemäss den Artikeln 359 und folgende, 360a und 360b OR.
 
 <sup>2</sup> Die Dienststelle ist für das vorangehende Annahme- oder Änderungsverfahren zuständig.
 
@@ -466,31 +448,28 @@ Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen Der Staatsrat veröff
 
 **Information und Dokumentation**
 
-Die Dienststelle macht den Text der allgemeinverbindlich erklärten GAV und der im Kanton geltenden NAV öffentlich verfügbar.
+<sup>1</sup> Die Dienststelle macht den Text der allgemeinverbindlich erklärten GAV und der im Kanton geltenden NAV öffentlich verfügbar.
 
-### 5. Kapitel: Zivilrechtsstreitigkeiten
+## 5 Zivilrechtsstreitigkeiten
 
 #### Art. 33
 
 **Begriffserklärung**
 
-Zivilrechtsstreitigkeiten im Sinne des vorliegenden Kapitels beziehen sich auf:
+<sup>1</sup> Zivilrechtsstreitigkeiten im Sinne des vorliegenden Kapitels beziehen sich auf:
 
 - a) den zehnten Titel des OR (Arbeitsvertrag), insbesondere auf die Artikel 357b und 360d OR (Feststellungsklage);
-
 - b) das Bundesgesetz über Arbeitsvermittlung und Personalverleih;
-
 - c) das Gleichstellungsgesetz;
-
 - d) das Mitwirkungsgesetz.
 
-### 1. Abschnitt: Schlichtungsbehörde in arbeitsrechtlichen Streitigkeiten
+### 5.1 Schlichtungsbehörde in arbeitsrechtlichen Streitigkeiten
 
 #### Art. 34
 
 **Organisation**
 
-In Fällen, die in die Zuständigkeit des Arbeitsgerichts fallen, wird das Schlichtungsverfahren von einem Mitarbeiter der Dienststelle durchgeführt.
+<sup>1</sup> In Fällen, die in die Zuständigkeit des Arbeitsgerichts fallen, wird das Schlichtungsverfahren von einem Mitarbeiter der Dienststelle durchgeführt.
 
 #### Art. 35
 
@@ -498,11 +477,11 @@ In Fällen, die in die Zuständigkeit des Arbeitsgerichts fallen, wird das Schli
 
 <sup>1</sup> Die Schlichtungsbehörde hat ihren Sitz in Sitten. Sie kann beschliessen, ihre Sitzungen an einem beliebigen anderen Ort im Kanton abzuhalten.
 
-<sup>2</sup> Die Tätigkeit der Schlichtungsbehörde wird durch die Artikel 197 ff. ZPO geregelt.
+<sup>2</sup> Die Tätigkeit der Schlichtungsbehörde wird durch die Artikel 197 und folgende ZPO geregelt.
 
 <sup>3</sup> Die Schlichtungsbehörde entscheidet über ihre Zuständigkeit (Art. 59 ZPO) sowie über Gesuche um unentgeltliche Rechtspflege und über Beweismittel in den Fällen, in denen sie für den Urteilsvorschlag oder Entscheid zuständig ist (Art. 210 und 212 ZPO).
 
-### 2. Abschnitt: Kantonale Schlichtungskommission für Streitigkeiten nach dem Gleichstellungsgesetz
+### 5.1.1 Kantonale Schlichtungskommission für Streitigkeiten nach dem Gleichstellungsgesetz
 
 #### Art. 36
 
@@ -513,7 +492,6 @@ In Fällen, die in die Zuständigkeit des Arbeitsgerichts fallen, wird das Schli
 <sup>2</sup> Die Kommission setzt sich wie folgt zusammen:
 
 - a) ein Präsident und zwei stellvertretende Präsidenten, die alle einen Universitätstitel der Rechtswissenschaften besitzen;
-
 - b) zwölf weitere Mitglieder.
 
 <sup>3</sup> Fünf Mitglieder, darunter der Präsident oder ein stellvertretender Präsident, müssen deutschsprachig sein.
@@ -528,7 +506,7 @@ In Fällen, die in die Zuständigkeit des Arbeitsgerichts fallen, wird das Schli
 
 <sup>3</sup> Die Kommission kann ihrem Präsidenten oder stellvertretenden Präsidenten die Kompetenz delegieren, Beweisverfügungen zu fällen oder Beweismittel aufzunehmen.
 
-### 3. Abschnitt: Arbeitsgericht
+### 5.2 Arbeitsgericht
 
 #### Art. 38
 
@@ -539,7 +517,6 @@ In Fällen, die in die Zuständigkeit des Arbeitsgerichts fallen, wird das Schli
 <sup>2</sup> Der Staatsrat ernennt zu Beginn jeder Amtsperiode die Mitglieder des Arbeitsgerichts. Dieses setzt sich wie folgt zusammen:
 
 - a) vier Präsidenten, darunter ein Doyen, die grundsätzlich alle im Besitz eines Anwaltspatents sind. Personen mit einer abgeschlossenen Universitätsausbildung sind wählbar, vorausgesetzt, sie können eine ausreichende praktische Erfahrung ausweisen;
-
 - b) acht beisitzende Richter, die paritätisch die Arbeitgeber- und die Arbeitnehmerseite vertreten.
 
 <sup>3</sup> Mindestens ein Präsident und ein Beisitzer jeder Funktion müssen deutschsprachig sein.
@@ -566,15 +543,15 @@ In Fällen, die in die Zuständigkeit des Arbeitsgerichts fallen, wird das Schli
 
 **Zuständigkeit**
 
-Die Zuständigkeit des Arbeitsgerichts beschränkt sich auf Streitfälle, welche den in der ZPO vorgesehenen Streitwert in Sachen vereinfachtes Verfahren nicht übersteigen. Es gibt weder eine Streitwertgrenze für Streitfälle nach dem Gleichstellungsgesetz noch für Feststellungsklagen sowie Klagen zur Gültigerklärung von Konventionalstrafen.
+<sup>1</sup> Die Zuständigkeit des Arbeitsgerichts beschränkt sich auf Streitfälle, welche den in der ZPO vorgesehenen Streitwert in Sachen vereinfachtes Verfahren nicht übersteigen. Es gibt weder eine Streitwertgrenze für Streitfälle nach dem Gleichstellungsgesetz noch für Feststellungsklagen sowie Klagen zur Gültigerklärung von Konventionalstrafen.
 
 #### Art. 41
 
 **Prozesskosten**
 
-Beruflich qualifizierte Vertreter haben Anrecht auf eine Entschädigung gemäss Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar). Diese wird in Form einer Pauschalentschädigung je nach Komplexität der Angelegenheit und der erbrachten Leistung festgelegt.
+<sup>1</sup> Beruflich qualifizierte Vertreter haben Anrecht auf eine Entschädigung gemäss Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar). Diese wird in Form einer Pauschalentschädigung je nach Komplexität der Angelegenheit und der erbrachten Leistung festgelegt.
 
-### 4. Abschnitt: Gemeinsame Bestimmungen
+### 5.3 Gemeinsame Bestimmungen
 
 #### Art. 42
 
@@ -612,23 +589,23 @@ Beruflich qualifizierte Vertreter haben Anrecht auf eine Entschädigung gemäss 
 
 **Berufsmässige Vertretung**
 
-Beruflich qualifizierte Vertreter, die im Namen eines Arbeitnehmer- oder Arbeitgeberverbands handeln, sind befugt, die Parteien in Angelegenheiten zum Arbeitsvertrag vor den besonderen Behörden zu vertreten (Art. 68 Abs. 2 Bst. d ZPO).
+<sup>1</sup> Beruflich qualifizierte Vertreter, die im Namen eines Arbeitnehmer- oder Arbeitgeberverbands handeln, sind befugt, die Parteien in Angelegenheiten zum Arbeitsvertrag vor den besonderen Behörden zu vertreten (Art. 68 Abs. 2 Bst. d ZPO).
 
 #### Art. 46
 
 **Fristwahrung**
 
-Das Gesetz über die Rechtspflege ist für die Fristenberechnung anwendbar.
+<sup>1</sup> Das Gesetz über die Rechtspflege ist für die Fristenberechnung anwendbar.
 
 #### Art. 47
 
 **Entschädigungen**
 
-Die Entschädigungen der Mitglieder des Arbeitsgerichts und der kantonalen Schlichtungskommission für Streitigkeiten nach dem Gleichstellungsgesetz werden vom Staatsrat festgelegt.
+<sup>1</sup> Die Entschädigungen der Mitglieder des Arbeitsgerichts und der kantonalen Schlichtungskommission für Streitigkeiten nach dem Gleichstellungsgesetz werden vom Staatsrat festgelegt.
 
-### 6. Kapitel: Kollektive Streitigkeiten
+## 6 Kollektive Streitigkeiten
 
-### 1. Abschnitt: Einigungsamt
+### 6.1 Einigungsamt
 
 #### Art. 48
 
@@ -647,16 +624,11 @@ Die Entschädigungen der Mitglieder des Arbeitsgerichts und der kantonalen Schli
 <sup>1</sup> Das KEA umfasst:
 
 - a) zehn ständige Mitglieder, welche der Staatsrat zu Beginn jeder Amtsperiode ernennt, nämlich:
-
-- 1\. zwei Präsidenten, darunter ein Doyen;
-
-- 2\. acht Beisitzer zur paritätischen Vertretung der Arbeitgeber- und Arbeitnehmerseite;
-
+  - 1\. zwei Präsidenten, darunter ein Doyen,
+  - 2\. acht Beisitzer zur paritätischen Vertretung der Arbeitgeber- und Arbeitnehmerseite;
 - b) vier nicht ständige Mitglieder, welche die beteiligten Parteien vorschlagen und der Staatsrat ernennt:
-
-- 1\. zwei Arbeitgebervertreter;
-
-- 2\. zwei Arbeitnehmervertreter.
+  - 1\. zwei Arbeitgebervertreter,
+  - 2\. Zwei Arbeitnehmervertreter.
 
 <sup>2</sup> Die Präsidenten müssen grundsätzlich im Besitz eines Anwaltspatents sein. Wählbar sind Personen mit einer abgeschlossenen juristischen Universitätsausbildung, vorausgesetzt, sie können eine ausreichende praktische Erfahrung ausweisen.
 
@@ -696,13 +668,13 @@ Die Entschädigungen der Mitglieder des Arbeitsgerichts und der kantonalen Schli
 
 <sup>5</sup> Wird der Vorschlag von einer oder von beiden Parteien abgelehnt oder bleibt eine Partei der Verhandlung fern, kann das KEA, nachdem es der Partei oder den Parteien eine Frist zur Stellungnahme gesetzt hat, die Veröffentlichung des Sachverhalts unter Angabe der angeführten Begründungen und seiner Entscheidung im kantonalen Amtsblatt veranlassen.
 
-### 2. Abschnitt: Schiedsinstanz
+### 6.1.1 Schiedsinstanz
 
 #### Art. 52
 
 **Zuständigkeit**
 
-Das KEA kann von den Parteien einer Kollektivstreitigkeit als Schiedsinstanz berufen werden, wenn diese beschliessen, die Angelegenheit durch einen bindenden Schiedsspruch beizulegen.
+<sup>1</sup> Das KEA kann von den Parteien einer Kollektivstreitigkeit als Schiedsinstanz berufen werden, wenn diese beschliessen, die Angelegenheit durch einen bindenden Schiedsspruch beizulegen.
 
 #### Art. 53
 
@@ -710,7 +682,7 @@ Das KEA kann von den Parteien einer Kollektivstreitigkeit als Schiedsinstanz ber
 
 <sup>1</sup> Das Schiedsgericht setzt sich aus drei Schiedsrichtern zusammen, nämlich aus dem Präsidenten des KEA oder gegebenenfalls einem stellvertretenden Präsidenten und zwei Schiedsrichtern, die jeweils durch die beiden Parteien aus den Beisitzern bestimmen werden.
 
-<sup>2</sup> Unterlässt es eine Partei, ihren Schiedsrichter innerhalb der angesetzten Frist zu bestimmen, wird dieser gemäss den Artikeln 353 ff. ZPO ernannt.
+<sup>2</sup> Unterlässt es eine Partei, ihren Schiedsrichter innerhalb der angesetzten Frist zu bestimmen, wird dieser gemäss den Artikeln 353 und folgende ZPO ernannt.
 
 <sup>3</sup> Die Parteien können die schiedsrichterliche Entscheidung durch den Präsidenten allein verlangen.
 
@@ -726,7 +698,7 @@ Das KEA kann von den Parteien einer Kollektivstreitigkeit als Schiedsinstanz ber
 
 <sup>3</sup> Leistet eine Partei den von ihr verlangten Vorschuss nicht, kann die andere Partei die gesamten Kosten vorschiessen oder auf das Schiedsverfahren verzichten. In diesen Fällen sind die Parteien nicht mehr an das Schlichtungsabkommen für das Streitverhältnis gebunden.
 
-### 3. Abschnitt: Gemeinsame Bestimmungen
+### 6.2 Gemeinsame Bestimmungen
 
 #### Art. 55
 
@@ -740,13 +712,13 @@ Das KEA kann von den Parteien einer Kollektivstreitigkeit als Schiedsinstanz ber
 
 **Erscheinungspflicht**
 
-Jede vorgeladene Person ist unter Androhung einer Ordnungsbusse von 500 bis 2'000 Franken verpflichtet, zu erscheinen und alle sachdienlichen Auskünfte zu erteilen. Die Busse wird von der Dienststelle ausgesprochen. Vorbehalten bleiben Fälle höherer Gewalt.
+<sup>1</sup> Jede vorgeladene Person ist unter Androhung einer Ordnungsbusse von 500 bis 2'000 Franken verpflichtet, zu erscheinen und alle sachdienlichen Auskünfte zu erteilen. Die Busse wird von der Dienststelle ausgesprochen. Vorbehalten bleiben Fälle höherer Gewalt.
 
 #### Art. 57
 
 **Amtsgeheimnis**
 
-Die Mitglieder des Amts sind über alle Informationen und Dokumente, von denen sie durch die Verhandlungen des KEA Kenntnis erlangen, sowie über dessen Entscheide zur Verschwiegenheit verpflichtet.
+<sup>1</sup> Die Mitglieder des Amts sind über alle Informationen und Dokumente, von denen sie durch die Verhandlungen des KEA Kenntnis erlangen, sowie über dessen Entscheide zur Verschwiegenheit verpflichtet.
 
 #### Art. 58
 
@@ -772,15 +744,15 @@ Die Mitglieder des Amts sind über alle Informationen und Dokumente, von denen s
 
 **Entschädigung**
 
-Die Mitglieder des KEA erhalten eine Entschädigung. Dabei wird der Beschluss betreffend die Entschädigungen der Mitglieder des Arbeitsgerichts und der kantonalen Schlichtungskommission für Streitigkeiten nach dem Gleichstellungsgesetz analog angewendet.
+<sup>1</sup> Die Mitglieder des KEA erhalten eine Entschädigung. Dabei wird der Beschluss betreffend die Entschädigungen der Mitglieder des Arbeitsgerichts und der kantonalen Schlichtungskommission für Streitigkeiten nach dem Gleichstellungsgesetz analog angewendet.
 
 #### Art. 61
 
 **Ergänzendes Recht**
 
-Die Regeln der ZPO sind analog anwendbar, sofern sie den Bestimmungen des vorliegenden Kapitels nicht widersprechen.
+<sup>1</sup> Die Regeln der ZPO sind analog anwendbar, sofern sie den Bestimmungen des vorliegenden Kapitels nicht widersprechen.
 
-### 7. Kapitel: Kosten, Massnahmen, Rechtsweg und Sanktionen
+## 7 Kosten, Massnahmen, Rechtsweg und Sanktionen
 
 #### Art. 62
 
@@ -796,7 +768,7 @@ Die Regeln der ZPO sind analog anwendbar, sofern sie den Bestimmungen des vorlie
 
 **Beschwerden und Anzeigen**
 
-Beschwerden oder Anzeigen betreffend Missachtung einer Bestimmung, die in den Anwendungsbereich des vorliegenden Gesetzes fällt, einer Ausführungsbestimmung oder einer amtlichen Verfügung sind an die Dienststelle zu richten.
+<sup>1</sup> Beschwerden oder Anzeigen betreffend Missachtung einer Bestimmung, die in den Anwendungsbereich des vorliegenden Gesetzes fällt, einer Ausführungsbestimmung oder einer amtlichen Verfügung sind an die Dienststelle zu richten.
 
 #### Art. 64
 
@@ -815,7 +787,6 @@ Beschwerden oder Anzeigen betreffend Missachtung einer Bestimmung, die in den An
 <sup>2</sup> Diese Notwendigkeit ist insbesondere in folgenden Fällen gegeben:
 
 - a) bei unmittelbarer Gefahr;
-
 - b) wenn trotz erfolgloser Mahnung die Unterlagen immer noch unvollständig sind oder den Anforderungen der Dienststelle nicht entsprechen.
 
 #### Art. 66
@@ -849,7 +820,6 @@ Beschwerden oder Anzeigen betreffend Missachtung einer Bestimmung, die in den An
 <sup>2</sup> In erster Instanz sind anwendbar:
 
 - a) die Bestimmungen der StPO für die vom Bundesrecht vorgesehenen Übertretungen;
-
 - b) das VVRG für die gemäss kantonalem Recht geregelten Übertretungen. Für die Zwangsmassnahmen bleibt jedoch die StPO vorbehalten.
 
 <sup>3</sup> Die Bestimmungen der StPO sind im Fall von Übertretungen, die sowohl nach eidgenössischem als auch nach kantonalem Recht strafbar sind, anwendbar.
@@ -864,25 +834,23 @@ Beschwerden oder Anzeigen betreffend Missachtung einer Bestimmung, die in den An
 
 <sup>2</sup> Der Dienststelle kommt im Verfahren Parteistellung zu. Die Strafbehörde hat der Dienststelle in den Verfahren, die auf ihre Anzeige hin durchgeführt wurden, die Polizeiberichte mitzuteilen und die Entscheide zu eröffnen.
 
-### 8. Kapitel: Anwendungs-, Übergangs- und Schlussbestimmungen
+## 8 Anwendungs-, Übergangs- und Schlussbestimmungen
 
 #### Art. 70
 
 **Anwendungsbestimmungen**
 
-Der Staatsrat erlässt alle für die Anwendung des vorliegenden Gesetzes notwendigen Bestimmungen.
+<sup>1</sup> Der Staatsrat erlässt alle für die Anwendung des vorliegenden Gesetzes notwendigen Bestimmungen.
 
 #### Art. 71
 
 **Aufgehobene und geänderte Bestimmungen**
 
-Aufgehoben sind:
+<sup>1</sup> Aufgehoben sind:
 
-- a) das kantonale Arbeitsgesetz vom 16. November 1966 (SGS/VS 822.1);
-
-- b) das kantonale Gesetz betreffend die Anwendung des Bundesgesetzes über die Heimarbeit (SGS/VS 822.3);
-
-- c) Artikel 10 Absatz 1 Ziffer 10 des kantonalen Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (SGS/VS 211.1).
+- a) das kantonale Arbeitsgesetz vom 16. November 1966;
+- b) das kantonale Gesetz betreffend die Anwendung des Bundesgesetzes über die Heimarbeit;
+- c) Artikel 10 Absatz 1 Buchstabe j des kantonalen Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch.
 
 #### Art. 72
 
@@ -892,10 +860,4 @@ Aufgehoben sind:
 
 <sup>2</sup> Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 12. Mai 2016.
-
-Der Präsident des Grossen Rates: Nicolas Voide Der Chef des Parlamentsdienstes: Claude Bumann
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Kantonales Arbeitsgesetz (kArG) vom 12. Abl. Nr. 23/2016; 01.10.2016 Mai 2016 Abl. Nr. 39/2016
+CSW BO/Abl. 23/2016, 39/2016
