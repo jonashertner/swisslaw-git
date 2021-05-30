@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-05-27
+version: 2021-05-31
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210527/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210527-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210527/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210531/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210531-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210527/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 27 mai 2021)
+du 27 janvier 2021 (Etat le 31 mai 2021)
 
 Le Conseil fédéral suisse,
 
@@ -57,11 +57,12 @@ Un État ou une zone présentent un risque élevé d’infection au SARS-CoV-2 l
 
 <sup>2</sup> Les listes des États et des zones présentant un risque élevé d’infection figurent à l’annexe 1.
 
-<sup>3</sup> Le Département fédéral de l’intérieur (DFI) l’actualise en permanence après consultation du Département fédéral de justice et police (DFJP), du Département fédéral des finances (DFF) et du Département fédéral des affaires étrangères (DFAE).
+<sup>3</sup> ...[^2-2]
 
 <sup>4</sup> Les zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse peuvent être exclues des listes visées à l’al. 2, même si elles remplissent une des conditions mentionnées à l’al. 1.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des mutations du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^2-2]: Abrogé par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), avec effet au 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 ## Section 3 Collecte des coordonnées
 
@@ -87,14 +88,21 @@ Sont exemptées des obligations prévues aux al. 1 et 2 les personnes:
 - a. qui entrent en Suisse en provenance de zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse;
 - b. qui transportent des voyageurs ou des biens dans le cadre de leur activité professionnelle en traversant la frontière;
 - c. [^3-4] qui n’entrent en Suisse que pour la traverser, avec l’intention et la possibilité de continuer directement leur voyage vers un autre pays; cette exception ne s’applique pas aux personnes qui traversent la Suisse avec une entreprise de transport de personnes visée à l’art. 4 et qui font une halte;
-- d. [^3-5] qui traversent la Suisse avec une entreprise de transport de personnes visée à l’art. 4 sans faire de halte.[^3-6]
+- d. [^3-5] qui traversent la Suisse avec une entreprise de transport de personnes visée à l’art. 4 sans faire de halte;
+- e.[^3-6] qui sont vaccinées contre le SARS-CoV-2; l’annexe 1*a* détermine les personnes considérées comme vaccinées et la durée pour laquelle la vaccination est valable;
+- f.[^3-7] qui ont contracté le SARS-CoV-2 et sont considérées comme guéries; la durée de la dérogation est fixée à l’annexe 1*a*.[^3-8]
+
+<sup>4</sup> Lors de l’entrée en Suisse depuis des États ou zones au sens de l’annexe 1, ch. 2, les dérogations à l’obligation de collecter les coordonnées visées à l’al. 3, let. e et f, ne s’appliquent pas.[^3-9]
 
 [^3-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: La plateforme d’enregistrement des coordonnées des voyageurs est accessible à l’adresse https://swissplf.admin.ch
 [^3-3]: Introduit par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^3-5]: Introduite par le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine),en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^3-6]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-5]: Introduite par le ch. I de l’O du 12 mai 2021 (États et zones présentant des mutations du virus dangereuses et précisions concernant l’obligation de test et de quarantaine),en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^3-6]: Introduite par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^3-7]: Introduite par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^3-8]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-9]: Introduit par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 #### Art. 4
 
@@ -193,16 +201,13 @@ Sont exemptées de l’obligation de test et de quarantaine visée à l’art. 7
 - e. qui ont séjourné dans un État ou une zone présentant un risque élevé d’infection pendant moins de 24 heures en tant que passagers en transit;
 - f. qui n’entrent en Suisse que pour la traverser, avec l’intention et la possibilité de continuer directement leur voyage vers un autre pays;
 - g. qui reviennent en Suisse après avoir participé à une manifestation dans un État ou une zone présentant un risque élevé d’infection, pour autant que la preuve soit fournie que la participation et le séjour se sont déroulés dans le respect d’un plan de protection spécifique; est notamment considérée comme participation à une manifestation la participation en règle générale professionnelle à une compétition sportive ou à une manifestation culturelle, ainsi qu’à un congrès spécialisé pour professionnels;
-- h.[^8-2] qui peuvent fournir la preuve qu’elles ont déjà contracté le SARS-CoV-2 au cours des six derniers mois précédant leur entrée en Suisse et qu’elles sont considérées comme guéries.
+- h.[^8-2] qui peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 1*a* détermine les personnes considérées comme vaccinées et la durée pour laquelle la vaccination est valable;
+- i.[^8-3] qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; la durée de la dérogation est fixée à l’annexe 1*a*;
+- j.[^8-4] qui ont moins de 16 ans.
 
-<sup>1bis</sup>
+<sup>1bis</sup> Sont aussi exemptées de l’obligation de test visée à l’art. 7 les personnes disposant d’un certificat médical attestant que, pour des raisons médicales, elles ne peuvent pas se soumettre à un frottis nasopharyngé nécessaire à un test SARS-CoV-2.[^8-5]
 
-Sont également exemptés de l’obligation de test visée à l’art. 7:
-
-- a. les enfants de moins de douze ans;
-- b. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas subir le frottis nasopharyngé nécessaire au dépistage du SARS-CoV-2.[^8-3]
-
-<sup>1ter</sup> L’exemption de l’obligation de quarantaine prévue à l’al. 1, let. c, d, g et h, n’est pas applicable aux personnes en provenance d’un pays ou d’une zone visés à l’annexe 1, ch. 2.[^8-4]
+<sup>1ter</sup> Lors de l’entrée en Suisse depuis des États ou zones au sens de l’annexe 1, ch. 2, les dérogations à l’obligation de test et de quarantaine visée à l’al. 1, let. c, d, g, h, i et j, ne s’appliquent pas. Les enfants de moins de 12 ans sont toutefois exemptés de l’obligation de test.[^8-6]
 
 <sup>2</sup> L’al. 1 ne s’applique pas aux personnes qui présentent des symptômes du COVID-19 à moins que celles-ci puissent prouver, attestation médicale à l’appui, que les symptômes peuvent être attribués à une autre cause.
 
@@ -211,9 +216,11 @@ Sont également exemptés de l’obligation de test visée à l’art. 7:
 <sup>4</sup> Dans des cas fondés, l’autorité cantonale compétente peut autoriser d’autres dérogations à l’obligation de test et de quarantaine ou accorder des allégements.
 
 [^8-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^8-3]: Introduit par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
-[^8-4]: Introduit par le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021 (Assouplissements pour les person-nes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-3]: Introduite par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-4]: Introduite par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-5]: Introduit par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif) ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-6]: Introduit par le ch. I de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine) ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 #### Art. 9
 
@@ -221,7 +228,7 @@ Sont également exemptés de l’obligation de test visée à l’art. 7:
 
 Toute personne obligée de se mettre en quarantaine-voyage en vertu de la présente ordonnance doit déclarer son entrée en Suisse à l’autorité cantonale compétente dans un délai de 2 jours et suivre ses instructions.
 
-## Section 4*a***** Obligations particulières des entreprises de transport aérien
+## Section 4*a* Obligations particulières des entreprises de transport aérien
 
 [^sec4a-1]
 
@@ -253,14 +260,32 @@ Le document contenant le résultat du test doit contenir les informations suivan
 
 Elles peuvent transporter les passagers suivants en l’absence d’un résultat de test négatif:
 
-- a. les enfants de moins de douze ans;
+- a.[^9a-1] les enfants et les adolescents de moins de 16 ans;
 - b. les personnes munies d’une attestation médicale prouvant qu’elles doivent être transportées d’urgence en Suisse pour des raisons médicales;
 - c. les personnes de nationalité suisse ou titulaires d’un titre de séjour délivré par la Suisse qui n’ont pas la possibilité de se faire tester pour le SARS-CoV-2 en temps utile ou sans efforts disproportionnés; ces personnes doivent remplir une déclaration confirmant cette impossibilité;
 - d. les personnes qui transitent par un aéroport suisse et ne le quittent pas avant de poursuivre leur voyage;
-- e. [^9a-1] les personnes qui peuvent fournir la preuve qu’elles ont déjà contracté le SARS-CoV-2 au cours des six derniers mois précédant leur entrée en Suisse et qu’elles sont considérées comme guéries;
+- e. [^9a-2] les personnes qui peuvent fournir la preuve qu’elles sont vaccinées contre le SARS-CoV-2; l’annexe 1*a* détermine les personnes considérées comme vaccinées et la durée pour laquelle la vaccination est valable;
+- e<sup>bis</sup>.[^9a-3] qui peuvent fournir la preuve qu’elles ont contracté le SARS-CoV-2 et qu’elles sont considérées comme guéries; la durée de la dérogation est fixée à l’annexe 1*a*;
 - f. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas subir le frottis nasopharyngé nécessaire au dépistage du SARS-CoV-2.
 
-[^9a-1]: Nouvelle teneur selon le ch. II de l’O du 12 mai 2021 (États et zones présentant des muta-tions du virus dangereuses et précisions concernant l’obligation de test et de quarantaine), en vigueur depuis le 17 mai 2021 ([RO 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+<sup>6</sup> Lors de l’entrée en Suisse depuis des États ou zones au sens de l’annexe 1, ch. 2, les dérogations à l’obligation de test avant le départ visées à l’al. 5, let. e et e<sup>bis</sup>, ne s’appliquent pas. Les enfants de moins de 12 ans sont toutefois exemptés de l’obligation de test.[^9a-4]
+
+[^9a-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021 (Assouplissements pour les person-nes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021 (Assouplissements pour les person-nes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-3]: Introduite par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-4]: Introduit par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+## Section 4*b* Mise à jour des annexes
+
+[^sec4b-1]
+
+[^sec4b-1]: Introduite par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+#### Art. 9b
+
+<sup>1</sup> Le Département fédéral de l’intérieur actualise en permanence l’annexe 1 après avoir consulté le Département fédéral de justice et police, le Département fédéral des finances et le Département fédéral des affaires étrangères.
+
+<sup>2</sup> Il actualise l’annexe 1*a* selon les connaissances scientifiques actuelles et après avoir consulté la Commission fédérale pour les vaccinations.
 
 ## Section 5 Contrôles et signalements des autorités chargées des contrôle à la frontière
 
@@ -297,13 +322,13 @@ La présente ordonnance entre en vigueur le 8 février 2021.
 
 Annexe 1*[^t-1]*
 
-(art. 2, al. 2)
+(art. 2, al. 2, 3, al. 4, 8, al. 1<sup>ter</sup>, et 9*b*, al. 1)
 
-## Liste des États et zones présentant un risque élevé d’infection****
+## Liste des États et zones présentant un risque élevé d’infection
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 mai 2021 ([RO 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Mise à jour par le ch. I de l’O du DFI du 27 mai 2021, en vigueur depuis le 27 mai 2021 ([RO 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 mai 2021 ([RO 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Mise à jour par le ch. I de l’O du DFI du 27 mai 2021 ([RO 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)) et le ch. II al. 1 de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones (art. 2, al. 1, let. b à d)
@@ -401,6 +426,30 @@ Zones en Italie:
 
 - – Regione Campania
 - – Regione Puglia
+
+Annexe 1a*[^t-2]*
+
+(art. 3, al. 3, let. e et f, 8, al. 1, let. h et i, 9*a*, al. 5, let. e et e<sup>bis</sup>, et 9*b*, al. 2)
+
+## Prescriptions concernant les dérogations à l’obligation d’enregistrer les coordonnées, à l’obligation de test et de quarantaine lors de l’entrée en Suisse et à l’obligation de test avant le départ
+
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+### 1 Personnes vaccinées
+
+- 1\.1
+
+  Sont considérées comme guéries les personnes ayant reçu un vaccin:
+
+  - a. autorisé en Suisse et entièrement administré, conformément aux recommandations de l’OFSP;
+  - b. autorisé par l’Agence européenne des médicaments pour l’Union européenne et entièrement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée;
+  - c. autorisé selon la liste des situations d’urgences de l’OMS et entièrement administré, conformément aux prescriptions ou aux recommandations de l’État dans lequel la vaccination a été effectuée.
+
+- 1\.2 La durée pendant laquelle les personnes vaccinées sont exemptées de l’obligation d’enregistrer leurs coordonnées (art. 3, al. 3, let. e), de l’obligation de test et de quarantaine (art. 8, al. 1, let. i) et de l’obligation de test avant le départ (art. 9*a*, al. 5, let. e<sup>is</sup>) est de 6 mois à compter de la vaccination complète.
+
+### 2 Personnes guéries
+
+- [tab] La durée pendant laquelle les personnes guéries sont exemptées de l’obligation d’enregistrer leurs coordonnées (art. 3, al. 3, let. f), de l’obligation de test et de quarantaine (art. 8, al. 1, let. h) et de l’obligation de test avant le départ (art. 9*a*, al. 5, let. e<sup>bis</sup>) est de 6 mois à compter du 11<sup>e</sup> jour qui suit la confirmation de l’infection.
 
 Annexe 2
 

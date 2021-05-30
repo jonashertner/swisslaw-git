@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-05-27
+version: 2021-05-31
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210527/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210527-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210527/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210531/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210531-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 27 May 2021)
+of 27 January 2021 (Status as of 31 May 2021)
 
 The Swiss Federal Council,
 
@@ -59,11 +59,12 @@ There is an increased risk of infection with Sars-CoV-2A in a country or region 
 
 <sup>2</sup> The lists of countries or areas with an increased risk of infection are set out in Annex 1.
 
-<sup>3</sup> The Federal Department of Home Affairs (FDHA) shall update the Annex regularly in consultation with the Federal Department of Justice and Police (FDJP), the Federal Department of Finance (FDF) and the Federal Department of Foreign Affairs (FDFA).
+<sup>3</sup> ...[^2-2]
 
 <sup>4</sup> Regions on the border with Switzerland which have close economic, social and cultural ties with Switzerland may be exempted from inclusion in the lists mentioned in paragraph 2 even if they meet the requirements set out in paragraph 1.
 
 [^2-1]: Amended by No I of the O of 12 May 2021 (Countries and regions with dangerous virus mutations, more precise details of the testing and quarantine requirement), in force since 17 May 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^2-2]: Repealed by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), with effect from 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 ## Section 3 Recording Contact Data
 
@@ -78,23 +79,31 @@ Persons entering Switzerland from a country or region with an increased risk of 
 - a. online by means of the platform for recording contact data for travellers[^3-2] provided by the Federal Office of Public Health (FOPH); or
 - b. on the paper contact forms provided by the FOPH.
 
-<sup>1bis</sup> Persons who do not enter Switzerland as a passenger with a passenger transport operator pursuant to Article 4 and who record their contact details on a contact form must retain the form for 14 days..[^3-3]
+<sup>1bis</sup> Persons who do not enter Switzerland as a passenger with a passenger transport operator pursuant to Article 4 and who record their contact details on a contact form must retain the form for 14 days.[^3-3]
 
 <sup>2</sup> Persons entering Switzerland from countries or regions that do not have an increased risk of infection must provide their contact data online or on paper only if they are entering Switzerland by rail, bus, ship or aircraft.
 
-<sup>3</sup> The following persons are exempted from the obligations in paragraphs 1 and 2.
+<sup>3</sup>
+
+The following persons are exempted from the obligations in paragraphs 1 and 2:
 
 - a. persons entering from regions on the border with Switzerland that have close economic, social and cultural ties with Switzerland;
 - b. persons who carry goods or persons across the border as part of their professional activity;
 - c.[^3-4] persons who enter Switzerland solely in order to transit the country and who intend and are able to travel directly to another country; this exemption does not apply to persons who transit Switzerland with a passenger transport operator under Article 4 and make a stopover while here;
-- d.[^3-5] persons who transit Switzerland with a passenger transport operator under Article 4 without making a stopover while here.[^3-6]
+- d.[^3-5] persons who transit Switzerland with a passenger transport operator under Article 4 without making a stopover while here;
+- e.[^3-6] persons who have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated and the duration for which the vaccination is valid is regulated in Annex 1*a*;
+- f.[^3-7] persons who have been infected with Sars-CoV-2 and who are regarded as having recovered; the duration of the exemption is regulated in Annex 1*a*.[^3-8]
+- [tab] <sup>4</sup> For persons entering Switzerland from countries or areas listed in Annex 1 number 2, the exemptions from the obligation to record contact data in accordance with paragraph 3 letters e and f do not apply.[^3-9]
 
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: The platform for recording contact data for travellers can be accessed at https://swissplf.admin.ch
 [^3-3]: Inserted by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 [^3-4]: Amended by No I of the O of 12 May 2021 (Countries and regions with dangerous virus mutations, more precise details of the testing and quarantine requirement), in force since 17 May 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 [^3-5]: Inserted by No I of the O of 12 May 2021 (Countries and regions with dangerous virus mutations, more precise details of the testing and quarantine requirement), in force since 17 May 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^3-6]: Amended by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-6]: Inserted by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^3-7]: Inserted by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^3-8]: Amended by No I of the O of 17 Feb 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-9]: Inserted by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 #### Art. 4
 
@@ -193,16 +202,13 @@ The following persons are exempted from the requirement to be tested and to quar
 - e. persons who as transit passengers have stayed less than 24 hours in a country or region with an increased risk of infection;
 - f. persons who enter Switzerland for the purpose of transiting the country and who intend and are able to travel on directly to another country;
 - g. persons who re-enter Switzerland after participating in an event in a country or region with an increased risk of infection, provided they prove that their participation and stay took place in compliance with a specific precautionary measures plan; participating in an event includes in particular participating, normally in a professional capacity, in a sporting competition or cultural event, or attending a professional conference;
-- h.[^8-2] persons who prove that they were infected with Sars-CoV-2 within the six months prior to entering Switzerland and have recovered.
+- h.[^8-2] persons who prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated and the duration for which the vaccination is valid is regulated in Annex 1*a*;
+- i.[^8-3] persons who can prove that they were infected with Sars-CoV-2 and that they have recovered; the duration of the exemption is regulated in Annex 1a;
+- j.[^8-4] persons under 16 years of age.
 
-<sup>1bis</sup>
+<sup>1bis</sup> Persons who can provide a medical certificate to prove that they are unable on medical grounds to provide the nasopharyngeal swab required for the Sars-CoV-2 test are also exempted from the requirement to be tested under Article 7.[^8-5]
 
-The following persons are also exempted from the requirement to be tested under Article 7:
-
-- a. children under 12 years of age;
-- b. persons who can provide a medical certificate to prove that they are unable on medical grounds to provide the nasopharyngeal swab required for the Sars-CoV-2 test.[^8-3]
-
-<sup>1ter</sup> When entering Switzerland from the countries and regions listed in Annex 1 number 2, the exemptions from the quarantine requirement under paragraph 1 letters c, d, g and h do not apply.[^8-4]
+<sup>1ter</sup> When entering Switzerland from the countries and regions listed in Annex 1 number 2, the exemptions from the requirement to be tested and to quarantine under paragraph 1 letters c, d, g, h, i and j do not apply. Children under the age of 12 are however exempted from the requirement to be tested.[^8-6]
 
 <sup>2</sup> Paragraph 1 does not apply to persons displaying symptoms of COVID-19, unless the person concerned can provide certified medical evidence that the symptoms have a different cause.
 
@@ -211,9 +217,11 @@ The following persons are also exempted from the requirement to be tested under 
 <sup>4</sup> The competent cantonal authority may in justified cases permit further exceptions from the requirement to be tested and to quarantine or relax certain conditions.
 
 [^8-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^8-2]: Amended by No I of the O of 12 May 2021 (Countries and regions with dangerous virus mutations, more precise details of the testing and quarantine requirement), in force since 17 May 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^8-3]: Inserted by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
-[^8-4]: Inserted by No I of the O of 12 May 2021 (Countries and regions with dangerous virus mutations, more precise details of the testing and quarantine requirement), in force since 17 May 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^8-2]: Amended by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-3]: Inserted by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-4]: Inserted by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-5]: Inserted by No I of the O of 17 Feb 2021 (Exceptions to the Requirement of a Negative Test Result) ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)). Amended by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-6]: Inserted by No I of the O of 12 May 2021 (Countries and regions with dangerous virus mutations, more precise details of the testing and quarantine requirement) ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)). Amended by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 #### Art. 9
 
@@ -253,14 +261,32 @@ The document with the test result must contain the following information:
 
 They may carry the following passengers without these passengers being required to produce a negative test result:
 
-- a. children under twelve years of age;
+- a.[^9a-1] children and young persons under sixteen years of age;
 - b. persons who can provide a medical certificate to prove that they must be transported to Switzerland as a matter of urgency on medical grounds;
 - c. persons who have Swiss citizenship or hold a residence permit issued by Switzerland and who are unable to be tested for Sars-CoV-2 within a reasonable time or at reasonable expense; the persons concerned must sign a declaration confirming the lack of opportunity;
 - d. persons who are using a Swiss airport while in transit without leaving that airport before continuing their journey;
-- e.[^9a-1] persons who can prove that they were infected with Sars-CoV-2 within the six months prior to entering Switzerland and that they have recovered;
+- e.[^9a-2] persons who can prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated and the duration for which the vaccination is valid is regulated in Annex 1*a*;
+- e<sup>bis</sup>.[^9a-3] persons who can prove that they were infected with Sars-CoV-2 and that they have recovered; the duration of the exemption is regulated in Annex 1a;
 - f. persons who can prove that they are unable on medical grounds to provide the nasopharyngeal swab required for the Sars-CoV-2 test.
 
-[^9a-1]: Amended by No I of the O of 12 May 2021 (Countries and regions with dangerous virus mutations, more precise details of the testing and quarantine requirement), in force since 17 May 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+<sup>6</sup> When entering Switzerland from the countries and regions listed in Annex 1 number 2, the exemptions from the requirement to be tested under paragraph 1 letters a, e and e<sup>bis</sup> do not apply. Children under the age of 12 are however exempted from the requirement to be tested.[^9a-4]
+
+[^9a-1]: Amended by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-2]: Amended by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-3]: Inserted by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-4]: Inserted by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+## Section 4*b***** Updating the Annexes
+
+[^sec4b-1]
+
+[^sec4b-1]: Inserted by No I of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+#### Art. 9b
+
+<sup>1</sup> The Federal Department of Home Affairs shall update Annex 1 continuously in consultation with the Federal Department of Justice and Police, the Federal Department of Finance and the Federal Department of Foreign Affairs.
+
+<sup>2</sup> It shall update Annex 1*a* in accordance with the latest scientific knowledge and in consultation with the Federal Commission for Vaccination.
 
 ## Section 5 Checks and Reports by Border Control Authorities
 
@@ -297,13 +323,13 @@ This Ordinance comes into force on 8 February 2021.
 
 Annex 1*[^t-1]*
 
-(Art. 2 para. 2)
+(Art. 2 para. 2, 3 para. 4, 8 para. 1<sup>ter</sup> and 9*b* para. 1)
 
 ## List of countries and regions with an increased risk of infection****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FDHA O of 19 May 2021 ([AS 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Revised by No I of the FDHA O of 27 May 2021, in force since 27 May 2021 ([AS 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)).
+[^t-1]: Amended by No I of the FDHA O of 19 May 2021 ([AS 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Revised by No I of the FDHA O of 27 May 2021 ([AS 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)) and by No II para. 1 of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions (Art. 2 para. 1 let. b–d)
@@ -401,6 +427,30 @@ Regions in Italy:
 
 - – Apulia Region
 - – Campania Region
+
+Annex 1a*[^t-2]*
+
+(Art. 3 para. 3 let. e and f, 8 para. 1 let. h and i, 9*a* para. 5 let. e and e<sup>bis</sup> and 9*b* para. 2)
+
+## Exemptions from the obligation to record contact data, and from the requirements to be tested and to quarantine on entry and to be tested before a departure flight
+
+[^t-2]: Inserted by No II para. 2 of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+### 1 Vaccinated persons
+
+- 1\.1
+
+  Vaccinated persons are persons who have been vaccinated with a vaccine that:
+
+  - a. is authorised in Switzerland and which has been administered in full in accordance with the FOPH recommendations;
+  - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered;
+  - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
+
+- 1\.2 The period during which vaccinated persons are exempted from the obligation to record contact data (Art. 3 para. 3 let. e) and the requirements to be tested and to quarantine on entry (Art. 8 para. 1 let. i) and to be tested before a departure flight (Art. 9*a* para. 5 let. e) shall amount to 6 months from the date of vaccination in full.
+
+### 2 Persons who have recovered
+
+The period during which persons who have are exempted from the obligation to record contact data (Art. 3 para. 3 let. f) and the requirements to be tested and to quarantine on entry (Art. 8 para. 1 let. h) and to be tested before a departure flight (Art. 9*a* para. 5 let. e<sup>bis</sup>) shall amount to 6 months from the 11th day following confirmation of the infection.
 
 Annex 2
 

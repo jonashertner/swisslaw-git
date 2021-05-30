@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-05-27
+version: 2021-05-31
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210527/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210527-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210527/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210531/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210531-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210527/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 27 maggio 2021)
+del 27 gennaio 2021 (Stato 31 maggio 2021) (Stato 31 maggio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -57,11 +57,12 @@ Uno Stato o una regione presentano un rischio elevato di contagio con il SARS-Co
 
 <sup>2</sup> Gli elenchi degli Stati e delle regioni con rischio elevato di contagio sono riportati nell’allegato 1.
 
-<sup>3</sup> Il Dipartimento federale dell’interno (DFI), sentiti il Dipartimento federale di giustizia e polizia (DFGP), il Dipartimento federale delle finanze (DFF) e il Dipartimento federale degli affari esteri (DFAE), aggiorna costantemente l’allegato.
+<sup>3</sup> ... [^2-2]
 
 <sup>4</sup> Le regioni confinanti con la Svizzera con le quali esiste uno stretto scambio economico, sociale e culturale possono essere escluse dagli elenchi di cui al capoverso 2 anche se soddisfanno una delle condizioni di cui al capoverso 1.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^2-2]: Abrogato dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), con effetto dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 ## Sezione 3: Registrazione dei dati di contatto
 
@@ -87,14 +88,21 @@ Sono esentate dagli obblighi di cui ai capoversi 1 e 2 le persone che:
 - a. entrano in Svizzera da regioni confinanti con la Svizzera con le quali esiste uno stretto scambio economico, sociale e culturale;
 - b. nell’ambito della loro attività professionale effettuano il trasporto transfrontaliero di merci o persone;
 - c.[^3-4] entrano in Svizzera unicamente a fini di transito, con l’intenzione e la possibilità di recarsi direttamente in un altro Paese; questa deroga non si applica alle persone che transitano attraverso la Svizzera con un’impresa che trasporta persone secondo l’articolo 4 e che fanno una sosta;
-- d.[^3-5] che transitano attraverso la Svizzera senza alcuna sosta intermedia con un’impresa che trasporta persone secondo l’articolo 4.[^3-6]
+- d.[^3-5] che transitano attraverso la Svizzera senza alcuna sosta intermedia con un’impresa che trasporta persone secondo l’articolo 4;
+- e.[^3-6] sono vaccinate contro il SARS-CoV-2; le persone considerate vaccinate e la durata di validità della vaccinazione sono disciplinate nell’allegato 1*a*;
+- f.[^3-7] sono state contagiate dal SARS-CoV-2 e sono considerate guarite; la durata della deroga è disciplinata nell’allegato 1*a*.[^3-8]
+
+<sup>4</sup> Le deroghe all’obbligo di registrare i dati di contatto di cui al capoverso 3 lettere e e f non si applicano in caso di entrata in Svizzera da Stati o regioni di cui all’allegato 1 numero 2.[^3-9]
 
 [^3-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: La piattaforma per la registrazione dei dati di contatto delle persone in entrata è accessibile all’indirizzo https://swissplf.admin.ch
 [^3-3]: Introdotto dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 [^3-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 [^3-5]: Introdotta dal n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^3-6]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-6]: Introdotta dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^3-7]: Introdotta dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^3-8]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-9]: Introdotto dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 #### Art. 4
 
@@ -193,16 +201,13 @@ Sono esentate dall’obbligo di test e di quarantena di cui all’articolo 7 le 
 - e. hanno soggiornato in uno Stato o in una regione con rischio elevato di contagio per meno di 24 ore come passeggeri in transito;
 - f. entrano in Svizzera esclusivamente per il transito con l’intenzione e la possibilità di recarsi direttamente in un altro Paese;
 - g. rientrano in Svizzera dopo aver partecipato a una manifestazione svoltasi in un Paese o una regione con rischio elevato di contagio, se attestano che per la partecipazione e il soggiorno è stato rispettato un piano di protezione specifico; per partecipazione a una manifestazione si intende segnatamente la partecipazione, generalmente per motivi professionali, a una competizione sportiva, a un evento culturale o a un congresso per professionisti;
-- h.[^8-2] possono provare che, nei sei mesi precedenti l’entrata in Svizzera, sono state contagiate dal SARS-CoV-2 e sono considerate guarite.
+- h.[^8-2] possono provare che sono state vaccinate contro il SARS-CoV-2; le persone considerate vaccinate e la durata di validità della vaccinazione sono disciplinate nell’allegato 1*a*;
+- i.[^8-3] possono provare che sono state contagiate dal SARS-CoV-2 e sono considerate guarite; la durata della deroga è disciplinata nell’allegato 1*a*;
+- j. [^8-4] non hanno ancora compiuto i 16 anni.
 
-<sup>1bis</sup>
+<sup>1bis</sup> Sono esentate dall’obbligo di test di cui all’articolo 7 anche le persone che possono provare mediante un certificato medico che, per motivi medici, non possono sottoporsi allo striscio nasofaringeo necessario per il test per il SARS-CoV-2.[^8-5]
 
-Sono inoltre esentati dall’obbligo di test di cui all’articolo 7:
-
-- a. i bambini sotto i 12 anni;
-- b. le persone che possono provare mediante un attestato medico che, per motivi medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test per il SARS-CoV-2.[^8-3]
-
-<sup>1ter</sup> Le deroghe all’obbligo di quarantena di cui al capoverso 1 lettere c, d, g e h non si applicano in caso di entrata in Svizzera da Stati o regioni di cui all’allegato 1 numero 2.[^8-4]
+<sup>1ter</sup> Le deroghe all’obbligo di test e di quarantena di cui al capoverso 1 lettere c, d, g, h, i e j non si applicano in caso di entrata in Svizzera da Stati o regioni di cui all’allegato 1 numero 2. I bambini sotto i 12 anni sono tuttavia esentati dall’obbligo di test.[^8-6]
 
 <sup>2</sup> Il capoverso 1 non si applica alle persone che presentano sintomi di COVID-19, a meno che non possano attestare con un certificato medico che i sintomi sono riconducibili a altra causa.
 
@@ -211,9 +216,11 @@ Sono inoltre esentati dall’obbligo di test di cui all’articolo 7:
 <sup>4</sup> In casi motivati l’autorità cantonale competente può autorizzare altre deroghe all’obbligo di test e di quarantena oppure concedere agevolazioni.
 
 [^8-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^8-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^8-3]: Introdotto dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
-[^8-4]: Introdotto dal n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-3]: Introdotta dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-4]: Introdotta dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-5]: Introdotto dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test) ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)). Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-6]: Introdotto dal n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena) ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)). Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 #### Art. 9
 
@@ -253,14 +260,32 @@ Sul documento con il risultato del test devono essere riportati i dati seguenti:
 
 Le imprese di trasporto aereo possono trasportare i seguenti passeggeri in assenza di un risultato negativo del test:
 
-- a. bambini sotto i 12 anni;
+- a.[^9a-1] bambini e giovani sotto i 16 anni;
 - b. persone che possono provare mediante un attestato medico che, per motivi medici, devono essere urgentemente trasportate in Svizzera;
 - c. persone che hanno la cittadinanza svizzera o un titolo di soggiorno rilasciato dalla Svizzera e che non hanno la possibilità di sottoporsi al test per il SARS-CoV-2 entro un termine utile o a spese ragionevoli; l’impossibilità di sottoporsi al test deve essere attestata mediante un’autodichiarazione;
 - d. persone in transito in un aeroporto svizzero che non escono dall’area di transito prima di proseguire il viaggio;
-- e.[^9a-1] persone che possono provare che, nei sei mesi precedenti l’entrata in Svizzera, sono state contagiate dal SARS-CoV-2 e sono considerate guarite;
+- e.[^9a-2] persone che possono provare che sono state vaccinate contro il SARS-CoV-2; le persone considerate vaccinate e la durata di validità della vaccinazione sono disciplinate nell’allegato 1*a*;
+- e<sup>bis</sup>.[^9a-3] persone che possono provare che sono state contagiate dal SARS-CoV-2 e sono considerate guarite; la durata della deroga è disciplinata nell’allegato 1*a;*
 - f. persone che possono provare mediante un attestato medico che, per motivi medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test per il SARS-CoV-2.
 
-[^9a-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021 (Stati e regioni con mutazioni più pericolose del virus, precisazioni concernenti l’obbligo di test e di quarantena), in vigore dal 17 mag. 2021 ([RU 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+<sup>6</sup> Le deroghe all’obbligo di test prima della partenza di cui al capoverso 5 lettere a, e ed e<sup>bis</sup> non si applicano in caso di entrata in Svizzera da Stati o regioni di cui all’allegato 1 numero 2. I bambini sotto i 12 anni sono tuttavia esentati dall’obbligo di test.[^9a-4]
+
+[^9a-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-3]: Introdotta dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-4]: Introdotto dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+## Sezione 4 *b*:****Aggiornamento degli allegati
+
+[^sec4a-1]
+
+[^sec4a-1]: Introdotta dal n. I dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+#### Art. 9b
+
+<sup>1</sup> Il Dipartimento federale dell’interno, sentiti il Dipartimento federale di giustizia e polizia, il Dipartimento federale delle finanze e il Dipartimento federale degli affari esteri, aggiorna costantemente l’allegato 1.
+
+<sup>2</sup> Aggiorna l’allegato 1*a* in base alle conoscenze scientifiche attuali e sentita la Commissione federale per le vaccinazioni.
 
 ## Sezione 5: Controlli e notifiche da parte dell’Amministrazione federale delle dogane
 
@@ -297,13 +322,13 @@ La presente ordinanza entra in vigore l’8 febbraio 2021.
 
 Allegato 1*[^t-1]*
 
-(art. 2 cpv. 2)
+(art. 2 cpv. 2, 3 cpv. 4, 8 cpv. 1<sup>ter</sup> e 9*b* cpv. 1)
 
 ## Elenchi degli Stati e delle regioni con rischio elevato di contagio****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 19 mag. 2021 ([RU 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Aggiornato dal n. I dell’O del DFI del 27 mag. 2021, in vigore dal 27 mag. 2021 ([RU 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 19 mag. 2021 ([RU 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Aggiornato dal n. I dell’O del DFI del 27 mag. 2021 ([RU 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)) e dal n. II cpv. 1 dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni (art. 2 cpv. 1 lett. b–d)
@@ -401,6 +426,26 @@ Regioni in Italia:
 
 - – Regione Campania
 - – Regione Puglia
+
+Allegato 1a*[^t-2]*
+
+(art. 3 cpv. 3 lett. e ed f, 8 cpv. 1 lett. h e i, 9*a* cpv. 5 lett. e ed e<sup>bis</sup>, nonché 9*b* cpv. 2)
+
+## Prescrizioni relative alle deroghe all’obbligo di registrare i dati di contatto, all’obbligo di test e di quarantena all’entrata nonché all’obbligo di test prima della partenza
+
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+### 1 Persone vaccinate
+
+- 1\.1 Sono considerate vaccinate le persone che sono state vaccinate con un vaccino che:
+- a. è stato omologato in Svizzera ed è stato somministrato completamente secondo le raccomandazioni dell’UFSP;
+- b. è stato approvato dall’Agenzia europea per i medicinali per l’Unione europea ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
+- c. è stato approvato secondo la «WHO Emergency use listing» ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.
+- 1\.2 Il periodo durante il quale le persone vaccinate sono esentate dall’obbligo di registrare i dati di contatto (art. 3 cpv. 3 lett. e), dall’obbligo di test e di quarantena (art. 8 cpv. 1 lett. i) e dall’obbligo di test prima della partenza (art. 9*a* cpv. 5 lett. e) è di sei mesi a partire dalla vaccinazione completa.
+
+### 2 Persone guarite
+
+Il periodo durante il quale le persone guarite sono esentate dall’obbligo di registrare i dati di contatto (art. 3 cpv. 3 lett. f), dall’obbligo di test e di quarantena (art. 8 cpv. 1 lett. h) e dall’obbligo di test prima della partenza (art. 9*a* cpv. 5 lett. e<sup>bis</sup>) è di sei mesi a partire dall’undicesimo giorno dalla conferma del contagio.
 
 Allegato 2
 

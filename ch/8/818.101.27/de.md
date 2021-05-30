@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-05-27
+version: 2021-05-31
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210527/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210527-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210527/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210531/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210531-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210527/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 27. Mai 2021)
+vom 27. Januar 2021 (Stand am 31. Mai 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -57,11 +57,12 @@ In einem Staat oder Gebiet liegt ein erhöhtes Risiko einer Ansteckung mit Sars-
 
 <sup>2</sup> Die Listen der Staaten oder Gebiete mit erhöhtem Ansteckungsrisiko werden in Anhang 1 aufgeführt.
 
-<sup>3</sup> Das Eidgenössische Departement des Innern (EDI) führt den Anhang nach Rücksprache mit dem Eidgenössischen Justiz- und Polizeidepartement (EJPD), dem Eidgenössischen Finanzdepartement (EFD) und dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) laufend nach.
+<sup>3</sup> ...[^2-2]
 
 <sup>4</sup> Gebiete an der Grenze zur Schweiz, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet, können von der Aufnahme in die Listen nach Absatz 2 ausgenommen werden, auch wenn sie eine der Voraussetzungen nach Absatz 1 erfüllen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^2-2]: Aufgehoben durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), mit Wirkung seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 ## 3. Abschnitt: Erhebung von Kontaktdaten
 
@@ -87,14 +88,21 @@ Ausgenommen von den Pflichten nach den Absätzen 1 und 2 sind Personen, die:
 - a. aus Gebieten an der Grenze zur Schweiz einreisen, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet;
 - b. im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Güter oder Personen befördern;
 - c.[^3-4] lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und der Möglichkeit, direkt in ein anderes Land weiterzureisen; diese Ausnahme gilt nicht für Personen, die mit einem Personenbeförderungsunternehmen nach Artikel 4 durch die Schweiz durchreisen und dabei einen Zwischenhalt einlegen;
-- d.[^3-5] mit einem Personenbeförderungsunternehmen nach Artikel 4 ohne Zwischenhalt durch die Schweiz reisen.[^3-6]
+- d.[^3-5] mit einem Personenbeförderungsunternehmen nach Artikel 4 ohne Zwischenhalt durch die Schweiz reisen;
+- e.[^3-6] gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, und die Dauer, für welche die Impfung gilt, wird in Anhang 1*a* geregelt;
+- f.[^3-7] sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme wird in Anhang 1*a* geregelt.[^3-8]
+
+<sup>4</sup> Bei Einreisen aus Staaten und Gebieten nach Anhang 1 Ziffer 2 sind die Ausnahmen von der Pflicht zur Erhebung der Kontaktdaten nach Absatz 3 Buchstaben e und f nicht anwendbar.[^3-9]
 
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: Die Plattform für die Kontaktdatenerfassung für Reisende ist zugänglich unter https://swissplf.admin.ch
 [^3-3]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
 [^3-5]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^3-6]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-6]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^3-7]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^3-8]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-9]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 #### Art. 4
 
@@ -193,16 +201,13 @@ Von der Test- und Quarantänepflicht nach Artikel 7 ausgenommen sind Personen:
 - e. die sich als Transitpassagiere weniger als 24 Stunden in einem Staat oder Gebiet mit erhöhtem Ansteckungsrisiko aufgehalten haben;
 - f. die lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und der Möglichkeit, direkt in ein anderes Land weiterzureisen;
 - g. die nach der Teilnahme an einer Veranstaltung in einem Staat oder Gebiet mit erhöhtem Ansteckungsrisiko wieder in die Schweiz einreisen, wenn der Nachweis erbracht wird, dass die Teilnahme und der Aufenthalt unter Einhaltung eines spezifischen Schutzkonzepts stattgefunden haben; als Teilnahme an einer Veranstaltung gilt namentlich die in der Regel berufsmässige Teilnahme an einem Sportwettkampf oder Kulturanlass oder an einem Fachkongress für Berufsleute;
-- h.[^8-2] die den Nachweis erbringen, dass sie sich innerhalb der letzten sechs Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als genesen gelten.
+- h.[^8-2] die den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, und die Dauer, für welche die Impfung gilt, wird in Anhang 1*a* geregelt;
+- i.[^8-3] die den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme wird in Anhang 1*a* geregelt;
+- j.[^8-4] unter 16 Jahren.
 
-<sup>1bis</sup>
+<sup>1bis</sup> Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.[^8-5]
 
-Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind:
-
-- a. Kinder unter 12 Jahren;
-- b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.[^8-3]
-
-<sup>1ter</sup> Bei Einreisen aus Staaten und Gebieten nach Anhang 1 Ziffer 2 sind die Ausnahmen von der Pflicht zur Quarantäne nach Absatz 1 Buchstaben c, d, g und h nicht anwendbar.[^8-4]
+<sup>1ter</sup> Bei Einreisen aus Staaten und Gebieten nach Anhang 1 Ziffer 2 sind die Ausnahmen von der Test- und Quarantänepflicht nach Absatz 1 Buchstaben c, d, g, h, i und j nicht anwendbar. Kinder unter 12 Jahren sind jedoch von der Testpflicht ausgenommen.[^8-6]
 
 <sup>2</sup> Auf Personen, die Symptome einer Erkrankung mit Covid-19 aufweisen, ist Absatz 1 nicht anwendbar, es sei denn, die betreffende Person kann mit einem ärztlichen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzuführen sind.
 
@@ -211,9 +216,11 @@ Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind:
 <sup>4</sup> Die zuständige kantonale Behörde kann in begründeten Fällen weitere Ausnahmen von der Test- und Quarantänepflicht bewilligen oder Erleichterungen gewähren.
 
 [^8-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^8-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
-[^8-3]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
-[^8-4]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-4]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-5]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses) ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)). Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^8-6]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht) ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)). Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
 #### Art. 9
 
@@ -221,7 +228,7 @@ Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind:
 
 Wer gemäss dieser Verordnung verpflichtet ist, sich in Einreisequarantäne zu begeben, muss die Einreise innerhalb von zwei Tagen der zuständigen kantonalen Behörde melden und die Anweisungen dieser Behörde befolgen.
 
-## 4*a*. Abschnitt:**** Besondere Pflichten der Luftverkehrsunternehmen
+## 4*a*. Abschnitt: Besondere Pflichten der Luftverkehrsunternehmen
 
 [^sec4a-1]
 
@@ -253,14 +260,32 @@ Das Dokument mit dem Testergebnis muss folgende Angaben enthalten:
 
 Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergebnisses befördern:
 
-- a. Kinder unter zwölf Jahren;
+- a.[^9a-1] Kinder und Jugendliche unter 16 Jahren;
 - b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen dringend in die Schweiz transportiert werden müssen;
 - c. Personen, die das Schweizer Bürgerrecht oder einen von der Schweiz ausgestellten Aufenthaltstitel besitzen und keine Möglichkeit haben, sich innert nützlicher Frist oder mit vernünftigem Aufwand auf Sars-CoV-2 testen zu lassen; die fehlende Möglichkeit muss mit einer Selbstdeklaration bestätigt werden;
 - d. Personen, die auf der Durchreise einen schweizerischen Flughafen nutzen, ohne diesen vor der Weiterreise zu verlassen;
-- e.[^9a-1] Personen, die den Nachweis erbringen, dass sie sich innerhalb der letzten sechs Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als genesen gelten;
+- e.[^9a-2] Personen, die den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, und die Dauer, für welche die Impfung gilt, wird in Anhang 1*a* geregelt;
+- e<sup>bis</sup>.[^9a-3] Personen, die den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme wird in Anhang 1*a* geregelt;
 - f. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.
 
-[^9a-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021 (Staaten und Gebiete mit gefährlicheren Virusmutationen, Präzisierungen bei der Test- und Quarantänepflicht), in Kraft seit 17. Mai 2021 ([AS 2021 276](https://fedlex.data.admin.ch/eli/oc/2021/276)).
+<sup>6</sup> Bei Einreisen aus Staaten und Gebieten nach Anhang 1 Ziffer 2 sind die Ausnahmen von der Testpflicht vor dem Abflug nach Absatz 5 Buchstaben a, e und e<sup>bis</sup> nicht anwendbar. Kinder unter 12 Jahren sind jedoch von der Testpflicht ausgenommen.[^9a-4]
+
+[^9a-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-3]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^9a-4]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+## 4*b*. Abschnitt: Nachführung der Anhänge
+
+[^sec4b-1]
+
+[^sec4b-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+#### Art. 9b
+
+<sup>1</sup> Das Eidgenössische Departement des Innern führt Anhang 1 nach Rücksprache mit dem Eidgenössischen Justiz- und Polizeidepartement, dem Eidgenössischen Finanzdepartement und dem Eidgenössischen Departement für auswärtige Angelegenheiten laufend nach.
+
+<sup>2</sup> Es führt Anhang 1*a* gemäss den aktuellen wissenschaftlichen Erkenntnissen und nach Anhörung der Eidgenössischen Kommission für Impffragen nach.
 
 ## 5. Abschnitt: Kontrollen und Meldungen durch Grenzkontrollbehörden
 
@@ -297,13 +322,13 @@ Diese Verordnung tritt am 8. Februar 2021 in Kraft.
 
 Anhang 1*[^t-1]*
 
-(Art. 2 Abs. 2)
+(Art. 2 Abs. 2, 3 Abs. 4, 8 Abs. 1<sup>ter</sup> und 9*b* Abs. 1)
 
 ## Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Mai 2021 ([AS 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Bereinigt gemäss Ziff. I der V des EDI vom 27. Mai 2021, in Kraft seit 27. Mai 2021 ([AS 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Mai 2021 ([AS 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Bereinigt gemäss Ziff. I der V des EDI vom 27. Mai 2021 ([AS 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)) und Ziff. II Abs. 1 der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete (Art. 2 Abs. 1 Bst. b–d)
@@ -401,6 +426,30 @@ Gebiete in Italien:
 
 - – Region Apulien
 - – Region Kampanien
+
+Anhang 1a*[^t-2]*
+
+(Art. 3 Abs. 3 Bst. e und f, 8 Abs. 1 Bst. h und i, 9*a* Abs. 5 Bst. e und e<sup>bis</sup> sowie 9*b* Abs. 2)
+
+## Vorgaben für die Ausnahmen von der Pflicht zur Erhebung von Kontaktdaten, der Test- und Quarantänepflicht bei der Einreise sowie der Testpflicht vor dem Abflug
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+
+### 1 Geimpfte Personen
+
+- 1\.1
+
+  Als geimpfte Personen gelten Personen, die mit einem Impfstoff geimpft wurden, der:
+
+  - a. über eine Zulassung in der Schweiz verfügt und gemäss den Empfehlungen des BAG vollständig verimpft wurde;
+  - b. über eine Zulassung der Europäischen Arzneimittelagentur für die Europäische Union verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
+  - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
+
+- 1\.2 Die Dauer, während der geimpfte Personen von der Pflicht zur Erhebung von Kontaktdaten (Art. 3 Abs. 3 Bst. e), von der Test- und Quarantänepflicht (Art. 8 Abs. 1 Bst. i) und der Testpflicht vor dem Abflug (Art. 9*a* Abs. 5 Bst. e) ausgenommen sind, beträgt 6 Monate ab der vollständig erfolgten Impfung.
+
+### 2 Genesene Personen
+
+Die Dauer, während der genesene Personen von der Pflicht zur Erhebung von Kontaktdaten (Art. 3 Abs. 3 Bst. f), von der Test- und Quarantänepflicht (Art. 8 Abs. 1 Bst. h) und der Testpflicht vor dem Abflug (Art. 9*a* Abs. 5 Bst. e<sup>bis</sup>) ausgenommen sind, beträgt 6 Monate ab dem 11. Tag nach der Bestätigung der Ansteckung.
 
 Anhang 2
 
