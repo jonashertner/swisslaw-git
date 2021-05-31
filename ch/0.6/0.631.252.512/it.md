@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Convenzione doganale del 14 novembre 1975 concernente il trasporto internazionale di merci con libretti TIR (Convenzione TIR) (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: it
-version: 2021-05-25
+version: 2021-06-01
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210525-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -820,43 +820,43 @@ Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image1.png)
 
 Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image2.png)
 
 Illustrazione n. 2a)
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image3.png)
 
 Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image4.png)
 
 Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image5.png)
 
 Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image6.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image7.png)
 
 Il tetto scorrevole telonato è conforme ai requisiti di cui alle lettere a–c seguenti:
 
@@ -872,7 +872,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image8.png)
 
 ### Descrizione
 
@@ -882,7 +882,7 @@ Illustrazione n. 8
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image9.png)
 
 ### Descrizione
 
@@ -892,19 +892,19 @@ Illustrazione n. 9
 
 Esempio della struttura di un veicolo dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image12.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image15.png)
 
 Allegato 3
 
@@ -995,7 +995,7 @@ Allegato 6*[^t-4]*
 
 ## Note esplicative
 
-[^t-4]: Aggiornato dalle mod. approvate dal CF il 1° ago. 1979 ([RU 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), il 2 giu. 1980 ([RU 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), l’8 lug. 1981 ([RU 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), l’11 ago. 1982 ([RU 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), l’11 apr. 1984 ([RU 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), il 14 ago. 1985 ([RU 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), il 18 dic. 1991 ([RU 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 26 set. 2003 ([RU 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), dalla mod. in vigore dal 12 ago. 2006 ([RU 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), dalle mod. approvate dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) e il 1° lug. 2009 ([RU 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalle mod. dei 3 e 4 feb. 2011 ([RU 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), del 30 set. 2014 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), dalla mod. approvata dal DFF il 1° nov. 2016 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)) e dalla mod. del 30 mar. 2018, in vigore per la Svizzera il 1° lug. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-4]: Aggiornato dalle mod. approvate dal CF il 1° ago. 1979 ([RU 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), il 2 giu. 1980 ([RU 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), l’8 lug. 1981 ([RU 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), l’11 ago. 1982 ([RU 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), l’11 apr. 1984 ([RU 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), il 14 ago. 1985 ([RU 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), il 16 giu. 1986 ([RU 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), il 4 nov. 1987 ([RU 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), il 23 mag. 1990 ([RU 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), il 18 dic. 1991 ([RU 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), il 29 giu. 1994 ([RU 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), il 12 mag. 1995 ([RU 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), dall’AF il 24 set. 1998 ([RU 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); FF **1998** 3293), dal CF l’8 mar. 2002 ([RU 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), il 26 set. 2003 ([RU 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), il 14 set. 2005 ([RU 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), dalla mod. in vigore dal 12 ago. 2006 ([RU 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), dalle mod. approvate dal DFF il 3 ott. 2008 ([RU 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)) e il 1° lug. 2009 ([RU 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), dalla mod. in vigore per la Svizzera dal 1° gen. 2012 ([RU 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), dalle mod. dei 3 e 4 feb. 2011 ([RU 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), del 30 set. 2014 ([RU 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), dalla mod. approvata dal DFF il 1° nov. 2016 ([RU 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), dalla mod. del 30 mar. 2018 ([RU 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) e dalla mod. del 15 ott. 2020, in vigore per la Svizzera dal 1 ° giu. 2021 ([RU 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)).
 
 ### Introduzione
 
@@ -1061,6 +1061,7 @@ Allegato 6*[^t-4]*
 <tr><td>0.42</td><td>Art. 42a</td></tr>
 <tr><td></td><td>Il termine «immediatamente», di cui all’articolo 42*a*, va inteso nel senso che tutte le misure nazionali suscettibili di incidere sull’applicazione della Convenzione TIR e/o sul funzionamento del sistema TIR dovrebbero essere comunicate per scritto alla Commissione di controllo TIR quanto prima e, se possibile, prima della loro entrata in vigore, per consentire a tale commissione di espletare in modo efficace le funzioni di supervisione e adempiere al proprio compito di verificare la conformità delle misure alla convenzione TIR, conformemente all’articolo 42*a* e al proprio mandato, quale stabilito nell’allegato 8 della Convenzione TIR.</td></tr>
 <tr><td>0.45</td><td>Articolo 45 Si raccomanda alle Parti contraenti di abilitare il più grande numero possibile di uffici doganali, all’interno e al confine, alle operazioni TIR.</td></tr>
+<tr><td>0.49</td><td>Articolo 49 Le Parti contraenti possono accordare, conformemente alla loro legislazione nazionale, agevolezze più ampie per l’applicazione delle disposizioni della Convenzione alle persone debitamente autorizzate. Le condizioni imposte dalle autorità competenti nell’accordare tali agevolezze dovrebbero includere almeno l’uso delle tecnologie dell’informazione e della comunicazione per garantire il corretto svolgimento della procedura TIR, l’esenzione dall’obbligo di presentare le merci, il veicolo stradale, l’autotreno, il contenitore e il libretto TIR presso gli uffici doganali di partenza o di destinazione nonché le istruzioni per le persone debitamente autorizzate a svolgere compiti specifici assegnati alle autorità doganali secondo la Convenzione TIR, in particolare la compilazione del libretto TIR, l’apposizione del timbro sul libretto TIR e l’apposizione o la verifica dei sigilli doganali. Le persone debitamente autorizzate a cui sono state accordate agevolezze più ampie dovrebbero introdurre un sistema di conservazione dei dati che consente alle autorità doganali di effettuare controlli efficaci nonché di sorvegliare la procedura ed effettuare controlli casuali. Agevolezze più ampie dovrebbero essere accordate ai titolari di libretti TIR senza pregiudicare l’obbligo di pagamento previsto all’articolo 11 paragrafo 2 della Convenzione.</td></tr>
 </table>
 
 ### 1 Annesso 1
@@ -1121,7 +1122,7 @@ Illustrazione n. 1
 
 Esempio di cerniera e di dispositivo di chiusura doganale per le parte di veicoli provvisti di compartimenti di carico calorifughi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image16.png)
 
 Illustrazione n. 1a
 
@@ -1129,19 +1130,19 @@ Esempio di una cerniera che non ha bisogno di una protezione particolare del per
 
 La cerniera qui riprodotta è conforme alle prescrizioni della seconda frase del paragrafo b) della nota 2.2.1 b). La struttura della piastra e del ponticello rende superflua ogni particolare protezione del perno, dato che i becchetti della piastra risalgono fin dietro le estremità del ponticello. Questi becchetti impediscono che la porta provvista di chiusura doganale possa essere aperta al livello del dispositivo d’arresto senza lasciare tracce visibili anche se il perno non protetto è stato smontato.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image17.png)
 
 Illustrazione n. 2
 
 Veicolo provvisti di copertoni ad anelli scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image18.png)
 
 Illustrazione n. 2a
 
 Esempio di anello di fissazione girevole (modello «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image19.png)
 
 Illustrazione n. 3
 
@@ -1149,7 +1150,7 @@ Esempio di dispositivo di fissazione d’un copertone di veicolo
 
 Il dispositivo riprodotto qui appresso corrisponde alle prescrizioni dell’ultimo capoverso del paragrafo 11a) dell’articolo 3 dell’allegato 2. Esso è pure conforme alle prescrizioni del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image20.png)
 
 Illustrazione n. 4
 
@@ -1157,13 +1158,13 @@ Dispositivo di fissazione d’un copertone
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni della lettera a) del paragrafo 6 dell’articolo 3 dell’allegato 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image21.png)
 
 Illustrazione 5
 
 Esempio di dispositivo di fissazione introdotto dall’interno della porta isolata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image22.png)
 
 Allegato 7*[^t-5]*
 
@@ -1309,13 +1310,13 @@ Parte I – Illustrazione n. 1
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image23.png)
 
 Parte I – Illustrazione n. 2
 
 Copertone costituito da diversi pezzi connessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image24.png)
 
 *Nota*: Le cuciture d’angolo effettuate secondo il metodo esposto nell’illustrazione n. 2a dell’allegato 2 alla presente Convenzione sono pure ammesse.
 
@@ -1323,25 +1324,25 @@ Parte I – Illustrazione n. 3
 
 Copertone costituito da diversi pezzi connessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image25.png)
 
 Parte I – Illustrazione n. 4
 
 Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image26.png)
 
 Parte I – Illustrazione n. 5
 
 Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image27.png)
 
 Illustrazione n. 6
 
 Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image28.png)
 
 Il tetto scorrevole telonato deve essere conforme ai requisiti di cui alle lettera a)–c) seguenti:
 
@@ -1357,7 +1358,7 @@ Illustrazione n. 7
 
 Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image29.png)
 
 ### Descrizione
 
@@ -1367,7 +1368,7 @@ Illustrazione n. 8
 
 Copertone con l’apertura per il caricamento e lo scaricamento
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image30.png)
 
 ### Descrizione
 
@@ -1377,17 +1378,17 @@ Illustrazione n. 9
 
 Esempio della struttura di un contenitore dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image32.png)
 
 Illustrazione n. 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image33.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image34.png)
 
 ### Parte II Procedure per l’ammissione dei contenitori che adempiono le condizioni tecniche della parte I
 
@@ -1455,7 +1456,7 @@ Modello n. I
 
 (testo inglese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image35.png)
 
 Appendice 1 della parte II
 
@@ -1465,7 +1466,7 @@ Modello n. I
 
 (testo francese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image36.png)
 
 Appendice 2 della parte II
 
@@ -1555,7 +1556,7 @@ Dispositivo per fissare il copertone attorno ai montanti d’angolo
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni delle lettera a) del paragrafo 6 dell’articolo 4 della Parte I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/it/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/it/xml/image/image37.png)
 
 Allegato 8*[^t-6]*
 

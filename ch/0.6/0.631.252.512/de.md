@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Zollabkommen vom 14. November 1975 über den internationalen Warentransport mit Carnets TIR (TIR-Abkommen) (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: de
-version: 2021-05-25
+version: 2021-06-01
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210525-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ AS **1978** 1281; BBl **1977** I 1397
 
 Abgeschlossen in Genf am 14. November 1975 Von der Bundesversammlung genehmigt am 27. September 1977[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. Februar 1978 In Kraft getreten für die Schweiz am 3. August 1978
 
-(Stand am 25. Mai 2021)
+(Stand am 1. Juni 2021)
 
 [^t-1]: [AS 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -166,7 +166,7 @@ Carnet TIR-Formulare, die den bürgenden Verbänden von den mit ihnen in Verbind
 
 <sup>6.</sup> Die im Carnet TIR über die Waren enthaltenen Angaben gelten für die Festsetzung der in den Absätzen 1 und 2 genannten Abgaben bis zum Beweise des Gegenteils als richtig.
 
-<sup>7.</sup> …[^8-3]
+<sup>7.</sup> ...[^8-3]
 
 [^8-1]: Fassung gemäss der vom BR am 8. Juni 2012 genehmigten Änd., in Kraft getreten für die Schweiz am 13. Sept. 2012 ([AS 2012 4503](https://fedlex.data.admin.ch/eli/oc/2012/533)).
 [^8-2]: Fassung des zweiten Satzes gemäss der vom BR am 8. März 2002 genehmigten Änd., in Kraft getreten für die Schweiz am 12. Mai 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)).
@@ -806,43 +806,43 @@ Schiebeplanen, Boden, Türen und andere Bestandteile des Laderaums müssen den E
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image1.png)
 
 *Zeichnung 2*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image2.png)
 
 *Zeichnung 2a*
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image3.png)
 
 *Zeichnung* 3
 
 Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image4.png)
 
 *Zeichnung* 4
 
 Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image5.png)
 
 *Zeichnung* 5
 
 Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image6.png)
 
 *Zeichnung* 6
 
 Beispiel eines Schutzdeckenverschlusssystem
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image7.png)
 
 Beschreibung
 
@@ -852,7 +852,7 @@ Dieses Schutzdeckenverschlusssystem kann zugelassen werden unter der Voraussetzu
 
 Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image8.png)
 
 Beschreibung
 
@@ -862,7 +862,7 @@ Diese Befestigung der Schutzdecke an den Fahrzeugen ist annehmbar unter der Vora
 
 Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image9.png)
 
 Beschreibung
 
@@ -872,19 +872,19 @@ Bei diesem Verschlusssystem werden die beiden Ränder an den Öffnungen der Schu
 
 Beispiel einer Konstruktion eines Fahrzeugs mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image10.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image12.png)
 
 *Zeichnung 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image14.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image15.png)
 
 Das Schiebeplanendach muss den Erfordernissen der nachstehenden Buchstaben a) bis c) entsprechen:
 
@@ -982,7 +982,7 @@ Anlage 6[^t-4]
 
 ## Erläuterungen
 
-[^t-4]: Bereinigt gemäss der am 1. Aug. 1979 in Kraft getretenen Änd. ([AS 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), den Änd. genehmigt vom BR am 2. Juni 1980 ([AS 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), am 8. Juli 1981 ([AS 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), am 11. Aug. 1982 ([AS 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), am 11. April 1984 ([AS 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), am 14. Aug. 1985 ([AS 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), am 16. Juni 1986 ([AS 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), am 4. Nov. 1987 ([AS 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), am 23. Mai 1990 ([AS 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), am 18. Dez. 1991 ([AS 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), am 29. Juni 1994 ([AS 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), am 12. Mai 1995 ([AS 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), von der BVers am 27. Juni 1997 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770), vom BR am 8. März 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), am 26. Sept. 2003 ([AS 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), am 14. Sept. 2005 ([AS 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), der am 12. Aug. 2006 in Kraft getretenen Änd. ([AS 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), gemäss der Änd. ge-nehmigt vom EFD am 3. Okt. 2008 ([AS 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), am 1. Juli 2009 ([AS 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), gemäss der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der Änd. vom 3./4. Febr. 2011 ([AS 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), der Änd. genehmigt vom EFD am 30. Sept. 2014 ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), am 1. Nov. 2016 ([AS 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)) und der Änd. vom 30. März 2018, in Kraft getreten für die Schweiz am 1. Juli 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)).
+[^t-4]: Bereinigt gemäss der am 1. Aug. 1979 in Kraft getretenen Änd. ([AS 1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258)), den Änd. genehmigt vom BR am 2. Juni 1980 ([AS 1980 1017](https://fedlex.data.admin.ch/eli/oc/1980/1017_1017_1017)), am 8. Juli 1981 ([AS 1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434)), am 11. Aug. 1982 ([AS 1982 1994](https://fedlex.data.admin.ch/eli/oc/1982/1994_1994_1994)), am 11. April 1984 ([AS 1984 738](https://fedlex.data.admin.ch/eli/oc/1984/738_738_738)), am 14. Aug. 1985 ([AS 1985 1254](https://fedlex.data.admin.ch/eli/oc/1985/1254_1254_1254)), am 16. Juni 1986 ([AS 1986 1395](https://fedlex.data.admin.ch/eli/oc/1986/1395_1395_1395)), am 4. Nov. 1987 ([AS 1988 216](https://fedlex.data.admin.ch/eli/oc/1988/216_216_216)), am 23. Mai 1990 ([AS 1990 1163](https://fedlex.data.admin.ch/eli/oc/1990/1163_1163_1163)), am 18. Dez. 1991 ([AS 1992 86](https://fedlex.data.admin.ch/eli/oc/1992/86_86_86)), am 29. Juni 1994 ([AS 1994 1921](https://fedlex.data.admin.ch/eli/oc/1994/1921_1921_1921)), am 12. Mai 1995 ([AS 1997 881](https://fedlex.data.admin.ch/eli/oc/1997/881_881_881)), von der BVers am 27. Juni 1997 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770), vom BR am 8. März 2002 ([AS 2003 915](https://fedlex.data.admin.ch/eli/oc/2003/165)), am 26. Sept. 2003 ([AS 2004 2421](https://fedlex.data.admin.ch/eli/oc/2004/281)), am 14. Sept. 2005 ([AS 2006 2045](https://fedlex.data.admin.ch/eli/oc/2006/325)), der am 12. Aug. 2006 in Kraft getretenen Änd. ([AS 2007 1345](https://fedlex.data.admin.ch/eli/oc/2007/224)), gemäss der Änd. ge-nehmigt vom EFD am 3. Okt. 2008 ([AS 2009 2507](https://fedlex.data.admin.ch/eli/oc/2009/315)), am 1. Juli 2009 ([AS 2009 4349](https://fedlex.data.admin.ch/eli/oc/2009/532)), gemäss der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der Änd. vom 3./4. Febr. 2011 ([AS 2012 4567](https://fedlex.data.admin.ch/eli/oc/2012/549)), der Änd. genehmigt vom EFD am 30. Sept. 2014 ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), am 1. Nov. 2016 ([AS 2016 5263](https://fedlex.data.admin.ch/eli/oc/2016/830)), der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) und der Änd. vom 15. Okt. 2020, in Kraft getreten für die Schweiz am 1. Juni 2021 ([AS 2021 291](https://fedlex.data.admin.ch/eli/oc/2021/291)).
 
 ### Einleitung
 
@@ -1142,6 +1142,10 @@ Der Ausdruck «umgehend» in Artikel 42*a* bedeutet, dass nationale Massnahmen, 
 ### 0.45 Artikel 45
 
 Den Vertragsparteien wird empfohlen, möglichst viele Zollämter im Landesinneren und an der Grenze zur Abfertigung von Versandverfahren mit Carnets TIR zuzulassen.
+
+### 0.49 Artikel 49
+
+- Die Vertragsparteien können in Übereinstimmung mit den innerstaatlichen Rechtsvorschriften ordnungsgemäss zugelassenen Personen weitergehende Erleichterungen bei der Anwendung der Bestimmungen des Abkommens gewähren. Die von den zuständigen Behörden für die Gewährung dieser Erleichterungen vorgeschriebenen Bedingungen sollten zumindest Folgendes umfassen: die Anwendung von Informations- und Kommunikationstechnologien zur Gewährleistung des ordnungsgemässen Ablaufs des TIR-Verfahrens, die Befreiung von dem Erfordernis, Waren, das Strassenfahrzeug, den Lastzug oder den Behälter des Abgangszollamtes oder des Bestimmungszollamtes mit dem Carnet TIR vorzuführen, sowie Anweisungen für ordnungsgemäss zugelassene Personen zur Durchführung bestimmter Aufgaben, mit denen gemäss dem TIR-Abkommen die Zollbehörden betraut sind, wie insbesondere das Ausfüllen und Abstempeln des Carnet TIR sowie das Anbringen oder Überprüfen von Zollverschlüssen. Ordnungsgemäss zugelassene Personen, denen eine weitergehende Erleichterung gewährt wurde, sollten ein Aufzeichnungssystem einführen, das den Zollbehörden die Durchführung wirksamer Zollkontrollen sowie die Überwachung des Verfahrens und die Durchführung von Zufallskontrollen ermöglicht. Weitergehende Erleichterungen sollten unbeschadet der Haftung der Inhaber von Carnets TIR gemäss Artikel 11 Absatz 2 des Abkommens gewährt werden.
 
 ### 1 Anlage 1
 
@@ -1306,7 +1310,7 @@ Zeichnung 1
 
 Scharniere und Zollverschlusssysteme für Türen von Fahrzeugen mit wärmeisolierten Laderäumen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image16.png)
 
 Zeichnung 1a
 
@@ -1314,19 +1318,19 @@ Beispiel für ein Scharnier, bei dem es nicht erforderlich ist, den Scharnierbol
 
 Das abgebildete Scharnier entspricht der Vorschrift der Nr. 2.2.1 b) Buchstabe b zweiter Satz. Auf eine Sicherung des Scharnierbolzens kann verzichtet werden, weil Scharnierblatt und Scharnierbock so konstruiert sind, dass das Scharnierblatt mit seinem Hinterschnitt hinter die Backen des Scharnierbockes greift. Der Hinterschnitt verhindert, dass die zollamtlich verschlossene Tür auch bei Entfernung des ungesicherten Scharnierbolzens an der Anschlagvorrichtung geöffnet werden kann, ohne sichtbare Spuren zu hinterlassen.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image17.png)
 
 Zeichnung 2
 
 Fahrzeuge mit Schutzdecken und Gleitringen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image18.png)
 
 Zeichnung 2a
 
 Beispiel eines drehbaren Befestigungsringes (Modell «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image19.png)
 
 Zeichnung 3
 
@@ -1334,7 +1338,7 @@ Beispiel einer Vorrichtung zur Befestigung von Schutzdecken
 
 Die abgebildete Vorrichtung entspricht den Vorschriften der Anlage 2 Artikel 3 Absatz 11 Buchstabe a letzter Satz. Sie entspricht auch den Vorschriften der Anlage 2 Artikel 3 Absatz 6.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image20.png)
 
 Zeichnung 4
 
@@ -1342,13 +1346,13 @@ Vorrichtung zur Befestigung einer Schutzdecke
 
 Die abgebildete Vorrichtung entspricht den Vorschriften der Anlage 2 Artikel 3 Absatz 6 Buchstabe a.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image21.png)
 
 Zeichnung 5
 
 Befestigungsvorrichtung, die von der Innenseite der isolierten Tür angebracht wird
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image22.png)
 
 Anlage 7[^t-5]
 
@@ -1485,13 +1489,13 @@ Schutzdecke aus mehreren Stücken
 
 (zusammengenäht)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image23.png)
 
 *Teil I – Zeichnung 2*
 
 Schutzdecke aus mehreren Stücken
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image24.png)
 
 *Teil I – Zeichnung 3*
 
@@ -1499,31 +1503,31 @@ Schutzdecke aus mehreren Stücken
 
 (zusammengeschweisst)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image25.png)
 
 *Teil I – Zeichnung 4*
 
 Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image26.png)
 
 *Teil I – Zeichnung 5*
 
 Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image27.png)
 
 *Zeichnung 6*
 
 Beispiel für ein Schutzdeckenverschlusssystem
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image28.png)
 
 *Zeichnung 7*
 
 Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image29.png)
 
 Das Schiebeplanendach muss den Erfordernissen der nachstehenden Ziffern a) bis c) entsprechen:
 
@@ -1539,7 +1543,7 @@ Diese Befestigung der Schutzdecke an den Fahrzeugen ist annehmbar unter der Vora
 
 Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image30.png)
 
 ### Beschreibung
 
@@ -1549,17 +1553,17 @@ Bei diesem Verschlusssystem werden die beiden Ränder an den Öffnungen der Schu
 
 Beispiel einer Konstruktion eines Behälters mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image32.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image33.png)
 
 *Zeichnung 10*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image34.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image35.png)
 
 ### Teil II Verfahren bei der Zulassung von Behältern, die den technischen Bedingungen des Teils I entsprechen
 
@@ -1627,7 +1631,7 @@ Muster I
 
 (englische Fassung)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image36.png)
 
 Anhang I von Teil II
 
@@ -1637,7 +1641,7 @@ Muster I
 
 (französische Fassung)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image37.png)
 
 Anhang 2 von Teil II
 
@@ -1731,7 +1735,7 @@ Teil III
 
 Die abgebildete Vorrichtung entspricht den Vorschriften des Teils I Artikel 4 Absatz 6 Buchstabe a
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210525/de/xml/image/image38.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20210601/de/xml/image/image38.png)
 
 Anlage 8[^t-6]
 
@@ -1835,11 +1839,11 @@ Der TIR-Sekretär muss Mitglied des Sekretariats der Wirtschaftskommission der V
 
 <sup>(2)</sup> Das Verfahren für die Finanzierung der Tätigkeit der TIR-Kontrollkommission und des TIR-Sekretariats ist vom Verwaltungsausschuss zu genehmigen.
 
-Anlage 9*[^t-7]*
+Anlage 9[^t-7]
 
 ## Zulassung zum TIR-Verfahren
 
-[^t-7]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der vom BR am 21. Dez. 2005 genehmigten Änd. ([AS 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der am 10. Okt. 2013 für die Schweiz in Kraft getretenen Änd. ([AS 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), der vom EFD am 30. Sept. 2014 genehmigten Änd. ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)), der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) und der Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
+[^t-7]: Eingefügt durch die Änd. vom 27. Juni 1997, von der BVers genehmigt am 24. Sept. 1998 ([AS 2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133)[663](https://fedlex.data.admin.ch/eli/oc/2003/132); BBl **1998** 3770). Bereinigt gemäss der vom BR am 21. Dez. 2005 genehmigten Änd. ([AS 2006 1157](https://fedlex.data.admin.ch/eli/oc/2006/209)), der am 1. Jan. 2012 für die Schweiz in Kraft getretenen Änd. ([AS 2012 6925](https://fedlex.data.admin.ch/eli/oc/2012/835)), der am 10. Okt. 2013 für die Schweiz in Kraft getretenen Änd. ([AS 2013 2789](https://fedlex.data.admin.ch/eli/oc/2013/574)), der vom EFD am 30. Sept. 2014 genehmigten Änd. ([AS 2014 4423](https://fedlex.data.admin.ch/eli/oc/2014/731)) und der Änd. vom 30. März 2018 ([AS 2018 3053](https://fedlex.data.admin.ch/eli/oc/2018/485)) und der Änd. vom 6. Febr. 2020, in Kraft getreten für die Schweiz am 25. Mai 2021 ([AS 2021 328](https://fedlex.data.admin.ch/eli/oc/2021/328)).
 
 ### Teil I Ermächtigung der Verbände zur Ausgabe von Carnets TIR und zur Übernahme der Bürgschaft
 
@@ -1963,7 +1967,7 @@ Zu jeder Person, für die von dem zugelassenen Verband ein Zulassungsantrag gest
 
 (6) Die einer internationalen Organisation nach Massgabe der vorstehenden Bestimmungen erteilte Zulassung lässt die Verantwortlichkeiten und Verpflichtungen dieser Organisation nach dem Übereinkommen unberührt.
 
-Anlage 10[^t-8]
+Anlage 10*[^t-8]*
 
 ## Auskünfte der Vertragsparteien an zugelassene Verbände (nach Art. 42*b*) und internationale Organisationen (nach Art. 6 Abs. 2<sup>bis</sup>)
 
@@ -2220,7 +2224,6 @@ Geltungsbereich am 8. Januar 2019**[^t-10]**
 <tr><td>Luxemburg\*</td><td>20. Dezember</td><td>1982</td><td>20. Juni</td><td>1983</td></tr>
 <tr><td>Malta</td><td>18. Februar</td><td>1977 B</td><td>20. März</td><td>1978</td></tr>
 <tr><td>Marokko</td><td>31. März</td><td>1983</td><td>30. September</td><td>1983</td></tr>
-<tr><td>Mazedonien</td><td>2. Dezember</td><td>1993 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Moldau</td><td>26. Mai</td><td>1993 B</td><td>26. November</td><td>1993</td></tr>
 <tr><td>Mongolei</td><td>1. Oktober</td><td>2002 B</td><td>1. April</td><td>2003</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
@@ -2229,6 +2232,7 @@ Geltungsbereich am 8. Januar 2019**[^t-10]**
 <tr><td>Curaçao</td><td>20. Dezember</td><td>1982</td><td>20. Juni</td><td>1983</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>20. Dezember</td><td>1982</td><td>20. Juni</td><td>1983</td></tr>
 <tr><td>Sint Maarten</td><td>20. Dezember</td><td>1982</td><td>20. Juni</td><td>1983</td></tr>
+<tr><td>Nordmazedonien</td><td>2. Dezember</td><td>1993 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>11. Januar</td><td>1980 B</td><td>11. Juli</td><td>1980</td></tr>
 <tr><td>Oman\*</td><td>29. November</td><td>2018 B</td><td>29. Mai</td><td>2019</td></tr>
 <tr><td>Österreich</td><td>13. Mai</td><td>1977</td><td>20. März</td><td>1978</td></tr>
