@@ -4,13 +4,13 @@ number: "811.12"
 title: Vollzugsverordnung zum Gesundheitsgesetz
 short: GesV
 language: de
-version: 2019-09-01
-valid_until: 2021-05-31
-version_adopted: 2019-04-30
+version: 2021-06-01
+valid_until: 2023-09-30
+version_adopted: 2021-03-16
 adopted: 2019-04-30
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.12"
-pdf: "https://bgs.so.ch/api/de/versions/4843/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5082/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4843/pdf_file"
 
 (GesV)
 
-Vom 30.04.2019 (Stand 01.09.2019)
+Vom 30.04.2019 (Stand 01.06.2021)
 
 der Regierungsrat des Kantons Solothurn
 
@@ -314,6 +314,11 @@ beschliesst:
 <sup>2</sup> Die Einnahmen aus der Ersatzabgabe sind zweckgebunden und müssen für die Sicherstellung des Notfalldienstes verwendet werden. Dies beinhaltet auch die Kosten für den administrativen Aufwand im Zusammenhang mit der Organisation des Notfalldienstes.
 
 <sup>3</sup> Personen, die eine Tätigkeit im Bereich des Gesundheitswesens ausüben, und bewilligungspflichtige Einrichtungen des Gesundheitswesens übermitteln den kantonalen Berufsorganisationen auf Anfrage hin umgehend die für die Organisation des Notfalldienstes erforderlichen Daten betreffend Anzahl, Arbeitspensum und Beschäftigungsdauer der von ihnen angestellten Ärzte und Ärztinnen sowie Zahnärzte und Zahnärztinnen.
+
+<sup>4</sup> Folgende Notfalldienstreglemente der kantonalen Berufsverbände, welche in geeigneter Weise öffentlich zugänglich zu machen sind, werden für verbindlich erklärt:
+
+- a) Reglement der Gesellschaft der Ärztinnen und Ärzte des Kantons Solothurn (GAeSO) über den ärztlichen Notfalldienst im Kanton Solothurn (NFDR) in der Fassung vom 4. Juni 2020;
+- b) Reglement der Zahnärztegesellschaft des Kantons Solothurn (SSO-Solothurn) für den organisierten Notfalldienst in der Fassung vom 30. Dezember 2020.
 
 #### § 20
 
