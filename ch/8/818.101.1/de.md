@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2021-03-01
+version: 2021-06-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. März 2021)
+vom 29. April 2015 (Stand am 1. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -832,7 +832,7 @@ Insbesondere folgende Personen können prioritär berücksichtigt werden:
 
 <sup>1</sup>
 
-Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die einer Zielgruppe gemäss der Covid-19-Impfstrategie der Eidgenössischen Kommission für Impffragen (EKIF) und des BAG vom 16. Dezember 2020[^64a-2] und einer der folgenden Personenkategorien angehören:
+Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die einer der folgenden Personenkategorien angehören:[^64a-2]
 
 - a. Personen, die nach Artikel 3 des Bundesgesetzes vom 18. März 1994[^64a-3] über die Krankenversicherung (KVG) versichert sind;
 - b. Personen, die nach dem Militärversicherungsgesetz vom 19. Juni 1992[^64a-4] (MVG) gegen Krankheit versichert sind;
@@ -861,17 +861,22 @@ Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der 
 - b. die Überprüfung des Impfstatus und die Impfanamnese;
 - c. die Überprüfung von Kontraindikationen;
 - d. die Dokumentation;
-- e. die Ausstellung der Impfbescheinigung.
+- e.[^64a-8] die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
+
+<sup>4bis</sup> Der Bund übernimmt für bis zum 30. Juni 2021 durchgeführte Impfungen nach Absatz 1 für jedes durch eine Apothekerin oder einen Apotheker nachträglich ausgestellte Covid-19-Impfzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^64a-9] eine Pauschale von 8.30 Franken. Mit dem Betrag sind sämtliche Leistungen im Zusammenhang mit der Ausstellung des Zertifikats abgegolten.[^64a-10]
 
 <sup>5</sup> Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
 [^64a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64a-2]: Abrufbar unter www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Covid-19-Impfung &gt; Covid-19-Impfstrategie.
+[^64a-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64a-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64a-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64a-6]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme.
 [^64a-7]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64a-8]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-9]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^64a-10]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft vom 1. Juni 2021 bis zum 31. Aug. 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64b
 
@@ -879,7 +884,7 @@ Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der 
 
 <sup>1</sup>
 
-Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jeweils per Ende Februar, April, Juni, August, Oktober und Dezember eine Sammelrechnung für die von ihnen in den vergangenen zwei Monaten durchgeführten Impfungen nach Artikel 64*a* Absatz 1. Die Rechnung muss enthalten:
+Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jeweils per Ende Februar, April, Juni, September und Dezember eine Sammelrechnung für die von ihnen in den vergangenen zwei beziehungsweise drei Monaten durchgeführten Impfungen nach Artikel 64*a* Absatz 1. Die Rechnung muss enthalten:[^64b-2]
 
 - a. die Anzahl der im Rechnungszeitraum durchgeführten Impfungen;
 - b. die Impfpauschale pro durchgeführte Impfung;
@@ -887,7 +892,7 @@ Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jew
 
 <sup>2</sup> Die Rechnung darf nur Leistungen im Zusammenhang mit den Impfungen beinhalten. Die Übermittlung erfolgt elektronisch.
 
-<sup>3</sup> Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton verteilten Impfdosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung nach Artikel 18 KVG[^64b-2] (gemeinsame Einrichtung).
+<sup>3</sup> Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton verteilten Impfdosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung nach Artikel 18 KVG[^64b-3] (gemeinsame Einrichtung).
 
 <sup>4</sup> Die gemeinsame Einrichtung stellt dem BAG für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung zu allen von den Kantonen eingegangenen Rechnungen für Impfungen nach Artikel 64*a* Absatz 1 zu. Das BAG bezahlt der gemeinsamen Einrichtung den Rechnungsbetrag innerhalb von 10 Arbeitstagen nach der Zustellung der Rechnung.
 
@@ -895,8 +900,12 @@ Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jew
 
 <sup>6</sup> Sie stellt dem BAG quartalsweise ihre Verwaltungskosten nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
 
+<sup>7</sup> Für das Verfahren zur Übernahme der Kosten nach Artikel 64*a* Absatz 4<sup>bis</sup> gelten die Absätze 1–6 sinngemäss.[^64b-4]
+
 [^64b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64b-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64b-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64b-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64b-4]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft vom 1. Juni 2021 bis zum 31. Aug. 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64c
 
@@ -914,7 +923,7 @@ Der Bund übernimmt die Kosten von Covid-19-Impfungen, die bei den folgenden Per
 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1:
 
 - a. weder nach Artikel 3 KVG[^64c-2] noch nach dem MVG[^64c-3] gegen Krankheit versichert sind; und
-- b. einer Zielgruppe gemäss der Covid-19-Impfstrategie der EKIF und des BAG vom 16. Dezember 2020[^64c-4] angehören.
+- b.[^64c-4] ...
 
 <sup>3</sup>
 
@@ -940,15 +949,20 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 - d. die Dokumentation;
 - e. die Ausstellung der Impfbescheinigung.
 
+<sup>5bis</sup> Der Bund übernimmt für bis zum 30. Juni 2021 durchgeführte Impfungen nach Absatz 1 für jedes durch eine Arztpraxis nachträglich ausgestellte Covid-19-Impfzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^64c-6] eine Pauschale von 8.30 Franken. Mit dem Betrag sind sämtliche Leistungen im Zusammenhang mit der Ausstellung des Zertifikats abgegolten.[^64c-7]
+
 <sup>6</sup> Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
-<sup>7</sup> Für das Verfahren zur Übernahme der Kosten von Covid-19-Impfungen gilt Artikel 64*b* sinngemäss.
+<sup>7</sup> Für das Verfahren zur Übernahme der Kosten gilt Artikel 64*b* sinngemäss.[^64c-8]
 
 [^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Jan. 2021 bis zum 31. Dez. 2021, Abs. 7 in Kraft vom 4. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64c-4]: Abrufbar unter www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Covid-19-Impfung &gt; Covid-19-Impfstrategie.
+[^64c-4]: Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64c-5]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64c-6]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^64c-7]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft vom 1. Juni 2021 bis zum 31. Aug. 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-8]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 ### 3. Abschnitt: Warenverkehr
 
@@ -1486,14 +1500,14 @@ Folgende Verordnungen werden aufgehoben:
 - 9\. Verordnung vom 17. Juni 1974[^107-9] über Transport und Beisetzung ansteckungsgefährlicher Leichen sowie Transport von Leichen vom und ins Ausland.
 
 [^107-1]: [[AS 2002 3902](https://fedlex.data.admin.ch/eli/oc/2002/602)]
-[^107-2]: [[AS 2005 2137](https://fedlex.data.admin.ch/eli/oc/2005/349), [2007 2941](https://fedlex.data.admin.ch/eli/oc/2007/392), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.9]
-[^107-3]: [[AS 1974 1102](https://fedlex.data.admin.ch/eli/oc/1974/1102_1103_1103), [2003 4837](https://fedlex.data.admin.ch/eli/oc/2003/707)]
+[^107-2]: [[AS 2005 2137](https://fedlex.data.admin.ch/eli/oc/2005/349); [2007 2941](https://fedlex.data.admin.ch/eli/oc/2007/392); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.9]
+[^107-3]: [[AS 1974 1102](https://fedlex.data.admin.ch/eli/oc/1974/1102_1103_1103); [2003 4837](https://fedlex.data.admin.ch/eli/oc/2003/707)]
 [^107-4]: [[AS 2005 6643](https://fedlex.data.admin.ch/eli/oc/2005/818)]
 [^107-5]: [[AS 2003 4839](https://fedlex.data.admin.ch/eli/oc/2003/708), [2009 2805](https://fedlex.data.admin.ch/eli/oc/2009/368)]
 [^107-6]: [[AS 1976 2820](https://fedlex.data.admin.ch/eli/oc/1976/2820_2820_2820)]
-[^107-7]: [[AS 1999 1092](https://fedlex.data.admin.ch/eli/oc/1999/144), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 12, [2003 4841](https://fedlex.data.admin.ch/eli/oc/2003/709), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 10]
-[^107-8]: [[AS 1985 1997](https://fedlex.data.admin.ch/eli/oc/1985/1997_1997_1997), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 83]
-[^107-9]: [[AS 1974 1105](https://fedlex.data.admin.ch/eli/oc/1974/1105_1106_1106), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 12, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 48]
+[^107-7]: [[AS 1999 1092](https://fedlex.data.admin.ch/eli/oc/1999/144); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 12; [2003 4841](https://fedlex.data.admin.ch/eli/oc/2003/709); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 10]
+[^107-8]: [[AS 1985 1997](https://fedlex.data.admin.ch/eli/oc/1985/1997_1997_1997); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 83]
+[^107-9]: [[AS 1974 1105](https://fedlex.data.admin.ch/eli/oc/1974/1105_1106_1106); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 12; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 48]
 
 #### Art. 108
 

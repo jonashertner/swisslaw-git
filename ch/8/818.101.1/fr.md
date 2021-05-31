@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2021-03-01
+version: 2021-06-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 1<sup>er</sup> mars 2021)
+du 29 avril 2015 (Etat le 1<sup>er</sup> juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -836,7 +836,7 @@ En particulier, les personnes suivantes peuvent être considérées en priorité
 
 <sup>1</sup>
 
-La Confédération prend en charge les coûts des vaccinations contre le COVID-19 effectuées par des pharmaciens pour les personnes qui font partie d’un groupe cible au sens de la stratégie de vaccination adoptée le 16 décembre 2020 par la Commission fédérale pour les vaccinations (CFV) et l’OFSP[^64a-2] et font partie dʼune des catégories de personnes suivantes:
+La Confédération prend en charge les coûts des vaccinations contre le COVID-19 effectuées par des pharmaciens pour les personnes qui font partie d’une des catégories de personnes suivantes:[^64a-2]
 
 - a. personnes assurées au sens de l’art. 3 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^64a-3];
 - b. personnes assurées contre les maladies au sens de la loi fédérale du 19 juin 1992 sur lʼassurance militaire (LAM)[^64a-4];
@@ -862,17 +862,22 @@ Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la v
 - b. le contrôle du statut vaccinal et l’anamnèse vaccinale;
 - c. le contrôle des contre-indications;
 - d. la documentation;
-- e. la délivrance de l’attestation de vaccination.
+- e.[^64a-8] la délivrance de l’attestation de vaccination et du certificat de vaccination COVID-19.
+
+<sup>4bis</sup> Pour les vaccinations visées à l’al. 1 effectuées jusqu’au 30 juin 2021, la Confédération prend en charge un montant forfaitaire de 8,30 francs pour chaque certificat de vaccination COVID-19 au sens de l’ordonnance COVID-19 du 4 juin 2021 certificats[^64a-9] établi ultérieurement par un pharmacien. Le montant rémunère toutes les prestations liées à l’établissement du certificat.[^64a-10]
 
 <sup>5</sup> Les pharmaciens ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
 
 [^64a-1]: Introduit par le ch. I de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64a-2]: Consultable sous www.ofsp.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Vaccination contre le COVID-19 &gt; Stratégie de vaccination relative au COVID-19
+[^64a-2]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64a-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur du 4 fév. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64a-6]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins
 [^64a-7]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64a-8]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-9]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^64a-10]: Introduit par le le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 jusqu’au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64b
 
@@ -880,7 +885,7 @@ Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la v
 
 <sup>1</sup>
 
-Pour la fin des mois de février, avril, juin, août, octobre et décembre, les pharmaciens transmettent à l’autorité cantonale compétente une facture groupée pour l’ensemble des vaccinations effectuées au cours des deux mois précédents au titre de l’art. 64*a*, al. 1. La facture doit indiquer:
+Pour la fin des mois de février, avril, juin, août, octobre et décembre, les pharmaciens transmettent à l’autorité cantonale compétente une facture groupée pour l’ensemble des vaccinations effectuées au cours des deux ou trois mois précédents au titre de l’art. 64*a*, al. 1. La facture doit indiquer:[^64b-2]
 
 - a. le nombre de vaccinations effectuées durant la période de facturation;
 - b. le coût forfaitaire par vaccination;
@@ -888,7 +893,7 @@ Pour la fin des mois de février, avril, juin, août, octobre et décembre, les 
 
 <sup>2</sup> La facture ne doit contenir que les prestations liées aux vaccinations. Elle est transmise par voie électronique.
 
-<sup>3</sup> L’autorité cantonale compétente contrôle la plausibilité des factures en fonction des doses de vaccin distribuées dans le canton, vérifie qu’elles sont complètes et les envoie par voie électronique à l’institution commune visée à l’art. 18 LAMal[^64b-2] (institution commune) dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
+<sup>3</sup> L’autorité cantonale compétente contrôle la plausibilité des factures en fonction des doses de vaccin distribuées dans le canton, vérifie qu’elles sont complètes et les envoie par voie électronique à l’institution commune visée à l’art. 18 LAMal[^64b-3] (institution commune) dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
 
 <sup>4</sup> Au plus tard le 20<sup>e</sup> jour ouvrable du mois qui suit la période de décompte, l’institution commune adresse à l’OFSP un décompte de toutes les factures reçues des cantons durant la période en question pour les vaccinations effectuées au titre de l’art. 64*a*, al. 1. L’OFSP règle la facture de l’institution commune dans les 10 jours ouvrables.
 
@@ -896,8 +901,12 @@ Pour la fin des mois de février, avril, juin, août, octobre et décembre, les 
 
 <sup>6</sup> Chaque trimestre, elle facture à l’OFSP les frais d’administration en fonction de la charge de travail effective. Le tarif horaire est de 95 francs; il englobe les charges salariales, les charges sociales et les frais d’infrastructure. Les dépenses liées aux éventuelles révisions ou adaptations de système et aux taux d’intérêt négatifs qui ne sont pas comprises dans les frais d’administration sont remboursées au prix coûtant.
 
+<sup>7</sup> Les al. 1 à 6 s’appliquent par analogie à la procédure de prise en charge des coûts visée à l’art. 64*a*, al. 4<sup>bis</sup>.[^64b-4]
+
 [^64b-1]: Introduit par le ch. I de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64b-2]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64b-4]: Introduit par le le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 jusqu’au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64c
 
@@ -915,7 +924,7 @@ La Confédération prend en charge les coûts des vaccinations contre le COVID-1
 Elle ne prend en charge les coûts visés à l’al. 1 que pour les personnes:
 
 - a. qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal[^64c-2], ni conformément à la LAM[^64c-3], et
-- b. qui font partie d’un groupe cible au sens de la stratégie de vaccination adoptée le 16 décembre 2020[^64c-4] par la CFV et l’OFSP.
+- b.[^64c-4] ...
 
 <sup>3</sup>
 
@@ -941,15 +950,20 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 - d. la documentation;
 - e. la délivrance de l’attestation de vaccination.
 
+<sup>5bis</sup> Pour les vaccinations visées à l’al. 1 effectuées jusqu’au 30 juin 2021, la Confédération prend en charge un montant forfaitaire de 8,30 francs pour chaque certificat de vaccination COVID-19 au sens de l’ordonnance COVID-19 du 4 juin 2021 certificats[^64c-6] établi ultérieurement par un cabinet médical. Le montant rémunère toutes les prestations liées à l’établissement du certificat.[^64c-7]
+
 <sup>6</sup> Les fournisseurs de prestations ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
 
-<sup>7</sup> L’art. 64*b* s’applique par analogie à la procédure pour la prise en charge des coûts des vaccinations contre le COVID-19.
+<sup>7</sup> L’art. 64*b* s’applique par analogie à la procédure de prise en charge des coûts.[^64c-8]
 
 [^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur du 4 janv. 2021 au 31 déc. 2021, al. 7, en vigueur du 4 fév. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64c-4]: Consultable sous www.ofsp.admin.ch &gt; Maladies&gt; Maladies infectieuses : Flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Vaccination contre le COVID-19 &gt; Stratégie de vaccination relative au COVID-19
+[^64c-4]: Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64c-5]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64c-6]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^64c-7]: Introduit par le le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 jusqu’au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-8]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 ### Section 3 Transport de marchandises
 
@@ -1487,14 +1501,14 @@ Les ordonnances suivantes sont abrogées:
 - 9\. ordonnance du 17 juin 1974 sur le transport et la sépulture de cadavres présentant un danger de contagion ainsi que le transport des cadavres en provenance ou à destination de l’étranger[^107-9].
 
 [^107-1]: [[RO 2002 3902](https://fedlex.data.admin.ch/eli/oc/2002/602)]
-[^107-2]: [[RO 2005 2137](https://fedlex.data.admin.ch/eli/oc/2005/349), [2007 2941](https://fedlex.data.admin.ch/eli/oc/2007/392), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.9]
-[^107-3]: [RO **1974** 1102, [2003 4837](https://fedlex.data.admin.ch/eli/oc/2003/707)]
+[^107-2]: [[RO 2005 2137](https://fedlex.data.admin.ch/eli/oc/2005/349); [2007 2941](https://fedlex.data.admin.ch/eli/oc/2007/392); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.9]
+[^107-3]: [RO **1974** 1102; [2003 4837](https://fedlex.data.admin.ch/eli/oc/2003/707)]
 [^107-4]: [[RO 2005 6643](https://fedlex.data.admin.ch/eli/oc/2005/818)]
-[^107-5]: [[RO 2003 4839](https://fedlex.data.admin.ch/eli/oc/2003/708), [2009 2805](https://fedlex.data.admin.ch/eli/oc/2009/368)]
+[^107-5]: [[RO 2003 4839](https://fedlex.data.admin.ch/eli/oc/2003/708); [2009 2805](https://fedlex.data.admin.ch/eli/oc/2009/368)]
 [^107-6]: [[RO 1976 2820](https://fedlex.data.admin.ch/eli/oc/1976/2820_2820_2820)]
-[^107-7]: [[RO 1999 1092](https://fedlex.data.admin.ch/eli/oc/1999/144), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 12, [2003 4841](https://fedlex.data.admin.ch/eli/oc/2003/709), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 10]
-[^107-8]: [[RO 1985 1997](https://fedlex.data.admin.ch/eli/oc/1985/1997_1997_1997), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 83]
-[^107-9]: [[RO 1974 1106](https://fedlex.data.admin.ch/eli/oc/1974/1105_1106_1106), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)annexe ch. 12, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 48]
+[^107-7]: [[RO 1999 1092](https://fedlex.data.admin.ch/eli/oc/1999/144); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 12; [2003 4841](https://fedlex.data.admin.ch/eli/oc/2003/709); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 10]
+[^107-8]: [[RO 1985 1997](https://fedlex.data.admin.ch/eli/oc/1985/1997_1997_1997); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 83]
+[^107-9]: [[RO 1974 1106](https://fedlex.data.admin.ch/eli/oc/1974/1105_1106_1106); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)annexe ch. 12; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 48]
 
 #### Art. 108
 

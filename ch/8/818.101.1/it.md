@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2021-03-01
+version: 2021-06-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° marzo 2021)
+del 29 aprile 2015 (Stato 1° giugno 2021) (Stato 1° giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -832,7 +832,7 @@ Possono essere considerati con priorità in particolare:
 
 <sup>1</sup>
 
-La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate dai farmacisti su persone appartenenti a un gruppo target secondo la strategia di vaccinazione anti-COVID-19 della Commissione federale per le vaccinazioni (CFV) e dell’UFSP del 16 dicembre 2020[^64a-2] e a una delle categorie seguenti:
+La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate dai farmacisti su persone appartenenti a una delle categorie seguenti:[^64a-2]
 
 - a. persone assicurate secondo l’articolo 3 della legge federale del 18 marzo 1994[^64a-3] sull’assicurazione malattie (LAMal);
 - b. persone assicurate contro le malattie secondo la legge federale del 19 giugno 1992[^64a-4] sull’assicurazione militare (LAM);
@@ -851,7 +851,7 @@ I farmacisti devono:
 - b. essere stati incaricati dal Cantone di effettuare vaccinazioni anti-COVID-19; e
 - c. adempiere le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
 
-<sup>3</sup> La Confederazione assume un importo forfettario di 24,50 franchi per ogni vaccinazione effettuata secondo il capoverso 1.[^64a-7]
+<sup>3</sup> La Confederazione assume un importo forfettario di 24.50 franchi per ogni vaccinazione effettuata secondo il capoverso 1.[^64a-7]
 
 <sup>4</sup>
 
@@ -861,17 +861,22 @@ Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni for
 - b. la verifica dello stato vaccinale e l’anamnesi vaccinale;
 - c. la verifica delle controindicazioni;
 - d. la documentazione;
-- e. il rilascio dell’attestato di vaccinazione.
+- e.[^64a-8] il rilascio dell’attestato di vaccinazione e del certificato di vaccinazione COVID-19.
+
+<sup>4bis</sup> Per le vaccinazioni di cui al capoverso 1 effettuate sino al 30 giugno 2021, la Confederazione assume un importo forfettario di 8.30 franchi per ogni certificato di vaccinazione COVID-19 secondo l’ordinanza sui certificati COVID-19 del 4 giugno 2021[^64a-9] rilasciato a posteriori da un farmacista. Con questo importo sono indennizzate tutte le prestazioni fornite in relazione al rilascio del certificato.[^64a-10]
 
 <sup>5</sup> I farmacisti non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
 
 [^64a-1]: Introdotto dal n. I dell’O del 27 gen. 2021, in vigore dal 1° feb. 2021 al 31 dic. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64a-2]: Consultabile su www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Vaccinazione anti-COVID-19 &gt; Strategia di vaccinazione anti-COVID-19
+[^64a-2]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64a-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Nuovo testo giusta il n. I dell’O del 3 feb. 2021, in vigore dal 4 feb. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64a-6]: Consultabile su [www.fphch.org/impfen-und-blutentnahme](https://www.fphch.org/impfen-und-blutentnahme)
 [^64a-7]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64a-8]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-9]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^64a-10]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 al 31 ago. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64b
 
@@ -879,7 +884,7 @@ Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni for
 
 <sup>1</sup>
 
-Alla fine dei mesi di febbraio, aprile, giugno, agosto, ottobre e dicembre, i farmacisti inviano all’autorità cantonale competente una fattura collettiva per le vaccinazioni che hanno effettuato nei due mesi precedenti secondo l’articolo 64*a* capoverso 1. Sulla fattura deve essere indicato:
+Alla fine dei mesi di febbraio, aprile, giugno, settembre e dicembre, i farmacisti inviano all’autorità cantonale competente una fattura collettiva per le vaccinazioni che hanno effettuato nei due o tre mesi precedenti secondo l’articolo 64*a* capoverso 1. Sulla fattura deve essere indicato:[^64b-2]
 
 - a. il numero di vaccinazioni effettuate nel periodo di fatturazione;
 - b. l’importo forfettario per ogni vaccinazione effettuata;
@@ -887,7 +892,7 @@ Alla fine dei mesi di febbraio, aprile, giugno, agosto, ottobre e dicembre, i fa
 
 <sup>2</sup> La fattura può comprendere soltanto le prestazioni fornite in relazione alle vaccinazioni. Deve essere trasmessa per via elettronica.
 
-<sup>3</sup> L’autorità cantonale competente controlla la plausibilità delle fatture in base alle dosi di vaccino distribuite nel Cantone, ne verifica la completezza e la trasmette per via elettronica all’istituzione comune di cui all’articolo 18 LAMal[^64b-2] (istituzione comune) entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
+<sup>3</sup> L’autorità cantonale competente controlla la plausibilità delle fatture in base alle dosi di vaccino distribuite nel Cantone, ne verifica la completezza e la trasmette per via elettronica all’istituzione comune di cui all’articolo 18 LAMal[^64b-3] (istituzione comune) entro il decimo giorno lavorativo del mese successivo al periodo di fatturazione.
 
 <sup>4</sup> L’istituzione comune invia all’UFSP, entro il ventesimo giorno lavorativo del mese successivo al periodo di fatturazione, una fattura per tutte le fatture pervenute dai Cantoni per le vaccinazioni effettuate secondo l’articolo 64*a* capoverso 1. L’UFSP versa all’istituzione comune l’importo fatturato entro 10 giorni lavorativi dal ricevimento della fattura.
 
@@ -895,8 +900,12 @@ Alla fine dei mesi di febbraio, aprile, giugno, agosto, ottobre e dicembre, i fa
 
 <sup>6</sup> L’istituzione comune fattura trimestralmente all’UFSP le spese amministrative in base all’onere effettivo. L’aliquota oraria è di 95 franchi e comprende le spese salariali, le prestazioni sociali e le spese infrastrutturali. Le spese per eventuali revisioni e adeguamenti del sistema e gli interessi negativi non compresi nelle spese amministrative vengono rimborsati in base ai costi effettivi.
 
+<sup>7</sup> Alla procedura per l’assunzione dei costi secondo l’articolo 64*a* capoverso 4<sup>bis</sup> si applicano per analogia i capoversi 1–6.[^64b-4]
+
 [^64b-1]: Introdotto dal n. I dell’O del 27 gen. 2021, in vigore dal 1° feb. 2021 al 31 dic. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64b-2]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64b-4]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 al 31 ago. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64c
 
@@ -913,8 +922,8 @@ La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate sul
 
 Assume i costi soltanto se le persone di cui al capoverso 1:
 
-- a. non sono assicurate contro le malattie né secondo l’articolo 3 LAMal[^64c-2] né secondo la LAM[^64c-3]; e
-- b. appartengono a un gruppo target secondo la strategia di vaccinazione anti-COVID-19 della CFV e dell’UFSP del 16 dicembre 2020[^64c-4].
+- a. non sono assicurate contro le malattie né secondo l’articolo 3 LAMal[^64c-2] né secondo la LAM[^64c-3];
+- b.[^64c-4] ...
 
 <sup>3</sup>
 
@@ -927,8 +936,8 @@ Assume i costi soltanto se i fornitori di prestazioni:
 
 Assume i seguenti importi forfettari per ogni vaccinazione effettuata secondo il capoverso 1:
 
-- a. 14,50 franchi per le vaccinazioni effettuate in centri di vaccinazione, in ospedali o da équipe mobili;
-- b. 24,50 franchi per le vaccinazioni effettuate in studi medici.[^64c-5]
+- a. 14.50 franchi per le vaccinazioni effettuate in centri di vaccinazione, in ospedali o da équipe mobili;
+- b. 24.50 franchi per le vaccinazioni effettuate in studi medici.[^64c-5]
 
 <sup>5</sup>
 
@@ -940,15 +949,20 @@ Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni for
 - d. la documentazione;
 - e. il rilascio dell’attestato di vaccinazione.
 
+<sup>5bis</sup> Per le vaccinazioni di cui al capoverso 1 effettuate sino al 30 giugno 2021, la Confederazione assume un importo forfettario di 8.30 franchi per ogni certificato di vaccinazione COVID-19 secondo l’ordinanza sui certificati COVID-19 del 4 giugno 2021[^64c-6] rilasciato a posteriori da uno studio medico. Con questo importo sono indennizzate tutte le prestazioni fornite in relazione al rilascio del certificato.[^64c-7]
+
 <sup>6</sup> I fornitori di prestazioni non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
 
-<sup>7</sup> Alla procedura per l’assunzione dei costi delle vaccinazioni anti-COVID-19 si applica per analogia l’articolo 64*b*.
+<sup>7</sup> Alla procedura per l’assunzione dei costi si applica per analogia l’articolo 64*b*.[^64c-8]
 
 [^64c-1]: Introdotto dal n. I dell’O del 3 feb. 2021, in vigore dal 4 gen. 2021 al 31 dic. 2021, cpv. 7 in vigore il 4 feb. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64c-4]: Consultabile su www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Vaccinazione anti-COVID-19 &gt; Strategia di vaccinazione anti-COVID-19.
+[^64c-4]: Abrogata dal n. I dell’O del 23 giu. 2021, con effetto dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 [^64c-5]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64c-6]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^64c-7]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 al 31 ago. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-8]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 ### Sezione 3: Trasporto di merci
 
