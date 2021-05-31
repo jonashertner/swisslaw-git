@@ -4,7 +4,7 @@ number: "173.63"
 title: "LOI du 24.06.1996 d'application dans le Canton de Vaud de la loi fédérale du 24 mars 1995 sur l'égalité entre femmes et hommes (LVLEg)"
 short: LVLEg
 language: fr
-version: 2018-02-01
+version: 2021-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.63?id=44f36c78-3945-42e0-a3cb-aef1c60150ae"
 ---
 
@@ -18,33 +18,35 @@ du 24 juin 1996
 
 LE GRAND CONSEIL DU CANTON DE VAUD
 
-vu l'article 4 alinéa 2 de la Constitution fédérale
+vu l'article 4 alinéa 2 de la Constitution fédérale [^ingress-1]
 
-vu la loi fédérale du 24 mars 1995 sur l'égalité entre femmes et hommes (LEg) [^ingress-1]
+vu la loi fédérale du 24 mars 1995 sur l'égalité entre femmes et hommes (LEg) [^ingress-2]
 
-vu l'article 2 de la Constitution cantonale [^ingress-2]
+vu l'article 2 de la Constitution cantonale [^ingress-3]
 
 vu le projet de loi présenté par le Conseil d'Etat
 
 décrète
 
-[^ingress-1]: Loi fédérale du 24.03.1995 sur l’égalité entre femmes et hommes (RS 151.1)
-[^ingress-2]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
+[^ingress-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
+[^ingress-2]: Loi fédérale du 24.03.1995 sur l’égalité entre femmes et hommes (RS 151.1)
+[^ingress-3]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
 
 #### Art. 1
 
 **Autorités compétentes [^t-1]**
 
-<sup>1</sup> Toute action fondée sur l'article 4 alinéa 2 Cst. féd. et/ou la LEg [^1-1] est portée devant l'autorité, administrative ou judiciaire, qui est ou serait appelée à connaître d'un conflit ordinaire de droit du travail entre les mêmes parties.
+<sup>1</sup> Toute action fondée sur l'article 4 alinéa 2 Cst. féd. [^1-1] et/ou la LEg [^1-2] est portée devant l'autorité, administrative ou judiciaire, qui est ou serait appelée à connaître d'un conflit ordinaire de droit du travail entre les mêmes parties.
 
 <sup>2</sup> Dans les rapports de travail de droit privé, lorsque l'action ne comporte aucune conclusion tendant au paiement d'une somme d'argent, la cause est portée devant le tribunal de prud'hommes, indépendamment de la valeur litigieuse.
 
 [^t-1]: Modif. 1 du 17.05.1999: Modification Al. 2; entrée en vigueur au 01.10.2000
-[^1-1]: Loi fédérale du 24.03.1995 sur l’égalité entre femmes et hommes (RS 151.1)
+[^1-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
+[^1-2]: Loi fédérale du 24.03.1995 sur l’égalité entre femmes et hommes (RS 151.1)
 
 #### Art. 2
 
-**Conciliation [^1-2]**
+**Conciliation [^1-3]**
 
 <sup>1</sup> Les juridictions appelées à statuer sur le fond fonctionnent comme autorités de conciliation au sens des articles 197 et suivants du Code [^2-1] .
 
@@ -54,7 +56,7 @@ décrète
 
 <sup>3</sup> …
 
-[^1-2]: Modif. 2 du 16.12.2009: Modification Al. 1; entrée en vigueur au 01.01.2011; Abrogation Al. 3; entrée en vigueur au 01.01.2011 · Modif. 4 du 09.11.2010: Introduction Al. 1bis; entrée en vigueur au 01.01.2011
+[^1-3]: Modif. 2 du 16.12.2009: Modification Al. 1; entrée en vigueur au 01.01.2011; Abrogation Al. 3; entrée en vigueur au 01.01.2011 · Modif. 4 du 09.11.2010: Introduction Al. 1bis; entrée en vigueur au 01.01.2011
 [^2-1]: Code de procédure civile suisse du 19.12.2008 (RS 272)
 
 #### Art. 3
@@ -134,6 +136,22 @@ décrète
 <sup>5</sup> La Commission de contrôle met en place une procédure sécurisée d'interrogation des données en ligne permettant aux services de l'Administration cantonale vaudoise, aux autorités communales ainsi qu'aux autres entités soumises à la législation sur les marchés publics de savoir si une entreprise ou une entité a fait l'objet d'un contrôle et quel en a été le résultat.
 
 [^4b-1]: Modif. 5 du 24.10.2017: Introduction Art. 4c; entrée en vigueur au 01.02.2018
+
+#### Art. 4d
+
+**Vérification de l'analyse de l'égalité des salaires [^4c-1]**
+
+<sup>1</sup> Le Conseil d'État règle les modalités de la vérification de l'analyse de l'égalité des salaires :
+
+- a. du personnel de l'État de Vaud ;
+- b. du personnel des établissements cantonaux de droit public qui occupent un effectif d'au moins 100 travailleurs. Les personnes en apprentissage ne sont pas comptabilisées dans cet effectif.
+
+<sup>2</sup> Les communes règlent les modalités de la vérification de l'analyse de l'égalité des salaires :
+
+- a. de leur personnel lorsque celui-ci comprend un effectif d'au moins 100 travailleurs. Les personnes en apprentissage ne sont pas comptabilisées dans cet effectif ;
+- b. du personnel des établissements communaux et intercommunaux de droit public qui occupent un effectif d'au moins 100 travailleurs. Les personnes en apprentissage ne sont pas comptabilisées dans cet effectif.
+
+[^4c-1]: Modif. 6 du 09.03.2021: Introduction tArt; entrée en vigueur au 01.06.2021; Introduction Al. 1-2; entrée en vigueur au 01.06.2021; Introduction Art. 4d; entrée en vigueur au 01.06.2021
 
 #### Art. 5
 
