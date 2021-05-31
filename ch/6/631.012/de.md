@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 4. April 2007 über Zollerleichterungen für Ware
 short: ZEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: de
-version: 2021-05-01
+version: 2021-06-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210501/de"
 
 (Zollerleichterungsverordnung, ZEV)
 
-vom 4. April 2007 (Stand am 1. Mai 2021)
+vom 4. April 2007 (Stand am 1. Juni 2021)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -409,8 +409,8 @@ Folgende Verordnungen werden aufgehoben:
 - 1\. Zollbegünstigungsverordnung vom 20. September 1999[^28-1];
 - 2\. Verordnung vom 20. Mai 1996[^28-2] über die Rückerstattung von Zöllen auf Futtermitteln für Zoo-, Labor- und andere Tiere.
 
-[^28-1]: [[AS 1999 2474](https://fedlex.data.admin.ch/eli/oc/1999/383), [2004 81](https://fedlex.data.admin.ch/eli/oc/2004/5)[453](https://fedlex.data.admin.ch/eli/oc/2004/33)[1841](https://fedlex.data.admin.ch/eli/oc/2004/219)[2351](https://fedlex.data.admin.ch/eli/oc/2004/275)[2965](https://fedlex.data.admin.ch/eli/oc/2004/366)[3381](https://fedlex.data.admin.ch/eli/oc/2004/434)[4127](https://fedlex.data.admin.ch/eli/oc/2004/607)[4349](https://fedlex.data.admin.ch/eli/oc/2004/655)[4563](https://fedlex.data.admin.ch/eli/oc/2004/695)[4969](https://fedlex.data.admin.ch/eli/oc/2004/749), [2005 501](https://fedlex.data.admin.ch/eli/oc/2005/61)[727](https://fedlex.data.admin.ch/eli/oc/2005/88)[1247](https://fedlex.data.admin.ch/eli/oc/2005/185)[1827](https://fedlex.data.admin.ch/eli/oc/2005/302)[2125](https://fedlex.data.admin.ch/eli/oc/2005/346)[2509](https://fedlex.data.admin.ch/eli/oc/2005/428)[4237](https://fedlex.data.admin.ch/eli/oc/2005/554)[4567](https://fedlex.data.admin.ch/eli/oc/2005/595)[4729](https://fedlex.data.admin.ch/eli/oc/2005/625)[4955](https://fedlex.data.admin.ch/eli/oc/2005/676)[5731](https://fedlex.data.admin.ch/eli/oc/2005/787)[5733](https://fedlex.data.admin.ch/eli/oc/2005/788), [2006 75](https://fedlex.data.admin.ch/eli/oc/2006/16)[217](https://fedlex.data.admin.ch/eli/oc/2006/44)[1073](https://fedlex.data.admin.ch/eli/oc/2006/190)[1257](https://fedlex.data.admin.ch/eli/oc/2006/220)[1431](https://fedlex.data.admin.ch/eli/oc/2006/243)[2405](https://fedlex.data.admin.ch/eli/oc/2006/371)[2407](https://fedlex.data.admin.ch/eli/oc/2006/372)[2859](https://fedlex.data.admin.ch/eli/oc/2006/437)[3245](https://fedlex.data.admin.ch/eli/oc/2006/490)[3923](https://fedlex.data.admin.ch/eli/oc/2006/586)[4129](https://fedlex.data.admin.ch/eli/oc/2006/605)[4543](https://fedlex.data.admin.ch/eli/oc/2006/695)[5349](https://fedlex.data.admin.ch/eli/oc/2006/813)[5705](https://fedlex.data.admin.ch/eli/oc/2006/849), [2007 223](https://fedlex.data.admin.ch/eli/oc/2007/44)[279](https://fedlex.data.admin.ch/eli/oc/2007/56)[485](https://fedlex.data.admin.ch/eli/oc/2007/97)[731](https://fedlex.data.admin.ch/eli/oc/2007/148)[1301](https://fedlex.data.admin.ch/eli/oc/2007/208)]
-[^28-2]: [[AS 1996 2122](https://fedlex.data.admin.ch/eli/oc/1996/2122_2122_2122), [1997 1476](https://fedlex.data.admin.ch/eli/oc/1997/1476_1476_1476), [1999 1068](https://fedlex.data.admin.ch/eli/oc/1999/141)]
+[^28-1]: [[AS 1999 2474](https://fedlex.data.admin.ch/eli/oc/1999/383); [2004 81](https://fedlex.data.admin.ch/eli/oc/2004/5), [453](https://fedlex.data.admin.ch/eli/oc/2004/33), [1841](https://fedlex.data.admin.ch/eli/oc/2004/219), [2351](https://fedlex.data.admin.ch/eli/oc/2004/275), [2965](https://fedlex.data.admin.ch/eli/oc/2004/366), [3381](https://fedlex.data.admin.ch/eli/oc/2004/434), [4127](https://fedlex.data.admin.ch/eli/oc/2004/607), [4349](https://fedlex.data.admin.ch/eli/oc/2004/655), [4563](https://fedlex.data.admin.ch/eli/oc/2004/695), [4969](https://fedlex.data.admin.ch/eli/oc/2004/749); [2005 501](https://fedlex.data.admin.ch/eli/oc/2005/61), [727](https://fedlex.data.admin.ch/eli/oc/2005/88), [1247](https://fedlex.data.admin.ch/eli/oc/2005/185), [1827](https://fedlex.data.admin.ch/eli/oc/2005/302), [2125](https://fedlex.data.admin.ch/eli/oc/2005/346), [2509](https://fedlex.data.admin.ch/eli/oc/2005/428), [4237](https://fedlex.data.admin.ch/eli/oc/2005/554), [4567](https://fedlex.data.admin.ch/eli/oc/2005/595), [4729](https://fedlex.data.admin.ch/eli/oc/2005/625), [4955](https://fedlex.data.admin.ch/eli/oc/2005/676), [5731](https://fedlex.data.admin.ch/eli/oc/2005/787), [5733](https://fedlex.data.admin.ch/eli/oc/2005/788); [2006 75](https://fedlex.data.admin.ch/eli/oc/2006/16), [217](https://fedlex.data.admin.ch/eli/oc/2006/44), [1073](https://fedlex.data.admin.ch/eli/oc/2006/190), [1257](https://fedlex.data.admin.ch/eli/oc/2006/220), [1431](https://fedlex.data.admin.ch/eli/oc/2006/243), [2405](https://fedlex.data.admin.ch/eli/oc/2006/371), [2407](https://fedlex.data.admin.ch/eli/oc/2006/372), [2859](https://fedlex.data.admin.ch/eli/oc/2006/437), [3245](https://fedlex.data.admin.ch/eli/oc/2006/490), [3923](https://fedlex.data.admin.ch/eli/oc/2006/586), [4129](https://fedlex.data.admin.ch/eli/oc/2006/605), [4543](https://fedlex.data.admin.ch/eli/oc/2006/695), [5349](https://fedlex.data.admin.ch/eli/oc/2006/813), [5705](https://fedlex.data.admin.ch/eli/oc/2006/849); [2007 223](https://fedlex.data.admin.ch/eli/oc/2007/44), [279](https://fedlex.data.admin.ch/eli/oc/2007/56), [485](https://fedlex.data.admin.ch/eli/oc/2007/97), [731](https://fedlex.data.admin.ch/eli/oc/2007/148), [1301](https://fedlex.data.admin.ch/eli/oc/2007/208)]
+[^28-2]: [[AS 1996 2122](https://fedlex.data.admin.ch/eli/oc/1996/2122_2122_2122); [1997 1476](https://fedlex.data.admin.ch/eli/oc/1997/1476_1476_1476); [1999 1068](https://fedlex.data.admin.ch/eli/oc/1999/141)]
 
 #### Art. 29
 
@@ -424,7 +424,7 @@ Anhang 1*[^t-1]*
 
 ## Zollerleichterungen je nach Verwendungszweck
 
-[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 4. Dez. 2018 ([AS 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), des EFD vom 9. Aug. 2019 ([AS 2019 2569](https://fedlex.data.admin.ch/eli/oc/2019/475)), der OZD vom 22. Sept. ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), der OZD vom 23. März 2021 ([AS 2021 170](https://fedlex.data.admin.ch/eli/oc/2021/170)) und vom 20. April 2021, in Kraft seit 1. Mai 2021 ([AS 2021 229](https://fedlex.data.admin.ch/eli/oc/2021/229)).
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 4. Dez. 2018 ([AS 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), des EFD vom 9. Aug. 2019 ([AS 2019 2569](https://fedlex.data.admin.ch/eli/oc/2019/475)), der OZD vom 22. Sept. ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), der OZD vom 23. März 2021 ([AS 2021 170](https://fedlex.data.admin.ch/eli/oc/2021/170)), vom 20. April 2021 ([AS 2021 229](https://fedlex.data.admin.ch/eli/oc/2021/229)) und vom 20. Mai 2021, in Kraft seit 1. Juni 2021 ([AS 2021 286](https://fedlex.data.admin.ch/eli/oc/2021/286)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Warenbezeichnung</th><th>Verwendung</th><th>Zollansatz Fr. je 100 kg brutto</th></tr>
@@ -468,10 +468,10 @@ Anhang 1*[^t-1]*
 <tr><td>1008. 10 29</td><td>Buchweizen</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.––</td></tr>
 <tr><td>1008. 29 29</td><td>Hirse</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>frei</td></tr>
 <tr><td>1008. 30 20</td><td>Kanariensaat</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.––</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>3.–</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>3.–</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.50</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.50</td></tr>
 <tr><td>1008. 60 39</td><td>Triticale</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>4.50</td></tr>
-<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>3.–</td></tr>
+<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.50</td></tr>
 <tr><td>1102. 20 10</td><td>Mehl von Mais</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
 <tr><td>1102. 90 51</td><td>Mehl von Reis</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
 <tr><td>1102. 90 61</td><td>Mehl von anderem Getreide</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
