@@ -4,93 +4,151 @@ number: "312.000"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EG StPO
 language: de
-version: 2015-04-26
-corrected: 2018-11-03
-version_adopted: 2015-04-26
+version: 2021-06-01
+version_adopted: 2021-05-09
 adopted: 2009-04-26
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/312.000"
-pdf: "https://ai.clex.ch/api/de/versions/304/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1923/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zur Schweizerischen Strafprozessordnung (EG StPO)
+# Einführungsgesetz zur Schweizerischen Strafprozessordnung
 
-vom 26. April 20091
+(EG StPO)
 
-Die Landsgemeinde des Kantons Appenzell I. Rh., gestützt auf Art. 445 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO) und Art. 20 der Kantonsverfassung vom 24. Wintermonat 1872,
+vom 26.04.2009 (Stand 01.06.2021)
+
+Die Landsgemeinde des Kantons Appenzell I. Rh.,
+
+gestützt auf Art. 445 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO) und Art. 20 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
 #### Art. 1
 
-Die Vorschriften der Strafprozessordnung finden auch auf das kantonale Strafrecht Anwendung der und das eidgenössische Übertretungsstrafrecht Anwendung, sofern das kantonale StPO Recht keine anderslautenden Bestimmungen enthält.
+**Anwendung der StPO**
+
+<sup>1</sup> Die Vorschriften der Strafprozessordnung finden auch auf das kantonale Strafrecht und das eidgenössische Übertretungsstrafrecht Anwendung, sofern das kantonale Recht keine anderslautenden Bestimmungen enthält.
 
 #### Art. 2
 
-Für die Organisation und das allgemeine Verfahrensrecht der Gerichte gilt ergän- Anwendung des zend das kantonale Gerichtsorganisationsgesetz.
+**Anwendung des GOG**
+
+<sup>1</sup> Für die Organisation und das allgemeine Verfahrensrecht der Gerichte gilt ergänzend das kantonale Gerichtsorganisationsgesetz.
 
 #### Art. 3
 
-**GOG**
+**Parlamentarische Immunität**
 
-Mitglieder des Grossen Rates, der Standeskommission und der Gerichte können Parlamentariwegen Äusserungen im Grossen Rat nur strafrechtlich verfolgt werden, wenn zwei sche Immunität Drittel seiner Mitglieder dazu die Ermächtigung erteilen (Art. 7 Abs. 2 lit. a StPO).
-
-Solche Entscheide sind endgültig.
+<sup>1</sup> Mitglieder des Grossen Rates, der Standeskommission und der Gerichte können wegen Äusserungen im Grossen Rat nur strafrechtlich verfolgt werden, wenn zwei Drittel seiner Mitglieder dazu die Ermächtigung erteilen (Art. 7 Abs. 2 lit. a StPO). Solche Entscheide sind endgültig.
 
 #### Art. 4
 
-Strafverfahren gegen Mitglieder der Vollziehungs- und Gerichtsbehörden wegen im Ermächtigungs-Amt begangener Verbrechen und Vergehen dürfen nur mit Ermächtigung der Stan- verfahren deskommission eröffnet werden, welche endgültig entscheidet (Art. 7 Abs. 2 lit. b StPO).
+**Ermächtigungsverfahren**
+
+<sup>1</sup> Strafverfahren gegen Mitglieder der Vollziehungs- und Gerichtsbehörden wegen im Amt begangener Verbrechen und Vergehen dürfen nur mit Ermächtigung der Standeskommission eröffnet werden, welche endgültig entscheidet (Art. 7 Abs. 2 lit. b StPO).
 
 #### Art. 5
 
 **Kantonspolizei**
 
-Die Kantonspolizei erfüllt die Aufgaben der Polizei (Art. 12 lit. a StPO).
+<sup>1</sup> Die Kantonspolizei erfüllt die Aufgaben der Polizei (Art. 12 lit. a StPO).
 
 #### Art. 6
 
-Staatsanwalt- <sup>1</sup>Der Staatsanwalt\* leitet das Vorverfahren, führt die Untersuchung durch und erschaft hebt Anklage und vertritt diese gegebenenfalls (Art. 12 lit. b StPO).
+**Staatsanwaltschaft**
 
-<sup>2</sup> Er kann Untersuchungsbeamte mit Einvernahmen und Beweiserhebungen beauftragen (Art. 142 Abs. 1 und Art. 311 Abs. 1 StPO) sowie die Einvernahmen von Zeugen an Angehörige der Kantonspolizei delegieren (Art. 142 Abs. 2 StPO).
+<sup>1</sup> Der Staatsanwalt[^6-1] leitet das Vorverfahren, führt die Untersuchung durch und erhebt Anklage und vertritt diese gegebenenfalls (Art. 12 lit. b StPO).
+
+<sup>2</sup> Er kann Untersuchungsbeamte mit Einvernahmen (Art. 142 Abs. 1 StPO), Beweiserhebungen (Art. 311 Abs. 1 StPO) und dem Erlass von Strafbefehlen beauftragen sowie die Einvernahmen von Zeugen an Angehörige der Kantonspolizei delegieren (Art. 142 Abs. 2 StPO).
 
 <sup>3</sup> Der Staatsanwalt ist ferner zuständig für die interkantonale und die internationale Rechtshilfe in Strafsachen.
 
+[^6-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
+
 #### Art. 7
 
-Standeskommis- <sup>1</sup>Die Standeskommission wählt den Staatsanwalt und dessen Stellvertreter in der sion erforderlichen Anzahl (Art. 14 Abs. 2 StPO).
+**Standeskommission**
 
-<sup>2</sup> Sie ist Aufsichtsinstanz über die Strafverfolgungsbehörden, enthält sich aber Einwirkungen auf die Gestaltung hängiger Verfahren.
+<sup>1</sup> Die Standeskommission wählt die ordentlichen und ausserordentlichen Staatsanwälte (Art. 14 Abs. 2 StPO).
+
+<sup>2</sup> Sie führt die Aufsicht über die Strafverfolgungsbehörden. Diese umfasst:
+
+- a) die organisatorischen, administrativen und personellen Belange;
+- b) die Abwicklung der Fälle (Geschäftsführung), ausgenommen die Rechtsanwendung im konkreten Einzelfall;
+- c) die Beurteilung von Aufsichtsbeschwerden, soweit die eidgenössischen Strafprozessvorschriften keine andere Zuständigkeit vorsehen.
+
+<sup>3</sup> Sie hat zur Wahrnehmung ihrer Aufgabe ein Einsichts- und Auskunftsrecht, und sie kann Weisungen erteilen. In Verfahrensakten kann sie nur Einsicht nehmen, wenn dies für die Beurteilung einer Aufsichtsbeschwerde erforderlich ist oder das Verfahren rechtskräftig abgeschlossen ist.
+
+#### Art. 7a
+
+**Fachkommission**
+
+<sup>1</sup> Der Grosse Rat wählt eine unabhängige Fachkommission, bestehend aus drei Mitgliedern mit Fachkenntnissen im Straf- und Strafprozessrecht.
+
+<sup>2</sup> Die Kommission führt im Auftrag der Standeskommission fachliche Abklärungen bei den Strafverfolgungsbehörden durch. Der Grosse Rat kann die Standeskommission zur Erteilung solcher Aufträge verpflichten; die Standeskommission berichtet in diesem Fall dem Grossen Rat über die Ergebnisse in geeigneter Form, beispielsweise mittels einer anonymisierten Fassung des Berichts der Fachkommission.
+
+<sup>3</sup> Für die Erfüllung dieser Aufträge steht der Kommission gegenüber den Strafverfolgungsbehörden ein Auskunftsrecht und ein Einsichtsrecht in die Akten zu.
+
+<sup>4</sup> Die Kommission erstattet der Standeskommission jährlich Bericht und kann Anträge stellen. Für aufsichtsrechtliche Massnahmen bleibt die Standeskommission zuständig.
 
 #### Art. 8
 
-Zwangsmass- Ein Einzelrichter des Bezirksgerichts übt die Funktion des Zwangsmassnahmengenahmengericht richts aus (Art. 13 lit. a StPO).
+**Bezirksgericht a) Zwangsmassnahmengericht**
+
+<sup>1</sup> Ein Einzelrichter des Bezirksgerichts übt die Funktion des Zwangsmassnahmengerichts aus (Art. 13 lit. a StPO).
+
+<sup>2</sup> Der Bezirksgerichtspräsident kann bei Bedarf einen Stellvertreter einsetzen.
+
+#### Art. 8a
+
+**b) Präsident**
+
+<sup>1</sup> Der Bezirksgerichtspräsident entscheidet über Einsprachen gegen Strafbefehle (Art. 356 StPO).
 
 #### Art. 9
 
-Bezirksgericht Das Bezirksgericht entscheidet als erstinstanzliches Gericht in Strafsachen (Art. 13 lit. b StPO).
+**c) Gesamtgericht**
+
+<sup>1</sup> Das Bezirksgericht entscheidet als erstinstanzliches Gericht in Strafsachen (Art. 13 lit. b StPO), soweit das kantonale Recht keine Ausnahmen vorsieht.
+
+#### Art. 9a
+
+**Kantonsgericht a) Präsident**
+
+<sup>1</sup> Der Kantonsgerichtspräsident entscheidet über Berufungen gegen Entscheide des Bezirksgerichtspräsidenten (Art. 13 lit. d StPO).
 
 #### Art. 10
 
-Kantonsgericht Die kantonsgerichtliche Kommission für Entscheide in Strafsachen amtet als Bea) Kommission schwerdeinstanz (Art. 13 lit. c StPO).
+**b) Kommission**
+
+<sup>1</sup> Die kantonsgerichtliche Kommission für Entscheide in Strafsachen amtet als Beschwerdeinstanz (Art. 13 lit. c StPO).
 
 #### Art. 11
 
-- b) Abteilung Zivil- Das Kantonsgericht, Abteilung Zivil- und Strafgericht, ist Berufungsgericht (Art. 13 und Strafgericht lit. d StPO).
+**c) Abteilung Zivil- und Strafgericht**
+
+<sup>1</sup> Das Kantonsgericht, Abteilung Zivil- und Strafgericht, ist Berufungsgericht (Art. 13 lit. d StPO), soweit das kantonale Recht keine Ausnahmen vorsieht.
 
 #### Art. 12
 
-Verfahrens- Die Verfahrenssprache ist Deutsch (Art. 67 StPO).
+**Verfahrenssprache**
 
-sprache Art. 13 Belohnungen Die Standeskommission kann auf Antrag des Staatsanwaltes Privaten für die erfolgreiche Mitwirkung bei der Fahndung Belohnungen ausrichten (Art. 211 Abs. 2 StPO).
+<sup>1</sup> Die Verfahrenssprache ist Deutsch (Art. 67 StPO).
+
+#### Art. 13
+
+**Belohnungen**
+
+<sup>1</sup> Die Standeskommission kann auf Antrag des Staatsanwaltes Privaten für die erfolgreiche Mitwirkung bei der Fahndung Belohnungen ausrichten (Art. 211 Abs. 2 StPO).
 
 #### Art. 14
 
 **Meldepflicht für aussergewöhnliche Todesfälle**
 
-Ärzte, Hebammen sowie ihre Hilfspersonen im Sinne von Art. 321 StGB sind verpflichtet, aussergewöhnliche Todesfälle der Strafbehörde zu melden (Art. 253 Abs. 4 StPO).
+<sup>1</sup> Ärzte, Hebammen sowie ihre Hilfspersonen im Sinne von Art. 321 StGB sind verpflichtet, aussergewöhnliche Todesfälle der Strafbehörde zu melden (Art. 253 Abs. 4 StPO).
 
 #### Art. 15
 
@@ -108,43 +166,44 @@ sprache Art. 13 Belohnungen Die Standeskommission kann auf Antrag des Staatsanwa
 
 **Vollzug**
 
-Im Rahmen des Strafvollzuges sind zuständig (Art. 363 Abs. 3 StPO):
+<sup>1</sup> Im Rahmen des Strafvollzuges sind zuständig (Art. 363 Abs. 3 StPO):
 
-- a) die Standeskommission für die Entlassung oder die Aufhebung von Massnahmen einschliesslich eines allfälligen Widerrufes nach Art. 62b, Art. 62c Abs. 1 - 5, Art. 62d, Art. 63a Abs. 1 - 2, Art. 64a Abs. 1, Art. 64b Abs. 1 und Art. 86 - 89 StGB;
-
+- a) die Standeskommission für die Entlassung oder die Aufhebung von Massnahmen einschliesslich eines allfälligen Widerrufes nach Art. 62b, Art. 62c Abs. 1–5, Art. 62d, Art. 63a Abs. 1–2, Art. 64a Abs. 1, Art. 64b Abs. 1 und Art. 86–89 StGB;
 - b) das Justiz-, Polizei- und Militärdepartement für den Straf- und Massnahmenvollzug (Art. 372 StGB) sowie die Durchführung von gemeinnütziger Arbeit (Art. 375 StGB);
-
 - c) die Verfahrensleitung der den Endentscheid fällenden Behörde für Geldstrafen, Bussen, Kosten und Einziehungen (Art. 374 StGB).
 
 #### Art. 17
 
 **Inkasso**
 
-Die Landesbuchhaltung ist kantonale Inkassobehörde (Art. 442 Abs. 3 StPO).
+<sup>1</sup> Die Landesbuchhaltung ist kantonale Inkassobehörde (Art. 442 Abs. 3 StPO).
 
 #### Art. 18
 
-**Der Grosse Rat erlässt eine Verordnung über den Straf- und Massnahmenvollzug**
+**Grosser Rat**
 
-(Art. 439 Abs. 1 StPO).
+<sup>1</sup> Der Grosse Rat erlässt eine Verordnung über den Straf- und Massnahmenvollzug (Art. 439 Abs. 1 StPO).
 
-#### Art. 191
+#### Art. 19
 
-Standeskommis- <sup>1</sup>Die Standeskommission erlässt die für die Anwendung des Strafgesetzbuches und sion dieses Einführungsgesetzes notwendigen Bestimmungen.
+**Standeskommission**
+
+<sup>1</sup> Die Standeskommission erlässt die für die Anwendung des Strafgesetzbuches und dieses Einführungsgesetzes notwendigen Bestimmungen.
 
 <sup>2</sup> Sie schliesst die für den ausserkantonalen Strafen- und Massnahmenvollzug erforderlichen Vereinbarungen ab. Vorbehalten bleibt die Zuständigkeit des Grossen Rates über den Beitritt zu Konkordaten (Art. 27 Abs. 3 Kantonsverfassung).
 
 #### Art. 20
 
-Inkrafttreten Das Gesetz tritt nach Annahme durch die Landsgemeinde auf den gleichen Zeitpunkt wie die Strafprozessordnung\* in Kraft.
+**Inkrafttreten**
+
+<sup>1</sup> Das Gesetz tritt nach Annahme durch die Landsgemeinde auf den gleichen Zeitpunkt wie die Strafprozessordnung[^20-1] in Kraft.
+
+[^20-1]: Inkrafttreten: 1. Januar 2011 (BRB vom 31. März 2010).
 
 #### Art. 21
 
-Aufhebung bis- Mit dem Inkrafttreten dieses Gesetzes werden alle ihm widersprechenden Erlasse herigen Rechts aufgehoben, insbesondere das Gesetz über die Strafprozessordnung vom 27. April 1986 (StPO).
+**Aufhebung bisherigen Rechts**
 
-\*Inkrafttreten: 1. Januar 2011 (BRB vom 31. März 2010).
+<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden alle ihm widersprechenden Erlasse aufgehoben, insbesondere das Gesetz über die Strafprozessordnung vom 27. April 1986 (StPO).
 
-## Weitere Fussnoten
-
-- [1] Mit Revision vom 26. April 2015.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 26. April 2015.
+cGS -
