@@ -4,13 +4,12 @@ number: V F/2
 title: Verordnung zum Gesetz über den Zivilschutz
 short: "Zivilschutzverordnung, ZSVO"
 language: de
-version: 2014-04-01
-valid_until: 2021-05-31
-version_adopted: 2014-03-18
+version: 2021-06-01
+version_adopted: 2021-05-04
 adopted: 2014-03-18
 in_force: 2014-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-F.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1391/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2235/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,17 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1391/pdf_file"
 
 (Zivilschutzverordnung, ZSVO)
 
-Vom 18.03.2014 (Stand 01.04.2014)
+Vom 18.03.2014 (Stand 01.06.2021)
 
 Der Regierungsrat,
 
-gestützt auf Artikel 99 Buchstabe b der Verfassung des Kantons Glarus[^ingress-1], die Artikel 3 Absatz 2, 6 Absatz 2, 7 Absatz 3, 11 Absatz 1, 12 Absatz 1, 14, 15 Absatz 1, 20 des Gesetzes über den Zivilschutz[^ingress-2] sowie Artikel 4 des Bundesgesetzes über den Schutz der Kulturgüter bei bewaffneten Konflikten, Katastrophen und in Notlagen,
+gestützt auf Artikel 99 Buchstabe b der Verfassung des Kantons Glarus[^ingress-1], die Artikel 3 Absatz 2, 6 Absatz 2, 7 Absatz 3, 11 Absatz 1, 12 Absatz 1, 14, 15 Absatz 1, 20 des Gesetzes über den Zivilschutz[^ingress-2] sowie Artikel 4 des Bundesgesetzes über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen (KGSG)[^ingress-3],
 
 verordnet:
 
 [^ingress-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
 [^ingress-2]: GS [V F/1](https://gesetze.gl.ch/data/V-F.1/de)
+[^ingress-3]: SR 520.3
 
 ## 1. Allgemeines
 
@@ -60,46 +60,36 @@ verordnet:
 
 **Gliederung**
 
-<sup>1</sup> Die Zivilschutzorganisation (ZSO) setzt sich aus verschiedenen Formationen (Kompanien, Züge, Gruppen) zusammen, die mit einer der folgenden Aufgaben betraut sind:
+<sup>1</sup> Die Zivilschutzorganisation (Zivilschutz) setzt sich aus verschiedenen Formationen (Kompanien, Züge, Gruppen) zusammen, die mit einer der folgenden Aufgaben betraut sind:
 
-- a. Unterstützung;
-- b. Schutz und Betreuung;
-- c. Führungsunterstützung;
-- d. Versorgung;
-- e. Anlagewartung;
+- a. Führungsunterstützung;
+- b. Schutz, Betreuung und Sanität;
+- c. Technische Hilfe;
+- d. Logistik;
+- e. Infrastrukturwartung;
 - f. Kulturgüterschutz;
-- g. Kommunikation;
-- h. Dammüberwachung;
-- i. Polizeiverstärkung;
-- j. Reserve.
+- g. Care;
+- h. Sicherheit;
+- i. Dammüberwachung;
+- j. Drohnen.
 
-<sup>2</sup> Die Hauptabteilung legt die weiteren Einzelheiten der Organisation fest. Diese sind dem Departement zur Genehmigung zu unterbreiten.
+<sup>2</sup> Die Hauptabteilung legt die weiteren Einzelheiten der Organisation fest, insbesondere erstellt sie Pflichtenhefte für die verschiedenen Funktionen. Diese sind dem Departement zur Genehmigung zu unterbreiten.
 
 #### Art. 5
 
-**Grade**
-
-<sup>1</sup> Der Kommandant der ZSO bekleidet den Grad eines Oberstleutnants, seine Stellvertreter den Grad eines Majors.
-
-<sup>2</sup> Die Hauptabteilung legt die weiteren Dienstgrade und die Bedingungen für die Beförderung in Richtlinien fest. Diese sind dem Departement zur Genehmigung zu unterbreiten.
-
-<sup>3</sup> Die Vornahme der Beförderung kann vom Departement ganz oder teilweise dem Zivilschutzkommandanten übertragen werden.
+**…**
 
 #### Art. 6
 
-**Rekrutierung, Ausbildung**
+**Ausbildung**
 
-<sup>1</sup> Über die Aufnahme von Freiwilligen in die ZSO und die Einteilung in die Formationen entscheidet der Zivilschutzkommandant. Er meldet den Bedarf an Schutzdienstpflichtigen für die verschiedenen Grundfunktionen dem Rekrutierungscenter.
-
-<sup>2</sup> Das Departement legt den Sollbestand der ZSO fest. Wenn dieser erreicht ist, teilt der Zivilschutzkommandant den Überbestand an Schutzdienstpflichtigen in die Personalreserve ein.
-
-<sup>3</sup> Die Hauptabteilung veröffentlicht jährlich bis spätestens 30. November das Ausbildungsprogramm für das kommende Jahr. Dieses enthält insbesondere Art, Datum und Ort der Kurse.
+<sup>1–3</sup> …
 
 <sup>4</sup> Dem Departement wird über die gesetzten Ausbildungsziele sowie deren Erreichung mindestens einmal jährlich Bericht erstattet.
 
-<sup>5</sup> Die Schutzdienstpflichtigen werden in der Regel bis spätestens 30. November des Vorjahres mit einer Dienstvoranzeige über die geplanten Dienstleistungen informiert. Die Zustellung des Aufgebots erfolgt vorbehältlich Artikel 34 Absatz 2 durch die Hauptabteilung mindestens sechs Wochen vor Dienstbeginn.
+<sup>5</sup> Die Schutzdienstpflichtigen werden bis spätestens 31. Januar mit einer Dienstvoranzeige über die im entsprechenden Jahr geplanten Dienstleistungen informiert.
 
-<sup>6</sup> Die Grundausbildung und die Weiterbildungskurse der Schutzdienstpflichtigen werden zusammen mit den Kantonen Luzern, Uri, Schwyz, Obwalden, Nidwalden und Zug durchgeführt. Die Grundausbildung sowie die Weiterbildungs- und Wiederholungskurse dürfen ausserhalb des Kantons erfolgen.
+<sup>6</sup> Ausbildung und Wiederholungskurse der Schutzdienstpflichtigen werden zusammen mit dem Kanton Graubünden sowie im Rahmen der Arbeitsgruppe Ostschweiz (AGO) durchgeführt. Sie dürfen ausserhalb des Kantons erfolgen.
 
 #### Art. 7
 
@@ -107,50 +97,46 @@ verordnet:
 
 <sup>1</sup> Die Kompetenz zum Aufgebot der Schutzdienstpflichtigen in Krisensituationen (Katastrophen, Notlagen, Gewalt unterhalb der Kriegsschwelle sowie bewaffnete Konflikte) richtet sich grundsätzlich nach den Bestimmungen der Bevölkerungsschutzgesetzgebung.
 
-<sup>2</sup> Den Gemeindeführungsorganisationen kommt in Krisensituationen eine selbstständige Aufgebotskompetenz für die Formation der Führungsunterstützung zu. Weitere Mittel der ZSO zur Unterstützung sind von dieser bei der Hauptabteilung bzw. bei der Kantonalen Führungsorganisation zu beantragen.
+<sup>2</sup> Die Gemeindeführungsorganisationen beantragen in Krisensituationen von ihnen benötigte Mittel des Zivilschutzes bei der Hauptabteilung bzw. bei der Kantonalen Führungsorganisation, die entsprechend der Lage den Zivilschutz aufbieten.
 
-<sup>3</sup> Zur Bewältigung von Gross- und Alltagsereignissen sowie für Instandstellungsarbeiten können die Schutzdienstpflichtigen vorbehältlich Artikel 34 Absatz 2 von der Hauptabteilung und in dringlichen Fällen vom Zivilschutzkommandanten aufgeboten werden.
+<sup>3</sup> Zur Bewältigung von Gross- und Alltagsereignissen kann der Zivilschutz von der Hauptabteilung und in dringlichen Fällen vom Zivilschutzkommando aufgeboten werden.
 
-<sup>4</sup> Bei Grossereignissen ist zudem der Einsatzleiter befugt, direkt die Kommandogruppe der ZSO aufzubieten. Über das weitere Vorgehen entscheidet der Zivilschutzkommandant.
+<sup>4</sup> Bei Grossereignissen bestehen folgende weitere Aufgebotskompetenzen:
 
-<sup>5</sup> Die Frist für das Aufgebot und dessen Form richtet sich nach der Art des Ereignisses. Mündliche oder technisch übermittelte Aufgebote sind verbindlich.
+- a. Abteilungsleitung Zivilschutz und Zivilschutzkommando durch die Einsatzleitung über die Kantonale Notrufzentrale;
+- b. Einsatzleitung Care durch die Kantonspolizei über die Kantonale Notrufzentrale unter Mitteilung an Abteilungsleitung Zivilschutz.
 
-<sup>6</sup> Zur Überprüfung der Einsatzbereitschaft und der Funktion der technischen Systeme wird regelmässig durch die Einsatzzentrale der Kantonspolizei ein Probealarm durchgeführt.
+<sup>5</sup> Aufgebot und Einsatz können je nach Art des Ereignisses kurzfristig erfolgen. Mündliche und elektronisch übermittelte Aufgebote sind verbindlich.
+
+<sup>6</sup> Zur Überprüfung der Einsatzbereitschaft und der Funktion der technischen Systeme wird regelmässig durch die Kantonale Notrufzentrale ein Probealarm durchgeführt.
 
 #### Art. 8
 
 **Einsatz zu Gunsten der Gemeinschaft**
 
-<sup>1</sup> Gemeinschaftseinsätze, insbesondere für Behörden, Organisationen oder Vereine können erbracht werden, wenn kumulativ:
+<sup>1</sup> …
 
-- a. die Gesuchsteller ihre Aufgaben mit eigenen Mitteln nicht bewältigen können;
-- b. der Gemeinschaftseinsatz mit dem Zweck und den Aufgaben des Zivilschutzes übereinstimmt und der Anwendung des in der Ausbildung erworbenen Wissens und Könnens dient;
-- c. der Gemeinschaftseinsatz private Unternehmen nicht übermässig konkurrenziert;
-- d. das unterstützte Vorhaben nicht überwiegend dem Ziel der Geldmittelbeschaffung dient.
-
-<sup>2</sup> Das Gesuch ist spätestens bis zum 31. August des Vorjahres einzureichen. Auf verspätet eingereichte Gesuche kann nur in begründeten Ausnahmefällen eingetreten werden.
+<sup>2</sup> Der Veranstalter reicht das Gesuch um einen Einsatz zu Gunsten der Gemeinschaft spätestens ein Jahr vor Beginn des Einsatzes ein. Er hat darzulegen, dass die gesetzlichen Voraussetzungen dafür erfüllt sind. Auf verspätet eingereichte Gesuche kann nur in begründeten Ausnahmefällen eingetreten werden.
 
 <sup>3</sup> Das Departement entscheidet über die Bewilligung von Gemeinschaftseinsätzen bzw. das Aufgebot hierzu. Es werden insbesondere Ort, Zeit und Dauer des Einsatzes, die Anzahl der höchstens zu leistenden Diensttage sowie der Kostenrahmen festgelegt.
 
-<sup>4</sup> Die weiteren erforderlichen Einzelheiten, insbesondere der Abschluss von Versicherungen und die Verteilung der Kosten, werden zwischen der Hauptabteilung und den Gesuchstellern in einer separaten Vereinbarung geregelt. Deren Abschluss bzw. Einhaltung bildet Voraussetzung für die Bewilligung.
+<sup>4</sup> Die weiteren erforderlichen Einzelheiten, insbesondere der Abschluss von ausreichenden Versicherungen und die Verteilung der Kosten, werden zwischen der Hauptabteilung und den Gesuchstellern in einer separaten Vereinbarung geregelt. Deren Abschluss bzw. Einhaltung bildet Voraussetzung für die Bewilligung.
 
-<sup>5</sup> Der Kanton trägt grundsätzlich die Kosten für Sold, Aufgebot, Reise und Unterkunft. Die übrigen Kosten, wie beispielsweise für Verpflegung und Betriebsstoffe, gehen in der Regel zulasten der Gesuchsteller. Ausgenommen von der Kostenteilung sind die Gemeinden.
-
-<sup>6</sup> Die Schutzdienstpflichtigen können umgehend und ohne Kostenfolge abgezogen werden, wenn eine Krisensituation eintritt oder die in der Bewilligung gemachten Auflagen nicht eingehalten werden.
+<sup>5–6</sup> …
 
 #### Art. 9
 
-**Medizinische Beurteilung der Dienstfähigkeit**
+**Medizinische Beurteilung der Schutzdienstfähigkeit**
 
-<sup>1</sup> Die von der Hauptabteilung bestimmten Vertrauensärzte sind auch verantwortlich für die ärztliche Versorgung der Schutzdienstpflichtigen anlässlich der Dienstleistungen gemäss Artikel 15 Buchstabe b der eidgenössischen Verordnung über die medizinische Beurteilung der Schutzdiensttauglichkeit und der Schutzdienstfähigkeit.
+<sup>1</sup> Die Hauptabteilung bestimmt die Vertrauensärzte, die für die medizinische Beurteilung der Schutzdienstfähigkeit zuständig sind.
 
 #### Art. 10
 
-**Störung von Diensten**
+**Widerhandlungen während des Dienstes**
 
-<sup>1</sup> Bei schwerwiegender Störung der Dienstleistung können Schutzdienstpflichtige vom zuständigen Offizier der Zivilschutzformation weggewiesen werden.
+<sup>1</sup> Schutzdienstpflichtige, die während der Dienstleistung den gesetzlichen Bestimmungen der Zivilschutzgesetzgebung zuwiderhandeln, können vom zuständigen Offizier der Zivilschutzformation weggewiesen werden.
 
-<sup>2</sup> Weggewiesene Schutzdienstpflichtige werden zur Nachholung der Dienstleistung aufgeboten.
+<sup>2</sup> …
 
 #### Art. 11
 
@@ -158,17 +144,19 @@ verordnet:
 
 <sup>1</sup> Zivilschutzrelevante Daten können zur Erfüllung der gesetzlichen Aufgaben im Personal-Informationssystem der Armee und bei den Einwohnerkontrollen elektronisch abgerufen werden.
 
+<sup>2</sup> Schutzdienstpflichtige teilen Änderungen ihrer Telefonnummern und Mailadressen innert 14 Tagen der Hauptabteilung mit.
+
 #### Art. 12
 
 **Ausrüstung**
 
-<sup>1</sup> Art und Umfang der selber und vom Bund beschafften Mindestausrüstung der ZSO wird von der Hauptabteilung in einer Liste festgehalten und regelmässig kontrolliert.
+<sup>1</sup> Art und Umfang der selber und vom Bund beschafften Mindestausrüstung des Zivilschutzes wird von der Hauptabteilung in einer Liste festgehalten und regelmässig kontrolliert.
 
 <sup>2</sup> Die Schutzdienstpflichtigen geben die persönliche Ausrüstung bei ihrer Entlassung aus dem Zivilschutz oder beim Wegzug aus dem Kanton wieder ab.
 
 <sup>3</sup> Überzählige Ausrüstung kann verkauft oder, wenn damit unverhältnismässige Aufwendungen verbunden sind, kostenlos weitergegeben oder entsorgt werden.
 
-<sup>4</sup> Die Beschaffung der Ausrüstung erfolgt über das Schweizerische Materialforum für Zivilschutzmaterial.
+<sup>4</sup> …
 
 ## 3. Schutzräume
 
@@ -216,11 +204,11 @@ verordnet:
 
 #### Art. 19
 
-**Kontrolle**
+**Periodische Schutzraumkontrolle**
 
 <sup>1</sup> Die Fachstelle Schutzbauten kontrolliert periodisch, mindestens alle zehn Jahre, die Betriebsbereitschaft und den Unterhalt der bestehenden Schutzräume nach den Vorgaben des Bundes.
 
-<sup>2</sup> Die Frist für die Mängelbehebung beträgt drei Monate und diejenige für die Nachkontrolle durch die Fachstelle Schutzbauten zwei Monate.
+<sup>2</sup> Die Frist für die Mängelbehebung nach der periodisch durchgeführten Kontrolle beträgt drei Monate und diejenige für die Nachkontrolle durch die Fachstelle Schutzbauten zwei Monate.
 
 <sup>3</sup> Das Departement kann die Kontrolle der Schutzräume ganz oder teilweise einem Dienstleister ausserhalb der Verwaltung übertragen.
 
@@ -250,7 +238,11 @@ verordnet:
 
 **Aufhebung**
 
-<sup>1</sup> Die Hauptabteilung entscheidet auf Antrag der Gemeinde gemäss Artikel 29 der eidgenössischen Verordnung über den Zivilschutz über die Aufhebung von Schutzräumen. Werden öffentliche Schutzräume aufgehoben, die den Mindestanforderungen entsprechen, sind allfällige an deren Bau geleistete Kantonsbeiträge zurückzuerstatten, es sei denn, die Aufhebung wurde vom Kanton angeordnet.
+<sup>1</sup> Die Fachstelle Schutzbauten entscheidet auf Antrag der Eigentümerschaft gemäss Artikel 82 der Bundeszivilschutzverordnung[^22-1] über die Aufhebung von Schutzräumen unter der Berücksichtigung der Schutzplatzbilanz.
+
+<sup>2</sup> Werden öffentliche Schutzräume aufgehoben, welche den Mindestanforderungen entsprechen, sind allfällige an deren Bau geleistete Kantonsbeiträge zurückzuerstatten, es sei denn, die Aufhebung wurde vom Kanton angeordnet.
+
+[^22-1]: SR 520.11
 
 ## 4. Schutzanlagen
 
@@ -282,7 +274,7 @@ verordnet:
 
 <sup>1</sup> Begehren um zivilschutzfremde Nutzung der Schutzanlagen des Kantons und der Gemeinden sind an die jeweiligen Eigentümer zu richten.
 
-<sup>2</sup> Die Fachstelle Schutzbauten bzw. die zuständige Verwaltungsbehörde der Gemeinde kann diese insbesondere dann bewilligen, wenn keine Gründe entgegenstehen, wie Eigenbedarf der Zivilschutzorganisation oder der übrigen Partnerorganisationen.
+<sup>2</sup> Die Fachstelle Schutzbauten bzw. die zuständige Verwaltungsbehörde der Gemeinde kann diese insbesondere dann bewilligen, wenn keine überwiegenden Interessen entgegenstehen, insbesondere Eigenbedarf des Zivilschutzes oder der übrigen Partnerorganisationen.
 
 <sup>3</sup> Die Einzelheiten werden mit dem Nutzer in einer Vereinbarung geregelt. Für die Nutzung können Kosten erhoben werden. Diese gehen an die Eigentümerschaft.
 
@@ -314,7 +306,7 @@ verordnet:
 
 **Sicherung der Kulturgüter**
 
-<sup>1</sup> Die Hauptabteilung Kultur ist die für die Sicherung der Kulturgüter zuständige Stelle gemäss Bundesgesetz über den Schutz der Kulturgüter bei bewaffneten Konflikten, Katastrophen und Notlagen.
+<sup>1</sup> Die Hauptabteilung Kultur ist die für die Sicherung der Kulturgüter zuständige Stelle gemäss Bundesgesetz über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen.
 
 <sup>2</sup> Sie erfüllt sämtliche Aufgaben, die dem Kanton übertragen sind und für die keine andere Behörde zuständig ist, insbesondere die
 
@@ -326,7 +318,7 @@ verordnet:
 
 **Kulturgüterschutzformation**
 
-<sup>1</sup> Der Hauptabteilung Kultur stehen für die Erfüllung ihrer Aufgaben die Schutzdienstpflichtigen der Kulturgüterschutzformation der ZSO zur Verfügung.
+<sup>1</sup> Der Hauptabteilung Kultur stehen für die Erfüllung ihrer Aufgaben die Schutzdienstpflichtigen der Kulturgüterschutzformation in Absprache mit der Hauptabteilung Militär und Zivilschutz zur Verfügung.
 
 <sup>2</sup> Sie wirkt bei der Ausbildung der Schutzdienstpflichtigen der Kulturgüterschutzgruppe mit, erstellt für diese Ausbildungsunterlagen und beantragt bei der Hauptabteilung Militär und Zivilschutz die erforderliche Ausrüstung.
 
@@ -346,25 +338,26 @@ verordnet:
 
 <sup>3</sup> Sie kann die Eigentümer- oder Besitzerschaft unbeweglicher oder beweglicher Kulturgüter von nationaler Bedeutung verpflichten, bauliche Massnahmen zu deren Schutz zu treffen oder zu dulden.
 
-## 7. Polizeiverstärkung
+## 7. Formation Sicherheit
 
 #### Art. 34
 
-<sup>1</sup> Zur Unterstützung der Kantonspolizei kann die Polizeiverstärkung für folgende Aufgaben eingesetzt werden:
+<sup>1</sup> Zur Unterstützung der Kantonspolizei kann die Sicherheitsformation für folgende Aufgaben eingesetzt werden:
 
 - a. Zutrittskontrollen und Objektschutz;
 - b. Überwachungen;
 - c. Absperrungen und Umleitungen;
 - d. Verkehrsregelungen;
-- e. Vermisstensuche.
+- e. Vermisstensuche;
+- f. Führungsunterstützung.
 
-<sup>2</sup> Die Kantonspolizei sorgt für die erforderliche Ausrüstung der Polizeiverstärkung und ist zuständig für deren Ausbildung und Aufgebot gemäss den gesetzlichen Bestimmungen zum Zivilschutz sowie die Führung im Einsatz.
+<sup>2</sup> Die Kantonspolizei ergänzt polizeispezifisch die Ausrüstung der Schutzdienstpflichtigen der Sicherheitsformation und unterstützt den Zivilschutz hinsichtlich ihrer Ausbildung.
 
-<sup>3</sup> Abrechnung und Kontrollführung im Zusammenhang mit Ausbildung und Einsatz erfolgen durch die Hauptabteilung.
+<sup>3–4</sup> …
 
-<sup>4</sup> Gesuche für Gemeinschaftseinsätze werden von der Hauptabteilung koordiniert und dem Departement gemäss Artikel 8 zum Entscheid unterbreitet.
+<sup>5</sup> Schutzdienstpflichtige der Sicherheitsformation verrichten ihren Dienst ohne Schusswaffe.
 
-<sup>5</sup> Die Polizeiverstärkung verrichtet ihren Dienst ohne Schusswaffe.
+<sup>6</sup> Schutzdienstpflichtige der Sicherheitsformation haben sich einer Sicherheitsprüfung durch die Kantonspolizei zu unterziehen.
 
 ## 8. Gebührenpflichtige Verwaltungshandlungen
 
@@ -372,27 +365,46 @@ verordnet:
 
 <sup>1</sup> Für Verwaltungshandlungen, die ihren Grund in einem nicht ordnungsgemässen Verhalten des Adressaten haben, werden folgende Gebühren erhoben:
 
-- a. Verwarnungen gemäss Artikel 68 Absatz 5 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz — 70 Franken
-- b. Mahnung wegen verspäteter Abgabe von Material — 70 Franken
-- c. Kontrollen und Nachkontrollen bei Schutzräumen — 100 Franken
+- a. Verwarnungen gemäss Artikel 88 ff. des Bevölkerungs- und Zivilschutzgesetzes[^35-1] — 70 Fr.
+- b. Mahnung wegen verspäteter Abgabe von Material — 70 Fr.
+- c. Kontrollen und Nachkontrollen bei Schutzräumen — 200 Fr.
+- d. Ersatz Dienstbüchlein — 100 Fr.
 
-<sup>2</sup> Im Falle des Verlustes von Material sind die Materialkosten ebenfalls zu ersetzen. Sie werden zu den Gestehungskosten berücksichtigt.
+<sup>2</sup> Im Falle vorsätzlicher und grobfahrlässiger Beschädigung von Material oder dessen Verlust sind die Materialkosten ebenfalls zu ersetzen. Sie werden zu den Gestehungskosten berücksichtigt.
 
-## 9. Pauschalentschädigung an Milizkader
+[^35-1]: SR 520.1
+
+## 9. Entschädigungen
 
 #### Art. 36
 
-<sup>1</sup> An die Milizkader der ZSO werden jährlich folgende Pauschalen ausgerichtet:
+**Pauschalen an Milizkader**
 
-- a. Zivilschutzkommandant Stellvertreter und Kompaniekommandant — 1'200 Franken
-- b. Kompaniekommandant Stellvertreter und Linienverantwortliche — 800 Franken
-- c. Linienverantwortliche Stellvertreter — 400 Franken
-- d. Übrige Offiziere und höhere Unteroffiziere — 100 Franken
+<sup>1</sup> An die Milizkader des Zivilschutzes werden jährlich folgende Pauschalen ausgerichtet:
+
+- a. Kommandant einer Einsatzkompanie — 2400 Fr.
+- b. Kommandant Stellvertreter einer Einsatzkompanie — 2200 Fr.
+- c. Zugführer — 600 Fr.
+- d. Chef Lage — 500 Fr.
+- e. Chef Telematik — 500 Fr.
+- f. Feldweibel — 500 Fr.
+- g. Fourier — 500 Fr.
+- h. Chef Infrastrukturwart — 600 Fr.
+- i. Chef Logistik — 600 Fr.
+- j. Chef Kulturgüterschutz — 600 Fr.
+- k. Chef Care — 600 Fr.
+- l. Chef Drohnen — 600 Fr.
 
 <sup>2</sup> Damit sind alle mit der entsprechenden Funktion zusammenhängenden Aufwendungen abgegolten, die nicht durch Sold oder über die Erwerbsersatzordnung gedeckt sind.
 
 <sup>3</sup> Wird die Funktion während des Jahres aufgenommen oder aufgegeben, erfolgt eine reduzierte Entschädigung.
 
 <sup>4</sup> Bei ungenügenden Leistungen kann der Zivilschutzkommandant die Pauschalentschädigung ganz oder teilweise kürzen.
+
+#### Art. 37
+
+**Spesen**
+
+<sup>1</sup> Die Hauptabteilung regelt die Tarife für die Spesen der Schutzdienstpflichtigen, insbesondere hinsichtlich Verpflegung und Transport, in einem Reglement.
 
 SBE 2014 09
