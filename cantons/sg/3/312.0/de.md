@@ -4,13 +4,13 @@ number: "312.0"
 title: Verordnung über die Ausübung der medizinischen Berufe
 short: VMB
 language: de
-version: 2011-09-01
-valid_until: 2021-05-31
-version_adopted: 2011-06-21
+version: 2021-06-01
+valid_until: 2023-02-28
+version_adopted: 2021-05-11
 adopted: 2011-06-21
 in_force: 2011-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.0"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1555/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3166/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1555/pdf_file"
 
 (VMB)
 
-vom 21.06.2011 (Stand 01.09.2011)
+vom 21.06.2011 (Stand 01.06.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -114,15 +114,15 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Das Gesuch um Erteilung der Bewilligung ist der Vollzugsbehörde einzureichen.
 
-<sup>2</sup> Es enthält:
+<sup>2</sup> Es enthält alle Angaben, die für die Prüfung der Bewilligungsvoraussetzungen benötigt werden.
 
-- a) Angaben über Ausbildung und Berufserfahrung;
-- b) den Nachweis der Erfüllung der fachlichen Voraussetzungen zur Ausübung des Berufs, insbesondere Diplome, Weiterbildungstitel und Anerkennungsbestätigungen;
-- c) einen aktuellen Auszug aus dem Zentralstrafregister oder ein gleichwertiges Dokument des Herkunftsstaates;
-- d) eine aktuelle Bescheinigung der Aufsichtsbehörde am letzten Arbeitsort oder der letzten Arbeitgeberin oder des letzten Arbeitgebers, dass kein Fehlverhalten aktenkundig ist;
-- e) Unterlagen über eine ausreichende Berufshaftpflichtversicherung oder über andere, gleichwertige Sicherheiten.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>3</sup> Die Vollzugsbehörde kann weitere Unterlagen verlangen, wie Nachweise über eine gute gesundheitliche Verfassung und ausreichende Sprachkenntnisse.
+<sup>3</sup> Die Vollzugsbehörde stellt im Internet Gesuchsformulare zur Verfügung, mit denen die regelmässig benötigten Angaben je Medizinalberuf erfragt werden. Sie kann weitere Unterlagen verlangen, insbesondere Nachweise über eine gute gesundheitliche Verfassung und ausreichende Sprachkenntnisse.
 
 #### Art. 8
 
@@ -130,7 +130,7 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Wer eine ausserkantonale oder ausländische Bewilligung zur Berufsausübung besitzt und den Beruf nach Art. 35 des Bundesgesetzes über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG) vom 23. Juni 2006[^8-1] während höchstens 90 Arbeitstagen je Kalenderjahr im Kanton St.Gallen selbständig auszuüben beabsichtigt, erstattet der Volllzugsbehörde rechtzeitig vor Aufnahme der Tätigkeit schriftlich Meldung.
 
-<sup>2</sup> Der Meldung werden die Unterlagen nach Art. 7 Abs. 2 dieses Erlasses beigelegt.
+<sup>2</sup> …
 
 <sup>3</sup> Die Vollzugsbehörde bescheinigt das Vorliegen der Voraussetzungen für die zeitlich begrenzte selbständige Berufsausübung.
 
