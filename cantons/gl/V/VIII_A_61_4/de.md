@@ -4,13 +4,13 @@ number: VIII A/61/4
 title: Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 short: VV Covid-19-Verordnung besondere Lage
 language: de
-version: 2021-01-20
-valid_until: 2021-05-31
-version_adopted: 2021-01-19
+version: 2021-06-01
+valid_until: 2021-06-25
+version_adopted: 2021-06-01
 adopted: 2020-12-22
 in_force: 2021-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.61.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/2217/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2239/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2217/pdf_file"
 
 (VV Covid-19-Verordnung besondere Lage)
 
-Vom 22.12.2020 (Stand 20.01.2021)
+Vom 22.12.2020 (Stand 01.06.2021)
 
 Der Regierungsrat,
 
@@ -68,9 +68,13 @@ erlässt:
 
 #### Art. 5
 
-**Skigebiete**
+**…**
 
-<sup>1</sup> Zuständige kantonale Behörde für die Bewilligung von Skigebieten gemäss Artikel 5c Covid-19-Verordnung besondere Lage ist das Departement Volkswirtschaft und Inneres.
+#### Art. 5a
+
+**Grossveranstaltungen**
+
+<sup>1</sup> Zuständige kantonale Behörde für die Bewilligung von Grossveranstaltungen gemäss Artikel 6a Covid-19-Verordnung besondere Lage sowie für die Bewilligung von Pilotprojekten für Grossveranstaltungen gemäss Artikel 6b<sup>quater</sup> Covid-19-Verordnung besondere Lage ist das Departement Volkswirtschaft und Inneres.
 
 #### Art. 6
 
