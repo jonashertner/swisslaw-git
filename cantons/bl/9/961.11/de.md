@@ -4,13 +4,13 @@ number: "961.11"
 title: Verordnung über die Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 Vo BL
 language: de
-version: 2021-05-25
-valid_until: 2021-05-31
+version: 2021-06-01
+valid_until: 2021-06-20
 version_adopted: 2021-05-25
 adopted: 2020-11-10
 in_force: 2020-11-11
 url: "https://bl.clex.ch/app/de/texts_of_law/961.11"
-pdf: "https://bl.clex.ch/api/de/versions/2994/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2996/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2994/pdf_file"
 
 (Covid-19 Vo BL)
 
-Vom 10.11.2020 (Stand 25.05.2021)
+Vom 10.11.2020 (Stand 01.06.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -84,11 +84,7 @@ beschliesst:
 
 #### § 6a
 
-**Besondere Bestimmungen im Gesundheitsbereich**
-
-<sup>1</sup> In Spitälern gilt ein generelles Besuchsverbot.
-
-<sup>2</sup> Über Ausnahmen entscheidet das Spital.
+**…**
 
 #### § 7
 
