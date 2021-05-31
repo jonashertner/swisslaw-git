@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladi
 short: OSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: fr
-version: 2020-01-01
+version: 2021-06-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20200101/fr"
 
 (Ordonnance sur la surveillance de l’assurance-maladie, OSAMal)
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2020)
+du 18 novembre 2015 (Etat le 1<sup>er</sup> juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -362,15 +362,19 @@ Le produit de la fortune liée sert en premier lieu à couvrir les créances dé
 
 #### Art. 26
 
-**Réduction volontaire des réserves excessives**
+**Réduction volontaire des réserves**[^26-1]
 
-<sup>1</sup> L’assureur peut réduire ses réserves si elles risquent de devenir excessives.
+<sup>1</sup> L’assureur peut réduire ses réserves pour autant que les réserves estimées au sens de l’art. 12, al. 3, pour la fin de l’année civile suivante restent supérieures au niveau minimal visé à l’art. 11, al. 1.
 
 <sup>2</sup> La réduction se déroule sur une ou plusieurs années. L’assureur établit un plan à cet effet. L’autorité de surveillance vérifie chaque année que les conditions pour réduire les réserves sont réunies.
 
-<sup>3</sup> La réduction des réserves s’opère sous la forme d’une compensation octroyée aux assurés. Son montant doit être réparti entre les assurés dans le champ territorial d’activité de l’assureur selon une clé de répartition équitable fixée par l’assureur.
+<sup>3</sup> Le plan de réduction doit prévoir que l’assureur fixe les primes au plus juste; le rapport entre les primes et les coûts attendus doit être uniforme dans l’ensemble du champ territorial d’activité de l’assureur.
 
-<sup>4</sup> L’assureur porte le montant de la compensation en déduction de la prime approuvée par l’autorité de surveillance et l’indique séparément sur la facture de la prime.
+<sup>4</sup> Lorsque la fixation des primes au plus juste au sens de l’al. 3 ne permet pas d’empêcher que les primes entraînent des réserves excessives au sens de l’art. 16, al. 4, let. d, LSAMal, le plan de réduction peut prévoir le versement d’une compensation aux assurés. Son montant doit être réparti entre les assurés dans le champ territorial d’activité de l’assureur selon une clé de répartition équitable fixée par l’assureur.
+
+<sup>5</sup> L’assureur porte le montant de la compensation en déduction de la prime approuvée par l’autorité de surveillance et l’indique séparément sur la facture de la prime.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
 
 #### Art. 27
 
@@ -405,6 +409,25 @@ Les art. 25, 26, 27, al. 1, 2 et 4, et 28 s’appliquent par analogie aux primes
 **Coûts cumulés**
 
 Les coûts cumulés d’un assureur correspondent à l’ensemble de ses coûts sur une année.
+
+#### Art. 30a
+
+**Primes nettement plus élevées**[^30a-1]
+
+<sup>1</sup> Les primes encaissées sont nettement plus élevées que les coûts cumulés si la différence entre le rapport attendu entre les coûts et les primes et le rapport effectif entre les coûts et les primes est supérieure à l’écart-type.
+
+<sup>2</sup> L’écart-type est calculé par assureur et par canton selon la formule fixée dans l’annexe 1.
+
+[^30a-1]: Introduit par le ch. I de l’O du 14 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+
+#### Art. 30b
+
+**Effectif déterminant pour la compensation des primes encaissées en trop**[^30b-1]
+
+L’assureur peut compenser les primes encaissées en trop dans un canton dès lors que l’effectif de ses assurés dans ce canton est supérieur à l’effectif très peu important au sens de l’art. 91, al. 1, OAMal[^30b-2].
+
+[^30b-1]: Introduit par le ch. I de l’O du 14 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+[^30b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 #### Art. 31
 
@@ -640,17 +663,18 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 **Rapport de gestion**
 
-<sup>1</sup> Le rapport de gestion doit être établi conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes dans leur version du 10 décembre 2014[^50-1] (dispositions RPC). Il se compose du rapport annuel et des comptes annuels (bilan, compte de résultats, tableau des flux de trésorerie, état du capital propre et annexe).
+<sup>1</sup> Le rapport de gestion doit être établi conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes[^50-1] (dispositions RPC). Il se compose du rapport annuel et des comptes annuels (bilan, compte de résultats, tableau des flux de trésorerie, état du capital propre et annexe). L’OFSP définit la version applicable des dispositions RPC.[^50-2]
 
 <sup>2</sup> L’OFSP peut fixer des exigences particulières supplémentaires. S’il en fixe, l’assureur décide s’il applique les dispositions RPC ou les dispositions RPC complétées par les exigences particulières.
 
-<sup>3</sup> Les données principales par branche d’assurance au sens de l’art. 1*a*, al. 1, LAMal[^50-2] et les chiffres visés à l’art. 28*b* OAMal[^50-3] doivent être mentionnés dans le rapport de gestion.
+<sup>3</sup> Les données principales par branche d’assurance au sens de l’art. 1*a*, al. 1, LAMal[^50-3] et les chiffres visés à l’art. 28*b* OAMal[^50-4] doivent être mentionnés dans le rapport de gestion.
 
 <sup>4</sup> L’assureur doit publier le rapport de gestion au plus tard le 30 juin de l’année suivant la fin de l’exercice.
 
-[^50-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich (www.verlagskv.ch).
-[^50-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^50-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^50-1]: Les recommandations peuvent être consultées gratuitement ou obtenues contre paiement auprès des Éditions SKV, Hans-Huber-Strasse 4, 8002 Zurich; www.verlagskv.ch.
+[^50-2]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)):
+[^50-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^50-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 #### Art. 51
 
@@ -882,7 +906,7 @@ L’autorité de surveillance met les informations suivantes à la disposition d
 
 **Modification d’autres actes**
 
-La modification d’autres actes est réglée en annexe.
+La modification d’autres actes est réglée en annexe 2.
 
 #### Art. 73
 
@@ -918,14 +942,27 @@ Avant la date visée à l’al. 4, les assureurs dont les réserves n’atteigne
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe
+Annexe 1*[^t-1]*
+
+(art. 30*a*, al. 2)
+
+## Formule du calcul de l’écart-type****
+
+[^annex1-lvlu1-1]
+
+[^t-1]: Introduite par le ch. II de l’O du 14 avr.2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+[^annex1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la formule du calcul de l’écart-type n’est pas publiée dans le RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie.
+
+Annexe 2*[^t-2]*
 
 (art. 72)
 
 ## Modification d’autres actes
 
+[^t-2]: Anciennement annexe.
+
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-1]
+...[^annex2-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).
+[^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).

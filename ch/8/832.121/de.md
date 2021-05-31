@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 betreffend die Aufsicht über die sozia
 short: KVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: de
-version: 2020-01-01
+version: 2021-06-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20200101/de"
 
 (Krankenversicherungsaufsichtsverordnung, KVAV)
 
-vom 18. November 2015 (Stand am 1. Januar 2020)
+vom 18. November 2015 (Stand am 1. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -362,15 +362,19 @@ Aus dem Erlös des gebundenen Vermögens werden vorweg die Ansprüche aus den Ve
 
 #### Art. 26
 
-**Freiwilliger Abbau von übermässigen Reserven**
+**Freiwilliger Abbau von Reserven**[^26-1]
 
-<sup>1</sup> Der Versicherer kann seine Reserven abbauen, wenn diese übermässig zu werden drohen.
+<sup>1</sup> Der Versicherer kann seine Reserven abbauen, sofern er am Ende des folgenden Kalenderjahres auch mit dem Abbau über geschätzte Reserven gemäss Artikel 12 Absatz 3 verfügt, die über der Mindesthöhe nach Artikel 11 Absatz 1 liegen.
 
-<sup>2</sup> Der Abbau erfolgt während einem oder mehreren Jahren. Der Versicherer erstellt einen entsprechenden Abbauplan. Die Aufsichtsbehörde prüft jährlich, ob die Voraussetzungen für den Abbau noch gegeben sind.
+<sup>2</sup> Der Abbau erfolgt während eines oder mehrerer Jahre. Der Versicherer erstellt einen entsprechenden Abbauplan. Die Aufsichtsbehörde prüft jährlich, ob die Voraussetzungen für den Abbau noch gegeben sind.
 
-<sup>3</sup> Der Abbau der Reserven wird in Form eines Ausgleichsbetrags, der den Versicherten ausgerichtet wird, durchgeführt. Der für den Abbau der Reserven festgelegte Betrag wird nach einem angemessenen, vom Versicherer bestimmten Schlüssel auf die Versicherten im örtlichen Tätigkeitsbereich des Versicherers verteilt.
+<sup>3</sup> Der Abbauplan muss vorsehen, dass der Versicherer die Prämien knapp kalkuliert; dabei muss das Verhältnis zwischen Prämien und erwarteten Kosten im gesamten örtlichen Tätigkeitsgebiet des Versicherers einheitlich sein.
 
-<sup>4</sup> Der Versicherer zieht den Ausgleichsbetrag von der von der Aufsichtsbehörde genehmigten Prämie ab und weist ihn auf der Prämienrechnung gesondert aus.
+<sup>4</sup> Kann mit der knappen Kalkulation nach Absatz 3 nicht verhindert werden, dass die Prämien zu übermässigen Reserven im Sinne von Artikel 16 Absatz 4 Buchstabe d KVAG führen, so kann der Abbauplan einen Ausgleich für die Versicherten vorsehen. Der Ausgleichsbetrag wird nach einem angemessenen, vom Versicherer bestimmten Schlüssel auf die Versicherten im örtlichen Tätigkeitsbereich des Versicherers verteilt.
+
+<sup>5</sup> Der Versicherer zieht den Ausgleichsbetrag von der von der Aufsichtsbehörde genehmigten Prämie ab und weist ihn auf der Prämienrechnung gesondert aus.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
 
 #### Art. 27
 
@@ -405,6 +409,25 @@ Die Artikel 25, 26, 27 Absätze 1, 2 und 4 sowie 28 sind sinngemäss auf die Pr�
 **Kumulierte Kosten**
 
 Die kumulierten Kosten eines Versicherers entsprechen seinen gesamten Kosten in einem Jahr.
+
+#### Art. 30a
+
+**Deutlich höhere Prämieneinnahmen**[^30a-1]
+
+<sup>1</sup> Die Prämieneinnahmen liegen deutlich über den kumulierten Kosten, wenn der Unterschied zwischen dem erwarteten Verhältnis zwischen Kosten und Prämieneinnahmen und dem effektiven Verhältnis zwischen Kosten und Prämieneinnahmen die Standardabweichung überschreitet.
+
+<sup>2</sup> Die Standardabweichung wird für jeden Versicherer und Kanton gemäss der im Anhang 1 festgelegten Formel berechnet.
+
+[^30a-1]: Eingefügt durch Ziff. I der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+
+#### Art. 30b
+
+**Für den Ausgleich von zu hohen Prämieneinnahmen massgebender Versichertenbestand**[^30b-1]
+
+Der Versicherer kann die zu hohen Prämieneinnahmen in einem Kanton ausgleichen, wenn sein Versichertenbestand in diesem Kanton über dem im Sinne von Artikel 91 Absatz 1 KVV[^30b-2] definierten sehr kleinen Bestand liegt.
+
+[^30b-1]: Eingefügt durch Ziff. I der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+[^30b-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 #### Art. 31
 
@@ -640,17 +663,18 @@ Folgende Anlagen gelten nicht als riskant:
 
 **Geschäftsbericht**
 
-<sup>1</sup> Der Geschäftsbericht richtet sich nach den Bestimmungen der Stiftung für Fachempfehlungen zur Rechnungslegung «Swiss GAAP FER», in der Fassung vom 10. Dezember 2014[^50-1] (Swiss GAAP FER). Er setzt sich aus dem Jahresbericht und der Jahresrechnung (Bilanz, Erfolgsrechnung, Geldflussrechnung, Eigenkapitalnachweis und Anhang) zusammen.
+<sup>1</sup> Der Geschäftsbericht richtet sich nach den Bestimmungen der Stiftung für Fachempfehlungen zur Rechnungslegung «Swiss GAAP FER»[^50-1]. Er setzt sich aus dem Jahresbericht und der Jahresrechnung (Bilanz, Erfolgsrechnung, Geldflussrechnung, Eigenkapitalnachweis und Anhang) zusammen. Das BAG legt die anwendbare Fassung der Swiss GAAP FER fest.[^50-2]
 
 <sup>2</sup> Das BAG kann zusätzliche besondere Anforderungen festlegen. Wenn es dies tut, kann der Versicherer entscheiden, ob er die Swiss GAAP FER oder die durch die besonderen Anforderungen ergänzten Swiss GAAP FER anwendet.
 
-<sup>3</sup> Im Geschäftsbericht werden die Eckdaten nach Versicherungsart im Sinne von Artikel 1*a* Absatz 1 KVG[^50-2] und die Kennzahlen nach Artikel 28*b* KVV[^50-3] aufgeführt.
+<sup>3</sup> Im Geschäftsbericht werden die Eckdaten nach Versicherungsart im Sinne von Artikel 1*a* Absatz 1 KVG[^50-3] und die Kennzahlen nach Artikel 28*b* KVV[^50-4] aufgeführt.
 
 <sup>4</sup> Der Versicherer veröffentlicht den Geschäftsbericht spätestens am 30. Juni des auf das Geschäftsjahr folgenden Jahres.
 
-[^50-1]: Die Empfehlungen können gegen Bezahlung bezogen werden bei: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zürich ([www.verlagskv.ch](http://www.verlagskv.ch)).
-[^50-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^50-3]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^50-1]: Die Empfehlungen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zürich; www.verlagskv.ch.
+[^50-2]: Fassung gemäss Ziff. I der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+[^50-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^50-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 #### Art. 51
 
@@ -882,7 +906,7 @@ Die Aufsichtsbehörde stellt folgende Informationen für die Öffentlichkeit ber
 
 **Änderung anderer Erlasse**
 
-Die Änderung anderer Erlasse wird im Anhang geregelt.
+Die Änderung anderer Erlasse wird im Anhang 2 geregelt.
 
 #### Art. 73
 
@@ -918,14 +942,27 @@ Vor dem Zeitpunkt nach Absatz 4 müssen Versicherer, deren Reserven die Mindesth
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
-Anhang
+Anhang 1*[^t-1]*
+
+(Art. 30*a* Abs. 2)
+
+## Berechnungsformel für die Standardabweichung****
+
+[^annex1-lvlu1-1]
+
+[^t-1]: Eingefügt durch Ziff. II der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+[^annex1-lvlu1-1]: Die Berechnungsformel für die Standardabweichung wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie kann unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung eingesehen werden.
+
+Anhang 2*[^t-2]*
 
 (Art. 72)
 
 ## Änderung anderer Erlasse
 
+[^t-2]: Ursprünglich: Anhang.
+
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annex2-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)konsultiert werden.
+[^annex2-lvlu1-1]: Die Änderungen können unter [AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)konsultiert werden.

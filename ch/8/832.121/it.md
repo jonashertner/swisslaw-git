@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente la vigilanza sull'assicurazio
 short: OVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: it
-version: 2020-01-01
+version: 2021-06-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20200101/it"
 
 (Ordinanza sulla vigilanza sull’assicurazione malattie, OVAMal)
 
-del 18 novembre 2015 (Stato 1° gennaio 2020)
+del 18 novembre 2015 (Stato 1° giugno 2021) (Stato 1° giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -359,15 +359,19 @@ Il ricavato del patrimonio vincolato viene utilizzato innanzitutto per coprire l
 
 #### Art. 26
 
-**Riduzione volontaria di riserve eccessive**
+**Riduzione volontaria delle riserve**[^26-1]
 
-<sup>1</sup> L’assicuratore può ridurre le sue riserve quando queste ultime rischiano di diventare eccessive.
+<sup>1</sup> L’assicuratore può ridurre le sue riserve se quelle stimate per la fine dell’anno civile successivo, secondo l’articolo 12 capoverso 3, rimangono superiori all’ammontare minimo di cui all’articolo 11 capoverso 1.
 
 <sup>2</sup> La riduzione avviene nell’arco di uno o più anni. L’assicuratore elabora un apposito piano di riduzione. L’autorità di vigilanza verifica ogni anno se le premesse per la riduzione sussistono ancora.
 
-<sup>3</sup> La riduzione delle riserve è operata sotto forma di un importo di compensazione versato agli assicurati. L’importo fissato per la riduzione delle riserve è ripartito tra gli assicurati nel raggio d’attività territoriale dell’assicuratore in base a una chiave di ripartizione adeguata, definita da quest’ultimo.
+<sup>3</sup> Il piano di riduzione deve prevedere che l’assicuratore fissi i premi riducendo al massimo i suoi margini di calcolo; il rapporto tra i premi e i costi attesi deve essere uniforme in tutto il raggio di attività territoriale dell’assicuratore.
 
-<sup>4</sup> L’assicuratore deduce l’importo di compensazione dal premio approvato dall’autorità di vigilanza e lo segnala separatamente nella fattura.
+<sup>4</sup> Quando la fissazione dei premi avvenuta riducendo al massimo i margini di calcolo secondo il capoverso 3 non permette d’impedire che i premi comportino la costituzione di riserve eccessive secondo l’articolo 16 capoverso 4 lettera d LVAMal, il piano di riduzione può prevedere il versamento di una compensazione agli assicurati. L’importo fissato per la riduzione delle riserve è ripartito tra gli assicurati nel raggio d’attività territoriale dell’assicuratore in base a una chiave di ripartizione adeguata, definita da quest’ultimo.
+
+<sup>5</sup> L’assicuratore deduce l’importo di compensazione dal premio approvato dall’autorità di vigilanza e lo segnala separatamente nella fattura.
+
+[^26-1]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
 
 #### Art. 27
 
@@ -402,6 +406,25 @@ Gli articoli 25, 26, 27 capoversi 1, 2 e 4, nonché l’articolo 28 si applicano
 **Costi cumulati**
 
 I costi cumulati di un assicuratore corrispondono al totale dei suoi costi in un anno.
+
+#### Art. 30a
+
+**Premi nettamente superiori**[^30a-1]
+
+<sup>1</sup> I premi incassati sono nettamente superiori ai costi cumulati se la differenza tra il rapporto atteso tra i costi e i premi e il rapporto effettivo tra i costi e i premi è superiore alla deviazione standard.
+
+<sup>2</sup> La deviazione standard è calcolata per assicuratore e per Cantone secondo la formula riportata nell’allegato 1.
+
+[^30a-1]: Introdotto dal n. I dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+
+#### Art. 30b
+
+**Effettivo determinante per la compensazione dei premi incassati in eccesso**[^30b-1]
+
+L’assicuratore può compensare i premi incassati in eccesso in un Cantone se l’effettivo dei suoi assicurati in questo Cantone è superiore all’effettivo molto piccolo ai sensi dell’articolo 91 capoverso 1 OAMal[^30b-2].
+
+[^30b-1]: Introdotto dal n. I dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+[^30b-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 #### Art. 31
 
@@ -637,17 +660,18 @@ Sono considerati non rischiosi:
 
 **Relazione sulla gestione**
 
-<sup>1</sup> La relazione sulla gestione è allestita conformemente alle disposizioni della Fondazione per le raccomandazioni concernenti la presentazione dei conti «Swiss GAAP FER», nella versione del 10 dicembre 2014[^50-1] (Swiss GAAP FER). Si compone del rapporto annuale e del conto annuale (bilancio, conto economico, conto dei flussi di tesoreria, documentazione del capitale proprio e allegato).
+<sup>1</sup> La relazione sulla gestione è allestita conformemente alle disposizioni della Fondazione per le raccomandazioni concernenti la presentazione dei conti «Swiss GAAP FER»[^50-1]. Si compone del rapporto annuale e del conto annuale (bilancio, conto economico, conto dei flussi di tesoreria, documentazione del capitale proprio e allegato). L’UFSP definisce la versione applicabile delle norme Swiss GAAP FER.[^50-2]
 
 <sup>2</sup> L’UFSP può fissare ulteriori requisiti specifici. In tal caso, l’assicuratore può decidere se applicare le norme Swiss GAAP FER oppure le norme Swiss GAAP FER integrate con i requisiti specifici in questione.
 
-<sup>3</sup> Nella relazione sulla gestione figurano i dati principali per ramo d’assicurazione ai sensi dell’articolo 1*a* capoverso 1 LAMal[^50-2] e i dati di cui all’articolo 28*b* OAMal[^50-3].
+<sup>3</sup> Nella relazione sulla gestione figurano i dati principali per ramo d’assicurazione ai sensi dell’articolo 1*a* capoverso 1 LAMal[^50-3] e i dati di cui all’articolo 28*b* OAMal[^50-4].
 
 <sup>4</sup> L’assicuratore pubblica la relazione sulla gestione entro il 30 giugno dell’anno successivo all’esercizio cui si riferisce.
 
-[^50-1]: Le raccomandazioni possono essere richieste, a pagamento, a: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo ([www.verlagskv.ch](http://www.verlagskv.ch)).
-[^50-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^50-3]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^50-1]: Le raccomandazioni possono essere consultate gratuitamente od ottenute a pagamento presso: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo; www.verlagskv.ch.
+[^50-2]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+[^50-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^50-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 #### Art. 51
 
@@ -879,7 +903,7 @@ L’autorità di vigilanza rende pubbliche le informazioni seguenti:
 
 **Modifica di altri atti normativi**
 
-La modifica di altri atti normativi è disciplinata nell’allegato.
+La modifica di altri atti normativi è disciplinata nell’allegato 2.
 
 #### Art. 73
 
@@ -915,14 +939,25 @@ Prima del termine di cui al capoverso 4, gli assicuratori le cui riserve non rag
 
 La presente ordinanza entra in vigore il 1° gennaio 2016.
 
-Allegato
+Allegato 1*[^t-1]*
+
+(art. 30*a* cpv. 2)
+
+**Formula di calcolo della deviazione standard**[^t-2]
+
+[^t-1]: Introdotto dal n. II dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
+[^t-2]: La formula di calcolo della deviazione standard non è pubblicata nella RU conformemente all’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultata all’indirizzo www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie
+
+Allegato 2*[^t-3]*
 
 (art. 72)
 
 ## Modifica di altri atti normativi
 
+[^t-3]: Originario allegato.
+
 Le seguenti ordinanze sono modificate come segue:
 
-...[^annexu1-lvlu1-1]
+...[^annex2-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).
+[^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).
