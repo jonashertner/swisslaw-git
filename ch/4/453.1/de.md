@@ -3,11 +3,11 @@ sr: "453.1"
 title: Verordnung des EDI vom 4. September 2013 über die Kontrolle des Verkehrs mit Tieren und Pflanzen geschützter Arten (CITES-Kontrollverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: de
-version: 2020-08-29
+version: 2021-06-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20200829/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20200829-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20200829/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20200829/de"
 
 (CITES-Kontrollverordnung)
 
-vom 4. September 2013 (Stand am 29. August 2020)
+vom 4. September 2013 (Stand am 1. Juni 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -218,7 +218,7 @@ Die folgenden Verordnungen werden aufgehoben:
 
 Diese Verordnung tritt am 1. Oktober 2013 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 und 7 Abs. 1 und 2)
 
@@ -606,69 +606,66 @@ Anhang 3*[^t-2]*
 
 ## Tiere und Pflanzen, Teile und Erzeugnisse, deren Einfuhr verboten ist
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLV vom 5. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3541](https://fedlex.data.admin.ch/eli/oc/2019/653)).
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 11. Mai 2021, in Kraft seit 1. Juni 2021 ([AS 2021 277](https://fedlex.data.admin.ch/eli/oc/2021/277)).
 
 <table>
 <tr><th>Land</th><th>Tier, Pflanze, Erzeugnis</th><th>Notifikation[^annex3-lvlu1-1]</th></tr>
 <tr><td>Afghanistan</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2013/018 (17. Mai 2013)</td></tr>
-<tr><td>Äquatorialguinea</td><td>Prunus africana</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Trioceros feae (vormalig Chamaeleo spp.)</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Benin</td><td>Chamaeleo gracilis</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Chamaeleo senegalensis</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Klinixys homeana</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td>Äquatorialguinea</td><td>Prunus africana</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Trioceros feae (vormals Chamaeleo spp.)</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Benin</td><td>Chamaeleo gracilis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Klinixys homeana</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 <tr><td>Demokratische Republik Kongo</td><td>Manis spp.</td><td>Nr. 2018/082 (1. November 2018)</td></tr>
-<tr><td></td><td>Poicephalus robustus</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td></td><td>Poicephalus fuscicollis (vormals P. robustus)</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 <tr><td></td><td>Psittacus erithacus</td><td>Nr. 2018/081 (1. November 2018)</td></tr>
 <tr><td>Dschibuti</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2018/015 (30. Januar 2018)</td></tr>
-<tr><td>Elfenbeinküste (Côte d’Ivoire)</td><td>Pericopsis elata</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Fidschi</td><td>Plerogyra simplex</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Plerogyra sinuosa</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Chamaeleo senegalensis</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Grenada</td><td>Strombus gigas</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td>Elfenbeinküste (Côte d’Ivoire)</td><td>Pericopsis elata</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Fidschi</td><td>Plerogyra simplex</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Plerogyra sinuosa</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Grenada</td><td>Strombus gigas</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 <tr><td></td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2016/022 (16. März 2016)</td></tr>
-<tr><td>Guinea</td><td>Balearica pavonina</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Hippocampus algiricus</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2013/017 (16. Mai 2013)</td></tr>
-<tr><td>Haiti (Nicht-Vertragsstaat)</td><td>Strombus gigas</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Kamerun</td><td>Trioceros quadricornis</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Trioceros montium</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Laos</td><td>Macaca fascicularis</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td>Guinea</td><td>Hippocampus algiricus</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2019/075 (19. Dezember 2019)</td></tr>
+<tr><td>Haiti (Nicht-Vertragsstaat)</td><td>Strombus gigas</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Kamerun</td><td>Trioceros quadricornis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Trioceros montium</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Laos</td><td>Macaca fascicularis</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 <tr><td></td><td>Dalbergia spp.</td><td>Nr. 2018/083 (1. November 2018)</td></tr>
-<tr><td></td><td>Dendrobium nobile</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td></td><td>Dendrobium nobile</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 <tr><td>Liberia</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2018/012 (22. Januar 2018)</td></tr>
-<tr><td>Madagaskar</td><td>Coracopsis vasa</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Furcifer labordi</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Phelsuma borai, P. breviceps, P. gouldi, P. hoeschi, P. ravenala und P. standingi</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td>Madagaskar</td><td>Coracopsis vasa</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Furcifer labordi</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Phelsuma borai, P. gouldi, P. hoeschi, P. ravenala</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 <tr><td></td><td>Dalbergia spp.</td><td>Nr. 2018/007 (15. Januar 2018)</td></tr>
 <tr><td></td><td>Diospyros spp.</td><td>Nr. 2018/007 (15. Januar 2018)</td></tr>
-<tr><td>Mali</td><td>Uromastyx dispar</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Mosambik</td><td>Smaug mossambicus</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Cordylus tropidosternum</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>*Cycas thourasii*</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Niger</td><td>Chamaeleo africanus</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td>Mali</td><td>Uromastyx dispar</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Mosambik</td><td>Smaug mossambicus</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Cordylus tropidosternum</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Cycas thourasii</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Niger</td><td>Chamaeleo africanus</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 <tr><td>Nigeria</td><td>Pterocarpus erinaceus</td><td>Nr. 2018/084 (1. November 2018)</td></tr>
-<tr><td>Salomoninseln</td><td>Corucia zebrata</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Ornithoptera priamus (vormaliger Name O.urvillianus)</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Ornithoptera victoriae</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Tridacna derasa, T. crocea, T. gigas, T. maxima und T. squamosa</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Senegal</td><td>Hippocampus algiricus</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td>Salomoninseln</td><td>Corucia zebrata</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Ornithoptera priamus (vormals O. urvillianus)</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Ornithoptera victoriae</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Tridacna derasa, T. crocea, T. gigas, T. maxima, T. squamosa</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td>Senegal</td><td>Hippocampus algiricus</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 <tr><td>Somalia</td><td>alle kommerziellen Ein-, Aus‑ und Wiederausfuhren</td><td>Nr. 2019/035 (4. Juli 2019)</td></tr>
-<tr><td>Sudan</td><td>Balearica pavonina</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Südsudan</td><td>Balearica pavonina</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
 <tr><td>Tansania</td><td>Kinyongia fischeri</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
 <tr><td></td><td>Kinyongia tavetana</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
 <tr><td></td><td>Balearica regulorum</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td>Togo</td><td>Poicephalus fuscicollis (vormaliger Name P. robustus)</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>Nr. 2019/027 (6. Mai 2019)</td></tr>
+<tr><td>Togo</td><td>Poicephalus fuscicollis (vormals P. robustus)</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>Nr. 2020/006 (20. Januar 2020)</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Die Notifikationen sind einsehbar auf den Internetseiten des CITES-Sekretariats: www.cites.org &gt; Français &gt; Documents &gt; Notifications aux Parties.
+[^annex3-lvlu1-1]: Die Notifikationen sind einsehbar auf den Internetseiten des CITES-Sekretariats: www.cites.org &gt; Français &gt; Documents &gt; Notifications aux Parties
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 8)
 
@@ -686,7 +683,7 @@ Anhang 4*[^t-3]*
 
 [^annex4-lvlu1-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 11)
 

@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordonnance du DFI du 4 septembre 2013 sur le contrôle de la circulation des espèces de faune et de flore protégées (Ordonnance sur les contrôles CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: fr
-version: 2020-08-29
+version: 2021-06-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20200829/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20200829-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20200829/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20200829/fr"
 
 (Ordonnance sur les contrôles CITES)
 
-du 4 septembre 2013 (Etat le 29 août 2020)
+du 4 septembre 2013 (Etat le 1<sup>er</sup> juin 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -209,7 +209,7 @@ Les ordonnances suivantes sont abrogées:
 - a. ordonnance du DFI du 16 mai 2007 sur les contrôles CITES[^13-1];
 - b. ordonnance du 20 octobre 1980 concernant l’agrément d’institutions scientifiques au titre de la Convention sur la conservation des espèces[^13-2].
 
-[^13-1]: [[RO 2007 2677](https://fedlex.data.admin.ch/eli/oc/2007/352), [2008 2433](https://fedlex.data.admin.ch/eli/oc/2008/350), [2010 5389](https://fedlex.data.admin.ch/eli/oc/2010/764), [2012 583](https://fedlex.data.admin.ch/eli/oc/2012/86)[6479](https://fedlex.data.admin.ch/eli/oc/2012/776), [2013 2689](https://fedlex.data.admin.ch/eli/oc/2013/547)]
+[^13-1]: [[RO 2007 2677](https://fedlex.data.admin.ch/eli/oc/2007/352); [2008 2433](https://fedlex.data.admin.ch/eli/oc/2008/350); [2010 5389](https://fedlex.data.admin.ch/eli/oc/2010/764); [2012 583](https://fedlex.data.admin.ch/eli/oc/2012/86), [6479](https://fedlex.data.admin.ch/eli/oc/2012/776); [2013 2689](https://fedlex.data.admin.ch/eli/oc/2013/547)]
 [^13-2]: [[RO 1980 1878](https://fedlex.data.admin.ch/eli/oc/1980/1878_1878_1878)]
 
 #### Art. 14
@@ -590,74 +590,61 @@ Annexe 3*[^t-2]*
 
 ## Animaux et plantes, parties et produits dont l’importation est interdite
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 5 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3541](https://fedlex.data.admin.ch/eli/oc/2019/653)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 11 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 277](https://fedlex.data.admin.ch/eli/oc/2021/277)).
 
 <table>
-<tr><th colspan="2">Pays</th><th>Animal, plante, produit</th><th colspan="2">Notification[^annex3-lvlu1-1]</th></tr>
-<tr><td colspan="2">Afghanistan</td><td>toutes les importations, exportations et réexportations commerciales</td><td colspan="2">N<sup>o</sup> 2013/018 (17 mai 2013)</td></tr>
-<tr><td colspan="2">Belize</td><td>Myrmecophila tibicinis</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Bénin</td><td>Chamaeleo gracilis</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Chamaeleo senegalensis</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Klinixys homeana</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Pandinus imperator</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Cameroun</td><td>Trioceros quadricornis</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td>Pericopsis elata</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Djibouti</td><td>toutes les importations, exportations et réexportations commerciales</td><td colspan="2">N<sup>o</sup> 2018/015 (30 janvier 2018)</td></tr>
-<tr><td colspan="2">Les îles Fidji</td><td>Plerogyra simplex</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Plerogyra sinuosa</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Ghana</td><td>Pandinus imperator</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Chamaeleo gracilis</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Chamaeleo senegalensis</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Grenade</td><td>Strombus gigas</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>toutes les importations, exportations et réexportations commerciales</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Guinée</td><td>Balearica pavonina</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Hippocampus algiricus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>toutes les importations, exportations et réexportations commerciales</td><td colspan="2">N<sup>o</sup> 2013/017 (16 mai 2013)</td></tr>
-<tr><td colspan="2">Guinée équatoriale</td><td>Trioceros feae</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Prunus africana</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Haïti (État non contractant)</td><td>Strombus gigas</td><td colspan="2">N<sup>o</sup> 2018/006 (15. janvier 2018)</td></tr>
-<tr><td colspan="2">Îles Salomon</td><td>Corucia zebrata</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Ornithoptera urvillianus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Ornithoptera victoriae</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Tridacna derasa, T. crocea, T. gigas, T. maxima et T. squamosa</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Laos</td><td>Cuora galbinifrons</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Heosemys annandalii</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Heosemys grandis</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Macaca fascicularis</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>*Naja* spp. (= *N. atra, N. kaouthia, N. siamensis*)</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Ptyas mucosus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Python reticulatus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Dalbergia spp.</td><td colspan="2">N<sup>o</sup> 2018/083 (1<sup>er</sup> novembre 2018)</td></tr>
-<tr><td colspan="2"></td><td>Dendrobium nobile</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Liberia</td><td>toutes les importations, exportations et réexportations commerciales</td><td colspan="2">N<sup>o</sup> 2018/012 (22 janvier 2018)</td></tr>
-<tr><td colspan="2">Madagascar</td><td>Coracopsis vasa</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Furcifer labordi</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Phelsuma borai, P. breviceps, P. gouldi, P. hoeschi, P. ravenala und P. standingi</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Dalbergia spp.</td><td colspan="2">N<sup>o</sup> 2017/047 (27 juin 2017)</td></tr>
-<tr><td colspan="2"></td><td>Diospyros spp.</td><td colspan="2">N<sup>o</sup> 2017/047 (27 juin 2017)</td></tr>
-<tr><td colspan="2">Mali</td><td>Poicephalus robustus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Uromastyx dispar</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Mozambique</td><td>Cordylus mossambicus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Cordylus tropidosternum</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Cycadaceae, Stangeriaceae et Zamiaceae</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Niger</td><td>Chamaeleo africanus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td>Nigeria</td><td colspan="3">Pterocarpus erinaceus</td><td>N<sup>o</sup> 2018/084 (1<sup>er</sup> novembre 2018)</td></tr>
-<tr><td colspan="2">République démocratique du Congo</td><td>Manis spp.</td><td colspan="2">N<sup>o</sup> 2018/082 (1<sup>er</sup> novembre 2018)</td></tr>
-<tr><td colspan="2"></td><td>Poicephalus robustus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Psittacus erithacus</td><td colspan="2">N<sup>o</sup> 2018/081 (1<sup>er</sup> novembre 2018)</td></tr>
-<tr><td colspan="2">Sénégal</td><td>Hippocampus algiricus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Somalie</td><td>toutes les importations, exportations et réexportations commerciales</td><td colspan="2">N<sup>o</sup> 2019/035 (4 juillet 2019)</td></tr>
-<tr><td colspan="2">Soudan</td><td>Balearica pavonina</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Soudan du Sud</td><td>Balearica pavonina</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Tanzanie</td><td>Agapornis fischeri</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Malacochersus tornieri Est autorisé le commerce de spécimens produits dans des établissements d’élevage pour lesquels un quota d’exportation annuel a été convenu entre l’organe de gestion CITES et le Secrétariat CITES.</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Prunus africana</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Kinyongia fischeri</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Kinyongia tavetana</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Balearica regulorum</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Togo</td><td>Poicephalus robustus</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2"></td><td>Pandinus imperator</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
-<tr><td colspan="2">Vietnam</td><td>Hippocampus kuda</td><td colspan="2">N<sup>o</sup> 2018/006 (15 janvier 2018)</td></tr>
+<tr><th>Pays</th><th>Animal, plante, produit</th><th>Notification[^annex3-lvlu1-1]</th></tr>
+<tr><td>Afghanistan</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2013/018 (17 mai 2013)</td></tr>
+<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Bénin</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Klinixys homeana</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Cameroun</td><td>Trioceros quadricornis</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Trioceros montium</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Côte d’Ivoire</td><td>Pericopsis elata</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Djibouti</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2018/015 (30 janvier 2018)</td></tr>
+<tr><td>Les îles Fidji</td><td>Plerogyra simplex</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Plerogyra sinuosa</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Grenade</td><td>Strombus gigas</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2016/022 (16 mars 2016)</td></tr>
+<tr><td>Guinée</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2019/075 (19 décembre 2019)</td></tr>
+<tr><td>Guinée équatoriale</td><td>Prunus africana</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Trioceros feae (autrefois Chamaeleo spp.)</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Haïti (État non contractant)</td><td>Strombus gigas</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Îles Salomon</td><td>Corucia zebrata</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Ornithoptera priamus (autrefois O. urvillianus)</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Ornithoptera victoriae</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Tridacna derasa, T. crocea, T. gigas, T. maxima et T. squamosa</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Laos</td><td>Macaca fascicularis</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Dalbergia spp.</td><td>N<sup>o</sup> 2018/083 (1<sup>er</sup> novembre 2018)</td></tr>
+<tr><td></td><td>Dendrobium nobile</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Liberia</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2018/012 (22 janvier 2018)</td></tr>
+<tr><td>Madagascar</td><td>Coracopsis vasa</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Furcifer labordi</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Phelsuma borai, P. gouldi, P. hoeschiet P. ravenala</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Dalbergia spp.</td><td>N<sup>o</sup> 2018/007 (15 janvier 2018)</td></tr>
+<tr><td></td><td>Diospyros spp.</td><td>N<sup>o</sup> 2018/007 (15 janvier 2018)</td></tr>
+<tr><td>Mali</td><td>Uromastyx dispar</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Mozambique</td><td>Smaug mossambicus</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Cordylus tropidosternum</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Cycas thourasii</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Niger</td><td>Chamaeleo africanus</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Nigéria</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2018/084 (1<sup>er</sup> novembre 2018)</td></tr>
+<tr><td>République démocratique du Congo</td><td>Manis spp.</td><td>N<sup>o</sup> 2018/082 (1<sup>er</sup> novembre 2018)</td></tr>
+<tr><td></td><td>Poicephalus fuscicollis (autrefois P. robustus)</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Psittacus erithacus</td><td>N<sup>o</sup> 2018/081 (1<sup>er</sup> novembre 2018)</td></tr>
+<tr><td>Sénégal</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Somalie</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2019/035 (4 juillet 2019)</td></tr>
+<tr><td>Tanzanie</td><td>Kinyongia fischeri</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Kinyongia tavetana</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Balearica regulorum</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td>Togo</td><td>Poicephalus fuscicollis (autrefois P. robustus)</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2020/006 (20 janvier 2020)</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: Les notifications peuvent être consultées sur le site Internet du Secrétariat CITES: www.cites.org &gt; Français &gt; Documents &gt; Notifications aux Parties
@@ -668,7 +655,7 @@ Annexe 4*[^t-3]*
 
 ## Catégories de spécimens pour l’importation desquelles il est délivré des autorisations d’importation de longue durée
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 avr. 2017 [RO 2017 2559](https://fedlex.data.admin.ch/eli/oc/2017/243)). Mise à jour selon le ch. II al. 2 de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 avr. 2017 [RO 2017 2559](https://fedlex.data.admin.ch/eli/oc/2017/243)). Mise à jour par le ch. II al. 2 de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
 
 - 1\. Fourrures et peaux d’espèces animales inscrites aux annexes II et III CITES[^annex4-lvlu1-1] et articles fabriqués à partir de ces fourrures et de ces peaux;
 - 2\. Peaux d’espèces animales inscrites aux annexes II et III CITES;
@@ -686,7 +673,7 @@ Annexe 5*[^t-4]*
 
 ## États dont l’organe de gestion de la CITES peut accéder en ligne au système d’information
 
-[^t-4]: Mise à jour selon le ch. II al. 2 de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
+[^t-4]: Mise à jour par le ch. II al. 2 de l’O du DFI du 19 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 1033](https://fedlex.data.admin.ch/eli/oc/2018/160)).
 
 - 1\. France
 - 2\. Tchéquie
