@@ -3,13 +3,12 @@ canton: TG
 number: "187.132"
 title: Verordnung der Evangelischen Synode des Kantons Thurgau über die Aufgaben und die Tätigkeit der Ombudsstelle
 language: de
-version: 2014-08-01
-valid_until: 2021-05-31
-version_adopted: 2013-11-25
+version: 2021-06-01
+version_adopted: 2020-12-01
 adopted: 2013-11-25
 in_force: 2014-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.132"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1016/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1898/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1016/pdf_file"
 
 V der Evang. Synode - Aufgaben und Tätigkeit der Ombudsstelle
 
-vom 25.11.2013 (Stand 01.08.2014)
+vom 25.11.2013 (Stand 01.06.2021)
 
 #### § 1
 
@@ -45,7 +44,7 @@ vom 25.11.2013 (Stand 01.08.2014)
 
 **Entschädigung**
 
-<sup>1</sup> Die Synode regelt die Entschädigung der Ombudsstelle, ihrer Ersatzleute und des eingesetzten Personals.
+<sup>1</sup> Die Synode regelt die Entschädigung der Ombudsstelle, ihrer Ersatzleute und des eingesetzten Personals sowie der Anlaufstelle sexuelle Grenzverletzungen.
 
 #### § 4
 
@@ -105,6 +104,14 @@ vom 25.11.2013 (Stand 01.08.2014)
 **Berichterstattung**
 
 <sup>1</sup> Die Ombudsstelle erstattet dem Kirchenrat zuhanden des Rechenschaftsberichts an die Synode jährlich Bericht über ihre Tätigkeit.
+
+#### § 10a
+
+**Anlaufstelle sexuelle Grenzverletzungen**
+
+<sup>1</sup> Die Evang. Landeskirche führt eine Anlaufstelle sexuelle Grenzverletzungen. Der Kirchenrat bezeichnet zwei Personen beiderlei Geschlechts als Inhaber bzw. Inhaberin der Anlaufstelle. Diese erstatten dem Kirchenrat jährlich Bericht.
+
+<sup>2</sup> Ansprechstelle im Kirchenrat ist für den Inhaber bzw. die Inhaberin der Anlaufstelle das Präsidium oder ggf. das Vizepräsidium.
 
 #### § 11
 
