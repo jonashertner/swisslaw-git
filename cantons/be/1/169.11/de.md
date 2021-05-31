@@ -4,13 +4,13 @@ number: "169.11"
 title: Notariatsgesetz
 short: NG
 language: de
-version: 2012-01-01
-valid_until: 2021-05-31
-version_adopted: 2011-06-16
+version: 2021-06-01
+valid_until: 2026-08-31
+version_adopted: 2020-03-12
 adopted: 2005-11-22
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/169.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1060/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3356/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1060/pdf_file"
 
 (NG)
 
-vom 22.11.2005 (Stand 01.01.2012)
+vom 22.11.2005 (Stand 01.06.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -53,21 +53,44 @@ beschliesst:
 
 **Unabhängigkeit**
 
-<sup>1</sup> Die Notarin oder der Notar übt den Beruf unabhängig und auf eigene Verantwortung aus. Eine Ausübung im Namen oder auf Rechnung einer juristischen Person ist ausgeschlossen.
+<sup>1</sup> Die Notarin oder der Notar übt den Beruf unabhängig und auf eigene Verantwortung aus.
+
+<sup>2</sup> Der Beruf kann im Anstellungsverhältnis erfolgen
+
+- a zu einer anderen Notarin oder einem anderen Notar, die oder der im Notariatsregister eingetragen ist,
+- b zu einer Aktiengesellschaft (Notariats-AG) oder einer Gesellschaft mit beschränkter Haftung (Notariats-GmbH), sofern diese durch Personen beherrscht wird, die im Notariatsregister eingetragen sind.
+
+<sup>3</sup> Der Sitz einer Notariats-AG oder einer Notariats-GmbH muss im Kanton Bern sein.
+
+<sup>4</sup> Das Präsidium des obersten Leitungsorgans einer Notariats-AG oder einer Notariats-GmbH muss von einer Person ausgeübt werden, die im Notariatsregister eingetragen ist.
+
+<sup>5</sup> Der Regierungsrat regelt die Voraussetzungen für die Zulässigkeit der Notariats-AG und der Notariats-GmbH und die Minimalanforderungen an die Beherrschung durch Personen, die im Notariatsregister eingetragen sind, durch Verordnung.
 
 #### Art. 4
 
-**Unvereinbarkeit**
+**Organisatorische Unvereinbarkeit**
 
 <sup>1</sup> Unvereinbar mit der Ausübung des Notariatsberufs ist eine andere berufliche Tätigkeit, deren Erfüllung die Arbeitszeit der Notarin oder des Notars überwiegend beansprucht. Die Aufsichtsbehörde kann Ausnahmen bewilligen, wenn dadurch die Unabhängigkeit der Berufsausübung und das Ansehen des Notariats nicht gefährdet werden.
 
-<sup>2</sup> Unvereinbar mit der Ausübung des Notariatsberufs ist die gleichzeitige Tätigkeit in der Grundbuch- oder Handelsregisterführung.
-
-<sup>3</sup> Die Notarin oder der Notar darf ferner keine dauernde oder gelegentliche Tätigkeit ausüben, die mit einer unabhängigen und einwandfreien Berufsausübung oder mit dem Ansehen des Notariats nicht vereinbar ist. Unvereinbar sind namentlich Spekulationsgeschäfte jeglicher Art sowie die Übernahme von Bürgschaften oder Garantien im Zusammenhang mit der Berufsausübung. Die Notarin oder der Notar darf eine solche Tätigkeit auch nicht durch Dritte ausüben lassen.
+<sup>2–3</sup> …
 
 <sup>4</sup> Die gleichzeitige Ausübung des Berufs einer Notarin oder eines Notars und einer Anwältin oder eines Anwaltes ist zulässig.
 
-<sup>5</sup> Die Ausübung des Notariatsberufs im Anstellungsverhältnis zu einer anderen Notarin oder einem anderen Notar, die oder der im Notariatsregister eingetragen ist, ist zulässig.
+<sup>5</sup> …
+
+#### Art. 4a
+
+**Sachliche Unvereinbarkeit**
+
+<sup>1</sup> Die Notarin oder der Notar darf keine dauernden oder gelegentlichen Tätigkeiten ausüben, die mit einer unabhängigen und einwandfreien Berufsausübung unvereinbar sind, wie namentlich
+
+- a Spekulationsgeschäfte jeglicher Art,
+- b die Übernahme von Bürgschaften oder Garantien im Zusammenhang mit der Berufsausübung,
+- c Liegenschaftshandel.
+
+<sup>2</sup> Liegenschaftsvermittlung ist mit dem Notariatsberuf unvereinbar, insbesondere, wenn sie dauernd, gewerbsmässig oder gegen Provision bzw. gestützt auf eine vergleichbare Entgeltvereinbarung erfolgt. Zulässig bleibt eine bloss gelegentliche, mit einem erfolgsunabhängigen Honorar nach Zeitaufwand abzugeltende Vermittlungstätigkeit. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
+
+<sup>3</sup> Die Notarin oder der Notar darf unvereinbare Tätigkeiten auch nicht durch Dritte ausüben lassen.
 
 #### Art. 5
 
@@ -89,6 +112,8 @@ beschliesst:
 
 <sup>5</sup> Die Inhaberin oder der Inhaber des Notariatspatents darf die Berufsbezeichnung Notarin oder Notar führen.
 
+<sup>5a</sup> Nach der Löschung des Eintrags im Notariatsregister gemäss Artikel 47 Absatz 1 Buchstabe d darf die Berufsbezeichnung Notarin oder Notar während dreier Jahre nicht geführt werden.
+
 <sup>6</sup> Fällt eine Voraussetzung für das Notariatspatent weg, so ist es zu entziehen. Fällt der Entzugsgrund weg, so kann es wieder erteilt werden.
 
 <sup>7</sup> Ist die Notarin oder der Notar infolge Krankheit, Unfalls oder Alters nicht mehr handlungsfähig, so ist ihr oder ihm das Notariatspatent in der Regel zu belassen.
@@ -97,7 +122,7 @@ beschliesst:
 
 **Rechtspflege im Prüfungswesen**
 
-<sup>1</sup> Gegen Verfügungen der Notariatsprüfungskommission und gegen Verfügungen ihrer Präsidentin oder ihres Präsidenten kann bei der Justiz-, Gemeinde- und Kirchendirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen der Notariatsprüfungskommission und gegen Verfügungen ihrer Präsidentin oder ihres Präsidenten kann bei der Direktion für Inneres und Justiz Beschwerde geführt werden.
 
 <sup>2</sup> Mit Beschwerde gegen Prüfungsergebnisse können nur Rechtsfehler gerügt werden.
 
@@ -124,8 +149,9 @@ beschliesst:
 - a den Namen, den Vornamen, das Geburtsdatum und den Heimatort oder die Staatsangehörigkeit der Notarin oder des Notars,
 - b das Datum der Patentierung,
 - c das Datum der Eintragung und das Datum der Löschung,
-- d den Namen und die Adresse des Notariatsbüros sowie des oder der Zweigbüros,
-- e die Administrativmassnahmen und Disziplinarmassnahmen.
+- d den Namen, die Adresse und die Rechtsform des Notariatsbüros sowie des oder der Zweigbüros,
+- e die Administrativmassnahmen und Disziplinarmassnahmen,
+- f den Namen und die Adresse der Revisorinnen und Revisoren des Notariatsbüros.
 
 <sup>2</sup> Der Regierungsrat kann die Aufnahme weiterer persönlicher Daten in das Notariatsregister vorsehen, soweit sie für die Durchführung der Aufsicht über die praktizierenden Notarinnen und Notare von Bedeutung sind.
 
@@ -146,12 +172,12 @@ beschliesst:
 - c Gewähr für eine einwandfreie Berufsausübung bietet, insbesondere nicht strafrechtlich verurteilt worden ist wegen Handlungen, die mit dem Notariatsberuf nicht zu vereinbaren sind, es sei denn, die Verurteilung erscheine nicht mehr im Strafregisterauszug für Privatpersonen,
 - d in geordneten finanziellen Verhältnissen lebt,
 - e Wohnsitz in der Schweiz hat,
-- f die Sicherheit gestellt und eine Berufshaftpflichtversicherung abgeschlossen hat,
+- f eine Berufshaftpflichtversicherung abgeschlossen hat,
 - g über geeignete Büroräume im Kanton Bern verfügt,
 - h keine mit dem Notariat unvereinbare Tätigkeit beibehält und
-- i die Unterschrift bei der Justiz-, Gemeinde- und Kirchendirektion deponiert hat.
+- i die Unterschrift bei der Direktion für Inneres und Justiz deponiert hat.
 
-<sup>2</sup> Der Regierungsrat kann die Aufsichtsbehörde durch Verordnung ermächtigen, anstelle des bernischen Notariatspatents Ausweise eines anderen Kantons über die Befähigung von Urkundspersonen als Voraussetzung für die Eintragung ins Notariatsregister anzuerkennen, sofern die Ausbildung und die Prüfungen gleichwertig sind und der andere Kanton Gegenrecht hält.
+<sup>2</sup> Der Regierungsrat ermächtigt die Aufsichtsbehörde durch Verordnung, anstelle des bernischen Notariatspatents Ausweise eines anderen Kantons über die Befähigung von Urkundspersonen als Voraussetzung für die Eintragung ins Notariatsregister anzuerkennen, sofern die Ausbildung und die Prüfungen gleichwertig sind und der andere Kanton Gegenrecht hält.
 
 #### Art. 10
 
@@ -216,6 +242,9 @@ beschliesst:
 
 - a Notarinnen und Notaren, welche im Notariatsregister des Kantons Bern eingetragen sind,
 - b Anwältinnen und Anwälten, welche in einem Anwaltsregister eingetragen sind.
+- c weiteren Personen, die qualifizierte Beratungsdienstleistungen anbieten wie beispielsweise Treuhand, Steuerberatung, Liegenschaftsverwaltung, Vermögensverwaltung, Architektur oder Bauberatung.
+
+<sup>2</sup> Der Regierungsrat kann durch Verordnung die im Rahmen eines gemeinsamen Büros zulässigen Dienstleistungen definieren.
 
 #### Art. 17
 
@@ -257,6 +286,18 @@ beschliesst:
 
 <sup>2</sup> Die hauptberufliche Tätigkeit der Notarin oder des Notars umfasst diejenigen Verrichtungen, für welche die Notarin oder der Notar ausschliesslich zuständig ist.
 
+#### Art. 20a
+
+**Bearbeitung von Daten aus zentralen Personendatensammlungen**
+
+<sup>1</sup> Zur Erfüllung ihrer hauptberuflichen Tätigkeit gemäss Artikel 20 steht den Notarinnen und Notaren das Basisprofil gemäss Artikel 4 Absatz 1 Buchstabe d des Gesetzes vom 20. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^20a-1] im Abrufverfahren zu Verfügung.
+
+<sup>2</sup> Zur Feststellung der zivilrechtlichen Handlungsfähigkeit von Personen stehen den Notarinnen und Notaren zudem die besonders schützenswerten Angaben zu den Erwachsenenschutzmassnahmen im Abrufverfahren, jedoch ohne Funktionalitäten gemäss Artikel 4 Absatz 1 Buchstabe f PDSG, zur Verfügung.
+
+<sup>3</sup> Sofern eine Notarin oder ein Notar die Daten aus den zentralen Personendatensammlungen zu anderen Zwecken als zur Erfüllung ihrer oder seiner hauptberuflichen Tätigkeit verwendet, kann das Zugriffsrecht entzogen werden. Disziplinar- und strafrechtliche Massnahmen bleiben vorbehalten.
+
+[^20a-1]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
+
 #### Art. 21
 
 **Sachliche Zuständigkeit**
@@ -274,6 +315,10 @@ beschliesst:
 **Örtliche Zuständigkeit**
 
 <sup>1</sup> Die Notarin oder der Notar kann Beurkundungen im ganzen Kantonsgebiet vornehmen.
+
+<sup>2</sup> Bei der Erstellung von elektronischen Beglaubigungen und Ausfertigungen gilt für die Anbringung der Signatur und des Funktionsnachweises keine örtliche Einschränkung.
+
+<sup>3</sup> Erfolgt die notarielle Feststellung über elektronische Kommunikationsmittel, so muss sich die Notarin oder der Notar dabei im Kanton Bern befinden.
 
 #### Art. 23
 
@@ -300,15 +345,27 @@ beschliesst:
 
 <sup>1</sup> Die im Beurkundungsverfahren erstellte Urkunde ist die Urschrift.
 
+<sup>2</sup> Sofern das Bundesrecht die elektronische Erstellung einer Urschrift zulässt, erlässt der Regierungsrat die notwendigen Einführungs- und Vollzugsbestimmungen durch Verordnung.
+
 #### Art. 26
 
 **Ausfertigungen**
 
 <sup>1</sup> Ausfertigungen sind öffentliche Urkunden, welche den Inhalt der Urschrift wortgetreu wiedergeben und als Beweismittel oder als Rechtsgrundausweis für die Eintragung in öffentliche Register dienen.
 
-<sup>2</sup> Sie werden von der beurkundenden Notarin oder vom beurkundenden Notar erstellt. Ist sie oder er verhindert, so bezeichnet die Aufsichtsbehörde eine andere im Notariatsregister eingetragene Notarin oder einen andern eingetragenen Notar.
+<sup>2</sup> Sie werden von der beurkundenden Notarin oder vom beurkundenden Notar erstellt. Ist sie oder er verhindert, können Ausfertigungen durch eine Notarin oder einen Notar erstellt werden, die oder der im gemeinsamen Büro ihre oder seine hauptberufliche Tätigkeit ausübt. Die Aufsichtsbehörde kann eine andere im Notariatsregister eingetragene Notarin oder einen anderen eingetragenen Notar für die Erstellung einer Ausfertigung bezeichnen.
 
-<sup>3</sup> Ist die Notarin oder der Notar nicht mehr im Notariatsregister eingetragen, werden Ausfertigungen nach Weisung der Aufsichtsbehörde erstellt. Sie kann die Verwalterin oder den Verwalter der Urschriften zur Erstellung von Ausfertigungen ermächtigen.
+<sup>3</sup> Ist die Notarin oder der Notar nicht mehr im Notariatsregister eingetragen, ist die Büronachfolgerin oder der Büronachfolger, welche oder welcher die Urschriften verwaltet, berechtigt, Ausfertigungen zu erstellen. Sofern es keine Büronachfolgerin oder keinen Büronachfolger gibt, werden Ausfertigungen nach den Weisungen der Aufsichtsbehörde erstellt.
+
+#### Art. 26a
+
+**Elektronische Ausfertigungen und Medienwechsel**
+
+<sup>1</sup> Die Notarin oder der Notar ist ermächtigt,
+
+- a elektronische Ausfertigungen zu erstellen,
+- b Kopien von elektronischen und papierenen Originalen sowie den Medienwechsel von papierenen zu elektronischen Kopien oder umgekehrt zu beglaubigen,
+- c Unterschriften bei Medienwechsel zu beglaubigen.
 
 #### Art. 27
 
@@ -318,13 +375,15 @@ beschliesst:
 
 <sup>2</sup> Die Urschriftenregister sind öffentliche Urkunden.
 
+<sup>3</sup> Der Regierungsrat kann die Notarinnen und Notare ermächtigen, das Urschriftenregister elektronisch zu führen. Er regelt die Einzelheiten durch Verordnung.
+
 #### Art. 28
 
 **Verordnung**
 
 <sup>1</sup> Der Regierungsrat regelt die Beurkundungsverfahren, die Erstellung von Ausfertigungen sowie die Registrierung und Aufbewahrung der Urkunden durch Verordnung.
 
-<sup>2</sup> Er kann die Notarinnen und Notare ermächtigen, elektronische Ausfertigungen der von ihnen erstellten öffentlichen Urkunden zu erstellen und Unterschriften sowie Kopien elektronisch zu beglaubigen; er regelt die Einzelheiten durch Verordnung.
+<sup>2</sup> …
 
 #### Art. 29
 
@@ -373,7 +432,7 @@ beschliesst:
 
 - a eine sie selber betreffende Beurkundung vornehmen lässt,
 - b zu ihren Gunsten oder Lasten eine Verfügung getroffen wird,
-- c bei der Beurkundung einer Willenserklärung eine Urkundspartei vertritt.
+- c bei der Beurkundung einer Willenserklärung eine Vertragspartei vertritt.
 
 <sup>3</sup> Nicht als Beteiligung im Sinne dieser Bestimmung gilt, wenn in einem Vertrag zwischen Drittpersonen Rechte oder Pflichten derselben gegenüber den in Absatz 1 genannten Personen übertragen werden oder wenn über solche Rechte oder Pflichten eine Feststellungsurkunde für einen Dritten errichtet wird.
 
@@ -383,15 +442,27 @@ beschliesst:
 
 #### Art. 33
 
-**Besondere Fälle**
+**Ausstandspflicht bei Beglaubigungen, Versteigerungen und Beurkundungen von Versammlungsbeschlüssen**
 
-<sup>1</sup> Bei der Beglaubigung von Unterschriften besteht keine Ausstandspflicht.
+<sup>1</sup> Bei der Beglaubigung von Unterschriften, Kopien und Abschriften besteht keine Ausstandspflicht.
 
 <sup>2</sup> Bei Versteigerungen gilt die Ausstandspflicht nur im Verhältnis zur Versteigerin oder zum Versteigerer.
 
 <sup>3</sup> Die Notarin oder der Notar kann in einer von ihr oder ihm beurkundeten Versteigerung nicht selbst ersteigern.
 
 <sup>4</sup> Bei der Beurkundung von Versammlungsbeschlüssen ist die Notarin oder der Notar nur ausgeschlossen, wenn sie oder er selbst stimmen will.
+
+#### Art. 33a
+
+**Ausstandspflicht bei vorgängiger Liegenschaftsvermittlung**
+
+<sup>1</sup> Bei der Errichtung von öffentlichen Urkunden über Handänderungsverträge eines Grundstücks darf die Notarin oder der Notar nicht mitwirken, wenn eine der nachfolgend aufgeführten Personen als Liegenschaftsvermittlerin oder -vermittler eines Vertragsobjekts tätig war:
+
+- a die Notarin oder der Notar selbst,
+- b Partnerinnen und Partner des Notariatsbüros und der allfälligen Bürogemeinschaft,
+- c Eltern, Geschwister und Kinder von Personen gemäss den Buchstaben a und b,
+- d Ehegatten sowie eingetragene Partnerin oder eingetragener Partner von Personen gemäss den Buchstaben a bis c,
+- e Mitarbeiterinnen und Mitarbeiter des Notariatsbüros und der allfälligen Bürogemeinschaft.
 
 ### 3.3 Wahrheitspflicht
 
@@ -411,17 +482,46 @@ beschliesst:
 
 #### Art. 36
 
-<sup>1</sup> Die Notarin oder der Notar hat über Tatsachen, die ihr oder ihm von den Beteiligten beruflich anvertraut worden sind, Stillschweigen zu bewahren. Das Gleiche gilt für Tatsachen, die sie oder er für die Beteiligten beruflich erfahren hat. Unbefugten Dritten darf keine Einsicht in Schriftstücke gewährt werden, welche solche Tatsachen enthalten.
+**Geltungsbereich**
+
+<sup>1</sup> Die Notarin oder der Notar hat über Tatsachen, die ihr oder ihm von den Beteiligten beruflich anvertraut worden sind, Stillschweigen zu bewahren. Das Gleiche gilt für Tatsachen, die sie oder er für die Beteiligten beruflich erfahren hat. Unbefugten Dritten darf keine Einsicht in Unterlagen gewährt werden, welche solche Tatsachen enthalten.
 
 <sup>2</sup> Die gleiche Geheimhaltungspflicht gilt für die Mitarbeiterinnen und Mitarbeiter, für die Sachverständigen, die Übersetzerinnen und Übersetzer sowie die Schätzerinnen und Schätzer. Die Notarin oder der Notar hat diese Personen darüber zu belehren.
 
-<sup>3</sup> Das Berufsgeheimnis entfällt, wenn
+<sup>2a</sup> Die gleiche Geheimhaltungspflicht gilt zudem für folgende Personen, welche die Notarin oder der Notar darüber zu belehren hat:
+
+- a für alle Mitarbeiterinnen und Mitarbeiter des Notariatsbüros,
+- b für alle Partnerinnen und Partner einer Bürogemeinschaft und deren Mitarbeiterinnen und Mitarbeiter.
+
+<sup>3–4</sup> …
+
+#### Art. 36a
+
+**Wegfall der Geheimhaltungspflicht**
+
+<sup>1</sup> Die Geheimhaltungspflicht entfällt, wenn
 
 - a sämtliche Beteiligten die Notarin oder den Notar davon entbinden,
 - b die richtige Erfüllung einer beruflichen Obliegenheit die Bekanntgabe an Dritte erfordert,
 - c die Notarin oder der Notar durch die Gesetzgebung ausdrücklich zur Bekanntgabe an Behörden verpflichtet ist.
 
-<sup>4</sup> Tatsachen, die allgemein bekannt sind oder von jedermann in einem öffentlichen Register eingesehen werden können, fallen nicht unter die Geheimhaltungspflicht. Können nur bestimmte Personen Einsicht in ein öffentliches Register nehmen, so entfällt die Geheimhaltungspflicht nur ihnen gegenüber.
+<sup>2</sup> Tatsachen, die allgemein bekannt sind oder von jedermann in einem öffentlichen Register eingesehen werden können, fallen nicht unter die Geheimhaltungspflicht. Können nur bestimmte Personen Einsicht in ein öffentliches Register nehmen, so entfällt die Geheimhaltungspflicht nur ihnen gegenüber.
+
+#### Art. 36b
+
+**Entbindung von der Geheimhaltungspflicht**
+
+<sup>1</sup> Die Notarin oder der Notar kann die Aufsichtsbehörde schriftlich um Entbindung von der Geheimhaltungspflicht ersuchen, wenn die Beteiligten die Entbindung nicht erteilen oder diese nicht eingeholt werden kann.
+
+<sup>2</sup> Die Aufsichtsbehörde verfügt die Entbindung von der Geheimhaltungspflicht, wenn das Interesse der Notarin oder des Notars an der Offenlegung wesentlich höher ist als das Interesse der Beteiligten an der Geheimhaltung.
+
+<sup>3</sup> Das Interesse an der Offenlegung ist insbesondere wesentlich höher zu gewichten, wenn die Geheimhaltungspflicht die Notarin oder den Notar daran hindert,
+
+- a sich in einem gegen sie oder ihn geführten Strafverfahren zu verteidigen,
+- b Angriffe gegen die Ehre zurückzuweisen,
+- c einen ungerechtfertigten Vermögensnachteil abzuwenden.
+
+<sup>4</sup> Kann die Entbindung von der Geheimhaltungspflicht nicht eingeholt werden, entscheidet die Aufsichtsbehörde unter Berücksichtigung des mutmasslichen Willens der Beteiligten.
 
 ### 3.6 Interessenwahrung
 
@@ -441,7 +541,7 @@ beschliesst:
 
 **Aufsichtsbehörde**
 
-<sup>1</sup> Die Justiz-, Gemeinde- und Kirchendirektion ist Aufsichtsbehörde über das Notariat. Sie erteilt das Notariatspatent, überwacht die Einhaltung der für die Berufsausübung geltenden Vorschriften und führt das Notariatsregister.
+<sup>1</sup> Die Direktion für Inneres und Justiz ist Aufsichtsbehörde über das Notariat. Sie erteilt das Notariatspatent, überwacht die Einhaltung der für die Berufsausübung geltenden Vorschriften und führt das Notariatsregister.
 
 <sup>2</sup> Sie führt die Untersuchung und entscheidet
 
@@ -482,9 +582,35 @@ beschliesst:
 
 ### 4.2 Revision der Notariatsbüros
 
+#### Art. 41a
+
+**Organisation**
+
+<sup>1</sup> Die Aufsichtsbehörde gewährleistet die Revision der Notariatsbüros.
+
+<sup>2</sup> Sie kann die Revision mit eigenen Revisionsorganen durchführen oder hierzu geeignete Personen oder Organisationen als zugelassene Revisionsorgane anerkennen und diese in einem öffentlichen Register auflisten. Sind die Anerkennungsvoraussetzungen nicht mehr erfüllt, ist ein Revisionsorgan aus dem Register zu streichen.
+
+<sup>3</sup> Die Aufsichtsbehörde setzt einen ständigen Revisionsausschuss unter ihrer Leitung ein, in dem Vertreterinnen und Vertreter der Aufsichtsbehörde, der Revisionsorgane und des kantonalen Berufsverbands der bernischen Notarinnen und Notare Einsitz nehmen.
+
+<sup>4</sup> Der ständige Revisionsausschuss
+
+- a sichtet die Revisionsberichte der Revisionsorgane,
+- b gewichtet die Revisionsfeststellungen,
+- c meldet wesentliche Mängel an die Aufsichtsbehörde.
+
+<sup>5</sup> Der Regierungsrat regelt durch Verordnung
+
+- a die Aufgaben der Revisionsorgane,
+- b die Anerkennungsvoraussetzungen für die Zulassung von Dritten,
+- c die Aufgaben des Revisionsausschusses,
+- d die Einzelheiten der Durchführung der Revisionen,
+- e die Entschädigung der zugelassenen Revisionsorgane und des Revisionsausschusses.
+
 #### Art. 42
 
-<sup>1</sup> Die Einhaltung der Berufsvorschriften ist durch periodische, in der Regel jährliche Revisionen der Notariatsbüros zu prüfen. Die Revisionspflicht endet mit dem Abschluss der Büroliquidation. Der Regierungsrat regelt durch Verordnung die Einzelheiten der Durchführung der Revisionen und die Gebühren der Revisionsorgane.
+**Verfahren**
+
+<sup>1</sup> Die Einhaltung der Berufsvorschriften ist durch periodische Revisionen der Notariatsbüros durch die Revisionsorgane gemäss Artikel 41a zu prüfen. Die Revisionspflicht endet mit dem Abschluss der Büroliquidation.
 
 <sup>2</sup> Die Notarinnen und Notare haben den Revisionsorganen alle erforderlichen Auskünfte zu erteilen und Einblick in alle Bücher, Urkunden und Dokumente zu gewähren, welche mit der Berufsausübung in Zusammenhang stehen. Auf Verlangen sind den Revisionsorganen die privaten Einkommens- und Vermögensverhältnisse der Notarin oder des Notars offen zu legen.
 
@@ -502,13 +628,15 @@ beschliesst:
 
 **Gemeinsame Buchhaltung**
 
-<sup>1</sup> Übt die Notarin oder der Notar gleichzeitig den Anwaltsberuf aus, hat die Buchführung über beide Erwerbstätigkeiten in einer gemeinsamen Buchhaltung zu erfolgen.
+<sup>1</sup> …
 
-<sup>2</sup> Übt sie oder er weitere Tätigkeiten aus, hat die Buchführung über alle selbstständigen Erwerbstätigkeiten in einer gemeinsamen Buchhaltung zu erfolgen. Die Aufsichtsbehörde kann Ausnahmen bestimmen.
+<sup>2</sup> Übt die Notarin oder der Notar weitere Tätigkeiten aus, hat die Buchführung über alle selbstständigen Erwerbstätigkeiten in einer gemeinsamen Buchhaltung zu erfolgen. Die Aufsichtsbehörde kann Ausnahmen bestimmen.
 
-<sup>3</sup> Juristische Personen, Personengesellschaften und Einzelunternehmungen, die eine dem Notariat verwandte oder nahe stehende Tätigkeit ausüben oder mit diesem zusammenarbeiten, unterliegen den Vorschriften über Buchführung, Revision, Geldverkehr und Zahlungsbereitschaft, sofern die Notarin oder der Notar sie wirtschaftlich beherrscht, bei ihnen eine Organstellung innehat oder zu ihnen in einem Arbeitsverhältnis steht.
+<sup>3</sup> Juristische Personen, Personengesellschaften und Einzelunternehmungen, die eine dem Notariat verwandte oder nahestehende Tätigkeit ausüben oder mit Notarinnen und Notaren zusammenarbeiten, unterliegen den Vorschriften über Buchführung, Revision, Geldverkehr und Zahlungsbereitschaft, sofern eine Notarin oder ein Notar sie wirtschaftlich beherrscht, bei ihnen eine Organstellung innehat oder zu ihnen in einem Arbeitsverhältnis steht.
 
-<sup>4</sup> Die Aufsichtsbehörde kann solche juristische Personen, Personengesellschaften und Einzelunternehmungen von der Einhaltung der Vorschriften über Buchführung, Revision, Geldverkehr und Zahlungsbereitschaft befreien. Sie berücksichtigt dabei den Auftritt und die Erscheinung in der Öffentlichkeit, die Verwechslungsgefahr mit dem Notariatsbüro sowie die räumliche, administrative und buchhalterische Trennung vom Notariatsbüro.
+<sup>3a</sup> Hat die Notarin oder der Notar bei einer juristischen Person gemäss Absatz 3 einzig eine Organstellung im obersten Leitungsorgan mit rein strategischem Charakter ohne Beherrschungsmöglichkeit inne, muss die juristische Person die notariatsrechtlichen Spezialvorschriften nicht einhalten.
+
+<sup>4</sup> Die Aufsichtsbehörde kann juristische Personen, Personengesellschaften und Einzelunternehmungen gemäss Absatz 3 von der Einhaltung der Vorschriften über Buchführung, Revision, Geldverkehr und Zahlungsbereitschaft befreien. Sie berücksichtigt dabei den Auftritt und die Erscheinung in der Öffentlichkeit, die Verwechslungsgefahr mit dem Notariatsbüro sowie die räumliche, administrative und buchhalterische Trennung vom Notariatsbüro.
 
 ### 4.4 Disziplinaraufsicht
 
@@ -516,9 +644,9 @@ beschliesst:
 
 **Tatbestand**
 
-<sup>1</sup> Verletzt die Notarin oder der Notar vorsätzlich oder fahrlässig Berufspflichten oder verstösst sie oder er gegen die Bestimmungen dieses Gesetzes und seiner Ausführungserlasse, das Gebot der unabhängigen und einwandfreien Berufsausübung oder gegen das Ansehen des Notariats, namentlich durch aufdringliche Werbung, wird sie oder er unabhängig von der vermögens- und strafrechtlichen Verantwortlichkeit disziplinarisch bestraft.
+<sup>1</sup> Verletzt die Notarin oder der Notar vorsätzlich oder fahrlässig Berufspflichten oder verstösst sie oder er gegen die Bestimmungen dieses Gesetzes und seiner Ausführungserlasse oder das Gebot der unabhängigen und einwandfreien Berufsausübung, wird sie oder er unabhängig von der vermögens- und strafrechtlichen Verantwortlichkeit disziplinarisch sanktioniert.
 
-<sup>2</sup> In leichten Fällen kann von einer Bestrafung abgesehen werden, wenn anzunehmen ist, dass die Notarin oder der Notar den Beruf künftig einwandfrei ausüben wird.
+<sup>2</sup> In leichten Fällen kann von einer Disziplinarmassnahme abgesehen werden, wenn anzunehmen ist, dass die Notarin oder der Notar den Beruf künftig einwandfrei ausüben wird.
 
 #### Art. 46
 
@@ -532,7 +660,7 @@ beschliesst:
 
 #### Art. 47
 
-**Disziplinarmassnahmen**
+**Disziplinarmassnahmen und Gewinneinzug**
 
 <sup>1</sup> Disziplinarmassnahmen sind
 
@@ -543,7 +671,9 @@ beschliesst:
 
 <sup>2</sup> Disziplinarmassnahmen können miteinander verbunden werden.
 
-<sup>3</sup> Bei Löschung oder Suspendierung des Eintrags im Notariatsregister darf die oder der Bestrafte keine Handlungen vornehmen, welche in die hauptberufliche Zuständigkeit der Notarinnen und Notare fallen.
+<sup>2a</sup> Nebst einer Disziplinarmassnahme kann der Einzug eines unrechtmässig realisierten Gewinns verfügt werden.
+
+<sup>3</sup> Nach Löschung oder Suspendierung des Eintrags einer Person im Notariatsregister darf diese keine Handlungen vornehmen, welche in die hauptberufliche Zuständigkeit der Notarinnen und Notare fallen.
 
 <sup>4</sup> Der Antrag auf Löschung des Eintrags im Notariatsregister oder der Verzicht auf das Notariatspatent schliesst die Suspendierung des Eintrags als Disziplinarmassnahme nicht aus.
 
@@ -555,7 +685,7 @@ beschliesst:
 
 <sup>1</sup> Die Verfolgung eines Disziplinarfehlers verjährt nach drei Jahren. Die Verjährung wird durch jede Untersuchungshandlung unterbrochen.
 
-<sup>2</sup> Liegt ein Disziplinarfehler mehr als fünf Jahre zurück, so ist eine Bestrafung ausgeschlossen.
+<sup>2</sup> Liegt ein Disziplinarfehler mehr als zehn Jahre zurück, so ist eine Disziplinarmassnahme ausgeschlossen.
 
 <sup>3</sup> Wird gegen eine Notarin oder einen Notar ein Strafverfahren durchgeführt, so kann nach Ablauf der oben genannten Fristen eine Disziplinarmassnahme wegen des gleichen Sachverhaltes noch innerhalb von zwei Jahren seit Kenntnis des rechtskräftigen Abschlusses des Strafverfahrens ausgefällt werden.
 
@@ -566,6 +696,12 @@ beschliesst:
 <sup>1</sup> Verweise und Bussen werden fünf Jahre nach ihrer Anordnung im Notariatsregister gelöscht.
 
 <sup>2</sup> Der Eintrag einer Suspendierung wird zehn Jahre nach deren Ablauf im Notariatsregister gelöscht.
+
+#### Art. 49a
+
+**Ende der Disziplinaraufsicht**
+
+<sup>1</sup> Die Disziplinaraufsicht endet mit dem vollständigen Abschluss der Büroliquidation und nicht schon mit der Löschung im Notariatsregister.
 
 ## 5 Notariatsgebühren
 
@@ -579,6 +715,11 @@ beschliesst:
 
 <sup>3</sup> Hat die Gebührenschuldnerin oder der Gebührenschuldner den Wohn- oder Geschäftssitz ausserhalb des Kantons Bern, können bestrittene Gebühren und Auslagen beim Gericht am Ort des Notariatsbüros oder des Zweigbüros geltend gemacht werden.
 
+<sup>4</sup> Die Notarin oder der Notar kann ihren oder seinen Anspruch auf eine Gebühr und auf Auslagenersatz wie folgt abtreten:
+
+- a an eine Notarin oder einen Notar desselben Büros,
+- b an eine Notariats-AG oder eine Notariats-GmbH, bei der sie oder er angestellt ist.
+
 #### Art. 51
 
 **Gegenstand**
@@ -590,26 +731,29 @@ beschliesst:
 - c die Vorbereitung der Urkunde,
 - d die Durchführung des Beurkundungsverfahrens,
 - e die Registrierung und Aufbewahrung der Urschrift,
-- f das Erstellen und die Herausgabe einer Ausfertigung für das Grundbuch- oder das Handelsregisteramt.
+- f das Erstellen und die Herausgabe von Ausfertigungen,
+- g die Abschlussarbeiten, einschliesslich Archivierung.
 
-<sup>2</sup> Für das Ausstellen weiterer Ausfertigungen und die Erfüllung weiterer gesetzlicher Verpflichtungen wird eine zusätzliche Gebühr erhoben.
+<sup>2</sup> Für die Erfüllung weiterer gesetzlicher Verpflichtungen wird zusätzlich eine Gebühr nach gebotenem Zeitaufwand erhoben.
 
 #### Art. 52
 
 **Bemessung**
 
-<sup>1</sup> Die Notariatsgebühr bemisst sich nach dem Arbeitsaufwand, nach der Bedeutung des Geschäfts, nach der von der Notarin oder vom Notar übernommenen Verantwortung sowie nach der wirtschaftlichen Leistungsfähigkeit der rogierenden Partei.
+<sup>1</sup> Die Notariatsgebühr bemisst sich nach dem Arbeitsaufwand, nach der Bedeutung des Geschäfts und nach der von der Notarin oder vom Notar übernommenen Verantwortung.
 
-<sup>2</sup> Der Regierungsrat regelt durch Verordnung die Gebühren für die hauptberufliche Tätigkeit der Notarin und des Notars.
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung die Gebühren für die hauptberufliche Tätigkeit der Notarin oder des Notars.
 
-<sup>3</sup> Die Gebühren sind so auszugestalten, dass die Notarinnen und Notare in der Lage sind, die allgemeinen Unkosten zu finanzieren, eine angemessene Altersvorsorge aufzubauen und ein Einkommen zu erzielen, das ihrer Ausbildung und Verantwortung entspricht.
+<sup>3</sup> Die Gebühren sind so auszugestalten, dass die Notarinnen und Notare ihren Beruf insbesondere unter Berücksichtigung ihrer Ausbildung, ihrer Verantwortung und ihres unternehmerischen Risikos unabhängig ausüben können.
 
-<sup>4</sup> Der Regierungsrat erlässt
+<sup>4</sup> Der Regierungsrat regelt durch Verordnung
 
-- a einen gestaffelten Rahmentarif für die Gebühren zur Errichtung öffentlicher Urkunden über Geschäfte mit Geschäftswert,
-- b einen Rahmentarif für die Gebühren zur Errichtung öffentlicher Urkunden über Geschäfte ohne Geschäftswert.
+- a einen gestaffelten Rahmentarif für die Gebühren zur Errichtung öffentlicher Urkunden über Geschäfte mit Geschäftswert, wobei er bei Geschäften über Grundpfandrechte sowie ausnahmsweise bei gesellschaftsrechtlichen Geschäften eine Gebühr nach gebotenem Zeitaufwand gemäss Buchstabe b vorsehen kann,
+- b die Bandbreite des Stundenansatzes für eine Gebühr nach gebotenem Zeitaufwand gekoppelt mit einer Minimalgebühr,
+- c die Voraussetzungen, unter denen eine Notarin oder ein Notar bei einer bedürftigen oder gemeinnützigen Klientschaft die Bandbreite des Stundenansatzes bei einer Gebühr nach Zeitaufwand oder die Minimalgebühr unterschreiten darf,
+- d weitere Unterschreitungsmöglichkeiten in Ausnahmefällen.
 
-<sup>5</sup> Innerhalb des Tarifrahmens richtet sich die Notariatsgebühr nach den Grundsätzen von Absatz 1.
+<sup>5</sup> …
 
 #### Art. 53
 
@@ -647,11 +791,11 @@ beschliesst:
 
 **Haftung aus hauptberuflicher Tätigkeit**
 
-<sup>1</sup> Die Notarin oder der Notar haftet den Beteiligten für den Schaden, den sie oder er in Ausübung hauptberuflicher Tätigkeiten rechtswidrig verschuldet hat.
+<sup>1</sup> Die Notarin oder der Notar haftet den Beteiligten für den Schaden, den sie oder er in Ausübung hauptberuflicher Tätigkeiten widerrechtlich verursacht hat.
 
-<sup>2</sup> Für das Verschulden von Mitarbeiterinnen und Mitarbeitern haftet die Notarin oder der Notar wie für eigenes.
+<sup>2</sup> Für die Handlungen von Mitarbeiterinnen und Mitarbeitern haftet die Notarin oder der Notar wie für ihre oder seine eigenen.
 
-<sup>3</sup> Hat die Notarin oder der Notar die Beurkundung richtig vorgenommen, haftet sie oder er nur bei grobem Verschulden für die schädigenden Folgen
+<sup>3</sup> Hat die Notarin oder der Notar die Beurkundung richtig vorgenommen, haftet sie oder er nur bei einer Verletzung einer Sorgfaltspflicht für die schädigenden Folgen
 
 - a eines unter ihrer oder seiner beruflichen Mitwirkung durch die Urkundsparteien in rechtswidriger Weise abgeschlossenen Rechtsgeschäfts,
 - b eines unter ihrer oder seiner beruflichen Mitwirkung durch die Urkundsparteien zu einem rechtswidrigen oder unsittlichen Zweck abgeschlossenen Rechtsgeschäfts oder
@@ -663,7 +807,7 @@ beschliesst:
 
 <sup>6</sup> Auf die Entstehung, die Bemessung und den Untergang von Schadenersatzansprüchen finden die Vorschriften des Obligationenrechts (OR[^57-1]) über unerlaubte Handlungen als ergänzendes kantonales Recht Anwendung.
 
-<sup>7</sup> Der Kanton haftet nicht.
+<sup>7</sup> …
 
 [^57-1]: SR 220
 
@@ -673,13 +817,33 @@ beschliesst:
 
 <sup>1</sup> Die vermögensrechtliche Verantwortlichkeit der Notarin oder des Notars aus nebenberuflicher Tätigkeit richtet sich nach den Vorschriften des Privatrechts.
 
+#### Art. 58a
+
+**Haftung der Notariats-AG und der Notariats-GmbH**
+
+<sup>1</sup> Die Notariats-AG und die Notariats-GmbH können die Haftpflicht für die vermögensrechtliche Verantwortlichkeit gemäss Artikel 57 und 58 für die bei ihnen angestellten Notarinnen und Notare übernehmen.
+
+<sup>2</sup> Für die Übernahme der Haftpflicht bedarf es einer Grundlage in den Statuten.
+
+<sup>3</sup> Die Klientschaft ist in geeigneter Form über die Übernahme der Haftpflicht durch die Notariats-AG oder die Notariats-GmbH zu orientieren.
+
+<sup>4</sup> Sofern die Notariats-AG oder die Notariats-GmbH die Haftpflicht übernommen hat, haftet die angestellte Notarin oder der angestellte Notar subsidiär gemäss Artikel 57 und 58.
+
 #### Art. 59
 
-**Sicherheit und Berufshaftpflichtversicherung**
+**Berufshaftpflichtversicherung**
 
-<sup>1</sup> Die Notarin oder der Notar hat zur Deckung allfälliger Ansprüche aus ihrer oder seiner vermögensrechtlichen Verantwortlichkeit eine Sicherheit zu stellen und ausserdem eine Berufshaftpflichtversicherung in angemessener Höhe abzuschliessen.
+<sup>1</sup> Die Notarin oder der Notar hat zur Deckung allfälliger Ansprüche aus ihrer oder seiner vermögensrechtlichen Verantwortlichkeit eine Berufshaftpflichtversicherung in angemessener Höhe abzuschliessen.
+
+<sup>1a</sup> Eine Notariats-AG oder eine Notariats-GmbH hat zur Deckung allfälliger Ansprüche aus ihrer eigenen vermögensrechtlichen Verantwortlichkeit sowie jener der von ihr angestellten Notarinnen und Notare eine Berufshaftpflichtversicherung in angemessener Höhe abzuschliessen.
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 59a
+
+**Haftung des Kantons**
+
+<sup>1</sup> Der Kanton haftet nur dann und subsidiär, wenn er einen Schaden wegen mangelhafter Ausübung seiner Aufsichtspflicht mitverursacht hat.
 
 #### Art. 60
 
@@ -747,6 +911,24 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+## T1 Übergangsbestimmungen der Änderung vom 12.03.2020
+
+#### Art. T1-1
+
+**Evaluation**
+
+<sup>1</sup> Der Regierungsrat überprüft acht Jahre nach Inkrafttreten dieser Änderung und ihrer Ausführungsbestimmungen die Organisation und die Einkommenssituation der bernischen Notariate sowie die Notariatsgebühren.
+
+<sup>2</sup> Zu überprüfen ist insbesondere, wie sich die Öffnung der Organisationsformen auf die Unabhängigkeit der bernischen Notariate und deren Verbreitung im Kantonsgebiet auswirkt.
+
+<sup>3</sup> Nebst der generellen Einkommenssituation der bernischen Notariate ist insbesondere der Anteil der Notariatsgebühren am Gesamteinkommen zu evaluieren.
+
+<sup>4</sup> Bei den Notariatsgebühren ist insbesondere zu überprüfen, ob und wie der vorhandene Bemessungsspielraum bei den jeweiligen Gebührenarten konkret ausgeschöpft wird.
+
+<sup>5</sup> Die bernischen Notarinnen und Notare sind zur Mitwirkung bei der Evaluation verpflichtet.
+
+<sup>6</sup> Der Regierungsrat legt anschliessend dem Grossen Rat einen Bericht vor.
 
 Bern, 22. November 2005
 

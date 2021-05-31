@@ -4,13 +4,13 @@ number: "169.11"
 title: Loi sur le notariat
 short: LN
 language: fr
-version: 2012-01-01
-valid_until: 2021-05-31
-version_adopted: 2011-06-16
+version: 2021-06-01
+valid_until: 2026-08-31
+version_adopted: 2020-03-12
 adopted: 2005-11-22
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/169.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1060/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3356/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1060/pdf_file"
 
 (LN)
 
-du 22.11.2005 (état au 01.01.2012)
+du 22.11.2005 (état au 01.06.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -53,21 +53,44 @@ arrête:
 
 **Indépendance**
 
-<sup>1</sup> Le ou la notaire exerce sa profession de manière indépendante et sous sa propre responsabilité. Il lui est interdit de l’exercer au nom ou pour le compte d’une personne morale.
+<sup>1</sup> Le ou la notaire exerce sa profession de manière indépendante et sous sa propre responsabilité.
+
+<sup>2</sup> Un ou une notaire peut exercer sa profession en étant employé ou employée
+
+- a par un ou une autre notaire inscrite au registre des notaires;
+- b par une société anonyme (SA de notaires) ou une société à responsabilité limitée (Sàrl de notaires), pour autant que ces sociétés soient contrôlées par des personnes inscrites au registre des notaires.
+
+<sup>3</sup> La SA ou la Sàrl de notaires doit avoir son siège dans le canton de Berne.
+
+<sup>4</sup> La présidence de l’organe de direction suprême d’une SA ou d’une Sàrl de notaires doit être exercée par une personne inscrite au registre des notaires.
+
+<sup>5</sup> Le Conseil-exécutif fixe par voie d’ordonnance les conditions d’admissibilité de la SA ou de la Sàrl de notaires et les exigences minimales à respecter pour leur contrôle par des personnes inscrites au registre des notaires.
 
 #### Art. 4
 
-**Incompatibilités**
+**Incompatibilité quant à l'organisation**
 
 <sup>1</sup> L’accomplissement d’une autre activité professionnelle est incompatible avec l’exercice du notariat si celle-ci occupe une part prépondérante du temps de travail du ou de la notaire. L’autorité de surveillance peut accorder des dérogations si l’indépendance dans l’exercice de la profession et la réputation du notariat ne sont pas compromises.
 
-<sup>2</sup> La pratique simultanée d’une activité dans le domaine de la tenue du registre foncier ou du registre du commerce est incompatible avec l’exercice du notariat.
-
-<sup>3</sup> Le ou la notaire ne peut en outre exercer aucune activité occasionnelle ou permanente qui soit incompatible avec l’exercice indépendant et irréprochable de la profession ou avec la réputation du notariat. Il ou elle ne peut notamment s’engager dans des opérations spéculatives de quelque nature qu’elles soient ni assumer des cautionnements ou garanties en relation avec l’exercice de la profession. Le ou la notaire ne peut faire exercer ce genre d’activités par des tiers.
+<sup>2–3</sup> …
 
 <sup>4</sup> L’exercice simultané de la profession de notaire et d’avocat ou d’avocate est autorisé.
 
-<sup>5</sup> Un ou une notaire peut exercer sa profession en étant employée par un ou une autre notaire inscrite au registre des notaires.
+<sup>5</sup> …
+
+#### Art. 4a
+
+**Incompatibilité quant au fond**
+
+<sup>1</sup> Le ou la notaire ne peut exercer aucune activité occasionnelle ou permanente qui soit incompatible avec l’exercice indépendant et irréprochable de la profession, comme
+
+- a des opérations spéculatives de quelque nature qu’elles soient;
+- b la prise en charge de cautionnements ou de garanties en relation avec l’exercice de la profession;
+- c le commerce d'immeubles.
+
+<sup>2</sup> Le courtage immobilier est incompatible avec la profession de notaire, en particulier lorsqu'il est effectué de manière durable, à titre professionnel ou en échange d’une commission ou d’une convention de rémunération comparable. Seule est admissible une activité de courtage à caractère occasionnel, rétribuée par des honoraires calculés en fonction du temps requis, indépendamment du succès de l’activité. Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
+
+<sup>3</sup> Le ou la notaire ne peut faire exercer par des tiers des activités incompatibles avec l’exercice de sa profession.
 
 #### Art. 5
 
@@ -89,6 +112,8 @@ arrête:
 
 <sup>5</sup> Le détenteur ou la détentrice du brevet de notaire a le droit de porter le titre de notaire.
 
+<sup>5a</sup> Suite à la radiation de l’inscription du registre des notaires au sens de l’article 47, alinéa 1, lettre d, le titre de notaire ne peut plus être porté pendant une durée de trois ans.​
+
 <sup>6</sup> Si l’une des conditions requises pour l’obtention du brevet de notaire n’est plus remplie, il doit être retiré. Si le motif du retrait n’existe plus, le brevet peut être restitué.
 
 <sup>7</sup> Si, pour raison de maladie, d’accident ou d’âge, le ou la notaire n’a plus l’exercice des droits civils, le brevet de notaire ne doit pas lui être retiré en règle générale.
@@ -97,7 +122,7 @@ arrête:
 
 **Voies de droit en matière d’examens**
 
-<sup>1</sup> Les décisions de la commission des examens de notaire ainsi que celles de son président ou de sa présidente peuvent faire l’objet d’un recours devant la Direction de la justice, des affaires communales et des affaires ecclésiastiques.
+<sup>1</sup> Les décisions de la commission des examens de notaire ainsi que celles de son président ou de sa présidente peuvent faire l’objet d’un recours devant la Direction de l’intérieur et de la justice.
 
 <sup>2</sup> Il ne peut être formé recours contre les résultats des examens que pour violation du droit.
 
@@ -124,8 +149,9 @@ arrête:
 - a le nom, le prénom, la date de naissance, le lieu d'origine ou la nationalité du ou de la notaire,
 - b la date de l’obtention du brevet,
 - c la date de l’inscription et celle d’une éventuelle radiation,
-- d le nom et l’adresse de l’étude de notaire ainsi que celle de son étude annexe ou de ses études annexes,
-- e les mesures administratives et les mesures disciplinaires.
+- d le nom, l’adresse et la forme juridique de l’étude de notaire ainsi que celle de son étude annexe ou de ses études annexes,
+- e les mesures administratives et les mesures disciplinaires,
+- f le nom et l'adresse des inspecteurs et inspectrices des études de notaires.
 
 <sup>2</sup> Le Conseil-exécutif peut prévoir l’inscription d’autres données personnelles dans le registre des notaires si celles-ci s’avèrent importantes pour assumer la surveillance des notaires en exercice.
 
@@ -143,15 +169,15 @@ arrête:
 
 - a est titulaire du brevet de notaire du canton de Berne;
 - b a l’exercice des droits civils et jouit d’une santé qui lui permet d’exercer la profession;
-- c offre les garanties nécessaires à l’exercice irréprochable de la profession, dans la mesure où elle n’a pas fait l’objet d’une condamnation pénale pour des faits incompatibles avec l’exercice de la profession à moins que cette condamnation ne figure plus sur l’extrait privé du casier judiciaire;
+- c offre les garanties nécessaires à l’exercice irréprochable de la profession, dans la mesure où elle n’a pas fait l’objet d’une condamnation pénale pour des faits incompatibles avec l’exercice de la profession à moins que cette condamnation ne figure plus sur l’extrait du casier judiciaire destiné à des particuliers;
 - d se trouve financièrement dans une situation saine;
 - e est domiciliée en Suisse;
-- f a déposé une caution et conclu une assurance responsabilité civile professionnelle;
+- f a conclu une assurance responsabilité civile professionnelle;
 - g dispose pour son étude de locaux appropriés dans le canton de Berne;
 - h ne poursuit aucune activité incompatible avec le notariat et
-- i a déposé sa signature auprès de la Direction de la justice, des affaires communales et des affaires ecclésiastiques.
+- i a déposé sa signature auprès de la Direction de l’intérieur et de la justice.
 
-<sup>2</sup> Le Conseil-exécutif peut, par voie d’ordonnance, habiliter l’autorité de surveillance à admettre comme condition requise pour l’inscription au registre des notaires, à la place du brevet de notaire bernois, l’obtention d’un certificat d’un autre canton reconnaissant l’aptitude de la personne appelée à authentifier, pour autant que la formation et les examens soient de même valeur et que l’autre canton applique la réciprocité.
+<sup>2</sup> Le Conseil-exécutif habilite, par voie d’ordonnance, l’autorité de surveillance à admettre comme condition requise pour l’inscription au registre des notaires, à la place du brevet de notaire bernois, un certificat d’un autre canton reconnaissant l’aptitude de la personne appelée à authentifier, pour autant que la formation et les examens soient de même valeur et que l’autre canton applique la réciprocité.
 
 #### Art. 10
 
@@ -216,6 +242,9 @@ arrête:
 
 - a des notaires inscrits au registre des notaires du canton de Berne,
 - b des avocats et des avocates inscrites à un registre des avocats et des avocates.
+- c d’autres personnes offrant des prestations de conseil qualifiées, notamment en matière fiduciaire ou fiscale, de gérance immobilière, de gestion de fortune, d’architecture ou de construction.
+
+<sup>2</sup> Le Conseil-exécutif peut définir par voie d’ordonnance les prestations susceptibles d’être fournies dans le cadre d’une étude commune.
 
 #### Art. 17
 
@@ -257,6 +286,18 @@ arrête:
 
 <sup>2</sup> L’activité principale du ou de la notaire comprend les tâches qu’il ou elle est seule à avoir le droit d’effectuer.
 
+#### Art. 20a
+
+**Traitement de données extraites de fichiers centraux de données personnelles**
+
+<sup>1</sup> Les notaires disposent, par l’intermédiaire d’une procédure d’appel, du profil de base conformément à l’article 4, alinéa 1, lettre d de la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^20a-1] pour accomplir les tâches qui relèvent de leur activité principale au sens de l’article 20.
+
+<sup>2</sup> Pour déterminer si une personne dispose de la capacité d’exercer ses droits civils, les notaires ont en outre accès à des données particulièrement dignes de protection dans le domaine des mesures de protection de l’adulte par l’intermédiaire d’une procédure d’appel, mais sans fonctionnalités conformément à l’article 4, alinéa 1, lettre f LFDP.
+
+<sup>3</sup> Si un ou une notaire utilise des données extraites de fichiers centraux de données personnelles à des fins autres que celles qui lui permettent d’accomplir son activité principale, le droit d’accès peut lui être retiré. Les mesures disciplinaires et de droit pénal sont réservées.
+
+[^20a-1]: RSB [152.05](https://www.belex.sites.be.ch/data/152.05/fr)
+
 #### Art. 21
 
 **Compétence à raison de la matière**
@@ -274,6 +315,10 @@ arrête:
 **Compétence à raison du lieu**
 
 <sup>1</sup> Le ou la notaire peut instrumenter sur l’ensemble du territoire cantonal.
+
+<sup>2</sup> Il n’existe aucune restriction à raison du lieu pour l’apposition de la signature et la présentation de la preuve de la fonction lors de légalisations et d’expéditions par voie électronique.
+
+<sup>3</sup> S’il est procédé à la constatation notariée par l’intermédiaire de moyens de communication électroniques, le ou la notaire qui s’en charge doit se trouver dans le canton de Berne.
 
 #### Art. 23
 
@@ -300,15 +345,27 @@ arrête:
 
 <sup>1</sup> L’acte authentifié constitue la minute.
 
+<sup>2</sup> Dans la mesure où le droit fédéral admet l’établissement électronique d’une minute, le Conseil-exécutif édicte par voie d’ordonnance les dispositions d’introduction et d’exécution nécessaires.
+
 #### Art. 26
 
 **Expéditions**
 
 <sup>1</sup> Les expéditions sont des actes authentiques qui reproduisent littéralement le contenu de la minute et qui servent de moyens de preuve ou de pièces justificatives pour l’inscription dans des registres publics.
 
-<sup>2</sup> Elles sont délivrées par le ou la notaire qui a instrumenté. S’il ou elle a un empêchement, l’autorité de surveillance désigne un ou une autre notaire inscrite au registre des notaires.
+<sup>2</sup> Elles sont délivrées par le ou la notaire qui a instrumenté. S’il ou elle a un empêchement, les expéditions peuvent être délivrées par un ou une notaire qui exerce son activité professionnelle à titre principal dans l'étude commune. L’autorité de surveillance peut désigner un ou une autre notaire inscrite au registre des notaires pour délivrer une expédition.
 
-<sup>3</sup> Si le ou la notaire n’est plus inscrite au registre des notaires, les expéditions sont établies conformément aux instructions de l’autorité de surveillance. Celle-ci peut autoriser la personne chargée d’administrer les minutes d’établir des expéditions.
+<sup>3</sup> Si le ou la notaire n'est plus inscrite au registre des notaires, la personne qui lui succède dans l'étude et qui administre les minutes est autorisée à délivrer les expéditions. Si personne au sein de l’étude ne succède au ou à la notaire, les expéditions sont établies conformément aux instructions de l’autorité de surveillance.
+
+#### Art. 26a
+
+**Expéditions électroniques et changement de support**
+
+<sup>1</sup> Le ou la notaire est habilitée
+
+- a à délivrer des expéditions électroniques;
+- b à légaliser des copies d'originaux sous forme électronique ou papier ainsi que des copies électroniques qui, avant leur changement de support, existaient sous forme papier, ou inversement;
+- c à légaliser les signatures dont le support a changé.
 
 #### Art. 27
 
@@ -318,13 +375,15 @@ arrête:
 
 <sup>2</sup> Les répertoires des minutes constituent des actes authentiques.
 
+<sup>3</sup> Le Conseil-exécutif peut habiliter les notaires à tenir le répertoire des minutes sous forme électronique. Il règle les modalités de détail par voie d’ordonnance.
+
 #### Art. 28
 
 **Ordonnance**
 
 <sup>1</sup> Le Conseil-exécutif règle par voie d’ordonnance les procédures d’authentification des actes, l’établissement d’expéditions ainsi que l’inscription dans les répertoires et la garde des minutes.
 
-<sup>2</sup> Il peut habiliter les notaires à établir des expéditions électroniques des actes authentiques qu’ils ont dressés et à légaliser de manière électronique des signatures ainsi que des copies; il règle les modalités de détail par voie d’ordonnance.
+<sup>2</sup> …
 
 #### Art. 29
 
@@ -365,7 +424,7 @@ arrête:
 <sup>1</sup> Le ou la notaire doit s’abstenir de recevoir un acte authentique et d’exercer des fonctions en rapport avec ce dernier si
 
 - a il ou elle est partie intéressée;
-- b sa conjointe ou son conjoint, son ou sa partenaire enregistrée, la personne avec laquelle il ou elle mène de fait une vie de couple, ses parents en ligne directe, ainsi que ses frères et sœ urs, ou les conjoints, les partenaires enregistrés de ces derniers ou les personnes avec lesquelles ils mènent de fait une vie de couple sont parties intéressées;
+- b sa conjointe ou son conjoint, son ou sa partenaire enregistrée, la personne avec laquelle il ou elle mène de fait une vie de couple, ses parents en ligne directe, ainsi que ses frères et sœurs, ou les conjoints, les partenaires enregistrés de ces derniers ou les personnes avec lesquelles ils mènent de fait une vie de couple sont parties intéressées;
 - c une société en nom collectif ou en commandite dont il ou elle fait partie en tant qu’associé ou associée à responsabilité illimitée ou commanditaire est partie intéressée, ou
 - d pour l’authentification d’une déclaration de volonté, il ou elle appartient à un organe autorisé à représenter une personne morale qui est partie intéressée ou pour laquelle il ou elle a la signature.
 
@@ -373,7 +432,7 @@ arrête:
 
 - a qui fait authentifier par un ou une notaire un acte la concernant;
 - b pour laquelle une disposition a été prise, que ce soit en sa faveur ou à sa charge;
-- c qui représente une partie à l’acte lors de l’authentification d’une déclaration de volonté.
+- c qui représente une partie au contrat lors de l’authentification d’une déclaration de volonté.
 
 <sup>3</sup> Ne sont pas considérés comme participation à l’acte au sens de la présente disposition le cas où, dans un contrat entre tiers, des droits ou des obligations de ceux-ci envers des personnes entrant dans les catégories mentionnées à l’alinéa 1 sont transférés ou celui où de tels droits ou obligations font l’objet d’un acte authentique de constatation pour un tiers.
 
@@ -383,15 +442,27 @@ arrête:
 
 #### Art. 33
 
-**Cas particuliers**
+**Obligation de se récuser dans les cas de légalisations, de ventes aux enchères et de décisions d’assemblées**
 
-<sup>1</sup> L’obligation de se récuser n’existe pas pour la légalisation de signatures.
+<sup>1</sup> L’obligation de se récuser n’existe pas pour la légalisation de signatures ou de copies.
 
 <sup>2</sup> Pour les ventes aux enchères, le ou la notaire ne doit se récuser que dans ses rapports avec le vendeur ou la venderesse.
 
 <sup>3</sup> Le ou la notaire ne peut en outre lui-même ou elle-même prendre part à une vente aux enchères pour laquelle il ou elle instrumente.
 
 <sup>4</sup> Il ou elle ne peut pas dresser acte des décisions d’assemblées lorsqu’il ou elle veut lui-même ou elle-même prendre part au vote.
+
+#### Art. 33a
+
+**Obligation de se récuser en cas d'opération préalable de courtage immobilier**
+
+<sup>1</sup> Lors de l'établissement d'actes authentiques relatifs à des contrats de mutation concernant un immeuble, le ou la notaire ne peut pas participer si l’une des personnes énumérées ci-après a agi en tant que courtier immobilier ou courtière immobilière au sujet d’un objet du contrat:
+
+- a le ou la notaire en personne;
+- b les partenaires de l’étude de notaire et, le cas échéant, de l'étude commune;
+- c les parents, les frères et sœurs et les enfants des personnes au sens des lettres a et b;
+- d les époux et épouses ainsi que les partenaires enregistrés de personnes au sens des lettres a à c.
+- e les collaborateurs et collaboratrices de l’étude de notaire et, le cas échéant, de l'étude commune.
 
 ### 3.3 Sincérité des actes
 
@@ -411,17 +482,46 @@ arrête:
 
 #### Art. 36
 
+**Champ d'application**
+
 <sup>1</sup> Le ou la notaire doit taire les faits qui lui ont été confiés dans l’exercice de sa profession par les parties intéressées. Il en va de même pour les faits dont il ou elle a eu connaissance dans le cadre de ses activités professionnelles. Des tiers non autorisés ne peuvent pas prendre connaissance des documents contenant de tels faits.
 
 <sup>2</sup> Sont également tenus au secret professionnel les collaborateurs et les collaboratrices du ou de la notaire, les experts et les expertes, les traducteurs et les traductrices ainsi que les personnes chargées de l’estimation; le ou la notaire doit les en informer.
 
-<sup>3</sup> Le ou la notaire n’est pas tenue au secret professionnel si
+<sup>2a</sup> Sont également tenues au secret professionnel les personnes suivantes, qui doivent en être informées:
 
-- a toutes les parties intéressées l’en délient;
-- b des tiers doivent être informés de certains faits pour qu’il ou elle puisse accomplir correctement un devoir professionnel;
-- c il ou elle est expressément contrainte par la législation de communiquer les faits aux autorités.
+- a tous les collaborateurs et les collaboratrices de l’étude de notaire,
+- b tous les partenaires au sein d’une étude commune, leurs collaborateurs et leurs collaboratrices.
 
-<sup>4</sup> Les faits qui sont de notoriété publique ou dont chacun peut prendre connaissance en consultant un registre public, ne sont pas soumis au secret. Si certaines personnes seulement peuvent consulter un registre public, le ou la notaire n’est pas tenue au secret professionnel à leur égard.
+<sup>3–4</sup> …
+
+#### Art. 36a
+
+**Abandon du secret professionnel**
+
+<sup>1</sup> Le ou la notaire n’est pas tenue au secret professionnel
+
+- a si toutes les parties intéressées l’en délient;
+- b s'il ou elle doit informer des tiers de certains faits pour pouvoir accomplir correctement un devoir professionnel;
+- c s'il ou elle est expressément contrainte par la législation de communiquer les faits aux autorités.
+
+<sup>2</sup> Les faits qui sont de notoriété publique ou dont quiconque peut prendre connaissance en consultant un registre public ne sont pas soumis au secret. Si certaines personnes seulement peuvent consulter un registre public, le ou la notaire n’est pas tenue au secret professionnel à leur égard.
+
+#### Art. 36b
+
+**Demande de libération du secret professionnel**
+
+<sup>1</sup> Le ou la notaire peut adresser par écrit une requête de libération du secret professionnel à l’autorité de surveillance lorsque les personnes intéressées refusent d’accorder cette libération ou qu’il n’est pas possible de la leur demander.
+
+<sup>2</sup> L’autorité de surveillance libère du secret professionnel le ou la notaire dont l’intérêt à la révélation d’un fait l’emporte nettement sur celui des parties au maintien du secret.
+
+<sup>3</sup> L’intérêt du ou de la notaire à la révélation d’un fait l’emporte nettement en particulier lorsque le secret professionnel l’empêche
+
+- a de se défendre dans une procédure pénale engagée à son encontre;
+- b de repousser des attaques contre son honneur;
+- c d’éviter un préjudice matériel injustifié.
+
+<sup>4</sup> Lorsqu’il n’est pas possible de demander la libération du secret professionnel aux personnes intéressées, l’autorité de surveillance statue compte tenu de leur volonté présumée.
 
 ### 3.6 Sauvegarde des intérêts
 
@@ -441,7 +541,7 @@ arrête:
 
 **Autorité de surveillance**
 
-<sup>1</sup> La Direction de la justice, des affaires communales et des affaires ecclésiastiques est l’autorité de surveillance du notariat. Elle délivre le brevet de notaire, surveille le respect des prescriptions concernant l’exercice de la profession et tient le registre des notaires.
+<sup>1</sup> La Direction de l’intérieur et de la justice est l’autorité de surveillance du notariat. Elle délivre le brevet de notaire, surveille le respect des prescriptions concernant l’exercice de la profession et tient le registre des notaires.
 
 <sup>2</sup> Elle dirige les procédures ouvertes contre les notaires et décide
 
@@ -482,9 +582,35 @@ arrête:
 
 ### 4.2 Inspection des études de notaires
 
+#### Art. 41a
+
+**Organisation**
+
+<sup>1</sup> L’autorité de surveillance garantit que les études de notaires font l’objet d’une inspection.
+
+<sup>2</sup> Elle peut procéder à l’inspection en recourant à ses propres organes d'inspection ou reconnaître des personnes ou des organisations qualifiées en tant qu’organes d’inspection agréés et en dresser la liste dans un répertoire public. Si un organe d’inspection ne remplit plus les conditions de reconnaissance, il est exclu du répertoire.
+
+<sup>3</sup> L’autorité de surveillance institue une commission d’inspection permanente, qu’elle place sous sa direction, dans laquelle siègent des représentants et représentantes de l’autorité de surveillance, des organes d’inspection et de l’association professionnelle cantonale des notaires bernois.
+
+<sup>4</sup> La commission d’inspection permanente
+
+- a passe en revue les rapports établis par les organes d’inspection;
+- b évalue les constatations faites lors des inspections;
+- c annonce les lacunes importantes à l’autorité de surveillance.
+
+<sup>5</sup> Le Conseil-exécutif définit par voie d’ordonnance
+
+- a les tâches des organes d’inspection,
+- b les conditions de reconnaissance et d’admission de tiers,
+- c les tâches de la commission d’inspection,
+- d les détails de l’organisation des inspections,
+- e la rémunération des membres des organes d'inspection agréés et de la commission d’inspection.
+
 #### Art. 42
 
-<sup>1</sup> Le respect des prescriptions professionnelles doit faire l’objet d’un examen régulier, généralement sous la forme d’une inspection annuelle des études de notaires. Le devoir d’inspection s’éteint lorsque la liquidation de l’étude est terminée. Le Conseil-exécutif règle par voie d’ordonnance les détails de l’organisation des inspections et des émoluments des organes d’inspection.
+**Procédure**
+
+<sup>1</sup> Les organes prévus à l’article 41a examinent, lors d’inspections périodiques, le respect des prescriptions professionnelles par les études de notaires. Le devoir d’inspection s’éteint lorsque la liquidation de l’étude est terminée.
 
 <sup>2</sup> Les notaires doivent transmettre aux organes d’inspection tous les renseignements nécessaires et leur garantir l’accès à l’ensemble des livres, actes et documents en rapport avec l’exercice de la profession. Sur demande, le ou la notaire doit présenter aux organes d’inspection l’état de ses revenus privés et de sa fortune personnelle.
 
@@ -502,13 +628,15 @@ arrête:
 
 **Comptabilité commune**
 
-<sup>1</sup> Lorsque le ou la notaire exerce simultanément le barreau, il ou elle tiendra les comptes de ses deux activités lucratives dans une comptabilité commune.
+<sup>1</sup> …
 
-<sup>2</sup> Lorsqu’il ou elle exerce d’autres activités, le ou la notaire tiendra les comptes de toutes ses activités lucratives exercées de manière indépendante dans une comptabilité commune. L’autorité de surveillance peut prévoir des exceptions.
+<sup>2</sup> Lorsque le ou la notaire exerce d’autres activités, il ou elle tient les comptes de toutes ses activités lucratives exercées à titre indépendant dans une comptabilité commune. L’autorité de surveillance peut prévoir des exceptions.
 
-<sup>3</sup> Les personnes morales, les sociétés de personnes et les entreprises individuelles qui exercent une activité apparentée au notariat ou qui lui est proche ou qui collaborent avec des notaires sont soumises aux prescriptions sur la comptabilité, l’inspection, les opérations de fonds et la capacité de paiement, pour autant que le ou la notaire les contrôle d’un point de vue économique, ait le statut d’organe ou se trouve avec elles dans un rapport de travail.
+<sup>3</sup> Les personnes morales, les sociétés de personnes et les entreprises individuelles qui exercent une activité apparentée au notariat ou qui lui est proche ou qui collaborent avec des notaires sont soumises aux prescriptions sur la comptabilité, l’inspection, les opérations de fonds et la capacité de paiement, pour autant qu’un ou une notaire les contrôle d’un point de vue économique, ait le statut d’organe ou se trouve avec elles dans un rapport de travail.
 
-<sup>4</sup> L’autorité de surveillance peut dispenser de telles personnes morales, sociétés de personnes et entreprises individuelles de l’obligation de suivre les prescriptions sur la comptabilité, l’inspection, les opérations de fonds et la capacité de paiement. Elle examine à cet égard leur image publique, le risque qu’elles soient confondues avec l’étude de notaire ainsi que leur séparation de l’étude de notaire en ce qui concerne les locaux, l’administration et la comptabilité.
+<sup>3a</sup> Si le ou la notaire n’a qu’un statut d’organe à caractère purement stratégique, sans possibilité de contrôle, au sein de l’organe suprême d’une personne morale au sens de l’alinéa 3, la personne morale n’est pas soumise aux prescriptions spéciales du droit sur le notariat.
+
+<sup>4</sup> L’autorité de surveillance peut dispenser les personnes morales, sociétés de personnes et entreprises individuelles au sens de l'alinéa 3 de l’obligation de suivre les prescriptions sur la comptabilité, l’inspection, les opérations de fonds et la capacité de paiement. Elle examine à cet égard leur image publique, le risque qu’elles soient confondues avec l’étude de notaire ainsi que leur séparation de l’étude de notaire en ce qui concerne les locaux, l’administration et la comptabilité.
 
 ### 4.4 Surveillance disciplinaire
 
@@ -516,9 +644,9 @@ arrête:
 
 **Faits**
 
-<sup>1</sup> Le ou la notaire qui, intentionnellement ou par négligence, manque à ses devoirs professionnels ou viole les prescriptions de la présente loi ou de ses dispositions d’exécution, les principes d’indépendance et d’activité irréprochable dans l’exercice de sa profession ou compromet la réputation du notariat en faisant notamment de la publicité excessive, est passible d’une mesure disciplinaire, indépen damment des conséquences de sa responsabilité en matière civile et pénale.
+<sup>1</sup> Le ou la notaire qui, intentionnellement ou par négligence, manque à ses devoirs professionnels, viole les prescriptions de la présente loi ou de ses dispositions d’exécution ou les principes d’indépendance et d’activité irréprochable dans l’exercice de sa profession, est passible d’une mesure disciplinaire, indépendamment des conséquences de sa responsabilité en matière civile et pénale.
 
-<sup>2</sup> Dans des cas de peu de gravité, l’autorité peut renoncer à infliger une sanction si les circonstances laissent présumer que le ou la notaire exercera ses fonctions de manière irréprochable à l’avenir.
+<sup>2</sup> Dans les cas de peu de gravité, l’autorité peut renoncer à prononcer une mesure disciplinaire si les circonstances laissent présumer que le ou la notaire exercera ses fonctions de manière irréprochable à l’avenir.
 
 #### Art. 46
 
@@ -532,7 +660,7 @@ arrête:
 
 #### Art. 47
 
-**Mesures disciplinaires**
+**Mesures disciplinaires et saisie de gains**
 
 <sup>1</sup> Les mesures disciplinaires sont les suivantes:
 
@@ -543,7 +671,9 @@ arrête:
 
 <sup>2</sup> Plusieurs mesures disciplinaires peuvent être cumulées.
 
-<sup>3</sup> En cas de radiation ou de suspension de son inscription au registre des notaires, il est interdit au ou à la notaire de procéder à des actes qui relèvent de son activité principale.
+<sup>2a</sup> La mesure disciplinaire peut s’accompagner de la saisie d’un gain obtenu de manière illicite.
+
+<sup>3</sup> Après la radiation ou la suspension de l’inscription d’une personne au registre des notaires, il lui est interdit de procéder à des actes qui relèvent de l’activité principale des notaires.
 
 <sup>4</sup> Le fait qu’un ou une notaire demande la radiation de son inscription au registre des notaires ou renonce au brevet n’exclut pas que l’autorité ordonne la suspension de l’inscription à titre de mesure disciplinaire.
 
@@ -555,7 +685,7 @@ arrête:
 
 <sup>1</sup> La poursuite d’une faute disciplinaire se prescrit par trois ans. La prescription est interrompue par toute mesure d’instruction.
 
-<sup>2</sup> Passé un délai de cinq ans à compter du jour où une faute disciplinaire a été commise, aucune sanction ne peut être infligée.
+<sup>2</sup> Passé un délai de dix ans à compter du jour où une faute disciplinaire a été commise, aucune mesure disciplinaire ne peut être prononcée.
 
 <sup>3</sup> Si une procédure pénale est ouverte contre un ou une notaire, une mesure disciplinaire peut encore être prononcée à son encontre, passé les délais indiqués précédemment, dans les deux ans qui suivent la date à laquelle l’autorité disciplinaire a pris connaissance de l’entrée en force de la décision mettant un terme à la procédure pénale.
 
@@ -567,17 +697,28 @@ arrête:
 
 <sup>2</sup> L’inscription d’une suspension est radiée du registre des notaires dix ans après son terme.
 
+#### Art. 49a
+
+**Fin de la surveillance disciplinaire**
+
+<sup>1</sup> La surveillance disciplinaire ne prend fin qu'avec la clôture complète de la liquidation de l'étude et non dès la radiation du registre des notaires.
+
 ## 5 Emoluments des notaires
 
 #### Art. 50
 
-**Emoluments de débours**
+**Emoluments et débours**
 
 <sup>1</sup> Le ou la notaire a droit à des émoluments et au remboursement intégral de ses débours pour l’exercice de son activité principale. S’il ou elle est intervenue sur réquisition de plusieurs personnes, celles-ci sont solidairement responsables à son égard.
 
 <sup>2</sup> Il ou elle peut exiger, pour ses émoluments et ses débours, le versement d’une avance appropriée.
 
 <sup>3</sup> Si le débiteur ou la débitrice conteste les émoluments et les débours et qu’il ou elle a son domicile ou son siège commercial hors du canton de Berne, le ou la notaire peut faire valoir son droit devant le tribunal du for de l’étude ou de l’étude annexe.
+
+<sup>4</sup> Le ou la notaire peut céder son droit à un émolument et à des débours comme suit:
+
+- a à un ou à une notaire de la même étude;
+- b à la SA ou à la Sàrl de notaires qui l’emploie.
 
 #### Art. 51
 
@@ -590,26 +731,29 @@ arrête:
 - c la préparation de l’acte,
 - d la mise en œuvre de la procédure d’authentification,
 - e l’enregistrement et la conservation de la minute,
-- f l’établissement et la remise d’une expédition pour le bureau du registre foncier ou l’office du registre du commerce.
+- f l’établissement et la remise d’expéditions,
+- g les travaux de clôture, y compris l'archivage.
 
-<sup>2</sup> Des émoluments supplémentaires sont perçus pour l’établissement d’autres expéditions et l’exécution d’autres obligations légales.
+<sup>2</sup> Des émoluments supplémentaires sont perçus en fonction du temps requis pour l’exécution d’autres obligations légales.
 
 #### Art. 52
 
 **Calcul**
 
-<sup>1</sup> Les émoluments sont calculés en fonction du temps employé, de l’importance de l’affaire, de la responsabilité assumée par le ou la notaire ainsi que de la capacité pécuniaire de la partie déposant la réquisition d’authentification.
+<sup>1</sup> Les émoluments sont calculés en fonction du temps requis, de l’importance de l’affaire et de la responsabilité assumée par le ou la notaire.
 
 <sup>2</sup> Le Conseil-exécutif règle par voie d’ordonnance les émoluments pour l’activité principale du ou de la notaire.
 
-<sup>3</sup> Les émoluments doivent être calculés de manière à permettre aux notaires de couvrir leurs frais généraux, de constituer une prévoyance vieillesse appropriée et d’obtenir un revenu qui correspond à leur formation et aux responsabilités qui sont les leurs.
+<sup>3</sup> Les émoluments doivent être calculés de manière à permettre aux notaires d’exercer leur profession de manière indépendante et à tenir compte en particulier de leur formation, de leur responsabilité et du risque entrepreneurial qu’ils encourent.
 
-<sup>4</sup> Le Conseil-exécutif édicte
+<sup>4</sup> Le Conseil-exécutif règle par voie d’ordonnance
 
-- a un barème-cadre échelonné pour les émoluments à percevoir lors de la réception d’actes authentiques concernant des affaires ayant une valeur commerciale;
-- b un barème-cadre pour les émoluments à percevoir lors de la réception d’actes authentiques concernant des affaires sans valeur commerciale.
+- a un barème-cadre échelonné pour les émoluments à percevoir lors de la réception d’actes authentiques concernant des affaires ayant une valeur commerciale, le Conseil-exécutif pouvant toutefois prévoir un émolument perçu en fonction du temps requis conformément à la lettre b pour les affaires portant sur les gages immobiliers et, à titre exceptionnel, pour les affaires relevant du droit des sociétés;
+- b la fourchette du tarif horaire appliqué pour l’émolument perçu en fonction du temps requis, associée à un émolument minimal;
+- c les conditions auxquelles un ou une notaire peut réduire, lorsque des clients sont dans le besoin ou ont un statut d’utilité publique, l’émolument perçu en fonction du temps requis prévu par la fourchette du tarif horaire ou l’émolument minimal;
+- d d’autres possibilités de déroger au tarif minimal dans des cas exceptionnels.
 
-<sup>5</sup> A l’intérieur du cadre du barème, les émoluments se calculent selon les principes énoncés à l’alinéa 1.
+<sup>5</sup> …
 
 #### Art. 53
 
@@ -641,7 +785,7 @@ arrête:
 
 <sup>1</sup> En cas de contestation au sujet des émoluments et des débours, le tribunal civil se prononce sur la qualité de débiteur du client.
 
-## 6 Responsabilité civile
+## 6 Responsabilité patrimoniale
 
 #### Art. 57
 
@@ -649,9 +793,9 @@ arrête:
 
 <sup>1</sup> Le ou la notaire est responsable envers les intéressés des dommages qu’il ou elle a occasionnés par ses actes illicites dans l’exercice de ses activités principales.
 
-<sup>2</sup> Il ou elle répond des fautes commises par ses collaborateurs et collaboratrices comme des siennes propres.
+<sup>2</sup> Il ou elle répond des actes commis par ses collaborateurs et collaboratrices comme des siens propres.
 
-<sup>3</sup> Si le ou la notaire a instrumenté correctement, il ou elle est n’est responsable que s’il y a eu faute grave de sa part pour les faits dommageables résultant
+<sup>3</sup> Si le ou la notaire a instrumenté correctement, il ou elle n’est responsable qu'en cas de violation de son devoir de diligence pour les faits dommageables qui résultent
 
 - a d’un acte que les parties ont passé illégalement avec son concours;
 - b d’un acte que les parties ont passé dans une intention illicite ou immorale avec son concours ou
@@ -663,7 +807,7 @@ arrête:
 
 <sup>6</sup> En ce qui concerne la naissance, le calcul et l’extinction de prétentions en dommages-intérêts, les dispositions du Code des obligations (CO)[^57-1], relatives à la responsabilité fondée sur les actes illicites, sont applicables comme droit cantonal supplétif.
 
-<sup>7</sup> Toute responsabilité du canton est exclue.
+<sup>7</sup> …
 
 [^57-1]: RS 220
 
@@ -671,15 +815,35 @@ arrête:
 
 **Responsabilité dans l’exercice de l’activité accessoire**
 
-<sup>1</sup> La responsabilité civile du ou de la notaire lors de l’exercice d’une activité accessoire est régie par les dispositions du droit privé.
+<sup>1</sup> La responsabilité patrimoniale du ou de la notaire lors de l’exercice d’une activité accessoire est régie par les dispositions du droit privé.
+
+#### Art. 58a
+
+**Responsabilité de l’étude de notaires constituée en SA ou en Sàrl**
+
+<sup>1</sup> La SA ou la Sàrl de notaires peut engager sa responsabilité patrimoniale au sens des articles 57 et 58 pour les notaires qu’elle emploie.
+
+<sup>2</sup> Dans ce cas, elle doit le prévoir dans ses statuts.
+
+<sup>3</sup> La clientèle doit être informée de manière appropriée sur le fait que la SA ou la Sàrl de notaires engage sa responsabilité patrimoniale.
+
+<sup>4</sup> Si la SA ou la Sàrl de notaires a engagé sa responsabilité patrimoniale, la personne employée en tant que notaire répond à titre subsidiaire en vertu des articles 57 et 58.
 
 #### Art. 59
 
-**Caution et assurance responsabilité civile professionnelle**
+**Assurance responsabilité civile professionnelle**
 
-<sup>1</sup> Pour pouvoir répondre à d’éventuelles demandes en réparation fondées sur sa responsabilité civile, le ou la notaire doit déposer une caution et conclure une assurance responsabilité civile professionnelle d’un montant approprié.
+<sup>1</sup> Pour pouvoir répondre à d’éventuelles demandes en réparation fondées sur sa responsabilité patrimoniale, le ou la notaire doit conclure une assurance responsabilité civile professionnelle d’un montant approprié.
+
+<sup>1a</sup> Pour pouvoir répondre à d’éventuelles demandes en réparation fondées sur sa propre responsabilité patrimoniale et sur celle des notaires qu’elle emploie, une SA ou une Sàrl de notaires doit conclure une assurance responsabilité civile professionnelle d’un montant approprié.
 
 <sup>2</sup> Le Conseil-exécutif règle les détails par voie d’ordonnance.
+
+#### Art. 59a
+
+**Responsabilité du canton**
+
+<sup>1</sup> Le canton est responsable uniquement et à titre subsidiaire lorsqu’il a contribué à causer un dommage du fait de l’exercice insuffisant de son obligation de surveillance.
 
 #### Art. 60
 
@@ -747,6 +911,24 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> Le Conseil-exécutif fixe la date d’entrée en vigueur de la présente loi.
+
+## T1 Dispositions transitoires de la modification du 12.03.2020
+
+#### Art. T1-1
+
+**Evaluation**
+
+<sup>1</sup> Le Conseil-exécutif examine, huit ans après l’entrée en vigueur de la présente modification et de ses dispositions d’exécution, l’organisation des études de notaires bernoises, les revenus des notaires ainsi que leurs émoluments.
+
+<sup>2</sup> Il vérifie en particulier l’incidence des formes d’organisation plus étendues sur l’indépendance des études de notaires bernoises et leur répartition sur le territoire cantonal.
+
+<sup>3</sup> Il détermine notamment, au-delà de la situation générale des revenus des notaires bernois, la part que représentent les émoluments dans leur revenu global.
+
+<sup>4</sup> Il examine en particulier, en ce qui concerne les types d’émoluments des notaires, si et comment la marge d’appréciation prévue pour les calculer est entièrement exploitée dans la pratique.
+
+<sup>5</sup> Les notaires bernois ont l’obligation de participer lors de l’évaluation.
+
+<sup>6</sup> Le Conseil-exécutif présente ensuite un rapport au Grand Conseil.
 
 Berne, le 22 novembre 2005
 
