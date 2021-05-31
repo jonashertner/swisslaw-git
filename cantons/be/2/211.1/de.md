@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2020-11-01
-valid_until: 2021-05-31
-version_adopted: 2020-09-02
+version: 2021-06-01
+valid_until: 2021-11-30
+version_adopted: 2020-03-12
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1960/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2276/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1960/pdf_file"
 
 (EG ZGB)
 
-vom 28.05.1911 (Stand 01.11.2020)
+vom 28.05.1911 (Stand 01.06.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -937,7 +937,9 @@ beschliesst:
 
 <sup>4</sup> Die Direktion für Inneres und Justiz ernennt für jedes Grundbuchamt eine geschäftsleitende Grundbuchverwalterin oder einen geschäftsleitenden Grundbuchverwalter.
 
-<sup>5</sup> Ernennbar als Grundbuchverwalterin oder Grundbuchverwalter ist, wer über ein Anwaltspatent oder das bernische Notariatspatent verfügt.
+<sup>5</sup> Ernennbar als Grundbuchverwalterin oder Grundbuchverwalter ist, wer über ein Anwaltspatent, ein bernisches Notariatspatent oder eine gleichwertige juristische Ausbildung verfügt.
+
+<sup>6</sup> Eine Person, die im Kanton Bern den Notariatsberuf ausübt und gleichzeitig eine Tätigkeit in der Grundbuchführung wahrnimmt, tritt neben den in Artikel 9 Absatz 1 VRPG genannten Gründen zusätzlich in den Ausstand, wenn das zu beurteilende Geschäft aus dem gleichen Notariatsbüro stammt, in dem sie den Notariatsberuf ausübt. Dasselbe gilt für eine Person, die in einem Notariatsbüro angestellt ist, ohne den Notariatsberuf auszuüben.
 
 #### Art. 122a
 
@@ -1146,6 +1148,8 @@ beschliesst:
 <sup>1</sup> Für den ganzen Kanton besteht ein Handelsregisteramt.
 
 <sup>2</sup> Die Handelsregisterführerin oder der Handelsregisterführer muss über eine abgeschlossene juristische Ausbildung oder einen Hochschul- oder Fachhochschulabschluss im Bereich Betriebswirtschaft verfügen.
+
+<sup>2a</sup> Eine Person, die den Notariatsberuf ausübt und gleichzeitig eine Tätigkeit in der Handelsregisterführung wahrnimmt, tritt neben den in Artikel 9 Absatz 1 VRPG genannten Gründen zusätzlich in den Ausstand, wenn das zu beurteilende Geschäft aus dem gleichen Notariatsbüro stammt, in dem sie den Notariatsberuf ausübt. Dasselbe gilt für eine Person, die in einem Notariatsbüro angestellt ist, ohne den Notariatsberuf auszuüben.
 
 <sup>3</sup> Der Regierungsrat regelt die Organisation des Handelsregisteramtes. Er kann diese Befugnis der Direktion für Inneres und Justiz übertragen. Diese kann die Geschäftsleitung ernennen.
 

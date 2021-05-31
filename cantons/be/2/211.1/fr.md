@@ -4,13 +4,13 @@ number: "211.1"
 title: "Loi sur l'introduction du Code civil suisse *"
 short: LiCCS
 language: fr
-version: 2020-11-01
-valid_until: 2021-05-31
-version_adopted: 2020-09-02
+version: 2021-06-01
+valid_until: 2021-11-30
+version_adopted: 2020-03-12
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1960/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2276/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1960/pdf_file"
 
 (LiCCS)
 
-du 28.05.1911 (état au 01.11.2020)
+du 28.05.1911 (état au 01.06.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -940,7 +940,9 @@ décrète:
 
 <sup>4</sup> La Direction de l’intérieur et de la justice nomme un conservateur ou une conservatrice responsable de la direction des affaires dans chaque bureau du registre foncier.
 
-<sup>5</sup> Toute personne titulaire du brevet de notaire bernois ou d’un brevet d’avocat peut être nommée conservateur ou conservatrice du registre foncier.
+<sup>5</sup> Toute personne titulaire du brevet de notaire bernois ou d’un brevet d’avocat ou ayant achevé avec succès une formation juridique équivalente peut être nommée conservateur ou conservatrice du registre foncier.
+
+<sup>6</sup> Toute personne exerçant dans le canton de Berne la profession de notaire et assumant, simultanément, une activité liée à la tenue du registre foncier, doit se récuser non seulement dans les cas prévus à l’article 9, alinéa 1 LPJA mais aussi lorsque l’affaire sur laquelle il convient de statuer émane de l’étude de notaire dans laquelle elle exerce une activité notariale. Il en va de même pour la personne qui est employée dans une étude de notaire sans exercer la profession de notaire.
 
 #### Art. 122a
 
@@ -1149,6 +1151,8 @@ décrète:
 <sup>1</sup> Il y a un office du registre du commerce pour l’ensemble du canton.
 
 <sup>2</sup> Le préposé ou la préposée au registre du commerce doit avoir suivi une formation juridique complète ou avoir obtenu un titre universitaire ou un diplôme d’une haute école spécialisée dans le domaine de l’économie d’entreprise.
+
+<sup>2a</sup> Toute personne exerçant la profession de notaire et assumant, simultanément, une activité liée à la tenue du registre du commerce, doit se récuser non seulement dans les cas prévus à l’article 9, alinéa 1 LPJA mais aussi lorsque l’affaire sur laquelle il convient de statuer émane de l’étude de notaire dans laquelle elle exerce une activité notariale. Il en va de même pour la personne qui est employée dans une étude de notaire sans exercer la profession de notaire.
 
 <sup>3</sup> Le Conseil-exécutif règle l’organisation de l'Office du registre du commerce. Il peut déléguer cette compétence à la Direction de l’intérieur et de la justice. Cette dernière peut nommer le ou la responsable de la direction des affaires.
 
