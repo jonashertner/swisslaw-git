@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2021-01-01
+version: 2021-06-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210101/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. Januar 2021)
+vom 14. März 2008 (Stand am 1. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -219,22 +219,33 @@ Die für die Koordination der Netzplanung erforderlichen Informationen umfassen 
 
 #### Art. 6
 
-**Mehrjahrespläne und Orientierung der ElCom**
+**Orientierung der ElCom[^6-1]**
 
-<sup>1</sup>
-
-Verteilnetzbetreiber sind für Netze mit einer Spannung von 36 kV und weniger von folgenden Pflichten befreit:
-
-- a. Pflicht zur Erstellung von Mehrjahresplänen nach Artikel 8 Absatz 2 StromVG;
-- b. Orientierungspflicht gegenüber der ElCom nach Artikel 8 Absatz 3 StromVG.
+<sup>1</sup> Verteilnetzbetreiber sind für Netze mit einer Nennspannung von 36 kV und weniger von der Orientierungspflicht gegenüber der ElCom nach Artikel 8 Absatz 3 StromVG befreit.[^6-2]
 
 <sup>2</sup> Alle Netzbetreiber haben der ElCom jährlich die international üblichen Kennzahlen zur Versorgungsqualität einzureichen, wie die durchschnittliche Unterbrechungsdauer («Customer Average Interruption Duration Index», CAIDI), die durchschnittliche Nichtverfügbarkeit des Systems («System Average Interruption Duration Index», SAIDI) und die durchschnittliche Unterbrechungshäufigkeit («System Average Interruption Frequency Index», SAIFI).
 
+[^6-1]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+
 #### Art. 6a
 
-[^6a-1]
+**Mehrjahrespläne**[^6a-1]
 
-[^6a-1]: In Kraft ab 1. Juni 2021.
+<sup>1</sup>
+
+Die nationale Netzgesellschaft weist im Mehrjahresplan ihre Netzprojekte aus und legt Folgendes dar:
+
+- a. die Projektbezeichnung;
+- b. die Art der Investition, insbesondere ob es sich um eine Optimierung, eine Verstärkung oder einen Ausbau des Netzes handelt;
+- c. den jeweiligen Stand der Planung, Bewilligung oder Realisierung;
+- d. den Zeitpunkt der geplanten Inbetriebnahme;
+- e. die geschätzten Projektkosten;
+- f. den Bedarf für das Projekt mittels Nachweis der wirtschaftlichen und technischen Wirksamkeit des Projekts.
+
+<sup>2</sup> Die Mehrjahrespläne der Verteilnetze mit einer Nennspannung von über 36 kV sind von den Netzbetreibern innerhalb von neun Monaten nach Genehmigung des letzten Szenariorahmens durch den Bundesrat zu erstellen.
+
+[^6a-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 6b
 

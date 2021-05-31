@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2021-01-01
+version: 2021-06-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210101/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° gennaio 2021)
+del 14 marzo 2008 (Stato 1° giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -220,22 +220,33 @@ Le informazioni necessarie per il coordinamento della pianificazione della rete 
 
 #### Art. 6
 
-**Piani pluriennali e informazione della ElCom**
+**Informazione della ElCom[^6-1]**
 
-<sup>1</sup>
-
-I gestori delle reti di distribuzione con tensione pari o inferiore a 36 kV sono esentati dai seguenti obblighi:
-
-- a. obbligo di allestire piani pluriennali ai sensi dell’articolo 8 capoverso 2 LAEl;
-- b. obbligo di informazione nei confronti della ElCom ai sensi dell’articolo 8 capoverso 3 LAEl.
+<sup>1</sup> I gestori delle reti di distribuzione con tensione nominale pari o inferiore a 36 kV sono esentati dall’obbligo di informare la ElCom ai sensi dell’articolo 8 capoverso 3 LAEl.[^6-2]
 
 <sup>2</sup> Tutti i gestori di reti sono tenuti a presentare ogni anno alla ElCom gli usuali indicatori internazionali relativi alla qualità dell’approvvigionamento, come la durata media di interruzione («Customer Average Interruption Duration Index», CAIDI), la non disponibilità media del sistema («System Average Interruption Duration Index», SAIDI) e la frequenza media di interruzione («System Average Interruption Frequency Index», SAIFI).
 
+[^6-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2021 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2021 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+
 #### Art. 6a
 
-[^6a-1]
+**Piani pluriennali**[^6a-1]
 
-[^6a-1]: In vigore dal 1° giu. 2021 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+<sup>1</sup>
+
+Nel piano pluriennale la società nazionale di rete riporta i suoi progetti di rete e illustra quanto segue:
+
+- a. la designazione del progetto;
+- b. il tipo di investimento, in particolare se si tratta di un’ottimizzazione, un potenziamento o un ampliamento della rete;
+- c. lo stato della pianificazione, dell’approvazione o della realizzazione;
+- d. il momento della messa in esercizio prevista;
+- e. la stima dei costi di progetto;
+- f. la necessità del progetto comprovandone l’efficacia dal profilo economico e tecnico.
+
+<sup>2</sup> I piani pluriennali delle reti di distribuzione con una tensione nominale superiore a 36 kV sono redatti dai gestori di rete entro nove mesi dall’approvazione dell’ultimo scenario di riferimento da parte del Consiglio federale.
+
+[^6a-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2021 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 6b
 
@@ -1008,7 +1019,7 @@ I gestori della rete di distribuzione possono avvalersi del diritto di rifornire
 
 #### Art. 32
 
-**...[^32-1]**
+**…[^32-1]**
 
 <sup>1</sup> Fatti salvi i capoversi 2–4, la presente ordinanza entra in vigore il 1° aprile 2008.
 
@@ -1149,6 +1160,6 @@ Allegato 2*[^t-2]*
 
 [^t-2]: Originario all.
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226).

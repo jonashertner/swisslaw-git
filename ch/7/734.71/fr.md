@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2021-01-01
+version: 2021-06-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20210101/fr"
 
 (OApEl)
 
-du 14 mars 2008 (Etat le 1<sup>er</sup> janvier 2021)
+du 14 mars 2008 (Etat le 1<sup>er</sup> juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -219,22 +219,33 @@ Les informations nécessaires à la coordination de la planification du réseau 
 
 #### Art. 6
 
-**Plans pluriannuels et information de l’ElCom**
+**Information de l’ElCom[^6-1]**
 
-<sup>1</sup>
-
-Les gestionnaires de réseau de distribution sont libérés des obligations ci-après pour les réseaux dont la tension est inférieure ou égale à 36 kV:
-
-- a. établissement des plans pluriannuels visés à l’art. 8, al. 2, LApEl;
-- b. information de l’ElCom conformément à l’art. 8, al. 3, LApEl.
+<sup>1</sup> Pour les réseaux dont la tension nominale est inférieure ou égale à 36 kV, les gestionnaires du réseau de distribution sont libérés de l’obligation d’informer l’ElCom visée à l’art. 8, al. 3, LApEl.[^6-2]
 
 <sup>2</sup> Tous les gestionnaires de réseau sont tenus de communiquer chaque année à l’ElCom les chiffres usuels, sur le plan international, concernant la qualité de l’approvisionnement; ces chiffres comprennent notamment la durée moyenne des coupures de courant («Customer Average Interruption Duration Index» CAIDI), la durée moyenne de non-disponibilité du système («System Average Interruption Duration Index» SAIDI) et la fréquence moyenne des coupures de courant («System Average Interruption Frequency Index» SAIFI).
 
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+
 #### Art. 6a
 
-[^6a-1]
+**Plans pluriannuels**[^6a-1]
 
-[^6a-1]: Entre en vigueur le 1<sup>er</sup> juin 2021 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+<sup>1</sup>
+
+Dans les plans pluriannuels, la société nationale du réseau de transport fait état de tous ses projets et présente:
+
+- a. la description du projet;
+- b. la nature de l’investissement, notamment s’il s’agit d’une optimisation, d’un renforcement ou d’une extension du réseau;
+- c. l’état d’avancement de la planification, de l’autorisation ou de la réalisation du projet;
+- d. la date prévue pour la mise en service;
+- e. l’estimation des coûts du projet;
+- f. la nécessité du projet en prouvant son efficacité du point de vue technique et économique.
+
+<sup>2</sup> Les gestionnaires de réseau établissent les plans pluriannuels relatifs aux réseaux de distribution d’une tension nominale supérieure à 36 kV dans les neufs mois qui suivent l’approbation du dernier scénario-cadre par le Conseil fédéral.
+
+[^6a-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 6b
 
@@ -246,7 +257,7 @@ Dans la convention de prestations visée à l’art. 9*e,* al. 2, LApEl le canto
 
 ## Chapitre 3 Utilisation du réseau
 
-### Section 1 Comptes annuels, comptabilité analytique, systèmede mesure et information
+### Section 1 Comptes annuels, comptabilité analytique, système de mesure et information
 
 #### Art. 7
 
@@ -454,7 +465,7 @@ Ils sont habilités à transmettre les données enregistrées au moyen de systè
 
 <sup>4</sup> Le gestionnaire de réseau relève les données relatives aux systèmes de mesure intelligents une fois par jour au plus, sauf si l’exploitation du réseau nécessite une consultation plus fréquente.
 
-<sup>5</sup> Il garantit la sécurité des données des systèmes de mesure, de commande et de réglage. A cet égard, il tient notamment compte des art. 8 à 10 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^8d-2] ainsi que des normes et recommandations internationales édictées par les organisations spécialisées reconnues.
+<sup>5</sup> Il garantit la sécurité des données des systèmes de mesure, de commande et de réglage. À cet égard, il tient notamment compte des art. 8 à 10 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^8d-2] ainsi que des normes et recommandations internationales édictées par les organisations spécialisées reconnues.
 
 [^8d-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^8d-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
@@ -463,7 +474,7 @@ Ils sont habilités à transmettre les données enregistrées au moyen de systè
 
 **Facturation**
 
-A la demande du consommateur final, le gestionnaire de réseau remet la facture d’utilisation du réseau au fournisseur d’énergie. Le consommateur final reste débiteur de la rémunération.
+À la demande du consommateur final, le gestionnaire de réseau remet la facture d’utilisation du réseau au fournisseur d’énergie. Le consommateur final reste débiteur de la rémunération.
 
 #### Art. 10
 
@@ -509,7 +520,7 @@ Les gestionnaires de réseau publient les informations visées à l’art. 12, a
 
   Peuvent compter comme valeurs patrimoniales nécessaires à l’exploitation des réseaux, au maximum:
 
-  - 1\. les valeurs résiduelles à l’achat ou à la fabrication des installations existantes résultant des amortissements au sens de l’al. 2 à la fin de l’exercice, et
+  - 1\. les valeurs résiduelles à l’achat ou à la fabrication des installations existantes résultant des amortissements au sens de l’al. 2 à la fin de l’exercice; et
   - 2\. le capital de roulement net nécessaire à l’exploitation.
 
 - b.[^13-1] Le taux d’intérêt calculé correspond au coût moyen pondéré du capital investi (*Weighted Average Cost of Capital*, WACC).
