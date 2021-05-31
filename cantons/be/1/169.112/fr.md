@@ -4,13 +4,13 @@ number: "169.112"
 title: Ordonnance sur le notariat
 short: ON
 language: fr
-version: 2020-11-01
-valid_until: 2021-05-31
-version_adopted: 2020-09-02
+version: 2021-06-01
+valid_until: 2022-02-28
+version_adopted: 2021-04-28
 adopted: 2006-04-26
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/169.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2008/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2279/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,15 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2008/pdf_file"
 
 (ON)
 
-du 26.04.2006 (état au 01.11.2020)
+du 26.04.2006 (état au 01.06.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 6, alinéa 2, 7, alinéa 2, 9, alinéa 2, 14, alinéa 3, 15, alinéa 3, 28, 42, alinéa 1, 43, alinéa 2 et 59, alinéa 2 de la loi du 22 novembre 2005 sur le notariat (LN)[^ingress-1], sur proposition de la Direction de la justice, des affaires communales et des affaires ecclésiastiques,
+vu les articles 3, alinéa 5, 4a, alinéa 2, 6, alinéa 2, 7, alinéa 2, 9, alinéa 2, 14, alinéa 3, 15, alinéa 3, 16, alinéa 2, 27, alinéa 3, 28, ​41a, alinéa ​5, 43, alinéa 2, 59, alinéa 2 de la loi du 22 novembre 2005 sur le notariat ​(LN)[^ingress-1],
+
+sur proposition de la Direction de la justice, des affaires communales et des affaires ecclésiastiques,
 
 arrête:
 
-[^ingress-1]: RSB 169.11
+[^ingress-1]: RSB [169.11](https://www.belex.sites.be.ch/data/169.11/fr)
 
 ## 1 Organisation du notariat
 
@@ -37,7 +39,9 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> La Direction de l’intérieur et de la justice tient le registre des notaires.
+<sup>1</sup> La Direction de l’intérieur et de la justice est l’autorité de surveillance des notaires du canton de Berne.
+
+<sup>2</sup> L’autorité de surveillance tient le registre des notaires.
 
 #### Art. 2
 
@@ -50,13 +54,14 @@ arrête:
 - c le nom et les prénoms tels qu’ils figurent sur le passeport ou la carte d’identité, la date de naissance, le lieu d’origine ou la nationalité du ou de la notaire,
 - d la date de l’obtention du brevet,
 - e la date de l’inscription et celle de la radiation,
-- f le nom et l’adresse de l’étude de notaire ainsi que celle de son étude annexe ou de ses études annexes,
-- g les informations sur le cautionnement et sur l’assurance responsabilité civile professionnelle,
+- f le nom, l’adresse et la forme juridique de l’étude de notaire ainsi que l’adresse de son étude annexe ou de ses études annexes,
+- g les informations sur l’assurance responsabilité civile professionnelle,
 - h le nombre de sceaux délivrés,
 - i les mesures administratives et les mesures disciplinaires,
 - k la date, la durée et le motif d’une suspension,
 - l les mutations,
 - m le lieu de conservation des recueils des minutes et des testaments ainsi que des répertoires des minutes et des testaments après la radiation de l’inscription.
+- n le nom et l’adresse du réviseur ou de la réviseuse.
 
 [^2-1]: RS 431.03
 
@@ -64,9 +69,9 @@ arrête:
 
 **Demande d’inscription**
 
-<sup>1</sup> Le ou la notaire adresse sa demande d’inscription au registre des notaires par écrit à la Direction de l’intérieur et de la justice.
+<sup>1</sup> Le ou la notaire adresse sa demande d’inscription au registre des notaires par écrit à l’autorité de surveillance.
 
-<sup>2</sup> La demande mentionne le nom, le prénom, la date de naissance, le lieu d’origine ou la nationalité du ou de la notaire ainsi que le nom et l’adresse de l’étude annexe ou des études annexes.
+<sup>2</sup> La demande mentionne le nom, le prénom, la date de naissance, le lieu d’origine ou la nationalité du ou de la notaire, le nom, l’adresse et la forme juridique de l’étude ainsi que l’adresse de l’étude annexe ou des études annexes.
 
 <sup>3</sup> La demande doit être accompagnée
 
@@ -75,18 +80,73 @@ arrête:
 - c d’un extrait du casier judiciaire,
 - d d’un extrait du registre des poursuites de la commune de domicile,
 - e d’une attestation de domicile,
-- f de la preuve du dépôt d’une caution et de la conclusion d’une assurance responsabilité civile professionnelle,
+- f d’une copie de la police d’assurance responsabilité civile professionnelle,
 - g d’une déclaration selon laquelle il n’existe aucune incompatibilité au sens de l’article 4, alinéa 1 LN,
 - h du formulaire de signatures officiel muni d’une double signature,
 - i d’une copie du passeport ou de la carte d’identité.
 
-<sup>4</sup> Les documents énumérés à l’alinéa 3, lettres b à e ne doivent pas dater de plus de trois mois.
+<sup>4</sup> Les documents énumérés à l’alinéa 3, lettres b à e ne doivent pas dater de plus de trois mois. Si la demande est déposée l’année au cours de laquelle la personne a réussi l’examen de notaire bernois, les documents ne doivent pas dater de plus de six mois.
+
+<sup>5</sup> Dans la mesure où le ou la notaire exerce sa profession en tant qu’employé ou employée d’une société de capitaux qui engage sa responsabilité patrimoniale, il lui suffit de présenter, à la place d’une copie de la police d’assurance, la preuve de la conclusion d’une assurance responsabilité civile professionnelle prévue à l’article 3b, alinéa 1, lettre f.
+
+#### Art. 3a
+
+**Conditions d’un engagement dans une société de capitaux**
+
+<sup>1</sup> Une personne inscrite au registre des notaires bernois peut exercer la profession de notaire, en tant qu’employée d’une société de capitaux, si les conditions suivantes sont réunies:
+
+- a le siège de la société se situe dans le canton de Berne;
+- b la fourniture de prestations notariales et d’autres prestations juridiques est le but principal de la société;
+- c le capital-actions ou le capital social est détenu aux trois quarts au minimum par des personnes inscrites au registre des notaires;
+- d les personnes inscrites au registre des notaires doivent disposer d’une majorité de trois quarts des voix au minimum à l’assemblée générale ou à l’assemblée des associés;
+- e seules les personnes inscrites au registre des notaires ou au registre des avocats peuvent être membres de l’organe de direction suprême. Celles qui sont inscrites au registre des notaires doivent disposer d’une majorité de trois quarts des voix au minimum;
+- f les actions et les bons de participation doivent être nominatifs et ne peuvent être transmis qu’avec l’approbation du conseil d’administration. La transmission des parts sociales requiert l’approbation de l’assemblée des associés;
+- g les statuts ou le règlement d’organisation doivent comporter une disposition prévoyant qu’un ou une notaire ne peut, au plan professionnel, être subordonné ou subordonnée à une personne non inscrite au registre des notaires;
+- h une disposition statutaire indique que seules les personnes actives dans la société font partie du cercle des actionnaires ou des associés. Est réservée la participation, à limiter dans la durée, de personnes qui, du fait de leur âge, ont décidé de faire radier leur inscription du registre des notaires;
+- i une disposition statutaire prévoit que la société assume la responsabilité patrimoniale pour les personnes inscrites au registre des notaires qu’elle a engagées;
+- k la société dispose d’une autorisation conformément à l’article 3b.
+
+<sup>2</sup> Dans le cas de petites sociétés comprenant trois personnes associées au plus et comptant trois membres au maximum dans les organes de direction suprêmes, le quorum selon l’alinéa 1, lettres c, d et e est de deux tiers.
+
+#### Art. 3b
+
+**Autorisation de l’autorité de surveillance**
+
+<sup>1</sup> Toute société de capitaux prévoyant d’exercer une activité notariale à titre principal par l’intermédiaire d’une personne inscrite au registre des notaires bernois qu’elle a engagée doit préalablement demander une autorisation à l’autorité de surveillance. Elle doit accompagner sa demande des documents suivants:
+
+- a ses statuts et l’extrait du registre du commerce ainsi que le registre des actions ou le registre des parts sociales signé par une personne représentant l’organe de direction suprême;
+- b la liste des ayants droit économiques aux parts sociales, signée par une personne représentant l’organe de direction suprême;
+- c les conventions d’actionnaires ou d’associés;
+- d le règlement d’organisation;
+- e la déclaration du conseil d’administration ou de la direction au sujet de l’indépendance des personnes employées, inscrites au registre des notaires, du respect de leurs devoirs professionnels et en particulier de leur obligation de garder le secret;
+- f une copie de la police d’assurance responsabilité civile professionnelle.
+
+<sup>2</sup> Les documents nécessaires doivent permettre à la société de capitaux requérante de fournir en particulier les preuves suivantes au sujet de l’acquisition de parts sociales (actions et bons de participation):
+
+- a l’obligation, pour l’organe de direction suprême ou pour l’assemblée des associés, de refuser toute acquisition qui ne respecterait pas le quorum selon l’article 3a, alinéa 1, lettres c, d, e et h;
+- b l’obligation, pour l’organe de direction suprême ou pour l’assemblée des associés, de refuser toute acquisition par des personnes ne remettant pas de déclaration précisant qu’elles acquièrent les parts sociales en leur propre nom et pour leur propre compte;
+- c l’obligation, pour l’organe de direction suprême ou pour l’assemblée des associés, de refuser le consentement à l’acquisition et d’offrir la reprise à la valeur réelle ou à celle dont il a été convenu par contrat, dans la mesure où les personnes non inscrites au registre des notaires acquièrent des parts sociales par succession, par partage successoral, en vertu du régime matrimonial ou dans une procédure d’exécution forcée, raison pour laquelle les conditions de l’article 3a, alinéa 1, lettres c, d, e ou h ne seraient plus respectées;
+- d l’exclusion de l’usufruit sur les parts sociales.
+
+<sup>3</sup> L’autorité de surveillance peut demander d’autres documents en vue de déterminer l’indépendance, au plan professionnel, des personnes employées qui sont inscrites au registre des notaires.
+
+#### Art. 3c
+
+**Obligation d’annoncer**
+
+<sup>1</sup> L’organe de direction suprême de la société de capitaux est tenu d’annoncer à l’autorité de surveillance toute modification des conditions de participation ou de la qualité d’ayant droit économique au sein des actionnaires ou des associés.
+
+<sup>2</sup> Il annonce à l’autorité de surveillance toute modification des documents conformément à l’article 3b, alinéa 1, lettres a à f.
+
+<sup>3</sup> Si l’obligation d’annoncer n’est pas respectée, l’autorité de surveillance peut retirer à la société de capitaux l’autorisation conformément à l’article 3b.
+
+<sup>4</sup> Dans le cadre de la révision au sens du droit notarial, l’organe de direction suprême doit confirmer le respect des conditions d’octroi d’une autorisation conformément aux articles 3a et 3b.
 
 #### Art. 4
 
 **Brevets d’autres cantons**
 
-<sup>1</sup> La Direction de l’intérieur et de la justice peut admettre comme condition préalable à l’inscription au registre des notaires, à la place du brevet de notaire bernois, l’obtention d’un brevet d’un autre canton reconnaissant l’aptitude de la personne appelée à authentifier, pour autant que la formation et les examens soient de même valeur et que l’autre canton applique la réciprocité.
+<sup>1</sup> L’autorité de surveillance admet comme condition préalable à l’inscription au registre des notaires, à la place du brevet de notaire bernois, l’obtention d’un brevet d’un autre canton reconnaissant l’aptitude de la personne appelée à authentifier, pour autant que la formation et les examens soient de même valeur et que l’autre canton applique la réciprocité.
 
 #### Art. 5
 
@@ -94,9 +154,9 @@ arrête:
 
 <sup>1</sup> Le ou la notaire appose la signature sur le formulaire de signatures officiel de la même façon qu’il ou elle le fait sur les actes publics.
 
-<sup>2</sup> La Direction de l’intérieur et de la justice transmet un exemplaire du formulaire de signatures à la Chancellerie d’Etat.
+<sup>2</sup> L’autorité de surveillance transmet un exemplaire du formulaire de signatures à la Chancellerie d’Etat.
 
-<sup>3</sup> Lors de tout changement de signature, le ou la notaire doit remettre à la Direction de l’intérieur et de la justice un modèle de la nouvelle signature qu’il ou elle appose en double sur le formulaire de signatures officiel.
+<sup>3</sup> Lors de tout changement de signature, le ou la notaire doit remettre à l’autorité de surveillance un modèle de la nouvelle signature qu’il ou elle appose en double sur le formulaire de signatures officiel.
 
 #### Art. 6
 
@@ -104,35 +164,60 @@ arrête:
 
 <sup>1</sup> L’inscription d’un ou d’une notaire au registre des notaires et sa radiation sont publiées dans l’Amtsblatt des Kantons Bern et dans la Feuille officielle du Jura bernois.
 
-<sup>2</sup> Les noms et les adresses commerciales des personnes inscrites au registre des notaires sont publiés sur Internet. La Direction de l’intérieur et de la justice prend les mesures techniques et organisationnelles nécessaires pour assurer la sécurité de l’exploitation d’une telle publication.
+<sup>2</sup> Les noms et les adresses commerciales des personnes inscrites au registre des notaires sont publiés sur Internet. L’autorité de surveillance prend les mesures techniques et organisationnelles nécessaires pour assurer la sécurité de l’exploitation d’une telle publication.
 
-### 1.2 Cautionnement
+### 1.2
 
 #### Art. 7
 
 **Montant**
 
-<sup>1</sup> Le ou la notaire doit fournir une caution de 300 000 francs pour pouvoir répondre à des demandes en réparation fondées sur la responsabilité civile lors de l’exercice de son activité principale et d’une activité accessoire.
-
 #### Art. 8
 
 **Mode**
-
-<sup>1</sup> Le cautionnement est effectué par une garantie fournie par l’Association de cautionnement du canton de Berne, par une banque établie dans le canton de Berne ou par une compagnie d’assurances qui a son siège en Suisse.
 
 #### Art. 9
 
 **Durée**
 
-<sup>1</sup> La caution doit couvrir des dommages qui sont causés au cours de la pratique professionnelle, même s’ils ne sont invoqués qu’une fois que cette dernière a pris fin, dans le cadre de la prescription légale.
-
 #### Art. 10
 
-**Dépôt**
+**…**
 
-<sup>1</sup> L’acte de cautionnement doit être déposé auprès de la Direction de l’intérieur et de la justice, qui le conserve.
+### 1.2a Courtage immobilier
 
-<sup>2</sup> Après la radiation du ou de la notaire du registre des notaires, l’acte de cautionnement déposé doit être conservé aussi longtemps que des prétentions découlant de la pratique professionnelle peuvent être invoquées. L’acte de cautionnement est restitué aux cautions si, pendant cette période, personne ne prétend à la garantie.
+#### Art. 10a
+
+**Incompatibilité du courtage immobilier**
+
+<sup>1</sup> Le courtage immobilier est incompatible avec la profession de notaire, en particulier lorsqu’il est effectué de manière durable et à titre professionnel.
+
+<sup>2</sup> Le courtage immobilier est dans tous les cas incompatible avec la profession de notaire lorsqu’il est effectué en échange d’une commission ou d’une convention de rémunération comparable.
+
+<sup>3</sup> Dans la mesure où une personne morale, conformément à son but statutaire, vise le courtage immobilier,
+
+- a une participation qualifiée de plus de dix pour cent au capital social ou une affiliation sont incompatibles avec la profession de notaire;
+- b la qualité de membre de l’organe de direction suprême ainsi qu’un rapport d’engagement sont incompatibles avec la profession de notaire.
+
+<sup>4</sup> Les alinéas 1 à 3 s’appliquent aussi aux personnes morales qui effectuent, de fait, un courtage immobilier incompatible avec la profession de notaire.
+
+#### Art. 10b
+
+**Exercice d’un courtage immobilier illicite par des tiers**
+
+<sup>1</sup> Une personne inscrite au registre des notaires ne peut pas faire exercer par des tiers un courtage immobilier incompatible avec sa profession.
+
+#### Art. 10c
+
+**Courtage immobilier admis**
+
+<sup>1</sup> Seul un courtage immobilier exercé à titre occasionnel est compatible avec la profession de notaire.
+
+<sup>2</sup> Il est généralement question d’exercice occasionnel du courtage immobilier si une autre relation de client existe déjà entre le mandant ou la mandante et la personne inscrite au registre des notaires.
+
+<sup>3</sup> Une activité de courtage immobilier compatible avec la profession de notaire ne peut donner droit qu’à des honoraires indépendants du résultat, perçus en fonction du temps employé.
+
+<sup>4</sup> Les honoraires prévus par convention sont réputés indépendants du résultat si leur calcul est le même, que le courtage aboutisse ou non.
 
 ### 1.3 Assurance responsabilité civile professionnelle
 
@@ -140,21 +225,25 @@ arrête:
 
 <sup>1</sup> L’assurance responsabilité civile professionnelle doit être conclue auprès d’une compagnie d’assurances qui a son siège en Suisse et doit satisfaire aux conditions suivantes:
 
-- a le montant assuré pour la responsabilité dans l’exercice des activités principale et accessoire est d’au moins deux millions de francs par an;
+- a le montant assuré pour la responsabilité dans l’exercice des activités principale et accessoire est d’au moins deux millions de francs pour les dommages patrimoniaux par an et par personne à assurer, inscrite au registre des notaires, le montant assuré augmentant d’un million de francs par an et par personne supplémentaire si, dans une étude de notaire, plus de deux personnes inscrites au registre des notaires doivent être assurées;
 - b la protection d’assurance s’étend aux dommages causés au cours de la pratique professionnelle, même s’ils ne sont invoqués qu’une fois que cette dernière a pris fin, dans le cadre de la prescription légale;
-- c la compagnie d’assurances s’engage à communiquer par écrit à la Direction de l’intérieur et de la justice la suspension, la cessation et d’autres modifications de la couverture d’assurance.
+- c la compagnie d’assurances s’engage à communiquer par écrit à l’autorité de surveillance la suspension, la cessation et d’autres modifications de la couverture d’assurance.
+
+<sup>2</sup> Les sociétés de capitaux conformément aux articles 3a ss sont tenues de conclure l’assurance responsabilité civile professionnelle selon l’alinéa 1 pour les personnes qu’elles emploient, qui sont inscrites au registre des notaires, pour autant qu’elles engagent leur responsabilité patrimoniale pour ces personnes.
 
 ### 1.4 Sceau notarial
 
 #### Art. 12
 
-<sup>1</sup> Le sceau notarial porte les armoiries du canton encadrées du texte «N. N. Notaire du canton de Berne» ainsi que le numéro d’enregistrement du ou de la notaire et le numéro du sceau. Au surplus, la Direction de l’intérieur et de la justice arrête la forme, le type et le nombre admissible de sceaux. Elle remet ceux-ci au ou à la notaire au prix de revient.
+<sup>1</sup> Le sceau notarial porte les armoiries du canton encadrées du texte «N. N. Notaire du canton de Berne» ainsi que le numéro d’enregistrement du ou de la notaire et le numéro du sceau. Au surplus, l’autorité de surveillance arrête la forme, le type et le nombre admissible de sceaux. Elle remet ceux-ci au ou à la notaire au prix de revient.
 
 <sup>2</sup> Le ou la notaire ne peut utiliser d’autres sceaux.
 
 <sup>3</sup> Le sceau notarial peut uniquement être utilisé dans le cadre de la procédure d’authentification des actes et lors de la réquisition d’inscription d’affaires juridiques dans les registres publics.
 
-<sup>4</sup> En cas de suspension de l’inscription au registre des notaires, le sceau notarial doit être déposé auprès de la Direction de l’intérieur et de la justice pendant la durée de la suspension. En cas de radiation de l’inscription du registre des notaires, le sceau doit être remis sans délai à la Direction de l’intérieur et de la justice.
+<sup>4</sup> En cas de suspension de l’inscription au registre des notaires, tous les sceaux notariaux doivent être déposés auprès de l’autorité de surveillance pendant la durée de la suspension. En cas de radiation de l’inscription du registre des notaires, les sceaux doivent être remis sans délai à l’autorité de surveillance.
+
+<sup>5</sup> Si nécessaire, l’autorité de surveillance annonce au registre suisse des personnes habilitées à dresser des actes authentiques la suspension et la radiation d’une inscription au registre des notaires.
 
 ### 1.5 Etude de notaire
 
@@ -168,15 +257,25 @@ arrête:
 
 <sup>3</sup> L’étude ne peut servir qu’à la pratique du notariat et d’une autre activité compatible avec celui-ci.
 
+#### Art. 13a
+
+**Etudes communes admises**
+
+<sup>1</sup> Des études communes avec des avocats ainsi qu’avec des entreprises offrant des prestations de conseil en matière fiduciaire, fiscale ou de révision, de gérance immobilière, de gestion de fortune, d’architecture ou de construction ainsi que des conseils aux entreprises sont compatibles avec l’exercice du notariat.
+
+<sup>2</sup> Une autorisation de l’autorité de surveillance est nécessaire pour créer une étude commune avec des entreprises offrant d’autres prestations de conseil qualifiées.
+
+<sup>3</sup> L’étude commune est responsable du respect des prescriptions de droit notarial, en particulier du respect du secret professionnel.
+
 #### Art. 14
 
-**Inspection des locaux**
+**Vérification des locaux**
 
-<sup>1</sup> Avant d’autoriser le ou la notaire à s’inscrire au registre des notaires, la Direction de l’intérieur et de la justice charge les organes d’inspection de s’assurer que les locaux prévus pour l’étude et leur infrastructure remplissent les exigences requises.
+<sup>1</sup> Avant d’autoriser le ou la notaire à s’inscrire au registre des notaires, l’autorité de surveillance charge les organes d’inspection de s’assurer que les locaux prévus pour l’étude et leur infrastructure remplissent les exigences requises.
 
-<sup>2</sup> En cas de transfert de l’étude dans de nouveaux locaux, la Direction de l’intérieur et de la justice ordonne une nouvelle inspection.
+<sup>2</sup> En cas de transfert de l’étude dans de nouveaux locaux, l’autorité de surveillance ordonne une nouvelle vérification.
 
-<sup>3</sup> Les organes d’inspection informent la Direction de l’intérieur et de la justice des défauts constatés. Celle-ci impartit un délai au ou à la notaire pour rétablir l’état prévu par les prescriptions.
+<sup>3</sup> Les organes d’inspection informent l’autorité de surveillance des défauts constatés. Celle-ci impartit un délai au ou à la notaire pour rétablir l’état prévu par les prescriptions.
 
 #### Art. 15
 
@@ -186,41 +285,87 @@ arrête:
 
 <sup>2</sup> Les organes d’inspection examinent la situation dans l’étude et donnent les instructions nécessaires. Ils doivent procéder à une inspection finale.
 
-<sup>3</sup> La Direction de l’intérieur et de la justice prend, le cas échéant, les dispositions nécessaires pour mettre en lieu sûr les recueils des minutes et des testaments, les répertoires des minutes et des testaments, les pièces comptables et les biens confiés au ou à la notaire ainsi que pour assurer les contrôles à effectuer à titre supplémentaire.
+<sup>3</sup> L’autorité de surveillance prend, le cas échéant, les dispositions nécessaires pour mettre en lieu sûr les recueils des minutes et des testaments, les répertoires des minutes et des testaments, les pièces comptables et les biens confiés au ou à la notaire ainsi que pour assurer les contrôles à effectuer à titre supplémentaire.
 
 <sup>4</sup> Si un ou une autre notaire reprend les affaires ou poursuit l’activité de l’étude, ces dossiers et ces biens peuvent être placés sous sa responsabilité. Cette transmission est consignée dans un procès-verbal.
 
-<sup>5</sup> Si les recueils des minutes et des testaments ainsi que les répertoires des minutes et des testaments ne sont pas transmis à un ou une notaire poursuivant l’activité de l’étude, ils doivent, selon les instructions de la Direction de l’intérieur et de la justice, être transmis aux archives centrales des minutes dès que les organes d’inspection ont remis leur rapport final. Les archives centrales des minutes sont soumises aux obligations liées à la conservation.
+<sup>5</sup> Si les recueils des minutes et des testaments ainsi que les répertoires des minutes et des testaments ne sont pas transmis à un ou une notaire poursuivant l’activité de l’étude, ils doivent, selon les instructions de l’autorité de surveillance, être transmis aux archives centrales des minutes dès que les organes d’inspection ont remis leur rapport final. Les archives centrales des minutes sont soumises aux obligations liées à la conservation.
 
 <sup>6</sup> Si personne ne succède au ou à la notaire, les dispositions pour cause de mort qui lui avaient été remises pour qu’il ou elle les conserve et qui n’ont pas encore été ouvertes doivent être transmises à la commune de domicile de la personne qui les a déposées pour autant que celle-ci ne prenne pas d’autres dispositions.
 
 ### 1.6 Conservation des dossiers
 
+### 1.6.1 Obligation générale de conserver
+
 #### Art. 16
 
-**Obligation générale**
+<sup>1</sup> Le ou la notaire doit conserver les documents physiques et électroniques pendant dix ans.
 
-<sup>1</sup> Le ou la notaire doit conserver les dossiers pendant dix ans.
+<sup>2</sup> L’obligation générale de conserver peut être remplie sous forme électronique, dans le respect des prescriptions de droit fédéral et sous réserve d’éventuelles dispositions spéciales de la présente ordonnance.
+
+### 1.6.2 Tenue des répertoires sous forme électronique
+
+#### Art. 16a
+
+<sup>1</sup> Les répertoires des minutes et des testaments ainsi que le contrôle des fonds des clients et l’état des papiers-valeurs peuvent être tenus sous forme électronique.
+
+<sup>2</sup> Les répertoires et les contrôles doivent être imprimés une fois par an au jour de référence de l’inspection ordinaire. Les organes d’inspection peuvent ordonner des impressions supplémentaires.
+
+<sup>3</sup> Les répertoires et les contrôles peuvent aussi disposer d’une signature électronique qualifiée accompagnée d’un horodatage. L’accès aux données électroniques doit être garanti aux organes d’inspection.
+
+<sup>4</sup> Les répertoires et les contrôles visés par les organes d’inspection sont soumis à l’obligation générale de conserver, dans la mesure où la présente ordonnance n’en dispose pas autrement.
+
+### 1.6.3 Dispositions pour cause de mort
 
 #### Art. 17
 
-**Dispositions pour cause de mort**
+**Principes**
 
 <sup>1</sup> Les dispositions pour cause de mort qui ont été remises au ou à la notaire afin qu’il ou elle les garde ou les ouvre doivent être conservées de manière appropriée par ordre chronologique (recueil des testaments) et inscrites dans le répertoire des testaments.
 
-<sup>2</sup> Une attestation de conservation d’une disposition pour cause de mort doit être remise au disposant ou à la disposante. La commune de domicile du disposant ou de la disposante doit être informée de la conservation.
+<sup>1a</sup> Le ou la notaire peut, après en avoir convenu avec la clientèle concernée, conserver les mandats pour cause d’inaptitude et les expéditions de contrats de mariage et les inscrire dans le répertoire des testaments.
 
-<sup>3</sup> Le répertoire des testaments doit être tenu de la même façon que le répertoire des minutes.
+<sup>2–4</sup> …
 
-<sup>4</sup> Le répertoire des testaments contient
+#### Art. 17a
 
-- a un numéro d’ordre continu,
-- b le nom et le prénom du disposant ou de la disposante et ceux de la personne qui remet le testament,
-- c le type et la date de la disposition pour cause de mort,
-- d la date de l’acceptation,
-- e la date de la publication et le nom du ou de la destinataire,
-- f la date de l’ouverture, pour autant que ce soit le ou la notaire qui s’en charge,
+**Attestation et communication**
+
+<sup>1</sup> Il convient de délivrer une attestation relative à la conservation des documents dans le recueil des testaments aux personnes qui les ont déposés.
+
+<sup>2</sup> La conservation des dispositions pour cause de mort doit être communiquée à la commune de domicile de la personne disposante.
+
+#### Art. 17b
+
+**Relation avec le registre central des testaments**
+
+<sup>1</sup> Lorsqu’un ou une notaire détient des dispositions pour cause de mort ou une expédition d’un contrat de mariage dans son recueil des testaments, il ou elle a l’obligation de l’enregistrer dans le registre central des testaments.
+
+<sup>2</sup> L’annonce au registre central des testaments doit avoir lieu 30 jours au plus tard après le dépôt du document dans le recueil des testaments du ou de la notaire.
+
+#### Art. 17c
+
+**Formes de tenue du recueil et du répertoire des testaments**
+
+<sup>1</sup> Le recueil et le répertoire des testaments peuvent être tenus individuellement pour chaque notaire ou globalement pour l’étude de notaire. Des solutions mixtes ne sont pas admises.
+
+<sup>2</sup> Si le recueil et le répertoire des testaments sont tenus globalement pour l’ensemble de l’étude, le répertoire doit indiquer le ou la notaire responsable de chaque document. Si un ou une notaire quitte l’étude, les organes d’inspection doivent comprendre aisément comment le transfert de la responsabilité a été effectué.
+
+#### Art. 17d
+
+**Contenu du répertoire des testaments**
+
+<sup>1</sup> Le répertoire des testaments comprend
+
+- a un numéro d’ordre continu;
+- b le nom et le prénom de la personne disposante et, le cas échéant, de celle qui remet le testament, dans la mesure où il ne s’agit pas de la même personne;
+- c le type et la date de la disposition pour cause de mort;
+- d la date de l’acceptation;
+- e la date de la publication et le nom du ou de la destinataire;
+- f la date de l’ouverture, pour autant que ce soit le ou la notaire qui s’en charge;
 - g une table contenant les noms par ordre alphabétique.
+
+<sup>2</sup> L’alinéa 1 s’applique par analogie aux contrats de mariage ainsi qu’aux mandats pour cause d’inaptitude.
 
 ## 2 Surveillance
 
@@ -228,9 +373,41 @@ arrête:
 
 #### Art. 18
 
-**Inspecteurs et inspectrices**
+**Réviseurs et réviseuses**
 
-<sup>1</sup> La Direction de l’intérieur et de la justice nomme ses propres inspecteurs et inspectrices ou charge une personne ou une organisation qualifiées de procéder à l’inspection des études de notaires.
+<sup>1</sup> L’autorité de surveillance nomme ses propres réviseurs et réviseuses ou peut reconnaître d’autres personnes ou organisations comme qualifiées pour procéder à l’inspection des études de notaires.
+
+<sup>2</sup> La reconnaissance de la qualification s’effectue par une inscription au registre des réviseurs et réviseuses, tenu par l’autorité de surveillance. Cette dernière peut radier du registre les personnes ou les organisations qui ne remplissent plus les conditions en termes de qualification.
+
+<sup>3</sup> Pour bénéficier d’une reconnaissance de la qualification, une personne ou une organisation doit disposer
+
+- a d’un agrément en qualité de réviseur ou de réviseuse conformément à l’article 5 de la loi fédérale du 16 décembre 2005 sur l’agrément et la surveillance des réviseurs (loi sur la surveillance de la révision, LSR[^18-1]),
+- b d’une attestation relative aux connaissances particulières du droit notarial.
+
+<sup>3a</sup> L’autorité de surveillance peut édicter des instructions sur la procédure de reconnaissance de la qualification et sur le contenu du registre des réviseurs et réviseuses.
+
+<sup>4</sup> Les personnes inscrites au registre des notaires doivent désigner une personne inscrite au registre des réviseurs et réviseuses pour l’inspection de leur étude de notaire et l’annoncer pour qu’elle soit inscrite au registre des notaires.
+
+<sup>5</sup> Tout comme les notaires dont ils révisent l’étude, les réviseurs et les réviseuses doivent respecter le secret professionnel.
+
+[^18-1]: RS [221.302](https://db.clex.ch/link/Bund/221.302/fr)
+
+#### Art. 18a
+
+**Commission d’inspection permanente**
+
+<sup>1</sup> L’autorité de surveillance institue, sous sa direction, une commission d’inspection permanente qui compte sept membres au plus. Celle-ci contrôle et surveille la mise en œuvre en bonne et due forme des inspections menées dans les études de notaires.
+
+<sup>2</sup> La commission d’inspection permanente
+
+- a passe en revue les rapports des réviseurs et des réviseuses et pondère les constatations qui résultent des inspections;
+- b fait une annonce à l’autorité de surveillance lorsqu’elle constate des manquements importants dans le cadre de son examen et de sa pondération au sens de la lettre a;
+- c édicte un règlement d’organisation que l’autorité de surveillance doit approuver;
+- d peut édicter des instructions à l’intention des réviseurs et des réviseuses, que l’autorité de surveillance doit approuver.
+
+<sup>3</sup> L’association professionnelle des notaires bernois a le droit de déléguer trois de ses membres dans la commission d’inspection permanente. L’association professionnelle doit être entendue avant la nomination des autres membres.
+
+<sup>4</sup> L’autorité de surveillance peut donner des instructions à la commission d’inspection permanente et lui transférer d’autres tâches.
 
 #### Art. 19
 
@@ -238,20 +415,22 @@ arrête:
 
 <sup>1</sup> L’inspection de l’étude de notaire a lieu une fois par an en principe. Elle fait généralement l’objet d’une annonce préalable.
 
-<sup>2</sup> En cas d’absence du ou de la notaire à la date de l’inspection, il ou elle doit veiller à organiser une suppléance adaptée qui garantisse aux inspecteurs et aux inspectrices l’obtention de renseignements complets et la possibilité de consulter les dossiers.
+<sup>1a</sup> Si l’inspection permet de constater une tenue irréprochable de l'étude, l’autorité de surveillance, sur proposition de la commission d’inspection permanente, peut accepter un intervalle de deux ans entre les inspections. Durant l’année intermédiaire, l’obligation d’inspection peut être remplie au moyen de la remise à la commission d’inspection permanente des clôtures trimestrielles et des preuves de la couverture.
 
-<sup>3</sup> La Direction de l’intérieur et de la justice peut mener ou faire mener des inspections intermédiaires.
+<sup>2</sup> En cas d’absence du ou de la notaire à la date de l’inspection, il ou elle doit veiller à organiser une suppléance adaptée qui garantisse aux réviseurs et aux réviseuses l’obtention de renseignements complets et la possibilité de consulter les dossiers.
 
-<sup>4</sup> Elle peut édicter des instructions relatives à l’inspection des études de notaires.
+<sup>3</sup> L’autorité de surveillance et la commission d’inspection permanente peuvent mener ou faire mener des inspections intermédiaires ou spéciales. Elles désignent en pareil cas le réviseur ou la réviseuse selon leur appréciation.
+
+<sup>4</sup> L’autorité de surveillance peut édicter des instructions relatives à l’inspection des études de notaires.
 
 #### Art. 20
 
 **Objet**
 
-<sup>1</sup> Les inspecteurs et les inspectrices s’assurent du respect par le ou la notaire des prescriptions légales. A cet effet, ils et elles examinent en particulier
+<sup>1</sup> Les réviseurs et les réviseuses s’assurent du respect par le ou la notaire des prescriptions légales. A cet effet, ils examinent en particulier
 
 - a les locaux et l’infrastructure de l’étude de notaire,
-- b l’existence de la caution et de l’assurance responsabilité civile professionnelle,
+- b l’existence de l’assurance responsabilité civile professionnelle,
 - c le recueil et le répertoire des testaments,
 - d la comptabilité,
 - e les contrôles légalement prescrits,
@@ -267,15 +446,19 @@ arrête:
 
 **Annonce**
 
-<sup>1</sup> Les infractions importantes aux prescriptions légales relevées lors de l’inspection, en particulier une incapacité de paiement ou un capital insuffisant, doivent être annoncées à la Direction de l’intérieur et de la justice.
-
 #### Art. 22
 
 **Emoluments**
 
-<sup>1</sup> Les émoluments perçus pour le travail des inspecteurs et des inspectrices se situent entre 240 et 340 francs de l’heure, tous les coûts liés à l’inspection, à savoir les travaux préparatoires, accessoires et faisant suite à l’inspection ainsi que les frais de déplacement et les débours étant compris.
+<sup>1</sup> Les émoluments perçus pour le travail des réviseurs et des réviseuses se situent entre 240 et 350 francs de l’heure, tous les coûts liés à l’inspection, à savoir les travaux préparatoires, accessoires et faisant suite à l’inspection ainsi que les frais de déplacement et les débours étant compris.
 
-<sup>2</sup> Les coûts de l’inspection sont à la charge du ou de la notaire.
+<sup>1a</sup> L’alinéa 1 ne s’applique pas si les réviseurs ou réviseuses reçoivent un mandat de l’étude de notaire elle-même. Dans un tel cas, il peut être convenu librement du montant des émoluments.
+
+<sup>1b</sup> Les émoluments perçus pour la collaboration au sein de la commission d’inspection permanente se situent entre 100 et 250 francs par séance, tous les coûts liés à l’inspection, à savoir les travaux préparatoires, accessoires et faisant suite à l’inspection ainsi que les frais de déplacement et les débours étant compris.
+
+<sup>1c</sup> La commission d’inspection peut attribuer des mandats spéciaux à ses membres ou à des tiers. Le tarif horaire indiqué à l’alinéa 1 ne peut toutefois pas être dépassé.
+
+<sup>2</sup> Les coûts de l’inspection et de la vérification par la commission d’inspection permanente sont à la charge du ou de la notaire.
 
 ### 2.2 Comptabilité, opérations de fonds et capacité de paiement
 
@@ -289,7 +472,7 @@ arrête:
 
 <sup>3</sup> Sauf dispositions particulières de la présente ordonnance, la régularité de la comptabilité et de la conservation des livres est régie par les règles et les recommandations qui font autorité en la matière.
 
-<sup>4</sup> La Direction de l’intérieur et de la justice peut édicter des instructions sur la tenue de la comptabilité.
+<sup>4</sup> L’autorité de surveillance peut édicter des instructions sur la tenue de la comptabilité.
 
 #### Art. 24
 
@@ -303,7 +486,11 @@ arrête:
 
 <sup>2</sup> L’état des papiers-valeurs doit mentionner tous les papiers-valeurs et toutes les valeurs ainsi que les polices d’assurance vie et rente qui sont confiés au ou à la notaire. Il n’est pas nécessaire d’y porter les titres hypothécaires remis au ou à la notaire pour un certain temps seulement en vue de leur inscription au registre foncier ni les biens remis afin qu’ils soient immédiatement transmis à des tiers.
 
-<sup>3</sup> La Direction de l’intérieur et de la justice édicte des instructions sur la forme et le contenu de l’état des papiers-valeurs et du contrôle des fonds des clients.
+<sup>2a</sup> L’état des papiers-valeurs et le contrôle des fonds des clients peuvent être gérés individuellement pour chaque notaire ou globalement pour l’ensemble de l’étude. Des solutions mixtes ne sont pas admises.
+
+<sup>2b</sup> Lorsque les contrôles sont effectués pour l’ensemble de l’étude, ils doivent indiquer le ou la notaire responsable de chaque valeur patrimoniale ou de chaque compte des fonds des clients. Si un ou une notaire quitte l’étude, les organes d’inspection doivent comprendre aisément comment le transfert de la responsabilité a été effectué.
+
+<sup>3</sup> L’autorité de surveillance peut édicter des instructions sur la forme et le contenu de l’état des papiers-valeurs et du contrôle des fonds des clients.
 
 #### Art. 25
 
@@ -311,7 +498,9 @@ arrête:
 
 <sup>1</sup> La comptabilité et les contrôles doivent être tenus à jour de manière continue.
 
-<sup>2</sup> Le bilan, le compte de résultats et le bilan des soldes avec le justificatif de la capacité de paiement doivent être établis tous les trois mois et signés par le ou la notaire.
+<sup>2</sup> Le bilan, le compte de résultats et le bilan des soldes avec le justificatif de la capacité de paiement doivent être établis tous les trois mois, 30 jours au plus tard après la fin du trimestre concerné.
+
+<sup>2a</sup> Les documents conformément à l’alinéa 2 doivent être datés et signés par le ou la notaire. Si une comptabilité concerne plusieurs notaires, deux d’entre eux ou d’entre elles, au moins, doivent signer et dater les documents.
 
 <sup>3</sup> Les soldes des comptes bancaires et postaux ainsi que de ceux des comptes inscrits dans le contrôle des fonds des clients doivent être attestés tous les trois mois.
 
@@ -323,7 +512,7 @@ arrête:
 
 <sup>2</sup> Le ou la notaire exige des reçus pour tous les papiers-valeurs, valeurs, polices d’assurance délivrés ainsi que pour les montants en espèces versés.
 
-<sup>3</sup> Dans les cas de gérances de fortunes ainsi que de mandats dont l’exécution exige un certain temps, le ou la notaire adresse au moins une fois par an un décompte à son client ou à sa cliente.
+<sup>3</sup> Dans les cas de gérances de fortunes, de gérances immobilières ainsi que de mandats dont l’exécution exige un certain temps, le ou la notaire adresse au moins une fois par an un décompte à sa clientèle.
 
 #### Art. 27
 
@@ -343,11 +532,11 @@ arrête:
 
 <sup>3</sup> Les avoirs appartenant à divers clients peuvent être placés sur des comptes collectifs portant expressément la désignation «fonds de clients».
 
-<sup>4</sup> Si les montants revenant à un client ou à une cliente excèdent la somme de 20 000 francs, ils doivent, dans un délai de 40 jours, être placés dans une banque suisse au nom de la personne intéressée ou au nom du ou de la notaire (individualisation). Si les fonds confiés sont placés au nom du ou de la notaire, il convient d’ouvrir un compte fiduciaire en mentionnant le nom de l’ayant droit.
+<sup>4</sup> Si les montants revenant à un client ou à une cliente excèdent la somme de 20'000 francs, ils doivent, dans un délai de 40 jours, être placés dans une banque suisse au nom de la personne intéressée ou au nom du ou de la notaire (individualisation). Le solde créancier sur un compte est déterminant, indépendamment du fait qu’il existe plusieurs ayants droit et que la part interne de chaque client ou de chaque cliente soit inférieure à 20'000 francs.
 
-<sup>5</sup> Tous les fonds individualisés doivent apparaître dans la comptabilité sous forme de comptes d’actif ou être enregistrés dans le contrôle des fonds des clients.
+<sup>5</sup> Si les fonds de clients individualisés sont placés au nom du ou de la notaire, il convient d’ouvrir un compte fiduciaire en mentionnant le nom de l’ayant droit. Tous les fonds individualisés doivent apparaître dans la comptabilité sous forme de comptes d’actif ou être enregistrés dans le contrôle des fonds des clients.
 
-<sup>6</sup> Les dispositions sur les opérations de fonds s’appliquent aussi bien aux fonds et aux biens des clients confiés au ou à la notaire qu’à ceux de tiers. Elles sont également valables pour les fonds et les biens qui, pour une raison quelconque liée à l’activité professionnelle du ou de la notaire, se trouvent sous sa garde.
+<sup>6</sup> Les dispositions sur les opérations de fonds s’appliquent aussi bien aux fonds et aux biens des clients confiés au ou à la notaire qu’à ceux de tiers. Elles sont également valables pour les fonds et les biens qui, pour une raison quelconque liée à une activité professionnelle du ou de la notaire, se trouvent sous sa garde.
 
 #### Art. 29
 
@@ -415,11 +604,11 @@ arrête:
 
 <sup>4</sup> Les pièces justificatives des représentants et toutes les autres annexes doivent être mentionnées dans l’acte.
 
-<sup>5</sup> Les actes portant sur un immeuble doivent contenir une désignation exacte de celui-ci et, pour le transfert d’un immeuble, toutes les indications mentionnées dans le registre foncier. En cas de transfert de patrimoine au sens de la loi fédérale du 3 octobre 2003 sur la fusion, la scission, la transformation et le transfert de patrimoine (loi sur la fusion, LFus[^34-1]), une description précise suffit.
+<sup>5</sup> Les actes portant sur un immeuble doivent contenir une désignation exacte de celui-ci et, pour son transfert sur la base d'un acte juridique, toutes les indications mentionnées dans le registre foncier. En cas de transfert de patrimoine au sens de la loi fédérale du 3 octobre 2003 sur la fusion, la scission, la transformation et le transfert de patrimoine (loi sur la fusion, LFus[^34-1]) et pour les actes de succession, une description précise suffit.
 
 <sup>6</sup> Les prescriptions spéciales pour les différentes procédures d’authentification sont réservées.
 
-[^34-1]: RS 221.301
+[^34-1]: RS [221.301](https://db.clex.ch/link/Bund/221.301/fr)
 
 #### Art. 35
 
@@ -445,15 +634,17 @@ arrête:
 
 <sup>3</sup> Les biffures ou adjonctions modifiant le sens, qui ne sont pas attestées par une signature, ne sont pas réputées valables.
 
+<sup>4</sup> Au terme de la procédure d’identification des actes, des modifications, quelle qu’en soit la nature, peuvent uniquement prendre la forme d’une authentification a posteriori.
+
 #### Art. 37
 
 **Papier**
 
 <sup>1</sup> Pour l’établissement des minutes restant sous la garde du ou de la notaire et pour les expéditions, seul du papier de bonne qualité, résistant au vieillissement, de format standard DIN A4 doit être utilisé.
 
-<sup>2</sup> Pour les pièces justificatives du registre foncier, il convient d’utiliser le papier fourni par la Chancellerie d’Etat.
+<sup>2</sup> …
 
-<sup>3</sup> La Direction de l’intérieur et de la justice peut édicter des instructions sur la qualité du papier à utiliser pour l’établissement d’actes notariés.
+<sup>3</sup> L’autorité de surveillance peut édicter des instructions sur la qualité du papier à utiliser pour l’établissement d’actes notariés.
 
 #### Art. 38
 
@@ -465,13 +656,13 @@ arrête:
 - b les attestations,
 - c les actes de cautionnement,
 - d les actes de protêt pour effet de change,
-- e les déclarations sous serment, les affirmations solennelles et les autres actes au sens de l’article 11, alinéa 3 de la loi fédérale du 18 décembre 1987 sur le droit international privé (LDIP[^38-1]) servant à garantir un droit à l’étranger.
+- e les déclarations sous serment, les affirmations solennelles et les autres actes au sens de l’article 11, alinéa 3 de la loi fédérale du 18 décembre 1987 sur le droit international privé (LDIP)[^38-1] servant à garantir un droit à l’étranger.
 
 <sup>2</sup> L’authentification doit être portée sur le document auquel elle se rapporte. Si cela n’est pas possible, il convient de fixer la minute au document de manière adéquate.
 
-<sup>3</sup> Si le document se compose de plusieurs feuilles, il faut indiquer le nombre total de feuilles auxquelles la minute se rapporte.
+<sup>3</sup> Si le document sur papier se compose de plusieurs feuilles, il faut indiquer le nombre total de feuilles auxquelles la minute se rapporte.
 
-[^38-1]: RS 291
+[^38-1]: RS [291](https://db.clex.ch/link/Bund/291/fr)
 
 #### Art. 39
 
@@ -491,7 +682,7 @@ arrête:
 
 **Remise de la minute à titre provisoire**
 
-<sup>1</sup> Le ou la notaire ne peut remettre provisoirement à la Direction de l’intérieur et de la justice, à un ou une juge la minute qu’il ou elle conserve qu’en vertu d’une décision rendue par ces autorités; la minute ne peut être remise à un ou une juge que si le ou la notaire est tenue de lui fournir des renseignements.
+<sup>1</sup> Le ou la notaire ne peut remettre provisoirement à l’autorité de surveillance, à un ou une juge la minute qu’il ou elle conserve qu’en vertu d’une décision rendue par ces autorités; la minute ne peut être remise à un ou une juge que si le ou la notaire est tenue de lui fournir des renseignements.
 
 <sup>2</sup> Avant de remettre la minute à une autorité, le ou la notaire doit en établir une expédition qui atteste de la date et de la personne à laquelle il ou elle a remis la minute. Cette expédition reste dans le recueil des minutes jusqu’à ce que la minute soit renvoyée au notaire. Elle sera ensuite détruite.
 
@@ -499,7 +690,7 @@ arrête:
 
 **Remise de minutes**
 
-<sup>1</sup> Les actes authentiques reproduits à la suite d’un autre document ou fixés à ce document doivent être remis aux ayants droit. Le sceau notarial doit être apposé sur chacune des feuilles de la minute et du document en question.
+<sup>1</sup> Les actes authentiques reproduits à la suite d’un autre document sur papier ou fixés à celui-ci doivent être remis aux ayants droit. Le sceau notarial doit être apposé sur chacune des feuilles de la minute et du document en question.
 
 <sup>2</sup> Il y a également lieu de remettre aux ayants droit, s’ils en font la demande,
 
@@ -511,7 +702,7 @@ arrête:
 
 <sup>4</sup> A la demande des ayants droit, le ou la notaire doit conserver dans le recueil des minutes une copie de la minute remise.
 
-<sup>5</sup> Les minutes de dispositions pour cause de mort et de mandats pour cause d’inaptitude prévus par l’article 360 du Code civil suisse (CCS)[^42-1] doivent être remises, sur demande, au testateur ou à la testatrice, aux parties contractantes ou au mandant ou à la mandante pour être détruites. Le ou la notaire dresse procès-verbal de ce fait, qu’il ou elle joint à son recueil des minutes à la place de la minute qui a été remise à la partie concernée. Si ces minutes ne restent pas en la garde d’une personne succédant, le cas échéant, au ou à la notaire après la fermeture de l’étude, la présente disposition est également applicable pour le service qui les conserve.
+<sup>5</sup> Les minutes de dispositions pour cause de mort et de mandats pour cause d’inaptitude prévus par l’article 360 du Code civil suisse (CC)[^42-1] doivent être remises, sur demande, au testateur ou à la testatrice, aux parties contractantes ou au mandant ou à la mandante pour être détruites. Le ou la notaire dresse procès-verbal de ce fait, qu’il ou elle joint à son recueil des minutes à la place de la minute qui a été remise à la partie concernée. Si ces minutes ne restent pas en la garde d’une personne succédant, le cas échéant, au ou à la notaire après la fermeture de l’étude, la présente disposition est également applicable pour le service qui les conserve.
 
 [^42-1]: RS 210
 
@@ -521,7 +712,7 @@ arrête:
 
 <sup>1</sup> Le ou la notaire peut établir des expéditions électroniques des minutes qu’il ou elle dresse.
 
-<sup>2</sup> Il ou elle peut également certifier que les copies qu’il ou elle établit sous la forme électronique sont conformes à des originaux figurant sur un support papier et attester l’authenticité de signatures par la voie électronique.
+<sup>2</sup> Il ou elle peut attester l’authenticité des copies d’originaux présentées sur un support électronique ou papier ainsi que le changement de support des copies de la forme papier à la forme électronique ou inversement.
 
 <sup>3</sup> Il ou elle doit utiliser une signature électronique qualifiée reposant sur un certificat qualifié d’un fournisseur de services de certification reconnu au sens de la législation sur la signature électronique.
 
@@ -565,13 +756,13 @@ arrête:
 
 **Procédure ordinaire**
 
-<sup>1</sup> Le ou la notaire donne lecture de la minute aux parties à l’acte, dans la mesure où elle contient des déclarations de volonté.
+<sup>1</sup> Le ou la notaire donne lecture de la minute aux parties à l’acte, dans la mesure où elle contient des déclarations de volonté. Il ou elle doit expliquer les descriptions des immeubles inscrites dans les actes authentiques.
 
-<sup>2</sup> Pour les cautionnements, les promesses de cautionnement et les procurations spéciales pour engagement par cautionnement (art. 493, al. 2 et 6 CO[^46-1]), le ou la notaire, au lieu de donner personnellement lecture de l’acte, le remet à la partie à l’acte pour qu’elle le lise en sa présence, et s’assure qu’elle le lit.
+<sup>2</sup> Pour les cautionnements, les promesses de cautionnement et les procurations spéciales pour engagement par cautionnement (art. 493, al. 2 et 6 du Code des obligations [CO][^46-1]), le ou la notaire, au lieu de donner personnellement lecture de l’acte, le remet à la partie à l’acte pour qu’elle le lise en sa présence, et s’assure qu’elle le lit.
 
 <sup>3</sup> Une fois mis au point, l’acte est signé par les parties et le ou la notaire. En signant, les parties attestent qu’elles trouvent l’acte conforme à leur volonté.
 
-[^46-1]: RS 220
+[^46-1]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 47
 
@@ -593,6 +784,8 @@ arrête:
 
 <sup>1</sup> L’authentification de déclarations de volonté peut également être effectuée dans les formes prévues par le droit fédéral pour les testaments et pactes successoraux publics.
 
+<sup>1a</sup> Dans la mesure où la procédure d’authentification des actes prévue par le droit fédéral est appliquée sur une base volontaire à des contrats, ceux-ci peuvent être authentifiés individuellement avec chaque partie à l’acte, une représentation étant possible. Les motifs de récusation inscrits dans le droit bernois sont applicables.
+
 <sup>2</sup> Les prescriptions de la loi sur le notariat sont applicables aux conséquences d’une authentification présentant des vices de forme.
 
 #### Art. 49
@@ -602,7 +795,7 @@ arrête:
 <sup>1</sup> Une procédure simplifiée est admise dans les cas suivants:
 
 - a mutations en raison de la nouvelle mensuration, de l’établissement ou de la modification de routes, chemins abornés, canaux, lits de cours d’eau, etc. lorsque l’établissement ou la modification a lieu dans l’intérêt public ou que la mutation est connexe à des améliorations foncières;
-- b mutations visant à réunir des parcelles ou à simplifier des limites, ou destinées à permettre des constructions, des améliorations d’exploitation, etc. lorsque, pour chaque immeuble ou portion d’immeuble, le prix convenu et la valeur officielle ne dépassent pas 10 000 francs et que la surface faisant l’objet de la mutation est de 500 mètres carrés au plus par portion d’immeuble.
+- b mutations visant à réunir des parcelles ou à simplifier des limites, ou destinées à permettre des constructions, des améliorations d’exploitation, etc. lorsque, pour chaque immeuble ou portion d’immeuble, le prix convenu et la valeur officielle ne dépassent pas 10'000 francs et que la surface faisant l’objet de la mutation est de 500 mètres carrés au plus par portion d’immeuble.
 
 <sup>2</sup> La procédure simplifiée implique que le ou la notaire informe les parties du contenu du contrat et authentifie l’accord passé entre ces dernières. Les immeubles concernés peuvent faire l’objet d’un renvoi aux documents cadastraux. Pour le surplus, les dispositions régissant la procédure ordinaire sont applicables.
 
@@ -627,6 +820,8 @@ arrête:
 <sup>1</sup> Le ou la notaire constate avec la plus grande précision possible le fait sur lequel il ou elle doit établir un acte authentique.
 
 <sup>2</sup> Il ou elle prend les mesures préliminaires nécessaires pour que la constatation se déroule de façon irréprochable.
+
+<sup>3</sup> Lors de l’établissement d’un certificat d’héritier, le ou la notaire a l’obligation de demander les informations nécessaires auprès du registre central des testaments.
 
 #### Art. 52
 
@@ -683,11 +878,13 @@ arrête:
 
 **Ouverture de testaments**
 
-<sup>1</sup> L’ouverture de testaments et la délivrance par le ou la notaire de certificats d’héritiers pour les héritiers institués par testament sont régies par les dispositions des articles 557 à 559 du Code civil suisse (CCS)[^57-1] . La notification a lieu par écrit.
+<sup>1</sup> L’ouverture de testaments et la délivrance par le ou la notaire de certificats d’héritiers pour les héritiers institués par testament sont régies par les dispositions des articles 557 à 559 du Code civil suisse (CC)[^57-1]. La notification a lieu par écrit.
 
 <sup>2</sup> Si la commune ne dispose d’aucun testament et qu’aucun document de ce type ne lui est remis, le ou la notaire fait attester ce fait et procède à l’ouverture du testament déposé dans son étude.
 
 <sup>3</sup> Si la commune dispose d’un testament ou qu’un tel document lui est remis, le conseil communal ou l’autorité désignée à cet effet par la commune peut charger le ou la notaire de procéder à son ouverture. Si aucun transfert de ce type n’a lieu, le ou la notaire doit transmettre le testament déposé dans son étude au conseil communal ou à l’autorité désignée à cet effet par la commune afin qu’il ou elle l’ouvre.
+
+<sup>3a</sup> En cas de délégation de l’ouverture d’un testament à un ou une notaire, ce dernier ou cette dernière doit faire parvenir au conseil communal ou à l’autorité désignée à cet effet par la commune une copie de la lettre de notification.
 
 <sup>4</sup> Si une personne a déposé un testament auprès de plusieurs notaires ou que des testaments de la même personne sont remis à plusieurs notaires, le conseil communal ou l’autorité désignée à cet effet par la commune choisit le ou la notaire qui va procéder à leur ouverture.
 
@@ -703,7 +900,7 @@ arrête:
 
 <sup>3</sup> Le ou la notaire est aussi compétent pour l’ouverture de testaments.
 
-<sup>4</sup> L’ouverture de pactes successoraux et la délivrance de certificats d’héritiers pour les héritiers institués par pacte successoral sont régies par analogie par les dispositions des articles 557 à 559 CCS . La notification a lieu par écrit.
+<sup>4</sup> L’ouverture de pactes successoraux et la délivrance de certificats d’héritiers pour les héritiers institués par pacte successoral sont régies par analogie par les dispositions des articles 557 à 559 CC. La notification a lieu par écrit.
 
 ### 3.3.5 Ventes aux enchères
 
@@ -752,21 +949,27 @@ arrête:
 
 <sup>2</sup> Le ou la notaire établit l’identité du ou de la signataire.
 
+<sup>3</sup> Le ou la notaire doit attester qu’il ou elle a reçu un document électronique ou un document sur support papier. Par ailleurs, la légalisation d’une signature électronique implique que des renseignements soient fournis sur le type et la validité de la signature électronique et sur la qualité de l’horodatage. Le rapport de validation doit être joint à la légalisation.
+
 #### Art. 63
 
 **Copie**
 
 <sup>1</sup> La vidimation d’une copie consiste, pour le ou la notaire, à certifier que la copie est parfaitement conforme au document qui lui a été présenté. Si la copie ne contient qu’un extrait du document, ce fait doit être mentionné.
 
-<sup>2</sup> Le ou la notaire précise dans l’attestation si le document qui lui a été présenté était un original, une copie vidimée ou non vidimée, si cela ne ressort pas de la copie.
+<sup>2</sup> Le ou la notaire précise dans l’attestation si le document qui lui a été présenté était un original, une copie vidimée ou non vidimée, si cela ne ressort pas de la copie. L’attestation doit par ailleurs indiquer si le document à vidimer a été remis au ou à la notaire sous forme électronique ou sur support papier
 
 <sup>3</sup> Lorsqu’il s’agit d’un document recopié, les adjonctions, intercalations, biffures et autres modifications contenues dans le document doivent être expressément mentionnées.
+
+<sup>4</sup> Si la vidimation concerne un fichier électronique, le ou la notaire doit en outre attester du format sous lequel le fichier électronique a été présenté et de l’application au moyen de laquelle le document a été rendu visible. Il convient d’indiquer précisément dans l’attestation quels contenus du fichier ne font pas partie de la vidimation.
 
 #### Art. 64
 
 **Date**
 
 <sup>1</sup> L’authentification d’une date consiste, pour le ou la notaire, à certifier quand et par qui un acte lui a été présenté.
+
+<sup>2</sup> Les articles 62, alinéa 3 et 63, alinéa 4 s’appliquent par analogie à l’authentification de la date d’un document électronique.
 
 ### 3.4 Expéditions
 
@@ -808,10 +1011,18 @@ arrête:
 - b la mention de la qualité de première, autre ou nouvelle expédition;
 - c la mention de la personne intéressée ou de l’autorité responsable d’un registre public à laquelle l’expédition est destinée;
 - d l’attestation du ou de la notaire, selon laquelle l’expédition est parfaitement conforme à la minute;
-- e le sceau du ou de la notaire sur chaque feuille;
+- e le sceau du ou de la notaire sur chaque feuille d’un document sur papier;
 - f la signature du ou de la notaire.
 
-<sup>5</sup> Si la Direction de l’intérieur et de la justice a chargé un ou une autre notaire de délivrer l’expédition, sa décision doit être mentionnée dans l’expédition et jointe à la minute.
+<sup>5</sup> Si l’autorité de surveillance a chargé un ou une autre notaire de délivrer l’expédition, sa décision doit être mentionnée dans l’expédition et jointe à la minute.
+
+#### Art. 68a
+
+**Contenu d'une expédition électronique**
+
+<sup>1</sup> Dans le cas où une minute donne lieu à une expédition électronique, celle-ci ne doit pas contenir les mentions selon l’article 68, alinéa 4, lettres b et c.
+
+<sup>2</sup> La signature électronique qualifiée a valeur de signature du ou de la notaire conformément à l’article 68, alinéa 4, lettre f.
 
 ### 3.5 Répertoire des minutes
 
@@ -827,11 +1038,11 @@ arrête:
 
 **Tenue**
 
-<sup>1</sup> Le répertoire des minutes peut être tenu sous la forme d’un livre relié ou d’un système de feuilles volantes.
+<sup>1</sup> Si le répertoire des minutes n’est pas tenu sous forme électronique, il peut l’être sous la forme d’un livre relié ou d’un système de feuilles volantes.
 
-<sup>2</sup> Si le système employé est celui des feuilles volantes, le répertoire des minutes peut également être établi sous forme électronique. Dans un tel cas, il convient d’imprimer chaque mois un relevé qui se limite aux données ajoutées depuis la dernière impression réalisée. La table doit être imprimée une fois par an au moins. Chaque feuille volante doit être munie du sceau notarial.
+<sup>2</sup> …
 
-<sup>3</sup> La Direction de l’intérieur et de la justice peut édicter des instructions sur la tenue et la conservation du répertoire.
+<sup>3</sup> L'autorité de surveillance peut édicter des instructions sur la tenue et la conservation du répertoire.
 
 #### Art. 71
 
@@ -851,8 +1062,6 @@ arrête:
 #### Art. 72
 
 **Cautionnement**
-
-<sup>1</sup> Les cautionnements qui ne respectent pas les conditions prévues à l’article 8, alinéa 1 doivent être remplacés dans un délai d’un an à compter de l’entrée en vigueur de la présente ordonnance.
 
 #### Art. 73
 
@@ -887,6 +1096,14 @@ arrête:
 <sup>1</sup> Les personnes inscrites au registre des notaires à la date de l'entrée en vigueur de la présente modification et dont l'assurance responsabilité civile professionnelle ne satisfait pas aux conditions énoncées à l'article 11, lettres a et c, sont tenues de soumettre à la Direction de la justice, des affaires communales et des affaires ecclésiastiques, dans un délai d'un an, la preuve du respect de ces conditions.
 
 <sup>2</sup> Le relevé des prestations et l'état des papiers-valeurs doivent être tenus conformément aux exigences de l'article 24, lettres a et b dans un délai d'une année à partir de la date de l'entrée en vigueur de la présente modification.
+
+## T2 Disposition transitoire de la modification du 28.04.2021
+
+#### Art. T2-1
+
+<sup>1</sup> Jusqu’au 31 décembre 2022, l’Association des notaires bernois (ANB) procède à l’inspection des études de notaires sur la base d’une convention de prestations.
+
+<sup>2</sup> La commission de révision de l’Association des notaires bernois assume jusqu’au 31 décembre 2022 la fonction de commission d’inspection permanente conformément à l’article 18a.
 
 Berne, le 26 avril 2006
 
