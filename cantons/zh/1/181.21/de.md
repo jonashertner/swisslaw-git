@@ -3,11 +3,11 @@ canton: ZH
 number: "181.21"
 title: Geschäftsordnung der Evangelisch-reformierten Kirchensynode des Kantons Zürich
 language: de
-version: "2020-12-01"
-nachtrag: "111"
-valid_until: 2021-06-01
+version: "2021-06-01"
+nachtrag: "113"
+valid_until: 2023-07-01
 adopted: 2011-03-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_21-2011_03_15-2011_09_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_21-2011_03_15-2011_09_01-113.html"
 text: pdf
 ---
 
@@ -60,7 +60,7 @@ Die Alterspräsidentin oder der Alterspräsident bezeichnet vor der konstituiere
 
 **1**
 
-- 1\. 1. 21 - 111 § 5. <sup>1</sup> Im Anschluss an die Erwahrung der Gesamterneuerungswahl leisten die Mitglieder der Kirchensynode unter der Leitung der Alterspräsidentin oder des Alterspräsidenten das Amtsgelübde mit den Worten:
+- 1\. 7. 21 - 113 § 5. <sup>1</sup> Im Anschluss an die Erwahrung der Gesamterneuerungswahl leisten die Mitglieder der Kirchensynode unter der Leitung der Alterspräsidentin oder des Alterspräsidenten das Amtsgelübde mit den Worten:
 
 **e. Amtsgelübde**
 
@@ -128,13 +128,14 @@ Mitglieder, die während der Amtsdauer in die Kirchensynode eintreten, können e
 
 <sup>2</sup> Das Büro der Kirchensynode kann die Zustellung von Unterlagen in gedruckter Form anordnen.
 
-<sup>3</sup> Die Mitglieder der Kirchensynode können beim Sekretariat der Kirchensynode die Zustellung der Einladung und sowie der Anträge und Berichte des Kirchenrates in gedruckter Form verlangen. Für jede Amtsdauer ist ein neues Begehren zu stellen.
+<sup>3</sup> Die Mitglieder der Kirchensynode können beim Parlamentsdienst die Zustellung der Einladung und sowie der Anträge und Berichte des Kirchenrates in gedruckter Form verlangen. Für jede Amtsdauer ist ein neues Begehren zu stellen.[^11-2]
 
 <sup>4</sup> Massgebend für die Einhaltung von Fristen ist das Datum der elektronischen Bereitstellung.
 
 <sup>5</sup> Werden die Einladung, die Anträge und Berichte des Kirchenrates sowie weitere Unterlagen auch in gedruckter Form zugestellt, so ist die elektronisch bereitgestellte Fassung die massgebende.
 
 [^11-1]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^11-2]: Fassung gemäss B vom 23. März 2021 (OS 76, 169; ABl 2021-03-26). In Kraft seit 1. Juni 2021.
 
 #### § 12
 
@@ -156,15 +157,16 @@ Mitglieder, die während der Amtsdauer in die Kirchensynode eintreten, können e
 
 **3**
 
-- 1\. 1. 21 - 111 § 14.[^13-1] <sup>1</sup> Die Mitglieder der Kirchensynode sind verpflichtet, an allen Versammlungen von der Eröffnung bis zum Schluss teilzunehmen.
+- 1\. 7. 21 - 113 § 14.[^13-1] <sup>1</sup> Die Mitglieder der Kirchensynode sind verpflichtet, an allen Versammlungen von der Eröffnung bis zum Schluss teilzunehmen.
 
 **Teilnahmepflicht, Entschuldigungen**
 
-<sup>2</sup> Sie entschuldigen sich im Verhinderungsfall bis spätestens drei Tage nach der Versammlung unter Angabe der Gründe bei der 2. Sekretärin oder beim 2. Sekretär der Kirchensynode schriftlich.
+<sup>2</sup> Sie entschuldigen sich im Verhinderungsfall bis spätestens drei Tage nach der Versammlung unter Angabe der Gründe schriftlich bei der vom Büro der Kirchensynode bezeichneten Stelle.[^13-2]
 
 <sup>3</sup> Mitglieder, die wiederholt ohne Entschuldigung fernbleiben, zu spät zur Sitzung erscheinen oder diese vorzeitig verlassen, werden vom Büro schriftlich ermahnt.
 
 [^13-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^13-2]: Fassung gemäss B vom 23. März 2021 (OS 76, 169; ABl 2021-03-26). In Kraft seit 1. Juni 2021.
 
 #### § 15
 
@@ -234,7 +236,7 @@ Die Präsidentin oder der Präsident der Kirchensynode entscheidet über das Auf
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>3</sup> Ton- und Bildaufnahmen im Versammlungssaal bedürfen einer Bewilligung der Präsidentin oder des Präsidenten der Kirchensynode.
 
@@ -262,17 +264,16 @@ Die Präsidentin oder der Präsident der Kirchensynode entscheidet über das Auf
 
 <sup>2</sup> Die Fraktionsvorsitzenden können sich im Verhinderungsfall durch ein Mitglied ihrer Fraktion vertreten lassen.
 
-<sup>3</sup> Für die Sitzungen des Büros gelten §§ 18, 46–51, 88–96, 99–106 und 111 sinngemäss.
-
-[^23-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
-
-#### § 25
+<sup>3</sup> Für die Sitzungen des Büros gelten §§ 18, 46–51, 88–96, 99–106 und 111 sinngemäss. Eine Vertretung des Parlamentsdienstes nimmt an den Sitzungen des Büros mit beratender Stimme teil.[^23-2]
 
 **c. Präsidentin, Präsident**
 
-<sup>1</sup> Die Präsidentin oder der Präsident der Kirchensynode wacht über die Befolgung dieser Geschäftsordnung sowie über die Einhaltung der parlamentarischen Sitte und Ordnung im Versammlungssaal.
+§ 25. <sup>1</sup> Die Präsidentin oder der Präsident der Kirchensynode wacht über die Befolgung dieser Geschäftsordnung sowie über die Einhaltung der parlamentarischen Sitte und Ordnung im Versammlungssaal.
 
 <sup>2</sup> Sie oder er eröffnet dem Büro sämtliche an die Kirchensynode gerichteten Schreiben und gibt der Versammlung in geeigneter Weise davon Kenntnis.
+
+[^23-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^23-2]: Fassung gemäss B vom 23. März 2021 (OS 76, 169; ABl 2021-03-26). In Kraft seit 1. Juni 2021.
 
 #### § 26
 
@@ -280,19 +281,29 @@ Die Präsidentin oder der Präsident der Kirchensynode entscheidet über das Auf
 
 Ist die Präsidentin oder der Präsident der Kirchensynode verhindert, so übernimmt die 1. Vizepräsidentin oder der 1. Vizepräsident den Vorsitz. Bei Verhinderung geht die Aufgabe an die 2. Vizepräsidentin oder den 2. Vizepräsidenten. Ist auch dies nicht möglich, so bezeichnet die Versammlung aus ihren Reihen eine Stellvertretung.
 
-#### § 27
-
 **e. Sekretärinnen und Sekretäre**
 
-<sup>1</sup> Die Sekretärinnen und Sekretäre der Kirchensynode sind zuständig für die Protokollführung in Kirchensynode und Büro sowie für entsprechende Ausfertigungen.
+§ 27.[^26-1] <sup>1</sup> Die Sekretärinnen und Sekretäre der Kirchensynode nehmen die ihnen gemäss dieser Geschäftsordnung zugewiesenen Aufgaben wahr.
 
-<sup>2</sup> Die Präsidentin oder der Präsident der Kirchensynode, bei Verhinderung eine Vizepräsidentin oder ein Vizepräsident, unterzeichnet zusammen mit einer Sekretärin oder einem Sekretär die von der Kirchensynode ausgehenden Schriftstücke.
+<sup>2</sup> Sie sind zuständig für die Protokollführung in Kirchensynode und Büro sowie für entsprechende Ausfertigungen, sofern diese Aufgaben nicht vom Parlamentsdienst oder anderweitig durch die vom Büro der Kirchensynode bezeichneten Personen oder Stellen wahrgenommen werden.
 
-#### § 28
+**f. Zeichnungsbefugnis**
 
-**Protokollführung**
+§ 28.[^26-1] Die Präsidentin oder der Präsident der Kirchensynode, bei Verhinderung eine Vizepräsidentin oder ein Vizepräsident, unterzeichnet zusammen mit einer Sekretärin oder einem Sekretär die von der Kirchensynode ausgehenden Schriftstücke.
 
-Wird die Protokollführung in der Kirchensynode und im Büro nicht durch die Sekretärinnen und Sekretäre der Kirchensynode wahrgenommen, so kann das Büro hiefür Mitglieder der Kirchensynode, sonst geeignete Personen oder, nach Rücksprache mit dem Kirchenrat, Angestellte der Gesamtkirchlichen Dienste beiziehen.
+**Parlamentsdienst**
+
+§ 28 a.[^26-2] <sup>1</sup> Die Kirchensynode verfügt über einen Parlamentsdienst. Er ist Anlauf-, Informations- und Koordinationsstelle der Kirchensynode. Er unterstützt das Büro sowie die Kommissionen der Kirchensynode in ihrer Tätigkeit und nimmt die ihm gemäss dieser Geschäftsordnung und vom Büro der Kirchensynode zugewiesenen Aufgaben wahr.
+
+<sup>2</sup> Der Parlamentsdienst untersteht der Leitung der Präsidentin oder des Präsidenten der Kirchensynode. Anstellungsinstanz gemäss § 6 der Personalverordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich vom 11. Mai 2010[^26-3] ist das Büro der Kirchensynode.
+
+<sup>3</sup> Die Angestellten des Parlamentsdienstes unterstehen dem Personalrecht der Landeskirche. Der Personaldienst der Landeskirche besorgt die Personaladministration.
+
+<sup>4</sup> Mit Zustimmung der Kirchenratsschreiberin oder des Kirchenratsschreibers steht die Kirchenratskanzlei dem Büro der Kirchensynode zur Verfügung, insbesondere für die Stellvertretung bei Unfall oder Krankheit von Angestellten des Parlamentsdienstes.
+
+[^26-1]: Fassung gemäss B vom 23. März 2021 (OS 76, 169; ABl 2021-03-26). In Kraft seit 1. Juni 2021.
+[^26-2]: Eingefügt durch B vom 23. März 2021 (OS 76, 169; ABl 2021-03-26). In Kraft seit 1. Juni 2021.
+[^26-3]: LS 181.40.
 
 #### § 29
 
@@ -310,13 +321,11 @@ Das Büro regelt den Weibeldienst.
 
 <sup>3</sup> Es wird von der Präsidentin oder vom Präsidenten der Kirchensynode genehmigt und binnen fünf Tagen nach der Versammlung elektronisch veröffentlicht.
 
-[^h4AbschnittProtok-1]: Eingefügt durch B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+**7**
 
-#### § 30
+- 1\. 7. 21 - 113 § 30. Das Protokoll enthält in zweckmässiger Reihenfolge:
 
-**Inhalt**
-
-Das Protokoll enthält in zweckmässiger Reihenfolge:
+**Versammlungsprotokoll14 a. Inhalt**
 
 - a. ein Verzeichnis der behandelten Geschäfte,
 
@@ -332,21 +341,17 @@ Das Protokoll enthält in zweckmässiger Reihenfolge:
 
 - g. allfällige Disziplinarmassnahmen.
 
-**Genehmigung**
+**b. Genehmigung14**
 
-§ 31.[^30-1] <sup>1</sup> Das Büro genehmigt das Protokoll jeder Versammlung. Es regelt das Verfahren und bestimmt die für die Redaktion des Protokolls zuständigen Personen.
+§ 31.[^h4AbschnittProtok-2] <sup>1</sup> Das Büro genehmigt das Protokoll jeder Versammlung. Es regelt das Verfahren und bestimmt die für die Redaktion des Protokolls zuständigen Personen.
 
-<sup>2</sup> Die Mitglieder der Kirchensynode und der Kirchenrat können binnen 30 Tagen, von der elektronischen Veröffentlichung des Protokolls an gerechnet, gegen dessen Richtigkeit Einwendungen erheben. Das Büro entscheidet über solche Einwendungen.[^30-2]
-
-**7**
-
-- 1\. 1. 21 - 111
+<sup>2</sup> Die Mitglieder der Kirchensynode und der Kirchenrat können binnen 30 Tagen, von der elektronischen Veröffentlichung des Protokolls an gerechnet, gegen dessen Richtigkeit Einwendungen erheben. Das Büro entscheidet über solche Einwendungen.[^h4AbschnittProtok-3]
 
 <sup>3</sup> Der Entscheid des Büros kann an die Kirchensynode weitergezogen werden. Diese entscheidet endgültig.
 
-**Veröffentlichung**
+**c. Veröffentlichung14**
 
-§ 31 a.[^30-2] <sup>1</sup> Das Protokoll jeder Versammlung wird nach der Genehmigung gemäss § 31 Abs. 1 elektronisch veröffentlicht.
+§ 31 a.[^h4AbschnittProtok-3] <sup>1</sup> Das Protokoll jeder Versammlung wird nach der Genehmigung gemäss § 31 Abs. 1 elektronisch veröffentlicht.
 
 <sup>2</sup> Der unbenutzte Ablauf der Frist für Einwendungen gemäss § 31 Abs. 2 oder der rechtskräftige Entscheid über Einwendungen gemäss § 31 Abs. 2 und 3 wird den Mitgliedern der Kirchensynode elektronisch mitgeteilt.
 
@@ -354,13 +359,13 @@ Das Protokoll enthält in zweckmässiger Reihenfolge:
 
 <sup>4</sup> Stimmt der Wortlaut des gedruckten Protokolls nicht mit der elektronisch veröffentlichten Fassung überein, so ist die elektronisch veröffentlichte Fassung die massgebende.
 
-**Beilagen zum Protokoll**
+**d. Beilagen zum Protokoll14**
 
-§ 32.[^30-2] Die Protokolle enthalten als Beilage die Synodalpredigt, den Jahresbericht der Landeskirche und der Rekurskommission sowie das Budget und die Rechnung der Zentralkasse. Über die Aufnahme weiterer Beilagen entscheidet das Büro.
+§ 32.[^h4AbschnittProtok-3] Die Protokolle enthalten als Beilage die Synodalpredigt, den Jahresbericht der Landeskirche und der Rekurskommission sowie das Budget und die Rechnung der Zentralkasse. Über die Aufnahme weiterer Beilagen entscheidet das Büro.
 
-**Zustellung**
+**e. Zustellung14**
 
-§ 33.[^30-2] <sup>1</sup> Von den gedruckten Protokollen werden zugestellt:
+§ 33.[^h4AbschnittProtok-3] <sup>1</sup> Von den gedruckten Protokollen werden zugestellt:
 
 - a. der zuständigen Direktion des Regierungsrates und den Parlamentsdiensten des Kantonsrates die erforderlichen Exemplare,
 
@@ -368,17 +373,17 @@ Das Protokoll enthält in zweckmässiger Reihenfolge:
 
 - c. dem Staatsarchiv des Kantons Zürich, der Zentralbibliothek Zürich und der Schweizerischen Nationalbibliothek sowie weiteren Bibliotheken im Kanton Zürich je zwei Exemplare.
 
-- d. . . .[^30-3]
+- d. . . .[^h4AbschnittProtok-4]
 
-- e. . . .[^30-3]
+- e. . . .[^h4AbschnittProtok-4]
 
-- f. . . .[^30-4]
+- f. . . .[^h4AbschnittProtok-5]
 
-- g. . . .[^30-4]
+- g. . . .[^h4AbschnittProtok-5]
 
-- h. . . .[^30-4]
+- h. . . .[^h4AbschnittProtok-5]
 
-- i. . . .[^30-3]
+- i. . . .[^h4AbschnittProtok-4]
 
 <sup>2</sup> Auf Verlangen werden gedruckte Protokolle zugestellt:
 
@@ -388,10 +393,11 @@ Das Protokoll enthält in zweckmässiger Reihenfolge:
 
 - c. den Medien und weiteren Personen je ein Exemplar.
 
-[^30-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
-[^30-2]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
-[^30-3]: Aufgehoben durch B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
-[^30-4]: Aufgehoben durch B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^h4AbschnittProtok-1]: Eingefügt durch B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^h4AbschnittProtok-2]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^h4AbschnittProtok-3]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^h4AbschnittProtok-4]: Aufgehoben durch B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^h4AbschnittProtok-5]: Aufgehoben durch B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
 
 ### 5. Abschnitt: Versammlungsgelder und Entschädigungen
 
@@ -413,15 +419,21 @@ Das Protokoll enthält in zweckmässiger Reihenfolge:
 
 Die Fraktionen erhalten für jedes ihrer Mitglieder einen jährlichen Beitrag. Das Entschädigungsreglement der Landeskirche[^34-1] regelt den Betrag und das Verfahren.
 
+[^35-1]: Fassung gemäss B vom 23. März 2021 (OS 76, 169; ABl 2021-03-26). In Kraft seit 1. Juni 2021.
+
 #### § 36
 
 **Auslagen, Abrechnung**
 
-<sup>1</sup> Für die Auslagen der Kirchensynode, ihrer Kommissionen und des Büros reicht eine Sekretärin oder ein Sekretär der Kirchensynode dem Kirchenrat regelmässig, mindestens aber einmal jährlich, mit der Unterschrift der Präsidentin oder des Präsidenten der Kirchensynode versehene Abrechnungen ein.
+<sup>1</sup> Für die Auslagen der Kirchensynode, ihrer Kommissionen und des Büros reicht die vom Büro der Kirchensynode bezeichnete Stelle dem Kirchenrat regelmässig, mindestens aber einmal jährlich, mit der Unterschrift der Präsidentin oder des Präsidenten der Kirchensynode versehene Abrechnungen ein.[^35-1]
 
 <sup>2</sup> Dies gilt auch für die Anweisung der Sitzungsgelder und Spesen für die abgehaltenen Versammlungen der Kirchensynode und Sitzungen ihrer Kommissionen.
 
 <sup>3</sup> Das Entschädigungsreglement der Landeskirche[^36-1] regelt die Einzelheiten.
+
+**9**
+
+- 1\. 7. 21 - 113
 
 [^36-1]: LS 181.25.
 
@@ -442,10 +454,6 @@ Die Kirchensynode nimmt über die ihr gemäss Art. 214–216 KO und weiterer Bes
 § 38.[^37-1] . . .[^37-2]
 
 <sup>2</sup> Aussprachen im Sinn von § 37 lit. b finden auf Anordnung des Büros oder auf Antrag einer Fraktion oder des Kirchenrates statt. Der Antrag ist der Präsidentin oder dem Präsidenten der Kirchensynode unter Angabe der zu behandelnden Themen spätestens 14 Tage vor der Versammlung schriftlich einzureichen.[^37-3]
-
-**9**
-
-- 1\. 1. 21 - 111
 
 <sup>3</sup> Die Aussprache dauert längstens eine Stunde. Sie kann auf Antrag eines Mitglieds der Kirchensynode verlängert werden, wenn zwei Drittel der anwesenden Mitglieder dem Antrag zustimmen.
 
@@ -516,6 +524,10 @@ Die Kirchensynode nimmt über die ihr gemäss Art. 214–216 KO und weiterer Bes
 
 <sup>2</sup> Sie oder er ruft Mitglieder zur Ordnung, die den parlamentarischen Anstand verletzen, namentlich sich beleidigende Äusserungen gegen die Versammlung oder deren Mitglieder erlauben.
 
+**11**
+
+- 1\. 7. 21 - 113
+
 <sup>3</sup> Missachtet ein Mitglied die Mahnungen der Präsidentin oder des Präsidenten, zur Sache zu sprechen, oder lässt es sich wiederholt eine Verletzung des parlamentarischen Anstands zuschulden kommen, so entzieht ihm die Präsidentin oder der Präsident das Wort.
 
 <sup>4</sup> Erhebt das Mitglied Einsprache gegen den Entzug des Wortes, so entscheidet die Kirchensynode ohne Diskussion.
@@ -533,10 +545,6 @@ Spricht ein Mitglied der Kirchensynode trotz Wortentzug weiter oder verletzt es 
 <sup>1</sup> Die Kirchensynode berät, ob sie auf eine Vorlage eintreten will. Sie kann auf eine Eintretensdebatte verzichten, wenn keine Anträge auf Nichteintreten oder Rückweisung gestellt werden.
 
 <sup>2</sup> Eintreten ist obligatorisch bei Initiativen gemäss Art. 203 KO, bei der Überweisung von Motionen und Postulaten, beim Budget und beim Jahresbericht der Landeskirche sowie bei Rechnungen.
-
-**11**
-
-- 1\. 1. 21 - 111
 
 <sup>3</sup> Wird eine Eintretensdebatte geführt, so steht diese für Voten zur Vorlage als Ganzes zur Verfügung. Es können Anträge auf Nichteintreten oder Rückweisung gestellt werden.[^46-1]
 
@@ -608,6 +616,10 @@ Sprecherinnen und Sprecher von Kommissionen und des Kirchenrates haben am Schlus
 
 <sup>2</sup> Eine Kommission der Kirchensynode kann Motionen und Postulate einreichen, falls sich kein Mitglied der Kommission dagegen ausspricht. Solche Motionen und Postulate werden mit deren Antrag über das Geschäft, mit dem sie zusammenhängen, der Kirchensynode und dem Kirchenrat bekannt gegeben und bei der Behandlung des betreffenden Geschäfts beraten.
 
+**13**
+
+- 1\. 7. 21 - 113
+
 <sup>3</sup> Motionen und Postulate sind spätestens 20 Tage vor der Versammlung einzureichen, in der gemäss § 62 ihre Überweisung behandelt werden soll. Werden sie mindestens sieben Tage vor einer Versammlung eingereicht, so können sie in dieser vorgebracht werden, wenn sich die Mehrheit der Mitglieder der Kirchensynode dafür ausspricht.[^54-1]
 
 **b. Rückzug**
@@ -627,19 +639,19 @@ Sprecherinnen und Sprecher von Kommissionen und des Kirchenrates haben am Schlus
 
 Der Text einer Motion oder eines Postulats darf im Lauf der Beratungen nur mit Zustimmung des erstunterzeichnenden Mitglieds der Kirchensynode abgeändert werden. Dieses ist berechtigt, eine Motion in ein Postulat umzuwandeln.
 
-**13**
-
-- 1\. 1. 21 - 111 § 58. <sup>1</sup> Der Kirchenrat unterbreitet der Kirchensynode spätestens binnen zweier Jahre Bericht und Antrag zu überwiesenen Motionen und Postulaten. Kann er diese Frist nicht einhalten, so legt er einen Zwischenbericht vor und begründet die Verzögerung. Die Kirchensynode entscheidet in diesem Fall über weitere Fristen, den Zeitpunkt einer allfälligen Behandlung oder die Abschreibung unter Verzicht auf weitere Behandlung.
+#### § 58
 
 **e. Erledigung**
+
+<sup>1</sup> Der Kirchenrat unterbreitet der Kirchensynode spätestens binnen zweier Jahre Bericht und Antrag zu überwiesenen Motionen und Postulaten. Kann er diese Frist nicht einhalten, so legt er einen Zwischenbericht vor und begründet die Verzögerung. Die Kirchensynode entscheidet in diesem Fall über weitere Fristen, den Zeitpunkt einer allfälligen Behandlung oder die Abschreibung unter Verzicht auf weitere Behandlung.
 
 <sup>2</sup> Liegt zu einer überwiesenen Motion oder zu einem überwiesenen Postulat der schriftliche Bericht und Antrag des Kirchenrates vor, so beschliesst die Kirchensynode in der Sache und über die Abschreibung der Motion oder des Postulats. Tritt sie auf den Bericht und Antrag nicht ein, weist sie diese an den Kirchenrat zurück oder schreibt sie die Motion oder das Postulat nicht ab, so verlängert sich die Frist gemäss Abs. 1 um ein Jahr.
 
 **f. Abschreibung noch nicht überwiesener Motionen und Postulate**
 
-§ 59.[^57-1] Die Kirchensynode schreibt eine Motion oder ein Postulat ab, wenn das erstunterzeichnende Mitglied aus der Kirchensynode ausscheidet, bevor diese die Motion oder das Postulat gemäss §§ 62 oder 65 überwiesen hat.
+§ 59.[^58-1] Die Kirchensynode schreibt eine Motion oder ein Postulat ab, wenn das erstunterzeichnende Mitglied aus der Kirchensynode ausscheidet, bevor diese die Motion oder das Postulat gemäss §§ 62 oder 65 überwiesen hat.
 
-[^57-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^58-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
 
 #### § 60
 
@@ -692,27 +704,23 @@ Ein Postulat lädt den Kirchenrat ein, zu prüfen, ob er in einer Frage entweder
 
 Mit einer Interpellation, einer Schriftlichen Anfrage und in der Fragestunde kann über einen das Leben und die Leitung der Landeskirche betreffenden Gegenstand vom Kirchenrat Auskunft verlangt werden.
 
-#### § 67
+**15**
+
+- 1\. 7. 21 - 113 § 67. <sup>1</sup> Eine Interpellation muss im Zeitpunkt ihrer Einreichung von mindestens zehn Mitgliedern der Kirchensynode unterzeichnet sein.
 
 **Interpellationen, Schriftliche Anfragen und Fragestunde b. Interpellationen**
 
-<sup>1</sup> Eine Interpellation muss im Zeitpunkt ihrer Einreichung von mindestens zehn Mitgliedern der Kirchensynode unterzeichnet sein.
-
 <sup>2</sup> Die Präsidentin oder der Präsident der Kirchensynode kann eine Interpellation zurückweisen, die sich auf ein Geschäft bezieht, das bereits in einer Kommission bearbeitet wird.
 
-<sup>3</sup> Der Kirchenrat beantwortet die Interpellation schriftlich binnen vier Monaten seit ihrer Einreichung. Das Büro kann diese Frist auf Antrag des Kirchenrates um höchstens zwei Monate verlängern. Nach Vorliegen der schriftlichen Antwort wird diese zusammen mit der Interpellation in die Einladung gemäss § 11 Abs. 2 für die nächste Versammlung der Kirchensynode aufgenommen und mit der Einladung den Mitgliedern der Kirchensynode elektronisch zur Einsichtnahme bereitgestellt.[^67-1]
+<sup>3</sup> Der Kirchenrat beantwortet die Interpellation schriftlich binnen vier Monaten seit ihrer Einreichung. Das Büro kann diese Frist auf Antrag des Kirchenrates um höchstens zwei Monate verlängern. Nach Vorliegen der schriftlichen Antwort wird diese zusammen mit der Interpellation in die Einladung gemäss § 11 Abs. 2 für die nächste Versammlung der Kirchensynode aufgenommen und mit der Einladung den Mitgliedern der Kirchensynode elektronisch zur Einsichtnahme bereitgestellt.[^66-1]
 
 <sup>4</sup> Der Kirchenrat ist berechtigt, die verlangte Auskunft unter Angabe der Gründe zu verweigern. Über die Stichhaltigkeit der Weigerungsgründe entscheidet die Kirchensynode. Sie kann den Kirchenrat beauftragen, die Interpellation dennoch zu beantworten.
 
 <sup>5</sup> Nach der Beantwortung der Interpellation kann die Interpellantin oder der Interpellant erklären, ob sie oder er von der erhaltenen Auskunft befriedigt ist oder nicht. Eine weitere Diskussion findet nur statt, wenn die Kirchensynode dies beschliesst.
 
-**15**
-
-- 1\. 1. 21 - 111
-
 <sup>6</sup> Eine Beschlussfassung über die von der Interpellation betroffenen Fragen ist ausgeschlossen.
 
-[^67-1]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^66-1]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
 
 #### § 68
 
@@ -752,11 +760,12 @@ Mit einer Interpellation, einer Schriftlichen Anfrage und in der Fragestunde kan
 
 <sup>3</sup> Die Präsidentin oder der Präsident der Kirchensynode bestätigt den Eingang des Resolutionsentwurfs und stellt dessen Wortlaut den Mitgliedern der Kirchensynode und dem Kirchenrat elektronisch zur Einsichtnahme bereit.[^71-1]
 
-<sup>4</sup> Wird ein Resolutionsentwurf der Präsidentin oder dem Präsidenten der Kirchensynode mindestens sieben Tage vor einer Versammlung schriftlich und unterzeichnet sowie in elektronischer Form eingereicht, so wird er der Kirchensynode in dieser Versammlung zur Behandlung unterbreitet.[^71-1]
+<sup>4</sup> Wird ein Resolutionsentwurf der Präsidentin oder dem Präsidenten der Kirchensynode mindestens sieben Tage vor einer Versammlung schriftlich und unterzeichnet sowie in elektronischer Form eingereicht, so wird er der Kirchensynode in dieser Versammlung zur Behandlung unterbreitet.[^71-2]
 
 <sup>5</sup> Bei der Behandlung einer Resolution wird zuerst das Wort zur Begründung erteilt. Anschliessend erfolgt eine Diskussion über das Eintreten. Beschliesst die Versammlung Eintreten und werden Änderungen am Resolutionsentwurf beantragt, so berät sie diesen inhaltlich. Solche Änderungen können ohne Zustimmung der Antragstellerin oder des Antragstellers der Resolution beschlossen werden.
 
-[^71-1]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^71-1]: Eingefügt durch B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^71-2]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
 
 #### § 72
 
@@ -767,6 +776,10 @@ Mit einer Interpellation, einer Schriftlichen Anfrage und in der Fragestunde kan
 <sup>2</sup> Das Büro kann Petitionen nach Einholen einer Stellungnahme des Kirchenrates direkt beantworten. Rechtfertigen es die Komplexität oder die Tragweite eines Gegenstands, so legt das Büro der Kirchensynode Antrag und Bericht vor. Zur Vorbereitung kann es eine aus Mitgliedern der Kirchensynode und Fachleuten zusammengesetzte Kommission bestellen.
 
 <sup>3</sup> Betrifft das Anliegen einen Gegenstand, für den der Kirchenrat zuständig ist, so überweist das Büro diesem die Petition zur Beantwortung.
+
+**17**
+
+- 1\. 7. 21 - 113
 
 <sup>4</sup> Die Präsidentin oder der Präsident der Kirchensynode gibt dieser von erledigten Petitionen Kenntnis. Die Mitglieder der Kirchensynode können das Anliegen einer durch das Büro erledigten Petition durch einen parlamentarischen Vorstoss aufgreifen. Legt das Büro Antrag und Bericht vor, so entscheidet die Kirchensynode über die weiteren Folgen der Petition.
 
@@ -793,10 +806,6 @@ Die ständigen Kommissionen zählen sieben Mitglieder.
 **c. Amtszeitbeschränkung**
 
 <sup>1</sup> Die Mitglieder einer ständigen Kommission dürfen dieser ununterbrochen während längstens acht Jahren angehören.
-
-**17**
-
-- 1\. 1. 21 - 111
 
 <sup>2</sup> Das Präsidium einer ständigen Kommission darf während höchstens vier aufeinanderfolgenden Jahren ausgeübt werden. Erreicht die Präsidentin oder der Präsident einer ständigen Kommission während der Ausübung des Präsidiums die längstens zulässige Amtszeit gemäss Abs. 1, so verlängert sich diese bis zur höchstens zulässigen Dauer des Präsidiums.
 
@@ -861,33 +870,28 @@ Die Kirchensynode und das Büro können jedes vor die Kirchensynode gelangende G
 
 Ein Mitglied der Kirchensynode kann nicht gleichzeitig dem Büro und einer ständigen Kommission sowie nicht gleichzeitig mehr als einer ständigen Kommission angehören.
 
-[^81-1]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+**19**
 
-#### § 82
+- 1\. 7. 21 - 113 § 82. <sup>1</sup> Der Kirchenrat stellt Jahresberichte, Jahresrechnung, Budget sowie weitere Anträge und Berichte dem Büro und den zuständigen Kommissionen mindestens zwei Monate vor der Versammlung der Kirchensynode, in der sie behandelt werden sollen, elektronisch zur Einsichtnahme bereit.[^81-1]
 
 **Verfahren a. Bereitstellung von Unterlagen**
-
-<sup>1</sup> Der Kirchenrat stellt Jahresberichte, Jahresrechnung, Budget sowie weitere Anträge und Berichte dem Büro und den zuständigen Kommissionen mindestens zwei Monate vor der Versammlung der Kirchensynode, in der sie behandelt werden sollen, elektronisch zur Einsichtnahme bereit.[^81-1]
 
 <sup>2</sup> Kann der Kirchenrat diese Frist nicht einhalten, so teilt er dies der zuständigen Kommission unter Angabe der Gründe unverzüglich mit. Die Kommission kann in diesem Fall der Kirchensynode beantragen, die Behandlung des Geschäfts auf die nächste Versammlung zu verschieben.
 
 **b. Mitberichte**
 
-§ 83.[^82-1] Das Büro kann von sich aus oder auf Antrag einer ständigen oder der vorberatenden Kommission die zuständige ständige Kommission anweisen, einen Mitbericht zuhanden der vorberatenden Kommission zu erstatten.
+§ 83.[^81-2] Das Büro kann von sich aus oder auf Antrag einer ständigen oder der vorberatenden Kommission die zuständige ständige Kommission anweisen, einen Mitbericht zuhanden der vorberatenden Kommission zu erstatten.
 
 **c. Einbezug des Kirchenrates**
 
-§ 84.[^82-1] <sup>1</sup> Das zuständige Mitglied des Kirchenrates oder dessen Vertretung nimmt an den Beratungen von Kommissionen der Kirchensynode teil. Über Ausnahmen entscheiden die Kommissionen.
+§ 84.[^81-2] <sup>1</sup> Das zuständige Mitglied des Kirchenrates oder dessen Vertretung nimmt an den Beratungen von Kommissionen der Kirchensynode teil. Über Ausnahmen entscheiden die Kommissionen.
 
 <sup>2</sup> Die Teilnahme des zuständigen Mitglieds des Kirchenrates an den Beratungen der ständigen Kommissionen erfolgt auf Einladung der betreffenden Kommission.
 
-**19**
-
-- 1\. 1. 21 - 111
-
 <sup>3</sup> Beabsichtigt eine Kommission oder eine Kommissionsminderheit Anträge an die Kirchensynode zu stellen, die von Anträgen des Kirchenrates abweichen, so hört die Kommission das zuständige Mitglied des Kirchenrates vorgängig an.
 
-[^82-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^81-1]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^81-2]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
 
 #### § 85
 
@@ -945,23 +949,22 @@ Auf die Sitzungen der Kommissionen finden §§ 18, 46–51, 99–106 und 111 sin
 
 <sup>2</sup> Die bei Anträgen an die Kirchensynode unterliegenden Mitglieder sind berechtigt, einen Minderheitsantrag zu stellen, sofern sie unmittelbar nach der Schlussabstimmung eine entsprechende Erklärung zu Protokoll geben.
 
-[^90-1]: Eingefügt durch B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+**21**
 
-#### § 92
+- 1\. 7. 21 - 113 § 92. <sup>1</sup> Die Kommissionen führen über ihre Verhandlungen ein Protokoll, welches das Wesentliche der Verhandlungen und die gefassten Beschlüsse festhält.
 
 **e. Protokolle**
 
-<sup>1</sup> Die Kommissionen führen über ihre Verhandlungen ein Protokoll, welches das Wesentliche der Verhandlungen und die gefassten Beschlüsse festhält.
-
 <sup>2</sup> Die Kommissionsprotokolle sind ohne Verzug zu erstellen.
 
-[^92-1]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
+[^90-1]: Eingefügt durch B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^90-2]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
 
 #### § 93
 
 **f. Verwendung der Protokolle und Unterlagen**
 
-<sup>1</sup> Die Kommissionsprotokolle werden den Kommissionsmitgliedern und dem an der betreffenden Kommissionssitzung teilnehmenden Mitglied des Kirchenrates oder dessen Vertretung elektronisch zur Einsichtnahme bereitgestellt. Weitere Sitzungsteilnehmende erhalten auf Wunsch einen Protokollauszug.[^92-1]
+<sup>1</sup> Die Kommissionsprotokolle werden den Kommissionsmitgliedern und dem an der betreffenden Kommissionssitzung teilnehmenden Mitglied des Kirchenrates oder dessen Vertretung elektronisch zur Einsichtnahme bereitgestellt. Weitere Sitzungsteilnehmende erhalten auf Wunsch einen Protokollauszug.[^90-2]
 
 <sup>2</sup> Die ständigen Kommissionen, soweit sie gemäss § 79 Abs. 1 Anträge und Berichte des Kirchenrates prüfen, und die weiteren Kommissionen stellen ihre Protokolle der Präsidentin oder dem Präsidenten und den beiden Vizepräsidentinnen und Vizepräsidenten der Kirchensynode sowie den Präsidentinnen und Präsidenten der Fraktionen zu.[^93-1]
 
@@ -969,16 +972,14 @@ Auf die Sitzungen der Kommissionen finden §§ 18, 46–51, 99–106 und 111 sin
 
 <sup>4</sup> Abs. 1–3 gelten sinngemäss für weitere Unterlagen der Kommissionen.
 
-**21**
+**g. Archiv**
 
-- 1\. 1. 21 - 111 § 94.[^93-2] Die Kommissionen übergeben ihre Akten dem Kirchenrat zur ordnungsgemässen Archivierung, soweit diese nicht im Geschäftsverwaltungssystem des Kirchenrates geführt werden.
+§ 94.[^93-2] Die Kommissionen übergeben ihre Akten dem Kirchenrat zur ordnungsgemässen Archivierung, soweit diese nicht im Geschäftsverwaltungssystem des Kirchenrates geführt werden.
 
 [^93-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
 [^93-2]: Fassung gemäss B vom 25. Juni 2019 (OS 74, 484; ABl 2019-06-28). In Kraft seit 1. Oktober 2019.
 
 #### § 95
-
-**g. Archiv**
 
 **7. Berichterstattung a. Orientierung**
 
@@ -1054,17 +1055,17 @@ Die Präsidentin oder der Präsident der Kirchensynode legt die Fragestellung de
 
 <sup>2</sup> Wenn kein Antrag die absolute Mehrheit der abgegebenen Stimmen erreicht, fällt derjenige mit der geringsten Stimmenzahl aus der Abstimmung. Auf gleiche Weise wird zwischen den übrig gebliebenen Anträgen abgestimmt, bis einer die absolute Mehrheit der abgegebenen Stimmen erhält.
 
-#### § 103
+**23**
+
+- 1\. 7. 21 - 113 § 103. <sup>1</sup> Steht einem Antrag kein Gegenantrag gegenüber, so erklärt die Präsidentin oder Präsident der Kirchensynode diesen ohne Abstimmung zum Beschluss der Kirchensynode.
 
 **Beschlussfassung ohne Abstimmung**
 
-<sup>1</sup> Steht einem Antrag kein Gegenantrag gegenüber, so erklärt die Präsidentin oder Präsident der Kirchensynode diesen ohne Abstimmung zum Beschluss der Kirchensynode.
-
-<sup>2</sup> Die Stimmenzahlen werden in jedem Fall ermittelt bei der Schlussabstimmung über[^103-1] a. Geschäfte, die dem Referendum unterstehen,
+<sup>2</sup> Die Stimmenzahlen werden in jedem Fall ermittelt bei der Schlussabstimmung über[^102-1] a. Geschäfte, die dem Referendum unterstehen,
 
 - b. Berichte des Kirchenrates zur Beantwortung von Motionen und Postulaten.
 
-[^103-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^102-1]: Fassung gemäss B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
 
 #### § 104
 
@@ -1078,13 +1079,9 @@ Die Versammlung nimmt die Berichte des Kirchenrates «zur Kenntnis», «zustimme
 
 Ist ein Antrag oder eine Abstimmungsfrage teilbar, so kann die Behandlung des Antrags oder die Abstimmung getrennt erfolgen, wenn die Präsidentin, der Präsident oder ein Mitglied der Kirchensynode dies verlangt und die Versammlung zustimmt.
 
-**23**
-
-- 1\. 1. 21 - 111 § 106.[^105-1] Eine Schlussabstimmung über ein Geschäft als Ganzes findet statt, wenn
-
 **Schlussabstimmung**
 
-- a. das Geschäft mehrere Anträge umfasst nach der Beratung und Beschlussfassung über die einzelnen Anträge,
+§ 106.[^105-1] Eine Schlussabstimmung über ein Geschäft als Ganzes findet statt, wenn a. das Geschäft mehrere Anträge umfasst nach der Beratung und Beschlussfassung über die einzelnen Anträge,
 
 - b. ein rechtsetzender Erlass mehrere Artikel umfasst nach der Beratung und Beschlussfassung über die einzelnen Bestimmungen.
 
@@ -1160,6 +1157,10 @@ Eine Abstimmung unter Namensaufruf muss vorgenommen werden, wenn 20 Mitglieder d
 
 - c. zwei Sekretärinnen oder Sekretäre,
 
+**25**
+
+- 1\. 7. 21 - 113
+
 - d. vier Stimmenzählerinnen oder Stimmenzähler und zwei Ersatzleute,
 
 - e. zuerst einzeln die Präsidentin oder den Präsidenten und anschliessend die weiteren Mitglieder des Kirchenrates,
@@ -1172,20 +1173,21 @@ Eine Abstimmung unter Namensaufruf muss vorgenommen werden, wenn 20 Mitglieder d
 
 <sup>2</sup> Die Kirchensynode wählt überdies die Synodalpredigerin oder den Synodalprediger innerhalb oder ausserhalb ihrer Mitte. Für die konstituierende Versammlung bestimmt der Kirchenrat die Synodalpredigerin oder den Synodalprediger.
 
-**25**
+[^113-1]: Fassung gemäss B vom 7. Juli 2020 (OS 75, 459; ABl 2020-07-10). In Kraft seit 1. Dezember 2020.
 
-- 1\. 1. 21 - 111 § 114. <sup>1</sup> Wahlen in der Kirchensynode und im Büro erfolgen offen.
+#### § 114
 
 **Wahlverfahren**
+
+<sup>1</sup> Wahlen in der Kirchensynode und im Büro erfolgen offen.
 
 <sup>2</sup> Die Kirchensynode wählt im geheimen Verfahren:
 
 - a. die Kirchenratspräsidentin oder den Kirchenratspräsidenten und die weiteren Mitglieder des Kirchenrates,
 
-- b. wenn ein Drittel der anwesenden Mitglieder der Kirchensynode einem entsprechenden Antrag zustimmt, c.[^113-2] wenn bei einer offenen Wahl mehr Wahlvorschläge vorliegen, als Stellen zu besetzen sind.
+- b. wenn ein Drittel der anwesenden Mitglieder der Kirchensynode einem entsprechenden Antrag zustimmt, c.[^114-1] wenn bei einer offenen Wahl mehr Wahlvorschläge vorliegen, als Stellen zu besetzen sind.
 
-[^113-1]: Fassung gemäss B vom 7. Juli 2020 (OS 75, 459; ABl 2020-07-10). In Kraft seit 1. Dezember 2020.
-[^113-2]: Eingefügt durch B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
+[^114-1]: Eingefügt durch B vom 24. März 2015 (OS 70, 139; ABl 2015-04-17). In Kraft seit 1. Juli 2015.
 
 #### § 115
 
@@ -1233,15 +1235,21 @@ Eine Abstimmung unter Namensaufruf muss vorgenommen werden, wenn 20 Mitglieder d
 
 <sup>6</sup> Enthält der Wahlzettel mehr Namen, als Sitze zu vergeben sind, so werden die überzähligen Namen von unten nach oben gestrichen.
 
+[^117-1]: Fassung gemäss B vom 23. März 2021 (OS 76, 169; ABl 2021-03-26). In Kraft seit 1. Juni 2021.
+
 #### § 118
 
 **c. Auszählung und Bekanntgabe**
 
-<sup>1</sup> Die Stimmenzählerinnen und Stimmenzähler zählen die Wahlzettel aus und erstellen über das Ergebnis ein schriftliches Wahlprotokoll. Die Wahlzettel werden vom Wahlbüro verschlossen sowie von der 2. Sekretärin oder vom 2. Sekretär bis zum Eintritt der Rechtskraft aufbewahrt und anschliessend vernichtet.
+<sup>1</sup> Die Stimmenzählerinnen und Stimmenzähler zählen die Wahlzettel aus und erstellen über das Ergebnis ein schriftliches Wahlprotokoll. Die Wahlzettel werden vom Wahlbüro verschlossen, vom Parlamentsdienst bis zum Eintritt der Rechtskraft aufbewahrt und anschliessend vernichtet.[^117-1]
 
 <sup>2</sup> Mit der Zustimmung der Kirchensynode kann die Auszählung der Stimmen auch ausserhalb des Ratssaals erfolgen.
 
 <sup>3</sup> Die Präsidentin oder der Präsident der Kirchensynode gibt die Zahl der anwesenden Mitglieder, die Zahl der ausgeteilten und der eingegangenen Wahlzettel sowie das Ergebnis der Wahl bekannt. Sie oder er nennt mindestens jene Personen, die zehn und mehr Stimmen erhalten haben. Die Wahl der Kirchenratspräsidentin oder des Kirchenratspräsidenten und der weiteren Mitglieder des Kirchenrates wird amtlich publiziert.[^118-1]
+
+**27**
+
+- 1\. 7. 21 - 113
 
 <sup>4</sup> Übersteigt die Zahl der eingegangenen Wahlzettel jene der anwesenden Mitglieder oder der ausgeteilten Wahlzettel, so ist der Wahlgang nichtig und wird wiederholt.
 
@@ -1255,7 +1263,7 @@ Eine Abstimmung unter Namensaufruf muss vorgenommen werden, wenn 20 Mitglieder d
 
 <sup>1</sup> Die Kirchensynode entscheidet über Änderungen der Geschäftsordnung aufgrund eines schriftlichen Antrags des Büros.
 
-<sup>2</sup> Entsprechende Anträge von Mitgliedern der Kirchensynode sind als Motion der Präsidentin oder dem Präsidenten der Kirchensynode zuhanden des Büros einzureichen. Für die Behandlung solche Motionen binnen eines Jahres gilt § 58 sinngemäss.
+<sup>2</sup> Entsprechende Anträge von Mitgliedern der Kirchensynode sind als Motion der Präsidentin oder dem Präsidenten der Kirchensynode zuhanden des Büros einzureichen. Für die Behandlung solcher Motionen binnen eines Jahres gilt § 58 sinngemäss.
 
 #### § 120
 
@@ -1263,8 +1271,8 @@ Eine Abstimmung unter Namensaufruf muss vorgenommen werden, wenn 20 Mitglieder d
 
 Diese Verordnung ersetzt die Geschäftsordnung der Evangelisch-reformierten Kirchensynode des Kantons Zürich vom 29. November 2005.
 
-**27**
+#### § 121
 
 **Inkrafttreten**
 
-- 1\. 1. 21 - 111 § 121. Diese Geschäftsordnung tritt am 1. September 2011 in Kraft.
+Diese Geschäftsordnung tritt am 1. September 2011 in Kraft.
