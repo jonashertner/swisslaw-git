@@ -4,13 +4,13 @@ number: "171.1"
 title: "Loi sur l'organisation des Conseils et les rapports entre les pouvoirs"
 short: LOCRP
 language: fr
-version: 2021-02-01
-valid_until: 2021-05-31
+version: 2021-06-01
+valid_until: 2022-04-07
 version_adopted: 2020-09-09
 adopted: 1996-03-28
 in_force: 1997-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/171.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2871/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2898/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2871/pdf_file"
 
 (LOCRP)
 
-du 28.03.1996 (état 01.02.2021)
+du 28.03.1996 (état 01.06.2021)
 
 Le Grand Conseil du canton du Valais
 
@@ -1034,9 +1034,13 @@ ordonne:
 
 **Consultation**
 
-<sup>1</sup> Le Conseil d'Etat soumet à une procédure de consultation les projets importants d'actes législatifs, en particulier ceux soumis au référendum obligatoire et facultatif.
+<sup>1</sup> Le Conseil d'Etat soumet à une procédure de consultation les projets importants d'actes législatifs, en particulier ceux soumis au référendum obligatoire et facultatif. Il fait la publicité de l'ouverture de toutes les procédures de consultation sur le site internet de l'Etat du Valais.
 
-<sup>2</sup> Le règlement du Conseil d'Etat fixe les modalités d'application de cette disposition et désigne notamment les personnes et cercles consultés.
+<sup>1<sup>bis</sup></sup> La durée de la procédure de consultation pour un acte législatif est fixée en fonction de l'importance et de l'urgence de l'objet.
+
+<sup>1<sup>ter</sup></sup> Dans tous les cas, un rapport de synthèse des réponses à la consultation est rédigé par le service concerné. Ce rapport, avec les réponses reçues, est publié sur le site internet de l'Etat du Valais et transmis à la commission compétente du Grand Conseil.
+
+<sup>2</sup> Le règlement du Conseil d'Etat fixe les modalités d'application de cette disposition et désigne notamment les personnes et cercles consultés. Le Conseil d'Etat rend public ce règlement.
 
 #### Art. 95
 
@@ -1092,7 +1096,7 @@ ordonne:
 
 <sup>2</sup> Le message présente une vue d'ensemble du projet, notamment quant à sa place dans la planification intégrée pluriannuelle, sa conformité à la législation et quant aux interventions parlementaires qui lui sont liées.
 
-<sup>3</sup> Il renseigne sur le résultat de la procédure de consultation, les répercussions financières, les incidences sur l’état du personnel, les délégations législatives ainsi que les charges administratives.
+<sup>3</sup> Il renseigne sur le résultat de la procédure de consultation, les répercussions financières, les incidences sur l’état du personnel, les délégations législatives ainsi que les impacts en termes de durabilité (économique, environnementale et sociale) et les charges administratives.
 
 <sup>4</sup> Il rapporte également sur les répercussions en matière de finances et d'autonomie communales, et sur la conformité du projet à la législation cantonale concernant la mise en oeuvre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération, le canton et les communes.
 

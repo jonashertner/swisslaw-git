@@ -4,13 +4,13 @@ number: "171.1"
 title: Gesetz über die Organisation der Räte und die Beziehungen zwischen den Gewalten
 short: GORBG
 language: de
-version: 2021-02-01
-valid_until: 2021-05-31
+version: 2021-06-01
+valid_until: 2022-04-07
 version_adopted: 2020-09-09
 adopted: 1996-03-28
 in_force: 1997-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/171.1"
-pdf: "https://lex.vs.ch/api/de/versions/2871/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2898/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2871/pdf_file"
 
 (GORBG)
 
-vom 28.03.1996 (Stand 01.02.2021)
+vom 28.03.1996 (Stand 01.06.2021)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -1034,9 +1034,13 @@ verordnet:
 
 **Vernehmlassung**
 
-<sup>1</sup> Der Staatsrat unterbreitet die wichtigen Vorlagen gesetzgeberischer Erlasse, vor allem jene, die dem obligatorischen und fakultativen Referendum unterliegen, einem Vernehmlassungsverfahren.
+<sup>1</sup> Der Staatsrat unterbreitet die wichtigen Vorlagen gesetzgeberischer Erlasse, vor allem jene, die dem obligatorischen und fakultativen Referendum unterliegen, einem Vernehmlassungsverfahren. Er gibt die Eröffnung aller Vernehmlassungsverfahren auf der Website des Staates Wallis bekannt.
 
-<sup>2</sup> Das Reglement des Staatsrates legt die Anwendungsmodalitäten zu dieser Bestimmung fest und bezeichnet namentlich die zu konsultierenden Personen und Kreise.
+<sup>1<sup>bis</sup></sup> Die Dauer des Vernehmlassungsverfahrens für gesetzgeberische Erlasse wird je nach Bedeutung und Dringlichkeit des Gegenstands festgelegt.
+
+<sup>1<sup>ter</sup></sup> In jedem Fall wird von der betreffenden Dienststelle ein Synthesebericht der Vernehmlassungsantworten erstellt. Dieser Bericht mit den erhaltenen Antworten wird auf der Website des Staates Wallis veröffentlicht und an die zuständige Kommission des Grossen Rates übermittelt.
+
+<sup>2</sup> Das Reglement des Staatsrates legt die Anwendungsmodalitäten zu dieser Bestimmung fest und bezeichnet namentlich die zu konsultierenden Personen und Kreise. Der Staatsrat veröffentlicht dieses Reglement.
 
 #### Art. 95
 
@@ -1092,7 +1096,7 @@ verordnet:
 
 <sup>2</sup> Die Botschaft enthält einen Gesamtüberblick über das Geschäft, namentlich bezüglich seiner Stellung in der integrierten Mehrjahresplanung, seiner Übereinstimmung mit den Gesetzen und den mit ihnen verbundenen parlamentarischen Vorstössen.
 
-<sup>3</sup> Sie gibt Auskunft über das Ergebnis des Vernehmlassungsverfahrens, die finanziellen Auswirkungen, den Einfluss auf den Personalbestand, die gesetzgeberischen Delegationen sowie den administrativen Aufwand.
+<sup>3</sup> Sie gibt Auskunft über das Ergebnis des Vernehmlassungsverfahrens, die finanziellen Auswirkungen, den Einfluss auf den Personalbestand, die gesetzgeberischen Delegationen sowie die Auswirkungen auf die Nachhaltigkeit (wirtschaftlich, ökologisch und sozial) und den administrativen Aufwand.
 
 <sup>4</sup> Sie gibt ebenfalls Auskunft über die Auswirkungen auf die Gemeindefinanzen und die Gemeindeautonomie sowie über die Übereinstimmung des Projekts mit der kantonalen Gesetzgebung über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden.
 
