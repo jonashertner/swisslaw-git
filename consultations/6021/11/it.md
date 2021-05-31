@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Legge federale concernente l'imposta sul tonnellaggio applicabile alle navi"
 document: Avamprogetto
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur la taxe au tonnage applicable aux navires de mer
 document: Projet
 language: fr
