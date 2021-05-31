@@ -4,20 +4,20 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2021-04-01
+version: 2021-06-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210601/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulle prestazioni dell’assicurazione obbligatoria delle cure medico-sanitarie
 
-(Ordinanza sulle prestazioni, OPre)[^t-1]
+(Ordinanza sulle prestazioni, OPre)**[^t-1]**
 
-del 29 settembre 1995 (Stato 1° aprile 2021)
+del 29 settembre 1995 (Stato 1° giugno 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -32,7 +32,7 @@ ordina:
 
 ## Titolo 1: Prestazioni
 
-### Capitolo 1: Prestazioni mediche, chiropratiche e farmaceutiche
+### Capitolo 1: Prestazioni mediche, chiropratiche e farmaceutiche****
 
 [^tit1-chap1-1]
 
@@ -113,7 +113,7 @@ Affinché dopo 40 sedute la cura continui ad essere rimunerata, il medico curant
 
 [^3b-1]: Introdotto dal n. I dellʼO del DFI del 3 lug. 2006 ([RU 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 
-### Sezione 2*a*: Limitazione dell’assunzione dei costi per determinati interventi elettivi
+### Sezione 2*a*: Limitazione dell’assunzione dei costi per determinati interventi elettivi****
 
 [^tit1-chap1-sec2a-1]
 
@@ -192,7 +192,7 @@ L’assicurazione assume i costi delle analisi, dei medicamenti, dei mezzi e deg
 [^4-9]: Introdotta dal n. I dellʼO del DFI del 10 lug. 2000 ([RU 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nuovo testo giusta il n. I dellʼO del DFI del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
 [^4-10]: Introdotta dal n. I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
 
-### Sezione 4: Prestazioni farmaceutiche
+### Sezione 4:**** Prestazioni farmaceutiche
 
 [^tit1-chap1-sec4-1]
 
@@ -211,7 +211,7 @@ L’assicurazione assume i costi delle seguenti prestazioni dei farmacisti:
 
 <sup>2</sup> L’assicurazione può assumere, nell’ambito di una convenzione tariffale, i costi di prestazioni più estese atte a contenere i costi, fornite a favore di un gruppo di assicurati.
 
-### Sezione 5: Prestazioni di medicina complementare forniteda un medico
+### Sezione 5:**** Prestazioni di medicina complementare forniteda un medico
 
 [^tit1-chap1-sec5-1]
 
@@ -319,7 +319,7 @@ Le prestazioni effettuate previa prescrizione medica dagli ergoterapisti e dalle
 [^6-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^6-5]: Introdotto dal n. I dellʼO del DFI del 10 dic. 2008 ([RU 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Nuovo testo giusta il n. I dellʼO del DFI del 5 giu. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 
-### Sezione 3: Cure dispensate ambulatoriamente o in una casa di cura
+### Sezione 3: Cure dispensate ambulatoriamente o in una casa di cura****
 
 [^tit1-chap2-sec3-1]
 
@@ -543,7 +543,7 @@ La procedura di controllo serve a verificare la valutazione dei bisogni e a cont
 
 [^9a-1]: Introdotto dal n. I dellʼO del DFI del 18 set. lug. 1997 ([RU 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogato dal n. I dellʼO del DFI del 24 giu. 2009, con effetto dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)n. I).
 
-### Sezione 3*a*: Consulenza nutrizionale
+### Sezione 3*a*:**** Consulenza nutrizionale
 
 [^tit1-chap2-sec3a-1]
 
@@ -576,7 +576,7 @@ I dietisti o le organizzazioni di dietetica ai sensi degli articoli 46, 50*a* e 
 [^9b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^9b-5]: Introdotta dal n. I dellʼO del DFI del 6 dic. 2013, in vigore dal 1° gen. 2014 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
 
-### Sezione 3*b*: Consulenza ai diabetici
+### Sezione 3*b*:**** Consulenza ai diabetici
 
 [^tit1-chap2-sec3b-1]
 
@@ -628,7 +628,7 @@ I logopedisti o l’organizzazione della logopedia curano, previa prescrizione m
 
 [^11-1]: Nuovo testo giusta il n. I dellʼO del DFI del 20 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
 
-### Sezione 5: Neuropsicologia
+### Sezione 5:**** Neuropsicologia
 
 [^tit1-chap2-sec5-1]
 
@@ -1664,7 +1664,7 @@ Il supplemento per imballaggio per medicamenti soggetti a prescrizione medica am
 
 [^38-1]: Originario art. 35*a*. Introdotto dal n. I dellʼO del DFI del 27 nov. 2000 ([RU 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)). Nuovo testo giusta il n. I dellʼO del DFI del 1° lug. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4251](https://fedlex.data.admin.ch/eli/oc/2009/521)).
 
-### Sezione 4: Aliquota percentuale dei medicamenti
+### Sezione 4:**** Aliquota percentuale dei medicamenti
 
 [^tit1-chap8-sec4-1]
 
@@ -1815,7 +1815,7 @@ Sono abrogate:
 [^46-2]: Abrogato dal n. I dellʼO del DFI del 15 gen. 1996, con effetto dal 1° mag. 1996 ([RU 1996 909](https://fedlex.data.admin.ch/eli/oc/1996/909_909_909)).
 [^46-3]: Abrogato dal n. I dellʼO del DFI del 26 feb. 1996, con effetto dal 1° giu. 1996 ([RU 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
 
-## Disposizione finale della modifica del 17 novembre 2003
+## Disposizione finale della modifica del 17 novembre 2003****
 
 [^u1-1]
 
@@ -1825,7 +1825,7 @@ I laboratori il cui direttore attesta un perfezionamento riconosciuto dalla FAMH
 
 [^u1-2]: Non pubblicato nella RU. Il regolamento può essere consultato presso lʼUfficio federale della sanità pubblica.
 
-## Disposizione finale della modifica del 12 dicembre 2005
+## Disposizione finale della modifica del 12 dicembre 2005****
 
 [^u2-1]
 
@@ -1833,7 +1833,7 @@ I laboratori il cui direttore attesta un perfezionamento riconosciuto dalla FAMH
 
 Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previsto all’articolo 38*a* al più tardi entro il 1° aprile 2006.
 
-## Disposizioni finali della modifica del 3 luglio 2006
+## Disposizioni finali della modifica del 3 luglio 2006****
 
 [^u3-1]
 
@@ -1847,7 +1847,7 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 [^u3-3]: In vigore dal 1° lug. 2006.
 [^u3-4]: Abrogato dal n. I dellʼO del DFI del 5 dic. 2011, con effetto dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 
-## Disposizioni finali della modifica del 4 aprile 2007
+## Disposizioni finali della modifica del 4 aprile 2007****
 
 [^u4-1]
 
@@ -1859,7 +1859,7 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 [^u4-2]: La mod. entra in vigore il 1° apr. 2007.
 
-## Disposizioni finali della modifica del 21 settembre 2007
+## Disposizioni finali della modifica del 21 settembre 2007****
 
 [^u5-1]
 
@@ -1880,13 +1880,13 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 - a. il 1° ottobre 2007 il prezzo di fabbrica per la consegna del preparato originale (valore originario) è superiore di più dell’8 per cento al prezzo calcolato secondo il capoverso 3;
 - b. fino al 30 novembre 2007 l’azienda non ha presentato domanda di riduzione del prezzo di fabbrica per la consegna con effetto a partire dal 1° marzo 2008 fino a un importo che superi dell’8 per cento al massimo il prezzo di fabbrica per la consegna calcolato secondo il capoverso 3.
 
-## Disposizioni transitorie della modifica del 30 giugno 2010
+## Disposizioni transitorie della modifica del 30 giugno 2010****
 
 [^u6-1]
 
 [^u6-1]: [RU 2010 3249](https://fedlex.data.admin.ch/eli/oc/2010/436)
 
-## Disposizioni transitorie della modifica del 2 febbraio 2011
+## Disposizioni transitorie della modifica del 2 febbraio 2011****
 
 [^u7-1]
 
@@ -1896,13 +1896,13 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 <sup>2</sup> Per tutti i preparati originali e i medicamenti in co-marketing il cui prezzo di fabbrica per la consegna è stato ridotto prima del 1° luglio 2009 in un’unica volta al livello di prezzo del generico in vigore allo scadere del brevetto, l’aliquota percentuale secondo l’articolo 38*a* capoverso 1 è determinata il 1° luglio 2011.
 
-## Disposizioni transitorie della modifica del 21 marzo 2012
+## Disposizioni transitorie della modifica del 21 marzo 2012****
 
 [^u8-1]
 
 [^u8-1]: Applicabili dal 1° mag. 2012 al 31 dic. 2014 ([RU 2012 1769](https://fedlex.data.admin.ch/eli/oc/2012/247)n. III cpv. 2).
 
-## Disposizioni transitorie della modifica del 29 aprile 2015
+## Disposizioni transitorie della modifica del 29 aprile 2015****
 
 [^u9-1]
 
@@ -1916,7 +1916,7 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 [^u9-2]: Nuovo testo giusta il n. I dellʼO del DFI del 21 mar. 2016, in vigore dal 1° mag. 2016 ([RU 2016 1177](https://fedlex.data.admin.ch/eli/oc/2016/220)).
 
-## Disposizioni transitorie della modifica del 21 ottobre 2015
+## Disposizioni transitorie della modifica del 21 ottobre 2015****
 
 [^u10-1]
 
@@ -1929,7 +1929,7 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 [^u10-2]: Abrogato dal n. I dellʼO del DFI del 21 mar. 2016, con effetto dal 1° mag. 2016 ([RU 2016 1177](https://fedlex.data.admin.ch/eli/oc/2016/220)).
 [^u10-3]: [RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)
 
-## Disposizioni transitorie della modifica del 1° febbraio 2017
+## Disposizioni transitorie della modifica del 1° febbraio 2017****
 
 [^u11-1]
 
@@ -1943,7 +1943,7 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 <sup>4</sup> Nel 2017 sono esclusi aumenti del prezzo secondo l’articolo 67 capoverso 2 OAMal. In via eccezionale l’UFSP può autorizzare aumenti del prezzo se deve essere garantito il fabbisogno della popolazione svizzera e non esistono alternative terapeutiche.
 
-## Disposizione transitoria della modifica del 2 luglio 2019
+## Disposizione transitoria della modifica del 2 luglio 2019****
 
 [^u12-1]
 
@@ -1951,7 +1951,7 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 La valutazione dei bisogni nelle case di cura può essere effettuata secondo il diritto anteriore fino al 31 dicembre 2021*.*
 
-Allegato 1[^t-2]
+Allegato 1*[^t-2]*
 
 (art. 1)
 
@@ -1959,7 +1959,7 @@ Allegato 1[^t-2]
 
 [^t-2]: Non pubblicato nella RU ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Allegato 1 dell’ordinanza sulle prestazioni (OPre).
 
-Allegato 1a[^t-3]
+Allegato 1a*[^t-3]*
 
 (art. 3*c* cpv. 4)
 
@@ -1967,23 +1967,23 @@ Allegato 1a[^t-3]
 
 [^t-3]: Non pubblicato nella RU ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339); [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Lʼall. 1*a* può essere consultato allʼindirizzo: www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Prestazione mediche &gt; Allegato 1a dell’OPre
 
-Allegato 2[^t-4]
+Allegato 2*[^t-4]*
 
 (art. 20*a*)
 
 ## Elenco dei mezzi e degli apparecchi
 
-[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744);[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2, 6491 n. II cpv. 2; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464)e [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp)
+[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744);[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2, 6491 n. II cpv. 2; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp)
 
-Allegato 3[^t-5]
+Allegato 3*[^t-5]*
 
 (art. 28)
 
 ## Elenco delle analisi
 
-[^t-5]: Non pubblicato nella RU (art. 28) ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)[148](https://fedlex.data.admin.ch/eli/oc/2021/148)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
+[^t-5]: Non pubblicato nella RU (art. 28) ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
 
-Allegato 4[^t-6]
+Allegato 4*[^t-6]*
 
 (art. 29)
 

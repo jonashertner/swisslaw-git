@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2021-04-01
+version: 2021-06-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210601/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210401/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. April 2021)
+vom 29. September 1995 (Stand am 1. Juni 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -32,7 +32,7 @@ verordnet:
 
 ## 1. Titel: Leistungen
 
-### 1. Kapitel: Ärztliche, chiropraktische und pharmazeutische Leistungen
+### 1. Kapitel: Ärztliche, chiropraktische und pharmazeutische Leistungen****
 
 [^tit1-chap1-1]
 
@@ -114,7 +114,7 @@ Soll die Psychotherapie nach 40 Sitzungen zu Lasten der Versicherung fortgesetzt
 [^3b-1]: Eingefügt durch Ziff. I der V des EDI vom 3. Juli 2006 ([AS 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^3b-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 
-### 2*a*. Abschnitt: Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen
+### 2*a*. Abschnitt: Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen****
 
 [^tit1-chap1-sec2a-1]
 
@@ -193,7 +193,7 @@ Die Versicherung übernimmt die Kosten der folgenden von Chiropraktoren und Chir
 [^4-9]: Eingefügt durch Ziff. I der V des EDI vom 10. Juli 2000 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Fassung gemäss Ziff. I der V des EDI vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
 [^4-10]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
 
-### 4. Abschnitt: Pharmazeutische Leistungen
+### 4. Abschnitt:**** Pharmazeutische Leistungen
 
 [^tit1-chap1-sec4-1]
 
@@ -212,7 +212,7 @@ Die Versicherung übernimmt die Kosten folgender Leistungen der Apothekerinnen u
 
 <sup>2</sup> Die Versicherung kann die Kosten von weitergehenden kostendämpfenden Leistungen zugunsten einer Gruppe von Versicherten im Rahmen eines Tarifvertrages übernehmen.
 
-### 5. Abschnitt: Ärztliche komplementärmedizinische Leistungen
+### 5. Abschnitt:**** Ärztliche komplementärmedizinische Leistungen
 
 [^tit1-chap1-sec5-1]
 
@@ -321,7 +321,7 @@ Die Versicherung übernimmt die Kosten der Leistungen, die auf ärztliche Anordn
 [^6-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^6-5]: Eingefügt durch Ziff. I der V des EDI vom 10. Dez. 2008 ([AS 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 
-### 3. Abschnitt: Krankenpflege ambulant oder im Pflegeheim
+### 3. Abschnitt: Krankenpflege ambulant oder im Pflegeheim****
 
 [^tit1-chap2-sec3-1]
 
@@ -545,7 +545,7 @@ Das Kontrollverfahren dient der Überprüfung der Bedarfsermittlung sowie der Ko
 
 [^9a-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Sept. 1997 ([AS 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Aufgehoben durch Ziff. I der V des EDI vom 24. Juni 2009, mit Wirkung seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
 
-### 3*a*. Abschnitt: Ernährungsberatung
+### 3*a*. Abschnitt:**** Ernährungsberatung
 
 [^tit1-chap2-sec3a-1]
 
@@ -580,7 +580,7 @@ Der Ernährungsberater, die Ernährungsberaterin oder die Organisation der Ernä
 [^9b-6]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
 [^9b-7]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 
-### 3*b*. Abschnitt: Diabetesberatung
+### 3*b*. Abschnitt:**** Diabetesberatung
 
 [^tit1-chap2-sec3b-1]
 
@@ -634,7 +634,7 @@ Der Logopäde, die Logopädin oder die Organisation der Logopädie führt auf ä
 [^11-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
 [^11-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 
-### 5. Abschnitt: Neuropsychologie
+### 5. Abschnitt:**** Neuropsychologie
 
 [^tit1-chap2-sec5-1]
 
@@ -1675,7 +1675,7 @@ Der Zuschlag je Packung für verschreibungspflichtige Arzneimittel beträgt bei 
 
 [^38-1]: Ursprünglich: Art. 35*a*. Eingefügt durch Ziff. I der V des EDI vom 27. Nov. 2000 ([AS 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)). Fassung gemäss Ziff. I der V des EDI vom 1. Juli 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4251](https://fedlex.data.admin.ch/eli/oc/2009/521)).
 
-### 4. Abschnitt: Selbstbehalt bei Arzneimitteln
+### 4. Abschnitt:**** Selbstbehalt bei Arzneimitteln
 
 [^tit1-chap8-sec4-1]
 
@@ -1959,42 +1959,42 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 Die Bedarfsermittlung in Pflegeheimen kann bis zum 31. Dezember 2021 nach bisherigen Recht durchgeführt werden*.*
 
-Anhang 1[^t-2]
+Anhang 1*[^t-2]*
 
 (Art. 1)
 
 ## Vergütungspflicht der obligatorischen Krankenpflegeversicherung für bestimmte ärztliche Leistungen
 
-[^t-2]: Der Anhang wird nicht in der AS nicht veröffentlicht ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen.
+[^t-2]: Der Anhang wird nicht in der AS nicht veröffentlicht ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen &gt; Anhang 1 der KLV.
 
-Anhang 1a[^t-3]
+Anhang 1a*[^t-3]*
 
 (Art. 3*c* Abs. 4)
 
 ## Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen
 
-[^t-3]: Der Anhang wird nicht in der AS nicht veröffentlicht ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339); [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Ärztliche Leistungen &gt; Anhang 1a der KLV
+[^t-3]: Der Anhang wird nicht in der AS nicht veröffentlicht ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339); [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Ärztliche Leistungen &gt; Anhang 1a der KLV.
 
-Anhang 2[^t-4]
+Anhang 2*[^t-4]*
 
 (Art. 20*a*)
 
 ## Mittel- und Gegenstände-Liste
 
-[^t-4]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL) ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^t-4]: In der AS nicht veröffentlicht ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393)). Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL).
 
-Anhang 3[^t-5]
+Anhang 3*[^t-5]*
 
 (Art. 28)
 
 ## Analysenliste
 
-[^t-5]: In der AS nicht veröffentlicht (Art. 28). Die Liste kann eingesehen werden unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL) ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148)).
+[^t-5]: In der AS nicht veröffentlicht (Art. 28) ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148)). Die Liste kann eingesehen werden unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL).
 
-Anhang 4[^t-6]
+Anhang 4*[^t-6]*
 
 (Art. 29)
 
 ## Arzneimittelliste mit Tarif
 
-[^t-6]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Arzneimittel &gt; Arzneimittelliste mit Tarif (ALT) ([AS 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^t-6]: In der AS nicht veröffentlicht ([AS 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Arzneimittel &gt; Arzneimittelliste mit Tarif (ALT).

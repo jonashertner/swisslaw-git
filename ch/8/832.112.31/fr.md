@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2021-04-01
+version: 2021-06-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210401/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (Etat le 1<sup>er</sup> avril 2021)
+du 29 septembre 1995 (Etat le 1<sup>er</sup> juin 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -27,7 +27,7 @@ vu les art. 33, 36, al. 1, 54, al. 2 à 4, 59*a*, 62, 65, al. 3, 65*b*, al. 3, 6
 
 arrête:
 
-[^ingress-1]: <sup>RS 832.1</sup>**02**
+[^ingress-1]: <sup>RS</sup> <sup>**832.1**</sup>**02**
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
 
 ## Titre 1 Prestations
@@ -1669,7 +1669,7 @@ La prime par emballage pour les médicaments qui ne sont remis que sur prescript
 
 [^38-1]: Anciennement art. 35*a*. Introduit par le ch. I de l’O du DFI du 27 nov. 2000 ([RO 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)). Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> juil. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4251](https://fedlex.data.admin.ch/eli/oc/2009/521)).
 
-### Section 4 Quote-part des médicaments
+### Section 4**** Quote-part des médicaments
 
 [^tit1-chap8-sec4-1]
 
@@ -1886,13 +1886,13 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 - a. le prix de fabrique d’une préparation originale dépasse, au 1<sup>er</sup> octobre 2007 (prix initial), de plus de 8 % le prix calculé à l’al. 3;
 - b. l’entreprise n’a déposé aucune demande au 30 novembre 2007 pour l’abaisser, avec effet au 1<sup>er</sup> mars 2008, à un prix ne dépassant pas de 8 % au plus le prix calculé à l’al. 3.
 
-## Dispositions transitoires de la modification du 30 juin 2010
+## Dispositions transitoires de la modification du 30 juin 2010****
 
 [^u6-1]
 
 [^u6-1]: [RO 2010 3249](https://fedlex.data.admin.ch/eli/oc/2010/436)
 
-## Dispositions transitoires de la modification du 2 février 2011
+## Dispositions transitoires de la modification du 2 février 2011****
 
 [^u7-1]
 
@@ -1902,13 +1902,13 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 
 <sup>2</sup> À partir du 1<sup>er</sup> juillet 2011, la quote-part prévue à l’art. 38*a*, al. 1, s’applique aux préparations originales et aux médicaments en co-marketing, dont le prix de fabrique, après l’échéance du brevet, a été abaissé en une fois avant le 1<sup>er</sup> juillet 2009, au niveau du prix des génériques au moment de l’expiration du brevet.
 
-## Dispositions transitoires de la modification du 21 mars 2012
+## Dispositions transitoires de la modification du 21 mars 2012****
 
 [^u8-1]
 
 [^u8-1]: Applicable du 1<sup>er</sup> mai 2012 au 31 déc. 2014 ([RO 2012 1769](https://fedlex.data.admin.ch/eli/oc/2012/247), ch. III al. 2).
 
-## Disposition transitoire relative à la modification du 29 avril 2015
+## Disposition transitoire relative à la modification du 29 avril 2015****
 
 [^u9-1]
 
@@ -1922,7 +1922,7 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 
 [^u9-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 21 mars 2016, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1177](https://fedlex.data.admin.ch/eli/oc/2016/220)).
 
-## Dispositions transitoires relatives à la modification du 21 octobre 2015
+## Dispositions transitoires relatives à la modification du 21 octobre 2015****
 
 [^u10-1]
 
@@ -1935,7 +1935,7 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 [^u10-2]: Abrogé par le ch. I de l’O du DFI du 21 mars 2016, avec effet au 1<sup>er mai</sup> 2016 ([RO 2016 1177](https://fedlex.data.admin.ch/eli/oc/2016/220)).
 [^u10-3]: [RO 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)
 
-## Dispositions transitoires relatives à la modification du 1<sup>er</sup> février 2017
+## Dispositions transitoires relatives à la modification du 1<sup>er</sup> février 2017****
 
 [^u11-1]
 
@@ -1949,7 +1949,7 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 
 <sup>4</sup> Toute augmentation de prix fondée sur l’art. 67, al. 2, OAMal est exclue en 2017. L’OFSP peut, à titre exceptionnel, autoriser une augmentation de prix pour assurer l’approvisionnement de la population suisse s’il n’y a pas d’autre solution thérapeutique.
 
-## Disposition transitoire relative à la modification du 2 juillet 2019
+## Disposition transitoire relative à la modification du 2 juillet 2019****
 
 [^u12-1]
 
@@ -1957,31 +1957,31 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 
 L’évaluation des soins requis dans les établissements médico-sociaux peut être effectuée selon l’ancien droit jusqu’au 31 décembre 2021.
 
-Annexe 1[^t-2]
+Annexe 1*[^t-2]*
 
 (art. 1)
 
 ## Prise en charge par l’assurance obligatoire des soins de certaines prestations fournies par les médecins
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). L’annexe 1 peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; prestations médicales.
+[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). L’annexe 1 peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; prestations médicales.
 
-Annexe 1a[^t-3]
+Annexe 1a*[^t-3]*
 
 (art. 3*c,* al. 4)
 
 ## Restriction de prise en charge des coûts pour certaines interventions électives
 
-[^t-3]: Cette annexe n’est pas publiée au RO ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)[6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). L’annexe 1*a* peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Prestations médicales &gt; Annexe 1*a* OPAS.
+[^t-3]: Cette annexe n’est pas publiée au RO ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). L’annexe 1*a* peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Prestations médicales &gt; Annexe 1*a* OPAS.
 
-Annexe 2[^t-4]
+Annexe 2*[^t-4]*
 
 (art. 20*a*)
 
 ## Liste des moyens et appareils
 
-[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste de moyens et appareils (LiMA).
+[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste de moyens et appareils (LiMA).
 
-Annexe 3[^t-5]
+Annexe 3*[^t-5]*
 
 (art. 28)
 
@@ -1989,7 +1989,7 @@ Annexe 3[^t-5]
 
 [^t-5]: Cette annexe n’est pas publiée au RO ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033);[2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste des analyses (LA).
 
-Annexe 4[^t-6]
+Annexe 4*[^t-6]*
 
 (art. 29)
 
