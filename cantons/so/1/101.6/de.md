@@ -4,13 +4,13 @@ number: "101.6"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung-SO
 language: de
-version: 2021-05-01
-valid_until: 2021-05-31
-version_adopted: 2021-04-27
+version: 2021-06-01
+valid_until: 2021-09-28
+version_adopted: 2021-05-25
 adopted: 2020-12-07
 in_force: 2021-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/101.6"
-pdf: "https://bgs.so.ch/api/de/versions/5080/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5083/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5080/pdf_file"
 
 (Härtefallverordnung-SO)
 
-Vom 07.12.2020 (Stand 01.05.2021)
+Vom 07.12.2020 (Stand 01.06.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -241,9 +241,11 @@ beschliesst:
 
 <sup>1</sup> Sofern die Voraussetzungen gemäss dieser Verordnung erfüllt sind, kann die Fachstelle Standortförderung Härtefallmassnahmen, den Bundes- und den Kantonsbeitrag umfassend, gewähren.
 
-<sup>2</sup> Das Departement entscheidet abschliessend über die Gewährung von Härtefallmassnahmen.
+<sup>2</sup> Gegen Verfügungen des Departements steht die Beschwerde an das Verwaltungsgericht offen. Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^18-1].
 
 <sup>3</sup> Auf die Gewährung von Härtefallmassnahmen gemäss dieser Verordnung besteht kein Rechtsanspruch.
+
+[^18-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
 
 #### § 19
 
@@ -254,7 +256,7 @@ beschliesst:
 - a) Härtefallbeiträge durch Verfügung an das Unternehmen;
 - b) Bürgschaftszusicherungen durch einfache Mitteilung an das Unternehmen unter Vorbehalt des Abschlusses des Bürgschaftsvertrages mit der Bürgschaftsorganisation und des Kreditvertrages mit einem Finanzinstitut mit Schweizer Bankenlizenz.
 
-<sup>2</sup> Die Abweisung oder das Nichteintreten erfolgt durch einfache Mitteilung an das Unternehmen.
+<sup>2</sup> Die Abweisung oder das Nichteintreten erfolgt durch einfache Mitteilung an das Unternehmen. Ist ein Unternehmen mit der einfachen Mitteilung nicht einverstanden, kann es bei der Fachstelle Standortförderung eine anfechtbare Verfügung verlangen.
 
 #### § 20
 
@@ -306,7 +308,7 @@ beschliesst:
 
 <sup>3</sup> Sämtliche der für Härtefallmassnahmen geltenden Bestimmungen dieser Verordnung finden, soweit diese Verordnung keine Ausnahme vorsieht, auch auf kantonale Härtefallbeiträge Anwendung.
 
-<sup>4</sup> Auf die Gewährung eines kantonalen Härtefallbeitrags besteht kein Rechtsanspruch. Das Departement entscheidet abschliessend darüber.
+<sup>4</sup> Auf die Gewährung eines kantonalen Härtefallbeitrags besteht kein Rechtsanspruch.
 
 #### § 20quinquies
 
@@ -337,13 +339,17 @@ beschliesst:
 - b) einen Drittel des vertraglich vereinbarten monatlichen Nettomietzinses bzw. Nettopachtzinses; und
 - c) 15'000 Franken für die Gesamtdauer.
 
-<sup>2</sup> Die Zusicherung eines kantonalen Miet- und Pachtzinsbeitrags erfolgt durch Verfügung und die Abweisung durch einfache Mitteilung an das Unternehmen.
+<sup>2</sup> Die Zusicherung eines kantonalen Miet- und Pachtzinsbeitrags erfolgt durch Verfügung und die Abweisung durch einfache Mitteilung an das Unternehmen. Ist ein Unternehmen mit der einfachen Mitteilung nicht einverstanden, kann es bei der Fachstelle Standortförderung eine anfechtbare Verfügung verlangen.
 
 <sup>3</sup> Erhält ein Unternehmen zu einem späteren Zeitpunkt einen Härtefallbeitrag, wird der zugesprochene Miet- und Pachtzinsbeitrag vom zu gewährenden Härtefallbeitrag in Abzug gebracht.
 
 <sup>4</sup> Die Auszahlung des kantonalen Miet- und Pachtzinsbeitrags erfolgt direkt an die Vermieterschaft bzw. Verpächterschaft.
 
-<sup>5</sup> Auf die Gewährung eines kantonalen Miet- und Pachtzinsbeitrags besteht kein Rechtsanspruch. Das Departement entscheidet abschliessend darüber.
+<sup>5</sup> Auf die Gewährung eines kantonalen Miet- und Pachtzinsbeitrags besteht kein Rechtsanspruch.
+
+<sup>6</sup> Gegen Verfügungen des Departements steht die Beschwerde an das Verwaltungsgericht offen. Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^20sexies-1].
+
+[^20sexies-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
 
 #### § 20septies
 
