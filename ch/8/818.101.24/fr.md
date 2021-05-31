@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-05-31
+version: 2021-06-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210531/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210531-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210531/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210531/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 31 mai 2021)
+du 19 juin 2020 (Etat le 1<sup>er</sup> juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -955,7 +955,7 @@ Annexe 6*[^t-7]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021, sous réserve du ch. 1.6.1 en vigueur depuis le 12 avr. 2021 et des ch. 1.5.1, 1.5.3 et 1.5.4, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -976,8 +976,8 @@ Annexe 6*[^t-7]*
 
     après un résultat positif d’un:
 
-    - – test rapide SARS-CoV-2 avec application par un professionnel conformément au ch. 1.4.1, let. d et j, 2.1 ou 3.1, que le test ait été effectué avec un test rapide SARS-CoV-2 selon le «standard diagnostic» ou selon le «standard screening»,
-    - – autotest SARS-CoV-2 conformément au ch. 3.3;
+    - – test rapide SARS-CoV-2 avec application par un professionnel, que le test ait été effectué avec un test rapide SARS-CoV-2 selon le «standard diagnostic» ou selon le «standard screening»,
+    - – autotest SARS-CoV-2;
 
   - i. après un résultat positif d’une analyse poolée de biologie moléculaire conformément au ch. 1.2, 2.2 ou 3.2;
   - j. pour un contrôle et une enquête d’entourage ordonnés par un médecin.
@@ -1269,7 +1269,8 @@ Annexe 6*[^t-7]*
 
   - a. en cas de tests ciblés et répétitifs dans les écoles, les universités et les établissements de formation en vue de prévenir et de détecter les foyers, pour autant que le service cantonal compétent le prévoie et présente un projet à lʼOFSP;
   - b. dans des situations à fort risque de transmission, pour autant que le service cantonal compétent le prévoie et présente un projet à l’OFSP;
-  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie.
+  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie;
+  - d. en cas de tests effectués avant et pendant les camps sur les participants et les accompagnants, pour autant que le service cantonal compétent présente un projet à l’OFSP.
 
 - 2\.1.2
 
@@ -1310,7 +1311,8 @@ Annexe 6*[^t-7]*
 
   - a. en cas de tests ciblés et répétitifs dans les écoles, les universités et les établissements de formation en vue de prévenir et de détecter les foyers, pour autant que le service cantonal compétent le prévoie et présente un projet à lʼOFSP;
   - b. dans des situations à fort risque de transmission, pour autant que le service cantonal compétent le prévoie et présente un projet à l’OFSP;
-  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie.
+  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie;
+  - d. en cas de tests effectués avant et pendant les camps sur les participants et les accompagnants, pour autant que le service cantonal compétent présente un projet à l’OFSP.
 
 - 2\.2.2
 
@@ -1366,7 +1368,7 @@ Annexe 6*[^t-7]*
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation à l’école obligatoire et au niveau secondaire II, par création de pool</td><td>18,50 francs</td></tr>
+<tr><td>Pour la réalisation à l’école obligatoire et au niveau secondaire II ainsi que dans des camps, par création de pool</td><td>18,50 francs</td></tr>
 </table>
 
 ### 3 Tarif de base pour les dépistages ciblés et répétitifs
@@ -1379,7 +1381,8 @@ Annexe 6*[^t-7]*
 
   - a. lors de tests ciblés et répétitifs dans des hôpitaux, des maisons pour personnes âgées, des établissements médicaux-sociaux ainsi que d’autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation;
   - b. lors de tests ciblés et répétitifs dans des entreprises et des associations, dans la mesure où le service cantonal compétent présente un projet à l’OFSP.
-  - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué au moins une fois par semaine dans l’entreprise dans laquelle travaille la personne-contact.
+  - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué au moins une fois par semaine dans l’entreprise dans laquelle travaille la personne-contact;
+  - d. lors de manifestations dont l’accès est restreint en vertu de l’art. 15 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^annex6-lvlu1-lvl3-lvl31-1] ou en vertu de l’art. 6*b*<sup>quater</sup> de l’ordonnance COVID-19 du 19 juin 2020 situation particulière dans la version de la modification du 26 mai 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
 - 3\.1.2 En outre, elle prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard screening» dans les cas visés au ch. 3.1.1, let. b.
 - 3\.1.3
@@ -1407,6 +1410,9 @@ Annexe 6*[^t-7]*
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
 <tr><td>Pour le test rapide SARS-CoV-2 avec application par un professionnel, matériel de test uniquement</td><td>8 francs</td></tr>
 </table>
+
+[^annex6-lvlu1-lvl3-lvl31-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl3-lvl31-2]: [RO 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
 
 ### 3.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
 

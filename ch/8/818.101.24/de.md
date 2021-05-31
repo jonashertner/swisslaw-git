@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-05-31
+version: 2021-06-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210531/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210531-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210531/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210531/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 31. Mai 2021)
+vom 19. Juni 2020 (Stand am 1. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -899,7 +899,7 @@ Anhang 6*[^t-7]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021, mit Ausnahme von Ziff. 1.6.1 in Kraft seit 12. April 2021, Ziff. 1.5.1, 1.5.3 und 1.5.4 in Kraft seit 1. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) und vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -918,10 +918,10 @@ Anhang 6*[^t-7]*
   - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - h.
 
-    nach einem positiven Ergebnis bei einem:
+    nach einem positiven Ergebnis:
 
-    - – Sars-CoV-2-Schnelltest zur Fachanwendung nach Ziffer 1.4.1 Buchstaben d und j, 2.1 oder 3.1, unabhängig davon, ob der Test mit einem Sars-CoV-2 Schnelltest gemäss diagnostischem Standard oder gemäss Screening-Standard durchgeführt wurde,
-    - – Sars-CoV-2-Selbsttest nach Ziffer 3.3;
+    - – bei einem Sars-CoV-2-Schnelltest zur Fachanwendung, unabhängig davon, ob der Test mit einem Sars-CoV-2 Schnelltest gemäss diagnostischem Standard oder gemäss Screening-Standard durchgeführt wurde,
+    - – bei einem Sars-CoV-2-Selbsttest;
 
   - i. nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse nach Ziffer 1.2, 2.2 oder 3.2;
   - j. bei einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle.
@@ -1222,7 +1222,8 @@ Anhang 6*[^t-7]*
 
   - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
   - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
-  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht.
+  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht;
+  - d. bei Testungen vor und während Lagern für Teilnehmerinnen und Teilnehmer sowie Betreuerinnen und Betreuer, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt.
 
 - 2\.1.2
 
@@ -1263,7 +1264,8 @@ Anhang 6*[^t-7]*
 
   - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
   - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
-  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht.
+  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht;
+  - d. bei Testungen vor und während Lagern für Teilnehmerinnen und Teilnehmer sowie Betreuerinnen und Betreuer, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt.
 
 - 2\.2.2
 
@@ -1319,7 +1321,7 @@ Anhang 6*[^t-7]*
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für die Durchführung auf der obligatorischen Schulstufe sowie Sekundarstufe II pro Poolerstellung</td><td>18.50 Fr.</td></tr>
+<tr><td>Für die Durchführung auf der obligatorischen Schulstufe, auf der Sekundarstufe II und bei Lagern pro Erstellung eines Pools</td><td>18.50 Fr.</td></tr>
 </table>
 
 ### 3 Basistarif für gezielte und repetitive Testungen
@@ -1332,7 +1334,8 @@ Anhang 6*[^t-7]*
 
   - a. bei gezielten und repetitiven Testungen in Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
   - b. bei gezielten und repetitiven Testungen in Betrieben und Vereinen, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt;
-  - c. bei einer Kontaktperson, die sich in Quarantäne befindet, wenn im Betrieb, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird.
+  - c. bei einer Kontaktperson, die sich in Quarantäne befindet, wenn im Betrieb, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird;
+  - d. bei Veranstaltungen mit einer Zugangsbeschränkung nach Artikel 15 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^annex6-lvlu1-lvl3-lvl31-1] beziehungsweise nach Artikel 6*b*<sup>quater</sup> der Covid-19-Verordnung besondere Lage vom 19. Juni 2020 in der Fassung der Änderung vom 26. Mai 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
 - 3\.1.2 Er übernimmt zudem die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard in Fällen nach Ziffer 3.1.1 Buchstabe b.
 - 3\.1.3
@@ -1360,6 +1363,9 @@ Anhang 6*[^t-7]*
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Für den Sars-CoV-2-Schnelltest zur Fachanwendung, nur das Testmaterial</td><td>8 Fr.</td></tr>
 </table>
+
+[^annex6-lvlu1-lvl3-lvl31-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl3-lvl31-2]: [AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
 
 ### 3.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
 

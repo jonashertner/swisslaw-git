@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-05-31
+version: 2021-06-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210531/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210531-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210531/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210531/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 31 maggio 2021) (Stato 31 maggio 2021)
+del 19 giugno 2020 (Stato 1° giugno 2021) (Stato 1° giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -898,7 +898,7 @@ Allegato 6*[^t-7]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021, n. 1.6.1 in vigore dal 12 apr. 2021 e n. 1.5.1, 1.5.3, 1.5.4 in vigore dal 1° mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) e del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -917,10 +917,10 @@ Allegato 6*[^t-7]*
   - g. per le persone domiciliate in Svizzera che lavorano o seguono una formazione all’estero, se per entrare nello Stato estero è richiesto il risultato negativo di un’analisi di biologia molecolare per il SARS-CoV-2 e i costi non sono assunti in altro modo;
   - h.
 
-    dopo il risultato positivo di un:
+    dopo il risultato positivo:
 
-    - – test rapido SARS-CoV-2 per uso professionale secondo i numeri 1.4.1 lettere d e h, 2.1 o 3.1, indipendentemente dal fatto che il test sia stato eseguito con un test rapido SARS-CoV-2 secondo lo standard diagnostico o lo standard di screening, oppure
-    - – test autodiagnostico SARS-CoV-2 secondo il numero 3.3;
+    - – di un test rapido SARS-CoV-2 per uso professionale, indipendentemente dal fatto che il test sia stato eseguito con un test rapido SARS-CoV-2 secondo lo standard diagnostico o lo standard di screening,
+    - – di un test autodiagnostico SARS-CoV-2;
 
   - i. dopo un risultato positivo di un’analisi di biologia molecolare aggregata secondo i numeri 1.2, 2.2 o 3.2;
   - j. nell’ambito dello studio e del controllo di un focolaio su ordine di un medico.
@@ -1221,7 +1221,8 @@ Allegato 6*[^t-7]*
 
   - a. per test mirati e ripetuti nelle scuole, nelle università e negli istituti di formazione ai fini della prevenzione e del rilevamento precoce dei focolai, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
   - b. in situazioni con una probabilità di trasmissione molto elevata, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
-  - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente.
+  - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente;
+  - d. per test prima e durante i campi, per i partecipanti e gli accompagnatori, se il servizio cantonale competente presenta una strategia all’UFSP.
 
 - 2\.1.2
 
@@ -1262,7 +1263,8 @@ Allegato 6*[^t-7]*
 
   - a. per test mirati e ripetuti nelle scuole, nelle università e negli istituti di formazione ai fini della prevenzione e del rilevamento precoce dei focolai, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
   - b. in situazioni con una probabilità di trasmissione molto elevata, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
-  - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente.
+  - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente;
+  - d. per test prima e durante i campi, per i partecipanti e gli accompagnatori, se il servizio cantonale competente presenta una strategia all’UFSP.
 
 - 2\.2.2
 
@@ -1317,8 +1319,8 @@ Allegato 6*[^t-7]*
 - c. per l’aggregazione centralizzata:
 
 <table>
-<tr><th colspan="2">Prestazione</th><th>Importo massimo</th></tr>
-<tr><td colspan="2">Esecuzione nell’ambito della scuola dell’obbligo e del livello secondario II, per ogni campione aggregato formato</td><td>18.50 fr.</td></tr>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
+<tr><td>Per l’esecuzione nell’ambito della scuola dell’obbligo, del livello secondario II e dei campi, per ogni campione aggregato</td><td>18.50 Fr.</td></tr>
 </table>
 
 ### 3 Tariffe di base per i test mirati e ripetuti
@@ -1331,7 +1333,8 @@ Allegato 6*[^t-7]*
 
   - a. per test mirati e ripetuti in ospedali, case di riposo e di cura nonché in istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
   - b. per test mirati e ripetuti in aziende e associazioni, se il servizio cantonale competente presenta una strategia all’UFSP;
-  - c. per un contatto in quarantena, se nell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana.
+  - c. per un contatto in quarantena, se nell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana;
+  - d. in occasione di manifestazioni con limitazione d’accesso secondo l’articolo 15 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl31-1] o dell’articolo 6*b*<sup>quater</sup> dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020 nella versione modificata il 26 maggio 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
 - 3\.1.2 Assume inoltre le spese per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard di screening nei casi di cui al numero 3.1.1 lettera b.
 - 3\.1.3
@@ -1359,6 +1362,9 @@ Allegato 6*[^t-7]*
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
 <tr><td>Per il test rapido SARS-CoV-2 per uso professionale, solo il materiale necessario per il test</td><td>8 fr.</td></tr>
 </table>
+
+[^annex6-lvlu1-lvl3-lvl31-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl3-lvl31-2]: [RU 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
 
 ### 3.2 Analisi di biologia molecolare aggregate per il SARS-CoV-2
 
