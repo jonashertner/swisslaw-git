@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2021-03-01
+version: 2021-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. März 2021)
+vom 18. Mai 2005 (Stand am 1. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -98,7 +98,7 @@ Für folgende Anwendungen ist eine Bewilligung der nachstehenden Behörden nöti
 
 <table>
 <tr><th>Anwendung</th><th>Bewilligungsbehörde</th></tr>
-<tr><td>a. die berufliche oder gewerbliche Anwendung von Mitteln zum Schutz von Pflanzen gegen Nage- tiere (Rodentizide) bei überbe- trieblichem oder maschinellem Einsatz</td><td>kantonale Behörde; für regionale und überregionale Anwendungen im Einvernehmen mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), dem Bundesamt für Landwirtschaft (BLW) und dem Bundesamt für Umwelt (BAFU)</td></tr>
+<tr><td>a. die berufliche oder gewerbliche Anwendung von Mitteln zum Schutz von Pflanzen gegen Nage‑ tiere (Rodentizide) bei überbe- trieblichem oder maschinellem Einsatz</td><td>kantonale Behörde; für regionale und überregionale Anwendungen im Einvernehmen mit dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV), dem Bundesamt für Landwirtschaft (BLW) und dem Bundesamt für Umwelt (BAFU)</td></tr>
 <tr><td>b.[^4-2] das Versprühen und Ausstreuen von Pflanzenschutzmitteln, Biozidprodukten und Düngern aus der Luft</td><td>Bundesamt für Zivilluftfahrt im Einvernehmen mit dem Bundesamt für Gesundheit (BAG), dem BLV, dem BLW, dem Staatssekretariat für Wirtschaft (SECO) und dem BAFU</td></tr>
 <tr><td>c. die Anwendung von Pflanzenschutzmitteln und Düngern im Wald, soweit sie nicht in eine Bewilligung nach Buchstabe a oder b eingeschlossen ist</td><td>kantonale Behörde</td></tr>
 </table>
@@ -396,7 +396,7 @@ Anhänge*[^t-1]*
 ## 2 Bestimmungen für Gruppen von Zubereitungen und Gegenständen
 
 - 2\.1 Textilwaschmittel
-- 2\.2 Reinigungs- und Desodorierungsmittel
+- 2\.2 Reinigungsmittel, Desodorierungsmittel und kosmetische Mittel
 - 2\.3 Lösungsmittel
 - 2\.4 Biozidprodukte
 - 2\.5 Pflanzenschutzmittel
@@ -1250,7 +1250,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen in mindestens zwei Amtssprachen und nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1668,7 +1668,7 @@ Anhang 1.9*[^t-10]*
 
 ## Stoffe mit flammhemmender Wirkung
 
-[^t-10]: Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-10]: Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Organische Phosphorverbindungen
 
@@ -1707,11 +1707,38 @@ Textilien, die Stoffe nach Ziffer 1.1 enthalten und die nach ihrer Bestimmung di
 
 <sup>3</sup> Für Elektro- und Elektronikgeräte, die DecaBDE enthalten, gilt Anhang 2.18.
 
-### 3. ...
+### 3**** Anorganische Ammoniumsalze
 
 [^annex19-lvlu1-lvl3-1]
 
-[^annex19-lvlu1-lvl3-1]: In Kraft ab 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex19-lvlu1-lvl3-1]: In Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 3.1 Verbot
+
+<sup>1</sup> Zellstoffisoliermaterialien in loser Form und Zellstoffisoliermaterialien enthaltende Gegenstände dürfen nicht in Verkehr gebracht und verwendet werden, wenn sie anorganische Ammoniumsalze enthalten, es sei denn, die Emission von Ammoniak aus den Isoliermaterialien führt in einer Testkammer unter den in Absatz 2 beschriebenen Testbedingungen zu einem Volumengehalt von weniger als 3 ppm (2,12 mg/m<sup>3</sup>).
+
+<sup>2</sup> Die Einhaltung des Emissionsgrenzwertes nach Absatz 1 ist gemäss der Norm SN EN 16516:2017[^annex19-lvlu1-lvl3-lvl31-1] mit folgenden Massgaben nachzuweisen:
+
+- a. die Dauer des Tests beträgt mindestens 14 Tage;
+- b. die Ammoniakgasemission wird während des gesamten Tests mindestens einmal täglich gemessen;
+- c. der in Absatz 1 genannte Emissionsgrenzwert wird während des Tests in keiner Messung erreicht oder überschritten;
+- d. die relative Feuchtigkeit beträgt 90 %;
+- e. es wird eine geeignete Methode zur Messung der Ammoniakgasemission verwendet;
+- f. die in Dicke und Dichte ausgedrückte Beladungsrate der Stichproben der zu testenden Zellstoffisoliermaterialien und Gegenstände mit solchen Zellstoffisoliermaterialien wird aufgezeichnet.
+
+[^annex19-lvlu1-lvl3-lvl31-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+### 3.2 Ausnahme
+
+Ziffer 3.1 Absatz 1 gilt nicht für loses Zellstoffisoliermaterial, das zur Herstellung eines Gegenstands verwendet wird, für welchen die Einhaltung des Emissionsgrenzwerts für Ammoniak von 3 ppm gemäss Ziffer 2.1 Absatz 2 nachgewiesen wird.
+
+### 3.3 Besondere Kennzeichnung
+
+Wer ein anorganische Ammoniumsalze enthaltendes Zellstoffisoliermaterial in loser Form in Verkehr bringt, muss die Abnehmerin in einer Aufschrift oder in anderer gleichwertiger schriftlicher Form über die höchstzulässige Beladungsrate des Isoliermaterials informieren.
+
+### 3.4 Berücksichtigung der Angaben der Inverkehrbringerin
+
+Wer ein anorganische Ammoniumsalze enthaltendes Zellstoffisoliermaterial verwendet, darf die von der Inverkehrbringerin mitgeteilte höchstzulässige Beladungsrate nicht überschreiten.
 
 ### 4 Übergangsbestimmungen
 
@@ -1750,7 +1777,7 @@ Anhang 1.10*[^t-11]*
 
 ## Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe
 
-[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft vom 15. Dez. 2020 bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) und Ziff. I der V des BAG vom 1. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
+[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft vom 15. Dez. 2020 bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) und Ziff. I der V vom 1. Febr. 20201, in Kraft seit 1. März 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
 
 ### 1 Verbot
 
@@ -1811,7 +1838,7 @@ Anhang 1.11*[^t-12]*
 
 ### 1 Begriff
 
-Als gefährliche flüssige Stoffe und Zubereitungen gelten flüssige Zubereitungen mit einer der Eigenschaften nach Artikel 2 Absatz 2 der Richtlinie 1999/45/EG[^annex111-lvlu1-lvl1-1] oder flüssige Stoffe und Zubereitungen, welche die Kriterien für eine der folgenden in Anhang I der Verordnung (EG) Nr. 1272/2008[^annex111-lvlu1-lvl1-2] aufgeführten Gefahrenklassen oder -kategorien erfüllen:
+Als gefährliche flüssige Stoffe und Zubereitungen gelten flüssige Zubereitungen mit einer der Eigenschaften nach Artikel 2 Absatz 2 der Richtlinie 1999/45/EG[^annex111-lvlu1-lvl1-1] oder flüssige Stoffe und Zubereitungen, welche die Kriterien für eine der folgenden in Anhang I der Verordnung (EG) Nr. 1272/2008[^annex111-lvlu1-lvl1-2] aufgeführten Gefahrenklassen oder ‑kategorien erfüllen:
 
 - a. Gefahrenklassen 2.1–2.4, 2.6, 2.7, 2.8 Typen A und B, 2.9, 2.10, 2.12, 2.13 Kategorien 1 und 2, 2.14 Kategorien 1 und 2, 2.15 Typen A–F;
 - b. Gefahrenklassen 3.1 – 3.6, 3.7 infolge Beeinträchtigung der Sexualfunktion und Fruchtbarkeit sowie der Entwicklung, 3.8 ausgenommen narkotisierende Wirkungen, 3.9 und 3.10;
@@ -1865,7 +1892,7 @@ Anhang 1.12*[^t-13]*
 
 ### 1.1 Verbote
 
-<sup>1</sup> Verboten sind das Inverkehrbringen und die Verwendung von Benzol (CAS-Nr. 71-43-2).
+<sup>1</sup> Verboten sind das Inverkehrbringen und die Verwendung von Benzol (CAS‑Nr. 71-43-2).
 
 <sup>2</sup> Verboten sind auch das Inverkehrbringen und die Verwendung von Stoffen und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Benzol.
 
@@ -1886,7 +1913,7 @@ Anhang 1.12*[^t-13]*
 
 [^annex112-lvlu1-lvl2-1]: In Kraft seit 1. Sept. 2008 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)).
 
-Verboten sind das Inverkehrbringen und die Verwendung von Toluol (CAS-Nr. 108-88-3) und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Toluol in Klebstoffen und Sprühfarben, die für die Abgabe an die breite Öffentlichkeit bestimmt sind.
+Verboten sind das Inverkehrbringen und die Verwendung von Toluol (CAS‑Nr. 108‑88‑3) und Zubereitungen mit einem Massengehalt von 0,1 Prozent oder mehr Toluol in Klebstoffen und Sprühfarben, die für die Abgabe an die breite Öffentlichkeit bestimmt sind.
 
 Anhang 1.13*[^t-14]*
 
@@ -2079,7 +2106,7 @@ Anhang 1.16*[^t-17]*
 
 ## Per- und polyfluorierte Alkylverbindungen
 
-[^t-17]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-17]: Eingefügt durch Ziff. I 4 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. I der V vom 17. April 2019 in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Perfluoroctansulfonsäure und ihre Derivate
 
@@ -2118,11 +2145,66 @@ Als Perfluoroctansulfonsäure und ihre Derivate (PFOS) gelten Stoffe mit der Sum
 
 <sup>2</sup> Inhaberinnen von Feuerlöschschäumen, die vor dem 1. August 2011 in Verkehr gebracht worden sind (Ziffer 5), müssen dem BAFU jährlich bis zum 30. April melden, über wie viel PFOS-haltigen Feuerlöschschaum, in kg, sie am 31. Dezember des Vorjahres verfügt haben. Bei der ersten Meldung sind zusätzlich der Name des Feuerlöschschaums, der Name der Herstellerin und vorhandene Angaben zum Massengehalt an PFOS des Feuerlöschschaums zu melden.
 
-### 2**** ...
+### 2**** Perfluoroctansäure und Vorläuferverbindungen
 
 [^annex116-lvlu1-lvl2-1]
 
-[^annex116-lvlu1-lvl2-1]: In Kraft ab 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex116-lvlu1-lvl2-1]: In Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 2.1 Begriffe
+
+<sup>1</sup> Als Vorläuferverbindungen, einschliesslich ihrer Salze und Polymere, von Perfluoroctansäure (PFOA, CAS-Nr. 335-67-1) gelten Stoffe mit einer linearen oder verzweigten Perfluorheptyl-Gruppe mit der Formel C<sub>7</sub>F<sub>15</sub> in direkter Verbindung mit einem weiteren Kohlenstoffatom als Strukturelement sowie Stoffe mit einer linearen oder verzweigten Perfluoroctyl-Gruppe mit der Formel C<sub>8</sub>F<sub>17</sub> als Strukturelement.
+
+<sup>2</sup> Absatz 1 gilt nicht für:
+
+- a. Stoffe mit der Summenformel C<sub>8</sub>F<sub>17</sub>X, wobei X bedeutet: F, Cl oder Br;
+- b. Perfluornonansäure (CAS-Nr. 375-95-1), ihre Salze und ihre Derivate mit dem Strukturelement C<sub>8</sub>F<sub>17</sub>(CO)OX, wobei X bedeutet: jegliche Gruppe;
+- c. andere fluorierte Verbindungen mit dem Strukturelement C<sub>8</sub>F<sub>17</sub>(CF<sub>2</sub>)X, wobei X bedeutet: jegliche Gruppe.
+
+### 2.2 Verhältnis zu PFOS
+
+Für die Herstellung, das Inverkehrbringen und die Verwendung von PFOS sowie von PFOS enthaltenden Zubereitungen und Gegenständen gilt Ziffer 1.
+
+### 2.3 Verbote
+
+<sup>1</sup> Verboten sind die Herstellung, das Inverkehrbringen und die Verwendung von:
+
+- a. PFOA, ihren Salzen und ihren Vorläuferverbindungen;
+- b.
+
+  Stoffen und Zubereitungen, wenn sie folgende Werte überschreiten:
+
+  - 1\. einen Massengehalt an PFOA und ihren Salzen von 0,0000025 Prozent (25 ppb), oder
+  - 2\. einen Massengehalt an einer PFOA-Vorläuferverbindung oder an der Summe von PFOA-Vorläuferverbindungen von 0,0001 Prozent (1000 ppb).
+
+<sup>2</sup> Verboten ist das Inverkehrbringen von Gegenständen und deren Bestandteilen, wenn sie folgende Werte überschreiten:
+
+- a. einen Massengehalt an PFOA und ihren Salzen von 0,0000025 Prozent (25 ppb); oder
+- b. einen Massengehalt an einer PFOA-Vorläuferverbindung oder der Summe von PFOA-Vorläuferverbindungen von 0,0001 Prozent (1000 ppb).
+
+### 2.4 Ausnahmen
+
+<sup>1</sup> Die Verbote nach Ziffer 2.3 Absatz 1 gelten nicht für:
+
+- a.
+
+  die Herstellung und die Verwendung eines fluorsubstituierten Stoffs mit einer Kohlenstoffkette mit höchstens sechs Atomen, wenn:
+
+  - 1\. er PFOA, deren Salze oder PFOA-Vorläuferverbindungen als unvermeidliche Nebenprodukte enthält,
+  - 2\. er als Zwischenprodukt genutzt wird,
+  - 3\. beim Umgang mit diesem Stoff die Emissionen von PFOA, deren Salzen und PFOA-Vorläuferverbindungen nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden;
+
+- b. das Inverkehrbringen eines fluorsubstituierten Stoffs, der nach Buchstabe a hergestellt und verwendet werden darf, zur Verwendung als Zwischenprodukt;
+- c. die Verwendung einer im Herstellungsprozess eines fluorsubstituierten Stoffs nach Buchstabe a isolierten PFOA-Vorläuferverbindung zum Zwecke von deren Umsetzung in eine Nichtvorläuferverbindung, wenn im Prozess Emissionen der PFOA-Vorläuferverbindung nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden;
+- d. das Inverkehrbringen einer PFOA-Vorläuferverbindung, die nach Buchstabe c verwendet werden darf, zum Zwecke von deren Umsetzung in eine Nichtvorläuferverbindung.
+
+<sup>2</sup> Die Verbote nach Ziffer 2.3 Absätze 1 und 2 gelten nicht für folgende Gegenstände und die für deren Herstellung erforderlichen Stoffe und Zubereitungen:
+
+- a. mit einem fotolithografischen Verfahren gefertigte Halbleiter und im Ätzverfahren gefertigte Verbindungshalbleiter, als solche und als Bestandteil von Gegenständen;
+- b. fotografische Beschichtungen von Filmen, Papieren und Druckplatten;
+- c. implantierbare Medizinprodukte und ihre Bauteile.
+
+<sup>3</sup> Die Verbote nach Ziffer 2.3 Absätze 1 und 2 gelten zudem nicht für Analyse- und Forschungszwecke.
 
 ### 3**** Fluoralkylsilanole und ihre Derivate
 
@@ -2147,6 +2229,42 @@ Als Perfluoroctansulfonsäure und ihre Derivate (PFOS) gelten Stoffe mit der Sum
 <sup>1</sup> Die Verpackung von Zubereitungen, die unter das Verbot nach Ziffer 4.2 fallen, muss mit folgenden Aufschriften versehen sein: «Nur für gewerbliche Anwender» und «Lebensgefahr bei Einatmen».
 
 <sup>2</sup> Die Aufschriften müssen in mindestens zwei Amtssprachen abgefasst, gut lesbar und dauerhaft sein.
+
+### 4**** Übergangsbestimmungen
+
+[^annex116-lvlu1-lvl4-1]
+
+[^annex116-lvlu1-lvl4-1]: In Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+<sup>1</sup> Die Verbote nach Ziffer 2.3 Absätze 1 und 2 gelten nicht:
+
+- a. für folgende Gegenstände, die vor den genannten Daten erstmals in Verkehr gebracht worden sind, sowie für Stoffe und Zubereitungen, welche für die Herstellung dieser Gegenstände erforderlich sind:
+
+<table>
+<tr><th>Produkt</th><th>Datum</th></tr>
+<tr><td>Equipment für die Fertigung von Halbleitern</td><td>1. Juni 2023</td></tr>
+<tr><td>Latexdruckfarben enthaltende Druckerzeugnisse</td><td>1. Juni 2023</td></tr>
+<tr><td>Arbeitsschutztextilien</td><td>1. Juni 2024</td></tr>
+<tr><td>Membranen für medizinische Textilien sowie für die Filterung bei der Wasseraufbereitung, bei Herstellungsverfahren und bei der Abwasserbehandlung sowie Gegenstände mit solchen Membranen</td><td>1. Juni 2024</td></tr>
+<tr><td>Plasma-Nanobeschichtungen enthaltende Gegenstände</td><td>1. Juni 2024</td></tr>
+<tr><td>nicht implantierbare Medizinprodukte und ihre Bauteile</td><td>4. Juli 2032</td></tr>
+</table>
+
+- b. für alle übrigen Gegenstände, die vor dem 1. Juni 2021 erstmals in Verkehr gebracht worden sind.
+
+<sup>2</sup> Die Verbote nach Ziffer 2.3 Absatz 1 gelten nicht für die Verwendung von Feuerlöschschäumen, die vor dem 1. Juni 2021 in Verkehr gebracht worden sind.
+
+<sup>3</sup> Die Verbote nach Ziffer 2.3 Absatz 1 gelten bis zum 1. Juni 2024 nicht für:
+
+- a.
+
+  die Herstellung von Polytetrafluorethylen (PTFE), wenn:
+
+  - 1\. bestimmte molekulare Eigenschaften durch Behandlung mit hochenergetischer elektromagnetischer Strahlung einer Energiedosis von 25 bis 400 Kilogray erzielt werden,
+  - 2\. PFOA, deren Salze oder PFOA-Vorläuferverbindungen bei der Behandlung nach Nummer 1 als unvermeidliche Nebenprodukte entstehen und ihr Massengehalt insgesamt 0,0001 Prozent (1 ppm) nicht übersteigt;
+
+- b. das Inverkehrbringen von PTFE, das nach Buchstabe a hergestellt werden darf, zum Zweck der Eliminierung von PFOA, deren Salzen und PFOA-Vorläuferverbindungen;
+- c. die Verwendung von PTFE, das nach Buchstabe a hergestellt und nach Buchstabe b in Verkehr gebracht worden ist, wenn die Emissionen von PFOA, deren Salzen und PFOA-Vorläuferverbindungen nach dem Stand der Technik vermieden oder, falls dies nicht möglich ist, auf ein Minimum reduziert werden.f2.
 
 Anhang 1.17*[^t-18]*
 
@@ -2232,7 +2350,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 
 <sup>2</sup> Die Anmeldestelle führt ein Verzeichnis über die Meldungen nach den Absätzen 1 und 1<sup>bis</sup>.
 
-### 4 ...
+### 4 …
 
 ### 5 Liste der Stoffe nach Ziffer 1 und Übergangsbestimmungen
 
@@ -2242,7 +2360,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 <tr><th>Eintrag Nr.</th><th>Stoff</th><th>Verbotsbegründende inhärente Eigenschaften</th><th>Übergangsfrist</th><th>Ausgenommene Verwendungen oder Verwendungskategorien</th><th>Überprüfungszeiträume</th></tr>
 <tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylol (Moschus-Xylol) EG-Nr.: 201-329-4 CAS-Nr.: 81-15-2</td><td>vPvB</td><td>21. August 2014</td><td>–</td><td>–</td></tr>
 <tr><td>2.</td><td>4,4’-Diaminodiphenylmethan (MDA) EG-Nr.: 202-974-4 CAS-Nr.: 101-77-9</td><td>Krebserzeugend (Kategorie 1B)</td><td>21. August 2014</td><td>–</td><td>–</td></tr>
-<tr><td>3.</td><td>...</td><td>...</td><td>...</td><td>–</td><td>–</td></tr>
+<tr><td>3.</td><td>…</td><td>…</td><td>…</td><td>–</td><td>–</td></tr>
 <tr><td>4.</td><td>Bis(2-ethylhexyl)-phthalat (DEHP) EG-Nr.: 204-211-0 CAS-Nr.: 117-81-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004[^annex117-lvlu1-lvl5-1], die Richtlinie 2001/82/EG[^annex117-lvlu1-lvl5-2] und/ oder die Richtlinie 2001/83/EG[^annex117-lvlu1-lvl5-3] fallen</td><td></td></tr>
 <tr><td>5.</td><td>Benzylbutylphthalat (BBP) EG-Nr.: 201-622-7 CAS Nr.: 85-68-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004, die Richtlinie 2001/82/EG und/oder die Richtlinie 2001/83/EG fallen</td><td></td></tr>
 <tr><td>6.</td><td>Dibutylphthalat (DBP) EG-Nr.: 201-557-4 CAS Nr.: 84-74-2</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004, die Richtlinie 2001/82/ EG und/oder die Richtlinie 2001/83/EG fallen</td><td></td></tr>
@@ -2254,23 +2372,23 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 <tr><td>12.</td><td>Bleichromatmolybdatsulfatrot (C.I. Pigment Red 104) EG-Nr.: 235-759-9 CAS Nr.: 12656-85-8</td><td>Krebserzeugend (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1A)</td><td>21. Mai 2015</td><td></td><td></td></tr>
 <tr><td>13.</td><td>Tris(2-chlorethyl)-phosphat (TCEP) EG-Nr.: 204-118-5 CAS Nr.: 115-96-8</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. August 2015</td><td></td><td></td></tr>
 <tr><td>14.</td><td>2,4-Dinitrotoluol (2,4-DNT) EG-Nr.: 204-450-0 CAS Nr.: 121-14-2</td><td>Krebserzeugend (Kategorie 1B)</td><td>21. August 2015</td><td></td><td></td></tr>
-<tr><td>15.</td><td>Trichlorethylen EG-Nr.: 201-167-4 CAS Nr.: 79-01-6</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Dezember 2019</td><td>–</td><td>–</td></tr>
-<tr><td>16.</td><td>Chromtrioxid EG-Nr.: 215-607-8 CAS-Nr.: 1333-82-0</td><td>Krebserzeugend (Kategorie 1A) Erbgutverändernd (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
-<tr><td>17.</td><td>Säuren, die sich aus Chromtrioxid bilden, und deren Oligomere Gruppe mit: Chromsäure EG-Nr.: 231-801-5 CAS-Nr.: 7738-94-5 Dichromsäure EG-Nr.: 236-881-5 CAS-Nr.: 13530-68-2 Oligomere von Chromsäure und Dichromsäure EG-Nr.: noch nicht zugewiesen CAS-Nr.: noch nicht zugewiesen</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
-<tr><td>18.</td><td>Natriumdichromat EG-Nr.: 234-190-3 CAS-Nr.: 7789-12-0 10588-01-9</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
-<tr><td>19.</td><td>Kaliumdichromat EG-Nr.: 231-906-6 CAS-Nr.: 7778-50-9</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
+<tr><td>15.</td><td>Trichlorethylen EG‑Nr.: 201-167-4 CAS Nr.: 79-01-6</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Dezember 2019</td><td>–</td><td>–</td></tr>
+<tr><td>16.</td><td>Chromtrioxid EG‑Nr.: 215-607-8 CAS-Nr.: 1333-82-0</td><td>Krebserzeugend (Kategorie 1A) Erbgutverändernd (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
+<tr><td>17.</td><td>Säuren, die sich aus Chromtrioxid bilden, und deren Oligomere Gruppe mit: Chromsäure EG‑Nr.: 231-801-5 CAS-Nr.: 7738-94-5 Dichromsäure EG‑Nr.: 236-881-5 CAS-Nr.: 13530-68-2 Oligomere von Chromsäure und Dichromsäure EG‑Nr.: noch nicht zugewiesen CAS‑Nr.: noch nicht zugewiesen</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
+<tr><td>18.</td><td>Natriumdichromat EG‑Nr.: 234-190-3 CAS-Nr.: 7789-12-0 10588-01-9</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>Verwendung in Prozessen, in deren Endprodukten Chrom nicht in sechswertiger Form vorliegt</td><td>–</td></tr>
+<tr><td>19.</td><td>Kaliumdichromat EG‑Nr.: 231-906-6 CAS-Nr.: 7778-50-9</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
 <tr><td>20.</td><td>Ammoniumdichromat EG-Nr.: 232-143-1 CAS-Nr.: 7789-09-5</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
-<tr><td>21.</td><td>Kaliumchromat EG-Nr.: 232-140-5 CAS-Nr.: 7789-00-6</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
-<tr><td>22.</td><td>Natriumchromat EG-Nr.: 231-889-5 CAS-Nr.: 7775-11-3</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
+<tr><td>21.</td><td>Kaliumchromat EG‑Nr.: 232-140-5 CAS-Nr.: 7789-00-6</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
+<tr><td>22.</td><td>Natriumchromat EG‑Nr.: 231-889-5 CAS-Nr.: 7775-11-3</td><td>Krebserzeugend (Kategorie 1B) Erbgutverändernd (Kategorie 1B) Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. Juni 2021</td><td>–</td><td>–</td></tr>
 <tr><td>23.</td><td>Formaldehyd, oligomere Reaktionsprodukte mit Anilin (technisches MDA) EG-Nr.: 500-036-1 CAS-Nr.: 25214-70-4</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. November 2021</td><td>–</td><td>–</td></tr>
-<tr><td>24.</td><td>Arsensäure EG-Nr.: 231-901-9 CAS-Nr.: 7778-39-4</td><td>Krebserzeugend (Kategorie 1A)</td><td>1. November 2021</td><td>–</td><td>–</td></tr>
-<tr><td>25.</td><td>Bis(2-methoxyethyl)-ether (Diglyme) EG-Nr.: 203-924-4 CAS-Nr.: 111-96-6</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. November 2021</td><td>–</td><td>–</td></tr>
-<tr><td>26.</td><td>1,2-Dichlorethan (EDC) EG-Nr.: 203-458-1 CAS-Nr.: 107-06-2</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Februar 2022</td><td>–</td><td>–</td></tr>
-<tr><td>27.</td><td>2,2'-Dichlor-4,4'-methylendianilin (MOCA) EG-Nr.: 202-918-9 CAS-Nr.: 101-14-4</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Februar 2022</td><td>–</td><td>–</td></tr>
-<tr><td>28.</td><td>Dichromtris(chromat) EG-Nr.: 246-356-2 CAS-Nr.: 24613-89-6</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. April 2023</td><td>–</td><td>–</td></tr>
+<tr><td>24.</td><td>Arsensäure EG‑Nr.: 231-901-9 CAS-Nr.: 7778-39-4</td><td>Krebserzeugend (Kategorie 1A)</td><td>1. November 2021</td><td>–</td><td>–</td></tr>
+<tr><td>25.</td><td>Bis(2-methoxyethyl)‑ether (Diglyme) EG‑Nr.: 203-924-4 CAS-Nr.: 111-96-6</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>1. November 2021</td><td>–</td><td>–</td></tr>
+<tr><td>26.</td><td>1,2-Dichlorethan (EDC) EG‑Nr.: 203‑458-1 CAS-Nr.: 107-06-2</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Februar 2022</td><td>–</td><td>–</td></tr>
+<tr><td>27.</td><td>2,2'-Dichlor-4,4'-methylendianilin (MOCA) EG‑Nr.: 202-918-9 CAS-Nr.: 101-14-4</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. Februar 2022</td><td>–</td><td>–</td></tr>
+<tr><td>28.</td><td>Dichromtris(chromat) EG‑Nr.: 246‑356-2 CAS-Nr.: 24613-89-6</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. April 2023</td><td>–</td><td>–</td></tr>
 <tr><td>29.</td><td>Strontiumchromat EG-Nr.: 232-142-6 CAS-Nr.: 7789-06-2</td><td>Krebserzeugend (Kategorie 1B)</td><td>1. April 2023</td><td>–</td><td>–</td></tr>
 <tr><td>30.</td><td>Zink-Kalium-Chromat EG-Nr.: 234-329-8 CAS-Nr.: 11103-86-9</td><td>Krebserzeugend (Kategorie 1A)</td><td>1. April 2023</td><td>–</td><td>–</td></tr>
-<tr><td>31.</td><td>Pentazinkchromat-octahydroxid EG-Nr.: 256-418-0 CAS-Nr.: 49663-84-5</td><td>Krebserzeugend (Kategorie 1A)</td><td>1. April 2023</td><td>–</td><td>–</td></tr>
+<tr><td>31.</td><td>Pentazinkchromat-octahydroxid EG‑Nr.: 256-418-0 CAS-Nr.: 49663-84-5</td><td>Krebserzeugend (Kategorie 1A)</td><td>1. April 2023</td><td>–</td><td>–</td></tr>
 <tr><td>32.</td><td>1-Brompropan (n-Propylbromid) EG-Nr.: 203-445-0 CAS-Nr.: 106-94-5</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>2. November 2023</td><td>–</td><td>–</td></tr>
 <tr><td>33.</td><td>Diisopentylphthalat EG-Nr.: 210-088-4 CAS-Nr.: 605-50-5</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>2. November 2023</td><td>–</td><td>–</td></tr>
 <tr><td>34.</td><td>1,2-Benzoldicarbonsäure, Di-C6-8-verzweigte Alkylester, C7-reich EG-Nr.: 276-158-1 CAS-Nr.: 71888-89-6</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>2. November 2023</td><td>–</td><td>–</td></tr>
@@ -2426,7 +2544,7 @@ Anhang 2.1*[^t-20]*
 
 <sup>1</sup> Textilwaschmittel dürfen nicht für den Eigengebrauch hergestellt oder in Verkehr gebracht werden, wenn sie enthalten:
 
-- a. flüssige organische Halogenverbindungen wie Dichlormethan (CAS-Nr. 75-09-2), Trichlorethylen (CAS-Nr. 79-01-6), Tetrachlorethylen (CAS-Nr. 127-18-4);
+- a. flüssige organische Halogenverbindungen wie Dichlormethan (CAS-Nr. 75‑09-2), Trichlorethylen (CAS-Nr. 79-01-6), Tetrachlorethylen (CAS-Nr. 127-18-4);
 - b. Phosphate;
 - c. mehr als 0,5 Massenprozent Ethylendiamintetraessigsäure (EDTA; CAS-Nr. 60-00-4), Propylendiamintetraessigsäure (PDTA; CAS-Nr. 1939-36-2) oder deren Salze sowie davon abgeleitete Verbindungen;
 - d. mehr als 0,5 Massenprozent Phosphor;
@@ -2566,9 +2684,9 @@ Anhang 2.2*[^t-21]*
 
 (Art. 3)
 
-## Reinigungs- und Desodorierungsmittel
+## Reinigungsmittel, Desodorierungsmittel und kosmetische Mittel
 
-[^t-21]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I der V vom 13. Febr. 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. I der V des BAFU vom 19. Okt. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) und Ziff. II Abs. 2 der V vom 1. Juli 2015, in Kraft seit 1. Sept. 2016 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Die Berichtigung vom 20. Juni 2017 betrifft nur den französischen und italienischen Text ([AS 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)).
+[^t-21]: Bereinigt gemäss Ziff. I 3 der V vom 15. Dez. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), Ziff. I der V vom 13. Febr. 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), Anhang Ziff. 2 der V vom 14. Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), Ziff. I der V des BAFU vom 19. Okt. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), Ziff. I 6 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Begriff
 
@@ -2595,7 +2713,7 @@ Anhang 2.2*[^t-21]*
 
 <sup>1</sup> Reinigungsmittel dürfen nicht für den Eigengebrauch hergestellt oder in Verkehr gebracht werden, wenn sie enthalten:
 
-- a. flüssige organische Halogenverbindungen wie Dichlormethan (CAS-Nr. 75-09-2), Trichlorethylen (CAS-Nr. 79-01-6), Tetrachlorethylen (CAS-Nr. 127-18-4);
+- a. flüssige organische Halogenverbindungen wie Dichlormethan (CAS-Nr. 75‑09-2), Trichlorethylen (CAS-Nr. 79-01-6), Tetrachlorethylen (CAS-Nr. 127-18-4);
 - b. mehr als 1 Massenprozent Ethylendiamintetraessigsäure (EDTA; CAS-Nr. 60-00-4), Propylendiamintetraessigsäure (PDTA; CAS-Nr. 1939-36-2) oder deren Salze sowie davon abgeleitete Verbindungen;
 - c. anionische oder nichtionische Tenside, deren biologische Primärabbaubarkeit weniger als 80 Prozent beträgt;
 - d. kationische oder amphotere Tenside, deren biologische Primärabbaubarkeit weniger als 80 Prozent beträgt;
@@ -2615,6 +2733,8 @@ Anhang 2.2*[^t-21]*
 <sup>4</sup> Desodorierungsmittel und Lufterfrischer, die für die Verwendung in Toiletten, Privathaushalten, Büros oder anderen öffentlich zugänglichen Innenräumen bestimmt sind, dürfen nicht in Verkehr gebracht werden, wenn ihr Massengehalt an 1,4-Dichlorbenzol (CAS-Nr. 106-46-7) 1 Prozent oder mehr beträgt.
 
 <sup>5</sup> Die Verwendung von 1,4-Dichlorbenzol für Zwecke nach Absatz 4 ist verboten.
+
+<sup>6</sup> Abwaschbare kosmetische Mittel dürfen nicht in Verkehr gebracht werden, wenn ihr Massengehalt an Octamethylcyclotetrasiloxan (D4, CAS-Nr. 556-67-2) oder Decamethylcyclopentasiloxan (D5, CAS-Nr. 541-02-6) 0,1 Prozent oder mehr beträgt.
 
 [^annex22-lvlu1-lvl2-1]: ABl. L 104 vom 8.4.2004, S. 1, zuletzt geändert durch die Verordnung (EG) Nr. 551/2009 der Kommission vom 25. Juni 2009 (ABl. L 164 vom 26.6.2009, S. 3). Die Texte der in diesem Anhang erwähnten Rechtsakte der EU können bei der Anmeldestelle für Chemikalien, 3003 Berngegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse www.cheminfo.ch abgerufen werden.
 [^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
@@ -3735,7 +3855,7 @@ Anhang 2.9*[^t-28]*
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -3927,7 +4047,7 @@ Anhang 2.10*[^t-29]*
 
 <sup>8</sup> Das BAFU kann auf begründetes Gesuch für eine bestimmte Anlage eine Ausnahme vom Verbot nach Ziffer 2.1 Absatz 3 gewähren, wenn:
 
-- a. nach dem Stand der Technik die Normen SN EN 378-1:2017, SN EN 378-2:2017 und SN EN 378-3:2017[^annex210-lvlu1-lvl2-lvl22-2] nicht eingehalten werden können ohne die Anwendung eines in der Luft stabilen Kältemittels;
+- a. nach dem Stand der Technik die Normen SN EN 378-1:2017, SN EN 378‑2:2017 und SN EN 378-3:2017[^annex210-lvlu1-lvl2-lvl22-2] nicht eingehalten werden können ohne die Anwendung eines in der Luft stabilen Kältemittels;
 - b. nach dem Stand der Technik das in der Luft stabile Kältemittel mit der geringsten Auswirkung auf das Klima gewählt worden ist; und
 - c. die nach dem Stand der Technik verfügbaren Massnahmen zur Vermeidung von Emissionen der Kältemittel getroffen worden sind.
 
@@ -4109,7 +4229,7 @@ Anhang 2.11*[^t-30]*
 
 <sup>5</sup> Ein Gerät ist ein transportables Hilfsmittel zum Löschen von Bränden, welches kein fest installiertes Rohrleitungssystem aufweist.
 
-### 1<sup>bis</sup> Löschmittel, die PFOS, PFOA und PFOA-Vorläuferverbindungen enthalten
+### 1<sup>bis</sup> Löschmittel, die PFOS, PFOA und PFOA‑Vorläuferverbindungen enthalten
 
 Für Löschmittel, die PFOS, PFOA und PFOA-Vorläuferverbindungen enthalten, gilt Anhang 1.16.
 
@@ -4427,7 +4547,7 @@ Anhang 2.15*[^t-33]*
 
 ### 3 Ausnahmen
 
-<sup>1</sup> ...
+<sup>1</sup> …
 
 <sup>2</sup> Das Verbot nach Ziffer 2 Absatz 2 gilt nicht für Gerätebatterien, die zur Verwendung bestimmt sind in:
 
@@ -4474,7 +4594,7 @@ Verbraucherinnen müssen Batterien zur Entsorgung einer rücknahmepflichtigen H�
 
 <sup>1</sup> Händlerinnen, die Gerätebatterien abgeben, müssen Gerätebatterien in jeder Verkaufsstelle von Verbraucherinnen unentgeltlich zurücknehmen.
 
-<sup>2</sup> Händlerinnen, die Fahrzeug- oder Industriebatterien abgeben, müssen in jeder Verkaufsstelle die Arten von Batterien, die sie dort im Sortiment führen, von Verbraucherinnen unentgeltlich zurücknehmen.
+<sup>2</sup> Händlerinnen, die Fahrzeug‑ oder Industriebatterien abgeben, müssen in jeder Verkaufsstelle die Arten von Batterien, die sie dort im Sortiment führen, von Verbraucherinnen unentgeltlich zurücknehmen.
 
 <sup>3</sup> Für die Herstellerin gelten die Pflichten nach den Absätzen 1 und 2 gegenüber Verbraucherinnen, Händlerinnen und Betreiberinnen von Sammlungen oder Sammelstellen.
 
@@ -4541,7 +4661,7 @@ Die Organisation darf die Gebühr ausschliesslich für die Finanzierung folgende
 
 <sup>4</sup> Die Organisation hat das Geschäftsgeheimnis der Gebührenpflichtigen und der Entsorger zu wahren.
 
-<sup>5</sup> Die Eidgenössische Zollverwaltung darf der Organisation die Angaben in den Zollanmeldungen sowie weitere Feststellungen im Zusammenhang mit der Ein- oder Ausfuhr von Batterien mitteilen.
+<sup>5</sup> Die Eidgenössische Zollverwaltung darf der Organisation die Angaben in den Zollanmeldungen sowie weitere Feststellungen im Zusammenhang mit der Ein‑ oder Ausfuhr von Batterien mitteilen.
 
 <sup>6</sup> Die Organisation kann mit der Eidgenössischen Zollverwaltung die Erhebung der Gebühr bei der Einfuhr vereinbaren. In diesem Fall gilt für die Erhebung, die Fälligkeit und die Zinsen die Zollgesetzgebung.
 
@@ -4559,7 +4679,7 @@ Die Organisation darf die Gebühr ausschliesslich für die Finanzierung folgende
 - d. eine Aufstellung über die Verwendung der Gebühr nach Betrag, Zweck und Empfänger;
 - e. die Liste der gemäss Ziffer 6.1 Absatz 3 von der Gebührenpflicht ausgenommenen Herstellerinnen.
 
-<sup>4</sup> Das BAFU veröffentlicht den Bericht unter Wahrung des Geschäfts- und Fabrikationsgeheimnisses.
+<sup>4</sup> Das BAFU veröffentlicht den Bericht unter Wahrung des Geschäfts‑ und Fabrikationsgeheimnisses.
 
 ### 6.9 Verfahren
 
@@ -4824,7 +4944,7 @@ Fahrzeugwerkstoffe und -bauteile sind nach Anhang II der Richtlinie 2000/53/EG[^
 
 [^annex216-lvlu1-lvl5-lvl55-1]: Siehe Fussnote zu Ziffer 5.3 Absatz 1.
 
-### 6 ...
+### 6 …
 
 ### 7 Übergangsbestimmungen
 
@@ -4832,7 +4952,7 @@ Fahrzeugwerkstoffe und -bauteile sind nach Anhang II der Richtlinie 2000/53/EG[^
 
 <sup>1bis</sup> Das Verbot nach Ziffer 3<sup>ter</sup>.2 Absatz 1 gilt nicht für Gegenstände, die vor dem 1. Januar 2019 erstmals in Verkehr gebracht worden sind.
 
-<sup>2</sup> Das Verbot nach Ziffer 5.2 Absatz 1 gilt nicht für Fahrzeugwerkstoffe und -bauteile, wenn diese in Anhang II der Richtlinie 2000/53/EG[^annex216-lvlu1-lvl7-1] aufgeführt sind und innerhalb der in diesem Anhang genannten Fristen und unter den dort genannten Bedingungen erstmals in Verkehr gebracht werden.
+<sup>2</sup> Das Verbot nach Ziffer 5.2 Absatz 1 gilt nicht für Fahrzeugwerkstoffe und ‑bauteile, wenn diese in Anhang II der Richtlinie 2000/53/EG[^annex216-lvlu1-lvl7-1] aufgeführt sind und innerhalb der in diesem Anhang genannten Fristen und unter den dort genannten Bedingungen erstmals in Verkehr gebracht werden.
 
 <sup>3</sup> Das Verbot nach Ziffer 5.2 Absatz 2 gilt nicht für in der Schweiz oder in einem Mitgliedstaat der EU oder EFTA erstmals in Verkehr gebrachte Fahrzeuge, die Werkstoffe oder Bauteile enthalten, die nach Absatz 2 in Verkehr gebracht werden dürfen.
 

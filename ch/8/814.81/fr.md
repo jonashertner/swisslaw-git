@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2021-03-01
+version: 2021-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> mars 2021)
+du 18 mai 2005 (Etat le 1<sup>er</sup> juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -393,7 +393,7 @@ Annexes*[^t-1]*
 ## 2 Dispositions concernant des groupes de préparations et d’objets
 
 - 2\.1 Lessives
-- 2\.2 Produits de nettoyage et désodorisants
+- 2\.2 Produits de nettoyage, désodorisants et produits cosmétiques
 - 2\.3 Solvants
 - 2\.4 Produits biocides
 - 2\.5 Produits phytosanitaires
@@ -471,7 +471,7 @@ Annexe 1.1*[^t-2]*
   - – dieldrine (n<sup>o</sup> CAS 60-57-1),
   - – endosulfane (n<sup>o</sup> CAS 115-29-7) et ses isomères (n<sup>o</sup> CAS 959-98-8 et n<sup>o</sup> CAS 33213-65-9),
   - – endrine (n<sup>o</sup> CAS 72-20-8),
-  - – heptachlore (n<sup>o</sup> CAS 76-44-8) et époxy heptachlore (n<sup>o</sup> CAS 1024-57-3),
+  - – heptachlore (n<sup>o</sup> CAS 76-44-8) et époxy heptachlore (n<sup>o</sup> CAS 1024‑57‑3),
   - – mirex (n<sup>o</sup> CAS 2385-85-5),
   - – toxaphène (n<sup>o</sup> CAS 8001-35-2);
 
@@ -1247,7 +1247,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre; elle doit être rédigée en deux langues officielles au moins et être conforme au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/fr/xml/image/image1.png)</td><td colspan="3">chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/fr/xml/image/image1.png)</td><td colspan="3">chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -1302,7 +1302,7 @@ Annexe 1.7*[^t-8]*
 - a. des thermomètres médicaux et autres dispositifs de mesure qui contiennent du mercure (n<sup>o</sup> CAS 7439-97-6) et sont destinés au grand public;
 - b.
 
-  les dispositifs de mesure suivants qui contiennent du mercure (n<sup>o</sup> CAS 7439-97-6) ou dont l’utilisation requiert l’emploi de mercure et qui sont destinés à un usage professionnel ou commercial:
+  les dispositifs de mesure suivants qui contiennent du mercure (n<sup>o</sup> CAS 7439‑97-6) ou dont l’utilisation requiert l’emploi de mercure et qui sont destinés à un usage professionnel ou commercial:
 
   - 1\. baromètres,
   - 2\. hygromètres,
@@ -1704,11 +1704,38 @@ Il est interdit au fabricant de mettre sur le marché des textiles qui contienne
 
 <sup>3</sup> L’annexe 2.18 s’applique aux équipements électriques et électroniques contenant du décaBDE.
 
-### 3**** …
+### 3**** Sels d’ammonium inorganiques
 
 [^annex19-lvlu1-lvl3-1]
 
-[^annex19-lvlu1-lvl3-1]: Entre en vigueur le 1<sup>er</sup> juin 2021 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex19-lvlu1-lvl3-1]: En vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 3.1 Interdiction
+
+<sup>1</sup> Les mélanges isolants en cellulose en vrac et les objets qui en contiennent ne peuvent être mis sur le marché ni être employés s’ils contiennent des sels d’ammonium inorganiques, sauf si les émissions d’ammoniac issues des mélanges isolants donnent lieu à une concentration inférieure à 3 ppm en volume (2,12 mg/m<sup>3</sup>) lors d’un test mené en chambre d’essai dans les conditions spécifiées à l’al. 2.
+
+<sup>2</sup> Le respect de la valeur limite d’émission mentionnée à l’al. 1 doit être prouvé conformément à la norme SN EN 16516:2017[^annex19-lvlu1-lvl3-lvl31-1] à l’aide des éléments suivants:
+
+- a. la durée du test est d’au moins quatorze jours;
+- b. les émissions de gaz d’ammoniac sont mesurées au moins une fois par jour pendant toute la durée du test;
+- c. aucune des mesures effectuées durant le test n’atteint ou ne dépasse la valeur limite d’émission mentionnée à l’al. 1;
+- d. l’humidité relative est de 90 %;
+- e. la méthode utilisée pour mesurer les émissions de gaz d’ammoniac est appropriée;
+- f. le taux de charge des échantillons, exprimé en épaisseur et en densité, est consigné pour les mélanges isolants en cellulose et les objets contenant de tels mélanges qui doivent être testés.
+
+[^annex19-lvlu1-lvl3-lvl31-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+### 3.2 Exception
+
+Le ch. 3.1, al. 1, ne s’applique pas aux mélanges isolants en cellulose en vrac qui sont employés pour fabriquer un objet dont il est prouvé qu’il respecte la valeur limite d’émission de 3 ppm pour l’ammoniac définie au ch. 2.1, al. 2.
+
+### 3.3 Étiquetage spécial
+
+Toute personne qui met sur le marché un mélange isolant en cellulose en vrac contenant des sels d’ammonium inorganiques doit informer l’acquéreur du taux de charge maximal autorisé du mélange isolant par une inscription ou sous une forme écrite équivalente.
+
+### 3.4 Prise en compte des indications du responsable de la mise sur le marché
+
+Toute personne qui emploie un mélange isolant en cellulose contenant des sels d’ammonium inorganiques ne doit pas dépasser le taux de charge maximal autorisé communiqué par le responsable de la mise sur le marché.
 
 ### 4 Dispositions transitoires
 
@@ -2019,7 +2046,7 @@ Les interdictions au sens du ch. 3.1 ne s’appliquent pas:
 - e. tissus revêtus de PVC contenant des composés du dibutylétain en tant que stabilisants en cas d’emploi à l’extérieur;
 - f. descentes d’eaux pluviales, gouttières et accessoires extérieurs, ainsi que matériau de couverture pour toitures et façades.
 
-<sup>3</sup> L’interdiction au sens du ch. 1.2, let. b, ne s’applique ni aux kits de moulage RTV-2, ni aux revêtements muraux et de sol, si ces préparations et objets contiennent des composés du dioctylétain et ont été mis sur le marché pour la première fois avant le 1<sup>er</sup> juin 2013.
+<sup>3</sup> L’interdiction au sens du ch. 1.2, let. b, ne s’applique ni aux kits de moulage RTV‑2, ni aux revêtements muraux et de sol, si ces préparations et objets contiennent des composés du dioctylétain et ont été mis sur le marché pour la première fois avant le 1<sup>er</sup> juin 2013.
 
 <sup>4</sup> L’interdiction de mise sur le marché au sens du ch. 2.2, let. c, ne s’applique pas aux objets contenant des composés organostanniques trisubstitués mis sur le marché pour la première fois avant le 1<sup>er</sup> juin 2013.
 
@@ -2045,8 +2072,8 @@ Annexe 1.15*[^t-16]*
 
 <sup>2</sup> Par pigeons d’argile contenant du goudron, on entend les objets servant de cibles volantes lors du tir et qui contiennent plus de 30 mg de HAP par kilogramme[^annex115-lvlu1-lvl1-2].
 
-[^annex115-lvlu1-lvl1-1]: Valeur limite totale pour les HAP suivants: naphtalène (n<sup>o</sup> CAS 91-20-3), acénaphtylène (208-96-8), acénaphtène (83-32-9), fluorène (86-73-7), phénanthrène (85-01-8), anthracène (120-12-7), fluoranthène (206-44-0), pyrène (129-00-0), benzo[a]anthracène (56-55-3), chrysène (218-01-9), benzo[b]fluoranthène (205-99-2), benzo[k]fluoranthène (207-08-9), benzo[a]pyrène (50-32-8), indéno[1,2,3-cd]pyrène (193-39-5), dibenzo[a,h]anthracène (53-70-3) et benzo[g,h,i]pérylène (191-24-2).
-[^annex115-lvlu1-lvl1-2]: Valeur limite totale pour les HAP suivants: naphtalène (n<sup>o</sup> CAS 91-20-3), acénaphtylène (208-96-8), acénaphtène (83-32-9), fluorène (86-73-7), phénanthrène (85-01-8), anthracène (120-12-7), fluoranthène (206-44-0), pyrène (129-00-0), benzo[a]anthracène (56-55-3), chrysène (218-01-9), benzo[b]fluoranthène (205-99-2), benzo[k]fluoranthène (207-08-9), benzo[a]pyrène (50-32-8), indéno[1,2,3-cd]pyrène (193-39-5), dibenzo[a,h]anthracène (53-70-3) et benzo[g,h,i]pérylène (191-24-2).
+[^annex115-lvlu1-lvl1-1]: Valeur limite totale pour les HAP suivants: naphtalène (n<sup>o</sup> CAS 91‑20‑3), acénaphtylène (208‑96‑8), acénaphtène (83‑32‑9), fluorène (86‑73‑7), phénanthrène (85‑01‑8), anthracène (120‑12‑7), fluoranthène (206‑44‑0), pyrène (129‑00‑0), benzo[a]anthracène (56‑55‑3), chrysène (218‑01‑9), benzo[b]fluoranthène (205‑99‑2), benzo[k]fluoranthène (207‑08‑9), benzo[a]pyrène (50‑32‑8), indéno[1,2,3‑cd]pyrène (193‑39‑5), dibenzo[a,h]anthracène (53‑70‑3) et benzo[g,h,i]pérylène (191‑24‑2).
+[^annex115-lvlu1-lvl1-2]: Valeur limite totale pour les HAP suivants: naphtalène (n<sup>o</sup> CAS 91‑20‑3), acénaphtylène (208‑96‑8), acénaphtène (83‑32‑9), fluorène (86‑73‑7), phénanthrène (85‑01‑8), anthracène (120‑12‑7), fluoranthène (206‑44‑0), pyrène (129‑00‑0), benzo[a]anthracène (56‑55‑3), chrysène (218‑01‑9), benzo[b]fluoranthène (205‑99‑2), benzo[k]fluoranthène (207‑08‑9), benzo[a]pyrène (50‑32‑8), indéno[1,2,3‑cd]pyrène (193‑39‑5), dibenzo[a,h]anthracène (53‑70‑3) et benzo[g,h,i]pérylène (191‑24‑2).
 
 ### 2 Interdictions
 
@@ -2115,11 +2142,66 @@ Sont considérées comme acide perfluorooctane sulfonique et ses dérivés (SPFO
 
 <sup>2</sup> Les détenteurs de mousses anti-incendie mises sur le marché avant le 1<sup>er</sup> août 2011 (ch. 5) doivent communiquer à l’OFEV, au plus tard le 30 avril de chaque année, les quantités de mousse anti-incendie contenant des SPFO, en kilogrammes, dont ils disposaient au 31 décembre de l’année précédente. Lors de la première notification, il y a lieu de communiquer en outre le nom de la mousse anti-incendie, le nom du producteur et les données disponibles concernant la teneur en SPFO (en masse) de la mousse anti-incendie.
 
-### 2**** …
+### 2**** Acide pentadécafluorooctanoïque et substances apparentées
 
 [^annex116-lvlu1-lvl2-1]
 
-[^annex116-lvlu1-lvl2-1]: Entre en vigueur le 1<sup>er</sup> juin 2021 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex116-lvlu1-lvl2-1]: En vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 2.1 Définitions
+
+<sup>1</sup> Sont considérées comme des substances apparentées de l’acide pentadécafluorooctanoïque (PFOA, n<sup>o</sup> CAS 335-67-1), avec leurs sels et leurs polymères, les substances possédant comme élément structurel, présent linéairement ou sous forme de ramification, un groupe perfluoroheptyle de formule C<sub>7</sub>F<sub>15</sub> fixé directement à un autre atome de carbone, ainsi que les substances possédant comme élément structurel, présent linéairement ou sous forme de ramification, un groupe perfluorooctyle de formule C<sub>8</sub>F<sub>17</sub>.
+
+<sup>2</sup> L’al. 1 ne s’applique pas:
+
+- a. aux substances dont la formule élémentaire est C<sub>8</sub>F<sub>17</sub>X, où X correspond à F, Cl ou Br;
+- b. à l’acide perfluorononanoïque (n<sup>o</sup> CAS 375-95-1), à ses sels et à ses dérivés comportant l’élément structurel C<sub>8</sub>F<sub>17</sub>(CO)OX, où X correspond à un groupe quelconque;
+- c. aux autres composés fluorés comportant l’élément structurel C<sub>8</sub>F<sub>17</sub>(CF<sub>2</sub>)X, où X correspond à un groupe quelconque.
+
+### 2.2 Rapport avec les SPFO
+
+Le ch. 1 s’applique à la fabrication, à la mise sur le marché et à l’emploi de SPFO, ainsi que de préparations et d’objets qui en contiennent.
+
+### 2.3 Interdictions
+
+<sup>1</sup> Il est interdit de fabriquer, de mettre sur le marché et d’employer:
+
+- a. des PFOA, leurs sels et leurs substances apparentées;
+- b.
+
+  des substances et des préparations qui dépassent les valeurs suivantes:
+
+  - 1\. une teneur en PFOA ou en sels de ceux-ci de 0,0000025 % masse (25 ppb), ou
+  - 2\. une teneur en une substance apparentée aux PFOA ou en substances totales apparentées aux PFOA de 0,0001 % masse (1000 ppb).
+
+<sup>2</sup> Il est interdit de mettre sur le marché des objets ou des composants d’objets s’ils dépassent les valeurs suivantes:
+
+- a. une teneur en PFOA et en sels de ceux-ci de 0,0000025 % masse (25 ppb), ou
+- b. une teneur en une substance apparentée aux PFOA ou en substances totales apparentées aux PFOA de 0,0001 % masse (1000 ppb).
+
+### 2.4 Exceptions
+
+<sup>1</sup> Les interdictions au sens du ch. 2.3, al. 1, ne s’appliquent pas:
+
+- a.
+
+  à la fabrication et à l’emploi d’une substance fluorée constituée d’une chaîne carbonée composée de six atomes ou moins, si:
+
+  - 1\. cette substance contient des PFOA, des sels de ceux-ci ou des substances apparentées aux PFOA en tant que sous-produits inévitables,
+  - 2\. cette substance est utilisée comme produit intermédiaire,
+  - 3\. lors de l’utilisation de cette substance, les émissions de PFOA, de sels de ceux-ci et de substances apparentées aux PFOA sont évitées selon l’état de la technique ou, si cela n’est pas possible, réduites autant que possible;
+
+- b. à la mise sur le marché d’une substance fluorée qui peut être fabriquée et employée en vertu de la let. a, pour un emploi comme produit intermédiaire;
+- c. à l’emploi d’une substance isolée apparentée aux PFOA dans un procédé de fabrication d’une substance fluorée au sens de la let. a, dans le but de transformer celle-ci en une substance non apparentée, si les émissions de substances apparentées aux PFOA sont évitées selon l’état de la technique ou, si cela n’est pas possible, réduites autant que possible au cours du procédé;
+- d. à la mise sur le marché d’une substance apparentée aux PFOA qui peut être employée en vertu de la let. c, dans le but de transformer celle-ci en une substance non apparentée.
+
+<sup>2</sup> Les interdictions au sens du ch. 2.3, al. 1 et 2, ne s’appliquent pas aux objets suivants ni aux substances et préparations nécessaires à leur fabrication:
+
+- a. semi-conducteurs produits par procédé photolithographique et semi-conducteurs composés produits par procédé de gravure, en tant que tels ou comme composants d’objets;
+- b. revêtements appliqués dans la photographie aux films, aux papiers ou aux clichés d’impression;
+- c. dispositifs médicaux implantables et composants de ceux-ci.
+
+<sup>3</sup> Les interdictions au sens du ch. 2.3, al. 1 et 2, ne s’appliquent pas non plus lorsque les buts visés relèvent de l’analyse ou de la recherche.
 
 ### 3**** Fluoroalkylsilanols et leurs dérivés
 
@@ -2144,6 +2226,42 @@ Sont considérées comme acide perfluorooctane sulfonique et ses dérivés (SPFO
 <sup>1</sup> Les emballages des préparations soumises à l’interdiction au sens du ch. 4.2 doivent porter les mentions «Réservé aux utilisateurs professionnels» et «Mortel par inhalation».
 
 <sup>2</sup> Ces mentions doivent être rédigées en deux langues officielles au moins et être bien lisibles et indélébiles.
+
+### 4**** Dispositions transitoires
+
+[^annex116-lvlu1-lvl4-1]
+
+[^annex116-lvlu1-lvl4-1]: En vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+<sup>1</sup> Les interdictions au sens du ch. 2.3, al. 1 et 2, ne s’appliquent pas:
+
+- a. aux objets suivants, s’ils ont été mis sur le marché pour la première fois avant la date mentionnée, ainsi qu’aux substances et préparations nécessaires à la fabrication de ces objets:
+
+<table>
+<tr><th>Produit</th><th>Date</th></tr>
+<tr><td>Équipements utilisés pour la fabrication de semi-conducteurs</td><td>1<sup>er</sup> juin 2023</td></tr>
+<tr><td>Produits imprimés contenant des encres d’impression au latex</td><td>1<sup>er</sup> juin 2023</td></tr>
+<tr><td>Textiles de vêtements de protection des travailleurs</td><td>1<sup>er</sup> juin 2024</td></tr>
+<tr><td>Membranes destinées aux textiles médicaux, à la filtration pour le traitement de l’eau, aux processus de production et au traitement des effluents, ainsi qu’objets incluant de telles membranes</td><td>1<sup>er</sup> juin 2024</td></tr>
+<tr><td>Objets contenant des nano-revêtements au plasma</td><td>1<sup>er</sup> juin 2024</td></tr>
+<tr><td>Dispositifs médicaux non implantables et composants de ceux‑ci</td><td>4 juillet 2032</td></tr>
+</table>
+
+- b. à tous les autres objets qui ont été mis sur le marché pour la première fois avant le 1<sup>er</sup> juin 2021.
+
+<sup>2</sup> Les interdictions au sens du ch. 2.3, al. 1, ne s’appliquent pas à l’emploi de mousses anti-incendie qui ont été mises sur le marché avant le 1<sup>er</sup> juin 2021.
+
+<sup>3</sup> Jusqu’au 1<sup>er</sup> juin 2024, les interdictions au sens du ch. 2.3, al. 1, ne s’appliquent pas:
+
+- a.
+
+  à la fabrication de polytétrafluoroéthylène (PTFE), si:
+
+  - 1\. certaines propriétés moléculaires sont obtenues à l’aide d’un traitement par rayonnement électromagnétique à haute énergie dont la dose absorbée est comprise entre 25 et 400 kilograys,
+  - 2\. les PFOA, leurs sels et leurs substances apparentées qui sont produits lors du traitement au sens du ch. 1 constituent des sous-produits inévitables et leur concentration totale ne dépasse pas 0,0001 % masse (1 ppm);
+
+- b. à la mise sur le marché de PTFE qui peut être fabriqué en vertu de la let. a à des fins d’élimination des PFOA, de leurs sels et de leurs substances apparentées;
+- c. à l’emploi de PTFE qui peut être fabriqué en vertu de la let. a et mis sur le marché en vertu de la let. b, si les émissions de PFOA, de leurs sels et de leurs substances apparentées sont évitées en fonction de l’état de la technique ou, si cela n’est pas possible, réduites autant que possible.
 
 Annexe 1.17*[^t-18]*
 
@@ -2238,7 +2356,7 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 <tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylène (Musc-xylène) N<sup>o</sup> CE: 201-329-4 N<sup>o</sup> CAS: 81-15-2</td><td>vPvB</td><td>21 août 2014</td><td>–</td><td>–</td></tr>
 <tr><td>2.</td><td>4,4’-Diaminodiphénylméthane (MDA) N<sup>o</sup> CE: 202-974-4 N<sup>o</sup> CAS: 101-77-9</td><td>Cancérogène (de catégorie 1B)</td><td>21 août 2014</td><td>–</td><td>–</td></tr>
 <tr><td>3.</td><td>*…*</td><td>*…*</td><td>*…*</td><td>*…*</td><td>*…*</td></tr>
-<tr><td>4.</td><td>Phtalate de bis (2-éthylhexyle) (DEHP) N<sup>o</sup> CE: 204-211-0 N<sup>o</sup> CAS: 117-81-7</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>Emploi dans les conditionnements primaires des médicaments couverts par le règlement (CE) n<sup>o</sup> 726/2004[^annex117-lvlu1-lvl5-1], la directive 2001/82/CE[^annex117-lvlu1-lvl5-2] et/ou la directive 2001/83/CE[^annex117-lvlu1-lvl5-3].</td><td></td></tr>
+<tr><td>4.</td><td>Phtalate de bis (2‑éthylhexyle) (DEHP) N<sup>o</sup> CE: 204-211-0 N<sup>o</sup> CAS: 117-81-7</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>Emploi dans les conditionnements primaires des médicaments couverts par le règlement (CE) n<sup>o</sup> 726/2004[^annex117-lvlu1-lvl5-1], la directive 2001/82/CE[^annex117-lvlu1-lvl5-2] et/ou la directive 2001/83/CE[^annex117-lvlu1-lvl5-3].</td><td></td></tr>
 <tr><td>5.</td><td>Phtalate de benzyle et de butyle (BBP) N<sup>o</sup> CE: 201-622-7 N<sup>o</sup> CAS.: 85-68-7</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>Emploi dans les conditionnements primaires des médicaments couverts par le règlement (CE) n<sup>o</sup> 726/2004, la directive 2001/82/CE et/ou la directive 2001/83/CE</td><td></td></tr>
 <tr><td>6.</td><td>Phtalate de dibutyle (DBP) N<sup>o</sup> CE: 201-557-4 N<sup>o</sup> CAS: 84-74-2</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>Emploi dans les conditionnements primaires des médicaments couverts par le règlement (CE) n<sup>o</sup> 726/2004, la directive 2001/82/CE et/ou la directive 2001/83/CE</td><td></td></tr>
 <tr><td>7.</td><td>Phtalate de diisobutyle (DIBP) N<sup>o</sup> CE: 201-553-2 N<sup>o</sup> CAS: 84-69-5</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 février 2015</td><td>–</td><td>–</td></tr>
@@ -2247,24 +2365,24 @@ La mise sur le marché à des fins d’emploi des substances énumérées au ch.
 <tr><td>10.</td><td>Chromate de plomb N<sup>o</sup> CE: 231-846-0 N<sup>o</sup> CAS: 7758-97-6</td><td>Cancérogène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1A)</td><td>21 mai 2015</td><td>–</td><td>–</td></tr>
 <tr><td>11.</td><td>Jaune de sulfochromate de plomb (C.I. Pigment Yellow 34) N<sup>o</sup> CE: 215-693-7 N<sup>o</sup> CAS: 1344-37-2</td><td>Cancérogène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1A)</td><td>21 mai 2015</td><td>–</td><td>–</td></tr>
 <tr><td>12.</td><td>Rouge de chromate, de molybdate et de sulfate de plomb (C.I. Pigment Red 104) N<sup>o</sup> CE: 235-759-9 N<sup>o</sup> CAS: 12656-85-8</td><td>Cancérogène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1A)</td><td>21 mai 2015</td><td></td><td></td></tr>
-<tr><td>13.</td><td>Phosphate de tris (2-chloroéthyle) (TCEP) N<sup>o</sup> CE: 204-118-5 N<sup>o</sup> CAS: 115-96-8</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 août 2015</td><td></td><td></td></tr>
-<tr><td>14.</td><td>2,4-dinitrotoluène (2,4-DNT) N<sup>o</sup> CE: 204-450-0 N<sup>o</sup> CAS: 121-14-2</td><td>Cancérogène (de catégorie 1B)</td><td>21 août 2015</td><td></td><td></td></tr>
+<tr><td>13.</td><td>Phosphate de tris (2‑chloroéthyle) (TCEP) N<sup>o</sup> CE: 204-118-5 N<sup>o</sup> CAS: 115-96-8</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>21 août 2015</td><td></td><td></td></tr>
+<tr><td>14.</td><td>2,4-dinitrotoluène (2,4‑DNT) N<sup>o</sup> CE: 204-450-0 N<sup>o</sup> CAS: 121-14-2</td><td>Cancérogène (de catégorie 1B)</td><td>21 août 2015</td><td></td><td></td></tr>
 <tr><td>15.</td><td>Trichloroéthylène N<sup>o</sup> CE: 201-167-4 N<sup>o</sup> CAS: 79-01-6</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> décembre 2019</td><td>–</td><td>–</td></tr>
 <tr><td>16.</td><td>Trioxyde de chrome N<sup>o</sup> CE: 215-607-8 N<sup>o</sup> CAS: 1333-82-0</td><td>Cancérogène (de catégorie 1A) Mutagène (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
 <tr><td>17.</td><td>Acides générés à partir du trioxyde de chrome et leurs oligomères Groupe comprenant: Acide chromique N<sup>o</sup> CE: 231-801-5 N<sup>o</sup> CAS: 7738-94-5 Acide dichromique N<sup>o</sup> CE: 236-881-5 N<sup>o</sup> CAS: 13530-68-2 Oligomères de l’acide chromique et de l’acide dichromique N<sup>o</sup> CE: non encore attribué N<sup>o</sup> CAS: non encore attribué</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
 <tr><td>18.</td><td>Dichromate de sodium N<sup>o</sup> CE: 234-190-3 N<sup>os</sup> CAS: 7789-12-0 10588-01-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>Emploi dans des procédés, dans la mesure où le chrome présent dans les produits finaux ne l’est pas sous forme hexavalente</td><td>–</td></tr>
-<tr><td>19.</td><td>Dichromate de potassium N<sup>o</sup> CE: 231-906-6 N<sup>o</sup> CAS: 7778-50-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
+<tr><td>19.</td><td>Dichromate de potassium N<sup>o</sup> CE: 231‑906-6 N<sup>o</sup> CAS: 7778-50-9</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
 <tr><td>20.</td><td>Dichromate d’ammonium N<sup>o</sup> CE: 232-143-1 N<sup>o</sup> CAS: 7789-09-5</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
 <tr><td>21.</td><td>Chromate de potassium N<sup>o</sup> CE: 232-140-5 N<sup>o</sup> CAS: 7789-00-6</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
 <tr><td>22.</td><td>Chromate de sodium N<sup>o</sup> CE: 231-889-5 N<sup>o</sup> CAS: 7775-11-3</td><td>Cancérogène (de catégorie 1B) Mutagène (de catégorie 1B) Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> <sup>juin</sup> 2021</td><td>–</td><td>–</td></tr>
 <tr><td>23.</td><td>Formaldéhyde, produits de réaction oligomères avec l’aniline (MDA technique) N<sup>o</sup> CE: 500-036-1 N<sup>o</sup> CAS: 25214-70-4</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> novembre 2021</td><td>–</td><td>–</td></tr>
 <tr><td>24.</td><td>Acide arsénique N<sup>o</sup> CE: 231-901-9 N<sup>o</sup> CAS: 7778-39-4</td><td>Cancérogène (de catégorie 1A)</td><td>1<sup>er</sup> novembre 2021</td><td>–</td><td>–</td></tr>
-<tr><td>25.</td><td>Éther de bis(2-méthoxyéthyle) (diglyme) N<sup>o</sup> CE: 203-924-4 N<sup>o</sup> CAS: 111-96-6</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> novembre 2021</td><td>–</td><td>–</td></tr>
-<tr><td>26.</td><td>1,2-dichloroéthane (DCE) N<sup>o</sup> CE: 203-458-1 N<sup>o</sup> CAS: 107-06-2</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> février 2022</td><td>–</td><td>–</td></tr>
-<tr><td>27.</td><td>2,2′-dichloro-4,4′-méthylènedianiline (MOCA) N<sup>o</sup> CE: 202-918-9 N<sup>o</sup> CAS: 101-14-4</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> février 2022</td><td>–</td><td>–</td></tr>
-<tr><td>28.</td><td>Tri(chromate) de dichrome N<sup>o</sup> CE: 246-356-2 N<sup>o</sup> CAS: 24613-89-6</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> avril 2023</td><td>–</td><td>–</td></tr>
+<tr><td>25.</td><td>Éther de bis(2-méthoxyéthyle) (diglyme) N<sup>o</sup> CE: 203‑924-4 N<sup>o</sup> CAS: 111-96-6</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>1<sup>er</sup> novembre 2021</td><td>–</td><td>–</td></tr>
+<tr><td>26.</td><td>1,2-dichloroéthane (DCE) N<sup>o</sup> CE: 203‑458-1 N<sup>o</sup> CAS: 107-06-2</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> février 2022</td><td>–</td><td>–</td></tr>
+<tr><td>27.</td><td>2,2′-dichloro-4,4′-méthylènedianiline (MOCA) N<sup>o</sup> CE: 202‑918-9 N<sup>o</sup> CAS: 101-14-4</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> février 2022</td><td>–</td><td>–</td></tr>
+<tr><td>28.</td><td>Tri(chromate) de dichrome N<sup>o</sup> CE: 246‑356-2 N<sup>o</sup> CAS: 24613-89-6</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> avril 2023</td><td>–</td><td>–</td></tr>
 <tr><td>29.</td><td>Chromate de strontium N<sup>o</sup> CE: 232-142-6 N<sup>o</sup> CAS: 7789-06-2</td><td>Cancérogène (de catégorie 1B)</td><td>1<sup>er</sup> avril 2023</td><td>–</td><td>–</td></tr>
-<tr><td>30.</td><td>Hydroxyoctaoxodizincatédichromate de potassium N<sup>o</sup> CE: 234-329-8 N<sup>o</sup> CAS: 11103-86-9</td><td>Cancérogène (de catégorie 1A)</td><td>1<sup>er</sup> avril 2023</td><td>–</td><td>–</td></tr>
+<tr><td>30.</td><td>Hydroxyoctaoxodizincatédichromate de potassium N<sup>o</sup> CE: 234‑329-8 N<sup>o</sup> CAS: 11103-86-9</td><td>Cancérogène (de catégorie 1A)</td><td>1<sup>er</sup> avril 2023</td><td>–</td><td>–</td></tr>
 <tr><td>31.</td><td>Chromate octahydroxyde de pentazinc N<sup>o</sup> CE: 256-418-0 N<sup>o</sup> CAS: 49663-84-5</td><td>Cancérogène (de catégorie 1A)</td><td>1<sup>er</sup> avril 2023</td><td>–</td><td>–</td></tr>
 <tr><td>32.</td><td>1-Bromopropane (bromure de n-propyle) N<sup>o</sup> CE: 203-445-0 N<sup>o</sup> CAS: 106-94-5</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>33.</td><td>Phtalate de diisopentyle N<sup>o</sup> CE: 210-088-4 N<sup>o</sup> CAS: 605-50-5</td><td>Toxique pour la reproduction (de catégorie 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
@@ -2561,9 +2679,9 @@ Annexe 2.2*[^t-21]*
 
 (art. 3)
 
-## Produits de nettoyage et désodorisants
+## Produits de nettoyage, désodorisants et produits cosmétiques
 
-[^t-21]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. I de l’O du 13 fév. 2008 ([RO 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), l’annexe ch. 2 de l’O du 14 janv. 2009 ([RO 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), le ch. I de l’O de l’OFEV du 19 oct. 2009 ([RO 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) et le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Erratum du 20 juin 2017 ([RO 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)).
+[^t-21]: Mise à jour par le ch. I 3 de l’O du 15 déc. 2006 ([RO 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), le ch. I de l’O du 13 fév. 2008 ([RO 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), l’annexe ch. 2 de l’O du 14 janv. 2009 ([RO 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), le ch. I de l’O de l’OFEV du 19 oct. 2009 ([RO 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), le ch. I 6 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), l’erratum du 20 juin 2017 ([RO 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)) et le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Définition
 
@@ -2610,6 +2728,8 @@ Annexe 2.2*[^t-21]*
 <sup>4</sup> Il est interdit de mettre sur le marché des désodorisants destinés à être utilisés dans des toilettes, des logements privés, des bureaux ou d’autres locaux accessibles au public si leur teneur en 1,4-dichlorobenzène (n<sup>o</sup> CAS 106-46-7) est égale ou supérieure à 1 % masse.
 
 <sup>5</sup> Il est interdit d’employer du 1,4-dichlorobenzène aux fins mentionnées à l’al. 4.
+
+<sup>6</sup> Il est interdit de mettre sur le marché des produits cosmétiques rinçables dont la teneur en octaméthylcyclotétrasiloxane (D4, n<sup>o</sup> CAS 556-67-2) ou en décaméthylcyclopentasiloxane (D5, n<sup>o</sup> CAS 541-02-6) est égale ou supérieure à 0,1 % masse.
 
 [^annex22-lvlu1-lvl2-1]: JOCE L 104 du 8.4.2004, p. 1, modifiée en dernier lieu par le Règlement (CE) n<sup>o</sup> 551/2009 de la Commission, du 25 juin 2009 (JOCE L 164 du 26.6.2009, p. 3). Les textes des actes de l’UE mentionnés dans la présente annexe peuvent être retirés contre acquittement des frais ou consultés gratuitement auprès de l’organe de réception des notifications, 3003 Berne; ils peuvent également être téléchargés à l’adresse www.cheminfo.ch.
 [^annex22-lvlu1-lvl2-2]: Union internationale de chimie pure et appliquée.
@@ -2695,7 +2815,7 @@ Annexe 2.2*[^t-21]*
 
 - d. chaque composant doit être indiqué avec sa désignation chimique ou la dénomination de l’UICPA, son numéro CAS et, si elles existent, la dénomination de l’INCI[^annex22-lvlu1-lvl5-1] ainsi que celle de la pharmacopée suisse ou européenne. Les impuretés ne sont pas considérées comme des composants.
 
-[^annex22-lvlu1-lvl5-1]: Nomenclature internationale des ingrédients des produits de beauté (*International Nomenclature of Cosmetic Ingredients*).
+[^annex22-lvlu1-lvl5-1]: Nomenclature internationale des ingrédients des produits de beauté (*International N**o**menclature of Cosmetic Ingredients*).
 
 ### 6 Exceptions
 
@@ -2712,7 +2832,7 @@ Annexe 2.2*[^t-21]*
 
 <table>
 <tr><th>Nom (nomenclature de l’UICPA)</th><th>N° CE</th><th>N° CAS</th><th>Restrictions</th></tr>
-<tr><td>Alcools, Guerbet, C16-20, éthoxylés, éther n-butylique (7-8 EO)</td><td>Néant (polymère)</td><td>147993-59-7</td><td>Peuvent être utilisés dans les applications industrielles suivantes jusqu’au 27 juin 2019: – lavage de bouteilles, – nettoyage en place, – nettoyage des métaux</td></tr>
+<tr><td>Alcools, Guerbet, C16-20, éthoxylés, éther n-butylique (7‑8 EO)</td><td>Néant (polymère)</td><td>147993-59-7</td><td>Peuvent être utilisés dans les applications industrielles suivantes jusqu’au 27 juin 2019: – lavage de bouteilles, – nettoyage en place, – nettoyage des métaux</td></tr>
 </table>
 
 <sup>5</sup> L’OFEV adapte les dispositions de l’al. 4 aux modifications du Règlement (CE) n<sup>o</sup> 648/2004.
@@ -3730,7 +3850,7 @@ Annexe 2.9*[^t-28]*
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -3893,7 +4013,7 @@ Annexe 2.10*[^t-29]*
 - b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que
 - c. les mesures disponibles selon l’état de la technique pour éviter les émissions de fluide frigorigène ont été prises.
 
-<sup>3</sup> Les installations en cascade peuvent être mises sur le marché pour les réfrigérations, refroidissements, applications de refroidissement et distributions de chaleur mentionnés au ch. 2.1, al. 3, qui présentent à chaque fois une température d’évaporation inférieure à -50 °C, si:
+<sup>3</sup> Les installations en cascade peuvent être mises sur le marché pour les réfrigérations, refroidissements, applications de refroidissement et distributions de chaleur mentionnés au ch. 2.1, al. 3, qui présentent à chaque fois une température d’évaporation inférieure à ‑50 °C, si:
 
 - a. selon l’état de la technique, on ne connaît pas encore de substitut;
 - b. selon l’état de la technique, le fluide frigorigène stable dans l’air ayant l’impact le plus faible sur le climat a été choisi, et que

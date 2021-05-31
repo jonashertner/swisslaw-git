@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2021-03-01
+version: 2021-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° marzo 2021)
+del 18 maggio 2005 (Stato 1° giugno 2021) (Stato 1° giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -66,7 +66,7 @@ La presente ordinanza non si applica:
 [^1-4]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
 [^1-5]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)).
 [^1-6]: [RS 814.620](https://fedlex.data.admin.ch/eli/cc/2021/633)
-[^1-7]: Nuovo testo giusta l’all. 4 n. 45 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 (RU **2007** 1469).
+[^1-7]: Nuovo testo giusta l’all. 4 n. 45 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -395,7 +395,7 @@ Allegati*[^t-1]*
 ## 2 Disposizioni per gruppi di preparati e oggetti
 
 - 2\.1 Detersivi per tessili
-- 2\.2 Prodotti di pulizia e disodorizzanti
+- 2\.2 Prodotti di pulizia, disodorizzanti e cosmetici
 - 2\.3 Solventi
 - 2\.4 Biocidi
 - 2\.5 Prodotti fitosanitari
@@ -1091,7 +1091,7 @@ Nella domanda devono figurare:
 - b. la quantità e il potenziale di effetto serra delle sostanze stabili nell’aria impiegate non superano i livelli necessari, secondo lo stato della tecnica, per raggiungere lo scopo perseguito; e
 - c. le emissioni di sostanze stabili nell’aria durante l’intero ciclo di vita dell’impiego previsto sono mantenute al livello più basso possibile.
 
-[^annex15-lvlu1-lvl6-lvl62-1]: Questa norma può essere consultata gratuitamente o ottenuta dietro pagamento presso l’Associazione svizzera di normalizzione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex15-lvlu1-lvl6-lvl62-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
 
 ### 6.3 Autorizzazioni eccezionali
 
@@ -1161,7 +1161,7 @@ L’obbligo di notifica di cui al numero 7.1.1 capoverso 1 non si applica:
 - a. gli apparecchi e gli impianti contenenti oltre 1 kg di esafluoruro di zolfo in sistemi di pressione chiusi ermeticamente secondo la norma SN EN 62271-1:2008[^annex15-lvlu1-lvl7-lvl72-lvl722-1], se un firmatario di un accordo settoriale si fa carico dell’obbligo di notifica;
 - b. gli apparecchi e gli impianti che servono alla difesa nazionale.
 
-[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: Questa norma può essere consultata gratuitamente o ottenuta dietro pagamento presso l’Associazione svizzera di normalizzione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
 
 ### 7.3 Comunicazione di dati da parte dell’UFAM
 
@@ -1194,7 +1194,7 @@ Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A de
 [^annex15-lvlu1-lvl10-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex15-lvlu1-lvl10-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Allegato 1.6*[^t-7]*
+Allegato 1.6[^t-7]
 
 (art. 3)
 
@@ -1251,7 +1251,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, redatta in almeno due lingue ufficiali e conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1709,11 +1709,38 @@ I prodotti tessili che contengono sostanze secondo il numero 1.1 e che sono dest
 
 <sup>3</sup> L’allegato 2.18 si applica alle apparecchiature elettriche ed elettroniche contenenti DecaBDE.
 
-### 3 ...
+### 3**** Sali di ammonio inorganici
 
 [^annex19-lvlu1-lvl3-1]
 
-[^annex19-lvlu1-lvl3-1]: In vigore dal 1° giu. 2021 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex19-lvlu1-lvl3-1]: In vigore dal 1° gen. 2021 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 3.1 Divieto
+
+<sup>1</sup> I materiali isolanti in cellulosa in forma sfusa e gli oggetti contenenti materiali isolanti in cellulosa non possono essere immessi sul mercato o impiegati se contengono sali di ammonio inorganici, a meno che l’emissione di ammoniaca derivante dai materiali isolanti in cellulosa misurata in una camera di saggio nelle condizioni di prova di cui al capoverso 2 non produca una concentrazione inferiore a 3 ppm in volume (2,12 mg/m<sup>3</sup>).
+
+<sup>2</sup> La conformità con il valore limite di emissione di cui al capoverso 1 è dimostrata conformemente alla norma SN EN 16516: 2017[^annex19-lvlu1-lvl3-lvl31-1], con i seguenti criteri:
+
+- a. la durata della prova è di almeno 14 giorni;
+- b. l’emissione di gas di ammoniaca è misurata almeno una volta al giorno per l’intera durata della prova;
+- c. il valore limite di emissione indicato nel capoverso 1 non è raggiunto né superato in nessuna delle misurazioni effettuate durante la prova;
+- d. l’umidità relativa è del 90 per cento;
+- e. è utilizzato un metodo appropriato per misurare l’emissione di gas di ammoniaca;
+- f. il tasso di carico, espresso in spessore e densità, è registrato durante il campionamento dei materiali o degli oggetti isolanti in cellulosa da sottoporre a prova.
+
+[^annex19-lvlu1-lvl3-lvl31-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
+
+### 3.2 Deroga
+
+Il numero 3.1 capoverso 1 non si applica al materiale isolante in cellulosa in forma sfusa utilizzato per la fabbricazione di un oggetto per il quale viene dimostrato il rispetto del valore limite di emissione per l’ammoniaca di 3 ppm secondo il numero 2.1 capoverso 2.
+
+### 3.3 Etichettatura particolare
+
+Chi immette sul mercato materiale isolante in cellulosa in forma sfusa contenente sali di ammonio inorganici deve fornire agli acquirenti informazioni sul tasso di carico massimo consentito mediante un’etichetta o un’altra indicazione scritta equivalente.
+
+### 3.4 Osservazione delle indicazioni del responsabile dell’immissione sul mercato
+
+Chi utilizza materiale isolante in cellulosa contenente sali di ammonio inorganici non può superare il tasso di carico massimo consentito comunicato da chi ha immesso sul mercato il prodotto.
 
 ### 4 Disposizioni transitorie
 
@@ -1752,7 +1779,7 @@ Allegato 1.10*[^t-11]*
 
 ## Sostanze cancerogene, mutagene o pericolose per la riproduzione
 
-[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) e dal n. I dell’O dell’UFSP del 1° feb. 2021, in vigore dal 1° mar. 2021 ([RU 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
+[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) e dal n. I dell’O dell’UFSP del 1° feb. 2021, in vigore dal 1° mar. 2021 ([RU 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
 
 ### 1 Divieto
 
@@ -1853,7 +1880,7 @@ Sono considerati sostanze o preparati liquidi pericolosi i preparati liquidi con
 
 <sup>2</sup> Le lampade a olio decorative destinate al grande pubblico possono essere immesse sul mercato solo se conformi alle norma SN EN 14059:2002[^annex111-lvlu1-lvl4-1].
 
-[^annex111-lvlu1-lvl4-1]: Questa norma può essere consultata gratuitamente o ottenuta dietro pagamento presso l’Associazione svizzera di normalizzione (SNV), Sulzerstrasse 70, 8404 Winterthur; www.snv.ch.
+[^annex111-lvlu1-lvl4-1]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
 
 Allegato 1.12*[^t-13]*
 
@@ -1882,7 +1909,7 @@ Allegato 1.12*[^t-13]*
 
 [^annex112-lvlu1-lvl1-lvl12-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-### 2 Toluene
+### 2**** Toluene
 
 [^annex112-lvlu1-lvl2-1]
 
@@ -1957,7 +1984,7 @@ Allegato 1.14*[^t-15]*
   - 1\. stampi a una e due componenti vulcanizzati a temperatura ambiente (stampi RTV-2),
   - 2\. rivestimenti per pareti e pavimenti.
 
-### 1.3 Relazione con l’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso
+### 1.3 Relazione con l’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso
 
 [^annex114-lvlu1-lvl1-lvl13-1]
 
@@ -2119,13 +2146,72 @@ Sono considerati acido perfluorottano sulfonato e suoi derivati (PFOS) le sostan
 
 <sup>2</sup> I detentori di schiume antincendio immesse sul mercato prima del 1° agosto 2011 (n. 5), devono notificare entro il 30 aprile di ogni anno all’UFAM la quantità, in kg, di schiuma antincendio contenente PFOS a loro disposizione il 31 dicembre dell’anno precedente. La prima notifica deve fornire anche il nome della schiuma antincendio, del fabbricante come pure le indicazioni in suo possesso sul contenuto di massa di PFOS della schiuma antincendio.
 
-### 2 ...
-
-### 3 Fluoroalchilsilanoli e loro derivati
+### 2**** Acido perfluoroottanoico e sostanze correlate
 
 [^annex116-lvlu1-lvl3-1]
 
-[^annex116-lvlu1-lvl3-1]: In vigore dal 1° dic. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex116-lvlu1-lvl3-1]: In vigore dal 1° giu. 2021 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 2.1 Definizioni
+
+<sup>1</sup> Sono considerate sostanze correlate dell’acido perfluoroottanoico (PFOA, n. CAS 335-67-1), compresi i suoi sali e polimeri, le sostanze aventi, come uno degli elementi strutturali, un gruppo perfluoroeptil lineare o ramificato con la formula C<sub>7</sub>F<sub>15</sub> direttamente collegato a un altro atomo di carbonio e le sostanze aventi, come uno degli elementi strutturali, un gruppo perfluoroottil lineare o ramificato con la formula C<sub>8</sub>F<sub>17</sub>.
+
+<sup>2</sup> Il capoverso 1 non si applica:
+
+- a. alle sostanze con formula bruta C<sub>8</sub>F<sub>17</sub>X, dove X sta per: F, Cl o Br;
+- b. all’acido perfluorononanoico (n. CAS 375-95-1), ai suoi sali e ai suoi derivati con l’elemento strutturale C<sub>8</sub>F<sub>17</sub>(CO)OX, dove X sta per: qualsiasi gruppo;
+- c. agli altri composti fluorurati con l’elemento strutturale C<sub>8</sub>F<sub>17</sub>(CF<sub>2</sub>)X, dove X sta per: qualsiasi gruppo.
+
+### 2.2 Rapporto con il PFOS
+
+Per la fabbricazione, l’immissione sul mercato e l’impiego di PFOS come pure di preparati e oggetti contenenti PFOS si applica il numero 1.
+
+### 2.3 Divieti
+
+<sup>1</sup> Sono vietati la fabbricazione, l’immissione sul mercato e l’impiego di:
+
+- a. PFOA, i suoi sali e le sostanze correlate al PFOA,
+- b.
+
+  sostanze e preparati, se superano i seguenti valori:
+
+  - 1\. un contenuto in massa di PFOA e suoi sali dello 0,0000025 per cento (25 ppb), o
+  - 2\. un contenuto in massa di una sostanza correlata al PFOA o della somma di sostanze correlate al PFOA dello 0,0001 per cento (1000 ppb).
+
+<sup>2</sup> È vietata l’immissione sul mercato di oggetti e loro componenti, se superano i seguenti valori:
+
+- a. un contenuto in massa di PFOA e suoi sali dello 0,0000025 per cento (25 ppb); o
+- b. un contenuto in massa di una sostanza correlata al PFOA o della somma di sostanze correlate al PFOA dello 0,0001 per cento (1000 ppb).
+
+### 2.4 Deroghe
+
+<sup>1</sup> I divieti di cui al numero 2.3 capoverso 1 non si applicano:
+
+- a.
+
+  alla fabbricazione e all’impiego di una sostanza fluoro-sostituita con un numero di atomi di carbonio pari o inferiore a sei, se:
+
+  - 1\. contiene PFOA, suoi sali e sostanze correlate al PFOA come sottoprodotti inevitabili,
+  - 2\. è utilizzata come sostanza intermedia,
+  - 3\. durante l’uso di questa sostanza le emissioni di PFOA, dei suoi sali e delle sostanze correlate al PFOA sono evitate o, se ciò non è possibile, sono ridotte al minimo secondo lo stato della tecnica;
+
+- b. all’immissione sul mercato di una sostanza fluoro-sostituita che secondo la lettera a può essere fabbricata e usata per l’impiego come sostanza intermedia;
+- c. all’impiego di una sostanza isolata correlata al PFOA nel processo di fabbricazione di una sostanza fluoro-sostituita secondo la lettera a per trasformarla in una sostanza non correlata al PFOA, purché durante il processo le emissioni della sostanza correlata al PFOA siano evitate o, se ciò non è possibile, siano ridotte al minimo secondo lo stato della tecnica;
+- d. all’immissione sul mercato di una sostanza correlata al PFOA che può essere impiegata secondo la lettera c per trasformarla in una sostanza non correlata al PFOA.
+
+<sup>2</sup> I divieti di cui al numero 2.3 capoversi 1 e 2 non si applicano ai seguenti oggetti né alle sostanze né ai preparati necessari per la loro fabbricazione:
+
+- a. semiconduttori prodotti tramite un processo fotolitografico e semiconduttori composti prodotti tramite un processo di incisione, come tali o come componenti di oggetti;
+- b. rivestimenti fotografici applicati a pellicole, carta o lastre di stampa;
+- c. dispositivi medici impiantabili e loro componenti.
+
+<sup>3</sup> I divieti di cui al numero 2.3 capoversi 1 e 2 non si applicano inoltre per gli impieghi a scopo di analisi e ricerca.
+
+### 3**** Fluoroalchilsilanoli e loro derivati
+
+[^annex116-lvlu1-lvl4-1]
+
+[^annex116-lvlu1-lvl4-1]: In vigore dal 1° dic. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 3.1 Definizioni
 
@@ -2145,11 +2231,47 @@ Sono considerati acido perfluorottano sulfonato e suoi derivati (PFOS) le sostan
 
 <sup>2</sup> Le diciture devono essere scritte almeno in due lingue ufficiali, in modo ben leggibile e indelebile.
 
+### 4**** Disposizioni transitorie
+
+[^annex116-lvlu1-lvl4-2]
+
+[^annex116-lvlu1-lvl4-2]: In vigore dal 1° giu. 2021 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+<sup>1</sup> I divieti di cui al numero 2.3 capoversi 1 e 2 non si applicano:
+
+- a. ai seguenti oggetti immessi sul mercato per la prima volta prima delle date menzionate nonché alle sostanze e ai preparati necessari per la fabbricazione di questi oggetti:
+
+<table>
+<tr><th>Prodotto</th><th>Data</th></tr>
+<tr><td>Apparecchiature utilizzate per la fabbricazione di semiconduttori</td><td>1° giugno 2023</td></tr>
+<tr><td>Stampati contenenti inchiostri da stampa in lattice</td><td>1° giugno 2023</td></tr>
+<tr><td>Tessili per la sicurezza sul lavoro</td><td>1° giugno 2024</td></tr>
+<tr><td>Membrane destinate all’uso in tessuti medicali, filtraggio nel trattamento delle acque, processi di produzione e trattamento degli effluenti nonché oggetti con tali membrane</td><td>1° giugno 2024</td></tr>
+<tr><td>Oggetti contenenti nanorivestimenti al plasma</td><td>1° giugno 2024</td></tr>
+<tr><td>Dispositivi medici non impiantabili e loro componenti</td><td>4 luglio 2032</td></tr>
+</table>
+
+- b. a tutti gli altri oggetti immessi sul mercato per la prima volta prima del 1° giugno 2021.
+
+<sup>2</sup> I divieti di cui al n. 2.3 capoverso 1 non si applicano all’impiego di schiume antincendio immesse per la prima volta sul mercato prima del 1° giugno 2021.
+
+<sup>3</sup> I divieti di cui al numero 2.3 capoverso 1 non si applicano fino al 1° giugno 2024 per:
+
+- a.
+
+  la fabbricazione di politetrafluoroetilene (PTFE) se:
+
+  - 1\. determinate proprietà molecolari sono ottenute mediante trattamento con radiazioni elettromagnetiche ad alta energia con una dose assorbita di 25-400 chilogray,
+  - 2\. il PFOA, i suoi sali o i suoi precursori sono sottoprodotti inevitabili del trattamento di cui al capoverso 1 e il cui contenuto totale in massa non supera lo 0,0001 % (1 ppm);
+
+- b. l’immissione sul mercato del PTFE che può essere prodotto conformemente alla lettera a al fine di eliminare il PFOA, i suoi sali e i precursori del PFOA;
+- c. l’uso di PTFE prodotto conformemente alla lettera a e immesso sul mercato conformemente alla lettera b del presente capoverso se le emissioni di PFOA, dei suoi sali e dei precursori di PFOA sono evitate conformemente allo stato della tecnica o, se ciò non è possibile, ridotte al minimo.
+
 Allegato 1.17*[^t-18]*
 
 (art. 3)
 
-## Sostanze di cui all’allegato XIV del regolamento (CE) n. 1907/2006
+## Sostanze di cui all’allegato XIV del regolamento (CE) n. 1907/2006****
 
 [^annex117-lvlu1-1]
 
@@ -2264,6 +2386,10 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td>25.</td><td>Bis(2-metossietil) etere (diglime) n. CE 203‑924-4 n. CAS 111-96-6</td><td>Tossico per la riproduzione (categoria 1B)</td><td>1°novembre 2021</td><td>–</td><td>–</td></tr>
 <tr><td>26.</td><td>1,2-dicloroetano (EDC) n. CE 203‑458‑1 n. CAS 107-06-2</td><td>Cancerogeno (categoria 1B)</td><td>1° febbraio 2022</td><td>–</td><td>–</td></tr>
 <tr><td>27.</td><td>2,2'-dicloro-4,4'-metilendianilina (MOCA) n. CE 202 918-9 n. CAS 101-14-4</td><td>Cancerogeno (categoria 1B)</td><td>1° febbraio 2022</td><td>–</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>N. di registrazione</td><td>Sostanza</td><td>Proprietà intrinseche alla base dei divieti</td><td>Periodo di transizione</td><td>Impieghi o categorie di impiego esentati</td><td>Periodi di revisione</td></tr>
 <tr><td>28.</td><td>Tris(cromato) di dicromo n. CE 246‑356-2 n. CAS 24613-89-6</td><td>Cancerogeno (categoria 1B)</td><td>1°aprile 2023</td><td>–</td><td>–</td></tr>
 <tr><td>29.</td><td>Cromato di stronzio n. CE 232-142-6 n. CAS 7789-06-2</td><td>Cancerogeno (categoria 1B)</td><td>1° aprile 2023</td><td>–</td><td>–</td></tr>
 <tr><td>30.</td><td>Idrossiottaossodizincatodicromato di potassio n. CE 234‑329-8 n. CAS 11103-86-9</td><td>Cancerogeno (categoria 1A)</td><td>1° aprile 2023</td><td>–</td><td>–</td></tr>
@@ -2274,6 +2400,9 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td>35.</td><td>Acido 1,2- benzenedicarbossilico, esteri alchilici di-C7- 11-ramificati e lineari n. CE 271-084-6 n. CAS 68515-42-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>36.</td><td>Acido 1,2- benzendicarbossilico, dipentilestere, ramificato e lineare n. CE 284-032-2 n. CAS 84777-06-0</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>37.</td><td>Ftalato di bis(2-metossietile) n. CE 204-212-6 n. CAS 117-82-8</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
+</table>
+
+<table>
 <tr><th>N. di registrazione</th><th>Sostanza</th><th>Proprietà intrinseche alla base dei divieti</th><th>Periodo di transizione</th><th>Impieghi o categorie di impiego esentati</th><th>Periodi di revisione</th></tr>
 <tr><td>38.</td><td>Dipentilftalato n. CE 205-017-9 n. CAS 131-18-0</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>39.</td><td>N-pentilisopentilftalato n. CE — n. CAS 776297-69-9</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
@@ -2288,6 +2417,9 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td>48.</td><td>Perborato di sodio; acido perborico, sale di sodio n. CE 239-172-9; 234-390-0 n. CAS —</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
 <tr><td>49.</td><td>Perossometaborato di sodio n. CE 231-556-4 n. CAS 7632-04-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
 <tr><td>50.</td><td>5-sec-butil-2-(2,4-dimetilcicloes-3-en-1-il)-5- metil-1,3-diossano [1], 5-sec-butil-2-(4,6-dimetilcicloes-3-en-1-il)-5-metil-1,3-diossano [2] (comprendenti qualsiasi singolo stereoisomero di [1] e [2] o qualsiasi combinazione degli stessi) n. CE — n. CAS —</td><td>vPvB</td><td>2 maggio 2024</td><td>–</td><td>–</td></tr>
+</table>
+
+<table>
 <tr><td>N. di registrazione</td><td>Sostanza</td><td>Proprietà intrinseche alla base dei divieti</td><td>Periodo di transizione</td><td>Impieghi o categorie di impiego esentati</td><td>Periodi di revisione</td></tr>
 <tr><td>51.</td><td>2-(2H-benzotriazol-2-il)-4,6-diterzpentilfenolo (UV-328) n. CE 247-384-8 n. CAS 25973-55-1</td><td>PBT, vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
 <tr><td>52.</td><td>2,4-di-terz-butil-6- (5-clorobenzotriazol-2-il) fenolo (UV-327) n. CE 223-383-8 n. CAS 3864-99-1</td><td>vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
@@ -2357,7 +2489,7 @@ Allegato 1.18*[^t-19]*
 
 <sup>2</sup> Per l’immissione sul mercato di apparecchiature elettriche ed elettroniche contenenti ftalati si applica l’allegato 2.18.
 
-### 3 Relazione con l’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso (ODerr)
+### 3 Relazione con l’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso (ODerr)
 
 [^annex118-lvlu1-lvl3-1]
 
@@ -2565,9 +2697,9 @@ Allegato 2.2*[^t-21]*
 
 (art. 3)
 
-## Prodotti di pulizia e disodorizzanti
+## Prodotti di pulizia, disodorizzanti e cosmetici
 
-[^t-21]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I dell’O del 13 feb. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), dall’all. n. 2 dell’ O del 14 gen. 2009 ([RU 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), dal n. I dell’O dell’UFAM del 19 ott. 2009 ([RU 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) e dal n. II cpv. 2 dell’O del 1° lug. 2015, in vigore dal 1° set. 2016 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). Correzione del 20 giu. 2017 ([RU 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)).
+[^t-21]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I dell’O del 13 feb. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), dall’all. n. 2 dell’ O del 14 gen. 2009 ([RU 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), dal n. I dell’O dell’UFAM del 19 ott. 2009 ([RU 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 20 giu. 2017 ([RU 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)) e dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2021 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Definizione
 
@@ -2614,6 +2746,8 @@ Allegato 2.2*[^t-21]*
 <sup>4</sup> Disodorizzanti e deodoranti per l’ambiente, destinati all’uso in gabinetti, economie domestiche private, uffici e altri ambienti interni accessibili al pubblico, non possono essere immessi sul mercato se il loro contenuto in massa di 1,4 diclorobenzene (n. CAS 106-46-7) è pari o superiore all’1 per cento.
 
 <sup>5</sup> L’impiego di 1,4-diclorobenzene per scopi di cui al capoverso 4 è vietato.
+
+<sup>6</sup> Non possono essere immessi sul mercato prodotti cosmetici lavabili se il loro contenuto in massa di octametilciclotetrasilossano (D4, n. CAS 556-67-2) o di decametilciclopentasilossano (D5, n. CAS 541-02-6) è pari o superiore allo 0,1 per cento.
 
 [^annex22-lvlu1-lvl2-1]: GU L 104 dell’8/4/2004, pag. 1, modificato da ultimo dal regolamento (CE) n. 551/2009 della Commissione, del 25 giugno 2009 (GU L 164 del 26.6.2009, pag. 3). I testi degli atti giuridici dell’UE citati nel presente allegato possono essere ordinati contro pagamento o visionati gratuitamente presso l’Organo di notifica per i prodotti chimici, 3003 Berna, oppure consultati al sito internet www.cheminfo.ch.
 [^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
@@ -3734,7 +3868,7 @@ Allegato 2.9*[^t-28]*
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -3797,7 +3931,7 @@ Allegato 2.10*[^t-29]*
 
 <sup>9</sup> La surgelazione è il raffreddamento di derrate alimentari o merci deperibili con una temperatura utile inferiore a –25 °C.[^annex210-lvlu1-lvl1-3]
 
-<sup>10</sup> La capacità di raffreddamento di un impianto è la sua effettiva capacità di raffreddamento ai picchi di consumo e per un impianto progettato secondo lo stato della tecnica. [^annex210-lvlu1-lvl1-4]
+<sup>10</sup> La capacità di raffreddamento di un impianto è la sua effettiva capacità di raffreddamento ai picchi di consumo e per un impianto progettato secondo lo stato della tecnica.[^annex210-lvlu1-lvl1-4]
 
 [^annex210-lvlu1-lvl1-1]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 [^annex210-lvlu1-lvl1-2]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -3933,7 +4067,7 @@ Allegato 2.10*[^t-29]*
 <sup>9</sup> D’intesa con la SECO, l’UFAM può adeguare di conseguenza i capoversi 6 lettera a e 8 lettera b in caso di modifica delle norme ivi indicate.
 
 [^annex210-lvlu1-lvl2-lvl22-1]: In vigore dal 1° gen. 2020 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
-[^annex210-lvlu1-lvl2-lvl22-2]: Queste norme possono essere consultate gratuitamente o ottenute dietro pagamento presso l’Associazione svizzera di normalizzione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex210-lvlu1-lvl2-lvl22-2]: La norma può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
 
 ### 2.3 Obblighi del gestore e obblighi di informazione relativi alle deroghe
 
@@ -3984,20 +4118,16 @@ Chi manipola o utilizza prodotti refrigeranti o apparecchi o impianti che conten
 
 È vietata la ricarica di apparecchi o impianti con prodotti refrigeranti che impoveriscono lo strato di ozono.
 
-### 3.2.2**** Deroghe
-
-[^annex210-lvlu1-lvl3-lvl32-lvl322-1]
-
-[^annex210-lvlu1-lvl3-lvl32-lvl322-1]: Valido fino al 31 dic. 2029 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+### 3.2.2 Deroghe
 
 <sup>1</sup> Il divieto di cui al numero 3.2.1 non si applica alla ricarica di apparecchi che sono stati immessi sul mercato in base alla deroga di cui al numero 2.2 capoverso 6.
 
-<sup>2</sup> Qualora sia necessario per la sicurezza di una centrale nucleare o di un altro impianto particolarmente complesso, la deroga di cui all’allegato 2.10 numero 3.2.2 ORRPChim nella versione del 1° luglio 2015[^annex210-lvlu1-lvl3-lvl32-lvl322-2] può essere prorogata se:
+<sup>2</sup> Qualora sia necessario per la sicurezza di una centrale nucleare o di un altro impianto particolarmente complesso, la deroga di cui all’allegato 2.10 numero 3.2.2 ORRPChim nella versione del 1° luglio 2015[^annex210-lvlu1-lvl3-lvl32-lvl322-1] può essere prorogata se:
 
 - a. ragioni tecniche, aziendali ed economiche impediscono il rispetto del divieto entro i termini previsti; e
 - b. il richiedente ha acquistato prima del 1° gennaio 2015 la quantità di prodotto refrigerante contenente clorofluorocarburi rigenerati parzialmente alogenati prevista per l’eventuale ricarica.
 
-[^annex210-lvlu1-lvl3-lvl32-lvl322-2]: [RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
+[^annex210-lvlu1-lvl3-lvl32-lvl322-1]: [RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
 
 ### 3.3 Ricarica con prodotti refrigeranti stabili nell’aria
 
@@ -4006,6 +4136,10 @@ Chi manipola o utilizza prodotti refrigeranti o apparecchi o impianti che conten
 ### È vietata la ricarica con prodotti refrigeranti stabili nell’aria con un potenziale di effetto serra pari o superiore a 2500 in impianti con una capacità pari o superiore a 40 tonnellate di CO<sub>2</sub> equivalenti.
 
 ### 3.3.2 Deroghe
+
+[^annex210-lvlu1-lvlu4-lvl332-1]
+
+[^annex210-lvlu1-lvlu4-lvl332-1]: Valido fino al 31 dic. 2029 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 Il divieto di cui al numero 3.3.1 non si applica alla ricarica:
 

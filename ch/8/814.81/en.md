@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2021-03-01
+version: 2021-06-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210301-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210601-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 March 2021)
+of 18 May 2005 (Status as of 1 June 2021)
 
 The Swiss Federal Council,
 
@@ -398,7 +398,7 @@ Annexes*[^t-1]*
 ## 2 Provisions relating to groups of preparations and articles
 
 - 2\.1 Laundry detergents
-- 2\.2 Cleaning and deodorising and cosmetic products
+- 2\.2 Cleaning, deodorising and cosmetic products
 - 2\.3 Solvents
 - 2\.4 Biocidal products
 - 2\.5 Plant protection products
@@ -455,7 +455,7 @@ Annex 1.1*[^t-2]*
 <sup>1bis</sup> The prohibitions specified in Number 1 paragraph 1 letter b do not apply to substances and preparations, provided that:
 
 - a. their content of alkane C<sub>10</sub>–C<sub>13</sub>, chloro- does not exceed 1 % by mass;
-- b. their content brominated diphenyl ethers as specified in Number 3 letter d does not exceed 0.001 % by mass (10 mg/kg).
+- b. their content of brominated diphenyl ethers as specified in Number 3 letter d does not exceed 0.001 % by mass (10 mg/kg).
 
 <sup>2</sup> The prohibitions specified in Number 1 paragraph 1 letter b and paragraph 2 do not apply to articles and their components, provided that:
 
@@ -759,13 +759,13 @@ Any person wishing to import substances that deplete the ozone layer as specifie
   for each substance to be imported, the following information:
 
   - 1\. the chemical name according to an internationally recognised nomenclature,
-  - 2\. the customs tariff number according to the Annexes of the Federal Act of 9 October 1986[^annex14-lvlu1-lvl3-lvl33-lvl333-lvl334-1] on Customs Tariffs (CTA),
+  - 2\. the customs tariff number according to the Annexes of the Federal Act of 9 October 1986[^annex14-lvlu1-lvl3-lvl33-lvl334-1] on Customs Tariffs (CTA),
   - 3\. the intended quantity, expressed in kilograms per calendar year,
   - 4\. the intended uses.
 
 <sup>2</sup> The FOEN may request further information on the origin and intended use of the substances concerned.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl333-lvl334-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^annex14-lvlu1-lvl3-lvl33-lvl334-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
 ### 3.3.5 Decision
 
@@ -775,13 +775,13 @@ Any person wishing to import substances that deplete the ozone layer as specifie
 
 ### 3.3.6 Obligations relating to import and storage
 
-<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex14-lvlu1-lvl3-lvl33-lvl335-1] (CustA) must specify the number of the general import licence in the customs declaration.
+<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex14-lvlu1-lvl3-lvl33-lvl336-1] (CustA) must specify the number of the general import licence in the customs declaration.
 
 <sup>2</sup> At the request of the customs office, the person required to submit a declaration must submit a copy of the import licence as specified in Number 3.3.5 paragraph 1.
 
 <sup>3</sup> On storage in an open customs warehouse, in a warehouse for bulk goods or in a duty-free warehouse, the storer or depositor must enter the number of the import licence in an inventory record.
 
-[^annex14-lvlu1-lvl3-lvl33-lvl335-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex14-lvlu1-lvl3-lvl33-lvl336-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ### 4 Export
 
@@ -837,7 +837,7 @@ An export licence is granted on application, provided the export is to countries
 
 <sup>1</sup> The person required to submit a declaration under Article 26 CustA must specify the number of the export licence in the customs declaration.
 
-- [tab] <sup>2</sup> The person required to submit a declaration must submit a copy of the export licence with the customs declaration.
+<sup>2</sup> The person required to submit a declaration must submit a copy of the export licence with the customs declaration.
 
 <sup>3</sup> On removal from an open customs warehouse, a warehouse for bulk goods or a duty-free warehouse, the storer or depositor must enter the number of the export licence in an inventory record.
 
@@ -1253,7 +1253,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must appear in at least two official languages and comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1435,16 +1435,16 @@ The application must contain at least:
   for each substance and each preparation to be imported:
 
   - 1\. the chemical name in accordance with an internationally recognised nomenclature,
-  - 2\. the customs tariff number in accordance with the annexes to the CTA[^annex17-lvlu1-lvl2-1],
+  - 2\. the customs tariff number in accordance with the annexes to the CTA[^annex17-lvlu1-lvl1-lvl14-lvl144-1],
   - 3\. the intended use,
   - 4\. the intended import quantity in kilogrammes,
   - 5\. the confirmation specified in Number 1.4.3 letter b;
 
 - d. a certificate as specified in Number 1.4.3 letter c.
 
-### 1.4.5 Decision
+[^annex17-lvlu1-lvl1-lvl14-lvl144-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
 
-[^annex17-lvlu1-lvl2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+### 1.4.5 Decision
 
 <sup>1</sup> The FOEN decides within 30 days of having received all the necessary documents. It provides the import licence with a number.
 
@@ -1452,7 +1452,7 @@ The application must contain at least:
 
 ### 1.4.6 Obligations relating to import and storage
 
-<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex17-lvlu1-lvl2-lvl146-1] (CustA) must specify in the customs declaration:
+<sup>1</sup> The person required to submit a declaration under Article 26 of the Customs Act of 18 March 2005[^annex17-lvlu1-lvl1-lvl14-lvl146-1] (CustA) must specify in the customs declaration:
 
 - a. that the importation of mercury (CAS no 7439-97-6), a preparation with a mercury content of 95 % and more by mass, a mercury compound or an alloy of mercury is subject to authorisation in accordance with this Annex;
 - b. the number of the import licence.
@@ -1461,7 +1461,7 @@ The application must contain at least:
 
 <sup>3</sup> On storage in a customs bonded warehouse, in a customs warehouse for bulk goods or in a duty-free warehouse, the storer or depositor must enter the number of the import licence in an inventory record.
 
-[^annex17-lvlu1-lvl2-lvl146-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^annex17-lvlu1-lvl1-lvl14-lvl146-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ### 1.4.7 Retention requirement
 
@@ -1489,9 +1489,9 @@ Any person who wishes to export mercury (CAS No 7439-97-6) or preparations with 
 
 <sup>1</sup> An export licence shall be granted on application provided the mercury (CAS No 7439-97-6) or preparations with a mercury content of 95 % or more are intended for analysis and research purposes in the importing country and the FOEN has a certificate from the importing country confirming that the latter authorises the import.
 
-<sup>2</sup> If the export is made to a country that is not a signatory[^annex17-lvlu1-lvl3-lvl32-lvl322-1] to the Minamata Convention, an export licence shall only be granted if the FOEN also has a certificate from the importing country confirming that the latter has put measures in place to protect human health and the environment when handling mercury.
+<sup>2</sup> If the export is made to a country that is not a signatory[^annex17-lvlu1-lvl2-lvl22-lvl222-1] to the Minamata Convention, an export licence shall only be granted if the FOEN also has a certificate from the importing country confirming that the latter has put measures in place to protect human health and the environment when handling mercury.
 
-[^annex17-lvlu1-lvl3-lvl32-lvl322-1]: The list of the signatories can be found on the internet at the FOEN website under www.bafu.admin.ch &gt; Topics &gt; Chemicals &gt; Information for specialists &gt; Regulations and procedures &gt; Mercury.
+[^annex17-lvlu1-lvl2-lvl22-lvl222-1]: The list of the signatories can be found on the internet at the FOEN website under www.bafu.admin.ch &gt; Topics &gt; Chemicals &gt; Information for specialists &gt; Regulations and procedures &gt; Mercury.
 
 ### 2.2.3 Application
 
@@ -1547,9 +1547,9 @@ Prohibited is the use of:
 
 <sup>1</sup> On request, the FOEN, with the agreement of the FOPH, may grant temporary exemptions from the prohibition specified in Number 3.1 letter c if the mercury (CAS no 7439-97-6), the mercury compounds or the mercury-containing preparations are not be used for chlorine-alkali electrolysis or in the manufacture of acetaldehyde, vinyl chloride, sodium- or potassium-methylate or ethylate.
 
-<sup>2</sup> An authorisation granted within the meaning of paragraph 1 is subject to an authorisation granted on the basis of Number 2.2 paragraph 1 of this Annex in the version of 1 July 2015[^annex17-lvlu1-lvl4-lvl42-lvl321-1].
+<sup>2</sup> An authorisation granted within the meaning of paragraph 1 is subject to an authorisation granted on the basis of Number 2.2 paragraph 1 of this Annex in the version of 1 July 2015[^annex17-lvlu1-lvl3-lvl32-lvl321-1].
 
-[^annex17-lvlu1-lvl4-lvl42-lvl321-1]: [AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
+[^annex17-lvlu1-lvl3-lvl32-lvl321-1]: [AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)
 
 ### 3.2.2 Authorisation requirements
 
@@ -1667,7 +1667,7 @@ Annex 1.9*[^t-10]*
 
 ## Flame retardants
 
-[^t-10]: Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No I of the O of 17 April 2019, in force since 1 Dec. 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-10]: Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No I of the O of 17 April 2019, in force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Organophosphorus compounds
 
@@ -1706,11 +1706,34 @@ It is prohibited for the manufacturer to place on the market textiles containing
 
 <sup>3</sup> For electrical and electronic equipment that contains decaBDE, Annex 2.18 applies.
 
-### 3.**** …
+### 3 Inorganic ammonium salts
 
-[^annex19-lvlu1-lvl3-1]
+### 3.1 Prohibition
 
-[^annex19-lvlu1-lvl3-1]: In force from 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+<sup>1</sup> Bulk cellulose insulating materials and articles containing cellulose insulating materials may not be placed on the market and used if they contain inorganic ammonium salts unless the emission of ammonia from the insulating materials in a test chamber under the test conditions described in paragraph 2 results in a volume content of less than 3 ppm (2.12 mg/m<sup>3</sup>).
+
+<sup>2</sup> Compliance with the emission limit specified in paragraph 1 shall be demonstrated in accordance with Standard SN EN 16516:2017[^annex19-lvlu1-lvl3-lvl31-1] by the following measures:
+
+- a. the minimum test duration is 14 days;
+- b. the ammonia gas emission is measured at least once a day throughout the test;
+- c. the emission limit specified in paragraph 1 is not reached or exceeded in any measurement during the test;
+- d. the relative humidity amounts to 90 %;
+- e. a suitable method is used to measure the ammonia gas emission;
+- f. the loading rate, expressed in thickness and density, of the samples of the cellulose insulating materials to be tested and articles containing such cellulose insulating materials is recorded.
+
+[^annex19-lvlu1-lvl3-lvl31-1]: The standard may be inspected free of charge or obtained for a fee from the Swiss Association for Standardization (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+
+### 3.2 Exemption
+
+Number 3.1 paragraph 1 does not apply to loose cellulose insulating material used in the manufacture of an article for which compliance with the emission limit for ammonia of 3 ppm is demonstrated in accordance with Number 2.1 paragraph 2.
+
+### 3.3 Special labelling
+
+Any person who places a cellulose insulating material containing inorganic ammonium salts on the market in bulk form must inform the purchaser, on a label or in another equivalent written form, of the maximum permissible loading rate of the insulating material.
+
+### 3.4 Compliance with the specifications of the person placing the material on the market
+
+Any person using a cellulose insulating material containing inorganic ammonium salts must not exceed the maximum permissible loading rate specified by the person placing the material on the market.
 
 ### 4 Transitional provisions
 
@@ -1749,7 +1772,7 @@ Annex 1.10*[^t-11]*
 
 ## Substances classified as carcinogenic, mutagenic or toxic to reproduction
 
-[^t-11]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, in force from 15 Dec. 2020 until 1 June 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) and by No I of the O of FOPH of 1 Feb. 2021, in force from 1 March 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
+[^t-11]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No. II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, in force from 15 Dec. 2020 until 1 June 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) and by No I of the O of 1 Feb. 2021, in force since 1 March 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
 
 ### 1 Prohibition
 
@@ -2076,7 +2099,7 @@ Annex 1.16*[^t-17]*
 
 ## Per- and polyfluoroalkyl substances
 
-[^t-17]: Inserted by No I 4 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No I of the O of 17 April 2019, in force since 1 Dec. 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-17]: Inserted by No I 4 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Perfluorooctane sulfonic acid and its derivatives
 
@@ -2115,23 +2138,78 @@ Annex 1.16*[^t-17]*
 
 <sup>2</sup> Owners of fire-fighting foams that were placed on the market before 1 August 2011 (Number 5) must report to the FOEN each year, by 30 April, the amount of fire‑fighting foam containing PFOS, expressed in kilograms, held on 31 December of the previous year. The first report must also include the name of the fire-fighting foam, the name of the manufacturer and available data on the concentration of PFOS, by mass, in the fire-fighting foam.
 
-### 2**** ...
+### 2**** Perfluorooctanoic acid and precursor compounds
 
-[^annex116-lvlu1-lvl3-1]
+[^annex116-lvlu1-lvl2-1]
 
-[^annex116-lvlu1-lvl3-1]: In force from 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex116-lvlu1-lvl2-1]: In force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+### 2.1 Definitions
+
+<sup>1</sup> Precursor compounds, including their salts and polymers, of perfluorooctanoic acid (PFOA, CAS No 335-67-1) are substances with a linear or branched perfluoroheptyl group with the formula C<sub>7</sub>F<sub>15</sub> in direct combination with a further carbon atom as structural element, and substances with a linear or branched perfluorooctyl group with the formula C<sub>8</sub>F<sub>17</sub> as a structural element.
+
+<sup>2</sup> Paragraph 1 does not apply to:
+
+- a. substances with the molecular formula C<sub>8</sub>F<sub>17</sub>X, where X = F, Cl or Br;
+- b. perfluoronanoic acid (CAS-Nr. 375-95-1), its salts and derivatives with the structural element C<sub>8</sub>F<sub>17</sub>(CO)OX, where X = any group;
+- c. other fluorinated compounds with the structural element C<sub>8</sub>F<sub>17</sub>(CF<sub>2</sub>)X, where X = any group.
+
+### 2.2 Relationship with PFOS
+
+Number 1 applies to the manufacture, placing on the market and use of PFOS and of preparations and articles containing PFOS.
+
+### 2.3 Prohibitions
+
+<sup>1</sup> The manufacture, placing on the market and use of the following are prohibited:
+
+- a. PFOA, its salts and precursor compounds;
+- b.
+
+  Substances and preparations that exceed the following values:
+
+  - 1\. a content of PFOA and its salts of 0.0000025 per cent (25 ppb), or
+  - 2\. a content of a PFOA precursor compound or of the sum of PFOA precursor compounds of 0.0001 per cent. (1000 ppb).
+
+<sup>2</sup> It is prohibited to place articles or parts thereof on the market if they exceed the following values:
+
+- a. a content of PFOA and its salts of 0.0000025 per cent (25 ppb); or
+- b. a content of a PFOA precursor compound or of the sum of PFOA precursor compounds of 0.0001 per cent (1000 ppb).
+
+### 2.4 Exemptions
+
+<sup>1</sup> The prohibitions in Number 2.3 paragraph 1 do not apply to:
+
+- a.
+
+  the manufacture and use of a fluorine-substituted substance with a carbon chain containing not more than six atoms, if:
+
+  - 1\. it contains PFOA, its salts or PFOA precursor compounds as unavoidable by-products,
+  - 2\. it is used as an intermediate,
+  - 3\. when using this substance, emissions of PFOA, its salts and PFOA precursors are avoided according to the state of the art or, if this is not possible, are reduced to a minimum;
+
+- b. the placing on the market of a fluorine-substituted substance that may be manufactured and used in accordance with letter a for use as an intermediate;
+- c. the use of a PFOA precursor compound isolated in the manufacturing process of a fluorine-substituted substance according to letter a for the purpose of its conversion into a non-precursor compound, if in the process emissions of the PFOA precursor compound are avoided according to the state of the art or, if this is not possible, are reduced to a minimum;
+- d. the placing on the market of a PFOA precursor compound that may be used in accordance with letter c, for the purpose of its conversion into a non-precursor compound.
+
+<sup>2</sup> The prohibitions in accordance with Number 2.3 paragraphs 1 and 2 do not apply to the following articles and the substances and preparations required for their manufacture:
+
+- a. semiconductors manufactured by a photolithographic process and compound semiconductors manufactured by an etching process, as such and as components of articles;
+- b. photographic coatings of films, papers and printing plates;
+- c. implantable medical devices and their components.
+
+<sup>3</sup> The prohibitions in accordance with Number 2.3 paragraphs 1 and 2 do not apply for analysis and research purposes.
 
 ### 3**** Fluoroalkylsilanols and their derivatives
 
-[^annex116-lvlu1-lvl3-2]
+[^annex116-lvlu1-lvl3-1]
 
-[^annex116-lvlu1-lvl3-2]: In force since 1 Dec. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^annex116-lvlu1-lvl3-1]: In force since 1 Dec. 2020 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 3.1 Definitions
 
 <sup>1</sup> Fluoroalkylsilanols and their derivatives are substances with the structural element C<sub>6</sub>F<sub>13</sub>(C<sub>2</sub>H<sub>4</sub>)Si(OH)<sub>n</sub>(OX)<sub>3–n</sub> with 0 ≤ n ≤ 3, where X means any alkyl group.
 
-<sup>2</sup> Spray dispensers are aerosol dispensers, pump sprays und atomisers.
+<sup>2</sup> Spray dispensers are aerosol dispensers, pump sprays and atomisers.
 
 ### 3.2 Prohibitions
 
@@ -2144,6 +2222,42 @@ Annex 1.16*[^t-17]*
 <sup>1</sup> Packaging for preparations subject to the prohibition in Number 4.2 must be marked as follows: “For professional users only” and “May cause death if inhaled”.
 
 <sup>2</sup> This marking must appear in at least two official languages, be clearly legible and indelible.
+
+### 4**** Transitional provisions
+
+[^annex116-lvlu1-lvl4-1]
+
+[^annex116-lvlu1-lvl4-1]: In force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+
+<sup>1</sup> The prohibitions in accordance with Number 2.3 paragraphs 1 and 2 do not apply to:
+
+- a. the following articles that were placed on the market before the date specified, and to substances and preparations, required to manufacture these articles:
+
+<table>
+<tr><th>Product</th><th>Date</th></tr>
+<tr><td>Equipment for the production of semiconductors</td><td>1 June 2023</td></tr>
+<tr><td>Printed products containing latex inks</td><td>1 June 2023</td></tr>
+<tr><td>Occupational safety textiles</td><td>1 June 2024</td></tr>
+<tr><td>Membranes for medical textiles and for filtration in water treatment, in manufacturing processes and in waste water treatment, and articles containing such membranes</td><td>1 June 2024</td></tr>
+<tr><td>Articles containing plasma nanocoatings</td><td>1 June 2024</td></tr>
+<tr><td>Non-implantable medical devices and their components</td><td>4 July 2032</td></tr>
+</table>
+
+- b. any other articles that were placed on the market for the first time before 1 June 2021.
+
+<sup>2</sup> The prohibitions in accordance with Number 2.3 paragraph 1 do not apply to the use of fire-fighting foams that were placed on the market before 1 June 2021.
+
+<sup>3</sup> The prohibitions in accordance with Number 2.3 paragraph 1 do not apply until 1 June 2024 to:
+
+- a.
+
+  the production of polytetrafluoroethylene (PTFE) if:
+
+  - 1\. certain molecular properties are obtained by treatment with high-energy electromagnetic radiation of a absorbed dose of 25 to 400 kilogray,
+  - 2\. PFOA, its salts or PFOA precursor compounds are formed as unavoidable by-products in the treatment referred to in Number 1 and their total content does not exceed 0.0001 per cent (1 ppm);
+
+- b. the placing on the market of PTFE that may be manufactured in accordance with letter a, for the purpose of eliminating PFOA, its salts and PFOA precursor compounds;
+- c. the use of PTFE that may be manufactured in accordance with letter a and placed on the market in accordance with letter b, provided the emissions of PFOA, its salts and PFOA precursor are avoided according to the state of the art or, if this is not possible, are reduced to a minimum.
 
 Annex 1.17*[^t-18]*
 
@@ -2272,15 +2386,15 @@ It is prohibited to place on the market for use the substances listed in Number 
 <tr><td colspan="2">33.</td><td>Diisopentyl phthalate EC no: 210-088-4 CAS no: 605-50-5</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
 <tr><td colspan="2">34.</td><td>1,2-Benzenedicarboxylic acid, Di-C6-8-branched alkyl esters, C7 rich EC no: 276-158-1 CAS no: 71888-89-6</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
 <tr><td colspan="2">35.</td><td>1,2-Benzenedicarboxylic acid, Di-C7-11-branched and linear alkyl esters EC no: 271-084-6 CAS no: 68515-42-4</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">36.</td><td>1,2-Benzenedicarboxylic acid, Dipentylester, branched und linear EC no: 284-032-2 CAS no: 84777-06-0</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td colspan="2">36.</td><td>1,2-Benzenedicarboxylic acid, Dipentylester, branched and linear EC no: 284-032-2 CAS no: 84777-06-0</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
 <tr><td colspan="2">37.</td><td>Bis(2-methoxyethyl) phthalate EC no: 204-212-6 CAS no: 117-82-8</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
 <tr><td colspan="2">38.</td><td>Dipentylphthalate EC no: 205-017-9 CAS no: 131-18-0</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
 <tr><td colspan="2">39.</td><td>n-Pentyl-isopentylphthalate EC no: – CAS no: 776297-69-9</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
 <tr><td colspan="2">40.</td><td>Anthracene oil EC no: 292-602-7 CAS no: 90640-80-5</td><td colspan="2">Carcinogenic (category 1B), if the Benzo[a]pyrene content exceeds 0.005 %, PBT, vPvB</td><td colspan="2">2 February 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
 <tr><td colspan="2">41.</td><td>Pitch, coal tar, high temp. EC no: 266-028-2 CAS no: 65996-93-2</td><td colspan="2">Carcinogenic (category 1B), PBT, vPvB</td><td colspan="2">2 February 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">42.</td><td>4-(1,1,3,3-tetramethylbutyl) phenol, ethoxylated [includes clearly defined substances and UVCB substances, Polymere und homologe substances] EC no: – CAS no: –</td><td colspan="2">Endocrine disrupting properties</td><td colspan="2">2 May 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">43.</td><td>4-Nonylphenol, branched und linear, ethoxylated [substances with a linear and/or branched alkyl chain with a carbon number of 9, in which position 4 is covalently bonded to phenol, ethoxylated, including UVCB substances and clearly defined substances, polymers and homologous substances comprising the individual isomers and/or combinations thereof] EC no: – CAS no: –</td><td colspan="2">Endocrine disrupting properties</td><td colspan="2">2 May 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">44.</td><td>1,2-Benzenedicarboxylic acid, Dihexylester, branched und linear EC no: 271-093-5 CAS no: 68515-50-4</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">42.</td><td>4-(1,1,3,3-tetramethylbutyl) phenol, ethoxylated [includes clearly defined substances and UVCB substances, Polymere and homologe substances] EC no: – CAS no: –</td><td colspan="2">Endocrine disrupting properties</td><td colspan="2">2 May 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td colspan="2">43.</td><td>4-Nonylphenol, branched and linear, ethoxylated [substances with a linear and/or branched alkyl chain with a carbon number of 9, in which position 4 is covalently bonded to phenol, ethoxylated, including UVCB substances and clearly defined substances, polymers and homologous substances comprising the individual isomers and/or combinations thereof] EC no: – CAS no: –</td><td colspan="2">Endocrine disrupting properties</td><td colspan="2">2 May 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td colspan="2">44.</td><td>1,2-Benzenedicarboxylic acid, Dihexylester, branched and linear EC no: 271-093-5 CAS no: 68515-50-4</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="2">45.</td><td>Dihexylphthalate EC no: 201-559-5 CAS no: 84-75-3</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="2">46.</td><td>1,2-Benzenedicarboxylic acid, Di-C6-10- alkyl esters; 1,2-Benzenedicarboxylic acid, mixed decyl-, hexyl- and octyldiesters with ≥ 0.3 % dihexylphthalate (EC no: 201-559-5) EC no: 271-094-0; 272-013-1 CAS no: 68515-51-5; 68648-93-1</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="2">47.</td><td>Trixylylphosphate EC no: 246-677-8 CAS no: 25155-23-1</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 February 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
@@ -2566,9 +2680,9 @@ Annex 2.2*[^t-21]*
 
 (Art. 3)
 
-## Cleaning and deodorising products
+## Cleaning, deodorising and cosmetic products
 
-[^t-21]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I of the O of 13 Feb. 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), Annex No 2 of the O of 14 Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), No I of the FOEN Ordinance of 19 Oct. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)) and No II para. 2 of the O of 1 July 2015, in force since 1 Sept. 2016 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)). The correction of 20 June 2017 relates to the French and Italian texts only ([AS 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)).
+[^t-21]: Revised by No I 3 of the O of 15 Dec. 2006 ([AS 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), No I of the O of 13 Feb. 2008 ([AS 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), Annex No 2 of the O of 14 Jan. 2009 ([AS 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), No I of the FOEN Ordinance of 19 Oct. 2009 ([AS 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), No I 6 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) and No I of the O of 17 April 2019, in force since 1 June 2021 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 
 ### 1 Definition
 
@@ -2615,6 +2729,8 @@ Annex 2.2*[^t-21]*
 <sup>4</sup> Deodorising products and air fresheners intended for use in toilets, private homes, offices or other publicly accessible Interior spaces, may not be placed on the market, if their content of 1,4-Dichlorobenzene (CAS No 106-46-7) is 1 % or more by mass.
 
 <sup>5</sup> The use of 1,4-Dichlorobenzene for purposes set out in paragraph 4 is prohibited.
+
+<sup>6</sup> Wash-off cosmetic products may not be placed on the market if their content of octamethylcyclotetrasiloxane (D4, CAS-Nr. 556-67-2) or decamethylcyclopentasiloxane (D5, CAS-Nr. 541-02-6) amounts to 0.1 per cent or more.
 
 [^annex22-lvlu1-lvl2-1]: OJ L 104 of 8.4.2004, p.1, last amended by Regulation (EC) No 551/2009 of the Commission of 25 June 2009 (OJ L 164 of 26.6.2009, p. 3). The texts of the European Union legal documents mentioned in this Annex may be obtained against payment or consulted free of charge at the Chemicals Notification Authority, 3003 Bern; they may also be accessed on the Internet at www.cheminfo.ch.
 [^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
@@ -3590,9 +3706,9 @@ Annex 2.8*[^t-27]*
 
 ### 1 Definitions
 
-<sup>1</sup> *Cadmium-co**n**taining paints and varnishes* are paints and varnishes containing cadmium or cadmium compounds and with a cadmium content of 0.01% or more by mass.
+<sup>1</sup> *Cadmium-containing paints and varnishes* are paints and varnishes containing cadmium or cadmium compounds and with a cadmium content of 0.01% or more by mass.
 
-<sup>2</sup> *Lead-co**n**taining paints and varnishes* are paints and varnishes containing lead or lead compounds and with a lead content of 0.01% or more by mass.
+<sup>2</sup> *Lead-containing paints and varnishes* are paints and varnishes containing lead or lead compounds and with a lead content of 0.01% or more by mass.
 
 ### 2 Prohibitions
 
@@ -3736,7 +3852,7 @@ Annex 2.9*[^t-28]*
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210601/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass and intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
@@ -3785,7 +3901,7 @@ Annex 2.10*[^t-29]*
 
 <sup>2</sup> *Ozone-depleting refrigerants* are refrigerants containing substances that deplete the ozone layer (Annex 1.4).
 
-<sup>3</sup> *Refrige**r**ants stable in the atmosphere* are refrigerants containing substances stable in the atmosphere (Annex 1.5).
+<sup>3</sup> *Refrigerants stable in the atmosphere* are refrigerants containing substances stable in the atmosphere (Annex 1.5).
 
 <sup>4</sup> A *system* comprises all refrigeration circuits used for one and the same application: it may comprise one or more chillers. The term «chiller» refers to a compact cooling system with one or more refrigeration circuits.
 
@@ -3928,7 +4044,7 @@ Annex 2.10*[^t-29]*
 
 <sup>8</sup> On receipt of a justified request, the FOEN may grant an exemption to the prohibition specified in Number 2.1 paragraph 3 if:
 
-- a. according to the state of the art, it would not be possible to comply with the standards SN EN 378-1:2017, SN EN 378‑2:2017 und SN EN 378-3:2017[^annex210-lvlu1-lvl2-lvl22-2] without the use of a refrigerant which is stable in the atmosphere;
+- a. according to the state of the art, it would not be possible to comply with the standards SN EN 378-1:2017, SN EN 378‑2:2017 and SN EN 378-3:2017[^annex210-lvlu1-lvl2-lvl22-2] without the use of a refrigerant which is stable in the atmosphere;
 - b. according to the state of the art, the refrigerant stable in the atmosphere with the lowest impact on climate has been selected; and
 - c. state-of-the-art measures have been taken to prevent refrigerant emissions.
 
@@ -3953,7 +4069,7 @@ Annex 2.10*[^t-29]*
 
 - a. the text «Contains fluorinated greenhouse gases»;
 - b. the abbreviated chemical names for the substances contained or designed to be contained in the appliances or systems, using the industry nomenclature accepted for the area concerned;
-- c. the quantity of the substances expressed in kilograms und in tonnes of CO<sub>2</sub> equivalent, and the global warming potential of the refrigerant;
+- c. the quantity of the substances expressed in kilograms and in tonnes of CO<sub>2</sub> equivalent, and the global warming potential of the refrigerant;
 - d. the text «hermetically sealed», where applicable.
 
 <sup>3</sup> Manufacturers must label appliances and systems with the text «Foam blown with fluorinated greenhouse gases» if they:
