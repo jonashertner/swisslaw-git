@@ -3,13 +3,13 @@ canton: TG
 number: "187.221"
 title: Anstellungsrichtlinien der Evangelischen Synode des Kantons Thurgau für katechetisch und sozial-diakonisch Tätige der Kirchgemeinden
 language: de
-version: 2020-01-01
-valid_until: 2021-05-31
-version_adopted: 2019-06-24
+version: 2021-06-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-01
 adopted: 2003-11-24
 in_force: 2004-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.221"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1678/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1900/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1678/pdf_file"
 
 Anstellungsrichtlinien der Evangelischen Synode
 
-vom 24.11.2003 (Stand 01.01.2020)
+vom 24.11.2003 (Stand 01.06.2021)
 
 ## 1. Allgemeines
 
@@ -41,6 +41,12 @@ vom 24.11.2003 (Stand 01.01.2020)
 <sup>2</sup> Die Kirchenvorsteherschaft führt die Aufsicht und ist für die fachliche Begleitung besorgt.
 
 <sup>3</sup> Die Fachstellen der Landeskirche unterstützen die Kirchenvorsteherschaft dabei.
+
+#### § 2a
+
+**Sonderprivatauszug und Selbstverpflichtung**
+
+<sup>1</sup> Für alle im Geltungsbereich dieser Anstellungsrichtlinien aufgeführten anzustellenden Personen liegt ein Sonderprivatauszug und eine Selbstverpflichtung gemäss vom Kirchenrat vorgegebenem Text vor.
 
 #### § 3
 
@@ -136,10 +142,10 @@ vom 24.11.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Die Besoldung wird mit einer Pauschale pro Jahreslektion nach folgenden Ansätzen festgelegt::
 
-- 1\. Für Unterrichtende auf der Primarstufe — Fr. 3 100.–
-- 2\. Für Unterrichtende auf der Sekundarstufe I — Fr. 3 300.–
+- 1\. Für Unterrichtende auf der Primarstufe — Fr. 3'100
+- 2\. Für Unterrichtende auf der Sekundarstufe I — Fr. 3'300
 
-<sup>2</sup> Die Pauschale wird um Fr. 200.– reduziert bei Unterrichtenden in Ausbildung oder ohne Fachausweis Katechetik.
+<sup>2</sup> Die Pauschale wird um Fr. 200 reduziert bei Unterrichtenden in Ausbildung oder ohne Fachausweis Katechetik.
 
 <sup>3</sup> Die Pauschale wird während der ersten 12 Jahre durch einen Erfahrungszuschlag mit je 1 % des Anfangslohnes erhöht. Es zählen die Dienstjahre nach der abgeschlossenen Ausbildung.
 
@@ -163,8 +169,8 @@ vom 24.11.2003 (Stand 01.01.2020)
 
 <sup>3</sup> zusätzliche Projekte oder Intensivtage sind nach Aufwand und Verantwortlichkeit im Rahmen der folgenden Ansätze zu entschädigen:
 
-- 1\. Pro Halbtag — Fr. 150.– bis Fr. 200.–
-- 2\. Pro Tag — Fr. 250.– bis Fr. 330.–
+- 1\. Pro Halbtag — Fr. 150 bis Fr. 200
+- 2\. Pro Tag — Fr. 250 bis Fr. 330
 
 #### § 14
 
