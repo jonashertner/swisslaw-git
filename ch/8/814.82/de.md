@@ -4,11 +4,11 @@ title: "Verordnung vom 10. November 2004 zum Rotterdamer Übereinkommen über da
 short: ChemPICV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: de
-version: 2021-01-01
+version: 2021-06-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210101/de"
 
 (PIC-Verordnung, ChemPICV)
 
-vom 10. November 2004 (Stand am 1. Januar 2021)
+vom 10. November 2004 (Stand am 1. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -331,7 +331,7 @@ Anhang 1*[^t-1]*
 
 ## In der Schweiz verbotene oder strengen Beschränkungen unterliegende Stoffe
 
-[^t-1]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), Ziff. I der V vom 12. Febr. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) und Ziff. II der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)).
+[^t-1]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), Ziff. II der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. Jan. 2021, der Eintrag «Perfluoroctansäure, ihre Salze und Vorläuferverbindungen» in Kraft seit 1. Juni 2021 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)).
 
 Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich Stoffe oder Bestandteile von sehr gefährlichen Pestizidformulierungen, die dem PIC-Verfahren unterliegen (Anhang 2).
 
@@ -492,6 +492,7 @@ Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich
 <tr><td>Pentabromdiphenylether C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O #</td><td>32534-81-9</td><td>Industriechemikalie</td></tr>
 <tr><td>Pentachlorbenzol</td><td>608-93-5</td><td>Pestizid, Industriechemikalie</td></tr>
 <tr><td>Pentachlorphenol und seine Salze sowie Pentachlorphenoxyverbindungen #</td><td>87-86-5</td><td>Pestizid, Industriechemikalie</td></tr>
+<tr><td>Perfluoroctansäure, ihre Salze und Vorläuferverbindungen</td><td>335-67-1 und weitere</td><td>Industriechemikalie</td></tr>
 <tr><td>Perfluoroctansulfonate (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, Metallsalz (O<sup>–</sup>M<sup>+</sup>), Halide, Amide und andere Derivate, einschliesslich Polymere) #</td><td>1763-23-1 2795-39-3 und weitere</td><td>Industriechemikalie</td></tr>
 <tr><td>Permethrin</td><td>52645-53-1</td><td>Pestizid</td></tr>
 <tr><td>Perthan</td><td>72-56-0</td><td>Pestizid</td></tr>

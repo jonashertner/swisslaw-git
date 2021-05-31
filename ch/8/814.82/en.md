@@ -4,11 +4,11 @@ title: "Ordinance of 10 November 2004 on the Rotterdam Convention on the Prior I
 short: ChemPICO
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: en
-version: 2021-01-01
+version: 2021-06-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210601/en/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210601-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PIC Ordinance, ChemPICO)
 
-of 10 November 2004 (Status as of 1 January 2021)
+of 10 November 2004 (Status as of 1 June 2021)
 
 The Swiss Federal Council,
 
@@ -333,7 +333,7 @@ Annex 1*[^t-1]*
 
 ## Substances and preparations that are banned or subject to severe restrictions in Switzerland
 
-[^t-1]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the O of the BAFU of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), No I of the O of 12 Feb. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) and No II of the O of 14 Oct. 2020, in force since 1 Jan. 2021 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)).
+[^t-1]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the O of the BAFU of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), No I of the O of 12 Feb. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)), No II of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), and No I of the O of 12 Feb. 2020, in force since 1 Jan. 2021, the entry “Perfluorooctanoic acid, its salts and related compounds”, in force since 1 June 2021 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)).
 
 Substances marked with the symbol # in this Annex are also substances or components of severely hazardous pesticide formulations that are subject to the PIC procedure (Annex 2).
 
@@ -498,6 +498,7 @@ Substances marked with the symbol # in this Annex are also substances or compone
 <tr><td>Pentachlorobenzene</td><td>608-93-5</td><td>Pesticide, Industrial chemical</td></tr>
 <tr><td>Pentachlorophenol and its salts as well as pentachlorophenoxy compounds #</td><td>87-86-5</td><td>Pesticide, industrial chemical</td></tr>
 <tr><td>Perfluorooctane sulfonates (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers) #</td><td>1763-23-1 2795‑39-3 and other</td><td>Industrial chemical</td></tr>
+<tr><td>Perfluorooctanoic acid, its salts and related compounds</td><td>335-67-1 and others</td><td>Industrial chemical</td></tr>
 <tr><td>Permethrin</td><td>52645-53-1</td><td>Pesticide</td></tr>
 <tr><td>Perthane</td><td>72-56-0</td><td>Pesticide</td></tr>
 <tr><td>Phorate #</td><td>298-02-2</td><td>Pesticide</td></tr>

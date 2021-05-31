@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 2004 relative à la Convention de Rotterdam su
 short: OPICChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: fr
-version: 2021-01-01
+version: 2021-06-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210101/fr"
 
 (Ordonnance PIC, OPICChim)
 
-du 10 novembre 2004 (Etat le 1<sup>er</sup> janvier 2021)
+du 10 novembre 2004 (Etat le 1<sup>er</sup> juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -332,7 +332,7 @@ Annexe 1*[^t-1]*
 
 ## Substances interdites ou strictement réglementées en Suisse
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I de l’O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) et le ch. II de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I de l’O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), le ch. II de l’O du 14 oct. 2020 ([RO 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) et le ch. I de l’O du 12 fév. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, l’entrée «Acide pentadécafluorooctanoïque, ses sels et ses substances apparentées» entrant en vigueur le 1<sup>er</sup> juin 2021 ([RO 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)).
 
 Les substances suivies du symbole # sont simultanément des substances ou des composants de préparations pesticides extrêmement dangereuses soumises à la procédure PIC (annexe 2).
 
@@ -351,7 +351,7 @@ Les substances suivies du symbole # sont simultanément des substances ou des co
 <tr><td>4,4’-Diaminodiphénylméthane (MDA)</td><td>101-77-9</td><td>Produit à usage industriel</td></tr>
 <tr><td>4-Aminobiphényle et ses sels</td><td>92-67-1</td><td>Produit à usage industriel</td></tr>
 <tr><td>4-Nitrobiphényle</td><td>92-93-3</td><td>Produit à usage industriel</td></tr>
-<tr><td>5-tert-Butyl-2,4,6-trinitro-m-xylène (Musc-xylène)</td><td>81-15-2</td><td>Produit à usage industriel</td></tr>
+<tr><td>5-tert-Butyl-2,4,6-trinitro-m-xylène (Musc‑xylène)</td><td>81-15-2</td><td>Produit à usage industriel</td></tr>
 <tr><td>Acéphate</td><td>30560-19-1</td><td>Pesticide</td></tr>
 <tr><td>Acétochlore</td><td>34256-82-1</td><td>Pesticide</td></tr>
 <tr><td>Alachlore #</td><td>15972-60-8</td><td>Pesticide</td></tr>
@@ -493,6 +493,7 @@ Les substances suivies du symbole # sont simultanément des substances ou des co
 <tr><td>Pentabromodiphényléther C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O #</td><td>32534-81-9</td><td>Produit à usage industriel</td></tr>
 <tr><td>Pentachlorobenzène</td><td>608-93-5</td><td>Pesticide, produit à usage industriel</td></tr>
 <tr><td>Pentachlorophénol et ses sels et composés de pentachlorophénoxy #</td><td>87-86-5</td><td>Pesticide, produit à usage industriel</td></tr>
+<tr><td>Acide pentadécafluorooctanoïque, ses sels et ses substances apparentées</td><td>335-67-1 et autres</td><td>Produit à usage industriel</td></tr>
 <tr><td>Sulfonates de perfluorooctane (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, sel métallique [O<sup>–</sup>M<sup>+</sup>], halogénure, amide ou autres dérivés, y compris les polymères) #</td><td>1763-23-1 2795-39-3 et autres</td><td>Produit à usage industriel</td></tr>
 <tr><td>Perméthrine</td><td>52645-53-1</td><td>Pesticide</td></tr>
 <tr><td>Perthane</td><td>72-56-0</td><td>Pesticide</td></tr>
@@ -635,7 +636,7 @@ Annexe 2*[^t-2]*
 <tr><td>Phosphate de tri-2,3-dibromopropyle</td><td>126-72-7</td><td>Produit à usage industriel</td></tr>
 <tr><td>Tous les composés du tributylétain, en particulier:</td><td></td><td>Pesticide/Produit à usage industriel\*\*</td></tr>
 <tr><td>– l’oxyde de tributylétain – le fluorure de tributylétain – le méthacrylate de tributylétain – le benzoate de tributylétain – le chlorure de tributylétain – le linoléate de tributylétain – le naphténate de tributylétain</td><td>56-35-9 1983-10-4 2155-70-6 4342-36-3 1461-22-9 24124-25-2 85409-17-2</td><td></td></tr>
-<tr><td colspan="3">\* Seuls les numéros du service des résumés analytiques de chimie des composés parents sont indiqués. Pour avoir une liste des autres numéros appropriés du service des résumés analytiques de chimie, on pourra se référer au document d’orientation de décision pertinent[^annex2-lvlu1-1]. \*\* Tous les composés du tributylétain sont inscrits à l’annexe III de la Convention PIC dans la catégorie «pesticide» ainsi que la catégorie «produit à usage industriel». Ces produits chimiques ont d’abord été inscrit à l’annexe III dans la catégorie «pesticide» par la décision RC-4/5 de la Conférence des Parties. L’amendement à l’annexe III est entré en vigueur le 1<sup><sup>er</sup></sup> février 2009. L’annexe III a ensuite été amendée par la décision RC-8/5 de la Conférence des Parties pour inclure tous les composés du tributylétain dans la catégorie «produit à usage industriel», avec l’entrée en vigueur de cet amendement le 15 septembre 2017.</td></tr>
+<tr><td colspan="3">\* Seuls les numéros du service des résumés analytiques de chimie des composés parents sont indiqués. Pour avoir une liste des autres numéros appropriés du service des résumés analytiques de chimie, on pourra se référer au document d’orientation de décision pertinent[^annex2-lvlu1-1]. \*\* Tous les composés du tributylétain sont inscrits à l’annexe III de la Convention PIC dans la catégorie «pesticide» ainsi que la catégorie «produit à usage industriel». Ces produits chimiques ont d’abord été inscrit à l’annexe III dans la catégorie «pesticide» par la décision RC-4/5 de la Conférence des Parties. L’amendement à l’annexe III est entré en vigueur le 1<sup>er</sup> février 2009. L’annexe III a ensuite été amendée par la décision RC-8/5 de la Conférence des Parties pour inclure tous les composés du tributylétain dans la catégorie «produit à usage industriel», avec l’entrée en vigueur de cet amendement le 15 septembre 2017.</td></tr>
 </table>
 
 [^annex2-lvlu1-1]: Ces documents peuvent être obtenus contre paiement auprès de l’Office fédéral de l’environnement, 3003 Berne, ou être consultés gratuitement à l’adresse Internet www.pic.int &gt; La convention &gt; Produits chimiques.
