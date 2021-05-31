@@ -3,20 +3,20 @@ canton: SG
 number: "313.2"
 title: Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 language: de
-version: 2021-04-01
-valid_until: 2021-05-31
-version_adopted: 2021-03-30
+version: 2021-06-01
+valid_until: 2021-06-01
+version_adopted: 2021-05-11
 adopted: 2021-06-29
 in_force: 2021-06-30
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/313.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3132/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 
-vom 12.12.2020 (Stand 01.04.2021)
+vom 12.12.2020 (Stand 01.06.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -124,25 +124,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 11
 
-**Besuche in Spitälern**
-
-<sup>1</sup> Besuche in öffentlichen oder privaten Spitälern (Akutspitäler, psychiatrische Kliniken, Reha-Kliniken) sind verboten. Das Besuchsverbot umfasst sämtliche Räumlichkeiten eines Spitals, einschliesslich Gemeinschaftsräume wie Cafeterien und Andachtsräume oder Kapellen.
-
-<sup>2</sup> Die Direktion oder die Betriebsleitung, in psychiatrischen Kliniken die Klinikleitung kann generell oder im Einzelfall Ausnahmen bewilligen, insbesondere für:
-
-- a) Eltern oder andere sehr enge Bezugspersonen von Kindern;
-- b) Partnerinnen oder Partner von Gebärenden;
-- c) Besucherinnen und Besucher von dementen oder besonders unterstützungsbedürftigen Personen;
-- d) Besucherinnen und Besucher von palliativen Patientinnen und Patienten.
-
-<sup>3</sup> Für Besuche nach Abs. 2 dieser Bestimmung gelten folgende Einschränkungen:
-
-- a) Besucherinnen und Besucher mit Symptomen einer Covid-19-Erkrankung erhalten keinen Einlass;
-- b) Besucherinnen und Besucher geben dem Spital ihre Kontaktdaten an;
-- c) je Patientin oder Patient sind zwei Besucherinnen oder Besucher gleichzeitig zugelassen, wobei in Mehrbettzimmern höchstens vier Besucherinnen oder Besucher gleichzeitig anwesend sein dürfen;
-- d) die Besucherinnen und Besucher halten die Schutzmassnahmen, insbesondere die Abstandsregeln, ein.
-
-<sup>4</sup> Die Direktion oder die Betriebsleitung, in psychiatrischen Kliniken die Klinikleitung kann weitere Einschränkungen erlassen. Sie kann insbesondere die Dauer der Besuche beschränken und die Anzahl Besuche je Tag begrenzen.
+**…**
 
 #### Art. 12
 
