@@ -3,11 +3,11 @@ sr: "414.131.54"
 title: Verordnung der ETH Zürich vom 14. November 2017 über die Zulassungsbeschränkungen für den Bachelor-Studiengang Humanmedizin an der ETH Zürich (Zulassungsbeschränkungsverordnung Medizin der ETH Zürich)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/728"
 language: de
-version: 2018-01-01
+version: 2021-06-01
 adopted: 2017-11-14
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-728-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2017-728-20210601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20180101/de"
 
 (Zulassungsbeschränkungsverordnung Medizin der ETH Zürich)
 
-vom 14. November 2017 (Stand am 1. Januar 2018)
+vom 14. November 2017 (Stand am 1. Juni 2021)
 
 Die Schulleitung der ETH Zürich (Schulleitung),
 
@@ -39,67 +39,70 @@ Wo diese Verordnung keine besondere Bestimmungen enthält, gilt für die Zulassu
 
 #### Art. 2
 
-**Grundsätzlich zugelassene Ausländerinnen und Ausländer**
+**Grundsätzlich zugelassene Ausländerinnen und Ausländer**[^2-1]
 
 <sup>1</sup>
 
 Studienanwärterinnen und -anwärter mit ausländischer Staatsangehörigkeit können nur dann zum Bachelor-Studiengang Humanmedizin und damit zum Eignungstest nach Artikel 8 zugelassen werden, wenn sie einer der folgenden Kategorien angehören:
 
 - a. Staatsangehörige des Fürstentums Liechtenstein;
-- b. in der Schweiz oder im Fürstentum Liechtenstein niedergelassene Ausländerinnen und Ausländer;
+- b. Personen, die in der Schweiz oder im Fürstentum Liechtenstein niedergelassen sind;
 - c.
 
-  Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz:
+  Personen mit zivilrechtlichem Wohnsitz in der Schweiz:
 
-  - 1\. deren Eltern in der Schweiz niedergelassen sind,
-  - 2\. die mit einer Schweizerin oder einem Schweizer verheiratet sind,
-  - 3\. deren Ehegatten seit mindestens fünf Jahren in der Schweiz niedergelassen oder seit mindestens fünf Jahren im Besitz einer schweizerischen Arbeitsbewilligung sind,
-  - 4\. die seit mindestens fünf Jahren im Besitz einer schweizerischen Arbeitsbewilligung sind,
-  - 5\. deren Eltern seit mindestens fünf Jahren im Besitz einer schweizerischen Arbeitsbewilligung sind, oder
-  - 6\. die einen der Vorbildungsausweise nach Artikel 23 Absatz 1 Buchstaben a–b<sup>bis</sup> der Zulassungsverordnung ETH Zürich vom 30. November 2010[^2-1] besitzen;
+  - 1\. die mit einer Schweizerin oder einem Schweizer verheiratet oder eine eingetragene Partnerschaft eingegangen sind,
+  - 2\.
 
-- d. Staatsangehörige eines Mitgliedstaates der Europäischen Union, von Island und Norwegen, die in der Schweiz eine Aufenthaltsbewilligung EU/EFTA mit dem Vermerk «Erwerbstätigkeit» besitzen und eine mindestens einjährige berufliche Tätigkeit in einem Medizinalberuf nach Artikel 2 des Medizinalberufegesetzes vom 23. Juni 2006[^2-2] nachweisen können;
-- e. Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaates der Europäischen Union, von Island, Norwegen und Liechtenstein, wenn sie in der Schweiz eine Aufenthaltsbewilligung als Familienmitglied eines Bürgers oder einer Bürgerin der EU/EFTA besitzen;
-- f. Kinder, deren Eltern in der Schweiz Diplomatenstatus geniessen;
-- g. von der Schweiz anerkannte Flüchtlinge.
+    deren Ehefrau, Ehemann, eingetragene Partnerin oder eigetragener Partner:
 
-<sup>2</sup> Die Ausländerinnen und Ausländer nach Absatz 1 Buchstaben a–f müssen spätestens am letzten Tag der von der Rektorenkonferenz der schweizerischen Hochschulen festgelegten Anmeldefrist für das Medizinstudium[^2-3] im Besitz der Dokumente über ihren Aufenthaltsstatus bzw. ihre Staatsangehörigkeit sein, auf denen ihre Zugangsberechtigung zum Medizinstudium beruht.
+    - – in der Schweiz niedergelassen ist oder
+    - – seit mindestens fünf Jahren Wohnsitz in der Schweiz hat und ununterbrochen eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck «Erwerbstätigkeit» besitzt,
 
-<sup>3</sup>
+  - 3\. die seit mindestens fünf Jahren ununterbrochen in der Schweiz eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck «Erwerbstätigkeit» besitzen, oder
+  - 4\. die einen der Vorbildungsausweise nach Artikel 23 Absatz 1 Buchstaben a–b<sup>bis</sup> der Zulassungsverordnung ETH Zürich vom 30. November 2010[^2-2] besitzen;
 
-Wer als Flüchtling nach Absatz 1 Buchstabe g zugelassen werden will, muss:
+- d.
 
-- a. spätestens am letzten Tag der von der Rektorenkonferenz der schweizerischen Hochschulen festgelegten Anmeldefrist für das Medizinstudium[^2-4] in der Schweiz ein Asylgesuch gestellt haben; und
-- b. im Falle einer Zuteilung eines Studienplatzes an der ETH Zürich spätestens am Freitag der zweiten Woche des ersten Semesters[^2-5] als Flüchtling anerkannt sein.
+  Personen, die seit mindestens zwei Jahren zivilrechtlichen Wohnsitz in der Schweiz haben und deren Eltern:
 
-[^2-1]: [SR 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
-[^2-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^2-3]: www.swissuniversities.ch &gt; Services &gt; Anmeldung zum Medizinstudium
-[^2-4]: www.swissuniversities.ch &gt; Services &gt; Anmeldung zum Medizinstudium
-[^2-5]: Die zweite Woche des ersten Semesters ist Kalenderwoche 39.
+  - 1\. in der Schweiz niedergelassen sind, oder
+  - 2\. seit mindestens fünf Jahren Wohnsitz in der Schweiz haben und ununterbrochen eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck «Erwerbstätigkeit» besitzen;
+
+- e. Staatsangehörige eines Mitgliedstaates der Europäischen Union, von Island oder Norwegen, die in der Schweiz eine Aufenthaltsbewilligung EU/EFTA mit dem Vermerk «Erwerbstätigkeit» besitzen und eine mindestens einjährige berufliche Tätigkeit in einem Medizinalberuf nach Artikel 2 des Medizinalberufegesetzes vom 23. Juni 2006[^2-3] nachweisen können;
+- f. Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaates der Europäischen Union, von Island, Norwegen oder des Fürstentums Liechtenstein, wenn sie in der Schweiz eine Aufenthaltsbewilligung mit dem Vermerk «Familiennachzug» als Familienmitglied einer Bürgerin oder eines Bürgers der EU/EFTA besitzen;
+- g. Kinder, deren Eltern in der Schweiz Diplomatenstatus geniessen und die eine Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten des Typs «B», «C» oder «D blau» besitzen;
+- h. Flüchtlinge, die von der Schweiz anerkannt sind.
+- [tab] <sup>2</sup> Die Dokumente nach Absatz 1, die den rechtlichen Status für die Zugangsberechtigung zum Medizinstudium belegen, müssen spätestens bis zum letzten Tag der Anmeldefrist für das Medizinstudium (Art. 6 Abs. 1) vorgelegt werden. Gegebenenfalls müssen auch die Mindestdauern nach Absatz 1 Buchstabe c, d oder e bis zu diesem Datum erfüllt sein.
+
+[^2-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETH Zürich vom 15. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^2-2]: [SR 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^2-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 3
 
 **Erforderliche Vorbildungsausweise**
 
-Die Anmeldung zum Medizinstudium und damit die Zulassung zum Eignungstest nach Artikel 8 ist nur möglich für Studienanwärterinnen und -anwärter, die einen der folgenden Vorbildungsausweise besitzen:
+Die Zulassung zum Bachelor-Studiengang Humanmedizin ist nur möglich für Studienanwärterinnen und -anwärter, die einen der folgenden Vorbildungsausweise besitzen:[^3-1]
 
-- a. einen schweizerischen Vorbildungsausweis nach Artikel 23 Absatz 1 Buchstaben a–d und f der Zulassungsverordnung ETH Zürich vom 30. November 2010[^3-1];
+- a. einen schweizerischen Vorbildungsausweis nach Artikel 23 Absatz 1 Buchstaben a–d und f der Zulassungsverordnung ETH Zürich vom 30. November 2010[^3-2];
 - b. einen ausländischen gymnasialen Vorbildungsausweis, der die prüfungsfreie Zulassung zum Bachelor-Studium an der ETH Zürich nach den Artikeln 24 und 25 der Zulassungsverordnung ETH Zürich ermöglicht, gegebenenfalls in Verbindung mit dem Zeugnis über die bestandene reduzierte Aufnahmeprüfung an der ETH Zürich nach Artikel 28 der Zulassungsverordnung ETH Zürich.
 
-[^3-1]: [SR 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^3-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETH Zürich vom 15. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^3-2]: [SR 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
 
 #### Art. 4
 
 **Zulassungshindernis Aufnahmeprüfung**
 
-Die Zulassung zum Bachelor-Studiengang Humanmedizin ist ausgeschlossen für Personen, die für die Zulassung zum Bachelor-Studium an der ETH Zürich:
+Die Zulassung zum Eignungstest nach Artikel 8 und damit zum Bachelor-Studien-gang Humanmedizin ist ausgeschlossen für Personen, die für die Zulassung zum Bachelor-Studium an der ETH Zürich:[^4-1]
 
-- a. die umfassende Aufnahmeprüfung nach Artikel 29 der Zulassungsverordnung ETH Zürich vom 30. November 2010[^4-1] bestehen müssen; oder
-- b. die reduzierte Aufnahmeprüfung an der ETH Zürich bestehen müssen, diese jedoch bis am letzten Tag der von der Rektorenkonferenz der schweizerischen Hochschulen festgelegten Anmeldefrist für das Medizinstudium[^4-2] noch nicht bestanden haben.
+- a. die umfassende Aufnahmeprüfung nach Artikel 29 der Zulassungsverordnung ETH Zürich vom 30. November 2010[^4-2] bestehen müssen; oder
+- b. die reduzierte Aufnahmeprüfung an der ETH Zürich bestehen müssen, diese jedoch bis am letzten Tag der von der Rektorenkonferenz der schweizerischen Hochschulen festgelegten Anmeldefrist für das Medizinstudium[^4-3] noch nicht bestanden haben.
 
-[^4-1]: [SR 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
-[^4-2]: www.swissuniversities.ch &gt; Services &gt; Anmeldung zum Medizinstudium
+[^4-1]: Fassung gemäss Ziff. I der V der Schulleitung der ETH Zürich vom 15. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^4-2]: [SR 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^4-3]: www.swissuniversities.ch &gt; Services &gt; Anmeldung zum Medizinstudium
 
 #### Art. 5
 
@@ -121,17 +124,9 @@ Die Zulassung zum Bachelor-Studiengang Humanmedizin ist ausgeschlossen für Pers
 
 #### Art. 7
 
-**Einreichung der Vorbildungsausweise**
+[^7-1]
 
-<sup>1</sup> Schweizerische Vorbildungsausweise müssen bis spätestens am Freitag der zweiten Woche des ersten Semesters[^7-1] eingereicht werden.
-
-<sup>2</sup> Ausländische Vorbildungsausweise müssen – gegebenenfalls zusammen mit dem Zeugnis über die bestandene reduzierte Aufnahmeprüfung an der ETH Zürich – spätestens am letzten Tag der von der Rektorenkonferenz der schweizerischen Hochschulen festgelegten Anmeldefrist[^7-2] für das Medizinstudium eingereicht werden.
-
-<sup>3</sup> Ein allfälliger Sprachnachweis für Deutsch muss bis spätestens am Freitag vor Beginn des ersten Semesters[^7-3] nachgereicht werden.
-
-[^7-1]: Die zweite Woche des ersten Semesters ist Kalenderwoche 39.
-[^7-2]: www.swissuniversities.ch &gt; Services &gt; Anmeldung zum Medizinstudium
-[^7-3]: Es handelt sich um den Freitag von Kalenderwoche 37.
+[^7-1]: Aufgehoben durch Ziff. I der V der Schulleitung der ETH Zürich vom 15. April 2021, mit Wirkung seit 1. Juni 2021 ([AS 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
 
 #### Art. 8
 

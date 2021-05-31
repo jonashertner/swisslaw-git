@@ -3,11 +3,11 @@ sr: "414.131.54"
 title: "Ordinanza del PF di Zurigo del 14 novembre 2017 sulle limitazioni dell'ammissione al ciclo di studi bachelor in medicina umana del PF di Zurigo (Ordinanza sulle limitazioni dell'ammissione al bachelor in medicina del PF di Zurigo)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/728"
 language: it
-version: 2018-01-01
+version: 2021-06-01
 adopted: 2017-11-14
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-728-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2017-728-20210601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20180101/it"
 
 (Ordinanza sulle limitazioni dell’ammissione al bachelor in medicina del PF di Zurigo)
 
-del 14 novembre 2017 (Stato 1° gennaio 2018)
+del 14 novembre 2017 (Stato 1° giugno 2021)
 
 La Direzione del PF di Zurigo (Direzione),
 
@@ -39,67 +39,71 @@ Salvo disposizioni particolari della presente ordinanza, l’ammissione al ciclo
 
 #### Art. 2
 
-**Stranieri ammessi in via di principio**
+**Stranieri ammessi in via di principio**[^2-1]
 
 <sup>1</sup>
 
 I candidati di cittadinanza straniera possono essere ammessi al ciclo di studi bachelor in medicina umana e, di conseguenza, al test attitudinale di cui all’articolo 8 soltanto se appartengono a una delle seguenti categorie:
 
 - a. cittadini del Principato del Liechtenstein;
-- b. stranieri con permesso di domicilio in Svizzera o nel Principato del Liechtenstein;
+- b. persone con permesso di domicilio in Svizzera o nel Principato del Liechtenstein;
 - c.
 
-  stranieri domiciliati in Svizzera:
+  persone con domicilio civile in Svizzera:
 
-  - 1\. i cui genitori hanno un permesso di domicilio in Svizzera,
-  - 2\. sposati con un cittadino svizzero,
-  - 3\. il cui coniuge ha un permesso di domicilio in Svizzera da almeno cinque anni o possiede un permesso di lavoro svizzero da almeno cinque anni,
-  - 4\. che hanno un permesso di lavoro svizzero da almeno cinque anni,
-  - 5\. i cui genitori hanno un permesso di lavoro svizzero da almeno cinque anni, oppure
-  - 6\. che sono titolari di uno degli attestati di studi preuniversitari di cui all’articolo 23 capoverso 1 lettere a–b<sup>bis</sup> dell’ordinanza del 30 novembre 2010[^2-1] sull’ammissione al PF di Zurigo;
+  - 1\. che sono sposate con un cittadino svizzero o che vivono in un’unione domestica registrata con un cittadino svizzero,
+  - 2\.
 
-- d. cittadini di uno Stato membro dell’Unione europea, dell’Islanda o della Norvegia che hanno un permesso di dimora UE/AELS in Svizzera con la menzione «attività lucrativa» e che possono attestare di aver esercitato per almeno un anno un’attività in una professione medica di cui all’articolo 2 della legge del 23 giugno 2006[^2-2] sulle professioni mediche;
-- e. i figli, a prescindere dalla loro nazionalità, di cittadini di uno Stato membro dell’Unione europea, dell’Islanda, della Norvegia o del Liechtenstein che hanno un permesso di dimora in Svizzera in qualità di familiari di un cittadino UE/AELS;
-- f. i figli di persone con statuto diplomatico in Svizzera;
-- g. i rifugiati riconosciuti dalla Svizzera.
+    il cui coniuge o partner registrato:
 
-<sup>2</sup> Gli stranieri di cui al capoverso 1 lettere a–f devono possedere i documenti che attestano il loro statuto di soggiorno o la loro cittadinanza, su cui si basa il loro diritto di ammissione agli studi di medicina, entro l’ultimo giorno del termine d’iscrizione agli studi di medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^2-3].
+    - – ha il permesso di domicilio in Svizzera, oppure
+    - – è domiciliato in Svizzera da almeno cinque anni e dispone ininterrottamente di un permesso di dimora con la menzione «attività lucrativa» come scopo principale del soggiorno,
 
-<sup>3</sup>
+  - 3\. che dispongono ininterrottamente da almeno cinque anni di un permesso di dimora in Svizzera con la menzione «attività lucrativa» come scopo principale del soggiorno, oppure
+  - 4\. che sono titolari di uno degli attestati di studi preuniversitari di cui all’articolo 23 capoverso 1 lettere a–b<sup>bis</sup> dell’ordinanza del 30 novembre 2010[^2-2] sull’ammissione al PF di Zurigo;
 
-Chi intende essere ammesso come rifugiato riconosciuto secondo il capoverso 1 lettera g:
+- d.
 
-- a. deve aver presentato domanda d’asilo in Svizzera entro l’ultimo giorno del termine d’iscrizione agli studi di medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^2-4]; e
-- b. se ha ottenuto un posto di studio al PF di Zurigo, deve essere stato riconosciuto come rifugiato al più tardi il venerdì della seconda settimana del primo semestre[^2-5].
+  persone che hanno il domicilio civile in Svizzera da almeno due anni e i cui genitori:
 
-[^2-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
-[^2-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^2-3]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
-[^2-4]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
-[^2-5]: La seconda settimana del primo semestre è la 39<sup>a</sup> settimana civile.
+  - 1\. hanno un permesso di domicilio in Svizzera, oppure
+  - 2\. sono domiciliati in Svizzera da almeno cinque anni e dispongono ininterrottamente di un permesso di dimora con la menzione «attività lucrativa» come scopo principale del soggiorno;
+
+- e. cittadini di uno Stato membro dell’Unione europea, dell’Islanda o della Norvegia che hanno un permesso di dimora UE/AELS in Svizzera con la menzione «attività lucrativa» e che possono attestare di aver esercitato per almeno un anno un’attività in una professione medica di cui all’articolo 2 della legge del 23 giugno 2006[^2-3] sulle professioni mediche;
+- f. i figli, indipendentemente dalla loro nazionalità, dei cittadini di uno Stato membro dell’Unione europea, dell’Islanda, della Norvegia o del Principato del Liechtenstein che possiedono un permesso di dimora in Svizzera in qualità di membro di famiglia di un cittadino UE/AELS in Svizzera con la menzione «ricongiungimento familiare»;
+- g. i figli di persone con statuto diplomatico in Svizzera che possiedono una carta di legittimazione del Dipartimento federale degli affari esteri di tipo «B», «C» o «D blu»;
+- h. i rifugiati riconosciuti dalla Svizzera.
+
+<sup>2</sup> I documenti richiesti al capoverso 1 che attestano lo statuto giuridico per il diritto di ammissione agli studi di medicina devono essere presentati entro l’ultimo giorno del termine d’iscrizione agli studi di medicina (art. 6 cpv. 1). Eventualmente entro tale data devono essere adempiuti anche i periodi minimi di cui al capoverso 1 lettere c, d o e.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O della Direzione del PF di Zurigo del 15 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^2-2]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^2-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 3
 
 **Attestati di studi preuniversitari richiesti**
 
-Possono iscriversi agli studi di medicina e, di conseguenza, al test attitudinale di cui all’articolo 8 soltanto i candidati che possiedono uno dei seguenti attestati di studi preuniversitari:
+Sono ammessi al ciclo di studi bachelor in medicina umana soltanto i candidati che possiedono uno dei seguenti attestati di studi preuniversitari:[^3-1]
 
-- a. un attestato svizzero di studi preuniversitari di cui all’articolo 23 capoverso 1 lettere a–d e f dell’ordinanza del 30 novembre 2010[^3-1] sull’ammissione al PF di Zurigo;
+- a. un attestato svizzero di studi preuniversitari di cui all’articolo 23 capoverso 1 lettere a–d e f dell’ordinanza del 30 novembre 2010[^3-2] sull’ammissione al PF di Zurigo;
 - b. un attestato estero di formazione liceale che dà diritto all’ammissione senza esame ai cicli di studio bachelor del PF di Zurigo secondo gli articoli 24 e 25 dell’ordinanza sull’ammissione al PF di Zurigo, eventualmente in combinazione con l’attestato di superamento dell’esame ridotto del PF di Zurigo secondo l’articolo 28 di tale ordinanza.
 
-[^3-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^3-1]: Nuovo testo giusta il n. I dell’O della Direzione del PF di Zurigo del 15 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^3-2]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
 
 #### Art. 4
 
 **Ostacolo all’ammissione: esame di ammissione**
 
-Non sono ammesse al ciclo di studi bachelor in medicina umana le persone per le quali l’ammissione ai cicli di studio bachelor del PF di Zurigo è subordinata:
+Non sono ammesse al test attitudinale di cui all’articolo 8 e quindi al ciclo di studi bachelor in medicina umana le persone per le quali l’ammissione ai cicli di studio bachelor del PF di Zurigo è subordinata:[^4-1]
 
-- a. al superamento dell’esame completo di cui all’articolo 29 dell’ordinanza del 30 novembre 2010[^4-1] sull’ammissione al PF di Zurigo; oppure
-- b. al superamento dell’esame ridotto, se l’esame non è stato superato entro l’ultimo giorno del termine d’iscrizione agli studi di medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^4-2].
+- a. al superamento dell’esame completo di cui all’articolo 29 dell’ordinanza del 30 novembre 2010[^4-2] sull’ammissione al PF di Zurigo; oppure
+- b. al superamento dell’esame ridotto, se l’esame non è stato superato entro l’ultimo giorno del termine d’iscrizione agli studi di medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^4-3].
 
-[^4-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
-[^4-2]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
+[^4-1]: Nuovo testo giusta il n. I dell’O della Direzione del PF di Zurigo del 15 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^4-2]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^4-3]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
 
 #### Art. 5
 
@@ -121,17 +125,9 @@ Non sono ammesse al ciclo di studi bachelor in medicina umana le persone che al 
 
 #### Art. 7
 
-**Presentazione degli attestati di studi preuniversitari**
+[^7-1]
 
-<sup>1</sup> Gli attestati svizzeri di studi preuniversitari devono essere presentati al più tardi il venerdì della seconda settimana del primo semestre[^7-1].
-
-<sup>2</sup> Gli attestati esteri di studi preuniversitari devono essere presentati – eventualmente insieme all’attestato di superamento dell’esame di ammissione ridotto al PF di Zurigo – entro l’ultimo giorno del termine d’iscrizione agli studi in medicina stabilito dalla Conferenza svizzera dei rettori delle scuole universitarie[^7-2].
-
-<sup>3</sup> L’attestato di conoscenza della lingua tedesca, se disponibile, deve essere presentato entro il venerdì che precede l’inizio del primo semestre[^7-3].
-
-[^7-1]: La seconda settimana del primo semestre è la 39<sup>a</sup> settimana civile.
-[^7-2]: www.swissuniversities.ch &gt; Servizi &gt; Iscrizione agli studi di medicina
-[^7-3]: Si tratta del venerdì prima della 37<sup>a</sup> settimana civile.
+[^7-1]: Abrogato dal n. I dell’O della Direzione del PF di Zurigo del 15 apr. 2021, con effetto dal 1° giu. 2021 ([RU 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
 
 #### Art. 8
 

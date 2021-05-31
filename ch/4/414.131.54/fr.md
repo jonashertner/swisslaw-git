@@ -3,11 +3,11 @@ sr: "414.131.54"
 title: "Ordonnance de l'EPFZ du 14 novembre 2017 concernant les limitations d'admission dans la filière préparant au bachelor en médecine humaine à l'EPFZ (Ordonnance sur les limitations d'admission en médecine à l'EPFZ)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/728"
 language: fr
-version: 2018-01-01
+version: 2021-06-01
 adopted: 2017-11-14
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-728-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/728/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-728-20210601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/728/20180101/fr"
 
 (Ordonnance sur les limitations d’admission en médecine à l’EPFZ)
 
-du 14 novembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 14 novembre 2017 (Etat le 1<sup>er</sup> juin 2021)
 
-La Direction de l’Ecole polytechnique fédérale de Zurich (Direction de l’école),
+La Direction de l’École polytechnique fédérale de Zurich (Direction de l’école),
 
 vu l’art. 16*a*, al. 5, de la loi du 4 octobre 1991 sur les EPF[^ingress-1], vu l’arrêté du Conseil des EPF des 7 et 8 décembre 2016 sur la limitation de l’admission des étudiants au bachelor de médecine humaine de l’ETH Zurich[^ingress-2],
 
@@ -39,67 +39,71 @@ Sauf dispositions particulières de la présente ordonnance, l’ordonnance d’
 
 #### Art. 2
 
-**Principes applicables à l’admission des candidats étrangers**
+**Principes applicables à l’admission des candidats étrangers**[^2-1]
 
 <sup>1</sup>
 
 Les candidats étrangers sont admis dans la filière préparant au bachelor en médecine humaine et par conséquent au test d’aptitudes visé à l’art. 8 s’ils appartiennent à l’une des catégories suivantes:
 
-- a. ressortissants de la Principauté de Liechtenstein;
-- b. étrangers établis en Suisse ou dans la Principauté de Liechtenstein;
+- a. ressortissants du Liechtenstein;
+- b. personnes établies en Suisse ou au Liechtenstein;
 - c.
 
-  étrangers domiciliés en Suisse:
+  personnes ayant leur domicile civil en Suisse:
 
-  - 1\. dont les parents sont établis en Suisse,
-  - 2\. qui sont mariés avec un ressortissant suisse,
-  - 3\. dont le conjoint est établi en Suisse depuis au moins cinq ans ou en possession d’un permis de travail suisse depuis au moins cinq ans,
-  - 4\. titulaires d’un permis de travail suisse depuis au moins cinq ans,
-  - 5\. dont les parents disposent d’un permis de travail suisse depuis au moins cinq ans,
-  - 6\. titulaires d’un des diplômes mentionnés à l’art. 23, al. 1, let. a à b<sup>bis</sup> de l’ordonnance d’admission à l’EPFZ du 30 novembre 2010[^2-1];
+  - 1\. qui sont mariées ou en partenariat enregistré avec un ressortissant suisse,
+  - 2\.
 
-- d. ressortissants des Etats membres de l’Union européenne, de l’Islande et de la Norvège qui disposent en Suisse d’une autorisation de séjour UE/AELE avec la mention «activité lucrative» et qui peuvent prouver qu’ils ont exercé pendant au moins un an une activité dans une profession médicale au sens de l’art. 2 de la loi du 23 juin 2006 sur les professions médicales[^2-2];
-- e. enfants, quelle que soit leur nationalité, de ressortissants des Etats membres de l’Union européenne, de l’Islande, de la Norvège et du Liechtenstein, s’ils disposent en Suisse d’une autorisation de séjour en tant que membre de la famille d’un citoyen UE/AELE;
-- f. enfants dont les parents jouissent du statut diplomatique en Suisse;
-- g. réfugiés reconnus par la Suisse.
+    dont le conjoint ou partenaire enregistré:
 
-<sup>2</sup> Les candidats étrangers mentionnés à l’al. 1, let. a à f, doivent disposer des documents sur leur statut de séjour et leur nationalité qui leur permettent d’avoir accès aux études de médecine au plus tard le dernier jour du délai d’inscription fixé pour ces études[^2-3] par la Conférence des recteurs des hautes écoles suisses.
+    - – est établi en Suisse, ou
+    - – est domicilié en Suisse depuis au moins cinq ans et dispose depuis au moins cinq ans sans interruption d’une autorisation de séjour portant la mention «activité lucrative» comme motif principal du séjour,
 
-<sup>3</sup>
+  - 3\. qui disposent depuis au moins cinq ans sans interruption d’une autorisation de séjour en Suisse portant la mention «activité lucrative» comme motif principal du séjour, ou
+  - 4\. qui sont titulaires d’un des diplômes mentionnés à l’art. 23, al. 1, let. a à b<sup>bis</sup>, de l’ordonnance d’admission à l’EPFZ du 30 novembre 2010[^2-2];
 
-Les réfugiés mentionnés à l’al. 1, let. g, qui veulent être admis en médecine doivent:
+- d.
 
-- a. avoir déposé une demande d’asile en Suisse au plus tard le dernier jour du délai d’inscription pour les études de médecine[^2-4] fixé par la Conférence des recteurs des hautes écoles suisses;
-- b. en cas d’attribution d’une place d’études à l’EPFZ, avoir été reconnus comme réfugiés au plus tard le vendredi de la deuxième semaine du premier semestre[^2-5].
+  personnes ayant leur domicile civil en Suisse depuis au moins deux ans et dont les parents:
 
-[^2-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
-[^2-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^2-3]: www.swissuniversities.ch &gt; Services &gt; Inscription aux études de médecine
-[^2-4]: www.swissuniversities.ch &gt; Services &gt; Inscription aux études de médecine
-[^2-5]: La deuxième semaine du premier semestre correspond à la semaine 39 du calendrier.
+  - 1\. sont établis en Suisse, ou
+  - 2\. sont domiciliés en Suisse depuis au moins cinq ans et disposent depuis au moins cinq ans sans interruption d’une autorisation de séjour portant la mention «activité lucrative» comme motif principal du séjour;
+
+- e. ressortissants des États membres de l’Union européenne, de l’Islande et de la Norvège qui disposent d’une autorisation de séjour UE/AELE en Suisse portant la mention «activité lucrative» et qui peuvent prouver qu’ils ont exercé pendant au moins un an une activité dans une profession médicale au sens de l’art. 2 de la loi du 23 juin 2006 sur les professions médicales[^2-3];
+- f. enfants, quelle que soit leur nationalité, de ressortissants des États membres de l’Union européenne, de l’Islande, de la Norvège et du Liechtenstein, s’ils disposent d’une autorisation de séjour en Suisse portant la mention «regroupement familial» en tant que membre de la famille d’un citoyen de l’UE/AELE;
+- g. enfants dont les parents jouissent du statut diplomatique en Suisse et qui disposent d’une carte de légitimation du Département fédéral des affaires étrangères de type B, C ou D à bande bleue;
+- h. réfugiés reconnus par la Suisse.
+
+<sup>2</sup> Les documents visés à l’al. 1 qui attestent le statut légal permettant d’avoir accès aux études de médecine doivent être fournis au plus tard le dernier jour du délai d’inscription fixé pour ces études (art. 6, al. 1). Les durées minimales précisées à l’al. 1, let. c, d ou e doivent en outre avoir été atteintes avant la date en question.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’école du 15 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^2-2]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^2-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 3
 
 **Diplômes nécessaires**
 
-Ne peuvent s’inscrire aux études de médecine et par conséquent être admis au test d’aptitudes visé à l’art. 8 que les candidats titulaires d’un des diplômes suivants:
+Ne peuvent être admis dans la filière préparant au bachelor en médecine humaine que les candidats titulaires d’un des diplômes suivants:[^3-1]
 
-- a. diplôme suisse au sens de l’art. 23, al. 1, let. a à d et f de l’ordonnance d’admission à l’EPFZ du 30 novembre 2010[^3-1];
+- a. diplôme suisse au sens de l’art. 23, al. 1, let. a à d et f de l’ordonnance d’admission à l’EPFZ du 30 novembre 2010[^3-2];
 - b. certificat de fin d’études étranger qui permet l’admission sans examen aux études préparant au bachelor à l’EPFZ conformément aux art. 24 et 25 de l’ordonnance d’admission à l’EPFZ, le cas échéant en lien avec le certificat d’examen réduit permettant l’admission à l’EPFZ conformément à l’art. 28 de l’ordonnance d’admission à l’EPFZ.
 
-[^3-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’école du 15 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^3-2]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
 
 #### Art. 4
 
 **Obstacle à l’admission: examen d’admission**
 
-Ne sont pas admises dans la filière préparant au bachelor en médecine humaine les personnes dont l’admission aux études préparant au bachelor à l’EPFZ est soumise à l’une des conditions suivantes:
+Ne sont pas autorisées à se soumettre au test d’aptitudes visé à l’art. 8 et ne sont par conséquent pas admises dans la filière préparant au bachelor en médecine humaine les personnes dont l’admission aux études préparant au bachelor à l’EPFZ est soumise à l’une des conditions suivantes:[^4-1]
 
-- a. avoir réussi l’examen complet conformément à l’art. 29 de l’ordonnance d’admission à l’EPFZ du 30 novembre 2010[^4-1];
-- b. avoir réussi l’examen réduit, alors que tel n’a pas été le cas de ces personnes jusqu’au dernier jour du délai d’inscription pour les études de médecine[^4-2] fixé par la Conférence des recteurs des hautes écoles suisses.
+- a. avoir réussi l’examen complet conformément à l’art. 29 de l’ordonnance d’admission à l’EPFZ du 30 novembre 2010[^4-2];
+- b. avoir réussi l’examen réduit, alors que tel n’a pas été le cas de ces personnes jusqu’au dernier jour du délai d’inscription pour les études de médecine[^4-3] fixé par la Conférence des recteurs des hautes écoles suisses.
 
-[^4-1]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
-[^4-2]: www.swissuniversities.ch &gt; Services &gt; Inscription aux études de médecine
+[^4-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’école du 15 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
+[^4-2]: [RS 414.131.52](https://fedlex.data.admin.ch/eli/cc/2011/249)
+[^4-3]: www.swissuniversities.ch &gt; Services &gt; Inscription aux études de médecine
 
 #### Art. 5
 
@@ -121,17 +125,9 @@ Ne sont pas admises dans la filière préparant au bachelor en médecine humaine
 
 #### Art. 7
 
-**Dépôt des diplômes**
+[^7-1]
 
-<sup>1</sup> Les diplômes suisses doivent être déposés au plus tard jusqu’au vendredi de la deuxième semaine du premier semestre[^7-1].
-
-<sup>2</sup> Les certificats de fin d’études étrangers doivent être déposés – le cas échéant avec le certificat d’examen réduit permettant l’admission à l’EPFZ – au plus tard le dernier jour du délai d’inscription pour les études de médecine[^7-2] fixé par la Conférence des recteurs des hautes écoles suisses.
-
-<sup>3</sup> L’éventuelle preuve de connaissances suffisantes en allemand doit être présentée au plus tard le vendredi précédant le début du premier semestre[^7-3].
-
-[^7-1]: La deuxième semaine du premier semestre correspond à la semaine 39 du calendrier.
-[^7-2]: www.swissuniversities.ch &gt; Services &gt; Inscription aux études de médecine
-[^7-3]: Il s’agit du vendredi de la semaine 37 du calendrier.
+[^7-1]: Abrogé par le ch. I de l’O de la Direction de l’école du 15 avr. 2021, avec effet au 1<sup>er</sup> juin 2021 ([RO 2021 237](https://fedlex.data.admin.ch/eli/oc/2021/237)).
 
 #### Art. 8
 
