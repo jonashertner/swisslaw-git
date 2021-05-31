@@ -4,13 +4,13 @@ number: "961.212"
 title: Sonderverordnung 2 zur Abfederung der wirtschaftlichen Auswirkungen der COVID-19-Pandemie
 short: SonderV 20-2
 language: de
-version: 2021-05-01
-valid_until: 2021-05-31
-version_adopted: 2021-04-28
+version: 2021-06-01
+valid_until: 2021-06-30
+version_adopted: 2021-05-26
 adopted: 2020-04-15
 in_force: 2020-04-20
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.212"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2978/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2979/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +19,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2978/pdf_file"
 
 (SonderV 20-2)
 
-Vom 15.04.2020 (Stand 01.05.2021)
+Vom 15.04.2020 (Stand 01.06.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 91 Abs. 4 der Kantonsverfassung und Art. 6 Abs. 1 der Verordnung über die Massnahmen im Kulturbereich gemäss Covid-19-Gesetz (Covid-19-Kulturverordnung) vom 14. Oktober 2020[^ingress-1],
+gestützt auf § 91 Abs. 4 der Kantonsverfassung, Art. 6 Abs. 1 der Verordnung über die Massnahmen im Kulturbereich gemäss Covid-19-Gesetz (Covid-19-Kulturverordnung) vom 14. Oktober 2020[^ingress-1] sowie Art. 14 Abs. 3 der Verordnung über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Verordnung Publikumsanlässe) vom 26. Mai 2021[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SR [442.15](https://db.clex.ch/link/Bund/442.15/de)
+[^ingress-2]: SR [818.101.28](https://db.clex.ch/link/Bund/818.101.28/de)
 
 ## 1. Einleitung
 
@@ -45,7 +46,8 @@ beschliesst:
 - f) Entschädigungen im freiwilligen Schulsport,
 - g) Härtefallmassnahmen gemäss der Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung) vom 25. November 2020[^1-1],
 - h) Solidarbürgschaften gemäss Art. 4 Abs. 2 lit. b Ziff. 5 der Verordnung über Massnahmen im Bereich des professionellen und semiprofessionellen Mannschaftssports zur Abfederung der Folgen der Covid-19-Epidemie (Covid-19-Verordnung Mannschaftssport) vom 4. November 2020[^1-2],
-- i) Beiträge an touristische Angebote mit einer Personenbeförderungskonzession.
+- i) Beiträge an touristische Angebote mit einer Personenbeförderungskonzession,
+- j) Unterstützung von Veranstaltungsunternehmen (Schutzschirm) gemäss der Covid-19-Verordnung Publikumsanlässe.
 
 <sup>2</sup> Es besteht kein Rechtsanspruch auf Leistungen gemäss dieser Verordnung. Die Ausrichtung von Leistungen erfolgt nur im Rahmen der vorhandenen Mittel und in der Reihenfolge der eingegangenen Gesuche.
 
@@ -327,6 +329,16 @@ beschliesst:
 <sup>3</sup> Der Kanton gewährt finanzielle Beiträge im Umfang der COVID-19-bedingten finanziellen Ausfälle in der Zeit vom 1. März bis 30. September 2020 unter Berücksichtigung der zumutbaren Kosteneinsparungen, der Kurzarbeitsentschädigungen, der anrechenbaren Reserven und eines angemessenen erwarteten Gewinns der nächsten Jahre.
 
 <sup>4</sup> Das DVI entscheidet über die Gesuche.
+
+## 3<sup>sexies</sup>. Unterstützung von Veranstaltungsunternehmen
+
+#### § 13e
+
+**Schutzschirm**
+
+<sup>1</sup> Der Kanton unterstützt Veranstaltungsunternehmen, welche die Anforderungen gemäss der Covid-19-Verordnung Publikumsanlässe erfüllen, in den von der genannten Verordnung bezeichneten Fällen und unter den dort geregelten Voraussetzungen mit der Übernahme von ungedeckten Kosten im Rahmen des dort festgelegten Kostendachs.
+
+<sup>2</sup> Gesuche für eine Defizitgarantie sind beim BKS einzureichen. Es entscheidet darüber im Anschluss an die epidemienrechtliche Bewilligung der Veranstaltung durch die Kantonsärztin oder den Kantonsarzt.
 
 ## 4. Schlussbestimmungen
 
