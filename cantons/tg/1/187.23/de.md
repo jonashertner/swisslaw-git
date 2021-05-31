@@ -3,13 +3,13 @@ canton: TG
 number: "187.23"
 title: Verordnung der Evangelischen Synode des Kantons Thurgau zur Rechtsstellung der ordinierten Amtspersonen
 language: de
-version: 2020-01-01
-valid_until: 2021-05-31
-version_adopted: 2007-11-26
+version: 2021-06-01
+valid_until: 2025-12-31
+version_adopted: 2020-12-01
 adopted: 2007-11-26
 in_force: 2008-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.23"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1807/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2045/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1807/pdf_file"
 
 V der Evang. Synode - Rechtsstellung der ordinierten Amtspersonen
 
-vom 26.11.2007 (Stand 01.01.2020)
+vom 26.11.2007 (Stand 01.06.2021)
 
 ## I. Geltungsbereich
 
@@ -26,7 +26,7 @@ vom 26.11.2007 (Stand 01.01.2020)
 
 **Grundlagen**
 
-<sup>1</sup> Diese Verordnung stützt sich auf § 23 Abs. 2, § 30, § 34 Abs. 5, § 40 Abs. 2, § 64 Ziffer 4, § 72 Ziffern 11, 12, 14 und 26 lit. b der Verfassung der Evangelischen Landeskirche des Kantons Thurgau[^1-1].
+<sup>1</sup> Diese Verordnung stützt sich auf § 23 Abs. 2, § 30, § 34 Abs. 5, § 40 Abs. 2, § 64 Ziff. 4, § 72 Ziff. 11, Ziff. 12, Ziff. 14 und Ziff. 26 lit. b der Verfassung der Evangelischen Landeskirche des Kantons Thurgau[^1-1].
 
 [^1-1]: RB [187.11](https://www.rechtsbuch.tg.ch/data/187.11/de)
 
@@ -85,6 +85,12 @@ vom 26.11.2007 (Stand 01.01.2020)
 
 [^5-1]: RB [187.16](https://www.rechtsbuch.tg.ch/data/187.16/de)
 [^5-2]: RB [187.28](https://www.rechtsbuch.tg.ch/data/187.28/de)
+
+#### § 5a
+
+**Sonderprivatauszug und Selbstverpflichtung**
+
+<sup>1</sup> Für alle im Geltungsbereich dieser Verordnung aufgeführten zu wählenden oder anzustellenden Personen liegt ein Sonderprivatauszug und eine Selbstverpflichtung gemäss vom Kirchenrat vorgegebenem Text vor.
 
 ### 3. Amtseinsetzung
 
@@ -504,7 +510,7 @@ vom 26.11.2007 (Stand 01.01.2020)
 
 **Geltungsbereich**
 
-<sup>1</sup> Die nachstehenden Bestimmungen über die Schaffung, Änderung des Umfangs oder Aufhebung von Pfarrämtern, Teilzeitpfarrämtern und Diakonaten gelten für sämtliche vom Kirchenrat in den Kirchgemeinden aufgrund von § 72 Ziffer 26 lit. b und § 15 Ziffer 13 der Verfassung der Evangelischen Landeskirche des Kantons Thurgau bewilligten Pfarr- und Diakonatsstellen in den Kirchgemeinden.
+<sup>1</sup> Die nachstehenden Bestimmungen über die Schaffung, Änderung des Umfangs oder Aufhebung von Pfarrämtern, Teilzeitpfarrämtern und Diakonaten gelten für sämtliche vom Kirchenrat in den Kirchgemeinden aufgrund von § 72 Ziff. 26 lit. b und § 15 Ziff. 13 der Verfassung der Evangelischen Landeskirche des Kantons Thurgau bewilligten Pfarr- und Diakonatsstellen in den Kirchgemeinden.
 
 #### § 57
 
@@ -617,7 +623,7 @@ vom 26.11.2007 (Stand 01.01.2020)
 
 **Veränderung von Diakonatsstellen**
 
-<sup>1</sup> Über Veränderungen von Diakonatsstellen entscheidet der Kirchenrat im Sinne von § 72 Ziffer 26 lit. b der Verfassung der Evangelischen Landeskirche des Kantons Thurgau nach Rücksprache mit den Beteiligten.
+<sup>1</sup> Über Veränderungen von Diakonatsstellen entscheidet der Kirchenrat im Sinne von § 72 Ziff. 26 lit. b der Verfassung der Evangelischen Landeskirche des Kantons Thurgau nach Rücksprache mit den Beteiligten.
 
 <sup>2</sup> Das in § 56 bis § 65 dieser Verordnung festgelegte Verfahren für die Änderung des Umfangs und bei der Aufhebung von Pfarrstellen gilt sinngemäss auch für Diakonatsstellen.
 
@@ -747,9 +753,9 @@ vom 26.11.2007 (Stand 01.01.2020)
 
 **Dotation der Pfarr- und Diakonatsstellen**
 
-<sup>1</sup> Ausgangspunkt für Veränderungen bei den Pfarrstellen und ihres Umfangs im Sinn von § 34 Abs. 5 und von § 72 Ziffer 26 lit. b der Verfassung der Evangelischen Landeskirche des Kantons Thurgau sind die bei Inkrafttreten dieser Verordnung bestehenden Pfarrstellen, sowie die von ordinierten Diakonen und Diakoninnen besetzten Diakonatsstellen.
+<sup>1</sup> Ausgangspunkt für Veränderungen bei den Pfarrstellen und ihres Umfangs im Sinn von § 34 Abs. 5 und von § 72 Ziff. 26 lit. b der Verfassung der Evangelischen Landeskirche des Kantons Thurgau sind die bei Inkrafttreten dieser Verordnung bestehenden Pfarrstellen, sowie die von ordinierten Diakonen und Diakoninnen besetzten Diakonatsstellen.
 
-<sup>2</sup> Gemeinden, die zum Zeitpunkt des Inkrafttretens dieser Verordnung durch ordinierte und nicht von der Kirchgemeinde gewählte Diakone und Diakoninnen besetzte Stellen haben, diese aber nicht als Diakonatsstellen (Diakonaten) gemäss § 72 Ziffer 26 lit. b der Verfassung der Evangelischen Landeskirche des Kantons Thurgau definiert haben wollen, haben darüber innert Jahresfrist Beschluss zu fassen und den Entscheid dem Kirchenrat mitzuteilen.
+<sup>2</sup> Gemeinden, die zum Zeitpunkt des Inkrafttretens dieser Verordnung durch ordinierte und nicht von der Kirchgemeinde gewählte Diakone und Diakoninnen besetzte Stellen haben, diese aber nicht als Diakonatsstellen (Diakonaten) gemäss § 72 Ziff. 26 lit. b der Verfassung der Evangelischen Landeskirche des Kantons Thurgau definiert haben wollen, haben darüber innert Jahresfrist Beschluss zu fassen und den Entscheid dem Kirchenrat mitzuteilen.
 
 #### § 83
 
