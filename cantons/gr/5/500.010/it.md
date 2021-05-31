@@ -4,13 +4,13 @@ number: "500.010"
 title: Ordinanza relativa alla legge sanitaria
 short: OLSan
 language: it
-version: 2021-02-01
-valid_until: 2021-05-31
-version_adopted: 2021-01-26
+version: 2021-06-01
+valid_until: 2023-01-31
+version_adopted: 2021-04-27
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3135/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3162/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3135/pdf_file"
 
 (OLSan)
 
-del 20.06.2017 (stato 01.02.2021)
+del 20.06.2017 (stato 01.06.2021)
 
 emanata dal Governo il 20 giugno 2017
 
@@ -330,9 +330,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 28
 
-**Aggiornamento**
+**Durata ed entità dell'aggiornamento nelle professioni assoggettate ad autorizzazione**
 
-<sup>1</sup> La durata e l'entità dell'aggiornamento nelle professioni assoggettate all'obbligo di autorizzazione nella legge sanitaria vengono definite nell'allegato all'ordinanza. Prima della definizione devono essere sentite le organizzazioni di categoria e le associazioni professionali.
+<sup>1</sup> La durata minima e l'entità minima dell'aggiornamento nelle professioni assoggettate all'obbligo di autorizzazione secondo la legge sanitaria si conformano alle regolamentazioni in materia della corrispondente organizzazione di categoria o della corrispondente associazione professionale, nella misura in cui queste mirino a garantire un'assistenza di elevata qualità e affidabile alla popolazione.
 
 <sup>2</sup> L'Ufficio dell'igiene pubblica può incaricare le organizzazioni di categoria e le associazioni professionali di controllare che i requisiti relativi all'aggiornamento specifici per la professione siano rispettati per quanto riguarda durata ed entità.
 
@@ -347,11 +347,59 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 30
 
-**Servizio di picchetto**
+**Servizio di picchetto 1. Servizio di picchetto medico regionale**
 
-<sup>1</sup> Per il servizio di picchetto medico, il luogo in cui ci si trattiene deve essere scelto all'interno della regione del servizio di picchetto in modo tale che sia possibile partire con un veicolo a motore verso il luogo dell'emergenza di giorno (dalle ore 7.00 alle ore 20.00) entro cinque minuti e di notte (dalle ore 20.00 alle ore 07.00) entro dieci minuti dall'allarme.
+<sup>1</sup> Durante gli orari di apertura effettivi dello studio medico, ogni medico è di principio responsabile per il trattamento d'urgenza dei propri pazienti.
 
-<sup>2</sup> Per il servizio di picchetto medico dentistico, il luogo in cui ci si trattiene deve essere scelto in modo tale che sia possibile effettuare un trattamento in studio entro un'ora.
+<sup>2</sup> Il servizio di picchetto medico regionale ha il compito di garantire l'assistenza medica alla popolazione al di fuori degli orari di apertura degli studi medici in caso di malattie e infortuni. Il trattamento deve limitarsi alle urgenze.
+
+<sup>3</sup> Durante il servizio di picchetto medico regionale, il medico in servizio deve scegliere il luogo in cui si trattiene in modo tale che la reperibilità telefonica sia costantemente garantita e che l'intervento d'urgenza possa essere prestato in tempi brevi.
+
+<sup>4</sup> Il medico in servizio deve definire le tempistiche del trattamento in funzione delle condizioni cliniche della persona che si rivolge al servizio di picchetto medico. Se la persona che si rivolge al servizio di picchetto medico non può recarsi presso lo studio medico, il trattamento medico d'urgenza deve essere fornito mediante una visita a domicilio nel luogo in cui si trova la persona in questione.
+
+<sup>5</sup> Il medico in servizio deve informare il medico curante del paziente per iscritto in merito alla diagnosi e al trattamento.
+
+<sup>6</sup> I medici attivi in diverse regioni del Cantone sono tenuti a prestare servizio di picchetto in ciascuna regione in funzione del loro volume di lavoro presso il rispettivo luogo di lavoro.
+
+<sup>7</sup> In accordo con l'Ufficio dell'igiene pubblica, al fine di garantire la sicurezza dell'assistenza l'obbligo di prestare servizio di picchetto può essere adempiuto anche al di fuori della propria regione di picchetto.
+
+<sup>8</sup> I medici attivi anche in altri Cantoni sono tenuti a prestare servizio di picchetto nel Cantone in funzione del loro volume di lavoro.
+
+#### Art. 30a
+
+**2. Servizio di picchetto dentistico**
+
+<sup>1</sup> Durante gli orari di apertura effettivi dello studio dentistico, ogni dentista è di principio responsabile per il trattamento d'urgenza dei propri pazienti.
+
+<sup>2</sup> Il servizio di picchetto dentistico ha il compito di garantire l'assistenza medico-dentistica alla popolazione al di fuori degli orari di apertura degli studi dentistici in caso di problemi di medicina dentaria. Il trattamento deve limitarsi alle urgenze.
+
+<sup>3</sup> Durante il servizio di picchetto dentistico, il dentista in servizio deve scegliere il luogo in cui si trattiene in modo tale che la reperibilità telefonica sia costantemente garantita e che l'intervento d'urgenza possa essere prestato in tempi brevi.
+
+<sup>4</sup> In caso di condizioni di pericolo di vita o di potenziale pericolo di vita, il trattamento deve avvenire entro un'ora, in caso di forti dolori o di emorragie entro sei ore e in casi di emergenza soggettiva entro dodici ore.
+
+<sup>5</sup> Il dentista in servizio deve informare il dentista curante del paziente per iscritto in merito alla diagnosi e al trattamento.
+
+<sup>6</sup> I dentisti che soddisfano le condizioni per l'esercizio della professione e che sono attivi nel Cantone dei Grigioni sono tenuti a partecipare al servizio di picchetto regionale dell'organizzazione di categoria cantonale in conformità alle regolamentazioni di quest'ultima, se sono stati attivi per tre anni presso un dentista in possesso dell'autorizzazione all'esercizio della professione e se per tre anni hanno esercitato sotto la propria responsabilità professionale.
+
+<sup>7</sup> I dentisti attivi in diverse regioni del Cantone sono tenuti a prestare servizio di picchetto in ciascuna regione in funzione del loro volume di lavoro presso il rispettivo luogo di lavoro.
+
+<sup>8</sup> In accordo con l'Ufficio dell'igiene pubblica, al fine di garantire la sicurezza dell'assistenza l'obbligo di prestare servizio di picchetto può essere adempiuto anche al di fuori della propria regione di picchetto.
+
+<sup>9</sup> In linea di principio, i dentisti attivi anche in altri Cantoni sono pienamente soggetti all'obbligo di prestare servizio di picchetto nel Cantone.
+
+<sup>10</sup> Nei casi di cui al capoverso 9, in accordo con l'organizzazione di categoria cantonale l'Ufficio dell'igiene pubblica può autorizzare una riduzione dell'obbligo di prestare servizio di picchetto.
+
+#### Art. 30b
+
+**Accordo di prestazioni con l'Ordine dei medici grigioni**
+
+<sup>1</sup> L'accordo di prestazioni con l'Ordine dei medici grigioni disciplina le prestazioni che quest'ultimo deve fornire e il relativo indennizzo da parte del Cantone. Tra le prestazioni che l'Ordine dei medici grigioni deve fornire rientrano in particolare:
+
+- a) l'organizzazione del servizio di picchetto medico regionale;
+- b) l'allestimento dei piani di servizio dei medici attivi nel servizio di picchetto medico regionale;
+- c) l'esercizio di un'app per le emergenze;
+- d) la garanzia dell'aggiornamento regolare specifico per le urgenze dei medici che prestano servizio di picchetto;
+- e) la concessione di contributi ai costi per l'acquisto e la manutenzione dell'equipaggiamento d'urgenza di base ai medici che prestano servizio di picchetto.
 
 ### 5.3. Aziende del settore sanitario
 

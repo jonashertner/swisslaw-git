@@ -4,13 +4,13 @@ number: "500.010"
 title: Verordnung zum Gesundheitsgesetz
 short: VOzGesG
 language: de
-version: 2021-02-01
-valid_until: 2021-05-31
-version_adopted: 2021-01-26
+version: 2021-06-01
+valid_until: 2023-01-31
+version_adopted: 2021-04-27
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3135/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3162/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3135/pdf_file"
 
 (VOzGesG)
 
-Vom 20.06.2017 (Stand 01.02.2021)
+Vom 20.06.2017 (Stand 01.06.2021)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -330,9 +330,9 @@ von der Regierung erlassen am 20. Juni 2017
 
 #### Art. 28
 
-**Fortbildung**
+**Dauer und Umfang der Fortbildung der bewilligungspflichtigen Berufe**
 
-<sup>1</sup> Die Dauer und der Umfang der Fortbildung der im Gesundheitsgesetz der Bewilligungspflicht unterstellten Berufe werden im Anhang zur Verordnung festgelegt. Die Standesorganisationen beziehungsweise die Berufsverbände sind vor der Festlegung anzuhören.
+<sup>1</sup> Die Mindestdauer und der Mindestumfang der Fortbildung der im Gesundheitsgesetz der Bewilligungspflicht unterstellten Berufe richten sich nach den einschlägigen Regelungen der betreffenden Standesorganisation beziehungsweise des betreffenden Berufsverbands, soweit diese die Sicherstellung einer qualitativ hochstehenden und zuverlässigen Versorgung der Bevölkerung bezwecken.
 
 <sup>2</sup> Das Gesundheitsamt kann die Standesorganisationen beziehungsweise die Berufsverbände mit der Kontrolle der Einhaltung der Dauer und des Umfangs der berufsspezifischen Fortbildungsanforderungen beauftragen.
 
@@ -347,11 +347,59 @@ von der Regierung erlassen am 20. Juni 2017
 
 #### Art. 30
 
-**Notfalldienst**
+**Notfalldienst 1. Regionaler ärztlicher Notfalldienst**
 
-<sup>1</sup> Für den ärztlichen Notfalldienst ist der Aufenthaltsort innerhalb der Notfalldienstregion so zu wählen, dass tagsüber (07.00 bis 20.00 Uhr) innert fünf Minuten und nachts (20.00 bis 07.00 Uhr) innert zehn Minuten seit der Alarmierung mit einem Motorfahrzeug zum Notfallort aufgebrochen werden kann.
+<sup>1</sup> Während der effektiven Öffnungszeiten der Praxis ist grundsätzlich jede Ärztin und jeder Arzt für die Notfallbehandlung der eigenen Patientinnen und Patienten zuständig.
 
-<sup>2</sup> Für den zahnärztlichen Notfalldienst ist der Aufenthaltsort so zu wählen, dass innerhalb von einer Stunde eine Behandlung in der Praxis durchgeführt werden kann.
+<sup>2</sup> Aufgabe des regionalen ärztlichen Notfalldienstes ist die Sicherstellung der medizinischen Versorgung der Bevölkerung ausserhalb der Praxisöffnungszeiten bei Erkrankungen und Unfällen. Die Behandlung ist auf den Notfall zu beschränken.
+
+<sup>3</sup> Die diensthabende Ärztin oder der diensthabende Arzt hat während des regionalen Notfalldienstes den Aufenthaltsort so zu wählen, dass die telefonische Erreichbarkeit jederzeit gewährleistet ist und der Notfalldiensteinsatz kurzfristig erbracht werden kann.
+
+<sup>4</sup> Die diensthabende Ärztin oder der diensthabende Arzt hat den Behandlungszeitpunkt auf den medizinischen Zustand der den ärztlichen Notfalldienst beanspruchenden Person abzustimmen. Sofern die den ärztlichen Notfalldienst beanspruchende Person nicht in die Arztpraxis kommen kann, hat die medizinische Notfallversorgung mittels Hausbesuch am Ort der betreffenden Person zu erfolgen.
+
+<sup>5</sup> Die diensthabende Ärztin oder der diensthabende Arzt hat die Ärztin oder den Arzt, welche oder welcher die Patientin oder den Patienten ordentlicherweise behandelt, über die Diagnose und die Behandlung schriftlich zu informieren.
+
+<sup>6</sup> Ärztinnen und Ärzte, die in verschiedenen Regionen des Kantons tätig sind, sind in jeder Region entsprechend ihrem Arbeitspensum am jeweiligen Arbeitsort notfalldienstpflichtig.
+
+<sup>7</sup> Zur Gewährleistung der Versorgungssicherheit kann die Notfalldienstpflicht nach Rücksprache mit dem Gesundheitsamt auch ausserhalb der eigenen Notfalldienstregion geleistet werden.
+
+<sup>8</sup> Ärztinnen und Ärzte, die auch in anderen Kantonen tätig sind, sind im Kanton entsprechend ihrem Arbeitspensum notfalldienstpflichtig.
+
+#### Art. 30a
+
+**2. Zahnärztlicher Notfalldienst**
+
+<sup>1</sup> Während der effektiven Öffnungszeiten der Praxis ist grundsätzlich jede Zahnärztin und jeder Zahnarzt für die Notfallbehandlung der eigenen Patientinnen und Patienten zuständig.
+
+<sup>2</sup> Aufgabe des zahnärztlichen Notfalldienstes ist die Sicherstellung der zahnärztlichen Versorgung der Bevölkerung ausserhalb der Praxisöffnungszeiten bei zahnmedizinischen Problemen. Die Behandlung ist auf den Notfall zu beschränken.
+
+<sup>3</sup> Die diensthabende Zahnärztin oder der diensthabende Zahnarzt hat während des zahnärztlichen Notfalldienstes den Aufenthaltsort so zu wählen, dass die telefonische Erreichbarkeit jederzeit gewährleistet ist und der Notfalleinsatz kurzfristig erbracht werden kann.
+
+<sup>4</sup> Bei lebensbedrohlichen oder potentiell lebensbedrohlichen Zuständen hat die Behandlung innerhalb einer Stunde zu erfolgen, bei starken Schmerzen oder Blutungen innerhalb von sechs Stunden und bei subjektiven Notfällen innerhalb von zwölf Stunden.
+
+<sup>5</sup> Die diensthabende Zahnärztin oder der diensthabende Zahnarzt hat die Zahnärztin oder den Zahnarzt, welche oder welcher die Patientin oder den Patienten ordentlicherweise behandelt, über die Diagnose und die Behandlung schriftlich zu informieren.
+
+<sup>6</sup> Zahnärztinnen und Zahnärzte, welche die Voraussetzungen zur Erlangung der Berufsausübung erfüllen und im Kanton tätig sind, sind zur Teilnahme am regionalen Notfalldienst der kantonalen Standesorganisation gemäss deren Regelung verpflichtet, wenn sie während drei Jahren bei einer Zahnärztin oder einem Zahnarzt mit Berufsausübungsbewilligung und drei Jahren Berufsausübung in eigener fachlicher Verantwortung tätig gewesen sind.
+
+<sup>7</sup> Zahnärztinnen und Zahnärzte, die in verschiedenen Regionen des Kantons tätig sind, sind in jeder Region entsprechend ihrem Arbeitspensum am jeweiligen Arbeitsort notfalldienstpflichtig.
+
+<sup>8</sup> Zur Gewährleistung der Versorgungssicherheit kann die Notfalldienstpflicht nach Rücksprache mit dem Gesundheitsamt auch ausserhalb der eigenen Notfalldienstregion geleistet werden.
+
+<sup>9</sup> Zahnärztinnen und Zahnärzte, die auch in anderen Kantonen tätig sind, sind grundsätzlich in vollem Umfang im Kanton notfalldienstpflichtig.
+
+<sup>10</sup> Das Gesundheitsamt kann in Fällen gemäss Absatz 9 nach Rücksprache mit der kantonalen Standesorganisation eine Reduktion der Notfalldienstpflicht bewilligen.
+
+#### Art. 30b
+
+**Leistungsvereinbarung mit dem Bündner Ärzteverein**
+
+<sup>1</sup> In der Leistungsvereinbarung mit dem Bündner Ärzteverein werden die von ihm zu erbringenden Leistungen und deren Abgeltung durch den Kanton geregelt. Zu den vom Bündner Ärzteverein zu erbringenden Leistungen gehören insbesondere:
+
+- a) die Organisation des regionalen ärztlichen Notfalldienstes;
+- b) die Erstellung der Dienstpläne der im regionalen ärztlichen Notfalldienst tätigen Ärztinnen und Ärzte;
+- c) der Betrieb der Notfall-App;
+- d) die Gewährleistung der regelmässigen notfallspezifischen Fortbildung der Notfalldienst leistenden Ärztinnen und Ärzte;
+- e) die Gewährung von Beiträgen an die Kosten der Anschaffung und des Unterhalts der Notfallgrundausrüstung durch die Notfalldienst leistenden Ärztinnen und Ärzte.
 
 ### 5.3. Betriebe des Gesundheitswesens
 

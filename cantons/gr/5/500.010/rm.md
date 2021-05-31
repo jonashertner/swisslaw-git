@@ -4,13 +4,13 @@ number: "500.010"
 title: Ordinaziun tar la lescha da sanadad
 short: OtLSan
 language: rm
-version: 2021-02-01
-valid_until: 2021-05-31
-version_adopted: 2021-01-26
+version: 2021-06-01
+valid_until: 2023-01-31
+version_adopted: 2021-04-27
 adopted: 2017-06-20
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3135/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3162/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3135/pdf_file"
 
 (OtLSan)
 
-dals 20-06-2017 (versiun dals 01-02-2021)
+dals 20-06-2017 (versiun dals 01-06-2021)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -330,9 +330,9 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 #### Art. 28
 
-**Perfecziunament**
+**Durada e dimensiun dal perfecziunament per las professiuns suttamessas a l'obligaziun da dumandar ina permissiun**
 
-<sup>1</sup> La durada e la dimensiun dal perfecziunament tar las professiuns ch'èn suttamessas en la lescha da sanadad a l'obligaziun da dumandar ina permissiun vegnan fixadas en l'agiunta tar l'ordinaziun. Las organisaziuns professiunalas respectivamain las federaziuns professiunalas ston vegnir tadladas avant la fixaziun.
+<sup>1</sup> La durada minimala e la dimensiun minimala dal perfecziunament per las professiuns ch'èn suttamessas en la Lescha da sanadad a l'obligaziun da dumandar ina permissiun sa drizzan tenor las regulaziuns respectiva da l'organisaziun professiunala correspundenta respectivamain da la federaziun professiunala correspundenta, uschenavant che lur intent è quel da garantir in provediment d'auta qualitad e fidà da la populaziun.
 
 <sup>2</sup> L'uffizi da sanadad po incumbensar las organisaziuns professiunalas respectivamain las federaziuns professiunalas da controllar, sche la durada e la dimensiun da las pretensiuns specificas per la professiun envers il perfecziunament vegnan observadas.
 
@@ -347,11 +347,59 @@ relaschada da la regenza ils 20 da zercladur 2017
 
 #### Art. 30
 
-**Servetsch d'urgenza**
+**Servetsch d'urgenza 1. servetsch medical regiunal d'urgenza**
 
-<sup>1</sup> Per il servetsch medical d'urgenza sto il lieu da staziunament entaifer la regiun dal servetsch d'urgenza vegnir tschernì uschia, ch'in vehichel a motor po partir vers il lieu dal cas d'urgenza durant il di (da las 07.00 a las 20.00) entaifer 5 minutas e durant la notg (da las 20.00 a las 07.00) entaifer 10 minutas dapi l'alarm.
+<sup>1</sup> Durant las uras d'avertura effectivas da la pratica è mintga media u mintga medi da princip responsabel per il tractament d'urgenza da las atgnas pazientas e dals agens pazients.
 
-<sup>2</sup> Per il servetsch dentistic d'urgenza sto il lieu da staziunament vegnir tschernì uschia, ch'in tractament en la pratica po vegnir fatg entaifer 1 ura.
+<sup>2</sup> L'incumbensa dal servetsch medical regiunal d'urgenza è quella da garantir il provediment medicinal da la populaziun en cas da malsognas e d'accidents ordaifer las uras d'avertura da la pratica. Il tractament sto vegnir restrenschì al cas d'urgenza.
+
+<sup>3</sup> Durant il servetsch regiunal d'urgenza sto la media u il medi en servetsch tscherner ses lieu da dimora uschia, che la cuntanschibladad per telefon è garantida da tut temp e ch'il servetsch d'urgenza po vegnir ademplì a curta vista.
+
+<sup>4</sup> La media u il medi en servetsch sto adattar il mument dal tractament al stadi medicinal da la persuna che dovra il servetsch medical d'urgenza. Sche la persuna che dovra il servetsch medical d'urgenza na po betg vegnir a la pratica da medi, sto il provediment medicinal d'urgenza vegnir fatg sin basa d'ina visita a chasa al lieu da la persuna respectiva.
+
+<sup>5</sup> La media u il medi en servetsch sto infurmar en scrit la media u il medi che tracta per ordinari la pazienta u il pazient davart la diagnosa e davart il tractament.
+
+<sup>6</sup> Medias e medis che lavuran en differentas regiuns dal chantun, ston prestar servetsch d'urgenza en mintga regiun confurm a lur pensum da lavur al lieu da lavur respectiv.
+
+<sup>7</sup> Per garantir la segirezza dal provediment po l'obligaziun da prestar servetsch d'urgenza vegnir ademplida er ordaifer l'atgna regiun da servetsch d'urgenza, sche l'Uffizi da sanadad è perencletg cun quai.
+
+<sup>8</sup> Medias e medis che lavuran er en auters chantuns, ston prestar servetsch d'urgenza en il chantun confurm a lur pensum da lavur.
+
+#### Art. 30a
+
+**2. servetsch dentistic d'urgenza**
+
+<sup>1</sup> Durant las uras d'avertura effectivas da la pratica è mintga dentista u mintga dentist da princip responsabel per il tractament d'urgenza da las atgnas pazientas e dals agens pazients.
+
+<sup>2</sup> L'incumbensa dal servetsch dentistic d'urgenza è quella da garantir il provediment dentistic da la populaziun en cas da problems da la medischina dals dents ordaifer las uras d'avertura da la pratica. Il tractament sto vegnir restrenschì al cas d'urgenza.
+
+<sup>3</sup> Durant il servetsch dentistic d'urgenza sto la dentista u il dentist en servetsch tscherner ses lieu da dimora uschia, che la cuntanschibladad per telefon è garantida da tut temp e ch'il servetsch d'urgenza po vegnir ademplì a curta vista.
+
+<sup>4</sup> En cas da stadis che pericliteschan la vita u da stadis che pericliteschan potenzialmain la vita sto il tractament vegnir fatg entaifer 1 ura, en cas da grondas dolurs u da grondas perditas da sang entaifer 6 uras ed en cas d'urgenza subjectivs entaifer 12 uras.
+
+<sup>5</sup> La dentista u il dentist en servetsch sto infurmar en scrit la dentista u il dentist che tracta per ordinari la pazienta u il pazient davart la diagnosa e davart il tractament.
+
+<sup>6</sup> Dentistas e dentists che adempleschan las premissas per pudair pratitgar la professiun e che lavuran en il chantun, èn obligads da sa participar al servetsch regiunal d'urgenza da l'organisaziun professiunala chantunala tenor sia regulaziun, sch'ellas ed els han lavurà durant 3 onns tar ina dentista u in dentist che ha la permissiun per pratitgar la professiun ed han pratitgà la professiun durant 3 onns en atgna responsabladad professiunala.
+
+<sup>7</sup> Dentistas e dentists che lavuran en differentas regiuns dal chantun, ston prestar servetsch d'urgenza en mintga regiun confurm a lur pensum da lavur al lieu da lavur respectiv.
+
+<sup>8</sup> Per garantir la segirezza dal provediment po l'obligaziun da prestar servetsch d'urgenza vegnir ademplida er ordaifer l'atgna regiun da servetsch d'urgenza, sche l'Uffizi da sanadad è perencletg cun quai.
+
+<sup>9</sup> Dentistas e dentists che lavuran er en auters chantuns, ston da princip prestar il servetsch d'urgenza cumplain en il chantun.
+
+<sup>10</sup> En cas tenor l'alinea 9 po l'Uffizi da sanadad – suenter avair consultà l'organisaziun professiunala chantunala – permetter ina reducziun da l'obligaziun da prestar servetsch d'urgenza.
+
+#### Art. 30b
+
+**Cunvegna da prestaziun cun l'Uniun grischuna da medis**
+
+<sup>1</sup> En la cunvegna da prestaziun cun l'Uniun grischuna da medis vegnan regladas las prestaziuns che ston vegnir furnidas e lur indemnisaziun tras il chantun. A las prestaziuns che ston vegnir furnidas da l'Uniun grischuna da medis appartegnan en spezial:
+
+- a) organisar il servetsch medical regiunal d'urgenza;
+- b) far ils plans da servetsch da las medias e dals medis che lavuran en il servetsch medical regiunal d'urgenza;
+- c) administrar l'app da cas d'urgenza;
+- d) garantir il perfecziunament regular specific per cas d'urgenza da las medias e dals medis che prestan servetsch d'urgenza;
+- e) garantir contribuziuns als custs per acquistar e per mantegnair l'equipament per cas d'urgenza da las medias e dals medis che prestan servetsch d'urgenza.
 
 ### 5.3. Manaschis dal sectur da sanadad
 
