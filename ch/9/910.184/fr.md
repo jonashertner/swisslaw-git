@@ -3,18 +3,18 @@ sr: "910.184"
 title: "Ordonnance de l'OFAG du 11 novembre 2020 sur l'agriculture biologique"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/954"
 language: fr
-version: 2021-01-01
+version: 2021-06-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/954/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-954-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/954/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2020-954-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l*’*OFAG sur l*’*agriculture biologique
 
-du 11 novembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 novembre 2020 (Etat le 1<sup>er</sup> juin 2021)
 
 L’Office fédéral de l’agriculture (OFAG),
 
@@ -42,11 +42,13 @@ Les organismes de certification et les autorités de contrôle reconnus conform�
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2021.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
 (art. 1)
 
 ## Liste des pays
+
+[^t-1]: Mise à jour par l’O de l’OFAG du 6 mai 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 272](https://fedlex.data.admin.ch/eli/oc/2021/272)).
 
 ## 1. Introduction
 
@@ -110,7 +112,7 @@ Servicio Nacional de Sanidad y Calidad Agroalimentaria SENASA, www.senasa.gov.ar
 
 \6. Autorités délivrant le certificat de contrôle: comme au ch. 5.
 
-\7. Admission valable jusqu’au 31 décembre 2025.
+\7. Admission valable jusqu’au 31 décembre 2022.
 
 ### Australie
 
@@ -134,7 +136,7 @@ National standard for organic and bio-dynamic produce
 
 \4. Autorité compétente:
 
-Department of Agriculture, www.agriculture.gov.au/export/controlled-goods/organic-bio-dynamic
+Department of Agriculture and Water Resources, www.agriculture.gov.au/export/controlled-goods/organic-bio-dynamic
 
 \5. Organismes de certification:
 
@@ -150,6 +152,49 @@ Department of Agriculture, www.agriculture.gov.au/export/controlled-goods/organi
 \6. Autorités délivrant le certificat de contrôle: comme au ch. 5.
 
 \7. Admission valable jusqu’au 31 décembre 2025.
+
+### Chili
+
+\1. Catégories de produits:
+
+<table>
+<tr><th>Catégorie de produits</th><th>Code</th><th>Limitations</th></tr>
+<tr><td>Produits végétaux non transformés</td><td>A</td><td>Seulement les produits énumérés dans le «Mutual Recognition Arrangement on Organic Products» conclu le 5 août 2019 entre la Suisse et le Chili[^annex1-lvl2-lvlu3-1]</td></tr>
+<tr><td>Animaux vivants ou produits animaux non transformés</td><td>B</td><td>Seulement les produits de l’apiculture</td></tr>
+<tr><td>Produits agricoles transformés destinés à l’alimentation humaine<sup>1</sup></td><td>D</td><td>A l’exclusion des produits animaux ou des produits provenant de leur transformation.</td></tr>
+<tr><td>Matériel de reproduction végétative et semences utilisés à des fins de culture</td><td>F</td><td>Seulement les produits énumérés dans le «Mutual Recognition Arrangement on Organic Products» conclu entre la Suisse et le Chili</td></tr>
+<tr><td colspan="3"><sup>1</sup> Vins et levures non inclus</td></tr>
+</table>
+
+\2. Provenance:
+
+Produits des catégories A et D produits au Chili ou importés au Chili:
+
+- a. de Suisse, ou
+- b. d’un pays reconnu conformément à la présente annexe.
+
+\3. Prescriptions de production:
+
+Loi n<sup>o</sup> 20.089 du 17 janvier 2006 créant un système national de certification des produits agricoles biologiques.
+
+\4. Autorité compétente:
+
+Servicio Agricola y Ganadero (SAG), Ministère de l’Agriculture, www.sag.cl/ambitos-de-accion/productos-organicos
+
+\5. Organismes de certification:
+
+<table>
+<tr><th>Numéro de code</th><th>Nom</th><th>Adresse internet</th></tr>
+<tr><td>CL-BIO-001</td><td>Ecocert Chile S.A.</td><td>www.ecocert.cl</td></tr>
+<tr><td>CL-BIO-005</td><td>CERES – Certification of Environmental Standards GmbH</td><td>www.ceres-cert.com</td></tr>
+<tr><td>CL-BIO-010</td><td>BIO CERTIFICADORA SERVICIOS LIMITIDA</td><td>www.bioaudita.cl</td></tr>
+</table>
+
+\6. Autorités délivrant le certificat de contrôle: comme au ch. 5.
+
+\7. Admission valable jusqu’au 31 décembre 2025.
+
+[^annex1-lvl2-lvlu3-1]: Le document peut être consulté en anglais à l’adresse suivante: www.blw.admin.ch &gt; Instruments &gt; Agriculture biologique
 
 ### Costa Rica
 
@@ -208,7 +253,7 @@ Servicio Fitosanitario del Estado, Ministerio de Agricultura y Ganadería, www.s
 Produits des catégories A et F produits dans l’UE et produits des catégories D et E transformés dans l’UE contenant des ingrédients biologiques qui ont été produits dans l’UE ou importés dans l’UE:
 
 - a. de Suisse, ou
-- b. d’un pays tiers reconnu en vertu des art. 33, al. 2, 38, let. d, et 40 du règlement (CE) n<sup>o</sup> 834/2007[^annex1-lvl2-lvlu4-1], en relation avec l’annexe III du règlement (CE) n<sup>o</sup> 1235/2008, dans la mesure où cette reconnaissance est applicable au produit concerné, ou
+- b. d’un pays tiers reconnu en vertu des art. 33, al. 2, 38, let. d, et 40 du règlement (CE) n<sup>o</sup> 834/2007[^annex1-lvl2-lvlu5-1], en relation avec l’annexe III du règlement (CE) n<sup>o</sup> 1235/2008, dans la mesure où cette reconnaissance est applicable au produit concerné, ou
 - [tab] c. d’un pays tiers, les produits doivent avoir été certifiés par une autorité ou un organisme de contrôle reconnus comme équivalents par l’UE en application de l’art. 33, al. 3, du règlement (CE) n<sup>o</sup> 834/2007, en relation avec l’annexe IV du règlement (CE) n<sup>o</sup> 1235/2008, et cette reconnaissance doit être applicable à la catégorie de produits et au rayon géographique de validité concernés.
 
 \3. Prescriptions de production:
@@ -227,7 +272,7 @@ Services ou autorités de contrôle prévus à l’art. 27 du règlement (CEE) n
 
 \7. Admission valable jusqu’au 31 décembre 2025.
 
-[^annex1-lvl2-lvlu4-1]: Règlement (CE) n<sup>o</sup> 834/2007 du Conseil du 28 juin 2007 relatif à la production biologique et à l’étiquetage des produits biologiques et abrogeant le règlement (CEE) n<sup>o</sup> 2092/91, JO L 189 du 20.7.2007, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013, JO L 158 du 10.6.2013, p. 1.
+[^annex1-lvl2-lvlu5-1]: Règlement (CE) n<sup>o</sup> 834/2007 du Conseil du 28 juin 2007 relatif à la production biologique et à l’étiquetage des produits biologiques et abrogeant le règlement (CEE) n<sup>o</sup> 2092/91, JO L 189 du 20.7.2007, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013, JO L 158 du 10.6.2013, p. 1.
 
 ### Inde
 
@@ -249,7 +294,7 @@ National Programme for Organic Production
 
 \4. Autorité compétente:
 
-Agricultural and Processed Food Export Development Authority (APEDA), www.apeda.gov.in/apedawebsite/index.asp
+Agricultural and Processed Food Products Export Development Authority (APEDA), www.apeda.gov.in/apedawebsite/index.asp
 
 \5. Organismes de certification:
 
@@ -364,7 +409,7 @@ Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agr
 <tr><td>JP-BIO-006</td><td>Ecocert Japan Ltd.</td><td>http://ecocert.co.jp</td></tr>
 <tr><td>JP-BIO-007</td><td>Bureau Veritas Japan Co., Ltd..</td><td>http://certification. bureauveritas.jp/cer-business/ jas/ nintei\_list.html</td></tr>
 <tr><td>JP-BIO-008</td><td>OCIA Japan</td><td>www.ocia-jp.com</td></tr>
-<tr><td>JP-BIO-009</td><td>Overseas Merchandise Inspection Co. Ltd.</td><td>www.omicnet.com/ omicnet/services-en/organic-certification-en.html</td></tr>
+<tr><td>JP-BIO-009</td><td>Overseas Merchandise Inspection Co. Ltd.</td><td>www.omicnet.com/ omicnet/services-en/ organic-certification-en.html</td></tr>
 <tr><td>JP-BIO-010</td><td>Organic Farming Promotion Association</td><td>http://yusuikyo.web.fc2.com/</td></tr>
 <tr><td>JP-BIO-011</td><td>ASAC Stands for Axis’ System for Auditing and Certification and Association for Sustainable Agricultural Certification</td><td>www.axis-asac.net</td></tr>
 <tr><td>JP-BIO-012</td><td>Environmentally Friendly Rice Network</td><td>www.epfnetwork.org/okome</td></tr>
@@ -374,7 +419,6 @@ Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agr
 <tr><td>JP-BIO-016</td><td>Ehime Organic Agricultural Association</td><td>www12.ocn.ne.jp/~aiyuken/ ninntei20110201.html</td></tr>
 <tr><td>JP-BIO-017</td><td>Center for Eco-design Certification Co. Ltd.</td><td>www.eco-de.co.jp/ list.html</td></tr>
 <tr><td>JP-BIO-018</td><td>Organic Certification Association</td><td>http://yuukinin.org/index.html</td></tr>
-<tr><td>JP-BIO-019</td><td>Japan Eco-system Farming Association</td><td>www.npo-jefa.com</td></tr>
 <tr><td>JP-BIO-020</td><td>Hiroshima Environment and Health Association</td><td>www.kanhokyo.or.jp/jigyo/ jigyo\_05A.html</td></tr>
 <tr><td>JP-BIO-021</td><td>Assistant Center of Certification and Inspection for Sustainability</td><td>www.accis.jp</td></tr>
 <tr><td>JP-BIO-022</td><td>Organic Certification Organization Co. Ltd.</td><td>www.oco45.net</td></tr>
@@ -384,17 +428,16 @@ Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agr
 <tr><td>JP-BIO-026</td><td>Association of Certified Organic Hokkaido</td><td>www.acohorg.org/</td></tr>
 <tr><td>JP-BIO-027</td><td>NPO Kumamoto Organic Agriculture Association</td><td>www.kumayuken.org/jas/ certification/index.html</td></tr>
 <tr><td>JP-BIO-028</td><td>Hokkaido Organic Promoters Association</td><td>www.hosk.jp/CCP.html</td></tr>
-<tr><td>JP-BIO-029</td><td>Association of organic agriculture certification Kochi corporation NPO</td><td>www8.ocn.ne.jp/~koaa/jisseki.html</td></tr>
+<tr><td>JP-BIO-029</td><td>Association of organic agriculture certification Kochi corporation NPO</td><td>www8.ocn.ne.jp/~koaa/ jisseki.html</td></tr>
 <tr><td>JP-BIO-031</td><td>Wakayama Organic Certified Association</td><td>www.vaw.ne.jp/aso/woca</td></tr>
 <tr><td>JP-BIO-032</td><td>Shimane Organic Agriculture Association</td><td>www.shimane-yuki.or.jp/ index.html</td></tr>
-<tr><td>JP-BIO-033</td><td>The Mushroom Research Institute of Japan</td><td>www.kinoko.or.jp</td></tr>
 <tr><td>JP-BIO-034</td><td>International Nature Farming Research Center</td><td>www.infrc.or.jp</td></tr>
 <tr><td>JP-BIO-035</td><td>Organic Certification Center</td><td>www.organic-cert.or.jp</td></tr>
 <tr><td>JP-BIO-036</td><td>Japan Food Research Laboratories</td><td>www.jfrl.or.jp/jas.html</td></tr>
 <tr><td>JP-BIO-037</td><td>Leafearth Company</td><td>www.leafearth.jp/</td></tr>
-<tr><td>JP-BIO-038</td><td>Japan Agricultural Standard Certification Alliance</td><td>http://jascert.or.jp/</td></tr>
-<tr><td>JP-BIO-39</td><td>Agriculture and Forestry Research Foundation of Nagano Prefecture</td><td>www.iijan.or.jp/nourin/authorization/index.php</td></tr>
-<tr><td>JP-BIO-40</td><td>Akatonbo</td><td>www.akatonbo.or.jp/</td></tr>
+<tr><td>JP-BIO-038</td><td>Akatonbo</td><td>www.akatonbo.or.jp/</td></tr>
+<tr><td>JP-BIO-039</td><td>Japan Agricultural Standard Certification Alliance</td><td>http://jascert.or.jp/</td></tr>
+<tr><td>JP-BIO-040</td><td>Agriculture and Forestry Research Foundation of Nagano Prefecture</td><td>[www.iijan.or.jp/nourin/ authorization/index.php](https://www.iijan.or.jp/nourin/authorization/index.php)</td></tr>
 </table>
 
 \6. Autorités délivrant le certificat de contrôle: comme au ch. 5.
@@ -439,7 +482,6 @@ Canadian Food Inspection Agency (CFIA), www.inspection.gc.ca
 <tr><td>CA-ORG-008</td><td>Global Organic Alliance</td><td>www.goa-online.org</td></tr>
 <tr><td>CA-ORG-009</td><td>International Certification Services Incorporated (ICS)</td><td>www.ics-intl.com</td></tr>
 <tr><td>CA-ORG-010</td><td>LETIS SA</td><td>www.letis.org</td></tr>
-<tr><td>CA-ORG-012</td><td>Organic Certifiers</td><td>www.organiccertifiers.com</td></tr>
 <tr><td>CA-ORG-013</td><td>Organic Crop Improvement Association (OCIA)</td><td>www.ocia.org</td></tr>
 <tr><td>CA-ORG-014</td><td>Organic Producers Association of Manitoba Cooperative Incorporated (OPAM)</td><td>www.opam-mb.com</td></tr>
 <tr><td>CA-ORG-015</td><td>Pacific Agricultural Certification Society (PACS)</td><td>www.pacscertifiedorganic.ca</td></tr>
@@ -447,7 +489,7 @@ Canadian Food Inspection Agency (CFIA), www.inspection.gc.ca
 <tr><td>CA-ORG-017</td><td>Quality Assurance International Incorporated (QAI)</td><td>www.qai-inc.com</td></tr>
 <tr><td>CA-ORG-018</td><td>Quality Certification Services (QCS)</td><td>www.qcsinfo.org</td></tr>
 <tr><td>CA-ORG-019</td><td>Organisme de Certification Québec Vrai (OCQV)</td><td>www.quebecvrai.org</td></tr>
-<tr><td>CA-ORG-021</td><td>TransCanada Organic Certification Services (TCO Cert)</td><td>www.tcocert.ca</td></tr>
+<tr><td>CA-ORG-021</td><td>TransCanada Organic Certification Services (TCO Cert)</td><td>www.tcocert.ca/contacts/</td></tr>
 </table>
 
 \6. Autorités délivrant le certificat de contrôle: comme au ch. 5.
@@ -487,9 +529,9 @@ Ministry for Primary Industries (MPI), www.mpi.govt.nz/exporting/food/organics
 
 <table>
 <tr><th>Numéro de code</th><th>Nom</th><th>Adresse internet</th></tr>
-<tr><td>NZ-BIO-001</td><td>New Zealand Ministry for Primary Industries (MPI)</td><td>www.foodsafety.govt.nz/ industry/ sectors/organics</td></tr>
-<tr><td>NZ-BIO-002</td><td>AsureQuality Ltd.</td><td>www.asurequality.com</td></tr>
-<tr><td>NZ-BIO-003</td><td>BioGro New Zealand</td><td>www.biogro.co.nz</td></tr>
+<tr><td>NZ-BIO-001</td><td>Ministry for Primary Industries (MPI)</td><td>http://www.mpi.govt.nz/ exporting/food/organics/</td></tr>
+<tr><td>NZ-BIO-002</td><td>AsureQuality Limited</td><td>www.asurequality.com</td></tr>
+<tr><td>NZ-BIO-003</td><td>BioGro New Zealand Limited</td><td>www.biogro.co.nz</td></tr>
 </table>
 
 \6. Autorités délivrant le certificat de contrôle: comme au ch. 4.
@@ -525,10 +567,10 @@ Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, www.
 <table>
 <tr><th>Numéro de code</th><th>Nom</th><th>Adresse internet</th></tr>
 <tr><td>TN-BIO-001</td><td>Ecocert S.A.</td><td>www.ecocert.com</td></tr>
-<tr><td>TN-BIO-007</td><td>Institut National de la Normalisation et de la Propriété Intellectuelle (INNORPI)</td><td>www.innorpi.tn</td></tr>
+<tr><td>TN-BIO-007</td><td>Institut National de la Normalisation et de la Propriété Industrielle (INNORPI)</td><td>www.innorpi.tn</td></tr>
 <tr><td>TN-BIO-008</td><td>CCPB Srl</td><td>www.ccpb.it</td></tr>
 <tr><td>TN-BIO-009</td><td>CERES GmbH</td><td>www.ceres-cert.com</td></tr>
-<tr><td>TN-BIO-010</td><td>Kiwa BCS Öko-Garantie GmbH</td><td>www.bcs-oeko.com</td></tr>
+<tr><td>TN-BIO-010</td><td>Kiwa BCS Öko-Garantie GmbH</td><td>www.kiwabsc.com</td></tr>
 </table>
 
 \6. Autorités délivrant le certificat de contrôle: comme au ch. 5.
