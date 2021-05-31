@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2019-08-01
-valid_until: 2021-05-31
-version_adopted: 2019-06-18
+version: 2021-06-01
+valid_until: 2021-06-30
+version_adopted: 2021-05-04
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2118/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2236/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2118/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.08.2019)
+Vom 21.03.2006 (Stand 01.06.2021)
 
 Der Regierungsrat,
 
@@ -752,9 +752,10 @@ verordnet:
   - 2\. Abteilung Regionalpolizei
   - 3\. Abteilung Kriminalpolizei
 - c. Hauptabteilung Militär und Zivilschutz
-  - 0\.1. Militärverwaltung und Kreiskommando
-  - 0\.2. Zivilschutz
-  - 1\. Abteilung Militärbetriebe
+  - 0\.1.–0.2. …
+  - 1\. Abteilung Militär
+  - 2\. Abteilung Zivilschutz
+  - 2\.1. Schutzbauten
 - d. Hauptabteilung Justiz
   - 1\. Abteilung Verwaltungspolizei
   - 1\.1. Gewerbepolizei
