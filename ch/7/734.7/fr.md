@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2019-06-01
+version: 2021-06-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20190601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20190601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20190601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20190601/fr"
 
 (LApEl)
 
-du 23 mars 2007 (Etat le 1<sup>er</sup> juin 2019)
+du 23 mars 2007 (Etat le 1<sup>er</sup> juin 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -160,13 +160,16 @@ Les gestionnaires de réseau coordonnent leurs activités. Ils doivent en partic
 - c. assurer une réserve de capacité de réseau suffisante;
 - d. élaborer les exigences techniques et les exigences d’exploitation minimales pour le fonctionnement du réseau; ils tiennent compte à cet égard des normes et recommandations internationales des organisations spécialisées reconnues.
 
-<sup>2</sup> Les gestionnaires de réseau établissent des plans pluriannuels pour assurer la sécurité du réseau, sa performance et son efficacité.
+<sup>2</sup> …[^8-1]
 
 <sup>3</sup> Les gestionnaires de réseau informent chaque année la Commission de l’électricité (ElCom) de l’exploitation et de la charge des réseaux ainsi que des événements extraordinaires.
 
-<sup>4</sup> Le Conseil fédéral peut prévoir des allègements pour les gestionnaires de réseau de distribution de moindre importance concernant les obligations selon les al. 2 et 3.
+<sup>4</sup> Pour les gestionnaires de réseaux de distribution de moindre importance, le Conseil fédéral peut prévoir des allégements concernant les obligations visées à l’al. 3.[^8-2]
 
 <sup>5</sup> Le Conseil fédéral peut prévoir des sanctions, mesures de substitution comprises, en cas de non-respect des obligations.
+
+[^8-1]: Abrogé par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, avec effet au 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^8-2]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 9
 
@@ -197,7 +200,7 @@ Si un bénéfice est réalisé, les éventuelles indemnisations pour coûts supp
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Introduite par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^chap2-sec3-1]: Introduite par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019, excepté l’art. 9*d*, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 9a
 
@@ -237,9 +240,26 @@ Si un bénéfice est réalisé, les éventuelles indemnisations pour coûts supp
 
 #### Art. 9d
 
-[^9d-1]
+**Plans pluriannuels**
 
-[^9d-1]: Entre en vigueur le 1<sup>er</sup> juin 2021.
+<sup>1</sup> Sur la base du scénario-cadre et en fonction des besoins supplémentaires pour leur zone de desserte, les gestionnaires du réseau établissent, pour leurs réseaux d’une tension nominale supérieure à 36 kV, un plan de développement du réseau portant sur dix ans (plan pluriannuel). La société nationale du réseau de transport soumet son plan pluriannuel à l’examen de l’ElCom dans les neuf mois qui suivent l’approbation du dernier scénario-cadre par le Conseil fédéral.
+
+<sup>2</sup>
+
+Le plan pluriannuel devant être soumis:
+
+- a. décrit les projets prévus et indique dans quelle mesure ils sont efficaces et appropriés d’un point de vue technique et économique;
+- b. indique les mesures de développement du réseau prévues au-delà de la période de dix ans qu’il couvre.
+
+<sup>3</sup> Le Conseil fédéral fixe les modalités.
+
+<sup>4</sup>
+
+La société nationale du réseau de transport publie son plan pluriannuel tel qu’il a été examiné par l’ElCom dans la mesure où:
+
+- a. la sûreté intérieure ou extérieure de la Suisse ne s’en trouve pas menacée;
+- b. les intérêts de la Suisse en matière de politique extérieure ou ses relations internationales ne sont pas compromis;
+- c. aucun secret professionnel, d’affaires ou de fabrication n’est révélé.
 
 #### Art. 9e
 
@@ -529,8 +549,8 @@ La société nationale a notamment les tâches suivantes:
 - c. si la stabilité de l’exploitation du réseau est menacée, elle ordonne les mesures nécessaires; elle règle les modalités en collaboration avec les exploitants de centrales, les gestionnaires de réseau et les autres parties concernées;
 - d. elle élabore des procédures transparentes et non discriminatoires pour remédier aux congestions du réseau;
 - e. elle collabore avec les gestionnaires de réseau de transport étrangers et représente les intérêts de la Suisse au sein des organes concernés;
-- f.[^20-2] …
-- g.[^20-3] …
+- f.[^20-2] elle participe à la planification des réseaux de transport d’électricité européens et garantit, en tenant compte du scénario-cadre, que le réseau de transport suisse soit suffisamment connecté avec le réseau de transport international;
+- g.[^20-3] elle informe le public des raisons et de l’état d’avancement des projets qu’elle met en place sur la base du plan pluriannuel et explique l’importance de ces projets pour l’approvisionnement en électricité de la Suisse;
 - h.[^20-4] elle communique à l’OFEN et aux cantons les renseignements nécessaires à l’information du public visée à l’art. 9*e* et met à leur disposition les documents correspondants.
 
 <sup>3</sup> Le Conseil fédéral peut obliger le gestionnaire du réseau de transport à utiliser en priorité de l’électricité issue d’énergies renouvelables, notamment de la force hydraulique, pour couvrir le besoin d’énergie de réglage.
@@ -538,8 +558,8 @@ La société nationale a notamment les tâches suivantes:
 <sup>4</sup> Lorsque l’accomplissement de ses tâches l’exige, la société nationale peut proposer à l’ElCom d’exproprier un propriétaire. Les règles de procédure de la loi fédérale du 20 juin 1930 sur l’expropriation[^20-5] ne sont pas applicables.
 
 [^20-1]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^20-2]: Entre en vigueur le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264)).
-[^20-3]: Entre en vigueur le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264)).
+[^20-2]: Introduite par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^20-3]: Introduite par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^20-4]: Introduite par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^20-5]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
@@ -590,6 +610,8 @@ L’ElCom est notamment compétente pour:
 - b. vérifier d’office les tarifs et la rémunération pour l’utilisation du réseau ainsi que les tarifs de l’électricité; les redevances et les prestations fournies à des collectivités publiques sont réservées; elle peut ordonner une réduction ou interdire une augmentation;
 - c. statuer sur l’utilisation des recettes au sens de l’art. 17, al. 5.
 
+<sup>2bis</sup> L’ElCom examine le plan pluriannuel soumis par la société nationale du réseau de transport et se prononce en particulier sur la nécessité des projets présentés. Elle communique par écrit à ladite société le résultat de son examen dans un délai de neuf mois après le dépôt du plan.[^22-1]
+
 <sup>3</sup> L’ElCom observe et surveille l’évolution des marchés de l’électricité en vue d’assurer un approvisionnement sûr et abordable dans toutes les régions du pays. A cet effet, elle vérifie notamment l’état et l’entretien du réseau de transport ainsi que l’adéquation régionale des investissements de la société nationale du réseau de transport.
 
 <sup>4</sup> Si la sécurité de l’approvisionnement du pays est sérieusement compromise à moyen ou à long terme, l’ElCom propose au Conseil fédéral de prendre les mesures visées à l’art. 9.
@@ -597,6 +619,8 @@ L’ElCom est notamment compétente pour:
 <sup>5</sup> L’ElCom coordonne son activité avec celle des autorités de régulation étrangères et représente la Suisse dans les organes internationaux correspondants.
 
 <sup>6</sup> L’ElCom informe le public sur son activité et présente un rapport d’activité annuel au Conseil fédéral.
+
+[^22-1]: Introduit par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 23
 

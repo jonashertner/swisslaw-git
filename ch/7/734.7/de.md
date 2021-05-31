@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgu
 short: StromVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: de
-version: 2019-06-01
+version: 2021-06-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20190601/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20190601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20190601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20190601/de"
 
 (Stromversorgungsgesetz, StromVG)
 
-vom 23. März 2007 (Stand am 1. Juni 2019)
+vom 23. März 2007 (Stand am 1. Juni 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -160,13 +160,16 @@ Die Netzbetreiber koordinieren ihre Tätigkeiten. Ihnen obliegt insbesondere:
 - c. die Bereitstellung der benötigten Reserveleitungskapazität;
 - d. die Erarbeitung der technischen und betrieblichen Mindestanforderungen für den Netzbetrieb. Sie berücksichtigen dabei internationale Normen und Empfehlungen anerkannter Fachorganisationen.
 
-<sup>2</sup> Sie erstellen Mehrjahrespläne zur Gewährleistung eines sicheren, leistungsfähigen und effizienten Netzes.
+<sup>2</sup> …[^8-1]
 
 <sup>3</sup> Sie orientieren die Elektrizitätskommission (ElCom) jährlich über den Betrieb und die Belastung der Netze sowie über ausserordentliche Ereignisse.
 
-<sup>4</sup> Der Bundesrat kann für Betreiber von kleinen Verteilnetzen Erleichterungen in Bezug auf die Pflichten nach den Absätzen 2 und 3 vorsehen.
+<sup>4</sup> Der Bundesrat kann für Betreiber kleiner Verteilnetze Erleichterungen in Bezug auf die Pflichten nach Absatz 3 vorsehen.[^8-2]
 
 <sup>5</sup> Der Bundesrat sieht für Pflichtverletzungen Sanktionen einschliesslich Ersatzvornahmen vor.
+
+[^8-1]: Aufgehoben durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, mit Wirkung seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^8-2]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 9
 
@@ -197,7 +200,7 @@ Wird ein Gewinn erwirtschaftet, so müssen allfällige Abgeltungen für Mehrkost
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^chap2-sec3-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019, Art. 9*d* seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 9a
 
@@ -237,9 +240,26 @@ Wird ein Gewinn erwirtschaftet, so müssen allfällige Abgeltungen für Mehrkost
 
 #### Art. 9d
 
-[^9d-1]
+**Mehrjahrespläne**
 
-[^9d-1]: Tritt am 1. Juni 2021 in Kraft.
+<sup>1</sup> Die Netzbetreiber erstellen für ihre Netze mit einer Nennspannung von über 36 kV auf der Grundlage des Szenariorahmens und entsprechend dem weiteren Bedarf für ihr Netzgebiet einen auf zehn Jahre ausgelegten Entwicklungsplan (Mehrjahresplan). Die nationale Netzgesellschaft legt ihren Mehrjahresplan innerhalb von neun Monaten nach Genehmigung des letzten Szenariorahmens durch den Bundesrat der ElCom zur Prüfung vor.
+
+<sup>2</sup>
+
+Der vorzulegende Mehrjahresplan enthält folgende Angaben:
+
+- a. Er beschreibt die vorgesehenen Projekte und legt dar, inwiefern sie aus wirtschaftlicher und technischer Sicht wirksam und angemessen sind.
+- b. Er weist aus, welche Netzentwicklungsmassnahmen über die entsprechenden zehn Jahre hinaus vorgesehen sind.
+
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten.
+
+<sup>4</sup>
+
+Die nationale Netzgesellschaft veröffentlicht ihren von der ElCom geprüften Mehrjahresplan, soweit:
+
+- a. die innere oder äussere Sicherheit der Schweiz nicht gefährdet wird;
+- b. die aussenpolitischen Interessen oder die internationalen Beziehungen der Schweiz nicht beeinträchtigt werden;
+- c. keine Berufs-, Geschäfts- oder Fabrikationsgeheimnisse offenbart werden.
 
 #### Art. 9e
 
@@ -529,16 +549,16 @@ Insbesondere hat sie folgende Aufgaben:
 - c. Bei Gefährdung des stabilen Netzbetriebs ordnet sie die notwendigen Massnahmen an. Sie regelt die Einzelheiten mit den Kraftwerksbetreibern, den Netzbetreibern und weiteren Beteiligten.
 - d. Sie erarbeitet transparente und diskriminierungsfreie Verfahren zur Handhabung von Engpässen.
 - e. Sie arbeitet mit den ausländischen Übertragungsnetzbetreibern zusammen und vertritt die Interessen der Schweiz in den entsprechenden Gremien.
-- f.[^20-1] …
-- g.[^20-2] …
+- f. [^20-1] Sie beteiligt sich an der Planung der europäischen Übertragungsnetze und stellt unter Berücksichtigung des Szenariorahmens die ausreichende internationale Vernetzung des schweizerischen Übertragungsnetzes sicher.
+- g.[^20-2] Sie informiert die Öffentlichkeit über die Begründung und den Stand der von ihr gemäss dem Mehrjahresplan geführten Projekte und legt deren Bedeutung für die Stromversorgung in der Schweiz dar.
 - h.[^20-3] Sie erteilt dem BFE und den Kantonen die für die Öffentlichkeitsarbeit nach Artikel 9*e* notwendigen Auskünfte und stellt ihnen die entsprechenden Unterlagen zur Verfügung.
 
 <sup>3</sup> Der Bundesrat kann die Netzgesellschaft verpflichten, für den Abruf von Regelenergie vorrangig Elektrizität aus erneuerbarer Energie, insbesondere aus Wasserkraft, einzusetzen.
 
 <sup>4</sup> Die nationale Netzgesellschaft kann zur Erfüllung ihrer Aufgaben im Einzelfall bei der ElCom die Enteignung beantragen. Die Verfahrensbestimmungen des Bundesgesetzes vom 20. Juni 1930[^20-4] über die Enteignung sind nicht anwendbar.
 
-[^20-1]: Tritt am 1. Juni 2021 in Kraft.
-[^20-2]: Tritt am 1. Juni 2021 in Kraft.
+[^20-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^20-2]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^20-3]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^20-4]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
@@ -589,6 +609,8 @@ Sie ist insbesondere zuständig für:
 - b. die Überprüfung der Netznutzungstarife und –entgelte sowie der Elektrizitätstarife von Amtes wegen. Vorbehalten bleiben Abgaben und Leistungen an Gemeinwesen. Sie kann Absenkungen verfügen oder Erhöhungen untersagen;
 - c. den Entscheid über die Verwendung der Einnahmen nach Artikel 17 Absatz 5.
 
+<sup>2bis</sup> Die ElCom prüft den von der nationalen Netzgesellschaft vorgelegten Mehrjahresplan, insbesondere den Bedarf an den darin vorgesehenen Projekten. Sie teilt der nationalen Netzgesellschaft das Ergebnis der Prüfung innerhalb von neun Monaten nach Einreichung schriftlich mit.[^22-1]
+
 <sup>3</sup> Die ElCom beobachtet und überwacht die Entwicklung der Elektrizitätsmärkte im Hinblick auf eine sichere und erschwingliche Versorgung in allen Landesteilen. Sie überprüft zu diesem Zweck insbesondere den Zustand und Unterhalt des Übertragungsnetzes sowie die regionale Ausgewogenheit der Investitionen der nationalen Netzgesellschaft.
 
 <sup>4</sup> Zeichnet sich mittel- oder langfristig eine erhebliche Gefährdung der inländischen Versorgungssicherheit ab, unterbreitet die ElCom dem Bundesrat Vorschläge für Massnahmen nach Artikel 9.
@@ -596,6 +618,8 @@ Sie ist insbesondere zuständig für:
 <sup>5</sup> Die ElCom koordiniert ihre Tätigkeit mit ausländischen Regulierungsbehörden und vertritt die Schweiz in den entsprechenden Gremien.
 
 <sup>6</sup> Die ElCom orientiert die Öffentlichkeit über ihre Tätigkeit und erstattet dem Bundesrat jährlich einen Tätigkeitsbericht.
+
+[^22-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2021 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 23
 

@@ -4,11 +4,11 @@ title: "Legge del 23 marzo 2007 sull'approvvigionamento elettrico (LAEl)"
 short: LAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: it
-version: 2019-06-01
+version: 2021-06-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20190601/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20190601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20190601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20190601/it"
 
 (LAEl)
 
-del 23 marzo 2007 (Stato 1° giugno 2019)
+del 23 marzo 2007 (Stato 1° giugno 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -161,13 +161,16 @@ I gestori di rete coordinano le loro attività. Essi sono tenuti in particolare 
 - c. approntare la necessaria capacità di incanalamento delle riserve;
 - d. elaborare requisiti tecnici e aziendali minimi per l’esercizio della rete. A tale proposito, essi tengono conto delle norme e raccomandazioni internazionali emanate da organizzazioni specializzate riconosciute.
 
-<sup>2</sup> I gestori di rete allestiscono piani pluriennali atti a garantire una rete sicura, performante ed efficiente.
+<sup>2</sup> ...[^8-1]
 
 <sup>3</sup> I gestori di rete informano con scadenza annuale la Commissione dell’energia elettrica (ElCom) in merito all’esercizio e al carico delle reti, nonché in merito ad avvenimenti straordinari.
 
-<sup>4</sup> Il Consiglio federale può prevedere facilitazioni per i gestori di piccole reti di distribuzione riguardo agli obblighi di cui ai capoversi 2 e 3.
+<sup>4</sup> Il Consiglio federale può prevedere facilitazioni per i gestori di piccole reti di distribuzione riguardo agli obblighi di cui al capoverso 3.[^8-2]
 
 <sup>5</sup> Il Consiglio federale può prevedere sanzioni per violazioni degli obblighi, inclusa l’esecuzione forzata dell’obbligazione.
+
+[^8-1]: Abrogato dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, con effetto dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^8-2]: Nuovo testo giusta il n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 9
 
@@ -198,7 +201,7 @@ Se è realizzato un utile sotto il profilo economico, gli eventuali indennizzi p
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Introdotta dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^chap2-sec3-1]: Introdotta dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019, art. 9*d* in vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 9a
 
@@ -238,9 +241,26 @@ Se è realizzato un utile sotto il profilo economico, gli eventuali indennizzi p
 
 #### Art. 9d
 
-[^9d-1]
+**Piani pluriennali**
 
-[^9d-1]: In vigore dal 1° giu. 2021.
+<sup>1</sup> Basandosi sullo scenario di riferimento e in funzione del fabbisogno supplementare per il proprio comprensorio, i gestori di rete allestiscono per le proprie reti con una tensione superiore a 36 kV un piano di sviluppo per un periodo di dieci anni (piano pluriennale). La società nazionale di rete sottopone il proprio piano pluriennale alla ElCom per verifica entro nove mesi dall’approvazione da parte del Consiglio federale dell’ultimo scenario di riferimento.
+
+<sup>2</sup>
+
+Il piano pluriennale che la società nazionale di rete è tenuta a sottoporre:
+
+- a. descrive i progetti previsti e illustra in che misura sono efficaci e appropriati in termini tecnici ed economici;
+- b. indica le misure di sviluppo della rete previste oltre il periodo di dieci anni da esso coperto.
+
+<sup>3</sup> Il Consiglio federale disciplina i dettagli.
+
+<sup>4</sup>
+
+La società nazionale di rete pubblica il proprio piano pluriennale verificato dalla ElCom a condizione che:
+
+- a. non sia messa in pericolo la sicurezza interna o esterna della Svizzera;
+- b. non siano pregiudicati gli interessi di politica estera o le relazioni internazionali della Svizzera;
+- c. non siano svelati segreti professionali, d’affari o di fabbricazione.
 
 #### Art. 9e
 
@@ -352,8 +372,6 @@ Per costi d’esercizio si intendono i costi di prestazioni in relazione diretta
 - b. i costi di manutenzione delle reti;
 - c. le rimunerazioni per la concessione di diritti e servitù connessi all’esercizio della rete.[^15-2]
 
-<sup>2</sup> Per costi d’esercizio si intendono i costi per le prestazioni in relazione diretta con la gestione delle reti, rispettivamente con i sistemi di misurazione intelligenti installati presso il consumatore finale.[^15-3] Vi rientrano in particolare i costi per le prestazioni di servizio relative al sistema e per la manutenzione delle reti.
-
 <sup>3</sup>
 
 I costi del capitale devono essere calcolati in base ai costi iniziali di acquisto e di costruzione degli impianti esistenti. Sono computabili come costi del capitale al massimo:
@@ -366,9 +384,9 @@ I costi del capitale devono essere calcolati in base ai costi iniziali di acquis
 Il Consiglio federale disciplina le condizioni e l’estensione della computabilità nonché l’attribuzione ai costi d’esercizio e del capitale per:
 
 - a. i costi di sistemi di misurazione, di controllo e di regolazione intelligenti, inclusi determinati costi di sensibilizzazione nell’ambito della riduzione del consumo;
-- b. i costi di misure di informazione necessarie e specifiche al progetto che il gestore di rete adotta per progetti soggetti ad approvazione ai sensi dell’articolo 16 della legge del 24 gennaio 1902[^15-4] sugli impianti elettrici;
+- b. i costi di misure di informazione necessarie e specifiche al progetto che il gestore di rete adotta per progetti soggetti ad approvazione ai sensi dell’articolo 16 della legge del 24 gennaio 1902[^15-3] sugli impianti elettrici;
 - c. gli emolumenti versati dai gestori di rete ai sensi dell’articolo 3*a* capoverso 2 della legge sugli impianti elettrici;
-- d. i costi di misure innovative di cui al capoverso 1.[^15-5]
+- d. i costi di misure innovative di cui al capoverso 1.[^15-4]
 
 <sup>4</sup>
 
@@ -379,9 +397,8 @@ Il Consiglio federale fissa le basi per:
 
 [^15-1]: Nuovo testo giusta il n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^15-2]: Nuovo testo giusta il n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15-3]: Nuovo testo giusta il n. II 9 dell’all. alla LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^15-4]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^15-5]: Introdotto dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15-3]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^15-4]: Introdotto dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 15a
 
@@ -534,16 +551,18 @@ In particolare, la società di rete:
 - c. ordina i provvedimenti necessari in caso di minaccia per l’esercizio stabile della rete. Disciplina i dettagli con i gestori delle centrali, i gestori di rete e gli altri partecipanti;
 - d. elabora procedure trasparenti e non discriminatorie per far fronte alle congestioni;
 - e. collabora con i gestori esteri delle reti di trasporto e rappresenta gli interessi della Svizzera nei relativi organismi;
-- f. e g.[^20-1] ...
-- h.[^20-2] fornisce all’UFE e ai Cantoni le informazioni necessarie alle attività di relazioni pubbliche conformemente all’articolo 9*e* e mette loro a disposizione la relativa documentazione.
+- f.[^20-1] partecipa alla pianificazione delle reti di trasporto europee e assicura, tenendo conto dello scenario di riferimento, che la rete di trasporto svizzera sia sufficientemente integrata a livello internazionale;
+- g.[^20-2] informa l’opinione pubblica sulle motivazioni e sullo stato dei progetti da essa gestiti conformemente al piano pluriennale, illustrandone l’importanza per l’approvvigionamento di energia elettrica in Svizzera;
+- h.[^20-3] fornisce all’UFE e ai Cantoni le informazioni necessarie alle attività di relazioni pubbliche conformemente all’articolo 9*e* e mette loro a disposizione la relativa documentazione.
 
 <sup>3</sup> Il Consiglio federale può obbligare il gestore della rete di trasporto a impiegare prioritariamente quale energia di regolazione elettricità generata da energia rinnovabile, in particolare dalla forza idrica.
 
-<sup>4</sup> Per adempiere i propri compiti, nel singolo caso la società di rete può chiedere l’espropriazione alla ElCom. Le disposizioni procedurali della legge federale del 20 giugno 1930[^20-3] sull’espropriazione non sono applicabili.
+<sup>4</sup> Per adempiere i propri compiti, nel singolo caso la società di rete può chiedere l’espropriazione alla ElCom. Le disposizioni procedurali della legge federale del 20 giugno 1930[^20-4] sull’espropriazione non sono applicabili.
 
-[^20-1]: In vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264)).
-[^20-2]: Introdotta dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^20-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^20-1]: Introdotta dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^20-2]: Introdotta dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^20-3]: Introdotta dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^20-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
 #### Art. 20a
 
@@ -592,6 +611,8 @@ La ElCom è competente in particolare per:
 - b. verificare d’ufficio i tariffari e i corrispettivi per l’utilizzazione della rete, nonché le tariffe dell’energia elettrica. Sono fatti salvi i tributi e le prestazioni agli enti pubblici. Essa può decidere una diminuzione o vietare un aumento;
 - c. decidere dell’impiego delle entrate secondo l’articolo 17 capoverso 5.
 
+<sup>2bis</sup> La ElCom verifica il piano pluriennale sottoposto dalla società nazionale di rete, in particolare la necessità dei progetti previsti. Entro nove mesi dalla presentazione del piano comunica per scritto alla società nazionale di rete l’esito della verifica.[^22-1]
+
 <sup>3</sup> La ElCom osserva e sorveglia l’evoluzione dei mercati dell’energia elettrica in vista di assicurare un approvvigionamento sicuro e economicamente accettabile in tutte le regioni del Paese. A tal fine, verifica segnatamente lo stato e la manutenzione della rete di trasporto e accerta se gli investimenti della società nazionale di rete sono equilibrati a livello regionale.
 
 <sup>4</sup> Qualora si prospetti una notevole minaccia a medio o lungo termine per la sicurezza dell’approvvigionamento indigeno, la ElCom propone al Consiglio federale provvedimenti secondo l’articolo 9.
@@ -599,6 +620,8 @@ La ElCom è competente in particolare per:
 <sup>5</sup> La ElCom coordina la sua attività con le autorità estere di regolazione e rappresenta la Svizzera nei relativi organismi internazionali.
 
 <sup>6</sup> La ElCom informa il pubblico sulla propria attività e presenta al Consiglio federale un rapporto d’attività annuale.
+
+[^22-1]: Introdotto dal n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2021 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 23
 
