@@ -1,24 +1,23 @@
 ---
 canton: BS
 number: "162.890"
-title: Personalverordnung für die Mitarbeiterinnen und Mitarbeiter der Strafanstalt Bostadel
+title: Personalverordnung für die Mitarbeiterinnen und Mitarbeiter der Justizvollzugsanstalt Bostadel
 language: de
-version: 2015-10-01
-valid_until: 2021-05-31
-version_adopted: 2015-06-30
+version: 2021-06-01
+version_adopted: 2021-05-11
 adopted: 2000-11-28
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.890"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3507/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Personalverordnung für die Mitarbeiterinnen und Mitarbeiter der Strafanstalt Bostadel
+# Personalverordnung für die Mitarbeiterinnen und Mitarbeiter der Justizvollzugsanstalt Bostadel
 
 Strafanstalt Bostadel: Personalverordnung | Staatspersonal: Dienstverhältnis
 
-Vom 28. November 2000 (Stand 1. Oktober 2015)
+Vom 28. November 2000 (Stand 1. Juni 2021)
 
 Die Regierungen der Kantone Basel-Stadt und Zug,
 
@@ -40,9 +39,11 @@ beschliessen:
 
 **Geltungsbereich (§ 1 Personalgesetz)**
 
-<sup>1</sup> Diese Verordnung regelt die Anstellungsbedingungen, Löhne und Versicherungsfragen der Mitarbeiterinnen und Mitarbeiter der Interkantonalen Strafanstalt Bostadel.
+<sup>1</sup> Diese Verordnung regelt die Anstellungsbedingungen, Löhne und Versicherungsfragen der Mitarbeiterinnen und Mitarbeiter der Justizvollzugsanstalt Bostadel.
 
 <sup>2</sup> Soweit diese Verordnung nichts anderes bestimmt, gelangen subsidiär das baselstädtische Personalgesetz, das baselstädtische Lohngesetz und das baselstädtische Pensionskassengesetz mit den dazugehörigen Verordnungen, Beschlüssen und Weisungen zur Anwendung. Die in Klammern angegebenen Paragrafen beziehen sich im Teil A auf das baselstädtische Personalgesetz, im Teil B auf das baselstädtische Lohngesetz.
+
+<sup>3</sup> Die Paritätische Aufsichtskommission kann Reglemente, die vom Justiz- und Sicherheitsdepartement Basel-Stadt gestützt auf § 1 Abs. 1 Satz 2 der Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt (Arbeitszeitverordnung, AZV) vom 6. Juli 2004 erlassen worden sind, ganz oder zu Teilen für anwendbar erklären.
 
 ### A.II. Entstehung des Arbeitsverhältnisses (§§ 8–11 Personalgesetz)
 
@@ -58,7 +59,7 @@ beschliessen:
 
 **Diensterfüllungspflicht**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter haben die ihnen übertragenen Obliegenheiten sorgfältig, gewissenhaft und wirtschaftlich zu erfüllen. Sie haben durch ihr Verhalten während und ausserhalb des Dienstes alles zu unterlassen, was die Interessen der Strafanstalt beeinträchtigt.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter haben die ihnen übertragenen Obliegenheiten sorgfältig, gewissenhaft und wirtschaftlich zu erfüllen. Sie haben durch ihr Verhalten während und ausserhalb des Dienstes alles zu unterlassen, was die Interessen der Justizvollzugsanstalt beeinträchtigt.
 
 #### § 4
 
@@ -154,7 +155,7 @@ beschliessen:
 
 #### § 15
 
-<sup>1</sup> Die Fürsorge für die Mitarbeiterinnen und Mitarbeiter der Strafanstalt Bostadel bei Unfall und Krankheit und die Leistungen, die das Personal dafür aufzubringen hat, richten sich sinngemäss nach den Vorschriften des Gesetzes betreffend die Versicherung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt bei Unfall und Krankheit vom 29. April 1992.
+<sup>1</sup> Die Fürsorge für die Mitarbeiterinnen und Mitarbeiter der Justizvollzugsanstalt Bostadel bei Unfall und Krankheit und die Leistungen, die das Personal dafür aufzubringen hat, richten sich sinngemäss nach den Vorschriften des Gesetzes betreffend die Versicherung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt bei Unfall und Krankheit vom 29. April 1992.
 
 <sup>2</sup> …
 
@@ -162,11 +163,11 @@ beschliessen:
 
 **Berufliche Vorsorge**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Strafanstalt Bostadel sind bei der Pensionskasse Basel-Stadt im Vorsorgewerk Bereich Staat gemäss dem für die Mitarbeitenden des Bereichs Staat massgebenden Vorsorgeplan versichert.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Justizvollzugsanstalt Bostadel sind bei der Pensionskasse Basel-Stadt im Vorsorgewerk Bereich Staat gemäss dem für die Mitarbeitenden des Bereichs Staat massgebenden Vorsorgeplan versichert.
 
-<sup>2</sup> Die Höhe der Beiträge der Strafanstalt Bostadel und ihrer Mitarbeiterinnen und Mitarbeiter richtet sich nach dem Vorsorgeplan des Vorsorgewerkes Bereich Staat.
+<sup>2</sup> Die Höhe der Beiträge der Justizvollzugsanstalt Bostadel und ihrer Mitarbeiterinnen und Mitarbeiter richtet sich nach dem Vorsorgeplan des Vorsorgewerkes Bereich Staat.
 
-<sup>3</sup> Die Strafanstalt Bostadel und ihre Mitarbeiterinnen und Mitarbeiter leisten Sanierungsbeiträge, Stabilisierungsbeiträge oder anderweitige ausserplanmässige Beiträge oder Einlagen nach denselben Regeln wie der Bereich Staat.
+<sup>3</sup> Die Justizvollzugsanstalt Bostadel und ihre Mitarbeiterinnen und Mitarbeiter leisten Sanierungsbeiträge, Stabilisierungsbeiträge oder anderweitige ausserplanmässige Beiträge oder Einlagen nach denselben Regeln wie der Bereich Staat.
 
 ## B. Lohnbestimmungen
 
