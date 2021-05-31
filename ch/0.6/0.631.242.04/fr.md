@@ -3,16 +3,16 @@ sr: "0.631.242.04"
 title: Convention du 20 mai 1987 relative à un régime de transit commun (avec appendices et prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: fr
-version: 2021-02-25
+version: 2021-06-01
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210225-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210225/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention relative à un régime de transit commun****
+# Convention relative à un régime de transit commun
 
 RO **1988** 308;FF **1987** II1459[^t-1]
 
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 octobre 1987
 
 Entrée en vigueur le 1<sup>er</sup> janvier 1988
 
-(Etat le 25 février 2021)
+(État le 1<sup>er</sup> juin 2021)
 
 [^t-1]: Cette Conv. comprenait primitivement les parties contractantes suivantes: la CEE, la République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse. La République d’Autriche, la République de Finlande et le Royaume de Suède ont adhéré aux Communautés européennes le 1<sup>er</sup> janv. 1995 et, depuis cette date, ne sont plus des parties contractantes autonomes à la Conv. La Pologne, la Slovaquie, la Tchéquie et la Hongrie ont adhéré à la Conv. le 1<sup>er</sup> juil. 1996 ([RO 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Suite à leur adhésion à l’UE, ces 4 pays ne sont plus des parties contractantes autonomes à la Conv. depuis le 1<sup>er</sup> mai 2004. Sont également parties contractantes la République de Croatie depuis le 1<sup>er</sup> juil. 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la République de Turquie depuis le 1<sup>er</sup> déc. 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), la Macédoine depuis le 1<sup>er</sup> juil 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et la Serbie depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 al. 1 let. b de l’AF du 8 oct. 1987 ([RO 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -298,7 +298,7 @@ En cas de soupçons d’irrégularité ou d’infraction se rapportant à des ma
 [^13-2]: Mise à jour linguistique par l’art. 1 ch. 11 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) et l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
 [^13-3]: Mise à jour linguistique par l’art. 1 ch. 11 de la D n<sup>o</sup> 1/2000 de la Commission mixte CEE-AELE du 20 déc. 2000 ([RO 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) et l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
 
-## Recouvrement des créances****
+## Recouvrement des créances
 
 [^lvlu4-1]
 
@@ -358,7 +358,7 @@ La commission mixte arrête par voie de décision:
 [^15-7]: Introduit par l’Ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995 ([RO 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)). Nouvelle teneur selon l’art. 1 ch. 4 de la D n<sup>o</sup> 3/97 de la Commission mixte du 23 juil. 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1998 258](https://fedlex.data.admin.ch/eli/oc/1998/258_258_258)).
 [^15-8]: Introduit par l’Ac. du 25 sept. 1995, approuvé par l’Ass. féd. le 22 mars 1995, en vigueur depuis le 1<sup>er</sup> juil. 1994 ([RO 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
-## Adhésion des pays tiers****
+## Adhésion des pays tiers
 
 [^lvlu6-1]
 
@@ -443,11 +443,11 @@ La présente convention, qui est établie en un exemplaire unique en langues all
 
 Fait à Interlaken, le vingt mai de l’année mil neuf cent quatre-vingt-sept. (Suivent les signatures)
 
-Appendice I*[^t-3]*
+Appendice I[^t-3]
 
 ## Procédures de transit commun
 
-[^t-3]: Nouvelle teneur selon l’art. 1 ch. 2 de la D n° 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Mis à jour par l’art. 1 ch. 1 et 2 de la D n<sup>o</sup> 1/2017 de la Commission mixte UE-AELE du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)) et l’art. 1 ch. 1 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019, en vigueur depuis le 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+[^t-3]: Nouvelle teneur selon l’art. 1 ch. 2 de la D n° 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Mis à jour par l’art. 1 ch. 1 et 2 de la D n<sup>o</sup> 1/2017 de la Commission mixte UE-AELE du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), l’art. 1 ch. 1 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) et l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2021 de la Commission mixte UE-AELE du 1<sup>er</sup> juin 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> juin 2021 ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### Titre I Dispositions générales
 
@@ -1235,6 +1235,10 @@ En cas de naissance d’une dette, l’autorité douanière du pays de départ p
 
 <sup>2.</sup> L’autorité douanière compétente dans ce lieu accuse réception de ces informations et indique à l’autorité douanière du pays de départ si elle est compétente pour le recouvrement. Si elle n’a pas reçu ces informations dans un délai de 28 jours, l’autorité douanière du pays de départ reprend la procédure de recherche ou engage l’action en recouvrement sans délai.
 
+<sup>3.</sup> Lorsque l’autorité douanière d’un pays participant à une opération de transit commun obtient la preuve, avant l’expiration du délai visé à l’article 114, paragraphe 2), point a), que le lieu où se sont produits les faits ayant fait naître la dette est situé sur son territoire, celle-ci adresse immédiatement, et en tout état de cause dans ce délai, une demande dûment justifiée à l’autorité douanière du pays de départ pour que lui soit transférée la responsabilité d’engager l’action en recouvrement.
+
+<sup>4.</sup> L’autorité douanière du pays de départ accuse réception de la demande faite conformément au paragraphe 3 et, dans un délai de 28 jours à compter de la date d’envoi de la demande, fait savoir à l’autorité douanière demanderesse si elle accepte de faire droit à sa demande et de lui transférer la responsabilité d’engager l’action en recouvrement.
+
 #### Art. 51
 
 **Preuve alternative de la fin du régime de transit commun**
@@ -1704,7 +1708,15 @@ Le recours à la garantie globale ou à la garantie globale d’un montant rédu
 
 <sup>1.</sup> Sur la base de l’autorisation, le bureau de douane de garantie délivre au titulaire du régime un ou plusieurs certificats de garantie globale établis au moyen du formulaire dont le modèle figure à l’annexe C5 de l’appendice III ou un ou plusieurs certificats de dispense de garantie établis au moyen du formulaire dont le modèle figure à l’annexe C6 de l’appendice III, qui permettent audit titulaire de justifier soit d’une garantie globale, soit d’une dispense de garantie dans le cadre de l’application de l’art. 26, par. 1, point b).
 
-<sup>2.</sup> La durée de validité d’un certificat est limitée à deux ans. Toutefois, cette durée peut faire l’objet de la part du bureau de douane de garantie d’une seule prorogation n’excédant pas deux ans.
+<sup>2.</sup> La durée de validité d’un certificat de garantie globale ou d’un certificat de dispense de garantie n’excède pas cinq ans. Toutefois, cette durée peut faire l’objet de la part du bureau de douane de garantie d’une prorogation n’excédant pas cinq ans.[^annexI-lvlu1-titIII-chapII-79-1]
+
+<sup>3.</sup> Si, au cours de la période de validité du certificat, le bureau de douane de garantie est informé que le certificat, en raison de nombreuses modifications, n’est pas suffisamment lisible et peut être refusé par le bureau de douane de départ, le bureau de douane de garantie invalide le certificat et délivre un nouveau certificat, s’il y a lieu.[^annexI-lvlu1-titIII-chapII-79-2]
+
+<sup>4.</sup> Les certificats d’une durée de validité de deux ans restent valables. Leur durée de validité peut faire l’objet de la part du bureau de douane de garantie d’une prorogation n’excédant pas cinq ans.[^annexI-lvlu1-titIII-chapII-79-3]
+
+[^annexI-lvlu1-titIII-chapII-79-1]: Applicable dès le 30 juin 2020 ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexI-lvlu1-titIII-chapII-79-2]: Applicable dès le 30 juin 2020 ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexI-lvlu1-titIII-chapII-79-3]: Applicable dès le 30 juin 2020 ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 #### Art. 80
 
@@ -2463,7 +2475,9 @@ Annexe II de l’appendice I
   - – un titre de garantie isolée, établi sur le formulaire prévu à l’annexe C3 de l’appendice III.
 
 - 19\.2 La déclaration de transit doit faire référence aux certificats et au titre.
-- 19\.3 La durée de validité d’un certificat de garantie globale ou d’un certificat de dispense de garantie n’excède pas deux ans. Toutefois, cette durée peut faire l’objet de la part du bureau de douane de garantie d’une seule prorogation n’excédant pas deux ans.
+- 19\.3[^annexII-lvlu1-chapIII-1] La durée de validité d’un certificat de garantie globale ou d’un certificat de dispense de garantie n’excède pas cinq ans. Toutefois, cette durée peut faire l’objet de la part du bureau de douane de garantie d’une prorogation n’excédant pas cinq ans.
+- Si, au cours de la période de validité du certificat, le bureau de douane de garantie est informé que le certificat, en raison de nombreuses modifications, n’est pas suffisamment lisible et peut être refusé par le bureau de douane de départ, le bureau de douane de garantie invalide le certificat et délivre un nouveau certificat, s’il y a lieu.
+- Les certificats d’une durée de validité de deux ans restent valables. Leur durée de validité peut faire l’objet de la part du bureau de douane de garantie d’une prorogation n’excédant pas cinq ans.
 - 19\.4 À la date d’effet de la révocation d’une autorisation de constitution d’une garantie globale ou de la révocation et de la résiliation d’un engagement de caution dans le cas d’une garantie globale, aucun certificat émis ne peut plus être utilisé pour le placement de marchandises sous le régime de transit commun et est restitué sans délai au bureau de douane de garantie par le titulaire du régime.
 - 19\.5 Chaque pays fournit à la Commission des informations sur les éléments d’identification des certificats en cours de validité qui n’ont pas été restitués ou qui ont été déclarés volés, perdus ou falsifiés. La Commission en informe les autres pays en conséquence.
 - 20\. Listes de chargement spéciales
@@ -2516,7 +2530,9 @@ Annexe II de l’appendice I
 - 26\.1 Lorsque les marchandises arrivent dans un lieu précisé dans l’autorisation, le destinataire agréé en informe sans tarder le bureau de douane de destination. Il mentionne la date d’arrivée, l’état des scellés apposés et toute irrégularité constatée sur les exemplaires n<sup>o</sup> 4 et n<sup>o</sup> 5 du DAU ou sur le TAD, qui accompagnaient les marchandises, et les remet au bureau de douane de destination conformément aux dispositions prévues dans l’autorisation.
 - 26\.2 Le bureau de douane de destination appose sur les exemplaires n<sup>o</sup> 4 et n<sup>o</sup> 5 du DAU ou sur le TAD les annotations prévues au point 13 de la présente annexe.
 
-Appendice II*[^t-4]*
+[^annexII-lvlu1-chapIII-1]: Applicable dès le 30 juin 2020 ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+
+Appendice II[^t-4]
 
 ## Statut douanier de marchandises de l’Union et dispositions relatives à l’euro
 
@@ -2859,11 +2875,11 @@ Si, pour une monnaie nationale donnée, ce taux n’est pas disponible, le taux 
 
 <sup>2.</sup> La contre-valeur de l’euro à prendre en considération pour l’application du par. 1 est celle applicable à la date de l’acceptation de la déclaration de transit commun couverte par le ou les titres de garantie isolée, conformément à l’art. 30, par. 2 de l’appendice I.
 
-Appendice III*[^t-5]*
+Appendice III[^t-5]
 
 ## Déclaration de transit et formulaires en cas d’utilisation de procédés informatiques de traitement des données
 
-[^t-5]: Nouvelle teneur selon l’art. 1 ch. 6 et 7 de la D n<sup>o</sup> 1/2008 de la Commission mixte CEE-AELE du 16 juin 2008 ([RO 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Mis à jour par les art. 1 des D n<sup>o</sup> 3/2012 de la Commission mixte UE-AELE du 26 juin 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n<sup>o</sup> 4/2012 du 26 juin 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n<sup>o</sup> 1/2013 du 1<sup>er</sup> juil. 2013 ([RO 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n<sup>o</sup> 2/2013 du 7 nov. 2015 ([RO 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n<sup>o</sup> 2/2015 du 17 juin 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et n<sup>o</sup> 4/2015 du 26 nov. 2015 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), l’art. 1 ch. 4 à 6 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), l’art. 1 ch. 5 de la D n<sup>o</sup> 1/2017 du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), l’art. 1 ch. 3 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) et l’art. 1 de la D n° 1/2018 de la Commission mixte UE-AELE du 4 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Selon l’art. 2 de cette D, l’utilisation des formulaires liés à la garantie qui figurent aux annexes C1 à C6 de l’appendice III de la convention, dans leur version applicable la veille de l’entrée en vigueur de la présente D, peut se poursuivre, sous réserve des adaptations géographiques nécessaires, pendant un an à partir de l’entrée en vigueur de la présente décision.
+[^t-5]: Nouvelle teneur selon l’art. 1 ch. 6 et 7 de la D n<sup>o</sup> 1/2008 de la Commission mixte CEE-AELE du 16 juin 2008 ([RO 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Mis à jour par les art. 1 des D n<sup>o</sup> 3/2012 de la Commission mixte UE-AELE du 26 juin 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n<sup>o</sup> 4/2012 du 26 juin 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n<sup>o</sup> 1/2013 du 1<sup>er</sup> juil. 2013 ([RO 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n<sup>o</sup> 2/2013 du 7 nov. 2015 ([RO 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n<sup>o</sup> 2/2015 du 17 juin 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et n<sup>o</sup> 4/2015 du 26 nov. 2015 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), l’art. 1 ch. 4 à 6 de la D n<sup>o</sup> 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), l’art. 1 ch. 5 de la D n<sup>o</sup> 1/2017 du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), l’art. 1 ch. 3 de la D n<sup>o</sup> 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), l’art. 1 de la D n<sup>o</sup> 1/2018 de la Commission mixte UE-AELE du 4 déc. 2018 ([RO 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) et l’art. 1 ch. 2 de la D n<sup>o</sup> 1/2021 de la Commission mixte UE-AELE du 1<sup>er</sup> juin 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> juin 2021 ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 #### Art. 1
 
@@ -4048,7 +4064,7 @@ Le «numéro de référence de la garantie» (NRG) attribué par le bureau de do
 <table>
 <tr><th>Champ</th><th>Contenu</th><th>Type de champ</th><th>Exemple</th></tr>
 <tr><td>1</td><td>Deux derniers chiffres de l’année d’acceptation de la garantie (AA)</td><td>Numérique 2</td><td>97</td></tr>
-<tr><td>2</td><td>Identifiant du pays où la garantie est présentée (code pays ISO alpha 2)</td><td>Alphabétique 2</td><td>IT</td></tr>
+<tr><td>2</td><td>Identifiant du pays où la garantie est présentée (code pays figurant dans l’annexe A2)</td><td>Alphabétique 2</td><td>IT</td></tr>
 <tr><td>3</td><td>Identifiant unique de l’acceptation donnée par le bureau de douane de garantie par année et par pays</td><td>Alphanumérique 12</td><td>1234AB788966</td></tr>
 <tr><td>4</td><td>Chiffre de contrôle</td><td>Alphanumérique 1</td><td>8</td></tr>
 <tr><td>5</td><td>Identifiant du titre de garantie isolée (1 lettre + 6 digits) ou NUL pour les autres types de garantie</td><td>Alphanumérique 7</td><td>A001017</td></tr>
@@ -4112,6 +4128,10 @@ La présente annexe sera supprimée à partir de la date de mise à niveau du sy
 </table>
 
 Le «Code pays ISO alpha-2» est spécifié dans ISO-3166-1 de 1997 et les mises à jour postérieures appliquées.
+
+XI est utilisé pour l’Irlande du Nord. Le code XI est facultatif pour les parties contractantes en ce qui concerne les éléments d’information Pays (case n<sup>o</sup> 8 et ex case n<sup>o</sup> 8) et Pays de destination (case 17a et ex case 17a).[^annexu1-lvlu1-lvl1-1]
+
+[^annexu1-lvlu1-lvl1-1]: Applicable à partir du jour où le Royaume-Uni adhérera à la convention en tant que partie contractante distincte ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### 2. Code langue
 
@@ -4646,7 +4666,7 @@ Annexe A3 de l’appendice III
 
 ## Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image1.png)
 
 Annexe A4 de l’appendice III
 
@@ -4663,7 +4683,7 @@ L’information est présentée sous une forme alphanumérique à 18 caractères
 <table>
 <tr><td>Champ</td><td>Contenu</td><td>Type de champ</td><td>Exemple</td></tr>
 <tr><td>1</td><td>Deux derniers chiffres de l’année d’acceptation officielle du mouvement de transit (AA)</td><td>Numérique 2</td><td>97</td></tr>
-<tr><td>2</td><td>Identifiant du pays de départ du mouvement (code pays ISO alpha)</td><td>Alphabétique 2</td><td>IT</td></tr>
+<tr><td>2</td><td>Identifiant du pays de départ du mouvement (code pays figurant dans l’annexe A2)</td><td>Alphabétique 2</td><td>IT</td></tr>
 <tr><td>3</td><td>Identifiant unique pour le mouvement de transit par année et par pays</td><td>Alphanumérique 13</td><td>9876AB8890123</td></tr>
 <tr><td>4</td><td>Chiffre de contrôle</td><td>Alphanumérique 1</td><td>5</td></tr>
 </table>
@@ -4842,7 +4862,7 @@ FI Finlande
 
 FR France
 
-GB Royaume-Uni
+GB Royaume-Uni (à l’exclusion de l’Irlande du Nord)[^annexu1-lvlu1-lvlA-1]
 
 GR Grèce
 
@@ -4886,9 +4906,14 @@ SK Slovaquie
 
 TR Turquie
 
+XI Irlande du Nord[^annexu1-lvlu1-lvlA-2]
+
 Case 53: Bureau de destination (et pays)
 
 Les codes retenus pour la case 51 sont applicables.
+
+[^annexu1-lvlu1-lvlA-1]: Applicable à partir du jour où le Royaume-Uni adhérera à la convention en tant que partie contractante distincte ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexu1-lvlu1-lvlA-2]: Applicable à partir du jour où le Royaume-Uni adhérera à la convention en tant que partie contractante distincte ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### B – Code des références linguistiques
 
@@ -5747,7 +5772,7 @@ Annexe B9 de l’appendice III
 
 ## Modèle d’un cachet spécial utilisé par un expéditeur agréé
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image2.png)
 
 - 1\. Les armoiries ou tous autres signes ou lettres caractérisant le pays
 - 2\. Numéro de référence du bureau de douane de départ
@@ -5761,7 +5786,7 @@ Annexe B10 de l’appendice III
 ## TC 11 – RECEPISSE
 
 <table>
-<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
+<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
 </table>
 
 Annexe B11 de l’appendice III
@@ -5770,7 +5795,7 @@ Annexe B11 de l’appendice III
 
 (transit par chemin de fer)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image4.png)
 
 Annexe C1 de l’appendice III
 
@@ -5786,7 +5811,7 @@ se rend caution solidaire au bureau de garantie de
 
 à concurrence d’un montant maximal de
 
-envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3), la Principauté d’Andorre et la République de Saint-Marin (4) pour tout montant pour lequel la personne constituant la présente garantie (5):
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, la République de Macédoine du Nord, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (2*a*) (3), la Principauté d’Andorre et la République de Saint-Marin (4) pour tout montant pour lequel la personne constituant la présente garantie (5):
 
 est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions (6), en ce qui concerne les marchandises décrites ci-dessous faisant l’objet de l’opération douanière suivante (7):
 
@@ -5824,6 +5849,7 @@ Engagement de la caution approuvé le pour couvrir l’opération douanière aya
 
 - (1) Nom et prénom ou raison sociale.
 - (2) Adresse complète.
+- (2*a*) Conformément au protocole sur l’Irlande et l’Irlande du Nord de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, l’Irlande du Nord doit être considérée comme faisant partie de l’Union européenne aux fins de la présente garantie. Par conséquent, une caution établie sur le territoire douanier de l’Union européenne doit élire un domicile ou désigner un mandataire en Irlande du Nord si la garantie peut y être utilisée. Toutefois, si une garantie, dans le cadre du transit commun, devient valable dans l’Union européenne et au Royaume-Uni, une élection de domicile ou la désignation d’un mandataire au Royaume-Uni peut couvrir l’ensemble du territoire du Royaume-Uni, y compris l’Irlande du Nord.
 - (3) Supprimer le nom/les noms de l’État/des États sur le territoire duquel/ desquels la garantie ne peut pas être utilisée.
 - (4) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
 - (5) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
@@ -5861,7 +5887,7 @@ domicilié(e) à (2)
 
 se rend caution solidaire au bureau de garantie de
 
-envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la République de Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, la Principauté d’Andorre et la République de Saint-Marin (3), pour tout montant pour lequel le titulaire du régime constituant la présente garantie est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions, en ce qui concerne l’importation ou l’exportation de marchandises placées sous le régime du transit commun ou de l’Union, pour lesquelles le (la) soussigné(e) s’est engagé(e) à émettre des titres de garantie isolée d’un montant maximal de 10 000 EUR par titre.
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de la République hellénique, de la République de Croatie, du Royaume d’Espagne, de la République française, de l’Irlande, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la République de Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, la République de Macédoine du Nord, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (2*a*), la Principauté d’Andorre et la République de Saint-Marin (3), pour tout montant pour lequel le titulaire du régime constituant la présente garantie est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions, en ce qui concerne l’importation ou l’exportation de marchandises placées sous le régime du transit commun ou de l’Union, pour lesquelles le (la) soussigné(e) s’est engagé(e) à émettre des titres de garantie isolée d’un montant maximal de 10 000 EUR par titre.
 
 \2. Le (la) soussigné(e) s’oblige à effectuer, à la première demande écrite des autorités compétentes des pays visés au point 1, le paiement des sommes demandées à concurrence d’un montant maximal de 10 000 EUR par titre de garantie isolée, sans pouvoir le différer au-delà d’un délai de trente jours à compter de la date de la demande, à moins qu’il (elle) ou toute autre personne intéressée n’établisse avant l’expiration de ce délai, à la satisfaction des autorités douanières, que l’opération a été apurée.
 
@@ -5895,9 +5921,11 @@ Engagement de la caution approuvé le
 
 - (1) Nom et prénom ou raison sociale.
 - (2) Adresse complète.
+- (2*a*) Conformément au protocole sur l’Irlande et l’Irlande du Nord de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, l’Irlande du Nord doit être considérée comme faisant partie de l’Union européenne aux fins de la présente garantie. Par conséquent, une caution établie sur le territoire douanier de l’Union européenne doit élire un domicile ou désigner un mandataire en Irlande du Nord si la garantie peut y être utilisée. Toutefois, si une garantie, dans le cadre du transit commun, devient valable dans l’Union européenne et au Royaume-Uni, une élection de domicile ou la désignation d’un mandataire au Royaume-Uni peut couvrir l’ensemble du territoire du Royaume-Uni, y compris l’Irlande du Nord.
 - (3) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
 - (4) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés *mutatis mutandis*. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
 - (5) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution».
+- [tab]
 
 Annexe C3 de l’appendice III
 
@@ -5905,11 +5933,11 @@ Annexe C3 de l’appendice III
 
 *(Recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image5.png)
 
 *(Verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image6.png)
 
 Normes techniques applicables au titre
 
@@ -5933,7 +5961,7 @@ se rend caution solidaire au bureau de garantie de
 
 à concurrence d’un montant maximal de
 
-envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de l’Irlande, de la République hellénique, du Royaume d’Espagne, de la République française, de la République de Croatie, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, l’ancienne République yougoslave de Macédoine, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (3) la Principauté d’Andorre et la République de Saint-Marin (4), pour tout montant pour lequel la personne constituant la présente garantie (5)
+envers l’Union européenne (constituée du Royaume de Belgique, de la République de Bulgarie, de la République tchèque, du Royaume de Danemark, de la République fédérale d’Allemagne, de la République d’Estonie, de l’Irlande, de la République hellénique, du Royaume d’Espagne, de la République française, de la République de Croatie, de la République italienne, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, du Grand-duché de Luxembourg, de la Hongrie, de la République de Malte, du Royaume des Pays-Bas, de la République d’Autriche, de la République de Pologne, de la République portugaise, de la Roumanie, de la République de Slovénie, de la République slovaque, de la République de Finlande, du Royaume de Suède) et la République d’Islande, la République de Macédoine du Nord, le Royaume de Norvège, la République de Serbie, la Confédération suisse, la République de Turquie, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (2*a*) (3) la Principauté d’Andorre et la République de Saint-Marin (4), pour tout montant pour lequel la personne constituant la présente garantie (5)
 
 est ou deviendrait débiteur envers les pays précités, au titre de la dette constituée des droits et des autres impositions (6) susceptible de naître et/ou ayant pris naissance en ce qui concerne les marchandises faisant l’objet des opérations douanières mentionnées au point 1bis et/ou 1ter.
 
@@ -5997,6 +6025,7 @@ Engagement de la caution accepté le
 
 - (1) Nom et prénom ou raison sociale.
 - (2) Adresse complète.
+- (2*a*) Conformément au protocole sur l’Irlande et l’Irlande du Nord de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, l’Irlande du Nord doit être considérée comme faisant partie de l’Union européenne aux fins de la présente garantie. Par conséquent, une caution établie sur le territoire douanier de l’Union européenne doit élire un domicile ou désigner un mandataire en Irlande du Nord si la garantie peut y être utilisée. Toutefois, si une garantie, dans le cadre du transit commun, devient valable dans l’Union européenne et au Royaume-Uni, une élection de domicile ou la désignation d’un mandataire au Royaume-Uni peut couvrir l’ensemble du territoire du Royaume-Uni, y compris l’Irlande du Nord.
 - (3) Supprimer le nom/les noms du/des pays sur le territoire duquel/desquels la garantie ne peut pas être utilisée.
 - (4) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
 - (5) Nom et prénom ou raison sociale et adresse complète de la personne constituant la garantie.
@@ -6019,12 +6048,13 @@ Annexe C5 de l’appendice III
 <tr><td>4. Caution (nom et prénom ou raison sociale, adresse complète et pays)</td><td colspan="5"></td></tr>
 <tr><td>5. Bureau de douane de garantie (numéro de référence)</td><td colspan="5"></td></tr>
 <tr><td>6. Montant de référence Code «monnaie»</td><td colspan="3">En chiffres:</td><td colspan="2">En lettres:</td></tr>
-<tr><td colspan="6">7. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci‑dessus a constitué une garantie globale valable pour les opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE – MACEDOINE DU NORD – NORVÈGE – SERBIE – SUISSE – TURQUIE – ROYAUME-UNI – ANDORRE<sup>(</sup>\*<sup>)</sup> – SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci‑dessus a constitué une garantie globale valable pour les opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE – MACEDOINE DU NORD – NORVÈGE – SERBIE – SUISSE – TURQUIE – ROYAUME-UNI<sup>(</sup>\*\*<sup>)</sup> – ANDORRE<sup>(</sup>\*<sup>)</sup> – SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">8. Mentions particulières</td></tr>
 <tr><td colspan="2">9. Délai de validité prolongé jusqu’au jj/mm/aa inclus Fait à , (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td><td colspan="4">Fait à , (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td></tr>
 </table>
 
 - <sup>(</sup>\*<sup>)</sup> Uniquement pour les opérations de transit de l’Union
+- <sup>(</sup>\*\*<sup>)</sup> Conformément au protocole sur l’Irlande et l’Irlande du Nord de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, l’Irlande du Nord devrait être considérée comme faisant partie de l’Union européenne aux fins de la présente garantie.
 
 *(Verso)*
 
@@ -6047,12 +6077,13 @@ Annexe C6 de l’appendice III
 <tr><td>3. Titulaire du régime (nom et prénom ou raison sociale, adresse complète et pays)</td><td colspan="5"></td></tr>
 <tr><td>4. Bureau de douane de garantie (numéro de référence)</td><td colspan="5"></td></tr>
 <tr><td>5. Montant de référence Code «monnaie»</td><td colspan="3">En chiffres:</td><td colspan="2">En lettres:</td></tr>
-<tr><td colspan="6">6. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci-dessus bénéficie d’une dispense de garantie pour couvrir ses opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE, MACEDOINE DU NORD, NORVÈGE, SERBIE, SUISSE, TURQUIE, ROYAUME-UNI, ANDORRE<sup>(</sup>\*<sup>)</sup>, SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">6. Le bureau de douane de garantie certifie que le titulaire du régime désigné ci-dessus bénéficie d’une dispense de garantie pour couvrir ses opérations de transit de l’Union/commun empruntant les territoires douaniers indiqués ci-après dont le nom n’est pas biffé: UNION EUROPEENNE, ISLANDE, MACEDOINE DU NORD, NORVÈGE, SERBIE, SUISSE, TURQUIE, ROYAUME-UNI<sup>(</sup>\*\*<sup>)</sup>, ANDORRE<sup>(</sup>\*<sup>)</sup>, SAINT-MARIN<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">7. Mentions particulières</td></tr>
 <tr><td colspan="2">8. Délai de validité prolongé jusqu’au jj/mm/aa inclus Fait , le (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td><td colspan="4">Fait , le (Lieu) (Date) (Signature d’un fonctionnaire et cachet du bureau de douane de garantie)</td></tr>
 </table>
 
 - <sup>(</sup>\*<sup>)</sup> Uniquement pour les opérations de transit de l’Union
+- <sup>(</sup>\*\*<sup>)</sup> En vertu du protocole sur l’Irlande et l’Irlande du Nord de l’accord sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique, l’Irlande du Nord devrait être considérée comme faisant partie de l’Union européenne aux fins de la présente garantie.
 
 *(Verso)*
 
@@ -6094,7 +6125,7 @@ En cas de prorogation de la durée de validité du certificat, le bureau de doua
 
 - [tab] Les modalités et mentions figurent au point 4 de l’annexe IV de l’appendice I.
 
-Appendice III<sup>bis</sup> *[^t-6]*
+Appendice III<sup>bis</sup> [^t-6]
 
 ## Déclarations de transit, documents d’accompagnement transit et autres documents
 
@@ -6284,7 +6315,7 @@ Exemples de formats et de longueurs de champs:
 <tr><td>1/6</td><td>Numéro d’article de marchandise</td><td>n...5</td><td>N</td><td></td><td>1x</td><td></td></tr>
 <tr><td>1/8</td><td>Signature/authentification</td><td>an..35</td><td>N</td><td>1x</td><td></td><td></td></tr>
 <tr><td>1/9</td><td>Nombre total d’articles</td><td>n..5</td><td>N</td><td>1x</td><td></td><td></td></tr>
-<tr><td>2/1</td><td>Déclaration simplifiée/Documents précédents</td><td>*Type du document précédent:* an ..3 + *Référence du document précédent:* an ..35+ *Identifiant de l’article de marcha**n**dise:* n..5</td><td>O</td><td>9999x</td><td>99x</td><td></td></tr>
+<tr><td>2/1</td><td>Déclaration simplifiée/Documents précédents</td><td>*Type du document précédent:* an ..3 + *Référence du document précédent:* an ..35+ *Identifiant de l’article de marchandise:* n..5</td><td>O</td><td>9999x</td><td>99x</td><td></td></tr>
 <tr><td>2/2</td><td>Mentions spéciales</td><td>*Version codée (codes de l’Union):* n1 + an4 OU *(codes nationaux):* a1 +an4 OU *Description libre:* an..512</td><td>O</td><td></td><td>99x</td><td>Les codes sont précisés au titre III.</td></tr>
 <tr><td>2/3</td><td>Documents produits, certificats et autorisations, références complémentaires</td><td>*Type du document (codes de l’Union):* a1 + an3 OU *(codes nationaux):* n1+an3+ *Référence de document:* an..35</td><td>O</td><td>1x</td><td>99x</td><td></td></tr>
 <tr><td>3/1</td><td>Exportateur</td><td>*Nom:* an..70 + *Rue et numéro:* an..70 + *Pays:* a2 + *Code postal:* an..9 + *Ville:* an..35</td><td>N</td><td>1x</td><td>1x</td><td>Code pays: la codification alphabétique des pays et territoires est fondée sur la norme ISO codes alpha 2 (a2) en vigueur. En cas de groupages, si des déclarations en douane sur support papier sont utilisées, le code «00200» peut être utilisé en association avec une liste des exportateurs conformément aux notes relatives à l’E.D. 3/1 «Exportateur» figurant au titre III de l’annexe B6<sup>bis</sup> de l’appendice III<sup>bis</sup>.</td></tr>
@@ -6658,7 +6689,7 @@ Le présent appendice s’appliquera à partir de la date de mise à niveau du s
 
 Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image7.png)
 
 Annexe A4<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
@@ -6741,7 +6772,7 @@ La présente annexe s’appliquera à partir de la date de mise à niveau du sys
 
 Modèle de liste d’articles
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image8.png)
 
 Annexe A6<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
@@ -7828,7 +7859,7 @@ Déclaration de transit et déclaration de transit comportant des exigences réd
 
 Lorsqu’une garantie n’est pas valable pour une, plusieurs ou toutes les parties contractantes, ajouter après «Non valable pour» les codes correspondant à la ou les parties contractantes concernées.
 
-Appendice IV*[^t-7]*
+Appendice IV[^t-7]
 
 ## Assistance mutuelle pour le recouvrement des créances
 
@@ -8299,7 +8330,7 @@ requérante désignée ci-dessus, demande par la présente
 <tr><td><sup>3</sup></td><td colspan="14">En cas de titre exécutoire global, indiquer le montant des créances de nature différente.</td></tr>
 </table>
 
-Champ d’application le 25 février 2021**[^t-11]**
+Champ d’application le 25 février 2021[^t-11]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -8311,8 +8342,7 @@ Champ d’application le 25 février 2021**[^t-11]**
 <tr><td>Suisse <sup>a</sup></td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td>Turquie</td><td>1<sup>er</sup> décembre</td><td>2012 A</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
 <tr><td>Union européenne (UE) <sup>b</sup></td><td>15 juin</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
-<tr><td colspan="5"><sup>a</sup> Membre de l’AELE.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Membres de l’Union européenne: Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Slovaquie, Slovénie, Suède.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Membre de l’AELE. <sup>b</sup> Membres de l’Union européenne: Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Slovaquie, Slovénie, Suède.</td></tr>
 </table>
 
-[^t-11]: [RO 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral « Fedlex » à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
+[^t-11]: [RO 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

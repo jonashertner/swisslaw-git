@@ -3,16 +3,16 @@ sr: "0.631.242.04"
 title: Übereinkommen vom 20. Mai 1987 über ein gemeinsames Versandverfahren (mit Anlagen und Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: de
-version: 2021-02-25
+version: 2021-06-01
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210225-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210225/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen über ein gemeinsames Versandverfahren****
+# Übereinkommen über ein gemeinsames Versandverfahren
 
 AS **1988** 308; BBl **1987** II 1437[^t-1]
 
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 20. Mai 1987 Von der Bundesversammlung genehmigt am 8. Oktober 1987[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 28. Oktober 1987 In Kraft getreten am 1. Januar 1988
 
-(Stand am 25. Februar 2021)
+(Stand am 1. Juni 2021)
 
 [^t-1]: Das Übereink. umfasste ursprünglich folgende Vertragsparteien: Europäische Wirtschaftsgemeinschaft, Republik Österreich, Republik Finnland, Republik Island, Königreich Norwegen, Königreich Schweden und Schweizerische Eidgenossenschaft. Die Republik Österreich, die Republik Finnland und das Königreich Schweden sind am 1. Jan. 1995 den Europäischen Gemeinschaften beigetreten und sind seither nicht mehr selbständige Vertragsparteien des Übereink. Die Republik Polen, die Slowakische Republik, die Tschechische Republik und die Republik Ungarn sind dem Übereink. am 1. Juli 1996 beigetreten (AS **1996** 2508). Mit dem Beitritt zur Europäischen Union, sind diese vier Länder seit dem 1. Mai 2004 nicht mehr selbständige Vertragsparteien des Übereinkommens. Die Republik Kroatien ist dem Übereink. am 1. Juli 2012 beigetreten (AS **2013** 81), die Republik Türkei am 1. Dez. 2012 (AS **2013** 827), die ehemalige jugoslawische Republik Mazdonien (heute: Nordmazedonien) am 1. Juli 2015 (AS **2015** 5967) und die Republik Serbien am 1. Febr. 2016 (AS **2016** 535).
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 8. Okt. 1987 ([AS 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -104,7 +104,7 @@ Im Sinne dieses Übereinkommens gelten als:
 - c) «Drittland»: jeder Staat, der nicht Vertragspartei dieses Übereinkommens ist;
 - d)[^3-4] «Land des gemeinsamen Versandverfahrens» ein Land, das nicht zu den Mitgliedstaaten der Gemeinschaft gehört und das eine Vertragspartei dieses Übereinkommens ist.
 
-<sup>(2)</sup> ...[^3-5]
+<sup>(2)</sup> …[^3-5]
 
 <sup>(3)</sup> Für die Anwendung der in diesem Übereinkommen festgelegten Bestimmungen über das T1‑ oder T2‑Verfahren haben die Länder des gemeinsamen Versandverfahrens[^3-6] sowie die Gemeinschaft und ihre Mitgliedstaaten die gleichen Rechte und Pflichten.
 
@@ -208,7 +208,7 @@ Werden Waren nach Lagerung in einem Zolllagerverfahren aus einem Land des gemein
 - a) untereinander zu vereinbaren, bei nur ihr Gebiet berührenden T1‑ oder T2‑Verfahren auf die Sicherheitsleistung zu verzichten;
 - b)[^10-2] für die Beförderungsstrecke zwischen der Abgangszollstelle und der ersten Durchgangszollstelle eines T1‑ oder T2‑Verfahrens keine Sicherheit zu verlangen.
 
-<sup>(3)</sup> ...[^10-3]
+<sup>(3)</sup> …[^10-3]
 
 [^10-1]: Fassung gemäss Anhang zur Empfehlung 1/91 des Gemischten Ausschusses vom 19. Sept. 1991, in Kraft seit 1. Jan. 1993 ([AS 1992 2241](https://fedlex.data.admin.ch/eli/oc/1992/2241_2241_2241)).
 [^10-2]: Sprachliche Bereinigung gemäss Art. 1 Ziff. 1 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016, in Kraft seit 1. Mai 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
@@ -246,7 +246,7 @@ Die Abgangszollstelle erkennt Beförderungsmittel und Behälter als verschlusssi
 
 #### Art. 12
 
-<sup>(1)</sup> und (2) ...[^12-1]
+<sup>(1)</sup> und (2) …[^12-1]
 
 <sup>(3)</sup> Der Inhaber des Verfahrens oder sein bevollmächtigter Vertreter erteilen auf Verlangen den für die Durchfuhrstatistik zuständigen nationalen Dienststellen alle Auskünfte im Zusammenhang mit Versandanmeldungen T1 oder T2, die für die statistische Erhebung notwendig sind.[^12-2]
 
@@ -288,7 +288,7 @@ Liegt der Verdacht einer Unregelmässigkeit oder Zuwiderhandlung im Zusammenhang
 [^13-2]: Sprachliche Bereinigung gemäss Art. 1 Ziff. 10 des Beschlusses Nr. 1/2000 des Gemischten Ausschusses vom 20. Dez. 2000 ([AS 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) und Art. 1 Ziff. 1 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016, in Kraft seit 1. Mai 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
 [^13-3]: Sprachliche Bereinigung gemäss Art. 1 Ziff. 1 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016, in Kraft seit 1. Mai 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
 
-## Vollstreckung einer Forderung****
+## Vollstreckung einer Forderung
 
 [^lvlu4-1]
 
@@ -328,9 +328,9 @@ Er empfiehlt insbesondere:
 Der Gemischte Ausschuss beschliesst:
 
 - a) Änderungen der Anlagen;
-- b)[^15-3] ...
+- b)[^15-3] …
 - c) sonstige Änderungen dieses Übereinkommens, die infolge von Änderungen der Anlagen notwendig werden;
-- [tab] ...[^15-4]
+- [tab] …[^15-4]
 - d)[^15-5] Übergangsmassnahmen[^15-6] im Falle des Beitritts neuer Mitgliedstaaten zur Gemeinschaft;
 - e)[^15-7] Einladungen an Drittländer im Sinne von Artikel 3 Absatz 1 Buchstabe c, diesem Übereinkommen nach dem Verfahren von Artikel 15*a* beizutreten.
 
@@ -350,7 +350,7 @@ Der Gemischte Ausschuss beschliesst:
 [^15-8]: Eingefügt durch Abk. vom 25. Sept. 1995 ([AS 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112), [1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [BBl 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)). Fassung gemäss Art. 1 Ziff. 4 des Beschlusses 3/97 des Gemischten Ausschusses vom 23. Juli 1997, in Kraft seit 1. Okt. 1997 ([AS 1998 258](https://fedlex.data.admin.ch/eli/oc/1998/258_258_258)).
 [^15-9]: Eingefügt durch Abk. vom 25. Sept. 1995, von der BVers genehmigt am 22. März 1995 und in Kraft getreten mit Wirkung ab 1. Juli 1994 ([AS 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112), [1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [BBl 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
-## Beitritt von Drittländern****
+## Beitritt von Drittländern
 
 [^lvlu6-1]
 
@@ -425,7 +425,7 @@ Jede Vertragspartei kann unter Einhaltung einer zwölfmonatigen Kündigungsfrist
 
 <sup>(3)</sup> Die Nordische Transitregelung zwischen Finnland, Norwegen und Schweden[^23-3] tritt mit dem Inkrafttreten dieses Übereinkommens ausser Kraft.
 
-[^23-1]: [[AS 1974 281](https://fedlex.data.admin.ch/eli/oc/1974/281_281_281), [1977 981](https://fedlex.data.admin.ch/eli/oc/1977/981_981_981)[987](https://fedlex.data.admin.ch/eli/oc/1977/987_987_987)[2182](https://fedlex.data.admin.ch/eli/oc/1977/2182_2182_2182)[2184](https://fedlex.data.admin.ch/eli/oc/1977/2184_2184_2184), [1978 807](https://fedlex.data.admin.ch/eli/oc/1978/807_807_807)[815](https://fedlex.data.admin.ch/eli/oc/1978/815_815_815), [1979 2102](https://fedlex.data.admin.ch/eli/oc/1979/2102_2107_2107)[2114](https://fedlex.data.admin.ch/eli/oc/1979/2114_2119_2119), [1980 647](https://fedlex.data.admin.ch/eli/oc/1980/647_647_647)[651](https://fedlex.data.admin.ch/eli/oc/1980/651_651_651)[1828](https://fedlex.data.admin.ch/eli/oc/1980/1828_1828_1828)[1833](https://fedlex.data.admin.ch/eli/oc/1980/1833_1833_1833)[2104](https://fedlex.data.admin.ch/eli/oc/1980/2104_2104_2104), [1981 2113](https://fedlex.data.admin.ch/eli/oc/1981/2113_2113_2113), [1982 1198](https://fedlex.data.admin.ch/eli/oc/1982/1198_1198_1198)[1202](https://fedlex.data.admin.ch/eli/oc/1982/1202_1202_1202)[2015](https://fedlex.data.admin.ch/eli/oc/1982/2015_2015_2015), [1983 320](https://fedlex.data.admin.ch/eli/oc/1983/320_320_320)[1839](https://fedlex.data.admin.ch/eli/oc/1983/1839_1839_1839), [1984 1574](https://fedlex.data.admin.ch/eli/oc/1984/1574_1574_1574)[1575](https://fedlex.data.admin.ch/eli/oc/1984/1575_1575_1575), [1985 858](https://fedlex.data.admin.ch/eli/oc/1985/858_858_858), [1986 609](https://fedlex.data.admin.ch/eli/oc/1986/609_609_609)[620](https://fedlex.data.admin.ch/eli/oc/1986/620_620_620)[747](https://fedlex.data.admin.ch/eli/oc/1986/747_747_747)[1430](https://fedlex.data.admin.ch/eli/oc/1986/1430_1430_1430), [1987 503](https://fedlex.data.admin.ch/eli/oc/1987/503_503_503)]
+[^23-1]: [[AS 1974 281](https://fedlex.data.admin.ch/eli/oc/1974/281_281_281); [1977 981](https://fedlex.data.admin.ch/eli/oc/1977/981_981_981), [987](https://fedlex.data.admin.ch/eli/oc/1977/987_987_987), [2182](https://fedlex.data.admin.ch/eli/oc/1977/2182_2182_2182), [2184](https://fedlex.data.admin.ch/eli/oc/1977/2184_2184_2184); [1978 807](https://fedlex.data.admin.ch/eli/oc/1978/807_807_807), [815](https://fedlex.data.admin.ch/eli/oc/1978/815_815_815); [1979 2102](https://fedlex.data.admin.ch/eli/oc/1979/2102_2107_2107), [2114](https://fedlex.data.admin.ch/eli/oc/1979/2114_2119_2119); [1980 647](https://fedlex.data.admin.ch/eli/oc/1980/647_647_647), [651](https://fedlex.data.admin.ch/eli/oc/1980/651_651_651), [1828](https://fedlex.data.admin.ch/eli/oc/1980/1828_1828_1828), [1833](https://fedlex.data.admin.ch/eli/oc/1980/1833_1833_1833), [2104](https://fedlex.data.admin.ch/eli/oc/1980/2104_2104_2104); [1981 2113](https://fedlex.data.admin.ch/eli/oc/1981/2113_2113_2113); [1982 1198](https://fedlex.data.admin.ch/eli/oc/1982/1198_1198_1198), [1202](https://fedlex.data.admin.ch/eli/oc/1982/1202_1202_1202), [2015](https://fedlex.data.admin.ch/eli/oc/1982/2015_2015_2015); [1983 320](https://fedlex.data.admin.ch/eli/oc/1983/320_320_320), [1839](https://fedlex.data.admin.ch/eli/oc/1983/1839_1839_1839); [1984 1574](https://fedlex.data.admin.ch/eli/oc/1984/1574_1574_1574), [1575](https://fedlex.data.admin.ch/eli/oc/1984/1575_1575_1575); [1985 858](https://fedlex.data.admin.ch/eli/oc/1985/858_858_858); [1986 609](https://fedlex.data.admin.ch/eli/oc/1986/609_609_609), [620](https://fedlex.data.admin.ch/eli/oc/1986/620_620_620), [747](https://fedlex.data.admin.ch/eli/oc/1986/747_747_747), [1430](https://fedlex.data.admin.ch/eli/oc/1986/1430_1430_1430); [1987 503](https://fedlex.data.admin.ch/eli/oc/1987/503_503_503)]
 [^23-2]: [[AS 1978 235](https://fedlex.data.admin.ch/eli/oc/1978/235_235_235)]
 [^23-3]: [[AS 1986 2035](https://fedlex.data.admin.ch/eli/oc/1986/2035_2035_2035)], [[AS 1986 2042](https://fedlex.data.admin.ch/eli/oc/1986/2042_2042_2042)], [[AS 1986 2028](https://fedlex.data.admin.ch/eli/oc/1986/2028_2028_2028)]
 
@@ -437,11 +437,11 @@ Geschehen zu Interlaken am zwanzigsten Mai neunzehnhundertsiebenundachtzig.
 
 (Es folgen die Unterschriften)
 
-Anlage I*[^t-3]*
+Anlage I[^t-3]
 
 ## Gemeinsames Versandverfahren
 
-[^t-3]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Bereinigt gemäss Art. 1 Ziff. 1 und 2 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)) und Art. 1 Ziff. 1 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+[^t-3]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Bereinigt gemäss Art. 1 Ziff. 1 und 2 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), Art. 1 Ziff. 1 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) und Art. 1 Ziff. 1 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses vom 1. Juni 2021, in Kraft für die Schweiz seit 1. Juni 2021 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### Titel I: Allgemeines
 
@@ -1227,6 +1227,10 @@ Ist eine Schuld entstanden, ergreift die Zollbehörde des Abgangslandes folgende
 
 <sup>2.</sup> Die für diesen Ort zuständige Zollbehörde bestätigt den Eingang der Unterlagen und teilt der Zollbehörde des Abgangslandes mit, ob sie für die Erhebung zuständig ist. Erhält die Zollbehörde des Abgangslandes diese Antwort nicht innerhalb von 28 Tagen, setzt sie das Suchverfahren unverzüglich fort oder leitet die Erhebung ein.
 
+<sup>3.</sup> Erhält die an einem gemeinsamen Versandverfahren beteiligte Zollbehörde eines Landes vor Ablauf der Frist nach Artikel 114 Absatz 2 Buchstabe a den Nachweis, dass der Ort, an dem der Sachverhalt eintrat, der die Zollschuld entstehen liess, in ihrem Gebiet liegt, übermittelt diese Behörde der Zollbehörde des Abgangslandes unverzüglich und in jedem Fall innerhalb dieser Frist ein hinreichend begründetes Ersuchen um Übertragung der Zuständigkeit für die Einleitung der Erhebung an die ersuchende Zollbehörde.
+
+<sup>4.</sup> Die Zollbehörde des Abgangslandes bestätigt den Eingang des Ersuchens gemäss Absatz 3 und teilt der ersuchenden Zollbehörde innerhalb von 28 Tagen nach Absenden des Ersuchens mit, ob sie dem Ersuchen nachkommen und der ersuchenden Behörde die Zuständigkeit für die Einleitung der Erhebung übertragen wird.
+
 #### Art. 51
 
 **Alternativnachweis für die Beendigung des gemeinsamen Versandverfahrens**
@@ -1319,7 +1323,7 @@ Die Bewilligungen gemäss Artikel 1 Buchstabe i zur Verwendung einer Zollanmeldu
 
 <sup>3.</sup> Bis zu den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 gilt das papiergestützte gemeinsame Versandverfahren für auf dem Luftweg beförderte Waren gemäss Absatz 1 Buchstabe e oder das papiergestützte gemeinsame Versandverfahren speziell für im Eisenbahnverkehr beförderte Waren gemäss Absatz 1 Buchstabe f. Nach diesen Zeitpunkten finden diese gemeinsamen Versandverfahren keine Anwendung mehr.
 
-...
+…
 
 Bis zu den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 findet die Vereinfachung gemäss Absatz 1 Buchstabe i keine Anwendung.
 
@@ -1362,7 +1366,7 @@ Die Bewilligungen gemäss Artikel 55 Absatz 1 Buchstaben b, c, d und i werden nu
 Die Bewilligungen gemäss Artikel 55 Absatz 1 Buchstabe e werden nur Antragstellern gewährt, die die folgenden Voraussetzungen erfüllen:
 
 - (a) im Fall des papiergestützten gemeinsamen Versandverfahrens für auf dem Luftweg beförderte Waren ist der Antragsteller eine Fluggesellschaft und im Zollgebiet einer Vertragspartei ansässig;
-- (b) ...
+- (b) …
 - (c) der Antragsteller nimmt das gemeinsame Versandverfahren regelmässig in Anspruch, oder die zuständige Zollbehörde weiss, dass er seinen Verpflichtungen aus dem Verfahren nachkommen kann;
 - (d) der Antragsteller hat keine schwerwiegenden oder wiederholten Zuwiderhandlungen gegen die Zoll- oder Steuervorschriften begangen.
 
@@ -1621,7 +1625,7 @@ Der Betrag der Gesamtsicherheit wird verringert auf:
   - iii) der Antragsteller befindet sich nicht in einem Insolvenzverfahren;
   - iv) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder der Ausfuhr von Waren erhoben wurden, nachgekommen;
   - v) der Antragsteller weist anhand von Aufzeichnungen und Daten der letzten drei Jahre vor Antragstellung nach, dass er über eine ausreichende finanzielle Leistungsfähigkeit verfügt, um seinen Verpflichtungen in Bezug auf Art und Umfang seiner Geschäftstätigkeit nachzukommen, und vor allem keinen Negativsaldo bei den Aktiva ausweist, es sei denn, dieser kann ausgeglichen werden;
-  - vi) ...
+  - vi) …
 
 - (b)
 
@@ -1633,7 +1637,7 @@ Der Betrag der Gesamtsicherheit wird verringert auf:
   - iv) der Antragsteller befindet sich nicht in einem Insolvenzverfahren;
   - v) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr von Waren erhoben wurden, nachgekommen;
   - vi) der Antragsteller weist anhand von Aufzeichnungen und Daten der letzten drei Jahre vor Antragstellung nach, dass er über eine ausreichende finanzielle Leistungsfähigkeit verfügt, um seinen Verpflichtungen in Bezug auf Art und Umfang seiner Geschäftstätigkeit nachzukommen, und vor allem keinen Negativsaldo bei den Aktiva ausweist, es sei denn, dieser kann ausgeglichen werden;
-  - vii) ...
+  - vii) …
 
 - (c)
 
@@ -1650,7 +1654,7 @@ Der Betrag der Gesamtsicherheit wird verringert auf:
   - ix) der Antragsteller befindet sich nicht in einem Insolvenzverfahren;
   - x) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr von Waren erhoben wurden, nachgekommen;
   - xi) der Antragsteller weist anhand von Aufzeichnungen und Daten der letzten drei Jahre vor Antragstellung nach, dass er über eine ausreichende finanzielle Leistungsfähigkeit verfügt, um seinen Verpflichtungen in Bezug auf Art und Umfang seiner Geschäftstätigkeit nachzukommen, und vor allem keinen Negativsaldo bei den Aktiva ausweist, es sei denn, dieser kann ausgeglichen werden;
-  - xii) ...
+  - xii) …
 
 <sup>3.</sup> Bei der Prüfung, ob der Antragsteller über eine ausreichende finanzielle Leistungsfähigkeit verfügt, sodass eine Bewilligung für die Anwendung einer Gesamtsicherheit mit verringertem Betrag oder eine Befreiung von der Sicherheitsleistung gemäss Absatz 2 Buchstabe a Ziffer v, Absatz 2 Buchstabe b Ziffer vi und Absatz 2 Buchstabe c Ziffer xi erteilt werden kann, berücksichtigen die Zollbehörden, ob der Antragsteller seinen Verpflichtungen zur Begleichung seiner Schulden und anderer Abgaben, die möglicherweise entstehen und von der Sicherheitsleistung nicht abgedeckt sind, nachkommen kann.
 
@@ -1692,7 +1696,15 @@ Die Inanspruchnahme der Gesamtsicherheit und der Gesamtsicherheit mit verringert
 
 <sup>1.</sup> Auf der Grundlage der Bewilligung erhält der Inhaber des Verfahrens von der Zollstelle der Sicherheitsleistung eine oder mehrere unter Verwendung des Formulars in Anhang C5 der Anlage III ausgestellte Gesamtsicherheitsbescheinigung oder eine oder mehrere nach dem Formular in Anhang C6 der Anlage III ausgestellte Bescheinigungen über die Befreiung von der Sicherheitsleistung, anhand deren der Inhaber des Verfahrens die Leistung einer Gesamtsicherheit oder die Befreiung von der Sicherheitsleistung gemäss Artikel 26 Absatz 1 Buchstabe b nachweisen kann.
 
-<sup>2.</sup> Die Geltungsdauer einer Bescheinigung ist auf zwei Jahre befristet. Sie kann jedoch von der Zollstelle der Sicherheitsleistung einmal um höchstens zwei Jahre verlängert werden.
+<sup>2.</sup> Die Geltungsdauer einer Gesamtsicherheitsbescheinigung oder einer Bescheinigung über die Befreiung von der Sicherheitsleistung ist auf fünf Jahre befristet. Sie kann jedoch von der Zollstelle der Sicherheitsleistung einmal um höchstens fünf Jahre verlängert werden.[^annexI-lvlu1-titIII-chapII-79-1]
+
+<sup>3.</sup> Wird der Zollstelle der Sicherheitsleistung während der Gültigkeitsdauer der Bescheinigung mitgeteilt, dass die Bescheinigung infolge zahlreicher Änderungen nicht ausreichend lesbar ist und von der Abgangszollstelle abgelehnt werden könnte, so erklärt die Zollstelle der Sicherheitsleistung die Bescheinigung für ungültig und stellt gegebenenfalls eine neue Bescheinigung aus.[^annexI-lvlu1-titIII-chapII-79-2]
+
+<sup>4.</sup> Bescheinigungen mit einer Gültigkeitsdauer von zwei Jahren behalten ihre Gültigkeit. Ihre Gültigkeitsdauer kann jedoch von der Zollstelle der Sicherheitsleistung einmalig um höchstens fünf Jahre verlängert werden.[^annexI-lvlu1-titIII-chapII-79-3]
+
+[^annexI-lvlu1-titIII-chapII-79-1]: Gilt ab dem 30. Juni 2020 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexI-lvlu1-titIII-chapII-79-2]: Gilt ab dem 30. Juni 2020 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexI-lvlu1-titIII-chapII-79-3]: Gilt ab dem 30. Juni 2020 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 #### Art. 80
 
@@ -2411,13 +2423,13 @@ Anhang II zu Anlage I
 
   Gehört die tatsächliche Bestimmungszollstelle zu einer anderen Vertragspartei als die ursprünglich angegebene Bestimmungszollstelle, so bringt die tatsächliche Bestimmungszollstelle im Feld («I. Prüfung durch die Bestimmungszollstelle») der Versandanmeldung zusätzlich zu ihren sonstigen üblichen Vermerken den folgenden Vermerk an:
 
-  - – Unstimmigkeiten: Zollstelle, bei der die Gestellung erfolgte ... (Kennnummer der Zollstelle) – 99203.
+  - – Unstimmigkeiten: Zollstelle, bei der die Gestellung erfolgte … (Kennnummer der Zollstelle) – 99203.
 
 - 13\.3
 
   Enthält die Versandanmeldung in dem Fall nach Nummer 13.2 dieses Anhangs den nachstehenden Vermerk, so bleibt die Ware unter der Kontrolle der tatsächlichen Bestimmungszollstelle und kann ohne ausdrückliche Genehmigung der Abgangszollstelle nicht einer anderen Bestimmung zugeführt werden als der Beförderung in die Vertragspartei, zu der die Abgangszollstelle gehört:
 
-  - – Ausgang aus der Union – gemäss Verordnung/Richtlinie/Beschluss Nr. ... Beschränkungen oder Abgaben unterworfen ... – 99204.
+  - – Ausgang aus der Union – gemäss Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen … – 99204.
 
 - 14\. Eingangsbescheinigung
 - Die Eingangsbescheinigung kann auf der Rückseite des Exemplars Nr. 5 des Einheitspapiers oder auf dem Formular nach Anhang B10 der Anlage III ausgestellt werden.
@@ -2449,7 +2461,9 @@ Anhang II zu Anlage I
   - – Einzelsicherheitstitel in der in Anhang C3 der Anlage III festgelegten Form.
 
 - 19\.2 In der Versandanmeldung muss auf die Bescheinigungen und den Sicherheitstitel hingewiesen werden.
-- 19\.3 Die Geltungsdauer einer Gesamtsicherheitsbescheinigung oder einer Bescheinigung über die Befreiung von Sicherheitsleistungen ist auf zwei Jahre befristet. Sie kann jedoch von der Zollstelle der Sicherheitsleistung einmal um höchstens zwei Jahre verlängert werden.
+- 19\.3[^annexII-lvlu1-chapI-chapIII-1] Die Geltungsdauer einer Gesamtsicherheitsbescheinigung oder einer Bescheinigung über die Befreiung von der Sicherheitsleistung ist auf fünf Jahre befristet. Sie kann jedoch von der Zollstelle der Sicherheitsleistung einmal um höchstens fünf Jahre verlängert werden.
+- Wird der Zollstelle der Sicherheitsleistung während der Gültigkeitsdauer der Bescheinigung mitgeteilt, dass die Bescheinigung infolge zahlreicher Änderungen nicht ausreichend lesbar ist und von der Abgangszollstelle abgelehnt werden könnte, so erklärt die Zollstelle der Sicherheitsleistung die Bescheinigung für ungültig und stellt gegebenenfalls eine neue Bescheinigung aus.
+- Bescheinigungen mit einer Gültigkeitsdauer von zwei Jahren behalten ihre Gültigkeit. Ihre Gültigkeitsdauer kann jedoch von der Zollstelle der Sicherheitsleistung einmalig um höchstens fünf Jahre verlängert werden.
 - 19\.4 Ab dem Tag des Wirksamwerdens der Rücknahme einer Bewilligung zur Anwendung einer Gesamtsicherheit oder der Rücknahme und des Widerrufs einer Verpflichtungserklärung im Fall einer Gesamtsicherheit dürfen bereits ausgestellte Bescheinigungen nicht mehr für die Überführung von Waren in das gemeinsame Versandverfahren verwendet werden und sind unverzüglich vom Inhaber des Verfahrens der Zollstelle der Sicherheitsleistung zurückzugeben.
 - 19\.5 Jedes Land teilt der Europäischen Kommission die näheren Angaben zur Identifizierung der weiterhin gültigen Bescheinigungen mit, die noch nicht zurückgegeben oder als gestohlen, abhandengekommen oder gefälscht gemeldet worden sind. Die Kommission setzt die anderen Länder davon in Kenntnis.
 - 20\. Besondere Ladelisten
@@ -2503,11 +2517,13 @@ Anhang II zu Anlage I
 - 26\.1 Sobald die Waren an einem in der Bewilligung angegebenen Ort eingetroffen sind, unterrichtet der zugelassene Empfänger unverzüglich die Bestimmungszollstelle, teilt dieser das Ankunftsdatum, den Zustand gegebenenfalls angebrachter Verschlüsse sowie jede Unregelmässigkeit im Zusammenhang mit den Exemplaren Nr. 4 und 5 des Einheitspapiers oder des die Waren begleitenden Exemplars des Versandbegleitdokuments mit und übersendet diese Dokumente gemäss den hierfür in der Bewilligung enthaltenen Vorschriften der Bestimmungszollstelle.
 - 26\.2 Die Bestimmungszollstelle bringt auf den Exemplaren Nr. 4 und 5 des Einheitspapiers oder auf dem Exemplar des Versandbegleitdokuments die unter Nummer 13 dieses Anhangs vorgesehenen Vermerke an.
 
-Anlage II*[^t-4]*
+[^annexII-lvlu1-chapI-chapIII-1]: Gilt ab dem 30. Juni 2020 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+
+Anlage II[^t-4]
 
 ## Zollrechtlicher Status von Unionswaren und Vorschriften über den Euro
 
-[^t-4]: Fassung gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)) und gemäss Art. 1 Ziff. 2 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+[^t-4]: Fassung gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)) und Art. 1 Ziff. 2 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
 
 #### Art. 1
 
@@ -2844,11 +2860,11 @@ Ist für eine bestimmte Landeswährung ein Kurs nicht bekannt, so gilt der Kurs 
 
 <sup>2.</sup> Für die Anwendung des Absatzes 1 ist derjenige Gegenwert des Euro massgebend, der zum Zeitpunkt der Annahme der Anmeldung zum gemeinsamen Versandverfahren gilt, für welchen ein oder mehrere Einzelsicherheits-Titel nach Artikel 30 Absatz 2 der Anlage I vorgelegt werden.
 
-Anlage III*[^t-5]*
+Anlage III[^t-5]
 
 ## Versandanmeldung und Vordrucke bei Anwendung von Mitteln der elektronischen Datenverarbeitung
 
-[^t-5]: Fassung gemäss Art. 1 Ziff. 6 und 7 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Ausschusses Nr. 3/2012 vom 26. Juni 2012 ([AS 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), Nr. 4/2012 vom 26. Juni 2012 ([AS 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)[977](https://fedlex.data.admin.ch/eli/oc/2013/207)), Nr. 1/2013 vom 1. Juli 2013 ([AS 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), Nr. 2/2013 vom 7. Nov. 2013 ([AS 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), Nr. 2/2015 vom 17. Juni 2015 ([AS 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), Nr. 4/2015 vom 26. Nov. 2015 ([AS 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), gemäss Art. 1 Ziff. 4–6 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) und gemäss Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Ausschusses vom 4. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Gemäss Art. 2 dieses Beschlusses werden die Formulare für die Sicherheitsleistung in den Anhängen C1 bis C6 der Anlage III zu dem Übereinkommen dürfen in der am Tag vor dem Inkrafttreten dieses Beschlusses geltenden Fassung vorbehaltlich der erforderlichen geografischen Anpassungen nach dem Inkrafttreten dieses Beschlusses ein Jahr lang weiterverwendet.
+[^t-5]: Fassung gemäss Art. 1 Ziff. 6 und 7 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Ausschusses Nr. 3/2012 vom 26. Juni 2012 ([AS 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), Nr. 4/2012 vom 26. Juni 2012 ([AS 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)[977](https://fedlex.data.admin.ch/eli/oc/2013/207)), Nr. 1/2013 vom 1. Juli 2013 ([AS 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), Nr. 2/2013 vom 7. Nov. 2013 ([AS 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), Nr. 2/2015 vom 17. Juni 2015 ([AS 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), Nr. 4/2015 vom 26. Nov. 2015 ([AS 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), gemäss Art. 1 Ziff. 4–6 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Ausschusses vom 4. Dez. 2018 ([AS 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) und Art. 1 Ziff. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses vom 1. Juni 2021, in Kraft für die Schweiz seit 1. Juni 2021 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 #### Art. 1
 
@@ -4027,7 +4043,7 @@ Die von der Zollstelle der Sicherheitsleistung zur Kennzeichnung jeder Sicherhei
 <table>
 <tr><th>Feld</th><th>Inhalt</th><th>Feldtyp</th><th>Beispiele</th></tr>
 <tr><td>1</td><td>Die beiden letzten Stellen des Jahres, in dem die Sicherheitsleistung angenommen wurde (JJ)</td><td>Numerisch 2</td><td>97</td></tr>
-<tr><td>2</td><td>Kennung des Landes, in dem die Sicherheitsleistung angenommen wurde (ISO-Alpha‑2-Ländercode)</td><td>Alphabetisch 2</td><td>IT</td></tr>
+<tr><td>2</td><td>Kennung des Landes, in dem die Sicherheitsleistung angenommen wurde (Ländercode gemäss Anhang A2)</td><td>Alphabetisch 2</td><td>IT</td></tr>
 <tr><td>3</td><td>Von der Zollstelle der Sicherheitsleistung pro Jahr und Land vergebene einmalige Kennziffer für die Annahme</td><td>alphanumerisch 12</td><td>1234AB788966</td></tr>
 <tr><td>4</td><td>Prüfziffer</td><td>alphanumerisch 1</td><td>8</td></tr>
 <tr><td>5</td><td>Kennung der Einzelsicherheit durch Sicherheitstitel (1 Buchstabe + 6 Ziffern) oder NULL für andere Arten der Sicherheitsleistung</td><td>alphanumerisch 7</td><td>A001017</td></tr>
@@ -4092,6 +4108,10 @@ Dieser Anhang wird ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 
 
 Es ist der «ISO-Alpha‑2-Ländercode» gemäss ISO-3166‑1 von 1997 in der zuletzt aktualisierten Fassung zu verwenden.
 
+XI wird für Nordirland verwendet. Die Verwendung des Codes XI ist den Vertragsparteien für die Datenelemente Land (Feld 8 und ex Feld 8) und Bestimmungsland (Feld 17a und ex Feld 17a) freigestellt.[^annexu1-lvlu1-lvl1-1]
+
+[^annexu1-lvlu1-lvl1-1]: Satz aus Art. 1 Ziff. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses vom 1. Juni 2021, in Kraft für die Schweiz seit 1. Juni 2021 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+
 ### 2. Sprachencode
 
 Es wird die ISO-Alpha-2-Kodifizierung nach ISO-639 von 1988 angewendet.
@@ -4105,7 +4125,7 @@ Es wird die ISO-Alpha-2-Kodifizierung nach ISO-639 von 1988 angewendet.
 
 Es ist der sechsstellige Code des Harmonisierten Systems (HS6) zu verwenden. Die Warennummer kann für einzelstaatliche Zwecke auf 8 Stellen erweitert werden.
 
-### 4. ...
+### 4. …
 
 ### 5. Verpackungscodes
 
@@ -4505,7 +4525,7 @@ Es sind die folgenden Codes zu verwenden:
 <tr><td>T2L</td><td>=</td><td>Einheitspapier zum Nachweis des zollrechtlichen Status von Unionswaren</td></tr>
 <tr><td>T2LF</td><td>=</td><td>Einheitspapier zum Nachweis des zollrechtlichen Status von Unionswaren im Verkehr zwischen Teilen des Zollgebiets der Union, in denen die Mehrwertsteuer-Vorschriften der Union Anwendung finden, und Teilen dieses Gebiets, in denen sie keine Anwendung finden.</td></tr>
 <tr><td>T1</td><td>=</td><td>Versandanmeldung für ein gemeinsames Versandverfahren mit Nicht-Unionswaren</td></tr>
-<tr><td>\*......</td><td></td><td>.................................................................................</td></tr>
+<tr><td>\*……</td><td></td><td>………………………………………………………………………</td></tr>
 </table>
 
 - \* jedes andere Vorpapier (an..5)
@@ -4630,7 +4650,7 @@ Anhang A3 zu Anlage III
 
 ## Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/de/xml/image/image1.png)
 
 Anhang A4 zu Anlage III
 
@@ -4647,7 +4667,7 @@ Die Angabe erfolgt alphanumerisch mit 18 Zeichen nach folgendem Muster:
 <table>
 <tr><td>Feld</td><td>Inhalt</td><td>Feldtyp</td><td>Beispiel</td></tr>
 <tr><td>1</td><td>Die beiden letzten Stellen des Jahres der förmlichen Annahme der Versandanmeldung (JJ)</td><td>Numerisch 2</td><td>97</td></tr>
-<tr><td>2</td><td>Kennung des Landes, in dem der Versand beginnt (ISO‑Alpha‑2‑Ländercode)</td><td>Alphabetisch 2</td><td>IT</td></tr>
+<tr><td>2</td><td>Kennung des Landes, in dem der Versand beginnt (Ländercode gemäss Anhang A2)</td><td>Alphabetisch 2</td><td>IT</td></tr>
 <tr><td>3</td><td>Einmalige Kennung für Versandvorgang pro Jahr und Land</td><td>alphanumerisch, 13</td><td>9876AB8890123</td></tr>
 <tr><td>4</td><td>Prüfziffer</td><td>alphanumerisch, 1</td><td>5</td></tr>
 </table>
@@ -4813,7 +4833,7 @@ Folgende Codes sind zu verwenden:
 - ES Spanien
 - FI Finnland
 - FR Frankreich
-- GB Vereinigtes Königreich
+- GB Vereinigtes Königreich (ohne Nordirland)[^annexu1-lvlu1-lvlA-lvlu4-1]
 - GR Griechenland
 - HR Kroatien
 - HU Ungarn
@@ -4835,6 +4855,10 @@ Folgende Codes sind zu verwenden:
 - SI Slowenien
 - SK Slowakei
 - TR Türkei
+- XI Nordirland[^annexu1-lvlu1-lvlA-lvlu4-2]
+
+[^annexu1-lvlu1-lvlA-lvlu4-1]: Satz aus Art. 1 Ziff. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses vom 1. Juni 2021, in Kraft für die Schweiz seit 1. Juni 2021 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexu1-lvlu1-lvlA-lvlu4-2]: Satz aus Art. 1 Ziff. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses vom 1. Juni 2021, in Kraft für die Schweiz seit 1. Juni 2021 ([AS 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### Feld 53: Bestimmungsstelle (und Land)
 
@@ -5245,7 +5269,7 @@ Die Durchgangszollstellen sind in der Liste der für gemeinsame Versandverfahren
 
 Anzugeben ist die Art der Sicherheitsleistung oder die Befreiung von der Sicherheitsleistung für das betreffende Versandverfahren nach dem hierfür vorgesehenen Code; ferner sind gegebenenfalls anzugeben die Nummer der Bürgschaftsbescheinigung, der Bescheinigung über die Befreiung von der Sicherheitsleistung oder des Einzelsicherheitstitels sowie die Zollstelle der Sicherheitsleistung.
 
-Ist die Gesamtbürgschaft, die Befreiung von der Sicherheitsleistung oder die Einzelsicherheit durch Bürgschaft nicht für alle Vertragsparteien gültig, so sind nach «nicht gültig für ...» die Vertragspart(en) nach dem hierfür vorgesehenen Code anzugeben.
+Ist die Gesamtbürgschaft, die Befreiung von der Sicherheitsleistung oder die Einzelsicherheit durch Bürgschaft nicht für alle Vertragsparteien gültig, so sind nach «nicht gültig für …» die Vertragspart(en) nach dem hierfür vorgesehenen Code anzugeben.
 
 ### Feld 53: Bestimmungszollstelle (und Land)
 
@@ -5762,7 +5786,7 @@ Anhang B9 zu Anlage III
 
 ## Muster für den vom zugelassenen Versender zu verwendenden Sonderstempel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/de/xml/image/image2.png)
 
 - 1\. Wappen oder sonstige Zeichen oder Buchstaben des Landes
 - 2\. Kennnummer der Abgangszollstelle
@@ -5776,7 +5800,7 @@ Anhang B10 zu Anlage III
 ## Eingangsbescheinigung (TC 11)
 
 <table>
-<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ............ (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am .................. (TT/MM/JJ) unter der Nr. .................. (MRN<sup>(2)</sup>) von der Abgangszollstelle von .............................. (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image3.png) (Ort) ..............., den ............... (TT/MM/JJ) ............................................................ (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
+<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ............ (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am .................. (TT/MM/JJ) unter der Nr. .................. (MRN<sup>(2)</sup>) von der Abgangszollstelle von .............................. (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/de/xml/image/image3.png) (Ort) ..............., den ............... (TT/MM/JJ) ............................................................ (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
 </table>
 
 Anhang B11 zu Anlage III
@@ -5785,7 +5809,7 @@ Anhang B11 zu Anlage III
 
 (Versandverfahren im Eisenbahnverkehr)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/de/xml/image/image4.png)
 
 Anhang C1 zu Anlage III
 
@@ -5801,7 +5825,7 @@ leistet hiermit bei der Zollstelle der Sicherheitsleistung
 
 bis zu einem Höchstbetrag von
 
-selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden), sowie gegenüber der Republik Island, der ehemaligen jugoslawischen Republik Mazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, dem Vereinigten Königreich Grossbritannien und Nordirland (3), dem Fürstentum Andorra und der Republik San Marino (4) für alle Beträge, die der Bürge (5):
+selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden), sowie gegenüber der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, dem Vereinigten Königreich Grossbritannien und Nordirland (2a) (3), dem Fürstentum Andorra und der Republik San Marino (4) für alle Beträge, die der Bürge (5):
 
 den genannten Ländern an Zöllen und anderen Abgaben (6) für die nachstehend bezeichneten Waren schuldet oder schulden wird, die folgendem Zollvorgang (7) unterliegen:
 
@@ -5839,6 +5863,7 @@ Verpflichtungserklärung des Bürgen genehmigt am ................ für das Zoll
 
 - (1) Name und Vorname oder Firmenbezeichnung.
 - (2) Vollständige Anschrift.
+- (2a) Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen. Daher muss ein im Zollgebiet der Europäischen Union ansässiger Bürge in Nordirland ein Wahldomizil angeben oder einen Beauftragten benennen, falls die Sicherheitsleistung dort verwendet werden darf. Wird jedoch im Rahmen des gemeinsamen Versandverfahrens eine Sicherheitsleistung in der Europäischen Union und im Vereinigten Königreich für gültig erklärt, so kann ein einziges Wahldomizil oder ein benannter Beauftragter im Vereinigten Königreich alle Teile des Vereinigten Königreichs einschliesslich Nordirland abdecken.
 - (3) Die Namen der Staaten, in deren Gebiet die Sicherheit nicht verwendet werden darf, sind zu streichen.
 - (4) Bezugnahmen auf das Fürstentum Andorra oder die Republik San Marino gelten nur für Unionsversandverfahren.
 - (5) Name und Vorname oder Firmenbezeichnung und vollständige Anschrift des Bürgen.
@@ -5861,7 +5886,7 @@ Verpflichtungserklärung des Bürgen genehmigt am ................ für das Zoll
   - l) anderer Zollvorgang – bitte Art des Vorgangs angeben.
 
 - (8) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
-- (9) Vor der Unterschrift muss der/die Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von ...», wobei der Betrag in Worten anzugeben ist.
+- (9) Vor der Unterschrift muss der/die Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von …», wobei der Betrag in Worten anzugeben ist.
 - (10) Von der Zollstelle auszufüllen, bei der die Waren in das Verfahren oder die vorübergehende Verwahrung übergeführt wurden.
 
 Anhang C2 zu Anlage III
@@ -5876,7 +5901,7 @@ mit Wohnsitz (Sitz) in (2)
 
 leistet hiermit bei der Zollstelle der Sicherheitsleistung
 
-selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden), sowie gegenüber der Republik Island, der ehemaligen jugoslawischen Republik Mazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, dem Vereinigten Königreich Grossbritannien und Nordirland, dem Fürstentum Andorra und der Republik San Marino (3) für alle Beträge, die der Inhaber des Verfahrens den genannten Ländern an Zöllen und anderen Abgaben im Zusammenhang mit der Einfuhr oder der Ausfuhr der in das Unionsversandverfahren oder gemeinsame Versandverfahren übergeführten Waren schuldet oder schulden wird, wobei sich der/die Unterzeichnete zur Ausstellung von Einzelsicherheitstiteln bis zu einem Höchstbetrag von 10 000 EUR je Sicherheitstitel verpflichtet hat.
+selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden), sowie gegenüber der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, dem Vereinigten Königreich Grossbritannien und Nordirland (2a), dem Fürstentum Andorra und der Republik San Marino (3) für alle Beträge, die der Inhaber des Verfahrens den genannten Ländern an Zöllen und anderen Abgaben im Zusammenhang mit der Einfuhr oder der Ausfuhr der in das Unionsversandverfahren oder gemeinsame Versandverfahren übergeführten Waren schuldet oder schulden wird, wobei sich der/die Unterzeichnete zur Ausstellung von Einzelsicherheitstiteln bis zu einem Höchstbetrag von 10 000 EUR je Sicherheitstitel verpflichtet hat.
 
 \2. Der/Die Unterzeichnete verpflichtet sich, binnen einer Frist von dreissig Tagen nach der ersten schriftlichen Aufforderung durch die zuständigen Behörden der in Nummer 1 genannten Länder die geforderten Beträge bis zu dem angeführten Höchstbetrag von 10 000 EUR je Einzelsicherheitstitel ohne Aufschub zu zahlen, sofern nicht er/sie oder ein anderer Beteiligter vor Ablauf dieser Frist den zuständigen Behörden gegenüber nachgewiesen hat, dass das betreffende Verfahren ordnungsgemäss erledigt wurde.
 
@@ -5910,6 +5935,7 @@ Verpflichtungserklärung des Bürgen genehmigt am
 
 - (1) Name und Vorname oder Firmenbezeichnung.
 - (2) Vollständige Anschrift.
+- (2a) Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen. Daher muss ein im Zollgebiet der Europäischen Union ansässiger Bürge in Nordirland ein Wahldomizil angeben oder einen Beauftragten benennen, falls die Sicherheitsleistung dort verwendet werden darf. Wird jedoch im Rahmen des gemeinsamen Versandverfahrens eine Sicherheitsleistung in der Europäischen Union und im Vereinigten Königreich für gültig erklärt, so kann ein einziges Wahldomizil oder ein benannter Beauftragter im Vereinigten Königreich alle Teile des Vereinigten Königreichs einschliesslich Nordirland abdecken.
 - (3) Bezugnahmen auf das Fürstentum Andorra oder die Republik San Marino gelten nur für Unionsversandverfahren.
 - (4) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
 - (5) Vor der Unterschrift muss der/die Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit».
@@ -5919,7 +5945,7 @@ Anhang C3 zu Anlage III
 
 ## Einzelsicherheitstitel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/de/xml/image/image5.png)
 
 Technische Anforderungen an den Sicherheitstitel
 
@@ -5943,7 +5969,7 @@ leistet hiermit bei der Zollstelle der Sicherheitsleistung
 
 bis zu einem Höchstbetrag von
 
-selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden), sowie gegenüber der Republik Island, der ehemaligen jugoslawischen Republik Mazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, dem Vereinigten Königreich Grossbritannien und Nordirland (3), dem Fürstentum Andorra und der Republik San Marino (4) für alle Beträge, die der Bürge (5)
+selbstschuldnerische Bürgschaft gegenüber der Europäischen Union (bestehend aus dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, der Republik Kroatien, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Grossherzogtum Luxemburg, Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden), sowie gegenüber der Republik Island, der Republik Nordmazedonien, dem Königreich Norwegen, der Republik Serbien, der Schweizerischen Eidgenossenschaft, der Republik Türkei, dem Vereinigten Königreich Grossbritannien und Nordirland (2a) (3), dem Fürstentum Andorra und der Republik San Marino (4) für alle Beträge, die der Bürge (5)
 
 den genannten Ländern an Zöllen und anderen Abgaben (6) schuldet oder schulden wird, die für die Waren entstanden sind oder möglicherweise entstehen, die den unter Nummer 1a und/oder 1b aufgeführten Zollvorgängen unterliegen.
 
@@ -5955,23 +5981,23 @@ Der Höchstbetrag der Sicherheitsleistung setzt sich zusammen aus einem Betrag i
 
 (1a) Die nachstehend für die einzelnen Vorgänge aufgeführten Beträge bilden den Teil des Referenzbetrages, der einem Zollschuldbetrag und gegebenenfalls anderen möglicherweise entstehenden Abgaben entspricht (8):
 
-- a) vorübergehende Verwahrung – ...,
-- b) Unionsversandverfahren/gemeinsames Versandverfahren – ...,
-- c) Zolllagerverfahren – ...,
-- d) vorübergehende Verwendung mit vollständiger Befreiung von den Einfuhrabgaben – ...,
-- e) aktive Veredelung – ...,
-- f) Endverwendung – ... (9),
-- g) anderer Zollvorgang – bitte Art des Vorgangs angeben – ....
+- a) vorübergehende Verwahrung – …,
+- b) Unionsversandverfahren/gemeinsames Versandverfahren – …,
+- c) Zolllagerverfahren – …,
+- d) vorübergehende Verwendung mit vollständiger Befreiung von den Einfuhrabgaben – …,
+- e) aktive Veredelung – …,
+- f) Endverwendung – … (9),
+- g) anderer Zollvorgang – bitte Art des Vorgangs angeben – ….
 
 (1b) Die nachstehend für die einzelnen Vorgänge aufgeführten Beträge bilden den Teil des Referenzbetrages, der einem Zollschuldbetrag und gegebenenfalls anderen entstandenen Abgaben entspricht (8):
 
-- a) Überlassung zum zollrechtlich freien Verkehr mit normaler Zollanmeldung ohne Zahlungsaufschub – ...,
-- b) Überlassung zum zollrechtlich freien Verkehr mit normaler Zollanmeldung mit Zahlungsaufschub – ...,
-- c) Überlassung zum zollrechtlich freien Verkehr mit vereinfachter Zollanmeldung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union – ...,
-- d) Überlassung zum zollrechtlich freien Verkehr mit vereinfachter Zollanmeldung nach Artikel 182 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union – ...,
-- e) vorübergehende Verwendung mit teilweiser Befreiung von den Einfuhrabgaben – ...,
-- f) Endverwendung – ... (9),
-- g) anderer Zollvorgang – bitte Art des Vorgangs angeben – ....
+- a) Überlassung zum zollrechtlich freien Verkehr mit normaler Zollanmeldung ohne Zahlungsaufschub – …,
+- b) Überlassung zum zollrechtlich freien Verkehr mit normaler Zollanmeldung mit Zahlungsaufschub – …,
+- c) Überlassung zum zollrechtlich freien Verkehr mit vereinfachter Zollanmeldung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union – …,
+- d) Überlassung zum zollrechtlich freien Verkehr mit vereinfachter Zollanmeldung nach Artikel 182 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union – …,
+- e) vorübergehende Verwendung mit teilweiser Befreiung von den Einfuhrabgaben – …,
+- f) Endverwendung – … (9),
+- g) anderer Zollvorgang – bitte Art des Vorgangs angeben – ….
 
 \2. Der/Die Unterzeichnete verpflichtet sich, binnen einer Frist von dreissig Tagen nach der ersten schriftlichen Aufforderung durch die zuständigen Behörden der unter Nummer 1 genannten Staaten die geforderten Beträge bis zu dem angeführten Höchstbetrag ohne Aufschub zu zahlen, sofern nicht er/sie oder ein anderer Beteiligter vor Ablauf dieser Frist den Zollbehörden gegenüber nachgewiesen hat, dass das besondere Verfahren (mit Ausnahme der Endverwendung) erledigt, die zollamtliche Überwachung der Waren in der Endverwendung oder die vorübergehende Verwahrung ordnungsgemäss beendet oder bei anderen Zollvorgängen als besonderen Verfahren der Status der Waren geregelt wurde.
 
@@ -6007,6 +6033,7 @@ Verpflichtungserklärung des Bürgen genehmigt am
 
 - (1) Name und Vorname oder Firmenbezeichnung.
 - (2) Vollständige Anschrift.
+- (2a) Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen. Daher muss ein im Zollgebiet der Europäischen Union ansässiger Bürge in Nordirland ein Wahldomizil angeben oder einen Beauftragten benennen, falls die Sicherheitsleistung dort verwendet werden darf. Wird jedoch im Rahmen des gemeinsamen Versandverfahrens eine Sicherheitsleistung in der Europäischen Union und im Vereinigten Königreich für gültig erklärt, so kann ein einziges Wahldomizil oder ein benannter Beauftragter im Vereinigten Königreich alle Teile des Vereinigten Königreichs einschliesslich Nordirland abdecken.
 - (3) Die Namen der Länder, in deren Gebiet die Sicherheit nicht verwendet werden darf, sind zu streichen.
 - (4) Bezugnahmen auf das Fürstentum Andorra oder die Republik San Marino gelten nur für Unionsversandverfahren.
 - (5) Name und Vorname oder Firmenbezeichnung und vollständige Anschrift des Bürgen.
@@ -6015,7 +6042,7 @@ Verpflichtungserklärung des Bürgen genehmigt am
 - (8) Andere Verfahren als das gemeinsame Versandverfahren gelten ausschliesslich in der Union.
 - (9) Für Beträge, die in einer Zollanmeldung für die zur Endverwendung angemeldeten Waren angegeben wurden.
 - (10) Sehen die Rechtsvorschriften eines dieser Länder ein Wahldomizil nicht vor, so hat der Bürge in dem betreffenden Land einen Zustellungsbevollmächtigten zu benennen; die unter Nummer 4 Absätze 2 und 4 vorgesehenen Anerkenntnisse bzw. Verpflichtungen sind entsprechend zu vereinbaren. Für Rechtsstreitigkeiten aus dieser Sicherheit sind die Gerichte zuständig, in deren Bezirk sich das Wahldomizil oder der Wohnsitz (Sitz) des Bürgen bzw. der Zustellungsbevollmächtigten befindet.
-- (11) Vor der Unterschrift muss der/die Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von ...», wobei der Betrag in Worten anzugeben ist.
+- (11) Vor der Unterschrift muss der/die Unterzeichnete handschriftlich vermerken: «Für die Übernahme der Sicherheit in Höhe von …», wobei der Betrag in Worten anzugeben ist.
 - [tab]
 
 Anhang C5 zu Anlage III
@@ -6030,12 +6057,13 @@ Anhang C5 zu Anlage III
 <tr><td>4. Bürge (Name und Vorname oder Firmenbezeichnung sowie vollständige Anschrift)</td><td colspan="5"></td></tr>
 <tr><td>5. Zollstelle der Sicherheitsleistung (Kennnummer)</td><td colspan="5"></td></tr>
 <tr><td>6. Referenzbetrag Währungscode</td><td colspan="3">in Ziffern</td><td colspan="2">in Worten</td></tr>
-<tr><td colspan="6">7. Die Zollstelle der Sicherheitsleistung bescheinigt, dass der oben genannte Inhaber des Verfahrens eine Gesamtsicherheit geleistet hat, die für Unionsversandverfahren/gemeinsame Versandverfahren in den nachstehenden Zollgebieten gültig ist, deren Namen nicht gestrichen sind: EUROPÄISCHE UNION, ISLAND – DIE REPUBLIK NORDMAZEDONIEN – NORWEGEN – SERBIEN – SCHWEIZ – TÜRKEI – VEREINIGTES KÖNIGREICH – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. Die Zollstelle der Sicherheitsleistung bescheinigt, dass der oben genannte Inhaber des Verfahrens eine Gesamtsicherheit geleistet hat, die für Unionsversandverfahren/gemeinsame Versandverfahren in den nachstehenden Zollgebieten gültig ist, deren Namen nicht gestrichen sind: EUROPÄISCHE UNION, ISLAND – DIE REPUBLIK NORDMAZEDONIEN – NORWEGEN – SERBIEN – SCHWEIZ – TÜRKEI – VEREINIGTES KÖNIGREICH<sup>(</sup>\*\*<sup>)</sup> – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">8. Besondere Vermerke</td></tr>
 <tr><td colspan="2">9. Gültigkeit verlängert bis einschliesslich TT/MM/JJ (Ort) , den (Unterschrift und Stempel der Zollstelle der Sicherheitsleistung)</td><td colspan="4">(Ort) , den (Unterschrift und Stempel der Zollstelle der Sicherheitsleistung)</td></tr>
 </table>
 
-- <sup>(</sup>\*<sup>)</sup> Nur für Unionsversandverfahren
+- [tab] <sup>(</sup>\*<sup>)</sup> Nur für Unionsversandverfahren.
+- [tab] <sup>(</sup>\*\*<sup>)</sup> Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen.
 
 *(Rückseite)*
 
@@ -6058,12 +6086,13 @@ Anhang C6 zu Anlage III
 <tr><td>3. Inhaber des Verfahrens (Name und Vorname oder Firmenbezeichnung sowie vollständige Anschrift)</td><td colspan="5"></td></tr>
 <tr><td>4. Zollstelle der Sicherheitsleistung (Kennnummer)</td><td colspan="5"></td></tr>
 <tr><td>5. Referenzbetrag Währungscode</td><td colspan="3">in Ziffern</td><td colspan="2">in Worten</td></tr>
-<tr><td colspan="6">6. Die Zollstelle der Sicherheitsleistung bescheinigt, dass dem oben genannten Inhaber des Verfahrens für die von ihm durchgeführten Unionsversandverfahren/gemeinsamen Versandverfahren in den nachstehenden Zollgebieten, deren Namen nicht gestrichen sind, eine Befreiung von der Sicherheitsleistung bewilligt wurde: EUROPÄISCHE UNION, ISLAND, DIE REPUBLIK NORDMAZEDONIEN, NORWEGEN, SERBIEN, SCHWEIZ, TÜRKEI, VEREINIGTES KÖNIGREICH, ANDORRA<sup>(</sup>\*<sup>)</sup>, SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">6. Die Zollstelle der Sicherheitsleistung bescheinigt, dass dem oben genannten Inhaber des Verfahrens für die von ihm durchgeführten Unionsversandverfahren/gemeinsamen Versandverfahren in den nachstehenden Zollgebieten, deren Namen nicht gestrichen sind, eine Befreiung von der Sicherheitsleistung bewilligt wurde: EUROPÄISCHE UNION, ISLAND, DIE REPUBLIK NORDMAZEDONIEN, NORWEGEN, SERBIEN, SCHWEIZ, TÜRKEI, VEREINIGTES KÖNIGREICH<sup>(</sup>\*\*<sup>)</sup>, ANDORRA<sup>(</sup>\*<sup>)</sup>, SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">7. Besondere Vermerke</td></tr>
 <tr><td colspan="2">8. Gültigkeit verlängert bis einschliesslich TT/MM/JJ (Ort) , den (Unterschrift und Stempel der Zollstelle der Sicherheitsleistung)</td><td colspan="4">(Ort) , den (Unterschrift und Stempel der Zollstelle der Sicherheitsleistung)</td></tr>
 </table>
 
-- <sup>(</sup>\*<sup>)</sup> Nur für Unionsversandverfahren
+- [tab] <sup>(</sup>\*<sup>)</sup> Nur für Unionsversandverfahren.
+- [tab] <sup>(</sup>\*\*<sup>)</sup> Gemäss dem Protokoll zu Irland/Nordirland zum Abkommen über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft ist Nordirland für die Zwecke dieser Sicherheitsleistung als Teil der Europäischen Union anzusehen.
 
 *(Rückseite)*
 
@@ -6105,7 +6134,7 @@ Anhang C7 zu Anlage III
 
 - Die entsprechenden Anweisungen und Vermerke sind in Anhang IV Nummer 4 der Anlage I aufgeführt.
 
-Anlage IIIa*[^t-6]*
+Anlage IIIa[^t-6]
 
 ## Versandanmeldungen, Versandbegleitdokumente und sonstige Papiere
 
@@ -6318,7 +6347,7 @@ Beispiele für Feldlängen und Formate:
 <tr><td>6/13</td><td>CUS-Nummer</td><td>an8</td><td>Nein</td><td></td><td>1x</td><td>Im Europäischen Zollinventar chemischer Stoffe (ECICS) zugewiesener Code.</td></tr>
 <tr><td>6/14</td><td>Warennummer – KN-Code</td><td>an..8</td><td>Nein</td><td></td><td>1x</td><td></td></tr>
 <tr><td>6/18</td><td>Packstücke insgesamt</td><td>n..8</td><td>Nein</td><td>1x</td><td></td><td></td></tr>
-<tr><td>7/1</td><td>Umladungen</td><td>*Ort der Umladung:* Land: a2 + *Art des Ortes:* a1 + *Qualifikator der Identifizierung:* a1+ Codiert *Identifizierung des Ortes:* an..35 + *Zusätzliche Kennung:* n..3 ODER Freie Textbeschreibung *Strasse und Hausnummer:* an..70 + *Postleitzahl:* an..9 + *Ort:* an..35 + Kennzeichen des neuen Beförderungsmittels *Art der Identifizierung:* n2 + *Kennnummer:* an..35 + *Staatszugehörigkeit des neuen Beförderungsmittels:* a2 + *Angabe, ob die Sendung in Conta**i**nern befördert wird oder nicht:* n1</td><td>Nein</td><td>1x</td><td></td><td>Der für D.E. 3/1 «Ausführer» festgelegte Ländercode ist zu verwenden. Der Code für den Ort der Umladung richtet sich nach der für D.E. 5/23 «Warenort» festgelegten Struktur. Der Code für das Kennzeichen des Beförderungsmittels richtet sich nach der für D.E. 7/7 «Kennzeichen des Beförderungsmittels beim Abgang» festgelegten Struktur. Der Code für die Staatszugehörigkeit des Beförderungsmittels richtet sich nach der für D.E. 7/8 «Staatszugehörigkeit des Beförderungsmittels beim Abgang» festgelegten Struktur. Für die Angabe, ob die Waren in Containern befördert werden, sind die in Titel III für D.E. 7/2 «Container» festgelegten Codes zu verwenden.</td></tr>
+<tr><td>7/1</td><td>Umladungen</td><td>*Ort der Umladung:* Land: a2 + *Art des Ortes:* a1 + *Qualifikator der Identifizierung:* a1+ Codiert *Identifizierung des Ortes:* an..35 + *Zusätzliche Kennung:* n..3 ODER Freie Textbeschreibung *Strasse und Hausnummer:* an..70 + *Postleitzahl:* an..9 + *Ort:* an..35 + Kennzeichen des neuen Beförderungsmittels *Art der Identifizierung:* n2 + *Kennnummer:* an..35 + *Staatszugehörigkeit des neuen Beförderungsmittels:* a2 + *Angabe, ob die Sendung in Containern befördert wird oder nicht:* n1</td><td>Nein</td><td>1x</td><td></td><td>Der für D.E. 3/1 «Ausführer» festgelegte Ländercode ist zu verwenden. Der Code für den Ort der Umladung richtet sich nach der für D.E. 5/23 «Warenort» festgelegten Struktur. Der Code für das Kennzeichen des Beförderungsmittels richtet sich nach der für D.E. 7/7 «Kennzeichen des Beförderungsmittels beim Abgang» festgelegten Struktur. Der Code für die Staatszugehörigkeit des Beförderungsmittels richtet sich nach der für D.E. 7/8 «Staatszugehörigkeit des Beförderungsmittels beim Abgang» festgelegten Struktur. Für die Angabe, ob die Waren in Containern befördert werden, sind die in Titel III für D.E. 7/2 «Container» festgelegten Codes zu verwenden.</td></tr>
 <tr><td>7/2</td><td>Container</td><td>n1</td><td>Ja</td><td>1x</td><td></td><td></td></tr>
 <tr><td>7/4</td><td>Verkehrszweig an der Grenze</td><td>n1</td><td>Ja</td><td></td><td></td><td></td></tr>
 <tr><td>7/5</td><td>Inländischer Verkehrszweig</td><td>n1</td><td>Nein</td><td>1x</td><td>1x</td><td>Die in Titel III für D.E. 7/4 «Verkehrszweig an der Grenze» festgelegten Codes sind zu verwenden.</td></tr>
@@ -6663,7 +6692,7 @@ Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 
 
 Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/de/xml/image/image6.png)
 
 Anhang A4a zu Anlage IIIa
 
@@ -7195,7 +7224,7 @@ Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 
 
 Muster der Liste der Warenpositionen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/de/xml/image/image7.png)
 
 Anhang A6a zu Anlage IIIa
 
@@ -7831,9 +7860,9 @@ Anzugeben ist die Nummer der Sicherheitsleistung und gegebenenfalls der Zugriffs
 
 Versandanmeldung und Versandanmeldung mit verringerten Datenanforderungen
 
-Ist eine Sicherheitsleistung für eine oder mehrere Vertragsparteien nicht gültig, so sind nach «nicht gültig für ...» die für die betreffende Vertragspartei oder die betreffenden Vertragsparteien entsprechenden Codes anzugeben.
+Ist eine Sicherheitsleistung für eine oder mehrere Vertragsparteien nicht gültig, so sind nach «nicht gültig für …» die für die betreffende Vertragspartei oder die betreffenden Vertragsparteien entsprechenden Codes anzugeben.
 
-Anlage IV*[^t-7]*
+Anlage IV[^t-7]
 
 ## Amtshilfe bei der Vollstreckung von Forderungen
 
@@ -8299,7 +8328,7 @@ den Erlass von Sicherungsmassnahmen hinsichtlich der nachstehend bezeichneten Pe
 <tr><td><sup>3</sup></td><td colspan="14">Sofern es sich um einen globalen Vollstreckungstitel handelt, sind die Forderungsbeträge getrennt nach Forderungen aufzuführen.</td></tr>
 </table>
 
-Geltungsbereich am 25. Februar 2021**[^t-11]**
+Geltungsbereich am 25. Februar 2021[^t-11]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>

@@ -3,30 +3,24 @@ sr: "0.631.242.04"
 title: Convenzione del 20 maggio 1987 relativa ad un regime comune di transito (con appendici e Protocollo addizionale)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: it
-version: 2021-02-25
+version: 2021-06-01
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210225-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210225/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210601-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione relativa ad un regime comune di transito****
+# Convenzione relativa ad un regime comune di transito
 
 RU **1988** 308; FF **1987** II 1218[^t-1]
 
 Testo originale
 
-Conclusa il 20 maggio 1987
+Conclusa il 20 maggio 1987 Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2] Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987 Entrata in vigore il 1° gennaio 1988
 
-Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2]
-
-Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987
-
-Entrata in vigore il 1° gennaio 1988
-
-(Stato 25 febbraio 2021)
+(Stato 1° giugno 2021)
 
 [^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Conv. Il 1° lug. 1996, la Repubblica di Polonia, la Repubblica slovacca, la Repubblica ceca e la Repubblica di Ungheria hanno aderito alla Conv. ([RU 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Con l’adesione all’Unione Europea, dal 1° mag. 2004 questi paesi non sono più Parti contraenti autonome della Conv. La Repubblica di Croazia ha aderito alla Conv. il 1° lug. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la Repubblica della Turchia il 1° dic. 2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), l’ex Repubblica Jugoslava di Macedonia il 1° lug. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) e la Repubblica di Serbia il 1° feb. 2016 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 n. 1 lett. b del DF dell’8 ott. 1987 ([RU 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -453,11 +447,11 @@ Fatto a Interlaken, il 20 maggio millenovecentottantasette.
 
 (Seguono le firme)
 
-Appendice I*[^t-3]*
+Appendice I[^t-3]
 
 ## Procedure di transito comune
 
-[^t-3]: Nuovo testo giusta l’art. 1 n. 2 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Aggiornata dall’art. 1 n. 1 e 2 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)) e dall’art. 1 n. 1 della Dec. n. 1/2019 del Comitato congiunto UE-PTC del 4 dic. 2019, in vigore dal 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+[^t-3]: Nuovo testo giusta l’art. 1 n. 2 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Aggiornata dall’art. 1 n. 1 e 2 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 1 della Dec. n. 1/2019 del Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 n. 1 della Dec. n. 1/2021 del Comitato congiunto UE-PTC del 1° giu. 2021, in vigore per la Svizzera dal 1° giu. 2021 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### Titolo I: Disposizioni Generali
 
@@ -1245,6 +1239,10 @@ Se è sorta un’obbligazione, l’autorità doganale del Paese di partenza adot
 
 <sup>2.</sup> L’autorità doganale competente in tale luogo accusa ricevuta delle informazioni e comunica all’autorità doganale del Paese di partenza se è competente per il recupero. Se l’autorità doganale del Paese di partenza non ha ricevuto l’informazione entro 28 giorni, essa riprende immediatamente la procedura di ricerca o dà avvio alla procedura di recupero.
 
+<sup>3.</sup> Se l’autorità doganale di un paese che partecipa a un’operazione di transito comune ottiene, prima della scadenza del termine di cui all’articolo 114, paragrafo 2, lettera a), prove che dimostrano che i fatti che hanno determinato l’insorgenza dell’obbligazione doganale si sono verificati nel proprio territorio, tale autorità provvede immediatamente, e in ogni caso entro tale termine, a inviare una richiesta debitamente giustificata all’autorità doganale del paese di partenza affinché trasferisca la responsabilità di avviare il recupero all’autorità doganale richiedente.
+
+<sup>4.</sup> L’autorità doganale del paese di partenza conferma il ricevimento della richiesta effettuata a norma del paragrafo 3 e comunica all’autorità doganale richiedente, entro 28 giorni dalla data di invio della richiesta, se accetta di soddisfare la richiesta e di trasferire all’autorità richiedente la responsabilità di avviare il recupero.
+
 #### Art. 51
 
 **Prova alternativa della conclusione del regime di transito comune**
@@ -1714,7 +1712,15 @@ L’utilizzo della garanzia globale e della garanzia globale di importo ridotto,
 
 <sup>1.</sup> Sulla base dell’autorizzazione, l’ufficio doganale di garanzia rilascia al titolare del regime uno o più certificati di garanzia globale redatti utilizzando il formulario di cui all’appendice III, allegato C5, o uno o più certificati di esonero dalla garanzia redatti utilizzando il formulario di cui all’appendice III, allegato C6, al fine di consentire al titolare del regime di fornire la prova di una garanzia globale o di un esonero dalla garanzia nell’ambito dell’articolo 26, paragrafo 1, lettera b).
 
-<sup>2.</sup> La validità di un certificato è limitata a due anni. Tuttavia tale durata può essere prorogata dall’ufficio doganale di garanzia una sola volta per un periodo non superiore a due anni.
+<sup>2.</sup> La validità di un certificato di garanzia globale o di un certificato di esonero dalla garanzia è limitata a cinque anni. Tuttavia tale durata può essere prorogata dall’ufficio doganale di garanzia una sola volta per un periodo non superiore a cinque anni.[^annexI-lvlu1-titIII-chapII-79-1]
+
+<sup>3.</sup> Se durante il periodo di validità del certificato l’ufficio doganale di garanzia è informato che il certificato, a seguito di numerose modifiche, non è sufficientemente leggibile e può essere respinto dall’ufficio doganale di partenza, l’ufficio doganale di garanzia invalida il certificato e ne rilascia uno nuovo, se del caso.[^annexI-lvlu1-titIII-chapII-79-2]
+
+<sup>4.</sup> I certificati con una validità di due anni restano validi. La loro durata può essere prorogata dall’ufficio doganale di garanzia per un ulteriore periodo non superiore a cinque anni.[^annexI-lvlu1-titIII-chapII-79-3]
+
+[^annexI-lvlu1-titIII-chapII-79-1]: Applicabile dal 30 giu. 2020 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexI-lvlu1-titIII-chapII-79-2]: Applicabile dal 30 giu. 2020 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexI-lvlu1-titIII-chapII-79-3]: Applicabile dal 30 giu. 2020 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 #### Art. 80
 
@@ -2476,7 +2482,9 @@ Allegato II dell’appendice I
   - – certificato di garanzia isolata, conforme al formulario di cui all’appendice III, allegato C3.
 
 - 19\.2 La dichiarazione di transito deve fare riferimento ai certificati.
-- 19\.3 La validità di un certificato di garanzia globale o di un certificato di esonero dalla garanzia è limitata a due anni. Tuttavia tale durata può essere prorogata dall’ufficio doganale di garanzia una sola volta per un periodo non superiore a due anni.
+- 19\.3.[^annexII-lvlu1-chapIII-1] La validità di un certificato di garanzia globale o di un certificato di esonero dalla garanzia è limitata a cinque anni. Tuttavia tale durata può essere prorogata dall’ufficio doganale di garanzia una sola volta per un periodo non superiore a cinque anni.
+- Se durante il periodo di validità del certificato l’ufficio doganale di garanzia è informato che il certificato, a seguito di numerose modifiche, non è sufficientemente leggibile e può essere respinto dall’ufficio doganale di partenza, l’ufficio doganale di garanzia invalida il certificato e ne rilascia uno nuovo, se del caso.
+- I certificati con una validità di due anni restano validi. La loro durata può essere prorogata dall’ufficio doganale di garanzia per un ulteriore periodo non superiore a cinque anni.
 - 19\.4 A decorrere dalla data in cui prendono effetto la revoca di un’autorizzazione a utilizzare una garanzia globale o la revoca e l’annullamento di un impegno assunto relativamente a una garanzia globale, i certificati emessi non possono più essere utilizzati per il vincolo di merci al regime di transito comune e sono restituiti senza indugio dal titolare del regime all’ufficio doganale di garanzia.
 - 19\.5 Ciascun paese trasmette alla Commissione informazioni sugli elementi identificativi dei certificati in corso di validità che non sono stati restituiti o che sono stati dichiarati rubati, perduti o falsificati. La Commissione ne dà di conseguenza notizia agli altri paesi.
 - 20\. Distinte di carico speciali
@@ -2529,6 +2537,8 @@ Allegato II dell’appendice I
 - 26\. Destinatario autorizzato – Obblighi
 - 26\.1. Quando le merci arrivano in un luogo precisato nell’autorizzazione, il destinatario autorizzato informa senza indugio l’ufficio doganale di destinazione in merito a tale arrivo. Egli segnala la data di arrivo, lo stato dei sigilli eventualmente apposti nonché qualsiasi irregolarità negli esemplari n. 4 e n. 5 del DAU o nell’esemplare del DAT che hanno accompagnato le merci e li consegna all’ufficio doganale di destinazione conformemente alle norme previste nell’autorizzazione.
 - 26\.2. L’ufficio doganale di destinazione appone sugli esemplari n. 4 e n. 5 del DAU o sull’esemplare del DAT le annotazioni previste al punto 13 del presente allegato.
+
+[^annexII-lvlu1-chapIII-1]: Applicabile dal 30 giu. 2020 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 Appendice II[^t-4]
 
@@ -2875,7 +2885,7 @@ Appendice III[^t-5]
 
 ## Dichiarazione di transito e formulari in caso di utilizzo di procedimenti informatici
 
-[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 della dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Giusta l’art. 2 di detta dec. i formulari relativi alla garanzia di cui agli allegati da C1 a C6, nella versione applicabile il giorno prima dell’entrata in vigore della presente decisione, possono continuare a essere utilizzati, con i necessari adattamenti geografici, per un anno a decorrere dall’entrata in vigore della presente decisione.
+[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), dall’art. 1 della Dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) e dall’art. 1 n. 2 della Dec. n. 1/2021 del Comitato congiunto UE-PTC del 1° giu. 2021, in vigore per la Svizzera dal 1° giu. 2021 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)
 
 #### Art. 1
 
@@ -4055,8 +4065,8 @@ Il numero di riferimento (GRN), assegnato dall’ufficio doganale di garanzia pe
 
 <table>
 <tr><th>Campo</th><th>Contenuto</th><th>Tipo di campo</th><th>Esempio</th></tr>
-<tr><td>1</td><td>Ultime due cifre dell’anno diaccettazione della garanzia (AA)</td><td>Numerico 2</td><td>97</td></tr>
-<tr><td>2</td><td>Identificatore del Paese in cui la garanzia è presentata (codice Paese ISO alfa 2)</td><td>Alfabetico 2</td><td>IT</td></tr>
+<tr><td>1</td><td>Ultime due cifre dell’anno di accettazione della garanzia (AA)</td><td>Numerico 2</td><td>97</td></tr>
+<tr><td>2</td><td>Identificatore del Paese in cui la garanzia è presentata (codice paese di cui all’allegato A2)</td><td>Alfabetico 2</td><td>IT</td></tr>
 <tr><td>3</td><td>Identificatore unico, per anno e per Paese, dell’accettazione attribuito dall’ufficio doganale di garanzia</td><td>Alfanumerico 12</td><td>1234AB788966</td></tr>
 <tr><td>4</td><td>Numero di controllo</td><td>Alfanumerico 1</td><td>8</td></tr>
 <tr><td>5</td><td>Identificatore del certificato di garanzia isolata (1 lettera + 6 cifre) o NUL per gli altri tipi di garanzia</td><td>Alfanumerico 7</td><td>A001017</td></tr>
@@ -4120,6 +4130,10 @@ Il presente allegato sarà soppresso a decorrere dalla data di introduzione dell
 </table>
 
 Si applica il «codice Paese ISO alfa-2» quale specificato nella norma ISO 3166-1 del 1997 e successivi aggiornamenti.
+
+XI è utilizzato per l’Irlanda del Nord. Il codice XI è facoltativo per le parti contraenti per i dati Paese (casella 8 e casella ex 8) e Paese di destinazione (casella 17 bis e casella ex 17 bis)[^annexu1-lvlu1-lvl1-1]
+
+[^annexu1-lvlu1-lvl1-1]: Applicabile dal giorno in cui il Regno Unito aderisce alla Conv. come Parte contraente separata ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### 2. Codice lingua
 
@@ -4692,7 +4706,7 @@ Allegato A3 dell’appendice III
 
 ## Modello di documento d’accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image1.png)
 
 Allegato A4 dell’appendice III
 
@@ -4709,7 +4723,7 @@ L’informazione è presentata sotto forma alfanumerica a 18 caratteri secondo i
 <table>
 <tr><td>Campo</td><td>Contenuto</td><td>Tipo di campo</td><td>Esempio</td></tr>
 <tr><td>1</td><td>Ultime due cifre dell’anno di accettazione formale del movimento di transito (AA)</td><td>Numerico 2</td><td>97</td></tr>
-<tr><td>2</td><td>Identificatore del Paese di partenza del movimento (codice Paese ISO alfa 2)</td><td>Alfabetico 2</td><td>IT</td></tr>
+<tr><td>2</td><td>Identificatore del Paese di partenza del movimento (codice paese di cui all’allegato A2)</td><td>Alfabetico 2</td><td>IT</td></tr>
 <tr><td>3</td><td>Identificatore unico del movimento di transito per anno e per Paese</td><td>Alfanumerico 13</td><td>9876AB8890123</td></tr>
 <tr><td>4</td><td>Carattere di controllo</td><td>Alfanumerico 1</td><td>5</td></tr>
 </table>
@@ -4888,7 +4902,7 @@ FI Finlandia
 
 FR Francia
 
-GB Regno Unito
+GB Regno Unito (esclusa l’Irlanda del Nord)[^annexu1-lvlu1-lvlA-1]
 
 GR Grecia
 
@@ -4932,9 +4946,14 @@ SK Slovacchia
 
 TR Turchia
 
+XI Irlanda del Nord[^annexu1-lvlu1-lvlA-2]
+
 Casella 53: Ufficio di destinazione (e Paese)
 
 Si utilizzano i codici previsti per la casella 51.
+
+[^annexu1-lvlu1-lvlA-1]: Applicabile dal giorno in cui il Regno Unito aderisce alla Conv. come Parte contraente separata ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^annexu1-lvlu1-lvlA-2]: Applicabile dal giorno in cui il Regno Unito aderisce alla Conv. come Parte contraente separata ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
 
 ### B – Codici delle versioni linguistiche delle diciture
 
@@ -5794,7 +5813,7 @@ Allegato B9 dell’appendice III
 
 ## Modello di timbro speciale utilizzato da uno speditore autorizzato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image2.png)
 
 - 1\. Stemma o altri simboli o lettere che caratterizzano il Paese
 - 2\. Numero di riferimento dell’ufficio doganale di partenza
@@ -5808,7 +5827,7 @@ Allegato B10 dell’appendice III
 ## TC 11 – RICEVUTA
 
 <table>
-<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
+<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
 </table>
 
 Allegato B11 dell’appendice III
@@ -5817,7 +5836,7 @@ Allegato B11 dell’appendice III
 
 (transito per ferrovia)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image4.png)
 
 Allegato C1 dell’appendice III
 
@@ -5833,7 +5852,7 @@ si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
 a concorrenza di un importo massimo di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia) nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia) nonché nei confronti della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
 
 è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti (6), con riguardo alle merci descritte di seguito oggetto della seguente operazione doganale (7):
 
@@ -5871,6 +5890,7 @@ Impegno del fideiussore accettato il a copertura dell’operazione doganale che 
 
 - (1) Cognome e nome o ragione sociale.
 - (2) Indirizzo completo.
+- (2*a*) Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un garante stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
 - (3) Cancellare il nome dello Stato (i nomi degli Stati) sul cui territorio la garanzia non può essere utilizzata.
 - (4) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
 - (5) Cognome e nome, o ragione sociale, e indirizzo completo della persona che presta la garanzia.
@@ -5908,7 +5928,7 @@ residente a (2)
 
 si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord, del Principato di Andorra e della Repubblica di San Marino (3) per tutte le somme di cui un titolare del regime è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti in relazione all’importazione o all’esportazione delle merci vincolate al regime di transito comune/unionale, per i quali il(la) sottoscritto(a) ha accettato di impegnare la propria responsabilità mediante il rilascio di certificati di garanzia isolata a concorrenza di un importo massimo di 10 000 EUR per certificato.
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dall’Irlanda, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord, del Principato di Andorra e della Repubblica di San Marino (3) per tutte le somme di cui un titolare del regime è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti in relazione all’importazione o all’esportazione delle merci vincolate al regime di transito comune/unionale, per i quali il(la) sottoscritto(a) ha accettato di impegnare la propria responsabilità mediante il rilascio di certificati di garanzia isolata a concorrenza di un importo massimo di 10 000 EUR per certificato.
 
 \2. Il(la) sottoscritto(a) si impegna ad effettuare, alla prima richiesta scritta delle autorità competenti dei paesi di cui al punto 1, il pagamento delle somme richieste, fino a concorrenza di 10 000 EUR per certificato di garanzia isolata e senza poterlo differire oltre il termine di trenta giorni dalla data della richiesta, a meno che il(la) sottoscritto(a) o ogni altra persona interessata non provi, prima della scadenza di tale termine, con soddisfazione delle autorità competenti, che l’operazione è stata appurata.
 
@@ -5942,6 +5962,7 @@ Impegno del fideiussore accettato il
 
 - (1) Cognome e nome o ragione sociale.
 - (2) Indirizzo completo.
+- (2*a*) Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un garante stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
 - (3) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
 - (4) Ove la possibilità di eleggere domicilio non sia prevista dalla legislazione di uno di tali paesi, il fideiussore designa, in questo paese, un mandatario autorizzato a ricevere ogni comunicazione a lui(lei) destinata e gli impegni previsti al punto 4, secondo e quarto paragrafo, devono essere stipulati mutatis mutandis. I giudici del luogo di domicilio del fideiussore e dei mandatari sono competenti a conoscere delle vertenze inerenti alla presente garanzia.
 - (5) Il firmatario deve far precedere la propria firma dalla seguente menzione manoscritta: «Buono a titolo di garanzia».
@@ -5952,11 +5973,11 @@ Allegato C3 dell’appendice III
 
 *(recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image5.png)
 
 *(verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image6.png)
 
 Requisiti tecnici applicabili ai certificati
 
@@ -5980,7 +6001,7 @@ si costituisce fideiussore in solido, presso l’ufficio di garanzia di
 
 a concorrenza di un importo massimo di
 
-nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dall’Irlanda, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, dell’ex Repubblica iugoslava di Macedonia, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
+nei confronti dell’Unione europea (costituita dal Regno del Belgio, dalla Repubblica di Bulgaria, dalla Repubblica ceca, dal Regno di Danimarca, dalla Repubblica federale di Germania, dalla Repubblica di Estonia, dall’Irlanda, dalla Repubblica ellenica, dalla Repubblica di Croazia, dal Regno di Spagna, dalla Repubblica francese, dalla Repubblica italiana, dalla Repubblica di Cipro, dalla Repubblica di Lettonia, dalla Repubblica di Lituania, dal Granducato di Lussemburgo, dall’Ungheria, dalla Repubblica di Malta, dal Regno dei Paesi Bassi, dalla Repubblica d’Austria, dalla Repubblica di Polonia, dalla Repubblica portoghese, dalla Romania, dalla Repubblica di Slovenia, dalla Repubblica slovacca, dalla Repubblica di Finlandia, dal Regno di Svezia), nonché nei confronti della Repubblica d’Islanda, della Repubblica di Macedonia del Nord, del Regno di Norvegia, della Repubblica di Serbia, della Confederazione Svizzera, della Repubblica di Turchia, del Regno Unito di Gran Bretagna e Irlanda del Nord (3), del Principato di Andorra e della Repubblica di San Marino (4), per tutte le somme di cui il soggetto che costituisce la presente garanzia (5)
 
 è o diventi debitore nei confronti di detti paesi a titolo di dazi e altri diritti e tributi dovuti (6) che potrebbero sorgere o sono sorti con riguardo alle merci oggetto delle operazioni doganali descritte al punto 1bis e/o al punto 1ter.
 
@@ -6044,6 +6065,7 @@ Impegno del fideiussore accettato il
 
 - (1) Cognome e nome o ragione sociale.
 - (2) Indirizzo completo.
+- (2*a*) Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia. Pertanto, un garante stabilito nel territorio doganale dell’Unione europea elegge un domicilio o designa un mandatario in Irlanda del Nord se la garanzia può essere ivi utilizzata. Tuttavia, qualora una garanzia nell’ambito del transito comune sia valida nell’Unione europea e nel Regno Unito, un singolo domicilio o un mandatario nominato nel Regno Unito può coprire tutte le parti del Regno Unito, inclusa l’Irlanda del Nord.
 - (3) Cancellare il nome del paese (i nomi dei paesi) sul cui territorio la garanzia non può essere utilizzata.
 - (4) I riferimenti al Principato di Andorra e alla Repubblica di San Marino riguardano soltanto le operazioni di transito unionale.
 - (5) Cognome e nome, o ragione sociale, e indirizzo completo della persona che fornisce la garanzia.
@@ -6066,12 +6088,13 @@ Allegato C5 dell’appendice III
 <tr><td>4. Garante (cognome e nome o ragione sociale, indirizzo completo e Paese)</td><td colspan="5"></td></tr>
 <tr><td>5. Ufficio doganale di garanzia (numero di riferimento)</td><td colspan="5"></td></tr>
 <tr><td>6. Importo di riferimento Codice valuta</td><td colspan="3">In cifre:</td><td colspan="2">In lettere:</td></tr>
-<tr><td colspan="6">7. L’ufficio doganale di garanzia certifica che il titolare del regime sopra designato ha costituito una garanzia globale valida per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA – MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">7. L’ufficio doganale di garanzia certifica che il titolare del regime sopra designato ha costituito una garanzia globale valida per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA – MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO<sup>(</sup>\*\*<sup>)</sup> – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">8. Menzioni particolari</td></tr>
 <tr><td colspan="2">9. Termine di validità prorogato fino al gg/mm/aa compreso Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td><td colspan="4">Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td></tr>
 </table>
 
-- <sup>(</sup>\*<sup>)</sup> Solo per le operazioni di transito unionale
+- <sup>(</sup>\*<sup>)</sup> Solo per le operazioni di transito unionale.
+- <sup>(</sup>\*\*<sup>)</sup> Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia.
 
 *Verso*
 
@@ -6094,12 +6117,13 @@ Allegato C6 dell’appendice III
 <tr><td>3. Titolare del regime (cognome e nome o ragione sociale, indirizzo completo e Paese)</td><td colspan="5"></td></tr>
 <tr><td>4. Ufficio doganale di garanzia (numero di riferimento)</td><td colspan="5"></td></tr>
 <tr><td>5. Importo di riferimento Codice valuta</td><td colspan="3">In cifre:</td><td colspan="2">In lettere:</td></tr>
-<tr><td colspan="6">6. L’ufficio doganale di garanzia certifica che al titolare del regime sopra designato è stato concesso un esonero dalla garanzia valido per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA –MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
+<tr><td colspan="6">6. L’ufficio doganale di garanzia certifica che al titolare del regime sopra designato è stato concesso un esonero dalla garanzia valido per le operazioni di transito unionale/comune che comportano l’attraversamento dei territori doganali in appresso elencati il cui nome non è barrato: UNIONE EUROPEA, ISLANDA –MACEDONIA DEL NORD – NORVEGIA – SERBIA – SVIZZERA – TURCHIA – REGNO UNITO (\*\*) – ANDORRA<sup>(</sup>\*<sup>)</sup> – SAN MARINO<sup>(</sup>\*<sup>)</sup></td></tr>
 <tr><td colspan="6">7. Menzioni particolari</td></tr>
 <tr><td colspan="2">8. Termine di validità prorogato fino al gg/mm/aa compreso Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td><td colspan="4">Fatto a , il (luogo) (data) (firma del funzionario e timbro dell’ufficio doganale di garanzia)</td></tr>
 </table>
 
-- <sup>(</sup>\*<sup>)</sup> Solo per le operazioni di transito unionale
+- <sup>(</sup>\*<sup>)</sup> Solo per le operazioni di transito unionale.
+- <sup>(</sup>\*\*<sup>)</sup> Ai sensi del Protocollo su Irlanda/Irlanda del Nord dell’accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica, l’Irlanda del Nord deve essere considerata parte dell’Unione europea ai fini della presente garanzia.
 
 *Verso*9. Persone abilitate a firmare le dichiarazioni di transito unionale/comune per il titolare del regime
 
@@ -6692,7 +6716,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di documento di accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image7.png)
 
 Allegato A4 bis dell’appendice III bis
 
@@ -6775,7 +6799,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di elenco degli articoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image8.png)
 
 Allegato A6 bis dell’appendice III bis
 
@@ -8334,7 +8358,7 @@ richiedente designata qui sopra, domanda con la presente
 <tr><td colspan="21"><sup>3</sup> In caso di titolo esecutivo globale, indicare l’importo dei crediti di natura differente.</td></tr>
 </table>
 
-Campo d’applicazione il 25 febbraio 2021**[^t-11]**
+Campo d’applicazione il 25 febbraio 2021[^t-11]
 
 <table>
 <tr><th>Statipartecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -8350,4 +8374,4 @@ Campo d’applicazione il 25 febbraio 2021**[^t-11]**
 <tr><td colspan="5"><sup>b</sup> Membri dell’Unione europea: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Polonia, Portogallo, Repubblica ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Ungheria.</td></tr>
 </table>
 
-[^t-11]: [RU 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
+[^t-11]: [RU 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://fedlex.admin.ch/it/Treaty](https://fedlex.admin.ch/it/Treaty).
