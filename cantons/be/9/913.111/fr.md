@@ -4,13 +4,13 @@ number: "913.111"
 title: Ordonnance sur la procédure des améliorations foncières et forestières
 short: OPAF
 language: fr
-version: 2021-04-01
-valid_until: 2021-05-31
-version_adopted: 2021-02-17
+version: 2021-06-01
+valid_until: 2022-12-31
+version_adopted: 2021-04-28
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/913.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2195/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2278/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2195/pdf_file"
 
 (OPAF)
 
-du 05.11.1997 (état au 01.04.2021)
+du 05.11.1997 (état au 01.06.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -117,13 +117,7 @@ arrête:
 
 <sup>1</sup> Les divergences existant entre le registre foncier, les documents cadastraux et la situation de fait seront éliminées dans la mesure du possible.
 
-#### Art. 10
-
-**Tâches notariales**
-
-<sup>1</sup> Les tâches attribuées au ou à la notaire dans le cadre de l'entreprise d'amélioration foncière et forestière lui sont équitablement rémunérées par l'organisme responsable, compte tenu de l'ampleur du travail et de l'importance des démarches, selon un tarif d'honoraires spécial élaboré par l'Association des notaires bernois d'entente avec le SASP.
-
-#### Art. 11
+#### Art. 10–11
 
 **…**
 

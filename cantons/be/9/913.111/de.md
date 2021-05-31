@@ -4,13 +4,13 @@ number: "913.111"
 title: Verordnung über das Verfahren bei Boden- und Waldverbesserungen
 short: VBWV
 language: de
-version: 2021-04-01
-valid_until: 2021-05-31
-version_adopted: 2021-02-17
+version: 2021-06-01
+valid_until: 2022-12-31
+version_adopted: 2021-04-28
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/913.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2195/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2278/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2195/pdf_file"
 
 (VBWV)
 
-vom 05.11.1997 (Stand 01.04.2021)
+vom 05.11.1997 (Stand 01.06.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -118,13 +118,7 @@ beschliesst:
 
 <sup>1</sup> Differenzen zwischen Grundbuch, Vermessungswerk und den tatsächlichen Verhältnissen sind nach Möglichkeit zu berichtigen.
 
-#### Art. 10
-
-**Notariatsarbeiten**
-
-<sup>1</sup> Die der Notarin oder dem Notar zugewiesenen Arbeiten im Rahmen des Boden- und Waldverbesserungsunternehmens sind ihr oder ihm von der Trägerin unter Berücksichtigung des Arbeitsaufwandes und der Bedeutung der einzelnen Verrichtungen gemäss einer im Einvernehmen mit der ASP ausgearbeiteten speziellen Honorarordnung des Verbandes bernischer Notarinnen und Notare angemessen zu vergüten.
-
-#### Art. 11
+#### Art. 10–11
 
 **…**
 
