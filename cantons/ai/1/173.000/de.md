@@ -4,21 +4,22 @@ number: "173.000"
 title: Gerichtsorganisationsgesetz
 short: GOG
 language: de
-version: 2014-08-01
-corrected: 2018-11-05
-version_adopted: 2014-04-27
+version: 2021-06-01
+valid_until: 2022-04-30
+version_adopted: 2021-05-09
 adopted: 2010-04-25
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/173.000"
-pdf: "https://ai.clex.ch/api/de/versions/174/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1921/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gerichtsorganisationsgesetz (GOG)
+# Gerichtsorganisationsgesetz
 
-vom 25. April 20101
+(GOG)
+
+vom 25.04.2010 (Stand 01.06.2021)
 
 Die Landsgemeinde des Kantons Appenzell I. Rh.,
 
@@ -26,7 +27,7 @@ gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
-### A. Einleitung
+## A. Einleitung
 
 #### Art. 1
 
@@ -48,21 +49,36 @@ beschliesst:
 
 **Gerichtskreise**
 
-Die Bezirke bilden zwei Gerichtskreise:
+<sup>1</sup> Die Bezirke bilden zwei Gerichtskreise:
 
 - 1\. Die Bezirke Appenzell, Schwende, Rüte, Schlatt-Haslen und Gonten bilden den Gerichtskreis Appenzell.
-
 - 2\. Der Bezirk Oberegg bildet den Gerichtskreis Oberegg.
 
-### B. Organisation
+## B. Organisation
 
-### I. Richter\*
+### B.I. Richter
 
-- 1\. Bezirke Art. 4 Vermittler <sup>1</sup>Im Bezirk amten der Vermittler und sein Stellvertreter.
+[^3-1]
 
-<sup>2</sup> Bei Ausstand oder Verhinderung des Vermittlers und dessen Stellvertreters wird die Streitsache an den Vermittler des gemäss Art. 15 Abs. 1 KV in der Reihe nächstfolgenden Bezirkes überwiesen.
+[^3-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
-- 2\. Gerichtskreis Art. 51 Paritätische <sup>1</sup>Für jeden Gerichtskreis besteht je eine Schlichtungsstelle für Miet- und nichtland-Schlichtungs- wirtschaftliche Pachtverhältnisse von Wohn- und Geschäftsräumen, bestehend aus stellen dem Präsidenten und je einem Vertreter der Mieter und der Vermieter sowie dem Sekretär.
+### B.I.1. Bezirke
+
+#### Art. 4
+
+**Vermittler**
+
+<sup>1</sup> Im Bezirk amtet der Vermittler.
+
+<sup>2</sup> Bei Ausstand oder Verhinderung des Vermittlers wird die Streitsache an den Vermittler des gemäss Art. 15 Abs. 1 KV in der Reihe nächstfolgenden Bezirks überwiesen.
+
+### B.I.2. Gerichtskreis
+
+#### Art. 5
+
+**Paritätische Schlichtungsstellen**
+
+<sup>1</sup> Für jeden Gerichtskreis besteht je eine Schlichtungsstelle für Miet- und nichtlandwirtschaftliche Pachtverhältnisse von Wohn- und Geschäftsräumen, bestehend aus dem Präsidenten und je einem Vertreter der Mieter und der Vermieter sowie dem Sekretär.
 
 <sup>2</sup> Für den Kanton besteht eine Schlichtungsstelle für Gleichstellungsfragen nach Art. 200 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008, bestehend aus dem Präsidenten und zwei Mitgliedern. Das Volkswirtschaftsdepartement besorgt das Sekretariat.
 
@@ -70,15 +86,11 @@ Die Bezirke bilden zwei Gerichtskreise:
 
 <sup>4</sup> Die Mitglieder der Schlichtungsstellen werden von der Standeskommission jährlich gewählt.
 
-#### Art. 62
+#### Art. 6
 
-Jugendgericht <sup>1</sup>Das Jugendgericht für beide Gerichtskreise besteht aus einem Präsidenten und zwei Mitgliedern, die vom Grossen Rat in die entsprechende Funktion gewählt werden.
+**…**
 
-<sup>2</sup> Zur Beschlussfassung bedarf es einer Dreierbesetzung.
-
-<sup>3</sup> Die Vermittler sind Ersatzrichter.
-
-#### Art. 71
+#### Art. 7
 
 **Bezirksgericht a. Konstituierung**
 
@@ -90,21 +102,21 @@ Jugendgericht <sup>1</sup>Das Jugendgericht für beide Gerichtskreise besteht au
 
 <sup>4</sup> Die Vermittler sind Ersatzrichter, sofern eine ordentliche Besetzung nicht mit den übrigen Bezirksrichtern möglich ist
 
-#### Art. 82
+#### Art. 8
 
 **b. Zusammensetzung und Rechtsprechung**
 
-<sup>1</sup> Das Bezirksgericht spricht Recht als Gesamtgericht. Vorbehalten bleiben die Zuständigkeit von Kommissionen von drei Richtern und der Einzelrichter.
+<sup>1</sup> Das Bezirksgericht spricht Recht als Gesamtgericht. Vorbehalten bleibt die Rechtsprechung durch Einzelrichter.
 
-<sup>2</sup> Es besteht eine ständige Kommission in Zivilsachen.
+<sup>2</sup> …
 
-<sup>3</sup> Um Recht zu sprechen, müssen beim Gesamtgericht mindestens fünf Richter anwesend sein, die Kommissionen müssen vollzählig sein.
+<sup>3</sup> Das Gesamtgericht spricht Recht in der Besetzung von fünf Mitgliedern.
 
-#### Art. 93
+#### Art. 9
 
-- 3\. Kanton
+### B.I.3. Kanton
 
-#### Art. 104
+#### Art. 10
 
 **Kantonsgericht a. Konstituierung**
 
@@ -118,47 +130,55 @@ Jugendgericht <sup>1</sup>Das Jugendgericht für beide Gerichtskreise besteht au
 
 <sup>5</sup> Die Bezirksrichter, bei deren Ausfall die Vermittler, sind Ersatzrichter, sofern eine ordentliche Besetzung nicht mit den übrigen Kantonsrichtern möglich ist
 
-Art. 11 b. Zusammen- <sup>1</sup>Das Kantonsgericht spricht grundsätzlich Recht durch Abteilungen von sieben setzung und Richtern. Vorbehalten bleibt die Zuständigkeit von Kommissionen von drei Richtern Rechtsprechung und der Einzelrichter.
+#### Art. 11
+
+**b. Zusammensetzung und Rechtsprechung**
+
+<sup>1</sup> Das Kantonsgericht spricht Recht durch Abteilungen. Vorbehalten bleibt die Rechtsprechung durch Kommissionen und Einzelrichter.
 
 <sup>2</sup> Es bestehen folgende Abteilungen:
 
 - 1\. Zivil- und Strafgericht;
-
 - 2\. Verwaltungsgericht.
 
 <sup>3</sup> Es bestehen folgende ständige Kommissionen:
 
 - 1\. Aufsichtsbehörde SchKG;
-
 - 2\. Kommission für Entscheide in Strafsachen;
-
 - 3\. Kommission für Beschwerden in gerichtlichen Personalfragen;
-
-- 4\. Kommission für allgemeine Beschwerden (gegen erstinstanzliche Erkenntnisse des Kantonsgerichtspräsidenten).
+- 4\. Kommission für allgemeine Beschwerden.
 
 <sup>4</sup> Zudem besteht ein Schiedsgericht im Sinne von Art. 89 KVG und Art. 57 UVG (Vorsitzender und je ein Vertreter der Versicherer und der betroffenen Leistungserbringer).
 
-<sup>5</sup> Um Recht zu sprechen, müssen bei den Abteilungen mindestens fünf Richter anwesend sein; die Kommissionen müssen vollzählig sein.
+<sup>5</sup> Die Abteilungen sprechen Recht in der Besetzung von fünf Mitgliedern und die Kommissionen in der Besetzung von drei Mitgliedern. Das Schiedsgericht muss vollzählig besetzt sein.
 
-### II. Ergänzende Vorschriften über Organisation und Verwaltung
+### B.II. Ergänzende Vorschriften über Organisation und Verwaltung
 
 #### Art. 12
 
-Befugnisse Die Gerichte organisieren und verwalten sich im Rahmen der Gesetzgebung selbst. Im Allgemeinen Art. 131 Wahl des Ge- <sup>1</sup>Der Kantonsgerichtspräsident und der Kantonsgerichtsvizepräsident wählen den richtspersonals Kantonsgerichtsschreiber.
+**Befugnisse Im Allgemeinen**
+
+<sup>1</sup> Die Gerichte organisieren und verwalten sich im Rahmen der Gesetzgebung selbst.
+
+#### Art. 13
+
+**Wahl des Gerichtspersonals**
+
+<sup>1</sup> Der Kantonsgerichtspräsident und der Kantonsgerichtsvizepräsident wählen den Kantonsgerichtsschreiber.
 
 <sup>2</sup> Der Bezirksgerichtspräsident und der Bezirksgerichtsvizepräsident wählen den Bezirksgerichtsschreiber.
 
 <sup>3</sup> Der Kantonsgerichtspräsident und der Bezirksgerichtspräsident wählen das übrige Kanzleipersonal.
 
-<sup>4</sup> Der Jugendgerichtspräsident und der Jugendgerichtsvizepräsident wählen den Jugendgerichtsschreiber.
+<sup>4</sup> …
 
 <sup>5</sup> Die Personalverordnung findet sinngemäss Anwendung. Die Standeskommission legt in Zusammenarbeit mit den Gerichtspräsidenten die Etatstellen und die Besoldung der Gerichtsschreiber und des Kanzleipersonals fest.
 
-#### Art. 141
+#### Art. 14
 
 **Bezirksgericht**
 
-Das Bezirksgericht wird zu Beginn jedes Amtsjahrs durch den Bezirksgerichtspräsidenten zur Konstituierung einberufen.
+<sup>1</sup> Das Bezirksgericht wird zu Beginn jedes Amtsjahrs durch den Bezirksgerichtspräsidenten zur Konstituierung einberufen.
 
 #### Art. 15
 
@@ -168,7 +188,7 @@ Das Bezirksgericht wird zu Beginn jedes Amtsjahrs durch den Bezirksgerichtspräs
 
 <sup>2</sup> Vorbehalten bleibt die Übertragung administrativer Befugnisse an einen Ausschuss.
 
-#### Art. 162
+#### Art. 16
 
 **Amtssitz und Tagungsort**
 
@@ -176,73 +196,100 @@ Das Bezirksgericht wird zu Beginn jedes Amtsjahrs durch den Bezirksgerichtspräs
 
 <sup>2</sup> Tagungsort des Kantonsgerichts ist grundsätzlich Appenzell.
 
-<sup>3</sup> Das Bezirks- und Jugendgericht tagt grundsätzlich in jenem Gerichtskreis, in dem bezogen auf den konkreten Fall eine Zuständigkeit besteht. Auf Antrag einer Partei oder bei Zuständigkeit in beiden Gerichtskreisen kann das Gericht im anderen Gerichtskreis tagen.
+<sup>3</sup> Das Bezirksgericht tagt grundsätzlich in jenem Gerichtskreis, in dem bezogen auf den konkreten Fall eine Zuständigkeit besteht. Auf Antrag einer Partei oder bei Zuständigkeit in beiden Gerichtskreisen kann das Gericht im anderen Gerichtskreis tagen.
 
-### III. Dienstrecht
+### B.III. Dienstrecht
 
 #### Art. 17
 
 **Amtsgeheimnis a. Grundsatz**
 
-Richter, Gerichtsschreiber und Personal sind zur Verschwiegenheit verpflichtet. Insbesondere dürfen sie nichts über die Beratung des Gerichtes und über die Stimmabgabe der Richter verlauten lassen.
+<sup>1</sup> Richter, Gerichtsschreiber und Personal sind zur Verschwiegenheit verpflichtet. Insbesondere dürfen sie nichts über die Beratung des Gerichtes und über die Stimmabgabe der Richter verlauten lassen.
 
 #### Art. 18
 
 **b. Ausnahmen**
 
-<sup>1</sup> Der Präsident entscheidet in dessen Zuständigkeits- und Aufsichtsbereich, ob Gerichtsakten herauszugeben oder über Gerichtsverfahren Auskünfte zu erteilen sind.
+<sup>1</sup> Über die Herausgabe von Gerichtsakten oder die Erteilung von Auskünften über Gerichtsverfahren entscheidet:
+
+- a) der Gerichtspräsident für sein Gericht;
+- b) der Bezirksgerichtspräsident bei Vermittlern und Schlichtungsstellen.
 
 <sup>2</sup> Vorbehalten bleibt eine allgemeine Regelung der Ausnahmen vom Amtsgeheimnis durch Reglement oder Weisung.
 
 #### Art. 19
 
-Erörterung hän- Richter, Gerichtsschreiber und Personal dürfen weder mit den Beteiligten noch mit giger Fälle Personen, die sich für diese verwenden, hängige Fälle erörtern, soweit das Gesetz es nicht vorsieht.
+**Erörterung hängiger Fälle**
 
-### IV. Aufsicht
+<sup>1</sup> Richter, Gerichtsschreiber und Personal dürfen weder mit den Beteiligten noch mit Personen, die sich für diese verwenden, hängige Fälle erörtern, soweit das Gesetz es nicht vorsieht.
 
-#### Art. 201
+### B.IV. Aufsicht
 
-Zuständigkeit <sup>1</sup>Die Aufsicht obliegt:
+#### Art. 20
 
-- a) dem Bezirksgerichtspräsidenten über die Vermittler und die Schlichtungsstellen;
+**Zuständigkeit**
 
-- b) dem Kantonsgerichtspräsidenten über die Rechtspflege im Allgemeinen, insbesondere über den Bezirksgerichtspräsidenten, das Bezirksgericht und das Jugendgericht.
+<sup>1</sup> Die Aufsicht obliegt:
 
-<sup>2</sup> Das Bezirksgericht und das Jugendgericht erstatten dem Kantonsgerichtspräsidenten jährlich Statistiken über ihre Amtstätigkeit. Ein Fall gilt in der Statistik als erledigt, wenn der Endentscheid versandt ist.
+- a) dem Kantonsgerichtspräsidenten über das Bezirksgericht;
+- b) dem Bezirksgerichtspräsidenten über die Vermittler und die Schlichtungsstellen.
+
+<sup>2</sup> Der Kantonsgerichtspräsident kann zudem zur Gewährleistung einer zielgerichteten und gleichförmigen Rechtspflege allgemeine Weisungen erlassen, die auch in den Aufsichtsbereich des Bezirksgerichtspräsidenten reichen können und dessen Weisungen vorgehen.
+
+<sup>3</sup> Der Kantonsgerichtspräsident kann zur Wahrnehmung der Aufsicht weitere Mitglieder des Kantonsgerichts beiziehen.
+
+<sup>4</sup> Der Kantons- und der Bezirksgerichtspräsident sind unter Vorbehalt anderweitiger gesetzlicher Regelungen in ihrem Aufsichtsbereich für Aufsichtsbeschwerden zuständig.
 
 #### Art. 21
 
-Weisungen Die Aufsichtsbehörde kann Weisungen über die Geschäftsführung erteilen.
+**Weisungen**
+
+<sup>1</sup> Die Aufsicht umfasst:
+
+- a) die organisatorischen, administrativen und personellen Belange;
+- b) die Abwicklung der Fälle (Geschäftsführung), ausgenommen die Rechtsanwendung im konkreten Einzelfall;
+- c) die Beurteilung von Aufsichtsbeschwerden, soweit die Rüge nicht mit einem anderen Rechtsmittel geltend gemacht werden kann oder konnte.
+
+<sup>2</sup> Die Aufsichtsbehörde hat zur Wahrnehmung ihrer Aufgabe ein Einsichts- und Auskunftsrecht, und sie kann Weisungen erteilen. In Verfahrensakten kann sie nur Einsicht nehmen, wenn dies für die Beurteilung einer Aufsichtsbeschwerde erforderlich ist oder das Verfahren rechtskräftig abgeschlossen ist.
+
+<sup>3</sup> Jährlich erstatten über ihre Amtstätigkeit mit Statistiken Bericht:
+
+- a) das Bezirksgericht und das Jugendgericht dem Kantonsgerichtspräsidenten;
+- b) die Vermittler und die Schlichtungsstellen dem Bezirksgerichtspräsidenten.
 
 #### Art. 22
 
-Oberaufsicht des <sup>1</sup>Die Gerichte unterstehen der Oberaufsicht des Grossen Rates.
+**Oberaufsicht des Grossen Rates**
 
-Grossen Rates <sup>2</sup>Der Kantonsgerichtspräsident erstattet dem Grossen Rat jährlich Bericht über die Amtsführung der Gerichte.
+<sup>1</sup> Der Grosse Rat hat die Oberaufsicht über die Gerichte.
+
+<sup>2</sup> Er nimmt jährlich den Bericht des Kantonsgerichtspräsidenten über die Amtsführung der Gerichte entgegen; er kann für die Berichterstattung Weisungen erteilen.
+
+<sup>3</sup> Der Grosse Rat kann eine Kommission bezeichnen, die bei Bedarf Gespräche mit dem Kantonsgerichtspräsidenten führt. Die Kommission erstattet dem Grossen Rat in angemessener Weise Bericht.
 
 #### Art. 23
 
-Lastenteilung <sup>1</sup>Der Kanton trägt die Kosten der Rechtspflege, soweit nichts anderes bestimmt ist.
+**Lastenteilung a. Kanton**
 
-- a. Kanton <sup>2</sup>Der Kanton erhält die von den Gerichten gesprochenen Gebühren und Ordnungsbussen.
+<sup>1</sup> Der Kanton trägt die Kosten der Rechtspflege, soweit nichts anderes bestimmt ist.
+
+<sup>2</sup> Der Kanton erhält die von den Gerichten gesprochenen Gebühren und Ordnungsbussen.
 
 #### Art. 24
 
-- b. Bezirk <sup>1</sup>Der Bezirk entschädigt den Vermittler und erhält die von ihm gesprochenen Gebühren.
+**b. Bezirk**
+
+<sup>1</sup> Der Bezirk entschädigt den Vermittler und erhält die von ihm gesprochenen Gebühren.
 
 <sup>2</sup> Der Bezirk stellt unentgeltlich angemessene Räume zur Verfügung für:
 
 - a) den Vermittler;
-
-- b) Verhandlungen und Einvernahmen von Bezirksgericht, Schlichtungsstelle und
-
-Jugendgericht, wenn diese im Bezirk zu tagen pflegen;
-
+- b) Verhandlungen und Einvernahmen von Bezirksgericht und Schlichtungsstelle, wenn diese im Bezirk zu tagen pflegen;
 - c) Beweiserhebungen anderer Gerichte.
 
-### C. Verfahren
+## C. Verfahren
 
-### I. Justizgrundsätze
+### C.I. Justizgrundsätze
 
 #### Art. 25
 
@@ -288,13 +335,13 @@ Jugendgericht, wenn diese im Bezirk zu tagen pflegen;
 
 #### Art. 30
 
-**Bevollmächtigte Regel**
+**Weitere Vertretungen und Verbeiständungen**
 
 <sup>1</sup> Soweit das Gesetz es nicht ausdrücklich ausschliesst, kann eine Partei die Prozessführung oder Verbeiständung vor den Gerichten Personen, die mit ihr verheiratet sind, in eingetragener Partnerschaft leben oder eine faktische Lebensgemeinschaft führen, ihren Verwandten und Verschwägerten in gerader Linie oder bis zum zweiten Grade in der Seitenlinie übertragen.
 
 <sup>2</sup> Die Handlungen und Unterlassungen des Bevollmächtigten sind für den Vollmachtgeber ebenso verbindlich, wie wenn sie von ihm selbst ausgegangen wären.
 
-#### Art. 311
+#### Art. 31
 
 **Vollmacht a. Form**
 
@@ -308,7 +355,7 @@ Jugendgericht, wenn diese im Bezirk zu tagen pflegen;
 
 **b. Umfang**
 
-Eine allgemeine Prozessvollmacht berechtigt zur Vornahme aller im Streite notwendigen oder nützlichen Rechtshandlungen, dagegen nicht zur Übertragung der Vollmacht auf einen andern, zum Abschluss eines Vergleiches, zum Abstand vom Prozesse, zur Stellung eines Konkursbegehrens und zur Entgegennahme des Streitobjektes. Hierfür bedarf es einer besonderen Ermächtigung.
+<sup>1</sup> Eine allgemeine Prozessvollmacht berechtigt zur Vornahme aller im Streite notwendigen oder nützlichen Rechtshandlungen, dagegen nicht zur Übertragung der Vollmacht auf einen andern, zum Abschluss eines Vergleiches, zum Abstand vom Prozesse, zur Stellung eines Konkursbegehrens und zur Entgegennahme des Streitobjektes. Hierfür bedarf es einer besonderen Ermächtigung.
 
 #### Art. 33
 
@@ -332,7 +379,7 @@ Eine allgemeine Prozessvollmacht berechtigt zur Vornahme aller im Streite notwen
 
 **Amtssprache**
 
-Richter, Beteiligte und mitwirkende Dritte bedienen sich der deutschen Sprache.
+<sup>1</sup> Richter, Beteiligte und mitwirkende Dritte bedienen sich der deutschen Sprache.
 
 #### Art. 36
 
@@ -353,7 +400,6 @@ Richter, Beteiligte und mitwirkende Dritte bedienen sich der deutschen Sprache.
 <sup>2</sup> Die Öffentlichkeit ist ausgeschlossen:
 
 - a) wenn ohne Verhandlung aufgrund schriftlicher Eingaben entschieden wird;
-
 - b) wenn ein überwiegendes öffentliches Interesse oder schutzwürdige Privatinteressen es erfordern.
 
 <sup>3</sup> Der Gerichtspräsident kann im Fall des Ausschlusses der Öffentlichkeit einzelne Personen zulassen, wenn ein begründetes Interesse geltend gemacht wird und aus ihrer Anwesenheit keine Nachteile erwachsen.
@@ -378,38 +424,43 @@ Richter, Beteiligte und mitwirkende Dritte bedienen sich der deutschen Sprache.
 
 <sup>3</sup> Die Namen der Beteiligten werden in der Regel nicht erwähnt.
 
-### II. Geschäftsordnung
+### C.II. Geschäftsordnung
 
 #### Art. 40
 
-Geschäftsleitung <sup>1</sup>Die Geschäfte des Gerichtes, der Abteilungen und Kommissionen leitet deren Präa. Im Allgemei- sident.
+**Geschäftsleitung a. Im Allgemeinen**
 
-nen <sup>2</sup>Ist der Präsident verhindert und kein Stellvertreter verfügbar, wird er durch den amtsältesten Richter, wenn notwendig durch einen Ersatzrichter, vertreten.
+<sup>1</sup> Die Geschäfte des Gerichtes, der Abteilungen und Kommissionen leitet deren Präsident.
+
+<sup>2</sup> Ist der Präsident verhindert und kein Stellvertreter verfügbar, wird er durch den amtsältesten Richter, wenn notwendig durch einen Ersatzrichter, vertreten.
 
 #### Art. 41
 
-- b. Übertragung <sup>1</sup>Der Präsident kann während des Verfahrens seine Befugnisse einem Gerichtsmitvon Befugnissen glied übertragen.
+**b. Übertragung von Befugnissen**
+
+<sup>1</sup> Der Präsident kann während des Verfahrens seine Befugnisse einem Gerichtsmitglied übertragen.
 
 <sup>2</sup> Er leitet Haupt- und Schlussverhandlung selbst.
 
 #### Art. 42
 
-Präsidialent- <sup>1</sup>Der Präsident kann entscheiden über:
+**Präsidialentscheid**
 
-scheid a) Nichteintreten auf offensichtlich verspätete oder sonstwie unzulässige und unbegründete Eingaben;
+<sup>1</sup> Der Präsident kann entscheiden über:
 
+- a) Nichteintreten auf offensichtlich verspätete oder sonstwie unzulässige und unbegründete Eingaben;
 - b) Abschreibung eines Verfahrens, wenn kein Urteil und kein Nichteintretensbescheid zu fällen ist.
 
 <sup>2</sup> Er begründet das Erkenntnis kurz und setzt den Beteiligten eine Frist von sieben Tagen an, innert welcher durch einfache Erklärung ein Entscheid des Gerichtes verlangt werden kann.
 
 #### Art. 43
 
-Gerichts- <sup>1</sup>Der Gerichtsschreiber:
+**Gerichtsschreiber**
 
-schreiber a) hat im Gericht beratende Stimme mit Antragsrecht, führt Protokolle und verfasst die Entscheide;
+<sup>1</sup> Der Gerichtsschreiber:
 
+- a) hat im Gericht beratende Stimme mit Antragsrecht, führt Protokolle und verfasst die Entscheide;
 - b) wirkt auf Verlangen des Präsidenten in Einzelrichterfällen mit;
-
 - c) erlässt im Auftrage des Präsidenten prozessleitende Verfügungen.
 
 <sup>2</sup> Er steht unter der unmittelbaren Aufsicht des Gerichtspräsidenten seiner Instanz.
@@ -418,23 +469,25 @@ schreiber a) hat im Gericht beratende Stimme mit Antragsrecht, führt Protokolle
 
 #### Art. 44
 
-Kleidung Richter, Gerichtsschreiber und Rechtsanwälte tragen in den Verhandlungen dunkle Kleidung.
+**Kleidung**
 
-### III. Gebühren und Kosten
+<sup>1</sup> Richter, Gerichtsschreiber und Rechtsanwälte tragen in den Verhandlungen dunkle Kleidung.
+
+### C.III. Gebühren und Kosten
 
 #### Art. 45
 
 **Gebühren**
 
-<sup>1</sup> Die richterlichen Behörden im Sinne dieses Gesetzes erheben für ihre Entscheide grundsätzlich Gebühren bis Fr. 20’000.—.
+<sup>1</sup> Die richterlichen Behörden im Sinne dieses Gesetzes erheben für ihre Entscheide grundsätzlich Gebühren bis Fr. 20'000.--.
 
-<sup>2</sup> Der Gebührenrahmen erhöht sich in besonders aufwendigen Fällen und bei Streitwerten von mehr als Fr. 1’000’000.— auf das Vierfache.
+<sup>2</sup> Der Gebührenrahmen erhöht sich in besonders aufwendigen Fällen und bei Streitwerten von mehr als Fr. 1'000'000.-- auf das Vierfache.
 
 <sup>3</sup> Der Gebührenrahmen ist indexgebunden (Landesindex der Konsumentenpreise, Stand 31. März 2010).
 
 <sup>4</sup> Die nähere Ausgestaltung des Gebührentarifs wird durch den Grossen Rat auf dem Verordnungsweg geregelt.
 
-### D. Schlussbestimmungen
+## D. Schlussbestimmungen
 
 #### Art. 46
 
@@ -442,29 +495,16 @@ Kleidung Richter, Gerichtsschreiber und Rechtsanwälte tragen in den Verhandlung
 
 <sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden alle ihm widersprechenden Erlasse aufgehoben, insbesondere das Gerichtsorganisationsgesetz vom 25. April 1999 (GOG).
 
-Art. 46a1
+#### Art. 46a
+
+**…**
 
 #### Art. 47
 
 **Inkrafttreten**
 
-Der Grosse Rat bestimmt das Inkrafttreten dieses Gesetzes.
+<sup>1</sup> Der Grosse Rat bestimmt das Inkrafttreten dieses Gesetzes[^47-1].
 
-Gemäss GrRB vom 6. Dezember 2010 am 1. Januar 2011 in Kraft getreten.
+[^47-1]: Gemäss GrRB vom 6. Dezember 2010 am 1. Januar 2011 in Kraft getreten.
 
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 29. April 2012 und 27. April 2014.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Neue Fassung durch LdsgB vom 29. April 2012.
-- [2] Neue Fassung durch LdsgB vom 29. April 2012.
-- [1] Neue Fassung durch LdsgB vom 29. April 2012.
-- [2] Neue Fassung durch LdsgB vom 29. April 2012.
-- [3] Aufgehoben durch LdsgB vom 29. April 2012.
-- [4] Abgeändert (Abs. 5) durch LdsgB vom 29. April 2012.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 29. April 2012.
-- [1] Abgeändert durch LdsgB vom 29. April 2012.
-- [2] Neue Fassung durch LdsgB vom 29. April 2012.
-- [1] Abgeändert durch LdsgB vom 29. April 2012.
-- [1] Abgeändert (Abs. 2) durch LdsgB vom 27. April 2014 (Inkrafttreten: 1. August 2014).
-- [1] Eingefügt durch LdsgB vom 29. April 2012. Aufgehoben durch StKB vom 11. März 2014.
+cGS -
