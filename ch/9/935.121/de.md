@@ -3,18 +3,18 @@ sr: "935.121"
 title: Verordnung vom 18. Februar 2015 über die Förderung der Beherbergungswirtschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/125"
 language: de
-version: 2020-06-01
+version: 2021-06-01
 adopted: 2015-02-18
 in_force: 2015-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/125/20200601/de/xml/fedlex-data-admin-ch-eli-cc-2015-125-20200601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/125/20200601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/125/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2015-125-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/125/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Förderung der Beherbergungswirtschaft
 
-vom 18. Februar 2015 (Stand am 1. Juni 2020)
+vom 18. Februar 2015 (Stand am 1. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -285,7 +285,7 @@ Das Personal der SGH wird nach dem Obligationenrecht[^21-1] angestellt.
 
 Die Verordnung vom 26. November 2003[^22-1] zum Bundesgesetz über die Förderung der Beherbergungswirtschaft wird aufgehoben.
 
-[^22-1]: [[AS 2003 4317](https://fedlex.data.admin.ch/eli/oc/2003/643), [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)Anhang 3 Ziff. 8]
+[^22-1]: [[AS 2003 4317](https://fedlex.data.admin.ch/eli/oc/2003/643); [2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)Anhang 3 Ziff. 8]
 
 #### Art. 23
 
@@ -307,34 +307,61 @@ Anhang*[^t-1]*
 
 ## Fremdenverkehrsgebiete und Badekurorte
 
-[^t-1]: Fassung gemäss Ziff. I der V des WBF vom 7. April 2020, in Kraft seit 1. Juni 2020 ([AS 2020 1553](https://fedlex.data.admin.ch/eli/oc/2020/309)).
+[^t-1]: Fassung gemäss Ziff. I der V des WBF vom 23. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 252](https://fedlex.data.admin.ch/eli/oc/2021/252)).
 
 Als Fremdenverkehrsgebiete und Badekurorte gelten:
 
 - 1\. die Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden, Glarus, Graubünden, Jura, Luzern, Neuenburg, Nidwalden, Obwalden, St. Gallen, Thurgau, Tessin, Uri, Wallis;
-- 2\. im Kanton Aargau die Gemeinden
+- 2\.
+
+  im Kanton Aargau die Gemeinden:
+
   - – Aarau, Aarburg, Abtwil, Ammerswil, Aristau, Auenstein, Auw, Baden, Bad Zurzach, Baldingen, Beinwil am See, Beinwil (Freiamt), Bettwil, Biberstein, Birmenstorf (AG), Birr, Birrhard, Birrwil, Böbikon, Böttstein, Bözberg, Bözen, Boniswil, Boswil, Bottenwil, Brittnau, Brugg, Brunegg, Buchs (AG), Bünzen, Burg (AG), Buttwil, Densbüren, Dietwil, Dintikon, Döttingen, Dürrenäsch, Effingen, Egliswil, Ehrendingen, Eiken, Elfingen, Endingen, Ennetbaden, Erlinsbach (AG), Fahrwangen, Fislisbach, Freienwil, Frick, Full-Reuenthal, Gansingen, Gebenstorf, Geltwil, Gipf-Oberfrick, Gontenschwil, Gränichen, Habsburg, Hallwil, Hausen (AG), Hendschiken, Herznach, Hirschthal, Holderbank (AG), Holziken, Hornussen, Hunzenschwil, Kaisten, Kallern, Klingnau, Koblenz, Kölliken, Küttigen, Laufenburg, Leibstadt, Leimbach (AG), Lengnau (AG), Lenzburg, Leuggern, Leutwil, Lupfig, Mägenwil, Mandach, Meisterschwanden, Mellikon, Menziken, Merenschwand, Mettauertal, Mönthal, Möriken-Wildegg, Mühlau, Mülligen, Münchwilen (AG), Muhen, Murgenthal, Muri (AG), Neuenhof, Niederlenz, Niederrohrdorf, Oberentfelden, Oberhof, Oberkulm, Oberrohrdorf, Oberrüti, Obersiggenthal, Oeschgen, Oftringen, Othmarsingen, Reinach (AG), Rekingen (AG), Remigen, Rheinfelden, Rietheim, Riniken, Rothrist, Rüfenach, Rümikon, Rupperswil, Safenwil, Schafisheim, Schinznach, Schupfart, Schwaderloch, Seengen, Seon, Sins, Sisseln, Staufen, Stein (AG), Strengelbach, Suhr, Tegerfelden, Teufenthal (AG), Thalheim (AG), Turgi, Ueken, Uerkheim, Unterentfelden, Unterkulm, Untersiggenthal, Veltheim (AG), Villigen, Villnachern, Vordemwald, Waltenschwil, Wettingen, Windisch, Wislikofen, Wittnau, Wölflinswil, Würenlingen, Zeihen, Zetzwil, Zofingen;
 
-- 3\. im Kanton Basel-Landschaft die Gemeinden
+- 3\.
+
+  im Kanton Basel-Landschaft die Gemeinden:
+
   - – Anwil, Eptingen, Häfelfingen, Kilchberg (BL), Läufelfingen, Langenbruck, Liedertswil, Liesberg, Oltingen, Roggenburg, Rothenfluh, Waldenburg, Zeglingen;
 
-- 4\. im Kanton Bern die Gemeinden
-  - – Aarberg, Aarwangen, Adelboden, Aefligen, Aegerten, Aeschi bei Spiez, Affoltern im Emmental, Alchenstorf, Amsoldingen, Arch, Arni (BE), Attiswil, Auswil, Bannwil, Bargen (BE), Bätterkinden, Beatenberg, Bellmund, Belprahon, Berken, Bettenhausen, Biel/Bienne, Bleienbach, Blumenstein, Boltigen, Bönigen, Bowil, Brenzikofen, Brienz (BE), Brienzwiler, Brügg, Brüttelen, Buchholterberg, Büetigen, Bühl, Büren an der Aare, Burgdorf, Burgistein, Busswil bei Melchnau, Champoz, Clavaleyres, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Därligen, Därstetten, Diemtigen, Diessbach bei Büren, Dotzigen, Dürrenroth, Eggiwil, Epsach, Eriswil, Eriz, Erlach, Erlenbach im Simmental, Ersigen, Eschert, Evilard, Fahrni, Farnern, Finsterhennen, Forst-Längenbühl, Freimettigen, Frutigen, Gals, Gampelen, Gondiswil, Graben, Grandval, Grindelwald, Grossaffoltern, Gsteig, Gsteigwiler, Guggisberg, Gündlischwand, Gurbrü, Gurzelen, Guttannen, Habkern, Hagneck, Hasle bei Burgdorf, Hasliberg, Heiligenschwendi, Heimberg, Heimenhausen, Heimiswil, Hellsau, Hermrigen, Herzogenbuchsee, Hilterfingen, Höchstetten, Hofstetten bei Brienz, Homberg, Horrenbach-Buchen, Huttwil, Inkwil, Innertkirchen, Ins, Interlaken, Ipsach, Iseltwald, Jens, Kallnach, Kandergrund, Kandersteg, Kappelen, Kernenried, Kirchberg (BE), Koppigen, Krattigen, La Ferrière, La Neuveville, Landiswil, Langenthal, Langnau im Emmental, Lauenen, Lauperswil, Lauterbrunnen, Leissigen, Lengnau (BE), Lenk, Leuzigen, Ligerz, Linden, Lotzwil, Loveresse, Lüscherz, Lütschental, Lützelflüh, Lyss, Lyssach, Madiswil, Matten bei Interlaken, Meienried, Meinisberg, Meiringen, Melchnau, Merzligen, Mirchel, Mont-Tramelan, Mörigen, Mötschwil, Moutier, Münchenwiler, Müntschemier, Nidau, Niederbipp, Niederönz, Niederried bei Interlaken, Nods, Oberbipp, Oberburg, Oberdiessbach, Oberhofen am Thunersee, Oberhünigen, Oberlangenegg, Oberried am Brienzersee, Obersteckholz, Oberthal, Oberwil bei Büren, Oberwil im Simmental, Ochlenberg, Oeschenbach, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Pieterlen, Plateau de Diesse, Pohlern, Port, Rebévelier, Reconvilier, Reichenbach im Kandertal, Reisiswil, Renan (BE), Reutigen, Riggisberg, Ringgenberg (BE), Roches (BE), Roggwil (BE), Rohrbach, Rohrbachgraben, Romont (BE), Röthenbach im Emmental, Rüderswil, Rüdtligen-Alchenflüh, Rüeggisberg, Rüegsau, Rumendingen, Rumisberg, Rüschegg, Rüti bei Büren, Rüti bei Lyssach, Rütschelen, Saanen, Safnern, Saicourt, Saint-Imier, Sauge, Saules (BE), Saxeten, Schangnau, Schattenhalb, Schelten, Scheuren, Schwadernau, Schwanden bei Brienz, Schwarzhäusern, Seeberg, Seedorf (BE), Seehof, Seftigen, Signau, Sigriswil, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Studen (BE), Sumiswald, Sutz-Lattrigen, Täuffelen, Tavannes, Teuffenthal (BE), Thierachern, Thörigen, Thun, Thunstetten, Trachselwald, Tramelan, Treiten, Trub, Trubschachen, Tschugg, Twann-Tüscherz, Uebeschi, Uetendorf, Unterlangenegg, Unterseen, Ursenbach, Utzenstorf, Valbirse, Villeret, Vinelz, Wachseldorn, Walkringen, Walliswil bei Niederbipp, Walliswil bei Wangen, Walperswil, Walterswil (BE), Wangen an der Aare, Wangenried, Wattenwil, Wengi, Wiedlisbach, Wilderswil, Wiler bei Utzenstorf, Wileroltigen, Willadingen, Wimmis, Worben, Wynau, Wynigen, Wyssachen, Zielebach, Zweisimmen, Zwieselberg;
+- 4\.
 
-- 5\. im Kanton Freiburg die Gemeinden
-  - – Alterswil, Arconciel, Attalens, Autigny, Avry, Bas-Intyamon, Belfaux, Belmont-Broye, Billens-Hennens, Bossonnens, Botterens, Broc, Brünisried, Bulle Châtel-Saint-Denis, Châtel-sur-Montsalvens, Châtillon (FR), Châtonnaye, Cheiry, Chénens, Cheyers-Châbles, Corbières, Corminboeuf, Cottens (FR), Courgevaux, Courtepin, Cressier (FR), Crésuz, Cugy (FR), Delley-Portalban, Düdingen, Echarlens, Ependes (FR), Estavayer, Ferpicloz, Fétigny, Fräschels, Fribourg, Galmiz, Gibloux, Giffers, Givisiez, Gletterens, Grandvillard, Granges (Veveyse), Granges-Paccot, Grangettes, Greng, Grolley, Gruyères, Gurmels, Hauterive (FR), Hauteville, Haut-Intyamon, Heitenried, Jaun, Kerzers, Kleinbösingen, La Brillaz, La Roche, La Sonnaz, La Verrerie, Le Châtelard, Le Flon, Le Mouret, Le Pâquier (FR), Léchelles, Les Montets, Lully (FR), Marly, Marsens, Massonnens, Matran, Ménières, Meyriez, Mézières (FR), Misery-Courtion, Montagny (FR), Mont-Vully, Morlon, Muntelier, Murten, Neyruz (FR), Nuvilly, Pierrafortscha, Plaffeien, Plasselb, Pont-en-Ogoz, Ponthaux, Pont-la-Ville, Prévondavaux, Prez, Rechthalten, Remaufens, Riaz, Ried bei Kerzers, Romont (FR), Rue, Saint-Aubin (FR), Saint-Martin (FR), Sâles, Schmitten (FR), Semsales, Senèdes, Sévaz, Siviriez, Sorens, St. Antoni, St. Silvester, St. Ursen, Surpierre, Tafers, Tentlingen, Torny, Treyvaux, Ursy, Val-de-Charmey, Vallon, Vaulruz, Villarsel-sur-Marly, Villars-sur-Glâne, Villaz, Villorsonnens, Vuadens, Vuisternens-devant-Romont;
+  im Kanton Bern die Gemeinden:
 
-- 6\. im Kanton Schaffhausen die Gemeinden
+  - – Aarberg, Aarwangen, Adelboden, Aefligen, Aegerten, Aeschi bei Spiez, Affoltern im Emmental, Alchenstorf, Amsoldingen, Arch, Arni (BE), Attiswil, Auswil, Bannwil, Bargen (BE), Bätterkinden, Beatenberg, Bellmund, Belprahon, Berken, Bettenhausen, Biel/Bienne, Bleienbach, Blumenstein, Boltigen, Bönigen, Bowil, Brenzikofen, Brienz (BE), Brienzwiler, Brügg, Brüttelen, Buchholterberg, Büetigen, Bühl, Büren an der Aare, Burgdorf, Burgistein, Busswil bei Melchnau, Champoz, Clavaleyres, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Därligen, Därstetten, Diemtigen, Diessbach bei Büren, Dotzigen, Dürrenroth, Eggiwil, Epsach, Eriswil, Eriz, Erlach, Erlenbach im Simmental, Ersigen, Eschert, Evilard, Fahrni, Farnern, Finsterhennen, Forst-Längenbühl, Freimettigen, Frutigen, Gals, Gampelen, Gondiswil, Graben, Grandval, Grindelwald, Grossaffoltern, Gsteig, Gsteigwiler, Guggisberg, Gündlischwand, Gurbrü, Gurzelen, Guttannen, Habkern, Hagneck, Hasle bei Burgdorf, Hasliberg, Heiligenschwendi, Heimberg, Heimenhausen, Heimiswil, Hellsau, Hermrigen, Herzogenbuchsee, Hilterfingen, Höchstetten, Hofstetten bei Brienz, Homberg, Horrenbach-Buchen, Huttwil, Inkwil, Innertkirchen, Ins, Interlaken, Ipsach, Iseltwald, Jens, Kallnach, Kandergrund, Kandersteg, Kappelen, Kernenried, Kirchberg (BE), Koppigen, Krattigen, La Ferrière, La Neuveville, Landiswil, Langenthal, Langnau im Emmental, Lauenen, Lauperswil, Lauterbrunnen, Leissigen, Lengnau (BE), Lenk, Leuzigen, Ligerz, Linden, Lotzwil, Loveresse, Lüscherz, Lütschental, Lützelflüh, Lyss, Lyssach, Madiswil, Matten bei Interlaken, Meienried, Meinisberg, Meiringen, Melchnau, Merzligen, Mirchel, Mont-Tramelan, Mörigen, Moutier, Münchenwiler, Müntschemier, Nidau, Niederbipp, Niederönz, Niederried bei Interlaken, Nods, Oberbipp, Oberburg, Oberdiessbach, Oberhofen am Thunersee, Oberhünigen, Oberlangenegg, Oberried am Brienzersee, Oberthal, Oberwil bei Büren, Oberwil im Simmental, Ochlenberg, Oeschenbach, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Pieterlen, Plateau de Diesse, Pohlern, Port, Rebévelier, Reconvilier, Reichenbach im Kandertal, Reisiswil, Renan (BE), Reutigen, Riggisberg, Ringgenberg (BE), Roches (BE), Roggwil (BE), Rohrbach, Rohrbachgraben, Romont (BE), Röthenbach im Emmental, Rüderswil, Rüdtligen-Alchenflüh, Rüeggisberg, Rüegsau, Rumendingen, Rumisberg, Rüschegg, Rüti bei Büren, Rüti bei Lyssach, Rütschelen, Saanen, Safnern, Saicourt, Saint-Imier, Sauge, Saules (BE), Saxeten, Schangnau, Schattenhalb, Schelten, Scheuren, Schwadernau, Schwanden bei Brienz, Schwarzhäusern, Seeberg, Seedorf (BE), Seehof, Seftigen, Signau, Sigriswil, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, Spiez, St. Stephan, Steffisburg, Stocken-Höfen, Studen (BE), Sumiswald, Sutz-Lattrigen, Täuffelen, Tavannes, Teuffenthal (BE), Thierachern, Thörigen, Thun, Thunstetten, Trachselwald, Tramelan, Treiten, Trub, Trubschachen, Tschugg, Twann-Tüscherz, Uebeschi, Uetendorf, Unterlangenegg, Unterseen, Ursenbach, Utzenstorf, Valbirse, Villeret, Vinelz, Wachseldorn, Walkringen, Walliswil bei Niederbipp, Walliswil bei Wangen, Walperswil, Walterswil (BE), Wangen an der Aare, Wangenried, Wattenwil, Wengi, Wiedlisbach, Wilderswil, Wiler bei Utzenstorf, Wileroltigen, Willadingen, Wimmis, Worben, Wynau, Wynigen, Wyssachen, Zielebach, Zweisimmen, Zwieselberg;
+
+- 5\.
+
+  im Kanton Freiburg die Gemeinden:
+
+  - – Attalens, Autigny, Avry, Bas-Intyamon, Belfaux, Belmont-Broye, Billens-Hennens, Bois-d’Amont, Bossonnens, Botterens, Broc, Brünisried, Bulle Châtel-Saint-Denis, Châtel-sur-Montsalvens, Châtillon (FR), Châtonnaye, Chénens, Cheyers-Châbles, Corbières, Corminboeuf, Cottens (FR), Courgevaux, Courtepin, Cressier (FR), Crésuz, Cugy (FR), Delley-Portalban, Düdingen, Echarlens, Estavayer, Ferpicloz, Fétigny, Fräschels, Fribourg, Galmiz, Gibloux, Giffers, Givisiez, Gletterens, Grandvillard, Granges (Veveyse), Granges-Paccot, Grangettes, Greng, Grolley, Gruyères, Gurmels, Hauterive (FR), Hauteville, Haut-Intyamon, Heitenried, Jaun, Kerzers, Kleinbösingen, La Brillaz, La Roche, La Sonnaz, La Verrerie, Le Châtelard, Le Flon, Le Mouret, Le Pâquier (FR), Léchelles, Les Montets, Lully (FR), Marly, Marsens, Massonnens, Matran, Ménières, Meyriez, Mézières (FR), Misery-Courtion, Montagny (FR), Mont-Vully, Morlon, Muntelier, Murten, Neyruz (FR), Nuvilly, Pierrafortscha, Plaffeien, Plasselb, Pont-en-Ogoz, Ponthaux, Pont-la-Ville, Prévondavaux, Prez, Rechthalten, Remaufens, Riaz, Ried bei Kerzers, Romont (FR), Rue, Saint-Aubin (FR), Saint-Martin (FR), Sâles, Schmitten (FR), Semsales, Sévaz, Siviriez, Sorens, St. Silvester, St. Ursen, Surpierre, Tafers, Tentlingen, Torny, Treyvaux, Ursy, Val-de-Charmey, Vallon, Vaulruz, Villarsel-sur-Marly, Villars-sur-Glâne, Villaz, Villorsonnens, Vuadens, Vuisternens-devant-Romont;
+
+- 6\.
+
+  im Kanton Schaffhausen die Gemeinden:
+
   - – Bargen (SH), Beggingen, Beringen, Buch (SH), Büttenhardt, Dörflingen, Gächlingen, Hallau, Hemishofen, Lohn (SH), Löhningen, Merishausen, Neuhausen am Rheinfall, Neunkirch, Oberhallau, Ramsen, Schaffhausen, Schleitheim, Siblingen, Stein am Rhein, Stetten (SH), Thayngen, Trasadingen, Wilchingen;
 
-- 7\. im Kanton Schwyz die Gemeinden
+- 7\.
+
+  im Kanton Schwyz die Gemeinden:
+
   - – Alpthal, Altendorf, Arth, Einsiedeln, Galgenen, Gersau, Illgau, Ingenbohl, Innerthal, Küssnacht (SZ), Lachen, Lauerz, Morschach, Muotathal, Oberiberg, Reichenburg, Riemenstalden, Rothenthurm, Sattel, Schübelbach, Schwyz, Steinen, Steinerberg, Tuggen, Unteriberg, Vorderthal, Wangen (SZ);
 
-- 8\. im Kanton Waadt die Gemeinden
-  - – Agiez, Aigle, Allaman, Arnex-sur-Orbe, Aubonne, Avenches, Ballaigues, Baulmes, Belmont-sur-Yverdon, Berolle, Bex, Bière, Blonay, Bofflens, Bonvillars, Bougy-Villars, Bretonnières, Buchillon, Bullet, Burtigny, Chamblon, Champagne, Champtauroz, Champvent, Chardonne, Château-d’Oex, Chavannes-le-Chêne, Chêne-Pâquier, Cheseaux-Noréaz, Chessel, Chevroux, Concise, Corbeyrier, Corcelles-près-Concise, Corcelles-près-Payerne, Corseaux, Corsier-sur-Vevey, Cronay, Cuarny, Cudrefin, Curtilles, Démoret, Dompierre (VD), Donneloye, Ependes (VD), Essertines-sur-Rolle, Essertines-sur-Yverdon, Etoy, Faoug, Féchy, Fiez, Fontaines-sur-Grandson, Giez, Gimel, Grandcour, Grandevent, Grandson, Gryon, Henniez, Jongny, Juriens, La Praz, La Tour-de-Peilz, L’Abbaye, L’Abergement, Lavey-Morcles, Lavigny, Le Chenit, Le Lieu, Les Clées, Leysin, Lignerolle, Lovatens, Lucens, Mathod, Mauborget, Missy, Moiry, Molondin, Montagny-près-Yverdon, Montcherand, Montherod, Mont-la-Ville, Montreux, Moudon, Mutrux, Novalles, Noville, Ollon, Onnens (VD), Oppens, Orbe, Orges, Ormont-Dessous, Ormont-Dessus, Orzens, Pailly, Payerne, Perroy, Pompaples, Pomy, Premier, Prévonloup, Provence, Rances, Rennaz, Roche (VD), Romainmôtier-Envy, Rossinière, Rougemont, Rovray, Sainte-Croix, Saint-Légier-La Chiésaz, Saint-Livres, Saint-Oyens, Saubraz, Sergey, Suchy, Suscévaz, Tartegnin, Tévenon, Trey, Treycovagnes, Treytorrens (Payerne), Ursins, Valbroye, Valeyres-sous-Montagny, Valeyres-sous-Rances, Valeyres-sous-Ursins, Vallorbe, Vaulion, Vevey, Veytaux, Villars-Epeney, Villars-le-Comte, Villarzel, Villeneuve (VD), Vugelles-La Mothe, Vuiteboeuf, Vully-les-Lacs, Yverdon-les-Bains, Yvonand, Yvorne;
+- 8\.
 
-- 9\. im Kanton Zürich die Gemeinden
+  im Kanton Waadt die Gemeinden:
+
+  - – Agiez, Aigle, Allaman, Arnex-sur-Orbe, Aubonne, Avenches, Ballaigues, Baulmes, Belmont-sur-Yverdon, Berolle, Bex, Bière, Blonay, Bofflens, Bonvillars, Bougy-Villars, Bretonnières, Buchillon, Bullet, Burtigny, Chamblon, Champagne, Champtauroz, Champvent, Chardonne, Château-d’Oex, Chavannes-le-Chêne, Chêne-Pâquier, Cheseaux-Noréaz, Chessel, Chevroux, Concise, Corbeyrier, Corcelles-près-Concise, Corcelles-près-Payerne, Corseaux, Corsier-sur-Vevey, Cronay, Cuarny, Cudrefin, Curtilles, Démoret, Dompierre (VD), Donneloye, Ependes (VD), Essertines-sur-Rolle, Essertines-sur-Yverdon, Etoy, Faoug, Féchy, Fiez, Fontaines-sur-Grandson, Giez, Gimel, Grandcour, Grandevent, Grandson, Gryon, Henniez, Jongny, Juriens, La Praz, La Tour-de-Peilz, L’Abbaye, L’Abergement, Lavey-Morcles, Lavigny, Le Chenit, Le Lieu, Les Clées, Leysin, Lignerolle, Lovatens, Lucens, Mathod, Mauborget, Missy, Moiry, Molondin, Montagny-près-Yverdon, Montcherand, Mont-la-Ville, Montreux, Moudon, Mutrux, Novalles, Noville, Ollon, Onnens (VD), Oppens, Orbe, Orges, Ormont-Dessous, Ormont-Dessus, Orzens, Pailly, Payerne, Perroy, Pompaples, Pomy, Premier, Prévonloup, Provence, Rances, Rennaz, Roche (VD), Romainmôtier-Envy, Rossinière, Rougemont, Rovray, Sainte-Croix, Saint-Légier-La Chiésaz, Saint-Livres, Saint-Oyens, Saubraz, Sergey, Suchy, Suscévaz, Tartegnin, Tévenon, Trey, Treycovagnes, Treytorrens (Payerne), Ursins, Valbroye, Valeyres-sous-Montagny, Valeyres-sous-Rances, Valeyres-sous-Ursins, Vallorbe, Vaulion, Vevey, Veytaux, Villars-Epeney, Villars-le-Comte, Villarzel, Villeneuve (VD), Vugelles-La Mothe, Vuiteboeuf, Vully-les-Lacs, Yverdon-les-Bains, Yvonand, Yvorne;
+
+- 9\.
+
+  im Kanton Zürich die Gemeinden:
+
   - – Bauma, Fischenthal, Elgg, Schlatt, Turbenthal, Wald, Wila;
 
-- 10\. im Kanton Zug die Gemeinden
+- 10\.
+
+  im Kanton Zug die Gemeinden:
+
   - – Oberägeri, Unterägeri, Walchwil.
