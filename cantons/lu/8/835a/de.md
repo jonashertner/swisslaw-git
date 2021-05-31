@@ -4,13 +4,13 @@ number: 835a
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: VCov19
 language: de
-version: 2021-05-01
-valid_until: 2021-05-31
-version_adopted: 2021-04-15
+version: 2021-06-01
+valid_until: 2021-07-09
+version_adopted: 2021-05-28
 adopted: 2021-12-03
 in_force: 2021-12-06
 url: "https://srl.lu.ch/app/de/texts_of_law/835a"
-pdf: "https://srl.lu.ch/api/de/versions/3741/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3747/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3741/pdf_file"
 
 (VCov19)
 
-vom 13.10.2020 (Stand 01.05.2021)
+vom 13.10.2020 (Stand 01.06.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -57,44 +57,15 @@ beschliesst:
 
 #### § 3
 
-**Erhebung und Meldung von Kontaktdaten in Restaurations-, Bar- und Clubbetrieben**
-
-<sup>1</sup> Restaurations-, Bar- und Clubbetriebe, welche die Kontaktdaten gemäss Artikel 5 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^3-1] erheben, geben der Dienststelle Gesundheit und Sport folgende Angaben bekannt:
-
-- a. Name oder Bezeichnung sowie Adresse des Betriebes,
-- b. Name, Vorname, Adresse, Mobiltelefonnummer und E-Mail-Adresse der für den Betrieb verantwortlichen Person,
-- c. E-Mail-Adresse und Mobiltelefonnummer von maximal drei Personen, welche der Dienststelle Gesundheit und Sport auf einmaliges Ersuchen die Besucherliste eines jeden Tages oder Abends innert zwei Stunden übermitteln können; mindestens eine dieser Kontaktpersonen muss täglich zwischen 7.00 Uhr und 22.00 Uhr erreichbar sein.
-
-<sup>2</sup> Sie erheben folgende Kontaktdaten der Gäste vor deren Einlass:
-
-- a. Name, Vorname und Postleitzahl des Wohnortes,
-- b. Telefonnummer,
-- c. E-Mail-Adresse,
-- d. Zeit des Eintritts und des Austritts aus dem Betrieb.
-
-<sup>3</sup> Die Betriebe sind bei der Erhebung der Kontaktdaten verpflichtet, die Gäste vor deren Einlass zweifelsfrei anhand eines amtlichen Ausweises zu identifizieren. Sie müssen die Telefonnummer mindestens stichprobeweise bei 20 Prozent der Gäste auf ihre Richtigkeit überprüfen und die von ihnen geprüften Nummern bei den Kontaktangaben markieren. Die erhobenen Kontaktdaten pro Tag sind so zu verwalten, dass sie auf Verlangen der Dienststelle Gesundheit und Sport innert zwei Stunden elektronisch in gegliederter Form übermittelt werden können.
-
-<sup>4</sup> Die Betriebe dürfen die erhobenen Kontaktdaten zu keinem andern Zweck verwenden. Sie stellen sicher, dass die Daten vierzehn Tage nach der Erhebung vernichtet werden.
-
-<sup>5</sup> Die Absätze 2–4 gelten sinngemäss auch für das Personal der Betriebe.
-
-[^3-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+**…**
 
 #### § 3bis
 
-**Betriebskantinen für Berufstätige im Ausseneinsatz**
-
-<sup>1</sup> Restaurationsbetriebe, die in Innenbereichen Berufschauffeurinnen und -chauffeuren, Berufsleuten, die im Freien arbeiten müssen, namentlich in der Landwirtschaft und im Bausektor, sowie Handwerkerinnen und Handwerkern und Berufstätigen auf Montage offenstehen, melden ihr diesbezügliches Angebot vorgängig der Luzerner Polizei (Abteilung Gastgewerbe und Gewerbepolizei).
-
-<sup>2</sup> Die Betriebe verwalten die von ihnen pro Tag erhobenen Kontaktdaten so, dass sie der Dienststelle Gesundheit und Sport auf Verlangen innert zwei Stunden elektronisch in gegliederter Form übermittelt werden können. Die Kontaktdaten dürfen zu keinem andern Zweck verwendet werden. Die Betriebe stellen sicher, dass die Daten vierzehn Tage nach der Erhebung vernichtet werden.
+**…**
 
 #### § 3a
 
-**Spitäler, Alters- und Pflegeheime und Kurhäuser**
-
-<sup>1</sup> In Spitälern, Alters- und Pflegeheimen und Kurhäusern ist pro Tag und Patient und Patientin, Bewohner und Bewohnerin oder Gast der Besuch von maximal zwei engsten Verwandten oder engsten Bezugspersonen zulässig. Die Leitung der Einrichtung kann weiter gehende Einschränkungen des Besuchsrechts vorsehen, wenn es die Lage erfordert, oder in Ausnahmefällen zusätzliche Besucherinnen und Besucher bewilligen, insbesondere bei einer Verschlechterung des gesundheitlichen Zustandes, bei psychischen Krisen und bei palliativen Situationen.
-
-<sup>2</sup> Die Leitung der Einrichtung regelt die Einzelheiten unter Berücksichtigung des massgebenden Schutzkonzeptes.
+**…**
 
 #### § 3b
 
@@ -138,9 +109,7 @@ beschliesst:
 
 #### § 5b
 
-**Personentransporte im Individualverkehr**
-
-<sup>1</sup> In geschlossenen Privat- und Transportfahrzeugen gilt eine Maskenpflicht, wenn Personen transportiert werden, die nicht im gleichen Haushalt leben.
+**…**
 
 #### § 6
 
@@ -176,7 +145,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Die §§ 3<sup>bis</sup>, 3a, 4a, 5 und 5b gelten bis 31. Mai 2021.
+<sup>2<sup>bis</sup></sup> Die §§ 4a und 5 gelten bis 30. Juni 2021.
 
 <sup>2<sup>ter</sup></sup> Der § 3b gilt bis 10. Juli 2021.
 
