@@ -4,11 +4,11 @@ title: "Federal Act of 20 March 1981 on International Mutual Assistance in Crimi
 short: IMAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: en
-version: 2019-03-01
+version: 2021-06-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20190301/en/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20190301-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20190301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210601/en/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210601-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,16 +19,16 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Mutual Assistance Act, IMAC)
 
-of 20 March 1981 (Status as of 1 March 2019)
+of 20 March 1981 (Status as of 1 June 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Articles 54 para. 1 and 173 para. 2 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Dispatch of the Federal Council of 8 March 1976[^ingress-3],
+based on Articles 54 paragraph 1, 123 paragraph 1 and 173 paragraph 2 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Dispatch of the Federal Council of 8 March 1976[^ingress-3],
 
 decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Amended by No I 3 of the FA of 1 Oct. 2010 on the Coordination of Asylum and Extradition Procedures, in force since 1 April 2011 ([AS 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [BBl 2010 1467](https://fedlex.data.admin.ch/eli/fga/2010/264)).
+[^ingress-2]: Amended by No I of the FA of 18 Dec. 2020, in force since 1 June 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 [^ingress-3]: [BBl 1976 II 444](https://fedlex.data.admin.ch/eli/fga/1976/2_444_430_443)
 
 ## Part One General Provisions
@@ -54,10 +54,29 @@ Unless other federal acts or international agreements provide otherwise, this Ac
 
 <sup>3</sup> This Act applies only to criminal matters in which recourse to the courts is permitted under the law of the requesting State.
 
-<sup>4</sup> This Act confers no right to international cooperation in criminal matters.
+<sup>3bis</sup>
+
+Unless other legislation or international agreements provide otherwise, this Act applies by analogy to proceedings for cooperation in criminal matters with international courts or other inter- or supranational bodies with criminal justice functions if the proceedings relate to:
+
+- a. offences under the Twelfth Title<sup>bis</sup>, Twelfth Title<sup>ter</sup> or Twelfth Title<sup>quater</sup> of the Swiss Criminal Code[^1-3]; or
+- b. offences under other provisions of the criminal law and the court or the body concerned is established by a resolution of the United Nations that is binding on or supported by Switzerland.[^1-4]
+
+<sup>3ter</sup>
+
+The Federal Council may also stipulate in an ordinance that this Act applies by analogy to procedures for cooperation on criminal matters with other international courts or other inter- or supranational bodies with criminal justice functions if:
+
+- a. the court or body is established on the basis of legal provisions that clearly define the powers of court or body in terms of criminal law and criminal procedure;
+- b. the procedure before the court or body guarantees compliance with the principles of the rule of law; and
+- c. cooperation serves to safeguard Switzerland’s interests.[^1-5]
+
+<sup>4</sup> This Act confers no right to cooperation in criminal matters.[^1-6]
 
 [^1-1]: Amended by Art. 59 No 1 of the FA of 22 June 2001 on Cooperation with the International Criminal Court, in force since 1 July 2002 ([AS 2002 1493](https://fedlex.data.admin.ch/eli/oc/2002/237); [BBl 2001 391](https://fedlex.data.admin.ch/eli/fga/2001/133)).
 [^1-2]: Repealed by No I of the FA of 4 Oct. 1996, with effect from 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
+[^1-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-4]: Inserted by No I of the FA of 18 Dec. 2020, in force since 1 June 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-5]: Inserted by No I of the FA of 18 Dec. 2020, in force since 1 June 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-6]: Amended by No I of the FA of 18 Dec. 2020, in force since 1 June 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 
 #### Art. 1a
 
@@ -73,7 +92,7 @@ In the application of this Act, Swiss sovereignty, security, public order or sim
 
 **Foreign proceedings[^2-1]**
 
-A request for cooperation in criminal matters shall not be granted if there are reasons to believe that the foreign proceedings
+A request for cooperation in criminal matters shall not be granted if there are reasons to believe that the foreign proceedings:
 
 - a.[^2-2] do not meet the procedural requirements of the European Convention for the Protection of Human Rights and Fundamental Freedoms of 4 November 1950[^2-3], or the International Covenant on Civil and Political Rights of 16 December 1966[^2-4];
 - b.[^2-5] are being conducted so as to prosecute or punish a person on account of his political opinions, his belonging to a certain social group, his race, religion, or nationality;
@@ -569,7 +588,7 @@ If the defendant is abroad and if, according to the laws of the State to which t
 
 At the request of the Federal Office, the competent authority may temporarily suspend criminal proceedings or the execution of a sentence against a defendant abroad for another offence if:
 
-- a. the sentence imposed in Switzerland is not of great importance in comparison to the one likely to be imposed abroad or
+- a. the sentence imposed in Switzerland is not of great importance in comparison to the one likely to be imposed abroad; or
 - b. execution of the sentence in Switzerland does not seem appropriate.
 
 <sup>2</sup> On conclusion of the criminal proceedings abroad, the Swiss authority shall decide whether or not to resume the suspended proceedings or the execution of the penalty.
@@ -921,7 +940,7 @@ Foreign nationals may be arrested with a view to extradition on the basis of a r
 
 The Federal Office shall issue an arrest warrant with a view to extradition. It may decline to do so, especially if the defendant:
 
-- a. will probably not elude extradition and will not endanger the criminal investigation or
+- a. will probably not elude extradition and will not endanger the criminal investigation; or
 - b. can prove without delay that he was not at the place of the offence when it was committed.
 
 <sup>2</sup> If the defendant is unfit to remain in detention or if there are other valid reasons, the Federal Office may order measures other than detention to ensure his presence.
@@ -1051,7 +1070,7 @@ If the defendant has applied for asylum under the Asylum Act of 26 June 1998[^55
 
 Extradition may be executed if the defendant:
 
-- a. expressly requests his own immediate extradition or
+- a. expressly requests his own immediate extradition; or
 - b. does not give notice within five days of the issue of the ruling that he will file an appeal.
 
 <sup>2</sup> If extradition is refused, the Federal Office shall release the person concerned from detention with a view to extradition.
@@ -1074,7 +1093,7 @@ Extradition may be executed if the defendant:
 
 However, provisional surrender of the defendant may be granted if:
 
-- a. this will not be prejudicial to the Swiss criminal proceedings and
+- a. this will not be prejudicial to the Swiss criminal proceedings; and
 - b. the requesting State has guaranteed to keep the defendant in custody during his stay in that State and will return him regardless of his nationality.
 
 #### Art. 59
@@ -1694,7 +1713,7 @@ The requesting State shall be charged for:
 At the request of the State in which the offence was committed, Switzerland may prosecute on its behalf an offence committed abroad if:
 
 - a. extradition is not permitted;
-- b. the defendant has to face charges in Switzerland for other more serious offences and
+- b. the defendant has to face charges in Switzerland for other more serious offences; and
 - c. it is guaranteed that the requesting State will not prosecute him for the same offence after acquittal or completing a sentence in Switzerland.
 
 <sup>2</sup> A foreign national who is habitually resident in Switzerland may also be prosecuted in Switzerland if his extradition cannot be justified and prosecution in Switzerland seems appropriate with regard to his personal situation and social rehabilitation.
@@ -1743,7 +1762,7 @@ Another State may be requested to prosecute an offence subject to Swiss jurisdic
 
 If another State prosecutes the offence, the Swiss authorities may not take further measures against the defendant for the same offence:
 
-- a. unless the requested State has given notice that it is not in a position to conclude the prosecution, or
+- a. unless the requested State has given notice that it is not in a position to conclude the prosecution; or
 - b. if, according to the decision made in the requested State, the conditions of Article 5 letter a or b are met.
 
 <sup>2</sup> The effect of the time limitation provisions under Swiss law is suspended provided the proceedings including enforcement of the sentence are ongoing in the requested State.[^89-1]
@@ -1806,7 +1825,7 @@ Any investigative measure carried out by the authorities of the requesting State
 Final and enforceable criminal judgments from another State may be enforced at that State's request if:
 
 - a. the convicted person is habitually resident in Switzerland or has to face charges here for a serious offence;
-- b. the subject of the conviction is an offence committed abroad which, if committed in Switzerland, would be punishable here, and
+- b. the subject of the conviction is an offence committed abroad which, if committed in Switzerland, would be punishable here; and
 - c. enforcement in Switzerland seems to be appropriate for one of the reasons specified in Article 85 paragraphs 1 and 2 or likely to be barred in the requesting State.
 
 <sup>2</sup> Sentences imposed abroad shall be executed provided they do not exceed the maximum penalty provided by Swiss law for a corresponding offence. Sentences that remain below the minimum penalty according to Swiss law may be executed.
@@ -1826,7 +1845,7 @@ Final and enforceable criminal judgments from another State may be enforced at t
 The order permitting enforcement (exequatur) may not be issued if:
 
 - a.[^95-1] the conviction took place at a time when, under Swiss law, the prosecution would have been time barred;
-- b. the sentence would have been time barred under Swiss law if a Swiss authority had imposed it at the same time, or
+- b. the sentence would have been time barred under Swiss law if a Swiss authority had imposed it at the same time; or
 - c. the offence is also subject to Swiss jurisdiction and no sentence could be imposed under Swiss law for other reasons.
 
 <sup>2</sup> Decisions on costs shall be declared enforceable only if the costs are to be paid to the State.
@@ -1839,7 +1858,7 @@ The order permitting enforcement (exequatur) may not be issued if:
 
 The court shall refuse to enforce in whole or in part if:
 
-- a. the convicted person has incurred a sentence involving deprivation of liberty in Switzerland for other offences and enforcement as requested would result in an obviously more severe punishment than if the offences taken as a whole were judged in Switzerland, or
+- a. the convicted person has incurred a sentence involving deprivation of liberty in Switzerland for other offences and enforcement as requested would result in an obviously more severe punishment than if the offences taken as a whole were judged in Switzerland; or
 - b. the execution of any of the accessory criminal measures in Switzerland is not permitted, or
 - c. it is of the opinion that the convicted person has good reason to oppose the enforcement of a judgment or penalty order that was issued in his absence and which is no longer subject to a right of objection or appeal under the law of the requesting State.
 
@@ -1875,7 +1894,7 @@ If Switzerland assumes responsibility for enforcement, no criminal proceedings a
 
 Another State may be requested to enforce a Swiss criminal judgment if:
 
-- a. it is certain to accept the binding force of the judgment in accordance with Article 97, and
+- a. it is certain to accept the binding force of the judgment in accordance with Article 97; and
 - b. the transfer of enforcement is likely to improve the prospects of the social rehabilitation of the convicted person or if Switzerland cannot obtain his extradition.
 
 #### Art. 101

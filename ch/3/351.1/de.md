@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 1981 über internationale Rechtshilfe in Stra
 short: IRSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: de
-version: 2019-03-01
+version: 2021-06-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20190301/de/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20190301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20190301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210601/de/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20190301/de"
 
 (Rechtshilfegesetz, IRSG)
 
-vom 20. März 1981 (Stand am 1. März 2019)
+vom 20. März 1981 (Stand am 1. Juni 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 54 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 8. März 1976[^ingress-3],
+gestützt auf die Artikel 54 Absatz 1, 123 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 8. März 1976[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Fassung gemäss Ziff. I 3 des BG vom 1. Okt. 2010 über die Koordination des Asyl- und des Auslieferungsverfahrens, in Kraft seit 1. April 2011 ([AS 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [BBl 2010 1467](https://fedlex.data.admin.ch/eli/fga/2010/264)).
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juni 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 [^ingress-3]: [BBl 1976 II 444](https://fedlex.data.admin.ch/eli/fga/1976/2_444_430_443)
 
 ## Erster Teil: Allgemeine Bestimmungen
@@ -48,14 +48,33 @@ Dieses Gesetz regelt, soweit andere Gesetze oder internationale Vereinbarungen n
 - c. die stellvertretende Verfolgung und Ahndung strafbarer Handlungen (vierter Teil);
 - d. die Vollstreckung ausländischer Strafentscheide (fünfter Teil).
 
-<sup>2</sup> …[^1-2]
+<sup>2</sup> ...[^1-2]
 
 <sup>3</sup> Dieses Gesetz ist nur auf Strafsachen anwendbar, in denen nach dem Recht des ersuchenden Staates der Richter angerufen werden kann.
 
-<sup>4</sup> Aus diesem Gesetz kann kein Anspruch auf zwischenstaatliche Zusammenarbeit in Strafsachen abgeleitet werden.
+<sup>3bis</sup>
+
+Dieses Gesetz ist, soweit andere Gesetze oder internationale Vereinbarungen nichts anderes bestimmen, sinngemäss auf Verfahren der Zusammenarbeit in Strafsachen mit internationalen Gerichten oder anderen zwischen- oder überstaatlichen Einrichtungen mit strafbehördlichen Funktionen anwendbar, wenn das Verfahren:
+
+- a. Delikte nach dem Zwölften Titel<sup>bis</sup>, dem Zwölften Titel<sup>ter</sup> oder dem Zwölften Titel<sup>quater</sup> des Strafgesetzbuchs[^1-3] betrifft; oder
+- b. Straftaten im Bereich des übrigen Strafrechts betrifft und das Gericht oder die Einrichtung auf einer Resolution der Vereinten Nationen beruht, die für die Schweiz verbindlich ist oder die von der Schweiz unterstützt wird.[^1-4]
+
+<sup>3ter</sup>
+
+Der Bundesrat kann zudem in einer Verordnung festlegen, dass dieses Gesetz sinngemäss auf Verfahren der Zusammenarbeit in Strafsachen mit weiteren internationalen Gerichten oder anderen zwischen- oder überstaatlichen Einrichtungen mit strafbehördlichen Funktionen anwendbar ist, wenn:
+
+- a. die Errichtung des Gerichts oder der Einrichtung auf einer Rechtsgrundlage beruht, welche die Kompetenzen des Gerichts oder der Einrichtung in strafrechtlicher und strafprozessualer Hinsicht eindeutig festlegt;
+- b. das Verfahren vor dem Gericht oder der Einrichtung die Einhaltung rechtsstaatlicher Grundsätze garantiert; und
+- c. die Zusammenarbeit der Wahrung der Interessen der Schweiz dient.[^1-5]
+
+<sup>4</sup> Aus diesem Gesetz kann kein Anspruch auf Zusammenarbeit in Strafsachen abgeleitet werden.[^1-6]
 
 [^1-1]: Fassung gemäss Art. 59 Ziff. 1 des BG vom 22. Juni 2001 über die Zusammenarbeit mit dem Internationalen Strafgerichtshof, in Kraft seit 1. Juli 2002 ([AS 2002 1493](https://fedlex.data.admin.ch/eli/oc/2002/237); [BBl 2001 391](https://fedlex.data.admin.ch/eli/fga/2001/133)).
 [^1-2]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1996, mit Wirkung seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
+[^1-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juni 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-5]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juni 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-6]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juni 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 
 #### Art. 1a
 
@@ -71,11 +90,11 @@ Bei der Anwendung dieses Gesetzes ist den Hoheitsrechten, der Sicherheit, der ö
 
 **Ausländisches Verfahren[^2-1]**
 
-Einem Ersuchen um Zusammenarbeit in Strafsachen wird nicht entsprochen, wenn Gründe für die Annahme bestehen, dass das Verfahren im Ausland
+Einem Ersuchen um Zusammenarbeit in Strafsachen wird nicht entsprochen, wenn Gründe für die Annahme bestehen, dass das Verfahren im Ausland:
 
 - a.[^2-2] den in der Europäischen Konvention vom 4. November 1950[^2-3] zum Schutze der Menschenrechte und Grundfreiheiten oder im Internationalen Pakt vom 16. Dezember 1966[^2-4] über bürgerliche und politische Rechte festgelegten Verfahrensgrundsätzen nicht entspricht;
 - b.[^2-5] durchgeführt wird, um eine Person wegen ihrer politischen Anschauungen, wegen ihrer Zugehörigkeit zu einer bestimmten sozialen Gruppe oder aus Gründen der Rasse, Religion oder Volkszugehörigkeit zu verfolgen oder zu bestrafen;
-- c. dazu führen könnte, die Lage des Verfolgten aus einem unter Buchstabe b angeführten Grunde zu erschweren oder
+- c. dazu führen könnte, die Lage des Verfolgten aus einem unter Buchstabe b angeführten Grunde zu erschweren; oder
 - d. andere schwere Mängel aufweist.
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
@@ -460,7 +479,7 @@ Die Entschädigung für die in der Schweiz erlittene Auslieferungshaft kann auch
 
 <sup>1</sup> Die Kantone wirken bei der Durchführung des Auslieferungsverfahrens mit. Wenn das Bundesrecht nichts anderes bestimmt, obliegt ihnen die Ausführung von Ersuchen um andere Rechtshilfe, die stellvertretende Strafverfolgung und die Vollstreckung von Strafentscheiden. Sie unterstehen der Aufsicht des Bundes, soweit dieses Gesetz anzuwenden ist.
 
-<sup>2</sup> …[^16-1]
+<sup>2</sup> ...[^16-1]
 
 [^16-1]: Aufgehoben durch Anhang 1 Ziff. II 13 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
@@ -566,9 +585,11 @@ Befindet sich der Verfolgte im Ausland und stehen nach dem Recht des Staates, an
 
 **Aussetzung des Strafverfahrens oder des Strafvollzuges**
 
-<sup>1</sup> Auf Antrag des Bundesamtes kann die zuständige Behörde einstweilen davon absehen, gegen den im Ausland Verfolgten wegen einer andern Tat ein Strafverfahren durchzuführen oder eine Sanktion zu vollziehen, wenn
+<sup>1</sup>
 
-- a. die in der Schweiz verwirkte Sanktion gegenüber der im Ausland zu erwartenden nicht wesentlich ins Gewicht fällt oder
+Auf Antrag des Bundesamtes kann die zuständige Behörde einstweilen davon absehen, gegen den im Ausland Verfolgten wegen einer andern Tat ein Strafverfahren durchzuführen oder eine Sanktion zu vollziehen, wenn:
+
+- a. die in der Schweiz verwirkte Sanktion gegenüber der im Ausland zu erwartenden nicht wesentlich ins Gewicht fällt; oder
 - b. der Vollzug in der Schweiz nicht zweckmässig erscheint.
 
 <sup>2</sup> Nach Abschluss des Strafverfahrens im Ausland entscheidet die schweizerische Behörde über die Durchführung des ausgesetzten Verfahrens oder Strafvollzuges.
@@ -646,7 +667,7 @@ Verfügungen und Entscheide eidgenössischer und kantonaler Behörden müssen mi
 
 <sup>4</sup> Mit der Beschwerde kann auch die unzulässige oder offensichtlich unrichtige Anwendung fremden Rechts gerügt werden.
 
-<sup>5</sup> …[^25-6]
+<sup>5</sup> ...[^25-6]
 
 <sup>6</sup> Die Beschwerdekammer des Bundesstrafgerichts ist nicht an die Begehren der Parteien gebunden.[^25-7]
 
@@ -662,7 +683,7 @@ Verfügungen und Entscheide eidgenössischer und kantonaler Behörden müssen mi
 
 **Verwaltungsbeschwerde**[^26-1]
 
-Verfügungen des Departements nach Artikel 17 Absatz 1 unterliegen der Beschwerde an den Bundesrat. …[^26-2]
+Verfügungen des Departements nach Artikel 17 Absatz 1 unterliegen der Beschwerde an den Bundesrat. ...[^26-2]
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^26-2]: Satz aufgehoben durch Anhang Ziff. 30 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -781,7 +802,7 @@ Ausländer können einem anderen Staat wegen Handlungen, die er ahnden kann, zur
 
 Die Auslieferung ist zulässig, wenn nach den Unterlagen des Ersuchens die Tat:
 
-- a. nach dem Recht sowohl der Schweiz als auch des ersuchenden Staates mit einer freiheitsbeschränkenden Sanktion im Höchstmass von mindestens einem Jahr oder mit einer schwereren Sanktion bedroht ist und
+- a. nach dem Recht sowohl der Schweiz als auch des ersuchenden Staates mit einer freiheitsbeschränkenden Sanktion im Höchstmass von mindestens einem Jahr oder mit einer schwereren Sanktion bedroht ist; und
 - b. nicht der schweizerischen Gerichtsbarkeit unterliegt.
 
 <sup>2</sup>
@@ -920,7 +941,7 @@ Ausländer können zur Auslieferung festgenommen werden aufgrund eines Ersuchens
 
 Das Bundesamt erlässt einen Auslieferungshaftbefehl. Es kann davon absehen, namentlich wenn der Verfolgte:
 
-- a. voraussichtlich sich der Auslieferung nicht entzieht und die Strafuntersuchung nicht gefährdet oder
+- a. voraussichtlich sich der Auslieferung nicht entzieht und die Strafuntersuchung nicht gefährdet; oder
 - b. ohne Verzug nachweisen kann, dass er zur Zeit der Tat nicht am Tatort war.
 
 <sup>2</sup> Ist der Verfolgte nicht hafterstehungsfähig oder rechtfertigen es andere Gründe, so kann das Bundesamt anstelle der Haft andere Massnahmen zu seiner Sicherung anordnen.
@@ -937,7 +958,7 @@ Verfügungen nach Artikel 47 enthalten:
 
 - a. die Angaben der ausländischen Behörde über die Person des Verfolgten und die ihm zur Last gelegte Tat;
 - b. die Bezeichnung der Behörde, die das Ersuchen gestellt hat;
-- c. die Mitteilung, dass die Auslieferung verlangt wird.
+- c. die Mitteilung, dass die Auslieferung verlangt wird;
 - d. den Hinweis auf das Recht zur Beschwerde nach Absatz 2 und zum Beizug eines Rechtsbeistandes.
 
 <sup>2</sup> Gegen diese Verfügungen kann der Verfolgte innert zehn Tagen ab der schriftlichen Eröffnung des Auslieferungshaftbefehls Beschwerde bei der Beschwerdekammer des Bundessstrafgerichts führen. Für das Beschwerdeverfahren gelten die Artikel 379–397 StPO[^48-1] sinngemäss.[^48-2]
@@ -1050,7 +1071,7 @@ Hat der Verfolgte ein Asylgesuch im Sinne des Asylgesetzes vom 26. Juni 1998[^55
 
 Die Auslieferung kann vollzogen werden, wenn der Verfolgte:
 
-- a. ausdrücklich den sofortigen Vollzug verlangt oder
+- a. ausdrücklich den sofortigen Vollzug verlangt; oder
 - b. nicht innert fünf Tagen nach Eröffnung der Verfügung erklärt, er wolle Beschwerde erheben.
 
 <sup>2</sup> Wird die Auslieferung abgelehnt, so hebt das Bundesamt die Auslieferungshaft auf.
@@ -1071,7 +1092,7 @@ Die Auslieferung kann vollzogen werden, wenn der Verfolgte:
 
 <sup>2</sup> Indessen kann die vorübergehende Zuführung des Verfolgten bewilligt werden, wenn
 
-- a. ein schweizerisches Strafverfahren dadurch nicht beeinträchtigt wird und
+- a. ein schweizerisches Strafverfahren dadurch nicht beeinträchtigt wird; und
 - b. der ersuchende Staat zugesichert hat, den Verfolgten während seines Aufenthaltes in diesem Staat in Haft zu behalten und ihn ohne Rücksicht auf seine Staatsangehörigkeit zurückzuliefern.
 
 #### Art. 59
@@ -1587,7 +1608,7 @@ Mit Beschwerde kann gerügt werden:
 - a. die Verletzung von Bundesrecht, einschliesslich Überschreitung oder Missbrauch des Ermessens;
 - b. die unzulässige oder offensichtlich unrichtige Anwendung ausländischen Rechts in den Fällen nach Artikel 65.
 
-<sup>2</sup> …[^80i-1]
+<sup>2</sup> ...[^80i-1]
 
 [^80i-1]: Aufgehoben durch Anhang Ziff. 30 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -1693,7 +1714,7 @@ Dem ersuchenden Staat werden die Kosten berechnet für:
 Wegen einer im Ausland begangenen Tat kann die Schweiz auf Ersuchen des Tatortstaates an seiner Stelle die Strafgewalt ausüben, wenn:
 
 - a. die Auslieferung nicht zulässig ist;
-- b. der Verfolgte sich in der Schweiz wegen anderer schwerer wiegender Taten zu verantworten hat und
+- b. der Verfolgte sich in der Schweiz wegen anderer schwerer wiegender Taten zu verantworten hat; und
 - c. gewährleistet ist, dass der ersuchende Staat ihn nach einem Freispruch oder Strafvollzug in der Schweiz wegen der gleichen Tat nicht weiter verfolgt.
 
 <sup>2</sup> Die Strafverfolgung eines Ausländers, der seinen gewöhnlichen Aufenthalt in der Schweiz hat, kann auch dann übernommen werden, wenn seine Auslieferung sich nicht rechtfertigen lässt und die Übernahme der Verfolgung im Hinblick auf seine persönlichen Verhältnisse und seine soziale Wiedereingliederung angezeigt erscheint.
@@ -1742,7 +1763,7 @@ Ein anderer Staat kann um Übernahme der Strafverfolgung wegen einer der schweiz
 
 Übernimmt ein anderer Staat die Strafverfolgung, so dürfen die schweizerischen Behörden gegen den Verfolgten wegen derselben Tat keine weiteren Massnahmen ergreifen:
 
-- a. solange der ersuchte Staat nicht mitgeteilt hat, dass er nicht in der Lage sei, das Strafverfahren zu Ende zu führen, oder
+- a. solange der ersuchte Staat nicht mitgeteilt hat, dass er nicht in der Lage sei, das Strafverfahren zu Ende zu führen; oder
 - b. wenn aufgrund des in diesem Staat ergangenen Entscheides die Voraussetzungen nach Artikel 5 Buchstabe a oder b erfüllt sind.
 
 <sup>2</sup> Die Verjährung nach schweizerischem Recht ruht, solange im ersuchten Staat das Verfahren, einschliesslich des Strafvollzuges, hängig ist.[^89-1]
@@ -1805,12 +1826,12 @@ Jede von den Behörden des ersuchenden Staates nach dessen Recht durchgeführte 
 Rechtskräftige und vollstreckbare Strafentscheide eines andern Staates können auf dessen Ersuchen vollstreckt werden, wenn:
 
 - a. der Verurteilte in der Schweiz seinen gewöhnlichen Aufenthalt hat oder sich hier wegen einer schweren Tat verantworten muss;
-- b. Gegenstand der Verurteilung eine im Ausland verübte Handlung ist, die, wenn entsprechend in der Schweiz begangen, hier strafbar wäre, und
+- b. Gegenstand der Verurteilung eine im Ausland verübte Handlung ist, die, wenn entsprechend in der Schweiz begangen, hier strafbar wäre; und
 - c. die Vollstreckung in der Schweiz insbesondere aus einem der Gründe nach Artikel 85 Absätze 1 und 2 angezeigt oder wenn sie im ersuchenden Staat ausgeschlossen erscheint.
 
 <sup>2</sup> Im Ausland verhängte Sanktionen werden vollzogen, soweit sie das Höchstmass der im schweizerischen Recht für eine entsprechende Tat vorgesehenen Strafe nicht übersteigen. Sanktionen, die unter dem schweizerischen Strafrahmen bleiben, dürfen vollzogen werden.
 
-<sup>3</sup> …[^94-1]
+<sup>3</sup> ...[^94-1]
 
 <sup>4</sup> Bussen sowie Kosten aus Verfahren nach Artikel 63 können auch vollstreckt werden, wenn der Verurteilte seinen gewöhnlichen Aufenthalt im Ausland hat, in der Schweiz aber über Vermögenswerte verfügt und wenn der ersuchende Staat Gegenrecht hält.
 
@@ -1825,7 +1846,7 @@ Rechtskräftige und vollstreckbare Strafentscheide eines andern Staates können 
 Die Vollstreckbarerklärung (Exequatur) ist unzulässig, wenn:
 
 - a.[^95-1] die Verurteilung in einem Zeitpunkt erfolgte, in dem bei Anwendung schweizerischen Rechts die Strafverfolgung absolut verjährt gewesen wäre;
-- b. die Sanktion nach schweizerischem Recht verjährt wäre, sofern ein schweizerische Behörde sie im gleichen Zeitpunkt ausgesprochen hätte, oder
+- b. die Sanktion nach schweizerischem Recht verjährt wäre, sofern ein schweizerische Behörde sie im gleichen Zeitpunkt ausgesprochen hätte; oder
 - c. die Tat auch der schweizerischen Gerichtsbarkeit unterworfen ist und nach schweizerischem Recht aus andern Gründen keine Sanktion verhängt werden könnte.
 
 <sup>2</sup> Entscheide über Kosten werden nur vollstreckbar erklärt, soweit diese an den Staat zu zahlen sind.
@@ -1838,8 +1859,8 @@ Die Vollstreckbarerklärung (Exequatur) ist unzulässig, wenn:
 
 Der Richter lehnt die Vollstreckung ganz oder teilweise ab, wenn:
 
-- a. der Verurteilte in der Schweiz wegen anderer Taten eine freiheitsbeschränkende Sanktion verwirkt hat und die nachgesuchte Vollstreckung offensichtlich eine schwerere Bestrafung zur Folge hätte, als wenn die Gesamt-Taten in der Schweiz beurteilt würde, oder
-- b. der Vollzug einer strafrechtlichen Nebenfolge in der Schweiz unzulässig ist, oder
+- a. der Verurteilte in der Schweiz wegen anderer Taten eine freiheitsbeschränkende Sanktion verwirkt hat und die nachgesuchte Vollstreckung offensichtlich eine schwerere Bestrafung zur Folge hätte, als wenn die Gesamt-Taten in der Schweiz beurteilt würde; oder
+- b. der Vollzug einer strafrechtlichen Nebenfolge in der Schweiz unzulässig ist; oder
 - c. er der Auffassung ist, dass sich der Verurteilte mit guten Gründen der Vollstreckung eines im Abwesenheitsverfahren ergangenen Entscheids oder Strafbefehls widersetzt, gegen den nach dem Recht des ersuchenden Staates kein Einspruch oder Rechtsmittel mehr zulässig ist.
 
 #### Art. 97
@@ -1874,7 +1895,7 @@ Wenn die Schweiz die Vollstreckung übernimmt, so darf hier gegen den Verurteilt
 
 Ein anderer Staat kann um Übernahme der Vollstreckung eines schweizerischen Strafentscheides ersucht werden, wenn:
 
-- a. die Beachtung der Verbindlichkeit des Entscheides im Sinne von Artikel 97 gewährleistet ist und
+- a. die Beachtung der Verbindlichkeit des Entscheides im Sinne von Artikel 97 gewährleistet ist; und
 - b. die Übertragung der Vollstreckung eine bessere soziale Wiedereingliederung des Verurteilten erwarten lässt oder die Schweiz seine Auslieferung nicht erwirken kann.
 
 #### Art. 101
@@ -1966,7 +1987,7 @@ Neben den Kosten für den Vollzug der Sanktion gelten auch jene für das Exequat
 
 <sup>1</sup> Das Bundesgesetz vom 22. Januar 1892[^109-1] betreffend die Auslieferung gegenüber dem Auslande wird aufgehoben.
 
-- [tab] <sup>2</sup><sup>–</sup><sup>3</sup> …[^109-2]
+- [tab] <sup>2</sup><sup>–</sup><sup>3</sup> ...[^109-2]
 
 [^109-1]: [BS **3** 509]
 [^109-2]: Die Änderungen können unter [AS 1982 846](https://fedlex.data.admin.ch/eli/oc/1982/846_846_846)konsultiert werden.

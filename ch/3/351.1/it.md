@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 1981 sull'assistenza internazionale in mater
 short: AIMP
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: it
-version: 2019-03-01
+version: 2021-06-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20190301/it/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20190301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20190301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210601/it/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20190301/it"
 
 (Assistenza in materia penale, AIMP)
 
-del 20 marzo 1981 (Stato 1° marzo 2019)
+del 20 marzo 1981 (Stato 1° giugno 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 54 capoverso 1 e 173 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale dell’8 marzo 1976[^ingress-3],
+visti gli articoli 54 capoverso 1, 123 capoverso 1 e 173 capoverso 2 della Costituzione federale[^ingress-1],[^ingress-2] visto il messaggio del Consiglio federale dell’8 marzo 1976[^ingress-3],
 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I 3 della LF del 1° ott. 2010 sul coordinamento tra la procedura d’asilo e la procedura d’estradizione, in vigore dal 1° apr. 2011 ([RU 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1295](https://fedlex.data.admin.ch/eli/fga/2010/264)).
+[^ingress-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° giu. 2021 ([RU 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 6095](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 [^ingress-3]: [FF 1976 II 443](https://fedlex.data.admin.ch/eli/fga/1976/2_444_430_443)
 
 ## Parte prima: Disposizioni generali
@@ -52,10 +52,29 @@ La presente legge disciplina, in quanto altre leggi o convenzioni internazionali
 
 <sup>3</sup> La presente legge s’applica soltanto alle cause penali in cui il diritto dello Stato richiedente consente di adire il giudice.
 
-<sup>4</sup> La presente legge non conferisce alcun diritto alla cooperazione internazionale in materia penale.
+<sup>3bis</sup>
+
+La presente legge, in quanto altre leggi o convenzioni internazionali non dispongano altrimenti, si applica per analogia ai procedimenti della cooperazione in materia penale con tribunali internazionali o altre istituzioni interstatali o sovranazionali che esercitano funzioni di autorità penali se il procedimento riguarda:
+
+- a. reati di cui ai titoli dodicesimo<sup>bis</sup>, dodicesimo<sup>ter</sup> o dodicesimo<sup>quater</sup> del Codice penale[^1-3]; o
+- b. altri reati, quando il tribunale o l’istituzione si fonda su una risoluzione delle Nazioni Unite vincolante per la Svizzera o da questa appoggiata.[^1-4]
+
+<sup>3ter</sup>
+
+Il Consiglio federale può inoltre stabilire in un’ordinanza che la presente legge si applica per analogia ai procedimenti della cooperazione in materia penale con altri tribunali internazionali o altre istituzioni interstatali o sovranazionali che esercitano funzioni di autorità penali se:
+
+- a. la costituzione del tribunale o dell’istituzione si fonda su una base giuridica che stabilisce chiaramente le competenze del tribunale o dell’istituzione in materia di diritto penale e di procedura penale;
+- b. la procedura dinanzi al tribunale o all’istituzione garantisce il rispetto dei principi dello Stato di diritto; e
+- c. la cooperazione contribuisce a tutelare gli interessi della Svizzera.[^1-5]
+
+<sup>4</sup> La presente legge non conferisce alcun diritto alla cooperazione in materia penale.[^1-6]
 
 [^1-1]: Nuovo testo giusta l’art. 59 n. 1 della LF del 22 giu. 2001 sulla cooperazione con la Corte penale internazionale, in vigore dal 1° lug. 2002 ([RU 2002 1493](https://fedlex.data.admin.ch/eli/oc/2002/237); [FF 2001 311](https://fedlex.data.admin.ch/eli/fga/2001/133)).
 [^1-2]: Abrogato dal n. I della LF del 4 ott. 1996, con effetto dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
+[^1-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-4]: Introdotto dal n. I della LF del 18 dic. 2020, in vigore dal 1° giu. 2021 ([RU 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 6095](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-5]: Introdotto dal n. I della LF del 18 dic. 2020, in vigore dal 1° giu. 2021 ([RU 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 6095](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-6]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° giu. 2021 ([RU 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 6095](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 
 #### Art. 1a
 
@@ -142,7 +161,7 @@ La domanda è irricevibile se:
 [^5-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^5-3]: Gli art. 97 segg. CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) conoscono ora un nuovo regime di prescrizione ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 [^5-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^5-5]: Nuovo testo giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^5-5]: Nuovo testo giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 6
 
@@ -197,7 +216,7 @@ Il Consiglio federale può concludere con gli Stati esteri accordi bilaterali su
 Nell’esecuzione della domanda, la protezione della sfera segreta è retta dalle disposizioni sul diritto di non deporre. Alla perquisizione di carte e registrazioni e all’apposizione di sigilli si applicano per analogia gli articoli 246*–*248 CPP[^9-1].[^9-2]
 
 [^9-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9-2]: Nuovo testo del per. giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^9-2]: Nuovo testo del per. giusta l’all. 1 n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 10
 
@@ -217,7 +236,7 @@ Nell’esecuzione della domanda, la protezione della sfera segreta è retta dall
 
 [^part1-chap1a-1]
 
-[^part1-chap1a-1]: Introdotto dal n. 7 dell’all. 1 alla LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^part1-chap1a-1]: Introdotto dell’all. 1 n. 7 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 11a
 
@@ -443,7 +462,7 @@ L’indennità per il carcere sofferto in Svizzera ai fini d’estradizione può
 
 [^15-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^15-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^15-3]: Nuovo testo giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^15-3]: Nuovo testo giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^15-4]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^15-5]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^15-6]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
@@ -460,7 +479,7 @@ L’indennità per il carcere sofferto in Svizzera ai fini d’estradizione può
 
 <sup>2</sup> ... [^16-1]
 
-[^16-1]: Abrogato dal n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^16-1]: Abrogato dall’all. 1 n. II 13 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 17
 
@@ -483,7 +502,7 @@ L’Ufficio federale decide su:
 <sup>5</sup> Può anche decidere sull’ammissibilità dell’assistenza giudiziaria e sull’esecuzione, conformemente all’articolo 79*a*.[^17-3]
 
 [^17-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^17-2]: Per. introdotto dal n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^17-2]: Per. introdotto dall’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^17-3]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
 #### Art. 17a
@@ -532,7 +551,7 @@ L’ordine di procedere alla sorveglianza dev’essere sottoposto per approvazio
 
 <sup>4</sup> Per altro, le condizioni della sorveglianza e la relativa procedura sono disciplinate dagli articoli 269*–*279 CPP[^18a-2] e dalla legge federale del 6 ottobre 2000[^18a-3] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni.
 
-[^18a-1]: Introdotto dal n. 4 dell’all. alla LF del 6 ott. 2000 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni ([RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3319). Nuovo testo giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^18a-1]: Introdotto dall’all. n. 4 della LF del 6 ott. 2000 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni ([RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3319). Nuovo testo giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^18a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^18a-3]: [[RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)n. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)all. n. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)all. n. II 14, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)all. n. II 12. [RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)all. n. I]. Vedi ora la LF del 18 mar. 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
 
@@ -624,7 +643,7 @@ Le decisioni delle autorità federali e cantonali devono essere provviste dell�
 
 [^23-1]
 
-[^23-1]: Abrogato dal n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^23-1]: Abrogato dall’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 24
 
@@ -650,13 +669,13 @@ Le decisioni delle autorità federali e cantonali devono essere provviste dell�
 
 <sup>6</sup> La Corte dei reclami penali del Tribunale penale federale non è vincolata dalle conclusioni delle parti.[^25-7]
 
-[^25-1]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^25-2]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25-1]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25-2]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^25-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^25-4]: Introdotto dall’art. 2 del DF del 19 dic. 2003, in vigore dal 1° ott. 2004 ([RU 2004 4161](https://fedlex.data.admin.ch/eli/oc/2004/621); [FF 2002 3864](https://fedlex.data.admin.ch/eli/fga/2002/672)).
-[^25-5]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25-5]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^25-6]: Abrogato dal n. I della LF del 4 ott. 1996, con effetto dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^25-7]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25-7]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26
 
@@ -665,7 +684,7 @@ Le decisioni delle autorità federali e cantonali devono essere provviste dell�
 Le decisioni del Dipartimento giusta l’articolo 17 capoverso 1 sono impugnabili mediante ricorso al Consiglio federale. …[^26-2]
 
 [^26-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^26-2]: Abrogato dal n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26-2]: Abrogato dall’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Capitolo 4: Procedura interstatale
 
@@ -943,7 +962,7 @@ Le decisioni di cui all’articolo 47 contengono:
 <sup>2</sup> Contro queste decisioni è ammesso, entro dieci giorni dalla notificazione scritta dell’ordine di arresto, il reclamo alla Corte dei reclami penali del Tribunale penale federale. Gli articoli 379*–*397 CPP[^48-1] sono applicabili per analogia.[^48-2]
 
 [^48-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^48-2]: Nuovo testo giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^48-2]: Nuovo testo giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 49
 
@@ -971,7 +990,7 @@ Le decisioni di cui all’articolo 47 contengono:
 
 [^50-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^50-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^50-3]: Nuovo testo giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^50-3]: Nuovo testo giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 51
 
@@ -1028,8 +1047,8 @@ Le decisioni di cui all’articolo 47 contengono:
 <sup>3</sup> È applicabile per analogia la procedura del ricorso giusta l’articolo 25.[^55-3]
 
 [^55-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^55-2]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^55-3]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^55-2]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^55-3]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 55a
 
@@ -1121,7 +1140,7 @@ Se un avente diritto fa valere pretese su oggetti o beni giusta il capoverso 4, 
 
 [^59-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^59-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
-[^59-3]: Introdotto dal n. 2 dell’all. alla LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^59-3]: Introdotto dall’all. n. 2 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 #### Art. 60
 
@@ -1197,7 +1216,7 @@ Se l’atto perseguito all’estero è impunibile in Svizzera, i provvedimenti d
 - b.[^64-1] quando l’atto perseguito costituisce un atto sessuale su minorenni.[^64-2]
 
 [^64-1]: La mod. concerne solo il testo tedesco ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)).
-[^64-2]: Nuovo testo giusta il n. 4 dell’all. alla LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^64-2]: Nuovo testo giusta l’all. n. 4 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
 #### Art. 65
 
@@ -1388,7 +1407,7 @@ Se un avente diritto fa valere pretese su oggetti o beni giusta il capoverso 4, 
 
 [^74a-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^74a-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
-[^74a-3]: Introdotto dal n. 2 dell’all. alla LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^74a-3]: Introdotto dall’all. n. 2 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 ### Capitolo 2: Procedura
 
@@ -1476,7 +1495,7 @@ Oltre alle indicazioni e ai documenti di cui all’articolo 28 devono essere ind
 <sup>4</sup> La designazione dell’autorità cantonale o federale a cui è stata affidata la direzione della procedura non può essere contestata.
 
 [^79-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^79-2]: Nuovo testo del per. giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^79-2]: Nuovo testo del per. giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 79a
 
@@ -1559,13 +1578,13 @@ Le decisioni incidentali anteriori alla decisione di chiusura possono essere imp
 
 <sup>3</sup> Si applica per analogia l’articolo 80*l* capoversi 2 e 3.
 
-[^80e-1]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80e-1]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 80f e 80g
 
 [^80f80g-1]
 
-[^80f80g-1]: Abrogati dal n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80f80g-1]: Abrogati dall’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 80h
 
@@ -1589,7 +1608,7 @@ Il ricorrente può far valere:
 
 <sup>2</sup> …[^80i-1]
 
-[^80i-1]: Abrogato dal n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80i-1]: Abrogato dall’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 80k
 
@@ -1607,8 +1626,8 @@ Il termine di ricorso contro la decisione finale è di trenta giorni o, se si tr
 
 <sup>3</sup> La Corte dei reclami penali del Tribunale penale federale può accordare l’effetto sospensivo al ricorso contro una decisione incidentale secondo il capoverso 2 se l’avente diritto rende verosimile che essa gli arreca un pregiudizio immediato e irreparabile ai sensi dell’articolo 80*e* capoverso 2.[^80l-2]
 
-[^80l-1]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^80l-2]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80l-1]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80l-2]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Sezione 4:**** Disposizioni speciali
 
@@ -1661,7 +1680,7 @@ L’autorità d’esecuzione e l’autorità di ricorso notificano le loro decis
 
 <sup>4</sup> La decisione dell’Ufficio federale può essere impugnata entro dieci giorni dalla sua comunicazione scritta con ricorso alla Corte dei reclami penali del Tribunale penale federale. La decisione della Corte dei reclami penali è definitiva.[^80p-1]
 
-[^80p-1]: Nuovo testo giusta il n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80p-1]: Nuovo testo giusta l’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 80q
 
@@ -1718,7 +1737,7 @@ A domanda e in sostituzione dello Stato in cui il reato è stato commesso la Svi
 
 Se non già altrimenti costituito, il foro svizzero è stabilito giusta l’articolo 32 CPP[^87-2].
 
-[^87-1]: Nuovo testo giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^87-1]: Nuovo testo giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^87-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 ### Sezione 2: Delega all’estero
@@ -1786,7 +1805,7 @@ Nel procedimento penale, gli atti d’istruzione eseguiti dalle autorità dello 
 <sup>3</sup> Lo Stato richiesto, se assume il perseguimento, è informato delle spese procedurali occorse in Svizzera fino a tale momento. Queste spese non sono ripetute.
 
 [^93-1]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
-[^93-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^93-2]: Nuovo testo giusta l’all. n. 2 della LF del 19 mar. 2004 sulla ripartizione dei valori patrimoniali confiscati, in vigore dal 1° ago. 2004 ([RU 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 389](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 ## Parte quinta: Esecuzione di decisioni penali
 
@@ -1925,7 +1944,7 @@ Oltre ai documenti di cui all’articolo 28 capoverso 3, alla domanda devono ess
 
 Il giudice competente secondo l’articolo 32 CPP[^105-2] informa il condannato sulla procedura, lo sente sull’affare in presenza del patrocinatore e decide dell’esecuzione.
 
-[^105-1]: Nuovo testo giusta il n. II 13 dell’all. 1 al Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^105-1]: Nuovo testo giusta l’all. n. II 13 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^105-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 106
@@ -1998,7 +2017,7 @@ Le disposizioni della presente legge nel tenore modificato il 4 ottobre 1996 si 
 
 Alle procedure di ricorso contro le decisioni di prima istanza emanate prima dell’entrata in vigore della modifica della presente legge del 17 giugno 2005 si applica il diritto anteriore.
 
-[^110b-1]: Introdotto dal n. 30 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^110b-1]: Introdotto dall’all. n. 30 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 111
 
@@ -2018,4 +2037,4 @@ Alle procedure di ricorso contro le decisioni di prima istanza emanate prima del
 
 Data dell’entrata in vigore: 1° gennaio 1983[^112-1]
 
-[^112-1]: DCF del 24 feb. 1982
+[^112-1]: DCF del 24 feb. 1982.

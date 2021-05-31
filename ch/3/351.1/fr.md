@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 1981 sur l'entraide internationale en matière
 short: EIMP
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: fr
-version: 2019-03-01
+version: 2021-06-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20190301/fr/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20190301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20190301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20190301/fr"
 
 (Loi sur l’entraide pénale internationale, EIMP)
 
-du 20 mars 1981 (Etat le 1<sup>er</sup> mars 2019)
+du 20 mars 1981 (Etat le 1<sup>er</sup> juin 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 54, al. 1, et 173, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 8 mars 1976[^ingress-3],
+vu les art. 54, al. 1, 123, al. 1, et 173, al. 2, de la Constitution[^ingress-1] [^ingress-2], vu le message du Conseil fédéral du 8 mars 1976[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. I 3 de la LF du 1<sup>er</sup> oct. 2010 sur la coordination entre la procédure d’asile et la procédure d’extradition, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 925](https://fedlex.data.admin.ch/eli/oc/2011/137); [FF 2010 1333](https://fedlex.data.admin.ch/eli/fga/2010/264)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur au 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 [^ingress-3]: [FF 1976 II 430](https://fedlex.data.admin.ch/eli/fga/1976/2_444_430_443)
 
 ## Première partie Dispositions générales
@@ -52,10 +52,29 @@ A moins que d’autres lois ou des accords internationaux n’en disposent autre
 
 <sup>3</sup> La présente loi ne s’applique qu’aux affaires pénales dans lesquelles le droit de l’Etat requérant permet de faire appel au juge.
 
-<sup>4</sup> La présente loi ne confère pas le droit d’exiger une coopération internationale en matière pénale.
+<sup>3bis</sup>
+
+A moins que d’autres lois ou des accords internationaux n’en disposent autrement, la présente loi s’applique par analogie aux procédures relatives à la coopération en matière pénale avec des tribunaux internationaux ou d’autres institutions interétatiques ou supranationales exerçant des fonctions d’autorités pénales si ces procédures concernent:
+
+- a. des infractions relevant des titres 12<sup>bis</sup>, 12<sup>ter</sup> ou 12<sup>quater</sup> du code pénal[^1-3], ou
+- b. des infractions relevant d’autres domaines du droit pénal, lorsque le tribunal ou l’institution se fonde sur une résolution des Nations Unies contraignante pour la Suisse ou soutenue par la Suisse.[^1-4]
+
+<sup>3ter</sup>
+
+Le Conseil fédéral peut arrêter dans une ordonnance que la présente loi s’applique par analogie aux procédures relatives à la coopération en matière pénale avec d’autres tribunaux internationaux ou d’autres institutions interétatiques ou supranationales exerçant des fonctions d’autorités pénales aux conditions suivantes:
+
+- a. la constitution du tribunal ou de l’institution se fonde sur une base juridique réglant expressément ses compétences en matière de droit pénal et de procédure pénale;
+- b. la procédure devant ce tribunal ou devant cette institution garantit le respect des principes de l’Etat de droit;
+- c. la coopération contribue à la sauvegarde des intérêts de la Suisse.[^1-5]
+
+<sup>4</sup> La présente loi ne confère pas le droit d’exiger une coopération en matière pénale.[^1-6]
 
 [^1-1]: Nouvelle teneur selon l’art. 59 ch. 1 de la LF du 22 juin 2001 sur la coopération avec la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1493](https://fedlex.data.admin.ch/eli/oc/2002/237); [FF 2001 359](https://fedlex.data.admin.ch/eli/fga/2001/133)).
 [^1-2]: Abrogé par le ch. I de la LF du 4 oct. 1996, avec effet au 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
+[^1-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^1-4]: Introduit par le ch. I de l’O du 18 décembre 2020, en vigueur le 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-5]: Introduit par le ch. I de l’O du 18 décembre 2020, en vigueur le 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-6]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur au 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 
 #### Art. 1a
 
