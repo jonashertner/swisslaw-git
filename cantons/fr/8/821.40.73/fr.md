@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-04-19
-valid_until: 2021-05-31
-version_adopted: 2021-04-15
+version: 2021-06-01
+valid_until: 2021-08-16
+version_adopted: 2021-06-01
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6818/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6838/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6818/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 19.04.2021)
+du 10.11.2020 (version entrée en vigueur le 01.06.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -56,7 +56,7 @@ Arrête:
 
 - a) contenir le nombre de nouvelles contaminations de coronavirus (COVID-19);
 - b) protéger la population la plus à risque;
-- c) prévenir un engorgement du système sanitaire et hospitalier;
+- c) …
 - d) prévenir la propagation du coronavirus (COVID-19) et interrompre les chaînes de transmission.
 
 #### Art. 2
@@ -69,7 +69,7 @@ Arrête:
 
 <sup>2</sup> …
 
-<sup>3</sup> Les événements et manifestations autorisés en vertu de l'article 6 de l'ordonnance fédérale COVID-19 situation particulière doivent avoir un plan de protection, agréé par le préfet, qui prévoit notamment le port du masque facial et la distance interpersonnelle en permanence entre les participants et participantes ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection et peut prévoir de collecter de manière électronique les coordonnées des participants et participantes, les conserver durant quatorze jours, puis les détruire.
+<sup>3</sup> Les événements et manifestations autorisés en vertu de l'article 6 de l'ordonnance fédérale COVID-19 situation particulière doivent avoir un plan de protection, agréé par le préfet, qui prévoit notamment le port du masque facial et la distance interpersonnelle en permanence entre les participants et participantes ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection et doit prévoir de collecter de manière électronique les coordonnées des participants et participantes lorsque cela est exigé par le droit fédéral ou cantonal, les conserver durant quatorze jours, puis les détruire.
 
 <sup>3a</sup> …
 
@@ -94,15 +94,17 @@ Arrête:
 
 **Etablissements publics**
 
-<sup>1</sup> L'exploitation de tous les établissements publics est interdite, sous réserve des exceptions et règles prévues par l'article 5a al. 2 à 4 de l'ordonnance fédérale COVID-19 situation particulière.
+<sup>1</sup> …
 
 <sup>2</sup> …
 
-<sup>3</sup> Les responsables d'établissements publics (restaurants et bars) autorisés au sens de l'article 5a al. 2 let. b, c, d et f de l'ordonnance fédérale COVID-19 situation particulière assurent une traçabilité individuelle des personnes présentes, à l'exception des enfants accompagnés de leurs parents. Ils utilisent à cet effet un système de traçage simple et sécurisé enregistrant par voie électronique, en plus des données prévues par le droit fédéral, l'heure d'entrée et l'heure de sortie de chaque personne par un point de passage unique et contrôlé. Une solution alternative est proposée pour les personnes ne disposant pas des moyens techniques permettant ce type de traçage.
+<sup>3</sup> …
 
-<sup>4</sup> Outre les règles prévues par l'ordonnance fédérale COVID-19 situation particulière, les cantines d'entreprises, des cycles d'orientation et des établissements du secondaire II sont soumises aux règles de l'alinéa 3.
+<sup>4</sup> …
 
 <sup>5</sup> Les modalités de la mise en œuvre de la collecte des données peuvent être précisées par voie d'ordonnance de la Direction de la santé et des affaires sociales ou de la Direction de la sécurité et de la justice, conformément à l'article 5 al. 2 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration.
+
+<sup>6</sup> Les indications qui se réfèrent aux établissements publics sont également valables pour les manifestations.
 
 #### Art. 3b
 
@@ -116,7 +118,7 @@ Arrête:
 
 **Etablissements de soins**
 
-<sup>1</sup> Les visites dans les établissements de soins sont strictement limitées et encadrées. Les hôpitaux et les maisons de naissance se conforment aux directives de la cellule de coordination hospitalière validées par le Service du médecin cantonal. Les autres établissements, et notamment les établissements médico-sociaux, se conforment aux directives du médecin cantonal. En présence de résidents ou résidentes testés positifs, les établissements médico-sociaux peuvent être interdits aux visites sur avis du médecin cantonal.
+<sup>1</sup> Les visites dans les établissements de soins sont adaptées selon les directives du Service du médecin cantonal. Les hôpitaux et la maison de naissance se conforment aux directives de la cellule de coordination hospitalière validées par le Service du médecin cantonal.
 
 #### Art. 5
 
@@ -206,7 +208,7 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> Les présentes mesures portent effet jusqu'au 31 mai 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
+<sup>1</sup> Les présentes mesures portent effet jusqu'au 19 août 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
 
 <sup>2</sup> Elles remplacent les mesures consignées dans l'arrêté du 3 novembre 2020, publié dans la Feuille officielle du 6 novembre 2020, concernant les mesures cantonales pour freiner la propagation du coronavirus.
 

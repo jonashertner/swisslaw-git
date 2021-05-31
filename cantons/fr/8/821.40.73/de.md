@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Verordnung über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus
 language: de
-version: 2021-04-19
-valid_until: 2021-05-31
-version_adopted: 2021-04-15
+version: 2021-06-01
+valid_until: 2021-08-16
+version_adopted: 2021-06-01
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/de/versions/6818/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6838/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6818/pdf_file"
 
 COVID-19, kantonale Massnahmen – V
 
-vom 10.11.2020 (Fassung in Kraft getreten am 19.04.2021)
+vom 10.11.2020 (Fassung in Kraft getreten am 01.06.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -56,7 +56,7 @@ beschliesst:
 
 - a) die Zahl der Neuansteckungen mit dem Coronavirus (COVID-19) zu begrenzen;
 - b) den am stärksten gefährdeten Teil der Bevölkerung zu schützen;
-- c) eine Überlastung des Gesundheitssystems zu verhindern;
+- c) …
 - d) die Ausbreitung des Coronavirus (COVID-19) zu verhindern und die Übertragungsketten zu unterbrechen.
 
 #### Art. 2
@@ -69,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die gemäss Artikel 6 der COVID-19-Verordnung besondere Lage des Bundes erlaubten Veranstaltungen müssen über ein von der Oberamtsperson genehmigtes Schutzkonzept verfügen, das namentlich das ständige Tragen einer Gesichtsmaske, die durchgehende Einhaltung des Abstands zwischen den Teilnehmenden und die obligatorische Händedesinfektion vorsieht. Die Organisatorin oder der Organisator stellt die Ausarbeitung und Umsetzung des Schutzkonzepts sicher und kann vorsehen, die Kontaktdaten der Teilnehmenden elektronisch zu erfassen, sie 14 Tage aufzubewahren und sie dann zu vernichten.
+<sup>3</sup> Die gemäss Artikel 6 der COVID-19-Verordnung besondere Lage des Bundes erlaubten Veranstaltungen müssen über ein von der Oberamtsperson genehmigtes Schutzkonzept verfügen, das namentlich das ständige Tragen einer Gesichtsmaske, die durchgehende Einhaltung des Abstands zwischen den Teilnehmenden und die obligatorische Händedesinfektion vorsieht. Die Organisatorin oder der Organisator stellt die Ausarbeitung und Umsetzung des Schutzkonzepts sicher und sorgt für die elektronische Erfassung der Kontaktdaten der Teilnehmenden, wenn es das Bundesrecht oder das kantonale Recht verlangt; er oder sie bewahrt die Daten 14 Tage auf und vernichtet sie dann.
 
 <sup>3a</sup> …
 
@@ -94,15 +94,17 @@ beschliesst:
 
 **Öffentliche Gaststätten**
 
-<sup>1</sup> Der Betrieb von öffentlichen Gaststätten ist verboten; die Ausnahmen und Vorschriften gemäss Artikel 5a Abs. 2–4 der COVID-19-Verordnung besondere Lage des Bundes bleiben vorbehalten.
+<sup>1</sup> …
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Verantwortlichen der nach Artikel 5a Abs. 2 Bst. b, c, d und f der COVID-19-Verordnung besondere Lage des Bundes autorisierten öffentlichen Gaststätten (Restaurants und Bars) sorgen für eine individuelle Rückverfolgbarkeit der Anwesenden; davon ausgenommen sind Kinder in Begleitung ihrer Eltern. Zu diesem Zweck verwenden sie ein einfaches und sicheres Tracing-System, das an einem einzigen, kontrollierten Durchgang zusätzlich zu den im Bundesrecht vorgesehenen Daten für jede Person die Zeit des Ein- und des Austritts elektronisch erfasst. Für Personen, die nicht über die technischen Mittel für diese Art der Rückverfolgung verfügen, wird eine Alternativlösung angeboten.
+<sup>3</sup> …
 
-<sup>4</sup> Für Kantinen von Unternehmen, Orientierungsschulen und Bildungseinrichtungen der Sekundarstufe II gelten zusätzlich zu den Vorschriften gemäss der COVID-19-Verordnung besondere Lage des Bundes die Regeln nach Absatz 3.
+<sup>4</sup> …
 
 <sup>5</sup> Die Einzelheiten für die Umsetzung der Datenerhebung können gemäss Artikel 5 Abs. 2 des Gesetzes über die Organisation des Staatsrates und der Verwaltung vom 16. Oktober 2001 von der Direktion für Gesundheit und Soziales oder von der Sicherheits- und Justizdirektion auf dem Verordnungsweg ausgeführt werden.
+
+<sup>6</sup> Die Vorgaben für öffentliche Gaststätten gelten auch für Veranstaltungen.
 
 #### Art. 3b
 
@@ -116,7 +118,7 @@ beschliesst:
 
 **Einrichtungen des Gesundheitswesens**
 
-<sup>1</sup> In Gesundheitseinrichtungen sind Besuche strikt eingeschränkt und geregelt. Die Spitäler und Geburtshäuser halten sich an die vom Kantonsarztamt genehmigten Richtlinien der Spitalkoordinierungsstelle. Die übrigen Einrichtungen und insbesondere die Pflegeheime halten sich an die Richtlinien des Kantonsarztes. Werden in einem Pflegeheim Bewohnerinnen oder Bewohner positiv getestet, so kann das Pflegeheim auf Anweisung des Kantonsarztes für Besuche geschlossen werden.
+<sup>1</sup> Besuche in Gesundheitseinrichtungen werden gemäss den Richtlinien des Kantonsarztamtes angepasst. Die Spitäler und das Geburtshaus halten sich an die vom Kantonsarztamt genehmigten Richtlinien der Spitalkoordinierungsstelle.
 
 #### Art. 5
 
@@ -206,7 +208,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Massnahmen gelten bis 31. Mai 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
+<sup>1</sup> Diese Massnahmen gelten bis 19. August 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
 
 <sup>2</sup> Sie ersetzen die Massnahmen gemäss Beschluss vom 3. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus, der im Amtsblatt vom 6. November 2020 veröffentlicht wurde.
 
