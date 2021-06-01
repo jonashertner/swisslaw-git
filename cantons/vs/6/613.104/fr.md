@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "613.104"
-title: Arrêté fixant les montants de la péréquation financière intercommunale 2021
+title: Arrêté fixant les montants de la péréquation financière intercommunale 2022
 language: fr
-version: 2020-06-10
-valid_until: 2021-06-01
-version_adopted: 2020-06-10
+version: 2021-06-02
+valid_until: 2022-06-07
+version_adopted: 2021-06-02
 adopted: 2026-06-10
 in_force: 2026-06-30
 url: "https://lex.vs.ch/app/fr/texts_of_law/613.104"
-pdf: "https://lex.vs.ch/api/fr/versions/2667/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2909/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté fixant les montants de la péréquation financière intercommunale 2021
+# Arrêté fixant les montants de la péréquation financière intercommunale 2022
 
-du 10.06.2020 (état 10.06.2020)
+du 02.06.2021 (état 02.06.2021)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -44,19 +44,19 @@ arrête:
 
 **Montant de la péréquation horizontale des ressources**
 
-<sup>1</sup> La somme à répartir par les communes à fort potentiel de ressources au titre de la péréquation horizontale est fixée à 27'038'401 francs.
+<sup>1</sup> La somme à répartir par les communes à fort potentiel de ressources au titre de la péréquation horizontale est fixée à 27'385'737 francs.
 
 #### Art. 4
 
 **Montant de la péréquation verticale des ressources**
 
-<sup>1</sup> La somme à répartir par le canton au titre de la péréquation verticale est fixée à 18'025'600 francs.
+<sup>1</sup> La somme à répartir par le canton au titre de la péréquation verticale est fixée à 18'257'159 francs.
 
 #### Art. 5
 
 **Objectif minimal de potentiel de ressources**
 
-<sup>1</sup> L’objectif minimal de potentiel de ressources, après addition des versements des péréquations horizontale et verticale des ressources, est fixé à 84,2 pour cent.
+<sup>1</sup> L’objectif minimal de potentiel de ressources, après addition des versements des péréquations horizontale et verticale des ressources, est fixé à 84,0 pour cent.
 
 #### Art. 6
 
@@ -80,7 +80,7 @@ arrête:
 
 **Montant de la compensation des charges**
 
-<sup>1</sup> La somme à répartir au titre de la compensation des charges est fixée à 20'278'800 francs.
+<sup>1</sup> La somme à répartir au titre de la compensation des charges est fixée à 20'539'302 francs.
 
 #### Art. 10
 
@@ -94,8 +94,14 @@ arrête:
 
 <sup>1</sup> Si une commune est contributrice à la péréquation des ressources et bénéficiaire de la compensation des charges et/ou de la compensation pour les cas de rigueur, seul le montant net total lui sera facturé ou versé.
 
-<sup>2</sup> Les factures (en net) seront envoyées aux communes contributrices pour le 30 octobre 2021 au plus tard avec échéance de paiement à 30 jours.
+<sup>2</sup> Les factures (en net) seront envoyées aux communes contributrices pour le 30 octobre 2022 au plus tard avec échéance de paiement à 30 jours.
 
-<sup>3</sup> Les versements (en net) aux communes bénéficiaires seront effectués pour le 30 novembre 2021 au plus tard.
+<sup>3</sup> Les versements (en net) aux communes bénéficiaires seront effectués pour le 30 novembre 2022 au plus tard.
 
-RCV RO/AGS 2020-044
+#### Art. 12
+
+**Disposition finale**
+
+<sup>1</sup> Cet arrêté, en tant qu’il contient des données individuelles des communes, a simple valeur indicative et ne peut faire l’objet de recours.
+
+RCV RO/AGS 2021-073

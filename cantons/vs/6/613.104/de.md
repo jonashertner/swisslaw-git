@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "613.104"
-title: Beschluss betreffend den interkommunalem Finanzausgleich 2021
+title: Beschluss betreffend den interkommunalen Finanzausgleich 2022
 language: de
-version: 2020-06-10
-valid_until: 2021-06-01
-version_adopted: 2020-06-10
+version: 2021-06-02
+valid_until: 2022-06-07
+version_adopted: 2021-06-02
 adopted: 2026-06-10
 in_force: 2026-06-30
 url: "https://lex.vs.ch/app/de/texts_of_law/613.104"
-pdf: "https://lex.vs.ch/api/de/versions/2667/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2909/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss betreffend den interkommunalem Finanzausgleich 2021
+# Beschluss betreffend den interkommunalen Finanzausgleich 2022
 
-vom 10.06.2020 (Stand 10.06.2020)
+vom 02.06.2021 (Stand 02.06.2021)
 
 Der Staatsrat des Kantons Wallis
 
@@ -44,19 +44,19 @@ beschliesst:
 
 **Betrag des horizontalen Ressourcenausgleichs**
 
-<sup>1</sup> Die von den ressourcenstarken Gemeinden im Rahmen des horizontalen Ressourcenausgleichs zu verteilende Summe wird auf 27'038'401 Franken festgelegt.
+<sup>1</sup> Die von den ressourcenstarken Gemeinden im Rahmen des horizontalen Ressourcenausgleichs zu verteilende Summe wird auf 27'385'737 Franken festgelegt.
 
 #### Art. 4
 
 **Betrag des vertikalen Ressourcenausgleichs**
 
-<sup>1</sup> Die vom Kanton im Rahmen des vertikalen Ressourcenausgleichs zu verteilende Summe wird auf 18'025'600 Franken festgelegt.
+<sup>1</sup> Die vom Kanton im Rahmen des vertikalen Ressourcenausgleichs zu verteilende Summe wird auf 18'257'159 Franken festgelegt.
 
 #### Art. 5
 
 **Mindestziel des Ressourcenausgleichs**
 
-<sup>1</sup> Das Mindestziel des Ressourcenausgleichs nach Addition der Beträge aus dem horizontalen und vertikalen Ressourcenausgleich wird auf 84,2 Prozent festgelegt.
+<sup>1</sup> Das Mindestziel des Ressourcenausgleichs nach Addition der Beträge aus dem horizontalen und vertikalen Ressourcenausgleich wird auf 84,0 Prozent festgelegt.
 
 #### Art. 6
 
@@ -80,7 +80,7 @@ beschliesst:
 
 **Betrag aus dem Lastenausgleich**
 
-<sup>1</sup> Die im Rahmen des Lastenausgleichs zu verteilende Summe wird auf 20'278'800 Franken festgelegt.
+<sup>1</sup> Die im Rahmen des Lastenausgleichs zu verteilende Summe wird auf 20'539'302 Franken festgelegt.
 
 #### Art. 10
 
@@ -94,8 +94,14 @@ beschliesst:
 
 <sup>1</sup> Falls eine Gemeinde beim Ressourcenausgleich beitragspflichtig und aus dem Lastenausgleich und/oder dem Härteausgleichsfonds begünstigt ist, wird ihr nur der Nettobetrag in Rechnung gestellt oder vergütet.
 
-<sup>2</sup> Der Rechnungsbetrag (netto) wird den beitragspflichtigen Gemeinden bis spätestens am 30. Oktober 2021 mit einer Zahlungsfrist von 30 Tagen zugestellt.
+<sup>2</sup> Der Rechnungsbetrag (netto) wird den beitragspflichtigen Gemeinden bis spätestens am 30. Oktober 2022 mit einer Zahlungsfrist von 30 Tagen zugestellt.
 
-<sup>3</sup> Die Überweisung (netto) an die begünstigten Gemeinden wird bis spätestens am 30. November 2021 erfolgen.
+<sup>3</sup> Die Überweisung (netto) an die begünstigten Gemeinden wird bis spätestens am 30. November 2022 erfolgen.
 
-CSW RO/AGS 2020-044
+#### Art. 12
+
+**Schlussbestimmung**
+
+<sup>1</sup> Dieser Beschluss, der individuelle Daten der Gemeinden enthält, hat einen rein informativen Wert und kann nicht angefochten werden.
+
+CSW RO/AGS 2021-073
