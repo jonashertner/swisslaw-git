@@ -4,11 +4,11 @@ title: Ordinanza sulla protezione civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: it
-version: 2021-01-22
+version: 2021-06-02
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210122/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210122-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210602/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210602-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210122/it"
 
 (OPCi)
 
-dell’11 novembre 2020 (Stato 22 gennaio 2021) (Stato 22 gennaio 2021)
+dell’11 novembre 2020 (Stato 2 giugno 2021) (Stato 2 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1419,11 +1419,13 @@ Allegato 1
 <tr><td>Recluta</td><td>4.–</td></tr>
 </table>
 
-Allegato 2
+Allegato 2*[^t-1]*
 
 (art. 62 e 112 cpv. 2)
 
 ## Ripartizione, condizioni d’ammissione, servizi d’istruzione da adempiere, competenze e durata dell’istruzione dei quadri
+
+[^t-1]: La correzione del 2 giu. 2021 concerne soltanto il testo francese ([RU 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
 
 ### 1. Condotta
 

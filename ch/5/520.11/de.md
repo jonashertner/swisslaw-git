@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2020 über den Zivilschutz (Zivilschutzveror
 short: ZSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: de
-version: 2021-01-22
+version: 2021-06-02
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210122/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210122-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210602/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210602-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210122/de"
 
 (Zivilschutzverordnung, ZSV)
 
-vom 11. November 2020 (Stand am 22. Januar 2021)
+vom 11. November 2020 (Stand am 2. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1421,11 +1421,13 @@ Anhang 1
 <tr><td>Rekrut</td><td>4.–</td></tr>
 </table>
 
-Anhang 2
+Anhang 2*[^t-1]*
 
 (Art. 62 und 112 Abs. 2)
 
 ## Aufteilung, Zulassungsbedingungen, zu bestehende Ausbildungsdienste, Zuständigkeiten und Dauer der Kaderausbildung
+
+[^t-1]: Die Berichtigung vom 2. Juni 2021 betrifft nur den französischen Text ([AS 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
 
 ### 1. Führung
 

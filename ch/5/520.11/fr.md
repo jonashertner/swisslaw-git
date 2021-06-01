@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: fr
-version: 2021-01-22
+version: 2021-06-02
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210122/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210122-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210602/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210602-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210602/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210122/fr"
 
 (OPCi)
 
-du 11 novembre 2020 (Etat le 22 janvier 2021)
+du 11 novembre 2020 (Etat le 2 juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -1417,11 +1417,13 @@ Annexe 1
 <tr><td>Recrue</td><td>4.–</td></tr>
 </table>
 
-Annexe 2
+Annexe 2*[^t-1]*
 
 (art. 62 et 112, al. 2)
 
 ## Répartition, conditions d’admission, services d’instruction à accomplir, compétences et durée de l’instruction des cadres
+
+[^t-1]: Erratum du 2 juin 2021 ([RO 2021 320](https://fedlex.data.admin.ch/eli/oc/2021/320)).
 
 ### 1. Conduite
 
@@ -1481,9 +1483,9 @@ Annexe 2
 <tr><td>Sous-officier d’infrastructure</td><td>Sof infra</td><td>Préposé à l’infrastructure</td><td>CC C gr infra Service pratique</td><td colspan="2">Canton Canton</td><td>5 à 12 5 à 7</td><td></td></tr>
 <tr><td>Sous-officier du matériel</td><td>Sof mat</td><td>Préposé au matériel</td><td>CC C gr mat Service pratique</td><td colspan="2">Canton Canton</td><td>5 à 12 5 à 7</td><td></td></tr>
 <tr><td>Sous-officier des transports</td><td>Sof trsp</td><td>Chauffeur</td><td>CC C gr trsp Service pratique</td><td colspan="2">Canton Canton</td><td>5 à 12 5 à 7</td><td></td></tr>
-<tr><td>Sergent-major</td><td>Sgtm</td><td>Sof infra, sof mat, sof trsp</td><td>CC sgtm Service pratique</td><td colspan="2">Canton Canton</td><td>5 à 12 5 à 7</td><td>Sergent-major</td></tr>
-<tr><td>Fourrier</td><td>Four</td><td>Ordonnance de bureau</td><td>CC four Service pratique</td><td colspan="2">Canton Canton</td><td>5 à 12 5 à 7</td><td>Fourrier</td></tr>
-<tr><td>Officier de la logistique</td><td>Of log</td><td>Sgtm, four, sof cuis, sof infra, sof mat, sof trsp</td><td>CC cond sct CCT C sct log Service pratique</td><td colspan="2">OFPP Canton Canton</td><td>5 5 5 à 9</td><td>Chef de section</td></tr>
+<tr><td>Sergent-major</td><td>Sgtm</td><td>Sof (C gr)</td><td>CC sgtm Service pratique</td><td colspan="2">Canton Canton</td><td>5 à 12 5 à 7</td><td>Sergent-major</td></tr>
+<tr><td>Fourrier</td><td>Four</td><td>Sof (C gr) Ordonnance de bureau</td><td>CC four Service pratique</td><td colspan="2">Canton Canton</td><td>5 à 12 5 à 7</td><td>Fourrier</td></tr>
+<tr><td>Officier de la logistique</td><td>Of log</td><td>Sgtm, four, sof (C gr)</td><td>CC cond sct CCT C sct log Service pratique</td><td colspan="2">OFPP Canton Canton</td><td>5 5 5 à 9</td><td>Chef de section</td></tr>
 <tr><td>Chef du service de la logistique</td><td>CS log</td><td>Of log</td><td>CC CS log CC cond bat</td><td colspan="2">OFPP OFPP</td><td>5 à 7 5 à 7</td><td>Aide de commandement à l’échelon du bataillon</td></tr>
 </table>
 
