@@ -3,20 +3,20 @@ canton: SG
 number: "313.2"
 title: Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 language: de
-version: 2021-06-01
-valid_until: 2021-06-01
-version_adopted: 2021-05-11
+version: 2021-06-02
+valid_until: 2021-06-29
+version_adopted: 2021-06-01
 adopted: 2021-06-29
 in_force: 2021-06-30
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/313.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3164/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3168/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 
-vom 12.12.2020 (Stand 01.06.2021)
+vom 12.12.2020 (Stand 02.06.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -49,10 +49,19 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Gesundheitsdepartement bewilligt:
 
-- a) den Betrieb eines Skigebiets;
-- b) Erleichterungen nach Art. 7 der Covid-19-Verordnung besondere Lage.
+- a) …
+- b) Erleichterungen nach Art. 7 der Covid-19-Verordnung besondere Lage;
+- c) Grossveranstaltungen, Pilotprojekte zur Durchführung von Grossveranstaltungen sowie Fach- und Publikumsmessen nach Art. 6a, Art. 6b<sup>quater</sup> und Art. 6b<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage;
+- d) Erleichterungen und Ausnahmen von der Test- und Quarantänepflicht nach Art. 8 Abs. 4 der eidgenössischen Verordnung über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs vom 27. Januar 2021[^3-1].
 
-<sup>2</sup> Es kann der politischen Gemeinde Weisungen für den Vollzug der Covid-19-Verordnung besondere Lage erteilen.
+<sup>1<sup>bis</sup></sup> Das Bewilligungsgesuch für eine Grossveranstaltung, für ein Pilotprojekt zur Durchführung einer Grossveranstaltung oder für eine Fach- und Publikumsmesse kann eingereicht werden:
+
+- a) beim Gesundheitsdepartement;
+- b) bei der zuständigen politischen Gemeinde, wenn für die Veranstaltung auch kommunale Bewilligungen erforderlich sind. Die politische Gemeinde leitet das Bewilligungsgesuch unverzüglich dem Gesundheitsdepartement weiter.
+
+<sup>2</sup> Das Gesundheitsdepartement kann der politischen Gemeinde Weisungen für den Vollzug der Covid-19-Verordnung besondere Lage erteilen.
+
+[^3-1]: SR [818.101.27](https://db.clex.ch/link/Bund/818.101.27/de).
 
 #### Art. 4
 
@@ -80,11 +89,10 @@ als Verordnung:[^ingress-2]
 - a) stationären Einrichtungen zur Betreuung und Pflege von Betagten nach [Art. 33](https://www.gesetzessammlung.sg.ch/data/381.1/de/art33) Abs. 1 Satz 2 des Sozialhilfegesetzes vom 27. September 1998[^5-1];
 - b) Einrichtungen zur dauernden Betreuung oder Beschäftigung von volljährigen Menschen mit Behinderung nach [Art. 8](https://www.gesetzessammlung.sg.ch/data/381.4/de/art8) des Gesetzes über die soziale Sicherung und Integration von Menschen mit Behinderung vom 7. August 2012[^5-2].
 
-<sup>2</sup> Es beaufsichtigt die Umsetzung der Besuchsregelung nach Art. 10 dieses Erlasses in stationären Einrichtungen zur Betreuung und Pflege von Betagten nach [Art. 33](https://www.gesetzessammlung.sg.ch/data/381.1/de/art33) Abs. 1 Satz 2 des Sozialhilfegesetzes vom 27. September 1998[^5-3].
+<sup>2</sup> …
 
 [^5-1]: sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
 [^5-2]: sGS [381.4](https://www.gesetzessammlung.sg.ch/data/381.4/de).
-[^5-3]: sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
 
 #### Art. 6
 
@@ -92,19 +100,17 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Kantonsarztamt kontrolliert das Vorhandensein eines ausreichenden Schutzkonzepts und dessen Umsetzung in Gesundheitseinrichtungen und Praxen und Einrichtungen von Gesundheitsfachpersonen.
 
-<sup>2</sup> Es beaufsichtigt die Umsetzung der Besuchsregelung nach Art. 11 dieses Erlasses.
+<sup>2</sup> …
+
+<sup>3</sup> Es genehmigt Konzepte für gezielte und repetitive Tests nach Art. 6d Abs. 2 Bst. c der Covid-19-Verordnung besondere Lage im Hochschulbereich sowie betreffend Anbieterinnen und Anbieter der höheren Berufsbildung und der Weiterbildung.
 
 #### Art. 7
 
-**Amt für Militär und Zivilschutz**
-
-<sup>1</sup> Das Amt für Militär und Zivilschutz kontrolliert die Umsetzung der Schutzkonzepte von Skigebieten im Bereich der Beförderungsanlagen einschliesslich der Zugangs- und Wartebereiche sowie der Skipisten, Schlittelwege und anderen Schneesportanlagen.
+**…**
 
 #### Art. 8
 
-**Polizeikräfte**
-
-<sup>1</sup> Die Polizeikräfte kontrollieren in Wintersportorten und Skigebieten, ob die Abstandsvorschriften im Bereich von Haltestellen des öffentlichen Verkehrs und bei Parkplätzen sowie auf den Zugangswegen zu den Beförderungsanlagen eingehalten werden.
+**…**
 
 #### Art. 9
 
@@ -136,13 +142,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 14
 
-**Quarantäne**
-
-<sup>1</sup> Wer positiv auf eine Infektion mit dem Coronavirus getestet wird, benachrichtigt unverzüglich alle Personen, mit der sie oder er in den letzten 48 Stunden vor dem Test engen Kontakt[^14-1] hatte. Hat die positiv getestete Person bereits vor dem Test Symptome aufgewiesen, werden die 48 Stunden vom Auftreten der ersten Symptome an zurückgerechnet.
-
-<sup>2</sup> Die benachrichtigte Person begibt sich unverzüglich für zehn Tage in Quarantäne.
-
-[^14-1]: Gemäss der Definition auf der Webseite des Bundesamtes für Gesundheit, abrufbar unter [https://www.bag.admin.ch](https://www.bag.admin.ch).
+**…**
 
 #### Art. 15
 
