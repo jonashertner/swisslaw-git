@@ -3,24 +3,24 @@ sr: "0.101.2"
 title: "Règlement de la Cour européenne des droits de l'homme du 4 novembre 1998"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/596"
 language: fr
-version: 2020-01-01
+version: 2021-06-02
 adopted: 1998-11-04
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/596/20210602/fr/xml/fedlex-data-admin-ch-eli-cc-2006-596-20210602-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/596/20210602/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Règlement de la Cour européenne des droits de l’homme****
+# Règlement de la Cour européenne des droits de l’homme
 
 RO **2006** 3961[^t-1]
 
 Texte original
 
-du 4 novembre 1998 (Etat le 1<sup>er</sup> janvier 2020)
+du 4 novembre 1998 (Etat le 2 juin 2021)
 
-[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8)[2489](https://fedlex.data.admin.ch/eli/oc/2019/465)[4281](https://fedlex.data.admin.ch/eli/oc/2019/738), [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: www.echr.coe.int.
+[^t-1]: Cette nouvelle version inclut les Am. adoptés par la Cour et mentionnés en note de bas de page à l’art. 117 ([RO 2019 35](https://fedlex.data.admin.ch/eli/oc/2019/8), [2489](https://fedlex.data.admin.ch/eli/oc/2019/465), [4281](https://fedlex.data.admin.ch/eli/oc/2019/738); [2020 429](https://fedlex.data.admin.ch/eli/oc/2020/72); [2022 223](https://fedlex.data.admin.ch/eli/oc/2022/223)). Les annexes ne sont pas publiées au RO; les textes en français peuvent être consultés sur le site Internet de la Cour: www.echr.coe.int.
 
 La Cour européenne des droits de l’homme,
 
@@ -137,6 +137,8 @@ Un juge ne peut être relevé de ses fonctions que si les autres juges, réunis 
 <sup>4.</sup> Les présidents et vice-présidents continuent d’exercer leurs fonctions jusqu’à l’élection de leurs successeurs.
 
 <sup>5.</sup> Les élections visées au par. 1 du présent article ont lieu au scrutin secret; seuls y participent les juges élus présents. Si aucun candidat ne réunit la majorité absolue des suffrages exprimés, il est procédé à un ou plusieurs tours additionnels de scrutin jusqu’à ce qu’un candidat ait réuni la majorité absolue. À l’issue de chaque tour, tout candidat ayant recueilli moins de cinq voix sera éliminé. Si plus de deux candidats ayant obtenu au moins cinq voix restent encore en lice, celui ayant recueilli le plus petit nombre de voix sera également éliminé. Si plus d’un candidat se trouve dans cette situation, seul est éliminé le candidat qui vient en dernier dans l’ordre de préséance selon l’art. 5 du présent règlement. En cas de partage des voix entre deux candidats lors du tour de scrutin final, préférence est donnée au juge qui a la préséance selon le même art. 5.
+
+<sup>6.</sup> Les règles fixées au paragraphe précédent s’appliquent aux élections visées au par. 2 de cet article. Cependant, lorsque plus d’un tour de scrutin est nécessaire pour que l’un des candidats réunisse la majorité requise, seul le candidat ayant recueilli le plus petit nombre de voix est éliminé à l’issue de chaque tour de scrutin.
 
 #### Art. 9
 
@@ -1474,4 +1476,4 @@ L’application de toute disposition concernant le fonctionnement interne de la 
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> novembre 1998.
 
-[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020.
+[^117-1]: Les Am. adoptés le 8 déc. 2000 sont entrés en vigueur immédiatement. Les Am. adoptés les 17 juin et 8 juil. 2002 sont entrés en vigueur le 1<sup>er</sup> oct. 2002. Les Am. adoptés le 7 juil. 2003 sont entrés en vigueur le 1<sup>er</sup> nov. 2003. Les Am. adoptés le 13 déc. 2004 sont entrés en vigueur le 1<sup>er</sup> mars 2005. Les Am. adoptés le 4 juil. 2005 sont entrés en vigueur le 3 oct. 2005. Les Am. adoptés le 7 nov. 2005 sont entrés en vigueur le 1<sup>er</sup> déc. 2005. Les Am. adoptés le 29 mai 2006 sont entrés en vigueur le 1<sup>er</sup> juil. 2006. Les Am. adoptés le 14 mai 2007 sont entrés en vigueur le 1<sup>er</sup> juil. 2007. Les Am. adoptés le 11 déc. 2007, les 22 sept. et 1<sup>er</sup> déc. 2008 sont entrés en vigueur le 1<sup>er</sup> janv. 2009. Les Am. adoptés le 29 juin 2009 sont entrés en vigueur le 1<sup>er</sup> juil. 2009. Les Am. adoptés le 16 nov. 2009 sont entrés en vigueur le 1<sup>er</sup> déc. 2009. Les Am. relatifs au Protocole n<sup>o</sup> 14 à la Convention, adoptés les 13 nov. 2006 et 14 mai 2007, sont entrés en vigueur le 1<sup>er</sup> juin 2010. Les Am. adoptés le 21 fév. 2011 sont entrés en vigueur le 1<sup>er</sup> avr. 2011. Les Am. adoptés le 16 jan. 2012 sont entrés en vigueur le 1<sup>er</sup> fév. 2012. Les Am. adoptés le 20 fév. 2012 sont entrés en vigueur le 1<sup>er</sup> mai 2012. Les Am. adoptés le 2 avr. 2012 sont entrés en vigueur le 1<sup>er</sup> sep. 2012. Les Am. adoptés les 14 jan. et 6 fév. 2013 sont entrés en vigueur le 1<sup>er</sup> mai 2013. Les Am. adoptés le 6 mai 2013 sont entrés en vigueur les 1<sup>er</sup> juil. 2013 et 1<sup>er</sup> jan. 2014. Les Am. adoptés les 14 avr. et 23 juin 2014 sont entrés en vigueur le 1<sup>er</sup> juil. 2014. Certains Am. adoptés le 1<sup>er</sup> juin 2015 sont entrés immédiatement en vigueur. Les Am. à l’Art. 47 adoptés les 1<sup>er</sup> juin et 5 oct. 2015 sont entrés en vigueur le 1<sup>er</sup> jan. 2016. Les Am. à l’Art. 8 adoptés le 19 sep. 2016 sont entrés en vigueur à la même date. Les Am. adoptés le 14 nov. 2016 sont entrés en vigueur à la même date. Les Am. à l’Art. 29 adoptés le 16 avr. 2018 sont entrés en vigueur à la même date. Les Am. adoptés le 19 sep. 2016 sont entrés en vigueur le 1<sup>er</sup> août 2018. L’Am. à l’Art. 29 § 1 adopté le 3 juin 2019 est entré en vigueur à la même date. Les Am. aux Art. 27*a* et 52*a* adoptés le 9 septembre 2019 sont entrés en vigueur à la même date. Les Am. adoptés le 4 novembre 2019 sont entrés en vigueur le 1<sup>er</sup> janvier 2020. Les Am. à l’art. 8 qui ont été adoptés le 2 juin 2021 sont entrés en vigueur à la même date.
