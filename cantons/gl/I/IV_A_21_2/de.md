@@ -3,20 +3,20 @@ canton: GL
 number: IV A/21/2
 title: Geschäftsreglement der Synode
 language: de
-version: 2015-05-28
-valid_until: 2021-06-02
-version_adopted: 2015-05-28
+version: 2021-06-03
+valid_until: 2023-11-15
+version_adopted: 2021-06-03
 adopted: 1995-11-09
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.21.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2509/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2510/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement der Synode
 
-Vom 09.11.1995 (Stand 28.05.2015)
+Vom 09.11.1995 (Stand 03.06.2021)
 
 (Beschlossen an der Synode vom 9. November 1995)
 
@@ -77,6 +77,12 @@ Dient einander als gute Verwalter der vielfältigen Gnade Gottes, jedes mit der 
 <sup>1</sup> Die Verhandlungen der Synode sind in der Regel öffentlich.
 
 <sup>2</sup> Aus wichtigen Gründen kann die Synode geheime Verhandlungen beschliessen. Der Entscheid darüber hat unter Ausschluss der Oeffentlichkeit zu erfolgen.
+
+#### Art. 6a
+
+**Ausserordentliche Situationen**
+
+<sup>1</sup> In ausserordentlichen Situationen entscheidet das Büro der Synode, wie diese durchgeführt wird. Es kann insbesondere briefliche Abstimmungen oder Wahlen anordnen sowie beschliessen, die Synode ganz oder teilweise auf elektronischem Weg durchzuführen.
 
 ## 2. Organisation
 
