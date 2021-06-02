@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-05-31
+version: 2021-06-03
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210531/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210531-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210603/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210603-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210603/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 31 maggio 2021) (Stato 31 maggio 2021)
+del 27 gennaio 2021 (Stato 3 giugno 2021) (Stato 3 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -322,13 +322,13 @@ La presente ordinanza entra in vigore l’8 febbraio 2021.
 
 Allegato 1*[^t-1]*
 
-(art. 2 cpv. 2, 3 cpv. 4, 8 cpv. 1<sup>ter</sup> e 9*b* cpv. 1)
+(art. 2 cpv. 2, 3 cpv. 4, 7 cpv. 4, 8 cpv. 1<sup>ter</sup>, 9*a* cpv. 6 e 9*b* cpv. 1)
 
 ## Elenchi degli Stati e delle regioni con rischio elevato di contagio****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 19 mag. 2021 ([RU 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Aggiornato dal n. I dell’O del DFI del 27 mag. 2021 ([RU 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)) e dal n. II cpv. 1 dell’O del 26 mag. 2021 (Agevolazioni per persone vaccinate e guarite), in vigore dal 31 mag. 2021 ([RU 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 2 giu. 2021, in vigore dal 3 giu. 2021 ([RU 2021 318](https://fedlex.data.admin.ch/eli/oc/2021/318)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni (art. 2 cpv. 1 lett. b–d)
@@ -345,13 +345,9 @@ Capo Verde
 
 Cile
 
-Cipro
-
 Colombia
 
 Costa Rica
-
-Croazia
 
 Egitto
 
@@ -359,15 +355,11 @@ Estonia
 
 Georgia
 
-Iran
-
 Kuwait
 
 Lettonia
 
 Lituania
-
-Lussemburgo
 
 Maldive
 
@@ -387,11 +379,9 @@ Svezia
 
 Tanzania
 
-Turchia
-
 Uruguay
 
-### 2. Stati e regioni con una mutazione del SARS-CoV-2, che presenta un rischio maggiore di infezione o di decorso grave della malattia (art. 2 cpv. 1 lett. a)
+### 2. Stati e regioni con una mutazione del SARS-CoV-2 che presenta un rischio maggiore di infezione o di decorso grave della malattia (art. 2 cpv. 1 lett. a)
 
 Brasile
 
@@ -407,25 +397,13 @@ Sudafrica
 
 ### 3. Regioni degli Stati limitrofi (art. 2 cpv. 1 lett. b–d e cpv. 4)
 
-Regioni in Germania:
-
-- – Land Sassonia
-- – Land Turingia
-
 Regioni in Francia:
 
 - – Regione Alta Francia
 - – Regione Centro-Valle della Loira
 - – Regione Isola di Francia
 - – Regione Normandia
-- – Regione Occitania
 - – Regione Paesi della Loira
-- – Regione Provenza-Alpi-Costa Azzurra
-
-Regioni in Italia:
-
-- – Regione Campania
-- – Regione Puglia
 
 Allegato 1a*[^t-2]*
 

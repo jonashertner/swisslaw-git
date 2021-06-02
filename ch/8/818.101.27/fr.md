@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-05-31
+version: 2021-06-03
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210531/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210531-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210603/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210603-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210603/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 31 mai 2021)
+du 27 janvier 2021 (Etat le 3 juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -228,7 +228,7 @@ Sont exemptées de l’obligation de test et de quarantaine visée à l’art. 7
 
 Toute personne obligée de se mettre en quarantaine-voyage en vertu de la présente ordonnance doit déclarer son entrée en Suisse à l’autorité cantonale compétente dans un délai de 2 jours et suivre ses instructions.
 
-## Section 4*a* Obligations particulières des entreprises de transport aérien
+## Section 4*a***** Obligations particulières des entreprises de transport aérien
 
 [^sec4a-1]
 
@@ -275,7 +275,7 @@ Elles peuvent transporter les passagers suivants en l’absence d’un résultat
 [^9a-3]: Introduite par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 [^9a-4]: Introduit par le ch. I de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
 
-## Section 4*b* Mise à jour des annexes
+## Section 4*b***** Mise à jour des annexes
 
 [^sec4b-1]
 
@@ -324,11 +324,11 @@ Annexe 1*[^t-1]*
 
 (art. 2, al. 2, 3, al. 4, 8, al. 1<sup>ter</sup>, et 9*b*, al. 1)
 
-## Liste des États et zones présentant un risque élevé d’infection
+## Liste des États et zones présentant un risque élevé d’infection****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 mai 2021 ([RO 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Mise à jour par le ch. I de l’O du DFI du 27 mai 2021 ([RO 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)) et le ch. II al. 1 de l’O du 26 mai 2021 (Assouplissements pour les personnes vaccinées et guéries), en vigueur depuis le 31 mai 2021 ([RO 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 2 juin 2021, en vigueur depuis le 3 juin 2021 ([RO 2021 318](https://fedlex.data.admin.ch/eli/oc/2021/318)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones (art. 2, al. 1, let. b à d)
@@ -345,13 +345,9 @@ Cabo Verde
 
 Chili
 
-Chypre
-
 Colombie
 
 Costa Rica
-
-Croatie
 
 Égypte
 
@@ -359,15 +355,11 @@ Estonie
 
 Géorgie
 
-Iran
-
 Koweït
 
 Lettonie
 
 Lituanie
-
-Luxembourg
 
 Maldives
 
@@ -387,8 +379,6 @@ Suède
 
 Tanzanie
 
-Turquie
-
 Uruguay
 
 ### 2. États et zones présentant un risque d’infection plus important ou provoquant une évolution plus grave de la maladie en raison d’une mutation du SARS-CoV-2 (art. 2, al. 1, let. a)
@@ -407,25 +397,13 @@ Royaume-Uni
 
 ### 3. Zones des pays voisins (art. 2, al. 1, let. b à d, et al. 4)
 
-Zones en Allemagne:
-
-- – Land Sachsen
-- – Land Thüringen
-
 Zones en France:
 
 - – Région Centre-Val de Loire
 - – Région Hauts-de-France
 - – Région Île-de-France
 - – Région Normandie
-- – Région Occitanie
 - – Région Pays de la Loire
-- – Région Provence-Alpes-Côte d’Azur
-
-Zones en Italie:
-
-- – Regione Campania
-- – Regione Puglia
 
 Annexe 1a*[^t-2]*
 
@@ -449,7 +427,7 @@ Annexe 1a*[^t-2]*
 
 ### 2 Personnes guéries
 
-- [tab] La durée pendant laquelle les personnes guéries sont exemptées de l’obligation d’enregistrer leurs coordonnées (art. 3, al. 3, let. f), de l’obligation de test et de quarantaine (art. 8, al. 1, let. h) et de l’obligation de test avant le départ (art. 9*a*, al. 5, let. e<sup>bis</sup>) est de 6 mois à compter du 11<sup>e</sup> jour qui suit la confirmation de l’infection.
+- La durée pendant laquelle les personnes guéries sont exemptées de l’obligation d’enregistrer leurs coordonnées (art. 3, al. 3, let. f), de l’obligation de test et de quarantaine (art. 8, al. 1, let. h) et de l’obligation de test avant le départ (art. 9*a*, al. 5, let. e<sup>bis</sup>) est de 6 mois à compter du 11<sup>e</sup> jour qui suit la confirmation de l’infection.
 
 Annexe 2
 

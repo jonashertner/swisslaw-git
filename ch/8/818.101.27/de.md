@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-05-31
+version: 2021-06-03
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210531/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210531-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210603/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210603-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210603/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 31. Mai 2021)
+vom 27. Januar 2021 (Stand am 3. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -322,13 +322,13 @@ Diese Verordnung tritt am 8. Februar 2021 in Kraft.
 
 Anhang 1*[^t-1]*
 
-(Art. 2 Abs. 2, 3 Abs. 4, 8 Abs. 1<sup>ter</sup> und 9*b* Abs. 1)
+(Art. 2 Abs. 2, 3 Abs. 4, 7 Abs. 4, 8 Abs. 1<sup>ter</sup>, 9*a* Abs. 6 und 9*b* Abs. 1)
 
 ## Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Mai 2021 ([AS 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Bereinigt gemäss Ziff. I der V des EDI vom 27. Mai 2021 ([AS 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)) und Ziff. II Abs. 1 der V vom 26. Mai 2021 (Erleichterungen für geimpfte und genesene Personen), in Kraft seit 31. Mai 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 2. Juni 2021, in Kraft seit 3. Juni 2021 ([AS 2021 318](https://fedlex.data.admin.ch/eli/oc/2021/318)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete (Art. 2 Abs. 1 Bst. b–d)
@@ -353,19 +353,13 @@ Estland
 
 Georgien
 
-Iran
-
 Kolumbien
-
-Kroatien
 
 Kuwait
 
 Lettland
 
 Litauen
-
-Luxemburg
 
 Malediven
 
@@ -385,11 +379,7 @@ Slowenien
 
 Tansania
 
-Türkei
-
 Uruguay
-
-Zypern
 
 ### 2. Staaten und Gebiete mit einer Mutation von Sars-CoV-2, von der eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht (Art. 2 Abs. 1 Bst. a)
 
@@ -407,25 +397,13 @@ Vereinigtes Königreich
 
 ### 3. Gebiete der Nachbarstaaten (Art. 2 Abs. 1 Bst. b–d und Abs. 4)
 
-Gebiete in Deutschland:
-
-- – Land Sachsen
-- – Land Thüringen
-
 Gebiete in Frankreich:
 
 - – Region Centre-Val de Loire
 - – Region Hauts-de-France
 - – Region Île-de-France
 - – Region Normandie
-- – Region Occitanie
 - – Region Pays de la Loire
-- – Region Provence-Alpes-Côte d’Azur
-
-Gebiete in Italien:
-
-- – Region Apulien
-- – Region Kampanien
 
 Anhang 1a*[^t-2]*
 

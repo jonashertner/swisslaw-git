@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-05-31
+version: 2021-06-03
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210531/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210531-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210531/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210603/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210603-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210603/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 31 May 2021)
+of 27 January 2021 (Status as of 3 June 2021)
 
 The Swiss Federal Council,
 
@@ -203,7 +203,7 @@ The following persons are exempted from the requirement to be tested and to quar
 - f. persons who enter Switzerland for the purpose of transiting the country and who intend and are able to travel on directly to another country;
 - g. persons who re-enter Switzerland after participating in an event in a country or region with an increased risk of infection, provided they prove that their participation and stay took place in compliance with a specific precautionary measures plan; participating in an event includes in particular participating, normally in a professional capacity, in a sporting competition or cultural event, or attending a professional conference;
 - h.[^8-2] persons who prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated and the duration for which the vaccination is valid is regulated in Annex 1*a*;
-- i.[^8-3] persons who can prove that they were infected with Sars-CoV-2 and that they have recovered; the duration of the exemption is regulated in Annex 1a;
+- i.[^8-3] persons who can prove that they were infected with Sars-CoV-2 and that they have recovered; the duration of the exemption is regulated in Annex 1*a*;
 - j.[^8-4] persons under 16 years of age.
 
 <sup>1bis</sup> Persons who can provide a medical certificate to prove that they are unable on medical grounds to provide the nasopharyngeal swab required for the Sars-CoV-2 test are also exempted from the requirement to be tested under Article 7.[^8-5]
@@ -266,7 +266,7 @@ They may carry the following passengers without these passengers being required 
 - c. persons who have Swiss citizenship or hold a residence permit issued by Switzerland and who are unable to be tested for Sars-CoV-2 within a reasonable time or at reasonable expense; the persons concerned must sign a declaration confirming the lack of opportunity;
 - d. persons who are using a Swiss airport while in transit without leaving that airport before continuing their journey;
 - e.[^9a-2] persons who can prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated and the duration for which the vaccination is valid is regulated in Annex 1*a*;
-- e<sup>bis</sup>.[^9a-3] persons who can prove that they were infected with Sars-CoV-2 and that they have recovered; the duration of the exemption is regulated in Annex 1a;
+- e<sup>bis</sup>.[^9a-3] persons who can prove that they were infected with Sars-CoV-2 and that they have recovered; the duration of the exemption is regulated in Annex 1*a*;
 - f. persons who can prove that they are unable on medical grounds to provide the nasopharyngeal swab required for the Sars-CoV-2 test.
 
 <sup>6</sup> When entering Switzerland from the countries and regions listed in Annex 1 number 2, the exemptions from the requirement to be tested under paragraph 1 letters a, e and e<sup>bis</sup> do not apply. Children under the age of 12 are however exempted from the requirement to be tested.[^9a-4]
@@ -329,7 +329,7 @@ Annex 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FDHA O of 19 May 2021 ([AS 2021 280](https://fedlex.data.admin.ch/eli/oc/2021/280)). Revised by No I of the FDHA O of 27 May 2021 ([AS 2021 304](https://fedlex.data.admin.ch/eli/oc/2021/304)) and by No II para. 1 of the O of 26 May 2021 (Exemptions for persons who have been vaccinated or have recovered), in force since 31 May 2021 ([AS 2021 298](https://fedlex.data.admin.ch/eli/oc/2021/298)).
+[^t-1]: Amended by No I of the FDHA O of 2 June 2021, in force since 3 June 2021 ([AS 2021 318](https://fedlex.data.admin.ch/eli/oc/2021/318)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions (Art. 2 para. 1 let. b–d)
@@ -350,25 +350,17 @@ Colombia
 
 Costa Rica
 
-Croatia
-
-Cyprus
-
 Egypt
 
 Estonia
 
 Georgia
 
-Iran
-
 Kuwait
 
 Latvia
 
 Lithuania
-
-Luxembourg
 
 Maldives
 
@@ -388,17 +380,15 @@ Sweden
 
 Tanzania
 
-Turkey
-
 Uruguay
 
 ### 2. Countries and regions with a mutation of Sars-CoV-2 that carries a higher risk of infection or causes a more severe form of the disease (Art. 2 para. 1 let. a)
 
 Brazil
 
-India
-
 Canada
+
+India
 
 Nepal
 
@@ -408,25 +398,13 @@ United Kingdom
 
 ### 3. Regions in neighbouring countries
 
-Regions in Germany:
-
-- – State of Saxony
-- – State of Thüringen
-
 Regions in France:
 
 - – Centre-Val de Loire Region
 - – Hauts-de-France Region
 - – Île de France Region
 - – Normandy Region
-- – Occitanie Region
 - – Pays de la Loire Region
-- – Provence-Alpes-Côte d’Azur Region
-
-Regions in Italy:
-
-- – Apulia Region
-- – Campania Region
 
 Annex 1a*[^t-2]*
 
