@@ -3,20 +3,20 @@ canton: GL
 number: IV A/21/1
 title: Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 language: de
-version: 2020-01-01
-valid_until: 2021-06-02
-version_adopted: 2019-11-14
+version: 2021-06-03
+valid_until: 2022-06-30
+version_adopted: 2021-06-03
 adopted: 1991-01-24
 in_force: 1991-01-24
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2153/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2247/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus
 
-Vom 24.01.1991 (Stand 01.01.2020)
+Vom 24.01.1991 (Stand 03.06.2021)
 
 (Beschlossen an der ausserordentlichen Synode vom 24. Januar 1991)
 
@@ -1957,8 +1957,7 @@ Vom 24.01.1991 (Stand 01.01.2020)
 
 - a. Wahl der Inhaber und Inhaberinnen der regionalen Dienste und der hauptamtlichen Sekretariatsleitung;
 - b. Wahl der Mitglieder in Kommissionen;
-- c.–e. …
-- f. Wahl der Stiftungsräte, soweit dies in den Stiftungsurkunden vorgesehen ist;
+- c.–f. …
 - g. Wahl der Angestellten auf dem Sekretariat;
 - h. Wahl von Vertrauenspersonen für den Bereich zum Schutz der persönlichen Integrität.
 
@@ -2014,6 +2013,23 @@ Vom 24.01.1991 (Stand 01.01.2020)
 
 <sup>1</sup> Der kantonale Kirchenrat erlässt «Verhaltensgrundsätze zum Schutz der persönlichen Integrität im Bereich der kirchlichen Tätigkeit».
 
+#### Art. 218c
+
+**Stiftungsaufsicht**
+
+<sup>1</sup> Der kantonale Kirchenrat ist Aufsichtsbehörde über die kirchlichen Stiftungen. Er wacht darüber, dass diese die gesetzlichen Vorschriften einhalten und dass das Stiftungsvermögen seinen Zwecken gemäss verwendet wird. Der kantonale Kirchenrat ist zuständige Behörde bezüglich der kirchlichen Stiftungen im Sinne von Artikel 85, 86 und 86a ZGB.
+
+<sup>2</sup> Bei bestehenden kirchlichen Stiftungen übernimmt der kantonale Kirchenrat die Aufsicht mit Inkrafttreten dieser Bestimmungen. Bei Neugründungen erfolgt die Übernahme der Aufsicht mit Verfügung der Aufsichtsbehörde nach Eintragung der neugegründeten kirchlichen Stiftung im zuständigen Handelsregister.
+
+<sup>3</sup> Der kantonale Kirchenrat erlässt die notwendigen Ausführungsbestimmungen, einschliesslich Gebührenordnung, in einem Reglement. Er regelt im Reglement insbesondere:
+
+- a. Prüfung der jährlichen Berichterstattung der kirchlichen Stiftungen;
+- b. Prüfung und Genehmigung von Zweck- und Urkundenänderungen;
+- c. Anträge auf Aufhebung einer kirchlichen Stiftung;
+- d. Aufsichtsmittel;
+- e. Verzeichnis der kirchlichen Stiftungen;
+- f. Gebühren.
+
 ### 2.2.4. Dekanat
 
 #### Art. 219
@@ -2048,19 +2064,13 @@ Vom 24.01.1991 (Stand 01.01.2020)
 
 **Stiftungen**
 
-<sup>1</sup> Gemäss den entsprechenden Stiftungsurkunden gehören in die Verantwortung der Evangelisch-Reformierten Landeskirche die Heinrich-Spälty-Stiftung, die Hans-Heinrich-Heer-Stiftung und die «Stiftung für Söhne evangelischer Pfarrer im Kanton Glarus».
+<sup>1</sup> Bisherige und neue Stiftungen, welche die Kriterien einer kirchlichen Stiftung erfüllen, werden entsprechend im Handelsregister eingetragen und unterstehen der Aufsicht des kantonalen Kirchenrats.
+
+<sup>2</sup> Stiftungsräte werden vom kantonalen Kirchenrat gewählt, wenn dies bei Errichtung der Stiftung von der stiftenden Person vorgesehen wurde.
 
 #### Art. 223
 
-**Wahl und Aufgaben**
-
-<sup>1</sup> Die Stiftungsräte mit ihren Verwaltern oder Verwalterinnen werden nach dem Willen der Stifter vom kantonalen Kirchenrat gewählt.
-
-<sup>2</sup> Die Stiftungsräte sind für die Erfüllung der Stiftungszwecke verantwortlich.
-
-<sup>3</sup> Die Beauftragung betreffend Rechnungsrevision erfolgt durch die Stiftungsräte.
-
-<sup>4</sup> Die Jahresrechnungen der Stiftungen werden im Anhang zur Jahresrechnung der Landeskirche veröffentlicht.
+**…**
 
 ### 2.2.7. Geschäftsprüfungskommission (GPK)
 
