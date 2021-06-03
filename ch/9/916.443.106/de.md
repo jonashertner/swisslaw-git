@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausf
 short: EDAV-DS-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: de
-version: 2021-05-08
+version: 2021-06-04
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210508/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210508-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210508/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210604/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210604-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210604/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210508/de"
 
 (EDAV-DS-EDI)
 
-vom 18. November 2015 (Stand am 8. Mai 2021) (Stand am 8. Mai 2021)
+vom 18. November 2015 (Stand am 4. Juni 2021) (Stand am 4. Juni 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -149,13 +149,13 @@ Die Verordnung des EDI vom 16. Mai 2007[^12-1] über die Kontrolle der Ein- und 
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 1)
 
 ## Massgebende Erlasse der EU über die harmonisierten Ein- und Durchfuhrbedingungen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 21. Dez. 2015 ([AS 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), vom 14. Jan. 2016 ([AS 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), vom 27. Mai 2016 ([AS 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), vom 11. Okt. 2016 ([AS 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), vom 31. Okt. 2016 ([AS 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), vom 3. Nov. 2016 ([AS 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), vom 30. Jan. 2017 ([AS 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), vom 24. März 2017 ([AS 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), vom 27. Juni 2017 ([AS 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), vom 29. Dez. 2017 ([AS 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), vom 27. Sept. 2018 ([AS 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), vom 27. März 2019 ([AS 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), vom 27. Juni 2019 ([AS 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), vom 25. Juli 2019 ([AS 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), vom 22. Aug. 2019 ([AS 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), vom 12. Nov. 2019 ([AS 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), vom 18. Nov. 2019 ([AS 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), vom 19. Dez. 2019 ([AS 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), vom 23. Dez. 2019 ([AS 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), vom 5. März 2020 ([AS 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), Ziff. I Abs. 1 der V des BLV vom 13. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), Ziff. I der V des BLV vom 26. Nov. 2020 ([AS 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), vom 21. Dez. 2020 ([AS 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), vom 30. Dez. 2020 ([AS 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)), vom 24. Febr. 2021 ([AS 2021 114](https://fedlex.data.admin.ch/eli/oc/2021/114)), vom 22. April 2021 ([AS 2021 238](https://fedlex.data.admin.ch/eli/oc/2021/238)) und vom 6. Mai 2021, in Kraft seit 8. Mai 2021 ([AS 2021 266](https://fedlex.data.admin.ch/eli/oc/2021/266)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 21. Dez. 2015 ([AS 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), vom 14. Jan. 2016 ([AS 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), vom 27. Mai 2016 ([AS 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), vom 11. Okt. 2016 ([AS 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), vom 31. Okt. 2016 ([AS 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), vom 3. Nov. 2016 ([AS 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), vom 30. Jan. 2017 ([AS 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), vom 24. März 2017 ([AS 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), vom 27. Juni 2017 ([AS 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), vom 29. Dez. 2017 ([AS 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), vom 27. Sept. 2018 ([AS 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), vom 27. März 2019 ([AS 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), vom 27. Juni 2019 ([AS 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), vom 25. Juli 2019 ([AS 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), vom 22. Aug. 2019 ([AS 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), vom 12. Nov. 2019 ([AS 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), vom 18. Nov. 2019 ([AS 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), vom 19. Dez. 2019 ([AS 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), vom 23. Dez. 2019 ([AS 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), vom 5. März 2020 ([AS 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), Ziff. I Abs. 1 der V des BLV vom 13. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), Ziff. I der V des BLV vom 26. Nov. 2020 ([AS 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), vom 21. Dez. 2020 ([AS 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), vom 30. Dez. 2020 ([AS 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)), vom 24. Febr. 2021 ([AS 2021 114](https://fedlex.data.admin.ch/eli/oc/2021/114)), vom 22. April 2021 ([AS 2021 238](https://fedlex.data.admin.ch/eli/oc/2021/238)), vom 6. Mai 2021 ([AS 2021 266](https://fedlex.data.admin.ch/eli/oc/2021/266)) und vom 2. Juni 2021, in Kraft seit 4. Juni 2021 ([AS 2021 322](https://fedlex.data.admin.ch/eli/oc/2021/322)).
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
@@ -222,7 +222,7 @@ Anhang 1[^t-1]
 <tr><td>62. ...</td><td></td></tr>
 <tr><td>63. Beschluss 2010/472/EU</td><td>Beschluss 2010/472/EU der Kommission vom 26. August 2010 über die Einfuhr von Samen, Eizellen und Embryonen von Schafen und Ziegen in die Union, ABl. L 228 vom 31.8.2010, S. 74; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2217, ABl. L 438 vom 28.12.2020, S. 60.</td></tr>
 <tr><td>64. Verordnung (EU) Nr. 142/2011</td><td>Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1720, ABl. L 386 vom 18.11.2020, S. 6.</td></tr>
-<tr><td>65. Beschluss 2011/163/EU</td><td>Beschluss 2011/163/EU der Kommission vom 16. März 2011 zur Genehmigung der von Drittländern gemäss Artikel 29 der Richtlinie 96/23/EG des Rates vorgelegten Pläne, ABl. L 70 vom 17.3.2011, S. 40; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/653, ABl. L 138 vom 22.4.2021, S. 1.</td></tr>
+<tr><td>65. Beschluss 2011/163/EU</td><td>Beschluss 2011/163/EU der Kommission vom 16. März 2011 zur Genehmigung der von Drittländern gemäss Artikel 29 der Richtlinie 96/23/EG des Rates vorgelegten Pläne, ABl. L 70 vom 17.3.2011, S. 40; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/800, ABl. L 179 vom 20.05.2021, S. 1.</td></tr>
 <tr><td>66. Durchführungsbeschluss 2011/630/EU</td><td>Durchführungsbeschluss 2011/630/EU der Kommission vom 20. September 2011 über die Einfuhr von Rindersperma in die Europäische Union, ABl. L 247 vom 24.9.2011, S. 32; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2215, ABl. L 438 vom 28.12.2020, S. 54.</td></tr>
 <tr><td>67. Verordnung (EU) Nr. 28/2012</td><td>Verordnung (EU) Nr. 28/2012 der Kommission vom 11. Januar 2012 mit Bescheinigungsanforderungen für die Einfuhr in und die Durchfuhr durch die Europäische Union bestimmter zusammengesetzter Erzeugnisse und zur Änderung der Entscheidung 2007/275/EG und der Verordnung (EG) Nr. 1162/2009, ABl. L 12 vom 14.1.2012, S. 1; zuletzt geändert durch Verordnung (EU) 2019/2124, ABl. L 321 vom 12.12.2019, S. 73.</td></tr>
 <tr><td>68. Durchführungsbeschluss 2012/137/EU</td><td>Durchführungsbeschluss 2012/137/EU der Kommission vom 1. März 2012 über die Einfuhr von Samen von Hausschweinen in die Europäische Union, ABl. L 64 vom 3.3.2012, S. 29; geändert durch Durchführungsbeschluss (EU) 2020/2214, ABl. L 438 vom 28.12.2020, S. 51.</td></tr>
