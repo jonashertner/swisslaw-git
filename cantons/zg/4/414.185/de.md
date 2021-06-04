@@ -3,20 +3,20 @@ canton: ZG
 number: "414.185"
 title: Reglement über die Brückenangebote
 language: de
-version: 2018-01-01
-valid_until: 2021-06-04
-version_adopted: 2017-11-28
+version: 2021-06-05
+valid_until: 2024-06-20
+version_adopted: 2021-05-26
 adopted: 2017-03-15
 in_force: 2017-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.185"
-pdf: "https://bgs.zg.ch/api/de/versions/1772/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2235/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Brückenangebote
 
-Vom 15. März 2017 (Stand 1. Januar 2018)
+Vom 15. März 2017 (Stand 5. Juni 2021)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
@@ -43,13 +43,15 @@ verfügt:
 
 <sup>1</sup> Brückenangebote bereiten Jugendliche nach der obligatorischen Schulzeit auf die berufliche Grundbildung oder eine allgemeinbildende Schule vor. Sie fördern die Lernenden in ihren Fach-, Methoden-, Selbst- und Sozialkompetenzen und unterstützen die gesellschaftliche Integration.
 
-<sup>2</sup> Eine Angebotserweiterung für Erwachsene zur Förderung der Arbeitsmarktfähigkeit kann durch die Volkswirtschaftsdirektion in Auftrag gegeben werden.
+<sup>2</sup> …
+
+<sup>3</sup> Innerhalb des I-B-A wird ein Angebot für Erwachsene mit Migrationshintergrund (I-B-A-20+) geführt. Es verfolgt die gleichen Ziele wie die Brückenangebote für Jugendliche.
 
 #### § 3
 
 **Dauer**
 
-<sup>1</sup> Die Brückenangebote dauern in der Regel ein Jahr. Sie sind Vollzeitangebote.
+<sup>1</sup> Die Brückenangebote dauern grundsätzlich ein Jahr und sind in der Regel Vollzeitangebote.
 
 <sup>2</sup> Vor dem Brückenjahr bietet das I-B-A für Lernende ohne Deutschkenntnisse ein Einstiegsjahr an.
 
@@ -73,11 +75,13 @@ verfügt:
 
 **Finanzierung**
 
-<sup>1</sup> Die Grundleistungen sind für die Lernenden unentgeltlich.
+<sup>1</sup> Die Grundleistungen sind für Jugendliche unentgeltlich.
 
 <sup>2</sup> Lernende mit Wohnsitz in einem anderen Kanton können aufgenommen werden, sofern sie für den Beitrag aufkommen, der von der interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (Berufsfachschulvereinbarung, BFSV) festgelegt wird.
 
 <sup>3</sup> Für Lernende des I-B-A auf der Sekundarstufe I leisten die Gemeinden einen vom Regierungsrat festzusetzenden Beitrag.
+
+<sup>4</sup> Lernende des I-B-A-20+ leisten einen Beitrag an die Schulkosten. Die Höhe dieses Betrages legt die Volkswirtschaftsdirektion fest.
 
 ## 2. Aufnahme in die Brückenangebote
 
@@ -91,15 +95,15 @@ verfügt:
 
 #### § 8
 
-**Bewerbungsgespräch**
+**Aufnahme in das S-B-A und in das K-B-A**
 
-<sup>1</sup> Die Brückenangebote führen mit den Kandidatinnen bzw. Kandidaten ein Bewerbungsgespräch durch. Dabei werden die Leistungsbereitschaft und die Motivation der Kandidatinnen und Kandidaten geprüft.
+<sup>1</sup> Die Kanditatinnen bzw. Kandidaten reichen ein vollständiges Bewerbungsdossier ein. Dieses wird durch die Brückenangebote hinsichtlich Leistungsbereitschaft, Motivation und Sprachkompetenzen der Kandidatinnen und Kandidaten geprüft.
 
 #### § 9
 
-**Aufnahme in das S-B-A und in das K-B-A**
+**Entscheid über Aufnahme in das S-B-A und in das K-B-A**
 
-<sup>1</sup> Das zuständige Mitglied der Angebotsleitung entscheidet über die Aufnahme gemäss den in § 11 aufgeführten Kriterien. Basis für den Entscheid bilden das Anmeldedossier und das Bewerbungsgespräch.
+<sup>1</sup> Das zuständige Mitglied der Angebotsleitung entscheidet über die Aufnahme gemäss den in § 11 aufgeführten Kriterien. Basis für den Entscheid bildet das Bewerbungsdossier.
 
 <sup>2</sup> Ein Eintritt während des Jahrs ist in Ausnahmefällen möglich. Der Aufnahmeentscheid wird nach einer Probezeit von in der Regel zwei Monaten gefällt.
 
@@ -112,6 +116,8 @@ verfügt:
 <sup>2</sup> Jugendliche der Sekundarstufe I können auf Antrag der betreffenden Gemeinde aufgenommen werden, sofern es die Platzverhältnisse zulassen. Der Eintritt kann jederzeit erfolgen.
 
 <sup>3</sup> Jugendliche aus dem Asyl- und Flüchtlingsbereich auf der Sekundarstufe I werden, nachdem die Gemeinde die Zuteilungsabklärung vorgenommen hat, auf deren Antrag ohne Erfüllen von Kriterien aufgenommen. Der Eintritt kann jederzeit erfolgen.
+
+<sup>4</sup> Migrantinnen und Migranten sowie Geflüchtete, die älter als 20 Jahre sind, können in das I-B-A-20+ aufgenommen werden. Sie müssen mindestens über das Sprachniveau B1 verfügen.
 
 #### § 11
 
@@ -211,6 +217,8 @@ verfügt:
 
 <sup>2</sup> Die Amtsleitung kann die Beiträge gemäss Abs. 1 in Härtefällen auf Gesuch hin reduzieren oder erlassen.
 
+<sup>3</sup> Beim I-B-A-20+ sind die Bereiche a) bis d) im Beitrag an die Schulkosten enthalten.
+
 ## 6. Lernbegleitung
 
 #### § 19
@@ -232,11 +240,9 @@ verfügt:
 
 **Arbeitszeit**
 
-<sup>1</sup> Die Mitarbeitenden der Brückenangebote arbeiten nach dem Modell der Netto-Jahresarbeitszeit (Jahresarbeitszeit nach § 30 des Personalgesetzes[^20-1] minus Ferien, Feiertage und arbeitsfreie Tage).
+<sup>1</sup> Die Mitarbeitenden der Brückenangebote arbeiten nach der Jahresarbeitszeit mit definierten Ausnahmen gemäss Weisung der Volkswirtschaftsdirektion vom 15. März 2021.
 
 <sup>2</sup> Zu Beginn des Schuljahrs legt die Angebotsleitung die Präsenzzeiten fest.
-
-[^20-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
 
 #### § 21
 
