@@ -4,13 +4,13 @@ number: "160.021"
 title: Standeskommissionsbeschluss zur Verordnung über ausserordentliche Urnenabstimmungen
 short: StKB VaU
 language: de
-version: 2021-02-16
-valid_until: 2021-06-06
-version_adopted: 2021-02-16
+version: 2021-06-07
+valid_until: 2022-06-13
+version_adopted: 2021-05-25
 adopted: 2021-02-16
 in_force: 2021-02-16
 url: "https://ai.clex.ch/app/de/texts_of_law/160.021"
-pdf: "https://ai.clex.ch/api/de/versions/1907/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1925/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1907/pdf_file"
 
 (StKB VaU)
 
-vom 16.02.2021 (Stand 16.02.2021)
+vom 16.02.2021 (Stand 07.06.2021)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -39,9 +39,9 @@ beschliesst:
 
 **Anordnung ausserordentlicher Urnenabstimmungen**
 
-<sup>1</sup> 2021 finden keine Landsgemeinde und keine Bezirksgemeinden statt.
+<sup>1</sup> 2021 findet keine Landsgemeinde statt; bis nach dem Abschluss des Urnengangs vom 27. Juni 2021 finden auch keine Bezirksgemeinden statt.
 
-<sup>2</sup> Stattdessen werden ausserordentliche Urnenabstimmungen durchgeführt.
+<sup>2</sup> Statt der ordentlichen Landsgemeinde und der ordentlichen Bezirksgemeinden werden ausserordentliche Urnenabstimmungen durchgeführt.
 
 #### Art. 3
 
@@ -65,7 +65,7 @@ beschliesst:
 
 <sup>3</sup> Zweite Wahlgänge und allfällige Ergänzungswahlen des Kantons und der Bezirke finden am 27. Juni 2021 statt.
 
-<sup>4</sup> Sollte ein weiterer Abstimmungstermin nötig werden, legt die Standeskommission diesen zu gegebener Zeit fest.
+<sup>4</sup> Für Wahlgänge, die nach dem 27. Juni 2021 noch durchzuführen sind, werden Bezirksgemeinden einberufen.
 
 #### Art. 5
 
