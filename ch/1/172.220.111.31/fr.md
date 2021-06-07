@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2021-01-01
+version: 2021-06-08
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210608/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210608-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210608/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210101/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (Etat le 1<sup>er</sup> janvier 2021)
+du 6 décembre 2001 (Etat le 8 juin 2021)
 
 Le Département fédéral des finances (DFF),*[^ingress-1]*
 
@@ -1005,7 +1005,7 @@ Les réductions pour l’abonnement général «Adulte» suivantes sont accordé
 
 <sup>2bis</sup> Est considéré comme voyage de service selon l’al. 2 l’exercice de l’activité professionnelle hors d’un rayon de 10 kilomètres à vol d’oiseau du lieu de travail et du lieu de domicile de l’employé.[^53-4]
 
-<sup>3</sup> Exceptionnellement, un abonnement de parcours ou un autre titre de transport peut être délivré en lieu et place de l’abonnement général selon l’al. 2, let. d, si cette solution est meilleur marché pour la Confédération.[^53-5]
+<sup>3</sup> Exceptionnellement, un abonnement de parcours ou un autre titre de transport peut être délivré en lieu et place de l’abonnement général selon l’al. 2, let. b, si cette solution est meilleur marché pour la Confédération.[^53-5]
 
 <sup>4</sup> L’abonnement doit être utilisé pour les voyages de service.
 
@@ -1015,7 +1015,7 @@ Les réductions pour l’abonnement général «Adulte» suivantes sont accordé
 [^53-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^53-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^53-4]: Introduit par le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^53-5]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^53-5]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). Erratum du 8 juin 2021 ([RO 2021 326](https://fedlex.data.admin.ch/eli/oc/2021/326)).
 [^53-6]: Introduit par le ch. I de l’O du DFF du 31 mai 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 #### Art. 54

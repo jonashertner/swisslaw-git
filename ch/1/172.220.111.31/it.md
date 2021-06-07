@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2021-01-01
+version: 2021-06-08
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210608/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210608-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210608/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210101/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° gennaio 2021)
+del 6 dicembre 2001 (Stato 8 giugno 2021)
 
 Il Dipartimento federale delle finanze (DFF),*[^ingress-1]*
 
@@ -1012,7 +1012,7 @@ Le riduzioni per l’abbonamento generale «adulti» ammontano alle seguenti per
 [^53-2]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^53-3]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^53-4]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^53-5]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^53-5]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). La correzione dell’8 giu. 2021 concerne soltanto il testo francese ([RU 2021 326](https://fedlex.data.admin.ch/eli/oc/2021/326))
 [^53-6]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 #### Art. 54

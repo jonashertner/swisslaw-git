@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2021-01-01
+version: 2021-06-08
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210608/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210608-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210608/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210101/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 1. Januar 2021)
+vom 6. Dezember 2001 (Stand am 8. Juni 2021)
 
 Das Eidgenössische Finanzdepartement (EFD),*[^ingress-1]*
 
@@ -1016,7 +1016,7 @@ Die Vergünstigungen für das Generalabonnement «Erwachsene» betragen für Ang
 [^53-2]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^53-3]: Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^53-4]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^53-5]: Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^53-5]: Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)). Die Berichtigung vom 8. Juni 2021 betrifft nur den französischen Text ([AS 2021 326](https://fedlex.data.admin.ch/eli/oc/2021/326)).
 [^53-6]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Fassung gemäss Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 
 #### Art. 54
