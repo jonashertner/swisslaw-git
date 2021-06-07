@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 26.05.2021 de mise en vigueur
+title: ARRÊTÉ du 02.06.2021 de mise en vigueur
 language: fr
-version: 2021-06-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=192afda7-f477-4340-ab6c-9af8f4e8b68a"
+version: 2021-06-08
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=342d2cf5-94a2-477b-8c5b-4d3522091185"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 26 mai 2021
+du 2 juin 2021
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,4 +21,7 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Le décret du 2 mars 2021 accordant au Conseil d'Etat un crédit d'investissement de CHF 4'180'000.- pour financer l'adaptation des cartes de dangers naturels, mettre à disposition des communes vaudoises des analyses de déficits de protection de leurs zones construites et à bâtir, et terminer le dispositif de diffusion des cartes et données associées à destination des communes, de leurs mandataires et des services de l'Etat (BLV 963.10), publié dans la "Feuille des avis officiels du Canton de Vaud" du 16 mars 2021, entre en vigueur avec effet au 1er juin 2021.
+<sup>1</sup> Les actes législatifs ci-après du 9 mars 2021, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 23 mars 2021, entrent en vigueur le 1er juin 2021.
+
+- a. loi du 9 mars 2021 modifiant celle du 24 juin 1996 d'application dans le Canton de Vaud de la loi fédérale du 24 mars 1995 sur l'égalité entre femmes et hommes (BLV 173.63) ;
+- b. décret du 9 mars 2021 instituant des mesures de soutien à la diversité des médias (BLV 449.12).
