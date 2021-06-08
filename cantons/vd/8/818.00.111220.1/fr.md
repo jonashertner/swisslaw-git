@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.111220.1"
 title: "ARRÊTÉ du 11.12.2020 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière et sur certaines mesures cantonales complémentaires"
 language: fr
-version: 2021-04-19
+version: 2021-06-09
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.111220.1?id=12f9065b-b9e7-411e-bfbd-73e104c00e53"
 ---
 
@@ -15,13 +15,14 @@ du 11 décembre 2020
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
-vu l'articule 40 de la loi fédérale sur la lutte contre les maladies transmissibles de l'homme (loi sur les épidémies - LEp)
+vu l'articule 40 de la loi fédérale sur la lutte contre les maladies transmissibles de l'homme (loi sur les épidémies - LEp) [^ingress-1]
 
-vu l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière [^ingress-1]
+vu l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière [^ingress-2]
 
 arrête
 
-[^ingress-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
+[^ingress-1]: [Loi fédérale du 28.09.2012 sur la lutte contre les maladies transmissibles de l'homme, RS 818.101](https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html)
+[^ingress-2]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 1
 
@@ -29,9 +30,10 @@ arrête
 
 <sup>1</sup> Le présent arrêté contient les dispositions d'application de l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^1-1].
 
-<sup>2</sup> Il contient également les mesures cantonales complémentaires prises en vertu de l'article 40 de la loi du 28 septembre 2012 fédérale sur la lutte contre les maladies transmissibles de l'homme (loi sur les épidémies; LEp).
+<sup>2</sup> Il contient également les mesures cantonales complémentaires prises en vertu de l'article 40 de la loi du 28 septembre 2012 fédérale sur la lutte contre les maladies transmissibles de l'homme (loi sur les épidémies; LEp)[^1-2].
 
 [^1-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
+[^1-2]: [Loi fédérale du 28.09.2012 sur la lutte contre les maladies transmissibles de l'homme, RS 818.101](https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html)
 
 #### Art. 2
 
@@ -147,21 +149,35 @@ arrête
 
 **Manifestations [^6-2]**
 
-<sup>1</sup> L'EMCC, en collaboration avec l'office du Médecin cantonal, peut ordonner que des manifestations comportant des risques de transmission particuliers se dotent de plans de protection prévoyant des mesures de précaution renforcées.
+<sup>1</sup> L'EMCC, en collaboration avec l'office du Médecin cantonal, peut ordonner, notamment par voie de directive, que des manifestations comportant des risques de transmission particuliers se dotent de plans de protection prévoyant des mesures de précaution renforcées.
 
 <sup>2</sup> ...
 
 <sup>3</sup> ...
 
-[^6-2]: Modif. 2 du 13.01.2021: Abrogation Al. 2; entrée en vigueur au 18.01.2021; Introduction Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Modification Al. 1; entrée en vigueur au 19.04.2021; Abrogation Al. 3; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Modification Al. 1; entrée en vigueur au 09.06.2021; Introduction Art. 7a; entrée en vigueur au 09.06.2021
+[^6-2]: Modif. 2 du 13.01.2021: Abrogation Al. 2; entrée en vigueur au 18.01.2021; Introduction Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Modification Al. 1; entrée en vigueur au 19.04.2021; Abrogation Al. 3; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Modification Al. 1; entrée en vigueur au 09.06.2021
+
+#### Art. 7a
+
+**Grandes manifestations [^7-1]**
+
+<sup>1</sup> Le Chef de l'EMCC est l'autorité compétente pour autoriser les grandes manifestations au sens de l'ordonnance COVID-19 situation particulière. Il peut déléguer cette compétence à une commune.
+
+<sup>2</sup> Lorsque l'autorité compétente entend refuser une autorisation ou la révoquer, elle consulte préalablement la cheffe du Département de la santé et de l'action sociale et le chef de département concerné.
+
+<sup>3</sup> Le Chef de l'EMCC est compétent pour régler la procédure par voie de directives contraignantes pour les partenaires de la protection de la population et pour les organisateurs.
+
+<sup>4</sup> Dans sa décision, le Chef de l'EMCC peut déléguer aux communes et aux autres entités cantonales le recouvrement des émoluments fixés par cette dernière.
+
+[^7-1]: Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021
 
 #### Art. 8
 
-**Activités et installations sportives [^7-1]**
+**Activités et installations sportives [^7a-1]**
 
 ...
 
-[^7-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Modification Al. 4; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1bis,4; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Abrogation Al. 1-3; entrée en vigueur au 01.03.2021
+[^7a-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Modification Al. 4; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1bis,4; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Abrogation Al. 1-3; entrée en vigueur au 01.03.2021
 
 #### Art. 9
 
@@ -197,7 +213,7 @@ arrête
 
 <sup>2</sup> Les réunions professionnelles doivent dans toute la mesure du possible avoir lieu par visioconférence.
 
-<sup>3</sup> Elles sont autorisées en présentiel jusqu'à 50 personnes moyennant :
+<sup>3</sup> Elles sont autorisées sans limitation du nombre de personnes mais moyennant.
 
 - a. le port du masque obligatoire;
 - b. le respect d'une distance de 1.5 mètre au minimum entre les participants;
@@ -205,12 +221,11 @@ arrête
 
 <sup>4</sup> Sont considérées comme réunions professionnelles celles qui s'inscrivent dans le cadre ordinaire du travail et qui sont nécessaires à l'accomplissement des missions de l'entité considérée.
 
-<sup>5</sup> Le Chef de l'EMCC est compétent pour octroyer des dérogations au nombre limite fixé à l'alinéa 3 si la tenue de la réunion en présentiel est indispensable à l'activité de l'entité considérée.
+<sup>5</sup> ...
 
-<sup>6</sup> Lorsque des entreprises et institutions publiques ou parapubliques accueillent des élèves de dixième et de onzième année de la scolarité obligatoire pour des stages préprofessionnels au sens de l'article 76 de la loi sur l'enseignement obligatoire[^12-1], ces élèves ne sont pas pris en compte dans le nombre limite fixé à l'alinéa 3.
+<sup>6</sup> ...
 
-[^11-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 5; entrée en vigueur au 01.03.2021; Introduction Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Modification Al. 3-4; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021; Abrogation Al. 5-6; entrée en vigueur au 09.06.2021
-[^12-1]: Loi du 07.06.2011 sur l'enseignement obligatoire ([BLV 400.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02?id=1444413b-d078-412a-8edc-b8e277fc2daa))
+[^11-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 5; entrée en vigueur au 01.03.2021; Introduction Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Modification Al. 3-4; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Modification Al. 3; entrée en vigueur au 09.06.2021; Abrogation Al. 5-6; entrée en vigueur au 09.06.2021
 
 #### Art. 13
 
@@ -242,9 +257,9 @@ arrête
 
 <sup>2</sup> Les communes et associations de communes sont tenues de fournir à cet effet tout le personnel nécessaire à l'EMCC et à la Police cantonale du commerce, sur réquisition de ces derniers.
 
-<sup>3</sup> Si l'EMCC constate qu'il n'existe pas de plan de protection suffisant ou que ce plan n'est pas mis en oeuvre, ou que le présent arrêté ou ses dispositions d'application sont violés, il prend des mesures appropriées. Il peut fermer des installations et des établissements et interdire ou disperser des manifestations.
+<sup>3</sup> Si l'EMCC constate qu'il n'existe pas de plan de protection suffisant ou que ce plan n'est pas mis en oeuvre, ou que le présent arrêté ou ses dispositions d'application sont violés, il prend des mesures appropriées. Il peut fermer des installations et des établissements et interdire ou faire cesser des manifestations.
 
-[^14a-1]: Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021
+[^14a-1]: Modif. 6 du 09.06.2021: Modification Al. 3; entrée en vigueur au 09.06.2021
 [^15-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 16
