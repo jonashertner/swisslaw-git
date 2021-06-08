@@ -3,20 +3,20 @@ canton: SG
 number: "571.3"
 title: Gesetz über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie
 language: de
-version: 2021-02-18
-valid_until: 2021-06-08
-version_adopted: 2021-02-18
+version: 2021-06-09
+valid_until: 2021-09-22
+version_adopted: 2021-06-08
 adopted: 2021-02-18
 in_force: 2021-02-18
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/571.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3116/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3170/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie
 
-vom 18.02.2021 (Stand 18.02.2021)
+vom 18.02.2021 (Stand 09.06.2021)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -57,13 +57,13 @@ als Gesetz:[^ingress-2]
 
 #### Art. 3
 
-**Anforderungen an die Unternehmen a) Allgemeines**
+**Anforderungen an die Unternehmen a) Unternehmen mit einem Jahresumsatz bis 5 Mio. Franken 1. Allgemeines**
 
-<sup>1</sup> Unternehmen kann eine Härtefallmassnahme gewährt werden, wenn sie:
+<sup>1</sup> Unternehmen mit einem Jahresumsatz bis 5 Mio. Franken kann eine Härtefallmassnahme gewährt werden, wenn sie:
 
 - a) die Vorgaben nach dem 2. Abschnitt der Covid-19-Härtefallverordnung erfüllen;
 - b) ihren Umsatz zu wenigstens 75 Prozent in einer Branche nach Art. 4 dieses Erlasses erzielen;
-- c) per 1. Oktober 2020 ihren Sitz im Kanton St.Gallen haben, eine operative Geschäftstätigkeit im Kanton ausüben und per 15. März 2020 Arbeitsplätze im Umfang von wenigstens 100 Stellenprozenten in der Schweiz aufweisen;
+- c) per 1. Oktober 2020 ihren Sitz im Kanton St.Gallen haben und per 30. September 2020 Arbeitsplätze im Umfang von wenigstens 100 Stellenprozenten in der Schweiz aufweisen;
 - d) keinen Anspruch auf branchenspezifische Covid-19-Finanzhilfen des Bundes oder des Kantons St.Gallen in den Bereichen Kultur, Sport, öffentlicher Verkehr oder Medien haben;
 - e) per 31. Dezember 2019 nicht überschuldet waren;
 - f) über einen Nachweis der Überlebensfähigkeit verfügen, der glaubhaft aufzeigt, dass die Finanzierung des Unternehmens mit der Härtefallmassnahme gesichert werden kann;
@@ -73,9 +73,9 @@ als Gesetz:[^ingress-2]
 
 #### Art. 4
 
-**b) behördliche Schliessung, Branchenzugehörigkeit oder Geschäftstätigkeiten mit Unternehmen aus berechtigten Branchen**
+**2. behördliche Schliessung, Branchenzugehörigkeit oder Geschäftstätigkeiten mit Unternehmen aus berechtigten Branchen**
 
-<sup>1</sup> Mit den Härtefallmassnahmen können Unternehmen unterstützt werden, die:
+<sup>1</sup> Mit den Härtefallmassnahmen können Unternehmen mit einem Jahresumsatz bis 5 Mio. Franken unterstützt werden, die:
 
 - a) im Sinn von [Art. 5b](https://db.clex.ch/link/Bund/951.262/de) der Covid-19-Härtefallverordnung als behördlich geschlossen gelten;
 - b) von einem Umsatzrückgang nach [Art. 5](https://db.clex.ch/link/Bund/951.262/de) der Covid-19-Härtefallverordnung betroffen sind und insbesondere den folgenden Branchen angehören:
@@ -93,11 +93,17 @@ als Gesetz:[^ingress-2]
 - a) mit Unternehmen nach Abs. 1 dieser Bestimmung;
 - b) mit Veranstaltungen im Freizeitbereich, die auf Grund behördlicher Anordnungen ausgefallen sind.
 
+#### Art. 4a
+
+**b) Unternehmen mit einem Jahresumsatz über 5 Mio. Franken**
+
+<sup>1</sup> Für die Gewährung von Härtefallmassnahmen an Unternehmen mit einem Jahresumsatz über 5 Mio. Franken gelten die besonderen Vorschriften des Bundesrechts unverändert.
+
 #### Art. 5
 
 **Formen der Härtefallmassnahmen**
 
-<sup>1</sup> Die Härtefallmassnahmen können im Rahmen der Höchstgrenzen der Covid-19-Härtefallverordnung gewährt werden in Form von:
+<sup>1</sup> Die Härtefallmassnahmen können im Rahmen der Anforderungen des Bundesrechts an die Ausgestaltung der Härtefallmassnahmen nach dem 3. Abschnitt der Covid-19-Härtefallverordnung gewährt werden in Form von:
 
 - a) Solidarbürgschaften;
 - b) nicht rückzahlbaren Beiträgen;
@@ -240,6 +246,8 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die Regierung kann in Zusammenhang mit der Covid-19-Epidemie Seilbahnunternehmen Darlehen, Solidarbürgschaften oder nicht rückzahlbare Beiträge gewähren. Die Voraussetzungen nach Art. 3 dieses Erlasses werden sachgemäss angewendet, mit Ausnahme der Voraussetzung des Umsatzrückgangs.
 
+<sup>1<sup>bis</sup></sup> Die Regierung kann Seilbahnunternehmen, die aufgrund von Massnahmen des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 22. und 30. Dezember 2020 schliessen mussten, weitere nicht rückzahlbare Beiträge gewähren. Die Höhe der Unterstützung darf die während der Dauer der Schliessung ungedeckt gebliebenen Fixkosten nicht übersteigen und berücksichtigt die Umsätze der Jahre 2015 bis 2019 in angemessener Form.
+
 <sup>2</sup> Höhe und Modalitäten der Unterstützung richten sich sachgemäss nach Art. 5 bis 9 dieses Erlasses.
 
 <sup>3</sup> Die Standortgemeinden beteiligen sich mit einem Anteil von 40 Prozent an nicht rückzahlbaren Beiträgen nach Abs. 1 dieser Bestimmung. Bei mehreren Standortgemeinden richtet sich das Verhältnis nach der Anzahl Einwohnerinnen und Einwohner per 31. Dezember 2020.
@@ -250,5 +258,21 @@ als Gesetz:[^ingress-2]
 - b) sind gegenüber jenen nach Abschnitt II dieses Erlasses und jenen des Bundes subsidiär.
 
 <sup>5</sup> Die Finanzierung erfolgt aus dem besonderen Eigenkapital.
+
+## V. Unterstützung von Tourismusorganisationen
+
+#### Art. 20
+
+**Nicht rückzahlbare Beiträge an Tourismusorganisationen**
+
+<sup>1</sup> Das zuständige Departement kann in Zusammenhang mit der Covid-19-Epidemie den Tourismusorganisationen nach Art. 2 des Tourismusgesetzes vom 26. November 1995[^20-1] für ungedeckte Fixkosten nicht rückzahlbare Beiträge gewähren.
+
+<sup>2</sup> Die Höhe der nicht rückzahlbaren Beiträge richtet sich sachgemäss nach Art. 5 dieses Erlasses.
+
+<sup>3</sup> Die Massnahmen nach dieser Bestimmung führen zulasten des Kantons zu Kosten von höchstens Fr. 750'000.–.
+
+<sup>4</sup> Die Finanzierung erfolgt aus dem besonderen Eigenkapital.
+
+[^20-1]: sGS [575.1](https://www.gesetzessammlung.sg.ch/data/575.1/de).
 
 nGS 2021-011
