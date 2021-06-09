@@ -4,13 +4,13 @@ number: "730.110"
 title: Bau- und Planungsverordnung
 short: BPV
 language: de
-version: 2020-12-10
-valid_until: 2021-06-09
-version_adopted: 2020-12-01
+version: 2021-06-10
+valid_until: 2021-06-16
+version_adopted: 2021-06-01
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5058/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5267/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung | Hochbauten
 
 (BPV)
 
-Vom 19. Dezember 2000 (Stand 10. Dezember 2020)
+Vom 19. Dezember 2000 (Stand 10. Juni 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -533,6 +533,16 @@ beschliesst:
 
 [^38-1]: § 38 Abs. 5: Jetzt: Bau- und Gastgewerbeinspektorat.
 [^38-2]: § 38 Abs. 6: Jetzt: Bau- und Gastgewerbeinspektorat.
+
+#### § 38a
+
+**Dokumentation unterirdischer Anlagen**
+
+<sup>1</sup> Sofern der Untergrund vom Baubegehren betroffen ist, verlangt die Bewilligungsbehörde die Dokumentation der unterirdischen Anlagen gemäss § 46a des Gesetzes spätestens mit der Bauvollendungsmeldung.
+
+<sup>2</sup> Aus der Dokumentation gemäss Abs. 1 müssen die Lage und die Höhe sowie die Anzahl und Materialisierung der unterirdischen Anlagen gemäss § 46a des Gesetzes ersichtlich sein.
+
+<sup>3</sup> Die Bewilligungsbehörde leitet diese Dokumentation abschliessend an das Tiefbaumt weiter.
 
 ### (A.V.)3. Ausfertigungen
 
