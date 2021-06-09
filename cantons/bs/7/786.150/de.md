@@ -4,13 +4,13 @@ number: "786.150"
 title: Verordnung über Abfallsammlungen in der Stadt Basel
 short: ASV
 language: de
-version: 2020-07-01
-valid_until: 2021-06-09
-version_adopted: 2020-05-05
+version: 2021-06-10
+valid_until: 2025-12-31
+version_adopted: 2021-06-01
 adopted: 2025-11-04
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/786.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4962/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5266/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,18 +21,18 @@ Abfallsammlungen in der Stadt Basel: Verordnung | Abfallbeseitigung
 
 (ASV)
 
-Vom 11. Mai 1993 (Stand 1. Juli 2020)
+Vom 11. Mai 1993 (Stand 10. Juni 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-gestützt auf Art. 36 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz[^ingress-1], Art. 44 der Verordnung über die Vermeidung und die Entsorgung von Abfällen (Abfallverordnung, VVEA) vom 4. Dezember 2015[^ingress-2], § 42 des Umweltschutzgesetzes Basel-Stadt (USG BS) vom 13. März 1991[^ingress-3] und §§ 1, 2 und 3 des Verwaltungsgebührengesetzes vom 9. März 1972[^ingress-4],
+gestützt auf Art. 36 des Bundesgesetzes über den Umweltschutz (Umweltschutzgesetz, USG) vom 7. Oktober 1983[^ingress-1], Art. 44 der Verordnung über die Vermeidung und die Entsorgung von Abfällen (Abfallverordnung, VVEA) vom 4. Dezember 2015[^ingress-2], Art. 37 der Verordnung über den Verkehr mit Abfällen (VeVA) vom 22. Juni 2005[^ingress-3], § 42 des Umweltschutzgesetzes Basel-Stadt (USG BS) vom 13. März 1991[^ingress-4],
 
 beschliesst:
 
 [^ingress-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
 [^ingress-2]: SR [814.600](https://db.clex.ch/link/Bund/814.600/de)
-[^ingress-3]: SG [780.100](https://www.gesetzessammlung.bs.ch/data/780.100/de)
-[^ingress-4]: SG [153.800](https://www.gesetzessammlung.bs.ch/data/153.800/de)
+[^ingress-3]: SR [814.610](https://db.clex.ch/link/Bund/814.610/de)
+[^ingress-4]: SG [780.100](https://www.gesetzessammlung.bs.ch/data/780.100/de)
 
 ## I. Arten
 
@@ -44,7 +44,7 @@ beschliesst:
 
 <sup>3</sup> Nicht verwertbare Siedlungsabfälle werden vom Abfuhrwesen und den Kehrichtverbrennungsanlagen entgegengenommen.
 
-<sup>4</sup> Die Sammelstellen können durch Abfuhren ergänzt oder ersetzt werden.
+<sup>4</sup> Sammelstellen und Abfuhren können jeweils durch die andere Sammelart ergänzt oder ersetzt werden.
 
 ## II. Ausgeschlossene Abfälle
 
@@ -89,6 +89,8 @@ beschliesst:
 
 <sup>1</sup> Die Kehrichtabfuhr erfolgt in der Regel zweimal wöchentlich.
 
+<sup>1<sup>bis</sup></sup> Die Entleerung von Unterflurcontainern erfolgt nach Bedarf.
+
 <sup>2</sup> Sperrgut wird mindestens einmal monatlich abgeführt. Als Sperrgut gelten Abfälle, die in den offiziellen Abfallsäcken nicht Platz haben oder zu viel Platz beanspruchen würden.
 
 <sup>3</sup> Abfuhren ausserhalb des regelmässigen Turnus werden soweit möglich auf Bestellung beim Tiefbauamt ausgeführt.
@@ -99,13 +101,15 @@ beschliesst:
 
 **a) Zulässige Gebinde**
 
-<sup>1</sup> Die Abfälle müssen in der Regel in offiziellen Abfallsäcken von 17, 35, 60 oder 110 Liter Inhalt bereitgestellt werden, mit denen die Abfallgebühren entrichtet worden sind. Die Säcke dürfen nicht schwerer als 20 kg sein.
+<sup>1</sup> Nicht verwertbare Siedlungsabfälle müssen in der Regel in offiziellen Abfallsäcken bereitgestellt werden, mit denen die Abfallgebühren entrichtet worden sind. Die Säcke dürfen nicht schwerer als 20 kg sein.
 
-<sup>2</sup> Abfälle können auch in Containern bereitgestellt werden.
+<sup>2</sup> Nicht verwertbare Siedlungsabfälle können auch in Containern bereitgestellt werden. Das Tiefbauamt legt im Einzelfall fest, ob die Bereitstellung der Abfälle im Container lose oder in Abfallsäcken zu erfolgen hat.
+
+<sup>2 <sup>bis</sup></sup> In öffentlichen Unterflurcontainern sind Abfälle nur in den offiziellen Abfallsäcken bereitzustellen.
 
 <sup>3</sup> Das Tiefbauamt kann verlangen, dass Abfälle aus Überbauungen mit 20 oder mehr Wohnungen und aus Betrieben in Containern bereitgestellt werden.
 
-<sup>4</sup> Sperrgut ist so bereitzustellen, dass es mit möglichst geringem Aufwand mitgenommen werden kann. Holzlatten, Äste, Stauden und ähnliche Abfälle sind zu bündeln.
+<sup>4</sup> Sperr- und Grüngut, Papier und Karton sowie Unbrennbares sind so bereitzustellen, dass sie mit möglichst geringem Aufwand mitgenommen werden können. Das Tiefbauamt kann hierfür bestimmte Bereitstellungsformen vorgeben.
 
 <sup>5</sup> Das Tiefbauamt kann die Bereitstellung von Asche und Schlacke in Eimern und weitere Ausnahmen zulassen.
 
@@ -127,23 +131,27 @@ beschliesst:
 
 <sup>1</sup> Die Abfälle sind auf uneingefriedeten privaten Vorplätzen in der Nähe der Allmendgrenze, auf dem Trottoir oder, soweit ein solches fehlt, am Strassenrand zur Abfuhr bereitzustellen. Sie müssen für das Abfuhrpersonal gut zugänglich sein und dürfen den Verkehr nicht behindern.
 
-<sup>2</sup> Abfallcontainer müssen so aufgestellt werden, dass sie ohne Schwierigkeiten zum Abfuhrwagen und zurück befördert werden können. Bei Schnee und Eis sind die Zugänge zu den Bereitstellungsplätzen und die Durchgänge zum Abfuhrwagen freizulegen.
+<sup>2</sup> Container müssen so aufgestellt werden, dass sie ohne Schwierigkeiten zum Abfuhrwagen und zurück befördert werden können. Bei Schnee und Eis sind die Zugänge zu den Bereitstellungsplätzen und die Durchgänge zum Abfuhrwagen freizulegen.
 
 <sup>3</sup> Für Liegenschaften an Sackgassen und in anderen Fällen, in denen die Abholung der Abfälle an der Liegenschaftsgrenze mit einem unverhältnismässigen Aufwand verbunden ist, kann das Tiefbauamt andere Bereitstellungsplätze bestimmen.
 
-<sup>4</sup> Bei besonderen Verhältnissen kann sich die Betriebsleitung des Abfuhrwesens zur Entleerung der Abfallcontainer auf Privatareal bereit erklären, sofern grössere Abfallmengen anfallen und gute Zu- und Wegfahrmöglichkeiten für die Sammelfahrzeuge bestehen.
+<sup>4</sup> Bei besonderen Verhältnissen kann sich die Betriebsleitung des Abfuhrwesens zur Entleerung der Container auf Privatareal bereit erklären, sofern grössere Abfallmengen anfallen und gute Zu- und Wegfahrmöglichkeiten für die Sammelfahrzeuge bestehen.
+
+<sup>5</sup> In Gebieten mit öffentlichen Unterflurcontainern sind Abfälle in diesen bereitzustellen, soweit keine anderen gesetzlichen Vorgaben bestehen. Das Tiefbauamt kann Ausnahmen bewilligen.
 
 #### § 8
 
 **d) Zeit**
 
-<sup>1</sup> Abfälle dürfen erst am Tag der Abholung bereit gestellt werden. Erfolgt die Abfuhr vor 08.00 Uhr, so ist die Bereitstellung am Vorabend zulässig.
+<sup>1</sup> Abfälle sind zwischen 19.00 Uhr des Vorabends und 07.00 Uhr des Tages der Abholung bereitzustellen.
 
 <sup>2</sup> Über das Wochenende dürfen keine Abfälle zur Abholung bereitgestellt werden.
 
 <sup>3</sup> Container sind nach der Entleerung möglichst bald wieder an ihren üblichen Standort zu verbringen.
 
-<sup>4</sup> Das Tiefbauamt kann Ausnahmen zulassen.
+<sup>3<sup>bis</sup></sup> Abfälle können grundsätzlich jederzeit in Unterflurcontainern bereitgestellt werden.
+
+<sup>4</sup> Das Tiefbauamt kann Ausnahmen vorsehen.
 
 #### § 9
 
@@ -151,7 +159,7 @@ beschliesst:
 
 <sup>1</sup> Bis zur Bereitstellung zur Abfuhr sind die auf Grundstücken anfallenden Abfälle auf privatem Grund zu lagern. Sammelstellen auf öffentlichem Grund sind nur mit Bewilligung der nach der Gesetzgebung über die Inanspruchnahme der Allmend zuständigen Behörde zulässig.
 
-<sup>2</sup> Bei der Erstellung und soweit zumutbar beim Umbau von Häusern mit 20 oder mehr Wohnungen oder mit vergleichbarem Abfallanfall ist der für 800-Liter-Container nötige Platz zu schaffen. Wenn es die örtlichen Verhältnisse gestatten, ist die gleiche Auflage auch bei der Erstellung oder beim Umbau kleinerer Häuser zulässig, die organisatorisch zusammengehören. Der Standort soll wenn möglich von der Allmend aus nicht einsehbar sein.
+<sup>2</sup> Bei der Erstellung und soweit zumutbar beim Umbau von Häusern mit 20 oder mehr Wohnungen oder mit vergleichbarem Abfallanfall ist der für Container nötige Platz zu schaffen. Wenn es die örtlichen Verhältnisse gestatten, ist die gleiche Auflage auch bei der Erstellung oder beim Umbau kleinerer Häuser zulässig, die organisatorisch zusammengehören. Der Standort soll wenn möglich vom öffentlichen Raum aus nicht einsehbar sein.
 
 #### § 10
 
@@ -165,7 +173,7 @@ beschliesst:
 
 <sup>1</sup> Das Tiefbauamt führt regelmässige Sammlungen von Sonderabfällen aus Haushaltungen und Kleingewerbe durch.
 
-<sup>2</sup> Die IWB betreiben eine Sammelstelle für solche Abfälle in der Kehrichtverbrennungsanlage.
+<sup>2</sup> Das Tiefbauamt betreibt eine Sammelstelle für solche Abfälle in der Kehrichtverbrennungsanlage.
 
 <sup>3</sup> Kühlschränke können auf Anmeldung durch das Abfuhrwesen abgeholt werden. Sie müssen mit der Vignette der Stiftung Entsorgung Schweiz versehen werden.
 
