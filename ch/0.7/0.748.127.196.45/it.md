@@ -3,11 +3,11 @@ sr: "0.748.127.196.45"
 title: Accordo del 20 novembre 2018 tra il Consiglio federale svizzero e il Governo della Repubblica delle Filippine concernente il traffico aereo di linea
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/86"
 language: it
-version: 2018-11-20
+version: 2021-06-14
 adopted: 2018-11-20
 in_force: 2018-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/86/20181120/it/xml/fedlex-data-admin-ch-eli-cc-2019-86-20181120-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/86/20181120/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/86/20210614/it/xml/fedlex-data-admin-ch-eli-cc-2019-86-20210614-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/86/20210614/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,11 @@ Concluso il 20 novembre 2018
 
 Applicato provvisoriamente dal 20 novembre 2018
 
-(Stato 20 ottobre 2018)
+In vigore dal 14 giugno 2021[^t-1]
+
+(Stato 14 giugno 2021)
+
+[^t-1]: [RU 2021 442](https://fedlex.data.admin.ch/eli/oc/2021/442)
 
 Il Consiglio federale svizzero e il Governo della Repubblica delle Filippine (di seguito «Parti»),
 

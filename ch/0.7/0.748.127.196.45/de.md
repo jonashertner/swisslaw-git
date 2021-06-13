@@ -3,11 +3,11 @@ sr: "0.748.127.196.45"
 title: Abkommen vom 20. November 2018 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik der Philippinen über den Luftlinienverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/86"
 language: de
-version: 2018-11-20
+version: 2021-06-14
 adopted: 2018-11-20
 in_force: 2018-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/86/20181120/de/xml/fedlex-data-admin-ch-eli-cc-2019-86-20181120-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/86/20181120/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/86/20210614/de/xml/fedlex-data-admin-ch-eli-cc-2019-86-20210614-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/86/20210614/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,11 @@ Abgeschlossen am 20. November 2018
 
 Provisorisch angewendet seit dem 20. November 2018
 
-(Stand am 20. November 2018)
+In Kraft getreten am 14. Juni 2021[^t-1]
+
+(Stand am 14. Juni 2021)
+
+[^t-1]: [AS 2021 442](https://fedlex.data.admin.ch/eli/oc/2021/442)
 
 Der Schweizerische Bundesrat und die Regierung der Republik der Philippinen (nachstehend die «Vertragsparteien»),
 

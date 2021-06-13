@@ -3,11 +3,11 @@ sr: "0.748.127.196.45"
 title: Accord du 20 novembre 2018 entre le Conseil fédéral suisse et le Gouvernement de la République des Philippines relatif aux services aériens réguliers
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/86"
 language: fr
-version: 2018-11-20
+version: 2021-06-14
 adopted: 2018-11-20
 in_force: 2018-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/86/20181120/fr/xml/fedlex-data-admin-ch-eli-cc-2019-86-20181120-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/86/20181120/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/86/20210614/fr/xml/fedlex-data-admin-ch-eli-cc-2019-86-20210614-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/86/20210614/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,11 @@ Conclu le 20 novembre 2018
 
 Appliqué provisoirement dès le 20 novembre 2018
 
-(Etat le 20 novembre 2018)
+Entré en vigueur le 14 juin 2021[^t-1]
+
+(Etat le 14 juin 2021)
+
+[^t-1]: [RO 2021 442](https://fedlex.data.admin.ch/eli/oc/2021/442)
 
 Le Conseil fédéral suisse et le Gouvernement de la République des Philippines (ci-après dénommés «Parties contractantes»),
 
