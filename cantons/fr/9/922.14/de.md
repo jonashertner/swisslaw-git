@@ -3,13 +3,13 @@ canton: FR
 number: "922.14"
 title: Verordnung über die Jagd auf das Wildschwein
 language: de
-version: 2020-06-01
-valid_until: 2021-06-14
-version_adopted: 2020-05-25
+version: 2021-06-15
+valid_until: 2022-06-14
+version_adopted: 2021-06-01
 adopted: 2026-03-17
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/6530/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6851/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6530/pdf_file"
 
 Jagd auf das Wildschwein – V
 
-vom 25.05.2020 (Fassung in Kraft getreten am 01.06.2020)
+vom 01.06.2021 (Fassung in Kraft getreten am 15.06.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Zweck und Geltungsbereich**
 
-<sup>1</sup> Mit dieser Verordnung wird bezweckt, die Jagd auf das Wildschwein in den Monaten Juli und August 2020 zu gestatten, um die Wildschäden in der Landwirtschaft zu reduzieren.
+<sup>1</sup> Mit dieser Verordnung wird bezweckt, die Jagd auf das Wildschwein in den Monaten Juli und August 2021 zu gestatten, um die Wildschäden in der Landwirtschaft zu reduzieren.
 
 <sup>2</sup> Im Übrigen gelten die eidgenössische und die kantonale Jagdgesetzgebung.
 
@@ -46,7 +46,7 @@ beschliesst:
 
 **Orte**
 
-<sup>1</sup> Die Wildschweinjagd findet im Flachland und im Gebirge in folgenden Sektoren statt: 0202, 0701, 0702, 0703, 0704, 0705, 0706, 0801, 0802, 1001, 1002, 1004, 1005, 1101, 1103, 1302, 1303, 1305, 1306, 1401, 1405, 1406, 1501, 1502 und 1503 (siehe Anhang 1).
+<sup>1</sup> Die Wildschweinjagd findet im Flachland und im Gebirge in folgenden Sektoren statt: 0202, 0701, 0702, 0703, 0704, 0705, 0706, 1001, 1002, 1004, 1005, 1101, 1103, 1301, 1302, 1303, 1305, 1306, 1401, 1405, 1406, 1501, 1502 und 1503.
 
 <sup>2</sup> Im Wald und in allen Wildschutzgebieten gemäss den Artikeln 29 und 36 der Verordnung vom 21. Juni 2016 über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume ist die Jagd verboten.
 
@@ -80,7 +80,7 @@ beschliesst:
 
 <sup>1</sup> Wer an der Sommerjagd auf das Wildschwein teilnehmen will, muss ein Grundpatent und ein Spezialpatent, für das eine Taxe von 50 Franken bezahlt werden muss, erwerben.
 
-<sup>2</sup> Das Spezialpatent muss zwischen dem 1. und dem 30. Juni 2020 beim Oberamt bezogen werden.
+<sup>2</sup> Das Spezialpatent muss zwischen dem 15 und dem 30. Juni 2021 beim Oberamt bezogen werden.
 
 #### Art. 7
 
@@ -96,4 +96,4 @@ beschliesst:
 
 <sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen Artikel 2–7 dieser Verordnung.
 
-2020\_058
+2021\_064
