@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Verordnung vom 17. Oktober 2018 über Massnahmen gegenüber Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: de
-version: 2021-05-11
+version: 2021-06-15
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210511/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210511-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210615/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210615-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Myanmar
 
-vom 17. Oktober 2018 (Stand am 11. Mai 2021)
+vom 17. Oktober 2018 (Stand am 15. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -55,13 +55,18 @@ Gesperrt sind Gelder und wirtschaftliche Ressourcen, die sich im Eigentum oder u
 
 <sup>3</sup>
 
-Das Staatssekretariat für Wirtschaft (SECO) kann, nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Eidgenössischen Finanzdepartements, Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
+Das Staatssekretariat für Wirtschaft (SECO) kann, nach Rücksprache mit den zuständigen Stellen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Eidgenössischen Finanzdepartements (EFD), Zahlungen aus gesperrten Konten, Übertragungen gesperrter Vermögenswerte sowie die Freigabe gesperrter wirtschaftlicher Ressourcen ausnahmsweise bewilligen zur:
 
 - a. Vermeidung von Härtefällen;
 - b. Erfüllung bestehender Verträge;
 - c. Erfüllung von Forderungen, die Gegenstand einer bestehenden gerichtlichen, administrativen oder schiedsgerichtlichen Massnahme oder Entscheidung sind;
-- d. Bereitstellung humanitärer Hilfe; oder
-- e. Wahrung schweizerischer Interessen.
+- d. Erfüllung amtlicher Zwecke von diplomatischen oder konsularischen Missionen; oder
+- e. Wahrung schweizerischer Interessen.[^2-1]
+
+<sup>4</sup> Es kann, nach Rücksprache mit den zuständigen Stellen des EDA und des EFD, Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für Finanztransaktionen, die für humanitäre Zwecke wie die Durchführung oder Erleichterung von Hilfeleistungen, einschliesslich medizinischer Versorgung, Nahrungsmittellieferungen oder des Transports humanitärer Helferinnen und Helfer und damit verbundener Hilfe, oder für Evakuierungen aus Myanmar notwendig sind.[^2-2]
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 15. Juni 2021 ([AS 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 19. Mai 2021, in Kraft seit 15. Juni 2021 ([AS 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
 
 #### Art. 3
 
@@ -142,7 +147,7 @@ Es ist verboten, Forderungen der folgenden Personen, Unternehmen und Organisatio
 - c. natürliche Personen, Unternehmen und Organisationen in Myanmar;
 - d. natürliche Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten einer Person, Unternehmung oder Organisation nach den Buchstaben a–c handeln.
 
-[^7-1]: [[AS 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429), [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637), [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
+[^7-1]: [[AS 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637); [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
 
 #### Art. 8
 

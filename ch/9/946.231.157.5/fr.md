@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: "Ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: fr
-version: 2021-05-11
+version: 2021-06-15
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210511/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210511-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210511/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210615/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210615-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Myanmar
 
-du 17 octobre 2018 (Etat le 11 mai 2021)
+du 17 octobre 2018 (Etat le 15 juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -55,13 +55,18 @@ Sont gelés les avoirs et les ressources économiques qui sont la propriété ou
 
 <sup>3</sup>
 
-Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, après avoir consulté les services compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
+Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, après avoir consulté les services compétents du Département fédéral des affaires étrangères (DFAE) et du Département fédéral des finances (DFF), autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées afin:
 
 - a. de prévenir des cas de rigueur;
 - b. d’honorer des contrats existants;
 - c. d’honorer des créances en application d’une mesure ou décision judiciaire, administrative ou arbitrale existante;
-- d. de permettre l’acheminement de l’aide humanitaire, ou
-- e. de sauvegarder des intérêts suisses.
+- d. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires, ou
+- e. de sauvegarder des intérêts suisses.[^2-1]
+
+<sup>4</sup> Il peut, après avoir consulté les services compétents du DFAE et du DFF, accorder des dérogations aux interdictions prévues aux al. 1 et 2 lorsque les transactions financières sont nécessaires pour la fourniture d’une aide humanitaire, telle que l’acheminement d’une assistance ou la facilitation de cet acheminement, y compris en ce qui concerne les fournitures médicales et les denrées alimentaires ou le transfert de travailleurs humanitaires et de l’aide connexe, ou pour des évacuations hors du Myanmar.[^2-2]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 15 juin 2021 ([RO 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
+[^2-2]: Introduit par le ch. I de l’O du 19 mai 2021, en vigueur depuis le 15 juin 2021 ([RO 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
 
 #### Art. 3
 

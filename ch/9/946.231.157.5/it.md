@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Ordinanza del 17 ottobre 2018 che istituisce provvedimenti nei confronti del Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: it
-version: 2021-05-11
+version: 2021-06-15
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210511/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210511-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210511/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210615/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210615-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Myanmar
 
-del 17 ottobre 2018 (Stato 11 maggio 2021)
+del 17 ottobre 2018 (Stato 15 giugno 2021) (Stato 15 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -55,13 +55,18 @@ Sono bloccati gli averi e le risorse economiche di proprietà o sotto il control
 
 <sup>3</sup>
 
-La Segreteria di Stato dell’economia (SECO), d’intesa con i competenti uffici del Dipartimento federale degli affari esteri (DFAE) e del Dipartimento federale delle finanze, può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati nonché la liberazione delle risorse economiche bloccate per:
+La Segreteria di Stato dell’economia (SECO), d’intesa con i competenti uffici del Dipartimento federale degli affari esteri (DFAE) e del Dipartimento federale delle finanze (DFF), può eccezionalmente autorizzare prelievi da conti bloccati, trasferimenti di valori patrimoniali bloccati nonché la liberazione delle risorse economiche bloccate per:
 
 - a. evitare casi di rigore;
 - b. rispettare contratti esistenti;
 - c. onorare crediti oggetto di una misura o una sentenza giudiziaria, amministrativa o arbitrale;
-- d. fornire aiuti umanitari; oppure
-- e. tutelare interessi svizzeri.
+- d. adempiere agli scopi ufficiali di missioni diplomatiche o consolari; oppure
+- e. tutelare interessi svizzeri.[^2-1]
+
+<sup>4</sup> La SECO, d’intesa con i competenti uffici del DFAE et del DFF, può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 quando le transazioni finanziarie sono necessarie per fornire aiuto umanitario, come fornire o facilitare la fornitura di assistenza, comprese forniture mediche, cibo o trasferimento di operatori umanitari e relativa assistenza o per evacuazioni dal Myanmar.[^2-2]
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 15 giu. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
+[^2-2]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 15 giu. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
 
 #### Art. 3
 
