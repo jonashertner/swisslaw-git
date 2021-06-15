@@ -1,81 +1,45 @@
 ---
 canton: VS
 number: "813.2"
-title: Gesetz über den Beitritt zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis
+title: "Interkantonale Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis *"
 language: de
-version: 2009-07-01
-corrected: 2020-05-07
-version_adopted: 2008-12-17
+version: 2021-06-16
+version_adopted: 2021-02-10
 adopted: 2008-12-17
 in_force: 2009-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/813.2"
-pdf: "https://lex.vs.ch/api/de/versions/228/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2933/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den Beitritt zur interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis
+# Interkantonale Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis
 
-vom 10. Februar 2009
+vom 17.12.2008 (Stand 16.06.2021)[^t-1]
 
-Der Grosse Rat des Kantons Wallis
+Die Kantone Waadt und Wallis (nachstehend: "Kantone")
 
-eingesehen den Artikel 48 der Bundesverfassung;
+eingesehen Artikel 48 der Bundesverfassung vom 18. April 1999, Artikel 103 Absatz 2 der Verfassung des Kantons Waadt vom 14. April 2003 und Artikel 38 der Verfassung des Kantons Wallis vom 8. März 1907;
 
-eingesehen die Artikel 19 und 38 der Kantonsverfassung;
+eingesehen den Vertrag über die Mitwirkung der Kantonsparlamente bei der Ausarbeitung, der Ratifizierung, dem Vollzug und der Änderung von interkantonalen Verträgen und von Verträgen der Kantone mit dem Ausland vom 5. März 2010;
 
-eingesehen das Bundesgesetz über die Krankenversicherung vom 18. März 1994;
-
-eingesehen die Vereinbarung über die Aushandlung, Ratifikation, Ausführung und Änderung der interkantonalen Verträge und der Vereinbarungen der Kantone mit dem Ausland vom 9. März 2001;
-
-eingesehen das kantonale Gesetz über die Krankenanstalten und -institu-tionen vom 12. Oktober 2006;
-
-eingesehen den Bericht der interparlamentarischen Kommission;
-
-auf Antrag des Staatsrates,
-
-verordnet:
-
-#### Art. 1
-
-**Zweck und Anwendungsbereich**
-
-Der Kanton Wallis tritt der interkantonalen Vereinbarung über das Spital Riviera-Chablais Waadt-Wallis bei.
-
-#### Art. 2
-
-**Schlussbestimmungen**
-
-<sup>1</sup> Das vorliegende Gesetz untersteht dem fakultativen Referendum.
-
-<sup>2</sup> Der Staatsrat veröffentlicht das vorliegende Gesetz sowie den Text der Vereinbarung im Amtsblatt. Er setzt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes fest.[^2-1]
-
-So angenommen in einziger Lesung (Art. 101 RGR) im Grossen Rat in Sitten, den 10. Februar 2009.
-
-Der Präsident des Grossen Rates: Paul-André Roux Der Chef des Parlamentsdienstes: Claude Bumann
-
-[^2-1]: Inkrafttreten am 1. Juli 2009 gemäss Beschluss vom 24. Februar 2010 (Abl. Nr.9/2010)
-
-## Interkantonale Vereinbarung über das Spital Riviera-Chablais Waadt und Wallis
-
-Präambel Die Kantone Waadt und Wallis, im Folgenden "die Kantone" genannt, eingesehen die Artikel 48 der Bundesverfassung vom 18. April 1999, Artikel 103 Absatz 2 der Verfassung des Kantons Waadt vom 14. April 2003 und Artikel 38 der Verfassung des Kantons Wallis vom 8. März 1907;
-
-eingesehen die Vereinbarung über die Aushandlung, Ratifikation, Ausführung und Änderung der interkantonalen Verträge und der Vereinbarungen der Kantone mit dem Ausland vom 9. März 2001, im Folgenden "Vereinbarung über die Verträge" genannt;
-
-eingesehen das Bundesgesetz über die Krankenversicherung vom 18. März 1994;
+eingesehen das Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG);
 
 eingesehen das Waadtländer Gesetz über die Planung und Finanzierung der Gesundheitseinrichtungen von öffentlichem Interesse vom 5. Dezember 1978;
 
-eingesehen das Walliser Gesetz über die Krankenanstalten und -institutionen vom 12. Oktober 2006;
+eingesehen das Walliser Gesetz über die Krankenanstalten und -institutionen vom 13. März 2014 (GKAI);
 
-im Rahmen ihrer Pflicht, "jeder Person einen angemessenen Zugang zu Pflegeleistungen von guter Qualität zu ermöglichen" (Artikel 65 Absatz 2 der Waadtländer Verfassung) und "die Errichtung von Spitälern zu fördern und zu unterstützen" (Artikel 19 Absatz 1 der Walliser Verfassung), vereinbaren Folgendes:
+im Rahmen ihrer Pflicht, "jeder Person einen angemessenen Zugang zu Pflegeleistungen von guter Qualität zu ermöglichen" (Artikel 65 Absatz 2 der Waadtländer Verfassung) und "die Errichtung von Spitälern zu fördern und zu unterstützen" (Artikel 19 Absatz 1 der Walliser Verfassung),
 
-### Kapitel I: Rechtsform und allgemeine Bestimmungen
+vereinbaren Folgendes:
+
+[^t-1]: Beitritt des Kantons Wallis am 10.02.2009. Inkrafttreten am 01.07.2009.
+
+## 1 Rechtsform und allgemeine Bestimmungen
 
 #### Art. 1
 
-**Rechtsstellung des Spitals Riviera-Chablais Waadt-Wallis**
+**Rechtsstellung des Spital Riviera-Chablais Waadt-Wallis**
 
 <sup>1</sup> Die Kantone errichten eine autonome Anstalt interkantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit, die ihren Sitz in Rennaz (Waadt) hat und der gemeinsamen Aufsicht des Kantons Waadt und des Kantons Wallis untersteht.
 
@@ -83,53 +47,55 @@ im Rahmen ihrer Pflicht, "jeder Person einen angemessenen Zugang zu Pflegeleistu
 
 <sup>3</sup> Sie steht in beiden Kantonen auf der Liste der Spitäler, die im Sinne der Bundesgesetzgebung über die Krankenversicherung zugelassen sind.
 
+<sup>4</sup> Sie ist Eigentümerin der Infrastrukturen des Standorts Rennaz.
+
+<sup>5</sup> Der Staat Wallis ist Eigentümer der Infrastrukturen des Standorts Monthey und stellt der Anstalt diesen über eine Vereinbarung zur Verfügung.
+
 #### Art. 2
 
 **Autonomie**
 
 <sup>1</sup> Um ihre Aufgabe zu erfüllen, verfügt die Anstalt über die Autonomie, die ihr von der vorliegenden Vereinbarung eingeräumt wird, unter Vorbehalt der Aufsicht durch die Regierungen und die Grossen Räte der beiden Kantone.
 
-<sup>2</sup> Die Anstalt ist Mitglied des regionalen Pflegenetzes von anerkanntem öffentlichen Interesse im Sinne des Waadtländer Gesetzes vom 30. Januar 2007 über die Pflegenetze, und sie gehört zum Gesundheitsnetz Wallis (GNW) im Sinne von Artikel 14 Absatz 1 Buchstabe a und von Artikel 15 Absatz 3 des Walliser Gesetzes über die Krankenanstalten und –institutionen vom 12. Oktober 2006.
+<sup>2</sup> …
 
 #### Art. 3
 
 **Vereinbarungen mit Dritten**
 
-Die Anstalt ist zuständig für den Abschluss von Vereinbarungen über die Zusammenarbeit mit Dritten im Rahmen ihres Leistungsauftrags und ihres Leistungsvertrags.
+<sup>1</sup> Die Anstalt ist zuständig für den Abschluss von Vereinbarungen über die Zusammenarbeit mit Dritten im Rahmen ihres Leistungsauftrags und ihres Leistungsvertrags.
+
+<sup>2</sup> Die Übertragung von Leistungen an Dritte im Zusammenhang mit dem Auftrag der Anstalt untersteht der vorgängigen Genehmigung durch die beiden Departemente.
 
 #### Art. 4
 
 **Buchführung**
 
-Die Anstalt führt Buch nach den Regeln, die von den beiden Regierungen festgelegt werden.
+<sup>1</sup> Die Anstalt führt Buch nach den Regeln, die von den beiden Regierungen festgelegt werden.
 
 #### Art. 5
 
 **Steuerbefreiung**
 
-Die Anstalt ist von allen kantonalen und kommunalen Steuern befreit, unter Einschluss der Stempelsteuer.
+<sup>1</sup> Die Anstalt ist von allen kantonalen und kommunalen Steuern befreit, unter Einschluss der Stempelsteuer.
 
-### Kapitel II: Politische Behörden
+## 2 Politische Behörden
 
 #### Art. 6
 
 **Kompetenzen der beiden Grossen Räte**
 
-<sup>1</sup> Die Kompetenzen der beiden Grossen Räte sind (Art. 8 der Vereinbarung über die Verträge):
+<sup>1</sup> Die Kompetenzen der beiden Grossen Räte sind:
 
 - a) Verabschiedung der Zusammensetzung der interparlamentarischen Kommission, Bezeichnung ihrer Mitglieder und Festlegung der Ausführungsmodalitäten ihres Auftrags;
-
 - b) Annahme des Berichts der interparlamentarischen Kommission.
 
 <sup>2</sup> Die Kontrolle, welche die interparlamentarische Kommission über die Anstalt ausübt, bezieht sich auf:
 
 - a) die strategischen Ziele der Anstalt und die Umsetzung ihres Auftrags;
-
 - b) die mehrjährige Finanzplanung der Anstalt;
-
 - c) das Budget und die Jahresabrechnungen der Anstalt;
-
-- d) die Auswertung der von der Anstalt erreichten Ergebnisse, auf der Grund-lage des jährlichen Leistungsvertrags, der gemäss Artikel 15 mit den beiden Gesundheitsdepartementen abgeschlossen wird.
+- d) die Auswertung der von der Anstalt erreichten Ergebnisse, auf der Grundlage des jährlichen Leistungsvertrags, der gemäss Artikel 15 mit den beiden für die Gesundheit zuständigen Departementen abgeschlossen wird.
 
 <sup>3</sup> Die interparlamentarische Kommission richtet einmal pro Jahr einen Bericht zu seinen Kontrollergebnissen an die beiden Grossen Räte.
 
@@ -142,64 +108,65 @@ Die Anstalt ist von allen kantonalen und kommunalen Steuern befreit, unter Einsc
 <sup>1</sup> Die Kompetenzen der beiden Regierungen sind:
 
 - a) Festlegung der Buchführungsregeln der Anstalt (Art. 4);
-
-- b) Bezeichnung von sechs der neun Mitglieder des Anstaltsrates (Art. 9);
-
-- c) Ratifizierung des Entwurfs zum Budget und Entlastung des Astaltsrates in seiner jährlichen Geschäftsführung (Art. 10, Bst. e);
-
-- d) Genehmigung des Revisionsorgans, das vom Anstaltsrat vorgeschlagen wird (Art. 13);
-
-- e) Festlegung des Auftrags der Anstalt (Art. 14);
-
-- f) Annahme des Finanzierungssystems des Betriebs (Art. 17) und der Investitionen (Art. 19) der Anstalt;
-
+- b) Ernennung der Mitglieder des Anstaltsrates (Art. 9);
+- b<sup>bis</sup>) Bezeichnung der Präsidentin oder des Präsidenten und der Vizepräsidentin oder des Vizepräsidenten des Anstaltsrates (Art. 9 Abs. 3);
+- c) Genehmigung der Jahresrechnung und Entlastung des Anstaltsrates in seiner jährlichen Geschäftsführung (Art. 10 Bst. e);
+- d) Bezeichnung der Revisionsstelle auf Vorschlag des Anstaltsrates (Art. 13);
+- e) Festlegung der Aufgaben und des Leistungsauftrags der Anstalt (Art. 14);
+- f) Annahme des Finanzierungssystems des Betriebs (Art. 17) und der Strategie des Eigentümers;
 - g) Festlegung der Form und der Bedingungen der Darlehen und Bürgschaften (Art. 18);
-
 - h) Festsetzung des Rahmens der Arbeitsverhältnisse bei Fehlen eines GAV (Art. 20 Abs. 3) sowie der Weisungen bezüglich der Entlöhnung der Mitglieder der Generaldirektion und der Kaderärzte (Art. 20 Abs. 4);
+- i) Überwachung der Verwaltung und der Funktionsweise der Anstalt (Art. 25).
+- j) …
 
-- i) Überwachung der Verwaltung und der Funktionsweise der Anstalt (Art. 25);
+<sup>2</sup> Die beiden Regierungen legen die Einzelheiten in einem Ausführungsreglement fest, namentlich:
 
-- j) Genehmigung der Zusammensetzung der Baukommission (Art. 28).
+- a) die Einzelheiten zur Ernennung der Präsidentin oder des Präsidenten des Anstaltsrates, die Entlöhnung, die Mandatsdauer und die Altersgrenze der Mitglieder;
+- b) die Festlegung der gemeinwirtschaftlichen Leistungen.
 
-<sup>2</sup> Die beiden Regierungen legen die Einzelheiten in einem Ausführungsreglement fest.
+<sup>3</sup> Bei einer Meinungsverschiedenheit entscheiden sich die beiden Regierungen für ein Verfahren zur Beilegung von Streitigkeiten.
 
-<sup>3</sup> Bei einer Meinungsverschiedenheit entscheiden sich die beiden Regierungen für ein Verfahren zur Beilegung von Streitigkeiten..
+#### Art. 7a
 
-### Kapitel III: Organe der Anstalt
+**Kompetenzen der beiden Departemente**
+
+<sup>1</sup> Die beiden Departemente haben insbesondere folgende Kompetenzen:
+
+- a) Unterzeichnung des Leistungsvertrags (Art. 15);
+- b) Genehmigung des Budgetentwurfs (Art. 10 Bst. e);
+- c) Ratifizierung der Ernennung der Generaldirektorin oder des Generaldirektors (Art. 10 Bst. b);
+- d) Erlassen der gemeinwirtschaftlichen Leistungen;
+- e) Genehmigung jeder Übertragung von Leistungen an Dritte im Zusammenhang mit dem Auftrag der Anstalt (Art. 3 Abs. 2).
+
+## 3 Organe der Anstalt
 
 #### Art. 8
 
 **Organe der Anstalt**
 
-Die Organe der Anstalt sind:
+<sup>1</sup> Die Organe der Anstalt sind:
 
 - a) der Anstaltsrat;
-
 - b) die Generaldirektion;
-
-- c) das Revisionsorgan.
+- c) die Revisionsstelle.
 
 #### Art. 9
 
 **Anstaltsrat**
 
-<sup>1</sup> Die Anstalt steht unter der allgemeinen Verantwortung eines Rates von neun Mitgliedern:
+<sup>1</sup> Die Anstalt steht unter der allgemeinen Verantwortung eines Rates von neun Mitgliedern, von denen sechs durch die Regierung des Kantons Waadt und drei durch die Regierung des Kantons Wallis ernannt werden.
 
-- sechs Mitglieder werden von den beiden Regierungen ernannt, davon vier für den Kanton Waadt und zwei für den Kanton Wallis;
+- a) …
+- b) …
+- c) …
 
-- zwei Mitglieder werden von den Pflegenetzen von Waadt Ost ernannt;
+<sup>2</sup> Die beiden Regierungen achten darauf, dass der Anstaltsrat gemäss den Prinzipien einer guten Unternehmensführung ausgewählt wird. Zudem stellen sie sicher, dass unterschiedliche Kompetenzen sowie die Regionalvertretung im Anstaltsrat vertreten sind.
 
-- ein Mitglied wird vom Gesundheitsnetz Wallis (GNW) ernannt.
+<sup>3</sup> Der Anstaltsrat erstellt ein Reglement, das seine eigene Funktionsweise regelt.
 
-<sup>2</sup> Die beiden Staatsräte, die Pflegenetze Waadt Ost sowie das Gesundheitsnetz Wallis achten darauf, dass der Anstaltsrat gemäss den Prinzipien einer guten Führung und zur Gewährleistung einer regionalen Vertretung ausgewählt wird.
-
-<sup>3</sup> Der Anstaltsrat schlägt den beiden Regierungen ein Reglement über seine eigene Funktionsweise vor. Dieses Reglement bestimmt insbesondere:
-
-- a) die Modalitäten der Ernennung des Präsidenten des Rates;
-
-- b) die Dauer der Ämter, ihre Zahl und die Altersgrenze der Mitglieder;
-
-- c) die internen Verfahren und Abläufe.
+- a) …
+- b) …
+- c) …
 
 #### Art. 10
 
@@ -207,32 +174,18 @@ Die Organe der Anstalt sind:
 
 <sup>1</sup> Die Kompetenzen des Anstaltsrates sind insbesondere:
 
-**Qualität des**
-
-- a) Sicherstellung einer Verwaltung, die den Anforderungen der Wirtschaftlichkeit, Wirksamkeit und Krankenversicherungsgesetzes entspricht;
-
-- b) Ernennung der Generaldirektorin oder des Generaldirektors nach Absprache mit den Gesundheitsdepartementen der Kantone Waadt und Wallis (im Folgenden "die Departemente" genannt);
-
-- c) Ernennung der anderen Mitglieder der Generaldirektion sowie der Kaderärzte;
-
+- a) Sicherstellung einer Verwaltung, die den Anforderungen der Wirtschaftlichkeit, Wirksamkeit und Qualität des Krankenversicherungsgesetzes entspricht;
+- b) Ernennung der Generaldirektorin oder des Generaldirektors nach Genehmigung durch die beiden für die Gesundheit zuständigen Departemente;
+- c) Ernennung der anderen Mitglieder der Generaldirektion;
 - d) Erlass der Regeln, die für das Funktionieren der Anstalt erforderlich sind;
-
-- e) Erstellung des Budgets und der Rechnung sowie des Finanzplans aufgrund des Vorschlags der Generaldirektion im Rahmen des geltenden Leistungsvertrags, sowie deren Vorlegung zur Ratifizierung durch die beiden Regierungen;
-
+- e) Erstellung des Budgets und der Rechnung sowie des Finanzplans auf Vorschlag der Generaldirektion im Rahmen des geltenden Leistungsvertrags;
 - f) Unterzeichnung der Vereinbarungen mit Dritten (Art. 3) und des Leistungsvertrags (Art. 15);
-
 - g) Unterzeichnung der Vereinbarungen mit den Versicherern der beiden Kantone (Art. 17);
-
 - h) Abschluss von GAV (Art. 20 Abs. 2);
-
-- i) Einsetzung der Baukommission und Ernennung ihrer Mitglieder (Art. 27 und 28);
-
+- i) …
 - j) Einrichtung eines Ärztekollegiums und Genehmigung seines Organisationsreglements;
-
 - k) Schaffung einer Personalkommission und Genehmigung ihres Organisationsreglements;
-
-- l) Erstellung eines jährlichen Tätigkeitsberichtes und dessen Vorlegung an die beiden Regierungen;
-
+- l) Erstellung eines jährlichen Tätigkeitsberichts;
 - m) Ausübung aller Kompetenzen, die nicht einem anderen Organ zugewiesen werden.
 
 <sup>2</sup> Die beiden Regierungen legen die Einzelheiten in einem Ausführungsreglement fest.
@@ -241,17 +194,14 @@ Die Organe der Anstalt sind:
 
 **Generaldirektion**
 
-<sup>1</sup> Der Generaldirektion gehören insbesondere an:
+<sup>1</sup> Die Zusammensetzung der Generaldirektion und das Pflichtenheft ihrer Mitglieder werden vom Anstaltsrat erlassen. Der Generaldirektion gehören insbesondere an:
 
-- die Generaldirektorin oder der Generaldirektor;
+- a) die Generaldirektorin oder der Generaldirektor;
+- b) die Verwaltungs- oder Finanzdirektorin oder der Verwaltungs- oder Finanzdirektor;
+- c) die medizinische Direktorin oder der medizinische Direktor;
+- d) die Pflegedirektorin oder der Pflegedirektor.
 
-- die Verwaltungsdirektorin oder der Verwaltungsdirektor;
-
-- die medizinische Direktorin oder der medizinische Direktor;
-
-- die Pflegedirektorin oder der Pflegedirektor.
-
-<sup>2</sup> Der Anstaltsrat kann weitere Mitglieder ernennen.
+<sup>2</sup> …
 
 #### Art. 12
 
@@ -265,47 +215,53 @@ Die Organe der Anstalt sind:
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Jahresrechnung der Anstalt wird von einer externen Revisionsstelle geprüft, die vom Anstaltsrat vorgeschlagen und von den beiden Regierungen bestätigt wird.
+<sup>1</sup> Die Jahresrechnung der Anstalt wird von einer externen Revisionsstelle geprüft.
 
 <sup>2</sup> Am Ende jedes Rechnungsjahres legt die Revisionsstelle dem Anstaltsrat einen Bericht vor, der zusammen mit der Rechnung den beiden Regierungen übergeben wird.
 
 <sup>3</sup> Die Dauer des Auftrags der Revisionsstelle beträgt höchstens drei Jahre und kann im Rahmen des Bundesrechtes erneuert werden.
 
-### Kapitel IV: Betriebsregeln und Finanzierung (Grundsätze)
+## 4 Betriebsregeln und Finanzierung (Grundsätze)
 
 #### Art. 14
 
-**Auftrag der Anstalt**
+**Aufgaben und Auftrag der Anstalt**
 
-Die Anstalt erbringt Leistungen im Gesundheitsbereich entsprechend dem Auftrag, der von den beiden Regierungen erteilt wurde.
+<sup>1</sup> Die Anstalt erbringt Leistungen im Gesundheitsbereich entsprechend den Aufgaben und dem Auftrag, die ihr von den beiden Regierungen erteilt wurden.
 
 #### Art. 15
 
 **Leistungsvertrag**
 
-<sup>1</sup> Die Umsetzung des Auftrags der Anstalt bildet Gegenstand eines jährlichen Leistungsvertrags, der zwischen dem Anstaltsrat und den beiden Vorstehern des Gesundheitsdepartements abgeschlossen wird. Dieser Vertrag umfasst insbesondere die Ziele, die Qualitäts- und Leistungsanforderungen sowie das zugewiesene Budget.
+<sup>1</sup> Die Umsetzung der Aufgaben und des Auftrags der Anstalt bildet Gegenstand eines Leistungsvertrages, der zwischen dem Anstaltsrat und den beiden für die Gesundheit zuständigen Departementen abgeschlossen wird. Dieser Vertrag umfasst insbesondere die Ziele, die Qualitäts- und Leistungsanforderungen sowie die gewährte Finanzierung.
 
-<sup>2</sup> Der Leistungsvertrag kann auch die Modalitäten der Finanzierung besonderer Aufgaben von öffentlichem Interesse (von den Versicherern nicht finanzierte Aufgaben) umfassen.
+<sup>2</sup> Im Leistungsvertrag sind auch die Modalitäten der Finanzierung der gemeinwirtschaftlichen Leistungen vorgesehen.
 
 #### Art. 16
 
-**Patientenfreizügigkeit**
+**Patientenfreizügigkeit für Waadtländer und Walliser**
 
-Die Waadtländer und die Walliser Patienten können an den verschiedenen Standorten der Anstalt beliebig zum gleichen Tarif aufgenommen werden.
+<sup>1</sup> Die Hospitalisation von Waadtländer und Walliser Patientinnen und Patienten ist an den verschiedenen Standorten der Anstalt gewährleistet.
 
 #### Art. 17
 
 **Finanzierung des Betriebs**
 
-Von der Inbetriebnahme an erfolgt die Finanzierung der Tätigkeit nach einem einzigen System, das von den beiden Regierungen festgelegt wird. Dieses System umfasst identische Taxpunktwerte und Tarifverträge mit den Versicherern der beiden Kantone.
+<sup>1</sup> Die Finanzierung der Tätigkeit erfolgt nach einem einzigen System, das von den beiden Regierungen festgelegt wird. Dieses System umfasst identische Taxpunktwerte und Tarifverträge mit den Versicherern der beiden Kantone.
 
 #### Art. 18
 
-**Laufendes Betriebskapital**
+**Bürgschaften oder Darlehen**
 
-<sup>1</sup> Die Kantone gewähren die Bürgschaften und/oder Darlehen bis zum Höchstbetrag von 30 Prozent des jährlichen Betriebsbudgets, um das laufende Betriebskapital zu sichern, das für den Betrieb der Anstalt unerlässlich ist.
+<sup>1</sup> Die Kantone gewähren der Anstalt Bürgschaften oder Darlehen bis zum Höchstbetrag von 30 Prozent ihres jährlichen Budgets, um sicherzustellen, dass sie über die erforderlichen Finanzmittel für ihren Betrieb verfügt.
 
-<sup>2</sup> Die Bürgschaften und/oder Darlehen werden von den beiden Kantonen zu 75 Prozent für den Kanton Waadt und zu 25 Prozent für den Kanton Wallis gewährt.
+<sup>1<sup>bis</sup></sup> Die Anstalt verwendet die von den Kantonen ausgeliehenen oder mit deren Garantie aufgenommenen Beträge im Sinne von Absatz 1, um die laufenden Betriebskosten sowie die nicht durch andere spezifische Garantien finanzierten Investitionskosten zu begleichen.
+
+<sup>1<sup>ter</sup></sup> Die Investitionen im Zusammenhang mit den zum Zeitpunkt der Eröffnung von Rennaz angeschafften medizinischen Geräten sind im Höchstbetrag dieser 30 Prozent eingeschlossen.
+
+<sup>1<sup>quater</sup></sup> Die Gewährung einer besonderen Bürgschaft oder eines besonderen Darlehens für wichtige Anschaffungen durch die beiden Grossen Räte bleibt vorbehalten.
+
+<sup>2</sup> Die Bürgschaften oder Darlehen werden von den beiden Kantonen in Höhe von 75 Prozent für den Kanton Waadt und von 25 Prozent für den Kanton Wallis gewährt. Die beiden Regierungen legen die Aufteilung der Übernahme der Bürgschaften oder Darlehen zwischen den beiden Kantonen anhand der Belegungsrate der Anstalt mit Waadtländer und Walliser Patientinnen und Patienten alle 5 Jahre fest.
 
 <sup>3</sup> Die beiden Regierungen legen die Form und die Bedingungen der Gewährung dieser Bürgschaften und/oder Darlehen fest.
 
@@ -313,11 +269,11 @@ Von der Inbetriebnahme an erfolgt die Finanzierung der Tätigkeit nach einem ein
 
 **Investitionen**
 
-<sup>1</sup> Die Investitionen werden gegebenenfalls mit den Eigenmitteln der Anstalt oder mit Fremdmitteln in Form von Bankdarlehen finanziert, die von der Anstalt abgeschlossen werden, nötigenfalls zusammen mit den Garantien der beiden Kantone entsprechend den in jedem Kanton gültigen Bestimmungen.
+<sup>1</sup> Die Investitionen werden über die Tarife gemäss Bundesgesetzgebung finanziert. Vorbehalten bleibt die Finanzierung der gemeinwirtschaftlichen Leistungen.
 
-<sup>2</sup> Sobald ein Satz der tatsächlichen Nutzung durch die Patienten jedes Kantons feststeht, jedoch spätestens nach 24 Betriebsmonaten, wird die Gewährung jeder neuen staatlichen Garantie anhand dieser Nutzungsrate aufgeteilt. Bis dann wird die Gewährung jeder neuen staatlichen Garantie zu 75 Prozent auf den Kanton Waadt und zu 25 Prozent auf den Kanton Wallis verteilt.
+<sup>2</sup> …
 
-<sup>3</sup> Nach der Inbetriebnahme der Anstalt und nach der Konsolidierung der Bauabrechnung finanziert die Anstalt die Belastungen, welche mit den unter Absatz 1 erwähnten Darlehen einhergehen, dank der Tarifeinnahmen, die aufgrund der neuen Modalitäten der Spitalfinanzierung erzielt werden, die mit dem Bundesgesetz vom 21. Dezember 2007 zur Änderung des KVG und mit den von den beiden Kantonen erlassenen Ausführungsbestimmungen dazu eingeführt wurden.
+<sup>3</sup> …
 
 #### Art. 20
 
@@ -337,21 +293,21 @@ Von der Inbetriebnahme an erfolgt die Finanzierung der Tätigkeit nach einem ein
 
 **Berufliche Vorsorge**
 
-Der Anstaltsrat tritt einer oder mehreren beruflichen Vorsorgeregelungen bei, die den Bestimmungen des Bundesgesetzes über die berufliche Vorsorge (BVG) entsprechen.
+<sup>1</sup> Der Anstaltsrat tritt einer oder mehreren beruflichen Vorsorgeregelungen bei, die den Bestimmungen des Bundesgesetzes über die berufliche Vorsorge (BVG) entsprechen.
 
 #### Art. 22
 
 **Öffentliche Beschaffungen**
 
-Für alle Beschaffungen untersteht die Anstalt der Waadtländer Gesetzgebung über die öffentlichen Beschaffungen.
+<sup>1</sup> Für alle Beschaffungen untersteht die Anstalt der Waadtländer Gesetzgebung über die öffentlichen Beschaffungen.
 
-### Kapitel V: Verantwortlichkeit und Kontrollen
+## 5 Verantwortlichkeit und Kontrollen
 
 #### Art. 23
 
 **Finanzielle Verantwortung**
 
-Die Anstalt ist für ihr Betriebsergebnis verantwortlich und verfügt über keine Defizitgarantie.
+<sup>1</sup> Die Anstalt ist für ihr Betriebsergebnis verantwortlich und verfügt über keine Defizitgarantie.
 
 #### Art. 24
 
@@ -367,17 +323,15 @@ Die Anstalt ist für ihr Betriebsergebnis verantwortlich und verfügt über kein
 
 **Aufsicht**
 
-<sup>1</sup> Die Anstalt unterliegt den Kontrollen der beiden Regierungen, die sich auf die Einhaltung des Auftrags, des Leistungsvertrags, des Budgets, der Rechnung und der Verwendung der Subventionen erstrecken.
+<sup>1</sup> Die Anstalt unterliegt den Kontrollen der beiden Departemente, die sich auf die Einhaltung der Aufgaben, des Auftrags, des Leistungsvertrags, des Budgets, der Rechnung und der Verwendung der Subventionen erstrecken.
 
 <sup>2</sup> Die Kontrollen erfolgen nach den Modalitäten, wie sie in der vorliegenden Vereinbarung und ihren Ausführungsreglementen sowie in der Waadtländer und der Walliser Gesetzgebung vorgesehen sind.
 
-### Kapitel VI: Übergangsbestimmungen
+## 6 Übergangsbestimmungen
 
 #### Art. 26
 
-**Einsetzung der Organe**
-
-Nach dem Inkrafttreten der vorliegenden Vereinbarung ernennen die beiden Regierungen den Anstaltsrat.
+**…**
 
 #### Art. 27
 
@@ -385,17 +339,19 @@ Nach dem Inkrafttreten der vorliegenden Vereinbarung ernennen die beiden Regieru
 
 <sup>1</sup> Die Anstalt ist der Bauherr.
 
-<sup>2</sup> Nach seiner Ernennung setzt der Anstaltsrat eine Baukommission ein, die seiner Kontrolle untersteht, und bezeichnet ihre Mitglieder unter Vorbehalt der Genehmigung durch die beiden Regierungen.
+<sup>2</sup> …
 
 #### Art. 28
 
-**Zusammensetzung der Baukommission**
+**Baukommission**
 
-<sup>1</sup> Die Baukommission besteht aus neun Mitgliedern, von denen einige aus der Mitte des Anstaltsrates stammen.
+<sup>1</sup> Die Baukommission besteht aus fünf bis neun Mitgliedern, die vom Anstaltsrat ernannt werden.
 
-<sup>2</sup> Drei Mitglieder der Baukommission vertreten das Wallis..
+<sup>1<sup>bis</sup></sup> Die Baukommission ist bis zur Schlussabrechnung, inklusive Standorte Samaritain und Monthey, tätig.
 
-<sup>3</sup> Die mit dem Projekt beauftragten Architekten und Ingenieure sind nicht Mitglieder der Baukommission, sie nehmen jedoch mit beratender Stimme an ihren Sitzungen teil.
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 #### Art. 29
 
@@ -403,16 +359,11 @@ Nach dem Inkrafttreten der vorliegenden Vereinbarung ernennen die beiden Regieru
 
 <sup>1</sup> Die Kompetenzen der Baukommission sind insbesondere:
 
-- a) Ernennung des Organisators des Architekturwettbewerbs, des Präsidenten oder der Präsidentin sowie der Mitglieder der Jury des Wettbewerbs, und gegebenenfalls der Mitglieder der Expertenkommission unter Einhaltung der geltenden Regeln;
-
-- b) Überwachung des Wettbewerbs und Bezeichnung des preisgekrönten Projekts;
-
-- c) Organisation und Bearbeitung der Ausschreibungen und Vorlegung der Zuschläge an die beiden Departemente zur Genehmigung;
-
-- d) Vorlegung eines Berichts zur Baudurchführung an die beiden Gesundheitsdepartemente (mindestens einmal pro Jahr);
-
-- e) Kontrolle und Genehmigung der Schlussabrechung über die Baukosten sowie Übermittlung an die beiden Departemente zur Genehmigung;
-
+- a) …
+- b) …
+- c) Organisation und Bearbeitung der Ausschreibungen unter Einhaltung der Gesetzgebung über das öffentliche Beschaffungswesen;
+- d) Vorlegung eines Berichts zur Baudurchführung an die beiden für die Gesundheit zuständigen Departemente (mindestens einmal pro Jahr);
+- e) Kontrolle und Genehmigung der Schlussabrechnung über die Baukosten sowie Übermittlung an die beiden Departemente zur Genehmigung;
 - f) Achtung auf eine gute Abstimmung der Arbeiten mit den betroffenen Spitaldirektionen.
 
 <sup>2</sup> Ausserdem erlässt die Baukommission ein Reglement über ihre Funktionsweise und unterbreitet es den beiden Departementen zur Genehmigung.
@@ -421,37 +372,26 @@ Nach dem Inkrafttreten der vorliegenden Vereinbarung ernennen die beiden Regieru
 
 **Baubegleitende Kontrollen durch die beiden Grossen Räte**
 
-Die interparlamentarische Kommission verfolgt die Baudurchführung des neuen Spitals auf der Grundlage des jährlich gemäss Artikel 29 von der Bau-kommission erstellten Berichts, der ihr von den beiden Departementen übermittelt wird. Sie informiert die beiden Grossen Räte im Rahmen des jährlichen, an sie gerichteten Berichts.
+<sup>1</sup> Die interparlamentarische Kommission verfolgt die Baudurchführung und den Umbau der Anstalt auf der Grundlage des jährlich gemäss Artikel 29 von der Baukommission erstellten Berichts, der ihr von den beiden Departementen übermittelt wird. Sie informiert die beiden Grossen Räte im Rahmen des jährlichen, an sie gerichteten Berichts.
 
 #### Art. 31
 
-**Land und Infrastrukturen von Rennaz**
-
-<sup>1</sup> Die Stiftung der Rivieraspitäler überträgt oder überlässt der Anstalt unentgeltlich das Land, das für den Betrieb des Akutspitals notwendig ist.
-
-<sup>2</sup> Die Modalitäten der Übertragung oder Überlassung dieses Landes bildet Gegenstand einer Vereinbarung zwischen der Stiftung der Rivieraspitäler und der Anstalt. Diese Vereinbarung unterliegt der Genehmigung durch die beiden Departemente.
-
-<sup>3</sup> Die Anstalt ist von Beginn der Bauarbeiten an Eigentümerin der Infrastrukturen von Rennaz.
+**…**
 
 #### Art. 32
 
-Land und Infrastrukturen der Standorte Monthey und Le Samaritain
+**Grundstücke und Infrastrukturen des Standorts Le Samaritain**
 
-<sup>1</sup> Die Übertragung oder Überlassung des Landes, der Infrastrukturen und Einrichtungen der Standorte Le Samaritain und Monthey wird für jeden Kanton durch eine Vereinbarung geregelt:
+<sup>1</sup> Die Übertragung oder Überlassung der Grundstücke, der Infrastrukturen und Einrichtungen des Standorts Le Samaritain wird durch eine Vereinbarung zwischen der Anstalt und der Stiftung "Fondation des Hôpitaux de la Riviera" geregelt.
 
-- für den Kanton Waadt: zwischen der Anstalt und der Stiftung der Rivieraspitäler;
+- a) …
+- b) …
 
-- für den Kanton Wallis: zwischen der Anstalt und dem Kanton Wallis.
-
-<sup>2</sup> Diese Vereinbarungen unterliegen der Genehmigung durch die beiden Departemente.
+<sup>2</sup> Diese Vereinbarung unterliegt der Genehmigung durch die beiden Departemente.
 
 #### Art. 33
 
-Übernahme der Rechte und Pflichten aus dem Betrieb der Standorte Le Samaritain und Monthey
-
-<sup>1</sup> Die Anstalt übernimmt von der Stiftung der Rivieraspitäler beziehungsweise von der Spitalvereinigung des Chablais alle Rechte und Pflichten, die mit dem Betrieb der Standorte Le Samaritain und Monthey verbunden sind.
-
-<sup>2</sup> Die beiden Regierungen legen die Modalitäten des Inkrafttretens der vorliegenden Bestimmungen auf Antrag des Anstaltsrates fest.
+**…**
 
 #### Art. 34
 
@@ -459,51 +399,59 @@ Land und Infrastrukturen der Standorte Monthey und Le Samaritain
 
 <sup>1</sup> Die Zukunft der bestehenden Standorte Montreux, Mottex, La Providence in Vevey, Aigle und Miremont bildet Gegenstand von Vereinbarungen, die zwischen der Stiftung der Rivieraspitäler und der Spitalvereinigung des Chablais einerseits und dem Kanton Waadt andrerseits ausgehandelt werden.
 
-<sup>2</sup> Die Anstalt übernimmt auf alle Fälle die Rechte und Pflichten aus den Arbeitsverhältnissen zwischen der Stiftung der Rivieraspitäler und der Spitalvereinigung des Chablais einerseits und dem Personal der Standorte Montreux, Mottex, La Providence, Aigle und Miremont andrerseits.
+<sup>2</sup> …
 
 #### Art. 35
 
-Finanzierung des Wettbewerbs, der Studien und des Baus (Grundsätze)
-
-<sup>1</sup> Von der Errichtung der Anstalt an wird das Projekt (Wettbewerb, Studien und Bau) mit Bankdarlehen finanziert, die von der Anstalt mit den Garantien der beiden Kantone nach den in jedem Kanton geltenden gesetzlichen Bestimmungen abgeschlossen werden. Die Garantien werden zu 75 Prozent auf den Kanton Waadt und zu 25 Prozent auf den Kanton Wallis aufgeteilt.
-
-<sup>2</sup> Nach der Inbetriebnahme der Anstalt und nach erfolgter Konsolidierung der Bauabrechnung finanziert die Anstalt die Belastungen, die mit dem in Absatz 1 genannten Darlehen verbunden sind, dank der Tarifeinnahmen, die aufgrund der neuen Modalitäten der Spitalfinanzierung erzielt werden, die mit dem Bundesgesetz vom 21. Dezember 2007 zur Änderung des KVG und mit den von den beiden Kantonen erlassenen Ausführungsbestimmungen dazu eingeführt wurden.
+**…**
 
 #### Art. 36
 
 **Vorbetriebliche Kosten und Umzugskosten**
 
-Die vorbetrieblichen Kosten und die Umzugskosten werden von den Kantonen übernommen, und zwar zu 75 Prozent vom Kanton Waadt und zu 25 Prozent vom Kanton Wallis.
+<sup>1</sup> Die vorbetrieblichen Kosten und die Umzugskosten werden von den Kantonen übernommen, und zwar zu 75 Prozent vom Kanton Waadt und zu 25 Prozent vom Kanton Wallis.
 
 #### Art. 37
 
-Evaluation der Organisation und der Unternehmensführung der Anstalt
+**Evaluation der Organisation und der Unternehmensführung der Anstalt**
 
-<sup>1</sup> Die Modalitäten der Organisation und der Unternehmensführung der Anstalt werden von den beiden Regierungen nach fünf Betriebsjahren evaluiert und bilden Gegenstand eines Berichtes an die Grossen Räte.
+<sup>1</sup> Die Modalitäten der Organisation und der Unternehmensführung der Anstalt einschliesslich Finanzlage werden von den beiden Regierungen nach 5 Betriebsjahren des Standorts Rennaz evaluiert und bilden Gegenstand eines Berichts an die Grossen Räte.
 
 <sup>2</sup> Die Modalitäten der Evaluation werden von den beiden Regierungen festgelegt.
 
-### Kapitel VII: Schlussbestimmungen
+## 7 Schlussbestimmungen
+
+#### Art. 37a
+
+**Temporäre finanzielle Unterstützung**
+
+<sup>1</sup> Die beiden Kantone gewähren im 2021 eine gemeinwirtschaftliche Leistung von 20 Millionen Franken als Fusionskostenbeitrag.
+
+<sup>2</sup> Ab dem 1. Januar 2021 bis zum 31. Dezember 2035 wird der Anstalt eine gemeinwirtschaftliche Leistung von jährlich 7 Millionen Franken gewährt, um die nicht durch den Betrieb gedeckten Investitionskosten zu finanzieren. Die Zweckmässigkeit der gemeinwirtschaftlichen Leistung wird alle fünf Jahre evaluiert.
+
+<sup>3</sup> Die Kantone vereinbaren bis zum 31. Dezember 2035 eine zusätzliche temporäre Bürgschaft von 40 Millionen Franken, um die nötigen Finanzmittel für den Betrieb der Anstalt zu gewährleisten.
+
+<sup>4</sup> In Bezug auf die Aufteilung der Finanzierung der in den Absätzen 1 und 2 genannten gemeinwirtschaftlichen Leistungen und der Bürgschaft zwischen den Kantonen kommt analog Artikel 18 Absatz 2 zur Anwendung.
+
+<sup>5</sup> Die Anstalt setzt den Plan für die Wiederherstellung des Gleichgewichts um, mit dem Ziel, die Ausgeglichenheit ihrer betrieblichen Jahresrechnung bis spätestens am 31. Dezember 2026 zu erlangen. Sie erstellt halbjährlich einen Bericht über die erfolgten Massnahmen und unterbreitet diesen den Kantonen, welche diesen ihren entsprechenden Finanzkommissionen übermittelt.
 
 #### Art. 38
 
 **Bekanntgabe an den Bund**
 
-In Anwendung von Artikel 48 Absatz 3 der Bundesverfassung wird die vorliegende interkantonale Vereinbarung dem Bund zur Kenntnis gebracht.
+<sup>1</sup> In Anwendung von Artikel 48 Absatz 3 der Bundesverfassung wird die vorliegende interkantonale Vereinbarung dem Bund zur Kenntnis gebracht.
 
 #### Art. 39
 
 **Dauer der Vereinbarung**
 
-<sup>1</sup> Die Vereinbarung wird auf unbestimmte Zeit abgeschlossen und kann jederzeit unter Einhaltung einer Kündigungsfrist von fünf Jahren auf das Ende eines Jahres nach den in beiden Kantonen vorgesehenen Modalitäten gekündigt werden.
+<sup>1</sup> Die Vereinbarung wird auf unbestimmte Zeit abgeschlossen. Sie kann jederzeit unter Einhaltung einer Kündigungsfrist von 5 Jahren auf das Ende eines Jahres nach den in den beiden Kantonen vorgesehenen Modalitäten gekündigt werden.
 
-<sup>2</sup> Wenn ein Kanton die Vereinbarung kündigt, muss er einstehen für:
+<sup>2</sup> Wenn ein Kanton die Vereinbarung kündigt, muss er für die Pflichten im Zusammenhang mit den Bürgschaften oder Darlehen, die er gewährt hat, bis zu deren Fälligkeit (Art. 18 und Art. 37a) und die Zahlung der gemeinwirtschaftlichen Leistung gemäss Artikel 37a einstehen.
 
-- a) die Verpflichtungen aus dem laufenden Betriebskapital (Art. 18);
-
-- b) die Verpflichtungen aus der Gewährung seiner Garantie (Art. 19 und 34);
-
-- c) seinen Anteil an den Betriebskosten der Anstalt bis zum Ende des fünften Jahres nach dem Datum der Kündigung.
+- a) …
+- b) …
+- c) …
 
 <sup>3</sup> Die Kantone können die Vereinbarung jederzeit im gegenseitigen Einvernehmen kündigen.
 
@@ -511,8 +459,6 @@ In Anwendung von Artikel 48 Absatz 3 der Bundesverfassung wird die vorliegende i
 
 **Inkrafttreten**
 
-Die beiden Regierungen legen das Datum des Inkrafttretens der Vereinbarung im gegenseitigen Einvernehmen fest.
+<sup>1</sup> Die beiden Regierungen legen das Datum des Inkrafttretens der Vereinbarung im gegenseitigen Einvernehmen fest.
 
-Der vorliegende Entwurf für eine interkantonale Vereinbarung wurde von der Regierung des Kantons Wallis am 16. Dezember 2008 und von der Regierung des Kantons Waadt am 17. Dezember 2008 genehmigt..
-
-Der Waadtländer Grosse Rat hat den Staatsrat am 10. März 2009 ermächtigt, im Namen des Kantons Waadt der Vereinbarung beizutreten. Für den Kanton Wallis wurde das Beitrittsgesetz vom Grossen Rat am 10. Februar 2009 beschlossen.
+CSW BO/Abl. 13/2009, 9/2010
