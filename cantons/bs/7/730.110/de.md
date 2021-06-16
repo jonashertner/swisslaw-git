@@ -4,13 +4,13 @@ number: "730.110"
 title: Bau- und Planungsverordnung
 short: BPV
 language: de
-version: 2021-06-10
-valid_until: 2021-06-16
-version_adopted: 2021-06-01
+version: 2021-06-17
+valid_until: 2023-09-27
+version_adopted: 2021-06-08
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5267/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5271/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung | Hochbauten
 
 (BPV)
 
-Vom 19. Dezember 2000 (Stand 10. Juni 2021)
+Vom 19. Dezember 2000 (Stand 17. Juni 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -647,9 +647,7 @@ beschliesst:
 
 #### § 47
 
-<sup>1</sup> Die Gesuchsunterlagen können während der Einsprachefrist beim Bauinspektorat[^47-1] eingesehen werden.
-
-[^47-1]: § 47: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>1</sup> Die Gesuchsunterlagen können während der Einsprachefrist beim Bau- und Verkehrsdepartement eingesehen werden.
 
 ### (A.V.5.)d) Einsprachen
 
