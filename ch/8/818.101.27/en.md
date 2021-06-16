@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-06-03
+version: 2021-06-17
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210603/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210603-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210603/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210617/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210617-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210617/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 3 June 2021)
+of 27 January 2021 (Status as of 17 June 2021)
 
 The Swiss Federal Council,
 
@@ -323,13 +323,13 @@ This Ordinance comes into force on 8 February 2021.
 
 Annex 1*[^t-1]*
 
-(Art. 2 para. 2, 3 para. 4, 8 para. 1<sup>ter</sup> and 9*b* para. 1)
+(Art. 2 para. 2, 3 para. 4, 7 para. 4, 8 para. 1<sup>ter</sup>, 9*a* para. 6 and 9*b* para. 1)
 
 ## List of countries and regions with an increased risk of infection****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FDHA O of 2 June 2021, in force since 3 June 2021 ([AS 2021 318](https://fedlex.data.admin.ch/eli/oc/2021/318)).
+[^t-1]: Amended by No I of the FDHA O of 16 June 2021, in force since 17 June 2021 ([AS 2021 352](https://fedlex.data.admin.ch/eli/oc/2021/352)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions (Art. 2 para. 1 let. b–d)
@@ -351,8 +351,6 @@ Colombia
 Costa Rica
 
 Egypt
-
-Estonia
 
 Georgia
 

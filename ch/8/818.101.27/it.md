@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-06-03
+version: 2021-06-17
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210603/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210603-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210603/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210617/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210617-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210617/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210603/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 3 giugno 2021) (Stato 3 giugno 2021)
+del 27 gennaio 2021 (Stato 17 giugno 2021) (Stato 17 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -328,7 +328,7 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 2 giu. 2021, in vigore dal 3 giu. 2021 ([RU 2021 318](https://fedlex.data.admin.ch/eli/oc/2021/318)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 16 giu. 2021, in vigore dal 17 giu. 2021 ([RU 2021 352](https://fedlex.data.admin.ch/eli/oc/2021/352)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni (art. 2 cpv. 1 lett. b–d)
@@ -350,8 +350,6 @@ Colombia
 Costa Rica
 
 Egitto
-
-Estonia
 
 Georgia
 
