@@ -4,11 +4,11 @@ title: Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialver
 short: ATSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: de
-version: 2021-01-01
+version: 2021-06-18
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2002-510-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20210618/de/xml/fedlex-data-admin-ch-eli-cc-2002-510-20210618-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210101/de"
 
 (ATSG)
 
-vom 6. Oktober 2000 (Stand am 1. Januar 2021)
+vom 6. Oktober 2000 (Stand am 18. Juni 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1063,13 +1063,21 @@ Der Bundesrat wird mit dem Vollzug beauftragt. Er erlässt die Ausführungsbesti
 
 [^82-1]: Aufgehoben durch Ziff. II 38 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-#### Art. 83
+#### Art. 82a
 
-**Übergangsbestimmung zur Änderung vom 21. Juni 2019**[^83-1]
+**Übergangsbestimmung zur Änderung vom 21. Juni 2019**[^82a-1]
 
 Für im Zeitpunkt des Inkrafttretens der Änderung vom 21. Juni 2019 beim erstinstanzlichen Gericht hängige Beschwerden gilt das bisherige Recht.
 
-[^83-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^82a-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)). Berichtigung der RedK der BVers vom 19. Mai 2021, publiziert am 18. Juni 2021 ([AS 2021 358](https://fedlex.data.admin.ch/eli/oc/2021/358)).
+
+#### Art. 83
+
+**Änderung bisherigen Rechts**
+
+<sup>1</sup> Die im Anhang aufgeführten Artikel werden aufgehoben oder geändert.
+
+<sup>2</sup> Die Bundesversammlung kann vor Inkrafttreten dieses Gesetzes auf dem Verordnungsweg den Anhang ändern, um diesen an Änderungen anzupassen, die in den betroffenen Gesetzen vorgenommen wurden und seit der Verabschiedung dieses Gesetzes in Kraft getreten sind.
 
 #### Art. 84
 

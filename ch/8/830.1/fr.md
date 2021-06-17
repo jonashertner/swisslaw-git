@@ -4,11 +4,11 @@ title: Loi fédérale du 6 octobre 2000 sur la partie générale du droit des as
 short: LPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/510"
 language: fr
-version: 2021-01-01
+version: 2021-06-18
 adopted: 2000-10-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-510-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/510/20210618/fr/xml/fedlex-data-admin-ch-eli-cc-2002-510-20210618-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210618/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/510/20210101/fr"
 
 (LPGA)
 
-du 6 octobre 2000 (Etat le 1<sup>er</sup> janvier 2021)
+du 6 octobre 2000 (Etat le 18 juin 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1069,13 +1069,21 @@ Le Conseil fédéral est chargé de l’exécution de la présente loi. Il édic
 
 [^82-1]: Abrogé par le ch. II 38 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-#### Art. 83
+#### Art. 82a
 
-**Disposition transitoire de la modification du 21 juin 2019**[^83-1]
+**Disposition transitoire de la modification du 21 juin 2019**[^82a-1]
 
 Les recours pendants devant le tribunal de première instance à l’entrée en vigueur de la modification du 21 juin 2019 sont régis par l’ancien droit.
 
-[^83-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^82a-1]: Introduit par le ch. I de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)). Erratum de la CdR de l’Ass.féd. du 19 mai 2021, publiée le 18 juin 2021 ([RO 2021 358](https://fedlex.data.admin.ch/eli/oc/2021/358)).
+
+#### Art. 83
+
+**Modification du droit en vigueur**
+
+<sup>1</sup> Les articles figurant en annexe sont abrogés ou modifiés.
+
+<sup>2</sup> Avant l’entrée en vigueur de la présente loi, l’Assemblée fédérale peut, par voie d’ordonnance, modifier l’annexe afin de l’adapter aux modifications qui auraient été apportées aux lois concernées et qui seraient entrées en vigueur depuis l’adoption de la présente loi.
 
 #### Art. 84
 
