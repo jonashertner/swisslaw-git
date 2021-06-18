@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur
 short: OMECR COVID-19
 language: fr
-version: 2021-05-14
-valid_until: 2021-06-18
-version_adopted: 2021-05-04
+version: 2021-06-19
+valid_until: 2021-08-30
+version_adopted: 2021-06-28
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6827/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6874/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, soutien aux cas de rigueur – O
 
 (OMECR COVID-19)
 
-du 16.11.2020 (version entrée en vigueur le 14.05.2021)
+du 16.11.2020 (version entrée en vigueur le 19.06.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -353,6 +353,8 @@ Arrête:
 <sup>1a</sup> …
 
 <sup>1b</sup> Quelles que soient la forme de l'aide et sa procédure d'octroi, le montant total ne peut en principe pas dépasser au final la perte financière réelle documentée (à savoir la perte équivalant au résultat net avant impôts et amortissements) pour la période correspondant à l'aide.
+
+<sup>1c</sup> Le plafond de l'alinéa 1 peut être relevé à 30 % si le chiffre d'affaires de la demanderesse a reculé de plus de 70 % par rapport au chiffre d'affaires moyen des exercices 2018 et 2019, mais au maximum à 1,5 million de francs par entreprise pour l'entier de la période au sens de l'article 16.
 
 <sup>2</sup> Il peut être décidé et versé en plusieurs étapes.
 

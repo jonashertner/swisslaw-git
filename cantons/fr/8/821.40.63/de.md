@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Verordnung über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle
 short: WMHV-COVID-19
 language: de
-version: 2021-05-14
-valid_until: 2021-06-18
-version_adopted: 2021-05-04
+version: 2021-06-19
+valid_until: 2021-08-30
+version_adopted: 2021-06-28
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/de/versions/6827/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6874/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Beiträge für Härtefälle – V
 
 (WMHV-COVID-19)
 
-vom 16.11.2020 (Fassung in Kraft getreten am 14.05.2021)
+vom 16.11.2020 (Fassung in Kraft getreten am 19.06.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -351,6 +351,8 @@ beschliesst:
 <sup>1a</sup> …
 
 <sup>1b</sup> Der Beitrag darf unabhängig von seiner Form und vom angewendeten Verfahren grundsätzlich den im Beitragszeitraum nachgewiesenen finanziellen Verlust (d. h. den Betriebsverlust, der dem Nettoergebnis vor Steuern und Abschreibungen entspricht) nicht übersteigen.
+
+<sup>1c</sup> Ist der Umsatz des Unternehmens im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 um mehr als 70 % zurückgegangen, so kann der Höchstbetrag nach Absatz 1 auf 30 %, höchstens jedoch auf 1,5 Millionen Franken pro Unternehmen für die gesamte Dauer gemäss Artikel 16 angehoben werden.
 
 <sup>2</sup> Er kann in mehreren Etappen zugesichert und ausgezahlt werden.
 
