@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2021-04-01
+version: 2021-06-19
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210619/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210619-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210619/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210401/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 1. April 2021)
+vom 25. September 2020 (Stand am 19. Juni 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -53,9 +53,12 @@ beschliesst:
 
 **Kriterien und Richtwerte**[^1a-1]
 
-Der Bundesrat legt die Kriterien und Richtwerte für Einschränkungen und Erleichterungen des wirtschaftlichen und gesellschaftlichen Lebens fest. Er berücksichtigt nebst der epidemiologischen Lage auch die wirtschaftlichen und gesellschaftlichen Konsequenzen.
+<sup>1</sup> Der Bundesrat legt die Kriterien und Richtwerte für Einschränkungen und Erleichterungen des wirtschaftlichen und gesellschaftlichen Lebens fest. Er berücksichtigt nebst der epidemiologischen Lage auch die wirtschaftlichen und gesellschaftlichen Konsequenzen.
+
+<sup>2</sup> Ist der impfwillige erwachsene Teil der Bevölkerung ausreichend geimpft, so sind die Kapazitätsbeschränkungen für öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen und private Zusammenkünfte aufzuheben. Angemessene Schutzkonzepte sind möglich, sofern sie verhältnismässig sind.[^1a-2]
 
 [^1a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^1a-2]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Erwerbsausfallentschädigung, Sport und Kapazitätsbeschränkungen), in Kraft vom 19. Juni 2021 bis zum 31. Dez. 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 
 #### Art. 2
 
@@ -218,15 +221,16 @@ Der Bundesrat kann zur Gewährleistung des Justizbetriebs und der verfassungsrec
 
 #### Art. 8
 
-**Massnahmen im Bereich von Versammlungen von Gesellschaften**
+**Massnahmen im Bereich von Versammlungen von Gesellschaften**[^8-1]
 
-Der Bundesrat kann, soweit dies zur Ausübung der Rechte bei Versammlungen von Gesellschaften erforderlich ist, vom Zivilgesetzbuch[^8-1] und vom Obligationenrecht[^8-2] abweichende Bestimmungen erlassen über die Ausübung der Rechte:
+Der Bundesrat kann, soweit dies zur Ausübung der Rechte bei Versammlungen von Gesellschaften erforderlich ist, vom Zivilgesetzbuch[^8-2] und vom Obligationenrecht[^8-3] abweichende Bestimmungen erlassen über die Ausübung der Rechte:
 
 - a. auf schriftlichem Weg oder in elektronischer Form;
 - b. durch eine unabhängige Stimmrechtsvertreterin oder einen unabhängigen Stimmrechtsvertreter.
 
-[^8-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^8-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8-1]: Art. 8 gilt bis zur Inkraftsetzung der Bestimmungen über die Durchführung der Generalversammlung der Änderung vom 19. Juni 2020 des Obligationenrechts (Aktienrecht), längstens aber bis zum 31. Dez. 2023 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354)).
+[^8-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^8-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 8a
 
@@ -409,7 +413,7 @@ Folgende Stellen und Personen sind verpflichtet, den zuständigen Amtsstellen de
 
 <sup>1</sup>
 
-Der Bund unterstützt mit A-Fonds-perdu-Beiträgen von insgesamt höchstens 115 Millionen Franken:
+Der Bund kann mit A-Fonds-perdu-Beiträgen unterstützen:[^12b-2]
 
 - a. Klubs in den Sportarten Fussball und Eishockey, die mit einer Mannschaft in einer der beiden Ligen mit professionellem Spielbetrieb spielen;
 - b. Klubs in den Sportarten Basketball, Handball, Unihockey, Volleyball, Fussball der Frauen und Eishockey der Frauen, die mit einer Mannschaft in der höchsten Liga ihrer Sportart spielen.
@@ -420,30 +424,32 @@ Der Bund unterstützt mit A-Fonds-perdu-Beiträgen von insgesamt höchstens 115 
 
 <sup>4</sup> Sie betragen je Spiel höchstens zwei Drittel der durchschnittlichen Ticketeinnahmen, die der Klub an Spielen der nationalen Meisterschaft in der Saison 2018/2019 erzielt hat. Vom Betrag werden die effektiven Einnahmen aus allfälligen Ticketverkäufen ab dem 29. Oktober 2020 abgezogen.
 
-<sup>5</sup> ...[^12b-2]
+<sup>5</sup> ...[^12b-3]
 
 <sup>6</sup>
 
 Die Beiträge sind an folgende Bedingungen geknüpft:
 
 - a. Während einer Dauer von fünf Jahren nach Erhalt der Beiträge darf der Klub keine Dividenden und Tantiemen ausschütten und keine Kapitaleinlagen zurückerstatten.
-- b. Auf den Zeitpunkt der Auszahlung der Beiträge muss der Klub das durchschnittliche Einkommen einschliesslich Prämien, Boni und weiteren geldwerten Vergünstigungen aus den Einkommen, welche den Höchstbetrag des versicherten Verdienstes in der obligatorischen Unfallversicherung übersteigen, auf diesen Höchstbetrag oder um mindestens 20 Prozent senken. Für die Berechnung dieses durchschnittlichen Einkommens sind die Einkommen der Angestellten in der Saison 2018/2019 massgebend. Der Bundesrat kann auf Gesuch hin auch die Einkommen der Angestellten mit Stichtag am 13. März 2020 berücksichtigen. Lohnsenkungen, die im Zusammenhang mit den Massnahmen des Bundes aufgrund der Covid-19-Epidemie bereits vorgenommen wurden, werden angerechnet. Der Bundesrat kann Ausnahmen für Klubs vorsehen, deren Gesamtlohnsumme erheblich tiefer ist als der Ligadurchschnitt. Senkt der Club die Löhne nicht oder nicht im erforderlichen Umfang, so erhält er einen Beitrag, der höchstens 50 Prozent der entgangenen Ticketeinnahmen gemäss Absatz 4 beträgt.[^12b-3]
-- c.[^12b-4] Die Gesamtlohnsumme aller Mitarbeitenden und aller Spielerinnen und Spieler nach Massgabe der Saison 2019/2020 darf während fünf Jahren nach Erhalt der Beiträge höchstens im Umfang der Erhöhung des Landesindexes der Konsumentenpreise steigen; der Bundesrat kann Ausnahmen für Klubs vorsehen, die in eine höhere Liga aufsteigen.
+- b. Auf den Zeitpunkt der Auszahlung der Beiträge muss der Klub das durchschnittliche Einkommen einschliesslich Prämien, Boni und weiteren geldwerten Vergünstigungen aus den Einkommen, welche den Höchstbetrag des versicherten Verdienstes in der obligatorischen Unfallversicherung übersteigen, auf diesen Höchstbetrag oder um mindestens 20 Prozent senken. Für die Berechnung dieses durchschnittlichen Einkommens sind die Einkommen der Angestellten in der Saison 2018/2019 massgebend. Der Bundesrat kann auf Gesuch hin auch die Einkommen der Angestellten mit Stichtag am 13. März 2020 berücksichtigen. Lohnsenkungen, die im Zusammenhang mit den Massnahmen des Bundes aufgrund der Covid-19-Epidemie bereits vorgenommen wurden, werden angerechnet. Der Bundesrat kann Ausnahmen für Klubs vorsehen, deren Gesamtlohnsumme erheblich tiefer ist als der Ligadurchschnitt. Senkt der Club die Löhne nicht oder nicht im erforderlichen Umfang, so erhält er einen Beitrag, der höchstens 50 Prozent der entgangenen Ticketeinnahmen gemäss Absatz 4 beträgt.[^12b-4]
+- c.[^12b-5] Die Gesamtlohnsumme aller Mitarbeitenden und aller Spielerinnen und Spieler nach Massgabe der Saison 2019/2020 darf während fünf Jahren nach Erhalt der Beiträge höchstens im Umfang der Erhöhung des Landesindexes der Konsumentenpreise steigen; der Bundesrat kann Ausnahmen für Klubs vorsehen, die in eine höhere Liga aufsteigen.
 - d. Die Nachwuchsförderung sowie die Frauenförderung im Klub sind während fünf Jahren mindestens im gleichen Umfang weiterzuführen wie in der Saison 2018/2019.
 
-<sup>7</sup> Der Klub berichtet dem Bund jährlich über die Einhaltung der Bedingungen nach Absatz 6. Der Bundesrat legt die Einzelheiten der Berichterstattung und ihrer Veröffentlichung fest. Er kann Bestimmungen zur Verhinderung von Missbräuchen erlassen.[^12b-5]
+<sup>7</sup> Der Klub berichtet dem Bund jährlich über die Einhaltung der Bedingungen nach Absatz 6. Der Bundesrat legt die Einzelheiten der Berichterstattung und ihrer Veröffentlichung fest. Er kann Bestimmungen zur Verhinderung von Missbräuchen erlassen.[^12b-6]
 
-<sup>8</sup> Werden Bedingungen nach Absatz 6 oder die Pflicht nach Absatz 7 erster Satz nicht eingehalten, so richtet sich die Rückforderung der Beiträge nach dem Subventionsgesetz vom 5. Oktober 1990[^12b-6].
+<sup>8</sup> Werden Bedingungen nach Absatz 6 Buchstabe a oder d oder die Pflicht nach Absatz 7 erster Satz nicht eingehalten, so richtet sich die Rückforderung der Beiträge nach dem Subventionsgesetz vom 5. Oktober 1990[^12b-7]. Werden die Bedingungen nach Absatz 6 Buchstabe b oder c nicht eingehalten, so hat ein Klub diejenigen Beiträge zurückzuerstatten, die 50 Prozent der entgangenen Ticketeinnahmen nach Absatz 4 übersteigen.[^12b-8]
 
-<sup>9</sup> Gesuche für Spiele zwischen dem 29. Oktober 2020 und dem 31. Dezember 2020 können bis zum 30. April 2021 eingereicht werden.[^12b-7]
+<sup>9</sup> Gesuche für Spiele zwischen dem 29. Oktober 2020 und dem 31. Dezember 2020 können bis zum 30. April 2021 eingereicht werden.[^12b-9]
 
 [^12b-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^12b-2]: Aufgehoben durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), mit Wirkung vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^12b-3]: Sechster Satz eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^12b-4]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^12b-5]: Dritter Satz eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^12b-6]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12b-7]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^12b-2]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Erwerbsausfallentschädigung, Sport und Kapazitätsbeschränkungen), in Kraft vom 19. Juni 2021 bis zum 31. Dez. 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^12b-3]: Aufgehoben durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), mit Wirkung vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^12b-4]: Sechster Satz eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^12b-5]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^12b-6]: Dritter Satz eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^12b-7]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^12b-8]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Erwerbsausfallentschädigung, Sport und Kapazitätsbeschränkungen), in Kraft vom 19. Juni 2021 bis zum 31. Dez. 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^12b-9]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 13
 
@@ -510,10 +516,11 @@ Der Bundesrat kann Bestimmungen erlassen über:
 
 <sup>4</sup> Der Bundesrat stellt sicher, dass Entschädigungen auf der Grundlage des selbstdeklarierten Erwerbsausfalls ausgerichtet werden. Die Richtigkeit der Angaben wird insbesondere mittels Stichproben überprüft.
 
-<sup>5</sup> Der Bundesrat kann die Bestimmungen des ATSG anwendbar erklären. Er kann Abweichungen von Artikel 24 Absatz 1 ATSG betreffend das Erlöschen des Anspruchs und Artikel 49 Absatz 1 ATSG betreffend die Anwendbarkeit des formlosen Verfahrens vorsehen.
+<sup>5</sup> Der Bundesrat kann die Bestimmungen des ATSG anwendbar erklären. Er kann Abweichungen von Artikel 24 Absatz 1 ATSG betreffend das Erlöschen des Anspruchs und Artikel 49 Absatz 1 ATSG betreffend die Anwendbarkeit des formlosen Verfahrens vorsehen.[^15-3]
 
-[^15-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. April 2021 bis zum 30.Juni 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^15-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. April 2021 bis zum 30. Juni 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^15-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^15-3]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 10).
 
 #### Art. 16
 
@@ -566,7 +573,7 @@ In Abweichung des AVIG[^17a-2] bemisst sich die Kurzarbeitsentschädigung wie fo
 
 - b. bei einem Teilzeitpensum werden das Einkommen und der Mindestbetrag für die Kurzarbeitsentschädigung gemäss Buchstabe a im Verhältnis zum Arbeitspensum berechnet.
 
-[^17a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 1. Dez. 2020 bis zum 30. Juni 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 1. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^17a-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17b
@@ -646,7 +653,10 @@ Der Bundesrat regelt den Vollzug der Massnahmen nach diesem Gesetz.
 
 <sup>9</sup> In Abweichung von Absatz 2 tritt Artikel 17 Buchstabe e rückwirkend auf den 1. September 2020 in Kraft und gilt bis zum 31. Dezember 2021.[^21-4]
 
+<sup>10</sup> Die Geltungsdauer von Artikel 15 nach Absatz 5 wird bis zum 31. Dezember 2021 verlängert.[^21-5]
+
 [^21-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 [^21-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-5]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Erwerbsausfallentschädigung, Sport und Kapazitätsbeschränkungen), in Kraft vom 19. Juni 2021 bis zum 31. Dez. 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
