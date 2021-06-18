@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Paquet d'ordonnances environnementales du printemps 2022"
 document: Projet OMoD
 language: fr

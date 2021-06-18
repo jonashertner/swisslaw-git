@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungspaket Umwelt Frühling 2022
 document: Vorlage VOCV
 language: de
