@@ -4,13 +4,13 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2021-05-19
-valid_until: 2021-06-18
-version_adopted: 2021-05-18
+version: 2021-06-19
+valid_until: 2021-08-31
+version_adopted: 2021-06-18
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/3746/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3748/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3746/pdf_file"
 
 (Kantonale Härtefallverordnung Covid-19)
 
-vom 09.12.2020 (Stand 19.05.2021)
+vom 09.12.2020 (Stand 19.06.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -67,8 +67,11 @@ beschliesst:
 
 <sup>1</sup> Der nicht rückzahlbare Beitrag an ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken berechnet sich wie folgt:
 
-- a soweit es sich um ein Unternehmen handelt, das aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie seinen Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für insgesamt mindestens 40 Tage schliessen musste (behördlich geschlossenes Unternehmen): pauschaler Fixkostenanteil, berechnet auf die Dauer der behördlichen Schliessung; der pauschale Fixkostenanteil entspricht dabei dem für ungedeckte Fixkosten festgesetzten Prozentsatz der branchenweiten durchschnittlichen Fixkosten vom Jahresumsatz,
-- b für die übrigen Unternehmen: nach der Berechnung für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken gemäss Artikel 8b der Covid-19-Härtefallverordnung.
+- a soweit es sich um ein Unternehmen handelt, das aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie seinen Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für insgesamt mindestens 40 Tage schliessen musste (behördlich geschlossenes Unternehmen): pauschaler Fixkostenanteil, berechnet auf die Dauer der behördlichen Schliessung bis maximal Ende April 2021; der pauschale Fixkostenanteil entspricht dabei dem für ungedeckte Fixkosten festgesetzten Prozentsatz der branchenweiten durchschnittlichen Fixkosten vom Jahresumsatz,
+- b für die übrigen Unternehmen sowie für behördlich geschlossene Unternehmen für die Monate Mai und Juni 2021: nach der Berechnung für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken gemäss Artikel 8b der Covid-19-Härtefallverordnung,
+- c. hat ein behördlich geschlossenes Unternehmen bereits einen Beitrag gemäss Absatz 1a erhalten, wird ihm ein allfälliger Differenzbetrag zum Beitrag gemäss Absatz 1b ausbezahlt. Ist der Betrag gemäss Absatz 1b kleiner als derjenige nach Absatz 1a, erfolgt keine Rückforderung.
+
+<sup>1<sup>bis</sup></sup> Behördlich geschlossene Unternehmen des Detailhandels mit einem Jahresumsatz bis 5 Millionen Franken, bei denen umfangreiche Nachholeffekte möglich sind, und bei denen der Jahresumsatz 2020 zuzüglich des nach § 3a Absatz 1a berechneten Beitrages höher ausfällt als der durchschnittliche Jahresumsatz der Jahre 2018 und 2019, werden einer eingehenden Prüfung unterzogen. Weisen diese Unternehmen in der Jahresrechnung 2020 einen Gewinn aus, besteht für die Schliessungsmonate im Jahr 2020 kein Anspruch auf Härtefallhilfen.
 
 <sup>2</sup> Soweit die ungedeckten Fixkosten die jeweilige Höchstgrenze für nicht rückzahlbare Beiträge übersteigen, wird für deren Deckung eine Garantie gewährt. Diese Bestimmung ist auf Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für insgesamt mindestens 40 Tage schliessen mussten, nicht anwendbar.
 
@@ -78,7 +81,7 @@ beschliesst:
 
 **Bedingte Gewinnbeteiligung bei Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken**
 
-<sup>1</sup> Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die im Jahr der Ausrichtung eines nicht rückzahlbaren Beitrags einen steuerbaren Jahresgewinn nach den §§ 71–80 des Steuergesetzes vom 22. November 1999[^3b-1] erzielen, leiten diesen an das Finanzdepartement weiter; dies aber höchstens im Umfang des erhaltenen Beitrags. Die Berechnung der bedingten Gewinnbeteiligung erfolgt sinngemäss nach Artikel 8e der Covid-19-Härtefallverordnung.
+<sup>1</sup> Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken, die im Jahr der Ausrichtung eines nicht rückzahlbaren Beitrags einen steuerbaren Jahresgewinn nach den §§ 71–80 des Steuergesetzes vom 22. November 1999[^3b-1] erzielen, leiten diesen an das Finanzdepartement weiter; dies aber höchstens im Umfang des erhaltenen Beitrags. Die Berechnung der bedingten Gewinnbeteiligung erfolgt sinngemäss nach Artikel 8e der Covid-19-Härtefallverordnung. Ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Gewinn ist dem steuerbaren Jahresgewinn 2021 hinzuzurechnen.
 
 [^3b-1]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
 
@@ -276,6 +279,14 @@ beschliesst:
 <sup>1</sup> Die Gewinnbeteiligung gemäss § 3b gilt für Unternehmen, denen ab dem 21. April 2021 Härtefallhilfen zugesichert werden.
 
 <sup>2</sup> Die Änderung von § 7 Absatz 3b, f und h vom 20. April 2021 ist auf alle hängigen Gesuche anwendbar.
+
+#### § 18c
+
+**Übergangsbestimmung der Änderung vom 18. Juni 2021**
+
+<sup>1</sup> § 3a Absatz 1<sup>bis</sup> vom 18. Juni 2021 ist auf alle hängigen Gesuche anwendbar.
+
+<sup>2</sup> Die Änderung von § 3b Absatz 1 vom 18. Juni 2021 gilt für Unternehmen, denen ab dem 19. Juni 2021 Härtefallhilfen zugesichert werden.
 
 #### § 19
 
