@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2021-04-01
+version: 2021-06-19
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210619/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210619-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210401/de"
 
 (Covid-19-Härtefallverordnung)
 
-vom 25. November 2020 (Stand am 1. April 2021)
+vom 25. November 2020 (Stand am 19. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -201,9 +201,12 @@ Darlehen, Bürgschaften und Garantien belaufen sich insgesamt auf höchstens 25 
 
 **Höchstgrenzen für nicht rückzahlbare Beiträge an Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken**[^8a-1]
 
-Die nicht rückzahlbaren Beiträge an Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken belaufen sich auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 und auf höchstens 1 Million Franken pro Unternehmen. Sie können gestaffelt beschlossen und ausgerichtet werden.
+<sup>1</sup> Die nicht rückzahlbaren Beiträge an Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken belaufen sich auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 und auf höchstens 1 Million Franken pro Unternehmen. Sie können gestaffelt beschlossen und ausgerichtet werden.
+
+<sup>2</sup> Für Unternehmen nach Absatz 1 belaufen sich die nicht rückzahlbaren Beiträge auf höchstens 30 Prozent des Jahresumsatzes und auf höchstens 1,5 Millionen Franken, wenn der Umsatz des Unternehmens im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 um mehr als 70 Prozent zurückgegangen ist.[^8a-2]
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^8a-2]: Eingefügt durch Ziff. I der V vom 18. Juni 2021, in Kraft seit 19. Juni 2021 ([AS 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 8b
 
@@ -248,11 +251,13 @@ Für Unternehmen nach Absatz 1 belaufen sich die nicht rückzahlbaren Beiträge 
 
 <sup>1</sup> Ein Unternehmen darf die Hilfen nur bis zum einmaligen Erreichen der Höchstgrenzen nach den Artikeln 8, 8*a* und 8*c* beziehen.
 
-<sup>2</sup> Bezieht ein Unternehmen Hilfen sowohl nach Artikel 8 als auch nach Artikel 8*a* oder 8*c* Absatz 1, so dürfen diese insgesamt weder 25 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 noch 15 Millionen Franken überschreiten.
+<sup>2</sup> Bezieht ein Unternehmen Hilfen sowohl nach Artikel 8 als auch nach Artikel 8*a* Absatz 1 oder 8*c* Absatz 1, so dürfen diese Hilfen insgesamt weder 25 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 noch 15 Millionen Franken überschreiten.[^8d-2]
 
-<sup>3</sup> Bezieht ein Unternehmen Hilfen nach den Artikeln 8 und 8*c* Absatz 2, so darf der Beitrag insgesamt weder 30 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 noch 15 Millionen Franken überschreiten.
+<sup>3</sup> Bezieht ein Unternehmen Hilfen sowohl nach Artikel 8 als auch nach Artikel 8*a* Absatz 2 oder 8*c* Absatz 2, so dürfen diese Hilfen insgesamt weder 30 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 noch 15 Millionen Franken überschreiten.[^8d-3]
 
 [^8d-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^8d-2]: Fassung gemäss Ziff. I der V vom 18. Juni 2021, in Kraft seit 19. Juni 2021 ([AS 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+[^8d-3]: Fassung gemäss Ziff. I der V vom 18. Juni 2021, in Kraft seit 19. Juni 2021 ([AS 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 8e
 
@@ -355,9 +360,19 @@ Der Umsatz, der für die Bestimmung des Finanzierungsanteils des Bundes nach Art
 
 #### Art. 15
 
-[^15-1]
+**Zusatzbeiträge des Bundes**[^15-1]
 
-[^15-1]: Aufgehoben durch Ziff. I der V vom 31. März 2021, mit Wirkung seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+<sup>1</sup> Von den Zusatzbeiträgen des Bundes nach Artikel 12 Absatz 2 des Covid-19-Gesetzes vom 25. September 2020 werden höchstens 300 Millionen Franken auf die Kantone aufgeteilt. Die Anteile der Kantone bemessen sich zu 60 Prozent nach dem kantonalen Bruttoinlandprodukt im Jahr 2017, zu 30 Prozent nach der Wohnbevölkerung im Jahr 2019 und zu 10 Prozent nach der durchschnittlichen Anzahl Logiernächte in den Jahren 2017, 2018 und 2019.
+
+<sup>2</sup> Die prozentuale Aufteilung der Zusatzbeiträge auf die einzelnen Kantone wird auf zwei Stellen nach dem Komma gerundet. Die Anteile der Kantone sind im Anhang aufgeführt.
+
+<sup>3</sup> Die Kantone setzen ihre Anteile für die ergänzende Unterstützung von Unternehmen nach Artikel 2 ein, die in ihrer wirtschaftlichen Tätigkeit von den Folgen von Covid-19 besonders betroffen sind und an denen ein gewichtiges kantonales Interesse besteht. Sie können zur ergänzenden Unterstützung auch Vorleistungen zählen, die sie zwischen dem 1. März 2020 und dem 25. September 2020 erbracht haben.
+
+<sup>4</sup> Sie regeln die ergänzende Unterstützung im Rahmen von Artikel 12 des Covid-19-Gesetzes.
+
+<sup>5</sup> Sie können dabei von den Vorgaben nach den Artikeln 4 Absatz 1 Buchstabe c sowie 8–8*d* dieser Verordnung abweichen; hat ein Unternehmen bereits eine branchenspezifische Covid-19-Finanzhilfe erhalten, so ist dieser Betrag von der ergänzenden Unterstützung nach diesem Artikel abzuziehen. Die übrigen Bestimmungen der Verordnung bleiben anwendbar.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2021, in Kraft seit 19. Juni 2021 ([AS 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 16
 
@@ -497,4 +512,41 @@ Für den Vollzug dieser Verordnung auf Seite des Bundes ist das SECO zuständig.
 
 Anhang*[^t-1]*
 
-[^t-1]: Aufgehoben durch Ziff. II der V vom 31. März 2021, mit Wirkung seit 1. April 2021 ([AS 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+(Art. 15 Abs. 2)
+
+## Prozentualer Anteil je Kanton am Zusatzbeitrag des Bundes
+
+[^t-1]: Fassung gemäss Ziff. II der V vom 18. Juni 2021, in Kraft seit 19. Juni 2021 ([AS 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+
+Verteilschlüssel nach Artikel 15 Absatz 1
+
+<table>
+<tr><td>Nr.</td><td>Kanton</td><td>Anteil in Prozent</td></tr>
+<tr><td>1</td><td>ZH</td><td>19,87 %</td></tr>
+<tr><td>2</td><td>BE</td><td>11,93 %</td></tr>
+<tr><td>3</td><td>LU</td><td>4,39 %</td></tr>
+<tr><td>4</td><td>UR</td><td>0,36 %</td></tr>
+<tr><td>5</td><td>SZ</td><td>1,53 %</td></tr>
+<tr><td>6</td><td>OW</td><td>0,52 %</td></tr>
+<tr><td>7</td><td>NW</td><td>0,49 %</td></tr>
+<tr><td>8</td><td>GL</td><td>0,43 %</td></tr>
+<tr><td>9</td><td>ZG</td><td>2,21 %</td></tr>
+<tr><td>10</td><td>FR</td><td>2,88 %</td></tr>
+<tr><td>11</td><td>SO</td><td>2,65 %</td></tr>
+<tr><td>12</td><td>BS</td><td>4,35 %</td></tr>
+<tr><td>13</td><td>BL</td><td>2,88 %</td></tr>
+<tr><td>14</td><td>SH</td><td>0,95 %</td></tr>
+<tr><td>15</td><td>AR</td><td>0,65 %</td></tr>
+<tr><td>16</td><td>AI</td><td>0,18 %</td></tr>
+<tr><td>17</td><td>SG</td><td>5,31 %</td></tr>
+<tr><td>18</td><td>GR</td><td>3,24 %</td></tr>
+<tr><td>19</td><td>AG</td><td>6,13 %</td></tr>
+<tr><td>20</td><td>TG</td><td>2,53 %</td></tr>
+<tr><td>21</td><td>TI</td><td>4,40 %</td></tr>
+<tr><td>22</td><td>VD</td><td>8,39 %</td></tr>
+<tr><td>23</td><td>VS</td><td>3,87 %</td></tr>
+<tr><td>24</td><td>NE</td><td>2,04 %</td></tr>
+<tr><td>25</td><td>GE</td><td>7,11 %</td></tr>
+<tr><td>26</td><td>JU</td><td>0,70 %</td></tr>
+<tr><td>**Total**</td><td></td><td>**100 %**</td></tr>
+</table>

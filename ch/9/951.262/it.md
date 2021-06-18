@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sui provvedimenti per i casi di rigore co
 short: OPCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: it
-version: 2021-04-01
+version: 2021-06-19
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210619/it/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210619-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210401/it"
 
 (Ordinanza COVID-19 casi di rigore)
 
-del 25 novembre 2020 (Stato 1° aprile 2021)
+del 25 novembre 2020 (Stato 19 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -163,13 +163,14 @@ L’impresa ha confermato al Cantone che:
 
   nell’esercizio in cui è accordato il provvedimento per un caso di rigore e nei tre anni successivi o fino al rimborso degli aiuti percepiti:[^6-2]
 
-  - 1\. decide di non distribuire o non distribuisce dividendi o tantièmes né restituisce apporti di capitale, e
+  - 1\.[^6-3] non distribuisce dividendi o tantièmes né ne decide la distribuzione e non restituisce apporti di capitale, e
   - 2\. non concede mutui ai suoi proprietari;
 
 - b. non trasferisce fondi concessi a una società del gruppo non avente sede in Svizzera a cui è legata direttamente o indirettamente; è però consentito segnatamente l’adempimento di preesistenti obblighi ordinari di pagamento di interessi e di ammortamento all’interno di un gruppo.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021, in vigore dal 14 gen. 2021 ([RU 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^6-3]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 ## Sezione 3: Requisiti concernenti l’impostazione dei provvedimenti per i casi di rigore
 
@@ -201,9 +202,12 @@ I mutui, le fideiussioni e le garanzie ammontano complessivamente al massimo al 
 
 **Limiti massimi per i contributi non rimborsabili versati alle imprese con una cifra d’affari annuale fino a 5 milioni di franchi**[^8a-1]
 
-I contributi non rimborsabili versati alle imprese con una cifra d’affari annuale fino a 5 milioni di franchi ammontano al massimo al 20 per cento della cifra d’affari media degli anni 2018 e 2019 e al massimo a un milione di franchi per impresa. Possono essere decisi e versati gradualmente.
+<sup>1</sup> I contributi non rimborsabili versati alle imprese con una cifra d’affari annuale fino a 5 milioni di franchi ammontano al massimo al 20 per cento della cifra d’affari media degli anni 2018 e 2019 e al massimo a un milione di franchi per impresa. Possono essere decisi e versati gradualmente.
+
+<sup>2</sup> Per le imprese di cui al capoverso 1 i contributi non rimborsabili ammontano al massimo al 30 per cento della cifra d’affari annuale e al massimo a 1,5 milioni di franchi, se la cifra d’affari dell’impresa è diminuita di oltre il 70 per cento rispetto alla cifra d’affari media degli anni 2018 e 2019.[^8a-2]
 
 [^8a-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^8a-2]: Introdotto dal n. I dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 8b
 
@@ -248,11 +252,13 @@ Per le imprese di cui al capoverso 1 i contributi non rimborsabili ammontano al 
 
 <sup>1</sup> Un’impresa può percepire gli aiuti soltanto fino al raggiungimento del rispettivo limite massimo di cui agli articoli 8, 8*a* e 8*c*.
 
-<sup>2</sup> Se un’impresa percepisce gli aiuti sia secondo l’articolo 8 sia secondo l’articolo 8*a* o 8*c* capoverso 1, questi non possono superare complessivamente il 25 per cento della cifra d’affari media degli anni 2018 e 2019 né 15 milioni di franchi.
+<sup>2</sup> Se un’impresa percepisce gli aiuti sia secondo l’articolo 8 sia secondo l’articolo 8*a* capoverso 1 o 8*c* capoverso 1, tali aiuti non possono superare complessivamente il 25 per cento della cifra d’affari media degli anni 2018 e 2019 né 15 milioni di franchi.[^8d-2]
 
-<sup>3</sup> Se un’impresa percepisce gli aiuti secondo gli articoli 8 e 8*c* capoverso 2, il contributo non può superare complessivamente il 30 per cento della cifra d’affari media degli anni 2018 e 2019 né 15 milioni di franchi.
+<sup>3</sup> Se un’impresa percepisce gli aiuti sia secondo l’articolo 8 sia secondo l’articolo 8*a* capoverso 2 o 8*c* capoverso 2, tali aiuti non possono superare complessivamente il 30 per cento della cifra d’affari media degli anni 2018 e 2019 né 15 milioni di franchi.[^8d-3]
 
 [^8d-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^8d-2]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+[^8d-3]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 8e
 
@@ -355,9 +361,19 @@ La cifra d’affari rilevante ai fini della determinazione della partecipazione 
 
 #### Art. 15
 
-[^15-1]
+**Contributi supplementari della Confederazione**[^15-1]
 
-[^15-1]: Abrogato dal n. I dell’O del 31 mar. 2021, con effetto dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+<sup>1</sup> Dei contributi supplementari della Confederazione di cui all’articolo 12 capoverso 2 della legge COVID-19 del 25 settembre 2020, al massimo 300 milioni di franchi sono ripartiti fra i Cantoni. Le quote dei Cantoni sono calcolate in ragione del 60 per cento secondo il prodotto interno lordo cantonale del 2017, del 30 per cento secondo la popolazione residente nel 2019 e del 10 per cento secondo la media di pernottamenti negli anni 2017, 2018 e 2019.
+
+<sup>2</sup> La ripartizione percentuale dei contributi supplementari fra i Cantoni è arrotondata a due cifre decimali. Le quote dei Cantoni sono riportate nell’allegato.
+
+<sup>3</sup> I Cantoni utilizzano le loro quote per fornire un sostegno complementare alle imprese di cui all’articolo 2 che nelle loro attività economiche sono particolarmente colpite dalle conseguenze dell’epidemia di COVID-19 e per le quali esiste un interesse cantonale rilevante. Possono considerare come sostegno complementare anche le prestazioni precedenti che hanno fornito tra il 1° marzo 2020 e il 25 settembre 2020.
+
+<sup>4</sup> Disciplinano il sostegno complementare entro il quadro fissato dall’articolo 12 della legge COVID-19.
+
+<sup>5</sup> A tal fine possono derogare alle prescrizioni degli articoli 4 capoverso 1 lettera c e 8–8*d* della presente ordinanza; se un’impresa ha già percepito un aiuto finanziario settoriale COVID-19, questo importo deve essere dedotto dal sostegno complementare di cui al presente articolo. Le altre disposizioni dell’ordinanza rimangono applicabili.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 16
 
@@ -415,7 +431,7 @@ I rapporti dei Cantoni concernenti i provvedimenti di sostegno concessi o garant
 
 <sup>1bis</sup> Per ciascun sostegno concesso, su richiesta il Cantone mette a disposizione della SECO tutti i giustificativi. Perlomeno i giustificativi sulla data di costituzione dell’impresa e sulla cifra d’affari nonché i giustificativi per la conferma che l’impresa non è oggetto di una procedura di fallimento o di una procedura di liquidazione non possono basarsi su una mera autodichiarazione.[^18-2]
 
-<sup>2</sup> I rapporti sono presentati mediante una soluzione informatica fornita dalla SECO. Nel 2021 i rapporti sono presentati mensilmente, dal 2022 semestralmente. Sino al 30 giugno 2021 i rapporti mensili sono integrati da rapporti settimanali sulle garanzie concesse.[^18-3]
+<sup>2</sup> I rapporti sono presentati mediante una soluzione informatica fornita dalla SECO. Nel 2021 i rapporti sono presentati mensilmente, dal 2022 semestralmente. Sino al 30 giugno 2021 i rapporti mensili sono integrati dai rapporti settimanali sugli aiuti stanziati.[^18-3]
 
 <sup>3</sup> I Cantoni inoltrano alla SECO le fatture di cui all’articolo 17 capoverso 1 per un periodo complessivo di un anno. Per i contributi non rimborsabili il Cantone può inoltrare le fatture alla Confederazione semestralmente.
 
@@ -423,7 +439,7 @@ I rapporti dei Cantoni concernenti i provvedimenti di sostegno concessi o garant
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^18-2]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 19
 
@@ -498,4 +514,41 @@ Per quanto concerne la Confederazione l’esecuzione della presente ordinanza è
 
 Allegato*[^t-1]*
 
-[^t-1]: Abrogato dal n. II dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+(art. 15 cpv. 2)
+
+## Quota percentuale del contributo supplementare della Confederazione per Cantone
+
+[^t-1]: Nuovo testo giusta il n. II dell’O del 18 giu. 2021, in vigore dal 19 giu. 2021 ([RU 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+
+Chiave di ripartizione secondo l’articolo 15 capoverso 1
+
+<table>
+<tr><td>N.</td><td>Cantone</td><td>Quota in percento</td></tr>
+<tr><td>1</td><td>ZH</td><td>19,87 %</td></tr>
+<tr><td>2</td><td>BE</td><td>11,93 %</td></tr>
+<tr><td>3</td><td>LU</td><td>4,39 %</td></tr>
+<tr><td>4</td><td>UR</td><td>0,36 %</td></tr>
+<tr><td>5</td><td>SZ</td><td>1,53 %</td></tr>
+<tr><td>6</td><td>OW</td><td>0,52 %</td></tr>
+<tr><td>7</td><td>NW</td><td>0,49 %</td></tr>
+<tr><td>8</td><td>GL</td><td>0,43 %</td></tr>
+<tr><td>9</td><td>ZG</td><td>2,21 %</td></tr>
+<tr><td>10</td><td>FR</td><td>2,88 %</td></tr>
+<tr><td>11</td><td>SO</td><td>2,65 %</td></tr>
+<tr><td>12</td><td>BS</td><td>4,35 %</td></tr>
+<tr><td>13</td><td>BL</td><td>2,88 %</td></tr>
+<tr><td>14</td><td>SH</td><td>0,95 %</td></tr>
+<tr><td>15</td><td>AR</td><td>0,65 %</td></tr>
+<tr><td>16</td><td>AI</td><td>0,18 %</td></tr>
+<tr><td>17</td><td>SG</td><td>5,31 %</td></tr>
+<tr><td>18</td><td>GR</td><td>3,24 %</td></tr>
+<tr><td>19</td><td>AG</td><td>6,13 %</td></tr>
+<tr><td>20</td><td>TG</td><td>2,53 %</td></tr>
+<tr><td>21</td><td>TI</td><td>4,40 %</td></tr>
+<tr><td>22</td><td>VD</td><td>8,39 %</td></tr>
+<tr><td>23</td><td>VS</td><td>3,87 %</td></tr>
+<tr><td>24</td><td>NE</td><td>2,04 %</td></tr>
+<tr><td>25</td><td>GE</td><td>7,11 %</td></tr>
+<tr><td>26</td><td>JU</td><td>0,70 %</td></tr>
+<tr><td>**Totale**</td><td></td><td>**100 %**</td></tr>
+</table>

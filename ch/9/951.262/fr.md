@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2021-04-01
+version: 2021-06-19
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210619/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210619-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210619/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210401/fr"
 
 (Ordonnance COVID-19 cas de rigueur)
 
-du 25 novembre 2020 (Etat le 1<sup>er</sup> avril 2021)
+du 25 novembre 2020 (Etat le 19 juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -201,9 +201,12 @@ Les prêts, les cautionnements et les garanties s’élèvent au total à un max
 
 **Plafonds applicables aux contributions non remboursables accordées aux entreprises dont le chiffre d’affaires annuel atteint 5 millions au plus**[^8a-1]
 
-Les contributions non remboursables accordées aux entreprises dont le chiffre d’affaires annuel atteint 5 millions au plus s’élèvent au maximum à 20 % du chiffre d’affaires moyen des exercices 2018 et 2019 et au maximum à 1 million de francs par entreprise. Elles peuvent être décidées et versées en plusieurs étapes.
+<sup>1</sup> Les contributions non remboursables accordées aux entreprises dont le chiffre d’affaires annuel atteint 5 millions au plus s’élèvent au maximum à 20 % du chiffre d’affaires moyen des exercices 2018 et 2019 et au maximum à 1 million de francs par entreprise. Elles peuvent être décidées et versées en plusieurs étapes.
+
+<sup>2</sup> Pour les entreprises visées à l’al. 1, les contributions non remboursables s’élèvent au maximum à 30 % du chiffre d’affaires annuel et au maximum à 1,5 million de francs, si le chiffre d’affaires de l’entreprise a reculé de plus de 70 % par rapport au chiffre d’affaires moyen des exercices 2018 et 2019.[^8a-2]
 
 [^8a-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^8a-2]: Introduit par le ch. I de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 8b
 
@@ -248,11 +251,13 @@ Pour les entreprises visées à l’al. 1, les contributions non remboursables s
 
 <sup>1</sup> Une entreprise ne peut recevoir les aides prévues aux art. 8, 8*a* et 8*c* que dans les limites du plafond correspondant.
 
-<sup>2</sup> Si une entreprise reçoit des aides en vertu aussi bien de l’art. 8 que de l’art. 8*a* ou 8*c,* al. 1, celles-ci ne doivent pas dépasser au total 25 % du chiffre d’affaires moyen des exercices 2018 et 2019 ni 15 millions de francs.
+<sup>2</sup> Si une entreprise reçoit des aides en vertu aussi bien de l’art. 8 que de l’art. 8*a*, al. 1, ou 8*c*, al. 1, celles-ci ne doivent pas dépasser au total 25 % du chiffre d’affaires moyen des exercices 2018 et 2019 ni 15 millions de francs.[^8d-2]
 
-<sup>3</sup> Si une entreprise reçoit des aides en vertu des art. 8 et 8*c*, al. 2, la contribution ne doit pas dépasser au total 30 % du chiffre d’affaires moyen des exercices 2018 et 2019 ni 15 millions de francs.
+<sup>3</sup> Si une entreprise reçoit des aides en vertu aussi bien de l’art. 8 que de l’art. 8*a*, al. 2, ou 8*c*, al. 2, celles-ci ne doivent pas dépasser au total 30 % du chiffre d’affaires moyen des exercices 2018 et 2019 ni 15 millions de francs.[^8d-3]
 
 [^8d-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^8d-2]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+[^8d-3]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 8e
 
@@ -355,9 +360,19 @@ Le chiffre d’affaires pertinent pour déterminer la participation financière 
 
 #### Art. 15
 
-[^15-1]
+**Contributions supplémentaires de la Confédération**[^15-1]
 
-[^15-1]: Abrogé par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+<sup>1</sup> Sur les contributions supplémentaires de la Confédération prévues à l’art. 12, al. 2, de la loi COVID-19 du 25 septembre 2020, un montant maximal de 300 millions de francs est réparti entre les cantons. La part de chaque canton est calculée, à hauteur de 60 %, en fonction du produit intérieur brut du canton en 2017, à hauteur de 30 %, en fonction de la population résidante en 2019 et, à hauteur de 10 %, en fonction du nombre moyen de nuitées enregistrées en 2017, 2018 et 2019.
+
+<sup>2</sup> La répartition des contributions supplémentaires entre les cantons est effectuée sur la base de pourcentages arrondis à deux décimales. La part de chaque canton est indiquée dans l’annexe.
+
+<sup>3</sup> Les cantons utilisent leurs parts pour fournir un soutien complémentaire aux entreprises visées à l’art. 2 dont l’activité économique est particulièrement touchée par les conséquences du COVID-19 et dans lesquelles ils ont un intérêt prépondérant. Ils peuvent également prendre en compte à titre de soutien complémentaire les prestations qu’ils ont versées entre le 1<sup>er</sup> mars 2020 et le 25 septembre 2020.
+
+<sup>4</sup> Ils règlent le soutien complémentaire dans les limites fixées à l’art. 12 de la loi COVID-19.
+
+<sup>5</sup> Ce faisant, ils peuvent déroger aux prescriptions des art. 4, al. 1, let. c, et 8 à 8*d* de la présente ordonnance; si une entreprise a déjà obtenu une aide financière au titre du COVID-19 destinée spécifiquement à son domaine, le montant correspondant doit être déduit du soutien complémentaire visé par le présent article. Les autres dispositions de la présente ordonnance restent applicables.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 16
 
@@ -415,7 +430,7 @@ Les comptes rendus des cantons sur les mesures de soutien versées ou allouées 
 
 <sup>1bis</sup> Le canton met à la disposition du SECO, à la demande de celui-ci, tous les justificatifs nécessaires pour chaque aide accordée. Les justificatifs concernant la date de création et le chiffre d’affaires de l’entreprise et la confirmation que celle-ci ne fait pas l’objet d’une procédure de faillite ou de liquidation ne doivent pas reposer sur une simple autodéclaration.[^18-2]
 
-<sup>2</sup> Le compte rendu est établi au moyen d’une solution informatique mise à disposition par le SECO. Il est établi une fois par mois en 2021 et une fois par semestre à partir de 2022. Jusqu’au 30 juin 2021, il est complété par des rapports hebdomadaires sur les assurances données.[^18-3]
+<sup>2</sup> Le compte rendu est établi au moyen d’une solution informatique mise à disposition par le SECO. Il est établi une fois par mois en 2021 et une fois par semestre à partir de 2022. Jusqu’au 30 juin 2021, il est complété par des rapports hebdomadaires sur les mesures de soutien allouées.[^18-3]
 
 <sup>3</sup> Les cantons remettent en une fois au SECO les factures visées à l’art. 17, al. 1, pour une année. Ils peuvent remettre à la Confédération les factures relatives aux contributions non remboursables une fois par semestre.
 
@@ -423,7 +438,7 @@ Les comptes rendus des cantons sur les mesures de soutien versées ou allouées 
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
 [^18-2]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
-[^18-3]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
 
 #### Art. 19
 
@@ -496,6 +511,43 @@ Le SECO est compétent pour l’exécution de la présente ordonnance pour ce qu
 
 <sup>4</sup> L’al. 3 entre en vigueur sous réserve de l’entrée en vigueur de la modification de la loi COVID-19 du 25 septembre 2020, qui prolonge la durée de validité de son art. 9, let. c, jusqu’au 31 décembre 2031.
 
-Annexe*[^t-1]*
+*Annexe*[^23-1]
 
-[^t-1]: Abrogée par le ch. II de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 184](https://fedlex.data.admin.ch/eli/oc/2021/184)).
+(art. 15, al. 2)
+
+[^23-1]: Nouvelle teneur selon le ch. II de l’O du 18 juin 2021, en vigueur depuis le 19 juin 2021 ([RO 2021 356](https://fedlex.data.admin.ch/eli/oc/2021/356)).
+
+Part en pour-cent des contributions supplémentaires versées par la Confédération, par canton
+
+Clé de répartition selon l’art. 15, al. 1
+
+<table>
+<tr><td>N<sup>o</sup></td><td>Canton</td><td>Part en %</td></tr>
+<tr><td>1</td><td>ZH</td><td>19,87 %</td></tr>
+<tr><td>2</td><td>BE</td><td>11,93 %</td></tr>
+<tr><td>3</td><td>LU</td><td>4,39 %</td></tr>
+<tr><td>4</td><td>UR</td><td>0,36 %</td></tr>
+<tr><td>5</td><td>SZ</td><td>1,53 %</td></tr>
+<tr><td>6</td><td>OW</td><td>0,52 %</td></tr>
+<tr><td>7</td><td>NW</td><td>0,49 %</td></tr>
+<tr><td>8</td><td>GL</td><td>0,43 %</td></tr>
+<tr><td>9</td><td>ZG</td><td>2,21 %</td></tr>
+<tr><td>10</td><td>FR</td><td>2,88 %</td></tr>
+<tr><td>11</td><td>SO</td><td>2,65 %</td></tr>
+<tr><td>12</td><td>BS</td><td>4,35 %</td></tr>
+<tr><td>13</td><td>BL</td><td>2,88 %</td></tr>
+<tr><td>14</td><td>SH</td><td>0,95 %</td></tr>
+<tr><td>15</td><td>AR</td><td>0,65 %</td></tr>
+<tr><td>16</td><td>AI</td><td>0,18 %</td></tr>
+<tr><td>17</td><td>SG</td><td>5,31 %</td></tr>
+<tr><td>18</td><td>GR</td><td>3,24 %</td></tr>
+<tr><td>19</td><td>AG</td><td>6,13 %</td></tr>
+<tr><td>20</td><td>TG</td><td>2,53 %</td></tr>
+<tr><td>21</td><td>TI</td><td>4,40 %</td></tr>
+<tr><td>22</td><td>VD</td><td>8,39 %</td></tr>
+<tr><td>23</td><td>VS</td><td>3,87 %</td></tr>
+<tr><td>24</td><td>NE</td><td>2,04 %</td></tr>
+<tr><td>25</td><td>GE</td><td>7,11 %</td></tr>
+<tr><td>26</td><td>JU</td><td>0,70 %</td></tr>
+<tr><td>**Total**</td><td></td><td>**100 %**</td></tr>
+</table>
