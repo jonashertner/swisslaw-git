@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-06-01
+version: 2021-06-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210621/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210621-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210621/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210601/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. Juni 2021)
+vom 19. Juni 2020 (Stand am 21. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -702,7 +702,7 @@ Anhang 1*[^t-1]*
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 20. Mai 2021, in Kraft seit 24. Mai 2021 ([AS 2021 287](https://fedlex.data.admin.ch/eli/oc/2021/287)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 17. Juni 2021, in Kraft seit 21. Juni 2021 ([AS 2021 355](https://fedlex.data.admin.ch/eli/oc/2021/355)).
 
 Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 
@@ -712,6 +712,7 @@ Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Heiliger Stuhl
 - – Irland
 - – Israel
+- – Japan
 - – Korea (Süd-)
 - – Kroatien
 - – Monaco
