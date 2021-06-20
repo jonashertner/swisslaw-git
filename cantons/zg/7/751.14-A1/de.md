@@ -4,13 +4,12 @@ number: 751.14-A1
 title: "Gesetz über Strassen und Wege (Anhang 1: Verzeichnis der Kantonsstrassen gemäss § 5 GSW)"
 short: GSW
 language: de
-version: 2021-05-01
-valid_until: 2021-06-20
-version_adopted: 2019-12-23
+version: 2021-06-21
+version_adopted: 2021-02-26
 adopted: 1996-05-30
 in_force: 2010-02-05
 url: "https://bgs.zg.ch/app/de/texts_of_law/751.14-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/2229/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2242/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2229/pdf_file"
 
 (GSW)
 
-Vom 30. Mai 1996 (Stand 1. Mai 2021)
+Vom 30. Mai 1996 (Stand 21. Juni 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -37,11 +36,13 @@ beschliesst:
 <tr><th>Nummer</th><th>Beschrieb</th></tr>
 <tr><td>A4a</td><td>…</td></tr>
 <tr><td>4</td><td>Walterswil – Ziegelbrücke – Kreuzplatz – Weststrasse – Nordstrasse – Aabachstrasse (Gubelstrasse) und Chamerstrasse (Letzistrasse) – Alpenblick – Zythus – Holzhäusern – Lindenplatz – Grenze ZG/LU (bei Honau)</td></tr>
-<tr><td>4b</td><td>Zugerstrasse (Neufeld, Strasse M) – Baarerstrasse (Bundesplatz, Strasse 25)</td></tr>
+<tr><td>4.1</td><td>Zug Chamerstrasse (Strasse 25) – Kreisel Aabach (Strasse 4)</td></tr>
+<tr><td>4b</td><td>…</td></tr>
 <tr><td>25</td><td>Grenze ZG/AG (Reussbrücke bei Sins) – Halten – Sinserstrasse (Strasse 4) und Chamerstrasse (Letzistrasse, Strasse 4) – Erlenplatz – Bundesplatz – Postplatz – Oberwil –Walchwil – Grenze ZG/SZ (bei St. Adrian) und Erlenplatz – Vorstadt – Postplatz</td></tr>
 <tr><td>338</td><td>…</td></tr>
 <tr><td>368</td><td>Zollweid (Strasse 25) – Hünenberg – Holzhäusern – Buonas – Risch – Oberrisch – Grenze ZG/SZ (bei Fänn)</td></tr>
-<tr><td>381</td><td>Kolinplatz (Strasse 25) – Talacher – Nidfuren – Schmittli – Unterägeri – Oberägeri – Morgarten – Grenze ZG/SZ (bei Schornen)</td></tr>
+<tr><td>381</td><td>Baar (N14/Strasse 4) – Talacher – Nidfuren – Schmittli – Unterägeri – Oberägeri – Morgarten – Grenze ZG/SZ (bei Schornen)</td></tr>
+<tr><td>381.1</td><td>Zug Kolinplatz (Strasse 25) – Talacher (Strasse 381)</td></tr>
 <tr><td>382</td><td>Cham (Strasse 4) – Pfad – Oberwil bei Cham – Grenze ZG/ZH (bei Knonau)</td></tr>
 <tr><td>A</td><td>Rotkreuz (Strasse B) – Grenze ZG/LU (bei Meierskappel)</td></tr>
 <tr><td>B</td><td>Lindenplatz (Strasse 4) – Buonas (Strasse 368)</td></tr>
@@ -53,8 +54,8 @@ beschliesst:
 <tr><td>H</td><td>Rank (Strasse 4) – Steinhauserbrücke – Sennweid – Unterfeld – Grindel – Bibersee – Grenze ZG/ZH (bei Knonau)</td></tr>
 <tr><td>J</td><td>Nordstrasse (Strasse 4) – Schochenmühle – Steinhauserstrasse (Strasse H)</td></tr>
 <tr><td>K</td><td>Weststrasse (Strasse 4) – Blickensdorf – Gulmatt – Grenze ZG/ZH (bei Kappel bzw. bei Uerzlikon)</td></tr>
-<tr><td>L</td><td>Baar (Strasse 4) – Geissbühl – Moos – Talacher (Strasse 381)</td></tr>
-<tr><td>M</td><td>Südstrasse (Strasse 4) – Zugerstrasse (Strasse 4b)</td></tr>
+<tr><td>L</td><td>…</td></tr>
+<tr><td>M</td><td>…</td></tr>
 <tr><td>N</td><td>Ziegelbrücke (Strasse 4) – Baarburg – Hinterburgmühle (Strasse P)</td></tr>
 <tr><td>O</td><td>Sihlbrugg (Strasse 4) – Tännlimoos – Grenze ZG/ZH (bei Ebertswil)</td></tr>
 <tr><td>P</td><td>Sihlbrugg (Strasse 338) – Neuheim – Edlibach – Schmittli (Strasse 381)</td></tr>
@@ -62,7 +63,7 @@ beschliesst:
 <tr><td>R</td><td>Oberägeri (Strasse 381) – Alosen – Raten –Wissenbach – Grenze ZG/SZ (bei Biberbrugg)</td></tr>
 <tr><td>S</td><td>Moosrank (Strasse 381) – Allenwinden – Schmittli (Strasse 381)</td></tr>
 <tr><td>T</td><td>Felderhus (Strasse P) – Neuheim</td></tr>
-<tr><td>U</td><td>Feldstrasse (Strasse 4) – Baarerstrasse (Strasse 4b)</td></tr>
+<tr><td>U</td><td>…</td></tr>
 </table>
 
 #### § 2
