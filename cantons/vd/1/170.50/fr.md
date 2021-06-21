@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 09.06.2021 de mise en vigueur
+title: ARRÊTÉ du 16.06.2021 de mise en vigueur
 language: fr
-version: 2021-06-15
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=19a72abc-c364-4647-ba1f-f7d855a6ca20"
+version: 2021-06-22
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=9c72d3b3-40de-4643-9327-3ebd8a12acdf"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 9 juin 2021
+du 16 juin 2021
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,8 +21,7 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les actes législatifs ci-après du 16 mars 2021, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 30 mars 2021, entrent en vigueur le 1er juin 2021 :
+<sup>1</sup> Les décrets ci-après du 30 mars 2021 publiés dans la "Feuille des avis officiels du Canton de Vaud" du 13 avril 2021, entrent en vigueur le 16 juin 2021 :
 
-- a. loi du 16 mars 2021 modifiant celle du 20 juin 2006 sur l'accueil de jour des enfants (BLV 211.22) ;
-- b. décret du 16 mars 2021 accordant un soutien extraordinaire aux transports publics régionaux et urbains pour atténuer les pertes provoquées par le coronavirus (COVID-19) durant l'année 2020 (BLV 740.21) ;
-- c. décret du 16 mars 2021 dérogeant aux délais prévus aux articles 24, alinéa 1bis et 33, alinéa 1 de la loi du 12 juin 2007 sur l'appui au développement économique et à l'article 13 du règlement sur le fonds de soutien à l'industrie du 25 novembre 2015 (BLV 900.05).
+- a. décret du 30 mars 2021 autorisant le Conseil d'Etat à adhérer à la version modifiée de la convention intercantonale sur l'Hôpital Riviera-Chablais Vaud-Valais (BLV 810.94) ;
+- b. décret du 30 mars 2021 permettant au Conseil d'Etat du canton de Vaud d'accorder la garantie de l'Etat de Vaud pour l'emprunt bancaire de 52'650'000.- francs contracté par l'Hôpital Riviera-Chablais, Vaud-Valais (HRC) pour financer les coûts complémentaires liés à la construction de son dispositif hospitalier (BLV 810.00).
