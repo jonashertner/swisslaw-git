@@ -3,11 +3,11 @@ sr: "0.748.127.192.32"
 title: Accordo del 20 febbraio 1975 tra la Confederazione Svizzera e il Canada concernente i trasporti aerei
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/870_870_870"
 language: it
-version: 2006-05-17
+version: 2021-06-22
 adopted: 1975-02-20
 in_force: 1976-03-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/870_870_870/20060517/it/xml/fedlex-data-admin-ch-eli-cc-1976-870_870_870-20060517-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/870_870_870/20060517/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/870_870_870/20210622/it/xml/fedlex-data-admin-ch-eli-cc-1976-870_870_870-20210622-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/870_870_870/20210622/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/870_870_870/20060517/it"
 
 RU **1976** 870; FF **1975** II 29
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiuso il 20 febbraio 1975 Approvato dall’Assemblea federale il 17 dicembre 1975[^t-2] Entrato in vigore con scambio di note il 12 marzo 1976
+Conchiuso il 20 febbraio 1975
 
-(Stato 22 agosto 2006)
+Approvato dall’Assemblea federale il 17 dicembre 1975[^t-1]
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: Art. 1 cpv. 1 lett. d DF del 17 dic. 1975 ([RU 1976 757](https://fedlex.data.admin.ch/eli/oc/1976/757_757_757))
+Entrato in vigore con scambio di note il 12 marzo 1976
+
+(Stato 22 giugno 2021)
+
+[^t-1]: Art. 1 cpv. 1 lett. d DF del 17 dic. 1975 ([RU 1976 757](https://fedlex.data.admin.ch/eli/oc/1976/757_757_757)).
 
 Il Consiglio Federale Svizzero e il Governo del Canada,
 
@@ -37,17 +40,21 @@ hanno designato i loro plenipotenziari i quali, debitamente autorizzati, hanno c
 
 #### Art. I
 
+**Definizioni**[^I-1]
+
 Ai fini del presente Accordo, salvo disposizioni contrarie:
 
-- (a)[^I-1] «Autorità aeronautiche» indica, per la Svizzera, l’Ufficio federale dell’aviazione civile e, per il Canada, il Ministro dei trasporti e l’Ente governativo dei trasporti canadese o, in ambedue i casi, qualsiasi persona o ente autorizzato ad assumere le funzioni attualmente esercitate da dette autorità;
-- (b) «Servizi convenuti» indica qualsiasi servizio aereo regolare per il trasporto dei passeggeri, merci e posta lungo le linee indicate nel presente Accordo, in modo separato o combinato:;
-- (c) «Accordo» indica il presente Accordo, il suo Allegato ed ogni eventuale modificazione;
-- (d) «Convenzione» indica la Convenzione relativa all’aviazione civile internazionale, aperta alla firma a Chicago il 7 dicembre 1944;
-- (e) «Impresa designata» indica un’impresa di trasporti aerei designata e autorizzata conformemente all’articolo 3 del presente Accordo;
-- (f) «Tariffa» comprende le aliquote, tasse, tariffe, spese di trasporto, condizioni di trasporto, classificazioni, regole, regolamenti, pratiche e servizi pertinenti, ad eccezione tuttavia delle rimunerazioni e condizioni concernenti il trasporto della posta;
-- (g) «Territorio», «Servizio aereo», «Servizio aereo internazionale», «Impresa di trasporto aereo» e «Scali non commerciali» hanno il significato loro attribuito negli articoli 2 e 96 della Convenzione.
+- (a) «autorità aeronautiche» indica, per la Svizzera, l’Ufficio federale dell’aviazione civile e, per il Canada, il Ministro dei Trasporti e l’Ente governativo dei trasporti canadese o, in ambedue i casi, qualsiasi persona o ente autorizzato ad assumere le funzioni attualmente esercitate da dette autorità;
+- (b) «servizi convenuti» indica i servizi aerei regolari per il trasporto di passeggeri, merci e invii postali, in modo separato o combinato, sulle linee indicate nel presente Accordo;
+- (c) «Accordo» indica il presente Accordo, i suoi Allegati e tutte le relative modifiche;
+- (d) «Convenzione» indica la Convenzione relativa all’aviazione civile internazionale, aperta alla firma a Chicago il 7 dicembre 1944, e include tutti gli allegati adottati conformemente all’articolo 90 della Convenzione e tutti gli emendamenti agli allegati o alla Convenzione conformemente agli articoli 90 e 94, sempre che detti allegati ed emendamenti siano stati adottati dalle due Parti;
+- (e) «impresa designata» indica un’impresa di trasporti aerei designata e autorizzata conformemente all’articolo III del presente Accordo;
+- (f) «tariffa» comprende la pubblicazione di tutti i prezzi nonché le condizioni di trasporto, classificazioni, regole, regolamenti, pratiche e servizi pertinenti per il trasporto aereo di passeggeri, bagagli e merci, a esclusione della remunerazione e delle condizioni inerenti al trasporto degli invii postali;
+- (g) «prezzo» comprende tutte le aliquote, spese o tasse comprese in una tariffa (incluse ulteriori prestazioni nell’ambito del trasporto aereo) per il trasporto di passeggeri (compresi i loro bagagli) e/o merci (esclusi gli invii postali) nonché le condizioni sulle quali si basano direttamente la disponibilità e l’applicabilità di tali aliquote, spese o tasse;
+- (h) «condizioni di trasporto generali» indica tutti i termini e le condizioni compresi in una tariffa (come le spese per il bagaglio aggiuntivo, le disposizioni relative al negato imbarco e quelle relative all’assenza di barriere) che sono applicabili in larga misura ai servizi convenuti e non legate direttamente a un prezzo;
+- (i) «territorio», «servizio aereo», «servizio aereo internazionale», «impresa di trasporti aerei» e «scali non commerciali» indicano quanto stabilito negli articoli 2 e 96 della Convenzione.
 
-[^I-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^I-1]: Nuovo testo giusta l’art. 1 del Prot. del 29 gen. 2019, in vigore dal 22 giu. 2021 ([RU 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
 #### Art. II
 
@@ -65,9 +72,11 @@ Ciascuna Parte accorda all’altra i seguenti diritti per l’effettuazione dei 
 
 <sup>3.</sup> Nessun disposto del paragrafo 1 del presente articolo conferisce alle imprese designate di una Parte il diritto d’imbarcare, sul territorio dell’altra Parte, passeggeri, bagagli, merci e invii postali per trasportarli, dietro rimunerazione o in esecuzione di un contratto di locazione, in un altro punto del territorio di quest’altra Parte.
 
-[^II-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^II-1]: Nuovo testo giusta la mod. del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
 
 #### Art. III
+
+**Designazione e autorizzazione d’esercizio**
 
 <sup>1.</sup> Ciascuna Parte ha il diritto di designare, mediante nota diplomatica, una o più imprese di trasporti aerei per l’esercizio, per detta Parte, dei servizi convenuti sulle linee indicate, di ritirare una designazione oppure di designare un’altra impresa di trasporti aerei in vece di quella precedentemente designata.[^III-1]
 
@@ -77,9 +86,10 @@ Ciascuna Parte accorda all’altra i seguenti diritti per l’effettuazione dei 
 
 <sup>4.</sup> Le autorità aeronautiche di ciascuna Parte possono rifiutare l’autorizzazione d’esercizio, di cui al paragrafo 2 del presente articolo, oppure, nei limiti ch’esse ritengano necessari, condizionare l’attuazione, ad opera dell’impresa designata, dei diritti definiti nell’articolo 2 del presente Accordo, qualora detta Parte non avesse la prova che una parte sostanziale della proprietà nonché il controllo effettivo dell’impresa stessa appartengono alla Parte che l’ha designata o a suoi cittadini.
 
-<sup>5.</sup> Ricevuta l’autorizzazione d’esercizio prevista nel paragrafo 2 del presente articolo, l’impresa designata può iniziare, in ogni momento, ad esercitare i servizi convenuti, totalmente o parzialmente, sempreché sia entrata in vigore, per i servizi di cui si tratta, la tariffa stabilita conformemente alle disposizioni dell’articolo 11.
+<sup>5.</sup> Una volta ricevuta l’autorizzazione d’esercizio di cui al paragrafo 2 del presente articolo, l’impresa designata può, in qualsiasi momento, esercitare tutti o parte dei servizi convenuti, purché per questi servizi siano in vigore i prezzi e le condizioni di trasporto generali stabiliti conformemente alle disposizioni dell’articolo XI del presente Accordo.[^III-2]
 
-[^III-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^III-1]: Nuovo testo giusta la mod. del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^III-2]: Nuovo testo giusta l’art. 2 del Prot. del 29 gen. 2019, in vigore dal 22 giu. 2021 ([RU 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
 #### Art. IV
 
@@ -114,7 +124,7 @@ Il diritto di ciascuna impresa designata di effettuare trasporti nel traffico in
 
 <sup>5.</sup> Sempre che non sia stato convenuto altrimenti, nessuna Parte impone unilateralmente all’impresa designata dall’altra Parte limitazioni riguardo a capacità, frequenze o al tipo di aeromobile utilizzato in relazione con servizi aerei su alcune delle linee indicate nell’Allegato al presente Accordo. Qualora una Parte ritenga che il servizio aereo proposto o effettuato da un’impresa designata dell’altra Parte pregiudichi ingiustificatamente i servizi convenuti offerti dalla propria impresa designata, può chiedere consultazioni in virtù dell’articolo XIV del presente Accordo.
 
-[^V-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^V-1]: Nuovo testo giusta la mod. del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
 
 #### Art. VI
 
@@ -128,7 +138,7 @@ Il diritto di ciascuna impresa designata di effettuare trasporti nel traffico in
 
 <sup>4.</sup> Nessuna Parte attribuisce alle le proprie imprese, rispetto a quelle designate dell’altra, una posizione di favore quanto all’applicazione delle leggi e dei regolamenti menzionati nel presente articolo.
 
-[^VI-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^VI-1]: Nuovo testo giusta la mod. del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
 
 #### Art. VI<sup>bis</sup>
 
@@ -150,7 +160,7 @@ Il diritto di ciascuna impresa designata di effettuare trasporti nel traffico in
 
 <sup>8.</sup> Una Parte, se ha seri motivi di ritenere che l’altra Parte deroghi dalle disposizioni del presente articolo, può chiedere l’immediato svolgimento di consultazioni. L’incapacità di giungere ad una soluzione soddisfacente rappresenta un motivo giustificato per invocare l’articolo VI del presente Accordo.
 
-[^VIbis-1]: Introdotto dalla modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^VIbis-1]: Introdotto dalla mod. del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
 [^VIbis-2]: [RS 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
 [^VIbis-3]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
 [^VIbis-4]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
@@ -166,7 +176,7 @@ Il diritto di ciascuna impresa designata di effettuare trasporti nel traffico in
 
 <sup>3.</sup> Ciascuna Parte può domandare in qualsiasi momento consultazioni sugli standard di sicurezza applicati dall’altra Parte per i suoi impianti aeroportuali, i suoi equipaggi, i suoi aeromobili e l’esercizio delle imprese designate. Se dopo siffatte consultazioni tecniche una Parte constata che in questi campi l’altra Parte non osserva standard di sicurezza corrispondenti almeno agli standard che possono essere stabiliti in base alla Convenzione, la Parte interessata notifica all’altra queste constatazioni e i passi ritenuti necessari per soddisfare tali standard minimi, e l’altra Parte adotta le corrispondenti misure correttive. Se quest’ultima Parte non adotta entro un tempo ragionevole misure adatte, si applicano le disposizioni dell’articolo IV.
 
-[^VII-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^VII-1]: Nuovo testo giusta la mod. del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
 
 #### Art. VIII
 
@@ -178,7 +188,7 @@ Il diritto di ciascuna impresa designata di effettuare trasporti nel traffico in
 
 <sup>3.</sup> Ciascuna Parte incoraggia le consultazioni fra le sue autorità competenti che fissano i costi e le imprese di trasporti aerei che fanno ricorso alle prestazioni e alle installazioni o, per quanto possibile, per il tramite delle associazioni e delle organizzazioni che rappresentano tali imprese. Agli utilizzatori deve essere dato un preavviso ragionevole in merito a tutti i progetti di modifica delle tasse di utilizzazione dei servizi, per consentire loro di esprimere il loro punto di vista prima che le modifiche siano rese esecutive.
 
-[^VIII-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^VIII-1]: Nuovo testo giusta la mod. del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
 
 #### Art. IX
 
@@ -200,38 +210,30 @@ Le esenzioni accordate in virtù del presente articolo s’applicheranno ai beni
 
 #### Art. XI
 
-[^XI-1]
+**Tariffe**[^XI-1]
 
-<sup>1.</sup> Le tariffe per il trasporto sui servizi convenuti da e verso il territorio dell’altra Parte sono fissate tra le imprese designate in base alle forze di mercato, tenendo conto di tutti gli elementi determinanti, inclusi in particolare le spese d’esercizio, le particolari caratteristiche di ogni servizio, un utile ragionevole, le tariffe di altre imprese designate e altre considerazioni di ordine economico sugli avvenimenti di mercato.
+<sup>1.</sup> Le Parti permettono alle imprese designate di fissare singolarmente o, a discrezione delle imprese di trasporti aerei, coordinandosi tra loro o con altre imprese di trasporti aerei, i prezzi e le condizioni di trasporto generali secondo il presente articolo. La determinazione dei prezzi per il trasporto relativo ai servizi convenuti è basata su considerazioni commerciali. Un’impresa designata è tenuta a giustificare le proprie tariffe unicamente nei confronti delle proprie autorità aeronautiche.
 
-<sup>2.</sup> Le tariffe menzionate nel paragrafo 1 possono essere fissate singolarmente o, a discrezione dell’impresa designata o delle imprese designate, mediante convenzione comune o mediante convenzione con altre imprese. Ciascuna impresa designata è responsabile della giustificazione economica delle proprie tariffe unicamente nei confronti delle proprie autorità aeronautiche.
+<sup>2.</sup> Le Parti non esigono la presentazione dei prezzi per il trasporto relativo ai servizi convenuti. Ciascuna Parte può obbligare le imprese designate dell’altra Parte a concedere, su richiesta, alle sue autorità aeronautiche l’accesso immediato, in un modo e in una forma per esse accettabili, alle informazioni concernenti i suoi prezzi.
 
-<sup>3.</sup> Ove ciò sia richiesto, le tariffe vanno presentate alle autorità aeronautiche delle due Parti e le autorità devono riceverle almeno un (1) giorno prima della data prevista per la loro entrata in vigore. Dette autorità esaminano prontamente e con benevolenza le domande per notificazioni a breve termine, in particolare se lo scopo è un allineamento a una tariffa già presentata o se si tratta di introdurre modifiche tariffali risultanti da circostanze che esulano dall’ambito di influenza dell’impresa o delle imprese designate. Un’impresa designata che ha stabilito singolarmente una tariffa, al momento di sottoporre la domanda trasmette all’impresa designata o alle imprese designate dell’altra Parte una copia della tariffa presentata.
+<sup>3.</sup>
 
-<sup>4.</sup> Le imprese designate possono vendere titoli di trasporto per i servizi convenuti conformemente alle tariffe proposte a partire dalla data di presentazione, a condizione che tutte le vendite siano valide per trasporti che non si effettuano prima della data proposta per l’entrata in vigore delle tariffe e queste ultime indichino chiaramente che sono valide fatta salva l’approvazione da parte del Governo.
+Le Parti permettono (tacitamente o espressamente) l’introduzione e il mantenimento di prezzi per i servizi convenuti, purché le autorità aeronautiche di entrambe le Parti non abbiano espresso il loro disaccordo. Fatte salve le disposizioni del paragrafo 5 del presente articolo, nessuna delle Parti adotta misure per impedire l’introduzione o il mantenimento di un prezzo riscosso o proposto da un’impresa designata di una Parte per il trasporto relativo ai servizi convenuti. Gli interventi delle autorità aeronautiche al riguardo devono perseguire in primo luogo i seguenti obiettivi:
 
-<sup>5.</sup> Se non sono d’accordo con una tariffa proposta, le autorità aeronautiche di una Parte lo comunicano entro dieci (10) giorni dalla data in cui l’hanno ricevuta alle autorità aeronautiche dell’altra Parte e all’impresa designata interessata. Qualora le autorità aeronautiche abbiano accettato un termine più breve per la presentazione di una tariffa, esse possono anche convenire che il termine entro il quale deve essere comunicata la non approvazione può essere inferiore a dieci (10) giorni.
+- (a) impedire tariffe o pratiche discriminanti inique;
+- (b) proteggere i consumatori da tariffe esageratamente elevate o restrittive ottenute con l’abuso di una posizione dominante;
+- (c) proteggere le imprese da tariffe mantenute artificialmente basse grazie a sussidi o a sostegni statali diretti o indiretti; e
+- (d) proteggere le imprese da tariffe mantenute artificialmente basse, se vi sono indizi secondo i quali ciò comporterebbe l’esclusione di concorrenti.
 
-<sup>6.</sup> Se non sono d’accordo con una tariffa in vigore, le autorità aeronautiche di una Parte devono informarne le autorità aeronautiche dell’altra Parte e l’impresa designata interessata.
+<sup>4.</sup> Se non concordano su un prezzo, le autorità aeronautiche di una Parte ne danno notifica alle autorità aeronautiche dell’altra Parte e all’impresa di trasporti aerei interessata. Le autorità aeronautiche che hanno ricevuto la notifica lo comunicano entro dieci (10) giorni feriali dal ricevimento, specificando se sono o meno d’accordo con essa. Le autorità aeronautiche di entrambe le Parti collaborano nel raccogliere le informazioni necessarie per la valutazione di un prezzo che ha dato adito a una notifica di disaccordo. Se le autorità aeronautiche dell’altra Parte hanno comunicato di essere d’accordo con la notifica di disaccordo, le autorità aeronautiche di entrambe le Parti provvedono immediatamente affinché il prezzo non sia più né proposto né riscosso.
 
-<sup>7.</sup> Se una comunicazione sulla non approvazione ha avuto luogo secondo i paragrafi 5 o 6 del presente articolo, le autorità aeronautiche che hanno ricevuto tale comunicazione ne notificano il ricevimento entro dieci (10) giorni, indicando se sono d’accordo o no. La presa di contatto di cui al presente articolo può avvenire mediante lettera o qualsiasi genere di trasmissione elettronica che consenta di stampare testi.
+<sup>5.</sup> Le autorità aeronautiche di una Parte possono richiedere in qualsiasi momento discussioni tecniche sui prezzi. A meno che le Parti non abbiano convenuto diversamente, siffatte discussioni hanno luogo al più tardi entro dieci (10) giorni feriali dal ricevimento della richiesta.
 
-<sup>8.</sup>
+<sup>6.</sup> Le condizioni di trasporto generali sottostanno alle leggi e ai regolamenti nazionali di entrambe le Parti. Ciascuna Parte può esigere che tali condizioni di trasporto generali siano comunicate alle proprie autorità aeronautiche o depositate presso di esse. Se una Parte adotta misure di disapprovazione concernenti le condizioni di trasporto generali di un’impresa designata, essa lo comunica immediatamente all’altra Parte.
 
-Nessuna tariffa entra o rimane in vigore se:
+<sup>7.</sup> Le Parti possono esigere che le imprese designate rendano accessibili al pubblico tutte le informazioni relative ai prezzi e alle condizioni di trasporto generali.
 
-- a) è applicabile al trasporto fra i territori delle Parti e le autorità aeronautiche delle due Parti non l’approvano;
-- b) è applicabile al trasporto fra il territorio dell’altra Parte e uno Stato terzo e le autorità aeronautiche di quest’altra Parte non l’approvano.
-
-<sup>9.</sup> L’impresa designata o le imprese designate di una Parte hanno il diritto di allinearsi, in tempi opportuni, a qualunque tariffa di traffico di linea legittima accessibile pubblicamente per un trasporto fra i territori delle due Parti, su una base che, senza essere necessariamente uguale, è per lo più equivalente quanto alla linea, al tipo di aeromobile e alle condizioni e agli standard delle prestazioni. Nello stesso modo, ciascuna delle imprese designate ad una o dall’altra Parte ha il diritto di allinearsi, entro tempo utile, a qualunque tariffa per il trasporto fra il territorio dell’altra Parte e uno Stato terzo, a condizione che la tariffa risultante non sia inferiore ad alcuna tariffa di un’impresa di trasporti aerei che opera su questo mercato godendo della terza o quarta libertà.
-
-<sup>10.</sup> Le tariffe che sono state fissate conformemente ai disposti del presente articolo rimangono in vigore fino a quando non sono fissate nuove tariffe conformemente a detti disposti. Tuttavia, in virtù del presente paragrafo, esse non possono restare in vigore più di dodici (12) mesi oltre la data in cui avrebbero altrimenti cessato di avere effetto.
-
-<sup>11.</sup> Le autorità aeronautiche di ciascuna Parte possono, in ogni momento, chiedere consultazioni in merito alle tariffe. Dette consultazioni, che possono essere verbali o scritte, hanno luogo entro quindici (15) giorni a decorrere dalla ricezione della domanda, sempre che non sia stato convenuto altrimenti fra le autorità aeronautiche.
-
-<sup>12.</sup> Le autorità aeronautiche delle due Parti si adoperano per assicurarsi che le tariffe imposte e riscosse corrispondano alle tariffe legalmente in vigore.
-
-[^XI-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^XI-1]: Nuovo testo giusta l’art. 3 del Prot. del 29 gen. 2019, in vigore dal 22 giu. 2021 ([RU 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
 #### Art. XII
 
@@ -243,12 +245,32 @@ Nessuna tariffa entra o rimane in vigore se:
 
 #### Art. XIII
 
-[^XIII-1]
+**Imposizione**[^XIII-1]
 
-Le Parti agiscono in conformità alle pertinenti disposizioni della Convenzione tra il Canada e la Svizzera per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio firmata a Berna il 20 agosto 1976[^XIII-2] e di ogni convenzione successiva o modifica che vi possa essere apportata, in relazione all’esercizio di aeromobili nel traffico aereo internazionale.
+<sup>1.</sup> Gli utili o il reddito conseguiti da un’impresa di trasporti aerei di una Parte con l’esercizio di aeromobili nel traffico internazionale, compresi quelli derivanti dalla partecipazione ad accordi commerciali o a joint venture tra imprese di trasporti aerei, sono esenti da qualsiasi imposta sugli utili o sul reddito applicata dal Governo dell’altra Parte.
 
-[^XIII-1]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
-[^XIII-2]: [RU 1977 1526](https://fedlex.data.admin.ch/eli/oc/1977/1526_1526_1526). Vedi ora la Conv. del 5 mag, 1997 ([RS 0.672.923.21](https://fedlex.data.admin.ch/eli/cc/2002/299)**)**.
+<sup>2.</sup> Il capitale e il patrimonio di un’impresa di trasporti aerei di una Parte impiegati per l’esercizio di aeromobili nel traffico internazionale sono esenti da qualsiasi imposta sul capitale e sul patrimonio applicata dal Governo dell’altra Parte.
+
+<sup>3.</sup> I ricavi conseguiti dall’impresa di trasporti aerei di una Parte dalla vendita di aeromobili impiegati nel traffico internazionale e di beni mobili necessari all’esercizio di tali aeromobili sono esenti da qualsiasi imposta sui ricavi applicata dal Governo dell’altra Parte.
+
+<sup>4.</sup>
+
+Ai fini del presente articolo:
+
+- (a)
+
+  «utili o reddito» indica gli introiti e i proventi lordi conseguiti direttamente con l’esercizio di aeromobili, compresi:
+
+  - i) gli introiti derivanti dal noleggio o dalla locazione di aeromobili,
+  - ii) gli introiti derivanti dalla vendita di servizi di trasporto aereo per conto della stessa impresa di trasporti o di un’altra impresa,
+  - iii) i proventi di interessi su importi derivanti direttamente dall’esercizio di aeromobili nel traffico internazionale, purché tali proventi siano accessori rispetto all’esercizio;
+
+- (b) «traffico internazionale» indica il trasporto di persone e/o merci, compresi gli invii postali, ad eccezione di trasporti effettuati principalmente tra punti sul territorio di una Parte; e
+- (c) «impresa di trasporti aerei di una Parte» indica, per la Svizzera, un’impresa di trasporti aerei avente sede in Svizzera ai fini dell’imposizione sul reddito e, per il Canada, un’impresa di trasporti aerei avente sede in Canada ai fini dell’imposizione sul reddito.
+
+<sup>5.</sup> Il presente articolo non si applica se tra le Parti è in vigore un accordo per evitare la doppia imposizione sui redditi.
+
+[^XIII-1]: Nuovo testo giusta l’art. 4 del Prot. del 29 gen. 2019, in vigore dal 22 giu. 2021 ([RU 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
 #### Art. XIV
 
@@ -298,7 +320,7 @@ Ove una convenzione multilaterale generale relativa ai trasporti aerei entrasse 
 
 <sup>2.</sup> Le disposizioni di cui al paragrafo 1 del presente articolo non riguardano le leggi e le ordinanze nazionali che regolamentano il diritto per le imprese di effettuare voli charter, né la gestione delle imprese o di terzi che partecipano all’organizzazione di tali attività.
 
-[^XIXbis-1]: Introdotto dalla modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^XIXbis-1]: Introdotto dalla mod. del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
 
 #### Art. XX
 
@@ -308,64 +330,112 @@ Ove una convenzione multilaterale generale relativa ai trasporti aerei entrasse 
 
 [^XX-1]: [RU 1961 1121](https://fedlex.data.admin.ch/eli/oc/1961/1073_1095_1121)
 
-*In fede di che,* i sottoscritti, debitamente autorizzati dai rispettivi Governi, hanno firmato il presente Accordo. Fatto a Ottawa il 20 febbraio 1975, in due esemplari nelle lingue francese e inglese, i due testi facenti parimenti fede. Per il Consiglio Federale Svizzero: Per il Governo del Canada: E. Bernath J. Mac Eachen
+*In fede di che,* i sottoscritti, debitamente autorizzati dai rispettivi Governi, hanno firmato il presente Accordo. Fatto a Ottawa il 20 febbraio 1975, in due esemplari nelle lingue francese e inglese, i due testi facenti parimenti fede. Per il Consiglio Federale Svizzero: E. Bernath Per il Governo del Canada: J. Mac Eachen
 
-Allegato[^t-3]
+Allegato I*[^t-2]*
 
-## Tavole delle linee
+## Tavole delle Linee
 
-[^t-3]: Nuovo testo giusta la modifica del 13 giu. 2005, in vigore dal 17 mag. 2006 ([RU 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^t-2]: Originario all. Nuovo testo giusta l’art. 5 del Prot. del 29 gen. 2019, in vigore dal 22 giu. 2021 ([RU 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
-Sezione I
+Le Parti concordano che le imprese designate da ciascuna di esse, conformemente alle rispettive note, possano servire le linee indicate nelle sezioni applicabili del presente Allegato.
 
-La seguente linea può essere servita in una o nell’altra direzione o in entrambe le direzioni da una o più imprese di trasporti aerei designate dal governo della Svizzera:
+### Sezione I
 
-<table>
-<tr><td>Punti in Svizzera</td><td>Punti di scalo intermedi</td><td>Punti in Canada</td><td>Punti al di là</td></tr>
-<tr><td>Ogni punto o tutti i punti</td><td>Ogni punto o tutti i punti</td><td>Ogni punto o tutti i punti</td><td>Ogni punto o tutti i punti</td></tr>
-</table>
+Le imprese designate di entrambe le Parti possono esercitare servizi aerei regolari per il trasporto di passeggeri e merci e/o per il trasporto esclusivo di merci, nell’una o nell’altra direzione o in entrambe le direzioni, tra i punti sulle seguenti linee e conformemente alle seguenti note:
 
-Note
-
-\1. Su una parte delle linee o su tutte le linee, ciascun punto intermedio di scalo e/o ciascun punto al di là può essere tralasciato, a condizione che tutte le linee inizino o terminino in Svizzera. I punti in Canada possono essere serviti singolarmente o in combinazione.
-
-\2. Sui punti intermedi di scalo e i punti in Canada sono disponibili solamente diritti di transito e diritti propri di scalo. Fra i punti in Canada non sono disponibili diritti di scalo intermedio. L’impresa o le imprese designate dalla Svizzera possono, in ogni punto sulle linee indicate e a propria discrezione, trasferire traffico fra i propri aeromobili senza limitazione in relazione al tipo e al numero di aeromobili, a condizione che, nel volo di andata, il trasporto al di là di questo punto rappresenti una continuazione del volo in partenza dalla Svizzera e che, nel volo di ritorno, il trasporto a destinazione della Svizzera sia una continuazione del volo in partenza da questo punto, e a condizione che tutti i voli interessati dal trasferimento abbiano la Svizzera come punto di partenza iniziale o come punto di destinazione finale.
-
-\3. Fatte salve le esigenze di carattere regolamentare normalmente applicate dalle autorità aeronautiche del Canada in relazione a tali servizi di trasporto, ciascuna impresa designata dalla Svizzera può stipulare accordi di collaborazione allo scopo di:
-
-- a) offrire i servizi di trasporto convenuti in code-share sulle linee indicate (cioè, vendere titoli di trasporto con il proprio codice) su voli offerti da una o più imprese di trasporti aerei della Svizzera, del Canada o di uno Stato terzo;
-- b) trasportare traffico con il codice di una qualunque altra impresa autorizzata dalle autorità aeronautiche del Canada a vendere titoli di trasporto con il proprio codice su voli effettuati da quest’impresa designata dalla Svizzera.
-
-I trasporti effettuati fra punti in Canada sulla base di un code-share sono limitati a voli effettuati da una o più imprese autorizzate dalle autorità aeronautiche del Canada a offrire servizi fra punti situati in Canada, e tutti i voli effettuati fra punti in Canada con il codice dell’impresa o delle imprese designate dalla Svizzera sono offerti solamente nel quadro di viaggi internazionali.
-
-Tutte le imprese che stipulano un accordo di code-share devono disporre delle necessarie autorizzazioni applicabili alle linee interessate.
-
-Le autorità aeronautiche del Canada non possono rifiutare a una o più imprese di trasporti aerei designate dalla Svizzera l’autorizzazione ad effettuare trasporti sulla base di un accordo di code-share come quello indicato al precedente paragrafo 3a) adducendo come motivo il fatto che l’impresa o le imprese che esercitano l’aeromobile non hanno ottenuto dal Canada l’autorizzazione a trasportare traffico con il codice dell’impresa o delle imprese designate dalla Svizzera.
-
-Sezione II
-
-La seguente linea può essere servita in una o nell’altra direzione o in entrambe le direzioni da una o più imprese di trasporti aerei designate dal governo del Canada:
+a) Canada
 
 <table>
-<tr><td>Punti in Canada</td><td>Punti di scalo intermedi</td><td>Punti in Svizzera</td><td>Punti al di là</td></tr>
-<tr><td>Ogni punto o tutti i punti</td><td>Ogni punto o tutti i punti</td><td>Ogni punto o tutti i punti</td><td>Ogni punto o tutti i punti</td></tr>
+<tr><td>Punti al di fuori del Canada</td><td>Punti in Canada</td><td>Punti di scalo intermedi</td><td>Punti in Svizzera</td><td>Punti situati oltre</td></tr>
+<tr><td>Ciascun punto o tutti i punti</td><td>Ciascun punto o tutti i punti</td><td>Ciascun punto o tutti i punti</td><td>Ciascun punto o tutti i punti</td><td>Ciascun punto o tutti i punti</td></tr>
 </table>
 
-Note
+\1. Il traffico può essere imbarcato in punti in Canada e sbarcato in punti in Svizzera e viceversa. Il traffico può essere imbarcato in punti al di fuori del Canada, in punti di scalo intermedi e in punti situati oltre e sbarcato in punti in Svizzera e viceversa. Ciascuna impresa designata può su uno o su tutti i voli e a sua discrezione: i) servire punti in Svizzera in modo separato o combinato; ii) tralasciare tutti i punti sulla linea, a condizione che tutti i servizi servano almeno uno dei punti in Canada senza limiti di direzione o geografici.
 
-\1. Su una parte delle linee o su tutte le linee, ciascun punto intermedio di scalo e/o ciascun punto al di là può essere tralasciato, a condizione che tutte le linee inizino o terminino in Canada. I punti in Svizzera possono essere serviti singolarmente o in combinazione.
+\2. Sui punti in Canada, sui punti di scalo intermedi e sui punti in Svizzera sono disponibili diritti di transito e diritti propri di scalo.
 
-\2. Sui punti intermedi di scalo e i punti in Svizzera sono disponibili solamente diritti di transito e diritti propri di scalo. Fra i punti in Svizzera non sono disponibili diritti di scalo intermedio. L’impresa o le imprese designate dal Canada possono, in ogni punto sulle linee indicate e a propria discrezione, trasferire traffico fra i propri aeromobili senza limitazione in relazione al tipo e al numero di aeromobili, a condizione che, nel volo di andata, il trasporto al di là di questo punto rappresenti una continuazione del volo in partenza dal Canada e che, nel volo di ritorno, il trasporto a destinazione del Canada sia una continuazione del volo in partenza da questo punto, e a condizione che tutti i voli interessati dal trasferimento abbiano il Canada come punto di partenza iniziale o come punto di destinazione finale.
+b) Svizzera
 
-\3. I diritti di traffico nella quinta libertà possono essere esercitati fra Zurigo o Ginevra (o entrambe) e i seguenti punti scelti dal Canada: a) quattro punti nei seguenti paesi: Polonia, Ungheria, Austria e Iugoslavia, b) cinque punti in Asia, incluso un punto o punti in India; e al di là fino al Canada, c) un punto in Kenia e quattro punti in Africa, a sud del tropico del Cancro. Per ciascun punto al di là, i diritti di traffico nella quinta libertà non possono essere esercitati contemporaneamente da Zurigo e da Ginevra.
+<table>
+<tr><td>Punti al di fuori della Svizzera</td><td>Punti in Svizzera</td><td>Punti di scalo intermedi</td><td>Punti in Canada</td><td>Punti situati oltre</td></tr>
+<tr><td>Ciascun punto o tutti i punti</td><td>Ciascun punto o tutti i punti</td><td>Ciascun punto o tutti i punti</td><td>Ciascun punto o tutti i punti</td><td>Ciascun punto o tutti i punti</td></tr>
+</table>
 
-\4. Fatte salve le esigenze di carattere regolamentare normalmente applicate dalle autorità aeronautiche della Svizzera in relazione a tali servizi di trasporto, ciascuna impresa designata dal Canada può stipulare accordi di collaborazione allo scopo di:
+\1. Il traffico può essere imbarcato in punti in Svizzera e sbarcato in punti in Canada e viceversa. Il traffico può essere imbarcato in punti situati prima della Svizzera, in punti di scalo intermedi e in punti situati oltre e sbarcato in punti in Canada e viceversa. Ciascuna impresa designata può su uno o su tutti i voli e a sua discrezione: i) servire punti in Canada in modo separato o combinato; ii) tralasciare tutti i punti sulla linea, a condizione che su tutti i servizi servano almeno uno dei punti in Svizzera senza limiti di direzione o geografici.
 
-- a) offrire i servizi di trasporto convenuti in code-share sulle linee indicate (cioè, vendere titoli di trasporto con il proprio codice) su voli offerti da una o più imprese di trasporti aerei del Canada, della Svizzera o di uno Stato terzo;
-- b) trasportare traffico con il codice di una qualunque altra impresa autorizzata dalle autorità aeronautiche della Svizzera a vendere titoli di trasporto con il proprio codice su voli effettuati da quest’impresa designata dal Canada.
+\2. Sui punti in Svizzera, sui punti di scalo intermedi e sui punti in Canada sono disponibili diritti di transito e diritti propri di scalo.
 
-I trasporti effettuati fra punti in Svizzera sulla base di un code-share sono limitati a voli effettuati da una o più imprese autorizzate dalle autorità aeronautiche della Svizzera a offrire servizi fra punti situati in Svizzera, e tutti i voli effettuati fra punti in Svizzera con il codice dell’impresa o delle imprese designate dal Canada sono offerti solamente nel quadro di viaggi internazionali.
+### Sezione II
 
-Tutte le imprese che stipulano un accordo di code-share devono disporre delle necessarie autorizzazioni applicabili alle linee interessate.
+Flessibilità operativa
 
-Le autorità aeronautiche della Svizzera non possono rifiutare a una o più imprese di trasporti aerei designate dal Canada l’autorizzazione ad effettuare trasporti sulla base di un accordo di code-share come quello indicato al precedente paragrafo 4a) adducendo come motivo il fatto che l’impresa o le imprese che esercitano l’aeromobile non hanno ottenuto dalla Svizzera l’autorizzazione a trasportare traffico con il codice dell’impresa o delle imprese designate dal Canada.
+\1. Per l’esercizio di un unico aeromobile possono essere combinati diversi numeri di volo. Punti situati al di fuori del territorio di entrambe le Parti possono essere serviti con o senza cambiamento di aeromobile o di numero di volo e le imprese designate di entrambe le Parti possono presentare e annunciare tali servizi al pubblico come servizi diretti.
+
+\2. Ciascuna Parte permette alle imprese designate dell’altra Parte di trasferire il traffico da un loro aeromobile a un altro loro aeromobile su tutti i punti della linea specificata e a sua discrezione, senza alcun limite riguardo al tipo, alla dimensione o al numero di aeromobili, a condizione che, nel volo di andata, il trasporto oltre tali punti sia una continuazione del volo dal Paese di origine e che, nel volo di ritorno, il trasporto nel Paese di origine sia la continuazione del volo proveniente da oltre tali punti, e che tutti i voli passeggeri e misti interessati dal trasferimento abbiano come punto di partenza iniziale o come punto di destinazione il proprio Paese d’origine. Le imprese di trasporti aerei possono trasferire il traffico da un loro aeromobile a un altro loro aeromobile senza limitazione al di fine di fornire servizi con la ripartizione dei codici (code sharing).
+
+### Sezione III
+
+Code sharing
+
+a) Canada
+
+\1. Fatte salve le esigenze di carattere regolamentare applicate normalmente dalle autorità aeronautiche della Svizzera a tali trasporti, ciascuna impresa designata dal Canada può, a sua discrezione, concludere accordi di cooperazione allo scopo di:
+
+- (a) offrire i servizi convenuti in code sharing sulle linee indicate (vale a dire vendere titoli di trasporto con il proprio codice) per i voli effettuati da una o più imprese di trasporti aerei della Svizzera, del Canada e/o di uno o più Paesi terzi e/o in relazione a imprese di trasporti di superficie; e/o
+- (b) trasportare traffico con il codice di una qualunque altra impresa di trasporti aerei autorizzata dalle autorità aeronautiche della Svizzera a vendere titoli di trasporto con il proprio codice per voli effettuati dall’impresa designata dal Canada.
+
+\2. Tutte le imprese di trasporti aerei partecipanti ad accordi di code sharing devono disporre delle autorizzazioni applicabili alle linee interessate.
+
+\3. I servizi forniti in code sharing da ciascuna impresa di trasporti aerei designata dal Canada fra punti in Svizzera si limitano ai voli effettuati da imprese di trasporti aerei autorizzate dalle autorità aeronautiche della Svizzera a offrire servizi fra punti in Svizzera. Tutti i servizi fra punti in Svizzera forniti con il codice di un’impresa designata dal Canada sono offerti solamente nel quadro di viaggi internazionali.
+
+\4. Le autorità aeronautiche della Svizzera non possono rifiutare alle imprese designate dal Canada l’autorizzazione a offrire servizi secondo il paragrafo 1(a), per il motivo che le imprese di trasporti aerei che esercitano l’aeromobile non hanno ottenuto dalla Svizzera l’autorizzazione a trasportare il traffico con il codice di un’impresa designata dal Canada.
+
+\5. Tutte le imprese partecipanti a tali accordi di code sharing provvedono affinché i passeggeri siano pienamente informati circa l’identità degli esercenti e il tipo di trasporto in ogni segmento del viaggio.
+
+b) Svizzera
+
+\1. Fatte salve le esigenze di carattere regolamentare applicate normalmente dalle autorità aeronautiche del Canada a tali trasporti, ciascuna impresa designata dalla Svizzera può, a sua discrezione, concludere accordi di cooperazione allo scopo di:
+
+- (a) offrire i servizi convenuti in code sharing sulle linee indicate (vale a dire vendere titoli di trasporto con il proprio codice) per i voli effettuati da una o più imprese di trasporti aerei del Canada, della Svizzera e/o di uno o più Paesi terzi e/o in relazione a imprese di trasporti di superficie; e/o
+- (b) trasportare traffico con il codice di una qualunque altra impresa di trasporti aerei autorizzata dalle autorità aeronautiche del Canada a vendere titoli di trasporto con il proprio codice per voli effettuati dall’impresa designata dalla Svizzera.
+
+\2. Tutte le imprese di trasporti aerei partecipanti ad accordi di code sharing devono disporre delle autorizzazioni applicabili alle linee interessate.
+
+\3. I servizi forniti in code sharing da ciascuna impresa di trasporti aerei designata dalla Svizzera fra punti in Canada si limitano ai voli effettuati da imprese di trasporti aerei autorizzate dalle autorità aeronautiche del Canada a offrire servizi fra punti in Canada. Tutti i servizi fra punti in Canada forniti con il codice di un’impresa designata dalla Svizzera sono offerti solamente nel quadro di viaggi internazionali.
+
+\4. Le autorità aeronautiche del Canada non possono rifiutare alle imprese designate dalla Svizzera l’autorizzazione a offrire servizi secondo il paragrafo 1(a), per il motivo che le imprese di trasporti aerei che esercitano l’aeromobile non hanno ottenuto dal Canada l’autorizzazione a trasportare il traffico con il codice di un’impresa designata dalla Svizzera.
+
+\5. Tutte le imprese partecipanti a tali accordi di code sharing provvedono affinché i passeggeri siano pienamente informati circa l’identità degli esercenti e il tipo di trasporto in ogni segmento del viaggio.
+
+### Sezione IV
+
+Servizi intermodali
+
+Ciascuna Parte conferisce alle imprese designate dell’altra Parte nell’ambito dei trasporti sui rispettivi territori il diritto di:
+
+- (a) utilizzare senza restrizioni, in relazione ai servizi convenuti, qualsiasi servizio di trasporto merci di superficie proveniente da o a destinazione di ciascun punto sul territorio delle Parti o di Paesi terzi, compreso il trasporto da e verso tutti gli aeroporti provvisti di impianti di sdoganamento ed eventualmente il diritto di trasportare merci sotto sigillo doganale nel rispetto delle leggi e dei regolamenti vigenti;
+- (b) accedere ai servizi e agli impianti di sdoganamento degli aeroporti per le merci trasportate per via di superficie o aerea; e
+- (c) scegliere se effettuare loro stesse il trasporto di superficie oppure mediante accordi con vettori di trasporto di superficie, fatte salve le esigenze di carattere regolamentare, compreso il trasporto di superficie da parte di altre imprese di trasporti aerei.
+
+Questi servizi di trasporto intermodale di merci possono essere offerti a un prezzo unico, comprensivo di tutto il trasporto combinato aria-superficie, sempre che i trasportatori siano pienamente informati circa l’identità degli esercenti e il tipo di trasporto in ogni segmento del viaggio.
+
+### Sezione V
+
+A prescindere dalle indicazioni dell’articolo IX (indicazione degli orari) del presente Accordo, ciascuna Parte esige, per ragioni di sicurezza, che le imprese designate dell’altra Parte notifichino alle sue autorità aeronautiche i servizi che intendono esercitare tra Paesi terzi e il proprio territorio novanta (giorni) prima o entro la scadenza più breve autorizzata da queste autorità. Ciascun punto può essere modificato con preavviso di novanta (90) giorni alle autorità aeronautiche o entro la scadenza più breve autorizzata da queste ultime.
+
+Allegato II*[^annexI-lvlu1-secV-1]*
+
+[^annexI-lvlu1-secV-1]: Introdotto dall’art. 6 del Prot. del 29 gen. 2019, in vigore dal 22 giu. 2021 ([RU 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
+
+## Autorizzazione per le imprese designate dalla Svizzera
+
+In virtù del paragrafo 1c dell’articolo IV (revoca delle autorizzazioni d’esercizio) dell’*Accordo tra la Confederazione Svizzera e il Canada concernente i trasporti aerei*, ciascuna Parte ha la facoltà di prendere delle misure in relazione alle autorizzazioni rilasciate alle imprese designate dall’altra Parte, per il motivo che una parte sostanziale della proprietà nonché il controllo effettivo delle imprese potrebbero non appartenere ai cittadini dell’altra Parte. Il Governo del Canada si impegna a non prendere misure in relazione alle autorizzazioni rilasciate il 24 settembre 2010 dalle sue autorità aeronautiche alle imprese designate dalla Svizzera, in base alla loro struttura proprietaria e di controllo in tale data, a condizione che:
+
+\1. le autorità aeronautiche della Svizzera esercitino la vigilanza necessaria ad assicurare che le imprese da essa designate rispettino le disposizioni del presente Accordo;
+
+\2. le imprese designate mantengano la loro sede principale in Svizzera;
+
+\3. le imprese designate mantengano il controllo operativo degli aeromobili durante l’esercizio dei servizi convenuti, salvo autorizzazione contraria delle autorità aeronautiche del Canada, e che tali attività siano condotte conformemente alle disposizioni del certificato d’esercizio rilasciata alle imprese designate dalle autorità aeronautiche del Canada;
+
+\4. in caso di modifica della struttura proprietaria e di controllo estera o del nome o della marca dell’impresa designata, le autorità aeronautiche della Svizzera informino quelle del Canada di tale modifica, affinché queste ultime valutino se essa è compatibile con le disposizioni dell’articolo IV.

@@ -3,11 +3,11 @@ sr: "0.748.127.192.32"
 title: Luftverkehrsabkommen vom 20. Februar 1975 zwischen der Schweizerischen Eidgenossenschaft und Kanada
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/870_870_870"
 language: de
-version: 2006-05-17
+version: 2021-06-22
 adopted: 1975-02-20
 in_force: 1976-03-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/870_870_870/20060517/de/xml/fedlex-data-admin-ch-eli-cc-1976-870_870_870-20060517-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/870_870_870/20060517/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/870_870_870/20210622/de/xml/fedlex-data-admin-ch-eli-cc-1976-870_870_870-20210622-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/870_870_870/20210622/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/870_870_870/20060517/de"
 
 AS **1976** 870; BBl **1975** II 29
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen am 20. Februar 1975 Von der Bundesversammlung genehmigt am 17. Dezember 1975[^t-2] In Kraft getreten durch Notenaustausch am 12. März 1976
+Abgeschlossen am 20. Februar 1975 Von der Bundesversammlung genehmigt am 17. Dezember 1975[^t-1] In Kraft getreten durch Notenaustausch am 12. März 1976
 
-(Stand am 22. August 2006)
+(Stand am 22. Juni 2021)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 Bst. d des BB vom 17. Dez. 1975 ([AS 1976 757](https://fedlex.data.admin.ch/eli/oc/1976/757_757_757)).
+[^t-1]: Art. 1 Abs. 1 Bst. d des BB vom 17. Dez. 1975 ([AS 1976 757](https://fedlex.data.admin.ch/eli/oc/1976/757_757_757)).
 
 Der Schweizerische Bundesrat und die Regierung von Kanada,
 
@@ -37,17 +36,21 @@ haben zu diesem Zweck gehörig ausgewiesene Bevollmächtigte bezeichnet, die fol
 
 #### Art. I
 
-Für die Zwecke dieses Abkommens bedeuten, sofern nichts anderes vereinbart ist:
+**Begriffe**[^I-1]
 
-- (a)[^I-1] der Ausdruck «Luftfahrtbehörden» im Fall der Schweiz, das Bundesamt für Zivilluftfahrt und im Fall von Kanada, der Transportminister und das kanadische Verkehrsamt oder in beiden Fällen jede andere Behörde oder Person, die ermächtigt ist, die Aufgaben dieser Behörden auszuüben;
-- (b) der Ausdruck «vereinbarte Linie» regelmässig vereinbarte Linien für die Beförderung von Fluggästen, Fracht und Postsendungen auf den hierin festgelegten Strecken, getrennt oder kombiniert;
-- (c) der Ausdruck «Abkommen» dieses Abkommen, den beigefügten Anhang und alle daran angebrachten Änderungen,
-- (d) der Ausdruck «Übereinkommen» das am 7. Dezember 1944 in Chicago zur Unterzeichnung aufgelegte Übereinkommen über die internationale Zivilluftfahrt;
-- (e) der Ausdruck «bezeichnetes Unternehmen» ein Luftverkehrsunternehmen, das in Übereinstimmung mit Artikel III dieses Abkommens bezeichnet und ermächtigt wurde;
-- (f) der Ausdruck «Tarife» alle Ansätze, Gebühren, Flugpreise, Beförderungskosten, Beförderungsbedingungen, Klassifizierungen, Regeln, Anordnungen, Praktiken und Dienstleistungen, die sich darauf beziehen; ausgenommen sind jedoch die Entschädigung und die Bedingungen für die Beförderung von Postsendungen;
-- (g) der Ausdruck «Gebiet», «Luftverkehrslinie», «internationale Luftverkehrslinie», «Luftverkehrsunternehmen» und «nicht gewerbsmässige Landung» das, was Artikel 2 und 96 des Übereinkommens ihnen beimisst.
+Für die Zwecke dieses Abkommens, sofern nichts anderes vereinbart ist, bedeutet der Ausdruck:
 
-[^I-1]: Fassung gemäss der Änd. vom 13. Juni 2005, in Kraft seit 17. Mai 2006 ([AS 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+- (a) «Luftfahrtbehörden» im Fall der Schweiz, das Bundesamt für Zivilluftfahrt und im Fall von Kanada, der Transportminister und das kanadische Verkehrsamt oder in beiden Fällen jede andere Behörde oder Person, die ermächtigt ist, die Aufgaben dieser Behörden auszuüben;
+- (b) «vereinbarte Linien» regelmässige Luftverkehrslinien für die Beförderung von Fluggästen, Fracht und Postsendungen, getrennt oder in Kombination, auf den im Abkommen festgelegten Strecken;
+- (c) «Abkommen» dieses Abkommen, seine Anhänge und alle Änderungen dazu;
+- (d) «Übereinkommen» das am 7. Dezember 1944 in Chicago zur Unterzeichnung aufgelegte Übereinkommen über die internationale Zivilluftfahrt, einschliesslich aller nach Artikel 90 des Übereinkommens angenommenen Anhänge und aller nach Artikel 90 und 94 angenommenen Änderungen der Anhänge oder des Übereinkommens, soweit diese Anhänge und Änderungen von beiden Vertragsparteien angenommen wurden;
+- (e) «bezeichnetes Unternehmen» ein Luftverkehrsunternehmen, das in Übereinstimmung mit Artikel III dieses Abkommens bezeichnet und ermächtigt wurde;
+- (f) «Tarif» eine Publikation, welche sämtliche Preise für die Beförderung von Fluggästen, Gepäck und Fracht sowie die für diese Preise anwendbaren Beförderungsbedingungen, Klassifizierungen, Regeln, Anordnungen, Praktiken und damit verbundenen Dienstleistungen enthält; ausgenommen sind jedoch die Entschädigung und die Bedingungen für die Beförderung von Postsendungen;
+- (g) «Preis» alle in einem Tarif enthaltenen Ansätze, Gebühren oder Flugpreise (einschliesslich weiterer Dienstleistungen im Zusammenhang mit der Beförderung auf dem Luftweg) für die Beförderung von Fluggästen (einschliesslich deren Gepäck) und/oder Fracht (ohne Postsendungen) sowie die Bedingungen, die unmittelbar für die Verfügbarkeit oder Anwendbarkeit solcher Ansätze, Gebühren oder Flugpreise gelten;
+- (h) «allgemeine Beförderungsbedingungen» die in einem Tarif enthaltenen Bedingungen und Bestimmungen (wie Gebühren für zusätzliches Gepäck, Grundsätze für die Nichtbeförderung, Grundsätze für die Barrierefreiheit), die im Allgemeinen für die vereinbarte Linien gelten und nicht in einem direkten Zusammenhang mit einem Preis stehen;
+- (i) «Gebiet», «Luftverkehrslinie», «internationale Luftverkehrslinie», «Luftverkehrsunternehmen» und «nicht gewerbsmässige Landung» das, was in Artikel 2 und 96 des Übereinkommens festgelegt ist.
+
+[^I-1]: Fassung gemäss Art. 1 des Änderungsprotokolls vom 29. Jan. 2019, in Kraft seit 22. Juni 2021 ([AS 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
 #### Art. II
 
@@ -69,6 +72,8 @@ Jede Vertragspartei gewährt der anderen Vertragspartei die folgenden Rechte fü
 
 #### Art. III
 
+**Bezeichnung und Betriebsbewilligung**
+
 <sup>1.</sup> JedeVertragspartei hat das Recht, mittels diplomatischer Note ein oder mehrere Luftverkehrsunternehmen zu bezeichnen, um für diese Vertragspartei die vereinbarten Linien auf den in diesem Abkommen festgelegten Strecken zu bedienen und eine Bezeichnung zurückzuziehen oder ein zuvor bezeichnetes Unternehmen durch ein anderes Unternehmen zu ersetzen.[^III-1]
 
 <sup>2.</sup> Nachdem die Luftfahrtbehörden der anderen Vertragspartei die Anzeige der Bezeichnung erhalten haben, erteilen sie in Übereinstimmung mit ihren Gesetzen und Verordnungen innerhalb kürzester Frist dem so bezeichneten Unternehmen die entsprechenden Betriebsbewilligungen, um die vereinbarten Linien zu betreiben, für welche das Unternehmen bezeichnet wurde.
@@ -77,9 +82,10 @@ Jede Vertragspartei gewährt der anderen Vertragspartei die folgenden Rechte fü
 
 <sup>4.</sup> Die Luftfahrtbehörden jeder Vertragspartei haben das Recht, die in Absatz 2 dieses Artikels vorgesehene Betriebsbewilligung nicht zu erteilen oder die ihr für die Ausübung der in Artikel II dieses Abkommens festgelegten Rechte durch das bezeichnete Unternehmen nötig erscheinenden Bedingungen aufzustellen, wenn die genannte Vertragspartei nicht beweisen kann, dass ein wesentlicher Teil des Eigentums und die tatsächliche Verfügungsgewalt über dieses Unternehmen in den Händen der das Unternehmen bezeichnenden Vertragspartei oder ihrer Staatsangehörigen liegen.
 
-<sup>5.</sup> Nach Empfang der im Absatz 2 dieses Artikels vorgesehenen Betriebsbewilligung kann das bezeichnete Unternehmen jederzeit den Betrieb jeder vereinbarten Linie ganz oder teilweise aufnehmen, vorausgesetzt, dass ein in Übereinstimmung mit den Bestimmungen des Artikels XI dieses Abkommens aufgestellter Tarif für die betreffende Linie in Kraft ist.
+<sup>5.</sup> Nach Empfang der im Absatz 2 dieses Artikels vorgesehenen Betriebsbewilligung kann das bezeichnete Unternehmen jederzeit den Betrieb jeder vereinbarten Linie ganz oder teilweise aufnehmen, vorausgesetzt, dass für diese Linien Preise und allgemeine Beförderungsbedingungen in Übereinstimmung mit den Bestimmungen des Artikels XI dieses Abkommens in Kraft sind.[^III-2]
 
 [^III-1]: Fassung gemäss der Änd. vom 13. Juni 2005, in Kraft seit 17. Mai 2006 ([AS 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^III-2]: Fassung gemäss Art. 2 des Änderungsprotokolls vom 29. Jan. 2019, in Kraft seit 22. Juni 2021 ([AS 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
 #### Art. IV
 
@@ -200,38 +206,30 @@ Die durch diesen Artikel gewährten Befreiungen gelten für die in Absatz 1 dies
 
 #### Art. XI
 
-[^XI-1]
+**Tarife**[^XI-1]
 
-<sup>1.</sup> Die Tarife für die Beförderungen auf den vereinbarten Linien, die von und nach dem Gebiet der anderen Vertragspartei führen, sind zwischen den bezeichneten Unternehmen aufgrund der Marktkräfte festzusetzen, wobei alle bestimmenden Einflüsse, einschliesslich der Betriebskosten, der besonderen Merkmale der Linien, der Erzielung eines vernünftigen Gewinnes, der Tarife anderer bezeichneter Unternehmen und andere wirtschaftliche Überlegungen, die sich auf den Markt auswirken, in Betracht zu ziehen sind.
+<sup>1.</sup> Die Preise und allgemeinen Beförderungsbedingungen nach diesem Artikel können von den bezeichneten Luftverkehrsunternehmen einzeln oder, nach Belieben der bezeichneten Unternehmen, in gemeinsamer Absprache oder in Absprache mit anderen Luftverkehrsunternehmen festgesetzt werden. Als Grundlage für die Festsetzung der Preise für die Beförderung auf den vereinbarten Linien dienen kommerzielle, marktbezogene Überlegungen. Jedes bezeichnete Unternehmen ist nur seinen eigenen Luftfahrtbehörden gegenüber verantwortlich für die Rechtfertigung seiner Preise.
 
-<sup>2.</sup> Die in Absatz 1 dieses Artikels genannten Tarife können einzeln oder, nach Belieben des bezeichneten Unternehmens oder der bezeichneten Unternehmen, in gemeinsamer Absprache oder in Absprache mit anderen Unternehmen festgesetzt werden. Jedes bezeichnete Unternehmen ist nur seinen eigenen Luftfahrtbehörden gegenüber verantwortlich für die wirtschaftliche Rechtfertigung seiner Tarife.
+<sup>2.</sup> Die Vertragsparteien schreiben keine Unterbreitung der Preise für die Beförderung auf den vereinbarten Linien vor. Jede Vertragspartei kann die bezeichneten Unternehmen der anderen Vertragspartei dazu verpflichten, ihren Luftfahrtbehörden auf Verlangen umgehend, auf für diese Luftfahrtbehörden akzeptable Weise und Form Zugang zu Informationen über ihre Preise zu gewähren.
 
-<sup>3.</sup> Die Tarife sind den Luftfahrtbehörden der beiden Vertragsparteien einzureichen, wenn dies verlangt wird, und die Behörden erhalten diese mindestens einen (1) Tag vor dem für ihr Inkrafttreten vorgesehenen Datum. Die Luftfahrtbehörden der beiden Vertragsparteien behandeln die kurzfristig eingereichten Gesuche ohne Verzug und mit Wohlwollen, namentlich dann, wenn damit das Gleichziehen mit einem bereits eingereichten Tarif beabsichtigt ist oder es sich um die Einführung von Tarifänderungen handelt, die sich aus Umständen ausserhalb des Einflussbereiches des bezeichneten Unternehmens oder der bezeichneten Unternehmen ergeben. Ein bezeichnetes Unternehmen, das einen Tarif einzeln festgelegt hat, stellt dem bezeichneten Unternehmen oder den bezeichneten Unternehmen der anderen Vertragspartei im Zeitpunkt der Einreichung des Gesuches eine Kopie davon zu.
+<sup>3.</sup>
 
-<sup>4.</sup> Die bezeichneten Unternehmen können Beförderungsscheine für die vereinbarten Linien in Übereinstimmung mit den vorgeschlagenen Tarifen vom Zeitpunkt der Einreichung an verkaufen, vorausgesetzt einerseits, dass diese Verkäufe nur für Beförderungen gelten, die frühestens am vorgeschlagenen Datum ihres Inkrafttretens ausgeführt werden und vorausgesetzt andererseits, dass die Tarife eindeutig darauf hinweisen, dass sie unter Vorbehalt der Genehmigung durch die Regierung gelten.
+Die Vertragsparteien lassen (stillschweigend oder ausdrücklich) die Einführung und Beibehaltung von Preisen für die vereinbarten Linien zu, sofern nicht die Luftfahrtbehörden beider Vertragsparteien ihr Nichteinverständnis zum Ausdruck bringen. Unter Vorbehalt der Bestimmungen in Absatz 5 dieses Artikels trifft keine Vertragspartei Vorkehrungen, um die Einführung oder Beibehaltung eines Preises zu verhindern, der von einem bezeichneten Luftverkehrsunternehmen einer Vertragspartei für die Beförderung auf den vereinbarten Linien erhoben oder zur Belastung vorgeschlagen wird. Eingriffe durch die Luftfahrtbehörden haben in erster Linie folgenden Zwecken zu dienen:
 
-<sup>5.</sup> Sind die Luftfahrtbehörden einer Vertragspartei mit einem vorgeschlagenen Tarif nicht einverstanden, teilen sie dies den Luftfahrtbehörden der anderen Vertragspartei und dem betroffenen bezeichneten Unternehmen innerhalb von zehn (10) Tagen seit Erhalt des vorgeschlagenen Tarifs mit. Ist von den Luftfahrtbehörden eine kürzere Frist für das Einreichen eines Tarifs angenommen worden, können diese auch vereinbaren, dass die gewährte Frist zur Mitteilung der Nichtgenehmigung kürzer als zehn (10) Tage ist.
+- (a) der Verhinderung von unbilligen Diskriminierungspreisen oder -praktiken;
+- (b) dem Schutz der Konsumentinnen und Konsumenten vor unangemessen hohen oder unangemessen restriktiven Preisen infolge Missbrauchs einer marktbeherrschenden Stellung;
+- (c) dem Schutz der Luftverkehrsunternehmen vor Preisen, die aufgrund direkter oder indirekter staatlicher Subventionen oder Unterstützung künstlich niedrig gehalten werden; und
+- (d) dem Schutz der Luftverkehrsunternehmen vor künstlich niedrig gehaltenen Preisen, wenn Hinweise vorliegen, dass dadurch Mitbewerber ausgeschaltet werden sollen.
 
-<sup>6.</sup> Sind die Luftfahrtbehörden einer Vertragspartei mit einem in Kraft befindlichen Tarif nicht mehr einverstanden, benachrichtigen sie die Luftfahrtbehörden der anderen Vertragspartei sowie das betroffene Unternehmen.
+<sup>4.</sup> Sind die Luftfahrtbehörden einer Vertragspartei mit einem Preis nicht einverstanden, teilen sie dies den Luftfahrtbehörden der anderen Vertragspartei sowie dem betroffenen Luftverkehrsunternehmen mit. Die Luftfahrtbehörden, welche die Mitteilung erhalten haben, teilen deren Erhalt innerhalb von zehn (10) Werktagen mit dem Hinweis mit, ob sie damit einverstanden sind oder nicht. Die Luftfahrtbehörden beider Vertragsparteien tragen gemeinsam die Informationen zusammen, die für die Beurteilung eines Preises erforderlich sind, der Anlass für eine Mitteilung über das Nichteinverständnis gegeben hat. Haben die Luftfahrtbehörden der anderen Vertragspartei mitgeteilt, dass sie mit der Mitteilung über das Nichteinverständnis einverstanden sind, so sorgen die Luftfahrtbehörden beider Vertragsparteien unverzüglich dafür, dass der Preis zurückgenommen und nicht mehr erhoben wird.
 
-<sup>7.</sup> Ist eine Mitteilung über die Nichtgenehmigung nach Absatz 5 oder 6 dieses Artikels erfolgt, teilen die Luftfahrtbehörden, welche die Mitteilung erhalten haben, deren Erhalt innerhalb von zehn (10) Tagen mit dem Hinweis mit, ob sie damit einverstanden sind oder nicht. Die Kontaktnahme aufgrund dieses Artikels kann mit Brief oder mittels jeder anderen Art elektronischer Übermittlung erfolgen, welche das Herstellen eines gedruckten Textes zulässt.
+<sup>5.</sup> Die Luftfahrtbehörden beider Vertragsparteien können jederzeit technische Beratungen über Preise verlangen. Sofern die Luftfahrtbehörden nichts anderes vereinbart haben, finden solche Beratungen über Preise innerhalb von zehn (10) Tagen nach Empfang des Gesuches statt.
 
-<sup>8.</sup>
+<sup>6.</sup> Die allgemeinen Beförderungsbedingungen unterstehen den innerstaatlichen Gesetzen und Verordnungen beider Vertragsparteien. Jede Vertragspartei kann verlangen, dass diese allgemeinen Beförderungsbedingungen ihren Luftfahrtbehörden mitgeteilt oder unterbreitet werden. Lehnt eine Vertragspartei die allgemeinen Beförderungsbedingungen eines bezeichneten Unternehmens ab, so setzt sie die andere Vertragspartei unverzüglich darüber in Kenntnis.
 
-Kein Tarif tritt in Kraft oder bleibt in Kraft, wenn:
+<sup>7.</sup> Die Vertragsparteien können von den bezeichneten Unternehmen verlangen, dass sie sämtliche Angaben zu den Preisen und die allgemeinen Beförderungsbedingungen für die Öffentlichkeit zugänglich machen.
 
-- a) er auf Beförderungen zwischen den Gebieten der Vertragsparteien anwendbar ist und die Luftfahrtbehörden der beiden Vertragsparteien diesen nicht genehmen;
-- b) er auf Beförderungen zwischen dem Gebiet der anderen Vertragspartei und demjenigen eines Drittstaates anwendbar ist und die Luftfahrtbehörden dieser Vertragspartei diesen nicht genehmigen.
-
-<sup>9.</sup> Das bezeichnete Unternehmen oder die bezeichneten Unternehmen jeder Vertragspartei haben innerhalb angemessener Zeit das Recht, mit jedem zulässigem, öffentlich zugänglichen und für Beförderungen im Linienverkehr zwischen den Gebieten der beiden Vertragsparteien anwendbaren Tarif gleichzuziehen, entsprechend den Modalitäten, die, ohne notwendigerweise gleich zu sein, allgemein gleichwertig mit Bezug auf Strecken, Luftfahrzeugtyp, anwendbare Bedingungen und Leistungsstandards sind. Gleichermassen hat jedes von der einen oder anderen Vertragspartei bezeichnete Unternehmen das Recht, innerhalb nützlicher Zeit mit jedem Tarif für die Beförderung zwischen dem Gebiet der anderen Vertragspartei und einem Drittstaat gleichzuziehen, vorausgesetzt, dass der sich ergebende Tarif nicht tiefer ist als derjenige, der im fraglichen Markt von Unternehmen angeboten wird, welche die dritte und vierte Freiheit geniessen.
-
-<sup>10.</sup> Die in Übereinstimmung mit den Bestimmungen dieses Artikels festgesetzten Tarife bleiben in Kraft, bis neue Tarife in Übereinstimmung mit den Bestimmungen dieses Artikels festgesetzt worden sind. Sie können jedoch aufgrund dieses Absatzes nicht für länger als zwölf (12) Monate über den Zeitpunkt hinaus in Kraft bleiben, an dem sie auf andere Weise hinfällig geworden sind.
-
-<sup>11.</sup> Die Luftfahrtbehörden jedes Vertragsstaates können jederzeit Beratungen über die Tarife verlangen. Solche Beratungen, die mündlich oder auf dem Schriftweg erfolgen, finden innerhalb von fünfzehn (15) Tagen nach Empfang des Gesuches statt, soweit die Luftfahrtbehörden nichts anderweitig vereinbart haben.
-
-<sup>12.</sup> Die Luftfahrtbehörden der beiden Vertragsparteien bemühen sich sicherzustellen, dass die vorgeschriebenen und erhobenen Tarife den rechtmässig in Kraft befindlichen Tarifen entsprechen.
-
-[^XI-1]: Fassung gemäss der Änd. vom 13. Juni 2005, in Kraft seit 17. Mai 2006 ([AS 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^XI-1]: Fassung gemäss Art. 3 des Änderungsprotokolls vom 29. Jan. 2019, in Kraft seit 22. Juni 2021 ([AS 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
 #### Art. XII
 
@@ -243,12 +241,32 @@ Kein Tarif tritt in Kraft oder bleibt in Kraft, wenn:
 
 #### Art. XIII
 
-[^XIII-1]
+**Steuern**[^XIII-1]
 
-Die Vertragsparteien handeln in Übereinstimmung mit den betreffenden Bestimmungen des zwischen der Schweiz und Kanada am 20. August 1976[^XIII-2] in Bern unterzeichneten Abkommens zur Verhinderung der Doppelbesteuerung auf dem Gebiet der Steuern von Einkommen und Vermögen sowie mit jedem nachfolgenden Abkommen oder Änderungen, die angebracht werden können, in Bezug auf den Betrieb von Flugzeugen im internationalen Verkehr.
+<sup>1.</sup> Auf Gewinne oder Einkommen, die ein Luftverkehrsunternehmen einer Vertragspartei mit dem Betrieb von Luftfahrzeugen im internationalen Verkehr erwirtschaftet, einschliesslich solcher aus Geschäftsvereinbarungen zwischen Luftverkehrsunternehmen oder aus Gemeinschaftsunternehmen, sind von Gewinn- oder Einkommenssteuern befreit, die von der Regierung der anderen Vertragspartei erhoben werden.
 
-[^XIII-1]: Fassung gemäss der Änd. vom 13. Juni 2005, in Kraft seit 17. Mai 2006 ([AS 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
-[^XIII-2]: [AS 1977 1526](https://fedlex.data.admin.ch/eli/oc/1977/1526_1526_1526). Ersetzt durch ein neues Abk. vom 5. Mai 1997 ([SR 0.672.923.21](https://fedlex.data.admin.ch/eli/cc/2002/299))
+<sup>2.</sup> Kapital und Vermögenswerte eines Luftverkehrsunternehmens einer Vertragspartei, die für den Betrieb von Luftfahrzeugen im internationalen Verkehr eingesetzt werden, sind von Steuern auf Kapital oder Vermögenswerten befreit, die von der Regierung der anderen Vertragspartei erhoben werden.
+
+<sup>3.</sup> Erlöse, die ein Luftverkehrsunternehmen einer Vertragspartei mit der Veräusserung von Luftfahrzeugen, die im internationalen Verkehr eingesetzt werden, und von beweglichem Eigentum, welches für den Betrieb solcher Luftfahrzeuge benötigt wird, erzielt hat, sind von Gewinnsteuern befreit, die von der Regierung der anderen Vertragspartei erhoben werden.
+
+<sup>4.</sup>
+
+Für die Zwecke dieses Artikels:
+
+- (a) beinhaltet der Begriff «Gewinne oder Einkommen» Bruttoeinnahmen und
+
+  -erträge, die unmittelbar mit dem Betrieb von Luftfahrzeugen im internationalen Verkehr erzielt werden, einschliesslich:
+
+  - i) Einnahmen aus der Vercharterung oder Vermietung von Luftfahrzeugen,
+  - ii) Einnahmen aus dem Verkauf von Beförderungen für das Luftverkehrsunternehmen selbst oder für ein anderes Luftverkehrsunternehmen, und
+  - iii) Zinserträge auf Beträgen, die unmittelbar mit dem Betrieb von Luftfahrzeugen im internationalen Verkehr erwirtschaftet werden, sofern diese Zinserträge aus dem Betrieb anfallen;
+
+- (b) bedeutet der Begriff «internationaler Verkehr» die Beförderung von Personen und/oder Fracht einschliesslich Postsendungen mit Ausnahme von Beförderungen, die hauptsächlich zwischen Punkten im Gebiet einer Vertragspartei erfolgen; und
+- (c) bedeutet der Begriff «Luftverkehrsunternehmen einer Vertragspartei» für die Schweiz ein Luftverkehrsunternehmen mit für die Einkommensbesteuerung massgebendem Sitz in der Schweiz, und für Kanada ein Luftverkehrsunternehmen mit für die Einkommensbesteuerung massgebendem Sitz in Kanada.
+
+<sup>5.</sup> Dieser Artikel kommt nicht zur Anwendung, wenn zwischen den Vertragsparteien ein Abkommen zur Vermeidung der Doppelbesteuerung von Einkommen in Kraft ist.
+
+[^XIII-1]: Fassung gemäss Art. 4 des Änderungsprotokolls vom 29. Jan. 2019, in Kraft seit 22. Juni 2021 ([AS 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
 
 #### Art. XIV
 
@@ -310,62 +328,110 @@ Wenn ein mehrseitiges allgemeines Übereinkommen über den Luftverkehr für beid
 
 *Zu Urkund dessen* haben die hierzu von ihren Regierungen gehörig befugten Unterzeichneten dieses Abkommens unterschrieben. Geschehen zu Ottawa am 20. Februar 1975 in doppelter Ausfertigung in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen authentisch ist. Für den Schweizerischen Bundesrat: Für die Regierung Kanadas: E. Bernath J. Mac Eachen
 
-Anhang*[^t-3]*
+Anhang I*[^t-2]*
 
 ## Linienpläne
 
-[^t-3]: Fassung gemäss der Änd. vom 13. Juni 2005, in Kraft seit 17. Mai 2006 ([AS 2006 3345](https://fedlex.data.admin.ch/eli/oc/2006/527)).
+[^t-2]: Ursprünglich Anhang. Fassung gemäss Art. 5 des Änderungsprotokolls vom 29. Jan. 2019, in Kraft seit 22. Juni 2021 ([AS 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
+
+Die Vertragsparteien vereinbaren, dass die bezeichneten Unternehmen beider Vertragsparteien unter Berücksichtigung der jeweiligen Anmerkungen die Strecken bedienen können, die in den massgebenden Abschnitten dieses Anhangs aufgeführt sind.
 
 Abschnitt I
 
-Die folgende Strecke kann von einem von der Regierung der Schweiz bezeichneten Unternehmen oder von bezeichneten Unternehmen in der einen oder anderen Richtung oder in beiden Richtungen bedient werden:
+Die von den Vertragsparteien bezeichneten Unternehmen können zwischen Punkten auf den folgenden Strecken und in Übereinstimmung mit den nachfolgenden Bestimmungen regelmässige Luftverkehrslinien für die Beförderung von Fluggästen und Fracht und/oder zur ausschliesslichen Beförderung von Fracht in einer oder beiden Richtungen betreiben:
+
+a) Kanada
 
 <table>
-<tr><td>Punkte in der Schweiz</td><td>Zwischenlandepunkte</td><td>Punkte in Kanada</td><td>Punkte darüber hinaus</td></tr>
-<tr><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td></tr>
+<tr><td>Punkte ausserhalb Kanadas</td><td>Punkte in Kanada</td><td>Zwischenlandepunkte</td><td>Punkte in der Schweiz</td><td>Punkte darüber hinaus</td></tr>
+<tr><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td></tr>
 </table>
 
-Anmerkungen:
+\1. Der Verkehr kann an Punkten in Kanada aufgenommen und an Punkten in der Schweiz abgesetzt werden und umgekehrt. Der Verkehr kann an Punkten ausserhalb Kanadas, an Zwischenlandepunkten und an Punkten darüber hinaus aufgenommen und an Punkten in der Schweiz abgesetzt werden und umgekehrt. Jedes bezeichnete Unternehmen kann auf allen Flügen und nach seiner freien Wahl: i) Punkte in der Schweiz getrennt oder in Kombination bedienen, ii) Punkte auf der Strecke auslassen, vorausgesetzt, dass auf allen Linien mindestens einer der Punkte in Kanada ohne Einschränkung in Bezug auf Richtung oder Ort bedient wird.
 
-\1. Jeder Zwischenlandepunkte und/oder jeder Punkt darüber hinaus kann auf einem Teil der Strecken oder auf allen Strecken ausgelassen werden, vorausgesetzt, dass alle Strecken in der Schweiz beginnen oder enden. Die Punkte in Kanada können einzeln oder in Verbindung bedient werden.
+\2. Transitrechte und eigene Zwischenlanderechte stehen an den Punkten in Kanada, an den Zwischenlandepunkten und an den Punkten in der Schweiz zur Verfügung.
 
-\2. An den Zwischenlandepunkten und den Punkten in Kanada stehen nur Transitrechte und eigene Zwischenlanderechte zur Verfügung. Zwischen den Punkten in Kanada sind keine Zwischenlanderechte verfügbar. Das von der Schweiz bezeichnete Unternehmen oder die Unternehmen können an jedem Punkt auf den festgelegten Strecken und nach ihrer freien Wahl Verkehr zwischen ihren Luftfahrzeugen transferieren und zwar ohne Beschränkung mit Bezug auf den Typ oder die Anzahl der Luftfahrzeuge, vorausgesetzt, dass beim Hinflug die Beförderung über diesen Punkt hinaus eine Fortsetzung des Fluges mit Herkunftsort Schweiz ist und beim Rückflug die Beförderung mit Bestimmungsort Schweiz eine Fortsetzung des Fluges mit Herkunft von diesem Punkt ist, und unter der Bedingung, dass alle vom Transfer betroffenen Flüge die Schweiz als ursprünglichen Abflugort oder als endgültigen Bestimmungsort haben.
+b) Schweiz
 
-\3. Unter Vorbehalt reglementarischer Anforderungen, welche normalerweise von den Luftfahrtbehörden von Kanada mit Bezug auf solche Beförderungen angewandt werden, kann jedes von der Schweiz bezeichnete Unternehmen Zusammenarbeitsvereinbarungen abschliessen mit dem Ziel:
+<table>
+<tr><td>Punkte ausserhalb der Schweiz</td><td>Punkte in der Schweiz</td><td>Zwischenlandepunkte</td><td>Punkte in Kanada</td><td>Punkte darüber hinaus</td></tr>
+<tr><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td></tr>
+</table>
 
-- a) vereinbarte Beförderungen im code-share auf den festgelegten Strecken (das heisst, Beförderungsscheine mit seinem eigenen Code zu verkaufen) bei den Flügen anzubieten, welche von einem Unternehmen oder von Unternehmen der Schweiz, von Kanada oder von einem Drittstaat durchgeführt werden;
-- b) den Verkehr mit dem Code eines beliebigen anderen Unternehmens zu befördern, welches von den Luftfahrtbehörden von Kanada berechtigt ist, Beförderungsscheine mit seinem eigenen Code auf Flüge zu verkaufen, die von diesem von der Schweiz bezeichneten Unternehmen durchgeführt werden.
+\1. Der Verkehr kann an Punkten in der Schweiz aufgenommen und an Punkten in Kanada abgesetzt werden und umgekehrt. Der Verkehr kann an Punkten ausserhalb der Schweiz, an Zwischenlandepunkten und an Punkten darüber hinaus aufgenommen und an Punkten in Kanada abgesetzt werden und umgekehrt. Jedes bezeichnete Unternehmen kann auf allen Flügen und nach seiner freien Wahl: i) Punkte in Kanada getrennt oder in Kombination bedienen, ii) Punkte auf der Strecke auslassen, vorausgesetzt, dass auf allen Linien mindestens einer der Punkte in der Schweiz ohne Einschränkung in Bezug auf Richtung oder Ort bedient wird.
 
-Die aufgrund eines code-share durchgeführten Beförderungen zwischen Punkten in Kanada sind beschränkt auf Flüge, welche zwischen einem und mehreren Unternehmen durchgeführt werden, die von den Luftfahrtbehörden Kanadas berechtigt sind, Linien zwischen in Kanada gelegenen Punkten aufrechtzuerhalten, und alle Flügen, welche zwischen Punkten in Kanada mit dem Code des von der Schweiz bezeichneten oder den bezeichneten Unternehmen durchgeführt werden, werden nur im Rahmen einer internationalen Reise angeboten.
-
-Alle Unternehmen, welche eine code-share Vereinbarung abschliessen, müssen über die notwendigen Bewilligungen verfügen, die mit Bezug auf die betroffenen Strecken anwendbar sind.
-
-Die Luftfahrtbehörden von Kanada können einem von der Schweiz bezeichneten Unternehmen oder den bezeichneten Unternehmen die Bewilligung, Beförderungen auf der Grundlage einer code-share Vereinbarung gemäss Absatz 3a) vorstehend durchzuführen, nicht mit der Begründung verweigern, dass das Unternehmen oder die Unternehmen, welche das Luftfahrzeug betreiben, keine Bewilligung von Kanada erhalten haben, Verkehr mit dem Code des von der Schweiz bezeichneten oder der von der Schweiz bezeichneten Unternehmen zu befördern.
+\2. Transitrechte und eigene Zwischenlanderechte stehen an den Punkten in der Schweiz, an den Zwischenlandepunkten und an den Punkten in Kanada zur Verfügung.
 
 Abschnitt II
 
-Die folgende Strecke kann von einem von der Regierung Kanadas bezeichneten Unternehmen oder von bezeichneten Unternehmen in der einen oder anderen Richtung oder in beiden Richtungen bedient werden:
+Betriebliche Flexibilität
 
-<table>
-<tr><td>Punkte in Kanada</td><td>Zwischenlandepunkte</td><td>Punkte in der Schweiz</td><td>Punkte darüber hinaus</td></tr>
-<tr><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td><td>Jeder Punkt oder alle Punkte</td></tr>
-</table>
+\1. Innerhalb eines Fluges können verschiedene Flugnummern kombiniert werden. Punkte ausserhalb der Gebiete beider Vertragsparteien können mit oder ohne Wechsel des Luftfahrzeugs oder der Flugnummer bedient werden, und die bezeichneten Unternehmen beider Vertragsparteien können diese Linien öffentlich als durchgehende Dienste anbieten und bewerben;
 
-Anmerkungen:
+\2. Jede Vertragspartei erlaubt den bezeichneten Unternehmen der anderen Vertragspartei, an jedem beliebigen Punkt auf den festgelegten Strecken und nach ihrer freien Wahl den Verkehr zwischen ihren Luftfahrzeugen zu transferieren, und zwar ohne Beschränkung mit Bezug auf den Typ, die Grösse oder die Anzahl der Luftfahrzeuge, vorausgesetzt, dass beim Hinflug die Beförderung über diesen Punkt hinaus eine Fortsetzung des Fluges aus dem Herkunftsland und beim Rückflug die Beförderung in das Herkunftsland eine Fortsetzung der Beförderung mit Herkunft von jenseits dieses Punktes ist und dass alle vom Transfer betroffenen Fluggäste und Flüge das Herkunftsland als ursprünglichen Abflugort oder als endgültigen Bestimmungsort haben. Bei der Durchführung von Beförderungen auf der Grundlage einer Code-Sharing-Vereinbarung können die Luftverkehrsunternehmen den Verkehr ohne Einschränkungen zwischen Luftfahrzeugen transferieren.
 
-\1. Jeder Zwischenlandepunkt und/oder jeder Punkt darüber hinaus kann auf einem Teil der Strecken oder auf allen Strecken ausgelassen werden, vorausgesetzt, dass alle Strecken in Kanada beginnen oder enden. Die Punkte in der Schweiz können einzeln oder in Verbindung bedient werden.
+Abschnitt III
 
-\2. An den Zwischenlandepunkten und den Punkten in der Schweiz stehen lediglich Transitrechte und eigene Zwischenlanderechte zur Verfügung. Zwischen den Punkten in der Schweiz sind keine Zwischenlanderechte verfügbar. Das von Kanada bezeichnete Unternehmen oder die Unternehmen können an jedem beliebigen Punkt auf den festgelegten Strecken und nach ihrer freier Wahl den Verkehr zwischen ihren Luftfahrzeugen transferieren und zwar ohne Beschränkung mit Bezug auf den Typ oder die Anzahl der Luftfahrzeuge, vorausgesetzt, dass beim Hinflug die Beförderung über diesen Punkte hinaus eine Fortsetzung des Fluges mit Herkunftsort Kanada ist und beim Rückflug die Beförderung mit Bestimmungsort Kanada eine Fortsetzung des Fluges mit Herkunft von diesem Punktes ist, und unter der Bedingung, dass alle vom Transfer betroffenen Flüge Kanada als ursprünglichen Abflugort oder als endgültigen Bestimmungsort haben.
+Code-Sharing
 
-\3. Verkehrsrechte in 5. Freiheit können zwischen Zürich oder Genf (oder beiden) und den folgenden von Kanada gewählten Punkten ausgeübt werden: a) vier Punkte in den folgenden Ländern: Polen, Ungarn, Österreich und Jugoslawien, b) fünf Punkte in Asien, einschliesslich einem Punkt oder Punkten in Indien; und darüber hinaus bis nach Kanada, c) ein Punkt in Kenia und 4 Punkte in Afrika südlich des Wendekreises des Krebses. Für jeden Punkt darüber hinaus können die Verkehresrechte in 5. Freiheit nicht gleichzeitig von Zürich und Genf aus ausgeübt werden.
+a) Kanada
 
-\4. Unter Vorbehalt reglementarischer Anforderungen, welche normalerweise von den Luftfahrtbehörden der Schweiz mit Bezug auf solche Beförderungen angewandt werden, kann jedes von Kanada bezeichnete Unternehmen Zusammenarbeitsvereinbarungen abschliessen mit dem Ziel:
+\1. Unter Vorbehalt der reglementarischen Anforderungen, welche normalerweise von den Luftfahrtbehörden der Schweiz mit Bezug auf solche Beförderungen angewandt werden, kann jedes von Kanada bezeichnete Unternehmen nach freiem Ermessen Zusammenarbeitsvereinbarungen abschliessen mit dem Ziel:
 
-- a) vereinbarte Beförderungen im code-share auf den festgelegten Strecken (das heisst, Beförderungsscheine mit seinem eigenen Code) bei den Flügen anzubieten, welche von einem Unternehmen oder von Unternehmen von Kanada, der Schweiz oder einem Drittstaat durchgeführt werden;
-- b) den Verkehr unter dem Code eines beliebigen anderen Unternehmens zu befördern, welches von den Luftfahrtbehörden der Schweiz berechtigt ist, Beförderungsscheine mit seinem eigenen Code auf Flüge zu verkaufen, die von diesem von Kanada bezeichneten Unternehmen durchgeführt werden.
+- (a) vereinbarte Beförderungen im Code-Sharing auf den festgelegten Strecken bei den Flügen anzubieten (das heisst, Beförderungsscheine mit seinem eigenen Code zu verkaufen), welche von einem oder mehreren Luftverkehrsunternehmen der Schweiz, von Kanada und/oder eines Drittstaats und/oder von Landverkehrsunternehmen durchgeführt werden; und/oder
+- (b) den Verkehr mit dem Code eines beliebigen anderen Luftverkehrsunternehmens zu befördern, welches von den Luftfahrtbehörden der Schweiz berechtigt wurde, Beförderungsscheine mit seinem eigenen Code für Flüge zu verkaufen, die von diesem von Kanada bezeichneten Unternehmen durchgeführt werden.
 
-Die aufgrund eines code-share durchgeführten Beförderungen zwischen den Punkten in der Schweiz sind beschränkt auf Flüge, welche zwischen einem und mehreren Unternehmen durchgeführt werden, die von den Luftfahrtbehörden der Schweiz berechtigt sind, Linien zwischen in der Schweiz gelegenen Punkten aufrechtzuerhalten, und alle Flüge, welche zwischen Punkten in der Schweiz mit dem Code des von Kanada oder der von Kanada bezeichneten Unternehmen durchgeführt werden, werden nur im Rahmen einer internationalen Reise angeboten.
+\2. Alle Luftverkehrsunternehmen, welche eine Code-Sharing-Vereinbarung abschliessen, müssen über die Bewilligungen verfügen, die für die betroffenen Strecken notwendig sind.
 
-Alle Unternehmen, welche eine code-share Vereinbarung abschliessen, müssen über die notwendigen Bewilligungen in Bezug auf die betroffenen Strecken verfügen.
+\3. Beförderungen im Code-Sharing zwischen Punkten in der Schweiz, die von Unternehmen durchgeführt werden, welche von Kanada bezeichnet wurden, sind beschränkt auf Flüge, welche von Luftverkehrsunternehmen durchgeführt werden, die von den Luftfahrtbehörden der Schweiz berechtigt wurden, Beförderungen zwischen den in der Schweiz gelegenen Punkten durchzuführen. Alle Beförderungen zwischen Punkten in der Schweiz, welche mit dem Code eines von Kanada bezeichneten Unternehmens durchgeführt werden, werden nur im Rahmen einer internationalen Reise angeboten.
 
-Die Luftfahrtbehörden der Schweiz können einem von Kanada bezeichneten Unternehmen oder den bezeichneten Unternehmen die Bewilligung, Beförderungen auf der Grundlage einer code-share Vereinbarung gemäss Absatz 4a) vorstehend durchzuführen, nicht mit der Begründung verweigern, dass dieses Unternehmen oder die Unternehmen, welche das Luftfahrzeug betreiben, keine Bewilligung von der Schweiz erhalten haben, Verkehr mit dem Code des von Kanada bezeichneten oder der von Kanada bezeichneten Unternehmen zu befördern.
+\4. Die Luftfahrtbehörden der Schweiz können einem von Kanada bezeichneten Unternehmen die Bewilligung, Beförderungen im Code-Sharing gemäss Absatz 1(a) durchzuführen, nicht mit der Begründung verweigern, dass die Luftverkehrsunternehmen, welche das Luftfahrzeug betreiben, keine Bewilligung von der Schweiz erhalten haben, Verkehr mit dem Code eines von Kanada bezeichneten Unternehmens zu befördern.
+
+\5. Alle an solchen Code-Sharing-Vereinbarungen beteiligten Unternehmen sorgen dafür, dass die Fluggäste über die Identität der Betreiber und die Beförderungsart jedes einzelnen Reiseabschnitts informiert werden.
+
+b) Schweiz
+
+\1. Unter Vorbehalt der reglementarischen Anforderungen, welche normalerweise von den Luftfahrtbehörden Kanadas mit Bezug auf solche Beförderungen angewandt werden, kann jedes von der Schweiz bezeichnete Unternehmen nach freiem Ermessen Zusammenarbeitsvereinbarungen abschliessen mit dem Ziel:
+
+- (a) vereinbarte Beförderungen im Code-Sharing auf den festgelegten Strecken bei den Flügen anzubieten (das heisst, Beförderungsscheine mit seinem eigenen Code zu verkaufen), welche von einem oder mehreren Luftverkehrsunternehmen von Kanada, der Schweiz und/oder eines Drittstaats und/oder von Landverkehrsunternehmen durchgeführt werden; und/oder
+- (b) den Verkehr mit dem Code eines beliebigen anderen Luftverkehrsunternehmens zu befördern, welches von den Luftfahrtbehörden Kanadas berechtigt wurde, Beförderungsscheine mit seinem eigenen Code auf Flüge zu verkaufen, die von diesem von der Schweiz bezeichneten Unternehmen durchgeführt werden.
+
+\2. Alle Luftverkehrsunternehmen, welche eine Code-Sharing-Vereinbarung abschliessen, müssen über die Bewilligungen verfügen, die für die betroffenen Strecken notwendig sind.
+
+\3. Beförderungen im Code-Sharing zwischen Punkten in Kanada, die von Luftverkehrsunternehmen durchgeführt werden, welche von der Schweiz bezeichnet wurden, sind beschränkt auf Flüge, welche von Luftverkehrsunternehmen durchgeführt werden, die von den Luftfahrtbehörden Kanadas berechtigt wurden, Beförderungen zwischen den in Kanada gelegenen Punkten durchzuführen. Alle Beförderungen zwischen Punkten in Kanada, welche mit dem Code eines von der Schweiz bezeichneten Unternehmens durchgeführt werden, werden nur im Rahmen einer internationalen Reise angeboten.
+
+\4. Die Luftfahrtbehörden Kanadas können einem von der Schweiz bezeichneten Unternehmen die Bewilligung, Beförderungen im Code-Sharing gemäss Absatz 1(a) durchzuführen, nicht mit der Begründung verweigern, dass die Luftverkehrsunternehmen, welche das Luftfahrzeug betreiben, keine Bewilligung von Kanada erhalten haben, Verkehr mit dem Code eines von der Schweiz bezeichneten Unternehmens zu befördern.
+
+\5. Alle an solchen Code-Sharing-Vereinbarungen beteiligten Unternehmen sorgen dafür, dass die Fluggäste über die Identität der Betreiber und die Beförderungsart jedes einzelnen Reiseabschnitts informiert werden.
+
+Abschnitt IV
+
+Intermodale Dienstleistungen
+
+Beide Vertragsparteien gewähren den bezeichneten Unternehmen der anderen Vertragspartei bei Beförderungen auf ihrem jeweiligen Gebiet das Recht:
+
+- (a) ohne Einschränkung in Verbindung mit den vereinbarten Linien jedes Verkehrsmittel zur Beförderung im Landverkehr von Fracht von oder nach jedem Punkt im Gebiet der Vertragsparteien oder in Drittstaaten zu benutzen, einschliesslich der Beförderung von und nach allen Flughäfen mit Zolleinrichtungen und gegebenenfalls einschliesslich des Rechts, Fracht unter Zollverschluss unter Beachtung der geltenden Gesetze und Vorschriften zu befördern;
+- (b) für Waren, die auf dem Luft- oder Landweg transportiert werden, Zugang zur Abfertigung durch die Zollbehörden und zu Zolleinrichtungen am Flughafen zu erhalten; und
+- (c) zu wählen, ob sie den Landverkehr selbst durchführen oder ob sie ihn unter Vorbehalt reglementarischer Anforderungen durch Vereinbarungen mit anderen Landverkehrsträgern durchführen lassen, einschliesslich der Beförderung auf dem Landweg durch andere Luftfahrtunternehmen.
+
+Diese verkehrsträgerübergreifenden Frachtdienste können zu einem einzigen durchgehenden Preis, der für die Beförderung in der Luft und auf dem Landweg gemeinsam gilt, angeboten werden, unter der Voraussetzung, dass die Absender über die Identität des Betreibers und die Beförderungsart jedes einzelnen Abschnitts der Beförderung informiert werden.
+
+Abschnitt V
+
+Ungeachtet der Bestimmungen von Artikel IX (Unterbreitung der Flugpläne) dieses Abkommens verpflichtet jede Vertragspartei die bezeichneten Unternehmen der anderen Vertragspartei aus Sicherheitsgründen, die beabsichtigte Inbetriebnahme von Linien zwischen Drittstaaten und ihrem Gebiet oder die Änderung einzelner Punkte neunzig (90) Tage, spätestens aber innerhalb der von den Luftfahrtbehörden gesetzten Frist vor dem Beginn des Betriebes dieser Linien beziehungsweise vor Inkrafttreten der Änderung ihren Luftfahrtbehörden mitzuteilen.
+
+Anhang II*[^t-3]*
+
+## Betriebsbewilligung für bezeichnete Unternehmen der Schweiz
+
+[^t-3]: Eingefügt durch Art. 6 des Änderungsprotokolls vom 29. Jan. 2019, in Kraft seit 22. Juni 2021 ([AS 2021 441](https://fedlex.data.admin.ch/eli/oc/2021/441)).
+
+Gemäss Absatz 1c von Artikel IV (Widerruf der Betriebsbewilligung) des *Luftver**kehrsabkommens zwischen der Schweizerischen Eidgenossenschaft und Kanada* kann jede Vertragspartei in Bezug auf Betriebsbewilligungen, welche einem bezeichneten Unternehmen der anderen Vertragspartei erteilt wurden, Massnahmen ergreifen, wenn sie nicht überzeugt ist, dass ein wesentlicher Teil des Eigentums und die tatsächliche Verfügungsgewalt über das Unternehmen in den Händen von Staatsangehörigen der das Unternehmen bezeichnenden Vertragspartei liegen. Die Regierung Kanadas verpflichtet sich, in Bezug auf die von den Luftfahrtbehörden Kanadas erteilten Betriebsbewilligungen für Unternehmen, welche ab dem 24. September 2010 von der Schweiz bezeichnet wurden, keine Massnahmen aufgrund ihrer Eigentumsstruktur und Verfügungsgewalt an diesem Datum zu ergreifen, unter der Voraussetzung, dass:
+
+\1. die Luftfahrtbehörden der Schweiz die erforderliche Aufsicht ausüben, um sicherzustellen, dass die bezeichneten Unternehmen die Bestimmungen dieses Abkommens befolgen;
+
+\2. die bezeichneten Unternehmen ihren Hauptgeschäftssitz weiterhin in der Schweiz haben;
+
+\3. die betriebliche Kontrolle über die Luftfahrzeuge während des Betriebs der vereinbarten Linien von den bezeichneten Unternehmen ausgeübt wird, sofern die Luftfahrtbehörden Kanadas keine anderslautende Bewilligung erteilt haben, und die entsprechenden Beförderungen gemäss den Bestimmungen der von den Luftfahrtbehörden Kanadas erteilten Betriebsbewilligungen der bezeichneten Unternehmen durchgeführt werden;
+
+\4. falls die Struktur bezüglich ausländischen Eigentums und ausländischer Verfügungsgewalt oder der Name und die Marke eines bezeichneten Unternehmens ändern, werden die Luftfahrtbehörden der Schweiz die Luftfahrtbehörden Kanadas darüber in Kenntnis setzen, damit diese prüfen können, ob diese Änderung mit den Bestimmungen von Artikel IV vereinbar sind.
