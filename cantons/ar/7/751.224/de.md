@@ -3,20 +3,19 @@ canton: AR
 number: "751.224"
 title: Wasserrechtskonzession für die St. Gallisch-Appenzellische Kraftwerke AG
 language: de
-version: 1997-08-12
-valid_until: 2021-06-21
-version_adopted: 1997-08-12
+version: 2021-06-22
+version_adopted: 2021-06-22
 adopted: 1969-06-09
 in_force: 1964-12-01
 url: "https://ar.clex.ch/app/de/texts_of_law/751.224"
-pdf: "https://ar.clex.ch/api/de/versions/689/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Wasserrechtskonzession für die St. Gallisch-Appenzellische Kraftwerke AG
 
-vom 09.06.1969 (Stand 12.08.1997)
+vom 09.06.1969 (Stand 22.06.2021)
 
 Der Kantonsrat des Kantons Appenzell A.Rh.,
 
@@ -104,7 +103,11 @@ zu erteilen.
 
 #### Ziff. 13
 
-<sup>1</sup> Die durch die verliehenen Wasserkräfte erzeugte elektrische Energie hat der Speisung des Verteilnetzes der SAK zu dienen.
+<sup>1</sup> Die durch die verliehenen Wasserkräfte erzeugte elektrische Energie hat der Speisung des Verteilnetzes der SAK zu dienen. Davon ausgenommen ist der direkte Strombezug (jährlich rund 14 GWh Strom) für die Wasserstoffproduktion am Standort Kubel.
+
+<sup>2</sup> Ein Weiterausbau oder die Einstellung der örtlichen Wasserstoffproduktion (jährlich rund 250 Tonnen H2) ist den betroffenen Kantonen Appenzell Ausserrhoden, Appenzell Innerrhoden und St. Gallen vorgängig mitzuteilen.
+
+<sup>3</sup> Die Inbetriebnahme der Wasserstoffproduktionsanlage ist der zuständigen Behörde des Kantons Appenzell Ausserrhoden schriftlich zu melden. Ebenso sind die Mengen an produziertem Wasserstoff und ins Verteilnetz eingespeistem Strom des vergangenen Kalenderjahrs jährlich mitzuteilen.
 
 #### Ziff. 14
 
