@@ -4,13 +4,13 @@ number: "170.140"
 title: Urden da gestiun dal cussegl grond
 short: UGCG
 language: rm
-version: 2016-11-01
-corrected: 2016-10-24
-version_adopted: 2016-10-19
+version: 2019-08-01
+corrected: 2021-06-23
+version_adopted: 2019-08-30
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2726/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2726/pdf_file"
 
 (UGCG)
 
-dals 08-12-2005 (versiun dals 01-11-2016)
+dals 08-12-2005 (versiun dals 01-08-2019)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -492,7 +492,7 @@ concluda:
 
 **Schurnada**
 
-<sup>1</sup> Las commembras ed ils commembers dal cussegl grond han il dretg d'ina schurnada da 300 francs per mintga di da lur preschientscha tar sesidas.
+<sup>1</sup> Las commembras ed ils commembers dal cussegl grond han il dretg d'ina schurnada da 300 francs per mintga di da lur preschientscha a sesidas. La schurnada indemnisescha la preschientscha a sesidas sco er la lavur ch'ina commembra u in commember dal cussegl grond impunda ordaifer la sessiun ed ordaifer las sesidas per la preparaziun e per l'elavuraziun posteriura al domicil, al lieu da sia occupaziun professiunala principala u en in auter lieu.
 
 <sup>2</sup> La presidenta u il president dal cussegl grond survegn ultra da quai in supplement presidial e da represchentaziun unic da 12 000 francs, la vicepresidenta u il vicepresident dal cussegl grond in supplement da represchentaziun unic da 4000 francs.
 
@@ -522,11 +522,11 @@ concluda:
 
 **Indemnisaziun dals custs da viadi e dal temp da viadi**
 
-<sup>1</sup> Per viadis a las sesidas dal cussegl grond vegnan pajadas a las commembras ed als commembers dal cussegl grond las spesas da viadi effectivas, quai vul dir l'emprima classa da la viafier, l'auto da posta e l'auto privat (indemnisaziun per kilometer tenor las disposiziuns che valan per il persunal chantunal).
+<sup>1</sup> Per ils viadis a las sesidas dal cussegl grond survegn mintga commembra e commember dal cussegl grond ina indemnisaziun dals custs da viadi da 70 raps per kilometer da via per la distanza davent dal domicil al lieu da la sesida ed enavos.
 
-<sup>2</sup> A las commembras ed als commembers dal cussegl grond vegn pajada supplementarmain a las spesas da viadi effectivas ina indemnisaziun dal temp da viadi en la medema autezza.
+<sup>2</sup> Ultra da l'indemnisaziun dals custs da viadi tenor l'alinea 1 survegnan las commembras ed ils commembers dal cussegl grond ina indemnisaziun dal temp da viadi en la medema autezza.
 
-<sup>3</sup> Sch'i na pon vegnir fatgas valair naginas spesas da viadi effectivas, vegn pajada a las commembras ed als commembers dal cussegl grond ina indemnisaziun dal temp da viadi en l'autezza da l'indemnisaziun per kilometer, e quai per il viadi dal domicil fin al lieu da la sesida dal cussegl grond.
+<sup>3</sup> Tgi che viagescha sco passagiera u passagier en ina cuminanza da viadi survegn ina indemnisaziun dal temp da viadi en l'autezza da l'indemnisaziun per kilometer tenor l'alinea 1.
 
 ### 2.6.2. Cumissiuns
 
@@ -564,7 +564,7 @@ concluda:
 
 <sup>1</sup> Per la participaziun a sesidas da fracziun che han lieu ordaifer la sessiun vegnan pajadas a las commembras ed als commembers dal cussegl grond las medemas schurnadas, indemnisaziuns da spesas, dals custs da viadi e dal temp da viadi sco per la participaziun a sesidas da cumissiun ordaifer la sessiun (art. 41), dentant maximalmain per duas sesidas per sessiun. La presidenta u il president da la fracziun trametta la glista da preschientscha al departament da finanzas e vischnancas.
 
-<sup>2</sup> Ultra da quai survegnan las fracziuns annualmain ina indemnisaziun da basa da 4000 francs ed ina indemnisaziun da 300 francs per mintga commembra e commember da fracziun. Il dretg d'ina indemnisaziun da 300 francs han er quellas commembras e quels commembers dal cussegl grond che n'appartegnan betg ad ina fracziun.
+<sup>2</sup> Per sustegnair lur activitad parlamentara survegnan las fracziuns ultra da quai mintg'onn ina indemnisaziun da basa da 12 000 francs ed ina indemnisaziun da 500 francs per mintga commembra e commember da la fracziun. Il dretg da l'indemnisaziun da 500 francs han er quellas commembras e quels commembers dal cussegl grond che n'appartegnan betg ad ina fracziun.
 
 ## 3. Urden general da procedura
 

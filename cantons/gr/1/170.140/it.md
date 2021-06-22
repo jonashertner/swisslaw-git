@@ -4,13 +4,13 @@ number: "170.140"
 title: Regolamento organico del Gran Consiglio
 short: ROGC
 language: it
-version: 2016-11-01
-corrected: 2016-10-24
-version_adopted: 2016-10-19
+version: 2019-08-01
+corrected: 2021-06-23
+version_adopted: 2019-08-30
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2726/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2970/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2726/pdf_file"
 
 (ROGC)
 
-del 08.12.2005 (stato 01.11.2016)
+del 08.12.2005 (stato 01.08.2019)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -490,7 +490,7 @@ decide:
 
 **Diaria**
 
-<sup>1</sup> I deputati al Gran Consiglio hanno diritto per ogni giorno di presenza alle sedute ad una diaria di 300 franchi.
+<sup>1</sup> I deputati al Gran Consiglio hanno diritto per ogni giorno di presenza alle sedute ad una diaria di 300 franchi. La diaria indennizza la presenza alle sedute e l'attività di preparazione e di postelebaroazione che un deputato al Gran Consiglio svolge al di fuori della sessione e delle sedute nel luogo di domicilio, nel luogo in cui esercita la propria attività professionale principale o in un altro luogo.
 
 <sup>2</sup> Il presidente del Gran Consiglio riceve inoltre un'indennità unica di 12'000 franchi a titolo di presidenza e di rappresentanza, il vicepresidente un'indennità unica di rappresentanza di 4000 franchi.
 
@@ -520,11 +520,11 @@ decide:
 
 **Indennità per spese e tempo di trasferta**
 
-<sup>1</sup> Per la trasferta alle sedute del Gran Consiglio vengono rimborsate ai deputati le spese di viaggio effettive, vale a dire ferrovia in prima classe, autopostale e auto privata (indennità per chilometro secondo le disposizioni vigenti per il personale del Cantone).
+<sup>1</sup> Per la trasferta alle sedute del Gran Consiglio, a ogni deputato in Gran Consiglio viene corrisposta un'indennità per spese di viaggio pari a 70 centesimi per chilometro di strada per la distanza tra il domicilio e il luogo della seduta e ritorno.
 
-<sup>2</sup> Oltre alle spese di trasferta effettive, ai deputati al Gran Consiglio viene corrisposta un'indennità per tempo di trasferta dello stesso ammontare.
+<sup>2</sup> Oltre all'indennità per spese di viaggio conformemente al capoverso 1, ai deputati in Gran Consiglio viene corrisposta un'indennità per tempo di trasferta dello stesso ammontare.
 
-<sup>3</sup> Se non possono essere fatte valere spese di viaggio effettive, ai deputati al Gran Consiglio per la trasferta dal domicilio al luogo della seduta del Gran Consiglio viene versata un'indennità per tempo di trasferta pari all'indennità per chilometro.
+<sup>3</sup> Ai granconsiglieri che viaggiano come passeggeri in un'automobile condivisa viene corrisposta un'indennità per tempo di trasferta pari all'indennità per chilometro conformemente al capoverso 1.
 
 ### 2.6.2. Commissioni
 
@@ -562,7 +562,7 @@ decide:
 
 <sup>1</sup> Per la partecipazione a sedute di frazioni che si tengono al di fuori della sessione, i deputati percepiscono diarie, rimborsi spese, rimborsi per spese di viaggio e indennità per tempo di trasferta uguali a quelli per la partecipazione a sedute di commissioni al di fuori della sessione (art. 41), al massimo però per due sedute ogni sessione. Il presidente della frazione trasmette la lista delle presenze al Dipartimento delle finanze e dei comuni.
 
-<sup>2</sup> Le frazioni ricevono inoltre annualmente un'indennità di base di 4 000 franchi e un'indennità di 300 franchi per ogni membro della frazione. Anche i deputati al Gran Consiglio che non fanno parte di una frazione hanno diritto all'indennità di 300 franchi.
+<sup>2</sup> A supporto della propria attività parlamentare, le frazioni ricevono inoltre annualmente un'indennità di base di 12 000 franchi e un'indennità di 500 franchi per ogni membro della frazione. Anche i deputati al Gran Consiglio che non fanno parte di una frazione hanno diritto all'indennità di 500 franchi.
 
 ## 3. Regolamento di procedura generale
 

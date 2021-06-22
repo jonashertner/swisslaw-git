@@ -4,13 +4,13 @@ number: "170.140"
 title: Geschäftsordnung des Grossen Rates
 short: GGO
 language: de
-version: 2016-11-01
-corrected: 2016-10-24
-version_adopted: 2016-10-19
+version: 2019-08-01
+corrected: 2021-06-23
+version_adopted: 2019-08-30
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2726/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2726/pdf_file"
 
 (GGO)
 
-Vom 08.12.2005 (Stand 01.11.2016)
+Vom 08.12.2005 (Stand 01.08.2019)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -490,7 +490,7 @@ beschliesst:
 
 **Taggeld**
 
-<sup>1</sup> Die Mitglieder des Grossen Rates haben für jeden Tag ihrer Anwesenheit bei Sitzungen Anspruch auf ein Taggeld von 300 Franken.
+<sup>1</sup> Die Mitglieder des Grossen Rates haben für jeden Tag ihrer Anwesenheit bei Sitzungen Anspruch auf ein Taggeld von 300 Franken. Das Taggeld entschädigt die Anwesenheit bei Sitzungen und die Tätigkeit, welche ein Mitglied des Grossen Rates ausserhalb der Session und der Sitzungen am Wohnsitz, am Ort seiner beruflichen Hauptbeschäftigung oder an einem anderen Ort für die Vor- und Nachbearbeitung verrichtet.
 
 <sup>2</sup> Die Standespräsidentin oder der Standespräsident erhält ausserdem eine einmalige Präsidial- und Repräsentationszulage von 12 000 Franken, die Standesvizepräsidentin oder der Standesvizepräsident eine einmalige Repräsentationszulage von 4000 Franken.
 
@@ -520,11 +520,11 @@ beschliesst:
 
 **Reisekosten- und Reisezeitentschädigung**
 
-<sup>1</sup> Für Reisen zu den Ratssitzungen werden den Mitgliedern des Grossen Rates die effektiven Reisespesen vergütet, das heisst Bahn erste Klasse, Postauto und Privatauto (Kilometerentschädigung nach den für das kantonale Personal geltenden Bestimmungen).
+<sup>1</sup> Für Reisen zu den Ratssitzungen erhält jedes Mitglied des Grossen Rates eine Reisekostenentschädigung von 70 Rappen pro Strassenkilometer für die Distanz zwischen Wohnsitz und Sitzungsort und zurück.
 
-<sup>2</sup> Den Mitgliedern des Grossen Rates wird zusätzlich zu den effektiven Reisespesen eine Reisezeitentschädigung in gleicher Höhe entrichtet.
+<sup>2</sup> Die Mitglieder des Grossen Rates erhalten zusätzlich zur Reisekostenentschädigung gemäss Absatz 1 eine Reisezeitentschädigung in gleicher Höhe.
 
-<sup>3</sup> Können keine effektiven Reisespesen geltend gemacht werden, wird den Mitgliedern des Grossen Rates eine Reisezeitentschädigung in der Höhe der Kilometerentschädigung für die Reise vom Wohnsitz zum Ort der Ratssitzung entrichtet.
+<sup>3</sup> Die Mitfahrerinnen und Mitfahrer in einer Fahrgemeinschaft erhalten eine Reisezeitentschädigung in der Höhe der Kilometerentschädigung gemäss Absatz 1.
 
 ### 2.6.2. Kommissionen
 
@@ -562,7 +562,7 @@ beschliesst:
 
 <sup>1</sup> Für die Teilnahme an Fraktionssitzungen, die ausserhalb der Session stattfinden, werden den Mitgliedern des Grossen Rates die gleichen Taggelder, Spesen-, Reisekosten- und Reisezeitentschädigungen ausgerichtet, wie für die Teilnahme an Kommissionssitzungen ausserhalb der Session (Art. 41), jedoch höchstens für zwei Sitzungen je Session. Die Fraktionspräsidentin oder der Fraktionspräsident stellt dem Departement für Finanzen und Gemeinden die Präsenzliste zu.
 
-<sup>2</sup> Überdies erhalten die Fraktionen jährlich eine Grundentschädigung von 4000 Franken und eine Entschädigung für jedes Fraktionsmitglied von 300 Franken. Anspruch auf die Entschädigung von 300 Franken haben auch jene Mitglieder des Rates, die keiner Fraktion angehören.
+<sup>2</sup> Überdies erhalten die Fraktionen zur Unterstützung ihrer parlamentarischen Tätigkeit jährlich eine Grundentschädigung von 12 000 Franken und eine Entschädigung von 500 Franken für jedes Fraktionsmitglied. Anspruch auf die Entschädigung von 500 Franken haben auch jene Mitglieder des Rates, die keiner Fraktion angehören.
 
 ## 3. Allgemeine Verfahrensordnung
 
