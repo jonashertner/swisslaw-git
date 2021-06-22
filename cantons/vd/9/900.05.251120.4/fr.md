@@ -3,7 +3,7 @@ canton: VD
 number: "900.05.251120.4"
 title: "ARRÊTÉ du 25.11.2020 sur l'aide à la consommation et au commerce local, en faveur des secteurs économiques durablement impactés par la crise économique liée au coronavirus (COVID-19)"
 language: fr
-version: 2020-12-01
+version: 2021-06-23
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.251120.4?id=2295720a-e058-4aa9-971c-68a71d588970"
 ---
 
@@ -17,16 +17,17 @@ LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
 vu l'ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière) [^ingress-1]
 
-vu l'article 125 de la Constitution du Canton de Vaud
+vu l'article 125 de la Constitution du Canton de Vaud [^ingress-2]
 
-vu l'article 26a de la loi du 11 février 1970 sur l'organisation du Conseil d'Etat [^ingress-2]
+vu l'article 26a de la loi du 11 février 1970 sur l'organisation du Conseil d'Etat [^ingress-3]
 
 vu le préavis du Département de l'économie, de l'innovation et du sport
 
 arrête
 
 [^ingress-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
-[^ingress-2]: Loi du 11.02.1970 sur l'organisation du Conseil d’Etat ([BLV 172.115](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.115?id=b63d64be-09d4-46f7-8454-c0dbbd3a5c48))
+[^ingress-2]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
+[^ingress-3]: Loi du 11.02.1970 sur l'organisation du Conseil d’Etat ([BLV 172.115](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.115?id=b63d64be-09d4-46f7-8454-c0dbbd3a5c48))
 
 ## Section I Dispositions générales
 
@@ -44,7 +45,9 @@ arrête
 
 <sup>2</sup> Ce montant est financé par le solde disponible de l'enveloppe financière validée par l'arrêté du Conseil d'Etat du 10 juin 2020 sur l'aide à la relance de la consommation dans les secteurs touristiques durablement impactés par la crise économique liée au coronavirus (COVID-19), ainsi que, pour le surplus, par le fonds de lutte contre le chômage.
 
-<sup>3</sup> Il est géré par le département en charge de l'économie (ci-après : le département).
+<sup>3</sup> Il est géré par le département en charge de l'économie[^2-1] (ci-après : le département).
+
+[^2-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 3
 
@@ -112,9 +115,9 @@ arrête
 
 <sup>1</sup> Les aides octroyées par l'Etat s'appliquent aux offres publiées sur la plateforme Welcome dès son ouverture de la plateforme et jusqu'à l'épuisement de l'enveloppe financière de 17,5 millions de francs, mais au plus tard au 31 août 2021, date à laquelle l'opération prend fin.
 
-<sup>2</sup> La validité des bons vendus échoit le 31 août 2021.
+<sup>2</sup> La validité des bons vendus échoit le 31 décembre 2021.
 
-<sup>3</sup> L'échéance des bons vendus au travers de l'opération welQome réalisée entre le 24 juin et le 24 septembre 2020, initialement fixée à la date du 31 janvier 2021, est prolongée jusqu'au 31 août 2021.
+<sup>3</sup> L'échéance des bons vendus au travers de l'opération Welcome réalisée entre le 24 juin et le 24 septembre 2020, initialement fixée à la date du 31 janvier 2021, est prolongée jusqu'au 31 décembre 2021.
 
 [^10-1]: Modif. 1 du 16.06.2021: Modification Al. 2-3; entrée en vigueur au 23.06.2021
 
@@ -155,7 +158,7 @@ arrête
 
 <sup>3</sup> L'offre est limitée à un bon par abonnement et par personne. Le cumul de bons est interdit.
 
-<sup>4</sup> L'offre est valable jusqu'au 31 août 2021.
+<sup>4</sup> L'offre est valable jusqu'au 31 décembre 2021.
 
 [^14-1]: Modif. 1 du 16.06.2021: Modification Al. 4; entrée en vigueur au 23.06.2021
 
@@ -171,4 +174,4 @@ Annexes
 
 1
 
-[Charte d'engagement vis-à-vis des entreprises bénéficiaires de l'aide de l'opération Welcome 2](https://prestations.vd.ch/pub/blv-publication/api/actes/2295720a-e058-4aa9-971c-68a71d588970/annexes/1?dmev=01.12.2020)
+[Charte d'engagement vis-à-vis des entreprises bénéficiaires de l'aide de l'opération Welcome 2](https://prestations.vd.ch/pub/blv-publication/api/actes/2295720a-e058-4aa9-971c-68a71d588970/annexes/1?dmev=23.06.2021)
