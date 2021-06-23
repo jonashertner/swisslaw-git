@@ -5,12 +5,12 @@ title: Legge sul Gran Consiglio
 short: LGC
 language: it
 version: 2021-04-01
-valid_until: 2021-09-30
+corrected: 2021-06-24
 version_adopted: 2020-12-09
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3176/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3155/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.

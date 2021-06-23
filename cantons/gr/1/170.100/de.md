@@ -5,12 +5,12 @@ title: Gesetz über den Grossen Rat
 short: Grossratsgesetz; GRG
 language: de
 version: 2021-04-01
-valid_until: 2021-09-30
+corrected: 2021-06-24
 version_adopted: 2020-12-09
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3176/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3155/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
