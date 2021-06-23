@@ -4,12 +4,12 @@ number: "110.200"
 title: Lescha davart la divisiun dal chantun Grischun en regiuns
 language: rm
 version: 2016-01-01
-corrected: 2021-01-01
+corrected: 2021-06-24
 version_adopted: 2014-04-23
 adopted: 2014-04-23
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/110.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3080/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3129/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -58,7 +58,7 @@ concluda:
   - a) vischnancas da Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesauc, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C..
   - b) Lieu principal: Roveredo
 - 8\. Regiun Plessur:
-  - a) vischnancas d'Arosa, Cuira, Churwalden, Haldenstein, Tschiertschen-Praden.
+  - a) vischnancas d'Arosa, Cuira, Churwalden, Tschiertschen-Praden.
   - b) Lieu principal: Cuira
 - 9\. Regiun Partenz / Tavau:
   - a) vischnancas da Claustra-Serneus, Cunter en il Partenz, Fideris, Furna, Grüsch, Jenaz, Küblis, Luzein, Schiers, Seewis, Tavau.
@@ -67,7 +67,7 @@ concluda:
   - a) vischnancas da Breil, Falera, Glion, Laax, Lumnezia, Medel (Lucmagn), Mustér, Sagogn, Schluein, Sumvitg, Sursaissa Mundaun, Trun, Tujetsch, Val S. Pieder, Val Stussavgia.
   - b) Lieu principal: Glion
 - 11\. Regiun Viamala:
-  - a) vischnancas d'Andeer, Avras, Casti-Vargistagn, Cazas, Donat, Farera, Farschno, Flearda, Giuvaulta, Lon, Masagn, Maton, Runtgaglia, Scharàns, Seglias, Sufers, Tschappina, Tumleastga, Tusaun, Urmagn, Valragn, Ziràn-Reschen.
+  - a) vischnancas d'Andeer, Avras, Cazas, Farera, Farschno, Flearda, Giuvaulta, Masagn, Muntogna da Schons, Runtgaglia, Scharàns, Seglias, Sufers, Tschappina, Tumleastga, Tusaun, Urmagn, Valragn, Ziràn-Reschen.
   - b) Lieu principal: Tusaun
 
 [^1-1]: Il stadi e las designaziuns da las vischnancas vegnan adattads mintga onn nunformalmain confurm a las fusiuns da vischnancas.

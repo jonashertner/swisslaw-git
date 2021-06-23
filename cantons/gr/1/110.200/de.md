@@ -4,12 +4,12 @@ number: "110.200"
 title: Gesetz über die Einteilung des Kantons Graubünden in Regionen
 language: de
 version: 2016-01-01
-corrected: 2021-01-01
+corrected: 2021-06-24
 version_adopted: 2014-04-23
 adopted: 2014-04-23
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/110.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3080/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3129/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -58,7 +58,7 @@ beschliesst:
   - a) Gemeinden Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesocco, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C..
   - b) Hauptort: Roveredo
 - 8\. Region Plessur:
-  - a) Gemeinden Arosa, Chur, Churwalden, Haldenstein, Tschiertschen-Praden.
+  - a) Gemeinden Arosa, Chur, Churwalden, Tschiertschen-Praden.
   - b) Hauptort: Chur
 - 9\. Region Prättigau/Davos:
   - a) Gemeinden Conters i.P., Davos, Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P..
@@ -67,7 +67,7 @@ beschliesst:
   - a) Gemeinden Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals.
   - b) Hauptort: Ilanz/Glion
 - 11\. Region Viamala:
-  - a) Gemeinden Andeer, Avers, Casti-Wergenstein, Cazis, Domleschg, Donat, Ferrera, Flerden, Fürstenau, Lohn, Masein, Mathon, Rheinwald, Rongellen, Rothenbrunnen, Scharans, Sils i.D., Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen.
+  - a) Gemeinden Andeer, Avers, Cazis, Domleschg, Ferrera, Flerden, Fürstenau, Masein, Muntogna da Schons, Rheinwald, Rongellen, Rothenbrunnen, Scharans, Sils i.D., Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen.
   - b) Hauptort: Thusis
 
 [^1-1]: Der Stand und die Bezeichnungen der Gemeinden werden jährlich den Gemeindezusammenschlüssen entsprechend formlos angepasst.

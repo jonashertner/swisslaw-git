@@ -4,12 +4,12 @@ number: "110.200"
 title: Legge sulla suddivisione del Cantone dei Grigioni in regioni
 language: it
 version: 2016-01-01
-corrected: 2021-01-01
+corrected: 2021-06-24
 version_adopted: 2014-04-23
 adopted: 2014-04-23
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/110.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3080/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3129/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -58,7 +58,7 @@ decide:
   - a) Comuni di Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesocco, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C..
   - b) Capoluogo: Roveredo
 - 8\. Regione Plessur:
-  - a) Comuni di Arosa, Churwalden, Coira, Haldenstein, Tschiertschen-Praden.
+  - a) Comuni di Arosa, Churwalden, Coira, Tschiertschen-Praden.
   - b) Capoluogo: Coira
 - 9\. Regione Prättigau/Davos:
   - a) Comuni di Conters i.P., Davos, Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P..
@@ -67,7 +67,7 @@ decide:
   - a) Comuni di Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals.
   - b) Capoluogo: Ilanz/Glion
 - 11\. Regione Viamala:
-  - a) Comuni di Andeer, Avers, Casti-Wergenstein, Cazis, Domleschg, Donat, Ferrera, Flerden, Fürstenau, Lohn, Masein, Mathon, Rheinwald, Rongellen, Rothenbrunnen, Scharans, Sils i.D., Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen.
+  - a) Comuni di Andeer, Avers, Cazis, Domleschg, Ferrera, Flerden, Fürstenau, Masein, Muntogna da Schons, Rheinwald, Rongellen, Rothenbrunnen, Scharans, Sils i.D., Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen.
   - b) Capoluogo: Thusis
 
 [^1-1]: Lo stato e le designazioni dei comuni vengono adeguati ogni anno in modo informale conformemente alle aggregazioni di comuni.
