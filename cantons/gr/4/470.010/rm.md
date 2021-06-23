@@ -5,12 +5,12 @@ title: Ordinaziun davart la promoziun dal sport e dal moviment
 short: ordinaziun da promoziun dal sport
 language: rm
 version: 2015-08-01
-valid_until: 2022-06-30
+corrected: 2021-06-24
 version_adopted: 2015-07-07
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3174/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

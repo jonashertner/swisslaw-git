@@ -5,12 +5,12 @@ title: Verordnung über die Förderung von Sport und Bewegung
 short: Sportförderungsverordnung
 language: de
 version: 2015-08-01
-valid_until: 2022-06-30
+corrected: 2021-06-24
 version_adopted: 2015-07-07
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3174/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -59,7 +59,7 @@ von der Regierung erlassen am 7. Juli 2015
 
 **Inhalt**
 
-<sup>1</sup> Das Sportförderungskonzept bildet die Grundlage für zukünftige sportpolitische Entscheidungen und soll insbesondere:
+<sup>1</sup> Das Sporförderungskonzept bildet die Grundlage für zukünftige sportpolitische Entscheidungen und soll insbesondere:
 
 - a) in den verschiedenen Bereichen der Sportförderung die aktuelle Situation darstellen;
 - b) konkrete Schwerpunkte für die Sportförderung definieren und Massnahmen zur Erreichung dieser Schwerpunkte aufzeigen;

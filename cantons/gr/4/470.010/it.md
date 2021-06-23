@@ -5,12 +5,12 @@ title: "Ordinanza sulla promozione dello sport e dell'attività fisica"
 short: Ordinanza sulla promozione dello sport
 language: it
 version: 2015-08-01
-valid_until: 2022-06-30
+corrected: 2021-06-24
 version_adopted: 2015-07-07
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3174/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2598/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
