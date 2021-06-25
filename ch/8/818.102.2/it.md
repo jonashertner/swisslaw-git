@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-06-07
+version: 2021-06-26
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210607/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210607-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210607/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210626/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210626-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210607/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 7 giugno 2021)
+del 4 giugno 2021 (Stato 26 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -468,11 +468,13 @@ I dati scientifici relativi alla vaccinazione, ai test e alla guarigione dalla C
 
 Prima di mettersi in viaggio, verificare le misure sanitarie pubbliche applicabili e le relative restrizioni applicabili nel luogo di destinazione.»
 
-Allegato 2
+Allegato 2*[^t-1]*
 
 (art. 14, 15 cpv. 1 e 33)
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
+
+[^t-1]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare, in vigore dal 26 giu. 2021 ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -483,7 +485,7 @@ Allegato 2
   - a. per una vaccinazione con due dosi di un vaccino mRNA omologato in Svizzera: il giorno della somministrazione della seconda dose;
   - b. per le persone con una pregressa infezione da SARS-CoV-2 confermata: il giorno della somministrazione della dose unica di un vaccino mRNA omologato in Svizzera.
 
-- 1\.2 Durata di validità di un certificato di vaccinazione COVID-19: 180 giorni calcolati dalla somministrazione dell’ultima dose.
+- 1\.2 Durata di validità di un certificato di vaccinazione COVID-19: 365 giorni calcolati dalla somministrazione dell’ultima dose.
 
 ### 2 Informazioni sul vaccino somministrato
 
@@ -512,11 +514,13 @@ Allegato 3
 - c. Inizio della validità del certificato
 - d. Fine della validità del certificato
 
-Allegato 4
+Allegato 4*[^t-2]*
 
 (art. 20, 21 cpv. 2 e 33)
 
 ## Requisiti specifici per i certificati di test COVID-19
+
+[^t-2]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare, in vigore dal 26 giu. 2021 ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 ### 1 Elenco dei test riconosciuti
 
@@ -528,7 +532,7 @@ Allegato 4
 La durata è calcolata a partire dal prelievo del campione ed è di:
 
 - a. 72 ore per il test PCR;
-- b. 24 ore per il test rapido SARS-CoV-2 per l’uso professionale secondo lo standard diagnostico.
+- b. 48 ore per il test rapido SARS-CoV-2 per l’uso professionale secondo lo standard diagnostico.
 
 ### 3 Informazioni sul test eseguito
 

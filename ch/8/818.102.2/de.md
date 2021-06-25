@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-06-07
+version: 2021-06-26
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210607/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210607-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210607/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210626/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210626-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210626/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210607/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 7. Juni 2021)
+vom 4. Juni 2021 (Stand am 26. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -468,11 +468,13 @@ Die wissenschaftlichen Erkenntnisse über Covid-19-Impfungen, -Genesungen und -T
 
 Bitte informieren Sie sich vor der Reise über die geltenden Gesundheitsmassnahmen und die damit verbundenen Einschränkungen am Zielort.»
 
-Anhang 2
+Anhang 2*[^t-1]*
 
 (Art. 14, 15 Abs. 1 und 33)
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
+
+[^t-1]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -483,7 +485,7 @@ Anhang 2
   - a. für eine Impfung mit zwei Dosen eines in der Schweiz zugelassenen mRNA-Impfstoffs: am Tag der Verabreichung der zweiten Dosis;
   - b. für Personen mit einer zurückliegenden bestätigten Sars-CoV-2-Infektion: am Tag der Verabreichung der einzigen Dosis eines in der Schweiz zugelassenen mRNA-Impfstoffs.
 
-- 1\.2 Gültigkeitsdauer: 180 Tage ab Verabreichung der letzten Dosis.
+- 1\.2 Gültigkeitsdauer: 365 Tage ab Verabreichung der letzten Dosis.
 
 ### 2 Angaben zum verabreichten Impfstoff
 
@@ -512,11 +514,13 @@ Anhang 3
 - c. Beginn der Gültigkeit
 - d. Ende der Gültigkeit
 
-Anhang 4
+Anhang 4*[^t-2]*
 
 (Art. 20, 21 Abs. 2 und 33)
 
 ## Besondere Anforderungen an Covid-19-Testzertifikate
+
+[^t-2]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 ### 1 Liste der anerkannten Tests
 
@@ -530,7 +534,7 @@ Anhang 4
   Die Dauer wird ab der Probeentnahme berechnet und beträgt:
 
   - a. für PCR-Tests: 72 Stunden;
-  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard: 24 Stunden.
+  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard: 48 Stunden.
 
 ### 3 Angaben zum durchgeführten Test
 

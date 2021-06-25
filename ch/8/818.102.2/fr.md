@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-06-07
+version: 2021-06-26
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210607/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210607-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210607/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210626/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210626-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210626/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210607/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 7 juin 2021)
+du 4 juin 2021 (Etat le 26 juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -468,11 +468,13 @@ Les preuves scientifiques relatives à la vaccination, aux tests et à la guéri
 
 Avant de voyager, veuillez vérifier les mesures de santé publique et les restrictions connexes en vigueur sur le lieu de destination».
 
-Annexe 2
+Annexe 2*[^t-1]*
 
 (art. 14, 15, al. 1, et 33)
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
+
+[^t-1]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -483,7 +485,7 @@ Annexe 2
   - a. pour la vaccination avec deux doses d’un vaccin à ARNm autorisé en Suisse: le jour de l’administration de la seconde dose;
   - b. pour les personnes ayant contracté le SARS-CoV-2 de manière attestée: le jour de l’administration de la dose unique d’un vaccin à ARNm autorisé en Suisse.
 
-- 1\.2 Durée de validité: 180 jours à partir de l’administration de la dernière dose.
+- 1\.2 Durée de validité: 365 jours à partir de l’administration de la dernière dose.
 
 ### 2 Indications concernant le vaccin administré
 
@@ -512,11 +514,13 @@ Annexe 3
 - c. Début de la validité
 - d. Fin de la validité
 
-Annexe 4
+Annexe 4*[^t-2]*
 
 (art. 20, 21, al. 2, et 33)
 
 ## Exigences particulières applicables aux certificats de test COVID-19
+
+[^t-2]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 ### 1 Liste des tests reconnus
 
@@ -528,7 +532,7 @@ Annexe 4
 La durée de validité, calculée à partir du prélèvement de l’échantillon, est de:
 
 - a. 72 heures pour le test PCR;
-- b. 24 heures pour le test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic».
+- b. 48 heures pour le test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic».
 
 ### 3 Indications concernant le test effectué
 
