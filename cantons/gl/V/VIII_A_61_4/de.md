@@ -4,13 +4,13 @@ number: VIII A/61/4
 title: Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 short: VV Covid-19-Verordnung besondere Lage
 language: de
-version: 2021-06-01
-valid_until: 2021-06-25
-version_adopted: 2021-06-01
+version: 2021-06-26
+valid_until: 2022-02-21
+version_adopted: 2021-06-29
 adopted: 2020-12-22
 in_force: 2021-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.61.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/2239/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2241/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2239/pdf_file"
 
 (VV Covid-19-Verordnung besondere Lage)
 
-Vom 22.12.2020 (Stand 01.06.2021)
+Vom 22.12.2020 (Stand 26.06.2021)
 
 Der Regierungsrat,
 
@@ -53,7 +53,7 @@ erlässt:
 
 **Überwachung der Schutzkonzepte**
 
-<sup>1</sup> Zuständige kantonale Behörde für die Kontrolle der Schutzkonzepte und das Ergreifen von Massnahmen gemäss Artikel 9 Covid-19-Verordnung besondere Lage ist:
+<sup>1</sup> Zuständige kantonale Behörde für die Kontrolle der Schutzkonzepte und das Ergreifen von Massnahmen gemäss Artikel 24 Covid-19-Verordnung besondere Lage ist:
 
 - a. der Regierungsrat für politische Veranstaltungen;
 - b. das Departement Finanzen und Gesundheit für Gesundheitseinrichtungen;
@@ -64,7 +64,7 @@ erlässt:
 
 **Erleichterungen**
 
-<sup>1</sup> Die zuständige kantonale Behörde für die Bewilligung von Erleichterungen gemäss Artikel 7 Covid-19-Verordnung besondere Lage bestimmt sich nach Artikel 3.
+<sup>1</sup> Die zuständige kantonale Behörde für die Bewilligung von Erleichterungen gemäss Artikel 22 Covid-19-Verordnung besondere Lage bestimmt sich nach Artikel 3.
 
 #### Art. 5
 
@@ -74,13 +74,13 @@ erlässt:
 
 **Grossveranstaltungen**
 
-<sup>1</sup> Zuständige kantonale Behörde für die Bewilligung von Grossveranstaltungen gemäss Artikel 6a Covid-19-Verordnung besondere Lage sowie für die Bewilligung von Pilotprojekten für Grossveranstaltungen gemäss Artikel 6b<sup>quater</sup> Covid-19-Verordnung besondere Lage ist das Departement Volkswirtschaft und Inneres.
+<sup>1</sup> Zuständige kantonale Behörde für die Bewilligung von Grossveranstaltungen gemäss Artikel 16 Covid-19-Verordnung besondere Lage ist das Departement Volkswirtschaft und Inneres.
 
 #### Art. 6
 
 **Zusätzliche Massnahmen**
 
-<sup>1</sup> Zuständige kantonale Behörde für die Anordnung von zusätzlichen kantonalen Massnahmen gemäss Artikel 8 Covid-19-Verordnung besondere Lage ist der Regierungsrat.
+<sup>1</sup> Zuständige kantonale Behörde für die Anordnung von zusätzlichen kantonalen Massnahmen gemäss Artikel 23 Covid-19-Verordnung besondere Lage ist der Regierungsrat.
 
 <sup>2</sup> Das Departement Finanzen und Gesundheit ist zuständig für die Anordnung von Massnahmen gegenüber Gesundheitseinrichtungen.
 
