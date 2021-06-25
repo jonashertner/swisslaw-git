@@ -3,11 +3,11 @@ sr: "818.101.28"
 title: Ordonnance du 26 mai 2021 sur les mesures concernant les manifestations publiques d’importance supracantonale en lien avec l’épidémie de COVID-19 (Ordonnance COVID-19 manifestations publiques)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/299"
 language: fr
-version: 2021-05-27
+version: 2021-06-26
 adopted: 2021-05-26
 in_force: 2021-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/299/20210527/fr/xml/fedlex-data-admin-ch-eli-cc-2021-299-20210527-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210527/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/299/20210626/fr/xml/fedlex-data-admin-ch-eli-cc-2021-299-20210626-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210626/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210527/fr"
 
 (Ordonnance COVID-19 manifestations publiques)
 
-du 26 mai 2021 (Etat le 27 mai 2021)
+du 26 mai 2021 (Etat le 26 juin 2021)
 
 Le Conseil fédéral suisse,
 
@@ -62,8 +62,8 @@ Elle ne participe pas aux coûts occasionnés à un canton par le soutien accord
 
 N’entrent pas en ligne de compte les manifestations:
 
-- a. qui, au moment du dépôt de la demande, ne sont pas autorisées à la date prévue, en vertu de l’art. 6*a* ou 6*b*<sup>quinquies</sup> de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^2-1] ou du droit cantonal, ou
-- b. dont l’autorisation est révoquée ultérieurement parce que l’entreprise organisatrice ne respecte pas les conditions prévues aux art. 6*a*, 6*b* et 6*b*<sup>bis</sup> ou 6*b*<sup>ter</sup> ou 6*b*<sup>quinquies</sup> de l’ordonnance COVID-19 situation particulière ou par le droit cantonal, notamment les exigences relatives au plan de protection.
+- a.[^2-1] qui, au moment du dépôt de la demande, ne sont pas autorisées à la date prévue, en vertu de l’art. 16 ou 18 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^2-2] ou du droit cantonal, ou
+- b.[^2-3] dont l’autorisation est révoquée ultérieurement parce que l’entreprise organisatrice ne respecte pas les conditions prévues aux art. 16 et 17 ou à l’art. 18 de l’ordonnance COVID-19 situation particulière ou par le droit cantonal, notamment les exigences relatives au plan de protection.
 
 <sup>4</sup>
 
@@ -76,7 +76,9 @@ Les manifestations doivent:
 
 <sup>6</sup> Elle est tenue de prendre toutes les mesures raisonnablement exigibles pour atténuer le dommage.
 
-[^2-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^2-1]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^2-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^2-3]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 #### Art. 3
 
@@ -92,11 +94,12 @@ Les manifestations doivent:
 
 <sup>1</sup> Pour chaque manifestation, l’entreprise organisatrice dépose préalablement une demande auprès de l’autorité cantonale compétente visée à l’art. 14, al. 1 à 3. Si plusieurs entreprises organisatrices sont associées à l’organisation d’une manifestation, la demande est présentée par celle qui en assume la responsabilité globale.
 
-<sup>2</sup> La demande déposée en vertu de la présente ordonnance doit être conforme à l’autorisation cantonale prévue à l’art. 6*a* ou 6*b*<sup>quinquies</sup> de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^4-1] et par le droit cantonal, en ce qui concerne la date, la durée, le lieu de la manifestation et le nombre de personnes envisagé.
+<sup>2</sup> La demande déposée en vertu de la présente ordonnance doit être conforme à l’autorisation cantonale prévue à l’art. 16 ou 18 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^4-1] et par le droit cantonal, en ce qui concerne la date, la durée, le lieu de la manifestation et le nombre de personnes envisagé.[^4-2]
 
 <sup>3</sup> Les demandes peuvent être déposées jusqu’au 28 février 2022.
 
 [^4-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^4-2]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 #### Art. 5
 
@@ -107,7 +110,7 @@ Les manifestations doivent:
 L’entreprise organisatrice doit déposer la demande accompagnée de documents qui contiennent notamment les éléments suivants:
 
 - a. une description de la manifestation, en particulier le thème, la date et la durée, le lieu, le nombre de personnes envisagé, et la justification de la mesure dans laquelle le public ou le cercle des participants est plus large que celui du canton où elle se déroule;
-- b. l’autorisation cantonale déjà délivrée pour la manifestation, pour autant que l’art. 6*a* ou 6*b*<sup>quinquies</sup> de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^5-1] ou le droit cantonal en exige une; si l’autorisation n’a pas encore été délivrée: une confirmation du canton dans lequel se déroule la manifestation attestant que celle-ci répond aux conditions prévues aux art. 6*a*, 6*b* et 6*b*<sup>bis</sup> ou 6*b*<sup>ter</sup> ou 6*b*<sup>quinquies</sup> de l’ordonnance COVID-19 situation particulière et aux exigences cantonales;
+- b.[^5-1] l’autorisation cantonale déjà délivrée pour la manifestation, pour autant que l’art. 16 ou 18 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^5-2] ou le droit cantonal en exige une; si l’autorisation n’a pas encore été délivrée: une confirmation du canton dans lequel se déroule la manifestation attestant que celle-ci répond aux conditions prévues aux art. 16 et 17 ou à l’art. 18 de l’ordonnance COVID-19 situation particulière et aux exigences cantonales;
 - c. les recettes et dépenses budgétisées, qui prouvent que les coûts sont couverts conformément à l’art. 2, al. 5;
 - d. un justificatif des contributions publiques budgétisées;
 - e. les dispositions prises pour atténuer le dommage;
@@ -124,7 +127,8 @@ Elle doit confirmer:
 
 <sup>3</sup> Elle est tenue de fournir à l’autorité compétente toutes les informations nécessaires à l’évaluation de la demande.
 
-[^5-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^5-1]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^5-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Section 3 Exigences relatives à la forme de la prestation de soutien des cantons
 

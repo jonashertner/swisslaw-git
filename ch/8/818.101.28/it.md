@@ -3,11 +3,11 @@ sr: "818.101.28"
 title: Ordinanza del 26 maggio 2021 sui provvedimenti concernenti eventi pubblici di importanza sovracantonale in relazione all’epidemia di COVID-19 (Ordinanza COVID-19 eventi pubblici)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/299"
 language: it
-version: 2021-05-27
+version: 2021-06-26
 adopted: 2021-05-26
 in_force: 2021-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/299/20210527/it/xml/fedlex-data-admin-ch-eli-cc-2021-299-20210527-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210527/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/299/20210626/it/xml/fedlex-data-admin-ch-eli-cc-2021-299-20210626-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210527/it"
 
 (Ordinanza COVID-19 eventi pubblici)
 
-del 26 maggio 2021 (Stato 27 maggio 2021)
+del 26 maggio 2021 (Stato 26 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -62,8 +62,8 @@ La Confederazione non partecipa ai costi assunti da un Cantone per sostenere:
 
 Non entrano in considerazione gli eventi:
 
-- a. che al momento della presentazione della domanda non sono ammessi, secondo l’articolo 6*a* o 6*b*<sup>quinquies</sup> dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^2-1] o secondo il diritto cantonale, per la data dell’evento prevista; o
-- b. la cui autorizzazione è successivamente revocata perché l’impresa organizzatrice non rispetta le condizioni di autorizzazione previste dagli articoli 6*a,* 6*b* e 6*b*<sup>bis</sup> o 6*b*<sup>ter</sup> o 6*b*<sup>quinquies</sup> dell’ordinanza COVID-19 situazione particolare o dal diritto cantonale, in particolare i requisiti relativi al piano di protezione.
+- a.[^2-1] che al momento della presentazione della domanda non sono ammessi, secondo l’articolo 16 o 18 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^2-2] o secondo il diritto cantonale, per la data dell’evento prevista; o
+- b.[^2-3] la cui autorizzazione è successivamente revocata perché l’impresa organizzatrice non rispetta le condizioni di autorizzazione previste dagli articoli 16 e 17 o 18 dell’ordinanza COVID-19 situazione particolare o dal diritto cantonale, in particolare i requisiti relativi al piano di protezione.
 
 <sup>4</sup>
 
@@ -76,7 +76,9 @@ Gli eventi devono:
 
 <sup>6</sup> È tenuta ad adottare tutti i provvedimenti ragionevolmente esigibili per ridurre il danno.
 
-[^2-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^2-1]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare, in vigore dal 26 giu. 2021 ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^2-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^2-3]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare, in vigore dal 26 giu. 2021 ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 #### Art. 3
 
@@ -92,11 +94,12 @@ Gli eventi devono:
 
 <sup>1</sup> L’impresa organizzatrice presenta anticipatamente una domanda per ogni evento all’autorità cantonale competente di cui all’articolo 14 capoversi 1–3. Se un evento coinvolge più imprese organizzatrici, la domanda è presentata da quella che ne assume l’intera responsabilità.
 
-<sup>2</sup> Per quanto riguarda la data, la durata, il luogo dell’evento e il numero previsto di persone, la domanda presentata secondo la presente ordinanza deve essere conforme all’autorizzazione cantonale secondo l’articolo 6*a* o 6*b*<sup>quinquies</sup> dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^4-1] e secondo il diritto cantonale.
+<sup>2</sup> Per quanto riguarda la data, la durata, il luogo dell’evento e il numero previsto di persone, la domanda presentata secondo la presente ordinanza deve essere conforme all’autorizzazione cantonale secondo l’articolo 16 o 18 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^4-1] e secondo il diritto cantonale.[^4-2]
 
 <sup>3</sup> Le domande possono essere presentate fino al 28 febbraio 2022.
 
 [^4-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^4-2]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare, in vigore dal 26 giu. 2021 ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 #### Art. 5
 
@@ -107,7 +110,7 @@ Gli eventi devono:
 L’impresa organizzatrice deve presentare la domanda accompagnata da documenti che contengono in particolare le seguenti indicazioni:
 
 - a. una descrizione dell’evento, in particolare il tema, la data e la durata, il luogo, il numero previsto di persone e la motivazione della misura in cui il pubblico o la cerchia dei partecipanti si estende oltre il Cantone in cui si svolge l’evento;
-- b. l’autorizzazione cantonale già rilasciata per l’evento, qualora sia necessaria un’autorizzazione secondo l’articolo 6*a* o 6*b*<sup>quinquies</sup> dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^5-1] o secondo il diritto cantonale; se l’autorizzazione non è ancora stata rilasciata, una conferma del Cantone in cui si svolge l’evento secondo la quale quest’ultimo soddisfa le condizioni previste dagli articoli 6*a,* 6*b* e 6*b*<sup>bis</sup> o 6*b*<sup>ter</sup> o 6*b*<sup>quinquies</sup> dell’ordinanza COVID-19 situazione particolare e le condizioni cantonali;
+- b.[^5-1] l’autorizzazione cantonale già rilasciata per l’evento, qualora sia necessaria un’autorizzazione secondo l’articolo 16 o 18 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^5-2] o secondo il diritto cantonale; se l’autorizzazione non è ancora stata rilasciata, una conferma del Cantone in cui si svolge l’evento secondo la quale quest’ultimo soddisfa le condizioni previste dagli articoli 16 e 17 o 18 dell’ordinanza COVID-19 situazione particolare e le condizioni cantonali;
 - c. le entrate e le uscite preventivate che dimostrano la copertura dei costi secondo l’articolo 2 capoverso 5;
 - d. un giustificativo dei contributi pubblici preventivati;
 - e. i provvedimenti per ridurre il danno;
@@ -124,7 +127,8 @@ Deve confermare che:
 
 <sup>3</sup> È tenuta a fornire all’autorità competente tutte le informazioni necessarie per la valutazione della domanda.
 
-[^5-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^5-1]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare, in vigore dal 26 giu. 2021 ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^5-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Sezione 3: Requisiti relativi alla forma della prestazione di sostegno dei Cantoni
 

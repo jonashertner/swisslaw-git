@@ -3,11 +3,11 @@ sr: "818.101.28"
 title: Verordnung vom 26. Mai 2021 über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Verordnung Publikumsanlässe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/299"
 language: de
-version: 2021-05-27
+version: 2021-06-26
 adopted: 2021-05-26
 in_force: 2021-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/299/20210527/de/xml/fedlex-data-admin-ch-eli-cc-2021-299-20210527-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210527/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/299/20210626/de/xml/fedlex-data-admin-ch-eli-cc-2021-299-20210626-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210626/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/299/20210527/de"
 
 (Covid-19-Verordnung Publikumsanlässe)
 
-vom 26. Mai 2021 (Stand am 27. Mai 2021)
+vom 26. Mai 2021 (Stand am 26. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -62,20 +62,23 @@ Er beteiligt sich nicht an den Kosten, die einem Kanton aus Unterstützungen ent
 
 Ausser Betracht fallen Veranstaltungen:
 
-- a. die im Zeitpunkt der Gesuchseinreichung gemäss Artikel 6*a* beziehungsweise 6*b*<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^2-1] oder nach dem kantonalen Recht für das geplante Veranstaltungsdatum nicht zulässig sind; oder
-- b. deren Bewilligung nachträglich widerrufen wird, weil das Veranstaltungsunternehmen die Bewilligungsvoraussetzungen nach den Artikeln 6*a,* 6*b* und 6*b*<sup>bis</sup> beziehungsweise 6*b*<sup>ter</sup> oder nach Artikel 6*b*<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage oder nach dem kantonalen Recht nicht einhält, insbesondere die Anforderungen an das Schutzkonzept.
+- a.[^2-1] die im Zeitpunkt der Gesuchseinreichung gemäss Artikel 16 beziehungsweise 18 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^2-2] oder nach dem kantonalen Recht für das geplante Veranstaltungsdatum nicht zulässig sind; oder
+- b.[^2-3] deren Bewilligung nachträglich widerrufen wird, weil das Veranstaltungsunternehmen die Bewilligungsvoraussetzungen nach den Artikeln 16 und 17 oder nach Artikel 18 der Covid-19-Verordnung besondere Lage oder nach dem kantonalen Recht nicht einhält, insbesondere die Anforderungen an das Schutzkonzept.
 
-<sup>4</sup> b. eine überkantonale Bedeutung aufweisen in dem Sinne, dass sie einen Kreis von Besucherinnen und Besuchern oder Teilnehmenden ansprechen, der über den Kanton hinausgeht, in dem die Veranstaltung stattfindet.
+<sup>4</sup>
 
 Die Veranstaltungen müssen:
 
 - a. Publikumsanlässe sein, die der Öffentlichkeit zugänglich und für mehr als 1000 Personen pro Tag konzipiert sind;
+- b. eine überkantonale Bedeutung aufweisen in dem Sinne, dass sie einen Kreis von Besucherinnen und Besuchern oder Teilnehmenden ansprechen, der über den Kanton hinausgeht, in dem die Veranstaltung stattfindet.
 
 <sup>5</sup> Das Veranstaltungsunternehmen muss gegenüber dem Kanton belegen, dass die Veranstaltung kostendeckend durchgeführt werden kann.
 
 <sup>6</sup> Es ist verpflichtet, alle zumutbaren Vorkehrungen zur Schadensminderung zu treffen.
 
-[^2-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^2-1]: Fassung gemäss Anhang 3 Ziff. 2 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^2-2]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^2-3]: Fassung gemäss Anhang 3 Ziff. 2 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 #### Art. 3
 
@@ -91,11 +94,12 @@ Die Veranstaltungen müssen:
 
 <sup>1</sup> Das Veranstaltungsunternehmen reicht pro Veranstaltung vorgängig ein Gesuch bei der zuständigen kantonalen Behörde nach Artikel 14 Absätze 1–3 ein. Sind an einer Veranstaltung mehrere Veranstaltungsunternehmen beteiligt, so reicht dasjenige Unternehmen das Gesuch ein, das die Gesamtverantwortung für die Veranstaltung trägt.
 
-<sup>2</sup> Das Gesuch nach dieser Verordnung muss bezüglich Zeitpunkt, Dauer, Ort und geplanter Anzahl Personen der Veranstaltung der kantonalen Bewilligung nach Artikel 6*a* beziehungsweise 6*b*<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^4-1] und nach dem kantonalen Recht entsprechen.
+<sup>2</sup> Das Gesuch nach dieser Verordnung muss bezüglich Zeitpunkt, Dauer, Ort und geplanter Anzahl Personen der Veranstaltung der kantonalen Bewilligung nach Artikel 16 beziehungsweise 18 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^4-1] und nach dem kantonalen Recht entsprechen.[^4-2]
 
 <sup>3</sup> Gesuche können bis zum 28. Februar 2022 eingereicht werden.
 
 [^4-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^4-2]: Fassung gemäss Anhang 3 Ziff. 2 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
 
 #### Art. 5
 
@@ -106,7 +110,7 @@ Die Veranstaltungen müssen:
 Das Veranstaltungsunternehmen hat mit dem Gesuch Unterlagen einzureichen, die insbesondere folgende Angaben enthalten:
 
 - a. eine Beschreibung der Veranstaltung, insbesondere Thema, Datum und Dauer, Ort, geplante Anzahl Personen sowie Begründung, inwiefern der Kreis der Besucherinnen und Besucher oder der Teilnehmenden über den Kanton hinausgeht, in dem die Veranstaltung stattfindet;
-- b. die bereits erteilte kantonale Bewilligung für die Veranstaltung, sofern eine Bewilligung nach Artikel 6*a* beziehungsweise 6*b*<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^5-1] oder dem kantonalen Recht erforderlich ist; falls die Bewilligung noch nicht erteilt ist: eine Bestätigung des Kantons, in dem die Veranstaltung stattfindet, dass die Veranstaltung die Voraussetzungen nach den Artikeln 6*a*, 6*b* und 6*b*<sup>bis</sup> beziehungsweise 6*b*<sup>ter</sup> oder nach Artikel 6*b*<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage und die kantonalen Voraussetzungen erfüllt;
+- b.[^5-1] die bereits erteilte kantonale Bewilligung für die Veranstaltung, sofern eine Bewilligung nach Artikel 16 beziehungsweise 18 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^5-2] oder dem kantonalen Recht erforderlich ist; falls die Bewilligung noch nicht erteilt ist: eine Bestätigung des Kantons, in dem die Veranstaltung stattfindet, dass die Veranstaltung die Voraussetzungen nach den Artikeln 16 und 17 oder nach Artikel 18 der Covid-19-Verordnung besondere Lage und die kantonalen Voraussetzungen erfüllt;
 - c. die budgetierten Einnahmen und Ausgaben, welche die Kostendeckung nach Artikel 2 Absatz 5 belegen;
 - d. einen Ausweis über budgetierte staatliche Beiträge;
 - e. die Vorkehrungen zur Schadensminderung;
@@ -123,7 +127,8 @@ Es hat zu bestätigen, dass es:
 
 <sup>3</sup> Es ist verpflichtet, der zuständigen Behörde alle für die Beurteilung des Gesuchs notwendigen Informationen zu liefern.
 
-[^5-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^5-1]: Fassung gemäss Anhang 3 Ziff. 2 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^5-2]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## 3. Abschnitt: Anforderungen an die Ausgestaltung der Unterstützungsleistung der Kantone
 
