@@ -4,13 +4,12 @@ number: "823.2"
 title: Verordnung über den Verkehr mit Heilmitteln
 short: "Heilmittelverordnung, HMV"
 language: de
-version: 2011-05-01
-valid_until: 2021-06-25
-version_adopted: 2011-04-12
+version: 2021-06-26
+version_adopted: 2021-06-22
 adopted: 2009-06-30
 in_force: 2009-07-11
 url: "https://bgs.zg.ch/app/de/texts_of_law/823.2"
-pdf: "https://bgs.zg.ch/api/de/versions/819/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2245/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/819/pdf_file"
 
 (Heilmittelverordnung, HMV)
 
-Vom 30. Juni 2009 (Stand 1. Mai 2011)
+Vom 30. Juni 2009 (Stand 26. Juni 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -61,9 +60,9 @@ beschliesst:
 
 <sup>2</sup> Mit der Erteilung einer Bewilligung zur Führung einer öffentlichen Apotheke oder Drogerie gilt diese Bewilligung im Rahmen der Abgabekompetenz als erteilt.
 
-<sup>3</sup> Werden Arzneimittel nach eigener Formel (Hausspezialitäten) defekturmässig hergestellt, sind diese der Kantonalen Heilmittelkontrolle vor der ersten Abgabe zur Genehmigung vorzulegen. Es sind die für die Beurteilung erforderlichen Angaben und Unterlagen, insbesondere die Bezeichnung, die Zusammensetzung, die Kennzeichnung und die Arzneimittelinformation einzureichen.
+<sup>3</sup> Werden Arzneimittel nach eigener Formel (Hausspezialitäten) defekturmässig hergestellt, sind diese der Kantonsapothekerin oder dem Kantonsapotheker 30 Tage vor der ersten Abgabe schriftlich zu melden. Es sind die für die Beurteilung erforderlichen Angaben und Unterlagen, insbesondere die Bezeichnung, die Zusammensetzung, die Kennzeichnung und die Arzneimittelinformation einzureichen.
 
-<sup>4</sup> Die Kantonale Heilmittelkontrolle führt ein Verzeichnis der genehmigten Hausspezialitäten. Sie löscht diese nach zehn Jahren aus dem Verzeichnis. Soll die Hausspezialität über diesen Zeitpunkt hinaus defekturmässig hergestellt werden, ist eine erneute Genehmigung erforderlich.
+<sup>4</sup> Die Kantonsapothekerin oder der Kantonsapotheker führt ein Verzeichnis der gemeldeten Hausspezialitäten. Die Kantonsapothekerin oder der Kantonsapotheker löscht diese nach zehn Jahren aus dem Verzeichnis. Soll die Hausspezialität über diesen Zeitpunkt hinaus defekturmässig hergestellt werden, ist eine erneute Meldung erforderlich.
 
 [^3-1]: SR [812.212.1](https://db.clex.ch/link/Bund/812.212.1/de)
 [^3-2]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
@@ -124,7 +123,7 @@ beschliesst:
 
 <sup>2</sup> Bei auffälligen Rezepten überzeugt sich die Abgabestelle, dass das Rezept von einer berechtigten Person ausgestellt wurde.
 
-<sup>3</sup> Auffällige oder missbräuchlich verwendete Rezepte sind zurückzubehalten und der Kantonalen Heilmittelkontrolle zuzustellen.
+<sup>3</sup> Auffällige oder missbräuchlich verwendete Rezepte sind zurückzubehalten und der Kantonsapothekerin oder dem Kantonsapotheker zuzustellen.
 
 <sup>4</sup> Auf Rezepten für verschreibungspflichtige Heilmittel sind bei jeder Abgabe der Name der Apotheke, die abgegebene Menge und das Datum der Abgabe zu vermerken.
 
@@ -186,7 +185,7 @@ beschliesst:
 
 **Plangenehmigung**
 
-<sup>1</sup> Wird ein Detailhandelsgeschäft neu eingerichtet, verlegt, umgebaut oder werden seine Einrichtungen wesentlich verändert, so sind die entsprechenden Pläne vor Baubeginn der Kantonalen Heilmittelkontrolle zur Genehmigung vorzulegen.
+<sup>1</sup> Wird ein Detailhandelsgeschäft neu eingerichtet, verlegt, umgebaut oder werden seine Einrichtungen wesentlich verändert, so sind die entsprechenden Pläne vor Baubeginn der Kantonsapothekerin oder dem Kantonsapotheker zur Genehmigung vorzulegen.
 
 #### § 14
 
@@ -205,9 +204,9 @@ beschliesst:
 
 **Abgabebeschränkungen und Vermittlung**
 
-<sup>1</sup> Arzneimittel der Abgabekategorien A bis D dürfen nicht in Selbstbedienung angeboten werden.
+<sup>1</sup> Arzneimittel der Abgabekategorien A, B und D dürfen nicht in Selbstbedienung angeboten werden.
 
-<sup>2</sup> Arzneimittel der Abgabekategorien A bis D dürfen nur im Rahmen von Haus- und Bestandesbesuchen sowie im Notfall ausserhalb der ständigen Geschäftsräume abgeben werden. Die Kantonale Heilmittelkontrolle kann für Arzneimittel der Abgabekategorie C und D die Abgabe an Messen und Ausstellungen bewilligen.
+<sup>2</sup> Arzneimittel der Abgabekategorien A, B und D dürfen nur im Rahmen von Haus- und Bestandesbesuchen sowie im Notfall ausserhalb der ständigen Geschäftsräume abgeben werden. Die Kantonsapothekerin oder der Kantonsapotheker kann für Arzneimittel der Abgabekategorie D die Abgabe an Messen und Ausstellungen bewilligen.
 
 <sup>3</sup> Es ist verboten, Arzneimittel an Personen abzugeben, von denen die abgebende Person weiss oder annehmen muss, dass sie sie missbräuchlich verwenden.
 
@@ -237,7 +236,7 @@ beschliesst:
 
 **Verzeichnis**
 
-<sup>1</sup> Die Kantonale Heilmittelkontrolle kann über Detailhandelsgeschäfte, die nicht bereits im Medizinalberuferegister im Sinne des Medizinalberufegesetzes[^19-1] enthalten sind, ein Verzeichnis mit folgenden Angaben auch im Internet veröffentlichen:
+<sup>1</sup> Die Kantonsapothekerin oder der Kantonsapotheker kann über Detailhandelsgeschäfte, die nicht bereits im Medizinalberuferegister im Sinne des Medizinalberufegesetzes[^19-1] enthalten sind, ein Verzeichnis mit folgenden Angaben auch im Internet veröffentlichen:
 
 - a) Name und Adresse des Detailhandelsgeschäfts;
 - b) fachlich verantwortliche Person;
