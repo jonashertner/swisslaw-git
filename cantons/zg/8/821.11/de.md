@@ -4,13 +4,12 @@ number: "821.11"
 title: Verordnung über das Gesundheitswesen im Kanton Zug
 short: "Gesundheitsverordnung, GesV"
 language: de
-version: 2019-01-01
-valid_until: 2021-06-25
-version_adopted: 2018-01-16
+version: 2021-06-26
+version_adopted: 2021-06-22
 adopted: 2009-06-30
 in_force: 2009-07-11
 url: "https://bgs.zg.ch/app/de/texts_of_law/821.11"
-pdf: "https://bgs.zg.ch/api/de/versions/1867/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2244/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1867/pdf_file"
 
 (Gesundheitsverordnung, GesV)
 
-Vom 30. Juni 2009 (Stand 1. Januar 2019)
+Vom 30. Juni 2009 (Stand 26. Juni 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -75,18 +74,32 @@ beschliesst:
 
 #### § 4
 
-**Heilmittelinspektorin oder Heilmittelinspektor**
+**Kantonsapothekerin oder der Kantonsapotheker**
 
-<sup>1</sup> Die Heilmittelinspektorin oder der Heilmittelinspektor vollzieht die durch die Gesetzgebung übertragenen Aufgaben und unterstützt die Gesundheitsdirektion in pharmazeutischen Fragen.
+<sup>1</sup> Die Kantonsapothekerin oder der Kantonsapotheker vollzieht die durch die Gesetzgebung übertragenen Aufgaben und unterstützt die Gesundheitsdirektion in pharmazeutischen Fragen.
 
-<sup>2</sup> Die Heilmittelinspektorin oder der Heilmittelinspektor hat insbesondere:
+<sup>2</sup> Die Kantonsapothekerin oder der Kantonsapotheker hat insbesondere:
 
 - a) den Verkehr und die Abgabe von Heilmitteln zu überwachen;
 - b) die heilmittelrechtlichen Detailhandelsgeschäfte im Sinne von Art. 30 Heilmittelgesetz[^4-1] zu kontrollieren;
 - c) die Berufsausübung im Zusammenhang mit Heilmitteln zu überprüfen;
-- d) die Kantonsärztin oder den Kantonsarzt und die Kantonstierärztin oder den Kantonstierarzt in Fragen des Heilmittelwesens zu unterstützen.
+- d) die Kantonsärztin oder den Kantonsarzt und die Kantonstierärztin oder den Kantonstierarzt in Fragen des Heilmittelwesens zu unterstützen;
+- e) die Berufstätigkeit von Apothekerinnen und Apothekern und von Drogistinnen und Drogisten zu überwachen.
 
 [^4-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
+
+#### § 4a
+
+**Heilmittelinspektorin oder Heilmittelinspektor**
+
+<sup>1</sup> Die Heilmittelinspektorin oder der Heilmittelinspektor vollzieht die durch die Gesetzgebung übertragenen Aufgaben und unterstützt die Gesundheitsdirektion in pharmazeutischen Fragen.
+
+<sup>2</sup> Die Heilmittelinspektorin oder der Heilmitteinspektor hat insbesondere:
+
+- a) den Verkehr und die Abgabe von Heilmitteln im Grosshandel zu überwachen;
+- b) die heilmittelrechtlichen Grosshandelsbetriebe im Sinne von Art. 28 Heilmittelgesetz[^4a-1] zu kontrollieren.
+
+[^4a-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
 
 ## 2. Universitäre Medizinalberufe
 
