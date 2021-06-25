@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-05-28
-valid_until: 2021-06-25
-version_adopted: 2021-05-27
+version: 2021-06-26
+valid_until: 2021-07-31
+version_adopted: 2021-06-24
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2284/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2301/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2284/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 28.05.2021)
+vom 04.11.2020 (Stand 26.06.2021)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 31 Absatz 1, Artikel 33, Artikel 40 Absatz 1 und 2, Artikel 58 und Artikel 59 Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-1], Artikel 2, Artikel 7, Artikel 8 und Artikel 9 Absatz 2 der eidgenössischen Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^ingress-2] sowie Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19-Verordnung 3)[^ingress-3],
+gestützt auf Artikel 31 Absatz 1, Artikel 33, Artikel 40 Absatz 1 und 2, Artikel 58 und Artikel 59 Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-1], Artikel 2, Artikel 22, Artikel 23 und Artikel 24 Absatz 2 und 3 der eidgenössischen Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^ingress-2] sowie Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19-Verordnung 3)[^ingress-3],
 
 auf Antrag der Staatskanzlei,
 
@@ -45,7 +45,7 @@ beschliesst:
 
 ## 2 Kantonale Massnahmen
 
-### 2.1 Restaurationsbetriebe
+### 2.1 Restaurations-, Bar- und Clubbetriebe
 
 #### Art. 2–2a
 
@@ -55,7 +55,7 @@ beschliesst:
 
 **Kontaktdaten von Gästen**
 
-<sup>1</sup> Die Erhebung von Kontaktdaten richtet sich grundsätzlich nach der Covid-19-Verordnung besondere Lage.
+<sup>1</sup> Die Erhebung von Kontaktdaten in Restaurations-, Bar- und Clubbetrieben richtet sich grundsätzlich nach der Covid-19-Verordnung besondere Lage.
 
 <sup>2</sup> Es sind folgende Angaben zu erheben:
 
@@ -65,7 +65,7 @@ beschliesst:
 - d …
 - e Tisch- oder Sitzplatznummer.
 
-<sup>3</sup> Die Kontaktdaten sind in Abweichung von Artikel 5 Absatz 2 Covid-19-Verordnung besondere Lage unaufgefordert an die zentrale Datenbank gemäss Artikel 3a zu übermitteln.
+<sup>3</sup> Die Kontaktdaten sind in Abweichung von Artikel 11 Absatz 2 Covid-19-Verordnung besondere Lage unaufgefordert an die zentrale Datenbank gemäss Artikel 3a zu übermitteln.
 
 <sup>4</sup> Die Übermittlung gemäss Absatz 3 hat automatisch oder mindestens einmal innert 24 Stunden zu erfolgen. Im Übrigen legt die Gesundheits-, Sozial- und Integrationsdirektion die Form der Übermittlung fest.
 
@@ -117,7 +117,7 @@ beschliesst:
 
 **Kontaktdaten von im Betrieb arbeitenden Personen**
 
-<sup>1</sup> Die Betreiberinnen und Betreiber von Restaurationsbetrieben müssen eine Liste der im jeweiligen Betrieb arbeitenden Personen führen.
+<sup>1</sup> Die Betreiberinnen und Betreiber von Restaurations-, Bar- und Clubbetrieben müssen eine Liste der im jeweiligen Betrieb arbeitenden Personen führen.
 
 <sup>2</sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen geführten elektronischen Liste mit den jeweiligen Einsatzzeiten im Betrieb aufzubewahren.
 
@@ -125,19 +125,19 @@ beschliesst:
 
 **Empfehlung der Verwendung der SwissCovid-App**
 
-<sup>1</sup> Die Betreiberinnen und Betreiber von Restaurationsbetrieben müssen auf die Empfehlung zur Verwendung der SwissCovid-App mittels Aushang, Flyern oder anderen geeigneten Medien hinweisen.
+<sup>1</sup> Die Betreiberinnen und Betreiber von Restaurations-, Bar- und Clubbetrieben müssen auf die Empfehlung zur Verwendung der SwissCovid-App mittels Aushang, Flyern oder anderen geeigneten Medien hinweisen.
 
 ### 2.2 Veranstaltungen
 
-#### Art. 6
+#### Art. 6–6a
 
 **…**
 
-#### Art. 6a
+#### Art. 6b
 
-**Politische und zivilgesellschaftliche Kundgebungen**
+**Kontaktdaten von Besucherinnen und Besuchern**
 
-<sup>1</sup> In Abweichung von Artikel 6c Absatz 2 der Covid-19-Verordnung besondere Lage sind politische und zivilgesellschaftliche Kundgebungen von mehr als 100 Personen verboten.
+<sup>1</sup> Für die Erhebung der Kontaktdaten von Besucherinnen und Besuchern von Veranstaltungen gilt Artikel 3 sinngemäss, sofern ein mit einem Restaurationsbetrieb vergleichbares Konsumationsangebot besteht.
 
 #### Art. 7–8
 
@@ -151,25 +151,7 @@ beschliesst:
 
 ### 2.3 Bildungseinrichtungen
 
-#### Art. 9
-
-**Grundsatz**
-
-<sup>1</sup> In Ergänzung zu Artikel 3b der Covid-19-Verordnung besondere Lage muss jede Person in allen Innenräumen von Schulen eine Gesichtsmaske tragen.
-
-#### Art. 10
-
-**Geltungsbereich**
-
-<sup>1</sup> Diese Pflicht gilt in Schulen gemäss der Volksschulgesetzgebung, der Mittelschulgesetzgebung, der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung sowie der Musikschulgesetzgebung.
-
-<sup>2</sup> Diese Pflicht gilt nicht
-
-- a für Schülerinnen und Schüler im Kindergarten und im ersten bis vierten Schuljahr der Primarstufe,
-- b für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
-- c für alle Personen in Situationen, in denen das Tragen einer Gesichtsmaske den Unterricht wesentlich erschwert, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind.
-
-#### Art. 11–12
+#### Art. 9–12
 
 **…**
 
@@ -189,50 +171,30 @@ beschliesst:
 
 #### Art. 16a
 
-**Statutarische Versammlungen und Abstimmungsversammlungen**
-
-<sup>1</sup> In Abweichung der Gesetzgebung über das Verfahren bei Boden- und Waldverbesserungen erfolgen statutarische Versammlungen von Körperschaften und Abstimmungsversammlungen nicht körperschaftlich organisierter Personen gemäss Artikel 21 der Verordnung vom 5. November 1997 über das Verfahren bei Boden- und Waldverbesserungen (VBWV)[^16a-1] auf dem Schriftweg. Die Bestimmungen des Gemeindegesetzes vom 16. März 1998 (GG)[^16a-2] bleiben vorbehalten.
-
-<sup>2</sup> Anstelle einer Orientierungsversammlung gemäss Artikel 19 VBWV informiert die Gemeinde die Einwohnerinnen und Einwohner sowie die bekannten Grundeigentümerinnen und -eigentümer im Beizugsgebiet auf schriftlichem Weg.
-
-[^16a-1]: BSG [913.111](https://www.belex.sites.be.ch/data/913.111/de)
-[^16a-2]: BSG [170.11](https://www.belex.sites.be.ch/data/170.11/de)
+**…**
 
 ### 2.7 Justizvollzug
 
-#### Art. 16b
+#### Art. 16b–16c
 
-**Maskentragpflicht**
-
-<sup>1</sup> In Ergänzung zu Artikel 3b der Covid-Verordnung besondere Lage muss jede Person in den Innenräumen der Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 der Verordnung vom 22. August 2018 über den Justizvollzug (Justizvollzugsverordnung, JVV)[^16b-1] eine Gesichtsmaske tragen.
-
-<sup>2</sup> Die Pflicht gemäss Absatz 1 gilt nicht, wenn sich eingewiesene Personen in ihrer Zelle mit geschlossener Tür aufhalten.
-
-[^16b-1]: BSG [341.11](https://www.belex.sites.be.ch/data/341.11/de)
-
-#### Art. 16c
-
-**Quarantäne**
-
-<sup>1</sup> Aus der Freiheit eintretende Personen aller Vollzugs- und Haftarten können bis zu zehn Tage ab Eintritt in Quarantäne gesetzt werden.
-
-<sup>2</sup> Eingewiesene Personen, die sich in Quarantäne befinden, können sich während einer Stunde am Tag ausserhalb ihrer Zelle an der frischen Luft aufhalten.
-
-<sup>2a</sup> Die Quarantäne kann frühestens am siebten Tag bei Vorliegen eines aktuellen negativen Covid-19-Tests aufgehoben werden.
-
-<sup>3</sup> Im Übrigen gelten die Bestimmungen zur Kontaktquarantäne gemäss Covid-19-Verordnung besondere Lage sinngemäss.
+**…**
 
 #### Art. 16d
 
 **Besuche**
 
-<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV sind unter Einhaltung von Schutzmassnahmen, namentlich Trennscheiben, Hygienemasken und Abstandsregeln, beschränkt zulässig.
+<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 der Verordnung vom 22. August 2018 über den Justizvollzug (Justizvollzugsverordnung, JVV)[^16d-1] sind unter Einhaltung von Schutzmassnahmen, namentlich Trennscheiben, Hygienemasken und Abstandsregeln, zulässig.
 
-<sup>1a</sup> Die Zulassung von Besucherinnen und Besuchern kann vom Vorliegen eines aktuellen negativen Covid-19-Tests abhängig gemacht werden.
+<sup>1a</sup> …
+
+<sup>1b</sup> Bei Besucherinnen und Besuchern, die über ein Covid-Zertifikat gemäss der eidgenössischen Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)[^16d-2] verfügen, kann auf die Einhaltung der Schutzmassnahmen verzichtet werden.
 
 <sup>2</sup> Das Besuchskontingent gemäss Artikel 68 Absatz 1 JVV kann aus organisatorischen Gründen von der Vollzugseinrichtung eingeschränkt werden.
 
 <sup>3</sup> Das Amt für Justizvollzug sieht zum Ausgleich von Beschränkungen des Besuchskontingents Ersatzmassnahmen vor wie Videotelefonie, die an das Besuchskontingent angerechnet werden können.
+
+[^16d-1]: BSG [341.11](https://www.belex.sites.be.ch/data/341.11/de)
+[^16d-2]: SR [818.102.2](https://db.clex.ch/link/Bund/818.102.2/de)
 
 #### Art. 16e
 
@@ -250,11 +212,11 @@ beschliesst:
 
 **Vorgehen nach Ausgang und Urlaub**
 
-<sup>1</sup> Nach der Rückkehr in die Vollzugseinrichtung werden eingewiesene Personen auf eine Ansteckung mit dem Coronavirus getestet.
+<sup>1</sup> Nach der Rückkehr in die Vollzugseinrichtung werden eingewiesene Personen auf eine Ansteckung mit dem Coronavirus getestet. Ausgenommen sind eingewiesene Personen, die über ein Covid-Zertifikat gemäss Covid-19-Verordnung Zertifikate verfügen.
 
-<sup>2</sup> Unmittelbar nach der Rückkehr werden sie vom Personal zu Kontakten während des Aufenthalts ausserhalb der Vollzugseinrichtung befragt.
+<sup>2</sup> Unmittelbar nach der Rückkehr können sie vom Personal zu Kontakten während des Aufenthalts ausserhalb der Vollzugseinrichtung befragt werden.
 
-<sup>3</sup> Ergibt sich ein Verdacht auf Kontakt zu einer mit dem Coronavirus erkrankten Person, müssen sich eingewiesene Personen in Quarantäne gemäss Artikel 16c begeben.
+<sup>3</sup> …
 
 #### Art. 16f
 
@@ -264,11 +226,7 @@ beschliesst:
 
 #### Art. 16g
 
-**Vollzugsunterbruch**
-
-<sup>1</sup> Ein Vollzugsunterbruch gemäss Artikel 17 des Gesetzes vom 23. Januar 2018 über den Justizvollzug (Justizvollzugsgesetz, JVG)[^16g-1] aufgrund des Coronavirus wird nur bei Vorliegen einer ärztlich attestierten Gefährdung der betroffenen eingewiesenen Person gewährt.
-
-[^16g-1]: BSG [341.1](https://www.belex.sites.be.ch/data/341.1/de)
+**…**
 
 #### Art. 16h
 
@@ -276,7 +234,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Justizvollzug ergreift weitere notwendige organisatorische Massnahmen, um
 
-- a die Kontakte innerhalb der Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV möglichst gering zu halten,
+- a …
 - b zu verhindern, dass das Coronavirus von aussen eindringt.
 
 ## 3 Zuständigkeiten und Vollzug
@@ -287,9 +245,9 @@ beschliesst:
 
 **Kontrolle**
 
-<sup>1</sup> Die Kantonspolizei ist zuständig für die Kontrollen in öffentlichen Einrichtungen und Betrieben, bei öffentlichen Veranstaltungen sowie in Wintersportorten und Skigebieten.
+<sup>1</sup> Die Kantonspolizei ist zuständig für die Kontrollen in öffentlichen Einrichtungen und Betrieben sowie bei öffentlichen Veranstaltungen.
 
-<sup>2</sup> Unter Vorbehalt von Artikel 11 Absatz 1 der Covid-19-Verordnung besondere Lage ist der Fachbereich Sicherheit und Gesundheit am Arbeitsplatz der Wirtschafts-, Energie- und Umweltdirektion verantwortlich für die Kontrollen in nichtöffentlichen Betrieben.
+<sup>2</sup> Unter Vorbehalt von Artikel 26 Absatz 1 der Covid-19-Verordnung besondere Lage ist der Fachbereich Sicherheit und Gesundheit am Arbeitsplatz der Wirtschafts-, Energie- und Umweltdirektion verantwortlich für die Kontrollen in nichtöffentlichen Betrieben.
 
 <sup>3</sup> Vorbehalten bleiben die Zuständigkeiten der Gesundheits-, Sozial- und Integrationsdirektion im Gesundheitswesen sowie weiterer kantonaler Stellen.
 
@@ -303,9 +261,9 @@ beschliesst:
 
 **Massnahmen**
 
-<sup>1</sup> Die Regierungsstatthalterinnen und Regierungsstatthalter sind zuständig für die Anordnung von Massnahmen nach Artikel 9 Absatz 2 der Covid-19-Verordnung besondere Lage. Vorbehalten bleiben die Zuständigkeiten des Regierungsrates gemäss den Artikeln 20b und 20c.
+<sup>1</sup> Die Regierungsstatthalterinnen und Regierungsstatthalter sind zuständig für die Anordnung von Massnahmen nach Artikel 24 Absatz 3 der Covid-19-Verordnung besondere Lage.
 
-<sup>2</sup> Die Kantonspolizei ordnet die Massnahmen nach Artikel 9 Absatz 2 der Covid-19-Verordnung besondere Lage anstelle der Regierungsstatthalterinnen oder des Regierungsstatthalters an, wenn die Anordnung keinen Aufschub duldet.
+<sup>2</sup> Die Kantonspolizei ordnet die Massnahmen nach Artikel 24 Absatz 3 der Covid-19-Verordnung besondere Lage anstelle der Regierungsstatthalterinnen oder des Regierungsstatthalters an, wenn die Anordnung keinen Aufschub duldet.
 
 <sup>3</sup> Ordnet die Kantonspolizei eine Massnahme an, erstattet sie der Regierungsstatthalterinnen oder dem Regierungsstatthalter umgehend Meldung.
 
@@ -315,21 +273,19 @@ beschliesst:
 
 #### Art. 17b
 
-**Restaurationsbetriebe**
-
-<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist die zuständige Behörde für Meldungen von Restaurationsbetrieben betreffend Angebote für Berufschauffeurinnen und -chauffeure sowie andere Berufsleute gemäss Artikel 5a Absatz 2 Buchstabe d der Covid-19-Verordnung besondere Lage.
+**…**
 
 #### Art. 17c
 
 **Kontaktquarantäne und Absonderung**
 
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist die zuständige Behörde für Massnahmen betreffend die Kontaktquarantäne und die Absonderung gemäss Abschnitt 2a der Covid-19-Verordnung besondere Lage.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist die zuständige Behörde für Massnahmen betreffend die Kontaktquarantäne und die Absonderung gemäss Abschnitt 3 der Covid-19-Verordnung besondere Lage.
 
 #### Art. 18
 
 **Erleichterungen**
 
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist zuständig, über Gesuche um Erleichterungen gestützt auf Artikel 7 Absatz 1 der Covid-19-Verordnung besondere Lage zu beschliessen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist zuständig, über Gesuche um Erleichterungen gestützt auf Artikel 22 der Covid-19-Verordnung besondere Lage zu beschliessen.
 
 <sup>2</sup> …
 
@@ -337,7 +293,7 @@ beschliesst:
 
 **Anordnung zusätzlicher Massnahmen**
 
-<sup>1</sup> Für die Vorbereitung und Anordnung zusätzlicher Massnahmen gestützt auf Artikel 8 der Covid-19-Verordnung besondere Lage gelten die folgenden Zuständigkeiten:
+<sup>1</sup> Für die Vorbereitung und Anordnung zusätzlicher Massnahmen gestützt auf Artikel 23 der Covid-19-Verordnung besondere Lage gelten die folgenden Zuständigkeiten:
 
 - a das Kantonsarztamt, wenn zur Eindämmung der Epidemie die Massnahmen unverzüglich angeordnet werden müssen und diese örtlich begrenzt sowie zeitlich befristet sind,
 - b der Regierungsrat in allen übrigen Fällen, auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion.
@@ -355,39 +311,17 @@ beschliesst:
   - 1\. ihre Kapazitäten im stationären Bereich zur Verfügung zu stellen oder auf Abruf bereitzuhalten, und
   - 2\. medizinisch nicht dringend angezeigte Untersuchungen und Behandlungen zu beschränken oder einzustellen.
 
-#### Art. 20a
+#### Art. 20a–20c
 
-**Bewilligung für Betreiber von Skigebieten**
-
-<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig für die Erteilung der Bewilligung gemäss Artikel 5c Absatz 2 der Covid-19-Verordnung besondere Lage sowie für den Widerruf einer erteilten Bewilligung oder den Erlass zusätzlicher Vorgaben gemäss Artikel 5c Absatz 5 der Covid-19-Verordnung besondere Lage.
-
-<sup>2</sup> Vorbehalten bleiben die Zuständigkeiten der Fachdirektionen und des Regierungsrates gemäss den Artikeln 20b und 20c.
-
-#### Art. 20b
-
-**Epidemiologische Lage**
-
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist zuständig für die laufende Einschätzung der epidemiologischen Lage im Sinne von Artikel 8 Absatz 1 Buchstabe a der Covid-19-Verordnung besondere Lage. Sie steuert und kommuniziert das Ergebnis ihrer Einschätzung mit einem Ampelsystem.
-
-<sup>2</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist an die Beurteilung der aktuellen epidemiologischen Lage, der Kapazitäten für das Contact-Tracing und in der Gesundheitsversorgung sowie der Testkapazitäten durch die Gesundheits-, Sozial- und Integrationsdirektion gebunden (Art. 5c Abs. 3 Bst. a bis d Covid-19-Verordnung besondere Lage).
-
-<sup>3</sup> Der Regierungsrat entscheidet auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion über die Schliessung von Skigebieten aufgrund der epidemiologischen Lage (Art. 5c Abs. 5 Bst. b der Covid-19-Verordnung besondere Lage).
-
-#### Art. 20c
-
-**Schutzkonzepte in den Skigebieten**
-
-<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter nimmt die Aufsicht über die Einhaltung der Schutzkonzepte in den Skigebieten wahr. Wird ein Schutzkonzept trotz Mahnung nicht eingehalten, erstattet sie oder er der Direktion für Inneres und Justiz Bericht.
-
-<sup>2</sup> Der Regierungsrat entscheidet auf Antrag der Direktion für Inneres und Justiz über den Widerruf der Bewilligung wegen Nichteinhaltung des Schutzkonzepts (Art. 5c Abs. 5 Bst. a der Covid-19-Verordnung besondere Lage).
+**…**
 
 #### Art. 20c1
 
 **Bewilligung für Grossveranstaltungen sowie Fach- und Publikumsmessen**
 
-<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig für die Erteilung der Bewilligung gemäss Artikel 6a Absatz 1 bis 4 und Artikel 6b<sup>quinquies</sup> der Covid-19-Verordnung besondere Lage sowie für den Widerruf einer erteilten Bewilligung oder den Erlass zusätzlicher Einschränkungen gemäss Artikel 6a Absatz 5 der Covid-19-Verordnung besondere Lage.
+<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist zuständig für die Erteilung der Bewilligung gemäss Artikel 16 Absatz 1 bis 4 und Artikel 18 Absatz 1 Buchstabe a der Covid-19-Verordnung besondere Lage sowie für den Widerruf einer erteilten Bewilligung oder den Erlass zusätzlicher Einschränkungen gemäss Artikel 16 Absatz 5 der Covid-19-Verordnung besondere Lage.
 
-<sup>2</sup> Sie oder er ist dabei an die Beurteilung der epidemiologischen Lage, der notwendigen Kapazitäten für die erforderliche Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen sowie der notwendigen Kapazitäten in der Gesundheitsversorgung durch die Gesundheits-, Sozial- und Integrationsdirektion gebunden (Art. 6a Abs. 2 Bst. a und b Covid-19-Verordnung besondere Lage).
+<sup>2</sup> Sie oder er ist dabei an die Beurteilung der epidemiologischen Lage, der notwendigen Kapazitäten für die erforderliche Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen sowie der notwendigen Kapazitäten in der Gesundheitsversorgung durch die Gesundheits-, Sozial- und Integrationsdirektion gebunden (Art. 16 Abs. 2 Bst. a und b Covid-19-Verordnung besondere Lage).
 
 <sup>3</sup> Bei Gesuchen um Erteilung einer Bewilligung zur Durchführung einer Grossveranstaltung mit internationalem Charakter sowie für deren Widerruf ist vor dem Entscheid die Zustimmung des Regierungsrates einzuholen. Die Regierungsstatthalterin oder der Regierungsstatthalter wendet sich in einem solchen Fall an die Gesundheits-, Sozial- und Integrationsdirektion, die dem Regierungsrat einen entsprechenden Antrag unterbreitet.
 
@@ -395,11 +329,7 @@ beschliesst:
 
 #### Art. 20c2
 
-**Pilotprojekte zur Durchführung von Grossveranstaltungen**
-
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist zuständig für die Erteilung der Bewilligung gemäss Artikel 6b<sup>quater</sup> Absatz 1 bis 4 der Covid-19-Verordnung besondere Lage sowie für den Widerruf einer erteilten Bewilligung oder den Erlass zusätzlicher Einschränkungen gemäss Artikel 6b<sup>quater</sup> Absatz 7 der Covid-19-Verordnung besondere Lage.
-
-<sup>2</sup> Sie informiert das Bundesamt für Gesundheit gemäss Artikel 6b<sup>quater</sup> Absatz 8 der Covid-19-Verordnung besondere Lage.
+**…**
 
 #### Art. 20d
 
@@ -410,6 +340,12 @@ beschliesst:
 <sup>2</sup> Sie können die Durchführung der Covid-19-Impfungen unter ihrer fachlichen Aufsicht und Verantwortung an Pharma-Assistentinnen und Pharma-Assistenten übertragen, sofern diese über eine entsprechende Weiterbildung verfügen.
 
 [^20d-1]: BSG [811.111](https://www.belex.sites.be.ch/data/811.111/de)
+
+#### Art. 20d1
+
+**Covid-19-Zertifikate**
+
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist die zuständige kantonale Behörde für den Vollzug der Covid-19-Verordnung Zertifikate.
 
 ### 3.2 Gemeinden
 
@@ -436,7 +372,7 @@ beschliesst:
 
 **Kontrolltätigkeit**
 
-<sup>1</sup> Die Gemeinden sind berechtigt, gemäss Artikel 11 Absatz 2 der Covid-19 Verordnung besondere Lage jederzeit unangemeldet zwecks Kontrollen der Massnahmen alle öffentlich zugänglichen Betriebsräume zu betreten, die Umsetzung der rechtlichen Vorgaben zu überprüfen und die relevanten Kontaktdaten einzusehen.
+<sup>1</sup> Die Gemeinden sind berechtigt, gemäss Artikel 26 Absatz 2 der Covid-19 Verordnung besondere Lage jederzeit unangemeldet zwecks Kontrollen der Massnahmen alle öffentlich zugänglichen Betriebsräume zu betreten, die Umsetzung der rechtlichen Vorgaben zu überprüfen und die relevanten Kontaktdaten einzusehen.
 
 <sup>2</sup> Stellen die Gemeinden fest, dass Massnahmen zur Bekämpfung der Covid-19-Epidemie nicht umgesetzt oder eingehalten werden, weisen sie die betroffenen oder verantwortlichen Personen auf die geltenden Vorschriften hin und fordern diese auf, die Massnahmen korrekt umzusetzen. Hierzu setzen sie eine kurze Frist an.
 
@@ -454,23 +390,7 @@ beschliesst:
 
 #### Art. 24a
 
-**Wintersportorte mit Schutzkonzept**
-
-<sup>1</sup> Folgende Gemeinden müssen über ein Schutzkonzept gemäss Artikel 5b der Covid-19-Verordnung besondere Lage verfügen:
-
-- a Adelboden,
-- b Grindelwald,
-- c Hasliberg,
-- d Kandersteg,
-- e Lauterbrunnen,
-- f Lenk,
-- g Meiringen,
-- h Saanen,
-- i Zweisimmen.
-
-<sup>2</sup> In den Wintersportorten müssen im betreffenden Ort oder in der betreffenden Region genügend Testkapazitäten für Personen mit Symptomen von Covid-19 zur Verfügung gestellt werden (Art. 5c Abs. 3 Bst. d Covid-19 Verordnung besondere Lage).
-
-<sup>3</sup> In Ergänzung zu Artikel 5b Absatz 2 der Covid-19 Verordnung besondere Lage muss das Schutzkonzept namentlich Angaben zu Kapazitäten für den Transport und die Unterbringung von Covid-19 Patientinnen und Patienten umfassen.
+**…**
 
 ## 4 Strafbestimmungen
 
@@ -510,9 +430,11 @@ beschliesst:
 
 <sup>2b</sup> Artikel 6a gilt bis zum 31. Mai 2021.
 
-<sup>2c</sup> Die Artikel 3 bis 5, 16a bis 16h sowie 20c2 gelten bis zum 30. Juni 2021.
+<sup>2c</sup> Die Artikel 3 bis 5, 6b, 16d bis 16h gelten bis zum 31. August 2021.
 
-<sup>2d</sup> Die Artikel 9 und 10 gelten bis zum 10. Juli 2021.
+<sup>2d</sup> …
+
+<sup>2e</sup> Artikel 20c2 gilt bis zum 30. Juni 2021.
 
 <sup>3–3a</sup> …
 

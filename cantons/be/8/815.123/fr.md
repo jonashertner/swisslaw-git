@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-05-28
-valid_until: 2021-06-25
-version_adopted: 2021-05-27
+version: 2021-06-26
+valid_until: 2021-07-31
+version_adopted: 2021-06-24
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2284/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2301/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2284/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 28.05.2021)
+du 04.11.2020 (état au 26.06.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 31, alinéa 1, 33, 40, alinéas 1 et 2, 58 et 59 de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies, LEp)[^ingress-1], les articles 2, 7, 8 et 9, alinéa 2 de l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^ingress-2], ainsi que l'article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (ordonnance 3 COVID-19)[^ingress-3],
+vu les articles 31, alinéa 1, 33, 40, alinéas 1 et 2, 58 et 59 de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies, LEp)[^ingress-1], les articles 2, 22, 23 et 24, alinéas 2 et 3 de l'ordonnance fédérale du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^ingress-2], ainsi que l'article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (ordonnance 3 COVID-19)[^ingress-3],
 
 sur proposition de la Chancellerie d'Etat,
 
@@ -45,7 +45,7 @@ arrête:
 
 ## 2 Mesures cantonales
 
-### 2.1 Etablissements de restauration
+### 2.1 Etablissements de restauration, bars et boîtes de nuit
 
 #### Art. 2–2a
 
@@ -55,7 +55,7 @@ arrête:
 
 **Coordonnées de la clientèle**
 
-<sup>1</sup> La collecte de coordonnées est régie par l’ordonnance COVID-19 situation particulière.
+<sup>1</sup> La collecte de coordonnées dans les établissements de restauration, les bars et les boîtes de nuit est régie par l’ordonnance COVID-19 situation particulière.
 
 <sup>2</sup> Les coordonnées suivantes doivent être collectées:
 
@@ -65,7 +65,7 @@ arrête:
 - d …
 - e numéro de table ou de place.
 
-<sup>3</sup> En dérogation à l'article 5, alinéa 2 de l'ordonnance COVID-19 situation particulière, les coordonnées doivent être transmises spontanément à la base de données centrale au sens de l'article 3a.
+<sup>3</sup> En dérogation à l'article 11, alinéa 2 de l'ordonnance COVID-19 situation particulière, les coordonnées doivent être transmises spontanément à la base de données centrale au sens de l'article 3a.
 
 <sup>4</sup> La transmission au sens de l'alinéa 3 doit être automatique ou intervenir au moins une fois dans les 24 heures. Par ailleurs, la Direction de la santé, des affaires sociales et de l’intégration détermine la forme de la transmission.
 
@@ -117,7 +117,7 @@ arrête:
 
 **Coordonnées du personnel de l'établissement**
 
-<sup>1</sup> Les exploitants et exploitantes sont tenus de recenser les personnes qui travaillent dans leur établissement de restauration.
+<sup>1</sup> Les exploitants et exploitantes d'établissements de restauration, de bars et de boîtes de nuit sont tenus de recenser les personnes qui travaillent dans leur établissement respectif.
 
 <sup>2</sup> Les coordonnées doivent être conservées dans une liste électronique ordonnée indiquant les heures de présence dans l'établissement et regroupées par jour.
 
@@ -125,19 +125,19 @@ arrête:
 
 **Recommandation de l'utilisation de l'application SwissCovid**
 
-<sup>1</sup> Les exploitants et exploitantes d'établissements de restauration sont tenus de recommander à leur clientèle l'utilisation de l'application SwissCovid par des affiches, des dépliants ou tout autre moyen approprié.
+<sup>1</sup> Les exploitants et exploitantes d'établissements de restauration, de bars et de boîtes de nuit sont tenus de recommander à leur clientèle l'utilisation de l'application SwissCovid par des affiches, des dépliants ou tout autre moyen approprié.
 
 ### 2.2 Manifestations
 
-#### Art. 6
+#### Art. 6–6a
 
 **…**
 
-#### Art. 6a
+#### Art. 6b
 
-**Manifestations politiques ou de la société civile**
+**Coordonnées des visiteurs et visiteuses**
 
-<sup>1</sup> En dérogation à l'article 6c, alinéa 2 de l’ordonnance COVID-19 situation particulière, les manifestations politiques ou de la société civile de plus de 100 personnes sont interdites.
+<sup>1</sup> L'article 3 s'applique par analogie à la collecte des coordonnées des visiteurs et visiteuses de manifestations, dans la mesure où il y est possible de consommer comme dans un établissement de restauration.
 
 #### Art. 7–8
 
@@ -151,25 +151,7 @@ arrête:
 
 ### 2.3 Institutions de formation
 
-#### Art. 9
-
-**Principe**
-
-<sup>1</sup> En complément de l'article 3b de l'ordonnance COVID-19 situation particulière, toute personne est tenue de porter un masque dans tous les espaces clos des écoles.
-
-#### Art. 10
-
-**Champ d'application**
-
-<sup>1</sup> Cette obligation s’applique aux écoles visées par la législation sur l’école obligatoire, la législation sur les écoles moyennes, la législation sur la formation continue, la formation professionnelle et l’orientation professionnelle ainsi que la législation sur les écoles de musique.
-
-<sup>2</sup> Cette obligation ne vaut pas pour
-
-- a les élèves de l’école enfantine et de la 1<sup>re</sup> à la 4<sup>e</sup> années du degré primaire (3H à 6H);
-- b les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales, pour autant que d’autres mesures de protection appropriées soient prises;
-- c toutes les personnes se trouvant dans une situation dans laquelle le port d'un masque facial entrave considérablement l’enseignement, pour autant que d’autres mesures de protection appropriées soient prises.
-
-#### Art. 11–12
+#### Art. 9–12
 
 **…**
 
@@ -189,50 +171,30 @@ arrête:
 
 #### Art. 16a
 
-**Assemblées statutaires et assemblées constitutives**
-
-<sup>1</sup> Par dérogation à la législation sur la procédure des améliorations foncières et forestières, les assemblées statutaires de collectivités et les assemblées constitutives de personnes non organisées en collectivité en vertu de l'article 21 de l'ordonnance du 5 novembre 1997 sur la procédure des améliorations foncières et forestières (OPAF)[^16a-1] se déroulent par écrit. Les dispositions de la loi du 16 mars 1998 sur les communes (LCo)[^16a-2] restent réservées.
-
-<sup>2</sup> En lieu et place d'une séance d'information au sens de l'article 19 OPAF, la commune informe par écrit les habitants et habitantes ainsi que les propriétaires connus des immeubles dans le périmètre.
-
-[^16a-1]: RSB [913.111](https://www.belex.sites.be.ch/data/913.111/fr)
-[^16a-2]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
+**…**
 
 ### 2.7 Exécution judiciaire
 
-#### Art. 16b
+#### Art. 16b–16c
 
-**Port du masque obligatoire**
-
-<sup>1</sup> En complément de l'article 3b de l'ordonnance COVID-19 situation particulière, toute personne se trouvant dans les espaces clos des établissements d’exécution au sens des articles 6 à 10 et 13 de l’ordonnance du 22 août 2018 sur l’exécution judiciaire (OEJ)[^16b-1] doit porter un masque facial.
-
-<sup>2</sup> L'obligation au sens de l'alinéa 1 ne s'applique pas aux personnes détenues lorsque celles-ci se trouvent dans leur cellule et que la porte est fermée.
-
-[^16b-1]: RSB [341.11](https://www.belex.sites.be.ch/data/341.11/fr)
-
-#### Art. 16c
-
-**Quarantaine**
-
-<sup>1</sup> Toute personne venue exécuter une peine ou une mesure privative de liberté quelle qu'elle soit peut être placée en quarantaine pour une période de dix jours au maximum à compter de son entrée dans l'établissement d'exécution.
-
-<sup>2</sup> Les personnes détenues qui observent une quarantaine sont autorisées à quitter leur cellule une heure par jour pour prendre l'air.
-
-<sup>2a</sup> La quarantaine peut être levée au plus tôt le septième jour lorsqu'un test Covid-19 récent s'est avéré négatif.
-
-<sup>3</sup> Au surplus, les dispositions de l'ordonnance COVID-19 situation particulière sur la quarantaine-contact s'appliquent par analogie.
+**…**
 
 #### Art. 16d
 
 **Visites**
 
-<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 OEJ sont admises dans le respect de mesures de protection, notamment vitres de séparation, masques d'hygiène et règles de distance, et de manière limitée.
+<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 de l'ordonnance du 22 août 2018 sur l'exécution judiciaire (ordonnance sur l'exécution judiciaire, OEJ)[^16d-1] sont admises dans le respect de mesures de protection, notamment vitres de séparation, masques d'hygiène et règles de distance.
 
-<sup>1a</sup> L'admission de visiteurs et de visiteuses peut être soumise à l'obligation de présenter un test Covid-19 négatif récent.
+<sup>1a</sup> …
+
+<sup>1b</sup> Les visiteurs et les visiteuses qui disposent d'un certificat COVID au sens de l'ordonnance fédérale du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)[^16d-2] peuvent renoncer aux mesures de protection.
 
 <sup>2</sup> L'établissement d'exécution peut diminuer le contingent de visites découlant de l'article 68, alinéa 1 OEJ pour des raisons d'organisation.
 
 <sup>3</sup> Afin de compenser une diminution du contingent de visites, l'Office de l'exécution judiciaire prévoit des mesures de remplacement comme la visioconférence qui peuvent être comptabilisées dans le contingent de visites.
+
+[^16d-1]: RSB [341.11](https://www.belex.sites.be.ch/data/341.11/fr)
+[^16d-2]: RS [818.102.2](https://db.clex.ch/link/Bund/818.102.2/fr)
 
 #### Art. 16e
 
@@ -250,11 +212,11 @@ arrête:
 
 **Procédure à suivre après une sortie ou un congé**
 
-<sup>1</sup> Après leur retour au sein de l'établissement d'exécution, les personnes détenues sont soumises à un test de dépistage du coronavirus.
+<sup>1</sup> Après leur retour au sein de l'établissement d'exécution, les personnes détenues sont soumises à un test de dépistage du coronavirus. Les personnes détenues qui disposent d'un certificat COVID au sens de l'ordonnance COVID-19 certificats sont dispensées de test de dépistage.
 
-<sup>2</sup> Immédiatement après leur retour, elles sont interrogées par le personnel au sujet des contacts qu'elles ont eu en dehors de l'établissement d'exécution.
+<sup>2</sup> Immédiatement après leur retour, elles peuvent être interrogées par le personnel au sujet des contacts qu'elles ont eu en dehors de l'établissement d'exécution.
 
-<sup>3</sup> En cas de soupçon de contact avec une personne atteinte du Covid-19, les personnes détenues doivent se soumettre à une quarantaine au sens de l'article 16c.
+<sup>3</sup> …
 
 #### Art. 16f
 
@@ -264,11 +226,7 @@ arrête:
 
 #### Art. 16g
 
-**Interruption de l'exécution d'une peine ou d'une mesure**
-
-<sup>1</sup> En raison de l’épidémie, seul un certificat médical attestant la mise en danger de la santé de la personne détenue concernée permet l'interruption de l’exécution d’une peine au sens de l’article 17 de la loi du 23 janvier 2018 sur l’exécution judiciaire (LEJ)[^16g-1].
-
-[^16g-1]: RSB [341.1](https://www.belex.sites.be.ch/data/341.1/fr)
+**…**
 
 #### Art. 16h
 
@@ -276,7 +234,7 @@ arrête:
 
 <sup>1</sup> L'Office de l'exécution judiciaire prend des mesures organisationnelles supplémentaires pour
 
-- a réduire autant que possible les contacts au sein des établissements d'exécution au sens des articles 6 à 10 et 13 OEJ ;
+- a …
 - b empêcher les contaminations dues à l'extérieur.
 
 ## 3 Compétences et exécution
@@ -287,9 +245,9 @@ arrête:
 
 **Contrôle**
 
-<sup>1</sup> La Police cantonale effectue les contrôles dans les infrastructures et les établissements publics, lors des manifestations publiques ainsi que dans les stations de sports d'hiver et les domaines skiables.
+<sup>1</sup> La Police cantonale effectue les contrôles dans les infrastructures et les établissements publics ainsi que lors des manifestations publiques.
 
-<sup>2</sup> Sous réserve de l’article 11, alinéa 1 de l’ordonnance COVID-19 situation particulière, le domaine spécialisé Sécurité et santé au travail de la Direction de l'économie, de l'énergie et de l'environnement est responsable des contrôles dans les établissements non publics.
+<sup>2</sup> Sous réserve de l’article 26, alinéa 1 de l’ordonnance COVID-19 situation particulière, le domaine spécialisé Sécurité et santé au travail de la Direction de l'économie, de l'énergie et de l'environnement est responsable des contrôles dans les établissements non publics.
 
 <sup>3</sup> Les compétences de la Direction de la santé, des affaires sociales et de l’intégration dans le domaine de la santé ainsi que celles d'autres services cantonaux sont réservées.
 
@@ -303,9 +261,9 @@ arrête:
 
 **Mesures**
 
-<sup>1</sup> Les préfets et les préfètes sont compétents pour ordonner des mesures au titre de l'article 9, alinéa 2 de l'ordonnance COVID-19 situation particulière. Les compétences du Conseil-exécutif définies aux articles 20b et 20c sont réservées.
+<sup>1</sup> Les préfets et les préfètes sont compétents pour ordonner des mesures au titre de l'article 24, alinéa 3 de l'ordonnance COVID-19 situation particulière.
 
-<sup>2</sup> La Police cantonale ordonne les mesures prévues à l’article 9, alinéa 2 de l'ordonnance COVID-19 situation particulière à la place du préfet ou de la préfète si ces mesures ne tolèrent aucun ajournement.
+<sup>2</sup> La Police cantonale ordonne les mesures prévues à l’article 24, alinéa 3 de l'ordonnance COVID-19 situation particulière à la place du préfet ou de la préfète si ces mesures ne tolèrent aucun ajournement.
 
 <sup>3</sup> Si la Police cantonale ordonne une mesure, elle en informe immédiatement le préfet ou la préfète.
 
@@ -315,21 +273,19 @@ arrête:
 
 #### Art. 17b
 
-**Etablissements de restauration**
-
-<sup>1</sup> Le préfet ou la préfète est l'autorité compétente à laquelle les établissements de restauration doivent annoncer les offres destinées aux chauffeurs et chauffeures professionnels ainsi qu'à d'autres catégories professionnelles en vertu de l'article 5, alinéa 2, lettre d de l’ordonnance COVID-19 situation particulière.
+**…**
 
 #### Art. 17c
 
 **Quarantaine-contact et isolement**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité compétente pour les mesures de quarantaine-contact et d'isolement au sens de la section 2a de l'ordonnance COVID-19 situation particulière.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité compétente pour les mesures de quarantaine-contact et d'isolement au sens de la section 3 de l'ordonnance COVID-19 situation particulière.
 
 #### Art. 18
 
 **Allégements**
 
-<sup>1</sup> Il incombe à la Direction de la santé, des affaires sociales et de l’intégration de statuer sur les demandes d’allégement au titre de l’article 7, alinéa 1 de l'ordonnance COVID-19 situation particulière.
+<sup>1</sup> Il incombe à la Direction de la santé, des affaires sociales et de l’intégration de statuer sur les demandes d’allégement au titre de l’article 22 de l'ordonnance COVID-19 situation particulière.
 
 <sup>2</sup> …
 
@@ -337,7 +293,7 @@ arrête:
 
 **Prescription de mesures supplémentaires**
 
-<sup>1</sup> Sont compétents pour préparer et prescrire des mesures supplémentaires au titre de l’article 8 de l'ordonnance COVID-19 situation particulière:
+<sup>1</sup> Sont compétents pour préparer et prescrire des mesures supplémentaires au titre de l’article 23 de l'ordonnance COVID-19 situation particulière:
 
 - a l'Office du médecin cantonal si ces mesures doivent être ordonnées immédiatement afin de contenir l’épidémie et si elles sont de portée locale et limitées dans le temps;
 - b le Conseil-exécutif dans tous les autres cas, sur proposition de la Direction de la santé, des affaires sociales et de l’intégration.
@@ -355,39 +311,17 @@ arrête:
   - 1\. à mettre à disposition leurs capacités dans le domaine hospitalier ou à les libérer sur demande, et
   - 2\. à limiter ou suspendre les examens et traitements non urgents.
 
-#### Art. 20a
+#### Art. 20a–20c
 
-**Autorisation pour les exploitants de domaines skiables**
-
-<sup>1</sup> Les préfets et les préfètes sont compétents pour octroyer l'autorisation prévue à l’article 5c, alinéa 2 de l'ordonnance COVID-19 situation particulière et pour la révoquer ou pour édicter des règles supplémentaires selon l'article 5c, alinéa 5 de l’ordonnance COVID-19 situation particulière.
-
-<sup>2</sup> Les compétences des Directions et du Conseil-exécutif selon les articles 20b et 20c sont réservées.
-
-#### Art. 20b
-
-**Situation épidémiologique**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration évalue en continu la situation épidémiologique au sens de l'article 8, alinéa 1, lettre a de l'ordonnance COVID-19 situation particulière. Elle gère et communique les conclusions de son évaluation au moyen d'un système de feux tricolores.
-
-<sup>2</sup> Le préfet ou la préfète doit se tenir à l'évaluation, faite par la Direction de la santé, des affaires sociales et de l'intégration, de la situation épidémiologique, des capacités de traçage des contacts et de couverture en soins ainsi que des capacités de tests (art. 5c, al. 3, lit. a à d ordonnance COVID-19 situation particulière).
-
-<sup>3</sup> Le Conseil-exécutif décide de la fermeture de domaines skiables en raison de la situation épidémiologique sur proposition de la Direction de la santé, des affaires sociales et de l’intégration (art. 5c, al. 5, lit. b ordonnance COVID-19 situation particulière).
-
-#### Art. 20c
-
-**Plans de protection dans les domaines skiables**
-
-<sup>1</sup> Le préfet ou la préfète surveille le respect des plans de protection dans les domaines skiables. Si le plan de protection n’est pas respecté malgré avertissement, il ou elle en rend compte à la Direction de l'intérieur et de la justice.
-
-<sup>2</sup> Si le plan de protection n'est pas respecté, le Conseil-exécutif statue sur la révocation de l'autorisation sur proposition de la Direction de l'intérieur et de la justice (art. 5c, al. 5, lit. a ordonnance COVID-19 situation particulière).
+**…**
 
 #### Art. 20c1
 
 **Autorisation pour les grandes manifestations, les foires spécialisées et tout public**
 
-<sup>1</sup> Le préfet ou la préfète est compétente pour octroyer l'autorisation prévue à l’article 6a, alinéas 1 à 4 et à l'article 6b<sup>quinquies</sup> de l'ordonnance COVID-19 situation particulière et pour la révoquer ou pour édicter des restrictions supplémentaires selon l'article 6a, alinéa 5 de l’ordonnance COVID-19 situation particulière.
+<sup>1</sup> Le préfet ou la préfète est compétente pour octroyer l'autorisation prévue à l’article 16, alinéas 1 à 4 et à l'article 18, alinéa 1, lettre a de l'ordonnance COVID-19 situation particulière et pour la révoquer ou pour édicter des restrictions supplémentaires selon l'article 16, alinéa 5 de l’ordonnance COVID-19 situation particulière.
 
-<sup>2</sup> Il ou elle doit se tenir à l'évaluation, faite par la Direction de la santé, des affaires sociales et de l’intégration, de la situation épidémiologique, des capacités nécessaires à l'identification et à l’information des personnes présumées infectées, ainsi que des capacités nécessaires à la couverture de soins (art. 6a, al. 2, lit. a et b ordonnance COVID-19 situation particulière).
+<sup>2</sup> Il ou elle doit se tenir à l'évaluation, faite par la Direction de la santé, des affaires sociales et de l’intégration, de la situation épidémiologique, des capacités nécessaires à l'identification et à l’information des personnes présumées infectées, ainsi que des capacités nécessaires à la couverture de soins (art. 16, al. 2, lit. a et b de l'ordonnance COVID-19 situation particulière).
 
 <sup>3</sup> Les demandes d’octroi d’une autorisation pour l’organisation d’une grande manifestation de portée internationale, et le cas échéant la révocation d’une telle autorisation, sont soumises au préalable à l’approbation du Conseil-exécutif. Le préfet ou la préfète s’adresse dans un tel cas à la Direction de la santé, des affaires sociales et de l’intégration, qui soumet une proposition correspondante au Conseil-exécutif.
 
@@ -395,11 +329,7 @@ arrête:
 
 #### Art. 20c2
 
-**Organisation de grandes manifestations à titre de projets pilotes**
-
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration est compétente pour octroyer l'autorisation prévue à l’article 6b<sup>quater</sup>, alinéas 1 à 4 de l'ordonnance COVID-19 situation particulière et pour la révoquer ou pour édicter des restrictions supplémentaires selon l'article 6b<sup>quater</sup>, alinéa 7 de l’ordonnance COVID-19 situation particulière.
-
-<sup>2</sup> Elle informe l'Office fédéral de la santé publique conformément à l'article 6b<sup>quater</sup>, alinéa 8 de l'ordonnance COVID-19 situation particulière.
+**…**
 
 #### Art. 20d
 
@@ -410,6 +340,12 @@ arrête:
 <sup>2</sup> Ils peuvent déléguer l’administration du vaccin contre le COVID-19 à des assistants et assistantes en pharmacie placés sous leur surveillance et leur responsabilité, pour autant que ces personnes aient suivi une formation continue appropriée.
 
 [^20d-1]: RSB [811.111](https://www.belex.sites.be.ch/data/811.111/fr)
+
+#### Art. 20d1
+
+**Certificats COVID-19**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration est l'autorité cantonale compétente pour l'exécution de l'ordonnance COVID-19 certificats.
 
 ### 3.2 Communes
 
@@ -436,7 +372,7 @@ arrête:
 
 **Contrôles**
 
-<sup>1</sup> En vertu de l'article 11, alinéa 2 de l'ordonnance COVID-19 situation particulière, les autorités communales sont habilitées à pénétrer en tout temps sans préavis dans tous les locaux des établissements accessibles au public pour contrôler l’application des mesures, vérifier la mise en œuvre des prescriptions légales et consulter les coordonnées pertinentes.
+<sup>1</sup> En vertu de l'article 26, alinéa 2 de l'ordonnance COVID-19 situation particulière, les autorités communales sont habilitées à pénétrer en tout temps sans préavis dans tous les locaux des établissements accessibles au public pour contrôler l’application des mesures, vérifier la mise en œuvre des prescriptions légales et consulter les coordonnées pertinentes.
 
 <sup>2</sup> Si les autorités communales constatent que des mesures de lutte contre l'épidémie de COVID-19 ne sont pas mises en œuvre ou pas respectées, elles rappellent les prescriptions en vigueur aux personnes concernées ou aux responsables et leur demandent de s'y conformer à brève échéance.
 
@@ -454,23 +390,7 @@ arrête:
 
 #### Art. 24a
 
-**Stations de sports d'hiver avec plan de protection**
-
-<sup>1</sup> Les communes suivantes doivent disposer d'un plan de protection tel que défini à l'article 5b de l'ordonnance COVID-19 situation particulière:
-
-- a Adelboden,
-- b Grindelwald,
-- c Hasliberg,
-- d Kandersteg,
-- e Lauterbrunnen,
-- f la Lenk,
-- g Meiringen,
-- h Saanen,
-- i Zweisimmen.
-
-<sup>2</sup> Les stations de sports d'hiver doivent disposer de suffisamment de capacités de tests pour les personnes présentant des symptômes de COVID-19 (art. 5, al. 3, lit. d ordonnance COVID-19 situation particulière).
-
-<sup>3</sup> En complément à l'article 5b, alinéa 2 de l’ordonnance COVID-19 situation particulière, le plan de protection doit notamment comporter des indications sur les capacités de transport et d'hébergement des malades de COVID-19.
+**…**
 
 ## 4 Dispositions pénales
 
@@ -510,9 +430,11 @@ arrête:
 
 <sup>2b</sup> L'article 6a est valable jusqu'au 31 mai 2021.
 
-<sup>2c</sup> Les articles 3 à 5, 16a à 16h ainsi que 20c2 sont valables jusqu'au 30 juin 2021.
+<sup>2c</sup> Les articles 3 à 5, 6b et 16d à 16h sont valables jusqu'au 31 août 2021.
 
-<sup>2d</sup> Les articles 9 et 10 sont valables jusqu'au 10 juillet 2021.
+<sup>2d</sup> …
+
+<sup>2e</sup> L'article 20c2 est valable jusqu'au 30 juin 2021.
 
 <sup>3–3a</sup> …
 
