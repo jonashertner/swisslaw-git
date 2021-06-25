@@ -1,28 +1,28 @@
 ---
 canton: VS
 number: "818.502"
-title: "Arrêté COVID-19 concernant les grandes manifestations, les grandes foires spécialisées et les projets pilotes"
+title: "Arrêté COVID-19 concernant les grandes manifestations, les foires spécialisées et les foires tout public"
 language: fr
-version: 2021-06-01
-valid_until: 2021-06-25
-version_adopted: 2021-06-09
+version: 2021-06-26
+valid_until: 2022-03-03
+version_adopted: 2021-07-05
 adopted: 2021-07-05
 in_force: 2021-06-26
 url: "https://lex.vs.ch/app/fr/texts_of_law/818.502"
-pdf: "https://lex.vs.ch/api/fr/versions/2911/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2930/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté COVID-19 concernant les grandes manifestations, les grandes foires spécialisées et les projets pilotes
+# Arrêté COVID-19 concernant les grandes manifestations, les foires spécialisées et les foires tout public
 
-du 09.06.2021 (état 01.06.2021)
+du 05.07.2021 (état 26.06.2021)
 
 Le Conseil d'Etat du canton du Valais
 
 vu l’article 40 de la loi fédérale sur la lutte contre les maladies transmissibles de l’homme du 28 septembre 2012 (Loi sur les épidémies, LEp);
 
-vu les articles 6a, 6b<sup>bis</sup>, 6b<sup>ter</sup>, 6b<sup>quater</sup> et 6b<sup>quinquies</sup> de l'ordonnance sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière du 19 juin 2020 (Ordonnance COVID-19 situation particulière);
+vu les articles 16 et 18 de l'ordonnance sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière du 23 juin 2021 (Ordonnance COVID-19 situation particulière);
 
 vu l'article 57 alinéa 3 de la Constitution cantonale;
 
@@ -32,24 +32,22 @@ arrête:
 
 #### Art. 1
 
-**Autorité cantonale compétente pour autoriser les grandes manifestations, les grandes foires spécialisées et les projets pilotes**
+**Autorité cantonale compétente pour autoriser les grandes manifestations, les foires spécialisées et les foires tout public**
 
-<sup>1</sup> Le Département de la sécurité, des institutions et du sport (ci-après: le département) est désigné comme autorité cantonale, conformément aux articles 6a et 6b de l'ordonnance sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ci-après: l'ordonnance fédérale), pour autoriser:
+<sup>1</sup> Le Département de la sécurité, des institutions et du sport (ci-après: le département) est désigné comme autorité cantonale, conformément aux articles 16 et 18 de l'ordonnance sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ci-après: l'ordonnance fédérale), pour autoriser:
 
-- a) 5 projets pilotes réunissant au minimum 300 mais 600 personnes par jour au maximum à l’intérieur et 1'000 personnes au maximum en plein air du 1<sup>er</sup> juin au 30 juin 2021;
-- b) les grandes manifestations réunissant plus de 1’000 mais 3’000 personnes par jour au maximum et 5'000 personnes au maximum en plein air si le public dispose exclusivement de places assises du 1<sup>er</sup> juillet au 19 août 2021;
-- c) les grandes foires spécialisées accueillant plus de 1'000 visiteurs à partir du 1<sup>er</sup> juillet 2021;
-- d) les grandes manifestations de 1’000 à 10’000 personnes par jour au maximum mais sans limite du nombre de personnes en plein air si le public dispose exclusivement de places assises à partir du 20 août 2021.
+- a) les grandes manifestations réunissant plus de 1'000 personnes par jour;
+- b) les foires spécialisées et les foires de tout public réunissant plus de 1'000 personnes par jour.
 
 <sup>2</sup> Le Conseil d’Etat demeure compétent pour ordonner les mesures nécessaires pour empêcher la propagation de l’épidémie de COVID-19 au sein de la population ou dans certains groupes de personnes.
 
 #### Art. 2
 
-**Autorité compétente pour préaviser le plan de protection des grandes manifestations, des grandes foires spécialisées et des projets pilotes**
+**Autorité compétente pour préaviser le plan de protection des grandes manifestations, des foires spécialisées et des foires tout public**
 
 <sup>1</sup> L’Organisation cantonale valaisanne des secours (OCVS) est chargée de:
 
-- a) soutenir et conseiller les organisateurs de grandes manifestations, de grandes foires spécialisées et de projets pilotes sur leur plan de protection;
+- a) soutenir et conseiller les organisateurs de grandes manifestations, de foires spécialisées et de foires tout public sur leur plan de protection;
 - b) octroyer un préavis, sur demande de l’organisateur, sur son plan de protection;
 - c) répondre à toute question en matière de COVID-19, hormis celles concernant:
   - 1\. la quarantaine et l’isolement de la compétence de Promotion Santé Valais,
@@ -59,7 +57,7 @@ arrête:
 
 **Forme et dépôt de la demande d'autorisation**
 
-<sup>1</sup> La demande d'autorisation pour l'organisation d'une grande manifestation, d’une grande foire spécialisée et d’un projet pilote est adressée avant sa tenue au conseil municipal de la commune où aura lieu ladite manifestation. Elle est accompagnée du préavis obligatoire de l’OCVS concernant le plan de protection prévu par l'article 4 de l'ordonnance fédérale.
+<sup>1</sup> La demande d'autorisation pour l'organisation d'une grande manifestation, d’une foire spécialisée et d’une foire tout public est adressée avant sa tenue au conseil municipal de la commune où aura lieu ladite manifestation. Elle est accompagnée du préavis obligatoire de l’OCVS concernant le plan de protection prévu par l'article 10 de l'ordonnance fédérale.
 
 <sup>2</sup> Le conseil municipal transmet la demande au département, accompagnée de son préavis.
 
@@ -69,7 +67,7 @@ arrête:
 
 **Contenu de la demande d'autorisation**
 
-<sup>1</sup> La demande d'autorisation pour l'organisation d'une grande manifestation, d’une grande foire spécialisée ou d’un projet pilote contient notamment les informations suivantes:
+<sup>1</sup> La demande d'autorisation pour l'organisation d'une grande manifestation, d’une foire spécialisée ou d’une foire tout public contient notamment les informations suivantes:
 
 - a) le type de manifestation;
 - b) le nom de l'organisateur responsable et ses coordonnées personnelles complètes:
@@ -78,7 +76,7 @@ arrête:
 - c) le lieu, l'heure et la date de la manifestation;
 - d) le périmètre de la manifestation, au besoin précisé sur un plan ainsi que les accès y relatifs;
 - e) le nombre de participants prévus;
-- f) le plan de protection selon l'article 4 de l'ordonnance fédérale et son annexe 1 basé sur une analyse des risques propre à la manifestation concernée préavisé par l’OCVS.
+- f) le plan de protection selon l'article 10 de l'ordonnance fédérale et son annexe 1 basé sur une analyse des risques propre à la manifestation concernée préavisé par l’OCVS.
 
 <sup>2</sup> L'organisateur doit fournir tout document ou renseignement nécessaire au conseil municipal ou au département dans le cadre du traitement de la demande d'autorisation.
 
@@ -92,7 +90,7 @@ arrête:
 
 **Décision du département**
 
-<sup>1</sup> Le département rend une décision qui est notifiée à l'organisateur de la grande manifestation, de la foire spécialisée ou du projet pilote et communiquée au conseil municipal et aux départements cantonaux concernés.
+<sup>1</sup> Le département rend une décision qui est notifiée à l'organisateur de la grande manifestation, de la foire spécialisée ou de la foire tout public et communiquée au conseil municipal et aux départements cantonaux concernés.
 
 <sup>2</sup> Il perçoit un émolument de 90 à 1'650 francs pour le traitement de la demande d'autorisation ou la procédure de refus ou révocation d'une telle autorisation.
 
@@ -127,17 +125,4 @@ arrête:
 
 <sup>2</sup> Le département décide si la communication entraîne le refus de l’autorisation, la révocation de la décision ou impose des restrictions supplémentaires.
 
-#### Art. 10
-
-**Autorité communale compétente pour autoriser les manifestations accueillant du public**
-
-<sup>1</sup> Le conseil municipal est compétent pour autoriser les manifestations accueillant du public réunissant:
-
-- a) 100 personnes au maximum à l’intérieur et 300 personnes au maximum à l’extérieur à partir du 1<sup>er</sup> juin 2021;
-- b) moins de 1'000 personnes par jour à partir du 1<sup>er</sup> juillet 2021.
-
-<sup>2</sup> La demande d'autorisation pour l'organisation d'une manifestation au sens de l’alinéa 1 est adressée, en principe, au moins 2 mois avant sa tenue au conseil municipal de la commune où aura lieu ladite manifestation.
-
-<sup>3</sup> Elle est accompagnée le cas échéant du préavis de l’OCVS concernant le plan de protection prévu par l'article 4 de l'ordonnance fédérale.
-
-RCV RO/AGS 2021-074
+RCV RO/AGS 2021-099
