@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-06-21
+version: 2021-06-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210621/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210621-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210621/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210626/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210626-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210626/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210621/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 21. Juni 2021)
+vom 19. Juni 2020 (Stand am 26. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -58,7 +58,17 @@ Um die Kapazitäten der Schweiz zur Bewältigung der Covid-19-Epidemie aufrechtz
 - a. Massnahmen zur Einschränkung der Einreise von Personen aus Risikoländern oder -regionen sowie der Ein- und Ausfuhr von Waren;
 - b. Massnahmen zur Sicherstellung der Versorgung mit wichtigen medizinischen Gütern.
 
-<sup>2</sup> Als Risikoländer oder -regionen gelten namentlich Länder oder Regionen, deren Behörden ausserordentliche Massnahmen zur Verhütung und Bekämpfung der Covid-19-Epidemie angeordnet haben. Die Liste der Risikoländer oder -regionen wird in Anhang 1 veröffentlicht. Das Eidgenössische Justiz- und Polizeidepartement (EJPD) erstellt die Liste und führt sie laufend nach, nach Rücksprache mit dem Eidgenössischen Departement des Inneren (EDI) und dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA).
+<sup>2</sup>
+
+Als Risikoländer oder ‑regionen gelten Länder oder Regionen, in denen das Coronavirus Sars-CoV-2 nachgewiesen worden ist und in denen:
+
+- a. ein erhöhtes Ansteckungsrisiko besteht; oder
+- b. eine Virusvariante verbreitet ist, von der im Vergleich zu der im Schengen-Raum verbreiteten Virusvariante eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht.[^3-1]
+
+<sup>3</sup> Die Listen der Risikoländer und ‑regionen werden in Anhang 1 veröffentlicht.[^3-2]
+
+[^3-1]: Fassung gemäss Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^3-2]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 ### 2. Abschnitt: Einschränkungen beim Grenzübertritt sowie bei der Zulassung von Ausländerinnen und Ausländern
 
@@ -73,7 +83,18 @@ Die Einreise für einen bewilligungsfreien Aufenthalt ohne Erwerbstätigkeit bis
 - a. Ausländerinnen und Ausländern, die aus einem Risikoland oder aus einer Risikoregion kommend in die Schweiz einreisen wollen und nicht vom Geltungsbereich des Abkommens vom 21. Juni 1999[^4-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA) oder des Übereinkommens vom 4. Januar 1960[^4-4] zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Übereinkommen) erfasst werden;
 - b. und c.[^4-5] ... .[^4-6]
 
-<sup>2</sup> Von diesem Einreiseverbot ausgenommen sind Personen, die glaubhaft machen, dass sie sich in einer Situation der äussersten Notwendigkeit befinden. Das Staatssekretariat für Migration (SEM) erlässt die notwendigen Weisungen.
+<sup>2</sup>
+
+Von diesem Einreiseverbot ausgenommen sind Personen, die:
+
+- a. den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, wird in Anhang 1*a* geregelt; oder
+- b. glaubhaft machen, dass sie sich in einer Situation der äussersten Notwendigkeit befinden.[^4-7]
+
+<sup>2bis</sup> Kinder unter 18 Jahren, die in Begleitung von erwachsenen Personen nach Absatz 2 Buchstabe a einreisen, müssen keine Impfung nachweisen.[^4-8]
+
+<sup>2ter</sup> Die Ausnahme nach Absatz 2 Buchstabe a gilt nicht für Personen, die aus einem Land oder einer Region nach Anhang 1 Ziffer 2 in die Schweiz einreisen wollen.[^4-9]
+
+<sup>2quater</sup> Das Staatssekretariat für Migration (SEM) erlässt für die Ausnahmen vom Einreiseverbot die notwendigen Weisungen.[^4-10]
 
 <sup>3</sup> Entscheide der zuständigen Behörden können sofort vollstreckt werden. Artikel 65 AIG gilt sinngemäss. Gegen den Einspracheentscheid des SEM kann innerhalb von 30 Tagen nach der Eröffnung Beschwerde erhoben werden. Die Beschwerde hat keine aufschiebende Wirkung.
 
@@ -85,12 +106,24 @@ Die Einreise für einen bewilligungsfreien Aufenthalt ohne Erwerbstätigkeit bis
 [^4-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^4-5]: Aufgehoben durch Anhang 2 Ziff. 2 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021, mit Wirkung seit 8. Febr. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^4-6]: Fassung gemäss Ziff. I der V vom 21. Dez. 2020, in Kraft seit 21. Dez. 2020 um 13.00 Uhr ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^4-7]: Fassung gemäss Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-8]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-9]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-10]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
-#### Art. 5–7
+#### Art. 5
 
-[^57-1]
+**Nachführung der Anhänge**[^5-1]
 
-[^57-1]: Aufgehoben durch Ziff. I der V vom 24. Juni 2020 (Lockerungen in den Bereichen Grenze, Einreise und Zulassung zu Aufenthalt und Arbeitsmarkt), mit Wirkung seit 6. Juli 2020 ([AS 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
+Das Eidgenössische Justiz- und Polizeidepartement (EJPD) führt die Anhänge 1 und *1a* nach Rücksprache mit dem Eidgenössischen Departement des Inneren (EDI) und dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) laufend nach.
+
+[^5-1]: Fassung gemäss Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+
+#### Art. 6 und 7
+
+[^67-1]
+
+[^67-1]: Aufgehoben durch Ziff. I der V vom 24. Juni 2020 (Lockerungen in den Bereichen Grenze, Einreise und Zulassung zu Aufenthalt und Arbeitsmarkt), mit Wirkung seit 6. Juli 2020 ([AS 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
 
 #### Art. 8
 
@@ -112,9 +145,9 @@ Die Einreise für einen bewilligungsfreien Aufenthalt ohne Erwerbstätigkeit bis
 
 **Erteilung von Visa**[^10-1]
 
-Ausländerinnen und Ausländern, die aus einem Risikoland oder aus einer Risikoregion kommend in die Schweiz einreisen wollen und die nicht vom FZA[^10-2] oder vom EFTA-Übereinkommen[^10-3] erfasst werden, wird die Erteilung von Schengen-Visa für bewilligungsfreie Aufenthalte ohne Erwerbstätigkeit bis zu drei Monaten verweigert. Ausgenommen davon sind Gesuche von Personen gemäss Artikel 4 Absatz 2.
+Ausländerinnen und Ausländern, die aus einem Risikoland oder aus einer Risikoregion kommend in die Schweiz einreisen wollen und die nicht vom FZA[^10-2] oder vom EFTA-Übereinkommen[^10-3] erfasst werden, wird die Erteilung von Schengen-Visa für bewilligungsfreie Aufenthalte ohne Erwerbstätigkeit bis zu drei Monaten verweigert. Ausgenommen davon sind Gesuche von Personen gemäss Artikel 4 Absätze 2 und 2<sup>bis</sup>.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2020 (Lockerungen in den Bereichen Grenze, Einreise und Zulassung zu Aufenthalt und Arbeitsmarkt), in Kraft seit 6. Juli 2020 ([AS 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
+[^10-1]: Fassung gemäss Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 [^10-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -322,29 +355,9 @@ Gesichtsmasken, für die kein Konformitätsbewertungsverfahren nach Artikel 10 M
 
 #### Art. 23a
 
-**Ausnahmen für Medizinprodukte: Sars-CoV-2-Selbsttests**[^23a-1]
+[^23a-1]
 
-<sup>1</sup> Die Swissmedic kann auf Gesuch hin das Inverkehrbringen von nicht automatisierten Einzelpatienten-Schnelltests zum direkten Nachweis von Sars-CoV-2 (Sars-CoV-2-Schnelltests), die vom Hersteller für die Eigenanwendung durch das Publikum vorgesehen sind (Sars-CoV-2-Selbsttests), für die kein Konformitätsbewertungsverfahren nach Artikel 10 MepV[^23a-2] durchgeführt wurde, bewilligen.
-
-<sup>2</sup>
-
-Das Gesuch muss folgende Angaben enthalten:
-
-- a. Beschreibung des Produkts;
-- b. Nachweis des Antrags für ein Konformitätsbewertungsverfahren für das Produkt bei einer nach schweizerischem Recht bezeichneten Konformitätsbewertungsstelle oder bei einer benannten Stelle nach EU-Recht;
-- c. sofern keine Stelle den Antrag nach Buchstabe b annimmt, Kopien der Ablehnungen von mindestens zwei Stellen;
-- d. CE-Kennzeichnung des Sars-CoV-2-Schnelltests zur Fachanwendung, auf dem der Sars-CoV-2-Selbsttest basiert;
-- e. Nachweis der Erfüllung der Anforderungen nach Artikel 24*a* und der Mindestkriterien nach Anhang 5*a* Ziffer 3;
-- f. Nachweis der Gebrauchstauglichkeit des Produkts bei Eigenanwendung;
-- g. Nachweis der Erfüllung der speziell für die Eigenanwendung spezifizierten grundlegenden Anforderungen nach Anhang I der Richtlinie 98/79/EG[^23a-3];
-- h aktuelle Risikoanalyse, die die Risiken, die sich aus der Eigenanwendung ergeben, berücksichtigt;
-- i. Produktkennzeichnung und Gebrauchsanweisung in den drei Amtssprachen.
-
-<sup>3</sup> Die Bewilligung wird gegenüber dem Hersteller oder seinem Schweizer Vertreter verfügt. Sie kann befristet werden und unter Auflagen oder Bedingungen erfolgen.
-
-[^23a-1]: Eingefügt durch Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^23a-2]: SR **812.813**
-[^23a-3]: Richtlinie 98/79/EG des Europäischen Parlamentes und des Rates vom 27. Oktober 1998 über In-vitro-Diagnostika, ABl. L 331 vom 7.12.1998, S. 1; zuletzt geändert durch Richt-linie 2011/100/EU, ABl. L 341 vom 22.12.2011, S. 50.
+[^23a-1]: Eingefügt durch Ziff. I der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 23b
 
@@ -371,7 +384,7 @@ Atemschutzmasken nach Absatz 1, die sich in Lagerbeständen von Bund und Kantone
 
 <sup>1</sup>
 
-Sars-CoV-2-Schnelltests zur Fachanwendung dürfen nur in den folgenden Einrichtungen durchgeführt werden:[^24-3]
+Nicht automatisierte Einzelpatienten-Schnelltests zum direkten Nachweis von Sars-CoV-2 (Sars-CoV-2-Schnelltests) zur Fachanwendung dürfen nur in den folgenden Einrichtungen durchgeführt werden:[^24-3]
 
 - a. in nach Artikel 16 des Epidemiengesetzes vom 28. September 2012[^24-4] (EpG) bewilligten Laboratorien und von ihnen betriebenen Probenentnahmestellen;
 - b.[^24-5] in Arztpraxen, Apotheken, Spitälern, Alters- und Pflegeheimen und sozialmedizinischen Institutionen sowie in Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden.
@@ -399,24 +412,23 @@ Einrichtungen nach den Absätzen 1 Buchstabe b und 1<sup>bis</sup> dürfen Sars-
 
 <sup>4bis</sup>
 
-Sars-CoV-2-Selbsttests dürfen abgegeben und verwendet werden, wenn sie:
+Sars-CoV-2-Schnelltests für die Eigenanwendung durch das Publikum (Sars-CoV-2-Selbsttests) dürfen abgegeben und verwendet werden, wenn sie:
 
-- a. gemäss Angaben des Herstellers zur Eigenanwendung vorgesehen und entsprechend zertifiziert oder nach Artikel 23*a* von der Swissmedic bewilligt sind;
-- b. die Anforderungen nach Artikel 24*a* und die Mindestkriterien nach Anhang 5*a* Ziffer 3 erfüllen;
-- c. durch Apotheken an das Publikum abgegeben werden.[^24-10]
+- a. gemäss Angaben des Herstellers zur Eigenanwendung vorgesehen und entsprechend zertifiziert sind;
+- b. die Anforderungen nach Artikel 24*a* und die Mindestkriterien nach Anhang 5*a* Ziffer 3 erfüllen.[^24-10]
 
 <sup>5</sup> Als Sars-CoV-2-Schnelltests gelten direkte Nachweismethoden, die die Antigene oder die Ribonukleinsäure von Sars-CoV-2 nachweisen. Die Tests erfolgen nicht automatisiert und mit minimalem Instrumentarium; automatisiert erfolgt höchstens das Ablesen des Testresultats.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-3]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-3]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 [^24-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^24-5]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 [^24-6]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^24-7]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-8]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-9]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-10]: Eingefügt durch Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-10]: Eingefügt durch Ziff. I der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 24a
 
@@ -533,12 +545,13 @@ Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 
 - a. den Versicherer nach Absatz 1, der die Vergütung der Leistungen nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG schuldet; oder
 - b. den Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird.
 
-<sup>4</sup> Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 2, 3.1.1 Buchstaben b und c und 3.2.1 Buchstaben b und c durchgeführt, so schuldet der Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.
+<sup>4</sup> Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 2, 3.1.1 Buchstaben b–d und 3.2.1 Buchstaben b und c durchgeführt, so schuldet der Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.[^26a-5]
 
 [^26a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2020 ([AS 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 [^26a-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26a-5]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 26b
 
@@ -608,7 +621,7 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. Juni 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)).
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 27a
 
@@ -640,27 +653,28 @@ Ist aus betrieblichen Gründen die Präsenz besonders gefährdeter Arbeitnehmeri
 Als besonders gefährdet gelten:
 
 - a. schwangere Frauen;
-- b. Personen, die Erkrankungen oder genetische Anomalien aufweisen, die in Anhang 7 aufgeführt sind.[^27a-2]
+- b. Personen mit den Erkrankungen oder genetischen Anomalien nach Anhang 7, die sich aus medizinischen Gründen nicht impfen lassen können.[^27a-2]
 
 <sup>10bis</sup>
 
-Nicht unter Absatz 10 fallen Personen, die:
+Nicht als besonders gefährdet gelten:
 
-- a. gegen Covid-19 geimpft sind;
-- b. sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten nach der Aufhebung einer Absonderung durch die zuständige Behörde.[^27a-3]
+- a. schwangere Frauen, die gegen Covid-19 geimpft sind, während 12 Monaten ab vollständig erfolgter Impfung;
+- b. Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten ab dem 11. Tag nach der Bestätigung der Ansteckung.[^27a-3]
 
 <sup>11</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10<sup>bis</sup> als besonders gefährdet eingestuft werden.[^27a-4]
 
 <sup>12</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.[^27a-5]
 
-<sup>13</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 10 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^27a-6].
+<sup>13</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom vom 23. Juni 2021[^27a-6] [^27a-7].
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^27a-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 [^27a-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^27a-5]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^27a-6]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-7]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 26. Juni 2021 angepasst.
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -670,7 +684,7 @@ Nicht unter Absatz 10 fallen Personen, die:
 
 Die COVID-19-Verordnung 2 vom 13. März 2020[^28-1] wird aufgehoben.
 
-[^28-1]: [[AS 2020 773](https://fedlex.data.admin.ch/eli/oc/2020/141)[783](https://fedlex.data.admin.ch/eli/oc/2020/144)[841](https://fedlex.data.admin.ch/eli/oc/2020/158)[863](https://fedlex.data.admin.ch/eli/oc/2020/164)[867](https://fedlex.data.admin.ch/eli/oc/2020/165)[1059](https://fedlex.data.admin.ch/eli/oc/2020/188)[1065](https://fedlex.data.admin.ch/eli/oc/2020/190)[1101](https://fedlex.data.admin.ch/eli/oc/2020/196)[1131](https://fedlex.data.admin.ch/eli/oc/2020/206)[1137](https://fedlex.data.admin.ch/eli/oc/2020/207)[1155](https://fedlex.data.admin.ch/eli/oc/2020/213)[1199](https://fedlex.data.admin.ch/eli/oc/2020/225)[1245](https://fedlex.data.admin.ch/eli/oc/2020/238)[1249](https://fedlex.data.admin.ch/eli/oc/2020/239)[1333](https://fedlex.data.admin.ch/eli/oc/2020/252)[1401](https://fedlex.data.admin.ch/eli/oc/2020/275)[1501](https://fedlex.data.admin.ch/eli/oc/2020/299)[1505](https://fedlex.data.admin.ch/eli/oc/2020/300)[1585](https://fedlex.data.admin.ch/eli/oc/2020/323)[1751](https://fedlex.data.admin.ch/eli/oc/2020/343)[1815](https://fedlex.data.admin.ch/eli/oc/2020/366)[1823](https://fedlex.data.admin.ch/eli/oc/2020/367)[1835](https://fedlex.data.admin.ch/eli/oc/2020/371)[2097](https://fedlex.data.admin.ch/eli/oc/2020/413)[2099](https://fedlex.data.admin.ch/eli/oc/2020/414)[2213](https://fedlex.data.admin.ch/eli/oc/2020/439)Art. 14 Ziff. 2]
+[^28-1]: [[AS 2020 773](https://fedlex.data.admin.ch/eli/oc/2020/141), [783](https://fedlex.data.admin.ch/eli/oc/2020/144), [841](https://fedlex.data.admin.ch/eli/oc/2020/158), [863](https://fedlex.data.admin.ch/eli/oc/2020/164), [867](https://fedlex.data.admin.ch/eli/oc/2020/165), [1059](https://fedlex.data.admin.ch/eli/oc/2020/188), [1065](https://fedlex.data.admin.ch/eli/oc/2020/190), [1101](https://fedlex.data.admin.ch/eli/oc/2020/196), [1131](https://fedlex.data.admin.ch/eli/oc/2020/206), [1137](https://fedlex.data.admin.ch/eli/oc/2020/207), [1155](https://fedlex.data.admin.ch/eli/oc/2020/213), [1199](https://fedlex.data.admin.ch/eli/oc/2020/225), [1245](https://fedlex.data.admin.ch/eli/oc/2020/238), [1249](https://fedlex.data.admin.ch/eli/oc/2020/239), [1333](https://fedlex.data.admin.ch/eli/oc/2020/252), [1401](https://fedlex.data.admin.ch/eli/oc/2020/275), [1501](https://fedlex.data.admin.ch/eli/oc/2020/299), [1505](https://fedlex.data.admin.ch/eli/oc/2020/300), [1585](https://fedlex.data.admin.ch/eli/oc/2020/323), [1751](https://fedlex.data.admin.ch/eli/oc/2020/343), [1815](https://fedlex.data.admin.ch/eli/oc/2020/366), [1823](https://fedlex.data.admin.ch/eli/oc/2020/367), [1835](https://fedlex.data.admin.ch/eli/oc/2020/371), [2097](https://fedlex.data.admin.ch/eli/oc/2020/413), [2099](https://fedlex.data.admin.ch/eli/oc/2020/414), [2213](https://fedlex.data.admin.ch/eli/oc/2020/439)Art. 14 Ziff. 2]
 
 #### Art. 28a
 
@@ -679,6 +693,18 @@ Die COVID-19-Verordnung 2 vom 13. März 2020[^28-1] wird aufgehoben.
 Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Rechts zugelassen wurden, dürfen noch bis zum 30. Juni 2021 in Verkehr gebracht werden.
 
 [^28a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 18. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
+
+#### Art. 28b
+
+**Übergangsbestimmungen zur Änderung vom 23. Juni 2021**[^28b-1]
+
+<sup>1</sup> Bewilligungen für das Inverkehrbringen von Sars-CoV-2-Selbsttests, die Swissmedic gestützt auf Artikel 23*a* des bisherigen Rechts erteilt hat, behalten ihre Gültigkeit bis zum Ablauf der Bewilligungsdauer.
+
+<sup>2</sup> Gestützt auf Artikel 23*a* des bisherigen Rechts bewilligte Sars-CoV-2-Selbsttests können weiterhin durch Apotheken abgegeben werden, sofern die Anforderungen nach Artikel 24 Absatz 4<sup>bis</sup> Buchstabe b erfüllt sind.
+
+<sup>3</sup> Gesuche, die beim Inkrafttreten der Änderung vom 23. Juni 2021 hängig sind, werden nach Artikel 23*a* des bisherigen Rechts behandelt.
+
+[^28b-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 29
 
@@ -698,53 +724,95 @@ Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Re
 
 Anhang 1*[^t-1]*
 
-(Art. 3 Abs. 2)
+(Art. 3 Abs. 3, Art. 4 Abs. 2<sup>ter</sup> und Art. 5)
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 17. Juni 2021, in Kraft seit 21. Juni 2021 ([AS 2021 355](https://fedlex.data.admin.ch/eli/oc/2021/355)).
+[^t-1]: Fassung gemäss Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
-Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
+### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
+Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
+
+- – Albanien
 - – Andorra
 - – Australien
 - – Bulgarien
 - – Heiliger Stuhl
+- – Hongkong
 - – Irland
 - – Israel
 - – Japan
 - – Korea (Süd-)
 - – Kroatien
+- – Libanon
+- – Macau
 - – Monaco
 - – Neuseeland
+- – Nordmazedonien
 - – Ruanda
 - – Rumänien
 - – San Marino
+- – Serbien
 - – Singapur
+- – Taiwan
 - – Thailand
+- – Vereinigte Staaten von Amerika
 - – Zypern
 
-Anhang 2*[^t-2]*
+### 2. Risikoländer und -regionen mit einer Variante des Virus Sars-CoV-2, von der im Vergleich zu der im Schengen-Raum verbreiteten Virusvariante eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht (Art. 3 Abs. 2 Bst. b)
 
-[^t-2]: Obsolet geworden durch die Aufhebung von Art. 8 (s. Art. 6 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 2. Juli 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+- [tab]
 
-Anhang 3*[^t-3]*
+Anhang 1a*[^t-2]*
+
+(Art. 4 Abs. 2 Bst. a und Art. 5)
+
+## Geimpfte Personen
+
+[^t-2]: Eingefügt durch Anhang 3 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+
+- 1
+
+  Als geimpfte Personen gelten Personen, die mit einem Impfstoff geimpft wurden, der:
+
+  - a. über eine Zulassung in der Schweiz verfügt und gemäss den Empfehlungen des BAG vollständig verimpft wurde;
+  - b. über eine Zulassung der Europäischen Arzneimittelagentur für die Europäische Union verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
+  - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
+
+- 2 Die Dauer, während der geimpfte Personen vom Einreiseverbot nach Artikel 4 Absatz 1 ausgenommen sind, beträgt 12 Monate ab der vollständig erfolgten Impfung; beim Impfstoff von Janssen beträgt die Dauer 12 Monate ab dem 22. Tag nach erfolgter Impfung.
+- 3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex1a-lvlu1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
+- 4
+
+  Der Nachweis kann auch anders als gemäss Ziffer 3 erbracht werden. Er muss einer aktuell üblichen Nachweisform entsprechen. Er muss neben dem Namen, Vornamen und Geburtsdatum der betreffenden Person folgende Angaben enthalten:
+
+  - a. Datum der Impfung;
+  - b. verwendeter Impfstoff.
+  - [tab]
+
+[^annex1a-lvlu1-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+Anhang 2*[^t-3]*
+
+[^t-3]: Obsolet geworden durch die Aufhebung von Art. 8 (s. Art. 6 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 2. Juli 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+
+Anhang 3*[^t-4]*
 
 (Art. 9 Abs. 3)
 
 ## Einschränkungen des grenzüberschreitenden Personenverkehrs
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 21. Dez. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Bereinigt gemäss Anhang 2 Ziff. 2 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021, in Kraft seit 8. Febr. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^t-4]: Fassung gemäss Ziff. II der V vom 21. Dez. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Bereinigt gemäss Anhang 2 Ziff. 2 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021, in Kraft seit 8. Febr. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
 
-Anhang 4*[^t-4]*
+Anhang 4*[^t-5]*
 
 (Art. 11 Abs. 1, 19 Abs. 1 und 21 Abs. 2)
 
 ## Liste der wichtigen Arzneimittel, Medizinprodukte und Schutzausrüstungen (wichtige medizinische Güter)
 
-[^t-4]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), Ziff. I Abs. 1 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19) ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-5]: Fassung gemäss Ziff. I der V des BAG vom 6. Okt. 2020 (Liste der wichtigen medizinischen Güter und Liste der Wirkstoffe zur Behandlung von Covid-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), Ziff. I Abs. 1 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19) ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1. Wirkstoffe sowie Arzneimittel mit den aufgeführten Wirkstoffen
 
@@ -836,24 +904,24 @@ Anhang 4*[^t-4]*
 
 \4. Hygieneartikel in der Intensivmedizin (z. B. absorbierende Unterlagen, Windeln, Rectalkollektoren, Artikel zur Mund- und Rachenhygiene
 
-Anhang 5*[^t-5]*
+Anhang 5*[^t-6]*
 
 (Art. 21 Abs. 1 und 3 sowie 22 Abs. 1)
 
 ## Liste der Wirkstoffe für die Behandlung von Covid-19
 
-[^t-5]: Fassung gemäss gemäss Ziff. I Abs. 2 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 15. April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
+[^t-6]: Fassung gemäss gemäss Ziff. I Abs. 2 der V des EDI vom 14. April 2021 (Änderung der Listen der wichtigen medizinischen Güter und der Wirkstoffe für die Behandlung von Covid-19), in Kraft seit 15. April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
 
 - 1\. Casirivimab/Imdevimab
 - 2\. Bamlanivimab/Etesevimab
 
-Anhang 5a*[^t-6]*
+Anhang 5a*[^t-7]*
 
 (Art. 23*a* Abs. 2 Bst. e, 24 Abs. 4<sup>bis</sup> Bst. b und 24*a* Abs. 1)
 
 ## Mindestkriterien in Bezug auf die Zuverlässigkeit und Leistung von Sars-CoV-2-Schnelltests
 
-[^t-6]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. III der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^t-7]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. III der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 ### 1 Allgemeines
 
@@ -894,13 +962,13 @@ Anhang 5a*[^t-6]*
 - 3\.3 Kreuzreaktivität: Untersuchung auch von Proben mit hoher Konzentration an verwandten Humanen Coronaviren, darunter mindestens das Humane Coronavirus 229E, das Humane Coronavirus OC43, das Humane Coronavirus NL63 oder das Humane Coronavirus HKU1.
 - 3\.4 Interferenz: Untersuchung auch von Pathogen-positiven Proben, bei denen das Pathogen eine analoge Symptomatik hervorrufen kann (Influenza A, B; RSV) oder mit dem Testprinzip interferieren könnte (Protein-A-positive *Staphylococcus aureus* bei Nasenabstrichen als Probenmatrix).
 
-Anhang 6*[^t-7]*
+Anhang 6*[^t-8]*
 
 (Art. 26, 26*a*, 26*b* und 26*c*)
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) und vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) und vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -1034,13 +1102,13 @@ Anhang 6*[^t-7]*
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>274 Fr.</td></tr>
-<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Analyse, bei einer Mindestpoolgrösse von 4 Proben</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis zur Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme, bis zu einer Maximalpoolgrösse von 25 Proben</td><td>8 Fr.</td></tr>
 <tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>255 Fr.</td></tr>
-<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Analyse, bei einer Mindestpoolgrösse von 4 Proben</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme, bis zu einer Maximalpoolgrösse von 25 Proben</td><td>8 Fr.</td></tr>
 </table>
 
 ### 1.3 Analysen auf Sars-CoV-2-Antikörper
@@ -1199,7 +1267,7 @@ Anhang 6*[^t-7]*
 
   Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch:
 
-  - a. mikrobiologische diagnostische Laboratorien mit einer Akkreditierung der Schweizerischen Akkreditierungsstelle (SAS) in Sequenzierung[^annex6-lvlu1-lvl1-lvl16-1];
+  - a. mikrobiologische diagnostische Laboratorien, die über eine Bewilligung nach Artikel 16 EpG verfügen;
   - b. Referenzlaboratorien, die die Voraussetzungen nach Artikel 17 EpG erfüllen.
 
 - 1\.6.3 Für die Sequenzierung auf Sars-CoV-2 übernimmt er höchstens 221 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
@@ -1210,8 +1278,6 @@ Anhang 6*[^t-7]*
 <tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>197 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
-
-[^annex6-lvlu1-lvl1-lvl16-1]: Die Liste der SAS der akkreditierten diagnostischen Laboratorien in der Schweiz mit Erfahrung in Sequenzierung von mikrobiologischen Proben ist abrufbar unter www.sas.admin.ch.
 
 ### 2 Reduzierter Tarif für gezielte und repetitive Testungen
 
@@ -1309,13 +1375,13 @@ Anhang 6*[^t-7]*
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>274 Fr.</td></tr>
-<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Analyse, bei einer Mindestpoolgrösse von 4 Proben</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme, bis zu einer Maximalpoolgrösse von 25 Proben</td><td>8 Fr.</td></tr>
 <tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>255 Fr.</td></tr>
-<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Analyse, bei einer Mindestpoolgrösse von 4 Proben</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme, bis zu einer Maximalpoolgrösse von 25 Proben</td><td>8 Fr.</td></tr>
 </table>
 
 - c. für das zentralisierte Pooling:
@@ -1338,7 +1404,7 @@ Anhang 6*[^t-7]*
   - c. bei einer Kontaktperson, die sich in Quarantäne befindet, wenn im Betrieb, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird;
   - d. bei Veranstaltungen mit einer Zugangsbeschränkung nach Artikel 15 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^annex6-lvlu1-lvl3-lvl31-1] beziehungsweise nach Artikel 6*b*<sup>quater</sup> der Covid-19-Verordnung besondere Lage vom 19. Juni 2020 in der Fassung der Änderung vom 26. Mai 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
-- 3\.1.2 Er übernimmt zudem die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard in Fällen nach Ziffer 3.1.1 Buchstabe b.
+- 3\.1.2 Er übernimmt zudem die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard in Fällen nach Ziffer 3.1.1 Buchstaben b und d.
 - 3\.1.3
 
   Er übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung nach den Ziffern 3.1.1 und 3.1.2 nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden durch:
@@ -1384,26 +1450,28 @@ Anhang 6*[^t-7]*
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>274 Fr.</td></tr>
-<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Analyse, bei einer Mindestpoolgrösse von 4 Proben</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
-<tr><td>– für die Durchführung eines zentralisierten Poolings in Fällen nach Ziff. 3.2.1 Bst. b und c pro Poolerstellung</td><td>18.50 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme, bis zu einer Maximalpoolgrösse von 25 Proben</td><td>8 Fr.</td></tr>
+<tr><td>– für die Durchführung eines zentralisierten Poolings in Fällen nach Ziffer 3.2.1 Buchstaben b und c pro Poolerstellung</td><td>18.50 Fr.</td></tr>
 <tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>255 Fr.</td></tr>
-<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Analyse, bei einer Mindestpoolgrösse von 4 Proben</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
-<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>8 Fr.</td></tr>
-<tr><td>– für die Durchführung eines zentralisierten Poolings in Fällen nach Ziff. 3.2.1 Bst. b und c pro Poolerstellung</td><td>18.50 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme, bis zu einer Maximalpoolgrösse von 25 Proben</td><td>8 Fr.</td></tr>
+<tr><td>– für die Durchführung eines zentralisierten Poolings in Fällen nach Ziffer 3.2.1 Buchstaben b und c pro Poolerstellung</td><td>18.50 Fr.</td></tr>
 </table>
 
 ### 3.3 Sars-CoV-2-Selbsttests
 
-- 3\.3.1 Der Bund übernimmt die Kosten von maximal fünf Sars-CoV-2-Selbsttests pro Person innerhalb von 30 Tagen.
-- 3\.3.2 Für einen Sars-CoV-2-Selbsttest übernimmt er höchstens 12 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.3.1 Der Bund übernimmt die Kosten von maximal fünf Sars-CoV-2-Selbsttests pro Person innerhalb von 30 Tagen, sofern sie durch Apotheken abgegeben werden.
+- 3\.3.2
 
-<table>
-<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für den Sars-CoV-2-Selbsttest, nur das Testmaterial, darin enthalten: der Fabrikabgabepreis, ein Zuschlag von 80 % auf den Fabrikabgabepreis sowie die Mehrwertsteuer zu einem Satz von 7,7 %</td><td>12 Fr.</td></tr>
-</table>
+  Folgende Personen haben keinen Anspruch auf die Kostenübernahme von Sars-CoV-2-Selbsttests:
+
+  - a. Geimpfte Personen im Sinne von Anhang 2 Ziffer 1.1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^annex6-lvlu1-lvl3-lvl33-1], sofern die Impfung weniger als 365 Tage ab Verabreichung der letzten Dosis zurückliegt; beim Impfstoff von Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung;
+  - b. Personen, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten ab dem 11. Tag nach der Bestätigung der Ansteckung.
+
+[^annex6-lvlu1-lvl3-lvl33-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ### 4 Limitationen
 
@@ -1412,13 +1480,13 @@ Anhang 6*[^t-7]*
 - 4\.3 Werden bei einer Person sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch ein molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten nach Ziffer 1.5 oder eine Sequenzierung auf Sars-CoV-2 nach Ziffer 1.6 vom selben Leistungserbringer durchgeführt, so übernimmt der Bund den Kostenanteil für die Auftragsabwicklung und die Overheadkosten nach den Ziffern 1.1.3 Buchstabe b und 1.5.3 beziehungsweise 1.6.3 nur einmal.
 - 4\.4 Bei Analysen auf Sars-CoV-2, bei denen die Probenentnahme durch die getestete Person selbst durchgeführt werden kann, darf die Probenentnahme nicht verrechnet werden.
 
-Anhang 7*[^t-8]*
+Anhang 7*[^t-9]*
 
 (Art. 27*a* Abs. 10 und 11)
 
 ## Erkrankungen und genetische Anomalien, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. Juni 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 

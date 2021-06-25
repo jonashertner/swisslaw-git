@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-06-21
+version: 2021-06-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210621/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210621-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210621/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210626/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210626-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210626/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 21 June 2021)
+of 19 June 2020 (Status as of 26 June 2021
 
 The Swiss Federal Council,
 
@@ -60,7 +60,17 @@ In order to maintain Switzerland’s capacities to manage the COVID-19 epidemic 
 - a. measures to restrict the entry of persons from high-risk countries and regions and the import and export of goods;
 - b. measures to guarantee the provision of essential medical goods.
 
-<sup>2</sup> High-risk countries or regions are in particular countries or regions in which the authorities have taken exceptional measures to prevent and combat the COVID-19 epidemic. A list of high-risk countries and regions is published in Annex 1. The Federal Department of Justice and Police (FDJP) shall compile and regularly update the list in consultation with the Federal Department of Home Affairs (FDHA) and the Federal Department of Foreign Affairs (FDFA).
+<sup>2</sup>
+
+High-risk countries or regions are countries or regions in which the coronavirus Sars-CoV-2 has been detected and in which:
+
+- a. there is an increased risk of infection; or
+- b. a variant of the virus is widespread that carries a higher risk of infection or causes a more severe form of the disease in comparison with the variant of the virus that is prevalent in the Schengen area.[^3-1]
+
+<sup>3</sup> The lists of high-risk countries and regions is published in Annex 1.[^3-2]
+
+[^3-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^3-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 ### Section 2 Restrictions on Border Crossings and the Admission of Foreign Nationals
 
@@ -73,9 +83,20 @@ In order to maintain Switzerland’s capacities to manage the COVID-19 epidemic 
 The following persons shall be refused entry for a period of stay of up to three months that does not require a permit and does not involve gainful employment (Art. 10 of the Foreign Nationals and Integration Act of 16 December 2005[^4-2] (FNIA):
 
 - a. foreign nationals who wish to enter Switzerland from a high-risk country or from a high-risk region and who do not fall within the scope of the Agreement of 21 June 1999[^4-3] between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other part, on the Free Movement of Persons (AFMP) or of the Convention of 4 January 1960[^4-4] establishing the European Free Trade Association (EFTA Convention);
-- b. und c.[^4-5] ... .[^4-6]
+- b. and c.[^4-5] ... .[^4-6]
 
-<sup>2</sup> Persons who provide credible evidence that they are in a situation of special necessity are exempted from this ban on entry. The State Secretariat for Migration (SEM) shall issue the required directives.
+<sup>2</sup>
+
+The following persons are exempt from this ban on entry:
+
+- a. persons who prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated is regulated in Annex 1*a*; or
+- b. persons who provide credible evidence that they are in a situation of special necessity.[^4-7]
+
+<sup>2bis</sup> Children under the age of 18 who enter Switzerland accompanied by an adult who meets the requirements of paragraph 2 letter a are not required to prove that they have been vaccinated.[^4-8]
+
+<sup>2ter</sup> The exception in paragraph 2 letter a does not apply to persons who wish to enter Switzerland from a country or region listed in Annex 1 number 2.[^4-9]
+
+<sup>2quater</sup> The State Secretariat for Migration (SEM) shall issue the required directives on exceptions to the ban on entry.[^4-10]
 
 <sup>3</sup> Decisions taken by the competent authorities may be enforced immediately. Article 65 of the FNIA applies *mutatis m**u**tandis*. An appeal may be filed against the SEM decision within 30 days of notification. The appeal does not have suspensive effect.
 
@@ -87,12 +108,24 @@ The following persons shall be refused entry for a period of stay of up to three
 [^4-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^4-5]: Repealed by Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, with effect from 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^4-6]: Amended by No I of the O of 21 Dec. 2020, in force since 21 Dec. 2020 at 1pm ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^4-7]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-8]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-9]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-10]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
-#### Art. 5–7
+#### Art. 5
 
-[^57-1]
+**Updating the annexes**[^5-1]
 
-[^57-1]: Repealed by No I of the O of 24 June 2020 (Relaxation of Measures relating to Borders, Entry and Admission for Residence and Employment), with effect from 6 July 2020 ([AS 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
+The Federal Department of Justice and Police (FDJP) shall update Annexes 1 and 1*a* continuously in consultation with the Federal Department of Home Affairs (FDHA) and the Federal Department of Foreign Affairs (FDFA).
+
+[^5-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+
+#### Art. 6 and 7
+
+[^67-1]
+
+[^67-1]: Repealed by No I of the O of 24 June 2020 (Relaxation of Measures relating to Borders, Entry and Admission for Residence and Employment), with effect from 6 July 2020 ([AS 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
 
 #### Art. 8
 
@@ -114,9 +147,9 @@ The following persons shall be refused entry for a period of stay of up to three
 
 **Granting of visas**[^10-1]
 
-Foreign nationals who wish to enter Switzerland from a high-risk country or from a high-risk region and who do not fall within the scope of the AFMP[^10-2] or the EFTA Convention[^10-3] shall not be granted a Schengen visa for periods of stay of up to three months that do not require a permit and do not involve gainful employment. Exempted from the foregoing are applications from persons under Article 4 paragraph 2.
+Foreign nationals who wish to enter Switzerland from a high-risk country or from a high-risk region and who do not fall within the scope of the AFMP[^10-2] or the EFTA Convention[^10-3] shall not be granted a Schengen visa for periods of stay of up to three months that do not require a permit and do not involve gainful employment. Exempted from the foregoing are applications from persons under Article 4 paragraphs 2 and 2<sup>bis</sup>.
 
-[^10-1]: Amended by No I of the O of 24 June 2020 (Relaxation of Measures relating to Borders, Entry and Admission for Residence and Employment), in force since 6 July 2020 ([AS 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
+[^10-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 [^10-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -324,29 +357,9 @@ Facemasks which have not undergone a conformity assessment procedure under Artic
 
 #### Art. 23a
 
-**Exceptions for medical devices: Sars-CoV-2 self-tests**[^23a-1]
+[^23a-1]
 
-<sup>1</sup> In response to an application, Swissmedic may authorise the placing on the market of non-automated single-patient rapid tests for direct detection of Sars-CoV-2 (Sars-CoV-2 rapid tests) that have not been subject to conformity assessment under Article 10 MedDO[^23a-2] and which are intended by the manufacturer to be used by members of the public for self-testing (Sars-CoV-2 self-tests).
-
-<sup>2</sup>
-
-The application must contain the following information:
-
-- a. a description of the product;
-- b. proof of an application for conformity assessment for the product by a conformity assessment body under Swiss law or by a named body under EU law;
-- c. if no body accepts the application under letter b, copies of the rejection from at least two bodies;
-- d. the CE label of the Sars-CoV-2 rapid tests for specialist use on which the Sars-CoV-2 self-test is based;
-- e. proof that the requirements in Article 24*a* and the minimum criteria in Annex 5*a* number 3 have been met;
-- f. proof of the fitness of the product for use in self-testing;
-- g. proof that essential requirements specified for self-testing in Annex I to Directive 98/79/EC[^23a-3] have been met;
-- h an up-to-date risk analysis that takes account of the risks that arise from self-testing;
-- i. a product label and instructions for use in the three official languages.
-
-<sup>3</sup> Authorisation shall be granted to the manufacturer or its Swiss representative rules. It may be limited in time and made subject to requirements or conditions.
-
-[^23a-1]: Inserted by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^23a-2]: SR **812.813**
-[^23a-3]: Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in-vitro diagnostic medical devices, OJ L 331 of 7.12.1998, p. 1; last amended by Directive 2011/100/EU, OJ L 341 of 22.12.2011, p. 50.
+[^23a-1]: Inserted by No I of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Repealed by No I of the O of 23 June 2021, with effect from 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 23b
 
@@ -373,7 +386,7 @@ FFP masks under paragraph 1 held in federal and cantonal stocks may be supplied 
 
 <sup>1</sup>
 
-Sars-CoV-2 rapid tests for specialist use may only be carried out in the following facilities:[^24-3]
+Non-automated single-patient rapid tests for direct detection of Sars-CoV-2 (Sars-CoV-2 rapid tests) for specialist use may only be carried out in the following facilities:[^24-3]
 
 - a. laboratories licensed under Article 16 of the Epidemics Act of 28 September 2012[^24-4] (EpidA) and sample collection stations that they operate;
 - b.[^24-5] medical practices, pharmacies and hospitals, homes for the elderly and care homes and socio-medical institutions, and test centres operated by or on behalf of the canton.
@@ -401,24 +414,23 @@ Facilities under paragraphs 1 letter b and 1<sup>bis</sup> may carry out Sars-Co
 
 <sup>4bis</sup>
 
-Sars-CoV-2 self-tests may be supplied and used if they:
+Sars-CoV-2 rapid tests for self-testing by the public (Sars-CoV-2 self-tests) may be supplied and used if they:
 
 - a. are intended for self-testing by the manufacturer and certified accordingly or authorised by Swissmedic under Article 23*a*;
-- b. meet the requirements of Article 24*a* and the minimum criteria in Annex 5*a* number 3;
-- c. are supplied to the public by pharmacies.[^24-10]
+- b. meet the requirements of Article 24*a* and the minimum criteria in Annex 5*a* number 3.[^24-10]
 
 <sup>5</sup> Sars-CoV-2 rapid tests are direct detection methods that detect the antigens to or the ribonucleic acids of Sars-CoV-2. The tests are not automated and are carried out with the minimum of instruments; only the reading of the test result may be automated.
 
 [^24-1]: Amended by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 [^24-2]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-3]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-3]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 [^24-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^24-5]: Amended by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 [^24-6]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^24-7]: Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-8]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-9]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-10]: Inserted by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-10]: Inserted by No I of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 24a
 
@@ -535,12 +547,13 @@ Where the analysis for Sars-CoV-2 is conducted in accordance with Annex 6 Sectio
 - a. the insurer under paragraph 1 that is liable to pay for the services under the *tiers payant* system in terms of Article 42 paragraph 2 HIA; or
 - b. the canton in which the sample for Sars-CoV-2 is taken.
 
-<sup>4</sup> Where the analysis for Sars-CoV-2 under Annex 6 Sections 2, 3.1.1 letters b and c and 3.2.1 letters b and c is conducted, the canton in which the sample for Sars-CoV-2 is taken shall pay for the services.
+<sup>4</sup> Where the analysis for Sars-CoV-2 under Annex 6 Sections 2, 3.1.1 letters b–d and 3.2.1 letters b and c is conducted, the canton in which the sample for Sars-CoV-2 is taken shall pay for the services.[^26a-5]
 
 [^26a-1]: Inserted by No I of the O of 24 June 2020 ([AS 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 [^26a-4]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26a-5]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 26b
 
@@ -639,17 +652,17 @@ Where for operational reasons the presence of employees at high risk in the work
 
 <sup>10</sup>
 
-Persons at high risk are:
+The following persons are regarded as being at high risk:
 
 - a. pregnant women;
-- b. persons with the diseases or genetic anomalies listed in Annex 7.[^27a-2]
+- b. persons with the diseases or genetic anomalies listed in Annex 7 who cannot be vaccinated on medical grounds.[^27a-2]
 
 <sup>10bis</sup>
 
-The following persons do not fall under paragraph 10:
+The following persons are not regarded as being at high risk:
 
-- a. persons who have been vaccinated against COVID-19;
-- b. persons who have been were infected with Sars-CoV-2 and have recovered, in the 6 months following the authorisation of their release from isolation by the competent authority.[^27a-3]
+- a. pregnant women who have been vaccinated against COVID-19, for 12 months from the date on which the vaccination is administered in full;
+- b. persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered, for 6 months from the 11th day after confirmation of the infection.[^27a-3]
 
 <sup>11</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.[^27a-4]
 
@@ -658,10 +671,10 @@ The following persons do not fall under paragraph 10:
 <sup>13</sup> For the general protection of employees, Article 10 of the COVID-19 Special Situation Ordinance of 19 June 2020[^27a-6] applies.
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: Amended by No I of the O of 12 May 2021, in force from 17 to 31 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-3]: Inserted by No I of the O of 12 May 2021, in force from 17 to 31 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-4]: Amended by No I of the O of 12 May 2021, in force from 17 to 31 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-5]: Amended by No I of the O of 12 May 2021, in force from 17 to 31 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-2]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^27a-3]: Inserted by No I of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^27a-4]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-5]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^27a-6]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapter 5 Final Provisions
@@ -682,6 +695,18 @@ Personal protective equipment that was permitted under Article 24 of the previou
 
 [^28a-1]: Inserted by No I of the O of 11 Sept. 2020 (Extension; Test Costs), in force since 18 Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
+#### Art. 28b
+
+**Transitional provisions to the Amendment of 23 June 2021**[^28b-1]
+
+<sup>1</sup> Licences for placing Sars-CoV-2 self-tests on the market that Swissmedic has granted based on Article 23*a* of the previous law remain valid until the licence expires.
+
+<sup>2</sup> Pharmacies may continue to supply Sars-CoV-2 self-tests licensed under Article 23*a* of the previous law provided the requirements of Article 24 paragraph 4<sup>bis</sup> letter b are met.
+
+<sup>3</sup> Applications that are pending when the Amendment of 23 June 2021 comes into force shall be processed in accordance with Article 23*a* of the previous law.
+
+[^28b-1]: Inserted by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+
 #### Art. 29
 
 **Commencement and term**
@@ -700,53 +725,96 @@ Personal protective equipment that was permitted under Article 24 of the previou
 
 Annex 1*[^t-1]*
 
-(Art. 3 para. 2)
+(Art. 3 para. 3, Art. 4 para. 2<sup>ter</sup> and Art. 5)
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the FDJP O of 17 June 2021, in force since 21 June 2021 ([AS 2021 355](https://fedlex.data.admin.ch/eli/oc/2021/355)).
+[^t-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
-All states outside the Schengen area, with the exception of:
+### 1. High-risk countries and regions (Art. 3 para. 2 let. a)
 
+All countries and regions outside the Schengen area, with the exception of:
+
+- – Albania
 - – Andorra
 - – Australia
 - – Bulgaria
 - – Croatia
 - – Cyprus
 - – Holy See
+- – Hong Kong
 - – Ireland
 - – Israel
 - – Japan
+- – Lebanon
+- – Macau
 - – Monaco
 - – New Zealand
+- – North Macedonia
 - – Romania
 - – Rwanda
 - – San Marino
+- – Serbia
 - – South Korea
 - – Singapore
+- – Taiwan
 - – Thailand
+- – United States of America
+- [tab]
+- [tab]
 
-Annex 2*[^t-2]*
+### 2. High-risk countries and regions with a variant of the Sars-CoV-2 virus that carries a higher risk of infection or causes a more severe form of the disease in comparison with the variant of the virus prevalent in the Schengen area (Art. 3 para. 2 let. b)
 
-[^t-2]: Rendered obsolete by the repeal of Art. 8 (see Art. 6 No 1 of the COVID-19 Ordinance on International Passenger Transport Measures of 2 July 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+- [tab]
 
-Annex 3*[^t-3]*
+Annex 1a*[^t-2]*
+
+(Art. 4 para. 2 let. a and Art. 5)
+
+## Persons who have been vaccinated
+
+[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+
+- 1
+
+  Persons who have been vaccinated are persons who have been vaccinated with a vaccine that:
+
+  - a. is authorised in Switzerland and which has been administered in full in accordance with the FOPH recommendations;
+  - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
+  - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
+
+- 2 The period during which persons who have been vaccinated are exempt from the ban on entry under Article 4 paragraph 1 amounts to 12 months from the date of vaccination in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
+- 3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates
+- 4
+
+  Proof may also be provided in a different form from that in number 3. It must be a form of proof that is customary at the time. In addition to the surname, forename and date of birth of the person concerned, it must include the following information:
+
+  - a. the date of vaccination;
+  - b. the vaccine used.
+
+[^annex1a-lvlu1-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+Annex 2*[^t-3]*
+
+[^t-3]: Rendered obsolete by the repeal of Art. 8 (see Art. 6 No 1 of the COVID-19 Ordinance on International Passenger Transport Measures of 2 July 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+
+Annex 3*[^t-4]*
 
 (Art. 9 para. 3)
 
 ## Restrictions on cross-border movements of persons
 
-[^t-3]: Amended by No II of the O of 21 Dec. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Revised in accordance with Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, in force since 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^t-4]: Amended by No II of the O of 21 Dec. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Revised in accordance with Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, in force since 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 The movement of persons from the following states into Switzerland is prohibited:
 
-Annex 4*[^t-4]*
+Annex 4*[^t-5]*
 
 (Art. 11 para. 1, 19 para. 1 and 21 para. 2)
 
 ## List of important medicinal products, medical devices and protective equipment (Essential Medical Goods)
 
-[^t-4]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised in accordance with No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) and No II of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-5]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised in accordance with No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) and No II of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1. Active substances or medicinal products with the listed active substances
 
@@ -900,24 +968,24 @@ Annex 4*[^t-4]*
 
 \4. Hygiene products for intensive care (such as absorbent pads, diapers, faecal collectors, oral hygiene items)
 
-Annex 5*[^t-5]*
+Annex 5*[^t-6]*
 
 (Art. 21 paras 1 and 3, as well as 22 para. 1)
 
 ## List of active substances for the treatment of COVID-19
 
-[^t-5]: Amended by No I paragraph 2 of the FDHA O of 14 April 2021 (Amendment of lists of important medical products and of active substances for the treatment of COVID-19), in force since 19 Oct. 2020 ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)).
+[^t-6]: Amended by No I paragraph 2 of the FDHA O of 14 April 2021 (Amendment of lists of important medical products and of active substances for the treatment of COVID-19), in force since 19 Oct. 2020 ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)).
 
 - [tab] 1. Casirivimab/imdevimab
 - 2\. Bamlanivimab/etesevimab
 
-Annex 5a*[^t-6]*
+Annex 5a*[^t-7]*
 
 (Art. 23*a* para. 2 let. e, 24 para. 4<sup>bis</sup> let. b and 24*a* para. 1)
 
 ## Minimum criteria for the reliability and performance of Sars-CoV-2 rapid tests
 
-[^t-6]: Inserted by No III para. 1 of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No III of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^t-7]: Inserted by No III para. 1 of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No III of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 ### 1 General Remarks
 
@@ -958,13 +1026,13 @@ Annex 5a*[^t-6]*
 - 3\.3 Cross reactivity: Testing also of samples with high concentrations of related human coronaviruses, at least including human coronavirus 229E, human coronavirus OC43, human coronavirus NL63 or human coronavirus HKU1.
 - 3\.4 Interference: Testing also of pathogen-positive samples in which the pathogen can cause analogous symptoms (influenza A, B; RSV) or could interfere with the test principle (protein A-positive *Staphylococcus aureus* in nasal swabs as sample matrix).
 
-Annex 6*[^t-7]*
+Annex 6*[^t-8]*
 
 (Art. 26, 26*a*, 26*b* and 26*c*)
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O od 12 May 2021, No 1.6.1 in force since 12 April 2021, No 1.5.1, 1.5.3 and 1.5.4 in force since 1 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021, ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) and of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1261,7 +1329,7 @@ Annex 6*[^t-7]*
 
   It shall pay the costs only if the services are provided by:
 
-  - a. micro-biological diagnostic laboratories with an accreditation in sequencing from the Swiss Accreditation Service (SAS)[^annex6-lvlu1-lvl1-lvl16-1];
+  - a. micro-biological diagnostic laboratories that hold a licence under Article 16 EpidA;
   - b. reference laboratories that meet the requirements of Article 17 EpidA.
 
 - 1\.6.3 It shall pay a maximum of 221 francs for sequencing for Sars-CoV-2. The amount covers the following services and cost components:
@@ -1270,8 +1338,6 @@ Annex 6*[^t-7]*
 <tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>Conduct of the analysis, comprising: analysis and report to the authorities under Article 12 paragraph 2 EpidA order processing, overheads and sampling materials</td><td>243.50 Fr. 219.50 Fr. 24 Fr.</td></tr>
 </table>
-
-[^annex6-lvlu1-lvl1-lvl16-1]: The SAS list of accredited diagnostic laboratories in Switzerland with experience in sequencing of microbiological samples is available at www.sas.admin.ch.
 
 ### 2 Reduced tariff for targeted and repetitive testing
 
@@ -1312,7 +1378,7 @@ Annex 6*[^t-7]*
 
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
-<tr><td>Taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis und order processing</td><td>34 Fr.</td></tr>
+<tr><td>Taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td>34 Fr.</td></tr>
 </table>
 
 ### 2.2 Pooled molecular-biological analyses for Sars-CoV-2
@@ -1388,8 +1454,9 @@ Annex 6*[^t-7]*
   - a. where targeted and repetitive testing is carried out in hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
   - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH;
   - c. where a contact person is in quarantine and targeted and repetitive testing is carried in the business where the contact person works, with at least one test per week.
+  - d. in the case of events with entry restrictions in accordance with Article 15 of the COVID-19 Special Situation Ordinance of 23 June 2021[^annex6-lvlu1-lvl3-lvl31-1] or, if applicable, Article 6*b*<sup>quater</sup> of the COVID-19 Special Situation Ordinance of 19 June 2020 in its version following the Amendment of 26 May 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
-- 3\.1.2 It shall also pay the costs of Sars-CoV-2 rapid tests for specialist use according to the screening standard in cases under number 3.1.1 letter b.
+- 3\.1.2 It shall also pay the costs of Sars-CoV-2 rapid tests for specialist use according to the screening standard in cases under number 3.1.1 letters b and d.
 - 3\.1.3
 
   It shall pay the costs of Sars-CoV-2 rapid tests for specialist use under sections 3.1.1 and 3.1.2 only if the services are provided by:
@@ -1416,6 +1483,9 @@ Annex 6*[^t-7]*
 <tr><td>Conducting the Sars-CoV-2 rapid test for specialist use, test materials only</td><td>8 Fr.</td></tr>
 <tr><td>s</td><td></td></tr>
 </table>
+
+[^annex6-lvlu1-lvl3-lvl31-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl3-lvl31-2]: [AS 2021 297](https://fedlex.data.admin.ch/eli/oc/2021/297)
 
 ### 3.2 Pooled molecular-biological analyses for Sars-CoV-2
 
@@ -1444,13 +1514,15 @@ Annex 6*[^t-7]*
 
 ### 3.3 Sars-CoV-2 self-tests
 
-- 3\.3.1 The Confederation shall pay the costs of a maximum of five Sars-CoV-2 self-tests per person within any period of 30 days.
-- 3\.3.2 It shall pay a maximum of 12 francs for a Sars-CoV-2 self-test. This amount covers the following services and cost components:
+- 3\.3.1 The Confederation shall pay the costs of a maximum of five Sars-CoV-2 self-tests per person within any period of 30 days, provided they are supplied by pharmacies.
+- 3\.3.2
 
-<table>
-<tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>For the Sars-CoV-2 self-test, test materials only, including: price ex factory, surcharge of 80 % on the price ex factory and Value Added Tax at a rate of 7.7 %</td><td>12 Fr.</td></tr>
-</table>
+  The following persons are not entitled to have the costs of Sars-CoV-2 self-tests covered:
+
+  - a. persons who have been vaccinated as defined in Annex 2 number 1.1 of the COVID-19 Special Situation Ordinance of 23 June 2021[^annex6-lvlu1-lvl3-lvl33-1], provided the final dose of the vaccine was administered less than 365 days prior to the test; in the case of the Janssen vaccine, the period is 365 days from the 22 day after the vaccine is administered in full;
+  - b. persons who have been infected with Sars-CoV-2 and who have recovered, for 6 months from the 11th day after confirmation of the infection.
+
+[^annex6-lvlu1-lvl3-lvl33-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ### 4 Limitations
 
@@ -1459,13 +1531,13 @@ Annex 6*[^t-7]*
 - 4\.3 If both a molecular-biological analysis for Sars-CoV-2 in accordance with number 1.1 and the molecular-biological detection of one or more Sars-CoV-2 variants of concern in accordance with number 1.5 or sequencing for Sars-CoV-2 in accordance with number 1.6 are carried out by the same service provider, the Confederation shall make only one payment in respect of its share of the costs for order processing and overheads in accordance with numbers 1.1.3 letter b and 1.5.3 letter a or 1.6.3.
 - 4\.4 In the case of analyses for Sars-CoV-2, where the person tested can take the sample, no charge may be made for taking a sample.
 
-Annex 7*[^t-8]*
+Annex 7*[^t-9]*
 
 (Art. 27*a* para. 10 and 11)
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-8]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 June 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 June 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 

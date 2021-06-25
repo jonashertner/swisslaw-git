@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-06-21
+version: 2021-06-26
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210621/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210621-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210621/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210626/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210626-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210626/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210621/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 21 giugno 2021)
+del 19 giugno 2020 (Stato 26 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -58,7 +58,17 @@ Al fine di salvaguardare le capacità della Svizzera di fare fronte all’epidem
 - a. provvedimenti che limitino l’entrata in Svizzera di persone provenienti da Paesi o regioni a rischio, nonché l’importazione e l’esportazione di merci;
 - b. provvedimenti per garantire l’approvvigionamento di materiale medico importante.
 
-<sup>2</sup> Per Paesi o regioni a rischio si intendono segnatamente Paesi o regioni le cui autorità hanno stabilito provvedimenti eccezionali di prevenzione e di lotta contro l’epidemia di COVID-19. L’elenco dei Paesi o delle regioni a rischio è pubblicato nell’allegato 1. Il Dipartimento federale di giustizia e polizia (DFGP), sentiti il Dipartimento federale dell’interno (DFI) e il Dipartimento federale degli affari esteri (DFAE), allestisce l’elenco e lo aggiorna costantemente.
+<sup>2</sup>
+
+Per Paesi o regioni a rischio si intendono Paesi o regioni in cui è stato rilevato il coronavirus SARS-CoV-2 e in cui:
+
+- a. sussiste un rischio elevato di contagio; oppure
+- b. è diffusa una variante del virus che presenta un rischio di contagio più elevato o un decorso più grave della malattia rispetto alla variante del virus diffusa nello spazio Schengen.[^3-1]
+
+<sup>3</sup> Gli elenchi dei Paesi e delle regioni a rischio sono pubblicati nell’allegato 1.[^3-2]
+
+[^3-1]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^3-2]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
 ### Sezione 2: Limitazioni del traffico di confine e dell’ammissione di stranieri
 
@@ -73,7 +83,18 @@ Al fine di salvaguardare le capacità della Svizzera di fare fronte all’epidem
 - a. agli stranieri provenienti da un Paese o da una regione a rischio, che intendono entrare in Svizzera e non rientrano nel campo d’applicazione dell’Accordo del 21 giugno 1999[^4-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (ALC) o della Convenzione del 4 gennaio 1960[^4-4] istitutiva dell’Associazione europea di libero scambio (Accordo AELS);
 - [tab] b. e c.[^4-5] ... .[^4-6]
 
-<sup>2</sup> Sono escluse dal presente divieto d’entrata le persone che rendono verosimile di trovarsi in una situazione di assoluta necessità. La Segreteria di Stato della migrazione (SEM) emana le necessarie istruzioni.
+<sup>2</sup>
+
+Sono escluse dal presente divieto d’entrata le persone che:
+
+- a. attestano che sono state vaccinate contro il SARS-CoV-2; le persone considerate vaccinate sono disciplinate nell’allegato 1*a*; o
+- b. rendono verosimile di trovarsi in una situazione di assoluta necessità.[^4-7]
+
+<sup>2bis</sup> I bambini sotto i 18 anni che entrano accompagnati da adulti secondo il capoverso 2 lettera a non devono presentare una vaccinazione.[^4-8]
+
+<sup>2ter</sup> La deroga di cui al capoverso 2 lettera a non si applica alle persone provenienti da un Paese o da una regione di cui all’allegato 1 numero 2 che intendono entrare in Svizzera.[^4-9]
+
+<sup>2quater</sup> La Segreteria di Stato della migrazione (SEM) emana le necessarie istruzioni per le deroghe al divieto d’entrata.[^4-10]
 
 <sup>3</sup> Le decisioni delle autorità competenti possono essere eseguite immediatamente. Si applica per analogia l’articolo 65 LStrI. La decisione su opposizione della SEM può essere impugnata entro 30 giorni dalla notificazione. Il ricorso non ha effetto sospensivo.
 
@@ -85,12 +106,24 @@ Al fine di salvaguardare le capacità della Svizzera di fare fronte all’epidem
 [^4-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^4-5]: Abrogate dall’all. 2 n. 2 dell’O COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori, con effetto dal 8 feb. 2021 ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^4-6]: Nuovo testo giusta il n. I dell’O del 21 dic. 2020, in vigore dalle ore 13.00 del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^4-7]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-8]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-9]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^4-10]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
-#### Art. 5 a 7
+#### Art. 5
 
-[^57-1]
+**Aggiornamento degli allegati**[^5-1]
 
-[^57-1]: Abrogati dal n. I dell’O del 24 giu. 2020 (Allentamenti nei settori delle frontiere, dell’entrata e dell’ammissione al soggiorno e al mercato del lavoro), con effetto dal 6 lug. 2020 ([RU 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
+Il Dipartimento federale di giustizia e polizia (DFGP), sentiti il Dipartimento federale dell’interno (DFI) e il Dipartimento federale degli affari esteri (DFAE), aggiorna costantemente gli allegati 1 e *1a*.
+
+[^5-1]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+
+#### Art. 6 e 7
+
+[^67-1]
+
+[^67-1]: Abrogati dal n. I dell’O del 24 giu. 2020 (Allentamenti nei settori delle frontiere, dell’entrata e dell’ammissione al soggiorno e al mercato del lavoro), con effetto dal 6 lug. 2020 ([RU 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
 
 #### Art. 8
 
@@ -112,9 +145,9 @@ Al fine di salvaguardare le capacità della Svizzera di fare fronte all’epidem
 
 **Rilascio di visti**[^10-1]
 
-Agli stranieri provenienti da un Paese o da una regione a rischio che intendono entrare in Svizzera e non rientrano nel campo d’applicazione dell’ALC[^10-2] o dell’accordo AELS[^10-3] è rifiutata la concessione di un visto Schengen per un soggiorno esente da permesso di tre mesi al massimo senza attività lucrativa. Sono fatte salve le domande delle persone di cui all’articolo 4 capoverso 2.
+Agli stranieri provenienti da un Paese o da una regione a rischio che intendono entrare in Svizzera e non rientrano nel campo d’applicazione dell’ALC[^10-2] o dell’accordo AELS[^10-3] è rifiutata la concessione di un visto Schengen per un soggiorno esente da permesso di tre mesi al massimo senza attività lucrativa. Sono fatte salve le domande delle persone di cui all’articolo 4 capoversi 2 e 2<sup>bis</sup>.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2020 (Allentamenti nei settori delle frontiere, dell’entrata e dell’ammissione al soggiorno e al mercato del lavoro), in vigore dal 6 lug. 2020 ([RU 2020 2611](https://fedlex.data.admin.ch/eli/oc/2020/480)).
+[^10-1]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 [^10-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -322,29 +355,9 @@ Le mascherine facciali che non sono state sottoposte a una procedura di valutazi
 
 #### Art. 23a
 
-**Deroghe per i dispositivi medici: test autodiagnostici SARS-CoV-2**[^23a-1]
+[^23a-1]
 
-<sup>1</sup> Swissmedic può, su richiesta, autorizzare l’immissione in commercio di test rapidi non automatizzati per il rilevamento diretto del SARS-CoV-2 sul singolo paziente (test rapidi SARS-CoV-2), destinati dal fabbricante a essere utilizzati dal pubblico per l’autodiagnosi (test autodiagnostici SARS-CoV-2) e non sottoposti a una procedura di valutazione della conformità secondo l’articolo 10 ODmed[^23a-2].
-
-<sup>2</sup>
-
-La richiesta deve contenere i seguenti dati:
-
-- a. descrizione del dispositivo;
-- b. prova del deposito di una domanda di procedura di valutazione della conformità del prodotto presso un organismo di valutazione della conformità designato secondo il diritto svizzero o presso un organismo notificato secondo il diritto UE;
-- c. se nessun organismo accetta la domanda di cui alla lettera b, copie del rifiuto di almeno due organismi;
-- d. marcatura CE del test rapido SARS-CoV-2 per uso professionale sul quale si basa il test autodiagnostico SARS-CoV-2;
-- e. prova dell’adempimento dei requisiti di cui all’articolo 24*a* e dei criteri minimi secondo l’allegato 5*a* numero 3;
-- f. prova dell’idoneità all’uso del prodotto quale test autodiagnostico;
-- g. prova dell’adempimento dei requisiti essenziali per i dispositivi per test autodiagnostici secondo l’allegato I della direttiva 98/79/CE[^23a-3];
-- h. analisi attuale dei rischi che tenga conto dei rischi legati all’uso per l’autodiagnosi;
-- i. etichetta del dispositivo e istruzioni per l’uso nelle tre lingue ufficiali.
-
-<sup>3</sup> L’autorizzazione è concessa al fabbricante o al suo rappresentante svizzero. Può essere concessa a tempo determinato e subordinata a oneri o condizioni.
-
-[^23a-1]: Introdotto dal n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^23a-2]: RS **812.813**
-[^23a-3]: Direttiva 98/79/CE del Parlamento europeo e del Consiglio del 27 ottobre 1998 relativa ai dispositivi medico-diagnostici in vitro, GU L 331 del 7.12.1998, pag. 1; modificata da ultimo dalla direttiva 2011/100/UE, GU L 341 del 22.12.2011, pag. 50.
+[^23a-1]: Introdotto dal n. I dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Abrogato dal n. I dell’O del 23 giu. 2021, con effetto dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 23b
 
@@ -371,7 +384,7 @@ Le mascherine di protezione delle vie respiratorie di cui al capoverso 1 present
 
 <sup>1</sup>
 
-I test rapidi SARS-CoV-2 per uso professionale possono essere eseguiti unicamente nelle seguenti strutture:[^24-3]
+I test rapidi non automatizzati per il rilevamento diretto del SARS-CoV-2 sul singolo paziente (test rapidi SARS-CoV-2) per uso professionale possono essere eseguiti unicamente nelle seguenti strutture:[^24-3]
 
 - a. laboratori autorizzati secondo l’articolo 16 della legge del 28 settembre 2012[^24-4] sulle epidemie (LEp) e centri di prelievo di campioni da essi gestiti;
 - b.[^24-5] studi medici, farmacie e ospedali, case di riposo e di cura, istituti medico-sociali, nonché centri di test gestiti dal Cantone o su suo incarico.
@@ -399,24 +412,23 @@ Le strutture di cui ai capoversi 1 lettera b e 1<sup>bis</sup> possono eseguire 
 
 <sup>4bis</sup>
 
-I test autodiagnostici SARS-CoV-2 possono essere dispensati e impiegati se:
+I test rapidi SARS-CoV-2 destinati a essere utilizzati dal pubblico per l’autodiagnosi (test autodiagnostici SARS-CoV-2) possono essere dispensati e impiegati se:
 
-- a. sono destinati, secondo le indicazioni del fabbricante, a essere utilizzati dal pubblico per l’autodiagnosi e certificati di conseguenza o autorizzati da Swissmedic secondo l’articolo 23*a*;
-- b. soddisfano i requisiti dell’articolo 24*a* e i criteri minimi secondo l’allegato 5*a* numero 3;
-- c. sono dispensati al pubblico da farmacie.[^24-10]
+- a. sono destinati, secondo le indicazioni del fabbricante, a essere utilizzati dal pubblico per l’autodiagnosi e certificati di conseguenza;
+- b. soddisfano i requisiti dell’articolo 24*a* e i criteri minimi secondo l’allegato 5*a* numero 3.[^24-10]
 
 <sup>5</sup> Sono considerati test rapidi SARS-CoV-2 i metodi che permettono di rilevare direttamente la presenza degli antigeni o dell’acido ribonucleico del SARS-CoV-2. I test non sono automatizzati e richiedono uno strumentario minimo; è automatizzata tutt’al più la lettura dei risultati.
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 [^24-2]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-3]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-3]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 [^24-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^24-5]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie), in vigore dal 28 gen. 2021 ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 [^24-6]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^24-7]: Introdotto dal n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-8]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24-9]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-10]: Introdotto dal n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-10]: Introdotto dal n. I dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 24a
 
@@ -533,12 +545,13 @@ Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 1.1.1
 - a. l’assicuratore di cui al capoverso 1 che è debitore della rimunerazione delle prestazioni secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal; o
 - b. il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.
 
-<sup>4</sup> Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 2, 3.1.1 lettere b e c e 3.2.1 lettere b e c, è debitore della rimunerazione delle prestazioni il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.
+<sup>4</sup> Se l’analisi per il SARS-CoV-2 è eseguita secondo l’allegato 6 numeri 2, 3.1.1 lettere b–d e 3.2.1 lettere b e c, è debitore della rimunerazione delle prestazioni il Cantone in cui è eseguito il prelievo del campione per il SARS-CoV-2.[^26a-5]
 
 [^26a-1]: Introdotto dal n. I dell’O del 24 giu. 2020 ([RU 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^26a-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 [^26a-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^26a-5]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 26b
 
@@ -608,7 +621,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 giu. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 27a
 
@@ -640,27 +653,29 @@ Se, per motivi aziendali, è indispensabile la totale o parziale presenza sul po
 Sono considerate particolarmente a rischio:
 
 - a. le donne incinte;
-- b. le persone che soffrono delle patologie o anomalie genetiche elencate nell’allegato 7.[^27a-2]
+- b. le persone affette dalle patologie o anomalie di cui all’allegato 7 che per motivi medici non possono farsi vaccinare contro il COVID-19.[^27a-2]
 
 <sup>10bis</sup>
 
-Non rientrano nel capoverso 10 le persone:
+Non sono considerate particolarmente a rischio:
 
-- a. vaccinate contro il COVID-19;
-- b. che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, durante sei mesi a partire dalla revoca dell’isolamento disposta dall’autorità competente.[^27a-3]
+- a. le donne incinte vaccinate contro il COVID-19, durante dodici mesi a partire dalla vaccinazione completa;
+
+- b. le persone di cui al capoverso 10 che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, durante sei mesi a partire dall’undicesimo giorno dopo la conferma del contagio.[^27a-3]
 
 <sup>11</sup> Le patologie e anomalie genetiche di cui al capoverso 10 lettera b sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva una valutazione clinica del rischio nel singolo caso, che può portare a classificare anche persone di cui al capoverso 10<sup>bis</sup> tra quelle particolarmente a rischio.[^27a-4]
 
 <sup>12</sup> L’EDI aggiorna costantemente l’allegato 7 in base allo stato delle conoscenze scientifiche.[^27a-5]
 
-<sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 10 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^27a-6].
+<sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 25 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^27a-6] [^27a-7].
 
 [^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-3]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^27a-2]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^27a-3]: Introdotto dal n. I dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 [^27a-4]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^27a-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^27a-6]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-7]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 26 giu. 2021.
 
 ## Capitolo 5: Disposizioni finali
 
@@ -680,6 +695,18 @@ I dispositivi di protezione individuale autorizzati in virtù dell’articolo 24
 
 [^28a-1]: Introdotto dal n. I dell’O dell’11 set. 2020 (Proroga; spese per i test), in vigore dal 18 set. 2020 ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
+#### Art. 28b
+
+**Disposizioni transitorie della modifica del 23 giugno 2021**[^28b-1]
+
+<sup>1</sup> Le autorizzazioni per l’immissione in commercio di test autodiagnostici SARS-CoV-2 rilasciate da Swissmedic in virtù dell’articolo 23*a* del diritto anteriore restano valide sino alla scadenza della loro durata.
+
+<sup>2</sup> I test autodiagnostici SARS-CoV-2 autorizzati in virtù dell’articolo 23*a* del diritto anteriore possono continuare a essere dispensati dalle farmacie, a condizione che siano soddisfatti i requisiti di cui all’articolo 24 capoverso 4<sup>bis</sup> lettera b.
+
+<sup>3</sup> Le domande pendenti al momento dell’entrata in vigore della modifica del 23 giugno 2021 sono trattate in virtù dell’articolo 23*a* del diritto anteriore.
+
+[^28b-1]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+
 #### Art. 29
 
 **Entrata in vigore e durata di validità**
@@ -698,14 +725,17 @@ I dispositivi di protezione individuale autorizzati in virtù dell’articolo 24
 
 Allegato 1*[^t-1]*
 
-(art. 3 cpv. 2)
+(art. 3 cpv. 3, art. 4 cpv. 2<sup>ter</sup> e art. 5)
 
 ## Elenco dei Paesi e delle regioni a rischio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 17 giu. 2021, in vigore dal 21 giu. 2021 ([RU 2021 355](https://fedlex.data.admin.ch/eli/oc/2021/355)).
+[^t-1]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
 
-Tutti gli Stati al di fuori dello spazio Schengen, tranne:
+### 1. Paesi e regioni a rischio (art. 3 cpv. 2 lett. a)
 
+Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
+
+- – Albania
 - – Andorra
 - – Australia
 - – Bulgaria
@@ -713,38 +743,74 @@ Tutti gli Stati al di fuori dello spazio Schengen, tranne:
 - – Corea (Sud)
 - – Croazia
 - – Giappone
+- – Hong Kong
 - – Irlanda
 - – Israele
+- – Libano
+- – Macao
+- – Macedonia del Nord
 - – Monaco
 - – Nuova Zelanda
 - – Romania
 - – Ruanda
 - – San Marino
 - – Santa Sede
+- – Serbia
 - – Singapore
+- – Stati Uniti d’America
+- – Taiwan
 - – Thailandia
 
-Allegato 2*[^t-2]*
+### 2. Paesi e regioni a rischio con una variante del virus SARS-CoV-2 che presenta un rischio di contagio più elevato o un decorso più grave della malattia rispetto alla variante del virus diffusa nello spazio Schengen (art. 3 cpv. 2 lett. b)
 
-[^t-2]: Privo di oggetto a seguito dell’abrogazione dell’art. 8 (art. 6 n. 1 dell’O del 2 giu. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori; [RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+Allegato 1a*[^t-2]*
 
-Allegato 3*[^t-3]*
+(art. 4 cpv. 2 lett. a e art. 5)
+
+## Persone vaccinate
+
+[^t-2]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+
+- 1
+
+  Sono considerate vaccinate le persone che sono state vaccinate con un vaccino che:
+
+  - a. è stato omologato in Svizzera ed è stato somministrato completamente secondo le raccomandazioni dell’UFSP;
+  - b. è stato approvato dall’Agenzia europea per i medicinali per l’Unione europea ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
+  - c. è stato approvato secondo la Lista per l’uso di emergenza dell’OMS ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.
+
+- 2 Il periodo durante il quale le persone vaccinate sono escluse dal divieto d’entrata di cui all’articolo 4 capoverso 1 è di dodici mesi a partire dalla vaccinazione completa; per il vaccino Janssen, la durata è di dodici mesi a partire dal ventiduesimo giorno dalla vaccinazione completa.
+- 3 La vaccinazione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^annex1a-lvlu1-1] sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
+- 4
+
+  Sono ammesse anche attestazioni diverse da quelle di cui al numero 3, purché corrispondano a una forma di attestazione attualmente consueta. Oltre al cognome, al nome e alla data di nascita del titolare, l’attestazione deve contenere le seguenti informazioni:
+
+  - a. la data della vaccinazione;
+  - b. il vaccino somministrato.
+
+[^annex1a-lvlu1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+Allegato 2*[^t-3]*
+
+[^t-3]: Privo di oggetto a seguito dell’abrogazione dell’art. 8 (art. 6 n. 1 dell’O del 2 giu. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori; [RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+
+Allegato 3*[^t-4]*
 
 ## Restrizioni del traffico transfrontaliero delle persone
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Aggiornato dall’all. 2 n. 2 dell’O COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori, in vigore dall’8 feb. 2021 ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^t-4]: Nuovo testo giusta il n. II dell’O del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Aggiornato dall’all. 2 n. 2 dell’O COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori, in vigore dall’8 feb. 2021 ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 Il traffico delle persone dai seguenti Stati in Svizzera è vietato:
 
 ...
 
-Allegato 4*[^t-4]*
+Allegato 4*[^t-5]*
 
 (art. 11 cpv. 1, 19 cpv. 1 e 21 cpv. 2)
 
 ## Elenco dei medicamenti, dei dispositivi medici e dei dispositivi di protezione importanti (materiale medico importante)
 
-[^t-4]: Nuovo testo giusta il n. I dell’O dell’UFSP del 19 ott. 2020 (Elenco del materiale medico importante e elenco dei principi attivi per il trattamento del COVID-19 ([RU 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Aggiornato dal n. II cpv. 1 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), dal n. I cpv. 1 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-5]: Nuovo testo giusta il n. I dell’O dell’UFSP del 19 ott. 2020 (Elenco del materiale medico importante e elenco dei principi attivi per il trattamento del COVID-19 ([RU 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Aggiornato dal n. II cpv. 1 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), dal n. I cpv. 1 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 ### 1. Principi attivi nonché medicamenti contenenti i principi attivi elencati
 
@@ -835,24 +901,24 @@ Allegato 4*[^t-4]*
 - 3\. Etanolo
 - 4\. Articoli d’igiene per la medicina intensiva (p. es. traverse assorbenti, pannolini per incontinenza, collettori rettali, articoli per l’igiene del cavo orofaringeo)
 
-Allegato 5*[^t-5]*
+Allegato 5*[^t-6]*
 
 (art. 21 cpv. 1 e 3, 22 cpv. 1)
 
 ## Elenco dei principi attivi per il trattamento del COVID-19
 
-[^t-5]: Nuovo testo giusta il n. I cpv. 2 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 15 apr. 2021 ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
+[^t-6]: Nuovo testo giusta il n. I cpv. 2 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 15 apr. 2021 ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
 
 - 1\. Casirivimab/Imdevimab
 - 2\. Bamlanivimab/Etesevimab
 
-Allegato 5a*[^t-6]*
+Allegato 5a*[^t-7]*
 
 (art. 23*a* cpv. 2 lett. e, 24 cpv. 4<sup>bis</sup> lett. b e 24*a* cpv. 1)
 
 ## Criteri minimi per determinare l’affidabilità e la prestazione dei test rapidi SARS-CoV-2
 
-[^t-6]: Introdotto dal n. III cpv. 1 dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^t-7]: Introdotto dal n. III cpv. 1 dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 ### 1 In generale
 
@@ -893,13 +959,13 @@ Allegato 5a*[^t-6]*
 - 3\.3 Reattività incrociata: esame anche di campioni con un’elevata concentrazione di coronavirus umani affini, compresi almeno i coronavirus umani 229E, OC43, NL63 e HKU1.
 - 3\.4 Interferenza: esame anche di campioni positivi a un agente patogeno che può provocare sintomi analoghi (influenza A, B; RSV) o che potrebbe interferire con il principio del test (*Staphylococcus aureus* positivo alla proteina A in caso di tampone nasofaringeo come matrice del campione).
 
-Allegato 6*[^t-7]*
+Allegato 6*[^t-8]*
 
 (art. 26, 26*a*, 26*b* e 26*c*)
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) e del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) e del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1035,13 +1101,13 @@ Allegato 6*[^t-7]*
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
 <tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>274 fr.</td></tr>
-<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
+<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
-<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
 <tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
-<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
+<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>[tab] 82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
-<tr><td>– Supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
 </table>
 
 ### 1.3 Analisi per gli anticorpi contro il SARS-CoV-2
@@ -1198,7 +1264,7 @@ Allegato 6*[^t-7]*
 
   Assume le spese soltanto se le prestazioni sono fornite da:
 
-  - a. laboratori di diagnostica microbiologica con un accreditamento in sequenziamento rilasciato dal Servizio di accreditamento svizzero (SAS)[^annex6-lvlu1-lvl1-lvl16-1];
+  - a. laboratori di diagnostica microbiologica titolari di un’autorizzazione secondo l’articolo 16 LEp;
   - b. laboratori di riferimento che soddisfano i requisiti dell’articolo 17 LEp.
 
 - 1\.6.3 Per il sequenziamento del SARS-CoV-2 assume al massimo 221 franchi. Questo importo comprende le prestazioni e i costi seguenti:
@@ -1209,8 +1275,6 @@ Allegato 6*[^t-7]*
 <tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>197 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 </table>
-
-[^annex6-lvlu1-lvl1-lvl16-1]: L’elenco del SAS dei laboratori di diagnostica accreditati in Svizzera con esperienza nel sequenziamento di campioni microbiologici è consultabile su www.sas.admin.ch.
 
 ### 2 Tariffe ridotte per i test mirati e ripetuti
 
@@ -1308,13 +1372,13 @@ Allegato 6*[^t-7]*
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
 <tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>274 fr.</td></tr>
-<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
+<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
-<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
-<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
-<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
+<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
+<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
-<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
 </table>
 
 - c. per l’aggregazione centralizzata:
@@ -1337,7 +1401,7 @@ Allegato 6*[^t-7]*
   - c. per un contatto in quarantena, se nell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana;
   - d. in occasione di manifestazioni con limitazione d’accesso secondo l’articolo 15 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl31-1] o dell’articolo 6*b*<sup>quater</sup> dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020 nella versione modificata il 26 maggio 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
-- 3\.1.2 Assume inoltre le spese per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard di screening nei casi di cui al numero 3.1.1 lettera b.
+- 3\.1.2 Assume inoltre le spese per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard di screening nei casi di cui al numero 3.1.1 lettere b e d.
 - 3\.1.3
 
   Assume le spese per i test rapidi SARS-CoV-2 per uso professionale secondo i numeri 3.1.1 e 3.1.2 soltanto se le prestazioni sono fornite:
@@ -1383,26 +1447,28 @@ Allegato 6*[^t-7]*
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
 <tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>274 fr.</td></tr>
-<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
+<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
-<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
-<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lett. b e c, per ogni campione aggregato formato</td><td>18.50 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione di 25 campioni singoli</td><td>8 fr.</td></tr>
+<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lettere b e c, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 <tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>255 fr.</td></tr>
-<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato pari a 4</td><td>82 fr.</td></tr>
+<tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
-<tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione (25)</td><td>8 fr.</td></tr>
-<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lett. b e c, per ogni campione aggregato formato</td><td>18.50 fr.</td></tr>
+<tr><td>– supplemento per ogni altro campione prelevato fino a una dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
+<tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lettere b e c, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 </table>
 
 ### 3.3 Test autodiagnostici SARS-CoV-2
 
-- 3\.3.1 La Confederazione assume le spese per un massimo di cinque test autodiagnostici SARS-CoV-2 per persona sull’arco di 30 giorni.
-- 3\.3.2 Per i test autodiagnostici SARS-CoV-2 assume al massimo 12 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 3\.3.1 La Confederazione assume le spese per un massimo di cinque test autodiagnostici SARS-CoV-2 per persona sull’arco di 30 giorni, se dispensati dalle farmacie.
+- 3\.3.2
 
-<table>
-<tr><td>Prestazione</td><td>Importo massimo</td></tr>
-<tr><td>Per il test autodiagnostico SARS-CoV-2, solo il materiale necessario per il test, compresi il prezzo di fabbrica, un supplemento dell’80 % sul prezzo di fabbrica nonché l’IVA a un’aliquota del 7,7 %.</td><td>12 fr.</td></tr>
-</table>
+  Non hanno diritto al rimborso delle spese dei test autodiagnostici SARS-CoV-2:
+
+  - a. le persone vaccinate secondo l’allegato 2 numero 1.1 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl33-1], se la vaccinazione risale a non più di 365 giorni dalla somministrazione dell’ultima dose; per il vaccino di Janssen il periodo considerato è di 365 giorni a partire dal ventiduesimo giorno dopo la vaccinazione;
+  - b. le persone che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, per sei mesi a partire dall’undicesimo giorno dopo la conferma dell’infezione.
+
+[^annex6-lvlu1-lvl3-lvl33-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ### 4 Limitazioni
 
@@ -1411,13 +1477,13 @@ Allegato 6*[^t-7]*
 - 4\.3 Se su una persona sono eseguite dallo stesso fornitore di prestazioni un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti secondo il numero 1.5 o un sequenziamento del SARS-CoV-2 secondo il numero 1.6, la Confederazione assume *una tantum* l’importo per il disbrigo dell’incarico e i costi generali secondo i numeri 1.1.3 lettera b, 1.5.3 o 1.6.3.
 - 4\.4 Per le analisi per il SARS-CoV-2 nelle quali il campione è prelevato dalla persona testata stessa, il prelievo del campione non può essere fatturato.
 
-Allegato 7*[^t-8]*
+Allegato 7*[^t-9]*
 
 (art. 27*a* cpv. 10 e 11)
 
 ## Malattie e anomalie genetiche che rendono le persone interessate particolarmente a rischio
 
-[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 giu. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 
