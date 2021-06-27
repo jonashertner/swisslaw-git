@@ -5,12 +5,12 @@ title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
 version: 2016-02-01
-corrected: 2017-02-24
+corrected: 2021-06-28
 version_adopted: 2016-02-02
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2650/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2772/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -238,7 +238,7 @@ concluda:
 
 #### Art. 19c
 
-**2. procedura d'annunzia a. propostas electoralas**
+**2. procedura d'annunzia a) propostas electoralas**
 
 <sup>1</sup> La proposta electorala dastga cuntegnair maximalmain tants nums da persunas elegiblas sco quai ch'i stattan a disposiziun mandats, e nagins nums dapli ch'ina giada.
 
@@ -248,7 +248,7 @@ concluda:
 
 #### Art. 19d
 
-**b. suttascripziun**
+**b) suttascripziun**
 
 <sup>1</sup> Mintga proposta electorala sto vegnir suttascritta a maun, e quai da tschintg persunas cun dretg da votar che abitan en il circul electoral.
 
@@ -258,7 +258,7 @@ concluda:
 
 #### Art. 19e
 
-**c. inoltraziun**
+**c) inoltraziun**
 
 <sup>1</sup> Las propostas electoralas ston arrivar tar la dretgira regiunala cumpetenta fin il pli tard l'otgavel glindesdi avant il di d'elecziun.
 
@@ -266,7 +266,7 @@ concluda:
 
 #### Art. 19f
 
-**d. rectificaziun**
+**d) rectificaziun**
 
 <sup>1</sup> La cumissiun administrativa da la dretgira regiunala cumpetenta controllescha cuntinuadamain che las propostas electoralas inoltradas adempleschian las pretensiuns formalas, che las candidatas ed ils candidats sajan elegibels e che las suttascripziuns sajan valaivlas.
 
@@ -278,7 +278,7 @@ concluda:
 
 #### Art. 19g
 
-**e. publicaziun**
+**e) publicaziun**
 
 <sup>1</sup> La cumissiun administrativa da la dretgira regiunala cumpetenta publitgescha ils nums da las candidatas e dals candidats en la moda ch'è usitada al lieu.
 
@@ -499,7 +499,7 @@ concluda:
 
 #### Art. 39
 
-**2. elecziuns a. maioritad necessaria**
+**2. elecziuns a) maioritad necessaria**
 
 <sup>1</sup> Elegì cun l'emprim scrutini è quella persuna che cuntanscha la maioritad absoluta. Il dumber total da tut las vuschs valaivlas per las persunas che candideschan vegn dividì tras il dubel dumber dals posts libers. La proxima cifra entira pli auta è la maioritad absoluta.
 
@@ -507,13 +507,13 @@ concluda:
 
 #### Art. 40
 
-**b. segund scrutini**
+**b) segund scrutini**
 
 <sup>1</sup> Sch'ina elecziun na reussescha betg tar elecziuns singulas u sche pli paucas persunas èn elegidas tar elecziuns cumplessivas che quai che ston vegnir occupads posts, ha lieu in segund scrutini liber. Elegidas èn quellas persunas che survegnan las pli bleras vuschs (maioritad relativa).
 
 #### Art. 41
 
-**c. decisiun tras la sort**
+**c) decisiun tras la sort**
 
 <sup>1</sup> Sche pliras persunas han survegnì il medem dumber da vuschs, decida la sort davart l'elecziun u davart la successiun d'occupar in post. La sort vegn tratga:
 

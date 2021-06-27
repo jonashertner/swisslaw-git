@@ -5,12 +5,12 @@ title: Gesetz über die politischen Rechte im Kanton Graubünden
 short: GPR
 language: de
 version: 2016-02-01
-corrected: 2017-02-24
+corrected: 2021-06-28
 version_adopted: 2016-02-02
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2650/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2772/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

@@ -5,12 +5,12 @@ title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
 version: 2016-02-01
-corrected: 2017-02-24
+corrected: 2021-06-28
 version_adopted: 2016-02-02
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2650/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2772/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
