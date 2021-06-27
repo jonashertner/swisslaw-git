@@ -3,18 +3,18 @@ sr: "0.231.174"
 title: Vertrag von Peking vom 24. Juni 2012 über den Schutz von audiovisuellen Darbietungen (mit Erkl.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/263"
 language: de
-version: 2020-05-11
+version: 2021-06-28
 adopted: 2012-06-24
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20200511/de/xml/fedlex-data-admin-ch-eli-cc-2020-263-20200511-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20200511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20210628/de/xml/fedlex-data-admin-ch-eli-cc-2020-263-20210628-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20210628/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Vertrag von Peking über den Schutz von audiovisuellen Darbietungen
 
-AS **2020** 1361
+AS **2020** 1361; BBl **2018** 591
 
 Übersetzung
 
@@ -26,9 +26,9 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 2020
 
 In Kraft getreten für die Schweiz am 11. Mai 2020
 
-(Stand am 11. Mai 2020)
+(Stand am 28. Juni 2021)
 
-[^t-1]: [AS 2020 1359](https://fedlex.data.admin.ch/eli/oc/2020/262); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)
+[^t-1]: [AS 2020 1359](https://fedlex.data.admin.ch/eli/oc/2020/262)
 
 Die Vertragsparteien,
 
@@ -362,18 +362,21 @@ Die vereinbarte Erklärung zu Artikel 12 (Pflichten in Bezug auf Informationen f
 [^t-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1C
 [^t-3]: [SR 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
 
-Geltungsbereich am 15. April 2020**[^t-4]**
+Geltungsbereich am 28. Juni 2021**[^t-4]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Algerien</td><td>25. Juli</td><td>2017 B</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Armenien</td><td>17. Dezember</td><td>2020 B</td><td>17. März</td><td>2021</td></tr>
 <tr><td>Belize</td><td>9. November</td><td>2018 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Botsuana</td><td>20. November</td><td>2013</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Burkina Faso</td><td>31. Juli</td><td>2017</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Chile</td><td>22. Juni</td><td>2015</td><td>28. April</td><td>2020</td></tr>
 <tr><td>China\*</td><td>9. Juli</td><td>2014</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Cook-Inseln</td><td>19. März</td><td>2019 B</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Costa Rica</td><td>13. November</td><td>2020</td><td>13. Februar</td><td>2021</td></tr>
 <tr><td>Dominikanische Republik</td><td>5. Juni</td><td>2018 B</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Ecuador</td><td>3. Mai</td><td>2021 B</td><td>3. August</td><td>2021</td></tr>
 <tr><td>El Salvador</td><td>10. Oktober</td><td>2016</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Gabun</td><td>21. September</td><td>2016 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Indonesien</td><td>28. Januar</td><td>2020</td><td>28. April</td><td>2020</td></tr>
@@ -381,28 +384,36 @@ Geltungsbereich am 15. April 2020**[^t-4]**
 <tr><td>Kambodscha</td><td>27. März</td><td>2019 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Katar</td><td>3. Juli</td><td>2015</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Kenia</td><td>12. September</td><td>2019</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Kiribati</td><td>22. März</td><td>2021 B</td><td>22. Juni</td><td>2021</td></tr>
+<tr><td>Komoren</td><td>25. Januar</td><td>2021 B</td><td>25. April</td><td>2021</td></tr>
+<tr><td>Korea (Nord-)</td><td>22. April</td><td>2020 B</td><td>22. Juli</td><td>2020</td></tr>
 <tr><td>Korea (Süd-)</td><td>19. Februar</td><td>2016</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Mali</td><td>23. Oktober</td><td>2018</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Marshallinseln</td><td>8. Februar</td><td>2019 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Moldau</td><td>4. September</td><td>2015</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>4. Oktober</td><td>2017 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Peru\*</td><td>27. September</td><td>2018</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Philippinen</td><td>28. April</td><td>2021 B</td><td>28. Juli</td><td>2021</td></tr>
 <tr><td>Russland</td><td>19. Oktober</td><td>2015 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Samoa\*</td><td>9. Mai</td><td>2017 B</td><td>28. April</td><td>2020</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>15. Oktober</td><td>2020</td><td>15. Januar</td><td>2021</td></tr>
 <tr><td>Schweiz\*</td><td>11. Februar</td><td>2020</td><td>11. Mai</td><td>2020</td></tr>
 <tr><td>Simbabwe</td><td>12. September</td><td>2019</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Slowakei\*</td><td>22. Mai</td><td>2014 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>5. September</td><td>2016 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Syrien</td><td>18. März</td><td>2013</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Togo</td><td>20. Januar</td><td>2021</td><td>20. April</td><td>2021</td></tr>
 <tr><td>Trinidad und Tobago</td><td>4. Oktober</td><td>2019 B</td><td>28. April</td><td>2020</td></tr>
 <tr><td>Tunesien</td><td>21. Juli</td><td>2016</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Vanuatu</td><td>6. Mai</td><td>2020 B</td><td>6. August</td><td>2020</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>15. Oktober</td><td>2014 B</td><td>28. April</td><td>2020</td></tr>
+<tr><td>Zentralafrikanische Republik</td><td>19. August</td><td>2020</td><td>19. November</td><td>2020</td></tr>
 </table>
 
 - \* Vorbehalte und Erklärungen.
 - Die Vorbehalte und Erklärungen, mit Ausnahme diejenigen der Schweiz, werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.
 
-[^t-4]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 2020 1361](https://fedlex.data.admin.ch/eli/oc/2020/263); [2021 421](https://fedlex.data.admin.ch/eli/oc/2021/421). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://fedlex.admin.ch/de/treaty).
 
 Erklärung
 

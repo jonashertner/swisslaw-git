@@ -3,11 +3,11 @@ sr: "0.231.174"
 title: Trattato di Pechino del 24 giugno 2012 sulle interpretazioni ed esecuzioni audiovisive (con Dichiarazione)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/263"
 language: it
-version: 2020-05-11
+version: 2021-06-28
 adopted: 2012-06-24
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20200511/it/xml/fedlex-data-admin-ch-eli-cc-2020-263-20200511-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20200511/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/263/20210628/it/xml/fedlex-data-admin-ch-eli-cc-2020-263-20210628-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/263/20210628/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2020** 1361; FF **2018** 505
 
 Traduzione
 
-Concluso a Pechino il 24 giugno 2012
+Concluso a Pechino il 24 giugno 2012 Approvato dall’Assemblea federale il 21 giugno 2019[^t-1] Ratificato dalla Svizzera con strumento depositato l’11 febbraio 2020 Entrato in vigore per la Svizzera l’11 maggio 2020
 
-Approvato dall’Assemblea federale il 21 giugno 2019[^t-1]
-
-Ratificato dalla Svizzera con strumento depositato l’11 febbraio 2020
-
-Entrato in vigore per la Svizzera l’11 maggio 2020
-
-(Stato 11 maggio 2020)
+(Stato 29 agosto 2022)
 
 [^t-1]: [RU 2020 1359](https://fedlex.data.admin.ch/eli/oc/2020/262)
 
@@ -362,45 +356,61 @@ La dichiarazione concordata in merito all’articolo 12 (Obblighi in materia di 
 [^lvlu31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1C
 [^lvlu31-2]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
 
-Campo d’applicazione il 15 aprile 2020[^t-2]
+Campo d’applicazione il 29 agosto 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Algeria</td><td>25 luglio</td><td>2017 A</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Armenia</td><td>17 dicembre</td><td>2020 A</td><td>17 marzo</td><td>2021</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Botswana</td><td>20 novembre</td><td>2013</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Burkina Faso</td><td>31 luglio</td><td>2017</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Cambogia</td><td>27 marzo</td><td>2019 A</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Centrafricana, Repubblica</td><td>19 agosto</td><td>2020</td><td>19 novembre</td><td>2020</td></tr>
 <tr><td>Cile</td><td>22 giugno</td><td>2015</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>9 luglio</td><td>2014</td><td>28 aprile</td><td>2020</td></tr>
-<tr><td>Corea (Sud)</td><td>19 febbraio</td><td>2016</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Comore</td><td>25 gennaio</td><td>2021 A</td><td>25 aprile</td><td>2021</td></tr>
+<tr><td>Corea del Nord</td><td>22 aprile</td><td>2020 A</td><td>22 luglio</td><td>2020</td></tr>
+<tr><td>Corea del Sud</td><td>19 febbraio</td><td>2016</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Costa Rica</td><td>13 novembre</td><td>2020</td><td>13 febbraio</td><td>2021</td></tr>
+<tr><td>Ecuador</td><td>3 maggio</td><td>2021 A</td><td>3 agosto</td><td>2021</td></tr>
 <tr><td>El Salvador</td><td>10 ottobre</td><td>2016</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>15 ottobre</td><td>2014 A</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Filippine</td><td>28 aprile</td><td>2021 A</td><td>28 luglio</td><td>2021</td></tr>
 <tr><td>Gabon</td><td>21 settembre</td><td>2016 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Giappone<sup>\*</sup></td><td>10 giugno</td><td>2014 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Indonesia</td><td>28 gennaio</td><td>2020</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Isole Cook</td><td>19 marzo</td><td>2019 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Isole Marshall</td><td>8 febbraio</td><td>2019 A</td><td>28 aprile</td><td>2020</td></tr>
-<tr><td>Kenya</td><td>12 settembre</td><td>2019</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Kenya</td><td>15 novembre</td><td>2019</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Kiribati</td><td>22 marzo</td><td>2021 A</td><td>22 giugno</td><td>2021</td></tr>
+<tr><td>Liechtenstein</td><td>22 settembre</td><td>2021 A</td><td>22 dicembre</td><td>2021</td></tr>
 <tr><td>Mali</td><td>23 ottobre</td><td>2018</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Marocco</td><td>22 aprile</td><td>2022</td><td>22 luglio</td><td>2022</td></tr>
+<tr><td>Messico<sup>\*</sup></td><td>7 luglio</td><td>2022</td><td>7 ottobre</td><td>2022</td></tr>
 <tr><td>Moldova</td><td>4 settembre</td><td>2015</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>4 ottobre</td><td>2017 A</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Panama</td><td>23 marzo</td><td>2022 A</td><td>23 giugno</td><td>2022</td></tr>
 <tr><td>Perù<sup>\*</sup></td><td>27 settembre</td><td>2018</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Qatar</td><td>3 luglio</td><td>2015</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Repubblica Dominicana</td><td>5 giugno</td><td>2018 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Russia</td><td>19 ottobre</td><td>2015 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>5 settembre</td><td>2016 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Samoa<sup>\*</sup></td><td>9 maggio</td><td>2017 A</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>15 ottobre</td><td>2020</td><td>15 gennaio</td><td>2021</td></tr>
 <tr><td>Siria</td><td>18 marzo</td><td>2013</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Slovacchia<sup>\*</sup></td><td>22 maggio</td><td>2014 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>11 febbraio</td><td>2020</td><td>11 maggio</td><td>2020</td></tr>
+<tr><td>Togo</td><td>20 gennaio</td><td>2021</td><td>20 aprile</td><td>2021</td></tr>
 <tr><td>Trinidad e Tobago</td><td>4 ottobre</td><td>2019 A</td><td>28 aprile</td><td>2020</td></tr>
 <tr><td>Tunisia</td><td>21 luglio</td><td>2016</td><td>28 aprile</td><td>2020</td></tr>
+<tr><td>Uganda</td><td>28 gennaio</td><td>2022</td><td>28 aprile</td><td>2022</td></tr>
+<tr><td>Vanuatu</td><td>6 maggio</td><td>2020 A</td><td>6 agosto</td><td>2020</td></tr>
 <tr><td>Zimbabwe</td><td>12 settembre</td><td>2019</td><td>28 aprile</td><td>2020</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell'Organizzazione mondiale della proprietà intellettuale: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2020 1361](https://fedlex.data.admin.ch/eli/oc/2020/263); [2021 421](https://fedlex.data.admin.ch/eli/oc/2021/421); [2022 476](https://fedlex.data.admin.ch/eli/oc/2022/476). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Dichiarazione
 
