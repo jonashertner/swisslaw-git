@@ -4,13 +4,13 @@ number: "711.13"
 title: Verordnung zur Bekämpfung der Verbreitung des Coronavirus
 short: Kantonale Covid-19-Verordnung
 language: de
-version: 2021-04-29
-valid_until: 2021-06-27
-version_adopted: 2021-04-27
+version: 2021-06-28
+valid_until: 2021-08-22
+version_adopted: 2021-06-25
 adopted: 2020-11-03
 in_force: 2020-11-04
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/463/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/486/pdf_file"
 text: pdf
 ---
 
@@ -20,9 +20,7 @@ text: pdf
 
 vom 3. November 2020[^t-1]
 
-Der Regierungsrat von Nidwalden,
-
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 40 des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^t-2], Art. 8 der Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^t-3] und Art. 74 Ziff. 3 des Gesetzes vom 30. Mai 2007 zur Erhaltung und Förderung der Gesundheit (Gesundheitsgesetz, GesG)[^t-4],
+Der Regierungsrat von Nidwalden, gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 40 des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^t-2], Art. 8 der Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^t-3] und Art. 74 Ziff. 3 des Gesetzes vom 30. Mai 2007 zur Erhaltung und Förderung der Gesundheit (Gesundheitsgesetz, GesG)[^t-4],
 
 beschliesst:
 
@@ -39,24 +37,17 @@ beschliesst:
 
 <sup>2</sup> Die Massnahmen dienen dazu, die Verbreitung des Coronavirus (Covid-19) zu bekämpfen und Übertragungsketten zu unterbrechen.
 
+[^1-1]: Fassung gemäss Regierungsratsbeschluss vom 25. Juni 2021, A 2021, ….; in Kraft seit 28. Juni 2021
+
 #### § 2
 
-**Zusätzliche Massnahmen für die Schulen**
+**Aufgehoben[^1-1]**
 
-<sup>1</sup> Lehrpersonen der Kindergarten- und Primarstufe, Jugendliche in Schulen der Sekundarstufe I sowie deren Lehrpersonen und weiteres in diesen Schulen tätiges Personal müssen bei Präsenzunterricht eine Gesichtsmaske tragen. Ausgenommen sind Situationen, in denen das Tragen einer Maske den Unterricht wesentlich erschwert.
-
-<sup>2</sup> Für Aktivitäten in den Bereichen Sport und Kultur in Klassen der Sekundarstufe I gelten die Vorgaben für den nichtprofessionellen Bereich der Art. 6e und 6f der Covid-19-Verordnung besondere Lage[^2-1] mit Ausnahme der Beschränkung der Gruppengrösse.
-
-[^2-1]: SR 818.101.26
-[^2-2]: Fassung gemäss Regierungsratsbeschluss vom 15. Dezember 2020, A 2021, 6; in Kraft seit 1. Januar 2021
+[^2-1]: Fassung gemäss Regierungsratsbeschluss vom 25. Juni 2021, A 2021, ….; in Kraft seit 28. Juni 2021
 
 #### § 2a
 
-**Ferienverlängerung und Fernunterricht an Schulen[^2-2]**
-
-<sup>1</sup> An der Volksschule und den 1. bis 3. Klassen der Mittelschule werden die Weihnachtsferien 2020 um drei Tage bis zum 6. Januar 2021 verlängert.
-
-<sup>2</sup> An der Sekundarstufe II der Mittelschule und der Berufsfachschule wird in den ersten beiden Schulwochen vom 4. bis zum 15. Januar 2021 Fernunterricht erteilt.
+**Aufgehoben[^2-1]**
 
 [^2a-1]: Fassung gemäss Regierungsratsbeschluss vom 23. Februar 2021, A 2021, 394; in Kraft seit 1. März 2021
 
@@ -69,6 +60,10 @@ beschliesst:
 #### § 4
 
 **Aufgehoben[^3-1]**
+
+**1**
+
+Stand: 28. Juni 2021
 
 #### § 4a
 
@@ -104,3 +99,4 @@ Der Regierungsrat überprüft die Erforderlichkeit der Massnahmen gemäss dieser
 ## Weitere Fussnoten
 
 - [6] Fassung gemäss Regierungsratsbeschluss vom 7. Dezember 2020, A 2020, 2404; in Kraft seit 10. Dezember 2020
+- [7] Fassung gemäss Regierungsratsbeschluss vom 15. Dezember 2020, A 2021, 6; in Kraft seit 1. Januar 2021
