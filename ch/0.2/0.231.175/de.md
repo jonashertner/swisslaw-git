@@ -3,11 +3,11 @@ sr: "0.231.175"
 title: "Vertrag von Marrakesch vom 27. Juni 2013 über die Erleichterung des Zugangs zu veröffentlichten Werken für blinde, sehbehinderte oder sonst lesebehinderte Menschen (mit vereinbarten Erklärungen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/186"
 language: de
-version: 2020-05-11
+version: 2021-06-28
 adopted: 2013-06-27
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20200511/de/xml/fedlex-data-admin-ch-eli-cc-2020-186-20200511-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20200511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20210628/de/xml/fedlex-data-admin-ch-eli-cc-2020-186-20210628-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20210628/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 2020
 
 In Kraft getreten für die Schweiz am 11. Mai 2020
 
-(Stand am 11. Mai 2020)
+(Stand am 28. Juni 2021)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 21. Juni 2019 ([AS 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182)).
 
@@ -352,22 +352,26 @@ In Bezug auf Werke, die Werke im Sinne von Artikel 2 Buchstabe a) dieses Vertrag
 
 [^lvlu23-1]: [SR 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
 
-Geltungsbereich am 5. März 2020**[^t-2]**
+Geltungsbereich am 28. Juni 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>26. Juli</td><td>2018</td><td>26. Oktober</td><td>2018</td></tr>
 <tr><td>Argentinien</td><td>1. April</td><td>2015</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Aserbaidschan\*</td><td>24. September</td><td>2018 B</td><td>24. Dezember</td><td>2018</td></tr>
+<tr><td>Äthiopien</td><td>2. November</td><td>2020</td><td>2. Februar</td><td>2021</td></tr>
 <tr><td>Australien\*</td><td>10. Dezember</td><td>2015</td><td>30. September</td><td>2016</td></tr>
+<tr><td>Belarus</td><td>22. Juli</td><td>2020</td><td>22. Oktober</td><td>2020</td></tr>
 <tr><td>Belize</td><td>9. November</td><td>2018 B</td><td>9. Februar</td><td>2019</td></tr>
 <tr><td>Bolivien</td><td>12. März</td><td>2019 B</td><td>12. Juni</td><td>2019</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>20. Januar</td><td>2021</td><td>20. April</td><td>2021</td></tr>
 <tr><td>Botsuana</td><td>5. Oktober</td><td>2016 B</td><td>5. Januar</td><td>2017</td></tr>
 <tr><td>Brasilien</td><td>11. Dezember</td><td>2015</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Burkina Faso</td><td>31. Juli</td><td>2017</td><td>31. Oktober</td><td>2017</td></tr>
 <tr><td>Chile</td><td>10. Mai</td><td>2016</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Cook-Inseln</td><td>19. März</td><td>2019 B</td><td>19. Juni</td><td>2019</td></tr>
 <tr><td>Costa Rica</td><td>9. Oktober</td><td>2017</td><td>9. Januar</td><td>2018</td></tr>
+<tr><td>Côte d’Ivoire</td><td>17. September</td><td>2020</td><td>17. Dezember</td><td>2020</td></tr>
 <tr><td>Dominikanische Republik\*</td><td>5. Juni</td><td>2018</td><td>5. September</td><td>2018</td></tr>
 <tr><td>Ecuador</td><td>29. Juni</td><td>2016</td><td>30. September</td><td>2016</td></tr>
 <tr><td>El Salvador</td><td>1. Oktober</td><td>2014</td><td>30. September</td><td>2016</td></tr>
@@ -376,6 +380,7 @@ Geltungsbereich am 5. März 2020**[^t-2]**
 <tr><td>Guatemala</td><td>29. Juni</td><td>2016</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Honduras</td><td>29. März</td><td>2017 B</td><td>29. Juni</td><td>2017</td></tr>
 <tr><td>Indien</td><td>24. Juni</td><td>2014</td><td>30. September</td><td>2016</td></tr>
+<tr><td>Indonesien</td><td>28. Januar</td><td>2020</td><td>28. April</td><td>2021</td></tr>
 <tr><td>Israel</td><td>21. März</td><td>2016 B</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Japan\*</td><td>1. Oktober</td><td>2018 B</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Jordanien</td><td>26. Juni</td><td>2018</td><td>26. September</td><td>2018</td></tr>
@@ -385,6 +390,7 @@ Geltungsbereich am 5. März 2020**[^t-2]**
 <tr><td>Kenia</td><td>2. Juni</td><td>2017</td><td>2. September</td><td>2017</td></tr>
 <tr><td>Kirgisistan</td><td>15. Mai</td><td>2017 B</td><td>15. August</td><td>2017</td></tr>
 <tr><td>Kiribati</td><td>31. Juli</td><td>2019 B</td><td>31. Oktober</td><td>2019</td></tr>
+<tr><td>Komoren</td><td>25. Januar</td><td>2021</td><td>25. April</td><td>2021</td></tr>
 <tr><td>Korea (Nord-)</td><td>19. Februar</td><td>2016</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Korea (Süd-)</td><td>8. Oktober</td><td>2015</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Lesotho</td><td>30. April</td><td>2018 B</td><td>30. Juli</td><td>2018</td></tr>
@@ -393,6 +399,7 @@ Geltungsbereich am 5. März 2020**[^t-2]**
 <tr><td>Mali</td><td>16. Dezember</td><td>2014</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Marokko\*</td><td>15. Mai</td><td>2019</td><td>15. August</td><td>2019</td></tr>
 <tr><td>Marshallinseln</td><td>8. Februar</td><td>2019 B</td><td>8. Mai</td><td>2019</td></tr>
+<tr><td>Mauritius</td><td>11. Januar</td><td>2021</td><td>11. April</td><td>2021</td></tr>
 <tr><td>Mexiko</td><td>29. Juli</td><td>2015</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Moldau</td><td>19. Februar</td><td>2018</td><td>19. Mai</td><td>2018</td></tr>
 <tr><td>Mongolei</td><td>23. September</td><td>2015</td><td>30. September</td><td>2016</td></tr>
@@ -405,23 +412,35 @@ Geltungsbereich am 5. März 2020**[^t-2]**
 <tr><td>Peru</td><td>2. Februar</td><td>2016</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Philippinen</td><td>18. Dezember</td><td>2018 B</td><td>18. März</td><td>2019</td></tr>
 <tr><td>Russland</td><td>8. Februar</td><td>2018 B</td><td>8. Mai</td><td>2018</td></tr>
+<tr><td>San Marino</td><td>2. Juni</td><td>2020</td><td>2. September</td><td>2020</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>15. Oktober</td><td>2020</td><td>15. Januar</td><td>2021</td></tr>
 <tr><td>Saudi-Arabien</td><td>21. November</td><td>2018 B</td><td>21. Februar</td><td>2019</td></tr>
 <tr><td>Schweiz</td><td>11. Februar</td><td>2020</td><td>11. Mai</td><td>2020</td></tr>
 <tr><td>Serbien</td><td>24. Februar</td><td>2020 B</td><td>24. Mai</td><td>2020</td></tr>
 <tr><td>Simbabwe</td><td>12. September</td><td>2019</td><td>12. Dezember</td><td>2019</td></tr>
 <tr><td>Singapur</td><td>30. März</td><td>2015 B</td><td>30. September</td><td>2016</td></tr>
 <tr><td>Sri Lanka</td><td>5. Oktober</td><td>2016 B</td><td>5. Januar</td><td>2017</td></tr>
+<tr><td>St. Lucia</td><td>11. Juni</td><td>2020</td><td>11. September</td><td>2020</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>5. September</td><td>2016 B</td><td>5. Dezember</td><td>2016</td></tr>
 <tr><td>Tadschikistan</td><td>27. Februar</td><td>2019 B</td><td>27. Mai</td><td>2019</td></tr>
+<tr><td>Tansania</td><td>8. April</td><td>2020</td><td>8. Juli</td><td>2020</td></tr>
 <tr><td>Thailand</td><td>28. Januar</td><td>2019 B</td><td>28. April</td><td>2019</td></tr>
 <tr><td>Trinidad und Tobago</td><td>4. Oktober</td><td>2019 B</td><td>4. Januar</td><td>2020</td></tr>
 <tr><td>Tunesien</td><td>7. September</td><td>2016</td><td>7. Dezember</td><td>2016</td></tr>
+<tr><td>Turkmenistan</td><td>15. Oktober</td><td>2020 B</td><td>15. Januar</td><td>2021</td></tr>
 <tr><td>Uganda</td><td>23. April</td><td>2018</td><td>23. Juli</td><td>2018</td></tr>
 <tr><td>Uruguay</td><td>1. Dezember</td><td>2014</td><td>30. September</td><td>2016</td></tr>
+<tr><td>Vanuatu</td><td>6. Mai</td><td>2020</td><td>6. August</td><td>2020</td></tr>
 <tr><td>Venezuela</td><td>2. Oktober</td><td>2019 B</td><td>2. Januar</td><td>2020</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>15. Oktober</td><td>2014 B</td><td>30. September</td><td>2016</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Guernsey</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Insel Man</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Jersey</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Vereinigte Staaten</td><td>8. Februar</td><td>2019</td><td>8. Mai</td><td>2019</td></tr>
+<tr><td>Zentralafrikanische Republik</td><td>19. August</td><td>2020</td><td>19. November</td><td>2020</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-2]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://fedlex.admin.ch/de/Treaty).
