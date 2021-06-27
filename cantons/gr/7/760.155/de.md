@@ -5,12 +5,12 @@ title: Verordnung über den Fischereibetrieb
 short: "Fischereibetriebsvorschriften, FBV"
 language: de
 version: 2021-01-01
-valid_until: 2022-12-31
+corrected: 2021-06-28
 version_adopted: 2020-11-24
 adopted: 2019-12-10
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/760.155"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3198/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3098/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -91,7 +91,7 @@ von der Regierung erlassen am 10. Dezember 2019
 - i) Sägebach von den Quellen bis und mit Sägeweiher beim Schloss Ortenstein, Gemeinde Domleschg (296);
 - j) Ober- und Untersee samt Mittelbach (3002 und 3003) und Rothornweiher beim Haus "Rothornblick", Gemeinde Arosa;
 - k) Renggliweiher (Kieswerk Untervaz), Gemeinde Untervaz (3012);
-- l) Weiher "Im Bad" und "Cholplatz", Gemeinde Klosters (393);
+- l) Weiher "Im Bad" und "Cholplatz", Gemeinde Klosters-Serneus (393);
 - m) Lej Nair und Lej Pitschen, Gemeinde Pontresina (4020 und 4021);
 - n) Lai Nair und Lai da Tarasp, Gemeinde Scuol (4036 und 4037);
 - o) Lai da Rims, Gemeinde Val Müstair (5001).
@@ -415,7 +415,7 @@ von der Regierung erlassen am 10. Dezember 2019
 
 **Ausnahmen im Einzelfall**
 
-<sup>1</sup> Bei bevorstehenden Spülungen und Entleerungen von Stauhaltungen, anderen grösseren technischen Gewässereingriffen oder gezielten und befristeten Bestandesregulierungen im Interesse der Fischerei und der Erhaltung der Artenvielfalt kann das Departement für Infrastruktur, Energie und Mobilität für die betreffenden Gewässer Ausnahmen bezüglich Fanggeräte, Fangmethoden, Fangzeiten, Fangmasse und Fangzahlen beschliessen.
+<sup>1</sup> Bei bevorstehenden Spülungen und Entleerungen von Stauhaltungen, anderen grösseren technischen Gewässereingriffen oder gezielten und befristeten Bestandesregulierungen im Interesse der Fischerei und der Erhaltung der Artenvielfalt kann das Bau-, Verkehrs- und Forstdepartement für die betreffenden Gewässer Ausnahmen bezüglich Fanggeräte, Fangmethoden, Fangzeiten, Fangmasse und Fangzahlen beschliessen.
 
 <sup>2</sup> Die entsprechenden Regelungen sind im Kantonsamtsblatt zu publizieren.
 

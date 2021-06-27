@@ -5,12 +5,12 @@ title: Ordinaziun davart il manaschi da pestga
 short: "prescripziuns da pestga, PP"
 language: rm
 version: 2021-01-01
-valid_until: 2022-12-31
+corrected: 2021-06-28
 version_adopted: 2020-11-24
 adopted: 2019-12-10
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/760.155"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3198/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3098/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -91,7 +91,7 @@ relaschada da la regenza ils 10 da december 2019
 - i) Sägebach da las funtaunas fin e cun il Sägeweiher tar il chastè dad Ortenstein, vischnanca da Tumleastga (296);
 - j) Ober- ed Untersee inclusiv Mittelbach (3002 e 3003) e Rothornweiher tar la chasa "Rothornblick", vischnanca dad Arosa;
 - k) Renggliweiher (implant da glera Vaz sut), vischnanca da Vaz sut (3012);
-- l) lajets "Im Bad" e "Cholplatz", vischnanca da Claustra (393);
+- l) lajets "Im Bad" e "Cholplatz", vischnanca da Claustra-Serneus (393);
 - m) Lej Nair e Lej Pitschen, vischnanca da Puntraschigna (4020 e 4021);
 - n) Lai Nair e Lai da Tarasp, vischnanca da Scuol (4036 e 4037);
 - o) Lai da Rims, vischnanca da Val Müstair (5001).
@@ -415,7 +415,7 @@ relaschada da la regenza ils 10 da december 2019
 
 **Excepziuns en il cas singul**
 
-<sup>1</sup> En cas da derschentadas e svidadas planisadas d'implants d'accumulaziun, en cas d'autras intervenziuns tecnicas pli grondas en las auas u en cas da regulaziuns da la populaziun cun cleras intenziuns e da durada limitada en l'interess da la pestga e dal mantegniment da la diversitad da las spezias po il Departament d'infrastructura, energia e mobilitad concluder excepziuns per las auas respectivas areguard ils utensils da pestga, las metodas da pestgar, ils temps da pestga, las mesiras dals peschs ed ils dumbers da peschs che dastgan vegnir pigliads.
+<sup>1</sup> En cas da derschentadas e svidadas planisadas d'implants d'accumulaziun, en cas d'autras intervenziuns tecnicas pli grondas en las auas u en cas da regulaziuns da la populaziun cun cleras intenziuns e da durada limitada en l'interess da la pestga e dal mantegniment da la diversitad da las spezias po il departament da construcziun, traffic e selvicultura concluder excepziuns per las auas respectivas areguard ils utensils da pestga, las metodas da pestgar, ils temps da pestga, las mesiras dals peschs ed ils dumbers da peschs che dastgan vegnir pigliads.
 
 <sup>2</sup> Las regulaziuns correspundentas ston vegnir publitgadas en il fegl uffizial chantunal.
 
