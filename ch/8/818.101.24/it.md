@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-06-26
+version: 2021-06-29
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210626/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210626-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210626/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210629/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210629-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210626/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 26 giugno 2021)
+del 19 giugno 2020 (Stato 29 giugno 2021)
 
 Il Consiglio federale svizzero,
 
@@ -965,7 +965,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) e del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1461,9 +1461,10 @@ Allegato 6*[^t-8]*
 ### 3.3 Test autodiagnostici SARS-CoV-2
 
 - 3\.3.1 La Confederazione assume le spese per un massimo di cinque test autodiagnostici SARS-CoV-2 per persona sull’arco di 30 giorni, se dispensati dalle farmacie.
-- 3\.3.2
+- 3\.3.2 ...
+- 3\.3.3 Non hanno diritto al rimborso delle spese dei test autodiagnostici
 
-  Non hanno diritto al rimborso delle spese dei test autodiagnostici SARS-CoV-2:
+  SARS-CoV-2:
 
   - a. le persone vaccinate secondo l’allegato 2 numero 1.1 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl33-1], se la vaccinazione risale a non più di 365 giorni dalla somministrazione dell’ultima dose; per il vaccino di Janssen il periodo considerato è di 365 giorni a partire dal ventiduesimo giorno dopo la vaccinazione;
   - b. le persone che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, per sei mesi a partire dall’undicesimo giorno dopo la conferma dell’infezione.

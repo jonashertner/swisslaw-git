@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-06-26
+version: 2021-06-29
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210626/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210626-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210626/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210629/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210629-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 26 June 2021
+of 19 June 2020 (Status as of 29 June 2021)
 
 The Swiss Federal Council,
 
@@ -668,7 +668,7 @@ The following persons are not regarded as being at high risk:
 
 <sup>12</sup> The FDHA shall continually update Annex 7 based on the state of science.[^27a-5]
 
-<sup>13</sup> For the general protection of employees, Article 10 of the COVID-19 Special Situation Ordinance of 19 June 2020[^27a-6] applies.
+<sup>13</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-6] applies.
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
 [^27a-2]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
@@ -1032,7 +1032,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021, ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) and of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021, ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) and of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) and the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1515,7 +1515,8 @@ Annex 6*[^t-8]*
 ### 3.3 Sars-CoV-2 self-tests
 
 - 3\.3.1 The Confederation shall pay the costs of a maximum of five Sars-CoV-2 self-tests per person within any period of 30 days, provided they are supplied by pharmacies.
-- 3\.3.2
+- 3\.3.2 ...
+- 3\.3.3
 
   The following persons are not entitled to have the costs of Sars-CoV-2 self-tests covered:
 

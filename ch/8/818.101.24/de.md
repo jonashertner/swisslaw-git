@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-06-26
+version: 2021-06-29
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210626/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210626-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210626/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210629/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210629-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210626/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 26. Juni 2021)
+vom 19. Juni 2020 (Stand am 29. Juni 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -968,7 +968,7 @@ Anhang 6*[^t-8]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) und vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) und vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) und der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -1464,7 +1464,8 @@ Anhang 6*[^t-8]*
 ### 3.3 Sars-CoV-2-Selbsttests
 
 - 3\.3.1 Der Bund übernimmt die Kosten von maximal fünf Sars-CoV-2-Selbsttests pro Person innerhalb von 30 Tagen, sofern sie durch Apotheken abgegeben werden.
-- 3\.3.2
+- 3\.3.2 ...
+- 3\.3.3
 
   Folgende Personen haben keinen Anspruch auf die Kostenübernahme von Sars-CoV-2-Selbsttests:
 
