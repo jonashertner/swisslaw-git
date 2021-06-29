@@ -3,11 +3,11 @@ sr: "0.740.72"
 title: Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse (mit Anhängen und Schlussakte)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: de
-version: 2020-12-11
+version: 2021-06-30
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20201211/de/xml/fedlex-data-admin-ch-eli-cc-2002-257-20201211-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20201211/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20210630/de/xml/fedlex-data-admin-ch-eli-cc-2002-257-20210630-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20210630/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 21. Juni 1999 Von der Bundesversammlung genehmigt am 8. Oktober 1999[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Oktober 2000 In Kraft getreten am 1. Juni 2002
 
-(Stand am 11. Dezember 2020)
+(Stand am 30. Juni 2021)
 
 [^t-1]: Art. 1 Abs. 1 Bst. f des BB vom 8. Okt. 1999 ([AS 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242))
 
@@ -856,15 +856,15 @@ Anhang 1*[^t-2]*
 
 ## Anwendbare Bestimmungen
 
-[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 2/2020 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 11. Dez. 2020, in Kraft für die Schweiz seit 11. Dez. 2020 ([AS 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
+[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 30. Juni 2021, in Kraft für die Schweiz seit 30. Juni 2021 ([AS 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)).
 
 Gemäss Artikel 52 Absatz 6 dieses Abkommens wendet die Schweiz Rechtsvorschriften an, die den nachstehend genannten Rechtsvorschriften gleichwertig sind:
 
-Einschlägige Bestimmungen des Rechts der Europäischen Union
+**Einschlägige Bestimmungen des Rechts der Europäischen Union**
 
 ### Abschnitt 1: Zugang zum Beruf
 
-Richtlinie 2006/1/EG des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die Verwendung von ohne Fahrer gemieteten Fahrzeugen im Güterkraftverkehr (kodifizierte Fassung), ABl. L 33, vom 4.02.2006, S. 82.
+Richtlinie 2006/1/EG des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die Verwendung von ohne Fahrer gemieteten Fahrzeugen im Güterkraftverkehr (kodifizierte Fassung), ABl. L 33, vom 4.2.2006, S. 82.
 
 Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates, ABl. L 300, vom 14.11.2009, S. 51; zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
 
@@ -874,9 +874,9 @@ Für die Zwecke dieses Abkommens:
 
 - a) befreien die Europäische Union und die Schweizerische Eidgenossenschaft die Staatsangehörigen der Schweizerischen Eidgenossenschaft, der Mitgliedstaaten der Europäischen Union und der Mitgliedstaaten des Europäischen Wirtschaftsraums von der Verpflichtung zur Mitführung der Fahrerbescheinigung;
 - b) kann die Schweizerische Eidgenossenschaft Angehörige anderer als der unter Buchstabe a) genannten Staaten von der Verpflichtung zur Mitführung der Fahrerbescheinigung nur nach vorheriger Konsultation und mit Zustimmung der Europäischen Union befreien;
-- c) gelten die Bestimmungen des Kapitels III der Verordnung (EG) Nr. 1072/ 2009 (bezüglich Kabotage) nicht;
+- c) gelten die Bestimmungen des Kapitels III der Verordnung (EG) Nr. 1072/2009 (bezüglich Kabotage) nicht.
 
-Verordnung (EG) Nr. 1073/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum grenzüberschreitenden Personenkraftverkehrsmarkt und zur Änderung der Verordnung (EG) Nr. 561/ 2006, ABl. L 300 vom 14.11.2009, S. 88; zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
+Verordnung (EG) Nr. 1073/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum grenzüberschreitenden Personenkraftverkehrsmarkt und zur Änderung der Verordnung (EG) Nr. 561/2006, ABl. L 300 vom 14.11.2009, S. 88, zuletzt geändert durch Verordnung (EU) Nr. 517/2013 des Rates vom 13. Mai 2013, ABl. L 158 vom 10.6.2013, S. 1.
 
 Für die Zwecke dieses Abkommens gelten die Bestimmungen des Kapitels V der Verordnung (EG) Nr. 1073/2009 (bezüglich Kabotage) nicht.
 
@@ -894,7 +894,7 @@ Richtlinie 2002/15/EG des Europäischen Parlaments und des Rates vom 11. März 2
 
 Richtlinie 2003/59/EG des Europäischen Parlaments und des Rates vom 15. Juli 2003 über die Grundqualifikation und Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr und zur Änderung der Verordnung (EWG) Nr. 3820/85 des Rates und der Richtlinie 91/439/EWG des Rates sowie zur Aufhebung der Richtlinie 76/914/EWG des Rates, ABl. L 226 vom 10.9.2003, S. 4.
 
-Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates, ABl. L 102 vom 11.4.2006, S. 1; zuletzt geändert durch die Verordnung (EU) Nr. 165/ 2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014, ABl. L 60 vom 28.2.2014, S. 1.
+Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates, ABl. L 102 vom 11.4.2006, S. 1; zuletzt geändert durch die Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014, ABl. L 60 vom 28.2.2014, S. 1.
 
 Richtlinie 2006/22/EG des Europäischen Parlaments und des Rates vom 15. März 2006 über Mindestbedingungen für die Durchführung der Verordnungen (EWG) Nr. 3820/85 und (EWG) Nr. 3821/85 des Rates über Sozialvorschriften für Tätigkeiten im Kraftverkehr sowie zur Aufhebung der Richtlinie 88/599/EWG des Rates, ABl. L 102 vom 11.4.2006, S. 35; zuletzt geändert durch die Verordnung (EU) 2016/403 der Kommission vom 18. März 2016, ABl. L 74 vom 19.3.2016, S. 8.
 
@@ -930,7 +930,7 @@ Richtlinie 2000/30/EG des Europäischen Parlaments und des Rates vom 6. Juni 200
 
 Richtlinie 2005/55/EG des Europäischen Parlaments und des Rates vom 28. September 2005 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen, ABl. L 275 vom 20.10.2005, S. 1; zuletzt geändert durch Richtlinie 2008/74/EG der Kommission vom 18. Juli 2008, ABl. L 192 vom 19.7.2008, S. 51.
 
-Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG. ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 133/2014 der Kommission vom 31. Januar 2014, ABl. L 47 vom 18.2.2014, S. 1.
+Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und über den Zugang zu Fahrzeugreparatur- und -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007 und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien 80/1269/EWG, 2005/55/EG und 2005/78/EG, ABl. L 188 vom 18.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 133/2014 der Kommission vom 31. Januar 2014, ABl. L 47 vom 18.2.2014, S. 1.
 
 Verordnung (EG) 661/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Typgenehmigung von Kraftfahrzeugen, Kraftfahrzeuganhängern und von Systemen, Bauteilen und selbständigen technischen Einheiten für diese Fahrzeuge hinsichtlich ihrer allgemeinen Sicherheit, ABl. L 200 vom 31.7.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2016/1004 der Kommission vom 22. Juni 2016, ABl. L 165 vom 23.6.2016, S. 1.
 
@@ -942,13 +942,13 @@ Verordnung (EU) Nr. 540/2014 des Europäischen Parlaments und des Rates vom 16. 
 
 Gefahrguttransporte
 
-Richtlinie 95/50/EG des Rates vom 6. Oktober 1995 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse, ABl. L 249 vom 17.10.1995, S. 35; zuletzt geändert durch Richtlinie 2008/54/EG des Europäischen Parlaments und des Rates vom 17. Juni 2018, ABl. L 162 vom 21.6.2008, S. 11.
+Richtlinie 95/50/EG des Rates vom 6. Oktober 1995 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse, ABl. L 249 vom 17.10.1995, S. 35; zuletzt geändert durch Richtlinie (EU) 2008/54/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008, ABl. L 162 vom 21.6.2008, S. 11.
 
-Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland, ABl. L 260 vom 30.9.2008, S. 13; zuletzt geändert durch Richtlinie (EU) 2018/1846 der Kommission vom 23. November 2018, ABl. L 299 vom 26.11.2018, S. 58.
+Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland, ABl. L 260 vom 30.9.2008, S. 13; zuletzt geändert durch Delegierte Richtlinie (EU) 2020/1833 der Kommission vom 2. Oktober 2020, ABl. L 408 vom 4.12.2020, S. 1.
 
 Für die Zwecke dieses Abkommens gelten in Bezug auf die Richtlinie 2008/68/EG für die Schweiz folgende Ausnahmeregelungen:
 
-### 1. Strassenverkehr
+\1. Strassenverkehr
 
 Ausnahmeregelungen für die Schweiz auf der Grundlage von Artikel 6 Absatz 2 Buchstabe a der Richtlinie 2008/68/EG:
 
@@ -988,7 +988,7 @@ Bezugnahme auf Anhang I Abschnitt I.1 der Richtlinie: 6.5, 6.8, 8.2 und 9.
 
 Inhalt des Anhangs der Richtlinie: Bau, Ausrüstung und Inspektion von Tanks und Fahrzeugen; Ausbildung der Fahrer/der Fahrerinnen.
 
-Inhalt der nationalen Rechtsvorschriften: Fahrzeuge und leere ungereinigte Tanks/ Container, die von Unternehmen, die Lagereinrichtungen für wassergefährdende Flüssigkeiten warten, zur Aufnahme von Flüssigkeiten während der Wartung der ortsfesten Tanks eingesetzt werden, unterliegen nicht den Bau-, Ausrüstungs- und Inspektionsvorschriften sowie den Kennzeichnungsvorschriften und den Vorschriften für die orangefarbene Kennzeichnung des ADR. Für sie gelten besondere Kennzeichnungsvorschriften; ferner ist für den Fahrer/die Fahrerin eines solchen Fahrzeugs die Schulung nach 8.2 nicht vorgeschrieben.
+Inhalt der nationalen Rechtsvorschriften: Fahrzeuge und leere ungereinigte Tanks/Container, die von Unternehmen, die Lagereinrichtungen für wassergefährdende Flüssigkeiten warten, zur Aufnahme von Flüssigkeiten während der Wartung der ortsfesten Tanks eingesetzt werden, unterliegen nicht den Bau-, Ausrüstungs- und Inspektionsvorschriften sowie den Kennzeichnungsvorschriften und den Vorschriften für die orangefarbene Kennzeichnung des ADR. Für sie gelten besondere Kennzeichnungsvorschriften; ferner ist für den Fahrer/die Fahrerin eines solchen Fahrzeugs die Schulung nach 8.2 nicht vorgeschrieben.
 
 Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.6.3.10 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
@@ -1004,7 +1004,7 @@ Bezugnahme auf Anhang I Abschnitt I.1 der Richtlinie: 2, 4.1.10, 5.2 und 5.4.
 
 Inhalt des Anhangs der Richtlinie: Einstufung, Zusammenpackung, Kennzeichnung und Etikettierung, Begleitpapiere.
 
-Inhalt der nationalen Rechtsvorschriften: Die Rechtsvorschriften beinhalten u.a. Vorschriften für eine vereinfachte Einstufung von Haushaltsabfällen, die gefährliche (Haushalts-)Güter enthalten, durch eine/n von der zuständigen Behörde anerkannte/n Sachverständige/n sowie für den Einsatz geeigneter Behälter und für die die Schulung der Fahrer/der Fahrerinnen. Haushaltsabfälle, die der oder die Sachverständige nicht einstufen kann, können in kleinen Mengen zu einer Behandlungsanlage transportiert werden, mit entsprechenden Angaben zu Paketen und Beförderungseinheiten.
+Inhalt der nationalen Rechtsvorschriften: Die Rechtsvorschriften beinhalten u. a. Vorschriften für eine vereinfachte Einstufung von Haushaltsabfällen, die gefährliche (Haushalts-)Güter enthalten, durch eine/n von der zuständigen Behörde anerkannte/n Sachverständige/n sowie für den Einsatz geeigneter Behälter und für die Schulung der Fahrer/der Fahrerinnen. Haushaltsabfälle, die der oder die Sachverständige nicht einstufen kann, können in kleinen Mengen zu einer Behandlungsanlage transportiert werden, mit entsprechenden Angaben zu Paketen und Beförderungseinheiten.
 
 Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.7 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
@@ -1046,7 +1046,7 @@ Die Vorschriften unter 1.3 und 8.2.3 finden weiter Anwendung.
 
 Ablauf der Geltungsdauer: 1. Januar 2023.
 
-### 2. Schienenverkehr
+\2. Schienenverkehr
 
 Ausnahmeregelungen für die Schweiz auf der Grundlage von Artikel 6 Absatz 2 Buchstabe a der Richtlinie 2008/68/EG:
 
@@ -1060,7 +1060,7 @@ Inhalt des Anhangs der Richtlinie: Vorschriften für den Bau von Tanks.
 
 Inhalt der nationalen Rechtsvorschriften: Tankcontainer, die nicht gemäss Abschnitt 6.8, jedoch im Einklang mit den nationalen Rechtsvorschriften gebaut sind und über einen Fassungsraum von höchstens 1210 l verfügen, mit denen Heizöl oder Dieselkraftstoff mit der UN-Nummer 1202 transportiert wird, sind zugelassen.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang der Verordnung des UVEK vom 3. Dezember 1996 über die Beförderung gefährlicher Güter mit der Eisenbahn und mit Seilbahnen (RSD, SR *742.401.6*) und Anhang 1 Kapitel 6.14 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang der Verordnung des UVEK vom 3. Dezember 1996 über die Beförderung gefährlicher Güter mit der Eisenbahn und mit Seilbahnen (RSD; SR *742.401.6*) und Anhang 1 Kapitel 6.14 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
 Ablauf der Geltungsdauer: 1. Januar 2023.
 
@@ -1074,11 +1074,11 @@ Inhalt des Anhangs der Richtlinie: Für das Beförderungsdokument vorgeschrieben
 
 Inhalt der nationalen Rechtsvorschriften: Es darf eine Sammelbezeichnung im Beförderungspapier verwendet werden, wenn diesem eine Liste mit den vorgeschriebenen Informationen (s. Bezugnahme oben) beigefügt wird.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang der Verordnung des UVEK vom 3. Dezember 1996 über die Beförderung gefährlicher Güter mit der Eisenbahn und mit Seilbahnen (RSD, SR *742.401.6*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang der Verordnung des UVEK vom 3. Dezember 1996 über die Beförderung gefährlicher Güter mit der Eisenbahn und mit Seilbahnen (RSD; SR *742.401.6*).
 
 Ablauf der Geltungsdauer: 1. Januar 2023.
 
-Richtlinie 2010/35/EU des Europäischen Parlaments und des Rates vom 16. Juni 2010 über ortsbewegliche Druckgeräte und zur Aufhebung der Richtlinien des Rates 76/ 767/EWG, 84/525/EWG, 84/526/EWG, 84/527/EWG und 1999/36/EG, ABl. L 165 vom 30.6.2010, S. 1.
+Richtlinie 2010/35/EU des Europäischen Parlaments und des Rates vom 16. Juni 2010 über ortsbewegliche Druckgeräte und zur Aufhebung der Richtlinien des Rates 76/767/EWG, 84/525/EWG, 84/526/EWG, 84/527/EWG und 1999/36/EG, ABl. L 165 vom 30.6.2010, S. 1.
 
 ### Abschnitt 4: Zugangs- und Transitrechte im Eisenbahnverkehr
 
@@ -1088,13 +1088,15 @@ Richtlinie 95/18/EG des Rates vom 19. Juni 1995 über die Erteilung von Genehmig
 
 Richtlinie 95/19/EG des Rates vom 19. Juni 1995 über die Zuweisung von Fahrwegkapazität der Eisenbahn und die Berechnung von Wegeentgelten, ABl. L 143 vom 27.6.1995, S. 75.
 
-Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazitäten der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung («Richtlinie über die Eisenbahnsicherheit»), ABl. L 164 vom 30.4.2004, S. 44; zuletzt geändert durch Richtlinie 2014/88/ EU der Kommission vom 9. Juli 2014, ABl. L 201 vom 10.7.2014, S. 9.
+Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG über die Zuweisung von Fahrwegkapazitäten der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung («Richtlinie über die Eisenbahnsicherheit»), ABl. L 164 vom 30.4.2004, S. 44; zuletzt geändert durch Richtlinie 2014/88/EU der Kommission vom 9. Juli 2014, ABl. L 201 vom 10.7.2014, S. 9.
 
-Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen, ABl. L 315 vom 3.12.2007, S. 51; zuletzt geändert durch Richtlinie (EU) 2016/882 der Kommission vom 1. Juni 2016, ABl. L 146 vom 3.6.2016, S. 22.[^annex1-lvlu1-sec4-1]
+Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Zertifizierung von Triebfahrzeugführern, die Lokomotiven und Züge im Eisenbahnsystem in der Gemeinschaft führen, Fassung gemäss ABl. L 315 vom 3.12.2007, S. 51; zuletzt geändert durch Verordnung (EU) 2019/554 der Kommission vom 5. April 2019, ABl. L 97 vom 8.4.2019, S. 1.
 
 Verordnung (EG) Nr. 653/2007 der Kommission vom 13. Juni 2007 zur Verwendung eines einheitlichen europäischen Formats für Sicherheitsbescheinigungen und Antragsunterlagen gemäss Artikel 10 der Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates und zur Gültigkeit von gemäss der Richtlinie 2001/14/EG ausgestellten Sicherheitsbescheinigungen, ABl. L 153 vom 14.6.2007, S. 9; geändert durch Verordnung (EU) Nr. 445/2011 der Kommission vom 10. Mai 2011, ABl. L 122 vom 11.5.2011, S. 22.
 
 Entscheidung 2007/756/EG der Kommission vom 9. November 2007 zur Annahme einer gemeinsamen Spezifikation für das nationale Einstellungsregister nach Artikel 14 Absätze 4 und 5 der Richtlinien 96/48/EG und 2001/16/EG, ABl. L 305 vom 23.11.2007, S. 30; geändert durch Beschluss 2011/107/EU der Kommission vom 10. Februar 2011, ABl. L 43 vom 17.2.2011, S. 33.
+
+Verordnung (EG) Nr. 1371/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr, ABl. L 315 vom 3.12.2007, S. 14.
 
 Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität des Eisenbahnsystems in der Gemeinschaft (Neufassung), ABl. L 191 vom 18.7.2008, S. 1; zuletzt geändert durch Richtlinie 2014/38/EU der Kommission vom 10. März 2014, ABl. L 70 vom 11.3.2014, S. 20.
 
@@ -1126,39 +1128,100 @@ Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 üb
 
 Verordnung (EU) Nr. 1299/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Infrastruktur» des Eisenbahnsystems in der Europäischen Union; ABl. L 356 vom 12.12.2014, S. 1; geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 108.
 
-Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; geändert durch Durchführungsverordnung (EU) 2019/772 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 1; in der Schweiz gilt die folgende nationale Vorschrift nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
+Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderungen und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; geändert durch Durchführungsverordnung (EU) 2019/772 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 1.
 
-- – CH-TSI PRM-001 (Version 2.0, November 2020): Autonomer Zugang in die Fahrzeuge (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1300/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen).
+In der Schweiz gilt die folgende nationale Vorschrift nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
+
+- – CH-TSI PRM-001 (Version 2.0, Juni 2021): Autonomer Zugang in die Fahrzeuge.
 
 Verordnung (EU) Nr. 1301/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Energie» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 179; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 108.
 
-Verordnung (EU) Nr. 1302/2014 der Kommission vom 18. November 2014 über eine technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge –Lokomotiven und Personenwagen» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 228; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 108; in der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
+In der Schweiz gelten die folgenden Sonderfälle nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
+
+- – Permanenter Sonderfall CH-TSI ENE-001: Stromabnehmerbegrenzungslinie, referenzierter Artikel der TSI 4.2.10 (2)
+-
+
+  Für alle neuen, aktualisierten oder erneuerten Teilsysteme «Energie» im interoperablen Netz der Schweiz ist die Stromabnehmerbegrenzungslinie gemäss den Ausführungsbestimmungen zur Eisenbahnverordnung vom 15. Dezember 1983 (AB-EBV; SR *742.141.11*), Ausgabe 1.11.2020, zu Art. 18, Normalspur, AB 18, Bilder, Bild 12, und zu Art. 18/47, AB 18.2/47.2 Bezugslinie, Ziff. 14, wie folgt spezifiziert:
+
+  - – EBV S1: maximale Wippenbreite 1450 mm mit isolierenden Endhörnern
+  - – EBV S2: maximale Wippenbreite 1450 mm oder 1600 mm mit isolierenden Endhörnern
+  - – EBV S3: maximale Wippenbreite 1600 mm
+  - – EBV S4: maximale Wippenbreite 1950 mm
+
+- Bemerkung: Für das Befahren bestehender Strecken müssen die elektrischen Einheiten (Rollmaterial) mit einem Stromabnehmer mit einer Wippenbreite von 1450 mm (mit isolierenden Endhörnern) gemäss Abbildung B.1 der Norm EN 50367:2020 ausgestattet sein.
+- – Permanenter Sonderfall CH-TSI ENE-002 Nachweis für die mittlere nutzbare Spannung, referenzierter Artikel der TSI 6.2.4.1
+-
+
+  Statt anhand der mittleren nutzbaren Spannung gemäss EN 50388:xxxx Abschnitt 15.4 kann die Leistungsfähigkeit der Bahnenergieversorgung auch wie folgt bewertet werden:
+
+  - –
+
+    Durch Vergleich mit einem Referenzfall, in dem die Energieversorgungslösung für einen Zugbetrieb mit ähnlichem oder noch höherem Leistungsbedarf verwendet wird. In dem Referenzfall müssen folgende Werte vergleichbar gross oder grösser sein:
+
+    - – der Abstand zur spannungsüberwachten Sammelschiene (Umformerwerk) und
+    - – die Impedanz der Oberleitung;
+
+  - – in einfachen Fällen durch grobe Schätzung von U<sub>mittel/nutzbar</sub>, die höhere zusätzliche Kapazitäten für einen künftigen Verkehrsbedarf ermöglicht.
+
+Verordnung (EU) Nr. 1302/2014 der Kommission vom 18. November 2014 über eine technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge – Lokomotiven und Personenwagen» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 228; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 108.
+
+In der Schweiz gelten die folgenden nationalen Sonderfälle nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
+
+- – Permanenter Sonderfall CH-TSI LOC&PAS-004: Gleisverschiebekraft, referenzierter Artikel der TSI 4.2.3.4
+- Die maximal zulässige Gleisverschiebekraft (Summe der Führungskräfte) von Fahrzeugen je Radsatz ist infrastrukturseitig durch den zulässigen Gleisverschiebewiderstand begrenzt. Aufgrund der Auslegung des Gleisoberbaus ist in der Schweiz ein Koeffizient von α = k1 = 0,85 als Regelwert für die generelle Anwendung zur Berechnung der maximal zulässigen Gleisverschiebekraft anzuwenden.
+- Ein Koeffizient von α = k1 = 1,0 kann nur in Ausnahmefällen angewendet werden und erfordert besondere Abklärungen.
+- Lauftechnische Versuche sind auf Basis von α = k1 = 0,85 durchzuführen.
+- – Permanenter Sonderfall CH-TSI LOC&PAS-005: Überhöhungsfehlbetrag, referenzierte Artikel der TSI LOC&PAS Ziffer 4.2.3.4.2 und TSI WAG 4.2.3.5
+- Die zulässige Geschwindigkeit auf dem Schweizer Schienennetz wird auf der Grundlage eines Überhöhungsfehlbetrags von 130 mm (Güterzüge) resp. 150 mm (Personenzüge) festgelegt. Diese Fehlbeträge werden ohne weitere Prüfung toleriert. Zur Gewährleistung des sicheren Betriebs ist es somit zwingend notwendig, dass die Fahrzeuge für solche Überhöhungsfehlbeträge geprüft werden.
+- Fahrzeuge, die nicht für solche Überhöhungsfehlbeträge geprüft sind, können auf dem Schweizer Schienennetz nicht verkehren.
+- – Permanenter Sonderfall CH-TSI LOC&PAS-017: Lichtraumprofil allgemein, referenzierter Artikel der TSI LOC&PAS Ziffer 4.2.3.1
+-
+
+  Die Kompatibilität der EBV-Begrenzungslinien mit den internationalen Begrenzungslinien der EN 15273-1:2013 ist wie folgt:
+
+  - – Begrenzungslinie G1: Befahrbarkeit ohne Einschränkungen.
+  - – Begrenzungslinie GA: Eingeschränkte Befahrbarkeit innerhalb der Begrenzungslinie EBV O1. Die zur Berechnung der kinematischen Fahrzeugbegrenzungslinie (obere Bereiche) anzuwendende Gleichung entspricht, ungeachtet der Höhe h, derjenigen von G1. Die Anwendung der Ausnahmen für Höhen h oberhalb von 3,250 m, wie in der EN 15273-2, Anhang B, B.3.3.1, B.3.4.1, B.3.5.1 und B.3.6.1 dargestellt, ist in der Schweiz nicht zugelassen. Die betriebliche Beförderung von Standardladungen gemäss UIC-Merkblatt 506, Anhang B, Abschnitt B.1.1 für die Begrenzungslinie GA ist innerhalb der Begrenzungslinie EBV O1 zugelassen.
+  - – Begrenzungslinie GB: Eingeschränkte Befahrbarkeit innerhalb der Begrenzungslinie EBV O2. Die zur Berechnung der kinematischen Fahrzeugbegrenzungslinie (obere Bereiche) anzuwendende Gleichung entspricht, ungeachtet der Höhe h, derjenigen von G1. Die Anwendung der Ausnahmen für Höhen h oberhalb von 3,250 m, wie in der EN 15273-2, Anhang B, B.3.3.1, B.3.4.1, B.3.5.1 und B.3.6.1 dargestellt, ist in der Schweiz nicht zugelassen. Die betriebliche Beförderung von Standardladungen gemäss UIC-Merkblatt 506, Anhang B, Abschnitt B.1.1 für die Begrenzungslinie GB ist innerhalb der Begrenzungslinie EBV O2 zugelassen.
+  - – Begrenzungslinie GC: Befahrbarkeit ohne Einschränkung innerhalb der Begrenzungslinie EBV O4.
+
+- In Abhängigkeit von den kinematischen Bezugslinien und den zugehörigen Rechenregeln wird die infrastrukturseitige Begrenzungslinie (obere Bereiche) für alle Arten von Begrenzungslinien (z. B. EBV O1, EBV O2, EBV O4) nach EN 15273-1:2013, Anhang C, C.2.1., Tabelle C1 (beziehungsweise Anhang C, C.2.3, Tabelle 4) berechnet. Die Anwendung der Gleichungen nach EN 15273-3:2013, Anhang C, Tabellen C.2 und C.3 (für Höhen oberhalb 3,250 m) ist in der Schweiz nicht zugelassen.
+- – Permanenter Sonderfall CH-TSI LOC&PAS-028: Lichtraumprofil, Türbereich, referenzierter Artikel der TSI LOC&PAS Ziffer 4.2.3.1
+- Einstiegstüren, welche die Bedingungen des UIC-Merkblattes 560, Ziffern 1.1.4 bis 1.1.4.3 ausnützen, sind zulässig. Grundsätzlich sind die folgenden Punkte anwendbar:
+-
+
+  Die Kompatibilität der EBV-Begrenzungslinien mit den internationalen Begrenzungslinien der EN 15273-1:2013 ist wie folgt:
+
+  - – Begrenzungslinie G1: Befahrbarkeit ohne Einschränkungen.
+  - – Begrenzungslinie GA: Eingeschränkte Befahrbarkeit innerhalb der Begrenzungslinie EBV O1. Die zur Berechnung der kinematischen Fahrzeugbegrenzungslinie (obere Bereiche) anzuwendende Gleichung entspricht, ungeachtet der Höhe h, derjenigen von G1. Die Anwendung der Ausnahmen für Höhen h oberhalb von 3,250 m, wie in der EN 15273-2, Anhang B, B.3.3.1, B.3.4.1, B.3.5.1 und B.3.6.1 dargestellt, ist in der Schweiz nicht zugelassen. Die betriebliche Beförderung von Standardladungen gemäss UIC-Merkblatt 506, Anhang B, Abschnitt B.1.1 für die Begrenzungslinie GA ist innerhalb der Begrenzungslinie EBV O1 zugelassen.
+  - – Begrenzungslinie GB: Eingeschränkte Befahrbarkeit innerhalb der Begrenzungslinie EBV O2. Die zur Berechnung der kinematischen Fahrzeugbegrenzungslinie (obere Bereiche) anzuwendende Gleichung entspricht, ungeachtet der Höhe h, derjenigen von G1. Die Anwendung der Ausnahmen für Höhen h oberhalb von 3,250 m, wie in der EN 15273-2, Anhang B, B.3.3.1, B.3.4.1, B.3.5.1 und B.3.6.1 dargestellt, ist in der Schweiz nicht zugelassen. Die betriebliche Beförderung von Standardladungen gemäss UIC-Merkblatt 506, Anhang B, Abschnitt B.1.1 für die Begrenzungslinie GB ist innerhalb der Begrenzungslinie EBV O2 zugelassen.
+  - – Begrenzungslinie GC: Befahrbarkeit ohne Einschränkung innerhalb der Begrenzungslinie EBV O4.
+
+- In Abhängigkeit von den kinematischen Bezugslinien und den zugehörigen Rechenregeln wird die infrastrukturseitige Begrenzungslinie (obere Bereiche) für alle Arten von Begrenzungslinien (z. B. EBV O1, EBV O2, EBV O4) nach EN 15273-1:2013, Anhang C, C.2.1., Tabelle C1 (beziehungsweise Anhang C, C.2.3, Tabelle 4) berechnet. Die Anwendung der Gleichungen nach EN 15273-3:2013, Anhang C, Tabellen C.2 und C.3 (für Höhen oberhalb 3,250 m) ist in der Schweiz nicht zugelassen.
+
+In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
 - – CH-TSI LOC&PAS-001 (Version 1.0, Juni 2015): Stromabnehmer Wippenbreite;
-- – CH-TSI LOC&PAS-002 (Version 1.0, Juli 2016): Enge Weichenstrasse / Nachweise Weichenfahrten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-003 (Version 1.0, Juli 2016): Enge Radien r &lt; 250 m (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/ 2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-004 (Version 1.0, Juli 2016): Gleisverschiebekraft (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS 005 (Version 1.0, Juli 2016): Überhöhungsfehlbetrag (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/ 2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-006 (Version 1.0, Juli 2016): Zulassung von Fahrzeugen mit Neigeeinrichtung nach Reihe N (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-007 (Version 1.0, Juni 2015): Spurkranzschmierung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/ 2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-009 (Version 1.0, Juni 2015): Abgasemissionen thermischer Fahrzeuge (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 2016/1628 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-011 (Version 1.0, Juli 2016): Traktionsleistungsbegrenzung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-002 (Version 2.0, Juni 2021): Enge Weichenstrasse / Nachweise Weichenfahrten;
+- – CH-TSI LOC&PAS-003 (Version 2.0, Juni 2021): Enge Radien r &lt; 250 m;
+- – CH-TSI LOC&PAS-006 (Version 2.0, Juni 2021): Zulassung von Fahrzeugen mit Neigeeinrichtung nach Reihe N;
+- – CH-TSI LOC&PAS-007 (Version 2.0, Juni 2021): Spurkranzschmierung;
+- – CH-TSI LOC&PAS-009 (Version 1.0, Juni 2015): Abgasemissionen thermischer Fahrzeuge (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 2016/1628 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-011 (Version 2.0, Juni 2021): Traktionsleistungsbegrenzung;
 - – CH-TSI LOC&PAS-012 (Version 1.0, Juli 2016): Admittanz;
-- – CH-TSI LOC&PAS 013 (Version 1.0, Juli 2016): Stromabnehmer /Fahrleitung-Interaktion;
-- – CH-TSI LOC&PAS-014 (Version 1.0, Juli 2016): Kompatibilität mit Gleisfreimeldeeinrichtungen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-017 (Version 1.0, Juli 2016): Lichtraumprofil allgemein (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/ 2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-019 (Version 2.0, Juni 2019): Das «non leading input signal» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-020 (Version 2.0, Juni 2019): Das «sleeping input signal» bei Vielfachsteuerung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-022 (Version 2.1, November 2020): Rückstellung der Zwangsbremse (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-025 (Version 2.0, Juni 2019): Gehemmte Bedienbarkeit zum Abtrennen der ETCS-Fahrzeugausrüstung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-026 (Version 2.0, Juni 2019): Verbot von SIGNUM/ ZUB auf Fahrzeugen mit ERTMS/ETCS Baseline 3;
-- – CH-TSI LOC&PAS-027 (Version 2.0, Juni 2019): Manuelle Funkfernsteuerung im Rangierbetrieb (Betriebsart «Shunting») (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-028 (Version 1.0, Juli 2016): Lichtraumprofil, Türbereich (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-030 (Version 1.0, Juli 2016): Einsatz haftreibungsfreier Bremssysteme (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-031 (Version 2.1, November 2020): Sichere Traktionsabschaltung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-035 (Version 2.1, November 2020): Ausreichende Bremsleistung bei Zwangsbremsung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-036 (Version 2.0, Juni 2019): Fahrzeuge mit einem Führerpult für beide Fahrrichtungen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI LOC&PAS-037 (Version 1.0, Juni 2019): ETCS Service Brake (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen).
+- – CH-TSI LOC&PAS-013 (Version 1.0, Juli 2016): Stromabnehmer/Fahrleitung-Interaktion;
+- – CH-TSI LOC&PAS-014*a* (Version 2.0, Juni 2021): Kompatibilität der Fahrzeugmerkmale mit Zugortungsanlagen/Gleisfreimeldeeinrichtungen auf der Basis von Gleisstromkreisen;
+- – CH-TSI LOC&PAS-014*b* (Version 2.0, Juni 2021): Kompatibilität der Fahrzeugmerkmale mit Zugortungsanlagen/Gleisfreimeldeeinrichtungen auf der Basis von Achszählern;
+- – CH-TSI LOC&PAS-019 (Version 2.0, Juni 2019): Das «non leading input signal» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-020 (Version 2.0, Juni 2019): Das «sleeping input signal» bei Vielfachsteuerung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-022 (Version 2.1, Juni 2021): Rückstellung der Zwangsbremse;
+- – CH-TSI LOC&PAS-025 (Version 2.0, Juni 2019): Gehemmte Bedienbarkeit zum Abtrennen der ETCS-Fahrzeugausrüstung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-026 (Version 2.0, Juni 2019): Verbot von SIGNUM/ZUB auf Fahrzeugen mit ERTMS/ETCS Baseline 3;
+- – CH-TSI LOC&PAS-027 (Version 2.0, Juni 2019): Manuelle Funkfernsteuerung im Rangierbetrieb (Betriebsart «Shunting») (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-030 (Version 2.0, Juni 2021): Einsatz haftreibungsfreier Bremssysteme;
+- – CH-TSI LOC&PAS-031 (Version 2.1, November 2020): Sichere Traktionsabschaltung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-035 (Version 2.1, November 2020): Ausreichende Bremsleistung bei Zwangsbremsung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-036 (Version 2.0, Juni 2019): Fahrzeuge mit einem Führerpult für beide Fahrrichtungen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI LOC&PAS-037 (Version 1.0, Juni 2019): ETCS Service Brake (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen).
 
 Verordnung (EU) Nr. 1303/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität bezüglich der «Sicherheit in Eisenbahntunneln» im Eisenbahnsystem der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 394; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 108.
 
@@ -1174,32 +1237,30 @@ Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 
 
 Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit, ABl. L 138 vom 26.5.2016, S. 102; nur die folgenden Bestimmungen finden in der Schweiz Anwendung: Artikel 9, Artikel 10 (ohne Abs. 7), Artikel 13, Artikel 14 und Artikel 17 sowie Anhang III.
 
-Verordnung (EU) 2016/919 der Kommission vom 27. Mai 2016 über die technische Spezifikation für die Interoperabilität der Teilsysteme «Zugsteuerung, Zugsicherung und Signalgebung» des Eisenbahnsystems in der Europäischen Union, ABl. L 158 vom 15.6.2016, S. 1; geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 108; in der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
+Verordnung (EU) 2016/919 der Kommission vom 27. Mai 2016 über die technische Spezifikation für die Interoperabilität der Teilsysteme «Zugsteuerung, Zugsicherung und Signalgebung» des Eisenbahnsystems in der Europäischen Union, ABl. L 158 vom 15.6.2016, S. 1; geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 108.
 
-- – CH-TSI CCS-003 (Version 2.0, Juni 2019): Aktivierung / Deaktivierung der Weiterleitung des Pakets 44 an SIGNUM/ZUB;
-- – CH-TSI CCS-005 (Version 2.0, Juni 2019): Nachweis der Quality of Service für den GSM-R Datenfunk (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI CCS-006 (Version 2.1, November 2020): Verlust «non leading permitted» in der Betriebsart «Non Leading» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
+In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
+
+- – CH-TSI CCS-003 (Version 2.0, Juni 2019): Aktivierung/Deaktivierung der Weiterleitung des Pakets 44 an SIGNUM/ZUB;
+- – CH-TSI CCS-006 (Version 2.1, November 2020): Verlust «non leading permitted» in der Betriebsart «Non Leading» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
 - – CH-TSI CCS-007 (Version 3.0, November 2020): Bremskurvenvorgabe für ERTMS/ETCS Baseline 2;
-- – CH-TSI CCS-008 (Version 3.0, November 2020): Minimal implementierte Change Requests (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
+- – CH-TSI CCS-008 (Version 3.0, Juni 2021): Minimal implementierte Change Requests;
 - – CH-TSI CCS-011 (Version 2.0, Juni 2019): Euroloop-Funktionalität;
 - – CH-TSI CCS-015 (Version 2.0, Juni 2019): Gleichzeitiges Beherrschen von zwei GSM-R-Datenkanälen;
-- – CH-TSI CCS-016 (Version 3.0, November 2020): Verwendung länderspezifischer Projektierung und Funktionen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
+- – CH-TSI CCS-016 (Version 3.0, Juni 2021): Verwendung länderspezifischer Projektierung und Funktionen;
 - – CH-TSI CCS-018 (Version 2.0, Juni 2019): Verbot von Level STM/NTC für SIGNUM/ZUB;
-- – CH-TSI CCS-019 (Version 3.0, November 2020): Übernahme und Anzeige von Zugdaten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
+- – CH-TSI CCS-019 (Version 3.0, November 2020): Übernahme und Anzeige von Zugdaten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
 - – CH-TSI CCS-022 (Version 2.0, Juni 2019): Rückwärtsfahren in der Betriebsart «Unfitted»;
 - – CH-TSI CCS-023 (Version 2.0, Juni 2019): Anzeige von Textmeldungen;
-- – CH-TSI CCS-024 (Version 2.0, Juni 2019): Zugdaten: NC\_TRAIN, M\_AXLELOAD, V\_MAXTRAIN;
-- – CH-TSI CCS-026 (Version 2.1, November 2020): Online-Monitoring der Streckenausrüstung auf Fahrzeugen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI CCS-032 (Version 2.1, November 2020): Einmalige Zugnummerneingabe für die ETCS-Fahrzeugausrüstung und das GSM-R-CabRadio (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI CCS-033 (Version 1.1, November 2020): GSM-R Voice Funktionalitäten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
+- – CH-TSI CCS-024 (Version 3.0, Juni 2021): Zugdaten: NC\_TRAIN, M\_AXLELOAD, V\_MAXTRAIN;
+- – CH-TSI CCS-026 (Version 2.1, November 2020): Online-Monitoring der Streckenausrüstung auf Fahrzeugen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI CCS-032 (Version 2.1, November 2020): Einmalige Zugnummerneingabe für die ETCS-Fahrzeugausrüstung und das GSM-R-CabRadio (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-TSI CCS-033 (Version 1.1, November 2020): GSM-R Voice Funktionalitäten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
 - – CH-TSI CCS-034 (Version 1.0, Juni 2019): Betriebsart «Non Leading»;
-- – CH-TSI CCS-035 (Version 1.0, Juni 2019): Am DMI anzuzeigende Texte (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI CCS-036 (Version 2.0, November 2020): GSM-R Störfestigkeit (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI CCS-037 (Version 1.1, November 2020): SIL2 DMI (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-TSI CCS-038 (Version 1.1, November 2020): Offenbarung bei grosser Aufweitung des Odometrie-Vertrauensintervalls (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-CSM-RA-001 (Version 1.0, Juni 2019): Sicherheitsnachweiskonzept für die Erlangung einer ETCS-Zulassung in der Schweiz (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-CSM-RA-002 (Version 1.0, Juni 2019): Anforderungen bei Geschwindigkeiten grösser 200 km/h (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen);
-- – CH-CSM-RA-003 (Version 1.0, Juni 2019): Qualität der Zugdaten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 30. Juni 2021 zu überprüfen).
+- – CH-TSI CCS-035 (Version 1.0, Juni 2019): Am DMI anzuzeigende Texte *(Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist;* sie ist vor dem 31. Dezember 2021 zu überprüfen*)*;
+- – CH-TSI CCS-038 (Version 1.1, November 2020): Offenbarung bei grosser Aufweitung des Odometrie-Vertrauensintervalls (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-CSM-RA-001 (Version 1.0, Juni 2019): Sicherheitsnachweiskonzept für die Erlangung einer ETCS-Zulassung in der Schweiz (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen);
+- – CH-CSM-RA-002 (Version 1.0, Juni 2019): Anforderungen bei Geschwindigkeiten grösser 200 km/h (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2021 zu überprüfen).
 
 Durchführungsverordnung (EU) 2018/545 der Kommission vom 4. April 2018 über die praktischen Modalitäten für die Genehmigung für das Inverkehrbringen von Schienenfahrzeugen und die Genehmigung von Schienenfahrzeugtypen gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, ABl. L 90 vom 6.4.2018, S. 66.
 
@@ -1207,11 +1268,13 @@ Delegierte Verordnung (EU) 2018/761 der Kommission vom 16. Februar 2018 über ge
 
 Delegierte Verordnung (EU) 2018/762 der Kommission vom 8. März 2018 über gemeinsame Sicherheitsmethoden in Bezug auf die Anforderungen für Sicherheitsmanagementsysteme gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EU) Nr. 1158/2010 und (EU) Nr. 1169/2010, ABl. L 129 vom 25.5.2018, S. 26.
 
-Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/ 2007 der Kommission, ABl. L 129 vom 25.5.2018, S. 49.
+Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission, ABl. L 129 vom 25.5.2018, S. 49.
 
 Durchführungsverordnung (EU) 2019/250 der Kommission vom 12. Februar 2019 über die Muster der EG-Erklärungen und -Bescheinigungen für Eisenbahn-Interoperabilitätskomponenten und -Teilsysteme, das Muster der Typenkonformitätserklärung für Schienenfahrzeuge und über die EG-Prüfverfahren für Teilsysteme gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EU) Nr. 201/2011 der Kommission, ABl. L 42 vom 13.2.2019, S. 9.
 
-Durchführungsverordnung (EU) 2019/773 der Kommission vom 16. Mai 2019 über die technische Spezifikation für die Interoperabilität des Teilsystems «Verkehrsbetrieb und Verkehrssteuerung» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung des Beschlusses 2012/757/EU, ABl. L 139 I vom 27.5.2019, S. 5; in der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
+Durchführungsverordnung (EU) 2019/773 der Kommission vom 16. Mai 2019 über die technische Spezifikation für die Interoperabilität des Teilsystems «Verkehrsbetrieb und Verkehrssteuerung» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung des Beschlusses 2012/757/EU, ABl. L 139 I vom 27.5.2019, S. 5.
+
+In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
 - – CH-TSI OPE-006 (Version 1.0, Juli 2020): Eisenbahnbetriebsprozesse: Kommunikationsbegrifflichkeiten;
 - – CH-TSI OPE-007 (Version 1.0, Juli 2020): Eisenbahnbetriebsprozesse, ohne Grundlagen in der TSI OPE;
@@ -1221,8 +1284,6 @@ Durchführungsverordnung (EU) 2019/777 der Kommission vom 16. Mai 2019 zu gemein
 
 Empfehlung (EU) 2019/780 der Kommission vom 16. Mai 2019 über praktische Festlegungen für die Ausstellung von Sicherheitsgenehmigungen für Infrastrukturbetreiber, ABl. L 139 I vom 27.5.2019, S. 390.
 
-[^annex1-lvlu1-sec4-1]: Für die Zwecke der Richtlinie 2007/59/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2007 werden gemäss Artikel 4 Absatz 1 Buchstaben a und b dieser Richtlinie ausgestellte Fahrerlaubnisse und Zusatzbescheinigungen für Triebfahrzeugführer wechselseitig anerkannt. Auf der Grundlage von Artikel 22 Absatz 1 der Richtlinie 2007/59/EG führen die Schweizerische Eidgenossenschaft und die Mitgliedstaaten der Europäischen Union Register der Fahrerlaubnisse und erteilen auf begründete Anfrage Auskunft über deren Status. Auf begründete Anfrage werden diese Informationen auch jedem Arbeitgeber von Triebfahrzeugführern zur Verfügung gestellt (Art. 2 und 3 des Beschlusses Nr. 2/2016 vom 10. Juni 2016 des Gemischten Ausschusses, [AS 2016 2373](https://fedlex.data.admin.ch/eli/oc/2016/386)).
-
 ### Abschnitt 5: Sonstige Bereiche
 
 Richtlinie 92/82/EWG des Rates vom 19. Oktober 1992 zur Annäherung der Verbrauchsteuersätze für Mineralöle, ABl. L 316 vom 31.10.1992, S. 19.
@@ -1230,6 +1291,8 @@ Richtlinie 92/82/EWG des Rates vom 19. Oktober 1992 zur Annäherung der Verbrauc
 Richtlinie 2004/54/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über Mindestanforderungen an die Sicherheit von Tunneln im transeuropäischen Strassennetz, ABl. L 167 vom 30.4.2004, S. 39.
 
 Richtlinie 2008/96/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über ein Sicherheitsmanagement für die Strassenverkehrsinfrastruktur, ABl. L 319, 29.11.2008, S. 59.
+
+Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004, ABl. L 55 vom 28.2.2011, S. 1.
 
 Anhang 2
 

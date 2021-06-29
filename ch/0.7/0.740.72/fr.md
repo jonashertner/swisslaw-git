@@ -3,16 +3,16 @@ sr: "0.740.72"
 title: Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route (avec annexes et acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: fr
-version: 2020-12-11
+version: 2021-06-30
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20201211/fr/xml/fedlex-data-admin-ch-eli-cc-2002-257-20201211-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20201211/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20210630/fr/xml/fedlex-data-admin-ch-eli-cc-2002-257-20210630-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20210630/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route
+# Accord entre la Confédération suisse et la Communauté européenne**** sur le transport de marchandises et de voyageurs par rail et par route
 
 RO **2002** 1649; FF **1999** 5440[^t-1]
 
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 16 octobre 2000
 
 Entré en vigueur le 1<sup>er</sup> juin 2002
 
-(Etat le 11 décembre 2020)
+(Etat le 30 juin 2021)
 
 [^t-1]: Actuellement: Union européenne.
 [^t-2]: Art. 1 al. 1 let. f de l’AF du 8 oct. 1999 ([RO 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
@@ -845,7 +845,7 @@ Annexe 1*[^t-3]*
 
 ## Dispositions applicables
 
-[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2020 du Comité des transports terrestres Communauté/Suisse du 11 décembre 2020, en vigueur pour la Suisse depuis le 11 déc. 2020 ([RO 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
+[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2021 du Comité des transports terrestres Communauté/Suisse du 30 juin 2021, en vigueur pour la Suisse depuis le 30 juin 2021 ([RO 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)).
 
 Conformément à l’art. 52, par. 6, du présent Accord, la Suisse applique des dispositions légales équivalentes aux dispositions mentionnées ci-dessous:
 
@@ -867,7 +867,7 @@ Aux fins du présent Accord:
 
 Règlement (CE) n<sup>o</sup> 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l’accès au marché international des services de transport par autocar et autobus, et modifiant le règlement (CE) n<sup>o</sup> 561/2006 (JO L 300 du 14.11.2009, p. 88), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 517/2013 du Conseil du 13 mai 2013 (JO L 158 du 10.6.2013, p. 1).
 
-Aux fins du présent Accord, les dispositions du chap. V du règlement (CE) n<sup>o</sup> 1073/ 2009 (relatives au cabotage) ne s’appliquent pas.
+Aux fins du présent Accord, les dispositions du chap. V du règlement (CE) n<sup>o</sup> 1073/2009 (relatives au cabotage) ne s’appliquent pas.
 
 Décision 2009/992/UE de la Commission du 17 décembre 2009 concernant les exigences minimales relatives aux données qui doivent figurer dans le registre électronique national des entreprises de transport routier (JO L 339 du 22.12.2009, p. 36).
 
@@ -919,7 +919,7 @@ Directive 2000/30/CE du Parlement européen et du Conseil du 6 juin 2000 relativ
 
 Directive 2005/55/CEE du Parlement européen et du Conseil du 28 septembre 2005 concernant le rapprochement des législations des États membres relatives aux mesures à prendre contre les émissions de gaz polluants et de particules polluantes provenant des moteurs à allumage par compression destinés à la propulsion des véhicules et les émissions de gaz polluants provenant des moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié et destinés à la propulsion des véhicules (JO L 275 du 20.10.2005, p. 1), modifiée en dernier lieu par la directive 2008/74/CE de la Commission du 18 juillet 2008 (JO L 192 du 19.7.2008, p. 51).
 
-Règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) et à l’accès aux informations sur la réparation et l’entretien des véhicules, et modifiant le règlement (CE) n<sup>o</sup> 715/2007 et la directive 2007/46/CE, et abrogeant les directives 80/1269/CEE, 2005/55/CE et 2005/ 78/CE (JO L 188 du 18.7.2009, p. 1), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 133/2014 de la Commission du 31 janvier 2014 (JO L 47 du 18.2.2014, p. 1).
+Règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil du 18 juin 2009 relatif à la réception des véhicules à moteur et des moteurs au regard des émissions des véhicules utilitaires lourds (Euro VI) et à l’accès aux informations sur la réparation et l’entretien des véhicules, et modifiant le règlement (CE) n<sup>o</sup> 715/2007 et la directive 2007/46/CE, et abrogeant les directives 80/1269/CEE, 2005/55/CE et 2005/78/CE (JO L 188 du 18.7.2009, p. 1), modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 133/2014 de la Commission du 31 janvier 2014 (JO L 47 du 18.2.2014, p. 1).
 
 Règlement (CE) n<sup>o</sup> 661/2009 du Parlement européen et du Conseil du 13 juillet 2009 concernant les prescriptions pour l’homologation relatives à la sécurité générale des véhicules à moteur, de leurs remorques et des systèmes, composants et entités techniques distinctes qui leur sont destinés (JO L 200 du 31.7.2009, p. 1), modifié en dernier lieu par le règlement (UE) 2016/1004 de la Commission du 22 juin 2016 (JO L 165 du 23.6.2016, p. 1).
 
@@ -931,15 +931,15 @@ Règlement (UE) n<sup>o</sup> 540/2014 du Parlement européen et du Conseil du 1
 
 Transport de marchandises dangereuses
 
-Directive 95/50/CEE du Conseil du 6 octobre 1995 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (JO L 249 du 17.10.1995, p. 35), modifiée en dernier lieu par la directive 2008/54/CE du Parlement européen et du Conseil du 17 juin 2008 (JO L 162 du 21.6.2002, p. 11).
+Directive 95/50/CEE du Conseil du 6 octobre 1995 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (JO L 249 du 17.10.1995, p. 35), modifiée en dernier lieu par la directive 2008/54/CE du Parlement européen et du Conseil du 17 juin 2008 (JO L 162 du 21.6.2008, p. 11).
 
-Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses (JO L 260 du 30.9.2008, p. 13), modifiée en dernier lieu par la directive (UE) 2018/1846 de la Commission du 23 novembre 2018 (JO L 299 du 26.11.2018, p. 58).
+Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses (JO L 260 du 30.9.2008, p. 13), modifiée en dernier lieu par la directive déléguée (UE) 2020/1833 de la Commission du 2 octobre 2020 (JO L 408 du 4.12.2020, p. 1).
 
 Aux fins du présent Accord, les dérogations suivantes à la directive 2008/68/CE s’appliquent en Suisse:
 
 \1. Transport routier
 
-Dérogations pour la Suisse fondées sur l’art. 6, par. 2, point a), de la directive 2008/ 68/CE:
+Dérogations pour la Suisse fondées sur l’art. 6, par. 2, point a), de la directive 2008/68/CE:
 
 RO-a-CH-1
 
@@ -1079,11 +1079,13 @@ Directive 95/19/CE du Conseil du 19 juin 1995 concernant la répartition des cap
 
 Directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la sécurité des chemins de fer communautaires et modifiant la directive 95/18/CE du Conseil concernant les licences des entreprises ferroviaires, ainsi que la directive 2001/14/CE concernant la répartition des capacités d’infrastructure ferroviaire, la tarification de l’infrastructure ferroviaire et la certification en matière de sécurité (directive sur la sécurité ferroviaire) (JO L 164 du 30.4.2004, p. 44), modifiée en dernier lieu par la directive 2014/88/UE de la Commission du 9 juillet 2014 (JO L 201 du 10.7.2014, p. 9).
 
-Directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007 relative à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le système ferroviaire dans la Communauté (JO L 315 du 3.12.2007, p. 51), modifiée en dernier lieu par la directive (UE) 2016/882 de la Commission du 1<sup>er</sup> juin 2016 (JO L 146 du 3.6.2016, p. 22)[^annex1-lvlu1-sec4-1].
+Directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007 relative à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le système ferroviaire dans la Communauté (JO L 315 du 3.12.2007, p. 51), modifiée en dernier lieu par le règlement (UE) 2019/554 de la Commission du 5 avril 2019 (JO L 97 du 8.4.2019, p. 1).
 
 Règlement (CE) n<sup>o</sup> 653/2007 de la Commission du 13 juin 2007 sur l’utilisation d’un format européen commun pour les certificats de sécurité et pour les documents de demande, conformément à l’art. 10 de la directive 2004/49/CE du Parlement européen et du Conseil, et sur la validité des certificats de sécurité délivrés en vertu de la directive 2001/14/CE du Parlement européen et du Conseil (JO L 153 du 14.6.2007, p. 9), modifié par le règlement (UE) n<sup>o</sup> 445/2011 de la Commission du 10 mai 2011 (JO L 122 du 11.5.2011, p. 22).
 
 Décision 2007/756/CE de la Commission du 9 novembre 2007 adoptant une spécification commune du registre national des véhicules prévu aux art. 14, par. 4 et 5, des directives 96/48/CE et 2001/16/CE (JO L 305 du 23.11.2007, p. 30), modifiée par la décision 2011/107/UE de la Commission du 10 février 2011 (JO L 43 du 17.2.2011, p. 33).
+
+Règlement (CE) n<sup>o</sup> 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires (JO L 315 du 3.12.2007, p. 14).
 
 Directive 2008/57/CE du Parlement européen et du Conseil du 17 juin 2008 relative à l’interopérabilité du système ferroviaire au sein de la Communauté (refonte) (JO L 191 du 18.7.2008, p. 1), modifiée en dernier lieu par la directive 2014/38/UE de la Commission du 10 mars 2014 (JO L 70 du 11.3.2014, p. 20).
 
@@ -1115,43 +1117,104 @@ Règlement d’exécution (UE) n<sup>o</sup> 402/2013 de la Commission du 30 avr
 
 Règlement (UE) n<sup>o</sup> 1299/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système «Infrastructure» du système ferroviaire dans l’Union européenne (JO L 356 du 12.12.2014, p. 1), modifié par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
-Règlement (UE) n<sup>o</sup> 1300/2014 de la Commission du 18 novembre 2014 sur les spécifications techniques d’interopérabilité relatives à l’accessibilité du système ferroviaire de l’Union pour les personnes handicapées et les personnes à mobilité réduite (JO L 356 du 12.12.2014, p. 110); modifié par le règlement d’exécution (UE) 2019/772 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 1); la règle nationale suivante visée à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’applique en Suisse:
+Règlement (UE) n<sup>o</sup> 1300/2014 de la Commission du 18 novembre 2014 sur les spécifications techniques d’interopérabilité relatives à l’accessibilité du système ferroviaire de l’Union pour les personnes handicapées et les personnes à mobilité réduite (JO L 356 du 12.12.2014, p. 110); modifié par le règlement d’exécution (UE) 2019/772 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 1).
 
-- – CH-TSI PRM-001 (version 2.0 de novembre 2020): Accès autonome aux trains (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1300/ 2014, la règle est à réexaminer avant le 30 juin 2021).
+La règle nationale suivante visée à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’applique en Suisse:
+
+- – CH-TSI PRM-001 (version 2.0 de juin 2021): Accès autonome aux trains.
 
 Règlement (UE) n<sup>o</sup> 1301/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système «énergie» du système ferroviaire de l’Union (JO L 356 du 12.12.2014, p. 179); modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
-Règlement (UE) n<sup>o</sup> 1302/2014 de la Commission du 18 novembre 2014 concernant une spécification technique d’interopérabilité relative au sous-système «matériel roulant» – «Locomotives et matériel roulant destiné au transport de passagers» du système ferroviaire dans l’Union européenne (JO L 356 du 12.12.2014, p. 228); modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108); les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
+Les cas spécifiques suivants visés à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
+
+- – Cas spécifique permanent CH-STI ENE-001: gabarit de chargement du pantographe, article référencé des STI 4.2.10 (2)
+-
+
+  Pour les sous-systèmes «énergie» nouveaux, mis à jour ou renouvelés sur le réseau interopérable suisse, le gabarit de chargement du pantographe est spécifié conformément aux dispositions d’exécution de l’ordonnance sur les chemins de fer du 15 décembre 1983 (DE-OCF; RS *742.141.11*) version du 01.11.2020, ad art. 18, voie normale, DE 18, figures, figure 12, et ad art. 18/47, DE 18.2/47.2, Contour de référence, ch. 14, comme suit:
+
+  - – OCF S1: géométrie de l’archet type 1450 mm avec cornes en matériau isolant
+  - – OCF S2: géométrie de l’archet type 1450 mm ou type 1600 mm avec cornes en matériau isolant
+  - – OCF S3: géométrie de l’archet type 1600 mm
+  - – OCF S4: géométrie de l’archet type 1950 mm
+
+- Remarque: pour circuler sur les tronçons existants, les unités électriques (matériel roulant) doivent être équipées d’un pantographe dont l’archet a une largeur de 1450 mm (avec cornes en matériau isolant) conformément à la figure B.1 de la norme EN 50367:2020.
+- – Cas spécifique permanent CH-STI ENE-002: Attestation de la tension utile moyenne, article référencé des STI 6.2.4.1
+-
+
+  À défaut d’une évaluation de la tension moyenne utile conformément au projet de norme EN 50388:xxxx, clause 15.4, la performance du système d’alimentation électrique peut également être évaluée au moyen:
+
+  - –
+
+    d’une comparaison avec une référence lorsque la solution d’alimentation électrique est utilisée pour un horaire des trains similaire ou plus exigeant. Les éléments suivants de la référence doivent être similaires ou plus importants:
+
+    - – distance jusqu’à la barre omnibus à tension contrôlée (poste convertisseur de fréquences),
+    - – impédance du système LAC.
+
+  - – d’une estimation approximative de U<sub>moyenne utile</sub> pour les cas simples, donnant lieu à une augmentation des capacités supplémentaires pour la croissance future du trafic.
+
+Règlement (UE) n<sup>o</sup> 1302/2014 de la Commission du 18 novembre 2014 concernant une spécification technique d’interopérabilité relative au sous-système «matériel roulant» – «Locomotives et matériel roulant destiné au transport de passagers» du système ferroviaire dans l’Union européenne (JO L 356 du 12.12.2014, p. 228); modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+
+Les cas spécifiques suivants visés à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
+
+- – Cas spécifique permanent CH-STI LOC&PAS-004: force de ripage, article référencé des STI 4.2.3.4
+- La force maximale admissible de ripage (somme des forces de guidage) par essieu est limitée, côté infrastructure, par la résistance au ripage admissible des voies. Vu la conception de la superstructure des voies en Suisse, il y a lieu d’appliquer un coefficient α = k1 = 0,85 comme valeur réglementaire pour calculer la force maximale admissible de ripage.
+- Un coefficient α = k1 = 1,0 peut être appliqué dans des cas exceptionnels et requiert des vérifications spéciales.
+- Les essais dynamiques en vue de l’homologation doivent être effectués sur la base du coefficient α = k1 = 0,85
+- – Cas spécifique permanent CH-STI LOC&PAS-005: insuffisance de dévers, articles référencés des STI LOC&PAS 4.2.3.4.2 et STI WAG 4.2.3.5
+- La vitesse de circulation admissible sur le réseau ferroviaire suisse est définie sur la base d’une insuffisance de dévers de 130 mm (trains de marchandises) et de 150 mm (trains voyageurs); ces insuffisances de dévers sont acceptées sans examen supplémentaire. Pour garantir la sécurité de l’exploitation, il est donc impératif que les véhicules soient examinés sous l’aspect de telles insuffisances de dévers.
+- Les véhicules qui n’ont pas été examinés sous l’aspect de telles insuffisances de dévers ne peuvent pas circuler sur le réseau ferroviaire suisse.
+- – Cas spécifique permanent CH-STI LOC&PAS-017: profil d’espace libre: général, article référencé des STI LOC&PAS 4.2.3.1
+-
+
+  La compatibilité des gabarits OCF avec les gabarits internationaux de l’EN 15273-1:2013 est la suivante:
+
+  - – Gabarit G1: admission sans restrictions.
+  - – Gabarit GA: admission avec restrictions dans le gabarit OCF O1. Les formules associées au gabarit G1 sont à appliquer pour le calcul du gabarit cinématique du matériel roulant (partie supérieure), pour toutes les hauteurs h. En Suisse, l’utilisation des particularités prévues par l’EN 15273-2, Annexe B, B.3.3.1, B.3.4.1, B.3.5.1 et B.3.6.1 n’est pas autorisée pour les hauteurs h &gt; 3,250 m. Le gabarit OCF O1 accepte les chargements standards pour le gabarit GA, précisés par la fiche UIC 506, Annexe B, article B.1.1.
+  - – Gabarit GB: admission avec restrictions dans le gabarit OCF O2. Les formules associées au gabarit G1 sont à appliquer pour le calcul du gabarit cinématique du matériel roulant (partie supérieure), pour toutes les hauteurs h. En Suisse, l’utilisation des particularités prévues par l’EN 15273-2, Annexe B, B.3.3.1, B.3.4.1, B.3.5.1 et B.3.6.1 n’est pas autorisée pour les hauteurs h &gt; 3,250 m. Le gabarit OCF O2 accepte les chargements standards pour le gabarit GB, précisés par la Fiche UIC 506, Annexe B, article B.1.1.
+  - – Gabarit GC: admission sans restrictions dans le gabarit OCF O4.
+
+- Le gabarit de l’infrastructure (partie supérieure) pour tous les types de gabarit (par ex. OCF O1, OCF O2, OCF O4) est calculé en conformité à l’EN 15273-1:2013, Annexe C, C.2.1, Tableau C1 (respectivement Annexe C, C.2.3, Tableau C4), sous réserve des profils cinématiques de référence et des règles de calcul associées. En Suisse, l’utilisation des formules données dans l’EN 15273-3:2013, Annexe C, Tableaux C.2 et C.3 (pour les hauteurs h &gt; 3,250 m) n’est pas autorisée.
+- – Cas spécifique permanent CH-STI LOC&PAS-028: profil d’espace libre, portes, article référencé des STI LOC&PAS 4.2.3.1
+- Les portes d’embarquement qui remplissent les conditions des fiches UIC 560, ch. 1.1.4 à 1.1.4.3, sont admises. De manière générale, les points suivants sont applicables:
+-
+
+  La compatibilité des gabarits OCF avec les gabarits internationaux de l’EN 15273-1:2013 est la suivante:
+
+  - – Gabarit G1: admission sans restrictions.
+  - – Gabarit GA: admission avec restrictions dans le gabarit OCF O1. Les formules associées au gabarit G1 sont à appliquer pour le calcul du gabarit cinématique du matériel roulant (partie supérieure), pour toutes les hauteurs h. En Suisse, l’utilisation des particularités prévues par l’EN 15273-2, Annexe B, B.3.3.1, B.3.4.1, B.3.5.1 et B.3.6.1 n’est pas autorisée pour les hauteurs h &gt; 3,250 m. Le gabarit OCF O1 accepte les chargements standards pour le gabarit GA, précisés par la fiche UIC 506, Annexe B, article B.1.1.
+  - – Gabarit GB: admission avec restrictions dans le gabarit OCF O2. Les formules associées au gabarit G1 sont à appliquer pour le calcul du gabarit cinématique du matériel roulant (partie supérieure), pour toutes les hauteurs h. En Suisse, l’utilisation des particularités prévues par l’EN 15273-2, Annexe B, B.3.3.1, B.3.4.1, B.3.5.1 et B.3.6.1 n’est pas autorisée pour les hauteurs h &gt; 3,250 m. Le gabarit OCF O2 accepte les chargements standards pour le gabarit GB, précisés par la Fiche UIC 506, Annexe B, article B.1.1.
+  - – Gabarit GC: admission sans restrictions dans le gabarit OCF O4.
+
+- Le gabarit de l’infrastructure (partie supérieure) pour tous les types de gabarit (par ex. OCF O1, OCF O2, OCF O4) est calculé en conformité à l’EN 15273-1:2013, Annexe C, C.2.1, Tableau C1 (respectivement Annexe C, C.2.3, Tableau C4), sous réserve des profils cinématiques de référence et des règles de calcul associées. En Suisse, l’utilisation des formules données dans l’EN 15273-3:2013, Annexe C, Tableaux C.2 et C.3 (pour les hauteurs h &gt; 3,250 m) n’est pas autorisée.
+
+Les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
 - – CH-TSI LOC&PAS-001 (version 1.0 de juin 2015): Largeur de l’archet du pantographe;
-- – CH-TSI LOC&PAS-002 (version 1.0 de juillet 2016): Diagonale étroite / attestations de conduite sur aiguillages (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-003 (version 1.0 de juillet 2016): Petits rayons r &lt; 250 m (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-004 (version 1.0 de juillet 2016): Force de ripage (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS 005 (version 1.0 de juillet 2016): Insuffisance de dévers (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/ 2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-006 (version 1.0 de juillet 2016): Homologation de véhicules pendulaires selon catégorie N (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-007 (version 1.0 de juin 2015): Dispositif de graissage de boudin (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-009 (version 1.0 de juin 2015): Émissions de gaz d’échappement des véhicules à moteur thermique (règle potentiellement non compatible avec le règlement (EU) 2016/1628, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-011 (version 1.0 de juillet 2016): Limitation de la prestation de traction (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
+- – CH-TSI LOC&PAS-002 (version 2.0 de juin 2021): Diagonale étroite / attestations de conduite sur aiguillages;
+- – CH-TSI LOC&PAS-003 (version 2.0 de juin 2021): Petits rayons r &lt; 250 m;
+- – CH-TSI LOC&PAS-006 (version 2.0 de juin 2021): Homologation de véhicules pendulaires selon catégorie N;
+- – CH-TSI LOC&PAS-007 (version 2.0 de juin 2021): Dispositif de graissage de boudin;
+- – CH-TSI LOC&PAS-009 (version 1.0 de juin 2015): Emissions de gaz d’échappement des véhicules à moteur thermique (règle potentiellement non compatible avec le règlement (UE) 2016/1628, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI LOC&PAS-011 (version 2.0 de juin 2021): Limitation de la prestation de traction;
 - – CH-TSI LOC&PAS-012 (version 1.0 de juillet 2016): Admittance;
-- – CH-TSI LOC&PAS 013 (version 1.0 de juillet 2016): Interaction pantographe / ligne de contact;
-- – CH-TSI LOC&PAS-014 (version 1.0 de juillet 2016): Compatibilité avec les équipements de contrôle de l’état libre de la voie (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-017 (version 1.0 de juillet 2016): Profil d’espace libre (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-019 (version 2.0 de juin 2019): Signal «non leading input» pour le véhicule de tête (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-020 (version 2.0 de juin 2019): Signal «sleeping input» en conduite multiple (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-022 (version 2.1 de novembre 2020): Réinitialisation du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-025 (version 2.0 de juin 2019): Sécurisation du dispositif de déconnexion de l’équipement ETCS embarqué (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-026 (version 2.0 de juin 2019): Interdiction de SIGNUM/ ZUB sur les véhicules équipés de l’ERTMS/ETCS Baseline 3;
-- – CH-TSI LOC&PAS-027 (version 2.0 de juin 2019): Radiocommande manuelle lors des manœuvres (mode d’exploitation «shunting») (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-028 (version 1.0 de juillet 2016): Profil d’espace libre, portes (règle potentiellement non compatible avec le règlement (UE) n° 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-030 (version 1.0 de juillet 2016): Utilisation de systèmes de freinage n’agissant pas sur l’adhérence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-031 (version 2.1 de novembre 2020): Coupure de la traction en toute sécurité (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-035 (version 2.1 de novembre 2020): Puissance suffisante du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI LOC&PAS-036 (version 2.0 de juin 2019): Véhicules dotés d’un pupitre de commande pour les deux sens de marche (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021)
-- – CH-TSI LOC&PAS-037: (version 1.0 de juin 2019): Frein de service (service brake) ETCS (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 30 juin 2021).
+- – CH-TSI LOC&PAS-013 (version 1.0 de juillet 2016): Interaction pantographe / ligne de contact;
+- – CH-TSI LOC&PAS-014*a* (version 2.0 de juin 2021): Caractéristiques du matériel roulant nécessaires pour assurer la compatibilité avec les systèmes de détection des trains par circuits de voie;
+- – CH-TSI LOC&PAS-014*b* (version 2.0 de juin 2021): Caractéristiques du matériel roulant nécessaires pour assurer la compatibilité avec les systèmes de détection des trains par compteurs d’essieux;
+- – CH-TSI LOC&PAS-019 (version 2.0 de juin 2019): Signal «non leading input» pour le véhicule de tête (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI LOC&PAS-020 (version 2.0 de juin 2019): Signal «sleeping input» en conduite multiple (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI LOC&PAS-022 (version 2.1 de juin 2021): Réinitialisation du freinage d’urgence;
+- – CH-TSI LOC&PAS-025 (version 2.0 de juin 2019): Sécurisation du dispositif de déconnexion de l’équipement ETCS embarqué (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI LOC&PAS-026 (version 2.0 de juin 2019): Interdiction de SIGNUM/ZUB sur les véhicules équipés de l’ERTMS/ETCS Baseline 3;
+- – CH-TSI LOC&PAS-027 (version 2.0 de juin 2019): Radiocommande manuelle lors des manœuvres (mode d’exploitation «shunting») (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI LOC&PAS-030 (version 2.0 de juin 2021): Utilisation de systèmes de freinage n’agissant pas sur l’adhérence;
+- – CH-TSI LOC&PAS-031 (version 2.1 de novembre 2020): Coupure de la traction en toute sécurité (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI LOC&PAS-035 (version 2.1 de novembre 2020): Puissance suffisante du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI LOC&PAS-036 (version 2.0 de juin 2019): Véhicules dotés d’un pupitre de commande pour les deux sens de marche (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI LOC&PAS-037: (version 1.0 de juin 2019): Frein de service (service brake) ETCS (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2021).
 
 Règlement (UE) n<sup>o</sup> 1303/2014 de la Commission du 18 novembre 2014 concernant la spécification technique d’interopérabilité relative à la sécurité dans les tunnels ferroviaires du système ferroviaire de l’Union européenne (JO L 356 du 12.12.2014, p. 394), modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
-Règlement (UE) n<sup>o</sup> 1304/2014 de la Commission du 26 novembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système «Matériel roulant – bruit», modifiant la décision 2008/232/CE et abrogeant la décision 2011/229/ UE (JO L 356 du 12.12.2014, p. 421).
+Règlement (UE) n<sup>o</sup> 1304/2014 de la Commission du 26 novembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système «Matériel roulant – bruit», modifiant la décision 2008/232/CE et abrogeant la décision 2011/229/UE (JO L 356 du 12.12.2014, p. 421).
 
 Règlement (UE) n<sup>o</sup> 1305/2014 de la Commission du 11 décembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système «Applications télématiques au service du fret» du système ferroviaire de l’Union européenne et abrogeant le règlement (CE) n<sup>o</sup> 62/2006 (JO L 356 du 12.12.2014, p. 438), modifié en dernier lieu par le règlement d’exécution (UE) 2019/778 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 356).
 
@@ -1163,32 +1226,30 @@ Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 rela
 
 Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (JO L 138 du 26.5.2016, p. 102); seules les dispositions suivantes s’appliquent en Suisse: art. 9, 10 (sans par. 7), 13, 14 et 17, ainsi que l’annexe III.
 
-Règlement (UE) 2016/919 de la Commission du 27 mai 2016 relatif à la spécification technique d’interopérabilité concernant les sous-systèmes «contrôle-commande et signalisation» du système ferroviaire dans l’Union européenne (JO L 158 du 15.6.2016, p. 1), modifié par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108); les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
+Règlement (UE) 2016/919 de la Commission du 27 mai 2016 relatif à la spécification technique d’interopérabilité concernant les sous-systèmes «contrôle-commande et signalisation» du système ferroviaire dans l’Union européenne (JO L 158 du 15.6.2016, p. 1), modifié par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
+
+Les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
 - – CH-TSI CCS-003 (version 2.0 de juin 2019): Activation / désactivation de la transmission du paquet 44 aux systèmes ZUB / SIGNUM;
-- – CH-TSI CCS-005 (version 2.0 de juin 2019): Certificat Quality of Service pour la transmission de données GSM-R (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI CCS-006 (version 2.1 de novembre 2020): Perte du signal «non leading permitted» en mode d’exploitation «Non Leading» (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
+- – CH-TSI CCS-006 (version 2.1 de novembre 2020): Perte du signal «non leading permitted» en mode d’exploitation «Non Leading» (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021);
 - – CH-TSI CCS-007 (version 3.0 de novembre 2020): Règle sur les courbes de freinage pour ERTMS/ETCS Baseline 2;
-- – CH-TSI CCS-008 (version 3.0 de novembre 2020): Implémentation minimale des Change Requests (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
+- – CH-TSI CCS-008 (version 3.0 de juin 2021): Implémentation minimale des «Change Requests»;
 - – CH-TSI CCS-011 (version 2.0 de juin 2019): Fonction Euroloop;
 - – CH-TSI CCS-015 (version 2.0 de juin 2019): Gestion simultanée de deux canaux de données GSM-R;
-- – CH-TSI CCS-016 (version 3.0 de novembre 2020): Utilisation de paramètres et de fonctions spécifiques au pays (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
+- – CH-TSI CCS-016 (version 3.0 de juin 2021): Utilisation de paramètres et de fonctions spécifiques au pays;
 - – CH-TSI CCS-018 (version 2.0 de juin 2019): Interdiction des Levels STM/NTC pour ZUB/SIGNUM;
-- – CH-TSI CCS-019 (version 3.0 de novembre 2020): Reprise et affichage automatiques des données du train (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
+- – CH-TSI CCS-019 (version 3.0 de novembre 2020): Reprise et affichage automatiques des données du train (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021);
 - – CH-TSI CCS-022 (version 2.0 de juin 2019): Marche arrière en mode d’exploitation «Unfitted»;
 - – CH-TSI CCS-023 (version 2.0 de juin 2019): Affichage des messages texte;
-- – CH-TSI CCS-024 (version 2.0 de juin 2019): Données de train: NC\_TRAIN, M\_AXLELOAD, V\_MAXTRAIN;
-- – CH-TSI CCS-026 (version 2.1 de novembre 2020): Monitoring en ligne de l’équipement de voie à partir du véhicule (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI CCS-032 (version 2.1 de novembre 2020): Saisie du numéro de train unique pour l’équipement ETCS embarqué et la radio cabine GSM-R (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI CCS-033 (version 1.1 de novembre 2020): Fonctionnalités GSM-R Voice (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
+- – CH-TSI CCS-024 (version 3.0 de juin 2021): Saisie flexible des données;
+- – CH-TSI CCS-026 (version 2.1 de novembre 2020): Monitoring en ligne de l’équipement de voie à partir du véhicule (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI CCS-032 (version 2.1 de novembre 2020): Saisie du numéro de train unique pour l’équipement ETCS embarqué et la radio cabine GSM-R (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI CCS-033 (version 1.1 de novembre 2020): Fonctionnalités GSM-R Voice (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021);
 - – CH-TSI CCS-034 (version 1.0 de juin 2019): Mode d’exploitation «Non Leading»;
-- – CH-TSI CCS-035 (version 1.0 de juin 2019): Textes à afficher sur le DMI (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI CCS-036 (version 2.0 de novembre 2020): Immunité du GSM-R aux perturbations (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI CCS-037 (version 1.1 de novembre 2020): SIL2 DMI (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-TSI CCS-038 (version 1.1 de novembre 2020): Message signalant un élargissement important de l’intervalle de confiance en odométrie (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-CSM-RA-001 001 (version 1.0 de juin 2019): Concept de dossier de sécurité pour l’obtention de l’homologation ETCS en Suisse (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-CSM-RA-002 (version 1.0 de juin 2019): Exigences pour les vitesses supérieures à 200 km/h (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021);
-- – CH-CSM-RA-003 (version 1.0 de juin 2019): Qualité des données du train (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 30 juin 2021).
+- – CH-TSI CCS-035 (version 1.0 de juin 2019): Textes à afficher sur le DMI (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-TSI CCS-038 (version 1.1 de novembre 2020): Message signalant un élargissement important de l’intervalle de confiance en odométrie (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-CSM-RA-001 (version 1.0 de juin 2019): Concept de dossier de sécurité pour l’obtention de l’homologation ETCS en Suisse (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021);
+- – CH-CSM-RA-002 (version 1.0 de juin 2019): Exigences pour les vitesses supérieures à 200 km/h (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2021).
 
 Règlement d’exécution (UE) 2018/545 de la Commission du 4 avril 2018 établissant les modalités pratiques du processus d’autorisation des véhicules ferroviaires et d’autorisation par type de véhicule ferroviaire conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil (JO L 90 du 6.4.2018, p. 66).
 
@@ -1200,7 +1261,9 @@ Règlement d’exécution (UE) 2018/763 de la Commission du 9 avril 2018 établi
 
 Règlement d’exécution (UE) 2019/250 de la Commission du 12 février 2019 sur les modèles de déclarations «CE» et de certificats pour les constituants d’interopérabilité et sous-systèmes ferroviaires, sur le modèle de déclaration de conformité à un type autorisé de véhicule ferroviaire et sur les procédures de vérification «CE» des sous-systèmes conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil, et abrogeant le règlement (UE) n<sup>o</sup> 201/2011 de la Commission (JO L 42 du 13.2.2019, p. 9).
 
-Règlement d’exécution (UE) 2019/773 de la Commission du 16 mai 2019 concernant la spécification technique d’interopérabilité relative au sous-système «Exploitation et gestion du trafic» du système ferroviaire au sein de l’Union européenne et abrogeant la décision 2012/757/UE (JO L 139 I du 27.5.2019, p. 5); les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
+Règlement d’exécution (UE) 2019/773 de la Commission du 16 mai 2019 concernant la spécification technique d’interopérabilité relative au sous-système «Exploitation et gestion du trafic» du système ferroviaire au sein de l’Union européenne et abrogeant la décision 2012/757/UE (JO L 139 I du 27.5.2019, p. 5).
+
+Les règles nationales suivantes visées à l’article 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
 - – CH-TSI OPE-006 (version 1.0 de juillet 2020): Processus d’exploitation ferroviaire: concepts de communication;
 - – CH-TSI OPE-007 (version 1.0 de juillet 2020): Processus d’exploitation ferroviaire, sans base dans la STI OPE;
@@ -1210,8 +1273,6 @@ Règlement d’exécution (UE) 2019/777 de la Commission du 16 mai 2019 relatif 
 
 Recommandation (UE) 2019/780 de la Commission du 16 mai 2019 sur les modalités pratiques de la délivrance d’agréments de sécurité aux gestionnaires de l’infrastructure (JO L 139 I du 27.5.2019, p. 390).
 
-[^annex1-lvlu1-sec4-1]: Aux fins de la directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007, la licence de conducteur de train ainsi que l’attestation complémentaire délivrées conformément à l’art. 4, par. 1, let. a et b, de cette directive, sont reconnues sur la base de réciprocité. Conformément à l’art. 22, par. 1, de la directive 2007/59/CE, les autorités compétentes de la Suisse et des États membres de l’UE tiennent des registres des licences et fournissent, sur demande motivée, des renseignements sur l’état de ces licences. Sur demande motivée, ces informations sont également mises à disposition de tout employeur de conducteurs (art. 2 et 3 de la Décision n<sup>o</sup> 2/2016 du Comité mixte du 10 juin 2016, [RO 2016 2373](https://fedlex.data.admin.ch/eli/oc/2016/386)).
-
 ### Section 5 Autres domaines
 
 Directive 92/82/CEE du Conseil du 19 octobre 1992 concernant le rapprochement des taux d’accises sur les huiles minérales (JO L 316 du 31.10.1992, p. 19).
@@ -1219,6 +1280,8 @@ Directive 92/82/CEE du Conseil du 19 octobre 1992 concernant le rapprochement de
 Directive 2004/54/CE du Parlement européen et du Conseil du 29 avril 2004 concernant les exigences de sécurité minimales applicables aux tunnels du réseau routier transeuropéen (JO L 167 du 30.4.2004, p. 39).
 
 Directive 2008/96/CE du Parlement européen et du Conseil du 19 novembre 2008 concernant la gestion de la sécurité des infrastructures routières (JO L 319 du 29.11.2008, p. 59).
+
+Règlement (UE) n<sup>o</sup> 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n<sup>o</sup> 2006/2004 (JO L 55 du 28.2.2011, p. 1).
 
 Annexe 2
 
