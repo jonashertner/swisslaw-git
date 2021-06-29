@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: "Decisione n. 2/2019 del Comitato dei trasporti terrestri Comunità/Svizzera del 13 dicembre 2019 relativa alle misure transitorie per la salvaguardia della fluidità del traffico ferroviario tra la Svizzera e l'Unione europea"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: it
-version: 2021-01-01
+version: 2021-06-30
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-53-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20210630/it/xml/fedlex-data-admin-ch-eli-cc-2020-53-20210630-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20210630/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Adottata il 13 dicembre 2019
 
 Entrata in vigore per la Svizzera il 13 dicembre 2019
 
-(Stato 1° gennaio 2021)
+(Stato 30 giugno 2021)
 
 Testo originale
 
@@ -140,9 +140,10 @@ La Commissione europea provvede alla pubblicazione dell’elenco degli organismi
 
 <sup>2.</sup> La Svizzera comunica all’ERA le norme nazionali di cui al paragrafo 1 ai fini della loro pubblicazione utilizzando il sistema informatico di cui all’articolo 27 del regolamento (UE) 2016/796.
 
-<sup>3.</sup> L’allegato 1 riporta le norme nazionali e i casi specifici applicabili che sono potenzialmente incompatibili con il diritto europeo. Se non se ne stabilisce la compatibilità entro il 30 giugno 2021, tali norme nazionali e casi specifici non possono più essere applicati, salvo decisione contraria del Comitato misto.
+<sup>3.</sup> L’allegato 1 riporta le norme nazionali e i casi specifici applicabili che sono potenzialmente incompatibili con il diritto europeo. Se non se ne stabilisce la compatibilità entro il 31 dicembre 2021, tali norme nazionali e casi specifici non possono più essere applicati, salvo decisione contraria del Comitato misto.[^6-2]
 
 [^6-1]: Nuovo testo giusta l’art. 2 della Dec. n. 2/2020 del Comitato dei trasporti terrestri Comunità/Svizzera dell’11 dic. 2020 relativa alle misure transitorie per la salvaguardia della fluidità del traffico ferroviario tra la Svizzera e l’Unione europea, in vigore per la Svizzera dall’11 dic. 2020 ([RU 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
+[^6-2]: Nuovo testo giusta l’art. 2 della Dec. n. 1/2021 del Comitato dei trasporti terrestri Comunità/Svizzera del del 30 giu. 2021, in vigore per la Svizzera dal 30 giu. 2021 ([RU 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)).
 
 #### Art. 7
 

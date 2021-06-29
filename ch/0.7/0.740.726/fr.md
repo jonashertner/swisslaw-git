@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: "Décision n<sup>o</sup> 2/2019 du Comité des transports terrestres Communauté/Suisse du 13 décembre 2019 sur les mesures transitoires pour maintenir une circulation ferroviaire fluide entre la Suisse et l'Union européenne"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: fr
-version: 2021-01-01
+version: 2021-06-30
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-53-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20210630/fr/xml/fedlex-data-admin-ch-eli-cc-2020-53-20210630-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20210630/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Adoptée le 13 décembre 2019
 
 Entrée en vigueur pour la Suisse le 13 décembre 2019
 
-(Etat le 1<sup>er</sup> janvier 2021)
+(Etat le 30 juin 2021)
 
 Texte original
 
@@ -140,9 +140,10 @@ La Commission rend publique la liste des organismes notifiés suisses.
 
 <sup>2.</sup> La Suisse notifie les règles nationales visées au par. 1 à l’Agence en vue de leur publication au moyen du système informatique visé à l’art. 27 du règlement (UE) 2016/796.
 
-<sup>3.</sup> L’annexe 1 identifie les règles nationales et cas spécifiques applicables qui sont potentiellement incompatibles avec le droit de l’Union. Si la compatibilité avec le droit de l’Union n’a pas été établie au 30 juin 2021, ces règles nationales et cas spécifiques ne peuvent plus être appliqués sauf si le Comité mixte en décide autrement.
+<sup>3.</sup> L’annexe 1 identifie les règles nationales et cas spécifiques applicables qui sont potentiellement incompatibles avec le droit de l’Union. Si la compatibilité avec le droit de l’Union n’a pas été établie au 31 décembre 2021, ces règles nationales et cas spécifiques ne peuvent plus être appliqués sauf si le Comité mixte en décide autrement.[^6-2]
 
 [^6-1]: Nouvelle teneur selon l’art. 2 de la D n<sup>o</sup> 2/2020 du Comité sur les mesures transitoires pour maintenir une circulation ferroviaire fluide entre la Suisse et l’Union européenne du 11 déc. 2020, en vigueur pour la Suisse depuis le 11 déc. 2020 ([RO 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
+[^6-2]: Nouvelle teneur selon l’art. 2 de la D n<sup>o</sup> 1/2021 du Comité des transports terrestres Communauté/Suisse du 30 juin 2021, en vigueur pour la Suisse depuis le 30 juin 2021 ([RO 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)).
 
 #### Art. 7
 

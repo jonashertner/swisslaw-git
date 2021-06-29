@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: Beschluss Nr. 2/2019 vom 13. Dezember 2019 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz zu den Übergangsmassnahmen zur Aufrechterhaltung eines reibungslosen Eisenbahnverkehrs zwischen der Schweiz und der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: de
-version: 2021-01-01
+version: 2021-06-30
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20210630/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20210630-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20210630/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Angenommen am 13. Dezember 2019
 
 In Kraft getreten für die Schweiz am 13. Dezember 2019
 
-(Stand am 1. Januar 2021)
+(Stand am 30. Juni 2021)
 
 Originaltext
 
@@ -140,9 +140,10 @@ Die Kommission veröffentlicht die Liste der notifizierten schweizerischen Stell
 
 <sup>2.</sup> Die Schweiz notifiziert der Agentur die in Absatz 1 genannten nationalen Vorschriften zwecks Veröffentlichung über das IT-System nach Artikel 27 der Verordnung (EU) 2016/796.
 
-<sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 30. Juni 2021 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemeinsame Ausschuss beschliesst etwas anderes.
+<sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 31. Dezember 2021 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemischte Ausschuss beschliesst etwas anderes.[^6-2]
 
 [^6-1]: Fassung gemäss Art. 2 des Beschlusses 2/2020 des Gemischten Landverkehrsausschusses vom 11. Dez. 2020, in Kraft für die Schweiz seit 11. Dez. 2020 ([AS 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
+[^6-2]: Fassung gemäss Art. 2 des Beschlusses 1/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 30. Juni 2021, in Kraft für die Schweiz seit 30. Juni 2021 ([AS 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)).
 
 #### Art. 7
 
