@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulle scorte obbligatorie di etanolo
 document: Progetto posto in consultazione
 language: it
