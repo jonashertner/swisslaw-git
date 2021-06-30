@@ -4,7 +4,7 @@ number: "850.053.1"
 title: "RÈGLEMENT du 17.08.2011 d'application de la loi du 23 novembre 2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (RLPCFam)"
 short: RLPCFam
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053.1?id=a65eafc9-6666-4030-9cbf-92a6c2c586ce"
 ---
 
@@ -116,15 +116,13 @@ arrête
 
 **Dispositions applicables [^sectionSectionII-1]**
 
-<sup>1</sup> Les dispositions du chapitre I, lettre A, section II de l'ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'assurance-vieillesse, survivant et invalidité (ci-après : OPC-AVS/AI) [^8-1] sont, sauf dispositions contraires de la LPCFam [^8-2] ou du présent règlement, applicables par analogie à la fixation des dépenses reconnues et du revenu déterminant.
+<sup>1</sup> Les dispositions du chapitre I, lettre A, section IIa de l'ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'assurance-vieillesse, survivant et invalidité (ci-après : OPC-AVS/AI) sont, sauf dispositions contraires de la LPCFam ou du présent règlement, applicables par analogie à la fixation des dépenses reconnues et du revenu déterminant.
 
-[^sectionSectionII-1]: Modif. 8 du 30.03.2022: Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.07.2021
-[^8-1]: Ordonnance du 15.01.1971 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité (RS 831.301)
-[^8-2]: Loi du 23.11.2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont ([BLV 850.053](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053?id=fc2c787d-e508-430e-9fa6-60f0a24f06ed))
+[^sectionSectionII-1]: Modif. 8 du 30.03.2022: Modification Al. 1; entrée en vigueur au 01.07.2021
 
 #### Art. 8a
 
-**Revenu et fortune déterminants: période de calcul [^8-3]**
+**Revenu et fortune déterminants: période de calcul [^8-1]**
 
 <sup>1</sup> Sont en principe pris en compte pour le calcul des PC Familles, les revenus déterminants obtenus au cours de l'année civile précédente et l'état de la fortune le 1er janvier de l'année pour laquelle la prestation est servie.
 
@@ -132,7 +130,7 @@ arrête
 
 <sup>3</sup> Si la personne qui sollicite l'octroi de PC Familles peut rendre vraisemblable que, durant la période pour laquelle elle demande la prestation, ses revenus déterminants seront notablement inférieurs à ceux qu'elle avait obtenus au cours de la période servant de base de calcul conformément aux alinéas 1 ou 2, l'autorité se base sur les déclarations du requérant, pièces justificatives à l'appui.
 
-[^8-3]: Modif. 6 du 03.04.2019: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1-3; entrée en vigueur au 01.03.2019; Introduction Art. 8a; entrée en vigueur au 01.03.2019
+[^8-1]: Modif. 6 du 03.04.2019: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1-3; entrée en vigueur au 01.03.2019; Introduction Art. 8a; entrée en vigueur au 01.03.2019
 
 ### Sous-section I Dépenses reconnues
 
@@ -460,24 +458,22 @@ arrête
 
 **Dispositions applicables [^chapterChapitreII-1]**
 
-<sup>1</sup> Les dispositions du chapitre I, lettre A, section II de l'OPC-AVS/AI [^34-1] sont, sauf dispositions contraires de la LPCFam [^34-2] ou du présent règlement, applicables par analogie à la fixation des dépenses reconnues et du revenu déterminant.
+<sup>1</sup> Les dispositions du chapitre I, lettre A, section IIa de l'OPC-AVS/AI sont, sauf dispositions contraires de la LPCFam ou du présent règlement, applicables par analogie à la fixation des dépenses reconnues et du revenu déterminant.
 
 <sup>2</sup> …
 
-[^chapterChapitreII-1]: Modif. 4 du 05.04.2017: Abrogation Art. 34; entrée en vigueur au 01.06.2017 · Modif. 8 du 30.03.2022: Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.07.2021
-[^34-1]: Ordonnance du 15.01.1971 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité (RS 831.301)
-[^34-2]: Loi du 23.11.2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont ([BLV 850.053](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053?id=fc2c787d-e508-430e-9fa6-60f0a24f06ed))
+[^chapterChapitreII-1]: Modif. 4 du 05.04.2017: Abrogation Art. 34; entrée en vigueur au 01.06.2017 · Modif. 8 du 30.03.2022: Modification Al. 1; entrée en vigueur au 01.07.2021
 
 #### Art. 35
 
-**Composante de la rente-pont [^34-3]**
+**Composante de la rente-pont [^34-1]**
 
 <sup>1</sup> La rente-pont se compose :
 
 - a. de la prestation financière annuelle qui équivaut à la part des dépenses reconnues non couvertes par le revenu déterminant ;
 - b. du remboursement des frais de maladie et d'invalidité, lequel s'opère conformément à la réglementation cantonale sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité, applicable par analogie.
 
-[^34-3]: Modif. 4 du 05.04.2017: Modification Al. 1; entrée en vigueur au 01.06.2017
+[^34-1]: Modif. 4 du 05.04.2017: Modification Al. 1; entrée en vigueur au 01.06.2017
 
 #### Art. 35a
 
@@ -522,11 +518,18 @@ arrête
 
 #### Art. 38
 
-**Collaboration [^37-1]**
+**Collaboration et Coordination [^37-1]**
 
 <sup>1</sup> Les autorités compétentes en matière de chômage collaborent à la diffusion de l'information destinée aux personnes susceptibles de bénéficier de la rente-pont.
 
 <sup>2</sup> Dans le cadre de l'examen de la demande ou du droit à la rente-pont, le CRD de Lausanne peut solliciter l'appui de Retraites Populaires, conformément au mandat attribué par le département.
+
+<sup>3</sup> Dans le cadre de l'examen de la subsidiarité du droit à la rente-pont, le CRD de Lausanne peut solliciter la Caisse qui lui fournit les informations relatives au droit.
+
+- a. aux prestations transitoires pour chômeurs âgés et
+- b. aux prestations complémentaires à l'âge ordinaire de la retraite.
+
+<sup>4</sup> La coordination est réglée par voie conventionnelle entre le CRD, la Caisse et l'Etat.
 
 [^37-1]: Modif. 4 du 05.04.2017: Modification Al. 2; entrée en vigueur au 01.06.2017 · Modif. 8 du 30.03.2022: Modification tArt; entrée en vigueur au 01.07.2021; Introduction Al. 3-4; entrée en vigueur au 01.07.2021
 
@@ -632,9 +635,9 @@ arrête
 
 <sup>1</sup> En matière de prestations de la rente-pont, les agences, en sus des tâches énumérées à l'article 41d, examinent les pièces justificatives et vérifient l'exactitude des renseignements fournis en s'assurant qu'aucune omission n'a été faite dans la description des éléments nécessaires au calcul de la rente-pont et que tous les documents utiles ont été fournis.
 
-<sup>2</sup> Si nécessaire, elles font signer un acte de cession pour chacune des aides auxquelles le requérant pourrait prétendre au sens de l'article 41d, alinéa 3, à concurrence des montants des prestations de la rente-pont, qui devront être restitués en cas d'octroi rétroactif des aides précitées.
+<sup>2</sup> Si nécessaire, elles font signer un acte de cession pour chacune des aides auxquelles le requérant pourrait prétendre au sens de l'article 41d, alinéa 1, lettre b, à concurrence des montants des prestations de la rente-pont, qui devront être restitués en cas d'octroi rétroactif des aides précitées.
 
-[^41e-1]: Modif. 4 du 05.04.2017: Introduction Art. 41f; entrée en vigueur au 01.06.2017; Introduction Art. 41f; entrée en vigueur au 01.06.2017 · Modif. 8 du 30.03.2022: Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.07.2021; Modification Al. 2; entrée en vigueur au 01.07.2021
+[^41e-1]: Modif. 4 du 05.04.2017: Introduction Art. 41f; entrée en vigueur au 01.06.2017; Introduction Art. 41f; entrée en vigueur au 01.06.2017 · Modif. 8 du 30.03.2022: Modification Al. 2; entrée en vigueur au 01.07.2021
 
 #### Art. 41g
 
@@ -924,10 +927,10 @@ Annexes [^55-1]
 
 1
 
-[Bareme PC Famille](https://prestations.vd.ch/pub/blv-publication/api/actes/a65eafc9-6666-4030-9cbf-92a6c2c586ce/annexes/1?dmev=01.01.2021)
+[Bareme PC Famille](https://prestations.vd.ch/pub/blv-publication/api/actes/a65eafc9-6666-4030-9cbf-92a6c2c586ce/annexes/1?dmev=01.07.2021)
 
 2
 
-[RLPCFam\_Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/a65eafc9-6666-4030-9cbf-92a6c2c586ce/annexes/2?dmev=01.01.2021)
+[RLPCFam\_Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/a65eafc9-6666-4030-9cbf-92a6c2c586ce/annexes/2?dmev=01.07.2021)
 
 [^55-1]: Modif. 1 du 02.05.2012: Modification Annexes, Ann. 1; entrée en vigueur au 01.05.2012 · Modif. 4 du 05.04.2017: Introduction Annexes, Ann. 1; entrée en vigueur au 01.06.2017 · Modif. 9 du 01.02.2023: Introduction Art. 54a; entrée en vigueur au 01.01.2023; Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023
