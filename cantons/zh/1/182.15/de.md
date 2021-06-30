@@ -4,11 +4,11 @@ number: "182.15"
 title: "Entschädigungsreglement der Römisch-katholischen Körperschaft des Kantons Zürich (Entschädigungsreglement, ER)"
 short: ER
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2021-07-01
+version: "2021-07-01"
+nachtrag: "113"
+valid_until: 2021-10-01
 adopted: 2009-10-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_15-2009_10_01-2010_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_15-2009_10_01-2010_01_01-113.html"
 text: pdf
 ---
 
@@ -78,7 +78,7 @@ Es werden folgende Grundentschädigungen ausgerichtet:
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 **Fr. 250 Fr. 150**
 
@@ -124,7 +124,7 @@ Verpflegungspauschale von Fr. 20 ausgerichtet.
 
 <sup>3</sup> Finden am gleichen Tag mehrere Sitzungen statt, wird der Zuschlag nur einmal ausgerichtet.
 
-[^6-1]: Eingefügt durch B vom 10. September 2020 (OS 75, 479; ABl 2020-09-25). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 5
+[^6-1]: Eingefügt durch B vom 10. September 2020 (OS 75, 479; ABl 2020-09-25). In Kraft seit 1. Januar 2021.
 
 #### Art. 6 a
 
@@ -214,7 +214,7 @@ Der Spesenersatz der Mitglieder des Synodalrates richtet sich sinngemäss nach d
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 [^15-1]: Eingefügt durch B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
 
@@ -222,43 +222,50 @@ Der Spesenersatz der Mitglieder des Synodalrates richtet sich sinngemäss nach d
 
 [^15-1]
 
-[^hIIEntschädigungKo-1]: Eingefügt durch B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
+[^hIIEntschädigungKo-1]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 5
 
 #### Art. 15 a
 
-**Grundentschädigung**[^hIIEntschädigungKo-1]
+**Präsidentin oder Präsident der Aufsichtskommission über Kirchgemeinden und Zweckverbände**[^hIIEntschädigungKo-1]
 
-**Den Mitgliedern der Aufsichtskommission über Kirch-**
+<sup>1</sup> Die Entschädigung der Präsidentin oder des Präsiden-
 
-gemeinden und Zweckverbände wird folgende Grundentschädigung ausgerichtet:
+ten bemisst sich nach dem zeitlichen Jahresaufwand. Grundlage für die Bemessung ist die Lohnklasse 21, Leistungsstufe 12, gemäss Anstellungsordnung[^15a-1].
 
-- a. für die Mitglieder Fr. 3000 pro Jahr,
+<sup>2</sup> Die Auszahlung erfolgt monatlich gemäss dem Arbeitsrapport.
 
-- b. für die Vizepräsidentin oder den Vizepräsidenten Fr. 4500 pro Jahr,
-
-- c. für die Präsidentin oder den Präsidenten Fr. 6000 pro Jahr.
-
-[^15a-1]: Eingefügt durch B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
+[^15a-1]: LS 182.41.
+[^15a-2]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 5
 
 #### Art. 15 b
 
-**Entschädigung für Visitationen und Sitzungen**[^15a-1]
+**Vizepräsidentinnen oder Vizepräsidenten der Aufsichtskommission über Kirchgemeinden und Zweckverbände**[^15a-2]
 
-**Die Entschädigung für die Mitglieder der Aufsichts-**
+<sup>1</sup> Die Entschädigung der Vizepräsidentinnen oder Vize-
 
-kommission über Kirchgemeinden und Zweckverbände für Visitationen und Sitzungen beträgt:
+präsidenten bemisst sich nach dem zeitlichen Jahresaufwand. Grundlage für die Bemessung ist die Lohnklasse 20, Leistungsstufe 12, gemäss Anstellungsordnung.
 
-- a. für Visitationen pauschal Fr. 240,
+<sup>2</sup> Die Auszahlung erfolgt monatlich gemäss dem Arbeitsrapport.
 
-- b. für Sitzungen Fr. 60 pro Stunde.
-
-[^15b-1]: Eingefügt durch B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
+[^15b-1]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 5
 
 #### Art. 15 c
 
-**Spesenersatz**[^15b-1]
+**Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände**[^15b-1]
 
-**Der Spesenersatz richtet sich sinngemäss nach den Be-**
+<sup>1</sup> Die Entschädigung der Mitglieder bemisst sich nach
+
+dem zeitlichen Jahresaufwand. Grundlage für die Bemessung ist die Lohnklasse 19, Leistungsstufe 12, gemäss Anstellungsordnung.
+
+<sup>2</sup> Die Auszahlung erfolgt monatlich gemäss dem Arbeitsrapport.
+
+[^15c-1]: Eingefügt durch B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
+
+#### Art. 15 d
+
+**Spesenersatz der Mitglieder der Aufsichtskommission über Kirchgemeinden und Zweckverbände**[^15c-1]
+
+**Der Spesensatz richtet sich sinngemäss nach den Be-**
 
 stimmungen der Anstellungsordnung.
 
