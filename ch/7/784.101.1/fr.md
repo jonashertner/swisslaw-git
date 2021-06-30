@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/fr"
 
 (OST)
 
-du 9 mars 2007 (Etat le 1<sup>er</sup> janvier 2021)
+du 9 mars 2007 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -152,13 +152,20 @@ L’ordonnance du 18 novembre 2020 sur l’utilisation du spectre des fréquence
 
 #### Art. 10a
 
-**Tarifs d’itinérance internationale**[^10a-1]
+**Itinérance internationale: devoirs d’information**[^10a-1]
 
-<sup>1</sup> Les fournisseurs de services de télécommunication mobiles indiquent à leurs clients, par écrit, de manière compréhensible, au moment de la conclusion du contrat, comment et où ceux-ci peuvent prendre connaissance des tarifs pratiqués et des options tarifaires disponibles en vue de réduire les prix.
+<sup>1</sup>
+
+Les fournisseurs de services de télécommunication mobiles doivent informer leurs clients, par écrit et de manière compréhensible, au moment de la conclusion du contrat, lors de l’activation ou de la réactivation de services d’itinérance ainsi qu’au moins une fois par année, des conditions et des modalités de l’itinérance internationale, notamment:
+
+- a. de la manière dont et de l’endroit où les tarifs pratiqués et les options de réduction des prix peuvent être consultés;
+- b. de la possibilité de fixer une limite de coûts et de bloquer l’accès;
+- c. de la possibilité de pouvoir désactiver et réactiver l’information en cas de passage sur un réseau de téléphonie mobile étranger;
+- d. de l’éventuelle absence d’information en cas de passage sur un réseau de téléphonie mobile étranger.
 
 <sup>2</sup>
 
-Lors du passage sur un réseau de téléphonie mobile étranger, ils informent leurs clients sans délai, gratuitement et de manière compréhensible, sur les coûts maximaux des services d’itinérance internationale suivants:
+En cas de passage sur un réseau de téléphonie mobile étranger, ils informent leurs clients immédiatement, gratuitement et de manière compréhensible des coûts maximaux des services d’itinérance internationale suivants:
 
 - a. appels vers la Suisse;
 - b. appels entrants;
@@ -166,15 +173,68 @@ Lors du passage sur un réseau de téléphonie mobile étranger, ils informent l
 - d. envoi de SMS;
 - e. transmission de données, y compris envoi de MMS.
 
-<sup>3</sup> Ils permettent à leurs clients de désactiver et de réactiver aisément et gratuitement cette annonce. Ils informent leurs clients de cette possibilité au moment de la conclusion du contrat, puis au moins une fois par année.
+<sup>3</sup> Ils permettent à leurs clients de désactiver et de réactiver aisément et gratuitement l’information en cas de passage sur un réseau de téléphonie mobile étranger.
 
-[^10a-1]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). Les al. 2 et 3 entrent en vigueur le 1<sup>er</sup> juil. 2010.
+<sup>4</sup> À l’achat d’un terminal sur lequel l’information en cas de passage sur un réseau de téléphonie mobile étranger n’est pas possible pour des raisons techniques, ils signalent aux clients, en plus des informations selon l’al. 1, les abonnements et les options de réduction des prix pour le terminal concerné.
 
-#### Art. 10b à 10d
+[^10a-1]: Introduit par le ch. I de l’O du 4 nov. 2009 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-[^10b10d-1]
+#### Art. 10b
 
-[^10b10d-1]: Entrent en vigueur le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+**Itinérance internationale: utilisation**[^10b-1]
+
+<sup>1</sup> Les fournisseurs de services de télécommunication mobiles ne permettent l’utilisation de services d’itinérance qu’après qu’une limite de coûts a été fixée. Les clients doivent avoir la possibilité de modifier la limite de coûts ultérieurement.
+
+<sup>2</sup> Les fournisseurs permettent à leurs clients de désactiver et de réactiver à tout moment, aisément et gratuitement l’accès aux services d’itinérance.
+
+<sup>3</sup> Ils désactivent les services d’itinérance dans les avions, sur les bateaux et par satellite par défaut et indépendamment de la validation selon l’al. 1. L’activation et la désactivation de ces services d’itinérance doivent être possibles indépendamment de la désactivation et de la réactivation selon l’al. 2.
+
+<sup>4</sup> Les fournisseurs ne doivent pas entraver ni empêcher activement l’utilisation par leurs clients de prestations d’itinérance proposées par des fournisseurs tiers.
+
+[^10b-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10c
+
+**Itinérance internationale: facturation**[^10c-1]
+
+<sup>1</sup>
+
+Lors du calcul du prix ou du crédit utilisé pour les appels sortants et entrants en itinérance internationale, les exigences suivantes s’appliquent:
+
+- a. l’appel est facturé à la seconde près, à l’exception des 30 premières secondes pour les appels sortants;
+- b. le montant final peut être arrondi aux 10 centimes supérieurs.
+
+<sup>2</sup>
+
+Lors du calcul du prix ou du crédit utilisé pour des services de données en itinérance internationale, les exigences suivantes s’appliquent:
+
+- a. la transmission de données est facturée au kilo-octet près;
+- b. le montant final peut être arrondi aux 10 centimes supérieurs.
+
+<sup>3</sup>
+
+Une facturation différente n’est admise que:
+
+- a. si les données nécessaires ne sont pas mises à disposition par les fournisseurs étrangers de services de télécommunication mobiles et si le fournisseur prouve à l’OFCOM la nécessité d’un mode de calcul différent sur la base des données disponibles, ou
+- b. pour les services de messagerie texte et multimédia, comme les SMS ou les MMS, habituellement facturés par unité.
+
+[^10c-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10d
+
+**Itinérance internationale: options**[^10d-1]
+
+<sup>1</sup>
+
+Les fournisseurs de services de télécommunication mobiles doivent proposer à leurs clients des options qui leur permettent d’utiliser des services d’itinérance internationale à des tarifs réduits. Les exigences suivantes s’appliquent:
+
+- a. l’option comprend un tarif réduit ou une quantité déterminée d’unités incluses à un prix forfaitaire;
+- b. le client doit pouvoir fixer librement la date de mise en service de l’option;
+- c. l’option est valable au moins 12 mois, indépendamment d’une éventuelle période de facturation.
+
+<sup>2</sup> Les options doivent pouvoir être souscrites gratuitement en Suisse et à l’étranger. La souscription doit être possible par Internet indépendamment de l’appareil utilisé.
+
+[^10d-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10e
 
@@ -538,8 +598,11 @@ Les prix plafonds suivants (taxe sur la valeur ajoutée non comprise) sont appli
 
 <sup>5</sup> La transmission de numéros d’appel des plages 0900, 0901 et 0906 comme numéros d’appel de raccordements appelants n’est pas autorisée.
 
+<sup>6</sup> Lorsque les fournisseurs sont informés qu’un numéro transmis n’est pas valable, qu’il est employé sans droit d’utilisation ou qu’il s’agit d’un numéro au sens de l’al. 5, ils doivent prendre les mesures appropriées et coordonner celles-ci entre eux pour empêcher la transmission du numéro ou pour bloquer l’appel.[^26a-3]
+
 [^26a-1]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^26a-2]: Introduit par le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^26a-3]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 27
 
@@ -743,15 +806,13 @@ Les fournisseurs de services de télécommunication ayant l’obligation d’ass
 
 #### Art. 35
 
-**Application[^35-2]**[^35-1]
+**Application**[^35-1]
 
-<sup>1</sup> Dans le présent chapitre, seuls les art. 39*a* et 39*b*, al. 2, s’appliquent aux services à valeur ajoutée qui sont fournis par l’intermédiaire de ressources d’adressage du plan de numérotation E.164 de type 0800 (numéros gratuits), 00800 (numéros gratuits internationaux) et 084x (numéros à coûts partagés).[^35-3]
+<sup>1</sup> Dans le présent chapitre, seuls les art. 39*a* et 39*b*, al. 2, s’appliquent aux services à valeur ajoutée qui sont fournis par l’intermédiaire de ressources d’adressage du plan de numérotation E.164 de type 0800 (numéros gratuits), 00800 (numéros gratuits internationaux) et 084x (numéros à coûts partagés).
 
-<sup>2</sup> Seuls les art. 36, al. 4 et 5, 37, 38, al. 4, 40, al. 3 à 5, et 41, al. 1, let. c, et 2 s’appliquent aux services à valeur ajoutée qui ne sont fournis ni au moyen d’une ressource d’adressage du plan de numérotation E.164, ni par SMS ou MMS.
+<sup>2</sup> Dans le présent chapitre, seuls les art. 36, al. 4 et 5, 37, 38, al. 3 et 4, 40, al. 3 à 5, et 41, al. 1, 3, 4, let. c, et 5, s’appliquent aux services à valeur ajoutée qui ne sont fournis ni par l’intermédiaire de ressources d’adressage du plan de numérotation E.164, ni par SMS ou MMS.
 
-[^35-1]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^35-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^35-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, sous réserve de l’al. 2, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 36
 
@@ -842,7 +903,7 @@ Aussi longtemps qu’ils peuvent contester la facture, les clients peuvent exige
 
 **Blocage de l’accès aux services à valeur ajoutée**
 
-<sup>1</sup> Les fournisseurs de services de télécommunication doivent offrir à leurs clients la possibilité de bloquer l’accès à l’ensemble des numéros de type 090x ou seulement aux numéros de type 0906 réservés aux contenus à caractère érotique ou pornographique.[^40-1]
+<sup>1</sup> Les fournisseurs de services de télécommunication permettent à leurs clients de bloquer les appels sortants vers les numéros de type 0900, 0901 et 0906, séparément pour chaque type.[^40-1]
 
 <sup>2</sup> Les fournisseurs de services de télécommunication qui offrent l’accès aux numéros courts pour services SMS et MMS (art. 15*a* à 15*f* ORAT[^40-2]) donnent à leurs clients la possibilité de bloquer l’accès à tous les services SMS et MMS ou seulement aux services à caractère érotique ou pornographique. Cette possibilité doit comprendre le blocage de la réception des services SMS et MMS correspondants.[^40-3]
 
@@ -852,7 +913,7 @@ Aussi longtemps qu’ils peuvent contester la facture, les clients peuvent exige
 
 <sup>5</sup> Les fournisseurs de services de télécommunication visés aux al. 1, 2 et 3 signalent ces possibilités de blocage à leurs clients lors de la conclusion du contrat, puis au moins une fois par année.
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^40-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^40-3]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
@@ -860,22 +921,29 @@ Aussi longtemps qu’ils peuvent contester la facture, les clients peuvent exige
 
 **Protection des mineurs**[^41-1]
 
-<sup>1</sup>
+<sup>1</sup> Les fournisseurs de services de télécommunication bloquent l’accès aux services à valeur ajoutée aussi longtemps que le client ou l’utilisateur principal est âgé de moins de 16 ans, pour autant qu’ils aient connaissance de cette information.
 
-Les fournisseurs de services de télécommunication bloquent les accès suivants aussi longtemps que le client ou l’utilisateur principal est âgé de moins de 16 ans, pour autant qu’ils aient pu prendre connaissance de cette information:
+<sup>2</sup> L’accès aux services mentionnés aux art. 25 à 34 ORAT[^41-2] doit rester garanti.
 
-- a. l’accès aux numéros de services à valeur ajoutée à caractère érotique ou pornographique (numéros 0906);
-- b. l’accès aux numéros courts pour les services SMS et MMS à caractère érotique ou pornographique;
-- c. l’accès aux services à valeur ajoutée à caractère érotique ou pornographique qui ne sont fournis ni au moyen d’une ressource d’adressage du plan de numérotation E.164, ni par SMS ou MMS.
+<sup>3</sup> Les fournisseurs ne débloquent l’accès qu’avec le consentement d’un représentant légalement habilité.
 
-<sup>2</sup>
+<sup>4</sup>
 
-Pour déterminer s’il y a lieu de bloquer les accès, les fournisseurs de services de télécommunication mobiles:
+Ils ne débloquent pas l’accès aux services suivants:
 
-- a. enregistrent l’âge de l’utilisateur principal, si celui-ci est âgé de moins de 16 ans, lors de la conclusion du contrat et lors de la vente d’une nouvelle installation terminale de télécommunication;
+- a. services à valeur ajoutée à caractère érotique ou pornographique (numéros 0906);
+- b. services SMS et MMS à caractère érotique ou pornographique fournis au moyen de numéros courts;
+- c. services à valeur ajoutée à caractère érotique ou pornographique qui ne sont fournis ni au moyen d’une ressource d’adressage du plan de numérotation E.164, ni par SMS ou MMS.
+
+<sup>5</sup>
+
+Pour déterminer s’il y a lieu de bloquer l’accès à des services à valeur ajoutée, les fournisseurs de services de télécommunication mobiles:
+
+- a. enregistrent l’âge de l’utilisateur principal, si celui-ci est âgé de moins de 16 ans, lors de la conclusion du contrat.
 - b. exigent, en cas de doute, la production d’un passeport ou d’une carte d’identité valables ou d’un autre document de voyage reconnu pour entrer en Suisse.
 
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2011, en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 367](https://fedlex.data.admin.ch/eli/oc/2012/25)).
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^41-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 ## Chapitre 6 Organe de conciliation
 
@@ -1063,7 +1131,7 @@ Les ayants droit à l’accès aux ressources et aux services du fournisseur occ
 
 **Alignement des prix sur les coûts: principe**[^54-1]
 
-<sup>1</sup> Les prix d’accès doivent correspondre au maximum aux coûts causés par la garantie de l’accès à des services et à des ressources au sens de l’art. 11, al. 1, LTC (*rel**e**vant costs*).
+<sup>1</sup> Les prix d’accès doivent correspondre au maximum aux coûts causés par la garantie de l’accès à des services et à des ressources au sens de l’art. 11, al. 1, LTC (*relevant costs*).
 
 <sup>2</sup>
 
@@ -1530,38 +1598,44 @@ Les fournisseurs de services de télécommunication peuvent traiter les données
 
 #### Art. 82
 
-**Communication des données en cas de communications abusives et de publicité de masse déloyale**
+**Communication des données en cas de communications abusives et de publicité déloyale**[^82-1]
 
 <sup>1</sup>
 
-Lorsqu’un client établit de manière vraisemblable, par écrit, qu’il reçoit des communications abusives ou de la publicité de masse déloyale, le fournisseur de services de télécommunication doit lui communiquer les données suivantes, pour autant qu’il en dispose:
+Lorsqu’un client établit de manière vraisemblable, par écrit, qu’il a reçu des communications abusives ou de la publicité déloyale au sens de l’art. 3, al. 1, let. o, u ou v, de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)[^82-2], le fournisseur de services de télécommunication doit lui communiquer les données suivantes, pour autant qu’il en dispose:
 
-- a. la date, l’heure et la durée des communications, ou la date et l’heure des messages;
-- b. les ressources d’adressage ainsi que le nom et l’adresse des titulaires des raccordements ayant servi à établir les communications ou à envoyer la publicité de masse déloyale.
+- a. la date, l’heure et la durée des communications ou la date et l’heure des messages;
+- b. les ressources d’adressage ainsi que le nom et l’adresse des titulaires des raccordements ayant servi à établir les communications ou à envoyer la publicité déloyale.
 
-<sup>2</sup> Si les données ne peuvent être fournies rétroactivement et qu’il est vraisemblable que les communications abusives ou que les envois de publicité de masse déloyale vont se poursuivre, le fournisseur de services de télécommunication doit collecter les données nécessaires et communiquer au client celles qui sont exigibles.
+<sup>2</sup> Si les données ne peuvent être fournies rétroactivement et s’il est vraisemblable que les communications abusives ou que les envois de publicité déloyale vont se poursuivre, le fournisseur de services de télécommunication doit collecter les données nécessaires et les communiquer au client.
 
-<sup>3</sup> Lorsque les communications abusives ou les envois de publicité de masse déloyale proviennent d’un client d’un autre fournisseur, ce dernier doit livrer les données au fournisseur du client ayant émis la requête. Les fournisseurs qui ne font que transmettre les communications abusives ou les envois de publicité de masse déloyale sont tenus d’indiquer au fournisseur du client ayant émis la requête de quel autre fournisseur ils ont reçu ces communications ou envois.[^82-1]
+<sup>3</sup> Lorsque les communications abusives ou les envois de publicité déloyale proviennent d’un client d’un autre fournisseur, tous les fournisseurs impliqués dans la communication doivent livrer les informations requises au fournisseur assujetti à l’obligation de renseigner selon l’al. 1.
 
-[^82-1]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^82-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^82-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 83
 
-**Publicité de masse déloyale**
+**Lutte contre la publicité déloyale**[^83-1]
 
-<sup>1</sup> Les fournisseurs de services de télécommunication sont tenus de protéger leurs clients contre l’envoi de publicité de masse déloyale, pour autant que cela soit techniquement possible.
+<sup>1</sup> Les fournisseurs de services de télécommunication sont tenus de protéger leurs clients contre l’envoi de publicité déloyale au sens de l’art. 3, al. 1, let. o, u ou v, LCD[^83-2], pour autant que cela soit techniquement possible.
 
-<sup>2</sup> Ils peuvent supprimer la publicité de masse déloyale.
+<sup>2</sup> Pour ce faire, ils exploitent et mettent à la disposition de leurs clients un moyen approprié. Ils les informent lors de la conclusion du contrat ainsi qu’une fois par année des avantages et des désavantages de ce moyen. Les clients doivent pouvoir désactiver et réactiver ce moyen gratuitement et à tout moment.
 
-<sup>3</sup> Lorsqu’un fournisseur apprend qu’un de ses clients envoie ou transmet de la publicité de masse déloyale par le biais de son réseau de télécommunication, il doit bloquer immédiatement l’envoi de ces messages et empêcher l’établissement des communications y relatives. Il peut exclure de son réseau les clients qui envoient ou transmettent de la publicité de masse déloyale.
+<sup>3</sup> Les fournisseurs peuvent supprimer la publicité déloyale.
 
-<sup>4</sup> Tout fournisseur de services de télécommunication doit exploiter un service auquel peut être annoncée la publicité de masse déloyale qui provient de son réseau ou qui est transmise par le biais de son réseau.
+<sup>4</sup> Lorsqu’un fournisseur apprend qu’un de ses clients envoie ou transmet de la publicité déloyale par le biais de son réseau de télécommunication, il doit bloquer immédiatement l’envoi des messages et empêcher l’établissement des communications correspondantes. Il peut exclure de son réseau les clients qui envoient ou transmettent de la publicité déloyale.
 
-<sup>5</sup> L’OFCOM peut édicter des prescriptions techniques et administratives pour protéger les clients contre l’envoi de publicité de masse déloyale.
+<sup>5</sup> Tout fournisseur doit exploiter un service auquel peut être annoncée la publicité déloyale qui provient de son réseau de télécommunication ou qui est transmise par le biais de son réseau.
 
-<sup>6</sup> En cas de violation de l’art. 3, let. o, de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)[^83-1] ou de dispositions étrangères similaires, l’autorité fédérale compétente peut demander aux fournisseurs de services de télécommunication de lui fournir les informations et les documents nécessaires pour exercer son droit d’action et pour garantir l’entraide administrative selon la LCD.
+<sup>6</sup> Tout fournisseur doit exploiter un service auquel peuvent s’adresser ses clients bloqués ou concernés par la mise en place du moyen visé à l’al. 2. Il doit, sur demande, donner des renseignements sur les raisons du blocage ou de la mise en place de ce moyen. Pour qu’il puisse respecter son obligation de renseigner, tous les fournisseurs impliqués dans la communication doivent lui livrer les informations requises.
 
-[^83-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+<sup>7</sup> L’OFCOM peut édicter des prescriptions techniques et administratives pour protéger les clients contre l’envoi de publicité déloyale.
+
+<sup>8</sup> En cas de publicité déloyale au sens de l’art. 3, let. o et v, LCD ou de dispositions étrangères similaires, l’autorité fédérale compétente peut demander aux fournisseurs de lui livrer les informations et les documents nécessaires pour exercer son droit d’action et pour garantir l’entraide administrative selon la LCD.
+
+[^83-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^83-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 84
 

@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210701-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Status as of 1 January 2021)
+of 9 March 2007 (Status as of 1 July 2021)
 
 The Swiss Federal Council,
 
@@ -39,7 +39,7 @@ In this Ordinance:
 - a. *user* means any person who uses the services of a provider of telecommunications services;
 - b. *customer* means any person who has concluded a contract with a telecommunications service provider pertaining to the use of those services;
 - c.[^1-1] ...
-- d.[^1-2] *access price:* price for access to the services and facilities of dominant providers in accordance with Article 11 paragraph 1 TCA.
+- d.[^1-2] *access price* price for access to the services and facilities of dominant providers in accordance with Article 11 paragraph 1 TCA.
 
 [^1-1]: Repealed by No I of the O of 18 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^1-2]: Inserted by No I of the O of 14 March 2014, in force since 1 July 2014 ([AS 2014 729](https://fedlex.data.admin.ch/eli/oc/2014/158)).
@@ -159,7 +159,14 @@ The Ordinance of 18 November 2020[^8-2] on Using the Radio Frequency Spectrum ap
 
 **International roaming: Obligations to provide information**[^10a-1]
 
-<sup>1</sup> On conclusion of the contract, mobile radio operators shall inform their customers in writing and in a manner which is easy to understand, how and where the latter may obtain the currently applicable tariffs as well as the tariff options for price reductions.
+<sup>1</sup>
+
+On conclusion of the contract, on the activation or reactivation of roaming services and at least once a year, mobile communications providers must inform their customers, in writing and in a manner that is easy to understand, about the conditions and modalities of international roaming, and in particular:
+
+- a. on how and where customers can find the currently applicable tariffs and the tariff options for price reductions;
+- b. about the possibility of setting a cost limit and of blocking access;
+- c. about the possibility of deactivating and reactivating the information when switching to a foreign mobile communications;
+- d. about the possibility of not receiving all the information required when switching to a foreign mobile communications.
 
 <sup>2</sup>
 
@@ -173,15 +180,66 @@ When switching to a foreign mobile communications networks, they shall inform th
 
 <sup>3</sup> They shall enable their customers to deactivate and reactivate the information when switching to a foreign mobile communications networks simply and free of charge. They must inform their customers of this option on conclusion of the contract and at least once a year thereafter.
 
-<sup>4</sup> When selling an terminal device that cannot display the information on switching to a foreign mobile communications network for technical reasons, they shall, in addition to the information in accordance with paragraph 1, draw the attention of customers to subscriptions and options for price reductions for the terminal device in question.
+<sup>4</sup> When selling a terminal device that cannot display the information on switching to a foreign mobile communications network for technical reasons, they shall, in addition to the information in accordance with paragraph 1, draw the attention of customers to subscriptions and options for price reductions for the terminal device in question.
 
-[^10a-1]: Inserted by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). Paras. 2 and 3 come into force on 1 July 2010.
+[^10a-1]: Inserted by No I of the O of 4 Nov. 2009 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-#### Art. 10b–10d
+#### Art. 10b
 
-[^10b10d-1]
+**International Roaming: Use**[^10b-1]
 
-[^10b10d-1]: Come into force on 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+<sup>1</sup> Mobile communications providers shall only enable the use of roaming services after a cost limit has been set. Customers must be able to adjust the cost limit subsequently.
+
+<sup>2</sup> Providers shall enable their customers to deactivate and reactivate access to roaming services at any time simply and free of charge.
+
+<sup>3</sup> Providers shall deactivate roaming services in aircraft, on ships and by satellite by default and irrespective of whether the service is enabled in accordance with paragraph 1. The activation and deactivation of these roaming services must be possible independently of deactivation and reactivation under paragraph 2.
+
+<sup>4</sup> Providers must not actively obstruct or prevent their customers from using roaming services offered by third-party providers.
+
+[^10b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10c
+
+**International Roaming: Charges**[^10c-1]
+
+<sup>1</sup>
+
+When calculating the charges or credit usage for outgoing and incoming international roaming calls, the following applies:
+
+- a. Calls are charged by the second, with the exception of the first 30 seconds of outgoing calls.
+- b. The final amount may be rounded up to the nearest 10 cents.
+
+<sup>2</sup>
+
+When calculating the charges or credit usage for providing international roaming data services, the following applies:
+
+- a. The service is charged per kilobyte.
+- b. The final amount may be rounded up to the nearest 10 cents.
+
+<sup>3</sup>
+
+A different charge is only permitted:
+
+- a. if the required data are not provided by the foreign mobile communications providers and the provider proves the necessity of the different charge to OFCOM based on the data provided; or
+- b. for text and multimedia messaging services such as SMS or MMS, where charging is usually per message.
+
+[^10c-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10d
+
+**International Roaming: Options**[^10d-1]
+
+<sup>1</sup>
+
+Mobile communications providers must offer their customers options that enable them to obtain international roaming services at reduced tariffs. In doing so, the following applies:
+
+- a. The option either comprises a reduced tariff or includes a certain number of units at a package price.
+- b. The customer must be free to determine the starting date for the option.
+- c. The option is valid for at least 12 months irrespective of any accounting period.
+
+<sup>2</sup> The options must be available free of charge in Switzerland and abroad. It must be possible to obtain the options via the internet, irrespective of the device.
+
+[^10d-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10e
 
@@ -206,7 +264,7 @@ Telecommunications service providers must:
 <sup>6</sup> The information on quality in accordance with this Article must be published on a freely accessible website. OFCOM may provide that the publications must appear on the same website.
 
 [^10e-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-2]: Comes into force on 1 Sept. 2021 and 1 Jan. 2024 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: Provisions come into force on 1 Sept. 2021 and 1 Jan. 2024 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -545,8 +603,11 @@ The following maximum prices apply (excluding value-added tax):
 
 <sup>5</sup> No numbers from the ranges 0900, 0901 or 0906 shall be transmitted as numbers of calling lines.
 
+<sup>6</sup> If providers are aware that a transmitted number is invalid or is being used without the right to do so, or if it is a number in accordance with paragraph 5, they must take appropriate measures and coordinate among themselves to prevent the transmission of this number or to prevent the call from being made.[^26a-3]
+
 [^26a-1]: Inserted by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^26a-2]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^26a-3]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 27
 
@@ -554,7 +615,7 @@ The following maximum prices apply (excluding value-added tax):
 
 <sup>1</sup> Access to the emergency call services under Article 28 of the Ordinance of 6 October 1997[^27-2] on Addressing Resources in the Telecommunications Sector (TSRO) must be guaranteed from every telephone connection and must be free of charge. A flat-rate charge of 20 cents per call may be imposed for telephone assistance for adults.
 
-<sup>2</sup> Providers of services of the universal service by satellite mobile telephony to which the International Telecommunication Union has allocated addressing resources need only guarantee free-of-charge access to the European emergency number 112.
+<sup>2</sup> Providers of services of the universal service by satellite mobile communications to which the International Telecommunication Union has allocated addressing resources need only guarantee free-of-charge access to the European emergency number 112.
 
 [^27-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^27-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
@@ -585,7 +646,7 @@ Providers of the public telephony service must assure the routing of emergency c
 
 [^29a-1]
 
-[^29a-1]: Comes into force on 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29a-1]: Comes into force on 1 Jan. 2022 (AS 2020 6183).
 
 #### Art. 29b
 
@@ -602,7 +663,7 @@ Providers of the public telephony service must assure the routing of emergency c
 <sup>5</sup> The alarm centres shall bear only the costs of using the caller location service.
 
 [^29b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29b-2]: Comes into force on 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29b-2]: Comes into force on 1 Jan. 2022 (AS 2020 6183).
 
 #### Art. 30
 
@@ -642,7 +703,7 @@ Public telephony service providers must guarantee the communication capability o
 - b. publication of the technical and commercial conditions in respect of the providers requesting interconnection (Art. 61);
 - c.[^32-2] interfaces (Art. 55).
 
-<sup>2</sup> The procedure in the event of disputes concerning interoperability is based, *mutatis mutandis*, on Articles 70–74.
+<sup>2</sup> The procedure in the event of disputes concerning interoperability is based, *mut**a**tis mutandis*, on Articles 70–74.
 
 <sup>3</sup> ComCom shall decide on the conditions of interconnection according to the principles which are customary in the market and in the sector.
 
@@ -659,9 +720,9 @@ Public telephony service providers must guarantee the communication capability o
 
 ## Chapter 4*a* Number Portability****
 
-[^chap4a-1]
+[^chap4b-1]
 
-[^chap4a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap4b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34
 
@@ -730,9 +791,9 @@ Telecommunications service providers that are required to guarantee number porta
 
 ## Chapter 4*b***** Free Choice of Provider for National and International Connections
 
-[^chap4b-1]
+[^chap5-1]
 
-[^chap4b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap5-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34f
 
@@ -746,15 +807,13 @@ Telecommunications service providers that are required to guarantee number porta
 
 #### Art. 35
 
-**Scope of application[^35-2]**[^35-1]
+**Scope of application**[^35-1]
 
-<sup>1</sup> In this Chapter, only Articles 39*a* and 39*b* paragraph 2 apply to value-added services which are provided via E.164 numbering plan addressing resources of the type 0800 (free numbers), 00800 (international free numbers) and 084x (shared-cost numbers).[^35-3]
+<sup>1</sup> In this Chapter, only Articles 39*a* and 39*b* paragraph 2 apply to value-added services which are provided via E.164 numbering plan addressing resources of the type 0800 (free numbers), 00800 (international free numbers) and 084x (shared-cost numbers).
 
-<sup>2</sup> Only Articles 36 paragraphs 4 and 5, 38 paragraph 4, 40 paragraphs 3–5 and 41 paragraphs 1 letter c and 2 in this Chapter apply to value-added services which are offered neither via E.164 numbering plan addressing resources or via SMS or MMS.
+<sup>2</sup> In this Chapter, only Articles 36 paragraphs 4 and 5, 38 paragraphs 3 and 4, 40 paragraphs 3–5 and 41 paragraphs 1, 3, 4 letter c and 5 apply to value-added services which are offered neither via E.164 numbering plan addressing resources or via SMS or MMS.
 
-[^35-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^35-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^35-3]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^35-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021, para. 2 in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 36
 
@@ -837,7 +896,7 @@ Provided the possibility of disputing their bill exists, customers may require t
 
 <sup>2</sup> No surcharges may be added to prices regulated in paragraph 1 and Article 39*a* for connections to numbers of type 0800, 00800, 084x, 0878, 090x and short numbers under Articles 29–32 and 54 TSRO.
 
-[^39b-1]: Inserted by No I of the O of 5 Nov. 2014 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^39b-1]: Inserted by No I of the O of 5 Nov. 2014 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)). Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021
 [^39b-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^39b-3]: [SR 942.211](https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081)
 
@@ -845,7 +904,7 @@ Provided the possibility of disputing their bill exists, customers may require t
 
 **Blocking access to value-added services**
 
-<sup>1</sup> Telecommunications service providers shall enable their customers to bar outgoing calls to all type 090x numbers or only to the type 0906 numbers reserved for erotic or pornographic content.[^40-1]
+<sup>1</sup> Telecommunications service providers shall enable their customers to block outgoing connections to numbers of type 0900, 0901 or 0906 individually for each type of number.[^40-1]
 
 <sup>2</sup> Telecommunications service providers who offer access to short numbers for SMS and MMS services (Art. 15*a*-15*f* TSRO[^40-2]) shall enable their customers to block access to all SMS and MMS services or only to services with erotic or pornographic content. Reception of the corresponding SMS and MMS services must also be blocked.[^40-3]
 
@@ -855,7 +914,7 @@ Provided the possibility of disputing their bill exists, customers may require t
 
 <sup>5</sup> Telecommunications service providers in accordance with paragraphs 1, 2 and 3 shall inform their customers of these call blocking options on conclusion of the contract and thereafter at least once a year.
 
-[^40-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^40-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^40-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^40-3]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
@@ -863,22 +922,29 @@ Provided the possibility of disputing their bill exists, customers may require t
 
 **Protection of minors**[^41-1]
 
-<sup>1</sup>
+<sup>1</sup> Telecommunications service providers shall block access to value-added services to customers or users under 16 years of age provided their age is known to the provider.
 
-Telecommunications service providers shall bar access to the following services to customers or users under 16 years of age provided their age is known to the provider:
+<sup>2</sup> The access to the services in accordance with Articles 25–34 TSRO[^41-2] must remain guaranteed.
+
+<sup>3</sup> The providers shall only unblock access if the parent or legal guardian of the person concerned gives consent.
+
+<sup>4</sup>
+
+They may not unblock access to the following services:
 
 - a. value-added services with erotic or pornographic content (0906 numbers);
 - b. SMS and MMS services with erotic or pornographic content provided via short numbers;
 - c. value-added services with erotic or pornographic content which are offered neither via E.164 numbering plan addressing resources nor via SMS or MMS.
 
-<sup>2</sup>
+<sup>5</sup>
 
-To determine whether it is appropriate to bar access, providers of mobile telecommunications services shall:
+To determine whether it is appropriate to block access to value-added services, providers of mobile telecommunications services shall:
 
-- a. record the age of the principal user, if he or she is less than 16 years of age, at the time of conclusion of the contract and the sale of new telecommunications terminal equipment;
+- a. record the age of the principal user, if he or she is less than 16 years of age, at the time of conclusion of the contract;
 - b. demand, in case of doubt, the production of a valid passport or identity card or another travel document recognised for entry into Switzerland.
 
-[^41-1]: Amended by No I of the O of 9 Dec. 2011, in force since 1 March 2012 ([AS 2012 367](https://fedlex.data.admin.ch/eli/oc/2012/25)).
+[^41-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^41-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 ## Chapter 6 Dispute Resolution Service
 
@@ -1027,7 +1093,7 @@ If OFCOM establishes that the Agent is not fulfilling its obligations, it may:
 
 **Rights**[^51-1]
 
-All telecommunications service providers are entitled to have access to the facilities and services of the provider with a dominant position in the market (the «dominant provider»).
+All telecommunications service providers are entitled to have access to the facilities and services of the provider with a dominant position in the market (the “dominant provider”).
 
 [^51-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
@@ -1354,7 +1420,7 @@ An application for a decision concerning access must include:
 
 - a. the requests;
 - b. the main facts;
-- c.[^70-1] the form provided by OFCOM, if the application is justified by the dominant position of the opponent of the application and the latter disputes the dominant position;
+- c.[^70-1] the form provided by OFCOM, if the application is justified by the dominant position of the opponent of the application and the latter disputes the dominant position.
 - d.[^70-2] ...
 
 <sup>2</sup> ...[^70-3]
@@ -1393,11 +1459,11 @@ Within the framework of its examination, OFCOM may institute conciliation procee
 
 <sup>3</sup> If the dominant provider cannot provide evidence of compliance with cost-orientation, ComCom decides on the basis of comparable values in the market and in the sector. It may also decide prices on the basis of its own pricing and costing models or other appropriate methods, in particular if no suitable comparable values are available.
 
-## Chapter 8 Use of Land in Public Use, Other Connections and Joint Use
+## Chapter 8 Use of Land in Public Use, Other Connections and Joint Use****
 
-[^chap8-1]
+[^chap9-1]
 
-[^chap8-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap9-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 75
 
@@ -1494,9 +1560,9 @@ Appropriate compensation for the joint use of installations of other providers i
 
 ## Chapter 9 Telecommunications Confidentiality and Data Protection and Protecting Children and Other Minors****
 
-[^chap9-1]
+[^chap10-1]
 
-[^chap9-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 80
 
@@ -1534,38 +1600,44 @@ Telecommunications service providers may process customers’ traffic data witho
 
 #### Art. 82
 
-**Communication of data to identify nuisance calls and unfair mass advertising**
+**Communication of data to identify nuisance calls and unfair mass advertising**[^82-1]
 
 <sup>1</sup>
 
-Where a customer credibly shows in writing that he is the victim of nuisance calls or has received unfair mass advertising, the telecommunications service provider must supply him with the following information provided it is available to it:
+Where a customer credibly shows in writing that he or she is the victim of nuisance calls or has received unfair advertising as defined in Article 3 paragraph 1 letter o, u or v of the Federal Act of 19 December 1986[^82-2] on Unfair Competition (UCA), the telecommunications service provider must supply the customer with the following data, provided it is available:
 
-- a. date, time and duration of the calls or date and time of the message;
-- b. addressing resources, names and addresses of the customers whose connections were used for the calls or from which the unfair mass advertising was sent.
+- a. the date, time and duration of the connections or date and time of the message;
+- b. the addressing resources, names and addresses of the customers whose connections were used for the calls or from which the unfair mass advertising was sent.
 
-<sup>2</sup> If the data cannot be provided retrospectively and a continuation of the nuisance calls or unfair mass advertising is probable, the provider must assemble the necessary data and communicate the data that may be requested to customers.
+<sup>2</sup> If the data cannot be provided retrospectively and a continuation of the nuisance calls or unfair advertising is probable, the provider must gather the necessary data and communicate the data that may be requested to customers.
 
-<sup>3</sup> If nuisance calls are made or unfair mass advertising is sent from connections of customers of another telecommunications service provider, the latter must communicate the data to the telecommunications service provider of the customers making the request. Only providers involved in the transfer are required to disclose to the provider for the customers making the request the identity of the provider from which they received the nuisance calls or the unfair mass advertising.[^82-1]
+<sup>3</sup> If nuisance calls are made or unfair advertising is sent from connections of customers of another telecommunications service provider, all the providers involved in the communication process must supply the required information to the provider required to provide information under paragraph 1.
 
-[^82-1]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^82-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^82-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 83
 
-**Unfair mass advertising**
+**Preventing unfair advertising**[^83-1]
 
-<sup>1</sup> Telecommunications service providers must protect their customers from receiving unfair mass advertising, as far as the state of the art permits.
+<sup>1</sup> Telecommunications service providers must protect their customers from receiving unfair advertising as defined in Article 3 paragraph 1 letter o, u or v UCA[^83-2], insofar as the state of the art allows.
 
-<sup>2</sup> They may suppress unfair mass advertising.
+<sup>2</sup> They shall provide customers with suitable mechanism that the providers must operate. They shall inform customers when entering into the contract and once every year about the advantages and disadvantages this mechanism. The customers must be able to deactivate and reactivate the mechanism at any time free of charge.
 
-<sup>3</sup> If a provider is aware that one of its customers is sending or forwarding unfair mass advertising via its telecommunication network, it must immediately bar the sending of these messages and prevent the establishment of the corresponding connections. It may disconnect customers which send or forward unfair mass advertising from the telecommunication network.
+<sup>3</sup> The providers may block unfair advertising.
 
-<sup>4</sup> Each provider must operate a notification service for unfair mass advertising which originates from its telecommunication network or which is forwarded via its telecommunication network.
+<sup>4</sup> If a provider is aware that one of its customers is sending or forwarding unfair advertising via its telecommunication network, it must immediately block the sending of these messages and prevent the establishment of the corresponding connections. It may disconnect customers which send or forward unfair advertising from the telecommunication network.
+
+<sup>5</sup> Each provider must operate a notification service for unfair advertising which originates from its telecommunication network or which is forwarded via its telecommunication network.
+
+<sup>6</sup> Each provider must provide a contact point for customers who are blocked or who are affected by the use of the mechanism referred to in paragraph 2. They must on request explain why the customer was blocked or why the mechanism was used. In order to comply with this obligation, all the providers involved in the communication process must supply the required information.
 
 <sup>5</sup> OFCOM may issue technical and administrative regulations concerning the protection of customers from receiving unfair mass advertising.
 
-<sup>6</sup> In the case of violations of Article 3 letter o of the Unfair Competition Act of 19 December 1986[^83-1] or corresponding foreign regulations, the competent federal office may obtain the information and request documents from providers as required in order to exercise its right to file an action and to provide administrative assistance in accordance with the above-mentioned Act.
+<sup>6</sup> In the case of unfair advertising as defined in Article 3 letters o and v UCA or a breach of related foreign regulations, the competent federal office may obtain the information and request documents from providers as required in order to exercise its right to file an action and to provide administrative assistance in accordance with the above-mentioned Act.
 
-[^83-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^83-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^83-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 84
 
@@ -1644,9 +1716,9 @@ Internet access providers shall inform their customers about the options for pro
 
 ### Section 1 Security Communication****
 
-[^chap10-sec1-1]
+[^chap11-sec1-1]
 
-[^chap10-sec1-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap11-sec1-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 90
 
@@ -1728,9 +1800,9 @@ Telecommunications service providers may enlisted to support the bodies referred
 
 ### Section 3 Security****
 
-[^chap10-sec3-1]
+[^chap11-sec3-1]
 
-[^chap10-sec3-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap11-sec3-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 96
 
@@ -1829,7 +1901,7 @@ The persons entrusted with carrying out statistical work are subject to professi
 
 <sup>1</sup> Providers of international telecommunications services or providers whose services might cause damaging interference shall have the status of “Recognised Operating Agencies” as defined in Article 19 of the International Telecommunication Union Convention of 22 December 1992[^104-1] (ITU Convention).
 
-<sup>2</sup> The Secretary-General of the International Telecommunication Union (ITU) may recognise as “Sector Members” (Article 19, ITU Convention) other telecommunications service providers and other organisations or institutions with a registered office or commercial activities in Switzerland if they guarantee that they fulfil the ITU’s requirements.[^104-2]
+<sup>2</sup> The Secretary-General of the International Telecommunication Union (ITU) may recognise as “Sector Members” (Article 19, ITU Convention) other telecommunications service providers and other organisations or institutions with a registered office or commercial activities in Switzerland if they guarantee that they fulfil the ITU’s requirements. [^104-2]
 
 [^104-1]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
 [^104-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).

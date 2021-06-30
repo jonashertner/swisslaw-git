@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. Januar 2021)
+vom 9. März 2007 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -153,29 +153,89 @@ Für Anbieterinnen, die zur Erbringung ihrer Fernmeldedienste das Funkfrequenzsp
 
 #### Art. 10a
 
-**Tarife für das internationale Roaming**[^10a-1]
+**Internationales Roaming: Informationspflichten**[^10a-1]
 
-<sup>1</sup> Die Mobilfunkanbieterinnen teilen ihren Kundinnen und Kunden beim Vertragsabschluss schriftlich und leicht verständlich mit, wie und wo diese die aktuell geltenden Tarife sowie die Tarifoptionen für Preisreduktionen abfragen können.
+<sup>1</sup>
+
+Die Mobilfunkanbieterinnen müssen ihre Kundinnen und Kunden beim Vertragsabschluss, bei der Aktivierung oder Reaktivierung von Roamingdiensten sowie mindestens einmal jährlich schriftlich und leicht verständlich über die Konditionen und Modalitäten des internationalen Roamings informieren, insbesondere:
+
+- a. darüber, wie und wo die aktuell geltenden Tarife sowie die Tarifoptionen für Preisreduktionen abgefragt werden können;
+- b. über die Möglichkeit, eine Kostenlimite festzulegen und den Zugang zu sperren;
+- c. über die Möglichkeit, die Information beim Wechsel auf ein ausländisches Mobilfunknetz deaktivieren und reaktivieren zu können;
+- d. über die allenfalls fehlende Information beim Wechsel auf ein ausländisches Mobilfunknetz.
 
 <sup>2</sup>
 
-Beim Wechsel auf ein ausländisches Mobilfunknetz informieren sie ihre Kundinnen und Kunden ohne Verzögerung, unentgeltlich und leicht verständlich über die maximal anfallenden Kosten der folgenden internationalen Roamingdienste:
+Beim Wechsel auf ein ausländisches Mobilfunknetz informieren sie ihre Kundinnen und Kunden sofort, unentgeltlich und leicht verständlich über die maximal anfallenden Kosten der folgenden internationalen Roamingdienste:
 
 - a. Anrufe in die Schweiz;
-- b. Ankommende Anrufe;
+- b. ankommende Anrufe;
 - c. Anrufe vor Ort;
 - d. Versand von SMS;
 - e. Datenübertragung, inkl. Versenden von MMS.
 
-<sup>3</sup> Sie müssen ihren Kundinnen und Kunden ermöglichen, diese Benachrichtigung einfach und unentgeltlich zu deaktivieren und zu reaktivieren. Sie müssen ihre Kundinnen und Kunden bei Vertragsabschluss und danach mindestens einmal jährlich über diese Möglichkeit informieren.
+<sup>3</sup> Sie ermöglichen ihren Kundinnen und Kunden, die Information beim Wechsel auf ein ausländisches Mobilfunknetz einfach und unentgeltlich zu deaktivieren und zu reaktivieren.
 
-[^10a-1]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010, Abs. 2 und 3 in Kraft seit 1. Juli 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
+<sup>4</sup> Sie weisen die Kundinnen und Kunden beim Verkauf eines Endgeräts, auf dem die Information beim Wechsel auf ein ausländisches Mobilfunknetz aus technischen Gründen nicht möglich ist, zusätzlich zu den Informationen nach Absatz 1 auf Abonnemente und Optionen für Preisreduktionen für das betreffende Endgerät hin.
 
-#### Art. 10b–10d
+[^10a-1]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-[^10b10d-1]
+#### Art. 10b
 
-[^10b10d-1]: Treten am 1. Juli 2021 in Kraft ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+**Internationales Roaming: Nutzung**[^10b-1]
+
+<sup>1</sup> Die Mobilfunkanbieterinnen ermöglichen die Nutzung von Roamingdiensten erst, nachdem eine Kostenlimite festgelegt wurde. Die Kundinnen und Kunden müssen die Möglichkeit haben, die Kostenlimite nachträglich anzupassen.
+
+<sup>2</sup> Die Anbieterinnen ermöglichen ihren Kundinnen und Kunden, den Zugang zu den Roamingdiensten jederzeit einfach und unentgeltlich zu deaktivieren und zu reaktivieren.
+
+<sup>3</sup> Sie deaktivieren die Roamingdienste in Luftfahrzeugen, auf Schiffen und per Satellit standardmässig und unabhängig von der Freigabe nach Absatz 1. Die Aktivierung und Deaktivierung dieser Roamingdienste muss unabhängig von der Deaktivierung und Reaktivierung nach Absatz 2 möglich sein.
+
+<sup>4</sup> Die Anbieterinnen dürfen ihren Kundinnen und Kunden die Nutzung von Roamingdiensten von Drittanbieterinnen nicht aktiv erschweren oder verunmöglichen.
+
+[^10b-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10c
+
+**Internationales Roaming: Abrechnung**[^10c-1]
+
+<sup>1</sup>
+
+Bei der Berechnung des Entgelts oder des Guthabenverbrauchs für abgehende und ankommende Anrufe im internationalen Roaming gilt Folgendes:
+
+- a. Die Abrechnung erfolgt sekundengenau, mit Ausnahme der ersten 30 Sekunden bei abgehenden Anrufen.
+- b. Der Endbetrag darf auf die nächsten 10 Rappen aufgerundet werden.
+
+<sup>2</sup>
+
+Bei der Berechnung des Entgelts oder des Guthabenverbrauchs für die Abwicklung von Datendiensten im internationalen Roaming gilt Folgendes:
+
+- a. Die Abrechnung erfolgt kilobytegenau.
+- b. Der Endbetrag darf auf die nächsten 10 Rappen aufgerundet werden.
+
+<sup>3</sup>
+
+Eine abweichende Abrechnung ist nur zulässig:
+
+- a. wenn die benötigten Daten von den ausländischen Mobilfunkanbieterinnen nicht zur Verfügung gestellt werden und die Anbieterin die Notwendigkeit der abweichenden Berechnung dem BAKOM gegenüber anhand der zur Verfügung gestellten Daten belegt; oder
+- b. bei Text- und Multimedianachrichtendiensten wie SMS oder MMS, bei denen die Abrechnung üblicherweise pro Nachricht erfolgt.
+
+[^10c-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10d
+
+**Internationales Roaming: Optionen**[^10d-1]
+
+<sup>1</sup>
+
+Die Mobilfunkanbieterinnen müssen ihren Kundinnen und Kunden Optionen anbieten, die den Bezug von internationalen Roamingdiensten zu reduzierten Tarifen ermöglichen. Dabei gilt Folgendes:
+
+- a. Die Option enthält entweder einen reduzierten Tarif oder eine bestimmte Menge an Inklusiveinheiten zu einem Paketpreis.
+- b. Die Kundin oder der Kunde muss das Startdatum der Option frei bestimmen können.
+- c. Die Option ist unabhängig von einer allfälligen Rechnungsperiode mindestens 12 Monate gültig.
+
+<sup>2</sup> Die Optionen müssen kostenfrei im In- und Ausland bezogen werden können. Der Bezug der Optionen muss geräteunabhängig über Internet möglich sein.
+
+[^10d-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10e
 
@@ -539,8 +599,11 @@ Es gelten folgende Preisobergrenzen (ohne Mehrwertsteuer):
 
 <sup>5</sup> Es dürfen keine Nummern aus den Bereichen 0900, 0901 und 0906 als Nummern anrufender Anschlüsse übermittelt werden.
 
+<sup>6</sup> Haben Anbieterinnen Kenntnis davon, dass eine übermittelte Nummer ungültig ist oder ohne Nutzungsrecht verwendet wird, oder handelt es sich um eine Nummer nach Absatz 5, so müssen sie geeignete Massnahmen treffen und untereinander koordinieren, um die Übermittlung dieser Nummer zu verhindern oder den Anruf zu unterbinden.[^26a-3]
+
 [^26a-1]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^26a-2]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^26a-3]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 27
 
@@ -579,7 +642,7 @@ Die Anbieterinnen des öffentlichen Telefondienstes müssen die Leitweglenkung d
 
 [^29a-1]
 
-[^29a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^29a-1]: Tritt am 1. Jan. 2022 in Kraft ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 29b
 
@@ -738,15 +801,13 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 
 #### Art. 35
 
-**Geltung[^35-2]**[^35-1]
+**Geltung**[^35-1]
 
-<sup>1</sup> Für Mehrwertdienste, die über Adressierungselemente des Nummerierungsplans E.164 des Typs 0800 (Gratisnummern), 00800 (internationale Gratisnummern) und 084x (Gebührenteilungsnummern) bereitgestellt werden, gelten in diesem Kapitel nur die Artikel 39*a* und 39*b* Absatz 2.[^35-3]
+<sup>1</sup> Für Mehrwertdienste, die über Adressierungselemente des Nummerierungsplans E.164 des Typs 0800 (Gratisnummern), 00800 (internationale Gratisnummern) und 084x (Gebührenteilungsnummern) bereitgestellt werden, gelten in diesem Kapitel nur die Artikel 39*a* und 39*b* Absatz 2.
 
-<sup>2</sup> Für Mehrwertdienste, die weder über Adressierungselemente des Nummerierungsplans E.164 noch mittels SMS oder MMS bereitgestellt werden, gelten in diesem Kapitel nur die Artikel 36 Absätze 4 und 5, 37, 38 Absatz 4, 40 Absätze 3–5 sowie 41 Absätze 1 Buchstabe c und 2.
+<sup>2</sup> Für Mehrwertdienste, die weder über Adressierungselemente des Nummerierungsplans E.164 noch mittels SMS oder MMS bereitgestellt werden, gelten in diesem Kapitel nur die Artikel 36 Absätze 4 und 5, 37, 38 Absätze 3 und 4, 40 Absätze 3–5 sowie 41 Absätze 1, 3, 4 Buchstabe c und 5.
 
-[^35-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^35-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^35-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^35-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021, Abs. 2 in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 36
 
@@ -837,7 +898,7 @@ Solange die Möglichkeit der Anfechtung ihrer Rechnung besteht, können die Kund
 
 **Sperrung des Zugangs zu Mehrwertdiensten**
 
-<sup>1</sup> Die Anbieterinnen von Fernmeldediensten ermöglichen ihren Kundinnen und Kunden, abgehende Verbindungen zu allen Nummern des Typs 090x oder nur zu den für erotische und pornografische Inhalte reservierten Nummern des Typs 0906 zu sperren.[^40-1]
+<sup>1</sup> Die Anbieterinnen von Fernmeldediensten ermöglichen ihren Kundinnen und Kunden, abgehende Verbindungen zu Nummern des Typs 0900, 0901 oder 0906 einzeln je Typ zu sperren.[^40-1]
 
 <sup>2</sup> Anbieterinnen von Fernmeldediensten, die Zugang zu Kurznummern für SMS- und MMS-Dienste (Art. 15*a*–15*f* AEFV[^40-2]) anbieten, ermöglichen ihren Kundinnen und Kunden, den Zugang zu allen SMS- und MMS-Diensten oder nur zu denjenigen mit erotischen oder pornografischen Inhalten zu sperren. Dabei muss auch der Empfang der entsprechenden SMS- und MMS-Dienste gesperrt werden.[^40-3]
 
@@ -847,7 +908,7 @@ Solange die Möglichkeit der Anfechtung ihrer Rechnung besteht, können die Kund
 
 <sup>5</sup> Die Anbieterinnen von Fernmeldediensten nach den Absätzen 1, 2 und 3 informieren ihre Kundinnen und Kunden beim Vertragsabschluss und danach mindestens einmal jährlich über diese Sperrmöglichkeiten.
 
-[^40-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^40-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^40-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^40-3]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
@@ -855,22 +916,29 @@ Solange die Möglichkeit der Anfechtung ihrer Rechnung besteht, können die Kund
 
 **Schutz von Minderjährigen**[^41-1]
 
-<sup>1</sup>
+<sup>1</sup> Die Anbieterinnen von Fernmeldediensten sperren für Kundinnen und Kunden oder Hauptbenutzerinnen und Hauptbenutzer unter 16 Jahren, soweit deren Alter der Anbieterin bekannt ist, den Zugang zu Mehrwertdiensten.
 
-Die Anbieterinnen von Fernmeldediensten sperren für Kundinnen und Kunden oder Hauptbenutzerinnen und Hauptbenutzer unter 16 Jahren, soweit deren Alter der Anbieterin bekannt ist, den Zugang zu folgenden Diensten:
+<sup>2</sup> Der Zugang zu den Diensten nach den Artikeln 25–34 AEFV[^41-2] muss dabei gewährleistet bleiben.
 
-- a. Mehrwertdienste mit erotischen oder pornografischen Inhalten (0906-Nummern);
-- b. über Kurznummern bereitgestellte SMS- und MMS-Dienste mit erotischen oder pornografischen Inhalten;
-- c. Mehrwertdienste mit erotischen oder pornografischen Inhalten, die weder über Adressierungselemente des Nummerierungsplans E.164 noch mittels SMS oder MMS bereitgestellt werden.
+<sup>3</sup> Die Anbieterinnen entsperren den Zugang nur mit Zustimmung einer zur gesetzlichen Vertretung berechtigten Person.
 
-<sup>2</sup>
+<sup>4</sup>
 
-Um zu entscheiden, ob der Zugang gesperrt werden muss, tun die Anbieterinnen von mobilen Fernmeldediensten Folgendes:
+Sie entsperren den Zugang zu den folgenden Diensten nicht:
 
-- a. Sie registrieren beim Abschluss des Vertrags und beim Verkauf einer neuen Fernmeldeendeinrichtung das Alter der Hauptbenutzerin oder des Hauptbenutzers, falls diese oder dieser unter 16 Jahre alt ist.
+- a. Mehrwertdiensten mit erotischen oder pornografischen Inhalten (0906-Nummern);
+- b. über Kurznummern bereitgestellten SMS- und MMS-Diensten mit erotischen oder pornografischen Inhalten;
+- c. Mehrwertdiensten mit erotischen oder pornografischen Inhalten, die weder über Adressierungselemente des Nummerierungsplans E.164 noch mittels SMS oder MMS bereitgestellt werden.
+
+<sup>5</sup>
+
+Um zu entscheiden, ob der Zugang zu Mehrwertdiensten gesperrt werden muss, tun die Anbieterinnen von mobilen Fernmeldediensten Folgendes:
+
+- a. Sie registrieren beim Abschluss des Vertrags das Alter der Hauptbenutzerin oder des Hauptbenutzers, falls diese oder dieser unter 16 Jahre alt ist.
 - b. Im Zweifelsfall verlangen sie, dass ein gültiger Reisepass, eine gültige Identitätskarte oder ein anderes für den Grenzübertritt in die Schweiz zulässiges Reisedokument vorgezeigt wird.
 
-[^41-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2011, in Kraft seit 1. März 2012 ([AS 2012 367](https://fedlex.data.admin.ch/eli/oc/2012/25)).
+[^41-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^41-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 ## 6. Kapitel: Schlichtungsstelle
 
@@ -1526,38 +1594,44 @@ Die Anbieterinnen von Fernmeldediensten dürfen die Verkehrsdaten der Kundinnen 
 
 #### Art. 82
 
-**Mitteilung von Daten zur Ermittlung missbräuchlicher Anrufe und unlauterer Massenwerbung**
+**Mitteilung von Daten zur Ermittlung missbräuchlicher Anrufe und unlauterer Werbung**[^82-1]
 
 <sup>1</sup>
 
-Machen Kundinnen oder Kunden schriftlich glaubhaft, ihr Anschluss sei missbräuchlich angerufen worden oder sie hätten unlautere Massenwerbung erhalten, so muss die Anbieterin von Fernmeldediensten ihnen folgende Daten, soweit vorhanden, mitteilen:
+Macht eine Kundin oder ein Kunde schriftlich glaubhaft, dass sie oder er missbräuchlich angerufen worden sei oder unlautere Werbung im Sinne von Artikel 3 Absatz 1 Buchstabe o, u oder v des Bundesgesetzes vom 19. Dezember 1986[^82-2] gegen den unlauteren Wettbewerb (UWG) erhalten habe, so muss die Anbieterin von Fernmeldediensten ihr oder ihm folgende Daten, soweit vorhanden, mitteilen:
 
 - a. Datum, Zeit und Dauer der Verbindungen oder Datum und Zeit der Mitteilung;
-- b. die Adressierungselemente sowie Namen und Adresse derjenigen Kundinnen oder Kunden, von deren Anschlüssen aus die Verbindungen erfolgt sind oder die unlautere Massenwerbung versandt wurde.
+- b. die Adressierungselemente sowie Namen und Adressen derjenigen Kundinnen und Kunden, von deren Anschlüssen aus die Verbindungen erfolgt sind oder die unlautere Werbung versandt wurde.
 
-<sup>2</sup> Wenn die Daten nicht rückwirkend angegeben werden können und eine Fortsetzung der missbräuchlichen Anrufe oder der unlauteren Massenwerbung wahrscheinlich ist, muss die Anbieterin die nötigen Daten sammeln und diejenigen den Kundinnen und Kunden mitteilen, die verlangt werden können.
+<sup>2</sup> Wenn die Daten nicht rückwirkend angegeben werden können und eine Fortset-zung der missbräuchlichen Anrufe oder der unlauteren Werbung wahrscheinlich ist, muss die Anbieterin die nötigen Daten sammeln und den Kundinnen und Kunden mitteilen.
 
-<sup>3</sup> Erfolgen missbräuchliche Anrufe oder der Versand von unlauterer Massenwerbung von Anschlüssen von Kundinnen oder Kunden einer anderen Anbieterin aus, so muss diese der Anbieterin der das Gesuch stellenden Kundinnen oder Kunden die Daten mitteilen. Nur an der Übertragung beteiligte Anbieterinnen müssen der Anbieterin der das Gesuch stellenden Kundinnen oder Kunden mitteilen, von welcher anderen Anbieterin sie die missbräuchlichen Anrufe oder die unlautere Massenwerbung entgegengenommen haben.[^82-1]
+<sup>3</sup> Erfolgen missbräuchliche Anrufe oder der Versand von unlauterer Werbung von Anschlüssen von Kundinnen oder Kunden einer anderen Anbieterin aus, so müssen sämtliche an der Kommunikation beteiligten Anbieterinnen der nach Absatz 1 auskunftspflichtigen Anbieterin die notwendigen Informationen liefern.
 
-[^82-1]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^82-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^82-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 83
 
-**Unlautere Massenwerbung**
+**Bekämpfung unlauterer Werbung**[^83-1]
 
-<sup>1</sup> Die Anbieterinnen von Fernmeldediensten müssen ihre Kundinnen und Kunden vor dem Erhalt unlauterer Massenwerbung schützen, soweit es der Stand der Technik zulässt.
+<sup>1</sup> Die Anbieterinnen von Fernmeldediensten müssen ihre Kundinnen und Kunden vor dem Erhalt unlauterer Werbung im Sinne von Artikel 3 Absatz 1 Buchstabe o, u oder v UWG[^83-2] schützen, soweit es der Stand der Technik zulässt.
 
-<sup>2</sup> Sie dürfen unlautere Massenwerbung unterdrücken.
+<sup>2</sup> Sie stellen den Kundinnen und Kunden ein dazu geeignetes Mittel zur Verfügung, das die Anbieterinnen betreiben müssen. Sie informieren die Kundinnen und Kunden bei Vertragsabschluss sowie einmal jährlich über die Vor- und Nachteile dieses Mittels. Die Kundinnen und Kunden müssen das Mittel jederzeit kostenlos deaktivieren und reaktivieren können.
 
-<sup>3</sup> Hat eine Anbieterin Kenntnis davon, dass eine ihrer Kundinnen oder einer ihrer Kunden über ihr Fernmeldenetz unlautere Massenwerbung versendet oder weiterleitet, so muss sie umgehend den Versand dieser Nachrichten sperren bzw. den Aufbau der entsprechenden Verbindungen verhindern. Sie darf Kundinnen und Kunden, welche unlautere Massenwerbung versenden oder weiterleiten, vom Fernmeldenetz trennen.
+<sup>3</sup> Die Anbieterinnen dürfen unlautere Werbung unterdrücken.
 
-<sup>4</sup> Jede Anbieterin muss eine Meldestelle für die unlautere Massenwerbung betreiben, welche aus ihrem Fernmeldenetz stammt oder über ihr Fernmeldenetz weitergeleitet wurde.
+<sup>4</sup> Hat eine Anbieterin Kenntnis davon, dass eine ihrer Kundinnen oder einer ihrer Kunden über ihr Fernmeldenetz unlautere Werbung versendet oder weiterleitet, so muss sie den Versand dieser Nachrichten umgehend sperren und den Aufbau der entsprechenden Verbindungen verhindern. Sie darf Kundinnen und Kunden, die unlautere Werbung versenden oder weiterleiten, vom Fernmeldenetz trennen.
 
-<sup>5</sup> Das BAKOM kann technische und administrative Vorschriften über den Schutz der Kundinnen und Kunden vor dem Erhalt unlauterer Massenwerbung erlassen.
+<sup>5</sup> Jede Anbieterin muss eine Meldestelle für unlautere Werbung betreiben, die aus ihrem Fernmeldenetz stammt oder über ihr Fernmeldenetz weitergeleitet wurde.
 
-<sup>6</sup> Bei Widerhandlungen gegen Artikel 3 Buchstabe o des Bundesgesetzes vom 19. Dezember 1986[^83-1] gegen den unlauteren Wettbewerb (UWG) oder entsprechende ausländische Vorschriften kann die zuständige Bundesstelle für die Ausübung ihres Klagerechts und für die Gewährung der Amtshilfe nach UWG von den Anbieterinnen die erforderlichen Auskünfte einholen und Unterlagen verlangen.
+<sup>6</sup> Jede Anbieterin muss eine Meldestelle für ihre gesperrten oder vom Einsatz des Mittels nach Absatz 2 betroffenen Kundinnen und Kunden betreiben. Sie muss auf Anfrage Auskunft über die Gründe der Sperrung oder des Einsatzes des Mittels geben. Damit sie ihre Auskunftspflicht wahrnehmen kann, müssen ihr sämtliche an der Kommunikation beteiligten Anbieterinnen die notwendigen Informationen liefern.
 
-[^83-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+<sup>7</sup> Das BAKOM kann technische und administrative Vorschriften über den Schutz der Kundinnen und Kunden vor dem Erhalt unlauterer Werbung erlassen.
+
+<sup>8</sup> Bei unlauterer Werbung im Sinne von Artikel 3 Buchstaben o und v UWG oder entsprechenden ausländischen Vorschriften kann die zuständige Bundesstelle für die Ausübung ihres Klagerechts und für die Gewährung der Amtshilfe nach dem UWG von den Anbieterinnen die erforderlichen Auskünfte einholen und Unterlagen verlangen.
+
+[^83-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^83-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 84
 

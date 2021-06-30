@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210101/it"
 
 (OST)
 
-del 9 marzo 2007 (Stato 1° gennaio 2021)
+del 9 marzo 2007 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -171,11 +171,91 @@ Se un loro cliente entra in una rete di telefonia mobile estera, sono tenuti a i
 
 [^10a-1]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)). I cpv. 2 e 3 entrano in vigore il 1° lug. 2010.
 
-#### Art. 10b a 10d
+#### Art. 10a
 
-[^10b10d-1]
+**Roaming internazionale: obbligo d’informare**[^10a-2]
 
-[^10b10d-1]: In vigore il 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+<sup>1</sup>
+
+Al momento della conclusione del contratto, dell’attivazione o della riattivazione dei servizi di roaming nonché almeno una volta all’anno i fornitori di servizi di telecomunicazione mobile devono informare per scritto e in modo chiaro i propri clienti sulle condizioni e sulle modalità del roaming internazionale, e in particolare su:
+
+- a. come e dove si possano reperire le tariffe praticate attualmente, comprese le opzioni tariffarie più vantaggiose;
+- b. la possibilità di fissare un limite di costo per i servizi di roaming e di bloccarne l’accesso;
+- c. la possibilità di poter disattivare e riattivare tale informazione in caso di passaggio a una rete di telefonia mobile estera;
+- d. l’eventuale assenza di informazione in caso di passaggio a una rete di telefonia mobile estera.
+
+<sup>2</sup>
+
+Se un loro cliente entra in una rete di telefonia mobile estera, lo informano immediatamente, gratuitamente e in forma chiara riguardo ai seguenti costi massimi dei servizi di roaming internazionale:
+
+- a. chiamate verso la Svizzera;
+- b. chiamate in entrata;
+- c. chiamate locali;
+- d. invio di SMS;
+- e. trasmissione di dati, compreso l’invio di MMS.
+
+<sup>3</sup> Se un loro cliente entra in una rete di telefonia mobile estera, gli garantiscono la possibilità di disattivare e riattivare facilmente e gratuitamente tale informazione.
+
+<sup>4</sup> In caso di vendita di un terminale che, per motivi tecnici, non consente di fornire tale informazione quando il cliente entra in una rete di telefonia mobile estera, i fornitori di servizi di telecomunicazione mobile segnalano, oltre alle informazioni di cui al capoverso 1, abbonamenti e opzioni per ridurre i prezzi per il terminale in questione.
+
+[^10a-2]: Introdotto dal n. I dell’O del 4 nov. 2009 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)) Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10b
+
+**Roaming internazionale: utilizzazione**[^10b-1]
+
+<sup>1</sup> I fornitori di servizi di telecomunicazione mobile permettono l’utilizzo dei servizi di roaming soltanto dopo che è stato fissato un limite di costi. I clienti devono avere la possibilità di modificare successivamente il limite di costi.
+
+<sup>2</sup> I fornitori di servizi di telecomunicazione mobile permettono ai loro clienti di disattivare e di riattivare in qualsiasi momento e in modo semplice e gratuito l’accesso ai servizi di roaming.
+
+<sup>3</sup> Disattivano i servizi di roaming in aeromobili, su navi e via satellite per impostazione predefinita e a prescindere dall’autorizzazione di cui al capoverso 1. L’attivazione e la disattivazione di questi servizi di roaming deve essere possibile indipendentemente dalla disattivazione e dalla riattivazione di cui al capoverso 2.
+
+<sup>4</sup> I fornitori di servizi di telecomunicazione mobile non devono ostacolare o impedire attivamente ai loro clienti l’utilizzazione di servizi di roaming di fornitori terzi.
+
+[^10b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10c
+
+**Roaming internazionale: fatturazione**[^10c-1]
+
+<sup>1</sup>
+
+Per il calcolo della tariffa o del credito consumato per le chiamate in entrata e in uscita in roaming internazionale, si applica quanto segue:
+
+- a. la fatturazione avviene al secondo, a eccezione dei primi 30 secondi per le chiamate in uscita;
+- b. l’importo finale può essere arrotondato ai 10 centesimi successivi.
+
+<sup>2</sup>
+
+Per il calcolo della tariffa o del credito consumato per i servizi di dati in roaming internazionale, si applica quanto segue:
+
+- a. la fatturazione avviene al kilobyte;
+- b. l’importo finale può essere arrotondato ai 10 centesimi successivi.
+
+<sup>3</sup>
+
+Una fatturazione diversa è ammessa soltanto:
+
+- a. se i fornitori di servizi di telecomunicazione mobile esteri non mettono a disposizione i dati necessari e se il fornitore prova all’UFCOM la necessità di una modalità di calcolo diversa sulla base dei dati messi a disposizione; o
+- b. per i servizi di messaggistica testuale e multimediale quali SMS o MMS, che di regola sono addebitati ai clienti per unità.
+
+[^10c-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 10d
+
+**Roaming internazionale: opzioni**[^10d-1]
+
+<sup>1</sup>
+
+I fornitori di servizi di telecomunicazione mobile devono offrire ai loro clienti delle opzioni che consentono di fruire di servizi di roaming internazionale a tariffe ridotte. In tale ambito si applica quanto segue:
+
+- a. l’opzione contiene una tariffa ridotta o una determinata quantità di unità incluse a un prezzo forfettario;
+- b. il cliente deve poter determinare liberamente la data di attivazione dell’opzione;
+- c. l’opzione vale almeno 12 mesi indipendentemente da un eventuale periodo di fatturazione.
+
+<sup>2</sup> Le opzioni devono poter essere attivate gratuitamente in Svizzera e all’estero. L’attivazione di opzioni deve essere possibile tramite Internet indipendentemente dall’apparecchio.
+
+[^10d-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10e
 
@@ -538,8 +618,11 @@ Vigono i seguenti limiti massimi di prezzo (IVA esclusa):
 
 <sup>5</sup> I numeri telefonici dei gruppi 0900, 0901 e 0906 non possono essere trasmessi quali numeri chiamanti.
 
+<sup>6</sup> Se i fornitori sono a conoscenza del fatto che un numero trasmesso non è valido o viene impiegato senza possedere un diritto d’utilizzazione o che si tratta di un numero di cui al capoverso 5, devono prendere le misure necessarie e coordinarle per impedire la trasmissione di tali numeri o per bloccare la chiamata.[^26a-3]
+
 [^26a-1]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
 [^26a-2]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^26a-3]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 27
 
@@ -737,15 +820,13 @@ I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare 
 
 #### Art. 35
 
-**Applicazione[^35-2]**[^35-1]
+**Applicazione**[^35-1]
 
-<sup>1</sup> Nell’ambito del presente capitolo, ai servizi a valore aggiunto forniti mediante elementi d’indirizzo del piano di numerazione E.164 del tipo 0800 (numeri gratuiti), 00800 (numeri gratuiti internazionali), 084x (numeri a costi suddivisi) si applicano soltanto gli articoli 39*a* e 39*b* capoverso 2.[^35-3]
+<sup>1</sup> Nell’ambito del presente capitolo, ai servizi a valore aggiunto forniti mediante elementi d’indirizzo del piano di numerazione E.164 del tipo 0800 (numeri gratuiti), 00800 (numeri gratuiti internazionali), 084x (numeri a costi suddivisi) si applicano soltanto gli articoli 39*a* e 39*b* capoverso 2.
 
-<sup>2</sup> Nell’ambito del presente capitolo, ai servizi a valore aggiunto che non sono forniti né mediante elementi d’indirizzo del piano di numerazione E.164 né mediante SMS o MMS si applicano soltanto gli articoli 36 capoversi 4 e 5, 37, 38 capoverso 4, 40 capoversi 3–5 e 41 capoverso 1 lettera c e capoverso 2.
+<sup>2</sup> Nell’ambito del presente capitolo, ai servizi a valore aggiunto che non sono forniti né mediante elementi d’indirizzo del piano di numerazione E.164, né mediante SMS o MMS, si applicano soltanto gli articoli 36 capoversi 4 e 5, 37, 38 capoversi 3 e 4, 40 capoversi 3–5 e 41 capoversi 1, 3, 4 lettera c e 5.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^35-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^35-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021, il cpv. 2 dal 1° lug 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 36
 
@@ -837,7 +918,7 @@ Finché sussiste la possibilità di contestare la fattura, i clienti possono chi
 
 **Blocco dell’accesso ai servizi a valore aggiunto**
 
-<sup>1</sup> I fornitori di servizi di telecomunicazione garantiscono ai loro clienti la possibilità di bloccare l’accesso a tutti i numeri del tipo 090x o soltanto ai numeri del tipo 0906 riservati a contenuti a carattere erotico o pornografico.[^40-1]
+<sup>1</sup> I fornitori di servizi di telecomunicazione garantiscono ai loro clienti la possibilità di bloccare l’accesso a tutti i numeri del tipo 0900, 0901 o 0906, singolarmente per ogni tipo.[^40-1]
 
 <sup>2</sup> I fornitori di servizi di telecomunicazione che offrono l’accesso ai numeri brevi per servizi SMS e MMS (art. 15*a–*15*f* ORAT[^40-2]) consentono ai loro clienti di bloccare l’accesso a tutti i servizi SMS e MMS o soltanto a quelli a carattere erotico o pornografico. Questa possibilità deve comprendere il blocco della ricezione di questi servizi SMS e MMS.[^40-3]
 
@@ -847,7 +928,7 @@ Finché sussiste la possibilità di contestare la fattura, i clienti possono chi
 
 <sup>5</sup> I fornitori di servizi di telecomunicazione di cui ai capoversi 1, 2 e 3 segnalano ai loro clienti la possibilità di bloccare i servizi a valore aggiunto al momento in cui concludono il contratto e, in seguito, almeno una volta all’anno.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^40-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^40-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 [^40-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
@@ -855,22 +936,29 @@ Finché sussiste la possibilità di contestare la fattura, i clienti possono chi
 
 **Tutela dei minorenni**[^41-1]
 
-<sup>1</sup>
+<sup>1</sup> I fornitori di servizi di telecomunicazione bloccano l’accesso ai servizi a valore aggiunto ai clienti o agli utenti principali che non hanno ancora compiuto 16 anni, a condizione che siano a conoscenza della loro età.
 
-Se è a conoscenza del fatto che il cliente o utente principale non ha ancora compiuto 16 anni, il fornitore di servizi di telecomunicazione gli blocca automaticamente l’accesso a:
+<sup>2</sup> L’accesso ai servizi di cui agli articoli 25–34 ORAT[^41-2] deve continuare a essere garantito.
+
+<sup>3</sup> I fornitori sbloccano l’accesso soltanto previo consenso di una persona autorizzata a esercitare la rappresentanza legale.
+
+<sup>4</sup>
+
+Non sbloccano l’accesso ai seguenti servizi:
 
 - a. numeri di servizi a valore aggiunto a carattere erotico o pornografico (n. 0906);
 - b. numeri brevi per servizi SMS e MMS a carattere erotico o pornografico;
 - c. servizi a valore aggiunto a carattere erotico o pornografico che non sono forniti né mediante elementi d’indirizzo del piano di numerazione E.164 né mediante SMS o MMS.
 
-<sup>2</sup>
+<sup>5</sup>
 
 Per determinare la necessità di un blocco dell’accesso, i fornitori di servizi di telecomunicazione mobile:
 
-- a. registrano l’età dell’utente principale, qualora questi non abbia ancora compiuto i 16 anni, al momento della conclusione del contratto e al momento della vendita di un nuovo impianto terminale di telecomunicazione;
+- a. registrano l’età dell’utente principale, qualora questi non abbia ancora compiuto i 16 anni, al momento della conclusione del contratto;
 - b. esigono, in caso di dubbio, che venga prodotto un passaporto o una carta d’identità validi o un altro documento di viaggio riconosciuto per entrare in Svizzera.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2011, in vigore dal 1° mar. 2012 ([RU 2012 367](https://fedlex.data.admin.ch/eli/oc/2012/25)).
+[^41-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^41-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
 ## Capitolo 6: Organo di conciliazione
 
@@ -1526,38 +1614,44 @@ I fornitori di servizi di telecomunicazione possono trattare i dati relativi al 
 
 #### Art. 82
 
-**Comunicazione dei dati in caso di chiamate abusive e di pubblicità di massa sleale**
+**Comunicazione dei dati in caso di chiamate abusive e di pubblicità sleale**[^82-1]
 
 <sup>1</sup>
 
-Se il cliente rende verosimile, per scritto, che il suo collegamento è stato chiamato abusivamente oppure che ha ricevuto pubblicità di massa sleale, il fornitore di servizi di telecomunicazione è tenuto a trasmettergli i dati seguenti, purché siano in suo possesso:
+Se un cliente rende verosimile, per scritto, che è stato chiamato abusivamente oppure che ha ricevuto pubblicità sleale ai sensi dell’articolo 3 capoverso 1 lettere o, u o v della legge federale del 19 dicembre 1986[^82-2] contro la concorrenza sleale (LCSl), il fornitore di servizi di telecomunicazione è tenuto a comunicargli i dati seguenti, purché siano in suo possesso:
 
 - a. data, ora e durata delle comunicazioni, oppure data e ora dei messaggi;
-- b. gli elementi d’indirizzo così come i nomi e l’indirizzo dei titolari dei collegamenti dai quali sono provenute le comunicazioni, oppure la pubblicità di massa sleale.
+- b. gli elementi d’indirizzo nonché i nomi e gli indirizzi dei titolari dei collegamenti dai quali sono pervenute le chiamate abusive oppure la pubblicità sleale.
 
-<sup>2</sup> Se i dati non possono essere forniti retroattivamente e con ogni probabilità le chiamate abusive o la pubblicità di massa sleale proseguiranno, il fornitore di servizi di telecomunicazione è tenuto a raccogliere i dati necessari e a trasmettere ai clienti quelli cui essi hanno diritto.
+<sup>2</sup> Se i dati non possono essere forniti retroattivamente e con ogni probabilità le chiamate abusive o la pubblicità sleale proseguiranno, il fornitore di servizi di telecomunicazione è tenuto a raccogliere i dati necessari e a trasmetterli ai clienti.
 
-<sup>3</sup> Se le chiamate abusive o la pubblicità di massa sleale provengono da collegamenti di clienti di un altro fornitore di servizi di telecomunicazione, questi è tenuto a indicare i dati al fornitore di servizi di telecomunicazione dei clienti che hanno presentato domanda in merito. Soltanto i fornitori che contribuiscono alla trasmissione sono tenuti a comunicare al fornitore di servizi di telecomunicazione dei clienti che ne hanno presentato domanda da quale altro fornitore provengano le chiamate abusive o la pubblicità di massa sleale.[^82-1]
+<sup>3</sup> Se le chiamate abusive o la pubblicità sleale provengono da collegamenti di clienti di un altro fornitore, tutti i fornitori che partecipano alla comunicazione devono fornire le informazioni necessarie al fornitore tenuto a comunicare i dati secondo il capoverso 1.
 
-[^82-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^82-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^82-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 83
 
-**Pubblicità di massa sleale**
+**Lotta contro la pubblicità sleale**[^83-1]
 
-<sup>1</sup> Purché la tecnica lo consenta, i fornitori di servizi di telecomunicazione devono proteggere i loro clienti dalla pubblicità di massa sleale.
+<sup>1</sup> Purché la tecnica lo consenta, i fornitori di servizi di telecomunicazione devono proteggere i loro clienti dalla pubblicità sleale ai sensi dell’articolo 3 capoverso 1 lettera o, u o v LCSl[^83-2].
 
-<sup>2</sup> Possono impedire la diffusione della pubblicità di massa sleale.
+<sup>2</sup> A questo scopo, gestiscono e mettono a disposizione dei clienti un mezzo appropriato. Al momento della conclusione del contratto e una volta l’anno informano i clienti in merito ai vantaggi e agli svantaggi di tale mezzo. I clienti devono poter disattivare e riattivare gratuitamente e in qualsiasi momento tale mezzo.
 
-<sup>3</sup> Se un fornitore è a conoscenza del fatto che un suo cliente invia o inoltra pubblicità di massa sleale mediante la sua rete di telecomunicazione, deve bloccare senza indugio l’invio di questi messaggi oppure impedire l’allestimento delle relative comunicazioni. Può disconnettere dalla rete di telecomunicazione i clienti che inviano o inoltrano pubblicità di massa sleale.
+<sup>3</sup> I fornitori possono sopprimere la pubblicità sleale.
 
-<sup>4</sup> Il fornitore di servizi di telecomunicazione deve istituire un servizio al quale sia possibile segnalare pubblicità di massa sleale che proviene dalla sua rete di telecomunicazione, o che vi circola.
+<sup>4</sup> Se un fornitore è a conoscenza del fatto che un suo cliente invia o inoltra pubblicità sleale mediante la sua rete di telecomunicazione, deve bloccare immediatamente l’invio di questi messaggi e impedire l’allestimento dei relativi collegamenti. Può disconnettere dalla rete di telecomunicazione i clienti che inviano o inoltrano pubblicità sleale.
 
-<sup>5</sup> L’UFCOM può emanare prescrizioni tecniche e amministrative per tutelare i clienti dalla pubblicità di massa sleale.
+<sup>5</sup> Ogni fornitore di servizi di telecomunicazione deve gestire un servizio al quale sia possibile segnalare pubblicità sleale che proviene dalla sua rete di telecomunicazione, o che vi circola.
 
-<sup>6</sup> In caso di violazione dell’articolo 3 lettera o della legge federale del 19 dicembre 1986[^83-1] contro la concorrenza sleale (LCSl) o di disposizioni estere simili, l’autorità federale competente può chiedere al fornitore di servizi di telecomunicazione le informazioni e la documentazione necessarie per esercitare il suo diritto d’intervento e garantire la collaborazione amministrativa ai sensi della LCSl.
+<sup>6</sup> Ogni fornitore di servizi di telecomunicazione deve gestire un servizio al quale possono rivolgersi i clienti bloccati o sottoposti al mezzo di cui al capoverso 2. Su richiesta deve informare sui motivi del blocco o dell’attuazione di questo mezzo. Per poter adempiere il suo obbligo d’informazione, tutti i fornitori che partecipano alla comunicazione devono fornirgli le informazioni necessarie.
 
-[^83-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+<sup>7</sup> L’UFCOM può emanare prescrizioni tecniche e amministrative per tutelare i clienti dalla pubblicità sleale.
+
+<sup>8</sup> In caso di pubblicità sleale ai sensi dell’articolo 3 lettere o e v LCSl o di disposizioni estere simili, l’autorità federale competente può chiedere al fornitore di servizi di telecomunicazione le informazioni e la documentazione necessarie per esercitare il suo diritto d’intervento e garantire la collaborazione amministrativa ai sensi della LCSl.
+
+[^83-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^83-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
 
 #### Art. 84
 
