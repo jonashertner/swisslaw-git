@@ -4,13 +4,13 @@ number: "930.1"
 title: Gesetz über Handel und Gewerbe
 short: HGG
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-06-10
+version: 2021-07-01
+valid_until: 2027-02-28
+version_adopted: 2021-03-07
 adopted: 1992-11-04
 in_force: 1993-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/930.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2058/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2287/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2058/pdf_file"
 
 (HGG)
 
-vom 04.11.1992 (Stand 01.01.2021)
+vom 04.11.1992 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -152,7 +152,7 @@ beschliesst:
 <sup>3</sup> Folgende Geschäfte dürfen täglich von 06.00 bis 22.00 Uhr offen halten:
 
 - a Detailverkaufsgeschäfte bis zu 120 m² Verkaufsfläche, die einer Tankstelle angegliedert sind,
-- b Kioske, die hauptsächlich Tabakwaren, Süssigkeiten, Zeitungen und Zeitschriften verkaufen,
+- b Kioske, die hauptsächlich Tabakprodukte, Süssigkeiten, Zeitungen und Zeitschriften verkaufen,
 - c Detailverkaufsgeschäfte, die einer Milchannahmestelle angegliedert sind,
 - d Videotheken, die Bild- und Tonträger verleihen oder verkaufen.
 
@@ -203,26 +203,38 @@ beschliesst:
 
 **…**
 
-## 4 Beschränkungen des Handels mit Tabak und mit alkoholischen Getränken
+## 4 Beschränkungen des Handels mit Tabakprodukten, pflanzlichen Rauchprodukten, elektronischen Zigaretten und alkoholischen Getränken
+
+#### Art. 14c
+
+**Begriffe**
+
+<sup>1</sup> Tabakprodukte sind Erzeugnisse, die aus Blattteilen oder Rippenstücken der Tabakpflanze bestehen oder solche enthalten und zum Rauchen, Inhalieren nach dem Erhitzen, oralen Gebrauch oder Schnupfen bestimmt sind.
+
+<sup>2</sup> Pflanzliche Rauchprodukte sind pflanzliche Erzeugnisse ohne Tabak, die mittels eines Verbrennungsprozesses konsumiert werden.
+
+<sup>3</sup> Elektronische Zigaretten sind Geräte, die ohne Tabak verwendet werden und mit denen die Emissionen einer erhitzten Flüssigkeit mit oder ohne Nikotin inhaliert werden können. Als elektronische Zigarette gilt auch das Nachfüllmaterial für diese Geräte.
+
+<sup>4</sup> Der Regierungsrat kann Produkte den elektronischen Zigaretten gemäss Absatz 3 durch Verordnung gleichstellen, wenn sie von den Wirkungen her mit diesen vergleichbar sind.
 
 #### Art. 15
 
 **Werbeverbot**
 
-<sup>1</sup> Die Werbung für Tabak und alkoholische Getränke ist verboten
+<sup>1</sup> Die Werbung für Tabakprodukte, pflanzliche Rauchprodukte, elektronische Zigaretten und alkoholische Getränke ist verboten
 
 - a auf öffentlichem Grund und auf von diesem einsehbarem privaten Grund,
 - b an und in öffentlichen Gebäuden.
 
 <sup>2</sup> An öffentlichen Anlässen ist die Werbung verboten
 
-- a für Tabak und für alkoholische Getränke mit mehr als 15 Volumenprozent Alkohol, wenn Kinder oder Jugendliche unter 18 Jahren teilnehmen können, und darüber hinaus
-- b für alkoholische Getränke mit weniger als 15 Volumenprozent Alkohol, wenn hauptsächlich Kinder oder Jugendliche unter 18 Jahren am Anlass teilnehmen.
+- a für Tabakprodukte, pflanzliche Rauchprodukte, elektronische Zigaretten und alkoholische Getränke mit mehr als 15 Volumenprozent Alkohol, wenn Kinder oder Jugendliche unter 18 Jahren teilnehmen können,
+- b für alkoholische Getränke mit weniger als 15 Volumenprozent Alkohol, wenn hauptsächlich Kinder oder Jugendliche unter 18 Jahren teilnehmen.
 
 <sup>3</sup> Vom Verbot ausgenommen sind
 
 - a Anschriften und Schilder von Betrieben,
-- b Schaufensterauslagen von Geschäften mit Alkohol- oder Tabakverkauf,
+- b Schaufensterauslagen von Geschäften, die Tabakprodukte, pflanzliche Rauchprodukte, elektronische Zigaretten oder alkoholische Getränke verkaufen,
 - c Werbung an Fahrzeugen gemäss der eidgenössischen Strassenverkehrsgesetzgebung,
 - d Werbung direkt an der Verkaufsstelle bei öffentlichen Anlässen.
 
@@ -230,31 +242,31 @@ beschliesst:
 
 #### Art. 16
 
-**Verkauf von Tabak**
+**Verkauf**
 
-<sup>1</sup> Die Abgabe und der Verkauf von Tabak an Kinder und Jugendliche unter 18 Jahren sind verboten.
+<sup>1</sup> Die Abgabe und der Verkauf von Tabakprodukten, pflanzlichen Rauchprodukten und elektronischen Zigaretten an Kinder und Jugendliche unter 18 Jahren sind verboten.
 
-<sup>2</sup> Das Verkaufspersonal überprüft das Alter der Kundinnen und Kunden. Es kann dazu einen Ausweis verlangen.
+<sup>2</sup> Das Verkaufspersonal überprüft das Alter der Kundinnen und Kunden. In Zweifelsfällen verlangt es einen Ausweis.
 
 #### Art. 17
 
 **Automaten**
 
-<sup>1</sup> Die Abgabe und der Verkauf von Tabak mittels Automaten sind verboten.
+<sup>1</sup> Die Abgabe und der Verkauf von Tabakprodukten, pflanzlichen Rauchprodukten und elektronischen Zigaretten mittels Automaten sind nur zulässig, wenn die Automaten die Abgabe und den Verkauf an Kinder und Jugendliche unter 18 Jahren verunmöglichen.
 
-<sup>2</sup> Vom Verbot ausgenommen sind Automaten, bei denen geeignete Massnahmen den Verkauf an Kinder und Jugendliche unter 18 Jahren verunmöglichen.
+<sup>2</sup> …
 
 #### Art. 18
 
 **Überwachung**
 
-<sup>1</sup> Die Gemeinden überwachen die Einhaltung der Beschränkungen des Handels mit Tabak sowie mit alkoholischen Getränken.
+<sup>1</sup> Die Gemeinden überwachen die Einhaltung der Beschränkungen des Handels mit Tabakprodukten, pflanzlichen Rauchprodukten, elektronischen Zigaretten und alkoholischen Getränken.
 
 #### Art. 18a
 
 **Verwaltungszwang**
 
-<sup>1</sup> Die zuständige Stelle kann den Handel mit Tabak oder jede Werbung bis zu drei Monaten verbieten, wenn die Vorschriften von Artikel 15 bis 17 wiederholt missachtet worden sind.
+<sup>1</sup> Die zuständige Stelle kann den Handel mit Tabakprodukten, pflanzlichen Rauchprodukten und elektronischen Zigaretten oder jede Werbung bis zu drei Monaten verbieten, wenn die Vorschriften von Artikel 15 bis 17 wiederholt missachtet worden sind.
 
 ## 4a
 
@@ -274,7 +286,7 @@ beschliesst:
 
 **Zuständige Stelle**
 
-<sup>1</sup> Der zuständigen Stelle der Volkswirtschaftsdirektion obliegen
+<sup>1</sup> Der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion obliegen
 
 - a die Beratung von Gemeinden und Privaten,
 - b die Aufsicht über den Vollzug und
@@ -314,7 +326,9 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Das Beschwerdeverfahren richtet sich nach den Vorschriften des Gesetzes über die Verwaltungsrechtspflege.
+<sup>1</sup> Das Beschwerdeverfahren richtet sich nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^27-1].
+
+[^27-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 #### Art. 28
 
@@ -339,7 +353,7 @@ beschliesst:
 - b eine Bewilligung überschreitet oder
 - c das Verbot oder die Einschränkung einer Tätigkeit nach diesem Gesetz missachtet.
 
-<sup>2</sup> Bei Widerhandlung gegen die Bestimmungen über Beschränkungen des Handels mit Tabak sowie mit alkoholischen Getränken beträgt die Busse mindestens 200 Franken.
+<sup>2</sup> Bei Widerhandlung gegen die Bestimmungen über Beschränkungen des Handels mit Tabakprodukten, pflanzlichen Rauchprodukten, elektronischen Zigaretten und alkoholischen Getränken beträgt die Busse mindestens 200 Franken.
 
 <sup>3</sup> …
 
