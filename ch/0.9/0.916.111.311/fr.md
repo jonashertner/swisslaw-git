@@ -3,11 +3,11 @@ sr: "0.916.111.311"
 title: Accord international sur les céréales de 1995
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642"
 language: fr
-version: 2019-07-01
+version: 2021-07-01
 adopted: 1994-12-05
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20190701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20190701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20190701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ RO **1996** 2642; FF **1995** IV 1674
 
 Texte original
 
-(Etat le 1<sup>er</sup> juillet 2019)
+(Etat le 1<sup>er</sup> juillet 2021)
 
 *Préambule*
 
@@ -472,7 +472,7 @@ Si le Conseil conclut qu’un membre a enfreint les obligations que lui impose l
 
 \5) Le Conseil notifie au dépositaire toute décision prise au titre du par. 2 ou du par. 3 du présent article.
 
-[^33-1]: Prorogée par les D du Conseil international des céréales des 13/14 juin 2005 jusqu’au 30 juin 2007 ([RO 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)), du 11 juin 2007 jusqu’au 30 juin 2009 ([RO 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)), du 8 juin 2009 jusqu’au 30 juin 2011 ([RO 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)), du 6 juin 2011 jusqu’au 30 juin 2013 ([RO 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)), des 10/11 juin 2013 jusqu’au 30 juin 2015 ([RO 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)), du 8 juin 2015 jusqu’au 30 juin 2017 ([RO 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)), du 5 juin 2017 jusqu’au 30 juin 2019 ([RO 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)) et du 10 juin 2019 jusqu’au 30 juin 2021 ([RO 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)).
+[^33-1]: Prorogée par les D du Conseil international des céréales des 13/14 juin 2005 jusqu’au 30 juin 2007 ([RO 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)), du 11 juin 2007 jusqu’au 30 juin 2009 ([RO 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)), du 8 juin 2009 jusqu’au 30 juin 2011 ([RO 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)), du 6 juin 2011 jusqu’au 30 juin 2013 ([RO 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)), des 10/11 juin 2013 jusqu’au 30 juin 2015 ([RO 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)), du 8 juin 2015 jusqu’au 30 juin 2017 ([RO 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)), du 5 juin 2017 jusqu’au 30 juin 2019 ([RO 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)), du 10 juin 2019 jusqu’au 30 juin 2021 ([RO 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)) et du 7 juin 2021 jusqu’au 30 juin 2023 ([RO 2021 557](https://fedlex.data.admin.ch/eli/oc/2021/557)).
 
 #### Art. 34
 

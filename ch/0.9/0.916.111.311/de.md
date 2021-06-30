@@ -3,11 +3,11 @@ sr: "0.916.111.311"
 title: Internationales Getreideabkommen von 1995
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642"
 language: de
-version: 2019-07-01
+version: 2021-07-01
 adopted: 1994-12-05
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20190701/de/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20190701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2642_2642_2642/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1996-2642_2642_2642-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2642_2642_2642/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **1996** 2642; BBl **1995** IV 1732
 
 Übersetzung
 
-(Stand am 1. Juli 2019)
+(Stand am 1. Juli 2021)
 
 *Präambel*
 
@@ -28,16 +28,16 @@ in der Erwägung, dass das Internationale Weizen-Übereinkommen von 1949[^ingres
 
 in der Erwägung, dass das Internationale Weizen-Abkommen von 1986, bestehend aus dem Weizenhandels-Übereinkommen von 1986[^ingress-3] einerseits und dem Nahrungsmittelhilfe-Übereinkommen von 1986[^ingress-4] andererseits, in der verlängerten Fassung, am 30. Juni 1995 ausser Kraft treten wird und dass es wünschenswert ist, eine Übereinkunft für einen neuen Zeitabschnitt zu schliessen –
 
-sind übereingekommen, dass das Internationale Weizen-Abkommen von 1986 auf den neuesten Stand gebracht und in Internationales Getreide-Abkommen von 1995 umbenannt wird, bestehend aus zwei getrennten Rechtsinstrumenten, nämlich
+sind übereingekommen, dass das Internationale Weizen-Abkommen von 1986 auf den neuesten Stand gebracht und in Internationales Getreide-Abkommen von 1995 umbenannt wird, bestehend aus zwei getrennten Rechtsinstrumenten, nämlich:
 
 - a) dem Getreidehandels-Übereinkommen von 1995 und
 - b) dem Nahrungsmittelhilfe-Übereinkommen von 1995,
 
 und dass jedes dieser beiden Übereinkommen oder gegebenenfalls eines von ihnen den beteiligten Regierungen zur Unterzeichnung und Ratifikation, Annahme oder Genehmigung nach Massgabe ihrer verfassungsrechtlichen oder institutionellen Verfahren vorgelegt wird.
 
-[^ingress-1]: [[AS 1949 1624](https://fedlex.data.admin.ch/eli/oc/1949/1624_1725_1656)], [[AS 1953 767](https://fedlex.data.admin.ch/eli/oc/1953/767_781_611)], [[AS 1957 535](https://fedlex.data.admin.ch/eli/oc/1957/535_534_553)], [[AS 1959 644](https://fedlex.data.admin.ch/eli/oc/1959/644_666_646)], [[AS 1963 70](https://fedlex.data.admin.ch/eli/oc/1963/70_66_71)], [AS **1968** 640], [[AS 1972 487](https://fedlex.data.admin.ch/eli/oc/1972/487_495_419)]
+[^ingress-1]: [[AS 1949 1624](https://fedlex.data.admin.ch/eli/oc/1949/1624_1725_1656)]; [[AS 1953 767](https://fedlex.data.admin.ch/eli/oc/1953/767_781_611)]; [[AS 1957 535](https://fedlex.data.admin.ch/eli/oc/1957/535_534_553)]; [[AS 1959 644](https://fedlex.data.admin.ch/eli/oc/1959/644_666_646)]; [[AS 1963 70](https://fedlex.data.admin.ch/eli/oc/1963/70_66_71)]; [AS **1968** 640]; [[AS 1972 487](https://fedlex.data.admin.ch/eli/oc/1972/487_495_419)]
 [^ingress-2]: [**1987** 1361]
-[^ingress-3]: [AS **1987** 1362, [1994 357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357)]
+[^ingress-3]: [AS **1987** 1362; [1994 357](https://fedlex.data.admin.ch/eli/oc/1994/357_357_357)]
 [^ingress-4]: [[AS 1986 2049](https://fedlex.data.admin.ch/eli/oc/1986/2049_2049_2049)]
 
 ## Getreidehandels-Übereinkommen von 1995
@@ -471,7 +471,7 @@ Stellt der Rat fest, dass ein Mitglied seine Verpflichtungen aus diesem Überein
 
 <sup>(5)</sup> Der Rat notifiziert dem Depositar alle nach Absatz 2 oder 3 getroffenen Massnahmen.
 
-[^33-1]: Verlängert durch den Beschluss des Internationalen Getreiderats vom 13./14. Juni 2005 ([AS 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)) bis zum 30. Juni 2007, durch den Beschluss vom 11. Juni 2007 ([AS 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)) bis zum 30. Juni 2009, durch den Beschluss vom 8. Juni 2009 ([AS 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)) bis zum 30. Juni 2011, durch den Beschluss vom 6. Juni 2011 ([AS 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)) bis zum 30. Juni 2013, durch den Beschluss vom 10./11. Juni 2013 ([AS 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)) bis zum 30. Juni 2015, durch den Beschluss vom 8. Juni 2015 ([AS 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)) bis zum 30. Juni 2017, durch den Beschluss vom 5. Juni 2017 ([AS 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)) bis zum 30. Juni 2019 und durch den Beschluss vom 10. Juni 2019 ([AS 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)) bis zum 30. Juni 2021.
+[^33-1]: Verlängert durch den Beschluss des Internationalen Getreiderats vom 13./14. Juni 2005 ([AS 2005 2597](https://fedlex.data.admin.ch/eli/oc/2005/446)) bis zum 30. Juni 2007, durch den Beschluss vom 11. Juni 2007 ([AS 2007 3349](https://fedlex.data.admin.ch/eli/oc/2007/406)) bis zum 30. Juni 2009, durch den Beschluss vom 8. Juni 2009 ([AS 2009 5385](https://fedlex.data.admin.ch/eli/oc/2009/647)) bis zum 30. Juni 2011, durch den Beschluss vom 6. Juni 2011 ([AS 2011 3313](https://fedlex.data.admin.ch/eli/oc/2011/444)) bis zum 30. Juni 2013, durch den Beschluss vom 10./11. Juni 2013 ([AS 2013 2313](https://fedlex.data.admin.ch/eli/oc/2013/483)) bis zum 30. Juni 2015, durch den Beschluss vom 8. Juni 2015 ([AS 2015 2577](https://fedlex.data.admin.ch/eli/oc/2015/486)) bis zum 30. Juni 2017, durch den Beschluss vom 5. Juni 2017 ([AS 2017 3965](https://fedlex.data.admin.ch/eli/oc/2017/468)) bis zum 30. Juni 2019, durch den Beschluss vom 10. Juni 2019 ([AS 2019 3525](https://fedlex.data.admin.ch/eli/oc/2019/647)) bis zum 30. Juni 2021 und durch den Beschluss vom 7. Juni 2021 ([AS 2021 557](https://fedlex.data.admin.ch/eli/oc/2021/557)) bis zum 30. Juni 2023.
 
 #### Art. 34
 
