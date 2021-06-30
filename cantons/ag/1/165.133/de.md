@@ -4,13 +4,13 @@ number: "165.133"
 title: Verordnung zum Einreihungsplan
 short: VEP
 language: de
-version: 2018-01-01
-valid_until: 2021-06-30
-version_adopted: 2017-09-27
+version: 2021-07-01
+valid_until: 2025-02-28
+version_adopted: 2021-05-26
 adopted: 2011-06-08
 in_force: 2011-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.133"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2521/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3074/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2521/pdf_file"
 
 (VEP)
 
-Vom 08.06.2011 (Stand 01.01.2018)
+Vom 08.06.2011 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -49,7 +49,7 @@ beschliesst:
   - 11\. Unterabteilungsleiter(in) — Lohnstufe 16-18
   - 12\. Abteilungsleiter(in) — Lohnstufe 17-20
   - 13\. Generalsekretär(in) — Lohnstufe 20-20
-  - 14\. Staatsschreiber(in) — Lohnstufe 22-22
+  - 14\. Staatsschreiber(in) — Lohnstufe 21-21
 - b) Leitungsfunktionen auf der Sekundarstufe II und an höheren Fachschulen
   - 1\. Prorektor(in) — Lohnstufe 17-17
   - 2\. Rektor(in) — Lohnstufe 18-18
