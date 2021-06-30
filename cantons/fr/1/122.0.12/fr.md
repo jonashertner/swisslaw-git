@@ -4,13 +4,13 @@ number: "122.0.12"
 title: "Ordonnance fixant les attributions des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 short: OADir
 language: fr
-version: 2019-04-01
-valid_until: 2021-06-30
-version_adopted: 2019-04-02
+version: 2021-07-01
+valid_until: 2022-01-31
+version_adopted: 2021-06-28
 adopted: 2002-03-12
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6027/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6883/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Attributions des Directions et de la Chancellerie – O
 
 (OADir)
 
-du 12.03.2002 (version entrée en vigueur le 01.04.2019)
+du 12.03.2002 (version entrée en vigueur le 01.07.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -181,7 +181,7 @@ Arrête:
 - j) les assurances patrimoniales de l'Etat;
 - k) le cadastre;
 - l) le registre foncier;
-- m) l'informatique;
+- m) la digitalisation et les systèmes d'information de l'Etat;
 - n) le contentieux relatif aux encaissements;
 - o) les règles d'organisation et de gestion de l'administration;
 - p) les relations avec la Société de la Loterie de la Suisse romande;

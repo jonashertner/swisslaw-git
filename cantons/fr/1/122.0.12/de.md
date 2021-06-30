@@ -4,13 +4,13 @@ number: "122.0.12"
 title: Verordnung über die Zuständigkeitsbereiche der Direktionen des Staatsrats und der Staatskanzlei
 short: ZDirV
 language: de
-version: 2019-04-01
-valid_until: 2021-06-30
-version_adopted: 2019-04-02
+version: 2021-07-01
+valid_until: 2022-01-31
+version_adopted: 2021-06-28
 adopted: 2002-03-12
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6027/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6883/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Zuständigkeitsbereiche der Direktionen und der Staatskanzlei – V
 
 (ZDirV)
 
-vom 12.03.2002 (Fassung in Kraft getreten am 01.04.2019)
+vom 12.03.2002 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -181,7 +181,7 @@ beschliesst:
 - j) die Versicherung der Vermögenswerte des Staates;
 - k) die Katastervermessung;
 - l) das Grundbuch;
-- m) die Informatik;
+- m) die Digitalisierung und die Informationssysteme des Staates;
 - n) die Eintreibung von Forderungen des Staates;
 - o) die Grundsätze für die Organisation und Führung der Verwaltung;
 - p) die Beziehungen zur Gesellschaft der Loterie de la Suisse Romande;
