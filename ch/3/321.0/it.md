@@ -4,18 +4,18 @@ title: Codice penale militare del 13 giugno 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: it
-version: 2020-07-01
+version: 2021-07-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20200701/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20210701/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale militare
 
-del 13 giugno 1927 (Stato 1° luglio 2020)
+del 13 giugno 1927 (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -427,10 +427,11 @@ Si tiene conto delle speciali relazioni, qualità e circostanze personali che ag
 Il capoverso 1 non si applica se il giudice accerta che:
 
 - a. la testimonianza è necessaria per preservare da un pericolo imminente la vita o l’integrità fisica di una persona; oppure
-- b. senza testimonianza non è possibile far luce su un omicidio ai sensi degli articoli 115–117 o su un altro crimine punito con una pena detentiva non inferiore a tre anni oppure su un reato ai sensi degli articoli 141–143*a* e 153–156 del presente Codice, degli articoli 197 numero 3, 260<sup>ter</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>septies</sup> del Codice penale svizzero[^27a-1], come pure ai sensi dell’articolo 19 numero 2 della legge del 3 ottobre 1951[^27a-2] sugli stupefacenti, o non è possibile catturare il colpevole di un simile reato.
+- b.[^27a-1] senza testimonianza non è possibile far luce su un omicidio ai sensi degli articoli 115–117 o su un altro crimine punito con una pena detentiva non inferiore a tre anni oppure su un reato ai sensi degli articoli 141–143*a* e 153–156 del presente Codice, degli articoli 197 numero 3, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>septies</sup> del Codice penale svizzero[^27a-2], o ai sensi dell’articolo 19 numero 2 della legge del 3 ottobre 1951[^27a-3] sugli stupefacenti, o non è possibile catturare il colpevole di un simile reato.
 
-[^27a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^27a-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^27a-1]: Nuovo testo giusta l’all. n. II 4 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^27a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27a-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 ### Capo terzo: Delle pene e delle misure
 
@@ -1022,7 +1023,7 @@ Lʼautore può chiedere allʼautorità competente di ridurre la durata o attenua
 
 [^50c-1]: Introdotto dal n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^50c-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^50c-3]: Abrogata dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), con effetto dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); FF **20****16** 5509).
+[^50c-3]: Abrogata dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), con effetto dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50c-4]: Nuovo testo giusta il n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50c-5]: Introdotto dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50c-6]: Introdotto dal n. I 2 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
@@ -1103,13 +1104,16 @@ Se l’autore ha utilizzato un veicolo a motore per commettere un crimine o un d
 
 <sup>3</sup> In vista dell’esecuzione del risarcimento, l’autorità inquirente può sottoporre a sequestro valori patrimoniali dell’interessato. Il sequestro non fonda alcuna pretesa privilegiata in favore dello Stato nell’ambito dell’esecuzione forzata.
 
-### Confisca di valori patrimoniali di un’organizzazione criminale
+### Confisca di valori patrimoniali di un’organizzazione criminale o terroristica
 
 #### Art. 52
 
-Il giudice ordina la confisca di tutti i valori patrimoniali di cui un’organizzazione criminale ha facoltà di disporre. I valori appartenenti a una persona che abbia partecipato a un’organizzazione criminale o l’abbia sostenuta (art. 260<sup>ter</sup> del Codice penale svizzero[^52-1]) sono presunti sottoposti, fino a prova del contrario, alla facoltà di disporre dell’organizzazione.
+[^52-1]
 
-[^52-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Il giudice ordina la confisca di tutti i valori patrimoniali di cui un’organizzazione criminale o terroristica ha facoltà di disporre. I valori appartenenti a una persona che abbia partecipato a una simile organizzazione o l’abbia sostenuta (art. 260<sup>ter</sup> del Codice penale svizzero[^52-2]) sono presunti sottoposti, fino a prova del contrario, alla facoltà di disporre dell’organizzazione.
+
+[^52-1]: Nuovo testo giusta l’all. n. II 4 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^52-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### 6. Assegnamenti al danneggiato
 
@@ -1621,7 +1625,7 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 
 <sup>5</sup> È fatto salvo l’articolo 84.[^82-5]
 
-[^82-1]: Nuovo testo giusta giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
+[^82-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^82-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^82-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
 [^82-4]: Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).

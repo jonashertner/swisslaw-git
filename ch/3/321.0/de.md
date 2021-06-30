@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2020-07-01
+version: 2021-07-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20200701/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20210701/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20200701/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 1. Juli 2020)
+vom 13. Juni 1927 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -431,10 +431,11 @@ Besondere persönliche Verhältnisse, Eigenschaften und Umstände, welche die St
 Absatz 1 gilt nicht, wenn das Gericht feststellt, dass:
 
 - a. das Zeugnis erforderlich ist, um eine Person aus einer unmittelbaren Gefahr für Leib und Leben zu retten; oder
-- b. ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel 115‑117 des vorliegenden Gesetzes oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 141–143*a* und 153–156 dieses Gesetzes, nach den Artikeln 197 Ziffer 3, 260<sup>ter</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>septies</sup> des Strafgesetzbuches[^27a-1] sowie nach Artikel 19 Ziffer 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^27a-2] nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.
+- b.[^27a-1] ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel 115–117 des vorliegenden Gesetzes oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 141–143*a* und 153–156 dieses Gesetzes, nach den Artikeln 197 Ziffer 3, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>septies</sup> des Strafgesetzbuches[^27a-2] oder nach Artikel 19 Ziffer 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^27a-3] nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.
 
-[^27a-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^27a-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^27a-1]: Fassung gemäss Anhang Ziff. II 4 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^27a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27a-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 ### Dritter Titel: Strafen und Massnahmen
 
@@ -486,11 +487,11 @@ Absatz 1 gilt nicht, wenn das Gericht feststellt, dass:
 
 <sup>2</sup> Wurde die Geldstrafe durch eine Verwaltungsbehörde verhängt, so entscheidet das Gericht über die Ersatzfreiheitsstrafe.
 
-<sup>3–5</sup> …[^30-1]
+<sup>3–5</sup> ...[^30-1]
 
 [^30-1]: Aufgehoben durch Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), mit Wirkung seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### 2. …
+### 2. ...
 
 #### Art. 31–33
 
@@ -912,7 +913,7 @@ Das Gericht kann in besonders leichten Fällen ausnahmsweise von der Anordnung e
 
 <sup>6</sup> Das Gericht kann für die Dauer der Verbote Bewährungshilfe anordnen.[^50-9]
 
-<sup>7</sup> …[^50-10]
+<sup>7</sup> ...[^50-10]
 
 [^50-1]: Fassung gemäss Ziff. I 2 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^50-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -1011,7 +1012,7 @@ Der Täter kann bei der zuständigen Behörde um eine inhaltliche oder zeitliche
 
 - a. bei einem Verbot nach Artikel 50 Absatz 1 oder nach Artikel 50*b*: nach zwei Jahren des Vollzugs;
 - b. bei einem befristeten Verbot nach Artikel 50 Absatz 2: nach der Hälfte der Verbotsdauer, jedoch frühestens nach drei Jahren des Vollzugs;
-- c.[^50c-3] …
+- c.[^50c-3] ...
 - d.[^50c-4] bei einem lebenslänglichen Verbot nach Artikel 50 Absatz 2<sup>bis</sup>: nach zehn Jahren des Vollzugs.
 
 <sup>6</sup> Ist nicht mehr zu befürchten, dass der Täter eine Tätigkeit zur Begehung weiterer Verbrechen oder Vergehen missbraucht oder bei einem Kontakt zu bestimmten Personen oder Personen einer bestimmten Gruppe weitere Verbrechen oder Vergehen begeht, und hat er den von ihm verursachten Schaden soweit zumutbar ersetzt, so hebt die zuständige Behörde das Verbot in den Fällen nach Absatz 4 oder 5 auf.
@@ -1108,13 +1109,16 @@ Hat der Täter ein Motorfahrzeug zur Begehung eines Verbrechens oder Vergehens v
 
 <sup>3</sup> Die Untersuchungsbehörde kann im Hinblick auf die Durchsetzung der Ersatzforderung Vermögenswerte des Betroffenen mit Beschlag belegen. Die Beschlagnahme begründet bei der Zwangsvollstreckung der Ersatzforderung kein Vorzugsrecht zu Gunsten des Staates.
 
-### Einziehung von Vermögenswerten einer kriminellen Organisation
+### Einziehung von Vermögenswerten einer kriminellen oder terroristischen Organisation
 
 #### Art. 52
 
-Das Gericht verfügt die Einziehung aller Vermögenswerte, welche der Verfügungsmacht einer kriminellen Organisation unterliegen. Bei Vermögenswerten einer Person, die sich an einer kriminellen Organisation beteiligt oder sie unterstützt hat (Art. 260<sup>ter</sup> des Strafgesetzbuches[^52-1]), wird die Verfügungsmacht der Organisation bis zum Beweis des Gegenteils vermutet.
+[^52-1]
 
-[^52-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Das Gericht verfügt die Einziehung aller Vermögenswerte, welche der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen. Bei Vermögenswerten einer Person, die sich an einer solchen Organisation beteiligt oder sie unterstützt hat (Art. 260<sup>ter</sup> des Strafgesetzbuches[^52-2]), wird die Verfügungsmacht der Organisation bis zum Beweis des Gegenteils vermutet.
+
+[^52-1]: Fassung gemäss Anhang Ziff. II 4 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^52-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### 6. Verwendung zu Gunsten des Geschädigten
 
@@ -2310,7 +2314,7 @@ Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern Voraussetzu
 
 <sup>1</sup> Handelt der Täter besonders skrupellos, sind namentlich sein Beweggrund, der Zweck der Tat oder die Art der Ausführung besonders verwerflich, so ist die Strafe lebenslängliche Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.[^116-1]
 
-<sup>2</sup> …[^116-2]
+<sup>2</sup> ...[^116-2]
 
 [^116-1]: Fassung gemäss Ziff. II des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^116-2]: Aufgehoben durch Ziff. I des BG vom 20. März 1992, mit Wirkung seit 1. Sept. 1992 ([AS 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [BBl 1991 II 1462](https://fedlex.data.admin.ch/eli/fga/1991/2_1462__), IV 184).
@@ -2379,7 +2383,7 @@ wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.[^121-2]
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> und 3. …[^122-1]
+<sup>2.</sup> und 3. ...[^122-1]
 
 [^122-1]: Aufgehoben durch Ziff. II des BG vom 23. Juni 1989, mit Wirkung seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2397,7 +2401,7 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> …[^124-1]
+<sup>2.</sup> ...[^124-1]
 
 [^124-1]: Aufgehoben durch Ziff. I des BG vom 5. Okt. 1967, mit Wirkung seit 1. März 1968 ([AS 1968 212](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [BBl 1967 I 581](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
 
@@ -2586,7 +2590,7 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 <sup>3</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>4</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. …[^135-2]
+<sup>4</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. ...[^135-2]
 
 [^135-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^135-2]: Satz aufgehoben durch Ziff. II 1 Abs. 25 des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
@@ -2621,7 +2625,7 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 [^137a-1]
 
-<sup>1.</sup> Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Gewalt oder Androhung ernstlicher Nachteile zu einem Verhalten bestimmt, wodurch dieser sich selber oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft. …[^137a-2]
+<sup>1.</sup> Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Gewalt oder Androhung ernstlicher Nachteile zu einem Verhalten bestimmt, wodurch dieser sich selber oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft. ...[^137a-2]
 
 <sup>2.</sup> Handelt der Täter gewerbsmässig oder erpresst er die gleiche Person fortgesetzt, so wird er mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.[^137a-3]
 
@@ -2647,7 +2651,7 @@ Ist die Vortat ein Antragsdelikt, so wird die Hehlerei nur verfolgt, wenn ein An
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. …[^137b-2]
+<sup>2.</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. ...[^137b-2]
 
 [^137b-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^137b-2]: Satz aufgehoben durch Ziff. II 1 Abs. 25 des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
@@ -2756,7 +2760,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^143-2]
 
 <sup>1</sup> Wer bei Besorgung der militärischen Verwaltung, insbesondere bei der Berechnung, Austeilung oder sonstigen Verwendung von Sold, Lebens- oder Futtermitteln, Munition oder andern Gegenständen des militärischen Bedarfs, die ihm anvertrauten Interessen schädigt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2</sup> Handelt der Täter aus Gewinnsucht, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^144-1]
+<sup>2</sup> Handelt der Täter aus Gewinnsucht, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. ...[^144-1]
 
 <sup>3</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
@@ -2802,7 +2806,7 @@ wird auf Antrag des Verletzten oder der zur Erteilung des Befehles zur Anhebung 
 
 <sup>6.</sup> Hat der Beschuldigte den Wahrheitsbeweis nicht erbracht, oder sind seine Äusserungen unwahr oder nimmt der Beschuldigte sie zurück, so hat der Richter dies im Urteil oder in einer andern Urkunde festzustellen.
 
-<sup>7.</sup> …[^145-3]
+<sup>7.</sup> ...[^145-3]
 
 [^145-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
 [^145-2]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -2826,7 +2830,7 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.[^146-2]
 
 <sup>3.</sup> Zieht der Täter seine Äusserungen vor dem Richter als unwahr zurück, so kann er milder bestraft werden. Der Richter stellt dem Verletzten über den Rückzug eine Urkunde aus.
 
-<sup>4.</sup> …[^146-4]
+<sup>4.</sup> ...[^146-4]
 
 [^146-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
 [^146-2]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
@@ -2857,7 +2861,7 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 Ist die Beschimpfung unmittelbar mit einer Beschimpfung oder Tätlichkeit erwidert worden, so kann der Richter einen Täter oder beide von Strafe befreien.
 
-<sup>3.</sup> …[^148-2]
+<sup>3.</sup> ...[^148-2]
 
 [^148-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
 [^148-2]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
@@ -3050,9 +3054,9 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 <sup>4.</sup> Handelte der Täter in der irrigen Vorstellung, das Kind sei mindestens 16 Jahre alt, hätte er jedoch bei pflichtgemässer Vorsicht den Irrtum vermeiden können, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>5.</sup> …[^156-2]
+<sup>5.</sup> ...[^156-2]
 
-<sup>6.</sup> …[^156-3]
+<sup>6.</sup> ...[^156-3]
 
 [^156-1]: Fassung gemäss Anhang Ziff. 22 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^156-2]: Aufgehoben durch Ziff. II des BG vom 21. März 1997, mit Wirkung seit 1. Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
@@ -4227,7 +4231,7 @@ Bei Urteilen nach dem Militärstrafgesetz wird das Recht der Begnadigung ausgeü
 
 <sup>3</sup> Die Begnadigungsbehörde kann bestimmen, dass ein abgelehntes Begnadigungsgesuch vor Ablauf eines gewissen Zeitraumes nicht erneuert werden darf.
 
-<sup>4</sup> …[^232c-2]
+<sup>4</sup> ...[^232c-2]
 
 [^232c-1]: Fassung gemäss Anhang Ziff. 22 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^232c-2]: Aufgehoben durch Ziff. I des BG vom 20. März 1992, mit Wirkung seit 1. Sept. 1992 ([AS 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [BBl 1991 II 1462](https://fedlex.data.admin.ch/eli/fga/1991/2_1462__), IV 184).

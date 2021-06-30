@@ -4,11 +4,11 @@ title: Code pénal militaire du 13 juin 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: fr
-version: 2020-07-01
+version: 2021-07-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20200701/fr"
 
 (CPM)
 
-du 13 juin 1927 (Etat le 1<sup>er</sup> juillet 2020)
+du 13 juin 1927 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -433,10 +433,11 @@ Les relations, qualités et circonstances personnelles particulières qui aggrav
 L’al. 1 n’est pas applicable si le juge constate que:
 
 - a. le témoignage est nécessaire pour prévenir une atteinte imminente à la vie ou à l’intégrité corporelle d’une personne, ou que
-- b. à défaut du témoignage, un homicide au sens des art. 115 à 117 du présent code ou un autre crime réprimé par une peine privative de liberté de trois ans au moins ou encore un délit au sens des art. 141 à 143*a* et 153 à 156 du présent code, des art. 197, ch. 3, 260<sup>ter</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> et 322<sup>septies</sup> CP[^27a-1], et de l’art. 19, ch. 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup**)**[^27a-2] ne peuvent être élucidés ou que la personne inculpée d’un tel acte ne peut être arrêtée.
+- b.[^27a-1] à défaut du témoignage, un homicide au sens des art. 115 à 117 du présent code ou un autre crime réprimé par une peine privative de liberté de trois ans au moins ou encore un délit au sens des art. 141 à 143*a* et 153 à 156 du présent code, des art. 197, ch. 3, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> et 322<sup>septies</sup> du CP[^27a-2] ou de l’art. 19, ch. 2, de la loi du 3 octobre 1951 sur les stupéfiants (LStup)[^27a-3] ne peuvent être élucidés ou que la personne inculpée d’un tel acte ne peut être arrêtée.
 
-[^27a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^27a-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^27a-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^27a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27a-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 ### Titre 3 Peines et mesures
 
@@ -1104,13 +1105,16 @@ Si l’auteur a utilisé un véhicule automobile pour commettre un crime ou un d
 
 <sup>3</sup> L’autorité d’instruction peut placer sous séquestre, en vue de l’exécution d’une créance compensatrice, des valeurs patrimoniales appartenant à la personne concernée. Le séquestre ne crée pas de droit de préférence en faveur de l’État lors de l’exécution forcée de la créance compensatrice.
 
-### Confiscation de valeurs patrimoniales d’une organisation criminelle
+### Confiscation de valeurs patrimoniales d’une organisation criminelle ou terroriste
 
 #### Art. 52
 
-Le juge prononce la confiscation de toutes les valeurs patrimoniales sur lesquelles une organisation criminelle exerce un pouvoir de disposition. Les valeurs appartenant à une personne qui a participé ou apporté son soutien à une organisation criminelle (art. 260<sup>ter</sup> CP[^52-1]) sont présumées soumises, jusqu’à preuve du contraire, au pouvoir de disposition de l’organisation.
+[^52-1]
 
-[^52-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Le juge prononce la confiscation de toutes les valeurs patrimoniales sur lesquelles une organisation criminelle ou terroriste exerce un pouvoir de disposition. Les valeurs appartenant à une personne qui a participé ou apporté son soutien à une telle organisation (art. 260<sup>ter</sup> CP[^52-2]) sont présumées soumises, jusqu’à preuve du contraire, au pouvoir de disposition de l’organisation.
+
+[^52-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^52-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### 6. Allocation au lésé
 
@@ -4349,5 +4353,3 @@ Le présent code entrera en vigueur le 1<sup>er</sup> janvier 1928.
 [^u3-1]: [RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)
 
 Il ne peut y avoir de sursis à l’exécution d’une peine (art. 36, al. 1) qu’en cas de circonstances particulièrement favorables si, durant les cinq ans qui précèdent l’infraction, l’auteur a été condamné à une peine pécuniaire de plus de 180 jours-amende en vertu de l’ancien droit.
-
-## Table des matières
