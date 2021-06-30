@@ -3,20 +3,20 @@ canton: AG
 number: "755.111"
 title: "Verordnung über die Steuern, Abgaben und Gebühren im Strassenverkehr"
 language: de
-version: 2015-03-01
-valid_until: 2021-06-30
-version_adopted: 2015-01-21
+version: 2021-07-01
+valid_until: 2024-06-30
+version_adopted: 2021-05-26
 adopted: 1984-11-05
 in_force: 1985-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/755.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2073/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2999/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Steuern, Abgaben und Gebühren im Strassenverkehr
 
-Vom 05.11.1984 (Stand 01.03.2015)
+Vom 05.11.1984 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -466,11 +466,7 @@ beschliesst:
 
 #### § 32
 
-**Verkehrsgutachten**
-
-<sup>1</sup> Die Kosten der Polizei für Verkehrsgutachten werden nach dem Aufwand berechnet. Die Berechnung erfolgt nach dem Stundenansatz gemäss § 2d Abs. 1 der Verordnung über die von der Kantonspolizei zu beziehenden Gebühren vom 24. April 1996[^32-1].
-
-[^32-1]: SAR [661.135](https://gesetzessammlungen.ag.ch/data/661.135/de)
+**…**
 
 #### § 32a
 
