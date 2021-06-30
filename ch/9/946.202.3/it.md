@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2020 sull'esportazione e l'intermediazione di 
 short: OICoM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1039"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1039/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1039-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1039/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1039/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-1039-20210701-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1039/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1039/20210101/it"
 
 (OICoM)
 
-del 25 novembre 2020 (Stato 1° gennaio 2021)
+del 25 novembre 2020 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -66,11 +66,9 @@ L’autorizzazione è rifiutata:
 
 **Rapporto con l’ordinanza sul controllo dei beni a duplice impiego**
 
-## In tutti gli altri casi l’esportazione e la mediazione di beni avvengono secondo quanto disposto dall’OBDI.
+In tutti gli altri casi l’esportazione e la mediazione di beni avvengono secondo quanto disposto dall’OBDI[^5-1].
 
-[^lvlIn-1]
-
-[^lvlIn-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+[^5-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 
 #### Art. 6
 
@@ -86,7 +84,7 @@ Il DEFR adegua l’allegato della presente ordinanza qualora negli allegati dell
 
 L’ordinanza del 13 maggio 2015[^7-1] sull’esportazione e l’intermediazione di beni per la sorveglianza di Internet e delle comunicazioni mobili è abrogata.
 
-[^7-1]: ][RU 2015 1527](https://fedlex.data.admin.ch/eli/oc/2015/302), [2019 1291](https://fedlex.data.admin.ch/eli/oc/2019/244), [2020 827](https://fedlex.data.admin.ch/eli/oc/2020/152)]
+[^7-1]: [[RU 2015 1527](https://fedlex.data.admin.ch/eli/oc/2015/302), [2019 1291](https://fedlex.data.admin.ch/eli/oc/2019/244), [2020 827](https://fedlex.data.admin.ch/eli/oc/2020/152)]
 
 #### Art. 8
 
@@ -94,19 +92,27 @@ L’ordinanza del 13 maggio 2015[^7-1] sull’esportazione e l’intermediazione
 
 La presente ordinanza entra in vigore il 1° gennaio 2021.
 
-Allegato
+Allegato[^t-1]
 
 (art. 1 e 6)
 
 ## Beni per la sorveglianza di Internet e delle comunicazioni mobili
 
-Con il termine beni per la sorveglianza di Internet e delle comunicazioni mobili si intendono le merci, le tecnologie e i software seguenti che figurano nell’allegato 2 OBDI[^annexu1-lvlu1-1] con i numeri di controllo delle esportazioni (ECN) sotto indicati[^annexu1-lvlu1-2]:
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 17 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 295](https://fedlex.data.admin.ch/eli/oc/2021/295)).
 
-- 1\. 4A005, 4D004, 4E001.c, 5A001.f, 5A001.j, 5A004;
-- 2\. 5D001, se riguarda il software relativo agli ECN 5A001.f e 5A001.j;
-- 3\. 5E001, se riguarda la tecnologia relativa agli ECN 5A001.f e 5A001.j;
-- 4\. 5D002, se riguarda il software relativo all’ECN 5A004;
-- 5\. 5E002, se riguarda la tecnologia relativa all’ECN 5A004.
+Con il termine beni per la sorveglianza di Internet e delle comunicazioni mobili si intendono le merci, le tecnologie e i prodotti di software seguenti che figurano nell’allegato 2 OBDI[^annexu1-lvlu1-1] con i numeri di controllo delle esportazioni (ECN) sotto indicati:
+
+- 1\. 4A005
+- 2\. 4D004
+- 3\. 4E001.a, se riguarda la tecnologia relativa all’ECN 4A005 o 4D004
+- 4\. 4E001.c
+- 5\. 5A001.f
+- 6\. 5A001.j
+- 7\. 5A004
+- 8\. 5D001, se riguarda il software relativo all’ECN 5A001.f o 5A001.j
+- 9\. 5D001.e
+- 10\. 5E001, se riguarda la tecnologia relativa all’ECN 5A001.f o 5A001.j
+- 11\. 5D002, se riguarda il software relativo all’ECN 5A004
+- 12\. 5E002, se riguarda la tecnologia relativa all’ECN 5A004
 
 [^annexu1-lvlu1-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^annexu1-lvlu1-2]: L’all. 2 OBDI non viene pubblicato né nella RU né nella RS (art. 29 OBDI). Può essere ordinato presso la SECO, settore Controlli all’esportazione/Prodotti industriali, Holzikofenweg 36, 3003 Berna, oppure consultato sul sito Internet www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali (dual-use) e beni militari speciali (Licensing) &gt; Legge e elenchi dei beni (Allegati).

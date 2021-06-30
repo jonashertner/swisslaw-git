@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 sur l'exportation et le courtage de biens
 short: OSIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1039"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2020-11-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1039/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1039-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1039/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1039/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1039-20210701-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1039/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1039/20210101/fr"
 
 (OSIC)
 
-du 25 novembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 novembre 2020 (État le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -92,19 +92,27 @@ L’ordonnance du 13 mai 2015 sur l’exportation et le courtage de biens destin
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2021.
 
-Annexe
+Annexe[^t-1]
 
 (art. 1 et 6)
 
 ## Biens destinés à la surveillance d’Internet et des communications mobiles
 
-Sont considérés comme des biens destinés à la surveillance d’Internet et des communications mobiles les marchandises, les technologies et les logiciels mentionnés à l’annexe 2 OCB[^annexu1-lvlu1-1] sous les numéros de contrôle à l’exportation (NCE) suivants[^annexu1-lvlu1-2]:
+[^t-1]: Nouvelle teneur selon le ch.I de l’O du DEFR du 17 mai 2021, en vigueur depuis le 1<sup>er</sup> juillet 2021 ([RO 2021 295](https://fedlex.data.admin.ch/eli/oc/2021/295)).
 
-- 1\. 4A005, 4D004, 4E001.c, 5A001.f, 5A001.j, 5A004;
-- 2\. 5D001, pour autant que les logiciels liés aux NCE 5A001.f et 5A001.j soient concernés;
-- 3\. 5E001, pour autant que les technologies liées aux NCE 5A001.f et 5A001.j soient concernées;
-- 4\. 5D002, pour autant que les logiciels liés au NCE 5A004 soient concernés;
-- 5\. 5E002, pour autant que les technologies liées au NCE 5A004 soient concernées.
+Sont considérés comme biens destinés à la surveillance d’Internet et des communications mobiles les marchandises, les technologies et les logiciels mentionnés à l’annexe 2 de l’OCB[^annexu1-lvlu1-1] sous les numéros de contrôle à l’exportation (NCE) suivants:
+
+- 1\. 4A005
+- 2\. 4D004
+- 3\. 4E001.a, pour autant que les technologies liées au NCE 4A005 ou 4D004 soient concernées
+- 4\. 4E001.c
+- 5\. 5A001.f
+- 6\. 5A001.j
+- 7\. 5A004
+- 8\. 5D001, pour autant que les logiciels liés au NCE 5A001.f ou 5A001.j soient concernés
+- 9\. 5D001.e
+- 10\. 5E001, pour autant que les technologies liées au NCE 5A001.f ou 5A001.j soient concernées
+- 11\. 5D002, pour autant que les logiciels liés au NCE 5A004 soient concernés
+- 12\. 5E002, pour autant que les technologies liées au NCE 5A004 soient concernées
 
 [^annexu1-lvlu1-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^annexu1-lvlu1-2]: L’annexe 2 OCB n’est publiée ni au RO ni au RS (art. 29 OCB). Elle peut être commandée au Secrétariat d’État à l’économie, secteur Contrôles à l’exportation/produits industriels, Holzikofenweg 36, 3003 Berne ou consultée sur Internet à l’adresse www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels (dual-use) et biens militaires spécifiques (Licensing) &gt; Bases légales et listes des biens (annexes).
