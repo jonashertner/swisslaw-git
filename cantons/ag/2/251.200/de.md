@@ -4,13 +4,13 @@ number: "251.200"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EG StPO
 language: de
-version: 2018-10-01
-valid_until: 2021-06-30
-version_adopted: 2018-03-20
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-08
 adopted: 2010-03-16
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/251.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2637/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2637/pdf_file"
 
 (EG StPO)
 
-Vom 16.03.2010 (Stand 01.10.2018)
+Vom 16.03.2010 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -229,6 +229,10 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat kann mit geeigneten Anstalten und Einrichtungen Verträge über den Vollzug von Strafen in der Form der Halbgefangenschaft und des Arbeits- und Wohnexternats sowie Massnahmen gemäss den Art. 59–61 und 63 StGB abschliessen. Er ordnet die Aufsicht über diese Anstalten und Einrichtungen gemäss Art. 379 StGB.
 
+<sup>4</sup> Zur Bewachung und Betreuung von Personen in den kantonalen Vollzugsanstalten können private Sicherheitsdienste beigezogen werden.
+
+<sup>5</sup> Private Sicherheitsdienste, die Aufgaben gemäss Absatz 4 wahrnehmen, unterstehen der Aufsicht und dem Weisungsrecht der Vollzugsbehörde gemäss § 14 Abs. 1 und sind von dieser auszubilden.
+
 ### 2.4. Aufsichtsbehörde
 
 #### § 17
@@ -307,13 +311,17 @@ beschliesst:
 
 #### § 24
 
-**Mitteilung an andere Behörden**
+**Mitteilung an andere Behörden und Dritte**
 
 <sup>1</sup> Die urteilende Behörde teilt rechtskräftige Entscheide, die gestützt auf die Strafbestimmungen in der Tier- und Umweltschutzgesetzgebung ergangen sind, den dafür zuständigen Vollzugsbehörden mit.
 
 <sup>2</sup> Sie teilt der zuständigen Behörde Entscheide betreffend Personen mit, die eine bewilligungsbedürftige Tätigkeit gemäss § 57 des Gesetzes über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz, PolG) vom 6. Dezember 2005[^24-1] ausüben.
 
+<sup>2<sup>bis</sup></sup> Die urteilende Behörde kann den rechtskräftigen Entscheid der sachverständigen Person zustellen, die im Rahmen des Verfahrens ein Gutachten gemäss den Art. 182–191 StPO erstattet hat.
+
 <sup>3</sup> Die Staatsanwaltschaften informieren andere Behörden über Strafverfahren und verfahrensabschliessende Entscheide, wenn diese für die Erfüllung ihrer Aufgaben darauf angewiesen sind und dieser Mitteilung kein überwiegendes privates Interesse entgegensteht.
+
+<sup>4</sup> Die Staatsanwaltschaften können medizinischen Hilfskräften, Ärzten und Spitälern Einsicht in Obduktionsgutachten gewähren, wenn sie die das Gutachten betreffende Person vor dem Tod medizinisch betreut haben.
 
 [^24-1]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
 
@@ -367,7 +375,8 @@ beschliesst:
 - b) Anordnung der nicht invasiven Probenahmen für die DNA-Analyse gemäss Art. 255 Abs. 2 lit. a StPO,
 - c) Anordnung des Erstellens eines DNA-Profils von Spuren gemäss Art. 255 Abs. 2 lit. b StPO,
 - d) Anordnung der Observation im Ermittlungsverfahren gemäss den Art. 282 f. StPO,
-- e) Führung einer verdeckt ermittelnden Person gemäss Art. 291 StPO.
+- e) …
+- f) Anordnung einer verdeckten Fahndung im Ermittlungsverfahren gemäss den Art. 298a–298d StPO.
 
 <sup>2</sup> Der Regierungsrat bezeichnet durch Verordnung die polizeilichen Kaderfunktionen, welchen die Zuständigkeiten gemäss Absatz 1 zukommen.
 
@@ -433,15 +442,61 @@ beschliesst:
 
 #### § 38
 
-**Bussenerhebung durch die Polizei**
+**…**
 
-<sup>1</sup> Der Regierungsrat kann durch Verordnung Polizeiorgane ermächtigen, bei bestimmten, geringfügigen Übertretungen von Polizeivorschriften eine Busse von maximal Fr. 300.– unter Einräumung einer Bedenkfrist zu verhängen oder, wenn die betroffene Person einverstanden ist, sofort gegen Quittung zu erheben.
+#### § 38a
 
-<sup>2</sup> Gemeinderäte können im Bereich der Strafbestimmungen von kommunalen Reglementen einen Bussenkatalog erlassen, der ihre Polizeiorgane ermächtigt, die festgesetzten Bussen unter Einräumung einer Bedenkfrist zu verhängen, oder, wenn die betroffene Person einverstanden ist, sofort gegen Quittung zu erheben. Die maximale Bussenhöhe beträgt Fr. 300.–.
+**Ordnungsbussenverfahren; Allgemeines**
 
-<sup>3</sup> Sind mehrere geringfügige Übertretungen gleichzeitig zu ahnden, beträgt die maximale Bussenhöhe für alle Übertretungen höchstens Fr. 600.–.
+<sup>1</sup> Die Durchführung des Ordnungsbussenverfahrens richtet sich nach den Bestimmungen des Ordnungsbussengesetzes (OBG) vom 18. März 2016[^38a-1].
 
-<sup>4</sup> Die Einleitung eines ordentlichen Strafverfahrens bleibt in allen Fällen vorbehalten.
+<sup>2</sup> Die Einleitung eines ordentlichen Strafverfahrens bleibt in allen Fällen vorbehalten.
+
+[^38a-1]: SR [314.1](https://db.clex.ch/link/Bund/314.1/de)
+
+#### § 38b
+
+**Übertretungstatbestände des Bundesrechts**
+
+<sup>1</sup> Der Regierungsrat legt durch Verordnung die Polizeiorgane und Behörden fest, die zur Erhebung von Ordnungsbussen für die bundesrechtlichen Übertretungstatbestände gemäss Art. 2 Abs. 1 OBG zuständig sind.
+
+<sup>2</sup> Er legt zudem durch Verordnung fest, unter welchen Voraussetzungen die Gemeinden private Sicherheitsdienste zur Erhebung von Ordnungsbussen im ruhenden Verkehr beiziehen können.
+
+#### § 38c
+
+**Übertretungstatbestände des kantonalen Rechts**
+
+<sup>1</sup> Mit Ordnungsbusse wird bestraft, wer eine Übertretung begeht, die
+
+- a) in einem der folgenden Gesetze aufgeführt ist:
+  - 1\. Gesundheitsgesetz (GesG) vom 20. Januar 2009[^38c-1],
+  - 2\. Hundegesetz (HuG) vom 15. März 2011[^38c-2],
+  - 3\. Gesetz über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz, PolG) vom 6. Dezember 2005[^38c-3],
+  - 4\. Gesetz über den vorbeugenden Brandschutz (Brandschutzgesetz) vom 21. Februar 1989[^38c-4],
+  - 5\. Gesetz über Raumentwicklung und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^38c-5],
+  - 6\. Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern (EG Umweltrecht, EG UWR) vom 4. September 2007[^38c-6],
+  - 7\. Gesetz über das Gastgewerbe und den Kleinhandel mit alkoholhaltigen Getränken (Gastgewerbegesetz, GGG) vom 25. November 1997[^38c-7].
+- b) in einem Dekret oder einer Verordnung aufgeführt ist, das beziehungsweise die sich auf ein Gesetz gemäss Absatz 1 lit. a Ziff. 1–7 stützt.
+
+<sup>2</sup> Der Regierungsrat legt durch Verordnung fest:
+
+- a) die zur Erhebung von Ordnungsbussen für die kantonalrechtlichen Übertretungstatbestände zuständigen Polizeiorgane und Behörden,
+- b) die kantonalrechtlichen Übertretungstatbestände, die gemäss Absatz 1 mit Ordnungsbusse zu belegen sind, und
+- c) die Bussenhöhe.
+
+[^38c-1]: SAR [301.100](https://gesetzessammlungen.ag.ch/data/301.100/de)
+[^38c-2]: SAR [393.400](https://gesetzessammlungen.ag.ch/data/393.400/de)
+[^38c-3]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
+[^38c-4]: SAR [585.100](https://gesetzessammlungen.ag.ch/data/585.100/de)
+[^38c-5]: SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
+[^38c-6]: SAR [781.200](https://gesetzessammlungen.ag.ch/data/781.200/de)
+[^38c-7]: SAR [970.100](https://gesetzessammlungen.ag.ch/data/970.100/de)
+
+#### § 38d
+
+**Übertretungstatbestände des kommunalen Rechts**
+
+<sup>1</sup> Die Gemeinderäte können im Bereich der Strafbestimmungen der kommunalen Reglemente einen Ordnungsbussenkatalog erlassen, der ihre Polizeiorgane ermächtigt, die festgesetzten Ordnungsbussen zu erheben.
 
 #### § 39
 
@@ -679,6 +734,20 @@ beschliesst:
 - c) sie ist Ansprechperson der beauftragten Person für Öffentlichkeit und Datenschutz.
 
 [^55c-1]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
+
+#### § 55d
+
+**Datenbearbeitungs- und Informationssysteme**
+
+<sup>1</sup> Die Strafverfolgungs- und Strafvollzugsbehörden sowie weitere beteiligte Behörden können Datenbearbeitungs- und Informationssysteme mit gemeinsamer Datenhaltung betreiben.
+
+<sup>2</sup> Die beteiligten Behörden können dabei Daten und Prozessinformationen, die sie zur Erfüllung ihrer Aufgaben benötigen, elektronisch austauschen.
+
+<sup>3</sup> Die Oberstaatsanwaltschaft trägt die Hauptverantwortung für den Datenschutz gemäss § 29 Abs. 2 IDAG.
+
+<sup>4</sup> Die Löschung der Daten, die sich auf Strafverfahren beziehen, erfolgt nach den Aktenaufbewahrungsvorschriften gemäss Art. 103 StPO.
+
+<sup>5</sup> Der Regierungsrat regelt Betrieb, Organisation, Datenbearbeitung, Datenzugriff und Aufbewahrung durch Verordnung.
 
 ## 13. Übergangs- und Schlussbestimmungen
 
