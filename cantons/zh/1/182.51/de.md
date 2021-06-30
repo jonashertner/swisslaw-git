@@ -3,11 +3,10 @@ canton: ZH
 number: "182.51"
 title: Reglement über Organisation und Verfahren der Rekurskommission der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2021-07-01
+version: "2021-07-01"
+nachtrag: "113"
 adopted: 2009-10-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_51-2009_10_01-2010_01_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_51-2009_10_01-2010_01_01-113.html"
 text: pdf
 ---
 
@@ -56,24 +55,24 @@ Die Synode beschliesst:
 
 <sup>2</sup> Sie gibt sich eine Geschäftsordnung.
 
-[^3-1]: Aufgehoben durch B vom 29. Juni 2017 (OS 72, 458; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-[^3-2]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 458; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
-
-#### § 5
-
 **Sekretariat (Art. 52 KO)**
 
-<sup>1</sup> Die Rekurskommission verfügt über ein Sekretariat.
+§ 5.[^3-3] <sup>1</sup> Die Rekurskommission kann ein juristisches Sekretariat bestellen.
 
-<sup>2</sup> Sie bestellt dieses mit mindestens einer Juristischen Sekretärin oder einem Juristischen Sekretär.
+<sup>2</sup> . . .[^3-4]
 
 <sup>3</sup> Die Juristische Sekretärin oder der Juristische Sekretär nimmt an den Verhandlungen der Rekurskommission mit beratender Stimme teil.
 
 **1**
 
-- 1\. 1. 18 - 99
+- 1\. 7. 21 - 113
 
 <sup>4</sup> Für sie oder ihn gelten die gleichen Unvereinbarkeits- und Ausstandsgründe wie für die Kommissionsmitglieder. Sie oder er darf in keinem anderen Anstellungsverhältnis zur katholischen Kirche im Kanton Zürich stehen.
+
+[^3-1]: Aufgehoben durch B vom 29. Juni 2017 (OS 72, 458; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^3-2]: Fassung gemäss B vom 29. Juni 2017 (OS 72, 458; ABl 2017-07-21). In Kraft seit 1. Januar 2018.
+[^3-3]: Fassung gemäss B vom 15. April 2021 (OS 76, 197; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
+[^3-4]: Aufgehoben durch B vom 15. April 2021 (OS 76, 197; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
 
 #### § 6
 
@@ -167,18 +166,12 @@ Der Sitz der Rekurskommission befindet sich in Zürich.
 
 **3**
 
-- 1\. 1. 18 - 99
+- 1\. 7. 21 - 113
 
 - 6\. Übergangsbestimmungen
 
-§ 17. Die im Zeitpunkt des Inkrafttretens hängigen Aufsichts- und Rechtsmittelverfahren führt die bisher zuständige Instanz zu Ende (§ 28 und 29 Abs. 2 VO zum KiG[^14-3] und zum GjG[^14-4].
+§ 17.[^14-3]
 
 [^14-1]: LS 180.11.
 [^14-2]: LS 184.1.
-[^14-3]: LS 180.1.
-[^14-4]: LS 182.10.
-
-## Weitere Fussnoten
-
-- [2] LS 131.1.
-- [3] LS 161.
+[^14-3]: Aufgehoben durch B vom 15. April 2021 (OS 76, 197; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
