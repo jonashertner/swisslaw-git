@@ -4,13 +4,12 @@ number: "251.300"
 title: Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung
 short: EG JStPO
 language: de
-version: 2017-03-01
-valid_until: 2021-06-30
-version_adopted: 2016-12-13
+version: 2021-07-01
+version_adopted: 2020-12-08
 adopted: 2010-03-16
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/251.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2361/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3618/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2361/pdf_file"
 
 (EG JStPO)
 
-Vom 16.03.2010 (Stand 01.03.2017)
+Vom 16.03.2010 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -220,6 +219,14 @@ beschliesst:
 <sup>1<sup>bis</sup></sup> Als Sicherungsmassnahme, namentlich bei Verdunklungsgefahr, kann vor Erlass des Disziplinarentscheids die Unterbringung in einem Einschliessungszimmer bis höchstens 24 Stunden angeordnet werden.
 
 <sup>2</sup> Arrest und Sicherungsmassnahme dürfen nur von der Leitung der Einrichtung oder der Anstalt beziehungsweise deren Stellvertretung angeordnet werden. Die Anordnung anderer Disziplinarstrafen oder -massnahmen kann an andere Mitarbeitende der Einrichtung oder der Anstalt delegiert werden.
+
+## 4<sup>bis</sup> Bearbeitung von Personendaten
+
+#### § 18a
+
+**Datenbearbeitungs- und Informationssysteme**
+
+<sup>1</sup> § 55d EG StPO gilt auch für die Jugendanwaltschaft.
 
 ## 5. Übergangs- und Schlussbestimmungen
 
