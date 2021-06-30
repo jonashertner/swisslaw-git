@@ -4,13 +4,13 @@ number: "162.110"
 title: Verordnung zum Personalgesetz
 short: VPG
 language: de
-version: 2021-04-01
-valid_until: 2021-06-30
-version_adopted: 2021-03-30
+version: 2021-07-01
+valid_until: 2024-12-31
+version_adopted: 2020-11-24
 adopted: 2000-06-27
 in_force: 2000-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5224/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,9 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5224/pdf_file"
 
 Verordnung zum Personalgesetz | Staatspersonal: Arbeitsverhältnis
 
-Vom 27. Juni 2000 (Stand 1. April 2021)
+(VPG)
+
+Vom 27. Juni 2000 (Stand 1. Juli 2021)
 
 Der Regierungsrat des Kantons Basel Stadt,
 
@@ -27,7 +29,7 @@ gestützt auf § 3 des Personalgesetzes vom 17. November 1999[^ingress-1],
 
 erlässt folgende Verordnung:
 
-[^ingress-1]: SG [162.100](https://www.gesetzessammlung.bs.ch/data/162.100/de).
+[^ingress-1]: SG [162.100](https://www.gesetzessammlung.bs.ch/data/162.100/de)
 
 ## A. Allgemeine Bestimmungen
 
@@ -39,6 +41,7 @@ erlässt folgende Verordnung:
 
 - a) Anstellung
 - b) Nebenämter
+- b<sup>bis</sup>) Rechte und Pflichten aus dem Arbeitsverhältnis
 - c) Massnahmen
 - d) Bewährungsfrist
 - d<sup>bis</sup>) Kündigung
@@ -122,6 +125,18 @@ erlässt folgende Verordnung:
 **Ansprüche bei Ausscheiden aus dem Nebenamt**
 
 <sup>1</sup> Mit dem Ausscheiden aus dem Nebenamt erlischt der Anspruch auf Leistungen des Kantons. Insbesondere besteht kein Anspruch auf eine Abfindung.
+
+## C<sup>bis</sup> Rechte und Pflichten aus dem Arbeitsverhältnis
+
+#### § 8a
+
+**Reduktion des Beschäftigungsgrads nach Geburt oder Adoption eines Kindes**
+
+<sup>1</sup> Mitarbeitende haben ab der Geburt oder Adoption eines Kindes auf Gesuch hin Anspruch auf eine Reduktion des Beschäftigungsgrads in ihrer Funktion um höchstens 20 Prozent. Der Beschäftigungsgrad darf dabei nicht unter 60 Prozent fallen. Eine allfällige Reduktion gemäss § 5 der Verordnung über den Schwangerschafts- und Mutterschaftsurlaub wird angerechnet. In gegenseitigem Einvernehmen kann eine weitergehende Reduktion vereinbart werden.
+
+<sup>2</sup> Der Anspruch auf Reduktion des Beschäftigungsgrads ist innerhalb von neun Monaten nach der Geburt oder der Adoption eines Kindes geltend zu machen.
+
+<sup>3</sup> Die Umsetzung erfolgt spätestens drei Monate nach Gesuchseingang per Anfang des darauffolgenden Monats.
 
 #### § 8b
 
