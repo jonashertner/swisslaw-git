@@ -4,11 +4,11 @@ number: "550.1"
 title: Polizeigesetz (PolG)
 short: PolG
 language: de
-version: "2020-06-01"
-nachtrag: "109"
-valid_until: 2021-07-01
+version: "2021-07-01"
+nachtrag: "113"
+valid_until: 2022-01-01
 adopted: 2007-04-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-550_1-2007_04_23-2009_07_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-550_1-2007_04_23-2009_07_01-113.html"
 text: pdf
 ---
 
@@ -69,7 +69,7 @@ Dieses Gesetz umschreibt die Aufgaben der Polizei und die Art und Weise ihrer Er
 
 **1**
 
-- 1\. 7. 20 - 109 § 4.[^3-1] <sup>1</sup> Ausgehend von Hinweisen oder eigenen Wahrnehmungen, tätigt die Polizei Vorermittlungen, um festzustellen, ob
+- 1\. 7. 21 - 113 § 4.[^3-1] <sup>1</sup> Ausgehend von Hinweisen oder eigenen Wahrnehmungen, tätigt die Polizei Vorermittlungen, um festzustellen, ob
 
 **Vorermittlung und Vorverfahren**
 
@@ -175,7 +175,7 @@ Die Polizei trifft im Einzelfall auch ohne besondere gesetzliche Grundlage unauf
 
 **3**
 
-- 1\. 7. 20 - 109 § 15. Werden Personen durch den Einsatz unmittelbaren Zwangs verletzt, leistet ihnen die Polizei den notwendigen Beistand und verschafft ärztliche Hilfe, soweit es die Umstände zulassen.
+- 1\. 7. 21 - 113 § 15. Werden Personen durch den Einsatz unmittelbaren Zwangs verletzt, leistet ihnen die Polizei den notwendigen Beistand und verschafft ärztliche Hilfe, soweit es die Umstände zulassen.
 
 #### § 16
 
@@ -251,7 +251,7 @@ Wenn es zur Erfüllung polizeilicher Aufgaben notwendig ist, darf die Polizei pr
 
 **5**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 <sup>5</sup> Die Polizei darf die zur Identifikation von Personen erforderlichen Angaben in den Meldescheinen der Gästekontrolle von Beherbergungsbetrieben sowie in den Neuzuzugsmeldungen von Gemeinden zur Gefahrenabwehr, zur Strafverfolgung und zur Vollstreckung von Strafurteilen elektronisch abrufen sowie systematisch und automatisiert in den für die Fahndung bestimmten polizeilichen Systemen überprüfen. Der Regierungsrat regelt das Nähere.[^21-2]
 
@@ -335,7 +335,7 @@ Auf Ersuchen der zuständigen Stelle führt die Polizei eine Person dieser Stell
 
 **7**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Die Polizei führt die Person ohne Verzug der Inhaberin oder dem Inhaber der elterlichen Sorge oder Obhut, der zuständigen KESB oder einer von diesen Stellen bezeichneten Stelle zu.
 
@@ -406,7 +406,7 @@ Der Transport von in Gewahrsam genommenen, festgenommenen oder gefangenen Person
 
 **9**
 
-- 1\. 7. 20 - 109 § 32 e.[^hFÜberwachungsmassn-3] <sup>1</sup> Zur Verhinderung und Erkennung von Straftaten kann das Polizeikommando mit Genehmigung des Zwangsmassnahmengerichts ausserhalb eines Strafverfahrens verdeckte Vorermittlerinnen und Vorermittler einsetzen, die unter einer auf Dauer angelegten falschen Identität durch aktives und zielgerichtetes Verhalten versuchen, zu anderen Personen Kontakte zu knüpfen und zu ihnen ein Vertrauensverhältnis aufzubauen.
+- 1\. 7. 21 - 113 § 32 e.[^hFÜberwachungsmassn-3] <sup>1</sup> Zur Verhinderung und Erkennung von Straftaten kann das Polizeikommando mit Genehmigung des Zwangsmassnahmengerichts ausserhalb eines Strafverfahrens verdeckte Vorermittlerinnen und Vorermittler einsetzen, die unter einer auf Dauer angelegten falschen Identität durch aktives und zielgerichtetes Verhalten versuchen, zu anderen Personen Kontakte zu knüpfen und zu ihnen ein Vertrauensverhältnis aufzubauen.
 
 **Verdeckte Vorermittlung**
 
@@ -492,7 +492,7 @@ Die Polizei darf eine Person von einem Ort wegweisen oder für längstens 24 Stu
 
 **11**
 
-- 1\. 7. 20 - 109 § 36. <sup>1</sup> Die Polizei darf Fahrzeuge, Behältnisse und andere Gegenstände öffnen und durchsuchen, wenn
+- 1\. 7. 21 - 113 § 36. <sup>1</sup> Die Polizei darf Fahrzeuge, Behältnisse und andere Gegenstände öffnen und durchsuchen, wenn
 
 **Gegenstände**
 
@@ -590,7 +590,7 @@ anderen Gegenständen
 
 **13**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 [^42-1]: Fassung gemäss G vom 5. November 2012 (OS 68, 79; ABl 2012, 655). In Kraft seit 1. März 2013.
 
@@ -676,7 +676,7 @@ anderen Gegenständen
 
 **15**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 [^48-1]: LS 177.10.
 [^48-2]: LS 170.1; heute: Haftungsgesetz.
@@ -703,17 +703,19 @@ anderen Gegenständen
 
 **Information**
 
-§ 51 a.[^h7AbschnittInform-3] Die Polizei ist befugt, im öffentlichen Interesse und im Rahmen ihrer Zuständigkeit die Bevölkerung und Betroffene zu informieren, sofern keine überwiegenden schützenswerten Interessen Privater oder des Gemeinwesens entgegenstehen.
+§ 51 a.[^h7AbschnittInform-3] <sup>1</sup> Die Polizei ist befugt, im öffentlichen Interesse und im Rahmen ihrer Zuständigkeit die Bevölkerung und Betroffene zu informieren, sofern keine überwiegenden schützenswerten Interessen Privater oder des Gemeinwesens entgegenstehen.
+
+<sup>2</sup> Informiert sie die Bevölkerung, gibt sie das Alter, das Geschlecht und die Staatsangehörigkeit der Täterinnen und Täter, Tatverdächtigen und Opfer bekannt, sofern keine Gründe des Persönlichkeitsschutzes dagegen sprechen oder die Gefahr besteht, dass die Personen identifiziert werden können.[^h7AbschnittInform-4]
 
 **Datenbearbeitung**
 
 § 52.[^h7AbschnittInform-1] <sup>1</sup> Die Polizei ist befugt, zur Erfüllung ihrer Aufgaben und zur Führung ihrer Geschäftskontrolle Daten zu bearbeiten und dazu geeignete Datenbearbeitungssysteme zu betreiben.
 
-<sup>2</sup> Die Polizei kann Personendaten, einschliesslich besonderer Personendaten, und Persönlichkeitsprofile bearbeiten sowie Profiling vornehmen, soweit es zur Erfüllung der ihr gesetzlich übertragenen Aufgaben unentbehrlich ist.[^h7AbschnittInform-4]
+<sup>2</sup> Die Polizei kann Personendaten, einschliesslich besonderer Personendaten, und Persönlichkeitsprofile bearbeiten sowie Profiling vornehmen, soweit es zur Erfüllung der ihr gesetzlich übertragenen Aufgaben unentbehrlich ist.[^h7AbschnittInform-5]
 
 <sup>3</sup> Die Kantonspolizei und die kommunalen Polizeien gewähren einander Zugriff auf ihre Datenbestände, soweit dies zur Erfüllung der polizeilichen Aufgaben notwendig ist.
 
-<sup>4</sup> Die Polizei kann Personendaten, einschliesslich besonderer Personendaten, anderen öffentlichen Organen sowie den Organen anderer Kantone oder des Bundes und Dritten von Amtes wegen oder auf Ersuchen im Einzelfall unter den Voraussetzungen von §§ 16 und 17 IDG[^h7AbschnittInform-2] bekannt geben.[^h7AbschnittInform-4]
+<sup>4</sup> Die Polizei kann Personendaten, einschliesslich besonderer Personendaten, anderen öffentlichen Organen sowie den Organen anderer Kantone oder des Bundes und Dritten von Amtes wegen oder auf Ersuchen im Einzelfall unter den Voraussetzungen von §§ 16 und 17 IDG[^h7AbschnittInform-2] bekannt geben.[^h7AbschnittInform-5]
 
 <sup>5</sup> Öffentliche Organe geben der Polizei Personendaten, einschliesslich besonderer Personendaten, im Rahmen ihrer Verpflichtungen zur Leistung von Amts- und Rechtshilfe sowie überdies unter den Voraussetzungen von §§ 16 und 17 IDG bekannt.
 
@@ -724,7 +726,8 @@ anderen Gegenständen
 [^h7AbschnittInform-1]: Fassung gemäss G vom 5. November 2012 (OS 68, 79; ABl 2012, 655). In Kraft seit 1. März 2013.
 [^h7AbschnittInform-2]: LS 170.4.
 [^h7AbschnittInform-3]: Eingefügt durch G vom 5. November 2012 (OS 68, 79; ABl 2012, 655). In Kraft seit 1. März 2013.
-[^h7AbschnittInform-4]: Fassung gemäss G über die Information und den Datenschutz vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020. 1. 7. 20 - 109 23
+[^h7AbschnittInform-4]: Eingefügt durch G vom 9. März 2020 (OS 76, 231; ABl 2020-02-28). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 23
+[^h7AbschnittInform-5]: Fassung gemäss G über die Information und den Datenschutz vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
 
 #### § 53
 
@@ -754,13 +757,15 @@ anderen Gegenständen
 
 § 54 a.[^53-3] <sup>1</sup> Die Strafbehörden teilen der Polizei zur Nachführung der polizeilichen Datenbearbeitungssysteme Freisprüche sowie Einstellungen und Nichtanhandnahmen von Strafverfahren innert 14 Tagen seit Eintritt der Rechtskraft mit.
 
-<sup>2</sup> Die oder der Beauftragte für den Datenschutz überwacht die Aktualität und die Nachführung der in den Datenbearbeitungssystemen gespeicherten Daten in der Regel alle zwei Jahre und aus besonderem Anlass.
-
 **17**
 
-- 1\. 7. 20 - 109 § 54 b.[^53-3] <sup>1</sup> Die Polizei meldet der für den Justizvollzug zuständigen Direktion Personen, deren Ermittlungsdaten gemäss Art. 4 der Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten vom 2. April 2009 (ViCLAS-Konkordat)[^53-4] in die ViCLAS-Datenbank aufgenommen werden.
+- 1\. 7. 21 - 113
+
+<sup>2</sup> Die oder der Beauftragte für den Datenschutz überwacht die Aktualität und die Nachführung der in den Datenbearbeitungssystemen gespeicherten Daten in der Regel alle zwei Jahre und aus besonderem Anlass.
 
 **ViCLAS-Datenbank**
+
+§ 54 b.[^53-3] <sup>1</sup> Die Polizei meldet der für den Justizvollzug zuständigen Direktion Personen, deren Ermittlungsdaten gemäss Art. 4 der Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten vom 2. April 2009 (ViCLAS-Konkordat)[^53-4] in die ViCLAS-Datenbank aufgenommen werden.
 
 <sup>2</sup> Diese Direktion teilt der Polizei den Vollzug von Freiheitsstrafen oder stationären Massnahmen gegenüber solchen Personen innert 14 Tagen nach Antritt der Freiheitsstrafe oder Beginn der Massnahme mit.
 
@@ -849,15 +854,15 @@ Fallen bei Sicherstellung, Fernhaltung, Wegschaffung, Aufbewahrung, Vorkehrungen
 
 - d. Sicherheitstransporten von Personen, Gütern und Wertsachen.
 
+**19**
+
+- 1\. 7. 21 - 113
+
 <sup>2</sup> Nicht darunter fallen Kontroll-, Aufsichts- und Verkehrsdienste von untergeordneter Bedeutung, namentlich Ticketkontrollen, Kassadienste, Besucherleitdienste und Besucherbetreuungsdienste.
 
 **Bewilligungspflicht**
 
 § 59 b.[^h9AbschnittPrivat-2] <sup>1</sup> Natürliche und juristische Personen, die gewerbsmässig Sicherheitsdienstleistungen erbringen (Sicherheitsunternehmen), benötigen eine Betriebsbewilligung des Kantons.
-
-**19**
-
-- 1\. 7. 20 - 109
 
 <sup>2</sup> Sicherheitsunternehmen, die über eine Bewilligung eines anderen Kantons verfügen, sind von der Bewilligungspflicht ausgenommen.
 
@@ -889,11 +894,9 @@ Fallen bei Sicherstellung, Fernhaltung, Wegschaffung, Aufbewahrung, Vorkehrungen
 
 - b. Sie sind handlungsfähig.
 
-- c. Es erscheint keine Verurteilung wegen eines Verbrechens oder Vergehens in ihrem Strafregisterauszug für Privatpersonen.
+- c. Es erscheint keine Verurteilung wegen eines Verbrechens oder Vergehens in ihrem Strafregisterauszug für Privatpersonen. § 59 e.[^h9AbschnittPrivat-1] Die Sicherheitsunternehmen stellen sicher, dass die für sie tätigen Personen, die Sicherheitsdienstleistungen erbringen, über eine den Aufgaben entsprechende praktische und theoretische Ausbildung verfügen und sich regelmässig weiterbilden.
 
 **Aus- und Weiterbildung**
-
-§ 59 e.[^h9AbschnittPrivat-1] Die Sicherheitsunternehmen stellen sicher, dass die für sie tätigen Personen, die Sicherheitsdienstleistungen erbringen, über eine den Aufgaben entsprechende praktische und theoretische Ausbildung verfügen und sich regelmässig weiterbilden.
 
 **Verhaltenspflichten der Sicherheitsunternehmen und ihrer Angestellten**
 
@@ -929,15 +932,15 @@ Fallen bei Sicherstellung, Fernhaltung, Wegschaffung, Aufbewahrung, Vorkehrungen
 
 <sup>3</sup> Sie kann den Sicherheitsunternehmen auf Ersuchen Auskunft erteilen, ob über die Person, die das Unternehmen anzustellen gedenkt, ein Berufsverbot verfügt wurde.
 
-**Strafbestimmungen**
-
-§ 59 j.[^h9AbschnittPrivat-1] <sup>1</sup> Mit Busse wird bestraft, wer a. ohne Bewilligung Sicherheitsdienstleistungen erbringt, für die eine Bewilligung gemäss § 59 b Abs. 1 erforderlich ist,
-
-- b. gegen §§ 59 d oder 59 e verstösst,
-
 **21**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113 § 59 j.[^h9AbschnittPrivat-1] <sup>1</sup> Mit Busse wird bestraft, wer
+
+**Strafbestimmungen**
+
+- a. ohne Bewilligung Sicherheitsdienstleistungen erbringt, für die eine Bewilligung gemäss § 59 b Abs. 1 erforderlich ist,
+
+- b. gegen §§ 59 d oder 59 e verstösst,
 
 - c. in schwerwiegender Weise Verhaltenspflichten gemäss § 59 f verletzt.
 
