@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2021-04-01
+version: 2021-07-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210401/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. April 2021)
+vom 31. August 1983 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -30,15 +30,33 @@ verordnet:
 [^ingress-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Erster Titel:**** Anwendbarkeit des ATSG auf kollektive arbeitsmarktliche Massnahmen
+## Erster Titel: Anwendbarkeit des ATSG
 
-[^tit1-1]
+[^tit1-1][^tit1-2]
 
 [^tit1-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^tit1-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 1
+
+**Elektronischer Verkehr mit Behörden**[^1-1]
+
+### (Art. 55 Abs. 1<sup>bis</sup> ATSG; Art. 1 AVIG)
+
+<sup>1</sup> In Anwendung von Artikel 55 Absatz 1<sup>bis</sup> ATSG gelten die Bestimmungen des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^1-2] über den elektronischen Verkehr mit Behörden.
+
+<sup>2</sup> Der elektronische Verkehr erfolgt bis zum Einspracheentscheid über die Zugangsplattform für elektronische Dienstleistungen (Art. 83 Abs. 1<sup>bis</sup> Bst. d AVIG).
+
+[^1-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^1-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 1a
+
+**Kollektive arbeitsmarktliche Massnahmen**[^1a-1]
 
 ### (Art. 1 Abs. 3 AVIG)
 
-#### Art. 1
+[^1a-2]
 
 Als kollektive arbeitsmarktliche Massnahmen im Sinne von Artikel 1 Absatz 3 AVIG gelten:
 
@@ -46,29 +64,34 @@ Als kollektive arbeitsmarktliche Massnahmen im Sinne von Artikel 1 Absatz 3 AVIG
 - b. die kollektiven Beschäftigungsmassnahmen (Art. 64*a* Abs. 1 AVIG);
 - c. die besonderen kollektiven Massnahmen der Kantone oder der Ausgleichsstelle der Arbeitslosenversicherung, gestützt auf die Bundesgesetzgebung über die Arbeitslosenversicherung zu Gunsten von arbeitslosen oder von Arbeitslosigkeit bedrohten Personen.
 
-## Titel 1*a*:**** Beiträge
+[^1a-1]: Ursprünglich: Art. 1.
+[^1a-2]: Eingefügt durch Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+## Titel 1*a*: Beiträge
 
 [^tit1a-1]
 
 [^tit1a-1]: Ursprünglich 1. Tit.
 
-#### Art. 1a
+#### Art. 2
 
-**Begrenzung des beitragspflichtigen Lohnes**[^1a-1]
+**Begrenzung des beitragspflichtigen Lohnes**[^2-1]
 
 ### (Art. 3 AVIG)
 
 Bei einer Beschäftigungsdauer von weniger als einem Jahr wird zur Berechnung der Höchstgrenze des beitragspflichtigen Lohnes der 360. Teil des Jahreshöchstbetrags mit der Anzahl Kalendertage des Beschäftigungszeitraums multipliziert.
 
-[^1a-1]: Ursprünglich Art. 1. Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^2-1]: Ursprünglich: Art. 1*a*. Ursprünglich Art. 1. Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-#### Art. 2
+#### Art. 2a
 
-**Verwaltungskostenbeitrag**
+**Verwaltungskostenbeitrag**[^2a-1]
 
 ### (Art. 6 und 92 Abs. 1 AVIG)
 
 Arbeitgeber und Arbeitnehmer müssen auf ihren Arbeitslosenversicherungsbeiträgen keinen Verwaltungskostenbeitrag an die AHV-Ausgleichskasse entrichten.
+
+[^2a-1]: Ursprünglich: Art. 2.
 
 ## Zweiter Titel: Leistungen
 
@@ -485,134 +508,112 @@ Ausnahmefälle nach Artikel 16 Absatz 2 Buchstabe i AVIG liegen insbesondere vor
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### 2. Abschnitt: Beratung und Kontrolle****
+### 2. Abschnitt: Anmeldung, Beratung und Kontrolle
 
 [^tit2-chap1-sec2-1]
 
-[^tit2-chap1-sec2-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
+[^tit2-chap1-sec2-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 18
 
-**Örtliche Zuständigkeit**[^18-1][^18-2]
+**Örtliche Zuständigkeit**[^18-1]
 
-### (Art. 17 Abs. 2 AVIG)
+### (Art 17 Abs. 2 und 2<sup>bis</sup> AVIG)
 
-<sup>1</sup> Als Wohnort des Versicherten gilt sein Wohnsitz nach den Artikeln 23 und 25 des Zivilgesetzbuches[^18-3].
+[^18-2]
 
-<sup>2</sup> Die Beratungs- und Kontrollgespräche werden von der zuständigen Amtsstelle durchgeführt.
+<sup>1</sup> Für die Anmeldung zur Arbeitsvermittlung und die anschliessenden Beratungs- und Kontrollgespräche ist die Amtsstelle des Wohnorts der versicherten Person zuständig.[^18-3]
 
-<sup>3</sup> Bevormundete Versicherte, die sich gewöhnlich nicht am Ort aufhalten, wo die Vormundschaftsbehörde ihren Sitz hat, können mit schriftlicher Einwilligung des Vormundes die Beratungs- und Kontrollgespräche mit der zuständigen Amtsstelle ihres Aufenthaltsortes führen.
+<sup>2</sup> Als Wohnort der versicherten Person gilt ihr Wohnsitz nach den Artikeln 23 und 25 des Zivilgesetzbuches[^18-4].[^18-5]
+
+<sup>3</sup> Personen, die behördliche Massnahmen im Rahmen des Erwachsenenschutzrechts beanspruchen und sich gewöhnlich nicht am Ort aufhalten, wo die Erwachsenenschutzbehörde ihren Sitz hat, können mit schriftlicher Einwilligung dieser Behörde die Beratungs- und Kontrollgespräche mit der zuständigen Amtsstelle ihres Aufenthaltsorts führen.[^18-6]
 
 <sup>4</sup> Wochenaufenthalter führen die Beratungs- und Kontrollgespräche mit der zuständigen Amtsstelle ihres Wohnortes oder des Ortes ihres Wochenaufenthaltes.
 
-<sup>5</sup> Bevormundete und Wochenaufenthalter müssen ihre Beratungs- und Kontrollgespräche stets mit der gleichen zuständigen Amtsstelle führen, ausser wenn sie den Wohn- oder Aufenthaltsort wechseln.
+<sup>5</sup> Für die Anmeldung der Personen, die sich zur Stellensuche vorübergehend in der Schweiz aufhalten (Art. 64 der Verordnung [EG] Nr. 883/2004[^18-7]), sowie für die anschliessenden Beratungs- und Kontrollgespräche ist die Amtsstelle ihres Aufenthaltsorts zuständig. Während der Dauer der Stellensuche in der Schweiz ist ein Wechsel der Amtsstelle ausgeschlossen.[^18-8]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^18-2]: Siehe auch die SchlB Änd. 6. 11. 1996 am Ende dieses Textes.
-[^18-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-5]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-6]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-7]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, in der für die Schweiz gemäss Anhang II des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) jeweils verbindlichen Fassung (eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)) sowie in der für die Schweiz gemäss Anlage 2 Anhang K des Übereinkommens vom 4. Januar 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA) ([SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)) jeweils verbindlichen Fassung.
+[^18-8]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19
 
-**Persönliche Meldung bei der Gemeinde oder bei der zuständigen Amtsstelle**[^19-1]
+**Persönliche Anmeldung zur Arbeitsvermittlung**[^19-1]
 
-### (Art. 17 Abs. 2 AVIG)
+### (Art. 29 ATSG; Art. 10 Abs. 3 und 17 Abs. 2 AVIG)
 
-<sup>1</sup> Die versicherte Person muss sich bei der Gemeinde ihres Wohnsitzes (Art. 18) oder bei der nach kantonalen Vorschriften zuständigen Amtsstelle persönlich melden.
+<sup>1</sup> Die versicherte Person muss sich persönlich zur Arbeitsvermittlung anmelden. Die Anmeldung kann über die Zugangsplattform für elektronische Dienstleistungen (Art. 83 Abs. 1<sup>bis</sup> Bst. d AVIG) oder durch persönliches Erscheinen bei der zuständigen Amtsstelle (Art. 18) erfolgen.
 
-<sup>2</sup> Sie wählt die Kasse bei der Gemeinde oder bei der zuständigen Amtsstelle. Diese verweisen sie zur Aufklärung und Beratung im Sinne von Artikel 27 ATSG an die dafür zuständigen Durchführungsstellen.
+<sup>2</sup> Die versicherte Person muss bei der Anmeldung die Versichertennummer der AHV bekannt geben.
 
-<sup>3</sup> Die Gemeinde oder die zuständige Amtsstelle bestätigt der versicherten Person das Datum der Meldung und die gewählte Kasse. Der Kanton ist für die Erfassung der Kontrolldaten verantwortlich. Diese hat innert sieben Tagen nach der Meldung bei der Gemeinde oder der zuständigen Amtsstelle zu erfolgen. Die kantonale Amtsstelle kann diese Frist insbesondere im Fall von Massenentlassungen auf höchstens 15 Tage verlängern.
+<sup>3</sup> Der versicherten Person wird das Datum der Anmeldung schriftlich bestätigt.
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^19-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19a
 
-**Aufklärung über Rechte und Pflichten**[^19a-1]
+[^19a-1]
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2002 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)). Aufgehoben durch Ziff. I der V vom 26. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 20
+
+**Prüfung und Speicherung derAnmeldedaten**[^20-1]
+
+### (Art. 17 Abs. 2<sup>bis</sup> AVIG)
+
+<sup>1</sup> Die zuständige Amtsstelle überprüft die Gültigkeit der Versichertennummer der AHV.
+
+<sup>2</sup> Sie überprüft die Anmeldedaten und speichert sie im Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG).
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 20a
+
+**Erstes Beratungs- und Kontrollgespräch**[^20a-1]
+
+### (Art. 17 AVIG)
+
+<sup>1</sup> Die zuständige Amtsstelle führt innerhalb von 15 Tagen nach dem Anmeldedatum (Art. 19 Abs. 3) das erste Beratungs- und Kontrollgespräch mit der versicherten Person.
+
+<sup>2</sup> Bei diesem Gespräch erfolgt die persönliche Identifizierung der versicherten Person.
+
+<sup>3</sup> Die versicherte Person reicht bei diesem Gespräch die von der zuständigen Amtsstelle verlangten Informationen ein, namentlich die Nachweise der Arbeitsbemühungen.
+
+[^20a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 21
+
+**Beratungs- und Kontrollgespräche**[^21-1]
+
+### (Art. 17 AVIG)
+
+<sup>1</sup> Die zuständige Amtsstelle führt mit der versicherten Person in angemessenen Zeitabständen, jedoch mindestens alle zwei Monate, Beratungs- und Kontrollgespräche. Dabei werden die Vermittlungsfähigkeit und der Umfang des anrechenbaren Arbeitsausfalls überprüft.
+
+<sup>2</sup> Sie erfasst für die versicherte Person die Tage, an denen ein Beratungs- und Kontrollgespräch geführt worden ist und führt Protokoll über die Gespräche.
+
+<sup>3</sup> Die versicherte Person muss sicherstellen, dass sie innerhalb eines Arbeitstages von der zuständigen Amtsstelle erreicht werden kann.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 22
+
+**Aufklärung über Rechte und Pflichten**[^22-1]
 
 ### (Art. 27 ATSG)
 
 <sup>1</sup> Die in Artikel 76 Absatz 1 Buchstaben a–d AVIG genannten Durchführungsstellen klären die Versicherten über ihre Rechte und Pflichten auf, insbesondere über das Verfahren der Anmeldung und über die Pflicht, Arbeitslosigkeit zu vermeiden und zu verkürzen.
 
-<sup>2</sup> Die Kassen klären die Versicherten über die Rechte und Pflichten auf, die sich aus dem Aufgabenbereich der Kassen ergeben (Art. 81 AVIG).
+<sup>2</sup> Die Arbeitslosenkassen klären die Versicherten über die Rechte und Pflichten auf, die sich aus ihren Aufgaben ergeben (Art. 81 AVIG).
 
-<sup>3</sup> Die kantonalen Amtsstellen und die regionalen Arbeitsvermittlungszentren (RAV) klären die Versicherten über die Rechte und Pflichten auf, die sich aus den jeweiligen Aufgabenbereichen ergeben (Art. 85 und 85*b* AVIG).
+<sup>3</sup> Die zuständigen Amtsstellen klären die Versicherten über Rechte und Pflichten auf, die sich aus ihren Aufgaben ergeben (Art. 85 und 85*b* AVIG).
 
-[^19a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-
-#### Art. 20
-
-**Anmeldung bei der zuständigen Amtsstelle**[^20-1]
-
-### (Art. 29 ATSG, 17 Abs. 2 AVIG)
-
-[^20-2]
-
-<sup>1</sup>
-
-Die versicherte Person muss bei der Anmeldung bei der zuständigen Amtsstelle vorlegen:[^20-3]
-
-- a.[^20-4] das Formular «Meldung bei der Wohngemeinde», sofern sie sich bei der Gemeinde gemeldet hat;
-- b.[^20-5] die Wohnsitzbescheinigung der Gemeinde oder, wenn er Ausländer ist, den Ausländerausweis;
-- c.[^20-6] den Versicherungsausweis der AHV/IV;
-- d.[^20-7] das Kündigungsschreiben, Zeugnisse der letzten Arbeitgeber, Bescheinigungen über die persönliche Aus- und Weiterbildung sowie den Nachweis seiner Bemühungen um Arbeit.
-
-<sup>2</sup> Die zuständige Amtsstelle prüft die Richtigkeit der Angaben auf dem Versicherungsausweis der AHV/IV; auf ihr Ersuchen stellt die kantonale Ausgleichskasse einen gültigen Versicherungsausweis aus.
-
-<sup>3</sup> Sie erfasst die Anmeldedaten im Informationssystem über die Arbeitsvermittlung und die Arbeitsmarktstatistik (AVAM) und überlässt dem Versicherten die Kopie für die Kasse.
-
-<sup>4</sup> ...[^20-8]
-
-[^20-1]: Siehe auch die SchlB Änd. 6. 11. 1996 am Ende dieses Textes.
-[^20-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^20-3]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^20-4]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^20-5]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-6]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-7]: Eingefügt durch Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-8]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-
-#### Art. 20a
-
-**Personen, die sich zur Stellensuche vorübergehend in der Schweiz aufhalten**[^20a-1]
-
-Personen, die sich zur Stellensuche vorübergehend in der Schweiz aufhalten (Art. 64 der V [EG] Nr. 883/2004[^20a-2]), müssen sich persönlich bei der vom Kanton bestimmten zuständigen Amtsstelle ihres Aufenthaltsorts melden. Während der Dauer der Stellensuche in der Schweiz ist ein Wechsel der zuständigen Amtsstelle ausgeschlossen.
-
-[^20a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^20a-2]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, in der Fassung gemäss ABl L 166 vom 30.4.2004, S. 1.
-
-#### Art. 21
-
-**Beratung und Kontrolle**[^21-1]
-
-### (Art. 17 Abs. 2 AVIG)
-
-<sup>1</sup> Nach der Anmeldung muss sich der Versicherte entsprechend den Anordnungen des Kantons zu Beratungs- und Kontrollgesprächen persönlich bei der zuständigen Amtsstelle melden. Der Versicherte muss sicherstellen, dass er in der Regel innert Tagesfrist von der zuständigen Amtsstelle erreicht werden kann.
-
-<sup>2</sup> Die zuständige Amtsstelle legt die Termine für die Beratungs- und Kontrollgespräche für jeden Versicherten fest.
-
-<sup>3</sup> Sie erfasst für jeden Versicherten die Tage, an denen ein Beratungs- und Kontrollgespräch geführt worden ist, und hält das Ergebnis des Gesprächs jeweils in einem Protokoll fest.
-
-<sup>4</sup> Zwischen dem 24. Dezember und dem 2. Januar finden keine Beratungs- und Kontrollgespräche statt.
-
-[^21-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-
-#### Art. 22
-
-**Beratungs- und Kontrollgespräche**[^22-1]
-
-### (Art. 17 Abs. 2 AVIG)
-
-<sup>1</sup> Das erste Beratungs- und Kontrollgespräch muss innerhalb von 15 Tagen nach der Anmeldung zur Arbeitsvermittlung bei der Gemeinde oder der zuständigen Amtsstelle geführt werden.[^22-2]
-
-<sup>2</sup> Die zuständige Amtsstelle führt mit jeder versicherten Person in angemessenen Zeitabständen, jedoch mindestens alle zwei Monate, Beratungs- und Kontrollgespräche durch. Dabei werden die Vermittlungsfähigkeit und die Vermittlungsbereitschaft überprüft.[^22-3]
-
-<sup>3</sup> Übt der Versicherte einen vollzeitlichen Zwischenverdienst oder eine freiwillige Tätigkeit nach Artikel 15 Absatz 4 AVIG aus, so bietet ihn die zuständige Amtsstelle mindestens alle zwei Monate zu einem Beratungs- und Kontrollgespräch auf.
-
-<sup>4</sup> Die zuständige Amtsstelle legt mit dem Versicherten fest, wie er in der Regel innert Tagesfrist erreicht werden kann.
-
-[^22-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^22-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^22-3]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^22-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 23
 
@@ -620,41 +621,39 @@ Personen, die sich zur Stellensuche vorübergehend in der Schweiz aufhalten (Art
 
 ### (Art. 17 Abs. 2 AVIG)
 
-<sup>1</sup> Die Kontrolldaten werden mit dem Formular «Angaben der versicherten Person» erfasst.[^23-2]
+<sup>1</sup> Die versicherte Person übermittelt die Kontrolldaten mit dem Formular «Angaben der versicherten Person».[^23-2]
 
 <sup>2</sup>
 
-Der Datenträger gibt Auskunft über:
+Diese Daten geben Auskunft über:
 
-- a. die Werktage, für die der Versicherte glaubhaft macht, dass er arbeitslos und vermittlungsfähig war;
-- b. alle Tatsachen, die für die Beurteilung der Anspruchsberechtigung erheblich sind, wie Krankheit, Militärdienst, Ferienabwesenheit, Teilnahme an einer arbeitsmarktlichen Massnahme, Zwischenverdienst, Grad der Vermittlungsfähigkeit des Versicherten.
+- a. die Werktage, für die die versicherte Person glaubhaft macht, dass sie arbeitslos und vermittlungsfähig war;
+- b. alle Tatsachen, die für die Beurteilung der Anspruchsberechtigung erheblich sind, wie Krankheit, Militärdienst, Ferienabwesenheit, Teilnahme an einer arbeitsmarktlichen Massnahme, Zwischenverdienst, Umfang des anrechenbaren Arbeitsausfalls.[^23-3]
 
-<sup>3</sup> Die zuständige Amtsstelle erstellt spätestens beim ersten Beratungs- und Kontrollgespräch mit der versicherten Person das Formular «Angaben der versicherten Person». Darauf vermerkt sie den Namen der von der versicherten Person gewählten Kasse (Art. 19 Abs. 3).[^23-3]
+<sup>3</sup> ...[^23-4]
 
-<sup>4</sup> Die zuständige Amtsstelle stellt sicher, dass die versicherte Person am Monatsende über das Formular «Angaben der versicherten Person» verfügt.[^23-4]
+<sup>4</sup> Die zuständige Amtsstelle stellt sicher, dass die versicherte Person am Monatsende über das Formular «Angaben der versicherten Person» verfügt.[^23-5]
 
-<sup>5</sup> ...[^23-5]
+<sup>5</sup> ...[^23-6]
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^23-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-3]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-4]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-4]: Aufgehoben durch Ziff. I der V vom 26. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-5]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^23-6]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 #### Art. 24
 
-**Überprüfung der Vermittlungsfähigkeit**[^24-1]
+**Überprüfung der Vermittlungsfähigkeit und des Umfangs des anrechenbaren Arbeitsausfalls**[^24-1]
 
-### (Art. 15 Abs. 1 und 17 Abs. 2 AVIG)
+### (Art. 49 ATSG; Art. 11 und 15 AVIG)
 
-<sup>1</sup> Hält die zuständige Amtsstelle den Versicherten nicht oder nur teilweise für vermittlungsfähig, so gibt sie dies der Kasse bekannt.
+<sup>1</sup> Hält die zuständige Amtsstelle die versicherte Person nicht für vermittlungsfähig oder ändert sich der Umfang des anrechenbaren Arbeitsausfalls, so gibt sie dies der Arbeitslosenkasse bekannt.
 
-<sup>2</sup> Die zuständige Amtsstelle erlässt eine Verfügung über den Grad der Vermittlungsfähigkeit.[^24-2]
+<sup>2</sup> Die Amtsstelle erlässt ihren Entscheid darüber in Form einer Verfügung.
 
-<sup>3</sup> Sie stellt der Kasse und der mitbeteiligten Amtsstelle ein Doppel ihres Entscheides zu.
-
-[^24-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^24-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
+[^24-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 25
 
@@ -709,11 +708,11 @@ Die zuständige Amtsstelle verfügt auf Gesuch hin, dass:
 
 <sup>5</sup> Nimmt der Versicherte an einer arbeitsmarktlichen Massnahme teil, so kann er während dieser Zeit höchstens so viele kontrollfreie Tage beziehen, wie sich auf Grund der Gesamtdauer dieser Massnahme ergeben. Kontrollfreie Tage können nur in Absprache mit dem Programmverantwortlichen bezogen werden.
 
-<sup>6</sup> Die versicherte Person darf die kontrollfreien Tage weder unmittelbar vor noch während noch unmittelbar nach der Stellensuche im Ausland (Art. 64 der V [EG] Nr. 883/2004[^27-2]) beziehen. Sie muss sich nach dem Auslandaufenthalt persönlich bei der zuständigen Amtsstelle melden und dort ihren Anspruch auf kontrollfreie Tage geltend machen.[^27-3]
+<sup>6</sup> Die versicherte Person darf die kontrollfreien Tage weder unmittelbar vor noch während noch unmittelbar nach der Stellensuche im Ausland (Art. 64 der Verordnung [EG] Nr. 883/2004[^27-2]) beziehen. Sie muss sich nach dem Auslandaufenthalt persönlich bei der zuständigen Amtsstelle melden und dort ihren Anspruch auf kontrollfreie Tage geltend machen.[^27-3]
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^27-2]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, in der Fassung gemäss ABl L 166 vom 30.4.2004, S. 1
-[^27-3]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^27-2]: Siehe Fussnote zu Art. 18 Abs. 5.
+[^27-3]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 27a
 
@@ -742,84 +741,56 @@ Als Kontrollperiode gilt jeder Kalendermonat.
 
 ### (Art. 20 Abs. 1 AVIG)
 
-[^28-2]
+<sup>1</sup> Die versicherte Person wird über die zur Wahl stehenden Arbeitslosenkassen informiert und wählt spätestens beim ersten Beratungs- und Kontrollgespräch (Art. 20*a*) eine davon aus.
 
-<sup>1</sup> Anlässlich der persönlichen Meldung bei der Gemeinde oder der zuständigen Amtsstelle wählt die versicherte Person die Kasse.[^28-3]
+<sup>2</sup> Die versicherte Person darf während der Rahmenfrist für den Leistungsbezug die Arbeitslosenkasse nur wechseln, wenn sie aus dem Tätigkeitsbereich der Arbeitslosenkasse wegzieht. Der Wechsel muss, ausser am Ende einer Rahmenfrist, auf Beginn einer Kontrollperiode vorgenommen werden.
 
-<sup>2</sup> Der Versicherte darf während der Rahmenfrist für den Leistungsbezug die Kasse nur wechseln, wenn er aus ihrem Tätigkeitsbereich wegzieht. Der Wechsel muss, ausser beim Ende der Rahmenfrist, auf Beginn einer Kontrollperiode vorgenommen werden.
+<sup>3</sup> Bei einem Kassenwechsel erhält die neue Arbeitslosenkasse Zugriffsrechte auf die Daten des entsprechenden Versichertenfalls ab der darauffolgenden Kontrollperiode. Die ehemalige Arbeitslosenkasse hat weiterhin Zugriffsrechte auf den Versichertenfall für laufende Verfahren.
 
-<sup>2bis</sup> [^28-4] ...
-
-<sup>3</sup> Bei einem Kassenwechsel übermittelt die bisherige der neuen Kasse die Daten elektronisch und stellt ihr eine Kopie des Bezügerdossiers zu. Die bisherige erteilt der neuen Kasse auf Aufforderung hin jede weitere sachdienliche Auskunft.
-
-[^28-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^28-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^28-3]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^28-4]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 29
 
-**Geltendmachung des Anspruchs**
+**Geltendmachung des Anspruchs**[^29-1]
 
-### (Art. 40 ATSG*,* 20 Abs. 1 und 2 AVIG)
-
-[^29-1]
+### (Art. 40 ATSG; Art. 20 Abs. 1 und 2 AVIG)
 
 <sup>1</sup>
 
-Für die erste Kontrollperiode während der Rahmenfrist sowie bei jeder erneuten Arbeitslosigkeit, die nach einem Unterbruch von wenigstens sechs Monaten eintritt, macht die versicherte Person ihren Anspruch geltend, indem sie der Kasse einreicht:[^29-2]
+Für die erste Kontrollperiode während der Rahmenfrist sowie bei jeder erneuten Arbeitslosigkeit, die nach einem Unterbruch von wenigstens sechs Monaten eintritt, macht die versicherte Person ihren Anspruch geltend, indem sie der Arbeitslosenkasse einreicht:
 
-- a. den vollständig ausgefüllten Entschädigungsantrag;
-- b. das Doppel des amtlichen Anmeldeformulars;
-- c. die Arbeitsbescheinigungen für die letzten zwei Jahre;
-- d.[^29-3] das Formular «Angaben der versicherten Person»;
-- e.[^29-4] die weiteren Unterlagen, welche die Kasse zur Beurteilung des Anspruchs verlangt.[^29-5]
+- a. den Antrag auf Arbeitslosenentschädigung;
+- b. die Arbeitgeberbescheinigungen der letzten zwei Jahre;
+- c. das Formular «Angaben der versicherten Person»;
+- d. die weiteren Informationen, welche die Arbeitslosenkasse zur Beurteilung des Anspruchs verlangt.
 
 <sup>2</sup>
 
-Zur Geltendmachung ihres Anspruchs für die weiteren Kontrollperioden legt die versicherte Person der Kasse vor:[^29-6]
+Zur Geltendmachung ihres Anspruchs für die weiteren Kontrollperioden legt die versicherte Person der Arbeitslosenkasse vor:
 
-- a.[^29-7] das Formular «Angaben der versicherten Person»;
-- b. die Arbeitsbescheinigungen für Zwischenverdienste;
-- [tab] c.[^29-8]die weiteren Unterlagen, welche die Kasse zur Beurteilung des Anspruchs verlangt;
-- d.[^29-9] ...[^29-10]
+- a. das Formular «Angaben der versicherten Person»;
+- b. die Arbeitgeberbescheinigungen über Zwischenverdienste;
+- c. die weiteren Informationen, welche die Arbeitslosenkasse zur Beurteilung des Anspruchs verlangt.
 
-<sup>3</sup> Nötigenfalls setzt die Kasse dem Versicherten eine angemessene Frist für die Vervollständigung der Unterlagen und macht ihn auf die Folgen der Unterlassung aufmerksam.[^29-11]
+<sup>3</sup> Nötigenfalls setzt die Arbeitslosenkasse der versicherten Person eine angemessene Frist für die Vervollständigung des Dossiers und macht sie auf die Folgen der Unterlassung aufmerksam.
 
-<sup>4</sup> Kann der Versicherte Tatsachen, die für die Beurteilung seines Anspruchs erheblich sind, nicht durch Bescheinigung nachweisen, so kann die Kasse ausnahmsweise eine von ihm unterschriebene Erklärung berücksichtigen, wenn diese glaubhaft erscheint.
+<sup>4</sup> Kann die versicherte Person Tatsachen, die für die Beurteilung ihres Anspruchs erheblich sind, nicht durch Bescheinigungen nachweisen, so kann die Arbeitslosenkasse ausnahmsweise eine von der versicherten Person unterschriebene Erklärung berücksichtigen, wenn diese glaubhaft erscheint.
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^29-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-3]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-4]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-5]: Fassung gemäss Ziff. I der V vom 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^29-6]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-7]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-8]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-9]: Aufgehoben durch Ziff. I der V vom 24. Nov. 1999, mit Wirkung seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^29-10]: Ursprünglich Abs. 3. Fassung gemäss Ziff. I der V vom 28. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
-[^29-11]: Ursprünglich Abs. 2.
+[^29-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 30
 
-**Auszahlung der Entschädigung, Steuerausweis[^30-1]**
+**Auszahlung der Entschädigung und Bescheinigung für die Steuerbehörde**[^30-1]
 
-### (Art. 19 ATSG, 20, 96*b* und 97*a* AVIG)
+### (Art. 19 ATSG; Art. 20, 96*b* und 97*a* AVIG)
 
-[^30-2]
+<sup>1</sup> Die Arbeitslosenkasse zahlt die Entschädigung für die abgelaufene Kontrollperiode in der Regel im Lauf des folgenden Monats aus.
 
-<sup>1</sup> Die Kasse zahlt die Entschädigung für die abgelaufene Kontrollperiode in der Regel im Lauf des folgenden Monats aus.
+<sup>2</sup> Die versicherte Person erhält eine schriftliche Abrechnung.
 
-<sup>2</sup> Der Versicherte erhält eine schriftliche Abrechnung.
+<sup>3</sup> Die Arbeitslosenkasse stellt der versicherten Person zuhanden der Steuerbehörden eine Bescheinigung über die erhaltenen Leistungen aus. In Kantonen, die eine direkte Übermittlung dieser Bescheinigung vorsehen, wird sie der kantonalen Steuerbehörde elektronisch übermittelt (Art. 97*a* Abs. 1 Bst. c<sup>bis</sup> und Abs. 8 AVIG).
 
-<sup>3</sup> ...[^30-3]
-
-<sup>4</sup> Die Kasse stellt dem Versicherten zuhanden der Steuerbehörden einen Ausweis über die erhaltenen Leistungen aus.[^30-4]
-
-[^30-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^30-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^30-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2000 ([AS 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)). Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^30-4]: Eingefügt durch Ziff. I der V vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
+[^30-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 31
 
@@ -886,11 +857,10 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 <sup>1</sup> Der Zuschlag für die Kinder- und Ausbildungszulagen richtet sich nach dem Familienzulagengesetz des Kantons, in dem die versicherte Person wohnt.[^34-1]
 
-<sup>2</sup> Das Staatssekretariat für Wirtschaft (SECO)[^34-2] gibt den Durchführungsorganen im Einvernehmen mit dem Bundesamt für Sozialversicherungen[^34-3] jährlich die Ansätze und die wichtigsten Anspruchsvoraussetzungen bekannt.
+<sup>2</sup> Die Ausgleichsstelle der Arbeitslosenversicherung gibt den Durchführungsorganen im Einvernehmen mit dem Bundesamt für Sozialversicherungen jährlich die Ansätze und die wichtigsten Anspruchsvoraussetzungen bekannt.[^34-2]
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^34-2]: Ausdruck gemäss Art. 22 Abs. 1 Ziff. 16 der V vom 17. Nov. 1999, in Kraft seit 1. Juli 1999 ([AS 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^34-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^34-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 35
 
@@ -902,7 +872,7 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 <sup>1</sup> Die Kasse zieht den Arbeitnehmeranteil des AHV/IV/EO-Beitrages von den Taggeldern nach den Artikeln 18 ff. und 59*c*<sup>bis</sup> Absatz 1 AVIG ab.[^35-2]
 
-<sup>2</sup> Das Bundesamt für Sozialversicherungen regelt im Einvernehmen mit dem SECO die Beitragsabrechnung mit der AHV/IV/EO, die Meldung der auf den individuellen Konten der AHV einzutragenden Einkommen sowie die Deckung der daraus entstehenden Kosten.
+<sup>2</sup> Das Bundesamt für Sozialversicherungen regelt im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung[^35-3] die Beitragsabrechnung mit der AHV/IV/EO, die Meldung der auf den individuellen Konten der AHV einzutragenden Einkommen sowie die Deckung der daraus entstehenden Kosten.
 
 <sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung überprüft bei ihren periodischen Kontrollen (Art. 109 und 110) die AHV-Beitrags-Abzüge der Kasse und die Meldungen an das Arbeitsloseninformationssystem. Sie veranlasst die nötigen Berichtigungen und gibt dem Bundesamt für Sozialversicherungen ihre Revisionsbemerkungen bekannt.
 
@@ -910,6 +880,7 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^35-3]: Ausdruck gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 36
 
@@ -949,10 +920,10 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 <sup>4</sup>
 
-Der versicherte Verdienst wird auf die nächste Kontrollperiode neu festgesetzt, wenn innerhalb der Rahmenfrist für den Leistungsbezug:
+Der versicherte Verdienst wird neu festgesetzt, wenn innerhalb der Rahmenfrist für den Leistungsbezug:
 
-- a. der Versicherte während mindestens sechs Monaten ununterbrochen eine beitragspflichtige Beschäftigung zu einem Lohn ausgeübt hat, der über dem versicherten Verdienst liegt, und er erneut arbeitslos wird;
-- b. die Vermittlungsfähigkeit des Versicherten sich verändert.[^37-7]
+- a. die versicherte Person während mindestens sechs Monaten ununterbrochen eine beitragspflichtige Beschäftigung zu einem Lohn ausgeübt hat, der über dem versicherten Verdienst liegt, und sie erneut arbeitslos wird;
+- b. der Umfang des anrechenbaren Arbeitsausfalls der versicherten Person sich ändert.[^37-7]
 
 <sup>5</sup> ...[^37-8]
 
@@ -962,7 +933,7 @@ Der versicherte Verdienst wird auf die nächste Kontrollperiode neu festgesetzt,
 [^37-4]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^37-5]: Eingefügt durch Ziff. I der V vom 28. Aug. 1991 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^37-6]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Aufgehoben durch Ziff. I der V vom 11. März 2011, mit Wirkung seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^37-7]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^37-7]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^37-8]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 #### Art. 38
@@ -1118,11 +1089,12 @@ Wird das Arbeitsverhältnis innerhalb eines Jahres zwischen den gleichen Parteie
 
 ### (Art. 28 AVIG)
 
-<sup>1</sup> Versicherte, die vorübergehend ganz oder teilweise arbeitsunfähig sind und ihren Taggeldanspruch geltend machen wollen, müssen ihre Arbeitsunfähigkeit innert einer Woche nach deren Beginn dem RAV melden.
+<sup>1</sup> Versicherte, die vorübergehend ganz oder teilweise arbeitsunfähig sind und ihren Taggeldanspruch geltend machen wollen, müssen ihre Arbeitsunfähigkeit innert einer Woche nach deren Beginn dem regionalen Arbeitsvermittlungszentrum (RAV) melden.[^42-2]
 
 <sup>2</sup> Meldet die versicherte Person ihre Arbeitsunfähigkeit ohne entschuldbaren Grund nach Ablauf dieser Frist und hat sie die Arbeitsunfähigkeit auch nicht auf dem Formular «Angaben der versicherten Person» angegeben, so hat sie keinen Taggeldanspruch für die Tage der Arbeitsunfähigkeit vor der Meldung.
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^42-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 43
 
@@ -1207,7 +1179,7 @@ Ein schweres Verschulden liegt vor, wenn die versicherte Person ohne entschuldba
 <sup>4</sup> und <sup>5</sup> ...[^46-2]
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^46-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung vom 1. Sept. 2020 bis zum 30. Sept. 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 46a
 
@@ -1296,12 +1268,12 @@ Als voller Arbeitstag gilt der fünfte Teil der normalen wöchentlichen Arbeitsz
 
 <sup>1</sup> Die Karenzzeit wird bestimmt, indem die Abrechnungsperioden zusammengezählt werden, für die eine Kurzarbeits- oder Schlechtwetterentschädigung bezogen wurde.
 
-<sup>2</sup> ...[^50-2]
+<sup>2</sup> Vom anrechenbaren Arbeitsausfall wird für jede Abrechnungsperiode eine Karenzzeit von einem Tag abgezogen.[^50-2]
 
 <sup>3</sup> ...[^50-3]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Aufgehoben durch Ziff. II der V vom 20. Jan. 2021, mit Wirkung vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16), [169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^50-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
 [^50-3]: Eingefügt durch Ziff. I der V vom 19. Sept. 2003 ([AS 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft vom 1. Febr. 2016 bis zum 31. Juli 2017 ([AS 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1382,7 +1354,7 @@ Eine Betriebsabteilung ist einem Betrieb gleichgestellt, wenn sie eine mit eigen
 - a. an den zwei Arbeitstagen unmittelbar vor und nach Feiertagen, die nicht auf einen Samstag oder Sonntag fallen;
 - b. an den fünf Arbeitstagen unmittelbar vor und nach Betriebsferien.
 
-<sup>2</sup> Das SECO kann in Fällen nach Absatz 1 Buchstabe b auf Gesuch des Arbeitgebers Ausnahmen gewähren, wenn nach den besonderen Umständen ein Missbrauch ausgeschlossen werden kann. Der Arbeitgeber muss das Gesuch an die kantonale Amtsstelle richten; diese leitet es zusammen mit ihrer Stellungnahme an das SECO weiter.[^54-1]
+<sup>2</sup> Die Ausgleichsstelle der Arbeitslosenversicherung kann in Fällen nach Absatz 1 Buchstabe b auf Gesuch des Arbeitgebers Ausnahmen gewähren, wenn nach den besonderen Umständen ein Missbrauch ausgeschlossen werden kann. Der Arbeitgeber muss das Gesuch an die kantonale Amtsstelle richten; diese leitet es zusammen mit ihrer Stellungnahme an die der Ausgleichsstelle der Arbeitslosenversicherung weiter.[^54-1]
 
 [^54-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 
@@ -1438,13 +1410,9 @@ Weicht der Lohn im letzten Beitragsmonat um mindestens 10 Prozent vom Durchschni
 
 #### Art. 57b
 
-**Höchstdauer der Kurzarbeitsentschädigung**[^57b-1]
+[^57b-1]
 
-### (Art. 35 Abs. 2 AVIG)
-
-Die Höchstdauer der Kurzarbeitsentschädigung wird um sechs Abrechnungsperioden verlängert.
-
-[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
+[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524); [2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 58
 
@@ -1468,7 +1436,9 @@ Die Höchstdauer der Kurzarbeitsentschädigung wird um sechs Abrechnungsperioden
 
 **Einzureichende Unterlagen**
 
-### (Art. 36 Abs. 2 und 3 AVIG)
+### (Art 36 Abs. 2, 3 und 5 AVIG)
+
+[^59-1]
 
 <sup>1</sup>
 
@@ -1478,9 +1448,12 @@ Zur Voranmeldung der Kurzarbeit muss der Arbeitgeber nebst den Angaben nach Arti
 - b. die Zahl der Arbeitnehmer, deren Arbeitsverhältnis gekündigt oder für welche die Kündigung vorgesehen ist;
 - c. alle weiteren von der kantonalen Amtsstelle verlangten Unterlagen.
 
-<sup>2</sup> Der Arbeitgeber muss die Kurzarbeit auf dem Formular des SECO melden.
+<sup>2</sup> Der Arbeitgeber muss der kantonalen Amtsstelle die Kurzarbeit mit dem Formular der Ausgleichsstelle der Arbeitslosenversicherung melden.[^59-2]
 
-<sup>3</sup> Das SECO kann ein vereinfachtes Verfahren für den Fall vorsehen, dass ein Betrieb während der Zweijahresfrist (Art. 35 Abs. 1 AVIG) unter gleich bleibenden Umständen mehrmals Kurzarbeit anmeldet.
+<sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung kann ein vereinfachtes Verfahren für den Fall vorsehen, dass ein Betrieb während der Zweijahresfrist (Art. 35 Abs. 1 AVIG) unter gleich bleibenden Umständen mehrmals Kurzarbeit anmeldet.
+
+[^59-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^59-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 60
 
@@ -1499,9 +1472,11 @@ Hat der Arbeitgeber die Kurzarbeit angemeldet und eine Kasse bezeichnet, so darf
 
 <sup>3</sup> Hat der Arbeitgeber innert der letzten zwei Jahre Schlechtwetterentschädigung geltend gemacht, so kann er die Kurzarbeitsentschädigung nur dann bei einer andern Kasse geltend machen, wenn eine Voraussetzung nach Absatz 2 erfüllt ist.
 
-<sup>4</sup> Das SECO kann einen Kassenwechsel bewilligen, wenn der Arbeitgeber nachweist, dass die bisherige Kasse nicht in der Lage ist, den Entschädigungsfall ordnungsgemäss abzuwickeln, oder dass sie bei der Erledigung eines früheren Entschädigungsfalles schwerwiegende Fehler begangen hat.
+<sup>4</sup> Die Ausgleichsstelle der Arbeitslosenversicherung kann einen Kassenwechsel bewilligen, wenn der Arbeitgeber nachweist, dass die bisherige Kasse nicht in der Lage ist, den Entschädigungsfall ordnungsgemäss abzuwickeln, oder dass sie bei der Erledigung eines früheren Entschädigungsfalles schwerwiegende Fehler begangen hat.
 
-<sup>5</sup> Die bisherige liefert der neuen Kasse auf Aufforderung alle notwendigen Angaben, insbesondere über die Anzahl der Abrechnungsperioden, für die sie Leistungen ausgerichtet hat.
+<sup>5</sup> Bei einem Kassenwechsel erhält die neue Arbeitslosenkasse Zugriffsrechte auf die Daten des entsprechenden Versichertenfalls sinngemäss nach Artikel 28 Absatz 3.[^60-1]
+
+[^60-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 61
 
@@ -1535,25 +1510,13 @@ Die auf die Ausfallzeiten entfallenden Arbeitgeberbeiträge an die AHV/IV/ EO/ A
 
 Das Einkommen aus Zwischenbeschäftigung wird bei der Berechnung des Verdienstausfalls nicht angerechnet.
 
-[^63-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^63-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 30. Sept. 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 64
 
-**Abzüge wegen Verschuldens des Versicherten**
+[^64-1]
 
-### (Art. 41 Abs. 5 AVIG)
-
-<sup>1</sup>
-
-Die Abzüge von der Kurzarbeitsentschädigung betragen:
-
-- a. 100– 250 Franken bei leichtem Verschulden;
-- b. 251– 550 Franken bei mittelschwerem Verschulden;
-- c. 551–1000 Franken bei schwerem Verschulden.
-
-<sup>2</sup> Die kantonale Amtsstelle übermittelt dem Arbeitgeber, der Kasse und dem SECO unverzüglich je ein Doppel der Verfügung.
-
-<sup>3</sup> Der Arbeitgeber verrechnet im Auftrag der Kasse die rechtskräftig verfügten Abzüge soweit möglich mit auszuzahlenden Kurzarbeitsentschädigungen. Nicht verrechenbare Abzüge muss die Kasse vom Versicherten zurückfordern.
+[^64-1]: Aufgehoben durch Ziff. I der V vom 26. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 ### Drittes Kapitel: Schlechtwetterentschädigung
 
@@ -1659,13 +1622,14 @@ Der anrechenbare Arbeitsausfall vermindert sich für jede dieser Abrechnungsperi
 
 ### (Art. 45 AVIG)
 
-<sup>1</sup> Der Arbeitgeber muss der kantonalen Amtsstelle den wetterbedingten Arbeitsausfall spätestens am fünften Tag des folgenden Kalendermonats auf dem Formular des SECO melden.
+<sup>1</sup> Der Arbeitgeber muss der kantonalen Amtsstelle den wetterbedingten Arbeitsausfall spätestens am fünften Tag des folgenden Kalendermonats mit dem Formular der Ausgleichsstelle der Arbeitslosenversicherung melden.[^69-2]
 
 <sup>2</sup> Hat der Arbeitgeber den wetterbedingten Arbeitsausfall ohne entschuldbaren Grund verspätet gemeldet, so wird der Beginn des Anspruchs um die Dauer der Verspätung verschoben.
 
 <sup>3</sup> Die kantonale Amtsstelle bestimmt durch Verfügung die Tage, für welche Schlechtwetterentschädigung ausgerichtet werden kann.
 
 [^69-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
+[^69-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 70
 
@@ -1695,13 +1659,9 @@ Die auf die Ausfallzeiten entfallenden Arbeitgeberbeiträge an die AHV/IV/ EO/ A
 
 #### Art. 72
 
-**Kontrollvorschriften**[^72-1]
+[^72-1]
 
-### (Art. 49 Abs. 2 AVIG)
-
-Bei wetterbedingten Arbeitsausfällen wird keine Stempelkontrolle durchgeführt, soweit die kantonale Amtsstelle nichts anderes anordnet.
-
-[^72-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^72-1]: Aufgehoben durch Ziff. I der V vom 26. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 ### Viertes Kapitel: Insolvenzentschädigung
 
@@ -1760,7 +1720,7 @@ Die Kasse entrichtet auf der Insolvenzentschädigung die Beiträge (Arbeitnehmer
 
 <sup>3</sup> Den Arbeitnehmeranteil zieht die Kasse von der auszurichtenden Insolvenzentschädigung ab.
 
-<sup>4</sup> Das SECO regelt im Einvernehmen mit dem Bundesamt für Sozialversicherungen das Verfahren.
+<sup>4</sup> Die Ausgleichsstelle der Arbeitslosenversicherung regelt im Einvernehmen mit dem Bundesamt für Sozialversicherungen das Verfahren.
 
 <sup>5</sup> Für die Überprüfung der Abzüge gilt Artikel 35 Absatz 3 sinngemäss.
 
@@ -1772,23 +1732,27 @@ Die Kasse entrichtet auf der Insolvenzentschädigung die Beiträge (Arbeitnehmer
 
 <sup>1</sup>
 
-Der Versicherte, der Insolvenzentschädigung beansprucht, muss der zuständigen Kasse einreichen:
+Die versicherte Person, die Insolvenzentschädigung beansprucht, muss der zuständigen Arbeitslosenkasse einreichen:
 
-- a. das vollständig ausgefüllte Antragsformular;
-- b. den Versicherungsausweis der AHV/IV;
-- c. die Niederlassungs- oder Aufenthaltsbewilligung oder eine Wohnsitzbescheinigung der Gemeinde oder, wenn er Ausländer ist, den Ausländerausweis;
-- d. alle weiteren Unterlagen, welche die Kasse zur Beurteilung seines Anspruchs verlangt.
+- a. den Antrag auf Insolvenzentschädigung;
+- b. die Versichertennummer der AHV;
+- c. bei ausländischer Staatsbürgerschaft den Ausländerausweis;
+- d. die weiteren Informationen, welche die Arbeitslosenkasse zur Beurteilung des Anspruchs verlangt.[^77-1]
 
-<sup>2</sup> Nötigenfalls setzt die Kasse dem Versicherten eine angemessene Frist für die Vervollständigung der Unterlagen und macht ihn auf die Folgen der Unterlassung aufmerksam.
+<sup>2</sup> Nötigenfalls setzt die Arbeitslosenkasse der versicherten Person eine angemessene Frist für die Vervollständigung des Dossiers und macht sie auf die Folgen der Unterlassung aufmerksam.[^77-2]
 
-<sup>3</sup> Sind im Konkurs eines Arbeitgebers Zweigniederlassungen oder Betriebsstätten in einem andern Kanton betroffen, so können deren Arbeitnehmer ihren Anspruch über die öffentliche Kasse dieses Kantons geltend machen. Diese übermittelt die Anträge mit den Unterlagen der zuständigen Kasse.
+<sup>3</sup> Sind im Konkurs eines Arbeitgebers Zweigniederlassungen oder Betriebsstätten in einem andern Kanton betroffen, so können deren Arbeitnehmerinnen und Arbeitnehmer ihren Anspruch bei der öffentlichen Arbeitslosenkasse dieses Kantons geltend machen. Zuständig für die Bearbeitung dieser Anträge ist die öffentliche Arbeitslosenkasse am Sitz des Arbeitgebers.[^77-3]
 
-<sup>4</sup> Unterliegt der Arbeitgeber nicht der Zwangsvollstreckung in der Schweiz, so ist die öffentliche Kasse des Kantons zuständig, in dem der frühere Arbeitsort liegt. Bestanden Arbeitsorte in verschiedenen Kantonen, so bezeichnet das SECO die zuständige Kasse.
+<sup>4</sup> Unterliegt der Arbeitgeber nicht der Zwangsvollstreckung in der Schweiz, so ist die öffentliche Arbeitslosenkasse des Kantons zuständig, in dem der frühere Arbeitsort der versicherten Person liegt. Bestanden Arbeitsorte in verschiedenen Kantonen, so bezeichnet die Ausgleichsstelle der Arbeitslosenversicherung die zuständige Arbeitslosenkasse.[^77-4]
 
-<sup>5</sup> Im Fall nach Artikel 51 Buchstabe b AVIG hat der Arbeitnehmer oder die Arbeitnehmerin den Anspruch auf Insolvenzentschädigung spätestens 60 Tage nach Kenntnisnahme des unbenützten Ablaufs der Frist für die Leistung des Kostenvorschusses nach Artikel 169 Absatz 2 des Bundesgesetzes vom 11. April 1889[^77-1] über Schuldbetreibung und Konkurs geltend zu machen.[^77-2]
+<sup>5</sup> Im Fall nach Artikel 51 Buchstabe b AVIG hat der Arbeitnehmer oder die Arbeitnehmerin den Anspruch auf Insolvenzentschädigung spätestens 60 Tage nach Kenntnisnahme des unbenützten Ablaufs der Frist für die Leistung des Kostenvorschusses nach Artikel 169 Absatz 2 des Bundesgesetzes vom 11. April 1889[^77-5] über Schuldbetreibung und Konkurs geltend zu machen.[^77-6]
 
-[^77-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^77-2]: Eingefügt durch Ziff. I der V vom 28. Aug. 1991 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^77-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-4]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-5]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^77-6]: Eingefügt durch Ziff. I der V vom 28. Aug. 1991 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 78
 
@@ -1804,7 +1768,7 @@ Die zuständige Kasse kann öffentliche Kassen anderer Kantone für die Erledigu
 
 ### (Art. 54 AVIG)
 
-Verfahrensanträge, die für die Kasse mit einem Kostenrisiko verbunden sind, darf sie nur mit Zustimmung des SECO stellen. Dasselbe gilt für betreibungsrechtliche Klagen.
+Verfahrensanträge, die für die Kasse mit einem Kostenrisiko verbunden sind, darf sie nur mit Zustimmung der Ausgleichsstelle der Arbeitslosenversicherung stellen. Dasselbe gilt für betreibungsrechtliche Klagen.
 
 #### Art. 80
 
@@ -1812,11 +1776,11 @@ Verfahrensanträge, die für die Kasse mit einem Kostenrisiko verbunden sind, da
 
 ### (Art. 54 Abs. 2 AVIG)
 
-<sup>1</sup> Müssen Forderungen im Ausland geltend gemacht werden, so unterbreitet die Kasse den Fall mit allen Unterlagen dem SECO.
+<sup>1</sup> Müssen Forderungen im Ausland geltend gemacht werden, so unterbreitet die Kasse den Fall mit allen Unterlagen der Ausgleichsstelle der Arbeitslosenversicherung.
 
-<sup>2</sup> Erscheint die Durchsetzung der Forderung zweifelhaft oder muss mit Umtrieben gerechnet werden, die in keinem vertretbaren Verhältnis zum Ergebnis stehen, so kann das SECO die Kasse ermächtigen, auf die Geltendmachung der Forderung zu verzichten.
+<sup>2</sup> Erscheint die Durchsetzung der Forderung zweifelhaft oder muss mit Umtrieben gerechnet werden, die in keinem vertretbaren Verhältnis zum Ergebnis stehen, so kann die Ausgleichsstelle der Arbeitslosenversicherung die Kasse ermächtigen, auf die Geltendmachung der Forderung zu verzichten.
 
-### Fünftes Kapitel: Arbeitsmarktliche Massnahmen****
+### Fünftes Kapitel: Arbeitsmarktliche Massnahmen
 
 [^tit2-chap5-1]
 
@@ -1849,14 +1813,15 @@ Verfahrensanträge, die für die Kasse mit einem Kostenrisiko verbunden sind, da
 
 ### (Art. 59*a* AVIG)
 
-<sup>1</sup> Die kantonale Amtsstelle übermittelt die für die Durchführung der Erfolgskontrolle notwendigen Daten dem Informationssystem über die Arbeitsvermittlung und die Arbeitsmarktstatistik (AVAM).
+<sup>1</sup> Die kantonale Amtsstelle übermittelt die für die Durchführung der Erfolgskontrolle notwendigen Daten dem Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG).[^81a-2]
 
 <sup>2</sup> Institutionen und Personen, die arbeitsmarktliche Massnahmen durchführen, liefern Informationen, nehmen an den Kontrollmassnahmen teil und erstellen eine Auswertung der erzielten Resultate.
 
-<sup>3</sup> Die Ausgleichsstelle wertet die Daten nach Absatz 1 aus. Sie verwendet die Ergebnisse zur Weiterentwicklung von arbeitsmarktlichen Massnahmen. Dabei berücksichtigt sie insbesondere die Bedürfnisse von Stellensuchenden, deren Eingliederung in den Arbeitsmarkt erschwert ist.[^81a-2]
+<sup>3</sup> Die Ausgleichsstelle wertet die Daten nach Absatz 1 aus. Sie verwendet die Ergebnisse zur Weiterentwicklung von arbeitsmarktlichen Massnahmen. Dabei berücksichtigt sie insbesondere die Bedürfnisse von Stellensuchenden, deren Eingliederung in den Arbeitsmarkt erschwert ist.[^81a-3]
 
 [^81a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^81a-2]: Eingefügt durch Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^81a-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^81a-3]: Eingefügt durch Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 81b
 
@@ -1994,11 +1959,11 @@ Der Veranstalter der Massnahme darf von den teilnehmenden Personen keine Beiträ
 
 **Bescheinigung des Veranstalters der Bildungs- oder Beschäftigungsmassnahme**[^87-1]
 
-### (Art. 59*c*<sup>bis</sup> Abs. 2 und 3 AVIG)
+### (Art. 59*c*<sup>bis</sup> AVIG)
 
-Der Veranstalter der Bildungs- oder Beschäftigungsmassnahme bescheinigt der versicherten Person zuhanden der Arbeitslosenkasse bis zum dritten Werktag des folgenden Monats die Anzahl Tage effektiver Teilnahme an der Massnahme und führt allfällige Absenzen auf.
+Der Veranstalter von Bildungs- oder Beschäftigungsmassnahmen bestätigt für jede Kontrollperiode spätestens am dritten Werktag des folgenden Monats die Anzahl Tage, an denen die versicherte Person effektiv an der Massnahme teilgenommen hat, und führt die Absenzen auf.
 
-[^87-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^87-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 88
 
@@ -2418,7 +2383,7 @@ Als anrechenbare Kosten gelten in der Regel:
 
 ### (Art. 79 Abs. 1 AVIG)
 
-Die Kassen melden dem SECO die für die Geschäftsführung verantwortlichen Personen sowie jeden Wechsel bei diesen Personen.
+Die Kassen melden der Ausgleichsstelle der Arbeitslosenversicherung die für die Geschäftsführung verantwortlichen Personen sowie jeden Wechsel bei diesen Personen.
 
 #### Art. 104
 
@@ -2512,11 +2477,14 @@ Die Prüfungen der Geschäftsführung bei den ALV-Durchführungsstellen umfassen
 
 **Prüfung der EDV-Anwendungen**[^109b-1]
 
-### (Art. 83 Abs. 1 Bst. i und o AVIG)
+### (Art. 83 Abs. 1<sup>bis</sup> AVIG)
+
+[^109b-2]
 
 Die Ausgleichsstelle und die von ihr beauftragten Treuhandstellen prüfen periodisch und stichprobenweise die EDV-Anwendungen sowie die technischen Vorkehren und die Sicherheitsaspekte. Die Prüfung erstreckt sich insbesondere auf das Auszahlungssystem der Arbeitslosenkassen und die Buchhaltungs- und Finanzanwendungen.
 
 [^109b-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^109b-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 110
 
@@ -2705,27 +2673,21 @@ Bei der Zuweisung der Mittel an die Kassen berücksichtigt die Ausgleichsstelle 
 
 Die örtliche Zuständigkeit der kantonalen Amtsstelle richtet sich:
 
-- a. für die Arbeitslosenentschädigung sowie für die Kontrolle bei Kurzarbeit (Art. 40 AVIG) und bei wetterbedingtem Arbeitsausfall (Art. 49 AVIG) nach dem Ort, wo der Versicherte die Kontrollpflicht erfüllt;
-- b. für die Kurzarbeitsentschädigung nach dem Ort des Betriebes;
-- c.[^119-1] für die Schlechtwetterentschädigung in der Schweiz nach dem Arbeitsort, im Ausland nach dem Ort des Betriebes;
-- [tab] d.[^119-2] für die Insolvenzentschädigung nach dem Ort des zuständigen Betreibungs- und Konkursamtes. Unterliegt der Arbeitgeber nicht der Zwangsvollstreckung in der Schweiz, so richtet sich die Zuständigkeit nach dem früheren Arbeitsort des Versicherten;
-- e.[^119-3] für die Beiträge an Umschulungs- und Weiterbildungseinrichtungen sowie an Programme zur vorübergehenden Beschäftigung nach dem Sitz der gesuchstellenden Institution;
-- f.[^119-4] für Personen, die sich zur Stellensuche vorübergehend in der Schweiz aufhalten, nach Artikel 20*a*;
-- [tab] g.[^119-5] für alle übrigen Fälle nach dem Wohnort des Versicherten.
+- a. für die Arbeitslosenentschädigung: nach dem Ort, an dem die versicherte Person die Kontrollpflicht erfüllt (Art. 18);
+- b. für die Kurzarbeitsentschädigung: nach dem Ort des Betriebs;
+- c. für die Schlechtwetterentschädigung: nach dem Ort des Betriebs;
+- d. für die Beiträge an Umschulungs- und Weiterbildungseinrichtungen sowie an Programme zur vorübergehenden Beschäftigung: nach dem Sitz der gesuchstellenden Institution;
+- e. für alle übrigen Fälle: nach dem Wohnort der versicherten Person.[^119-1]
 
 <sup>2</sup> Massgebend ist der Zeitpunkt der Verfügung.
 
-<sup>3</sup> Zuständig für die Beurteilung eines Gesuches um Erlass einer Rückforderung ist die kantonale Amtsstelle des Kantons, in dem der Versicherte bei Eröffnung der Rückforderungsverfügung seinen Wohnort hatte.[^119-6]
+<sup>3</sup> Zuständig für die Beurteilung eines Gesuches um Erlass einer Rückforderung ist die kantonale Amtsstelle des Kantons, in dem der Versicherte bei Eröffnung der Rückforderungsverfügung seinen Wohnort hatte.[^119-2]
 
-<sup>4</sup> Zweifelt eine Amtsstelle an ihrer Zuständigkeit, so klärt sie diese zusammen mit jener Amtsstelle ab, die ebenfalls zuständig sein könnte. Können sich die beiden Amtsstellen nicht einigen, so wenden sie sich an die Ausgleichsstelle; diese bezeichnet die zuständige Amtsstelle.[^119-7]
+<sup>4</sup> Zweifelt eine Amtsstelle an ihrer Zuständigkeit, so klärt sie diese zusammen mit jener Amtsstelle ab, die ebenfalls zuständig sein könnte. Können sich die beiden Amtsstellen nicht einigen, so wenden sie sich an die Ausgleichsstelle; diese bezeichnet die zuständige Amtsstelle.[^119-3]
 
-[^119-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^119-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^119-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^119-3]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^119-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^119-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Juni 2002 ([AS 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)).
-[^119-6]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^119-7]: Eingefügt durch Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
 
 #### Art. 119a
 
@@ -2748,13 +2710,13 @@ Mehrere Kantone können durch Vereinbarung gemeinsam RAV und LAM-Stellen erricht
 - c. die rechtliche Stellung der Leitung und der Mitarbeitenden;
 - d. die Vertretung gegenüber der Ausgleichsstelle.[^119a-4]
 
-<sup>4</sup> Jedes RAV und jede LAM-Stelle ist an das AVAM angeschlossen und bearbeitet die für den Vollzug der Aufgaben sowie für statistische Zwecke relevanten Daten gemäss Artikel 83 Absatz 1 Buchstabe i AVIG.[^119a-5]
+<sup>4</sup> ...[^119a-5]
 
 [^119a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^119a-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^119a-3]: Fassung gemäss Ziff. I der V vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 [^119a-4]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^119a-5]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^119a-5]: Aufgehoben durch Ziff. I der V vom 26. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119b
 
@@ -2762,13 +2724,14 @@ Mehrere Kantone können durch Vereinbarung gemeinsam RAV und LAM-Stellen erricht
 
 ### (Art. 85*b* Abs. 4 AVIG)
 
-<sup>1</sup> Die mit der öffentlichen Arbeitsvermittlung betrauten Personen müssen innerhalb von fünf Jahren nach ihrer Einstellung im Besitz des Eidgenössischen Fachausweises Personalberatung sein oder eine vom VSAA als gleichwertig anerkannte Ausbildung oder Berufserfahrung vorweisen.
+<sup>1</sup> Die mit der öffentlichen Arbeitsvermittlung betrauten Personen müssen innerhalb von fünf Jahren nach ihrer Einstellung einen Berufsabschluss mit dem Titel «HR-Fachmann/HR-Fachfrau mit eidgenössischem Fachausweis, Fachrichtung Öffentliche Personalvermittlung und -beratung» haben oder eine von der Ausgleichsstelle der Arbeitslosenversicherung als gleichwertig anerkannte Ausbildung oder Berufserfahrung vorweisen.[^119b-2]
 
 <sup>2</sup> Die Kantone sind verantwortlich für die Qualifizierung der mit der öffentlichen Arbeitsvermittlung betrauten Personen. Sie sorgen für eine spezifische Grundausbildung und eine adäquate Weiterbildung.
 
 <sup>3</sup> Die Ausgleichsstelle stellt zur Aufrechterhaltung der Transparenz im Ausbildungsbereich geeignete Informatikmittel zur Verfügung. In besonderen Fällen kann sie selber Ausbildungskurse anbieten oder solche als obligatorisch erklären.
 
 [^119b-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^119b-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119c
 
@@ -2798,13 +2761,14 @@ Mehrere Kantone können durch Vereinbarung gemeinsam RAV und LAM-Stellen erricht
 Die zuständige kantonale Amtsstelle regelt die Zusammenarbeit zwischen privaten Stellenvermittlern und den RAV schriftlich in einem Vertrag. Darin verpflichten sich die privaten Stellenvermittler, das RAV:
 
 - a. über den Ausgang der Vermittlungsbemühungen zu orientieren und ihm fehlbares Verhalten von Versicherten zu melden;
-- b. mit den nötigen Informationen zu versehen, damit dieses seine Aufgaben in der Arbeitsmarktbeobachtung über das AVAM wahrnehmen kann.
+- b.[^119cbis-2] mit den nötigen Informationen zu versehen, damit dieses seine Aufgaben in der Arbeitsmarktbeobachtung über das Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG) wahrnehmen kann.
 
 <sup>3</sup> Private Stellenvermittler können für die erbrachten Dienstleistungen aus dem Ausgleichsfonds der Arbeitslosenversicherung entschädigt werden. Die Ausgleichsstelle legt die zu Entschädigungen berechtigenden Dienstleistungen und die Höhe der Entschädigung fest.
 
 <sup>4</sup> Daten über Versicherte oder offene Stellen dürfen nur mit dem Einverständnis der betroffenen Versicherten oder Arbeitgeber an private Stellenvermittler oder an Dritte weitergegeben werden.
 
 [^119cbis-1]: Eingefügt durch Ziff. I der V vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
+[^119cbis-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119d
 
@@ -2877,11 +2841,11 @@ Die Aufsichtskommission kann Aufgaben nach Artikel 89 AVIG einem Ausschuss über
 
 <sup>1</sup> Die durch den Beitragsbezug entstandenen Kosten werden den AHV-Ausgleichskassen mit einer pauschalen Entschädigung vergütet.
 
-<sup>2</sup> Die Entschädigung der Ausgleichskasse richtet sich nach der Zahl der angeschlossenen Arbeitgeber und nach der durchschnittlichen AHV/IV/EO-Beitragssumme je Arbeitgeber. Das Bundesamt für Sozialversicherungen setzt die Entschädigungsansätze im Einvernehmen mit dem SECO fest.
+<sup>2</sup> Die Entschädigung der Ausgleichskasse richtet sich nach der Zahl der angeschlossenen Arbeitgeber und nach der durchschnittlichen AHV/IV/EO-Beitragssumme je Arbeitgeber. Das Bundesamt für Sozialversicherungen setzt die Entschädigungsansätze im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung fest.
 
 <sup>3</sup> Das Bundesamt für Sozialversicherungen bestimmt die Stichjahre für die Berechnung, ermittelt die Rechnungselemente und setzt die Entschädigungen im einzelnen fest.
 
-<sup>4</sup> AHV-Ausgleichskassen, die nachweisen, dass die Entschädigung die Kosten des Beitragsbezuges offensichtlich nicht deckt, können beim Bundesamt für Sozialversicherungen eine angemessene zusätzliche Entschädigung verlangen. Dieses Amt entscheidet im Einvernehmen mit dem SECO.
+<sup>4</sup> AHV-Ausgleichskassen, die nachweisen, dass die Entschädigung die Kosten des Beitragsbezuges offensichtlich nicht deckt, können beim Bundesamt für Sozialversicherungen eine angemessene zusätzliche Entschädigung verlangen. Dieses Amt entscheidet im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung.
 
 #### Art. 122a
 
@@ -2998,30 +2962,17 @@ Als Vorschussleistungen gelten:
 
 #### Art. 125
 
-**Aktenaufbewahrung**[^125-1]
+**Datenaufbewahrung**[^125-1]
 
-### (Art. 46 ATSG, 79, 81 Abs. 1 und 96*b* AVIG)
+### (Art. 46 ATSG; Art. 96*c* Abs. 3 AVIG)
 
-[^125-2]
+<sup>1</sup> Daten aus Geschäftsbüchern und Buchungsbelegen sind zehn Jahre aufzubewahren.
 
-<sup>1</sup> Die Kassen bewahren ihre Bücher und Buchungsbelege zehn Jahre und die Akten über die Versicherungsfälle nach Abschluss der Rahmenfrist für den Leistungsbezug mindestens fünf Jahre auf.
+<sup>2</sup> Daten über die Versicherungsfälle sind nach ihrer letzten Bearbeitung fünf Jahre aufzubewahren.
 
-<sup>2</sup> Die abgeschlossenen Akten können in der Form von Aufzeichnungen auf Bild- oder Datenträger aufbewahrt werden. Die Aufzeichnungen müssen die Dokumente originalgetreu wiedergeben.
+<sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung überwacht die Datenaufbewahrung.
 
-<sup>3</sup> Die Kassen und die für die Aufbewahrung auf Bild- oder Datenträgern betrauten Organe treffen die notwendigen Massnahmen, um die Personendaten gegen Verlust, unbefugte Bearbeitung oder Kenntnisnahme und gegen unbefugte Aneignung angemessen zu schützen. Die Aufzeichnungen müssen jederzeit lesbar gemacht werden können.
-
-<sup>4</sup> Bei Auflösung der Kasse ist deren Träger für die ordnungsgemässe Aufbewahrung verantwortlich. Gibt es keinen Träger, so bezeichnet die Kasse mit dem Liquidationsbeschluss eine Person oder Stelle, die für die ordnungsgemässe Aufbewahrung verantwortlich ist.
-
-<sup>5</sup> Akten und Aufzeichnungen auf Bild- oder Datenträgern, die personenbezogene Daten enthalten, müssen spätestens nach zehn Jahren vernichtet werden. Vorbehalten bleibt die Pflicht zur Ablieferung von Akten an die staatlichen Archive.
-
-<sup>6</sup> Die Kassen sind für die Aufzeichnung der aufzubewahrenden Akten auf Bild- oder Datenträger verantwortlich. Wenn sie diese Aufgabe einem zentralen Dienst übertragen, ist eine Kasse zu bezeichnen, die insgesamt die Verantwortung trägt. Diese erlässt ein Bearbeitungsreglement, welches die vorgeschriebenen Bestimmungen der eidgenössischen Gesetzgebung über den Datenschutz enthält.
-
-<sup>7</sup> Die Aufsichtsbehörde überwacht die Durchführung.
-
-<sup>8</sup> Dieser Artikel gilt für die übrigen Durchführungsstellen sinngemäss.
-
-[^125-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^125-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^125-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 126
 
@@ -3064,14 +3015,15 @@ Die betroffene Person kann von den Stellen, welche die Daten bearbeiten, verlang
 
 ### (Art. 97*a* Abs. 6 AVIG)
 
-<sup>1</sup> In den Fällen nach Artikel 97*a* Absatz 4 AVIG wird eine Gebühr erhoben, wenn die Datenbekanntgabe zahlreiche Kopien oder andere Vervielfältigungen oder besondere Nachforschungen erfordert. Die Höhe dieser Gebühr entspricht den in den Artikeln 14 und 16 der Verordnung vom 10. September 1969[^126a-2] über Kosten und Entschädigungen im Verwaltungsverfahren festgesetzten Beträgen.
+<sup>1</sup> In Fällen nach Artikel 97*a* Absatz 4 AVIG wird eine Gebühr erhoben, wenn die Datenbekanntgabe zahlreiche Kopien oder andere Vervielfältigungen oder besondere Nachforschungen erfordert. Es gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^126a-2].[^126a-3]
 
 <sup>2</sup> Für Publikationen nach Artikel 97*a* Absatz 3 AVIG wird eine kostendeckende Gebühr erhoben.
 
 <sup>3</sup> Die Gebühr kann wegen Bedürftigkeit der gebührenpflichtigen Person oder aus anderen wichtigen Gründen ermässigt oder erlassen werden.
 
 [^126a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^126a-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^126a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^126a-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 127
 
@@ -3085,11 +3037,12 @@ Die betroffene Person kann von den Stellen, welche die Daten bearbeiten, verlang
 
 ### (Art. 100 Abs. 3 AVIG)
 
-<sup>1</sup> Die Zuständigkeit des kantonalen Versicherungsgerichts für die Beurteilung von Beschwerden gegen Kassenverfügungen richtet sich sinngemäss nach Artikel 119.
+<sup>1</sup> Die Zuständigkeit des kantonalen Versicherungsgerichts für die Beurteilung von Beschwerden gegen Kassenverfügungen richtet sich sinngemäss nach den Artikeln 77 und 119.[^128-2]
 
 <sup>2</sup> Zuständig für die Beurteilung von Beschwerden gegen Verfügungen einer kantonalen Amtsstelle ist das Versicherungsgericht desselben Kantons.
 
 [^128-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
+[^128-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 128a
 
@@ -3099,11 +3052,11 @@ Die betroffene Person kann von den Stellen, welche die Daten bearbeiten, verlang
 
 [^128a-2]
 
-<sup>1</sup> Die Entscheide der letzten kantonalen Instanz sind den Parteien, der Vorinstanz, der kantonalen Amtsstelle und dem SECO zu eröffnen.
+<sup>1</sup> Die Entscheide der letzten kantonalen Instanz sind den Parteien, der Vorinstanz, der kantonalen Amtsstelle und der Ausgleichsstelle der Arbeitslosenversicherung zu eröffnen.
 
 <sup>2</sup>
 
-Dem SECO sind überdies zu eröffnen:
+Der Ausgleichsstelle der Arbeitslosenversicherung sind überdies zu eröffnen:
 
 - a. Einstellungsverfügungen nach Artikel 30 Absatz 1 Buchstaben c und d AVIG, sofern diese nicht durch die RAV erlassen werden (Art. 85*b* Abs. 1 AVIG);
 - b. Einstellungsverfügungen nach Artikel 30 Absatz 1 Buchstabe e AVIG, sofern die Auskunftspflicht gegenüber der kantonalen Amtsstelle oder dem Arbeitsamt verletzt wurde und die Verfügungen nicht durch die RAV erlassen werden (Art. 85*b* Abs. 1 AVIG);
@@ -3113,7 +3066,7 @@ Dem SECO sind überdies zu eröffnen:
 - f. Verfügungen über Fälle, die gestützt auf Artikel 81 Absatz 2 AVIG der kantonalen Amtsstelle oder einer von dieser bezeichneten Stelle zum Entscheid unterbreitet worden sind;
 - g. Verfügungen nach Artikel 85 Absatz 1 Buchstabe d AVIG, sofern diese nicht durch die RAV erlassen werden (Art. 85*b* Abs. 1 AVIG);
 - h. Entscheide über Erlassgesuche nach Artikel 95 AVIG;
-- i. Einspracheentscheide über Verfügungen, die gemäss Buchstaben a–h dem SECO zu eröffnen sind, sowie Einspracheentscheide, die von einer anderen als der verfügenden Stelle erlassen werden (Art. 100 Abs. 2 AVIG).
+- i. Einspracheentscheide über Verfügungen, die gemäss Buchstaben a–h der Ausgleichsstelle der Arbeitslosenversicherung zu eröffnen sind, sowie Einspracheentscheide, die von einer anderen als der verfügenden Stelle erlassen werden (Art. 100 Abs. 2 AVIG).
 
 [^128a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
 [^128a-2]: Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -3169,19 +3122,19 @@ Die Verordnung vom 25. Februar 1986[^130-2] über die Verwaltungskostenbeschwerd
 
 [^132-1]: [AS 2011 1241](https://fedlex.data.admin.ch/eli/oc/2011/184)
 
-## Schlussbestimmung der Änderung vom 25. April 1985****
+## Schlussbestimmung der Änderung vom 25. April 1985
 
 [^u1-1]
 
 [^u1-1]: [AS 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Aufgehoben durch Ziff. IV 55 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 6. November 1996****
+## Schlussbestimmungen der Änderung vom 6. November 1996
 
 [^u2-1]
 
 [^u2-1]: [AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Aufgehoben durch Ziff. IV 55 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Übergangsbestimmung zur Änderung vom 2. März 2012****
+## Übergangsbestimmung zur Änderung vom 2. März 2012
 
 [^u3-1]
 
@@ -3192,7 +3145,7 @@ In Bezug auf Island, Liechtenstein, und Norwegen gilt bis zum Inkrafttreten der 
 [^u3-2]: [AS 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 41*c* Abs. 9)
 

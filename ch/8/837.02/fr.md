@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2021-04-01
+version: 2021-07-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210401/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (Etat le 1<sup>er</sup> avril 2021)
+du 31 août 1983 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -30,15 +30,33 @@ arrête:
 [^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Titre 1**** Application de la LPGA aux mesures collectives relatives au marché du travail
+## Titre 1 Applicabilité de la LPGA
 
-[^tit1-1]
+[^tit1-1][^tit1-2]
 
 [^tit1-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^tit1-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 1
+
+**Communication électronique avec les autorités**[^1-1]
+
+### (art. 55, al. 1<sup>bis</sup>, LPGA; art. 1 LACI)
+
+<sup>1</sup> En application de l’art. 55, al. 1<sup>bis</sup>, LPGA, les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^1-2] relatives à la communication électronique avec les autorités sont applicables.
+
+<sup>2</sup> La communication électronique s’effectue jusqu’à la décision sur opposition via la plateforme d’accès aux services en ligne (art. 83, al. 1<sup>bis</sup>, let. d, LACI).
+
+[^1-1]: Introduit par le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^1-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 1a
+
+**Mesures collectives relatives au marché du travail**[^1a-1]
 
 ### (art. 1, al. 3, LACI)
 
-#### Art. 1
+[^1a-2]
 
 Sont réputées mesures collectives relatives au marché du travail au sens de l’art. 1, al. 3, LACI:
 
@@ -46,29 +64,34 @@ Sont réputées mesures collectives relatives au marché du travail au sens de l
 - b. les mesures d’emploi collectives (art. 64*a*, al. 1, LACI);
 - c. les mesures collectives spécifiques que les cantons ou l’organe de compensation de l’assurance-chômage prennent en vertu de la législation fédérale sur l’assurance-chômage en faveur des personnes au chômage ou menacées de chômage.
 
-## Titre 1*a***** Cotisations
+[^1a-1]: Anciennement art.1
+[^1a-2]: Introduit par le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+## Titre 1*a* Cotisations
 
 [^tit1a-1]
 
 [^tit1a-1]: Anciennement tit. 1.
 
-#### Art. 1a
+#### Art. 2
 
-**Plafonnement du salaire soumis à cotisation**[^1a-1]
+**Plafonnement du salaire soumis à cotisation**[^2-1]
 
 ### (art. 3 LACI)
 
 Lorsque la durée de l’occupation est inférieure à une année, le plafond du salaire soumis à cotisation est obtenu par multiplication du 1/360<sup>e</sup> du montant annuel maximum par le nombre de jours civils de la période d’occupation.
 
-[^1a-1]: Anciennement art. 1. Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^2-1]: Anciennement art. 1 puis 1*a*. Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-#### Art. 2
+#### Art. 2a
 
-**Contribution aux frais d’administration**
+**Contribution aux frais d’administration**[^2a-1]
 
 ### (art. 6 et 92, al. 1, LACI)
 
 Sur leurs cotisations d’assurance-chômage, les employeurs et les travailleurs ne sont pas tenus de verser une contribution aux frais d’administration à la caisse de compensation de l’AVS.
+
+[^2a-1]: Anciennement art. 2.
 
 ## Titre 2 Prestations
 
@@ -228,7 +251,8 @@ Sont notamment réputées professions dans lesquelles les changements de place o
 - d. collaborateur artistique de la radio, de la télévision ou de cinéma;
 - e. technicien du film;
 - f. journaliste.
-- [tab] <sup>2</sup> ...[^8-2]
+
+<sup>2</sup> ...[^8-2]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^8-2]: Abrogé par le ch. I de l’O du 6 nov. 1996, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
@@ -484,174 +508,153 @@ Il y a exception au sens de l’art. 16, al. 2, let. i, LACI en particulier lors
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### Section 2 Conseil et contrôle****
+### Section 2 Inscription, conseil et contrôle
 
 [^tit2-chap1-sec2-1]
 
-[^tit2-chap1-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
+[^tit2-chap1-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 18
 
 **Compétence à raison du lieu**[^18-1]
 
-### (art 17, al. 2, LACI)
+### (art 17, al. 2 et 2<sup>bis</sup>, LACI)
 
-<sup>1</sup> Est réputée lieu de domicile de l’assuré la localité où l’assuré réside au sens des art. 23 et 25 du code civil suisse[^18-2].
+[^18-2]
 
-<sup>2</sup> Les entretiens de conseil et de contrôle sont conduits par l’office compétent.
+<sup>1</sup> L’office du lieu de domicile de l’assuré est compétent pour son inscription en vue du placement ainsi que pour les entretiens de conseil et de contrôle ultérieurs.[^18-3]
 
-<sup>3</sup> Les assurés sous tutelle qui ne séjournent pas habituellement au lieu où l’autorité de tutelle a son siège peuvent avoir leurs entretiens de conseil et de contrôle avec l’office compétent de leur lieu de séjour si le tuteur a donné son autorisation écrite.
+<sup>2</sup> Est réputé lieu de domicile de l’assuré le lieu où l’assuré réside au sens des art. 23 et 25 du code civil[^18-4].[^18-5]
+
+<sup>3</sup> Les personnes au bénéfice d’une mesure de protection de l’adulte qui ne séjournent pas habituellement au lieu où l’autorité de protection de l’adulte a son siège peuvent, si elles obtiennent l’autorisation écrite de cette autorité, avoir leurs entretiens de conseil et de contrôle auprès de l’office compétent de leur lieu de séjour.[^18-6]
 
 <sup>4</sup> Les personnes qui ne rentrent à leur domicile qu’en fin de semaine ont leurs entretiens de conseil et de contrôle avec l’office compétent de leur lieu de domicile ou du lieu où elles séjournent pendant la semaine.
 
-<sup>5</sup> Les personnes sous tutelle et celles qui ne rentrent à leur domicile qu’en fin de semaine doivent toujours avoir leurs entretiens de conseil et de contrôle avec le même office compétent, sauf en cas de changement de lieu de domicile ou de lieu de séjour.
+<sup>5</sup> L’office du lieu de séjour des personnes qui séjournent temporairement en Suisse pour y chercher du travail en vertu de l’art. 64 du règlement (CE) n<sup>o</sup> 883/2004[^18-7] est compétent pour l’inscription ainsi que pour les entretiens de conseil et de contrôle ultérieurs. Cet office reste compétent pendant toute la durée du séjour en Suisse.[^18-8]
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^18-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-5]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-6]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-7]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, dans la version qui lie la Suisse en vertu l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) (une version consolidée, non contraignante, de ce règlement figure sous [RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)) ainsi que dans la version qui lie la Suisse en vertu de l’appendice 2 de l’annexe K de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE) ([RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)).
+[^18-8]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19
 
-**Présentation à la commune ou à l’office compétent**[^19-1]
+**Inscription personnelle en vue du placement**[^19-1]
 
-### (art. 17, al. 2, LACI)
+### (art. 29 LPGA; art. 10, al. 3, et 17, al. 2, LACI)
 
-<sup>1</sup> L’assuré doit se présenter à la commune de son domicile (art. 18) ou à l’office compétent selon le droit cantonal.
+<sup>1</sup> L’assuré doit s’inscrire personnellement en vue du placement. L’inscription peut être effectuée via la plateforme d’accès aux services en ligne (art. 83, al. 1<sup>bis</sup>, let. d, LACI) ou en se présentant auprès de l’office compétent (art. 18).
 
-<sup>2</sup> Il y choisit la caisse de chômage. La commune et l’office compétent dirigent l’assuré aux organes d’exécution compétents en matière de renseignements et de conseil au sens de l’art. 27 LPGA.
+<sup>2</sup> Lors de son inscription, l’assuré doit fournir son numéro d’assuré AVS.
 
-<sup>3</sup> La commune ou l’office compétent donne confirmation à l’assuré de la date à laquelle il s’est présenté et de la caisse qu’il a choisie. Le canton est responsable de la saisie des données de contrôle. Ces données doivent être saisies dans les sept jours à compter de la date à laquelle il s’est présenté à la commune ou à l’office compétent. L’autorité cantonale peut prolonger ce délai jusqu’à quinze jours au maximum notamment en cas de licenciements collectifs.
+<sup>3</sup> Il reçoit une confirmation écrite de la date à laquelle il s’est inscrit.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19a
 
-**Renseignements sur les droits et obligations**[^19a-1]
+[^19a-1]
+
+[^19a-1]: Introduit par le ch. I de l’O du 11 sept. 2002 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)). Abrogé par le ch. I de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 20
+
+**Vérification et enregistrement des données d’inscription**[^20-1]
+
+### (art. 17, al. 2<sup>bis</sup>, LACI)
+
+<sup>1</sup> L’office compétent vérifie la validité du numéro d’assuré AVS.
+
+<sup>2</sup> Il vérifie les données d’inscription et les enregistre dans le système d’information servant au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI).
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 20a
+
+**Premier entretien de conseil et de contrôle**[^20a-1]
+
+### (art. 17 LACI)
+
+<sup>1</sup> L’office compétent mène un premier entretien de conseil et de contrôle avec l’assuré dans les 15 jours qui suivent la date d’inscription (art. 19, al. 3).
+
+<sup>2</sup> L’identité de l’assuré est vérifiée lors de l’entretien.
+
+<sup>3</sup> L’assuré fournit lors de l’entretien toutes les informations exigées par l’office compétent, notamment la preuve de ses recherches d’emploi.
+
+[^20a-1]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 21
+
+**Entretiens de conseil et de contrôle**[^21-1]
+
+### (art. 17 LACI)
+
+<sup>1</sup> L’office compétent mène un entretien de conseil et de contrôle avec l’assuré à intervalles pertinents, mais au moins tous les deux mois. Il contrôle à cette occasion l’aptitude au placement de l’assuré et l’étendue de la perte de travail à prendre en considération.
+
+<sup>2</sup> Il consigne les jours où un entretien de conseil et de contrôle a eu lieu et dresse un procès-verbal de l’entretien.
+
+<sup>3</sup> L’assuré doit garantir qu’il peut être atteint par l’office compétent dans le délai d’un jour ouvré.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 22
+
+**Renseignements sur les droits et obligations**[^22-1]
 
 ### (art. 27 LPGA)
 
 <sup>1</sup> Les organes d’exécution mentionnés à l’art. 76, al. 1, let. a à d, LACI renseignent les assurés sur leurs droits et obligations, notamment sur la procédure d’inscription et leur obligation de prévenir et d’abréger le chômage.
 
-<sup>2</sup> Les caisses renseignent les assurés sur leurs droits et obligations entrant dans le domaine d’activité des caisses (art. 81 LACI).
+<sup>2</sup> Les caisses de chômage renseignent les assurés sur les droits et obligations qui découlent de leurs tâches (art. 81 LACI).
 
-<sup>3</sup> Les autorités cantonales et les offices régionaux de placement (ORP) renseignent les assurés sur leurs droits et obligations entrant dans les domaines d’activité spécifiques (art. 85 et 85*b* LACI).
+<sup>3</sup> Les offices compétents renseignent les assurés sur les droits et obligations qui découlent de leurs tâches (art. 85 et 85*b* LACI).
 
-[^19a-1]: Introduit par le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-
-#### Art. 20
-
-**Inscription à l’office compétent**[^20-1]
-
-### (art. 29 LPGA, et 17, al. 2, LACI)
-
-[^20-2]
-
-<sup>1</sup>
-
-Lorsqu’il s’inscrit à l’office compétent, l’assuré doit présenter:
-
-- a.[^20-3] la formule «inscription auprès de la commune», dans la mesure où il s’est présenté à la commune;
-- b.[^20-4] l’attestation de domicile délivrée par la commune ou, lorsqu’il est étranger, son permis d’étranger;
-- c.[^20-5] le certificat d’assurance AVS/AI;
-- d.[^20-6] la lettre de résiliation, les certificats de travail des derniers employeurs, les attestations de formation ou de perfectionnement, ainsi que les preuves de ses efforts en vue de trouver du travail.
-
-<sup>2</sup> L’office compétent examine la validité des indications figurant sur le certificat d’assurance AVS/AI; à sa demande, la caisse cantonale de compensation établit un certificat d’assurance valable.
-
-<sup>3</sup> L’office compétent introduit les données d’inscription dans le système d’information en matière de placement et de marché du travail (PLASTA) et remet à l’assuré la copie destinée à la caisse.
-
-<sup>4</sup> ...[^20-7]
-
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^20-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^20-3]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^20-4]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-5]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-6]: Introduite par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-7]: Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-
-#### Art. 20a
-
-**Personnes qui séjournent temporairement en Suisse pour y chercher du travail**[^20a-1]
-
-La personne qui séjourne temporairement en Suisse pour y chercher du travail en vertu de l’art. 64 du règlement (CE) n<sup>o</sup> 883/2004[^20a-2] doit s’annoncer auprès de l’office compétent du canton dans lequel elle séjourne. Elle ne peut en changer par la suite.
-
-[^20a-1]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^20a-2]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement et du Conseil du 29 av. 2004 sur la coordination des systèmes de sécurité sociale dans la version publiée au JO L 116 du 30.4.2004, p. 1.
-
-#### Art. 21
-
-**Conseil et contrôle**[^21-1]
-
-### (art. 17, al. 2, LACI)
-
-<sup>1</sup> Après s’être inscrit, l’assuré doit se présenter à l’office compétent, conformément aux prescriptions du canton, pour un entretien de conseil et de contrôle. Il doit garantir qu’il peut être atteint par l’office compétent en règle générale dans le délai d’un jour.
-
-<sup>2</sup> L’office compétent fixe les dates des entretiens de conseil et de contrôle individuellement pour chaque assuré.
-
-<sup>3</sup> Il saisit, pour chaque assuré, la liste des jours où un entretien de conseil et de contrôle a eu lieu et dresse le procès-verbal des résultats de chaque entretien.
-
-<sup>4</sup> Aucun entretien de conseil et de contrôle n’a lieu du 24 décembre au 2 janvier.
-
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-
-#### Art. 22
-
-**Entretiens de conseil et de contrôle**[^22-1]
-
-### (art. 17, al. 2, LACI)
-
-<sup>1</sup> Le premier entretien de conseil et de contrôle doit avoir lieu au plus tard quinze jours après que l’assuré s’est présenté à la commune ou à l’office compétent en vue du placement.[^22-2]
-
-<sup>2</sup> L’office compétent mène un entretien de conseil et de contrôle avec chaque assuré à intervalles pertinents mais au moins tous les deux mois. Lors de cet entretien, il contrôle l’aptitude et la disponibilité au placement de l’assuré.[^22-3]
-
-<sup>3</sup> L’office compétent convoque à un entretien de conseil et de contrôle tous les deux mois au moins les assurés qui exercent une activité à plein temps leur procurant un gain intermédiaire ou une activité bénévole relevant de l’art. 15, al. 4, LACI.
-
-<sup>4</sup> Il convient avec l’assuré de la manière dont il pourra être atteint en règle générale dans le délai d’un jour.
-
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^22-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 23
 
-**Données de contrôle et exercice du droit à l’indemnité**[^23-1]
+**Données de contrôle pour l’exercice du droit à l’indemnité[^23-2]**[^23-1]
 
 ### (art. 17, al. 2, LACI)
 
-<sup>1</sup> Les données de contrôle sont saisies au moyen de la formule «Indications de la personne assurée».[^23-2]
+<sup>1</sup> Les données de contrôle sont transmises par l’assuré au moyen du formulaire «Indications de la personne assurée».[^23-3]
 
 <sup>2</sup>
 
-Les données enregistrées fournissent des informations sur:
+Elles fournissent les informations suivantes:
 
 - a. les jours ouvrables pour lesquels l’assuré rend vraisemblable qu’il était au chômage et apte au placement;
-- b. tout élément pertinent pour la détermination du droit de l’assuré aux indemnités: maladie, service militaire, absences pour cause de vacances, participation à une mesure relative au marché du travail, gain intermédiaire et étendue de l’aptitude au placement, etc.
+- b. tous les faits pertinents pour la détermination du droit à l’indemnité de l’assuré, tels que maladie, service militaire, absence pour cause de vacances, participation à une mesure relative au marché du travail, gain intermédiaire et étendue de la perte de travail à prendre en considération.[^23-4]
 
-<sup>3</sup> Lors du premier entretien de conseil et de contrôle au plus tard, l’office compétent remplit la formule «Indications de la personne assurée». Il y inscrit le nom de la caisse désignée par l’assuré (art. 19, al. 3).[^23-3]
+<sup>3</sup> …[^23-5]
 
-<sup>4</sup> L’office compétent veille à ce que l’assuré dispose à la fin du mois de la formule «Indications de la personne assurée».[^23-4]
+<sup>4</sup> L’office compétent veille à ce que l’assuré dispose à la fin du mois de la formule «Indications de la personne assurée».[^23-6]
 
-<sup>5</sup> ...[^23-5]
+<sup>5</sup> ...[^23-7]
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^23-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-4]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-5]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Abrogé par le ch. I de l’O du 2 mars 2012, avec effet au 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-4]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-5]: Abrogé par le ch. I de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-6]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^23-7]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Abrogé par le ch. I de l’O du 2 mars 2012, avec effet au 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 #### Art. 24
 
-**Examen de l’aptitude au placement**[^24-1]
+**Examen de l’aptitude au placement et de l’étendue de la perte de travail à prendre en considération**[^24-1]
 
-### (art. 15, al. 1, et 17, al. 2, LACI)
+### (art. 49 LPGA; art. 11 et 15 LACI)
 
-<sup>1</sup> Si l’office compétent considère que l’assuré n’est pas apte au placement ou ne l’est que partiellement, il en informe la caisse.
+<sup>1</sup> Si l’office compétent considère que l’assuré n’est pas apte au placement ou que l’étendue de la perte de travail à prendre en considération s’est modifiée, il en informe la caisse de chômage.
 
-<sup>2</sup> L’office compétent rend une décision sur l’étendue de l’aptitude au placement.[^24-2]
+<sup>2</sup> L’office rend une décision à ce propos.
 
-<sup>3</sup> Il remet un double de sa décision à la caisse et à l’autre office concerné.
-
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^24-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 25
 
@@ -710,11 +713,11 @@ L’office compétent décide à la demande de l’assuré de:
 
 <sup>5</sup> L’assuré qui participe à une mesure relative au marché du travail ne peut toucher pendant cette période que le nombre de jours sans contrôle auxquels il a droit en fonction de la durée totale de la mesure. Les jours sans contrôle ne peuvent être pris qu’avec l’accord du responsable du programme.
 
-<sup>6</sup> L’assuré ne peut pas prendre de jours sans contrôle immédiatement avant ou après son séjour à l’étranger, au titre de l’art. 64 du règlement (CE) n<sup>o</sup> 883/2004[^27-2], ni pendant ce séjour. À son retour, il doit se présenter à l’office compétent pour y faire valoir des jours sans contrôle.[^27-3]
+<sup>6</sup> L’assuré ne peut pas prendre de jours sans contrôle immédiatement avant ou après son séjour à l’étranger au titre de l’art. 64 du règlement (CE) n<sup>o</sup> 883/2004[^27-2], ni pendant ce séjour. À son retour, il doit se présenter à l’office compétent pour y faire valoir des jours sans contrôle.[^27-3]
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^27-2]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement et du Conseil du 29 avr. 2004 sur la coordination des systèmes de sécurité sociale dans la version publiée au JO L 116 du 30.4.2004, p. 1.
-[^27-3]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^27-2]: Cf. note de bas de page relative à l’art. 18, al. 5.
+[^27-3]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 27a
 
@@ -743,83 +746,56 @@ Chaque mois civil constitue une période de contrôle.
 
 ### (art. 20, al. 1, LACI)
 
-[^28-2]
+<sup>1</sup> L’assuré est informé des caisses de chômage à sa disposition et en choisit une au plus tard lors du premier entretien de conseil et de contrôle (art. 20*a*).
 
-<sup>1</sup> L’assuré choisit la caisse lorsqu’il se présente à la commune ou à l’office compétent.[^28-3]
+<sup>2</sup> Durant le délai-cadre d’indemnisation, l’assuré n’est autorisé à changer de caisse que s’il quitte le domaine d’activité de la caisse. Le changement doit s’opérer au début d’une période de contrôle, sauf s’il a lieu à la fin du délai-cadre d’indemnisation.
 
-<sup>2</sup> Durant le délai-cadre relatif à la période d’indemnisation, l’assuré n’est autorisé à changer de caisse que s’il quitte le domaine d’activité de la caisse. Le changement doit s’opérer au début d’une période de contrôle, sauf s’il a lieu à la fin du délai-cadre d’indemnisation.[^28-4]
+<sup>3</sup> En cas de changement de caisse, la nouvelle caisse acquiert les droits d’accès aux données du cas de l’assuré correspondant dès le début de la période de contrôle suivante. L’ancienne caisse de chômage conserve les droits d’accès pour les besoins de procédures en cours.
 
-<sup>2bis</sup> ...[^28-5]
-
-<sup>3</sup> Lors d’un changement de caisse, l’ancienne caisse transmet les données par voie électronique à la nouvelle caisse et lui remet une copie du dossier de l’assuré. Sur demande, l’ancienne caisse fournit à la nouvelle tout autre renseignement utile.
-
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^28-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^28-3]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^28-4]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^28-5]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Abrogé par le ch. I de l’O du 2 mars 2012, avec effet au 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 29
 
-**Exercice du droit à l’indemnité**
+**Exercice du droit à l’indemnité**[^29-1]
 
-### (art. 40 LPGA, et 20, al. 1 et 2, LACI)
-
-[^29-1]
+### (art. 40 LPGA; art. 20, al. 1 et 2, LACI)
 
 <sup>1</sup>
 
-Pour la première période de contrôle pendant le délai-cadre et chaque fois que l’assuré se retrouve en situation de chômage après une interruption de six mois au moins, il fait valoir son droit en remettant à la caisse:
+L’assuré fait valoir son droit à l’indemnité pour la première période de contrôle pendant le délai-cadre et chaque fois qu’il se retrouve en situation de chômage après une interruption de six mois au moins en fournissant à la caisse de chômage:
 
-- a. sa demande d’indemnité dûment remplie;
-- b. le double de la demande d’emploi (formule officielle);
-- c. les attestations de travail concernant les deux dernières années;
-- d.[^29-2] la formule «Indications de la personne assurée»;
-- e.[^29-3] les autres documents que la caisse exige pour établir le droit à l’indemnité.[^29-4]
+- a. la demande d’indemnité de chômage;
+- b. les attestations d’employeurs des deux dernières années;
+- c. le formulaire «Indications de la personne assurée»;
+- d. les autres informations que la caisse de chômage exige pour l’examen du droit à l’indemnité.
 
 <sup>2</sup>
 
-Afin de faire valoir son droit à l’indemnité pour les périodes de contrôle suivantes, l’assuré présente à la caisse:
+Afin de faire valoir son droit à l’indemnité pour les périodes de contrôle suivantes, il fournit à la caisse de chômage:
 
-- a.[^29-5] la formule «Indications de la personne assurée»;
-- b. les attestations relatives aux gains intermédiaires;
-- c.[^29-6] les autres documents que la caisse exige pour établir le droit à l’indemnité.
-- d.[^29-7] ...[^29-8]
+- a. le formulaire «Indications de la personne assurée»;
+- b. les attestations de gain intermédiaire;
+- c. les autres informations que la caisse de chômage exige pour l’examen du droit à l’indemnité.
 
-<sup>3</sup> Au besoin, la caisse impartit à l’assuré un délai convenable pour compléter les documents et le rend attentif aux conséquences d’une négligence.[^29-9]
+<sup>3</sup> Au besoin, la caisse de chômage impartit à l’assuré un délai approprié pour compléter le dossier et le rend attentif aux conséquences d’un manquement de sa part.
 
-<sup>4</sup> Si l’assuré ne peut prouver, par des attestations, des faits permettant de juger du droit à l’indemnité, la caisse peut exceptionnellement prendre en considération une déclaration signée de l’assuré, lorsque celle-ci paraît plausible.
+<sup>4</sup> Si l’assuré ne peut prouver, par des attestations, des faits permettant de juger du droit à l’indemnité, la caisse de chômage peut exceptionnellement prendre en considération une déclaration signée de l’assuré lorsque celle-ci paraît plausible.
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^29-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-4]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^29-5]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-6]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-7]: Abrogée par le ch. I de l’O du 24 nov. 1999, avec effet au 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^29-8]: Anciennement al. 3. Nouvelle teneur selon le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
-[^29-9]: Anciennement al. 2.
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 30
 
-**Versement des indemnités, déclaration fiscale[^30-1]**
+**Versement des indemnités et attestation pour l’autorité fiscale**[^30-1]
 
-### (art. 19 LPGA, et 20, 96*b* et 97*a* LACI<sup>)</sup>
+### (art. 19 LPGA; art. 20, 96*b* et 97*a* LACI<sup>)</sup>
 
-[^30-2]
-
-<sup>1</sup> La caisse verse, en règle générale dans le courant du mois suivant, les indemnités pour la période de contrôle écoulée.
+<sup>1</sup> La caisse de chômage verse les indemnités pour la période de contrôle écoulée en règle générale dans le courant du mois suivant.
 
 <sup>2</sup> L’assuré reçoit un décompte écrit.
 
-<sup>3</sup> ...[^30-3]
+<sup>3</sup> La caisse de chômage remet à l’assuré à l’intention des autorités fiscales une attestation faisant état des prestations reçues. Dans les cantons qui en prévoient la possibilité, l’attestation est transmise directement par voie électronique à l’autorité fiscale cantonale (art. 97*a*, al. 1, let. c<sup>bis</sup>, et 8, LACI).
 
-<sup>4</sup> Les caisses remettent aux assurés à l’intention des autorités fiscales une déclaration faisant état des prestations reçues.[^30-4]
-
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^30-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^30-3]: Introduit par le ch. I de l’O du 22 nov. 2000 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)). Abrogé par le ch. I de l’O du 2 mars 2012, avec effet au 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^30-4]: Introduit par le ch. I de l’O du 19 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 31
 
@@ -886,10 +862,10 @@ Sont prises en considération au sens de l’art. 22, al. 2, let. c, LACI les re
 
 <sup>1</sup> Le supplément correspondant aux allocations légales pour enfants et formation professionnelle est calculé d’après la loi régissant les allocations familiales du canton où l’assuré est domicilié.[^34-1]
 
-<sup>2</sup> Après entente avec l’Office fédéral des assurances sociales, le Secrétariat d’État à l’Économie[^34-2] (SECO) communique chaque année aux organes d’exécution les barèmes et les principales conditions dont dépend le droit aux allocations.
+<sup>2</sup> L’organe de compensation de l’assurance-chômage communique chaque année aux organes d’exécution, en accord avec l’Office fédéral des assurances sociales (OFAS), les barèmes et les principales conditions dont dépend le droit aux allocations.[^34-2]
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^34-2]: Nouvelle dénomination selon l’art. 22 al. 1 ch. 16 de l’O du 17 nov. 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)). Il a été tenu compte de cette mod. dans tout le présent texte.
+[^34-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 35
 
@@ -901,14 +877,16 @@ Sont prises en considération au sens de l’art. 22, al. 2, let. c, LACI les re
 
 <sup>1</sup> La caisse prélève la part du travailleur à la cotisation AVS/AI/APG sur les indemnités journalières selon les art. 18 ss et 59*c*<sup>bis</sup>, al. 1, LACI.[^35-2]
 
-<sup>2</sup> L’Office fédéral des assurances sociales règle, après entente avec le SECO, le décompte de cotisation à l’AVS/AI/APG, l’inscription des revenus à porter aux comptes individuels de l’AVS ainsi que la couverture des frais qui en résultent.
+<sup>2</sup> L’OFAS règle, en accord avec le SECO, le décompte de cotisation à l’AVS/AI/APG, l’inscription des revenus à porter aux comptes individuels de l’AVS ainsi que la couverture des frais qui en résultent.[^35-3]
 
-<sup>3</sup> L’organe de compensation de l’assurance-chômage vérifie, lors de ses contrôles périodiques (art. 109 et 110) les prélèvements de la cotisation AVS par la caisse et leur enregistrement dans le système d’information de l’assurance-chômage. Il procède aux rectifications nécessaires et communique le résultat de ses révisions à l’Office fédéral des assurances sociales.
+<sup>3</sup> L’organe de compensation de l’assurance-chômage vérifie, lors de ses contrôles périodiques (art. 109 et 110), les prélèvements de la cotisation AVS par la caisse et leur enregistrement dans le système d’information de l’assurance-chômage. Il procède aux rectifications nécessaires et communique le résultat de ses révisions à l’OFAS.[^35-4]
 
 <sup>4</sup> Le Contrôle fédéral des finances examine le décompte AVS établi par l’organe de compensation de l’assurance-chômage à l’intention de la Centrale de compensation de l’AVS ainsi que les virements des cotisations. Il contrôle en outre les données que l’organe de compensation de l’assurance-chômage fournit à la Centrale de compensation de l’AVS pour la tenue des comptes individuels.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^35-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^35-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^35-4]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 36
 
@@ -948,10 +926,10 @@ Sont prises en considération au sens de l’art. 22, al. 2, let. c, LACI les re
 
 <sup>4</sup>
 
-Le gain assuré est redéfini pour la période de contrôle suivante si, pendant le délai-cadre d’indemnisation:
+Le gain assuré est redéfini si, pendant le délai-cadre d’indemnisation:
 
-- a. l’assuré a exercé pendant au moins six mois consécutifs, avant de retomber au chômage, une activité soumise à cotisation pour laquelle il a reçu un salaire supérieur au gain assuré;
-- b. l’aptitude au placement de l’assuré a subi un changement.[^37-7]
+- a. l’assuré a, avant de retomber au chômage, exercé pendant au moins six mois consécutifs une activité soumise à cotisation pour laquelle il a reçu un salaire supérieur au gain assuré;
+- b. l’étendue de la perte de travail à prendre en considération de l’assuré a subi un changement.[^37-7]
 
 <sup>5</sup> ...[^37-8]
 
@@ -961,7 +939,7 @@ Le gain assuré est redéfini pour la période de contrôle suivante si, pendant
 [^37-4]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^37-5]: Introduit par le ch. I de l’O du 28 août 1991([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^37-6]: Introduit par le ch. I de l’O du 11 déc. 1995 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Abrogé par le ch. I de l’O du 11 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^37-7]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^37-7]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^37-8]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Abrogé par le ch. I de l’O du 2 mars 2012, avec effet au 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 #### Art. 38
@@ -1011,9 +989,9 @@ Le gain journalier se détermine en divisant le gain mensuel par 21,7.
 
 ### (art. 23, al. 1, LACI)
 
-Est déterminant pour le calcul du gain assuré des personnes qui, en raison de leur santé, subissent une atteinte dans leur capacité de travail durant le chômage ou immédiatement avant, le gain qu’elles pourraient obtenir, compte tenu de leur capacité effective de gagner leur vie.
+Est déterminant pour le calcul du gain assuré des personnes qui, en raison de leur santé, subissent une atteinte dans leur capacité de gain durant le chômage ou immédiatement avant, le gain qu’elles pourraient obtenir compte tenu de leur capacité de gain effective.
 
-[^40b-1]: Anciennement art. 40*c*. Introduit par le ch. I de l’O du 25 avr. 1985, en vigueur depuis le 1<sup>er</sup> juil. 1985 ([RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648)).
+[^40b-1]: Anciennement art. 40*c*. Introduit par le ch. I de l’O du 25 avr. 1985 ([RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 40c
 
@@ -1118,11 +1096,13 @@ Lorsque les mêmes parties reprennent les rapports de travail dans un délai d�
 
 ### (art. 28 LACI)
 
-<sup>1</sup> Les assurés qui entendent faire valoir leur droit à l’indemnité journalière en cas d’incapacité passagère totale ou partielle de travail sont tenus d’annoncer leur incapacité de travail à l’ORP, dans un délai d’une semaine à compter du début de celle‑ci.
+<sup>1</sup> Les assurés qui entendent faire valoir leur droit à l’indemnité journalière en cas d’incapacité passagère totale ou partielle de travail sont tenus d’annoncer leur incapacité de travail à l’office régional de placement (ORP), dans un délai d’une semaine à compter du début de celle‑ci.[^42-2]
 
-<sup>2</sup> Si l’assuré annonce son incapacité de travail après ce délai sans excuse valable et qu’il ne l’a pas non plus indiquée sur la formule «Indications de la personne assurée», il perd son droit à l’indemnité journalière pour les jours d’incapacité précédant sa communication.
+<sup>2</sup> Si l’assuré annonce son incapacité de travail après ce délai sans excuse valable et qu’il ne l’a pas non plus indiquée sur le formulaire «Indications de la personne assurée», il perd son droit à l’indemnité journalière pour les jours d’incapacité précédant sa communication.[^42-3]
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^42-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 43
 
@@ -1164,7 +1144,7 @@ Est notamment réputé sans travail par sa propre faute l’assuré qui:
 
 <sup>1</sup>
 
-Le délai de suspension dans l’exercice du droit à l’indemnité prend effet à partir du premier jour qui suit:
+Le délai de suspension du droit à l’indemnité prend effet à partir du premier jour qui suit:[^45-2]
 
 - a. la cessation du rapport de travail lorsque l’assuré est devenu chômeur par sa propre faute;
 - b. l’acte ou la négligence qui fait l’objet de la décision.
@@ -1189,6 +1169,7 @@ Il y a faute grave lorsque, sans motif valable, l’assuré:
 <sup>5</sup> Si l’assuré est suspendu de façon répétée dans son droit à l’indemnité, la durée de suspension est prolongée en conséquence. Les suspensions subies pendant les deux dernières années sont prises en compte dans le calcul de la prolongation.
 
 [^45-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^45-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 ### Chapitre 2 Indemnité en cas de réduction de l’horaire de travail
 
@@ -1207,7 +1188,7 @@ Il y a faute grave lorsque, sans motif valable, l’assuré:
 <sup>4</sup> et <sup>5</sup> ...[^46-2]
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Abrogés par le ch. I de l’O du 26 août 2020, avec effet du 1<sup>er</sup> sept. 2020 au 30 juin 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^46-2]: Abrogés par le ch. I de l’O du 26 août 2020, avec effet du 1<sup>er</sup> sept. 2020 au 30 sept. 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 46a
 
@@ -1296,12 +1277,12 @@ Est réputé jour entier de travail le cinquième de la durée normale du travai
 
 <sup>1</sup> Pour déterminer le délai d’attente, il faut ajouter les périodes de décompte ayant donné lieu à une indemnisation pour cause de réduction de l’horaire de travail à celles ayant donné lieu à une indemnisation pour cause d’intempéries.
 
-<sup>2</sup> ...[^50-2]
+<sup>2</sup> Pour chaque période de décompte, un délai d’attente d’un jour est déduit de la perte de travail à prendre en considération.[^50-2]
 
 <sup>3</sup> ...[^50-3]
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Abrogé par le ch. II de l’O du 20 janv. 2021, avec effet du 1<sup>er</sup> sept. 2020 au 30 juin 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16), [169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^50-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
 [^50-3]: Introduit par le ch. I de l’O du 19 sept. 2003 ([RO 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Nouvelle teneur selon le ch. I de l’O du 13 janv. 2016, en vigueur du 1<sup>er</sup> fév. 2016 au 31 juil. 2017 ([RO 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1384,9 +1365,10 @@ La perte de travail n’est pas prise en considération:
 - a. durant les deux jours de travail qui précèdent ou suivent immédiatement des jours fériés ne tombant pas sur un samedi ou un dimanche;
 - b. durant les cinq jours de travail immédiatement avant et après les vacances d’entreprise.
 
-<sup>2</sup> Dans les cas relevant de l’al. 1, let. b, le SECO peut, sur requête de l’employeur, accorder des dérogations, à condition que des circonstances particulières permettent d’exclure tout abus. L’employeur doit présenter sa requête à l’autorité cantonale, qui la transmettra au SECO avec son préavis.[^54-1]
+<sup>2</sup> Dans les cas relevant de l’al. 1, let. b, l’organe de compensation de l’assurance-chômage[^54-1] peut, sur requête de l’employeur, accorder des dérogations, à condition que des circonstances particulières permettent d’exclure tout abus. L’employeur doit présenter sa requête à l’autorité cantonale, qui la transmettra à l’organe de compensation de l’assurance-chômage avec son préavis.[^54-2]
 
-[^54-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
+[^54-1]: Nouvelle expression selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)). Il a été tenu compte de cette mod. dans tout le texte.
+[^54-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 
 #### Art. 54a
 
@@ -1440,13 +1422,9 @@ Lorsque le salaire du dernier mois de cotisation s’écarte d’au moins 10 % d
 
 #### Art. 57b
 
-**Durée maximum de l’indemnisation**[^57b-1]
+[^57b-1]
 
-### (art. 35, al. 2, LACI)
-
-La durée maximum de l’indemnisation en cas de réduction de l’horaire de travail est prolongée de six périodes de décompte.
-
-[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 31 déc. 2021 ([RO 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
+[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 30 juin 2021 ([RO 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524); [2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 58
 
@@ -1470,7 +1448,9 @@ La durée maximum de l’indemnisation en cas de réduction de l’horaire de tr
 
 **Documents à remettre**
 
-### (art. 36, al. 2 et 3, LACI)
+### (art. 36, al. 2, 3 et 5, LACI)
+
+[^59-1]
 
 <sup>1</sup>
 
@@ -1480,9 +1460,12 @@ Avec son préavis de réduction de l’horaire de travail, l’employeur doit, e
 - b. le nombre des travailleurs dont le contrat a été résilié ou le sera prochainement;
 - c. tous les autres documents exigés par l’autorité cantonale.
 
-<sup>2</sup> L’employeur doit annoncer la réduction de l’horaire de travail au moyen de la formule du SECO.
+<sup>2</sup> L’employeur doit annoncer la réduction de l’horaire de travail à l’autorité cantonale au moyen du formulaire fourni par l’organe de compensation de l’assurance-chômage.[^59-2]
 
-<sup>3</sup> Le SECO peut prévoir une procédure simplifiée pour le cas où, dans des circonstances identiques, une entreprise annonce à plusieurs reprises une réduction de l’horaire de travail dans une période de deux ans (art. 35, al. 1, LACI).
+<sup>3</sup> L’organe de compensation de l’assurance-chômage peut prévoir une procédure simplifiée pour le cas où, dans des circonstances identiques, une entreprise annonce à plusieurs reprises une réduction de l’horaire de travail dans une période de deux ans (art. 35, al. 1, LACI).
+
+[^59-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^59-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 60
 
@@ -1501,9 +1484,11 @@ Lorsque l’employeur a annoncé la réduction de l’horaire de travail et choi
 
 <sup>3</sup> Lorsque l’employeur a fait valoir des indemnités en cas d’intempéries au cours des deux dernières années, il ne peut faire valoir des indemnités en cas de réduction de l’horaire de travail auprès d’une autre caisse que s’il remplit l’une des deux conditions figurant à l’al. 2.
 
-<sup>4</sup> Le SECO peut autoriser un changement de caisse si l’employeur prouve que l’ancienne caisse n’est pas en mesure de régler le cas d’indemnisation conformément aux prescriptions ou qu’elle a commis de graves erreurs dans le règlement d’un cas d’indemnisation précédent.
+<sup>4</sup> L’organe de compensation de l’assurance-chômage peut autoriser un changement de caisse si l’employeur prouve que l’ancienne caisse n’est pas en mesure de régler le cas d’indemnisation conformément aux prescriptions ou qu’elle a commis de graves erreurs dans le règlement d’un cas d’indemnisation précédent.
 
-<sup>5</sup> Sur demande de la nouvelle caisse, l’ancienne caisse lui fournit toutes les indications nécessaires, notamment le nombre de périodes de décompte pour lesquelles des prestations ont été versées.
+<sup>5</sup> En cas de changement de caisse, la nouvelle caisse acquiert les droits d’accès aux données du cas de l’assuré correspondant de manière analogue à l’art. 28, al. 3.[^60-1]
+
+[^60-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 61
 
@@ -1537,25 +1522,13 @@ Le montant des cotisations patronales AVS/AI/APG/AC versées pour les heures per
 
 Le revenu tiré d’une occupation provisoire n’est pas pris en compte pour le calcul de la perte de gain.
 
-[^63-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 30 juin 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^63-1]: Nouvelle teneur selon le ch. I de l’O du 26 août 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 30 sept. 2021 ([RO 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 64
 
-**Diminutions pour faute de l’assuré**
+[^64-1]
 
-### (art. 41, al. 5, LACI)
-
-<sup>1</sup>
-
-L’indemnité en cas de réduction de l’horaire de travail est diminuée:
-
-- a. de 100 à 250 francs en cas de faute légère;
-- b. de 251 à 550 francs en cas de faute d’une gravité moyenne;
-- c. de 551 à 1000 francs en cas de faute grave.
-
-<sup>2</sup> L’autorité cantonale remet sans délai un double de sa décision à l’employeur, à la caisse et au SECO.
-
-<sup>3</sup> Sur mandat de la caisse, l’employeur compense autant que possible les diminutions définitives avec des indemnités en cas de réduction de l’horaire de travail qui n’ont pas encore été versées. La caisse est tenue d’exiger de l’assuré le remboursement des diminutions qui ne peuvent être compensées.
+[^64-1]: Abrogé par le ch. I de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 ### Chapitre 3 L’indemnité en cas d’intempéries
 
@@ -1661,13 +1634,14 @@ Pour chacune de ces périodes de décompte, on déduit de la perte de travail à
 
 ### (art. 45, LACI)
 
-<sup>1</sup> L’employeur est tenu d’aviser l’autorité cantonale, au moyen de la formule du SECO, de la perte de travail due aux intempéries, au plus tard le cinquième jour du mois civil suivant.
+<sup>1</sup> L’employeur est tenu d’aviser l’autorité cantonale, au moyen du formulaire fourni par l’organe de compensation de l’assurance-chômage, de la perte de travail due aux intempéries, au plus tard le cinquième jour du mois civil suivant.[^69-2]
 
 <sup>2</sup> Lorsque l’employeur a communiqué avec retard, sans raison valable, la perte de travail due aux intempéries, le début du droit à l’indemnité est repoussé d’autant.
 
 <sup>3</sup> L’autorité cantonale détermine par décision les jours pour lesquels l’indemnité en cas d’intempéries peut être octroyée.
 
 [^69-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
+[^69-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 70
 
@@ -1697,13 +1671,9 @@ Le montant des cotisations patronales AVS/AI/APG/AC versées pour les heures per
 
 #### Art. 72
 
-**Prescriptions de contrôle**[^72-1]
+[^72-1]
 
-### (art. 49, al. 2, LACI)
-
-Les travailleurs qui subissent une interruption de travail en raison d’intempéries n’ont pas à timbrer, à moins que l’autorité cantonale n’en dispose autrement.
-
-[^72-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^72-1]: Abrogé par le ch. I de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 ### Chapitre 4 L’indemnité en cas d’insolvabilité
 
@@ -1762,9 +1732,11 @@ La caisse prélève sur l’indemnité en cas d’insolvabilité les cotisations
 
 <sup>3</sup> La caisse déduit la part du travailleur de l’indemnité à verser en cas d’insolvabilité.
 
-<sup>4</sup> Le SECO règle la procédure après entente avec l’Office fédéral des assurances sociales.
+<sup>4</sup> L’organe de compensation de l’assurance-chômage règle la procédure en accord avec l’OFAS.[^76-1]
 
 <sup>5</sup> L’art. 35, al. 3, est applicable par analogie à l’examen des déductions.
+
+[^76-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 77
 
@@ -1774,23 +1746,27 @@ La caisse prélève sur l’indemnité en cas d’insolvabilité les cotisations
 
 <sup>1</sup>
 
-L’assuré qui prétend une indemnité pour insolvabilité doit remettre à la caisse compétente:
+L’assuré qui prétend à une indemnité pour insolvabilité doit fournir à la caisse de chômage compétente:
 
-- a. la formule de demande dûment remplie;
-- b. son certificat d’assurance de l’AVS/AI;
-- c. son permis d’établissement ou de séjour ou une attestation de domicile de la commune ou, lorsqu’il est étranger, son autorisation;
-- d. tout autre document que la caisse lui réclame pour pouvoir établir son droit.
+- a. la demande d’indemnité en cas d’insolvabilité;
+- b. le numéro d’assuré AVS;
+- c. le titre de séjour, s’il est de nationalité étrangère;
+- d. les autres informations que la caisse de chômage exige pour l’examen du droit à l’indemnité.[^77-1]
 
-<sup>2</sup> Au besoin, la caisse impartit à l’assuré un délai raisonnable pour lui permettre de compléter les documents et le rend attentif aux conséquences d’une négligence de sa part.
+<sup>2</sup> Au besoin, la caisse de chômage impartit à l’assuré un délai approprié pour compléter le dossier et le rend attentif aux conséquences d’un manquement de sa part.[^77-2]
 
-<sup>3</sup> Lorsque la faillite d’un employeur touche des succursales ou des établissements situés dans un autre canton, leurs travailleurs peuvent faire valoir leur droit auprès de la caisse publique dudit canton. Celle-ci transmet les demandes et leurs annexes à la caisse compétente.
+<sup>3</sup> Lorsque la faillite d’un employeur touche des succursales ou des établissements situés dans un autre canton, leurs travailleurs peuvent faire valoir leur droit auprès de la caisse de chômage publique dudit canton. La caisse de chômage publique du siège de l’employeur est compétente pour le traitement de ces demandes.[^77-3]
 
-<sup>4</sup> Lorsque l’employeur ne tombe pas sous le coup de l’exécution forcée en Suisse, est alors compétente la caisse publique du canton dans lequel se trouve l’ancien lieu de travail. S’il y a eu plusieurs lieux de travail dans divers cantons, le SECO désigne la caisse compétente.
+<sup>4</sup> Lorsque l’employeur ne tombe pas sous le coup de l’exécution forcée en Suisse, la caisse de chômage publique du canton dans lequel se trouve l’ancien lieu de travail de l’assuré est compétente. S’il y a eu plusieurs lieux de travail dans divers cantons, l’organe de compensation de l’assurance-chômage désigne la caisse de chômage compétente.[^77-4]
 
-<sup>5</sup> Dans le cas de l’art. 51, let. b, LACI, le travailleur doit présenter sa demande d’indemnisation dans un délai de 60 jours à compter du moment où il a eu connaissance de l’expiration du délai non utilisé pour effectuer l’avance des frais au sens de l’art. 169, al. 2, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^77-1].[^77-2]
+<sup>5</sup> Dans le cas de l’art. 51, let. b, LACI, le travailleur doit présenter sa demande d’indemnisation dans un délai de 60 jours à compter du moment où il a eu connaissance de l’expiration du délai non utilisé pour effectuer l’avance des frais au sens de l’art. 169, al. 2, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^77-5].[^77-6]
 
-[^77-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^77-2]: Introduit par le ch. I de l’O du 28 août 1991 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-4]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-5]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^77-6]: Introduit par le ch. I de l’O du 28 août 1991 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 78
 
@@ -1806,7 +1782,7 @@ Lorsque la caisse compétente a besoin d’aide, elle peut associer les caisses 
 
 ### (art. 54 LACI)
 
-La caisse n’est autorisée à engager des procédures pouvant entraîner des frais pour le créancier qu’avec le consentement du SECO. Il en va de même des actions relevant du droit des poursuites.
+La caisse n’est autorisée à engager des procédures pouvant entraîner des frais pour le créancier qu’avec le consentement de l’organe de compensation de l’assurance-chômage. Il en va de même des actions relevant du droit des poursuites.
 
 #### Art. 80
 
@@ -1814,11 +1790,11 @@ La caisse n’est autorisée à engager des procédures pouvant entraîner des f
 
 ### (art. 54, al. 2, LACI)
 
-<sup>1</sup> Lorsqu’il est nécessaire de faire valoir une créance à l’étranger, la caisse soumet le cas au SECO et lui remet le dossier complet.
+<sup>1</sup> Lorsqu’il est nécessaire de faire valoir une créance à l’étranger, la caisse soumet le cas à l’organe de compensation de l’assurance-chômage et lui remet le dossier complet.
 
-<sup>2</sup> Lorsque l’exigibilité de la créance est douteuse ou qu’il faut s’attendre à des complications sans rapport avec le résultat escompté, le SECO peut autoriser la caisse à renoncer à faire valoir la créance.
+<sup>2</sup> Lorsque l’exigibilité de la créance est douteuse ou qu’il faut s’attendre à des complications sans rapport avec le résultat escompté, l’organe de compensation de l’assurance-chômage peut autoriser la caisse à renoncer à faire valoir la créance.
 
-### Chapitre 5 Mesures relatives au marché du travail****
+### Chapitre 5 Mesures relatives au marché du travail
 
 [^tit2-chap5-1]
 
@@ -1851,14 +1827,15 @@ La caisse n’est autorisée à engager des procédures pouvant entraîner des f
 
 ### (art. 59*a* LACI)
 
-<sup>1</sup> L’autorité cantonale fournit au système d’information PLASTA les données nécessaires au contrôle de l’efficacité des mesures.
+<sup>1</sup> L’autorité cantonale transfère au système d’information servant au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI) les données nécessaires au contrôle de l’efficacité des mesures.[^81a-2]
 
 <sup>2</sup> Les personnes et les institutions qui organisent des mesures relatives au marché du travail fournissent des informations, participent aux mesures de contrôle et établissent une évaluation des résultats obtenus.
 
-<sup>3</sup> L’organe de compensation évalue les données conformément à l’al. 1. Il utilise les résultats de ses analyses pour développer les mesures relatives au marché du travail. À cet effet, il tient notamment compte des besoins des demandeurs d’emploi dont la réinsertion sur le marché du travail est difficile.[^81a-2]
+<sup>3</sup> L’organe de compensation évalue les données conformément à l’al. 1. Il utilise les résultats de ses analyses pour développer les mesures relatives au marché du travail. À cet effet, il tient notamment compte des besoins des demandeurs d’emploi dont la réinsertion sur le marché du travail est difficile.[^81a-3]
 
 [^81a-1]: Introduit par le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^81a-2]: Introduit par le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^81a-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^81a-3]: Introduit par le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 81b
 
@@ -1996,9 +1973,11 @@ L’organisateur de la mesure ne peut percevoir de frais d’écolage ni de cont
 
 **Attestation de l’organisateur de la mesure de formation ou d’emploi**[^87-1]
 
-L’organisateur de la mesure de formation ou d’emploi fournit à l’assuré, au plus tard le troisième jour ouvrable du mois suivant, une attestation à l’intention de la caisse de chômage, qui mentionne le nombre de jours pendant lesquels l’assuré a participé effectivement à la mesure, ainsi que ses absences éventuelles.
+### (art. 59*c*<sup>bis</sup> LACI)
 
-[^87-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+L’organisateur de la mesure de formation ou d’emploi établit pour chaque période de contrôle, au plus tard le troisième jour ouvrable du mois suivant, une attestation qui mentionne le nombre de jours pendant lesquels l’assuré a participé effectivement à la mesure, ainsi que ses absences.
+
+[^87-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 88
 
@@ -2417,7 +2396,7 @@ En règle générale sont pris en compte:
 
 ### (art. 79, al. 1, LACI)
 
-Les caisses communiquent au SECO les noms des responsables de leur gestion ainsi que tout changement parmi ces personnes.
+Les caisses communiquent à l’organe de compensation de l’assurance-chômage les noms des responsables de leur gestion ainsi que tout changement parmi ces personnes.
 
 #### Art. 104
 
@@ -2511,11 +2490,14 @@ Les révisions de la gestion des organes d’exécution de l’assurance-chômag
 
 **Contrôle des applications informatiques**[^109b-1]
 
-### (art. 83, al. 1, let. i et o, LACI)
+### (art. 83, al. 1<sup>bis</sup>, LACI)
+
+[^109b-2]
 
 L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examinent périodiquement par sondages les applications informatiques ainsi que les aspects techniques et les mesures de sécurité. Le contrôle porte spécialement sur le système de paiement des caisses de chômage et sur les applications concernant la comptabilité et les finances.
 
 [^109b-1]: Introduit par le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^109b-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 110
 
@@ -2525,19 +2507,19 @@ L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examin
 
 [^110-2]
 
-<sup>1</sup> L’organe de compensation contrôle à intervalles réguliers, soit de manière approfondie soit par sondages, si les versements des caisses ont été effectués à bon droit.[^110-3]
+<sup>1</sup> L’organe de compensation de l’assurance-chômage contrôle à intervalles réguliers, soit de manière approfondie soit par sondages, si les versements des caisses ont été effectués à bon droit.[^110-3]
 
 <sup>2</sup> Les caisses conservent, dans leur intégralité et en bon ordre, les dossiers relatifs aux cas d’assurance. L’organe de compensation peut les consulter en tout temps.
 
 <sup>3</sup> La révision des caisses porte sur les dossiers ouverts depuis la dernière révision. Lorsque moins d’un an s’est écoulé depuis la dernière révision, le contrôle peut porter sur l’ensemble des dossiers des douze derniers mois. Le délai de prescription fixé par la législation pénale est déterminant lorsqu’un acte punissable a eu pour effet l’obtention d’un versement.[^110-4]
 
-<sup>4</sup> L’organe de contrôle et les bureaux fiduciaires qu’il a mandatés contrôlent périodiquement par sondages auprès des employeurs les indemnités versées en cas de réduction de l’horaire de travail ou en cas d’intempéries.[^110-5]
+<sup>4</sup> L’organe de compensation de l’assurance-chômage et les bureaux fiduciaires qu’il a mandatés contrôlent périodiquement par sondages auprès des employeurs les indemnités versées en cas de réduction de l’horaire de travail ou en cas d’intempéries.[^110-5]
 
 [^110-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^110-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^110-3]: Nouvelle teneur selon le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
+[^110-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^110-4]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^110-5]: Introduit par le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^110-5]: Introduit par le ch. I de l’O du 11 déc. 1995 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 111
 
@@ -2707,27 +2689,21 @@ L’organe de compensation décide définitivement de l’engagement du personne
 
 La compétence de l’autorité cantonale à raison du lieu se détermine:
 
-- a. d’après le lieu où l’assuré se soumet au contrôle obligatoire, pour l’indemnité de chômage et pour le contrôle en cas de réduction de l’horaire de travail (art. 40 LACI) ainsi que pour la perte de travail en cas d’intempéries (art. 49 LACI);
+- a. d’après le lieu où l’assuré se soumet au contrôle obligatoire, pour l’indemnité de chômage (art. 18);
 - b. d’après le lieu de l’entreprise, pour l’indemnité en cas de réduction de l’horaire de travail;
-- c.[^119-1] d’après le lieu de travail, pour l’indemnité en cas d’intempéries en Suisse; d’après le lieu de l’entreprise si le lieu de travail se trouve à l’étranger;
-- [tab] d.[^119-2] d’après le lieu de l’office des poursuites et des faillites compétent, pour l’indemnité en cas d’insolvabilité de l’employeur. Si l’employeur n’est pas soumis à l’exécution forcée en Suisse, le for de la poursuite est l’ancien lieu de travail de l’assuré;
-- e.[^119-3] d’après le siège de l’institution requérante, pour les subventions en faveur d’institutions de reconversion et de perfectionnement professionnels ou de programmes d’emploi temporaire;
-- f.[^119-4] selon l’art. 20*a* pour les personnes qui séjournent temporairement en Suisse en vue d’y chercher du travail;
-- [tab] g.[^119-5] d’après le lieu de domicile de l’assuré, pour tous les autres cas.
+- c. d’après le lieu de l’entreprise, pour l’indemnité en cas d’intempéries;
+- d. d’après le siège de l’institution requérante, pour les subventions en faveur d’institutions de reconversion et de perfectionnement professionnels ou de programmes d’emploi temporaire;
+- e. d’après le lieu de domicile de l’assuré, pour tous les autres cas.[^119-1]
 
 <sup>2</sup> Est déterminant le moment où la décision est prise.
 
-<sup>3</sup> Est compétente pour statuer sur une demande de remise de l’obligation de restituer les prestations l’autorité cantonale du canton dans lequel l’assuré était domicilié lorsque la décision de restitution lui a été notifiée.[^119-6]
+<sup>3</sup> Est compétente pour statuer sur une demande de remise de l’obligation de restituer les prestations l’autorité cantonale du canton dans lequel l’assuré était domicilié lorsque la décision de restitution lui a été notifiée.[^119-2]
 
-<sup>4</sup> Lorsqu’une autorité doute de sa compétence, elle en discute avec l’autorité qui pourrait également être compétente. Si les deux autorités ne parviennent pas à tomber d’accord, elles s’adressent à l’organe de compensation; celui-ci désigne l’autorité compétente.[^119-7]
+<sup>4</sup> Lorsqu’une autorité doute de sa compétence, elle en discute avec l’autorité qui pourrait également être compétente. Si les deux autorités ne parviennent pas à tomber d’accord, elles s’adressent à l’organe de compensation; celui-ci désigne l’autorité compétente.[^119-3]
 
-[^119-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^119-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^119-3]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^119-4]: Nouvelle teneur selon le ch. I de l’O du 2 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^119-5]: Introduite par le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)).
-[^119-6]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^119-7]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^119-2]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-3]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
 
 #### Art. 119a
 
@@ -2750,13 +2726,13 @@ Plusieurs cantons peuvent, par voie d’accord, instituer et exploiter conjointe
 - c. le statut juridique de son directeur et de ses collaborateurs;
 - d. la personne qui représentera l’ORP ou le service LMMT auprès de l’organe de compensation.[^119a-4]
 
-<sup>4</sup> Tous les ORP et les services LMMT sont raccordés au système d’information PLASTA et traitent les données nécessaires à l’exécution de leurs tâches légales et à l’établissement de statistiques conformément à l’art. 83, al. 1, let. i, LACI.[^119a-5]
+<sup>4</sup> …[^119a-5]
 
 [^119a-1]: Introduit par le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^119a-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^119a-3]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 [^119a-4]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^119a-5]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^119a-5]: Abrogé par le ch. I de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119b
 
@@ -2764,13 +2740,14 @@ Plusieurs cantons peuvent, par voie d’accord, instituer et exploiter conjointe
 
 ### (art. 85*b*, al. 4, LACI)
 
-<sup>1</sup> Les personnes chargées du service public de l’emploi doivent, dans les cinq ans qui suivent leur entrée en fonctions, être titulaires d’un brevet fédéral de conseiller en personnel ou justifier d’une formation ou d’une expérience professionnelles reconnues équivalentes par l’Association des offices suisses du travail (AOST).
+<sup>1</sup> Les personnes chargées de mettre en œuvre le service public de l’emploi doivent, dans les cinq ans qui suivent leur entrée en fonction, disposer du titre de «Spécialiste RH avec brevet fédéral, option de spécialisation Placement public et conseil en personnel» ou justifier d’une formation ou d’une expérience professionnelles reconnue équivalente par l’organe de compensation de l’assurance-chômage.[^119b-2]
 
 <sup>2</sup> Les cantons veillent à ce que les personnes chargées du service public de l’emploi possèdent les qualifications requises. Ils veillent également à ce qu’elles disposent d’une formation initiale spécifique et d’une formation continue adéquate.
 
 <sup>3</sup> L’organe de compensation fournit les outils informatiques propres à garantir la transparence de la formation. Dans les cas particuliers, il peut déclarer des cours obligatoires ou organiser lui-même des cours.
 
 [^119b-1]: Introduit par le ch. I de l’O du 11 déc. 1995 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^119b-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119c
 
@@ -2800,13 +2777,14 @@ Plusieurs cantons peuvent, par voie d’accord, instituer et exploiter conjointe
 L’autorité cantonale compétente fixe les modalités de la collaboration entre l’ORP et les placeurs privés par contrat écrit. Dans ce contrat, les placeurs privés s’engagent:
 
 - a. à informer l’ORP de l’issue des démarches entreprises en vue du placement et à l’aviser en cas de comportement fautif des chômeurs;
-- b. à lui fournir les informations nécessaires afin qu’il puisse remplir sa tâche d’observation du marché du travail au moyen du système PLASTA.
+- b.[^119cbis-2] à lui fournir les informations nécessaires afin qu’il puisse remplir sa tâche d’observation du marché du travail au moyen du système d’information servant au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI).
 
 <sup>3</sup> Les placeurs privés peuvent être indemnisés par le fonds de compensation de l’assurance-chômage pour les prestations fournies. L’organe de compensation fixe les prestations donnant droit à une indemnité et le montant de l’indemnité.
 
 <sup>4</sup> Les données relatives aux assurés ou aux emplois vacants ne peuvent être transmises à des placeurs privés ou à des tiers qu’avec l’assentiment des assurés ou des employeurs concernés.
 
 [^119cbis-1]: Introduit par le ch. I de l’O du 19 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
+[^119cbis-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119d
 
@@ -2879,11 +2857,15 @@ La commission de surveillance peut déléguer à une sous-commission des tâches
 
 <sup>1</sup> Les frais occasionnés par la perception des cotisations sont remboursés aux caisses de compensation de l’AVS sous forme d’une indemnité forfaitaire.
 
-<sup>2</sup> L’indemnité se calcule d’après le nombre des employeurs affiliés à une caisse de compensation de l’AVS et d’après la somme moyenne des cotisations AVS/AI/APG versées par employeur. L’Office fédéral des assurances sociales fixe les taux d’indemnisation après entente avec le SECO.
+<sup>2</sup> L’indemnité de la caisse de compensation de l’AVS se calcule d’après le nombre des employeurs affiliés et d’après la somme moyenne des cotisations AVS/AI/APG versées par employeur. L’OFAS fixe les taux d’indemnisation en accord avec l’organe de compensation de l’assurance-chômage.[^122-1]
 
-<sup>3</sup> L’Office fédéral des assurances sociales fixe les années de référence, fournit les éléments de calcul et détermine chaque indemnité.
+<sup>3</sup> L’OFAS fixe les années de référence, fournit les éléments de calcul et détermine chaque indemnité.[^122-2]
 
-<sup>4</sup> Les caisses de compensation de l’AVS qui apportent la preuve que leur indemnité ne couvre manifestement pas leurs frais de perception des cotisations peuvent exiger une indemnité complémentaire équitable auprès de l’Office fédéral des assurances sociales. Cet office statue après entente avec le SECO.
+<sup>4</sup> Les caisses de compensation de l’AVS qui apportent la preuve que leur indemnité ne couvre manifestement pas leurs frais de perception des cotisations peuvent exiger une indemnité complémentaire équitable auprès de l’OFAS. Ce dernier statue en accord avec l’organe de compensation de l’assurance-chômage.[^122-3]
+
+[^122-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^122-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^122-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 122a
 
@@ -3000,30 +2982,17 @@ Sont réputées avances:
 
 #### Art. 125
 
-**Conservation des documents**[^125-1]
+**Conservation des données**[^125-1]
 
-### (art. 46 LPGA, et 79, 81, al. 1, et 96*b* LACI)
+### (art. 46 LPGA; art. 96*c*, al. 3, LACI)
 
-[^125-2]
+<sup>1</sup> Les données des livres et pièces comptables sont conservées pendant dix ans.
 
-<sup>1</sup> Les caisses conservent leurs livres et pièces comptables pendant dix ans et les dossiers des cas d’indemnisation pendant cinq ans au moins après l’expiration du délai-cadre d’indemnisation.
+<sup>2</sup> Les données des cas d’assurance sont conservées pendant les cinq ans qui suivent leur dernier traitement.
 
-<sup>2</sup> Les dossiers clos peuvent être conservés sous forme d’enregistrements sur des supports d’images ou de données. Les enregistrements doivent reproduire fidèlement les documents originaux.
+<sup>3</sup> L’organe de compensation de l’assurance-chômage supervise la conservation des données.
 
-<sup>3</sup> Les caisses et les organes chargés de la conservation des dossiers sous forme d’enregistrement sur des supports d’images ou de données prennent les mesures nécessaires pour protéger, de façon appropriée, les données personnelles contre la perte, l’utilisation abusive, la divulgation ou l’appropriation non autorisées. Les enregistrements doivent pouvoir être rendus lisibles en tout temps.
-
-<sup>4</sup> En cas de dissolution de la caisse, son fondateur est responsable de la bonne conservation des documents. En l’absence de fondateur, la caisse désigne, dans sa décision de liquidation, une personne ou un organe responsable de la bonne conservation des documents.
-
-<sup>5</sup> Après dix ans au plus tard, les dossiers et les enregistrements sur des supports d’images ou de données qui contiennent des indications relatives à des personnes doivent être détruits. Est réservée l’obligation de dépôt des dossiers aux archives publiques.
-
-<sup>6</sup> Les caisses sont responsables de l’enregistrement des dossiers à conserver sur des supports d’images ou de données. Si elles délèguent cette tâche à un service centralisé, une caisse responsable de l’ensemble doit être désignée. Cette dernière édicte un règlement de traitement contenant les indications prescrites par la législation fédérale sur la protection des données.
-
-<sup>7</sup> L’autorité de surveillance supervise l’exécution.
-
-<sup>8</sup> Le présent article s’applique par analogie aux autres organes d’exécution.
-
-[^125-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^125-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^125-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 126
 
@@ -3064,14 +3033,15 @@ Au moment où les personnes concernées s’annoncent ou font valoir leurs droit
 
 ### (art. 97*a*, al. 6, LACI)
 
-<sup>1</sup> Un émolument est perçu dans les cas visés à l’art. 97*a*, al. 4, LACI, lorsque la communication de données nécessite de nombreuses copies ou autres reproductions ou des recherches particulières. Le montant de cet émolument équivaut à ceux des art. 14 et 16 de l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^126a-2].
+<sup>1</sup> Un émolument est perçu dans les cas visés à l’art. 97*a*, al. 4, LACI, lorsque la communication de données nécessite de nombreuses copies ou autres reproductions ou des recherches particulières. L’ordonnance générale du 8 septembre 2004 sur les émoluments[^126a-2] est applicable.[^126a-3]
 
 <sup>2</sup> Un émolument couvrant les frais est perçu pour les publications au sens de l’art. 97*a*, al. 3, LACI.
 
 <sup>3</sup> L’émolument peut être réduit ou remis si la personne assujettie est dans la gêne ou pour d’autres justes motifs.
 
 [^126a-1]: Introduit par le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^126a-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^126a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^126a-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 127
 
@@ -3085,11 +3055,12 @@ Au moment où les personnes concernées s’annoncent ou font valoir leurs droit
 
 ### (art. 100, al. 3, LACI)
 
-<sup>1</sup> La compétence du tribunal cantonal des assurances pour connaître des recours contre les décisions des caisses est réglée par analogie à l’art. 119.
+<sup>1</sup> La compétence du tribunal cantonal des assurances pour connaître des recours contre les décisions des caisses de chômage est réglée par analogie aux art. 77 et 119.[^128-2]
 
 <sup>2</sup> Le tribunal cantonal des assurances est compétent pour connaître des recours contre les décisions d’une autorité du même canton.
 
 [^128-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
+[^128-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 128a
 
@@ -3099,11 +3070,11 @@ Au moment où les personnes concernées s’annoncent ou font valoir leurs droit
 
 [^128a-2]
 
-<sup>1</sup> Les décisions prises par l’autorité cantonale de dernière instance seront notifiées aux parties, à l’autorité inférieure, à l’autorité cantonale et au SECO.
+<sup>1</sup> Les décisions prises par l’autorité cantonale de dernière instance seront notifiées aux parties, à l’autorité inférieure, à l’autorité cantonale et à l’organe de compensation de l’assurance-chômage.
 
 <sup>2</sup>
 
-Sont en outre notifiées au SECO:
+Sont en outre notifiées à l’organe de compensation de l’assurance-chômage:
 
 - a. les décisions de suspension en vertu de l’art. 30, al. 1, let. c et d, LACI, dans la mesure où elles ne sont pas rendues par un ORP (art. 85*b*, al. 1, LACI);
 - b. les décisions de suspension en vertu de l’art. 30, al. 1, let. e, LACI, dans la mesure où l’obligation de renseigner l’autorité cantonale ou l’office du travail a été enfreinte et où les décisions ne sont pas rendues par un ORP (art. 85*b*, al. 1, LACI);
@@ -3113,7 +3084,7 @@ Sont en outre notifiées au SECO:
 - f. les décisions concernant des cas soumis pour décision à l’autorité cantonale ou à un organe désigné par elle en vertu de l’art. 81, al. 2, LACI;
 - g. les décisions en vertu de l’art. 85, al. 1, let. d, LACI, dans la mesure où elles n’ont pas été rendues par un ORP (art. 85*b*, al. 1, LACI);
 - h. les décisions sur les demandes de remise en vertu de l’art. 95 LACI;
-- i. les décisions sur opposition concernant les décisions devant être notifiées au SECO conformément aux let. a à h, ainsi que les décisions sur opposition rendues par une autorité autre que celle qui a pris la décision (art. 100, al. 2, LACI).
+- i. les décisions sur opposition concernant les décisions devant être notifiées à l’organe de compensation de l’assurance-chômage conformément aux let. a à h, ainsi que les décisions sur opposition rendues par une autorité autre que celle qui a pris la décision (art. 100, al. 2, LACI).
 
 [^128a-1]: Introduit par le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
 [^128a-2]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -3171,19 +3142,19 @@ L’ordonnance du 25 février 1986 sur les décisions en cas de recours concerna
 
 [^132-1]: [RO 2011 1241](https://fedlex.data.admin.ch/eli/oc/2011/184)
 
-## Disposition finale de la modification du 25 avril 1985****
+## Disposition finale de la modification du 25 avril 1985
 
 [^u1-1]
 
 [^u1-1]: [RO 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Abrogée par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 6 novembre 1996****
+## Dispositions finales de la modification du 6 novembre 1996
 
 [^u2-1]
 
 [^u2-1]: [RO 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Abrogées par le ch. IV 55 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposition transitoire de la modification du 2 mars 2012****
+## Disposition transitoire de la modification du 2 mars 2012
 
 [^u3-1]
 
@@ -3194,7 +3165,7 @@ L’ancien droit reste applicable à l’Islande, au Liechtenstein et à la Norv
 [^u3-2]: [RO 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 41*c*, al. 9)
 

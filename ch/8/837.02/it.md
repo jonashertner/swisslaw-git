@@ -4,20 +4,20 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2021-04-01
+version: 2021-07-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’assicurazione obbligatoria contro la disoccupazione e l’indennità per insolvenza
 
-(Ordinanza sull’assicurazione contro la disoccupazione, OADI**[^t-1]**)
+(Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 1° aprile 2021)
+del 31 agosto 1983 (Stato 1° luglio 2021)
 
 [^t-1]: Nuova abbreviazione giusta il n. I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -32,15 +32,33 @@ ordina:
 [^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Titolo 1:**** Applicabilità della LPGA ai provvedimenti collettivi inerenti al mercato del lavoro
+## Titolo 1: Applicabilità della LPGA
 
-[^tit1-1]
+[^tit1-1][^tit1-2]
 
 [^tit1-1]: Introdotto dal n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^tit1-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+#### Art. 1
+
+**Relazioni elettroniche con le autorità**[^1-1]
+
+### (art. 55 cpv. 1<sup>bis</sup> LPGA; art. 1 LADI)
+
+<sup>1</sup> In applicazione dell’articolo 55 capoverso 1<sup>bis</sup> LPGA si applicano le disposizioni della legge federale del 20 dicembre 1968[^1-2] sulla procedura amministrativa concernenti le relazioni elettroniche con le autorità.
+
+<sup>2</sup> Le relazioni elettroniche avvengono, fino alla decisione su opposizione, tramite la piattaforma di accesso ai servizi online (art. 83 cpv. 1<sup>bis</sup> lett. d LADI).
+
+[^1-1]: Introdotto dal n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^1-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 1a
+
+**Provvedimenti collettivi inerenti al mercato del lavoro**[^1a-1]
 
 ### (art. 1 cpv. 3 LADI)
 
-#### Art. 1
+[^1a-2]
 
 Sono considerati provvedimenti collettivi inerenti al mercato del lavoro ai sensi dell’articolo 1 capoverso 3 LADI:
 
@@ -48,29 +66,34 @@ Sono considerati provvedimenti collettivi inerenti al mercato del lavoro ai sens
 - b. i provvedimenti collettivi di occupazione (art. 64*a* cpv. 1 LADI);
 - c. i provvedimenti collettivi speciali che, in base alla legislazione federale sull’assicurazione contro la disoccupazione, i Cantoni o l’ufficio di compensazione dell’assicurazione contro la disoccupazione prendono a favore delle persone disoccupate o minacciate dalla disoccupazione.
 
-## Titolo 1*a*:**** Contributi
+[^1a-1]: Originario art. 1.
+[^1a-2]: Introdotto dal n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+
+## Titolo 1*a*: Contributi
 
 [^tit1a-1]
 
-[^tit1a-1]: Originario Titolo 1
+[^tit1a-1]: Originario Titolo 1.
 
-#### Art. 1a
+#### Art. 2
 
-**Limitazione del salario soggetto a contribuzione**[^1a-1]
+**Limitazione del salario soggetto a contribuzione**[^2-1]
 
 ### (art. 3 LADI)
 
 Qualora la durata dell’occupazione sia inferiore ad un anno, il limite massimo del salario soggetto a contribuzione è calcolato moltiplicando la 360<sup>a</sup> parte dell’importo annuo massimo per il numero di giorni di durata dell’occupazione.
 
-[^1a-1]: Originario art. 1. Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^2-1]: Originario art. 1 e 1*a*. Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-#### Art. 2
+#### Art. 2a
 
-**Quota per le spese amministrative**
+**Quota per le spese amministrative**[^2a-1]
 
 ### (art. 6 e 92 cpv. 1 LADI)
 
 I datori di lavoro ed i lavoratori non devono pagare sui loro contributi all’assicurazione-disoccupazione alcuna quota per le spese amministrative alla cassa di compensazione AVS.
+
+[^2a-1]: Originario art. 2.
 
 ## Titolo 2: Prestazioni
 
@@ -489,132 +512,112 @@ Vi è situazione eccezionale ai sensi dell’articolo 16 capoverso 2 lettera i L
 
 [^17-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### Sezione 2: Consulenza e controllo****
+### Sezione 2: Annuncio, consulenza e controllo
 
 [^tit2-chap1-sec2-1]
 
-[^tit2-chap1-sec2-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
+[^tit2-chap1-sec2-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 18
 
 **Competenza locale**[^18-1]
 
-### (art. 17 cpv. 2 LADI)
+### (art. 17 cpv. 2 e 2<sup>bis</sup> LADI)
 
-<sup>1</sup> È considerato luogo di domicilio dell’assicurato il suo domicilio secondo gli articoli 23 e 25 del Codice civile svizzero[^18-2].
+[^18-2]
 
-<sup>2</sup> I colloqui di consulenza e di controllo sono svolti dal servizio competente.
+<sup>1</sup> L’annuncio per il collocamento nonché i successivi colloqui di consulenza e di controllo competono al servizio del luogo di domicilio dell’assicurato.[^18-3]
 
-<sup>3</sup> Gli assicurati sotto tutela, che non soggiornano abitualmente nel luogo in cui ha sede l’autorità tutoria, possono, con l’autorizzazione scritta del tutore, partecipare ai colloqui di consulenza e di controllo con il servizio competente del luogo di soggiorno.
+<sup>2</sup> È considerato luogo di domicilio dell’assicurato il suo domicilio secondo gli articoli 23 e 25 del Codice civile[^18-4].[^18-5]
+
+<sup>3</sup> Le persone che beneficiano di una misura di protezione degli adulti e che non soggiornano abitualmente nel luogo in cui ha sede l’autorità di protezione degli adulti possono, con l’autorizzazione scritta di tale autorità, partecipare ai colloqui di consulenza e di controllo con il servizio competente del luogo di soggiorno.[^18-6]
 
 <sup>4</sup> I soggiornanti settimanali partecipano ai colloqui di consulenza e di controllo con il servizio competente del loro domicilio o del loro luogo di soggiorno settimanale.
 
-<sup>5</sup> I tutelati e i soggiornanti settimanali devono partecipare ai colloqui di consulenza e di controllo sempre con il medesimo servizio competente, salvo se mutano il luogo di domicilio o di soggiorno.
+<sup>5</sup> L’annuncio delle persone che soggiornano temporaneamente in Svizzera per cercarvi lavoro (art. 64 del regolamento [CE] n. 883/2004[^18-7]) nonché i successivi colloqui di consulenza e di controllo competono al servizio del luogo di soggiorno. Per la durata della ricerca di lavoro in Svizzera non possono cambiare detto servizio.[^18-8]
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^18-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-3]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^18-5]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-6]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^18-7]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 relativo al coordinamento dei sistemi di sicurezza sociale, nella versione che vincola la Svizzera in virtù dell’Allegato II all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) (una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)**)** nonché nella versione che vincola la Svizzera in virtù dell’appendice 2 dell’allegato K della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS) ([RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)).
+[^18-8]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19
 
-**Annuncio personale al Comune o al servizio competente**[^19-1]
+**Annuncio personale per il collocamento**[^19-1]
 
-### (art. 17 cpv. 2 LADI)
+### (art. 29 LPGA; art. 10 cpv. 3 e 17 cpv. 2 LADI)
 
-<sup>1</sup> L’assicurato deve annunciarsi personalmente al Comune del suo domicilio (art. 18) o al servizio competente designato in base alle prescrizioni cantonali.
+<sup>1</sup> L’assicurato deve annunciarsi personalmente per il collocamento. L’annuncio può essere effettuato tramite la piattaforma di accesso ai servizi online (art. 83 cpv. 1<sup>bis</sup> lett. d LADI) o presentandosi presso il servizio competente (art. 18).
 
-<sup>2</sup> Presso il Comune o il servizio competente, l’assicurato sceglie la cassa. Per l’informazione e la consulenza ai sensi dell’articolo 27 LPGA, il Comune e il servizio competente indirizzano l’assicurato al competente organo esecutivo.
+<sup>2</sup> Al momento dell’annuncio, l’assicurato deve fornire il suo numero d’assicurato dell’AVS.
 
-<sup>3</sup> Il Comune o il servizio competente conferma all’assicurato la data del suo annuncio e la cassa scelta. Il Cantone è responsabile della registrazione dei dati di controllo. Tali dati devono essere registrati entro sette giorni dall’annuncio al Comune o al servizio competente. Il servizio cantonale può prolungare tale termine fino a 15 giorni al massimo, in particolare nel caso di licenziamenti collettivi.
+<sup>3</sup> La data dell’annuncio è confermata all’assicurato per scritto.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^19-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 19a
 
-**Informazione su diritti e obblighi**[^19a-1]
+[^19a-1]
 
-### (art. 27 LPGA)
-
-<sup>1</sup> Gli organi esecutivi di cui all’articolo 76 capoverso 1 lettere a–d LADI informano gli assicurati sui loro diritti e obblighi, in particolare, sulla procedura di annuncio e sull’obbligo di evitare o abbreviare la disoccupazione.
-
-<sup>2</sup> Le casse informano gli assicurati sui diritti e sugli obblighi derivanti dai settori di competenza delle casse (art. 81 LADI).
-
-<sup>3</sup> I servizi cantonali e gli uffici regionali di collocamento (URC) informano gli assicurati sui diritti e sugli obblighi derivanti dai rispettivi settori di competenza (art. 85 e 85*b* LADI).
-
-[^19a-1]: Introdotto dal n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
+[^19a-1]: Introdotto dal n. I dell’O dell’11 set. 2002 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)). Abrogato dal n. I dell’O del 26 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 20
 
-**Annuncio presso il servizio competente**[^20-1]
+**Verifica e registrazione dei dati dell’annuncio**[^20-1]
 
-### (art. 17 cpv. 2 LADI)
+### (art. 17 cpv. 2<sup>bis</sup> LADI)
 
-[^20-2]
+<sup>1</sup> Il servizio competente verifica la validità del numero d’assicurato dell’AVS.
 
-<sup>1</sup>
+<sup>2</sup> Il servizio competente verifica i dati dell’annuncio e li registra nel sistema d’informazione per il collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI).
 
-Annunciandosi al servizio competente, l’assicurato deve presentare:
-
-- a.[^20-3] il modulo «annuncio presso il Comune di domicilio», se si è annunciato al Comune;
-- b.[^20-4] l’attestazione di domicilio del Comune o, se è straniero, il permesso pertinente;
-- c.[^20-5] il certificato di assicurazione AVS/AI;
-- d.[^20-6] la lettera di licenziamento, i certificati degli ultimi datori di lavoro, gli attestati sulla formazione e il perfezionamento nonché la prova degli sforzi intrapresi per trovare lavoro.
-
-<sup>2</sup> Il servizio competente esamina la validità delle indicazioni figuranti sul certificato di assicurazione AVS/AI; su sua domanda, la Cassa cantonale di compensazione compila un certificato di assicurazione valido.
-
-<sup>3</sup> Inserisce i dati d’iscrizione nel sistema di informazione in materia di servizio di collocamento e di statistica del mercato del lavoro (COLSTA) e affida all’assicurato la copia per la cassa.
-
-<sup>4</sup> ...[^20-7]
-
-[^20-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^20-3]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^20-4]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-5]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-6]: Introdotta dal n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^20-7]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
+[^20-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 20a
 
-**Persone che dimorano temporaneamente in Svizzera per cercarvi lavoro**[^20a-1]
+**Primo colloquio di consulenza e di controllo**[^20a-1]
 
-Le persone che dimorano temporaneamente in Svizzera per cercarvi lavoro (art. 64 del regolamento (CE) n. 883/2004[^20a-2]) devono annunciarsi personalmente presso il servizio competente del Cantone di dimora. In seguito, non possono cambiare detto servizio.
+### (art. 17 LADI)
 
-[^20a-1]: Introdotto dal n. I dell’O del 15 nov. 2000 ([RU 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^20a-2]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 apr. 2004 relativo al coordinamento dei sistemi di sicurezza sociale, versione GU L 166 del 30.4.2004, pag. 1.
+<sup>1</sup> Il servizio competente svolge il primo colloquio di consulenza e di controllo con l’assicurato nei 15 giorni successivi alla data dell’annuncio (art. 19 cpv. 3).
+
+<sup>2</sup> Durante questo colloquio viene verificata l’identità dell’assicurato.
+
+<sup>3</sup> Durante questo colloquio l’assicurato presenta le informazioni richieste dal servizio competente, segnatamente la prova delle ricerche di lavoro.
+
+[^20a-1]: Introdotto dal n. I dell’O del 15 nov. 2000 ([RU 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 21
 
-**Consulenza e controllo**[^21-1]
+**Colloqui di consulenza e di controllo**[^21-1]
 
-### (art. 17 cpv. 2 LADI)
+### (art. 17 LADI)
 
-<sup>1</sup> Dopo essersi annunciato, l’assicurato deve presentarsi personalmente per colloqui di consulenza e di controllo presso il servizio competente, conformemente alle prescrizioni cantonali. Deve garantire di poter di regola essere contattato entro un giorno dal servizio competente.
+<sup>1</sup> Il servizio competente svolge un colloquio di consulenza e di controllo con l’assicurato a intervalli adeguati, ma almeno ogni due mesi. Durante il colloquio esamina l’idoneità al collocamento dell’assicurato e l’entità della perdita di lavoro computabile.
 
-<sup>2</sup> Il servizio competente fissa le date dei colloqui di consulenza e di controllo per ogni assicurato.
+<sup>2</sup> Il servizio competente registra per l’assicurato le date in cui si è svolto un colloquio di consulenza e di controllo e redige un verbale dei colloqui.
 
-<sup>3</sup> Registra per ogni assicurato le date in cui si è svolto un colloquio di consulenza e di controllo e stende un verbale sui risultati di ciascun colloquio.
+<sup>3</sup> L’assicurato deve garantire di poter essere contattato dal servizio competente entro un giorno lavorativo.
 
-<sup>4</sup> Tra il 24 dicembre e il 2 gennaio non si svolge alcun colloquio di consulenza e di controllo.
-
-[^21-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^21-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 22
 
-**Colloqui di consulenza e di controllo**[^22-1]
+**Informazione sui diritti e sugli obblighi**[^22-1]
 
-### (art. 17 cpv. 2 LADI)
+### (art. 27 LPGA)
 
-<sup>1</sup> Il primo colloquio di consulenza e di controllo si svolge entro 15 giorni dalla data in cui l’assicurato si è annunciato per il collocamento al Comune o al servizio competente.[^22-2]
+<sup>1</sup> Gli organi esecutivi di cui all’articolo 76 capoverso 1 lettere a–d LADI informano gli assicurati sui loro diritti e obblighi, in particolare sulla procedura di annuncio e sull’obbligo di evitare o abbreviare la disoccupazione.
 
-<sup>2</sup> Il servizio competente effettua un colloquio di consulenza e di controllo con ogni assicurato a intervalli adeguati, ma almeno ogni due mesi. Durante il colloquio esamina l’idoneità e la disponibilità al collocamento dell’assicurato.[^22-3]
+<sup>2</sup> Le casse di disoccupazione informano gli assicurati sui diritti e sugli obblighi derivanti dai propri compiti (art. 81 LADI).
 
-<sup>3</sup> Se l’assicurato esercita un’attività a tempo pieno da cui ottiene un guadagno intermedio o un’attività volontaria secondo l’articolo 15 capoverso 4 LADI, il servizio competente lo convoca almeno una volta ogni due mesi a un colloquio di consulenza e di controllo.
+<sup>3</sup> I servizi competenti informano gli assicurati sui diritti e sugli obblighi derivanti dai propri compiti (art. 85 e 85*b* LADI).
 
-<sup>4</sup> Il servizio competente stabilisce d’intesa con l’assicurato il modo in cui questi può di regola essere contattato entro un giorno.
-
-[^22-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^22-3]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^22-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 23
 
@@ -622,41 +625,39 @@ Le persone che dimorano temporaneamente in Svizzera per cercarvi lavoro (art. 64
 
 ### (art. 17 cpv. 2 LADI)
 
-<sup>1</sup> I dati di controllo sono registrati nel modulo «Indicazioni della persona assicurata».[^23-2]
+<sup>1</sup> L’assicurato trasmette i dati di controllo tramite il modulo «Indicazioni della persona assicurata».[^23-2]
 
 <sup>2</sup>
 
-Il supporto di dati fornisce informazioni su:
+Tali dati forniscono informazioni su:
 
 - a. i giorni lavorativi per i quali l’assicurato rende verosimile di essere stato disoccupato e idoneo al collocamento;
-- b. tutti i fatti importanti per valutare i diritti dell’assicurato, quali la malattia, il servizio militare, le assenze per vacanze, la partecipazione a un provvedimento inerente al mercato del lavoro, il guadagno intermedio e il grado d’idoneità al collocamento.
+- b. tutti i fatti importanti per valutare il diritto dell’assicurato, come malattia, servizio militare, assenze per vacanze, partecipazione a un provvedimento inerente al mercato del lavoro, guadagno intermedio ed entità della perdita di lavoro computabile.[^23-3]
 
-<sup>3</sup> Al più tardi durante il primo colloquio di consulenza e di controllo con l’assicurato, il servizio competente compila il modulo «Indicazioni della persona assicurata». Vi indica il nome della cassa scelta dall’assicurato (art. 19 cpv. 3).[^23-3]
+<sup>3</sup> *...*[^23-4]
 
-<sup>4</sup> Il servizio competente provvede affinché alla fine del mese l’assicurato disponga del modulo «Indicazioni della persona assicurata».[^23-4]
+<sup>4</sup> Il servizio competente provvede affinché alla fine del mese l’assicurato disponga del modulo «Indicazioni della persona assicurata».[^23-5]
 
-<sup>5</sup> ...[^23-5]
+<sup>5</sup> ...[^23-6]
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^23-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-3]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-4]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^23-5]: Introdotto dal n. I dell’O del 15 nov. 2000 ([RU 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Abrogato dal n. I dell’O del 2 mar. 2012, con effetto dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-3]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-4]: Abrogato dal n. I dell’O del 26 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^23-5]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^23-6]: Introdotto dal n. I dell’O del 15 nov. 2000 ([RU 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Abrogato dal n. I dell’O del 2 mar. 2012, con effetto dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 #### Art. 24
 
-**Esame dell’idoneità al collocamento**[^24-1]
+**Esame dell’idoneità al collocamento e dell’entità della perdita di lavoro computabile**[^24-1]
 
-### (art. 15 cpv. 1 e 17 cpv. 2 LADI)
+### (art. 49 LPGA; art. 11 e 15 LADI)
 
-<sup>1</sup> Se considera l’assicurato non idoneo o solo parzialmente idoneo al collocamento, il servizio competente ne informa la cassa.
+<sup>1</sup> Se considera l’assicurato non idoneo al collocamento o se l’entità della perdita di lavoro computabile è mutata, il servizio competente ne informa la cassa di disoccupazione.
 
-<sup>2</sup> Il servizio competente emana una decisione sul grado d’idoneità al collocamento.[^24-2]
+<sup>2</sup> Il servizio emana una decisione al riguardo.
 
-<sup>3</sup> Esso trasmette alla cassa e ai servizi interessati una copia della sua decisione.
-
-[^24-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^24-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
+[^24-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 25
 
@@ -715,11 +716,11 @@ Su richiesta dell’assicurato, il servizio competente decide di:
 
 <sup>5</sup> L’assicurato che partecipa a un provvedimento inerente al mercato del lavoro può disporre, durante questo periodo, di un numero di giorni esenti dall’obbligo di controllo non superiore a quello cui dà diritto la durata complessiva del provvedimento. I giorni esenti dall’obbligo di controllo possono essere presi soltanto d’intesa con il responsabile del programma.
 
-<sup>6</sup> L’assicurato non può prendere giorni esenti dall’obbligo di controllo né immediatamente prima né durante né immediatamente dopo il suo soggiorno all’estero (art. 64 del regolamento (CE) n. 883/2004[^27-2]). Al suo ritorno, deve presentarsi personalmente al servizio competente e farvi valere il proprio diritto ai giorni esenti dall’obbligo di controllo.[^27-3]
+<sup>6</sup> L’assicurato non può prendere giorni esenti dall’obbligo di controllo né immediatamente prima né durante né immediatamente dopo il suo soggiorno all’estero (art. 64 del regolamento [CE] n. 883/2004[^27-2]). Al suo ritorno, deve presentarsi personalmente al servizio competente e farvi valere il proprio diritto ai giorni esenti dall’obbligo di controllo.[^27-3]
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^27-2]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 apr. 2004 relativo al coordinamento dei sistemi di sicurezza sociale, versione GU L 166 del 30.4.2004, pag. 1.
-[^27-3]: Introdotto dal n. I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^27-2]: Cfr. nota a piè di pagina relativa all’art. 18 cpv. 5.
+[^27-3]: Introdotto dal n. I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 27a
 
@@ -748,82 +749,56 @@ Su richiesta dell’assicurato, il servizio competente decide di:
 
 ### (art. 20 cpv. 1 LADI)
 
-[^28-2]
+<sup>1</sup> L’assicurato è informato in merito alle casse di disoccupazione disponibili e ne sceglie una al più tardi durante il primo colloquio di consulenza e di controllo (art. 20*a*).
 
-<sup>1</sup> L’assicurato sceglie la cassa al momento in cui si annuncia personalmente al Comune o al servizio competente.[^28-3]
+<sup>2</sup> L’assicurato può mutare cassa di disoccupazione, durante il termine quadro per la riscossione della prestazione, soltanto se abbandona il campo d’attività di detta cassa. Salvo alla scadenza di un termine quadro, il mutamento deve aver luogo all’inizio di un periodo di controllo.
 
-<sup>2</sup> L’assicurato può mutare cassa, durante il termine quadro per la riscossione della prestazione, soltanto se abbandona il campo d’azione della cassa. Salvo alla scadenza di un termine quadro, il mutamento deve aver luogo all’inizio di un periodo di controllo.
+<sup>3</sup> Al mutamento di cassa, la nuova cassa di disoccupazione acquisisce i diritti di accesso ai dati del pertinente caso assicurativo dall’inizio del periodo di controllo successivo. La cassa di disoccupazione precedente mantiene i diritti di accesso al caso assicurativo per le procedure in corso.
 
-<sup>2bis</sup> ...[^28-4]
-
-<sup>3</sup> Al mutamento di cassa, la precedente trasmette elettronicamente i dati alla nuova e le consegna una copia della pratica del beneficiario. Su domanda, la cassa precedente fornisce alla nuova ogni altra indicazione necessaria.
-
-[^28-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
-[^28-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^28-3]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^28-4]: Introdotto dal n. I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Abrogato dal n. I dell’O del 2 mar. 2012, con effetto dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 29
 
-**Esercizio del diritto all’indennità**
+**Esercizio del diritto all’indennità**[^29-1]
 
-### (art. 40 LPGA e 20 cpv. 1 e 2 LADI)
-
-[^29-1]
+### (art. 40 LPGA; art. 20 cpv. 1 e 2 LADI)
 
 <sup>1</sup>
 
-Per il primo periodo di controllo durante il termine quadro e in occasione di ogni nuova disoccupazione dopo un’interruzione di almeno sei mesi, l’assicurato fa valere il suo diritto consegnando alla cassa:
+Per il primo periodo di controllo durante il termine quadro e in occasione di ogni nuova disoccupazione dopo un’interruzione di almeno sei mesi, l’assicurato fa valere il suo diritto consegnando alla cassa di disoccupazione:
 
-- a. il modulo di domanda d’indennità debitamente riempito;
-- b. il doppio del modulo ufficiale d’iscrizione per il collocamento;
-- c. le attestazioni di lavoro concernenti i due ultimi anni;
-- d.[^29-2] il modulo «Indicazioni della persona assicurata»;
-- e.[^29-3] gli altri documenti chiesti dalla cassa per valutare il diritto all’indennità.[^29-4]
+- a. la domanda d’indennità di disoccupazione;
+- b. gli attestati del datore di lavoro degli ultimi due anni;
+- c. il modulo «Indicazioni della persona assicurata»;
+- d. le altre informazioni chieste dalla cassa di disoccupazione per valutare il diritto all’indennità.
 
 <sup>2</sup>
 
-Al fine di far valere il suo diritto all’indennità per gli ulteriori periodi di controllo, l’assicurato presenta alla cassa:
+Al fine di far valere il suo diritto all’indennità per gli ulteriori periodi di controllo, l’assicurato presenta alla cassa di disoccupazione:
 
-- a.[^29-5] il modulo «Indicazioni della persona assicurata»;
-- b. le attestazioni di lavoro relative ai guadagni intermedi;
-- c.[^29-6] gli altri documenti chiesti dalla cassa per valutare il diritto all’indennità.
-- d.[^29-7] ...[^29-8]
+- a. il modulo «Indicazioni della persona assicurata»;
+- b. gli attestati di guadagno intermedio;
+- c. le altre informazioni chieste dalla cassa di disoccupazione per valutare il diritto all’indennità.
 
-<sup>3</sup> Se necessario, la cassa fissa all’assicurato un congruo termine per completare i documenti e lo avverte riguardo alle conseguenze dell’omissione.[^29-9]
+<sup>3</sup> Se necessario, la cassa di disoccupazione fissa all’assicurato un termine adeguato per completare il dossier e lo avverte riguardo alle conseguenze dell’omissione.
 
-<sup>4</sup> Se l’assicurato non può provare, mediante attestazione, fatti rilevanti per valutare il diritto all’indennità, la cassa può eccezionalmente tener conto di una dichiarazione firmata dall’assicurato, se questa appare verosimile.
+<sup>4</sup> Se l’assicurato non può provare, mediante attestati, fatti rilevanti per valutare il diritto all’indennità, la cassa di disoccupazione può eccezionalmente tener conto di una dichiarazione firmata dall’assicurato, se questa appare verosimile.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^29-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-3]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-4]: Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^29-5]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-6]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^29-7]: Abrogata dal n. I dell’O del 24 nov. 1999, con effetto dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^29-8]: Originario cpv. 3. Nuovo testo giusta il n. I dell’O del 28 ago. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
-[^29-9]: Originario cpv. 2.
+[^29-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 30
 
-**Pagamento delle indennità, dichiarazione fiscale[^30-1]**
+**Pagamento delle indennità e attestato per le autorità fiscali**[^30-1]
 
-### (art. 19 LPGA, 20, 96*b* e 97*a* LADI)
+### (art. 19 LPGA; art. 20, 96*b* e 97*a* LADI)
 
-[^30-2]
-
-<sup>1</sup> La cassa paga l’indennità per il periodo di controllo trascorso, di regola nel corso del mese seguente.
+<sup>1</sup> La cassa di disoccupazione paga l’indennità per il periodo di controllo trascorso di regola nel corso del mese seguente.
 
 <sup>2</sup> L’assicurato riceve un conteggio scritto.
 
-<sup>3</sup> ...[^30-3]
+<sup>3</sup> La cassa di disoccupazione consegna all’assicurato, a destinazione delle autorità fiscali, un attestato concernente le prestazioni ricevute. Nei Cantoni che ne prevedono la possibilità, l’attestato è trasmesso alle autorità fiscali cantonali direttamente per via elettronica (art. 97*a* cpv. 1 lett. c<sup>bis</sup> e cpv. 8 LADI).
 
-<sup>4</sup> Le casse consegnano agli assicurati a destinazione delle autorità fiscali una dichiarazione concernente le prestazioni ricevute.[^30-4]
-
-[^30-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^30-3]: Introdotto dal n. I dell’O del 22 nov. 2000 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)). Abrogato dal n. I dell’O del 2 mar. 2012, con effetto dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^30-4]: Introdotto dal n. I dell’O del 19 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
+[^30-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 31
 
@@ -890,10 +865,10 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 <sup>1</sup> Il supplemento corrispondente agli assegni legali per figli e la formazione è calcolato secondo la legge disciplinante gli assegni familiari del Cantone dove risiede l’assicurato.[^34-1]
 
-<sup>2</sup> La Segreteria di Stato dell’economia (SECO)[^34-2] comunica annualmente agli organi d’esecuzione, d’intesa con l’Ufficio federale delle assicurazioni sociali, le aliquote e i principali presupposti del diritto agli assegni.
+<sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione comunica annualmente agli organi esecutivi, d’intesa con l’Ufficio federale delle assicurazioni sociali, le aliquote e i principali presupposti del diritto agli assegni.[^34-2]
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^34-2]: Nuova denominazione giusta l’art. 22 cpv. 1 n. 16 dell’O del 17 nov. 1999, in vigore dal 1° lug. 1999 ([RU 2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^34-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 35
 
@@ -905,7 +880,7 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 <sup>1</sup> La cassa deduce la parte del contributo AVS/AI/IPG del lavoratore dalle indennità giornaliere secondo gli articoli 18 e seguenti e 59*c*<sup>bis</sup> capoverso 1 LADI.[^35-2]
 
-<sup>2</sup> L’Ufficio federale delle assicurazioni sociali disciplina, d’intesa con la SECO, il conteggio dei contributi con l’AVS/AI/IPG, l’annuncio dei redditi che devono essere iscritti nei conti individuali dell’AVS e la copertura dei costi risultanti.
+<sup>2</sup> L’Ufficio federale delle assicurazioni sociali disciplina, d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione[^35-3], il conteggio dei contributi con l’AVS/AI/IPG, l’annuncio dei redditi che devono essere iscritti nei conti individuali dell’AVS e la copertura dei costi risultanti.
 
 <sup>3</sup> L’Ufficio di compensazione dell’assicurazione-disoccupazione verifica, all’atto dei suoi controlli periodici (art. 109 e 110), le deduzioni dei contributi AVS da parte della cassa e le notificazioni al sistema di informazione dell’assicurazione-disoccupazione. Dispone le necessarie rettificazioni e comunica le corrispondenti osservazioni all’Ufficio federale delle assicurazioni sociali.
 
@@ -913,6 +888,7 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^35-2]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^35-3]: Nuova espr. giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 36
 
@@ -952,12 +928,12 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 <sup>4</sup>
 
-Il guadagno assicurato è ridefinito per il periodo di controllo seguente se, durante il termine quadro per la riscossione della prestazione:
+Il guadagno assicurato è ridefinito se, durante il termine quadro per la riscossione della prestazione:[^37-7]
 
 - a. l’assicurato ha esercitato ininterrottamente durante almeno sei mesi un’attività soggetta a contribuzione per la quale ha ottenuto un salario superiore al guadagno assicurato, e se è nuovamente disoccupato;
-- b. l’idoneità al collocamento dell’assicurato è mutata.[^37-7]
+- b.[^37-8] l’entità della perdita di lavoro computabile dell’assicurato è mutata.[^37-9]
 
-<sup>5</sup> ...[^37-8]
+<sup>5</sup> ...[^37-10]
 
 [^37-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^37-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -965,8 +941,10 @@ Il guadagno assicurato è ridefinito per il periodo di controllo seguente se, du
 [^37-4]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^37-5]: Introdotto dal n. I dell’O del 28 ago. 1991 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^37-6]: Introdotto dal n. I dell’O dell’11 dic. 1995 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Abrogato dal n. I dell’O dell’11 mar. 2011, con effetto dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^37-7]: Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^37-8]: Introdotto dal n. I dell’O del 15 nov. 2000 ([RU 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Abrogato dal n. I dell’O del 2 mar. 2012, con effetto dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
+[^37-7]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^37-8]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^37-9]: Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^37-10]: Introdotto dal n. I dell’O del 15 nov. 2000 ([RU 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)). Abrogato dal n. I dell’O del 2 mar. 2012, con effetto dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
 #### Art. 38
 
@@ -1121,11 +1099,12 @@ Nel caso in cui le due parti riprendano i rapporti di lavoro entro un anno o li 
 
 ### (art. 28 LADI)
 
-<sup>1</sup> L’assicurato che si trova temporaneamente in una situazione di incapacità al lavoro totale o parziale e intende far valere il diritto all’indennità giornaliera deve annunciare la sua incapacità lavorativa all’URC entro una settimana dall’inizio della medesima.
+<sup>1</sup> L’assicurato che si trova temporaneamente in una situazione di incapacità al lavoro totale o parziale e intende far valere il diritto all’indennità giornaliera deve annunciare la sua incapacità lavorativa all’ufficio regionale di collocamento (URC) entro una settimana dall’inizio della medesima.[^42-2]
 
 <sup>2</sup> L’assicurato che annuncia l’incapacità al lavoro tardivamente senza valido motivo e che non ha indicato tale incapacità neppure nel modulo «Indicazioni della persona assicurata» perde il diritto all’indennità giornaliera per i giorni di incapacità al lavoro precedenti l’annuncio.
 
 [^42-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^42-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 43
 
@@ -1210,7 +1189,7 @@ Vi è colpa grave se l’assicurato, senza valido motivo:
 <sup>4</sup> e <sup>5</sup> ...[^46-2]
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Abrogati dal n. I dell’O del 26 ago. 2020, con effetto dal 1° set. 2020 al 30 giu. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^46-2]: Abrogati dal n. I dell’O del 26 ago. 2020, con effetto dal 1° set. 2020 al 30 set. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 46a
 
@@ -1299,12 +1278,12 @@ Il servizio cantonale può dare il suo consenso soltanto se il perfezionamento p
 
 <sup>1</sup> Per determinare il periodo di attesa si sommano i periodi di conteggio per cui sono state percepite indennità per lavoro ridotto ai periodi di conteggio per cui sono state percepite indennità per intemperie.
 
-<sup>2</sup> ...[^50-2]
+<sup>2</sup> Per ogni periodo di conteggio, dalla perdita di lavoro computabile è dedotto un periodo d’attesa di un giorno.[^50-2]
 
 <sup>3</sup> ...[^50-3]
 
 [^50-1]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Abrogato dal n. II dell’O del 20 gen. 2021, con effetto dal 1°sett. 2020 al 30 giu. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16), [169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^50-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° set. 2020 ([RU 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
 [^50-3]: Introdotto dal n. I dell’O del 19 set. 2003 ([RU 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 al 31 lug. 2017 ([RU 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1387,7 +1366,7 @@ La perdita di lavoro non è computabile:
 - a. durante i due giorni di lavoro immediatamente precedenti o seguenti giorni festivi che non cadono di sabato o di domenica;
 - b. durante cinque giorni di lavoro immediatamente precedenti e seguenti le vacanze aziendali.
 
-<sup>2</sup> Nei casi di cui al capoverso 1 lettera b, la SECO può, su domanda del datore di lavoro, accordare deroghe, se circostanze particolari consentono di escludere qualsiasi abuso. Il datore di lavoro deve presentare la domanda al servizio cantonale, che la trasmette alla SECO con il suo preavviso.[^54-1]
+<sup>2</sup> Nei casi di cui al capoverso 1 lettera b, l’ufficio di compensazione dell’assicurazione contro la disoccupazione può, su domanda del datore di lavoro, accordare deroghe, se circostanze particolari consentono di escludere qualsiasi abuso. Il datore di lavoro deve presentare la domanda al servizio cantonale, che la trasmette all’ufficio di compensazione dell’assicurazione contro la disoccupazione con il suo preavviso.[^54-1]
 
 [^54-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071)).
 
@@ -1443,13 +1422,9 @@ Se il salario dell’ultimo mese di contribuzione si scosta di almeno il 10 per 
 
 #### Art. 57b
 
-**Durata massima dell’indennità per lavoro ridotto**[^57b-1]
+[^57b-1]
 
-### (art. 35 cpv. 2 LADI)
-
-La durata massima dell’indennità per lavoro ridotto è prolungata di sei periodi di conteggio.
-
-[^57b-1]: Introdotto dal n. I dell’O dell’11 feb. 2009 ([RU 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° set. 2020 al 31 dic. 2021 ([RU 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524)).
+[^57b-1]: Introdotto dal n. I dell’O dell’11 feb. 2009 ([RU 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° set. 2020 al 30 giu. 2021 ([RU 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524), [2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 58
 
@@ -1473,7 +1448,9 @@ La durata massima dell’indennità per lavoro ridotto è prolungata di sei peri
 
 **Documenti da presentare**
 
-### (art. 36 cpv. 2 e 3 LADI)
+### (art. 36 cpv. 2, 3 e 5 LADI)
+
+[^59-1]
 
 <sup>1</sup>
 
@@ -1483,9 +1460,12 @@ Con il preannuncio di lavoro ridotto, il datore di lavoro deve, in più delle in
 - b. un documento indicante il numero dei lavoratori dei quali il rapporto di lavoro è stato disdetto o verrà disdetto prossimamente;
 - c. tutti gli altri documenti chiesti dal servizio cantonale.
 
-<sup>2</sup> Il datore di lavoro deve annunciare il lavoro ridotto sul modulo della SECO.
+<sup>2</sup> Il datore di lavoro deve annunciare il lavoro ridotto al servizio cantonale tramite il modulo dell’ufficio di compensazione dell’assicurazione contro la disoccupazione.[^59-2]
 
-<sup>3</sup> La SECO può prevedere una procedura semplificata nel caso in cui, in circostanze immutate, un’azienda annuncia reiteratamente lavoro ridotto in un periodo di due anni (art. 35 cpv. 1 LADI).
+<sup>3</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione può prevedere una procedura semplificata nel caso in cui, in circostanze immutate, un’azienda annuncia reiteratamente lavoro ridotto in un periodo di due anni (art. 35 cpv. 1 LADI).
+
+[^59-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^59-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 60
 
@@ -1504,9 +1484,11 @@ Il datore di lavoro, se ha annunciato il lavoro ridotto e scelto una cassa, può
 
 <sup>3</sup> Il datore di lavoro, se ha fatto valere indennità per intemperie nel corso dell’ultimo biennio, può far valere indennità per lavoro ridotto presso un’altra cassa soltanto se soddisfa una delle condizioni di cui al capoverso 2.
 
-<sup>4</sup> La SECO può autorizzare un mutamento di cassa se il datore di lavoro prova che la cassa precedente non è in grado di sbrigare il caso conformemente alle prescrizioni o ha commesso gravi errori nel disbrigo di un caso antecedente.
+<sup>4</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione può autorizzare un mutamento di cassa se il datore di lavoro prova che la cassa precedente non è in grado di sbrigare il caso conformemente alle prescrizioni o ha commesso gravi errori nel disbrigo di un caso antecedente.
 
-<sup>5</sup> La cassa precedente fornisce alla nuova, se ne fa domanda, ogni indicazione necessaria, in particolare sul numero dei periodi di conteggio per i quali ha pagato prestazioni.
+<sup>5</sup> Al mutamento di cassa, la nuova cassa di disoccupazione acquisisce i diritti di accesso ai dati del pertinente caso assicurativo per analogia all’articolo 28 capoverso 3.[^60-1]
+
+[^60-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 61
 
@@ -1540,25 +1522,13 @@ I contributi padronali all’AVS/AI/IPG/AD per i periodi di perdita di lavoro so
 
 Il reddito conseguito con un’occupazione provvisoria non è computato nel calcolo della perdita di guadagno
 
-[^63-1]: Nuovo testo gisuta il n. I dell’O del 26 ago. 2020, in vigore dal 1° set. 2020 al 30 giu. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^63-1]: Nuovo testo gisuta il n. I dell’O del 26 ago. 2020, in vigore dal 1° set. 2020 al 30 set. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169), [382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 64
 
-**Diminuzioni per colpa dell’assicurato**
+[^64-1]
 
-### (art. 41 cpv. 5 LADI)
-
-<sup>1</sup>
-
-L’indennità per lavoro ridotto è diminuita:
-
-- a. da 100 a 250 franchi in caso di colpa lieve;
-- b. da 251 a 550 franchi in caso di colpa di una certa gravità;
-- c. da 551 a 1000 franchi in caso di colpa grave.
-
-<sup>2</sup> Il servizio cantonale consegna senza indugio un doppio della decisione al datore di lavoro, alla cassa e alla SECO.
-
-<sup>3</sup> Il datore di lavoro, su mandato della cassa, compensa per quanto possibile le riduzioni definitive con le indennità per lavoro ridotto non ancora pagate. La cassa è tenuta ad esigere dall’assicurato il rimborso delle riduzioni che non possono essere compensate.
+[^64-1]: Abrogato dal n. I dell’O del 26 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 ### Capitolo 3: Indennità per intemperie
 
@@ -1664,13 +1634,14 @@ Per ogni periodo di conteggio per cui sono state percepite indennità per lavoro
 
 ### (art. 45 LADI)
 
-<sup>1</sup> Il datore di lavoro è tenuto ad annunciare al servizio cantonale, sul modulo della SECO, la perdita di lavoro dovuta ad intemperie, il più tardi il quinto giorno del mese civile successivo.
+<sup>1</sup> Il datore di lavoro è tenuto ad annunciare al servizio cantonale, tramite il modulo dell’ufficio di compensazione dell’assicurazione contro la disoccupazione, la perdita di lavoro dovuta ad intemperie, al più tardi il quinto giorno del mese civile successivo.[^69-2]
 
 <sup>2</sup> Se il datore di lavoro ha annunciato tardivamente, senza motivo scusabile, la perdita di lavoro dovuta ad intemperie, l’inizio del diritto all’indennità subisce un differimento ari alla durata del ritardo.
 
 <sup>3</sup> Il servizio cantonale determina, mediante decisione, i giorni per i quali può essere concessa l’indennità per intemperie.
 
 [^69-1]: Nuovo testo giusta il n. I dell’O del 28 ago. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
+[^69-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 70
 
@@ -1700,13 +1671,9 @@ I contributi padronali all’AVS/AI/IPG/AD per i periodi di perdita di lavoro so
 
 #### Art. 72
 
-**Prescrizioni di controllo**[^72-1]
+[^72-1]
 
-### (art. 49 cpv. 2 LADI)
-
-In caso di perdita di lavoro per intemperie non si procede ad alcun controllo mediante timbratura, per quanto il servizio cantonale non disponga altrimenti.
-
-[^72-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^72-1]: Abrogato dal n. I dell’O del 26 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 ### Capitolo 4: Indennità per insolvenza
 
@@ -1767,7 +1734,7 @@ La cassa preleva dall’indennità per insolvenza i contributi (quota del lavora
 
 <sup>3</sup> La cassa deduce la quota del lavoratore dall’indennità per insolvenza.
 
-<sup>4</sup> La SECO disciplina la procedura d’intesa con l’Ufficio federale delle assicurazioni sociali.
+<sup>4</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione disciplina la procedura d’intesa con l’Ufficio federale delle assicurazioni sociali.
 
 <sup>5</sup> L’articolo 35 capoverso 3 è applicabile per analogia alla verifica delle deduzioni.
 
@@ -1781,23 +1748,27 @@ La cassa preleva dall’indennità per insolvenza i contributi (quota del lavora
 
 <sup>1</sup>
 
-L’assicurato che pretende un’indennità per insolvenza deve presentare alla cassa competente:
+L’assicurato che fa valere il diritto all’indennità per insolvenza deve presentare alla cassa di disoccupazione competente:
 
-- a. il modulo di domanda d’indennità debitamente riempito;
-- b. il certificato di assicurazione AVS/AI;
-- c. il permesso di domicilio o di dimora oppure un’attestazione di domicilio del Comune ovvero, se è straniero, il permesso pertinente;
-- d. tutti gli altri documenti chiesti dalla cassa per valutare il diritto all’indennità.
+- a. la domanda d’indennità per insolvenza;
+- b. il numero d’assicurato dell’AVS;
+- c. se è di cittadinanza straniera, il permesso per stranieri;
+- d. tutte le altre informazioni chieste dalla cassa di disoccupazione per valutare il diritto all’indennità.[^77-1]
 
-<sup>2</sup> Se necessario, la cassa fissa all’assicurato un congruo termine per completare i documenti e lo avverte riguardo alle conseguenze dell’omissione.
+<sup>2</sup> Se necessario, la cassa di disoccupazione fissa all’assicurato un termine adeguato per completare il dossier e lo avverte riguardo alle conseguenze dell’omissione.[^77-2]
 
-<sup>3</sup> Se il fallimento di un datore di lavoro ha ripercussioni per succursali o stabili organizzazioni situate in un altro Cantone, i loro lavoratori possono far valere il diritto attraverso la cassa pubblica di detto Cantone. Questa trasmette le domande e gli allegati alla cassa competente.
+<sup>3</sup> Se il fallimento di un datore di lavoro ha ripercussioni per succursali o stabili organizzazioni situate in un altro Cantone, i loro lavoratori possono far valere il diritto presso la cassa di disoccupazione pubblica di detto Cantone. Il trattamento di queste domande compete alla cassa di disoccupazione pubblica in cui ha sede il datore di lavoro.[^77-3]
 
-<sup>4</sup> Se il datore di lavoro non è oggetto di un’esecuzione forzata in Svizzera, è competente la cassa pubblica del Cantone in cui si trova il precedente luogo di lavoro. Se esistono parecchi luoghi di lavoro in diversi Cantoni, la SECO designa la cassa competente.
+<sup>4</sup> Se il datore di lavoro non è oggetto di un’esecuzione forzata in Svizzera, è competente la cassa di disoccupazione pubblica del Cantone in cui si trova il precedente luogo di lavoro dell’assicurato. Se esistono luoghi di lavoro in diversi Cantoni, l’ufficio di compensazione dell’assicurazione contro la disoccupazione designa la cassa di disoccupazione competente.[^77-4]
 
-<sup>5</sup> Nel caso di cui all’articolo 51 lettera b LADI il lavoratore deve far valere il diritto all’indennità per insolvenza al più tardi 60 giorni dopo aver preso atto che il termine per il versamento dell’anticipazione delle spese secondo l’articolo 169 capoverso 2 della legge federale dell’11 aprile 1889[^77-1] sulla esecuzione e sul fallimento è trascorso infruttuoso.[^77-2]
+<sup>5</sup> Nel caso di cui all’articolo 51 lettera b LADI il lavoratore deve far valere il diritto all’indennità per insolvenza al più tardi 60 giorni dopo aver preso atto che il termine per il versamento dell’anticipazione delle spese secondo l’articolo 169 capoverso 2 della legge federale dell’11 aprile 1889[^77-5] sulla esecuzione e sul fallimento è trascorso infruttuoso.[^77-6]
 
-[^77-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^77-2]: Introdotto dal n. I dell’O del 28 ago. 1991 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^77-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-3]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-4]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^77-5]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^77-6]: Introdotto dal n. I dell’O del 28 ago. 1991 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 78
 
@@ -1813,7 +1784,7 @@ La cassa competente può far capo a casse pubbliche di altri Cantoni per il disb
 
 ### (art. 54 LADI)
 
-La cassa può proporre procedimenti che le possono provocare spese soltanto con il consenso della SECO. Lo stesso vale per le azioni risultanti dal diritto sull’esecuzione.
+La cassa può proporre procedimenti che le possono provocare spese soltanto con il consenso dell’ufficio di compensazione dell’assicurazione contro la disoccupazione. Lo stesso vale per le azioni risultanti dal diritto sull’esecuzione.
 
 #### Art. 80
 
@@ -1821,11 +1792,11 @@ La cassa può proporre procedimenti che le possono provocare spese soltanto con 
 
 ### (art. 54 cpv. 2 LADI)
 
-<sup>1</sup> Se un credito deve essere fatto valere all’estero, la cassa sottopone il caso alla SECO con tutti gli atti.
+<sup>1</sup> Se un credito deve essere fatto valere all’estero, la cassa sottopone il caso all’ufficio di compensazione dell’assicurazione contro la disoccupazione con tutti gli atti.
 
-<sup>2</sup> La SECO può autorizzare la cassa a rinunciare all’esercizio dei suoi diritti, se l’esigibilità del credito appare dubbia o se sono prevedibili complicazioni oppure spese sproporzionate.
+<sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione può autorizzare la cassa a rinunciare all’esercizio dei suoi diritti, se l’esigibilità del credito appare dubbia o se sono prevedibili complicazioni oppure spese sproporzionate.
 
-### Capitolo 5: Provvedimenti inerenti al mercato del lavoro****
+### Capitolo 5: Provvedimenti inerenti al mercato del lavoro
 
 [^tit2-chap5-1]
 
@@ -1858,14 +1829,15 @@ La cassa può proporre procedimenti che le possono provocare spese soltanto con 
 
 ### (art. 59*a* LADI)
 
-<sup>1</sup> Il servizio cantonale trasmette i dati necessari per il controllo dell’efficacia delle misure al sistema di informazione COLSTA.
+<sup>1</sup> Il servizio cantonale trasmette i dati necessari per il controllo dell’efficacia delle misure al sistema d’informazione per il collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI).[^81a-2]
 
 <sup>2</sup> Le istituzioni e le persone che eseguono misure in materia di mercato del lavoro forniscono informazioni, partecipano alle misure di controllo e valutano i risultati conseguiti.
 
-<sup>3</sup> L’ufficio di compensazione valuta i dati di cui al capoverso 1. Utilizza i risultati della valutazione per ottimizzare i provvedimenti inerenti al mercato del lavoro. A tal fine tiene conto in particolare dei bisogni delle persone in cerca d’impiego la cui reintegrazione nel mercato del lavoro risulta difficile.[^81a-2]
+<sup>3</sup> L’ufficio di compensazione valuta i dati di cui al capoverso 1. Utilizza i risultati della valutazione per ottimizzare i provvedimenti inerenti al mercato del lavoro. A tal fine tiene conto in particolare dei bisogni delle persone in cerca d’impiego la cui reintegrazione nel mercato del lavoro risulta difficile.[^81a-3]
 
 [^81a-1]: Introdotto dal n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^81a-2]: Introdotto dal n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^81a-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^81a-3]: Introdotto dal n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
 #### Art. 81b
 
@@ -2003,11 +1975,11 @@ L’organizzatore del provvedimento non può riscuotere dai partecipanti quote d
 
 **Attestazione dell’organizzatore del provvedimento di formazione o di occupazione**[^87-1]
 
-### (art. 59*c*<sup>bis</sup> cpv. 2 e 3 LADI)
+### (art. 59*c*<sup>bis</sup> LADI)
 
-L’organizzatore del provvedimento di formazione o di occupazione fornisce all’assicurato, al più tardi il terzo giorno lavorativo del mese seguente, un’attestazione a destinazione della cassa di disoccupazione, che riporta il numero dei giorni durante i quali l’assicurato ha effettivamente partecipato al provvedimento nonché le eventuali assenze.
+L’organizzatore del provvedimento di formazione o di occupazione redige per ogni periodo di controllo, al più tardi il terzo giorno lavorativo del mese seguente, un’attestazione che riporta il numero dei giorni durante i quali l’assicurato ha effettivamente partecipato al provvedimento e le assenze.
 
-[^87-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^87-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 88
 
@@ -2428,7 +2400,7 @@ Sono di regola considerate spese computabili:
 
 ### (art. 79 cpv. 1 LADI)
 
-Le casse annunciano alla SECO i nomi ed ogni mutamento delle persone responsabili della loro gestione.
+Le casse annunciano all’ufficio di compensazione dell’assicurazione contro la disoccupazione i nomi ed ogni mutamento delle persone responsabili della loro gestione.
 
 #### Art. 104
 
@@ -2522,11 +2494,14 @@ Il controllo della gestione degli uffici di esecuzione dell’assicurazione cont
 
 **Controllo delle applicazioni informatiche**[^109b-1]
 
-### (art. 83 cpv. 1 lett. i e o LADI)
+### (art. 83 cpv. 1<sup>bis</sup> LADI)
+
+[^109b-2]
 
 L’ufficio di compensazione e gli uffici fiduciari da esso incaricati controllano periodicamente e per sondaggio le applicazioni informatiche nonché le misure tecniche e di sicurezza. Il controllo si estende segnatamente al sistema dei pagamenti della cassa di disoccupazione e alle applicazioni contabili e finanziarie.
 
 [^109b-1]: Introdotto dal n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^109b-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 110
 
@@ -2715,27 +2690,21 @@ L’ufficio di compensazione decide definitivamente circa l’impegno del propri
 
 La competenza locale del servizio cantonale è determinata:
 
-- a. secondo il luogo in cui l’assicurato adempie l’obbligo di controllo, riguardo all’indennità di disoccupazione e al controllo in caso di lavoro ridotto (art. 40 LADI) e perdita di lavoro dovuta ad intemperie (art. 49 LADI);
+- a. secondo il luogo in cui l’assicurato adempie l’obbligo di controllo, riguardo all’indennità di disoccupazione (art. 18);
 - b. secondo il luogo dell’azienda, riguardo all’indennità per lavoro ridotto;
-- c.[^119-1] secondo il luogo di lavoro, riguardo all’indennità per intemperie in Svizzera; secondo il luogo dell’azienda, se il luogo di lavoro si trova all’estero;
-- [tab] d.[^119-2] secondo il luogo dell’ufficio d’esecuzione e di fallimento competente, riguardo all’indennità per insolvenza. Se il datore di lavoro non sottostà all’esecuzione forzata in Svizzera, la competenza è determinata secondo il precedente luogo di lavoro dell’assicurato;
-- e.[^119-3] secondo la sede dell’istituzione richiedente, riguardo ai sussidi per i corsi di riqualificazione e di perfezionamento o per i programmi di occupazione temporanea;
-- [tab] f .[^119-4] secondo l’articolo 20*a*, per le persone che dimorano temporaneamente in Svizzera per cercarvi lavoro;
-- [tab] g.[^119-5] secondo il luogo di domicilio dell’assicurato, in tutti gli altri casi.
+- c. secondo il luogo dell’azienda, riguardo all’indennità per intemperie;
+- d. secondo la sede dell’istituzione richiedente, riguardo ai sussidi per i corsi di riqualificazione e di perfezionamento o per i programmi di occupazione temporanea;
+- e. secondo il luogo di domicilio dell’assicurato, in tutti gli altri casi.[^119-1]
 
 <sup>2</sup> Determinante è il momento in cui è presa la decisione.
 
-<sup>3</sup> Competente a decidere su una domanda di condono è il servizio cantonale del Cantone in cui l’assicurato era domiciliato al momento in cui gli è stata notificata la decisione di restituzione.[^119-6]
+<sup>3</sup> Competente a decidere su una domanda di condono è il servizio cantonale del Cantone in cui l’assicurato era domiciliato al momento in cui gli è stata notificata la decisione di restituzione.[^119-2]
 
-<sup>4</sup> Un servizio, se ha dubbi riguardo alla sua competenza, si accorda con il servizio che potrebbe essere parimenti competente. Se non giungono a un accordo, tali servizi si rivolgono all’ufficio di compensazione; questi designa il servizio competente.[^119-7]
+<sup>4</sup> Un servizio, se ha dubbi riguardo alla sua competenza, si accorda con il servizio che potrebbe essere parimenti competente. Se non giungono a un accordo, tali servizi si rivolgono all’ufficio di compensazione; questi designa il servizio competente.[^119-3]
 
-[^119-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^119-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^119-3]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^119-4]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^119-5]: Introdotta dal n. I dell’O del 15 nov. 2000, in vigore dal 1° giu. 2002 ([RU 2002 1094](https://fedlex.data.admin.ch/eli/oc/2002/174)).
-[^119-6]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^119-7]: Introdotto dal n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^119-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-3]: Introdotto dal n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
 
 #### Art. 119a
 
@@ -2758,13 +2727,13 @@ Diversi Cantoni possono accordarsi per istituire e gestire congiuntamente URC e 
 - c. lo statuto giuridico del suo direttore e dei suoi collaboratori;
 - d. la persona che rappresenta l’URC o il servizio LPML presso l’ufficio di compensazione.[^119a-4]
 
-<sup>4</sup> Tutti gli URC e tutti i servizi LPML sono collegati al sistema d’informazione COLSTA ed elaborano i dati che servono all’esecuzione dei loro compiti legali, nonché a scopi statistici, conformemente all’articolo 83 capoverso 1 lettera i LADI.[^119a-5]
+<sup>4</sup> ...[^119a-5]
 
 [^119a-1]: Introdotto dal n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^119a-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^119a-3]: Nuovo testo giusta il n. I dell’O del 19 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 [^119a-4]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^119a-5]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^119a-5]: Abrogato dal n. I dell’O del 26 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119b
 
@@ -2772,13 +2741,14 @@ Diversi Cantoni possono accordarsi per istituire e gestire congiuntamente URC e 
 
 ### (art. 85*b* cpv. 4 LADI)
 
-<sup>1</sup> Le persone incaricate del servizio pubblico di collocamento devono, entro cinque anni dalla loro entrata in funzione, essere titolari di un attestato professionale federale di consulente del personale oppure possedere un’esperienza professionale o una formazione ritenute equivalenti dall’Associazione degli uffici svizzeri del lavoro (AUSL).
+<sup>1</sup> Le persone incaricate del servizio pubblico di collocamento devono, entro cinque anni dalla loro entrata in funzione, disporre del titolo di «Specialista in risorse umane con attestato professionale federale, opzione Servizi pubblici di collocamento e consulenza al personale» oppure possedere un’esperienza professionale o una formazione ritenute equivalenti dall’ufficio di compensazione dell’assicurazione contro la disoccupazione.[^119b-2]
 
 <sup>2</sup> I Cantoni provvedono affinché le persone incaricate del servizio pubblico di collocamento possiedano le qualifiche richieste. Inoltre, provvedono affinché esse dispongano di una formazione iniziale specifica e di una formazione continua adeguata.
 
 <sup>3</sup> L’ufficio di compensazione fornisce gli strumenti informatici atti a garantire la trasparenza della formazione. In casi particolari può dichiarare obbligatori i corsi o organizzarli di propria iniziativa.
 
 [^119b-1]: Introdotto dal n. I dell’O dell’11 dic. 1995 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^119b-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119c
 
@@ -2808,13 +2778,14 @@ Diversi Cantoni possono accordarsi per istituire e gestire congiuntamente URC e 
 Il servizio cantonale competente disciplina la collaborazione tra gli uffici di collocamento privati e gli URC mediante un contratto scritto. Tale contratto impegna gli uffici di collocamento privati:
 
 - a. a informare l’URC sugli sforzi intrapresi in vista del collocamento e a notificargli i casi di comportamenti errati degli assicurati;
-- b. a fornire all’URC le informazioni necessarie a quest’ultimo per svolgere il suo compito di osservazione del mercato di lavoro mediante il sistema COLSTA.
+- b.[^119cbis-2] a fornire all’URC le informazioni necessarie a quest’ultimo per svolgere il suo compito di osservazione del mercato di lavoro mediante il sistema d’informazione per il collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI).
 
 <sup>3</sup> Gli uffici di collocamento privati possono essere indennizzati mediante il fondo di compensazione per le prestazioni fornite. L’ufficio di compensazione determina le prestazioni che danno diritto a un’indennità e l’importo della stessa.
 
 <sup>4</sup> I dati concernenti gli assicurati o gli impieghi liberi possono essere trasmessi agli uffici di collocamento privati o a terzi soltanto previo consenso degli assicurati e dei datori di lavoro interessati.
 
 [^119cbis-1]: Introdotto dal n. I dell’O del 19 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
+[^119cbis-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 119d
 
@@ -2887,11 +2858,11 @@ La Commissione di sorveglianza può delegare a un comitato i compiti di cui all�
 
 <sup>1</sup> Le spese di riscossione dei contributi sono rimborsate alle casse di compensazione AVS in forma di una indennità globale.
 
-<sup>2</sup> L’indennità alla cassa di compensazione è calcolata secondo il numero dei datori di lavoro affiliati e l’importo medio dei contributi AVS/AI/IPG per datore di lavoro. L’Ufficio federale delle assicurazioni sociali stabilisce le aliquote di risarcimento d’intesa con la SECO.
+<sup>2</sup> L’indennità alla cassa di compensazione è calcolata secondo il numero dei datori di lavoro affiliati e l’importo medio dei contributi AVS/AI/IPG per datore di lavoro. L’Ufficio federale delle assicurazioni sociali stabilisce le aliquote di risarcimento d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione.
 
 <sup>3</sup> L’Ufficio federale delle assicurazioni sociali determina gli anni di riferimento per il calcolo, fornisce gli elementi di calcolo e stabilisce i singoli risarcimenti.
 
-<sup>4</sup> Le casse di compensazione AVS, le quali provino che il risarcimento non copre manifestamente le loro spese di riscossione dei contributi, possono esigere dall’Ufficio federale delle assicurazioni sociali un’adeguata indennità complementare. L’Ufficio risolve d’intesa con la SECO.
+<sup>4</sup> Le casse di compensazione AVS, le quali provino che il risarcimento non copre manifestamente le loro spese di riscossione dei contributi, possono esigere dall’Ufficio federale delle assicurazioni sociali un’adeguata indennità complementare. L’Ufficio risolve d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione.
 
 #### Art. 122a
 
@@ -3008,30 +2979,17 @@ Sono considerati anticipi:
 
 #### Art. 125
 
-**Conservazione degli atti**[^125-1]
+**Conservazione dei dati**[^125-1]
 
-### (art. 46 LPGA, 79, 81 cpv. 1 e 96*b* LADI)
+### (art. 46 LPGA; art. 96*c* cpv. 3 LADI)
 
-[^125-2]
+<sup>1</sup> I dati dei libri di commercio e dei documenti contabili sono conservati per dieci anni.
 
-<sup>1</sup> Le casse conservano i loro libri giustificativi contabili per dieci anni e gli atti sui casi assicurativi per almeno cinque anni dopo la fine del termine quadro per la riscossione della prestazione.
+<sup>2</sup> I dati sui casi assicurativi sono conservati per cinque anni dopo il loro ultimo trattamento.
 
-<sup>2</sup> Gli atti su casi chiusi possono essere conservati sotto forma di registrazioni su supporti di immagini o di dati. Le registrazioni devono riprodurre fedelmente i documenti originali.
+<sup>3</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione sorveglia l’esecuzione della conservazione dei dati.
 
-<sup>3</sup> Le casse e gli organismi incaricati della conservazione su supporti di immagini e di dati adottano i provvedimenti necessari per proteggere adeguatamente i dati personali dalla perdita, dal trattamento o dalla consultazione non autorizzati e dall’appropriazione indebita. Le registrazioni devono poter essere rese leggibili in ogni momento.
-
-<sup>4</sup> In caso di scioglimento della cassa, il titolare è responsabile della debita conservazione degli atti. In difetto di titolare, la cassa designa, nella decisione di liquidazione, una persona o un ente responsabile della debita conservazione degli atti.
-
-<sup>5</sup> Al più tardi dopo dieci anni, gli atti e le registrazioni su supporti di immagini e di dati contenenti indicazioni personali, devono essere distrutti. È fatto salvo l’obbligo di deposito dei documenti negli archivi pubblici.
-
-<sup>6</sup> Le casse sono responsabili della registrazione degli atti da conservare su supporti di immagini e di dati. Se delegano tale compito a un servizio centrale, occorre designare una cassa che assuma l’intera responsabilità. Quest’ultima emana un regolamento per il trattamento, contenente le disposizioni prescritte dalla legislazione federale in materia di protezione dei dati.
-
-<sup>7</sup> L’autorità di sorveglianza sorveglia l’esecuzione.
-
-<sup>8</sup> Il presente articolo è applicabile per analogia agli altri organi esecutivi.
-
-[^125-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^125-2]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^125-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 126
 
@@ -3074,14 +3032,15 @@ La persona interessata può esigere dai servizi d’elaborazione dei dati che:
 
 ### (art. 97*a* cpv. 6 LADI)
 
-<sup>1</sup> Nei casi di cui all’articolo 97*a* capoverso 4 LADI, è riscosso un emolumento se la comunicazione dei dati richiede numerose copie o altre riproduzioni o ricerche particolari. L’ammontare dell’emolumento corrisponde agli importi fissati negli articoli 14 e 16 dell’ordinanza del 10 settembre 1969[^126a-2] sulle tasse e spese nella procedura amministrativa.
+<sup>1</sup> Nei casi di cui all’articolo 97*a* capoverso 4 LADI è riscosso un emolumento se la comunicazione dei dati richiede numerose copie o altre riproduzioni o ricerche particolari. Si applicano le disposizioni dell’ordinanza generale sugli emolumenti dell’8 settembre 2004[^126a-2].[^126a-3]
 
 <sup>2</sup> Per le pubblicazioni di cui all’articolo 97*a* capoverso 3 LADI è riscosso un emolumento a copertura delle spese.
 
 <sup>3</sup> L’emolumento può essere ridotto o condonato in caso di indigenza o per altri gravi motivi.
 
 [^126a-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
-[^126a-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^126a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^126a-3]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 127
 
@@ -3095,11 +3054,12 @@ La persona interessata può esigere dai servizi d’elaborazione dei dati che:
 
 ### (art. 100 cpv. 3 LADI)
 
-<sup>1</sup> La competenza del tribunale cantonale delle assicurazioni per giudicare i ricorsi contro le decisioni delle casse è disciplinata in analogia con l’articolo 119.
+<sup>1</sup> La competenza del tribunale cantonale delle assicurazioni per giudicare i ricorsi contro le decisioni delle casse è disciplinata in analogia con gli articoli 77 e 119.[^128-2]
 
 <sup>2</sup> Il tribunale cantonale delle assicurazioni è competente per giudicare i ricorsi contro le decisioni di un servizio dello stesso Cantone.
 
 [^128-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
+[^128-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 128a
 
@@ -3109,11 +3069,11 @@ La persona interessata può esigere dai servizi d’elaborazione dei dati che:
 
 [^128a-2]
 
-<sup>1</sup> Le decisioni dell’ultima istanza cantonale sono notificate alle parti, all’istanza precedente, al servizio cantonale e alla SECO.
+<sup>1</sup> Le decisioni dell’ultima istanza cantonale sono notificate alle parti, all’istanza precedente, al servizio cantonale e all’ufficio di compensazione dell’assicurazione contro la disoccupazione.
 
 <sup>2</sup>
 
-Alla SECO sono altresì notificate:
+All’ufficio di compensazione dell’assicurazione contro la disoccupazione sono altresì notificate:
 
 - a. le decisioni di sospensione secondo l’articolo 30 capoverso 1 lettere c e d LADI, se non sono emanate dall’URC (art. 85*b* cpv. 1 LADI);
 - b. le decisioni di sospensione secondo l’articolo 30 capoverso 1 lettera e LADI, se è stato violato l’obbligo di informare il servizio cantonale o l’ufficio del lavoro e le decisioni non sono emanate dall’URC (art. 85*b* cpv. 1 LADI);
@@ -3123,7 +3083,7 @@ Alla SECO sono altresì notificate:
 - f. le decisioni sui casi che, in virtù dell’articolo 81 capoverso 2 LADI, sono sottoposti per decisione al servizio cantonale o ad un’altra autorità da esso designata;
 - g. le decisioni secondo l’articolo 85 capoverso 1 lettera d LADI, se non sono emanate dall’URC (art. 85*b* cpv. 1 LADI);
 - h. le decisioni su domande di condono secondo l’articolo 95 LADI;
-- i. le decisioni su opposizione riguardo decisioni che devono essere notificate alla SECO ai termini delle lettere a–h, come pure le decisioni su opposizione che devono essere emanate da un organo differente da quello che ha emanato la decisione (art. 100 cpv. 2 LADI).
+- i. le decisioni su opposizione riguardo decisioni che devono essere notificate all’ufficio di compensazione dell’assicurazione contro la disoccupazione ai termini delle lettere a–h, come pure le decisioni su opposizione che devono essere emanate da un organo differente da quello che ha emanato la decisione (art. 100 cpv. 2 LADI).
 
 [^128a-1]: Introdotto dal n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
 [^128a-2]: Introdotto dal n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -3179,19 +3139,19 @@ L’ordinanza 25 febbraio 1986[^130-2] sui ricorsi delle casse di disoccupazione
 
 [^132-1]: [RU 2011 1241](https://fedlex.data.admin.ch/eli/oc/2011/184)
 
-## Disposizione finale della modifica del 25 aprile 1985****
+## Disposizione finale della modifica del 25 aprile 1985
 
 [^u1-1]
 
 [^u1-1]: [RU 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Abrogata dal n. IV 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizione finale della modifica del 6 novembre 1996****
+## Disposizione finale della modifica del 6 novembre 1996
 
 [^u2-1]
 
 [^u2-1]: [RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Abrogata dal n. IV 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizione transitoria della modifica del 2 marzo 2012****
+## Disposizione transitoria della modifica del 2 marzo 2012
 
 [^u3-1]
 
@@ -3202,7 +3162,7 @@ Per quanto riguarda l’Islanda, il Lichtenstein e la Norvegia, fino all’entra
 [^u3-2]: [RU 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 41*c* cpv. 9)
 
