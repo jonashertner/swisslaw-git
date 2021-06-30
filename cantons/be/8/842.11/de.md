@@ -4,13 +4,13 @@ number: "842.11"
 title: "Gesetz betreffend die Einführung der Bundesgesetze über die Kranken-, die Unfall- und die Militärversicherung"
 short: EG KUMV
 language: de
-version: 2020-11-01
-valid_until: 2021-06-30
-version_adopted: 2020-09-02
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2020-09-09
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/842.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1996/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1996/pdf_file"
 
 (EG KUMV)
 
-vom 06.06.2000 (Stand 01.11.2020)
+vom 06.06.2000 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -43,6 +43,8 @@ beschliesst:
 
 <sup>1</sup> Für die Einhaltung der Versicherungspflicht in der obligatorischen Krankenpflegeversicherung sorgt die zuständige Stelle der Direktion für Inneres und Justiz (DIJ).
 
+<sup>1a</sup> Sie kann für die Prüfung der Einhaltung der Versicherungspflicht Online-Abfragesysteme von Krankenversicherern benutzen.
+
 <sup>2</sup> Sie befreit Personen von der Versicherungspflicht und weist Personen, die ihrer Versicherungspflicht nicht oder nicht rechtzeitig nachkommen, einem Versicherer zu.
 
 <sup>3</sup> Der Regierungsrat regelt das Verfahren.
@@ -55,21 +57,40 @@ beschliesst:
 
 <sup>2</sup> Die Versicherer können für ihre Versicherten einen kollektiven Nachweis erbringen.
 
-<sup>3</sup> Die Versicherer sind verpflichtet, der zuständigen Stelle der DIJ die zur Durchführung des Versicherungsobligatoriums erforderlichen Daten zur Verfügung zu stellen, und erteilen die nötigen Auskünfte.
+<sup>3</sup> Die Versicherer sind verpflichtet, der zuständigen Stelle der DIJ die zur Durchführung der Versicherungspflicht erforderlichen Daten zur Verfügung zu stellen, und erteilen die nötigen Auskünfte.
 
 #### Art. 3
 
-**Mitwirkung der Gemeinden**
+**Information durch die Gemeinden**
 
-<sup>1</sup> Die Gemeinden melden der zuständigen Stelle der DIJ die Geburt, den Zuzug und den Wegzug aller Personen, die auf ihrem Gebiet Wohnsitz oder längeren Aufenthalt genommen haben. Bei minderjährigen und bei bevormundeten Personen melden sie die gesetzliche Vertreterin oder den gesetzlichen Vertreter.
+<sup>1</sup> …
 
-<sup>2</sup> Die Gemeinden informieren die Eltern von Neugeborenen und neu zugezogene Personen über die Versicherungspflicht.
+<sup>2</sup> Die Gemeinden informieren folgende Personen über die Versicherungspflicht:
+
+- a die Eltern von Neugeborenen,
+- b neu zugezogene Personen,
+- c Personen, die aufgrund des Bezugs einer schweizerischen Rente in der Schweiz versicherungspflichtig sind und ihren Wohnsitz von der Schweiz in einen Mitgliedstaat der Europäischen Union, nach Island oder nach Norwegen verlegen.
+
+<sup>3</sup> Sie verwenden für die Aufgabe nach Absatz 2 die entsprechenden Informationsmittel der zuständigen Stelle der DIJ.
 
 #### Art. 4
 
-**Mitwirkung der kantonalen Steuerverwaltung**
+**Datenbezug aus zentralen Personendatensammlungen**
 
-<sup>1</sup> Die kantonale Steuerverwaltung hat der zuständigen Stelle der DIJ die für den Vollzug des Versicherungsobligatoriums notwendigen Daten des zentralen elektronischen Personenverzeichnisses (ZPV) durch ein Abrufverfahren zugänglich zu machen.
+<sup>1</sup> Die zuständige Stelle der DIJ kann die für den Vollzug der Versicherungspflicht notwendigen Daten im Abruf- oder Meldeverfahren aus zentralen Personendatensammlungen gemäss dem Gesetz vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG[^4-1]) beziehen.
+
+<sup>2</sup> Der Datenbezug nach Absatz 1 umfasst auch folgende besonders schützenswerte Personendaten:
+
+- a Angaben zum Kindes- und Erwachsenenschutz,
+- b Funktionalitäten der jeweiligen zentralen Personendatensammlung.
+
+[^4-1]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
+
+#### Art. 4a
+
+**Mitwirkung der zuständigen Stelle der Sicherheitsdirektion**
+
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion stellt der zuständigen Stelle der DIJ die für den Vollzug der Versicherungspflicht notwendigen Daten des Informationssystems für den Ausländerbereich zur Verfügung.
 
 #### Art. 5
 
@@ -119,7 +140,7 @@ beschliesst:
 
 **2. Ausgabenbewilligung**
 
-<sup>1</sup> Die GSÏ bewilligt die Ausgabe für die nach Artikel 49a KVG vom Kanton zu vergütende pauschale Abgeltung der stationären Behandlung.
+<sup>1</sup> Die GSI bewilligt die Ausgabe für die nach Artikel 49a KVG vom Kanton zu vergütende pauschale Abgeltung der stationären Behandlung.
 
 #### Art. 9c
 
@@ -137,7 +158,7 @@ beschliesst:
 
 <sup>2</sup> Sie kann Dritte mit der Überprüfung beauftragen.
 
-<sup>3</sup> Die Listenspitäler und die Listengeburtshäuser stellen der zuständigen Stelle der GSI oder Dritten nach Absatz 2 innert angesetzter Frist und in pseudonymisierter Form alle Daten zur Verfügung, die die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion in Stichproben verlangt, um Patientenrechnungen zu überprüfen.
+<sup>3</sup> Die Listenspitäler und die Listengeburtshäuser stellen der zuständigen Stelle der GSI oder Dritten nach Absatz 2 innert angesetzter Frist und in pseudonymisierter Form alle Daten zur Verfügung, welche die zuständige Stelle der GSI in Stichproben verlangt, um Patientenrechnungen zu überprüfen.
 
 <sup>4</sup> Ergibt sich für die zuständige Stelle der GSI oder für die beauftragten Dritten aufgrund der pseudonymisierten Daten ein vertiefter Abklärungsbedarf, haben die Listenspitäler und Listengeburtshäuser umfassende Einsicht in die betreffenden Unterlagen zu gewähren.
 
@@ -175,7 +196,7 @@ beschliesst:
 
 **Kostenübernahme für Dienste von ausserkantonalen Spitälern**
 
-<sup>1</sup> Die zuständige Stelle der GSI entrichtet die Vergütungen, die nach Artikel 41 Absatz 3 KVG für eine stationäre Behandlung aus medizinischen Gründen an ein nicht auf der Spitalliste des Kantons Bern aufgeführtes Spital geschuldet sind.
+<sup>1</sup> Die zuständige Stelle der GSI entrichtet die Vergütungen, die nach Artikel 41 Absatz 3 KVG für eine stationäre Behandlung aus medizinischen Gründen an ein nicht auf der Spitalliste des Kantons aufgeführtes Spital geschuldet sind.
 
 <sup>2</sup> Der Regierungsrat erlässt nähere Bestimmungen durch Verordnung.
 
@@ -193,15 +214,13 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat
 
-- a genehmigt die Tarifverträge nach Artikel 46 Absatz 4 KVG[^12-1];
+- a genehmigt die Tarifverträge nach Artikel 46 Absatz 4 KVG;
 - b setzt die Tarife nach Artikel 41 Absatz 1bis und Artikel 47 KVG fest;
 - c verlängert die Verträge nach Artikel 47 Absatz 3 KVG;
 - d setzt den Rahmentarif nach Artikel 48 KVG fest;
 - e …
 - f setzt die Globalbudgets nach Artikel 51 und 54 KVG fest und
 - g setzt die Tarife nach Artikel 55 KVG fest.
-
-[^12-1]: SR 832.10
 
 #### Art. 13
 
@@ -231,7 +250,7 @@ beschliesst:
 
 **Finanzielle Verhältnisse 1. Grundsatz**
 
-<sup>1</sup> Die finanziellen Verhältnisse werden grundsätzlich nach dem Gesetz vom 21. Mai 2000 über die direkten Staats- und Gemeindesteuern[^16-1] (StG) beurteilt.
+<sup>1</sup> Die finanziellen Verhältnisse werden grundsätzlich nach dem Steuergesetz vom 21. Mai 2000 (StG)[^16-1] beurteilt.
 
 <sup>2</sup> Es ist vom Reineinkommen auszugehen. Zu diesem sind dazuzurechnen
 
@@ -240,27 +259,29 @@ beschliesst:
 - c der Aufwand für den Liegenschaftsunterhalt, soweit er einen durch Verordnung des Regierungsrates festgelegten Höchstwert überschreitet und
 - d weitere vom Regierungsrat durch Verordnung zu bezeichnende Einkünfte, Erträge und Aufwendungen.
 
-<sup>3</sup> Überschreitet das Bruttovermögen einen vom Regierungsrat durch Verordnung zu bestimmenden Betrag, besteht kein Anspruch auf Prämienverbilligung.
+<sup>3</sup> …
 
-<sup>4</sup> Beim Bestimmen des Reinvermögens sind die Liegenschaften zum Verkehrswert einzusetzen. Dieser Wert berechnet sich nach den Regeln der Berechnung der Grundstücke bei interkantonalen Steuerausscheidungen.
+<sup>4</sup> Das Reinvermögen bestimmt sich nach den Artikeln 48 bis 63 StG.
 
 <sup>5</sup> Das Nutzniessungsvermögen ist der berechtigten Person anzurechnen.
 
-[^16-1]: BSG 661.11
+[^16-1]: BSG [661.11](https://www.belex.sites.be.ch/data/661.11/de)
 
 #### Art. 17
 
 **2. Ausnahme**
 
-<sup>1</sup> Geben die Steuerdaten auf Grund besonderer Umstände die wirtschaftlichen Verhältnisse nur ungenügend wieder und liegen andere zuverlässige Grundlagen vor, können die finanziellen Verhältnisse abweichend von Artikel 16 bestimmt werden.
+<sup>1</sup> Geben die Steuerdaten auf Grund besonderer Umstände die wirtschaftlichen Verhältnisse nur ungenügend wieder oder sind keine Steuerdaten vorhanden, können die finanziellen Verhältnisse abweichend von Artikel 16 anhand anderer zuverlässiger Grundlagen bestimmt werden.
 
-<sup>2</sup> Der Regierungsrat regelt die Einzelheiten in einer Verordnung.
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
 #### Art. 18
 
 **3. Quellensteuerpflichtige Personen**
 
-<sup>1</sup> Bei Personen, die an der Quelle besteuert werden, bestimmen sich die finanziellen Verhältnisse nach den der Quellensteuer zu Grunde liegenden vergleichbaren Bruttoeinkünften. Die Artikel 16 und 17 gelten sinngemäss.
+<sup>1</sup> Bei Personen, die an der Quelle besteuert werden, bestimmen sich die finanziellen Verhältnisse in Prozent der Bruttoeinkünfte nach Artikel 113 StG, die der Quellensteuer zu Grunde liegen.
+
+<sup>2</sup> Der Regierungsrat legt den Prozentsatz durch Verordnung fest.
 
 #### Art. 19
 
@@ -268,12 +289,15 @@ beschliesst:
 
 <sup>1</sup> Bei der Beurteilung der persönlichen und der familiären Verhältnisse wird auf die aktuellen Verhältnisse abgestellt.
 
-<sup>2</sup> Die Familie wird als Einheit betrachtet. Zur Familien zählen
+<sup>2</sup> Die Familie wird als Einheit betrachtet. Zur Familie zählen
 
-- a die Ehegatten beziehungsweise die eingetragenen Partnerinnen oder Partner,
-- b der allein stehende Elternteil,
+- a die Ehegatten,
+- a1 die eingetragenen Partnerinnen und Partner,
+- a2 das unverheiratete Paar, sofern es im gleichen Haushalt lebt und mindestens ein gemeinsames Kind, eine gemeinsame junge Erwachsene oder einen gemeinsamen jungen Erwachsenen hat,
+- a3 das nicht in eingetragener Partnerschaft lebende Paar, sofern es im gleichen Haushalt lebt und mindestens ein gemeinsames Kind, eine gemeinsame junge Erwachsene oder einen gemeinsamen jungen Erwachsenen hat,
+- b der alleinstehende Elternteil,
 - c die Kinder,
-- d die jungen Erwachsenen, wenn sie ledig sind und ihren Lebensunterhalt noch nicht dauernd aus einem eigenen Einkommen bestreiten, dessen Mindesthöhe vom Regierungsrat durch Verordnung festgelegt wird.
+- d die jungen Erwachsenen, wenn sie ledig sind, nicht mit eigenen Kindern eine Familie bilden und ein Einkommen bis zu einer vom Regierungsrat durch Verordnung festgelegten Höhe erzielen.
 
 <sup>3</sup> Der Mehraufwand von Familien ist bei der Bestimmung der finanziellen Verhältnisse entsprechend den Grundsätzen der Sozialhilfe und des Sozialversicherungsrechts angemessen zu berücksichtigen.
 
@@ -281,15 +305,21 @@ beschliesst:
 
 **Höhe der Prämienverbilligung**
 
-<sup>1</sup> Der Regierungsrat stuft die Verbilligung der Prämien nach dem massgebenden Einkommen und nach Prämienregionen ab.
+<sup>1</sup> Der Regierungsrat stuft die Prämienverbilligung nach dem massgebenden Einkommen und nach Prämienregionen ab.
 
-<sup>2</sup> Die Höhe der Prämienverbilligung bestimmt sich aufgrund des nach den Artikeln 15 bis 19 ermittelten massgebenden Einkommens und nach der Prämienregion, in welcher die anspruchsberechtigte Person ihren Wohnsitz hat.
+<sup>2</sup> Die Höhe der Prämienverbilligung bestimmt sich aufgrund des nach den Artikeln 15 bis 19 ermittelten massgebenden Einkommens und nach der Prämienregion, in der die anspruchsberechtigte Person ihren Wohnsitz hat.
 
-<sup>3</sup> Die Prämienverbilligung darf grundsätzlich 80 Prozent der vom Bund für den Kanton Bern festgelegten Durchschnittsprämie nicht übersteigen.
+<sup>3</sup> Die Prämienverbilligung darf grundsätzlich 80 Prozent der vom Bund für den Kanton festgelegten Durchschnittsprämie nicht übersteigen.
 
-<sup>4</sup> Bei Personen, die Leistungen der Sozialhilfe oder Ergänzungsleistungen zur AHV- oder zur IV-Rente beziehen, kann die Verbilligung der ganzen Prämie entsprechen. Dabei kann auf Durchschnittsprämien abgestellt werden.
+<sup>4</sup> Personen, die Leistungen der Sozialhilfe oder Ergänzungsleistungen zur AHV- oder zur IV-Rente beziehen, erhalten die höchste Stufe der ordentlichen Prämienverbilligung.
 
-<sup>5</sup> Für anspruchsberechtigte Kinder und anspruchsberechtigte junge Erwachsene in Ausbildung beträgt die Verbilligung mindestens 50 Prozent der Prämie.
+<sup>5</sup> Bei unteren und mittleren Einkommen werden die Prämien von Kindern und jungen Erwachsenen in Ausbildung nach Artikel 65 Absatz 1<sup>bis</sup> KVG verbilligt.
+
+#### Art. 20a
+
+**Mitteilung des Entscheids**
+
+<sup>1</sup> Die zuständige Stelle der DIJ teilt der betroffenen Person Entscheide bezüglich der Prämienverbilligung schriftlich mit. Auf Verlangen wird eine Verfügung ausgestellt.
 
 ### 1.4.2 Vollzug und Verfahren
 
@@ -299,27 +329,45 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Stelle der DIJ führt die Prämienverbilligung durch.
 
-<sup>2</sup> Die Prämienverbilligungen von Personen, welche Leistungen der Sozialhilfe oder Ergänzungsleistungen zur AHV- oder zur IV-Rente beziehen, können durch die Gemeinden, die unterstützenden Behörden oder die Ausgleichskasse des Kantons Bern ausgerichtet werden.
+<sup>2</sup> Die Prämienverbilligungen von Personen, die Leistungen der Sozialhilfe beziehen, können durch die Gemeinden oder die unterstützenden Behörden ausgerichtet werden.
+
+#### Art. 21a
+
+**Datenbezug aus zentralen Personendatensammlungen**
+
+<sup>1</sup> Die zuständige Stelle der DIJ kann die für den Vollzug der Prämienverbilligung notwendigen Daten im Abruf- oder Meldeverfahren aus zentralen Personendatensammlungen beziehen.
+
+<sup>2</sup> Der Datenbezug nach Absatz 1 umfasst auch folgende besonders schützenswerte Personendaten:
+
+- a Angaben zum Kindes- und Erwachsenenschutz,
+- b Angaben zum Haushalt,
+- c Funktionalitäten der jeweiligen zentralen Personendatensammlung.
 
 #### Art. 22
 
 **Mitwirkung der Anstalten, Behörden und Versicherer**
 
-<sup>1</sup> Die Ausgleichskasse des Kantons Bern, die unterstützenden Behörden und die Gemeinden melden der zuständigen Stelle der DIJ Personen, welche Ergänzungsleistungen zur AHV- oder zur IV-Rente oder Leistungen der Sozialhilfe beziehen.
+<sup>1</sup> Die Ausgleichskasse des Kantons Bern, die unterstützenden Behörden und die Gemeinden melden der zuständigen Stelle der DIJ Personen, die Ergänzungsleistungen zur AHV- oder zur IV-Rente oder Leistungen der Sozialhilfe beziehen.
 
 <sup>2</sup> …
 
 <sup>3</sup> Die für den Vollzug der Prämienverbilligung benötigten Daten können der zuständigen Stelle der DIJ im Rahmen eines Abrufverfahrens zugänglich gemacht werden.
 
+#### Art. 22a
+
+**Mitwirkung der Gemeinden**
+
+<sup>1</sup> Leben Eltern im gleichen Haushalt, führen die Gemeinden im Einwohnerregister die Eltern-Kind-Beziehungen von Kindern und jungen Erwachsenen bis zum vollendeten 25. Altersjahr.
+
 #### Art. 23
 
-**Mitwirkung der kantonalen Steuerverwaltung**
+**Mitwirkung der zuständigen Stelle der Finanzdirektion**
 
-<sup>1</sup> Die kantonale Steuerverwaltung hat der zuständigen Stelle der DIJ die für den Vollzug der Prämienverbilligung notwendigen Daten des ZPV durch ein Abrufverfahren zugänglich zu machen.
+<sup>1</sup> …
 
-<sup>2</sup> Die zuständige Stelle der DIJ kann in einem Abrufverfahren auf Steuerdaten der kantonalen Steuerverwaltung greifen, soweit dies für den Vollzug der Prämienverbilligung nötig ist.
+<sup>2</sup> Die zuständige Stelle der Finanzdirektion hat der zuständigen Stelle der DIJ die für den Vollzug der Prämienverbilligung notwendigen Daten des Steuerveranlagungssystems von natürlichen Personen durch ein Abruf- und Meldeverfahren zur Verfügung zu stellen.
 
-<sup>3</sup> Personen, die mit der Prämienverbilligung betraut sind, unterstehen dem Steuergeheimnis.
+<sup>3</sup> Wer mit dem Vollzug dieses Gesetzes betraut ist oder dazu beigezogen wird, unterliegt der Geheimhaltungspflicht nach Artikel 153 StG.
 
 #### Art. 24
 
@@ -329,7 +377,9 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bestimmt den Kreis der Personen, deren Anspruch auf eine Prämienverbilligung nur auf Antrag hin festgestellt wird.
 
-<sup>3</sup> Die Verbilligung von Prämien kann nur für das laufende Kalenderjahr beantragt werden. Der Regierungsrat legt durch Verordnung fest, wer für die versicherte Person einen Antrag stellen kann.
+<sup>3</sup> Die Prämienverbilligung kann rückwirkend längstens auf den 1. Januar des laufenden Kalenderjahres beantragt werden.
+
+<sup>4</sup> Der Regierungsrat legt durch Verordnung fest, wer für die versicherte Person einen Antrag stellen kann.
 
 #### Art. 25
 
@@ -349,31 +399,33 @@ beschliesst:
 
 **Rückerstattung**
 
-<sup>1</sup> Ungerechtfertigt bezogene Verbilligungsbeiträge sind zurückzuerstatten.
+<sup>1</sup> Ungerechtfertigt bezogene Prämienverbilligungen sind zurückzuerstatten.
 
-<sup>2</sup> Der Rückerstattungsanspruch verjährt ein Jahr, nachdem die zuständige Stelle der DIJ davon Kenntnis erhalten hat, spätestens aber drei Jahre nach dem Ausrichten der Prämienverbilligung. Wird der Rückerstattungsanspruch aus einer strafbaren Handlung hergeleitet, für welche das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese Frist massgebend.
+<sup>2</sup> Der Rückerstattungsanspruch verjährt ein Jahr, nachdem die zuständige Stelle der DIJ davon Kenntnis erhalten hat, spätestens aber drei Jahre nach dem Ausrichten der Prämienverbilligung.
 
-<sup>3</sup> Auf die Rückforderung kann ganz oder teilweise verzichtet werden, wenn die Rückerstattung für die betroffene Person wirtschaftlich eine Härte bedeutet.
+<sup>2a</sup> Wird der Rückerstattungsanspruch aus einem Nachsteuerverfahren oder aus einer strafbaren Handlung im Rahmen des Prämienverbilligungsverfahrens hergeleitet, so verjährt er ein Jahr, nachdem die zuständige Stelle der DIJ Kenntnis vom Entscheid im Nachsteuer- oder Strafverfahren erhalten hat, spätestens aber zehn Jahre nach dem Ausrichten der Prämienverbilligung.
 
-#### Art. 28
+<sup>3</sup> …
 
-**Verluste der Versicherer**
+#### Art. 27a
 
-<sup>1</sup> …
+**Verzicht auf Rückforderung**
 
-<sup>2</sup> Für uneinbringliche Prämien und Kostenbeteiligungen können die Versicherer Ersatz bei der zuständigen Stelle der DIJ verlangen, wenn sie trotz gebührender Sorgfalt bei der Einforderung von Prämien für die obligatorische Krankenpflegeversicherung Verluste erleiden.
+<sup>1</sup> Auf die Rückforderung wird ganz oder teilweise verzichtet, wenn die Rückerstattung für die betroffene Person wirtschaftlich eine Härte bedeutet, sofern die zuständige Stelle der DIJ über die für die Prüfung der wirtschaftlichen Härte notwendigen Daten verfügt.
 
-<sup>3</sup> Ersetzt der Kanton den Verlust, so gehen die Ansprüche des Versicherers gegenüber der versicherten Person auf ihn über. Die Verlustscheine sind der zuständigen Stelle der DIJ auszuhändigen.
+<sup>2</sup> Liegen die notwendigen Daten nach Absatz 1 der zuständigen Stelle der DIJ nicht vor, wird auf Gesuch hin die Rückforderung ganz oder teilweise erlassen, wenn die Rückerstattung für die betroffene Person eine wirtschaftliche Härte bedeutet.
 
-<sup>4</sup> Die Ersatzleistungen werden an die nach Artikel 66 KVG auszurichtenden Beiträge angerechnet.
+<sup>3</sup> Das Gesuch nach Absatz 2 ist innert 60 Tagen, seit die betroffene Person wegen der rückwirkenden Änderung des Prämienverbilligungsanspruchs eine Rechnung des Versicherers erhalten hat, bei der zuständigen Stelle der DIJ einzureichen.
 
-#### Art. 29
+#### Art. 28–29
 
-**Rechenschaftspflicht**
+**…**
 
-<sup>1</sup> Versicherer, welche die Prämienverbilligung nach Artikel 25 Absatz 1 an die Versicherten weitergeben oder Verluste nach Artikel 28 geltend machen, haben der zuständigen Stelle der DIJ über die Verwendung der Gelder Rechenschaft abzulegen.
+#### Art. 29a
 
-<sup>2</sup> Mit der Abrechnung über die ausgerichteten Prämienverbilligungen ist ein Revisionsbericht einzureichen.
+**Mitwirkung der Betreibungs- und Konkursämter**
+
+<sup>1</sup> Die Betreibungs- und Konkursämter stellen der zuständigen Stelle der DIJ die notwendigen Daten aus den betreibungsrechtlichen Protokollen und Registern für die Überprüfung der von den Versicherern geltend gemachten Verluste (Art. 64a Abs. 3 KVG) zur Verfügung.
 
 #### Art. 30
 
@@ -387,23 +439,38 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Stelle der DIJ rechnet die Beiträge des Bundes mit dem Bund ab.
 
-<sup>2</sup> Die Gemeinden, die unterstützenden Behörden und die Ausgleichskasse des Kantons Bern rechnen die den Empfängerinnen und den Empfängern von Sozialhilfen oder Ergänzungsleistungen zur AHV- oder zur IV-Rente bevorschussten Prämienverbilligungen mit der zuständigen Stelle der DIJ ab.
+<sup>2</sup> Die Gemeinden und die unterstützenden Behörden rechnen die den Empfängerinnen und den Empfängern von Leistungen der Sozialhilfe bevorschussten Prämienverbilligungen mit der zuständigen Stelle der DIJ ab.
 
-<sup>3</sup> Die zuständige Stelle der DIJ richtet den Gemeinden, den unterstützenden Behörden und der Ausgleichskasse des Kantons Bern Vorschüsse aus.
+<sup>3</sup> Die zuständige Stelle der DIJ richtet den Gemeinden und den unterstützenden Behörden Vorschüsse aus.
 
-### 1.4a Vermeidung von Härtefällen
+### 1.4a
 
 #### Art. 31a
 
-<sup>1</sup> Zur Vermeidung von Härtefällen kann der Regierungsrat durch Verordnung die vorläufige Zahlung von Prämien oder Kostenbeteiligungen durch den Kanton zugunsten von Versicherten vorsehen, die von einem Leistungsaufschub gemäss Artikel 64a KVG betroffen sind oder denen ein solcher unmittelbar droht.
+**…**
 
 ### 1.5 Datenverarbeitungssystem
 
 #### Art. 32
 
-<sup>1</sup> Die zuständige Stelle der DIJ betreibt in Erfüllung ihrer gesetzlichen Aufgaben zur Durchführung der obligatorischen Krankenpflegeversicherung und in der Prämienverbilligung ein elektronisches Datenverarbeitungssystem.
+<sup>1</sup> Die zuständige Stelle der DIJ betreibt in Erfüllung ihrer gesetzlichen Aufgaben zur Durchführung der obligatorischen Krankenpflegeversicherung und der Prämienverbilligung ein elektronisches Datenverarbeitungssystem.
 
-<sup>2</sup> Darin sind insbesondere Angaben enthalten wie Name, Vorname, Adresse, AHV-Nummer, Familienstruktur, Einkommens- und Vermögensverhältnisse, Versicherungsbeziehung, Prämienverbilligung, Zahlstelle, Beginn und Ende von Leistungen der Sozialhilfe und von Ergänzungsleistungen zur AHV- oder zur IV-Rente, Bestehen eines Straf- oder Massnahmenvollzugs, vormundschaftliche Beziehungen und hängige Betreibungen.
+<sup>2</sup> Darin sind insbesondere Angaben enthalten wie
+
+- a Name, Vorname und Adresse
+- b kantonale Personenidentifikationsnummer,
+- c AHV-Versichertennummer,
+- d Geburtsdatum,
+- e Geschlecht,
+- f Haushaltsstruktur,
+- g Einkommens- und Vermögensverhältnisse,
+- h Versicherungsbeziehung,
+- i Prämienverbilligung,
+- k Zahlstelle,
+- l Beginn und Ende von Leistungen der Sozialhilfe und von Ergänzungsleistungen zur AHV- oder zur IV-Rente,
+- m Vorliegen von Straf- und Massnahmenvollzug,
+- n Beistandschaften,
+- o Verlustscheine betreffend Prämienausstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten.
 
 ### 1.6 Rechtspflege
 
@@ -411,29 +478,28 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Soweit das KVG[^33-1] und dieses Gesetz keine abweichenden Regelungen enthalten, richten sich der Rechtsschutz und das Verfahren nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^33-2] (VRPG).
+<sup>1</sup> Soweit das KVG und dieses Gesetz keine abweichenden Regelungen enthalten, richten sich der Rechtsschutz und das Verfahren nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^33-1] (VRPG).
 
-[^33-1]: SR 832.10
-[^33-2]: BSG 155.21
+[^33-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 #### Art. 34
 
 **Einsprache**
 
-<sup>1</sup> Gegen Verfügungen über die Prämienverbilligung und über den zwangsweisen Anschluss an einen Versicherer kann Einsprache erhoben werden.
+<sup>1</sup> Gegen Verfügungen über die Prämienverbilligung kann Einsprache erhoben werden.
 
 #### Art. 35
 
-**Versicherungsgericht**
+**Verwaltungsgericht**
 
-<sup>1</sup> Das Verwaltungsgericht beurteilt als kantonales Versicherungsgericht Streitigkeiten der Versicherer unter sich, mit Versicherten oder mit Dritten.
+<sup>1</sup> …
 
-<sup>2</sup> Die Mitglieder des Verwaltungsgerichts beurteilen als Einzelrichterinnen oder Einzelrichter (Art. 128 VRPG[^35-1])
+<sup>2</sup> Die Mitglieder des Verwaltungsgerichts beurteilen als Einzelrichterinnen und Einzelrichter (Art. 57 Abs. 4 des Gesetzes vom 11. Juni 2009 über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft [GSOG][^35-1])
 
-- a Streitigkeiten über die Verbilligung von Prämien für die obligatorische Krankenpflegeversicherung und
+- a Streitigkeiten über die Prämienverbilligung und
 - b Streitigkeiten über die Versicherungspflicht in der obligatorischen Krankenpflegeversicherung
 
-[^35-1]: BSG 155.21
+[^35-1]: BSG [161.1](https://www.belex.sites.be.ch/data/161.1/de)
 
 #### Art. 36
 
@@ -447,15 +513,25 @@ beschliesst:
 
 <sup>1</sup> Die Zivilgerichte beurteilen Streitigkeiten aus Zusatzversicherungen zur obligatorischen Krankenpflegeversicherung.
 
-<sup>2</sup> Den Parteien dürfen keine Verfahrenskosten auferlegt werden; jedoch kann das Gericht der fehlbaren Partei bei mutwilliger oder leichtfertiger Prozessführung solche Kosten ganz oder teilweise auferlegen.
+<sup>2</sup> Für die Gerichtskosten sind die besonderen Kostenregelungen der Artikel 113 bis 115 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung, ZPO)[^37-1] zu beachten.
 
-<sup>3</sup> Im Weiteren richten sich die Zuständigkeiten und das Verfahren nach den Bestimmungen der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (ZPO)[^37-1].
+<sup>3</sup> Im Weiteren richten sich die Zuständigkeiten und das Verfahren nach den Bestimmungen der ZPO.
 
-[^37-1]: SR 272
+[^37-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 ## 2 Unfallversicherung
 
+#### Art. 37a
+
+**Versicherungspflicht**
+
+<sup>1</sup> Die Ausgleichskasse des Kantons Bern klärt die Arbeitgeber über ihre Versicherungspflicht auf.
+
+<sup>2</sup> Sie überwacht die Einhaltung der Versicherungspflicht.
+
 #### Art. 38
+
+**Schiedsgericht in Sozialversicherungsstreitigkeiten**
 
 <sup>1</sup> Das Schiedsgericht in Sozialversicherungsstreitigkeiten beurteilt Streitigkeiten zwischen Versicherern und Medizinalpersonen, Laboratorien oder Heil- und Kuranstalten.
 
@@ -477,17 +553,15 @@ beschliesst:
 
 #### Art. 41
 
+**Zuständigkeit**
+
 <sup>1</sup> Das Schiedsgericht beurteilt im Bereich der Kranken-, Unfall- und Militärversicherung als einzige Instanz
 
-- a die Ablehnung von Vertrauensärztinnen oder Vertrauensärzten durch die kantonale Ärztegesellschaft gemäss Artikel 57 Absatz 3 KVG[^41-1];
-- b den Ausschluss eines Leistungserbringers durch einen Versicherer gemäss Artikel 59 KVG;
+- a die Ablehnung von Vertrauensärztinnen und Vertrauensärzten durch die kantonale Ärztegesellschaft gemäss Artikel 57 Absatz 3 KVG;
+- b Sanktionen gegen Leistungserbringer gemäss Artikel 59 KVG;
 - c Streitigkeiten zwischen Versicherern und Leistungserbringern gemäss Artikel 89 KVG;
-- d Streitigkeiten zwischen Versicherern und Medizinalpersonen, Laboratorien oder Heil- und Kuranstalten gemäss Artikel 57 UVG[^41-2] und
-- e Streitigkeiten zwischen der Militärversicherung und Medizinalpersonen, Anstalten, Abklärungsstellen und Laboratorien gemäss Artikel 27 MVG[^41-3].
-
-[^41-1]: SR 832.10
-[^41-2]: SR 832.20
-[^41-3]: SR 833.1
+- d Streitigkeiten zwischen Versicherern und Medizinalpersonen, Laboratorien oder Heil- und Kuranstalten gemäss Artikel 57 UVG und
+- e Streitigkeiten zwischen der Militärversicherung und Medizinalpersonen, Anstalten, Abklärungsstellen und Laboratorien gemäss Artikel 27 MVG.
 
 #### Art. 42
 
@@ -499,11 +573,9 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Die Zusammensetzung des Schiedsgerichts sowie des Spruchkörpers, die Wahl der Richterinnen und Richter und die Bezeichnung der neutralen Vorsitzenden sind im Gesetz vom 11. 6. 2009 über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft (GSOG[^43-1]) geregelt.
+<sup>1</sup> Die Zusammensetzung des Schiedsgerichts sowie des Spruchkörpers, die Wahl der Richterinnen und Richter und die Bezeichnung der neutralen Vorsitzenden sind im GSOG geregelt.
 
 <sup>2</sup> Das Verwaltungsgericht regelt den Geschäftsgang durch Reglement.
-
-[^43-1]: BSG 161.1
 
 ### 4.2 Verfahren
 
@@ -547,13 +619,17 @@ beschliesst:
 
 <sup>2</sup> Die klagende Partei hat einen angemessenen Kostenvorschuss zu leisten. Bezahlt sie den verlangten Betrag nicht fristgemäss und lässt sie auch eine kurze Nachfrist unbenutzt verstreichen, wird auf ihre Begehren nicht eingetreten.
 
-<sup>3</sup> Die Kosten richten sich nach der Gebührenordnung des Verwaltungsgerichts und der verwaltungsunabhängigen Verwaltungsjustizbehörden.
+<sup>3</sup> Die Kosten richten sich nach dem Dekret vom 24. März 2010 betreffend die Verfahrenskosten und die Verwaltungsgebühren der Gerichtsbehörden und der Staatsanwaltschaft (Verfahrenskostendekret, VKD)[^47-1].
+
+[^47-1]: BSG [161.12](https://www.belex.sites.be.ch/data/161.12/de)
 
 #### Art. 48
 
 **Taggelder und Entschädigungen**
 
-<sup>1</sup> Die Mitglieder des Schiedsgerichts in Sozialversicherungsstreitigkeiten erhalten Taggelder und Reiseentschädigungen, wie sie für die Gerichts- und Justizverwaltung festgelegt sind.
+<sup>1</sup> Die Entschädigung der Fachrichterinnen und Fachrichter des Schiedsgerichts in Sozialversicherungsstreitigkeiten richtet sich nach dem Dekret vom 9. Juni 2010 über die Entschädigung der nebenamtlichen Richterinnen und Richter (EnRD)[^48-1].
+
+[^48-1]: BSG [166.1](https://www.belex.sites.be.ch/data/166.1/de)
 
 ## 5 Übergangs- und Schlussbestimmungen
 
@@ -598,6 +674,33 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+## T1 Übergangsbestimmungen der Änderung vom 09.09.2020
+
+#### Art. T1-1
+
+**Datenzustellung und Kontrolle**
+
+<sup>1</sup> Die zuständige Stelle der DIJ stellt den Gemeinden die folgenden Daten bis am 12. Juli 2021 für die Kontrolle nach Absatz 2 zur Verfügung:
+
+- a Daten von identifizierbaren unverheirateten Paaren nach Artikel 19 Absatz 2 Buchstabe a2 und a3,
+- b Daten von unverheirateten Paaren, die allenfalls unter Artikel 19 Absatz 2 Buchstabe a2 und a3 fallen.
+
+<sup>2</sup> Gestützt auf Artikel 22a kontrollieren die Gemeinden bis am 30. Oktober 2021 die Eltern-Kind-Beziehungen von unverheirateten Eltern, welche die gleichen Gebäude- und Wohnungsidentifikatoren haben, auf deren Richtigkeit und Vollständigkeit.
+
+#### Art. T1-2
+
+**Ersatz von uneinbringlichen Prämien und Kostenbeteiligungen**
+
+<sup>1</sup> Für bis am 31. Dezember 2011 fällige, uneinbringliche Prämien und Kostenbeteiligungen können die Versicherer bis am 31. Dezember 2022 Ersatz bei der zuständigen Stelle der DIJ verlangen, wenn sie trotz gebührender Sorgfalt bei der Einforderung von Prämien für die obligatorische Krankenpflegeversicherung und von Kostenbeteiligungen Verluste erleiden und die Versicherten zur Zeit der Entstehung der Schuld im Kanton wohnhaft waren.
+
+<sup>2</sup> Ersetzt der Kanton den Verlust nach Absatz 1, so gehen die Ansprüche des Versicherers gegenüber der versicherten Person auf ihn über. Die Verlustscheine sind der zuständigen Stelle der DIJ auszuhändigen.
+
+#### Art. T1-3
+
+**Anwendbarkeit**
+
+<sup>1</sup> Artikel 19 Absatz 2 Buchstabe a2, a3 und d sowie Artikel 29a Absatz 1 sind ab dem 1. Januar 2022 anwendbar.
 
 Bern, 6. Juni 2000
 

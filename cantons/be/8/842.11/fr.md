@@ -4,13 +4,13 @@ number: "842.11"
 title: "Loi portant introduction des lois fédérales sur l'assurance-maladie, sur l'assurance-accidents et sur l'assurance militaire"
 short: LiLAMAM
 language: fr
-version: 2020-11-01
-valid_until: 2021-06-30
-version_adopted: 2020-09-02
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2020-09-09
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/842.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1996/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2214/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1996/pdf_file"
 
 (LiLAMAM)
 
-du 06.06.2000 (état au 01.11.2020)
+du 06.06.2000 (état au 01.07.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -43,6 +43,8 @@ arrête:
 
 <sup>1</sup> Le service compétent de la Direction de l’intérieur et de la justice (DIJ) veille au respect de l'obligation de s'assurer pour les soins en cas de maladie.
 
+<sup>1a</sup> Il peut utiliser le système de demande en ligne des assureurs pour le contrôle du respect de l’obligation de s’assurer.
+
 <sup>2</sup> Il statue sur les exceptions à l'obligation de s'assurer et affilie à un assureur les personnes qui ne respectent pas leur obligation de s'assurer, ou qui ne la respectent pas en temps opportun.
 
 <sup>3</sup> Le Conseil-exécutif règle la procédure.
@@ -55,21 +57,40 @@ arrête:
 
 <sup>2</sup> Les assureurs peuvent produire une attestation collective pour les personnes qu'ils assurent.
 
-<sup>3</sup> Les assureurs fournissent au service compétent de la DIJ les données et les renseignements nécessaires à la mise en œuvre du régime de l'assurance obligatoire.
+<sup>3</sup> Les assureurs fournissent au service compétent de la DIJ les données et les renseignements nécessaires à la mise en œuvre de l’obligation de s’assurer.
 
 #### Art. 3
 
-**Participation des communes**
+**Informations provenant des communes**
 
-<sup>1</sup> Les communes annoncent au service compétent de la DIJ la naissance, l'arrivée et le départ de toutes les personnes domiciliées ou séjournant de façon prolongée sur leur territoire. Elles lui communiquent le nom du représentant ou de la représentante légale des personnes mineures ou sous tutelle.
+<sup>1</sup> …
 
-<sup>2</sup> Les communes informent les parents de nouveau-nés et les nouveaux arrivants de l'obligation de s'assurer.
+<sup>2</sup> Les communes informent sur l’obligation de s’assurer
+
+- a les parents de nouveau-nés,
+- b les nouveaux arrivants et
+- c les personnes qui sont tenues de s’assurer en Suisse du fait qu’elles touchent une rente suisse et qui transfèrent leur résidence de Suisse dans un Etat membre de l’Union européenne, en Islande ou en Norvège.
+
+<sup>3</sup> Elles utilisent dans le but énoncé à l’alinéa 2 le matériel d’information du service compétent de la DIJ.
 
 #### Art. 4
 
-**Participation de l'Intendance cantonale des impôts**
+**Accès aux données des fichiers centralisés de données personnelles**
 
-<sup>1</sup> L'Intendance cantonale des impôts permet au service compétent de la DIJ d'accéder par une procédure d'appel aux données du registre de la gestion centrale des personnes (GCP) nécessaires à la mise en œuvre du régime de l'assurance obligatoire.
+<sup>1</sup> Le service compétent de la DIJ peut accéder aux données des fichiers centralisés de données personnelles selon la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^4-1] qui sont nécessaires à la mise en œuvre de l’obligation de s’assurer par une procédure d’appel ou d’annonce.
+
+<sup>2</sup> L’accès aux données selon l’alinéa 1 porte aussi sur les données particulièrement dignes de protection suivantes:
+
+- a les indications relatives à la protection de l’enfant et de l’adulte,
+- b les fonctionnalités des fichiers centralisés de données personnelles concernés.
+
+[^4-1]: RSB [152.05](https://www.belex.sites.be.ch/data/152.05/fr)
+
+#### Art. 4a
+
+**Participation du service compétent de la Direction de la sécurité**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité permet au service compétent de la DIJ d’accéder aux données du système d’information dans le domaine des étrangers qui sont nécessaires à la mise en œuvre de l’obligation de s’assurer.
 
 #### Art. 5
 
@@ -107,7 +128,7 @@ arrête:
 
 **Récusation**
 
-<sup>1</sup> Les fournisseurs de prestations qui refusent de fournir les prestations prévues par la loi en application des tarifs contractuels ou, en l'absence de convention tarifaire, des tarifs et des prix fixés par l'autorité, doivent l'annoncer au service compétent de la Direction de la santé, des affaires sociales et de l’intégration (DSSI).
+<sup>1</sup> Les fournisseurs de prestations qui refusent de fournir les prestations prévues par la loi en application des tarifs contractuels ou, en l'absence de convention tarifaire, des tarifs et des prix fixés par l'autorité, doivent l'annoncer au service compétent de la Direction de la santé, des affaires sociales et de l'intégration (DSSI).
 
 #### Art. 9a
 
@@ -119,7 +140,7 @@ arrête:
 
 **2. Autorisation de dépenses**
 
-<sup>1</sup> La DSSI est compétente pour autoriser les dépenses concernant la rémunération forfaitaire des prestations hospitalières à la charge du canton selon l’article 49a LAMal.
+<sup>1</sup> La DSSI est compétente pour autoriser les dépenses concernant la rémunération forfaitaire des traitements hospitaliers à la charge du canton selon l’article 49a LAMal.
 
 #### Art. 9c
 
@@ -175,7 +196,7 @@ arrête:
 
 **Prise en charge des coûts en cas de recours aux services d'un hôpital situé hors du canton**
 
-<sup>1</sup> Le service compétent de la DSSI verse la rémunération due selon l’article 41, alinéa 3 LAMal pour un traitement hospitalier fourni pour des raisons médicales par un établissement ne figurant pas sur la liste des hôpitaux du canton de Berne.
+<sup>1</sup> Le service compétent de la DSSI verse la rémunération due selon l’article 41, alinéa 3 LAMal pour un traitement hospitalier fourni pour des raisons médicales par un établissement ne figurant pas sur la liste cantonale des hôpitaux.
 
 <sup>2</sup> Le Conseil-exécutif édicte les dispositions de détail par voie d’ordonnance.
 
@@ -193,15 +214,13 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif
 
-- a approuve les conventions tarifaires au sens de l'article 46, 4<sup>e</sup> alinéa LAMal[^12-1];
+- a approuve les conventions tarifaires au sens de l'article 46, 4<sup>e</sup> alinéa LAMal;
 - b fixe les tarifs selon l’article 41, alinéa 1bis et l’article 47 LAMal;
 - c prolonge les conventions au sens de l'article 47, 3<sup>e</sup> alinéa LAMal;
 - d fixe le tarif-cadre au sens de l'article 48 LAMal;
 - e …
 - f fixe les budgets globaux au sens des articles 51 et 54 LAMal et
 - g établit les tarifs au sens de l'article 55 LAMal.
-
-[^12-1]: RS 832.10
 
 #### Art. 13
 
@@ -237,12 +256,12 @@ arrête:
 
 - a de cinq à dix pour cent de la fortune nette conformément aux prescriptions que le Conseil-exécutif arrête par voie d'ordonnance;
 - b des revenus exonérés d'impôts;
-- c des charges d'entretien de biens-fonds, dans la mesure où la valeur-limite que fixe le Conseil-exécutif par voie d'ordonnance est dépassée, et
+- c des charges d'entretien de biens-fonds, dans la mesure où la valeur limite que fixe le Conseil-exécutif par voie d'ordonnance est dépassée, et
 - d des autres revenus, rendements et charges que le Conseil-exécutif désigne par voie d'ordonnance.
 
-<sup>3</sup> Les personnes dont la fortune brute dépasse le montant que le Conseil-exécutif détermine par voie d'ordonnance n'ont pas droit à la réduction de leurs primes.
+<sup>3</sup> …
 
-<sup>4</sup> Pour le calcul de la fortune nette, les biens-fonds sont pris en compte à leur valeur vénale. Cette valeur est déterminée selon les règles applicables à l'évaluation des immeubles dans les procédures de répartition intercantonale de l'impôt.
+<sup>4</sup> La fortune nette est déterminée d’après les articles 48 à 63 LI.
 
 <sup>5</sup> La fortune en usufruit est réputée élément de la fortune de l'usufruitier ou de l'usufruitière.
 
@@ -252,15 +271,17 @@ arrête:
 
 **2. Exception**
 
-<sup>1</sup> La situation financière peut être déterminée en dérogation à l'article 16 si les données fiscales ne reflètent qu'insuffisamment la situation d'une personne assurée en raison de circonstances particulières et que d'autres données fiables sont disponibles.
+<sup>1</sup> Si les données fiscales d’une personne font défaut ou ne reflètent qu'insuffisamment sa situation financière en raison de circonstances particulières, cette dernière peut être déterminée en dérogation à l'article 16 au moyen d’autres données fiables.
 
-<sup>2</sup> Le Conseil-exécutif règle les détails dans une ordonnance.
+<sup>2</sup> Le Conseil-exécutif règle les détails par voie d’ordonnance.
 
 #### Art. 18
 
 **3. Personnes imposées à la source**
 
-<sup>1</sup> La situation financière des personnes imposées à la source est déterminée en fonction des revenus bruts comparables qui sont pris en compte lors de l'imposition. Les articles 16 et 17 sont applicables par analogie.
+<sup>1</sup> La situation financière des personnes imposées à la source est déterminée en fonction d’un pourcentage des revenus bruts au sens de l’article 113 LI qui sont pris en compte lors de l'imposition.
+
+<sup>2</sup> Le Conseil-exécutif fixe le taux applicable par voie d’ordonnance.
 
 #### Art. 19
 
@@ -270,10 +291,13 @@ arrête:
 
 <sup>2</sup> La famille est considérée comme un tout. Sont réputés membres de la famille
 
-- a les époux ou les partenaires enregistrés,
+- a les époux,
+- a1 les partenaires enregistrés,
+- a2 les partenaires qui ne sont pas mariés, s'ils vivent dans le même ménage et sont ensemble parents d'un enfant ou d'un ou une jeune adulte au moins,
+- a3 les partenaires qui ne sont pas liés par un partenariat enregistré, s'ils vivent dans le même ménage et sont ensemble parents d'un enfant ou d'un ou une jeune adulte au moins,
 - b le parent seul,
 - c les enfants,
-- d les jeunes adultes, s'ils sont célibataires et qu'ils ne subviennent pas durablement à leur entretien par un revenu propre. Le Conseil-exécutif détermine le montant de ce revenu par voie d'ordonnance.
+- d les jeunes adultes, s'ils sont célibataires, ne constituent pas eux-mêmes une famille avec leurs propres enfants et ont un revenu ne dépassant pas le montant que le Conseil-exécutif a fixé par voie d'ordonnance.
 
 <sup>3</sup> Lors de la détermination de la situation financière, il est tenu compte de manière appropriée des charges supplémentaires pesant sur les familles, conformément aux principes de l'aide sociale et du droit des assurances sociales.
 
@@ -281,15 +305,21 @@ arrête:
 
 **Montants de la réduction des primes**
 
-<sup>1</sup> Le Conseil-exécutif échelonne les montants de la réduction des primes en fonction des revenus déterminants et de régions de primes.
+<sup>1</sup> Le Conseil-exécutif échelonne la réduction des primes en fonction des revenus déterminants et de régions de primes.
 
-<sup>2</sup> Le montant de la réduction individuelle des primes est fixé sur la base du revenu déterminant calculé en application des articles 15 à 19 ainsi qu'en fonction de la région de primes dans laquelle est domiciliée la personne qui y a droit.
+<sup>2</sup> Le montant de la réduction des primes est fixé sur la base du revenu déterminant calculé en application des articles 15 à 19 ainsi qu'en fonction de la région de primes dans laquelle est domiciliée la personne qui y a droit.
 
-<sup>3</sup> Le montant de la réduction des primes ne doit en principe pas dépasser 80 pour cent de la prime moyenne fixée par la Confédération pour le canton de Berne.
+<sup>3</sup> La réduction des primes ne doit en principe pas dépasser 80 pour cent de la prime moyenne fixée par la Confédération pour le canton.
 
-<sup>4</sup> Les primes des bénéficiaires d'aides sociales ou de prestations complémentaires à l'AVS et à l'AI peuvent être intégralement couvertes. Les primes moyennes peuvent servir de référence.
+<sup>4</sup> Les bénéficiaires de prestations d'aide sociale ou de prestations complémentaires à l'AVS et à l'AI ont droit à la réduction ordinaire maximale des primes.
 
-<sup>5</sup> Les primes des enfants et des jeunes adultes en formation sont réduites, le cas échéant, de 50 pour cent au moins.
+<sup>5</sup> Pour les bas et moyens revenus, les primes des enfants et des jeunes adultes en formation sont réduites selon l’article 65, alinéa 1<sup>bis</sup> LAMal.
+
+#### Art. 20a
+
+**Communication de la décision**
+
+<sup>1</sup> Le service compétent de la DIJ communique sa décision relative à la réduction des primes par écrit à la personne concernée. Sur demande, il rend une décision formelle.
 
 ### 1.4.2 Exécution et procédure
 
@@ -299,27 +329,45 @@ arrête:
 
 <sup>1</sup> La réduction des primes ressortit au service compétent de la DIJ.
 
-<sup>2</sup> La réduction des primes des bénéficiaires d'aides sociales ou de prestations complémentaires à l'AVS et à l'AI peut être assumée par les communes, les autorités accordant les aides sociales ou la Caisse de compensation du canton de Berne.
+<sup>2</sup> La réduction des primes des bénéficiaires de prestations d'aide sociale peut être assumée par les communes ou les autorités accordant les prestations d'aide sociale.
+
+#### Art. 21a
+
+**Accès aux données des fichiers centralisés de données personnelles**
+
+<sup>1</sup> Le service compétent de la DIJ peut accéder aux données des fichiers centralisés de données personnelles nécessaires à la mise en œuvre de la réduction des primes par une procédure d’appel ou d’annonce.
+
+<sup>2</sup> L’accès aux données selon l’alinéa 1 porte aussi sur les données personnelles particulièrement dignes de protection suivantes:
+
+- a les indications relatives à la protection de l’enfant et de l’adulte,
+- b les indications relatives aux ménages,
+- c les fonctionnalités des fichiers centralisés de données personnelles concernés.
 
 #### Art. 22
 
 **Participation des établissements, des autorités et des assureurs**
 
-<sup>1</sup> La Caisse de compensation du canton de Berne, les autorités accordant des aides sociales et les communes communiquent au service compétent de la DIJ le nom des bénéficiaires d'aides sociales ou de prestations complémentaires à l'AVS et à l'AI.
+<sup>1</sup> La Caisse de compensation du canton de Berne, les autorités accordant des prestations d'aide sociale et les communes communiquent au service compétent de la DIJ le nom des bénéficiaires de prestations d'aide sociale ou de prestations complémentaires à l'AVS et à l'AI.
 
 <sup>2</sup> …
 
-<sup>3</sup> Les données nécessaires à la mise en œuvre de la réduction des primes peuvent être mises à la disposition du service compétent de la DIJ par le biais d'une procédure d'appel.
+<sup>3</sup> Les données nécessaires à la mise en œuvre de la réduction des primes peuvent être mises à la disposition du service compétent de la DIJ par une procédure d'appel.
+
+#### Art. 22a
+
+**Participation des communes**
+
+<sup>1</sup> Les communes consignent dans le registre des habitants les liens de filiation existants entre les enfants et jeunes adultes âgés de moins de 25 ans révolus et les parents qui vivent dans le même ménage.
 
 #### Art. 23
 
-**Participation de l'Intendance cantonale des impôts**
+**Participation du service compétent de la Direction des finances**
 
-<sup>1</sup> L'Intendance cantonale des impôts permet au service compétent de la DIJ d'accéder par une procédure d'appel aux données du registre de la GCP nécessaires à la mise en œuvre de la réduction des primes.
+<sup>1</sup> …
 
-<sup>2</sup> Le service compétent de la DIJ peut accéder, par le biais d'une procédure d'appel, aux données fiscales de l'Intendance cantonale des impôts nécessaires à la mise en œuvre de la réduction des primes.
+<sup>2</sup> Le service compétent de la Direction des finances permet au service compétent de la ​DIJ d'accéder par une procédure d'appel ou d'annonce aux données du ​système de ​taxation des personnes physiques nécessaires à la mise en œuvre de la réduction des primes.
 
-<sup>3</sup> Les personnes occupées à la mise en œuvre de la réduction des primes sont soumises au secret fiscal.
+<sup>3</sup> Les personnes chargées de l’application de la présente loi ou qui y collaborent sont tenues au secret conformément à l’article 153 LI.
 
 #### Art. 24
 
@@ -329,7 +377,9 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif définit le cercle des personnes dont le droit à la réduction des primes n'est constaté que sur demande.
 
-<sup>3</sup> Une demande de réduction des primes ne peut être formulée que pour l'année civile en cours. Le Conseil-exécutif précise par voie d'ordonnance qui peut déposer une telle demande au nom de la personne assurée.
+<sup>3</sup> Une demande de réduction des primes peut être formulée à titre rétroactif pour une période débutant au plus tôt le 1<sup>er</sup> janvier de l'année civile en cours.
+
+<sup>4</sup> Le Conseil-exécutif précise par voie d'ordonnance qui peut déposer une demande au nom de la personne assurée.
 
 #### Art. 25
 
@@ -351,31 +401,31 @@ arrête:
 
 <sup>1</sup> Les montants indûment perçus au titre de la réduction des primes doivent être restitués.
 
-<sup>2</sup> La prétention en restitution se prescrit dans un délai d'un an à compter du moment où le service compétent de la DIJ en a eu connaissance, mais au plus tard trois ans après le versement. Si cette prétention découle d'un acte punissable pour lequel le droit pénal prévoit un délai de prescription plus long, ce dernier est déterminant.
+<sup>2</sup> La prétention en restitution se prescrit dans un délai d'un an à compter du moment où le service compétent de la DIJ en a eu connaissance, mais au plus tard trois ans après le versement du montant accordé au titre de la réduction des primes.
 
-<sup>3</sup> Il peut être renoncé entièrement ou en partie à la restitution si elle donne lieu à un cas de rigueur économique.
+<sup>2a</sup> Si la prétention en restitution découle d’une procédure de rappel d’impôt ou d’un acte punissable commis dans le cadre de la procédure de réduction des primes, elle se prescrit dans un délai d’un an à compter du moment où le service compétent de la DIJ a eu connaissance de la décision rendue dans le cadre de la procédure de rappel d’impôt ou de la procédure pénale, mais au plus tard dix ans après le versement du montant accordé au titre de la réduction des primes.
 
-#### Art. 28
+<sup>3</sup> …
 
-**Pertes subies par les assureurs**
+#### Art. 27a
 
-<sup>1</sup> …
+**Renonciation à la restitution**
 
-<sup>2</sup> Les assureurs peuvent demander au service compétent de la DIJ la compensation des primes et des participations aux coûts qu'ils n'arrivent pas à recouvrer s'ils subissent des pertes lors de l'encaissement des primes d'assurance obligatoire des soins alors qu'ils ont fait preuve de la diligence requise.
+<sup>1</sup> Il ​est renoncé entièrement ou en partie à la restitution si elle donne lieu à un cas de rigueur économique dans la mesure où le service compétent de la DIJ dispose des données nécessaires pour le constater.
 
-<sup>3</sup> Les prétentions de l'assureur à l'égard de la personne assurée passent au canton lorsque ce dernier compense une perte. Les actes de défaut de biens sont transmis au service compétent de la DIJ.
+<sup>2</sup> Si les données nécessaires au sens de l’alinéa 1 font défaut au service compétent de la DIJ, la restitution est remise sur demande, entièrement ou partiellement, si elle donne lieu à un cas de rigueur économique.
 
-<sup>4</sup> Les prestations compensatoires sont imputées sur les subsides au sens de l'article 66 LAMal[^28-1].
+<sup>3</sup> La demande au sens de l'alinéa 2 doit être déposée auprès du service compétent de la DIJ dans les 60 jours qui suivent la réception de la facture de l’assureur concernant la modification rétroactive du droit à la réduction des primes.
 
-[^28-1]: RS 832.10
+#### Art. 28–29
 
-#### Art. 29
+**…**
 
-**Obligation de rendre compte**
+#### Art. 29a
 
-<sup>1</sup> Les assureurs qui répercutent les montants de la réduction des primes en faveur de leurs assurés au sens de l'article 25, 1<sup>er</sup> alinéa ou qui invoquent des pertes conformément à l'article 28 doivent rendre compte au service compétent de la DIJ de l'utilisation des montants.
+**Collaboration des offices des poursuites et des faillites**
 
-<sup>2</sup> Le décompte des réductions de primes accordées sera accompagné d'un rapport de révision.
+<sup>1</sup> Les offices des poursuites et des faillites mettent à la disposition du service compétent de la DIJ les procès-verbaux et registres des poursuites nécessaires au contrôle des pertes annoncées par les assureurs (art. 64a, al. 3 LAMal).
 
 #### Art. 30
 
@@ -391,17 +441,15 @@ arrête:
 
 <sup>1</sup> Le service compétent de la DIJ procède au décompte des subsides fédéraux avec la Confédération.
 
-<sup>2</sup> Les communes, les autorités qui accordent des aides sociales et la Caisse de compensation du canton de Berne procèdent avec le service compétent de la DIJ au décompte des réductions de primes avancées aux bénéficiaires d'aides sociales ou de prestations complémentaires à l'AVS et à l'AI.
+<sup>2</sup> Les communes et les autorités accordant des prestations d'aide sociale procèdent avec le service compétent de la DIJ au décompte des réductions de primes avancées aux bénéficiaires de prestations d'aide sociale.
 
-<sup>3</sup> Le service compétent de la DIJ verse des avances aux communes, aux autorités qui accordent des aides sociales et à la Caisse de compensation du canton de Berne.
+<sup>3</sup> Le service compétent de la DIJ verse des avances aux communes et aux autorités accordant des prestations d'aide sociale.
 
-### 1.4a Prévention des cas de rigueur
+### 1.4a
 
 #### Art. 31a
 
-<sup>1</sup> Afin de prévenir les cas de rigueur, le Conseil-exécutif peut prévoir par voie d'ordonnance le paiement provisoire de primes et de participations aux coûts par le canton en faveur d'assurés concernés ou immédiatement menacés par une suspension des prestations au sens de l'article 64a LAMal[^31a-1].
-
-[^31a-1]: RS 832.10
+**…**
 
 ### 1.5 Système de traitement des données
 
@@ -409,7 +457,22 @@ arrête:
 
 <sup>1</sup> Le service compétent de la DIJ exploite un système de traitement des données pour accomplir ses tâches légales de mise en œuvre du régime de l'assurance obligatoire et de réduction des primes.
 
-<sup>2</sup> Ce système contient en particulier des données concernant des personnes telles que le nom, le prénom, l'adresse, le numéro AVS, la structure familiale, le revenu et la fortune, le rapport d'assurance, la réduction des primes, le service chargé du versement, le début et la fin du versement de prestations d'aide sociale ou de prestations complémentaires à l'AVS et à l'AI, l'exécution de peines ou de mesures, les rapports de tutelle et les poursuites pendantes.
+<sup>2</sup> Ce système contient en particulier des données telles que
+
+- a le nom, le prénom et l'adresse,
+- b le numéro d’identification personnel du canton,
+- c le numéro AVS,
+- d la date de naissance,
+- e le sexe,
+- f la structure du ménage,
+- g le revenu et la fortune,
+- h le rapport d'assurance,
+- i la réduction des primes,
+- k le service chargé du versement,
+- l le début et la fin du versement de prestations d'aide sociale ou de prestations complémentaires à l'AVS et à l'AI,
+- m l'exécution de peines ou de mesures,
+- n les curatelles,
+- o les actes de défaut de biens relatifs aux arriérés de primes et aux participations aux coûts, aux intérêts moratoires et aux frais de poursuite.
 
 ### 1.6 Voies de droit
 
@@ -417,26 +480,28 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> La protection juridique et la procédure sont régies par les dispositions de la loi sur la procédure et la juridiction administratives (LPJA), à moins que la loi fédérale sur l'assurance-maladie ou la présente loi n'en disposent autrement.
+<sup>1</sup> La protection juridique et la procédure sont régies par les dispositions de la loi sur la procédure et la juridiction administratives (LPJA)[^33-1], à moins que la loi fédérale sur l'assurance-maladie ou la présente loi n'en disposent autrement.
+
+[^33-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 #### Art. 34
 
 **Opposition**
 
-<sup>1</sup> Les décisions relatives à la réduction des primes ou à l'affiliation d'office à un assureur peuvent être attaquées par voie d'opposition.
+<sup>1</sup> Les décisions relatives à la réduction des primes peuvent être attaquées par voie d'opposition.
 
 #### Art. 35
 
-**Tribunal des assurances**
+**Tribunal administratif**
 
-<sup>1</sup> Le Tribunal administratif connaît, en qualité de tribunal cantonal des assurances, des litiges opposant un assureur à un autre assureur, à une personne assurée ou à un tiers.
+<sup>1</sup> …
 
-<sup>2</sup> Les membres du Tribunal administratif connaissent, en qualité de juges uniques (art. 128 LPJA[^35-1]),
+<sup>2</sup> Les membres du Tribunal administratif connaissent, en qualité de juges uniques (art. 57, al. 4 de la loi du 11 juin 2009 sur l’organisation des autorités judiciaires et du Ministère public [LOJM][^35-1]),
 
-- a des litiges concernant la réduction des primes d'assurance-maladie obligatoire et
+- a des litiges concernant la réduction des primes et
 - b des litiges concernant l'obligation de s'assurer pour les soins en cas de maladie.
 
-[^35-1]: RSB 155.21
+[^35-1]: RSB [161.1](https://www.belex.sites.be.ch/data/161.1/fr)
 
 #### Art. 36
 
@@ -450,15 +515,25 @@ arrête:
 
 <sup>1</sup> Les tribunaux civils connaissent des litiges portant sur les assurances complémentaires à l'assurance obligatoire des soins.
 
-<sup>2</sup> Il n'est pas perçu de frais de procédure; le tribunal peut toutefois mettre tout ou partie des frais à la charge d'une partie qui a agi à la légère ou de manière téméraire.
+<sup>2</sup> S’agissant des frais judiciaires, les dispositions spéciales régissant les frais des articles 113 à 115 du code de procédure civile du 19 décembre 2008 (CPC)[^37-1] sont applicables.
 
-<sup>3</sup> Pour le surplus, les compétences et la procédure sont régies par les dispositions du code de procédure civile suisse du 19 décembre 2008 (CPC)[^37-1].
+<sup>3</sup> Pour le surplus, les compétences et la procédure sont régies par les dispositions du CPC.
 
-[^37-1]: RS 272
+[^37-1]: RS [272](https://db.clex.ch/link/Bund/272/fr)
 
 ## 2 Assurance-accidents
 
+#### Art. 37a
+
+**Obligation d'assurer**
+
+<sup>1</sup> La Caisse de compensation du canton de Berne renseigne les employeurs sur leur obligation d'assurer les travailleurs.
+
+<sup>2</sup> Elle veille au respect de l'obligation d'assurer.
+
 #### Art. 38
+
+**Tribunal arbitral des assurances sociales**
 
 <sup>1</sup> Le Tribunal arbitral des assurances sociales connaît des litiges entre les assureurs d'une part et les personnes exerçant une activité dans le domaine médical, les laboratoires, les établissements hospitaliers ou les établissements de cure d'autre part.
 
@@ -484,15 +559,11 @@ arrête:
 
 <sup>1</sup> Dans les domaines de l'assurance-maladie, de l'assurance-accidents et de l'assurance militaire, le Tribunal arbitral des assurances sociales, en tant qu'instance unique,
 
-- a statue sur les récusations de médecins-conseils par la Société cantonale des médecins conformément à l'article 57, 3<sup>e</sup> alinéa LAMal[^41-1];
-- b statue sur les exclusions de fournisseurs de prestations par des assureurs conformément à l'article 59 LAMal;
+- a statue sur les récusations de médecins-conseils par la Société cantonale des médecins conformément à l'article 57, 3<sup>e</sup> alinéa LAMal;
+- b prononce des sanctions à l’encontre des fournisseurs de prestations conformément à l'article 59 LAMal;
 - c connaît des litiges entre les assureurs et les fournisseurs de prestations au sens de l'article 89 LAMal;
-- d connaît des litiges entre les assureurs d'une part et les personnes exerçant une activité dans le domaine médical, les laboratoires, les établissements hospitaliers ou les établissements de cure d'autre part, au sens de l'article 57 LAA[^41-2], et
-- e connaît des litiges entre l'assurance militaire d'une part et les personnes exerçant une activité dans le domaine médical, les établissements hospitaliers, les centres de dépistage ou les laboratoires d'autre part, au sens de l'article 27 LAM[^41-3].
-
-[^41-1]: RS 832.10
-[^41-2]: RS 832.20
-[^41-3]: RS 833.1
+- d connaît des litiges entre les assureurs d'une part et les personnes exerçant une activité dans le domaine médical, les laboratoires, les établissements hospitaliers ou les établissements de cure d'autre part, au sens de l'article 57 LAA, et
+- e connaît des litiges entre l'assurance militaire d'une part et les personnes exerçant une activité dans le domaine médical, les établissements hospitaliers, les centres de dépistage ou les laboratoires d'autre part, au sens de l'article 27 LAM.
 
 #### Art. 42
 
@@ -504,11 +575,9 @@ arrête:
 
 **Organisation**
 
-<sup>1</sup> La composition du Tribunal arbitral des assurances sociales et de l’autorité appelée à statuer, l’élection des juges et la désignation des présidents et présidentes neutres sont régies par la loi du 11 juin 2009 sur l’organisation des autorités judiciaires et du Ministère public (LOJM)[^43-1].
+<sup>1</sup> La composition du Tribunal arbitral des assurances sociales et de l’autorité appelée à statuer, l’élection des juges et la désignation des présidents et présidentes neutres sont régies par la LOJM.
 
 <sup>2</sup> Le Tribunal administratif fixe la marche des affaires dans un règlement.
-
-[^43-1]: RSB 161.1
 
 ### 4.2 Procédure
 
@@ -548,13 +617,17 @@ arrête:
 
 <sup>2</sup> La partie qui intente l'action est tenue de verser une avance de frais appropriée. Si elle ne s'acquitte pas du montant requis dans le délai imparti et ne met pas à profit le court délai supplémentaire qui lui est accordé pour ce faire, la demande est déclarée irrecevable.
 
-<sup>3</sup> La perception des frais est régie par les dispositions fixant les émoluments du Tribunal administratif et des autorités de justice administrative indépendantes de l'administration.
+<sup>3</sup> La perception des frais est régie par le décret du 24 mars 2010 concernant les frais de procédure et les émoluments administratifs des autorités judiciaires et du Ministère public (décret sur les frais de procédure, DFP)[^47-1].
+
+[^47-1]: RSB [161.12](https://www.belex.sites.be.ch/data/161.12/fr)
 
 #### Art. 48
 
 **Indemnités**
 
-<sup>1</sup> Les membres du Tribunal arbitral des assurances sociales perçoivent les indemnités prévues pour l'administration de la justice et des tribunaux.
+<sup>1</sup> L’indemnisation des juges spécialisés du Tribunal arbitral des assurances sociales est régie par les dispositions du décret du 9 juin 2010 sur l’indemnisation des juges à titre accessoire (DInJ)[^48-1].
+
+[^48-1]: RSB [166.1](https://www.belex.sites.be.ch/data/166.1/fr)
 
 ## 5 Dispositions transitoires et finales
 
@@ -599,6 +672,33 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur de la présente loi.
+
+## T1 Dispositions transitoires de la modification du 09.09.2020
+
+#### Art. T1-1
+
+**Livraison des données et contrôle**
+
+<sup>1</sup> Le service compétent de la DIJ met à la disposition des communes, le 12 juillet 2021 au plus tard, en vue du contrôle au sens de l’alinéa 2 les données concernant
+
+- a les couples non mariés identifiables au sens de l’article 19, alinéa 2, lettres a2 et a3,
+- b les couples non mariés susceptibles d’entrer dans le champ d’application de la même disposition.
+
+<sup>2</sup> En application de l'article 22a, les communes contrôlent jusqu’au 30 octobre 2021 l’exactitude et l’exhaustivité des données concernant les liens de filiation entre les enfants ou jeunes adultes et les parents non mariés domiciliés aux mêmes numéros de bâtiment et de logement.
+
+#### Art. T1-2
+
+**Compensation des primes et des participations aux coûts irrécouvrables**
+
+<sup>1</sup> Les assureurs peuvent, jusqu’au 31 décembre 2022, demander au service compétent de la DIJ la compensation des primes et des participations aux coûts échues au 31 décembre 2011 qu’ils n’ont pas pu recouvrer s'ils subissent des pertes lors de l'encaissement des primes d'assurance obligatoire des soins et des participations aux coûts alors qu'ils ont fait preuve de la diligence requise et que les assurés étaient domiciliés dans le canton au moment où ils ont contracté leur dette.
+
+<sup>2</sup> Les prétentions de l'assureur à l'égard de la personne assurée passent au canton lorsque ce dernier compense une perte au sens de l’alinéa 1. Les actes de défaut de biens sont transmis au service compétent de la DIJ.
+
+#### Art. T1-3
+
+**Applicabilité**
+
+<sup>1</sup> Les articles 19, alinéa 2, lettres a2, a3 et d et 29a, alinéa 1 sont applicables à compter du 1<sup>er</sup> janvier 2022.
 
 Berne, le 6 juin 2000
 
