@@ -4,13 +4,13 @@ number: "901.112"
 title: Kantonale Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung
 language: de
-version: 2021-05-06
-valid_until: 2021-06-30
-version_adopted: 2021-05-05
+version: 2021-07-01
+valid_until: 2021-09-26
+version_adopted: 2021-06-30
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2280/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2299/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2280/pdf_file"
 
 (Kantonale Härtefallverordnung)
 
-vom 18.12.2020 (Stand 06.05.2021)
+vom 18.12.2020 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -161,7 +161,7 @@ beschliesst:
 
 - a es die Massnahmen, die zum Schutz seiner Liquidität und seiner Kapitalbasis nötig sind, ergriffen hat,
 - b es keinen Anspruch auf bestehende oder zukünftige branchenspezifische Covid-19-Finanzhilfen des Bundes namentlich in den Bereichen Kultur, Sport, öffentlicher Verkehr oder Medien hat,
-- c sein Umsatz in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zur Gesuchseinreichung in Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 60 Prozent des Umsatzes gemäss Artikel 3 liegt.
+- c sein Umsatz in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zum 30. Juni 2021 in Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 60 Prozent des Umsatzes gemäss Artikel 3 liegt.
 
 <sup>2a</sup> Besonders betroffene Unternehmen gemäss Artikel 4a müssen die nachfolgenden Nachweise nicht erbringen:
 
@@ -210,13 +210,17 @@ beschliesst:
 
 <sup>1</sup> Die Sofortunterstützung für kleine Unternehmen, die im Zeitraum der gewählten Periode mehr als 40 Prozent Umsatzeinbusse erlitten haben, bemisst sich nach den im Zeitraum der gewählten Periode gemäss Artikel 9 Absatz 2 Buchstabe c angefallenen Fixkosten gemäss Artikel 4 sowie dem Umfang des Umsatzeinbruchs in Prozent und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
 
-<sup>1a</sup> Die Sofortunterstützung für besonders betroffene kleine Unternehmen bemisst sich nach den in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zur Gesuchseinreichung angefallenen Fixkosten gemäss Artikel 4 sowie der Dauer der angeordneten Schliessung gemäss Artikel 4a und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
+<sup>1a</sup> Die Sofortunterstützung für besonders betroffene kleine Unternehmen bemisst sich nach den in zwölf aufeinanderfolgenden Monaten im Zeitraum vom 1. Januar 2020 bis zum 30. Juni 2021 angefallenen Fixkosten gemäss Artikel 4 sowie der Dauer der angeordneten Schliessung gemäss Artikel 4a und beträgt höchstens 20 Prozent des Umsatzes gemäss Artikel 3 und höchstens eine Million Franken pro Unternehmen.
 
 <sup>1b</sup> Kleine Unternehmen, die kumulativ Sofortunterstützung gemäss den Absätzen 1 und 1a beantragen, müssen die Periode gemäss Artikel 9 Absatz 2 Buchstabe c sowie die Fixkosten gemäss Absatz 1a auf den Zeitraum von 1. Januar 2020 bis 31. Dezember 2020 festlegen.
+
+<sup>1c</sup> Die Sofortunterstützung gemäss Absatz 1 erhöht sich um 50 Prozent, wenn die Umsatzeinbusse mehr als 70 Prozent beträgt. Die Höchstgrenze beträgt 30 Prozent des Umsatzes gemäss Artikel 3 und höchstens 1.5 Millionen Franken pro Unternehmen.
 
 <sup>2</sup> Die Sofortunterstützung kann in mehreren Tranchen ausgerichtet werden.
 
 <sup>3</sup> Sind die angefallenen Fixkosten gemäss den Absätzen 1 bis 1b nicht durch doppelte Buchhaltung oder anderweitig belegbar, kann die Sofortunterstützung in Form einer Pauschale ausgerichtet werden.
+
+<sup>4</sup> Bei Wiederaufnahmen auf Gesuch hin kann die Berechnung der Unterstützung durch pauschale Ansätze erfolgen.
 
 #### Art. 12a
 
@@ -229,7 +233,9 @@ beschliesst:
 
 <sup>2</sup> Grosse Unternehmen, die in mehr als zwölf Monaten einen Umsatzrückgang zu verzeichnen hatten, können den Umsatzrückgang für diejenigen Monate von Januar bis Juni 2021 hinzuzählen, die nicht in die Berechnung gemäss Artikel 9 Absatz 2 Buchstabe c eingeflossen sind; dabei bemisst sich der Umsatzrückgang im Vergleich zu den entsprechenden Perioden des massgebenden Umsatzes.
 
-<sup>3</sup> Der Fixkostenanteil berechnet sich nach der Formel: Anrechenbare Fixkosten geteilt durch den massgebenden Umsatz. Er beläuft sich jedoch höchstens auf die pauschalen Fixkostenanteile gemäss Artikel 8b Absätze 3 und 5 der eidgenössischen Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung)[^12a-1].
+<sup>3</sup> Für grosse Unternehmen mit bis zu 70 Prozent Umsatzeinbusse berechnet sich der Fixkostenanteil nach der Formel: Anrechenbare Fixkosten geteilt durch den massgebenden Umsatz. Er beläuft sich jedoch höchstens auf die pauschalen Fixkostenanteile gemäss Artikel 8b Absätze 3 und 5 der eidgenössischen Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie (Covid-19-Härtefallverordnung)[^12a-1].
+
+<sup>3a</sup> Für grosse Unternehmen mit mehr als 70 Prozent Umsatzeinbusse gelten die pauschalen Fixkostenanteile gemäss Artikel 8b Absätze 3 und 5 Covid-19-Härtefallverordnung.
 
 <sup>4</sup> Die Sofortunterstützung ist begrenzt auf 20 Prozent des massgebenden Umsatzes gemäss Artikel 3 und fünf Millionen Franken.
 
@@ -237,6 +243,8 @@ beschliesst:
 
 - a der Umsatz des Unternehmens im Vergleich zum massgebenden Umsatz um mehr als 70 Prozent zurückgegangen ist oder
 - b seit dem 1. März 2020 neues liquiditätswirksames Eigenkapital im Umfang von mindestens 40 Prozent des fünf Millionen Franken übersteigenden Beitrags in Form von Bareinlagen in das Unternehmen eingebracht wird.
+
+<sup>6</sup> Bei Wiederaufnahmen auf Gesuch hin kann die Berechnung der Unterstützung durch pauschale Ansätze erfolgen.
 
 [^12a-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de)
 
@@ -261,6 +269,19 @@ beschliesst:
 - e Quartalsabrechnungen der Mehrwertsteuer für die Jahre 2018, 2019, 2020 und 2021 oder, falls keine solchen vorliegen, ein anderer Beleg für den geltend gemachten Umsatzrückgang.
 
 <sup>2</sup> Unterliegen sie der Revisionspflicht, so müssen die revidierten Fassungen der Jahresrechnungen eingereicht werden.
+
+#### Art. 12d
+
+**Ergänzende Unterstützung**
+
+<sup>1</sup> Die zuständige Stelle kann die Unterstützung mit den Mitteln der Bundesratsreserve über die Beschränkungen gemäss den Artikeln 9 Absatz 2 Buchstabe b, 12 Absätze 1,1a und 1c sowie 12a Absätze 4 und 5 hinaus ergänzen, wenn das Unternehmen Anspruch auf eine Sofortunterstützung gemäss Artikel 12 oder 12a hat und
+
+- a es oder seine Branche überdurchschnittlich betroffen ist oder
+- b seine ergänzende Unterstützung im volkswirtschaftlichen Interesse des Kantons liegt.
+
+<sup>2</sup> Hat ein Unternehmen bereits eine branchenspezifische Covid-19-Finanzhilfe des Bundes erhalten, so ist dieser Betrag von der ergänzenden Unterstützung nach diesem Artikel abzuziehen.
+
+<sup>3</sup> Es besteht kein Rechtsanspruch auf ergänzende Unterstützung.
 
 #### Art. 13
 
@@ -357,6 +378,12 @@ beschliesst:
 ## T5 Übergangsbestimmung der Änderung vom 05.05.2021
 
 #### Art. T5-1
+
+<sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
+
+## T6 Übergangsbestimmung der Änderung vom 30.06.2021
+
+#### Art. T6-1
 
 <sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
 

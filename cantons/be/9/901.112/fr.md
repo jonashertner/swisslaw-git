@@ -4,13 +4,13 @@ number: "901.112"
 title: "Ordonnance cantonale concernant les mesures destinées aux entreprises pour les cas de rigueur en lien avec l'épidémie de COVID-19"
 short: Ordonnance cantonale sur les cas de rigueur
 language: fr
-version: 2021-05-06
-valid_until: 2021-06-30
-version_adopted: 2021-05-05
+version: 2021-07-01
+valid_until: 2021-09-26
+version_adopted: 2021-06-30
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2280/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2299/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2280/pdf_file"
 
 (Ordonnance cantonale sur les cas de rigueur)
 
-du 18.12.2020 (état au 06.05.2021)
+du 18.12.2020 (état au 01.07.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -161,7 +161,7 @@ arrête:
 
 - a qu'elle a pris les mesures nécessaires pour protéger ses liquidités et sa base de capital;
 - b qu'elle n'a pas droit aux aides financières actuelles ou futures au titre du COVID-19 accordées spécifiquement par la Confédération, notamment aux domaines de la culture, du sport, des transports publics ou des médias;
-- c que son chiffre d'affaires sur douze mois consécutifs entre le 1<sup>er</sup> janvier 2020 et le dépôt de la demande est inférieur à 60 pour cent du chiffre d'affaires au sens de l'article 3 en raison des mesures ordonnées par les autorités aux fins de la lutte contre l’épidémie de COVID-19.
+- c que son chiffre d'affaires sur douze mois consécutifs entre le 1<sup>er</sup> janvier 2020 et le 30 juin 2021 est inférieur à 60 pour cent du chiffre d'affaires au sens de l'article 3 en raison des mesures ordonnées par les autorités aux fins de la lutte contre l’épidémie de COVID-19.
 
 <sup>2a</sup> Les entreprises particulièrement touchées au sens de l'article 4a ne sont pas tenues d'apporter les preuves suivantes:
 
@@ -210,13 +210,17 @@ arrête:
 
 <sup>1</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux petites entreprises dont les pertes de chiffre d'affaires au cours de la période retenue conformément à l'article 9, alinéa 2, lettre c dépassent les 40 pour cent est calculé selon les coûts fixes visés à l'article 4 échus durant la même période ainsi que selon la perte de chiffre d'affaires exprimée en pourcentage.
 
-<sup>1a</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux petites entreprises particulièrement touchées est calculé selon les coûts fixes visés à l'article 4 échus durant la période de douze mois consécutifs comprise entre le 1<sup>er</sup> janvier 2020 et le dépôt de la demande ainsi que selon la durée de la cessation d'activité imposée visée à l'article 4a.
+<sup>1a</sup> Plafonné à 20 pour cent du chiffre d'affaires au sens de l'article 3 et à un million de francs par entreprise, le soutien immédiat accordé aux petites entreprises particulièrement touchées est calculé selon les coûts fixes visés à l'article 4 échus durant la période de douze mois consécutifs comprise entre le 1<sup>er</sup> janvier 2020 et le 30 juin 2021 ainsi que selon la durée de la cessation d'activité imposée visée à l'article 4a.
 
 <sup>1b</sup> Les petites entreprises qui demandent un soutien immédiat en vertu à la fois de l'alinéa 1 et de l'alinéa 1a doivent retenir comme période au sens de l'article 9, alinéa 2, lettre c celle allant du 1<sup>er</sup> janvier 2020 au 31 décembre 2020 et faire valoir les coûts fixes visés à l'alinéa 1a échus durant cette période.
+
+<sup>1c</sup> Le soutien immédiat visé à l'alinéa 1 augmente de 50 pour cent lorsque les pertes de chiffre d'affaires dépassent les 70 pour cent. Le plafond est de 30 pour cent du chiffre d'affaires au sens de l'article 3 et de 1,5 million de francs par entreprise.
 
 <sup>2</sup> Le soutien immédiat peut être versé en plusieurs tranches.
 
 <sup>3</sup> Si les coûts fixes échus visés aux alinéas 1 à 1b ne peuvent être établis par une comptabilité en partie double ou un autre moyen, le soutien immédiat peut être versé sous forme de forfait.
+
+<sup>4</sup> En cas de révision opérée sur demande, le calcul du soutien peut être effectué sur la base de taux forfaitaires.
 
 #### Art. 12a
 
@@ -229,7 +233,9 @@ arrête:
 
 <sup>2</sup> Les grandes entreprises qui ont enregistré un recul du chiffre d'affaires pendant plus de douze mois peuvent ajouter le recul du chiffre d'affaires pour les mois de janvier à juin 2021 si ceux-ci ne sont pas déjà pris en compte dans le calcul visé à l'article 9, alinéa 2, lettre c; le recul du chiffre d'affaires est alors calculé par rapport aux périodes correspondantes du chiffre d'affaires déterminant.
 
-<sup>3</sup> La part de coûts fixes est calculée selon la formule suivante: coûts fixes imputables divisés par le chiffre d'affaires déterminant. Elle n'excédera toutefois pas les parts de coûts fixes forfaitaires visées à l'article 8b, alinéas 3 et 5 de l'ordonnance fédérale du 25 novembre 2020 concernant les mesures pour les cas de rigueur destinées aux entreprises en lien avec l’épidémie de COVID-19 (ordonnance COVID-19 cas de rigueur)[^12a-1].
+<sup>3</sup> Pour les grandes entreprises dont la perte de chiffre d'affaires va jusqu'à 70 pour cent, la part de coûts fixes est calculée selon la formule suivante: coûts fixes imputables divisés par le chiffre d'affaires déterminant. Elle n'excédera toutefois pas les parts de coûts fixes forfaitaires visées à l'article 8b, alinéas 3 et 5 de l'ordonnance fédérale du 25 novembre 2020 concernant les mesures pour les cas de rigueur destinées aux entreprises en lien avec l’épidémie de COVID-19 (ordonnance COVID-19 cas de rigueur)[^12a-1].
+
+<sup>3a</sup> Pour les grandes entreprises dont la perte de chiffre d'affaires dépasse 70 pour cent, les parts de coûts fixes forfaitaires s'appliquent conformément à l'article 8b, alinéas 3 et 5 de l'ordonnance COVID-19 cas de rigueur.
 
 <sup>4</sup> Le soutien immédiat est plafonné à 20 pour cent du chiffre d'affaires déterminant au sens de l'article 3 et à cinq millions de francs.
 
@@ -237,6 +243,8 @@ arrête:
 
 - a si le chiffre d’affaires de l’entreprise a reculé de plus de 70 pour cent par rapport au chiffre d’affaires déterminant ou
 - b si, depuis le 1<sup>er</sup> mars 2020, de nouveaux fonds propres ayant une incidence sur les liquidités sont apportés à l’entreprise sous forme d’espèces à hauteur d’au moins 40 pour cent de la contribution dépassant cinq millions de francs.
+
+<sup>6</sup> En cas de révision opérée sur demande, le calcul du soutien peut être effectué sur la base de taux forfaitaires.
 
 [^12a-1]: RS [951.262](https://db.clex.ch/link/Bund/951.262/fr)
 
@@ -261,6 +269,19 @@ arrête:
 - e décomptes trimestriels de la TVA pour les exercices 2018, 2019, 2020 et 2021 ou, à défaut, autre justificatif concernant le recul allégué du chiffre d’affaires.
 
 <sup>2</sup> Les entreprises assujetties à l'obligation de révision doivent fournir les comptes annuels révisés.
+
+#### Art. 12d
+
+**Soutien complémentaire**
+
+<sup>1</sup> Le service compétent peut compléter le soutien grâce aux moyens de la réserve du Conseil fédéral, au-delà des restrictions visées aux articles 9, alinéa 2, lettre b, 12, alinéas 1, 1a et 1c ainsi que 12a, alinéas 4 et 5, si l'entreprise a droit à un soutien immédiat conformément aux articles 12 ou 12a et
+
+- a que l'entreprise ou sa branche est plus touchée que la moyenne ou
+- b qu'il est dans l'intérêt économique du canton d'accorder un soutien complémentaire à cette entreprise.
+
+<sup>2</sup> Si une entreprise a déjà reçu des aides financières au titre du COVID-19 accordées spécifiquement par la Confédération à son domaine, alors ce montant doit être déduit du soutien complémentaire visé au présent article.
+
+<sup>3</sup> La présente ordonnance ne confère aucun droit à l'obtention d'un soutien complémentaire.
 
 #### Art. 13
 
@@ -357,6 +378,12 @@ arrête:
 ## T5 Disposition transitoire de la modification du 05.05.2021
 
 #### Art. T5-1
+
+<sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
+
+## T6 Disposition transitoire de la modification du 30.06.2021
+
+#### Art. T6-1
 
 <sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
 
