@@ -4,13 +4,12 @@ number: "521.11"
 title: Verordnung zum Polizeigesetz
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2016-01-01
-valid_until: 2021-06-30
-version_adopted: 2015-05-11
+version: 2021-07-01
+version_adopted: 2020-11-24
 adopted: 2002-12-10
 in_force: 2003-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/521.11"
-pdf: "https://ar.clex.ch/api/de/versions/1005/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1335/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1005/pdf_file"
 
 (Polizeiverordnung, PolV)
 
-vom 10.12.2002 (Stand 01.01.2016)
+vom 10.12.2002 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Appenzell A.Rh.,
 
@@ -123,22 +122,22 @@ verordnet:
 
 <sup>2</sup> Es kann die Polizeiangehörigen zum Besuch von Fort- und Weiterbildungskursen verpflichten und vorübergehend zu anderen Amtsstellen abkommandieren.
 
-<sup>3</sup> Die fachliche Weiterbildung im Anschluss an die Polizeischule und in den Folgejahren erfolgt in enger Zusammenarbeit mit dem Schweizerischen Polizei- Institut, dem Ostschweizer Polizeikonkordat, der Ostschweizer Polizeikommandantenkonferenz sowie weiteren Ausbildungsstätten des In- und Auslandes.
+<sup>3</sup> Die fachliche Weiterbildung im Anschluss an die Polizeiausbildung und in den Folgejahren erfolgt in enger Zusammenarbeit mit dem Schweizerischen Polizei-Institut, dem Ostschweizer Polizeikonkordat, der Ostschweizer Polizeikommandantenkonferenz sowie weiteren Ausbildungsstätten des In- und Auslandes.
 
 #### Art. 11
 
 **Rückerstattung der Ausbildungskosten**
 
-<sup>1</sup> Polizeiangehörige, die während der Polizeischule oder im Verlauf der ersten fünf Jahre nach Abschluss der Polizeischule freiwillig aus der Kantonspolizei austreten, oder Polizeiangehörige, denen in dieser Zeit fristlos gekündigt wird aus Gründen, die sie zu vertreten haben, haben dem Kanton die Ausbildungskosten zurückzuerstatten.
+<sup>1</sup> Polizeiangehörige, die während der Polizeiausbildung oder im Verlauf der ersten vier Jahre nach Abschluss der eidgenössischen Berufsprüfung freiwillig aus der Kantonspolizei austreten, oder Polizeiangehörige, denen in dieser Zeit fristlos gekündigt wird aus Gründen, die sie zu vertreten haben, haben dem Kanton die Ausbildungskosten zurückzuerstatten.
 
 <sup>1<sup>bis</sup></sup> Zurückzuerstatten sind:
 
-- a) während der Polizeischule — bisher angefallene Kosten;
+- a) während der Polizeiausbildung — bisher angefallene Kosten;
 - b) im ersten Jahr — Fr. 35 000.--;
 - c) im zweiten Jahr — Fr. 25 000.--;
 - d) im dritten Jahr — Fr. 15 000.--;
 - e) im vierten Jahr — Fr. 10 000.--;
-- f) im fünften Jahr — Fr. 5 000.--.
+- f) …
 
 <sup>2</sup> Der Regierungsrat kann in begründeten Fällen Ausnahmen von der Rückerstattungspflicht vorsehen.
 
@@ -373,6 +372,7 @@ verordnet:
 - e) Polizei-Korporalin / Polizei-Korporal (Kpl)
 - f) Polizei-Gefreite (Gfr)
 - g) Polizistin / Polizist (Pol)
+- g<sup>bis</sup> Polizistin / Polizist in Ausbildung (Pol i A)
 - h) Polizeiaspirantin / Polizeiaspirant
 
 #### Art. 29
@@ -401,8 +401,9 @@ verordnet:
 
 <sup>1</sup> Für Beförderungen sind folgende Dienstjahre eine weitere Voraussetzung:
 
-- a) Polizistin / Polizist: Erfolgreicher Abschluss der Polizeischule
-- b) Polizei-Gefreite: 4 Jahre nach Abschluss der Polizeischule
+- a) Polizistin / Polizist in Ausbildung: Bestehen der Prüfung der Einsatzfähigkeit (PEF)
+- a<sup>bis</sup>) Polizistin / Polizist: Erfolgreicher Abschluss der eidgenössischen Berufsprüfung
+- b) Polizei-Gefreite: 3 Jahre nach Abschluss der eidgenössischen Berufsprüfung bzw. 4 Jahre nach Bestehen der PEF
 - c) Polizei-Korporalin / Polizei-Korporal: 3 Jahre seit der Beförderung zur oder zum Polizei-Gefreiten
 - d) Polizei-Wachtmeisterin 2 / Polizei-Wachtmeister 2: 4 Jahre seit der Beförderung zur Polizei-Korporalin / zum Polizei-Korporal
 - e) Polizei-Wachtmeisterin 1 / Polizei-Wachtmeister 1: 4 Jahre seit der Beförderung zur Polizei-Korporalin / zum Polizei-Korporal
