@@ -3,18 +3,18 @@ sr: "412.101.221.23"
 title: Ordinanza della SEFRI del 30 ottobre 2009 sulla formazione professionale di base Costruttrice di modelli e stampi/Costruttore di modelli e stampi con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/819"
 language: it
-version: 2018-01-01
+version: 2021-07-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2009-819-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2009-819-20210701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Costruttrice di modelli e stampi/ Costruttore di modelli e stampi con attestato federale di capacità (AFC)
 
-del 30 ottobre 2009 (Stato 1° gennaio 2018)
+del 30 ottobre 2009 (Stato 1° luglio 2021)
 
 <table>
 <tr><td>30905</td><td>Costruttrice di modelli e stampi AFC/ Costruttore di modelli e stampi AFC Formenbauerin EFZ/Formenbauer EFZ Mouleuse CFC/Mouleur CFC</td></tr>
@@ -24,7 +24,7 @@ La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
 visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -39,10 +39,13 @@ ordina:*[^ingress-4]*
 
 I costruttori di modelli e stampi di livello AFC svolgono, in particolare, le seguenti attività e si contraddistinguono per i seguenti comportamenti:
 
-- a. realizzano forme e modelli per diversi procedimenti e utilizzi;
-- b. creano forme e modelli che fabbricano sia manualmente sia con l’impiego di macchine. Per la creazione e la lavorazione si avvalgono specificamente e approfonditamente delle tecniche CAD e CAM;
+- a.[^1-1] realizzano forme, modelli e attrezzi per diversi procedimenti di produzione;
+- b.[^1-2] costruiscono prototipi e producono pezzi con diversi materiali per i campi di applicazione più disparati; realizzano i prodotti fabbricandoli sia manualmente sia con l’impiego di macchine; si avvalgono delle tecnologie digitali come il *computer-aided design* (CAD) e il *computer-aided manufacturing* (CAM) in maniera specifica e considerando tutti gli aspetti del caso;
 - c. pensano e operano in maniera orientata alla clientela, rispettando criteri economici; elaborano soluzioni che comprendono vari processi di lavorazione; realizzano i loro incarichi e progetti in modo sistematico e autonomo;
 - d. rispettano i principi della sicurezza sul lavoro e della protezione della salute e dell’ambiente.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^1-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 2
 
@@ -80,26 +83,19 @@ La formazione approfondita del terzo e del quarto anno comprende le seguenti com
 - S1 creazione avanzata mediante CAD;
 - S2 elaborazione CAM;
 - S3 costruzione di modelli per fonderia;
-- S5[^3-1] costruzione di stampi termici;
-- S5 costruzione di forme per imbutitura;
-- S6 costruzione di modelli architettonici;
-- S7 costruzione di prototipi;
-- S8 prototipazione rapida;
-- S9 costruzione di stampi per iniezione;
-- S10 costruzione di dispositivi speciali;
-- S11 costruzione di forme per colata centrifuga;
-- S12 costruzione di stampi;
-- S13 costruzione di armature;
-- S14 costruzione di oggetti;
-- S15 sviluppo, prove, campioni;
-- S16 costruzione di attrezzi speciali su ordinazione;
-- S17 costruzione di forme composite;
-- S18 ingegnerizzazione;
-- S19 fabbricazione di parti composite.
+- S4 costruzione di modelli di design;
+- S5 costruzione di stampi termici;
+- S6 costruzione di prototipi;
+- S7 prototipazione rapida / produzione additiva;
+- S8 costruzione di dispositivi e attrezzature speciali;
+- S9 costruzione di stampi;
+- S10 sviluppo, prove, campioni;
+- S11 costruzione di forme composite e fabbricazione di pezzi.[^3-1]
 
-<sup>5</sup> Nella formazione approfondita, ogni persona in formazione deve sviluppare almeno una delle competenze da S3–S19. A tale riguardo, si avvale a titolo complementare delle competenze S1 e S2.
+<sup>5</sup> Nella formazione approfondita, ogni persona in formazione deve sviluppare almeno una delle competenze da S3–S11. A tale riguardo, si avvale a titolo complementare delle competenze S1 e S2.[^3-2]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^3-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^3-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
 
@@ -127,9 +123,11 @@ La formazione approfondita del terzo e del quarto anno comprende le seguenti com
 
 <sup>1</sup> La formazione professionale pratica si svolge in media su 3,5 giorni alla settimana per tutta la durata della formazione professionale di base.
 
-<sup>2</sup> L’insegnamento scolastico obbligatorio comprende 2360 lezioni. Di queste, 240 sono dedicate all’insegnamento dello sport.
+<sup>2</sup> L’insegnamento scolastico obbligatorio comprende 2120 lezioni. Di queste, 200 sono dedicate all’insegnamento dello sport.[^5-1]
 
 <sup>3</sup> I corsi interaziendali hanno una durata complessiva minima di 26 e massima di 30 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 6
 
@@ -147,7 +145,7 @@ La formazione approfondita del terzo e del quarto anno comprende le seguenti com
 
 **Piano di formazione**[^7-1]
 
-<sup>1</sup> Al momento dell’entrata in vigore della presente ordinanza è disponibile un piano di formazione emanato dalla competente organizzazione del mondo del lavoro e approvato dalla SEFRI.
+<sup>1</sup> All’entrata in vigore della presente ordinanza è disponibile un piano di formazione[^7-2] della competente organizzazione del mondo del lavoro.[^7-3]
 
 <sup>2</sup>
 
@@ -158,10 +156,12 @@ Il piano di formazione:
 - c. designa l’ente responsabile dei corsi interaziendali e definisce l’organizzazione dei corsi e la loro ripartizione sulla durata della formazione professionale di base;
 - d. rapporta coerentemente le competenze operative alle procedure di qualificazione, di cui precisa le modalità.
 
-<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^7-2]
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti. [^7-4]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^7-2]: Nuovo testo giusta il n. III 25 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Il piano del 1° giu. 2021 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A‒Z.
+[^7-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^7-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 8
 
@@ -171,19 +171,26 @@ Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 
 
 [^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
+## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
+
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 9
 
-**Requisiti professionali minimi richiesti ai formatori**
+**Requisiti professionali richiesti ai formatori[^9-1]**
 
-I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere a e b OFPr sono soddisfatti se il formatore possiede una delle seguenti qualifiche:
+Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:[^9-2]
 
 - a. attestato federale di capacità di costruttore di modelli e stampi e almeno due anni di esperienza professionale nel campo d’insegnamento;
 - b. attestato federale di capacità di modellista tecnico qualificato e almeno due anni di esperienza professionale nel campo d’insegnamento;
 - c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività del costruttore di modelli e stampi AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - d. diploma di formazione professionale superiore in ambito pertinente;
 - e. diploma di una scuola universitaria professionale in ambito pertinente e almeno due anni di esperienza professionale nel campo d’insegnamento.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^9-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 10
 
@@ -204,18 +211,25 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
 [^10-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^10-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
-## Sezione 7: Documentazione dell’apprendimento e delle prestazioni
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
+
+[^sec7-1]
+
+[^sec7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 11
 
-**Documentazione dell’apprendimento in azienda[^11-1]**
+**Documentazione dell’apprendimento[^11-1]**
 
 <sup>1</sup> La persona in formazione tiene una documentazione dell’apprendimento, in cui annota regolarmente i principali lavori eseguiti, le capacità acquisite e le esperienze fatte in azienda.
 
-<sup>2</sup> e <sup>3</sup> ...[^11-2]
+<sup>2</sup> Almeno una volta al semestre il formatore controlla e firma la documentazione dell’apprendimento e la discute con la persona in formazione.[^11-2]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^11-2]: Abrogati dal n. I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+<sup>3</sup> ...[^11-3]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^11-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^11-3]: Abrogato dal n. I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
 #### Art. 11a
 
@@ -256,9 +270,11 @@ Gli operatori della formazione scolastica e della formazione di base organizzata
 
 #### Art. 14
 
-**Oggetto**
+**Oggetto**[^14-1]
 
-Nelle procedure di qualificazione si deve dimostrare di aver acquisito le competenze operative di cui all’articolo 3 capoversi 3–4.
+Nelle procedure di qualificazione si deve dimostrare di aver acquisito le competenze operative di cui all’articolo 3.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 15
 
@@ -270,13 +286,22 @@ Nelle procedure di qualificazione si deve dimostrare di aver acquisito le compet
 
 L’esame finale valuta i campi di qualificazione sotto elencati nel modo seguente:
 
-- a. «lavoro pratico», sotto forma di lavoro pratico individuale della durata da 36–120 ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame verte sulla competenza di base B4, sulle competenze S1 e S2 e su una delle competenze S3–S19 della formazione approfondita di cui all’articolo 3 capoverso 4. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+- a.[^15-2] «lavoro pratico», sotto forma di lavoro pratico individuale della durata da
+
+  36–120 ore; vale quanto segue:
+
+  - 1\. l’esame ha luogo verso la fine della formazione professionale di base,
+  - 2\. l’esame verte sulla competenza di base B4, sulle competenze S1 e S2 e su un’altra competenza sviluppata nella formazione approfondita,
+  - 3\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione,
+  - 4\. è ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+
 - b. «conoscenze professionali», della durata da quattro a cinque ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame si svolge in forma scritta;
-- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^15-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^15-3] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 - [tab] <sup>3</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
 [^15-1]: Abrogato dal n. I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^15-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^15-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^15-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 16
 
@@ -295,7 +320,7 @@ La procedura di qualificazione con esame finale è superata se:
 Per nota relativa all’insegnamento professionale si intende la media arrotondata al punto o al mezzo punto delle seguenti note:
 
 - a. la media arrotondata al punto o al mezzo punto delle otto note delle pagelle semestrali della materia «meccanica»;
-- b. la media arrotondata al punto o al mezzo punto delle quattro note delle pagelle semestrali della materia «costruzione di stampi».[^16-3]
+- b.[^16-3] la media arrotondata al punto o al mezzo punto delle otto note delle pagelle semestrali della materia «costruzione di stampi».[^16-4]
 
 <sup>3</sup>
 
@@ -304,12 +329,13 @@ La nota complessiva è data dalla media, arrotondata a un decimale, delle note d
 - a. lavoro pratico: 40 per cento;
 - b. conoscenze professionali: 20 per cento;
 - c. cultura generale: 20 per cento;
-- d. nota relativa all’insegnamento professionale: 20 per cento.[^16-4]
+- d. nota relativa all’insegnamento professionale: 20 per cento.[^16-5]
 
 [^16-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^16-2]: Abrogata dal n. I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^16-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^16-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 [^16-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^16-5]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
 #### Art. 17
 
@@ -347,41 +373,48 @@ Per il calcolo della nota complessiva valgono le note sotto elencate con la segu
 
 <sup>3</sup>
 
-Se l’attestato federale di capacità è stato conseguito mediante procedura di qualificazione con esame finale, nel certificato delle note sono riportate:
+Se l’attestato federale di capacità è stato conseguito mediante procedura di qualificazione con esame finale, nel certificato delle note sono riportate:[^19-2]
 
 - a. la nota complessiva;
-- b. la nota dell’esame parziale, le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 18 capoverso 1, la nota relativa all’insegnamento professionale.
+- b.[^19-3] le note di ogni campo di qualificazione dell’esame finale e, fatto salvo l’articolo 18 capoverso 1, la nota relativa all’insegnamento professionale.
 
 [^19-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^19-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^19-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
-## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità
+## Sezione 10: Sviluppo della qualità e organizzazione
+
+[^sec10-1]
+
+[^sec10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 20
 
 <sup>1</sup>
 
-La Commissione svizzera per lo sviluppo professionale e la qualità ha la seguente composizione:
+Commissione svizzera per lo sviluppo professionale e la qualità della formazione dei costruttori di modelli e stampi AFC è composta da:
 
-- a. da quattro a sei rappresentanti dei docenti dell’associazione SWISS FORM;
+- a. da quattro a sei rappresentanti di «SWISS FORM Verband Schweizerischer Modellbaubetriebe»;
 - b. un rappresentante dei docenti di materie professionali;
-- c. almeno un rappresentante, rispettivamente, della Confederazione e dei Cantoni.
+- c. almeno un rappresentante della Confederazione e almeno uno dei Cantoni.
 
-<sup>2</sup> Le regioni linguistiche devono essere adeguatamente rappresentate.
+<sup>2</sup>
 
-<sup>3</sup> La Commissione non rientra nel campo d’applicazione dell’ordinanza del 3 giugno 1996[^20-1] sulle commissioni. Essa si autocostituisce.
+Per la composizione della Commissione vale inoltre quanto segue:
+
+- a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+- b. le regioni linguistiche sono adeguatamente rappresentate.
+
+<sup>3</sup> La Commissione si autocostituisce.
 
 <sup>4</sup>
 
-La Commissione svolge in particolare i seguenti compiti:
+Essa svolge in particolare i compiti seguenti:
 
-- a. verifica costantemente, ma almeno ogni cinque anni, l’ordinanza sulla formazione professionale di base e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici. Nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
-- b. chiede alla competente organizzazione del mondo del lavoro di presentare alla SEFRI una domanda di modifica dell’ordinanza sulla formazione professionale di base, qualora gli sviluppi osservati lo rendano necessario;
-- c. chiede all’organizzazione del mondo del lavoro l’adeguamento del piano di formazione, qualora gli sviluppi osservati lo rendano necessario;
-- d. esprime un parere riguardo agli strumenti per la validazione degli apprendimenti acquisiti;
-- e. esprime un parere riguardo agli strumenti per la promozione della qualità della formazione professionale di base, in particolare sulle disposizioni esecutive concernenti le procedure di qualificazione.[^20-2]
-
-[^20-1]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)n. II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]
-[^20-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+- a. verifica almeno ogni cinque anni la presente ordinanza e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici; nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
+- b. se osserva sviluppi che richiedono una modifica della presente ordinanza, chiede all’organizzazione del mondo del lavoro competente di proporre alla SEFRI la corrispondente modifica;
+- c. se osserva sviluppi che richiedono una modifica del piano di formazione, presenta all’organizzazione del mondo del lavoro competente una proposta di adeguamento del piano di formazione;
+- d. esprime un parere riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
 
 ## Sezione 11: Disposizioni finali
 
@@ -418,6 +451,18 @@ Sono abrogati:
 <sup>2</sup> Chi ripete l’esame finale di costruttore di modelli e stampi AFC entro il 31 dicembre 2021 viene valutato, su richiesta, in base al diritto anteriore.
 
 [^22a-1]: Introdotto dal n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+
+#### Art. 22b
+
+**Disposizioni transitorie della modifica del 1° giugno 2021**[^22b-1]
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di costruttore di modelli e stampi AFC prima dell’entrata in vigore della modifica del 1° giugno 2021, la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2026.
+
+<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per costruttore di modelli e stampi AFC entro il 31 dicembre 2026 viene valutato, su richiesta, in base al diritto anteriore.
+
+<sup>3</sup> Le modifiche delle disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 14*–*19) si applicano dal 1° gennaio 2025.
+
+[^22b-1]: Introdotto dal n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 23
 

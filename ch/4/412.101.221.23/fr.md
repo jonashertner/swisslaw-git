@@ -3,18 +3,18 @@ sr: "412.101.221.23"
 title: Ordonnance du SEFRI du 30 octobre 2009 sur la formation professionnelle initiale de mouleuse/mouleur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/819"
 language: fr
-version: 2018-01-01
+version: 2021-07-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-819-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-819-20210701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale de mouleuse/mouleur avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale de mouleuse/mouleur avec certificat fédéral de capacité (CFC)\*
 
-du 30 octobre 2009 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 30 octobre 2009 (État le 1<sup>er</sup> juillet 2021)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -26,7 +26,7 @@ Le Secrétariat d’État à la formation, à la recherche et à l’innovation 
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -41,10 +41,13 @@ arrête:*[^ingress-4]*
 
 Les mouleurs de niveau CFC maîtrisent notamment les activités suivantes et se distinguent par les comportements ci-après:
 
-- a. ils fabriquent des moules et des modèles pour différentes techniques et applications;
-- b. ils conçoivent des moules et des modèles et les réalisent manuellement ou mécaniquement; ils utilisent à cette fin la CAO et la FAO avec une approche ciblée et globale;
+- a.[^1-1] ils fabriquent des moules, des modèles et des outils pour différentes techniques de production;
+- b.[^1-2] ils fabriquent des prototypes et produisent des pièces composées de matières diverses pour toutes sortes d’applications; ils conçoivent les produits et les réalisent manuellement ou mécaniquement; ils utilisent à cette fin des technologies numériques telles que la conception assistée par ordinateur (CAO) et la fabrication assistée par ordinateur (FAO) avec une approche ciblée tout en considérant la globalité des aspects;
 - c. ils pensent et agissent en fonction des désirs des clients et dans une optique économique; ils élaborent des solutions transversales; ils exécutent les mandats et les projets qui leur ont été confiés de manière systématique et autonome;
 - d. ils travaillent en respectant les principes de la sécurité au travail, de la protection de la santé et de la protection de l’environnement.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 2
 
@@ -79,28 +82,21 @@ Lors de la première et de la deuxième année, la formation de base comprend le
 
 Lors de la troisième et de la quatrième année, la formation approfondie comprend les compétences suivantes:
 
-- a1 maîtrise de la CAO;
-- a2 utilisation de l’outil FAO;
-- a3 modèles pour les fonderies;
-- a4 modèles pour les designers;
-- a5[^3-1] thermomoulage;
-- a6 modèles pour l’architecture;
-- a7 fabrication de prototypes;
-- a8 prototypage rapide;
-- a9 moules d’injection;
-- a10 fabrication de gabarits;
-- a11 moules rotatifs;
-- a12 fabrication de matrices;
-- a13 coffrage;
-- a14 réalisation d’objets;
-- a15 développement, essais et échantillonnage;
-- a16 réalisation de formes spécifiques aux clients;
-- a17 moules en matière composite;
-- a18 ingénierie;
-- a19 réalisation de pièces en matière composite.
-- [tab] <sup>5</sup> Durant la formation approfondie, chaque personne en formation acquiert au moins une compétence choisie parmi les compétences a3 à a19. Elle intègre à cette fin les compétences a1 et a2.
+- S1 conception CAO étendue;
+- S2 traitement par FAO;
+- S3 modèles pour les fonderies;
+- S4 modèles pour les designers;
+- S5 thermomoulage;
+- S6 fabrication de prototypes;
+- S7 prototypage rapide / fabrication additive;
+- S8 fabrication de gabarits et d’outillages spécialisés;
+- S9 fabrication de matrices;
+- S10 développements, essais et échantillonnage;
+- S11 modèles en matière composite et réalisation de pièces.[^3-1]
+- [tab] <sup>5</sup> Durant la formation approfondie, chaque personne en formation acquiert au moins une compétence choisie parmi les compétences S3 à S11. Elle intègre à cette fin les compétences S1 et S2.[^3-2]
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 ## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
 
@@ -128,9 +124,11 @@ Lors de la troisième et de la quatrième année, la formation approfondie compr
 
 <sup>1</sup> La formation à la pratique professionnelle s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 3 jours et demi par semaine.
 
-<sup>2</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 2360 périodes d’enseignement. Parmi celles-ci, 240 périodes sont consacrées à l’enseignement du sport.
+<sup>2</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 2120 périodes d’enseignement. Parmi celles-ci, 200 périodes sont consacrées à l’enseignement du sport.[^5-1]
 
 <sup>3</sup> Les cours interentreprises comprennent au total 26 jours de cours au minimum et 30 au maximum, à raison de 8 heures de cours par jour. Durant le dernier semestre de la formation professionnelle initiale, aucun cours interentreprises n’a lieu.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 6
 
@@ -148,7 +146,7 @@ Lors de la troisième et de la quatrième année, la formation approfondie compr
 
 **Plan de formation**[^7-1]
 
-<sup>1</sup> Un plan de formation, édicté par l’organisation compétente du monde du travail et approuvé par le SEFRI, est disponible au moment de l’entrée en vigueur de la présente ordonnance.
+<sup>1</sup> Un plan de formation[^7-2] édicté par l’organisation du monde du travail compétente est disponible à l’entrée en vigueur de la présente ordonnance.[^7-3]
 
 <sup>2</sup>
 
@@ -159,10 +157,12 @@ Le plan de formation:
 - c. désigne l’organe responsable des cours interentreprises et définit l’organisation des cours ainsi que leur répartition sur la durée de la formation professionnelle initiale;
 - d. établit un rapport direct entre les compétences opérationnelles et la procédure de qualification et décrit les modalités de cette dernière.
 
-<sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à promouvoir la qualité de la formation professionnelle initiale avec indication des sources.[^7-2]
+<sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, avec indication du nom de l’organisme auprès duquel ils peuvent être obtenus.[^7-4]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^7-2]: Nouvelle teneur selon le ch. III 25 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Le plan de formation du 1<sup>er</sup> juin 2021 est disponible dans la liste des professions du SEFRI à l’adresse suivante: www.bvz.admin.ch &gt; Professions A–Z.
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 8
 
@@ -172,19 +172,26 @@ L’enseignement de la culture générale est régi par l’ordonnance du SEFRI 
 
 [^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
+## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
+
+[^sec6-1]
+
+[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 9
 
-**Exigences minimales posées aux formateurs**
+**Exigences posées aux formateurs[^9-1]**
 
-Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, let. a et b, OFPr, sont remplies par:
+Les personnes ci-après remplissent les exigences posées aux formateurs:[^9-2]
 
 - a. les mouleurs CFC justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation;
 - b. les modeleurs techniques qualifiés justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation;
 - c. les personnes de professions apparentées titulaires d’un CFC et justifiant des connaissances professionnelles requises propres aux mouleurs CFC et d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation;
 - d. les personnes titulaires d’un titre correspondant de la formation professionnelle supérieure;
 - e. les personnes titulaires d’un diplôme correspondant d’une haute école spécialisée et justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 10
 
@@ -205,7 +212,11 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^10-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
-## Section 7 Dossier de formation et dossier des prestations
+## Section 7 Dossier de formation, rapport de formation et dossier des prestations
+
+[^sec7-1]
+
+[^sec7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 11
 
@@ -213,10 +224,13 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 <sup>1</sup> La personne en formation constitue un dossier de formation dans lequel elle inscrit au fur et à mesure les travaux importants accomplis ainsi que les compétences et l’expérience acquises dans l’entreprise.
 
-<sup>2</sup> et <sup>3</sup> …[^11-2]
+<sup>2</sup> Au moins une fois par semestre, le formateur contrôle et signe le dossier de formation et en discute avec la personne en formation.[^11-2]
+
+<sup>3</sup> …[^11-3]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^11-2]: Abrogés par le ch. I de l’O du SEFRI du 22 fév. 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^11-3]: Abrogé par le ch. I de l’O du SEFRI du 22 fév. 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
 #### Art. 11a
 
@@ -260,9 +274,11 @@ Est admise aux procédures de qualification la personne qui a suivi la formation
 
 #### Art. 14
 
-**Objet des procédures de qualification**
+**Objet**[^14-1]
 
-Les procédures de qualification visent à démontrer que les compétences décrites à l’art. 3, al. 3 et 4, ont été acquises.
+Les procédures de qualification visent à démontrer que les compétences décrites à l’art. 3 ont été acquises.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 15
 
@@ -274,13 +290,22 @@ Les procédures de qualification visent à démontrer que les compétences décr
 
 L’examen final porte sur les domaines de qualification ci-après selon les modalités suivantes:
 
-- a. travail pratique sous la forme d’un travail pratique individuel (TPI) d’une durée de 36 à 120 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. L’examen concerne la compétence b4 de la formation de base, les compétences a1 et a2 et une compétence choisie parmi les compétences a3 à a19 de la formation approfondie mentionnées à l’art 3, al. 4. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
+- a.[^15-2]
+
+  travail pratique sous la forme d’un travail pratique individuel (TPI) d’une durée de 36 à 120 heures; les règles suivantes s’appliquent:
+
+  - 1\. ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
+  - 2\. l’examen concerne la compétence b4 de la formation de base, les compétences S1 et S2 et une autre compétence acquise durant la formation approfondie,
+  - 3\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation,
+  - 4\. le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
+
 - b. connaissances professionnelles d’une durée de 4 à 5 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit un examen écrit;
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^15-2].
+- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^15-3].
 - [tab] <sup>3</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
 [^15-1]: Abrogé par le ch. I de l’O du SEFRI du 22 fév. 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^15-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^15-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 16
 
@@ -299,7 +324,7 @@ La procédure de qualification avec examen final est réussie si:
 La note d’expérience correspond à la moyenne, arrondie à une note entière ou à une demi-note, des notes ci-après:
 
 - a. la moyenne, arrondie à une note entière ou à une demi-note, des huit notes du domaine d’enseignement «mécanique» figurant dans les bulletins semestriels;
-- b. la moyenne, arrondie à une note entière ou à une demi-note, des quatre notes du domaine d’enseignement «moulage» figurant dans les bulletins semestriels.[^16-3]
+- b.[^16-3] la moyenne, arrondie à une note entière ou à une demi-note, des huit notes du domaine d’enseignement «moulage» figurant dans les bulletins semestriels.[^16-4]
 
 <sup>3</sup>
 
@@ -308,12 +333,13 @@ La note globale correspond à la moyenne, arrondie à la première décimale, de
 - a. travail pratique: 40 %;
 - b. connaissances professionnelles: 20 %;
 - c. culture générale: 20 %;
-- d. note d’expérience: 20 %.[^16-4]
+- d. note d’expérience: 20 %.[^16-5]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^16-2]: Abrogée par le ch. I de l’O du SEFRI du 22 fév. 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^16-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 [^16-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^16-5]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
 #### Art. 17
 
@@ -351,41 +377,48 @@ Pour le calcul de la note globale, les notes sont pondérées de la manière sui
 
 <sup>3</sup>
 
-Si le CFC a été obtenu par le biais de la procédure de qualification avec examen final, le bulletin de notes mentionne:
+Si le CFC a été obtenu selon la procédure de qualification avec examen final, le bulletin de notes mentionne:[^19-2]
 
 - a. la note globale;
-- b. la note de l’examen partiel, les notes de chaque domaine de qualification de l’examen final et, sous réserve de l’art. 18, al. 1, la note d’expérience.
+- b.[^19-3] les notes de chaque domaine de qualification de l’examen final et, sous réserve de l’art. 18, al. 1, la note d’expérience.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
-## Section 10 Commission suisse pour le développement professionnel et la qualité
+## Section 10 Développement de la qualité et organisation
+
+[^sec10-1]
+
+[^sec10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 20
 
 <sup>1</sup>
 
-La Commission suisse pour le développement professionnel et la qualité (commission) comprend:
+La Commission suisse pour le développement de la profession et la qualité de la formation des mouleurs CFC (commission) comprend:
 
-- a. quatre à six représentants de SWISS FORM;
-- b. un représentant du corps des enseignants spécialisés;
-- c. au moins un représentant de la Confédération et au moins un représentant des cantons.
+- a. 4 à 6 représentants de l’association SWISS FORM Verband Schweizerischer Modellbaubetriebe;
+- b. 1 représentant des enseignants des connaissances professionnelles;
+- c. au moins 1 représentant de la Confédération et au moins 1 représentant des cantons.
 
-<sup>2</sup> Les régions linguistiques sont représentées équitablement.
+<sup>2</sup>
 
-<sup>3</sup> La commission ne relève pas du champ d’application de l’ordonnance du 3 juin 1996 sur les commissions[^20-1]. Elle s’auto-constitue.
+La composition de la commission doit également:
+
+- a. tendre à une représentation paritaire des sexes;
+- b. garantir une représentation équitable des régions linguistiques.
+
+<sup>3</sup> La commission se constitue elle-même.
 
 <sup>4</sup>
 
-Elle est chargée notamment des tâches suivantes:
+Elle est notamment chargée des tâches suivantes:
 
-- a. examiner régulièrement, au moins tous les 5 ans, l’ordonnance et le plan de formation en fonction des développements économiques, technologiques, écologiques et didactiques; intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale;
-- b. demander à l’organisation du monde du travail compétente de proposer au SEFRI des modifications de l’ordonnance, pour autant que les développements constatés requièrent une adaptation de cette dernière;
-- c. proposer à l’organisation du monde du travail compétente de modifier le plan de formation, pour autant que les développements constatés requièrent une adaptation de ce dernier;
-- d. prendre position sur les instruments de validation des acquis de l’expérience;
-- e. prendre position sur les instruments servant à promouvoir la qualité de la formation professionnelle initiale, en particulier sur les dispositions d’exécution relatives aux procédures de qualification.[^20-2]
-
-[^20-1]: [[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)ch. II. [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]
-[^20-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+- a. examiner la présente ordonnance et le plan de formation au moins tous les 5 ans en fonction des développements économiques, technologiques, écologiques et didactiques; intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale;
+- b. identifier les développements qui requièrent une modification de l’ordonnance et demander à l’organisation du monde du travail compétente de proposer au SEFRI les modifications voulues;
+- c. identifier les développements qui requièrent une adaptation du plan de formation et proposer à l’organisation du monde du travail compétente d’effectuer les adaptations voulues;
+- d. prendre position sur les instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, en particulier les dispositions d’exécution relatives à la procédure de qualification avec examen final.
 
 ## Section 11 Dispositions finales
 
@@ -422,6 +455,18 @@ Sont abrogés:
 <sup>2</sup> Si elles en font la demande, les personnes qui répètent jusqu’au 31 décembre 2021 l’examen de fin d’apprentissage de mouleur CFC verront leurs prestations appréciées selon l’ancien droit.
 
 [^22a-1]: Introduit par le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+
+#### Art. 22b
+
+**Dispositions transitoires relatives à la modification 1<sup>er</sup> juin 2021**[^22b-1]
+
+<sup>1</sup> Les personnes qui ont commencé leur formation de mouleur CFC avant l’entrée en vigueur de la modification du 1<sup>er</sup> juin 2021 l’achèvent selon l’ancien droit, mais au plus tard le 31 décembre 2026.
+
+<sup>2</sup> Les candidats qui répètent la procédure de qualification avec examen final de mouleur CFC jusqu’au 31 décembre 2026 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont évalués selon le nouveau droit.
+
+<sup>3</sup> Les modifications des dispositions relatives aux procédures de qualification, au certificat et au titre (art. 14 à 19) sont applicables au 1<sup>er</sup> janvier 2025.
+
+[^22b-1]: Introduit par le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 23
 

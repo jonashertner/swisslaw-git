@@ -3,18 +3,18 @@ sr: "412.101.221.23"
 title: Verordnung des SBFI vom 30. Oktober 2009 über die berufliche Grundbildung Formenbauerin/Formenbauer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/819"
 language: de
-version: 2018-01-01
+version: 2021-07-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2009-819-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2009-819-20210701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Formenbauerin/Formenbauer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 30. Oktober 2009 (Stand am 1. Januar 2018)
+vom 30. Oktober 2009 (Stand am 1. Juli 2021)
 
 <table>
 <tr><td>30905</td><td>Formenbauerin EFZ/Formenbauer EFZ Mouleuse CFC/Mouleur CFC Costruttrice di modelli e stampi AFC/ Costruttore di modelli e stampi AFC</td></tr>
@@ -24,7 +24,7 @@ Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
 gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-4]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -39,10 +39,13 @@ verordnet:*[^ingress-4]*
 
 Formenbauerinnen auf Stufe EFZ/Formenbauer auf Stufe EFZ beherrschen namentlich folgende Tätigkeiten und zeichnen sich durch folgende Haltungen aus:
 
-- a. Sie stellen Formen und Modelle für verschiedene Verfahren und Anwendungen her.
-- b. Sie konstruieren Formen und Modelle und fertigen sie manuell oder maschinell an. Dabei setzen sie die Technik des CAD und CAM für die Konstruktion und Fertigung gezielt und umfassend ein.
-- c. Sie denken und handeln kundenorientiert und wirtschaftlich. Sie erarbeiten prozessübergreifende Lösungen. Ihre Aufträge und Projekte realisieren sie systematisch und selbständig.
+- a.[^1-1] Sie stellen Formen, Modelle und Werkzeuge für verschiedene Produktionsverfahren her.
+- b.[^1-2] Sie bauen Prototypen und produzieren Teile in unterschiedlichen Materialien für einen vielfältigen Anwendungsbereich; sie konstruieren die Produkte und fertigen sie manuell oder maschinell; dabei setzen sie digitale Technologien wie *Computer Aided Design* (CAD) und *Computer Aided Manufacturing* (CAM) für die Konstruktion und Fertigung gezielt und umfassend ein.
+- c. Sie denken und handeln kundenorientiert und wirtschaftlich; sie erarbeiten prozessübergreifende Lösungen; ihre Aufträge und Projekte realisieren sie systematisch und selbständig.
 - d. Sie beachten bei ihrer Tätigkeit die Grundsätze der Arbeitssicherheit, des Gesundheitsschutzes und des Umweltschutzes.
+
+[^1-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^1-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 2
 
@@ -75,31 +78,24 @@ Die Basisausbildung im ersten und zweiten Ausbildungsjahr umfasst folgende Kompe
 
 <sup>4</sup>
 
-Die Schwerpunktausbildung im dritten und vierten Ausbildungsjahr umfasst folgende Kompetenzen:
+Die Schwerpunktausbildung im dritten und vierten Ausbildungsjahr umfasst die folgenden Kompetenzen:
 
 - S1 erweiterte CAD-Konstruktion;
 - S2 CAM-Bearbeitung;
 - S3 Giessereimodellbau;
 - S4 Designmodellbau;
-- S5[^3-1] Thermoformenbau;
-- S6 Architekturmodellbau;
-- S7 Prototypenbau;
-- S8 Rapid Prototyping;
-- S9 Spritzgussformenbau;
-- S10 Vorrichtungsbau;
-- S11 Rotationsformenbau;
-- S12 Pressformenbau;
-- S13 Schalungsbau;
-- S14 Objektbau;
-- S15 Entwicklung, Versuche, Bemusterungen;
-- S16 kundenspezifischer, spezieller Werkzeugbau;
-- S17 Compositformenbau;
-- S18 Engineering;
-- S19 Composit-Teile-Fertigung.
+- S5 Thermoformenbau;
+- S6 Prototypenbau;
+- S7 Rapid Prototyping / Additive Manufacturing;
+- S8 Vorrichtungs- und Spezialwerkzeugbau;
+- S9 Pressformenbau;
+- S10 Entwicklung, Versuche, Bemusterungen;
+- S11 Composite-Formenbau und Teilefertigung.[^3-1]
 
-<sup>5</sup> In der Schwerpunktausbildung baut jede lernende Person mindestens eine Kompetenz aus S3–S19 auf. Dabei setzt sie die Kompetenzen S1 und S2 integrativ ein.
+<sup>5</sup> In der Schwerpunktausbildung baut jede lernende Person mindestens eine Kompetenz aus S3–S11 auf. Dabei setzt sie die Kompetenzen S1 und S2 integrativ ein.[^3-2]
 
-[^3-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^3-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^3-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 ## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
 
@@ -127,9 +123,11 @@ Die Schwerpunktausbildung im dritten und vierten Ausbildungsjahr umfasst folgend
 
 <sup>1</sup> Die Bildung in beruflicher Praxis erfolgt über die ganze Dauer der beruflichen Grundbildung im Durchschnitt an 3½ Tagen pro Woche.
 
-<sup>2</sup> Die schulische Bildung im obligatorischen Unterricht erfolgt in 2360 Lektionen. Davon entfallen auf den Sportunterricht 240 Lektionen.
+<sup>2</sup> Die schulische Bildung im obligatorischen Unterricht erfolgt in 2120 Lektionen. Davon entfallen auf den Sportunterricht 200 Lektionen.[^5-1]
 
 <sup>3</sup> Die überbetrieblichen Kurse umfassen insgesamt mindestens 26 und höchstens 30 Tage zu 8 Stunden. Im letzten Semester der beruflichen Grundbildung finden keine überbetrieblichen Kurse mehr statt.
+
+[^5-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 6
 
@@ -147,7 +145,7 @@ Die Schwerpunktausbildung im dritten und vierten Ausbildungsjahr umfasst folgend
 
 **Bildungsplan**[^7-1]
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan vor, der von der verantwortlichen Organisation der Arbeitswelt erlassen und vom SBFI genehmigt wird.
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan[^7-2] der zuständigen Organisation der Arbeitswelt vor.[^7-3]
 
 <sup>2</sup>
 
@@ -158,10 +156,12 @@ Der Bildungsplan hat folgenden Inhalt:
 - c. Er bezeichnet die Trägerschaft der überbetrieblichen Kurse und legt deren Organisation und Aufteilung über die Dauer der beruflichen Grundbildung fest.
 - d. Er bezieht die Handlungskompetenzen konsistent auf das Qualifikationsverfahren und beschreibt dessen System.
 
-<sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Förderung der Qualität der beruflichen Grundbildung mit Angabe der Bezugsquelle.[^7-2]
+<sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.[^7-4]
 
 [^7-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^7-2]: Fassung gemäss Ziff. III 25 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Der Bildungsplan vom 1. Juni 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe A–Z.
+[^7-3]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^7-4]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 8
 
@@ -171,19 +171,26 @@ Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. Apri
 
 [^8-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## 6. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
+## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 9
 
-**Fachliche Mindestanforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner[^9-1]**
 
-Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben a und b BBV an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
+Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:[^9-2]
 
 - a. Formenbauerin EFZ/Formenbauer EFZ mit mindestens 2 Jahren beruflicher Praxis im Lehrgebiet;
 - b. gelernte technische Modellbauerin/gelernter technischer Modellbauer mit mindestens 2 Jahren beruflicher Praxis im Lehrgebiet;
 - c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Formenbauerin EFZ/Formenbauers EFZ und mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
 - d. einschlägiger Abschluss der höheren Berufsbildung;
 - e. einschlägiger Abschluss einer Fachhochschule mit mindestens 2 Jahren beruflicher Praxis im Lehrgebiet.
+
+[^9-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^9-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 10
 
@@ -204,18 +211,25 @@ Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben 
 [^10-3]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^10-4]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
-## 7. Abschnitt: Lern- und Leistungsdokumentation
+## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentation
+
+[^sec7-1]
+
+[^sec7-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 11
 
-**Lerndokumentation im Betrieb [^11-1]**
+**Lerndokumentation[^11-1]**
 
 <sup>1</sup> Die lernende Person führt eine Lerndokumentation, in der sie laufend alle wesentlichen Arbeiten, die erworbenen Fähigkeiten und ihre Erfahrungen im Betrieb festhält.
 
-<sup>2 und 3</sup> …[^11-2]
+<sup>2</sup> Mindestens einmal pro Semester kontrolliert und unterzeichnet die Berufsbildnerin oder der Berufsbildner die Lerndokumentation und bespricht sie mit der lernenden Person.[^11-2]
 
-[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^11-2]: Aufgehoben durch Ziff. I der V des SBFI vom 22. Febr. 2016, mit Wirkung seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+<sup>3</sup> ...[^11-3]
+
+[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^11-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^11-3]: Aufgehoben durch Ziff. I der V des SBFI vom 22. Febr. 2016, mit Wirkung seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
 #### Art. 11a
 
@@ -259,27 +273,38 @@ Zu den Qualifikationsverfahren wird zugelassen, wer die berufliche Grundbildung 
 
 #### Art. 14
 
-**Gegenstand der Qualifikationsverfahren**
+**Gegenstand**[^14-1]
 
-In den Qualifikationsverfahren ist nachzuweisen, dass die Kompetenzen nach Artikel 3 Absätze 3 und 4 erworben worden sind.
+In den Qualifikationsverfahren ist nachzuweisen, dass die Kompetenzen nach Artikel 3 erworben worden sind.
+
+[^14-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 15
 
 **Umfang und Durchführung des Qualifikationsverfahrens mit Abschlussprüfung**
 
-<sup>1</sup> …[^15-1]
+<sup>1</sup> ...[^15-1]
 
 <sup>2</sup>
 
 In der Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie folgt geprüft:
 
-- a. Praktische Arbeit als individuelle praktische Arbeit (IPA) im Umfang von 36–120 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die Prüfung umfasst die Basiskompetenz B4, die beiden Kompetenzen S1 und S2 und eine Kompetenz aus S3–S19 der Schwerpunktausbildung gemäss Artikel 3 Absatz 4. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
+- a.[^15-2]
+
+  Praktische Arbeit als individuelle praktische Arbeit (IPA) im Umfang von 36–120 Stunden; dafür gilt Folgendes:
+
+  - 1\. dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft,
+  - 2\. die Prüfung umfasst die Basiskompetenz B4, die beiden Kompetenzen S1 und S2 sowie eine weitere für die Schwerpunktausbildung erworbene Kompetenz,
+  - 3\. die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen,
+  - 4\. die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden;
+
 - b. Berufskenntnisse im Umfang von 4–5 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person wird schriftlich geprüft.
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^15-2] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^15-3] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 - [tab] <sup>3</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^15-1]: Aufgehoben durch Ziff. I der V des SBFI vom 22. Febr. 2016, mit Wirkung seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^15-2]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^15-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^15-3]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 16
 
@@ -290,7 +315,7 @@ In der Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie fol
 Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
 
 - a.[^16-1] der Qualifikationsbereich «praktische Arbeit» mit der Note 4 oder höher bewertet wird; und
-- b.[^16-2] …
+- b.[^16-2] ...
 - c. die Gesamtnote 4 oder höher erreicht wird.
 
 <sup>2</sup>
@@ -298,7 +323,7 @@ Das Qualifikationsverfahren mit Abschlussprüfung ist bestanden, wenn:
 Die Erfahrungsnote ist das auf eine ganze oder halbe Note gerundete Mittel aus der Summe der folgenden Noten:
 
 - a. dem auf eine ganze oder halbe Note gerundeten Mittel der acht Semesterzeugnisnoten des Unterrichtsbereichs Mechanik;
-- b. dem auf eine ganze oder halbe Note gerundeten Mittel der vier Semesterzeugnisnoten des Unterrichtsbereichs Formenbau.[^16-3]
+- b.[^16-3] dem auf eine ganze oder halbe Note gerundeten Mittel der acht Semesterzeugnisnoten des Unterrichtsbereichs Formenbau.[^16-4]
 
 <sup>3</sup>
 
@@ -311,7 +336,8 @@ Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der
 
 [^16-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^16-2]: Aufgehoben durch Ziff. I der V des SBFI vom 22. Febr. 2016, mit Wirkung seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
-[^16-3]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^16-3]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^16-4]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
 #### Art. 17
 
@@ -331,7 +357,7 @@ Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der
 
 Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichtet:
 
-- a.[^18-1] …
+- a.[^18-1] ...
 - b.[^18-2] praktische Arbeit: 50 Prozent;
 - c. Berufskenntnisse: 30 Prozent;
 - d. Allgemeinbildung: 20 Prozent.
@@ -349,41 +375,48 @@ Für die Berechnung der Gesamtnote werden die einzelnen Noten wie folgt gewichte
 
 <sup>3</sup>
 
-Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung erworben worden, so wird im Notenausweis aufgeführt:
+Ist das Fähigkeitszeugnis mittels Qualifikationsverfahren mit Abschlussprüfung erworben worden, so werden im Notenausweis aufgeführt:[^19-2]
 
 - a. die Gesamtnote;
-- b. die Note der Teilprüfung, die Noten jedes Qualifikationsbereichs der Abschlussprüfung sowie, unter Vorbehalt von Artikel 18 Absatz 1, die Erfahrungsnote.
+- b.[^19-3] die Noten jedes Qualifikationsbereichs der Abschlussprüfung sowie, unter Vorbehalt von Artikel 18 Absatz 1, die Erfahrungsnote.
 
 [^19-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+[^19-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^19-3]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
-## 10. Abschnitt: Schweizerische Kommission für Berufsentwicklung und Qualität
+## 10. Abschnitt: Qualitätsentwicklung und Organisation
+
+[^sec10-1]
+
+[^sec10-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 20
 
 <sup>1</sup>
 
-Die Schweizerische Kommission für Berufsentwicklung und Qualität setzt sich zusammen aus:
+Die Schweizerische Kommission für Berufsentwicklung und Qualität für Formenbauerinnen und Formenbauer EFZ setzt sich zusammen aus:
 
-- a. 4–6 Vertreterinnen oder Vertretern der SWISS FORM;
-- b. 1 Vertreterin oder Vertreter der Fachlehrerschaft;
-- c. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
+- a. vier bis sechs Vertreterinnen oder Vertretern von «SWISS FORM Verband Schweizerischer Modellbaubetriebe»;
+- b. einer Vertreterin oder einem Vertreter der Fachlehrerschaft;
+- c. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.
 
-<sup>2</sup> Die Sprachregionen müssen gebührend vertreten sein.
+<sup>2</sup>
 
-<sup>3</sup> Die Kommission fällt nicht in den Geltungsbereich der Kommissionenverordnung vom 3. Juni 1996[^20-1]. Sie konstituiert sich selbst.
+Für die Zusammensetzung gilt überdies:
+
+- a. Eine paritätische Vertretung beider Geschlechter ist anzustreben.
+- b. Die Sprachregionen müssen gebührend vertreten sein.
+
+<sup>3</sup> Die Kommission konstituiert sich selbst.
 
 <sup>4</sup>
 
 Sie hat insbesondere folgende Aufgaben:
 
-- a. Sie überprüft die Bildungsverordnung und den Bildungsplan laufend, mindestens aber alle fünf Jahre, auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen. Dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung.
-- b. Sie ersucht die zuständige Organisation der Arbeitswelt, dem SBFI Änderungen der Verordnung zu beantragen, sofern die beobachteten Entwicklungen eine Änderung der Verordnung erfordern.
-- c. Sie stellt der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans, sofern die beobachteten Entwicklungen eine Anpassung des Bildungsplans erfordern.
-- d. Sie nimmt Stellung zu den Instrumenten für die Validierung von Bildungsleistungen.
-- e. Sie nimmt Stellung zu Instrumenten zur Förderung der Qualität der beruflichen Grundbildung, insbesondere zu den Ausführungsbestimmungen über die Qualifikationsverfahren.[^20-2]
-
-[^20-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)Ziff. II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1].
-[^20-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+- a. Sie überprüft diese Verordnung und den Bildungsplan mindestens alle fünf Jahre auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen; dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung.
+- b. Beobachtet sie Entwicklungen, die eine Änderung dieser Verordnung erfordern, so ersucht sie die zuständige Organisation der Arbeitswelt, dem SBFI die entsprechende Änderung zu beantragen.
+- c. Beobachtet sie Entwicklungen, die eine Anpassung des Bildungsplans erfordern, so stellt sie der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans.
+- d. Sie nimmt Stellung zu den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung.
 
 ## 11. Abschnitt: Schlussbestimmungen
 
@@ -419,6 +452,18 @@ Es werden aufgehoben:
 <sup>2</sup> Wer die Lehrabschlussprüfung für Formenbauerin EFZ/Formenbauer EFZ bis zum 31. Dezember 2021 wiederholt, kann verlangen, nach bisherigem Recht beurteilt zu werden.
 
 [^22a-1]: Eingefügt durch Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
+
+#### Art. 22b
+
+**Übergangsbestimmungen zur Änderung vom 1. Juni 2021**[^22b-1]
+
+<sup>1</sup> Lernende, die ihre Bildung als Formenbauerin oder Formenbauer EFZ vor dem Inkrafttreten der Änderung vom 1. Juni 2021 begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2026.
+
+<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Formenbauerin oder Formenbauer EFZ bis zum 31. Dezember 2026 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+
+<sup>3</sup> Die Änderungen der Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 14*–*19) kommen ab dem 1. Januar 2025 zur Anwendung.
+
+[^22b-1]: Eingefügt durch Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 23
 
