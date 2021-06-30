@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 10. Oktober 1997 über die Bekämpfung der Geldwäscher
 short: GwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: de
-version: 2020-02-18
+version: 2021-07-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20200218/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20200218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20200218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20200218/de"
 
 (Geldwäschereigesetz, GwG)**[^t-1]**
 
-vom 10. Oktober 1997 (Stand am 18. Februar 2020)
+vom 10. Oktober 1997 (Stand am 1. Juli 2021)
 
 [^t-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -200,17 +200,18 @@ Der Finanzintermediär muss von der Vertragspartei eine schriftliche Erklärung 
 Der Finanzintermediär muss die Hintergründe und den Zweck einer Transaktion oder einer Geschäftsbeziehung abklären, wenn:
 
 - a. die Transaktion oder die Geschäftsbeziehung ungewöhnlich erscheinen, es sei denn, ihre Rechtmässigkeit ist erkennbar;
-- b. Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB[^6-2] herrühren, der Verfügungsmacht einer kriminellen Organisation (Art. 260<sup>ter</sup> Ziff. 1 StGB) unterliegen oder der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen;
+- b.[^6-2] Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB[^6-3] herrühren, der Verfügungsmacht einer kriminellen oder terroristischen Organisation (Art. 260<sup>ter</sup> StGB) unterliegen oder der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen;
 - c. die Transaktion oder die Geschäftsbeziehung mit einem erhöhten Risiko behaftet ist;
-- d.[^6-3] die Daten einer Vertragspartei, einer wirtschaftlich berechtigten oder einer zeichnungsberechtigten Person einer Geschäftsbeziehung oder einer Transaktion mit den Daten übereinstimmen, welche dem Finanzintermediär durch die FINMA nach Artikel 22*a* Absatz 2 Buchstabe a, durch eine Aufsichtsorganisation nach Artikel 22*a* Absatz 2 Buchstabe b, durch eine Selbstregulierungsorganisation nach Artikel 22*a* Absatz 2 Buchstabe c oder durch die ESBK nach Artikel 22*a* Absatz 3 weitergeleitet wurden, oder diesen Daten sehr ähnlich sind.
+- d.[^6-4] die Daten einer Vertragspartei, einer wirtschaftlich berechtigten oder einer zeichnungsberechtigten Person einer Geschäftsbeziehung oder einer Transaktion mit den Daten übereinstimmen, welche dem Finanzintermediär durch die FINMA nach Artikel 22*a* Absatz 2 Buchstabe a, durch eine Aufsichtsorganisation nach Artikel 22*a* Absatz 2 Buchstabe b, durch eine Selbstregulierungsorganisation nach Artikel 22*a* Absatz 2 Buchstabe c oder durch die ESBK nach Artikel 22*a* Absatz 3 weitergeleitet wurden, oder diesen Daten sehr ähnlich sind.
 
 <sup>3</sup> Geschäftsbeziehungen zu ausländischen politisch exponierten Personen sowie zu ihnen nahestehenden Personen im Sinne von Artikel 2*a* Absatz 2 gelten in jedem Fall als Geschäftsbeziehung mit erhöhtem Risiko.
 
 <sup>4</sup> Geschäftsbeziehungen zu inländischen politisch exponierten Personen und politisch exponierten Personen bei internationalen Organisationen sowie zu ihnen nahestehenden Personen im Sinne von Artikel 2*a* Absatz 2 gelten im Zusammenhang mit einem oder mehreren weiteren Risikokriterien als Geschäftsbeziehungen mit erhöhtem Risiko.
 
 [^6-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^6-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^6-3]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^6-2]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^6-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^6-4]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 7
 
@@ -259,7 +260,7 @@ Händlerinnen und Händler nach Artikel 2 Absatz 1 Buchstabe b müssen folgende 
 Sie müssen die Hintergründe und den Zweck eines Geschäfts abklären, wenn:
 
 - a. es ungewöhnlich erscheint, es sei denn, seine Rechtmässigkeit ist erkennbar;
-- b. Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB[^8a-1] herrühren oder der Verfügungsmacht einer kriminellen Organisation (Art. 260<sup>ter</sup> Ziff. 1 StGB) unterliegen.
+- b.[^8a-1] Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB[^8a-2] herrühren, der Verfügungsmacht einer kriminellen oder terroristischen Organisation (Art. 260<sup>ter</sup> StGB) unterliegen oder der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.
 
 <sup>3</sup> Sie unterstehen den Pflichten nach den Absätzen 1 und 2 auch dann, wenn die Barzahlung in mehreren Tranchen erfolgt und die einzelnen Tranchen unter 100 000 Franken liegen, zusammengezählt diesen Betrag jedoch überschreiten.
 
@@ -267,7 +268,8 @@ Sie müssen die Hintergründe und den Zweck eines Geschäfts abklären, wenn:
 
 <sup>5</sup> Der Bundesrat konkretisiert die Pflichten nach den Absätzen 1 und 2 und legt fest, wie diese zu erfüllen sind.
 
-[^8a-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^8a-1]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^8a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ### 2. Abschnitt: Pflichten bei Geldwäschereiverdacht
 
@@ -283,32 +285,38 @@ Ein Finanzintermediär muss der Meldestelle für Geldwäscherei nach Artikel 23 
 
   weiss oder den begründeten Verdacht hat, dass die in die Geschäftsbeziehung involvierten Vermögenswerte:
 
-  - 1\. im Zusammenhang mit einer strafbaren Handlung nach Artikel 260<sup>ter</sup> Ziffer 1 oder 305<sup>bis</sup> StGB[^9-1] stehen,
-  - 2\.[^9-2] aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren,
-  - 3\. der Verfügungsmacht einer kriminellen Organisation unterliegen, oder
+  - 1\.[^9-1] 1. im Zusammenhang mit einer strafbaren Handlung nach Artikel 260<sup>ter</sup> oder 305<sup>bis</sup> StGB[^9-2] stehen,
+  - 2\.[^9-3] aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren,
+  - 3\.[^9-4] der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen, oder
   - 4\. der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen;
 
 - b. Verhandlungen zur Aufnahme einer Geschäftsbeziehung wegen eines begründeten Verdachts nach Buchstabe a abbricht;
-- c.[^9-3] aufgrund der nach Artikel 6 Absatz 2 Buchstabe d durchgeführten Abklärungen weiss oder Grund zur Annahme hat, dass die von der FINMA, der ESBK, einer Aufsichtsorganisation oder einer Selbstregulierungsorganisation weitergeleiteten Daten einer Person oder Organisation den Daten eines Vertragspartners, einer wirtschaftlich berechtigten oder einer zeichnungsberechtigten Person einer Geschäftsbeziehung oder einer Transaktion entsprechen.[^9-4]
+- c.[^9-5] aufgrund der nach Artikel 6 Absatz 2 Buchstabe d durchgeführten Abklärungen weiss oder Grund zur Annahme hat, dass die von der FINMA, der ESBK, einer Aufsichtsorganisation oder einer Selbstregulierungsorganisation weitergeleiteten Daten einer Person oder Organisation den Daten eines Vertragspartners, einer wirtschaftlich berechtigten oder einer zeichnungsberechtigten Person einer Geschäftsbeziehung oder einer Transaktion entsprechen.[^9-6]
 
 <sup>1bis</sup>
 
 Eine Händlerin oder ein Händler muss der Meldestelle unverzüglich Meldung erstatten, wenn sie oder er weiss oder den begründeten Verdacht hat, dass die Barzahlungsmittel bei einem Handelsgeschäft:
 
-- a. im Zusammenhang mit einer strafbaren Handlung nach Artikel 260<sup>ter</sup> Ziffer 1 oder 305<sup>bis</sup> StGB stehen;
-- b. aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren; oder
-- c. der Verfügungsmacht einer kriminellen Organisation unterliegen.[^9-5]
+- a.[^9-7] im Zusammenhang mit einer strafbaren Handlung nach Artikel 260<sup>ter</sup> oder 305<sup>bis</sup> StGB stehen;
+- b. aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren;
+- c.[^9-8] der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder
+- d.[^9-9] der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.[^9-10]
 
-<sup>1ter</sup> Aus den Meldungen gemäss den Absätzen 1 und 1<sup>bis</sup> muss der Name des Finanzintermediärs oder der Händlerin oder des Händlers ersichtlich sein. Das mit dem Fall befasste Personal des Finanzintermediärs oder der Händlerin oder des Händlers kann in der Meldung anonymisiert werden, sofern die Möglichkeit der Meldestelle und der zuständigen Strafverfolgungsbehörde zur unverzüglichen Kontaktaufnahme gewährleistet bleibt.[^9-6]
+<sup>1ter</sup> Aus den Meldungen gemäss den Absätzen 1 und 1<sup>bis</sup> muss der Name des Finanzintermediärs oder der Händlerin oder des Händlers ersichtlich sein. Das mit dem Fall befasste Personal des Finanzintermediärs oder der Händlerin oder des Händlers kann in der Meldung anonymisiert werden, sofern die Möglichkeit der Meldestelle und der zuständigen Strafverfolgungsbehörde zur unverzüglichen Kontaktaufnahme gewährleistet bleibt.[^9-11]
 
 <sup>2</sup> Der Meldepflicht nicht unterworfen sind Anwältinnen, Anwälte, Notarinnen und Notare, soweit ihre Tätigkeit dem Berufsgeheimnis nach Artikel 321 StGB untersteht.
 
-[^9-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^9-2]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^9-3]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^9-4]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^9-5]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)). Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^9-6]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^9-1]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^9-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^9-3]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^9-4]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^9-5]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9-6]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^9-7]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^9-8]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^9-9]: Eingefügt durch Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^9-10]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)). Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^9-11]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 #### Art. 9a
 
@@ -383,13 +391,17 @@ Er darf einen anderen diesem Gesetz unterstellten Finanzintermediär ebenfalls d
 
 <sup>2</sup> Wird aufgrund dieser Analyse erkennbar, dass neben dem meldenden Finanzintermediär weitere Finanzintermediäre an einer Transaktion oder Geschäftsbeziehung beteiligt sind oder waren, so müssen die beteiligten Finanzintermediäre der Meldestelle auf Aufforderung hin alle damit zusammenhängenden Informationen herausgeben, soweit sie bei ihnen vorhanden sind.
 
-<sup>3</sup> Die Meldestelle setzt den nach den Absätzen 1 und 2 betroffenen Finanzintermediären eine Frist für die Herausgabe.
+<sup>2bis</sup> Wird aufgrund der Analyse von Informationen, die von einer ausländischen Meldestelle stammen, erkennbar, dass diesem Gesetz unterstellte Finanzintermediäre an einer Transaktion oder Geschäftsbeziehung im Zusammenhang mit diesen Informationen beteiligt sind oder waren, so müssen die beteiligten Finanzintermediäre der Meldestelle auf Aufforderung hin alle damit zusammenhängenden Informationen herausgeben, soweit sie bei ihnen vorhanden sind.[^11a-2]
+
+<sup>3</sup> Die Meldestelle setzt den nach den Absätzen 1–2<sup>bis</sup> betroffenen Finanzintermediären eine Frist für die Herausgabe.[^11a-3]
 
 <sup>4</sup> Die Finanzintermediäre unterstehen dem Informationsverbot nach Artikel 10*a* Absatz 1.
 
 <sup>5</sup> Der Straf- und Haftungsausschluss nach Artikel 11 gilt sinngemäss.
 
 [^11a-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^11a-2]: Eingefügt durch Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^11a-3]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ## 3. Kapitel: Aufsicht
 
@@ -453,15 +465,20 @@ Ein Finanzintermediär nach Artikel 2 Absatz 3 hat Anspruch auf Anschluss an ein
 
 <sup>5</sup>
 
-Kommt eine Händlerin oder ein Händler ihrer oder seiner Meldepflicht nicht nach, erstattet die Revisionsstelle der Meldestelle unverzüglich Meldung, wenn sie begründeten Verdacht schöpft, dass:
+Kommt eine Händlerin oder ein Händler ihrer oder seiner Meldepflicht nicht nach, so erstattet die Revisionsstelle der Meldestelle unverzüglich Meldung, wenn sie begründeten Verdacht schöpft, dass: [^15-3]
 
-- a. eine strafbare Handlung nach Artikel 260<sup>ter</sup> Ziffer 1 oder 305<sup>bis</sup> StGB[^15-3] vorliegt;
-- b. Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren; oder
-- c. Vermögenswerte der Verfügungsmacht einer kriminellen Organisation unterliegen.
+- a.[^15-4] eine strafbare Handlung nach Artikel 260<sup>ter</sup> oder 305<sup>bis</sup> StGB[^15-5] vorliegt;
+- b. Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren;
+- c.[^15-6] Vermögenswerte der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder
+- d.[^15-7] Vermögenswerte der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.
 
 [^15-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^15-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^15-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-3]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^15-4]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^15-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15-6]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^15-7]: Eingefügt durch Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### 2. Abschnitt:**** Meldepflicht der Aufsichtsbehörden und der Aufsichtsorganisation****
 
@@ -476,23 +493,24 @@ Kommt eine Händlerin oder ein Händler ihrer oder seiner Meldepflicht nicht nac
 
 Die FINMA, die ESBK, die interkantonale Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS[^16-1] und die Aufsichtsorganisation nach Artikel 43*a* des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^16-2] erstatten der Meldestelle unverzüglich Meldung, wenn sie begründeten Verdacht schöpfen, dass:[^16-3]
 
-- a.[^16-4] eine strafbare Handlung nach Artikel 260<sup>ter</sup> Ziffer 1, 305<sup>bis</sup> oder 305<sup>ter</sup> Absatz 1 StGB[^16-5] vorliegt;
+- a.[^16-4] eine strafbare Handlung nach Artikel 260<sup>ter</sup>, 305<sup>bis</sup> oder 305<sup>ter</sup> Absatz 1 StGB[^16-5] vorliegt;
 - b.[^16-6] Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren;
-- c. Vermögenswerte der Verfügungsmacht einer kriminellen Organisation unterliegen; oder
-- d.[^16-7] Vermögenswerte der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.
+- c.[^16-7] Vermögenswerte der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder
+- d.[^16-8] Vermögenswerte der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.
 
 <sup>2</sup> Diese Pflicht besteht nur, soweit nicht bereits der Finanzintermediär oder die Selbstregulierungsorganisation Meldung erstattet hat.
 
-<sup>3</sup> Die Aufsichtsorganisation stellt gleichzeitig der FINMA eine Kopie der Meldung zu.[^16-8]
+<sup>3</sup> Die Aufsichtsorganisation stellt gleichzeitig der FINMA eine Kopie der Meldung zu.[^16-9]
 
 [^16-1]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
 [^16-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^16-3]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Berichtigung der RedK der BVers vom 31. Jan. 2020, veröffentlicht am 18. Febr. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
-[^16-4]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^16-4]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^16-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^16-6]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^16-7]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^16-8]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^16-7]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^16-8]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^16-9]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### 3. Abschnitt:**** Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 2
 
@@ -633,22 +651,24 @@ Die FINMA leitet die vom EFD erhaltenen Daten weiter an:
 
 Sie erstattet der zuständigen Strafverfolgungsbehörde unverzüglich Anzeige, wenn sie begründeten Verdacht schöpft, dass:
 
-- a. eine strafbare Handlung nach Artikel 260<sup>ter</sup> Ziffer 1, 305<sup>bis</sup> oder 305<sup>ter</sup> Absatz 1 StGB[^23-3] vorliegt;
-- b.[^23-4] Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren;
-- c. Vermögenswerte der Verfügungsmacht einer kriminellen Organisation unterliegen; oder
-- d. Vermögenswerte der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.[^23-5]
+- a.[^23-3] eine strafbare Handlung nach Artikel 260<sup>ter</sup>, 305<sup>bis</sup> oder 305<sup>ter</sup> Absatz 1 StGB[^23-4] vorliegt;
+- b.[^23-5] Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren;
+- c.[^23-6] Vermögenswerte der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder
+- d. Vermögenswerte der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.[^23-7]
 
-<sup>5</sup> Sie informiert den betroffenen Finanzintermediär innert 20 Arbeitstagen darüber, ob sie die Meldung nach Artikel 9 Absatz 1 Buchstabe a an eine Strafverfolgungsbehörde weiterleitet oder nicht.[^23-6]
+<sup>5</sup> Sie informiert den betroffenen Finanzintermediär innert 20 Arbeitstagen darüber, ob sie die Meldung nach Artikel 9 Absatz 1 Buchstabe a an eine Strafverfolgungsbehörde weiterleitet oder nicht.[^23-8]
 
-<sup>6</sup> Sie informiert den betroffenen Finanzintermediär darüber, ob sie die Meldung nach Artikel 305<sup>ter</sup> Absatz 2 StGB an eine Strafverfolgungsbehörde weiterleitet oder nicht.[^23-7]
+<sup>6</sup> Sie informiert den betroffenen Finanzintermediär darüber, ob sie die Meldung nach Artikel 305<sup>ter</sup> Absatz 2 StGB an eine Strafverfolgungsbehörde weiterleitet oder nicht.[^23-9]
 
 [^23-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 [^23-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Nov. 2013 ([AS 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [BBl 2012 6941](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
-[^23-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^23-4]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23-5]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^23-6]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^23-7]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^23-3]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^23-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^23-5]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^23-6]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^23-7]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^23-8]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^23-9]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### 5. Abschnitt: Selbstregulierungsorganisationen
 
@@ -765,17 +785,19 @@ Die Selbstregulierungsorganisationen melden der FINMA unverzüglich:
 
 Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie begründeten Verdacht schöpfen, dass:
 
-- a. eine strafbare Handlung nach Artikel 260<sup>ter</sup> Ziffer 1 oder 305<sup>bis</sup> StGB[^27-2] vorliegt;
-- b.[^27-3] Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren;
-- c. Vermögenswerte der Verfügungsmacht einer kriminellen Organisation unterliegen; oder
-- d.[^27-4] Vermögenswerte der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.
+- a.[^27-2] eine strafbare Handlung nach Artikel 260<sup>ter</sup> oder 305<sup>bis</sup> StGB[^27-3] vorliegt;
+- b.[^27-4] Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren;
+- c.[^27-5] Vermögenswerte der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder
+- d.[^27-6] Vermögenswerte der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen.
 
 <sup>5</sup> Die Pflicht nach Absatz 4 entfällt, wenn bereits ein der Selbstregulierungsorganisation angeschlossener Finanzintermediär eine Meldung erstattet hat.
 
 [^27-1]: Fassung gemäss Anhang Ziff. 17 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^27-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^27-3]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^27-4]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^27-2]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^27-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^27-4]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^27-5]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^27-6]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
 #### Art. 28
 
@@ -822,19 +844,20 @@ Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie begründeten Verda
 
 **Strafbehörden**[^29a-1]
 
-<sup>1</sup> Die Strafbehörden melden der Meldestelle rasch sämtliche hängigen Verfahren im Zusammenhang mit den Artikeln 260<sup>ter</sup> Ziffer 1, 260<sup>quinquies</sup> Absatz 1, 305<sup>bis</sup> und 305<sup>ter</sup> Absatz 1 StGB[^29a-2]. Sie stellen ihr rasch Urteile und Einstellungsverfügungen inklusive Begründung zu.
+<sup>1</sup> Die Strafbehörden melden der Meldestelle umgehend sämtliche hängigen Verfahren im Zusammenhang mit den Artikeln 260<sup>ter</sup>, 260<sup>quinquies</sup> Absatz 1, 305<sup>bis</sup> und 305<sup>ter</sup> Absatz 1 StGB[^29a-2].[^29a-3] Sie stellen ihr rasch Urteile und Einstellungsverfügungen inklusive Begründung zu.
 
 <sup>2</sup> Sie melden der Meldestelle zudem unverzüglich Verfügungen, die sie aufgrund einer Anzeige der Meldestelle erlassen haben.
 
-<sup>3</sup> Sie können der FINMA, der ESBK und der interkantonalen Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS[^29a-3] alle Informationen und Unterlagen erteilen, die diese im Rahmen der Erfüllung ihrer Aufgabe verlangen, sofern das Strafverfahren nicht beeinträchtigt wird.[^29a-4]
+<sup>3</sup> Sie können der FINMA, der ESBK und der interkantonalen Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS[^29a-4] alle Informationen und Unterlagen erteilen, die diese im Rahmen der Erfüllung ihrer Aufgabe verlangen, sofern das Strafverfahren nicht beeinträchtigt wird.[^29a-5]
 
-<sup>4</sup> Die FINMA, die ESBK und die interkantonale Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS koordinieren allfällige Interventionen bei einem Finanzintermediär mit den zuständigen Strafverfolgungsbehörden.[^29a-5] Sie nehmen vor einer allfälligen Weiterleitung der erhaltenen Informationen und Unterlagen Rücksprache mit den zuständigen Strafverfolgungsbehörden.
+<sup>4</sup> Die FINMA, die ESBK und die interkantonale Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS koordinieren allfällige Interventionen bei einem Finanzintermediär mit den zuständigen Strafverfolgungsbehörden.[^29a-6] Sie nehmen vor einer allfälligen Weiterleitung der erhaltenen Informationen und Unterlagen Rücksprache mit den zuständigen Strafverfolgungsbehörden.
 
 [^29a-1]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^29a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29a-3]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^29a-4]: Fassung gemäss Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^29a-3]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^29a-4]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
 [^29a-5]: Fassung gemäss Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^29a-6]: Fassung gemäss Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 
 ### 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden
 
