@@ -4,11 +4,11 @@ title: "Ordinanza del 16 gennaio 1991 sul collocamento e il personale a prestito
 short: OC
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: it
-version: 2018-07-01
+version: 2021-07-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20180701/it/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20180701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20180701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20180701/it"
 
 (Ordinanza sul collocamento; OC)
 
-del 16 gennaio 1991 (Stato 1° luglio 2018)
+del 16 gennaio 1991 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -824,7 +824,7 @@ Il lavoratore fornito a prestito ha accesso, alla pari dei lavoratori del settor
 - a. ai corsi di perfezionamento finanziati mediante i contributi alle spese di perfezionamento;
 - b. alle altre prestazioni finanziate mediante i contributi alle spese d’esecuzione.
 
-[^48b-1]: Introdotto dal n.1 dell’all. all’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^48b-1]: Introdotto dall’all. n. 1 dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 #### Art. 48c
 
@@ -844,7 +844,7 @@ Sono esentati dall’obbligo contributivo i lavoratori:
 
 <sup>3</sup> I contributi sono versati e impiegati secondo quanto stabilito dal contratto collettivo.
 
-[^48c-1]: Introdotto dal n.1 dell’all. all’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^48c-1]: Introdotto dall’all. n. 1 dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 #### Art. 48d
 
@@ -860,7 +860,7 @@ Sono esentati dall’obbligo contributivo i lavoratori:
 
 <sup>4</sup> Il prestatore può chiedere in qualsiasi momento all’autorità cantonale responsabile della dichiarazione di obbligatorietà generale che il controllo sia effettuato da un organo di controllo indipendente dalle parti contraenti. L’articolo 6 della legge federale del 28 settembre 1956[^48d-2] concernente il conferimento del carattere obbligatorio generale al contratto collettivo di lavoro è applicabile per analogia.
 
-[^48d-1]: Introdotto dal n.1 dell’all. all’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^48d-1]: Introdotto dall’all. n. 1 dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 [^48d-2]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
 
 #### Art. 48e
@@ -873,7 +873,7 @@ Sono esentati dall’obbligo contributivo i lavoratori:
 
 <sup>2</sup> Le associazioni del settore interinale interessate da tali disciplinamenti sono autorizzate a consultare detti rapporti.
 
-[^48e-1]: Introdotto dal n.1 dell’all. all’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
+[^48e-1]: Introdotto dall’all. n. 1 dell’O del 9 dic. 2005, in vigore dal 1° apr. 2006 ([RU 2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)).
 
 #### Art. 49
 
@@ -901,15 +901,20 @@ Il contratto di lavoro deve essere generalmente concluso prima dell’entrata in
 
 #### Art. 51
 
-**Registrazione delle domande d’impiego e dei posti vacanti**
+**Annuncio delle persone in cerca d’impiego e registrazione dei posti vacanti**[^51-1]
 
 ### (art. 24 LC)
 
-<sup>1</sup> Le autorità preposte al mercato del lavoro registrano secondo criteri uniformi le persone in cerca d’impiego che si presentano e i posti vacanti annunciati.
+<sup>1</sup> Alla procedura di annuncio delle persone in cerca d’impiego che intendono beneficiare delle prestazioni del servizio pubblico di collocamento si applicano per analogia gli articoli 19, 20 e 20*a* dell’ordinanza del 31 agosto 1983[^51-2] sull’assicurazione contro la disoccupazione.
 
-<sup>2</sup> La SECO fissa questi criteri d’intesa con le competenti autorità cantonali.
+<sup>2</sup> Le autorità preposte al mercato del lavoro registrano i posti vacanti annunciati secondo criteri uniformi sulla piattaforma del servizio pubblico di collocamento (art. 35 cpv. 1 lett. b LC).
 
-<sup>3</sup> Le autorità preposte al mercato del lavoro mettono a concorso i posti vacanti in modo che siano aperti a candidati di ambo i sessi. Sono possibili deroghe unicamente nei casi in cui la legge lo preveda o se l’attività in questione può essere svolta solo da una persona di un determinato sesso.
+<sup>3</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione fissa questi criteri d’intesa con le competenti autorità cantonali.
+
+<sup>4</sup> Le autorità preposte al mercato del lavoro provvedono affinché il contenuto degli annunci dei posti vacanti non sia discriminatorio.
+
+[^51-1]: Nuovo testo giusta l’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^51-2]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 
 #### Art. 52
 
@@ -997,15 +1002,21 @@ f. tipo di rapporto di lavoro: a tempo determinato o indeterminato;
 
 g. indirizzo di contatto;
 
-h. nome dell’impresa.
+- h.[^53b-1] nome del datore di lavoro;
+- i.[^53b-2] per i prestatori, nome dell’impresa acquisitrice.
 
-<sup>3</sup> L’annuncio deve essere effettuato tramite la piattaforma internet del servizio pubblico di collocamento, telefonicamente o tramite un colloquio personale.
+<sup>3</sup> ...[^53b-3]
 
 <sup>4</sup> Il servizio pubblico di collocamento conferma la ricezione degli annunci.
 
-<sup>5</sup> Il datore di lavoro può pubblicare in altro modo i posti vacanti che è tenuto ad annunciare secondo il capoverso 1 solo dopo cinque giorni lavorativi dalla ricezione della conferma.
+<sup>5</sup> I datori di lavoro possono pubblicare in altro modo i posti vacanti che sono tenuti ad annunciare secondo il capoverso 1 solo dopo cinque giorni lavorativi dalla pubblicazione sulla piattaforma del servizio pubblico di collocamento.[^53b-4]
 
 <sup>6</sup> Durante questi cinque giorni lavorativi hanno accesso alle informazioni sui posti vacanti annunciati soltanto i collaboratori del servizio pubblico di collocamento e le persone in cerca d’impiego ivi registrate.
+
+[^53b-1]: Nuovo testo giusta l’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-2]: Introdotta dall’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-3]: Abrogato dall’all. dell’O del 26 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-4]: Nuovo testo giusta l’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 53c
 
@@ -1110,14 +1121,15 @@ Le autorità preposte al mercato del lavoro possono comunicare alle persone in c
 
 ### (art. 34*a* LC)
 
-<sup>1</sup> Nei casi di cui all’articolo 34*a* capoverso 4 LC, è riscosso un emolumento se la comunicazione dei dati richiede numerose copie o altre riproduzioni o ricerche particolari. L’ammontare dell’emolumento corrisponde agli importi fissati negli articoli 14 e 16 dell’ordinanza del 10 settembre 1969[^57a-2] sulle tasse e spese nella procedura amministrativa.
+<sup>1</sup> Nei casi di cui all’articolo 34*a* capoverso 4 LC è riscosso un emolumento se la comunicazione dei dati richiede numerose copie o altre riproduzioni o ricerche particolari. Si applicano le disposizioni dell’ordinanza generale sugli emolumenti dell’8 settembre 2004[^57a-2].[^57a-3]
 
 <sup>2</sup> Per le pubblicazioni di cui all’articolo 34*a* capoverso 3 LC, è riscosso un emolumento a copertura delle spese.
 
 <sup>3</sup> L’emolumento può essere ridotto o condonato in caso di indigenza dell’assoggettato o per altri gravi motivi.
 
 [^57a-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2903](https://fedlex.data.admin.ch/eli/oc/2000/505)).
-[^57a-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^57a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^57a-3]: Nuovo testo giusta l’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 58
 

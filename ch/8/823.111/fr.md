@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 1991 sur le service de l'emploi et la location 
 short: OSE
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: fr
-version: 2018-07-01
+version: 2021-07-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20180701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20180701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20180701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20180701/fr"
 
 (Ordonnance sur le service de l’emploi, OSE)
 
-du 16 janvier 1991 (Etat le 1<sup>er</sup> juillet 2018)
+du 16 janvier 1991 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -903,15 +903,20 @@ Le contrat de location de services doit en principe être conclu avant l’entr�
 
 #### Art. 51
 
-**Enregistrement des demandeurs d’emploi et des postes vacants**
+**Enregistrement des demandeurs d’emploi et des postes vacants**[^51-1]
 
 ### (art. 24, LSE)
 
-<sup>1</sup> Les autorités dont relève le marché du travail enregistrent selon des critères uniformes les demandeurs d’emploi qui se présentent et les postes vacants annoncés.
+<sup>1</sup> Les art. 19, 20 et 20*a* de l’ordonnance du 31 août 1983 sur l’assurance-chômage[^51-2] s’appliquent par analogie à la procédure d’inscription des demandeurs d’emploi qui veulent recourir au service public de l’emploi.
 
-<sup>2</sup> Le SECO fixe ces critères d’entente avec les autorités cantonales compétentes.
+<sup>2</sup> Les autorités dont relève le marché du travail enregistrent dans la plateforme du service public de l’emploi (art. 35, al. 1, let. b, LSE), selon des critères uniformes, les postes vacants annoncés.
 
-<sup>3</sup> Les autorités dont relève le marché du travail rédigent les offres d’emploi de manière à ce que celles-ci s’adressent aux personnes des deux sexes. Des dérogations ne sont possibles que dans les cas où la loi le prévoit ou lorsque l’activité concernée ne peut être exercée que par une personne d’un sexe donné.
+<sup>3</sup> L’organe de compensation de l’assurance-chômage fixe ces critères en accord avec les autorités cantonales compétentes.
+
+<sup>4</sup> Les autorités dont relève le marché du travail veillent à ce que le contenu des offres d’emploi publiées ne soit pas discriminatoire.
+
+[^51-1]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^51-2]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 
 #### Art. 52
 
@@ -986,7 +991,7 @@ L’employeur soumis à cette obligation doit communiquer à l’autorité comp�
 
 <sup>2</sup>
 
-Les employeurs sont tenus de communiquer les indications suivantes:
+Ils sont tenus de communiquer les indications suivantes:
 
 - a. profession recherchée;
 - b. activité, exigences spéciales y comprises;
@@ -994,16 +999,23 @@ Les employeurs sont tenus de communiquer les indications suivantes:
 - d. taux d’occupation;
 - e. date d’entrée en fonction;
 - f. type de rapport de travail: à durée déterminée ou indéterminée;
-- g. adresse;
-- h. nom de l’entreprise.
+- g.[^53b-1] adresse à laquelle ils peuvent être contactés;
+- h.[^53b-2] nom de l’employeur;
+- i.[^53b-3] pour les bailleurs de service, nom de l’entreprise locataire de services.
 
-<sup>3</sup> La communication du poste vacant doit s’effectuer via la plateforme Internet du service public de l’emploi, par téléphone ou en personne.
+<sup>3</sup> ...[^53b-4]
 
 <sup>4</sup> Le service public de l’emploi confirme la réception de la communication des postes vacants.
 
-<sup>5</sup> L’employeur peut publier d’une autre manière les emplois qu’il est tenu d’annoncer en vertu de l’al. 1 au plus tôt cinq jours ouvrables après réception de la confirmation.
+<sup>5</sup> Les employeurs peuvent publier ailleurs les emplois qu’ils sont tenus d’annoncer en vertu de l’al. 1 au plus tôt cinq jours ouvrés après la publication sur la plateforme du service public de l’emploi.[^53b-5]
 
 <sup>6</sup> Les collaborateurs du service public de l’emploi et les personnes inscrites en tant que demandeurs d’emploi auprès de ce service bénéficient d’un accès exclusif aux informations relatives aux postes vacants annoncés durant cinq jours ouvrables.
+
+[^53b-1]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-2]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).t
+[^53b-3]: Introduite par l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-4]: Abrogé par l’annexe de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-5]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 53c
 
@@ -1108,14 +1120,15 @@ Les autorités dont relève le marché du travail peuvent communiquer aux demand
 
 ### (art. 34*a* LSE)
 
-<sup>1</sup> Un émolument est perçu dans les cas visés à l’art. 34*a*, al. 4, LSE, lorsque la communication de données nécessite de nombreuses copies ou autres reproductions ou des recherches particulières. Le montant de cet émolument équivaut à ceux des art. 14 et 16 de l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^57a-2].
+1 Un émolument est perçu dans les cas visés à l’art. 34a, al. 4, LSE, lorsque la communication de données nécessite de nombreuses copies ou autres reproductions ou des recherches particulières. L’ordonnance générale du 8 septembre 2004 sur les émoluments[^57a-2] est applicable.[^57a-3]
 
 <sup>2</sup> Un émolument couvrant les frais est perçu pour les publications au sens de l’art. 34*a*, al. 3, LSE.
 
 <sup>3</sup> L’émolument peut être réduit ou remis si la personne assujettie est dans la gêne ou pour d’autres justes motifs.
 
 [^57a-1]: Introduit par le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2903](https://fedlex.data.admin.ch/eli/oc/2000/505)).
-[^57a-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^57a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^57a-3]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 58
 

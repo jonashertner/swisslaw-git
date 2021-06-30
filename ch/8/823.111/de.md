@@ -4,11 +4,11 @@ title: "Verordnung vom 16. Januar 1991 über die Arbeitsvermittlung und den Pers
 short: AVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: de
-version: 2018-07-01
+version: 2021-07-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20180701/de/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20180701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20180701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20180701/de"
 
 (Arbeitsvermittlungsverordnung, AVV)
 
-vom 16. Januar 1991 (Stand am 1. Juli 2018)
+vom 16. Januar 1991 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -901,15 +901,20 @@ Der schriftliche Verleihvertrag muss grundsätzlich vor der Arbeitsaufnahme vorl
 
 #### Art. 51
 
-**Erfassung von Stellensuchenden und offenen Stellen**
+**Anmeldung von Stellensuchenden und Speicherung offener Stellen**[^51-1]
 
 ### (Art. 24 AVG)
 
-<sup>1</sup> Die Arbeitsmarktbehörden erfassen die sich meldenden Stellensuchenden und die gemeldeten offenen Stellen nach einheitlichen Kriterien.
+<sup>1</sup> Für das Anmeldeverfahren von Stellensuchenden, die Leistungen der öffentlichen Arbeitsvermittlung in Anspruch nehmen wollen, gelten die Artikel 19, 20 und 20*a* der Arbeitslosenversicherungsverordnung vom 31. August 1983[^51-2] sinngemäss.
 
-<sup>2</sup> Das SECO legt die Kriterien im Einvernehmen mit den zuständigen kantonalen Behörden fest.
+<sup>2</sup> Die Arbeitsmarktbehörden speichern die gemeldeten offenen Stellen nach einheitlichen Kriterien auf der Plattform der öffentlichen Arbeitsvermittlung (Art. 35 Abs. 1 Bst. b AVG).
 
-<sup>3</sup> Die Arbeitsmarktbehörden schreiben offene Stellen für Angehörige beider Geschlechter zur Besetzung aus. Ausnahmen sind in gesetzlich begründeten Fällen oder bei Tätigkeiten zulässig, die nur durch eine Person bestimmten Geschlechts ausgeführt werden können.
+<sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung legt die Kriterien im Einvernehmen mit den zuständigen kantonalen Behörden fest.
+
+<sup>4</sup> Die Arbeitsmarktbehörden stellen sicher, dass die publizierten offenen Stellen keinen diskriminierenden Inhalt haben.
+
+[^51-1]: Fassung gemäss Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^51-2]: [SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 
 #### Art. 52
 
@@ -932,7 +937,7 @@ Die zuständigen Amtsstellen stellen sicher, dass bei Bedarf:[^52-1]
 
 #### Art. 53
 
-**…[^53-1]**
+**...[^53-1]**
 
 <sup>1</sup> Der Arbeitgeber ist meldepflichtig, wenn die Entlassungen oder eine Betriebsschliessung mindestens zehn Arbeitnehmer betreffen.
 
@@ -992,15 +997,21 @@ Sie müssen die folgenden Angaben übermitteln:
 - e. Datum des Stellenantritts;
 - f. Art des Arbeitsverhältnisses: befristet oder unbefristet;
 - g. Kontaktadresse;
-- h. Name des Unternehmens.
+- h.[^53b-1] Name des Arbeitgebers;
+- i.[^53b-2] bei Personalverleihern: Name des Einsatzbetriebs.
 
-<sup>3</sup> Die Meldung muss über die Internetplattform der öffentlichen Arbeitsvermittlung, telefonisch oder durch persönliche Vorsprache erfolgen.
+<sup>3</sup> ...[^53b-3]
 
 <sup>4</sup> Die öffentliche Arbeitsvermittlung bestätigt den Eingang der Meldungen.
 
-<sup>5</sup> Der Arbeitgeber darf die Stellen, die er nach Absatz 1 melden muss, frühestens nach Ablauf von fünf Arbeitstagen nach Erhalt der Bestätigung anderweitig ausschreiben.
+<sup>5</sup> Die Arbeitgeber dürfen die Stellen, die sie nach Absatz 1 melden müssen, frühestens nach Ablauf von fünf Arbeitstagen nach der Publikation auf der Plattform der öffentlichen Arbeitsvermittlung anderweitig ausschreiben.[^53b-4]
 
 <sup>6</sup> Zugriff auf die gemeldeten Stelleninformationen haben während fünf Arbeitstagen einzig die Mitarbeitenden der öffentlichen Arbeitsvermittlung sowie Personen, die bei der öffentlichen Arbeitsvermittlung als Stellensuchende angemeldet sind.
+
+[^53b-1]: Fassung gemäss Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-2]: Eingefügt durch Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-3]: Aufgehoben durch Anhang der V vom 26. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-4]: Fassung gemäss Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 53c
 
@@ -1046,7 +1057,7 @@ Zusätzlich zur Ausnahme nach Artikel 21*a* Absatz 5 AIG müssen offene Stellen 
 
 <sup>3</sup> Die Stellenmeldepflicht wird jeweils auf ein Jahr befristet.
 
-### 4. Abschnitt: Ausbildung und Zusammenarbeit****
+### 4. Abschnitt: Ausbildung und Zusammenarbeit
 
 [^chap3-sec4-1]
 
@@ -1105,14 +1116,15 @@ Die Arbeitsmarktbehörden dürfen Stellensuchenden von Arbeitgebern gemeldete of
 
 ### (Art. 34*a* AVG)
 
-<sup>1</sup> In den Fällen nach Artikel 34*a* Absatz 4 AVG wird eine Gebühr erhoben, wenn die Datenbekanntgabe zahlreiche Kopien oder andere Vervielfältigungen oder besondere Nachforschungen erfordert. Die Höhe dieser Gebühr entspricht den in den Artikeln 14 und 16 der Verordnung vom 10. September 1969[^57a-2] über Kosten und Entschädigungen im Verwaltungsverfahren festgesetzten Beträgen.
+<sup>1</sup> In den Fällen nach Artikel 34*a* Absatz 4 AVG wird eine Gebühr erhoben, wenn die Datenbekanntgabe zahlreiche Kopien oder andere Vervielfältigungen oder besondere Nachforschungen erfordert. Es gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^57a-2].[^57a-3]
 
 <sup>2</sup> Für Publikationen nach Artikel 34*a* Absatz 3 AVG wird eine kostendeckende Gebühr erhoben.
 
 <sup>3</sup> Die Gebühr kann wegen Bedürftigkeit der gebührenpflichtigen Person oder aus anderen wichtigen Gründen ermässigt oder erlassen werden.
 
 [^57a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2903](https://fedlex.data.admin.ch/eli/oc/2000/505)).
-[^57a-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^57a-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^57a-3]: Fassung gemäss Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 58
 
