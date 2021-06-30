@@ -3,29 +3,29 @@ sr: "0.451.3"
 title: Landschaftsübereinkommen des Europarates vom 20. Oktober 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/329"
 language: de
-version: 2013-06-01
+version: 2021-07-01
 adopted: 2000-10-20
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20130601/de/xml/fedlex-data-admin-ch-eli-cc-2013-329-20130601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20130601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2013-329-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Europäisches Landschaftsübereinkommen
+# Landschaftsübereinkommen des Europarates****
 
-AS **2013** 1379; BBl **2011** 8657
+AS **2013** 1379; BBl **2011** 8657[^t-1]
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Florenz am 20. Oktober 2000 Von der Bundesversammlung genehmigt am 28. September 2012[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 22. Februar 2013 In Kraft getreten für die Schweiz am 1. Juni 2013
 
-(Stand am 1. Juni 2013)
+(Stand am 1. Juli 2021)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
+[^t-1]: Fassung gemäss Art. 1 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)). Die Änd. vom 15. Juni 2016 (SR 0.[451.31](https://fedlex.data.admin.ch/eli/cc/1992/2080_2080_2080); [AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)), sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
 [^t-2]: [AS 2013 1377](https://fedlex.data.admin.ch/eli/oc/2013/328)
 
-Präambel
+*Präambel*
 
 Die Mitgliedstaaten des Europarats, die dieses Übereinkommen unterzeichnen,
 
@@ -39,27 +39,33 @@ in dem Bewusstsein, dass die Landschaft zur Herausbildung lokaler Kulturen beitr
 
 in Anerkennung dessen, dass die Landschaft überall einen wichtigen Teil der menschlichen Lebensqualität darstellt: in städtischen Gebieten und auf dem Land, in beeinträchtigten Gebieten ebenso wie in Gebieten von hoher Qualität, in besonders schönen Gebieten ebenso wie in gewöhnlichen Gebieten;
 
+in dem allgemeinen Bewusstsein der Bedeutung der Landschaft weltweit als wesentlicher Bestandteil des Lebensraums der Menschen;[^ingress-1]
+
 in der Erkenntnis, dass die Entwicklungen im Bereich der Land- und Forstwirtschaft, der Produktionsverfahren in Industrie und Bergbau, der Regional- und Stadtplanung, des Verkehrswesens, der Infrastruktur, des Tourismus und der Freizeit sowie, ganz allgemein, weltwirtschaftliche Veränderungen in vielen Fällen den Wandel von Landschaften beschleunigen;
 
 in dem Bestreben, dem Wunsch der Öffentlichkeit nach qualitativ hochwertigen Landschaften und nach aktiver Beteiligung an der Landschaftsentwicklung zu entsprechen;
 
 in der Überzeugung, dass die Landschaft für das Wohl des Einzelnen und der Gesellschaft ein Schlüsselelement darstellt und dass ihr Schutz, ihre Pflege und ihre Planung Rechte und Pflichten für alle mit sich bringen;
 
-unter Berücksichtigung der vorhandenen völkerrechtlichen Übereinkünfte im Bereich des Schutzes und der Pflege des Natur- und Kulturerbes, der Raumordnung, der kommunalen Selbstverwaltung und der grenzüberschreitenden Zusammenarbeit, insbesondere des Übereinkommens über die Erhaltung der europäischen wild lebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume (Bern, 19. September 1979)[^ingress-1], des Übereinkommens zum Schutz des architektonischen Erbes Europas (Granada, 3. Oktober 1985)[^ingress-2], des Europäischen Übereinkommens zum Schutz des archäologischen Erbes (revidiert) (Valletta, 16. Januar 1992)[^ingress-3], des Europäischen Rahmenübereinkommens über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften (Madrid, 21. Mai 1980)[^ingress-4] und seiner Zusatzprotokolle, der Europäischen Charta der kommunalen Selbstverwaltung (Strassburg, 15. Oktober 1985)[^ingress-5], des Übereinkommens über die biologische Vielfalt (Rio, 5. Juni 1992)[^ingress-6], des Übereinkommens zum Schutz des Kultur- und Naturerbes der Welt (Paris, 16. November 1972) und des Übereinkommens über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten (Aarhus, 25. Juni 1998)[^ingress-7];
+unter Berücksichtigung der vorhandenen völkerrechtlichen Übereinkünfte im Bereich des Schutzes und der Pflege des Natur- und Kulturerbes, der Raumordnung, der kommunalen Selbstverwaltung und der grenzüberschreitenden Zusammenarbeit, insbesondere des Übereinkommens über die Erhaltung der europäischen wild lebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume (Bern, 19. September 1979)[^ingress-2], des Übereinkommens zum Schutz des architektonischen Erbes Europas (Granada, 3. Oktober 1985)[^ingress-3], des Europäischen Übereinkommens zum Schutz des archäologischen Erbes (revidiert) (Valletta, 16. Januar 1992)[^ingress-4], des Europäischen Rahmenübereinkommens über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften (Madrid, 21. Mai 1980)[^ingress-5] und seiner Zusatzprotokolle, der Europäischen Charta der kommunalen Selbstverwaltung (Strassburg, 15. Oktober 1985)[^ingress-6], des Übereinkommens über die biologische Vielfalt (Rio, 5. Juni 1992)[^ingress-7], des Übereinkommens zum Schutz des Kultur- und Naturerbes der Welt (Paris, 16. November 1972) und des Übereinkommens über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten (Aarhus, 25. Juni 1998)[^ingress-8];
 
 in Anerkennung dessen, dass die Qualität und Vielfalt der europäischen Landschaften ein gemeinsames Gut darstellen und dass es wichtig ist, zu seinem Schutz, seiner Pflege und seiner Planung zusammenzuarbeiten;
 
 in dem Wunsch, eine neue Übereinkunft zu schaffen, die ausschliesslich dem Schutz, der Pflege und der Planung aller Landschaften in Europa dient,
 
+mit dem Wunsch, dass die im Übereinkommen niedergelegten Werte und Grundsätze auch auf aussereuropäische Staaten, die dies wünschen, angewendet werden können;[^ingress-9]
+
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
-[^ingress-2]: [SR 0.440.4](https://fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402)
-[^ingress-3]: [SR 0.440.5](https://fedlex.data.admin.ch/eli/cc/1996/2965_2965_2965)
-[^ingress-4]: [SR 0.131.1](https://fedlex.data.admin.ch/eli/cc/1982/1076_1076_1076)
-[^ingress-5]: [SR 0.102](https://fedlex.data.admin.ch/eli/cc/2005/412)
-[^ingress-6]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-7]: [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)
+[^ingress-1]: Eingefügt durch Art. 2 Ziff. 1 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
+[^ingress-2]: [SR 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
+[^ingress-3]: [SR 0.440.4](https://fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402)
+[^ingress-4]: [SR 0.440.5](https://fedlex.data.admin.ch/eli/cc/1996/2965_2965_2965)
+[^ingress-5]: [SR 0.131.1](https://fedlex.data.admin.ch/eli/cc/1982/1076_1076_1076)
+[^ingress-6]: [SR 0.102](https://fedlex.data.admin.ch/eli/cc/2005/412)
+[^ingress-7]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-8]: [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)
+[^ingress-9]: Eingefügt durch Art. 2 Ziff. 2 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Kapitel I Allgemeine Bestimmungen
 
@@ -84,9 +90,11 @@ Vorbehaltlich des Artikels 15 gilt dieses Übereinkommen für das gesamte Hoheit
 
 #### Art. 3
 
-**Ziele**
+**Ziele**[^3-1]
 
-Ziel dieses Übereinkommens ist die Förderung von Landschaftsschutz, ‑pflege und ‑planung sowie die Organisation der europäischen Zusammenarbeit in Landschaftsfragen.
+Ziel dieses Übereinkommens ist die Förderung von Landschaftsschutz, -pflege und ‑planung sowie die Organisation der Zusammenarbeit zwischen den Vertragsparteien.
+
+[^3-1]: Fassung gemäss Art. 3 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Kapitel II Nationale Massnahmen
 
@@ -135,7 +143,9 @@ Zur Verbesserung der Kenntnis ihrer Landschaften verpflichtet sich jede Vertrags
 
 - b. die erfassten Landschaften unter Berücksichtigung der besonderen Werte, die ihnen von den direkt Betroffenen und der betroffenen Bevölkerung beigemessen werden, zu bewerten.
 
-<sup>2.</sup> Diese Erfassungs- und Bewertungsverfahren werden durch den Erfahrungs- und Methodenaustausch geprägt werden, der nach Artikel 8 von den Vertragsparteien auf europäischer Ebene organisiert wird.
+<sup>2.</sup> Diese Erfassungs- und Bewertungsverfahren werden durch den Erfahrungs- und Methodenaustausch geprägt werden, der nach Artikel 8 von den Vertragsparteien auf internationaler Ebene organisiert wird.[^6-subdivu3-1]
+
+[^6-subdivu3-1]: Fassung gemäss Art. 4 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ### D. Landschaftsqualitätsziele
 
@@ -145,7 +155,11 @@ Jede Vertragspartei verpflichtet sich, für die erfassten und bewerteten Landsch
 
 Jede Vertragspartei verpflichtet sich, zur Umsetzung ihrer Landschaftspolitik Instrumente einzuführen, deren Ziel der Landschaftsschutz, die Landschaftspflege und/oder die Landschaftsplanung ist.
 
-## Kapitel III Europäische Zusammenarbeit
+## Kapitel III Zusammenarbeit zwischen den Vertragsparteien****
+
+[^chapIII-1]
+
+[^chapIII-1]: Fassung gemäss Art. 5 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 #### Art. 7
 
@@ -185,13 +199,15 @@ Die Vertragsparteien verpflichten sich, die grenzüberschreitende Zusammenarbeit
 
 **Landschaftspreis des Europarats**
 
-<sup>1.</sup> Der Landschaftspreis des Europarats ist eine Auszeichnung, die kommunalen und regionalen Gebietskörperschaften und von ihnen gebildeten Zusammenschlüssen verliehen werden kann, die im Rahmen der Landschaftspolitik einer Vertragspartei dieses Übereinkommens eine Politik oder Massnahmen zum Schutz, zur Pflege und/oder zur Planung ihrer Landschaft durchgeführt haben, die sich als nachhaltig wirksam erwiesen haben und somit für andere Gebietskörperschaften in Europa als Vorbild dienen können. Die Auszeichnung kann auch nichtstaatlichen Organisationen verliehen werden, die im Bereich des Landschaftsschutzes, der Landschaftspflege oder der Landschaftsplanung besonders beachtenswerte Beiträge geleistet haben.
+<sup>1.</sup> Der Landschaftspreis des Europarats ist eine Auszeichnung, die kommunalen und regionalen Gebietskörperschaften und von ihnen gebildeten Zusammenschlüssen verliehen werden kann, die im Rahmen der Landschaftspolitik einer Vertragspartei dieses Übereinkommens eine Politik oder Massnahmen zum Schutz, zur Pflege und/oder zur Planung ihrer Landschaft durchgeführt haben, die sich als nachhaltig wirksam erwiesen haben und somit für andere Gebietskörperschaften der Vertragsparteien als Vorbild dienen können. Die Auszeichnung kann auch nichtstaatlichen Organisationen verliehen werden, die im Bereich des Landschaftsschutzes, der Landschaftspflege oder der Landschaftsplanung besonders beachtenswerte Beiträge geleistet haben.[^11-1]
 
 <sup>2.</sup> Bewerbungen um den Landschaftspreis des Europarats sind von den Vertragsparteien an die in Artikel 10 genannten Sachverständigenausschüsse zu richten. Betroffene grenzüberschreitende kommunale und regionale Gebietskörperschaften und von ihnen gebildete Zusammenschlüsse können sich bewerben, sofern sie die betreffende Landschaft gemeinsam betreuen.
 
 <sup>3.</sup> Auf Vorschlag der in Artikel 10 genannten Sachverständigenausschüsse bestimmt und veröffentlicht das Ministerkomitee die Vergabekriterien für den Landschaftspreis des Europarats, beschliesst die Verfahrensvorschriften und verleiht den Preis.
 
 <sup>4.</sup> Die Verleihung des Landschaftspreises des Europarats soll die Preisträger ermutigen, für den nachhaltigen Schutz sowie die nachhaltige Pflege und/oder Planung der betreffenden Landschaften zu sorgen.
+
+[^11-1]: Fassung gemäss Art. 6 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Kapitel IV Schlussbestimmungen
 
@@ -215,11 +231,11 @@ Dieses Übereinkommen lässt die Anwendung strengerer Bestimmungen im Bereich de
 
 **Beitritt**
 
-<sup>1.</sup> Nach Inkrafttreten dieses Übereinkommens kann das Ministerkomitee des Europarats durch einen mit der in Artikel 20 Buchstabe d der Satzung des Europarats[^14-1] vorgesehenen Mehrheit und mit einhelliger Zustimmung der Vertragsstaaten, die Anspruch auf einen Sitz im Ministerkomitee haben, gefassten Beschluss die Europäische Gemeinschaft und jeden europäischen Staat, der nicht Mitglied des Europarats ist, einladen, dem Übereinkommen beizutreten.
+<sup>1.</sup> Nach Inkrafttreten dieses Übereinkommens kann das Ministerkomitee des Europarats durch einen mit der in Artikel 20 Buchstabe d der Satzung des Europarats vorgesehenen Mehrheit und mit einhelliger Zustimmung der Vertragsstaaten, die Anspruch auf einen Sitz im Ministerkomitee haben, gefassten Beschluss die Europäische Union und jeden Staat, der nicht Mitglied des Europarats ist, einladen, dem Übereinkommen beizutreten.[^14-1]
 
 <sup>2.</sup> Für jeden beitretenden Staat oder die Europäische Gemeinschaft im Falle ihres Beitritts tritt dieses Übereinkommen am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von drei Monaten nach Hinterlegung der Beitrittsurkunde beim Generalsekretär des Europarats folgt.
 
-[^14-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^14-1]: Fassung gemäss Art. 7 des Prot. vom 15. Juni 2016, in Kraft getreten für die Schweiz am 1. Juli 2021 ([AS 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 #### Art. 15
 
@@ -269,49 +285,49 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates un
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Florenz am 20. Oktober 2000 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und jedem Staat oder der Europäischen Gemeinschaft, sofern sie zum Beitritt zu diesem Übereinkommen eingeladen worden sind, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 1. März 2013
+Geltungsbereich am 1. März 2013**[^t-3]**
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Andorra</td><td>7. März</td><td>2012</td><td>1. Juli</td><td>2012</td></tr>
-<tr><td colspan="2">Armenien</td><td>23. März</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
-<tr><td colspan="2">Aserbaidschan</td><td>30. August</td><td>2011</td><td>1. Dezember</td><td>2011</td></tr>
-<tr><td colspan="2">Belgien</td><td>28. Oktober</td><td>2004</td><td>1. Februar</td><td>2005</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>31. Januar</td><td>2012</td><td>1. Mai</td><td>2012</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>24. November</td><td>2004</td><td>1. März</td><td>2005</td></tr>
-<tr><td colspan="2">Dänemark<sup>a</sup></td><td>20. März</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Finnland</td><td>16. Dezember</td><td>2005</td><td>1. April</td><td>2006</td></tr>
-<tr><td colspan="2">Frankreich</td><td>17. März</td><td>2004</td><td>1. Juli</td><td>2006</td></tr>
-<tr><td colspan="2">Georgien</td><td>15. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
-<tr><td colspan="2">Griechenland</td><td>17. Mai</td><td>2010</td><td>1. September</td><td>2010</td></tr>
-<tr><td colspan="2">Irland</td><td>22. März</td><td>2002</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Italien</td><td>4. Mai</td><td>2006</td><td>1. September</td><td>2006</td></tr>
-<tr><td colspan="2">Kroatien</td><td>15. Januar</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Lettland</td><td>5. Juni</td><td>2007</td><td>1. Oktober</td><td>2007</td></tr>
-<tr><td colspan="2">Litauen</td><td>13. November</td><td>2002</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>20. September</td><td>2006</td><td>1. Januar</td><td>2007</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>18. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Moldau</td><td>14. März</td><td>2002</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Montenegro</td><td>22. Januar</td><td>2009</td><td>1. Mai</td><td>2009</td></tr>
-<tr><td colspan="2">Niederlande<sup>b</sup></td><td>27. Juli</td><td>2005</td><td>1. November</td><td>2005</td></tr>
-<tr><td colspan="2">Norwegen</td><td>23. Oktober</td><td>2001</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Polen</td><td>27. September</td><td>2004</td><td>1. Januar</td><td>2005</td></tr>
-<tr><td colspan="2">Portugal</td><td>29. März</td><td>2005</td><td>1. Juli</td><td>2005</td></tr>
-<tr><td colspan="2">Rumänien</td><td>7. November</td><td>2002</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">San Marino</td><td>26. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Schweden</td><td>5. Januar</td><td>2011</td><td>1. Mai</td><td>2011</td></tr>
-<tr><td colspan="2">Schweiz</td><td>22. Februar</td><td>2013</td><td>1. Juni</td><td>2013</td></tr>
-<tr><td colspan="2">Serbien</td><td>28. Juni</td><td>2011</td><td>1. Oktober</td><td>2011</td></tr>
-<tr><td colspan="2">Slowakei</td><td>9. August</td><td>2005</td><td>1. Dezember</td><td>2005</td></tr>
-<tr><td colspan="2">Slowenien</td><td>25. September</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Spanien</td><td>26. November</td><td>2007</td><td>1. März</td><td>2008</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>3. Juni</td><td>2004</td><td>1. Oktober</td><td>2004</td></tr>
-<tr><td colspan="2">Türkei</td><td>13. Oktober</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td colspan="2">Ukraine</td><td>10. März</td><td>2006</td><td>1. Juli</td><td>2006</td></tr>
-<tr><td colspan="2">Ungarn</td><td>26. Oktober</td><td>2007</td><td>1. Februar</td><td>2008</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich<sup>c</sup></td><td>21. November</td><td>2006</td><td>1. März</td><td>2007</td></tr>
-<tr><td colspan="2">Zypern</td><td>21. Juni</td><td>2006</td><td>1. Oktober</td><td>2006</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Das Übereinkommen gilt nicht für die Färöer und für Grönland.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Für das Königreich in Europa.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">Anwendbar auf das Hoheitsgebiet des Mutterlandes von Grossbritannien und Nordirland.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Andorra</td><td>7. März</td><td>2012</td><td>1. Juli</td><td>2012</td></tr>
+<tr><td>Armenien</td><td>23. März</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
+<tr><td>Aserbaidschan</td><td>30. August</td><td>2011</td><td>1. Dezember</td><td>2011</td></tr>
+<tr><td>Belgien</td><td>28. Oktober</td><td>2004</td><td>1. Februar</td><td>2005</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>31. Januar</td><td>2012</td><td>1. Mai</td><td>2012</td></tr>
+<tr><td>Bulgarien</td><td>24. November</td><td>2004</td><td>1. März</td><td>2005</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>20. März</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Finnland</td><td>16. Dezember</td><td>2005</td><td>1. April</td><td>2006</td></tr>
+<tr><td>Frankreich</td><td>17. März</td><td>2004</td><td>1. Juli</td><td>2006</td></tr>
+<tr><td>Georgien</td><td>15. September</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
+<tr><td>Griechenland</td><td>17. Mai</td><td>2010</td><td>1. September</td><td>2010</td></tr>
+<tr><td>Irland</td><td>22. März</td><td>2002</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Italien</td><td>4. Mai</td><td>2006</td><td>1. September</td><td>2006</td></tr>
+<tr><td>Kroatien</td><td>15. Januar</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Lettland</td><td>5. Juni</td><td>2007</td><td>1. Oktober</td><td>2007</td></tr>
+<tr><td>Litauen</td><td>13. November</td><td>2002</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Luxemburg</td><td>20. September</td><td>2006</td><td>1. Januar</td><td>2007</td></tr>
+<tr><td>Moldau</td><td>14. März</td><td>2002</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Montenegro</td><td>22. Januar</td><td>2009</td><td>1. Mai</td><td>2009</td></tr>
+<tr><td>Niederlande <sup>b</sup></td><td>27. Juli</td><td>2005</td><td>1. November</td><td>2005</td></tr>
+<tr><td>Nordmazedonien</td><td>18. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Norwegen</td><td>23. Oktober</td><td>2001</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Polen</td><td>27. September</td><td>2004</td><td>1. Januar</td><td>2005</td></tr>
+<tr><td>Portugal</td><td>29. März</td><td>2005</td><td>1. Juli</td><td>2005</td></tr>
+<tr><td>Rumänien</td><td>7. November</td><td>2002</td><td>1. März</td><td>2004</td></tr>
+<tr><td>San Marino</td><td>26. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Schweden</td><td>5. Januar</td><td>2011</td><td>1. Mai</td><td>2011</td></tr>
+<tr><td>Schweiz</td><td>22. Februar</td><td>2013</td><td>1. Juni</td><td>2013</td></tr>
+<tr><td>Serbien</td><td>28. Juni</td><td>2011</td><td>1. Oktober</td><td>2011</td></tr>
+<tr><td>Slowakei</td><td>9. August</td><td>2005</td><td>1. Dezember</td><td>2005</td></tr>
+<tr><td>Slowenien</td><td>25. September</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Spanien</td><td>26. November</td><td>2007</td><td>1. März</td><td>2008</td></tr>
+<tr><td>Tschechische Republik</td><td>3. Juni</td><td>2004</td><td>1. Oktober</td><td>2004</td></tr>
+<tr><td>Türkei</td><td>13. Oktober</td><td>2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Ukraine</td><td>10. März</td><td>2006</td><td>1. Juli</td><td>2006</td></tr>
+<tr><td>Ungarn</td><td>26. Oktober</td><td>2007</td><td>1. Februar</td><td>2008</td></tr>
+<tr><td>Vereinigtes Königreich <sup>c</sup></td><td>21. November</td><td>2006</td><td>1. März</td><td>2007</td></tr>
+<tr><td>Zypern</td><td>21. Juni</td><td>2006</td><td>1. Oktober</td><td>2006</td></tr>
+<tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und für Grönland. <sup>b</sup> Für das Königreich in Europa. <sup>c</sup> Anwendbar auf das Hoheitsgebiet des Mutterlandes von Grossbritannien und Nordirland.</td></tr>
 </table>
+
+[^t-3]: Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/treaty.

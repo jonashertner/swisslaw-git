@@ -3,36 +3,37 @@ sr: "0.451.3"
 title: Convention du Conseil de l’Europe du 20 octobre 2000 sur le paysage
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/329"
 language: fr
-version: 2013-06-01
+version: 2021-07-01
 adopted: 2000-10-20
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20130601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-329-20130601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20130601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-329-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention européenne du paysage
+# Convention du Conseil de l’Europe sur le paysage****
 
-RO **2013** 1379; FF **2012** 7641
+RO **2013** 1379; FF **2012** 7641[^t-1]
 
 Texte original
 
 Conclue à Florence le 20 octobre 2000
 
-Approuvée par l’Assemblée fédérale le 28 septembre 2012[^t-1]
+Approuvée par l’Assemblée fédérale le 28 septembre 2012[^t-2]
 
 Instrument de ratification déposé par la Suisse le 22 février 2013
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 2013
 
-(Etat le 1<sup>er</sup> juin 2013)
+(Etat le 1<sup>er</sup> juillet 2021)
 
-[^t-1]: [RO 2013 1377](https://fedlex.data.admin.ch/eli/oc/2013/328)
+[^t-1]: Nouvelle teneur selon l’art. 1 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)). Les Am. du 15 juin 2016 ([RS 0.451.31](https://fedlex.data.admin.ch/eli/cc/2021/403); [RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)) ont été insérés dans le Prot. Ces Am. ne régissent que les rapports entre les États les ayant ratifiés. Voir par conséquent leurs champs d’application dans les textes RS cités entre parenthèse.
+[^t-2]: [RO 2013 1377](https://fedlex.data.admin.ch/eli/oc/2013/328)
 
 *Préambule*
 
-Les Etats membres du Conseil de l’Europe, signataires de la présente Convention,
+Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
 considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres, afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun, et que ce but est poursuivi en particulier par la conclusion d’accords dans les domaines économique et social;
 
@@ -44,27 +45,33 @@ conscients que le paysage concourt à l’élaboration des cultures locales et q
 
 reconnaissant que le paysage est partout un élément important de la qualité de vie des populations: dans les milieux urbains et dans les campagnes, dans les territoires dégradés comme dans ceux de grande qualité, dans les espaces remarquables comme dans ceux du quotidien;
 
+conscients, de manière générale, de l’importance du paysage à l’échelle mondiale en tant que composante essentielle du cadre de vie des êtres humains;[^ingress-1]
+
 notant que les évolutions des techniques de productions agricole, sylvicole, industrielle et minière et des pratiques en matière d’aménagement du territoire, d’urbanisme, de transport, de réseaux, de tourisme et de loisirs, et, plus généralement, les changements économiques mondiaux continuent, dans beaucoup de cas, à accélérer la transformation des paysages;
 
 désirant répondre au souhait du public de jouir de paysages de qualité et de jouer un rôle actif dans leur transformation;
 
 persuadés que le paysage constitue un élément essentiel du bien-être individuel et social, et que sa protection, sa gestion et son aménagement impliquent des droits et des responsabilités pour chacun;
 
-ayant à l’esprit les textes juridiques existant au niveau international dans les domaines de la protection et de la gestion du patrimoine naturel et culturel, de l’aménagement du territoire, de l’autonomie locale et de la coopération transfrontalière, notamment la Convention relative à la conservation de la vie sauvage et du milieu naturel de l’Europe (Berne, 19 septembre 1979)[^ingress-1], la Convention pour la sauvegarde du patrimoine architectural de l’Europe (Grenade, 3 octobre 1985)[^ingress-2], la Convention européenne pour la protection du patrimoine archéologique (révisée) (La Valette, 16 janvier 1992)[^ingress-3], la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales (Madrid, 21 mai 1980)[^ingress-4] et ses protocoles additionnels, la Charte européenne de l’autonomie locale (Strasbourg, 15 octobre 1985)[^ingress-5], la Convention sur la diversité biologique (Rio, 5 juin 1992)[^ingress-6], la Convention concernant la protection du patrimoine mondial, culturel et naturel (Paris, 16 novembre 1972), et la Convention sur l’accès à l’information, la participation du public au processus décisionnel et l’accès à la justice en matière d’environnement (Aarhus, 25 juin 1998)[^ingress-7];
+ayant à l’esprit les textes juridiques existant au niveau international dans les domaines de la protection et de la gestion du patrimoine naturel et culturel, de l’aménagement du territoire, de l’autonomie locale et de la coopération transfrontalière, notamment la Convention relative à la conservation de la vie sauvage et du milieu naturel de l’Europe (Berne, 19 septembre 1979)[^ingress-2], la Convention pour la sauvegarde du patrimoine architectural de l’Europe (Grenade, 3 octobre 1985)[^ingress-3], la Convention européenne pour la protection du patrimoine archéologique (révisée) (La Valette, 16 janvier 1992)[^ingress-4], la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales (Madrid, 21 mai 1980)[^ingress-5] et ses protocoles additionnels, la Charte européenne de l’autonomie locale (Strasbourg, 15 octobre 1985)[^ingress-6], la Convention sur la diversité biologique (Rio, 5 juin 1992)[^ingress-7], la Convention concernant la protection du patrimoine mondial, culturel et naturel (Paris, 16 novembre 1972), et la Convention sur l’accès à l’information, la participation du public au processus décisionnel et l’accès à la justice en matière d’environnement (Aarhus, 25 juin 1998)[^ingress-8];
 
 reconnaissant que la qualité et la diversité des paysages européens constituent une ressource commune pour la protection, la gestion et l’aménagement de laquelle il convient de coopérer;
 
-souhaitant instituer un instrument nouveau consacré exclusivement à la protection, à la gestion et à l’aménagement de tous les paysages européens,
+souhaitant instituer un instrument nouveau consacré exclusivement à la protection, à la gestion et à l’aménagement de tous les paysages européens;
+
+souhaitant que les valeurs et principes énoncés par la Convention puissent également s’appliquer à des États non européens qui le souhaiteraient;[^ingress-9]
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
-[^ingress-2]: [RS 0.440.4](https://fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402)
-[^ingress-3]: [RS 0.440.5](https://fedlex.data.admin.ch/eli/cc/1996/2965_2965_2965)
-[^ingress-4]: [RS 0.131.1](https://fedlex.data.admin.ch/eli/cc/1982/1076_1076_1076)
-[^ingress-5]: [RS 0.102](https://fedlex.data.admin.ch/eli/cc/2005/412)
-[^ingress-6]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-7]: [FF 2012 4027](https://fedlex.data.admin.ch/eli/fga/2012/596)
+[^ingress-1]: Par. introduit par l’art. 2 ch. 1 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
+[^ingress-2]: [RS 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
+[^ingress-3]: [RS 0.440.4](https://fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402)
+[^ingress-4]: [RS 0.440.5](https://fedlex.data.admin.ch/eli/cc/1996/2965_2965_2965)
+[^ingress-5]: [RS 0.131.1](https://fedlex.data.admin.ch/eli/cc/1982/1076_1076_1076)
+[^ingress-6]: [RS 0.102](https://fedlex.data.admin.ch/eli/cc/2005/412)
+[^ingress-7]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-8]: [FF 2012 4027](https://fedlex.data.admin.ch/eli/fga/2012/596)
+[^ingress-9]: Par. introduit par l’art. 2 ch. 2 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Chapitre I Dispositions générales
 
@@ -89,9 +96,11 @@ Sous réserve des dispositions de l’art. 15, la présente Convention s’appli
 
 #### Art. 3
 
-**Objectifs**
+**Objectifs**[^3-1]
 
-La présente Convention a pour objet de promouvoir la protection, la gestion et l’aménagement des paysages, et d’organiser la coopération européenne dans ce domaine.
+La présente Convention a pour objet de promouvoir la protection, la gestion et l’aménagement des paysages, et d’organiser la coopération entre les Parties.
+
+[^3-1]: Nouvelle teneur selon l’art. 3 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Chapitre II Mesures nationales
 
@@ -140,7 +149,9 @@ En mobilisant les acteurs concernés conformément à l’art. 5, let. c et en v
 
 - b. à qualifier les paysages identifiés en tenant compte des valeurs particulières qui leur sont attribuées par les acteurs et les populations concernés.
 
-<sup>2.</sup> Les travaux d’identification et de qualification seront guidés par des échanges d’expériences et de méthodologies, organisés entre les Parties à l’échelle européenne en application de l’art. 8.
+<sup>2.</sup> Les travaux d’identification et de qualification seront guidés par des échanges d’expériences et de méthodologies, organisés entre les Parties à l’échelle internationale en application de l’article 8.[^6-subdivu3-1]
+
+[^6-subdivu3-1]: Nouvelle teneur selon l’art. 4 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ### D. Objectifs de qualité paysagère
 
@@ -150,7 +161,11 @@ Chaque Partie s’engage à formuler des objectifs de qualité paysagère pour l
 
 Pour mettre en œuvre les politiques du paysage, chaque Partie s’engage à mettre en place des moyens d’intervention visant la protection, la gestion et/ou l’aménagement des paysages.
 
-## Chapitre III Coopération européenne
+## Chapitre III Coopération entre les Parties****
+
+[^chapIII-1]
+
+[^chapIII-1]: Nouvelle teneur selon l’art. 5 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 #### Art. 7
 
@@ -190,13 +205,15 @@ Les Parties s’engagent à encourager la coopération transfrontalière au nive
 
 **Prix du paysage du Conseil de l’Europe**
 
-<sup>1.</sup> Peuvent se voir attribuer le Prix du paysage du Conseil de l’Europe les collectivités locales et régionales et leurs groupements qui, dans le cadre de la politique de paysage d’une Partie à la présente Convention, ont mis en œuvre une politique ou des mesures visant la protection, la gestion et/ou l’aménagement durable de leurs paysages, faisant la preuve d’une efficacité durable et pouvant ainsi servir d’exemple aux autres collectivités territoriales européennes. La distinction pourra également être attribuée aux organisations non gouvernementales qui ont fait preuve d’une contribution particulièrement remarquable à la protection, à la gestion ou à l’aménagement du paysage.
+<sup>1.</sup> Peuvent se voir attribuer le Prix du paysage du Conseil de l’Europe les collectivités locales et régionales et leurs groupements qui, dans le cadre de la politique de paysage d’une Partie à la présente Convention, ont mis en œuvre une politique ou des mesures visant la protection, la gestion et/ou l’aménagement durable de leurs paysages, faisant la preuve d’une efficacité durable et pouvant ainsi servir d’exemple aux autres collectivités territoriales des Parties. La distinction pourra également être attribuée aux organisations non gouvernementales qui ont fait preuve d’une contribution particulièrement remarquable à la protection, à la gestion ou à l’aménagement du paysage.[^11-1]
 
 <sup>2.</sup> Les candidatures au Prix du paysage du Conseil de l’Europe seront transmises aux Comités d’experts visés à l’art. 10 par les Parties. Les collectivités locales et régionales transfrontalières et les regroupements de collectivités locales ou régionales concernés peuvent être candidats, à la condition qu’ils gèrent ensemble le paysage en question.
 
 <sup>3.</sup> Sur proposition des Comités d’experts visés à l’art. 10 le Comité des Ministres définit et publie les critères d’attribution du Prix du paysage du Conseil de l’Europe, adopte son règlement et décerne le prix.
 
 <sup>4.</sup> L’attribution du Prix du paysage du Conseil de l’Europe doit conduire les sujets qui en sont titulaires à veiller à la protection, à la gestion et/ou à l’aménagement durables des paysages concernés.
+
+[^11-1]: Nouvelle teneur selon l’art. 6 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Chapitre IV Clauses finales
 
@@ -210,9 +227,9 @@ Les dispositions de la présente Convention ne portent pas atteinte aux disposit
 
 **Signature, ratification, entrée en vigueur**
 
-<sup>1.</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près du Secrétaire Général du Conseil de l’Europe.
+<sup>1.</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près du Secrétaire Général du Conseil de l’Europe.
 
-<sup>2.</sup> La Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle dix Etats membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention conformément aux dispositions du paragraphe précédent.
+<sup>2.</sup> La Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle dix États membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention conformément aux dispositions du paragraphe précédent.
 
 <sup>3.</sup> Pour tout signataire qui exprimera ultérieurement son consentement à être lié par la Convention, celle-ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
@@ -220,17 +237,17 @@ Les dispositions de la présente Convention ne portent pas atteinte aux disposit
 
 **Adhésion**
 
-<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter la Communauté européenne et tout Etat européen non membre du Conseil de l’Europe à adhérer à la Convention, par une décision prise à la majorité prévue à l’art. 20, let. d du Statut du Conseil de l’Europe[^14-1], et à l’unanimité des Etats Parties ayant le droit de siéger au Comité des Ministres.
+<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter l’Union européenne et tout État non membre du Conseil de l’Europe à adhérer à la Convention, par une décision prise à la majorité prévue à l’article 20.d du Statut du Conseil de l’Europe, et à l’unanimité des États parties ayant le droit de siéger au Comité des Ministres.[^14-1]
 
-<sup>2.</sup> Pour tout Etat adhérent ou pour la Communauté européenne en cas d’adhésion, la présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt de l’instrument d’adhésion près du Secrétaire Général du Conseil de l’Europe.
+<sup>2.</sup> Pour tout État adhérent ou pour la Communauté européenne en cas d’adhésion, la présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt de l’instrument d’adhésion près du Secrétaire Général du Conseil de l’Europe.
 
-[^14-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^14-1]: Nouvelle teneur selon l’art. 7 du Prot. du 15 juin 2016, en vigueur pour la Suisse depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 #### Art. 15
 
 **Application territoriale**
 
-<sup>1.</sup> Tout Etat ou la Communauté européenne peuvent, au moment de la signature ou au moment du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+<sup>1.</sup> Tout État ou la Communauté européenne peuvent, au moment de la signature ou au moment du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
 
 <sup>2.</sup> Toute Partie peut, à tout moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention à tout autre territoire désigné dans la déclaration. La Convention entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
 
@@ -250,9 +267,9 @@ Les dispositions de la présente Convention ne portent pas atteinte aux disposit
 
 <sup>1.</sup> Toute Partie ou les Comités d’experts visés à l’art. 10 peuvent proposer des amendements à la présente Convention.
 
-<sup>2.</sup> Toute proposition d’amendement est notifiée au Secrétaire Général du Conseil de l’Europe qui la communique aux Etats membres du Conseil de l’Europe, aux autres Parties et à chaque Etat européen non membre qui a été invité à adhérer à la présente Convention conformément aux dispositions de l’art. 14.
+<sup>2.</sup> Toute proposition d’amendement est notifiée au Secrétaire Général du Conseil de l’Europe qui la communique aux États membres du Conseil de l’Europe, aux autres Parties et à chaque État européen non membre qui a été invité à adhérer à la présente Convention conformément aux dispositions de l’art. 14.
 
-<sup>3.</sup> Toute proposition d’amendement est examinée par les Comités d’experts visés à l’art. 10 qui soumettent le texte adopté à la majorité des trois quarts des représentants des Parties au Comité des Ministres pour adoption. Après son adoption par le Comité des Ministres à la majorité prévue à l’art. 20, let. d du Statut du Conseil de l’Europe[^17-1] et à l’unanimité des représentants des Etats Parties ayant le droit de siéger au Comité des Ministres, le texte est transmis aux Parties pour acceptation.
+<sup>3.</sup> Toute proposition d’amendement est examinée par les Comités d’experts visés à l’art. 10 qui soumettent le texte adopté à la majorité des trois quarts des représentants des Parties au Comité des Ministres pour adoption. Après son adoption par le Comité des Ministres à la majorité prévue à l’art. 20, let. d du Statut du Conseil de l’Europe[^17-1] et à l’unanimité des représentants des États Parties ayant le droit de siéger au Comité des Ministres, le texte est transmis aux Parties pour acceptation.
 
 <sup>4.</sup> Tout amendement entre en vigueur à l’égard des Parties qui l’ont accepté le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle trois Parties membres du Conseil de l’Europe auront informé le Secrétaire Général qu’elles l’ont accepté. Pour toute autre Partie qui l’aura accepté ultérieurement, l’amendement entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle ladite Partie aura informé le Secrétaire Général de son acceptation.
 
@@ -262,7 +279,7 @@ Les dispositions de la présente Convention ne portent pas atteinte aux disposit
 
 **Notifications**
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil de l’Europe, à tout Etat ou la Communauté européenne ayant adhéré à la présente Convention:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil de l’Europe, à tout État ou la Communauté européenne ayant adhéré à la présente Convention:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -272,12 +289,12 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 - f. toute proposition d’amendement, ainsi que tout amendement adopté conformément à l’art. 17 et la date à laquelle cet amendement entre en vigueur;
 - g. tout autre acte, notification, information ou communication ayant trait à la présente Convention.
 
-*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Florence, le 20 octobre 2000, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe ainsi qu’à tout Etat ou à la Communauté européenne invités à adhérer à la présente Convention. (Suivent les signatures)
+*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Florence, le 20 octobre 2000, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe ainsi qu’à tout État ou à la Communauté européenne invités à adhérer à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 1<sup>er</sup> mars 2013
+Champ d’application le 1<sup>er</sup> mars 2013**[^t-3]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Andorre</td><td>7 mars</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
 <tr><td>Arménie</td><td>23 mars</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Azerbaïdjan</td><td>30 août</td><td>2011</td><td>1<sup>er</sup> décembre</td><td>2011</td></tr>
@@ -298,7 +315,7 @@ Champ d’application le 1<sup>er</sup> mars 2013
 <tr><td>Lettonie</td><td>5 juin</td><td>2007</td><td>1<sup>er</sup> octobre</td><td>2007</td></tr>
 <tr><td>Lituanie</td><td>13 novembre</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>20 septembre</td><td>2006</td><td>1<sup>er</sup> janvier</td><td>2007</td></tr>
-<tr><td>Macédoine</td><td>18 novembre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
+<tr><td>Macédoine du Nord</td><td>18 novembre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>Moldova</td><td>14 mars</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>Monténégro</td><td>22 janvier</td><td>2009</td><td>1<sup>er</sup> mai</td><td>2009</td></tr>
 <tr><td>Norvège</td><td>23 octobre</td><td>2001</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
@@ -316,7 +333,9 @@ Champ d’application le 1<sup>er</sup> mars 2013
 <tr><td>Suède</td><td>5 janvier</td><td>2011</td><td>1<sup>er</sup> mai</td><td>2011</td></tr>
 <tr><td>Turquie</td><td>13 octobre</td><td>2003</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>Ukraine</td><td>10 mars</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
-<tr><td colspan="5"><sup>a</sup> La convention ne s’applique pas aux Iles Féroé et au Groënland.</td></tr>
+<tr><td colspan="5"><sup>a</sup> La convention ne s’applique pas aux Îles Féroé et au Groënland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Pour le Royaume en Europe</td></tr>
 <tr><td colspan="5"><sup>c</sup> Application au territoire métropolitain de Grande-Bretagne et d’Irlande du Nord</td></tr>
 </table>
+
+[^t-3]: Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.

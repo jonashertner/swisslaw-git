@@ -3,26 +3,32 @@ sr: "0.451.3"
 title: Convenzione del Consiglio d’Europa del 20 ottobre 2000 sul paesaggio
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/329"
 language: it
-version: 2013-06-01
+version: 2021-07-01
 adopted: 2000-10-20
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20130601/it/xml/fedlex-data-admin-ch-eli-cc-2013-329-20130601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20130601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/329/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2013-329-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/329/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione europea del paesaggio
+# Convenzione del Consiglio d’Europa sul paesaggio****
 
-RU **2013** 1379; FF **2012** 7299
+RU **2013** 1379; FF **2012** 7299[^t-1]
 
-Traduzione*[^t-1]*
+Traduzione
 
-Fatta a Firenze il 20 ottobre 2000 Approvata dall’Assemblea federale il 28 settembre 2012[^t-2] Strumenti di ratifica depositati dalla Svizzera il 22 febbraio 2013 Entrata in vigore per la Svizzera il 1° giugno 2013
+Fatta a Firenze il 20 ottobre 2000
 
-(Stato 1° giugno 2013)
+Approvata dall’Assemblea federale il 28 settembre 2012[^t-2]
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
+Strumenti di ratifica depositati dalla Svizzera il 22 febbraio 2013
+
+Entrata in vigore per la Svizzera il 1° giugno 2013
+
+(Stato 1° luglio 2021)
+
+[^t-1]: Nuovo testo giusta l’art. 1 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 (RU **2021** 403). Le modifiche del 15 giu. 2016 ([RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) **0.451.31**; RU **2021** 403) sono inserite nella presente Convenzione. Queste modifiche sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque il loro proprio campo d’applicazione.
 [^t-2]: [RU 2013 1377](https://fedlex.data.admin.ch/eli/oc/2013/328)
 
 Preambolo
@@ -39,27 +45,33 @@ consapevoli del fatto che il paesaggio coopera all’elaborazione delle culture 
 
 riconoscendo che il paesaggio è in ogni luogo un elemento importante della qualità della vita delle popolazioni: nelle aree urbane e nelle campagne, nei territori degradati, come in quelli di grande qualità, nelle zone considerate eccezionali, come in quelle della vita quotidiana;
 
+consapevoli, in generale, dell’importanza del paesaggio su scala globale come componente essenziale dell’ambiente di vita degli esseri umani;[^ingress-1]
+
 osservando che le evoluzioni delle tecniche di produzione agricola, forestale, industriale e pianificazione mineraria e delle prassi in materia di pianificazione territoriale, urbanistica, trasporti, reti, turismo e svaghi e, più generalmente, i cambiamenti economici mondiali continuano, in molti casi, ad accelerare le trasformazioni dei paesaggi;
 
 desiderando soddisfare gli auspici delle popolazioni di godere di un paesaggio di qualità e di svolgere un ruolo attivo nella sua trasformazione;
 
 persuasi che il paesaggio rappresenta un elemento chiave del benessere individuale e sociale, e che la sua salvaguardia, la sua gestione e la sua pianificazione comportano diritti e responsabilità per ciascun individuo;
 
-tenendo presenti i testi giuridici esistenti a livello internazionale nei settori della salvaguardia e della gestione del patrimonio naturale e culturale, della pianificazione territoriale, dell’autonomia locale e della cooperazione transfrontaliera e segnatamente la Convenzione relativa alla conservazione della vita selvatica e dell’ambiente naturale d’Europa (Berna, 19 settembre 1979)[^ingress-1], la Convenzione per la salvaguardia del patrimonio architettonico d’Europa (Granada, 3 ottobre 1985)[^ingress-2], la Convenzione europea per la tutela del patrimonio archeologico (rivista) (La Valletta, 16 gennaio 1992)[^ingress-3], la Convenzione-quadro europea sulla cooperazione transfrontaliera delle collettività o autorità territoriali (Madrid, 21 maggio 1980)[^ingress-4] e i suoi protocolli addizionali, la Carta europea dell’autonomia locale (Strasburgo, 15 ottobre 1985)[^ingress-5], la Convenzione sulla biodiversità (Rio, 5 giugno 1992)[^ingress-6], la Convenzione sulla tutela del patrimonio mondiale, culturale e naturale (Parigi, 16 novembre 1972), e la Convenzione relativa all’accesso all’informazione, alla partecipazione del pubblico al processo decisionale e all’accesso alla giustizia in materia ambientale (Aarhus, 25 giugno 1998)[^ingress-7];
+tenendo presenti i testi giuridici esistenti a livello internazionale nei settori della salvaguardia e della gestione del patrimonio naturale e culturale, della pianificazione territoriale, dell’autonomia locale e della cooperazione transfrontaliera e segnatamente la Convenzione relativa alla conservazione della vita selvatica e dell’ambiente naturale d’Europa (Berna, 19 settembre 1979)[^ingress-2], la Convenzione per la salvaguardia del patrimonio architettonico d’Europa (Granada, 3 ottobre 1985)[^ingress-3], la Convenzione europea per la tutela del patrimonio archeologico (rivista) (La Valletta, 16 gennaio 1992)[^ingress-4], la Convenzione-quadro europea sulla cooperazione transfrontaliera delle collettività o autorità territoriali (Madrid, 21 maggio 1980)[^ingress-5] e i suoi protocolli addizionali, la Carta europea dell’autonomia locale (Strasburgo, 15 ottobre 1985)[^ingress-6], la Convenzione sulla biodiversità (Rio, 5 giugno 1992)[^ingress-7], la Convenzione sulla tutela del patrimonio mondiale, culturale e naturale (Parigi, 16 novembre 1972), e la Convenzione relativa all’accesso all’informazione, alla partecipazione del pubblico al processo decisionale e all’accesso alla giustizia in materia ambientale (Aarhus, 25 giugno 1998)[^ingress-8];
 
 riconoscendo che la qualità e la diversità dei paesaggi europei costituiscono una risorsa comune per la cui salvaguardia, gestione e pianificazione occorre cooperare;
 
 desiderando istituire un nuovo strumento dedicato esclusivamente alla salvaguardia, alla gestione e alla pianificazione di tutti i paesaggi europei;
 
+auspicando che i valori e i principi enunciati nella Convenzione possano essere applicati anche a Stati non europei che lo desiderino;[^ingress-9]
+
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
-[^ingress-2]: [RS 0.440.4](https://fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402)
-[^ingress-3]: [RS 0.440.5](https://fedlex.data.admin.ch/eli/cc/1996/2965_2965_2965)
-[^ingress-4]: [RS 0.131.1](https://fedlex.data.admin.ch/eli/cc/1982/1076_1076_1076)
-[^ingress-5]: [RS 0.102](https://fedlex.data.admin.ch/eli/cc/2005/412)
-[^ingress-6]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-7]: [FF 2012 3841](https://fedlex.data.admin.ch/eli/fga/2012/596)
+[^ingress-1]: Par. introdotto dall’art. 2 n. 1 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 ([RU 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
+[^ingress-2]: [RS 0.455](https://fedlex.data.admin.ch/eli/cc/1982/802_802_802)
+[^ingress-3]: [RS 0.440.4](https://fedlex.data.admin.ch/eli/cc/1996/2402_2402_2402)
+[^ingress-4]: [RS 0.440.5](https://fedlex.data.admin.ch/eli/cc/1996/2965_2965_2965)
+[^ingress-5]: [RS 0.131.1](https://fedlex.data.admin.ch/eli/cc/1982/1076_1076_1076)
+[^ingress-6]: [RS 0.102](https://fedlex.data.admin.ch/eli/cc/2005/412)
+[^ingress-7]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-8]: [FF 2012 3841](https://fedlex.data.admin.ch/eli/fga/2012/596)
+[^ingress-9]: Par. introdotto dall’art. 2 n. 2 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 ([RU 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Capitolo I Disposizioni generali
 
@@ -84,9 +96,11 @@ Fatte salve le disposizioni dell’articolo 15, la presente Convenzione si appli
 
 #### Art. 3
 
-**Obiettivi**
+**Obiettivi**[^3-1]
 
-La presente Convenzione si prefigge lo scopo di promuovere la salvaguardia, la gestione e la pianificazione dei paesaggi e di organizzare la cooperazione europea in questo campo.
+La presente Convenzione si prefigge lo scopo di promuovere la salvaguardia, la gestione e la pianificazione dei paesaggi e di organizzare la cooperazione tra le Parti.
+
+[^3-1]: Nuovo testo giusta l’art. 3 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 ([RU 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Capitolo II Provvedimenti nazionali
 
@@ -135,7 +149,9 @@ Mobilitando i soggetti interessati conformemente all’articolo 5 lettera c, e a
 
 - b. valutare i paesaggi individuati, tenendo conto dei valori specifici che sono loro attribuiti dai soggetti e dalle popolazioni interessate.
 
-<sup>2.</sup> I lavori di individuazione e di valutazione verranno guidati dagli scambi di esperienze e di metodologie organizzati tra le Parti, su scala europea, in applicazione dell’articolo 8 della presente Convenzione.
+<sup>2.</sup> I lavori di identificazione e di qualificazione saranno basati su scambi di esperienze e metodologie organizzati tra le Parti a livello internazionale conformemente all’articolo 8.[^6-subdivu3-1]
+
+[^6-subdivu3-1]: Nuovo testo giusta l’art. 4 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 ([RU 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ### D. Obiettivi di qualità paesaggistica
 
@@ -145,7 +161,11 @@ Ogni parte si impegna a stabilire degli obiettivi di qualità paesaggistica rigu
 
 Per attuare le politiche del paesaggio, ogni Parte si impegna ad attivare gli strumenti di intervento volti alla salvaguardia, alla gestione e/o alla pianificazione dei paesaggi.
 
-## Capitolo III Cooperazione europea
+## Capitolo III Cooperazione tra le Parti****
+
+[^chapIII-1]
+
+[^chapIII-1]: Nuovo testo giusta l’art. 5 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 ([RU 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 #### Art. 7
 
@@ -185,13 +205,15 @@ Le Parti si impegnano ad incoraggiare la cooperazione transfrontaliera a livello
 
 **Premio del paesaggio del Consiglio d’Europa**
 
-<sup>1.</sup> Il Premio del paesaggio del Consiglio d’Europa può essere assegnato alle collettività locali e regionali e ai loro consorzi che, nell’ambito della politica paesaggistica di uno Stato Parte contraente della presente Convenzione, hanno attuato una politica o preso dei provvedimenti volti alla salvaguardia, alla gestione e/o alla pianificazione sostenibile dei loro paesaggi che dimostrino una efficacia durevole e possano in tal modo servire da modello per le altre collettività territoriali europee. Tale riconoscimento potrà ugualmente venir assegnato alle organizzazioni non governative che abbiano dimostrato di fornire un apporto particolarmente rilevante alla salvaguardia, alla gestione o alla pianificazione del paesaggio.
+<sup>1.</sup> Il Premio del paesaggio del Consiglio d’Europa può essere assegnato alle collettività locali e regionali e ai loro consorzi che, nell’ambito della politica paesaggistica di uno Stato Parte contraente della presente Convenzione, hanno attuato una politica o preso provvedimenti volti alla salvaguardia, alla gestione e/o alla pianificazione sostenibile dei loro paesaggi che dimostrano un’efficacia durevole e possono in tal modo servire da modello per le altre collettività territoriali delle Parti. Tale riconoscimento può altresì essere assegnato alle organizzazioni non governative che hanno dimostrato di fornire un apporto particolarmente rilevante alla salvaguardia, alla gestione o alla pianificazione del paesaggio.[^11-1]
 
 <sup>2.</sup> Le candidature per l’assegnazione del Premio del paesaggio del Consiglio d’Europa saranno trasmesse ai Comitati di Esperti di cui all’articolo 10 dalle Parti. Possono essere candidate delle collettività locali e regionali transfrontaliere, nonché dei raggruppamenti di collettività locali o regionali, purché gestiscano in comune il paesaggio in questione.
 
 <sup>3.</sup> Su proposta dei Comitati di esperti di cui all’articolo 10, il Comitato dei Ministri definisce e pubblica i criteri per l’assegnazione del Premio del Paesaggio del Consiglio d’Europa, ne adotta il regolamento e conferisce il premio.
 
 <sup>4.</sup> L’assegnazione del Premio del paesaggio del Consiglio d’Europa stimola i soggetti che lo ricevono a vigilare affinché i paesaggi interessati vengano salvaguardati, gestiti e/o pianificati in modo sostenibile.
+
+[^11-1]: Nuovo testo giusta l’art. 6 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 ([RU 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 ## Capitolo IV Clausole finali
 
@@ -215,11 +237,11 @@ Le disposizioni della presente Convenzione non precludono l’applicazione di di
 
 **Adesione**
 
-<sup>1.</sup> Dal momento dell’entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d’Europa potrà invitare la Comunità Europea e ogni Stato europeo non membro del Consiglio d’Europa ad aderire alla presente Convenzione, con una decisione presa dalla maggioranza prevista all’articolo 20 lettera d dello Statuto del Consiglio d’Europa[^14-1], e all’unanimità degli Stati Parti Contraenti aventi il diritto a sedere nel Comitato dei Ministri;
+<sup>1.</sup> Dal momento dell’entrata in vigore della presente Convenzione, il Comitato dei Ministri del Consiglio d’Europa può invitare l’Unione europea e ogni Stato non membro del Consiglio d’Europa ad aderire alla Convenzione, con una decisione presa dalla maggioranza secondo l’articolo 20 lettera d dello Statuto del Consiglio d’Europa, e all’unanimità dagli Stati Parti contraenti aventi il diritto a sedere nel Comitato dei Ministri.[^14-1]
 
 <sup>2.</sup> Per ogni Stato aderente o per la Comunità Europea in caso di adesione, la presente Convenzione entrerà in vigore il primo giorno del mese successivo allo scadere di un periodo di tre mesi dalla data del deposito dello strumento di adesione presso il Segretario Generale del Consiglio d’Europa.
 
-[^14-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^14-1]: Nuovo testo giusta l’art. 7 del Prot. del 15 giu. 2016, in vigore per la Svizzera dal 1° lug. 2021 ([RU 2021 403](https://fedlex.data.admin.ch/eli/oc/2021/403)).
 
 #### Art. 15
 
@@ -269,49 +291,55 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a questo fine, hanno firmato la presente Convenzione. Fatto a Firenze, il 20 ottobre 2000, in francese e in inglese, facendo i due testi ugualmente fede, in un unico esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmetterà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa, nonché a ciascuno degli Stati o alla Comunità Europea invitati ad aderire alla presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 1° marzo 2013
+Campo d’applicazione il 1° marzo 2013[^t-3]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Andorra</td><td>7 marzo</td><td>2012</td><td>1° luglio</td><td>2012</td></tr>
-<tr><td colspan="2">Armenia</td><td>23 marzo</td><td>2004</td><td>1° luglio</td><td>2004</td></tr>
-<tr><td colspan="2">Azerbaigian</td><td>30 agosto</td><td>2011</td><td>1° dicembre</td><td>2011</td></tr>
-<tr><td colspan="2">Belgio</td><td>28 ottobre</td><td>2004</td><td>1° febbraio</td><td>2005</td></tr>
-<tr><td colspan="2">Bosnia ed Herzegovina</td><td>31 gennaio</td><td>2012</td><td>1° maggio</td><td>2012</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>24 novembre</td><td>2004</td><td>1° marzo</td><td>2005</td></tr>
-<tr><td colspan="2">Ceca, Repubblica</td><td>3 giugno</td><td>2004</td><td>1° ottobre</td><td>2004</td></tr>
-<tr><td colspan="2">Cipro</td><td>21 giugno</td><td>2006</td><td>1° ottobre</td><td>2006</td></tr>
-<tr><td colspan="2">Croazia</td><td>15 gennaio</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Danimarca<sup>a</sup></td><td>20 marzo</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Finlandia</td><td>16 dicembre</td><td>2005</td><td>1° avril</td><td>2006</td></tr>
-<tr><td colspan="2">Francia</td><td>17 marzo</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
-<tr><td colspan="2">Georgia</td><td>15 settembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
-<tr><td colspan="2">Grecia</td><td>17 maggio</td><td>2010</td><td>1° settembre</td><td>2010</td></tr>
-<tr><td colspan="2">Irlanda</td><td>22 marzo</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Italia</td><td>4 maggio</td><td>2006</td><td>1° settembre</td><td>2006</td></tr>
-<tr><td colspan="2">Lettonia</td><td>5 giugno</td><td>2007</td><td>1° ottobre</td><td>2007</td></tr>
-<tr><td colspan="2">Lituania</td><td>13 novembre</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>20 settembre</td><td>2006</td><td>1° gennaio</td><td>2007</td></tr>
-<tr><td colspan="2">Macedoina</td><td>18 novembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Moldova</td><td>14 marzo</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Montenegro</td><td>22 gennaio</td><td>2009</td><td>1° maggio</td><td>2009</td></tr>
-<tr><td colspan="2">Norvegia</td><td>23 ottobre</td><td>2001</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Paesi Bassi<sup>b</sup></td><td>27 luglio</td><td>2005</td><td>1° novembre</td><td>2005</td></tr>
-<tr><td colspan="2">Polonia</td><td>27 settembre</td><td>2004</td><td>1° gennaio</td><td>2005</td></tr>
-<tr><td colspan="2">Portogallo</td><td>29 marzo</td><td>2005</td><td>1° luglio</td><td>2005</td></tr>
-<tr><td colspan="2">Regno Unito<sup>c</sup></td><td>21 novembre</td><td>2006</td><td>1° marzo</td><td>2007</td></tr>
-<tr><td colspan="2">Romania</td><td>7 novembre</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">San Marino</td><td>26 novembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Serbia</td><td>28 giugno</td><td>2011</td><td>1° ottobre</td><td>2011</td></tr>
-<tr><td colspan="2">Slovacchia</td><td>9 agosto</td><td>2005</td><td>1° dicembre</td><td>2005</td></tr>
-<tr><td colspan="2">Slovenia</td><td>25 settembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Spagna</td><td>26 novembre</td><td>2007</td><td>1° marzo</td><td>2008</td></tr>
-<tr><td colspan="2">Svezia</td><td>5 gennaio</td><td>2011</td><td>1° maggio</td><td>2011</td></tr>
-<tr><td colspan="2">Svizzera</td><td>22 febbraio</td><td>2013</td><td>1° giugno</td><td>2013</td></tr>
-<tr><td colspan="2">Turchia</td><td>13 ottobre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
-<tr><td colspan="2">Ungheria</td><td>26 ottobre</td><td>2007</td><td>1° febbraio</td><td>2008</td></tr>
-<tr><td colspan="2">Ucraina</td><td>10 marzo</td><td>2006</td><td>1° luglio</td><td>2006</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">La Conv. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Per il Regno in Europa.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">Applicabile al territorio metropolitano della Gran Bretagna e dell’Irlanda del Nord.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Andorra</td><td>7 marzo</td><td>2012</td><td>1° luglio</td><td>2012</td></tr>
+<tr><td>Armenia</td><td>23 marzo</td><td>2004</td><td>1° luglio</td><td>2004</td></tr>
+<tr><td>Azerbaigian</td><td>30 agosto</td><td>2011</td><td>1° dicembre</td><td>2011</td></tr>
+<tr><td>Belgio</td><td>28 ottobre</td><td>2004</td><td>1° febbraio</td><td>2005</td></tr>
+<tr><td>Bosnia ed Herzegovina</td><td>31 gennaio</td><td>2012</td><td>1° maggio</td><td>2012</td></tr>
+<tr><td>Bulgaria</td><td>24 novembre</td><td>2004</td><td>1° marzo</td><td>2005</td></tr>
+<tr><td>Ceca, Repubblica</td><td>3 giugno</td><td>2004</td><td>1° ottobre</td><td>2004</td></tr>
+<tr><td>Cipro</td><td>21 giugno</td><td>2006</td><td>1° ottobre</td><td>2006</td></tr>
+<tr><td>Croazia</td><td>15 gennaio</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td>20 marzo</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Finlandia</td><td>16 dicembre</td><td>2005</td><td>1° avril</td><td>2006</td></tr>
+<tr><td>Francia</td><td>17 marzo</td><td>2004</td><td>1° luglio</td><td>2006</td></tr>
+<tr><td>Georgia</td><td>15 settembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
+<tr><td>Grecia</td><td>17 maggio</td><td>2010</td><td>1° settembre</td><td>2010</td></tr>
+<tr><td>Irlanda</td><td>22 marzo</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Italia</td><td>4 maggio</td><td>2006</td><td>1° settembre</td><td>2006</td></tr>
+<tr><td>Lettonia</td><td>5 giugno</td><td>2007</td><td>1° ottobre</td><td>2007</td></tr>
+<tr><td>Lituania</td><td>13 novembre</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Lussemburgo</td><td>20 settembre</td><td>2006</td><td>1° gennaio</td><td>2007</td></tr>
+<tr><td>Macedonia del Nord</td><td>18 novembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Moldova</td><td>14 marzo</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Montenegro</td><td>22 gennaio</td><td>2009</td><td>1° maggio</td><td>2009</td></tr>
+<tr><td>Norvegia</td><td>23 ottobre</td><td>2001</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Paesi Bassi <sup>b</sup></td><td>27 luglio</td><td>2005</td><td>1° novembre</td><td>2005</td></tr>
+<tr><td>Polonia</td><td>27 settembre</td><td>2004</td><td>1° gennaio</td><td>2005</td></tr>
+<tr><td>Portogallo</td><td>29 marzo</td><td>2005</td><td>1° luglio</td><td>2005</td></tr>
+<tr><td>Regno Unito <sup>c</sup></td><td>21 novembre</td><td>2006</td><td>1° marzo</td><td>2007</td></tr>
+<tr><td>Romania</td><td>7 novembre</td><td>2002</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>San Marino</td><td>26 novembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Serbia</td><td>28 giugno</td><td>2011</td><td>1° ottobre</td><td>2011</td></tr>
+<tr><td>Slovacchia</td><td>9 agosto</td><td>2005</td><td>1° dicembre</td><td>2005</td></tr>
+<tr><td>Slovenia</td><td>25 settembre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Spagna</td><td>26 novembre</td><td>2007</td><td>1° marzo</td><td>2008</td></tr>
 </table>
+
+<table>
+<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Svezia</td><td>5 gennaio</td><td>2011</td><td>1° maggio</td><td>2011</td></tr>
+<tr><td>Svizzera</td><td>22 febbraio</td><td>2013</td><td>1° giugno</td><td>2013</td></tr>
+<tr><td>Turchia</td><td>13 ottobre</td><td>2003</td><td>1° marzo</td><td>2004</td></tr>
+<tr><td>Ungheria</td><td>26 ottobre</td><td>2007</td><td>1° febbraio</td><td>2008</td></tr>
+<tr><td>Ucraina</td><td>10 marzo</td><td>2006</td><td>1° luglio</td><td>2006</td></tr>
+<tr><td colspan="5"><sup>a</sup> La Conv. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>c</sup> Applicabile al territorio metropolitano della Gran Bretagna e dell’Irlanda del Nord.</td></tr>
+</table>
+
+[^t-3]: [RU 2013 1379](https://fedlex.data.admin.ch/eli/oc/2013/329). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
