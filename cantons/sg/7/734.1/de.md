@@ -4,13 +4,13 @@ number: "734.1"
 title: Wasserbaugesetz
 short: WBG
 language: de
-version: 2017-10-01
-valid_until: 2021-06-30
-version_adopted: 2016-07-05
+version: 2021-07-01
+valid_until: 2022-09-30
+version_adopted: 2021-04-13
 adopted: 2009-05-17
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/734.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2278/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3230/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2278/pdf_file"
 
 (WBG)
 
-vom 17.05.2009 (Stand 01.10.2017)
+vom 17.05.2009 (Stand 01.07.2021)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -50,11 +50,23 @@ als Gesetz:[^ingress-7]
 - a) Gewässerunterhalt;
 - b) Wasserbau;
 - c) Wasserbaupolizei;
-- d) Renaturierung von Gewässern.
+- d) Revitalisierung von Gewässern.
 
-<sup>2</sup> Er wird angewendet auf die stehenden und die fliessenden Oberflächengewässer, einschliesslich der in den Boden verlegten Abschnitte. Meteorwasserleitungen gelten nicht als Gewässer nach diesem Erlass.
+<sup>2</sup> Er wird angewendet auf die stehenden und die fliessenden Oberflächengewässer, einschliesslich der in den Boden verlegten Abschnitte. Meteorwasserableitungen und künstlich geschaffene Gewässernutzungsanlagen gelten nicht als Gewässer nach diesem Erlass.
 
-<sup>3</sup> Als Gewässer gilt das Gerinne, bei stehenden Gewässern die Wasserfläche, mit Einschluss des angrenzenden Ufers und allfälliger Schutzbauwerke.
+<sup>3</sup> …
+
+#### Art. 1a
+
+**Begriffe**
+
+<sup>1</sup> Als Gewässer gilt das Gerinne, bei stehenden Gewässern die Wasserfläche, mit Einschluss des angrenzenden Ufers und allfälliger Schutzbauwerke, jedoch ohne Rückhalteräume und Notentlastungsräume.
+
+<sup>2</sup> Als Gewässerunterhalt gelten Massnahmen, die erforderlich und geeignet sind, Gerinne und Ufer eines Gewässers sowie die Wasserbauwerke in einem guten Zustand zu erhalten.
+
+<sup>3</sup> Als Rückhalteraum gilt ein Gebiet zur kurzzeitigen Speicherung von Wasser bei einem Hochwasserereignis.
+
+<sup>4</sup> Als Notentlastungsraum gilt ein Abflussraum, der erst im Überlastfall beansprucht wird.
 
 #### Art. 2
 
@@ -88,7 +100,7 @@ als Gesetz:[^ingress-7]
 
 <sup>2</sup> Ist streitig, ob ein Gewässer oder ein Gewässerabschnitt als Gemeindegewässer gilt, entscheidet das zuständige Departement.[^4-1]
 
-[^4-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^4-1]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 5
 
@@ -129,44 +141,42 @@ als Gesetz:[^ingress-7]
 
 #### Art. 9
 
-**Begriff**
+**Unterhaltsmassnahmen**
 
-<sup>1</sup> Als Gewässerunterhalt gelten Massnahmen, die erforderlich und geeignet sind,Gerinne und Ufer eines Gewässers sowie die Wasserbauwerke in einem guten Zustand zu erhalten. Sie sind mit Ausnahme der Arbeiten nach Art. 10 Abs. 2 dieses Erlasses nicht meldepflichtig.
+<sup>1</sup> …
 
-<sup>2</sup> Als Unterhalt gelten insbesondere:
+<sup>2</sup> Als Unterhaltsmassnahmen gelten insbesondere:
 
 - a) periodische Pflege der Ufervegetation;
 - b) Entfernen von Böschungswülsten und anderen Hindernissen im Gerinne und an Ufern,wenn sie den Abfluss hemmen;
 - c) Ausschöpfen von Gewässern, wenn der Schutz der Umgebung vor Überflutung es erfordert;
 - d) Ausschöpfen von Kiesfängen;
 - e) Unterhaltsmassnahmen an Schutzbauten und Durchlässen;
-- f) Entfernen von Unrat.
+- f) Entfernen von Unrat;
+- g) Wiederinstandstellen von Notentlastungs- und Rückhalteräumen, die überflutet wurden;
+- h) Bekämpfung von invasiven Neophyten.
 
-<sup>3</sup> Unterhaltsarbeiten werden möglichst schonend und nach den Regeln einer naturnahen Gewässerpflege durchgeführt.
+<sup>3</sup> Unterhaltsmassnahmen werden möglichst schonend, nach den Regeln einer naturnahen Gewässerpflege und nach dem Stand der Technik im Bodenschutz durchgeführt.
 
 #### Art. 10
 
-**Durchführung**
+**Meldepflicht**
 
-<sup>1</sup> Soweit dieser Erlass nichts anderes bestimmt, bedürfen Unterhaltsarbeiten keiner Bewilligung.
+<sup>1</sup> …
 
-<sup>2</sup> Unterhaltsarbeiten sind meldepflichtig, wenn sie:
+<sup>2</sup> Unterhaltsmassnahmen nach Art. 9 Abs. 2 dieses Erlasses, ausgenommen jene nach Bst. a, f und h, sind meldepflichtig.
 
-- a) mit Eingriffen in die Sohle verbunden sind;[^10-1]
-- b) die Entfernung von Ufervegetation vorsehen;[^10-2]
-- c) zeitlich beschränkte Änderungen des Wasserabflusses zur Folge haben.[^10-3]
+- a) …
+- b) …
+- c) …
 
-<sup>3</sup> Die meldepflichtigen Unterhaltsarbeiten dürfen ausgeführt werden, wenn die zuständigen Stellen nicht innert dreissig Tagen nach Eingang der Meldung dem Gesuchsteller schriftlich mitteilen, dass:
+<sup>3</sup> Meldepflichtige Unterhaltsmassnahmen dürfen ausgeführt werden, wenn die zuständige Gemeindebehörde nach Einbezug der zuständigen kantonalen Stellen nicht innert zwanzig Tagen nach Eingang der Meldung dem Gesuchsteller schriftlich mitteilt, dass:
 
-- 1\. die Meldung unvollständig ist;
-- 2\. die Unterhaltsarbeiten in das vereinfachte oder das ordentliche Planverfahren verwiesen werden;
-- 3\. die Unterhaltsarbeiten unzulässig sind und die Bewilligung für deren Ausführung verweigert wird.
+- 1\. die Meldung unvollständig ist oder
+- 2\. die Unterhaltsmassnahmen in das ordentliche Planverfahren oder das vereinfachte Baubewilligungsverfahren verwiesen werden;
+- 3\. …
 
-<sup>4</sup> Wenn Gefahr in Verzug ist, erteilt die Aufsichtsbehörde die Bewilligung zur sofortigen Ausführung der notwendigen Unterhaltsarbeiten für die unmittelbare Schadenabwehr. Rekurs und Beschwerde haben keine aufschiebende Wirkung. Rekurs-und Beschwerdeinstanz können eine gegenteilige Verfügung treffen. Die Verfügung ist endgültig.
-
-[^10-1]: Art. 8 des BG über die Fischerei vom 21. Juni 1991, SR [923.0](https://db.clex.ch/link/Bund/923.0/de).
-[^10-2]: Art. 22 des BG über den Natur- und Heimatschutz vom 1. Juli 1966, SR [451.0](https://db.clex.ch/link/Bund/451.0/de).
-[^10-3]: Art. 8 des BG über die Fischerei vom 21. Juni 1991, SR [923.0](https://db.clex.ch/link/Bund/923.0/de).
+<sup>4</sup> Wenn Gefahr in Verzug ist, erteilt die Aufsichtsbehörde die Bewilligung zur sofortigen Ausführung der notwendigen Unterhaltsmassnahmen für die unmittelbare Schadenabwehr. Rekurs und Beschwerde haben keine aufschiebende Wirkung. Rekurs- und Beschwerdeinstanz können eine gegenteilige Verfügung treffen.
 
 #### Art. 11
 
@@ -190,9 +200,9 @@ als Gesetz:[^ingress-7]
 
 <sup>2</sup> Die politische Gemeinde berücksichtigt diese Grundlagen in der Ortsplanung[^12-1]. Sie vermindert das bestehende Gefahren- und Schadenpotenzial und vermeidet die Schaffung neuer Schadenpotenziale.
 
-<sup>3</sup> Der erforderliche Raum für Gewässer und Notentlastungsräume wird mit den Instrumenten der Ortsplanung gesichert.
+<sup>3</sup> Der erforderliche Raum für Gewässer, Rückhalteräume und Notentlastungsräume wird mit den Instrumenten der Ortsplanung gesichert.
 
-[^12-1]: Vgl. Art. [5](https://www.gesetzessammlung.sg.ch/data/731.1/de/art5.) Abs. 2 und Art. [44](https://www.gesetzessammlung.sg.ch/data/731.1/de/art44.) Abs. 2 BauG, sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
+[^12-1]: Vgl. Art. [5](https://www.gesetzessammlung.sg.ch/data/731.1/de/art5.) und 103 PBG, sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 ## IV. Wasserbau
 
@@ -206,13 +216,13 @@ als Gesetz:[^ingress-7]
 
 - a) baulicher Unterhalt von Ufern und Uferverbauungen;
 - b) Ausbau,Offenlegung und baulicher Unterhalt von Gerinnen;
-- c) Renaturierungen;
+- c) Revitalisierungen;
 - d) Rückhaltemassnahmen;
-- e) Ausleitung von Hochwasserspitzen, mit Einschluss der Ausscheidung von Notentlastungsräumen;
+- e) Ausleitung von Hochwasserspitzen, mit Einschluss der Ausscheidung von Rückhalteräumen und Notentlastungsräumen;
 - f) Umleitung von Gewässern;
 - g) Vorkehren gegen Bodenbewegungen im Gewässerbereich.
 
-<sup>2</sup> Der forstliche Bachverbau richtet sich nach der Forstgesetzgebung.[^13-1]
+<sup>2</sup> Der forstliche Bachverbau richtet sich nach der Waldgesetzgebung.[^13-1]
 
 [^13-1]: Art. 19 des BG über den Wald vom 4. Oktober 1991, SR [921.0](https://db.clex.ch/link/Bund/921.0/de).
 
@@ -231,7 +241,12 @@ als Gesetz:[^ingress-7]
 - g) Ortsbild- und Heimatschutz;
 - h) anerkannte Grundsätze eines umwelt- und siedlungsgerechten Wasserbaus;
 - i) sparsamer Verbrauch von Kulturland;
-- j) die Möglichkeiten zur Gewässernutzung.
+- j) die Möglichkeiten zur Gewässernutzung;
+- k) Schutz von Fruchtfolgeflächen;
+- l) Erhaltung der Bodenqualität;
+- m) Verhinderung der Ausbreitung von invasiven Neophyten;
+- n) Schutz des Waldes;
+- o) Schutz des Trinkwassers.
 
 #### Art. 15
 
@@ -245,9 +260,11 @@ als Gesetz:[^ingress-7]
 
 **Projektierung a) kantonale Gewässer**
 
-<sup>1</sup> Die Projektierung wasserbaulicher Massnahmen an kantonalen Gewässern ist Aufgabe der zuständigen Stelle des Kantons.
+<sup>1</sup> Die Projektierung von wasserbaulichen Massnahmen und Revitalisierungsmassnahmen an kantonalen Gewässern ist Aufgabe der zuständigen Stelle des Kantons.
 
 <sup>2</sup> Politische Gemeinden, auf deren Gebiet das Wasserbauprojekt liegt, werden bei der Projektierung angehört.
+
+<sup>3</sup> Die zuständige Stelle des Kantons sorgt für eine geeignete Mitwirkung der betroffenen Bevölkerung.
 
 #### Art. 17
 
@@ -257,45 +274,33 @@ als Gesetz:[^ingress-7]
 
 <sup>2</sup> Betroffene Nachbargemeinden und betroffene öffentlich-rechtliche Unternehmen werden bei der Projektierung angehört.
 
+<sup>2<sup>bis</sup></sup> Die politische Gemeinde sorgt für eine geeignete Mitwirkung der betroffenen Bevölkerung.
+
 <sup>3</sup> Die politische Gemeinde kann die Projektleitung gegen angemessene Entschädigung der zuständigen kantonalen Stelle übertragen.
 
 [^17-1]: Art. 38a GSchG, Art. 41d GSchV.
 
 #### Art. 18
 
-**Wasserbau- und Renaturierungsprogramm a) Erlass**
-
-<sup>1</sup> Der Kantonsrat erlässt ein mehrjähriges Wasserbau- und Renaturierungsprogramm.
-
-<sup>2</sup> Projekte, die im Wasserbau- und Renaturierungsprogramm nicht enthalten sind, kann die Regierung beschliessen, wenn sie dringend sind.
+**…**
 
 #### Art. 19
 
-**b) Inhalt**
-
-<sup>1</sup> Das Wasserbau- und Renaturierungsprogramm umfasst Hochwasserschutz- und Renaturierungsvorhaben.
-
-<sup>2</sup> Das Programm enthält:
-
-- a) Ziele und Massnahmen;
-- b) Kosten und Finanzierung der Vorhaben;
-- c) Bericht über das vorhergehende Programm.
+**…**
 
 #### Art. 20
 
-**c) Finanzierung**
+**…**
 
-<sup>1</sup> Der Kantonsrat beschliesst die zur Finanzierung des Programms erforderlichen kantonalen Mittel als Sonderkredit.
+### 2. Verfahren
 
-<sup>2</sup> Er entscheidet endgültig.
-
-### 2. Planverfahren
+### a) Planverfahren
 
 #### Art. 21
 
 **Durchführung**
 
-<sup>1</sup> Für wasserbauliche Massnahmen an Gewässern wird das Planverfahren durchgeführt.
+<sup>1</sup> Für wasserbauliche Massnahmen an Gewässern wird das Planverfahren durchgeführt, sofern nicht nach Art. 37a f. dieses Erlasses das vereinfachte Baubewilligungsverfahren sachgemäss zur Anwendung kommt.
 
 <sup>2</sup> Es ersetzt das Baubewilligungsverfahren.
 
@@ -326,17 +331,18 @@ als Gesetz:[^ingress-7]
 - b) den technischen Bericht;
 - c) Situationsplan, Längs-, Quer- und Gestaltungsprofile;
 - d) Landbedarfslinien über die dauernde und vorübergehende Beanspruchung von Boden;
-- e) Notentlastungsräume mit allfälligen Objektschutzmassnahmen;
-- f) allfällige Baulinien;
-- g) allfälliger Beitragsplan.
+- e) Rückhalteräume und Notentlastungsräume jeweils mit allfälligen Objektschutzmassnahmen;
+- e<sup>bis</sup>) Regelgung von Gewässerraum- und Gewässerabstand;
+- f) Baulinien;
+- g) Beitragsplan.
 
 #### Art. 24
 
 **Auflage**
 
-<sup>1</sup> Das Projekt wird in der politischen Gemeinde mit einer Einsprachefrist von dreissig Tagen öffentlich aufgelegt.
+<sup>1</sup> Das Projekt wird in der politischen Gemeinde unter Eröffnung einer Einsprachefrist von dreissig Tagen öffentlich aufgelegt. Die öffentliche Auflage wird amtlich bekannt gemacht. Die amtliche Bekanntmachung erfolgt auch im kantonalen Amtsblatt.
 
-<sup>2</sup> Die amtliche Bekanntmachung erfolgt im Publikationsorgan der politischen Gemeinde und im kantonalen Amtsblatt.
+<sup>2</sup> …
 
 #### Art. 25
 
@@ -345,8 +351,8 @@ als Gesetz:[^ingress-7]
 <sup>1</sup> Mit persönlicher Anzeige wird von der öffentlichen Auflage und vom Enteignungsbegehren in Kenntnis gesetzt:
 
 - a) wer private Rechte abtreten muss;
-- b) auf dessen Grundstück eine Baulinie ausgeschieden wird;
-- c) dessen Grundstück in den Gewässerabstand zu liegen kommt.
+- b) auf dessen Grundstück ein Gewässerraum oder ein Gewässerabstand ausgeschieden wird;
+- c) auf dessen Grundstück eine Baulinie ausgeschieden wird.
 
 <sup>2</sup> Die persönliche Anzeige gilt als Einleitung des Enteignungsverfahrens.
 
@@ -356,25 +362,16 @@ als Gesetz:[^ingress-7]
 
 **Absteckung im Gelände**
 
-<sup>1</sup> Wird die Linienführung eines Gewässers geändert, wird ein Gewässer offen gelegt oder sind mit dem Projekt Änderungen des Ufers verbunden, wird das Vorhaben während der Auflage im Gelände abgesteckt.
+<sup>1</sup> Das Vorhaben wird während der Auflage im Gelände abgesteckt bei:
+
+- a) Änderung der Linienführung eines Gewässers;
+- b) Offenlegung eines Gewässers;
+- c) Änderungen des Ufers;
+- d) Ausscheidung von Rückhalte- oder Notentlastungsräumen.
 
 #### Art. 27
 
-**Vereinfachtes Verfahren**
-
-<sup>1</sup> Wird kein Kostenverlegungsverfahren durchgeführt, kann bei kleinen und unbedeutenden Projekten auf die öffentliche Auflage und auf die Absteckung im Gelände verzichtet werden.
-
-<sup>2</sup> Die Betroffenen und die beschwerdeberechtigten Organisationen[^27-1] werden, soweit diese dem Vorhaben nicht schriftlich zugestimmt haben, mit eingeschriebenem Brief unter Eröffnung einer Einsprachefrist von dreissig Tagen in Kenntnis gesetzt.[^27-2]
-
-<sup>3</sup> Das vereinfachte Verfahren wird insbesondere durchgeführt bei:
-
-- a) baulichen Unterhaltsmassnahmen;
-- b) Eindolungen für Übergänge von öffentlichen Strassen;
-- c) kleineren Uferverbauungen;
-- d) Leitungsquerungen.
-
-[^27-1]: Art. 12 des BG über den Natur- und Heimatschutz vom 1. Juli 1966, SR [451.0](https://db.clex.ch/link/Bund/451.0/de).
-[^27-2]: Art. 12a Abs. 2 des BG über den Natur- und Heimatschutz vom 1. Juli 1966, SR [451.0](https://db.clex.ch/link/Bund/451.0/de).
+**…**
 
 #### Art. 28
 
@@ -384,7 +381,7 @@ als Gesetz:[^ingress-7]
 
 - a) das Projekt;
 - b) die Zulässigkeit der Enteignung;
-- c) Beitragsplan.
+- c) …
 
 <sup>2</sup> Die Einsprache gegen den Beitragsplan richtet sich nach den Bestimmungen dieses Erlasses über das Kostenverlegungsverfahren.
 
@@ -408,27 +405,27 @@ als Gesetz:[^ingress-7]
 
 **Entscheid**
 
-<sup>1</sup> Über die Einsprachen entscheidet bei kantonalen Gewässern die zuständige Stelle des Kantons, bei den Gemeinde- und den übrigen Gewässern die zuständige Gemeindebehörde.
+<sup>1</sup> Über die Einsprachen entscheidet bei kantonalen Gewässern das zuständige Departement, bei den Gemeinde- und den übrigen Gewässern die zuständige Gemeindebehörde.
 
 #### Art. 32
 
 **Genehmigung a) Allgemeines**
 
-<sup>1</sup> Wasserbauliche Massnahmen an einem Gewässer bedürfen der Genehmigung des zuständigen Departementes.[^32-1]
+<sup>1</sup> Wasserbauliche Massnahmen an Gemeindegewässern und übrigen Gewässern nach Art. 17 dieses Erlasses bedürfen der Genehmigung der zuständigen Stelle des Kantons.
+
+<sup>1<sup>bis</sup></sup> Die zuständige Stelle des Kantons prüft die wasserbaulichen Massnahmen auf Rechtmässigkeit sowie auf Übereinstimmung mit der kantonalen Richtplanung und der Sachplanung des Bundes.
 
 <sup>2</sup> Die Genehmigung kann mit Bedingungen und Auflagen verbunden werden.
-
-[^32-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 33
 
 **b) Finanzierung**
 
-<sup>1</sup> Mit der Genehmigung werden Kantons- und Bundesbeiträge zugesichert.
+<sup>1</sup> Kantons- und Bundesbeiträge werden nach Rechtskraft des Projekts zugesichert.
 
 <sup>2</sup> Der Entscheid über die Zusicherung ist nicht anfechtbar.
 
-### 3. Landerwerb und Baubeginn
+### b) Landerwerb und Baubeginn
 
 #### Art. 34
 
@@ -470,6 +467,29 @@ als Gesetz:[^ingress-7]
 
 <sup>1</sup> Wenn unmittelbare Gefahr im Verzug ist, erteilt die Aufsichtsbehörde die Bewilligung zum vorzeitigen Baubeginn für die sofort erforderlichen baulichen Vorkehren zur unmittelbaren Schadenabwehr. Rekurs und Beschwerde haben keine aufschiebende Wirkung. Rekurs- und Beschwerdeinstanz können eine gegenteilige Verfügung treffen. Die Verfügung ist endgültig.
 
+### c) vereinfachtes Baubewilligungsverfahren
+
+#### Art. 37a
+
+**Durchführung**
+
+<sup>1</sup> Das vereinfachte Baubewilligungsverfahren nach Art. 140 f. des Planungs- und Baugesetzes vom 5. Juli 2016[^37a-1] wird von der zuständigen Gemeindebehörde sachgemäss durchgeführt bei:
+
+- a) Erstellung, Änderung und Beseitigung von Bauten und Anlagen zu nicht wasserbaulichen Zwecken über, in oder unter Gewässern;
+- b) Erstellung, Änderung und Beseitigung von Schutzbauwerken zu wasserbaulichen Zwecken und baulichen Unterhaltsmassnahmen, sofern auf eine Kostenverlegung verzichtet wird und nur Einzelinteressen betroffen sind;
+- c) untergeordneten baulichen Massnahmen, die auf den Wasserstand, auf den Lauf des Gewässers und auf die Sicherheit von Sohle und Ufer einen Einfluss haben können.
+
+<sup>2</sup> In Ergänzung zu Art. 141 des Planungs- und Baugesetzes vom 5. Juli 2016[^37a-2] werden die beschwerdeberechtigten Organisationen, soweit sie dem Vorhaben nicht schriftlich zugestimmt haben, mit eingeschriebenem Brief unter Eröffnung einer Einsprachefrist von vierzehn Tagen in Kenntnis gesetzt.
+
+[^37a-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
+[^37a-2]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
+
+#### Art. 37b
+
+**Zustimmung**
+
+<sup>1</sup> Die Baubewilligung der zuständigen Gemeindebehörde bedarf der Zustimmung der zuständigen Stelle des Kantons.
+
 ## V. Finanzierung
 
 ### 1. Kostentragung
@@ -488,7 +508,7 @@ als Gesetz:[^ingress-7]
 
 <sup>2</sup> Die politische Gemeinde leistet an die Kosten für Bau und Unterhalt der kantonalen Gewässer Beiträge von 25 Prozent.
 
-<sup>3</sup> Für Baukosten von Renaturierungen, die im übergeordneten Interesse liegen, kann der Beitrag der politischen Gemeinde verringert werden.
+<sup>3</sup> Für Baukosten von Revitalisierungen, die im übergeordneten Interesse liegen, kann der Beitrag der politischen Gemeinde verringert werden.
 
 #### Art. 40
 
@@ -498,9 +518,9 @@ als Gesetz:[^ingress-7]
 
 <sup>2</sup> Die Höhe der Gemeindebeiträge richtet sich nach dem öffentlichen Interesse; sie beträgt für Bau und Unterhalt wenigstens 25 Prozent der Kosten, die nach Abzug der Beiträge von Bund, Kanton und Dritten nach Art. 42 des Erlasses verbleiben.
 
-<sup>3</sup> Die Eigentümerinnen und Eigentümer der betroffenen Grundstücke, Bauten und Anlagen leisten an die Kosten von Bau und Unterhalt der Gemeindegewässer Beiträge. Die Höhe der Beiträge richtet sich nach dem Interesse des Grundeigentums am Schutz vor Hochwasser und Erosion sowie den Nutzungsmöglichkeiten[^40-1]. Für Renaturierungsmassnahmen werden keine Beiträge erhoben.
+<sup>3</sup> Die Eigentümerinnen und Eigentümer der betroffenen Grundstücke, Bauten und Anlagen leisten an die Kosten von Bau und Unterhalt der Gemeindegewässer Beiträge. Die Höhe der Beiträge richtet sich nach dem Interesse des Grundeigentums am Schutz vor Hochwasser und Erosion sowie den Nutzungsmöglichkeiten[^40-1]. Für Revitalisierungsmassnahmen werden keine Beiträge erhoben.
 
-[^40-1]: Vgl. Art. [10](https://www.gesetzessammlung.sg.ch/data/731.1/de/art10.) ff. BauG, sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
+[^40-1]: Vgl. Art. [12](https://www.gesetzessammlung.sg.ch/data/731.1/de/art10.) ff. PBG, sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 #### Art. 41
 
@@ -512,7 +532,7 @@ als Gesetz:[^ingress-7]
 
 - a) an Unterhaltsmassnahmen, wenn diese finanziell sehr aufwändig sind;
 - b) an wasserbauliche Massnahmen, wenn die Kosten das Interesse der Wasserbaupflichtigen wesentlich übersteigen und der Unterhalt nicht vernachlässigt wurde;
-- c) an Renaturierungsmassnahmen.
+- c) an Revitalisierungsmassnahmen.
 
 #### Art. 42
 
@@ -526,7 +546,12 @@ als Gesetz:[^ingress-7]
 
 **Durchführung**
 
-<sup>1</sup> Die Bau- und Unterhaltskosten werden durch Errichtung eines Perimeters[^43-1] aufgeteilt, wenn die Kostentragung nicht durch Vereinbarung geregelt wird.
+<sup>1</sup> Die Bau- und Unterhaltskosten werden durch Errichtung eines Perimeters[^43-1] aufgeteilt.
+
+<sup>1<sup>bis</sup></sup> Auf die Erhebung von Perimeterbeiträgen kann verzichtet werden, wenn:
+
+- a) die Kostentragung durch Vereinbarung geregelt wird;
+- b) die Gemeinde die Kosten trägt.
 
 <sup>2</sup> Das Kostenverlegungsverfahren wird für die nachträgliche Errichtung oder Änderung eines Unterhaltsperimeters sachgemäss durchgeführt, wenn insbesondere:
 
@@ -573,7 +598,7 @@ als Gesetz:[^ingress-7]
 <sup>2</sup> Über Einsprachen entscheidet:
 
 - a) bei kantonalen Gewässern die zuständige kantonale Stelle;
-- b) bei den anderen Gewässern die politische Gemeinde oder die Schätzungskommission, wenn sie dazu ermächtigt ist.
+- b) bei den anderen Gewässern die zuständige Gemeindebehörde oder die Schätzungskommission, wenn sie dazu ermächtigt ist.
 
 #### Art. 47
 
@@ -597,10 +622,9 @@ als Gesetz:[^ingress-7]
 
 <sup>1</sup> Für Beiträge besteht ein gesetzliches Grundpfandrecht, das allen eingetragenen Grundpfandrechten im Rang vorgeht.[^49-1]
 
-<sup>2</sup> Die politische Gemeinde kann das gesetzliche Grundpfandrecht zur Anmerkung im Grundbuch[^49-2] anmelden. Sie ist dazu verpflichtet, wenn Beiträge gestundet werden.
+<sup>2</sup> …
 
 [^49-1]: Art. 836 Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
-[^49-2]: Vom Eidg Justiz- und Polizeidepartement genehmigt am 4. September 2009; siehe Art. 962 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
 
 #### Art. 50
 
@@ -635,13 +659,13 @@ als Gesetz:[^ingress-7]
 - a) vor Beginn der Projektierungsarbeiten die Beitragsberechtigung des Projekts anerkannt hat;
 - b) den Kantonsbeitrag vor der Durchführung des Planverfahrens in Kenntnis des Projekts und der vorgesehenen Baukostenanteile der übrigen Beteiligten in Aussicht gestellt hat.
 
-[^53-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^53-1]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. c GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 54
 
 **Höhe**
 
-<sup>1</sup> Der Kantonsbeitrag beträgt zwischen 20 und 40 Prozent der anrechenbaren Kosten. Soweit Bundesbeiträge zur Verfügung stehen, kann der Kanton Beiträge gewähren, die zusammen mit den Bundesbeiträgen höchstens 75 Prozent der anrechenbaren Kosten betragen. Für die Kosten von Renaturierungsmassnahmen, die im übergeordneten Interesse liegen, und bei Elementarereignissen kann ein höherer Beitrag gewährt werden.
+<sup>1</sup> Der Kantonsbeitrag beträgt zwischen 20 und 40 Prozent der anrechenbaren Kosten. Soweit Bundesbeiträge zur Verfügung stehen, kann der Kanton Beiträge gewähren, die zusammen mit den Bundesbeiträgen höchstens 75 Prozent der anrechenbaren Kosten betragen. Für die Kosten von Revitalisierungsmassnahmen, die im übergeordneten Interesse liegen, und bei Elementarereignissen kann ein höherer Beitrag gewährt werden.
 
 <sup>2</sup> Die Höhe des Kantonsbeitrags wird bemessen nach:
 
@@ -654,7 +678,7 @@ als Gesetz:[^ingress-7]
 
 **Verwendung**
 
-<sup>1</sup> Die globalen Bundesbeiträge an den Ausbau der Gewässer werden zur Aufstockung der Kantonsbeiträge für jene Projekte verwendet, die im Wasserbauprogramm vorgesehen sind und deren Kosten weniger als 1 Mio. Franken betragen.
+<sup>1</sup> Die globalen Bundesbeiträge an den Ausbau der Gewässer werden zur Aufstockung der Kantonsbeiträge verwendet.
 
 <sup>1<sup>bis</sup></sup> Die globalen Bundesbeiträge an die Planung und Ausführung von Massnahmen zur Revitalisierung von Gewässern[^55-1] werden anteilsmässig zur Aufstockung der Kantonsbeiträge für Revitalisierungsmassnahmen der politischen Gemeinden verwendet, die in der kantonalen Revitalisierungsplanung enthalten sind.
 
@@ -662,6 +686,8 @@ als Gesetz:[^ingress-7]
 
 [^55-1]: Art. 62b Abs. 1 und 3 GSchG, Art. 54b GSchV.
 [^55-2]: Art. 62b Abs. 2 GSchG, Art. 54b GSchV.
+
+### 5. Besondere Bestimmungen
 
 #### Art. 56
 
@@ -692,11 +718,34 @@ als Gesetz:[^ingress-7]
 
 <sup>1</sup> Ist ein Notentlastungsraum ausgeschieden, besteht
 
-- a) der uneingeschränkte Versicherungsschutz nach den Bestimmungen des Gesetzes über die Gebäudeversicherung[^59-1], wenn die möglichen und zumutbaren Massnahmen getroffen worden sind;
+- a) der Versicherungsschutz nach den Bestimmungen des Gesetzes über die Gebäudeversicherung[^59-1], wenn die verhältnismässigen und zumutbaren Massnahmen getroffen worden sind;
 - b) ein Anspruch auf Entschädigung nach dem Gesetz über die Kantonshilfskasse für nichtversicherbare Schäden bei Elementarereignissen.[^59-2]
 
 [^59-1]: sGS [873.1](https://www.gesetzessammlung.sg.ch/data/873.1/de).
 [^59-2]: sGS [383.1](https://www.gesetzessammlung.sg.ch/data/383.1/de).
+
+#### Art. 59a
+
+**Rückhalteräume**
+
+<sup>1</sup> Ist ein Rückhalteraum ausgeschieden, werden die dinglich und die obligatorisch Berechtigten entschädigt für finanzielle Einbussen und allenfalls erforderliche Objektschutzmassnahmen. Das Enteignungsgesetz vom 31. Mai 1984[^59a-1] wird im Übrigen sachgemäss angewendet.
+
+<sup>2</sup> Im Schadenfall obliegen dem Wasserbaupflichtigen insbesondere:
+
+- a) Schadenbehebung, einschliesslich der Kostentragung;
+- b) Instandstellung und Rekultivierung der beanspruchten Flächen, einschliesslich der Kostentragung;
+- c) finanzielle Entschädigung für aus dem Schadenfall resultierende Nutzungseinschränkungen.
+
+<sup>3</sup> Die Schätzungskommission nach dem Enteignungsgesetz vom 31. Mai 1984[^59a-2] entscheidet über Entschädigungen, wenn sich die Wasserbaupflichtigen mit dem Geschädigten nicht einigen können. Die Bestimmungen des Enteignungsgesetzes vom 31. Mai 1984[^59a-3] werden sachgemäss angewendet.
+
+<sup>4</sup> Für Schäden an Gebäuden besteht der Versicherungsschutz nach den Bestimmungen des Gesetzes über die Gebäudeversicherung[^59a-4], wenn die verhältnismässigen und zumutbaren Massnahmen getroffen worden sind.
+
+<sup>5</sup> Die Rückhalteverpflichtung wird im Grundbuch angemerkt.
+
+[^59a-1]: sGS [735.1](https://www.gesetzessammlung.sg.ch/data/735.1/de).
+[^59a-2]: sGS [735.1](https://www.gesetzessammlung.sg.ch/data/735.1/de).
+[^59a-3]: sGS [735.1](https://www.gesetzessammlung.sg.ch/data/735.1/de).
+[^59a-4]: sGS [873.1](https://www.gesetzessammlung.sg.ch/data/873.1/de).
 
 #### Art. 60
 
@@ -781,6 +830,22 @@ als Gesetz:[^ingress-7]
 **Übergangsbestimmung**
 
 <sup>1</sup> Die nach bisherigem Recht zuständige Behörde oder Stelle schliesst bei Vollzugsbeginn dieses Erlasses hängige Verfahren nach bisherigem Recht ab.
+
+#### Art. 71a
+
+**Übergangsbestimmungen des Nachtrags vom 13. April 2021 a) ordentliches Planverfahren**
+
+<sup>1</sup> Auf wasserbauliche Massnahmen, die bei Vollzugsbeginn dieses Nachtrags nach Art. 22 des Wasserbaugesetzes vom 17. Mai 2009[^71a-1] in der Fassung vor Vollzugsbeginn dieses Nachtrags bereits öffentlich aufgelegen sind, werden die Verfahrensvorschriften des bisherigen Rechts angewendet.
+
+[^71a-1]: sGS [734.1](https://www.gesetzessammlung.sg.ch/data/734.1/de).
+
+#### Art. 71b
+
+**b) vereinfachtes Planverfahren**
+
+<sup>1</sup> Auf wasserbauliche Massnahmen, für die bei Vollzugsbeginn dieses Nachtrags das vereinfachte Planverfahren nach Art. 27 des Wasserbaugesetzes vom 17. Mai 2009[^71b-1] in der Fassung vor Vollzugsbeginn dieses Nachtrags bereits eingeleitet war, werden die Verfahrensvorschriften des bisherigen Rechts angewendet.
+
+[^71b-1]: sGS [734.1](https://www.gesetzessammlung.sg.ch/data/734.1/de).
 
 #### Art. 72
 
