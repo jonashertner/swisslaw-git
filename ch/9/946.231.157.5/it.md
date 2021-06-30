@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Ordinanza del 17 ottobre 2018 che istituisce provvedimenti nei confronti del Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: it
-version: 2021-06-15
+version: 2021-07-01
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210615/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210615-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Myanmar
 
-del 17 ottobre 2018 (Stato 15 giugno 2021) (Stato 15 giugno 2021)
+del 17 ottobre 2018 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -223,7 +223,7 @@ Allegato 1*[^t-1]*
 
 ## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie
 
-[^t-1]: Non è pubblicato né nella RU né nella RS ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36), [1569](https://fedlex.data.admin.ch/eli/oc/2019/295); [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297); [2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185), [253](https://fedlex.data.admin.ch/eli/oc/2021/253), [268](https://fedlex.data.admin.ch/eli/oc/2021/268)). È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html)&gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Non è pubblicato né nella RU né nella RS ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36), [1569](https://fedlex.data.admin.ch/eli/oc/2019/295); [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297); [2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185), [253](https://fedlex.data.admin.ch/eli/oc/2021/253), [268](https://fedlex.data.admin.ch/eli/oc/2021/268), [412](https://fedlex.data.admin.ch/eli/oc/2021/412)). È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 2
 
