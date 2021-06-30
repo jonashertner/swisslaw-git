@@ -4,11 +4,11 @@ number: "700.6"
 title: Bauverfahrensverordnung (BVV)
 short: BVV
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2021-07-01
+version: "2021-07-01"
+nachtrag: "113"
+valid_until: 2023-01-01
 adopted: 1997-12-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_6-1997_12_03-1998_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_6-1997_12_03-1998_01_01-113.html"
 text: pdf
 ---
 
@@ -38,7 +38,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 **1**
 
-- 1\. 1. 21 - 111 i.<sup>24</sup> Empfangs- und Sendeantennen mit einer gesamten Sendeleistung (äquivalenten Strahlungsleistung ERP max.) von weniger als 6 Watt, sofern die einzelnen Antennen in keiner Richtung 0,8 m überschreiten und die Höhe tragender Masten weniger als 1 m beträgt; solche Anlagen sind jedoch bewilligungspflichtig in Kernzonen sowie im Geltungsbereich einer anderen Schutzanordnung oder eines Ortsbild- oder Denkmalschutzinventars.
+- 1\. 7. 21 - 113 i.<sup>24</sup> Empfangs- und Sendeantennen mit einer gesamten Sendeleistung (äquivalenten Strahlungsleistung ERP max.) von weniger als 6 Watt, sofern die einzelnen Antennen in keiner Richtung 0,8 m überschreiten und die Höhe tragender Masten weniger als 1 m beträgt; solche Anlagen sind jedoch bewilligungspflichtig in Kernzonen sowie im Geltungsbereich einer anderen Schutzanordnung oder eines Ortsbild- oder Denkmalschutzinventars.
 
 k.<sup>42</sup> . . .
 
@@ -118,7 +118,7 @@ b.<sup>45</sup> Grundrisse aller Geschosse sowie die baurechtlich wesentlichen S
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 - die Nutzweise und die Zweckbestimmung der Räume,
 
@@ -171,7 +171,7 @@ Je nach Art und Lage des Bauvorhabens sind ferner erforderlich:
 
 - l. nachbarliche Zustimmungserklärungen in den vom Gesetz vorgesehenen Fällen,
 
-- m. schriftlicher Nachweis der Berechtigung zur Einreichung des Baugesuches, wenn die Gesuchstellenden über das Baugrundstück nicht alleinverfügungsberechtigt sind, n.<sup>26</sup> aktuelle Fotos des Zustands des Baugrundstücks, der unmittelbaren Umgebung des Bauvorhabens und von bestehenden Bauten und Anlagen.
+- m. schriftlicher Nachweis der Berechtigung zur Einreichung des Baugesuches, wenn die Gesuchstellenden über das Baugrundstück nicht alleinverfügungsberechtigt sind, n.<sup>26</sup> aktuelle Fotos des Zustands des Baugrundstücks, der unmittelbaren Umgebung des Bauvorhabens und von bestehenden Bauten und Anlagen, o.<sup>53</sup> Nachweis der Menge des Aushubs gemäss § 2 der Verordnung über den Bahntransport von Aushub und Gesteinskörnung vom 3. Februar 2021[^5-2].
 
 **C. Einreichung I. elektronisch**
 
@@ -194,6 +194,7 @@ Je nach Art und Lage des Bauvorhabens sind ferner erforderlich:
 <sup>2</sup> Das Baugesuch und die Gesuchsunterlagen sind in vierfacher Ausfertigung bei der örtlichen Baubehörde einzureichen. Es ist ausschliesslich das Baugesuchsformular des Kantons Zürich zu verwenden.
 
 [^5-1]: LS 730.1.
+[^5-2]: LS 700.5.
 
 ### IV.<sup>43</sup> Zuständigkeiten und Koordination
 
@@ -205,13 +206,15 @@ Je nach Art und Lage des Bauvorhabens sind ferner erforderlich:
 
 <sup>1</sup> Die im Anhang zu dieser Verordnung genannten Vorhaben bedürfen neben oder anstelle der baurechtlichen Bewilligung der örtlichen Baubehörde (§ 318 PBG[^hIVsup43supZus-1] der Beurteilung (Bewilligung, Konzession oder Genehmigung) anderer, namentlich kantonaler Stellen.
 
-<sup>2</sup> Die besonderen Bestimmungen des Wasser- und Strassenrechts über das Verfahren und die Zuständigkeiten bleiben vorbehalten.<sup>26</sup>
-
 **5**
 
-- 1\. 1. 21 - 111 § 8. <sup>1</sup> Die für die Koordination verantwortliche Stelle sorgt bei Vorhaben, die durch mehrere Stellen zu prüfen sind, für die ausreichende formelle und materielle Koordination der Beurteilungen, für widerspruchsfreie Entscheide und für einheitliche Rechtsmittelbelehrungen.<sup>27</sup>
+- 1\. 7. 21 - 113
+
+<sup>2</sup> Die besonderen Bestimmungen des Wasser- und Strassenrechts über das Verfahren und die Zuständigkeiten bleiben vorbehalten.<sup>26</sup>
 
 **Koordinationspflicht**
+
+§ 8. <sup>1</sup> Die für die Koordination verantwortliche Stelle sorgt bei Vorhaben, die durch mehrere Stellen zu prüfen sind, für die ausreichende formelle und materielle Koordination der Beurteilungen, für widerspruchsfreie Entscheide und für einheitliche Rechtsmittelbelehrungen.<sup>27</sup>
 
 <sup>2</sup> Nicht der Koordinationspflicht unterliegen die im Anhang bezeichneten Beurteilungen, die für die Zulässigkeit des Vorhabens an sich nicht erheblich sind. Solche Nebenbewilligungen können ergänzenden Verfahren vorbehalten werden.<sup>21</sup>
 
@@ -269,21 +272,17 @@ Je nach Art und Lage des Bauvorhabens sind ferner erforderlich:
 
 <sup>3</sup> Die Gesuchstellenden können anstelle des Anzeigeverfahrens die Durchführung des ordentlichen Verfahrens verlangen.
 
-#### § 14
+**7**
+
+- 1\. 7. 21 - 113 § 14. Das Anzeigeverfahren findet namentlich Anwendung auf:
 
 **Voraussetzungen 1. Untergeordnete Bedeutung**
 
-Das Anzeigeverfahren findet namentlich Anwendung auf:
-
 - a. Vordächer, b.<sup>45</sup> Balkone, Nischen, rückspringende und vorspringende Gebäudeteile,
-
-**7**
-
-- 1\. 1. 21 - 111
 
 - c. Dachkamine und andere kleinere technisch bedingte Dachaufbauten,
 
-- d. Dachflächenfenster, Dachaufbauten, wie Lukarnen, Gauben und dergleichen, sowie Dacheinschnitte, sofern sie zusammen mit den bereits bestehenden nicht mehr als[^14-1]/<sup>20</sup> der betreffenden Dachfläche beanspruchen; ausgenommen sind Vorhaben in Kernzonen und Quartiererhaltungszonen,
+- d. Dachflächenfenster, Dachaufbauten, wie Lukarnen, Gauben und dergleichen, sowie Dacheinschnitte, sofern sie zusammen mit den bereits bestehenden nicht mehr als[^13-1]/20 der betreffenden Dachfläche beanspruchen; ausgenommen sind Vorhaben in Kernzonen und Quartiererhaltungszonen,
 
 - e. unwesentliche Verkleinerungen des Gebäudegrundrisses und des Baukubus,
 
@@ -295,13 +294,13 @@ Das Anzeigeverfahren findet namentlich Anwendung auf:
 
 - i. Einrichtung und Umbau von Heizungen sowie Öltanks für das bediente Gebäude,
 
-- j. Empfangsantennen, soweit bewilligungspflichtig (§ 1 lit. i), k.<sup>41</sup> Solaranlagen in Bauzonen gemäss § 48 Abs. 2 lit. b–f PBG[^14-2], soweit nicht meldepflichtig (§ 2 a),
+- j. Empfangsantennen, soweit bewilligungspflichtig (§ 1 lit. i), k.<sup>41</sup> Solaranlagen in Bauzonen gemäss § 48 Abs. 2 lit. b–f PBG[^13-2], soweit nicht meldepflichtig (§ 2 a),
 
-- l. offene, nicht gewerbliche Schwimmbäder, m.<sup>44</sup> Gartenhäuser und Schöpfe gemäss § 18 Abs. 1 der Verordnung über die Verschärfung oder die Milderung von Bauvorschriften für besondere Bauten und Anlagen vom 26. August 1981[^14-3], soweit bewilligungspflichtig (§ 1 lit. a),
+- l. offene, nicht gewerbliche Schwimmbäder, m.<sup>44</sup> Gartenhäuser und Schöpfe gemäss § 18 Abs. 1 der Verordnung über die Verschärfung oder die Milderung von Bauvorschriften für besondere Bauten und Anlagen vom 26. August 1981[^13-3], soweit bewilligungspflichtig (§ 1 lit. a),
 
 - n. Reklameeinrichtungen, soweit bewilligungspflichtig (§ 1 lit. f), ausser in Kernzonen, o.<sup>45</sup> Mauern und geschlossene Einfriedigungen von nicht mehr als 1,5 m Höhe ab massgebendem Terrain,
 
-- p. die Unterteilung von Grundstücken gemäss § 309 lit. e PBG[^14-2].
+- p. die Unterteilung von Grundstücken gemäss § 309 lit. e PBG[^13-2].
 
 **2. Interessen Dritter**
 
@@ -309,11 +308,11 @@ Das Anzeigeverfahren findet namentlich Anwendung auf:
 
 <sup>2</sup> Das Anzeigeverfahren wird gleichwohl durchgeführt, sofern die Gesuchstellenden das Einverständnis der offensichtlich zum Rekurs berechtigten Dritten schriftlich nachweisen.
 
-<sup>3</sup> In Zweifelsfällen wird das Vorhaben öffentlich bekannt gemacht, sobald die aufzulegenden Unterlagen vollständig sind. Werden innert der Auflagefrist Zustellbegehren gemäss § 315 PBG[^14-2] gestellt, findet das ordentliche Verfahren, andernfalls das Anzeigeverfahren Anwendung. Unverzüglich nach Ablauf der Auflagefrist orientiert das örtliche Bauamt die Gesuchstellenden und die kantonale Leitstelle entweder über die Zustellbegehren oder über die Behandlung des Vorhabens im Anzeigeverfahren. Die Behandlungsfrist von 30 Tagen beginnt in diesem Fall am dritten Tag nach Ablauf der Auflagefrist.
+<sup>3</sup> In Zweifelsfällen wird das Vorhaben öffentlich bekannt gemacht, sobald die aufzulegenden Unterlagen vollständig sind. Werden innert der Auflagefrist Zustellbegehren gemäss § 315 PBG[^13-2] gestellt, findet das ordentliche Verfahren, andernfalls das Anzeigeverfahren Anwendung. Unverzüglich nach Ablauf der Auflagefrist orientiert das örtliche Bauamt die Gesuchstellenden und die kantonale Leitstelle entweder über die Zustellbegehren oder über die Behandlung des Vorhabens im Anzeigeverfahren. Die Behandlungsfrist von 30 Tagen beginnt in diesem Fall am dritten Tag nach Ablauf der Auflagefrist.
 
-[^14-1]: OS 54, 435.
-[^14-2]: LS 700.1.
-[^14-3]: LS 700.22.
+[^13-1]: OS 54, 435.
+[^13-2]: LS 700.1.
+[^13-3]: LS 700.22.
 
 #### § 16
 
@@ -351,7 +350,7 @@ Das Anzeigeverfahren findet namentlich Anwendung auf:
 
 **9**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>2</sup> In diesen Fällen gibt die kantonale Leitstelle den Gesuchstellenden und der örtlichen Baubehörde das Datum bekannt, an welchem die Behandlungsfrist endet.
 
@@ -435,7 +434,7 @@ Die Bestimmungen über die Vorprüfung von Gesuchsunterlagen (§ 313 PBG[^21-1] 
 
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 ### IX.<sup>50</sup> Inkraftsetzung<sup>21</sup>
 
@@ -503,7 +502,7 @@ Bis zur Betriebsaufnahme des Katasters der öffentlich-rechtlichen Eigentumsbesc
 
 **13**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>45</sup> Fassung gemäss RRB vom 11. Mai 2016 (OS 72, 93; ABl 2016-05-27). In Kraft seit 1. März 2017.
 
@@ -520,6 +519,8 @@ Bis zur Betriebsaufnahme des Katasters der öffentlich-rechtlichen Eigentumsbesc
 <sup>51</sup> Aufgehoben durch RRB vom 20. November 2019 (OS 75, 27; ABl 2019-11- 29). In Kraft seit 1. Februar 2020.
 
 <sup>52</sup> Fassung gemäss RRB vom 2. Dezember 2020 (OS 75, 653; ABl 2020-12-11). In Kraft seit 1. Januar 2021.
+
+<sup>53</sup> Eingefügt durch RRB vom 3. Februar 2021 (OS 76, 161; ABl 2021-02-12). In Kraft seit 1. Juli 2021.
 
 ### Anhang zur Bauverfahrensverordnung<sup>21</sup>
 
@@ -563,13 +564,11 @@ Spalte 5: (mit x bezeichnet) die Fälle, in denen für die kantonale Beurteilung
 
 Weitere Prüfungen und Bewilligungen aufgrund der Spezialgesetzgebung des Bundes und des Kantons bleiben vorbehalten.
 
-**1. 1.**
-
 **15**
 
 **17**
 
-21 - 111 Auf die Bewilligung von Reklamen an Strassen ist diese Verordnung nur anwendbar, wenn weitere Beurteilungen durch kantonale Stellen gemäss diesem Anhang erforderlich sind. Andernfalls erfolgt die Koordination mit der verkehrspolizeilichen Bewilligung der Kantonspolizei (Nationalstrassen sowie kantonale Autobahnen und Autostrassen) unmittelbar durch die örtliche Baubehörde. Gesuche für Baureklamen an Strassen sind ausschliesslich durch die Gemeinde bzw. die Kantonspolizei zu prüfen; deren Verfügungen werden den Gesuchstellenden von diesen Stellen selbst eröffnet. Gesuche für Bauvorhaben, die der Prüfung durch die kantonale Feuerpolizei oder das kantonale Amt für Militär und Zivilschutz unterliegen, unterbreitet das örtliche Bauamt diesen Stellen ausserhalb des in dieser Verordnung geregelten Verfahrens. Es koordiniert die feuerpolizeilichen und die zivilschutzrechtlichen Nebenbestimmungen mit den übrigen erforderlichen Bewilligungen und macht sie zum Bestandteil der kommunalen Bewilligung. Besonderheiten des Vorhabens (der zu erstellenden oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 7. 21 - 113 Auf die Bewilligung von Reklamen an Strassen ist diese Verordnung nur anwendbar, wenn weitere Beurteilungen durch kantonale Stellen gemäss diesem Anhang erforderlich sind. Andernfalls erfolgt die Koordination mit der verkehrspolizeilichen Bewilligung der Kantonspolizei (Nationalstrassen sowie kantonale Autobahnen und Autostrassen) unmittelbar durch die örtliche Baubehörde. Gesuche für Baureklamen an Strassen sind ausschliesslich durch die Gemeinde bzw. die Kantonspolizei zu prüfen; deren Verfügungen werden den Gesuchstellenden von diesen Stellen selbst eröffnet. Gesuche für Bauvorhaben, die der Prüfung durch die kantonale Feuerpolizei oder das kantonale Amt für Militär und Zivilschutz unterliegen, unterbreitet das örtliche Bauamt diesen Stellen ausserhalb des in dieser Verordnung geregelten Verfahrens. Es koordiniert die feuerpolizeilichen und die zivilschutzrechtlichen Nebenbestimmungen mit den übrigen erforderlichen Bewilligungen und macht sie zum Bestandteil der kommunalen Bewilligung. Besonderheiten des Vorhabens (der zu erstellenden oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **c.33**
 
@@ -651,7 +650,7 @@ einer überkommunalen Schutzanordnung (Fachstelle)
 
 **AWEL**
 
-- 1\. 1. 21 - 111 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle 1.4.1.3 – Landschaftsschutz im Geltungsbereich ARE eines überkommunalen Inventars (Fachstelle) 1.4.1.4 – Ortsbildschutz (ausser in den Städten ARE Zürich und Winterthur) (Fachstelle) 1.4.1.5 – Denkmalpflege ARE (Fachstelle) 1.4.1.6 – Archäologie ARE (Fachstelle) 1.4.2 im Nahbereich von Ufervegetation und ALN im Bereich von Lebensräumen geschützter (Fachstelle)<sup>22</sup> Pflanzen und Tiere, soweit bekannt
+- 1\. 7. 21 - 113 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle 1.4.1.3 – Landschaftsschutz im Geltungsbereich ARE eines überkommunalen Inventars (Fachstelle) 1.4.1.4 – Ortsbildschutz (ausser in den Städten ARE Zürich und Winterthur) (Fachstelle) 1.4.1.5 – Denkmalpflege ARE (Fachstelle) 1.4.1.6 – Archäologie ARE (Fachstelle) 1.4.2 im Nahbereich von Ufervegetation und ALN im Bereich von Lebensräumen geschützter (Fachstelle)<sup>22</sup> Pflanzen und Tiere, soweit bekannt
 
 **zuständige Stelle 8 19 ARE x**
 
@@ -707,7 +706,7 @@ zonen Bodenauftrag, Bodenabtrag oder Bodenverbrauch (durch Bauten und Anlagen) 1
 
 **19**
 
-- 1\. 1. 21 - 111 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 7. 21 - 113 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **zuständige Stelle 8 19**
 
@@ -817,7 +816,7 @@ Abwasserreinigungsanlage oder durch Abtransport (Fachstelle) auf eine zentrale A
 
 **5.1051**
 
-- 1\. 1. 21 - 111 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 7. 21 - 113 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **zuständige Stelle 8 19**
 
@@ -859,10 +858,6 @@ Abwasserreinigungsanlage oder durch Abtransport (Fachstelle) auf eine zentrale A
 
 ### 5.9<sup>34</sup> Erstellung von Wasserversorgungsanlagen
 
-**AFM52 AFM52/**
-
-**(BAZL)**
-
 5.9.1 Staatsbeitragsberechtigte Wasserversorgungs- AWEL anlagen von regionaler und überregionaler (Fachstelle) Bedeutung 5.9.2 Reservoire AWEL (Fachstelle) 5.9.3 Anlagen, die nicht dem Generellen Wasser- AWEL versorgungsprojekt entsprechen (Fachstelle) Besonderheiten des Vorhabens (der zu erstellenden oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **Beantragende Zum Entscheid § §**
@@ -873,14 +868,19 @@ Abwasserreinigungsanlage oder durch Abtransport (Fachstelle) auf eine zentrale A
 
 **(BAZL)**
 
-5.11<sup>40</sup> Bauten und Anlagen, die nicht ganz oder überwiegend dem Flugplatzbetrieb dienen (Nebenanlagen), innerhalb des Perimeters für Flugplätze 5.12<sup>40</sup> Luftfahrtspezifische Infrastrukturbauten von untergeordneter Bedeutung ausserhalb von Flugplätzen nach Aussenlandeverordnung vom 14. Mai 2014[^h59sup34supErs-1]
+5.11<sup>40</sup> Bauten und Anlagen, die nicht ganz oder überwiegend dem Flugplatzbetrieb dienen (Nebenanlagen), innerhalb des Perimeters für Flugplätze 5.12<sup>40</sup> Luftfahrtspezifische Infrastrukturbauten von untergeordneter Bedeutung ausserhalb von Flugplätzen nach Aussenlandeverordnung vom 14. Mai 2014[^h59sup34supErs-1] 5.13<sup>53</sup> Bauvorhaben, die in einem Gebiet mit Pflicht zum Bahntransport von Aushub und Gesteinskörnung gemäss § 3 der Verordnung über den Bahntransport von Aushub und Gesteinskörnung vom 3. Februar 2021[^h59sup34supErs-2] liegen und bei denen die Menge des gesamthaft anfallenden Aushubs 25 000 Festkubikmeter übersteigt.
+
+**AFM52 AFM52/**
+
+**(BAZL)**
+
+**AWEL AWEL**
+
+(Fachstelle)
 
 **23**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 [^h59sup34supErs-1]: SR 748.132.3.
-
-## Weitere Fussnoten
-
-- [3] LS 700.2.
+[^h59sup34supErs-2]: LS 700.5.
