@@ -4,13 +4,13 @@ number: "734.11"
 title: Wasserbauverordnung
 short: WBV
 language: de
-version: 2017-07-01
-valid_until: 2021-06-30
-version_adopted: 2017-05-16
+version: 2021-07-01
+valid_until: 2021-09-30
+version_adopted: 2021-06-15
 adopted: 2009-11-10
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/734.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2244/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3184/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2244/pdf_file"
 
 (WBV)
 
-vom 10.11.2009 (Stand 01.07.2017)
+vom 10.11.2009 (Stand 01.07.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -46,20 +46,19 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Amt für Wasser und Energie ist zuständige Stelle des Kantons, soweit die Gesetzgebung über den Wasserbau nichts anderes bestimmt.
 
-<sup>2</sup> Das Baudepartement ist zuständige Stelle des Kantons bei Einsprachen nach Art. 31 des Wasserbaugesetzes vom 17. Mai 2009[^2-1] sowie bei der Prüfung der Umweltverträglichkeit von Vorhaben an kantonalen Gewässern[^2-2].
+<sup>2</sup> Das Baudepartement ist zuständige Stelle des Kantons bei der Prüfung der Umweltverträglichkeit von Vorhaben an kantonalen Gewässern[^2-1].
 
-[^2-1]: sGS [734.1](https://www.gesetzessammlung.sg.ch/data/734.1/de).
-[^2-2]: Art. 15 f. des Einführungsgesetzes zur eidgenössischen Umweltschutzgesetzgebung, sGS [672.1](https://www.gesetzessammlung.sg.ch/data/672.1/de).
+[^2-1]: Art. 15 f. des Einführungsgesetzes zur eidgenössischen Umweltschutzgesetzgebung, sGS [672.1](https://www.gesetzessammlung.sg.ch/data/672.1/de).
 
 #### Art. 3
 
 **Gewässerplan (Art. 4 und 5 WBG)**
 
-<sup>1</sup> Die politische Gemeinde reicht der zuständigen Stelle des Kantons den Plan über die Gemeindegewässer auf ihrem Gebiet ein.
+<sup>1</sup> Die politische Gemeinde führt den Gewässerplan bei Genehmigungen von wasserbaulichen Massnahmen für den Hochwasserschutz nach.
 
 <sup>2</sup> Liegt zwischen Abschnitten des gleichen Gewässers, die nach Art. 4 des Wasserbaugesetzes vom 17. Mai 2009[^3-1] als Gemeindegewässer eingeteilt werden, eine Strecke von weniger als 200 Meter, werden die Gewässerabschnitte vereinigt.
 
-<sup>3</sup> Die zuständige Stelle des Kantons nimmt zum Plan über die Gemeindegewässer Stellung. Anschliessend legt die politische Gemeinde den Plan fest.
+<sup>3</sup> …
 
 [^3-1]: sGS [734.1](https://www.gesetzessammlung.sg.ch/data/734.1/de).
 
@@ -71,8 +70,8 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Als periodische Pflege der Ufervegetation gelten insbesondere:
 
-- a) Pflege und Ersatz von Bestockungen;
-- b) Pflege und Ausbesserung von Böschungen.
+- a) Pflege und Ergänzung von Bestockungen;
+- b) Pflege von Böschungen.
 
 #### Art. 5
 
@@ -115,20 +114,20 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Die politische Gemeinde:
 
 - a) bestätigt der Gesuchstellerin oder dem Gesuchsteller den Eingang und teilt das Ergebnis der Prüfung der Vollständigkeit des Gesuchs mit;
-- b) leitet das Gesuch nach der Prüfung der Vollständigkeit umgehend dem Amt für Natur, Jagd und Fischerei weiter.
+- b) leitet das Gesuch nach der Prüfung der Vollständigkeit innert Wochenfrist seit Gesuchseingang der zuständigen Stelle des Kantons weiter.
 
 #### Art. 10
 
 **c) Prüfung der Unterlagen**
 
-<sup>1</sup> Das Amt für Natur, Jagd und Fischerei prüft, ob die Unterhaltsarbeiten:
+<sup>1</sup> Die zuständige Stelle des Kantons:
 
-- a) zulässig sind und die Bewilligung für deren Ausführung erteilt werden kann;
-- b) in das vereinfachte oder das ordentliche Planverfahren verwiesen werden.
+- a) prüft, ob die Unterhaltsmassnahmen zulässig sind;
+- b) eröffnet allfällige notwendige kantonale Bewilligungen oder verweist das Gesuch in das vereinfachte Baubewilligungsverfahren oder das ordentliche Planverfahren.
 
-<sup>2</sup> Es kann für die Prüfung weitere kantonale Dienststellen einbeziehen.
+<sup>2</sup> Sie kann für die Prüfung weitere kantonale Dienststellen einbeziehen.
 
-<sup>3</sup> Es teilt das Ergebnis der Gesuchstellerin oder dem Gesuchsteller und der politischen Gemeinde innert 30 Tagen seit Gesuchseingang mit.
+<sup>3</sup> Sie teilt das Ergebnis der Gesuchstellerin oder dem Gesuchsteller und der politischen Gemeinde innert 20 Tagen seit Gesuchseingang mit.
 
 ## III. Raumplanerische Massnahmen
 
@@ -153,23 +152,11 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Sie lässt die Beitragsberechtigung vom Baudepartement klären.
 
-<sup>3</sup> Die Entschädigung für die Projektleitung durch die zuständige kantonale Stelle beträgt in der Regel 80 Prozent des Honoraransatzes des Schweizerischen Ingenieur- und Architektenvereins. Sie wird vor Beginn der Arbeiten vereinbart.
+<sup>3</sup> Die Entschädigung für die Projektleitung oder die Unterstützung der Bauherrschaft durch die zuständige kantonale Stelle wird vor Beginn der Arbeiten vereinbart.
 
 #### Art. 13
 
-**Wasserbauprogramm (Art. 19 WBG)**
-
-<sup>1</sup> Das Mehrjahresprogramm umfasst bedeutende Projekte für Kantonsgewässer.
-
-<sup>2</sup> Das Programm enthält für jedes Projekt:
-
-- a) betroffene politische Gemeinde und Ortschaft;
-- b) den betroffenen Gewässerabschnitt;
-- c) die geplanten Massnahmen;
-- d) die Grobkostenschätzung;
-- e) die voraussichtliche Höhe der Beiträge des Bundes;
-- f) den voraussichtlichen Baubeginn;
-- g) die Priorität des Projekts.
+**…**
 
 ### 2. Planverfahren
 
@@ -184,9 +171,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 15
 
-**Vereinfachtes Verfahren (Art. 27 WBG)**
-
-<sup>1</sup> Ein Projekt ist klein und unbedeutend, wenn es weder hydraulisch noch ökologisch nachteilige Auswirkungen hat und der Kreis der Betroffenen abgegrenzt werden kann.
+**…**
 
 ## V. Finanzierung
 
@@ -194,7 +179,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 16
 
-**Gemeindegewässer und übrige Gewässer (Art. 40 und 41 WBG)**
+**Eigentümerbeitrag bei Gemeindegewässern und übrigen Gewässern (Art. 40 und 41 WBG)**
 
 <sup>1</sup> Die Beiträge der Eigentümerinnen und Eigentümer der betroffenen Grundstücke, Bauten und Anlagen an die Kosten von Bau und Unterhalt der Gemeindegewässer und der übrigen Gewässer bemessen sich nach:
 
@@ -203,13 +188,22 @@ als Verordnung:[^ingress-2]
 - c) der Gefährdungsintensität;
 - d) dem besonderen für einzelne Grundstücke, Bauten und Anlagen zu erwartenden Nutzen.
 
+#### Art. 16a
+
+**Gemeindebeitrag bei Gemeindegewässern (Art. 40 WBG)**
+
+<sup>1</sup> Der Beitrag der politischen Gemeinde an die Kosten von Bau und Unterhalt der Gemeindegewässer bemisst sich nach:
+
+- a) dem öffentlichen Interesse, insbesondere anhand der Grösse des Einzugsgebiets, dem Revitalisierungsanteil, der ökologischen Aufwertung, der Ableitung von Meteorwasser aus überbauten Flächen im Einzugsgebiet und speziellen Gefährdungen;
+- b) der Tragbarkeit der Kosten durch die Eigentümerinnen und Eigentümer der betroffenen Grundstücke, Bauten und Anlagen.
+
 ### 2. Kostenverlegung
 
 #### Art. 17
 
 **Durchführung (Art. 43 WBG)**
 
-<sup>1</sup> Die politische Gemeinde oder die Perimeterkommission meldet die Bau- und Unterhaltspflicht als Anmerkung im Grundbuch an, sobald der Beitragsplan in Rechtskraft erwachsen ist.
+<sup>1</sup> Die politische Gemeinde oder die Schätzungskommission meldet die Bau- und Unterhaltspflicht als Anmerkung im Grundbuch an, sobald der Beitragsplan in Rechtskraft erwachsen ist.
 
 ### 3. Kantonsbeiträge
 
