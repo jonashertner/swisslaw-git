@@ -1,349 +1,463 @@
 ---
 canton: VS
 number: "416.100"
-title: Verordnung über die Ausbildungsbeiträge (Stipendien und Ausbildungsdarlehen)
+title: Verordnung über Stipendien und Studiendarlehen
 short: VSSD
 language: de
-version: 2016-07-01
-corrected: 2017-12-11
-version_adopted: 2016-06-22
+version: 2021-07-01
+valid_until: 2023-06-30
+version_adopted: 2021-06-16
 adopted: 2021-06-16
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/416.100"
-pdf: "https://lex.vs.ch/api/de/versions/488/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2929/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Ausbildungsbeiträge (Stipendien und Ausbildungsdarlehen)
+# Verordnung über Stipendien und Studiendarlehen
 
-vom 24. Juni 2011
+(VSSD)
+
+vom 16.06.2021 (Stand 01.07.2021)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Gesetz über die Ausbildungsbeiträge vom 18. November 2010;
+eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-auf Antrag des Departements für Erziehung, Kultur und Sport,
+eingesehen das Gesetz über Stipendien und Studiendarlehenvom 18. November 2010 (GSSD);
 
-verordnet:
+auf Antrag des für die Bildung zuständigen Departements,
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+verordnet [^ingress-1]:
+
+[^ingress-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck und Anwendungsbereich**
 
-Die vorliegende Verordnung regelt die Anwendungsmodalitäten des Gesetzes über die Ausbildungsbeiträge (GAB).
+<sup>1</sup> Die vorliegende Verordnung regelt die Anwendungsmodalitäten des Gesetzes über Stipendien und Studiendarlehen (GSSD).
 
 #### Art. 2
 
-**Gleichbehandlung**
+**Anerkannte Ausbildungen**
 
-In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Personen, die eine im Sinne von Artikel 7 und 8 GSSD anerkannte Ausbildung mit einer Dauer von mindestens einem Semester absolvieren, können eine Ausbildungshilfe (nachstehend: Hilfe) erhalten.
+
+<sup>2</sup> Der Besuch einer Klasse der Sekundarstufe I im Sinne von Artikel 7 Absatz 1 Buchstabe b GSSD ist einer nachobligatorischen Ausbildung gleichgestellt
+
+<sup>3</sup> Die für Stipendien und Studiendarlehen zuständige Dienststelle (nachfolgend: die Dienststelle) führt und aktualisiert:
+
+- a) die Liste der anerkannten Ausbildungsgänge, die Massnahmen für den Übertritt anbieten, und
+- b) die Liste der anerkannten Ausbildungsgänge, die Vorbereitungskurse für eine Ausbildung anbieten, unter der Bedingung, dass diese nach Abschluss der obligatorischen Schule, der Berufslehre oder der Ausbildung auf Sekundarstufe II beginnen.
+
+<sup>4</sup> Als berufliche Weiterbildungen im Sinne von Artikel 12 Absatz 1 Buchstabe c Ziffer 1 GSSD gelten postgraduale Ausbildungen vom Typ Certificate of Advanced Studies (CAS), Diploma of Advanced Studies (DAS) und Master of Advanced Studies (MAS).
 
 #### Art. 3
 
-<sup>3</sup> Anerkannte Ausbildungen
+**Datenerfassung und -verarbeitung**
 
-Personen, die eine im Sinne der Artikel 7 und 8 des GAB anerkannte Ausbildung mit einer Dauer von mindestens einem Semester absolvieren, können einen Ausbildungsbeitrag erhalten.
+<sup>1</sup> Die Sektion Stipendien und Studiendarlehen (nachfolgend: die Sektion) verfügt über die folgenden steuerlichen Daten:
 
-### 2. Abschnitt: Berechnungsmodus
+- a) Name, Vorname und Nummer des Steuerpflichtigen;
+- b) Art der Besteuerung (Standard- oder Quellenbesteuerung);
+- c) Veranlagungsstatus (provisorisch, ordentlich, definitiv, nach Ermessen, u.s.w.);
+- d) Veranlagungsverfügung oder -protokoll und insbesondere folgende Veranlagungsrubriken:
+  - 1\. Reineinkommen (2400),
+  - 2\. Vermögen/Total Aktiven (3500),
+  - 3\. Vermögen in einem anderen Kanton (4200),
+  - 4\. Vermögen im Ausland (4300),
+  - 5\. Wert der privaten Gebäude in der Wohngemeinde (2920),
+  - 6\. Wert der privaten Gebäude ausserhalb der Wohngemeinde (2922),
+  - 7\. Wert der privaten Grundgüter in der Wohngemeinde (2921),
+  - 8\. Wert der privaten Grundgüter ausserhalb der Wohngemeinde (2923),
+  - 9\. Total der Schulden und Pauschalabzüge (4000),
+  - 10\. Beiträge für anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a) des Steuerpflichtigen (2210),
+  - 11\. Beiträge für anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a) des Ehegatten (2220),
+  - 12\. Einkommen aus Liegenschaften im Wallis (1110),
+  - 13\. Einkommen aus Liegenschaften gelegen in einem anderen Schweizer Kanton (1120),
+  - 14\. Einkommen aus Liegenschaften gelegen im Ausland (1130),
+  - 15\. Unterhaltsbeiträge oder Kapitalabfindung bei Scheidung oder Trennung für Ex-Ehegatten (1410),
+  - 16\. Unterhaltsbeiträge oder Kapitalabfindung bei Scheidung oder Trennung für Kinder (1420),
+  - 17\. bezahlte Unterhaltsbeiträge oder Renten und dauernde Lasten sowie im Kanton nicht steuerpflichtige Einkommen (2531),
+  - 18\. bezogene Kapitalleistungen des Steuerpflichtigen 1 (1010),
+  - 19\. bezogene Kapitalleistungen des Steuerpflichtigen 2 (1020).
+
+<sup>2</sup> Sie ist berechtigt, diese Daten ausschliesslich im Rahmen eines Gesuchs auf Ausbildungshilfe zu verarbeiten.
+
+<sup>3</sup> Die in Absatz 1 dieses Artikels erwähnten Daten sind ebenfalls per Online-Kommunikation zugänglich.
 
 #### Art. 4
 
-<sup>3</sup> Berechnung des Ausbildungsbeitrags
+**Grenzen des Datenzugriffs**
 
-<sup>1</sup> Bei der Berechnung des Ausbildungsbeitrags werden folgende Elemente hinzugezogen:
+<sup>1</sup> Nur die Personen, die ein Gesuch auf Ausbildungshilfe bearbeiten, haben Zugriff auf die für die Bearbeitung notwendigen steuerlichen Daten.
 
-- a) die anerkannten Höchstkosten je nach Art der Ausbildung gemäss Anhang I der vorliegenden Verordnung;
+## 2 Berechnungsmodus
 
-- b) die finanziellen Mittel des Antragstellers, namentlich:
-
-- 1\. die persönlichen Einkünfte,
-
-- 2\. fünf Prozent des Nettovermögens sowie
-
-- 3\. der Beitrag der Eltern.
-
-<sup>2</sup> Der Ausbildungsbeitrag errechnet sich gestützt auf die anerkannten Höchstkosten nach Abzug der finanziellen Mittel des Antragstellers.
-
-<sup>3</sup> Bei Ausbildungen, für die ein Schulgeld von über 6'000 Franken pro Jahr bezahlt werden muss, werden die in Anhang I der vorliegenden Verordnung festgelegten anerkannten Höchstkosten um jenen Anteil erhöht, der 6'000 Franken übersteigt. Dieser Anteil kann nicht höher sein als 5'000 Franken.
+### 2.1 Grundsätze
 
 #### Art. 5
 
-<sup>3</sup> Finanzielle Mittel
+**Berechnung der Hilfe**
 
-Zu den finanziellen Mitteln des Antragstellers gehören:
+<sup>1</sup> Die Hilfe wird auf der Grundlage des Budgets der Person in Ausbildung berechnet, dieses ergibt sich aus der Differenz zwischen:
 
-- a) die persönlichen Einkünfte, d.h.:
-
-- 1\. das Bruttoeinkommen, namentlich Lohn, Nebenverdienste, Renten, Unterhaltsbeiträge und andere im gleichen Jahr erhaltenen Stipendien, wobei eine Franchise von 30 Prozent, mindestens aber 6'000 Franken abgezogen werden. Erfüllt ein Antragsteller die Bestimmungen von Artikel 12 der vorliegenden Verordnung, liegt die Mindestfranchise bei 30'000 Franken.
-
-- 2\. Falls es sich um einen verheirateten oder in eingetragener Partnerschaft lebenden Antragsteller handelt: das erwirtschaftete Bruttoeinkommen sowie das erwirtschaftete Einkommen seines Partners für jenes Jahr, für das eine Hilfe beantragt wird; dies nach Abzug einer Franchise von 50 Prozent, wobei aber mindestens 12'000 Franken abgezogen werden; Erfüllt ein Antragsteller die Bestimmungen von Artikel 12 der vorliegenden Verordnung, liegt die Mindestfranchise bei 45'000 Franken.
-
-- 3\. Falls es sich um einen Vollwaisen handelt: das erwirtschaftete Bruttoeinkommen für jenes Jahr, für das eine Hilfe beantragt wird; dies nach Abzug einer Franchise von 30 Prozent, wobei aber mindestens 30'000 Franken abgezogen werden.
-
-- b) fünf Prozent des Nettovermögens sowie
-
-- c) der Beitrag der Eltern unter Vorbehalt der Bestimmungen in Artikel 12 der vorliegenden Verordnung.
+- a) den Mitteln der Person in Ausbildung, ihres Ehegatten oder ihres eingetragenen Partners und denen ihrer Eltern oder anderer Personen, die gesetzlich zur Finanzierung der Ausbildung verpflichtet sind, sowie den Leistungen Dritter, und
+- b) den anerkannten Kosten für die Ausbildung und Lebenshaltung der Person in Ausbildung.
 
 #### Art. 6
 
-<sup>3</sup> Massgebendes Einkommen der Eltern
+**Massgebende Steuerveranlagungen**
 
-<sup>1</sup> Das massgebende Einkommen der Eltern errechnet sich aus der definitiven Steuerveranlagung, die dem Schuljahr, für das ein Gesuch gestellt wird, zwei Jahre zurückliegt. Dieses setzt sich zusammen aus:
+<sup>1</sup> Die finanziellen Mittel der Eltern oder anderer Personen, die gesetzlich zur Finanzierung der Ausbildung verpflichtet sind, werden auf der Grundlage der Steuerveranlagung ermittelt, die gegenüber dem Beginn des Schuljahres, für das ein Gesuch gestellt wird, 2 Jahre zurückliegt.
 
-- a) dem Nettoeinkommen vor den persönlichen Abzügen (Ziffer 2400);
+<sup>2</sup> Das Reinvermögen der Person in Ausbildung, ihres Ehegatten oder ihres eingetragenen Partners wird auf der Grundlage der Steuerveranlagung ermittelt, die gegenüber dem Beginn des Schuljahres, für das ein Gesuch gestellt wird, ein Jahr zurückliegt.
 
-- b) zuzüglich fünf Prozent des aufgewerteten Nettovermögens, der Beiträge für anerkannte Formen der gebunden Selbstvorsorge (Säule 3a) bis zum für Arbeitnehmer zugelassenen Maximalbetrag, der im Ausland erworbenen Einkommens- und Vermögenswerte sowie des negativen Einkommens aus Liegenschaften;
+<sup>3</sup> Bei Veranlagung nach pflichtgemässem Ermessen dient diese als Grundlage für die Berechnung der Hilfe.
 
-- c) abzüglich der Unterhaltsbeiträge, welche gemäss des Familienrechts oder einer Vereinbarung überwiesen wurden, sowie der Kapitalleistungen (Ziffern 1010 und 1020).
+<sup>4</sup> Wenn die massgebende Steuerveranlagung nicht rechtskräftig ist, wird das zu berücksichtigende Einkommen auf Grundlage der ordentlichen oder provisorischen Veranlagung, oder, sofern eine solche nicht vorliegt, auf Grundlage der letzten rechtskräftigen Veranlagung ermittelt.
 
-<sup>2</sup> Für Personen mit Quellenbesteuerung entspricht das massgebende Einkommen 80 Prozent des besteuerten Bruttoeinkommens des laufenden Jahres oder des Jahres, für das der Antrag gestellt wird, zuzüglich der 5 Prozent des aufgewerteten Nettovermögens.
+<sup>5</sup> Liegt keine Steuerveranlagung vor, werden die Mittel auf Grundlage der letzten Einkommensnachweise (Löhne, Renten oder andere) und Vermögensbescheinigungen ermittelt. Bruttoeinkommen werden in Höhe von 80 Prozent berücksichtigt.
 
-<sup>3</sup> Wenn die Eltern nicht im gleichen Haushalt leben und unverheiratet, gerichtlich getrennt oder geschieden sind, wird das massgebende Einkommen der beiden Elternteile separat berechnet.
-
-<sup>4</sup> Leistet ein Elternteil gerichtlich festgelegte Unterhaltsbeiträge an den Antragsteller, so wird das Einkommen dieses Elternteils nicht berücksichtigt.
-
-<sup>5</sup> Vorbehalten bleibt die massgebende Steuerperiode bei Sondergesuchen gemäss Art. 6ter der vorliegenden Verordnung.
-
-#### Art. 6bis
-
-<sup>3</sup> Aufgewertetes Brutto- und Nettovermögen
-
-<sup>1</sup> Das aufgewertete Bruttovermögen errechnet sich aus Ziffer 3500 der Steuerveranlagung zuzüglich des auf 145 Prozent aufgewerteten Steuerwerts der Privatgebäude (Ziffern 2920 und 2922). Die ersten 100'000 Franken für Privatgebäude werden nicht aufgewertet und zum Steuerwert berücksichtigt.
-
-<sup>2</sup> Das aufgewertete Nettovermögen entspricht dem aufgewerteten Bruttovermögen, abzüglich Schulden und Pauschalabzüge (Ziffer 4000).
-
-#### Art. 6ter
-
-<sup>3</sup> Sondergesuche
-
-Begründete Sondergesuche können gestellt werden bei:
-
-- a) Änderungen des Zivilstandes (z.B.: ledig, verheiratet, verwitwet, geschieden, gerichtlich getrenntlebend, in eingetragener Partnerschaft);
-
-- b) Änderungen beim Einkommen von mindestens 30 Prozent während zweier aufeinanderfolgender Jahre.
+<sup>6</sup> Bei Steuerveranlagungen aus anderen Kantonen oder Ländern werden die für die Berechnung der Hilfe notwendigen Daten, soweit zweckmässig, übernommen.
 
 #### Art. 7
 
-<sup>3</sup> Beitrag der Eltern
+**Jährlicher Beitrag einer vollständigen Hilfe**
 
-<sup>1</sup> Der für die Ausbildung der Kinder aufgewendete Gesamtbeitrag der Eltern errechnet sich als Differenz zwischen dem massgebenden Einkommen und den anerkannten Minimalbedürfnissen gemäss Tabelle in Anhang II der vorliegenden Verordnung.
+<sup>1</sup> Der jährliche Betrag einer vollständigen Hilfe im Sinne von Artikel 17 Absatz 1 GSSD beläuft sich auf:
 
-<sup>2</sup> Zu den anerkannten Minimalbedürfnissen gemäss Anhang II der vorliegenden Verordnung wird für jedes Kind in post-obligatorischer Ausbildung ein Zuschlag von 1'800 Franken hinzugefügt.
+- a) 12’000 Franken für eine Ausbildung auf Sekundarstufe;
+- b) 16’000 Franken für eine Ausbildung auf Tertiärstufe.
 
-<sup>3</sup> Der Beitrag pro Kind ergibt sich aus dem Gesamtbeitrag der Eltern geteilt durch die Anzahl unterhaltsberechtigter Kinder.
+<sup>2</sup> Bei Ausbildungen im Ausland, wo der dortige Lebensstandard unter jenem in der Schweiz liegt, wird der jährliche Betrag einer vollständigen Hilfe nach Absatz 1 an die Lebenshaltungskosten am Ausbildungsort angepasst.
 
-<sup>4</sup> Ist ein oder sind beide Elternteile wiederverheiratet, wird der Beitrag um 50 Prozent reduziert.
+<sup>3</sup> Bei Gewährung einer Hilfe beträgt der jährliche Mindestbetrag eines Stipendiums oder eines Studiendarlehens 500 Franken.
 
 #### Art. 8
 
-<sup>3</sup> Aufteilung des Ausbildungsbeitrags
+**Personen in Ausbildung mit Kindern**
 
-Der Ausbildungsbeitrag wird wie folgt gewährt:[^8-1] a) in Form eines Stipendiums; dies beim Besuch des Unterrichts der Sekundarstufe I in einer anderen Sprachregion oder bei einer Sport-Kunst-Ausbildung, beim Besuch von Vorbereitungskursen für eine Ausbildung, sofern diese nach Abschluss der obligatorischen Schulzeit erfolgen sowie bei Berufslehren und dem Besuch der Mittelschule;[^8-1] b) in Form eines Stipendiums oder Darlehens für Grundbildungen auf tertiärer Stufe, wobei die Höhe des Stipendiums oder Darlehens von den budgetären Möglichkeiten und den Bestimmungen von Artikel 12 des GAB abhängt;<sup>1,2,3</sup> c) in Form eines Darlehens; dies namentlich für Ausbildungen, welche die reglementarische Studiendauer um mehr als zwei Semester übersteigen, für berufsbegleitende Weiterbildungen, Fortbildungen, universitäre Zweitausbildungen, postgraduale Ausbildungen wie dem Certificate of Advanced Studies (CAS), dem Diploma of Advanced Studies (DAS) und dem Master of Advanced Studies (MAS), für Doktorate sowie Anwalts- und Notariatspraktika.[^8-1]
-
-[^8-1]: Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014 Titel, Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014
+<sup>1</sup> Zum jährlichen Betrag einer vollständigen Hilfe nach Artikel 7 der vorliegenden Verordnung wird für jedes Kind, für das die Person in Ausbildung aufkommt, eine Pauschale von 4’000 Franken hinzugerechnet.
 
 #### Art. 9
 
-**Beschränkung der finanziellen Hilfe**
+**Zusammensetzung der Hilfe**
 
-<sup>1</sup> Aufgehoben.[^9-1]
+<sup>1</sup> Die Zusammensetzung der Hilfe aus Stipendien und Studiendarlehen ist in Artikel 12 GSSD festgelegt. Bei Grundausbildungen auf tertiärer Stufe entscheidet das Departement über die Zusammensetzung, wobei das Stipendium mindestens 2/3 der Ausbildungshilfe entsprechen muss.
 
-<sup>2</sup> Ist das gemäss Artikel 6bis Absatz 1 der vorliegenden Verordnung errechnete aufgewertete Bruttoeinkommen höher als 1'000'000 Franken, wird ein allfälliger Ausbildungsbeitrag für Ausbildungen auf tertiärer Ebene nur in Form eines Darlehens gewährt.[^9-1]
-
-<sup>3</sup> Nicht gewährt werden:[^9-1] a) Stipendien unter 500 Franken;
-
-- b) Darlehen unter 1'000 Franken.
-
-<sup>4</sup> Die vom Staat für sämtliche Ausbildungen eines Antragstellers gewährten Darlehen dürfen zusammengezählt nicht höher sein als 50'000 Franken.
-
-[^9-1]: Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014 Titel, Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014
-
-#### Art. 9bis
-
-<sup>3</sup> Dauer des Anspruchs auf einen Beitrag für Doktoranden
-
-Für Doktoranden liegt die Ausbildungsdauer, während der ein Anspruch auf einen Beitrag besteht, bei maximal drei Jahren.
-
-### 3. Abschnitt: Besondere Bestimmungen
+<sup>2</sup> Wenn das gemäss Artikel 15 Absatz 1 der vorliegenden Verordnung errechnete aufgewertete Nettovermögen 1'000’000 Franken übersteigt, wird die Hilfe für eine Grundausbildung auf tertiärer Stufe zu 2/3 in Form von Stipendien und zu 1/3 in Form eines Studiendarlehens ausbezahlt.
 
 #### Art. 10
 
-<sup>3</sup> Antragsteller mit Kindern
+**Partiell unabhängige Berechnung der elterlichen Leistungen**
 
-Zu den anerkannten Höchstbeträgen unter Anhang I der vorliegenden Verordnung wird für jedes Kind, für das der Antragsteller aufkommt, eine Pauschale von 4'000 Franken hinzugefügt.
+<sup>1</sup> Bei Personen in Ausbildung, die die Voraussetzungen nach Artikel 18 GSSD erfüllen, wird die Hilfe für eine Grundausbildung auf tertiärer Stufe zu 2/3 in Form von Stipendien und zu 1/3 in Form eines Studiendarlehens gewährt.
 
-[^10-1]: Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014 Titel, Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014
+<sup>2</sup> Der Elternbeitrag wird in Fällen nach Absatz 1 zu 10 Prozent berücksichtigt.
+
+### 2.2 Familienbudget
 
 #### Art. 11
 
-[^10-1]
+**Grundsätze**
 
-Aufgehoben.
+<sup>1</sup> Das Familienbudget dient dazu, die finanzielle Situation der Eltern oder der anderen Personen, die gesetzlich zum Unterhalt der Person in Ausbildung verpflichtet sind, unter Berücksichtigung der im selben Haushalt lebenden Kinder (Minderjährige oder Personen in nachobligatorischer Ausbildung), für die die Familie aufkommt, zu ermitteln.
+
+<sup>2</sup> Wenn die Eltern verheiratet sind, in einer eingetragenen Partnerschaft leben oder unverheiratet einen gemeinsamen Haushalt führen, wird ein gemeinsames Budget erstellt.
+
+<sup>3</sup> Wenn die Eltern nicht in einem gemeinsamen Haushalt leben und nicht verheiratet sind oder in einer eingetragenen Partnerschaft leben, sie tatsächlich oder aufgrund eines gerichtlichen Entscheids getrennt leben, sie geschieden sind oder wieder geheiratet haben, wird für jeden Elternteil ein separates Budget erstellt.
+
+<sup>4</sup> Wenn einer der Elternteile der Person in Ausbildung einen gerichtlich festgesetzten Unterhaltsbeitrag (nachfolgend: Alimente) zahlt, wird für diesen Elternteil kein Budget erstellt.
 
 #### Art. 12
 
-<sup>3</sup> Partiell unabhängige Berechnung der elterlichen Leistungen
+**Massgebendes Einkommen der Eltern oder anderer Personen, die gesetzlich zur Finanzierung der Ausbildung verpflichtet sind**
 
-<sup>1</sup> Das Einkommen der Eltern wird unter Vorbehalt von Absatz 3 des vorliegenden Artikels nicht berücksichtigt, falls der Antragsteller zu Beginn seiner neuen Ausbildung folgende kumulativen Bedingungen erfüllt:[^12-1] a) Er hat sein 25. Altersjahr abgeschlossen.[^12-1] b) Er hat eine Erstausbildung absolviert, die ihm die Ausübung eines Berufes ermöglicht.[^12-1] c) Er war während mindestens zweier Jahre finanziell unabhängig.[^12-1]
+<sup>1</sup> Das massgebende Einkommen der Eltern oder anderen Personen, die gesetzlich zur Finanzierung der Ausbildung verpflichtet sind, errechnet sich auf Grundlage der massgebenden Steuerveranlagung nach Artikel 6 der vorliegenden Verordnung. Es setzt sich zusammen aus:
 
-<sup>2</sup> Erfüllt ein Antragsteller die Bedingungen des obigen Absatzes, wird der Ausbildungsbeitrag zu zwei Dritteln in Form eines Darlehens und zu einem Drittel in Form eines Stipendiums überwiesen.[^12-1]
+- a) dem Reineinkommen vor den persönlichen Abzügen (Ziffer 2400);
+- b) zuzüglich:
+  - 1\. 5 Prozent des aufgewerteten Nettovermögens,
+  - 2\. der Beiträge für anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a) bis zu dem für Arbeitnehmer zugelassenen Maximalbetrag,
+  - 3\. des im Ausland erzielten Einkommens, sowie
+  - 4\. des negativen Einkommens aus Liegenschaften;
+- c) abzüglich:
+  - 1\. der gemäss dem Familienrecht oder einer Vereinbarung gezahlten Alimente, sowie
+  - 2\. der erhaltenen Kapitalleistungen (Ziffern 1010 und 1020).
 
-<sup>3</sup> Die Obergrenze des massgebenden Einkommens der Eltern, ab der kein Ausbildungsbeitrag gewährt wird, liegt bei 180'000 Franken.[^12-1]
+<sup>2</sup> Bei Personen mit Quellenbesteuerung entspricht das massgebende Einkommen 80 Prozent des steuerpflichtigen Bruttoeinkommens des Jahres der massgebenden Steuerveranlagung, zuzüglich 5 Prozent des aufgewerteten Nettovermögens und der erhaltenen Alimente.
 
-<sup>4</sup> Aufgehoben.[^12-1]
+<sup>3</sup> Nach Vorlage der massgebenden rechtskräftigen Steuerveranlagung für das Ausbildungsjahr werden der Hilfsanspruch und der Betrag der Hilfe überprüft und der Entscheid wird gegebenenfalls revidiert.
 
-[^12-1]: Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014 Titel, Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014
+<sup>4</sup> Der Hilfsanspruch sowie der Betrag der Hilfe können von Amtes wegen überprüft werden, sobald die massgebende Steuerveranlagung rechtskräftig geworden ist.
+
+<sup>5</sup> Vorbehalten bleibt die massgebende Steuerperiode bei wesentlichen Änderungen der persönlichen Verhältnisse im Sinne von Artikel 33 der vorliegenden Verordnung.
 
 #### Art. 13
 
-[^12-1]
+**Kosten zur Deckung der Bedürfnisse der Familie**
 
-Aufgehoben.
+<sup>1</sup> Folgende Kosten sind zur Deckung der Bedürfnisse der Familie vorgesehen:
 
-#### Art. 13bis
-
-<sup>3</sup> Sprachkurse
-
-Sprachkurse, für die ein Anspruch auf einen Ausbildungsbeitrag besteht, müssen mindestens ein Semester à 16 Wochen mit wenigstens 20 Wochenstunden dauern.
+- a) die Pauschale für den Unterhalt, die sich auf Grundlage der Personenzahl des Haushalts und den Pauschalbeträgen errechnet, die in Anhang 1, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert sind. Die Pauschale für den Unterhalt deckt namentlich den grundlegenden Bedarf an Nahrung, Kleidung und Freizeit ab;
+- b) die Wohnkosten, die sich auf Grundlage der Personenzahl des Haushalts und den Pauschalbeträgen errechnen, die in Anhang 1, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert sind;
+- c) der Integrationszuschlag in Höhe von 1’200 Franken, der für jedes Kind in nachobligatorischer Ausbildung im Familienbudget gewährt wird;
+- d) der Ausbildungszuschlag in Höhe von 1’800 Franken, der für jedes Kind in nachobligatorischer Ausbildung im Familienbudget gewährt wird;
+- e) die Krankenversicherungspauschale für jede Person im Haushalt, die in Anhang 1, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert ist;
+- f) die Pauschale für sonstige Kosten für jede Person im Haushalt, die von dem für die Bildung zuständigen Departement (nachfolgend: das Departement) nach Alterskategorie und abhängig von den finanziellen Ressourcen des Kantons festgelegt wird.
 
 #### Art. 14
 
-<sup>3</sup> Berufsbegleitende Weiterbildungen, postgraduale Ausbildungen
+**Familienbudget**
 
-und Fortbildungen
+<sup>1</sup> Das Familienbudget errechnet sich aus der Differenz zwischen dem massgebenden Einkommen der Eltern und den Kosten zur Deckung der Bedürfnisse der Familie.
 
-<sup>1</sup> Wer namentlich berufsbegleitende Weiterbildungs-, Wiedereingliederungs- oder Umschulungskurse im Hinblick auf einen Fachausweis oder ein eidgenössisches Diplom/Meisterdiplom, Fortbildungen oder postgraduale Ausbildungen absolviert, hat Anspruch auf einen Ausbildungsbeitrag in Form eines Darlehens.
+<sup>2</sup> Weist das Budget einen Mittelüberschuss auf, so wird der Elternbeitrag berechnet, indem dieser Überschuss durch die Anzahl der Kinder in nachobligatorischer Ausbildung geteilt wird und sodann bei der Berechnung des Budgets der Person in Ausbildung berücksichtigt wird. Auf den Elternbeitrag kann ein vom Departement festgelegter Koeffizient angewendet werden, der vom verfügbaren Globalbudget abhängt. Ist ein oder sind beide Elternteile wiederverheiratet, wird sein/ihr Elternbeitrag um 50 Prozent reduziert.
 
-<sup>2</sup> Die besuchten Kurse müssen zum Erwerb eines vom für Bildung zuständigen Departement anerkannten Zeugnisses oder Diploms führen. Die Hilfe entspricht den Auslagen des Antragstellers für Taxen oder Einschreibegebühren, Bücher, Schulmaterial oder Werkzeuge, Mahlzeiten, Transporte und für andere in Zusammenhang mit dem Kurs stehende Auslagen; ausgenommen sind allerdings Lohnausfälle. Die Beteiligung des Arbeitgebers an den Kosten einer berufsbegleitenden Weiterbildung wird abgezogen.
-
-<sup>3</sup> Belaufen sich die unter Absatz 2 des vorliegenden Artikels vorgesehenen Kosten auf weniger als 4'000 Franken, werden keine Beiträge gewährt. Die Obergrenze für Darlehen liegt bei jährlich 16'000 Franken.
-
-<sup>4</sup> Es wird keine Hilfe gewährt, wenn der Antragsteller während des Jahres, für das er eine Hilfe beantragt, ein Bruttoeinkommen von über 36'000 Franken erzielt. Für verheiratete oder in einer eingetragenen Partnerschaft lebende Antragsteller darf das Bruttoeinkommen des Paares 54'000 Franken nicht übersteigen. Beide Ansätze erhöhen sich für jedes unterhaltsberechtigte Kind um 6'000 Franken.
+<sup>3</sup> Wenn das Budget einen Kostenüberschuss aufweist und die Person in Ausbildung in das Familienbudget integriert wird, so ist der Elternbeitrag gleich null und der Anteil der Person in Ausbildung am Negativsaldo des Familienbudgets wird berechnet, indem der absolute Wert dieses Überschusses durch die Anzahl der zur Familie gehörenden Personen geteilt wird. Der Anteil der Person in Ausbildung am Negativsaldo der Familie wird bei der Berechnung des Budgets der Person in Ausbildung als Kostenposition herangezogen.
 
 #### Art. 15
 
-**Rückzahlung von Darlehen und Begleichung der Zinsen**
+**Aufgewertetes Brutto- und Nettovermögen**
 
-<sup>1</sup> Die Rückzahlungspflicht für Darlehen beginnt im dritten Jahr nach Abschluss des Studiums.[^15-1]
+<sup>1</sup> Das aufgewertete Bruttovermögen basiert auf dem Total der Aktiven (Ziffer 3500), des Vermögens in einem anderen Kanton (Ziffer 4200) und des Vermögens im Ausland (Ziffer 4300) der massgebenden Steuerveranlagung, zuzüglich des auf Grundlage eines Koeffizienten von 150 Prozent aufgewerteten Steuerwerts der Privatgebäude (Ziffern 2920 und 2922) und der privaten Grundgüter (Ziffern 2921 und 2923). Die ersten 100’000 Franken für Privatgebäude und private Grundgüter werden nicht aufgewertet und zum Steuerwert berücksichtigt.
 
-<sup>1bis</sup> Für Doktoranden beginnt die Rückzahlungspflicht im sechsten Jahr nach Beginn des Doktorats.[^15-1]
+<sup>2</sup> Das aufgewertete Nettovermögen entspricht dem aufgewerteten Bruttovermögen abzüglich Schulden und Pauschalabzüge (Ziffer 4000).
 
-<sup>1ter</sup> Die Rückerstattung der Darlehen muss innerhalb einer Frist von maximal zehn Jahren erfolgt sein. Die monatlichen Mindestraten werden von der für die Ausbildungsbeiträge zuständigen Dienststelle festgelegt. Die Monatsraten betragen mindestens 300 Franken für die ersten drei Jahre und von mindestens 400 Franken für die darauffolgenden Jahre.[^15-1]
-
-<sup>2</sup> Bis zum Beginn der Rückzahlungspflicht werden die Darlehen zinslos gewährt. Ab Beginn der Rückzahlungspflicht gilt ein Zinssatz von drei Prozent.[^15-1]
-
-<sup>2bis</sup> Der in Absatz 2 des vorliegenden Artikels erwähnte Zinssatz ist mit den von den Banken angewandten Zinssätzen für Ausbildungskredite nach Artikel 21 Absatz 3 des GAB zu vergleichen.[^15-1]
-
-<sup>3</sup> Der Zins wird am Ende jedes Jahres berechnet und dem Schuldner mitgeteilt. Die aufgelaufenen Zinsen werden jeweils nach Ablauf einer Frist von fünf Jahren nach Beginn der Rückzahlungspflicht aber spätestens nach Ablauf des Darlehensvertrags fällig.
-
-<sup>4</sup> Wenn ein Antragsteller, der nach Abschluss seiner Ausbildung mindestens zwei Jahre lang einer Erwerbstätigkeit nachgegangen ist, eine neue Ausbildung antritt, können die Monatsraten auf begründetes Gesuch hin ausgesetzt werden. Die Zinsen der sistierten Monatsraten bleiben hingegen fällig.[^15-1]
-
-[^15-1]: Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014 Titel, Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014
-
-### 4. Abschnitt: Verfahren
+### 2.3 Budget der Person in Ausbildung
 
 #### Art. 16
 
-**Einreichen der Gesuche**
+**Finanzielle Mittel der Person in Ausbildung**
 
-<sup>1</sup> Die Gesuche für Ausbildungsbeiträge müssen der für die Ausbildungsbeiträge zuständigen Dienststelle grundsätzlich vor Beginn der Ausbildung aber spätestens vor Ablauf folgender Fristen eingereicht werden:[^16-1] a) bis 30. November für das Herbstsemester oder für das ganze Schuljahr;[^16-1] b) bis 31. März für das Frühlingssemester.[^16-1]
+<sup>1</sup> Die finanziellen Mittel der Person in Ausbildung sind:
 
-<sup>2</sup> Die Gesuche sind jährlich zu erneuern.
-
-<sup>3</sup> Je nach Gesuch sind dem Dossier folgende Dokumente beizulegen:
-
-- a) offizielle Einschreibebestätigung der Schule oder des Institutes;
-
-- b) Lehrvertrag;
-
-- d) Finanzierungsplan.
-
-<sup>4</sup> Die Kommission kann andere Belege verlangen und wenn nötig die Meinung eines Experten in Sachen Berufsberatung einholen.
-
-<sup>5</sup> Die Gesuche werden grundsätzlich in der Reihenfolge ihres Eingangs bearbeitet.[^16-1]
-
-<sup>6</sup> Aufgehoben.[^16-1]
-
-[^16-1]: Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014 Titel, Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014
+- a) das persönliche Einkommen, das heisst:
+  - 1\. das Bruttoeinkommen sowie das Einkommen des Ehegatten oder eingetragenen Partners, namentlich Lohn, Nebenverdienste, Renten, Unterhaltsbeiträge und andere Stipendien, das während des Ausbildungsjahres, auf welches sich das Hilfegesuch bezieht, erzielt wird,
+  - 2\. von diesem Bruttoeinkommen wird ein Freibetrag in Höhe von 30 Prozent, mindestens jedoch 6’000 Franken, abgezogen,
+  - 3\. ist das persönliche Einkommen nach Abzug des Freibetrags negativ, beträgt der für die Berechnung der Hilfe zu berücksichtigende Wert gleich 0;
+- b) 5 Prozent des steuerbaren Nettovermögens, wenn es positiv ist. Die Berechnung erfolgt auf Grundlage der massgebenden Steuerveranlagung der Person in Ausbildung nach Artikel 6 Absatz 2 der vorliegenden Verordnung.
 
 #### Art. 17
 
-<sup>3</sup> Zustellung der Beschlüsse
+**Elternbeitrag**
 
-Grundsätzlich werden die Entscheide innerhalb von drei Monaten nach Einreichen des vollständigen Gesuchs eröffnet.[^17-1]
-
-[^17-1]: Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014 Titel, Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014
+<sup>1</sup> Der Elternbeitrag bestimmt sich nach Artikel 14 Absätze 2 und 3 der vorliegenden Verordnung und wird zu den finanziellen Mitteln der Person in Ausbildung hinzugerechnet.
 
 #### Art. 18
 
-**Schlussbestimmungen**
+**Anerkannte Kosten der Ausbildung**
 
-Die vorliegende Verordnung ersetzt das Reglement zur Berechnung der Stipendien und Ausbildungsdarlehen vom 16. Juni 2000. Sie wird im Amtsblatt veröffentlicht und tritt auf den 1. Juli 2011 in Kraft.
+<sup>1</sup> Die anerkannten Kosten der Ausbildung werden im Budget der Person in Ausbildung ermittelt. Zu den anerkannten Kosten der Ausbildung gehören:
 
-So beschlossen im Staatsrat zu Sitten, den 24. Juni 2011.
+- a) Ausbildungskosten;
+- b) Reisekosten;
+- c) zusätzliche Kosten für Mahlzeiten, und
+- d) Kosten für die Unterkunft ausserhalb der Familie, sofern gerechtfertigt.
 
-Der Präsident des Staatsrats: Jacques Melly
+#### Art. 19
 
-Der Staatskanzler: Philipp Spörri
+**Ausbildungskosten**
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>1</sup> Die für die Berechnung der Hilfe herangezogenen jährlichen Ausbildungskosten werden pauschal festgelegt und belaufen sich, unabhängig vom Ausbildungsort, für die Ausbildung auf Sekundarstufe, inklusive der Vorbereitungsklassen für den tertiären Bildungsbereich, auf 2’500 Franken und für die Ausbildung auf Tertiärstufe auf 3’000 Franken.
 
-Verordnung über die Ausbildungsbeiträge Abl. Nr. 27/2011 01.07.2011
+<sup>2</sup> Immatrikulationsgebühren und Anmeldegebühren für Prüfungen sind in der Ausbildungspauschale enthalten.
 
-### (Stipendien und Ausbildungsdarlehen) vom 24. Juni 2011
+<sup>3</sup> Betragen die jährlichen Ausbildungskosten in einer Einrichtung in der Schweiz mehr als 6’000 Franken, so werden die jährlichen Ausbildungskosten nach Absatz 1 um den Anteil erhöht, der den Betrag von 6’000 Franken übersteigt. Dieser Anteil kann nicht höher als 5’000 Franken sein.
 
-## Anhang I
+<sup>4</sup> Bei Ausbildungen der tertiären Stufe, die die Bedingungen nach Absatz 3 erfüllen und für die eine Hilfe gewährt wurde, wird der zusätzliche Kostenanteil nach Absatz 3 in Form eines Studiendarlehens bewilligt.
 
-### Anerkannte jährliche Höchstbeträge nach Art der Ausbildung aufgelistet:<sup>3,4</sup>
+#### Art. 20
 
-**Maximal anerkannte**
+**Reisekosten**
 
-### Art der Ausbildung Kosten für die Ausbildung
+<sup>1</sup> Die Beförderungskosten entsprechen dem Preis des Abonnements für den öffentlichen Verkehr in der 2. Klasse zwischen Wohn- und Ausbildungsort, höchstens jedoch dem Preis des Generalabonnements für die betreffende Personenkategorie, wobei dies auch für Ausbildungen im Ausland gilt.
 
-inklusive:
+<sup>2</sup> Wenn die Person in Ausbildung aufgrund der Entfernung des Ausbildungsorts ausserhalb der Wohnung ihrer Eltern lebt, so wird der Preis des Generalabonnements des öffentlichen Verkehrs für die betreffende Personenkategorie berücksichtigt.
 
-### Kosten (in Franken)
+<sup>3</sup> Öffentliche Subventionen werden von den berücksichtigten Reisekosten abgezogen.
 
-**4'000.– 6'000.– 10'500.–**
+#### Art. 21
 
-- 1\. Sekundarstufe I Mittagessen zuhause (Orientierungsschule) in Mittagessen auswärts einer anderen Unterkunft und Verpflegung Sprachregion oder einer S ausserhalb der Familie im Kanton 12'000.– port-Kunst-Ausbildungsstr Unterkunft und Verpflegung uktur ausserhalb des Kantons
+**Zusätzliche Kosten für Mahlzeiten**
 
-**4'000.– 6'000.– 10'500.–**
+<sup>1</sup> Wenn die Person in Ausbildung nicht nach Hause zurückkehren kann, wird ein Beitrag an die Kosten des Mittagessens auf Grundlage eines Pauschalbetrags von 2’200 Franken berücksichtigt.
 
-- 2\. Sekundarstufe II: Mittagessen zuhause
+<sup>2</sup> Wenn die Person in Ausbildung ausserhalb der Familie wohnt und ihre Unterhaltskosten im Familienbudget integriert sind, wird zusätzlich ein Betrag von 1’400 Franken für die Kosten des Abendessens berücksichtigt.
 
-- allgemeinbildener und Mittagessen auswärts berufsbildender Zweig Unterkunft und Verpflegung (namentlich Gymnasien, ausserhalb der Familie im Kanton 12'000.– Berufsfachschulen, Unterkunft und Verpflegung Handels- und ausserhalb des Kantons Fachmittelschulen);
+#### Art. 22
 
-- vorbereitende Schulen (namentlich berufsvorbereitende Schulen)
+**Wohnkosten**
 
-**5'000.– 7'500.– 13'500.–**
+<sup>1</sup> Die Wohnkosten sind durch die Entfernung des Ausbildungsorts gerechtfertigt, wenn der Person eine tägliche Heimfahrt nicht zugemutet werden kann und die Wohnung sich in der Nähe des Ausbildungsorts befindet. In Ausnahmefällen und bei Vorliegen wichtiger Gründe kann eine Wohnung ausserhalb des familiären Wohnsitzes auch dann berücksichtigt werden, wenn sie nicht durch die Entfernung des Ausbildungsorts gerechtfertigt ist.
 
-- 3\. Tertiäre Schulen Mittagessen zuhause (namentlich Mittagessen auswärts Fachhochschulen, Unterkunft und Verpflegung Universitäten, eidg. ausserhalb der Familie im Kanton 16'000.– Technische Hochschulen) Unterkunft und Verpflegung
+<sup>2</sup> Die Wohnkosten, inklusive Nebenkosten, werden entsprechend den tatsächlichen Kosten (Miete oder hypothekarische Belastung bei Wohnungseigentümern) bis zu den im Anhang 2 der vorliegenden Verordnung definierten Maximalpauschalen, die sich nach der Anzahl der Personen im Haushalt richten, berücksichtigt.
 
-ausserhalb des Kantons
+#### Art. 23
 
-**5'000.–**
+**Kosten zur Deckung des Bedarfs der Person in Ausbildung**
 
-- 4\. Fernstudium Anerkannte Kosten
+<sup>1</sup> Anerkannte Unterhaltskosten sind die Kosten zur Deckung des Bedarfs der Person in Ausbildung. Sie werden in das Familienbudget integriert, es sei denn, die Person in Ausbildung hat eine eigene Wohnung und erfüllt mindestens eine der folgenden Voraussetzungen:
 
-## Anhang II
+- a) ist verheiratet oder lebt in einer eingetragenen Partnerschaft;
+- b) hat unterhaltsberechtigte Kinder;
+- c) ist Waise;
+- d) kann 2 Jahre finanzielle Unabhängigkeit nach einer ersten Ausbildung nachweisen;
+- e) kann Probleme innerhalb der Familie (namentlich aufgrund einer Platzierung) nachweisen, oder
+- f) ist mindestens 35 Jahre alt.
 
-Anerkannte Minimalbedürfnisse[^hAnhangII-1]
+<sup>2</sup> Wenn mindestens eine der Voraussetzungen nach Absatz 1 erfüllt ist, werden die folgenden Kosten zur Deckung des Bedarfs der Person in Ausbildung im Budget der Person in Ausbildung berücksichtigt:
 
-[^hAnhangII-1]: Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014 Titel, Änderung vom 3. September 2014 Abl. Nr. 37/2014 01.08.2014
+- a) die Pauschale für den Unterhalt, die sich gemäss der Personenzahl des Haushalts und den Pauschalbeträgen errechnet, die in Anhang 2, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert sind. Die Pauschale für den Unterhalt deckt namentlich den grundlegenden Bedarf an Nahrung, Kleidung und Freizeit ab;
+- b) der Integrationszuschlag von 1’200 Franken pro Person in nachobligatorischer Ausbildung;
+- c) der Ausbildungszuschlag von 1’800 Franken pro Person in nachobligatorischer Ausbildung;
+- d) die Krankenversicherungspauschale, die in Anhang 2, der integraler Bestandteil der vorliegenden Verordnung bildet, definiert ist;
+- e) die Pauschale für sonstige Kosten für jede Person im Haushalt, die vom Departement nach Alterskategorie und abhängig von den finanziellen Ressourcen des Kantons festgelegt wird.
 
-### Anzahl im Haushalt Anerkannte Minimalbedürfnisse (in Franken)
+#### Art. 24
 
-**35'000.– 46'500.– 57'000.– 66'000.– 75'500.– 83'500.– 91'500.– 99'500.– 107'500.– 115'500.– 123'500.– 132'000.– 140'000.– 148'000.– 156'000.–**
+**Anteil der Person in Ausbildung am Negativsaldo der Familie**
 
-lebender Personen 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+<sup>1</sup> Der Anteil der Person in Ausbildung am Negativsaldo der Familie wird gemäss Artikel 14 Absatz 3 der vorliegenden Verordnung ermittelt.
 
-## Weitere Fussnoten
+#### Art. 25
 
-- [1] Änderung vom 20. Juni 2012 Abl. Nr. 27/2012 01.09.2012
-- [2] Änderung vom 19. Juni 2013 Abl. Nr. 26/2013 01.09.2013
-- [4] Änderung vom 22. Juni 2016 Abl. Nr. 27/2016 01.07.2016
+**Budget der Person in Ausbildung**
+
+<sup>1</sup> Das Budget der Person in Ausbildung ergibt sich aus der Differenz zwischen:
+
+- a) einerseits:
+  - 1\. den finanziellen Mitteln der Person in Ausbildung, ihres Ehegatten oder ihres eingetragenen Partners, und
+  - 2\. dem Anteil der Eltern der Person in Ausbildung, dem Anteil anderer Personen, die gesetzlich zur Finanzierung der Ausbildung verpflichtet sind, sowie den Leistungen Dritter, und
+- b) andererseits:
+  - 1\. den anerkannten Kosten der Ausbildung,
+  - 2\. den anerkannten Kosten für die Lebenshaltung der Person in Ausbildung, und
+  - 3\. dem Anteil der Person in Ausbildung am Negativsaldo der Familie.
+
+### 2.4 Besondere Ausbildungen
+
+#### Art. 26
+
+**Sprachkurse oder Sprachaufenthalte**
+
+<sup>1</sup> Sprachkurse oder Sprachaufenthalte, für die ein Anspruch auf Hilfe besteht, müssen in der jeweiligen Sprache eine Dauer von mindestens einem Semester à 16 Wochen mit jeweils mindestens 20 Wochenstunden aufweisen.
+
+#### Art. 27
+
+**Dauer des Anspruchs auf Hilfe für Doktoranden**
+
+<sup>1</sup> Bei Doktoranden beträgt die Ausbildungsdauer, während der ein Anspruch auf eine Hilfe besteht, maximal 3 Jahre.
+
+#### Art. 28
+
+**Weiterbildungen, postgraduale Ausbildungen und Fortbildungen**
+
+<sup>1</sup> Personen, die Weiterbildungs-, Wiedereingliederungs- oder Umschulungskurse, postgraduale Ausbildungen oder Fortbildungen absolvieren, können eine Hilfe in Form eines Studiendarlehens erhalten.
+
+<sup>2</sup> Die absolvierten Kurse müssen anerkannte Ausbildungen im Sinne von Artikel 2 der vorliegenden Verordnung sein. Die Hilfe entspricht den Auslagen der Person in Ausbildung für Taxen oder Einschreibegebühren, Bücher, Schulmaterial oder Arbeitsmittel, Mahlzeiten, Transport und für andere in Zusammenhang mit dem Kurs stehende Auslagen; mit Ausnahme von Lohnausfällen. Die Beteiligung des Arbeitgebers oder Dritter an diesen Kosten wird abgezogen.
+
+<sup>3</sup> Belaufen sich die unter Absatz 2 des vorliegenden Artikels vorgesehenen Kosten auf weniger als 4’000 Franken, wird keine Hilfe gewährt. Die Obergrenze für gewährte Darlehen liegt bei 16’000 Franken jährlich.
+
+<sup>4</sup> Es wird keine Hilfe gewährt, wenn die Person in Ausbildung während des Ausbildungsjahres, für das sie eine Hilfe beantragt, ein Bruttoeinkommen von über 40’000 Franken erzielt. Bei verheirateten oder in einer eingetragenen Partnerschaft lebenden Gesuchstellern darf das Bruttoeinkommen des Paares 60’000 Franken nicht übersteigen. Beide Ansätze erhöhen sich für jedes Kind, für das die Person in Ausbildung aufkommt, um 4’000 Franken.
+
+## 3 Studiendarlehen
+
+#### Art. 29
+
+**Rückzahlung der Studiendarlehen**
+
+<sup>1</sup> Die Rückzahlungspflicht für Studiendarlehen beginnt im 3. Kalenderjahr nach Abschluss des Studiums. Der Abschluss des Studiums ist in Artikel 21b GSSD geregelt.
+
+<sup>2</sup> Nach der maximal zulässigen 3-jährigen Ausbildungsdauer von Doktoranden wird das Doktorat als beendet betrachtet.
+
+<sup>3</sup> Die Rückzahlung der Studiendarlehen muss innerhalb einer Frist von maximal 10 Jahren erfolgen. Der jährlich zu tilgende Mindestbetrag wird von der Dienststelle festgelegt. Er wird auf Grundlage einer linearen Tilgung über 10 Jahre berechnet, beträgt aber mindestens 3’600 Franken in den ersten 3 Jahren und anschliessend mindestens 4’800 Franken.
+
+<sup>4</sup> Bei Wiederaufnahme einer Ausbildung kann die Rückzahlung der Studiendarlehen auf begründetes Gesuch hin aufgeschoben werden.
+
+#### Art. 30
+
+**Zinsen für Studiendarlehen**
+
+<sup>1</sup> Die Darlehen werden bis zum Beginn der Rückzahlungspflicht gemäss Artikel 21a Absatz 2 GSSD zinslos gewährt. Ab Beginn der Rückzahlungspflicht wird der Zinssatz auf 1,5 Prozent festgesetzt.
+
+<sup>2</sup> Der Zins wird am Ende jedes Kalenderjahres berechnet und der betroffenen Person in Rechnung gestellt.
+
+<sup>3</sup> Bei Wiederaufnahme einer Ausbildung laufen die Zinsen der Studiendarlehen, deren Rückzahlung ausgesetzt wurde, weiter.
+
+#### Art. 31
+
+**Erlass der Studiendarlehen**
+
+<sup>1</sup> Auf Gesuch des Empfängers kann ihm der Restbetrag seiner Studiendarlehen erlassen werden, sofern er eine volle Invalidenrente bezieht oder mindestens über 3 zusammenhängende Jahre hinweg bezogen hat.
+
+<sup>2</sup> Bei Tod eines Empfängers von Studiendarlehen können seine Erben den Erlass der Restschuld beantragen.
+
+<sup>3</sup> Das Gesuch ist bei der Dienststelle einzureichen, die Entscheidung wird vom Departement gefällt.
+
+## 4 Verfahren
+
+#### Art. 32
+
+**Einreichen der Gesuche**
+
+<sup>1</sup> Die Gesuche für Hilfen müssen ab dem 1. Juli vor Beginn des Ausbildungsjahres, spätestens jedoch innerhalb der nachstehenden Fristen, über den virtuellen Schalter für Stipendien und Studiendarlehen oder mittels des offiziellen Formulars für das entsprechende Ausbildungsjahr bei der Dienststelle eingereicht werden:
+
+- a) bis zum 31. Dezember für das gesamte Schuljahr oder für das Herbstsemester;
+- b) bis zum 30. April für das Frühlingssemester.
+
+<sup>2</sup> Bei Gesuchen, die über den virtuellen Schalter eingereicht wurden, ist die Übermittlung des Hilfegesuchs im System für die Fristwahrung massgebend.
+
+<sup>3</sup> Bei Gesuchen, die mithilfe des Papierformulars eingereicht wurden, ist das Datum des Poststempels, respektive das Datum der Abgabe des Formulars am Schalter, für die Fristwahrung massgebend.
+
+<sup>4</sup> Gesuche, die ausserhalb der in Absatz 1 angegebenen Fristen eingereicht wurden, werden nicht berücksichtigt.
+
+<sup>5</sup> Die Gesuche müssen jährlich erneuert werden.
+
+<sup>6</sup> Die im virtuellen Schalter oder auf dem offiziellen Formular erwähnten Belege sind zusammen mit dem Gesuch zu übermitteln.
+
+<sup>7</sup> Die Gesuche werden grundsätzlich in der Reihenfolge ihres Eingangs bearbeitet.
+
+#### Art. 33
+
+**Wesentliche Änderung der persönlichen Situation**
+
+<sup>1</sup> Bei der Berechnung der Hilfe wird jede wesentliche Änderung der persönlichen Situation zwischen dem 1. Juli und dem 31. Dezember des Jahres, für das das Hilfegesuch gestellt wird, berücksichtigt.
+
+<sup>2</sup> Wesentliche Änderungen der persönlichen Situation sind:
+
+- a) der Tod eines Elternteils;
+- b) die Heirat, gerichtliche Trennung oder Scheidung mindestens eines Elternteils;
+- c) die Geburt eines Kindes der Person in Ausbildung oder ihrer Eltern;
+- d) ein Wechsel der Ausbildung;
+- e) die Berücksichtigung von Kosten für die Unterkunft ausserhalb der Familie;
+- f) das Ende der Rahmenfrist der Arbeitslosenversicherung eines Elternteils;
+- g) eine Veränderung des massgebenden Einkommens der Eltern oder anderer Personen, die gesetzlich zum Unterhalt der Person in Ausbildung verpflichtet sind, von mindestens 20 Prozent gegenüber dem Einkommen gemäss der Steuerveranlagung nach Artikel 6 Absatz 1 der vorliegenden Verordnung.
+
+<sup>3</sup> Die Kosten der Unterkunft ausserhalb der Familie oder eines Wechsels der Ausbildung können auch dann berücksichtigt werden, wenn sie nach dem 31. Dezember des Jahres, für das das Hilfegesuch gestellt wird, anfallen.
+
+<sup>4</sup> Wenn das Hilfegesuch für das betreffende Ausbildungsjahr vor dem Eintreten der wesentlichen Änderung der persönlichen Situation bearbeitet wurde, kann der Entscheid revidiert werden.
+
+#### Art. 34
+
+**Zustellung der Entscheide und Auszahlung**
+
+<sup>1</sup> Grundsätzlich werden die Entscheide innerhalb von 3 Monaten nach Einreichen des vollständigen Gesuchs zugestellt.
+
+<sup>2</sup> Die Hilfe wird der begünstigten Person, ihrem gesetzlichen Vertreter oder ihren Eltern ausbezahlt. Ausgenommen hiervon sind Sozialhilfeempfänger, für welche die Hilfe der sozialen Einrichtung überwiesen werden kann, die für die jeweilige Person zuständig und Begünstigte einer jährlich erneuerten Forderungsabtretung ist.
+
+## 5 Übergangsbestimmungen
+
+#### Art. 35
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Vor dem Inkrafttreten der vorliegenden Verordnung gewährte Studiendarlehen unterliegen vorbehaltlich Absatz 2 weiterhin den zum Zeitpunkt ihrer Gewährung geltenden Rückzahlungsbedingungen.
+
+<sup>2</sup> Bei Empfängern von Studiendarlehen, deren Rückzahlung vor dem Inkrafttreten der vorliegenden Verordnung noch nicht begonnen hat, und die ein Studiendarlehen nach den neuen Bestimmungen vom 1. Juli 2021 erhalten, werden die Zinsen zum Ende jedes Kalenderjahrs berechnet, es sei denn, diese Empfänger beantragen, dass die Berechnung zum Ende der Rückzahlung erfolgt.
+
+CSW RO/AGS 2021-078
