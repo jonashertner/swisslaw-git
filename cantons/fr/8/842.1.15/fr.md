@@ -4,13 +4,13 @@ number: "842.1.15"
 title: "Ordonnance concernant l'application de l'article 55a de la loi fédérale sur l'assurance-maladie"
 short: OLAM
 language: fr
-version: 2019-07-01
-valid_until: 2021-06-30
-version_adopted: 2019-06-12
+version: 2021-07-01
+valid_until: 2023-06-29
+version_adopted: 2021-06-15
 adopted: 2025-07-04
 in_force: 2025-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/842.1.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6069/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6861/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6069/pdf_file"
 
 Application de l’art. 55a de la loi fédérale sur l’assurance-maladie - O
 
-du 23.08.2016 (version entrée en vigueur le 01.07.2019)
+du 23.08.2016 (version entrée en vigueur le 01.07.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -103,8 +103,8 @@ Arrête:
 
 **Entrée en vigueur et durée**
 
-<sup>1</sup> La présente ordonnance entre en vigueur avec effet rétroactif au 1<sup>er</sup> juillet 2016 et porte effet jusqu'au 30 juin 2019.
+<sup>1</sup> La présente ordonnance entre en vigueur avec effet rétroactif au 1<sup>er</sup> juillet 2016 et porte effet jusqu'au 30 juin 2023.
 
-<sup>2</sup> Elle est prorogée jusqu'au 30 juin 2021.
+<sup>2</sup> …
 
 2016\_105

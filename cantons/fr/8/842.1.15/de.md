@@ -4,13 +4,13 @@ number: "842.1.15"
 title: Verordnung über die Anwendung von Artikel 55a des Bundesgesetzes über die Krankenversicherung
 short: ZulaV
 language: de
-version: 2019-07-01
-valid_until: 2021-06-30
-version_adopted: 2019-06-12
+version: 2021-07-01
+valid_until: 2023-06-29
+version_adopted: 2021-06-15
 adopted: 2025-07-04
 in_force: 2025-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/842.1.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/6069/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6861/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6069/pdf_file"
 
 Anwendung von Art. 55a des Bundesgesetzes über die Krankenversicherung – V
 
-vom 23.08.2016 (Fassung in Kraft getreten am 01.07.2019)
+vom 23.08.2016 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -103,8 +103,8 @@ beschliesst:
 
 **Inkrafttreten und Geltungsdauer**
 
-<sup>1</sup> Diese Verordnung wird rückwirkend auf den 1. Juli 2016 in Kraft gesetzt und ist bis 30. Juni 2019 gültig.
+<sup>1</sup> Diese Verordnung wird rückwirkend auf den 1. Juli 2016 in Kraft gesetzt und ist bis 30. Juni 2023 gültig.
 
-<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis 30. Juni 2021 verlängert.
+<sup>2</sup> …
 
 2016\_105
