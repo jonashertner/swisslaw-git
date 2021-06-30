@@ -4,11 +4,11 @@ title: Ordinanza del 30 marzo 1994 sulle linee elettriche (OLEl)
 short: OLEl
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233"
 language: it
-version: 2020-06-01
+version: 2021-07-01
 adopted: 1994-03-30
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/fedlex-data-admin-ch-eli-cc-1994-1233_1233_1233-20200601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1994-1233_1233_1233-20210701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it"
 
 (OLEl**[^t-1]**)
 
-del 30 marzo 1994 (Stato 1° giugno 2020)
+del 30 marzo 1994 (Stato 1° luglio 2021)
 
 [^t-1]: Nuova abbreviazione giusta l’art. 2 lett. h dell’O del 10 gen. 1996 che rettifica alcune abbreviazioni di titoli di atti normativi, in vigore dal 1° feb. 1996 ([RU 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
 
@@ -63,7 +63,7 @@ Le disposizioni relative alla costruzione valgono per le linee esistenti quando:
 
 [^2-1]: Nuova denominazione giusta il DCF non pubblicato del 19 dic. 1997.
 [^2-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^2-3]: Introdotto dal n. II 4 dell’annesso 2 all’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^2-3]: Introdotto dall’annesso 2 n. II 4 dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 3
 
@@ -75,7 +75,7 @@ Le disposizioni relative alla costruzione valgono per le linee esistenti quando:
 
 [^3-1]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
 [^3-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^3-3]: Abrogato dal n. II 4 dell’annesso 2 all’O del 16 nov. 2011, con effetto dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^3-3]: Abrogato dall’annesso 2 n. II 4 dell’O del 16 nov. 2011, con effetto dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 4
 
@@ -104,8 +104,8 @@ Le linee elettriche, se esercite conformemente al loro scopo o in presenza di gu
 [^6-1]: Commissione elettrotecnica internazionale.
 [^6-2]: Comitato europeo di normalizzazione elettrotecnica.
 [^6-3]: L’elenco dei titoli delle norme e i relativi testi possono essere richiesti all’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
-[^6-4]: Nuovo testo giusta il n. 5 dell’all. all’O dell’8 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
-[^6-5]: Nuovo testo giusta il n. 5 dell’all. all’O dell’8 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
+[^6-4]: Nuovo testo giusta l’all. n. 5 dell’O dell’8 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
+[^6-5]: Nuovo testo giusta l’all. n. 5 dell’O dell’8 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
 
 #### Art. 7
 
@@ -120,7 +120,7 @@ Le linee elettriche, se esercite conformemente al loro scopo o in presenza di gu
 <sup>4</sup> Per la compatibilità elettromagnetica vigono le disposizioni dell’ordinanza del 9 aprile 1997[^7-1] sulla compatibilità elettromagnetica.[^7-2]
 
 [^7-1]: [[RU 1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008), **2000** I n. 6 3012 I art. 34 cpv. 3. RU **2011** 6243 all. 3]. Vedi ora l’O del 25 nov. 2015 ([RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)).
-[^7-2]: Introdotto dal n. 4 dell’all. all’O del 9 apr. 1997 sulla compatibilità elettromagnetica, in vigore dal 1° mag. 1997 ([RU 1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)).
+[^7-2]: Introdotto dall’all. n. 4 dell’O del 9 apr. 1997 sulla compatibilità elettromagnetica, in vigore dal 1° mag. 1997 ([RU 1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)).
 
 #### Art. 8
 
@@ -199,9 +199,11 @@ Prima di rilasciare un permesso di costruzione o approvare modifiche all’utili
 
 **Principio**
 
-<sup>1</sup> La decisione se eseguire come cavo interrato un progetto riguardante una linea con tensione nominale inferiore a 220 kV e una frequenza di 50 Hz è determinata in particolare secondo l’articolo 15*c* della legge sugli impianti elettrici e le disposizioni del presente capitolo.
+<sup>1</sup> La decisione se eseguire un progetto riguardante una linea con tensione nominale inferiore a 220 kV e una frequenza di 50 Hz come cavo interrato o come linea aerea è determinata in particolare secondo l’articolo 15*c* della legge sugli impianti elettrici e le disposizioni del presente capitolo.[^11b-1]
 
 <sup>2</sup> Il fattore dei costi aggiuntivi conformemente all’articolo 15*c* capoverso 2 della legge sugli impianti elettrici ammonta a 2,0.
+
+[^11b-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 330](https://fedlex.data.admin.ch/eli/oc/2021/330)).
 
 #### Art. 11c
 
@@ -246,11 +248,11 @@ Il progetto è eseguito con linee aeree nonostante il rispetto del fattore dei c
 
 #### Art. 11e
 
-**Superamento del fattore dei costi aggiuntivi**
+**Superamento del fattore dei costi aggiuntivi**[^11e-1]
 
-Un progetto concreto può essere eseguito parzialmente o interamente con cavi interrati nonostante il superamento del fattore dei costi aggiuntivi se i costi complessivi che eccedono il fattore dei costi aggiuntivi non possono essere fatti valere come costi computabili ai sensi dell’articolo 15 della legge del 23 marzo 2007[^11e-1] sull’approvvigionamento elettrico.
+Un progetto concreto può essere eseguito parzialmente o interamente con cavi interrati nonostante il superamento del fattore dei costi aggiuntivi, se nell’ambito della procedura d’approvazione dei piani l’esercente dimostra che un terzo si assume l’importo eccedente il fattore dei costi aggiuntivi.
 
-[^11e-1]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^11e-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 330](https://fedlex.data.admin.ch/eli/oc/2021/330)).
 
 ### Capitolo 1*a*:**** Linee elettriche aeree
 
@@ -890,7 +892,7 @@ Ai terminali e nei luoghi accessibili, i cavi devono essere identificati in modo
 
 <sup>2</sup>
 
-In assenza di tubo protettivo, la profondità di interramento deve essere:
+La profondità di interramento delle linee in cavo deve essere:[^68-1]
 
 - a. almeno pari a 0,4 m per i cavi a corrente debole;
 - b. almeno pari a 0,6 m per i cavi a bassa tensione;
@@ -898,7 +900,10 @@ In assenza di tubo protettivo, la profondità di interramento deve essere:
 
 <sup>3</sup> Laddove le profondità di interramento di cui al capoverso 2 non possono essere rispettate, vanno prese misure protettive supplementari, in particolare contro i danni meccanici.
 
-<sup>4</sup> La protezione dei cavi a corrente forte deve essere ricoperta in ogni caso da uno strato di terreno almeno pari a 0,4 m. L’organo di controllo può autorizzare deroghe.
+<sup>4</sup> L’organo di controllo può autorizzare deroghe.[^68-2]
+
+[^68-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^68-2]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 69
 
@@ -1010,8 +1015,8 @@ Vicinanze, parallelismi e incroci delle linee aeree tra loro su sostegni in comu
 
 <sup>4</sup> Se gli incroci sono inevitabili, essi vanno disposti, per quanto possibile, in prossimità del sostegno della linea sovrapassante.
 
-[^78-1]: Nuovo testo giusta il n. 5 dell’all. all’O dell’8 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
-[^78-2]: Abrogato dal n. 5 dell’all. all’O dell’8 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
+[^78-1]: Nuovo testo giusta l’all. n. 5 dell’O dell’8 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
+[^78-2]: Abrogato dall’all. n. 5 dell’O dell’8 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
 
 #### Art. 79
 
@@ -1078,7 +1083,7 @@ I punti di ancoraggio delle linee a bassa tensione a opere murarie o a fabbricat
 
 <sup>4</sup> Le linee a corrente debole devono essere isolate per una tensione pari a 1,3 volte il valore più alto possibile del potenziale contro terra.
 
-[^85-1]: Abrogato dal n. 5 dell’all. all’O dell’8 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
+[^85-1]: Abrogato dall’all. n. 5 dell’O dell’8 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
 
 #### Art. 86
 
@@ -1090,7 +1095,7 @@ I punti di ancoraggio delle linee a bassa tensione a opere murarie o a fabbricat
 
 <sup>3</sup> Le linee a corrente debole devono essere isolate per una tensione pari a 1,3 volte il valore più alto possibile del potenziale contro terra.
 
-[^86-1]: Abrogato dal n. 5 dell’all. all’O dell’8 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
+[^86-1]: Abrogato dall’all. n. 5 dell’O dell’8 dic. 1997, con effetto dal 1° gen. 1998 ([RU 1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)).
 
 #### Art. 87
 
@@ -1306,7 +1311,7 @@ Le distanze tra le linee in cavo e la suola della rotaia devono essere pari:
 <sup>4</sup> In prossimità dei binari, i mantelli protettivi metallici e le armature dei cavi devono soddisfare gli articoli 42‒46 dell’ordinanza del 23 novembre 1983[^103-1] sulle ferrovie.[^103-2]
 
 [^103-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^103-2]: Nuovo testo giusta il n. II 4 dell’annesso 2 all’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^103-2]: Nuovo testo giusta dell’annesso 2 n. II 4 dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 104
 
@@ -1464,7 +1469,7 @@ Le linee elettriche devono essere progettate e costruite in modo da non ostacola
 
 Le parti della linea aerea all’interno degli allineamenti delle strade nazionali devono essere approvate anche dall’Ufficio federale delle strade.
 
-[^116-1]: Nuovo testo giusta il l’all. all’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^116-1]: Nuovo testo giusta l’all. dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 #### Art. 117
 
@@ -1529,42 +1534,41 @@ Nel caso che una linea aerea ad alta tensione debba sottopassare un ponte strada
 
 #### Art. 123
 
-**Parallelismi**
+**Condotte interrate e impianti accessori**[^123-1]
 
 <sup>1</sup>
 
-Nel caso di parallelismo tra linee aeree ed impianti di trasporto in condotta sottoposti alla legge del 4 ottobre 1963[^123-1] sugli impianti di trasporto in condotta occorre chiarire:
+Per la costruzione di linee elettriche a una distanza inferiore a 30 metri da condotte sottoposte alla legge del 4 ottobre 1963[^123-2] sugli impianti di trasporto in condotta occorre accertare:
 
-- a. se, in seguito ad accoppiamenti induttivi, possono apparire tensioni elettriche inammissibilmente elevate sulle condotte o sugli impianti di telecomunicazione e di telecomando a queste appartenenti;
-- b. quali misure protettive si rendono necessarie.
+- a. se nell’impianto di trasporto in condotta non sono superate le tensioni ammissibili secondo l’appendice 4 dell’ordinanza del 30 marzo 1994[^123-3] sulla corrente forte;
+- b. le misure di protezione da adottare.
 
 <sup>2</sup>
 
-L’indagine va limitata agli impianti di telecomunicazione e di telecomando se la condotta:
+L’accertamento va limitato agli impianti di telecomunicazione e di comando a distanza se la condotta:
 
 - a. è posata direttamente nel terreno senza isolazione elettrica;
-- b. è messa a terra lungo la tratta in parallelo;
+- b. è interrata lungo la tratta in parallelo; oppure
 - c. è costituita da materiale non conduttore.
 
-<sup>3</sup> L’indagine diventa superflua se il neutro della rete ad alta tensione è esercito isolato dalla terra oppure dotato di bobina di estinzione.
+<sup>3</sup> L’accertamento diventa superfluo se il neutro della rete ad alta tensione è isolato dalla terra oppure dotato di bobina di estinzione.
 
 <sup>4</sup> Occorre prendere in considerazione il pericolo di corrosione da corrente continua e da corrente alternata.
 
-[^123-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+<sup>5</sup> Nel perimetro di protezione di un impianto accessorio secondo l’articolo 2 dell’ordinanza del 4 giugno 2021[^123-4] sulla sicurezza degli impianti di trasporto in condotta, non si possono costruire impianti elettrici ad alta tensione.
+
+<sup>6</sup> La prova del rispetto delle tensioni di contatto ammissibili deve essere trasmessa all’organo di controllo nel quadro della domanda di approvazione dei piani o su richiesta.
+
+[^123-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^123-2]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^123-3]: [RS 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^123-4]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 #### Art. 124
 
-**Distanza**
+[^124-1]
 
-<sup>1</sup> Le distanze da rispettare nei casi di vicinanze, parallelismi ed incroci di linee elettriche con impianti di trasporto in condotta sottoposti alla legge sugli impianti di trasporto in condotta sono fissate in base all’appendice 19.
-
-<sup>2</sup>
-
-Gli organi di controllo possono autorizzare distanze più piccole se:
-
-- a. la sicurezza è garantita grazie a misure di protezione supplementari;
-- b. i lavori di servizio e di manutenzione agli impianti di trasporto in condotta (compresi i lavori di spegnimento) non sono ostacolati; e
-- c. il personale d’esercizio non è esposto a pericoli.
+[^124-1]: Abrogato dall’all. 2 n. 2 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, con effetto dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 125
 
@@ -1604,9 +1608,17 @@ Le disposizioni della presente ordinanza si applicano, per analogia, all’incon
 
 #### Art. 130
 
-**Distanze dagli impianti di cisterne interrati**
+**Distanze dagli impianti di cisterne interrati**[^130-1]
 
-La distanza orizzontale tra gli impianti di cisterne interrati e le linee aeree non deve essere inferiore a 10 m.
+<sup>1</sup> La distanza orizzontale tra gli impianti di cisterne interrati e le linee aeree deve essere almeno di 10 metri.
+
+<sup>2</sup> La distanza orizzontale tra linee in cavo ad alta tensione e impianti di cisterne interrati deve essere almeno di 10 metri, più 0,5 metri per ogni kA di corrente di circuito a terra.
+
+<sup>3</sup> La distanza orizzontale tra linee in cavo a bassa tensione con uno strato isolante supplementare e impianti di cisterne interrati deve essere almeno di 0,5 metri (strato di terra).
+
+<sup>4</sup> Se la distanza diretta tra impianti di cisterne interrati e linee in cavo interrate è inferiore a 10 metri, il gestore della linea in cavo deve fare in modo che i gas ed i liquidi infiammabili che possono fuoriuscire non vengano convogliati all’interno degli edifici attraverso i canali ed i tubi dei cavi.
+
+[^130-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 131
 
@@ -1637,11 +1649,9 @@ La distanza orizzontale tra le linee aeree e gli impianti di cisterne allo scope
 
 #### Art. 133
 
-**Distanza dalle linee in cavo**
+[^133-1]
 
-<sup>1</sup> Alle vicinanze ed ai parallelismi delle linee in cavo con impianti di cisterne si applicano le distanze secondo l’appendice 19.
-
-<sup>2</sup> Se la distanza diretta tra impianti di cisterne e linee in cavo sotterraneo è inferiore a 10 m, il titolare della linea in cavo deve fare in modo che i gas ed i liquidi infiammabili che possono fuoriuscire non vengano convogliati all’interno degli edifici attraverso i canali ed i tubi dei cavi.
+[^133-1]: Abrogato dall’all. 2 n. 2 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, con effetto dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 134
 
@@ -1771,7 +1781,7 @@ Appendice 1*[^t-2]*
 
 ## Definizioni
 
-[^t-2]: Aggiornata dal n. II 4 dell’annesso 2 all’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^t-2]: Aggiornata dall’annesso 2 n. II 4 dell’O del 16 nov. 2011, in vigore dal 1° lug. 2012 ([RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 - 1 *Accessori dei cavi:* i componenti di una linea in cavo quali serbatoi di olio, gas, acqua, dispositivi di sorveglianza e di protezione.
 - 2 *Ancoraggio (o amarraggio) di un conduttore:* elemento di collegamento tra il fissaggio rigido di un conduttore o dell’elemento portante di un cavo e la parte costruttiva localmente fissa.
@@ -1782,12 +1792,12 @@ Appendice 1*[^t-2]*
 - 6\.1 *Campata media a**<sub>m</sub>*: media aritmetica delle campate adiacenti ad un sostegno.
 - 6\.2 *Campata ideale a**<sub>id</sub>*: campata fittizia, definita analiticamente, tra due ancoraggi.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image1.png)
 
 - ψ = angolo di inclinazione
 - 6\.3 *Campata virtuale a**<sub>ν</sub>**:* per campate con punti di sospensione a differente altezza è la campata apparente formata dalla lunghezza della corda orizzontale compresa tra il punto di sospensione superiore ed il punto di incontro del prolungamento della catenaria passante per il punto di sospensione inferiore.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image2.png)
 
 <table>
 <tr><td colspan="5">ψ = angolo di inclinazione</td></tr>
@@ -1828,7 +1838,7 @@ Appendice 1*[^t-2]*
 - 34 *Tratta di amarraggio:* sezione di linea compresa tra due sostegni di amarraggio.
 - 35 *Treccia (o fune):* conduttore costituito da fili cordati tra loro.
 - 36 *Tensione meccanica massima di una campata:* lo sforzo di trazione che si manifesta nel punto di fissaggio più elevato alla temperatura del conduttore di 0 °C e con sovraccarico, oppure alla temperatura del conduttore più bassa.
-- 37 *Tensione meccanica massima in una tratta compresa tra due amarra**g**gi:* lo sforza di trazione che si manifesta nel punto di fissaggio più elevato della campata virtuale più lunga alla temperatura del conduttore di 0 °C e con sovraccarico, oppure alla temperatura del conduttore più bassa.
+- 37 *Tensione meccanica massima in una tratta compresa tra due amarraggi:* lo sforza di trazione che si manifesta nel punto di fissaggio più elevato della campata virtuale più lunga alla temperatura del conduttore di 0 °C e con sovraccarico, oppure alla temperatura del conduttore più bassa.
 - 38 *Zona di rispetto delle linee aeree ad alta tensione:* zona sotto ed accanto alle linee aeree, limitata lateralmente da piani verticali disposti da ambedue le parti della linea a 5 m di distanza orizzontale dal conduttore più esterno. Per i punti a quota più alta del conduttore più basso, la distanza orizzontale di 5 m viene aumentata del valore della differenza di altezza fino ad un massimo 20 m.
 
 [^annex1-lvlu1-1]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
@@ -1930,7 +1940,7 @@ Appendice 4
 - 1\.2 Per le regioni caratterizzate, per esperienza, da condizioni più favorevoli o più sfavorevoli, l’organo di controllo competente può definire in casi singoli altri valori per la spinta esercitata dal vento.
 - 1\.3 Le superfici A di una struttura a traliccio colpite dal vento vanno calcolate con la seguente formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image3.png)
 
 -
 
@@ -1975,9 +1985,9 @@ Appendice 4
 - 4\.2 La sollecitazione σ<sub>k</sub>, in presenza di forze applicate centralmente o quasi centralmente, non deve essere superiore a:
 - σ<sub>k</sub> = 13,2 – 0,092 · λ [N/mm<sup>2</sup>] per 13 ≤ λ ≤ 100
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image4.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image5.png)
 
 - l<sub>k</sub> = lunghezza di inflessione in cm
 - i = raggio d’inerzia in cm
@@ -2044,13 +2054,13 @@ Appendice 6*[^t-3]*
 - 2\.2 Distanze tra i conduttori in campata aperta
 - 2\.2.1 Distanza diretta z tra due conduttori in campata aperta:
 
-– all’interno dello stesso circuito elettrico: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image6.png) – tra circuiti elettrici diversi: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image7.png)
+– all’interno dello stesso circuito elettrico: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image6.png) – tra circuiti elettrici diversi: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image7.png)
 
 - 2\.2.2 Tra i conduttori inclinati dal vento, devono essere almeno osservate le distanze C3 e C4. L’inclinazione dei conduttori deve essere, in tal caso, determinata considerando spinte del vento differenziate fino al 40 per cento. Rispetto ai conduttori ed ai sostegni di linee vicine, occorre in ogni caso rispettare le distanze di cui alle cifre 1.2 o 2.1.3.
 - 2\.2.3 In presenza di conduttori di diversa sezione, di materiale diverso o aventi frecce diverse, la distanza deve essere calcolata separatamente per ogni conduttore; la distanza da adottare sarà la più grande tra quelle così calcolate.
 - 2\.2.4 In presenza di distanziatori di fase tra conduttori, la distanza diretta z non deve scendere al disotto dei seguenti valori:
 
-– all’interno dello stesso circuito elettrico: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image8.png) – tra circuiti elettrici diversi: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image9.png)
+– all’interno dello stesso circuito elettrico: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image8.png) – tra circuiti elettrici diversi: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image9.png)
 
 - In ogni caso, la distanza non può essere inferiore a 0,90 m.
 - 2\.3 Per le linee con circuiti elettrici di tensione nominale diversa, determinante per le distanze secondo la tabella 4.1 è sempre la tensione nominale più elevata.
@@ -2115,37 +2125,37 @@ Diagramma 2.4.2
 
 **Fattore k per una pressione del vento pari a 500 N/m2**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image10.png)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image11.png)</td><td></td><td>0 &lt; w ≤ 16,8</td><td>Cu</td><td>: A &gt; 70 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image11.png)</td><td></td><td>0 &lt; w ≤ 16,8</td><td>Cu</td><td>: A &gt; 70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: A &gt; 600 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image12.png)</td><td></td><td>16,8 &lt; w ≤ 28,5</td><td>Cu</td><td>: 19,6 ≤ A ≤ 70 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image12.png)</td><td></td><td>16,8 &lt; w ≤ 28,5</td><td>Cu</td><td>: 19,6 ≤ A ≤ 70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: 50 ≤ A ≤ 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 300 ≤ A ≤ 600 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image13.png)</td><td></td><td>28,5 &lt; w ≤ 42,8</td><td>Ac</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image13.png)</td><td></td><td>28,5 &lt; w ≤ 42,8</td><td>Ac</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 185 ≤ A &lt; 300 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image14.png)</td><td></td><td>42,8 &lt; w</td><td>Al, Ad</td><td>: A &lt; 185 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image14.png)</td><td></td><td>42,8 &lt; w</td><td>Al, Ad</td><td>: A &lt; 185 mm<sup>2</sup></td></tr>
 </table>
 
 Diagramma 2.4.3
 
 **Fattore k per una pressione del vento pari a 650 N/m2**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image15.png)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image11.png)</td><td></td><td>0 &lt; w ≤ 12,9</td><td>Cu</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image11.png)</td><td></td><td>0 &lt; w ≤ 12,9</td><td>Cu</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &gt; 150 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: A &gt; 1000 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image13.png)</td><td></td><td>12,9 &lt; w ≤ 22,0</td><td>Cu</td><td>: 50 ≤ A ≤ 95 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image13.png)</td><td></td><td>12,9 &lt; w ≤ 22,0</td><td>Cu</td><td>: 50 ≤ A ≤ 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: 70 ≤ A ≤ 150 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 500 ≤ A ≤ 1000 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image12.png)</td><td></td><td>22,0 &lt; w ≤ 33,0</td><td>Cu</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image12.png)</td><td></td><td>22,0 &lt; w ≤ 33,0</td><td>Cu</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &lt; 70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 240 ≤ A &lt; 500 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image14.png)</td><td></td><td>33,0 &lt; w</td><td>Al, Ad</td><td>: A &lt; 240 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image14.png)</td><td></td><td>33,0 &lt; w</td><td>Al, Ad</td><td>: A &lt; 240 mm<sup>2</sup></td></tr>
 </table>
 
 Legenda relativa ai diagrammi 2.4.2 e 2.4.3 per la determinazione del fattore k in funzione dell’angolo del sistema β e dell’angolo di inclinazione φ sotto la spinta del vento
@@ -2154,7 +2164,7 @@ Legenda relativa ai diagrammi 2.4.2 e 2.4.3 per la determinazione del fattore k 
 <tr><td>– angolo del sistema β:</td><td>angolo formato da un conduttore con la verticale passante per il conduttore adiacente</td></tr>
 </table>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image16.png)
 
 – angolo di inclinazione φ: arc tg (p · d/q · 10<sup>–4</sup>)
 
@@ -2205,7 +2215,7 @@ Appendice 8
 
 - Il fabbricato è più basso del conduttore inferiore
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image17.png)
 
 <table>
 <tr><td>⊗</td><td>=</td><td>retta per i punti di fissaggio delle catene di sospensione/amarraggio del sostegno più vicino al fabbricato</td></tr>
@@ -2219,7 +2229,7 @@ Appendice 8
 
 - Il fabbricato supera in altezza il conduttore inferiore
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image18.png)
 
 <table>
 <tr><td>⊗</td><td>=</td><td>retta per i punti di fissaggio delle catene di sospensione/amarraggio del sostegno più vicino al fabbricato</td></tr>
@@ -2238,7 +2248,7 @@ Appendice 9
 
 Sostegni senza dispositivo fisso di scala
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image19.png)
 
 <table>
 <tr><td>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub></td><td></td><td>Distanze in presenza della freccia massima del conduttore o del cavo aereo in condizioni di riposo</td></tr>
@@ -2256,11 +2266,11 @@ Appendice 10
 
 ### 1. Poligoni di tiro da 250 m e 300 m (con munizioni di ordinanza)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image20.png)
 
 ### 2. Poligono di tiro da 25 m e 50 m (con munizioni di ordinanza)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image21.png)
 
 ### 3. All’interno delle zone A e B non vi devono essere sostegni o partidi sostegni, conduttori o cavi aerei. Nella zona C sono ammessi sostegni o parti di sostegno di legno o sostegni rivestiti di legno.
 
@@ -2421,8 +2431,8 @@ Appendice 13
 
 <table>
 <tr><td>[tab] – σ<sub>k</sub> = 33–0,23 λ</td><td>[N/mm<sup>2</sup>] per 13 ≤ λ ≤ 100</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image22.png)</td><td>[N/mm<sup>2</sup>] per λ &gt; 100</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image23.png)</td><td>l<sub>k</sub> = lunghezza di inflessione; i = raggio d’inerzia</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image22.png)</td><td>[N/mm<sup>2</sup>] per λ &gt; 100</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image23.png)</td><td>l<sub>k</sub> = lunghezza di inflessione; i = raggio d’inerzia</td></tr>
 </table>
 
 - 3\.3 Il fattore di sicurezza riferito alla tensione limite è pari a 3.
@@ -2538,13 +2548,13 @@ Rapporto p Riduzione R [%]
 - 2\.3 Il carico della neve su un sostegno di una linea aerea è preso in considerazione solo se le condizioni locali nei punti esposti lo esigono.
 - 2\.4 Per quanto concerne i sostegni degli impianti all’aperto situati ad una altitudine non superiore a 2000 m s.l.m., si tiene conto del seguente carico della neve per m<sup>2</sup> di superficie coperta in pianta:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image24.png)
 
 - Se l’impianto all’aperto è situato ad una altitudine superiore a 2000 m s.l.m., o le condizioni locali impongono carichi più elevati, i calcoli vanno eseguiti sulla base dei valori determinati separatamente.
 
 ### 3 Fattore di riduzione
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image25.png)
 
 <table>
 <tr><td>Spinta del vento:</td><td>campata media a<sub>m</sub></td><td>Sovraccarico:</td><td>campata virtuale a<sub>id</sub></td></tr>
@@ -2588,7 +2598,7 @@ Per le linee a due terne, la sezione complessiva di tutti i conduttori può esse
 
 - Nommogramma
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image26.png)
 
 Appendice 17*[^t-4]*
 
@@ -2602,7 +2612,7 @@ Appendice 17*[^t-4]*
 
 <table>
 <tr><td>disposizione delle linee</td><td colspan="2">linea No a</td><td></td><td colspan="2">Linea No b</td><td></td><td colspan="2">distanza</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image27.png)</td><td>nudo</td><td colspan="2">cavo</td><td>nudo</td><td colspan="2">cavo</td><td></td><td>y = distanza verticale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image27.png)</td><td>nudo</td><td colspan="2">cavo</td><td>nudo</td><td colspan="2">cavo</td><td></td><td>y = distanza verticale</td></tr>
 <tr><td></td><td></td><td colspan="2">N</td><td></td><td colspan="2">S</td><td colspan="2">y ≥ 0,5 m per linee ordinarie e a grandi campate</td></tr>
 <tr><td></td><td></td><td colspan="2">N</td><td>S</td><td colspan="2"></td><td colspan="2">y≥ 0,5 m per linee ordinarie</td></tr>
 <tr><td></td><td></td><td colspan="2">N</td><td>S</td><td colspan="2"></td><td colspan="2">y ≥ 1,0 m per linee a grandi campate</td></tr>
@@ -2624,7 +2634,7 @@ H = linea ad alta tensione – N = linea a bassa tensione – S = linea a corren
 
 <table>
 <tr><td>disposizione delle linee</td><td colspan="2">Linea No a</td><td></td><td colspan="2">Linea No b</td><td></td><td colspan="2">distanza</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image27.png)</td><td>nudo</td><td colspan="2">cavo</td><td>nudo</td><td colspan="2">cavo</td><td></td><td>y = distanza verticale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image27.png)</td><td>nudo</td><td colspan="2">cavo</td><td>nudo</td><td colspan="2">cavo</td><td></td><td>y = distanza verticale</td></tr>
 <tr><td>6</td><td></td><td colspan="2">N</td><td>S</td><td colspan="2">S</td><td colspan="2">y ≥ 0,5 m</td></tr>
 <tr><td></td><td>N</td><td colspan="2"></td><td>S</td><td colspan="2">S</td><td colspan="2">y ≥ 1,5 m</td></tr>
 <tr><td></td><td>H</td><td colspan="2"></td><td>S</td><td colspan="2">S</td><td colspan="2">z ≥ append. 6 ,≥. 1,5 m, y ≥ 1,5 m, solo S proprie all’azienda</td></tr>
@@ -2641,7 +2651,7 @@ H = linea ad alta tensione – N = linea a bassa tensione – S = linea a corren
 <table>
 <tr><td>disposizione delle linee</td><td colspan="4">linea No a</td><td></td><td></td><td></td><td colspan="4">linea No b</td><td></td><td></td><td></td><td>distanza</td><td>a = campata massima in m</td></tr>
 <tr><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td></td><td>x = distanza orizzontale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>z = distanza diretta</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>z = distanza diretta</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4"></td><td colspan="2">x ≥ 1,0 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td></td><td>S</td><td></td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td></td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a</td></tr>
@@ -2672,7 +2682,7 @@ H = linea ad alta tensione – N = linea a bassa tensione – S = linea a corren
 <table>
 <tr><td>disposizione delle linee</td><td colspan="4">linea No a</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td>nudo</td><td>cavo</td><td colspan="2">campata</td><td></td><td></td><td>x = distanza orizzontale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="2">&gt;60 m</td><td></td><td>z = distanza diretta</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="2">&gt;60 m</td><td></td><td>z = distanza diretta</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>N</td><td></td><td>[F06C]</td><td colspan="2">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a; z ≥ append. 6</td></tr>
 <tr><td></td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td></td><td>N</td><td>[F06C]</td><td colspan="2"></td><td colspan="2">x ≥ 2,0 m</td></tr>
 <tr><td></td><td>N</td><td></td><td>[F06C]</td><td colspan="4">[F06C]</td><td></td><td>N</td><td></td><td colspan="2">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a; z ≥ append. 6</td></tr>
@@ -2703,7 +2713,7 @@ H = linea ad alta tensione – N = linea a bassa tensione – S = linea a corren
 <table>
 <tr><td>disposizione delle linee</td><td colspan="4">linea No a</td><td></td><td></td><td></td><td colspan="4">linea No b</td><td></td><td></td><td></td><td>distanza</td><td>y = distanza verticale z = distanza diretta</td></tr>
 <tr><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td></td><td>b = m/kV della tensione nominale più elevata r = distanza in m dal sostegno più vicino dal punto d’incrocio della linea 1</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>s = distanza in m dal sostegno più vicino al punto d’incrocio della linea 2</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>s = distanza in m dal sostegno più vicino al punto d’incrocio della linea 2</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td></td><td>S</td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 0,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td>S</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥1,0 m</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">z ≥1,0 m + 0,02 r</td></tr>
@@ -2726,7 +2736,7 @@ H = linea ad alta tensione – N = linea a bassa tensione – S = linea a corren
 <table>
 <tr><td>disposizione delle linee</td><td colspan="4">linea No a</td><td></td><td></td><td></td><td colspan="4">linea No b</td><td></td><td></td><td></td><td>distanza</td><td>y = distanza verticale z = distanza diretta</td></tr>
 <tr><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td></td><td>b = m/kV della tensione nominale più elevata r = distanza in m dal sostegno più vicino dal punto d’incrocio della linea 1</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>s = distanza in m dal sostegno più vicino al punto d’incrocio della linea 2</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>s = distanza in m dal sostegno più vicino al punto d’incrocio della linea 2</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td></td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">z ≥ 0,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 1,0 m + 0,02 r, ≥. 1,5 m</td></tr>
@@ -2755,7 +2765,7 @@ H = linea ad alta tensione – N = linea a bassa tensione – S = linea a corren
 <table>
 <tr><td>disposizione delle linee</td><td colspan="4">linea No a</td><td></td><td></td><td></td><td colspan="4">linea No b</td><td></td><td></td><td></td><td>distanza</td><td>x = distanza orizzontale</td></tr>
 <tr><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td>nudo</td><td>cavo</td><td colspan="4">campata</td><td></td><td></td><td>z = distanza diretta</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image30.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>b = m/kV della tensione nominale della linea 2</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image30.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>b = m/kV della tensione nominale della linea 2</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>N</td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ append. 6 ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>H</td><td>H</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ append. 6 ≥ 1,5 m + 0,01 b</td></tr>
@@ -2771,7 +2781,7 @@ Appendice 18
 
 ## Sagoma per le ferrovie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/it/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/it/xml/image/image31.png)
 
 - a ≥ 3 m + 0,01 m per ogni kV della tensione nominale più elevata
 - b ≥ 3 m + 0,01 m per ogni kV della tensione nominale più elevata +0,02 m per ogni m di distanza dal più vicino sostegno della linea sovrapassante
@@ -2779,43 +2789,13 @@ Appendice 18
 
 Appendice 19*[^t-5]*
 
-(art. 124 e 133)
-
-## Impianti di trasporto in condotta
-
-[^t-5]: Nuovo testo giusta l’art. 63 dell’O del 4 apr. 2007 sulle prescrizioni di sicurezza per gli impianti di trasporto in condotta, in vigore dal 1° mag. 2007 ([RU 2007 1823](https://fedlex.data.admin.ch/eli/oc/2007/266)).
-
-### 1 Distanze minime orizzontali tra impianti a corrente forte e impianti di trasporto in condotta nel caso di vicinanze e parallelismi
-
-<table>
-<tr><td>Impianti a corrente forte</td><td colspan="2">Impianti di trasporto in condotta</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Condotte</td><td colspan="2">Pig e spurgo</td><td>Stazioni di compressione e pompaggio</td><td>Stazioni DRM, altri impianti accessori</td></tr>
-<tr><td>Conduttori nudi o isolati di linee aeree:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>fino a 50 kV</td><td>3 m</td><td colspan="2">10 m</td><td>30 m</td><td>10 m</td></tr>
-<tr><td>oltre 50 kV</td><td>10 m</td><td colspan="2">30 m</td><td>30 m</td><td>10 m</td></tr>
-<tr><td>Centrali, sottostazioni, impianti di distribuzione, incluse messe a terra:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>fino a 100 kV</td><td>10 m + 0,5 m/kA di corrente di corto circuito</td><td colspan="2">30 m</td><td>50 m</td><td>10 m + 0,5 m/kA di corrente di corto circuito</td></tr>
-<tr><td>oltre 100 kV</td><td>30 m</td><td colspan="2">30 m</td><td>50 m</td><td>30 m</td></tr>
-<tr><td>Sostegni di linee aeree incluse messe a terra:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>fino a 50 kV</td><td>3 m</td><td colspan="2">10 m</td><td>30 m</td><td>10 m</td></tr>
-<tr><td>oltre 50 kV</td><td>3 m + 0,5 m/kA di corrente di corto circuito</td><td colspan="2">30 m</td><td>30 m</td><td>10 m + 0,5 m/kA di corrente di corto circuito</td></tr>
-</table>
-
-### 2 Distanze minime tra linee a corrente debole o forte in cavo sotterraneo e impianti di trasporto in condotta
-
-<table>
-<tr><td>Linee in cavo</td><td colspan="2">fino a 50 kV</td><td>oltre 50 kV</td></tr>
-<tr><td>Linee in cavo parallele a condotte</td><td colspan="2">2 m spessore di terra</td><td>3 m + 0,5 m/kA di corrente di corto circuito</td></tr>
-<tr><td>Distanza del cavo dagli impianti accessori</td><td colspan="2">2 m spessore di terra</td><td>10 m + 0,5 m/kA di corrente di corto circuito</td></tr>
-<tr><td colspan="2">Incrocio di una linea a corrente debole o forte in cavo con una condotta</td><td></td><td>0,5 m</td></tr>
-<tr><td colspan="4">Se la linea in cavo dispone di una seconda isolazione, la distanza può essere ridotta a 0,5 m di spessore di terra. È fatto salvo l’articolo 11 OSITC.</td></tr>
-</table>
+[^t-5]: Abrogato dall’all. 2 n. 2 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, con effetto dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 Appendice 20*[^t-6]*
 
 ## Indice
 
-[^t-6]: Aggiornato redazionalmente a seguito della mod. del n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1377](https://fedlex.data.admin.ch/eli/oc/2019/269)).
+[^t-6]: Aggiornato redazionalmente a seguito della mod. del n. I dell’O del 3 apr. 2019 ([RU 2019 1377](https://fedlex.data.admin.ch/eli/oc/2019/269)) e dell’all. 2 n. 2 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 <table>
 <tr><td>**Titolo 1:**</td><td>**Disposizioni generali**</td><td>**1–11*****a***</td></tr>
@@ -2865,5 +2845,5 @@ Appendici:
 - 16 Sostegni di legno per linee ordinarie
 - 17 Distanze nei parallelismi e negli incroci di linee elettriche tra loro
 - 18 Sagoma per le ferrovie
-- 19 Impianti di trasporto in condotta
+- 19 ...
 - 20 Indice

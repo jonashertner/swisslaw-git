@@ -4,11 +4,11 @@ title: "Verordnung vom 30. März 1994 über elektrische Leitungen (Leitungsveror
 short: LeV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233"
 language: de
-version: 2020-06-01
+version: 2021-07-01
 adopted: 1994-03-30
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/fedlex-data-admin-ch-eli-cc-1994-1233_1233_1233-20200601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1994-1233_1233_1233-20210701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de"
 
 (Leitungsverordnung, LeV)
 
-vom 30. März 1994 (Stand am 1. Juni 2020)
+vom 30. März 1994 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -69,7 +69,7 @@ Die Bestimmungen für die Erstellung gelten für bestehende Leitungen, wenn:
 
 <sup>1</sup> Für Erstellung, Betrieb und Instandhaltung von elektrischen Leitungen gelten zudem die Bestimmungen der Starkstromverordnung vom 30. März 1994[^3-1] sowie der Schwachstromverordnung vom 30. März 1994[^3-2].
 
-<sup>2</sup> …[^3-3]
+<sup>2</sup> ...[^3-3]
 
 [^3-1]: [SR 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
 [^3-2]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
@@ -199,9 +199,11 @@ Die für die Erteilung einer Baubewilligung oder die Genehmigung von Nutzungsän
 
 **Grundsatz**
 
-<sup>1</sup> Ob ein Vorhaben an einer Leitung mit einer Nennspannung von unter 220 kV und einer Frequenz von 50 Hz als Erdkabel auszuführen ist, bestimmt sich insbesondere nach Artikel 15*c* des Elektrizitätsgesetzes sowie nach den Bestimmungen dieses Kapitels.
+<sup>1</sup> Ob ein Vorhaben an einer Leitung mit einer Nennspannung von unter 220 kV und einer Frequenz von 50 Hz als Erdkabel oder als Freileitung auszuführen ist, bestimmt sich insbesondere nach Artikel 15*c* des Elektrizitätsgesetzes sowie nach den Bestimmungen dieses Kapitels.[^11b-1]
 
 <sup>2</sup> Der Mehrkostenfaktor gemäss Artikel 15*c* Absatz 2 des Elektrizitätsgesetzes beträgt 2,0.
+
+[^11b-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 330](https://fedlex.data.admin.ch/eli/oc/2021/330)).
 
 #### Art. 11c
 
@@ -246,11 +248,11 @@ Das Vorhaben ist trotz Einhaltung des Mehrkostenfaktors als Freileitung auszufü
 
 #### Art. 11e
 
-**Überschreitung des Mehrkostenfaktors**
+**Überschreitung des Mehrkostenfaktors**[^11e-1]
 
-Ein konkretes Vorhaben kann trotz Überschreitung des Mehrkostenfaktors teilweise oder vollständig als Erdkabel ausgeführt werden, wenn die den Mehrkostenfaktor überschreitenden Gesamtkosten nicht als anrechenbare Kosten im Sinne von Artikel 15 des Stromversorgungsgesetzes vom 23. März 2007[^11e-1] geltend gemacht werden.
+Ein konkretes Vorhaben kann trotz Überschreitung des Mehrkostenfaktors teilweise oder vollständig als Erdkabel ausgeführt werden, wenn der Betriebsinhaber im Plangenehmigungsverfahren nachweist, dass ein Dritter die den Mehrkostenfaktor überschreitenden Kosten trägt.
 
-[^11e-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^11e-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 330](https://fedlex.data.admin.ch/eli/oc/2021/330)).
 
 ### 1*a*. Kapitel:**** Freileitungen
 
@@ -886,7 +888,7 @@ Kabel müssen an den Enden sowie an zugänglichen Stellen eindeutig, dauerhaft u
 
 <sup>2</sup>
 
-Ohne Kabelschutzrohre muss die Verlegetiefe im Erdreich betragen:
+Die Verlegetiefe von Kabelleitungen muss im Erdreich betragen:[^68-1]
 
 - a. für Schwachstromkabel mindestens 0,4 m;
 - b. für Niederspannungskabel mindestens 0,6 m;
@@ -894,7 +896,10 @@ Ohne Kabelschutzrohre muss die Verlegetiefe im Erdreich betragen:
 
 <sup>3</sup> Können die Verlegetiefen nach Absatz 2 nicht eingehalten werden, sind zusätzliche Schutzmassnahmen, insbesondere gegen mechanische Beschädigungen zu treffen.
 
-<sup>4</sup> Der Kabelschutz von Starkstromkabeln muss in jedem Fall mindestens 0,4 m überdeckt werden. Die Kontrollstelle kann Ausnahmen bewilligen.
+<sup>4</sup> Die Kontrollstelle kann Ausnahmen bewilligen.[^68-2]
+
+[^68-1]: Fassung gemäss Anhang 2 Ziff. 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^68-2]: Fassung gemäss Anhang 2 Ziff. 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 69
 
@@ -1000,7 +1005,7 @@ Annäherungen, Parallelführungen und Kreuzungen von Freileitungen unter sich au
 - a. alle Leitungen dem gleichen Betriebsinhaber unterstellt sind;
 - b. die beteiligten Betriebsinhaber Erstellung, Betrieb und Instandhaltung schriftlich vereinbart haben.
 
-<sup>2</sup> …[^78-2]
+<sup>2</sup> ...[^78-2]
 
 <sup>3</sup> Freileitungen sind so zu planen und zu erstellen, dass wenig Kreuzungen mit anderen Freileitungen entstehen.
 
@@ -1066,7 +1071,7 @@ Abspannstellen von Niederspannungsleitungen an Mauerwerken oder Gebäuden müsse
 
 **Parallelführungen von Schwachstrom- und Hochspannungsleitungen auf gemeinsamen Tragwerken**
 
-<sup>1</sup> …[^85-1]
+<sup>1</sup> ...[^85-1]
 
 <sup>2</sup> Auf der ganzen Länge der Parallelführung müssen die blanken Hochspannungsleiter durch starre Befestigungen gehalten werden. Die Schwachstromleiter müssen den Bestimmungen über die mechanische Sicherheit der Hochspannungsleiter entsprechen.
 
@@ -1080,7 +1085,7 @@ Abspannstellen von Niederspannungsleitungen an Mauerwerken oder Gebäuden müsse
 
 **Kreuzungen von Schwachstrom- und Hochspannungsleitungen auf gemeinsamen Tragwerken**
 
-<sup>1</sup> …[^86-1]
+<sup>1</sup> ...[^86-1]
 
 <sup>2</sup> Kreuzungen von Schwachstromleitungen mit Hochspannungs-Luftkabeln sind auf gemeinsamen Tragwerken zulässig.
 
@@ -1525,13 +1530,13 @@ Wird eine Hochspannungsfreileitung unter einer Strassenbrücke hindurchgeführt,
 
 #### Art. 123
 
-**Parallelführung**
+**Unterirdische Rohrleitungen und Nebenanlagen**[^123-1]
 
 <sup>1</sup>
 
-Sollen Freileitungen und Rohrleitungen, die dem Rohrleitungsgesetz vom 4. Oktober 1963[^123-1] unterstellt sind, parallel geführt werden, so ist abzuklären:
+Für die Erstellung von elektrischen Leitungen in einem Abstand von weniger als 30 m zu Rohrleitungen, die dem Rohrleitungsgesetz vom 4. Oktober 1963[^123-2] unterstellt sind, ist abzuklären:
 
-- a. ob durch induktive Kopplungen unzulässig hohe elektrische Spannungen an den Rohrleitungen oder an den dazugehörenden Fernmelde- und Fernsteuerungsanlagen auftreten können;
+- a. ob die zulässigen Spannungen nach Anhang 4 der Starkstromverordnung vom 30. März 1994[^123-3] an der Rohrleitungsanlage nicht überschritten werden;
 - b. welche Schutzmassnahmen zu treffen sind.
 
 <sup>2</sup>
@@ -1539,28 +1544,27 @@ Sollen Freileitungen und Rohrleitungen, die dem Rohrleitungsgesetz vom 4. Oktobe
 Die Abklärung ist nur in Bezug auf die Fernmelde- und Fernsteuerungsanlagen vorzunehmen, wenn die Rohrleitung:
 
 - a. ohne elektrische Isolation direkt im Erdreich verlegt ist;
-- b. auf der Parallelstrecke geerdet ist;
+- b. auf der Parallelstrecke geerdet ist; oder
 - c. aus nicht leitendem Material besteht.
 
-<sup>3</sup> Die Abklärung erübrigt sich vollständig, wenn der Sternpunkt des Hochspannungsnetzes von der Erde isoliert betrieben wird oder mit Erdschlusslöschung versehen ist.
+<sup>3</sup> Sie erübrigt sich vollständig, wenn der Sternpunkt des Hochspannungsnetzes von der Erde isoliert betrieben wird oder mit Erdschlusslöschung versehen ist.
 
 <sup>4</sup> Der Gefahr der Gleichstrom- und der Wechselstromkorrosion ist Rechnung zu tragen.
 
-[^123-1]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+<sup>5</sup> Im Schutzbereich einer Nebenanlage nach Artikel 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021[^123-4] dürfen keine elektrischen Hochspannungsanlagen erstellt werden.
+
+<sup>6</sup> Der Nachweis der Einhaltung der zulässigen Berührungsspannungen ist der Kontrollstelle im Rahmen des Plangenehmigungsgesuches oder auf Verlangen vorzulegen.
+
+[^123-1]: Fassung gemäss Anhang 2 Ziff. 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^123-2]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^123-3]: [SR 734.2](https://fedlex.data.admin.ch/eli/cc/1994/1199_1199_1199)
+[^123-4]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
 
 #### Art. 124
 
-**Abstand**
+[^124-1]
 
-<sup>1</sup> Die Abstände bei Annäherungen, Parallelführungen und Kreuzungen von elektrischen Leitungen mit Rohrleitungen, die dem Rohrleitungsgesetz unterstellt sind, bestimmen sich nach Anhang 19.
-
-<sup>2</sup>
-
-Die Kontrollstellen können kleinere Abstände bewilligen, wenn:
-
-- a. die Sicherheit durch zusätzliche Schutzmassnahmen gewährleistet ist;
-- b. Bedienungs- und Instandhaltungsarbeiten an den Rohrleitungsanlagen (einschliesslich Löscharbeiten) nicht behindert werden; und
-- c. das Bedienungspersonal nicht gefährdet wird.
+[^124-1]: Aufgehoben durch Anhang 2 Ziff. 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 125
 
@@ -1600,9 +1604,17 @@ Die Bestimmungen dieser Verordnung gelten sinngemäss, wenn Hochspannungsleitung
 
 #### Art. 130
 
-**Abstand zu Unterflur-Tankanlagen**
+**Abstand zu Unterflur-Tankanlagen**[^130-1]
 
-Der Horizontalabstand zwischen Freileitungen und Unterflur-Tankanlagen muss mindestens 10 m betragen.
+<sup>1</sup> Der Horizontalabstand zwischen Freileitungen und Unterflur-Tankanlagen muss mindestens 10 m betragen.
+
+<sup>2</sup> Der Horizontalabstand zwischen Hochspannungskabelleitungen und Unterflur-Tankanlagen muss mindestens 10 m plus 0,5 m pro kA Erdschlussstrom betragen.
+
+<sup>3</sup> Der Horizontalabstand zwischen Niederspannungskabelleitungen mit einer zusätzlichen Isolationsschicht und Unterflur-Tankanlagen muss mindestens 0,5 m (Erdschicht) betragen.
+
+<sup>4</sup> Beträgt der Direktabstand zwischen Unterflur-Tankanlagen und Kabelleitungen im Erdreich weniger als 10 m, so sorgt der Inhaber der Kabelleitung dafür, dass entweichende brennbare Gase und Flüssigkeiten nicht über Kabelkanäle und Kabelrohre in Gebäude eindringen.
+
+[^130-1]: Fassung gemäss Anhang 2 Ziff. 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 131
 
@@ -1633,11 +1645,9 @@ Der Horizontalabstand zwischen Freileitungen und Überflur-Tankanlagen muss betr
 
 #### Art. 133
 
-**Abstand von Kabelleitungen**
+[^133-1]
 
-<sup>1</sup> Für die Annäherung und Parallelführung von Kabelleitungen und Tankanlagen gelten die Abstände nach Anhang 19.
-
-<sup>2</sup> Beträgt der Direktabstand zwischen Tankanlagen und Kabelleitungen im Erdreich weniger als 10 m, so muss der Inhaber der Kabelleitung dafür sorgen, dass entweichende brennbare Gase und Flüssigkeiten nicht über Kabelkanäle und Kabelrohre in Gebäude eindringen.
+[^133-1]: Aufgehoben durch Anhang 2 Ziff. 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 134
 
@@ -1745,7 +1755,7 @@ Die Verordnung vom 7. Juli 1933[^144-1] über die Parallelführungen und Kreuzun
 
 **Änderung bisherigen Rechts**
 
-…[^145-1]
+...[^145-1]
 
 [^145-1]: Die Änderung kann unter [AS 1994 1233](https://fedlex.data.admin.ch/eli/oc/1994/1233_1233_1233)konsultiert werden.
 
@@ -1802,13 +1812,13 @@ Anhang 1*[^t-1]*
 - 30\.1 *Spannweite, mittlere, am*: arithmetisches Mittel der bei einem Tragwerk angrenzenden Spannweiten.
 - 30\.2 *Spannweite, ideelle, aid*: fiktive, rechnerisch zu ermittelnde Ersatzspannweite zwischen zwei Leiterabspannungen.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image1.png)
 
  = Neigungswinkel
 
 - 30\.3 *Spannweite, virtuelle, a**<sub>v</sub>*: die bei ungleicher Höhe der Leiteraufhängung scheinbare Spannweite, gebildet durch die Länge der horizontalen Sehne zwischen dem oberen Aufhängepunkt und dem Schnittpunkt mit der über den unteren Aufhängepunkt verlängerten Seilkurve.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image2.png)
 
 <table>
 <tr><td>a =</td><td colspan="4">Spannweite in m</td></tr>
@@ -1927,7 +1937,7 @@ Anhang 4
 - 1\.2 Für Gegenden, wo erfahrungsgemäss wesentlich günstigere oder ungünstigere Verhältnisse herrschen, kann die zuständige Kontrollstelle in Einzelfällen andere Werte für den Winddruck festsetzen.
 - 1\.3 Die vom Wind getroffenen Flächen A eines Fachwerkes sind nach folgender Formel zu bestimmen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image3.png)
 
 -
 
@@ -1972,9 +1982,9 @@ Anhang 4
 - 4\.2 Die Beanspruchung <sub>k</sub> darf bei ganz oder annähernd zentrischem Kraftangriff höchstens betragen:
 - <sub>k</sub> = 13,2 – 0,092 ·  [N/mm<sup>2</sup>] für 13    100
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image4.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image5.png)
 
 - l<sub>k</sub> = Knicklänge in cm
 - i = Trägheitsradius in cm
@@ -2039,13 +2049,13 @@ Anhang 6
 - 2\.2 Abstände zwischen den Leitern in der Spannweite
 - 2\.2.1 Direktabstand z zweier Leiter in der Spannweite:
 
-– innerhalb des gleichen Stromkreises: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image6.png) – zwischen verschiedenen Stromkreisen: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image7.png)
+– innerhalb des gleichen Stromkreises: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image6.png) – zwischen verschiedenen Stromkreisen: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image7.png)
 
 - 2\.2.2 Bei durch Wind ausgelenkten Leitern müssen die Abstände C3 bzw. C4 eingehalten werden. Die Auslenkung von Leitern ist dabei mit bis zu 40 Prozent unterschiedlichen Windkräften zu ermitteln. Gegenüber Leitern und Tragwerken benachbarter Leitungen sind jedoch in jedem Fall die Abstände nach Ziffer 1.2 bzw. Ziffer 2.1.3 einzuhalten.
 - 2\.2.3 Bei Leitern mit verschiedenen Querschnitten, aus unterschiedlichen Werkstoffen oder mit ungleichen Durchhängen ist der Abstand für jeden Leiter separat zu ermitteln und der grössere so ermittelte Abstand einzuhalten.
 - 2\.2.4 Bei Phasenabstandhaltern zwischen Leitern darf der folgende Direktabstand z nicht unterschritten werden:
 
-– innerhalb des gleichen Stromkreises: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image8.png) – zwischen verschiedenen Stromkreisen: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image9.png)
+– innerhalb des gleichen Stromkreises: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image8.png) – zwischen verschiedenen Stromkreisen: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image9.png)
 
 - In jedem Fall sind jedoch mindestens 0,90 m Abstand einzuhalten.
 - 2\.3 Bei Leitungen mit Stromkreisen verschiedener Nennspannungen ist für die Abstände aus der Tabelle 2.4.1 immer die grössere Nennspannung massgebend.
@@ -2111,37 +2121,37 @@ Faktor k bei einem Winddruck von 500 N/m<sup>2</sup>
 
 Diagramm 2.4.2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image10.png)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image11.png)</td><td></td><td>0 &lt; w  16,8</td><td>Cu</td><td>: A &gt; 70 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image11.png)</td><td></td><td>0 &lt; w  16,8</td><td>Cu</td><td>: A &gt; 70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: A &gt; 600 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image12.png)</td><td></td><td>16,8 &lt; w  28,5</td><td>Cu</td><td>: 19,6  A  70 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image12.png)</td><td></td><td>16,8 &lt; w  28,5</td><td>Cu</td><td>: 19,6  A  70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: 50  A  95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 300  A  600 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image13.png)</td><td></td><td>28,5 &lt; w  42,8</td><td>Ac</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image13.png)</td><td></td><td>28,5 &lt; w  42,8</td><td>Ac</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 185  A &lt; 300 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image14.png)</td><td></td><td>42,8 &lt; w</td><td>Al, Ad</td><td>: A &lt; 185 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image14.png)</td><td></td><td>42,8 &lt; w</td><td>Al, Ad</td><td>: A &lt; 185 mm<sup>2</sup></td></tr>
 </table>
 
 Faktor k bei einem Winddruck von 650 N/m<sup>2</sup>
 
 Diagramm 2.4.3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image15.png)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image11.png)</td><td></td><td>0 &lt; w  12,9</td><td>Cu</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image11.png)</td><td></td><td>0 &lt; w  12,9</td><td>Cu</td><td>: A &gt; 95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &gt; 150 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: A &gt; 1000 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image13.png)</td><td></td><td>12,9 &lt; w  22,0</td><td>Cu</td><td>: 50  A  95 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image13.png)</td><td></td><td>12,9 &lt; w  22,0</td><td>Cu</td><td>: 50  A  95 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: 70  A  150 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 500  A  1000 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image12.png)</td><td></td><td>22,0 &lt; w  33,0</td><td>Cu</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image12.png)</td><td></td><td>22,0 &lt; w  33,0</td><td>Cu</td><td>: A &lt; 50 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Ac</td><td>: A &lt; 70 mm<sup>2</sup></td></tr>
 <tr><td></td><td></td><td></td><td>Al, Ad</td><td>: 240  A &lt; 500 mm<sup>2</sup></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image14.png)</td><td></td><td>33,0 &lt; w</td><td>Al, Ad</td><td>: A &lt; 240 mm<sup>2</sup></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image14.png)</td><td></td><td>33,0 &lt; w</td><td>Al, Ad</td><td>: A &lt; 240 mm<sup>2</sup></td></tr>
 </table>
 
 Legende zu den Diagrammen 2.4.2 und 2.4.3 zur Bestimmung des Faktors k als Funktion des Systemwinkels β und des Ausschwingwinkels φ unter Windeinwirkung
@@ -2150,7 +2160,7 @@ Legende zu den Diagrammen 2.4.2 und 2.4.3 zur Bestimmung des Faktors k als Funkt
 <tr><td>– Systemwinkel β:</td><td>Winkel eines Leiters zur Vertikalen durch den benachbarten Leiter</td></tr>
 </table>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image16.png)
 
 <table>
 <tr><td colspan="2">– Ausschwingwinkel φ: arc tg (p · d/q · 10<sup>–4</sup>)</td></tr>
@@ -2198,7 +2208,7 @@ Anhang 8
 
 - Gebäude überragt den untersten Leiter nicht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image17.png)
 
 -  = Gerade durch den Befestigungspunkt der Hänge-/Abspannketten auf nächsten Masten am Ort der Gebäudeannäherung
 - f<sub>10</sub> = Leiterdurchhang bei 10 °C am Ort der Gebäudeannäherung
@@ -2210,7 +2220,7 @@ Anhang 8
 
 - Gebäude überragt den untersten Leiter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image18.png)
 
 -  = Gerade durch den Befestigungspunkt der Hänge-/Abspannketten auf nächsten Masten am Ort der Gebäudeannäherung
 - f<sub>10</sub> = Leiterdurchhang bei 10 °C am Ort der Gebäudeannäherung
@@ -2227,7 +2237,7 @@ Anhang 9
 
 Kandelaber ohne fest angebrachte Steigvorrichtung
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image19.png)
 
 <table>
 <tr><td>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub>-<sub>·</sub></td><td></td><td>Abstände bei grösstem Durchhang des ruhenden Leiters bzw. Luftkabels</td></tr>
@@ -2245,11 +2255,11 @@ Anhang 10
 
 ### 1. Schiessanlage 250 m und 300 m (mit Ordonnanzmunition)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image20.png)
 
 ### 2. Schiessanlage 25 m und 50 m (mit Ordonnanzmunition)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image21.png)
 
 ### 3. In den Zonen A und B dürfen sich weder Tragwerke, Tragwerkteile und Leiter noch Luftkabel befinden. In der Zone C sind Tragwerke oder Tragwerkteile aus Holz oder mit Holz verkleidete Tragwerke zulässig.
 
@@ -2410,8 +2420,8 @@ Anhang 13
 
 <table>
 <tr><td>[tab] – σ<sub>k</sub> = 33–0,23 λ</td><td>[tab] [N/mm<sup>2</sup>] bei 13 ≤ λ ≤ 100</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image22.png)</td><td>[tab] [N/mm<sup>2</sup>] bei λ &gt; 100</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image23.png)</td><td>[tab] l<sub>k</sub> = Knicklänge; i = Trägheitsradius</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image22.png)</td><td>[tab] [N/mm<sup>2</sup>] bei λ &gt; 100</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image23.png)</td><td>[tab] l<sub>k</sub> = Knicklänge; i = Trägheitsradius</td></tr>
 </table>
 
 - 3\.3 Der Sicherheitsfaktor bezogen auf die Grenzspannung beträgt 3,0.
@@ -2524,11 +2534,11 @@ Anhang 15
 - 2\.3 Schneelasten auf einem Freileitungstragwerk müssen nur berücksichtigt werden, wenn lokale Verhältnisse in exponierten Lagen das erfordern.
 - 2\.4 Bei Tragwerken von Freiluftanlagen in Höhen h bis 2000 m über Meer ist pro m<sup>2</sup> überdeckter Grundrissfläche folgende Schneelast zu berücksichtigen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image24.png)
 
 - Liegt die Freiluftanlage höher als 2000 m über Meer oder erfordern die örtlichen Gegebenheiten höhere Schneelasten, so sind der Berechnung die separat ermittelten Werte zugrunde zu legen.
 
-### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image25.png)3 Reduktionsfaktor
+### ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image25.png)3 Reduktionsfaktor
 
 Für Windkräfte: mittlere Spannweite a<sub>m</sub>
 
@@ -2572,7 +2582,7 @@ Bei zweisträngigen Leitungen darf der Gesamtdurchmesser aller Leitungen mit dem
 
 - Nomogramm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image26.png)
 
 Anhang 17
 
@@ -2584,7 +2594,7 @@ Anhang 17
 
 <table>
 <tr><td>Leitungssituation</td><td>Leitung Nr. a</td><td></td><td>Leitung Nr. b</td><td></td><td colspan="2">Abstand</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image27.png)</td><td>blank</td><td>Kabel</td><td>blank</td><td>Kabel</td><td></td><td>y = Vertikalabstand</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image27.png)</td><td>blank</td><td>Kabel</td><td>blank</td><td>Kabel</td><td></td><td>y = Vertikalabstand</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td>S</td><td colspan="2">y ≥ 0,5 m für Regel- und Weitspannleitungen</td></tr>
 <tr><td></td><td></td><td>N</td><td>S</td><td></td><td colspan="2">y ≥ 0,5 m für Regelleitungen</td></tr>
 <tr><td></td><td></td><td>N</td><td>S</td><td></td><td colspan="2">y ≥ 1,0 m für Weitspannleitungen</td></tr>
@@ -2606,7 +2616,7 @@ H = Hochspannungsleitung – N = Niederspannungsleitung – S = Schwachstromleit
 
 <table>
 <tr><td>Leitungssituation</td><td>Leitung Nr. a</td><td></td><td>Leitung Nr. b</td><td></td><td colspan="2">Abstand</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image27.png)</td><td>blank</td><td>Kabel</td><td>blank</td><td>Kabel</td><td></td><td>y = Vertikalabstand</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image27.png)</td><td>blank</td><td>Kabel</td><td>blank</td><td>Kabel</td><td></td><td>y = Vertikalabstand</td></tr>
 <tr><td></td><td></td><td>N</td><td>S</td><td>S</td><td colspan="2">y ≥ 0,5 m</td></tr>
 <tr><td></td><td>N</td><td></td><td>S</td><td>S</td><td colspan="2">y ≥ 1,5 m</td></tr>
 <tr><td></td><td>H</td><td></td><td>S</td><td>S</td><td colspan="2">z ≥ Anhang 6, ≥. 1,5 m; y ≥ 1,5 m, nur werkeigene S</td></tr>
@@ -2623,7 +2633,7 @@ H = Hochspannungsleitung – N = Niederspannungsleitung – S = Schwachstromleit
 <table>
 <tr><td>Leitungssituation</td><td colspan="4">Leitung Nr. a</td><td></td><td colspan="2"></td><td></td><td colspan="4">Leitung Nr. b</td><td></td><td></td><td></td><td>Abstand</td><td>x= Horizontalabstand</td></tr>
 <tr><td></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td colspan="2"></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td></td><td>z = Direktabstand</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="5">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>a = grössere Spannweite in m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="5">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>a = grössere Spannweite in m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="5"></td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4"></td><td colspan="2">x ≥ 1,0 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="5"></td><td></td><td>S</td><td></td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="5">[F06C]</td><td></td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2,0 m + 0,02 a</td></tr>
@@ -2654,7 +2664,7 @@ H = Hochspannungsleitung – N = Niederspannungsleitung – S = Schwachstromleit
 <table>
 <tr><td>Leitungssituation</td><td colspan="4">Leitung Nr. a</td><td></td><td></td><td></td><td colspan="4">Leitung Nr. b</td><td></td><td></td><td></td><td>Abstand</td><td>x= Horizontalabstand</td></tr>
 <tr><td></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td></td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td></td><td>z = Direktabstand</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>a = grössere Spannweite in m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image28.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td>a = grössere Spannweite in m</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>N</td><td></td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2 m + 0,02 a; z ≥ Anhang 6</td></tr>
 <tr><td></td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td colspan="2">x ≥ 2,0 m</td></tr>
 <tr><td></td><td>N</td><td></td><td>[F06C]</td><td colspan="4">[F06C]</td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 2 m + 0,02 a; z ≥ Anhang 6</td></tr>
@@ -2685,7 +2695,7 @@ H = Hochspannungsleitung – N = Niederspannungsleitung – S = Schwachstromleit
 <table>
 <tr><td>Leitungssituation</td><td colspan="4">Leitung Nr. a</td><td></td><td></td><td></td><td colspan="4">Leitung Nr. b</td><td></td><td></td><td></td><td>Abstand</td><td>y= Vertikalabstand z = Direktabstand</td></tr>
 <tr><td></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td></td><td>b = m pro kV der grösseren Nennspannung r = Abstand in m zum näheren Kreuzungstragwerk der Leitung 1</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td></td><td>S</td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 0,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td>S</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 1,0 m</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">z ≥1,0 m + 0,02 r</td></tr>
@@ -2708,7 +2718,7 @@ H = Hochspannungsleitung – N = Niederspannungsleitung – S = Schwachstromleit
 <table>
 <tr><td>Leitungssituation</td><td colspan="4">Leitung Nr. a</td><td></td><td></td><td></td><td colspan="4">Leitung Nr. b</td><td></td><td></td><td></td><td>Abstand</td><td>y= Vertikalabstand z = Direktabstand</td></tr>
 <tr><td></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td></td><td>b = m pro kV der grösseren Nennspannung r = Abstand in m zum näheren Kreuzungstragwerk der Leitung 2</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image29.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image29.png)![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image29.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td></td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">z ≥ 0,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td>[F06C]</td><td colspan="4"></td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td>N</td><td></td><td colspan="4">[F06C]</td><td>N</td><td></td><td>[F06C]</td><td colspan="4"></td><td colspan="2">z ≥ 1,0 m + 0,02 r, ≥.1,5 m</td></tr>
@@ -2737,7 +2747,7 @@ H = Hochspannungsleitung – N = Niederspannungsleitung – S = Schwachstromleit
 <table>
 <tr><td>Leitungssituation</td><td colspan="4">Tragwerk / Leitung Nr. a</td><td></td><td></td><td></td><td colspan="4">Leitung Nr. b</td><td></td><td></td><td></td><td>Abstand</td><td>x= Horizontalabstand</td></tr>
 <tr><td></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td>blank</td><td>Kabel</td><td colspan="4">Spannweite</td><td></td><td></td><td>z = Direktabstand</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image30.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image30.png)</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt; 60 m</td><td></td><td></td><td>≤ 60 m</td><td colspan="4">&gt;60 m</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>S</td><td>S</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>N</td><td>N</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ Anhang 6 ≥ 1,5 m</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="4"></td><td>H</td><td>H</td><td>[F06C]</td><td colspan="4">[F06C]</td><td colspan="2">x ≥ Anhang 6 ≥ 1,5 m + 0,01 b</td></tr>
@@ -2753,7 +2763,7 @@ Anhang 18
 
 ## Bahnprofil
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20200601/de/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233/20210701/de/xml/image/image31.png)
 
 - a ≥ 3 m + 0,01 m pro kV der höchsten Nennspannung
 - b ≥ 3 m + 0,01 m pro kV der höchsten Nennspannung + 0,02 m pro Meter Abstand vom näher liegenden Überführungstragwerk
@@ -2761,44 +2771,13 @@ Anhang 18
 
 Anhang 19*[^t-2]*
 
-(Art. 124 und 133)
-
-## Rohrleitungsanlagen
-
-[^t-2]: Fassung gemäss Art. 63 der V vom 4. April 2007 über Sicherheitsvorschriften für Rohrleitungsanlagen, in Kraft seit 1. Mai 2007 ([AS 2007 1823](https://fedlex.data.admin.ch/eli/oc/2007/266)).
-
-### 1 Mindesthorizontalabstände bei Annäherungen und Parallelführungen von Starkstromanlagen und Rohrleitungsanlagen
-
-<table>
-<tr><td>Starkstromanlagen</td><td>Rohrleitungsanlagen</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>Rohrleitung</td><td>Molchschleusen und Ausbläser</td><td>Pump- und Kompressorenstationen</td><td>DRM-Stationen, übrige Nebenanlagen</td></tr>
-<tr><td>blanke oder isolierte Leiter von Freileitungen:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>bis 50 kV</td><td>3 m</td><td>10 m</td><td>30 m</td><td>10 m</td></tr>
-<tr><td>über 50 kV</td><td>10 m</td><td>30 m</td><td>30 m</td><td>10 m</td></tr>
-<tr><td>Kraftwerke, Unterwerke, Schaltanlagen, inkl. Erdungen</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>bis 100 kV</td><td>10 m + 0,5 m/kA Erdschlussstrom</td><td>30 m</td><td>50 m</td><td>10 m + 0,5 m/kA Erdschlussstrom</td></tr>
-<tr><td>über 100 kV</td><td>30 m</td><td>30 m</td><td>50 m</td><td>30 m</td></tr>
-<tr><td>Tragwerke inkl. Erdungen</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>bis 50 kV</td><td>3 m</td><td>10 m</td><td>30 m</td><td>10 m</td></tr>
-<tr><td>über 50 kV</td><td>3 m + 0,5 m/kA Erdschlussstrom</td><td>30 m</td><td>30 m</td><td>10 m + 0,5 m/kA Erdschlussstrom</td></tr>
-</table>
-
-### 2 Mindestabstände zwischen unterirdischen Schwach- oder Starkstromkabelleitungen und Rohrleitungsanlagen
-
-<table>
-<tr><td>Kabelleitungen</td><td>bis 50 kV</td><td>über 50 kV</td></tr>
-<tr><td>zur Rohrleitung parallelführende Kabelleitungen</td><td>2 m Erdschicht</td><td>3 m + 0,5 m/kA Erdschlussstrom</td></tr>
-<tr><td>Kabelabstand zu Nebenanlagen</td><td>2 m Erdschicht</td><td>10 m + 0,5 m/kA Erdschlussstrom</td></tr>
-<tr><td colspan="2">Kreuzung einer Schwach- oder Starkstromkabelleitung mit einer Rohrleitung</td><td>0,5 m</td></tr>
-</table>
-
-Weist die Kabelleitung eine zusätzliche Isolation auf, so kann der Abstand auf 0,5 m Erdschicht reduziert werden. Vorbehalten bleibt Artikel 11 RLSV.
+[^t-2]: Aufgehoben durch Anhang 2 Ziff. 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 Anhang 20*[^t-3]*
 
 ## Inhaltsverzeichnis
 
-[^t-3]: Redaktionell bereinigt infolge der Änd. gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1377](https://fedlex.data.admin.ch/eli/oc/2019/269)) hiervor.
+[^t-3]: Redaktionell bereinigt infolge der Änd. gemäss Ziff. I der V vom 3. April 2019 ([AS 2019 1377](https://fedlex.data.admin.ch/eli/oc/2019/269)) und Anhang 2 Ziff. 2 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 <table>
 <tr><td>**1. Titel**</td><td>**Allgemeine Bestimmungen**</td><td>**1–11*****a***</td></tr>
@@ -2848,5 +2827,5 @@ Anhänge:
 - 16 Holzmasten für Regelleitungen
 - 17 Abstände bei Parallelführungen und Kreuzungen von elektrischen Leitungen unter sich
 - 18 Bahnprofil
-- 19 Rohrleitungsanlagen
+- 19 ...
 - 20 Inhaltsverzeichnis
