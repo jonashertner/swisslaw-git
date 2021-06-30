@@ -4,13 +4,13 @@ number: "327"
 title: Verordnung über den Justizvollzug
 short: JVV
 language: de
-version: 2018-01-01
-valid_until: 2021-06-30
-version_adopted: 2017-12-01
+version: 2021-07-01
+valid_until: 2024-09-30
+version_adopted: 2021-06-15
 adopted: 2016-03-24
 in_force: 2016-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/327"
-pdf: "https://srl.lu.ch/api/de/versions/3725/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3760/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3725/pdf_file"
 
 (JVV)
 
-vom 24.03.2016 (Stand 01.01.2018)
+vom 24.03.2016 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -61,23 +61,22 @@ beschliesst:
 
 <sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug ist mit ihren Abteilungen Justizvollzugsanstalt Grosshof, Justizvollzugsanstalt Wauwilermoos und Vollzugs- und Bewährungsdienst zuständig für den Justizvollzug.
 
-<sup>2</sup> Die Abteilungen der Dienststelle Militär, Zivilschutz und Justizvollzug handeln in ihren Zuständigkeitsbereichen im Namen und nach Weisung der Dienststelle, ausser in den in Absatz 3 bis 5 aufgeführten Fällen.
+<sup>2</sup> Die Abteilungen der Dienststelle Militär, Zivilschutz und Justizvollzug handeln in ihren Zuständigkeitsbereichen im Namen und nach Weisung der Dienststelle, ausser in den in den Absätzen 4 bis 6 aufgeführten Fällen.
 
-<sup>3</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug ist zuständig für den Entscheid über Vollzugsöffnungen im Sinn von Artikel 75a des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937 (StGB)[^3-1] bei Verwahrungen nach Artikel 64 StGB und bei lebenslänglichen Freiheitsstrafen.
+<sup>3</sup> …
 
-<sup>4</sup> Sie entscheidet auf Antrag des Arztes oder der Ärztin über die Anordnung der Zwangsmedikation nach § 36 JVG oder der Zwangsernährung nach § 39 JVG.
+<sup>4</sup> Die Dienststelle entscheidet auf Antrag des Arztes oder der Ärztin über die Anordnung der Zwangsmedikation nach § 36 JVG oder der Zwangsernährung nach § 39 JVG.
 
-<sup>5</sup> Sie schliesst mit privaten Vollzugseinrichtungen, denen die Bewilligung zum Vollzug von Strafen und Massnahmen erteilt worden ist, Leistungsvereinbarungen im Sinn von § 20i des Gesetzes über die Steuerung der Finanzen und Leistungen vom 13. September 2010 (FLG)[^3-2] ab.
+<sup>5</sup> Sie schliesst mit privaten Vollzugseinrichtungen, denen die Bewilligung zum Vollzug von Strafen und Massnahmen erteilt worden ist, Leistungsvereinbarungen im Sinn von § 20i des Gesetzes über die Steuerung der Finanzen und Leistungen vom 13. September 2010 (FLG)[^3-1] ab.
 
-<sup>6</sup> Sie ist die kantonale Koordinationsstelle nach dem Bundesgesetz zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen vom 18. Dezember 2015[^3-3].
+<sup>6</sup> Sie ist die kantonale Koordinationsstelle nach dem Bundesgesetz zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen vom 18. Dezember 2015[^3-2].
 
-[^3-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
-[^3-2]: SRL Nr. [600](https://srl.lu.ch/data/600/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
-[^3-3]: SR [150.2](https://db.clex.ch/link/Bund/150.2/de)
+[^3-1]: SRL Nr. [600](https://srl.lu.ch/data/600/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+[^3-2]: SR [150.2](https://db.clex.ch/link/Bund/150.2/de)
 
 #### § 4
 
-**Aufgabenbereich des Vollzugs- und Bewährungsdienstes**
+**Vollzugs- und Bewährungsdienst**
 
 <sup>1</sup> Der Vollzugs- und Bewährungsdienst vollzieht die Strafbefehle und -urteile der Staatsanwaltschaft und der kantonalen Gerichte, soweit das Gesetz über die Organisation der Gerichte und Behörden in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren (Justizgesetz) vom 10. Mai 2010[^4-1] und diese Verordnung die Zuständigkeit nicht einer anderen Dienststelle beziehungsweise das Bundesrecht einer richterlichen Behörde überträgt.
 
@@ -94,15 +93,23 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Er kann im Rahmen des Sanktionenvollzuges technische Geräte, die mit der zu überwachenden Person fest verbunden sind, für die elektronische Überwachung einsetzen.
 
-<sup>3</sup> Er vollzieht auf dem Rechtshilfeweg im Rahmen der Verordnung zum Strafgesetz- buch und zum Militärstrafgesetz vom 19. September 2006[^4-2] Strafverfügungen und -urteile sowie Entscheide von Strafbehörden und Strafgerichten anderer Kantone und des Bundes sowie Strafverfügungen des Auditors und Urteile der Militärgerichte.
+<sup>2<sup>ter</sup></sup> Er sorgt für die Durchführung der Beratungen über den Umgang mit Gewalt bei Wegweisungen (§ 13e Abs. 1 EGZGB[^4-2]) und der Lernprogramme gegen Gewalt (Art. 55a Abs. 2 StGB[^4-3]). Er kann Leistungsvereinbarungen mit Dritten abschliessen.
+
+<sup>3</sup> Er vollzieht auf dem Rechtshilfeweg im Rahmen der Verordnung zum Strafgesetz- buch und zum Militärstrafgesetz vom 19. September 2006[^4-4] Strafverfügungen und -urteile sowie Entscheide von Strafbehörden und Strafgerichten anderer Kantone und des Bundes sowie Strafverfügungen des Auditors und Urteile der Militärgerichte.
 
 <sup>4</sup> Er prüft die gesetzlichen Voraussetzungen zum Vollzug von Amtes wegen.
 
-<sup>5</sup> Er informiert die ViCLAS-Zentralstelle auf Anfrage hin über den Beginn und das Ende einer Freiheitsstrafe oder einer stationären Massnahme im Sinn von § 13 Absatz 3 der Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat) vom 2. April 2009[^4-3].
+<sup>5</sup> Er informiert die ViCLAS-Zentralstelle auf Anfrage hin über den Beginn und das Ende einer Freiheitsstrafe oder einer stationären Massnahme im Sinn von § 13 Absatz 3 der Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat) vom 2. April 2009[^4-5].
+
+<sup>6</sup> Er vollzieht das Übereinkommen über die Überstellung verurteilter Personen vom 21. März 1983[^4-6] sowie das Zusatzprotokoll[^4-7] dazu.
 
 [^4-1]: SRL Nr. [260](https://srl.lu.ch/data/260/de)
-[^4-2]: SR [311.01](https://db.clex.ch/link/Bund/311.01/de)
-[^4-3]: SRL Nr. [354](https://srl.lu.ch/data/354/de)
+[^4-2]: SRL Nr. [200](https://srl.lu.ch/data/200/de)
+[^4-3]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^4-4]: SR [311.01](https://db.clex.ch/link/Bund/311.01/de)
+[^4-5]: SRL Nr. [354](https://srl.lu.ch/data/354/de)
+[^4-6]: SR [0.343](https://db.clex.ch/link/Bund/0.343/de)
+[^4-7]: SR [0.343.1](https://db.clex.ch/link/Bund/0.343.1/de)
 
 #### § 5
 
@@ -139,16 +146,17 @@ beschliesst:
 
 **Justizvollzugsanstalt Grosshof**
 
-<sup>1</sup> Die Justizvollzugsanstalt Grosshof dient dem Vollzug der
+<sup>1</sup> Die Justizvollzugsanstalt Grosshof dient dem Vollzug
 
-- a. Freiheits- und Ersatzfreiheitsstrafen im Normalvollzug,
-- b. Freiheits- und Ersatzfreiheitsstrafen in der Form der Halbgefangenschaft (Art. 77b StGB)
+- a. der Freiheits- und Ersatzfreiheitsstrafen im Normalvollzug,
+- b. …
 - c. …
-- d. Einschliessungsstrafen gemäss dem Bundesgesetz über das Jugendstrafrecht vom 20. Juni 2003[^8-1],
-- e. Untersuchungs- und Sicherheitshaft,
-- f. fürsorgerischen Unterbringung gemäss Artikel 426 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^8-2],
-- g. vorläufigen Festnahme,
-- h. Zwangsmassnahmen im Ausländerrecht.
+- d. der Einschliessungsstrafen gemäss dem Bundesgesetz über das Jugendstrafrecht vom 20. Juni 2003[^8-1],
+- e. der Untersuchungs- und Sicherheitshaft,
+- f. der fürsorgerischen Unterbringung gemäss Artikel 426 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^8-2],
+- g. der vorläufigen Festnahme,
+- h. der Zwangsmassnahmen im Ausländerrecht,
+- i. des Arrestes ausserhalb des Militärdienstes gemäss Artikel 192 des Militärstrafgesetzbuches vom 13. Juni 1927[^8-3].
 
 <sup>2</sup> Sie kann eine besondere Abteilung für Frauen führen (Art. 377 Abs. 2 StGB).
 
@@ -156,12 +164,13 @@ beschliesst:
 
 [^8-1]: SR [311.1](https://db.clex.ch/link/Bund/311.1/de)
 [^8-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^8-3]: SR [321.0](https://db.clex.ch/link/Bund/321.0/de)
 
 #### § 9
 
 **Justizvollzugsanstalt Wauwilermoos**
 
-<sup>1</sup> Die Justizvollzugsanstalt Wauwilermoos dient als offene Anstalt dem Vollzug von Freiheits- und Ersatzfreiheitsstrafen im Normalvollzug von männlichen Straftätern, die nicht gemeingefährlich sind und bei denen keine Fluchtgefahr besteht.
+<sup>1</sup> Die Justizvollzugsanstalt Wauwilermoos dient als offene Anstalt dem Vollzug von Freiheits- und Ersatzfreiheitsstrafen im Normalvollzug von männlichen Straftätern, bei denen keine Gefahr besteht, dass sie fliehen, und nicht zu erwarten ist, dass sie weitere Straftaten begehen.
 
 <sup>2</sup> Sie kann für den Vollzug von Zwangsmassnahmen im Ausländerrecht eine besondere Abteilung führen.
 
@@ -177,7 +186,7 @@ beschliesst:
 
 <sup>1</sup> Private Vollzugseinrichtungen bedürfen zum Vollzug von Strafen und Massnahmen, soweit das Bundesrecht dies vorsieht, einer Bewilligung des Justiz- und Sicherheitsdepartementes.
 
-<sup>2</sup> Sie haben eine Hausordnung zu erlassen, welche dem Justiz- und Sicherheitsdepartement zur Genehmigung vorzulegen ist.
+<sup>2</sup> Sie haben eine Hausordnung zu erlassen, welche der Dienststelle Militär, Zivilschutz und Justizvollzug zur Genehmigung vorzulegen ist.
 
 #### § 12
 
@@ -194,6 +203,12 @@ beschliesst:
 **Aufenthaltsnachforschung und polizeiliche Zuführung**
 
 <sup>1</sup> Ist eine verurteilte Person unbekannten Aufenthaltes oder leistet sie einer Aufforderung des Vollzugs- und Bewährungsdienstes zu einem Strafantritt, zu einem Massnahmenantritt, zu einer Besprechung, zu einer Abstinenzkontrolle, zu einer Medikamenteneinnahme oder zu einer angeordneten Betreuung keine Folge, kann dieser Dienst die Person zur Aufenthaltsnachforschung oder zur Verhaftung und polizeilichen Zuführung ausschreiben.
+
+#### § 13a
+
+**Polizeiliche Befragung**
+
+<sup>1</sup> Der Vollzugs- und Bewährungsdienst kann die Polizei zur Abklärung der persönlichen Verhältnisse mit einer Befragung der verurteilten Person beauftragen, insbesondere wenn diese aus dem Ausland überstellt worden ist.
 
 #### § 14
 
@@ -236,7 +251,9 @@ beschliesst:
 
 <sup>1</sup> Ist einer beschuldigten Person der vorzeitige Strafantritt bewilligt worden, untersteht sie dem Vollzugsregime des Strafvollzuges.
 
-<sup>2</sup> Der Staatsanwalt beziehungsweise der Präsident oder die Präsidentin des zuständigen Gerichtes entscheidet über Vollzugsöffnungen und Entlassungen.
+<sup>2</sup> Zieht der Vollzugs- und Bewährungsdienst eine Vollzugsöffnung in Betracht, gibt er der Staatsanwaltschaft oder dem Gericht Gelegenheit zur Stellungnahme.
+
+<sup>3</sup> Der Staatsanwalt oder die Staatsanwältin beziehungsweise der Präsident oder die Präsidentin des zuständigen Gerichtes entscheidet über Entlassungen.
 
 #### § 18
 
@@ -717,7 +734,7 @@ beschliesst:
 
 **Ärztlicher Dienst**
 
-<sup>1</sup> Die Leitung der Dienststelle Militär, Zivilschutz und Justizvollzug sorgt in den Justizvollzugsanstalten Wauwilermoos und Grosshof für die ärztliche Betreuung der eingewiesenen Personen.
+<sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug sorgt in den Justizvollzugsanstalten Wauwilermoos und Grosshof für die ärztliche Betreuung der eingewiesenen Personen. Sie kann Leistungsvereinbarungen mit Dritten abschliessen.
 
 #### § 69
 
@@ -725,7 +742,7 @@ beschliesst:
 
 <sup>1</sup> Die Leitung der Vollzugseinrichtung ermöglicht den eingewiesenen Personen die Teilnahme an anstaltsinternen Gottesdiensten und anderen anstaltsinternen religiösen Feiern.
 
-<sup>2</sup> Die Leitung der Dienststelle Militär, Zivilschutz und Justizvollzug sorgt in den Justizvollzugsanstalten Wauwilermoos und Grosshof für die seelsorgerische Betreuung der eingewiesenen Personen.
+<sup>2</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug sorgt in den Justizvollzugsanstalten Wauwilermoos und Grosshof für die seelsorgerische Betreuung der eingewiesenen Personen. Sie kann Leistungsvereinbarungen mit Dritten abschliessen.
 
 <sup>3</sup> Sie wählt je einen Seelsorger oder eine Seelsorgerin der katholischen sowie der reformierten Konfession, die mit den eingewiesenen Personen frei verkehren können.
 
@@ -830,11 +847,11 @@ beschliesst:
 - g. den Sach- und den Beziehungsurlaub,
 - h. die Gesundheits- und Sozialbetreuung, Drogen, Alkohol und Medikamente,
 - i. das Versicherungswesen (Krankheit, Unfall sowie AHV/IV),
-- j. Arbeit, Aus- und Weiterbildung sowie Entgelt, Frei- und Sperrkonto,
+- j. Arbeit, Aus- und Weiterbildung sowie Entgelt, Frei-, Sperr- und Wiedergutmachungskonten,
 - k. die Disziplinarmassnahmen,
 - l. das Austrittsverfahren.
 
-<sup>2</sup> Die Hausordnungen bedürfen der Genehmigung des Justiz- und Sicherheitsdepartementes.
+<sup>2</sup> Die Hausordnungen bedürfen der Genehmigung der Dienststelle Militär, Zivilschutz und Justizvollzug.
 
 ## 9 Besondere Vorschriften zur Untersuchungs- und Sicherheitshaft in der Justizvollzugsanstalt Grosshof
 
@@ -875,6 +892,8 @@ beschliesst:
 **Urlaub und Erleichterungen**
 
 <sup>1</sup> Über die Gewährung von Urlaub und Erleichterungen für Personen in Untersuchungs- oder Sicherheitshaft entscheidet die Staatsanwaltschaft oder das Gericht.
+
+<sup>2</sup> Der Vollzugs- und Bewährungsdienst entscheidet über Vollzugsöffnungen für Personen, die sich im Rahmen eines nachträglichen gerichtlichen Verfahrens im Sinn von Artikel 363 ff. StPO in Sicherheitshaft befinden. Zieht er eine Vollzugsöffnung in Betracht, gibt er dem Gericht Gelegenheit zur Stellungnahme. Vorbehalten bleibt der Entscheid des Gerichtes über eine Entlassung.
 
 ## 10 Disziplinar- und Beschwerdeordnung
 
@@ -952,7 +971,7 @@ beschliesst:
 
 #### § 93
 
-<sup>1</sup> Der Regierungsrat fördert im Rahmen der Richtlinien des Strafvollzugskonkordates die Aus- und Weiterbildung der im Sanktionenvollzug tätigen Mitarbeiterinnen und Mitarbeiter.
+<sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug fördert im Rahmen der Richtlinien des Strafvollzugskonkordates die Aus- und Weiterbildung der im Sanktionenvollzug tätigen Mitarbeiterinnen und Mitarbeiter.
 
 ## 13 Schlussbestimmungen
 
