@@ -4,13 +4,13 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-12-15
+version: 2021-07-01
+valid_until: 2021-09-30
+version_adopted: 2021-03-16
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5107/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5270/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Krankenversicherung: Verordnung | Kranken- und Unfallversicherung
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. Januar 2021)
+Vom 25. November 2008 (Stand 1. Juli 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -191,6 +191,8 @@ Bei Aufenthalt der versicherten Person, welche weder eine Rente der AHV oder IV 
 **Eigenbeitrag der versicherten Person an die Kosten der ambulanten Pflege**
 
 <sup>1</sup> Der maximale Eigenbeitrag der versicherten Person gemäss Art. 25a Abs. 5 KVG an die Kosten der ambulanten Pflege beträgt 10 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages pro Tag. Der maximale Eigenbeitrag ist nur bei einer Leistungsdauer von einer Stunde anrechenbar; bei kürzerer Leistungsdauer verringert sich der anrechenbare Eigenbeitrag anteilmässig (pro rata temporis).
+
+<sup>2</sup> Bei Beizug von zwei oder mehr Leistungserbringern pro Tag erhöht sich der maximale Eigenbeitrag insgesamt auf 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages pro Tag. Der anrechenbare Eigenbeitrag ist auf die Leistungserbringer anteilmässig der jeweiligen Leistungsdauer aufzuteilen (pro rata temporis), wobei der einzelne Leistungserbringer maximal den Eigenbeitrag gemäss Abs. 1 in Rechnung stellen darf.
 
 #### § 8c
 
