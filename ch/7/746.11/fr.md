@@ -4,11 +4,11 @@ title: "Ordonnance du 26 juin 2019 sur les installations de transport par condui
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: fr
-version: 2019-08-01
+version: 2021-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20190801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20190801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20190801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20190801/fr"
 
 (Ordonnance sur les installations de transport par conduites, OITC)
 
-du 26 juin 2019 (Etat le 1<sup>er</sup> août 2019)
+du 26 juin 2019 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -341,7 +341,7 @@ Les documents suivants doivent être joints à la demande:
 
 <sup>1</sup> Une fois que la mise en place ou la modification de l’installation de transport par conduites est terminée, l’entreprise adresse à l’OFEN une demande d’autorisation de mise en exploitation de tout ou partie de l’installation.
 
-<sup>2</sup> La demande doit être accompagnée d’une confirmation que les services d’intervention compétents ont été informés des plans d’intervention visés à l’art. 58 OSITC[^25-1] ou d’éventuelles modifications de ces plans.
+<sup>2</sup> La demande doit être accompagnée d’une confirmation que les services d’intervention compétents ont été informés de la mise en place ou de la modification de l’installation de transport par conduites.[^25-1]
 
 <sup>3</sup> L’OFEN délivre l’autorisation s’il existe une autorisation générale d’exploiter, si les exigences figurant à l’art. 30, al. 2, let. a et b, LITC sont remplies et si la réception technique visée à l’art. 22 a été effectuée avec succès. Il ordonne en outre les modifications à apporter au règlement d’exploitation conformément à l’art. 26.
 
@@ -357,7 +357,7 @@ Sont considérées comme des modifications techniques mineures:
 - d. les modifications minimes apportées aux bâtiments des installations annexes;
 - e. les déviations de conduites.
 
-[^25-1]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^25-1]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 26
 
@@ -382,8 +382,8 @@ Il comprend notamment les informations suivantes sur l’exploitation de l’ins
 - b. l’exploitation et la maintenance des stations et des différentes parties de la conduite;
 - c. le cahier des charges pour le contrôle et l’entretien des stations et des conduites;
 - d. l’information des propriétaires fonciers et des communes concernés;
-- e. l’organisation de la réparation des dommages et les plans d’intervention;
-- f. le programme de réduction des dommages;
+- e.[^26-1] l’organisation de la réparation des dommages;
+- f. [^26-2] ...
 - g. le déroulement des travaux de construction effectués par des tiers;
 - h. la liste du matériel de réparation.
 
@@ -397,6 +397,9 @@ Il comprend notamment les informations suivantes sur l’installation de transpo
 - d. la liste des règles spéciales d’exploitation;
 - e. les prescriptions relatives au contrôle et à la maintenance des conduites, du tracé et des installations annexes;
 - f. les prescriptions de sécurité relatives à l’exploitation et à la maintenance de l’installation.
+
+[^26-1]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-2]: Abrogée par l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 27
 

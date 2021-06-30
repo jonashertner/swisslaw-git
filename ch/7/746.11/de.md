@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Juni 2019 über Rohrleitungsanlagen zur Beförderung 
 short: RLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: de
-version: 2019-08-01
+version: 2021-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20190801/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20190801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20190801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20190801/de"
 
 (Rohrleitungsverordnung, RLV)
 
-vom 26. Juni 2019 (Stand am 1. August 2019)
+vom 26. Juni 2019 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -341,7 +341,7 @@ Dem Gesuch sind folgende Unterlagen beizulegen:
 
 <sup>1</sup> Das Gesuch um eine Bewilligung für die Inbetriebnahme der Anlage oder einzelner Anlageteile ist von der Unternehmung nach der Erstellung oder der Änderung der Rohrleitungsanlage dem BFE einzureichen.
 
-<sup>2</sup> Dem Gesuch ist eine Bestätigung beizulegen, wonach die zuständigen Ereignisdienste über die Einsatzpläne nach Artikel 58 RLSV[^25-1] oder allfällige Änderungen dieser Pläne informiert worden sind.
+<sup>2</sup> Dem Gesuch ist eine Bestätigung beizulegen, wonach die zuständigen Ereignisdienste über die Erstellung oder die Änderung der Rohrleitungsanlage informiert worden sind.[^25-1]
 
 <sup>3</sup> Das BFE erteilt die Bewilligung, wenn eine generelle Betriebsbewilligung vorliegt, die Voraussetzungen nach Artikel 30 Absatz 2 Buchstaben a und b RLG erfüllt sind und die technische Abnahmeprüfung nach Artikel 22 erfolgreich durchgeführt wurde. Zudem ordnet es die notwendigen Anpassungen des Betriebsreglements nach Artikel 26 an.
 
@@ -357,7 +357,7 @@ Als geringfügige technische Änderungen gelten:
 - d. unwesentliche bauliche Änderungen an Gebäuden von Nebenanlagen;
 - e. Leitungsumlegungen.
 
-[^25-1]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^25-1]: Fassung gemäss Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 26
 
@@ -382,8 +382,8 @@ Es umfasst insbesondere die folgenden Angaben über den Betrieb der Anlage:
 - b. den Betrieb und die Instandhaltung der Stationen und der verschiedenen Leitungsabschnitte;
 - c. die Pflichtenhefte für die Kontrolle und den Unterhalt von Stationen und Leitungen;
 - d. das Konzept über die Information der betroffenen Grundeigentümer und Grundeigentümerinnen sowie der betroffenen Gemeinden;
-- e. die Organisation zur Behebung von Schäden und die Einsatzpläne;
-- f. das Konzept für die Schadensminimierung;
+- e.[^26-1] die Organisation zur Behebung von Schäden;
+- f.[^26-2] ...
 - g. das Vorgehen bei Bauarbeiten Dritter;
 - h. die Liste des Reparaturmaterials.
 
@@ -397,6 +397,9 @@ Es umfasst insbesondere die folgenden Angaben über die Rohrleitungsanlage:
 - d. die Liste der betrieblichen Sonderregelungen;
 - e. die Vorschriften über die Kontrolle und die Instandhaltung von Leitungen, Trassee und Nebenanlagen;
 - f. die Sicherheitsbestimmungen für den Betrieb und die Instandhaltung der Anlagen.
+
+[^26-1]: Fassung gemäss Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-2]: Aufgehoben durch Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 27
 
@@ -516,7 +519,7 @@ Strafbar im Sinne von Artikel 45 RLG ist:
 
 Die Rohrleitungsverordnung vom 2. Februar 2000[^35-1] wird aufgehoben.
 
-[^35-1]: [[AS 2000 746](https://fedlex.data.admin.ch/eli/oc/2000/125), [2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)Anhang 2 Ziff. 4, [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)Anhang Ziff. 4, [2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)Ziff. III, [2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)Anhang Ziff. 1]
+[^35-1]: [[AS 2000 746](https://fedlex.data.admin.ch/eli/oc/2000/125); [2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)Anhang 2 Ziff. 4; [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)Anhang Ziff. 4; [2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)Ziff. III; [2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)Anhang Ziff. 1]
 
 #### Art. 36
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 26 giugno 2019 sugli impianti di trasporto in condotta di 
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: it
-version: 2019-08-01
+version: 2021-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20190801/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20190801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20190801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20190801/it"
 
 (Ordinanza sugli impianti di trasporto in condotta, OITC)
 
-del 26 giugno 2019 (Stato 1° agosto 2019)
+del 26 giugno 2019 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -341,7 +341,7 @@ La domanda è corredata dei documenti seguenti:
 
 <sup>1</sup> L’impresa presenta all’UFE la domanda per la messa in esercizio dell’impianto o di singole parti dell’impianto al termine della costruzione o dopo la modifica dell’impianto di trasporto in condotta.
 
-<sup>2</sup> La domanda di autorizzazione deve contenere la conferma dei servizi d’intervento interessati di essere stati informati in merito ai nuovi piani d’intervento secondo l’articolo 58 OSITC[^25-1] o alla loro modifica.
+<sup>2</sup> La domanda di autorizzazione deve contenere la conferma secondo cui i servizi d’intervento interessati sono stati informati in merito alla costruzione o alla modifica dell’impianto di trasporto in condotta.[^25-1]
 
 <sup>3</sup> L’UFE rilascia l’autorizzazione in presenza di un’autorizzazione d’esercizio generale, se sono soddisfatte le condizioni di cui all’articolo 30 capoverso 2 lettere a e b LITC e dopo il superamento del collaudo tecnico secondo l’articolo 22. Inoltre ordina i necessari adeguamenti del regolamento d’esercizio secondo l’articolo 26.
 
@@ -357,7 +357,7 @@ Sono considerate modifiche tecniche esigue:
 - d. i cambiamenti costruttivi irrilevanti presso edifici degli impianti accessori;
 - e. gli spostamenti di condotte.
 
-[^25-1]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^25-1]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 26
 
@@ -382,8 +382,8 @@ Comprende in particolare le seguenti indicazioni sull’esercizio dell’impiant
 - b. l’esercizio e la manutenzione delle stazioni e dei diversi segmenti della condotta;
 - c. gli elenchi degli obblighi per il controllo e la manutenzione di stazioni e condotte;
 - d. il concetto per l’informazione ai proprietari e ai Comuni interessati;
-- e. l’organizzazione delle riparazioni in caso di avarie e piani d’intervento;
-- f. il piano per contenere al minimo i danni;
+- e.[^26-1] l’organizzazione delle riparazioni in caso di avarie;
+- f.[^26-2] ...
 - g. le procedure in caso di lavori edili eseguiti da terzi;
 - h. l’elenco dei materiali per le riparazioni.
 
@@ -397,6 +397,9 @@ Comprende in particolare le seguenti indicazioni sull’impianto di trasporto in
 - d. l’elenco delle regolamentazioni speciali a livello operativo;
 - e. le prescrizioni relative al controllo e alla manutenzione di condotte, tracciati e impianti accessori;
 - f. le disposizioni di sicurezza per l’esercizio e la manutenzione degli impianti.
+
+[^26-1]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
+[^26-2]: Abrogata dall’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, con effetto dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 #### Art. 27
 
