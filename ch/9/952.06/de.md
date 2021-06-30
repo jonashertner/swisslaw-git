@@ -4,20 +4,20 @@ title: "Verordnung vom 30. November 2012 über die Liquidität der Banken und We
 short: LiqV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: de
-version: 2020-01-01
+version: 2021-07-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2012-883-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Liquidität der Banken und Wertpapierhäuser****
+# Verordnung über die Liquidität der Banken und Wertpapierhäuser
 
 (Liquiditätsverordnung, LiqV)[^t-1]
 
-vom 30. November 2012 (Stand am 1. Januar 2020)
+vom 30. November 2012 (Stand am 1. Juli 2021)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 11 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -53,26 +53,13 @@ verordnet:
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
-## 2. Kapitel: Berichterstattung
+## 2. Kapitel: ...
 
-#### Art. 3
+#### Art. 3 und 4
 
-**Datenerhebungen**
+[^34-1]
 
-<sup>1</sup> Die FINMA kann von den Banken verlangen, über die Liquidität nach den Vorgaben des Basler Ausschusses für Bankenaufsicht[^3-1] Bericht zu erstatten.
-
-<sup>2</sup> Sie ist namentlich befugt, Daten zur Berechnung der Quote für strukturelle Liquidität (*Net Stable Funding Ratio,* NSFR) und bei Bedarf zu weiteren Beobachtungskennzahlen auf Stufe Finanzgruppe und Einzelinstitut zu erheben.[^3-2]
-
-[^3-1]: Basler Ausschuss für Bankenaufsicht – Basel III: International framework for liquidity risk measurement, standards and monitoring, Dezember 2010, abrufbar unter www.bis.org/bcbs/basel3.htm
-[^3-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
-
-#### Art. 4
-
-**Aufgaben der Prüfgesellschaft**[^4-1]
-
-Die Prüfgesellschaft hat die Richtigkeit der Berichterstattung zur NSFR und zu weiteren Beobachtungskennzahlen gemäss den technischen Ausführungsbestimmungen der FINMA zu bestätigen.
-
-[^4-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^34-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 ## 3. Kapitel: Liquiditätsanforderungen
 
@@ -149,15 +136,16 @@ Bei der Auswahl der Stressszenarien sind zu berücksichtigen:
 
 #### Art. 11
 
-**Aufgaben der Prüfgesellschaft**
+[^11-1]
 
-Die Prüfgesellschaft hat die Erfüllung der qualitativen Anforderungen gemäss den technischen Ausführungsbestimmungen der FINMA zu den Artikeln 5–10 zu bestätigen.
+[^11-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
-### 2. Abschnitt:**** Quantitative Anforderungen
+### 2. Abschnitt: Quantitative Anforderungen: Quote für kurzfristige Liquidität
 
-[^chap3-sec2-1]
+[^chap3-sec2-1][^chap3-sec2-2]
 
 [^chap3-sec2-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015, Art. 17*e* Abs. 2 und 3 in Kraft seit 1. Jan. 2017 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^chap3-sec2-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 12
 
@@ -169,12 +157,14 @@ Die Prüfgesellschaft hat die Erfüllung der qualitativen Anforderungen gemäss 
 
 #### Art. 13
 
-**Berechnung**
+**Berechnung der LCR[^13-1]**
 
 Die LCR entspricht dem Quotienten aus:
 
 - a. dem Bestand an HQLA (im Zähler);
 - b. dem Wert des Nettomittelabflusses, der gemäss Stressszenario im 30-Tage-Horizont zu erwarten ist (im Nenner).
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 14
 
@@ -287,7 +277,7 @@ Aktiva der Kategorie 2a umfassen folgende Vermögenswerte:
   - 1\. einer Zentralregierung,
   - 2\. einer Zentralbank,
   - 3\. einer untergeordneten Gebietskörperschaft oder einer sonstigen öffentlich-rechtlichen Körperschaft,
-  - 4\. und 5.[^15b-1] …
+  - 4\. und 5.[^15b-1] ...
   - 6\. multilateralen Entwicklungsbanken;
 
 - a<sup>bis</sup> marktgängige Wertpapiere, die von den Institutionen nach Buchstabe a garantiert werden;
@@ -507,11 +497,254 @@ Die FINMA kann für Mittelab- und -zuflüsse zwischen einer Muttergesellschaft u
 
 [^17e-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
+### 2*a*. Abschnitt: Quantitative Anforderungen: Finanzierungsquote
+
+[^chap3-sec2a-1]
+
+[^chap3-sec2a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
 #### Art. 17f
 
-**Prüfgesellschaften**
+**Finanzierungsquote**[^17f-1]
 
-Die Prüfgesellschaft hat die Richtigkeit der gemeldeten Daten des Liquiditätsnachweises und die Einhaltung der LCR gemäss den Vorgaben zum Prüfwesen zu bestätigen.
+<sup>1</sup> Mit der Finanzierungsquote *(Net Stable Funding Ratio*, NSFR) soll sichergestellt werden, dass die stabile Finanzierung einer Bank über einen einjährigen Zeithorizont dauernd gewährleistet ist.
+
+<sup>2</sup> Die Finanzierung ist stabil, wenn die Aktiva sowie die Ausserbilanzpositionen nach Anhang 5 Ziffern 8, 9.1 und 9.2 dauerhaft und tragfähig finanziert sind.
+
+[^17f-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17g
+
+**Berechnung der NSFR**[^17g-1]
+
+Die NSFR entspricht dem Quotienten aus:
+
+- a. der verfügbaren stabilen Finanzierung *(Available Stable Funding*, ASF) im Zähler;
+- b. der erforderlichen stabilen Finanzierung *(Required Stable Funding*, RSF) im Nenner.
+
+[^17g-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17h
+
+**Erfüllung der Anforderungen an die NSFR**[^17h-1]
+
+<sup>1</sup> Die Bank erfüllt die Anforderungen an die NSFR, wenn der Quotient nach Artikel 17*g* mindestens 1 ist.
+
+<sup>2</sup> Die NSFR ist auf Stufe Finanzgruppe und auf Stufe Einzelinstitut für die Gesamtheit der Positionen nach den Artikeln 17*k* und 17*m* über sämtliche Währungen umgerechnet in Schweizerfranken zu erfüllen.
+
+<sup>3</sup>
+
+Für Einzelinstitute, die zu einer Finanzgruppe gehören, kann die FINMA zulassen, dass:
+
+- a. die Anforderungen an die NSFR aggregiert über mehrere in der Schweiz domizilierte Einzelinstitute erfüllt werden; oder
+- b. überschüssige Finanzierung eines in der Schweiz domizilierten Einzelinstituts für ein anderes in der Schweiz domiziliertes Einzelinstitut angerechnet wird.
+
+<sup>4</sup> Die Einzelinstitute nach Absatz 3, die in der Schweiz domiziliert sind, müssen jedoch eigenständig mindestens eine NSFR von 0,8 aufweisen.
+
+<sup>5</sup> Einzelinstitute mit wesentlichen inländischen systemrelevanten Funktionen müssen in jedem Fall auch eigenständig die NSFR erfüllen.
+
+<sup>6</sup> Artikel 14 Absätze 3–6 gilt sinngemäss.
+
+[^17h-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17i
+
+**Berechnung besicherter Finanzierungsgeschäfte**[^17i-1]
+
+<sup>1</sup> Wertpapiere, die die Bank aus Reverse-Repo-Geschäften und Sicherheitenswaps erhält, sind nur dann als Aktiva zu erfassen, wenn die Bank Inhaberin der mit den Wertpapieren verbundenen Rechte wird und das Marktrisiko der Wertpapiere trägt.
+
+<sup>2</sup> Wertpapiere, die die Bank im Rahmen von Repo-Geschäften und Sicherheitenswaps verleiht und die dadurch belastet werden, sind nur dann als Aktiva zu erfassen, wenn die Bank Inhaberin der mit den Wertpapieren verbundenen Rechte bleibt und das Marktrisiko der Wertpapiere trägt.
+
+<sup>3</sup>
+
+Forderungen und Verbindlichkeiten dürfen nur miteinander verrechnet werden, wenn:
+
+- a. es sich um ein besichertes Finanzierungsgeschäft mit ein und derselben Gegenpartei handelt; und
+- b. die Bedingungen nach Absatz 33(i) des Basler Regelwerks zur Höchstverschuldungsquote *(Leverage Ratio)*[^17i-2] erfüllt sind.
+
+<sup>4</sup>
+
+Die FINMA erlässt Ausführungsbestimmungen für die Berechnung:
+
+- a. in den Fällen, in denen die Restlaufzeit der belasteten Wertpapiere kürzer ist als die Laufzeit des besicherten Finanzierungsgeschäfts;
+- b. von teilweise besicherten Finanzierungsgeschäften;
+- c. von besicherten Finanzierungsgeschäften ohne Laufzeitbeschränkung.
+
+[^17i-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17i-2]: Basler Ausschuss für Bankenaufsicht (2014): Basel III Leverage Ratio Framework and Disclosure Requirements; abrufbar unter www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+
+#### Art. 17j
+
+**Berechnung von Verbindlichkeiten und Forderungen aus Derivatgeschäften**[^17j-1]
+
+<sup>1</sup> Verbindlichkeiten aus Derivatgeschäften berechnen sich anhand der negativen Wiederbeschaffungswerte der ausstehenden Kontrakte zum Marktpreis.
+
+<sup>2</sup> Forderungen aus Derivatgeschäften berechnen sich anhand der positiven Wiederbeschaffungswerte der ausstehenden Kontrakte zum Marktpreis.
+
+<sup>3</sup> Bestehen Verrechnungsvereinbarungen zwischen der Bank und ihrer Gegenpartei, die die Bedingungen der Absätze 8 und 9 im Anhang des Basler Regelwerks zur Leverage Ratio[^17j-2] erfüllen, so sind für die durch diese Vereinbarungen gedeckten Derivategeschäfte die Netto-Wiederbeschaffungswerte massgeblich.
+
+<sup>4</sup> Bei der Berechnung der Verbindlichkeiten aus Derivatgeschäften sind die in Form von Nachschusszahlungen hinterlegten Sicherheiten unabhängig von der Art der Sicherheit vom Betrag des negativen Wiederbeschaffungswerts abzuziehen.
+
+<sup>5</sup> Bei der Berechnung der Forderungen aus Derivatgeschäften dürfen keine erhaltenen Sicherheiten vom Betrag des positiven Wiederbeschaffungswerts abgezogen werden, es sei denn, die Bank hat Sicherheiten aus Nachschusszahlungen in Form von Aktiva der Kategorie 1 nach Artikel 15*a* erhalten und die weiteren Bedingungen nach Absatz 25 des Basler Regelwerks zur Leverage Ratio sind erfüllt.
+
+[^17j-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17j-2]: Basler Ausschuss für Bankenaufsicht (2014): Basel III Leverage Ratio Framework and Disclosure Requirements; abrufbar unter www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+
+#### Art. 17k
+
+**Berechnung der ASF**[^17k-1]
+
+<sup>1</sup>
+
+Der Betrag der ASF berechnet sich, indem:
+
+- a. die Buchwerte der Verbindlichkeiten und des Eigenkapitals den ASF-Kategorien nach Anhang 4 zugewiesen und durch Multiplikation mit dem jeweiligen ASF-Faktor gewichtet werden; und
+- b. die nach Buchstabe a gewichteten Buchwerte über alle ASF-Kategorien addiert werden.
+
+<sup>2</sup> Der Buchwert von Eigenkapitalinstrumenten und Verbindlichkeiten, die anrechenbare Eigenmittel nach den Artikeln 21–30 ERV[^17k-2] sind, bestimmt sich nach dem Wert vor Anwendung der Korrekturen nach den Artikeln 31–40 ERV.
+
+[^17k-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17k-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+#### Art. 17l
+
+**Bestimmung der Restlaufzeit von Eigenkapitalinstrumenten und Verbindlichkeiten**[^17l-1]
+
+<sup>1</sup> Bestehen bei Eigenkapitalinstrumenten und Verbindlichkeiten für die Anlegerinnen und Anleger oder die Gläubigerinnen und Gläubiger Optionen auf Kündigung, vorzeitigen Rückkauf oder Auflösung, so ist für die Bestimmung der Restlaufzeit davon auszugehen, dass die Optionen zum frühestmöglichen Zeitpunkt ausgeübt werden.
+
+<sup>2</sup> Besteht die Markterwartung von Anlegerinnen und Anlegern oder Gläubigerinnen und Gläubigern, dass die Bank namentlich aus Reputationsgründen Optionen zum Rückkauf von Eigenkapitalinstrumenten und von Verbindlichkeiten vor der vertraglich vereinbarten Fälligkeit ausübt, so sind die Eigenkapitalinstrumente und Verbindlichkeiten der ASF-Kategorie nach Anhang 4 zuzuweisen, die der erwarteten verkürzten Restlaufzeit entspricht.
+
+<sup>3</sup> Bestehen Verlängerungsoptionen, so ist davon auszugehen, dass weder die Bank noch die Anlegerinnen und Anleger oder die Gläubigerinnen und Gläubiger sie ausüben. Verlängerungsoptionen der Bank können dann berücksichtigt werden, wenn die Verlängerung keine negativen Reputationswirkungen nach sich zieht.
+
+<sup>4</sup> Für langfristige Verbindlichkeiten mit gestaffelten Fälligkeiten muss nur der Teil, der innerhalb eines Jahres fällig wird, der ASF-Kategorie mit einer Restlaufzeit von weniger als einem Jahr zugewiesen werden.
+
+<sup>5</sup> Kann ein Eigenkapitalinstrument oder eine Verbindlichkeit mehreren ASF-Kategorien zugeordnet werden, so ist die Kategorie mit dem niedrigsten ASF-Faktor massgebend.
+
+[^17l-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17m
+
+**Berechnung der RSF**[^17m-1]
+
+<sup>1</sup>
+
+Der Betrag der RSF berechnet sich, indem:
+
+- a. die Buchwerte der Aktiva und Ausserbilanzpositionen den RSF-Kategorien nach Anhang 5 zugewiesen und durch Multiplikation mit dem jeweiligen RSF-Faktor gewichtet werden; und
+- b. die nach Buchstabe a gewichteten Buchwerte über alle RSF-Kategorien addiert werden.
+
+<sup>2</sup> Der Buchwert der Aktiva und Ausserbilanzpositionen berechnet sich nach ihrem im Abschluss ausgewiesenen Wert. Wertberichtigungen sind nach Absatz 52 des Standardansatzes unter Basel II und Absatz 12 des Basler Regelwerks zur Leverage Ratio[^17m-2] zu berücksichtigen.
+
+<sup>3</sup> Bei der Berechnung des Buchwerts von lastenfreien Hypothekarforderungen für Wohnliegenschaften nach Anhang 5 Ziffer 5.1 sind die als Sicherheiten für Pfandbriefdarlehen nach PfG[^17m-3] verpfändeten Aktiven gesamthaft in Abzug zu bringen.
+
+<sup>4</sup> Bei der Berechnung des Buchwerts von belasteten Hypothekarforderungen und der Dauer ihrer Belastung ist vom Buchwert und der Restlaufzeit der zu sichernden Pfandbriefdarlehen auszugehen.
+
+<sup>5</sup> Die FINMA erlässt Ausführungsbestimmungen zu den Berechnungen nach den Absätzen 3 und 4.
+
+<sup>6</sup> Sie kann auf Antrag der SNB die RSF-Faktoren von bestimmten Geschäften temporär reduzieren, soweit damit einer massgeblichen Erschwerung der Umsetzung der Geldpolitik entgegengewirkt werden kann.
+
+[^17m-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17m-2]: Basler Ausschuss für Bankenaufsicht (2014): Basel III Leverage Ratio Framework and Disclosure Requirements; abrufbar unter www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+[^17m-3]: [SR 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+
+#### Art. 17n
+
+**Bestimmung der Restlaufzeit von Aktiva und Ausserbilanzpositionen**[^17n-1]
+
+<sup>1</sup> Für die Bestimmung der Restlaufzeit von Aktiva und Ausserbilanzpositionen ist die vertraglich vereinbarte Laufzeit massgeblich.
+
+<sup>2</sup> Bestehen für die Gegenparteien oder die Schuldnerinnen und Schuldner Optionen auf Laufzeitverlängerung, so ist davon auszugehen, dass die Optionen ausgeübt werden. Beginnt die Laufzeitverlängerung ab dem Zeitpunkt der Ausübung einer Option, so ist davon auszugehen, dass die Gegenparteien oder die Schuldnerinnen und Schuldner die Option zum spätestmöglichen Zeitpunkt ausüben.
+
+<sup>3</sup> Besteht die Markterwartung von Gegenparteien oder Schuldnerinnen und Schuldnern, dass die Bank namentlich aus Reputationsgründen Optionen auf Laufzeitverlängerung ausübt, so sind die Aktiva und Ausserbilanzpositionen der RSF-Kategorie zuzuweisen, die der erwarteten verlängerten Restlaufzeit entspricht.
+
+<sup>4</sup> Bestehen Optionen auf vorzeitige Kündigung oder Rückzahlung, so ist davon auszugehen, dass die Bank, die Gegenparteien oder die Schuldnerinnen und Schuldner sie nicht ausüben.
+
+<sup>5</sup> Bei Tilgungsdarlehen, Ratenkrediten und Annuitätendarlehen darf nur der Teil, der innerhalb eines Jahres fällig wird, der RSF-Kategorie mit einer Restlaufzeit von weniger als einem Jahr zugewiesen werden.
+
+<sup>6</sup> Kann ein Aktivum oder eine Ausserbilanzposition mehreren RSF-Kategorien zugeordnet werden, so ist die Kategorie mit dem höchsten RSF-Faktor massgebend.
+
+[^17n-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17o
+
+**Berechnung des Stichtags**[^17o-1]
+
+<sup>1</sup> Der für die Berechnung der NSFR massgebliche Stichtag ergibt sich aus den für die Bank massgeblichen Rechnungslegungsvorschriften.
+
+<sup>2</sup> Erlauben die Rechnungslegungsvorschriften der Bank sowohl das Erfüllungstags- als auch das Abschlusstagsprinzip, so kann die Bank das Erfüllungstagsprinzip auch dann anwenden, wenn die Rechnungslegung nach dem Abschlusstagsprinzip erfolgt.
+
+<sup>3</sup> Der ASF-Faktor für die aus dem Abschlusstagsprinzip entstehenden Verbindlichkeiten ergibt sich aus Anhang 4 Ziffer 6.4, der RSF-Faktor für die daraus entstehenden Forderungen aus Anhang 5 Ziffer 1.4.
+
+[^17o-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17p
+
+**Bestimmung voneinander abhängiger Verbindlichkeiten und Forderungen**[^17p-1]
+
+<sup>1</sup> Die FINMA bestimmt die voneinander abhängigen Verbindlichkeiten und Forderungen, auf die ein ASF- und ein RSF-Faktor von 0 Prozent angewendet werden darf. Sie berücksichtigt dabei die internationalen Entwicklungen.
+
+<sup>2</sup>
+
+Die Anwendung eines ASF- und eines RSF-Faktors von 0 Prozent ist nur zulässig, wenn:
+
+- a. die einzelnen voneinander abhängigen Forderungen und Verbindlichkeiten klar identifizierbar sind;
+- b. die Laufzeit und der Grundbetrag der voneinander abhängigen Verbindlichkeiten und Forderungen identisch sind;
+- c. die aus der erhaltenen Finanzierung entstandene Verbindlichkeit mit der entsprechenden abhängigen Forderung übereinstimmt; und
+- d. die Gegenpartei einer Forderung nicht mit der Gegenpartei einer Verbindlichkeit identisch ist.
+
+[^17p-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17q
+
+**Finanzierungsnachweis**[^17q-1]
+
+<sup>1</sup> Die FINMA bestimmt Form und Inhalt der Formulare für den Nachweis der Erfüllung der NSFR (Finanzierungsnachweis). Sie kann für Banken der Kategorien 4 und 5 nach Anhang 3 BankV[^17q-2] Erleichterungen vorsehen.
+
+<sup>2</sup> Die Banken stützen sich für die Bewertung der im Finanzierungsnachweis aufgeführten Positionen auf den gemäss den Rechnungslegungsvorschriften erstellten Abschluss.
+
+<sup>3</sup> Nicht systemrelevante Banken reichen den Finanzierungsnachweis quartalsweise innert 60 Kalendertagen ab dem letzten Kalendertag des Quartals bei der SNB ein. Banken der Kategorien 4 und 5 reichen ihn halbjährlich ein. Die FINMA kann einer Bank auf Antrag in begründeten Fällen erlauben, diesen Nachweis in grösseren Zeitabständen einzureichen.
+
+<sup>4</sup> Systemrelevante Banken reichen den Finanzierungsnachweis monatlich innert 30 Kalendertagen ab dem letzten Kalendertag des Monats bei der SNB ein.
+
+<sup>5</sup> Die FINMA kann gesonderte Meldepflichten für Banken festsetzen, die sich nach Artikel 14 Absatz 5 zu einem bedeutenden Teil über Niederlassungen im Ausland finanzieren.
+
+[^17q-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17q-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
+#### Art. 17r
+
+**Gruppeninterne Finanzierungen**[^17r-1]
+
+Die FINMA kann für Finanzierungen innerhalb derselben Finanzgruppe von den Anhängen 4 und 5 abweichende ASF-Faktoren und RSF-Faktoren festlegen, namentlich wenn:
+
+- a. die gruppeninterne Gegenpartei selbst keine ausreichende stabile Finanzierung aufweist;
+- b. hierdurch nachteilige Effekte von Finanzierungen innerhalb derselben Finanzgruppe durch die asymmetrische Behandlung von Transaktionen mit Laufzeiten von bis zu sechs Monaten ausgeglichen werden; oder
+- c. es sich um gruppeninterne Eventualverpflichtungen aus Garantien entsprechend Anhang 5 Ziffer 9.2 handelt.
+
+[^17r-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17s
+
+**Offenlegung**[^17s-1]
+
+<sup>1</sup> Die Banken informieren die Öffentlichkeit regelmässig in angemessener Weise über ihre Finanzierungssituation und ihre NSFR.
+
+<sup>2</sup> Die FINMA regelt die Einzelheiten der Offenlegung. Sie bestimmt insbesondere, welche NSFR-relevanten Informationen zusätzlich zur NSFR offenzulegen sind.
+
+[^17s-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+### 2*b*. Abschnitt: Vereinfachung für besonders liquide und gut kapitalisierte Banken der Kategorien 4 und 5
+
+[^chap3-sec2b-1]
+
+[^chap3-sec2b-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17t
+
+Banken der Kategorien 4 und 5 nach Anhang 3 BankV[^17t-1], die nach Artikel 47*a* ERV[^17t-2] von der Einhaltung der Bestimmungen über die erforderlichen Eigenmittel dispensiert sind, sind auch von der Einhaltung der Bestimmungen über die Finanzierungsquote nach den Artikeln 17*f*–17*s* befreit.
+
+[^17t-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^17t-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 ### 3. Abschnitt: Quantitative Anforderung für privilegierte Einlagen
 
@@ -536,6 +769,33 @@ Die Banken melden der FINMA im Rahmen des allgemeinen Meldewesens die Summe:
 [^18-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 [^18-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^18-3]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
+### 4. Abschnitt: Beobachtungskennzahlen
+
+[^chap3-sec4-1]
+
+[^chap3-sec4-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 18a
+
+Die FINMA kann neben den Angaben zur LCR und zur NSFR Angaben zu weiteren Beobachtungskennzahlen auf den Stufen Finanzgruppe und Einzelinstitut unter Berücksichtigung von Grösse sowie Art, Umfang, Komplexität und Risikogehalt der Geschäftsaktivitäten einer Bank erheben, sofern sie für die Umsetzung dieser Verordnung erforderlich sind.
+
+### 5. Abschnitt: Aufgaben der Prüfgesellschaft
+
+[^chap3-sec5-1]
+
+[^chap3-sec5-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 18b
+
+<sup>1</sup>
+
+Die Prüfgesellschaft prüft gemäss den Vorgaben zum Prüfwesen, ob:
+
+- a. die qualitativen und quantitativen Anforderungen nach dieser Verordnung und den Ausführungsbestimmungen der FINMA erfüllt sind; und
+- b. die Angaben des Liquiditätsnachweises, des Finanzierungsnachweises und, sofern durch die FINMA gefordert, auch zu den Beobachtungskennzahlen richtig sind.
+
+<sup>2</sup> Sie bestätigt das Prüfergebnis.
 
 ## 4. Kapitel: Besondere Bestimmungen für systemrelevante Banken
 
@@ -732,11 +992,19 @@ Die nicht systemrelevanten Banken erfüllen die LCR nach Artikel 14 Absätze 1 u
 
 [^31a-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
+#### Art. 31b
+
+**Übergangsbestimmung zur Änderung vom 11. September 2020**[^31b-1]
+
+Das Eidgenössische Finanzdepartement überprüft die Artikel 17*h* Absatz 3, 17*p* Absatz 2 Buchstabe b und die RSF-Faktoren nach Anhang 5 Ziffer 2 und 3.4 im Hinblick auf die Vergleichbarkeit und den Grad der Umsetzung in Rechtsordnungen von mass-geblichen ausländischen Finanzplätzen. Es erstattet dem Bundesrat, sobald es über gefestigte Kenntnisse verfügt, spätestens aber im Juni 2022, darüber Bericht und zeigt den allfälligen regulatorischen Anpassungsbedarf auf.
+
+[^31b-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
 #### Art. 32
 
 **Änderung bisherigen Rechts**
 
-…[^32-1]
+...[^32-1]
 
 [^32-1]: Die Änderung kann unter [AS 2012 7251](https://fedlex.data.admin.ch/eli/oc/2012/883)konsultiert werden.
 
@@ -750,7 +1018,7 @@ Die nicht systemrelevanten Banken erfüllen die LCR nach Artikel 14 Absätze 1 u
 
 <sup>3</sup> Die Bestimmungen des 4. Kapitels treten am fünfzehnten Tag des der Genehmigung durch die Bundesversammlung folgenden Monats in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 15*a* Abs. 2 Bst. c und 15*b* Abs. 2 Bst. b)
 
@@ -790,13 +1058,13 @@ B. Als Finanzinstitut gelten auch Holdingstrukturen, in denen Anbieter von Diens
 
 C. Nicht als Finanzinstitut gelten Finanzierungstöchter von Nicht-Finanzinstituten, die über keine Bankenbewilligung verfügen und die eine oder mehrere der oben genannten Tätigkeiten ausschliesslich für Konzerngesellschaften erbringen.
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 16 Abs. 3)
 
 ## Mittelabflüsse und Abflussraten
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^t-3]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) und Ziff. II Abs. 1 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Abflusskategorien</th><th></th><th>Abflussrate (in Prozent)</th></tr>
@@ -821,7 +1089,7 @@ Anhang 2*[^t-3]*
 <tr><td>2.6 Unbesicherte Schuldverschreibungen</td><td></td><td>100</td></tr>
 <tr><td>2.7 Zusätzliche notwendige Einlagen in Zentralbankreserven</td><td></td><td>100</td></tr>
 <tr><td>3. Besicherte Transaktionen und Sicherheitenswaps, die innert 30 Kalendertagen fällig werden, und bei denen die Sicherheiten nicht zur Deckung von Short-Positionen verwendet werden</td><td></td><td></td></tr>
-<tr><td>3.1 Besicherte Finanzierungsgeschäfte mit der SNB, die durch Aktiva der Kategorie 2b oder Wertpapiere, die nicht HQLA sind («Nicht-HQLA»), besichert sind, und Sicherheitenswaps, die den Austausch von Aktiva der gleichen Kategorie beinhalten und nicht glattgestellt werden</td><td></td><td>0</td></tr>
+<tr><td>3.1 Besicherte Finanzierungsgeschäfte mit der SNB, die durch Aktiva der Kategorie 2*b* oder Aktiva, die nicht HQLA sind («Nicht-HQLA»), besichert sind, und Sicherheitenswaps, die den Austausch von Aktiva der gleichen Kategorie beinhalten und nicht glattgestellt werden</td><td></td><td>0</td></tr>
 <tr><td>3.2 Besicherte Finanzierungsgeschäfte, die durch Aktiva der Kategorie 2b oder Nicht-HQLA besichert sind und deren Gegenpartei:</td><td></td><td></td></tr>
 <tr><td>– die eigene Zentralregierung oder multilaterale Entwicklungsbanken sind; oder</td><td></td><td></td></tr>
 <tr><td>– inländische untergeordnete Gebietskörperschaften oder sonstige öffentlich-rechtliche Körperschaften mit einem Risikogewicht von höchstens 20 Prozent sind</td><td></td><td>25</td></tr>
@@ -843,7 +1111,7 @@ Anhang 2*[^t-3]*
 <tr><td>5.3 Erhöhter Liquiditätsbedarf aufgrund überschüssiger Sicherheiten, die von einer Bank im Zusammenhang mit Derivatgeschäften und anderen Transaktionen gehalten werden und die von der Gegenpartei vertraglich jederzeit zurückgerufen werden können</td><td></td><td>100</td></tr>
 <tr><td>5.4 Erhöhter Liquiditätsbedarf im Zusammenhang mit Sicherheiten für Derivatgeschäfte und anderen Transaktionen, die von der meldepflichtigen Bank vertraglich geschuldet sind</td><td></td><td>100</td></tr>
 <tr><td>5.5 Erhöhter Liquiditätsbedarf im Zusammenhang mit Derivatgeschäften und anderen Transaktionen, die eine Substitution der Sicherheiten durch die Gegenpartei mit Aktiva erlauben, die Nicht-HQLA sind</td><td></td><td>100</td></tr>
-<tr><td>5.6 Erhöhter Liquiditätsbedarf aufgrund von Marktwertveränderungen bei Derivatgeschäften und anderen Transaktionen</td><td></td><td>100 Prozent des grössten absoluten Nettomittelabflusses von Sicherheiten innert 30 Kalendertagen der letzten 24 Monate oder 100 Prozent nach internem Modellansatz</td></tr>
+<tr><td>5.6 Erhöhter Liquiditätsbedarf aufgrund von Marktwertveränderungen bei Derivatgeschäften und anderen Transaktionen</td><td></td><td>100 % des grössten absoluten Nettomittelflusses von Sicherheiten innert 30 Kalendertagen der letzten 24 Monate oder 100 % nach internem Modellansatz</td></tr>
 <tr><td>5.7 Erhöhter Liquiditätsbedarf aufgrund von Bewertungsänderungen auf für Derivatgeschäfte und andere Transaktionen gestellte Sicherheiten, welche nicht Aktiva der Kategorie 1 sind</td><td></td><td>20</td></tr>
 <tr><td>6. Verlust von Finanzierungsmöglichkeiten bei forderungsunterlegten Wertpapieren *(Asset-Backed Securities, ABS),* gedeckten Schuldverschreibungen und sonstigen strukturierten Finanzierungsinstrumenten (dies gilt für alle innert 30 Kalendertagen fällig werden den Beträge und zurückgegebenen Vermögenswerte)</td><td></td><td>100</td></tr>
 <tr><td>7. Verlust von Finanzierungsmöglichkeiten aus forderungsbesicherten Geldmarktpapieren *(Asset Backed Commercial Papers, ABCP),* Zweckgesellschaften *(Conduits),* Wertpapierfinanzierungs-vehikeln *(Securities Investment Vehicles)* und anderen ähnlichen Finanzierungsfazilitäten</td><td></td><td></td></tr>
@@ -863,7 +1131,7 @@ Anhang 2*[^t-3]*
 <tr><td>8.1.5 gegenüber der schweizerischen Einlagensicherung</td><td></td><td>50</td></tr>
 <tr><td>8.1.6 gegenüber allen anderen juristischen Personen und Geschäftskunden einschliesslich mit Finanzinstituten verbundener Gesellschaften</td><td></td><td>100</td></tr>
 <tr><td>8.2 Verbindlichkeiten aus unbedingt widerrufbaren, nicht beanspruchten und nicht fest zugesagten Kredit- und Liquiditätsfazilitäten</td><td></td><td>0</td></tr>
-<tr><td>9. Sonstige Eventualverpflichtungen zur Mittelbereitstellung wie Garantien, Akkreditive, widerrufbare Kredit- und Liquiditätsfazilitäten</td><td></td><td></td></tr>
+<tr><td>9. Sonstige Eventualverpflichtungen zur Mittelbereitstellung wie Garantien und Akkreditive</td><td></td><td></td></tr>
 <tr><td>9.1 Handelsfinanzierung (vergangenheitsbezogener Ansatz)</td><td></td><td>100 Prozent des durchschnittlichen Nettomittelabflusses über das gesamte Portfolio innert 30 Kalendertagen der letzten 24 Monate oder 5 Prozent des ausstehenden Nominalbetrags</td></tr>
 <tr><td>9.2 Garantien und Akkreditive, die nicht mit Handelsfinanzierungen zusammenhängen (vergangenheitsbezogener Ansatz)</td><td></td><td>100 Prozent des durchschnittlichen Nettomittelabflusses über das gesamte Portfolio innert 30 Kalendertagen der letzten 24 Monate oder 5 Prozent des ausstehenden Nominalbetrags</td></tr>
 <tr><td>9.3 Nicht vertragliche Verpflichtungen wie:</td><td></td><td></td></tr>
@@ -878,19 +1146,18 @@ Anhang 2*[^t-3]*
 <tr><td>12. Short-Positionen der Bank gedeckt durch besicherte Finanzierungsgeschäfte</td><td></td><td>0</td></tr>
 <tr><td>13. Sonstige vertragliche Mittelabflüsse innert 30 Tagen (wie Abflüsse zur Deckung von ungedeckten Wertpapierfinanzierungen, ungedeckten Short-Positionen, Dividenden oder vertraglichen Zinszahlungen)</td><td></td><td>100</td></tr>
 <tr><td>14. Vertragliche Verpflichtungen, Kreditausleihungen zu erneuern *(**«*Rollover*»**),* wenn diese vertraglichen Verpflichtungen nicht bereits in anderen Abflusskategorien erfasst sind:</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
 <tr><td>14.1 gegenüber Privatkundinnen und Privatkunden, Kleinunternehmen, Nichtfinanzunternehmen und anderen juristischen Personen einschliesslich mit Finanzinstituten verbundener Gesellschaften</td><td></td><td>100 Prozent, wenn die Differenz zwischen den Abflüssen nach 14.1 und der Hälfte der Zuflüsse gemäss Anhang 3, Ziffer 5.1 und 5.2. positiv ist. 0 Prozent, wenn die Differenz zwischen den Abflüssen nach 14.1 und der Hälfte der Zuflüsse gemäss Anhang 3, Ziffer 5.1 und 5.2. negativ ist.</td></tr>
 <tr><td>14.2 gegenüber Finanzinstituten</td><td></td><td>100</td></tr>
 <tr><td>15. Gruppeninterne Mittelabflüsse (nur für Einzelinstitut)</td><td></td><td>100</td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 16 Abs. 5)
 
 ## Mittelzuflüsse und Zuflussraten
 
-[^t-4]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^t-4]: Eingefügt durch Ziff. II der V vom 25. Juni 2014 ([AS 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Bereinigt gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) und Ziff. II Abs. 1 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Zuflusskategorien</th><th></th><th>Zuflussrate (in Prozent)</th></tr>
@@ -904,11 +1171,116 @@ Anhang 3*[^t-4]*
 <tr><td>2. Innert 30 Kalendertagen fällig werdende, besicherte Finanzierungsgeschäfte, Margenkredite und Sicherheitenswaps, wenn die Sicherheiten zur Deckung von Short Positionen verwendet werden</td><td></td><td>0</td></tr>
 <tr><td>3. Der berichtenden Bank gewährte Kredit- und Liquiditätsfazilitäten</td><td></td><td>0</td></tr>
 <tr><td>4. Operative Einlagen bei anderen Finanzinstituten (einschliesslich Einlagen beim Zentralinstitut eines Finanzverbundes)</td><td></td><td>0</td></tr>
-<tr><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>5. Sonstige Zuflüsse nach Gegenpartei</td><td></td><td></td></tr>
 <tr><td>5.1 Vertragliche Forderungen gegenüber Privatkundinnen und Privatkunden und Kleinunternehmen</td><td></td><td>50</td></tr>
 <tr><td>5.2 Vertragliche Forderungen gegenüber Nicht-Finanzinstituten und allen anderen juristischen Personen aus anderen Geschäften als den in den obigen Zuflusskategorien aufgeführten</td><td></td><td>50</td></tr>
 <tr><td>5.3 Vertragliche Forderungen gegenüber Finanzinstituten und Zentralbanken aus anderen Geschäften als den in den obigen Zuflusskategorien aufgeführten</td><td></td><td>100</td></tr>
 <tr><td>6. Sonstige vertragliche Mittelzuflüsse innert 30 Kalendertagen</td><td></td><td></td></tr>
+<tr><td>6.1 Nettomittelzufluss aus Derivatgeschäften</td><td></td><td>100</td></tr>
+<tr><td>6.2 Vertragliche Zuflüsse aus innert 30 Kalendertagen fällig werdenden Wertpapieren, die nicht HQLA sind und die an keiner anderen Stelle bereits berücksichtigt wurden</td><td></td><td>100</td></tr>
+<tr><td>6.3 Vertraglich vereinbarte, unwiderrufliche und nicht bereits an anderer Stelle berücksichtigte Mittelzuflüsse innert der nächsten 30 Tage</td><td></td><td>100</td></tr>
 <tr><td>7. Gruppeninterne Mittelzuflüsse innert 30 Kalendertagen (nur für Einzelinstitut)</td><td></td><td>100</td></tr>
+</table>
+
+Anhang 4[^t-5]
+
+(Art. 17*k*)
+
+## Gewichtungsfaktoren der verfügbaren stabilen Finanzierung (ASF)
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+<table>
+<tr><th>ASF-Kategorien</th><th>Gewichtungsfaktor (in Prozent)</th></tr>
+<tr><td>1.1 Gesamtsumme aus hartem und zusätzlichem Kernkapital sowie aus Ergänzungskapital entsprechend den anrechenbaren Eigenmitteln nach den Artikeln 21–30 ERV[^annex4-lvlu1-1], vor Anwendung der Korrekturen nach den Artikeln 31–40 ERV und ohne den Anteil derjenigen Kapitalinstrumente des Ergänzungskapitals, deren Restlaufzeit kürzer als ein Jahr ist</td><td>100</td></tr>
+<tr><td>1.2 Eigenkapitalinstrumente, die nicht unter die ASF-Kategorie 1.1 fallen, mit einer effektiven Restlaufzeit entsprechend den Bestimmungen von Artikel 17*l* von einem Jahr oder mehr</td><td>100</td></tr>
+<tr><td>1.3 Verbindlichkeiten inklusive Termineinlagen sowie Aufnahmen besicherter und unbesicherter Mittel mit einer effektiven Restlaufzeit von einem Jahr oder mehr</td><td>100</td></tr>
+<tr><td>1.4 Latente Steuerverbindlichkeiten *(deferred tax liabilities)*, wenn das nächstmögliche Datum, an dem eine solche Verbindlichkeit fällig werden könnte, ein Jahr oder mehr in der Zukunft liegt.</td><td>100</td></tr>
+<tr><td>1.5 Instrumente aus Minderheitsanteilen *(minority interests)* mit einer effektiven Restlaufzeit von einem Jahr oder mehr</td><td>100</td></tr>
+<tr><td>2 Stabile Sichteinlagen und Termineinlagen von Privatkundinnen und -kunden sowie Kleinunternehmen mit einer Restlaufzeit von weniger als einem Jahr</td><td>95</td></tr>
+<tr><td>3 Weniger stabile Sichteinlagen und Termineinlagen von Privatkundinnen und -kunden sowie Kleinunternehmen mit einer Restlaufzeit von weniger als einem Jahr</td><td>90</td></tr>
+<tr><td>4 Einlagen von Banken aus einem genossenschaftlichen Finanzverbund bei ihrem Zentralinstitut, die sich aufgrund gemeinsamer Aufgabenerfüllung und gesetzlicher, statutarischer oder vertraglicher Bedingungen ergeben</td><td>85</td></tr>
+<tr><td>5.1 Einlagen von Zentralregierungen, untergeordneten Gebietskörperschaften und sonstigen öffentlich-rechtlichen Körperschaften, multilateralen Entwicklungsbanken, nationalen Entwicklungsbanken sowie Nicht-Finanzinstituten sowie Aufnahmen unbesicherter und besicherter Mittel bei diesen Institutionen, mit einer Restlaufzeit von weniger als einem Jahr</td><td>50</td></tr>
+<tr><td>5.2 Operative Einlagen</td><td>50</td></tr>
+<tr><td>5.3 Alle übrigen Einlagen sowie Aufnahmen unbesicherter und besicherter Mittel, die nicht in den vorstehenden ASF-Kategorien enthalten sind, mit einer Restlaufzeit von mindestens sechs Monaten und weniger als einem Jahr, einschliesslich Einlagen von Zentralbanken und Finanzinstituten und Mittelaufnahmen bei diesen</td><td>50</td></tr>
+<tr><td>5.4 Latente Steuerverbindlichkeiten *(deferred tax liabilities)*, wenn das nächstmögliche Datum, an dem eine solche Verbindlichkeit fällig werden könnte, mindestens sechs Monate und weniger als ein Jahr in der Zukunft liegt</td><td>50</td></tr>
+<tr><td>5.5 Instrumente aus Minderheitsanteilen *(minority interests)* mit einer effektiven Restlaufzeit von mindestens sechs Monaten und weniger als einem Jahr</td><td>50</td></tr>
+<tr><td>6.1 Alle Verbindlichkeiten und Eigenkapitalinstrumente mit einer Restlaufzeit von weniger als sechs Monaten, die nicht in den vorstehenden ASF-Kategorien enthalten sind, einschliesslich Einlagen von Zentralbanken und Finanzinstituten sowie Aufnahmen unbesicherter und besicherter Mittel bei diesen</td><td>0</td></tr>
+<tr><td>6.2 Verbindlichkeiten ohne feste Laufzeit einschliesslich latenter Steuerverbindlichkeiten *(deferred tax liabilities)*, wenn das nächstmögliche Datum, an dem eine solche Verbindlichkeit fällig werden könnte, weniger als sechs Monate in der Zukunft liegt, und Instrumente aus Minderheitsanteilen *(minority interests)* mit einer effektiven Restlaufzeit von weniger als sechs Monaten</td><td>0</td></tr>
+<tr><td>6.3 Verbindlichkeiten aus Derivatgeschäften nach Artikel 17*j* Absätze 1 und 4 abzüglich Forderungen aus Derivatgeschäften nach Artikel 17*j* Absätze 2 und 5, wenn die Verbindlichkeiten aus Derivatgeschäften grösser sind als die Forderungen aus Derivatgeschäften</td><td>0</td></tr>
+<tr><td>6.4 Verbindlichkeiten aus einem nach dem Abschlusstagsprinzip verbuchten Kauf *(trade date payables)* von Finanzinstrumenten, Devisen und Rohstoffen:</td><td>0</td></tr>
+<tr><td>a. die innerhalb der standardmässigen Erfüllungsfrist oder des für die jeweilige Transaktion handelsüblichen Zeitraums erfüllt werden; oder b. bei deren Nichterfüllung zu erwarten ist, dass die Erfüllung noch erfolgt.</td><td></td></tr>
+<tr><td>6.5 Bei Verbindlichkeiten aus Derivatgeschäften die erhaltenen Sicherheiten aus Ersteinschuss- und Nachschusszahlungen, die nicht mit Forderungen aus Derivatgeschäften verrechnet werden dürfen</td><td>0</td></tr>
+<tr><td>6.6 Verbindlichkeiten, die nach Artikel 17*p* von Forderungen abhängig sind</td><td>0</td></tr>
+</table>
+
+[^annex4-lvlu1-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+Anhang 5[^t-6]
+
+(Art. 17*m*)
+
+## Gewichtungsfaktoren der erforderlichen stabilen Finanzierung (RSF)
+
+[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. Sept. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+<table>
+<tr><th>RSF-Kategorien</th><th>Gewichtungsfaktor (in %)</th></tr>
+<tr><td>1.1 Unmittelbar verfügbare Münzen und Banknoten</td><td>[tab] 0</td></tr>
+<tr><td>1.2 Zentralbankguthaben einschliesslich:</td><td>0</td></tr>
+<tr><td>a. der Mindestreserve, wenn die Regelung der betreffenden Zentralbank keine Haltung über einen längerfristigen Zeitraum verlangt;</td><td></td></tr>
+<tr><td>b. der Überschussreserve; und</td><td></td></tr>
+<tr><td>c. der Guthaben auf Girokonten bei der Zentralbank, die aus Repo-Geschäften resultieren.</td><td></td></tr>
+<tr><td>1.3 Alle übrigen Forderungen gegenüber Zentralbanken mit einer Restlaufzeit von weniger als sechs Monaten, insbesondere Forderungen aus Schuldverschreibungen, die von Zentralbanken emittiert wurden</td><td>0</td></tr>
+<tr><td>1.4 Forderungen aufgrund eines nach dem Abschlusstagsprinzip verbuchten Verkaufs *(trade date receivables)* von Finanzinstrumenten, Devisen und Rohstoffen:</td><td>0</td></tr>
+<tr><td>a. die innerhalb des standardmässigen Erfüllungszeitraums oder des für die jeweilige Transaktion handelsüblichen Zeitraums erfüllt werden; oder</td><td></td></tr>
+<tr><td>b. bei deren Nichterfüllung zu erwarten ist, dass die Erfüllung noch erfolgt.</td><td></td></tr>
+<tr><td>1.5 Forderungen, die nach Artikel 17*p* von Verbindlichkeiten abhängig sind</td><td>0</td></tr>
+<tr><td>1.6 Lastenfreie Aktiva der Kategorie 1 nach Artikel 15*a*, sofern sie nicht unter die RSF-Kategorien 1.1–1.3 fallen</td><td>0</td></tr>
+<tr><td>1.7 Weniger als sechs Monate belastete Aktiva der Kategorie 1 nach Artikel 15*a*</td><td>0</td></tr>
+<tr><td>1.8 Belastete Aktiva der Kategorie 1 nach Artikel 15*a* im Zusammenhang mit liquiditätszuführenden Operationen von Zentralbanken (aus Sicht der Zentralbank)</td><td>0</td></tr>
+<tr><td>1.9 Unbedingt widerrufliche Kredit- und Liquiditätsfazilitäten für alle Kundinnen und Kunden</td><td>0</td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>2 Unter Vorbehalt der RSF-Kategorie 3.4 lastenfreie und für weniger als sechs Monate belastete Einlagen bei Finanzinstituten sowie Ausleihungen an diese mit einer Restlaufzeit von weniger als sechs Monaten, wenn:</td><td>10</td></tr>
+<tr><td>a. die Einlagen sowie die Ausleihungen mit Aktiva der Kategorie 1 nach Artikel 15*a* oder Kategorie 2*a* nach Artikel 15*b* besichert sind; und</td><td></td></tr>
+<tr><td>b. die Bank die erhaltenen Sicherheiten während der gesamten Laufzeit der Einlage oder der Ausleihung frei weiter verpfänden kann *(rehypothecation).*</td><td></td></tr>
+<tr><td>3.1 Lastenfreie Aktiva der Kategorie 2*a* nach Artikel 15*b* Absätze 1–4</td><td>15</td></tr>
+<tr><td>3.2 Für weniger als sechs Monate belastete Aktiva der Kategorie 2*a* nach Artikel 15*b* Absätze 1–4</td><td>15</td></tr>
+<tr><td>3.3 Belastete Aktiva der Kategorie 2*a* nach Artikel 15*b* im Zusammenhang mit liquiditätszuführenden Operationen von Zentralbanken (aus Sicht der Zentralbank)</td><td>15</td></tr>
+<tr><td>3.4 Unter Vorbehalt der RSF-Kategorien 4.4 und 6.6 alle übrigen lastenfreien und für weniger als sechs Monate belasteten Einlagen bei Finanzinstituten sowie Ausleihungen an diese mit einer Restlaufzeit von weniger als sechs Monaten, die nicht unter die RSF-Kategorie 2 fallen</td><td>15</td></tr>
+<tr><td>4.1 Lastenfreie und für weniger als sechs Monate belastete Aktiva der Kategorie 2*b* nach Artikel 15*b* Absätze 5 und 6</td><td>50</td></tr>
+<tr><td>4.2 Aktiva, die für mindestens sechs Monate und weniger als ein Jahr belastet sind und einen RSF-Faktor von 50 % oder weniger zugewiesen bekämen, wenn sie lastenfrei wären</td><td>50</td></tr>
+<tr><td>4.3 Sämtliche Einlagen bei Finanzinstituten, Ausleihungen an diese sowie Forderungen gegenüber Zentralbanken mit einer Restlaufzeit von mindestens sechs Monaten und weniger als einem Jahr</td><td>50</td></tr>
+<tr><td>4.4 Operative Einlagen bei anderen Finanzinstituten auf die ein ASF-Faktor von 50 % nach ASF-Kategorie 5.2 angewendet wird</td><td>50</td></tr>
+<tr><td>4.5 Alle übrigen Aktiva mit einer Restlaufzeit von weniger als einem Jahr, welche lastenfrei oder für weniger als ein Jahr belastet sind.</td><td>50</td></tr>
+<tr><td>5.1 Lastenfreie Hypothekarforderungen für Wohnliegenschaften mit einer Restlaufzeit von einem Jahr oder mehr und einem Risikogewicht von 35 % oder weniger nach dem Standardansatz unter Basel II für Kreditrisiken</td><td>65</td></tr>
+<tr><td>5.2 Alle übrigen lastenfreien Einlagen sowie Ausleihungen:</td><td>65</td></tr>
+<tr><td>a. mit einer Restlaufzeit von einem Jahr oder mehr; b. mit einem Risikogewicht von 35 % oder weniger nach dem Standardansatz unter Basel II für Kreditrisiken;</td><td></td></tr>
+<tr><td>c. die nicht unter die RSF-Kategorien 2, 3.4, 4.3 oder 4.4 fallen; und</td><td></td></tr>
+<tr><td>d. die weder Einlagen bei Finanzinstituten noch Ausleihungen an diese darstellen.</td><td></td></tr>
+<tr><td>5.3 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 5.1 und 5.2 fielen, wenn sie lastenfrei wären</td><td>65</td></tr>
+<tr><td>6.1 In bar, in Wertpapieren oder anderen Aktiva einbezahlte Ersteinschussmargen für Derivatgeschäfte und in bar oder in anderen Aktiva einbezahlte Beträge an den Ausfallfonds einer zentralen Gegenpartei, es sei denn, die in Wertpapieren oder anderen Aktiva einbezahlten Ersteinschussmargen für Derivatgeschäfte erhalten einen höheren RSF-Faktor. In diesem Fall gilt der höhere RSF-Faktor</td><td>85</td></tr>
+<tr><td>6.2 Sonstige lastenfreie, nicht notleidende Einlagen sowie Ausleihungen mit einem Risikogewicht von mehr als 35 % nach dem Standardansatz unter Basel II für Kreditrisiken und mit einer Restlaufzeit von einem Jahr oder mehr, ohne Einlagen bei Finanzinstituten sowie Ausleihungen an diese</td><td>85</td></tr>
+<tr><td>6.3 Lastenfreie, nicht ausgefallene Wertpapiere mit einer Restlaufzeit von mindestens einem Jahr, die nicht als HQLA zulässig sind, einschliesslich börsengehandelter Aktien, sofern sie nicht unter die RSF-Kategorie 5.1 fallen</td><td>85</td></tr>
+<tr><td>6.4 Physisch gehandelte Rohstoffe einschliesslich Edelmetallen</td><td>85</td></tr>
+<tr><td>6.5 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 6.1–6.4 fielen, wenn sie lastenfrei wären</td><td>85</td></tr>
+<tr><td>6.6 Ausleihungen von Banken aus einem genossenschaftlichen Finanzverbund an ihr Zentralinstitut, die sich aus gemeinsamer Aufgabenerfüllung und gesetzlichen, statutarischen oder vertraglichen Bedingungen ergeben</td><td>85</td></tr>
+<tr><td>7.1 Alle Aktiva, die für ein Jahr oder länger belastet sind</td><td>100</td></tr>
+<tr><td>7.2 Forderungen aus Derivatgeschäften nach Artikel 17j Absätze 2 und 5, abzüglich Verbindlichkeiten aus Derivatgeschäften nach Artikel 17j Absätze 1 und 4, wenn die Forderungen aus Derivatgeschäften grösser sind als die Verbindlichkeiten aus Derivatgeschäften</td><td>100</td></tr>
+<tr><td>7.3 20 % des Bruttobetrages der Verbindlichkeiten aus Derivatgeschäften nach Artikel 17j Absatz 1 vor Abzug der geleisteten Nachschusszahlungen</td><td>100</td></tr>
+<tr><td>7.4 Alle übrigen Aktiva, die nicht in den vorstehenden Kategorien enthalten sind, namentlich:</td><td>[tab] 100</td></tr>
+<tr><td>a. notleidende Einlagen;</td><td></td></tr>
+<tr><td>b. Einlagen bei Finanzinstituten sowie Ausleihungen an diese mit einer Restlaufzeit von einem Jahr oder mehr;</td><td></td></tr>
+<tr><td>c. nicht börsengehandelte Aktien;</td><td></td></tr>
+<tr><td>d. Sachanlagen;</td><td></td></tr>
+<tr><td>e. Positionen, die von den anrechenbaren Eigenmitteln abzuziehen sind;</td><td></td></tr>
+<tr><td>f. zurückbehaltene Forderungen;</td><td></td></tr>
+<tr><td>g. Versicherungsvermögenswerte (*insurance assets*);</td><td></td></tr>
+<tr><td>h. Beteiligungen an Tochtergesellschaften;</td><td></td></tr>
+<tr><td>i. ausgefallene Wertpapiere.</td><td></td></tr>
+<tr><td>7.5 Aktiva, die für weniger als ein Jahr belastet sind und unter die RSF-Kategorien 7.1–7.4 fielen, wenn sie lastenfrei wären</td><td>[tab] 100</td></tr>
+<tr><td>8 Bedingt widerrufliche sowie unwiderrufliche Kredit- und Liquiditätsfazilitäten für alle Kundinnen und Kunden</td><td>5 % des jeweils nicht in Anspruch genommenen Teils</td></tr>
+<tr><td>9.1 Eventualverpflichtungen im Zusammenhang mit Handelsfinanzierungen</td><td>5 % des ausstehenden Nominalbetrags</td></tr>
+<tr><td>9.2 Eventualverpflichtungen aus Garantien und Akkreditiven, – die nicht mit Handelsfinanzierungen zusammenhängen</td><td></td></tr>
 </table>

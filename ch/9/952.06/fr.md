@@ -4,20 +4,20 @@ title: "Ordonnance du 30 novembre 2012 sur les liquidités des banques et des ma
 short: OLiq
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: fr
-version: 2020-01-01
+version: 2021-07-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-883-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-883-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les liquidités des banques et des maisons de titres
 
-(Ordonnance sur les liquidités, OLiq)**[^t-1]**
+(Ordonnance sur les liquidités, OLiq)[^t-1]
 
-du 30 novembre 2012 (Etat le 1<sup>er</sup> janvier 2020)
+du 30 novembre 2012 (Etat le 1<sup>er</sup> juillet 2021)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 11 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -53,26 +53,13 @@ arrête:
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
-## Chapitre 2 Rapports
+## Chapitre 2 ...
 
-#### Art. 3
+#### Art. 3 et 4
 
-**Collecte de données**
+[^34-1]
 
-<sup>1</sup> La FINMA peut exiger des banques qu’elles présentent des rapports sur leurs liquidités conformément aux directives du Comité de Bâle sur le contrôle bancaire[^3-1].
-
-<sup>2</sup> Elle est habilitée en particulier à collecter les données servant à calculer le ratio structurel de liquidités à long terme (*Net Stable Funding Ratio*, NSFR) ainsi que, au besoin, des données relatives à d’autres paramètres d’observation, au niveau tant du groupe financier que de l’établissement individuel.[^3-2]
-
-[^3-1]: Comité de Bâle sur le contrôle bancaire, Bâle III: dispositif international de mesure, normalisation et surveillance du risque de liquidité, décembre 2010; disponible sous www.bis.org/bcbs/basel3.htm
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
-
-#### Art. 4
-
-**Tâches de la société d’audit**[^4-1]
-
-La société d’audit confirme l’exactitude des rapports sur le NSFR et sur d’autres paramètres d’observation conformément aux dispositions d’exécution techniques édictées par la FINMA.
-
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^34-1]: Abrogés par le ch. I de l’O du 11 sept. 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 ## Chapitre 3 Exigences en matière de liquidités
 
@@ -148,15 +135,16 @@ Le choix des scénarios de crise doit tenir compte des éléments suivants:
 
 #### Art. 11
 
-**Tâches de la société d’audit**
+[^11-1]
 
-La société d’audit atteste que les exigences qualitatives sont remplies conformément aux dispositions d’exécution techniques de la FINMA concernant les art. 5 à 10.
+[^11-1]: Abrogé par le ch. I de l’O du 11 sept. 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
-### Section 2**** Exigences quantitatives
+### Section 2 Exigences quantitatives: ratio de liquidités à court terme
 
-[^chap3-sec2-1]
+[^chap3-sec2-1][^chap3-sec2-2]
 
 [^chap3-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015, sauf l’art. 17*e,* al. 2 et 3, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
+[^chap3-sec2-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 12
 
@@ -168,14 +156,14 @@ La société d’audit atteste que les exigences qualitatives sont remplies conf
 
 #### Art. 13
 
-**Calcul**
-
-<sup>1</sup>
+**Calcul du LCR[^13-1]**
 
 Le LCR correspond au quotient de:
 
 - a. l’encours des HQLA (au numérateur);
 - b. la valeur de la sortie nette de trésorerie attendue à 30 jours selon le scénario de crise (au dénominateur).
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 #### Art. 14
 
@@ -389,7 +377,7 @@ La FINMA précise:
 
 <sup>1</sup> Les opérations de financement garanties sont dénouées si elles incluent l’échange de HQLA et arrivent à échéance dans les 30 jours.
 
-<sup>2</sup> Sont réputés être des opérations de financement garanties les swaps de collatéral et les financements de titres tels que les opérations de pension, les prêts de titres et les crédits garantis par des titres.[^15e-1]
+<sup>2</sup> Sont réputés être des opérations de financement garanties les swaps de sûretés et les financements de titres tels que les opérations de pension, les prêts de titres et les crédits garantis par des titres.[^15e-1]
 
 <sup>3</sup> Les opérations diminuant la liquidité effectuées par la BNS sont dénouées, quel que soit le type de garantie, si elles arrivent à échéance dans les 30 jours. Les opérations augmentant la liquidité effectuées par la BNS ne sont dénouées que si elles sont garanties par des HQLA et arrivent à échéance dans les 30 jours.
 
@@ -399,7 +387,7 @@ La FINMA précise:
 
 <sup>6</sup> La FINMA édicte des dispositions d’exécution techniques pour les opérations de financement garanties effectuées dans des devises dans lesquelles la banque ne détient aucun compte auprès de la banque centrale concernée.[^15e-2]
 
-[^15e-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^15e-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 [^15e-2]: Introduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
 #### Art. 16
@@ -518,11 +506,254 @@ La FINMA peut fixer, pour les sorties et entrées de trésorerie entre une soci�
 
 [^17e-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
+## Section 2*a* Exigences quantitatives: ratio de financement
+
+[^chap4-1]
+
+[^chap4-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
 #### Art. 17f
 
-**Sociétés d’audit**
+**Ratio de financement**[^17f-1]
 
-La société d’audit confirme, conformément aux prescriptions du système d’audit, l’exactitude des données communiquées dans le justificatif de liquidité ainsi que le respect du LCR.
+<sup>1</sup> Le ratio de financement *(Net Stable Funding Ratio*, NSFR) doit garantir que la stabilité du financement d’une banque à l’horizon d’un an est assurée en permanence.
+
+<sup>2</sup> Le financement est stable lorsque les actifs et les positions hors bilan au sens de l’annexe 5, ch. 8, 9.1 et 9.2, sont financés durablement et de manière viable.
+
+[^17f-1]: Introduit par le ch. I de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17g
+
+**Calcul du NSFR**[^17g-1]
+
+Le NSFR correspond au quotient:
+
+- a. du financement stable disponible *(Available Stable Funding,* ASF) au numérateur, et
+- b. du financement stable exigé *(Required Stable Funding*, RSF) au dénominateur.
+
+[^17g-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17h
+
+**Respect des exigences du NSFR**[^17h-1]
+
+<sup>1</sup> La banque respecte les exigences du NSFR lorsque le quotient au sens de l’art. 17*g* est égal ou supérieur à 1.
+
+<sup>2</sup> Le NSFR doit être respecté au niveau tant du groupe financier que de l’établissement individuel pour l’ensemble des positions au sens des art. 17*k* et 17*m* et dans toutes les devises converties en francs suisses.
+
+<sup>3</sup>
+
+S’agissant des établissements individuels faisant partie de groupes financiers, la FINMA peut autoriser:
+
+- a. le respect des exigences du NSFR de manière agrégée pour plusieurs établissements individuels domiciliés en Suisse, ou
+- b. la prise en compte du financement excédentaire d’un établissement individuel domicilié en Suisse pour un autre établissement individuel domicilié en Suisse.
+
+<sup>4</sup> Les établissements individuels au sens de l’al. 3 qui sont domiciliés en Suisse doivent toutefois présenter seuls un NSFR d’au moins 0,8.
+
+<sup>5</sup> Les établissements individuels exerçant des fonctions d’importance systémique essentielles pour la Suisse doivent dans tous les cas respecter seuls les exigences du NSFR.
+
+<sup>6</sup> L’art. 14, al. 3 à 6, s’applique par analogie.
+
+[^17h-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17i
+
+**Calcul des opérations de financement garanties**[^17i-1]
+
+<sup>1</sup> Les titres que la banque reçoit dans le cadre d’opérations de pension et de swaps de sûretés ne sont pris en compte comme actifs que si la banque devient détentrice des droits liés aux titres et supporte le risque de marché de ces titres.
+
+<sup>2</sup> Les titres que la banque prête dans le cadre d’opérations de pension et de swaps de sûretés et qui sont grevés de ce fait ne sont pris en compte comme actifs que si la banque reste détentrice des droits liés aux titres et supporte le risque de marché de ces titres.
+
+<sup>3</sup>
+
+Les créances et les engagements ne peuvent être compensés entre eux que:
+
+- a. si l’opération de financement garantie est conclue avec une seule et même contrepartie, et
+- b. si les conditions énoncées au par. 33(i) du dispositif de Bâle régissant le ratio d’endettement maximal *(leverage ratio)*[^17i-2] sont remplies.
+
+<sup>4</sup>
+
+La FINMA édicte des dispositions d’exécution pour le calcul:
+
+- a. dans les cas où la durée résiduelle des titres grevés est plus courte que la durée de l’opération de financement garantie proprement dite;
+- b. des opérations de financement partiellement garanties;
+- c. des opérations de financement garanties sans limitation de durée.
+
+[^17i-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17i-2]: Comité de Bâle sur le contrôle bancaire (2014), Bâle III: ratio de levier et exigences de publicité; disponible sous www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+
+#### Art. 17j
+
+**Calcul des engagements et créances découlant d’opérations sur dérivés**[^17j-1]
+
+<sup>1</sup> Les engagements découlant d’opérations sur dérivés se calculent à l’aide des valeurs de remplacement négatives des contrats en cours au prix du marché.
+
+<sup>2</sup> Les créances découlant d’opérations sur dérivés se calculent à l’aide des valeurs de remplacement positives des contrats en cours au prix du marché.
+
+<sup>3</sup> S’il existe entre la banque et sa contrepartie des accords de compensation qui remplissent les conditions énoncées aux par. 8 et 9 de l’annexe du dispositif de Bâle régissant le *leverage ratio*[^17j-2], les valeurs de remplacement nettes sont déterminantes pour les opérations sur dérivés couvertes par ces accords.
+
+<sup>4</sup> Lors du calcul des engagements découlant d’opérations sur dérivés, les garanties déposées sous la forme de marges variables doivent être déduites du montant de la valeur de remplacement négative, quel que soit le type de garantie.
+
+<sup>5</sup> Lors du calcul des créances découlant d’opérations sur dérivés, les garanties reçues ne peuvent pas être déduites du montant de la valeur de remplacement positive, à moins que la banque ait reçu des garanties provenant de marges variables sous la forme d’actifs de la catégorie 1 au sens de l’art. 15*a* et que les autres conditions énoncées au par. 25 du dispositif de Bâle régissant le *leverage ratio* soient remplies.
+
+[^17j-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17j-2]: Comité de Bâle sur le contrôle bancaire (2014), Bâle III: ratio de levier et exigences de publicité; disponible sous www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+
+#### Art. 17k
+
+**Calcul de l’ASF**[^17k-1]
+
+<sup>1</sup>
+
+Le montant de l’ASF se calcule:
+
+- a. en affectant les valeurs comptables des engagements et des fonds propres aux catégories ASF prévues à l’annexe 4 et en les pondérant en les multipliant par le coefficient ASF correspondant, et
+- b. en additionnant les valeurs comptables pondérées selon la let. a pour toutes les catégories ASF.
+
+<sup>2</sup> La valeur comptable des instruments de fonds propres et des engagements qui peuvent être pris en compte comme fonds propres selon les art. 21 à 30 OFR[^17k-2] est déterminée selon la valeur enregistrée avant l’application des corrections visées aux art. 31 à 40 OFR.
+
+[^17k-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17k-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+#### Art. 17l
+
+**Détermination de la durée résiduelle des instruments de fonds propres et des engagements**[^17l-1]
+
+<sup>1</sup> Si les investisseurs ou les créanciers bénéficient d’options de résiliation, de rachat anticipé ou de liquidation pour les instruments de fonds propres et pour les engagements, on considère que les options seront exercées à la première date possible pour déterminer la valeur résiduelle.
+
+<sup>2</sup> Si les investisseurs ou les créanciers s’attendent à ce que la banque exerce ses options de rachat d’instruments de fonds propres et d’engagements avant l’échéance contractuelle pour des raisons de réputation notamment, les instruments de fonds propres et les engagements doivent être affectés à la catégorie ASF prévue à l’annexe 4 qui correspond à la durée résiduelle plus courte attendue.
+
+<sup>3</sup> S’il existe des options de prolongation, on considère que ni la banque, ni les investisseurs ou créanciers ne les exerceront. Les options de prolongation de la banque peuvent être prises en compte si la prolongation n’entraîne pas d’effets négatifs en matière de réputation.
+
+<sup>4</sup> Pour les engagements à long terme dont les échéances sont échelonnées, seule la partie qui arrive à échéance dans l’année doit être affectée à la catégorie ASF ayant une durée résiduelle de moins d’un an.
+
+<sup>5</sup> Si un instrument de fonds propres ou un engagement peut être affecté à plusieurs catégories ASF, la catégorie présentant le coefficient ASF le plus bas est déterminante.
+
+[^17l-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17m
+
+**Calcul du RSF**[^17m-1]
+
+<sup>1</sup>
+
+Le montant du RSF se calcule:
+
+- a. en affectant les valeurs comptables des actifs et des positions hors bilan aux catégories RSF prévues à l’annexe 5 et en les pondérant en les multipliant par le coefficient RSF correspondant, et
+- b. en additionnant les valeurs comptables pondérées selon la let. a pour toutes les catégories RSF.
+
+<sup>2</sup> La valeur comptable des actifs et des positions hors bilan est calculée selon la valeur indiquée dans les comptes. Il faut tenir compte des corrections de valeur selon le par. 52 de l’approche standard de Bâle II et le par. 12 du dispositif de Bâle régissant le *leverage ratio*[^17m-2].
+
+<sup>3</sup> Lors du calcul de la valeur comptable des créances hypothécaires non grevées sur l’objet d’habitation selon l’annexe 5, ch. 5.1, la totalité des actifs mis en gage à titre de sûretés pour les prêts sur lettre de gage au sens de la LLG[^17m-3] doit être déduite.
+
+<sup>4</sup> Le calcul de la valeur comptable des créances hypothécaires grevées et de la durée pour laquelle elles sont grevées se fonde sur la valeur comptable et la durée résiduelle des prêts à couvrir.
+
+<sup>5</sup> La FINMA édicte des dispositions d’exécution pour les calculs visés aux al. 3 et 4.
+
+<sup>6</sup> À la demande de la BNS, elle peut réduire temporairement les coefficients RSF de certaines opérations si cela permet d’éviter une entrave sérieuse à la mise en œuvre de la politique monétaire.
+
+[^17m-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17m-2]: Comité de Bâle sur le contrôle bancaire (2014), Bâle III: ratio de levier et exigences de publicité; disponible sous www.bis.org &gt; Committees & associations &gt; Basel Committee on Banking Supervision &gt; Publications
+[^17m-3]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+
+#### Art. 17n
+
+**Détermination de la durée résiduelle des actifs et des positions hors bilan**[^17n-1]
+
+<sup>1</sup> Pour déterminer la durée résiduelle des actifs et des positions hors bilan, la durée résiduelle contractuelle est déterminante.
+
+<sup>2</sup> Si les contreparties ou les débiteurs bénéficient d’options de prolongation, on considère que les options seront exercées. Si la prolongation prend effet au moment de l’exercice de l’option, on considère que les contreparties ou les créanciers l’exerceront à la dernière date possible.
+
+<sup>3</sup> Si les contreparties ou les débiteurs s’attendent à ce que la banque exerce ses options de prolongation pour des raisons de réputation notamment, les actifs et les positions hors bilan doivent être affectés à la catégorie RSF qui correspond à la durée résiduelle plus longue attendue.
+
+<sup>4</sup> S’il existe des options de résiliation anticipée ou de rachat anticipé, on considère que la banque, les contreparties ou les débiteurs ne les exerceront pas.
+
+<sup>5</sup> Pour les prêts avec amortissement, les crédits à tempérament et les prêts à annuités, seule la partie qui arrive à échéance dans l’année peut être affectée à la catégorie RSF ayant une durée résiduelle de moins d’un an.
+
+<sup>6</sup> Si un actif ou une position hors bilan peut être affecté à plusieurs catégories RSF, la catégorie présentant le coefficient RSF le plus élevé est déterminante.
+
+[^17n-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17o
+
+**Calcul de la date de référence**[^17o-1]
+
+<sup>1</sup> La date de référence pour le calcul du NSFR découle des prescriptions comptables applicables à la banque concernée.
+
+<sup>2</sup> Si les prescriptions comptables lui permettent d’appliquer aussi bien le principe de la date de règlement que celui de la date de transaction, la banque peut appliquer le principe de la date de règlement même si ses comptes sont établis selon le principe de la date de transaction.
+
+<sup>3</sup> Les coefficients ASF et RSF applicables respectivement aux engagements et aux créances résultant du principe de la date de transaction sont déterminés selon l’annexe 4, ch. 6.4, pour l’ASF et selon l’annexe 5, ch. 1.4, pour le RSF.
+
+[^17o-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17p
+
+**Détermination des engagements et créances interdépendants**[^17p-1]
+
+<sup>1</sup> La FINMA détermine les engagements et créances interdépendants qui peuvent se voir appliquer un coefficient ASF et RSF de 0 %. Ce faisant, elle tient compte des développements internationaux.
+
+<sup>2</sup>
+
+L’application d’un coefficient ASF et RSF de 0 % n’est admissible que si:
+
+- a. les différents engagements et créances interdépendants sont clairement identifiables;
+- b. les engagements et créances interdépendants ont une durée et un montant de base identiques;
+- c. l’engagement découlant du financement reçu correspond à la créance qui en dépend, et que
+- d. la contrepartie de la créance n’est pas identique à celle de l’engagement.
+
+[^17p-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17q
+
+**Justificatif de financement**[^17q-1]
+
+<sup>1</sup> La FINMA détermine la forme et le contenu des formulaires servant à justifier le respect du NSFR (justificatif de financement). Elle peut accorder des allégements aux banques des catégories 4 et 5 au sens de l’annexe 3 de l’OB[^17q-2].
+
+<sup>2</sup> Les banques se fondent, pour l’évaluation des positions indiquées dans le justificatif de financement, sur la clôture établie selon les prescriptions comptables.
+
+<sup>3</sup> Les banques qui ne sont pas d’importance systémique remettent le justificatif de financement à la BNS trimestriellement, dans les 60 jours suivant le dernier jour du trimestre. Les banques des catégories 4 et 5 le lui remettent semestriellement. La FINMA peut autoriser une banque, à la demande de celle-ci et dans des cas justifiés, à remettre ce justificatif à la BNS à des intervalles plus longs.
+
+<sup>4</sup> Les banques d’importance systémique remettent le justificatif de financement à la BNS mensuellement, dans les 30 jours suivant le dernier jour du mois.
+
+<sup>5</sup> La FINMA peut fixer des obligations d’annoncer spéciales pour les banques qui se financent dans une mesure importante auprès de succursales à l’étranger, conformément à l’art. 14, al. 5.
+
+[^17q-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^17q-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
+#### Art. 17r
+
+**Financements intragroupe**[^17r-1]
+
+La FINMA peut déterminer des coefficients ASF et RSF différents de ceux prévus aux annexes 4 et 5 pour les financements intragroupe, notamment dans les cas suivants:
+
+- a. la contrepartie interne au groupe n’a elle-même pas de financement assez stable;
+- b. les effets négatifs de financements intragroupe sont de ce fait compensés par le traitement asymétrique de transactions d’une durée inférieure ou égale à six mois;
+- c. il s’agit d’engagements conditionnels internes au groupe découlant de garanties selon l’annexe 5, ch. 9.2.
+
+[^17r-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17s
+
+**Publication**[^17s-1]
+
+<sup>1</sup> Les banques informent régulièrement et de manière adéquate le public de leur situation de financement et de leur NSFR.
+
+<sup>2</sup> La FINMA règle les modalités de publication. Elle définit en particulier quelles informations concernant le NSFR doivent être publiées en sus de ce dernier.
+
+[^17s-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+### Section 2*b* Simplification pour les banques particulièrement liquides et bien capitalisées des catégories 4 et 5
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 17t
+
+Les banques des catégories 4 et 5 au sens de l’annexe 3 de l’OB[^17t-1] qui, en vertu de l’art. 47*a* OFR[^17t-2], sont dispensées du respect des dispositions concernant les fonds propres nécessaires sont également exemptées du respect des dispositions relatives au ratio de financement énoncées aux art. 17*f* à 17*s*.
+
+[^17t-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^17t-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 ### Section 3 Exigences quantitatives applicables aux dépôts privilégiés
 
@@ -547,6 +778,33 @@ Les banques communiquent à la FINMA, dans le cadre du système d’annonce gén
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^18-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
+### Section 4 Paramètres d’observation
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 18a
+
+La FINMA peut collecter, parallèlement aux données concernant le LCR et le NSFR, des données concernant d’autres paramètres d’observation, au niveau tant du groupe financier que de l’établissement individuel, en tenant compte de la taille de la banque ainsi que de la nature, de l’ampleur, de la complexité et du degré de risque de ses activités, pour autant que ces données soient nécessaires à la mise en œuvre de la présente ordonnance.
+
+### Section 5 Tâches de la société d’audit
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Introduite par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+#### Art. 18b
+
+<sup>1</sup>
+
+La société d’audit vérifie, conformément aux prescriptions du système d’audit, que:
+
+- a. les exigences qualitatives et quantitatives énoncées dans la présente ordonnance et les dispositions d’exécution de la FINMA sont remplies, et que
+- b. les données du justificatif de liquidité, celles du justificatif de financement et, pour autant que la FINMA l’exige, celles concernant les paramètres d’observation sont exactes.
+
+<sup>2</sup> Elle confirme le résultat de l’audit.
 
 ## Chapitre 4 Dispositions particulières applicables aux banques d’importance systémique
 
@@ -743,6 +1001,14 @@ Les banques qui ne sont pas d’importance systémique doivent remplir les exige
 
 [^31a-1]: Introduit par le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 
+#### Art. 31b
+
+**Disposition transitoire relative à la modification du 11 septembre 2020**[^31b-1]
+
+Le Département fédéral des finances examine les art. 17*h*, al. 3, et 17*p*, al. 2, let. b, ainsi que les coefficients RSF indiqués à l’annexe 5, ch. 2 et 3.4, sous l’angle de leur comparabilité et de leur degré de mise en œuvre dans les systèmes juridiques des principales places financières étrangères. Dès qu’il dispose d’éléments solides, mais au plus tard en juin 2022, il fait rapport au Conseil fédéral et lui soumet d’éventuelles modifications de la réglementation en vigueur.
+
+[^31b-1]: Introduit par le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
 #### Art. 32
 
 **Modification du droit en vigueur**
@@ -761,7 +1027,7 @@ Les banques qui ne sont pas d’importance systémique doivent remplir les exige
 
 <sup>3</sup> Les dispositions du chap. 4 entrent en vigueur le quinze du mois suivant leur adoption par l’Assemblée fédérale.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 15*a*, al. 2, let. c, et 15*b*, al. 2, let. b)
 
@@ -806,13 +1072,13 @@ C. Ne sont pas réputées établissements financiers les filiales de financement
 
 [^annex1-lvlu1-1]: Nouvelle expression selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)). Il a été tenu compte de cette mod. dans tout le texte.
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 16, al. 3)
 
 ## Sorties de trésorerie et taux de sortie
 
-[^t-3]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^t-3]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) et le ch. II al. 1 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Catégories de sorties</th><th>Taux de sortie (en pour‑cent)</th></tr>
@@ -837,7 +1103,7 @@ Annexe 2*[^t-3]*
 <tr><td>2.6 Titres de créance non garantis</td><td>100</td></tr>
 <tr><td>2.7 Dépôts supplémentaires nécessaires dans les réserves de la banque centrale</td><td>100</td></tr>
 <tr><td>3. Transactions garanties et swaps de sûretés arrivant à échéance dans les 30 jours et dont les garanties ne servent pas à couvrir des positions courtes</td><td></td></tr>
-<tr><td>3.1 Opérations de financement garanties avec la BNS, couvertes par des actifs de la catégorie 2b ou des titres qui ne sont pas des actifs HQLA («actifs non HQLA»), ainsi que swaps de sûretés incluant l’échange d’actifs de la même catégorie et non dénoués</td><td>0</td></tr>
+<tr><td>3.1 Opérations de financement garanties avec la BNS, couvertes par des actifs de la catégorie 2*b* ou des actifs qui ne sont pas des actifs HQLA («actifs non HQLA»), ainsi que swaps de sûretés incluant l’échange d’actifs de la même catégorie et non dénoués</td><td>0</td></tr>
 <tr><td>3.2 Opérations de financement garanties par des actifs de la catégorie 2b ou des actifs non HQLA, avec comme contrepartie:</td><td></td></tr>
 <tr><td>– soit le propre gouvernement central ou des banques multilatérales de développement</td><td></td></tr>
 <tr><td>– soit des collectivités territoriales nationales subordonnées et d’autres corporations de droit public présentant une pondération de risque de 20 % au plus</td><td>25</td></tr>
@@ -859,10 +1125,10 @@ Annexe 2*[^t-3]*
 <tr><td>5.3 Besoin accru de liquidités en rapport avec des sûretés excédentaires, en couverture d’opérations sur dérivés et autres transactions, détenues par une banque et pouvant être rappelées contractuellement à tout moment par la contrepartie</td><td>100</td></tr>
 <tr><td>5.4 Besoin accru de liquidités en rapport avec des sûretés contractuellement dues par la banque soumise à l’obligation d’annoncer au titre d’opérations sur dérivés et autres transactions</td><td>100</td></tr>
 <tr><td>5.5 Besoin accru de liquidités en rapport avec des opérations sur dérivés ou d’autres transactions pour lesquelles la contrepartie peut substituer des actifs non HQLA aux sûreté</td><td>100</td></tr>
-<tr><td>5.6 Besoin accru de liquidités résultant de variations de la valeur de marché d’opérations sur dérivés et autres transactions</td><td colspan="2">100 % de la principale sortie nette de sûretés en valeur absolue sur 30 jours enregistrée au cours des 24 derniers mois, ou 100 % selon l’approche interne des modèles</td></tr>
+<tr><td>5.6 Besoin accru de liquidités résultant de variations de la valeur de marché d’opérations sur dérivés et autres transactions</td><td colspan="2">100 % du principal flux net de sûretés en valeur absolue sur 30 jours enregistré au cours des 24 derniers mois, ou 100 % selon l’approche fondée sur les modèles internes</td></tr>
 <tr><td>5.7 Besoin accru de liquidités résultant de variations de l’évaluation des sûretés constituées d’actifs n’appartenant pas à la catégorie 1 couvrant des opérations sur dérivés et autres transactions</td><td>20</td></tr>
 <tr><td>6. Perte de financements sur titres adossés à des actifs (*Asset Backed Securities, ABS*), titres de créance garantis et autres instruments structurés (valable pour la totalité des montants arrivant à échéance et des actifs restituables dans les 30 jours)</td><td>100</td></tr>
-<tr><td>7. Perte de financements sur papiers monétaires adossés à des actifs (*Asset Backed Commercial Paper*, *ABCP*), sociétés ad hoc (*Conduits*), véhicules d’investissement sur titres (*Securities Investment V**e**hicle*) et autres facilités de financement analogues</td><td></td></tr>
+<tr><td>7. Perte de financements sur papiers monétaires adossés à des actifs (*Asset Backed Commercial Paper*, *ABCP*), sociétés ad hoc (*Conduits*), véhicules d’investissement sur titres (*Securities Investment Vehicle*) et autres facilités de financement analogues</td><td></td></tr>
 <tr><td>7.1 Montants arrivant à échéance dans les 30 jours</td><td>100</td></tr>
 <tr><td>7.2 Autres possibles pertes de financements</td><td>100</td></tr>
 <tr><td>7.3 Options incorporées dans les accords de financement prévoyant la restitution des actifs ou un apport potentiel de liquidités dans les 30 jours</td><td>100</td></tr>
@@ -879,7 +1145,7 @@ Annexe 2*[^t-3]*
 <tr><td>8.1.5 garantie des dépôts suisse</td><td>50</td></tr>
 <tr><td>8.1.6 toutes les autres personnes morales et tous les autres clients commerciaux, y compris les sociétés liées à des établissements financiers</td><td>100</td></tr>
 <tr><td>8.2 Obligations liées à des facilités de crédit et de liquidité accordées sans engagement, non utilisées et révocables sans conditions</td><td>0</td></tr>
-<tr><td>9. Autres engagements de financement conditionnels tels garanties, lettres de crédit, facilités de crédit et de liquidité révocables</td><td></td></tr>
+<tr><td>9. Autres engagements de financement conditionnels tels que garanties et lettres de crédit</td><td></td></tr>
 <tr><td>9.1 Financement de transactions commerciales (approche rétrospective)</td><td colspan="2">100 % de la sortie nette moyenne de trésorerie sur 30 jours enregistrée au cours des 24 derniers mois pour l’ensemble du portefeuille, ou 5 % de l’encours nominal</td></tr>
 <tr><td>9.2 Garanties et lettres de crédit sans rapport avec des obligations de financement de transactions commerciales (approche rétrospective)</td><td colspan="2">100% de la sortie nette moyenne de trésorerie sur 30 jours enregistrée au cours des 24 derniers mois pour l’ensemble du portefeuille, ou 5 % de l’encours nominal</td></tr>
 <tr><td>9.3 Obligations non contractuelles telles que:</td><td></td></tr>
@@ -887,7 +1153,7 @@ Annexe 2*[^t-3]*
 <tr><td>9.3.2 demande potentielle de rachat des titres de dette émis par la banque</td><td>0 %</td></tr>
 <tr><td>9.3.3 demande potentielle de rachat des titres de dette émis par des sociétés ad hoc, véhicules d’investissement sur titres et autres facilités de financement liés à la banque et lui transférant un risque de liquidité en raison de leur structure</td><td colspan="2">20 % du montant devant être financé après 30 jours</td></tr>
 <tr><td>9.3.4 produits structurés et produits synthétiques comparables devant satisfaire à des exigences de liquidité particulières, notamment les produits pour lesquels la banque s’est engagée à veiller à ce qu’ils soient aisément négociables. Sont exclus les produits ne contribuant pas au financement de la banque et pouvant être réduits sans incidence sur la liquidité</td><td colspan="2">5 % du volume émis</td></tr>
-<tr><td>9.3.5 fonds du marché monétaire gérés dans un objectif de préservation de la valeur, comme les fonds à valeur liquidative constante (*Constant Net Asset Value M**o**ney Market Funds)*</td><td>5 % du volume émis</td></tr>
+<tr><td>9.3.5 fonds du marché monétaire gérés dans un objectif de préservation de la valeur, comme les fonds à valeur liquidative constante (*Constant Net Asset Value Money Market Funds)*</td><td>5 % du volume émis</td></tr>
 <tr><td>9.3.6 autres engagements non contractuels</td><td>0</td></tr>
 <tr><td>10. Demande potentielle de rachat de titres de dette émis par la banque elle-même et présentant une durée (résiduelle) supérieure à 30 jours, par des négociants en titres ou teneurs de marché liés</td><td>0</td></tr>
 <tr><td>11. Positions à court terme de clients couvertes par des sûretés non HQLA d’autres clients</td><td>50</td></tr>
@@ -899,13 +1165,13 @@ Annexe 2*[^t-3]*
 <tr><td>15. Sorties de trésorerie internes à un groupe (établissement individuel seulement)</td><td>100</td></tr>
 </table>
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 16, al. 5)
 
 ## Entrées de trésorerie et taux d’entrée
 
-[^t-4]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
+[^t-4]: Introduite par le ch. II de l’O du 25 juin 2014 ([RO 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Mise à jour par le ch. II de l’O du 22 nov. 2017 ([RO 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) et le ch. II al. 1 de l’O 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
 <table>
 <tr><th>Catégories d’entrées</th><th>Taux d’entrée (en pour-cent)</th></tr>
@@ -919,10 +1185,115 @@ Annexe 3*[^t-4]*
 <tr><td>2. Opérations de financement, prêts sur marge et swaps de sûretés garantis arrivant à échéance dans les 30 jours si les garanties servent à couvrir des positions courtes</td><td>0</td></tr>
 <tr><td>3. Facilités de crédit ou de liquidité accordées à la banque déclarante</td><td>0</td></tr>
 <tr><td>4. Dépôts opérationnels détenus dans d’autres établissements financiers (y c. les dépôts placés à la caisse centrale d’un réseau financier)</td><td>0</td></tr>
-<tr><td>5. Autres entrées par contrepartie dans les 30 jours</td><td colspan="2"></td></tr>
-<tr><td>5.1 Créances contractuelles sur des clients de détail et des petites entreprises</td><td colspan="2">50</td></tr>
-<tr><td>5.2 Créances contractuelles sur des établissements non financiers et toutes les autres personnes morales, hors opérations mentionnées ci-dessus</td><td colspan="2">50</td></tr>
-<tr><td>5.3 Créances contractuelles sur des établissements financiers et des banques centrales, hors opérations mentionnées ci-dessus</td><td colspan="2">100</td></tr>
-<tr><td>6. Autres entrées contractuelles de trésorerie dans les 30 jours</td><td colspan="2"></td></tr>
-<tr><td>7. Entrées de trésorerie intragroupe dans les 30 jours (établissement individuel seulement)</td><td colspan="2">100</td></tr>
+<tr><td>5. Autres entrées par contrepartie dans les 30 jours</td><td colspan="3"></td></tr>
+<tr><td>5.1 Créances contractuelles sur des clients de détail et des petites entreprises</td><td colspan="3">50</td></tr>
+<tr><td>5.2 Créances contractuelles sur des établissements non financiers et toutes les autres personnes morales, hors opérations mentionnées ci-dessus</td><td colspan="3">50</td></tr>
+<tr><td>5.3 Créances contractuelles sur des établissements financiers et des banques centrales, hors opérations mentionnées ci-dessus</td><td colspan="3">100</td></tr>
+<tr><td>**6.** **Autres entrées contractuelles de trésorerie**</td><td colspan="2"></td></tr>
+<tr><td>6.1 Entrées nettes liées à des opérations sur dérivés</td><td colspan="2">100</td></tr>
+<tr><td>6.2 Entrées contractuelles provenant de titres arrivant à échéance dans les 30 jours qui ne sont pas des actifs HQLA et qui ne sont pas déjà prises en compte ailleurs</td><td colspan="2">100</td></tr>
+<tr><td>6.3 Entrées contractuelles à 30 jours, irrévocables et n’étant pas déjà prises en compte ailleurs</td><td colspan="2">100</td></tr>
+<tr><td>7. Entrées de trésorerie intragroupe dans les 30 jours (établissement individuel seulement)</td><td colspan="3">100</td></tr>
+</table>
+
+Annexe 4[^t-5]
+
+(art. 17*k*)
+
+## Coefficients de pondération du financement stable disponible (ASF)
+
+[^t-5]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+<table>
+<tr><th>Catégorie ASF</th><th>Coefficient de pondération (en %)</th></tr>
+<tr><td>1.1 Total des fonds propres de base (fonds propres de base durs et fonds propres de base supplémentaires) et des fonds propres complémentaires pouvant être pris en compte selon les art. 21 à 30 OFR[^annex4-lvlu1-1], avant l’application des corrections énumérées aux art. 31 à 40 OFR et sans la part des instruments de fonds propres complémentaires ayant une durée résiduelle inférieure à un an</td><td>100</td></tr>
+<tr><td>1.2 Instruments de fonds propres ne figurant pas dans la catégorie ASF 1.1 et ayant une durée résiduelle effective (déterminée conformément aux dispositions de l’art. 17*l*) égale ou supérieure à un an</td><td>100</td></tr>
+<tr><td>1.3 Engagements, y compris les dépôts à terme et les financements garantis et non *garantis* ayant une durée résiduelle effective égale ou supérieure à un an</td><td>100</td></tr>
+<tr><td>1.4 Engagements fiscaux latents (*deferred tax liabilities*) susceptibles d’arriver à échéance au plus tôt au bout d’un an</td><td>100</td></tr>
+<tr><td>1.5 Instruments découlant d’intérêts minoritaires (*minority interests*) ayant une durée résiduelle effective égale ou supérieure à un an</td><td>100</td></tr>
+<tr><td>2. Dépôts à vue ou à terme stables de clients de détail et de petites entreprises ayant une durée résiduelle inférieure à un an</td><td>95</td></tr>
+<tr><td>3. Dépôts à vue ou à terme moins stables de clients de détail et de petites entreprises ayant une durée résiduelle inférieure à un an</td><td>90</td></tr>
+<tr><td>4. Dépôts effectués par les banques appartenant à un groupement financier coopératif auprès de leur établissement central et découlant de tâches accomplies en commun et de conditions légales, statutaires ou contractuelles</td><td>85</td></tr>
+<tr><td>5.1 Dépôts de gouvernements centraux, de collectivités territoriales subordonnées ou d’autres corporations de droit public, de banques de développement multilatérales et nationales et d’établissements non financiers, et financements garantis et non garantis provenant de ces institutions, ayant une durée résiduelle inférieure à un an</td><td>50</td></tr>
+<tr><td>5.2 Dépôts opérationnels</td><td>50</td></tr>
+<tr><td>5.3 Tous les autres dépôts et les financements garantis et non garantis ne figurant pas dans les catégories ASF ci-dessus, y compris les dépôts de banques centrales et d’établissements financiers et les financements provenant de ces banques et établissements, ayant une durée résiduelle égale ou supérieure à six mois et inférieure à un an</td><td>50</td></tr>
+<tr><td>5.4 Engagements fiscaux latents (*deferred tax liabilities*) susceptibles d’arriver à échéance au plus tôt au bout de six mois, mais avant un an</td><td>50</td></tr>
+<tr><td>5.5 Instruments découlant d’intérêts minoritaires (*minority interests*) ayant une durée résiduelle effective égale ou supérieure à six mois et inférieure à un an</td><td>50</td></tr>
+<tr><td>6.1 Tous les engagements et instruments de fonds propres ayant une durée résiduelle inférieure à six mois et ne figurant pas dans les catégories ASF ci-dessus, y compris les dépôts de banques centrales et d’établissements financiers et les financements garantis et non garantis provenant de ces banques et établissements</td><td>0</td></tr>
+<tr><td>6.2 Engagements sans échéance précise, y compris les engagements fiscaux latents (*deferred tax liabilities*), dont la prochaine échéance possible est inférieure à six mois, et instruments découlant d’intérêts minoritaires (*minority interests*) ayant une durée résiduelle effective inférieure à six mois</td><td>0</td></tr>
+<tr><td>6.3 Engagements découlant d’opérations sur dérivés selon l’art. 17*j*, al. 1 et 4, déduction faite des créances découlant d’opérations sur dérivés selon l’art. 17*j*, al. 2 et 5, si les engagements découlant d’opérations sur dérivés sont supérieurs aux créances découlant de d’opérations sur dérivés</td><td>0</td></tr>
+<tr><td>6.4 Engagements découlant de l’achat, comptabilisé selon le principe de la date de transaction (*trade date payables*), d’instruments financiers, de devises et de matières premières:</td><td>0</td></tr>
+<tr><td>a. dont le règlement a lieu dans le délai standard ou le délai habituel pour le type de transaction concerné, ou b. dont le règlement n’a pas encore eu lieu mais reste néanmoins attendu.</td><td></td></tr>
+<tr><td>6.5 Dans le cas d’engagements découlant d’opérations sur dérivés, garanties reçues sous la forme de marges initiales et de marges variables qui ne peuvent pas être compensées par les créances découlant d’opérations sur dérivés</td><td>0</td></tr>
+<tr><td>6.6 Engagements dépendant de créances au sens de l’art. 17*p*</td><td>0</td></tr>
+</table>
+
+[^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
+Annexe 5[^t-6]
+
+(art. 17*m*)
+
+## Coefficients de pondération du financement stable exigé (RSF)
+
+[^t-6]: Introduite par le ch. II al. 2 de l’O du 11 sept. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+
+<table>
+<tr><th colspan="3">Catégorie RSF</th><th colspan="2">Coefficient de pondération (en %)</th></tr>
+<tr><td colspan="3">1.1 Pièces de monnaie et billets de banque immédiatement disponibles</td><td colspan="2">0</td></tr>
+<tr><td colspan="3">1.2 Avoirs auprès des banques centrales, y compris:</td><td></td><td colspan="2">0</td></tr>
+<tr><td colspan="3">a. la réserve minimale, pour autant que la réglementation de la banque centrale concernée n’exige pas de la détenir sur une longue période;</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="3">b. la réserve excédentaire, et</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="3">c. les avoirs en compte de virement auprès de la banque centrale, qui découlent d’opérations de pension.</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="3">1.3 Toutes les autres créances sur les banques centrales ayant une durée résiduelle inférieure à six mois, notamment celles découlant de titres de créance émis par des banques centrales</td><td colspan="2">0</td></tr>
+<tr><td colspan="3">1.4 Créances découlant de la vente, comptabilisée selon le principe de la date de transaction (trade date receivables), d’instruments financiers, de devises et de matières premières:</td><td colspan="2">0</td></tr>
+<tr><td colspan="3">a. dont le règlement a lieu dans le délai standard ou le délai habituel pour le type de transaction concerné, ou</td><td colspan="2"></td></tr>
+<tr><td colspan="3">b. dont le règlement n’a pas encore eu lieu mais reste néanmoins attendu.</td><td colspan="2"></td></tr>
+<tr><td colspan="3">1.5 Créances dépendant d’engagements au sens de l’art. 17p</td><td colspan="2">0</td></tr>
+<tr><td colspan="3">1.6 Actifs non grevés de la catégorie 1 au sens de l’art. 15*a*, pour autant qu’ils ne figurent pas dans les catégories RSF 1.1 à 1.3</td><td colspan="2">0</td></tr>
+<tr><td colspan="3">1.7 Actifs de la catégorie 1 au sens de l’art. 15*a*, grevés pendant une période inférieure à six mois</td><td colspan="2">0</td></tr>
+<tr><td colspan="3">1.8 Actifs grevés de la catégorie 1 au sens de l’art. 15*a* liés à des opérations d’injection de liquidités des banques centrales (du point de vue de la banque centrale)</td><td colspan="2">0</td></tr>
+<tr><td colspan="3">1.9 Facilités de crédit et de liquidité révocables sans conditions pour tous les clients</td><td colspan="2">0</td></tr>
+<tr><td colspan="3">2. Sous réserve de la catégorie RSF 3.4, dépôts non grevés ou grevés pendant une période inférieure à six mois d’établissements financiers et prêts à ces établissements ayant une durée résiduelle inférieure à six mois:</td><td colspan="2">10</td></tr>
+<tr><td colspan="3">a. si les dépôts et les prêts sont garantis par des actifs de la catégorie 1 au sens de l’art. 15*a* ou de la catégorie 2*a* au sens de l’art. 15*b*, al. 1 à 4, et</td><td colspan="2"></td></tr>
+<tr><td colspan="3">b. si la banque peut remettre librement en gage les garanties reçues pendant toute la durée du dépôt ou du prêt (rehypothecation).</td><td colspan="2"></td></tr>
+<tr><td colspan="3">3.1 Actifs non grevés de la catégorie 2*a* au sens de l’art. 15*b*, al. 1 à 4</td><td colspan="2">15</td></tr>
+<tr><td colspan="3">3.2 Actifs de la catégorie 2*a* au sens de l’art. 15*b*, al. 1 à 4, grevés pendant une période inférieure à six mois</td><td colspan="2">15</td></tr>
+<tr><td colspan="3">3.3 Actifs grevés de la catégorie 2*a* au sens de l’art. 15*b* liés à des opérations d’injection de liquidités des banques centrales (du point de vue de la banque centrale)</td><td colspan="2">15</td></tr>
+<tr><td colspan="3">3.4 Sous réserve des catégories RSF 4.4 et 6.6, tous les autres dépôts non grevés ou grevés pendant une période inférieure à six mois auprès d’établissements financiers et les prêts non grevés à ces établissements ayant une durée résiduelle inférieure à six mois et ne figurant pas dans la catégorie RSF 2</td><td colspan="2">15</td></tr>
+<tr><td colspan="3">4.1 Actifs non grevés ou grevés pendant une période inférieure à six mois de la catégorie 2*b* au sens de l’art. 15*b*, al. 5 et 6</td><td colspan="2">50</td></tr>
+<tr><td colspan="3">4.2 Actifs grevés pendant une période égale ou supérieure à six mois et inférieure à un an qui, s’ils étaient non grevés, se verraient appliquer un coefficient RSF inférieur ou égal à 50 %</td><td colspan="2">50</td></tr>
+<tr><td colspan="3">4.3 Tous les dépôts auprès d’établissements financiers, prêts à ces établissements et créances sur les banques centrales ayant une durée résiduelle égale ou supérieure à six mois et inférieure à un an</td><td colspan="2">50</td></tr>
+<tr><td colspan="3">4.4 Dépôts opérationnels auprès d’autres établissements financiers se voyant appliquer un coefficient ASF de 50 % selon la catégorie ASF 5.2</td><td colspan="2">50</td></tr>
+<tr><td colspan="3">4.5 Tous les autres actifs ayant une durée résiduelle inférieure à un an, qui ne sont pas grevés ou qui sont grevés pour une durée inférieure à un an</td><td colspan="2">50</td></tr>
+<tr><td colspan="3">5.1 Créances hypothécaires non grevées sur objet d’habitation, ayant une durée résiduelle égale ou supérieure à un an et une pon-dération de risque inférieure ou égale à 35 % selon l’approche standard de Bâle II concernant les risques de crédit</td><td colspan="2">65</td></tr>
+<tr><td colspan="3">5.2 Tous les autres dépôts et prêts non grevés:</td><td colspan="2">65</td></tr>
+<tr><td colspan="3">a. ayant une durée résiduelle égale ou supérieure à un an;</td><td colspan="2"></td></tr>
+<tr><td colspan="3">b. ayant une pondération de risque inférieure ou égale à 35 % selon l’approche standard de Bâle II concernant les risques de crédit;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">c. ne figurant pas dans les catégories RSF 2, 3.4, 4.3 ou 4.4, et</td><td colspan="3"></td></tr>
+<tr><td colspan="3">d. ne constituant pas des dépôts auprès d’établissements financiers ni des prêts à ces établissements.</td><td colspan="3"></td></tr>
+<tr><td colspan="3">5.3 Actifs grevés pendant une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 5.1 et 5.2</td><td colspan="3">65</td></tr>
+<tr><td colspan="3">6.1 Marges initiales d’opérations sur dérivés versées en espèces, en titres ou en d’autres actifs et contributions en espèces ou en d’autres actifs au fonds de défaillance d’une contrepartie centrale, sauf si les marges initiales d’opérations sur dérivés versées en titres ou en d’autres actifs se voient appliquer un coefficient RSF plus élevé. Dans ce cas, c’est le coefficient plus élevé qui s’applique</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">6.2 Autres dépôts et prêts non grevés qui ne sont pas en souffrance, ayant une pondération de risque supérieure à 35 % selon l’approche standard de Bâle II concernant les risques de crédit et une durée résiduelle égale ou supérieure à un an, hors dépôts auprès d’établissements financiers et prêts à ces établissements</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">6.3 Titres non grevés ayant une durée résiduelle d’au moins un an, qui ne sont pas en défaut et ne remplissent pas les critères des HQLA, y compris les actions négociées en bourse, pour autant qu’ils ne figurent pas dans la catégorie RSF 5.1</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">6.4 Matières premières négociées physiquement, y compris les métaux précieux</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">6.5 Actifs grevés pendant une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 6.1 à 6.4</td><td></td><td colspan="2">85</td></tr>
+<tr><td colspan="3">6.6 Prêts de banques appartenant à un groupement financier coopératif à leur établissement central et découlant de tâches accomplies en commun et de conditions légales, statutaires ou contractuelles</td><td colspan="3">85</td></tr>
+<tr><td colspan="3">7.1 Tous les actifs grevés pendant une période égale ou supérieure à un an</td><td colspan="3">100</td></tr>
+<tr><td colspan="3">7.2 Créances découlant d’opérations sur dérivés selon l’art. 17*j*, al. 2 et 5, déduction faite des engagements découlant d’opérations sur dérivés selon l’art. 17*j*, al. 1 et 4, si les créances découlant d’opérations sur dérivés sont supérieures aux engagements découlant d’opérations sur dérivés</td><td colspan="3">100</td></tr>
+<tr><td colspan="3">7.3 20 % du montant brut des engagements découlant d’opérations sur dérivés selon l’art. 17*j*, al. 1, avant déduction des marges variables versées</td><td colspan="3">100</td></tr>
+<tr><td colspan="3">7.4 Tous les autres actifs ne figurant pas dans les catégories ci-dessus, notamment:</td><td colspan="3">100</td></tr>
+<tr><td colspan="3">a. les dépôts en souffrance;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">b. les dépôts auprès d’établissements financiers et les prêts à ces établissements ayant une durée résiduelle égale ou supérieure à un an;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">c. les actions non négociées en bourse;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">d. les immobilisations corporelles;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">e. les éléments déduits des fonds propres pris en compte;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">f. les créances retenues;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">g. les actifs d’assurance (*insurance assets*);</td><td colspan="3"></td></tr>
+<tr><td colspan="3">h. les participations dans les filiales;</td><td colspan="3"></td></tr>
+<tr><td colspan="3">i. les titres en défaut.</td><td colspan="3"></td></tr>
+<tr><td colspan="3">7.5 Actifs grevés pour une période inférieure à un an qui, s’ils étaient non grevés, relèveraient des catégories RSF 7.1 à 7.4</td><td colspan="3">100</td></tr>
+<tr><td colspan="3">8. Facilités de crédit et de liquidité révocables sous conditions et irrévocables, accordées à tous les clients</td><td colspan="3">5 % de la partie non décaissée</td></tr>
+<tr><td colspan="3">9.1 Engagements conditionnels liés à des financements de transactions commerciales</td><td colspan="3">5 % de l’encours nominal</td></tr>
+<tr><td colspan="3">9.2 Engagements conditionnels découlant de garanties et de lettres de crédit non liés à des financements de transactions commerciales</td><td colspan="3"></td></tr>
 </table>
