@@ -3,11 +3,11 @@ sr: "451.33"
 title: Verordnung vom 7. September 1994 über den Schutz der Flachmoore von nationaler Bedeutung (Flachmoorverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2092_2092_2092"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1994-09-07
 in_force: 1994-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2092_2092_2092/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1994-2092_2092_2092-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2092_2092_2092/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2092_2092_2092/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1994-2092_2092_2092-20210701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2092_2092_2092/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/2092_2092_2092/20210101/de"
 
 (Flachmoorverordnung)
 
-vom 7. September 1994 (Stand am 1. Januar 2021)
+vom 7. September 1994 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -47,7 +47,7 @@ verordnet:
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2017, in Kraft seit 1. Nov. 2017 ([AS 2017 5325](https://fedlex.data.admin.ch/eli/oc/2017/589)).
 [^2-2]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^2-3]: www.bafu.admin.ch &gt; Themen &gt; Biodiversität &gt; Fachinformationen &gt; Massnahmen &gt; Ökologische Infrastruktur &gt; Biotope von nationaler Bedeutung &gt; Moore
+[^2-3]: [www.bafu.admin.ch](http://www.bafu.admin.ch) &gt; Themen &gt; Biodiversität &gt; Fachinformationen &gt; Massnahmen &gt; Ökologische Infrastruktur &gt; Biotope von nationaler Bedeutung &gt; Moore
 
 #### Art. 3
 
@@ -165,13 +165,13 @@ Solange die Kantone die nach Artikel 3 Absatz 1 und Artikel 5 erforderlichen Mas
 [^13-1]: In Kraft seit 1. Febr. 1996.
 [^13-2]: [BBl 1991 III 1121](https://fedlex.data.admin.ch/eli/fga/1991/3_1121_1137_897)
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 1)
 
 ## Liste der Flachmoore von nationaler Bedeutung
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2017 ([AS 2017 5325](https://fedlex.data.admin.ch/eli/oc/2017/589)). Bereinigt gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4767](https://fedlex.data.admin.ch/eli/oc/2020/860)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 29. Sept. 2017 ([AS 2017 5325](https://fedlex.data.admin.ch/eli/oc/2017/589)). Bereinigt gemäss Ziff. I der V vom 21. Okt. 2020 ([AS 2020 4767](https://fedlex.data.admin.ch/eli/oc/2020/860)) und vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 292](https://fedlex.data.admin.ch/eli/oc/2021/292)).
 
 <table>
 <tr><th>Nr.</th><th>Lokalität</th><th>Gemeinde(n)[^annex1-lvlu1-1]</th><th>Aufnahme</th><th>Revisionen</th></tr>
@@ -766,62 +766,64 @@ Anhang 1*[^t-1]*
 <tr><td>281</td><td>Distelboden</td><td>Kerns</td><td>1996</td><td></td></tr>
 <tr><td>290</td><td>Melchsee</td><td>Kerns</td><td>1996</td><td></td></tr>
 <tr><td>297</td><td>Tannen</td><td>Kerns</td><td>1996</td><td></td></tr>
-<tr><td>1953</td><td>Städerried</td><td>Alpnach</td><td>1996</td><td></td></tr>
+<tr><td>1953</td><td>Städerried</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
 <tr><td>2568</td><td>Riedboden bei Zischlig</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>2569</td><td>Gross Lucht</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>2579</td><td>Hanenried</td><td>Sachseln</td><td>1996</td><td></td></tr>
-<tr><td>2580</td><td>Usser Allmend</td><td>Giswil</td><td>1996</td><td></td></tr>
+<tr><td>2569</td><td>Gross Lucht</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>2579</td><td>Hanenried</td><td>Sachseln</td><td>1996</td><td>2021</td></tr>
+<tr><td>2580</td><td>Usser Allmend</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
 <tr><td>2582</td><td>Siechenried</td><td>Kerns</td><td>1996</td><td></td></tr>
-<tr><td>2589</td><td>Sachsler Seefeld</td><td>Sachseln</td><td>1996</td><td></td></tr>
+<tr><td>2589</td><td>Sachsler Seefeld</td><td>Sachseln</td><td>1996</td><td>2021</td></tr>
 <tr><td>2757</td><td>Feldmoos</td><td>Engelberg</td><td>1996</td><td></td></tr>
-<tr><td>2946</td><td>Gschwänt/Längenschwand</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2947</td><td>Meien</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2950</td><td>Rischigenmatt/Chrüzliegg</td><td>Alpnach[^annex1-lvlu1-28]</td><td>1996</td><td></td></tr>
-<tr><td>2951</td><td>Rischigenmatt</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2952</td><td>Rotibachried</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2958</td><td>Steinstössi</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2961</td><td>Blätz</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2962</td><td>Mättli/Schoni</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2963</td><td>Riedzöpf</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2966</td><td>Längenfeldmoos</td><td>Alpnach</td><td>1996</td><td></td></tr>
-<tr><td>2969</td><td>Teilenboden</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>2973</td><td>Rossweid</td><td>Alpnach</td><td>1996</td><td></td></tr>
+<tr><td>2946</td><td>Gschwänt/Längenschwand</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2947</td><td>Meien</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2950</td><td>Rischigenmatt/Chrüzliegg</td><td>Alpnach[^annex1-lvlu1-28]</td><td>1996</td><td>2021</td></tr>
+<tr><td>2951</td><td>Rischigenmatt</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2952</td><td>Rotibachried</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2958</td><td>Steinstössi</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2961</td><td>Blätz</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2962</td><td>Mättli/Schoni</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2963</td><td>Riedzöpf</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2966</td><td>Längenfeldmoos</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
+<tr><td>2969</td><td>Teilenboden</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>2972</td><td>Riedboden</td><td>Sarnen</td><td>2021</td><td></td></tr>
+<tr><td>2973</td><td>Rossweid</td><td>Alpnach</td><td>1996</td><td>2021</td></tr>
 <tr><td>2975</td><td>Häsiseggboden</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>2976</td><td>Gerenstock</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>2979</td><td>Rischi</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>2981</td><td>Wengli</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3262</td><td>Schwand</td><td>Giswil, Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3263</td><td>Dörsmatt/Miesen</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3264</td><td>Miesenegg</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3266</td><td>Dörsmattgraben</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3267</td><td>Chesselsmatt</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3269</td><td>Riedmatt</td><td>Giswil</td><td>1996</td><td></td></tr>
+<tr><td>2976</td><td>Gerenstock</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>2979</td><td>Rischi</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>2981</td><td>Wengli</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3262</td><td>Schwand</td><td>Giswil, Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3263</td><td>Dörsmatt/Miesen</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3264</td><td>Miesenegg</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3266</td><td>Dörsmattgraben</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3267</td><td>Chesselsmatt</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3269</td><td>Riedmatt</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
 <tr><td>3270</td><td>Sewen</td><td>Sarnen</td><td>1996</td><td></td></tr>
 <tr><td>3271</td><td>Unter Sewen</td><td>Sarnen</td><td>1996</td><td></td></tr>
 <tr><td>3272</td><td>Ober Sewen</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3273</td><td>Trogenwald</td><td>Sarnen[^annex1-lvlu1-29]</td><td>1996</td><td></td></tr>
-<tr><td>3274</td><td>Glaubenberg/Hinter Rotbach</td><td>Sarnen[^annex1-lvlu1-30]</td><td>1996</td><td></td></tr>
+<tr><td>3273</td><td>Trogenwald</td><td>Sarnen[^annex1-lvlu1-29]</td><td>1996</td><td>2021</td></tr>
+<tr><td>3274</td><td>Glaubenberg/Hinter Rotbach</td><td>Sarnen[^annex1-lvlu1-30]</td><td>1996</td><td>2021</td></tr>
 <tr><td>3275</td><td>Chli Trogen</td><td>Giswil, Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3276</td><td>Münchenboden/Ochsenalp</td><td>Giswil, Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3288</td><td>Rormettlen</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3300</td><td>Totmoos</td><td>Giswil[^annex1-lvlu1-31]</td><td>1996</td><td></td></tr>
-<tr><td>3301</td><td>Emmen</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3304</td><td>Alpoglen</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3321</td><td>Schaftelenmoos/Stäldili/Sattelpass</td><td>Giswil[^annex1-lvlu1-32]</td><td>1996</td><td></td></tr>
-<tr><td>3330</td><td>Heustettli/Bösen-Ritzenmatt</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3333</td><td>Glatt-Allmend</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3336</td><td>Mettlen</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3341</td><td>Zwirchi</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3343</td><td>Rossboden/Looegg</td><td>Giswil</td><td>1996</td><td></td></tr>
-<tr><td>3344</td><td>Dälenboden</td><td>Giswil</td><td>1996</td><td></td></tr>
+<tr><td>3276</td><td>Münchenboden/Ochsenalp</td><td>Giswil, Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3288</td><td>Rormettlen</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3300</td><td>Totmoos</td><td>Giswil[^annex1-lvlu1-31]</td><td>1996</td><td>2021</td></tr>
+<tr><td>3301</td><td>Emmen</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3304</td><td>Alpoglen</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3321</td><td>Schaftelenmoos/Stäldili/ Sattelpass</td><td>Giswil[^annex1-lvlu1-32]</td><td>1996</td><td>2021</td></tr>
+<tr><td>3330</td><td>Heustettli/Bösen-Ritzenmatt</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3333</td><td>Glatt-Allmend</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3336</td><td>Mettlen</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3341</td><td>Zwirchi</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3342</td><td>Lätzen</td><td>Giswil</td><td>2021</td><td></td></tr>
+<tr><td>3343</td><td>Rossboden/Looegg</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
+<tr><td>3344</td><td>Dälenboden</td><td>Giswil</td><td>1996</td><td>2021</td></tr>
 <tr><td>3429</td><td>Marchmettlen</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3431</td><td>Unteres Schlierental</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3433</td><td>Lochalp</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3434</td><td>Nüwenalp</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3436</td><td>Obermattboden</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3437</td><td>Schwendi Kaltbad</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3438</td><td>Lengenschwand</td><td>Sarnen</td><td>1996</td><td></td></tr>
-<tr><td>3448</td><td>Riedboden</td><td>Alpnach[^annex1-lvlu1-33]</td><td>1996</td><td></td></tr>
+<tr><td>3431</td><td>Unteres Schlierental</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3433</td><td>Lochalp</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3434</td><td>Nüwenalp</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3436</td><td>Obermattboden</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3437</td><td>Schwendi Kaltbad</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3438</td><td>Lengenschwand</td><td>Sarnen</td><td>1996</td><td>2021</td></tr>
+<tr><td>3448</td><td>Riedboden</td><td>Alpnach[^annex1-lvlu1-33]</td><td>1996</td><td>2021</td></tr>
 <tr><td></td><td>Kanton Nidwalden</td><td></td><td></td><td></td></tr>
 <tr><td>1957</td><td>Grossriet/Gnappiriet</td><td>Stans</td><td>1994</td><td>2017</td></tr>
 <tr><td>2583</td><td>Eggen Rieter</td><td>Wolfenschiessen</td><td>1994</td><td>2017</td></tr>
@@ -1104,231 +1106,231 @@ Anhang 1*[^t-1]*
 <tr><td>2163</td><td>Tobelwald/Guetental</td><td>Quarten</td><td>1994</td><td></td></tr>
 <tr><td>2164</td><td>Nüchenstöck</td><td>Quarten</td><td>1996</td><td></td></tr>
 <tr><td></td><td>Kanton Graubünden</td><td></td><td></td><td></td></tr>
-<tr><td>438</td><td>Sältenüeb</td><td>Davos</td><td>1994</td><td>2020</td></tr>
-<tr><td>453</td><td>Cani</td><td>Seewis im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>456</td><td>Palus</td><td>Seewis im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>460</td><td>Vordersäss</td><td>Seewis im Prättigau</td><td>2020</td><td></td></tr>
-<tr><td>461</td><td>Hintersäss</td><td>Seewis im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>462</td><td>Vorder Cavell</td><td>Schiers, Seewis im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>463</td><td>Hinter Cavell</td><td>Schiers, Seewis im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>467</td><td>Chrüzböden (Alp Ortasee)</td><td>Jenins, Maienfeld</td><td>1994</td><td>2020</td></tr>
-<tr><td>470</td><td>Obersäss (Alp Ortasee)</td><td>Jenins</td><td>1994</td><td>2020</td></tr>
-<tr><td>471</td><td>Nördlich Obersäss (Alp Ortasee)</td><td>Jenins, Maienfeld</td><td>1994</td><td>2020</td></tr>
-<tr><td>472</td><td>Alpnova</td><td>Jenins, Maienfeld, Seewis im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>474</td><td>Sadrein</td><td>Seewis im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>483</td><td>Solcs</td><td>Grüsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>485</td><td>Wal</td><td>Grüsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>486</td><td>Cania</td><td>Grüsch</td><td>2020</td><td></td></tr>
-<tr><td>668</td><td>La Motta</td><td>Poschiavo</td><td>2020</td><td></td></tr>
-<tr><td>678</td><td>Schombrina</td><td>Scuol</td><td>2020</td><td></td></tr>
-<tr><td>679</td><td>Alp Astras</td><td>Scuol</td><td>2020</td><td></td></tr>
-<tr><td>683</td><td>Tamangur</td><td>Scuol</td><td>1994</td><td>2020</td></tr>
-<tr><td>684</td><td>Jufplaun</td><td>Val Müstair</td><td>1994</td><td>2020</td></tr>
-<tr><td>685</td><td>Buffalora</td><td>Val Müstair</td><td>1994</td><td>2020</td></tr>
-<tr><td>688</td><td>La Stretta</td><td>Val Müstair</td><td>2020</td><td></td></tr>
-<tr><td>691</td><td>Palü Marscha</td><td>Scuol</td><td>1994</td><td>2020</td></tr>
-<tr><td>694</td><td>Naluns</td><td>Scuol</td><td>1994</td><td>2020</td></tr>
-<tr><td>698</td><td>Furmièrs</td><td>Scuol</td><td>1994</td><td>2020</td></tr>
-<tr><td>700</td><td>Lai Nair</td><td>Scuol</td><td>1994</td><td>2020</td></tr>
-<tr><td>701</td><td>Palü Lunga</td><td>Valsot</td><td>1994</td><td>2020</td></tr>
-<tr><td>704</td><td>Salaaser Wisen</td><td>Samnaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>705</td><td>Val Fenga West</td><td>Scuol, Valsot</td><td>1994</td><td>2020</td></tr>
-<tr><td>706</td><td>Val Fenga Ost</td><td>Scuol</td><td>1994</td><td>2020</td></tr>
-<tr><td>710</td><td>Aua Naira</td><td>Scuol, Valsot</td><td>2020</td><td></td></tr>
-<tr><td>722</td><td>Bargaboden</td><td>Arosa</td><td>1994</td><td>2020</td></tr>
-<tr><td>723</td><td>Gauderböden</td><td>Arosa, Conters im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>728</td><td>Vereina</td><td>Klosters-Serneus</td><td>2020</td><td></td></tr>
-<tr><td>731</td><td>Teilenmäder/Seebüelen</td><td>Arosa, Conters im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>732</td><td>Sapüner Mäder</td><td>Arosa</td><td>1994</td><td>2020</td></tr>
-<tr><td>734</td><td>Faniner Galtihütte</td><td>Arosa, Jenaz</td><td>1994</td><td>2020</td></tr>
-<tr><td>735</td><td>Riedböden</td><td>Jenaz</td><td>1994</td><td>2020</td></tr>
-<tr><td>738</td><td>Triemel/Cunggel</td><td>Arosa</td><td>1998</td><td>2020</td></tr>
-<tr><td>742</td><td>Ried Faninpass</td><td>Arosa</td><td>1994</td><td>2020</td></tr>
-<tr><td>743</td><td>Ober Pirigen</td><td>Arosa</td><td>2020</td><td></td></tr>
-<tr><td>744</td><td>Fideriser Heuberge</td><td>Fideris</td><td>1994</td><td>2020</td></tr>
-<tr><td>746</td><td>Clun</td><td>Fideris</td><td>1996</td><td>2020</td></tr>
-<tr><td>751</td><td>Fondei</td><td>Arosa</td><td>1994</td><td>2020</td></tr>
-<tr><td>760</td><td>Riede südlich Joch</td><td>Churwalden</td><td>1994</td><td>2020</td></tr>
-<tr><td>761</td><td>Riede westlich Schwarzwald</td><td>Churwalden</td><td>1994</td><td>2020</td></tr>
-<tr><td>762</td><td>Usserberg</td><td>Churwalden</td><td>1994</td><td>2020</td></tr>
-<tr><td>765</td><td>Unter Prätschsee</td><td>Arosa</td><td>1994</td><td>2020</td></tr>
-<tr><td>774</td><td>Schwarzsee bei Arosa</td><td>Arosa</td><td>2020</td><td></td></tr>
-<tr><td>783</td><td>Heidsee, Pedra Grossa</td><td>Vaz/Obervaz</td><td>1994</td><td>2020</td></tr>
-<tr><td>789</td><td>Lenzerheide</td><td>Vaz/Obervaz</td><td>1994</td><td>2020</td></tr>
-<tr><td>790</td><td>Nordufer Heidsee</td><td>Vaz/Obervaz</td><td>1994</td><td>2020</td></tr>
-<tr><td>797</td><td>Capelgin/Leng Ried</td><td>Luzein</td><td>1994</td><td>2020</td></tr>
-<tr><td>804</td><td>Uf den Riederen</td><td>Conters im Prättigau, Fideris</td><td>1994</td><td>2020</td></tr>
-<tr><td>805</td><td>Birchenbüelen</td><td>Conters im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>807</td><td>Bi den Hüscheren</td><td>Klosters-Serneus</td><td>1994</td><td>2020</td></tr>
-<tr><td>816</td><td>Girsch</td><td>Tamins</td><td>1994</td><td>2020</td></tr>
-<tr><td>822</td><td>Weihermühle</td><td>Bonaduz, Rhäzüns</td><td>1996</td><td>2020</td></tr>
-<tr><td>829</td><td>Alp dil Plaun</td><td>Domleschg</td><td>1994</td><td>2020</td></tr>
-<tr><td>949</td><td>Riet (Fadära)</td><td>Seewis im Prättigau</td><td>1994</td><td>2020</td></tr>
-<tr><td>955</td><td>Stelsersee</td><td>Luzein, Schiers</td><td>1994</td><td>2020</td></tr>
-<tr><td>956</td><td>Sässji</td><td>Luzein, Schiers</td><td>2020</td><td></td></tr>
-<tr><td>958</td><td>Fulried am Stelserberg</td><td>Schiers</td><td>1994</td><td>2020</td></tr>
-<tr><td>961</td><td>Loch</td><td>Grüsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>962</td><td>Teufried</td><td>Furna</td><td>2020</td><td></td></tr>
-<tr><td>963</td><td>Rongg</td><td>Furna</td><td>1998</td><td>2020</td></tr>
-<tr><td>964</td><td>Rongg</td><td>Furna, Jenaz</td><td>1998</td><td>2020</td></tr>
-<tr><td>965</td><td>Danusa</td><td>Furna</td><td>2020</td><td></td></tr>
-<tr><td>967</td><td>Güferlitzi</td><td>Furna</td><td>1994</td><td>2020</td></tr>
-<tr><td>973</td><td>Geiswis/ Gaschneida/Plustorna</td><td>Luzein</td><td>1994</td><td>2020</td></tr>
-<tr><td>974</td><td>Promisaun</td><td>Luzein</td><td>1994</td><td>2020</td></tr>
-<tr><td>976</td><td>Tanail</td><td>Fideris</td><td>1994</td><td>2020</td></tr>
-<tr><td>991</td><td>Alp Trida</td><td>Samnaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>992</td><td>Alp Bella</td><td>Samnaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>999</td><td>Alp da Schnaus</td><td>Ilanz/Glion</td><td>1994</td><td>2020</td></tr>
-<tr><td>1000</td><td>Tschessas</td><td>Falera</td><td>1994</td><td>2020</td></tr>
-<tr><td>1001</td><td>Prau Grass</td><td>Ilanz/Glion</td><td>1994</td><td>2020</td></tr>
-<tr><td>1004</td><td>Paliu Marscha</td><td>Falera</td><td>1994</td><td>2020</td></tr>
-<tr><td>1005</td><td>Tegia Sura</td><td>Falera</td><td>1994</td><td>2020</td></tr>
-<tr><td>1011</td><td>Cavarschons</td><td>Falera</td><td>1996</td><td>2020</td></tr>
-<tr><td>1014</td><td>Ladiral</td><td>Breil/Brigels</td><td>2020</td><td></td></tr>
-<tr><td>1023</td><td>Alp da Rueun</td><td>Ilanz/Glion</td><td>2020</td><td></td></tr>
-<tr><td>1028</td><td>Lag digl Oberst</td><td>Falera, Laax</td><td>1994</td><td>2020</td></tr>
-<tr><td>1030</td><td>Cuolms da Breil</td><td>Breil/Brigels</td><td>1994</td><td>2020</td></tr>
-<tr><td>1033</td><td>Alp Dado Sut</td><td>Breil/Brigels</td><td>2020</td><td></td></tr>
-<tr><td>1036</td><td>Alp Dado Sura</td><td>Breil/Brigels</td><td>1994</td><td>2020</td></tr>
-<tr><td>1039</td><td>Val Frisal</td><td>Breil/Brigels</td><td>1996</td><td>2020</td></tr>
-<tr><td>1040</td><td>Affeier/Pifal</td><td>Obersaxen Mundaun</td><td>1998</td><td>2020</td></tr>
-<tr><td>1043</td><td>Cuolm Sura</td><td>Obersaxen Mundaun</td><td>1998</td><td>2020</td></tr>
-<tr><td>1046</td><td>Prau Mitgiert</td><td>Obersaxen Mundaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1048</td><td>Moore nordwestlich Plitsches</td><td>Obersaxen Mundaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1050</td><td>Paliu Marscha</td><td>Ilanz/Glion</td><td>1998</td><td>2020</td></tr>
-<tr><td>1053</td><td>Bosch</td><td>Ilanz/Glion</td><td>1994</td><td>2020</td></tr>
-<tr><td>1054</td><td>Ruschneras</td><td>Ilanz/Glion, Obersaxen Mundaun</td><td>1998</td><td>2020</td></tr>
-<tr><td>1057</td><td>Ligneida</td><td>Ilanz/Glion</td><td>1998</td><td>2020</td></tr>
-<tr><td>1060</td><td>Cuolm Sura</td><td>Ilanz/Glion, Safiental</td><td>1994</td><td>2020</td></tr>
-<tr><td>1062</td><td>Alp Nova</td><td>Obersaxen Mundaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1064</td><td>Alp Prada</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1068</td><td>Riederen</td><td>Obersaxen Mundaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1069</td><td>Bannwald</td><td>Obersaxen Mundaun</td><td>1996</td><td>2020</td></tr>
-<tr><td>1070</td><td>Sassli</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1071</td><td>Wallengaden</td><td>Obersaxen Mundaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1073</td><td>Sum Cuolm</td><td>Lumnezia, Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1076</td><td>Claveiera</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1077</td><td>Tschafanna</td><td>Obersaxen Mundaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1078</td><td>Stegg</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1081</td><td>Kartitscha</td><td>Obersaxen Mundaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1082</td><td>Gischniga</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1083</td><td>Wuost</td><td>Obersaxen Mundaun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1088</td><td>Nordöstlich Lavadinas</td><td>Lumnezia</td><td>1996</td><td>2020</td></tr>
-<tr><td>1091</td><td>Murtes</td><td>Lumnezia</td><td>1994</td><td>2020</td></tr>
-<tr><td>1097</td><td>Alp Naul</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1098</td><td>Alp Nova</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1100</td><td>Tschantegn</td><td>Lumnezia</td><td>2020</td><td></td></tr>
-<tr><td>1318</td><td>Rietboden (Tamboalp)</td><td>Rheinwald</td><td>1994</td><td>2020</td></tr>
-<tr><td>1457</td><td>Isla Sut</td><td>Ilanz/Glion</td><td>1996</td><td>2020</td></tr>
-<tr><td>1458</td><td>Paliu Musalet</td><td>Sagogn, Schluein</td><td>1994</td><td>2020</td></tr>
-<tr><td>1626</td><td>Lagh Doss</td><td>Mesocco</td><td>1994</td><td>2020</td></tr>
-<tr><td>1640</td><td>Bosch de San Remo</td><td>Mesocco</td><td>1998</td><td>2020</td></tr>
-<tr><td>1643</td><td>Oberalppass</td><td>Tujetsch[^annex1-lvlu1-53]</td><td>1996</td><td>1998/20</td></tr>
-<tr><td>1644</td><td>Tgatlems</td><td>Tujetsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>1645</td><td>Plaun Pardatsch/ Crest Darvun</td><td>Tujetsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>1648</td><td>Mulinatsch</td><td>Tujetsch</td><td>2020</td><td></td></tr>
-<tr><td>1651</td><td>Val Val</td><td>Tujetsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>1653</td><td>Plauncas Cuflegl</td><td>Tujetsch</td><td>2020</td><td></td></tr>
-<tr><td>1654</td><td>Plidutscha/Trutg Nurschalas</td><td>Tujetsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>1655</td><td>Prau Mulins</td><td>Tujetsch</td><td>2020</td><td></td></tr>
-<tr><td>1659</td><td>Liets</td><td>Tujetsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>1664</td><td>Palius</td><td>Medel (Lucmagn)</td><td>1994</td><td>2020</td></tr>
-<tr><td>1668</td><td>Stavel da Maighels</td><td>Tujetsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>1672</td><td>Alp Tuma</td><td>Tujetsch</td><td>1994</td><td>2020</td></tr>
-<tr><td>1688</td><td>Riedboden</td><td>Vals</td><td>1994</td><td>2020</td></tr>
-<tr><td>1694</td><td>Tgiern Grond</td><td>Trun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1695</td><td>Alp Nadels</td><td>Trun</td><td>1994</td><td>2020</td></tr>
-<tr><td>1696</td><td>Sontga Brida</td><td>Trun</td><td>2020</td><td></td></tr>
-<tr><td>1697</td><td>Alp Nadéls Daden</td><td>Trun</td><td>2020</td><td></td></tr>
-<tr><td>1699</td><td>Rossbodensee</td><td>Obersaxen Mundaun</td><td>1996</td><td>2020</td></tr>
-<tr><td>1701</td><td>Vorderalp</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1702</td><td>Vorderalp</td><td>Obersaxen Mundaun</td><td>2020</td><td></td></tr>
-<tr><td>1704</td><td>Stavels Veders</td><td>Medel (Lucmagn)</td><td>1994</td><td>2020</td></tr>
-<tr><td>1705</td><td>Alp Sura</td><td>Medel (Lucmagn)</td><td>2020</td><td></td></tr>
-<tr><td>1715</td><td>Crap la Crusch</td><td>Lumnezia[^annex1-lvlu1-54]</td><td>1994</td><td>2020</td></tr>
-<tr><td>1946</td><td>Alp Sura</td><td>Ferrera</td><td>1994</td><td>2020</td></tr>
-<tr><td>1948</td><td>Plan da Niemet</td><td>Ferrera</td><td>2020</td><td></td></tr>
-<tr><td>1954</td><td>Gletti/Hubelboda</td><td>Avers</td><td>1994</td><td>2020</td></tr>
-<tr><td>1955</td><td>Groussa Steina</td><td>Avers</td><td>2020</td><td></td></tr>
-<tr><td>1956</td><td>Plattner Berga</td><td>Avers</td><td>1994</td><td>2020</td></tr>
-<tr><td>1958</td><td>Oberplatta</td><td>Avers</td><td>2020</td><td></td></tr>
-<tr><td>1959</td><td>Alp Platta</td><td>Avers</td><td>2020</td><td></td></tr>
-<tr><td>1963</td><td>Alp Anarosa I</td><td>Casti-Wergenstein</td><td>1994</td><td>2020</td></tr>
-<tr><td>1964</td><td>Faschas</td><td>Casti-Wergenstein, Mathon</td><td>2020</td><td></td></tr>
-<tr><td>1965</td><td>Faschas</td><td>Mathon</td><td>2020</td><td></td></tr>
-<tr><td>1969</td><td>Alp Stierva, Sigliots</td><td>Albula/Alvra</td><td>1994</td><td>2020</td></tr>
-<tr><td>1975</td><td>Schatschas</td><td>Albula/Alvra, Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>1980</td><td>Alp Anarosa II</td><td>Casti-Wergenstein</td><td>1994</td><td>2020</td></tr>
-<tr><td>1984</td><td>Som igls Mellens</td><td>Surses</td><td>2020</td><td></td></tr>
-<tr><td>1994</td><td>Caritsch</td><td>Andeer</td><td>2020</td><td></td></tr>
-<tr><td>2013</td><td>Farreras/Scargneras</td><td>Surses</td><td>1998</td><td>2020</td></tr>
-<tr><td>2036</td><td>Hüttatobel</td><td>Safiental</td><td>2020</td><td></td></tr>
-<tr><td>2040</td><td>Pascuminer See/Bischolsee</td><td>Flerden</td><td>2020</td><td></td></tr>
-<tr><td>2042</td><td>Salignas/Combras</td><td>Cazis, Flerden</td><td>1998</td><td>2020</td></tr>
-<tr><td>2045</td><td>Glaspass</td><td>Tschappina</td><td>1994</td><td>2020</td></tr>
-<tr><td>2059</td><td>Engi</td><td>Safiental</td><td>1994</td><td>2020</td></tr>
-<tr><td>2072</td><td>Chilchalp</td><td>Rheinwald</td><td>1994</td><td>2020</td></tr>
-<tr><td>2077</td><td>Lais da Flix</td><td>Surses</td><td>2020</td><td></td></tr>
-<tr><td>2078</td><td>Tgeps</td><td>Surses</td><td>2020</td><td></td></tr>
-<tr><td>2082</td><td>Lai Neir</td><td>Surses</td><td>1998</td><td>2020</td></tr>
-<tr><td>2085</td><td>Alp Flix</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2086</td><td>Tga d’Meir</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2089</td><td>Son Roc</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2090</td><td>Paleis</td><td>Surses</td><td>2020</td><td></td></tr>
-<tr><td>2094</td><td>Val Savriez</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2097</td><td>Muttariel</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2100</td><td>Ransung</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2101</td><td>Alp Ses</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2102</td><td>Val da Natons</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2112</td><td>Culmanets</td><td>Surses</td><td>2020</td><td></td></tr>
-<tr><td>2122</td><td>Barscheinz</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2130</td><td>Jufer Alpa</td><td>Avers</td><td>1994</td><td>2020</td></tr>
-<tr><td>2135</td><td>Alp Tgavretga</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2141</td><td>Am Eva dal Sett</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2145</td><td>Mot Scalotta</td><td>Surses</td><td>1994</td><td>2020</td></tr>
-<tr><td>2148</td><td>Cuolmens</td><td>Surses</td><td>1996</td><td>2020</td></tr>
-<tr><td>2151</td><td>Tgavretga</td><td>Surses</td><td>1996</td><td>2020</td></tr>
-<tr><td>2156</td><td>Passo del Maloja/ Aira da la Palza</td><td>Bregaglia</td><td>1994</td><td>2020</td></tr>
-<tr><td>2157</td><td>Palü</td><td>Bregaglia</td><td>2020</td><td></td></tr>
-<tr><td>2214</td><td>Prada da Tuoi</td><td>Scuol</td><td>1994</td><td>2020</td></tr>
-<tr><td>2215</td><td>Prümarans</td><td>Scuol</td><td>1994</td><td>2020</td></tr>
-<tr><td>2217</td><td>Clavadeler Berg</td><td>Davos</td><td>1994</td><td>2020</td></tr>
-<tr><td>2222</td><td>Plansena</td><td>Poschiavo</td><td>1998</td><td>2020</td></tr>
-<tr><td>2225</td><td>Munt da San Franzesch</td><td>Poschiavo</td><td>1994</td><td>2020</td></tr>
-<tr><td>2231</td><td>Salèt</td><td>Valsot</td><td>2020</td><td></td></tr>
-<tr><td>2237</td><td>Plan Nai/Marangun</td><td>Valsot</td><td>1994</td><td>2020</td></tr>
-<tr><td>2240</td><td>Suot l’Ova</td><td>Sils im Engadin/Segl</td><td>2020</td><td></td></tr>
-<tr><td>2241</td><td>Güvè/Crasta</td><td>Sils im Engadin/Segl</td><td>1994</td><td>2020</td></tr>
-<tr><td>2242</td><td>Muotta da Güvè/Chantunatsch</td><td>Bregaglia, Sils im Engadin/Segl</td><td>1994</td><td>2020</td></tr>
-<tr><td>2243</td><td>Chalcheras</td><td>Sils im Engadin/Segl</td><td>1994</td><td>2020</td></tr>
-<tr><td>2250</td><td>Val Fedoz</td><td>Bregaglia</td><td>1994</td><td>2020</td></tr>
-<tr><td>2257</td><td>Val Fex, Alp Suot</td><td>Sils im Engadin/Segl</td><td>1994</td><td>2020</td></tr>
-<tr><td>2264</td><td>Val Madris, Preda</td><td>Bregaglia</td><td>1998</td><td>2020</td></tr>
-<tr><td>2269</td><td>Palü Granda</td><td>Poschiavo</td><td>1994</td><td>2020</td></tr>
-<tr><td>2279</td><td>Pè d’Munt/Pradè</td><td>Samedan</td><td>1998</td><td>2020</td></tr>
-<tr><td>2284</td><td>Lej da Staz</td><td>Celerina/Schlarigna</td><td>1994</td><td>2020</td></tr>
-<tr><td>2285</td><td>God da Staz</td><td>Celerina/Schlarigna</td><td>1998</td><td>2020</td></tr>
-<tr><td>2286</td><td>Choma Suot-Palüd Chapè</td><td>Celerina/Schlarigna</td><td>1998</td><td>2020</td></tr>
-<tr><td>2288</td><td>Alp Giop</td><td>St. Moritz</td><td>2020</td><td></td></tr>
-<tr><td>2291</td><td>Palüd Lungia</td><td>Silvaplana</td><td>2020</td><td></td></tr>
-<tr><td>2360</td><td>Alp Neaza</td><td>Andeer</td><td>1994</td><td>2020</td></tr>
-<tr><td>2361</td><td>Plan Palé</td><td>Zillis-Reischen</td><td>1994</td><td>2020</td></tr>
-<tr><td>2364</td><td>Alp Tobel</td><td>Andeer, Ferrera</td><td>1994</td><td>2020</td></tr>
-<tr><td>2365</td><td>Lambegn</td><td>Andeer, Ferrera</td><td>1994</td><td>2020</td></tr>
-<tr><td>3694</td><td>Alp de Mem</td><td>San Vittore</td><td>2020</td><td></td></tr>
-<tr><td>3698</td><td>Plaun Segnas Sut</td><td>Flims</td><td>1996</td><td>2020</td></tr>
-<tr><td>6205</td><td>Zember da Palüd Marscha</td><td>Samedan</td><td>2020</td><td></td></tr>
-<tr><td>6206</td><td>Alp Buffalora</td><td>Val Müstair</td><td>2020</td><td></td></tr>
-<tr><td>6207</td><td>Gadenstatt</td><td>Churwalden</td><td>2020</td><td></td></tr>
-<tr><td>6208</td><td>Surent Pascul</td><td>Bever</td><td>2020</td><td></td></tr>
-<tr><td>6209</td><td>Val da Pila</td><td>Bregaglia</td><td>2020</td><td></td></tr>
-<tr><td>6210</td><td>Cad’Maté</td><td>Bregaglia</td><td>2020</td><td></td></tr>
-<tr><td>6211</td><td>Duranna</td><td>Conters im Prättigau</td><td>2020</td><td></td></tr>
-<tr><td>6212</td><td>Berghaus</td><td>Klosters-Serneus</td><td>2020</td><td></td></tr>
-<tr><td>6213</td><td>Midada Sut</td><td>Ilanz/Glion</td><td>2020</td><td></td></tr>
-<tr><td>6215</td><td>Pardé Pign</td><td>Tujetsch</td><td>2020</td><td></td></tr>
-<tr><td>6216</td><td>Bultger</td><td>Mathon</td><td>2020</td><td></td></tr>
-<tr><td>6217</td><td>Gadenstatt</td><td>Seewis im Prättigau</td><td>2020</td><td></td></tr>
+<tr><td>438</td><td>Sältenüeb</td><td>Davos</td><td>1994</td><td>2021</td></tr>
+<tr><td>453</td><td>Cani</td><td>Seewis im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>456</td><td>Palus</td><td>Seewis im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>460</td><td>Vordersäss</td><td>Seewis im Prättigau</td><td>2021</td><td></td></tr>
+<tr><td>461</td><td>Hintersäss</td><td>Seewis im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>462</td><td>Vorder Cavell</td><td>Schiers, Seewis im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>463</td><td>Hinter Cavell</td><td>Schiers, Seewis im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>467</td><td>Chrüzböden (Alp Ortasee)</td><td>Jenins, Maienfeld</td><td>1994</td><td>2021</td></tr>
+<tr><td>470</td><td>Obersäss (Alp Ortasee)</td><td>Jenins</td><td>1994</td><td>2021</td></tr>
+<tr><td>471</td><td>Nördlich Obersäss (Alp Ortasee)</td><td>Jenins, Maienfeld</td><td>1994</td><td>2021</td></tr>
+<tr><td>472</td><td>Alpnova</td><td>Jenins, Maienfeld, Seewis im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>474</td><td>Sadrein</td><td>Seewis im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>483</td><td>Solcs</td><td>Grüsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>485</td><td>Wal</td><td>Grüsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>486</td><td>Cania</td><td>Grüsch</td><td>2021</td><td></td></tr>
+<tr><td>668</td><td>La Motta</td><td>Poschiavo</td><td>2021</td><td></td></tr>
+<tr><td>678</td><td>Schombrina</td><td>Scuol</td><td>2021</td><td></td></tr>
+<tr><td>679</td><td>Alp Astras</td><td>Scuol</td><td>2021</td><td></td></tr>
+<tr><td>683</td><td>Tamangur</td><td>Scuol</td><td>1994</td><td>2021</td></tr>
+<tr><td>684</td><td>Jufplaun</td><td>Val Müstair</td><td>1994</td><td>2021</td></tr>
+<tr><td>685</td><td>Buffalora</td><td>Val Müstair</td><td>1994</td><td>2021</td></tr>
+<tr><td>688</td><td>La Stretta</td><td>Val Müstair</td><td>2021</td><td></td></tr>
+<tr><td>691</td><td>Palü Marscha</td><td>Scuol</td><td>1994</td><td>2021</td></tr>
+<tr><td>694</td><td>Naluns</td><td>Scuol</td><td>1994</td><td>2021</td></tr>
+<tr><td>698</td><td>Furmièrs</td><td>Scuol</td><td>1994</td><td>2021</td></tr>
+<tr><td>700</td><td>Lai Nair</td><td>Scuol</td><td>1994</td><td>2021</td></tr>
+<tr><td>701</td><td>Palü Lunga</td><td>Valsot</td><td>1994</td><td>2021</td></tr>
+<tr><td>704</td><td>Salaaser Wisen</td><td>Samnaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>705</td><td>Val Fenga West</td><td>Scuol, Valsot</td><td>1994</td><td>2021</td></tr>
+<tr><td>706</td><td>Val Fenga Ost</td><td>Scuol</td><td>1994</td><td>2021</td></tr>
+<tr><td>710</td><td>Aua Naira</td><td>Scuol, Valsot</td><td>2021</td><td></td></tr>
+<tr><td>722</td><td>Bargaboden</td><td>Arosa</td><td>1994</td><td>2021</td></tr>
+<tr><td>723</td><td>Gauderböden</td><td>Arosa, Conters im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>728</td><td>Vereina</td><td>Klosters-Serneus</td><td>2021</td><td></td></tr>
+<tr><td>731</td><td>Teilenmäder/Seebüelen</td><td>Arosa, Conters im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>732</td><td>Sapüner Mäder</td><td>Arosa</td><td>1994</td><td>2021</td></tr>
+<tr><td>734</td><td>Faniner Galtihütte</td><td>Arosa, Jenaz</td><td>1994</td><td>2021</td></tr>
+<tr><td>735</td><td>Riedböden</td><td>Jenaz</td><td>1994</td><td>2021</td></tr>
+<tr><td>738</td><td>Triemel/Cunggel</td><td>Arosa</td><td>1998</td><td>2021</td></tr>
+<tr><td>742</td><td>Ried Faninpass</td><td>Arosa</td><td>1994</td><td>2021</td></tr>
+<tr><td>743</td><td>Ober Pirigen</td><td>Arosa</td><td>2021</td><td></td></tr>
+<tr><td>744</td><td>Fideriser Heuberge</td><td>Fideris</td><td>1994</td><td>2021</td></tr>
+<tr><td>746</td><td>Clun</td><td>Fideris</td><td>1996</td><td>2021</td></tr>
+<tr><td>751</td><td>Fondei</td><td>Arosa</td><td>1994</td><td>2021</td></tr>
+<tr><td>760</td><td>Riede südlich Joch</td><td>Churwalden</td><td>1994</td><td>2021</td></tr>
+<tr><td>761</td><td>Riede westlich Schwarzwald</td><td>Churwalden</td><td>1994</td><td>2021</td></tr>
+<tr><td>762</td><td>Usserberg</td><td>Churwalden</td><td>1994</td><td>2021</td></tr>
+<tr><td>765</td><td>Unter Prätschsee</td><td>Arosa</td><td>1994</td><td>2021</td></tr>
+<tr><td>774</td><td>Schwarzsee bei Arosa</td><td>Arosa</td><td>2021</td><td></td></tr>
+<tr><td>783</td><td>Heidsee, Pedra Grossa</td><td>Vaz/Obervaz</td><td>1994</td><td>2021</td></tr>
+<tr><td>789</td><td>Lenzerheide</td><td>Vaz/Obervaz</td><td>1994</td><td>2021</td></tr>
+<tr><td>790</td><td>Nordufer Heidsee</td><td>Vaz/Obervaz</td><td>1994</td><td>2021</td></tr>
+<tr><td>797</td><td>Capelgin/Leng Ried</td><td>Luzein</td><td>1994</td><td>2021</td></tr>
+<tr><td>804</td><td>Uf den Riederen</td><td>Conters im Prättigau, Fideris</td><td>1994</td><td>2021</td></tr>
+<tr><td>805</td><td>Birchenbüelen</td><td>Conters im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>807</td><td>Bi den Hüscheren</td><td>Klosters-Serneus</td><td>1994</td><td>2021</td></tr>
+<tr><td>816</td><td>Girsch</td><td>Tamins</td><td>1994</td><td>2021</td></tr>
+<tr><td>822</td><td>Weihermühle</td><td>Bonaduz, Rhäzüns</td><td>1996</td><td>2021</td></tr>
+<tr><td>829</td><td>Alp dil Plaun</td><td>Domleschg</td><td>1994</td><td>2021</td></tr>
+<tr><td>949</td><td>Riet (Fadära)</td><td>Seewis im Prättigau</td><td>1994</td><td>2021</td></tr>
+<tr><td>955</td><td>Stelsersee</td><td>Luzein, Schiers</td><td>1994</td><td>2021</td></tr>
+<tr><td>956</td><td>Sässji</td><td>Luzein, Schiers</td><td>2021</td><td></td></tr>
+<tr><td>958</td><td>Fulried am Stelserberg</td><td>Schiers</td><td>1994</td><td>2021</td></tr>
+<tr><td>961</td><td>Loch</td><td>Grüsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>962</td><td>Teufried</td><td>Furna</td><td>2021</td><td></td></tr>
+<tr><td>963</td><td>Rongg</td><td>Furna</td><td>1998</td><td>2021</td></tr>
+<tr><td>964</td><td>Rongg</td><td>Furna, Jenaz</td><td>1998</td><td>2021</td></tr>
+<tr><td>965</td><td>Danusa</td><td>Furna</td><td>2021</td><td></td></tr>
+<tr><td>967</td><td>Güferlitzi</td><td>Furna</td><td>1994</td><td>2021</td></tr>
+<tr><td>973</td><td>Geiswis/ Gaschneida/Plustorna</td><td>Luzein</td><td>1994</td><td>2021</td></tr>
+<tr><td>974</td><td>Promisaun</td><td>Luzein</td><td>1994</td><td>2021</td></tr>
+<tr><td>976</td><td>Tanail</td><td>Fideris</td><td>1994</td><td>2021</td></tr>
+<tr><td>991</td><td>Alp Trida</td><td>Samnaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>992</td><td>Alp Bella</td><td>Samnaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>999</td><td>Alp da Schnaus</td><td>Ilanz/Glion</td><td>1994</td><td>2021</td></tr>
+<tr><td>1000</td><td>Tschessas</td><td>Falera</td><td>1994</td><td>2021</td></tr>
+<tr><td>1001</td><td>Prau Grass</td><td>Ilanz/Glion</td><td>1994</td><td>2021</td></tr>
+<tr><td>1004</td><td>Paliu Marscha</td><td>Falera</td><td>1994</td><td>2021</td></tr>
+<tr><td>1005</td><td>Tegia Sura</td><td>Falera</td><td>1994</td><td>2021</td></tr>
+<tr><td>1011</td><td>Cavarschons</td><td>Falera</td><td>1996</td><td>2021</td></tr>
+<tr><td>1014</td><td>Ladiral</td><td>Breil/Brigels</td><td>2021</td><td></td></tr>
+<tr><td>1023</td><td>Alp da Rueun</td><td>Ilanz/Glion</td><td>2021</td><td></td></tr>
+<tr><td>1028</td><td>Lag digl Oberst</td><td>Falera, Laax</td><td>1994</td><td>2021</td></tr>
+<tr><td>1030</td><td>Cuolms da Breil</td><td>Breil/Brigels</td><td>1994</td><td>2021</td></tr>
+<tr><td>1033</td><td>Alp Dado Sut</td><td>Breil/Brigels</td><td>2021</td><td></td></tr>
+<tr><td>1036</td><td>Alp Dado Sura</td><td>Breil/Brigels</td><td>1994</td><td>2021</td></tr>
+<tr><td>1039</td><td>Val Frisal</td><td>Breil/Brigels</td><td>1996</td><td>2021</td></tr>
+<tr><td>1040</td><td>Affeier/Pifal</td><td>Obersaxen Mundaun</td><td>1998</td><td>2021</td></tr>
+<tr><td>1043</td><td>Cuolm Sura</td><td>Obersaxen Mundaun</td><td>1998</td><td>2021</td></tr>
+<tr><td>1046</td><td>Prau Mitgiert</td><td>Obersaxen Mundaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1048</td><td>Moore nordwestlich Plitsches</td><td>Obersaxen Mundaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1050</td><td>Paliu Marscha</td><td>Ilanz/Glion</td><td>1998</td><td>2021</td></tr>
+<tr><td>1053</td><td>Bosch</td><td>Ilanz/Glion</td><td>1994</td><td>2021</td></tr>
+<tr><td>1054</td><td>Ruschneras</td><td>Ilanz/Glion, Obersaxen Mundaun</td><td>1998</td><td>2021</td></tr>
+<tr><td>1057</td><td>Ligneida</td><td>Ilanz/Glion</td><td>1998</td><td>2021</td></tr>
+<tr><td>1060</td><td>Cuolm Sura</td><td>Ilanz/Glion, Safiental</td><td>1994</td><td>2021</td></tr>
+<tr><td>1062</td><td>Alp Nova</td><td>Obersaxen Mundaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1064</td><td>Alp Prada</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1068</td><td>Riederen</td><td>Obersaxen Mundaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1069</td><td>Bannwald</td><td>Obersaxen Mundaun</td><td>1996</td><td>2021</td></tr>
+<tr><td>1070</td><td>Sassli</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1071</td><td>Wallengaden</td><td>Obersaxen Mundaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1073</td><td>Sum Cuolm</td><td>Lumnezia, Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1076</td><td>Claveiera</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1077</td><td>Tschafanna</td><td>Obersaxen Mundaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1078</td><td>Stegg</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1081</td><td>Kartitscha</td><td>Obersaxen Mundaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1082</td><td>Gischniga</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1083</td><td>Wuost</td><td>Obersaxen Mundaun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1088</td><td>Nordöstlich Lavadinas</td><td>Lumnezia</td><td>1996</td><td>2021</td></tr>
+<tr><td>1091</td><td>Murtes</td><td>Lumnezia</td><td>1994</td><td>2021</td></tr>
+<tr><td>1097</td><td>Alp Naul</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1098</td><td>Alp Nova</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1100</td><td>Tschantegn</td><td>Lumnezia</td><td>2021</td><td></td></tr>
+<tr><td>1318</td><td>Rietboden (Tamboalp)</td><td>Rheinwald</td><td>1994</td><td>2021</td></tr>
+<tr><td>1457</td><td>Isla Sut</td><td>Ilanz/Glion</td><td>1996</td><td>2021</td></tr>
+<tr><td>1458</td><td>Paliu Musalet</td><td>Sagogn, Schluein</td><td>1994</td><td>2021</td></tr>
+<tr><td>1626</td><td>Lagh Doss</td><td>Mesocco</td><td>1994</td><td>2021</td></tr>
+<tr><td>1640</td><td>Bosch de San Remo</td><td>Mesocco</td><td>1998</td><td>2021</td></tr>
+<tr><td>1643</td><td>Oberalppass</td><td>Tujetsch[^annex1-lvlu1-53]</td><td>1996</td><td>1998/21</td></tr>
+<tr><td>1644</td><td>Tgatlems</td><td>Tujetsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>1645</td><td>Plaun Pardatsch/ Crest Darvun</td><td>Tujetsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>1648</td><td>Mulinatsch</td><td>Tujetsch</td><td>2021</td><td></td></tr>
+<tr><td>1651</td><td>Val Val</td><td>Tujetsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>1653</td><td>Plauncas Cuflegl</td><td>Tujetsch</td><td>2021</td><td></td></tr>
+<tr><td>1654</td><td>Plidutscha/Trutg Nurschalas</td><td>Tujetsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>1655</td><td>Prau Mulins</td><td>Tujetsch</td><td>2021</td><td></td></tr>
+<tr><td>1659</td><td>Liets</td><td>Tujetsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>1664</td><td>Palius</td><td>Medel (Lucmagn)</td><td>1994</td><td>2021</td></tr>
+<tr><td>1668</td><td>Stavel da Maighels</td><td>Tujetsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>1672</td><td>Alp Tuma</td><td>Tujetsch</td><td>1994</td><td>2021</td></tr>
+<tr><td>1688</td><td>Riedboden</td><td>Vals</td><td>1994</td><td>2021</td></tr>
+<tr><td>1694</td><td>Tgiern Grond</td><td>Trun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1695</td><td>Alp Nadels</td><td>Trun</td><td>1994</td><td>2021</td></tr>
+<tr><td>1696</td><td>Sontga Brida</td><td>Trun</td><td>2021</td><td></td></tr>
+<tr><td>1697</td><td>Alp Nadéls Daden</td><td>Trun</td><td>2021</td><td></td></tr>
+<tr><td>1699</td><td>Rossbodensee</td><td>Obersaxen Mundaun</td><td>1996</td><td>2021</td></tr>
+<tr><td>1701</td><td>Vorderalp</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1702</td><td>Vorderalp</td><td>Obersaxen Mundaun</td><td>2021</td><td></td></tr>
+<tr><td>1704</td><td>Stavels Veders</td><td>Medel (Lucmagn)</td><td>1994</td><td>2021</td></tr>
+<tr><td>1705</td><td>Alp Sura</td><td>Medel (Lucmagn)</td><td>2021</td><td></td></tr>
+<tr><td>1715</td><td>Crap la Crusch</td><td>Lumnezia[^annex1-lvlu1-54]</td><td>1994</td><td>2021</td></tr>
+<tr><td>1946</td><td>Alp Sura</td><td>Ferrera</td><td>1994</td><td>2021</td></tr>
+<tr><td>1948</td><td>Plan da Niemet</td><td>Ferrera</td><td>2021</td><td></td></tr>
+<tr><td>1954</td><td>Gletti/Hubelboda</td><td>Avers</td><td>1994</td><td>2021</td></tr>
+<tr><td>1955</td><td>Groussa Steina</td><td>Avers</td><td>2021</td><td></td></tr>
+<tr><td>1956</td><td>Plattner Berga</td><td>Avers</td><td>1994</td><td>2021</td></tr>
+<tr><td>1958</td><td>Oberplatta</td><td>Avers</td><td>2021</td><td></td></tr>
+<tr><td>1959</td><td>Alp Platta</td><td>Avers</td><td>2021</td><td></td></tr>
+<tr><td>1963</td><td>Alp Anarosa I</td><td>Casti-Wergenstein</td><td>1994</td><td>2021</td></tr>
+<tr><td>1964</td><td>Faschas</td><td>Casti-Wergenstein, Mathon</td><td>2021</td><td></td></tr>
+<tr><td>1965</td><td>Faschas</td><td>Mathon</td><td>2021</td><td></td></tr>
+<tr><td>1969</td><td>Alp Stierva, Sigliots</td><td>Albula/Alvra</td><td>1994</td><td>2021</td></tr>
+<tr><td>1975</td><td>Schatschas</td><td>Albula/Alvra, Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>1980</td><td>Alp Anarosa II</td><td>Casti-Wergenstein</td><td>1994</td><td>2021</td></tr>
+<tr><td>1984</td><td>Som igls Mellens</td><td>Surses</td><td>2021</td><td></td></tr>
+<tr><td>1994</td><td>Caritsch</td><td>Andeer</td><td>2021</td><td></td></tr>
+<tr><td>2013</td><td>Farreras/Scargneras</td><td>Surses</td><td>1998</td><td>2021</td></tr>
+<tr><td>2036</td><td>Hüttatobel</td><td>Safiental</td><td>2021</td><td></td></tr>
+<tr><td>2040</td><td>Pascuminer See/Bischolsee</td><td>Flerden</td><td>2021</td><td></td></tr>
+<tr><td>2042</td><td>Salignas/Combras</td><td>Cazis, Flerden</td><td>1998</td><td>2021</td></tr>
+<tr><td>2045</td><td>Glaspass</td><td>Tschappina</td><td>1994</td><td>2021</td></tr>
+<tr><td>2059</td><td>Engi</td><td>Safiental</td><td>1994</td><td>2021</td></tr>
+<tr><td>2072</td><td>Chilchalp</td><td>Rheinwald</td><td>1994</td><td>2021</td></tr>
+<tr><td>2077</td><td>Lais da Flix</td><td>Surses</td><td>2021</td><td></td></tr>
+<tr><td>2078</td><td>Tgeps</td><td>Surses</td><td>2021</td><td></td></tr>
+<tr><td>2082</td><td>Lai Neir</td><td>Surses</td><td>1998</td><td>2021</td></tr>
+<tr><td>2085</td><td>Alp Flix</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2086</td><td>Tga d’Meir</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2089</td><td>Son Roc</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2090</td><td>Paleis</td><td>Surses</td><td>2021</td><td></td></tr>
+<tr><td>2094</td><td>Val Savriez</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2097</td><td>Muttariel</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2100</td><td>Ransung</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2101</td><td>Alp Ses</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2102</td><td>Val da Natons</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2112</td><td>Culmanets</td><td>Surses</td><td>2021</td><td></td></tr>
+<tr><td>2122</td><td>Barscheinz</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2130</td><td>Jufer Alpa</td><td>Avers</td><td>1994</td><td>2021</td></tr>
+<tr><td>2135</td><td>Alp Tgavretga</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2141</td><td>Am Eva dal Sett</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2145</td><td>Mot Scalotta</td><td>Surses</td><td>1994</td><td>2021</td></tr>
+<tr><td>2148</td><td>Cuolmens</td><td>Surses</td><td>1996</td><td>2021</td></tr>
+<tr><td>2151</td><td>Tgavretga</td><td>Surses</td><td>1996</td><td>2021</td></tr>
+<tr><td>2156</td><td>Passo del Maloja/ Aira da la Palza</td><td>Bregaglia</td><td>1994</td><td>2021</td></tr>
+<tr><td>2157</td><td>Palü</td><td>Bregaglia</td><td>2021</td><td></td></tr>
+<tr><td>2214</td><td>Prada da Tuoi</td><td>Scuol</td><td>1994</td><td>2021</td></tr>
+<tr><td>2215</td><td>Prümarans</td><td>Scuol</td><td>1994</td><td>2021</td></tr>
+<tr><td>2217</td><td>Clavadeler Berg</td><td>Davos</td><td>1994</td><td>2021</td></tr>
+<tr><td>2222</td><td>Plansena</td><td>Poschiavo</td><td>1998</td><td>2021</td></tr>
+<tr><td>2225</td><td>Munt da San Franzesch</td><td>Poschiavo</td><td>1994</td><td>2021</td></tr>
+<tr><td>2231</td><td>Salèt</td><td>Valsot</td><td>2021</td><td></td></tr>
+<tr><td>2237</td><td>Plan Nai/Marangun</td><td>Valsot</td><td>1994</td><td>2021</td></tr>
+<tr><td>2240</td><td>Suot l’Ova</td><td>Sils im Engadin/Segl</td><td>2021</td><td></td></tr>
+<tr><td>2241</td><td>Güvè/Crasta</td><td>Sils im Engadin/Segl</td><td>1994</td><td>2021</td></tr>
+<tr><td>2242</td><td>Muotta da Güvè/Chantunatsch</td><td>Bregaglia, Sils im Engadin/Segl</td><td>1994</td><td>2021</td></tr>
+<tr><td>2243</td><td>Chalcheras</td><td>Sils im Engadin/Segl</td><td>1994</td><td>2021</td></tr>
+<tr><td>2250</td><td>Val Fedoz</td><td>Bregaglia</td><td>1994</td><td>2021</td></tr>
+<tr><td>2257</td><td>Val Fex, Alp Suot</td><td>Sils im Engadin/Segl</td><td>1994</td><td>2021</td></tr>
+<tr><td>2264</td><td>Val Madris, Preda</td><td>Bregaglia</td><td>1998</td><td>2021</td></tr>
+<tr><td>2269</td><td>Palü Granda</td><td>Poschiavo</td><td>1994</td><td>2021</td></tr>
+<tr><td>2279</td><td>Pè d’Munt/Pradè</td><td>Samedan</td><td>1998</td><td>2021</td></tr>
+<tr><td>2284</td><td>Lej da Staz</td><td>Celerina/Schlarigna</td><td>1994</td><td>2021</td></tr>
+<tr><td>2285</td><td>God da Staz</td><td>Celerina/Schlarigna</td><td>1998</td><td>2021</td></tr>
+<tr><td>2286</td><td>Choma Suot-Palüd Chapè</td><td>Celerina/Schlarigna</td><td>1998</td><td>2021</td></tr>
+<tr><td>2288</td><td>Alp Giop</td><td>St. Moritz</td><td>2021</td><td></td></tr>
+<tr><td>2291</td><td>Palüd Lungia</td><td>Silvaplana</td><td>2021</td><td></td></tr>
+<tr><td>2360</td><td>Alp Neaza</td><td>Andeer</td><td>1994</td><td>2021</td></tr>
+<tr><td>2361</td><td>Plan Palé</td><td>Zillis-Reischen</td><td>1994</td><td>2021</td></tr>
+<tr><td>2364</td><td>Alp Tobel</td><td>Andeer, Ferrera</td><td>1994</td><td>2021</td></tr>
+<tr><td>2365</td><td>Lambegn</td><td>Andeer, Ferrera</td><td>1994</td><td>2021</td></tr>
+<tr><td>3694</td><td>Alp de Mem</td><td>San Vittore</td><td>2021</td><td></td></tr>
+<tr><td>3698</td><td>Plaun Segnas Sut</td><td>Flims</td><td>1996</td><td>2021</td></tr>
+<tr><td>6205</td><td>Zember da Palüd Marscha</td><td>Samedan</td><td>2021</td><td></td></tr>
+<tr><td>6206</td><td>Alp Buffalora</td><td>Val Müstair</td><td>2021</td><td></td></tr>
+<tr><td>6207</td><td>Gadenstatt</td><td>Churwalden</td><td>2021</td><td></td></tr>
+<tr><td>6208</td><td>Surent Pascul</td><td>Bever</td><td>2021</td><td></td></tr>
+<tr><td>6209</td><td>Val da Pila</td><td>Bregaglia</td><td>2021</td><td></td></tr>
+<tr><td>6210</td><td>Cad’Maté</td><td>Bregaglia</td><td>2021</td><td></td></tr>
+<tr><td>6211</td><td>Duranna</td><td>Conters im Prättigau</td><td>2021</td><td></td></tr>
+<tr><td>6212</td><td>Berghaus</td><td>Klosters-Serneus</td><td>2021</td><td></td></tr>
+<tr><td>6213</td><td>Midada Sut</td><td>Ilanz/Glion</td><td>2021</td><td></td></tr>
+<tr><td>6215</td><td>Pardé Pign</td><td>Tujetsch</td><td>2021</td><td></td></tr>
+<tr><td>6216</td><td>Bultger</td><td>Mathon</td><td>2021</td><td></td></tr>
+<tr><td>6217</td><td>Gadenstatt</td><td>Seewis im Prättigau</td><td>2021</td><td></td></tr>
 <tr><td></td><td>Kanton Aargau</td><td></td><td></td><td></td></tr>
 <tr><td>5</td><td>Rüssmatte Jonen</td><td>Jonen</td><td>1994</td><td>2017</td></tr>
 <tr><td>304</td><td>Birriweiher-Vordererlen</td><td>Aristau, Merenschwand</td><td>2017</td><td></td></tr>
@@ -1640,10 +1642,10 @@ Anhang 1*[^t-1]*
 [^annex1-lvlu1-64]: Das Objekt liegt in den Gemeinden Rougemont VD/Val-de-Charmey FR.
 [^annex1-lvlu1-65]: Das Objekt liegt in den Gemeinden La Tène NE/Gampelen, Ins BE.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. II Abs. 2 der V vom 29. Sept. 2017, mit Wirkung 1. Nov. 2017 ([AS 2017 5325](https://fedlex.data.admin.ch/eli/oc/2017/589)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 [^t-3]: Aufgehoben durch Ziff. II Abs. 3 der V vom 25. Febr. 2004, mit Wirkung seit 1. Mai 2004 ([AS 2004 1799](https://fedlex.data.admin.ch/eli/oc/2004/217)).
