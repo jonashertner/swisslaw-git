@@ -4,13 +4,13 @@ number: "180"
 title: Gesetz über die Organisation und die Verwaltung der Gemeinden
 short: Gemeindegesetz
 language: de
-version: 2018-01-01
-valid_until: 2021-06-30
-version_adopted: 2017-09-28
+version: 2021-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-01-28
 adopted: 1970-05-28
 in_force: 1972-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180"
-pdf: "https://bl.clex.ch/api/de/versions/2059/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2990/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2059/pdf_file"
 
 (Gemeindegesetz)
 
-Vom 28.05.1970 (Stand 01.01.2018)
+Vom 28.05.1970 (Stand 01.07.2021)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -723,11 +723,11 @@ beschliesst:[^ingress-2]
 - 5\. …
 - 6\. …
 
-<sup>2</sup> Die Gemeinden können nach Massgabe des Polizeigesetzes[^42-1] Übertretungen von Strassenverkehrsvorschriften im Ordnungsbussenverfahren ahnden.
+<sup>2</sup> Die Gemeinden können nach Massgabe des Polizeigesetzes[^42-1] Übertretungen von Vorschriften im Ordnungsbussenverfahren ahnden.
 
 <sup>3</sup> Die Gemeinden können nach Massgabe des Polizeigesetzes eine Gemeindepolizei führen.
 
-[^42-1]: GS 32.778, SGS [700](https://bl.clex.ch/data/700/de)
+[^42-1]: [SGS 700](https://bl.clex.ch/data/700/de)
 
 #### § 43
 
@@ -737,8 +737,10 @@ beschliesst:[^ingress-2]
 
 **Öffentliche Ordnung**
 
-<sup>1</sup> Die Gemeinde schützt die Einwohnerinnen und Einwohner vor Personen, die unangemessen lärmen, sich anstössig benehmen, Unfug treiben, streiten oder in anderer Weise die öffentliche Ordnung stören.
+<sup>1</sup> Die Gemeinde:
 
+- a. schützt die Einwohnerinnen und Einwohner vor Personen, die unangemessen lärmen, sich anstössig benehmen, Unfug treiben, streiten oder in anderer Weise die öffentliche Ordnung stören;
+- b. sorgt für die Beseitigung von toten und entlaufenen Tieren auf Strassen (ohne Hochleistungsstrassen).
 - 1\. …
 - 2\. …
 - 3\. …
