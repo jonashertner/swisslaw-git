@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2021-06-01
-valid_until: 2021-06-30
-version_adopted: 2021-05-04
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-11
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2236/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2238/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2236/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.06.2021)
+Vom 21.03.2006 (Stand 01.07.2021)
 
 Der Regierungsrat,
 
@@ -768,9 +768,10 @@ verordnet:
   - 5\. Zivilstands- und Bürgerrechtsdienst
   - 5\.1. Zivilstandsamt
 - e. Hauptabteilung Staats- und Jugendanwaltschaft (gemäss Art. 25 Abs. 1 RVOG administrativ zugewiesen)
-  - 1\. Abteilung Allgemeines
-  - 2\. Abteilung Verkehr und Übertretungen
-  - 3\. Abteilung Jugend
+  - 1\. Abteilung Staats- und Jugendanwaltschaft
+  - 2\.–3. …
+  - 0\.1. Kanzlei
+  - 0\.2. Fachstelle Administrativmassnahmen
 - f. Kantonale Sachversicherung (gemäss Art. 25 Abs. 3 RVOG administrativ zugewiesen)
   - 0\.1. Gebäudeversicherung im Monopol
   - 0\.2. Kulturschadenfonds
