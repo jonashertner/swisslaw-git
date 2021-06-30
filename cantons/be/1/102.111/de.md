@@ -4,13 +4,13 @@ number: "102.111"
 title: Verordnung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel
 short: "Sonderstatutsverordnung, SStV"
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-12-02
+version: 2021-07-01
+valid_until: 2022-02-28
+version_adopted: 2021-04-07
 adopted: 2005-11-02
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2086/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2263/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2086/pdf_file"
 
 (Sonderstatutsverordnung, SStV)
 
-vom 02.11.2005 (Stand 01.01.2021)
+vom 02.11.2005 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -89,9 +89,9 @@ beschliesst:
 
 **Befugnisse des BJR**
 
-<sup>1</sup> Der BJR führt das Verfahren in Zusammenarbeit mit dem Amt für Migration und Personenstand, das Anträge stellen kann, durch.
+<sup>1</sup> Der BJR führt das Verfahren in Zusammenarbeit mit dem Generalsekretariat der Sicherheitsdirektion, das Anträge stellen kann, durch.
 
-<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis des BJR, leitet er das Geschäft mit einem allfälligen Antrag an das Amt für Migration und Personenstand weiter. Das Amt für Migration und Personenstand erstellt die entsprechende Vorlage für die Polizei- und Militärdirektion zu Händen der zuständigen Behörde und nimmt zum Antrag des BJR Stellung.
+<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis des BJR, leitet er das Geschäft mit einem allfälligen Antrag an das Generalsekretariat der Sicherheitsdirektion weiter. Das Generalsekretariat der Sicherheitsdirektion erstellt die entsprechende Vorlage für die Sicherheitsdirektion zu Händen der zuständigen Behörde und nimmt zum Antrag des BJR Stellung.
 
 <sup>3</sup> Die Ablehnung von Beitragsgesuchen aus dem Berner Jura wird vom BJR verfügt und begründet.
 
@@ -99,7 +99,7 @@ beschliesst:
 
 **Finanzielle Verwaltung**
 
-<sup>1</sup> Das Amt für Migration und Personenstand zahlt die Beiträge aus.
+<sup>1</sup> Das Generalsekretariat der Sicherheitsdirektion zahlt die Beiträge aus.
 
 <sup>2</sup> Die Summen der vom BJR und vom Regierungsrat gesprochenen Beiträge werden in den Fondsrechnungen separat ausgewiesen.
 
@@ -125,7 +125,7 @@ beschliesst:
 
 <sup>1</sup> Der BJR führt das Verfahren in Zusammenarbeit mit dem Amt für Kultur, das Anträge stellen kann, durch.
 
-<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis des BJR, leitet er das Geschäft mit einem allfälligen Antrag an das Amt für Kultur weiter. Das Amt für Kultur erstellt die entsprechende Vorlage für die Erziehungsdirektion zu Händen der zuständigen Behörde und nimmt zum Antrag des BJR Stellung.
+<sup>2</sup> Übersteigt die Höhe des in Aussicht gestellten Beitrags die Ausgabenbefugnis des BJR, leitet er das Geschäft mit einem allfälligen Antrag an das Amt für Kultur weiter. Das Amt für Kultur erstellt die entsprechende Vorlage für die Bildungs- und Kulturdirektion zu Händen der zuständigen Behörde und nimmt zum Antrag des BJR Stellung.
 
 <sup>3</sup> Die Ablehnung von Beitragsgesuchen aus dem Berner Jura wird vom BJR verfügt und begründet.
 
@@ -175,7 +175,7 @@ beschliesst:
 
 <sup>1</sup> Die FRAKO ist für die Behandlung der Geschäfte gemäss Artikel 24 SStG[^15-1] Ansprechpartnerin des BJR und des RFB.
 
-<sup>2</sup> Sie koordiniert die Beziehungen zwischen den beiden Räten und den zuständigen Stellen der Erziehungsdirektion und beteiligt sich an der administrativen Verwaltung der Geschäfte.
+<sup>2</sup> Sie koordiniert die Beziehungen zwischen den beiden Räten und den zuständigen Stellen der Bildungs- und Kulturdirektion und beteiligt sich an der administrativen Verwaltung der Geschäfte.
 
 [^15-1]: BSG 102.1
 
@@ -207,18 +207,18 @@ beschliesst:
 
 #### Art. 19
 
-**Gegenstände gemäss Artikel 31 Buchstaben g und h SStG**
+**Gegenstände gemäss Artikel 31 Absatz 1 Buchstaben g und h SStG**
 
-<sup>1</sup> Die in Artikel 31 Buchstabe g SStG[^19-1] vorgesehene politische Mitwirkung betrifft folgende Geschäfte aus den Direktionen und der Staatskanzlei:
+<sup>1</sup> Die in Artikel 31 Absatz 1 Buchstabe g SStG[^19-1] vorgesehene politische Mitwirkung betrifft folgende Geschäfte aus den Direktionen und der Staatskanzlei:
 
 - a Entscheidungen, die den Berner Jura besonders betreffen und die für ihn von allgemeiner Tragweite sind oder denen grosse politische Bedeutung zukommt;
 - b Entscheidungen, die das französischsprachige Personal der Kantonsverwaltung besonders und insgesamt betreffen;
 - c Entscheidungen im Zusammenhang mit den gemeinsamen Institutionen gemäss Artikel 27 und 28 SStG.
 
-<sup>2</sup> Die in Artikel 31 Buchstabe h SStG vorgesehene politische Mitwirkung betrifft die Ernennungsverfügungen für folgende Funktionen:
+<sup>2</sup> Die in Artikel 31 Absatz 1 Buchstabe h SStG vorgesehene politische Mitwirkung betrifft die Ernennungsverfügungen für folgende Funktionen:
 
 - a französischsprachige Vizestaatsschreiberin oder französischsprachiger Vizestaatsschreiber,
-- b französischsprachige Generalsekretärin oder französischsprachiger Generalsekretär sowie französischsprachige stellvertretende Generalsekretärin oder französischsprachiger stellvertretender Generalsekretär der Erziehungsdirektion,
+- b französischsprachige Generalsekretärin oder französischsprachiger Generalsekretär sowie französischsprachige stellvertretende Generalsekretärin oder französischsprachiger stellvertretender Generalsekretär der Bildungs- und Kulturdirektion,
 - c Grundbuchverwalterin oder Grundbuchverwalter der Verwaltungsregion Berner Jura,
 - d …
 - e Vorsteherin oder Vorsteher sowie stellvertretende Vorsteherin oder stellvertretender Vorsteher des regionalen Betreibungs- und Konkursamts Berner Jura,
@@ -238,10 +238,10 @@ beschliesst:
 - r Regionalleiterin oder Regionalleiter sowie stellvertretende Regionalleiterin oder stellvertretender Regionalleiter des Berufsberatungs- und Informationszentrums der Region Französischsprachiger Kantonsteil (BIZ der Region Französischsprachiger Kantonsteil),
 - s stellvertretende Regierungsstatthalterin oder stellvertretender Regierungsstatthalter des Verwaltungskreises Berner Jura,
 - t Regionalpfarrerin oder Regionalpfarrer für den evangelisch-reformierten Pfarrkreis Jura-Bienne,
-- u stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation, die oder der für die Kommunikation auf Französisch zuständig ist,
+- u stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation (KomBE), die oder der für die Kommunikation auf Französisch zuständig ist,
 - v Leiterin oder Leiter der Waldabteilung Berner Jura.
 
-[^19-1]: BSG 102.1
+[^19-1]: BSG [102.1](https://www.belex.sites.be.ch/data/102.1/de)
 
 #### Art. 20
 
@@ -249,7 +249,7 @@ beschliesst:
 
 <sup>1</sup> Die in Artikel 6 Absatz 1 RFB VV vorgesehene politische Mitwirkung betrifft folgende Geschäfte aus den Direktionen und der Staatskanzlei:
 
-- a Entscheidungen, die die französischsprachige Bevölkerung des zweisprachigen Amtsbezirks Biel besonders betreffen und die für sie von allgemeiner Tragweite sind oder denen grosse politische Bedeutung zukommt;
+- a Entscheidungen, welche die französischsprachige Bevölkerung des zweisprachigen Amtsbezirks Biel besonders betreffen und die für sie von allgemeiner Tragweite sind oder denen grosse politische Bedeutung zukommt;
 - b Entscheidungen, die das französischsprachige Personal der Kantonsverwaltung besonders und insgesamt betreffen.
 
 <sup>2</sup> Die in Artikel 6 Absatz 1 Buchstabe b RFB VV vorgesehene politische Mitwirkung betrifft die Staatsbeitragsgesuche für kulturelle Tätigkeiten aus dem Verwaltungskreis Biel/Bienne.
@@ -257,7 +257,7 @@ beschliesst:
 <sup>3</sup> Die in Artikel 6 Absatz 1 Buchstabe d RFB VV vorgesehene politische Mitwirkung betrifft die Ernennungsverfügungen für folgende Funktionen:
 
 - a französischsprachige Vizestaatsschreiberin oder französischsprachiger Vizestaatsschreiber,
-- b französischsprachige Generalsekretärin oder französischsprachiger Generalsekretär sowie französischsprachige stellvertretende Generalsekretärin oder französischsprachiger stellvertretender Generalsekretär der Erziehungsdirektion,
+- b französischsprachige Generalsekretärin oder französischsprachiger Generalsekretär sowie französischsprachige stellvertretende Generalsekretärin oder französischsprachiger stellvertretender Generalsekretär der Bildungs- und Kulturdirektion,
 - c Grundbuchverwalterin oder Grundbuchverwalter des Grundbuchkreises II,
 - d …
 - e Vorsteherin oder Vorsteher sowie stellvertretende Vorsteherin oder stellvertretender Vorsteher des regionalen Betreibungs- und Konkursamts Berner Jura-Seeland,
@@ -275,7 +275,7 @@ beschliesst:
 - q stellvertretende Regierungsstatthalterin oder stellvertretender Regierungsstatthalter des Verwaltungskreises Biel/Bienne, sofern die Regierungsstatthalterin oder der Regierungsstatthalter deutschsprachig ist,
 - r Regionalpfarrerin oder Regionalpfarrer für den evangelisch-reformierten Pfarrkreis Jura-Bienne,
 - s Chefin oder Chef der Regionalpolizei Seeland-Berner Jura,
-- t stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation, die oder der für die Kommunikation auf Französisch zuständig ist.
+- t stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation (KomBE), die oder der für die Kommunikation auf Französisch zuständig ist.
 
 #### Art. 21
 

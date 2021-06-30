@@ -4,13 +4,13 @@ number: "102.111"
 title: Ordonnance sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne
 short: "Ordonnance sur le statut particulier, OStP"
 language: fr
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-12-02
+version: 2021-07-01
+valid_until: 2022-02-28
+version_adopted: 2021-04-07
 adopted: 2005-11-02
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2086/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2263/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2086/pdf_file"
 
 (Ordonnance sur le statut particulier, OStP)
 
-du 02.11.2005 (état au 01.01.2021)
+du 02.11.2005 (état au 01.07.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -89,9 +89,9 @@ arrête:
 
 **Compétences du Conseil du Jura bernois**
 
-<sup>1</sup> Le Conseil du Jura bernois mène la procédure administrative en collaboration avec l’Office de la population et des migrations qui peut émettre des propositions.
+<sup>1</sup> Le Conseil du Jura bernois mène la procédure administrative en collaboration avec le Secrétariat général de la Direction de la sécurité, qui peut émettre des propositions.
 
-<sup>2</sup> Si le montant envisagé de la subvention dépasse ses compétences en matière d’autorisation de dépenses, le Conseil du Jura bernois transmet l’affaire à l’Office de la population et des migrations, le cas échéant avec sa proposition. L’Office de la population et des migrations prépare l’affaire pour la Direction de la police et des affaires militaires à l’intention de l’autorité compétente et se détermine sur la proposition du Conseil du Jura bernois.
+<sup>2</sup> Si le montant envisagé de la subvention dépasse ses compétences en matière d’autorisation de dépenses, le Conseil du Jura bernois transmet l’affaire au Secrétariat général de la Direction de la sécurité, le cas échéant avec sa proposition. Le Secrétariat général de la Direction de la sécurité prépare l’affaire pour la Direction de la sécurité à l’intention de l’autorité compétente et se détermine sur la proposition du Conseil du Jura bernois.
 
 <sup>3</sup> Le Conseil du Jura bernois rend les décisions rejetant des demandes de subventions et les motive.
 
@@ -99,7 +99,7 @@ arrête:
 
 **Administration financière**
 
-<sup>1</sup> L’Office de la population et des migrations verse les subventions.
+<sup>1</sup> Le Secrétariat général de la Direction de la sécurité verse les subventions.
 
 <sup>2</sup> Les sommes des subventions octroyées par le Conseil du Jura bernois et le Conseil-exécutif sont présentées séparément dans les comptes des fonds.
 
@@ -123,9 +123,9 @@ arrête:
 
 **Compétences du Conseil du Jura bernois**
 
-<sup>1</sup> Le Conseil du Jura bernois mène la procédure administrative en collaboration avec l’Office de la culture qui peut émettre des propositions.
+<sup>1</sup> Le Conseil du Jura bernois mène la procédure administrative en collaboration avec l’Office de la culture, qui peut émettre des propositions.
 
-<sup>2</sup> Si le montant envisagé de la subvention dépasse ses compétences en matière d’autorisation de dépenses, le Conseil du Jura bernois transmet l’affaire à l’Office de la culture, le cas échéant avec sa proposition. L’Office de la culture prépare l’affaire pour la Direction de l’instruction publique à l’intention de l’autorité compétente et se détermine sur la proposition du Conseil du Jura bernois.
+<sup>2</sup> Si le montant envisagé de la subvention dépasse ses compétences en matière d’autorisation de dépenses, le Conseil du Jura bernois transmet l’affaire à l’Office de la culture, le cas échéant avec sa proposition. L’Office de la culture prépare l’affaire pour la Direction de l’instruction publique et de la culture à l’intention de l’autorité compétente et se détermine sur la proposition du Conseil du Jura bernois.
 
 <sup>3</sup> Le Conseil du Jura bernois rend les décisions rejetant des deman-des de subventions et les motive.
 
@@ -175,7 +175,7 @@ arrête:
 
 <sup>1</sup> La Conférence de coordination francophone est l’interlocutrice du Conseil du Jura bernois et du Conseil des affaires francophones du district bilingue de Bienne pour le traitement des affaires conformément à l’article 24 LStP[^15-1].
 
-<sup>2</sup> Elle coordonne les relations entre les deux conseils et les services compétents de la Direction de l’instruction publique et participe à la gestion administrative des affaires.
+<sup>2</sup> Elle coordonne les relations entre les deux conseils et les services compétents de la Direction de l’instruction publique et de la culture et participe à la gestion administrative des affaires.
 
 [^15-1]: RSB 102.1
 
@@ -207,18 +207,18 @@ arrête:
 
 #### Art. 19
 
-**Objets au sens de l’article 31, lettres g et h LStP**
+**Objets au sens de l’article 31, alinéa 1, lettres g et h LStP**
 
-<sup>1</sup> La participation politique prévue par l’article 31, lettre g LStP porte sur les affaires suivantes émanant des Directions et de la Chancellerie d’Etat:
+<sup>1</sup> La participation politique prévue par l’article 31, alinéa 1, lettre g LStP[^19-1], porte sur les affaires suivantes émanant des Directions et de la Chancellerie d’Etat:
 
 - a décisions qui concernent spécifiquement le Jura bernois et sont pour lui de portée générale ou revêtent une grande importance politique;
 - b décisions qui concernent spécifiquement et globalement le pesonnel francophone de l’administration cantonale;
-- c décisions qui sont en relation avec des institutions communes au sens des articles 27 et 28 LStP[^19-1].
+- c décisions qui sont en relation avec des institutions communes au sens des articles 27 et 28 LStP[^19-2].
 
-<sup>2</sup> La participation politique prévue par l’article 31, lettre h LStP porte sur les décisions de nomination aux fonctions suivantes:
+<sup>2</sup> La participation politique prévue par l’article 31, alinéa 1, lettre h LStP porte sur les décisions de nomination aux fonctions suivantes:
 
 - a vice-chancelier ou vice-chancelière de langue française,
-- b secrétaire général ou secrétaire général adjoint ou secrétaire générale ou secrétaire générale adjointe de langue française de la Direction de l’instruction publique,
+- b secrétaire général ou secrétaire général adjoint ou secrétaire générale ou secrétaire générale adjointe de langue française de la Direction de l’instruction publique et de la culture,
 - c conservateur ou conservatrice du registre foncier de la région administrative du Jura bernois,
 - d …
 - e chef ou cheffe ainsi qu'adjoint ou adjointe du chef ou de la cheffe de l’Office des poursuites et des faillites de la région du Jura bernois,
@@ -231,17 +231,18 @@ arrête:
 - l chef ou cheffe de l'agence Jura bernois de l’Office de la sécurité civile, du sport et des affaires militaires (OSSM),
 - l1 suppléant ou suppléante du commandant ou de la commandante d’arrondissement du canton de Berne,
 - m délégué ou déléguée aux affaires francophones et bilingues de l’Office de la culture (OC) et délégué ou déléguée du Conseil du Jura bernois à la culture,
-- n chef ou cheffe de la section francophone de l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation (OECO),
-- o chef ou cheffe de la section francophone de l’Office de l’enseignement secondaire du deuxième degré et de la formation professionnelle (OSP),
+- n chef ou cheffe de la section francophone de l’Office de l’école obligatoire et du conseil (OECO),
+- o chef ou cheffe de la section francophone de l’Office des écoles moyennes et de la formation professionnelle (OMP),
 - p chef ou cheffe de la section francophone de l’Office de l’enseignement supérieur (OENS),
 - q inspecteurs et inspectrices scolaires pour la région Bienne-Jura bernois,
 - r directeur ou directrice des Centres d’orientation professionnelle, région Berne francophone, ainsi que son adjoint ou son adjointe,
 - s suppléant ou suppléante du préfet ou de la préfète de l’arrondissement administratif du Jura bernois,
 - t pasteur ou pasteure de région pour le cercle pastoral régional de Jura-Bienne,
-- u chef suppléant ou cheffe suppléante de l'Office de la communication, chargée de la communication en français,
+- u chef suppléant ou cheffe suppléante de l'Office de la communication (ComBE), en charge de la communication en français,
 - v chef ou cheffe de la division forestière du Jura bernois.
 
-[^19-1]: RSB 102.1
+[^19-1]: RSB [102.1](https://www.belex.sites.be.ch/data/102.1/fr)
+[^19-2]: RSB 102.1
 
 #### Art. 20
 
@@ -257,7 +258,7 @@ arrête:
 <sup>3</sup> La participation politique prévue par l’article 6, alinéa 1, lettre d OECAF porte sur les décisions de nomination aux fonctions suivantes:
 
 - a vice-chancelier ou vice-chancelière de langue française,
-- b secrétaire général ou secrétaire général adjoint ou secrétaire générale ou secrétaire générale adjointe de langue française de la Direction de l’instruction publique,
+- b secrétaire général ou secrétaire général adjoint ou secrétaire générale ou secrétaire générale adjointe de langue française de la Direction de l’instruction publique et de la culture,
 - c conservateur ou conservatrice du registre foncier de l’arrondissement II,
 - d …
 - e chef ou cheffe ainsi qu'adjoint ou adjointe du chef ou de la cheffe de l’office des poursuites et des faillites de la région Jura bernois–Seeland,
@@ -267,15 +268,15 @@ arrête:
 - i chef ou cheffe de l'agence Jura bernois de l’Office de la sécurité civile, du sport et des affaires militaires (OSSM),
 - i1 suppléant ou suppléante du commandant ou de la commandante d’arrondissement du canton de Berne,
 - k délégué ou déléguée aux affaires francophones et bilingues de l’Office de la culture (OC) et délégué ou déléguée du Conseil du Jura bernois à la culture,
-- l chef ou cheffe de la section francophone de l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation (OECO),
-- m chef ou cheffe de la section francophone de l’Office de l’enseignement secondaire du deuxième degré et de la formation professionnelle (OSP),
+- l chef ou cheffe de la section francophone de l’Office de l’école obligatoire et du conseil (OECO),
+- m chef ou cheffe de la section francophone de l’Office des écoles moyennes et de la formation professionnelle (OMP),
 - n chef ou cheffe de la section francophone de l’Office de l’enseignement supérieur (OENS),
 - o inspecteurs et inspectrices scolaires pour la région Bienne-Jura bernois,
 - p directeur ou directrice des Centres d’orientation professionnelle, région Berne francophone, ainsi que son adjoint ou son adjointe,
 - q suppléant ou suppléante du préfet ou de la préfète de l’arrondissement administratif Biel/Bienne, lorsque le préfet ou la préfète est de langue allemande,
 - r pasteur ou pasteure de région pour le cercle pastoral régional de Jura-Bienne,
 - s chef ou cheffe de la police régionale Seeland-Jura bernois,
-- t chef suppléant ou cheffe suppléante de l'Office de la communication, chargée de la communication en français.
+- t chef suppléant ou cheffe suppléante de l'Office de la communication (ComBE), en charge de la communication en français.
 
 #### Art. 21
 
