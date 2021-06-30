@@ -4,20 +4,20 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2021-06-01
+version: 2021-07-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les prestations dans l’assurance obligatoire des soins en cas de maladie
 
-(Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
+(Ordonnance sur les prestations de l’assurance des soins, OPAS)**[^t-1]**
 
-du 29 septembre 1995 (Etat le 1<sup>er</sup> juin 2021)
+du 29 septembre 1995 (Etat le 1<sup>er</sup> juillet 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -27,12 +27,12 @@ vu les art. 33, 36, al. 1, 54, al. 2 à 4, 59*a*, 62, 65, al. 3, 65*b*, al. 3, 6
 
 arrête:
 
-[^ingress-1]: <sup>RS</sup> <sup>**832.1**</sup>**02**
+[^ingress-1]: <sup>RS 832.1</sup>**02**
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
 
 ## Titre 1 Prestations
 
-### Chapitre 1 Prestations des médecins, des chiropraticiens et des pharmaciens
+### Chapitre 1 Prestations des médecins, des chiropraticiens et des pharmaciens****
 
 [^tit1-chap1-1]
 
@@ -113,7 +113,7 @@ Pour que, après 40 séances, l’assurance continue de prendre en charge les co
 
 [^3b-1]: Introduit par le ch. I de l’O du DFI du 3 juil. 2006 ([RO 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Nouvelle teneur selon le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 
-### Section 2*a* Limitation de la prise en charge pour des interventions électives
+### Section 2*a* Limitation de la prise en charge pour des interventions électives****
 
 [^tit1-chap1-sec2a-1]
 
@@ -191,7 +191,7 @@ L’assurance prend en charge les analyses, les médicaments, les moyens et appa
 [^4-9]: Introduite par le ch. I de l’O du DFI du 10 juil. 2000 ([RO 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
 [^4-10]: Introduite par le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
 
-### Section 4 Prestations fournies par les pharmaciens
+### Section 4**** Prestations fournies par les pharmaciens
 
 [^tit1-chap1-sec4-1]
 
@@ -210,7 +210,7 @@ L’assurance prend en charge les coûts des prestations suivantes fournies par 
 
 <sup>2</sup> L’assurance peut prendre en charge, dans le cadre d’une convention tarifaire, les coûts de prestations plus étendues permettant de réduire les coûts, fournies en faveur d’un groupe d’assurés.
 
-### Section 5 Prestations de médecine complémentaire
+### Section 5**** Prestations de médecine complémentaire
 
 [^tit1-chap1-sec5-1]
 
@@ -223,7 +223,7 @@ L’assurance prend en charge les coûts des prestations des disciplines suivant
 - a.[^4b-1] acupuncture, si le médecin dispose d’un titre postgrade en acupuncture délivré conformément au programme de formation complémentaire du 1<sup>er</sup> juillet 2015 «Acupuncture et pharmacothérapie chinoise – MTC (ASA)», révisé le 23 juin 2017, de l’Institut suisse pour la formation médicale continue et postgraduée (ISFM)[^4b-2];
 - b. médecine anthroposophique, si le médecin dispose d’un titre postgrade en médecine anthroposophique délivré conformément au programme de formation complémentaire du 1<sup>er</sup> janvier 1999 «Praticien(ne) pour une médecine élargie par l’anthroposophie (ASMOA)», révisé le 16 juin 2016, de l’ISFM[^4b-3];
 - c.[^4b-4] pharmacothérapie de la médecine traditionnelle chinoise, si le médecin dispose d’un titre postgrade en médecine traditionnelle chinoise délivré conformément au programme de formation complémentaire du 1<sup>er</sup> juillet 2015 «Acupuncture et pharmacothérapie chinoise – MTC (ASA)», révisé le 23 juin 2017, de l’ISFM[^4b-5];
-- d.[^4b-6] homéopathie classique uniciste, si le médecin dispose d’un titre postgrade en homéopathie délivré conformément au programme de formation complémentaire du 1<sup>er</sup> janvier 1999 «Homéopathie (SSMH)», révisé le 14 juin 2019, de l’ISFM[^4b-7];
+- d.[^4b-6] homéopathie classique uniciste, si le médecin dispose d’un titre postgrade en homéopathie délivré conformément au programme de formation complémentaire du 1<sup>er</sup> janvier 1999 «Homéopathie (SSMH)», révisé le 10 décembre 2020[^4b-7], de l’ISFM34;
 - e. phytothérapie, si le médecin dispose d’un titre postgrade en phytothérapie délivré conformément au programme de formation complémentaire du 1<sup>er</sup> juillet 2011 «Phytothérapie (SMGP)» de l’ISFM, révisé le 5 novembre 2015[^4b-8].
 
 [^4b-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
@@ -231,8 +231,8 @@ L’assurance prend en charge les coûts des prestations des disciplines suivant
 [^4b-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^4b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^4b-5]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^4b-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
+[^4b-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^4b-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^4b-8]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 
 ### Chapitre 2 Prestations fournies sur prescription ou mandat médical
@@ -319,7 +319,7 @@ Les prestations fournies, sur prescription médicale, par les ergothérapeutes e
 [^6-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^6-5]: Introduit par le ch. I de l’O du DFI du 10 déc. 2008 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
 
-### Section 3 Soins ambulatoires ou dispensés dans un établissement médico-social
+### Section 3 Soins ambulatoires ou dispensés dans un établissement médico-social****
 
 [^tit1-chap2-sec3-1]
 
@@ -543,7 +543,7 @@ La procédure de contrôle sert à vérifier le bien-fondé de l’évaluation d
 
 [^9a-1]: Introduit par le ch. I de l’O du DFI du 18 sept. 1997 ([RO 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogé par le ch. I de l’O du DFI du 24 juin 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
 
-### Section 3*a* Conseils nutritionnels
+### Section 3*a***** Conseils nutritionnels
 
 [^tit1-chap2-sec3a-1]
 
@@ -576,7 +576,7 @@ Les diététiciens et les organisations de diététique, au sens des art. 46, 50
 [^9b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
 [^9b-5]: Introduite par le ch. I de l’O du DFI du 6 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
 
-### Section 3*b* Conseils aux diabétiques
+### Section 3*b***** Conseils aux diabétiques
 
 [^tit1-chap2-sec3b-1]
 
@@ -629,7 +629,7 @@ Les logopédistes-orthophonistes et les organisations de logopédistes-orthophon
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 juin 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)).
 [^11-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du DFI du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
 
-### Section 5 Neuropsychologie
+### Section 5**** Neuropsychologie
 
 [^tit1-chap2-sec5-1]
 
@@ -666,26 +666,28 @@ L’assurance prend en charge les coûts des vaccinations prophylactiques suivan
 
 <table>
 <tr><th>Mesure</th><th colspan="2">Conditions</th></tr>
-<tr><td>a. Vaccination et rappels contre la diphtérie, le tétanos, la coqueluche, la poliomyélite; vaccination contre la rougeole, les oreillons et la rubéole</td><td colspan="2">Selon le «Plan de vaccination suisse 2020» (Plan de vaccination 2020)[^12a-2] établi par l’Office fédéral de la santé publique (OFSP) et la Commission fédérale pour les vaccinations (CFV).</td></tr>
-<tr><td>b. Vaccination contre *Haemophilus influenzae*</td><td colspan="2">Selon le Plan de vaccination 2020, pour les enfants jusqu’au jour où ils atteignent l’âge de 5 ans.</td></tr>
-<tr><td>c. Vaccination contre l’influenza</td><td>1. Vaccination annuelle pour les personnes présentant un risque de complications élevé, selon le Plan de vaccination 2020. 2. En cas de menace de pandémie d’influenza ou lors d’une pandémie d’influenza, pour les personnes pour lesquelles l’OFSP recommande une vaccination[^12a-3]. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
-<tr><td>d. Vaccination contre l’hépatite B</td><td colspan="2">Selon le Plan de vaccination 2020. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>e. Vaccination passive avec Hépatites B-Immunoglobuline</td><td colspan="2">Pour les nouveau-nés de mères HbsAg-positives.</td></tr>
-<tr><td>f. Vaccination contre les pneumocoques</td><td colspan="2">Selon le Plan de vaccination 2020, pour les enfants jusqu’au jour où ils atteignent l’âge de 5 ans.</td></tr>
-<tr><td>g. Vaccination contre les méningocoques</td><td colspan="2">Selon le Plan de vaccination 2020. Les coûts ne sont pris en charge que pour les vaccinations effectuées à l’aide de vaccins autorisés pour le groupe d’âge concerné. En cas d’indication professionnelle ou de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>h. Vaccination contre la tuberculose</td><td colspan="2">Avec le vaccin BCG, selon le Plan de vaccination 2020.</td></tr>
-<tr><td>i. Vaccination contre l’encéphalite à tiques</td><td colspan="2">Selon le Plan de vaccination 2020. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>j. Vaccination contre la varicelle</td><td colspan="2">Selon le Plan de vaccination 2020.</td></tr>
-<tr><td>k. Vaccination contre les papillomavirus humain (HPV)</td><td colspan="2">1. Selon le Plan de vaccination 2020: a. vaccination de base des filles à partir de 11 ans jusqu’au jour où elles atteignent l’âge de 15 ans; b. vaccination des filles à partir de 15 ans et des jeunes femmes jusqu’au jour où elles atteignent l’âge de 27 ans; c. vaccination complémentaire pour les garçons à partir de 11 ans et les jeunes hommes jusqu’au jour où ils atteignent l’âge de 27 ans. 2. Vaccination dans le cadre de programmes cantonaux de vaccination qui doivent satisfaire aux exigences minimales suivantes: a. l’information des groupes cibles et de leurs parents ou représentants légaux sur la disponibilité des vaccins et les recommandations de l’OFSP et de la CFV visées au ch. 1 est assurée; b. la vaccination complète est visée; c. les prestations et les obligations des responsables du programme, des médecins chargés de la vaccination et des assureurs-maladie sont définies; d. la collecte des données, le décompte, les flux d’information et les flux financiers sont réglés. 3. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris). 4. La prise en charge du vaccin nonavalent est en cours d’évaluation jusqu’au 31 décembre 2022.</td></tr>
-<tr><td>l. Vaccination contre l’hépatite A</td><td colspan="2">Selon le Plan de vaccination 2020. Pour les personnes suivantes: – pour les patients atteints d’une affection chronique du foie; – pour les enfants en provenance de pays à forte ou moyenne endémie qui vivent en Suisse et retournent dans leur pays d’origine pour un séjour temporaire; – pour les consommateurs de drogue par injection; – pour les hommes ayant des relations sexuelles avec d’autres hommes en dehors d’une relation stable. Vaccination post-expositionnelle dans les sept jours suivant l’exposition. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>a. Vaccination et rappels contre la diphtérie, le tétanos, la coqueluche, la poliomyélite; vaccination contre la rougeole, les oreillons et la rubéole</td><td colspan="2">Selon le «Plan de vaccination suisse 2020» (Plan de vaccination 2021[^12a-2])[^12a-3] établi par l’Office fédéral de la santé publique (OFSP) et la Commission fédérale pour les vaccinations (CFV).</td></tr>
+<tr><td>b. Vaccination contre *Haemophilus influenzae*</td><td colspan="2">Selon le Plan de vaccination 2021, pour les enfants jusqu’au jour où ils atteignent l’âge de 5 ans.</td></tr>
+<tr><td>c. Vaccination contre l’influenza</td><td>1. Vaccination annuelle pour les personnes présentant un risque de complications élevé, selon le Plan de vaccination 2021. 2. En cas de menace de pandémie d’influenza ou lors d’une pandémie d’influenza, pour les personnes pour lesquelles l’OFSP recommande une vaccination[^12a-4]. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
+<tr><td>d. Vaccination contre l’hépatite B</td><td colspan="2">Selon le Plan de vaccination 2021. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>e.[^12a-5] ...</td><td colspan="2">....</td></tr>
+<tr><td>f. Vaccination contre les pneumocoques</td><td colspan="2">Selon le Plan de vaccination 2021, pour les enfants jusqu’au jour où ils atteignent l’âge de 5 ans.</td></tr>
+<tr><td>g. Vaccination contre les méningocoques</td><td colspan="2">Selon le Plan de vaccination 2021. Les coûts ne sont pris en charge que pour les vaccinations effectuées à l’aide de vaccins autorisés pour le groupe d’âge concerné. En cas d’indication professionnelle ou de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>h. Vaccination contre la tuberculose</td><td colspan="2">Avec le vaccin BCG, selon le Plan de vaccination 2021.</td></tr>
+<tr><td>i. Vaccination contre l’encéphalite à tiques</td><td colspan="2">Selon le Plan de vaccination 2021. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>j. Vaccination contre la varicelle</td><td colspan="2">Selon le Plan de vaccination 2021.</td></tr>
+<tr><td>k. Vaccination contre les papillomavirus humain (HPV)</td><td colspan="2">1. Selon le Plan de vaccination 2021: a. vaccination de base des filles à partir de 11 ans jusqu’au jour où elles atteignent l’âge de 15 ans; b. vaccination des filles à partir de 15 ans et des jeunes femmes jusqu’au jour où elles atteignent l’âge de 27 ans; c. vaccination complémentaire pour les garçons à partir de 11 ans et les jeunes hommes jusqu’au jour où ils atteignent l’âge de 27 ans. 2. Vaccination dans le cadre de programmes cantonaux de vaccination qui doivent satisfaire aux exigences minimales suivantes: a. l’information des groupes cibles et de leurs parents ou représentants légaux sur la disponibilité des vaccins et les recommandations de l’OFSP et de la CFV visées au ch. 1 est assurée; b. la vaccination complète est visée; c. les prestations et les obligations des responsables du programme, des médecins chargés de la vaccination et des assureurs-maladie sont définies; d. la collecte des données, le décompte, les flux d’information et les flux financiers sont réglés. 3. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris). 4. La prise en charge du vaccin nonavalent est en cours d’évaluation jusqu’au 31 décembre 2022.</td></tr>
+<tr><td>l. Vaccination contre l’hépatite A</td><td colspan="2">Selon le Plan de vaccination 2021. Pour les personnes suivantes: – pour les patients atteints d’une affection chronique du foie; – pour les enfants en provenance de pays à forte ou moyenne endémie qui vivent en Suisse et retournent dans leur pays d’origine pour un séjour temporaire; – pour les consommateurs de drogue par injection; – pour les hommes ayant des relations sexuelles avec d’autres hommes en dehors d’une relation stable. Vaccination post-expositionnelle dans les sept jours suivant l’exposition. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
 <tr><td>m. Vaccination contre la rage</td><td colspan="2">Vaccination post-expositionnelle, après une morsure par un animal enragé ou susceptible de l’être. En cas d’indication professionnelle la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>n.[^12a-4] Vaccination contre COVID-19</td><td colspan="2">En cas d’une épidémie COVID-19, pour les personnes particulièrement menacées. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
+<tr><td>n.[^12a-6] Vaccination contre COVID-19</td><td colspan="2">En cas d’une épidémie COVID-19, pour les personnes particulièrement menacées. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
 </table>
 
 [^12a-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
-[^12a-2]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^12a-3]: Voir l’ordonnance du 29 avril 2015 sur les épidémies ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)**)**.
-[^12a-4]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12a-2]: Nouvelle expression selon le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Il a été tenu compte de cette mod. dans tout le texte.
+[^12a-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12a-4]: Voir l’ordonnance du 29 avril 2015 sur les épidémies ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)**)**.
+[^12a-5]: Abrogée par le ch. I de l’O du DFI du 8 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^12a-6]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
 #### Art. 12b
 
@@ -700,6 +702,7 @@ L’assurance prend en charge les coûts des mesures suivantes visant la prophyl
 <tr><td>c.[^12b-2] Prophylaxie VIH post-exposition</td><td>Selon les recommandations de l’OFSP du 24 novembre 2014 (Bulletin de l’OFSP n<sup>o</sup> 48, 2014)[^12b-3]. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
 <tr><td>d.[^12b-4] Immunisation passive post-expositionnelle</td><td>Selon les recommandations de l’OFSP et de la Commission suisse pour les vaccinations (directives et recommandations «Immunisation passive post-expositionnelle» d’octobre 2004)[^12b-5]. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
 <tr><td>e.[^12b-6] Mastectomie et / ou adnexectomie prophylactique</td><td>Chez les porteuses du gène BRCA1 ou BRCA2.</td></tr>
+<tr><td>f.[^12b-7] Vaccination passive avec immunoglobulines de l’hépatite B</td><td>Pour les nouveau-nés de mères HbsAg-positives.</td></tr>
 </table>
 
 [^12b-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
@@ -708,6 +711,7 @@ L’assurance prend en charge les coûts des mesures suivantes visant la prophyl
 [^12b-4]: Introduite par le ch. I de l’O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nouvelle teneur selon le ch. I de l’O du DFI du 31 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
 [^12b-5]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^12b-6]: Introduite par le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^12b-7]: Introduite par le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 
 #### Art. 12c
 
@@ -1434,25 +1438,27 @@ Les groupes IT sont répartis dans les blocs suivants, conformément à l’art.
   - 4\. gynaecologica (09),
   - 5\. ophtalmologica (11),
   - 6\. oto-rhinolaryngologica (12),
+  - 6*a*.[^34d-4] autres médicaments (médecines complémentaires) (20)
   - 7\. cœur et circulation (médecines complémentaires) (52),
   - 8\. système respiratoire (médecines complémentaires) (53),
   - 9\. maladies infectieuses (médecines complémentaires) (58),
   - 10\. gynaecologica (médecines complémentaires) (59),
   - 11\. ophtalmologica (médecines complémentaires) (61),
-  - 12\. oto-rhinolaryngologica (médecines complémentaires) (62).[^34d-4]
+  - 12\. oto-rhinolaryngologica (médecines complémentaires) (62).[^34d-5]
 
 <sup>2</sup>
 
 Le réexamen visé à l’al. 1 ne s’applique pas aux préparations originales suivantes:
 
-- a.[^34d-5] préparations originales dont le prix a été réexaminé depuis le dernier réexamen du caractère économique en raison d’une extension des indications ou d’une modification ou suppression d’une limitation conformément à l’art. 65*f*, al. 4, OAMal; l’OFSP procède au réexamen de ces préparations originales au plus tôt au cours de la deuxième année qui suit le dernier réexamen du prix;
+- a.[^34d-6] préparations originales dont le prix a été réexaminé depuis le dernier réexamen du caractère économique en raison d’une extension des indications ou d’une modification ou suppression d’une limitation conformément à l’art. 65*f*, al. 4, OAMal; l’OFSP procède au réexamen de ces préparations originales au plus tôt au cours de la deuxième année qui suit le dernier réexamen du prix;
 - b. préparations originales qui figurent sur la liste des spécialités depuis moins de treize mois au 1<sup>er</sup> janvier de l’année du réexamen.
 
 [^34d-1]: Introduit par le ch. I de l’O du DFI du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Voir disp. trans. des mod. des 29 avr. 2015, 21 oct. 2015 et 1<sup>er</sup> fév. 2017 à la fin du texte.
 [^34d-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^34d-3]: Abrogé par le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2017, avec effet au 1<sup>er</sup> mars 2017 ([RO 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
-[^34d-4]: Introduit par le ch. I de l’O du DFI du 21 oct. 2015, en vigueur depuis le 15 nov. 2015 ([RO 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)).
-[^34d-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^34d-4]: Introduit par le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^34d-5]: Introduit par le ch. I de l’O du DFI du 21 oct. 2015, en vigueur depuis le 15 nov. 2015 ([RO 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)).
+[^34d-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 
 #### Art. 34e
 
@@ -1821,7 +1827,7 @@ Sont abrogées:
 [^46-2]: Abrogé par le ch. I de l’O du DFI du 15 janv. 1996, avec effet au 1<sup>er</sup> mai 1996 ([RO 1996 909](https://fedlex.data.admin.ch/eli/oc/1996/909_909_909)).
 [^46-3]: Abrogé par le ch. I de l’O du DFI du 26 fév. 1996, avec effet au 1<sup>er</sup> juin 1996 ([RO 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
 
-## Disposition finale de la modification du 17 novembre 2003
+## Disposition finale de la modification du 17 novembre 2003****
 
 [^u1-1]
 
@@ -1831,7 +1837,7 @@ Les laboratoires dont le chef a achevé une formation postgraduée reconnue par 
 
 [^u1-2]: Ce règlement n’est pas publié au RO. Il peut être consulté à l’Office fédéral de la santé publique, Schwarzenburgstrasse 157, 3003 Berne.
 
-## Disposition finale de la modification du 12 décembre 2005
+## Disposition finale de la modification du 12 décembre 2005****
 
 [^u2-1]
 
@@ -1839,7 +1845,7 @@ Les laboratoires dont le chef a achevé une formation postgraduée reconnue par 
 
 Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au 1<sup>er</sup> avril 2006.
 
-## Dispositions finales de la modification du 3 juillet 2006
+## Dispositions finales de la modification du 3 juillet 2006****
 
 [^u3-1]
 
@@ -1853,7 +1859,7 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 [^u3-3]: En vigueur depuis le 1<sup>er</sup> juil. 2006.
 [^u3-4]: Abrogé par le ch. I de l’O du DFI du 5 déc. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 
-## Dispositions finales de la modification du 4 avril 2007
+## Dispositions finales de la modification du 4 avril 2007****
 
 [^u4-1]
 
@@ -1865,7 +1871,7 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 
 [^u4-2]: Cette mod. entre en vigueur le 1<sup>er</sup> avr. 2007.
 
-## Dispositions transitoires de la modification du 21 septembre 2007
+## Dispositions transitoires de la modification du 21 septembre 2007****
 
 [^u5-1]
 
@@ -1963,7 +1969,7 @@ Annexe 1*[^t-2]*
 
 ## Prise en charge par l’assurance obligatoire des soins de certaines prestations fournies par les médecins
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). L’annexe 1 peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; prestations médicales.
+[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). L’annexe 1 peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; prestations médicales &gt; Annexe 1 OPAS.
 
 Annexe 1a*[^t-3]*
 
@@ -1979,7 +1985,7 @@ Annexe 2*[^t-4]*
 
 ## Liste des moyens et appareils
 
-[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste de moyens et appareils (LiMA).
+[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste de moyens et appareils (LiMA).
 
 Annexe 3*[^t-5]*
 
@@ -1987,7 +1993,7 @@ Annexe 3*[^t-5]*
 
 ## Liste des analyses
 
-[^t-5]: Cette annexe n’est pas publiée au RO ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033);[2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste des analyses (LA).
+[^t-5]: Cette annexe n’est pas publiée au RO ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033);[2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste des analyses (LA).
 
 Annexe 4*[^t-6]*
 

@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2021-06-01
+version: 2021-07-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210601/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210601/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Juni 2021)
+vom 29. September 1995 (Stand am 1. Juli 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -225,7 +225,7 @@ Die Versicherung übernimmt die Kosten von Leistungen der folgenden Fachrichtung
 - a.[^4b-1] Akupunktur: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Akupunktur – Chinesische Arzneitherapie – TCM (ASA) des Schweizerischen Instituts für Weiter- und Fortbildung (SIWF) vom 1. Juli 2015, revidiert am 23. Juni 2017[^4b-2], entspricht;
 - b. anthroposophische Medizin: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm anthroposophisch erweiterte Medizin (VAOAS) des SIWF vom 1. Januar 1999, revidiert am 16. Juni 2016[^4b-3], entspricht;
 - c.[^4b-4] Arzneimitteltherapie der traditionellen chinesischen Medizin (TCM): sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Akupunktur – Chinesische Arzneitherapie – TCM (ASA) des SIWF vom 1. Juli 2015, revidiert am 23. Juni 2017[^4b-5], entspricht;
-- d.[^4b-6] klassische Homöopathie: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Homöopathie (SVHA) des SIWF vom 1. Januar 1999, revidiert am 14. Juni 2019[^4b-7], entspricht;
+- d.[^4b-6] klassische Homöopathie: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Homöopathie (SVHA) des SIWF vom 1. Januar 1999, revidiert am 10. Dezember 2020[^4b-7], entspricht;
 - e. Phytotherapie: sofern der Arzt oder die Ärztin über eine Weiterbildung verfügt, die dem Fähigkeitsprogramm Phytotherapie (SMGP) des SIWF vom 1. Juli 2011, revidiert am 5. November 2015[^4b-8] entspricht.
 
 [^4b-1]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
@@ -233,8 +233,8 @@ Die Versicherung übernimmt die Kosten von Leistungen der folgenden Fachrichtung
 [^4b-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
 [^4b-4]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^4b-5]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
-[^4b-6]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^4b-6]: Fassung gemäss Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^4b-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
 [^4b-8]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
 
 ### 2. Kapitel: Auf Anordnung oder im Auftrag eines Arztes oder einer Ärztin erbrachte Leistungen
@@ -671,26 +671,28 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktische Impfungen u
 
 <table>
 <tr><th>Massnahme</th><th>Voraussetzung</th></tr>
-<tr><td>a. Impfung und Booster gegen Diphtherie, Tetanus, Pertussis, Poliomyelitis; Impfung gegen Masern, Mumps und Röteln</td><td>Gemäss dem «Schweizerischen Impfplan 2020» (Impfplan 2020)[^12a-2] des Bundesamts für Gesundheit (BAG) und der Eidgenössischen Kommission für Impffragen (EKIF).</td></tr>
-<tr><td>b. Haemophilus-Influenzae-Impfung</td><td>Gemäss Impfplan 2020 bei Kindern bis zum vollendeten 5. Altersjahr.</td></tr>
-<tr><td>c. Impfung gegen Influenza</td><td>1. Jährliche Impfung bei Personen mit einem erhöhten Komplikationsrisiko gemäss Impfplan 2020. 2. Während einer Influenza-Pandemie-Bedrohung oder einer Influenza-Pandemie bei Personen, bei denen das BAG eine Impfung empfiehlt[^12a-3]. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</td></tr>
-<tr><td>d. Hepatitis-B-Impfung</td><td>Gemäss Impfplan 2020. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>e. Passive Impfung mit Hepatitis B-Immunglobulin</td><td>Bei Neugeborenen HBs-Ag-positiver Mütter.</td></tr>
-<tr><td>f. Pneumokokken-Impfung</td><td>Gemäss Impfplan 2020 bei Kindern bis zum vollendeten 5. Altersjahr.</td></tr>
-<tr><td>g. Meningokokken-Impfung</td><td>Gemäss Impfplan 2020. Die Kosten werden nur für die Impfung mit Impfstoffen übernommen, die für die betreffende Altersgruppe über die nötige Zulassung verfügen. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>h. Impfung gegen Tuberkulose</td><td>Mit BCG-Impfstoff gemäss Impfplan 2020.</td></tr>
-<tr><td>i. Impfung gegen Frühsommer-Meningoenzephalitis (FSME)</td><td>Gemäss Impfplan 2020. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>j. Varizellen-Impfung</td><td>Gemäss Impfplan 2020.</td></tr>
-<tr><td>k. Impfung gegen Humane Papillomaviren (HPV)</td><td>1. Gemäss Impfplan 2020: a. Basisimpfung der Mädchen zwischen dem vollendeten 11. und dem vollendeten 15. Altersjahr; b. Impfung der Mädchen und Frauen zwischen dem vollendeten 15. und dem vollendeten 27. Altersjahr; c. ergänzende Impfung bei Knaben und Männern zwischen dem vollendeten 11. und dem vollendeten 27. Altersjahr. 2. Impfung im Rahmen von kantonalen Impfprogrammen, die folgende Minimalanforderungen erfüllen: a. Die Information der Zielgruppen und von deren Eltern/gesetzlicher Vertretung über die Verfügbarkeit der Impfung und die Empfehlungen des BAG und der EKIF nach Ziffer 1 ist sichergestellt. b. Die Vollständigkeit der Impfung wird angestrebt. c. Die Leistungen und Pflichten der Programmträger, der impfenden Ärzte und Ärztinnen und der Krankenversicherer sind definiert. d. Datenerhebung, Abrechnung, Informations- und Finanzflüsse sind geregelt. 3. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart. 4. Die Kostenübernahme des nonavalenten Impfstoffes ist in Evaluation bis 31. Dezember 2022.</td></tr>
-<tr><td>l. Hepatitis-A-Impfung</td><td>Gemäss Impfplan 2020. Bei folgenden Personen: – bei Patienten und Patientinnen mit einer chronischen Lebererkrankung; – bei Kindern aus Ländern mit mittlerer und hoher Endemizität, die in der Schweiz leben und für einen vorübergehenden Aufenthalt in ihr Herkunftsland zurückkehren; – bei drogeninjizierenden Personen; – bei Männern mit sexuellen Kontakten zu Männern ausserhalb einer stabilen Beziehung. Postexpositionelle Impfung innerhalb von sieben Tagen nach Exposition. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
+<tr><td>a. Impfung und Booster gegen Diphtherie, Tetanus, Pertussis, Poliomyelitis; Impfung gegen Masern, Mumps und Röteln</td><td>Gemäss dem «Schweizerischen Impfplan 2021» (Impfplan 2021[^12a-2])[^12a-3] des Bundesamts für Gesundheit (BAG) und der Eidgenössischen Kommission für Impffragen (EKIF).</td></tr>
+<tr><td>b. Haemophilus-Influenzae-Impfung</td><td>Gemäss Impfplan 2021 bei Kindern bis zum vollendeten 5. Altersjahr.</td></tr>
+<tr><td>c. Impfung gegen Influenza</td><td>1. Jährliche Impfung bei Personen mit einem erhöhten Komplikationsrisiko gemäss Impfplan 2021. 2. Während einer Influenza-Pandemie-Bedrohung oder einer Influenza-Pandemie bei Personen, bei denen das BAG eine Impfung empfiehlt[^12a-4]. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</td></tr>
+<tr><td>d. Hepatitis-B-Impfung</td><td>Gemäss Impfplan 2021. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
+<tr><td>e.[^12a-5] ...</td><td></td></tr>
+<tr><td>f. Pneumokokken-Impfung</td><td>Gemäss Impfplan 2021 bei Kindern bis zum vollendeten 5. Altersjahr.</td></tr>
+<tr><td>g. Meningokokken-Impfung</td><td>Gemäss Impfplan 2021. Die Kosten werden nur für die Impfung mit Impfstoffen übernommen, die für die betreffende Altersgruppe über die nötige Zulassung verfügen. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
+<tr><td>h. Impfung gegen Tuberkulose</td><td>Mit BCG-Impfstoff gemäss Impfplan 2021.</td></tr>
+<tr><td>i. Impfung gegen Frühsommer-Meningoenzephalitis (FSME)</td><td>Gemäss Impfplan 2021. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
+<tr><td>j. Varizellen-Impfung</td><td>Gemäss Impfplan 2021.</td></tr>
+<tr><td>k. Impfung gegen Humane Papillomaviren (HPV)</td><td>1. Gemäss Impfplan 2021: a. Basisimpfung der Mädchen zwischen dem vollendeten 11. und dem vollendeten 15. Altersjahr; b. Impfung der Mädchen und Frauen zwischen dem vollendeten 15. und dem vollendeten 27. Altersjahr; c. ergänzende Impfung bei Knaben und Männern zwischen dem vollendeten 11. und dem vollendeten 27. Altersjahr. 2. Impfung im Rahmen von kantonalen Impfprogrammen, die folgende Minimalanforderungen erfüllen: a. Die Information der Zielgruppen und von deren Eltern/gesetzlicher Vertretung über die Verfügbarkeit der Impfung und die Empfehlungen des BAG und der EKIF nach Ziffer 1 ist sichergestellt. b. Die Vollständigkeit der Impfung wird angestrebt. c. Die Leistungen und Pflichten der Programmträger, der impfenden Ärzte und Ärztinnen und der Krankenversicherer sind definiert. d. Datenerhebung, Abrechnung, Informations- und Finanzflüsse sind geregelt. 3. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart. 4. Die Kostenübernahme des nonavalenten Impfstoffes ist in Evaluation bis 31. Dezember 2022.</td></tr>
+<tr><td>l. Hepatitis-A-Impfung</td><td>Gemäss Impfplan 2021. Bei folgenden Personen: – bei Patienten und Patientinnen mit einer chronischen Lebererkrankung; – bei Kindern aus Ländern mit mittlerer und hoher Endemizität, die in der Schweiz leben und für einen vorübergehenden Aufenthalt in ihr Herkunftsland zurückkehren; – bei drogeninjizierenden Personen; – bei Männern mit sexuellen Kontakten zu Männern ausserhalb einer stabilen Beziehung. Postexpositionelle Impfung innerhalb von sieben Tagen nach Exposition. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>m. Impfung gegen Tollwut</td><td>Postexpositionelle Impfung nach Biss durch ein tollwütiges oder tollwutverdächtiges Tier. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><th>n.[^12a-4] Impfung gegen Covid-19</th><th>Während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</th></tr>
+<tr><th>n.[^12a-6] Impfung gegen Covid-19</th><th>Während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</th></tr>
 </table>
 
 [^12a-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
-[^12a-2]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
-[^12a-3]: Siehe die Epidemienverordnung vom 29. April 2015 ([SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
-[^12a-4]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12a-2]: Ausdruck gemäss Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^12a-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^12a-4]: Siehe die Epidemienverordnung vom 29. April 2015 ([SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
+[^12a-5]: Aufgehoben durch Ziff. I der V des EDI vom 8. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^12a-6]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
 #### Art. 12b
 
@@ -705,6 +707,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 <tr><td>c.[^12b-2] HIV-Postexpositionsprophylaxe</td><td>Gemäss den Empfehlungen des BAG vom 24. November 2014 (BAG-Bulletin Nr. 48, 2014)[^12b-3]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>d.[^12b-4] Postexpositionelle passive Immunisierung</td><td>Gemäss den Empfehlungen des BAG und der Schweizerischen Kommission für Impffragen (Richtlinien und Empfehlungen «Postexpositionelle passive Immunisierung» vom Oktober 2004)[^12b-5]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>e.[^12b-6] Prophylaktische Mastektomie und / oder Adnexektomie</td><td>Bei Trägerinnen von Mutationen oder Deletionen im BRCA1- oder BRCA2-Gen</td></tr>
+<tr><td>f.[^12b-7] Passive Impfung mit Hepatitis B-Immunglobulin</td><td>Bei Neugeborenen HBs-Ag-positiver Mütter.</td></tr>
 </table>
 
 [^12b-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
@@ -713,6 +716,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 [^12b-4]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Fassung gemäss Ziff. I der V des EDI vom 31. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
 [^12b-5]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
 [^12b-6]: Eingefügt durch Ziff. I der V des EDI vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Fassung gemäss Ziff. I der V des EDI vom 12. Juni 2012, in Kraft seit 1. Juli 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)).
+[^12b-7]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 
 #### Art. 12c
 
@@ -740,8 +744,8 @@ Die Versicherung übernimmt die Kosten für folgende Untersuchungen des allgemei
 <tr><td>a.[^12d-2] HIV-Test</td><td>Bei Neugeborenen HIV-positiver Mütter. Bei den übrigen Personen gemäss der Richtlinie «Der HIV-Test auf Initiative des Arztes/der Ärztin bei bestimmten Krankheitsbildern (HIV-Indikatorerkrankungen)» des BAG vom 18. Mai 2015[^12d-3].</td></tr>
 <tr><td>b.[^12d-4] Koloskopie</td><td>Bei familiärem Kolonkarzinom (im ersten Verwandtschaftsgrad mindestens drei Personen befallen oder eine Person vor dem 30. Altersjahr).</td></tr>
 <tr><td>c. Untersuchung der Haut</td><td>Bei familiär erhöhtem Melanomrisiko (Melanom bei einer Person im ersten Verwandtschaftsgrad).</td></tr>
-<tr><td>d.[^12d-5] Digitale Mammografie, Mamma-MRI</td><td>[tab] 1.[^12d-6] Bei Frauen mit mässig oder stark erhöhtem familiären Brustkrebsrisiko oder mit vergleichbarem individuellen Risiko. Risikoeinstufung mittels Risikokalkulationsmodellen (z. B. IBIS, CanRisk). Voraussetzung für die Einstufung in die Kategorie «stark erhöhtes Risiko» ist eine genetische Beratung nach Buchstabe f. Indikation, Häufigkeit und Untersuchungsmethode risiko- und altersadaptiert gemäss BAG-Referenzdokument «Überwachungsprotokoll» (Stand 01/2021)[^12d-7]. Nach einem umfassenden Aufklärungs- und Beratungsgespräch vor der ersten Untersuchung, das dokumentiert werden muss.</td></tr>
-<tr><td>[tab]</td><td>2. Indikationsstellung, Aufklärungs- und Beratungsgespräch sowie Durchführung der Überwachung und weitere Beratung und Abklärung bei auffälligen Befunden durch ein zertifiziertes Brustzentrum, das die Anforderungen nach den «Qualitätskriterien für die Zertifizierung von Brustzentren» der Krebsliga Schweiz und der Schweizerischen Gesellschaft für Senologie vom Oktober 2015[^12d-8], nach den Empfehlungen «The requirements of a specialist Breast Centre» der European Society of Breast Cancer Specialists (EUSOMA), veröffentlicht am 19. August 2013[^12d-9], oder nach den Kriterien im «Erhebungsbogen Brustkrebszentren» der Deutschen Krebsgesellschaft und der Deutschen Gesellschaft für Senologie vom 14. Juli 2016[^12d-10] erfüllt. Durchführung der bildgebenden Untersuchungen subsidiär auch durch Leistungserbringer möglich, die auf vertraglicher Basis mit einem zertifizierten Brustzentrum zusammenarbeiten. Soll die Untersuchung in einem anderen Zentrum durchgeführt werden, so ist vorgängig die besondere Gutsprache des Versicherers einzuholen, der die Empfehlung des Vertrauensarztes oder der Vertrauensärztin berücksichtigt.</td></tr>
+<tr><td>d.[^12d-5] Digitale Mammografie, Mamma-MRI</td><td>[tab] 1.[^12d-6] Bei Frauen mit mässig oder stark erhöhtem familiären Brustkrebsrisiko oder mit vergleichbarem individuellen Risiko. Risikoeinstufung mittels Risikokalkulationsmodellen (z. B. IBIS, CanRisk). Voraussetzung für die Einstufung in die Kategorie «stark erhöhtes Risiko» ist eine genetische Beratung nach Buchstabe f. Indikation, Häufigkeit und Untersuchungsmethode risiko- und altersadaptiert gemäss BAG-Referenzdokument «Überwachungsprotokoll» (Stand 01/2021)[^12d-7]. Nach einem umfassenden Aufklärungs- und Beratungsgespräch vor der ersten Untersuchung, das dokumentiert werden muss. 2. Indikationsstellung, Aufklärungs- und Beratungsgespräch sowie Durchführung der Überwachung und weitere Beratung und Abklärung bei auffälligen Befunden durch ein zertifiziertes Brustzentrum, das die Anforderungen nach den «Qualitätskriterien für die Zertifizierung von Brustzentren» der Krebsliga Schweiz und der Schweizerischen Gesellschaft für Senologie vom Oktober 2015[^12d-8], nach den Empfehlungen «The requirements of a specialist Breast Centre» der European Society of Breast Cancer Specialists (EUSOMA), veröffentlicht am 19. August 2013[^12d-9], oder nach den Kriterien im «Erhebungsbogen Brustkrebszentren» der Deutschen Krebsgesellschaft und der Deutschen Gesellschaft für Senologie vom 14. Juli 2016[^12d-10] erfüllt. Durchführung der bildgebenden Untersuchungen subsidiär auch durch Leistungserbringer möglich, die auf vertraglicher Basis mit einem zertifizierten Brustzentrum zusammenarbeiten. Soll die Untersuchung in einem anderen Zentrum durchgeführt werden, so ist vorgängig die besondere Gutsprache des Versicherers einzuholen, der die Empfehlung des Vertrauensarztes oder der Vertrauensärztin berücksichtigt.</td></tr>
+<tr><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>e. In-vitro-Muskelkontraktur-Test zur Erkennung einer Prädisposition für maligne Hyperthermie</td><td>Bei Personen nach einem Anästhesiezwischenfall mit Verdacht auf maligne Hyperthermie und bei Blutsverwandten ersten Grades von Personen, bei denen eine maligne Hyperthermie unter Anästhesie bekannt ist und eine Prädisposition für maligne Hyperthermie dokumentiert ist. In einem Zentrum, das von der «European Malignant Hyperthermia Group» anerkannt ist.</td></tr>
 <tr><td>f.[^12d-11] Genetische Beratung, Indikationsstellung für genetische Untersuchungen und Veranlassen der dazugehörigen Laboranalysen gemäss Analysenliste (AL) bei Verdacht auf das Vorliegen einer Prädisposition für eine familiäre Krebskrankheit</td><td>Bei Patienten und Patientinnen und Angehörigen ersten Grades von Patienten und Patientinnen mit: – hereditärem Brust- oder Ovarialkrebssyndrom – Polyposis Coli/attenuierter Form der Polyposis Coli – hereditärem Coloncarcinom-Syndrom ohne Polyposis (hereditary non polypotic colon cancer HNPCC) – Retinoblastom Durch Fachärzte und Fachärztinnen medizinische Genetik oder Mitglieder des «Network for Cancer Predisposition Testing and Counseling» der Schweizerischen Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK), die den Nachweis einer fachlichen Zusammenarbeit mit einem Facharzt oder einer Fachärztin medizinische Genetik erbringen können.</td></tr>
 <tr><td>g.[^12d-12] Genetische Beratung, Indikationsstellung für genetische Untersuchungen und Veranlassen der dazugehörigen Laboranalysen gemäss Analysenliste (AL) bei Verdacht auf das Vorliegen einer Prädisposition für eine akute hepatische Porphyrie (akut-intermittierende Porphyrie, Porphyria variegata oder hereditäre Koproporphyrie)</td><td>Bei Familienangehörigen von Personen mit symptomatischer nachgewiesener Erkrankung, die ein Risiko von mindestens 12,5 % aufweisen, diese genetische Krankheit zu erben.</td></tr>
@@ -1438,25 +1442,27 @@ Die IT-Gruppen werden in folgende Einheiten nach Artikel 65*d* Absatz 1 KVV eing
   - 4\. Gynaecologika (09),
   - 5\. Ophtalmologika (11),
   - 6\. Oto-Rhinolaryngologika (12),
+  - 6*a*.[^34d-4] Weitere Arzneimittel Komplementärmedizin (20),
   - 7\. Herz und Kreislauf Komplementärmedizin (52),
   - 8\. Lunge und Atmung Komplementärmedizin (53),
   - 9\. Infektionskrankheiten Komplementärmedizin (58),
   - 10\. Gynaecologika Komplementärmedizin (59),
   - 11\. Ophtalmologika Komplementärmedizin (61),
-  - 12\. Oto-Rhinolaryngologika Komplementärmedizin (62).[^34d-4]
+  - 12\. Oto-Rhinolaryngologika Komplementärmedizin (62).[^34d-5]
 
 <sup>2</sup>
 
 Von der Überprüfung nach Absatz 1 ausgenommen sind Originalpräparate, die:
 
-- a.[^34d-5] seit der letzten Überprüfung ihrer Wirtschaftlichkeit einer Preisüberprüfung aufgrund einer Indikationserweiterung oder einer Änderung oder Aufhebung einer Limitierung nach Artikel 65*f* Absatz 4 KVV unterzogen wurden; das BAG führt die nächste Überprüfung dieser Originalpräparate frühestens im zweiten Jahr nach der letzten Preisüberprüfung durch;
+- a.[^34d-6] seit der letzten Überprüfung ihrer Wirtschaftlichkeit einer Preisüberprüfung aufgrund einer Indikationserweiterung oder einer Änderung oder Aufhebung einer Limitierung nach Artikel 65*f* Absatz 4 KVV unterzogen wurden; das BAG führt die nächste Überprüfung dieser Originalpräparate frühestens im zweiten Jahr nach der letzten Preisüberprüfung durch;
 - b. am 1. Januar des Überprüfungsjahres seit weniger als 13 Monaten in der Spezialitätenliste gelistet sind.
 
 [^34d-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Siehe auch die UeB Änd. 29.4. Änd. 21.10.2015 und Änd. 1.2.2017 am Ende dieses Textes.
 [^34d-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^34d-3]: Aufgehoben durch Ziff. I der V des EDI vom 1. Febr. 2017, mit Wirkung seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
-[^34d-4]: Eingefügt durch Ziff. I der V des EDI vom 21. Okt. 2015, in Kraft seit 15. Nov. 2015 ([AS 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
-[^34d-5]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^34d-4]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^34d-5]: Eingefügt durch Ziff. I der V des EDI vom 21. Okt. 2015, in Kraft seit 15. Nov. 2015 ([AS 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^34d-6]: Fassung gemäss Ziff. I der V des EDI vom 1. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 
 #### Art. 34e
 
@@ -1826,7 +1832,7 @@ Es werden aufgehoben:
 [^46-2]: Aufgehoben durch Ziff. I der V des EDI vom 15. Jan. 1996, mit Wirkung seit 1. Mai 1996 ([AS 1996 909](https://fedlex.data.admin.ch/eli/oc/1996/909_909_909)).
 [^46-3]: Aufgehoben durch Ziff. I der V des EDI vom 26. Febr. 1996, mit Wirkung seit 1. Juni 1996 ([AS 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
 
-## Schlussbestimmung der Änderung vom 17. November 2003
+## Schlussbestimmung der Änderung vom 17. November 2003****
 
 [^u1-1]
 
@@ -1836,7 +1842,7 @@ Laboratorien, deren Leiter oder Leiterin sich über eine von der FAMH anerkannte
 
 [^u1-2]: In der AS nicht veröffentlicht. Das Reglement kann beim Bundesamt für Gesundheit eingesehen werden.
 
-## Schlussbestimmung der Änderung vom 12. Dezember 2005
+## Schlussbestimmung der Änderung vom 12. Dezember 2005****
 
 [^u2-1]
 
@@ -1844,7 +1850,7 @@ Laboratorien, deren Leiter oder Leiterin sich über eine von der FAMH anerkannte
 
 Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bis spätestens zum 1. April 2006 um.
 
-## Schlussbestimmungen der Änderung vom 3. Juli 2006
+## Schlussbestimmungen der Änderung vom 3. Juli 2006****
 
 [^u3-1]
 
@@ -1858,7 +1864,7 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 [^u3-3]: In Kraft seit 1. Juli 2006.
 [^u3-4]: Aufgehoben durch Ziff. I der V des EDI vom 5. Dez. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 
-## Schlussbestimmungen zur Änderung vom 4. April 2007
+## Schlussbestimmungen zur Änderung vom 4. April 2007****
 
 [^u4-1]
 
@@ -1868,7 +1874,7 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 <sup>2</sup> Für die im Zeitpunkt des Inkrafttretens der Änderung vom 4. April 2007 hängigen Gesuche wird das bisherige Recht angewendet.
 
-## Schlussbestimmungen zur Änderung vom 21. September 2007
+## Schlussbestimmungen zur Änderung vom 21. September 2007****
 
 [^u5-1]
 
@@ -1889,13 +1895,13 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 - a. der Fabrikabgabepreis des Originalpräparates am 1. Oktober 2007 (Ausgangswert) den nach Absatz 3 ermittelten Preis um mehr als 8 Prozent übersteigt;
 - b. das Unternehmen bis zum 30. November 2007 kein Gesuch stellt, den Fabrikabgabepreis mit Wirkung ab 1. März 2008 auf einen Preis zu senken, welcher den Fabrikabgabepreis nach Absatz 3 um höchstens 8 Prozent übersteigt.
 
-## Übergangsbestimmungen zur Änderung vom 30. Juni 2010
+## Übergangsbestimmungen zur Änderung vom 30. Juni 2010****
 
 [^u6-1]
 
 [^u6-1]: [AS 2010 3249](https://fedlex.data.admin.ch/eli/oc/2010/436)
 
-## Übergangsbestimmungen zur Änderung vom 2. Februar 2011
+## Übergangsbestimmungen zur Änderung vom 2. Februar 2011****
 
 [^u7-1]
 
@@ -1905,13 +1911,13 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 <sup>2</sup> Bei allen Originalpräparaten und Co-Marketing-Arzneimitteln, deren Fabrikabgabepreise nach Patentablauf in einem Schritt vor dem 1. Juli 2009 auf das bei Patentablauf geltende Generikapreisniveau gesenkt wurden, wird der Selbstbehalt per 1. Juli 2011 nach Artikel 38*a* Absatz 1 festgelegt.
 
-## Übergangsbestimmungen zur Änderung vom 21. März 2012
+## Übergangsbestimmungen zur Änderung vom 21. März 2012****
 
 [^u8-1]
 
 [^u8-1]: Anwendbar vom 1. Mai 2012 bis zum 31. Dez. 2014 ([AS 2012 1769](https://fedlex.data.admin.ch/eli/oc/2012/247)Ziff. III Abs. 2).
 
-## Übergangsbestimmungen zur Änderung vom 29. April 2015
+## Übergangsbestimmungen zur Änderung vom 29. April 2015****
 
 [^u9-1]
 
@@ -1925,7 +1931,7 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 [^u9-2]: Fassung gemäss Ziff. I der V des EDI vom 21. März 2016, in Kraft seit 1. Mai 2016 ([AS 2016 1177](https://fedlex.data.admin.ch/eli/oc/2016/220)).
 
-## Übergangsbestimmungen zur Änderung vom 21. Oktober 2015
+## Übergangsbestimmungen zur Änderung vom 21. Oktober 2015****
 
 [^u10-1]
 
@@ -1937,7 +1943,7 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 [^u10-2]: Aufgehoben durch Ziff. I der V des EDI vom 21. März 2016, mit Wirkung seit 1. Mai 2016 ([AS 2016 1177](https://fedlex.data.admin.ch/eli/oc/2016/220)).
 
-## Übergangsbestimmungen zur Änderung vom 1. Februar 2017
+## Übergangsbestimmungen zur Änderung vom 1. Februar 2017****
 
 [^u11-1]
 
@@ -1951,7 +1957,7 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 <sup>4</sup> Im Jahr 2017 sind Preiserhöhungen nach Artikel 67 Absatz 2 KVV ausgeschlossen. Das BAG kann ausnahmsweise Preiserhöhungen gewähren, wenn die Versorgung der Schweizer Bevölkerung sichergestellt werden muss und therapeutische Alternativen fehlen.
 
-## Übergangsbestimmung zur Änderung vom 2. Juli 2019
+## Übergangsbestimmung zur Änderung vom 2. Juli 2019****
 
 [^u12-1]
 
@@ -1965,7 +1971,7 @@ Anhang 1*[^t-2]*
 
 ## Vergütungspflicht der obligatorischen Krankenpflegeversicherung für bestimmte ärztliche Leistungen
 
-[^t-2]: Der Anhang wird nicht in der AS nicht veröffentlicht ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen &gt; Anhang 1 der KLV.
+[^t-2]: Der Anhang wird nicht in der AS nicht veröffentlicht ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen &gt; Anhang 1 der KLV.
 
 Anhang 1a*[^t-3]*
 
@@ -1981,7 +1987,7 @@ Anhang 2*[^t-4]*
 
 ## Mittel- und Gegenstände-Liste
 
-[^t-4]: In der AS nicht veröffentlicht ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393)). Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL).
+[^t-4]: In der AS nicht veröffentlicht ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL).
 
 Anhang 3*[^t-5]*
 
@@ -1989,7 +1995,7 @@ Anhang 3*[^t-5]*
 
 ## Analysenliste
 
-[^t-5]: In der AS nicht veröffentlicht (Art. 28) ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148)). Die Liste kann eingesehen werden unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL).
+[^t-5]: In der AS nicht veröffentlicht (Art. 28) ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Die Liste kann eingesehen werden unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL).
 
 Anhang 4*[^t-6]*
 

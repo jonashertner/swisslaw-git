@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2021-06-01
+version: 2021-07-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210601/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210601/it"
 
 (Ordinanza sulle prestazioni, OPre)**[^t-1]**
 
-del 29 settembre 1995 (Stato 1° giugno 2021)
+del 29 settembre 1995 (Stato 1° luglio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -224,7 +224,7 @@ L’assicurazione assume i costi delle prestazioni nelle discipline seguenti se 
 - a.[^4b-1] agopuntura, se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° luglio 2015 «Agopuntura e farmacoterapia cinese – MTC (ASA)» dell’Istituto svizzero per la formazione medica (ISFM), riveduto il 23 giugno 2017[^4b-2];
 - b. medicina antroposofica, se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° gennaio 1999 «Medicina antroposofica ampliata (ASMOA)» dell’ISFM, riveduto il 16 giugno 2016[^4b-3];
 - c.[^4b-4] terapia medicamentosa della medicina tradizionale cinese (MTC), se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° luglio 2015 «Agopuntura e farmacoterapia cinese – MTC (ASA)» dell’ISFM, riveduto il 23 giugno 2017[^4b-5];
-- d.[^4b-6] omeopatia unicista (classica), se il medico è titolare di un attestato di perfezionamento rilasciato conformemnte al programma di formazione complementare del 1° gennaio 1999 «Omeopatia (SSMO)» dell’ISFM, riveduto il 14 giugno 2019[^4b-7];
+- d.[^4b-6] omeopatia unicista (classica), se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° gennaio 1999 «Omeopatia (SSMO)» dell’ISFM, riveduto il 10 dicembre 2020[^4b-7];
 - e. fitoterapia, se il medico è titolare di un attestato di perfezionamento rilasciato conformemente al programma di formazione complementare del 1° luglio 2011 «Fitoterapia (SSFM)» dell’ISFM, riveduto il 5 novembre 2015[^4b-8].
 
 [^4b-1]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
@@ -232,8 +232,8 @@ L’assicurazione assume i costi delle prestazioni nelle discipline seguenti se 
 [^4b-3]: Il documento può essere consultato allʼindirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif) (in tedesco e francese).
 [^4b-4]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^4b-5]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif (disponibile in tedesco e francese).
-[^4b-6]: Nuovo testo giusta il n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
-[^4b-7]: Il documento può essere consultato al seguente indirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif) (disponibile in tedesco e francese).
+[^4b-6]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^4b-7]: Il documento può essere consultato al seguente indirizzo www.ufsp.ch/rif (disponibile in tedesco e francese)
 [^4b-8]: Il documento può essere consultato allʼindirizzo: [www.ufsp.admin.ch/rif](http://www.ufsp.admin.ch/rif) (in tedesco e francese).
 
 ### Capitolo 2: Prestazioni effettuate da persone che dispensano cure previa prescrizione o mandato medico
@@ -665,26 +665,28 @@ L’assicurazione assume i costi delle seguenti vaccinazioni profilattiche alle 
 
 <table>
 <tr><th>Misura</th><th colspan="2">Condizione</th></tr>
-<tr><td>a. Vaccinazione e richiami contro difterite, tetano, pertosse, poliomielite; vaccinazione contro morbillo, orecchioni, rosolia</td><td colspan="2">Secondo il «Calendario vaccinale svizzero 2020» (Calendario vaccinale 2020)[^12a-2] curato dall’Ufficio federale della sanità pubblica (UFSP) e dalla Commissione federale per le vaccinazioni (CFV).</td></tr>
-<tr><td>b. Vaccinazione contro l’Haemophilus influenzae</td><td colspan="2">Secondo il Calendario vaccinale 2020, per i bambini fino al compimento dei 5 anni.</td></tr>
-<tr><td>c. Vaccinazione contro l’influenza</td><td>1. Vaccinazione annuale per le persone esposte a un elevato rischio di complicazioni secondo il Calendario vaccinale 2020. 2. In caso di minaccia di pandemia d’influenza o nel corso di tale pandemia, per coloro ai quali l’UFSP raccomanda una vaccinazione[^12a-3]. Questa prestazione non è soggetta ad alcuna franchigia. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario.</td></tr>
-<tr><td>d. Vaccinazione contro l’epatite B</td><td colspan="2">Secondo il Calendario vaccinale 2020. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>e. Vaccinazione passiva con Epatite B-Immunglobuline</td><td colspan="2">Per i neonati di madri HBsAg-positive.</td></tr>
-<tr><td>f. Vaccinazione contro gli pneumococchi</td><td colspan="2">Secondo il Calendario vaccinale 2020, per i bambini fino al compimento dei 5 anni.</td></tr>
-<tr><td>g. Vaccinazione contro i meningococchi</td><td colspan="2">Secondo il Calendario vaccinale 2020. Sono assunti unicamente i costi della vaccinazione effettuata con vaccini omologati per il relativo gruppo d’età. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>h. Vaccinazione contro la tubercolosi</td><td colspan="2">Con il vaccino BCG secondo il Calendario vaccinale 2020.</td></tr>
-<tr><td>i Vaccinazione contro l’encefalite da zecca (FSME)</td><td colspan="2">Secondo il Calendario vaccinale 2020. Se effettuata per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>j. Vaccinazione contro la varicella</td><td colspan="2">Secondo il Calendario vaccinale 2020.</td></tr>
-<tr><td>k. Vaccinazione contro i virus del papilloma umano (HPV)</td><td colspan="2">1. Secondo il Calendario vaccinale 2020: a. vaccinazione di base delle ragazze dal compimento dell’11° anno di età al compimento del 15° anno di età; b. vaccinazione delle ragazze e delle donne dal compimento del 15° anno di età al compimento del 27° anno di età; c. vaccinazione complementare dei ragazzi e degli uomini dal compimento dell’11° anno di età al compimento del 27° anno di età. 2. Vaccinazione nel quadro di programmi cantonali di vaccinazione che devono soddisfare i seguenti requisiti minimi: a. l’informazione ai giovani appartenenti ai gruppi target e ai loro genitori (o rappresentanti legali) in merito alla disponibilità della vaccinazione e alle raccomandazioni dell’UFSP e della CFV secondo il numero 1 è garantita; b. la completezza delle vaccinazioni è ricercata; c. le prestazioni e gli obblighi dei responsabili del programma, dei medici che effettuano le vaccinazioni e degli assicuratori-malattie sono definiti; d. il rilevamento di dati, il conteggio, i flussi delle informazioni e delle finanze sono disciplinati. 3. Questa prestazione non è soggetta ad alcuna franchigia. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario. 4. L’assunzione dei costi del vaccino nonavalente è in fase di valutazione fino al 31 dicembre 2022.</td></tr>
-<tr><td>l. Vaccinazione contro l’epatite A</td><td colspan="2">Secondo il Calendario vaccinale 2020. Per le seguenti persone: – per pazienti affetti da una malattia cronica del fegato – per bambini provenienti da Paesi con un’endemicità media o elevata che vivono in Svizzera e che ritornano al loro Paese d’origine per un soggiorno temporaneo – per persone che si iniettano droghe – per uomini che hanno contatti sessuali con altri uomini al di fuori di una relazione stabile. Vaccinazione post-esposizione entro sette giorni dall’esposizione. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>a. Vaccinazione e richiami contro difterite, tetano, pertosse, poliomielite; vaccinazione contro morbillo, orecchioni, rosolia</td><td colspan="2">Secondo il «Calendario vaccinale svizzero 2021» (Calendario vaccinale 2021)[^12a-2] [^12a-3] curato dall’Ufficio federale della sanità pubblica (UFSP) e dalla Commissione federale per le vaccinazioni (CFV).</td></tr>
+<tr><td>b. Vaccinazione contro l’Haemophilus influenzae</td><td colspan="2">Secondo il Calendario vaccinale 2021, per i bambini fino al compimento dei 5 anni.</td></tr>
+<tr><td>c. Vaccinazione contro l’influenza</td><td>1. Vaccinazione annuale per le persone esposte a un elevato rischio di complicazioni secondo il Calendario vaccinale 2021. 2. In caso di minaccia di pandemia d’influenza o nel corso di tale pandemia, per coloro ai quali l’UFSP raccomanda una vaccinazione[^12a-4]. Questa prestazione non è soggetta ad alcuna franchigia. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario.</td></tr>
+<tr><td>d. Vaccinazione contro l’epatite B</td><td colspan="2">Secondo il Calendario vaccinale 2021. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>e.[^12a-5] ...</td><td colspan="2"></td></tr>
+<tr><td>f. Vaccinazione contro gli pneumococchi</td><td colspan="2">Secondo il Calendario vaccinale 2021, per i bambini fino al compimento dei 5 anni.</td></tr>
+<tr><td>g. Vaccinazione contro i meningococchi</td><td colspan="2">Secondo il Calendario vaccinale 2021. Sono assunti unicamente i costi della vaccinazione effettuata con vaccini omologati per il relativo gruppo d’età. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>h. Vaccinazione contro la tubercolosi</td><td colspan="2">Con il vaccino BCG secondo il Calendario vaccinale 2021.</td></tr>
+<tr><td>i Vaccinazione contro l’encefalite da zecca (FSME)</td><td colspan="2">Secondo il Calendario vaccinale 2021. Se effettuata per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
+<tr><td>j. Vaccinazione contro la varicella</td><td colspan="2">Secondo il Calendario vaccinale 2021.</td></tr>
+<tr><td>k. Vaccinazione contro i virus del papilloma umano (HPV)</td><td colspan="2">1. Secondo il Calendario vaccinale 2021: a. vaccinazione di base delle ragazze dal compimento dell’11° anno di età al compimento del 15° anno di età; b. vaccinazione delle ragazze e delle donne dal compimento del 15° anno di età al compimento del 27° anno di età; c. vaccinazione complementare dei ragazzi e degli uomini dal compimento dell’11° anno di età al compimento del 27° anno di età. 2. Vaccinazione nel quadro di programmi cantonali di vaccinazione che devono soddisfare i seguenti requisiti minimi: a. l’informazione ai giovani appartenenti ai gruppi target e ai loro genitori (o rappresentanti legali) in merito alla disponibilità della vaccinazione e alle raccomandazioni dell’UFSP e della CFV secondo il numero 1 è garantita; b. la completezza delle vaccinazioni è ricercata; c. le prestazioni e gli obblighi dei responsabili del programma, dei medici che effettuano le vaccinazioni e degli assicuratori-malattie sono definiti; d. il rilevamento di dati, il conteggio, i flussi delle informazioni e delle finanze sono disciplinati. 3. Questa prestazione non è soggetta ad alcuna franchigia. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario. 4. L’assunzione dei costi del vaccino nonavalente è in fase di valutazione fino al 31 dicembre 2022.</td></tr>
+<tr><td>l. Vaccinazione contro l’epatite A</td><td colspan="2">Secondo il Calendario vaccinale 2021. Per le seguenti persone: – per pazienti affetti da una malattia cronica del fegato – per bambini provenienti da Paesi con un’endemicità media o elevata che vivono in Svizzera e che ritornano al loro Paese d’origine per un soggiorno temporaneo – per persone che si iniettano droghe – per uomini che hanno contatti sessuali con altri uomini al di fuori di una relazione stabile. Vaccinazione post-esposizione entro sette giorni dall’esposizione. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
 <tr><td>m. Vaccinazione contro la rabbia</td><td colspan="2">Vaccinazione post-esposizione dopo il morso di un animale affetto, o sospettato di essere affetto, dalla rabbia. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>n.[^12a-4] Vaccinazione contro il COVID-19</td><td colspan="2">Durante un’epidemia di COVID-19 per le persone esposte a rischio elevato. Questa prestazione non è soggetta a franchigia. Per la vaccinazione, incluso il vaccino, viene concordato un rimborso forfettario.</td></tr>
+<tr><td>n.[^12a-6] Vaccinazione contro il COVID-19</td><td colspan="2">Durante un’epidemia di COVID-19 per le persone esposte a rischio elevato. Questa prestazione non è soggetta a franchigia. Per la vaccinazione, incluso il vaccino, viene concordato un rimborso forfettario.</td></tr>
 </table>
 
 [^12a-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nuovo testo giusta il n. I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
-[^12a-2]: Il documento può essere consultato al seguente indirizzo Internet: www.bag.admin.ch/ref
-[^12a-3]: Vedi l’O del 29 apr. 2015 sulle epidemie ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
-[^12a-4]: Introdotta dal n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12a-2]: Nuova espr. giusta il n. I dell’O del DFI dell’8 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^12a-3]: Il documento può essere consultato al seguente indirizzo Internet: www.bag.admin.ch/ref
+[^12a-4]: Vedi l’O del 29 apr. 2015 sulle epidemie ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
+[^12a-5]: Abrogata dal n. I dell’O del DFI dell’8 giu. 2021, con effetto dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^12a-6]: Introdotta dal n. I dellʼO del DFI del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
 #### Art. 12b
 
@@ -699,14 +701,16 @@ L’assicurazione assume i costi delle seguenti misure di profilassi di malattie
 <tr><td>c.[^12b-2] Profilassi post-esposizione ad HIV</td><td>Secondo le raccomandazioni dell’UFSP del 24 novembre 2014 (Bollettino dell’UFSP n. 48, 2014)[^12b-3]. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
 <tr><td>d[^12b-4] Immunizzazione passiva post-esposizione</td><td>Secondo le raccomandazioni dell’UFSP e della CFV (direttive e raccomandazioni «immunizzazione passiva post-esposizione» dell’ottobre 2004)[^12b-5]. Se effettuato per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
 <tr><td>e.[^12b-6] Mastectomia e/o annessectomia profilattica</td><td>Per le portatrici di mutazioni o delezioni del gene BRCA1 o BRCA2.</td></tr>
+<tr><td>f.[^12b-7] Vaccinazione passiva con Epatite B-Immunglobuline</td><td>Per i neonati di madri HBsAg-positive.</td></tr>
 </table>
 
 [^12b-1]: Introdotto dal n. I dellʼO del DFI del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
-[^12b-2]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 20 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
+[^12b-2]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 (RU **20****09** 2821). Nuovo testo giusta il n. I dellʼO del DFI del 20 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)).
 [^12b-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/rif
 [^12b-4]: Introdotta dal n. I dellʼO del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nuovo testo giusta il n. I dellʼO del DFI del 31 mag. 2011, in vigore dal 1° lug. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)).
 [^12b-5]: I documenti possono essere consultati allʼindirizzo [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Assicurazione malattie &gt; Basi giuridiche e dʼesecuzione&gt; Diritto applicabile &gt; Documenti di riferimento.
 [^12b-6]: Introdotta dal n. I dellʼO del DFI del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Nuovo testo giusta il n. I dellʼO del DFI del 12 giu. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)).
+[^12b-7]: Introdotta dal n. I dell’O del DFI dell’8 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
 
 #### Art. 12c
 
@@ -1427,25 +1431,27 @@ I gruppi IT sono suddivisi nelle seguenti unità conformemente all’articolo 65
   - 4\. ginecologici (09),
   - 5\. oftalmologici (11),
   - 6\. otorinolaringologici (12),
+  - [tab] 6*a*.[^34d-4] ulteriori medicamenti della medicina complementare (20),
   - 7\. sistema cardiovascolare medicina complementare (52),
   - 8\. sistema respiratorio medicina complementare (53),
   - 9\. malattie infettive medicina complementare (58),
   - 10\. ginecologici medicina complementare (59),
   - 11\. oftalmologici medicina complementare (61),
-  - 12\. otorinolaringologici medicina complementare (62).[^34d-4]
+  - 12\. otorinolaringologici medicina complementare (62).[^34d-5]
 
 <sup>2</sup>
 
 Sono esclusi dal riesame secondo il capoverso 1 i preparati originali che:
 
-- a.[^34d-5] dall’ultimo riesame dell’economicità sono stati sottoposti a un riesame del prezzo in base a un’estensione dell’indicazione oppure a una modificazione o soppressione di una limitazione secondo l’articolo 65*f* capoverso 4 OAMal; l’UFSP procede al riesame di questi preparati originali al più presto nel secondo anno dopo l’ultimo riesame del prezzo;
+- a.[^34d-6] dall’ultimo riesame dell’economicità sono stati sottoposti a un riesame del prezzo in base a un’estensione dell’indicazione oppure a una modificazione o soppressione di una limitazione secondo l’articolo 65*f* capoverso 4 OAMal; l’UFSP procede al riesame di questi preparati originali al più presto nel secondo anno dopo l’ultimo riesame del prezzo;
 - b. il 1° gennaio dell’anno del riesame figurano nell’elenco delle specialità da meno di 13 mesi.
 
 [^34d-1]: Introdotto dal n. I dellʼO del DFI del 29 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Vedi anche le disp. trans. delle mod. del 29.04.2015 e del 21.10.2015 alla fine del presente testo.
 [^34d-2]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 [^34d-3]: Abrogata dal n. I dellʼO del DFI del 1° feb. 2017, con effetto dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
-[^34d-4]: Introdotto dal n. I dellʼO del DFI del 21 ott. 2015, in vigore dal 15 nov. 2015 ([RU 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)).
-[^34d-5]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
+[^34d-4]: Introdotto dal n. I dell’O del DFI dell’8 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
+[^34d-5]: Introdotto dal n. I dellʼO del DFI del 21 ott. 2015, in vigore dal 15 nov. 2015 ([RU 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)).
+[^34d-6]: Nuovo testo giusta il n. I dellʼO del DFI del 1° feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
 
 #### Art. 34e
 
@@ -1957,7 +1963,7 @@ Allegato 1*[^t-2]*
 
 ## Rimunerazione da parte dellʼassicurazione obbligatoria delle cure medico-sanitarie di determinate prestazioni mediche
 
-[^t-2]: Non pubblicato nella RU ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Allegato 1 dell’ordinanza sulle prestazioni (OPre).
+[^t-2]: Non pubblicato nella RU ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Prestazioni mediche &gt; Allegato 1 dell’ordinanza sulle prestazioni (OPre)
 
 Allegato 1a*[^t-3]*
 
@@ -1973,7 +1979,7 @@ Allegato 2*[^t-4]*
 
 ## Elenco dei mezzi e degli apparecchi
 
-[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744);[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2, 6491 n. II cpv. 2; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp)
+[^t-4]: Non pubblicato nella RU ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744);[2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 2, 6491 n. II cpv. 2; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Lʼelenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp)
 
 Allegato 3*[^t-5]*
 
@@ -1981,7 +1987,7 @@ Allegato 3*[^t-5]*
 
 ## Elenco delle analisi
 
-[^t-5]: Non pubblicato nella RU (art. 28) ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
+[^t-5]: Non pubblicato nella RU (art. 28) ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491; [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA)
 
 Allegato 4*[^t-6]*
 
