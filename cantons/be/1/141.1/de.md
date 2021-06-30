@@ -4,13 +4,13 @@ number: "141.1"
 title: Gesetz über die politischen Rechte
 short: PRG
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-12-16
+version: 2021-07-01
+valid_until: 2021-11-30
+version_adopted: 2021-04-07
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2101/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2266/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2101/pdf_file"
 
 (PRG)
 
-vom 05.06.2012 (Stand 01.01.2021)
+vom 05.06.2012 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -674,7 +674,7 @@ beschliesst:
 
 - a der Grossratspräsidentin oder dem Grossratspräsidenten zuhanden des Regierungsrates bei Mitgliedern des Grossen Rates,
 - b der Regierungspräsidentin oder dem Regierungspräsidenten bei Mitgliedern des Regierungsrates und bei bernischen Mitgliedern des Ständerates,
-- c der Justiz-, Gemeinde- und Kirchendirektion bei Regierungsstatthalterinnen und Regierungsstatthaltern,
+- c der Direktion für Inneres und Justiz bei Regierungsstatthalterinnen und Regierungsstatthaltern,
 - d der Staatskanzlei bei Mitgliedern des Bernjurassischen Rates.
 
 ### 5.2 Verhältniswahlen (Proporzwahlen)

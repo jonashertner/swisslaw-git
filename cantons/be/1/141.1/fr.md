@@ -4,13 +4,13 @@ number: "141.1"
 title: Loi sur les droits politiques
 short: LDP
 language: fr
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-12-16
+version: 2021-07-01
+valid_until: 2021-11-30
+version_adopted: 2021-04-07
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2101/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2266/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2101/pdf_file"
 
 (LDP)
 
-du 05.06.2012 (état au 01.01.2021)
+du 05.06.2012 (état au 01.07.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -674,7 +674,7 @@ arrête:
 
 - a au président ou à la présidente du Grand Conseil à l’intention du Conseil-exécutif s’il ou elle est membre du Grand Conseil;
 - b au président ou à la présidente du gouvernement s’il ou elle est membre de celui-ci ou du Conseil des Etats;
-- c à la Direction de la justice, des affaires communales et des affaires ecclésiastiques s’il est préfet ou si elle est préfète;
+- c à la Direction de l’intérieur et de la justice s’il est préfet ou si elle est préfète;
 - d à la Chancellerie d’Etat s’il ou elle est membre du Conseil du Jura bernois.
 
 ### 5.2 Elections selon le mode proportionnel
