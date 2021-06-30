@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2021-03-01
+version: 2021-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 1° marzo 2021)
+del 5 ottobre 2007 (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -307,16 +307,16 @@ Sottostanno alla giurisdizione federale i seguenti reati previsti nel CP[^23-1]:
 [^23-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^23-2]: Nuovo testo giusta l’all. n. II 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^23-3]: Nuovo testo giusta l’all. n. II 1 della L del 18 mar. 2016 sulle multe disciplinari, in vigore dal 1° gen. 2018 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
-[^23-4]: Correzione del 20 dic. 2013 ([RU 2014 243](https://fedlex.data.admin.ch/eli/oc/2014/38)).
+[^23-4]: Correzione della Commissione di redazione dell’AF del 20 dic. 2013, pubblicata il 21 gen. 2014 ([RU 2014 243](https://fedlex.data.admin.ch/eli/oc/2014/38)).
 [^23-5]: Nuovo testo giusta il n. I 3 della LF del 18 giu. 2010 che modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)),
 
 #### Art. 24
 
-**Giurisdizione federale in caso di criminalità organizzata, finanziamento del terrorismo e criminalità economica**
+**Giurisdizione federale in caso di criminalità organizzata, atti terroristici e criminalità economica[^24-1]**
 
 <sup>1</sup>
 
-Sottostanno inoltre alla giurisdizione federale i reati di cui agli articoli 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP[^24-1], nonché i crimini commessi da un’organizzazione criminale ai sensi dell’articolo 260<sup>ter</sup> CP, a condizione che:
+Sottostanno inoltre alla giurisdizione federale i reati di cui agli articoli 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP[^24-2] nonché i crimini commessi da un’organizzazione criminale o terroristica ai sensi dell’articolo 260<sup>ter</sup> CP, a condizione che:[^24-3]
 
 - a. siano stati commessi prevalentemente all’estero;
 - b. siano stati commessi in più Cantoni e il centro dell’attività penalmente rilevante non possa essere localizzato in uno di essi.
@@ -330,7 +330,9 @@ In caso di crimini di cui ai titoli secondo e undecimo CP, il pubblico ministero
 
 <sup>3</sup> L’apertura di un’istruzione secondo il capoverso 2 determina la competenza giurisdizionale federale.
 
-[^24-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-1]: Nuovo testo giusta l’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^24-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-3]: Nuovo testo giusta l’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 #### Art. 25
 
@@ -531,7 +533,7 @@ Per motivi sostanziali, il pubblico ministero e il giudice possono disgiungere o
 
 Le autorità federali e cantonali sono tenute a prestarsi assistenza giudiziaria qualora reati previsti dal diritto federale siano perseguiti e giudicati in applicazione del presente Codice.
 
-[^44-1]: La correzione della CdR del 10 nov. 2014, pubblicata il 25 nov. 2014, concerne soltanto il testo francese ([RU 2014 4071](https://fedlex.data.admin.ch/eli/oc/2014/684)).
+[^44-1]: La correzione della Commissione di redazione dell’AF del 10 nov. 2014, pubblicata il 25 nov. 2014, concerne soltanto il testo francese ([RU 2014 4071](https://fedlex.data.admin.ch/eli/oc/2014/684)).
 
 #### Art. 45
 
@@ -2216,12 +2218,12 @@ Esse sono tenute a deporre se:
 
   - 1\. omicidi ai sensi degli articoli 111–113 CP[^172-1],
   - 2\. crimini per i quali è comminata una pena detentiva di almeno tre anni,
-  - 3\.[^172-2] reati secondo gli articoli 187, 189, 190, 191, 197 capoverso 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP,
+  - 3\.[^172-2] reati secondo gli articoli 187, 189, 190, 191, 197 capoverso 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP,
   - 4\.[^172-3] reati ai sensi dell’articolo 19 capoverso 2 della legge del 3 ottobre 1951[^172-4] sugli stupefacenti.
 
 [^172-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^172-2]: Nuovo testo giusta l’all. n. 2 del DF del 27 set. 2013 (Convenzione di Lanzarote), in vigore dal 1° lug. 2014 ([RU 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 6761](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
-[^172-3]: Correzione della CdR dell’AF del 19 set. 2011, pubblicata il 4 ott. 2011 ([RU 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^172-2]: Nuovo testo giusta l’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^172-3]: Correzione della Commissione di redazione dell’AF del 19 set. 2011, pubblicata il 4 ott. 2011 ([RU 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
 [^172-4]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 173
@@ -2246,7 +2248,7 @@ Chi è vincolato dal segreto professionale in virtù delle disposizioni qui appr
 [^173-3]: [RS 857.5](https://fedlex.data.admin.ch/eli/cc/1983/2003_2003_2003)
 [^173-4]: Nuovo testo giusta l’all. n. II 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^173-5]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
-[^173-6]: Correzione della CdR dell’AF del 19 set. 2011, pubblicata il 4 ott. 2011 ([RU 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^173-6]: Correzione della Commissione di redazione dell’AF del 19 set. 2011, pubblicata il 4 ott. 2011 ([RU 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
 [^173-7]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^173-8]: Introdotta dall’all. n. 2 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
 [^173-9]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
@@ -2891,7 +2893,7 @@ Il carcerato può impugnare dinanzi alla giurisdizione di reclamo le decisioni c
 
 <sup>2</sup> Su domanda, il giudice dei provvedimenti coercitivi consente all’imputato e al suo difensore di esaminare previamente gli atti in suo possesso.
 
-<sup>3</sup> Chi non compare presenta all’udienza per un motivo legittimo può presentare conclusioni per scritto oppure rinviare a precedenti memorie o istanze.
+<sup>3</sup> Chi non compare all’udienza per un motivo legittimo può presentare conclusioni per scritto oppure rinviare a precedenti memorie o istanze.
 
 <sup>4</sup> Il giudice dei provvedimenti coercitivi assume le prove immediatamente disponibili e atte a corroborare o infirmare gli indizi di reato o i motivi di carcerazione.
 
@@ -3499,7 +3501,7 @@ Il pubblico ministero può disporre la sorveglianza della corrispondenza postale
 
 La sorveglianza può essere disposta per perseguire i reati di cui alle disposizioni seguenti:
 
-- a.[^269-1] CP[^269-2]: articoli 111–113, 115, 118 capoverso 2, 122, 124, 127, 129, 135, 138–140, 143, 144 capoverso 3, 144<sup>bis</sup> numero 1 secondo comma e numero 2 secondo comma, 146–148, 156, 157 numero 2, 158 numero 1 terzo comma e numero 2, 160, 163 numero 1, 180–185<sup>bis</sup>, 187, 188 numero 1, 189–191, 192 capoverso 1, 195–197, 220, 221 capoversi 1 e 2, 223 numero 1, 224 capoverso 1, 226, 227 numero 1 primo comma, 228 numero 1 primo comma, 230<sup>bis</sup>, 231, 232 numero 1, 233 numero 1, 234 capoverso 1, 237 numero 1, 238 capoverso 1, 240 capoverso 1, 242, 244, 251 numero 1, 258, 259 capoverso 1, 260<sup>bis</sup>–260<sup>quinquies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 numero 2, 273, 274 numero 1 secondo comma, 285, 301, 303 numero 1, 305, 305<sup>bis</sup> numero 2, 310, 312, 314, 317 numero 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
+- a.[^269-1] CP[^269-2]: articoli 111–113, 115, 118 capoverso 2, 122, 124, 127, 129, 135, 138–140, 143, 144 capoverso 3, 144<sup>bis</sup> numero 1 secondo comma e numero 2 secondo comma, 146–148, 156, 157 numero 2, 158 numero 1 terzo comma e numero 2, 160, 163 numero 1, 180–185<sup>bis</sup>, 187, 188 numero 1, 189–191, 192 capoverso 1, 195–197, 220, 221 capoversi 1 e 2, 223 numero 1, 224 capoverso 1, 226, 227 numero 1 primo comma, 228 numero 1 primo comma, 230<sup>bis</sup>, 231, 232 numero 1, 233 numero 1, 234 capoverso 1, 237 numero 1, 238 capoverso 1, 240 capoverso 1, 242, 244, 251 numero 1, 258, 259 capoverso 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 numero 2, 273, 274 numero 1 secondo comma, 285, 301, 303 numero 1, 305, 305<sup>bis</sup> numero 2, 310, 312, 314, 317 numero 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
 - b.[^269-3] legge federale del 16 dicembre 2005[^269-4] sugli stranieri e la loro integrazione[^269-5]: articoli 116 capoverso 3 e 118 capoverso 3;
 - c. legge federale del 22 giugno 2001[^269-6] relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali: articolo 24;
 - d.[^269-7] legge federale del 13 dicembre 1996[^269-8] sul materiale bellico: articoli 33 capoverso 2 e 34–35*b*;
@@ -3511,11 +3513,12 @@ La sorveglianza può essere disposta per perseguire i reati di cui alle disposiz
 - j.[^269-16] legge del 19 giugno 2015[^269-17] sull’infrastruttura finanziaria: articoli 154 e 155;
 - k.[^269-18] legge del 20 giugno 1997[^269-19] sulle armi: articolo 33 capoverso 3;
 - l.[^269-20] legge del 15 dicembre 2000[^269-21] sugli agenti terapeutici: articolo 86 capoversi 2 e 3;
-- m.[^269-22] legge federale del 29 settembre 2017[^269-23] sui giochi in denaro: articolo 130 capoverso 2 per i reati di cui all’articolo 130 capoverso 1 lettera a.
+- m.[^269-22] legge federale del 29 settembre 2017[^269-23] sui giochi in denaro: articolo 130 capoverso 2 per i reati di cui all’articolo 130 capoverso 1 lettera a;
+- n.[^269-24] legge federale del 25 settembre 2015[^269-25] sulle attività informative: articolo 74 capoverso 4.
 
-<sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^269-24].
+<sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, la sorveglianza può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^269-26].
 
-[^269-1]: Nuovo testo giusta l’all. n. II 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-1]: Nuovo testo giusta l’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^269-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^269-3]: Nuovo testo giusta l’all. n. II 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^269-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -3524,7 +3527,7 @@ La sorveglianza può essere disposta per perseguire i reati di cui alle disposiz
 [^269-7]: Nuovo testo giusta il n. II della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^269-8]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^269-9]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^269-10]: Correzione della CdR dell’AF del 19 set. 2011, pubblicata il 4 ott. 2011 ([RU 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^269-10]: Correzione della Commissione di redazione dell’AF dell’AF del 19 set. 2011, pubblicata il 4 ott. 2011 ([RU 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
 [^269-11]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^269-12]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^269-13]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
@@ -3538,7 +3541,9 @@ La sorveglianza può essere disposta per perseguire i reati di cui alle disposiz
 [^269-21]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^269-22]: Introdotta dall’all. n. II 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^269-23]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-24]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-24]: Introdotta dall’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-25]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^269-26]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3581,7 +3586,7 @@ L’ordine di sorveglianza del pubblico ministero indica:
 
 [^269ter-1]: Introdotto dall’all. n. II 1 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
-#### Art. 269 <sup>quater</sup>
+#### Art. 269<sup>quater</sup>
 
 **Requisiti dei programmi informatici speciali di sorveglianza del traffico delle telecomunicazioni**[^269quater-1]
 
@@ -3792,7 +3797,7 @@ Nei luoghi accessibili al pubblico, il pubblico ministero e, nella procedura inv
 
 <sup>2</sup> Un’osservazione disposta dalla polizia non può protrarsi per più di un mese, salva l’approvazione del pubblico ministero.
 
-[^282-1]: Correzione del 20 feb. 2013 ([RU 2013 807](https://fedlex.data.admin.ch/eli/oc/2013/164)).
+[^282-1]: Correzione della Commissione di redazione dell’AF del 20 feb. 2013, pubblicata il 12 mar. 2013 ([RU 2013 807](https://fedlex.data.admin.ch/eli/oc/2013/164)).
 
 #### Art. 283
 
@@ -3867,7 +3872,7 @@ Il pubblico ministero può disporre un’inchiesta mascherata se:
 
 L’inchiesta mascherata può essere disposta per perseguire i reati di cui alle disposizioni seguenti:
 
-- a.[^286-1] CP[^286-2]: articoli 111–113, 122, 124, 129, 135, 138-140, 143 capoverso 1, 144 capoverso 3, 144<sup>bis</sup> numero 1 secondo comma e numero 2 secondo comma, 146 capoversi 1 e 2, 147 capoversi 1 e 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 numero 1, 189 capoversi 1 e 3, 190 capoversi 1 e 3, 191, 192 capoverso 1, 195, 196, 197 capoversi 3–5, 221 capoversi 1 e 2, 223 numero 1, 224 capoverso 1, 227 numero 1 primo comma, 228 numero 1 primo comma, 230<sup>bis</sup>, 231, 232 numero 1, 233 numero 1, 234 capoverso 1, 237 numero 1, 238 capoverso 1, 240 capoverso 1, 242, 244 capoverso 2, 251 numero 1, 260<sup>bis</sup>–260<sup>quinquies</sup>, 264–267, 271, 272 numero 2, 273, 274 numero 1 secondo comma, 301, 305<sup>bis</sup> numero 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
+- a.[^286-1] CP[^286-2]: articoli 111–113, 122, 124, 129, 135, 138–140, 143 capoverso 1, 144 capoverso 3, 144<sup>bis</sup> numero 1 secondo comma e numero 2 secondo comma, 146 capoversi 1 e 2, 147 capoversi 1 e 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 numero 1, 189 capoversi 1 e 3, 190 capoversi 1 e 3, 191, 192 capoverso 1, 195, 196, 197 capoversi 3–5, 221 capoversi 1 e 2, 223 numero 1, 224 capoverso 1, 227 numero 1 primo comma, 228 numero 1 primo comma, 230<sup>bis</sup>, 231, 232 numero 1, 233 numero 1, 234 capoverso 1, 237 numero 1, 238 capoverso 1, 240 capoverso 1, 242, 244 capoverso 2, 251 numero 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 numero 2, 273, 274 numero 1 secondo comma, 301, 305<sup>bis</sup> numero 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
 - b.[^286-3] legge federale del 16 dicembre 2005[^286-4] sugli stranieri e la loro integrazione: articoli 116 capoverso 3 e 118 capoverso 3;
 - c. legge federale del 22 giugno 2001[^286-5] relativa alla Convenzione dell’Aia sull’adozione e a provvedimenti per la protezione del minore nelle adozioni internazionali: articolo 24;
 - d.[^286-6] legge federale del 13 dicembre 1996[^286-7] sul materiale bellico: articoli 33 capoverso 2 e 34–35*b*;
@@ -3877,11 +3882,12 @@ L’inchiesta mascherata può essere disposta per perseguire i reati di cui alle
 - h.[^286-12] legge del 17 giugno 2011[^286-13] sulla promozione dello sport: articoli 22 capoverso 2 e 25*a* capoverso 3;
 - i.[^286-14] legge del 20 giugno 1997[^286-15] sulle armi: articolo 33 capoverso 3;
 - j.[^286-16] legge del 15 dicembre 2000[^286-17] sugli agenti terapeutici: articolo 86 capoversi 2 e 3;
-- k.[^286-18] legge federale del 29 settembre 2017[^286-19] sui giochi in denaro: articolo 130 capoverso 2 per i reati di cui all’articolo 130 capoverso 1 lettera a.
+- k.[^286-18] legge federale del 29 settembre 2017[^286-19] sui giochi in denaro: articolo 130 capoverso 2 per i reati di cui all’articolo 130 capoverso 1 lettera a;
+- l.[^286-20] legge federale del 25 settembre 2015[^286-21] sulle attività informative: articolo 74 capoverso 4.
 
-<sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, l’inchiesta mascherata può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^286-20].
+<sup>3</sup> Se il giudizio di un reato che sottostà alla giurisdizione militare è deferito alla giurisdizione ordinaria, l’inchiesta mascherata può inoltre essere disposta per perseguire i reati di cui all’articolo 70 capoverso 2 della procedura penale militare del 23 marzo 1979[^286-22].
 
-[^286-1]: Nuovo testo giusta l’all. 2 n. 2 del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione internazionale per la protezione di tutte le persone dalla sparizione forzata, in vigore dal 1° gen. 2017 ([RU 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [FF 2014 417](https://fedlex.data.admin.ch/eli/fga/2014/95)).
+[^286-1]: Nuovo testo giusta l’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^286-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^286-3]: Nuovo testo giusta l’all. n. II 7 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -3889,7 +3895,7 @@ L’inchiesta mascherata può essere disposta per perseguire i reati di cui alle
 [^286-6]: Nuovo testo giusta il n. II della LF del 16 mar. 2012, in vigore dal 1° feb 2013 ([RU 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5323](https://fedlex.data.admin.ch/eli/fga/2011/879)).
 [^286-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^286-8]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^286-9]: Correzione della CdR dell’AF del 19 set. 2011, pubblicata il 4 ott. 2011 ([RU 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^286-9]: Correzione della Commissione di redazione dell’AF del 19 set. 2011, pubblicata il 4 ott. 2011 ([RU 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
 [^286-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^286-11]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
 [^286-12]: Introdotto dall’art. 34 n. 2 della L del 17 giu. 2011 sulla promozione dello sport ([RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7113](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nuovo testo giusta l’all. n. II 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
@@ -3900,7 +3906,9 @@ L’inchiesta mascherata può essere disposta per perseguire i reati di cui alle
 [^286-17]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^286-18]: Introdotta dall’all. n. II 2 della LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^286-19]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-20]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-20]: Introdotta dall’all. n. II 3 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-21]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-22]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 

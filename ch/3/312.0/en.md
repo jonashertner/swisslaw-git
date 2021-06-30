@@ -4,11 +4,11 @@ title: "Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code
 short: CrimPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: en
-version: 2021-03-01
+version: 2021-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210301-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Criminal Procedure Code, CrimPC)
 
-of 5 October 2007 (Status as of 1 March 2021)
+of 5 October 2007 (Status as of 1 July 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -313,11 +313,11 @@ The following offences in the SCC[^23-1] are subject to federal jurisdiction:
 
 #### Art. 24
 
-**Federal jurisdiction in the case of organised crime, terrorist financing and white-collar crime**
+**Federal jurisdiction in the case of organised crime, terrorist offences and white-collar crime[^24-1]**
 
 <sup>1</sup>
 
-Federal jurisdiction further applies to the offences in Articles 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> and 322<sup>ter</sup>–322<sup>septies</sup> SCC[^24-1] as well as the felonies associated with a criminal organisation as defined in Article 260<sup>ter</sup> SCC, if the offences:
+Federal jurisdiction further applies to the offences in Articles 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> and 322<sup>ter</sup>–322<sup>septies</sup> SCC[^24-2] as well as the felonies associated with a criminal or terrorist organisation as defined in Article 260<sup>ter</sup> SCC, if the offences:[^24-3]
 
 - a. have to substantial extent been committed abroad;
 - b. have been committed in two or more cantons with no single canton being the clear focus of the criminal activity.
@@ -331,7 +331,9 @@ In the case of felonies under Titles Two and Eleven of the SCC, the Office of th
 
 <sup>3</sup> The opening of an investigation in accordance with paragraph 2 establishes federal jurisdiction.
 
-[^24-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-1]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^24-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-3]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 #### Art. 25
 
@@ -2221,11 +2223,11 @@ They must testify if:
 
   - 1\. homicide offences in terms of Articles 111–113 SCC[^172-1],
   - 2\. felonies carrying a custodial sentence of at least 3 years,
-  - 3\.[^172-2] offences in terms of Articles 187, 189, 190, 191, 197 paragraph 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> and 322<sup>ter</sup>–322<sup>septies</sup> SCC,
+  - 3\.[^172-2] offences in terms of Articles 187, 189, 190, 191, 197 paragraph 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> and 322<sup>ter</sup>–322<sup>septies</sup> SCC,
   - 4\.[^172-3] offences in terms of Article 19 number 2 of the Narcotics Act of 3 October 1951[^172-4].
 
 [^172-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^172-2]: Amended by Annex No 2 of the Federal Decree of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^172-2]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^172-3]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
 [^172-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
@@ -3504,46 +3506,48 @@ The public prosecutor may arrange for post and telecommunications to be monitore
 
 Surveillance may be ordered in the investigation of the offences under the following Articles:
 
-- a.[^269-1] SCC[^269-2]: Articles 111–113, 115, 118 paragraph 2, 122, 124, 127, 129, 135, 138–140, 143, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146–148, 156, 157 number 2, 158 number 1 paragraph 3 and number 2, 160, 163 number 1, 180, 181, 182–185, 187, 188 number 1, 189–191, 192 paragraph 1, 195–197, 220, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 238 paragraph 1, 240 paragraph 1, 242, 244, 251 number 1, 258, 259 paragraph 1, 260<sup>bis</sup>–260<sup>quinquies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 285, 301, 303 number 1, 305, 305<sup>bis</sup> number 2, 310, 312, 314, 317 number 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
-- b.[^269-3] Foreign Nationals and Integration Act[^269-4] of 16 December 2005[^269-5]: Articles 116 paragraph 3 and 118 paragraph 3;
-- c. Federal Act of 22 June 2001[^269-6] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
-- d.[^269-7] War Material Act of 13 December 1996[^269-8]: Articles 33 paragraph 2 and 34–35*b*;
-- e. Nuclear Energy Act of 21 March 2003[^269-9]: Articles 88 paragraphs 1 and 2, 89 paragraphs 1 and 2 and 90 paragraph 1;
-- f.[^269-10] Narcotics Act of 3 October 1951[^269-11]: Articles 19 number 1 second sentence and number 2, and 20 number 1 second sentence;
-- g. Environmental Protection Act of 7 October 1983[^269-12]: Article 60 paragraph 1 letters g–i as well as m and o;
-- h. Goods Control Act of 13 December 1996[^269-13]: Article 14 paragraph 2;
-- i.[^269-14] Sport Promotion Act of 17 June 2011[^269-15]: Article 22 paragraphs 2 and 25*a* paragraph 3;
-- j.[^269-16] Financial Market Infrastructure Act of 19 June 2015[^269-17]: Articles 154 and 155;
-- k.[^269-18] Weapons Act of 20 June 1997[^269-19]: Article 33 paragraph 3;
-- l.[^269-20] Medicinal Products Act of 15 December 2000[^269-21]: Article 86 paragraphs 2 and 3;
-- m.[^269-22] Gambling Act of 29 September 2017[^269-23]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a.
+- a.[^269-1] SCC: Articles 111–113, 115, 118 paragraph 2, 122, 124, 127, 129, 135, 138–140, 143, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146–148, 156, 157 number 2, 158 number 1 paragraph 3 and number 2, 160, 163 number 1, 180, 181, 182–185, 187, 188 number 1, 189–191, 192 paragraph 1, 195–197, 220, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 226, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 238 paragraph 1, 240 paragraph 1, 242, 244, 251 number 1, 258, 259 paragraph 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 285, 301, 303 number 1, 305, 305<sup>bis</sup> number 2, 310, 312, 314, 317 number 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
+- b.[^269-2] Foreign Nationals and Integration Act[^269-3] of 16 December 2005[^269-4]: Articles 116 paragraph 3 and 118 paragraph 3;
+- c. Federal Act of 22 June 2001[^269-5] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
+- d.[^269-6] War Material Act of 13 December 1996[^269-7]: Articles 33 paragraph 2 and 34–35*b*;
+- e. Nuclear Energy Act of 21 March 2003[^269-8]: Articles 88 paragraphs 1 and 2, 89 paragraphs 1 and 2 and 90 paragraph 1;
+- f.[^269-9] Narcotics Act of 3 October 1951[^269-10]: Articles 19 number 1 second sentence and number 2, and 20 number 1 second sentence;
+- g. Environmental Protection Act of 7 October 1983[^269-11]: Article 60 paragraph 1 letters g–i as well as m and o;
+- h. Goods Control Act of 13 December 1996[^269-12]: Article 14 paragraph 2;
+- i.[^269-13] Sport Promotion Act of 17 June 2011[^269-14]: Article 22 paragraphs 2 and 25*a* paragraph 3;
+- j.[^269-15] Financial Market Infrastructure Act of 19 June 2015[^269-16]: Articles 154 and 155;
+- k.[^269-17] Weapons Act of 20 June 1997[^269-18]: Article 33 paragraph 3;
+- l.[^269-19] Medicinal Products Act of 15 December 2000[^269-20]: Article 86 paragraphs 2 and 3;
+- m.[^269-21] Gambling Act of 29 September 2017[^269-22]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a;
+- n.[^269-23] Intelligence Service Act of 25 September 2015[^269-24]: Article 74 paragraph 4.
 
-<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, the surveillance of post and telecommunications may also be ordered in the investigation of the offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^269-24].
+<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, the surveillance of post and telecommunications may also be ordered in the investigation of the offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^269-25].
 
-[^269-1]: Amended by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^269-3]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-4]: Title amended on 1 Jan. 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). This change has been made throughout the text.
-[^269-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^269-6]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^269-7]: Amended by No II of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-8]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-9]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^269-10]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^269-11]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-12]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-13]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-14]: Inserted by Art. 34 No 2 of the Sport Promotion Act of 17 June 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Amended by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-15]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-16]: Inserted by No II 4 of the FA of 28 Sept. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Amended by Annex No 4 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-17]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-18]: Inserted by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-20]: Inserted by Annex No 1 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-21]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-22]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-23]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-24]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-1]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-2]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^269-3]: Title amended on 1 Jan. 2019 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). This change has been made throughout the text.
+[^269-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^269-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-6]: Amended by No II of the FA of 16 March 2012, in force since 1 Feb. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^269-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^269-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-9]: Correction by the Federal Assembly Drafting Committee dated 19 Sept. 2014, published on 4 Oct. 2014 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^269-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^269-11]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^269-12]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^269-13]: Inserted by Art. 34 No 2 of the Sport Promotion Act of 17 June 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Amended by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-14]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^269-15]: Inserted by No II 4 of the FA of 28 Sept. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Amended by Annex No 4 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-16]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^269-17]: Inserted by Annex No II 1 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-18]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^269-19]: Inserted by Annex No 1 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-20]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^269-21]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^269-23]: Inserted by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-24]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^269-25]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3870,7 +3874,7 @@ The public prosecutor may order an undercover investigation if:
 
 An undercover investigation is permitted in respect of offences under the following Articles:
 
-- a.[^286-1] SCC[^286-2]: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 238 paragraph 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>quinquies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> and 322<sup>septies</sup>;
+- a.[^286-1] SCC[^286-2]: Articles 111–113, 122, 124, 129, 135, 138–140, 143 paragraph 1, 144 paragraph 3, 144<sup>bis</sup> number 1 paragraph 2 and number 2 paragraph 2, 146 paragraphs 1 and 2, 147 paragraphs 1 and 2, 148, 156, 160, 182–185, 187, 188 number 1, 189 paragraphs 1 and 3, 190 paragraphs 1 and 3, 191, 192 paragraph 1, 195, 196, 197 paragraphs 3–5, 221 paragraphs 1 and 2, 223 number 1, 224 paragraph 1, 227 number 1 paragraph 1, 228 number 1 paragraph 1, 230<sup>bis</sup>, 231 number 1, 232 number 1, 233 number 1, 234 paragraph 1, 237 number 1, 238 paragraph 1, 240 paragraph 1, 242, 244 paragraph 2, 251 number 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 number 2, 273, 274 number 1 paragraph 2, 301, 305<sup>bis</sup> number 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
 - b.[^286-3] Foreign Nationals and Integration Act of 16. December 2005[^286-4]: Articles 116 paragraph 3 and 118 paragraph 3;
 - c. Federal Act of 22. June 2001[^286-5] on the Hague Convention on Adoption and on Measures to Protect Children in International Adoption Cases: Article 24;
 - d.[^286-6] War Material Act of 13 December 1996[^286-7]: Articles 33 paragraph 2 and 34–35*b*;
@@ -3880,11 +3884,12 @@ An undercover investigation is permitted in respect of offences under the follow
 - h.[^286-12] Sport Promotion Act of 17 June 2011[^286-13]: Articles 22 paragraph 2 and 25*a* paragraph 3;
 - i.[^286-14] Weapons Act of 20 June 1997[^286-15]: Article 33 paragraph 3;
 - j.[^286-16] Medicinal Products Act of 15 December 2000[^286-17]: Article 86 paragraphs 2 and 3;
-- k.[^286-18] Gambling Act of 29 September 2017[^286-19]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a.
+- k.[^286-18] Gambling Act of 29 September 2017[^286-19]: Article 130 paragraph 2 for the offences under Article 130 paragraph 1 letter a;
+- l.[^286-20] Intelligence Service Act of 25 September 2015[^286-21]: Article 74 paragraph 4.
 
-<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, an undercover investigation may also be ordered in respect of offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^286-20].
+<sup>3</sup> If the adjudication an offence subject to military jurisdiction is assigned to the jurisdiction of the civil courts, an undercover investigation may also be ordered in respect of offences under Article 70 paragraph 2 of the Military Criminal Procedure Code of 23 March 1979[^286-22].
 
-[^286-1]: Amended by Annex 2 No 2 of the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance, in force since 1 Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
+[^286-1]: Amended by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^286-3]: Amended by Annex No II 7 of the Criminal Justice Authorities Act of 19 March 2010, in force since 1 Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 [^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -3903,7 +3908,9 @@ An undercover investigation is permitted in respect of offences under the follow
 [^286-17]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^286-18]: Inserted by Annex No II 2 of the Gambling Act of 29 Sept. 2017, in force since 1 Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^286-19]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-20]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-20]: Inserted by Annex No II 3 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-21]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-22]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 

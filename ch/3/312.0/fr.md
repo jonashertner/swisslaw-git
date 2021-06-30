@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2021-03-01
+version: 2021-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (Etat le 1<sup>er</sup> mars 2021)
+du 5 octobre 2007 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -312,11 +312,11 @@ Les infractions suivantes au CP[^23-1] sont soumises à la juridiction fédéral
 
 #### Art. 24
 
-**Juridiction fédérale en matière de crime organisé, de financement du terrorisme et de criminalité économique**
+**Juridiction fédérale en matière de crime organisé, d’actes terroristes et de criminalité économique[^24-1]**
 
 <sup>1</sup>
 
-Les infractions visées aux art. 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> et 322<sup>ter</sup> à 322<sup>septies</sup> CP[^24-1] ainsi que les crimes qui sont le fait d’une organisation criminelle au sens de l’art. 260<sup>ter</sup> CP sont également soumis à la juridiction fédérale lorsque les actes punissables ont été commis:
+Les infractions visées aux art. 260ter, 260quinquies, 260sexies, 305bis, 305ter et 322ter à 322septies CP[^24-2] ainsi que les crimes qui sont le fait d’une organisation criminelle ou terroriste au sens de l’art. 260ter CP sont également soumis à la juridiction fédérale lorsque les actes punissables ont été commis:[^24-3]
 
 - a. pour une part prépondérante à l’étranger;
 - b. dans plusieurs cantons sans qu’il y ait de prédominance évidente dans l’un d’entre eux.
@@ -330,7 +330,9 @@ Lorsqu’il s’agit de crimes visés aux titres 2 et 11 CP, le ministère publi
 
 <sup>3</sup> L’ouverture d’une instruction au sens de l’al. 2 fonde la compétence fédérale.
 
-[^24-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^24-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-3]: Nouvelle teneur selon l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 #### Art. 25
 
@@ -2216,11 +2218,11 @@ Ils doivent témoigner:
 
   - 1\. un homicide au sens des art. 111 à 113 CP[^172-1],
   - 2\. un crime passible d’une peine privative de liberté d’au moins trois ans,
-  - 3\.[^172-2] une infraction visée aux art. 187, 189, 190, 191, 197, al. 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> et 322<sup>ter</sup> à 322<sup>septies</sup> CP,
+  - 3\.[^172-2] une infraction visée aux art. 187, 189, 190, 191, 197, al. 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> et 322<sup>ter</sup> à 322<sup>septies</sup> CP,
   - 4\.[^172-3] une infraction au sens de l’art. 19, al. 2, de la loi du 3 octobre 1951 sur les stupéfiants[^172-4].
 
 [^172-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^172-2]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 27 sept. 2013 (Conv. de Lanzarote), en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 7051](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^172-2]: Nouvelle teneur selon l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^172-3]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
 [^172-4]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
@@ -3500,45 +3502,47 @@ Le ministère public peut ordonner la surveillance de la correspondance par post
 
 Une surveillance peut être ordonnée aux fins de poursuivre les infractions visées par les dispositions suivantes:
 
-- a.[^269-1] CP[^269-2]: art. 111 à 113, 115, 118, al. 2, 122, 124, 127, 129, 135, 138 à 140, 143, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146 à 148, 156, 157, ch. 2, 158, ch. 1, par. 3, et ch. 2, 160, 163, ch. 1, 180 à 185<sup>bis</sup>, 187, 188, ch. 1, 189 à 191, 192, al. 1, 195 à 197, 220, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 238, al. 1, 240, al. 1, 242, 244, 251, ch. 1, 258, 259, al. 1, 260<sup>bis</sup> à 260<sup>quinquies</sup>, 261<sup>bis</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 285, 301, 303, ch. 1, 305, 305<sup>bis</sup>, ch. 2, 310, 312, 314, 317, ch. 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
-- b.[^269-3] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^269-4]: art. 116, al. 3, et 118, al. 3;
-- c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^269-5]: art. 24;
-- d.[^269-6] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^269-7]: art. 33, al. 2, et 34 à 35*b*;
-- e. loi du 21 mars 2003 sur l’énergie nucléaire[^269-8]: art. 88, al. 1 et 2, 89, al. 1 et 2, et 90, al. 1;
-- f.[^269-9] loi du 3 octobre 1951 sur les stupéfiants[^269-10]: art. 19, al. 2, et 20, al. 2;
-- g. loi du 7 octobre 1983 sur la protection de l’environnement[^269-11]: art. 60, al. 1, let. g à i, m et o;
-- h. loi fédérale du 13 décembre 1996 sur le contrôle des biens[^269-12]: art. 14, al. 2;
-- i.[^269-13] loi du 17 juin 2011 sur l’encouragement du sport[^269-14]: art. 22, al. 2, et 25*a*, al. 3;
-- j.[^269-15] loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^269-16]: art. 154 et 155;
-- k.[^269-17] loi du 20 juin 1997 sur les armes[^269-18]: art. 33, al. 3;
-- l.[^269-19] loi du 15 décembre 2000 sur les produits thérapeutiques[^269-20]: art. 86, al. 2 et 3;
-- m.[^269-21] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^269-22]: art. 130, al. 2, pour les infractions visées à l’art 130, al. 1, let. a.
+- a.[^269-1] CP: art. 111 à 113, 115, 118, al. 2, 122, 124, 127, 129, 135, 138 à 140, 143, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146 à 148, 156, 157, ch. 2, 158, ch. 1, par. 3, et ch. 2, 160, 163, ch. 1, 180 à 185<sup>bis</sup>, 187, 188, ch. 1, 189 à 191, 192, al. 1, 195 à 197, 220, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 226, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 238, al. 1, 240, al. 1, 242, 244, 251, ch. 1, 258, 259, al. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 261<sup>bis</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 285, 301, 303, ch. 1, 305, 305<sup>bis</sup>, ch. 2, 310, 312, 314, 317, ch. 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
+- b.[^269-2] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^269-3]: art. 116, al. 3, et 118, al. 3;
+- c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^269-4]: art. 24;
+- d.[^269-5] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^269-6]: art. 33, al. 2, et 34 à 35*b*;
+- e. loi du 21 mars 2003 sur l’énergie nucléaire[^269-7]: art. 88, al. 1 et 2, 89, al. 1 et 2, et 90, al. 1;
+- f.[^269-8] loi du 3 octobre 1951 sur les stupéfiants[^269-9]: art. 19, al. 2, et 20, al. 2;
+- g. loi du 7 octobre 1983 sur la protection de l’environnement[^269-10]: art. 60, al. 1, let. g à i, m et o;
+- h. loi fédérale du 13 décembre 1996 sur le contrôle des biens[^269-11]: art. 14, al. 2;
+- i.[^269-12] loi du 17 juin 2011 sur l’encouragement du sport[^269-13]: art. 22, al. 2, et 25*a*, al. 3;
+- j.[^269-14] loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^269-15]: art. 154 et 155;
+- k.[^269-16] loi du 20 juin 1997 sur les armes[^269-17]: art. 33, al. 3;
+- l.[^269-18] loi du 15 décembre 2000 sur les produits thérapeutiques[^269-19]: art. 86, al. 2 et 3;
+- m.[^269-20] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^269-21]: art. 130, al. 2, pour les infractions visées à l’art. 130, al. 1, let. a;
+- n.[^269-22] loi fédérale du 25 septembre 2015 sur le renseignement[^269-23]: art. 74, al. 4.
 
-<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^269-23].
+<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, la surveillance de la correspondance par poste et télécommunication peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^269-24].
 
-[^269-1]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^269-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
-[^269-5]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^269-6]: Nouvelle teneur selon le ch. II de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-8]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^269-9]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^269-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-11]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-12]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-13]: Introduite par l’art. 34 ch. 2 de la LF du 17 juin 2011 sur l’encouragement du sport ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-14]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-15]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Introduit par le ch. II 4 de la LF du 28 sept. 2012 ([RO 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250);[FF 2011 6329](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Nouvelle teneur selon l’annexe ch. 4 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-16]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-17]: Introduite par l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-18]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-19]: Introduite par l’annexe ch. 1 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-20]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-21]: Introduite par l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-22]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-23]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^269-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^269-4]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-5]: Nouvelle teneur selon le ch. II de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^269-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^269-7]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-8]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^269-9]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^269-10]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^269-11]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^269-12]: Introduite par l’art. 34 ch. 2 de la LF du 17 juin 2011 sur l’encouragement du sport ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-13]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^269-14]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)). Introduit par le ch. II 4 de la LF du 28 sept. 2012 ([RO 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250);[FF 2011 6329](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Nouvelle teneur selon l’annexe ch. 4 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-15]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^269-16]: Introduite par l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-17]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^269-18]: Introduite par l’annexe ch. 1 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-19]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^269-20]: Introduite par l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-21]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^269-22]: Introduite par l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-23]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^269-24]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3865,40 +3869,42 @@ Le ministère public peut ordonner une investigation secrète aux conditions sui
 
 L’investigation secrète peut être ordonnée aux fins de poursuivre les infractions visées par les dispositions suivantes:
 
-- a.[^286-1] CP[^286-2]: art. 111 à 113, 122, 124, 129, 135, 138 à 140, 143, al. 1, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146, al. 1 et 2, 147, al. 1 et 2, 148, 156, 160, 182 à 185<sup>bis</sup>, 187, 188, ch. 1, 189, al. 1 et 3, 190, al. 1 et 3, 191, 192, al. 1, 195, 196, 197, al. 3 à 5, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 238, al. 1, 240, al. 1, 242, 244, al. 2, 251, ch. 1, 260<sup>bis</sup> à 260<sup>quinquies</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 301, 305<sup>bis</sup>, ch. 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
-- b.[^286-3] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^286-4]: art. 116, al. 3, et 118, al. 3;
-- c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^286-5]: art. 24;
-- d.[^286-6] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^286-7]: art. 33, al. 2, et 34 à 35*b*;
-- e. loi du 21 mars 2003 sur l’énergie nucléaire[^286-8]: art. 88, al. 1 et 2, 89, al. 1 et 2, et 90, al. 1;
-- f.[^286-9] loi du 3 octobre 1951 sur les stupéfiants[^286-10]: art. 19, al. 2, et 20, al. 2;
-- g. loi du 13 décembre 1996 sur le contrôle des biens[^286-11]: art. 14, al. 2;
-- h.[^286-12] loi du 17 juin 2011 sur l’encouragement du sport[^286-13]: art. 22, al. 2, et 25*a*, al. 3;
-- i.[^286-14] loi du 20 juin 1997 sur les armes[^286-15]: art. 33, al. 3;
-- j.[^286-16] loi du 15 décembre 2000 sur les produits thérapeutiques[^286-17]: art. 86, al. 2 et 3;
-- k.[^286-18] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^286-19]: art. 130, al. 2, pour les infractions visées à l’art. 130, al. 1, let. a.
+- a.[^286-1] CP: art. 111 à 113, 122, 124, 129, 135, 138 à 140, 143, al. 1, 144, al. 3, 144<sup>bis</sup>, ch. 1, par. 2, et ch. 2, par. 2, 146, al. 1 et 2, 147, al. 1 et 2, 148, 156, 160, 182 à 185<sup>bis</sup>, 187, 188, ch. 1, 189, al. 1 et 3, 190, al. 1 et 3, 191, 192, al. 1, 195, 196, 197, al. 3 à 5, 221, al. 1 et 2, 223, ch. 1, 224, al. 1, 227, ch. 1, par. 1, 228, ch. 1, par. 1, 230<sup>bis</sup>, 231, 232, ch. 1, 233, ch. 1, 234, al. 1, 237, ch. 1, 238, al. 1, 240, al. 1, 242, 244, al. 2, 251, ch. 1, 260<sup>bis</sup> à 260<sup>sexies</sup>, 264 à 267, 271, 272, ch. 2, 273, 274, ch. 1, par. 2, 301, 305<sup>bis</sup>, ch. 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> et 322<sup>septies</sup>;
+- b.[^286-2] loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^286-3]: art. 116, al. 3, et 118, al. 3;
+- c. loi fédérale du 22 juin 2001 relative à la Convention de La Haye sur l’adoption et aux mesures de protection de l’enfant en cas d’adoption internationale[^286-4]: art. 24;
+- d.[^286-5] loi fédérale du 13 décembre 1996 sur le matériel de guerre[^286-6]: art. 33, al. 2, et 34 à 35*b*;
+- e. loi du 21 mars 2003 sur l’énergie nucléaire[^286-7]: art. 88, al. 1 et 2, 89, al. 1 et 2, et 90, al. 1;
+- f.[^286-8] loi du 3 octobre 1951 sur les stupéfiants[^286-9]: art. 19, al. 2, et 20, al. 2;
+- g. loi du 13 décembre 1996 sur le contrôle des biens[^286-10]: art. 14, al. 2;
+- h.[^286-11] loi du 17 juin 2011 sur l’encouragement du sport[^286-12]: art. 22, al. 2, et 25*a*, al. 3;
+- i.[^286-13] loi du 20 juin 1997 sur les armes[^286-14]: art. 33, al. 3;
+- j.[^286-15] loi du 15 décembre 2000 sur les produits thérapeutiques[^286-16]: art. 86, al. 2 et 3;
+- k.[^286-17] loi fédérale du 29 septembre 2017 sur les jeux d’argent[^286-18]: art. 130, al. 2, pour les infractions visées à l’art. 130, al. 1, let. a;
+- l.[^286-19] loi fédérale du 25 septembre 2015 sur le renseignement[^286-20]: art. 74, al. 4.
 
-<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, l’investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^286-20].
+<sup>3</sup> Lorsque le jugement d’une infraction relevant d’une juridiction militaire est délégué à une juridiction civile, l’investigation secrète peut également être ordonnée aux fins de poursuivre les infractions énumérées à l’art. 70, al. 2, de la procédure pénale militaire du 23 mars 1979[^286-21].
 
-[^286-1]: Nouvelle teneur selon le ch. 2 de l’annexe 2 à l’AF du 18 déc. 2015 portant approbation et mise en œuvre de la Conv. internationale pour la protection de toutes les personnes contre les disparitions forcées, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [FF 2014 437](https://fedlex.data.admin.ch/eli/fga/2014/95)).
-[^286-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^286-3]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-5]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^286-6]: Nouvelle teneur selon le ch. II de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-7]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-8]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^286-9]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^286-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-11]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^286-12]: Introduite par l’art. 34 ch. 2 de la LF du 17 juin 2011 sur l’encouragement du sport ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-13]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^286-14]: Introduite par l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-15]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^286-16]: Introduite par l’annexe ch. 1 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-17]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^286-18]: Introduite par l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-19]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-20]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-2]: Nouvelle teneur selon l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^286-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^286-4]: [RS 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-5]: Nouvelle teneur selon le ch. II de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [FF 2011 5495](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^286-6]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^286-7]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-8]: Erratum de la CdR de l’Ass. féd. du 19 sept. 2011, publié le 4 oct. 2011 ([RO 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^286-9]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^286-10]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-11]: Introduite par l’art. 34 ch. 2 de la LF du 17 juin 2011 sur l’encouragement du sport ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-12]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-13]: Introduite par l’annexe ch. II 1 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^286-14]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-15]: Introduite par l’annexe ch. 1 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^286-16]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-17]: Introduite par l’annexe ch. II 2 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-18]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-19]: Introduite par l’annexe ch.II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-20]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-21]: [RS 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 

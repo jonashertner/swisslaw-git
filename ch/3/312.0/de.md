@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2021-03-01
+version: 2021-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. März 2021)
+vom 5. Oktober 2007 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -311,11 +311,11 @@ Der Bundesgerichtsbarkeit unterstehen folgende Straftaten des StGB[^23-1]:
 
 #### Art. 24
 
-**Bundesgerichtsbarkeit bei organisiertem Verbrechen, Finanzierung des Terrorismus und Wirtschaftskriminalität**
+**Bundesgerichtsbarkeit bei organisiertem Verbrechen, terroristischen Straftaten und Wirtschaftskriminalität[^24-1]**
 
 <sup>1</sup>
 
-Der Bundesgerichtsbarkeit unterstehen zudem die Straftaten nach den Artikeln 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>ter</sup>–322<sup>septies</sup> StGB[^24-1] sowie die Verbrechen, die von einer kriminellen Organisation im Sinne von Artikel 260<sup>ter</sup> StGB ausgehen, wenn die Straftaten:
+Der Bundesgerichtsbarkeit unterstehen zudem die Straftaten nach den Artikeln 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>ter</sup>–322<sup>septies</sup> StGB[^24-2] sowie die Verbrechen, die von einer kriminellen oder terroristischen Organisation im Sinne von Artikel 260<sup>ter</sup> StGB ausgehen, wenn die Straftaten:[^24-3]
 
 - a. zu einem wesentlichen Teil im Ausland begangen worden sind;
 - b. in mehreren Kantonen begangen worden sind und dabei kein eindeutiger Schwerpunkt in einem Kanton besteht.
@@ -329,7 +329,9 @@ Bei Verbrechen des zweiten und des elften Titels des StGB kann die Staatsanwalts
 
 <sup>3</sup> Die Eröffnung einer Untersuchung nach Absatz 2 begründet Bundesgerichtsbarkeit.
 
-[^24-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-1]: Fassung gemäss Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^24-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-3]: Fassung gemäss Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 #### Art. 25
 
@@ -2219,11 +2221,11 @@ Sie haben auszusagen, wenn:
 
   - 1\. Tötungsdelikte im Sinne der Artikel 111–113 StGB[^172-1],
   - 2\. Verbrechen, die mit einer Freiheitsstrafe von mindestens 3 Jahren bedroht sind,
-  - 3\.[^172-2] Straftaten nach den Artikeln 187, 189, 190, 191, 197 Absatz 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>ter</sup>–322<sup>septies</sup> StGB,
+  - 3\.[^172-2] Straftaten nach den Artikeln 187, 189, 190, 191, 197 Absatz 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>ter</sup>–322<sup>septies</sup> StGB,
   - 4\.[^172-3] Straftaten nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^172-4].
 
 [^172-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^172-2]: Fassung gemäss Anhang Ziff. 2 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^172-2]: Fassung gemäss Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^172-3]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
 [^172-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
@@ -3502,46 +3504,48 @@ Die Staatsanwaltschaft kann den Post- und den Fernmeldeverkehr überwachen lasse
 
 Eine Überwachung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten angeordnet werden:
 
-- a.[^269-1] StGB[^269-2]: Artikel 111–113, 115, 118 Absatz 2, 122, 124, 127, 129, 135, 138–140, 143, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146–148, 156, 157 Ziffer 2, 158 Ziffer 1 Absatz 3 und Ziffer 2, 160, 163 Ziffer 1, 180–185<sup>bis</sup>, 187, 188 Ziffer 1, 189–191, 192 Absatz 1, 195–197, 220, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 238 Absatz 1, 240 Absatz 1, 242, 244, 251 Ziffer 1, 258, 259 Absatz 1, 260<sup>bis</sup>–260<sup>quinquies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 285, 301, 303 Ziffer 1, 305, 305<sup>bis</sup> Ziffer 2, 310, 312, 314, 317 Ziffer 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
-- b.[^269-3] Ausländer- und Integrationsgesetz[^269-4] vom 16. Dezember 2005[^269-5]: Artikel 116 Absatz 3 und 118 Absatz 3;
-- c. Bundesgesetz vom 22. Juni 2001[^269-6] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
-- d.[^269-7] Kriegsmaterialgesetz vom 13. Dezember 1996[^269-8]: Artikel 33 Absatz 2 und 34–35*b*;
-- e. Kernenergiegesetz vom 21. März 2003[^269-9]: Artikel 88 Absätze 1 und 2, 89 Absätze 1 und 2 und 90 Absatz 1;
-- f.[^269-10] Betäubungsmittelgesetz vom 3. Oktober 1951[^269-11]: Artikel 19 Absatz 2 sowie 20 Absatz 2;
-- g. Umweltschutzgesetz vom 7. Oktober 1983[^269-12]: Artikel 60 Absatz 1 Buchstaben g–i sowie m und o;
-- h. Güterkontrollgesetz vom 13. Dezember 1996[^269-13]: Artikel 14 Absatz 2;
-- i.[^269-14] Sportförderungsgesetz vom 17. Juni 2011[^269-15]: Artikel 22 Absatz 2 und 25*a* Absatz 3;
-- j.[^269-16] Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^269-17]: Artikel 154 und 155;
-- k.[^269-18] Waffengesetz vom 20. Juni 1997[^269-19]: Artikel 33 Absatz 3;
-- l.[^269-20] Heilmittelgesetz vom 15. Dezember 2000[^269-21]: Artikel 86 Absätze 2 und 3;
-- m.[^269-22] Geldspielgesetz vom 29. September 2017[^269-23]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a.
+- a.[^269-1] StGB: Artikel 111–113, 115, 118 Absatz 2, 122, 124, 127, 129, 135, 138–140, 143, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146–148, 156, 157 Ziffer 2, 158 Ziffer 1 Absatz 3 und Ziffer 2, 160, 163 Ziffer 1, 180–185<sup>bis</sup>, 187, 188 Ziffer 1, 189–191, 192 Absatz 1, 195–197, 220, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 226, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 238 Absatz 1, 240 Absatz 1, 242, 244, 251 Ziffer 1, 258, 259 Absatz 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 285, 301, 303 Ziffer 1, 305, 305<sup>bis</sup> Ziffer 2, 310, 312, 314, 317 Ziffer 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
+- b.[^269-2] Ausländer- und Integrationsgesetz[^269-3] vom 16. Dezember 2005[^269-4]: Artikel 116 Absatz 3 und 118 Absatz 3;
+- c. Bundesgesetz vom 22. Juni 2001[^269-5] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
+- d.[^269-6] Kriegsmaterialgesetz vom 13. Dezember 1996[^269-7]: Artikel 33 Absatz 2 und 34–35*b*;
+- e. Kernenergiegesetz vom 21. März 2003[^269-8]: Artikel 88 Absätze 1 und 2, 89 Absätze 1 und 2 und 90 Absatz 1;
+- f.[^269-9] Betäubungsmittelgesetz vom 3. Oktober 1951[^269-10]: Artikel 19 Absatz 2 sowie 20 Absatz 2;
+- g. Umweltschutzgesetz vom 7. Oktober 1983[^269-11]: Artikel 60 Absatz 1 Buchstaben g–i sowie m und o;
+- h. Güterkontrollgesetz vom 13. Dezember 1996[^269-12]: Artikel 14 Absatz 2;
+- i.[^269-13] Sportförderungsgesetz vom 17. Juni 2011[^269-14]: Artikel 22 Absatz 2 und 25*a* Absatz 3;
+- j.[^269-15] Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^269-16]: Artikel 154 und 155;
+- k.[^269-17] Waffengesetz vom 20. Juni 1997[^269-18]: Artikel 33 Absatz 3;
+- l.[^269-19] Heilmittelgesetz vom 15. Dezember 2000[^269-20]: Artikel 86 Absätze 2 und 3;
+- m.[^269-21] Geldspielgesetz vom 29. September 2017[^269-22]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a;
+- n.[^269-23] Nachrichtendienstgesetz vom 25. September 2015[^269-24]: Artikel 74 Absatz 4.
 
-<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^269-24] aufgeführten Straftaten.
+<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden Straftat der zivilen Gerichtsbarkeit übertragen, so kann die Überwachung des Post- und Fernmeldeverkehrs auch angeordnet werden zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^269-25] aufgeführten Straftaten.
 
-[^269-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^269-3]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-4]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^269-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^269-6]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^269-7]: Fassung gemäss Ziff. II des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-8]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-9]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^269-10]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^269-11]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-12]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-13]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-14]: Eingefügt durch Art. 34 Ziff. 2 des Sportförderungsgesetzes vom 17. Juni 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Fassung gemäss Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-15]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-16]: Eingefügt durch Ziff. II 4 des BG vom 28. Sept. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Fassung gemäss Anhang Ziff. 4 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-17]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-18]: Eingefügt durch Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-20]: Eingefügt durch Anhang Ziff. 1 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-21]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-22]: Eingefügt durch Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-23]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-24]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-1]: Fassung gemäss Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-2]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^269-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^269-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^269-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-6]: Fassung gemäss Ziff. II des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^269-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^269-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-9]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^269-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^269-11]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^269-12]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^269-13]: Eingefügt durch Art. 34 Ziff. 2 des Sportförderungsgesetzes vom 17. Juni 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Fassung gemäss Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-14]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^269-15]: Eingefügt durch Ziff. II 4 des BG vom 28. Sept. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Fassung gemäss Anhang Ziff. 4 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-16]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^269-17]: Eingefügt durch Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-18]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^269-19]: Eingefügt durch Anhang Ziff. 1 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-20]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^269-21]: Eingefügt durch Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^269-23]: Eingefügt durch Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-24]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^269-25]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3868,40 +3872,42 @@ Die Staatsanwaltschaft kann eine verdeckte Ermittlung anordnen, wenn:
 
 Die verdeckte Ermittlung kann zur Verfolgung der in den folgenden Artikeln aufgeführten Straftaten eingesetzt werden:
 
-- a.[^286-1] StGB[^286-2]: Artikel 111–113, 122, 124, 129, 135, 138–140, 143 Absatz 1, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146 Absätze 1 und 2, 147 Absätze 1 und 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 Ziffer 1, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 192 Absatz 1, 195, 196, 197 Absätze 3–5, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 238 Absatz 1, 240 Absatz 1, 242, 244 Absatz 2, 251 Ziffer 1, 260<sup>bis</sup>–260<sup>quinquies</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 301, 305<sup>bis</sup> Ziffer 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> und 322<sup>septies</sup>;
-- b.[^286-3] Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^286-4]: Artikel 116 Absatz 3 und 118 Absatz 3;
-- c. Bundesgesetz vom 22. Juni 2001[^286-5] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
-- d.[^286-6] Kriegsmaterialgesetz vom 13. Dezember 1996[^286-7]: Artikel 33 Absatz 2 und 34–35*b*;
-- e. Kernenergiegesetz vom 21. März 2003[^286-8]: Artikel 88 Absätze 1 und 2, 89 Absätze 1 und 2 und 90 Absatz 1;
-- f.[^286-9] Betäubungsmittelgesetz vom 3. Oktober 1951[^286-10]: Artikel 19 Absatz 2 sowie 20 Absatz 2;
-- g. Güterkontrollgesetz vom 13. Dezember 1996[^286-11]: Artikel 14 Absatz 2;
-- h.[^286-12] Sportförderungsgesetz vom 17. Juni 2011[^286-13]: Artikel 22 Absatz 2 und 25*a* Absatz 3;
-- i.[^286-14] Waffengesetz vom 20. Juni 1997[^286-15]: Artikel 33 Absatz 3;
-- j.[^286-16] Heilmittelgesetz vom 15. Dezember 2000[^286-17]: Artikel 86 Absätze 2 und 3;
-- k.[^286-18] Geldspielgesetz vom 29. September 2017[^286-19]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a.
+- a.[^286-1] StGB: Artikel 111–113, 122, 124, 129, 135, 138–140, 143 Absatz 1, 144 Absatz 3, 144<sup>bis</sup> Ziffer 1 Absatz 2 und Ziffer 2 Absatz 2, 146 Absätze 1 und 2, 147 Absätze 1 und 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 Ziffer 1, 189 Absätze 1 und 3, 190 Absätze 1 und 3, 191, 192 Absatz 1, 195, 196, 197 Absätze 3–5, 221 Absätze 1 und 2, 223 Ziffer 1, 224 Absatz 1, 227 Ziffer 1 Absatz 1, 228 Ziffer 1 Absatz 1, 230<sup>bis</sup>, 231, 232 Ziffer 1, 233 Ziffer 1, 234 Absatz 1, 237 Ziffer 1, 238 Absatz 1, 240 Absatz 1, 242, 244 Absatz 2, 251 Ziffer 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 Ziffer 2, 273, 274 Ziffer 1 Absatz 2, 301, 305<sup>bis</sup> Ziffer 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup>, 322<sup>septies</sup>;
+- b.[^286-2] Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^286-3]: Artikel 116 Absatz 3 und 118 Absatz 3;
+- c. Bundesgesetz vom 22. Juni 2001[^286-4] zum Haager Adoptionsübereinkommen und über Massnahmen zum Schutz des Kindes bei internationalen Adoptionen: Artikel 24;
+- d.[^286-5] Kriegsmaterialgesetz vom 13. Dezember 1996[^286-6]: Artikel 33 Absatz 2 und 34–35*b*;
+- e. Kernenergiegesetz vom 21. März 2003[^286-7]: Artikel 88 Absätze 1 und 2, 89 Absätze 1 und 2 und 90 Absatz 1;
+- f.[^286-8] Betäubungsmittelgesetz vom 3. Oktober 1951[^286-9]: Artikel 19 Absatz 2 sowie 20 Absatz 2;
+- g. Güterkontrollgesetz vom 13. Dezember 1996[^286-10]: Artikel 14 Absatz 2;
+- h.[^286-11] Sportförderungsgesetz vom 17. Juni 2011[^286-12]: Artikel 22 Absatz 2 und 25*a* Absatz 3;
+- i.[^286-13] Waffengesetz vom 20. Juni 1997[^286-14]: Artikel 33 Absatz 3;
+- j.[^286-15] Heilmittelgesetz vom 15. Dezember 2000[^286-16]: Artikel 86 Absätze 2 und 3;
+- k.[^286-17] Geldspielgesetz vom 29. September 2017[^286-18]: Artikel 130 Absatz 2 für die Straftaten nach Artikel 130 Absatz 1 Buchstabe a;
+- l.[^286-19] Nachrichtendienstgesetz vom 25. September 2015[^286-20]: Artikel 74 Absatz 4.
 
-<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden strafbaren Handlung der zivilen Gerichtsbarkeit übertragen, so kann die verdeckte Ermittlung auch zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^286-20] aufgeführten Straftaten angeordnet werden.
+<sup>3</sup> Wird die Beurteilung einer der militärischen Gerichtsbarkeit unterstehenden strafbaren Handlung der zivilen Gerichtsbarkeit übertragen, so kann die verdeckte Ermittlung auch zur Verfolgung der in Artikel 70 Absatz 2 des Militärstrafprozesses vom 23. März 1979[^286-21] aufgeführten Straftaten angeordnet werden.
 
-[^286-1]: Fassung gemäss Anhang 2 Ziff. 2 des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Internationalen Übereinkommens zum Schutz aller Personen vor dem Verschwindenlassen, in Kraft seit 1. Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
-[^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^286-3]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^286-6]: Fassung gemäss Ziff. II des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^286-9]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^286-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-11]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^286-12]: Eingefügt durch Art. 34 Ziff. 2 des Sportförderungsgesetzes vom 17. Juni 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Fassung gemäss Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-13]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^286-14]: Eingefügt durch Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-15]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^286-16]: Eingefügt durch Anhang Ziff. 1 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-17]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^286-18]: Eingefügt durch Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-19]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-20]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-1]: Fassung gemäss Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-2]: Fassung gemäss Anhang Ziff. II 7 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^286-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^286-4]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-5]: Fassung gemäss Ziff. II des BG vom 16. März 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^286-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^286-7]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-8]: Berichtigung der RedK der BVers vom 19. Sept. 2011, veröffentlicht am 4. Okt. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^286-9]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^286-10]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-11]: Eingefügt durch Art. 34 Ziff. 2 des Sportförderungsgesetzes vom 17. Juni 2011 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Fassung gemäss Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-12]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-13]: Eingefügt durch Anhang Ziff. II 1 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^286-14]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-15]: Eingefügt durch Anhang Ziff. 1 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^286-16]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-17]: Eingefügt durch Anhang Ziff. II 2 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-18]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-19]: Eingefügt durch Anhang Ziff. II 3 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-20]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-21]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 

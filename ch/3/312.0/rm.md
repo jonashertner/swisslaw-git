@@ -4,11 +4,11 @@ title: "Cudesch da procedura penala svizzer dals 5 d'october 2007 (Cudesch da pr
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: rm
-version: 2021-03-01
+version: 2021-07-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210301/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210301-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210701-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Cudesch da procedura penala, CPP)
 
-dals 5 d’october 2007 (versiun dal 1. da mars 2021)
+dals 5 d’october 2007 (versiun dal 1. da fanadur 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -313,11 +313,11 @@ A la giurisdicziun federala èn suttamess ils suandants malfatgs dal CP[^23-1]:
 
 #### Art. 24
 
-**Giurisdicziun federala en cas da criminalitad organisada, da finanziaziun dal terrorissem e da criminalitad economica**
+**Giurisdicziun federala en cas da criminalitad organisada, da malfatgs terroristics e da criminalitad economica[^24-1]**
 
 <sup>1</sup>
 
-A la giurisdicziun federala suttastattan ultra da quai ils malfatgs tenor ils artitgels 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP[^24-1] sco er ils crims che vegnan commess d’ina organisaziun criminala en il senn da l’artitgel 260<sup>ter</sup> CP, sch’ils malfatgs:
+A la giurisdicziun federala suttastattan ultra da quai ils malfatgs tenor ils artitgels 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP[^24-2] sco er ils crims che vegnan commess d’ina organisaziun criminala u terroristica en il senn da l’artitgel 260<sup>ter</sup> CP, sch’ils malfatgs:[^24-3]
 
 - a. èn vegnids commess per gronda part a l’exteriur;
 - b. èn vegnids commess en plirs chantuns, senza ch’i saja avant maun ina clera predominanza en in dals chantuns pertutgads.
@@ -331,7 +331,9 @@ En cas da crims dal segund e da l’indeschavel titel dal CP po la Procura publi
 
 <sup>3</sup> L’avertura d’ina inquisiziun tenor l’alinea 2 stabilescha la giurisdicziun federala.
 
-[^24-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-1]: Versiun tenor la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^24-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-3]: Versiun tenor la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 #### Art. 25
 
@@ -1226,7 +1228,7 @@ Resalvads restan:
 - c. las prescripziuns da la Lescha federala dals 7 d’october 1994[^96-3] davart ils posts centrals da polizia criminala da la Confederaziun.[^96-4]
 
 [^96-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^96-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^96-2]: SR **36****1**
 [^96-3]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 [^96-4]: Versiun tenor la cifra I 1 lit. a da l’agiunta 2 da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun da polizia da la Confederaziun, en vigur dapi il 1. da schan. 2011 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
@@ -2221,11 +2223,11 @@ Els ston far ina deposiziun, sche:
 
   - 1\. delicts da mazzament en il senn dals artitgels 111–113 CP[^172-1],
   - 2\. crims ch’èn chastiabels cun in chasti da detenziun da dapli che 3 onns,
-  - 3\.[^172-2] malfatgs tenor ils artitgels 187, 189, 190, 191, 197 alinea 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP,
+  - 3\.[^172-2] malfatgs tenor ils artitgels 187, 189, 190, 191, 197 alinea 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> CP,
   - 4\.[^172-3] malfatgs tenor l’artitgel 19 alinea 2 da la Lescha da narcotics dals 3 d’october 1951[^172-4].
 
 [^172-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^172-2]: Versiun tenor la cifra 2 da l’agiunta dal COF dals 27 da sett. 2013 (Convenziun da Lanzarote), en vigur dapi il 1. da fan. 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^172-2]: Versiun tenor la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^172-3]: Rectificaziun da la CdR da l’AF dals 19 da sett. 2011, publitgà ils 4 d’oct. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
 [^172-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
@@ -3504,46 +3506,48 @@ La procura publica po laschar survegliar il traffic da posta e da telecommunicaz
 
 Ina surveglianza dastga vegnir ordinada per persequitar ils malfatgs ch’èn enumerads en ils suandants artitgels:
 
-- a.[^269-1] CP[^269-2]: artitgels 111–113, 115, 118 alinea 2, 122, 124, 127, 129, 135, 138–140, 143, 144 alinea 3, 144<sup>bis</sup> cifra 1 alinea 2 e cifra 2 alinea 2, 146–148, 156, 157 cifra 2, 158 cifra 1 alinea 3 e cifra 2, 160, 163 cifra 1, 180 –185<sup>bis</sup>, 187, 188 cifra 1, 189–191, 192 alinea 1, 195–197, 220, 221 alineas 1 e 2, 223 cifra 1, 224 alinea 1, 226, 227 cifra 1 alinea 1, 228 cifra 1 alinea 1, 230<sup>bis</sup>, 231, 232 cifra 1, 233 cifra 1, 234 alinea 1, 237 cifra 1, 238 alinea 1, 240 alinea 1, 242, 244, 251 cifra 1, 258, 259 alinea 1, 260<sup>bis</sup>–260<sup>quinquies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 cifra 2, 273, 274 cifra 1 alinea 2, 285, 301, 303 cifra 1, 305, 305<sup>bis</sup> cifra 2, 310, 312, 314, 317 cifra 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
-- b.[^269-3] Lescha federala dals 16 da december 2005[^269-4] davart las persunas estras e l’integraziun[^269-5]: artitgels 116 alinea 3 e 118 alinea 3;
-- c. Lescha federala dals 22 da zercladur 2001[^269-6] tar la Convenziun da Den Haag davart las adopziuns e davart las mesiras per proteger l’uffant en adopziuns internaziunalas: artitgel 24;
-- d.[^269-7] Lescha federala dals 13 da december 1996[^269-8] davart il material da guerra: artitgels 33 alinea 2 e 34–35*b*;
-- e. Lescha federala dals 21 da mars 2003[^269-9] davart l’energia nucleara: artitgels 88 alineas 1 e 2, 89 alineas 1 e 2 e 90 alinea 1;
-- f.[^269-10] Lescha da narcotics dals 3 d’october 1951[^269-11]: artitgels 19 alinea 2 e 20 alinea 2;
-- g. Lescha federala dals 7 d’october 1983[^269-12] davart la protecziun da l’ambient: artitgel 60 alinea 1 literas g–i sco er m ed o;
-- h. Lescha dals 13 da december 1996[^269-13] davart la controlla da bains: artitgel 14 alinea 2;
-- i.[^269-14] Lescha dals 17 da zercladur 2011[^269-15] per promover il sport: artitgels 22 alinea 2 e 25*a* alinea 3;
-- j.[^269-16] Lescha da las infrastructuras da finanzas dals 19 da zercladur 2015[^269-17]: artitgels 154 e 155;
-- k.[^269-18] Lescha d’armas dals 20 da zercladur 1997[^269-19]: artitgel 33 alinea 3;
-- l.[^269-20] Lescha dals 15 da december 2000[^269-21] davart ils products terapeutics: artitgel 86 alineas 2 e 3;
-- m.[^269-22] Lescha da gieus per daners dals 29 da settember 2017[^269-23]: artitgel 130 alinea 2 per ils malfatgs tenor l’artitgel 130 alinea 1 litera a.
+- a.[^269-1] CP: artitgels 111–113, 115, 118 alinea 2, 122, 124, 127, 129, 135, 138–140, 143, 144 alinea 3, 144<sup>bis</sup> cifra 1 alinea 2 e cifra 2 alinea 2, 146–148, 156, 157 cifra 2, 158 cifra 1 alinea 3 e cifra 2, 160, 163 cifra 1, 180–185<sup>bis</sup>, 187, 188 cifra 1, 189–191, 192 alinea 1, 195–197, 220, 221 alineas 1 e 2, 223 cifra 1, 224 alinea 1, 226, 227 cifra 1 alinea 1, 228 cifra 1 alinea 1, 230<sup>bis</sup>, 231, 232 cifra 1, 233 cifra 1, 234 alinea 1, 237 cifra 1, 238 alinea 1, 240 alinea 1, 242, 244, 251 cifra 1, 258, 259 alinea 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 261<sup>bis</sup>, 264–267, 271, 272 cifra 2, 273, 274 cifra 1 alinea 2, 285, 301, 303 cifra 1, 305, 305<sup>bis</sup> cifra 2, 310, 312, 314, 317 cifra 1, 319, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
+- b.[^269-2] Lescha federala dals 16 da december 2005[^269-3] davart las persunas estras e l’integraziun[^269-4]: artitgels 116 alinea 3 e 118 alinea 3;
+- c. Lescha federala dals 22 da zercladur 2001[^269-5] tar la Convenziun da Den Haag davart las adopziuns e davart las mesiras per proteger l’uffant en adopziuns internaziunalas: artitgel 24;
+- d.[^269-6] Lescha federala dals 13 da december 1996[^269-7] davart il material da guerra: artitgels 33 alinea 2 e 34–35*b*;
+- e. Lescha federala dals 21 da mars 2003[^269-8] davart l’energia nucleara: artitgels 88 alineas 1 e 2, 89 alineas 1 e 2 e 90 alinea 1;
+- f.[^269-9] Lescha da narcotics dals 3 d’october 1951[^269-10]: artitgels 19 alinea 2 e 20 alinea 2;
+- g. Lescha federala dals 7 d’october 1983[^269-11] davart la protecziun da l’ambient: artitgel 60 alinea 1 literas g–i sco er m ed o;
+- h. Lescha dals 13 da december 1996[^269-12] davart la controlla da bains: artitgel 14 alinea 2;
+- i.[^269-13] Lescha dals 17 da zercladur 2011[^269-14] per promover il sport: artitgels 22 alinea 2 e 25*a* alinea 3;
+- j.[^269-15] Lescha da las infrastructuras da finanzas dals 19 da zercladur 2015[^269-16]: artitgels 154 e 155;
+- k.[^269-17] Lescha d’armas dals 20 da zercladur 1997[^269-18]: artitgel 33 alinea 3;
+- l.[^269-19] Lescha dals 15 da december 2000[^269-20] davart ils products terapeutics: artitgel 86 alineas 2 e 3;
+- m.[^269-21] Lescha da gieus per daners dals 29 da settember 2017[^269-22]: artitgel 130 alinea 2 per ils malfatgs tenor l’artitgel 130 alinea 1 litera a;
+- n.[^269-23] Lescha federala dals 25 da settember 2015[^269-24] davart il servetsch d’infurmaziun: artitgel 74 alinea 4.
 
-<sup>3</sup> Sch’il giudicament d’in malfatg ch’è suttamess a la giurisdicziun militara vegn surdà a la giurisdicziun civila, po la surveglianza dal traffic da posta e da telecommunicaziun er vegnir ordinada per persequitar ils malfatgs che vegnan enumerads en l’artitgel 70 alinea 2 da la Procedura penala militara dals 23 da mars 1979[^269-24].
+<sup>3</sup> Sch’il giudicament d’in malfatg ch’è suttamess a la giurisdicziun militara vegn surdà a la giurisdicziun civila, po la surveglianza dal traffic da posta e da telecommunicaziun er vegnir ordinada per persequitar ils malfatgs che vegnan enumerads en l’artitgel 70 alinea 2 da la Procedura penala militara dals 23 da mars 1979[^269-25].
 
-[^269-1]: Versiun tenor la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^269-3]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^269-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^269-5]: Il titel è vegnì adattà per il 1. da schan. 2019 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Questa adattaziun è vegnida fatga en tut il text.
-[^269-6]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^269-7]: Versiun tenor la cifra II da la LF dals 16 da mars 2012, en vigur dapi il 1. da favr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^269-8]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^269-9]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^269-10]: Rectificaziun da la CdR da l’AF dals 19 da sett. 2011, publitgà ils 4 d’oct. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^269-11]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^269-12]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^269-13]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^269-14]: Integrà tras l’art. 34 cifra 2 da la LF dals 17 da zer. 2011 per promover il sport ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Versiun tenor la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-15]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^269-16]: Integrà tras la cifra II 4 da la LF dals 28 da sett. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 da las infrastructuras da finanzas, en vigur dapi il 1. da schan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^269-17]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^269-18]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^269-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^269-20]: Integrà tras la cifra 1 da l’agiunta dal COF dals 29 da sett. 2017 (Convenziun Medicrime), en vigur dapi il 1. da schan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^269-21]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^269-22]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^269-23]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^269-24]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^269-1]: Versiun tenor la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-2]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^269-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^269-4]: Il titel è vegnì adattà per il 1. da schan. 2019 applitgond l’art. 12 al. 2 da la LF dals 18 da zer. 2004 davart las publicaziuns uffizialas ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Questa adattaziun è vegnida fatga en tut il text.
+[^269-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^269-6]: Versiun tenor la cifra II da la LF dals 16 da mars 2012, en vigur dapi il 1. da favr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^269-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^269-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^269-9]: Rectificaziun da la CdR da l’AF dals 19 da sett. 2011, publitgà ils 4 d’oct. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^269-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^269-11]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^269-12]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^269-13]: Integrà tras l’art. 34 cifra 2 da la LF dals 17 da zer. 2011 per promover il sport ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Versiun tenor la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-14]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^269-15]: Integrà tras la cifra II 4 da la LF dals 28 da sett. 2012 ([AS 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [BBl 2011 6873](https://fedlex.data.admin.ch/eli/fga/2011/1111)). Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 da las infrastructuras da finanzas, en vigur dapi il 1. da schan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^269-16]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^269-17]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^269-18]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^269-19]: Integrà tras la cifra 1 da l’agiunta dal COF dals 29 da sett. 2017 (Convenziun Medicrime), en vigur dapi il 1. da schan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^269-20]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^269-21]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^269-22]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^269-23]: Integrà tras la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^269-24]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^269-25]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 269<sup>bis</sup>
 
@@ -3870,40 +3874,42 @@ La procura publica po ordinar ina investigaziun secreta, sche:
 
 L’investigaziun secreta po vegnir applitgada per persequitar ils malfatgs ch’èn enumerads en ils suandants artitgels:
 
-- a.[^286-1] CP[^286-2]: artitgels 111–113, 122, 124, 129, 135, 138–140, 143 alinea 1, 144 alinea 3, 144<sup>bis</sup> cifra 1 alinea 2 e cifra 2 alinea 2, 146 alineas 1 e 2, 147 alineas 1 e 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 cifra 1, 189 alineas 1 e 3, 190 alineas 1 e 3, 191, 192 alinea 1, 195, 196, 197 alineas 3–5, 221 alineas 1 e 2, 223 cifra 1, 224 alinea 1, 227 cifra 1 alinea 1, 228 cifra 1 alinea 1, 230<sup>bis</sup>, 231, 232 cifra 1, 233 cifra 1, 234 alinea 1, 237 cifra 1, 238 alinea 1, 240 alinea 1, 242, 244 alinea 2, 251 cifra 1, 260<sup>bis</sup>–260<sup>quinquies</sup>, 264–267, 271, 272 cifra 2, 273, 274 cifra 1 alinea 2, 301, 305<sup>bis</sup> cifra 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
-- b.[^286-3] Lescha federala dals 16 da december 2005[^286-4] davart las persunas estras e l’integraziun: artitgels 116 alinea 3 e 118 alinea 3;
-- c. Lescha federala dals 22 da zercladur 2001[^286-5] tar la Convenziun da Den Haag davart las adopziuns e davart las mesiras per proteger l’uffant en adopziuns internaziunalas: artitgel 24
-- d.[^286-6] Lescha federala dals 13 da december 1996[^286-7] davart il material da guerra: artitgels 33 alinea 2 e 34–35*b*;
-- e. Lescha federala dals 21 da mars 2003[^286-8] davart l’energia nucleara: artitgels 88 alineas 1 e 2, 89 alineas 1 e 2 e 90 alinea 1;
-- f.[^286-9] Lescha da narcotics dals 3 d’october 1951[^286-10]: artitgels 19 alinea 2 e 20 alinea 2;
-- g. Lescha dals 13 da december 1996[^286-11] davart la controlla da bains: artitgel 14 alinea 2;
-- h.[^286-12] Lescha dals 17 da zercladur 2011[^286-13] per promover il sport: artitgels 22 alinea 2 e 25*a* alinea 3;
-- i.[^286-14] Lescha d’armas dals 20 da zercladur 1997[^286-15]: artitgel 33 alinea 3;
-- j.[^286-16] Lescha dals 15 da december 2000[^286-17] davart ils products terapeutics: artitgel 86 alineas 2 e 3;
-- k.[^286-18] Lescha da gieus per daners dals 29 da settember 2017[^286-19]: artitgel 130 alinea 2 per ils malfatgs tenor l’artitgel 130 alinea 1 litera a.
+- a.[^286-1] CP: artitgels 111–113, 122, 124, 129, 135, 138–140, 143 alinea 1, 144 alinea 3, 144<sup>bis</sup> cifra 1 alinea 2 e cifra 2 alinea 2, 146 alineas 1 e 2, 147 alineas 1 e 2, 148, 156, 160, 182–185<sup>bis</sup>, 187, 188 cifra 1, 189 alineas 1 e 3, 190 alineas 1 e 3, 191, 192 alinea 1, 195, 196, 197 alineas 3–5, 221 alineas 1 e 2, 223 cifra 1, 224 alinea 1, 227 cifra 1 alinea 1, 228 cifra 1 alinea 1, 230bis, 231, 232 cifra 1, 233 cifra 1, 234 alinea 1, 237 cifra 1, 238 alinea 1, 240 alinea 1, 242, 244 alinea 2, 251 cifra 1, 260<sup>bis</sup>–260<sup>sexies</sup>, 264–267, 271, 272 cifra 2, 273, 274 cifra 1 alinea 2, 301, 305<sup>bis</sup> cifra 2, 310, 322<sup>ter</sup>, 322<sup>quater</sup> e 322<sup>septies</sup>;
+- b.[^286-2] Lescha federala dals 16 da december 2005[^286-3] davart las persunas estras e l’integraziun: artitgels 116 alinea 3 e 118 alinea 3;
+- c. Lescha federala dals 22 da zercladur 2001[^286-4] tar la Convenziun da Den Haag davart las adopziuns e davart las mesiras per proteger l’uffant en adopziuns internaziunalas: artitgel 24
+- d.[^286-5] Lescha federala dals 13 da december 1996[^286-6] davart il material da guerra: artitgels 33 alinea 2 e 34–35*b*;
+- e. Lescha federala dals 21 da mars 2003[^286-7] davart l’energia nucleara: artitgels 88 alineas 1 e 2, 89 alineas 1 e 2 e 90 alinea 1;
+- f.[^286-8] Lescha da narcotics dals 3 d’october 1951[^286-9]: artitgels 19 alinea 2 e 20 alinea 2;
+- g. Lescha dals 13 da december 1996[^286-10] davart la controlla da bains: artitgel 14 alinea 2;
+- h.[^286-11] Lescha dals 17 da zercladur 2011[^286-12] per promover il sport: artitgels 22 alinea 2 e 25*a* alinea 3;
+- i.[^286-13] Lescha d’armas dals 20 da zercladur 1997[^286-14]: artitgel 33 alinea 3;
+- j.[^286-15] Lescha dals 15 da december 2000[^286-16] davart ils products terapeutics: artitgel 86 alineas 2 e 3;
+- k.[^286-17] Lescha da gieus per daners dals 29 da settember 2017[^286-18]: artitgel 130 alinea 2 per ils malfatgs tenor l’artitgel 130 alinea 1 litera a;
+- l.[^286-19] Lescha federala dals 25 da settember 2015[^286-20] davart il servetsch d’infurmaziun: artitgel 74 alinea 4.
 
-<sup>3</sup> Sch’il giudicament d’in malfatg ch’è suttamess a la giurisdicziun militara vegn surdà a la giurisdicziun civila, po l’investigaziun secreta er vegnir ordinada per persequitar ils malfatgs che vegnan enumerads en l’artitgel 70 alinea 2 da la Procedura penala militara dals 23 da mars 1979[^286-20].
+<sup>3</sup> Sch’il giudicament d’in malfatg ch’è suttamess a la giurisdicziun militara vegn surdà a la giurisdicziun civila, po l’investigaziun secreta er vegnir ordinada per persequitar ils malfatgs che vegnan enumerads en l’artitgel 70 alinea 2 da la Procedura penala militara dals 23 da mars 1979[^286-21].
 
-[^286-1]: Versiun tenor l’agiunta 2 cifra 2 dal COF dals 18 da dec. 2015 davart l’approvaziun e la realisaziun da la Convenziun internaziunala per la protecziun da tut las persunas cunter spariziuns sfurzadas, en vigur dapi il 1. da schan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
-[^286-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^286-3]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
-[^286-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^286-5]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
-[^286-6]: Versiun tenor la cifra II da la LF dals 16 da mars 2012, en vigur dapi il 1. da favr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
-[^286-7]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^286-8]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^286-9]: Rectificaziun da la CdR da l’AF dals 19 da sett. 2011, publitgà ils 4 d’oct. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
-[^286-10]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^286-11]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^286-12]: Integrà tras l’art. 34 cifra 2 da la LF dals 17 da zer. 2011 per promover il sport ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Versiun tenor la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-13]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^286-14]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^286-15]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^286-16]: Integrà tras la cifra 1 da l’agiunta dal COF dals 29 da sett. 2017 (Convenziun Medicrime), en vigur dapi il 1. da schan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^286-17]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^286-18]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^286-19]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^286-20]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
+[^286-1]: Versiun tenor la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-2]: Versiun tenor la cifra II 7 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^286-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^286-4]: [SR 211.221.31](https://fedlex.data.admin.ch/eli/cc/2002/639)
+[^286-5]: Versiun tenor la cifra II da la LF dals 16 da mars 2012, en vigur dapi il 1. da favr. 2013 ([AS 2013 295](https://fedlex.data.admin.ch/eli/oc/2013/48); [BBl 2011 5905](https://fedlex.data.admin.ch/eli/fga/2011/879)).
+[^286-6]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^286-7]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^286-8]: Rectificaziun da la CdR da l’AF dals 19 da sett. 2011, publitgà ils 4 d’oct. 2011 ([AS 2011 4487](https://fedlex.data.admin.ch/eli/oc/2011/619)).
+[^286-9]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^286-10]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^286-11]: Integrà tras l’art. 34 cifra 2 da la LF dals 17 da zer. 2011 per promover il sport ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)). Versiun tenor la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-12]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^286-13]: Integrà tras la cifra II 1 da l’agiunta da la LF dals 18 da mars 2016 davart la surveglianza da la posta e da la telecommunicaziun, en vigur dapi il 1. da mars 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^286-14]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^286-15]: Integrà tras la cifra 1 da l’agiunta dal COF dals 29 da sett. 2017 (Convenziun Medicrime), en vigur dapi il 1. da schan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
+[^286-16]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^286-17]: Integrà tras la cifra II 2 da l’agiunta da la LF dals 29 da sett. 2017 davart gieus per daners, en vigur dapi il 1. da schan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^286-18]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^286-19]: Integrà tras la cifra II 3 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^286-20]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^286-21]: [SR 322.1](https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059)
 
 #### Art. 287
 
