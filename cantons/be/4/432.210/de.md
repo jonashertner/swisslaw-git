@@ -4,13 +4,13 @@ number: "432.210"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2020-07-01
-valid_until: 2021-06-30
-version_adopted: 2019-12-09
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-07
 adopted: 1992-03-19
 in_force: 1993-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.210"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1889/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1889/pdf_file"
 
 (VSG)
 
-vom 19.03.1992 (Stand 01.07.2020)
+vom 19.03.1992 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -710,7 +710,7 @@ beschliesst:
 
 <sup>4</sup> Schul- und Schulsportanlagen sind in angemessener Weise auch für ausserschulische Zwecke zur Verfügung zu stellen.
 
-<sup>5</sup> Die Schulgebäude sind rauchfrei.
+<sup>5</sup> …
 
 #### Art. 48a
 

@@ -4,13 +4,13 @@ number: "432.210"
 title: "Loi sur l'école obligatoire"
 short: LEO
 language: fr
-version: 2020-07-01
-valid_until: 2021-06-30
-version_adopted: 2019-12-09
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-07
 adopted: 1992-03-19
 in_force: 1993-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.210"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1889/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2289/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1889/pdf_file"
 
 (LEO)
 
-du 19.03.1992 (état au 01.07.2020)
+du 19.03.1992 (état au 01.07.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -714,7 +714,7 @@ arrête:
 
 <sup>4</sup> Les installations scolaires et les équipements sportifs scolaires doivent pouvoir être utilisés aussi à des fins non scolaires pour autant que l'utilisation qui en est faite soit appropriée.
 
-<sup>5</sup> Il est interdit de fumer dans les bâtiments scolaires.
+<sup>5</sup> …
 
 #### Art. 48a
 
