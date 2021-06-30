@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2001 sur les installations électriques à bass
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: fr
-version: 2019-06-01
+version: 2021-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20190601/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20190601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20190601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20190601/fr"
 
 (Ordonnance sur les installations à basse tension, OIBT)
 
-du 7 novembre 2001 (Etat le 1<sup>er</sup> juin 2019)
+du 7 novembre 2001 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -328,16 +328,23 @@ Le titulaire de l’autorisation fait en sorte que:
 
 L’autorisation pour l’exécution de travaux sur des installations nécessitant des connaissances spéciales, notamment sur les dispositifs d’alarme, les monte-charges, les bandes transporteuses, les enseignes lumineuses, les installations photovoltaïques, les installations d’accumulateurs fixes, les systèmes d’alimentation en électricité sans coupure et les bateaux, est accordée à une entreprise si les membres du personnel chargés d’exécuter les travaux:
 
-- a. remplissent les conditions requises pour l’octroi d’une autorisation d’effectuer des travaux sur des installations propres à l’entreprise (art. 13, al. 1) et peuvent justifier d’une activité pratique de trois ans sur de telles installations, sous la surveillance d’une personne du métier ou d’une personne ayant réussi l’examen correspondant de l’Inspection, ou
-- b. ont réussi un examen organisé par l’Inspection et peuvent justifier d’une activité pratique de trois ans sur de telles installations, sous la surveillance d’une personne du métier ou d’une personne ayant elle aussi réussi l’examen correspondant de l’Inspection.
+- a.[^14-1] remplissent les conditions requises pour l’octroi d’une autorisation d’effectuer des travaux sur des installations propres à l’entreprise (art. 13, al. 1) et peuvent justifier d’une activité pratique de trois ans sur de telles installations, sous la surveillance d’une personne du métier ou sous la direction d’une personne ayant réussi l’examen correspondant de l’Inspection, ou
+- b.[^14-2]
+
+  ont réussi un examen organisé par l’Inspection et:
+
+  - 1\. peuvent justifier d’une activité pratique de trois ans sur de telles installations, sous la direction d’une personne titulaire de l’autorisation, ou
+  - 2\. ont achevé une formation spécifique, déterminée par l’Inspection, portant sur de telles installations.
 
 <sup>2</sup> L’autorisation permet d’exécuter les travaux sur les installations qu’elle décrit.
 
 <sup>3</sup> L’art. 13, al. 4, let. a et b, s’applique par analogie.
 
-<sup>4</sup> Les membres du personnel qui ne sont pas mentionnés dans l’autorisation sont autorisés à effectuer des travaux de maintenance et de réparation sur des dispositifs d’alarme, des monte-charges, des bandes transporteuses et des bateaux s’ils ont suivi, au sein de l’entreprise ou d’un centre de formation agréé, un cours sur la sécurité électrique reconnu par l’Inspection de 40 leçons au minimum sur des travaux de ce type effectué sur les installations concernées. Les travaux de ce type se terminent par un contrôle. Ce contrôle doit être documenté.[^14-1]
+<sup>4</sup> Les membres du personnel qui ne sont pas mentionnés dans l’autorisation sont autorisés à effectuer des travaux de maintenance et de réparation sur des dispositifs d’alarme, des monte-charges, des bandes transporteuses et des bateaux s’ils ont suivi, au sein de l’entreprise ou d’un centre de formation agréé, un cours sur la sécurité électrique reconnu par l’Inspection de 40 leçons au minimum sur des travaux de ce type effectué sur les installations concernées. Les travaux de ce type se terminent par un contrôle. Ce contrôle doit être documenté.[^14-3]
 
-[^14-1]: Erratum du 31 oct. 2017 ([RO 2017 5761](https://fedlex.data.admin.ch/eli/oc/2017/620)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^14-3]: Erratum du 31 oct. 2017 ([RO 2017 5761](https://fedlex.data.admin.ch/eli/oc/2017/620)).
 
 #### Art. 15
 
@@ -472,16 +479,11 @@ En règle générale, les travaux sur des installations électriques ne doivent 
 
 **Obligation d’annoncer en cas d’autorisation générale d’installer**[^23-1]
 
-<sup>1</sup> Les titulaires d’une autorisation d’installer, générale ou temporaire, ont l’obligation d’annoncer tous les travaux d’installation au gestionnaire du réseau à basse tension qui alimente l’installation électrique en énergie avant que ceux-ci ne débutent.
+<sup>1</sup> Les titulaires d’une autorisation d’installer, générale ou temporaire, ont l’obligation d’annoncer les travaux d’installation au gestionnaire du réseau à basse tension auquel l’installation électrique est reliée avant que ceux-ci ne débutent.
 
-<sup>2</sup>
+<sup>2</sup> L’Inspection peut accorder ou ordonner des exceptions à l’obligation d’annoncer.
 
-Cette annonce n’est pas nécessaire si les travaux d’installation:
-
-- a. durent moins de quatre heures (petites installations), et
-- b. entraînent une modification globale de la puissance inférieure à 3,6 kVA.
-
-[^23-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 24
 
@@ -500,25 +502,31 @@ Un contrôle final propre à l’entreprise doit être effectué avant la remise
 
 <sup>4</sup> Les personnes qui effectuent le contrôle final doivent consigner les résultats de celui-ci dans un rapport de sécurité (art. 37).
 
-<sup>5</sup> Le rapport de sécurité doit être remis au propriétaire par le titulaire de l’autorisation d’installer générale ou temporaire. Le procès-verbal de la première vérification suffit pour les travaux visés à l’art. 23, al. 2, let. a.
+<sup>5</sup> Le rapport de sécurité doit être remis au propriétaire par le titulaire de l’autorisation d’installer générale ou temporaire. Le procès-verbal de la première vérification suffit pour les travaux auxquels l’Inspection a accordé une exception au sens de l’art. 23.[^24-2]
 
 <sup>6</sup> A l’issue du contrôle final, le propriétaire de l’installation annonce au gestionnaire de réseau la fin des travaux d’installation et lui transmet le rapport de sécurité.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 25
 
 **Obligation d’annonce en cas d’autorisation limitée**[^25-1]
 
-<sup>1</sup> Les travaux d’installation effectués sur la base d’une autorisation limitée d’installer doivent être annoncés, avant leur exécution, à l’exploitant du réseau qui alimente l’installation en énergie.
+<sup>1</sup> Les travaux d’installation effectués sur la base d’une autorisation limitée d’installer doivent être annoncés, avant leur exécution, au gestionnaire du réseau à basse tension auquel l’installation est reliée.[^25-2]
+
+<sup>1bis</sup> L’Inspection peut accorder ou ordonner des exceptions à l’obligation d’annoncer.[^25-3]
 
 <sup>2</sup> Les personnes mentionnées dans l’autorisation limitée effectuent une première vérification ou un contrôle des travaux effectués et en consignent les résultats dans un procès-verbal. Elles signent ce document et le conservent à l’attention des organes de contrôle.
 
 <sup>3</sup> Elles dressent une liste des travaux effectués.
 
-<sup>4</sup> Le titulaire d’une autorisation d’installer limitée remet au propriétaire, pour les travaux visés à l’al. 1, le procès-verbal de la première vérification ou du contrôle des travaux effectués.
+<sup>4</sup> Le titulaire d’une autorisation d’installer limitée remet au propriétaire le procès‑verbal de la première vérification ou du contrôle des travaux effectués.[^25-4]
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-3]: Introduit par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-4]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 ## Chapitre 4 Contrôle des installations
 
@@ -645,6 +653,10 @@ Les activités prévues à l’al. 1 doivent être exécutées uniquement par de
 
 <sup>1</sup> Les gestionnaires de réseau veillent à ce que les rapports de sécurité concernant les installations électriques alimentées par leurs réseaux à basse tension soient déposés, pour autant que cette tâche de surveillance ne relève pas de la compétence de l’Inspection conformément à l’art. 34, al. 3.
 
+<sup>1bis</sup> Ils annoncent à l’Inspection l’achèvement des installations de production d’énergie reliées à leur réseau de distribution à basse tension dans les 14 jours à compter du dépôt des rapports de sécurité visés à l’art. 35, al. 3.[^33-2]
+
+<sup>1ter</sup> L’Inspection peut accorder ou ordonner des exceptions à l’obligation d’annoncer.[^33-3]
+
 <sup>2</sup> Ils vérifient sporadiquement l’exactitude des rapports de sécurité et ordonnent, le cas échéant, les mesures nécessaires pour remédier aux insuffisances constatées.
 
 <sup>3</sup> Ils conservent les rapports de sécurité jusqu’au terme du contrôle périodique suivant.
@@ -663,6 +675,8 @@ Ils tiennent un registre des installations électriques qu’ils alimentent; ce 
 <sup>5</sup> Ils informent l’Inspection s’ils constatent que les titulaires d’autorisations d’installer ou de contrôler contreviennent gravement à leurs obligations ou que des travaux d’installation ou des contrôles d’installations ont été effectués sans autorisation.
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^33-2]: Introduit par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^33-3]: Introduit par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 34
 
@@ -697,10 +711,13 @@ Lorsque le propriétaire reprend du constructeur une installation dont la pério
 
 <sup>2</sup> S’il s’agit d’une installation de production d’énergie au sens de l’art. 2, al. 1, let. c, non connectée à un réseau de distribution à basse tension pour l’injection dans une installation fixe, le propriétaire remet le rapport de sécurité à l’Inspection lors de la mise en service.
 
-<sup>3</sup> Lorsque le propriétaire reprend du constructeur une installation de production d’énergie au sens de l’art. 2, al. 1, let c, connectée à un réseau de distribution à basse tension ou une installation électrique dont la période de contrôle selon l’annexe est inférieure à 20 ans, il fait faire, dans les six mois à compter de la réception de l’installation, un contrôle de réception par un organisme indépendant de l’installateur ou par un organisme d’inspection accrédité. Il remet dans le même délai le rapport de sécurité au gestionnaire de réseau ou, dans le cas d’installations selon l’art. 32, al. 2, à l’Inspection.[^35-2]
+<sup>3</sup> Lorsque le propriétaire reprend du constructeur une installation de production d’énergie au sens de l’art. 2, al. 1, let. c, reliée à un réseau de distribution à basse tension, il fait faire, dans les 2 mois à compter de la réception de l’installation, un contrôle de réception de celle-ci par un organisme indépendant de l’installateur ou par un organisme d’inspection accrédité. Il remet dans le même délai le rapport de sécurité au gestionnaire de réseau ou, dans le cas d’installations visées à l’art. 32, al. 2, à l’Inspection.[^35-2]
+
+<sup>4</sup> Lorsque le propriétaire reprend du constructeur une installation électrique dont la période de contrôle selon l’annexe est inférieure à 20 ans, il fait faire, dans les 6 mois à compter de la réception de l’installation, un contrôle de réception par un organisme indépendant ou par un organisme d’inspection accrédité. Il remet dans le même délai le rapport de sécurité au gestionnaire de réseau ou, dans le cas d’installations visées l’art. 32, al. 2, à l’Inspection.[^35-3]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^35-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^35-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^35-3]: Introduit par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 36
 
@@ -877,7 +894,7 @@ Annexe*[^t-1]*
 
 ## Contrôles périodiques
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 août 2017 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Mise à jour par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 ### 1 Installations électriques soumises au contrôle d’un organisme d’inspection accrédité (installations spéciales, art. 32, al. 2)
 
@@ -931,7 +948,7 @@ Annexe*[^t-1]*
 - 2\.4.8 des exploitations agricoles;
 - 2\.4.9 des constructions de la protection civile qui ne sont pas soumises au contrôle visé au ch. 1.4.1;
 - 2\.4.10 des bateaux de plaisance;
-- 2\.4.11 alimentées par des installations de production d’énergie selon l’art. 2, al. 1, let. c, non reliées à un réseau de distribution à basse tension;
+- 2\.4.11 ...
 - 2\.4.12 des routes nationales de 1<sup>re</sup> et de 2<sup>e</sup> classe qui ne sont pas soumises au contrôle selon le ch. 1.3.1;
 - 2\.4.13 des installations de téléphonie mobile situées sur des bâtiments, alimentées par le système d’approvisionnement général.
 - 2\.5 Toutes les autres installations électriques sont soumises au contrôle tous les 20 ans.

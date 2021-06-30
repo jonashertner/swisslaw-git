@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2001 über elektrische Niederspannungsinstall
 short: NIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: de
-version: 2019-06-01
+version: 2021-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20190601/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20190601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20190601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20190601/de"
 
 (Niederspannungs-Installationsverordnung, NIV)
 
-vom 7. November 2001 (Stand am 1. Juni 2019)
+vom 7. November 2001 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -331,16 +331,23 @@ Der Inhaber der Bewilligung sorgt dafür, dass:
 
 Eine Bewilligung für Installationsarbeiten an Anlagen, deren Erstellung spezielle Kenntnisse erfordert, insbesondere an Alarmanlagen, Hebe- und Förderanlagen, Leuchtschriften, Photovoltaikanlagen, stationären Batterieanlagen, Systemen zur unterbrechungsfreien Stromversorgung und an Schiffen wird einem Betrieb erteilt, der zur Ausführung der Arbeiten Betriebsangehörige einsetzt, die:
 
-- a. die Voraussetzungen für die Erteilung einer Bewilligung für Arbeiten an betriebseigenen Installationen (Art. 13 Abs. 1) erfüllen und drei Jahre praktische Tätigkeit in solchen Installationen unter Aufsicht einer fachkundigen Person oder einer Person nachweisen, welche die entsprechende Prüfung des Inspektorats bestanden hat; oder
-- b. eine vom Inspektorat durchgeführte Prüfung bestanden haben und drei Jahre praktische Tätigkeit in solchen Installationen unter Aufsicht einer fachkundigen Person oder einer Person nachweisen, welche die entsprechende Prüfung des Inspektorats ebenfalls bestanden hat.
+- a.[^14-1] die Voraussetzungen für die Erteilung einer Bewilligung für Arbeiten an betriebseigenen Installationen (Art. 13 Abs. 1) erfüllen und drei Jahre praktische Tätigkeit in solchen Installationen unter Aufsicht einer fachkundigen Person oder unter Anleitung einer Person nachweisen, welche die entsprechende Prüfung des Inspektorats bestanden hat; oder
+- b.[^14-2]
+
+  eine vom Inspektorat durchgeführte Prüfung bestanden haben und:
+
+  - 1\. drei Jahre praktische Tätigkeit in solchen Installationen unter Anleitung eines Bewilligungsträgers nachweisen, oder
+  - 2\. eine vom Inspektorat bezeichnete fachspezifische Ausbildung in solchen Installationen abgeschlossen haben.
 
 <sup>2</sup> Die Bewilligung berechtigt zu den in ihr aufgeführten Installationsarbeiten.
 
 <sup>3</sup> Artikel 13 Absatz 4 Buchstabe a und b gilt sinngemäss.
 
-<sup>4</sup> Betriebsangehörige, die nicht in der Bewilligung aufgeführt sind, dürfen Serviceund Reparaturarbeiten an Alarm-, Hebe- und Förderanlagen sowie auf Schiffen ausführen, wenn sie einen vom Inspektorat anerkannten Kurs für solche Arbeiten an den jeweiligen Anlagen im Umfang von mindestens 40 Lektionen Elektrosicherheit im Betrieb oder in einer qualifizierten Ausbildungsstätte absolviert haben. Die Arbeiten sind mit einer Kontrolle der ausgeführten Arbeiten abzuschliessen. Das Ergebnis dieser Kontrolle ist zu dokumentieren.[^14-1]
+<sup>4</sup> Betriebsangehörige, die nicht in der Bewilligung aufgeführt sind, dürfen Serviceund Reparaturarbeiten an Alarm-, Hebe- und Förderanlagen sowie auf Schiffen ausführen, wenn sie einen vom Inspektorat anerkannten Kurs für solche Arbeiten an den jeweiligen Anlagen im Umfang von mindestens 40 Lektionen Elektrosicherheit im Betrieb oder in einer qualifizierten Ausbildungsstätte absolviert haben. Die Arbeiten sind mit einer Kontrolle der ausgeführten Arbeiten abzuschliessen. Das Ergebnis dieser Kontrolle ist zu dokumentieren.[^14-3]
 
-[^14-1]: Berichtigung vom 31. Okt. 2017 ([AS 2017 5761](https://fedlex.data.admin.ch/eli/oc/2017/620)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^14-3]: Berichtigung vom 31. Okt. 2017 ([AS 2017 5761](https://fedlex.data.admin.ch/eli/oc/2017/620)).
 
 #### Art. 15
 
@@ -412,7 +419,9 @@ Die eingeschränkten Installationsbewilligungen legen fest:
 
 <sup>1</sup> Die Installationsbewilligung ist unbefristet und nicht übertragbar. Sie gilt für die ganze Schweiz.
 
-<sup>2</sup> Verlässt der technische Leiter oder, bei eingeschränkten Installationsbewilligungen. die Person, welche die für die Erteilung der Bewilligung verlangten Fachkenntnisse besitzt, den Betrieb, so erlischt die Installationsbewilligung für diesen Betrieb.
+<sup>2</sup> Verlässt der fachkundige Leiter oder, bei eingeschränkten Installationsbewilligun*g*en*,* die Person, welche die für die Erteilung der Bewilligung verlangten Fachkenntnisse besitzt, den Betrieb, so erlischt die Installationsbewilligung für diesen Betrieb.[^18-1]
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 19
 
@@ -475,16 +484,11 @@ Arbeiten an elektrischen Installationen dürfen in der Regel nur ausgeführt wer
 
 **Meldepflichten bei allgemeinen Installationsbewilligungen**[^23-1]
 
-<sup>1</sup> Die Inhaber einer allgemeinen Installationsbewilligung und diejenigen einer Ersatzbewilligung müssen sämtliche Installationsarbeiten vor der Ausführung der Netzbetreiberin, aus deren Niederspannungsverteilnetz die elektrische Installation mit Energie versorgt wird, melden.
+<sup>1</sup> Die Inhaber einer allgemeinen Installationsbewilligung und diejenigen einer Ersatzbewilligung müssen Installationsarbeiten vor der Ausführung der Netzbetreiberin, mit deren Niederspannungsverteilnetz die elektrische Installation verbunden ist, melden.
 
-<sup>2</sup>
+<sup>2</sup> Das Inspektorat kann Ausnahmen von der Meldepflicht gewähren oder anordnen.
 
-Keine Meldung muss erstattet werden, wenn:
-
-- a. die Installationsarbeiten weniger als vier Stunden dauern (Kleininstallationen); und
-- b. die Arbeiten zu einer Leistungsänderung führen, die insgesamt weniger als 3,6 kVA beträgt.
-
-[^23-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 24
 
@@ -503,25 +507,31 @@ Vor der Übergabe einer elektrischen Installation an den Eigentümer muss eine S
 
 <sup>4</sup> Die Personen, welche die Schlusskontrolle durchführen, haben die Ergebnisse dieser Kontrolle in einem Sicherheitsnachweis (Art. 37) festzuhalten.
 
-<sup>5</sup> Der Sicherheitsnachweis ist vom Inhaber der allgemeinen Installationsbewilligung oder der Ersatzbewilligung dem Eigentümer zu übergeben. Für Arbeiten nach Artikel 23 Absatz 2 Buchstabe a genügt das Protokoll der Erstprüfung.
+<sup>5</sup> Der Sicherheitsnachweis ist vom Inhaber der allgemeinen Installationsbewilligung oder der Ersatzbewilligung dem Eigentümer zu übergeben. Für Arbeiten, für die eine Ausnahme des Inspektorats nach Artikel 23 vorliegt, genügt das Protokoll der Erstprüfung.[^24-2]
 
 <sup>6</sup> Nach der Schlusskontrolle meldet der Eigentümer der Netzbetreiberin den Abschluss der Installationsarbeiten und stellt ihr den Sicherheitsnachweis zu.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 25
 
 **Meldepflichten bei eingeschränkten Installationsbewilligungen**[^25-1]
 
-<sup>1</sup> Installationsarbeiten im Rahmen von eingeschränkten Installationsbewilligungen müssen vor der Ausführung der Netzbetreiberin, aus deren Niederspannungsverteilnetz die Installation mit Energie versorgt wird, gemeldet werden.
+<sup>1</sup> Installationsarbeiten im Rahmen von eingeschränkten Installationsbewilligungen müssen vor der Ausführung der Netzbetreiberin, mit deren Niederspannungsverteilnetz die Installation verbunden ist, gemeldet werden.[^25-2]
+
+<sup>1bis</sup> Das Inspektorat kann Ausnahmen von der Meldepflicht gewähren oder anordnen.[^25-3]
 
 <sup>2</sup> Die in der eingeschränkten Bewilligung aufgeführten Personen führen eine Erstprüfung oder eine Kontrolle der ausgeführten Arbeiten durch und erstellen davon ein Protokoll. Sie unterzeichnen es und bewahren es zuhanden der Kontrollorgane auf.
 
 <sup>3</sup> Sie führen ein Verzeichnis der ausgeführten Arbeiten.
 
-<sup>4</sup> Der Inhaber einer eingeschränkten Installationsbewilligung übergibt dem Eigentümer für Arbeiten nach Absatz 1 entweder das Protokoll der Erstprüfung oder das Protokoll der Kontrolle der ausgeführten Arbeiten.
+<sup>4</sup> Der Inhaber einer eingeschränkten Installationsbewilligung übergibt dem Eigentümer entweder das Protokoll der Erstprüfung oder das Protokoll der Kontrolle der ausgeführten Arbeiten.[^25-4]
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 ## 4. Kapitel: Installationskontrolle
 
@@ -648,6 +658,10 @@ Die Tätigkeiten nach Absatz 1 dürfen nur von akkreditierten Inspektionsstellen
 
 <sup>1</sup> Die Netzbetreiberinnen überwachen den Eingang der Sicherheitsnachweise für die elektrischen Installationen, die aus ihren Niederspannungsverteilnetzen versorgt werden, soweit diese Überwachung nicht nach Artikel 34 Absatz 3 dem Inspektorat obliegt.
 
+<sup>1bis</sup> Sie melden dem Inspektorat die Fertigstellung von Energieerzeugungsanlagen, die mit ihrem Niederspannungsverteilnetz verbunden sind, innert 14 Tagen nach Eingang der Sicherheitsnachweise nach Artikel 35 Absatz 3.[^33-2]
+
+<sup>1ter</sup> Das Inspektorat kann Ausnahmen von der Meldepflicht gewähren oder anordnen.[^33-3]
+
 <sup>2</sup> Sie prüfen die Sicherheitsnachweise stichprobenweise auf ihre Richtigkeit und ordnen gegebenenfalls die Massnahmen an, die zur Behebung der Mängel erforderlich sind.
 
 <sup>3</sup> Sie bewahren die Sicherheitsnachweise bis zur Beendigung der nächsten periodischen Kontrolle auf.
@@ -666,6 +680,8 @@ Sie führen ein Verzeichnis der von ihnen versorgten elektrischen Installationen
 <sup>5</sup> Sie informieren das Inspektorat, wenn sie feststellen, dass Inhaber von Installationsbewilligungen oder Kontrollbewilligungen ihre Pflichten in schwerwiegender Weise verletzen oder dass Installationsarbeiten oder Installationskontrollen ohne Bewilligung ausgeführt werden.
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^33-2]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^33-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 34
 
@@ -700,10 +716,13 @@ Sie führen ein Verzeichnis der von ihnen versorgten elektrischen Installationen
 
 <sup>2</sup> Handelt es sich um eine Energieerzeugungsanlage nach Artikel 2 Absatz 1 Buchstabe c ohne Verbindung mit einem Niederspannungsverteilnetz zur Einspeisung in eine feste Installation, so muss der Eigentümer den Sicherheitsnachweis bei der Inbetriebnahme dem Inspektorat einreichen.
 
-<sup>3</sup> Übernimmt der Eigentümer vom Ersteller eine Energieerzeugungsanlage nach Artikel 2 Absatz 1 Buchstabe c mit Verbindung zu einem Niederspannungsverteilnetz oder eine elektrische Installation mit einer Kontrollperiode von weniger als 20 Jahren gemäss Anhang, so veranlasst er innerhalb von sechs Monaten eine Abnahmekontrolle durch ein unabhängiges Kontrollorgan oder eine akkreditierte Inspektionsstelle. Er reicht innerhalb dieser Frist den Sicherheitsnachweis der Netzbetreiberin, oder bei Installationen nach Artikel 32 Absatz 2, dem Inspektorat ein.[^35-2]
+<sup>3</sup> Übernimmt der Eigentümer vom Ersteller eine Energieerzeugungsanlage nach Artikel 2 Absatz 1 Buchstabe c, die mit einem Niederspannungsverteilnetz verbunden ist, so veranlasst er innerhalb von zwei Monaten eine Abnahmekontrolle der Energieerzeugungsanlage durch ein unabhängiges Kontrollorgan oder eine akkreditierte Inspektionsstelle. Er reicht innerhalb dieser Frist den Sicherheitsnachweis der Netzbetreiberin oder, bei Installationen nach Artikel 32 Absatz 2, dem Inspektorat ein.[^35-2]
+
+<sup>4</sup> Übernimmt der Eigentümer vom Ersteller eine elektrische Installation mit einer Kontrollperiode von weniger als 20 Jahren gemäss Anhang, so veranlasst er innerhalb von sechs Monaten eine Abnahmekontrolle durch ein unabhängiges Kontrollorgan oder eine akkreditierte Inspektionsstelle. Er reicht innerhalb dieser Frist den Sicherheitsnachweis der Netzbetreiberin oder, bei Installationen nach Artikel 32 Absatz 2, dem Inspektorat ein.[^35-3]
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^35-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^35-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 36
 
@@ -834,7 +853,7 @@ Die Verordnung vom 6. September 1989[^43-1] über elektrische Niederspannungsins
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> und <sup>2</sup> …[^44-1]
+<sup>1</sup> und <sup>2</sup> ...[^44-1]
 
 <sup>3</sup> Nach bisherigem Recht ausgestellte Anerkennungen der Fachkundigkeit behalten ihre Gültigkeit.
 
@@ -880,7 +899,7 @@ Anhang*[^t-1]*
 
 ## Periodische Kontrolle
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 23. Aug. 2017 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Bereinigt gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 ### 1 Elektrische Installationen, die der Kontrolle durch eine akkreditierte Inspektionsstelle unterliegen (Spezialinstallationen, Art. 32 Abs. 2)
 
@@ -933,7 +952,7 @@ Anhang*[^t-1]*
 - 2\.4.8 die elektrischen Installationen in landwirtschaftlichen Betrieben;
 - 2\.4.9 die elektrischen Installationen in Zivilschutzbauten, welche nicht der Kontrolle nach Ziffer 1.4.1. unterliegen;
 - 2\.4.10 die elektrischen Installationen auf Vergnügungsschiffen;
-- 2\.4.11 die elektrischen Installationen, die von Energieerzeugungsanlagen nach Artikel 2 Absatz 1 Buchstabe c ohne Verbindung zu einem Niederspannungsverteilnetz versorgt werden;
+- 2\.4.11 ...
 - 2\.4.12 die elektrischen Installationen an Nationalstrassen 1. und 2. Klasse, die nicht gemäss Ziffer 1.3.1. kontrolliert werden;
 - 2\.4.13 die elektrischen Installationen von Mobilfunkanlagen auf Gebäuden, die aus der allgemeinen Stromversorgung gespeist werden.
 - 2\.5 Der Kontrolle alle 20 Jahre unterliegen alle übrigen elektrischen Installationen.

@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2001 concernente gli impianti elettrici a bassa
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: it
-version: 2019-06-01
+version: 2021-07-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20190601/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20190601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20190601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20190601/it"
 
 (Ordinanza sugli impianti a bassa tensione, OIBT)
 
-del 7 novembre 2001 (Stato 1° giugno 2019) (Stato 1° giugno 2019)
+del 7 novembre 2001 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -332,16 +332,23 @@ Il titolare dell’autorizzazione provvede affinché:
 
 Un’autorizzazione per lavori d’installazione su impianti la cui esecuzione richiede conoscenze specifiche, in particolare su impianti di allarme, montacarichi, nastri trasportatori, insegne luminose, impianti fotovoltaici, impianti di batterie fissi, gruppi statici di continuità e battelli, è concessa a un’impresa che affida l’esecuzione di tali lavori a propri dipendenti, i quali:
 
-- a. soddisfano le condizioni per il rilascio di un’autorizzazione per lavori su impianti propri all’impresa (art. 13 cpv. 1) e dimostrano di aver svolto, sotto la sorveglianza di una persona del mestiere o di una persona che ha superato il relativo esame dell’Ispettorato, tre anni di attività pratica su tali impianti; o
-- b. hanno superato un esame organizzato dall’Ispettorato e dimostrano di aver svolto, sotto la sorveglianza di una persona del mestiere o di una persona che ha superato anch’essa il relativo esame dell’Ispettorato, tre anni di attività pratica su tali impianti.
+- a.[^14-1] soddisfano le condizioni per il rilascio di un’autorizzazione per lavori su impianti propri all’impresa (art. 13 cpv. 1) e dimostrano di aver svolto, sotto la sorveglianza di una persona del mestiere o sotto la direzione di una persona che ha superato il relativo esame dell’Ispettorato, tre anni di attività pratica su tali impianti; o
+- b.[^14-2]
+
+  hanno superato un esame organizzato dall’Ispettorato e:
+
+  - 1\. dimostrano di aver svolto, sotto la direzione di un titolare dell’autorizzazione, tre anni di attività pratica su tali impianti, o
+  - 2\. hanno concluso una formazione specialistica su tali impianti definita dall’Ispettorato.
 
 <sup>2</sup> L’autorizzazione concede il diritto di eseguire i lavori d’installazione in essa menzionati.
 
 <sup>3</sup> L’articolo 13 capoverso 4 lettere a e b si applica per analogia.
 
-<sup>4</sup> I dipendenti dell’impresa non menzionati nell’autorizzazione possono eseguire lavori di manutenzione e riparazione ad impianti di allarme, montacarichi, nastri trasportatori e battelli se hanno seguito un corso riconosciuto dall’Ispettorato per simili lavori su relativi impianti, comprendente almeno 40 lezioni di sicurezza elettrica, nell’impresa o presso un centro di formazione riconosciuto. I lavori devono concludersi con un controllo dei lavori eseguiti. Il risultato di questo controllo deve essere documentato.[^14-1]
+<sup>4</sup> I dipendenti dell’impresa non menzionati nell’autorizzazione possono eseguire lavori di manutenzione e riparazione ad impianti di allarme, montacarichi, nastri trasportatori e battelli se hanno seguito un corso riconosciuto dall’Ispettorato per simili lavori su relativi impianti, comprendente almeno 40 lezioni di sicurezza elettrica, nell’impresa o presso un centro di formazione riconosciuto. I lavori devono concludersi con un controllo dei lavori eseguiti. Il risultato di questo controllo deve essere documentato.[^14-3]
 
-[^14-1]: Correzione del 31 ott. 2017 ([RU 2017 5761](https://fedlex.data.admin.ch/eli/oc/2017/620)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^14-3]: Correzione del 31 ott. 2017 ([RU 2017 5761](https://fedlex.data.admin.ch/eli/oc/2017/620)).
 
 #### Art. 15
 
@@ -476,16 +483,11 @@ I lavori agli impianti elettrici devono di regola essere effettuati solo se non 
 
 **Obbligo di notifica in caso di autorizzazione generale d’installazione**[^23-1]
 
-<sup>1</sup> I titolari di un’autorizzazione generale d’installazione o di un’autorizzazione sostitutiva devono notificare al gestore della rete a bassa tensione che alimenta l’impianto elettrico tutti i lavori effettuati sull’impianto, prima della loro esecuzione.
+<sup>1</sup> I titolari di un’autorizzazione generale d’installazione o di un’autorizzazione sostitutiva devono notificare al gestore della rete a bassa tensione cui è collegato l’impianto elettrico i lavori effettuati sull’impianto, prima della loro esecuzione.
 
-<sup>2</sup>
+<sup>2</sup> L’Ispettorato può concedere o ordinare deroghe all’obbligo di notifica.
 
-La notifica non è necessaria se:
-
-- a. i lavori d’installazione durano meno di quattro ore (piccole installazioni); e
-- b. i lavori comportano una variazione della potenza complessivamente inferiore a 3,6 kVA.
-
-[^23-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 24
 
@@ -504,25 +506,31 @@ Prima della consegna di un impianto elettrico al proprietario deve essere effett
 
 <sup>4</sup> Le persone che effettuano il controllo finale devono indicare i risultati di questo controllo in un rapporto di sicurezza (art**.** 37).
 
-<sup>5</sup> Il rapporto di sicurezza deve essere consegnato al proprietario dell’impianto dal titolare dell’autorizzazione generale d’installazione o dell’autorizzazione sostitutiva. Per i lavori secondo l’articolo 23 capoverso 2 lettera a è sufficiente il verbale della prima verifica.
+<sup>5</sup> Il rapporto di sicurezza deve essere consegnato al proprietario dell’impianto dal titolare dell’autorizzazione generale d’installazione o dell’autorizzazione sostitutiva. Per i lavori per i quali sussiste una deroga dell’Ispettorato secondo l’articolo 23 è sufficiente il verbale della prima verifica.[^24-2]
 
 <sup>6</sup> Dopo il controllo finale, il proprietario notifica al gestore della rete la conclusione dei lavori d’installazione e gli consegna il rapporto di sicurezza.
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 25
 
 **Obbligo di notifica in caso di autorizzazioni d’installazione limitate**[^25-1]
 
-<sup>1</sup> I lavori d’installazione eseguiti nell’ambito di un’autorizzazione d’installazione limitata devono essere notificati, prima di essere intrapresi, al gestore della rete di distribuzione a bassa tensione che alimenta l’impianto elettrico.
+<sup>1</sup> I lavori d’installazione eseguiti nell’ambito di un’autorizzazione d’installazione limitata devono essere notificati, prima di essere intrapresi, al gestore della rete di distribuzione a bassa tensione cui è collegato l’impianto elettrico.[^25-2]
+
+<sup>1bis</sup> L’Ispettorato può concedere o ordinare deroghe all’obbligo di notifica.[^25-3]
 
 <sup>2</sup> Le persone menzionate nell’autorizzazione limitata effettuano una prima verifica o un controllo dei lavori eseguiti e redigono un verbale in merito. Lo firmano e lo conservano per gli organi di controllo.
 
 <sup>3</sup> Redigono un elenco dei lavori eseguiti.
 
-<sup>4</sup> Il titolare di un’autorizzazione d’installazione limitata consegna al proprietario dell’impianto, per i lavori secondo il capoverso 1, il verbale della prima verifica o il verbale del controllo dei lavori eseguiti.
+<sup>4</sup> Il titolare di un’autorizzazione d’installazione limitata consegna al proprietario dell’impianto il verbale della prima verifica o il verbale del controllo dei lavori eseguiti.[^25-4]
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-3]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^25-4]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 ## Capitolo 4: Controllo degli impianti
 
@@ -649,6 +657,10 @@ Le attività secondo il capoverso 1 devono essere effettuate solo da servizi d�
 
 <sup>1</sup> I gestori di rete si assicurano che siano depositati i rapporti di sicurezza relativi agli impianti elettrici alimentati dalle loro reti di distribuzione a bassa tensione, nella misura in cui questo compito non spetti all’Ispettorato conformemente all’articolo 34 capoverso 3.
 
+<sup>1bis</sup> Notificano all’Ispettorato il completamento degli impianti di produzione di energia collegati alla loro rete di distribuzione a bassa tensione entro 14 giorni dal deposito dei rapporti di sicurezza di cui all’articolo 35 capoverso 3.[^33-2]
+
+<sup>1ter</sup> L’Ispettorato può concedere o ordinare deroghe all’obbligo di notifica.[^33-3]
+
 <sup>2</sup> Verificano con controlli a campione la correttezza dei rapporti di sicurezza e, se del caso, ordinano le misure necessarie per eliminare le lacune.
 
 <sup>3</sup> Conservano i rapporti di sicurezza fino al termine del controllo periodico seguente.
@@ -667,6 +679,8 @@ Tengono un registro degli impianti elettrici che alimentano; questo registro ind
 <sup>5</sup> Informano l’Ispettorato se constatano che i titolari di autorizzazioni d’installazione o di autorizzazioni di controllo contravvengono gravemente ai loro obblighi oppure se sono effettuati senza autorizzazione lavori d’installazione o controlli di impianti.
 
 [^33-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^33-2]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^33-3]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 34
 
@@ -701,10 +715,13 @@ Il proprietario che riprende dal realizzatore un impianto elettrico con un perio
 
 <sup>2</sup> Se si tratta di un impianto di produzione di energia ai sensi dell’articolo 2 capoverso 1 lettera c non collegato a una rete di distribuzione a bassa tensione per l’alimentazione di un impianto fisso, il proprietario consegna il rapporto di sicurezza all’Ispettorato al momento della messa in servizio.
 
-<sup>3</sup> Il proprietario che riprende dal realizzatore un impianto di produzione di energia secondo l’articolo 2 capoverso 1 lettera c collegato a una rete di distribuzione a bassa tensione o un impianto con un periodo di controllo inferiore a 20 anni conformemente all’allegato fa eseguire un collaudo entro sei mesi da parte di un organo di controllo indipendente o di un servizio d’ispezione accreditato. Entro questo termine consegna il rapporto di sicurezza al gestore della rete o, per gli impianti di cui all’articolo 32 capoverso 2, all’Ispettorato.[^35-2]
+<sup>3</sup> Il proprietario che riprende dal realizzatore un impianto di produzione di energia secondo l’articolo 2 capoverso 1 lettera c collegato a una rete di distribuzione a bassa tensione fa eseguire entro due mesi un collaudo dell’impianto di produzione di energia da parte di un organo di controllo indipendente o di un servizio d’ispezione accreditato. Entro questo termine consegna il rapporto di sicurezza al gestore della rete o, per gli impianti di cui all’articolo 32 capoverso 2, all’Ispettorato.[^35-2]
+
+<sup>4</sup> Il proprietario che riprende dal realizzatore un impianto elettrico con un periodo di controllo inferiore a 20 anni conformemente all’allegato fa eseguire entro sei mesi un collaudo da parte di un organo di controllo indipendente o di un servizio d’ispezione accreditato. Entro questo termine consegna il rapporto di sicurezza al gestore della rete o, per gli impianti di cui all’articolo 32 capoverso 2, all’Ispettorato.[^35-3]
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^35-2]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
+[^35-3]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 #### Art. 36
 
@@ -881,7 +898,7 @@ Allegato*[^t-1]*
 
 ## Controlli periodici
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 23 ago. 2017 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)). Aggiornato dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
 
 ### 1 Impianti elettrici che sottostanno al controllo da parte di un servizio d’ispezione accreditato (impianti speciali, art. 32 cpv. 2)
 
@@ -934,7 +951,7 @@ Allegato*[^t-1]*
 - 2\.4.8 gli impianti elettrici nelle aziende agricole;
 - 2\.4.9 gli impianti elettrici nelle costruzioni della protezione civile che non sottostanno al controllo secondo il numero 1.4.1;
 - 2\.4.10 gli impianti elettrici sulle imbarcazioni da diporto;
-- 2\.4.11 gli impianti di produzione di energia secondo l’articolo 2 capoverso 1 lettera c, senza collegamento alla rete di distribuzione a bassa tensione;
+- 2\.4.11 ...
 - 2\.4.12 gli impianti elettrici delle strade nazionali di 1<sup>a</sup> e 2<sup>a</sup> classe che non sono controllati secondo il numero 1.3.1;
 - 2\.4.13 gli impianti elettrici di impianti per la telefonia mobile situati su edifici, alimentati dalla rete di approvvigionamento elettrico generale.
 - 2\.5 Tutti gli altri impianti elettrici sottostanno al controllo ogni 20 anni.
