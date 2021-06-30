@@ -3,11 +3,11 @@ sr: "916.511"
 title: "Ordonnance de l'OFAG du 16 février 2016 concernant les listes des pays selon l'ordonnance agricole sur la déclaration (Listes des pays OAgrD)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/116"
 language: fr
-version: 2016-08-01
+version: 2021-07-01
 adopted: 2016-02-16
 in_force: 2016-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/116/20160801/fr/xml/fedlex-data-admin-ch-eli-cc-2016-116-20160801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20160801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/116/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-116-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20160801/fr"
 
 (Listes des pays OAgrD)
 
-du 16 février 2016 (Etat le 1<sup>er</sup> août 2016)
+du 16 février 2016 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Office fédéral de l’agriculture (OFAG),
 
@@ -73,7 +73,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays pour la viande
 
-[^t-1]: Mise à jour selon le ch. I de l’O de l’OFAG du 12 juil. 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2699](https://fedlex.data.admin.ch/eli/oc/2016/432)).
+[^t-1]: Mise à jour selon le ch. I des O de l’OFAG du 12 juil. 2016 ([RO 2016 2699](https://fedlex.data.admin.ch/eli/oc/2016/432)) et du 21 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 369](https://fedlex.data.admin.ch/eli/oc/2021/369)).
 
 <table>
 <tr><th>Pays</th><th>Catégorie animale</th><th>Interdiction équivalente pour</th></tr>
@@ -94,6 +94,7 @@ Annexe 1*[^t-1]*
 <tr><td>14. Uruguay</td><td>bovins, moutons, chèvres</td><td>substances hormonales et non hormonales</td></tr>
 <tr><td>[tab]</td><td>chevaux, porcs, volaille domestique</td><td>substances hormonales</td></tr>
 <tr><td>15. Zimbabwe</td><td>bovins, chevaux, moutons, chèvres, porcs, volaille domestique, lapins domestiques, gibier d’élevage à onglons</td><td>substances hormonales</td></tr>
+<tr><td>[tab] 16. États-Unis</td><td>bovins, chevaux, moutons, chèvres, porcs, volaille domestique, lapins domestiques, gibier d’élevage à onglon, issus de production biologique</td><td>substances hormonales et non hormonales dans la production biologique</td></tr>
 </table>
 
 Annexe 2

@@ -3,11 +3,11 @@ sr: "916.511"
 title: "Ordinanza dell'UFAG del 16 febbraio 2016 concernente gli elenchi dei Paesi in virtù dell'ordinanza sulle dichiarazioni agricole (Elenchi dei Paesi ODAgr)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/116"
 language: it
-version: 2016-08-01
+version: 2021-07-01
 adopted: 2016-02-16
 in_force: 2016-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/116/20160801/it/xml/fedlex-data-admin-ch-eli-cc-2016-116-20160801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20160801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/116/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2016-116-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20160801/it"
 
 (Elenchi dei Paesi ODAgr)
 
-del 16 febbraio 2016 (Stato 1° agosto 2016) (Stato 1° agosto 2016)
+del 16 febbraio 2016 (Stato 1° luglio 2021)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -73,7 +73,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi per la carne
 
-[^t-1]: Aggiornato dal n. I dell’O dell’UFAG del 12 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2699](https://fedlex.data.admin.ch/eli/oc/2016/432)).
+[^t-1]: Aggiornato dai n. I delle O dell’UFAG del 12 lug. 2016 ([RU 2016 2699](https://fedlex.data.admin.ch/eli/oc/2016/432)) e del 21 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 369](https://fedlex.data.admin.ch/eli/oc/2021/369)).
 
 <table>
 <tr><th>Paese</th><th>Categoria di animali</th><th>Divieto equivalente per</th></tr>
@@ -94,6 +94,7 @@ Allegato 1*[^t-1]*
 <tr><td>14. Uruguay</td><td>Bovini, ovini, caprini</td><td>Sostanze ormonali e non ormonali</td></tr>
 <tr><td>[tab]</td><td>Equini, suini, pollame domestico</td><td>Sostanze ormonali</td></tr>
 <tr><td>15. Zimbabwe</td><td>Bovini, equini, ovini, caprini, suini, pollame domestico, coniglio domestico, selvaggina da allevamento biungulata</td><td>Sostanze ormonali</td></tr>
+<tr><td>[tab] 16. USA</td><td>Bovini, equini, ovini, caprini, suini, pollame domestico, coniglio domestico, selvaggina da allevamento biungulata di produzione biologica</td><td>Sostanze ormonali e non ormonali nella produzione biologica</td></tr>
 </table>
 
 Allegato 2

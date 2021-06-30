@@ -3,11 +3,11 @@ sr: "916.511"
 title: Verordnung des BLW vom 16. Februar 2016 über die Länderlisten nach der Landwirtschaftlichen Deklarationsverordnung (LDV-Länderlisten)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/116"
 language: de
-version: 2016-08-01
+version: 2021-07-01
 adopted: 2016-02-16
 in_force: 2016-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/116/20160801/de/xml/fedlex-data-admin-ch-eli-cc-2016-116-20160801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20160801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/116/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2016-116-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/116/20160801/de"
 
 (LDV-Länderlisten)
 
-vom 16. Februar 2016 (Stand am 1. August 2016)
+vom 16. Februar 2016 (Stand am 1. Juli 2021)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -59,7 +59,7 @@ Anhang 3 enthält die Liste der Länder, in denen für die Produktion von Eiern 
 
 Die Verordnung des BLW vom 2. Dezember 2003[^5-1] über die von der Deklarationspflicht befreiten Länder nach landwirtschaftlicher Deklarationsverordnung wird aufgehoben.
 
-[^5-1]: [[AS 2003 5499](https://fedlex.data.admin.ch/eli/oc/2003/794), [2004 2977](https://fedlex.data.admin.ch/eli/oc/2004/372)[3533](https://fedlex.data.admin.ch/eli/oc/2004/477)[3647](https://fedlex.data.admin.ch/eli/oc/2004/496)[4547](https://fedlex.data.admin.ch/eli/oc/2004/690), [2005 5653](https://fedlex.data.admin.ch/eli/oc/2005/775), [2006 65](https://fedlex.data.admin.ch/eli/oc/2006/13), [2007 229](https://fedlex.data.admin.ch/eli/oc/2007/46), [2008 335](https://fedlex.data.admin.ch/eli/oc/2008/87), [2011 2175](https://fedlex.data.admin.ch/eli/oc/2011/295)]
+[^5-1]: [[AS 2003 5499](https://fedlex.data.admin.ch/eli/oc/2003/794); [2004 2977](https://fedlex.data.admin.ch/eli/oc/2004/372), [3533](https://fedlex.data.admin.ch/eli/oc/2004/477), [3647](https://fedlex.data.admin.ch/eli/oc/2004/496), [4547](https://fedlex.data.admin.ch/eli/oc/2004/690); [2005 5653](https://fedlex.data.admin.ch/eli/oc/2005/775); [2006 65](https://fedlex.data.admin.ch/eli/oc/2006/13); [2007 229](https://fedlex.data.admin.ch/eli/oc/2007/46); [2008 335](https://fedlex.data.admin.ch/eli/oc/2008/87); [2011 2175](https://fedlex.data.admin.ch/eli/oc/2011/295)]
 
 #### Art. 6
 
@@ -73,7 +73,7 @@ Anhang 1*[^t-1]*
 
 ## Länderliste Fleisch
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLW vom 12. Juli 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2699](https://fedlex.data.admin.ch/eli/oc/2016/432)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLW vom 12. Juli 2016 ([AS 2016 2699](https://fedlex.data.admin.ch/eli/oc/2016/432)) und vom 21. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 369](https://fedlex.data.admin.ch/eli/oc/2021/369)).
 
 <table>
 <tr><th>Land</th><th>Tierkategorie</th><th>Gleichwertiges Verbot für</th></tr>
@@ -94,6 +94,7 @@ Anhang 1*[^t-1]*
 <tr><td>14. Thailand</td><td>Rind, Schwein, Hausgeflügel</td><td>Hormonelle Stoffe</td></tr>
 <tr><td>15. Uruguay</td><td>Rind, Schaf, Ziege</td><td>Hormonelle und nichthormonelle Stoffe</td></tr>
 <tr><td>[tab]</td><td>Pferd, Schwein, Hausgeflügel</td><td>Hormonelle Stoffe</td></tr>
+<tr><td>[tab] 16. USA</td><td>Rind, Pferd, Schaf, Ziege, Schwein, Hausgeflügel, Hauskaninchen, Zucht-Schalenwild aus biologischer Produktion</td><td>Hormonelle und nicht- hormonelle Stoffe in der biologischen Produktion</td></tr>
 </table>
 
 Anhang 2
