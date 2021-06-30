@@ -4,11 +4,11 @@ title: "Verordnung vom 7. September 2018 des Schweizerischen Heilmittelinstituts
 short: KPAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/591"
 language: de
-version: 2019-01-01
+version: 2021-07-01
 adopted: 2018-09-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-591-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2018-591-20210701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20190101/de"
 
 (Komplementär- und Phytoarzneimittelverordnung, KPAV)
 
-vom 7. September 2018 (Stand am 1. Januar 2019)
+vom 7. September 2018 (Stand am 1. Juli 2021)
 
 Der Institutsrat des Schweizerischen Heilmittelinstituts (Institutsrat),
 
@@ -666,10 +666,10 @@ Die Kennzeichnung von Husten- und Halsbonbons sowie Pastillen muss die Angaben n
 
 <sup>1</sup> Die Komplementär- und Phytoarzneimittelverordnung vom 22. Juni 2006[^47-2] wird aufgehoben.
 
-<sup>2</sup> …[^47-3]
+<sup>2</sup> ...[^47-3]
 
 [^47-1]: Berichtigung vom 13. Nov. 2018 ([AS 2018 3997](https://fedlex.data.admin.ch/eli/oc/2018/642)).
-[^47-2]: [[AS 2006 3641](https://fedlex.data.admin.ch/eli/oc/2006/559), [2011 1787](https://fedlex.data.admin.ch/eli/oc/2011/273)]
+[^47-2]: [[AS 2006 3641](https://fedlex.data.admin.ch/eli/oc/2006/559); [2011 1787](https://fedlex.data.admin.ch/eli/oc/2011/273)]
 [^47-3]: Die Änderung kann unter [AS 2018 3675](https://fedlex.data.admin.ch/eli/oc/2018/591)konsultiert werden.
 
 #### Art. 48
@@ -987,7 +987,7 @@ Ein Master-Dossier zur Herstellung der Darreichungsform muss folgende Unterlagen
 - 5\.3 Inprozess- und Endkontrollen einschliesslich Spezifikation der Akzeptanzlimiten sowie Untersuchungsergebnisse für die mikrobiologische Kontamination (Bioburden) der Bulklösung vor der Sterilfiltration, Angabe der Prüfmethode zur Kontrolle der Integrität der verwendeten Sterilfilter und Angabe der Dichtigkeitsprüfung der gefüllten Primärbehälter;
 - 5\.4 Unterlagen zur Validierung der Verarbeitungsschritte, die nicht den Standardbedingungen der Pharmakopöe entsprechen.
 
-Anhang 4*[^t-1]*
+Anhang 4[^t-1]
 
 (Art. 12)
 
@@ -995,23 +995,23 @@ Anhang 4*[^t-1]*
 
 [^t-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 5*[^t-2]*
+Anhang 5[^t-2]
 
 (Art. 13)
 
 ## Liste «Bonbons»
 
-[^t-2]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-2]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhänge 6*[^t-3]*
+Anhänge 6[^t-3]
 
 (Art. 15 Abs. 1, 20 Bst. a, 27 Bst. a und 39 Abs. 1 Bst. d)
 
 ## Liste HAS
 
-[^t-3]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-3]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 7*[^t-4]*
+Anhang 7[^t-4]
 
 (Art. 15 Abs. 2 und 28)
 
@@ -1019,26 +1019,26 @@ Anhang 7*[^t-4]*
 
 [^t-4]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 8*[^t-5]*
+Anhang 8[^t-5]
 
 (Art. 27 Bst. b und 35 Abs. 2)
 
 ## Liste Gemmotherapie
 
-[^t-5]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-5]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 9*[^t-6]*
+Anhang 9[^t-6]
 
 (Art. 30 Abs. 2 und 31 Abs. 2)
 
 ## Liste der Standardwerke
 
-[^t-6]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-6]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Er kann unter www.swissmedic.ch abgerufen werden.
 
-Anhang 10*[^t-7]*
+Anhang 10[^t-7]
 
 (Art. 31 Abs. 1, 32 und 45 Abs. 2)
 
 ## Liste TAS
 
-[^t-7]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann unter www.swissmedic.ch abgerufen werden.
+[^t-7]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) ([AS 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Er kann unter www.swissmedic.ch abgerufen werden.

@@ -4,11 +4,11 @@ title: "Ordinanza del 7 settembre 2018 dell'Istituto svizzero per gli agenti ter
 short: OMCF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/591"
 language: it
-version: 2019-01-01
+version: 2021-07-01
 adopted: 2018-09-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-591-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2018-591-20210701-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20190101/it"
 
 (Ordinanza sui medicamenti complementari e fitoterapeutici, OMCF)
 
-del 7 settembre 2018 (Stato 1° gennaio 2019)
+del 7 settembre 2018 (Stato 1° luglio 2021)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -987,58 +987,58 @@ Un Master-Dossier sulla fabbricazione della forma farmaceutica deve contenere i 
 - 5\.3 i controlli durante e alla fine del processo di fabbricazione corredati dalla specifica dei limiti di accettabilità e dai risultati delle analisi per la contaminazione microbiologica (test di bioburden) nella soluzione sfusa prima della filtrazione sterile, l’indicazione del metodo d’esame per il controllo dell’integrità dei filtri sterili impiegati e l’indicazione dell’esame della tenuta del contenitore primario riempito;
 - 5\.4 i documenti di convalida delle fasi di lavorazione che non soddisfano le condizioni di riferimento della Farmacopea.
 
-Allegato 4*[^t-1]*
+Allegato 4[^t-1]
 
 (art. 12)
 
 ## Lista «Droghe per tisane»
 
-[^t-1]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
 
-Allegato 5*[^t-2]*
+Allegato 5[^t-2]
 
 (art. 13)
 
 ## Lista «Caramelle»
 
-[^t-2]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-2]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.
 
-Allegato 6*[^t-3]*
+Allegato 6[^t-3]
 
 (art. 15 cpv. 1, 20 lett. a, 27 lett. a e 39 cpv. 1 lett. d)
 
 ## Lista SOA
 
-[^t-3]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-3]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.
 
-Allegato 7*[^t-4]*
+Allegato 7[^t-4]
 
 (art. 15 cpv. 2 e 28)
 
 ## Lista SC
 
-[^t-4]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-4]: Il testo del presente all. non è pubblicato né nella RU né nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
 
-Allegato 8*[^t-5]*
+Allegato 8[^t-5]
 
 (art. 27 lett. b e 35 cpv. 2)
 
 ## Lista gemmoterapia
 
-[^t-5]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-5]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.
 
-Allegato 9*[^t-6]*
+Allegato 9[^t-6]
 
 (art. 30 cpv. 2 e 31 cpv. 2)
 
 ## Lista opere di riferimento
 
-[^t-6]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-6]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.
 
-Allegato 10*[^t-7]*
+Allegato 10[^t-7]
 
 (art. 31 cpv. 1, 32 e 45 cpv. 2)
 
 ## Lista STA
 
-[^t-7]: Il testo del presente allegato non è pubblicato nella RU e nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). È disponibile online all’indirizzo: www.swissmedic.ch.
+[^t-7]: Il testo del presente all. non è pubblicato né nella RU né nella RS ([RU 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). È disponibile online all’indirizzo: www.swissmedic.ch.

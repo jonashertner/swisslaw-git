@@ -4,11 +4,11 @@ title: "Ordonnance du 7 septembre 2018 de l'Institut suisse des produits thérap
 short: OAMédcophy
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/591"
 language: fr
-version: 2019-01-01
+version: 2021-07-01
 adopted: 2018-09-07
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-591-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/591/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-591-20210701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/591/20190101/fr"
 
 (Ordonnance sur les médicaments complémentaires et les phytomédicaments, OAMédcophy)
 
-du 7 septembre 2018 (Etat le 1<sup>er</sup> janvier 2019)
+du 7 septembre 2018 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil de l’Institut suisse des produits thérapeutiques (Conseil de l’institut),
 
@@ -94,7 +94,7 @@ Au sens du chap. 2 de la présente ordonnance, on entend par:
 
 - a. *substances végétales:* plantes, parties de plantes, algues, champignons, lichens entiers, hachés ou coupés, utilisés en l’état, sous forme desséchée ou fraîche, et leurs exsudats n’ayant pas subi de traitements spécifiques;
 - b. *préparations à base de plantes:* préparations obtenues par traitement de substances végétales tel que l’extraction, la distillation, l’expression, le fractionnement, la purification, la concentration ou la fermentation; elles comprennent les substances végétales concassées ou pulvérisées, les teintures, les extraits, les huiles essentielles, les jus pressés et les exsudats traités de substances végétales;
-- c. *«**phytomédicaments à l’usage bien établi»:* phytomédicaments faisant l’objet d’un usage médical en tant que médicament pour l’indication et l’usage revendiqués depuis au moins dix ans dans au moins un pays de l’UE ou de l’AELE et à propos duquel on dispose d’une documentation bibliographique suffisante;
+- c. *«phytomédicaments à l’usage bien établi»:* phytomédicaments faisant l’objet d’un usage médical en tant que médicament pour l’indication et l’usage revendiqués depuis au moins dix ans dans au moins un pays de l’UE ou de l’AELE et à propos duquel on dispose d’une documentation bibliographique suffisante;
 - d. *phytomédicaments d’usage traditionnel:* phytomédicaments utilisés à des fins médicales depuis au moins 30 ans, dont au moins quinze ans dans un pays de l’UE ou de l’AELE.
 
 <sup>3</sup>
@@ -393,7 +393,7 @@ Une demande d’autorisation simplifiée doit être déposée auprès de Swissme
 
 #### Art. 26
 
-**Etiquetage et information sur le médicament**
+**Étiquetage et information sur le médicament**
 
 <sup>1</sup> L’étiquetage et l’information destinée aux patients de médicaments au sens des art. 24 et 25, al. 2, doivent contenir les données énoncées à l’annexe 2. Il est possible de renoncer à une information sur le médicament destinée aux professionnels (information professionnelle). Swissmedic peut toutefois exiger une information professionnelle dans des cas dûment justifiés.
 
@@ -485,7 +485,7 @@ Pour qu’une substance figure dans la liste SAT selon l’annexe 10, il convien
 
 #### Art. 33
 
-**Etiquetage des médicaments asiatiques sans indication**
+**Étiquetage des médicaments asiatiques sans indication**
 
 <sup>1</sup> L’étiquetage des médicaments asiatiques sans indication doit présenter les données énoncées à l’annexe 1*b* OEMéd[^33-1].
 
@@ -524,7 +524,7 @@ Pour définir le champ d’application du médicament, il convient de tenir comp
 
 #### Art. 36
 
-**Etiquetage**
+**Étiquetage**
 
 <sup>1</sup> L’étiquetage de médicaments au sens de l’art. 35 doit présenter les données énoncées à l’annexe 1 OEMéd[^36-1] dans la mesure où elles sont applicables.
 
@@ -667,8 +667,6 @@ L’étiquetage des bonbons et pastilles pour la gorge et contre la toux doit pr
 <sup>1</sup> L’ordonnance du 22 juin 2006 sur les médicaments complémentaires et les phytomédicaments[^47-2] est abrogée.
 
 <sup>2</sup> …[^47-3]
-
-- [tab]
 
 [^47-1]: Erratum du 13 nov. 2018 ([RO 2018 3997](https://fedlex.data.admin.ch/eli/oc/2018/642)).
 [^47-2]: [[RO 2006 3641](https://fedlex.data.admin.ch/eli/oc/2006/559), [2011 1787](https://fedlex.data.admin.ch/eli/oc/2011/273)]
@@ -989,7 +987,7 @@ Un dossier maître relatif à la fabrication de la forme pharmaceutique doit con
 - 5\.3 les contrôles pendant le processus et en fin de processus, y compris la spécification des limites d’acceptation et les résultats des analyses de contamination microbiologique (bioburden) de la solution en vrac avant filtration stérile, indication de la méthode d’analyse appliquée pour contrôler l’intégrité des filtres stériles utilisés et indication de l’analyse de l’étanchéité des récipients primaires remplis;
 - 5\.4 des documents de validation des manipulations qui ne sont pas effectuées dans les conditions standard définies dans la Pharmacopée.
 
-Annexe 4*[^t-1]*
+Annexe 4[^t-1]
 
 (art. 12)
 
@@ -997,23 +995,23 @@ Annexe 4*[^t-1]*
 
 [^t-1]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
-Annexe 5*[^t-2]*
+Annexe 5[^t-2]
 
 (art. 13)
 
 ## Liste «Bonbons»
 
-[^t-2]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-2]: Le texte de la présente annexe n’est publié ni au RO ni au RS ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
-Annexe 6*[^t-3]*
+Annexe 6[^t-3]
 
 (art. 15, al. 1, 20, let. a, 27, let. a, et 39, al. 1, let. d)
 
 ## Liste SHA
 
-[^t-3]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-3]: Le texte de la présente annexe n’est publié ni au RO ni au RS ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
-Annexe 7*[^t-4]*
+Annexe 7[^t-4]
 
 (art. 15, al. 2, et 28)
 
@@ -1021,26 +1019,26 @@ Annexe 7*[^t-4]*
 
 [^t-4]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
-Annexe 8*[^t-5]*
+Annexe 8[^t-5]
 
 (art. 27, let. b, et 35, al. 2)
 
 ## Liste «Gemmothérapie»
 
-[^t-5]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-5]: Le texte de la présente annexe n’est publié ni au RO ni au RS ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
-Annexe 9*[^t-6]*
+Annexe 9[^t-6]
 
 (art. 30, al. 2, et 31, al. 2)
 
 ## Liste des ouvrages de référence
 
-[^t-6]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-6]: Le texte de la présente annexe n’est publié ni au RO ni au RS ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
 
-Annexe 10*[^t-7]*
+Annexe 10[^t-7]
 
 (art. 31, al. 1, 32 et 45, al. 2)
 
 ## Liste SAT
 
-[^t-7]: Le texte de la présente annexe n’est pas publié au RO (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
+[^t-7]: Le texte de la présente annexe n’est publié ni au RO ni au RS ([RO 2021 271](https://fedlex.data.admin.ch/eli/oc/2021/271)). Il est consultable sur Internet, à l’adresse: www.swissmedic.ch.
