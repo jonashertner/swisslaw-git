@@ -4,13 +4,13 @@ number: "108.111"
 title: Verordnung über die Archivierung
 short: ArchV
 language: de
-version: 2017-01-01
-valid_until: 2021-06-30
-version_adopted: 2016-11-09
+version: 2021-07-01
+valid_until: 2025-01-31
+version_adopted: 2021-04-07
 adopted: 2009-11-04
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/108.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1200/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1200/pdf_file"
 
 (ArchV)
 
-vom 04.11.2009 (Stand 01.01.2017)
+vom 04.11.2009 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -43,9 +43,9 @@ beschliesst:
 - b die Aufbewahrung von Unterlagen von Privaten, soweit diese ihnen übertragene öffentlich-rechtliche Aufgaben erfüllen,
 - c die Aufgaben und die Benützung der Bestände des Staatsarchivs.
 
-<sup>2</sup> Die Justiz-, Gemeinde- und Kirchendirektion regelt durch Verordnung die Archivführung
+<sup>2</sup> Die Direktion für Inneres und Justiz regelt durch Verordnung die Archivführung
 
-- a der dezentralen Verwaltung der Justiz-, Gemeinde- und Kirchendirektion,
+- a der dezentralen Verwaltung der Direktion für Inneres und Justiz,
 - b der Gemeinden, ihrer Anstalten und von Körperschaften, die dem Gemeindegesetz vom 16. März 1998 (GG)[^1-1] unterstellt sind.
 
 [^1-1]: BSG 170.11
@@ -250,7 +250,7 @@ beschliesst:
 
 **Fachaufsicht**
 
-<sup>1</sup> Das Staatsarchiv beaufsichtigt die historische Abteilung der Gemeindearchive sowie die Archive der dezentralen kantonalen Verwaltung der Justiz-, Gemeinde- und Kirchendirektion in Zusammenarbeit mit dieser Direktion.
+<sup>1</sup> Das Staatsarchiv beaufsichtigt die historische Abteilung der Gemeindearchive sowie die Archive der dezentralen kantonalen Verwaltung der Direktion für Inneres und Justiz in Zusammenarbeit mit dieser Direktion.
 
 <sup>2</sup> Es ist das kantonale Fachorgan für die Gemeindeaufsicht in Archivsachen.
 

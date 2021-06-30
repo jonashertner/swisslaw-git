@@ -4,13 +4,13 @@ number: "108.111"
 title: "Ordonnance sur l'archivage"
 short: OArch
 language: fr
-version: 2017-01-01
-valid_until: 2021-06-30
-version_adopted: 2016-11-09
+version: 2021-07-01
+valid_until: 2025-01-31
+version_adopted: 2021-04-07
 adopted: 2009-11-04
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/108.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1200/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2265/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1200/pdf_file"
 
 (OArch)
 
-du 04.11.2009 (état au 01.01.2017)
+du 04.11.2009 (état au 01.07.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -43,9 +43,9 @@ arrête:
 - b la conservation des documents de personnes privées dans la mesure où elles accomplissent des tâches de droit public à elles confiées;
 - c les tâches des Archives de l’Etat et la communication de leurs fonds.
 
-<sup>2</sup> La Direction de la justice, des affaires communales et des affaires ecclésiastiques règle par voie d’ordonnance la gestion des archives
+<sup>2</sup> La Direction de l’intérieur et de la justice règle par voie d’ordonnance la gestion des archives
 
-- a de l’administration décentralisée de la Direction de la justice, des affaires communales et des affaires ecclésiastiques,
+- a de l’administration décentralisée de la Direction de l’intérieur et de la justice,
 - b des communes, de leurs établissements et des collectivités soumises à la loi du 16 mars 1998 sur les communes (LCo)[^1-1].
 
 [^1-1]: RSB 170.11
@@ -250,7 +250,7 @@ arrête:
 
 **Surveillance spécialisée**
 
-<sup>1</sup> Les Archives de l’Etat surveillent la section historique des archives communales et les archives de l’administration cantonale décentralisée de la Direction de la justice, des affaires communales et des affaires ecclésiastiques en collaboration avec cette Direction.
+<sup>1</sup> Les Archives de l’Etat surveillent la section historique des archives communales et les archives de l’administration cantonale décentralisée de la Direction de l’intérieur et de la justice en collaboration avec cette Direction.
 
 <sup>2</sup> Elles sont l’organe cantonal spécialisé dans le domaine de la surveillance des archives communales.
 
