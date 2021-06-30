@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 6 dicembre 2013 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -65,19 +65,22 @@ I servizi competenti di fedpol trattano dati segnaletici nell’ambito dei segue
 - d. confronto dei dati segnaletici loro forniti con quelli dei propri schedari;
 - e. comunicazione del risultato del confronto all’autorità richiedente, ad altre autorità di perseguimento penale che indagano nei confronti della stessa persona, nonché ad altre autorità che devono conoscere l’identità della persona in questione per adempiere i loro compiti legali;
 - f. elaborazione di statistiche sui risultati;
-- g. messa a disposizione dei dati dattiloscopici esistenti in favore delle autorità di cui all’articolo 4, qualora esse, nel caso singolo, abbiano richiesto tali dati e i dati siano indispensabili per l’adempimento dei loro compiti.
+- g. messa a disposizione dei dati dattiloscopici esistenti in favore delle autorità di cui all’articolo 4, qualora esse, nel caso singolo, abbiano richiesto tali dati e i dati siano indispensabili per l’adempimento dei loro compiti;
+- h.[^3-1] trasmissione automatizzata dei dati segnalateci di natura biometrica alla parte nazionale del Sistema d’informazione di Schengen (N-SIS).
 
-<sup>2</sup> I servizi competenti di cui al capoverso 1 devono essere accreditati secondo la norma ISO/IEC 17025[^3-1].
+<sup>2</sup> I servizi competenti di cui al capoverso 1 devono essere accreditati secondo la norma ISO/IEC 17025[^3-2].
 
-[^3-1]: ISO/IEC 17025: 2005 Requisiti generali per la competenza dei laboratori di prova e di taratura. La norma può essere consultata gratuitamente presso fedpol od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3-1]: Introdotta dal n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3-2]: ISO/IEC 17025: 2005 Requisiti generali per la competenza dei laboratori di prova e di taratura. La norma può essere consultata gratuitamente presso fedpol od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 #### Art. 3a
 
 **Competenza della SEM**[^3a-1]
 
-In caso di segnalazioni ai fini della non ammissione e del divieto di soggiorno, la SEM può fornire i dati segnaletici di natura biometrica in maniera automatizzata alla parte nazionale del Sistema d’informazione di Schengen (N-SIS) a partire da AFIS o dal sistema d’informazione centrale sulla migrazione (SIMIC).
+In caso di segnalazioni ai fini della non ammissione e del divieto di soggiorno, la SEM può fornire in via automatizzata le impronte digitali e le immagini del viso al N-SIS a partire da AFIS. La persona interessata è informato sull’utilizzazione di questi dati conformemente all’articolo 14 della legge federale del 19 giugno 1992[^3a-2] sulla protezione dei dati (LPD).
 
-[^3a-1]: Introdotto dal n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^3a-1]: Introdotto dal n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nuovo testo giusta il n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 4
 
@@ -104,11 +107,12 @@ Le autorità seguenti possono far confrontare dal servizio incaricato della gest
 
 **Diritti delle persone interessate**
 
-<sup>1</sup> I diritti delle persone interessate, in particolare il diritto d’accesso e il diritto alla rettifica e alla distruzione di dati, sono retti dalle disposizioni della legge federale del 19 giugno 1992[^5-1] sulla protezione dei dati (LPD).
+<sup>1</sup> I diritti delle persone interessante, in particolare il diritto alla rettifica e alla distruzione di dati, sono retti dalle disposizioni della LPD[^5-1].[^5-2]
 
 <sup>2</sup> La persona interessata che intende far valere i propri diritti deve comprovare la propria identità e presentare una domanda scritta a fedpol.
 
 [^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Nuovo testo giusta il n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
 
 #### Art. 6
 

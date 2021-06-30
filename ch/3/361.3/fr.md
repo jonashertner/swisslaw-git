@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (Etat le 1<sup>er</sup> avril 2021)
+du 6 décembre 2013 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -65,19 +65,22 @@ Les services compétents de fedpol traitent des données signalétiques lorsqu�
 - d. comparaison des données signalétiques qui leur sont fournies avec celles qui sont contenues dans leurs propres fichiers;
 - e. communication du résultat de la comparaison à l’autorité requérante, à d’autres autorités de poursuite pénale enquêtant sur la même personne ainsi qu’à d’autres autorités devant connaître l’identité de la personne concernée pour accomplir leurs tâches légales;
 - f. établissement de statistiques sur les résultats;
-- g. mise à disposition des données dactyloscopiques existantes aux autorités mentionnées à l’art. 4 dans la mesure où elles ont demandé ces données dans le cas d’espèce et que ces données sont indispensables à l’accomplissement de leurs tâches.
+- g. mise à disposition des données dactyloscopiques existantes aux autorités mentionnées à l’art. 4 dans la mesure où elles ont demandé ces données dans le cas d’espèce et que ces données sont indispensables à l’accomplissement de leurs tâches;
+- h.[^3-1] transmission automatisée des données signalétiques biométriques à la partie nationale du Système d’information Schengen (N-SIS).
 
-<sup>2</sup> Les services compétents selon l’al. 1 doivent être accrédités conformément à la norme ISO/IEC 17025[^3-1].
+<sup>2</sup> Les services compétents selon l’al. 1 doivent être accrédités conformément à la norme ISO/IEC 17025[^3-2].
 
-[^3-1]: ISO/IEC 17025: 2005 Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais. La norme peut être consultée gratuitement auprès de fedpol ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^3-1]: Introduite par le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3-2]: ISO/IEC 17025: 2005 Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais. La norme peut être consultée gratuitement auprès de fedpol ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
 
 #### Art. 3a
 
 **Compétence du SEM**[^3a-1]
 
-Le SEM peut livrer les données signalétiques biométriques de manière automatisée à la partie nationale du Système d’information Schengen (N-SIS) à partir d’AFIS et du système d’information central sur la migration (SYMIC) du SEM, lors de signalements aux fins de non admission et d’interdiction de séjour.
+Lors de signalements aux fins de non-admission et d’interdiction de séjour, le SEM peut livrer de manière automatisée au N-SIS les empreintes digitales et les images faciales à partir du AFIS. La personne concernée est informée de l’utilisation de ces données conformément à l’art. 14 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^3a-2].
 
-[^3a-1]: Introduit par le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^3a-1]: Introduit par le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nouvelle teneur selon le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 4
 
@@ -104,11 +107,12 @@ Les autorités suivantes peuvent faire comparer des données signalétiques biom
 
 **Droits des personnes concernées**
 
-<sup>1</sup> Les droits des personnes concernées, notamment le droit d’être renseigné et le droit à la rectification ou à la destruction de données, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^5-1].
+<sup>1</sup> Les droits des personnes concernées, notamment le droit d’être renseigné et le droit à la rectification ou à la destruction de données, sont régis par la LPD[^5-1].[^5-2]
 
 <sup>2</sup> Si une personne concernée veut faire valoir son droit, elle doit justifier de son identité et déposer une demande écrite à fedpol.
 
 [^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Nouvelle teneur selon le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
 
 #### Art. 6
 

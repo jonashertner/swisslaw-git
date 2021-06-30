@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 1. April 2021)
+vom 6. Dezember 2013 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -65,19 +65,22 @@ Die zuständigen Dienste von fedpol bearbeiten erkennungsdienstliche Daten bei d
 - d. Vergleich der gelieferten erkennungsdienstlichen Daten mit den geführten Sammlungen;
 - e. Mitteilung des Vergleichsergebnisses an die anfragende Behörde, weitere Strafverfolgungsbehörden, die gegen die gleiche Person ermitteln, sowie andere Behörden, die zur Erfüllung ihrer gesetzlichen Aufgaben die Identität der betreffenden Person kennen müssen;
 - f. Erstellen von Statistiken über die Ergebnisse;
-- g. Zurverfügungstellung der vorhandenen daktyloskopischen Daten an die Behörden nach Artikel 4, soweit diese die Datensätze im Einzelfall angefordert haben und die Daten zur Erfüllung ihrer Aufgabe unentbehrlich sind.
+- g. Zurverfügungstellung der vorhandenen daktyloskopischen Daten an die Behörden nach Artikel 4, soweit diese die Datensätze im Einzelfall angefordert haben und die Daten zur Erfüllung ihrer Aufgabe unentbehrlich sind;
+- h.[^3-1] automatisierte Übermittlung der biometrischen erkennungsdienstlichen Daten an den nationalen Teil des Schengener Informationssystems (N-SIS).
 
-<sup>2</sup> Die zuständigen Dienste nach Absatz 1 müssen gemäss der Norm ISO/IEC 17025[^3-1] akkreditiert sein.
+<sup>2</sup> Die zuständigen Dienste nach Absatz 1 müssen gemäss der Norm ISO/IEC 17025[^3-2] akkreditiert sein.
 
-[^3-1]: ISO/IEC 17025: 2005 Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien. Die Norm kann bei fedpol kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3-1]: Eingefügt durch Ziff. III der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3-2]: ISO/IEC 17025: 2005 Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien. Die Norm kann bei fedpol kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 #### Art. 3a
 
 **Befugnis des SEM**[^3a-1]
 
-Das SEM kann die biometrischen erkennungsdienstlichen Daten bei Ausschreibungen zwecks Einreise- und Aufenthaltsverweigerungen aus dem AFIS und dem Zentralen Migrationsinformationssystem (ZEMIS) dem nationalen Teil des Schengener Informationssystems (N-SIS) automatisch liefern.
+Das SEM kann die Fingerabdrücke und Gesichtsbilder bei Ausschreibungen zur Einreise- und Aufenthaltsverweigerung aus dem AFIS dem N-SIS automatisch liefern. Die betreffende Person wird über die Verwendung dieser Daten informiert in Einklang mit Artikel 14 des Bundesgesetzes vom 19. Juni 1992[^3a-2] über den Datenschutz (DSG).
 
-[^3a-1]: Eingefügt durch Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^3a-1]: Eingefügt durch Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Fassung gemäss Ziff. III der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 4
 
@@ -104,11 +107,12 @@ Folgende Behörden können beim für die Führung des AFIS zuständigen Dienst b
 
 **Rechte der betroffenen Person**
 
-<sup>1</sup> Die Rechte der betroffenen Person, insbesondere das Auskunftsrecht und das Recht auf Berichtigung oder Vernichtung von Daten, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^5-1] über den Datenschutz (DSG).
+<sup>1</sup> Die Rechte der betroffenen Person, insbesondere das Auskunftsrecht und das Recht auf Berichtigung oder Vernichtung von Daten, richten sich nach dem DSG[^5-1].[^5-2]
 
 <sup>2</sup> Macht eine betroffene Person ihr Recht geltend, so hat sie sich über ihre Identität auszuweisen und ein schriftliches Gesuch bei fedpol einzureichen.
 
 [^5-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-2]: Fassung gemäss Ziff. III der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
 
 #### Art. 6
 
@@ -396,7 +400,7 @@ Der für die Führung von AFIS zuständige Dienst löscht aufgrund der Meldung n
 
 Die Verordnung vom 21. November 2001[^24-1] über die Bearbeitung biometrischer erkennungsdienstlicher Daten wird aufgehoben.
 
-[^24-1]: [[AS 2002 171](https://fedlex.data.admin.ch/eli/oc/2002/30), [2004 2577](https://fedlex.data.admin.ch/eli/oc/2004/307)[4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 11, [2006 957](https://fedlex.data.admin.ch/eli/oc/2006/171)[1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 7, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 13]
+[^24-1]: [[AS 2002 171](https://fedlex.data.admin.ch/eli/oc/2002/30); [2004 2577](https://fedlex.data.admin.ch/eli/oc/2004/307), [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 11; [2006 957](https://fedlex.data.admin.ch/eli/oc/2006/171), [1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 7; [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)Ziff. I 13]
 
 #### Art. 25
 
