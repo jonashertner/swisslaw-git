@@ -4,11 +4,11 @@ title: "Ordinanza del 22 agosto 2007 sull'abilitazione e la sorveglianza dei rev
 short: OSRev
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: it
-version: 2020-01-01
+version: 2021-07-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2007-534-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20200101/it"
 
 (Ordinanza sui revisori, OSRev)**[^t-1]**
 
-del 22 agosto 2007 (Stato 1° gennaio 2020)
+del 22 agosto 2007 (Stato 1° luglio 2021)
 
 [^t-1]: [RU 2007 4419](https://fedlex.data.admin.ch/eli/oc/2007/612)
 
@@ -1020,7 +1020,7 @@ Allegato 2*[^t-3]*
 
 ## Elenco delle autorità estere di sorveglianza dei revisori riconosciute
 
-[^t-3]: Introdotto dal n. II dell’O del 1° lug. 2015 ([RU 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Nuovo testo giusta il n. II dell’O del 23 ago. 2017, in vigore dal 1° ott. 2017 ([RU 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
+[^t-3]: Introdotto dal n. II dell’O del 1° lug. 2015 ([RU 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Nuovo testo giusta il n. I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 331](https://fedlex.data.admin.ch/eli/oc/2021/331)).
 
 - Australia Australian Securities and Investments Commission (ASIC)
 - Austria Abschlussprüferaufsichtsbehörde (APAB)
@@ -1029,9 +1029,10 @@ Allegato 2*[^t-3]*
 - Brasile Comissão de Valores Mobiliários (CVM)
 - Bulgaria Commission for Public Oversight of Statutory Auditors (CPOSA)
 - Canada Canadian Public Accountability Board (CPAB)
+- Cina China Securities Regulatory Commission (CSRC)
 - Croazia Croatian Audit Public Oversight Committee (APOC)
-- Corea del Sud Financial Services Commission (FSC), Securities and Futures Commission (SFC) und Financial Supervisory Service (FSS)
-- Danimarca Danish Business Authority (DBA),
+- Corea del Sud Financial Services Commission (FSC), Securities and Futures Commission (SFC) e Financial Supervisory Service (FSS)
+- Danimarca Danish Business Authority (DBA)
 - Finlandia Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)
 - Francia Haut Conseil du commissariat aux comptes (H3C)
 - Germania Abschlussprüferaufsichtsstelle (APAS)
@@ -1066,7 +1067,10 @@ Allegato 2*[^t-3]*
 - Stati Uniti Public Company Accounting Oversight Board (PCAOB)
 - Sudafrica Independent Regulatory Board for Auditors (IRBA)
 - Svezia Swedish Inspectorate of Auditors
-- Taiwan (Taipei cinese) Financial Supervisory Commission (FSC)
+- Taiwan Financial Supervisory Commission (FSC)
+
+(Taipei cinese)
+
 - Tailandia Securities and Exchange Commission (SEC)
-- Turchia Public Oversight Accounting and Auditing Standards Autho rity (POA) und Capital Markets Board of Turkey (CMB)
+- Turchia Public Oversight Accounting and Auditing Standards Authority (POA) e Capital Markets Board of Turkey (CMB)
 - Ungheria Auditors’ Public Oversight Authority (Ministry for National Economy)

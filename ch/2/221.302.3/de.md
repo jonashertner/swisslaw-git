@@ -4,11 +4,11 @@ title: "Verordnung vom 22. August 2007 über die Zulassung und Beaufsichtigung d
 short: RAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: de
-version: 2020-01-01
+version: 2021-07-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2007-534-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20200101/de"
 
 (Revisionsaufsichtsverordnung, RAV)
 
-vom 22. August 2007 (Stand am 1. Januar 2020)
+vom 22. August 2007 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -136,7 +136,7 @@ Ein Revisionsunternehmen verfügt über eine genügende Führungsstruktur zur Ü
 - a. ein internes Qualitätssicherungssystem aufweist;
 - b. die Angemessenheit und die Wirksamkeit der Grundsätze und Massnahmen der Qualitätssicherung überwacht.
 
-<sup>2</sup> …[^9-1]
+<sup>2</sup> ...[^9-1]
 
 [^9-1]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2017, mit Wirkung seit 1. Okt. 2017 ([AS 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
 
@@ -215,9 +215,9 @@ Die Aufsichtsbehörde erteilt Zulassungen an staatlich beaufsichtigte Revisionsu
 - a<sup>bis</sup>.[^11a-7] Personen nach Artikel 1*b* BankG;
 - b. Versicherungsunternehmen gemäss Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^11a-8];
 - c.[^11a-9] Fondsleitungen und Verwalter von Kollektivvermögen gemäss FINIG, Anlagefonds, SICAV, Kommanditgesellschaften für kollektive Kapitalanlagen, SICAF, Depotbanken sowie Vertreterinnen und Vertreter ausländischer kollektiver Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^11a-10];
-- d.[^11a-11] …
+- d.[^11a-11] ...
 
-<sup>2</sup> …[^11a-12]
+<sup>2</sup> ...[^11a-12]
 
 [^11a-1]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^11a-2]: Fassung gemäss Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
@@ -419,9 +419,9 @@ Die Vorschriften zur Unabhängigkeit (Art. 11 RAG und 728 OR) sind bei der Prüf
 
 #### Art. 13
 
-<sup>1</sup> …[^13-1]
+<sup>1</sup> ...[^13-1]
 
-<sup>2</sup> …[^13-2]
+<sup>2</sup> ...[^13-2]
 
 [^13-1]: Aufgehoben durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^13-2]: Aufgehoben durch Ziff. I der V vom 1. Juli 2015, mit Wirkung seit 1. Okt. 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)).
@@ -517,7 +517,7 @@ Der Eintrag von Revisionsunternehmen enthält folgende Angaben:
 - g<sup>bis</sup>.[^20-6] gegebenenfalls Hinweise zur Gewährleistung der Nachvollziehbarkeit der Einträge, insbesondere bei Umstrukturierungen;
 - h. gegebenenfalls einen Hinweis auf die Mitgliedschaft in einem Berufsverband;
 - i. gegebenenfalls spezialgesetzliche Zulassungen im Schweizer Prüfwesen, einschliesslich des Namens und der Adresse der Zulassungsbehörde;
-- j.[^20-7] …
+- j.[^20-7] ...
 
 [^20-1]: Fassung gemäss Anhang Ziff. 2 der V vom 26. Jan. 2011 über die Unternehmens-Identifikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 [^20-2]: Fassung gemäss Ziff. I der V vom 14. Nov. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
@@ -734,7 +734,7 @@ Die Aufsichtsbehörde anerkennt ein Prüfungsreglement, wenn:
 
 <sup>1</sup> Die Direktorin oder der Direktor sowie das Personal der Aufsichtsbehörde müssen von der Revisionsbranche unabhängig sein.
 
-<sup>2</sup> …[^35-1]
+<sup>2</sup> ...[^35-1]
 
 [^35-1]: Aufgehoben durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 
@@ -780,7 +780,7 @@ Die Gebühr pro Zulassung beträgt für:[^38-2]
 - a. natürliche Personen: 800 Franken;
 - b. Revisionsunternehmen: 1500 Franken.
 
-<sup>3</sup> …[^38-3]
+<sup>3</sup> ...[^38-3]
 
 <sup>4</sup> Bei aussergewöhnlichem Aufwand wird die doppelte Gebühr erhoben. Auslagen werden gesondert in Rechnung gestellt.
 
@@ -788,7 +788,7 @@ Die Gebühr pro Zulassung beträgt für:[^38-2]
 
 <sup>6</sup> Stellt ein staatlich beaufsichtigtes Revisionsunternehmen mehrere Zulassungsgesuche gleichzeitig, so werden die Zulassungsgebühren nach Aufwand erhoben.[^38-4]
 
-<sup>7</sup> …[^38-5]
+<sup>7</sup> ...[^38-5]
 
 <sup>8</sup> Prüft ein staatlich beaufsichtigtes Revisionsunternehmen nur Personen nach Artikel 1*b* BankG[^38-6] (Art. 11*a* Abs. 1 Bst. a<sup>bis</sup>), so beträgt die Gebühr 1500 Franken.[^38-7]
 
@@ -814,7 +814,7 @@ Die Gebühr pro Zulassung beträgt für:[^38-2]
 
 <sup>1</sup> Für übrige Verfügungen und Dienstleistungen wird eine Gebühr nach Zeitaufwand erhoben. Der Stundenansatz beträgt 250 Franken.
 
-<sup>2</sup> …[^40-1]
+<sup>2</sup> ...[^40-1]
 
 [^40-1]: Aufgehoben durch Ziff. I der V vom 14. Nov. 2012, mit Wirkung seit 1. Dez. 2012 ([AS 2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715)).
 
@@ -832,7 +832,7 @@ Das Eidgenössische Justiz- und Polizeidepartement kann die Gebührenansätze an
 
 <sup>2</sup> Die Aufsichtsabgabe ergibt sich aus dem Verhältnis der Prüfhonorare des einzelnen Revisionsunternehmens zur Summe aller Prüfhonorare, welche die staatlich beaufsichtigten Revisionsunternehmen verbuchen. Sie beträgt mindestens 10 000 Franken.
 
-<sup>2bis</sup> …[^42-1]
+<sup>2bis</sup> ...[^42-1]
 
 <sup>2ter</sup> Die Aufsichtsabgabe für staatlich beaufsichtigte Revisionsunternehmen, die nur Personen nach Artikel 1*b* BankG[^42-2] prüfen, beträgt mindestens 2500 Franken.[^42-3]
 
@@ -1007,7 +1007,7 @@ II
 
 Die nachfolgenden Verordnungen werden wie folgt geändert:
 
-…[^annex1-lvlu1-2]
+...[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: [[AS 1992 1210](https://fedlex.data.admin.ch/eli/oc/1992/1210_1210_1210)]
 [^annex1-lvlu1-2]: Änderungen können unter [AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)konsultiert werden.
@@ -1018,15 +1018,16 @@ Anhang 2*[^t-2]*
 
 ## Liste der anerkannten ausländischen Revisionsaufsichtsbehörden
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 1. Juli 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Fassung gemäss Ziff. II der V vom 23. Aug. 2017, in Kraft seit 1. Okt. 2017 ([AS 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 1. Juli 2015 ([AS 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 331](https://fedlex.data.admin.ch/eli/oc/2021/331)).
 
 - Australien Australian Securities and Investments Commission (ASIC)
 - Belgien College van Toezicht op de Bedrijfsrevisoren / Collège de Supervision des Réviseurs d’Entreprises (CTBR/CSRE)
 - Bermuda Bermuda Public Accountability Board
 - Brasilien Comissão de Valores Mobiliários (CVM)
 - Bulgarien Commission for Public Oversight of Statutory Auditors (CPOSA)
+- China China Securities Regulatory Commission (CSRC)
 - Dänemark Danish Business Authority (DBA)
-- Deutschland Abschlussprüferaufsichtstelle (APAS)
+- Deutschland Abschlussprüferaufsichtsstelle (APAS)
 - Finnland Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)
 - Frankreich Haut Conseil du commissariat aux comptes (H3C)
 - Griechenland Hellenic Accounting and Auditing Standards Oversight Board (ELTE)
@@ -1062,7 +1063,10 @@ Anhang 2*[^t-2]*
 - Spanien Accounting and Auditing Institute
 - Südafrika Independent Regulatory Board for Auditors (IRBA)
 - Südkorea Financial Services Commission (FSC), Securities and Futures Commission (SFC) und Financial Supervisory Service (FSS)
-- [tab] Taiwan (Chinesisches Taipei) Financial Supervisory Commission (FSC)
+- Taiwan Financial Supervisory Commission (FSC)
+
+(Chinesisches Taipei)
+
 - Thailand Securities and Exchange Commission (SEC)
 - Tschechien Public Audit Oversight Board (RVDA)
 - Türkei Public Oversight Accounting and Auditing Standards Authority (POA) und Capital Markets Board of Turkey (CMB)

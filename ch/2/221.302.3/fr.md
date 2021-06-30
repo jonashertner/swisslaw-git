@@ -4,11 +4,11 @@ title: "Ordonnance du 22 août 2007 sur l'agrément et la surveillance des révi
 short: OSRev
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: fr
-version: 2020-01-01
+version: 2021-07-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-534-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20200101/fr"
 
 (Ordonnance sur la surveillance de la révision, OSRev)
 
-du 22 août 2007 (Etat le 1<sup>er</sup> janvier 2020)
+du 22 août 2007 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral,
 
@@ -1019,10 +1019,10 @@ Annexe 2*[^t-2]*
 
 ## Liste des autorités étrangères de surveillance de la révision reconnues
 
-[^t-2]: Introduite par le ch. II de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Nouvelle teneur selon le ch. II de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 4863](https://fedlex.data.admin.ch/eli/oc/2017/528)).
+[^t-2]: Introduite par le ch. II de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2439](https://fedlex.data.admin.ch/eli/oc/2015/456)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 331](https://fedlex.data.admin.ch/eli/oc/2021/331)).
 
 - Afrique du Sud Independent Regulatory Board for Auditors (IRBA)
-- Allemagne Abschlussprüferaufsichtsstelle (APAS)
+- Allemagne Abschlussprüferaufsichtstelle (APAS)
 - Australie Australian Securities and Investments Commission (ASIC)
 - Autriche Abschlussprüferaufsichtsbehörde (APAB)
 - Belgique College van Toezicht op de Bedrijfsrevisoren / Collège de Supervision des Réviseurs d’Entreprises (CTBR/CSRE)
@@ -1030,10 +1030,12 @@ Annexe 2*[^t-2]*
 - Brésil Comissão de Valores Mobiliários (CVM)
 - Bulgarie Commission for Public Oversight of Statutory Auditors (CPOSA)
 - Canada Canadian Public Accountability Board (CPAB)
-- Corée du sud Financial Services Commission (FSC), Securities and Futures Commission (SFC) et Financial Supervisory Service (FSS)
+- Chine China Securities Regulatory Commission (CSRC)
+- Corée du Sud Financial Services Commission (FSC), Securities and Futures Commission (SFC) et Financial Supervisory Service (FSS)
 - Croatie Croatian Audit Public Oversight Committee (APOC)
 - Danemark Danish Business Authority (DBA)
 - Espagne Accounting and Auditing Institute
+- États-Unis Public Company Accounting Oversight Board (PCAOB)
 - Finlande Finnish Patent and Registration Office, Auditor Oversight Unit (PRH)
 - France Haut Conseil du commissariat aux comptes (H3C)
 - Grèce Hellenic Accounting and Auditing Standards Oversight Board (ELTE)
@@ -1046,15 +1048,14 @@ Annexe 2*[^t-2]*
 - Italie Commissione Nazionale per le Società e la Borsa (CONSOB)
 - Japon Certified Public Accountants and Auditing Oversight Board (CPAAOB)
 - Jersey Jersey Financial Services Commission (JFSC)
-- Lettonie Ministry of Finance, Department of Taxes Administration and
-- Accounting Policy, Audit Oversight Commission
+- Lettonie Ministry of Finance, Department of Taxes Administration and Accounting Policy, Audit Oversight Commission
 - Liechtenstein Finanzmarktaufsicht (FMA)
 - Lituanie Authority of Audit, Accounting, Property Valuation and Insolvency Management (AAAPVIM)
 - Luxembourg Commission de Surveillance du Secteur Financier (CSSF)
 - Malte Ministry of Finance, The Economy & Investment
 - Maurice Financial Reporting Council (FRC)
 - Norvège Finanstilsynet
-- Nouvelle-Zélande Financial Markets Authority (FMA)
+- Nouvelle- Zélande Financial Markets Authority (FMA)
 - Pays-Bas Authority for the Financial Markets (AFM)
 - Pologne Audit Oversight Commission (AOC)
 - Portugal Securities Market Commission
@@ -1065,8 +1066,10 @@ Annexe 2*[^t-2]*
 - Slovaquie Auditing Oversight Authority
 - Slovénie Agency for Public Oversight of Auditing (APOA)
 - Suède Swedish Inspectorate of Auditors
-- [tab] Taïwan (Taipei chinois) Financial Supervisory Commission (FSC)
+- Taïwan Financial Supervisory Commission (FSC)
+
+(Taipei chinois)
+
 - Tchéquie Public Audit Oversight Board (RVDA)
 - Thaïlande Securities and Exchange Commission (SEC)
 - Turquie Public Oversight Accounting and Auditing Standards Authority (POA) et Capital Markets Board of Turkey (CMB)
-- États-Unis Public Company Accounting Oversight Board (PCAOB)
