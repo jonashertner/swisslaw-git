@@ -1,72 +1,77 @@
 ---
 canton: VS
 number: "405.30"
-title: Ordonnance concernant le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel
+title: "Ordonnance concernant le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel"
 short: OTSO
 language: fr
-version: 2015-08-01
-corrected: 2017-09-05
-version_adopted: 2016-03-16
+version: 2021-07-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-23
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/fr/versions/554/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2837/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel (OTSO)
+# Ordonnance concernant le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel
 
-du 20 juin 2012
+(OTSO)
+
+du 20.06.2012 (état 01.07.2021)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l’article 57 de la Constitution du canton du Valais du 8 mars 1907;
+vu l’article 57 de la Constitution du canton du Valais;
 
-vu la loi sur l’instruction publique du 4 juillet 1962;
+vu la loi sur l’instruction publique du 4 juillet 1962 (LIP);
 
-vu les dispositions de la loi sur les communes du 5 février 2004;
+vu les dispositions de la loi sur les communes du 5 février 2004 (LCo);
 
-vu la loi d'application de la loi fédérale sur la formation professionnelle (LALFPr) du 13 juin 2008;
+vu la loi d'application de la loi fédérale sur la formation professionnelle du 13 juin 2008 (LALFPr);
 
-vu la loi sur le cycle d’orientation du 10 septembre 2009;
+vu la loi sur le cycle d’orientation du 10 septembre 2009 (LCO);
 
-vu la loi sur le personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011; vu la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011;
+vu la loi sur le personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011 (LPSO);
+
+vu la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011 (LTSO);
 
 vu la loi concernant la deuxième étape de la mise en œuvre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération, le canton et les communes du 15 septembre 2011;
 
-sur la proposition du Département de l'éducation, de la culture et du sport et du Département des finances, des institutions et de la santé,
+sur la proposition du département en charge de la formation et du département en charge des finances,
 
-ordonne:
+ordonne:[^ingress-1]
 
-### Section 1: Dispositions générales
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction, vise indifféremment l’homme ou la femme.
+
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Champ d'application**
 
-La présente ordonnance régit le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel (ci-après «le personnel») défini dans la loi du 14 septembre 2011.
+<sup>1</sup> La présente ordonnance régit le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel (ci-après: le personnel) défini dans la loi du 14 septembre 2011.
 
 #### Art. 2
 
 **Année scolaire**
 
-Sur le plan salarial, l'année scolaire débute le 1er septembre et se termine le 31 août de l'année civile suivante.
+<sup>1</sup> Sur le plan salarial, l'année scolaire débute le 1<sup>er</sup> septembre et se termine le 31 août de l'année civile suivante.
 
 #### Art. 3
 
 **Indice de stabilisation des traitements**
 
-Les traitements et les autres prestations fixés dans la présente ordonnance correspondent à l'indice des prix à la consommation valable dès le 1er janvier 2010.
+<sup>1</sup> Les traitements et les autres prestations fixés dans la présente ordonnance correspondent à l'indice des prix à la consommation valable dès le 1<sup>er</sup> janvier 2010.
 
-### Section 2: Dispositions administratives
+## 2 Dispositions administratives
 
 #### Art. 4
 
 **Annonce de changements personnels**
 
-Le personnel est tenu d'annoncer immédiatement à la direction d’école et au service compétent du Département de l'éducation, de la culture et du sport (ci-après «le Département») tous les changements concernant sa situation personnelle (notamment changements d'adresse, d’état civil, de situation familiale, formations continues et complémentaires).
+<sup>1</sup> Le personnel est tenu d'annoncer immédiatement à la direction d’école et au service compétent du Département en charge de la formation (ci-après: le Département) tous les changements concernant sa situation personnelle (notamment changements d'adresse, d’état civil, de situation familiale, formations continues et complémentaires).
 
 #### Art. 5
 
@@ -122,21 +127,21 @@ Le personnel est tenu d'annoncer immédiatement à la direction d’école et au
 
 **Déplacement de service**
 
-Le déplacement de service est le déplacement effectué par le personnel, sur ordre du supérieur immédiat, pour se rendre à un lieu d’enseignement autre que le lieu ou les lieux où il a été engagé. Le lieu ou les lieux de travail correspondent à la commune ou association de communes pour la scolarité obligatoire et à un ou plusieurs établissements scolaires pour les degrés secondaires.
+<sup>1</sup> Le déplacement de service est le déplacement effectué par le personnel, sur ordre du supérieur immédiat, pour se rendre à un lieu d’enseignement autre que le lieu ou les lieux où il a été engagé. Le lieu ou les lieux de travail correspondent à la commune ou association de communes pour la scolarité obligatoire et à un ou plusieurs établissements scolaires pour les degrés secondaires.
 
 #### Art. 10
 
-**Montant de l’indemnité**
+**Montant de l'indemnité**
 
-L’indemnité de transport est calculée selon le barème figurant dans le Règlement sur les indemnités de déplacements.
+<sup>1</sup> L’indemnité de transport est calculée selon le barème figurant dans le Règlement sur les indemnités de déplacements.
 
 #### Art. 11
 
 **Evénements particuliers**
 
-Lors d'absences en raison de catastrophes naturelles et/ou de situations extraordinaires, le Conseil d'Etat fixe les règles concernant les absences liées à ces événements.
+<sup>1</sup> Lors d'absences en raison de catastrophes naturelles et/ou de situations extraordinaires, le Conseil d'Etat fixe les règles concernant les absences liées à ces événements.
 
-### Section 3: Maladie, accident, maternité
+## 3 Maladie - Accident - Maternité
 
 #### Art. 12
 
@@ -150,9 +155,15 @@ Lors d'absences en raison de catastrophes naturelles et/ou de situations extraor
 
 **Traitement en cas de maladie**
 
-Pour le personnel engagé pour une durée indéterminée ainsi que pour le personnel engagé pour une durée déterminée supérieure à une année, le droit au traitement en cas de maladie est arrêté conformément à l'article 12 de la loi fixant le traitement du personnel de l'Etat du Valais comme suit:
+<sup>1</sup> Pour le personnel engagé pour une durée indéterminée ainsi que pour le personnel engagé pour une durée déterminée supérieure à une année, le droit au traitement en cas de maladie est arrêté conformément à l'article 12 de la loi fixant le traitement du personnel de l'Etat du Valais comme suit:
 
-Année d'activité Durée de traitement en cas de maladie pendant la 1<sup>re</sup> année six mois pendant la 2<sup>e</sup> année huit mois pendant la 3<sup>e</sup> année douze mois à partir de la 4<sup>e</sup> année 13½ mois
+<table>
+<tr><th>Année d'activité</th><th>Durée de traitement en cas de maladie</th></tr>
+<tr><td>pendant la 1<sup>re</sup> année</td><td>six mois</td></tr>
+<tr><td>pendant la 2<sup>e</sup> année</td><td>huit mois</td></tr>
+<tr><td>pendant la 3<sup>e</sup> année</td><td>douze mois</td></tr>
+<tr><td>à partir de la 4<sup>e</sup> année</td><td>13 1/2 mois</td></tr>
+</table>
 
 #### Art. 14
 
@@ -176,9 +187,9 @@ Année d'activité Durée de traitement en cas de maladie pendant la 1<sup>re</s
 
 <sup>5</sup> Le traitement en cas de maternité n'est pas servi si, au moment de l'accouchement, les rapports de service n'existent plus ou sont suspendus.
 
-<sup>6</sup> Lorsqu'une membre du personnel est engagée pour une durée limitée et que l'accouchement a lieu avant la fin des rapports de service, le traitement en cas de maternité court jusqu'au dernier jour des rapports de service.
+<sup>6</sup> Lorsque le personnel est engagé pour une durée déterminée et que l'accouchement a lieu avant la fin des rapports de service, le traitement en cas de maternité court jusqu'au dernier jour des rapports de service.
 
-<sup>7</sup> La membre du personnel qui bénéficie d'un droit au traitement en cas de maternité de 16 semaines peut demander une anticipation jusqu'à deux semaines au maximum du versement du traitement en cas de congé maternité.
+<sup>7</sup> Le personnel qui bénéficie d'un droit au traitement en cas de maternité de 16 semaines peut demander une anticipation jusqu'à deux semaines au maximum du versement du traitement en cas de congé maternité.
 
 #### Art. 16
 
@@ -186,25 +197,25 @@ Année d'activité Durée de traitement en cas de maladie pendant la 1<sup>re</s
 
 <sup>1</sup> L'allocation de maternité prévue par le droit fédéral (art. 16b ss de la loi fédérale sur les allocations pour perte de gain) revient à l'Etat pendant que celui-ci verse le traitement.
 
-<sup>2</sup> Lorsque le traitement n'est plus versé, le solde éventuel de l'allocation de maternité est perçu directement par le membre du personnel.
+<sup>2</sup> Lorsque le traitement n'est plus versé, le solde éventuel de l'allocation de maternité est perçu directement par le personnel.
 
 #### Art. 17
 
 **Aménagement des conditions de travail en cas de grossesse**
 
-Des conditions de travail particulières peuvent être aménagées pour les femmes enceintes, afin de protéger leur santé et celle de l'enfant.
+<sup>1</sup> Des conditions de travail particulières peuvent être aménagées pour les femmes enceintes, afin de protéger leur santé et celle de l'enfant.
 
 #### Art. 18
 
 **Allocations familiales et allocation sociale**
 
-<sup>1</sup> La gestion des allocations familiales est assurée par la Caisse cantonale d’allocations familiales CIVAF, sur démarche individuelle du personnel.
+<sup>1</sup> La gestion des allocations familiales est assurée par la Caisse cantonale d’allocations familiales CIVAF.
 
-<sup>2</sup> La gestion de l’allocation sociale prévue par l’article 21 de la loi sur le traitement du personnel de l’Etat du Valais est assurée par l’Administration cantonale des finances.
+<sup>2</sup> La gestion de l’allocation sociale prévue par l’article 21 de la loi fixant le traitement des employés de l'Etat du Valais est assurée par l'entité chargée du versement des traitements.
 
 #### Art. 19
 
-**Congé d’adoption**
+**Congé d'adoption**
 
 <sup>1</sup> Le congé d'adoption prévu par l'article 15 alinéa 2 de la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel vaut dans la même mesure pour le personnel masculin et féminin.
 
@@ -222,15 +233,19 @@ Des conditions de travail particulières peuvent être aménagées pour les femm
 
 **Congé paternité**
 
-Un congé paternité d’une durée équivalente à deux fois l’horaire hebdomadaire à plein temps – prorata temporis à son taux d’engagement – est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance en paternité, à prendre dans les deux mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
+<sup>1</sup> Un congé paternité d’une durée équivalente à deux fois l’horaire hebdomadaire à plein temps - prorata temporis à son taux d’engagement - est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance en paternité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
+
+<sup>2</sup> Ces jours peuvent se prendre sous forme de semaines ou par jours isolés en tenant compte dans la mesure du possible de l’organisation scolaire.
+
+<sup>3</sup> L’indemnité de la caisse de compensation appartient à l’employeur qui poursuit le versement du traitement dans sa totalité.
 
 #### Art. 21
 
 **Congés non payés**
 
-<sup>1</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, le personnel a la possibilité, sur préavis de la direction d’école, de bénéficier d’un congé non payé (prorata temporis), après, notamment, un congé maternité, d’adoption ou de paternité. Pour ces types de congé non payé, l’employeur prend à sa charge les cotisations liées à la prévoyance professionnelle (parts employé et employeur) pour la durée du congé non payé, mais au maximum pendant trois mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les six mois suivant l’accouchement ou l’adoption.
+<sup>1</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, le personnel a le droit de bénéficier d’un congé non payé (pro rata temporis), après, notamment, un congé maternité, d’adoption ou de paternité. Pour ces types de congé non payé, l’employeur prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (parts employé et employeur) pour la durée du congé non payé, mais au maximum pendant trois mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les six mois suivant l’accouchement ou l’adoption.
 
-<sup>2</sup> L'application au requérant des articles 2 et ss de la loi fixant le traitement du personnel du 14 septembre 2011 est suspendu pendant la durée du congé non payé. Sont de même suspendues, pendant ce laps de temps, les dispositions de la loi sur la responsabilité des collectivités publiques et de leurs agents du 10 mai 1978.
+<sup>2</sup> L'application au requérant des articles 2 et suivants de la loi fixant le traitement du personnel du 14 septembre 2011 est suspendu pendant la durée du congé non payé. Sont de même suspendues, pendant ce laps de temps, les dispositions de la loi sur la responsabilité des collectivités publiques et de leurs agents du 10 mai 1978.
 
 <sup>3</sup> Le personnel doit entreprendre toutes les démarches nécessaires relatives aux couvertures en matière d'assurances sociales pendant son congé non payé (assurance-accident, éventuellement prévoyance professionnelle, etc.).
 
@@ -242,7 +257,7 @@ Un congé paternité d’une durée équivalente à deux fois l’horaire hebdom
 
 <sup>2</sup> Demeure réservée la situation du personnel enseignant des écoles privées, reconnues et liées à l'Etat par convention.
 
-### Section 4: Dispositions communes
+## 4 Dispositions communes
 
 #### Art. 23
 
@@ -254,11 +269,19 @@ Un congé paternité d’une durée équivalente à deux fois l’horaire hebdom
 
 <sup>3</sup> Le personnel qui commence ou qui cesse son activité en cours d'année scolaire reçoit un traitement proportionnel à la durée de son activité.
 
-<sup>4</sup> Un acompte, calculé de manière forfaitaire et en fonction du taux d’activité, est versé, à la fin août, au personnel qui commence son activité. Le remboursement de cet acompte est déduit du versement du 13e salaire.
+<sup>4</sup> Un acompte, calculé de manière forfaitaire et en fonction du taux d’activité, est versé, à la fin août, au personnel qui commence son activité. Le remboursement de cet acompte est déduit du versement du 13<sup>e</sup> salaire.
+
+#### Art. 23a
+
+**Affiliation à l’institution de prévoyance**
+
+<sup>1</sup> L’assurance pour les prestations de retraite débute le 1<sup>er</sup> janvier de l’année qui suit le 21ème anniversaire.
+
+<sup>2</sup> L’obligation d’affiliation est fondée lorsque le traitement annuel est supérieur au salaire minimum selon l’article 2 de la loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP). Les dispositions du règlement de base de CPVAL s’appliquent.
 
 #### Art. 24
 
-Enseignants titulaires d’un diplôme valable pour un autre niveau d’enseignement
+**Enseignants titulaires d'un diplôme valable pour un autre niveau d'enseignement**
 
 <sup>1</sup> En cas de pénurie avérée, l’autorité d’engagement peut faire appel à des enseignants titulaires d’un diplôme valable pour un autre niveau d’enseignement.
 
@@ -268,25 +291,32 @@ Enseignants titulaires d’un diplôme valable pour un autre niveau d’enseigne
 
 #### Art. 25
 
-**Nouvel engagement**
-
-En cas de nouvel engagement à la suite d'une prise de retraite avant l'âge limite, le traitement est réduit du montant de la rente versée par la caisse de prévoyance proportionnellement au taux d'activité, hormis la rente pont AVS. A la demande de l’Administration cantonale des finances, la caisse de prévoyance fournit les informations nécessaires.
+**…**
 
 #### Art. 26
 
-**Remplacements par les enseignants retraités**
+**Remplacements ou activités de chargés de cours par les enseignants retraités**
 
-<sup>1</sup> Si la durée totale des remplacements effectués pendant une année scolaire est supérieure à quatre semaines effectives (à plein temps), les traitements d'enseignants retraités appelés en remplacement sont réduits, dès la 5e semaine, du montant de la rente versée par la caisse de prévoyance, proportionnellement au taux d'activité, hormis, le cas échéant, la rente pont AVS.
+<sup>1</sup> Les enseignants retraités peuvent être autorisés par le Département à effectuer des remplacements ou à fonctionner comme chargés de cours lorsque les circonstances le justifient.
 
-<sup>2</sup> Dans ces cas, il n'y a pas d'annualisation du traitement.
+<sup>2</sup> Le nombre maximal de périodes admissibles rémunérées pendant une année scolaire est l’équivalent de l’horaire de 8 semaines effectives (à plein temps).
 
 #### Art. 27
 
-**Pénurie de personnel**
+**Prolongation des rapports de service au-delà de l’âge légal AVS**
 
-<sup>1</sup> Les engagements prévus à l'article 13 de la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011 ne peuvent être décidés qu'en cas de pénurie avérée de personnel ou de circonstances exceptionnelles.
+<sup>1</sup> L’autorité compétente et le personnel ayant atteint la limite d'âge AVS en cours d'année scolaire peuvent convenir de poursuivre les rapports de service jusqu'au terme de celle-ci. La demande doit parvenir en principe au début de l’année scolaire mais au plus tard 3 mois avant l’accomplissement de l’âge légal AVS.
 
-<sup>2</sup> En cas d’un besoin particulier (notamment marché du travail tendu, profil recherché) et si l’enseignant donne entière satisfaction par rapport au comportement et aux prestations fournies, l’autorité d’engagement peut prolonger l’engagement d’un employé au-delà de l'âge limite AVS.
+<sup>2</sup> Pour autant que les besoins du service ne s’y opposent pas, l’autorité d’engagement peut prolonger totalement ou partiellement les rapports de service du personnel ayant atteint l’âge légal AVS qui le demande aux conditions cumulatives suivantes:
+
+- a) le personnel remplit à satisfaction son cahier des charges dans tous les champs, et
+- b) les conditions fixées à l’article 12 alinéa 1 de la loi sur le personnel enseignant de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel (LPSO) sont remplies, et
+- c) le personnel n'a pas fait l’objet d’une mesure administrative pendant les 5 dernières années, et
+- d) le personnel a respecté les devoirs généraux liés à sa fonction à l’article 34 de la loi sur le personnel enseignant de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel (LPSO).
+
+<sup>3</sup> La prolongation doit être demandée par le personnel au plus tard au 1<sup>er</sup> mai de l’année administrative au cours de laquelle le personnel atteint l’âge légal AVS.
+
+<sup>4</sup> La prolongation est d’une année administrative. Sur demande motivée du personnel, d’autres prolongations d’une durée d’une année administrative des rapports de service peuvent être prévues.
 
 #### Art. 28
 
@@ -299,9 +329,7 @@ En cas de nouvel engagement à la suite d'une prise de retraite avant l'âge lim
 <sup>3</sup> Pour l'enseignant nouvellement nommé qui bénéficie d'une expérience professionnelle ou autre déjà acquise, l'autorité cantonale compétente fixe le nombre initial de parts d'expérience comme suit:
 
 - a) enseignement ou activité professionnelle antérieure identique ou analogue avec le domaine d'enseignement ou la profession enseignée: jusqu'à deux pour cent par an (maximum 145%);
-
 - b) enseignement ou activité professionnelle antérieure partiellement comparable ou activité antérieure dans le domaine socio-pédagogique: jusqu'à un pour cent par an (maximum 145%);
-
 - c) activité antérieure sans rapport avec l'enseignement ou le monde professionnel ou activité consacrée à l'éducation des enfants ou à des soins à des personnes dépendantes: 0.5 pour cent par an (maximum 145%).
 
 <sup>4</sup> Les années d'activités accomplies dans un autre canton, dans un autre pays ou dans un établissement privé sont prises en considération pour l'attribution des parts d'expérience, conformément à l’alinéa 3 du présent article.
@@ -310,17 +338,56 @@ En cas de nouvel engagement à la suite d'une prise de retraite avant l'âge lim
 
 #### Art. 29
 
-**Réduction d'activité**
+**Réduction d'activité dès le début de l’âge flexible de la retraite**
 
-<sup>1</sup> L'enseignant à temps complet ou avec un taux d’activité d’au moins 50 pour cent peut, à sa demande, être autorisé à réduire son taux d'activité de 20 pour cent au maximum par semaine dans les cinq ans précédant l'âge ordinaire de la retraite fixé par les dispositions régissant les institutions étatiques de prévoyance. Cette réduction s’applique sur une période définie par une année scolaire.
+<sup>1</sup> Le personnel peut être autorisé à réduire son taux d'activité de 20 pour cent au maximum dès le début de l’âge flexible de la retraite, mais au plus tard jusqu’à l’âge légal AVS, pour autant qu’il remplisse les conditions cumulatives suivantes:
 
-<sup>2</sup> Pour l'enseignant à temps partiel, la limite maximale est réduite proportionnellement au taux d'activité.
+- a) avoir un taux d’activité d’au moins 50 pour cent au moment de sa demande, et
+- b) avoir un taux d’activité moyen de 50 pour cent durant les cinq années administratives précédant la mise en application de la réduction.
 
-<sup>3</sup> Le taux d'activité déterminant est celui des cinq dernières années scolaires (moyenne des 5 ans).
+<sup>1<sup>bis</sup></sup> Le taux d’activité à prendre en compte pour le calcul de la réduction est celui de l’année précédant la mise en application de la réduction.
+
+<sup>2</sup> Pour le personnel à temps partiel, la limite maximale de 20 pour cent est réduite proportionnellement au taux d'activité.
+
+<sup>3</sup> …
 
 <sup>4</sup> La réduction d'activité entraîne une réduction correspondante du traitement.
 
-<sup>5</sup> L'Etat prend à sa charge le versement de la totalité des cotisations de prévoyance professionnelle (parts employeur et employé) afférentes à la part d'activité réduite et permettant de maintenir le traitement assuré à son niveau antérieur.
+<sup>5</sup> L'Etat prend à sa charge le versement de la totalité des cotisations ordinaires de prévoyance professionnelle (parts employeur et employé) afférentes à la part d'activité réduite et permettant de maintenir le traitement assuré à son niveau antérieur.
+
+<sup>6</sup> Cette mesure est valable pour une durée ininterrompue maximum de 5 ans, mais au plus tard jusqu’à la fin de l’année scolaire durant laquelle le personnel a atteint l’âge légal AVS.
+
+<sup>7</sup> Cette mesure peut être cumulée avec celles prévues aux articles 29a et 29b de la présente ordonnance.
+
+#### Art. 29a
+
+**Réduction de l’horaire hebdomadaire de travail sans réduction de traitement**
+
+<sup>1</sup> Dès le début de l’âge flexible de la retraite, le personnel dont le taux d’activité est d’au moins 50 pour cent l’année précédant sa réduction, est déchargé par le Département d’une période d’enseignement par semaine.
+
+<sup>2</sup> La réduction s’applique sur une période définie par année scolaire.
+
+<sup>3</sup> Le taux d’activité moyen de l’enseignant durant les cinq années précédant l’année de la réduction doit atteindre 75 pour cent.
+
+<sup>4</sup> Le droit à cette décharge est octroyé jusqu’à la fin de l’année scolaire durant laquelle l’enseignant a atteint l’âge légal AVS.
+
+<sup>5</sup> Les dispositions d’application de cette mesure sont de la compétence du Département.
+
+<sup>6</sup> Cette mesure peut être cumulée avec celles prévues aux articles 29 et 29b de la présente ordonnance.
+
+#### Art. 29b
+
+**Renoncement à une fonction avec reprise d’un poste de niveau inférieur**
+
+<sup>1</sup> Dans le cadre de la mobilité professionnelle, le personnel occupant une fonction telle que définie dans l’alinéa suivant a la possibilité d’y renoncer pour reprendre une fonction de niveau inférieur dans l’enseignement ou une fonction administrative dans la classe de salaire y relative, au plus tôt dès le début de l’année administrative qui suit celle au cours de laquelle l’enseignant a atteint l’âge de la retraite flexible, pour autant qu’un poste soit disponible et qu’il corresponde aux exigences du poste.
+
+<sup>2</sup> Cette mesure concerne les fonctions de directeur des établissements de l’enseignement secondaire du deuxième degré, de chef de section d’une école professionnelle, de conseiller pédagogique de l’enseignement spécialisé, d’inspecteur de l’enseignement secondaire du deuxième degré et d’inspecteur de la scolarité obligatoire.
+
+<sup>3</sup> L'Etat prend à sa charge le versement de la totalité des cotisations ordinaires de prévoyance professionnelle (parts employeur et employé) afférentes au changement de classe salariale et permettant de maintenir le traitement assuré à son niveau antérieur.
+
+<sup>4</sup> La prise en charge selon l’alinéa 3 dure au maximum trois années administratives consécutives, mais au plus tard jusqu’à la fin de l’année administrative au cours de laquelle le personnel a atteint l’âge légal AVS. Si le personnel poursuit son activité professionnelle après ces trois années administratives ou au-delà de la fin de l’année administrative au cours de laquelle il a atteint l’âge légal AVS, cette mesure ne sera plus appliquée et l’ensemble des conditions liées au nouveau poste prendront effet.
+
+<sup>5</sup> Cette mesure peut être cumulée avec celles prévues aux articles 29 et 29a de la présente ordonnance.
 
 #### Art. 30
 
@@ -328,7 +395,7 @@ En cas de nouvel engagement à la suite d'une prise de retraite avant l'âge lim
 
 <sup>1</sup> Afin de compenser partiellement les diminutions des prestations règlementaires de la CPVAL, il peut être versé au personnel qui prend une retraite anticipée une indemnité en capital, lors de son départ.
 
-<sup>2</sup> Celle-ci est calculée à raison d'un montant allant de 20'000 à 35'000 francs pour une anticipation d'au moins une année sur la retraite statutaire. Le principe et le montant sont arrêtés par le Conseil d'Etat principalement selon la situation du marché du travail et l'orientation de la politique du personnel. Une fraction d'année est prise en compte pro rata temporis.
+<sup>2</sup> Celle-ci est calculée à raison d'un montant allant de 20'000 à 35'000 francs pour une anticipation d'au moins une année sur l'âge de référence. Le principe et le montant sont arrêtés par le Conseil d'Etat principalement selon la situation du marché du travail et l'orientation de la politique du personnel. Une fraction d'année est prise en compte pro rata temporis.
 
 <sup>3</sup> Si, durant les cinq dernières années, le taux d'activité n'a pas été en permanence de 100 pour cent, ce montant est réduit proportionnellement au taux d'activité moyen durant cette période. Une réduction d'activité au sens des articles 17 et 18 de la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel n'est pas prise en considération.
 
@@ -338,41 +405,36 @@ En cas de nouvel engagement à la suite d'une prise de retraite avant l'âge lim
 
 **Reconnaissance de la fidélité et départ à la retraite**
 
-La reconnaissance de la fidélité du personnel en activité ou mis au bénéfice de la retraite est réglée par une ordonnance spécifique du Conseil d’Etat.
+<sup>1</sup> La reconnaissance de la fidélité du personnel en activité ou mis au bénéfice de la retraite est réglée par une ordonnance spécifique du Conseil d’Etat.
 
 #### Art. 32
 
 **Jeunesse et Sport**
 
-<sup>1</sup> Sur préavis notamment de la direction de l’école et de l’Office du sport, le chef de service concerné est compétent pour l’octroi de congés payés spéciaux durant les jours de classe jusqu’à concurrence d’un maximum de douze jours par année (pro rata temporis):
+<sup>1</sup> Sur préavis notamment de la direction de l’école et de l’Office du sport, le chef de service concerné est compétent pour l’octroi de congés payés spéciaux durant les jours de classe jusqu’à concurrence d’un maximum de douze jours par année (au prorata du taux d’activité):
 
-- a) pour la participation en qualité de participant aux modules de formation de base et de formation continue de moniteurs Jeunesse et Sport (ci-après J+S) organisé par J+S. Si un même cours a lieu durant les vacances scolaires, ce dernier doit être suivi en priorité par l’enseignant. L’allocation pour perte de gain revient à l’employeur;
-
-- b) pour la participation en qualité de chef de cours, chef de classe, de conférencier ou d’enseignant spécialisé aux modules de formation de base et de formation continue sur mandat de l’Office du sport. L’indemnité versée par J+S revient à l’Etat pour les jours ouvrables. Les frais de déplacement sont versés à l’intéressé;
-
-- c) pour les tâches de surveillance des experts des offres J+S, sur mandat de l’Office du sport. L’indemnité versée par J+S revient à l’Etat pour les jours ouvrables. Les frais de déplacement sont versés à l’intéressé;
-
+- a) pour la participation en qualité de participant aux modules de formation de base et de formation continue de moniteurs Jeunesse et Sport (ci-après J+S) organisé par J+S. Si un même cours a lieu durant les vacances scolaires, ce dernier doit être suivi en priorité par l'enseignant. L'allocation pour perte de gain revient à l'employeur;
+- b) pour la participation en qualité de chef de cours, chef de classe, de conférencier ou d'enseignant spécialisé aux modules de formation de base et de formation continue sur mandat de l'Office du sport. L'indemnité versée par J+S revient à l'Etat pour les jours ouvrables. Les frais de déplacement sont versés à l'intéressé;
+- c) pour les tâches de surveillance des experts des offres J+S, sur mandat de l'Office du sport. L'indemnité versée par J+S revient à l'Etat pour les jours ouvrables. Les frais de déplacement sont versés à l'intéressé;
 - d) pour la fonction de coach ou de moniteur des offres J+S, seulement dans des cas exceptionnels.
 
 <sup>2</sup> La demande de congé payé relative aux lettres a, b, et c doit être présentée à la direction d’école, au moins trois mois à l’avance, et préciser le lieu, la nature, la date et la durée du cours.
 
-<sup>3</sup> En cas de désaccord, la demande de congé Jeunesse et Sport peut être transmise au chef du Département pour décision finale.
+<sup>3</sup> En cas de désaccord, la demande de congé Jeunesse et Sport peut être transmise au chef du Département pour décision.
 
 #### Art. 33
 
 **Engagement comme sapeurs-pompiers**
 
-<sup>1</sup> Aucune déduction n’est opérée sur le traitement d’un enseignant appelé:
+<sup>1</sup> Aucune déduction n’est opérée sur le traitement du personnel appelé:
 
-- a) à participer à un cours cantonal, organisé par l’Etat, pour la formation des instructeurs, des cadres supérieurs des corps de sapeurs-pompiers et des spécialistes;
-
-- b) à effectuer une inspection de matériel et d’installation de lutte contre le feu ordonnée par l’Etat;
-
-- c) à suivre un cours communal de sapeurs-pompiers organisé par la commune de domicile de l’intéressé.
+- a) à participer à un cours cantonal, organisé par l'Etat, pour la formation des instructeurs, des cadres supérieurs des corps de sapeurs-pompiers et des spécialistes;
+- b) à effectuer une inspection de matériel et d'installation de lutte contre le feu ordonnée par l'Etat;
+- c) à suivre un cours communal de sapeurs-pompiers organisé par la commune de domicile de l'intéressé.
 
 <sup>2</sup> Dans le cadre des activités citées à l’alinéa 1, l’indemnité servie par l’autorité organisatrice revient à l’Etat.
 
-<sup>3</sup> Les autres activités (notamment cours OCVS) et la participation à une commission de feu locale doivent faire l’objet d’une demande de congé non payé auprès de la direction d’école. Dans ce cas, l'indemnité servie à l’enseignant lui est acquise.
+<sup>3</sup> Les autres activités (notamment cours OCVS) et la participation à une commission de feu locale doivent faire l’objet d’une demande de congé non payé auprès de la direction d’école. Dans ce cas, l'indemnité servie au personnel lui est acquise.
 
 <sup>4</sup> Dans tous les cas, une photocopie de la convocation doit être adressée à la direction et au service compétent du Département.
 
@@ -388,9 +450,17 @@ La reconnaissance de la fidélité du personnel en activité ou mis au bénéfic
 
 <sup>4</sup> Le congé non payé de longue durée ne peut être cumulé avec les autres congés définis dans la présente ordonnance.
 
-<sup>5</sup> L'application au requérant des articles 2 et ss de la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel est suspendu pendant la durée du congé non payé. Sont de même suspendues, pendant ce laps de temps, les dispositions de la loi sur la responsabilité des collectivités publiques et de leurs agents du 10 mai 1978.
+<sup>5</sup> L'application au requérant des articles 2 et suivants de la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel est suspendu pendant la durée du congé non payé. Sont de même suspendues, pendant ce laps de temps, les dispositions de la loi sur la responsabilité des collectivités publiques et de leurs agents du 10 mai 1978.
 
 <sup>6</sup> Le personnel doit entreprendre toutes les démarches nécessaires relatives aux couvertures en matière d'assurances sociales pendant son congé non payé (assurance-accident, éventuellement prévoyance professionnelle, etc.).
+
+#### Art. 34a
+
+**Congé parental**
+
+<sup>1</sup> Le personnel parent d’enfants de 0 à 12 ans a droit à un congé parental sans traitement correspondant à deux fois l’horaire hebdomadaire au maximum par année scolaire (pro rata temporis).
+
+<sup>2</sup> Pendant cette période, l’Etat du Valais prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (part employé et employeur) pour la durée du congé non payé.
 
 #### Art. 35
 
@@ -398,22 +468,17 @@ La reconnaissance de la fidélité du personnel en activité ou mis au bénéfic
 
 <sup>1</sup> Une demande de congé de formation peut être formulée auprès de l’autorité d’engagement au respect des conditions cumulatives suivantes:
 
-- a) Le congé de formation est en principe d’une durée de dix mois consécutifs. II peut être fractionné en périodes d’une durée minimale de trois mois;
-
-- b) L’enseignant doit être engagé pour une période indéterminée, être au bénéfice de dix années d’activités pédagogiques d’enseignant dans les écoles publiques valaisannes et ne pas se situer à moins de cinq années de l'âge de la retraite ordinaire;
-
-- c) L’enseignant s’engage à rester pendant les trois années qui suivent son retour au service de l’école valaisanne (en cas de non-respect de cette disposition, une pénalité financière prorata temporis est appliquée);
-
-- d) L’enseignant s’engage à présenter au Département, à l’issue du congé de formation, un rapport circonstancié sur ses activités.
+- a) le congé de formation est en principe d'une durée de dix mois consécutifs. II peut être fractionné en périodes d'une durée minimale de trois mois;
+- b) le requérant doit être engagé pour une période indéterminée, être au bénéfice de dix années d’activités pédagogiques d’enseignant dans les écoles publiques valaisannes et ne pas avoir atteint le début de l’âge flexible de la retraite;
+- c) l'enseignant s'engage à rester pendant les trois années qui suivent son retour au service de l'école valaisanne (en cas de non-respect de cette disposition, une pénalité financière pro rata temporis est appliquée), et
+- d) l'enseignant s'engage à présenter au Département, à l'issue du congé de formation, un rapport circonstancié sur ses activités.
 
 <sup>2</sup> Le requérant dépose sa demande au Département une année au moins avant la date présumée du congé.
 
 <sup>3</sup> La demande est accompagnée des documents suivants:
 
 - a) projet détaillé du programme de formation ou des études envisagées;
-
 - b) informations sur les lieux et les institutions de cette formation;
-
 - c) informations sur les résultats attendus.
 
 <sup>4</sup> Le Département peut requérir en tout temps le préavis de l’Institut ou de l'entreprise de formation sur la qualité du projet déposé et de la direction d’école dont dépend le requérant sur le principe du congé. II peut solliciter d’autres avis.
@@ -431,32 +496,60 @@ La reconnaissance de la fidélité du personnel en activité ou mis au bénéfic
 <sup>1</sup> Des congés spéciaux, à prendre en relation avec l’événement, sont accordés au personnel conformément au barème suivant:
 
 - a) décès:
+  - 1\. cinq jours: conjoint, partenaire enregistré, concubin, enfant,
+  - 2\. trois jours: père, mère,
+  - 3\. deux jours: frère, sœur, beau-père, belle-mère;
+- b) décès, si l'ensevelissement a lieu un jour de travail:
+  - 1\. un jour: petit-enfant, grand-parent, arrière-grand-parent, beau-frère, belle-sœur, oncle, tante, neveu, nièce,beau-fils, belle-fille, gendre, bru,
+  - 2\. demi-jour: cousin(e) 1<sup>er</sup> degré, parrain, marraine, filleul(e);
+- c) de mariage civil/partenariat enregistré:
+  - 1\. six jours ouvrables consécutifs à prendre dans les douze mois suivants: son propre mariage civil/partenariat enregistré. Ces jours peuvent être répartis au maximum en deux fois,
+  - 2\. un jour de travail: mariage civil/partenariat enregistré d'un parent jusqu’au deuxième degré inclus à condition que la cérémonie ait lieu un jour de travail,
+  - 3\. …
+- d) déménagement de la résidence principale au maximum une fois par année scolaire: un jour de travail;
+- e) pour les cas particuliers (notamment événement à l'étranger), le chef du Département décide.
 
-cinq jours conjoint; partenaire; enfant trois jours père; mère deux jours frère; sœur; beau-père; belle-mère b) décès, si l'ensevelissement a lieu un jour ouvrable:
+<sup>2</sup> …
 
-un jour petit-enfant; grand-parent;
+<sup>3</sup> Les congés spéciaux d’un jour sont accordés pour autant que l'événement intervienne un jour où l’enseignant donne des cours.
 
-arrière-grand-parent; beau-frère; belle-sœur; oncle; tante; neveu; nièce demi-jour cousin-e 1er degré; parrain; marraine; filleul-e c) de mariage:
+<sup>4</sup> Les concubins sont bénéficiaires des congés spéciaux susmentionnés au même titre que les personnes mariées et les partenaires enregistrés. Sont considérées comme concubins, les personnes vivant en couple sous le même toit.
 
-six jours ouvrables son propre mariage un jour mariage d’un ascendant ou d’un descendant (enfant et petit-enfant, frère ou sœur, beau-frère ou belle-sœur), à condition que la cérémonie ait lieu un jour ouvrable Pour les cas particuliers (notamment événement à l’étranger), le chef du Département décide.
+#### Art. 36a
 
-- d) déménagement de la résidence principale: un jour ouvrable
+**Congé pour la prise en charge de proches**
 
-<sup>2</sup> Pour les cas de maladie ou d'accident d'un proche, le chef de service est compétent pour accorder un congé ne dépassant pas la durée équivalente à un horaire hebdomadaire, pour une seule et même maladie ou accident. Ce nombre de jours est déterminé selon les besoins et la gravité de la maladie ou de l'accident. Toutefois, un maximum d’une durée équivalente au double de l’horaire hebdomadaire par année peut être accordé à un membre du personnel.
+<sup>1</sup> Pour les cas de maladie ou d'accident d'un membre de la famille ou du partenaire, le chef de service est compétent pour accorder un congé ne dépassant pas la durée équivalente à un horaire hebdomadaire, pour une seule et même maladie ou accident. Ce nombre de jours est déterminé selon les besoins et la gravité de la maladie ou de l'accident. Toutefois, un maximum d’une durée équivalente au double de l’horaire hebdomadaire par année scolaire peut être accordé à un enseignant au cas où plusieurs maladies ou accidents d’un ou des proches devaient se présenter au cours d’une même année scolaire.
 
-<sup>3</sup> Pour le personnel engagé à temps partiel, les congés spéciaux sont accordés pour autant que l'événement intervienne un jour de cours.
+#### Art. 36b
 
-<sup>4</sup> Les concubins sont bénéficiaires des congés spéciaux susmentionnés au même titre que les personnes mariées et les partenaires enregistrés. Sont considérées comme «concubins», les personnes vivant en couple sous le même toit.
+**Congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident**
+
+<sup>1</sup> Si le personnel enseignant a droit à une allocation de prise en charge au sens des articles 16n à 16s LAPG parce que son enfant est gravement atteint dans sa santé en raison d’une maladie ou d’un accident, il a droit à un congé de prise en charge de quatorze semaines au plus.
+
+<sup>2</sup> Le congé de prise en charge doit être pris dans un délai-cadre de 18 mois. Le délai-cadre commence à courir le jour pour lequel la première indemnité journalière est versée.
+
+<sup>3</sup> Si les deux parents travaillent, chacun a droit à un congé de prise en charge de sept semaines au plus. Ils peuvent convenir de se partager le congé de manière différente.
+
+<sup>4</sup> Le congé peut être pris en une fois ou sous la forme de journées en tenant compte dans la mesure du possible de l’organisation scolaire.
+
+<sup>5</sup> L’indemnité de la caisse de compensation appartient à l’employeur qui poursuit le versement du traitement dans sa totalité.
+
+<sup>6</sup> Si la caisse de compensation décide que le personnel enseignant ne remplit pas les conditions de l’octroi d’une allocation de prise en charge au sens des articles 16n à 16s LAPG, le congé qu’il aurait pris est considéré comme un congé non payé.
+
+<sup>7</sup> Les articles 16n à 16s LAPG s’appliquent.
 
 #### Art. 37
 
-Enterrement d’un collègue de l’école ou d’un membre de la famille proche d’un collègue de l’école Lors de l’enterrement d'un collègue de l’école ou d'un membre de la famille proche de ce dernier, la direction d’école est responsable de désigner le personnel qui s'y rendra pour autant que l’organisation de l’école n’en soit pas perturbée.
+**Enterrement d'un collègue de l'école ou d'un membre de la famille proche d'un collègue de l'école**
+
+<sup>1</sup> Lors de l’enterrement d'un collègue de l’école ou d'un membre de la famille proche de ce dernier, la direction d’école est responsable de désigner le personnel qui s'y rendra pour autant que l’organisation de l’école n’en soit pas perturbée.
 
 #### Art. 38
 
 **Périodes de congé**
 
-Le Département fixe les plans de scolarité (périodes de congé de l’année scolaire pour les degrés de la scolarité obligatoire et postobligatoire) pour trois ans.
+<sup>1</sup> Le Département fixe les plans de scolarité (périodes de congé de l’année scolaire pour les degrés de la scolarité obligatoire et postobligatoire) pour trois ans.
 
 #### Art. 39
 
@@ -472,11 +565,16 @@ Le Département fixe les plans de scolarité (périodes de congé de l’année 
 
 #### Art. 40
 
-Traitement des remplaçants en cas de maladie, d'accident ou de service militaire obligatoire
+**Traitement des remplaçants en cas de maladie, d'accident ou de service militaire obligatoire**
 
 <sup>1</sup> Dans la mesure où les rapports de travail durant l'année scolaire ont duré plus de neuf semaines effectives, les remplaçants empêchés de travailler, sans faute de leur part, pour cause de maladie, d'accident ou de service militaire obligatoire ont droit aux prestations suivantes:
 
-Durée de l'emploi Durée du droit au traitement jusqu'à 19 semaines effectives trois semaines jusqu'à 28 semaines effectives quatre semaines jusqu'à 38 semaines effectives huit semaines
+<table>
+<tr><th>Durée de l'emploi</th><th>Durée du droit au traitement</th></tr>
+<tr><td>jusqu'à 19 semaines effectives</td><td>trois semaines</td></tr>
+<tr><td>jusqu'à 28 semaines effectives</td><td>quatre semaines</td></tr>
+<tr><td>jusqu'à 38 semaines effectives</td><td>huit semaines</td></tr>
+</table>
 
 <sup>2</sup> En cas d'accident, lorsque le remplaçant est assuré obligatoirement contre les accidents, le traitement ne lui est pas versé, mais il perçoit directement les prestations de l'assurance.
 
@@ -486,7 +584,7 @@ Durée de l'emploi Durée du droit au traitement jusqu'à 19 semaines effectives
 
 <sup>1</sup> En cas de maternité, les remplaçantes bénéficient d'un droit au traitement distinct de celui prévu à l'article 40 de la présente ordonnance, mais accordé aux mêmes conditions et dans la même mesure que celles fixées par cette disposition.
 
-<sup>2</sup> Les remplaçants, quel que soit le taux et la durée du remplacement, bénéficient également du congé d'adoption dont la durée est de ¾ de celle du congé de maternité. Sont applicables au surplus les dispositions de l'article 19 de la présente ordonnance.
+<sup>2</sup> Les remplaçants, quel que soit le taux et la durée du remplacement, bénéficient également du congé d'adoption dont la durée est de 3/4 de celle du congé de maternité. Sont applicables au surplus les dispositions de l'article 19 de la présente ordonnance.
 
 #### Art. 42
 
@@ -498,19 +596,15 @@ Durée de l'emploi Durée du droit au traitement jusqu'à 19 semaines effectives
 
 #### Art. 43
 
-**Réduction du temps d’enseignement pour tâches spéciales**
+**Réduction du temps d'enseignement pour tâches spéciales**
 
 <sup>1</sup> En sus des tâches habituelles effectuées par tous les enseignants et définies dans leur cahier des charges, des tâches dites spéciales impliquent un travail supplémentaire significatif dont la reconnaissance est déterminée par des missions distinctes nécessitant:
 
-- a) une formation personnelle complémentaire requise par le Département
-
-- b) une action pédagogique différenciée au profit des élèves
-
-- c) une action de formation au profit des collègues
-
-- d) un soutien à des projets validés par le Département
-
-- e) un engagement pour l’exécution d’un mandat attribué par le Département
+- a) une formation personnelle complémentaire requise par le Département;
+- b) une action pédagogique différenciée au profit des élèves;
+- c) une action de formation au profit des collègues;
+- d) un soutien à des projets validés par le Département;
+- e) un engagement pour l'exécution d'un mandat attribué par le Département.
 
 <sup>2</sup> La rémunération (temps ou défraiement) des tâches non comprises dans les cahiers des charges est réglée soit au travers du contrat de prestations (tâches de proximité pour la scolarité obligatoire), soit au travers de directives du Département, en se fondant sur les dispositions régissant le personnel de l’Etat du Valais.
 
@@ -522,7 +616,7 @@ Durée de l'emploi Durée du droit au traitement jusqu'à 19 semaines effectives
 
 #### Art. 44
 
-Réduction du temps d’enseignement pour les enseignants en charge de fonction pédagogique particulière
+**Réduction du temps d'enseignement pour les enseignants en charge de fonction pédagogique particulière**
 
 <sup>1</sup> Les enseignants en charge de fonction pédagogique particulière reconnue par le Département (notamment animateur/responsable de disciplines) peuvent être engagés à temps partiel et/ou pour une période déterminée, par le Conseil d’Etat pour des missions ou des mandats particuliers.
 
@@ -530,15 +624,15 @@ Réduction du temps d’enseignement pour les enseignants en charge de fonction 
 
 <sup>3</sup> Les indemnités allouées sont calculées selon le barème figurant dans le Règlement sur les indemnités de déplacement.
 
-### Section 5: Temps de travail
+## 5 Temps de travail
 
 #### Art. 45
 
 **Durée du travail**
 
-<sup>1</sup> La durée hebdomadaire de travail est en moyenne de 42 heures pour le personnel engagé à plein temps et dont le taux d'activité est exprimé en pourcentage (notamment engagement pour tâches spéciales, pour fonctions pédagogiques particulières – prorata temporis pour le personnel engagé à temps partiel).
+<sup>1</sup> La durée hebdomadaire de travail est en moyenne de 42 heures pour le personnel engagé à plein temps et dont le taux d'activité est exprimé en pourcentage (notamment engagement pour tâches spéciales, pour fonctions pédagogiques particulières - prorata temporis pour le personnel engagé à temps partiel).
 
-<sup>2</sup> Les actions liées aux champs «Collaborations et tâches diverses» et «Formation continue» sont de la responsabilité première de l'enseignant. Le directeur, en qualité de supérieur hiérarchique, est tenu de veiller à l'accomplissement de ces champs d'activité par tous les enseignants de son établissement.
+<sup>2</sup> Les actions liées aux champs "Collaborations et tâches diverses" et "Formation continue" sont de la responsabilité première de l'enseignant. Le directeur, en qualité de supérieur hiérarchique, est tenu de veiller à l'accomplissement de ces champs d'activité par tous les enseignants de son établissement.
 
 <sup>3</sup> Pour les tâches relatives au développement général de l'école, le directeur valorise les compétences individuelles et répartit équitablement les tâches entre tous les enseignants.
 
@@ -546,19 +640,18 @@ Réduction du temps d’enseignement pour les enseignants en charge de fonction 
 
 #### Art. 46
 
-Durée du travail pour les conseillers pédagogiques et les inspecteurs Les conseillers pédagogiques et les inspecteurs sont soumis aux dispositions relatives au statut du personnel de l’Etat du Valais, ainsi qu’au règlement sur la gestion des temps au sein de l’Administration cantonale pour ce qui concerne:
+**Durée du travail pour les conseillers pédagogiques et les inspecteurs**
+
+<sup>1</sup> Les conseillers pédagogiques et les inspecteurs sont soumis aux dispositions relatives au statut du personnel de l’Etat du Valais, ainsi qu’au règlement sur la gestion des temps au sein de l’Administration cantonale pour ce qui concerne:
 
 - a) le temps de travail annuel;
-
 - b) l'horaire de travail quotidien;
-
-- c) le droit aux vacances;
-
-- d) et les mesures disciplinaires.
+- c) le droit aux vacances, et
+- d) les mesures administratives.
 
 #### Art. 47
 
-Remplacements assurés par un enseignant touchant le traitement plein
+**Remplacements assurés par un enseignant touchant le traitement plein**
 
 <sup>1</sup> Le maître de l'enseignement primaire ou secondaire, ainsi que les directeurs avec le traitement plein, n'ont droit à aucune rétribution pour les remplacements effectués.
 
@@ -566,13 +659,13 @@ Remplacements assurés par un enseignant touchant le traitement plein
 
 #### Art. 48
 
-**Traitement par période**
+**Traitement du chargé de cours par période**
 
-<sup>1</sup> Dans le cas d’intervention ponctuelle au sein d’une école professionnelle, le chargé de cours bénéficie d’un tarif horaire basé sur la classe de traitement (y compris 13e, parts d'expérience et droit aux vacances) correspondant à ses qualifications.
+<sup>1</sup> Dans le cas d’intervention ponctuelle au sein d’une école professionnelle, le chargé de cours bénéficie d’un tarif horaire basé sur la classe de traitement (y compris 13<sup>e</sup>, parts d'expérience et droit aux vacances) correspondant à ses qualifications.
 
 <sup>2</sup> Il bénéficie des dispositions des articles 40 à 42 de la présente ordonnance.
 
-### Section 6: Enseignement primaire
+## 6 Enseignement primaire
 
 #### Art. 49
 
@@ -580,7 +673,7 @@ Remplacements assurés par un enseignant touchant le traitement plein
 
 <sup>1</sup> Les tarifs des périodes de remplacement sont définis dans l'annexe de la présente ordonnance.
 
-<sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle (y compris la part du 13e salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année. Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année.
+<sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année. Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année.
 
 <sup>3</sup> Si la durée du même remplacement en cours d'année scolaire est égale ou supérieure à 19 semaines effectives, le remplaçant reçoit le traitement fixé par la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011. Le calcul rectificatif se fait à la fin du remplacement.
 
@@ -588,15 +681,9 @@ Remplacements assurés par un enseignant touchant le traitement plein
 
 #### Art. 50
 
-**Réduction d'activités sans réduction de traitement**
+**…**
 
-<sup>1</sup> Le maître âgé de 58 ans révolus avant le début de l'année scolaire peut être déchargé par le Département jusqu'à trois périodes d'enseignement par semaine pour l'école primaire (1re à la 8e année de programme), sans préjudice pour son traitement, pour autant qu'il a exercé sa profession pendant 20 ans au minimum dans les écoles publiques du canton ou dans les écoles privées reconnues et subventionnées par l'Etat et qu'il a assuré un horaire moyen de plus de 75 pour cent durant les cinq dernières années.<sup>1</sup>
-
-<sup>2</sup> Le droit à la décharge peut être octroyé au-delà de la fin de l’année scolaire dans laquelle l’enseignant a ses 62 ans, mais ne peut dépasser, de façon cumulée, l’équivalent de douze périodes.
-
-<sup>3</sup> Les dispositions d'application de cette mesure sont de la compétence du Département.
-
-### Section 7: Enseignement secondaire du premier degré
+## 7 Enseignement secondaire du premier degré
 
 #### Art. 51
 
@@ -604,7 +691,7 @@ Remplacements assurés par un enseignant touchant le traitement plein
 
 <sup>1</sup> Les tarifs des périodes de remplacement sont définis dans l'annexe de la présente ordonnance.
 
-<sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle (y compris la part du 13e salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année. Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année.
+<sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année. Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année.
 
 <sup>3</sup> En principe, les décharges (titulaires, activités parascolaires et culturelles, etc.) accordées aux maîtres remplacés ne sont pas payées aux remplaçants. Dans les cas particuliers, à la demande de la direction, le Service compétent décide si ces périodes de décharge leur sont partiellement ou totalement rétribuées.
 
@@ -614,21 +701,15 @@ Remplacements assurés par un enseignant touchant le traitement plein
 
 #### Art. 52
 
-**Réduction d'activités sans réduction de traitement**
+**…**
 
-<sup>1</sup> Le maître âgé de 58 ans révolus avant le début de l'année scolaire peut être déchargé par le Département jusqu’à trois périodes d'enseignement par semaine pour le cycle d'orientation, sans préjudice pour son traitement, pour autant qu'il a exercé sa profession pendant 20 ans au minimum dans les écoles publiques du canton ou dans les écoles privées reconnues et subventionnées par l'Etat et qu'il a assuré un horaire moyen de plus de 75 pour cent durant les cinq dernières années.
-
-<sup>2</sup> Le droit à la décharge peut être octroyé au-delà de la fin de l’année scolaire dans laquelle l’enseignant a ses 62 ans, mais ne peut dépasser, de façon cumulée, l’équivalent de douze périodes.
-
-<sup>3</sup> Les dispositions d'application de cette mesure sont de la compétence du Département.
-
-### Section 8: Enseignement secondaire du deuxième degré
+## 8 Enseignement secondaire du deuxième degré
 
 #### Art. 53
 
 **Traitements des enseignants non diplômés**
 
-<sup>1</sup> Les enseignants à plein emploi ne remplissant pas les conditions requises en matière de titres et diplômes pour enseigner dans les écoles secondaires du deuxième degré reçoivent les traitements annuels de base (y compris la part du 13e salaire, parts d'expérience et droit aux vacances) fixés dans l'annexe de la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011.
+<sup>1</sup> Les enseignants à plein emploi ne remplissant pas les conditions requises en matière de titres et diplômes pour enseigner dans les écoles secondaires du deuxième degré reçoivent les traitements annuels de base (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances) fixés dans l'annexe de la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011.
 
 <sup>2</sup> Pour la formation professionnelle, les enseignants ne bénéficiant pas des conditions requises en matière de titres et diplômes sont mis au bénéfice d’une classe d’attente. Un délai de trois ans leur est fixé pour répondre aux exigences de formation. En fonction de situations particulières ce délai peut être réexaminé par l’autorité de nomination.
 
@@ -640,7 +721,7 @@ Remplacements assurés par un enseignant touchant le traitement plein
 
 <sup>1</sup> Les tarifs des périodes de remplacement sont définis dans l'annexe de la présente ordonnance.
 
-<sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année (y compris la part du 13e salaire, parts d'expérience et droit aux vacances). Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle (y compris la part du 13e salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année.
+<sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances). Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année.
 
 <sup>3</sup> En principe, les décharges accordées aux maîtres remplacés ne sont pas payées aux remplaçants. Dans les cas particuliers, à la demande de la direction, le Service de l'enseignement ou le Service de la formation et de l'orientation professionnelle décide si ces périodes de décharge sont partiellement ou totalement rétribuées.
 
@@ -652,43 +733,31 @@ Remplacements assurés par un enseignant touchant le traitement plein
 
 #### Art. 55
 
-**Réduction d'activités sans réduction de traitement**
-
-<sup>1</sup> L'enseignant âgé de 58 ans révolus avant le début de l'année scolaire peut être déchargé par le Département jusqu’à trois périodes d'enseignement par semaine pour les écoles secondaires du deuxième degré, sans préjudice pour son traitement, pour autant qu'il fut affilié à une institution de prévoyance du canton du Valais, qu'il a eu son âge ordinaire de la retraite modifié selon les dispositions de l'article 15 de la loi régissant les institutions étatiques de prévoyance du 12 octobre 2006 et qu'il a exercé sa profession pendant 20 ans au minimum dans les écoles publiques du canton ou dans les écoles privées reconnues et subventionnées par l'Etat et qu'il a assuré un horaire moyen de plus de 75 pour cent durant les cinq dernières années.
-
-<sup>2</sup> Le droit à la décharge peut être octroyé au-delà de la fin de l’année scolaire dans laquelle l’enseignant a ses 62 ans, mais ne peut dépasser, de façon cumulée, l’équivalent de douze périodes.
-
-<sup>3</sup> Les dispositions d'application de cette mesure sont de la compétence du Département de l'éducation, de la culture et du sport.
+**…**
 
 #### Art. 56
 
-**Réduction d'activités sans réduction de traitement**
+**…**
 
-<sup>1</sup> L'enseignant âgé de 60 ans révolus avant le début de l'année scolaire et n'ayant pas eu son âge ordinaire de la retraite modifié selon les dispositions de l'article 15 de la loi régissant les institutions étatiques de prévoyance du 12 octobre 2006 peut être déchargé par le Département jusqu’à deux périodes d'enseignement par semaine pour les écoles secondaires du deuxième degré, sans préjudice pour son traitement, pour autant qu'il fut affilié à une institution de prévoyance du canton du Valais, qu'il a exercé sa profession pendant 20 ans au minimum dans les écoles publiques du canton ou dans les écoles privées reconnues et subventionnées par l'Etat et qu'il a assuré un horaire moyen de plus de 75 pour cent durant les cinq dernières années.
-
-<sup>2</sup> Le droit à la décharge peut être octroyé au-delà de la fin de l’année scolaire dans laquelle l’enseignant a ses 62 ans, mais ne peut dépasser, de façon cumulée, l’équivalent de quatre périodes.
-
-<sup>3</sup> Les dispositions d'application de cette mesure sont de la compétence du Département de l'éducation, de la culture et du sport.
-
-### Section 9: Dispositions finales et transitoires
+## 9 Dispositions finales et transitoires
 
 #### Art. 57
 
 **Application**
 
-Le Département de l’éducation, de la culture et du sport et le Département des finances, des institutions et de la santé sont chargés de l'application de la présente ordonnance.
+<sup>1</sup> Le Département, après consultation du Département en charge des finances, est chargé de l'application de la présente ordonnance.
 
 #### Art. 58
 
 **Application par analogie**
 
-Pour tous les cas non prévus dans la présente ordonnance et ne faisant pas l'objet d'ordonnances, de règlements ou de décisions spécifiques, sont applicables par analogie les dispositions de la loi sur le traitement du personnel de l’Etat du Valais du 12 novembre 1982 et l’ordonnance y relative.
+<sup>1</sup> Pour tous les cas non prévus dans la présente ordonnance et ne faisant pas l'objet d'ordonnances, de règlements ou de décisions spécifiques, sont applicables par analogie les dispositions de la loi sur le traitement du personnel de l’Etat du Valais du 12 novembre 1982 et l’ordonnance y relative.
 
 #### Art. 59
 
 **Litiges**
 
-<sup>1</sup> Les difficultés qui peuvent résulter de l'interprétation ou de l'application de la présente ordonnance sont tranchées par le Département de l’éducation, de la culture et du sport, le Département des finances, des institutions et de la santé entendu, sous réserve de recours au Conseil d'Etat dans les 30 jours.
+<sup>1</sup> Le Département décide, le Département en charge des finances entendu, sous réserve de recours au Conseil d'Etat dans les 30 jours.
 
 <sup>2</sup> La procédure de recours est régie par la loi sur la procédure et la juridiction administratives.
 
@@ -700,24 +769,4 @@ Pour tous les cas non prévus dans la présente ordonnance et ne faisant pas l'o
 
 <sup>2</sup> Elle abroge l’ordonnance concernant le traitement du personnel enseignant des écoles primaires, du cycle d’orientation et des écoles secondaires du deuxième degré du 30 septembre 1983.
 
-Ainsi adopté en séance du Conseil d'Etat, à Sion, le 20 juin 2012.
-
-La présidente du Conseil d’Etat: Esther Waeber-Kalbermatten Le chancelier d’Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur
-
-**01.09.2012**
-
-### Ordonnance concernant le traitement du
-
-personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel du 20 juin
-
-### 2012
-
-## Autres notes
-
-- [1] Modification du 16 mars 2016 BO No 13/2016; BO 01.08.2015 No 51/2013; BO No
+RCV BO/Abl. 27/2012
