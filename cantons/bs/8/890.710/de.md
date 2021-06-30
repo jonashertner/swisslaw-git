@@ -4,13 +4,12 @@ number: "890.710"
 title: Verordnung über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen
 short: SoHaV
 language: de
-version: 2016-12-18
-valid_until: 2021-06-30
-version_adopted: 2016-12-13
+version: 2021-07-01
+version_adopted: 2021-04-27
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/890.710"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4008/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Harmonisierung von Sozialleistungen: Verordnung | Sozialhilfe / Sozialbeiträge
 
 (SoHaV)
 
-Vom 25. November 2008 (Stand 18. Dezember 2016)
+Vom 25. November 2008 (Stand 1. Juli 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -227,6 +226,11 @@ beschliesst:
   - (8) Vermögensanteil gemäss § 28 dieser Verordnung;
   - (9) Einkünfte aus freiwillig geleisteten privaten Mitteln (z.B. Ausbildungsbeiträge privater Stiftungen);
   - (10) Pekulium.
+
+<sup>2</sup> Nicht angerechnet werden:
+
+- a) Hilflosenentschädigungen der Sozialversicherungen;
+- b) Überbrückungsleistungen gemäss dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose (ÜLG) vom 19. Juni 2020.
 
 #### § 17
 
