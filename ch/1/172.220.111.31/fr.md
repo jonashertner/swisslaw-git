@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2021-06-08
+version: 2021-07-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210608/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210608-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210608/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210608/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (Etat le 8 juin 2021)
+du 6 décembre 2001 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Département fédéral des finances (DFF),*[^ingress-1]*
 
@@ -447,6 +447,8 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 
 <sup>2</sup> Les heures de travail et de présence obligatoires peuvent être fixées dans la fourchette horaire définie à l’al. 1. Les intérêts des employés sont pris en compte dans la mesure des possibilités de l’exploitation.
 
+<sup>2bis</sup> Le travail peut exceptionnellement être effectué durant le déplacement entre le domicile et le lieu de travail si le contenu du travail, la durée et les conditions de déplacement permettent l’exécution du travail. Le temps de travail effectué à ce titre est alors entièrement pris en compte.[^28-4]
+
 <sup>3</sup> Si la journée de travail dure plus de sept heures, le travail est interrompu pendant au moins 30 minutes. Cette pause compte comme temps de travail lorsque l’employé n’est pas autorisé à quitter sa place de travail.
 
 <sup>4</sup> Les employés peuvent faire une pause de 15 minutes par demi-jour de travail. Les pauses comptent comme temps de travail.
@@ -456,6 +458,7 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^28-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^28-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^28-4]: Introduit par le ch. I de l’O du DFF du 14 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 29
 
@@ -519,14 +522,9 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 
 #### Art. 33
 
-**Travail mobile[^33-2]**[^33-1]
+[^33-1]
 
-### (art. 64 et 64*a* OPers)
-
-En accord avec l’autorité compétente, les employés peuvent effectuer l’ensemble ou une partie de leur travail en dehors de leur place de travail.
-
-[^33-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^33-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 27 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6743](https://fedlex.data.admin.ch/eli/oc/2017/754)).
+[^33-1]: Abrogé par le ch. I de l’O du DFF du 14 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 34
 
@@ -670,7 +668,7 @@ Un congé payé est accordé à l’employé lors des événements suivants:
 
 - a.[^40-2] son mariage (y compris le mariage civil) ou l’enregistrement de son partenariat: 1 jour de travail;
 - b.[^40-3] naissance de son enfant (congé paternité) ou de l’enfant du partenaire enregistré: 10 jours de travail à prendre, en bloc ou séparément, durant les 12 mois après la naissance d’un ou de plusieurs enfants;
-- c.[^40-4] premiers soins et organisation des soins ultérieurs à donner à un membre de la famille ou au partenaire tombé malade ou victime d’un accident: le temps nécessaire, jusqu’à 3 jours de travail par événement;
+- c.[^40-4] prise en charge d’un membre de la famille ou du partenaire tombé malade ou victime d’un accident: le temps nécessaire, jusqu’à 3 jours de travail par événement;
 - d. décès de son conjoint, de son partenaire, de l’un de ses parents ou d’un de ses enfants: 3 jours de travail;
 - e. décès d’un autre parent ou d’un tiers et participation aux obsèques: le temps nécessaire, mais 1 jour de travail au maximum;
 - f. son déménagement: le temps nécessaire, mais 1 jour de travail au maximum;
@@ -693,7 +691,7 @@ Lorsqu’un congé est accordé, et notamment un congé non payé de longue dur�
 [^40-1]: Introduite par le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^40-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 26 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
-[^40-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 27 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6743](https://fedlex.data.admin.ch/eli/oc/2017/754)).
+[^40-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-5]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^40-6]: Introduite par le ch. I de l’O du DFF du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
 [^40-7]: Introduit par le ch. I de l’O du DFF du 25 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
@@ -950,6 +948,18 @@ Sont déduits du remboursement:
 [^51b-2]: Abrogée par le ch. I de l’O du DFF du 30 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6973](https://fedlex.data.admin.ch/eli/oc/2012/847)).
 [^51b-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 26 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 
+#### Art. 51c
+
+**Remboursement des frais liés au travail mobile**[^51c-1]
+
+### (art. 72, al. 2, let. f, OPers)
+
+<sup>1</sup> Les employés auxquels l’employeur ne met plus à disposition un poste de travail dans ses locaux pour la totalité du temps de travail réglementaire contractuel reçoivent un forfait annuel. Ce forfait comprend l’indemnité destinée à couvrir la partie de la location des locaux privés utilisés, les coûts liés au mobilier, à l’augmentation de la consommation d’électricité et aux moyens de communication, et d’autres charges éventuelles.
+
+<sup>2</sup> Pour les employés dont le taux d’occupation est de 100 %, le forfait visé à l’al. 1 s’élève à 200 francs par an pour chaque tranche de 20 % de temps de travail réglementaire annuel effectuée sous forme de travail mobile. Pour les employés à temps partiel, le forfait est réduit en fonction du temps de travail réglementaire effectué.
+
+[^51c-1]: Introduit par le ch. I de l’O du DFF du 14 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+
 #### Art. 52
 
 **Prime de fidélité**
@@ -970,7 +980,7 @@ Si, au moment du versement de la prime de fidélité, l’employé a un taux d�
 
 - a.[^52-3] ...
 - b. 11 jours après dix ou quinze années de travail;
-- c. 22 jours après chaque nouvelle tranche de cinq années de travail;[^52-4]
+- c. 22 jours après chaque nouvelle tranche de cinq années de travail.[^52-4]
 
 <sup>6</sup> Le reste de la prime de fidélité selon l’al. 5 est versé en espèces.[^52-5]
 

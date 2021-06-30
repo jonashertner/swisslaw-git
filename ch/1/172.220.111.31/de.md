@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2021-06-08
+version: 2021-07-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210608/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210608-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210608/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210608/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 8. Juni 2021)
+vom 6. Dezember 2001 (Stand am 1. Juli 2021)
 
-Das Eidgenössische Finanzdepartement (EFD),*[^ingress-1]*
+Das Eidgenössische Finanzdepartement (EFD),[^ingress-1]
 
 gestützt auf Artikel 116 Absatz 1 der Bundespersonalverordnung vom 3. Juli 2001[^ingress-2] (BPV),
 
@@ -118,7 +118,7 @@ Die Mitarbeiterinnen und Mitarbeiter und die direkten Vorgesetzten bestätigen m
 
 [^7-1]: Aufgehoben durch Ziff. I der V des EFD vom 11. Dez. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## 3. Kapitel: Vorzeitiger Altersrücktritt****
+## 3. Kapitel: Vorzeitiger Altersrücktritt
 
 [^chap3-1]
 
@@ -446,6 +446,8 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 
 <sup>2</sup> Innerhalb des Zeitrahmens nach Absatz 1 können die Arbeits- und Ansprechzeiten festgelegt werden. Die Anliegen der Angestellten werden im Rahmen der betrieblichen Möglichkeiten berücksichtigt.
 
+<sup>2bis</sup> Die Arbeit kann ausnahmsweise auf dem Arbeitsweg geleistet werden, wenn der Arbeitsinhalt, die Reisedauer und die Reisebedingungen eine Arbeitserfüllung ermöglichen. Die dabei geleistete Arbeitszeit wird voll angerechnet.[^28-4]
+
 <sup>3</sup> Bei einer täglichen Arbeitszeit von mehr als sieben Stunden wird die Arbeit für mindestens 30 Minuten unterbrochen. Die Pause gilt als Arbeitszeit, wenn die angestellte Person ihren Arbeitsplatz nicht verlassen darf.
 
 <sup>4</sup> Die Angestellten können je halben Arbeitstag eine Pause von 15 Minuten beziehen. Die Pausen gelten als Arbeitszeit.
@@ -455,6 +457,7 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 [^28-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^28-2]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^28-3]: Fassung gemäss Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^28-4]: Eingefügt durch Ziff. I der V des EFD vom 14. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 29
 
@@ -518,14 +521,9 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 
 #### Art. 33
 
-**Mobile Arbeitsformen[^33-2]**[^33-1]
+[^33-1]
 
-### (Art. 64 und 64*a* BPV)
-
-Die Angestellten können im Einvernehmen mit der zuständigen Stelle ihre Arbeit ganz oder teilweise ausserhalb des Arbeitsplatzes leisten.
-
-[^33-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^33-2]: Fassung gemäss Ziff. I der V des EFD vom 27. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6743](https://fedlex.data.admin.ch/eli/oc/2017/754)).
+[^33-1]: Aufgehoben durch Ziff. I der V des EFD vom 14. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 34
 
@@ -669,7 +667,7 @@ Für die folgenden Ereignisse wird bezahlter Urlaub gewährt:
 
 - a.[^40-2] bei der eigenen Heirat, einschliesslich ziviler Trauung, oder bei Eintragung der Partnerschaft: 1 Arbeitstag;
 - b.[^40-3] bei Geburt eines eigenen Kindes (Vaterschaftsurlaub) oder desjenigen des eingetragenen Partners oder der eingetragenen Partnerin: 10 Arbeitstage; diese sind in den ersten zwölf Monaten nach der Geburt eines oder mehrerer Kinder einzeln oder zusammen zu beziehen;
-- c.[^40-4] im Fall einer Erkrankung oder eines Unfalls eines Familienmitglieds, des Lebenspartners oder der Lebenspartnerin für die erste Pflege und die Organisation der weiteren Pflege: die erforderliche Zeit, bis 3 Arbeitstage pro Ereignis;
+- c.[^40-4] für die Betreuung eines Familienmitglieds, des Lebenspartners oder der Lebenspartnerin im Fall einer Erkrankung oder eines Unfalls: die erforderliche Zeit, bis 3 Arbeitstage pro Ereignis;
 - d. beim Tod des Ehegatten oder der Ehegattin, des Lebenspartners oder der Lebenspartnerin, eines Elternteils oder Kindes: 3 Arbeitstage;
 - e. beim Tod anderer Verwandter oder von Dritten zur Teilnahme an der Trauerfeier: die erforderliche Zeit, bis 1 Arbeitstag;
 - f. bei Wohnungswechsel: die erforderliche Zeit, bis 1 Arbeitstag;
@@ -692,7 +690,7 @@ Bei der Gewährung von Urlauben, insbesondere bei längeren unbezahlten Urlauben
 [^40-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^40-2]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^40-3]: Fassung gemäss Ziff. I der V des EFD vom 26. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
-[^40-4]: Fassung gemäss Ziff. I der V des EFD vom 27. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6743](https://fedlex.data.admin.ch/eli/oc/2017/754)).
+[^40-4]: Fassung gemäss Ziff. I der V des EFD vom 14. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-5]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^40-6]: Eingefügt durch Ziff. I der V des EFD vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
 [^40-7]: Eingefügt durch Ziff. I der V des EFD vom 25. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
@@ -950,6 +948,18 @@ Die Vergütung vermindert sich um:
 [^51b-1]: Eingefügt durch Ziff. I der V des EFD vom 8. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
 [^51b-2]: Aufgehoben durch Ziff. I der V des EFD vom 30. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6973](https://fedlex.data.admin.ch/eli/oc/2012/847)).
 [^51b-3]: Fassung gemäss Ziff. I der V des EFD vom 26. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
+
+#### Art. 51c
+
+**Vergütung von Auslagen bei mobilem Arbeiten**[^51c-1]
+
+### (Art. 72 Abs. 2 Bst. f BPV)
+
+<sup>1</sup> Angestellte, denen nicht mehr für die ganze vertragliche Sollarbeitszeit ein Arbeitsplatz in den Räumlichkeiten des Arbeitgebers zur Verfügung gestellt wird, erhalten einen jährlichen Pauschalbetrag. Dieser beinhaltet die Abgeltung des Mietanteils der benutzten privaten Räumlichkeiten sowie der Kosten für Mobiliar, erhöhten Stromverbrauch, Kommunikationsmittel und allfälligen weiteren Aufwand.
+
+<sup>2</sup> Die Pauschale gemäss Absatz 1 beträgt für Angestellte mit einem Beschäftigungsgrad von 100 Prozent je 20 Prozent in Form von mobilem Arbeiten geleisteter jährlicher Sollarbeitszeit 200 Franken pro Jahr. Für teilzeitbeschäftigte Angestellte reduziert sich die Pauschale entsprechend der geleisteten Sollarbeitszeit.
+
+[^51c-1]: Eingefügt durch Ziff. I der V des EFD vom 14. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 52
 
@@ -3656,7 +3666,7 @@ Zuschlag nach Ziffer 4 Absatz 1 Buchstabe c
 
 Der Zuschlag beträgt pro Jahr für Kinder bis zu 12 Jahren 1099 Franken. Für Kinder über 12 Jahre beträgt er 1275 Franken (Indexstand 2001).
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 51*b* Abs. 1)
 
