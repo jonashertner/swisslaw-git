@@ -4,13 +4,13 @@ number: "720.015"
 title: Disposizioni esecutive della legislazione sulle imposte
 short: DELIG
 language: it
-version: 2016-01-01
-corrected: 2016-02-18
-version_adopted: 2016-02-15
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-12-21
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2652/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3226/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,11 +19,11 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2652/pdf_file"
 
 (DELIG)
 
-del 27.11.2007 (stato 01.01.2016)
+del 27.11.2007 (stato 01.07.2021)
 
 emanate dal Governo il 27 novembre 2007
 
-visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta federale diretta (LIFD)[^ingress-1], nonché l'art. 72 cpv. 3 della legge federale del 14 dicembre 1990 sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni (LAID)[^ingress-2], nonché l'art. 73 cpv. 1 della legge federale del 13 ottobre 1965 sull'imposta preventiva (LIP)[^ingress-3], nonché l'art. 15 dell'ordinanza del Consiglio federale del 22 agosto 1967 sul computo globale d'imposta[^ingress-4], nonché l'ordinanza del Consiglio federale del 2 ottobre 1996 concernente la convenzione svizzero-americana di doppia imposizione[^ingress-5], nonché l'art. 45 cpv. 1 della Costituzione del Cantone dei Grigioni del 18 maggio 2003 / 14 settembre 2003[^ingress-6]
+visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta federale diretta (LIFD)[^ingress-1], nonché l'art. 72 cpv. 3 della legge federale del 14 dicembre 1990 sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni (LAID)[^ingress-2], nonché l'art. 73 cpv. 1 della legge federale del 13 ottobre 1965 sull'imposta preventiva (LIP)[^ingress-3], nonché l'art. 15 dell'ordinanza del Consiglio federale del 22 agosto 1967 sul computo di imposte alla fonte estere[^ingress-4], nonché l'ordinanza del Consiglio federale del 2 ottobre 1996 concernente la convenzione svizzero-americana di doppia imposizione[^ingress-5], nonché l'art. 45 cpv. 1 della Costituzione del Cantone dei Grigioni del 18 maggio 2003 / 14 settembre 2003[^ingress-6]
 
 [^ingress-1]: RS [642.11](https://db.clex.ch/link/Bund/642.11/it)
 [^ingress-2]: RS [642.14](https://db.clex.ch/link/Bund/642.14/it)
@@ -44,6 +44,10 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 [^1-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
 
+#### Art. 1a
+
+**…**
+
 #### Art. 2
 
 **2. Unioni di persone**
@@ -54,7 +58,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 2a
 
-**Imposizione secondo il dispendio (art. 15 cpv. 1 lett. a LIG)**
+**3. Imposizione secondo il dispendio (art. 15 cpv. 1 lett. a LIG)**
 
 <sup>1</sup> L'importo minimo conformemente all'articolo 15 capoverso 1 lettera a LIG corrisponde a quello dell'articolo 14 capoverso 3 lettera a LIFD[^2a-1].
 
@@ -130,18 +134,65 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>1</sup> In caso di una sostanza imponibile inferiore a 600 000 franchi il valore locativo proprio imponibile può ammontare al massimo al 30 per cento delle entrate in contanti.
 
+#### Art. 10a
+
+**4. Spese supplementari necessarie per il vitto e l'alloggio (art. 31 cpv. 1 lett. b LIG)**
+
+<sup>1</sup> Per le spese supplementari legate al vitto fuori casa possono essere effettuate le seguenti deduzioni:
+
+- a) 15 franchi per ogni giorno lavorativo, in caso di vitto continuo fuori casa 3200 franchi all'anno;
+- b) 7.50 franchi per ogni giorno lavorativo, in caso di vitto continuo fuori casa 1600 franchi all'anno, se per ridurre il prezzo del vitto il datore di lavoro fornisce facilitazioni.
+
+<sup>2</sup> Le deduzioni indicate nel capoverso 1 valgono anche per il lavoro a turni o notturno.
+
+<sup>3</sup> Per le spese supplementari legate al vitto fuori casa, in caso di soggiorno fuori domicilio possono essere effettuate le seguenti deduzioni:
+
+- a) 15 franchi per pasto principale o 30 franchi per ogni giorno lavorativo, in caso di soggiorno fuori domicilio durante tutto l'anno 6400 franchi all'anno;
+- b) 22.50 franchi per ogni giorno lavorativo, in caso di soggiorno fuori domicilio durante tutto l'anno 4800 franchi all'anno, se per ridurre il prezzo del vitto il datore di lavoro fornisce facilitazioni.
+
+<sup>4</sup> Per le spese supplementari necessarie legate all'alloggio fuori casa possono essere dedotte le spese per una camera, conformemente alle pigioni usuali nel luogo di soggiorno. La deduzione ammonta al massimo a 9600 franchi all'anno.
+
+#### Art. 10b
+
+**5. Giochi in denaro (art. 30 cpv. 1 lett. m e n, art. 36 cpv. 1 lett. n LIG)**
+
+<sup>1</sup> Sono esenti da imposta:
+
+- a) le vincite ai giochi da casinò ammessi secondo la legge federale sui giochi in denaro (LGD) del 29 settembre 2017[^10b-1] realizzate nelle case da gioco, purché tali vincite non provengano da un'attività lucrativa indipendente;
+- b) le singole vincite fino a un milione di franchi ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD;
+- c) le vincite ai giochi di piccola estensione ammessi secondo la LGD;
+- d) le singole vincite alle lotterie e ai giochi di destrezza destinati a promuovere le vendite che secondo l'articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest'ultima, purché non superino il limite di 1000 franchi.
+
+<sup>2</sup> Dalle singole vincite ai giochi in denaro che non sono esentate dall’imposta conformemente al capoverso 1 è dedotto il 5 per cento, ma al massimo 5000 franchi, a titolo di costi delle poste giocate. Dalle singole vincite ai giochi da casinò in linea di cui al capoverso 1 lettera b sono dedotte le poste prelevate durante l'anno fiscale dal conto in linea del giocatore, ma al massimo 25 000 franchi.
+
+[^10b-1]: RS [935.51](https://db.clex.ch/link/Bund/935.51/it)
+
+#### Art. 10c
+
+**6. Prestazioni transitorie per i disoccupati anziani (art. 30 cpv. 1 lett. o LIG)**
+
+<sup>1</sup> Sono esenti da imposta i proventi in base alla legge federale sulle prestazioni transitorie per i disoccupati anziani[^10c-1].
+
+[^10c-1]: RS [837.2](https://db.clex.ch/link/Bund/837.2/it)
+
 #### Art. 11
 
-**4. Gettoni di presenza (art. 31 cpv. 2 LIG)**
+**6. Gettoni di presenza (art. 31 cpv. 2 LIG)**
 
 <sup>1</sup> Per attività accessorie nell'interesse della collettività, a decorrere dal periodo fiscale 2008 fa stato la seguente normativa:
 
 - a) i gettoni di presenza e le entrate analoghe di complessivamente 1000 franchi per anno civile sono esenti da imposte;
 - b) per importi superiori fa stato il 50 per cento, tuttavia al massimo 1000 franchi quale spesa di conseguimento forfettaria. Spese di conseguimento superiori devono essere comprovate nell'insieme.
 
+#### Art. 11a
+
+**7. Ammortamenti e accantonamenti**
+
+<sup>1</sup> Gli ammortamenti di cui all'articolo 32 capoverso 1 lettera a e all'articolo 81 capoverso 1 lettera b LIG, nonché gli accantonamenti di cui all'articolo 32 capoverso 1 lettera b e all'articolo 81 capoverso 1 lettera c LIG vengono disciplinati negli allegati al presente atto normativo.
+
 #### Art. 12
 
-**5. Riserve per spese di ricerca e di sviluppo a) Principio**
+**8. Riserve per spese di ricerca e di sviluppo a) Principio**
 
 <sup>1</sup> Possono essere costituite riserve per la ricerca e lo sviluppo ai sensi dell'articolo 32 capoverso 1 lettera c, rispettivamente dell'articolo 81 capoverso 1 lettera d LIG[^12-1] soltanto se si riferiscono a progetti o prodotti concreti. L'impresa deve comprovare che i relativi esborsi avvengono in un arco di tempo di circa cinque anni.
 
@@ -163,7 +214,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 15
 
-**6. Sostituzioni di beni**
+**9. Sostituzioni di beni**
 
 <sup>1</sup> Su domanda motivata, il periodo di due anni per l'ammortamento del bene sostituito ai sensi dell'articolo 33 capoverso 3, rispettivamente dell'articolo 84 capoverso 3 LIG[^15-1] può essere esteso per un ulteriore anno. L'autorità di tassazione deve decidere in merito entro 60 giorni. Il risultato deve essere comunicato con una decisione, contro la quale si può presentare reclamo e ricorso.
 
@@ -173,7 +224,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 16
 
-**7. Manutenzione di immobili (art. 35 cpv. 2 LIG) a) Deduzione forfettaria**
+**10. Manutenzione di immobili (art. 35 cpv. 2 LIG) a) Deduzione forfetaria**
 
 <sup>1</sup> Per la deduzione di spese di amministrazione e di manutenzione di immobili privati sovraedificati la deduzione forfettaria ammonta:
 
@@ -188,15 +239,15 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 18
 
-**8. Deduzione per i figli: concubinato (art. 38 cpv. 1 lett. d LIG)**
+**11. Deduzione per i figli: concubinato (art. 38 cpv. 1 lett. d LIG)**
 
 <sup>1</sup> Nei rapporti di concubinato con figli comuni si presume che il concubino con il reddito netto maggiore provveda in misura principale al mantenimento dei figli.
 
 #### Art. 19
 
-**9. Tariffa per coniugati**
+**12. Tariffa per coniugati**
 
-<sup>1</sup> Se il figlio vive alternamente nell'economia domestica della madre, rispettivamente del padre e nessun genitore può dedurre gli alimenti per figli, lo sgravio ai sensi dell'articolo 39 capoverso 3 LIG[^19-1] viene di regola concesso al genitore con il reddito superiore.
+<sup>1</sup> Se il figlio vive alternamente nell'economia domestica della madre, rispettivamente del padre e nessun genitore può dedurre gli alimenti per figli, lo sgravio ai sensi dell'articolo 39 capoverso 3 LIG[^19-1] viene di regola concesso al genitore con il reddito netto superiore.
 
 [^19-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
 
@@ -236,9 +287,13 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 ## 2. Le imposte delle persone giuridiche
 
+#### Art. 23a
+
+**…**
+
 #### Art. 24
 
-**1. Società con entrate passive**
+**Società con entrate passive**
 
 <sup>1</sup> Per entrate passive ai sensi dell'articolo 87 capoverso 3 LIG[^24-1] si intendono in particolare i redditi di capitale, le tasse di licenze e di patenti, i canoni d'affitto, nonché i premi di riassicurazione.
 
@@ -250,105 +305,159 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **…**
 
-## 3. Imposte alla fonte (art. 105e LIG)
+## 3. Imposte alla fonte
 
-### 3.1. Lavoratori
+### 3.1. Disposizioni generali
 
 #### Art. 25
 
 **1. Tariffe**
 
-<sup>1</sup> Per la ritenuta d'imposta alla fonte, ai lavoratori indicati di seguito vengono attribuiti i seguenti tariffari:
+<sup>1</sup> Per la ritenuta d'imposta alla fonte, alle categorie indicate di seguito vengono assegnati i seguenti tariffari:
 
 - a) tariffario A: persone celibi o nubili, divorziate, separate legalmente o di fatto o vedove, che non vivono in comunione domestica con figli o persone bisognose di sostentamento;
 - b) tariffario B: coniugi non separati legalmente o di fatto, nel caso in cui uno solo dei coniugi eserciti un'attività lucrativa;
 - c) tariffario C: coniugi non separati legalmente o di fatto che esercitano entrambi un'attività lucrativa;
-- d) tariffario D:
-  - 1\. persone che esercitano un'attività accessoria, per i redditi derivanti da tale attività,
-  - 2\. persone che percepiscono proventi compensativi dall'assicuratore conformemente all'articolo 27, per detti proventi;
-- e) tariffario E: persone con imposizione secondo la procedura di conteggio semplificata di cui all'articolo 39a LIG;
-- f) tariffario F: lavoratori frontalieri secondo l'Accordo del 3 ottobre 1974[^25-1] tra la Svizzera e l'Italia relativo all'imposizione dei lavoratori frontalieri ed alla compensazione finanziaria a favore dei Comuni italiani di confine che risiedono in un Comune italiano di confine e il cui coniuge esercita un'attività lucrativa al di fuori della Svizzera. Per questo tariffario viene inserito il tariffario C; è fatta salva la prova che il coniuge domiciliato all'estero non consegue alcun reddito da attività lucrativa (tariffa B);
+- d) …
+- e) tariffario E: persone con imposizione secondo la procedura di conteggio semplificata di cui all'articolo 99a LIG;
+- f) tariffario F: lavoratori frontalieri secondo l'Accordo del 3 ottobre 1974[^25-1] tra la Svizzera e l'Italia relativo all'imposizione dei lavoratori frontalieri ed alla compensazione finanziaria a favore dei Comuni italiani di confine che risiedono in un Comune italiano di confine e il cui coniuge esercita un'attività lucrativa al di fuori della Svizzera. Per questo tariffario viene inserito il tariffario C; è fatta salva la prova che il coniuge domiciliato all'estero non consegue alcun reddito da attività lucrativa (tariffario B);
+- f<sup>bis</sup>) tariffario G: persone assoggettate all'imposta alla fonte che percepiscono proventi compensativi di cui all'articolo 27a che non sono versati tramite il datore di lavoro;
 - g) tariffario H: persone celibi o nubili, divorziate, separate legalmente o di fatto o vedove, che vivono in comunione domestica con figli o persone bisognose al cui sostentamento provvedono in modo essenziale;
 - h) tariffario L: frontalieri secondo la Convenzione dell'11 agosto 1971[^25-2] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (CDI-D) che adempiono le condizioni richieste per il tariffario A;
 - i) tariffario M: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario B;
 - j) tariffario N: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario C;
-- k) tariffario O: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario D;
+- k) …
 - l) tariffario P: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario H;
+- m) tariffario Q: frontalieri secondo la CDI-D che adempiono le condizioni richieste per il tariffario G.
 
-<sup>2</sup> L'Amministrazione cantonale delle imposte calcola le tariffe mensili secondo il capoverso 1 lettere a - d nonché f - l considerando o meno l'imposta di culto, conformemente alle deduzioni e alle tariffe vigenti per la tassazione ordinaria.
+<sup>1<sup>bis</sup></sup> L'imposta alla fonte (compresa la quota di comune e Chiesa) sui proventi compensativi cui si applica il tariffario G è fissata come segue:
 
-<sup>3</sup> Per la determinazione dell'aliquota, i proventi ordinari vengono convertiti su un anno. Per l'accertamento dell'aliquota d'imposta per la tariffa C si parte da un pari reddito da attività lucrativa dell'assoggettato all'imposta alla fonte e del coniuge; l'Amministrazione cantonale delle imposte limita il reddito dei coniugi.
+- a) 0,0 % per i primi fr. 18 000.–
+- b) 9,8 % per i successivi fr. 6000.–
+- c) 14,0 % per i successivi fr. 12 000.–
+- d) 16,4 % per i successivi fr. 12 000.–
+- e) 17,8 % per i successivi fr. 12 000.–
+- f) 17,1 % per i successivi fr. 30 000.–
+- g) 17,7 % per i successivi fr. 30 000.–
+- h) 19,1 % per i successivi fr. 60 000.–
+- i) 21,2 % per i successivi fr. 640 000.–
+- j) 20,0 % per l'intero reddito imponibile, se questo supera fr. 820 000.–.
 
-<sup>4</sup> Su richiesta dei contribuenti che rientrano nel tariffario A, B, C, F o H e che versano alimenti, nell'applicazione della tariffa l'Amministrazione cantonale delle imposte può concedere al debitore della prestazione imponibile deduzioni per i figli fino all'ammontare degli alimenti, al fine di attenuare i casi di rigore. Nell'anno successivo il debito fiscale effettivo viene determinato d'ufficio nel quadro di una correzione della tariffa.
+<sup>2</sup> L'Amministrazione cantonale delle imposte calcola le tariffe mensili secondo il capoverso 1 lettere a - c, f, g - j nonché l considerando o meno l'imposta di culto, conformemente alle deduzioni e alle tariffe vigenti per la tassazione ordinaria.
+
+<sup>3</sup> Per la determinazione dell'aliquota, i proventi ordinari vengono convertiti su un anno. Per l'accertamento dell'aliquota d'imposta per il tariffario C si parte da un pari reddito da attività lucrativa dell'assoggettato all'imposta alla fonte e del coniuge; l'Amministrazione cantonale delle imposte limita il reddito dei coniugi.
+
+<sup>4</sup> …
 
 [^25-1]: RS [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/it)
 [^25-2]: RS [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/it)
 
 #### Art. 26
 
-**2. Accertamento della deduzione fiscale**
+**2. Calcolo dell'imposta alla fonte**
 
 <sup>1</sup> Per la deduzione fiscale sono determinanti le condizioni al momento del pagamento, del versamento, dell'accreditamento o della compensazione della prestazione imponibile.
 
-<sup>2</sup> Per l'accertamento della deduzione fiscale in caso di attività a titolo principale vengono tenuti in considerazione il salario lordo effettivo per l'intero periodo di salario pari a un mese (30 giorni) più altre prestazioni imponibili pagate, versate, accreditate o compensate durante il relativo periodo di salario. Periodi di salario incompleti (mesi di entrata o di uscita) vengono convertiti su base mensile per la determinazione dell'aliquota.
+<sup>2</sup> …
 
-<sup>3</sup> In caso di stipendio a ore, per il calcolo dell'aliquota d'imposta sono in linea di massima determinanti le ore effettivamente prestate in un mese. Se non viene raggiunto un numero mensile di ore pari a 180 per i singoli periodi di salario, segnatamente per i mesi di entrata o di uscita, la paga oraria per i rispettivi periodi di salario va di regola moltiplicata per 180.
+<sup>3</sup> …
 
-<sup>4</sup> In caso di salario a cottimo, l'aliquota d'imposta viene di regola determinata sulla base del guadagno medio del contribuente oppure secondo la 180esima aliquota della paga oraria usuale nel settore.
+<sup>4</sup> …
 
-<sup>5</sup> In caso di proventi sostitutivi che vengono pagati dal datore di lavoro direttamente ai contribuenti, per determinare la deduzione fiscale i proventi pagati retroattivamente devono essere ripartiti sui rispettivi mesi.
+<sup>5</sup> …
+
+<sup>6</sup> Per quanto riguarda i metodi e la procedura per calcolare l'imposta alla fonte è applicabile la circolare elaborata dall'Amministrazione federale delle contribuzioni in collaborazione con i Cantoni.
+
+<sup>7</sup> Per il calcolo dell'imposta alla fonte l'articolo 66 capoverso 3 LIG vale per analogia.
 
 #### Art. 27
 
-**3. Tariffa per attività lucrativa accessoria**
+**…**
 
-<sup>1</sup> La tariffa per attività lucrativa accessoria è applicata:
+#### Art. 27a
 
-- a) ad attività lucrative accessorie, se per la relativa attività l'orario di lavoro settimanale ammonta a meno di 15 ore e i proventi lordi mensili a meno di 2000 franchi;
-- b) a prestazioni che l'assicuratore non versa in ragione del guadagno assicurato oppure che vengono ad aggiungersi a un eventuale reddito da attività lucrativa.
+**3. Proventi compensativi**
 
-<sup>2</sup> Per il Cantone, il comune e la Chiesa, l'attività lucrativa accessoria soggiace ad imposizione complessiva del nove per cento. L'imposta viene suddivisa come segue:
+<sup>1</sup> Sono assoggettati all'imposta alla fonte tutti i proventi compensativi del reddito da attività lucrativa derivanti da un rapporto di lavoro nonché dall'assicurazione malattie, dall'assicurazione contro gli infortuni, dall'assicurazione per l'invalidità e dall'assicurazione contro la disoccupazione. Ne fanno parte in particolare le indennità giornaliere, le indennità, le rendite parziali e le prestazioni in capitale versate in loro vece.
 
-- a) Cantone e comune ognuno il 45 per cento;
-- b) Chiesa di Stato il 10 per cento.
+#### Art. 27b
+
+**4. Tassazione ordinaria in caso di rimunerazioni dall'estero**
+
+<sup>1</sup> Se riceve rimunerazioni da un debitore della prestazione imponibile non residente in Svizzera, il contribuente è tassato secondo la procedura ordinaria.
+
+<sup>2</sup> Tuttavia il contribuente è assoggettato all'imposta alla fonte in Svizzera se:
+
+- a) la rimunerazione della prestazione è a carico di uno stabilimento d'impresa o di una sede fissa del datore di lavoro in Svizzera;
+- b) viene effettuato un distacco di lavoratori tra società collegate e la società con sede in Svizzera è considerata il datore di lavoro effettivo; o
+- c) un prestatore estero di personale fornisce, in violazione dell'articolo 12 capoverso 2 della legge sul collocamento del 6 ottobre 1989[^27b-1], personale a prestito a un'impresa acquisitrice in Svizzera e la rimunerazione della prestazione è a carico di tale impresa acquisitrice.
+
+[^27b-1]: RS [823.11](https://db.clex.ch/link/Bund/823.11/it)
 
 ### 3.2. Persone fisiche con domicilio o dimora fiscale in svizzera
 
 #### Art. 28
 
-**1. Tassazione ordinaria successiva**
+**1. Tassazione ordinaria ulteriore obbligatoria (Art. 105a LIG)**
 
-<sup>1</sup> Una tassazione ordinaria successiva ai sensi dell'articolo 105a LIG viene eseguita, se i proventi lordi durante un anno civile superano i 120 000 franchi.
+<sup>1</sup> Una tassazione ordinaria ulteriore ai sensi dell'articolo 105a LIG viene eseguita se i proventi lordi da attività lucrativa dipendente nel corso di un anno fiscale ammontano almeno a 120 000 franchi.
+
+<sup>2</sup> Sono considerati reddito lordo da attività lucrativa dipendente i proventi di cui all'articolo 99 capoverso 1<sup>bis</sup> lettere a e b LIG.
+
+<sup>3</sup> I coniugi con doppio reddito sono tassati secondo la procedura ordinaria ulteriore se il reddito lordo di uno di essi raggiunge o supera l'importo di cui al capoverso 1 nel corso di un anno fiscale.
+
+<sup>4</sup> La tassazione ordinaria ulteriore è mantenuta sino alla fine dell'assoggettamento all'imposta alla fonte, anche se il reddito lordo è temporaneamente o durevolmente inferiore all'importo minimo di cui al capoverso 1, se i coniugi divorziano oppure si separano legalmente o di fatto.
+
+<sup>5</sup> In caso di assoggettamento inferiore a un anno, l'importo minimo è calcolato secondo l'articolo 66 capoverso 3 LIG.
+
+#### Art. 28a
+
+**2. Tassazione ordinaria ulteriore su richiesta (art. 105a<sup>bis</sup> LIG)**
+
+<sup>1</sup> Una volta presentata, la richiesta ai sensi dell'articolo 105a<sup>bis</sup> LIG non può più essere ritirata.
+
+<sup>2</sup> Ai coniugi divorziati o separati legalmente o di fatto che su richiesta sono stati tassati secondo la procedura ordinaria ulteriore di cui all'articolo 105a<sup>bis</sup> LIG si applica la tassazione ordinaria ulteriore fino al termine dell'assoggettamento all'imposta alla fonte.
+
+#### Art. 28b
+
+**3. Disciplinamento dei casi di rigore**
+
+<sup>1</sup> Su richiesta delle persone assoggettate all'imposta alla fonte che versano alimenti di cui all'articolo 36 capoverso 1 lettera c LIG e a cui si applica il tariffario A, B, C o H, al fine di attenuare i casi di rigore nel calcolo dell'imposta alla fonte l'autorità fiscale può riconoscere deduzioni per i figli al massimo fino all'ammontare degli alimenti.
+
+<sup>2</sup> Se nell'applicare uno di questi tariffari sono stati presi in considerazione gli alimenti, la tassazione ordinaria ulteriore è effettuata soltanto se la persona assoggettata all'imposta alla fonte ne fa richiesta. In caso di richiesta di tassazione ordinaria ulteriore, questa è effettuata fino al termine dell'assoggettamento all'imposta alla fonte.
 
 #### Art. 29
 
-**2. Cambiamento tra imposta alla fonte e tassazione ordinaria**
+**4. Passaggio dall'imposizione alla fonte alla tassazione ordinaria**
 
-<sup>1</sup> Se un contribuente solo, finora tassato alla fonte, ottiene un permesso di domicilio, dall'inizio del mese successivo viene tassato secondo la procedura ordinaria. Se è sposato, a partire dallo stesso momento viene tassato unitamente al coniuge.
+<sup>1</sup> Una persona precedentemente assoggettata all'imposta alla fonte è tassata secondo la procedura ordinaria per l'intero periodo fiscale se:
 
-<sup>2</sup> Se un contribuente finora tassato alla fonte sposa una persona di cittadinanza svizzera oppure titolare di un permesso di domicilio, dall'inizio del mese successivo viene tassato secondo la procedura ordinaria.
+- a) ottiene il permesso di domicilio;
+- b) sposa una persona di cittadinanza svizzera o titolare di un permesso di domicilio.
 
-<sup>3</sup> Il divorzio, nonché la separazione di fatto o di diritto dal coniuge di cittadinanza svizzera o titolare di un permesso di domicilio comporta, per un lavoratore straniero sprovvisto di permesso di domicilio, il ritorno all'imposizione alla fonte dall'inizio del mese successivo.
-
-#### Art. 30
-
-**3. Tassazione ordinaria in caso di prestazioni dall'estero**
-
-<sup>1</sup> Se il contribuente riceve prestazioni da un debitore all'estero e queste non sono prese a carico da uno stabilimento d'impresa o da un istituto con sede fissa in Svizzera, è tassato secondo la procedura ordinaria.
-
-#### Art. 31
-
-**4. Correzione della tariffa**
-
-<sup>1</sup> I contribuenti secondo l'articolo 98 capoverso 1 lettera a LIG, nonché i quasi residenti secondo l'articolo 98 capoverso 1 lettera b possono, per quanto non sia applicata alcuna aliquota fissa d'imposta, presentare domanda scritta di correzione della tariffa all'Amministrazione cantonale delle imposte entro la fine di marzo dell'anno civile che segue la scadenza della prestazione. In questo modo, nella misura in cui non siano già considerati nella tariffa, possono essere fatti valere deduzioni connesse al reddito, spese professionali aumentate, interessi passivi, contributi di mantenimento, contributi alla previdenza vincolata, spese per malattia e infortunio, spese per invalidità, nonché spese per la custodia dei figli.
-
-<sup>2</sup> Non viene eseguita alcuna correzione della tariffa per contribuenti con una tassazione ordinaria successiva.
+<sup>2</sup> L'imposta alla fonte non è più dovuta a decorrere dal mese successivo al rilascio del permesso di domicilio o al matrimonio. L'imposta trattenuta alla fonte è computata senza interessi.
 
 <sup>3</sup> …
 
-<sup>4</sup> Per il resto, per la procedura fa stato l'articolo 42 per analogia.
+#### Art. 29a
 
-### 3.3. Persone fisiche e giuridiche senza domicilio o dimora fiscale in svizzera
+**5. Passaggio dalla tassazione ordinaria all'imposizione alla fonte**
+
+<sup>1</sup> Se nel corso di un periodo fiscale un reddito è dapprima tassato secondo la procedura ordinaria e successivamente assoggettato all'imposta alla fonte, il contribuente è tassato secondo la procedura ordinaria ulteriore per tutto l'anno e fino al termine dell'assoggettamento all'imposta alla fonte.
+
+<sup>2</sup> Il lavoratore straniero sprovvisto di permesso di domicilio è assoggettato nuovamente all'imposta alla fonte a contare dall'inizio del mese successivo al divorzio o alla separazione legale o di fatto da un coniuge di cittadinanza svizzera o titolare di un permesso di domicilio.
+
+<sup>3</sup> Eventuali pagamenti anticipati effettuati prima del passaggio all'imposizione alla fonte e le imposte trattenute alla fonte sono computati.
+
+#### Art. 30
+
+**…**
+
+#### Art. 31
+
+**…**
+
+### 3.3. Persone fisiche senza domicilio o dimora fiscale in Svizzera e persone giuridiche senza sede o amministrazione effettiva in Svizzera
 
 #### Art. 32
 
@@ -358,44 +467,67 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 33
 
-**2. Valutazione di prestazioni in natura**
+**…**
 
-<sup>1</sup> Le prestazioni in natura vengono valutate secondo le aliquote vigenti per l'assicurazione federale per la vecchiaia e per i superstiti.
+#### Art. 33a
+
+**2. Tassazione ordinaria ulteriore in caso di quasi residenza (art. 105a<sup>ter</sup> LIG)**
+
+<sup>1</sup> Le persone assoggettate all'imposta secondo l'articolo 8 capoverso 1 LIG i cui proventi lordi mondiali, compresi i proventi lordi del coniuge, sono di regola imponibili in Svizzera almeno nella misura del 90 per cento (quasi residenza) possono presentare all'autorità fiscale competente entro il 31 marzo dell'anno successivo all'anno fiscale una richiesta scritta di tassazione ordinaria ulteriore. Una volta presentata, la richiesta ai sensi dell'articolo 105a<sup>ter</sup> LIG non può più essere ritirata.
+
+<sup>2</sup> Nell'ambito della procedura di tassazione l'autorità fiscale verifica se la persona assoggettata all'imposta alla fonte nell'anno fiscale soddisfa le condizioni della quasi residenza. A tal fine, determina secondo gli articoli 16 - 19 e 21 - 29 LIG dapprima i proventi lordi mondiali e in seguito la quota dei proventi lordi imponibili in Svizzera.
+
+#### Art. 33b
+
+**3. Tassazione ordinaria ulteriore d'ufficio (art. 105a<sup>quater</sup> LIG)**
+
+<sup>1</sup> Le competenti autorità fiscali cantonali possono procedere d'ufficio a una tassazione ordinaria ulteriore se dagli atti emerge il fondato sospetto che si è in presenza di una situazione estrema a favore o a sfavore del contribuente.
+
+<sup>2</sup> Per l'avvio di una procedura di tassazione ordinaria ulteriore d'ufficio si applica l'articolo 125 LIG sulla prescrizione del diritto di tassare.
 
 #### Art. 34
 
-**3. Artisti, ecc.**
+**4. Artisti, sportivi e conferenzieri (art. 100 LIG)**
 
-<sup>1</sup> Ai fini della determinazione dell'aliquota d'imposta, per i gruppi, la cui quota di ogni membro non è nota o è difficile da accertare, viene calcolato il reddito lordo medio pro capite.
+<sup>1</sup> Sono considerati introiti giornalieri di artisti, sportivi e conferenzieri domiciliati all'estero i proventi lordi di cui all'articolo 100 capoverso 5 LIG, divisi per il numero dei giorni di rappresentazione e di prova. Fanno parte degli introiti giornalieri segnatamente:
 
-<sup>2</sup> Per la deduzione delle spese di conseguimento è ammesso un importo forfettario del 20 per cento dei proventi lordi. È fatta salva la comprova di spese più elevate.
+- a) i proventi lordi, comprensivi delle indennità e dei proventi accessori, nonché le prestazioni in natura; e
+- b) tutte le spese, i costi e le imposte alla fonte pagati dall'organizzatore.
+
+<sup>2</sup> Per i gruppi dove la quota di ogni membro non è nota o è difficile da stabilire, ai fini della determinazione di tale quota è calcolato il reddito medio pro capite giornaliero.
+
+#### Art. 34a
+
+**5. Creditori ipotecari (art. 102 LIG)**
+
+<sup>1</sup> Sono considerati proventi imponibili di creditori ipotecari residenti all'estero i proventi lordi derivanti da crediti secondo l'articolo 102 LIG. Ne fanno parte anche gli interessi che non sono versati direttamente alla persona assoggettata all'imposta alla fonte, bensì a una terza persona.
 
 #### Art. 35
 
-**4. Rendite**
+**6. Beneficiari di rendite previdenziali domiciliati all'estero (art. 103 LIG)**
 
-<sup>1</sup> Se l'imposta alla fonte non viene riscossa perché l'imposizione spetta all'altro Stato contraente, il debitore della prestazione imponibile deve farsi confermare per iscritto che il domicilio del beneficiario è all'estero e verificare periodicamente questa situazione.
+<sup>1</sup> Fatte salve disposizioni contrarie di accordi internazionali, le rendite dei beneficiari domiciliati all'estero di cui all'articolo 103 LIG soggiacciono all'imposta alla fonte.
+
+<sup>2</sup> Se l'imposta alla fonte non viene riscossa perché l'imposizione spetta all'altro Stato contraente, il debitore della prestazione imponibile deve farsi confermare per iscritto che il domicilio del beneficiario è all'estero e verificare periodicamente questa situazione.
 
 #### Art. 36
 
-**5. Beneficiari di prestazioni in capitale**
+**7. Beneficiari di prestazioni previdenziali in capitale domiciliati all'estero (art. 103 LIG)**
 
-<sup>1</sup> Indipendentemente dalle disposizioni di accordi internazionali, le prestazioni in capitale di cui all'articolo 103 LIG[^36-1] soggiacciono sempre all'imposta alla fonte, se il beneficiario al momento del pagamento, del versamento, dell'accreditamento o della compensazione della prestazione imponibile non ha domicilio in Svizzera.
+<sup>1</sup> Nonostante le disposizioni di accordi internazionali, le prestazioni in capitale conformemente all'articolo 103 LIG soggiacciono sempre all'imposta alla fonte.
 
-<sup>2</sup> L'imposta alla fonte riscossa viene rimborsata dall'Amministrazione cantonale delle imposte, se il beneficiario della prestazione in capitale:
+<sup>2</sup> L'imposta alla fonte trattenuta viene rimborsata senza interessi dall'Amministrazione cantonale delle imposte, se il beneficiario della prestazione in capitale:
 
-- a) presenta una relativa istanza entro tre anni dalla scadenza della prestazione e
-- b) allega all'istanza una conferma dell'autorità fiscale competente dello Stato contraente avente diritto, secondo cui essa è a conoscenza della prestazione in capitale.
-
-[^36-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
+- a) presenta la relativa domanda entro tre anni dal versamento della prestazione; e
+- b) allega alla domanda una lettera di conferma dell'autorità fiscale competente dell'altro Stato contraente avente diritto secondo cui essa è a conoscenza della prestazione in capitale e il beneficiario della prestazione in capitale è una persona residente in tale altro Stato ai sensi della convenzione con la Svizzera per evitare la doppia imposizione.
 
 #### Art. 37
 
-**6. Importi minimi di riscossione**
+**8. Importi minimi di riscossione**
 
 <sup>1</sup> La deduzione dell'imposta alla fonte viene meno, se i proventi imponibili ammontano a meno di:
 
-- a) un totale di 300 franchi in caso di artisti, ecc.;
+- a) un totale di 300 franchi in caso di artisti, sportivi e conferenzieri;
 - b) 300 franchi in un anno civile in caso di membri di consigli d'amministrazione;
 - c) 300 franchi in un anno civile in caso di creditori ipotecari;
 - d) 1000 franchi in un anno civile in caso di beneficiari di prestazioni di previdenza.
@@ -406,7 +538,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **1. Esigibilità dell'imposta**
 
-<sup>1</sup> L'imposta riscossa alla fonte diventa esigibile al momento del pagamento, del versamento, dell'accreditamento o della compensazione della prestazione imponibile. L'imposta deve essere riscossa senza tener conto di eventuali contestazioni (articolo 42).
+<sup>1</sup> L'imposta riscossa alla fonte diventa esigibile al momento del pagamento, del versamento, dell'accreditamento o della compensazione della prestazione imponibile. Il debitore della prestazione imponibile deve trattenere l'imposta alla fonte senza tener conto di eventuali contestazioni (art. 133 LIG) o pignoramenti del salario.
 
 #### Art. 39
 
@@ -436,21 +568,44 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>2</sup> Al debitore della prestazione imponibile spetta esaminare, se la tariffa è applicabile con o senza imposta di culto. Se da questo punto di vista il contribuente non fornisce informazioni affidabili circa la sua situazione personale, la tariffa viene applicata con l'imposta di culto.
 
-<sup>3</sup> Il conteggio dell'imposta alla fonte dev'essere effettuato trimestralmente dal debitore della prestazione imponibile. Su richiesta del debitore della prestazione imponibile, in casi eccezionali l'Amministrazione cantonale delle imposte può concedere periodi di conteggio semestrali. I conteggi devono pervenire entro un mese dalla conclusione del periodo di conteggio. La trasmissione elettronica dei conteggi avviene mensilmente.
+<sup>3</sup> Il conteggio dell'imposta alla fonte dev'essere effettuato mensilmente dal debitore della prestazione imponibile. Su richiesta del debitore della prestazione imponibile, in casi eccezionali l'Amministrazione cantonale delle imposte può concedere periodi di conteggio semestrali. I conteggi devono pervenire entro un mese dalla conclusione del periodo di conteggio.
 
-<sup>4</sup> Il debitore della prestazione imponibile è tenuto a inoltrare all'Amministrazione cantonale delle imposte ogni volta i conteggi separati per contribuenti con e senza imposta di culto, nonché con imposte riscosse sull'attività lucrativa accessoria.
+<sup>4</sup> …
 
-<sup>5</sup> Se il debitore della prestazione imponibile procede alla trasmissione elettronica del conteggio dell'imposta alla fonte, la notifica conformemente all'articolo 104 capoverso 1 lettera d LIG può avvenire con il conteggio mensile.
+<sup>5</sup> …
+
+#### Art. 41a
+
+**c) Obblighi di comunicazione**
+
+<sup>1</sup> I datori di lavoro hanno l'obbligo di comunicare all'autorità fiscale competente l'impiego di persone assoggettate all'imposta alla fonte secondo l'articolo 98 LIG entro otto giorni dall'inizio della loro attività, utilizzando il modulo apposito.
+
+<sup>2</sup> Se trasmette elettronicamente il conteggio dell'imposta alla fonte, il datore di lavoro può comunicare le nuove assunzioni insieme al conteggio mensile.
+
+<sup>3</sup> I lavoratori devono comunicare al datore di lavoro ogni modifica di un fatto determinante per la riscossione dell'imposta alla fonte. Il datore di lavoro comunica le modifiche all'autorità fiscale competente entro le scadenze di cui ai capoversi 1 e 2.
+
+#### Art. 41b
+
+**d) Rappresentanza obbligatoria**
+
+<sup>1</sup> Le autorità fiscali possono esigere che il contribuente con domicilio o sede all'estero designi un rappresentante in Svizzera.
+
+<sup>2</sup> Le persone che richiedono una tassazione ordinaria ulteriore secondo l'articolo 105a<sup>ter</sup> LIG devono fornire i documenti necessari e indicare un recapito in Svizzera. Se non è indicato alcun recapito o se durante la procedura di tassazione il recapito perde validità, l'autorità competente impartisce al contribuente un termine adeguato per l'indicazione di un recapito valido. Se tale termine scade infruttuoso, l'imposta alla fonte sostituisce l'imposta riscossa sul reddito da attività lucrativa secondo la procedura ordinaria. L'articolo 124 capoverso 3 LIG concernente la restituzione del termine si applica per analogia.
 
 #### Art. 42
 
-**c) Decisione circa l'assoggettamento (art. 133 LIG)**
+**e) Decisione circa l'assoggettamento (art. 133 LIG)**
 
-<sup>1</sup> Qualora il contribuente o il debitore della prestazione imponibile non siano d'accordo con la deduzione dell'imposta, possono chiedere all'Amministrazione cantonale delle imposte, entro la fine di marzo dell'anno civile che segue la scadenza della prestazione, una decisione circa la sussistenza e l'estensione dell'assoggettamento.
+<sup>1</sup> Il contribuente può esigere dall'autorità di tassazione, entro il 31 marzo dell'anno fiscale successivo a quello della scadenza della prestazione, una decisione in merito alla sussistenza e all'estensione dell'assoggettamento se:
+
+- a) contesta la ritenuta d'imposta alla fonte indicata nell'attestazione di cui all'articolo 104 LIG; o
+- b) non ha ricevuto dal datore di lavoro l'attestazione di cui all'articolo 104 LIG.
+
+<sup>2</sup> Il debitore della prestazione imponibile può esigere dall'autorità di tassazione, entro il 31 marzo dell'anno fiscale successivo a quello della scadenza della prestazione, una decisione in merito alla sussistenza e all'estensione dell'assoggettamento.
 
 #### Art. 43
 
-**d) Pagamento degli arretrati e restituzione**
+**f) Pagamento degli arretrati e restituzione**
 
 <sup>1</sup> Se il debitore della prestazione imponibile non ha operato, oppure ha operato in misura insufficiente la deduzione dell'imposta, è tenuto al pagamento degli arretrati più interessi. È fatto salvo il regresso del debitore nei confronti del contribuente.
 
@@ -460,9 +615,11 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>4</sup> Per il resto, l'obbligo di restituzione si conforma all'articolo 157 LIG.
 
+<sup>5</sup> Se il debitore della prestazione imponibile non ha operato oppure ha operato solo in parte la ritenuta d'imposta e non è possibile procedere a una riscossione posticipata presso il medesimo, l'autorità di tassazione può obbligare il contribuente a pagare gli arretrati dell'imposta alla fonte dovuta.
+
 #### Art. 44
 
-**e) Rimedi giuridici**
+**g) Rimedi giuridici**
 
 <sup>1</sup> Contro una decisione concernente l'imposta alla fonte, oltre al contribuente, anche il debitore della prestazione imponibile può presentare reclamo ai sensi dell'articolo 137 LIG[^44-1].
 
@@ -476,15 +633,15 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>2</sup> Il termine di pagamento è di 30 giorni dalla fatturazione.
 
-<sup>3</sup> Entro 60 giorni dalla fine del periodo di conteggio viene inviata una fattura.
+<sup>3</sup> …
 
 <sup>4</sup> Per pagamenti pervenuti in ritardo è dovuto un interesse di mora conformemente all'articolo 153 LIG.
 
-<sup>5</sup> Per conteggi eseguiti elettronicamente il debitore della prestazione imponibile riceve una provvigione di riscossione supplementare pari all'1 per cento.
+<sup>5</sup> …
 
 #### Art. 45a
 
-**5. Procedura di conteggio semplificata (art. 39a LIG)**
+**5. Procedura di conteggio semplificata (art. 99a LIG)**
 
 <sup>1</sup> L'imposta alla fonte viene ripartita come segue:
 
@@ -499,7 +656,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **6. Quote delle Chiese**
 
-<sup>1</sup> Per gli assoggettati all'imposta alla fonte secondo la tariffa A - C nonché F - P l'assegnazione alle Chiese avviene in ragione dell'appartenenza alle Chiese degli assoggettati all'imposta alla fonte.
+<sup>1</sup> Per gli assoggettati all'imposta alla fonte secondo il tariffario A - C nonché F - Q l'assegnazione alle Chiese avviene in ragione dell'appartenenza alle Chiese degli assoggettati all'imposta alla fonte.
 
 #### Art. 46
 
@@ -510,6 +667,12 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 ## 4. Diritto procedurale
 
 ### 4.1. Criteri procedurali generali
+
+#### Art. 46a
+
+**Registrazione e conservazione di dati in forma elettronica**
+
+<sup>1</sup> L'Amministrazione cantonale delle imposte emana le regolamentazioni relative alla trasmissione, alla forza probatoria, alla durata della conservazione e alla cancellazione dei dati.
 
 #### Art. 47
 
@@ -529,9 +692,9 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **b) Inoltro per via elettronica (art. 127 cpv. 2 LIG)**
 
-<sup>1</sup> L'Amministrazione delle imposte è autorizzata ad ammettere l'inoltro della dichiarazione d'imposta per via elettronica a partire dal periodo fiscale 2012. Il contribuente può scegliere tra l'inoltro per via cartacea e l'inoltro per via elettronica.
+<sup>1</sup> La dichiarazione d'imposta può essere inoltrata anche in forma elettronica. Il contribuente può scegliere tra l'inoltro per via cartacea e l'inoltro per via elettronica.
 
-<sup>2</sup> Per la dichiarazione d'imposta 2012, l'Amministrazione cantonale delle imposte può prevedere una fase sperimentale.
+<sup>2</sup> …
 
 ### 4.3. Riscossione e garanzia
 
@@ -567,7 +730,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>1</sup> La tassa per la seconda diffida ammonta a 30 franchi.
 
-<sup>2</sup> La tassa di esecuzione ammonta a 50 franchi.
+<sup>2</sup> La tassa di esecuzione ammonta a 100 franchi.
 
 #### Art. 51
 
@@ -575,7 +738,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>1</sup> Per i beneficiari di prestazioni complementari ai sensi della legge federale sulle prestazioni complementari all'assicurazione per la vecchiaia, i superstiti e l'invalidità[^51-1], nonché per i beneficiari di prestazioni ai sensi dell'articolo 1 della legge cantonale sull'assistenza alle persone nel bisogno[^51-2] può essere emanata su richiesta una tassazione zero, se la sostanza determinante ammonta a meno di 25 000 franchi (persone sole), rispettivamente 40 000 franchi (coniugati).
 
-<sup>2</sup> La sostanza determinante si compone dalla sostanza netta più la differenza tra il valore fiscale degli immobili e del loro valore venale secondo l'ultima stima ufficiale.
+<sup>2</sup> La sostanza determinante si compone dalla sostanza netta più la differenza tra il valore fiscale degli immobili e il loro valore venale secondo l'ultima valutazione ufficiale.
 
 <sup>3</sup> Con la richiesta secondo il capoverso 1, il contribuente rinuncia a far valere il suo diritto all'imposta preventiva.
 
@@ -608,7 +771,8 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 - a) pubblicare le comunicazioni e i solleciti prescritti;
 - b) allestire il registro fiscale secondo le istruzioni dell'Amministrazione cantonale delle imposte;
-- c) conservare gli atti fiscali secondo le istruzioni dell'Amministrazione cantonale delle imposte. L'Amministrazione cantonale delle imposte può prescrivere un'archiviazione elettronica.
+- c) conservare gli atti fiscali secondo le istruzioni dell'Amministrazione cantonale delle imposte;
+- d) inviare singoli moduli di dichiarazione d'imposta.
 
 #### Art. 54
 
@@ -616,7 +780,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>1</sup> I comuni che tassano un numero minimo di casi e che dispongono di collaboratori debitamente formati possono collaborare alla tassazione dell'imposta sul reddito e sulla sostanza. La persona che procede alla tassazione deve svolgere con successo la formazione e il perfezionamento professionali richiesti dall'Amministrazione cantonale delle imposte.
 
-<sup>2</sup> Il comune deve tassare almeno 500 casi per collaboratore comunale.
+<sup>2</sup> Il comune deve tassare almeno 1000 casi per collaboratore comunale.
 
 <sup>3</sup> In casi fondati su motivi specifici, l'Amministrazione delle imposte può autorizzare delle deroghe.
 
@@ -634,23 +798,23 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>1</sup> Secondo le istruzioni dell'Amministrazione delle imposte, i comuni che collaborano alla tassazione devono:
 
-- a) accertare tutti i fatti rilevanti e archiviare tutta la documentazione per la tassazione, nonché verificare formalmente le indicazioni personali sui moduli principali e secondari in arrivo;
-- b) tassare le persone esercitanti un'attività lucrativa dipendente, i contribuenti imponibili in misura limitata, nonché le persone che non esercitano attività lucrativa e verificare le basi per la tassazione delle persone esercitanti un'attività lucrativa indipendente;
+- a) accertare tutti i fatti rilevanti e archiviare tutta la documentazione per la tassazione, nonché verificare formalmente le indicazioni personali sui moduli principali e secondari in arrivo, per quanto le dichiarazioni d'imposta pervengano ancora al comune;
+- b) tassare le persone esercitanti un'attività lucrativa dipendente, i contribuenti imponibili in misura limitata, nonché le persone che non esercitano attività lucrativa;
 - c) mettere a disposizione del commissario fiscale e dei suoi collaboratori locali di lavoro adatti dotati dell'infrastruttura informatica necessaria, nonché il personale qualificato necessario per il disbrigo dei lavori di segretariato.
 
 #### Art. 57
 
 **5. Indennità a) Controllo degli incartamenti in arrivo**
 
-<sup>1</sup> Se è prescritta l'archiviazione elettronica, il controllo degli incartamenti in arrivo ha luogo unitamente all'archiviazione.
+<sup>1</sup> Per il controllo degli incartamenti in arrivo il comune riceve un'indennità di 7 franchi per ogni caso iscritto a registro, tuttavia almeno 1000 franchi, per quanto le dichiarazioni pervengano ancora al comune.
 
-<sup>2</sup> Per il controllo degli incartamenti in arrivo il comune riceve un'indennità di 7 franchi per ogni caso iscritto a registro, tuttavia almeno 1000 franchi.
+<sup>2</sup> …
 
 #### Art. 58
 
 **b) Rilevamento preliminare**
 
-<sup>1</sup> I comuni che collaborano alla tassazione sono tenuti a rilevare in via preliminare tutti i dati di tutte le dichiarazioni fiscali che pervengono loro. I comuni che non collaborano alla tassazione possono assumersi il rilevamento preliminare, se sono allacciati al sistema di tassazione elettronico (EVA).
+<sup>1</sup> I comuni che collaborano alla tassazione sono tenuti a rilevare in via preliminare tutti i dati di tutte le dichiarazioni fiscali che pervengono al comune. I comuni che non collaborano alla tassazione possono assumersi il rilevamento preliminare, se sono allacciati al sistema di tassazione elettronico (EVA).
 
 <sup>2</sup> Per il rilevamento preliminare manuale il comune riceve 7 franchi per ogni caso. L'indennità non viene versata in aggiunta all'indennità per la tassazione.
 
@@ -694,6 +858,8 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>2</sup> Per la tassazione delle persone fisiche tassate secondo il dispendio i comuni pagano 150 franchi per ogni caso.
 
+<sup>3</sup> Per la scansione e l'archiviazione elettronica degli atti fiscali da parte dell'Amministrazione cantonale delle imposte i comuni versano un indennizzo pari a 2 franchi per ciascun contribuente.
+
 #### Art. 61
 
 **2. Imposta sugli utili da sostanza immobiliare (art. 30 cpv. 1 LImpCC)**
@@ -714,11 +880,17 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>2</sup> Le Chiese riconosciute dallo Stato e i comuni parrocchiali indennizzano l'Amministrazione cantonale delle imposte con il 4 per cento delle quote delle chiese riscosse.
 
-## 5. Imposta preventiva, computo globale d'imposta, rimborso e computo della trattenuta supplementare d'imposta USA
+#### Art. 61b
 
-[^61a-1]
+**4. Imposta sugli utili, sul capitale e di culto (art. 165a cpv. 1 lett. d ed e LIG)**
 
-[^61a-1]: Cfr. art. 73 cpv. 1 LIP (RS [642.21](https://db.clex.ch/link/Bund/642.21/it)), art. 15 e segg. dell'ordinanza sul computo globale d'imposta (RS [672.201](https://db.clex.ch/link/Bund/672.201/it)), nonché art. 11 e segg. dell'ordinanza concernente la convenzione svizzero-americana di doppia imposizione (RS [672.933.61](https://db.clex.ch/link/Bund/672.933.61/it))
+<sup>1</sup> Per la tassazione, la riscossione e il conteggio dell'imposta sugli utili e sul capitale per i comuni nonché dell'imposta di culto, l'Amministrazione cantonale delle imposte riscuote una tassa pari al 2 per cento delle imposte riscosse.
+
+## 5. Imposta preventiva, computo di imposte alla fonte estere, rimborso e computo della trattenuta supplementare d'imposta USA
+
+[^61b-1]
+
+[^61b-1]: Cfr. art. 73 cpv. 1 LIP (RS [642.21](https://db.clex.ch/link/Bund/642.21/it)), art. 15 segg. dell'ordinanza sul computo di imposte alla fonte estere (RS [672.201](https://db.clex.ch/link/Bund/672.201/it)) nonché art. 11 segg. dell'ordinanza concernente la convenzione svizzero-americana di doppia imposizione (RS [672.933.61](https://db.clex.ch/link/Bund/672.933.61/it))
 
 #### Art. 62
 
@@ -738,13 +910,15 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **2. Rimborso o computo (art. 72 LIG)**
 
-<sup>1</sup> Il rimborso degli importi computabili (computo globale d'imposta), nonché della trattenuta supplementare d'imposta USA avviene in base alla legge cantonale sulle imposte.
+<sup>1</sup> Il rimborso delle imposte alla fonte estere computabili nonché della trattenuta supplementare d'imposta USA avviene secondo le regole per l'imposta preventiva (art. 72 LIG).
 
 #### Art. 65
 
 **3. Addebito al Cantone e ai comuni**
 
-<sup>1</sup> La quota del computo globale d'imposta che non è a carico della Confederazione secondo l'articolo 20 dell'ordinanza del Consiglio federale sul computo globale d'imposta[^65-1] viene addebitata in parti uguali al Cantone e al comune di domicilio del richiedente.
+<sup>1</sup> L'importo delle imposte alla fonte estere computabili secondo l'ordinanza del Consiglio federale sul computo di imposte alla fonte estere[^65-1] viene ripartito tra le singole sovranità fiscali o i singoli beneficiari delle imposte.
+
+<sup>2</sup> L'importo da addebitare alla Confederazione viene ridotto della quota cantonale all'imposta federale diretta. Questa riduzione è a carico del Cantone.
 
 [^65-1]: RS [672.201](https://db.clex.ch/link/Bund/672.201/it)
 
@@ -781,6 +955,16 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 **c) Imposta sugli immobili (art. 19 cpv. 1 LImpCC)**
 
 <sup>1</sup> La tassazione dell'imposta sugli immobili del periodo fiscale 2008 e dei periodi fiscali precedenti avviene per le persone giuridiche da parte del comune, per le persone fisiche da parte dell'autorità che secondo la legge fiscale è competente per le imposte dirette.
+
+#### Art. 69c
+
+**d) Correzione della tariffa (art. 191a LIG)**
+
+<sup>1</sup> Entro il 31 marzo 2021 i contribuenti secondo l'articolo 98 capoverso 1 lettera a LIG, nonché i quasi residenti secondo l'articolo 98 capoverso 1 lettera b LIG possono presentare domanda scritta di correzione della tariffa all'Amministrazione cantonale delle imposte per l'anno fiscale 2020, per quanto non sia applicata alcuna aliquota fissa d'imposta. In questo modo, nella misura in cui non siano già considerati nella tariffa, si possono far valere deduzioni connesse al reddito, spese professionali aumentate, spese di formazione e perfezionamento professionali, comprese spese di riqualificazione, interessi passivi, contributi di mantenimento, contributi alla previdenza vincolata, spese per malattia e infortunio, spese per invalidità, nonché spese per la custodia dei figli.
+
+<sup>2</sup> Non viene eseguita alcuna correzione della tariffa per contribuenti con una tassazione ordinaria ulteriore.
+
+<sup>3</sup> Per il resto, per la procedura l'articolo 42 fa stato per analogia.
 
 #### Art. 70
 

@@ -4,13 +4,13 @@ number: "720.015"
 title: Ausführungsbestimmungen zur Steuergesetzgebung
 short: ABzStG
 language: de
-version: 2016-01-01
-corrected: 2016-02-18
-version_adopted: 2016-02-15
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-12-21
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2652/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +19,9 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2652/pdf_file"
 
 (ABzStG)
 
-Vom 27.11.2007 (Stand 01.01.2016)
+Vom 27.11.2007 (Stand 01.07.2021)
 
-Gestützt auf Art. 182 Abs. 4 des Bundesgesetzes über die direkte Bundessteuer vom 14. Dezember 1990 (DBG)[^ingress-1] sowie Art. 72 Abs. 3 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden vom 14. Dezember 1990 (StHG)[^ingress-2] sowie Art. 73 Abs. 1 des Bundesgesetzes über die Verrechnungssteuer vom 13. Oktober 1965 (VStG)[^ingress-3] sowie Art. 15 der bundesrätlichen Verordnung über die pauschale Steueranrechnung vom 22. August 1967[^ingress-4] sowie die bundesrätliche Verordnung zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996[^ingress-5] sowie Art. 45 Abs. 1 der Verfassung des Kantons Graubünden vom 18. Mai 2003 / 14. September 2003[^ingress-6]
+Gestützt auf Art. 182 Abs. 4 des Bundesgesetzes über die direkte Bundessteuer vom 14. Dezember 1990 (DBG)[^ingress-1] sowie Art. 72 Abs. 3 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden vom 14. Dezember 1990 (StHG)[^ingress-2] sowie Art. 73 Abs. 1 des Bundesgesetzes über die Verrechnungssteuer vom 13. Oktober 1965 (VStG)[^ingress-3] sowie Art. 15 der bundesrätlichen Verordnung über die Anrechnung ausländischer Quellensteuern vom 22. August 1967[^ingress-4] sowie die bundesrätliche Verordnung zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996[^ingress-5] sowie Art. 45 Abs. 1 der Verfassung des Kantons Graubünden vom 18. Mai 2003 / 14. September 2003[^ingress-6]
 
 von der Regierung erlassen am 27. November 2007
 
@@ -44,6 +44,10 @@ von der Regierung erlassen am 27. November 2007
 
 [^1-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
 
+#### Art. 1a
+
+**…**
+
 #### Art. 2
 
 **2. Personengemeinschaften**
@@ -54,7 +58,7 @@ von der Regierung erlassen am 27. November 2007
 
 #### Art. 2a
 
-**Besteuerung nach dem Aufwand (Art. 15 Abs. 1 lit. a StG)**
+**3. Besteuerung nach dem Aufwand (Art. 15 Abs. 1 lit. a StG)**
 
 <sup>1</sup> Der Mindestbetrag gemäss Artikel 15 Absatz 1 Litera a StG entspricht jenem von Artikel 14 Absatz 3 Litera a DBG[^2a-1].
 
@@ -132,18 +136,65 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>1</sup> Bei einem steuerbaren Vermögen von weniger als 600 000 Franken darf der steuerbare Eigenmietwert höchstens 30 Prozent der Bareinkünfte betragen.
 
+#### Art. 10a
+
+**4. Mehrkosten für Verpflegung und Unterkunft (Art. 31 Abs. 1 lit. b StG)**
+
+<sup>1</sup> Für die Mehrkosten der auswärtigen Verpflegung können folgende Abzüge vorgenommen werden:
+
+- a) 15 Franken pro Arbeitstag, bei ständiger auswärtiger Verpflegung 3200 Franken im Jahr;
+- b) 7.50 Franken pro Arbeitstag, bei ständiger auswärtiger Verpflegung 1600 Franken im Jahr, wenn die Verpflegung vom Arbeitgeber verbilligt wird.
+
+<sup>2</sup> Die Ansätze gemäss Absatz 1 gelten auch bei Schicht- oder Nachtarbeit.
+
+<sup>3</sup> Für die Mehrkosten der auswärtigen Verpflegung bei auswärtigem Wochenaufenthalt können folgende Abzüge vorgenommen werden:
+
+- a) 15 Franken pro Hauptmahlzeit bzw. 30 Franken pro Arbeitstag, bei ganzjährigem Wochenaufenthalt 6400 Franken im Jahr;
+- b) 22.50 Franken pro Arbeitstag, bei ganzjährigem Wochenaufenthalt 4800 Franken im Jahr, wenn die Verpflegung vom Arbeitgeber verbilligt wird.
+
+<sup>4</sup> Als notwendige Mehrkosten für die auswärtige Unterkunft können die ortsüblichen Auslagen für ein Zimmer abgezogen werden. Der Abzug beträgt maximal 9600 Franken pro Jahr.
+
+#### Art. 10b
+
+**5. Geldspiele (Art. 30 Abs. 1 lit. m und n, Art. 36 Abs. 1 lit. n StG)**
+
+<sup>1</sup> Steuerfrei sind:
+
+- a) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Bundesgesetz über Geldspiele (Geldspielgesetz, BGS) vom 29. September 2017[^10b-1] zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen;
+- b) die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- c) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
+- d) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
+
+<sup>2</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Absatz 1 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5000 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Absatz 1 Buchstabe b werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25 000 Franken abgezogen.
+
+[^10b-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
+
+#### Art. 10c
+
+**6. Überbrückungsleistungen für ältere Arbeitslose (Art. 30 Abs. 1 lit. o StG)**
+
+<sup>1</sup> Steuerfrei sind Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^10c-1].
+
+[^10c-1]: SR [837.2](https://db.clex.ch/link/Bund/837.2/de)
+
 #### Art. 11
 
-**4. Sitzungsgelder (Art. 31 Abs. 2 StG)**
+**6. Sitzungsgelder (Art. 31 Abs. 2 StG)**
 
 <sup>1</sup> Für nebenamtliche Tätigkeiten im Interesse der Öffentlichkeit gilt ab der Steuerperiode 2008 folgende Regelung:
 
 - a) Sitzungsgelder und ähnliche Einkünfte von insgesamt 1000 Franken pro Kalenderjahr sind steuerfrei.
 - b) Für darüber hinausgehende Beträge gelten 50 Prozent, höchstens aber 1000 Franken als pauschale Gewinnungskosten. Höhere effektive Gewinnungskosten sind insgesamt nachzuweisen.
 
+#### Art. 11a
+
+**7. Abschreibungen und Rückstellungen**
+
+<sup>1</sup> Die Abschreibungen gemäss Artikel 32 Absatz 1 Litera a beziehungsweise Artikel 81 Absatz 1 Litera b StG und die Rückstellungen gemäss Artikel 32 Absatz 1 Litera b beziehungsweise Artikel 81 Absatz 1 Litera c StG werden in den Anhängen dieses Erlasses geregelt.
+
 #### Art. 12
 
-**5. Rücklagen für Forschungs- und Entwicklungskosten a) Grundsatz**
+**8. Rücklagen für Forschungs- und Entwicklungskosten a) Grundsatz**
 
 <sup>1</sup> Rücklagen für Forschung und Entwicklung im Sinne von Artikel 32 Absatz 1 Litera c beziehungsweise Artikel 81 Absatz 1 Litera d StG[^12-1] können nur bezogen auf konkrete Projekte oder Produkte gebildet werden. Die Unternehmung hat zu belegen, dass die entsprechenden Ausgaben in einem Zeitraum von rund fünf Jahren anfallen werden.
 
@@ -165,7 +216,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 15
 
-**6. Ersatzbeschaffungen**
+**9. Ersatzbeschaffungen**
 
 <sup>1</sup> Die zweijährige Frist für die Abschreibung auf dem Ersatzobjekt im Sinne von Artikel 33 Absatz 3 beziehungsweise Artikel 84 Absatz 3 StG[^15-1] kann auf begründetes Gesuch hin um ein weiteres Jahr erstreckt werden. Die Veranlagungsbehörde hat darüber innert 60 Tagen zu entscheiden. Der Entscheid ist mit einer Verfügung zu eröffnen, gegen die Einsprache und Beschwerde erhoben werden kann.
 
@@ -175,7 +226,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 16
 
-**7. Liegenschaftenunterhalt (Art. 35 Abs. 2 StG) a) Pauschalabzug**
+**10. Liegenschaftenunterhalt (Art. 35 Abs. 2 StG) a) Pauschalabzug**
 
 <sup>1</sup> Für den Abzug von Verwaltungs- und Unterhaltskosten von überbauten Privatliegenschaften beträgt der Pauschalabzug:
 
@@ -190,15 +241,15 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 18
 
-**8. Kinderabzug: Konkubinat (Art. 38 Abs. 1 lit. d StG)**
+**11. Kinderabzug: Konkubinat (Art. 38 Abs. 1 lit. d StG)**
 
 <sup>1</sup> In Konkubinatsverhältnissen mit gemeinsamen Kindern wird vermutet, dass der Konkubinatspartner mit dem höheren Reineinkommen den Unterhalt der Kinder zur Hauptsache bestreitet.
 
 #### Art. 19
 
-**9. Verheiratetentarif**
+**12. Verheiratetentarif**
 
-<sup>1</sup> Lebt das Kind abwechslungsweise im Haushalt der Mutter beziehungsweise des Vaters und kann kein Elternteil Kinderalimente in Abzug bringen, wird die Entlastung im Sinne von Artikel 39 Absatz 3 StG[^19-1] in der Regel dem Elternteil mit dem höheren Einkommen gewährt.
+<sup>1</sup> Lebt das Kind abwechslungsweise im Haushalt der Mutter beziehungsweise des Vaters und kann kein Elternteil Kinderalimente in Abzug bringen, wird die Entlastung im Sinne von Artikel 39 Absatz 3 StG[^19-1] in der Regel dem Elternteil mit dem höheren Reineinkommen gewährt.
 
 [^19-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
 
@@ -238,9 +289,13 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 ## 2. Die Steuern der juristischen Personen
 
+#### Art. 23a
+
+**…**
+
 #### Art. 24
 
-**1. Gesellschaften mit Passiveinkünften**
+**Gesellschaften mit Passiveinkünften**
 
 <sup>1</sup> Als Passiveinkünfte im Sinne von Artikel 87 Absatz 3 StG[^24-1] gelten insbesondere Kapitalerträge, Lizenz- und Patentabgaben, Pachtzinsen sowie Prämien aus Rückversicherung.
 
@@ -252,105 +307,159 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 **…**
 
-## 3. Quellensteuern (Art. 105e StG)
+## 3. Quellensteuern
 
-### 3.1. Arbeitnehmerinnen und Arbeitnehmer
+### 3.1. Allgemeine Bestimmungen
 
 #### Art. 25
 
 **1. Tarife**
 
-<sup>1</sup> Für den Steuerabzug an der Quelle werden die folgenden Tarifcodes den nachstehend aufgeführten Arbeitnehmerinnen und Arbeitnehmern zugewiesen:
+<sup>1</sup> Für den Steuerabzug an der Quelle werden die folgenden Tarifcodes den nachstehend aufgeführten Kategorien zugewiesen:
 
 - a) Tarifcode A: ledigen, geschiedenen, gerichtlich oder tatsächlich getrennt lebenden und verwitweten Personen, die nicht mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben;
 - b) Tarifcode B: in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehegatten, bei welchen nur ein Ehegatte erwerbstätig ist;
 - c) Tarifcode C: in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehegatten, bei welchen beide Ehegatten erwerbstätig sind;
-- d) Tarifcode D:
-  - 1\. Personen, die eine Nebenerwerbstätigkeit ausüben, für die Nebenerwerbseinkünfte;
-  - 2\. Personen, die vom Versicherer Ersatzeinkünfte nach Artikel 27 beziehen, für diese Einkünfte;
-- e) Tarifcode E: Personen, die im vereinfachten Abrechnungsverfahren nach den Artikeln 39a StG besteuert werden;
-- f) Tarifcode F: Grenzgängerinnen und Grenzgängern nach der Vereinbarung vom 3. Oktober 1974[^25-1] zwischen der Schweiz und Italien über die Besteuerung der Grenzgänger und den finanziellen Ausgleich zugunsten der italienischen Grenzgemeinden, die in einer italienischen Grenzgemeinde leben und deren Ehemann oder Ehefrau ausserhalb der Schweiz erwerbstätig ist. Für diesen Tarifcode wird Tarifcode C hinterlegt; vorbehalten bleibt der Nachweis, dass der im Ausland wohnhafte Ehegatte kein Erwerbseinkommen erzielt (Tarif B);
+- d) …
+- e) Tarifcode E: Personen, die im vereinfachten Abrechnungsverfahren nach Artikel 99a StG besteuert werden;
+- f) Tarifcode F: Grenzgängerinnen und Grenzgängern nach der Vereinbarung vom 3. Oktober 1974[^25-1] zwischen der Schweiz und Italien über die Besteuerung der Grenzgänger und den finanziellen Ausgleich zugunsten der italienischen Grenzgemeinden, die in einer italienischen Grenzgemeinde leben und deren Ehemann oder Ehefrau ausserhalb der Schweiz erwerbstätig ist. Für diesen Tarifcode wird Tarifcode C hinterlegt; vorbehalten bleibt der Nachweis, dass der im Ausland wohnhafte Ehegatte kein Erwerbseinkommen erzielt (Tarifcode B);
+- f<sup>bis</sup>) Tarifcode G: Ersatzeinkünfte nach Artikel 27a, die nicht über die Arbeitgeber an die quellensteuerpflichtigen Personen ausbezahlt werden;
 - g) Tarifcode H: ledigen, geschiedenen, gerichtlich oder tatsächlich getrennt lebenden und verwitweten Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten;
 - h) Tarifcode L: Grenzgängerinnen und Grenzgängern nach dem Abkommen vom 11. August 1971[^25-2] zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (DBA-D), welche die Voraussetzungen für den Tarifcode A erfüllen;
 - i) Tarifcode M: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode B erfüllen;
 - j) Tarifcode N: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode C erfüllen;
-- k) Tarifcode O: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode D erfüllen;
-- l) Tarifcode P: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode H erfüllen.
+- k) …
+- l) Tarifcode P: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode H erfüllen;
+- m) Tarifcode Q: Grenzgängerinnen und Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode G erfüllen.
 
-<sup>2</sup> Die Kantonale Steuerverwaltung berechnet die Monatstarife gemäss Absatz 1 Litera a - d und f - l mit und ohne Berücksichtigung der Kirchensteuer entsprechend den bei ordentlicher Veranlagung geltenden Abzügen und Tarifen.
+<sup>1<sup>bis</sup></sup> Die Quellensteuer (inkl. Anteil Gemeinde und Kirche) auf Ersatzeinkünfte mit dem Tarifcode G beträgt:
 
-<sup>3</sup> Für die Satzbestimmung werden die ordentlichen Einkünfte auf ein Jahr umgerechnet. Für die Ermittlung des Steuersatzes bei Tarif C wird vom gleich hohen Erwerbseinkommen des Quellensteuerpflichtigen und seines Ehegatten ausgegangen, wobei die Kantonale Steuerverwaltung das Ehegatteneinkommen plafoniert.
+- a) 0,0 % für die ersten Fr. 18 000.–
+- b) 9,8 % für die weiteren Fr. 6000.–
+- c) 14,0 % für die weiteren Fr. 12 000.–
+- d) 16,4 % für die weiteren Fr. 12 000.–
+- e) 17,8 % für die weiteren Fr. 12 000.–
+- f) 17,1 % für die weiteren Fr. 30 000.–
+- g) 17,7 % für die weiteren Fr. 30 000.–
+- h) 19,1 % für die weiteren Fr. 60 000.–
+- i) 21,2 % für die weiteren Fr. 640 000.–
+- j) 20,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 820 000.– übersteigt.
 
-<sup>4</sup> Auf Gesuch von Steuerpflichtigen mit dem Tarifcode A, B, C, F oder H, die Unterhaltsbeiträge leisten, kann die Kantonale Steuerverwaltung zur Milderung von Härtefällen bei der Anwendung der Tarife dem Schuldner der steuerbaren Leistung gestatten, Kinderabzüge bis maximal zur Höhe der Unterhaltsbeiträge zu gewähren. Im Folgejahr wird die effektive Steuerschuld im Rahmen einer Tarifkorrektur von Amtes wegen ermittelt.
+<sup>2</sup> Die Kantonale Steuerverwaltung berechnet die Monatstarife gemäss Absatz 1 Litera a - c, f, g - j sowie l mit und ohne Berücksichtigung der Kirchensteuer entsprechend den bei ordentlicher Veranlagung geltenden Abzügen und Tarifen.
+
+<sup>3</sup> Für die Satzbestimmung werden die ordentlichen Einkünfte auf ein Jahr umgerechnet. Für die Ermittlung des Steuersatzes bei Tarifcode C wird vom gleich hohen Erwerbseinkommen des Quellensteuerpflichtigen und seines Ehegatten ausgegangen, wobei die Kantonale Steuerverwaltung das Ehegatteneinkommen plafoniert.
+
+<sup>4</sup> …
 
 [^25-1]: SR [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/de)
 [^25-2]: SR [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/de)
 
 #### Art. 26
 
-**2. Ermittlung des Steuerabzuges**
+**2. Berechnung der Quellensteuer**
 
 <sup>1</sup> Für den Steuerabzug massgebend sind die Verhältnisse im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung.
 
-<sup>2</sup> Für die Ermittlung des Steuerabzuges bei hauptberuflicher Tätigkeit werden der effektive Bruttolohn für die volle Zahltagsperiode von einem Monat (30 Tage), zuzüglich weitere in der betreffenden Zahltagsperiode ausbezahlte, überwiesene, gutgeschriebene oder verrechnete steuerbare Leistungen berücksichtigt. Unvollständige Zahltagsperioden (Eintritts- und Austrittsmonate) werden zur Satzbestimmung auf Monatsbasis umgerechnet.
+<sup>2</sup> …
 
-<sup>3</sup> Bei Stundenlohn sind für die Berechnung des Steuersatzes grundsätzlich die effektiv geleisteten Stunden pro Monat massgebend. Wird eine monatliche Stundenanzahl von 180 für einzelne Zahltagsperioden, namentlich für Ein- und Austrittsmonate, nicht erreicht, ist der Stundenansatz für die betreffenden Zahltagsperioden in der Regel mit 180 zu multiplizieren.
+<sup>3</sup> …
 
-<sup>4</sup> Bei Akkordlohn wird der Steuersatz in der Regel auf der Grundlage des Durchschnittsverdienstes des Steuerpflichtigen oder aber aufgrund des 180fachen branchenüblichen Stundenansatzes ermittelt.
+<sup>4</sup> …
 
-<sup>5</sup> Bei Ersatzeinkünften, welche vom Arbeitgeber direkt an den Steuerpflichtigen ausbezahlt werden, sind zur Bestimmung des Steuerabzuges die rückwirkend ausbezahlten Einkünfte auf die entsprechenden Monate aufzuteilen.
+<sup>5</sup> …
+
+<sup>6</sup> In Bezug auf die Methoden und das Verfahren zur Berechnung der Quellensteuer ist das von der Eidgenössischen Steuerverwaltung in Zusammenarbeit mit den Kantonen erarbeitete Kreisschreiben anwendbar.
+
+<sup>7</sup> Für die Berechnung der Quellensteuer gilt Artikel 66 Absatz 3 StG sinngemäss.
 
 #### Art. 27
 
-**3. Nebenerwerbstarif**
+**…**
 
-<sup>1</sup> Der Tarif für Nebenerwerb wird angewendet:
+#### Art. 27a
 
-- a) auf Nebenerwerbstätigkeiten, wenn für die betreffende Tätigkeit die wöchentliche Arbeitszeit weniger als 15 Stunden und die monatlichen Bruttoeinkünfte weniger als 2000 Franken betragen;
-- b) auf Leistungen, welche der Versicherer nicht nach Massgabe des versicherten Verdienstes ausrichtet oder die neben ein allfälliges Erwerbseinkommen treten.
+**3. Ersatzeinkünfte**
 
-<sup>2</sup> Der Nebenerwerb wird für Kanton, Gemeinde und Kirche insgesamt zu 9 Prozent besteuert. Die Steuer wird wie folgt aufgeteilt:
+<sup>1</sup> Der Quellensteuer unterworfen sind alle Ersatzeinkünfte aus Arbeitsverhältnissen sowie aus Kranken-, Unfall-, Invaliden- und Arbeitslosenversicherung. Dazu gehören insbesondere Taggelder, Entschädigungen, Teilrenten und an deren Stelle tretende Kapitalleistungen.
 
-- a) Kanton und Gemeinde je 45 Prozent;
-- b) Landeskirche 10 Prozent.
+#### Art. 27b
+
+**4. Ordentliche Veranlagung bei Vergütungen aus dem Ausland**
+
+<sup>1</sup> Erhält eine steuerpflichtige Person die Vergütungen von einem nicht in der Schweiz ansässigen Schuldner der steuerbaren Leistung, so wird sie im ordentlichen Verfahren veranlagt.
+
+<sup>2</sup> Sie wird jedoch in der Schweiz an der Quelle besteuert, wenn:
+
+- a) die Vergütung der Leistung von einer in der Schweiz gelegenen Betriebsstätte oder festen Einrichtung des Arbeitgebers getragen wird;
+- b) eine Arbeitnehmerentsendung unter verbundenen Gesellschaften vorliegt und die Gesellschaft mit Sitz in der Schweiz als faktischer Arbeitgeber zu qualifizieren ist; oder
+- c) ein ausländischer Personalverleiher im Widerspruch zu Artikel 12 Absatz 2 des Arbeitsvermittlungsgesetzes vom 6. Oktober 1989[^27b-1] Personal an einen Einsatzbetrieb in der Schweiz verleiht und die Vergütung der Leistung von diesem Einsatzbetrieb getragen wird.
+
+[^27b-1]: SR [823.11](https://db.clex.ch/link/Bund/823.11/de)
 
 ### 3.2. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt in der Schweiz
 
 #### Art. 28
 
-**1. Nachträgliche ordentliche Veranlagung**
+**1. Obligatorische nachträgliche ordentliche Veranlagung (Art. 105a StG)**
 
-<sup>1</sup> Eine nachträgliche ordentliche Veranlagung im Sinne von Artikel 105a StG wird durchgeführt, wenn die Bruttoeinkünfte in einem Kalenderjahr 120 000 Franken übersteigen.
+<sup>1</sup> Eine nachträgliche ordentliche Veranlagung im Sinne von Artikel 105a StG wird durchgeführt, wenn die Bruttoeinkünfte aus unselbständiger Erwerbstätigkeit in einem Steuerjahr mindestens 120 000 Franken betragen.
+
+<sup>2</sup> Als Bruttoeinkommen aus unselbständiger Erwerbstätigkeit gelten die Einkünfte nach Artikel 99 Absatz 1<sup>bis</sup> Literae a und b StG.
+
+<sup>3</sup> Zweiverdienerehepaare werden nachträglich ordentlich veranlagt, wenn das Bruttoeinkommen von Ehemann oder Ehefrau in einem Steuerjahr den Betrag von Absatz 1 erreicht oder übersteigt.
+
+<sup>4</sup> Die nachträgliche ordentliche Veranlagung wird bis zum Ende der Quellensteuerpflicht beibehalten, und zwar unabhängig davon, ob das Bruttoeinkommen vorübergehend oder dauernd unter den Mindestbetrag von Absatz 1 fällt, Eheleute sich scheiden lassen oder sich tatsächlich oder rechtlich trennen.
+
+<sup>5</sup> Bei unterjähriger Steuerpflicht richtet sich die Berechnung des Mindestbetrags nach Artikel 66 Absatz 3 StG.
+
+#### Art. 28a
+
+**2. Nachträgliche ordentliche Veranlagung auf Antrag (Art. 105a<sup>bis</sup> StG)**
+
+<sup>1</sup> Ein gestellter Antrag im Sinne von Artikel 105a<sup>bis</sup> StG kann nicht mehr zurückgezogen werden.
+
+<sup>2</sup> Geschiedene sowie tatsächlich oder rechtlich getrennte Eheleute, die nach Artikel 105a<sup>bis</sup> StG auf Antrag nachträglich ordentlich veranlagt wurden, werden bis zum Ende der Quellensteuerpflicht nachträglich ordentlich veranlagt.
+
+#### Art. 28b
+
+**3. Regelung von Härtefällen**
+
+<sup>1</sup> Auf Gesuch von quellensteuerpflichtigen Personen, die Unterhaltsbeiträge nach Artikel 36 Absatz 1 Litera c StG leisten und bei denen der Tarifcode A, B, C oder H angewendet wird, kann die Steuerbehörde zur Milderung von Härtefällen bei der Berechnung der Quellensteuer Kinderabzüge bis höchstens zur Höhe der Unterhaltsbeiträge berücksichtigen.
+
+<sup>2</sup> Wurden Unterhaltsbeiträge bei der Anwendung eines dieser Tarifcodes berücksichtigt, so wird die nachträgliche ordentliche Veranlagung nur auf Antrag der quellensteuerpflichtigen Person durchgeführt. Wird die nachträgliche ordentliche Veranlagung beantragt, so wird diese bis zum Ende der Quellensteuerpflicht durchgeführt.
 
 #### Art. 29
 
-**2. Wechsel zwischen Quellensteuer und ordentlicher Veranlagung**
+**4. Wechsel von der Quellenbesteuerung zur ordentlichen Besteuerung**
 
-<sup>1</sup> Erhält ein bisher an der Quelle besteuerter alleinstehender Pflichtiger die Niederlassungsbewilligung, so wird er ab Beginn des folgenden Monats im ordentlichen Verfahren veranlagt. Ist er verheiratet, wird er ab demselben Zeitpunkt zusammen mit dem Ehegatten veranlagt.
+<sup>1</sup> Eine bisher an der Quelle besteuerte Person wird für die ganze Steuerperiode im ordentlichen Verfahren veranlagt, wenn sie:
 
-<sup>2</sup> Heiratet ein bisher an der Quelle besteuerter Pflichtiger eine Person mit Schweizer Bürgerrecht oder mit Niederlassungsbewilligung, so wird er ab Beginn des folgenden Monats im ordentlichen Verfahren veranlagt.
+- a) die Niederlassungsbewilligung erhält;
+- b) eine Person mit Schweizer Bürgerrecht oder mit Niederlassungsbewilligung heiratet.
 
-<sup>3</sup> Die Scheidung sowie die tatsächliche oder rechtliche Trennung von einem Ehepartner mit Schweizer Bürgerrecht oder Niederlassungsbewilligung löst für eine ausländische Arbeitnehmerin oder einen ausländischen Arbeitnehmer ohne Niederlassungsbewilligung ab Beginn des folgenden Monats wieder die Besteuerung an der Quelle aus.
-
-#### Art. 30
-
-**3. Ordentliche Veranlagung bei Vergütungen aus dem Ausland**
-
-<sup>1</sup> Erhält der Steuerpflichtige die Vergütungen von einem Leistungsschuldner im Ausland, und werden diese nicht von einer Betriebsstätte oder einer festen Einrichtung in der Schweiz getragen, so wird er im ordentlichen Verfahren veranlagt.
-
-#### Art. 31
-
-**4. Tarifkorrektur**
-
-<sup>1</sup> Steuerpflichtige nach Artikel 98 Absatz 1 Litera a sowie unter Artikel 98 Absatz 1 Litera b StG fallende Quasi-Ansässige können, soweit kein fester Steuersatz zur Anwendung gelangt, bis Ende März des auf die Fälligkeit der Leistung folgenden Kalenderjahres bei der Kantonalen Steuerverwaltung schriftlich ein Begehren um Tarifkorrektur stellen. Damit können mit dem Einkommen zusammenhängende Abzüge, erhöhte Berufsauslagen, Schuldzinsen, Unterhaltsbeiträge, Beiträge in die gebundene Selbstvorsorge, Krankheits- und Unfallkosten, behinderungs-bedingte Kosten sowie Kinderbetreuungskosten geltend gemacht werden, soweit diese nicht im Tarif berücksichtigt sind.
-
-<sup>2</sup> Keine Tarifkorrektur wird vorgenommen für Steuerpflichtige mit einer nachträglichen ordentlichen Veranlagung.
+<sup>2</sup> Die Quellensteuer ist ab dem Folgemonat nach der Erteilung der Niederlassungsbewilligung oder der Heirat nicht mehr geschuldet. Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
 
 <sup>3</sup> …
 
-<sup>4</sup> Für das Verfahren gilt im Übrigen Artikel 42 sinngemäss.
+#### Art. 29a
 
-### 3.3. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+**5. Wechsel von der ordentlichen Besteuerung zur Quellenbesteuerung**
+
+<sup>1</sup> Unterliegt ein Einkommen innerhalb einer Steuerperiode zunächst der ordentlichen Besteuerung und dann der Quellensteuer, so wird die steuerpflichtige Person für das gesamte Jahr und bis zum Ende der Quellensteuerpflicht nachträglich ordentlich veranlagt.
+
+<sup>2</sup> Die Scheidung sowie die tatsächliche oder rechtliche Trennung von einem Ehemann oder einer Ehefrau mit Schweizer Bürgerrecht oder Niederlassungsbewilligung lösen für eine ausländische Arbeitnehmerin oder einen ausländischen Arbeitnehmer ohne Niederlassungsbewilligung ab Beginn des Folgemonats wieder die Besteuerung an der Quelle aus.
+
+<sup>3</sup> Allfällige Vorauszahlungen vor dem Übergang zur Quellenbesteuerung sowie an der Quelle abgezogene Steuern sind anzurechnen.
+
+#### Art. 30
+
+**…**
+
+#### Art. 31
+
+**…**
+
+### 3.3. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 
 #### Art. 32
 
@@ -360,44 +469,67 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 33
 
-**2. Bewertung von Naturalleistungen**
+**…**
 
-<sup>1</sup> Naturalleistungen werden nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
+#### Art. 33a
+
+**2. Nachträgliche ordentliche Veranlagung bei Quasi-Ansässigkeit (Art. 105a<sup>ter</sup> StG)**
+
+<sup>1</sup> Eine Person, die nach Artikel 8 Absatz 1 StG steuerpflichtig ist und in der Regel mindestens 90 Prozent ihrer weltweiten Bruttoeinkünfte, einschliesslich der Bruttoeinkünfte des Ehemanns oder der Ehefrau, in der Schweiz versteuert (Quasi-Ansässigkeit), kann bei der zuständigen Steuerbehörde bis zum 31. März des auf das Steuerjahr folgenden Jahres schriftlich einen Antrag um Durchführung einer nachträglichen ordentlichen Veranlagung einreichen. Ein gestellter Antrag im Sinne von Artikel 105a<sup>ter</sup> StG kann nicht mehr zurückgezogen werden.
+
+<sup>2</sup> Die Steuerbehörde prüft im Veranlagungsverfahren, ob die quellensteuerpflichtige Person im Steuerjahr die Voraussetzungen der Quasi-Ansässigkeit erfüllt. Dazu ermittelt sie nach den Artikeln 16 - 19 und 21 - 29 StG zuerst die weltweiten Bruttoeinkünfte und danach den Anteil der in der Schweiz steuerbaren Bruttoeinkünfte.
+
+#### Art. 33b
+
+**3. Nachträgliche ordentliche Veranlagung von Amtes wegen (Art. 105a<sup>quater</sup> StG)**
+
+<sup>1</sup> Die zuständigen kantonalen Steuerbehörden können von Amtes wegen eine nachträgliche ordentliche Veranlagung durchführen, wenn sich aus der Aktenlage der begründete Verdacht ergibt, dass stossende Verhältnisse zugunsten oder zuungunsten der steuerpflichtigen Person vorliegen.
+
+<sup>2</sup> Für die Einleitung einer nachträglichen ordentlichen Veranlagung von Amtes wegen gilt Artikel 125 StG über die Veranlagungsverjährung.
 
 #### Art. 34
 
-**3. Künstler etc.**
+**4. Künstler, Sportler und Referenten (Art. 100 StG)**
 
-<sup>1</sup> Ist bei Gruppen der Anteil des einzelnen Mitgliedes nicht bekannt oder nur schwer zu ermitteln, wird für die Bestimmung des Steuersatzes das durchschnittliche Bruttoeinkommen pro Kopf berechnet.
+<sup>1</sup> Als Tageseinkünfte von im Ausland wohnhaften Künstlern, Sportlern sowie Referenten gelten die Einkünfte nach Artikel 100 Absatz 5 StG, dividiert durch die Zahl der Auftritts- und Probetage. Zu den Tageseinkünften zählen insbesondere:
 
-<sup>2</sup> Für den Abzug der Gewinnungskosten ist eine Pauschale von 20 Prozent der Bruttoeinkünfte zulässig. Der Nachweis höherer Kosten bleibt vorbehalten.
+- a) die Bruttoeinkünfte einschliesslich aller Zulagen und Nebeneinkünfte sowie Naturalleistungen; und
+- b) alle vom Veranstalter übernommenen Spesen, Kosten und Quellensteuern.
+
+<sup>2</sup> Ist bei Gruppen der Anteil des einzelnen Mitglieds nicht bekannt oder schwer zu ermitteln, so wird für dessen Bestimmung das durchschnittliche Tageseinkommen pro Kopf berechnet.
+
+#### Art. 34a
+
+**5. Hypothekargläubiger (Art. 102 StG)**
+
+<sup>1</sup> Als steuerbare Einkünfte von im Ausland ansässigen Hypothekargläubigern gelten die Bruttoeinkünfte aus Forderungen nach Artikel 102 StG. Dazu gehören auch Zinsen, die nicht der quellensteuerpflichtigen Person selber, sondern einer Drittperson zufliessen.
 
 #### Art. 35
 
-**4. Renten**
+**6. Im Ausland wohnhafte Empfänger von Renten aus Vorsorge (Art. 103 StG)**
 
-<sup>1</sup> Wird die Quellensteuer nicht erhoben, weil die Besteuerung dem anderen Vertragsstaat zusteht, so hat sich der Schuldner der steuerbaren Leistung den ausländischen Wohnsitz des Empfängers schriftlich bestätigen zu lassen und diesen periodisch zu überprüfen.
+<sup>1</sup> Soweit keine abweichende staatsvertragliche Regelung besteht, unterliegen die Renten von im Ausland wohnhaften Empfängern nach Artikel 103 StG der Quellensteuer.
+
+<sup>2</sup> Wird die Quellensteuer nicht erhoben, weil die Besteuerung dem anderen Vertragsstaat zusteht, so hat sich der Schuldner der steuerbaren Leistung den ausländischen Wohnsitz des Empfängers schriftlich bestätigen zu lassen und diesen periodisch zu überprüfen.
 
 #### Art. 36
 
-**5. Empfänger von Kapitalleistungen**
+**7. Im Ausland wohnhafte Empfänger von Kapitalleistungen aus Vorsorge (Art. 103 StG)**
 
-<sup>1</sup> Kapitalleistungen gemäss Artikel 103 StG[^36-1] unterliegen ungeachtet der staatsvertraglichen Regelung immer der Quellensteuer, wenn der Empfänger im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung keinen Wohnsitz in der Schweiz hat.
+<sup>1</sup> Kapitalleistungen gemäss Artikel 103 StG unterliegen ungeachtet der staatsvertraglichen Regelung immer der Quellensteuer.
 
-<sup>2</sup> Die erhobene Quellensteuer wird durch die kantonale Steuerverwaltung zurückerstattet, wenn der Empfänger der Kapitalleistung:
+<sup>2</sup> Die erhobene Quellensteuer wird durch die Kantonale Steuerverwaltung zinslos zurückerstattet, wenn der Empfänger der Kapitalleistung:
 
-- a) innerhalb von drei Jahren seit deren Fälligkeit einen entsprechenden Antrag stellt und
-- b) dem Antrag eine Bestätigung der zuständigen Steuerbehörde des anspruchsberechtigten Vertragsstaates beilegt, wonach diese von der Kapitalleistung Kenntnis hat.
-
-[^36-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
+- a) innerhalb von drei Jahren seit Auszahlung einen entsprechenden Antrag stellt; und
+- b) dem Antrag eine Bestätigung der zuständigen Steuerbehörde des anspruchsberechtigten Wohnsitzstaates beilegt, wonach diese von der Kapitalleistung Kenntnis hat und der Empfänger der Kapitalleistung eine im Sinne des Doppelbesteuerungsabkommens mit der Schweiz dort ansässige Person ist.
 
 #### Art. 37
 
-**6. Bezugsminima**
+**8. Bezugsminima**
 
 <sup>1</sup> Der Steuerabzug an der Quelle entfällt, wenn die steuerbaren Einkünfte weniger betragen als:
 
-- a) 300 Franken insgesamt bei Künstlern etc.;
+- a) 300 Franken insgesamt bei Künstlern, Sportlern und Referenten;
 - b) 300 Franken im Kalenderjahr bei Verwaltungsräten;
 - c) 300 Franken im Kalenderjahr bei Hypothekargläubigern;
 - d) 1000 Franken im Kalenderjahr bei Empfängern von Vorsorgeleistungen.
@@ -408,7 +540,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 **1. Fälligkeit der Steuer**
 
-<sup>1</sup> Die an der Quelle erhobene Steuer wird im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung fällig. Die Steuer ist ungeachtet allfälliger Einwände (Artikel 42) zu erheben.
+<sup>1</sup> Die an der Quelle erhobene Steuer wird im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung fällig. Der Schuldner der steuerbaren Leistung muss die Quellensteuer ungeachtet allfälliger Einwände (Art. 133 StG) oder Lohnpfändungen abziehen.
 
 #### Art. 39
 
@@ -438,21 +570,44 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>2</sup> Dem Schuldner der steuerbaren Leistung obliegt die Prüfung, ob der Tarif mit oder ohne Kirchensteuer anwendbar ist. Weist sich der Steuerpflichtige in dieser Hinsicht nicht zuverlässig über seine persönlichen Verhältnisse aus, gelangt der Tarif mit Kirchensteuer zur Anwendung.
 
-<sup>3</sup> Die Abrechnung der Quellensteuer ist durch den Schuldner der steuerbaren Leistung quartalsweise vorzunehmen. Die Kantonale Steuerverwaltung kann auf Antrag des Schuldners der steuerbaren Leistung in Ausnahmefällen halbjährliche Abrechnungsperioden gewähren. Die Abrechnungen müssen innert eines Monats nach Ablauf der Abrechnungsperiode eingehen. Die elektronische Übermittlung der Abrechnungen erfolgt monatlich.
+<sup>3</sup> Die Abrechnung der Quellensteuer ist durch den Schuldner der steuerbaren Leistung monatlich vorzunehmen. Die Kantonale Steuerverwaltung kann auf Antrag des Schuldners der steuerbaren Leistung in Ausnahmefällen halbjährliche Abrechnungsperioden gewähren. Die Abrechnungen müssen innert eines Monats nach Ablauf der Abrechnungsperiode eingehen.
 
-<sup>4</sup> Der Schuldner der steuerbaren Leistung ist verpflichtet, der Kantonalen Steuerverwaltung jeweils gesonderte Abrechnungen für Steuerpflichtige mit und ohne Kirchensteuer sowie auf Nebenerwerb erhobene Steuern einzureichen.
+<sup>4</sup> …
 
-<sup>5</sup> Nimmt der Schuldner der steuerbaren Leistung die Übermittlung der Quellensteuerabrechnung elektronisch vor, so kann die Meldung gemäss Artikel 104 Absatz 1 Litera d StG mit der monatlichen Abrechnung erfolgen.
+<sup>5</sup> …
+
+#### Art. 41a
+
+**c) Meldepflichten**
+
+<sup>1</sup> Die Arbeitgeber müssen die Beschäftigung von Personen, die nach Artikel 98 StG quellensteuerpflichtig sind, der zuständigen Steuerbehörde innert acht Tagen ab Stellenantritt mit dem dafür vorgesehenen Formular melden.
+
+<sup>2</sup> Übermittelt der Arbeitgeber die Quellensteuerabrechnung elektronisch, so kann er Neuanstellungen mittels monatlicher Abrechnung melden.
+
+<sup>3</sup> Die Arbeitnehmer müssen dem Arbeitgeber Änderungen von Sachverhalten melden, die für die Erhebung der Quellensteuer massgebend sind. Der Arbeitgeber meldet die Änderungen innerhalb der Fristen nach den Absätzen 1 und 2 der zuständigen Steuerbehörde.
+
+#### Art. 41b
+
+**d) Notwendige Vertretung**
+
+<sup>1</sup> Die Steuerbehörden können von einer steuerpflichtigen Person mit Wohnsitz oder Sitz im Ausland verlangen, dass sie einen Vertreter in der Schweiz bezeichnet.
+
+<sup>2</sup> Personen, die nach Artikel 105a<sup>ter</sup> StG eine nachträgliche ordentliche Veranlagung beantragen, müssen die erforderlichen Unterlagen einreichen und eine Zustelladresse in der Schweiz bezeichnen. Wird keine Zustelladresse bezeichnet oder verliert die Zustelladresse während des Veranlagungsverfahrens ihre Gültigkeit, so gewährt die zuständige Behörde der steuerpflichtigen Person eine angemessene Frist für die Bezeichnung einer gültigen Zustelladresse. Läuft diese Frist unbenutzt ab, so tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuer auf dem Erwerbseinkommen. Artikel 124 Absatz 3 StG betreffend Wiederherstellung der Frist gilt sinngemäss.
 
 #### Art. 42
 
-**c) Verfügung über Steuerpflicht (Art. 133 StG)**
+**e) Verfügung über Steuerpflicht (Art. 133 StG)**
 
-<sup>1</sup> Sind der Steuerpflichtige oder der Schuldner der steuerbaren Leistung mit dem Steuerabzug nicht einverstanden, so können sie bis Ende März des auf die Fälligkeit der Leistung folgenden Kalenderjahres von der Kantonalen Steuerverwaltung eine Verfügung über Bestand und Umfang der Steuerpflicht verlangen.
+<sup>1</sup> Die steuerpflichtige Person kann von der Veranlagungsbehörde bis zum 31. März des auf die Fälligkeit der Leistung folgenden Steuerjahres eine Verfügung über Bestand und Umfang der Steuerpflicht verlangen, wenn sie:
+
+- a) mit dem Quellensteuerabzug gemäss Bescheinigung nach Artikel 104 StG nicht einverstanden ist; oder
+- b) die Bescheinigung nach Artikel 104 StG vom Arbeitgeber nicht erhalten hat.
+
+<sup>2</sup> Der Schuldner der steuerbaren Leistung kann von der Veranlagungsbehörde bis zum 31. März des auf die Fälligkeit der Leistung folgenden Steuerjahres eine Verfügung über Bestand und Umfang der Steuerpflicht verlangen.
 
 #### Art. 43
 
-**d) Nachforderung und Rückerstattung**
+**f) Nachforderung und Rückerstattung**
 
 <sup>1</sup> Hat der Schuldner der steuerbaren Leistung den Steuerabzug nicht oder ungenügend vorgenommen, wird er zur Nachzahlung nebst Zins verpflichtet. Der Rückgriff des Schuldners auf den Steuerpflichtigen bleibt vorbehalten.
 
@@ -462,9 +617,11 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>4</sup> Im Übrigen richtet sich die Rückerstattungspflicht nach Artikel 157 StG.
 
+<sup>5</sup> Die steuerpflichtige Person kann von der Veranlagungsbehörde zur Nachzahlung der von ihr geschuldeten Quellensteuer verpflichtet werden, wenn die ausbezahlte steuerbare Leistung nicht oder nicht vollständig um die Quellensteuer gekürzt wurde und ein Nachbezug beim Schuldner der steuerbaren Leistung nicht möglich ist.
+
 #### Art. 44
 
-**e) Rechtsmittel**
+**g) Rechtsmittel**
 
 <sup>1</sup> Gegen eine Verfügung über die Quellensteuer kann neben dem Steuerpflichtigen auch der Schuldner der steuerbaren Leistung Einsprache nach Artikel 137 StG[^44-1] erheben.
 
@@ -478,15 +635,15 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>2</sup> Die Zahlungsfrist beträgt 30 Tage seit Rechnungstellung.
 
-<sup>3</sup> Innert 60 Tagen nach Ende der Abrechnungsperiode ergeht eine Rechnung.
+<sup>3</sup> …
 
 <sup>4</sup> Für verspätete Zahlungen ist ein Verzugszins gemäss Artikel 153 StG geschuldet.
 
-<sup>5</sup> Für elektronisch vorgenommene Abrechnungen erhält der Schuldner der steuerbaren Leistung eine zusätzliche Bezugsprovision von 1 Prozent.
+<sup>5</sup> …
 
 #### Art. 45a
 
-**5. Vereinfachtes Abrechnungsverfahren (Art. 39a StG)**
+**5. Vereinfachtes Abrechnungsverfahren (Art. 99a StG)**
 
 <sup>1</sup> Die Quellensteuer wird wie folgt aufgeteilt:
 
@@ -501,7 +658,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 **6. Anteile der Kirchen**
 
-<sup>1</sup> Für Quellensteuerpflichtige gemäss Tarif A - C und F - P erfolgt die Zuweisung an die Kirchen nach Massgabe der Kirchenzugehörigkeit des Quellensteuerpflichtigen.
+<sup>1</sup> Für Quellensteuerpflichtige gemäss Tarifcode A - C und F - Q erfolgt die Zuweisung an die Kirchen nach Massgabe der Kirchenzugehörigkeit des Quellensteuerpflichtigen.
 
 #### Art. 46
 
@@ -512,6 +669,12 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 ## 4. Verfahrensrecht
 
 ### 4.1. Allgemeine Verfahrensgrundsätze
+
+#### Art. 46a
+
+**Elektronische Erfassung und Aufbewahrung von Daten**
+
+<sup>1</sup> Die kantonale Steuerverwaltung erlässt die Regelungen zur Übermittlung, Beweiskraft, Aufbewahrungsdauer und Löschung der Daten.
 
 #### Art. 47
 
@@ -531,9 +694,9 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 **b) Elektronische Einreichung (Art. 127 Abs. 2 StG)**
 
-<sup>1</sup> Die Kantonale Steuerverwaltung ist berechtigt, ab Steuerperiode 2012 die elektronische Einreichung der Steuererklärung zuzulassen. Der Steuerpflichtige kann zwischen der Einreichung in Papierform und der elektronischen Einreichung wählen.
+<sup>1</sup> Die Steuererklärung kann auch in elektronischer Form eingereicht werden. Der Steuerpflichtige kann zwischen der Einreichung in Papierform und der elektronischen Einreichung wählen.
 
-<sup>2</sup> Für die Steuererklärung 2012 kann die Kantonale Steuerverwaltung einen Testbetrieb einrichten.
+<sup>2</sup> …
 
 ### 4.3. Bezug und Sicherung
 
@@ -569,7 +732,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>1</sup> Die Gebühr für die zweite Mahnung beträgt 30 Franken.
 
-<sup>2</sup> Die Betreibungsgebühr beträgt 50 Franken.
+<sup>2</sup> Die Betreibungsgebühr beträgt 100 Franken.
 
 #### Art. 51
 
@@ -577,7 +740,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>1</sup> Für Bezüger von Ergänzungsleistungen im Sinne des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^51-1] sowie für Bezüger von Unterstützungsleistungen im Sinne von Artikel 1 des kantonalen Gesetzes über die Unterstützung Bedürftiger[^51-2] kann auf Antrag hin eine Nullveranlagung erlassen werden, sofern das massgebende Vermögen weniger als 25 000 Franken (Alleinstehende) beziehungsweise 40 000 Franken (Verheiratete) beträgt.
 
-<sup>2</sup> Das massgebende Vermögen setzt sich zusammen aus dem Reinvermögen plus der Differenz zwischen dem Steuerwert von Liegenschaften und deren Verkehrswert gemäss letzter amtlicher Schätzung.
+<sup>2</sup> Das massgebende Vermögen setzt sich zusammen aus dem Reinvermögen plus der Differenz zwischen dem Steuerwert von Liegenschaften und deren Verkehrswert gemäss letzter amtlicher Bewertung.
 
 <sup>3</sup> Mit dem Antrag gemäss Absatz 1 verzichtet der Steuerpflichtige auf die Geltendmachung seines Verrechnungssteueranspruchs.
 
@@ -610,7 +773,8 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 - a) die vorgeschriebenen Mitteilungen und Aufforderungen zu veröffentlichen;
 - b) das Steuerregister nach den Weisungen der kantonalen Steuerverwaltung zu erstellen;
-- c) die Steuerakten nach den Weisungen der kantonalen Steuerverwaltung aufzubewahren. Die kantonale Steuerverwaltung kann eine elektronische Aufbewahrung vorschreiben.
+- c) die Steuerakten nach den Weisungen der kantonalen Steuerverwaltung aufzubewahren;
+- d) einzelne Steuererklärungsformulare zu versenden.
 
 #### Art. 54
 
@@ -618,7 +782,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>1</sup> Gemeinden, die eine Mindestanzahl von Fällen veranlagen und über entsprechend ausgebildete Mitarbeiter verfügen, können bei der Veranlagung der Einkommens- und Vermögenssteuer mitarbeiten. Die veranlagende Person muss die von der Kantonalen Steuerverwaltung verlangte Aus- und Weiterbildung erfolgreich absolvieren.
 
-<sup>2</sup> Die Gemeinde muss pro Gemeindemitarbeiter mindestens 500 Fälle veranlagen.
+<sup>2</sup> Die Gemeinde muss pro Gemeindemitarbeiter mindestens 1000 Fälle veranlagen.
 
 <sup>3</sup> Die Steuerverwaltung kann in fachlich begründeten Fällen Ausnahmen bewilligen.
 
@@ -636,23 +800,23 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>1</sup> Gemeinden, die bei der Veranlagung mitarbeiten, haben nach Weisung der Steuerverwaltung:
 
-- a) alle für die Veranlagung erheblichen Tatsachen und Unterlagen zu ermitteln und abzulegen sowie die Selbstangaben auf den eingehenden Haupt- und Nebenformularen formell zu prüfen;
-- b) die unselbständig Erwerbenden, die beschränkt Steuerpflichtigen sowie die Nichterwerbstätigen zu veranlagen und die Grundlagen für die Veranlagung Selbständigerwerbender zu prüfen;
+- a) alle für die Veranlagung erheblichen Tatsachen und Unterlagen zu ermitteln und abzulegen sowie die Selbstangaben auf den eingehenden Haupt- und Nebenformularen formell zu prüfen, solange die Steuererklärungen noch in der Gemeinde eingehen;
+- b) die unselbständig Erwerbenden, die beschränkt Steuerpflichtigen sowie die Nichterwerbstätigen zu veranlagen;
 - c) für den Steuerkommissär und seine Mitarbeiter geeignete Arbeitsräume mit EDV Infrastruktur sowie das notwendige, qualifizierte Personal für die Erledigung der Sekretariatsarbeiten zur Verfügung zu stellen.
 
 #### Art. 57
 
 **5. Entschädigung a) Eingangskontrolle**
 
-<sup>1</sup> Wird die elektronische Archivierung vorgeschrieben, erfolgt die Eingangskontrolle zusammen mit der Archivierung.
+<sup>1</sup> Die Gemeinde erhält für die Eingangskontrolle eine Entschädigung von 7 Franken pro Fall am Register, mindestens jedoch 1000 Franken, solange die Steuererklärungen noch in der Gemeinde eingehen.
 
-<sup>2</sup> Die Gemeinde erhält für die Eingangskontrolle eine Entschädigung von 7 Franken pro Fall am Register, mindestens jedoch 1000 Franken.
+<sup>2</sup> …
 
 #### Art. 58
 
 **b) Vorerfassen**
 
-<sup>1</sup> Die mitveranlagenden Gemeinden sind verpflichtet, alle Daten sämtlicher eingehender Steuererklärungen vorzuerfassen. Nicht mitveranlagende Gemeinden können die Vorerfassung übernehmen, wenn sie an das elektronische Veranlagungssystem (EVA) angeschlossen sind.
+<sup>1</sup> Die mitveranlagenden Gemeinden sind verpflichtet, alle Daten sämtlicher in der Gemeinde eingehender Steuererklärungen vorzuerfassen. Nicht mitveranlagende Gemeinden können die Vorerfassung übernehmen, wenn sie an das elektronische Veranlagungssystem (EVA) angeschlossen sind.
 
 <sup>2</sup> Für die manuelle Vorerfassung erhält die Gemeinde sieben Franken pro Fall. Die Entschädigung wird nicht zusätzlich zur Veranlagungsentschädigung ausgerichtet.
 
@@ -696,6 +860,8 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>2</sup> Für die Veranlagung der nach dem Aufwand besteuerten natürlichen Personen bezahlen die Gemeinden 150 Franken pro Fall.
 
+<sup>3</sup> Für das Scannen und die elektronische Archivierung der Steuerakten durch die kantonale Steuerverwaltung entrichten die Gemeinden eine Entschädigung von 2 Franken pro Steuerpflichtigen.
+
 #### Art. 61
 
 **2. Grundstückgewinnsteuer (Art. 30 Abs. 1 GKStG)**
@@ -716,11 +882,17 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 <sup>2</sup> Die Landeskirchen und die Kirchgemeinden entschädigen die Kantonale Steuerverwaltung mit vier Prozent der bezogenen Kirchenanteile.
 
-## 5. Verrechnungssteuer, pauschale Steueranrechnung, Rückerstattung und Verrechnung des zusätzlichen Steuerrückbehalts USA
+#### Art. 61b
 
-[^61a-1]
+**4. Gewinn-, Kapital- und Kultussteuer (Art. 165a Abs. 1 lit. d und e StG)**
 
-[^61a-1]: Vgl. Art. 73 Abs. 1 VStG (SR [642.21](https://db.clex.ch/link/Bund/642.21/de)), Art. 15 ff. der Verordnung über die pauschale Steueranrechnung (SR [672.201](https://db.clex.ch/link/Bund/672.201/de)) sowie Art. 11 ff. der Verordnung zum schweizerisch amerikanischen Doppelbesteuerungsabkommen (SR [672.933.61](https://db.clex.ch/link/Bund/672.933.61/de))
+<sup>1</sup> Die kantonale Steuerverwaltung erhebt für Veranlagung, Bezug und Abrechnung der Gewinn- und Kapitalsteuer für die Gemeinden sowie der Kultussteuer eine Gebühr von 2 Prozent der bezogenen Steuern.
+
+## 5. Verrechnungssteuer, Anrechnung ausländischer Quellensteuern, Rückerstattung und Verrechnung des zusätzlichen Steuerrückbehalts USA
+
+[^61b-1]
+
+[^61b-1]: Vgl. Art. 73 Abs. 1 VStG (SR [642.21](https://db.clex.ch/link/Bund/642.21/de)), Art. 15 ff. der Verordnung über die Anrechnung ausländischer Quellensteuern (SR [672.201](https://db.clex.ch/link/Bund/672.201/de)) sowie Art. 11 ff. der Verordnung zum schweizerisch amerikanischen Doppelbesteuerungsabkommen (SR [672.933.61](https://db.clex.ch/link/Bund/672.933.61/de))
 
 #### Art. 62
 
@@ -740,13 +912,15 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 **2. Rückerstattung oder Verrechnung (Art. 72 StG)**
 
-<sup>1</sup> Die Rückerstattung der anrechenbaren Beträge (pauschale Steueranrechnung) sowie des zusätzlichen Steuerrückbehalts USA erfolgt nach Massgabe des kantonalen Steuergesetzes.
+<sup>1</sup> Die Rückerstattung der anrechenbaren ausländischen Quellensteuern sowie des zusätzlichen Steuerrückbehalts USA erfolgt nach den Regeln für die Verrechnungssteuer (Art. 72 StG).
 
 #### Art. 65
 
 **3. Belastung von Kanton und Gemeinden**
 
-<sup>1</sup> Der dem Bund gemäss Artikel 20 der bundesrätlichen Verordnung über die pauschale Steueranrechnung[^65-1] nicht zu belastende Teilbetrag der pauschalen Steueranrechnung wird zwischen Kanton und Wohnsitzgemeinde des Antragstellers zu gleichen Teilen aufgeteilt.
+<sup>1</sup> Der Betrag der anrechenbaren ausländischen Quellensteuern wird gemäss der bundesrätlichen Verordnung über die Anrechnung ausländischer Quellensteuern[^65-1] auf die einzelnen Steuerhoheiten beziehungsweise Steuerempfänger aufgeteilt.
+
+<sup>2</sup> Der dem Bund zu belastende Betrag wird um den kantonalen Anteil an der direkten Bundessteuer gekürzt. Diese Kürzung geht zulasten des Kantons.
 
 [^65-1]: SR [672.201](https://db.clex.ch/link/Bund/672.201/de)
 
@@ -783,6 +957,16 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 **c) Liegenschaftensteuer (Art. 19 Abs. 1 GKStG)**
 
 <sup>1</sup> Die Veranlagung der Liegenschaftensteuer der Steuerperiode 2008 und früherer Steuerperioden erfolgt für die juristischen Personen durch die Gemeinde, für die natürlichen Personen durch die nach Steuergesetz für die direkten Steuern zuständige Behörde.
+
+#### Art. 69c
+
+**d) Tarifkorrektur (Art. 191a StG)**
+
+<sup>1</sup> Steuerpflichtige nach Artikel 98 Absatz 1 Litera a sowie unter Artikel 98 Absatz 1 Litera b StG fallende Quasi-Ansässige können, soweit kein fester Steuersatz zur Anwendung gelangt, für das Steuerjahr 2020 bis zum 31. März 2021 bei der Kantonalen Steuerverwaltung schriftlich ein Begehren um Tarifkorrektur stellen. Damit können mit dem Einkommen zusammenhängende Abzüge, erhöhte Berufsauslagen, Kosten der berufsorientierten Aus- und Weiterbildung einschliesslich Umschulungskosten, Schuldzinsen, Unterhaltsbeiträge, Beiträge in die gebundene Selbstvorsorge, Krankheits- und Unfallkosten, behinderungsbedingte Kosten sowie Kinderbetreuungskosten geltend gemacht werden, soweit diese nicht im Tarif berücksichtigt sind.
+
+<sup>2</sup> Keine Tarifkorrektur wird vorgenommen für Steuerpflichtige mit einer nachträglichen ordentlichen Veranlagung.
+
+<sup>3</sup> Für das Verfahren gilt im Übrigen Artikel 42 sinngemäss.
 
 #### Art. 70
 

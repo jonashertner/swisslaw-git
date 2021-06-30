@@ -4,13 +4,13 @@ number: "720.015"
 title: Disposiziuns executivas tar la legislaziun da taglia
 short: DERtLT
 language: rm
-version: 2016-01-01
-corrected: 2016-02-18
-version_adopted: 2016-02-15
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-12-21
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2652/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +19,9 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2652/pdf_file"
 
 (DERtLT)
 
-dals 27-11-2007 (versiun dals 01-01-2016)
+dals 27-11-2007 (versiun dals 01-07-2021)
 
-sa basond sin l'art. 182 al. 4 da la lescha federala dals 14 da december 1990 davart la taglia federala directa (LTFD)[^ingress-1], sin l'art. 72 al. 3 da la lescha federala dals 14 da december 1990 davart l'armonisaziun da la taglia directa dals chantuns e da las vischnancas (LATD)[^ingress-2], sin l'art. 73 al. 1 da la lescha federala dals 13 d'october 1965 davart la taglia anticipada (LTAnt)[^ingress-3], sin l'art. 15 da l'ordinaziun dal cussegl federal dals 22 d'avust 1967 davart la fixaziun pauschala da taglia[^ingress-4], sin l'ordinaziun dal cussegl federal dals 2 d'october 1996 tar la cunvegna svizra-americana davart l'imposiziun dubla da taglia[^ingress-5] sco er sin l'art. 45 al. 1 da la constituziun dal chantun Grischun dals 18 da matg 2003 / 14 da settember 2003[^ingress-6]
+sa basond sin l'art. 182 al. 4 da la Lescha federala dals 14 da december 1990 davart la taglia federala directa (LTFD)[^ingress-1], sin l'art. 72 al. 3 da la Lescha federala dals 14 da december 1990 davart l'armonisaziun da la taglia directa dals chantuns e da las vischnancas (LATD)[^ingress-2], sin l'art. 73 al. 1 da la Lescha federala dals 13 d'october 1965 davart la taglia anticipada (LTAnt)[^ingress-3], sin l'art. 15 da l'Ordinaziun dal Cussegl federal dals 22 d'avust 1967 davart l'imputaziun da taglias a la funtauna estras[^ingress-4], sin l'Ordinaziun dal Cussegl federal dals 2 d'october 1996 tar la Cunvegna svizra-americana davart l'imposiziun dubla da taglia[^ingress-5] sco er sin l'art. 45 al. 1 da la Constituziun dal chantun Grischun dals 18 da matg 2003 / 14 da settember 2003[^ingress-6]
 
 relaschada da la regenza ils 27 da november 2007
 
@@ -44,6 +44,10 @@ relaschada da la regenza ils 27 da november 2007
 
 [^1-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
 
+#### Art. 1a
+
+**…**
+
 #### Art. 2
 
 **2. Cuminanzas da persunas**
@@ -54,7 +58,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 2a
 
-**Imposiziun da taglia tenor las expensas (art. 15 al. 1 lit. a LT)**
+**3. Imposiziun da taglia tenor las expensas (art. 15 al. 1 lit. a LT)**
 
 <sup>1</sup> L'import minimal tenor l'artigel 15 alinea 1 litera a LT correspunda a quel da l'artitgel 14 alinea 3 litera a LTFD[^2a-1]
 
@@ -130,18 +134,65 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>1</sup> Cun ina facultad suttamessa a la taglia da main che 600 000 francs dastga la valur da l'atgna locaziun suttamessa a la taglia importar maximalmain 30 pertschient da las entradas en daner blut.
 
+#### Art. 10a
+
+**4. Custs supplementars per alimentaziun ed alloschi (art. 31 al. 1 lit. b LT)**
+
+<sup>1</sup> Per ils custs supplementars da l'alimentaziun ordaifer pon vegnir fatgas las suandantas deducziuns:
+
+- a) 15 francs per past principal resp. 15 francs per di da lavur, en cas d'ina alimentaziun ordaifer permanenta 3200 francs per onn;
+- b) 7.50 francs per di da lavur, en cas d'ina alimentaziun ordaifer permanenta 1600 francs per onn, sche l'alimentaziun vegn subvenziunada dal patrun.
+
+<sup>2</sup> Las tariffas tenor l'alinea 1 valan er en cas da lavur en squadra u da lavur da notg.
+
+<sup>3</sup> Per ils custs supplementars da l'alimentaziun ordaifer en cas d'ina dimora ordaifer durant l'emna pon vegnir fatgas las suandantas deducziuns:
+
+- a) 15 francs per past principal resp. 30 francs per di da lavur, en cas d'ina dimora durant l'emna da l'entir onn 6400 francs per onn;
+- b) 22.50 francs per di da lavur, en cas d'ina dimora durant l'emna da l'entir onn 4800 francs per onn, sche l'alimentaziun vegn subvenziunada dal patrun.
+
+<sup>4</sup> Sco custs supplementars necessaris per l'alloschi ordaifer pon vegnir deducidas las expensas usitadas al lieu per ina chombra. La deducziun importa maximalmain 9600 francs per onn.
+
+#### Art. 10b
+
+**5. Gieus per daners (art. 30 al. 1 lit. m ed n, art. 36 al. 1 lit. n LT)**
+
+<sup>1</sup> Libers da taglia èn:
+
+- a) ils gudogns realisads en casinos cun gieus da casino ch'èn admess tenor la lescha federala dals 29 da settember 2017[^10b-1] davart gieus per daners (lescha da gieus per daners, LGD), sche quests gudogns na derivan betg d'ina activitad da gudogn independenta;
+- b) ils singuls gudogns fin ad ina summa dad 1 milliun francs che derivan da la participaziun a gieus da gronda extensiun admess tenor la LGD e da la participaziun online a gieus da casino admess tenor la LGD;
+- c) ils gudogns che derivan da la participaziun a gieus da pitschna extensiun admess tenor la LGD;
+- d) ils singuls gudogns fin 1000 francs che derivan da lottarias e da gieus d'inschign per promover la vendita e che n'èn – tenor l'artitgel 1 alinea 2 literas d ed e – betg suttamess a la LGD.
+
+<sup>2</sup> Dals singuls gudogns che derivan da la participaziun a gieus per daners, ils quals n'èn betg libers da taglia tenor l'alinea 1, vegnan deducids 5 pertschient, dentant maximalmain 5000 francs, sco custs da las messas. Dals singuls gudogns che derivan da la participaziun online a gieus da casino tenor l'alinea 1 litera b vegnan deducidas las messas prelevadas durant l'onn fiscal dal conto online, dentant maximalmain 25 000 francs.
+
+[^10b-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/rm)
+
+#### Art. 10c
+
+**6. Prestaziuns transitoricas per persunas dischoccupadas pli attempadas (art. 30 al. 1 lit. o LT)**
+
+<sup>1</sup> Libras da taglia èn las entradas sin basa da la Lescha federala davart las prestaziuns transitoricas per ils dischoccupads pli attempads[^10c-1].
+
+[^10c-1]: CS [837.2](https://db.clex.ch/link/Bund/837.2/rm)
+
 #### Art. 11
 
-**4. Daners da sesidas (art. 31 al. 2 LT)**
+**6. Daners da sesida (art. 31 al. 2 LT)**
 
 <sup>1</sup> Per activitads en uffizi accessoric a favur da la publicitad vala a partir da la perioda fiscala 2008 la suandanta regulaziun:
 
 - a) daners da sesidas ed entradas sumegliantas da totalmain 1000 francs per onn chalendar èn libers da taglia;
 - b) per imports che surpassan questa summa valan 50 pertschient, dentant maximalmain 1000 francs sco custs pauschals per realisar il gudogn. Custs effectivs per realisar il gudogn pli auts ston vegnir cumprovads en total.
 
+#### Art. 11a
+
+**7. Amortisaziuns e retenziuns**
+
+<sup>1</sup> Las amortisaziuns tenor l'artitgel 32 alinea 1 litera a respectivamain tenor l'artitgel 81 alinea 1 litera b LT e las retenziuns tenor l'artitgel 32 alinea 1 litera b respectivamain tenor l'artitgel 81 alinea 1 litera c LT vegnan regladas en las agiuntas da quest relasch.
+
 #### Art. 12
 
-**5. Reservas per custs da perscrutaziun e da svilup a) princip**
+**8. Reservas per ils custs da perscrutaziun e da svilup a) princip**
 
 <sup>1</sup> Reservas per la perscrutaziun e per il svilup en il senn da l'artitgel 32 alinea 1 litera c respectivamain da l'artitgel 81 alinea 1 litera d LT[^12-1] pon vegnir furmadas mo per projects u per products concrets. L'interpresa sto cumprovar che las expensas correspundentas vegnian a resultar en ina perioda da circa tschintg onns.
 
@@ -163,7 +214,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 15
 
-**6. Acquisiziuns cumpensatoricas**
+**9. Acquisiziuns cumpensatoricas**
 
 <sup>1</sup> 1 Sin ina dumonda motivada po il termin da dus onns per l'amortisaziun da l'object da cumpensaziun en il senn da l'artitgel 33 alinea 3 respectivamain da l'artitgel 84 alinea 3 LT[^15-1] vegnir prolungà per in ulteriur onn. L'autoritad da taxaziun sto decider en chaussa entaifer 60 dis. La decisiun sto vegnir communitgada cun ina disposiziun, cunter la quala i po vegnir fatg protesta e recurs.
 
@@ -173,7 +224,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 16
 
-**7. Administraziun d'immobiglias (art. 35 al. 2 LT) a) deducziun pauschala**
+**10. Mantegniment d'immobiglias (art. 35 al. 2 LT) a) deducziun pauschala**
 
 <sup>1</sup> Per la deducziun dals custs d'administraziun e da mantegniment da bains immobigliars privats surbajegiads importa la deducziun pauschala
 
@@ -188,17 +239,17 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 18
 
-**8. Deducziun per uffants: concubinat (art. 38 al. 1 lit. d LT)**
+**11. Deducziun per uffants: concubinat (art. 38 al. 1 lit. d LT)**
 
 <sup>1</sup> En relaziuns da concubinat cun uffants communabels vegni supponì ch'il partenari da concubinat cun l'entrada netta pli auta procuria principalmain per il mantegniment dals uffants.
 
 #### Art. 19
 
-**9. Tariffa per persunas maridadas**
+**12. Tariffa da pèrs maridads**
 
-<sup>1</sup> Sche l'uffant viva alternantamain en la chasada da la mamma respectivamain dal bab e sche nagin genitur na po deducir aliments per uffants, vegn concedida la distgargia en il senn da l'artitgel 39 alinea 3 LT[^19-1] per regla a quel genitur cun l'entrada pli auta.
+<sup>1</sup> Sche l'uffant viva alternantamain en la chasada da la mamma respectivamain dal bab e sche nagin genitur na po deducir aliments per uffants, vegn concedida la distgargia en il senn da l'artitgel 39 alinea 3 LT [^19-1] per regla a quel genitur cun l'entrada netta pli auta.
 
-[^19-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
+[^19-1]: DG 720.000
 
 #### Art. 20
 
@@ -236,9 +287,13 @@ relaschada da la regenza ils 27 da november 2007
 
 ## 2. Las taglias da las persunas giuridicas
 
+#### Art. 23a
+
+**…**
+
 #### Art. 24
 
-**1. Societads cun entradas passivas**
+**Societads cun entradas passivas**
 
 <sup>1</sup> Sco entradas passivas en il senn da l'artitgel 87 alinea 3 LT[^24-1] valan en spezial retgavs da chapital, taxas da licenzas e da patentas, tschains da fittanza sco er premias da reassicuranzas.
 
@@ -250,105 +305,159 @@ relaschada da la regenza ils 27 da november 2007
 
 **…**
 
-## 3. Las taglias a la funtauna (art. 105e LT)
+## 3. Las taglias a la funtauna
 
-### 3.1. Lavurantas e lavurants
+### 3.1. Disposiziuns generalas
 
 #### Art. 25
 
 **1. Tariffas**
 
-<sup>1</sup> Per deducir la taglia a la funtauna vegnan assegnads ils suandants codes tariffars a las lavurantas ed als lavurants che figureschan qua sutvart:
+<sup>1</sup> Per deducir la taglia a la funtauna vegnan assegnads ils suandants codes tariffars a las categorias che figureschan qua sutvart:
 
 - a) code tariffar A: persunas nubilas, persunas divorziadas, persunas che vivan en ina lètg u en in partenadi giuridicamain ed effectivamain separada u separà e persunas vaivas, las qualas na vivan betg en la medema chasada cun uffants u cun persunas che basegnan sustegn;
 - b) code tariffar B: conjugals che vivan en ina lètg giuridicamain ed effectivamain nunseparada, tar ils quals mo il conjugal ha in'activitad da gudogn;
 - c) code tariffar C: conjugals che vivan en ina lètg giuridicamain ed effectivamain nunseparada, tar ils quals omadus conjugals han in'activitad da gudogn;
-- d) code tariffar D:
-  - 1\. persunas che han in'activitad da gudogn accessoric, per las entradas dal gudogn accessoric;
-  - 2\. persunas che retiran da l'assicuranza entradas substitutivas tenor l'artitgel 27, per questas entradas;
-- e) code tariffar E: persunas che vegnan suttamessas a la taglia en la procedura da rendaquint simplifitgada tenor ils artitgels 39a LT;
-- f) code tariffar F: cunfinarias e cunfinaris tenor la cunvegna dals 3 d'october 1974[^25-1] tranter la Svizra e l'Italia davart l'imposiziun dals lavurants da cunfin e la cumpensaziun finanziala a favur da las vischnancas talianas limitrofas, che vivan en ina vischnanca taliana da cunfin e dals quals il conjugal u la conjugala ha in'activitad da gudogn ordaifer la Svizra. Per quest code tariffar vegn deposità il code tariffar C; resalvada resta la cumprova ch'il conjugal che viva a l'exteriur n'obtegna betg in'entrada da gudogn (tariffa B);
+- d) …
+- e) code tariffar E: persunas che vegnan suttamessas a la taglia en la procedura da rendaquint simplifitgada tenor l'artitgel 99a LT;
+- f) code tariffar F: cunfinarias e cunfinaris tenor la Cunvegna dals 3 d'october 1974[^25-1] tranter la Svizra e l'Italia davart l'imposiziun dals lavurants da cunfin e la cumpensaziun finanziala a favur da las vischnancas talianas limitrofas, che vivan en ina vischnanca taliana da cunfin e dals quals il conjugal u la conjugala ha in'activitad da gudogn ordaifer la Svizra. Per quest code tariffar vegn deposità il code tariffar C; resalvada resta la cumprova ch'il conjugal che viva a l'exteriur n'obtegna betg in'entrada da gudogn (code tariffar B);
+- f<sup>bis</sup>) code tariffar G: entradas substitutivas tenor l'artitgel 27a che na vegnan betg pajadas da las patrunas e dals patruns a las persunas ch'èn obligadas da pajar la taglia a la funtauna;
 - g) code tariffar H: persunas nubilas, persunas divorziadas, persunas che vivan en ina lètg u en in partenadi giuridicamain ed effectivamain separada u separà e persunas vaivas, las qualas vivan en la medema chasada cun uffants u cun persunas che basegnan sustegn, per ils quals ellas procuran principalmain per il mantegniment;
 - h) code tariffar L: cunfinarias e cunfinaris tenor la convenziun dals 11 d'avust 1971[^25-2] tranter la confederaziun svizra e la republica federala tudestga per evitar l'imposiziun dubla en il sectur da las taglias sin las entradas e sin la facultad (CID-D), che adempleschan las premissas per il code tariffar A;
 - i) code tariffar M: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar B;
 - j) code tariffar N: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar C;
-- k) code tariffar O: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar D;
-- l) code tariffar P: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar H.
+- k) …
+- l) code tariffar P: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar H;
+- m) code tariffar Q: cunfinarias e cunfinaris tenor la CID-D che adempleschan las premissas per il code tariffar G.
 
-<sup>2</sup> L'administraziun chantunala da taglia calculescha las tariffas per mais tenor l'alinea 1 literas a fin d ed f fin l, e quai – cun e senza resguardar la taglia da baselgia – confurm a las deducziuns ed a las tariffas che valan per ina taxaziun ordinaria.
+<sup>1<sup>bis</sup></sup> La taglia a la funtauna (incl. part a la vischnanca ed a la baselgia) sin las entradas substitutivas cun il code tariffar G importa:
 
-<sup>3</sup> Per fixar las tariffas vegnan las entradas ordinarias convertidas sin in onn. Per eruir la tariffa fiscala tar la tariffa C vegn presumada in'entrada da gudogn dal medem import sco quel da la persuna obligada da pajar la taglia a la funtauna e da sia conjugala u da ses conjugal, en moda che l'administraziun chantunala da taglia plafonescha l'entrada da la conjugala u dal conjugal.
+- a) 0,0 % per ils emprims 18 000.– fr.
+- b) 9,8 % per ils ulteriurs 6000.– fr.
+- c) 14,0 % per ils ulteriurs 12 000.– fr.
+- d) 16,4 % per ils ulteriurs 12 000.– fr.
+- e) 17,8 % per ils ulteriurs 12 000.– fr.
+- f) 17,1 % per ils ulteriurs 30 000.– fr.
+- g) 17,7 % per ils ulteriurs 30 000.– fr.
+- h) 19,1 % per ils ulteriurs 60 000.– fr.
+- i) 21,2 % per ils ulteriurs 640 000.– fr.
+- j) 20,0 % per tut las entradas suttamessas a la taglia, sche quellas surpassan 820 000.– fr.
 
-<sup>4</sup> Sin dumonda da pajataglias che han il code tariffar A, B, C, F u H e che pajan contribuziuns da mantegniment, po l'administraziun chantunala da taglia permetter – per mitigiar cas da direzza – a la debitura u al debitur da la prestaziun ch'è suttamessa a la taglia, applitgond las tariffas, deducziuns per uffants fin maximalmain l'import da las contribuziuns da mantegniment. L'onn suandant vegn eruì il debit da taglia effectiv en il rom d'ina correctura da la tariffa, che vegn fatga d'uffizi.
+<sup>2</sup> L'Administraziun chantunala da taglia calculescha las tariffas per mais tenor l'alinea 1 literas a - c, f, g - j sco er l, e quai – cun e senza resguardar la taglia da baselgia – confurm a las deducziuns ed a las tariffas che valan per ina taxaziun ordinaria.
+
+<sup>3</sup> Per fixar las tariffas vegnan las entradas ordinarias convertidas sin in onn. Per eruir la tariffa fiscala tar il code tariffar C vegn presumada in'entrada da gudogn dal medem import sco quel da la persuna obligada da pajar la taglia a la funtauna e da sia conjugala u da ses conjugal, en moda che l'Administraziun chantunala da taglia plafonescha l'entrada da la conjugala u dal conjugal.
+
+<sup>4</sup> …
 
 [^25-1]: CS [0.642.045.43](https://db.clex.ch/link/Bund/0.642.045.43/rm)
 [^25-2]: CS [0.672.913.62](https://db.clex.ch/link/Bund/0.672.913.62/rm)
 
 #### Art. 26
 
-**2. Eruir la deducziun da taglia**
+**2. Calculaziun da la taglia a la funtauna**
 
 <sup>1</sup> Per la deducziun da taglia èn decisivas las relaziuns il mument dal pajament, dal transferiment, da la bunificaziun u da la scuntrada da la prestaziun ch'è suttamessa a la taglia.
 
-<sup>2</sup> Per eruir la deducziun da taglia en cas d'ina activitad professiunala principala vegn resguardà il salari brut effectiv da la perioda da paja cumplaina d'in mais (30 dis), main las ulteriuras prestaziuns suttamessas a la taglia ch'èn vegnidas pajadas, transferidas, bunifitgadas u scuntradas durant la perioda da paja respectiva. Periodas da paja incumplettas (mais d'entrada e d'extrada) vegnan convertidas sin la basa d'in mais per fixar la tariffa.
+<sup>2</sup> …
 
-<sup>3</sup> Per calcular la tariffa da taglia tar in salari per ura èn da princip decisivas las uras ch'èn vegnidas prestadas effectivamain per mais. Sch'i na vegn betg cuntanschì in dumber da 180 uras per mais en singulas periodas da paja, numnadamain en ils mais d'entrada e d'extrada, sto la tariffa per ura da las periodas da paja respectivas vegnir multiplitgada cun 180.
+<sup>3</sup> …
 
-<sup>4</sup> Tar ina paja per lavur en accord vegn la tariffa fiscala eruida per regla sin basa dal gudogn mesaun dal pajataglia u alura sin fundament da la tariffa per ura ch'è usitada en la branscha e che vegn multiplitgada cun 180.
+<sup>4</sup> …
 
-<sup>5</sup> Tar entradas substitutivas che la patruna u ch'il patrun paja directamain a la pajataglia u al pajataglia, ston las entradas ch'èn vegnidas pajadas retroactivamain vegnir repartidas sin ils mais respectivs per calcular la deducziun da taglia.
+<sup>5</sup> …
+
+<sup>6</sup> Areguard las metodas e las proceduras per calcular la taglia a la funtauna po vegnir applitgada la circulara ch'è vegnida elavurada da l'Administraziun federala da taglia en collavuraziun cun ils chantuns.
+
+<sup>7</sup> Per calcular la taglia a la funtauna vala confurm al senn l'artitgel 66 alinea 3 da la LT.
 
 #### Art. 27
 
-**3. Tariffa da gudogn accessoric**
+**…**
 
-<sup>1</sup> 1 La tariffa da gudogn accessoric vegn applitgada:
+#### Art. 27a
 
-- a) per activitads da gudogn accessoric, sch'il temp da lavur per emna importa main che 15 uras e sche las entradas bruttas da la lavur respectiva importan main che 2000 francs per mais;
-- b) per prestaziuns che l'assicuranza na paja betg a norma dal gudogn assicurà u che cumpletteschan in'eventuala entrada da gudogn.
+**3. Entradas substitutivas**
 
-<sup>2</sup> Il gudogn accessoric vegn suttamess en tut per 9 pertschient a la taglia chantunala, communala e da baselgia. La taglia vegn repartida sco suonda:
+<sup>1</sup> Suttamessas a la taglia a la funtauna èn tut las entradas substitutivas da relaziuns da lavur sco er da las assicuranzas da malsauns, d'accidents, d'invaliditad e cunter la dischoccupaziun. Da quai fan part cunzunt diarias, indemnisaziuns, rentas parzialas e las prestaziuns da chapital che las remplazzan.
 
-- a) il chantun e la vischnanca mintgamai 45 pertschient;
-- b) la baselgia chantunala 10 pertschient.
+#### Art. 27b
+
+**4. Taxaziun ordinaria tar bunificaziuns da l'exteriur**
+
+<sup>1</sup> Sch'ina pajataglia u in pajataglia survegn las bunificaziuns d'ina debitura u d'in debitur da la prestaziun suttamessa a la taglia, che n'è betg domiciliada u domicilià en Svizra, vegn la pajataglia u il pajataglia taxà en la procedura ordinaria.
+
+<sup>2</sup> Ma en Svizra vegn la pajataglia u il pajataglia taxà a la funtauna, sche:
+
+- a) la bunificaziun da la prestaziun vegn surpigliada d'in manaschi situà en Svizra u d'ina instituziun fixa da la patruna u dal patrun;
+- b) i èn avant maun lavurantas e lavurants tramess en Svizra a societads colliadas e la societad cun sedia en Svizra sto vegnir qualifitgada sco patruna u patrun effectiv; u
+- c) in'emprestadra u in emprestader da persunal ester empresta persunal – en cuntradicziun cun l'artitgel 12 alinea 2 da la Lescha dals 6 d'october 1989 davart l'intermediaziun da lavur[^27b-1] – ad in manaschi d'engaschament en Svizra e la bunificaziun da la prestaziun vegn surpigliada da quest manaschi d'engaschament.
+
+[^27b-1]: CS [823.11](https://db.clex.ch/link/Bund/823.11/rm)
 
 ### 3.2. Persunas natiralas cun domicil fiscal u cun dimora fisclala en svizra
 
 #### Art. 28
 
-**1. Taxaziun ordinaria posteriura**
+**1. Taxaziun ordinaria posteriura obligatorica (art. 105a LT)**
 
-<sup>1</sup> Ina taxaziun ordinaria posteriura en il senn da l'artitgel 105a LT vegn fatga, sche las entradas bruttas d'in onn chalendar surpassan 120 000 francs.
+<sup>1</sup> Ina taxaziun ordinaria posteriura en il senn da l'artitgel 105a LT vegn fatga, sche las entradas bruttas ord activitad da gudogn dependenta importan en 1 onn chalendar almain 120 000 francs.
+
+<sup>2</sup> Sco entradas bruttas ord activitad da gudogn dependenta valan las entradas tenor l'artitgel 99 alinea 1<sup>bis</sup> literas a e b LT.
+
+<sup>3</sup> Conjugals cun duas pajas vegnan suttamess ad ina taxaziun ordinaria posteriura, sche las entradas bruttas dal conjugal u da la conjugala cuntanschan u surpassan en in onn fiscal l'import da l'alinea 1.
+
+<sup>4</sup> La taxaziun ordinaria posteriura vegn mantegnida fin la fin da l'obligaziun da pajar la taglia a la funtauna, e quai independentamain dal fatg, sche las entradas bruttas crodan transitoricamain u permanentamain sut l'import minimal da l'alinea 1 e sche conjugals sa divorzieschan u sa separan effectivamain u giuridicamain.
+
+<sup>5</sup> En cas da l'obligaziun da pajar taglia per ina part da l'onn vegn l'import minimal calculà tenor l'artitgel 66 alinea 3 LT.
+
+#### Art. 28a
+
+**2. Taxaziun ordinaria posteriura sin dumonda (art. 105a<sup>bis</sup> LT)**
+
+<sup>1</sup> Ina dumonda ch'è vegnida fatga en il senn da l'artitgel 105a<sup>bis</sup> LT na po betg pli vegnir retratga.
+
+<sup>2</sup> Conjugals divorziads sco er separads effectivamain u giuridicamain ch'èn – sin dumonda – vegnids suttamess ad ina taxaziun ordinaria posteriura tenor l'artitgel 105a<sup>bis</sup> LT, vegnan suttamess ad ina taxaziun ordinaria posteriura fin a la fin da l'obligaziun da pajar la taglia a la funtauna.
+
+#### Art. 28b
+
+**3. Regulaziun da cas da direzza**
+
+<sup>1</sup> Sin dumonda da las persunas obligadas da pajar la taglia a la funtauna, las qualas pajan contribuziuns da mantegniment tenor l'artitgel 36 alinea 1 litera c LT e per las qualas vegn applitgà il code tariffar A, B, C u H, po l'autoritad da taglia – per mitigliar cas da direzza – resguardar cun calcular la taglia a la funtauna las deducziuns per uffants fin maximalmain a l'autezza da las contribuziuns da mantegniment.
+
+<sup>2</sup> Sche las contribuziuns da mantegniment èn vegnidas resguardadas cun applitgar in da quests codes tariffars, vegn fatga la taxaziun ordinaria posteriura mo sin dumonda da la persuna obligada da pajar la taglia a la funtauna. Sche la taxaziun ordinaria posteriura vegn dumandada, vegn ella fatga fin a la fin da l'obligaziun da pajar la taglia a la funtauna.
 
 #### Art. 29
 
-**2. Midada tranter la taglia a la funtauna e la taxaziun ordinaria**
+**4. Midada da la taxaziun a la funtauna a la taxaziun ordinaria**
 
-<sup>1</sup> Sch'ina pajataglia u in pajataglia che viva sulet e ch'era suttamess fin ussa a la taglia a la funtauna survegn la permissiun da domicil, vegn ella u el suttamess a la taglia tenor la procedura ordinaria a partir dal cumenzament dal mais suandant. Sch'ella u el è maridà, vegn ella u el suttamess a la taglia ensemen cun sia conjugala u cun ses conjugal a partir dal medem termin.
+<sup>1</sup> Ina persuna che vegniva taxada fin ussa a la funtauna, vegn taxada per l'entira perioda fiscala en la procedura ordinaria, sch'ella:
 
-<sup>2</sup> Sch'in pajataglia ch'era suttamess fin ussa a la taglia a la funtauna marida ina persuna cun dretg da burgais svizzer u cun permissiun da domicil, vegn el suttamess a la taglia tenor la procedura ordinaria a partir dal cumenzament dal mais suandant.
+- a) survegn la permissiun da domicil;
+- b) marida ina persuna cun dretg da burgais svizzer u cun permissiun da domicil.
 
-<sup>3</sup> Il divorzi sco er la separaziun effectiva u giuridica d'ina conjugala u d'in conjugal cun dretg da burgais svizzer u cun permissiun da domicil ha per consequenza ch'in lavurant ester senza permissiun da domicil vegn puspè suttamess a la taglia a la funtauna a partir dal cumenzament dal mais suandant.
-
-#### Art. 30
-
-**3. Taxaziun ordinaria tar bunificaziuns da l'exteriur**
-
-<sup>1</sup> Sch'il pajataglia survegn bunificaziuns d'in debitur da prestaziuns a l'exteriur e sche quellas na vegnan betg surpigliadas d'in manaschi u d'ina instituziun fixa en Svizra, vegn el suttamess a la taglia en la procedura ordinaria.
-
-#### Art. 31
-
-**4. Correctura da las tariffas**
-
-<sup>1</sup> Pajataglias tenor l'artitgel 98 alinea 1 litera a sco er persunas qualifitgadas sco quasi-domiciliadas tenor l'artitgel 98 alinea 1 litera b LT pon, sch'i na vegn betg applitgada ina tariffa da taglia fixa, inoltrar ina dumonda en scrit da curreger la tariffa a l'administraziun chantunala da taglia fin la fin da mars da l'onn chalendar che suonda il termin da pajament da la prestaziun. Las deducziuns che stattan en connex cun las entradas, las expensas professiunalas augmentadas, ils tschains da debits, las contribuziuns da mantegniment, las contribuziuns a la prevenziun individuala liada, ils custs da malsogna e d'accident, ils custs motivads d'in impediment sco er ils custs da la tgira d'uffants pon vegnir pretendids qua, nun ch'els sajan resguardads en la tariffa.
-
-<sup>2</sup> La tariffa na vegn betg curregida tar pajataglias cun ina taxaziun ordinaria posteriura.
+<sup>2</sup> La taglia a la funtauna n'è betg pli debitada a partir dal mais che suonda la concessiun da la permissiun da domicil u la maridaglia. La taglia deducida a la funtauna vegn messa a quint senza tschains.
 
 <sup>3</sup> …
 
-<sup>4</sup> Per la procedura vala dal rest l'artitgel 42 confurm al senn.
+#### Art. 29a
 
-### 3.3. Persunas natiralas e giuridicas senza domicil fiscal u senza dimora fiscala en svizra
+**5. Midada da la taxaziun ordinaria a la taxaziun a la funtauna**
+
+<sup>1</sup> Sch'ina entrada è suttamessa entaifer ina perioda fiscala l'emprim a la taxaziun ordinaria e suenter a la taglia a la funtauna, vegn la pajataglia u il pajataglia suttamess a la taxaziun ordinaria e posteriura per l'entir onn e fin a la fin da l'obligaziun da pajar la taglia a la funtauna.
+
+<sup>2</sup> Il divorzi sco er la separaziun effectiva u giuridica d'ina conjugala u d'in conjugal cun dretg da burgais svizzer u cun permissiun da domicil han per consequenza ch'ina lavuranta estra u in lavurant ester senza permissiun da domicil vegn puspè suttamessa u suttamess a la taglia a la funtauna a partir dal cumenzament dal mais suandant.
+
+<sup>3</sup> Eventuals pajaments anticipads d'avant la midada a la taxaziun a la funtauna sco er las taglias deducidas a la funtauna ston vegnir mess a quint.
+
+#### Art. 30
+
+**…**
+
+#### Art. 31
+
+**…**
+
+### 3.3. Persunas natiralas senza domicil fiscal u senza dimora fiscala en Svizra e persunas giuridicas senza sedia u senza administraziun effectiva en Svizra
 
 #### Art. 32
 
@@ -358,44 +467,67 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 33
 
-**2. Valitaziun da prestaziuns en natiralias**
+**…**
 
-<sup>1</sup> Prestaziuns en natiralias vegnan valitadas tenor las tariffas che valan per l'assicuranza federala per vegls e survivents.
+#### Art. 33a
+
+**2. Taxaziun ordinaria posteriura tar persunas quasi-domiciliadas (art. 105a<sup>ter</sup> LT)**
+
+<sup>1</sup> Ina persuna ch'è obligada da pajar taglia tenor l'artitgel 8 alinea 1 LT e che per regla suttametta a la taglia en Svizra almain 90 pertschient da sias entradas bruttas sin l'entir mund, inclusiv las entradas da la conjugala u dal conjugal (persuna quasi-domiciliada), po – fin ils 31 da mars da l'onn suandant a l'onn fiscal – inoltrar a l'autoritad da taglia responsabla ina dumonda en scrit da far ina taxaziun ordinaria posteriura. Ina dumonda ch'è vegnida fatga en il senn da l'artitgel 105a<sup>ter</sup> LT na po betg pli vegnir retratga.
+
+<sup>2</sup> En la procedura da taxaziun examinescha l'autoritad da taglia, sche la persuna obligada da pajar la taglia a la funtauna ademplescha durant l'onn fiscal las premissas per esser ina persuna quasi-domiciliada. Per quest intent eruescha ella tenor ils artitgels 16 - 19 e 21 - 29 LT l'emprim las entradas bruttas sin l'entir mund e suenter la part da las entradas bruttas suttamessas a la taglia en Svizra.
+
+#### Art. 33b
+
+**3. Taxaziun ordinaria posteriura d'uffizi (art. 105a<sup>quater</sup> LT)**
+
+<sup>1</sup> Las autoritads da taglia chantunalas responsablas pon far d'uffizi ina taxaziun ordinaria posteriura, sch'i resulta da las actas il suspect motivà ch'igl existian relaziuns nuncunvegnentas a favur u a disfavur da la pajataglia u dal pajataglia.
+
+<sup>2</sup> Per introducir ina taxaziun ordinaria posteriura d'uffizi vala l'artitgel 125 LT davart la surannaziun da la taxaziun.
 
 #### Art. 34
 
-**3. Artistas ed artists e.u.v.**
+**4. Artists, sportists e referents (art. 100 LT)**
 
-<sup>1</sup> Sche la part dal singul commember n'è betg enconuschenta u è difficila d'eruir tar tschertas gruppas, vegn quintada l'entrada brutta mesauna per persuna per fixar la tariffa da taglia.
+<sup>1</sup> Sco entradas dal di d'artistas ed artists, da sportistas e sportists e da referentas e referents che vivan a l'exteriur valan las entradas tenor l'artitgel 100 alinea 5 LT, divididas cun il dumber dals dis da preschentaziun e da prova. Tar las entradas dal di quintan particularmain:
 
-<sup>2</sup> Per deducir ils custs da producziun è permessa ina pauschala da 20 pertschient da las entradas bruttas. La cumprova da custs pli auts resta resalvada.
+- a) las entradas bruttas inclusiv tut ils supplements e tut las entradas accessoricas sco er las prestaziuns en natiralias; e
+- b) tut las spesas, ils custs e las taglias a la funtauna che vegnan surpigliadas da l'organisatura u da l'organisatur.
+
+<sup>2</sup> Sche – en gruppas – la part da la singula commembra u dal singul commember n'è betg enconuschenta u è difficila d'eruir, vegn quintada – per fixar quella – l'entrada dal di mesauna per persuna.
+
+#### Art. 34a
+
+**5. Crediturs ipotecars (art. 102 LT)**
+
+<sup>1</sup> Tut las entradas suttamessas a la taglia da credituras e crediturs ipotecars domiciliads a l'exteriur valan sco entradas bruttas ord pretensiuns tenor l'artitgel 102 LT. Latiers tutgan er ils tschains che na vegnan betg assegnads a la persuna obligada da pajar la taglia a la funtauna sezza, mabain ad ina terza persuna.
 
 #### Art. 35
 
-**4. Rentas**
+**6. Retschaviders da rentas da la prevenziun che vivan a l'exteriur (art. 103 LT)**
 
-<sup>1</sup> Sche la taglia a la funtauna na vegn betg incassada, perquai che la taxaziun è chaussa da l'auter stadi contrahent, sto la debitura u il debitur da la prestaziun ch'è suttamessa a la taglia sa laschar confermar en scrit il domicil a l'exteriur da la retschavidra u dal retschavider e controllar quel periodicamain.
+<sup>1</sup> Uschenavant ch'i n'exista nagina regulaziun divergenta sin basa d'in contract internaziunal, èn las rentas da las retschavidras e dals retschaviders che vivan a l'exteriur suttamessas a la taglia a la funtauna tenor l'artitgel 103 LT.
+
+<sup>2</sup> Sche la taglia a la funtauna na vegn betg incassada, perquai che la taxaziun è chaussa da l'auter stadi contrahent, sto la debitura u il debitur da la prestaziun ch'è suttamessa a la taglia sa laschar confermar en scrit il domicil a l'exteriur da la retschavidra u dal retschavider e controllar quel periodicamain.
 
 #### Art. 36
 
-**5. Retschavidras e retschaviders da prestaziuns da chapital**
+**7. Retschaviders da prestaziuns da chapital ord la prevenziun che vivan a l'exteriur (art. 103 LT)**
 
-<sup>1</sup> Prestaziuns da chapital tenor l'artitgel 103 LT[^36-1] èn adina suttamessas a la taglia a la funtauna, independentamain da la regulaziun che sa basa sin ina cunvegna tranter la confederaziun ed il chantun, sche la retschavidra u sch'il retschavider n'ha betg ses domicil en Svizra il mument dal pajament, dal transferiment, da la bunificaziun u da la scuntrada da la prestaziun ch'è suttamessa a la taglia.
+<sup>1</sup> Prestaziuns da chapital tenor l'artitgel 103 LT èn adina suttamessas a la taglia a la funtauna, independentamain da la regulaziun sin basa d'in contract internaziunal.
 
-<sup>2</sup> La taglia a la funtauna ch'è vegnida incassada vegn restituida tras l'administraziun chantunala da taglia, sch'il retschavider da la prestaziun da chapital:
+<sup>2</sup> La taglia a la funtauna ch'è vegnida incassada vegn restituida tras l'Administraziun chantunala da taglia, sche la retschavidra u il retschavider da la prestaziun da chapital:
 
-- a) fa ina dumonda correspundenta entaifer trais onns dapi la scadenza da questa taglia e
-- b) agiuntescha a la dumonda ina conferma da l'autoritad da taglia cumpetenta dal stadi contrahent che ha il dretg da survegnir ina prestaziun, e quai uschia che l'autoritad è infurmada davart la prestaziun da chapital.
-
-[^36-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
+- a) fa ina dumonda correspundenta entaifer 3 onns dapi il pajament; e
+- b) agiuntescha a la dumonda ina conferma da l'autoritad da taglia cumpetenta dal stadi da domicil che ha il dretg da survegnir la prestaziun, che l'autoritad saja infurmada davart la prestaziun da chapital e che la retschavidra u il retschavider da la prestaziun da chapital saja ina persuna domiciliada en Svizra en il senn da la Cunvegna davart l'imposiziun dubla da taglia cun la Svizra.
 
 #### Art. 37
 
-**6. Imports minimals d'incassament**
+**8. Imports minimals d'incassament**
 
 <sup>1</sup> La deducziun da la taglia a la funtauna croda, sche las entradas ch'èn suttamessas a la taglia importan main che:
 
-- a) 300 francs en total tar artists e.u.v.;
+- a) 300 francs en total tar artistas ed artists, tar sportistas e sportists e tar referentas e referents;
 - b) 300 francs durant l'onn chalendar tar commembers da cussegls d'administraziun;
 - c) 300 francs durant l'onn chalendar tar crediturs ipotecars;
 - d) 1000 francs durant l'onn chalendar tar retschaviders da prestaziuns da prevenziun.
@@ -406,7 +538,7 @@ relaschada da la regenza ils 27 da november 2007
 
 **1. Scadenza da la taglia**
 
-<sup>1</sup> La taglia che vegn incassada a la funtauna scada il mument dal pajament, dal transferiment, da la bunificaziun u da la scuntrada da la prestaziun ch'è suttamessa a la taglia. La taglia sto vegnir incassada independentamain d'eventualas objecziuns (artitgel 42).
+<sup>1</sup> La taglia che vegn incassada a la funtauna scada il mument dal pajament, dal transferiment, da la bunificaziun u da la scuntrada da la prestaziun ch'è suttamessa a la taglia. La debitura u il debitur da la prestaziun ch'è suttamessa a la taglia sto deducir la taglia a la funtauna independentamain d'eventualas objecziuns (art. 133 LT) u independentamain d'impegnaziuns dal salari.
 
 #### Art. 39
 
@@ -436,21 +568,44 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>2</sup> La debitura u il debitur da la prestaziun ch'è suttamessa a la taglia sto controllar, sche la tariffa è applitgabla cun u senza taglia da baselgia. Sche la pajataglia u il pajataglia na cumprova betg suffizientamain sias relaziuns persunalas en quest connex, vegn applitgada la tariffa ensemen cun la taglia da baselgia.
 
-<sup>3</sup> Il rendaquint da la taglia a la funtauna sto vegnir fatg tras la debitura u il debitur da la prestaziun ch'è suttamessa a la taglia mintga quartal. L'administraziun chantunala da taglia po, sin proposta da la debitura u dal debitur da la prestaziun suttamessa a la taglia, conceder en cas excepziunals periodas da rendaquint d'in mez onn. Ils rendaquints ston entrar entaifer 1 mais suenter la scadenza da la perioda da rendaquint. La transmissiun electronica dals rendaquints vegn fatga mintga mais.
+<sup>3</sup> Il rendaquint da la taglia a la funtauna sto vegnir fatg mintga mais tras la debitura u il debitur da la prestaziun ch'è suttamessa a la taglia. L'Administraziun chantunala da taglia po, sin proposta da la debitura u dal debitur da la prestaziun ch'è suttamessa a la taglia, conceder en cas excepziunals periodas da rendaquint d'in mez onn. Ils rendaquints ston entrar entaifer 1 mais suenter la scadenza da la perioda da rendaquint.
 
-<sup>4</sup> La debitura u il debitur da la prestaziun ch'è suttamessa a la taglia è obligà d'inoltrar a l'administraziun chantunala da taglia mintgamai rendaquints separads per las pajataglias ed ils pajataglias cun e senza la taglia da baselgia sco er per las taglias ch'èn vegnidas incassadas sin il gudogn accessoric.
+<sup>4</sup> …
 
-<sup>5</sup> Sche la debitura u il debitur da la prestaziun ch'è suttamessa a la taglia transmetta sin via electronica il rendaquint da la taglia a la funtauna, po l'annunzia vegnir fatga tenor l'artitgel 104 alinea 1 litera d LT ensemen cun il rendaquint mensil.
+<sup>5</sup> …
+
+#### Art. 41a
+
+**c) obligaziuns d'annunzia**
+
+<sup>1</sup> Las patrunas ed ils patruns ston annunziar l'occupaziun da persunas ch'èn suttamessas a la taglia a la funtauna tenor l'artitgel 98 LT, a l'autoritad da taglia responsabla entaifer 8 dis suenter l'entrada en plazza cun il formular previs per quai.
+
+<sup>2</sup> Sche la patruna u il patrun transmetta il rendaquint da la taglia a la funtauna sin via electronica, po ella u el annunziar ils novs engaschaments a maun dal rendaquint mensil.
+
+<sup>3</sup> Las lavurantas ed ils lavurants ston annunziar a la patruna u al patrun las midadas dals fatgs ch'èn relevants per incassar la taglia a la funtauna. La patruna u il patrun annunzia las midadas entaifer ils termins tenor ils alineas 1 e 2 a l'autoritad da taglia responsabla.
+
+#### Art. 41b
+
+**d) represchentanza necessaria**
+
+<sup>1</sup> Las autoritads da taglia pon pretender d'ina pajataglia u d'in pajataglia cun domicil u cun sedia a l'exteriur ch'ella u el designeschia ina represchentanta u in represchentant en Svizra.
+
+<sup>2</sup> Las persunas che dumondan ina taxaziun ordinaria posteriura tenor l'artitgel 105a<sup>ter</sup> LT, ston inoltrar ils documents necessaris e designar in'adressa da consegna en Svizra. Sch'i na vegn designada nagina adressa da consegna u sche l'adressa da consegna perda sia valaivladad durant la procedura da taxaziun, conceda l'autoritad responsabla in termin adequat a la pajataglia u al pajataglia per designar in'adressa da consegna valaivla. Sche quest termin scada senza ch'el saja vegnì duvrà, remplazza la taglia a la funtauna la taglia suttamessa a la taxaziun ordinaria sin las entradas da gudogn. L'artitgel 124 alinea 3 LT concernent la reconstituziun dal termin vala confurm al senn.
 
 #### Art. 42
 
-**c) disposiziun davart l'obligaziun da pajar taglia (art. 133 LT)**
+**e) disposiziun davart l'obligaziun da pajar taglia (art. 133 LT)**
 
-<sup>1</sup> Sche la pajataglia u il pajataglia ubain sche la debitura u il debitur da la prestaziun ch'è suttamessa a la taglia na va betg d'accord cun la deducziun fiscala, pon els pretender ina disposiziun davart l'existenza e davart la dimensiun da l'obligaziun da pajar taglia tar l'administraziun chantunala da taglia fin la fin da mars da l'onn chalendar che suonda la scadenza da la prestaziun.
+<sup>1</sup> La pajataglia u il pajataglia po pretender ina disposiziun davart l'existenza e davart la dimensiun da l'obligaziun da pajar taglia tar l'autoritad da taxaziun fin ils 31 da mars da l'onn fiscal che suonda la scadenza da la prestaziun, sch'ella u el:
+
+- a) n'è betg perencletg cun la deducziun da la taglia a la funtauna tenor l'attestaziun tenor l'artitgel 104 LT; u
+- b) n'ha betg survegnì l'attestaziun tenor l'artitgel 104 LT da la patruna u dal patrun.
+
+<sup>2</sup> La debitura u il debitur da la prestaziun ch'è suttamessa a la taglia po pretender ina disposiziun davart l'existenza e davart la dimensiun da l'obligaziun da pajar taglia da l'autoritad da taxaziun fin ils 31 da mars da l'onn fiscal che suonda la scadenza da la prestaziun.
 
 #### Art. 43
 
-**d) pretensiun posteriura e restituziun**
+**f) pretensiun posteriura e restituziun**
 
 <sup>1</sup> Sch'il debitur da la prestaziun ch'è suttamessa a la taglia n'ha betg fatg ina deducziun da taglia u ha fatg ina deducziun da taglia insuffizienta, vegn el obligà da prestar in pajament posteriur ensemen cun il tschains. Il regress dal debitur al pajataglia resta resalvà.
 
@@ -460,9 +615,11 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>4</sup> Dal rest sa drizza l'obligaziun da restituziun tenor l'artitgel 157 LT.
 
+<sup>5</sup> La pajataglia u il pajataglia po vegnir obligada u obligà da l'autoritad da taxaziun da pajar posteriuramain la taglia a la funtauna ch'ella u el debitescha, sche la prestaziun ch'è suttamessa a la taglia e ch'è vegnida pajada n'è betg vegnida deducida u n'è betg vegnida deducida cumplettamain per la taglia a la funtauna e sch'i n'è betg pussaivel d'incassar posteriuramain da la debitura u dal debitur la prestaziun ch'è suttamessa a la taglia.
+
 #### Art. 44
 
-**e) meds legals**
+**g) meds legals**
 
 <sup>1</sup> Cunter ina disposiziun pertutgant la taglia a la funtauna po far protesta – ultra da la pajataglia u dal pajataglia – er la debitura u il debitur da la prestaziun ch'è suttamessa a la taglia, e quai tenor l'artitgel 137 LT[^44-1].
 
@@ -476,15 +633,15 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>2</sup> Il termin da pajament importa 30 dis dapi la facturaziun.
 
-<sup>3</sup> Entaifer 60 dis suenter la fin da la perioda da rendaquint vegn emess in quint.
+<sup>3</sup> …
 
 <sup>4</sup> Per pajaments retardads vegn debità in tschains da retard tenor l'artitgel 153 LT.
 
-<sup>5</sup> Per rendaquints ch'èn vegnids fatgs sin via electronica survegn la debitura u il debitur da la prestaziun ch'è suttamessa a la taglia ina provisiun da retratga supplementara dad 1 pertschient.
+<sup>5</sup> …
 
 #### Art. 45a
 
-**5. Procedura da rendaquint simplifitgada (art. 39a LT)**
+**5. Sistem da rendaquint simplifitgà (art. 39a LT)**
 
 <sup>1</sup> La taglia a la funtauna vegn repartida sco suonda:
 
@@ -499,7 +656,7 @@ relaschada da la regenza ils 27 da november 2007
 
 **6. Parts da las baselgias**
 
-<sup>1</sup> Per las persunas ch'èn obligadas da pajar taglias a la funtauna tenor las tariffas A fin C ed F fin P vegn fatga l'assegnaziun a las baselgias a norma da l'appartegnientscha da la persuna respectiva.
+<sup>1</sup> Per las persunas ch'èn obligadas da pajar la taglia a la funtauna tenor ils codes tariffars A - C ed F - Q vegn fatga l'assegnaziun a las baselgias a norma da l'appartegnientscha da la persuna respectiva.
 
 #### Art. 46
 
@@ -510,6 +667,12 @@ relaschada da la regenza ils 27 da november 2007
 ## 4. Dretg da procedura
 
 ### 4.1. Princips generals da procedura
+
+#### Art. 46a
+
+**Registraziun ed archivaziun electronica da datas**
+
+<sup>1</sup> L'administraziun chantunala da taglia relascha las regulaziuns per la transmissiun, per la forza da cumprova, per la durada d'archivar e per l'extincziun da las datas.
 
 #### Art. 47
 
@@ -529,9 +692,9 @@ relaschada da la regenza ils 27 da november 2007
 
 **b) inoltraziun sin via electronica (art. 127 al. 2 LT)**
 
-<sup>1</sup> L'administraziun da taglia è autorisada da dar – a partir da la perioda fiscala 2012 – la pussaivladad d'inoltrar la decleraziun da taglia sin via electronica. Il pajataglia po tscherner tranter ina inoltraziun sin palpiri ed ina inoltraziun sin via electronica.
+<sup>1</sup> La decleraziun da taglia po vegnir inoltrada er en furma electronica. Il pajataglia po tscherner tranter ina inoltraziun sin palpiri ed ina inoltraziun sin via electronica.
 
-<sup>2</sup> Per la decleraziun da taglia 2012 po l'administraziun chantunala da taglia endrizzar in manaschi da test.
+<sup>2</sup> …
 
 ### 4.3. Incassament e garanzia
 
@@ -567,7 +730,7 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>1</sup> La taxa per la segunda admoniziun importa 30 francs.
 
-<sup>2</sup> La taxa da scussiun importa 50 francs.
+<sup>2</sup> La taxa da scussiun importa 100 francs.
 
 #### Art. 51
 
@@ -575,7 +738,7 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>1</sup> Per retschavidras e retschaviders da prestaziuns supplementaras en il senn da la lescha davart prestaziuns supplementaras chantunalas tar l'assicuranza da vegls, survivents ed invalids[^51-1] sco er per retschavidras e retschaviders da prestaziuns da sustegniment en il senn da l'artitgel 1 da la lescha chantunala davart il sustegn da persunas basegnusas[^51-2] po vegnir concedida – sin dumonda – ina taxaziun nulla, sche la facultad decisiva importa main che 25 000 francs (persunas che vivan sulettas) respectivamain main che 40 000 francs (persunas maridadas).
 
-<sup>2</sup> La facultad decisiva sa cumpona da la facultad netta plus la differenza tranter la valur fiscala da las immobiglias e lur valur commerziala tenor l'ultima stimaziun uffiziala.
+<sup>2</sup> La facultad decisiva sa cumpona da la facultad netta plus la differenza tranter la valur fiscala da las immobiglias e lur valur commerziala tenor l'ultima valitaziun uffiziala.
 
 <sup>3</sup> Cun la dumonda tenor l'alinea 1 desista la pajataglia u il pajataglia da far valair ses dretg da survegnir enavos la taglia anticipada.
 
@@ -608,7 +771,8 @@ relaschada da la regenza ils 27 da november 2007
 
 - a) publitgar las communicaziuns e las invitaziuns prescrittas;
 - b) far il register da taglia tenor las instrucziuns da l'administraziun chantunala da taglia;
-- c) tegnair en salv las actas fiscalas tenor las instrucziuns da l'administraziun chantunala da taglia. L'administraziun chantunala da taglia po prescriver in'archivaziun electronica.
+- c) tegnair en salv las actas fiscalas tenor las instrucziuns da l'administraziun chantunala da taglia;
+- d) trametter singuls formulars da la decleraziun da taglia.
 
 #### Art. 54
 
@@ -616,7 +780,7 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>1</sup> Vischnancas che fan la taxaziun d'in dumber minimal da cas e che possedan collavuraturas e collavuraturs cun ina scolaziun correspundenta, pon collavurar tar la taxaziun da las taglias sin las entradas e sin la facultad. La persuna che fa la taxaziun sto absolver cun success la scolaziun e la furmaziun supplementara che vegn pretendida da l'administraziun chantunala da taglia.
 
-<sup>2</sup> La vischnanca sto far la taxaziun d'almain 500 cas per collavuratura communala u per collavuratur communal.
+<sup>2</sup> La vischnanca sto far la taxaziun d'almain 1000 cas per collavuratur communal.
 
 <sup>3</sup> L'administraziun da taglia po permetter excepziuns en cas spezials motivads.
 
@@ -634,23 +798,23 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>1</sup> Las vischnancas che collavuran tar la taxaziun ston, tenor l'instrucziun da l'administraziun da taglia:
 
-- a) eruir ed archivar tut ils fatgs e tut ils documents ch'èn relevants per la taxaziun sco er examinar formalmain las indicaziuns persunalas sin ils formulars principals ed accessorics che vegnan inoltrads;
-- b) far la taxaziun da persunas cun activitad da gudogn dependenta, da pajataglias ch'èn obligads limitadamain da pajar taglia sco er da persunas senza activitad da gudogn ed examinar la basa per la taxaziun da persunas cun activitad da gudogn independenta;
+- a) eruir ed archivar tut ils fatgs e tut ils documents ch'èn relevants per la taxaziun sco er examinar formalmain las indicaziuns persunalas sin ils formulars principals ed accessorics che vegnan inoltrads, uschè ditg che las decleraziuns da taglia vegnan anc inoltradas a la vischnanca;
+- b) far la taxaziun da persunas cun activitad da gudogn dependenta, da pajataglias ch'èn obligads limitadamain da pajar taglia sco er da persunas senza activitad da gudogn;
 - c) metter a disposiziun a la cumissaria u al cumissari da taglia sco er a sias collavuraturas ed a ses collavuraturs locals da lavur adattads cun ina infrastructura dad EED sco er il persunal qualifitgà necessari per liquidar las lavurs da secretariat.
 
 #### Art. 57
 
 **5. Indemnisaziun a) controlla d'entrada**
 
-<sup>1</sup> Sch'i vegn prescritta in'archivaziun electronica, vegn fatga la controlla d'entrada ensemen cun l'archivaziun.
+<sup>1</sup> Per la controlla d'entrada survegn la vischnanca ina indemnisaziun da 7 francs per cas al register, almain dentant 1000 francs, uschè ditg che las decleraziuns da taglia vegnan anc inoltradas a la vischnanca.
 
-<sup>2</sup> Per la controlla d'entrada survegn la vischnanca ina indemnisaziun da 7 francs per cas al register, almain dentant 1000 francs.
+<sup>2</sup> …
 
 #### Art. 58
 
 **b) registraziun preliminara**
 
-<sup>1</sup> Las vischnancas che fan la taxaziun èn obligadas da registrar preliminarmain tut las datas da tut las decleraziuns da taglia che entran. Las vischnancas che na fan betg la taxaziun pon surpigliar la registraziun preliminara, sch'ellas èn colliadas cun il sistem electronic da taxaziun (EVA).
+<sup>1</sup> Las vischnancas che fan la taxaziun èn obligadas da registrar preliminarmain tut las datas da tut las decleraziuns da taglia che vegnan inoltradas a la vischnanca. Las vischnancas che na fan betg la taxaziun pon surpigliar la registraziun preliminara, sch'ellas èn colliadas cun il sistem electronic da taxaziun (EVA).
 
 <sup>2</sup> Per la registraziun preliminara manuala survegn la vischnanca 7 francs per cas. L'indemnisaziun na vegn betg pajada supplementarmain a l'indemnisaziun da taxaziun.
 
@@ -694,6 +858,8 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>2</sup> Per la taxaziun da las persunas natiralas che vegnan suttamessas a la taglia tenor ils custs pajan las vischnancas 150 francs per cas.
 
+<sup>3</sup> Per il scanning e per l'archivaziun electronica da las actas fiscalas tras l'administraziun chantunala da taglia pajan las vischnancas ina indemnisaziun da 2 francs per pajataglia.
+
 #### Art. 61
 
 **2. Taglia sin il gudogn tras la vendita da bains immobigliars (art. 30 al. 1 LTCTB)**
@@ -714,11 +880,17 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>2</sup> Las baselgias chantunalas ed ils cumins-baselgia indemniseschan l'administraziun chantunala da taglia cun 4 pertschient da la part retratga da la baselgia.
 
-## 5. Taglia anticipada, fixaziun pauschala da taglia, restituziun e scuntrada da la retenziun supplementara da taglia USA
+#### Art. 61b
 
-[^61a-1]
+**4. Taglia sin il gudogn, taglia sin il chapital e taglia da cultus (art. 165a al. 1 lit. d ed e LT)**
 
-[^61a-1]: cf. l'art. 73 al. 1 LTA (CS [642.21](https://db.clex.ch/link/Bund/642.21/rm)), ils art. 15 ss. da l'ordinaziun dal cussegl federal davart la fixaziun pauschala da taglia (CS [672.201](https://db.clex.ch/link/Bund/672.201/rm)) sco er ils art. 11 ss. da l'ordinaziun tar la cunvegna svizra-americana davart l'imposiziun dubla da taglia (CS [672.933.61](https://db.clex.ch/link/Bund/672.933.61/rm))
+<sup>1</sup> L'administraziun chantunala da taglia incassescha per la taxaziun, per l'incassament e per il rendaquint da la taglia sin il gudogn e da la taglia sin il chapital a favur da las vischnancas sco er da la taglia da cultus ina taxa da 2 pertschient da las taglias incassadas.
+
+## 5. Taglia anticipada, imputaziun da taglias a la funtauna estras, restituziun e scuntrada da la retenziun supplementara da taglia USA
+
+[^61b-1]
+
+[^61b-1]: guarda art. 73 al. 1 LTA (CS [642.21](https://db.clex.ch/link/Bund/642.21/rm)), art. 15 ss. da l'Ordinaziun davart l'imputaziun da taglias a la funtauna estras (CS [672.201](https://db.clex.ch/link/Bund/672.201/rm)) sco er art. 11 ss. da l'Ordinaziun tar la cunvegna svizra-americana davart l'imposiziun dubla da taglia (CS [672.933.61](https://db.clex.ch/link/Bund/672.933.61/rm))
 
 #### Art. 62
 
@@ -738,13 +910,15 @@ relaschada da la regenza ils 27 da november 2007
 
 **2. Restituziun u scuntrada (art. 72 LT)**
 
-<sup>1</sup> La restituziun dals imports imputabels (fixaziun pauschala da taglia) sco er da la retenziun supplementara da taglia USA vegn fatga a norma da la lescha chantunala da taglia.
+<sup>1</sup> La restituziun da las taglias a la funtauna estras imputablas sco er da la retenziun supplementara da taglia USA vegn fatga tenor las reglas per la taglia anticipada (art. 72 LT).
 
 #### Art. 65
 
 **3. Grevezza per il chantun e per las vischnancas**
 
-<sup>1</sup> L'import parzial da la fixaziun pauschala da taglia che na duai – tenor l'artitgel 20 da l'ordinaziun dal cussegl federal davart la fixaziun pauschala da taglia[^65-1] – betg vegnir mess a quint a la fixaziun pauschala da taglia vegn repartì en parts egualas tranter il chantun e tranter la vischnanca da domicil da la petenta u dal petent.
+<sup>1</sup> L'import da las taglias a la funtauna estras imputablas vegn – tenor l'Ordinaziun davart l'imputaziun da taglias a la funtauna estras[^65-1] – repartì sin las singulas suveranitads fiscalas respectivamain sin ils singuls retschaviders da taglia.
+
+<sup>2</sup> L'import che sto vegnir adossà a la Confederaziun vegn reducì per la part chantunala da la taglia federala directa. Questa reducziun va sin donn e cust dal chantun.
 
 [^65-1]: CS [672.201](https://db.clex.ch/link/Bund/672.201/rm)
 
@@ -781,6 +955,16 @@ relaschada da la regenza ils 27 da november 2007
 **c) taglia sin il gudogn tras la vendita da bains immobigliars (art. 19 al. 1 LTCTB)**
 
 <sup>1</sup> La taxaziun da la taglia sin la vendita da bains immobigliars da la perioda fiscala 2008 e da periodas fiscalas anteriuras è vegnida fatga da la vischnanca per las persunas giuridicas, da l'autoritad ch'è – tenor la lescha da taglia – cumpetenta per las taglias directas per las persunas natiralas.
+
+#### Art. 69c
+
+**d) correctura da la tariffa (art. 191a LT)**
+
+<sup>1</sup> Pajataglias tenor l'artitgel 98 alinea 1 litera a sco er persunas qualifitgadas sco quasi-domiciliadas tenor l'artitgel 98 alinea 1 litera b LT pon, sch'i na vegn betg applitgada ina tariffa da taglia fixa, inoltrar ina dumonda en scrit da curreger la tariffa per l'onn fiscal 2020 a l'Administraziun chantunala da taglia fin ils 31 da mars 2021. Las deducziuns che stattan en connex cun las entradas, las expensas professiunalas augmentadas, ils custs da la scolaziun e furmaziun supplementara orientada a la professiun, inclusiv ils custs da rescolaziun, ils tschains da debits, las contribuziuns da mantegniment, las contribuziuns a la prevenziun individuala liada, ils custs da malsogna e d'accident, ils custs motivads d'in impediment sco er ils custs da la tgira d'uffants pon vegnir pretendids qua, nun ch'els sajan resguardads en la tariffa.
+
+<sup>2</sup> La tariffa na vegn betg curregida tar pajataglias cun ina taxaziun ordinaria posteriura.
+
+<sup>3</sup> Per la procedura vala dal rest l'artitgel 42 confurm al senn.
 
 #### Art. 70
 
