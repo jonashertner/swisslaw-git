@@ -4,13 +4,13 @@ number: "622.1"
 title: Gesetz über die Finanzkontrolle
 short: "Kantonales Finanzkontrollgesetz, KFKG"
 language: de
-version: 2014-09-01
-valid_until: 2021-06-30
-version_adopted: 2014-03-17
+version: 2021-07-01
+valid_until: 2022-01-31
+version_adopted: 2021-04-07
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1068/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2267/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1068/pdf_file"
 
 (Kantonales Finanzkontrollgesetz, KFKG)
 
-vom 01.12.1999 (Stand 01.09.2014)
+vom 01.12.1999 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -331,11 +331,11 @@ beschliesst:
 
 <sup>1</sup> Werden die im Prüfungsbericht erwähnten Beanstandungen bestritten oder die festgestellten Mängel innert der angesetzten Frist nicht behoben, so entscheidet der Regierungsrat auf Antrag der Finanzkontrolle über die notwendigen Massnahmen. Der Entscheid des Regierungsrates wird der geprüften Stelle und der Finanzkontrolle mitgeteilt.
 
-<sup>2</sup> Das Verfahren vor dem Regierungsrat wird von der Justiz-, Gemeinde- und Kirchendirektion instruiert. Betrifft die Beanstandung die Justiz-, Gemeinde- und Kirchendirektion, erfolgt die Instruktion durch die Staatskanzlei. Das Verfahren richtet sich sinngemäss nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^27-1]).
+<sup>2</sup> Das Verfahren vor dem Regierungsrat wird von der Direktion für Inneres und Justiz instruiert. Betrifft die Beanstandung die Direktion für Inneres und Justiz, erfolgt die Instruktion durch die Staatskanzlei. Das Verfahren richtet sich sinngemäss nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^27-1]).
 
-<sup>3</sup> Ist die Finanzkontrolle mit der Erledigung durch den Regierungsrat nicht einverstanden, unterbreitet sie dessen Entscheid mit ihrer Stellungnahme und ihrem Antrag der Finanzkommission oder der Geschäftsprüfungskommission , wenn diese eine Sonderprüfung angeordnet hat.
+<sup>3</sup> Ist die Finanzkontrolle mit der Erledigung durch den Regierungsrat nicht einverstanden, unterbreitet sie dessen Entscheid mit ihrer Stellungnahme und ihrem Antrag der Finanzkommission oder der Geschäftsprüfungskommission, wenn diese eine Sonderprüfung angeordnet hat.
 
-[^27-1]: BSG 155.21
+[^27-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 ### 7.3 Öffentlichkeit
 

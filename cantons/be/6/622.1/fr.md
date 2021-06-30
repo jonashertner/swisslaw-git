@@ -4,13 +4,13 @@ number: "622.1"
 title: Loi cantonale sur le Contrôle des finances
 short: LCCF
 language: fr
-version: 2014-09-01
-valid_until: 2021-06-30
-version_adopted: 2014-03-17
+version: 2021-07-01
+valid_until: 2022-01-31
+version_adopted: 2021-04-07
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1068/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2267/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1068/pdf_file"
 
 (LCCF)
 
-du 01.12.1999 (état au 01.09.2014)
+du 01.12.1999 (état au 01.07.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -331,11 +331,11 @@ arrête:
 
 <sup>1</sup> Lorsque le service contrôlé conteste les observations figurant dans le rapport de révision ou qu'il n'élimine pas dans le délai imparti les irrégularités constatées, le Conseil-exécutif statue sur les mesures à prendre, sur proposition du Contrôle des finances. La décision du Conseil-exécutif est communiquée au service concerné et au Contrôle des finances.
 
-<sup>2</sup> La Direction de la justice, des affaires communales et des affaires ecclésiastiques instruit la procédure devant le Conseil-exécutif. Lorsque la contestation la concerne, l’instruction est menée par la Chancellerie d’Etat. Les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^27-1] sont applicables par analogie à la procédure.
+<sup>2</sup> La Direction de l'intérieur et de la justice instruit la procédure devant le Conseil-exécutif. Lorsque la contestation la concerne, l’instruction est menée par la Chancellerie d’Etat. Les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^27-1] sont applicables par analogie à la procédure.
 
 <sup>3</sup> S’il n’est pas d’accord avec les mesures arrêtées par le Conseil-exécutif, le Contrôle des finances soumet la décision gouvernementale accompagnée de son propre avis et d’une proposition à la Commission des finances ou à la Commission de gestion, lorsque celle-ci a donné un mandat de contrôle extraordinaire.
 
-[^27-1]: RSB 155.21
+[^27-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 ### 7.3 Publicité
 
