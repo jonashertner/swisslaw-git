@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 1990 sull'armonizzazione delle imposte di
 short: LAID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210101/it"
 
 (LAID)
 
-del 14 dicembre 1990 (Stato 1° gennaio 2021)
+del 14 dicembre 1990 (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -200,7 +200,8 @@ Sono esenti dall’imposta soltanto:
 - l.[^7-14] le vincite ai giochi da casinò ammessi secondo la legge federale del 29 settembre 2017[^7-15] sui giochi in denaro (LGD) realizzate nelle case da gioco, purché tali vincite non provengano da un’attività lucrativa indipendente;
 - l<sup>bis</sup>.[^7-16] le singole vincite ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD sino a concorrenza di un importo pari a un milione di franchi o di un importo più elevato secondo il diritto cantonale;
 - l<sup>ter</sup>.[^7-17] le vincite ai giochi di piccola estensione ammessi secondo la LGD;
-- m.[^7-18] le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo l’articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest’ultima, purché non superino il limite stabilito dal diritto cantonale.
+- m.[^7-18] le singole vincite ai giochi di destrezza e alle lotterie destinati a promuovere le vendite che secondo l’articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest’ultima, purché non superino il limite stabilito dal diritto cantonale;
+- n.[^7-19] i proventi ricevuti in virtù della legge federale del 19 giugno 2020[^7-20] sulle prestazioni transitorie per i disoccupati anziani.
 
 [^7-1]: Nuova espr. giusta il n. 24 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^7-2]: Nuovo testo del terzo per. giusta il n. I 3 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
@@ -220,6 +221,8 @@ Sono esenti dall’imposta soltanto:
 [^7-16]: Introdotta dal n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^7-17]: Introdotta dal n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^7-18]: Introdotta testo giusta il n. I 2 della LF del 15 giu. 2012 concernente le semplificazioni nell’imposizione delle vincite alle lotterie ([RU 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 5819](https://fedlex.data.admin.ch/eli/fga/2011/1012)[5845](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nuovo testo giusta il n. II 6 dell’all. alla LF del 29 set. 2017 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 6849](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-19]: Introdotta dall’all. n. 3 della LF del 19 giu. 2020 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^7-20]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 #### Art. 7a
 

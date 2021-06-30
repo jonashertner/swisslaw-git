@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts dire
 short: LHID
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210101/fr"
 
 (LHID)
 
-du 14 décembre 1990 (Etat le 1<sup>er</sup> janvier 2021)
+du 14 décembre 1990 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -202,6 +202,7 @@ Sont seuls exonérés de l’impôt:
 - l<sup>bis</sup>.[^7-16] les gains unitaires jusqu’à concurrence d’un montant d’un million de francs ou du montant supérieur fixé dans le droit cantonal provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
 - l<sup>ter</sup>.[^7-17] les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
 - m.[^7-18] les gains unitaires jusqu’au seuil fixé dans le droit cantonal provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e, de cette loi.
+- n.[^7-19] les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^7-20].
 
 [^7-1]: Nouvelle expression selon l’annexe ch. 24 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)). Il a été tenu compte de cette mod. dans tout le texte.
 [^7-2]: Nouvelle teneur de la phrase selon le ch. I 3 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
@@ -221,6 +222,8 @@ Sont seuls exonérés de l’impôt:
 [^7-16]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^7-17]: Introduite par l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^7-18]: Introduite par le ch. I 2 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 6 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-19]: Introduite par l’annexe ch. 3 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^7-20]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 #### Art. 7a
 
@@ -1118,7 +1121,7 @@ Les personnes imposées à la source en vertu de l’art. 32, al. 1, sont soumis
 
 [^34-1]: Abrogé par le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Chapitre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse****
+### Chapitre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse
 
 [^tit4-chap2-1]
 
@@ -1232,7 +1235,7 @@ Le débiteur des prestations imposables (art. 32 et 35) est responsable du paiem
 [^37-2]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 [^37-3]: Nouvelle teneur selon le ch. I 2 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Chapitre 4**** Compétence territoriale et relations intercantonales
+### Chapitre 4 Compétence territoriale et relations intercantonales
 
 [^tit4-chap4-1]
 
@@ -1517,7 +1520,7 @@ Chacun des héritiers a droit, indépendamment des autres, au rappel d’impôt 
 
 <sup>3</sup> Les faits revêtant de l’importance pour la taxation sont établis et mentionnés dans l’inventaire.
 
-## Titre 6 Dispositions pénales****
+## Titre 6 Dispositions pénales
 
 [^tit6-1]
 

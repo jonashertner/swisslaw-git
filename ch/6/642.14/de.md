@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. Dezember 1990 über die Harmonisierung der direkten
 short: StHG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1990-12-14
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1991-1256_1256_1256-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/20210101/de"
 
 (Steuerharmonisierungsgesetz, StHG)**[^t-1]**
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2021)
+vom 14. Dezember 1990 (Stand am 1. Juli 2021)
 
 [^t-1]: Fassung gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -113,7 +113,7 @@ Die auf Grund von Artikel 2 Absatz 2 des Gaststaatgesetzes vom 22. Juni 2007[^4a
 
 **Wechsel der Steuerpflicht**[^4b-1]
 
-<sup>1</sup> Bei Wechsel des steuerrechtlichen Wohnsitzes innerhalb der Schweiz besteht die Steuerpflicht aufgrund persönlicher Zugehörigkeit für die laufende Steuerperiode im Kanton, in dem die steuerpflichtige Person am Ende dieser Periode ihren Wohnsitz hat. Kapitalleistungen nach Artikel 11 Absatz 3 sind jedoch in dem Kanton steuerbar, in dem die steuerpflichtige Person im Zeitpunkt der Fälligkeit der Leistung ihren Wohnsitz hat. …[^4b-2]
+<sup>1</sup> Bei Wechsel des steuerrechtlichen Wohnsitzes innerhalb der Schweiz besteht die Steuerpflicht aufgrund persönlicher Zugehörigkeit für die laufende Steuerperiode im Kanton, in dem die steuerpflichtige Person am Ende dieser Periode ihren Wohnsitz hat. Kapitalleistungen nach Artikel 11 Absatz 3 sind jedoch in dem Kanton steuerbar, in dem die steuerpflichtige Person im Zeitpunkt der Fälligkeit der Leistung ihren Wohnsitz hat. ...[^4b-2]
 
 <sup>2</sup> Eine Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit in einem andern Kanton als demjenigen des steuerrechtlichen Wohnsitzes besteht für die gesamte Steuerperiode, auch wenn sie im Laufe des Jahres begründet, verändert oder aufgehoben wird. In diesem Fall wird der Wert der Vermögensobjekte im Verhältnis zur Dauer der Zugehörigkeit vermindert. Im Übrigen werden das Einkommen und das Vermögen zwischen den beteiligten Kantonen in sinngemässer Anwendung der Grundsätze des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung ausgeschieden.
 
@@ -203,12 +203,13 @@ Steuerfrei sind nur:
 - l.[^7-14] die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017[^7-15] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
 - l<sup>bis</sup>.[^7-16] die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken oder zu einem nach kantonalem Recht bestimmten höheren Betrag aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - l<sup>ter</sup>.[^7-17] die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- m.[^7-18] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die nach kantonalem Recht bestimmte Grenze nicht überschritten wird.
+- m.[^7-18] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die nach kantonalem Recht bestimmte Grenze nicht überschritten wird;
+- n.[^7-19] Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020[^7-20] über Überbrückungsleistungen für ältere Arbeitslose.
 
 [^7-1]: Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den französischen und den italienischen Text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^7-2]: Fassung des dritten Satz gemäss Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^7-3]: Vierter Satz eingefügt durch Ziff. I 3 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^7-4]: Fassung gemäss Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behan lung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
+[^7-4]: Fassung gemäss Ziff. I 2 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^7-5]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 [^7-6]: Eingefügt durch Ziff. I 2 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^7-7]: Eingefügt durch Ziff. I 6 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
@@ -223,6 +224,8 @@ Steuerfrei sind nur:
 [^7-16]: Eingefügt durch Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^7-17]: Eingefügt durch Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^7-18]: Eingefügt durch Ziff. I 2 des BG vom 15. Juni 2012 über die Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Anhang Ziff. II 6 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^7-19]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^7-20]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 #### Art. 7a
 
@@ -682,7 +685,7 @@ Von der Steuerpflicht sind nur befreit:
 - i.[^23-3] die kollektiven Kapitalanlagen mit direktem Grundbesitz, sofern deren Anleger ausschliesslich steuerbefreite Einrichtungen der beruflichen Vorsorge nach Buchstabe d oder steuerbefreite inländische Sozialversicherungs- und Ausgleichskassen nach Buchstabe e sind;
 - j.[^23-4] die vom Bund konzessionierten Verkehrs- und Infrastrukturunternehmen, die für diese Tätigkeit Abgeltungen erhalten oder aufgrund ihrer Konzession einen ganzjährigen Betrieb von nationaler Bedeutung aufrecht erhalten müssen; die Steuerbefreiung erstreckt sich auch auf Gewinne aus der konzessionierten Tätigkeit, die frei verfügbar sind; von der Steuerbefreiung ausgenommen sind jedoch Nebenbetriebe und Liegenschaften, die keine notwendige Beziehung zur konzessionierten Tätigkeit haben.
 
-<sup>2</sup> …[^23-5]
+<sup>2</sup> ...[^23-5]
 
 <sup>3</sup> Die Kantone können auf dem Wege der Gesetzgebung für Unternehmen, die neu eröffnet werden und dem wirtschaftlichen Interesse des Kantons dienen, für das Gründungsjahr und die neun folgenden Jahre Steuererleichterungen vorsehen. Eine wesentliche Änderung der betrieblichen Tätigkeit kann einer Neugründung gleichgestellt werden.
 
@@ -969,7 +972,7 @@ Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 
 - a. Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach Artikel 11 Absatz 4 BankG; und
 - b. Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen im Sinne der Artikel 28–32 BankG.[^28-6]
 
-<sup>2</sup> – <sup>5</sup>…[^28-7]
+<sup>2–5</sup> ...[^28-7]
 
 <sup>6</sup> Andere Ausnahmen von der ordentlichen Steuerberechnung gemäss Artikel 27 sind nicht zulässig.
 
@@ -994,7 +997,7 @@ Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 
 Das steuerbare Eigenkapital besteht:
 
 - a. bei Kapitalgesellschaften und Genossenschaften aus dem einbezahlten Grund- oder Stammkapital, den offenen und den aus versteuertem Gewinn gebildeten stillen Reserven;
-- b.[^29-2] …
+- b.[^29-2] ...
 - c. bei Vereinen, Stiftungen und den übrigen juristischen Personen aus dem Reinvermögen, wie es nach den Bestimmungen für die natürlichen Personen berechnet wird.
 
 <sup>3</sup> Die Kantone können für Eigenkapital, das auf Beteiligungsrechte nach Artikel 28 Absatz 1, auf Rechte nach Artikel 24*a* sowie auf Darlehen an Konzerngesellschaften entfällt, eine Steuerermässigung vorsehen.[^29-3]
@@ -1587,7 +1590,7 @@ Zeigt sich eine Person nach Absatz 4 erstmals selbst an, so wird von einer Straf
 
 <sup>2</sup> Werden im Geschäftsbereich einer juristischen Person Teilnahmehandlungen (Anstiftung, Gehilfenschaft, Mitwirkung) an Steuerhinterziehungen Dritter begangen, so ist Artikel 56 Absatz 3 auf die juristische Person anwendbar.
 
-<sup>3</sup> …[^57-1]
+<sup>3</sup> ...[^57-1]
 
 <sup>4</sup> Die steuerpflichtige Person, die in rechtlich und tatsächlich ungetrennter Ehe lebt, wird nur für die Hinterziehung ihrer eigenen Steuerfaktoren gebüsst. Vorbehalten bleibt Artikel 56 Absatz 3. Die Mitunterzeichnung der Steuererklärung stellt für sich allein keine Widerhandlung nach Artikel 56 Absatz 3 dar.[^57-2]
 
@@ -1705,7 +1708,7 @@ Das Strafverfahren und der Strafvollzug richten sich nach kantonalem Recht, sowe
 
 [^61-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. 13 des Bundesgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Siebter Titel: …
+## Siebter Titel: ...
 
 #### Art. 62–70
 
@@ -2009,7 +2012,7 @@ Die Kantone passen ihre Gesetzgebung auf den Zeitpunkt des Inkrafttretens der Ge
 
 <sup>2</sup> Beschwerdebefugt sind die Steuerpflichtigen, die nach kantonalem Recht zuständige Behörde und die Eidgenössische Steuerverwaltung.
 
-<sup>3</sup> …[^73-3]
+<sup>3</sup> ...[^73-3]
 
 [^73-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 [^73-2]: Fassung gemäss Ziff. I 3 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
@@ -2029,7 +2032,7 @@ Der Bundesrat erlässt die Vollzugsbestimmungen. Er regelt insbesondere die Prob
 
 **Änderung des AHVG**
 
-…[^75-1]
+...[^75-1]
 
 [^75-1]: Die Änderung kann unter [AS 1991 1256](https://fedlex.data.admin.ch/eli/oc/1991/1256_1256_1256)konsultiert werden.
 
