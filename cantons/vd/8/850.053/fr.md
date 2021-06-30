@@ -4,7 +4,7 @@ number: "850.053"
 title: LOI du 23.11.2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (LPCFam)
 short: LPCFam
 language: fr
-version: 2021-03-01
+version: 2021-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053?id=fc2c787d-e508-430e-9fa6-60f0a24f06ed"
 ---
 
@@ -48,6 +48,16 @@ décrète
 <sup>2</sup> Les organes décisionnels sont rattachés à des collectivités publiques ou à des personnes morales de droit public.
 
 [^1a-2]: Modif. 3 du 08.12.2015: Introduction Art. 1b; entrée en vigueur au 01.01.2016 · Modif. 6 du 11.12.2018: Modification Al. 1; entrée en vigueur au 01.03.2019 · Modif. 10 du 20.12.2022: Introduction Al. 1bis; entrée en vigueur au 01.01.2023
+
+#### Art. 1c
+
+**Subsidiarité [^1b-1]**
+
+<sup>1</sup> Sous réserve des dispositions contraires de la présente loi, les aides financières allouées au titre de la présente loi sont subsidiaires aux prestations des assurances sociales, cantonales ou fédérales, ainsi qu'aux autres ressources du requérant.
+
+<sup>2</sup> La subsidiarité de l'aide implique pour le requérant l'obligation d'entreprendre toutes démarches utiles auprès des personnes ou organismes concernés pour éviter ou limiter la prise en charge financière.
+
+[^1b-1]: Modif. 9 du 14.12.2021: Introduction Art. 1c; entrée en vigueur au 01.07.2021
 
 #### Art. 2
 
@@ -271,11 +281,13 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 - c. elles n'ont pas droit à des indemnités de chômage ou ont épuisé leur droit à de telles indemnités ;
 - d. ...
 - e. leurs dépenses reconnues et revenus déterminants, y compris les normes de fortunes, sont inférieurs aux limites imposées par la LPC[^16-2] pour ouvrir le droit à des prestations complémentaires à l'AVS et à l'AI ;
-- f. elles n'ont pas fait valoir leur droit à une rente de vieillesse anticipée au sens de la LASV ou elles ont déposé une demande de rente anticipée et sont dans l'attente de la décision d'octroi, respectivement du versement de la rente anticipée ; les prestations de la rente-pont accordées à ce titre sont considérées comme avance et doivent être restituées par le bénéficiaire conformément à l'article 28, alinéa 1 bis.
+- f. elles n'ont pas fait valoir leur droit à une rente de vieillesse anticipée au sens de la LAVS ou elles ont déposé une demande de rente anticipée et sont dans l'attente de la décision d'octroi, respectivement du versement de la rente anticipée ; les prestations de la rente-pont accordées à ce titre sont considérées comme avance et doivent être restituées par le bénéficiaire conformément à l'article 28, alinéa 1 bis.
 
 <sup>2</sup> Le droit aux prestations cantonales de la rente-pont n'est pas ouvert aux personnes qui atteignent l'âge de la retraite anticipée au sens de la LAVS, et dont la situation financière est telle que l'autorité peut anticiper qu'elles pourront prétendre à des prestations complémentaires au sens de la LPC[^16-3] si elles exercent leur droit à une rente de vieillesse à l'âge ordinaire prévu par la LAVS.
 
-[^sectionSectionIII-1]: Modif. 4 du 07.06.2016: Modification Al. 1 b,e,f, 2; entrée en vigueur au 01.01.2017; Abrogation Al. 1 d; entrée en vigueur au 01.01.2017 · Modif. 9 du 14.12.2021: Introduction Art. 1c; entrée en vigueur au 01.07.2021; Modification Al. 1, f; entrée en vigueur au 01.07.2021; Introduction Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 20c, Al. 2bis; entrée en vigueur au 01.07.2021; Introduction Art. 27d; entrée en vigueur au 01.07.2021
+<sup>3</sup> Le Conseil d'Etat précise les modalités de la coordination des prestations cantonales de la rente-pont, de la rente anticipée au sens de la LAVS et des prestations transitoires fédérales pour chômeurs âgés.
+
+[^sectionSectionIII-1]: Modif. 4 du 07.06.2016: Modification Al. 1 b,e,f, 2; entrée en vigueur au 01.01.2017; Abrogation Al. 1 d; entrée en vigueur au 01.01.2017 · Modif. 9 du 14.12.2021: Modification Al. 1, f; entrée en vigueur au 01.07.2021; Introduction Al. 3; entrée en vigueur au 01.07.2021
 [^16-1]: Loi fédérale du 20.12.1946 sur l’assurance-vieillesse et survivants (RS 831.10)
 [^16-2]: Loi fédérale du 06.10.2006 sur les prestations complémentaires à l'AVS et à l'AI (RS 831.30)
 [^16-3]: Loi fédérale du 06.10.2006 sur les prestations complémentaires à l'AVS et à l'AI (RS 831.30)
@@ -359,9 +371,11 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 <sup>2</sup> Ils peuvent notamment mettre en place des accès aux données par procédure d'appel.
 
+<sup>2bis</sup> La Caisse transmet aux autorités d'application du régime de la rente-pont, les informations nécessaires relatives aux bénéficiaires de la loi fédérale sur les prestations transitoires pour les chômeurs âgés.
+
 <sup>3</sup> Le Conseil d'Etat peut préciser les modalités de traitement des données.
 
-[^20b-1]: Modif. 3 du 08.12.2015: Introduction Art. 20c; entrée en vigueur au 01.01.2016 · Modif. 9 du 14.12.2021: Introduction Art. 1c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 3; entrée en vigueur au 01.07.2021; Introduction Al. 2bis; entrée en vigueur au 01.07.2021; Introduction Art. 27d; entrée en vigueur au 01.07.2021
+[^20b-1]: Modif. 3 du 08.12.2015: Introduction Art. 20c; entrée en vigueur au 01.01.2016 · Modif. 9 du 14.12.2021: Introduction Al. 2bis; entrée en vigueur au 01.07.2021
 
 #### Art. 20d
 
@@ -411,11 +425,11 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 <sup>4</sup> Elle signale sans retard tout changement de sa situation pouvant entraîner la réduction ou la suppression de ladite prestation.
 
-<sup>5</sup> Les autorités administratives communales et cantonales, les employeurs, et les organismes s'occupant de la personne qui sollicite une aide fournissent gratuitement aux organes d'application les renseignements et pièces nécessaires à l'application de la présente loi.
+<sup>5</sup> Les autorités administratives communales et cantonales, les employeurs, les établissements bancaires, postaux, les sociétés d'assurance, ainsi que les organismes s'occupant de la personne qui sollicite une aide et ceux détenant les informations relatives à sa situation financière, fournissent gratuitement aux organes d'application les renseignements et pièces nécessaires à l'application de la présente loi.
 
 <sup>6</sup> Pour fixer la prestation financière, l'administration fiscale fournit au moyen d'une procédure d'appel à l'autorité compétente les renseignements nécessaires concernant la personne sollicitant une aide.
 
-[^22-3]: Modif. 6 du 11.12.2018: Introduction Art. 22a; entrée en vigueur au 01.03.2019 · Modif. 9 du 14.12.2021: Introduction Art. 1c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 20c, Al. 2bis; entrée en vigueur au 01.07.2021; Modification Al. 5; entrée en vigueur au 01.07.2021; Introduction Art. 27d; entrée en vigueur au 01.07.2021
+[^22-3]: Modif. 6 du 11.12.2018: Introduction Art. 22a; entrée en vigueur au 01.03.2019 · Modif. 9 du 14.12.2021: Modification Al. 5; entrée en vigueur au 01.07.2021
 
 #### Art. 22b
 
@@ -572,13 +586,23 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 [^27b-1]: Modif. 6 du 11.12.2018: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1; entrée en vigueur au 01.03.2019; Introduction Art. 27c; entrée en vigueur au 01.03.2019
 [^27c-1]: Modif. 9 du 14.12.2021: Modification ; entrée en vigueur au 01.07.2021
 
-### Sous-section II Restitution, sanctions et disposition pénale
+### Sous-section II Subrogation, restitution, sanctions et disposition pénale
 
 [^27c-1]
 
+#### Art. 27d
+
+**Subrogation [^subsectionSoussectionII-2]**
+
+<sup>1</sup> Le requérant informe sans délai l'autorité compétente de toute demande de prestations d'assurances sociales déposée.
+
+<sup>2</sup> L'autorité qui a accordé une aide financière individuelle ou une avance d'aide est subrogée dans les droits du bénéficiaire envers les assurances sociales à concurrence des montants versés
+
+[^subsectionSoussectionII-2]: Modif. 9 du 14.12.2021: Introduction Art. 27d; entrée en vigueur au 01.07.2021
+
 #### Art. 28
 
-**Restitution [^subsectionSoussectionII-2]**
+**Restitution [^27d-1]**
 
 <sup>1</sup> Les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont perçues indûment doivent être restituées.
 
@@ -590,7 +614,7 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 <sup>4</sup> L'obligation de restituer se prescrit par dix ans à compter du jour où la dernière prestation a été versée. A l'égard des héritiers du bénéficiaire, le délai de prescription est de un an dès la dévolution de la succession.
 
-[^subsectionSoussectionII-2]: Modif. 4 du 07.06.2016: Introduction Al. 1 bis; entrée en vigueur au 01.01.2017 · Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 3; entrée en vigueur au 01.03.2021
+[^27d-1]: Modif. 4 du 07.06.2016: Introduction Al. 1 bis; entrée en vigueur au 01.01.2017 · Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 3; entrée en vigueur au 01.03.2021
 
 #### Art. 28a
 
