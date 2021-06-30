@@ -4,13 +4,13 @@ number: "152.221.141.1"
 title: Direktionsverordnung über die Delegation von Befugnissen der Sicherheitsdirektion
 short: DelDV SID
 language: de
-version: 2020-10-01
-valid_until: 2021-06-30
-version_adopted: 2020-08-26
+version: 2021-07-01
+valid_until: 2025-02-28
+version_adopted: 2021-05-04
 adopted: 2011-02-28
 in_force: 2011-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.141.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1954/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2285/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1954/pdf_file"
 
 (DelDV SID)
 
-vom 28.02.2011 (Stand 01.10.2020)
+vom 28.02.2011 (Stand 01.07.2021)
 
 Die Polizei- und Militärdirektion des Kantons Bern,
 
@@ -221,7 +221,9 @@ beschliesst:
 
 <sup>2</sup> Im Verhinderungsfall vertritt die Leiterin oder der Leiter Rechtsdienst die stellvertretende juristische Generalsekretärin oder den stellvertretenden juristischen Generalsekretär.
 
-<sup>3</sup> Im Bereich Verwaltungsjustiz und in Staatshaftungssachen ist die Leiterin oder der Leiter Rechtsdienst zuständig für Vernehmlassungen, Abschreibungsverfügungen und selbstständig anfechtbare Zwischenverfügungen und -entscheide sowie für Entscheide betreffend unentgeltliche Rechtspflege, soweit nicht im Hauptentscheid darüber befunden wird. Im Verhinderungsfall kommen die Befugnisse der Stellvertreterin oder dem Stellvertreter zu. Zuständig für prozessleitende Verfügungen sind die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter des Rechtsdienstes.
+<sup>3</sup> Im Bereich Verwaltungsjustiz und in Staatshaftungssachen ist die Leiterin oder der Leiter Rechtsdienst zuständig für Vernehmlassungen, Abschreibungsverfügungen und selbstständig anfechtbare Zwischenverfügungen und -entscheide sowie für Entscheide betreffend unentgeltliche Rechtspflege, soweit nicht im Hauptentscheid darüber befunden wird. Im Verhinderungsfall kommen die Befugnisse der ordentlichen Stellvertreterin oder dem ordentlichen Stellvertreter zu. Zuständig für prozessleitende Verfügungen sind die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter des Rechtsdienstes.
+
+<sup>4</sup> Die Leiterin oder der Leiter Fonds und Bewilligungen ist zuständig für die Bewilligung von Kleinspielen gemäss der Geldspielgesetzgebung, bei einer Verhinderung die ordentliche Stellvertreterin oder der ordentliche Stellvertreter.
 
 #### Art. 18
 

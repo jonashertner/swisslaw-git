@@ -4,13 +4,13 @@ number: "152.221.141.1"
 title: "Ordonnance de Direction sur la délégation de compétences de la Direction de la sécurité *"
 short: ODDél DSE
 language: fr
-version: 2020-10-01
-valid_until: 2021-06-30
-version_adopted: 2020-08-26
+version: 2021-07-01
+valid_until: 2025-02-28
+version_adopted: 2021-05-04
 adopted: 2011-02-28
 in_force: 2011-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1954/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2285/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1954/pdf_file"
 
 (ODDél DSE)
 
-du 28.02.2011 (état au 01.10.2020)
+du 28.02.2011 (état au 01.07.2021)
 
 La Direction de la police et des affaires militaires du canton de Berne,
 
@@ -221,7 +221,9 @@ arrête:
 
 <sup>2</sup> En cas d’empêchement de ces personnes, le responsable ou la responsable du Service juridique assure la suppléance du secrétaire général suppléant ou de la secrétaire générale suppléante pour les affaires juridiques.
 
-<sup>3</sup> En matière de justice administrative et pour les demandes en responsabilité de l’Etat, le chef ou la cheffe du Service juridique est compétente pour les mémoires de réponse, les décisions de classement, les décisions et décisions incidentes susceptibles de recours ainsi que les décisions quant à l’assistance judiciaire gratuite, pour autant que cette question ne soit pas tranchée dans la décision au fond. En cas d’empêchement, les compétences reviennent au suppléant ou à la suppléante. Les collaborateurs et collaboratrices scientifiques du Service juridique sont compétents pour les ordonnances de conduite de la procédure.
+<sup>3</sup> En matière de justice administrative et pour les demandes en responsabilité de l’Etat, le chef ou la cheffe du Service juridique est compétente pour les mémoires de réponse, les décisions de classement, les décisions et décisions incidentes susceptibles de recours ainsi que les décisions quant à l’assistance judiciaire gratuite, pour autant que cette question ne soit pas tranchée dans la décision au fond. En cas d’empêchement, les compétences reviennent à la personne qui assure ordinairement sa suppléance. Les collaborateurs et collaboratrices scientifiques du Service juridique sont compétents pour les ordonnances de conduite de la procédure.
+
+<sup>4</sup> Le responsable ou la responsable des fonds et autorisations a compétence en matière d'autorisation de jeux de petite envergure conformément à la législation sur les jeux d'argent; en cas d'empêchement, la compétence revient à la personne qui assure ordinairement sa suppléance.
 
 #### Art. 18
 
