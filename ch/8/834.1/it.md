@@ -4,35 +4,33 @@ title: "Legge federale del 25 settembre 1952 sulle indennità di perdita di guad
 short: LIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale sulle indennità di perdita di guadagno per chi presta servizio e in caso di maternità o paternità
+# Legge federale sulle indennità di perdita di guadagno
 
-(Legge sulle indennità di perdita di guadagno, LIPG)**[^t-1]**
+(Legge sulle indennità di perdita di guadagno, LIPG)[^t-1]
 
-del 25 settembre 1952 (Stato 1° gennaio 2021)
+del 25 settembre 1952 (Stato 1° luglio 2021)
 
-[^t-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° gen. 2021 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^t-1]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 59 capoverso 4[^ingress-1], 61 capoverso 4[^ingress-2], 116 capoversi 3 e 4, 122[^ingress-3] e 123[^ingress-4] della Costituzione federale[^ingress-5] (Cost.);[^ingress-6] visto il messaggio del Consiglio federale del 23 ottobre 1951,
+visti gli articoli 59 capoverso 4, 61 capoverso 4, 116 capoversi 3 e 4, 117 capoverso 1, 122 e 123 della Costituzione federale (Cost.)[^ingress-1];[^ingress-2]
+
+visto il messaggio del Consiglio federale del 23 ottobre 1951,
 
 decreta:
 
-[^ingress-1]: Questa disp. corrisponde all’art. 34<sup>ter</sup> cpv. 1 lett. d della Cost. del 29 mag. 1874 (CS **1** 3).
-[^ingress-2]: Questa disp. corrisponde all’art. 22<sup>bis</sup> cpv. 6 della Cost. del 29 mag. 1874 (CS **1** 3).
-[^ingress-3]: Questa disp. corrisponde all’art. 64 della Cost. del 29 mag. 1874 (CS **1** 3).
-[^ingress-4]: Questa disp. corrisponde all’art. 64<sup>bis</sup> della Cost. del 29 mag. 1874 (CS **1** 3).
-[^ingress-5]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-6]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta il n. I 8 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 ## Capo primo:**** Applicabilità della LPGA
 
@@ -314,28 +312,44 @@ Ha diritto all’indennità la donna che:
 
 Il Consiglio federale disciplina il diritto all’indennità delle donne che per incapacità al lavoro o disoccupazione:
 
-- a. non soddisfano le condizioni di cui al capoverso 1 lettera a;
+- a.[^16b-4] durante i nove mesi precedenti il parto non hanno esercitato un’attività lucrativa per almeno cinque mesi;
 - b. al momento del parto non sono salariate o indipendenti.
 
 [^16b-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^16b-2]: Nuova espr. giusta il n. II 2 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^16b-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16b-4]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16c
 
-**Inizio del diritto**
+**Inizio del diritto e durata del versamento dell’indennità**[^16c-1]
 
-<sup>1</sup> Il diritto all’indennità inizia il giorno del parto.
+<sup>1</sup> Il diritto all’indennità di maternità inizia il giorno del parto.
 
-<sup>2</sup> In caso di soggiorno ospedaliero prolungato del neonato, la madre può chiedere che l’indennità sia versata soltanto a partire dal giorno in cui il figlio è accolto a casa.
+<sup>2</sup> L’indennità di maternità è versata per 98 giorni consecutivi, a decorrere dall’inizio del diritto.
+
+<sup>3</sup>
+
+In caso di degenza ospedaliera del neonato, la durata del versamento è prolungata di una durata equivalente a quella della degenza, ma al massimo di 56 giorni, se:
+
+- a. immediatamente dopo la nascita il neonato resta in ospedale per almeno due settimane consecutive; e
+- b. la madre fornisce la prova che al momento del parto prevedeva di riprendere un’attività lucrativa alla fine del congedo di maternità.
+
+<sup>4</sup> Il Consiglio federale disciplina il diritto al prolungamento della durata del versamento dell’indennità di maternità per le donne che, per incapacità al lavoro o disoccupazione, non possono riprendere un’attività lucrativa alla fine del congedo di maternità.
+
+[^16c-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16d
 
 **Estinzione del diritto**[^16d-1]
 
-Il diritto all’indennità si estingue 98 giorni dopo il suo inizio. Si estingue prima se la madre riprende la sua attività lucrativa o muore.
+<sup>1</sup> Il diritto all’indennità di maternità si estingue 98 giorni dopo il suo inizio.
 
-[^16d-1]: Vedi anche le disp. trans. della mod. del 3 ott. 2003 alla fine del presente testo.
+<sup>2</sup> In caso di degenza ospedaliera del neonato, il diritto all’indennità di maternità si estingue alla fine del prolungamento previsto dall’articolo 16*c* capoverso 3.
+
+<sup>3</sup> Il diritto all’indennità di maternità si estingue prima se la madre riprende un’attività lucrativa o muore
+
+[^16d-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16e
 
@@ -367,23 +381,25 @@ L’indennità di maternità esclude il versamento delle seguenti altre indennit
 - b. dell’assicurazione per l’invalidità;
 - c. dell’assicurazione contro gli infortuni;
 - d. dell’assicurazione militare;
-- e. delle indennità di cui agli articoli 9 e 10.
+- e. delle indennità di cui agli articoli 9 e 10;
+- f.[^16g-1] delle indennità di assistenza di cui agli articoli 16*n*–16*s* per lo stesso figlio.
 
 <sup>2</sup>
 
 Se fino all’inizio del diritto all’indennità di maternità vi era un diritto a un’indennità giornaliera in virtù di una delle leggi seguenti, l’indennità di maternità corrisponde almeno all’indennità giornaliera versata precedentemente:
 
-- a. la legge federale del 19 giugno 1959[^16g-1] sull’assicurazione per l’invalidità;
-- b. legge federale del 18 marzo 1994[^16g-2] sull’assicurazione malattie;
-- c. legge federale del 20 marzo 1981[^16g-3] sull’assicurazione contro gli infortuni;
-- d. legge federale del 19 giugno 1992[^16g-4] sull’assicurazione militare;
-- e. legge del 25 giugno 1982[^16g-5] sull’assicurazione contro la disoccupazione.
+- a. la legge federale del 19 giugno 1959[^16g-2] sull’assicurazione per l’invalidità;
+- b. legge federale del 18 marzo 1994[^16g-3] sull’assicurazione malattie;
+- c. legge federale del 20 marzo 1981[^16g-4] sull’assicurazione contro gli infortuni;
+- d. legge federale del 19 giugno 1992[^16g-5] sull’assicurazione militare;
+- e. legge del 25 giugno 1982[^16g-6] sull’assicurazione contro la disoccupazione.
 
-[^16g-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^16g-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^16g-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16g-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^16g-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^16g-1]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^16g-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^16g-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16g-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^16g-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^16g-6]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 16h
 
@@ -393,9 +409,9 @@ A complemento del capo III*a* i Cantoni possono prevedere un’indennità di mat
 
 ## III*b*.**** Indennità in caso di paternità
 
-[^lvlIIIb-1]
+[^chap2-1]
 
-[^lvlIIIb-1]: Introdotta dal n. I della LF del 27 set. 2019, in vigore dal 1° gen. 2021 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^chap2-1]: Introdotto dal n. I della LF del 27 set. 2019 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 16i
 
@@ -464,7 +480,7 @@ Il diritto all’indennità si estingue:
 
 <sup>1</sup> L’indennità giornaliera ammonta all’80 per cento del reddito medio conseguito prima dell’inizio del diritto all’indennità di paternità.
 
-<sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’articolo 11 capoverso 1.
+<sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’arti-colo 11 capoverso 1
 
 <sup>3</sup> All’importo massimo è applicabile per analogia l’articolo 16*f*.
 
@@ -497,6 +513,121 @@ Se fino all’inizio del diritto all’indennità di paternità vi era un diritt
 [^16m-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^16m-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^16m-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+### III*c*.**** Indennità per genitori che assistono un figlio con gravi problemi di salute dovuti a malattia o infortunio
+
+[^chap2-lvlIIIc-1]
+
+[^chap2-lvlIIIc-1]: Introdotto dal n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+
+#### Art. 16n
+
+**Aventi diritto**
+
+<sup>1</sup>
+
+Hanno diritto all’indennità i genitori di un figlio minorenne con gravi problemi di salute dovuti a malattia o infortunio che:
+
+- a. interrompono l’attività lucrativa per assistere il figlio; e
+- b.
+
+  al momento dell’interruzione dell’attività lucrativa:
+
+  - 1\. sono salariati ai sensi dell’articolo 10 LPGA[^16n-1],
+  - 2\. sono indipendenti ai sensi dell’articolo 12 LPGA, o
+  - 3\. collaborano nell’azienda del coniuge percependo un salario in contanti.
+
+<sup>2</sup> Per ogni caso di malattia o infortunio sussiste un solo diritto.
+
+<sup>3</sup>
+
+Il Consiglio federale disciplina:
+
+- a. il diritto all’indennità dei genitori affilianti;
+- b. il diritto all’indennità di persone che per incapacità al lavoro o disoccupazione non soddisfano le condizioni di cui al capoverso 1 lettera b.
+
+[^16n-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 16o
+
+**Figlio con gravi problemi di salute**
+
+Un figlio ha gravi problemi di salute, se:
+
+- a. si è verificato un cambiamento radicale del suo stato di salute fisica o psichica;
+- b. il decorso o l’esito di questo cambiamento è difficilmente prevedibile oppure va considerata l’eventualità di un danno permanente o crescente oppure del decesso;
+- c. sussiste un bisogno particolarmente elevato di assistenza da parte dei genitori; e
+- d. almeno un genitore deve interrompere l’attività lucrativa per assistere il figlio.
+
+#### Art. 16p
+
+**Termine quadro, inizio ed estinzione del diritto**
+
+<sup>1</sup> Per il versamento dell’indennità di assistenza è previsto un termine quadro di 18 mesi.
+
+<sup>2</sup> Il termine quadro decorre dal giorno per il quale è versata la prima indennità giornaliera.
+
+<sup>3</sup> Il diritto nasce se sono soddisfatte le condizioni di cui all’articolo 16*n*.
+
+<sup>4</sup>
+
+Il diritto si estingue:
+
+- a. alla scadenza del termine quadro; o
+- b. dopo la riscossione del numero massimo di indennità giornaliere.
+
+<sup>5</sup> Il diritto si estingue prima se le condizioni non sono più soddisfatte; tuttavia non si estingue prima se il figlio diviene maggiorenne durante il termine quadro.
+
+#### Art. 16q
+
+**Forma e numero delle indennità giornaliere**
+
+<sup>1</sup> L’indennità di assistenza è versata sotto forma di indennità giornaliera.
+
+<sup>2</sup> Entro il termine quadro sussiste il diritto a 98 indennità giornaliere al massimo.
+
+<sup>3</sup> Per ogni cinque indennità giornaliere ne sono versate due supplementari.
+
+<sup>4</sup> Se entrambi i genitori esercitano un’attività lucrativa, ognuno di loro ha diritto al massimo alla metà delle indennità giornaliere. Possono concordare una ripartizione diversa.
+
+#### Art. 16r
+
+**Importo e calcolo dell’indennità**
+
+<sup>1</sup> L’indennità giornaliera ammonta all’80 per cento del reddito medio conseguito prima dell’inizio del diritto all’indennità di assistenza.
+
+<sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’articolo 11 capoverso 1.
+
+<sup>3</sup> All’importo massimo è applicabile per analogia l’articolo 16*f*.
+
+#### Art. 16s
+
+**Rapporto con le prestazioni di altre assicurazioni sociali**
+
+<sup>1</sup>
+
+Il versamento dell’indennità di assistenza è prioritario rispetto alle indennità giornaliere o alle prestazioni delle seguenti assicurazioni sociali:
+
+- a. assicurazione contro la disoccupazione;
+- b. assicurazione per l’invalidità;
+- c. assicurazione contro gli infortuni;
+- d. assicurazione militare.
+
+<sup>2</sup>
+
+Se fino all’inizio del diritto all’indennità di assistenza vi era un diritto a un’indennità giornaliera in virtù dell’articolo 16*b* o di una delle leggi seguenti, l’indennità di assistenza corrisponde almeno all’indennità giornaliera versata precedentemente:
+
+- a. legge federale del 19 giugno 1959[^16s-1] sull’assicurazione per l’invalidità;
+- b. legge federale del 18 marzo 1994[^16s-2] sull’assicurazione malattie;
+- c. legge federale del 20 marzo 1981[^16s-3] sull’assicurazione contro gli infortuni;
+- d. legge federale del 19 giugno 1992[^16s-4] sull’assicurazione militare;
+- e. legge del 25 giugno 1982[^16s-5] sull’assicurazione contro la disoccupazione.
+
+[^16s-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^16s-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16s-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^16s-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^16s-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 ### IV. Disposizioni varie
 
@@ -574,17 +705,18 @@ Sull’indennità devono essere pagati i contributi:
 
 <sup>1</sup>
 
-In deroga all’articolo 24 LPGA[^20-2], il diritto alle indennità non ricevute si estingue:
+In deroga all’articolo 24 LPGA[^20-2] il diritto alle indennità non ricevute si estingue:
 
-- a. per chi presta servizio, cinque anni dopo la fine del servizio che fonda il diritto alla prestazione;
+- a. per chi presta servizio, cinque anni dopo la fine del servizio che fonda il diritto alle indennità;
 - b. in caso di maternità, cinque anni dopo l’estinzione del diritto all’indennità di cui all’articolo 16*d*;
-- c. in caso di paternità, cinque anni dopo la scadenza del termine quadro di cui all’articolo 16*j*.[^20-3]
+- c. in caso di paternità, cinque anni dopo la scadenza del termine quadro di cui all’articolo 16*j*;
+- d. per i genitori che assistono figli con gravi problemi di salute dovuti a malattia o infortunio, cinque anni dopo l’ultimo giorno del congedo di assistenza.[^20-3]
 
 <sup>2</sup> I crediti derivanti dalla presente legge, dalla LAVS[^20-4] e dalla legge federale del 20 giugno 1952[^20-5] sugli assegni familiari nell’agricoltura possono essere compensati con le indennità esigibili in virtù della presente legge.
 
 [^20-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° gen. 2021 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^20-3]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^20-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^20-5]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
@@ -724,9 +856,9 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 
 ## Capo quinto:**** Rapporto con il diritto europeo
 
-[^chap5-1]
+[^chap6-1]
 
-[^chap5-1]: Introdotto dal n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^chap6-1]: Introdotto dal n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 28a
 
@@ -764,9 +896,9 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 
 ## Capo sesto: Disposizioni finali e transitorie****
 
-[^chap6-1]
+[^chap6-2]
 
-[^chap6-1]: Originario Capo quinto.
+[^chap6-2]: Originario Capo quinto.
 
 #### Art. 29
 

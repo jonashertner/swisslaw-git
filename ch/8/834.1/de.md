@@ -4,36 +4,32 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft
+# Bundesgesetz über den Erwerbsersatz
 
 (Erwerbsersatzgesetz, EOG)**[^t-1]**
 
-vom 25. September 1952 (Stand am 1. Januar 2021)
+vom 25. September 1952 (Stand am 1. Januar 2022)
 
-[^t-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-in Ausführung der Artikel 59 Absatz 4[^ingress-1], 61 Absatz 4[^ingress-2], 116 Absätze 3 und 4, 122[^ingress-3] und 123[^ingress-4] der Bundesverfassung[^ingress-5],[^ingress-6] nach Einsicht in eine Botschaft des Bundesrates vom 23. Oktober 1951[^ingress-7],
+in Ausführung der Artikel 59 Absatz 4, 61 Absatz 4, 116 Absätze 3 und 4, 117 Absatz 1, 122 und 123 der Bundesverfassung (BV)[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 23. Oktober 1951[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: Dieser Bestimmung entspricht Art. 34<sup>ter</sup> Abs. 1 Bst. d der Bundesverfassung vom 29. Mai 1874 (BS **1** 3).
-[^ingress-2]: Dieser Bestimmung entspricht Art. 22<sup>bis</sup> Abs. 6 der Bundesverfassung vom 29. Mai 1874 ([AS 1959 912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933)).
-[^ingress-3]: Dieser Bestimmung entspricht Art. 64 der Bundesverfassung vom 29. Mai 1874 (BS **1** 3).
-[^ingress-4]: Dieser Bestimmung entspricht Art. 64<sup>bis</sup> der Bundesverfassung vom 29. Mai 1874 (BS **1** 3).
-[^ingress-5]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-6]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^ingress-7]: [BBl 1951 III 297](https://fedlex.data.admin.ch/eli/fga/1951/3_297_305_)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Ziff. I 8 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^ingress-3]: [BBl 1951 III 297](https://fedlex.data.admin.ch/eli/fga/1951/3_297_305_)
 
 ## Erster Abschnitt:**** Anwendbarkeit des ATSG
 
@@ -223,7 +219,7 @@ Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. 
 
 Die Kinderzulage beträgt für jedes Kind 8 Prozent des Höchstbetrages der Gesamtentschädigung.
 
-[^13-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^13-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 (AS **200****5** 1429; [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 14
 
@@ -317,26 +313,45 @@ Anspruchsberechtigt ist eine Frau, die:
 
 Der Bundesrat regelt die Anspruchsvoraussetzungen für Frauen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit:
 
-- a. die Voraussetzungen von Absatz 1 Buchstabe a nicht erfüllen;
+- a.[^16b-2] während der neun Monate unmittelbar vor der Niederkunft nicht mindestens fünf Monate lang eine Erwerbstätigkeit ausgeübt haben;
 - b. im Zeitpunkt der Niederkunft nicht Arbeitnehmerinnen oder Selbständigerwerbende sind.
 
 [^16b-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16b-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16c
 
-**Beginn des Anspruchs**
+**Beginn des Anspruchs und Dauer der Ausrichtung der Entschädigung[^16c-1]**
 
 <sup>1</sup> Der Entschädigungsanspruch entsteht am Tag der Niederkunft.
 
-<sup>2</sup> Bei längerem Spitalaufenthalt des neu geborenen Kindes kann die Mutter beantragen, dass die Mutterschaftsentschädigung erst ausgerichtet wird, wenn das Kind nach Hause kommt.
+<sup>2</sup> Die Mutterschaftsentschädigung wird an 98 aufeinanderfolgenden Tagen ab Beginn des Anspruchs ausgerichtet.[^16c-2]
+
+<sup>3</sup>
+
+Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausrichtung um die Dauer der Hospitalisierung, höchstens aber um 56 Tage, wenn:
+
+- a. das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilt; und
+- b. die Mutter nachweist, dass sie im Zeitpunkt der Niederkunft bereits beschlossen hatte, nach Ende des Mutterschaftsurlaubs wieder eine Erwerbstätigkeit aufzunehmen.[^16c-3]
+
+<sup>4</sup> Der Bundesrat regelt den Anspruch auf Verlängerung der Dauer der Ausrichtung für Frauen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit nach Ende des Mutterschaftsurlaubs nicht wieder erwerbstätig sein können.[^16c-4]
+
+[^16c-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16c-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16d
 
 **Ende des Anspruchs**[^16d-1]
 
-Der Anspruch endet am 98. Tag nach seinem Beginn. Er endet vorzeitig, wenn die Mutter ihre Erwerbstätigkeit wieder aufnimmt oder wenn sie stirbt.
+<sup>1</sup> Der Anspruch endet am 98. Tag nach seinem Beginn.
 
-[^16d-1]: Siehe auch SchlB der Änd. vom 3. Okt. 2003 am Schluss dieses Textes.
+<sup>2</sup> Bei Hospitalisierung des Neugeborenen endet der Anspruch mit dem Ende der Verlängerung nach Artikel 16*c* Absatz 3.
+
+<sup>3</sup> Er endet vorzeitig, wenn die Mutter ihre Erwerbstätigkeit wiederaufnimmt oder wenn sie stirbt.
+
+[^16d-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 #### Art. 16e
 
@@ -368,23 +383,25 @@ Die Mutterschaftsentschädigung schliesst den Bezug der folgenden Taggelder aus:
 - b. der Invalidenversicherung;
 - c. der Unfallversicherung;
 - d. der Militärversicherung;
-- e. der Entschädigung nach den Artikeln 9 und 10.
+- e. der Entschädigung nach den Artikeln 9 und 10;
+- f.[^16g-1] der Betreuungsentschädigung nach den Artikeln 16*n*–16*s* für dasselbe Kind.
 
 <sup>2</sup>
 
 Bestand bis zum Anspruchsbeginn auf die Mutterschaftsentschädigung Anspruch auf ein Taggeld nach einem der folgenden Gesetze, so entspricht die Mutterschaftsentschädigung mindestens dem bisher bezogenen Taggeld:
 
-- a. Bundesgesetz vom 19. Juni 1959[^16g-1] über die Invalidenversicherung;
-- b. Bundesgesetz vom 18. März 1994[^16g-2] über die Krankenversicherung;
-- c. Bundesgesetz vom 20. März 1981[^16g-3] über die Unfallversicherung;
-- d. Bundesgesetz vom 19. Juni 1992[^16g-4] über die Militärversicherung;
-- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16g-5].
+- a. Bundesgesetz vom 19. Juni 1959[^16g-2] über die Invalidenversicherung;
+- b. Bundesgesetz vom 18. März 1994[^16g-3] über die Krankenversicherung;
+- c. Bundesgesetz vom 20. März 1981[^16g-4] über die Unfallversicherung;
+- d. Bundesgesetz vom 19. Juni 1992[^16g-5] über die Militärversicherung;
+- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16g-6].
 
-[^16g-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^16g-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^16g-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16g-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^16g-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^16g-1]: Eingefügt durch Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^16g-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^16g-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16g-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^16g-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^16g-6]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 16h
 
@@ -392,11 +409,11 @@ Bestand bis zum Anspruchsbeginn auf die Mutterschaftsentschädigung Anspruch auf
 
 In Ergänzung zu Kapitel IIIa können die Kantone eine höhere oder länger dauernde Mutterschafts- oder eine Adoptionsentschädigung vorsehen und zu deren Finanzierung besondere Beiträge erheben.
 
-## III*b*.**** Die Vaterschaftsentschädigung
+### III*b*.**** Die Vaterschaftsentschädigung
 
-[^lvlIIIb-1]
+[^chap1a-lvlIIIb-1]
 
-[^lvlIIIb-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^chap1a-lvlIIIb-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); BBl **20****19** 4103).
 
 #### Art. 16i
 
@@ -499,6 +516,121 @@ Bestand bis zum Beginn des Anspruchs auf die Vaterschaftsentschädigung Anspruch
 [^16m-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^16m-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
+### III*c*.**** Die Entschädigung für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen
+
+[^chap1a-lvlIIIc-1]
+
+[^chap1a-lvlIIIc-1]: Eingefügt durch Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+
+#### Art. 16n
+
+**Anspruchsberechtigte**
+
+<sup>1</sup>
+
+Anspruchsberechtigt sind Eltern eines minderjährigen Kindes, das wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, die:
+
+- a. die Erwerbstätigkeit für die Betreuung des Kindes unterbrechen; und
+- b.
+
+  im Zeitpunkt der Unterbrechung der Erwerbstätigkeit:
+
+  - 1\. Arbeitnehmende im Sinne von Artikel 10 ATSG[^16n-1] sind,
+  - 2\. Selbstständigerwerbende im Sinne von Artikel 12 ATSG sind, oder
+  - 3\. im Betrieb des Ehemanns oder der Ehefrau mitarbeiten und einen Barlohn beziehen.
+
+<sup>2</sup> Pro Krankheitsfall oder Unfall entsteht nur ein Anspruch.
+
+<sup>3</sup>
+
+Der Bundesrat regelt:
+
+- a den Anspruch von Pflegeeltern;
+- b. die Anspruchsvoraussetzungen für Personen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit die Voraussetzungen nach Absatz 1 Buchstabe b nicht erfüllen.
+
+[^16n-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+
+#### Art. 16o
+
+**Gesundheitlich schwer beeinträchtigtes Kind**
+
+Ein Kind ist gesundheitlich schwer beeinträchtigt, wenn:
+
+- a. eine einschneidende Veränderung seines körperlichen oder psychischen Zustandes eingetreten ist;
+- b. der Verlauf oder der Ausgang dieser Veränderung schwer vorhersehbar ist oder mit einer bleibenden oder zunehmenden Beeinträchtigung oder dem Tod zu rechnen ist;
+- c. ein erhöhter Bedarf an Betreuung durch die Eltern besteht; und
+- d. mindestens ein Elternteil die Erwerbstätigkeit für die Betreuung des Kindes unterbrechen muss.
+
+#### Art. 16p
+
+**Rahmenfrist, Beginn und Ende des Anspruchs**
+
+<sup>1</sup> Für den Bezug der Betreuungsentschädigung gilt eine Rahmenfrist von 18 Monaten.
+
+<sup>2</sup> Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+
+<sup>3</sup> Der Anspruch entsteht, wenn die Voraussetzungen nach Artikel 16*n* erfüllt sind.
+
+<sup>4</sup>
+
+Er endet:
+
+- a. nach Ablauf der Rahmenfrist; oder
+- b. nach Ausschöpfung der Taggelder.
+
+<sup>5</sup> Er endet vorzeitig, wenn die Voraussetzungen nicht mehr erfüllt sind; er endet jedoch nicht vorzeitig, wenn das Kind während der Rahmenfrist volljährig wird.
+
+#### Art. 16q
+
+**Form und Anzahl der Taggelder**
+
+<sup>1</sup> Die Betreuungsentschädigung wird als Taggeld ausgerichtet.
+
+<sup>2</sup> Innerhalb der Rahmenfrist besteht Anspruch auf höchstens 98 Taggelder.
+
+<sup>3</sup> Pro fünf Taggelder werden zusätzlich zwei Taggelder ausgerichtet.
+
+<sup>4</sup> Sind beide Eltern erwerbstätig, so hat jeder Elternteil Anspruch auf höchstens die Hälfte der Taggelder. Sie können eine abweichende Aufteilung wählen.
+
+#### Art. 16r
+
+**Höhe und Bemessung der Betreuungsentschädigung**
+
+<sup>1</sup> Das Taggeld beträgt 80 Prozent des durchschnittlichen Erwerbseinkommens, das vor Beginn des Anspruchs auf die Betreuungsentschädigung erzielt wurde.
+
+<sup>2</sup> Für die Ermittlung des Einkommens ist Artikel 11 Absatz 1 sinngemäss anwendbar.
+
+<sup>3</sup> Für den Höchstbetrag gilt Artikel 16*f* sinngemäss.
+
+#### Art. 16s
+
+**Verhältnis zu Leistungen anderer Sozialversicherungen**
+
+<sup>1</sup>
+
+Der Bezug der Betreuungsentschädigung geht folgenden Taggeldern oder Sozialversicherungsleistungen vor:
+
+- a. der Arbeitslosenversicherung;
+- b. der Invalidenversicherung;
+- c. der Unfallversicherung;
+- d. der Militärversicherung.
+
+<sup>2</sup>
+
+Das Taggeld entspricht mindestens dem bisher bezogenen Taggeld, wenn bis zum Beginn des Anspruchs auf die Betreuungsentschädigung Anspruch auf ein Taggeld nach Artikel 16*b* oder nach einem der folgenden Gesetze bestand:
+
+- a. Bundesgesetz vom 19. Juni 1959[^16s-1] über die Invalidenversicherung;
+- b. Bundesgesetz vom 18. März 1994[^16s-2] über die Krankenversicherung;
+- c. Bundesgesetz vom 20. März 1981[^16s-3] über die Unfallversicherung;
+- d. Bundesgesetz vom 19. Juni 1992[^16s-4] über die Militärversicherung;
+- e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16s-5].
+
+[^16s-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^16s-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16s-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^16s-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^16s-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
 ### IV. Verschiedene Bestimmungen
 
 #### Art. 17
@@ -544,7 +676,7 @@ Die Entschädigung wird den Leistungsberechtigten ausbezahlt; es gelten jedoch f
 
 <sup>3</sup> Die Entschädigung wird nur ausbezahlt, wenn sie vorschriftsgemäss geltend gemacht wird und der Nachweis erbracht wird, dass die Leistungsvoraussetzungen erfüllt sind.
 
-[^19-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^19-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); BBl **2****002** 7522, **2003** 1112 2923).
 [^19-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 19a
@@ -579,15 +711,16 @@ In Abweichung von Artikel 24 ATSG[^20-2] erlischt der Anspruch auf nicht bezogen
 
 - a. für Dienstleistende fünf Jahre nach Ende des Dienstes, der den Leistungsanspruch ausgelöst hat;
 - b. bei Mutterschaft fünf Jahre nach Ablauf der Entschädigungsdauer nach Artikel 16*d*;
-- c. bei Vaterschaft fünf Jahre nach Ablauf der Rahmenfrist nach Artikel 16*j*.[^20-3]
+- c. bei Vaterschaft fünf Jahre nach Ablauf der Rahmenfrist nach Artikel 16*j*;
+- d. für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen, fünf Jahre nach dem letzten Tag des Betreuungsurlaubs.[^20-3]
 
 <sup>2</sup> Forderungen nach diesem Gesetz, dem AHVG[^20-4] und dem Bundesgesetz vom 20. Juni 1952[^20-5] über die Familienzulagen in der Landwirtschaft[^20-6] können mit fälligen Entschädigungen verrechnet werden.
 
-[^20-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^20-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); BBl **200****2** 7522, **2003** 1112 2923).
 [^20-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^20-3]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^20-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-5]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^20-5]: SR **836****.****1**
 [^20-6]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
 #### Art. 20a
@@ -618,18 +751,19 @@ Die Kantone haften für Schäden, die der Erwerbsersatzordnung entstanden sind o
 
 <sup>1</sup> Die Durchführung der Erwerbsersatzordnung erfolgt durch die Organe der Alters- und Hinterlassenenversicherung unter Mitwirkung der Rechnungsführer der militärischen Stäbe und Einheiten. Für den Zivilschutz erfolgt die Durchführung unter Mitwirkung der Rechnungsführer der Schutzorganisationen und für den Zivildienst unter Mitwirkung des Bundesamtes für Zivildienst[^21-1] und der Einsatzbetriebe.[^21-2]
 
-<sup>2</sup> Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten sinngemäss die Vorschriften des AHVG[^21-3] über die Arbeitgeber, die Ausgleichskassen, den Abrechnungs- und Zahlungsverkehr, die Buchführung, die Kassenrevisionen und Arbeitgeberkontrollen, die Zentrale Ausgleichsstelle und die Versichertennummer. Die Haftung für Schäden der AHV-Organe nach Artikel 49 AHVG richtet sich nach Artikel 78 ATSG[^21-4] und sinngemäss nach den Artikeln 52, 70 und 71*a* AHVG.[^21-5]
+<sup>2</sup> Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten sinngemäss die Vorschriften des AHVG[^21-3] über die Arbeitgeber, die Ausgleichskassen, den Abrechnungs- und Zahlungsverkehr, die Buchführung, die Kassenrevisionen und Arbeitgeberkontrollen, die Zentrale Ausgleichsstelle und die AHV-Nummer[^21-4]. Die Haftung für Schäden der AHV-Organe nach Artikel 49 AHVG richtet sich nach Artikel 78 ATSG[^21-5] und sinngemäss nach den Artikeln 52, 70 und 71*a* AHVG.[^21-6]
 
-<sup>3</sup> In Abweichung von Artikel 78 ATSG untersteht die Haftung der Rechnungsführer der militärischen Stäbe und Einheiten dem Militärgesetz vom 3. Februar 1995[^21-6]; die Haftung der Rechnungsführer der Schutzorganisation untersteht dem Zivilschutzgesetz vom 17. Juni 1994[^21-7].[^21-8]
+<sup>3</sup> In Abweichung von Artikel 78 ATSG untersteht die Haftung der Rechnungsführer der militärischen Stäbe und Einheiten dem Militärgesetz vom 3. Februar 1995[^21-7]; die Haftung der Rechnungsführer der Schutzorganisation untersteht dem Zivilschutzgesetz vom 17. Juni 1994[^21-8].[^21-9]
 
 [^21-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst.
 [^21-2]: Zweiter Satz eingefügt durch Art. 93 des BG vom 23. März 1962 über den Zivilschutz ([AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [BBl 1961 II 693](https://fedlex.data.admin.ch/eli/fga/1961/2_693_693_1417)). Fassung gemäss Ziff. II 2 des BG vom 3. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^21-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^21-5]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^21-6]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^21-7]: [[AS 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 14. [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)Art. 76 Ziff. 1]. Siehe heute: das BG vom 4. Okt. 2002 über den Bevölkerungsschutz und den Zivilschutz ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
-[^21-8]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
+[^21-4]: Ausdruck gemäss Anhang Ziff. 34 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^21-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21-6]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^21-7]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^21-8]: [[AS 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 9, [1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 14. [AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)Art. 76 Ziff. 1]. Siehe heute: das BG vom 4. Okt. 2002 über den Bevölkerungsschutz und den Zivilschutz ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^21-9]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 22
 
@@ -653,7 +787,7 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 [^23-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^23-5]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^23-6]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [BBl 1985 I 797](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
-[^23-7]: Satz aufgehoben durch Ziff. I des BG vom 18. Dez. 1998, mit Wirkung seit 1. Juli 1999 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **1998** 3418).
+[^23-7]: Satz aufgehoben durch Ziff. I des BG vom 18. Dez. 1998, mit Wirkung seit 1. Juli 1999 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **19****98** 3418).
 
 ## Dritter Abschnitt: Rechtspflege und Strafbestimmungen
 
@@ -661,7 +795,7 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 
 **Besonderheiten der Rechtspflege**[^24-1]
 
-<sup>1</sup> Über Beschwerden gegen Verfügungen und Einsprachenentscheide kantonaler Ausgleichskassen entscheidet in Abweichung von Artikel 58 Absatz 1 ATSG[^24-2] das Versicherungsgericht am Ort der Ausgleichskasse.
+<sup>1</sup> Über Beschwerden gegen Verfügungen und Einspracheentscheide kantonaler Ausgleichskassen entscheidet in Abweichung von Artikel 58 Absatz 1 ATSG[^24-2] das Versicherungsgericht am Ort der Ausgleichskasse.
 
 <sup>2</sup> Über Beschwerden von Personen im Ausland entscheidet in Abweichung von Artikel 58 Absatz 2 ATSG das Bundesverwaltungsgericht. Der Bundesrat kann vorsehen, dass diese Zuständigkeit dem Versicherungsgericht des Kantons zugewiesen wird, in welchem der Arbeitgeber des Versicherten seinen Wohnsitz oder Sitz hat. Artikel 85<sup>bis</sup> Absätze 2 und 3 AHVG[^24-3] gilt sinngemäss.[^24-4]
 
@@ -690,7 +824,7 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 - b. Mittel des Ausgleichsfonds der Erwerbsersatzordnung.
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
-[^26-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-2]: SR **8****31.10**
 
 #### Art. 27
 
