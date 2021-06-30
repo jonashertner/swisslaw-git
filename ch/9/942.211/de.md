@@ -4,11 +4,11 @@ title: "Verordnung vom 11. Dezember 1978 über die Bekanntgabe von Preisen (Prei
 short: PBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: de
-version: 2021-04-27
+version: 2021-07-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210427/de/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210427-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/de"
 
 (Preisbekanntgabeverordnung, PBV)**[^t-1]**
 
-vom 11. Dezember 1978 (Stand am 27. April 2021)
+vom 11. Dezember 1978 (Stand am 1. Juli 2021)
 
 [^t-1]: Abkürzung gemäss Ziff. I der V vom 14. Dez. 1987, in Kraft seit 1. März 1988 ([AS 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -364,13 +364,21 @@ Neben dem tatsächlich zu bezahlenden Preis ist mindestens der eigentliche Flugp
 
 <sup>1</sup> Aus der Preisbekanntgabe muss deutlich hervorgehen, auf welche Ware und Verkaufseinheit oder auf welche Art, Einheit und Verrechnungssätze von Dienstleistungen sich der Preis bezieht.
 
-<sup>2</sup> Die Waren und Dienstleistungen sind nach wesentlichen Kriterien wie Marke, Typ, Sorte, Qualität und Eigenschaften gut lesbar zu umschreiben.[^14-1]
+<sup>2</sup> Die Waren und Dienstleistungen sind nach wesentlichen Kriterien wie Marke, Typ, Sorte, Qualität und Eigenschaften gut lesbar oder gut hörbar zu umschreiben.[^14-1]
+
+<sup>2bis</sup>
+
+Die wesentlichen Kriterien sind im Werbemittel bekanntzugeben. Sie können auch mittels Referenz auf eine digitale Quelle bekanntgegeben werden, wenn:
+
+- a. die Referenz im Werbemittel gut lesbar oder gut hörbar ist; und
+- b. die wesentlichen Kriterien in der digitalen Quelle unmittelbar zugänglich, leicht sichtbar und gut lesbar sind.[^14-2]
 
 <sup>3</sup> Die Preisangabe muss sich auf die allenfalls abgebildete oder mit Worten bezeichnete Ware beziehen.
 
 <sup>4</sup> Weitergehende Bestimmungen über die Spezifizierung in anderen Erlassen bleiben vorbehalten.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. April 2012 ([AS 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
+[^14-2]: Eingefügt durch Ziff. I der V vom 19. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
 
 #### Art. 15
 

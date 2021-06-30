@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 dicembre 1978 sull'indicazione dei prezzi (OIP)"
 short: OIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: it
-version: 2021-04-27
+version: 2021-07-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210427/it/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210427-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/it"
 
 (OIP)**[^t-1]**
 
-dell’11 dicembre 1978 (Stato 27 aprile 2021) (Stato 27 aprile 2021)
+dell’11 dicembre 1978 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1987, in vigore dal 1° mar. 1988 ([RU 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -364,13 +364,21 @@ Oltre al prezzo pagabile effettivamente, devono essere indicati almeno la tariff
 
 <sup>1</sup> Le indicazioni di prezzi devono evidenziare chiaramente la merce e l’unità di vendita o il genere e l’unità delle prestazioni di servizi e le tariffe cui il prezzo si riferisce.
 
-<sup>2</sup> Le merci e le prestazioni di servizi devono essere designate secondo criteri essenziali quali la marca, il tipo, la qualità e le caratteristiche.[^14-1]
+<sup>2</sup> Le merci e le prestazioni di servizi devono essere designate in modo agevolmente leggibile o distintamente udibile secondo criteri essenziali quali la marca, il tipo, la qualità e le caratteristiche.[^14-1]
+
+<sup>2bis</sup>
+
+I criteri essenziali devono essere indicati nel materiale pubblicitario. Possono anche essere indicati tramite il riferimento a una fonte digitale se:
+
+- a. il riferimento nel materiale pubblicitario è agevolmente leggibile o distintamente udibile; e
+- b. i criteri essenziali contenuti nella fonte digitale sono immediatamente consultabili, ben visibili e agevolmente leggibili.[^14-2]
 
 <sup>3</sup> L’indicazione dei prezzi deve corrispondere all’illustrazione o al testo cui si riferisce la merce designata.
 
 <sup>4</sup> Sono riservate prescrizioni più severe applicantisi alla specificazione recata in altri atti legislativi.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
+[^14-2]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
 
 #### Art. 15
 

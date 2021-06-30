@@ -4,11 +4,11 @@ title: "Ordonnance du 11 décembre 1978 sur l'indication des prix (OIP)"
 short: OIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081"
 language: fr
-version: 2021-04-27
+version: 2021-07-01
 adopted: 1978-12-11
 in_force: 1979-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210427/fr/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210427-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/2081_2081_2081/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-2081_2081_2081-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1978/2081_2081_2081/20210427/fr"
 
 (OIP)**[^t-1]**
 
-du 11 décembre 1978 (Etat le 27 avril 2021)
+du 11 décembre 1978 (Etat le 1<sup>er</sup> juillet 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1987, en vigueur depuis le 1<sup>er</sup> mars 1988 ([RO 1988 241](https://fedlex.data.admin.ch/eli/oc/1988/241_241_241)).
 
@@ -364,13 +364,21 @@ Outre le prix à payer effectivement, il est nécessaire de préciser au moins l
 
 <sup>1</sup> Les indications des prix doivent mettre clairement en évidence la marchandise et l’unité de vente ou le genre et l’unité des prestations de services et les tarifs auxquels le prix se rapporte.
 
-<sup>2</sup> Les marchandises et les prestations de services doivent être désignées de façon aisément lisible selon leurs critères essentiels tels que la marque, le type, la sorte, la qualité et les caractéristiques.[^14-1]
+<sup>2</sup> Les marchandises et les prestations de services doivent être désignées de façon aisément lisible ou clairement audible selon leurs critères essentiels tels que la marque, le type, la sorte, la qualité et les caractéristiques.[^14-1]
+
+<sup>2bis</sup>
+
+Les critères essentiels doivent figurer dans le moyen publicitaire. Ils peuvent également être indiqués par un renvoi à une source numérique si:
+
+- a. le renvoi dans le moyen publicitaire est aisément lisible ou clairement audible, et que
+- b. les critères essentiels sont directement accessibles, bien visibles et aisément lisibles dans la source numérique.[^14-2]
 
 <sup>3</sup> L’indication des prix doit correspondre à l’illustration ou au texte se rapportant à la marchandise désignée.
 
 <sup>4</sup> Les prescriptions plus sévères s’appliquant à la spécification, que contiennent d’autres actes législatifs sont réservées.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4959](https://fedlex.data.admin.ch/eli/oc/2011/721)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
+[^14-2]: Introduit par le ch. I de l’O du 19 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 340](https://fedlex.data.admin.ch/eli/oc/2021/340)).
 
 #### Art. 15
 
