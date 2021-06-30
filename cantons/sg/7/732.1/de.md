@@ -4,13 +4,13 @@ number: "732.1"
 title: Strassengesetz
 short: StrG
 language: de
-version: 2013-01-01
-corrected: 2014-02-10
-version_adopted: 2014-01-28
+version: 2021-07-01
+valid_until: 2025-12-31
+version_adopted: 2021-04-13
 adopted: 1988-06-12
 in_force: 1989-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/732.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1446/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3227/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1446/pdf_file"
 
 (StrG)
 
-vom 12.06.1988 (Stand 01.01.2013)
+vom 12.06.1988 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -176,11 +176,12 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Der Kantonsrat erlässt den Kantonsstrassenplan.[^13-1]
 
-<sup>2</sup> Für Erlass und Änderung des Gemeindestrassenplans wird das Planverfahren nach diesem Gesetz[^13-2] sachgemäss durchgeführt. Er bedarf der Genehmigung des zuständigen Departementes.[^13-3]
+<sup>2</sup> Für Erlass und Änderung des Gemeindestrassenplans wird das Planverfahren nach diesem Gesetz[^13-2] sachgemäss durchgeführt. Er bedarf der Genehmigung der zuständigen Stelle des Kantons.
 
-[^13-1]: Siehe GRB über den Staatsstrassenplan, sGS [732.15](https://www.gesetzessammlung.sg.ch/data/732.15/de).
+<sup>3</sup> Die zuständige Stelle des Kantons prüft den Gemeindestrassenplan auf Rechtmässigkeit sowie auf Übereinstimmung mit der kantonalen Richtplanung und der Sachplanung des Bundes.
+
+[^13-1]: Siehe KRB über den Kantonsstrassenplan, sGS [732.15](https://www.gesetzessammlung.sg.ch/data/732.15/de).
 [^13-2]: Art. [39](https://www.gesetzessammlung.sg.ch/data/732.1/de/art39.) ff.
-[^13-3]: Baudepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 14
 
@@ -208,7 +209,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Die zuständige Gemeindebehörde hat die Aufsicht über die Gemeindestrassen.
 
-[^16-1]: Baudepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^16-1]: Bau- und Umweltdepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 [^16-2]: Tiefbau- und Strassenverwaltung, Art. [1](https://www.gesetzessammlung.sg.ch/data/732.11/de/art1.) StrV, sGS [732.11](https://www.gesetzessammlung.sg.ch/data/732.11/de).
 
 ## II. Strassenbenutzung
@@ -397,6 +398,14 @@ als Gesetz:[^ingress-5]
 - f) die anerkannten Grundsätze eines umwelt- und siedlungsgerechten Strassenbaus;
 - g) sparsamer Verbrauch des Bodens.
 
+#### Art. 33bis
+
+**Anhörung und Mitwirkung**
+
+<sup>1</sup> Beim Bau von Strassen werden nach- und nebengeordnete Planungsträger rechtzeitig angehört.
+
+<sup>2</sup> Die für den Planerlass zuständige Behörde sorgt für eine geeignete Mitwirkung der Bevölkerung.
+
 #### Art. 34
 
 **Kantonsstrassenbau a) Zuständigkeit**
@@ -449,6 +458,14 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Für Erlass und Änderung des Gemeindestrassenplans wird das Planverfahren sachgemäss durchgeführt.
 
+#### Art. 39bis
+
+**Sondernutzungsplan**
+
+<sup>1</sup> Politische Gemeinde und Kanton können anstelle des Planverfahrens nach diesem Erlass einen Sondernutzungsplan nach den Bestimmungen des Planungs- und Baugesetzes vom 5. Juli 2016[^39bis-1] erlassen. Das Sondernutzungsplanverfahren kann eingeleitet werden, wenn verschiedene Planungszwecke bestehen.
+
+[^39bis-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
+
 #### Art. 40
 
 **Projekt**
@@ -456,7 +473,7 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Das Projekt enthält insbesondere:
 
 - a) Situationsplan;
-- b) Landbedarfslinien über dauernde und vorübergehende Beanspruchung des Bodens;
+- b) Landbedarf für dauernde und vorübergehende Beanspruchung des Bodens;
 - c) allfällige Baulinien;
 - d) Einteilung von Gemeindestrassen.
 
@@ -464,7 +481,7 @@ als Gesetz:[^ingress-5]
 
 **Auflage**
 
-<sup>1</sup> Das Projekt wird in der politischen Gemeinde unter Eröffnung einer Einsprachefrist von dreissig Tagen öffentlich aufgelegt.
+<sup>1</sup> Das Projekt wird in der politischen Gemeinde unter Eröffnung einer Einsprachefrist von dreissig Tagen öffentlich aufgelegt. Die öffentliche Auflage wird amtlich bekannt gemacht. Die amtliche Bekanntmachung erfolgt auch im kantonalen Amtsblatt.
 
 <sup>2</sup> Wird kein Kostenverlegungsverfahren durchgeführt, so kann bei kleinen und unbedeutenden Projekten auf die öffentliche Auflage verzichtet werden, insbesondere bei:
 
@@ -511,7 +528,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Einsprache gegen den Beitragsplan ist gesondert zu erheben. Sie richtet sich nach den Vorschriften über das Kostenverlegungsverfahren.
 
-<sup>3</sup> Über Einsprachen bei Kantonsstrassen entscheidet die Regierung, bei Gemeindestrassen die zuständige Gemeindebehörde.
+<sup>3</sup> Über Einsprachen bei Kantonsstrassen entscheidet das zuständige Departement, bei Gemeindestrassen die zuständige Gemeindebehörde.
 
 #### Art. 46
 
@@ -763,7 +780,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Mittel des Strassenverkehrs sind:
 
-- 1\. der Reinertrag der Strassenverkehrsabgaben;
+- 1\. der Gesamtertrag der Strassenverkehrssteuern;
 - 2\. der Anteil des Kantons am Reinertrag der leistungsabhängigen Schwerverkehrsabgabe;
 - 3\. weitere Beiträge des Bundes;
 - 4\. werkgebundene Beiträge Dritter.
@@ -953,7 +970,7 @@ als Gesetz:[^ingress-5]
 - c) die Entsorgung des Meteorwassers von Kantonsstrassen zweiter Klasse innerhalb der Bauzonen;
 - d) die allgemeinen Auswirkungen des Strassenverkehrs innerhalb der Bauzonen.
 
-<sup>2</sup> Die Höhe der Kantonsbeiträge liegt zwischen acht und zwölf Prozent des Reinertrags der Strassenverkehrsabgaben.
+<sup>2</sup> Die Höhe der Kantonsbeiträge liegt zwischen acht und zwölf Prozent des Gesamtertrags der Strassenverkehrssteuern.
 
 <sup>3</sup> Der Kantonsrat beschliesst über die Höhe mit dem Strassenbauprogramm.
 
@@ -999,7 +1016,7 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Der Kanton leistet den politischen Gemeinden werkgebundene Beiträge an die Kosten:
 
 - a) der nach der Bundesgesetzgebung über den Umweltschutz an Strassen oder ersatzweise an Gebäuden erforderlichen Umweltschutzmassnahmen;
-- b) von durch den motorisierten Strassenverkehr bedingten Massnahmen zur Erhaltung, Schonung oder Wiederherstellung von Schutzgegenständen nach Art. 98 des Baugesetzes.[^94-1]
+- b) von durch den motorisierten Strassenverkehr bedingten Massnahmen zur Erhaltung, Schonung oder Wiederherstellung von Schutzgegenständen nach Art. 115 des Planungs- und Baugesetzes vom 5. Juli 2016[^94-1].
 
 <sup>2</sup> Die Vorschriften des Bundes werden sachgemäss angewendet.
 
@@ -1083,9 +1100,9 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Strassenabstände, Sichtzonen, Zutrittsverbotslinien und Immissionslinien werden festgelegt durch:
 
 - a) Verordnung der Regierung für Kantonsstrassen;
-- b) Reglement der politischen Gemeinde für Gemeindestrassen und für grössere Abstände von Kantonsstrassen;
-- c) Reglement der politischen Gemeinde für Kantonsstrassen, wenn grössere Abstände als nach Art. 104 Bst. a dieses Gesetzes festgelegt werden und keine besonderen Vorschriften des Kantons gelten;
-- d) Überbauungs-, Gestaltungs- und Strassenprojektpläne;
+- b) Reglement der politischen Gemeinde, das Bestimmungen über die Erhöhung der Abstände für Gemeindestrassen und Kantonsstrassen enthalten kann;
+- c) …
+- d) Sondernutzungspläne und Strassenprojektpläne;
 - e) Verfügung.
 
 <sup>2</sup> Erfolgt die Festlegung durch Verfügung, so kann sie die zuständige Behörde als öffentlich-rechtliche Eigentumsbeschränkung zur Anmerkung im Grundbuch anmelden.
@@ -1094,19 +1111,24 @@ als Gesetz:[^ingress-5]
 
 **b) Baulinien**
 
-<sup>1</sup> Erlass und Rechtswirkungen der Baulinien richten sich nach dem Baugesetz.
+<sup>1</sup> Erlass und Rechtswirkungen der Baulinien richten sich nach dem Planungs- und Baugesetz vom 5. Juli 2016[^102bis-1].
 
-<sup>2</sup> Die zuständige Stelle des Kantons erlässt Baulinienpläne für Kantonsstrassen. Die Vorschriften des Baugesetzes über den Überbauungsplan werden sachgemäss angewendet.
+<sup>2</sup> Die zuständige Stelle des Kantons erlässt Baulinienpläne für Kantonsstrassen. Die Vorschriften des Planungs- und Baugesetzes vom 5. Juli 2016[^102bis-2] über den Sondernutzungsplan werden sachgemäss angewendet.
 
 <sup>3</sup> Für An- und Nebenbauten sowie Anlagen innerhalb der Baulinien kann die zuständige Behörde Ausnahmen bewilligen, wenn keine öffentlichen Interessen entgegenstehen. Sie kann den Bewilligungsnehmer verpflichten, An- und Nebenbauten sowie Anlagen auf Verlangen entschädigungslos zu entfernen, und meldet in diesem Fall die Bewilligung als öffentlich-rechtliche Eigentumsbeschränkung zur Anmerkung im Grundbuch an.
+
+[^102bis-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
+[^102bis-2]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 #### Art. 103
 
 **Planungszone**
 
-<sup>1</sup> Erlass und Rechtswirkungen der Planungszone richten sich nach dem Baugesetz.
+<sup>1</sup> Erlass und Rechtswirkungen der Planungszone richten sich nach dem Planungs- und Baugesetz vom 5. Juli 2016[^103-1].
 
 <sup>2</sup> Die zuständige Stelle des Kantons erlässt Planungszonen für Kantonsstrassen.
+
+[^103-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 #### Art. 104
 
@@ -1124,9 +1146,9 @@ als Gesetz:[^ingress-5]
 
 **b) Bestandes- und Erweiterungsgarantie**
 
-<sup>1</sup> Auf Umbauten, Zweckänderungen und Erweiterungen von Bauten und Anlagen, die den gesetzlichen Strassenabstand nicht einhalten, werden die Bestimmungen des Baugesetzes über die Bestandes- und Erweiterungsgarantie sachgemäss angewendet.[^105-1]
+<sup>1</sup> Auf Umbauten, Zweckänderungen und Erweiterungen von Bauten und Anlagen, die den gesetzlichen Strassenabstand nicht einhalten, werden die Bestimmungen des Planungs- und Baugesetzes vom 5. Juli 2016[^105-1] über die Bestandesgarantie sachgemäss angewendet.
 
-[^105-1]: Art. [77<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/731.1/de/art77bis.) BauG, sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
+[^105-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 #### Art. 106
 
@@ -1162,7 +1184,7 @@ als Gesetz:[^ingress-5]
 <sup>2</sup> Die zuständige Behörde kann Ausnahmen von Strassenabstandsvorschriften bewilligen, wenn:
 
 - a) weder Verkehrssicherheit noch Strasse beeinträchtigt werden;
-- b) Schutzgegenstände nach Art. 98 des Baugesetzes[^108-1] zu erhalten sind;
+- b) Schutzobjekte nach Art. 115 des Planungs- und Baugesetzes vom 5. Juli 2016[^108-1] zu erhalten sind;
 - c) reduzierte Abstände für Lärmschutzanlagen der Einhaltung der Lärmschutzgesetzgebung dienen.
 
 [^108-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
@@ -1277,7 +1299,7 @@ als Gesetz:[^ingress-5]
 
 <sup>3</sup> Der vorläufige Strassenplan wird angepasst, wenn wesentliche Änderungen eintreten.
 
-[^122-1]: Baudepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^122-1]: Bau- und Umweltdepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 123
 
@@ -1314,6 +1336,15 @@ als Gesetz:[^ingress-5]
 **g) hängige Verfahren**
 
 <sup>1</sup> Vor Vollzugsbeginn dieses Gesetzes eingeleitete Verfahren werden nach bisherigem Recht fortgesetzt.
+
+#### Art. 127bis
+
+**Übergangsbestimmung des Nachtrags zum Wasserbaugesetz vom 13. April 2021**
+
+<sup>1</sup> Auf Strassenbauprojekte, die bei Vollzugsbeginn des Nachtrags zum Wasserbaugesetz vom 13. April 2021[^127bis-1] nach Art. 41 des Strassengesetzes vom 12. Juni 1988[^127bis-2] bereits öffentlich aufgelegen sind, werden die Verfahrensvorschriften des bisherigen Rechts angewendet.
+
+[^127bis-1]: nGS 2021-052.
+[^127bis-2]: sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
 
 #### Art. 128
 
