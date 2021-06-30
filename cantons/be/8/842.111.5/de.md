@@ -4,13 +4,13 @@ number: "842.111.5"
 title: Verordnung über die Ausnahmen von der Zulassungseinschränkung für Leistungserbringerinnen und Leistungserbringer zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 short: ZulaV
 language: de
-version: 2019-07-01
-valid_until: 2021-06-30
-version_adopted: 2019-05-15
+version: 2021-07-01
+valid_until: 2021-07-31
+version_adopted: 2021-05-19
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/842.111.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1665/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1665/pdf_file"
 
 (ZulaV)
 
-vom 29.01.2014 (Stand 01.07.2019)
+vom 29.01.2014 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -75,7 +75,7 @@ beschliesst:
 
 **Inkrafttreten, Befristung, ausserordentliche Veröffentlichung**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Februar 2014 in Kraft und gilt bis am 30. Juni 2021.
+<sup>1</sup> Diese Verordnung tritt am 1. Februar 2014 in Kraft und gilt bis am 30. Juni 2023.
 
 <sup>2</sup> Sie ist in Anwendung der Artikel 7 und 8 des Publikationsgesetzes vom 18. Januar 1993 (PuG)[^6-1] amtlich zu veröffentlichen (ausserordentliche Veröffentlichung).
 

@@ -4,13 +4,13 @@ number: "842.111.5"
 title: Ordonnance sur les exceptions à la limitation de l’admission des fournisseurs de prestations à pratiquer à la charge de l’assurance-maladie obligatoire
 short: OEA
 language: fr
-version: 2019-07-01
-valid_until: 2021-06-30
-version_adopted: 2019-05-15
+version: 2021-07-01
+valid_until: 2021-07-31
+version_adopted: 2021-05-19
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/842.111.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1665/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2293/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1665/pdf_file"
 
 (OEA)
 
-du 29.01.2014 (état au 01.07.2019)
+du 29.01.2014 (état au 01.07.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -75,7 +75,7 @@ arrête:
 
 **Entrée en vigueur, validité, publication extraordinaire**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2014; sa validité est limitée au 30 juin 2021.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2014; sa validité est limitée au 30 juin 2023.
 
 <sup>2</sup> Elle est publiée en application des articles 7 et 8 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^6-1] (publication extraordinaire).
 
