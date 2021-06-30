@@ -4,13 +4,13 @@ number: "842.13"
 title: Verordnung über die Zulassung von Ärztinnen und Ärzten zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 short: Zulassungsverordnung
 language: de
-version: 2019-07-01
-valid_until: 2021-06-30
-version_adopted: 2019-05-14
+version: 2021-07-01
+valid_until: 2023-06-30
+version_adopted: 2021-06-22
 adopted: 2025-12-02
 in_force: 2026-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/842.13"
-pdf: "https://bgs.zg.ch/api/de/versions/1982/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2247/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1982/pdf_file"
 
 (Zulassungsverordnung)
 
-Vom 7. März 2017 (Stand 1. Juli 2019)
+Vom 7. März 2017 (Stand 1. Juli 2021)
 
 Der Regierungsrat des Kantons Zug,
 
