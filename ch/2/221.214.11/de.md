@@ -4,11 +4,11 @@ title: Verordnung vom 6. November 2002 zum Konsumkreditgesetz (VKKG)
 short: VKKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/594"
 language: de
-version: 2019-04-01
+version: 2021-07-01
 adopted: 2002-11-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/594/20190401/de/xml/fedlex-data-admin-ch-eli-cc-2002-594-20190401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/594/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2002-594-20210701-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20190401/de"
 
 (VKKG)
 
-vom 6. November 2002 (Stand am 1. April 2019)
+vom 6. November 2002 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 14, 23 Absatz 3 und 40 Absatz 3 des Bundesgesetzes vom 23. März 2001[^ingress-1] über den Konsumkredit (KKG),
+gestützt auf die Artikel 14, 23 Absatz 3 und 40 Absatz 3 des Bundesgesetzes vom 23. März 2001[^ingress-1] über den Konsumkredit (KKG) und auf die Artikel 8 Absätze 1 und 4 sowie 47 Absatz 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## 1. Abschnitt: Höchstzinssatz
 
@@ -33,14 +35,20 @@ verordnet:
 
 [^1-1]
 
-<sup>1</sup> Der Höchstwert für den Zinssatz nach Artikel 9 Absatz 2 Buchstabe b KKG (Höchstzinssatz) setzt sich zusammen aus dem von der Nationalbank ermittelten Dreimonatslibor und einem Zuschlag von 10 Prozentpunkten; dabei wird der so ermittelte Wert gemäss den kaufmännischen Rundungsregeln auf die nächstliegende ganze Zahl auf- oder abgerundet. Der Höchstzinssatz beträgt mindestens 10 Prozent.
+<sup>1</sup>
 
-<sup>2</sup> Für Überziehungskredite auf laufendem Konto und Kredit- und Kundenkarten mit Kreditoption beträgt der Zuschlag auf den Dreimonatslibor 12 Prozentpunkte. Der Höchstzinssatz beträgt für diese Fälle mindestens 12 Prozent.
+Der Höchstwert für den Zinssatz nach Artikel 9 Absatz 2 Buchstabe b KKG (Höchstzinssatz) setzt sich zusammen aus:
 
-<sup>3</sup> Das Eidgenössische Justiz- und Polizeidepartement legt den Höchstzinssatz jährlich fest.[^1-2]
+- a. dem über 3 Monate aufgezinsten Saron (SAR3MC); und
+- b. einem Zuschlag von 10 Prozentpunkten.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 273](https://fedlex.data.admin.ch/eli/oc/2016/37)).
-[^1-2]: Der Höchstzinssatz beträgt vom 1. Jan. 2019 bis zum 31. Dez. 2019 für Barkredite, Verträge zur Finanzierung des Erwerbs von Waren oder Dienstleistungen und Leasingverträge 10 Prozent sowie für Überziehungskredite auf laufendem Konto und Kredit- und Kundenkarten mit Kreditoption 12 Prozent (Art. 1 der V des EJPD vom 7. Nov. 2018 über den Höchstzinssatz für Konsumkredite; [AS 2018 4581](https://fedlex.data.admin.ch/eli/oc/2018/720)).
+<sup>2</sup> Der nach Absatz 1 ermittelte Wert wird gemäss den kaufmännischen Rundungsregeln auf die nächstliegende ganze Zahl auf- oder abgerundet. Der Höchstzinssatz beträgt mindestens 10 Prozent.
+
+<sup>3</sup> Für Überziehungskredite auf laufendem Konto und Kredit- und Kundenkarten mit Kreditoption beträgt der Zuschlag auf den SAR3MC 12 Prozentpunkte. Der Höchstzinssatz beträgt für diese Fälle mindestens 12 Prozent.
+
+<sup>4</sup> Das Eidgenössische Justiz- und Polizeidepartement überprüft den Höchstzinssatz mindestens einmal jährlich und legt ihn bei Bedarf neu fest.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## 2. Abschnitt: Informationsstelle für Konsumkredit
 
@@ -67,6 +75,27 @@ verordnet:
 <sup>4</sup> Die Informationsstelle ist verantwortlich für das Informationssystem. Sie führt eine Liste der zum Abrufverfahren zugelassenen Kreditgeberinnen und Schwarmkredit-Vermittlerinnen und hält sie auf dem neusten Stand. Die Liste ist allgemein zugänglich.
 
 [^3-1]: Fassung gemäss Ziff. II 2 der V vom 30. Nov. 2018, in Kraft seit 1. April 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 3a
+
+**Aufsicht**[^3a-1]
+
+<sup>1</sup> Das Bundesamt für Justiz übt die Aufsicht über die Informationsstelle aus.
+
+<sup>2</sup>
+
+Es hat insbesondere folgende Befugnisse:
+
+- a. Genehmigung der Statuten der Informationsstelle (Art. 23 Abs. 2 KKG);
+- b. Erlass von Weisungen und Empfehlungen an die Informationsstelle;
+- c. jährliche Abnahme des Rechenschaftsberichts der Informationsstelle;
+- d. Durchführung von Inspektionen bei der Informationsstelle.
+
+<sup>3</sup> Es erstellt ein schriftliches Aufsichtskonzept über die Ausübung seiner Aufsicht.
+
+<sup>4</sup> Es arbeitet mit dem Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten zusammen, soweit dessen datenschutzrechtliche Aufsichtspflichten betroffen sind (Art. 23 Abs. 4 KKG).
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 19. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## 3. Abschnitt: Bewilligungsvoraussetzungen für Kreditgewährung und Kreditvermittlung
 
@@ -241,12 +270,9 @@ Adresse (Strasse mit Hausnummer, Postleitzahl, Wohnort)
 
 Umfang des Zugriffs
 
-a: ansehen
-
-b: bearbeiten (ansehen, eintragen, korrigieren, löschen)
-
-IKO Informationsstelle für Konsumkredit
-
+- a: ansehen
+- b: bearbeiten (ansehen, eintragen, korrigieren, löschen)
+- IKO Informationsstelle für Konsumkredit
 - K1 gewerbsmässig tätige Kreditgeberin und Schwarmkredit-Vermittlerin, die einen Konsumkredit gewährt bzw. gewährt hat oder vermittelt bzw. vermittelt hat
 - K2 gewerbsmässig tätige Kreditgeberin und Schwarmkredit-Vermittlerin, die zur Prüfung der Kreditfähigkeit Informationen über bestehende Konsumkredite einer Konsumentin oder eines Konsumenten abfragt
 
@@ -254,52 +280,22 @@ IKO Informationsstelle für Konsumkredit
 <tr><th>Zugriffsberechtigte Personendaten</th><th>IKO</th><th>K1</th><th>K2</th></tr>
 <tr><td>I. Bei Barkrediten, Teilzahlungsverträgen und ähnlichen Finanzierungshilfen</td><td></td><td></td><td></td></tr>
 <tr><td>*1.* *nach Vertragsabschluss:*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Grunddaten der Konsumentin oder des Konsumenten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Kreditart: Barkredit, Teilzahlungsvertrag, ähnliche Finanzierungshilfe</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Vertragsbeginn</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Anzahl Raten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Bruttobetrag des Kredits inklusive vertraglich vereinbarte Zinsen und Kosten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Vertragsende (soweit vertraglich vereinbart)</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Höhe der Tilgungsraten (soweit vertraglich vereinbart)</td><td>b</td><td>b</td><td>a</td></tr>
+<tr><td>– Grunddaten der Konsumentin oder des Konsumenten – Kreditart: Barkredit, Teilzahlungsvertrag, ähnliche Finanzierungshilfe – Vertragsbeginn – Anzahl Raten – Bruttobetrag des Kredits inklusive vertraglich vereinbarte Zinsen und Kosten – Vertragsende (soweit vertraglich vereinbart) – Höhe der Tilgungsraten (soweit vertraglich vereinbart)</td><td>b b b b b b b</td><td>b b b b b b b</td><td>a a a a a a a</td></tr>
 <tr><td>*2.* *bei Verzug:*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Grunddaten der Konsumentin oder des Konsumenten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Vertragsbeginn</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Kreditbetrag</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Verzugsmeldung</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Datum der Verzugsmeldung</td><td>b</td><td>b</td><td>a</td></tr>
+<tr><td>– Grunddaten der Konsumentin oder des Konsumenten – Vertragsbeginn – Kreditbetrag – Verzugsmeldung – Datum der Verzugsmeldung</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
 <tr><td>II Bei Leasingverträgen</td><td></td><td></td><td></td></tr>
 <tr><td>*1.* *nach Vertragsabschluss:*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Grunddaten der Konsumentin oder des Konsumenten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Kreditart: Leasing</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Vertragsbeginn</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Anzahl Raten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Höhe der Leasingverpflichtung (berechnet auf die vereinbarte Vertragsdauer, ohne Restwert)</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Vertragsende</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Höhe der monatlichen Leasingraten (ohne allfällige bei Vertragsabschluss geleistete Beträge)</td><td>b</td><td>b</td><td>a</td></tr>
+<tr><td>– Grunddaten der Konsumentin oder des Konsumenten – Kreditart: Leasing – Vertragsbeginn – Anzahl Raten – Höhe der Leasingverpflichtung (berechnet auf die vereinbarte Vertragsdauer, ohne Restwert) – Vertragsende – Höhe der monatlichen Leasingraten (ohne allfällige bei Vertragsabschluss geleistete Beträge)</td><td>b b b b b b b</td><td>b b b b b b b</td><td>a a a a a a a</td></tr>
 <tr><td>*2.* *bei Verzug:*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Grunddaten der Konsumentin oder des Konsumenten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Vertragsbeginn</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Kreditbetrag</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Verzugsmeldung</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Datum der Verzugsmeldung</td><td>b</td><td>b</td><td>a</td></tr>
+<tr><td>– Grunddaten der Konsumentin oder des Konsumenten – Vertragsbeginn – Kreditbetrag – Verzugsmeldung – Datum der Verzugsmeldung</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
 <tr><td>III. Bei Kredit- und Kundenkartenkonti, die mit einer Kreditoption verbunden sind</td><td></td><td></td><td></td></tr>
 <tr><td>*1.* *Erstmeldung:*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Grunddaten der Konsumentin oder des Konsumenten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Kreditart: Kartenengagement</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Vertragsbeginn</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Datum Meldepflicht für ausstehenden Kreditbetrag (Stichtag Saldo)</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Ausstehender Kreditbetrag (Saldo)</td><td>b</td><td>b</td><td>a</td></tr>
+<tr><td>– Grunddaten der Konsumentin oder des Konsumenten – Kreditart: Kartenengagement – Vertragsbeginn – Datum Meldepflicht für ausstehenden Kreditbetrag (Stichtag Saldo) – Ausstehender Kreditbetrag (Saldo)</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
 <tr><td>*2.* *Nachmeldung:*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Ausstehender Kreditbetrag (Saldo)</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Datum (Stichtag) Nachmeldung</td><td>b</td><td>b</td><td>a</td></tr>
+<tr><td>– Ausstehender Kreditbetrag (Saldo) – Datum (Stichtag) Nachmeldung</td><td>b b</td><td>b b</td><td>a a</td></tr>
 <tr><td>IV. Bei Überziehungskrediten auf laufendem Konto</td><td></td><td></td><td></td></tr>
 <tr><td>*1.* *Erstmeldung:*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Grunddaten der Konsumentin oder des Konsumenten</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Kreditart: Überziehungskredit</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Referenzdatum des Kredits</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Datum Meldepflicht für ausstehenden Kreditbetrag (Stichtag Saldo)</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Ausstehender Kreditbetrag (Saldo)</td><td>b</td><td>b</td><td>a</td></tr>
+<tr><td>– Grunddaten der Konsumentin oder des Konsumenten – Kreditart: Überziehungskredit – Referenzdatum des Kredits – Datum Meldepflicht für ausstehenden Kreditbetrag (Stichtag Saldo) – Ausstehender Kreditbetrag (Saldo)</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
 <tr><td>*2.* *Nachmeldung:*</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Ausstehender Kreditbetrag (Saldo)</td><td>b</td><td>b</td><td>a</td></tr>
-<tr><td>– Datum (Stichtag) Nachmeldung</td><td>b</td><td>b</td><td>a</td></tr>
+<tr><td>– Ausstehender Kreditbetrag (Saldo) – Datum (Stichtag) Nachmeldung</td><td>b b</td><td>b b</td><td>a a</td></tr>
 </table>

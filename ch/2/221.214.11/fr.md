@@ -4,11 +4,11 @@ title: Ordonnance du 6 novembre 2002 relative à la loi fédérale sur le crédi
 short: OLCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/594"
 language: fr
-version: 2019-04-01
+version: 2021-07-01
 adopted: 2002-11-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/594/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-2002-594-20190401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/594/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-594-20210701-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20190401/fr"
 
 (OLCC)
 
-du 6 novembre 2002 (Etat le 1<sup>er</sup> avril 2019)
+du 6 novembre 2002 (État le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral,
 
-vu les art. 14, 23, al. 3, et 40, al. 3, de la loi fédérale du 23 mars 2001 sur le crédit à la consommation (LCC)[^ingress-1],
+vu les art. 14, 23, al. 3, et 40, al. 3, de la loi fédérale du 23 mars 2001 sur le crédit à la consommation (LCC)[^ingress-1], vu les art. 8, al. 1 et 4, et 47, al. 2, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## Section 1 Taux d’intérêt maximum
 
@@ -33,14 +35,20 @@ arrête:
 
 [^1-1]
 
-<sup>1</sup> La valeur maximale du taux d’intérêt prévu à l’art. 9, al. 2, let. b, LCC (taux d’intérêt maximum) s’obtient en additionnant le libor à trois mois établi par la Banque nationale et un supplément de dix points de pourcentage; le taux établi de la sorte est arrondi au nombre entier le plus proche conformément aux règles de l’arrondi commercial. Le taux d’intérêt maximum est d’au moins 10 %.
+<sup>1</sup>
 
-<sup>2</sup> Pour les crédits par découvert sur compte courant et pour les cartes de crédit et les cartes de client liées à une option de crédit, le supplément sur le libor à trois mois est de 12 points de pourcentage. Le taux d’intérêt maximum dans ces cas est d’au moins 12 %.
+La valeur maximale du taux d’intérêt prévu à l’art. 9, al. 2, let. b, LCC (taux d’intérêt maximum) s’obtient en additionnant:
 
-<sup>3</sup> Le Département fédéral de justice et police détermine le taux d’intérêt maximum chaque année.[^1-2]
+- a. le Saron composé à trois mois (SAR3MC), et
+- b. un supplément de 10 points de pourcentage.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 273](https://fedlex.data.admin.ch/eli/oc/2016/37)).
-[^1-2]: Le taux d’intérêt maximal s’élève, du 1<sup>er</sup> janv. 2019 au 31 déc. 2019 à 10 % pour les crédits au comptant, les contrats portant sur le financement de biens ou de services et les contrats de *leasing* et à 12 % pour les crédits consentis sous la forme d’une avance sur compte courant ou sur compte lié à une carte de crédit ou à une carte de client avec une option de crédit (art. 1 de l’O du DFJP du 7 nov. 2018 sur le taux d’intérêt maximal pour les crédits à la consommation; [RO 2018 4581](https://fedlex.data.admin.ch/eli/oc/2018/720)).
+<sup>2</sup> Le taux établi conformément à l’al. 1 est arrondi au nombre entier le plus proche conformément aux règles de l’arrondi commercial. Le taux d’intérêt maximum est d’au moins 10 %.
+
+<sup>3</sup> Pour les crédits par découvert sur compte courtant et pour les cartes de crédit et les cartes de client liées à une option de crédit, le supplément sur le SAR3MC est de 12 points de pourcentage. Le taux d’intérêt maximum dans ces cas est d’au moins 12 %.
+
+<sup>4</sup> Le Département fédéral de justice et police réexamine le taux d’intérêt maximum au moins une fois par année et l’adapte si nécessaire.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## Section 2 Centre de renseignements sur le crédit à la consommation
 
@@ -67,6 +75,27 @@ arrête:
 <sup>4</sup> Le centre de renseignements est responsable du système d’information. Il tient une liste des prêteurs et des courtiers en crédit participatif autorisés à accéder à la procédure d’appel, et la met régulièrement à jour. La liste est accessible à tous.
 
 [^3-1]: Nouvelle teneur selon le ch. II 2 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 3a
+
+**Surveillance**[^3a-1]
+
+<sup>1</sup> L’Office fédéral de la justice exerce la surveillance sur le centre de renseignements.
+
+<sup>2</sup>
+
+Il a notamment les compétences suivantes:
+
+- a. approuver les statuts du centre de renseignements (art. 23, al. 2, LCC);
+- b. édicter des directives et émettre des recommandations à l’intention du centre de renseignements;
+- c. approuver le rapport annuel du centre de renseignements;
+- d. réaliser des inspections auprès du centre de renseignements.
+
+<sup>3</sup> Il rédige un modèle de surveillance dans lequel il décrit le mode d’exercice de cette dernière.
+
+<sup>4</sup> Il collabore avec le Préposé fédéral à la protection des données et à la transparence pour ce qui relève de ses devoirs de surveillance en matière de protection des données (art. 23, al. 4, LCC).
+
+[^3a-1]: Introduit par le ch. I de l’O du 19 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## Section 3 Conditions de l’autorisation d’exercer l’activité d’octroi de crédits et de courtage en crédit
 
@@ -123,7 +152,7 @@ Les sûretés suivantes sont assimilées à une assurance responsabilité civile
 
 #### Art. 7a
 
-**Etendue de la sûreté**[^7a-1]
+**Étendue de la sûreté**[^7a-1]
 
 <sup>1</sup>
 
@@ -221,7 +250,7 @@ L’ordonnance du 23 avril 1975[^10-1] concernant le versement initial minimum e
 
 <sup>2</sup> Les art. 4 à 9 entrent en vigueur le 1<sup>er</sup> janvier 2004.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 3, al. 1)
 
@@ -239,7 +268,7 @@ Date de naissance (jour, mois, année),
 
 Adresse (rue et numéro, numéro postal, lieu de résidence)
 
-Etendue de l’accès
+Étendue de l’accès
 
 - a: consulter
 - b: traiter (consulter, introduire, corriger, effacer)

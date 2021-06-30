@@ -4,11 +4,11 @@ title: Ordinanza del 6 novembre 2002 concernente la legge sul credito al consumo
 short: OLCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/594"
 language: it
-version: 2019-04-01
+version: 2021-07-01
 adopted: 2002-11-06
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/594/20190401/it/xml/fedlex-data-admin-ch-eli-cc-2002-594-20190401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20190401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/594/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2002-594-20210701-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/594/20190401/it"
 
 (OLCC)
 
-del 6 novembre 2002 (Stato 1° aprile 2019) (Stato 1° aprile 2019)
+del 6 novembre 2002 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 14, 23 capoverso 3 e 40 capoverso 3 della legge federale del 23 marzo 2001[^ingress-1] sul credito al consumo (LCC),
+visti gli articoli 14, 23 capoverso 3 e 40 capoverso 3 della legge federale del 23 marzo 2001[^ingress-1] sul credito al consumo (LCC); visti gli articoli 8 capoversi 1 e 4, nonché 47 capoverso 2 della legge federale del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 221.214.1](https://fedlex.data.admin.ch/eli/cc/2002/593)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## Sezione 1: Tasso d’interesse massimo
 
@@ -33,14 +35,20 @@ ordina:
 
 [^1-1]
 
-<sup>1</sup> Il valore massimo del tasso d’interesse di cui all’articolo 9 capoverso 2 lettera b LCC (tasso d’interesse massimo) è ottenuto aggiungendo 10 punti percentuali al Libor a tre mesi calcolato dalla Banca nazionale; il valore risultante è arrotondato per difetto o per eccesso secondo le regole dell’arrotondamento commerciale. Il tasso d’interesse massimo ammonta almeno al 10 per cento.
+<sup>1</sup>
 
-<sup>2</sup> Per crediti sotto forma di anticipo su conto corrente e carte di credito o carte-cliente con opzione di credito, al Libor a tre mesi sono aggiunti 12 punti percentuali. In questi casi il tasso d’interesse massimo ammonta almeno al 12 per cento.
+Il valore massimo del tasso d’interesse di cui all’articolo 9 capoverso 2 lettera b LCC (tasso d’interesse massimo) è ottenuto aggiungendo:
 
-<sup>3</sup> Il Dipartimento federale di giustizia e polizia adegua annualmente il tasso d’interesse massimo.[^1-2]
+- a. al Saron composto a tre mesi (SAR3MC);
+- b. un supplemento di 10 punti percentuali.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° lug. 2016 ([RU 2016 273](https://fedlex.data.admin.ch/eli/oc/2016/37)).
-[^1-2]: Il tasso d’interesse massimo ammonta, dal 1° gen. 2019 al 31 dic. 2019 al 10 per cento per i crediti in contanti, il contratto di credito per il finanzimento dell’acquisto di beni o servizi e il contratto di leasing e al 12 per cento per il credito sotto forma di anticipo su conto corrente o su conto connesso a carte di credito o carte‑cliente con opzione di credito (art. 1 dell’O del DFGP del 7 nov. 2018 sul tasso d’interesse massimo per i crediti al consumo; [RU 2018 4581](https://fedlex.data.admin.ch/eli/oc/2018/720)).
+<sup>2</sup> Il valore risultante secondo il capoverso 1 è arrotondato per difetto o per eccesso secondo le regole dell’arrotondamento commerciale. Il tasso d’interesse massimo ammonta almeno al 10 per cento.
+
+<sup>3</sup> Per crediti sotto forma di anticipo su conto corrente e carte di credito o carte-cliente con opzione di credito, al SAR3MC sono aggiunti 12 punti percentuali. In questi casi il tasso d’interesse massimo ammonta almeno al 12 per cento.
+
+<sup>4</sup> Il Dipartimento federale di giustizia e polizia verifica almeno una volta all’anno il tasso d’interesse massimo e se necessario lo adegua.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## Sezione 2: Centrale d’informazione per il credito al consumo
 
@@ -67,6 +75,27 @@ ordina:
 <sup>4</sup> La Centrale d’informazione è responsabile del sistema d’informazione. Essa tiene un elenco dei creditori e degli intermediari di crediti partecipativi legittimati ad avvalersi della procedura di richiamo e l’aggiorna costantemente. L’elenco è a disposizione del pubblico.
 
 [^3-1]: Nuovo testo giusta il n. II 2 dell’O del 30 nov. 2018, in vigore dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+
+#### Art. 3a
+
+**Vigilanza**[^3a-1]
+
+<sup>1</sup> L’Ufficio federale di giustizia esercita la vigilanza sulla Centrale d’informazione.
+
+<sup>2</sup>
+
+Ha in particolare le seguenti competenze:
+
+- a. approvare gli statuti della Centrale d’informazione (art. 23 cpv. 2 LCC);
+- b. emanare istruzioni e raccomandazioni destinate alla Centrale d’informazione;
+- c. approvare il rapporto d’attività annuale della Centrale d’informazione;
+- d. svolgere ispezioni presso la Centrale d’informazione.
+
+<sup>3</sup> Redige un piano per l’esercizio della sua vigilanza.
+
+<sup>4</sup> Collabora con l’Incaricato federale della protezione dei dati e della trasparenza per quanto concerne gli obblighi di vigilanza di quest’ultimo secondo il diritto in materia di protezione dei dati (art. 23 cpv. 4 LCC).
+
+[^3a-1]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 319](https://fedlex.data.admin.ch/eli/oc/2021/319)).
 
 ## Sezione 3: Condizioni di rilascio dell’autorizzazione alla concessione e alla mediazione di crediti
 
@@ -221,7 +250,7 @@ L’ordinanza del 23 aprile 1975[^10-1] concernente il pagamento iniziale e la d
 
 <sup>2</sup> Gli articoli 4–9 entrano in vigore il 1° gennaio 2004.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 3 cpv. 1)
 
@@ -250,15 +279,23 @@ Estensione dell’accesso
 <table>
 <tr><th>Persone autorizzate ad accedere Dati personali</th><th>IKO</th><th>C1</th><th>C2</th></tr>
 <tr><td>I. Crediti in contanti, contratti di pagamento rateale e facilitazioni finanziarie analoghe</td><td></td><td></td><td></td></tr>
-<tr><td>*1.* *Dopo la conclusione del contratto:* – Dati essenziali del consumatore – Forma di credito: crediti in contanti, contratti di pagamento rateale, facilitazioni finanziarie analoghe – Inizio del contratto – Numero di rate – Importo lordo del credito, compresi gli interessi e le spese pattuite contrattualmente – Scadenza del contratto (se pattuita contrattualmente) – Ammontare delle rate (se pattuito contrattualmente)</td><td>b b b b b b b</td><td>b b b b b b b</td><td>a a a a a a a</td></tr>
-<tr><td>*2.* *In* *caso* *di mora:* – Dati essenziali del consumatore – Inizio del contratto – Importo del credito – Notifica della mora – Data di notifica della mora</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
+<tr><td>*1.* *Dopo la conclusione del contratto:*</td><td></td><td></td><td></td></tr>
+<tr><td>– Dati essenziali del consumatore – Forma di credito: crediti in contanti, contratti di pagamento rateale, facilitazioni finanziarie analoghe – Inizio del contratto – Numero di rate – Importo lordo del credito, compresi gli interessi e le spese pattuite contrattualmente – Scadenza del contratto (se pattuita contrattualmente) – Ammontare delle rate (se pattuito contrattualmente)</td><td>b b b b b b b</td><td>b b b b b b b</td><td>a a a a a a a</td></tr>
+<tr><td>*2.* *In* *caso* *di mora:*</td><td></td><td></td><td></td></tr>
+<tr><td>– Dati essenziali del consumatore – Inizio del contratto – Importo del credito – Notifica della mora – Data di notifica della mora</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
 <tr><td>II. Contratti di leasing</td><td></td><td></td><td></td></tr>
-<tr><td>*1.* *Dopo la conclusione del contratto:* – Dati essenziali del consumatore – Forma di credito: leasing – Inizio del contratto – Numero di rate – Ammontare totale del leasing (calcolato in funzione della durata del contratto convenuta, senza valore residuo) – Scadenza del contratto – Ammontare delle rate mensili del leasing (senza eventuali importi versati al momento della conclusione del contratto)</td><td>b b b b b b b</td><td>b b b b b b b</td><td>a a a a a a a</td></tr>
-<tr><td>*2.* *In caso di mora:* – Dati essenziali del consumatore – Inizio del contratto – Importo del credito – Notifica della mora – Data di notifica della mora</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
+<tr><td>*1.* *Dopo la conclusione del contratto:*</td><td></td><td></td><td></td></tr>
+<tr><td>– Dati essenziali del consumatore – Forma di credito: leasing – Inizio del contratto – Numero di rate – Ammontare totale del leasing (calcolato in funzione della durata del contratto convenuta, senza valore residuo) – Scadenza del contratto – Ammontare delle rate mensili del leasing (senza eventuali importi versati al momento della conclusione del contratto)</td><td>b b b b b b b</td><td>b b b b b b b</td><td>a a a a a a a</td></tr>
+<tr><td>*2.* *In caso di mora:*</td><td></td><td></td><td></td></tr>
+<tr><td>– Dati essenziali del consumatore – Inizio del contratto – Importo del credito – Notifica della mora – Data di notifica della mora</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
 <tr><td>III. Conti connessi a carte di credito o a carte-cliente con opzione di credito</td><td></td><td></td><td></td></tr>
-<tr><td>*1.* *Prima notifica:* – Dati essenziali del consumatore – Forma di credito: tipo di carta – Inizio del contratto – Data dell’obbligo di notifica per importi non rimborsati (giorno determinante del saldo) – Importo non rimborsato (saldo)</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
-<tr><td>*2.* *Notifica ulteriore:* – Importo non rimborsato (saldo) – Data (giorno determinante) della notifica ulteriore</td><td>b b</td><td>b b</td><td>a a</td></tr>
+<tr><td>*1.* *Prima notifica:*</td><td></td><td></td><td></td></tr>
+<tr><td>– Dati essenziali del consumatore – Forma di credito: tipo di carta – Inizio del contratto – Data dell’obbligo di notifica per importi non rimborsati (giorno determinante del saldo) – Importo non rimborsato (saldo)</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
+<tr><td>*2.* *Notifica ulteriore:*</td><td></td><td></td><td></td></tr>
+<tr><td>– Importo non rimborsato (saldo) – Data (giorno determinante) della notifica ulteriore</td><td>b b</td><td>b b</td><td>a a</td></tr>
 <tr><td>IV. Crediti sotto forma di anticipo su conto corrente</td><td></td><td></td><td></td></tr>
-<tr><td>*1.* *Prima notifica:* – Dati essenziali del consumatore – Forma di credito: credito sotto forma di anticipo su conto corrente – Data di riferimento del credito – Data dell’obbligo di notifica per l’importo non rimborsato (giorno determinante del saldo) – Importo non rimborsato (saldo)</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
-<tr><td>*2.* *Notifica ulteriore:* – Importo non rimborsato (saldo) – Data (giorno determinante) della notifica ulteriore</td><td>b b</td><td>b b</td><td>a a</td></tr>
+<tr><td>*1.* *Prima notifica:*</td><td></td><td></td><td></td></tr>
+<tr><td>– Dati essenziali del consumatore – Forma di credito: credito sotto forma di anticipo su conto corrente – Data di riferimento del credito – Data dell’obbligo di notifica per l’importo non rimborsato (giorno determinante del saldo) – Importo non rimborsato (saldo)</td><td>b b b b b</td><td>b b b b b</td><td>a a a a a</td></tr>
+<tr><td>*2.* *Notifica ulteriore:*</td><td></td><td></td><td></td></tr>
+<tr><td>– Importo non rimborsato (saldo) – Data (giorno determinante) della notifica ulteriore</td><td>b b</td><td>b b</td><td>a a</td></tr>
 </table>
