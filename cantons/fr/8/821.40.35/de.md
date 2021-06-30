@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.35"
 title: "Verordnung über die Massnahmen des Wiederankurbelungsplans zur Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport"
 language: de
-version: 2021-01-26
-valid_until: 2021-06-30
-version_adopted: 2021-01-26
+version: 2021-07-01
+valid_until: 2021-08-16
+version_adopted: 2021-06-28
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/de/versions/6755/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6879/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6755/pdf_file"
 
 COVID-19, Wiederankurbelungsplan – EKSD-Massnahmen – V
 
-vom 24.11.2020 (Fassung in Kraft getreten am 26.01.2021)
+vom 24.11.2020 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -313,7 +313,7 @@ beschliesst:
 
 <sup>3</sup> Sportarten, in denen sich die Athletinnen und Athleten sowie Trainerinnen und Trainer auf höchstem nationalem Niveau bewegen, werden bevorzugt behandelt.
 
-<sup>4</sup> Die Finanzhilfe deckt maximal 80 % der Verluste im Zusammenhang mit der COVID-19-Epidemie und ist auf maximal 200'000 Franken pro Saison und Sportverein oder ‑klub beschränkt.
+<sup>4</sup> Die Finanzhilfe deckt maximal 80 % der Verluste im Zusammenhang mit der COVID-19-Epidemie und ist auf maximal 400'000 Franken pro Saison und Sportverein oder ‑klub beschränkt.
 
 <sup>5</sup> Keine Finanzhilfe wird gewährt, wenn der Verlust der Saison weniger als 5000 Franken beträgt.
 

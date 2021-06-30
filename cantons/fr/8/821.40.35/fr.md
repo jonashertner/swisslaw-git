@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.35"
 title: "Ordonnance relative aux mesures du plan de relance pour contrer les effets du coronavirus relevant de la Direction de l'instruction publique, de la culture et du sport"
 language: fr
-version: 2021-01-26
-valid_until: 2021-06-30
-version_adopted: 2021-01-26
+version: 2021-07-01
+valid_until: 2021-08-16
+version_adopted: 2021-06-28
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6755/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6879/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6755/pdf_file"
 
 COVID-19, plan de relance – Mesures DICS – O
 
-du 24.11.2020 (version entrée en vigueur le 26.01.2021)
+du 24.11.2020 (version entrée en vigueur le 01.07.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -313,7 +313,7 @@ Arrête:
 
 <sup>3</sup> Sont davantage favorisées les disciplines sportives dont les athlètes et les entraîneurs et entraîneuses évoluent au plus haut niveau national.
 
-<sup>4</sup> L'aide financière couvre au maximum 80 % des pertes en lien avec l'épidémie de COVID-19 et se monte au maximum à 200'000 francs par saison et par association ou club sportifs.
+<sup>4</sup> L'aide financière couvre au maximum 80 % des pertes en lien avec l'épidémie de COVID-19 et se monte au maximum à 400'000 francs par saison et par association ou club sportifs.
 
 <sup>5</sup> Aucune aide financière n'est octroyée si la perte de la saison respective se situe en dessous de 5000 francs.
 
