@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2021-04-01
+version: 2021-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/fr"
 
 (LAMal)
 
-du 18 mars 1994 (Etat le 1<sup>er</sup> avril 2021)
+du 18 mars 1994 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -245,7 +245,7 @@ Lors de l’affiliation à l’assurance-maladie sociale, l’assureur doit, par
 
 [^1115-1]: Abrogés par l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
-### Section 1*a* Compensation des risques
+### Section 1*a* Compensation des risques****
 
 [^tit2-chap2-sec1a-1]
 
@@ -387,7 +387,7 @@ Le Conseil fédéral règle:
 [^20-1]: Nouvelle teneur selon l’annexe ch. II 10 de la LF du 22 mars 2002 sur l’adaptation des disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 [^20-2]: Nouvelle teneur selon l’annexe ch. II 10 de la LF du 22 mars 2002 sur l’adaptation des disp. du droit fédéral en matière d’organisation, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24); [FF 2001 3657](https://fedlex.data.admin.ch/eli/fga/2001/686)).
 
-### Section 4 Statistiques
+### Section 4 Statistiques****
 
 [^tit2-chap2-sec4-1]
 
@@ -713,7 +713,7 @@ Les établissements et celles de leurs divisions qui servent au traitement hospi
 
 <sup>2</sup> Le Conseil fédéral fixe les conditions que ces établissements doivent remplir en ce qui concerne la direction médicale, la dotation en personnel soignant qualifié, les traitements et les sources thermales.
 
-### Section 2 Choix du fournisseur de prestations, prise en charge des coûts et obligation d’admission faite aux hôpitaux répertoriés
+### Section 2 Choix du fournisseur de prestations, prise en charge des coûts et obligation d’admission faite aux hôpitaux répertoriés****
 
 [^tit2-chap4-sec2-1]
 
@@ -1041,7 +1041,7 @@ Le pharmacien peut remplacer des préparations originales de la liste des spéci
 
 **Recours au Tribunal administratif fédéral**[^53-1]
 
-<sup>1</sup> Les décisions des gouvernements cantonaux visées aux art. 39, 45, 46, al. 4, 47, 48, al. 1 à 3, 51, 54, 55 et 55*a* peuvent faire l’objet d’un recours au Tribunal administratif fédéral.
+<sup>1</sup> Les décisions des gouvernements cantonaux visées aux art. 39, 45, 46, al. 4, 47, 48, al. 1 à 3, 51, 54, 55 et 55a peuvent faire l’objet d’un recours au Tribunal administratif fédéral.
 
 <sup>2</sup>
 
@@ -1083,24 +1083,36 @@ Ces autorités sont:
 
 #### Art. 55a
 
-**Limitation de l’admission à pratiquer à la charge de l’assurance‑maladie**[^55a-1]
+**Limitation du nombre de médecins qui fournissent des prestations ambulatoires**[^55a-1]
 
 <sup>1</sup>
 
-Le Conseil fédéral peut faire dépendre de l’établissement de la preuve d’un besoin l’admission des personnes suivantes à pratiquer à la charge de l’assurance obligatoire des soins:
+Les cantons limitent, dans un ou plusieurs domaines de spécialité ou dans certaines régions, le nombre de médecins qui fournissent des prestations ambulatoires à la charge de l’assurance obligatoire des soins. Lorsqu’un canton limite le nombre de médecins, il prévoit:
 
-- a. les médecins visés à l’art. 36, qu’ils exercent une activité dépendante ou indépendante;
-- b. les médecins qui exercent au sein d’une institution au sens de l’art. 36*a* ou dans le domaine ambulatoire d’un hôpital au sens de l’art. 39.
+- a. que les médecins ne sont admis que jusqu’à concurrence du nombre maximal déterminé;
+- b.
 
-<sup>2</sup> Ne sont pas soumises à la preuve du besoin les personnes qui ont exercé pendant au moins trois ans dans un établissement suisse reconnu de formation postgrade.
+  que le nombre de médecins suivants est limité au nombre maximal déterminé:
 
-<sup>3</sup> Le Conseil fédéral fixe les critères permettant d’établir la preuve du besoin après avoir consulté les cantons, les fédérations de fournisseurs de prestations, les fédérations des assureurs et les associations de patients.
+  - 1\. les médecins qui exercent dans le domaine ambulatoire d’un hôpital,
+  - 2\. les médecins qui exercent dans une institution visée à l’art. 35, al. 2, let. n.
 
-<sup>4</sup> Les cantons désignent les personnes visées à l’al. 1. Ils peuvent assortir leur admission de conditions.
+<sup>2</sup> Le Conseil fédéral définit les critères et les principes méthodologiques pour fixer les nombres maximaux. Il tient compte en particulier des flux de patients entre les cantons et des régions d’approvisionnement en soins ainsi que de l’évolution générale du taux d’activité des médecins.
 
-<sup>5</sup> L’admission expire lorsque son titulaire n’en fait pas usage dans un certain délai, sauf justes motifs tels que maladie, maternité ou formation postgrade. Le Conseil fédéral fixe le délai applicable.
+<sup>3</sup> Avant de fixer les nombres maximaux de médecins, le canton entend les fédérations des fournisseurs de prestations, des assureurs et des assurés. Il se coordonne avec les autres cantons pour les fixer.
 
-[^55a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365)2311; FF **1999** 727). Nouvelle teneur selon le ch. I de la LF du 14 décembre 2018, en vigueur du 1<sup>er</sup> juil. 2019 au 30 juin 2021 ([RO 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [FF 2018 6397](https://fedlex.data.admin.ch/eli/fga/2018/2239)[6745](https://fedlex.data.admin.ch/eli/fga/2018/2378)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+<sup>4</sup> Les fournisseurs de prestations, les assureurs et leurs fédérations respectives communiquent gratuitement aux autorités cantonales compétentes qui en font la demande, en plus des données collectées en vertu de l’art. 59*a*, les données nécessaires pour fixer les nombres maximaux de médecins.
+
+<sup>5</sup>
+
+En cas de limitation des admissions à pratiquer dans un canton, les médecins suivants peuvent continuer de pratiquer:
+
+- a. les médecins qui ont été admis à pratiquer et qui ont fourni des prestations ambulatoires à la charge de l’assurance obligatoire des soins avant l’entrée en vigueur des nombres maximaux;
+- b. les médecins qui exerçaient dans le domaine ambulatoire d’un hôpital ou dans une institution visée à l’art. 35, al. 2, let. n, avant l’entrée en vigueur des nombres maximaux, s’ils poursuivent leur activité dans le domaine ambulatoire du même hôpital ou dans la même institution.
+
+<sup>6</sup> Lorsque, dans un canton, les coûts annuels par assuré dans un domaine de spécialité augmentent davantage que les coûts annuels des autres domaines de spécialité dans ce canton ou que la moyenne suisse des coûts annuels dans le domaine de spécialité en question, le canton peut prévoir qu’aucune nouvelle admission à pratiquer à la charge de l’assurance obligatoire des soins n’est délivrée dans ce domaine de spécialité.
+
+[^55a-1]: Introduit par le ch. I de la LF du 24 mars 2000 ([RO 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365)2311; FF **1999** 727). Nouvelle teneur selon le ch.I de la LF du 19 juin 2020 (Admission des fournis-seurs de prestations), en vigueur depuis le 1er juillet 2021. ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 
 ### Section 6 Contrôle du caractère économique et de la qualité des prestations
 
@@ -2232,7 +2244,7 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 [^107-1]: Art. 1 de l’O du 12 avril 1995 [[RO 1995 1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)]
 [^107-2]: Art. 1 de l’O du 12 avril 1995 [[RO 1995 1367](https://fedlex.data.admin.ch/eli/oc/1995/1367_1367_1367)]
 
-## Dispositions finales de la modification du 24 mars 2000
+## Dispositions finales de la modification du 24 mars 2000****
 
 [^u1-1]
 
@@ -2242,25 +2254,25 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 
 <sup>2</sup> Les cantons édictent les dispositions d’exécution de l’art. 65 avant l’entrée en vigueur de la présente modification. Lorsqu’il ne peut édicter à temps les dispositions définitives pour l’art. 65, le gouvernement cantonal peut arrêter une réglementation provisoire.
 
-## Disposition transitoire du 8 octobre 2004 (Tarif des soins)
+## Disposition transitoire du 8 octobre 2004 (Tarif des soins)****
 
 [^u2-1]
 
 [^u2-1]: [RO 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706). Abrogée par le ch. I de la LF du 20 déc. 2006 (Tarif des soins), avec effet au 1<sup>er</sup> déc. 2006 ([RO 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [FF 2006 7159](https://fedlex.data.admin.ch/eli/fga/2006/922)[7167](https://fedlex.data.admin.ch/eli/fga/2006/924)).
 
-## Disposition finale de la modification du 18 mars 2005 (Réduction des primes)
+## Disposition finale de la modification du 18 mars 2005 (Réduction des primes)****
 
 [^u3-1]
 
 [^u3-1]: [RO 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 4089](https://fedlex.data.admin.ch/eli/fga/2004/711). Abrogée par le ch. I de la LF du 17 mars 2017, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6989](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7729](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 
-## Dispositions transitoires de la modification du 20 décembre 2006
+## Dispositions transitoires de la modification du 20 décembre 2006****
 
 [^u4-1]
 
 [^u4-1]: [RO 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [FF 2006 7159](https://fedlex.data.admin.ch/eli/fga/2006/922)[7167](https://fedlex.data.admin.ch/eli/fga/2006/924). En vigueur jusqu’au 31 déc. 2008.
 
-## Dispositions transitoires de la modification du 21 décembre 2007 (Financement hospitalier)
+## Dispositions transitoires de la modification du 21 décembre 2007 (Financement hospitalier)****
 
 [^u5-1]
 
@@ -2281,13 +2293,13 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 - a. les modalités d’introduction;
 - b. la procédure selon laquelle les investissements effectués avant l’entrée en vigueur de la présente modification sont pris en compte dans le calcul du tarif.
 
-## Dispositions transitoires de la modification du 21 décembre 2007 (Compensation des risques)
+## Dispositions transitoires de la modification du 21 décembre 2007 (Compensation des risques)****
 
 [^u6-1]
 
 [^u6-1]: [RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024). Abrogées par le ch. I de la LF du 21 mars 2014, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [FF 2013 7021](https://fedlex.data.admin.ch/eli/fga/2013/1479)[7519](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
-## Dispositions transitoires de la modification du 13 juin 2008
+## Dispositions transitoires de la modification du 13 juin 2008****
 
 [^u7-1]
 
@@ -2297,13 +2309,13 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 
 <sup>2</sup> Les tarifs et conventions tarifaires valables à l’entrée en vigueur de la présente modification seront alignés dans un délai de trois ans sur les contributions aux soins fixées par le Conseil fédéral. Les gouvernements cantonaux règlent l’adaptation.
 
-## Disposition transitoire de la modification du 12 juin 2009
+## Disposition transitoire de la modification du 12 juin 2009****
 
 [^u8-1]
 
 [^u8-1]: [RO 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [FF 2009 2977](https://fedlex.data.admin.ch/eli/fga/2009/650)[2987](https://fedlex.data.admin.ch/eli/fga/2009/652). En vigueur jusqu’au 31 déc. 2011.
 
-## Dispositions transitoires de la modification du 19 mars 2010
+## Dispositions transitoires de la modification du 19 mars 2010****
 
 [^u9-1]
 
@@ -2318,7 +2330,7 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 - a. primes et participations aux coûts arriérées échues lors de l’entrée en vigueur de la présente modification et pour lesquelles un acte de défaut de biens ou un titre équivalent a été délivré;
 - b. intérêts moratoires et frais de poursuite échus lors de l’entrée en vigueur de la présente modification.
 
-## Disposition transitoire de la modification du 23 décembre 2011
+## Disposition transitoire de la modification du 23 décembre 2011****
 
 [^u10-1]
 
@@ -2326,13 +2338,13 @@ Art. 11 à 14, 18, 61 al. 4, 76 al. 4, 97 à 104, 107 al. 2: 1<sup>er</sup> juin
 
 Le Conseil fédéral fixe pour les fournisseurs de prestations visés à l’art. 35, al. 2, let. a, la méthode visant à contrôler le caractère économique des prestations au sens de l’art. 56, al. 6, si les assureurs et les fournisseurs de prestations ne sont pas convenus d’une méthode dans un délai de 12 mois suivant l’entrée en vigueur de la présente modification.
 
-## Dispositions transitoires de la modification du 21 juin 2013 (Réintroduction temporaire de l’admission selon le besoin)
+## Dispositions transitoires de la modification du 21 juin 2013 (Réintroduction temporaire de l’admission selon le besoin)****
 
 [^u11-1]
 
 [^u11-1]: [RO 2013 2065](https://fedlex.data.admin.ch/eli/oc/2013/428); [FF 2012 8709](https://fedlex.data.admin.ch/eli/fga/2012/1750). En vigueur jusqu’au 30 juin 2016.
 
-## Dispositions transitoires relatives à la modification du 19 juin 2015 (Dossier électronique du patient)
+## Dispositions transitoires relatives à la modification du 19 juin 2015 (Dossier électronique du patient)****
 
 [^u12-1]
 
@@ -2342,13 +2354,13 @@ Le Conseil fédéral fixe pour les fournisseurs de prestations visés à l’art
 
 <sup>2</sup> Les maisons de naissance, y compris celles qui concluent des conventions au sens de l’art. 49*a*, al. 4, ainsi que les établissements médico-sociaux doivent se conformer à l’art. 39, al. 1, let. f, dans un délai transitoire de cinq ans après l’entrée en vigueur de la modification du 19 juin 2015.
 
-## Dispositions transitoires de la modification du 17 juin 2016 (Prolongation de la limitation de l’admission à pratiquer à la charge de l’assurance-maladie)
+## Dispositions transitoires de la modification du 17 juin 2016 (Prolongation de la limitation de l’admission à pratiquer à la charge de l’assurance-maladie)****
 
 [^u13-1]
 
 [^u13-1]: [RO 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [FF 2016 3349](https://fedlex.data.admin.ch/eli/fga/2016/647)[3359](https://fedlex.data.admin.ch/eli/fga/2016/649). En vigueur jusqu’au 30 juin 2019.
 
-## Disposition transitoire de la modification du 17 mars 2017
+## Disposition transitoire de la modification du 17 mars 2017****
 
 [^u14-1]
 
@@ -2356,17 +2368,13 @@ Le Conseil fédéral fixe pour les fournisseurs de prestations visés à l’art
 
 Les cantons mettent en œuvre le système de réduction des primes pour les enfants prévu à l’art. 65, al. 1<sup>bis</sup>, dans un délai de deux ans à compter de l’entrée en vigueur de la modification du 17 mars 2017.
 
-## Dispositions transitoires de la modification du 14 décembre 2018 (Prolongation de la limitation de l’admission à pratiquer à la charge de l’assurance-maladie)
+## Dispositions transitoires de la modification du 14 décembre 2018 (Prolongation de la limitation de l’admission à pratiquer à la charge de l’assurance-maladie)****
 
 [^u15-1]
 
 [^u15-1]: [RO 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [FF 2018 6397](https://fedlex.data.admin.ch/eli/fga/2018/2239)[6745](https://fedlex.data.admin.ch/eli/fga/2018/2378). En vigueur jusqu’au 30 juin 2021.
 
-<sup>1</sup> Les médecins qui ont été admis en vertu de l’art. 36 et ont pratiqué dans leur propre cabinet à la charge de l’assurance obligatoire des soins avant l’entrée en vigueur de la modification du 14 décembre 2018 ne sont pas soumis à la preuve du besoin.
-
-<sup>2</sup> Les médecins qui ont exercé au sein d’une institution au sens de l’art. 36*a* ou dans le domaine ambulatoire d’un hôpital au sens de l’art. 39 avant l’entrée en vigueur de la présente modification ne sont pas soumis à la preuve du besoin s’ils continuent d’exercer au sein de la même institution ou dans le domaine ambulatoire du même hôpital.
-
-## Disposition transitoire de la modification du 21 juin 2019
+## Disposition transitoire de la modification du 21 juin 2019****
 
 [^u16-1]
 
@@ -2374,11 +2382,23 @@ Les cantons mettent en œuvre le système de réduction des primes pour les enfa
 
 Les fédérations des fournisseurs de prestations et des assureurs soumettent pour approbation au Conseil fédéral les conventions de qualité, pour la première fois, un an après l’entrée en vigueur de la modification du 21 juin 2019.
 
+## Dispositions transitoires relatives à la modification du 19 juin 2020****
+
+[^u17-1]
+
+[^u17-1]: [RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)
+
+<sup>1</sup> Les réglementations cantonales en matière de limitation des admissions à pratiquer à la charge de l’assurance obligatoire des soins doivent être adaptées dans un délai de deux ans à compter de l’entrée en vigueur de la modification du 19 juin 2020. L’ancien droit régissant la limitation de l’admission à pratiquer à la charge de l’assurance obligatoire des soins reste applicable jusqu’à l’adaptation des réglementations cantonales concernées, mais pendant deux ans au plus.
+
+<sup>2...</sup>[^u17-2]
+
+[^u17-2]: Entre en vigueur le 1<sup>er</sup> janvier 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+
 Annexe
 
 ## Abrogation et modification de lois fédérales
 
-### 1. La loi fédérale du 13 juin 1911 sur l’assurance-maladie est abrogée.
+### 1. La loi fédérale du 13 juin 1911 sur l’assurance-maladie**** est abrogée.
 
 [^annexu1-lvlu1-lvl1-1]
 

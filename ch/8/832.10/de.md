@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2021-04-01
+version: 2021-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. April 2021) (Stand am 1. April 2021)
+vom 18. März 1994 (Stand am 1. Juli 2021) (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1080,24 +1080,36 @@ Zuständig ist:
 
 #### Art. 55a
 
-**Einschränkung der Zulassung zur Tätigkeit zulasten der Krankenversicherung**[^55a-1]
+**Beschränkung der Anzahl Ärzte und Ärztinnen, die im ambulanten Bereich Leistungen erbringen**[^55a-1]
 
 <sup>1</sup>
 
-Der Bundesrat kann die Zulassung von folgenden Personen zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung von einem Bedürfnis abhängig machen:
+Die Kantone beschränken in einem oder mehreren medizinischen Fachgebieten oder in bestimmten Regionen die Anzahl der Ärzte und Ärztinnen, die im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung Leistungen erbringen. Wenn ein Kanton die Anzahl Ärzte und Ärztinnen beschränkt, dann sieht er vor:
 
-- a. Ärztinnen und Ärzte nach Artikel 36, ob sie nun ihre Tätigkeit selbstständig oder unselbstständig ausüben;
-- b. Ärztinnen und Ärzte, die ihre Tätigkeit in Einrichtungen nach Artikel 36a oder im ambulanten Bereich von Spitälern nach Artikel 39 ausüben.
+- a. dass Ärzte und Ärztinnen nur zugelassen werden, solange die entsprechende Höchstzahl nicht erreicht ist;
+- b.
 
-<sup>2</sup> Kein Bedürfnisnachweis ist erforderlich für Personen, welche mindestens drei Jahre an einer anerkannten schweizerischen Weiterbildungsstätte gearbeitet haben.
+  dass die Anzahl folgender Ärzte und Ärztinnen auf die entsprechende Höchstzahl beschränkt ist:
 
-<sup>3</sup> Der Bundesrat legt die Kriterien fest, die für den Bedürfnisnachweis massgeblich sind; vorgängig hört er die Kantone sowie die Verbände der Leistungserbringer, der Versicherer sowie der Patientinnen und Patienten an.
+  - 1\. Ärzte und Ärztinnen, die ihre Tätigkeit im ambulanten Bereich eines Spitals ausüben,
+  - 2\. Ärzte und Ärztinnen, die ihre Tätigkeit in einer Einrichtung nach Artikel 35 Absatz 2 Buchstabe n ausüben.
 
-<sup>4</sup> Die Kantone bestimmen die Personen nach Absatz 1. Sie können deren Zulassung an Bedingungen knüpfen.
+<sup>2</sup> Der Bundesrat legt die Kriterien und die methodischen Grundsätze für die Festlegung der Höchstzahlen fest. Dabei berücksichtigt er insbesondere die interkantonalen Patientenströme, die Versorgungsregionen und die generelle Entwicklung des Beschäftigungsgrades der Ärzte und Ärztinnen.
 
-<sup>5</sup> Eine Zulassung verfällt, wenn nicht innert einer bestimmten Frist von ihr Gebrauch gemacht wird, ausser wenn die Frist aus berechtigten Gründen wie Krankheit, Mutterschaft oder Weiterbildung nicht eingehalten werden kann. Der Bundesrat legt die Frist fest.
+<sup>3</sup> Vor der Festlegung der Höchstzahlen hört der Kanton die Verbände der Leistungserbringer, der Versicherer und der Versicherten an. Er koordiniert sich bei der Festlegung der Höchstzahlen mit den anderen Kantonen.
 
-[^55a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Fassung gemäss Ziff. I des BG vom 14. Dez. 2018, in Kraft vom 1. Juli 2019 bis zum 30. Juni 2021 ([AS 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [BBl 2018 6357](https://fedlex.data.admin.ch/eli/fga/2018/2239)[6741](https://fedlex.data.admin.ch/eli/fga/2018/2378)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+<sup>4</sup> Die Leistungserbringer und deren Verbände sowie die Versicherer und deren Verbände geben den zuständigen kantonalen Behörden auf Anfrage kostenlos die Daten bekannt, die zusätzlich zu den nach Artikel 59*a* erhobenen Daten zur Festlegung der Höchstzahlen erforderlich sind.
+
+<sup>5</sup>
+
+Werden in einem Kanton die Zulassungen beschränkt, so können folgende Ärzte und Ärztinnen weiterhin tätig sein:
+
+- a. Ärzte und Ärztinnen, die vor Inkrafttreten der Höchstzahlen zugelassen wurden und im ambulanten Bereich Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbracht haben;
+- b. Ärzte und Ärztinnen, die ihre Tätigkeit im ambulanten Bereich eines Spitals oder in einer Einrichtung nach Artikel 35 Absatz 2 Buchstabe n vor Inkrafttreten der Höchstzahlen ausgeübt haben, sofern sie ihre Tätigkeit im ambulanten Bereich des gleichen Spitals oder in der gleichen Einrichtung weiter ausüben.
+
+<sup>6</sup> Steigen die jährlichen Kosten je versicherte Person in einem Fachgebiet in einem Kanton mehr als die jährlichen Kosten der anderen Fachgebiete im selben Kanton oder mehr als die jährlichen Kosten des gesamtschweizerischen Durchschnitts im betroffenen Fachgebiet an, so kann der Kanton vorsehen, dass kein Arzt und keine Ärztin im betroffenen Fachgebiet eine Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung neu aufnehmen kann.
+
+[^55a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2000 ([AS 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); BBl **1999** 793). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Juli 2021 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 
 ### 6. Abschnitt: Kontrolle der Wirtschaftlichkeit und der Qualität der Leistungen
 
@@ -2354,10 +2366,6 @@ Die Kantone setzen das in Artikel 65 Absatz 1<sup>bis</sup> festgelegte System d
 
 [^u15-1]: [AS 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [BBl 2018 6357](https://fedlex.data.admin.ch/eli/fga/2018/2239)[6741](https://fedlex.data.admin.ch/eli/fga/2018/2378). In Kraft bis 30. Juni 2021.
 
-<sup>1</sup> Kein Bedürfnisnachweis ist erforderlich für Ärztinnen und Ärzte, die vor Inkrafttreten der Änderung vom 14. Dezember 2018 nach Artikel 36 zugelassen wurden und in eigener Praxis zulasten der obligatorischen Krankenpflegeversicherung tätig waren.
-
-<sup>2</sup> Ärztinnen und Ärzte, die vor Inkrafttreten dieser Änderung ihre Tätigkeit in einer Einrichtung nach Artikel 36*a* oder im ambulanten Bereich eines Spitals nach Artikel 39 ausgeübt haben, müssen den Bedürfnisnachweis nicht erbringen, wenn sie ihre Tätigkeit in der gleichen Einrichtung oder im ambulanten Bereich des gleichen Spitals weiter ausüben.
-
 ## Übergangsbestimmung zur Änderung vom 21. Juni 2019****
 
 [^u16-1]
@@ -2365,6 +2373,18 @@ Die Kantone setzen das in Artikel 65 Absatz 1<sup>bis</sup> festgelegte System d
 [^u16-1]: [AS 2021 151](https://fedlex.data.admin.ch/eli/oc/2021/151); [BBl 2016 257](https://fedlex.data.admin.ch/eli/fga/2016/65)
 
 Die Verbände der Leistungserbringer und der Versicherer müssen dem Bundesrat die Verträge über die Qualitätsentwicklung erstmalig ein Jahr nach Inkrafttreten der Änderung vom 21. Juni 2019 zur Genehmigung einreichen.
+
+## Übergangsbestimmungen zur Änderung vom 19. Juni 2020****
+
+[^u17-1]
+
+[^u17-1]: [AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)
+
+<sup>1</sup> Die kantonalen Regelungen zur Einschränkung der Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung sind innerhalb von zwei Jahren nach Inkrafttreten der Änderung 19. Juni 2020 anzupassen. Bis die kantonale Regelung angepasst ist, längstens aber während zweier Jahre, gilt für die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung im jeweiligen Kanton das bisherige Recht.
+
+<sup>2</sup> ...[^u17-2]
+
+[^u17-2]: Tritt am 1. Jan. 2022 in Kraft ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413)).
 
 Anhang
 

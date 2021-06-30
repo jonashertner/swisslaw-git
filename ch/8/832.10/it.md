@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2021-04-01
+version: 2021-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20210401/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 18 marzo 1994 (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -33,7 +33,7 @@ decreta:
 
 [^tit1-1]
 
-[^tit1-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^tit1-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 
 #### Art. 1
 
@@ -60,7 +60,7 @@ Esse non sono applicabili ai seguenti settori:
 
 [^tit1a-1]
 
-[^tit1a-1]: Introdotto dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^tit1a-1]: Introdotto dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 
 #### Art. 1a
 
@@ -82,7 +82,7 @@ L’assicurazione sociale malattie accorda prestazioni in caso di:
 
 [^2-1]
 
-[^2-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^2-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 
 ## Titolo 2: Assicurazione obbligatoria delle cure medico-sanitarie
 
@@ -109,7 +109,7 @@ Può estendere l’obbligo d’assicurazione a persone non aventi il domicilio i
 
 [^3-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^3-2]: Nuovo testo giusta l’all. n. II 11 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^3-3]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^3-3]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
 [^3-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^3-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^3-6]: Introdotto dal n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
@@ -125,7 +125,7 @@ Le persone tenute ad assicurarsi possono scegliere liberamente tra gli assicurat
 
 #### Art. 4a
 
-**Scelta dell’assicuratore per i familiari tenuti ad assicurarsie residenti in uno Stato membro dell’Unione europea[^4a-2], in Islanda o in Norvegia**[^4a-1]
+**Scelta dell’assicuratore per i familiari tenuti ad assicurarsi e residenti in uno Stato membro dell’Unione europea[^4a-2], in Islanda o in Norvegia**[^4a-1]
 
 Sono assicurati presso lo stesso assicuratore:
 
@@ -163,7 +163,7 @@ Sono assicurati presso lo stesso assicuratore:
 I Cantoni informano circa l’obbligo di assicurazione:
 
 - a. le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che sono tenute ad assicurarsi in virtù di un’attività lucrativa esercitata in Svizzera;
-- b. le persone che risiedono in uno Stato membro delll’Unione europea, in Islanda o in Norvegia e che sono tenute ad assicurarsi poiché percepiscono una prestazione dell’assicurazione svizzera contro la disoccupazione;
+- b. le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che sono tenute ad assicurarsi poiché percepiscono una prestazione dell’assicurazione svizzera contro la disoccupazione;
 - c. le persone tenute ad assicurarsi poiché percepiscono una rendita svizzera e che trasferiscono la loro residenza in uno Stato membro dell’Unione europea, in Islanda o in Norvegia.[^6a-3]
 
 <sup>2</sup> L’informazione secondo il capoverso 1 vale automaticamente per i familiari residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia.[^6a-4]
@@ -946,7 +946,7 @@ Le remunerazioni di cui al capoverso 1 non comprendono le participazioni ai cost
 
 <sup>8</sup> In collaborazione con i Cantoni, il Consiglio federale ordina comparazioni tra ospedali a livello svizzero in particolare sui costi e la qualità dei risultati medici. Gli ospedali e i Cantoni devono fornire a tal fine i documenti necessari. Il Consiglio federale pubblica le comparazioni tra ospedali.
 
-[^49-1]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^49-1]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 [^49-2]: Nuovo testo giusta il n. I 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
 [^49-3]: Vedi anche il cpv. 1 delle disp. fin. della mod. del 22 ott. 2008 dell’O sull’assicurazione malattie ([RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)).
 
@@ -1083,24 +1083,36 @@ La procedura di ricorso è retta dalla legge del 17 giugno 2005[^53-2] sul Tribu
 
 #### Art. 55a
 
-**Limitazione dell’autorizzazione a esercitare a carico dell’assicurazione malattie**[^55a-1]
+**Limitazione del numero di medici che forniscono prestazioni nel settore ambulatoriale**[^55a-1]
 
 <sup>1</sup>
 
-Il Consiglio federale può far dipendere dall’esistenza di un bisogno l’autorizzazione a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie delle persone seguenti:
+I Cantoni limitano, in uno o più campi di specializzazione medica o in determinate regioni, il numero di medici che forniscono prestazioni nel settore ambulatoriale a carico dell’assicurazione obbligatoria delle cure medico-sanitarie. Il Cantone che limita il numero di medici prevede che:
 
-- a. i medici di cui all’articolo 36 che esercitano un’attività dipendente o indipendente;
-- b. i medici che esercitano in istituti di cui all’articolo 36*a* o nel settore ambulatoriale degli ospedali di cui all’articolo 39.
+- a. i medici siano autorizzati soltanto fino al raggiungimento del relativo numero massimo;
+- b.
 
-<sup>2</sup> Non è subordinata all’esistenza di un bisogno l’autorizzazione delle persone che hanno esercitato per almeno tre anni in un centro svizzero di perfezionamento riconosciuto.
+  il numero massimo sia applicato soltanto ai seguenti medici:
 
-<sup>3</sup> Il Consiglio federale fissa i criteri che permettono di stabilire l’esistenza di un bisogno dopo aver sentito i Cantoni, le federazioni dei fornitori di prestazioni, le federazioni degli assicuratori e le associazioni dei pazienti.
+  - 1\. medici che esercitano nel settore ambulatoriale di un ospedale,
+  - 2\. medici che esercitano in istituti di cui all’articolo 35 capoverso 2 lettera n.
 
-<sup>4</sup> I Cantoni designano le persone di cui al capoverso 1. Possono subordinare la loro autorizzazione a condizioni.
+<sup>2</sup> Il Consiglio federale fissa i criteri e i principi metodologici per determinare i numeri massimi. Tiene conto in particolare dei flussi di pazienti tra Cantoni e delle regioni di erogazione dei servizi sanitari, nonché dell’evoluzione generale dei tassi d’occupazione dei medici.
 
-<sup>5</sup> L’autorizzazione decade se il suo titolare non la utilizza entro un dato termine, salvo in caso di motivi giustificati quali malattia, maternità o perfezionamento. Il Consiglio federale fissa il termine applicabile.
+<sup>3</sup> Prima di determinare i numeri massimi il Cantone sente le federazioni dei fornitori di prestazioni, degli assicuratori e degli assicurati. Per determinare i numeri massimi si coordina con gli altri Cantoni.
 
-[^55a-1]: Introdotto dal n. I della LF del 24 mar. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Nuovo testo giusta il n. I della LF del 14 dic. 2018, in vigore dal 1° lug. 2019 ([RU 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [FF 2018 5389](https://fedlex.data.admin.ch/eli/fga/2018/2239)[5691](https://fedlex.data.admin.ch/eli/fga/2018/2378)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+<sup>4</sup> I fornitori di prestazioni, gli assicuratori e le loro rispettive federazioni comunicano gratuitamente alle autorità cantonali competenti che li richiedono i dati necessari a determinare i numeri massimi, oltre ai dati rilevati secondo l’articolo 59*a*.
+
+<sup>5</sup>
+
+In caso di limitazione delle autorizzazioni in un Cantone, possono continuare a esercitare i medici:
+
+- a. che sono stati autorizzati e hanno fornito prestazioni nel settore ambulatoriale a carico dell’assicurazione obbligatoria delle cure medico-sanitarie prima dell’entrata in vigore dei numeri massimi;
+- b. che esercitavano nel settore ambulatoriale di un ospedale o in un istituto di cui all’articolo 35 capoverso 2 lettera n prima dell’entrata in vigore dei numeri massimi, se continuano a esercitare la propria attività nel settore ambulatoriale dello stesso ospedale o nello stesso istituto.
+
+<sup>6</sup> Se in un Cantone i costi annui per assicurato in un campo di specializzazione aumentano più dei costi annui degli altri campi di specializzazione di tale Cantone o più della media nazionale dei costi annui nel campo di specializzazione interessato, il Cantone può prevedere che non siano più rilasciate nuove autorizzazioni a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie in questo campo di specializzazione.
+
+[^55a-1]: Introdotto dal n. I della LF del 24 mar. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Autorizzazione dei fornitori di prestazioni), in vigore dal 1° lug. 2021 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 
 ### Sezione 6: Controllo dell’economicità e della qualità delle prestazioni
 
@@ -1697,7 +1709,7 @@ Il nuovo assicuratore non può formulare nuove riserve se l’assicurato cambia 
 
 [^75-1]
 
-[^75-1]: Abrogato dall’all. n. 11 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^75-1]: Abrogato dall’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
 #### Art. 76
 
@@ -1796,7 +1808,7 @@ Il diritto di regresso secondo l’articolo 72 LPGA[^79a-2] si applica per analo
 
 **Assistenza amministrativa e giudiziaria particolare**[^82-1]
 
-In deroga all’articolo 33 LPGA[^82-2], su richiesta, gli assicuratori forniscono gratuitamente alle autorità competenti le informazioni e i documenti necessari per: [^82-3]
+In deroga all’articolo 33 LPGA[^82-2], su richiesta, gli assicuratori forniscono gratuitamente alle autorità competenti le informazioni e i documenti necessari per:[^82-3]
 
 - a.[^82-4] esercitare il diritto di regresso sancito dall’articolo 79*a*;
 - b. stabilire la riduzione dei premi.
@@ -1901,12 +1913,12 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 [^84a-6]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^84a-7]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 [^84a-8]: Nuovo testo giusta il n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84a-9]: Introdotta dall’all. n. 11 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 17 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^84a-9]: Introdotta dall’all. n. 11 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 17 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^84a-10]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^84a-11]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^84a-12]: Introdotto dall’all. n. 28 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^84a-13]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^84a-14]: Introdotto dall’all. n. 11 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. n. II 17 della lla LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^84a-14]: Introdotto dall’all. n. 11 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. n. II 17 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^84a-15]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^84a-16]: Abrogato dal n. I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^84a-17]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
@@ -1928,7 +1940,7 @@ Gli assicuratori prendono i necessari provvedimenti tecnici e organizzativi per 
 
 L’assicuratore non può subordinare la notifica della decisione su opposizione all’esaurimento di eventuali procedure interne di ricorso.
 
-[^85-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
+[^85-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^85-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 86
@@ -1937,7 +1949,7 @@ L’assicuratore non può subordinare la notifica della decisione su opposizione
 
 L’assicuratore non può subordinare il diritto dell’assicurato di adire il tribunale cantonale delle assicurazioni all’esaurimento di eventuali procedure interne di ricorso.
 
-[^86-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
+[^86-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^86-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 87
@@ -1946,13 +1958,13 @@ L’assicuratore non può subordinare il diritto dell’assicurato di adire il t
 
 In caso di controversie tra assicuratori, è competente il tribunale delle assicurazioni del Cantone ove ha sede l’assicuratore convenuto.
 
-[^87-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
+[^87-1]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 88
 
 [^88-1]
 
-[^88-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
+[^88-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 89
 
@@ -1974,7 +1986,7 @@ In caso di controversie tra assicuratori, è competente il tribunale delle assic
 
 [^90-1]
 
-[^90-1]: Abrogato dall’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^90-1]: Abrogato dall’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 90a
 
@@ -1984,7 +1996,7 @@ In caso di controversie tra assicuratori, è competente il tribunale delle assic
 
 <sup>2</sup> Il Tribunale amministrativo federale giudica i ricorsi contro le decisioni del governo cantonale secondo l’articolo 53.[^90a-3]
 
-[^90a-1]: Introdotto dal n. I della LF del 6 ott. 2000 ([RU 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3537](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nuovo testo giusta l’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^90a-1]: Introdotto dal n. I della LF del 6 ott. 2000 ([RU 2002 858](https://fedlex.data.admin.ch/eli/oc/2002/151); [FF 2000 3537](https://fedlex.data.admin.ch/eli/fga/2000/875)). Nuovo testo giusta l’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^90a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^90a-3]: Introdotto dal n. I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
@@ -1994,7 +2006,7 @@ In caso di controversie tra assicuratori, è competente il tribunale delle assic
 
 Contro le sentenze del tribunale arbitrale cantonale può essere interposto ricorso al Tribunale federale secondo la legge del 17 giugno 2005[^91-2] sul Tribunale federale.
 
-[^91-1]: Nuovo testo giusta l’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^91-1]: Nuovo testo giusta l’all. n. 110 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^91-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 #### Art. 92
@@ -2017,7 +2029,7 @@ Contro le sentenze del tribunale arbitrale cantonale può essere interposto rico
 [^92-3]: Abrogata dall’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^92-4]: Introdotta dall’all. n. II 8 della LF del 15 dic. 2000 sugli agenti terapeutici, in vigore dal 1° gen. 2002 ([RU 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); FF **1999** 2959).
 [^92-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^92-6]: Introdotto dall’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^92-6]: Introdotto dall’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 #### Art. 93
 
@@ -2041,7 +2053,7 @@ Contro le sentenze del tribunale arbitrale cantonale può essere interposto rico
 
 [^95-1]
 
-[^95-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178, 766, **1994** V 897; **1999** 3896).
+[^95-1]: Abrogato dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 ## Titolo 6:**** Relazione con il diritto europeo
 
@@ -2080,7 +2092,7 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 [^95a-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^95a-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
 [^95a-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
-[^95a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540); [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605); [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113), [4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
+[^95a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^95a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 ## Titolo 7:**** Disposizioni finali
@@ -2185,7 +2197,7 @@ Il Consiglio federale è incaricato dell’esecuzione della presente legge. Esso
 
 [^104a-1]
 
-[^104a-1]: Introdotto dal n. I della LF del 24 mar. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Abrogato dal n. I 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, con effetto dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432), [6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^104a-1]: Introdotto dal n. I della LF del 24 mar. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Abrogato n. I 3 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, con effetto dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
 
 #### Art. 105
 
@@ -2243,19 +2255,19 @@ Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv
 
 [^u2-1]
 
-[^u2-1]: [RU 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [FF 2004 3803](https://fedlex.data.admin.ch/eli/fga/2004/706). Abrogata dal n. I della LF del 20 dic. 2006 (Tariffe delle cure), con effetto dal 21 dic. 2006 ([RU 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855); [2007 385](https://fedlex.data.admin.ch/eli/oc/2007/74); [FF 2006 6925](https://fedlex.data.admin.ch/eli/fga/2006/922), [6933](https://fedlex.data.admin.ch/eli/fga/2006/924)).
+[^u2-1]: [RU 2004 4375](https://fedlex.data.admin.ch/eli/oc/2004/666); [FF 2004 3803](https://fedlex.data.admin.ch/eli/fga/2004/706). Abrogata dal n. I della LF del 20 dic. 2006 (Tariffe delle cure), con effetto dal 21 dic. 2006 ([RU 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855), [2007 385](https://fedlex.data.admin.ch/eli/oc/2007/74); [FF 2006 6925](https://fedlex.data.admin.ch/eli/fga/2006/922)[6933](https://fedlex.data.admin.ch/eli/fga/2006/924)).
 
-## Disposizione finale della modifica del 18 marzo 2005 (riduzione dei premi)
+## Disposizione finale della modifica del 18 marzo 2005 (riduzione dei premi)****
 
 [^u3-1]
 
-[^u3-1]: [RU 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 3869](https://fedlex.data.admin.ch/eli/fga/2004/711). Abrogata dal n. I della LF del 17 mar. 2017, con effetto dal 1° gen. 2019 ([RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); FF **2016** [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
+[^u3-1]: [RU 2005 3587](https://fedlex.data.admin.ch/eli/oc/2005/523); [FF 2004 3869](https://fedlex.data.admin.ch/eli/fga/2004/711). Abrogata dal n. I della LF del 17 mar. 2017, con effetto dal 1° gen. 2019 ([RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); FF **2016** [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 
 ## Disposizioni transitorie della modifica del 20 dicembre 2006 (tariffe delle cure)****
 
 [^u4-1]
 
-[^u4-1]: [RU 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855), [2007 385](https://fedlex.data.admin.ch/eli/oc/2007/74); [FF 2006 6925](https://fedlex.data.admin.ch/eli/fga/2006/922), [6933](https://fedlex.data.admin.ch/eli/fga/2006/924). In vigore fino al 31 dic. 2008.
+[^u4-1]: [RU 2006 5767](https://fedlex.data.admin.ch/eli/oc/2006/855), [2007 385](https://fedlex.data.admin.ch/eli/oc/2007/74); [FF 2006 6925](https://fedlex.data.admin.ch/eli/fga/2006/922)[6933](https://fedlex.data.admin.ch/eli/fga/2006/924). In vigore fino al 31 dic. 2008.
 
 ## Disposizioni transitorie relative alla modifica del 21 dicembre 2007 (finanziamento ospedaliero)****
 
@@ -2282,13 +2294,13 @@ Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv
 
 [^u6-1]
 
-[^u6-1]: [RU 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024). Abrogate dal n. I della LF del 21 mar. 2014, con effetto dal 1° gen. 2017 ([RU 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [FF 2013 6733](https://fedlex.data.admin.ch/eli/fga/2013/1479), [7221](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
+[^u6-1]: [RU 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024). Abrogate dal n. I della LF del 21 mar. 2014, con effetto dal 1° gen. 2017 ([RU 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580); [FF 2013 6733](https://fedlex.data.admin.ch/eli/fga/2013/1479)[7221](https://fedlex.data.admin.ch/eli/fga/2013/1634)).
 
 ## Disposizioni transitorie alla modifica del 13 giugno 2008****
 
 [^u7-1]
 
-[^u7-1]: [RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432), [6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)
+[^u7-1]: [RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)
 
 <sup>1</sup> I contributi alle cure conformemente all’articolo 25*a* capoverso 1 sono fissati la prima volta in modo da corrispondere alla somma delle retribuzioni per le cure dispensate ambulatoriamente e in casa di cura nell’anno precedente l’entrata in vigore. Se questa regola non può essere rispettata nel primo anno dopo l’entrata in vigore della presente modifica, il Consiglio federale procede agli adeguamenti necessari negli anni successivi.
 
@@ -2298,13 +2310,13 @@ Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv
 
 [^u8-1]
 
-[^u8-1]: [RU 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [FF 2009 2867](https://fedlex.data.admin.ch/eli/fga/2009/650), [2877](https://fedlex.data.admin.ch/eli/fga/2009/652). In vigore fino al 31 dic. 2011.
+[^u8-1]: [RU 2009 5265](https://fedlex.data.admin.ch/eli/oc/2009/618); [FF 2009 2867](https://fedlex.data.admin.ch/eli/fga/2009/650)[2877](https://fedlex.data.admin.ch/eli/fga/2009/652). In vigore fino al 31 dic. 2011.
 
 ## Disposizioni transitorie della modifica del 19 marzo 2010****
 
 [^u9-1]
 
-[^u9-1]: [RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165), [5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)
+[^u9-1]: [RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)
 
 <sup>2</sup> Se il Cantone non assume i premi e le partecipazioni ai costi in arretrato scaduti al momento dell’entrata in vigore della presente modifica per i quali è stato rilasciato un attestato di carenza di beni o un titolo equivalente, la sospensione delle assunzioni dei costi delle prestazioni conformemente al diritto anteriore è mantenuta e le prestazioni fornite sino all’entrata in vigore della presente modifica non sono rimborsate. Non appena l’assicurato ha pagato integralmente i premi e le partecipazioni ai costi in arretrato, nonché gli interessi di mora e le spese di esecuzione, l’assicuratore assume i costi delle prestazioni fornite.
 
@@ -2319,7 +2331,7 @@ Data dell’entrata in vigore: 1° gennaio 1996[^107-1] art. 11 a 14, 18, 61 cpv
 
 [^u10-1]
 
-[^u10-1]: [RU 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [FF 2011 2301](https://fedlex.data.admin.ch/eli/fga/2011/341), [2311](https://fedlex.data.admin.ch/eli/fga/2011/343)
+[^u10-1]: [RU 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [FF 2011 2301](https://fedlex.data.admin.ch/eli/fga/2011/341)[2311](https://fedlex.data.admin.ch/eli/fga/2011/343)
 
 Per i fornitori di prestazioni ai sensi dell’articolo 35 capoverso 2 lettera a, il Consiglio federale stabilisce il metodo di controllo dell’economicità delle prestazioni di cui all’articolo 56 capoverso 6 se, entro 12 mesi dall’entrata in vigore della presente modifica, gli assicuratori e i fornitori di prestazioni non hanno convenuto un metodo mediante contratto.
 
@@ -2343,13 +2355,13 @@ Per i fornitori di prestazioni ai sensi dell’articolo 35 capoverso 2 lettera a
 
 [^u13-1]
 
-[^u13-1]: [RU 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [FF 2016 3099](https://fedlex.data.admin.ch/eli/fga/2016/647), [3109](https://fedlex.data.admin.ch/eli/fga/2016/649). In vigore fino al 30 giu. 2019.
+[^u13-1]: [RU 2016 2265](https://fedlex.data.admin.ch/eli/oc/2016/361); [FF 2016 3099](https://fedlex.data.admin.ch/eli/fga/2016/647)[3109](https://fedlex.data.admin.ch/eli/fga/2016/649). In vigore fino al 30 giu. 2019.
 
 ## Disposizione transitoria della modifica del 17 marzo 2017****
 
 [^u14-1]
 
-[^u14-1]: [RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540), [7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)
+[^u14-1]: [RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)
 
 I Cantoni attuano il sistema di riduzione dei premi per i minorenni previsto nell’articolo 65 capoverso 1<sup>bis</sup> entro due anni dall’entrata in vigore della modifica del 17 marzo 2017.
 
@@ -2357,11 +2369,7 @@ I Cantoni attuano il sistema di riduzione dei premi per i minorenni previsto nel
 
 [^u15-1]
 
-[^u15-1]: [RU 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [FF 2018 5389](https://fedlex.data.admin.ch/eli/fga/2018/2239), [5691](https://fedlex.data.admin.ch/eli/fga/2018/2378). In vigore fino al 30 giu. 2021.
-
-<sup>1</sup> Non è subordinata all’esistenza di un bisogno l’autorizzazione dei medici che sono stati autorizzati secondo l’articolo 36 e hanno esercitato nel proprio studio a carico dell’assicurazione obbligatoria delle cure medico-sanitarie prima dell’entrata in vigore della modifica del 14 dicembre 2018.
-
-<sup>2</sup> Non è subordinata all’esistenza di un bisogno l’autorizzazione dei medici che hanno esercitato in un istituto di cui all’articolo 36*a* o nel settore ambulatoriale di un ospedale di cui all’articolo 39 prima dell’entrata in vigore della presente modifica, sempreché continuino a esercitare nello stesso istituto o nel settore ambulatoriale dello stesso ospedale.
+[^u15-1]: [RU 2019 1211](https://fedlex.data.admin.ch/eli/oc/2019/226); [FF 2018 5389](https://fedlex.data.admin.ch/eli/fga/2018/2239)[5691](https://fedlex.data.admin.ch/eli/fga/2018/2378). In vigore fino dal 30 giu. 2021 al 30 giu. 2021.
 
 ## Disposizione transitoria della modifica del 21 giugno 2019****
 
@@ -2371,6 +2379,18 @@ I Cantoni attuano il sistema di riduzione dei premi per i minorenni previsto nel
 
 Le federazioni dei fornitori di prestazioni e degli assicuratori sottopongono al Consiglio federale per approvazione le convenzioni sulla qualità la prima volta un anno dopo l’entrata in vigore della modifica del 21 giugno 2019.
 
+## Disposizioni transitorie della modifica del 19 giugno 2020****
+
+[^u17-1]
+
+[^u17-1]: [RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)
+
+<sup>1</sup> Le normative cantonali in materia di limitazione delle autorizzazioni a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie devono essere adeguate entro due anni dall’entrata in vigore della presente modifica. Fintanto che le normative cantonali non sono adeguate, ma al massimo per due anni, l’autorizzazione a esercitare a carico dell’assicurazione obbligatoria delle cure medico-sanitarie è disciplinata secondo il diritto anteriore.
+
+<sup>2</sup> ...[^u17-2]
+
+[^u17-2]: In vigore dal 1° gen. 2022 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
+
 Allegato
 
 ## Abrogazione e modifica di leggi federali
@@ -2379,7 +2399,7 @@ Allegato
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [CS **8** 273; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)n. II art. 6 n. 2;[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611; [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)all. n. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114;[1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
+[^annexu1-lvlu1-lvl1-1]: [CS **8** 273; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)n. II art. 6 n. 2,[1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)all. n. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114,[1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
 
 ### 2. a 6.
 
