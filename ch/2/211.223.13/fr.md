@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2016 sur les mesures de coercition à des
 short: LMCFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: fr
-version: 2020-11-01
+version: 2021-07-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-145-20201101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-145-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20201101/fr"
 
 (LMCFA)
 
-du 30 septembre 2016 (Etat le 1<sup>er</sup> novembre 2020)
+du 30 septembre 2016 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -100,13 +100,14 @@ Au surplus, sont applicables les règles suivantes:
 
 - a. en droit fiscal, la contribution de solidarité est assimilée aux versements à titre de réparation du tort moral au sens de l’art. 24, let. g, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^4-1] et de l’art. 7, al. 4, let. i, de la loi fédérale du 14 décembre 1990 sur l’harmonisation des impôts directs des cantons et des communes[^4-2];
 - b. en droit de la poursuite, elle est assimilée aux indemnités versées à titre de réparation morale au sens de l’art. 92, al. 1, ch. 9, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^4-3];
-- c.[^4-4] elle n’entraîne aucune réduction des prestations de l’aide sociale ni des prestations au sens de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^4-5].
+- c.[^4-4] elle n’entraîne aucune réduction des prestations de l’aide sociale, des prestations au sens de la loi du 6 octobre 2006 sur les prestations complémentaires (LPC)[^4-5] ni des prestations au sens de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^4-6].
 
 [^4-1]: RS **642****.****11**
 [^4-2]: RS **6****4****2.14**
 [^4-3]: RS **281****.****1**
-[^4-4]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 2019 (Octroi de prestations complémentaires aux victimes), en vigueur depuis le 1<sup>er</sup> mai 2020 ([RO 2020 1267](https://fedlex.data.admin.ch/eli/oc/2020/242); [FF 2019 7651](https://fedlex.data.admin.ch/eli/fga/2019/2754)[7761](https://fedlex.data.admin.ch/eli/fga/2019/2803)).
+[^4-4]: Nouvelle teneur selon l’annexe ch.1 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^4-5]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^4-6]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 #### Art. 5
 

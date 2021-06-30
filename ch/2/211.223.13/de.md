@@ -4,11 +4,11 @@ title: Bundesgesetz vom 30. September 2016 über die Aufarbeitung der fürsorger
 short: AFZFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/145"
 language: de
-version: 2020-11-01
+version: 2021-07-01
 adopted: 2016-09-30
 in_force: 2017-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20201101/de/xml/fedlex-data-admin-ch-eli-cc-2017-145-20201101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/145/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2017-145-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/145/20201101/de"
 
 (AFZFG)
 
-vom 30. September 2016 (Stand am 1. November 2020)
+vom 30. September 2016 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -100,13 +100,14 @@ Für den Solidaritätsbeitrag gilt überdies Folgendes:
 
 - a. Der Beitrag wird steuerrechtlich Genugtuungssummen nach Artikel 24 Buchstabe g des Bundesgesetzes vom 14. Dezember 1990[^4-1] über die direkte Bundessteuer und nach Artikel 7 Absatz 4 Buchstabe i des Bundesgesetzes vom 14. Dezember 1990[^4-2] über die Harmonisierung der direkten Steuern der Kantone und Gemeinden gleichgestellt.
 - b. Er wird schuldbetreibungsrechtlich den Genugtuungsleistungen nach Artikel 92 Absatz 1 Ziffer 9 des Bundesgesetzes vom 11. April 1889[^4-3] über Schuldbetreibung und Konkurs gleichgestellt.
-- c.[^4-4] Er führt nicht zu einer Reduktion von Leistungen der Sozialhilfe und von Leistungen gemäss dem Bundesgesetz vom 6. Oktober 2006[^4-5] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG).
+- c.[^4-4] Er führt nicht zu einer Reduktion von Leistungen der Sozialhilfe, von Leistungen gemäss dem Bundesgesetz vom 6. Oktober 2006[^4-5] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) sowie von Leistungen gemäss dem Bundesgesetz vom 19. Juni 2020[^4-6] über Überbrückungsleistungen für ältere Arbeitslose.
 
 [^4-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^4-2]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 [^4-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^4-4]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2019 (Gewährleistung der Ergänzungsleistungen an die Opfer), in Kraft seit 1. Mai 2020 ([AS 2020 1267](https://fedlex.data.admin.ch/eli/oc/2020/242); [BBl 2019 8081](https://fedlex.data.admin.ch/eli/fga/2019/2754)[8203](https://fedlex.data.admin.ch/eli/fga/2019/2803)).
+[^4-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^4-5]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^4-6]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 #### Art. 5
 
@@ -357,5 +358,5 @@ Gesuche, die zwischen dem 1. April 2018 und dem Inkrafttreten der Änderung vom 
 
 Datum des Inkrafttretens: 1. April 2017[^22-2]
 
-[^22-1]: [BBl 2016 7924](https://fedlex.data.admin.ch/eli/fga/2016/1691), [2017 773](https://fedlex.data.admin.ch/eli/fga/2017/131)
+[^22-1]: [BBl 2016 7924](https://fedlex.data.admin.ch/eli/fga/2016/1691); [2017 773](https://fedlex.data.admin.ch/eli/fga/2017/131)
 [^22-2]: Siehe Art. 22 Abs. 3
