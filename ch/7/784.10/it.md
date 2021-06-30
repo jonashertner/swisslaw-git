@@ -4,11 +4,11 @@ title: Legge del 30 aprile 1997 sulle telecomunicazioni (LTC)
 short: LTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210101/it"
 
 (LTC)
 
-del 30 aprile 1997 (Stato 1° gennaio 2021)
+del 30 aprile 1997 (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -44,10 +44,10 @@ La presente legge intende in particolare:
 - a. garantire a tutte le cerchie della popolazione in tutte le parti del Paese un servizio universale di telecomunicazione affidabile e a prezzi accessibili;
 - b. assicurare un traffico delle telecomunicazioni esente da interferenze e rispettoso dei diritti della personalità e della proprietà immateriale;
 - c. rendere possibile una concorrenza efficace nella fornitura dei servizi di telecomunicazione;
-- d.[^1-1] proteggere gli utenti di servizi di telecomunicazione dalla pubblicità di massa effettuata in modo sleale e dall’abuso di servizi a valore aggiunto;
+- d.[^1-1] proteggere gli utenti di servizi di telecomunicazione dalla pubblicità sleale e dall’abuso di servizi a valore aggiunto;
 - e.[^1-2] proteggere i fanciulli e gli adolescenti dai pericoli derivanti dall’utilizzazione dei servizi di telecomunicazione.
 
-[^1-1]: Introdotta dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^1-1]: Introdotta dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^1-2]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 2
@@ -351,7 +351,7 @@ Possono trasmettere informazioni in modo differenziato se necessario per:
 
 <sup>3</sup> Il Consiglio federale può emanare disposizioni completive, in particolare sull’organizzazione e la gestione del sistema d’informazioni, sulle categorie di dati da elaborare, sull’autorizzazione d’accesso e di elaborazione, sulla durata di conservazione, nonché sull’archiviazione e la distruzione dei dati.
 
-[^13a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 (RU **2007** 921; FF **2003** 6883).
+[^13a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 13b
 
@@ -1212,14 +1212,15 @@ Le persone che sono o erano incaricate di svolgere compiti di servizio nell’am
 
 #### Art. 45a
 
-**Pubblicità di massa effettuata in modo sleale**[^45a-1]
+**Protezione dei fanciulli e degli adolescenti[^45a-2]**[^45a-1]
 
-<sup>1</sup> I fornitori di servizi di telecomunicazione lottano contro la pubblicità di massa effettuata in modo sleale (art. 3 lett. o della LF del 19 dic. 1986[^45a-2] contro la concorrenza sleale).
+<sup>1</sup> Il Consiglio federale può emanare disposizioni volte a proteggere i fanciulli e gli adolescenti dai pericoli derivanti dall’utilizzazione dei servizi di telecomunicazione. Può segnatamente obbligare i fornitori di servizi d’accesso a Internet a consigliare i loro clienti sulle possibili misure in materia di protezione dei fanciulli e degli adolescenti.[^45a-3]
 
 <sup>2</sup> Il Consiglio federale può determinare le misure di lotta appropriate e necessarie.
 
 [^45a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^45a-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^45a-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 45b
 

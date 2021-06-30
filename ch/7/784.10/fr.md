@@ -4,11 +4,11 @@ title: Loi du 30 avril 1997 sur les télécommunications (LTC)
 short: LTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210101/fr"
 
 (LTC)
 
-du 30 avril 1997 (Etat le 1<sup>er</sup> janvier 2021)
+du 30 avril 1997 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -46,10 +46,10 @@ Elle doit en particulier:
 - a. garantir qu’un service universel sûr et d’un prix abordable soit fourni à toutes les catégories de la population et dans tout le pays;
 - b. assurer que le trafic des télécommunications ne soit pas perturbé et qu’il respecte les droits de la personnalité et les droits immatériels;
 - c. permettre une concurrence efficace en matière de services de télécommunication;
-- d.[^1-1] protéger les utilisateurs des services de télécommunication contre la publicité de masse déloyale et les services à valeur ajoutée abusifs;
+- d.[^1-1] protéger les utilisateurs des services de télécommunication contre la publicité déloyale et les services à valeur ajoutée abusifs;
 - e.[^1-2] protéger les enfants et les jeunes des dangers résultant de l’utilisation des services de télécommunication.
 
-[^1-1]: Introduite par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^1-1]: Introduite par le ch. I de la L du 24 mars 2006 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^1-2]: Introduite par le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 2
@@ -78,7 +78,7 @@ Au sens de la présente loi, on entend par:
 - e<sup>bis</sup>.[^3-5] *lignes louées:* la fourniture de capacités de transmission transparentes par des liaisons de point à point;
 - e<sup>ter</sup>.[^3-6] *canalisations de câbles:* les conduites souterraines dans lesquelles sont tirées les lignes destinées à la transmission d’informations au moyen de techniques de télécommunication, y compris les chambres d’accès;
 - f.[^3-7] *ressource d’adressage:* la suite de chiffres, de lettres ou de signes ou toute autre information permettant d’identifier une personne, un processus informatique, une machine, un appareil ou une installation de télécommunication qui intervient dans une opération de télécommunication;
-- g.[^3-8] *données d’annuaire:* les indications qui identifient ou caractérisent un client au regard d’une ressource d’adressage individuelle lui ayant été attribuée et qui sont destinées à la publication d’un annuaire ou qui sont nécessaires à la fourniture d’un service de télécommunication;
+- g.[^3-8] *données d**’annuaire:* les indications qui identifient ou caractérisent un client au regard d’une ressource d’adressage individuelle lui ayant été attribuée et qui sont destinées à la publication d’un annuaire ou qui sont nécessaires à la fourniture d’un service de télécommunication;
 - h.[^3-9] *programme de radio et de télévision:* une série d’émissions au sens de l’art. 2 LRTV[^3-10].
 
 [^3-1]: Introduite par le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
@@ -341,7 +341,7 @@ Ils peuvent transmettre des informations différemment si cela est nécessaire p
 
 <sup>3</sup> Il ne peut donner d’informations sur les poursuites administratives ou pénales en cours, les publier ou les rendre accessibles en ligne, que si un intérêt public ou privé prépondérant le justifie.
 
-[^13-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 (RO **20****07** 921; [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 13a
 
@@ -480,9 +480,9 @@ Les services relevant du service universel doivent être assurés dans tout le p
 
 <sup>1</sup> La concession ne peut être transférée en tout ou en partie à un tiers qu’avec l’accord de la ComCom.
 
-[^19a-1]: Introduit par le ch. I de la L du 24 mars 2006 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+<sup>2</sup> L’art. 24*e* est applicable à la modification de la concession.
 
-### <sup>2</sup> L’art. 24*e* est applicable à la modification de la concession.
+[^19a-1]: Introduit par le ch. I de la L du 24 mars 2006 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 19b
 
@@ -546,7 +546,7 @@ Les fournisseurs du service téléphonique public collectent et tiennent à jour
 
 [^21a-1]: Introduit par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^21a-2]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^21a-3]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^21a-3]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); FF **2****017** 6185).
 [^21a-4]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 21b
@@ -965,7 +965,7 @@ Le Conseil fédéral définit les conditions dans lesquelles les autorités suiv
 [^34-1]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^34-2]: Introduit par le ch. I de la L du 24 mars 2006 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nouvelle teneur selon le ch. 2 de l'annexe à la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^34-3]: Introduit par le ch. I de la L du 24 mars 2006 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^34-4]: Introduit par l’annexe ch. II 13 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^34-4]: Introduit par l’annexe ch. II 13 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); FF **20****14** 2029).
 [^34-5]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 34a
@@ -1060,7 +1060,7 @@ Les lignes existant au moment de l’entrée en vigueur de la modification du 22
 
 <sup>2</sup> Le propriétaire qui endommage sur son propre fonds la ligne ou la canalisation de câbles d’un fournisseur de services de télécommunication est responsable du dommage si celui-ci a été causé intentionnellement ou par suite d’une négligence grave.
 
-[^37-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^37-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); FF **20****03** 7245).
 
 #### Art. 37a
 
@@ -1209,14 +1209,16 @@ Il est interdit à toute personne qui a été ou qui est chargée d’assurer un
 
 #### Art. 45a
 
-**Publicité de masse déloyale**[^45a-1]
+**Publicité déloyale[^45a-2]**[^45a-1]
 
-<sup>1</sup> Les fournisseurs de services de télécommunication luttent contre la publicité de masse déloyale au sens de l’art. 3, let. o, de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^45a-2].
+<sup>1</sup> Les fournisseurs de services de télécommunication luttent contre la publicité déloyale au sens de l’art. 3, al. 1, let. o, u et v, de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^45a-3].[^45a-4]
 
 <sup>2</sup> Le Conseil fédéral peut déterminer les mesures de lutte appropriées qui s’imposent.
 
 [^45a-1]: Introduit par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^45a-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-2]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^45a-3]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-4]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 45b
 
@@ -1501,7 +1503,7 @@ Les données collectées ou communiquées à des fins statistiques ne peuvent ê
 
 [^63-1]
 
-[^63-1]: Abrogé par l’annexe ch. 86 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^63-1]: Abrogé par l’annexe ch. 86 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 (RO **200****6** 2197 1069; [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 64
 

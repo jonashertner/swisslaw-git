@@ -4,11 +4,11 @@ title: Fernmeldegesetz vom 30. April 1997 (FMG)
 short: FMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210101/de"
 
 (FMG)
 
-vom 30. April 1997 (Stand am 1. Januar 2021)
+vom 30. April 1997 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -44,10 +44,10 @@ Es soll insbesondere:
 - a. eine zuverlässige und erschwingliche Grundversorgung mit Fernmeldediensten für alle Bevölkerungskreise in allen Landesteilen gewährleisten;
 - b. einen störungsfreien, die Persönlichkeits- und Immaterialgüterrechte achtenden Fernmeldeverkehr sicherstellen;
 - c. einen wirksamen Wettbewerb beim Erbringen von Fernmeldediensten ermöglichen;
-- d.[^1-1] die Benutzerinnen und Benutzer von Fernmeldediensten vor unlauterer Massenwerbung und vor Missbrauch durch Mehrwertdienste schützen;
+- d.[^1-1] die Benutzerinnen und Benutzer von Fernmeldediensten vor unlauterer Werbung und vor Missbrauch durch Mehrwertdienste schützen;
 - e.[^1-2] Kinder und Jugendliche vor den Gefahren, die sich aus der Nutzung der Fernmeldedienste ergeben, schützen.
 
-[^1-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^1-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Juli 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^1-2]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 2
@@ -915,7 +915,7 @@ Der Bundesrat regelt das Importieren, das Anbieten, das Bereitstellen auf dem Ma
 
 <sup>2</sup> Artikel 32*a* bleibt vorbehalten.
 
-[^32b-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^32b-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 #### Art. 33
 
@@ -1208,14 +1208,16 @@ Wer mit fernmeldedienstlichen Aufgaben betraut ist oder betraut war, darf Dritte
 
 #### Art. 45a
 
-**Unlautere Massenwerbung**[^45a-1]
+**Unlautere Werbung[^45a-2]**[^45a-1]
 
-<sup>1</sup> Die Anbieterinnen von Fernmeldediensten bekämpfen die unlautere Massenwerbung (Art. 3 Bst. o des BG vom 19. Dez. 1986[^45a-2] gegen den unlauteren Wettbewerb).
+<sup>1</sup> Die Anbieterinnen von Fernmeldediensten bekämpfen unlautere Werbung nach Artikel 3 Absatz 1 Buchstaben o, u und v des Bundesgesetzes vom 19. Dezember 1986[^45a-3] gegen den unlauteren Wettbewerb.[^45a-4]
 
 <sup>2</sup> Der Bundesrat kann die zur Bekämpfung geeigneten und erforderlichen Massnahmen bestimmen.
 
 [^45a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^45a-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Juli 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^45a-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-4]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Juli 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 45b
 

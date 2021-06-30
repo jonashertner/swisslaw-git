@@ -4,11 +4,11 @@ title: Telecommunications Act of 30 April 1997 (TCA)
 short: TCA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: en
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20210701/en/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20210701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (TCA)
 
-of 30 April 1997 (Status as of 1 January 2021)
+of 30 April 1997 (Status as of 1 July 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -46,10 +46,10 @@ It shall in particular:
 - a. ensure that a reliable universal service is provided, at affordable prices, for all sections of the population in all parts of the country;
 - b. ensure that telecommunications traffic is free from interference and respects personal and incorporeal property rights;
 - c. allow effective competition in the provision of telecommunications services;
-- d.[^1-1] protect users of telecommunications services from unfair mass advertising and from abuse associated with value-added services;
+- d.[^1-1] protect users of telecommunications services from unfair advertising and from abuse associated with value-added services;
 - e.[^1-2] protect children and minors from the risks that arise from using telecommunications services.
 
-[^1-1]: Inserted by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^1-1]: Inserted by No I of the FA of 24 March 2006 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Amended by No I of the FA of 22 March 2019, in force since 1 July 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^1-2]: Inserted by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 2
@@ -1208,14 +1208,16 @@ No person who is or has been responsible for providing a telecommunications serv
 
 #### Art. 45a
 
-**Unfair mass advertising**[^45a-1]
+**Unfair advertising[^45a-2]**[^45a-1]
 
-<sup>1</sup> Providers of telecommunications services shall combat unfair mass advertising (Art. 3 let. o of the Federal Act of 19 December 1986[^45a-2] on Unfair Competition).
+<sup>1</sup> Providers of telecommunications services shall combat unfair advertising in accordance with Article 3 paragraph 1 letters o, u und v of the Federal Act of 19 December 1986[^45a-3] on Unfair Competition.[^45a-4]
 
-<sup>2</sup> The Federal Council may define measures that are appropriate and necessary to combat unfair mass advertising.
+<sup>2</sup> The Federal Council may define measures that are appropriate and necessary to combat unfair advertising.
 
 [^45a-1]: Inserted by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^45a-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-2]: Amended by No I of the FA of 22 March 2019, in force since 1 July 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^45a-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-4]: Amended by No I of the FA of 22 March 2019, in force since 1 July 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 45b
 
