@@ -3,20 +3,20 @@ canton: SG
 number: "455.315"
 title: Verordnung über den Sport-Toto-Fonds
 language: de
-version: 2020-07-01
-valid_until: 2021-06-30
+version: 2021-07-01
+valid_until: 2021-12-31
 version_adopted: 2020-06-30
 adopted: 2008-04-08
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/455.315"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2987/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3210/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Sport-Toto-Fonds
 
-vom 08.04.2008 (Stand 01.07.2020)
+vom 08.04.2008 (Stand 01.07.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -77,7 +77,7 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Betriebsbeiträge können an Anlagen von überregionaler Bedeutung geleistet werden.
 
-<sup>4</sup> Das Bildungsdepartement kann zur Überbrückung oder Abwendung einer durch höhere Gewalt drohenden Zahlungsunfähigkeit Verbänden und Vereinen nach Art. 1 Abs. 1 Bst. b dieses Erlasses zinslose Darlehen oder für den Nachwuchsbereich A-fonds-perdu-Beiträge aus dem Sport-Toto-Fonds gewähren. Die Regierung bemisst den zur Verfügung stehenden Betrag.
+<sup>4</sup> Das Bildungsdepartement kann zur Überbrückung oder Abwendung einer durch höhere Gewalt drohenden Zahlungsunfähigkeit Verbänden und Vereinen nach Art. 1 Abs. 1 Bst. b dieses Erlasses zinslose Darlehen aus dem Sport-Toto-Fonds gewähren. Die Regierung bemisst den zur Verfügung stehenden Betrag.
 
 #### Art. 4
 
