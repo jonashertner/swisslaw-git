@@ -4,20 +4,22 @@ number: "800.011"
 title: Standeskommissionsbeschluss über die Pflegefinanzierung
 short: StKB Pflegefinanzierung
 language: de
-version: 2018-01-01
-corrected: 2018-12-27
-version_adopted: 2018-02-06
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-07-06
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/800.011"
-pdf: "https://ai.clex.ch/api/de/versions/1597/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1928/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Pflegefinanzierung
 
-vom 30.11.2010 (Stand 01.01.2018)
+(StKB Pflegefinanzierung)
+
+vom 30.11.2010 (Stand 01.07.2021)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -33,7 +35,7 @@ beschliesst:
 
 <sup>1</sup> Die Patienten[^1-1] beteiligen sich an den ambulanten Pflegeleistungen. Von der Patientenbeteiligung ausgenommen sind Leistungen der Akut- und Übergangspflege.
 
-<sup>2</sup> Die Patientenbeteiligung beträgt je Tag höchstens die Hälfte des bundesrechtlichen Maximums, gerundet auf 10 Rappen. Die Kostenbeteiligung bleibt auf eine Stunde pro Tag beschränkt und ist pro rata geschuldet.
+<sup>2</sup> Die Patientenbeteiligung beträgt je Tag höchstens die Hälfte des bundesrechtlichen Maximums, gerundet auf 10 Rappen.
 
 [^1-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
@@ -41,43 +43,13 @@ beschliesst:
 
 **Restkosten und Finanzierung**
 
-<sup>1</sup> Der Kanton legt für die Leistungen nach Art. 7 Abs. 2 der Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung vom 29. September 1995 (KLV) die Restkosten und die Finanzierung im Sinne von Art. 25a Abs. 1 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 (KVG) wie folgt fest:
+<sup>1</sup> Die Leistungen nach Art. 7 Abs. 2 der Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung vom 29. September 1995 (KLV) sowie die Restkosten und die Finanzierung im Sinne von Art. 25a Abs. 1 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 (KVG) richten sich nach dem Anhang.
 
-<sup>2</sup> a. für selbständig erwerbende Krankenpflegefachpersonen (Art. 7 Abs. 1 lit. a KLV):
+<sup>2</sup> …
 
-<table>
-<tr><th>Art der Leistung</th><th>normativ anrechenbare Pflegekosten pro Stunde</th><th>Anteil Krankenversicherer pro Stunde (Art. 7a KLV)</th><th>Anteil Patient (Art. 25a Abs. 5 KVG)</th><th>Anteil Kanton</th></tr>
-<tr><td>Bedarfsabklärung (Art. 7 Abs. 2 lit. a KLV)</td><td>79.80</td><td>79.80</td><td>--</td><td>--</td></tr>
-<tr><td>Behandlungspflege (Art. 7 Abs. 2 lit. b KLV)</td><td>65.40</td><td>65.40</td><td>--</td><td>--</td></tr>
-<tr><td>Grundpflege (Art. 7 Abs. 2 lit. c KLV)</td><td>54.60</td><td>54.60</td><td>--</td><td>--</td></tr>
-</table>
+<sup>3</sup> …
 
-<sup>3</sup> b) für Spitexdienste (Art. 7 Abs. 1 lit. b KLV):
-
-<table>
-<tr><th>Art der Leistung</th><th>normativ anrechenbare Pflegekosten</th><th>Anteil Krankenversicherer pro Stunde (Art. 7a KLV)</th><th>Anteil Patient für 1. Stunde pro Tag (Art. 25a Abs. 5 KVG)</th><th>Anteil Kanton</th></tr>
-<tr><td>Bedarfsabklärung (Art. 7 Abs. 2 lit. a KLV)</td><td>87.80 für 1. Std./Tag 79.80 für weitere Stunden</td><td>79.80</td><td>≤ 8.00</td><td>--</td></tr>
-<tr><td>Behandlungspflege (Art. 7 Abs. 2 lit. b KLV)</td><td>73.40 für 1. Std./Tag 65.40 für weitere Stunden</td><td>65.40</td><td>≤ 8.00</td><td>--</td></tr>
-<tr><td>Grundpflege (Art. 7 Abs. 2 lit. c KLV)</td><td>62.60 für 1. Std./Tag 54.60 für weitere Stunden</td><td>54.60</td><td>≤ 8.00</td><td>--</td></tr>
-</table>
-
-<sup>4</sup> c) für Pflegeheime (Art. 7 Abs. 1 lit. c KLV):
-
-<table>
-<tr><th>Pflegestufe (BESA)</th><th>Anrechenbare Pflegekosten</th><th>Kosten für Mittel und Gegenstände</th><th>Anteil Krankenversicherer (Art. 7a KLV)</th><th>Maximaler Anteil Patient (Art. 25a KVG)</th><th>Maximaler Anteil Kanton</th></tr>
-<tr><td>1</td><td>11.80</td><td>1.00</td><td>9.00</td><td>3.80</td><td>--</td></tr>
-<tr><td>2</td><td>34.20</td><td>1.00</td><td>18.00</td><td>17.20</td><td>--</td></tr>
-<tr><td>3</td><td>56.60</td><td>1.00</td><td>27.00</td><td>21.60</td><td>9.00</td></tr>
-<tr><td>4</td><td>79.00</td><td>1.50</td><td>36.00</td><td>21.60</td><td>22.90</td></tr>
-<tr><td>5</td><td>101.40</td><td>2.00</td><td>45.00</td><td>21.60</td><td>36.80</td></tr>
-<tr><td>6</td><td>123.80</td><td>2.00</td><td>54.00</td><td>21.60</td><td>50.20</td></tr>
-<tr><td>7</td><td>146.20</td><td>2.50</td><td>63.00</td><td>21.60</td><td>64.10</td></tr>
-<tr><td>8</td><td>168.60</td><td>2.50</td><td>72.00</td><td>21.60</td><td>77.50</td></tr>
-<tr><td>9</td><td>191.00</td><td>3.00</td><td>81.00</td><td>21.60</td><td>91.40</td></tr>
-<tr><td>10</td><td>213.40</td><td>3.00</td><td>90.00</td><td>21.60</td><td>104.80</td></tr>
-<tr><td>11</td><td>235.80</td><td>3.00</td><td>99.00</td><td>21.60</td><td>118.20</td></tr>
-<tr><td>12</td><td>258.20</td><td>3.00</td><td>108.00</td><td>21.60</td><td>131.60</td></tr>
-</table>
+<sup>4</sup> …
 
 #### Art. 3
 
