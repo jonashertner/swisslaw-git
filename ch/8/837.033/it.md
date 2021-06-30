@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordinanza del 20 marzo 2020 sulle misure nel settore dell'assicurazione contro la disoccupazione riguardo al coronavirus (COVID-19) (Ordinanza COVID-19 assicurazione contro la disoccupazione)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: it
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210401/it"
 
 (Ordinanza COVID-19 assicurazione contro la disoccupazione)
 
-del 20 marzo 2020 (Stato 1° aprile 2021)
+del 20 marzo 2020 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -37,16 +37,15 @@ ordina:
 
 [^3-1]
 
-In deroga agli articoli 32 capoverso 2 e 37 lettera b della legge federale del 25 giugno 1982[^3-2] sull’assicurazione contro la disoccupazione (LADI), nessun periodo d’attesa è dedotto dalla perdita di lavoro computabile.
-
-[^3-1]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° set. 2020 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
-[^3-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^3-1]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° set. 2020 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)). Vedi art. 9 cpv. 6 et 6<sup>bis</sup>.
 
 #### Art. 4
 
 [^4-1]
 
 <sup>1</sup> In deroga all’articolo 33 capoverso 1 lettera e LADI[^4-2], una perdita di lavoro è computabile in quanto concerna persone vincolate da un rapporto di lavoro di durata determinata o da un rapporto di tirocinio.
+
+<sup>1bis</sup> Le persone vincolate da un rapporto di lavoro di durata determinata hanno diritto a un’indennità per lavoro ridotto se i provvedimenti disposti dalle autorità impediscono la piena ripresa dell’attività in azienda.[^4-3]
 
 <sup>2</sup>
 
@@ -58,6 +57,7 @@ Le persone vincolate da un rapporto di tirocinio hanno diritto a un’indennità
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 [^4-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^4-3]: Introdotto dal n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure), in vigore dal 1° lug. 2021 ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 5
 
@@ -114,15 +114,21 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 
 [^8f-1]
 
-<sup>1</sup> In deroga agli articoli 31 capoverso 3 lettera a e 33 capoverso 1 lettera b LADI[^8f-2], il lavoratore su chiamata il cui grado di occupazione subisce forti oscillazioni (superiori al 20 %) ha altresì diritto all’indennità per lavoro ridotto se è impiegato a tempo indeterminato da almeno sei mesi nell’azienda che chiede il lavoro ridotto.
+<sup>1</sup>
+
+In deroga agli articoli 31 capoverso 3 lettera a e 33 capoverso 1 lettera b LADI[^8f-2], il lavoratore su chiamata il cui grado di occupazione subisce forti oscillazioni (superiori al 20 %) ha altresì diritto all’indennità per lavoro ridotto se:
+
+- a. è impiegato a tempo indeterminato da almeno sei mesi nell’azienda che chiede il lavoro ridotto; e
+- b. i provvedimenti disposti dalle autorità impediscono la piena ripresa dell’attività in azienda.[^8f-3]
 
 <sup>2</sup> La perdita di lavoro è determinata in base agli ultimi sei o 12 mesi che precedono l’inizio del lavoro ridotto da parte del lavoratore su chiamata interessato; è presa in considerazione la perdita di lavoro più favorevole per il lavoratore.
 
-<sup>3</sup> L’articolo 57 dell’ordinanza del 31 agosto 1983[^8f-3] sull’assicurazione contro la disoccupazione non si applica ai lavoratori su chiamata il cui grado di occupazione è soggetto a forti oscillazioni.
+<sup>3</sup> L’articolo 57 dell’ordinanza del 31 agosto 1983[^8f-4] sull’assicurazione contro la disoccupazione non si applica ai lavoratori su chiamata il cui grado di occupazione è soggetto a forti oscillazioni.
 
 [^8f-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nuovo testo giusta il n. I dell’O del 28 ott. 2020, in vigore dal 1° set. 2020 ([RU 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
 [^8f-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8f-3]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^8f-3]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure), in vigore dal 1° lug. 2021 ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^8f-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 
 #### Art. 8g
 
@@ -172,6 +178,14 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 
 [^8j-1]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
 
+#### Art. 8k
+
+[^8k-1]
+
+La durata massima dell’indennità per lavoro ridotto è prolungata di dodici periodi di conteggio.
+
+[^8k-1]: Introdotto dal n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure), in vigore dal 1° lug. 2021 ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+
 #### Art. 9
 
 [^9-1]
@@ -190,13 +204,21 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 
 <sup>4ter</sup> La durata di validità secondo i capoversi 4 e 4<sup>bis</sup> è prorogata fino al 30 giugno 2021.[^9-7]
 
-<sup>5</sup> L’articolo 8*f* ha effetto sino al 30 giugno 2021.[^9-8]
+<sup>4quater</sup> La durata di validità secondo i capoversi 4–4<sup>ter</sup> è prorogata fino al 30 settembre 2021.[^9-8]
 
-<sup>6</sup> L’articolo 3 ha effetto sino al 31 marzo 2021.[^9-9]
+<sup>5</sup> L’articolo 8*f* ha effetto sino al 30 giugno 2021.[^9-9]
 
-<sup>6bis</sup> La durata di validità secondo il capoverso 6 è prorogata fino al 30 giugno 2021.[^9-10]
+<sup>5bis</sup> La durata di validità secondo il capoverso 5 è prorogata fino al 30 settembre 2021.[^9-10]
 
-<sup>7</sup> L’articolo 4 ha effetto sino al 30 giugno 2021.[^9-11]
+<sup>6</sup> L’articolo 3 ha effetto sino al 31 marzo 2021.[^9-11]
+
+<sup>6bis</sup> La durata di validità secondo il capoverso 6 è prorogata fino al 30 giugno 2021.[^9-12]
+
+<sup>7</sup> L’articolo 4 ha effetto sino al 30 giugno 2021.[^9-13]
+
+<sup>7bis</sup> La durata di validità secondo il capoverso 7 è prorogata fino al 30 settembre 2021.[^9-14]
+
+<sup>8</sup> L’articolo 8*k* ha effetto sino al 28 febbraio 2022.[^9-15]
 
 [^9-1]: Nuovo testo giusta dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus, in vigore dal 9 apr. 2020 ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [RU 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
@@ -205,7 +227,11 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 [^9-5]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
 [^9-6]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
 [^9-7]: Introdotto dal n. I dell’O del 19 mar. 2021 (Prolungamento della procedura semplificata e dell’abolizione del periodo d’attesta), in vigore dal 1° apr. 2021 ([RU 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
-[^9-8]: Introdotto dal n. I dell’O del 28 ott. 2020, in vigore dal 1° set. 2020 ([RU 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
-[^9-9]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
-[^9-10]: Introdotto dal n. I dell’O del 19 mar. 2021 (Prolungamento della procedura semplificata e dell’abolizione del periodo d’attesta), in vigore dal 1° apr. 2021 ([RU 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-8]: Introdotto dal n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure), in vigore dal 1° lug. 2021 ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^9-9]: Introdotto dal n. I dell’O del 28 ott. 2020, in vigore dal 1° set. 2020 ([RU 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-10]: Introdotto dal n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure), in vigore dal 1° lug. 2021 ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 [^9-11]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-12]: Introdotto dal n. I dell’O del 19 mar. 2021 (Prolungamento della procedura semplificata e dell’abolizione del periodo d’attesta), in vigore dal 1° apr. 2021 ([RU 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-13]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-14]: Introdotto dal n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure), in vigore dal 1° lug. 2021 ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^9-15]: Introdotto dal n. I dell’O del 23 giu. 2021 (Aumento della durata massima di riscossione dell’indennità per lavoro ridotto e proroga della durata di validità di altre misure), in vigore dal 1° lug. 2021 ([RU 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).

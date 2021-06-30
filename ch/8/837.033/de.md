@@ -3,11 +3,11 @@ sr: "837.033"
 title: Verordnung vom 20. März 2020 über Massnahmen im Bereich der Arbeitslosenversicherung im Zusammenhang mit dem Coronavirus (Covid-19) (Covid-19-Verordnung Arbeitslosenversicherung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: de
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210401/de"
 
 (Covid-19-Verordnung Arbeitslosenversicherung)**[^t-1]**
 
-vom 20. März 2020 (Stand am 1. April 2021)
+vom 20. März 2020 (Stand am 1. Juli 2021)
 
 [^t-1]: Ausdruck gemäss Ziff. I 8 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -39,16 +39,15 @@ verordnet:
 
 [^3-1]
 
-In Abweichung von den Artikeln 32 Absatz 2 und 37 Buchstabe b des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^3-2] (AVIG) wird keine Karenzzeit vom anrechenbaren Arbeitsausfall abgezogen.
-
-[^3-1]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. Sept. 2020 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
-[^3-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^3-1]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. Sept. 2020 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)). Siehe Art. 9 Abs. 6 und 6<sup>bis</sup>.
 
 #### Art. 4
 
 [^4-1]
 
 <sup>1</sup> In Abweichung von Artikel 33 Absatz 1 Buchstabe e AVIG[^4-2] ist ein Arbeitsausfall anrechenbar, soweit er Personen betrifft, die in einem Arbeitsverhältnis auf bestimmte Dauer oder in einem Lehrverhältnis stehen.
+
+<sup>1bis</sup> Personen, die in einem Arbeitsverhältnis auf bestimmte Dauer stehen, haben Anspruch auf Kurzarbeitsentschädigung, wenn behördlich angeordnete Massnahmen die vollständige Arbeitsaufnahme im Betrieb verhindern.[^4-3]
 
 <sup>2</sup>
 
@@ -60,6 +59,7 @@ Personen, die in einem Lehrverhältnis stehen, haben Anspruch auf Kurzarbeitsent
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 [^4-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^4-3]: Eingefügt durch Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen), in Kraft seit 1. Juli 2021 ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 5
 
@@ -116,15 +116,21 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 
 [^8f-1]
 
-<sup>1</sup> In Abweichung von den Artikeln 31 Absatz 3 Buchstabe a und 33 Absatz 1 Buchstabe b AVIG[^8f-2] haben Arbeitnehmerinnen und Arbeitnehmer auf Abruf, deren Beschäftigungsgrad starken Schwankungen unterliegt (mehr als 20 %), ebenfalls Anspruch auf Kurzarbeitsentschädigung, sofern sie seit mindestens 6 Monaten unbefristet in dem Unternehmen arbeiten, das Kurzarbeit anmeldet.
+<sup>1</sup>
+
+In Abweichung von den Artikeln 31 Absatz 3 Buchstabe a und 33 Absatz 1 Buchstabe b AVIG[^8f-2] haben Arbeitnehmerinnen und Arbeitnehmer auf Abruf, deren Beschäftigungsgrad starken Schwankungen unterliegt (mehr als 20 %), ebenfalls Anspruch auf Kurzarbeitsentschädigung, sofern:
+
+- a. sie seit mindestens 6 Monaten unbefristet in dem Unternehmen arbeiten, das Kurzarbeit anmeldet; und
+- b. behördlich angeordnete Massnahmen die vollständige Arbeitsaufnahme im Betrieb verhindern.[^8f-3]
 
 <sup>2</sup> Der Arbeitsausfall wird auf der Basis der letzten 6 oder 12 Monate vor Beginn der Kurzarbeit für die betroffene Arbeitnehmerin auf Abruf oder den betroffenen Arbeitnehmer auf Abruf berechnet; der für die Arbeitnehmerin oder den Arbeitnehmer günstigste Arbeitsausfall wird berücksichtigt.
 
-<sup>3</sup> Artikel 57 der Arbeitslosenversicherungsverordnung vom 31. August 1983[^8f-3] ist auf Arbeitnehmerinnen und Arbeitnehmer auf Abruf, deren Beschäftigungsgrad starken Schwankungen unterliegt, nicht anwendbar.
+<sup>3</sup> Artikel 57 der Arbeitslosenversicherungsverordnung vom 31. August 1983[^8f-4] ist auf Arbeitnehmerinnen und Arbeitnehmer auf Abruf, deren Beschäftigungsgrad starken Schwankungen unterliegt, nicht anwendbar.
 
 [^8f-1]: Eingefügt durch Ziff. I 1 der V vom 8. April 2020 über ergänzende Massnahmen im Zusammenhang mit dem Coronavirus im Bereich der Arbeitslosenversicherung ([AS 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Fassung gemäss Ziff. I der V vom 28. Okt. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
 [^8f-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8f-3]: [SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^8f-3]: Fassung gemäss Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen), in Kraft seit 1. Juli 2021 ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^8f-4]: [SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 
 #### Art. 8g
 
@@ -174,6 +180,14 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 
 [^8j-1]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
 
+#### Art. 8k
+
+[^8k-1]
+
+Die Höchstdauer der Kurzarbeitsentschädigung wird um zwölf Abrechnungsperioden verlängert.
+
+[^8k-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen), in Kraft seit 1. Juli 2021 ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+
 #### Art. 9
 
 [^9-1]
@@ -192,13 +206,21 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 
 <sup>4</sup> <sup>ter</sup> Die Geltungsdauer nach den Absätzen 4 und 4<sup>bis</sup> wird bis zum 30. Juni 2021 verlängert.[^9-7]
 
-<sup>5</sup> Artikel 8*f* gilt bis zum 30. Juni 2021.[^9-8]
+<sup>4quater</sup> Die Geltungsdauer nach den Absätzen 4–4<sup>ter</sup> wird bis zum 30. September 2021 verlängert.[^9-8]
 
-<sup>6</sup> Artikel 3 gilt bis zum 31. März 2021.[^9-9]
+<sup>5</sup> Artikel 8*f* gilt bis zum 30. Juni 2021.[^9-9]
 
-<sup>6bis</sup> Die Geltungsdauer nach Absatz 6 wird bis zum 30. Juni 2021 verlängert.[^9-10]
+<sup>5bis</sup> Die Geltungsdauer nach Absatz 5 wird bis zum 30. September 2021 verlängert.[^9-10]
 
-<sup>7</sup> Artikel 4 gilt bis zum 30. Juni 2021.[^9-11]
+<sup>6</sup> Artikel 3 gilt bis zum 31. März 2021.[^9-11]
+
+<sup>6bis</sup> Die Geltungsdauer nach Absatz 6 wird bis zum 30. Juni 2021 verlängert.[^9-12]
+
+<sup>7</sup> Artikel 4 gilt bis zum 30. Juni 2021.[^9-13]
+
+<sup>7bis</sup> Die Geltungsdauer nach Absatz 7 wird bis zum 30. September 2021 verlängert.[^9-14]
+
+<sup>8</sup> Artikel 8*k* gilt bis zum 28. Februar 2022.[^9-15]
 
 [^9-1]: Fassung gemäss Ziff. I 1 der V vom 8. April 2020 über ergänzende Massnahmen im Zusammenhang mit dem Coronavirus im Bereich der Arbeitslosenversicherung, in Kraft vom 9. April 2020 ([AS 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [AS 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
@@ -207,7 +229,11 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 [^9-5]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
 [^9-6]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
 [^9-7]: Eingefügt durch Ziff. I der V vom 19. März 2021 (Verlängerung des vereinfachten Verfahrens und der Aufhebung der Karenzzeit), in Kraft seit 1. April 2021 ([AS 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
-[^9-8]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
-[^9-9]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
-[^9-10]: Eingefügt durch Ziff. I der V vom 19. März 2021 (Verlängerung des vereinfachten Verfahrens und der Aufhebung der Karenzzeit), in Kraft seit 1. April 2021 ([AS 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-8]: Eingefügt durch Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen), in Kraft seit 1. Juli 2021 ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^9-9]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-10]: Eingefügt durch Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen), in Kraft seit 1. Juli 2021 ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 [^9-11]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-12]: Eingefügt durch Ziff. I der V vom 19. März 2021 (Verlängerung des vereinfachten Verfahrens und der Aufhebung der Karenzzeit), in Kraft seit 1. April 2021 ([AS 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-13]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-14]: Eingefügt durch Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen), in Kraft seit 1. Juli 2021 ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^9-15]: Eingefügt durch Ziff. I der V vom 23. Juni 2021 (Erhöhung der Höchstdauer für den Bezug von Kurzarbeitsentschädigung und Verlängerung der Geltungsdauer weiterer Massnahmen), in Kraft seit 1. Juli 2021 ([AS 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).

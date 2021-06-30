@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordonnance du 20 mars 2020 sur les mesures dans le domaine de l'assurance-chômage en lien avec le coronavirus (COVID-19) (Ordonnance COVID-19 assurance-chômage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: fr
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210401/fr"
 
 (Ordonnance COVID-19 assurance-chômage)
 
-du 20 mars 2020 (Etat le 1<sup>er</sup> avril 2021)
+du 20 mars 2020 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -37,16 +37,15 @@ arrête:
 
 [^3-1]
 
-En dérogation aux art. 32, al. 2, et 37, let. b, de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^3-2], aucun délai d’attente n’est déduit de la perte de travail à prendre en considération.
-
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
-[^3-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)). Voir art. 9 al. 6 et 6<sup>bis</sup>.
 
 #### Art. 4
 
 [^4-1]
 
 <sup>1</sup> En dérogation à l’art. 33, al. 1, let. e, LACI[^4-2], une perte de travail est prise en considération lorsqu’elle touche des personnes qui ont un emploi d’une durée déterminée ou qui sont en apprentissage.
+
+<sup>1bis</sup> Les personnes qui ont un emploi d’une durée déterminée ont droit à l’indemnité en cas de réduction de l’horaire de travail si des mesures ordonnées par les autorités empêchent la reprise complète du travail dans l’entreprise.[^4-3]
 
 <sup>2</sup>
 
@@ -58,6 +57,7 @@ Les personnes qui sont en apprentissage ont droit à l’indemnité en cas de r�
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 [^4-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^4-3]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 
 #### Art. 5
 
@@ -114,15 +114,21 @@ En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne 
 
 [^8f-1]
 
-<sup>1</sup> En dérogation aux art. 31, al. 3, let. a, et 33, al. 1, let. b, LACI[^8f-2], le travailleur sur appel dont le taux d’occupation est soumis à de fortes fluctuations (plus de 20 %) a aussi droit à la réduction de l’horaire de travail pour autant qu’il soit employé depuis au moins 6 mois pour une durée indéterminée dans l’entreprise demandant la réduction de l’horaire de travail .
+<sup>1</sup>
+
+En dérogation aux art. 31, al. 3, let. a, et 33, al. 1, let. b, LACI[^8f-2], le travailleur sur appel dont le taux d’occupation est soumis à de fortes fluctuations (plus de 20 %) a aussi droit à la réduction de l’horaire de travail pour autant:
+
+- a. qu’il soit employé depuis au moins 6 mois pour une durée indéterminée dans l’entreprise demandant la réduction de l’horaire de travail, et
+- b. que des mesures ordonnées par les autorités empêchent la reprise complète du travail dans l’entreprise.[^8f-3]
 
 <sup>2</sup> La perte de travail est déterminée sur la base des 6 ou 12 mois qui précèdent le début de la réduction de l’horaire de travail du travailleur sur appel concerné; la perte de travail la plus favorable au travailleur est prise en compte.
 
-<sup>3</sup> L’art. 57 de l’ordonnance du 31 août 1983 sur l’assurance-chômage[^8f-3] n’est pas applicable aux travailleurs sur appel dont le taux d’occupation est soumis à de fortes fluctuations.
+<sup>3</sup> L’art. 57 de l’ordonnance du 31 août 1983 sur l’assurance-chômage[^8f-4] n’est pas applicable aux travailleurs sur appel dont le taux d’occupation est soumis à de fortes fluctuations.
 
 [^8f-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
 [^8f-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8f-3]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^8f-3]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^8f-4]: [RS 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
 
 #### Art. 8g
 
@@ -172,6 +178,14 @@ En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne 
 
 [^8j-1]: Introduit par le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
 
+#### Art. 8k
+
+[^8k-1]
+
+La durée maximale de l’indemnité en cas de réduction de l’horaire de travail est prolongée de douze périodes de décompte.
+
+[^8k-1]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+
 #### Art. 9
 
 [^9-1]
@@ -190,13 +204,21 @@ En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne 
 
 <sup>4ter</sup> La durée de validité visée aux al. 4 et 4<sup>bis</sup> est prolongée jusqu’au 30 juin 2021.[^9-7]
 
-<sup>5</sup> L’article 8*f* a effet jusqu’au 30 juin 2021.[^9-8]
+<sup>4quater</sup> La durée de validité visée aux al. 4 à 4<sup>ter</sup> est prolongée jusqu’au 30 septembre 2021.[^9-8]
 
-<sup>6</sup> L’art. 3 a effet jusqu’au 31 mars 2021.[^9-9]
+<sup>5</sup> L’article 8*f* a effet jusqu’au 30 juin 2021.[^9-9]
 
-<sup>6bis</sup> La durée de validité visée à l’al. 6 est prolongée jusqu’au 30 juin 2021.[^9-10]
+<sup>5bis</sup> La durée de validité visée à l’al. 5 est prolongée jusqu’au 30 septembre 2021.[^9-10]
 
-<sup>7</sup> L’art. 4 a effet jusqu’au 30 juin 2021.[^9-11]
+<sup>6</sup> L’art. 3 a effet jusqu’au 31 mars 2021.[^9-11]
+
+<sup>6bis</sup> La durée de validité visée à l’al. 6 est prolongée jusqu’au 30 juin 2021.[^9-12]
+
+<sup>7</sup> L’art. 4 a effet jusqu’au 30 juin 2021.[^9-13]
+
+<sup>7bis</sup> La durée de validité visée à l’al. 7 est prolongée jusqu’au 30 septembre 2021.[^9-14]
+
+<sup>8</sup> L’art. 8*k* a effet jusqu’au 28 février 2022.[^9-15]
 
 [^9-1]: Nouvelle teneur selon le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus, en vigueur depuis le 9 avr. 2020 ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [RO 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
@@ -205,7 +227,11 @@ En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne 
 [^9-5]: Introduit par le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
 [^9-6]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
 [^9-7]: Introduit par le ch. I de l’O du 19 mars 2021 (Prolongation de la procédure simplifiée et de la suppression du délai d’attente), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
-[^9-8]: Introduit par le ch. I de l’O du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
-[^9-9]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
-[^9-10]: Introduit par le ch. I de l’O du 19 mars 2021 (Prolongation de la procédure simplifiée et de la suppression du délai d’attente), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-8]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de per-ception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1er juil. 2021 (RO 2021 382).
+[^9-9]: Introduit par le ch. I de l’O du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-10]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
 [^9-11]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-12]: Introduit par le ch. I de l’O du 19 mars 2021 (Prolongation de la procédure simplifiée et de la suppression du délai d’attente), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-13]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-14]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+[^9-15]: Introduit par le ch. I de l’O du 23 juin 2021 (Hausse de la durée maximale de perception de l’indemnité en cas de réduction de l’horaire de travail et prolongation de la durée de validité d’autres mesures), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
