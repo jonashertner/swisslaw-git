@@ -4,13 +4,13 @@ number: "732.1.11"
 title: "Règlement sur l'assurance immobilière, la prévention et les secours en matière de feu et d'éléments naturels"
 short: RECAB
 language: fr
-version: 2018-07-01
-valid_until: 2021-06-30
-version_adopted: 2018-06-18
+version: 2021-07-01
+valid_until: 2022-01-31
+version_adopted: 2021-06-21
 adopted: 2018-06-18
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/732.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5534/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6873/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Assurance immobilière, prévention et secours en matière de feu – R
 
 (RECAB)
 
-du 18.06.2018 (version entrée en vigueur le 01.07.2018)
+du 18.06.2018 (version entrée en vigueur le 01.07.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -140,7 +140,7 @@ Arrête:
 
 **Fonds de fluctuation**
 
-<sup>1</sup> L'Etablissement constitue un fonds afin de parer aux fluctuations des besoins dans les domaines de la prévention et des secours.
+<sup>1</sup> L'Etablissement constitue un fonds afin de parer aux fluctuations des besoins dans les domaines de la prévention et des secours. Il peut aussi constituer d'autres fonds de fluctuation spécifiques d'un ou de plusieurs domaines précis de la prévention et des secours.
 
 <sup>2</sup> Il constitue également des réserves de fluctuation relatives aux placements financiers, voire immobiliers.
 
@@ -156,11 +156,11 @@ Arrête:
 
 <sup>3</sup> La réduction s'opère exclusivement sur la prime de base lors de la facturation annuelle suivante et est accordée à celui ou à celle qui est propriétaire à ce moment-là.
 
-### 2.2 Taux de la contribution à la prévention
+### 2.2 Taux de la contribution à la prévention, à la défense incendie et aux secours
 
 #### Art. 17
 
-<sup>1</sup> Le taux maximal de la contribution à la prévention ne doit pas dépasser 30 % de la prime nette d'assurance (prime de base et surprimes).
+<sup>1</sup> Le taux maximal de la contribution à la prévention, à la défense incendie et aux secours ne doit pas durablement dépasser 30 % de la prime nette d'assurance (prime de base et surprimes).
 
 ### 2.3 Financement de la prévention et de la lutte contre les dommages
 
@@ -425,9 +425,9 @@ Arrête:
 
 **Fréquence des ramonages**
 
-<sup>1</sup> La fréquence des ramonages se fonde sur les directives techniques en la matière, notamment celles qui sont émises par l'Association des établissements cantonaux d'assurance incendie (AEAI).
+<sup>1</sup> La fréquence des ramonages se fonde sur les recommandations techniques en la matière. Elle est notamment fixée en fonction du type d'installation thermique et du combustible utilisé.
 
-<sup>2</sup> La fréquence est précisée dans la réglementation particulière.
+<sup>2</sup> La fréquence est fixée dans la réglementation particulière.
 
 #### Art. 41
 
@@ -436,7 +436,7 @@ Arrête:
 <sup>1</sup> Pour être mise au bénéfice d'une concession et se voir attribuer un secteur de ramonage, l'entreprise requérante doit:
 
 - a) être dirigée par une personne titulaire d'un diplôme de maîtrise fédérale ou d'un diplôme reconnu équivalent par l'Etablissement;
-- b) avoir son siège et exercer effectivement son activité dans le canton de Fribourg;
+- b) …
 - c) disposer du personnel qualifié nécessaire et être en mesure de former des apprenti‑e‑s;
 - d) répondre aux autres conditions fixées par l'Etablissement.
 
@@ -456,7 +456,7 @@ Arrête:
 
 **Renouvellement de la concession**
 
-<sup>1</sup> Sur le préavis de la direction de l'Etablissement et du Service de l'environnement, la concession peut être renouvelée chaque fois pour une durée maximale de cinq ans.
+<sup>1</sup> Sur le préavis de la direction de l'Etablissement et du Service de l'environnement, la concession peut être renouvelée chaque fois pour une durée maximale de cinq ans, au terme d'une nouvelle procédure d'octroi.
 
 <sup>2</sup> En plus du respect des critères d'octroi, la concession ne peut être renouvelée qu'en cas de respect des exigences de l'assurance qualité définies dans la réglementation particulière.
 
@@ -480,15 +480,19 @@ Arrête:
 
 **Tarif de ramonage**
 
-<sup>1</sup> Le coût des diverses prestations de ramonage est uniforme sur l'ensemble du canton de Fribourg.
+<sup>1</sup> Le coût des diverses prestations de ramonage est établi en tenant compte des recommandations techniques en la matière et des salaires de la branche.
 
-<sup>2</sup> Le tarif des prestations tient compte:
+<sup>2</sup> Le salaire horaire (sans TVA) déterminant pour le calcul de la taxe de base, des taxes d'objet et du tarif selon le temps effectif est le suivant:
 
-- a) d'une taxe de base servant à couvrir les frais généraux, soit les frais qui ne peuvent être directement imputés à chaque objet;
-- b) d'une taxe d'objet, calculée selon un temps forfaitaire imparti pour effectuer le travail;
-- c) des cas particuliers.
+- a) maître ramoneur, employé‑e‑s — Fr. 72.– à 88.–
+- b) apprenti‑e‑s (uniquement pour le travail selon le temps effectif) — Fr. 25.– à 30.–
+- c) …
 
-<sup>3</sup> Le tarif est fixé dans la réglementation de l'Etablissement.
+<sup>2a</sup> La taxe de base correspond à dix-sept minutes selon le salaire horaire du maître ramoneur. Pour les immeubles avec chauffages individuels pouvant être nettoyés en une seule opération, la taxe de base s'élève à cinq minutes par appartement, mais au moins à dix-sept minutes par immeuble.
+
+<sup>2b</sup> Les travaux supplémentaires sont facultatifs et non tarifés. Les coûts supplémentaires pour le nettoyage alcalin de la chaudière (temps de travail supplémentaire, matériel) ne doivent pas excéder 50 % des coûts du nettoyage mécanique, sans compter la taxe de base.
+
+<sup>3</sup> Le tarif est fixé dans la réglementation particulière.
 
 #### Art. 47
 
@@ -1232,7 +1236,7 @@ Arrête:
 
 **Composition de l'organe d'estimation**
 
-<sup>1</sup> En principe, l'estimation est effectuée par deux estimateurs ou estimatrices.
+<sup>1</sup> En principe, l'estimation est effectuée par un estimateur ou une estimatrice.
 
 <sup>2</sup> L'Etablissement en règle les détails et les exceptions.
 
@@ -1284,12 +1288,12 @@ Arrête:
 
 <sup>1</sup> Les bâtiments sont répartis en classes d'assurance selon les risques d'incendie que leur fait courir la nature des matériaux employés.
 
-<sup>2</sup> Sont attribués à la première classe de primes les bâtiments dont les façades, la toiture et la structure intérieure sont construites complètement en matériaux à l'épreuve du feu.
+<sup>2</sup> Sont attribués à la première classe de primes les bâtiments dont les façades, la toiture et la structure intérieure sont construites complètement en matériaux à l'épreuve du feu ou de la chaleur.
 
 <sup>3</sup> Sont attribués à la deuxième classe de primes:
 
-- a) les bâtiments dont les façades et la toiture sont incombustibles mais dont la structure intérieure n'est pas construite entièrement en matériaux à l'épreuve du feu;
-- b) les bâtiments à façades mixtes et à toiture construite en matériaux à l'épreuve du feu.
+- a) les bâtiments dont les façades et la toiture sont incombustibles mais dont la structure intérieure n'est pas construite entièrement en matériaux à l'épreuve du feu ou de la chaleur;
+- b) les bâtiments à façades mixtes et à toiture construite en matériaux à l'épreuve du feu ou de la chaleur.
 
 <sup>4</sup> Sont attribués à la troisième classe de primes:
 
@@ -1563,6 +1567,12 @@ Arrête:
 <sup>1</sup> Les communes disposent d'un délai de deux ans pour présenter un candidat ou une candidate à l'accréditation de spécialiste communal‑e en protection incendie.
 
 <sup>2</sup> L'Etablissement en règle les détails.
+
+#### Art. 153a
+
+**Droit transitoire – Défense incendie et secours**
+
+<sup>1</sup> L'ECAB peut se doter d'un fonds particulier pour financer les mesures nécessaires à la mise en œuvre de la législation sur la défense incendie et les secours.
 
 #### Art. 154
 

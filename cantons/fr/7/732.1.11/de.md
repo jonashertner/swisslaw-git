@@ -4,13 +4,13 @@ number: "732.1.11"
 title: "Reglement über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden"
 short: KGVR
 language: de
-version: 2018-07-01
-valid_until: 2021-06-30
-version_adopted: 2018-06-18
+version: 2021-07-01
+valid_until: 2022-01-31
+version_adopted: 2021-06-21
 adopted: 2018-06-18
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/732.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5534/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6873/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gebäudeversicherung, Prävention und Hilfeleistungen bei Brand – R
 
 (KGVR)
 
-vom 18.06.2018 (Fassung in Kraft getreten am 01.07.2018)
+vom 18.06.2018 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -140,7 +140,7 @@ beschliesst:
 
 **Schwankungsfonds**
 
-<sup>1</sup> Die KGV äufnet einen Fonds, um die Schwankungen beim Bedarf in den Bereichen Prävention und Hilfeleistungen aufzufangen.
+<sup>1</sup> Die KGV äufnet einen Fonds, um die Schwankungen beim Bedarf in den Bereichen Prävention und Hilfeleistungen aufzufangen. Sie kann auch andere Schwankungsfonds für einen oder mehrere spezifische Bereiche der Prävention und der Hilfeleistungen einrichten.
 
 <sup>2</sup> Sie bildet auch Wertschwankungsreserven für die Geld- und Immobilienanlagen.
 
@@ -156,11 +156,11 @@ beschliesst:
 
 <sup>3</sup> Die Senkung erfolgt ausschliesslich auf der Grundprämie bei der nächsten jährlichen Prämienrechnung und wird der- oder demjenigen gewährt, die oder der zu jenem Zeitpunkt Eigentümerin oder Eigentümer ist.
 
-### 2.2 Höhe des Präventionsbeitrags
+### 2.2 Beitragssatz für Prävention, Brandbekämpfung und Hilfeleistungen
 
 #### Art. 17
 
-<sup>1</sup> Der maximale Anteil des Präventionsbeitrags darf nicht mehr als 30 % der Netto-Versicherungsprämie (Grundprämie und Zuschlagsprämien) betragen.
+<sup>1</sup> Der maximale Beitragssatz für Prävention, Brandbekämpfung und Hilfeleistungen darf nicht dauerhaft mehr als 30 % der Netto-Versicherungsprämie (Grundprämie und Zuschlagsprämien) betragen.
 
 ### 2.3 Finanzierung der Prävention und der Schadensbekämpfung
 
@@ -425,7 +425,7 @@ beschliesst:
 
 **Häufigkeit der Kaminreinigung**
 
-<sup>1</sup> Die Häufigkeit der Kaminreinigung wird gemäss den technischen Richtlinien, insbesondere der Vereinigung kantonaler Feuerversicherungen (VKF), festgelegt.
+<sup>1</sup> Die Häufigkeit der Kaminreinigung wird gemäss den technischen Empfehlungen festgelegt. Sie richtet sich insbesondere nach der Art der Wärmeanlage und nach dem verwendeten Brennstoff.
 
 <sup>2</sup> Die Häufigkeit wird in einem besonderen Reglement festgelegt.
 
@@ -436,7 +436,7 @@ beschliesst:
 <sup>1</sup> Für die Zuteilung einer Konzession und eines Kaminfegerkreises muss das ersuchende Unternehmen:
 
 - a) von einer Inhaberin oder einem Inhaber eines eidgenössischen Meisterdiploms oder eines gleichwertigen Diploms geführt werden;
-- b) seinen Sitz im Kanton Freiburg haben und seine Tätigkeit tatsächlich dort ausüben;
+- b) …
 - c) über das notwendige qualifizierte Personal verfügen und in der Lage sein, Lernende auszubilden;
 - d) die übrigen, von der KGV festgelegten Voraussetzungen erfüllen.
 
@@ -456,7 +456,7 @@ beschliesst:
 
 **Verlängerung der Konzession**
 
-<sup>1</sup> Auf Stellungnahme der Direktion der KGV und des Amts für Umwelt kann die Konzession jeweils um maximal fünf Jahre verlängert werden.
+<sup>1</sup> Auf Stellungnahme der Direktion der KGV und des Amts für Umwelt kann die Konzession nach einem erneuten Erteilungsverfahren jeweils um maximal fünf Jahre verlängert werden.
 
 <sup>2</sup> Zusätzlich zur Einhaltung der Erteilungskriterien kann die Konzession nur verlängert werden, wenn die Anforderungen zur Qualitätssicherung gemäss dem besonderen Reglement eingehalten werden.
 
@@ -480,15 +480,19 @@ beschliesst:
 
 **Kaminfegertarif**
 
-<sup>1</sup> Die Kosten der verschiedenen Kaminreinigungsleistungen sind in allen Kreisen einheitlich.
+<sup>1</sup> Die Kosten der verschiedenen Kaminreinigungsleistungen werden unter Berücksichtigung der technischen Empfehlungen und der branchenüblichen Löhne festgelegt.
 
-<sup>2</sup> Der Tarif der Leistungen umfasst:
+<sup>2</sup> Stundenansatz (ohne MWST) für die Berechnung der Grundtaxe, der Objekttaxe und des Tarifs nach Zeitaufwand:
 
-- a) eine Grundtaxe zur Deckung der allgemeinen Kosten, das heisst der Kosten, die nicht direkt jedem einzelnen Objekt zugeschrieben werden können;
-- b) eine Objekttaxe gemäss einer Zeitpauschale, die für die Ausführung der Arbeit veranschlagt wird;
-- c) Spezialfälle.
+- a) Kaminfegermeister/in, Gesellen — Fr. 72.– bis 88.–
+- b) Lernende (nur für die Arbeit nach tatsächlichem Zeitaufwand) — Fr. 25.– bis 30.–
+- c) …
 
-<sup>3</sup> Der Tarif wird in einem Reglement der KGV festgelegt.
+<sup>2a</sup> Die Grundtaxe entspricht 17 Arbeitsminuten gemäss dem Stundenansatz des Kaminfegermeisters. Bei Mehrfamilienhäusern mit Einzelfeuerungen, die im gleichen Arbeitsgang gereinigt werden, entspricht die Grundtaxe 5 Minuten pro Wohnung, mindestens aber 17 Minuten pro Gebäude.
+
+<sup>2b</sup> Zusätzliche Arbeiten sind fakultativ und nicht tarifiert. Die Mehrkosten für die alkalische Heizkesselreinigung (zeitlicher Mehraufwand, Material) dürfen 50 % der Kosten einer ordentlichen, mechanischen Reinigung ohne Grundtaxe nicht überschreiten.
+
+<sup>3</sup> Der Tarif wird im Spezialreglement festgelegt.
 
 #### Art. 47
 
@@ -1232,7 +1236,7 @@ beschliesst:
 
 **Zusammensetzung des Schätzungsorgans**
 
-<sup>1</sup> Grundsätzlich wird die Schätzung jeweils von zwei Schätzerinnen oder Schätzern durchgeführt.
+<sup>1</sup> Die Schätzung wird grundsätzlich von jeweils einer Schätzerin oder einem Schätzer durchgeführt.
 
 <sup>2</sup> Die KGV regelt die Einzelheiten und Ausnahmen.
 
@@ -1284,12 +1288,12 @@ beschliesst:
 
 <sup>1</sup> Die Gebäude werden gemäss den Brandrisiken, welche die Art der verwendeten Baustoffe aufweisen, in Versicherungsklassen unterteilt.
 
-<sup>2</sup> Zur ersten Prämienklasse gehören die Gebäude, bei denen die Fassaden, die innere Struktur und die Bedachung vollständig aus feuerbeständigem Material erstellt sind.
+<sup>2</sup> Zur ersten Prämienklasse gehören die Gebäude, bei denen die Fassaden, die innere Struktur und die Bedachung vollständig aus feuer- oder hitzebeständigem Material erstellt sind.
 
 <sup>3</sup> Zur zweiten Prämienklasse gehören:
 
-- a) Gebäude, bei denen die Fassaden und die Bedachung feuerbeständig sind, aber die innere Struktur nicht vollständig aus feuerbeständigem Material besteht;
-- b) Gebäude mit gemischten Fassaden und mit Bedachung, die vollständig aus feuerbeständigem Material gebaut wurde.
+- a) Gebäude, bei denen die Fassaden und die Bedachung feuerbeständig sind, aber die innere Struktur nicht vollständig aus feuer- oder hitzebeständigem Material besteht;
+- b) Gebäude mit gemischten Fassaden und mit Bedachung, die vollständig aus feuer- oder hitzebeständigem Material gebaut wurde.
 
 <sup>4</sup> Zur dritten Prämienklasse gehören:
 
@@ -1563,6 +1567,12 @@ beschliesst:
 <sup>1</sup> Die Gemeinden verfügen über eine Frist von 2 Jahren, um eine Kandidatin oder einen Kandidaten zur Akkreditierung als kommunale Brandschutzfachfrau oder kommunalen Brandschutzfachmann vorzuschlagen.
 
 <sup>2</sup> Die KGV regelt die Einzelheiten.
+
+#### Art. 153a
+
+**Übergangsrecht – Brandbekämpfung und Hilfeleistungen**
+
+<sup>1</sup> Die KGV kann zur Finanzierung der nötigen Massnahmen für die Umsetzung der Gesetzgebung über die Brandbekämpfung und die Hilfeleistungen einen besonderen Fonds äufnen.
 
 #### Art. 154
 
