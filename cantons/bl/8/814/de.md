@@ -4,13 +4,12 @@ number: "814"
 title: Gesetz über die Bekämpfung der Schwarzarbeit
 short: GSA
 language: de
-version: 2014-02-14
-valid_until: 2021-06-30
-version_adopted: 2013-12-12
+version: 2021-07-01
+version_adopted: 2020-11-05
 adopted: 2020-11-05
 in_force: 2021-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/814"
-pdf: "https://bl.clex.ch/api/de/versions/190/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3016/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,216 +18,256 @@ pdf: "https://bl.clex.ch/api/de/versions/190/pdf_file"
 
 (GSA)
 
-Vom 12.12.2013 (Stand 14.02.2014)
+Vom 05.11.2020 (Stand 01.07.2021)
 
-Der Landrat des Kantons Basel-Landschaft, gestützt auf § 63 Absatz 1, § 104 Absatz 1 und § 125 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], beschliesst:[^ingress-2]
+Der Landrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: GS 29.276, SGS 100
-[^ingress-2]: Vom Landrat mit Vierfünftelmehr beschlossen. Referendumsfrist unbenützt abgelaufen am 13. Februar 2014.
+gestützt auf das Bundesgesetz vom 17. Juni 2005[^ingress-1] über Massnahmen zur Bekämpfung der Schwarzarbeit (BGSA) und die Verordnung vom 6. September 2006[^ingress-2] über Massnahmen zur Bekämpfung der Schwarzarbeit (VOSA) sowie § 63 Abs. 1, § 104 Abs. 1 und § 125 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-3],
+
+beschliesst:[^ingress-4]
+
+[^ingress-1]: [SR 822.41](https://db.clex.ch/link/Bund/822.41/de)
+[^ingress-2]: [SR 822.411](https://db.clex.ch/link/Bund/822.411/de)
+[^ingress-3]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
+[^ingress-4]: In der Volksabstimmung vom 7. März 2021 angenommen. Abstimmung vom Regierungsrat erwahrt am 13. April 2021.
+
+## 1. Allgemeine Bestimmungen
 
 #### § 1
 
-**Gegenstand und Ziele**
+**Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt die Bekämpfung der Schwarzarbeit.
-
-<sup>2</sup> Es legt - unter Berücksichtigung der sozialpartnerschaftlichen Regelungen - die kantonalen Massnahmen der Arbeitsmarktaufsicht fest.
-
-<sup>3</sup> Damit alle Massnahmen zur Förderung eines fairen Wettbewerbs und Erhaltung eines ausgeglichenen Arbeitsmarkts, zur Verhütung und Bekämpfung von Schwarzarbeit sowie Lohn- und Sozialdumping und zur Verhinderung von Wettbewerbsverzerrungen ergriffen werden können, soll der Vollzug transparent und in enger Zusammenarbeit mit den Behördenstellen und Sozialpartnern ausgestaltet werden.
+<sup>1</sup> Dieses Gesetz regelt gestützt auf und in Ergänzung zum Bundesrecht die Bekämpfung der Schwarzarbeit im Kanton Basel-Landschaft.
 
 #### § 2
 
-**Schwarzarbeit**
+**Ziele**
 
-<sup>1</sup> Schwarzarbeit liegt vor, wenn gesetzliche Melde- und Bewilligungspflichten gemäss Arbeits-, Sozialversicherungs-, Ausländer-, Steuer- und Sozialhilferecht verletzt werden.
+<sup>1</sup> Dieses Gesetz dient der Förderung eines fairen Wettbewerbs, der Erhaltung eines funktionierenden Arbeitsmarkts und der Verhütung und Bekämpfung der Schwarzarbeit im Kanton Basel-Landschaft.
+
+<sup>2</sup> Der Kanton unterstützt einen einheitlichen und wirkungsvollen Vollzug zur Verhinderung von unnötigen Mehrfachkontrollen.
+
+<sup>3</sup> Zur Erreichung dieses Ziels soll der Vollzug transparent und in enger Zusammenarbeit zwischen den Behördenstellen und den Sozialpartnern ausgestaltet werden.
 
 #### § 3
+
+**Aufgaben**
+
+<sup>1</sup> Der Kanton bekämpft die Schwarzarbeit, indem er:
+
+- a. Kontrollen durchführt;
+- b. Sanktionen verfügt sowie Gebühren auferlegt;
+- c. den Erfahrungs- und Informationsaustausch unter den am Vollzug beteiligten Stellen stärkt;
+- d. die Aus- und Weiterbildung der am Vollzug beteiligten Personen fördert;
+- e. Präventionsmassnahmen durchführen kann.
+
+#### § 4
+
+**Schwarzarbeit**
+
+<sup>1</sup> Schwarzarbeit liegt vor, wenn gesetzliche Melde- oder Bewilligungspflichten gemäss Arbeits-, Sozialversicherungs-, Ausländer-, Steuer- oder Sozialhilferecht verletzt werden.
+
+#### § 5
 
 **Persönlicher Geltungsbereich**
 
 <sup>1</sup> Das Gesetz gilt insbesondere für:
 
-- a. Arbeitnehmende, die dauerhaft oder vorübergehend im Kanton erwerbstätig sind.
-- b. Arbeitgebende mit Wohnsitz, Sitz, Filiale oder Niederlassung im Kanton.
-- c. Arbeitgebende, die dauerhaft oder vorübergehend im Kanton tätig sind.
-- d. Selbständigerwerbende, die dauerhaft oder vorübergehend im Kanton tätig sind.
-- e. Auftraggebende und Auftragnehmende, die dauerhaft oder vorübergehend im Kanton tätig sind.
+- a. Arbeitnehmende, die dauerhaft oder vorübergehend im Kanton Basel-Landschaft erwerbstätig sind;
+- b. Arbeitgebende mit Wohnsitz, Sitz, Filiale oder Niederlassung im Kanton Basel-Landschaft;
+- c. Arbeitgebende, die dauerhaft oder vorübergehend im Kanton Basel-Landschaft tätig sind;
+- d. Selbstständigerwerbende, die dauerhaft oder vorübergehend im Kanton Basel-Landschaft tätig sind;
+- e. Auftraggebende und Auftragnehmende, die dauerhaft oder vorübergehend im Kanton Basel-Landschaft tätig sind.
 
-#### § 4
-
-**Grundsätze**
-
-<sup>1</sup> In allen Fällen, in denen das kantonale Recht keine andere Behörde als zuständig erklärt, wird das kantonale Amt für Industrie, Gewerbe und Arbeit (KIGA) als zuständige kantonale Behörde eingesetzt.
-
-<sup>2</sup> Der Regierungsrat und die zuständigen Behörden fördern eine Regelung auf dem Wege der Sozialpartnerschaft.
-
-<sup>3</sup> Für den Bereich des Bauhaupt- und des Baunebengewerbes enthält dieses Gesetz spezielle Bestimmungen.
-
-<sup>4</sup> Die kollektivvertragliche Regelung der Befugnisse paritätischer Kommissionen wird mit diesem Gesetz nicht eingeschränkt.
-
-#### § 5
-
-**Tripartite Kommission Flankierende Massnahmen (TPK)**
-
-<sup>1</sup> Die Tripartite Kommission Flankierende Massnahmen (TPK) ist das beratende Organ des Regierungsrates für die Bekämpfung der Schwarzarbeit.
-
-<sup>2</sup> Sie hat insbesondere folgende Aufgaben:
-
-- a. Sie bezeichnet Risikobranchen, in denen verstärkt gegen Schwarzarbeit vorzugehen ist.
-- b. Sie arbeitet mit anderen Kontrollorganen zusammen, insbesondere mit dem für das Bauhaupt- und Baunebengewerbe zuständigen Kontrollorgan gemäss § 12.
-- c. Sie schlägt dem Regierungsrat geeignete Massnahmen zur Bekämpfung der Schwarzarbeit sowie die Ermächtigung Dritter zur Durchführung von Kontrollen gemäss § 7 Absatz 1 vor.
-- d. Sie prüft die Berichte der Vollzugsorganisationen.
+## 2. Zuständigkeiten
 
 #### § 6
 
-**Strategie**
+**Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat legt auf Antrag der TPK periodisch die Strategie des Kantons bei der Bekämpfung der Schwarzarbeit fest.
+<sup>1</sup> Der Regierungsrat:
+
+- a. legt die Strategie zur Bekämpfung der Schwarzarbeit fest;
+- b. kann Risikobranchen bezeichnen;
+- c. kann Dritte mit der Durchführung von Schwarzarbeitskontrollen und Präventivmassnahmen beauftragen;
+- d. berichtet dem Landrat alle 2 Jahre über die Umsetzung und Wirkung des vorliegenden Gesetzes.
 
 #### § 7
 
-**Kontrollorgane**
+**Tripartite Kommission Flankierende Massnahmen (TPK FlaM)**
 
-<sup>1</sup> Die Fachstelle Schwarzarbeit und das vom Kanton eingesetzte Kontrollorgan gemäss § 12 sind die Kontrollorgane für die Durchführung der Kontrollen gemäss § 8. Der Kanton stattet - gemäss Artikel 2 der Verordnung des Bundes gegen die Schwarzarbeit (VOSA)[^7-1] - die Kontrollorgane mit den zur Erfüllung ihrer Aufgaben notwendigen Ressourcen aus.
+<sup>1</sup> Die Tripartite Kommission Flankierende Massnahmen (TPK FlaM) berät den Regierungsrat bei der Bekämpfung der Schwarzarbeit.
 
-<sup>2</sup> Das KIGA unterhält die Fachstelle Schwarzarbeit. Diese erfüllt die Kontrollaufgaben in allen Bereichen und Branchen, für die nicht das vom Kanton eingesetzte Kontrollorgan gemäss § 12 zuständig ist.
+<sup>2</sup> Die TPK FlaM:
 
-<sup>3</sup> Das KIGA stellt den von den Kontrollorganen mit der Kontrolle betrauten Personen ein Dokument aus, das es ihnen erlaubt, sich über ihre Funktion auszuweisen.
-
-<sup>4</sup> Das KIGA kann - im Einvernehmen mit der TPK - die Kontrollaufgaben der Fachstelle Schwarzarbeit ganz oder teilweise an Dritte übertragen. Die Aufgabendelegation erfolgt in Form einer Leistungsvereinbarung.
-
-[^7-1]: SR 822.411
+- a. arbeitet mit bei der Festlegung der Strategie zur Bekämpfung der Schwarzarbeit;
+- b. stellt Antrag für die Bezeichnung von Risikobranchen;
+- c. wird vor einer Beauftragung eines Dritten zur Durchführung von Schwarzarbeitskontrollen und Präventionsmassnahmen angehört;
+- d. nimmt die jährliche Berichterstattung der Kontrollorgane zur Kontrolltätigkeit zur Kenntnis.
 
 #### § 8
 
-**Kontrollen**
+**Kantonales Amt für Industrie, Gewerbe und Arbeit (KIGA Baselland)**
 
-<sup>1</sup> Die Kontrollorgane führen die Kontrollen bei Arbeitgebenden, Arbeitnehmenden, Selbständigerwerbenden sowie Auftraggebenden und Auftragnehmenden durch.
+<sup>1</sup> Das Kantonale Amt für Industrie, Gewerbe und Arbeit (KIGA Baselland) ist das nach Bundesrecht vorgesehene kantonale Kontrollorgan zur Durchführung von Schwarzarbeitskontrollen und zuständig für den Vollzug der Aufgaben dieses Gesetzes, soweit dieses nicht etwas anderes bestimmt oder der Regierungsrat nicht einen Dritten mit einem Teilbereich des Vollzugs beauftragt.
 
-<sup>2</sup> Die Kontrollorgane prüfen die Einhaltung der Melde- und Bewilligungspflichten gemäss Arbeits-, Sozialversicherungs-, Ausländer-, Steuer- und Sozialhilferecht. Sie halten ihre Feststellungen in einem Protokoll fest und erstatten der TPK mindestens einmal jährlich summarisch Bericht über ihre Tätigkeit.
+<sup>2</sup> Das KIGA Baselland:
 
-<sup>3</sup> Bei Bedarf können die Kontrollorgane die Unterstützung der Gemeindebehörden oder anderer staatlicher Behörden und Institutionen - insbesondere diejenige der Polizei Basel-Landschaft - anfordern sowie aussenstehende Expertinnen und Experten beiziehen. Die Expertinnen und Experten sind ausdrücklich auf die Verschwiegenheitspflicht gemäss § 14 hinzuweisen.
+- a. ist zuständig für die Sanktionierung nach diesem Gesetz und nach Bundesrecht und für das Auferlegen von Gebühren;
+- b. kann von der Staatsanwaltschaft zur Durchführung von Einvernahmen bei Verfahren wegen Schwarzarbeit beigezogen werden;
+- c. organisiert bei Bedarf Aus- und Weiterbildungsveranstaltungen sowie Informationsveranstaltungen für den Erfahrungsaustausch zwischen den am Vollzug dieses Gesetzes beteiligten Stellen.
 
-<sup>4</sup> Stellen die Kontrollorgane Schwarzarbeit fest oder halten sie einen Verdacht für begründet, so leiten sie ihre Protokolle mit den Kontrollergebnissen umgehend an diejenigen Behörden weiter, die für die Verfolgung der Verstösse sachlich zuständig sind.
-
-<sup>5</sup> Die sachlich zuständigen Behörden eröffnen ohne Zeitverzug ein Verfahren gemäss ihren eigenen gesetzlichen Regelungen und melden dem zuständigen Kontrollorgan umgehend das Ergebnis ihrer Prüfung.
-
-<sup>6</sup> Das Kontrollorgan gemäss § 12 leitet die ihm gemäss Absatz 5 gemeldeten Ergebnisse und Verfahrensentscheide umgehend an das KIGA weiter.
+## 3. Beauftragung von Dritten
 
 #### § 9
 
-**Aufgaben und Befugnisse des KIGA**
+**Beauftragung**
 
-<sup>1</sup> Das KIGA auferlegt - gestützt auf die gemeldeten Ergebnisse und Verfahrensentscheide - Arbeitgebenden, Arbeitnehmenden, Selbständigerwerbenden sowie Auftraggebenden und Auftragnehmenden, denen Schwarzarbeit nachgewiesen ist, eine Busse sowie eine Gebühr, zuzüglich der entstandenen Auslagen.
+<sup>1</sup> Der Regierungsrat kann Dritte mit der Durchführung von Schwarzarbeitskontrollen und Präventionsmassnahmen in den von ihm bezeichneten Risikobranchen beauftragen.
 
-<sup>2</sup> Die Gebühr bemisst sich nach dem erbrachten Kontrollaufwand der eingesetzten Kontrollorgane, wobei der bundesrechtliche Höchstansatz zur Anwendung kommt.
+<sup>2</sup> Im Baugewerbe beauftragt der Regierungsrat einen Dritten, sofern dieser die Zulassungsvoraussetzungen gemäss § 10 erfüllt. In Umsetzung seiner Strategie zur Bekämpfung der Schwarzarbeit sowie unter Berücksichtigung der besonderen Herausforderungen des Kantons Basel-Landschaft als Grenzkanton vereinbart der Regierungsrat insbesondere eine angemessene Anzahl von Kontrollen zur bedarfsgerechten und wirkungsvollen Durchführung des Auftrags.
 
-<sup>3</sup> Das KIGA verfügt - gemäss den Gesetzgebungen des Bundes und des Kantons - zudem Sanktionen im Bereich der Finanzhilfen und beantragt dem Regierungsrat Sanktionen im Bereich des öffentlichen Beschaffungswesens. Es stützt sich dabei auf die von den zuständigen Behörden bzw. den Kontrollorganen festgestellten Verstösse in den kontrollierten Bereichen. Die zuständigen Behörden liefern ihm die nötigen Informationen, damit es feststellen kann, ob die betroffenen Unternehmen Finanzhilfen des Bundes oder des Kantons erhalten.
+<sup>3</sup> Für den Fall einer Beauftragung schliesst der Regierungsrat mit dem entsprechenden Dritten eine Leistungsvereinbarung ab. Er regelt in der Leistungsvereinbarung insbesondere die quantitativen und qualitativen Kontrollziele und weiteren Leistungen, die Höhe der Entschädigung, die Konsequenzen bei Nicht- oder Schlechterfüllung sowie Art und Umfang des Berichtswesens.
 
-<sup>4</sup> Das KIGA stellt der zuständigen Bundesbehörde, den betreffenden kantonalen Behörden, der TPK und den betroffenen Kontrollorganen zeitgleich mit der Eröffnung der Verfügung eine Kopie seiner Verfügung zu.
+<sup>4</sup> Die Höhe der Entschädigung orientiert sich insbesondere an der Anzahl der in den betroffenen Branchen tätigen Arbeitnehmenden, den branchenspezifischen Bedingungen sowie dem Missbrauchspotenzial in der Branche gemäss Einschätzung der TPK FlaM.
 
-<sup>5</sup> Das KIGA gewährleistet die Berichterstattung und die Abrechnung mit dem Staatssekretariat für Wirtschaft (SECO) gemäss den einschlägigen Bestimmungen des Bundesrechts. Es holt die erforderlichen Angaben bei den Kontrollorganen gemäss § 10 Absatz 1 ein und stellt die bundesrechtliche Konformität dieser Angaben mittels entsprechender Instruktion der Kontrollorgane sicher.
+<sup>5</sup> Vor einer allfälligen Kürzung der Entschädigung ist zwingend die schriftliche Stellungnahme der TPK FlaM zur längerfristigen Entwicklung des Missbrauchspotenzials in der entsprechenden Branche einzuholen.
 
-<sup>6</sup> Damit die von den Kontrollorganen gemäss § 7 Absatz 1 mit der Kontrolle betrauten Personen gemäss Artikel 2 Absatz 2 VOSA[^9-1] über die erforderlichen Kenntnisse und Fähigkeiten in der Arbeitsmarktkontrolle verfügen, organisiert das KIGA - insbesondere in Zusammenarbeit mit der Polizei Basel-Landschaft und gegebenenfalls weiteren Behörden und Institutionen - mindestens einmal jährlich Aus- und Weiterbildungsveranstaltungen für die Mitarbeitenden der Kontrollorgane.
+<sup>6</sup> Voraussetzung für den Abschluss einer Leistungsvereinbarung bildet eine Ausgabenbewilligung gestützt auf das Finanzhaushaltsgesetz vom 1. Juni 2017[^9-1] (FHG).
 
-<sup>7</sup> Um eine optimale Zusammenarbeit der Kontrollorgane gemäss § 7 Absatz 1 und den in § 13 Absatz 1 genannten Behörden sicherzustellen, organisiert das KIGA periodisch Veranstaltungen für einen gegenseitigen Erfahrungs- und Informationsaustausch.
+<sup>7</sup> Der Regierungsrat übt die Aufsicht über die Ordnungsmässigkeit der Kontrollen und über die Einhaltung der Leistungsvereinbarung aus.
 
-<sup>8</sup> Der Kanton stattet das KIGA mit den zur Erfüllung seiner Aufgaben notwendigen Ressourcen aus.
-
-[^9-1]: SR 822.411
+[^9-1]: [SGS 310](https://bl.clex.ch/data/310/de/art37)
 
 #### § 10
 
-**Einvernahme durch das KIGA**
+**Zulassungsvoraussetzungen**
 
-<sup>1</sup> Wird aufgrund einer Kontrolle ein Strafverfahren wegen Schwarzarbeit eröffnet, so kann die zuständige Verfahrensleitung die kantonale Fachstelle mit den allenfalls erforderlichen Einvernahmen der angeschuldigten Personen beauftragen.
+<sup>1</sup> Für die Beauftragung eines Dritten müssen die Anforderungen des Staatsbeitragsgesetzes vom 27. Juni 2019[^10-1] (SBG) erfüllt sein.
 
-<sup>2</sup> Davon ausgenommen bleiben in der Regel Strafverfahren, für die die Staatsanwaltschaft Basel-Landschaft, Hauptabteilung Wirtschaftskriminalität, zuständig ist oder bei denen neben der Schwarzarbeit weitere Delikte untersucht werden.
+<sup>2</sup> Im Weiteren muss der Dritte:
+
+- a. von den repräsentativen Arbeitnehmenden- und Arbeitgebendenorganisationen der entsprechenden Risikobranchen paritätisch getragen sein;
+- b. als selbstständige juristische Person mit statutarischer Grundlage bestehen;
+- c. im Handelsregister eingetragen sein;
+- d. über ein Reglement verfügen, das festlegt, wie die Einhaltung der massgeblichen Gesetzesbestimmungen sichergestellt wird;
+- e. über eigenes Personal und über eigene Infrastruktur verfügen.
+
+[^10-1]: [SGS 360](https://bl.clex.ch/data/360/de)
 
 #### § 11
 
-**Zwangsmassnahmen**
+**Pflichten eines Dritten**
 
-<sup>1</sup> Besteht Verdacht auf Schwarzarbeit und verweigern Arbeitgebende, Arbeitnehmende, Selbständigerwerbende sowie Auftraggebende und Auftragnehmende den Kontrollorganen die Mitwirkung bei der Feststellung des Sachverhalts, wird - übergeordnetes Recht vorbehalten - im Sinne einer Zwangsmassnahme die Einstellung der Arbeiten angeordnet.
+<sup>1</sup> Im Falle einer Beauftragung hat der Dritte insbesondere den folgenden Pflichten nachzukommen:
 
-<sup>2</sup> Eine Verweigerung der Mitwirkung durch Arbeitgebende, Arbeitnehmende, Selbständigerwerbende sowie Auftraggebende und Auftragnehmende liegt insbesondere vor, wenn sie:
-
-- a. mit der Kontrolle beauftragten Personen den Zutritt zur Baustelle oder zum Betrieb verweigern;
-- b. sich weigern, die Identität von Personen preiszugeben;
-- c. Belege, die für die Abklärung des Sachverhalts benötigt werden, nicht innerhalb der vom Kontrollorgan gesetzten Frist liefern.
-
-<sup>3</sup> Das KIGA verfügt die Einstellung der Arbeiten auf schriftlich begründeten Antrag des Kontrollorgans. In der Verfügung weist das KIGA darauf hin, dass die Zwangsmassnahme aufgehoben werden kann, wenn die vollumfängliche Mitwirkung gewährleistet ist. Die Aufhebung der Zwangsmassnahme wird ebenfalls vom KIGA verfügt.
-
-<sup>4</sup> Die Verfügung des KIGA über eine Einstellung der Arbeiten stellt eine Zwischenverfügung im Sinne des Verwaltungsverfahrensgesetzes (VwVG)[^11-1] dar. Ein allfälliges Rechtsmittel hat keine aufschiebende Wirkung.
-
-<sup>5</sup> Das KIGA stellt dem zuständigen Kontrollorgan sowie den Auftraggebenden und allfälligen Subunternehmen zeitgleich mit der Eröffnung der Verfügung eine Kopie der Verfügung zu.
-
-<sup>6</sup> Für die Ausführung von Zwangsmassnahmen können die sachlich zuständigen Behörden - insbesondere die Polizei Basel-Landschaft - beigezogen werden. Die zuständigen Personen müssen sicherstellen, dass die Verfügung so umgesetzt wird, dass die Sicherheit der Personen auf der Arbeitsstelle nicht beeinträchtigt wird und substantielle Schäden, insbesondere an Werk und Materialien, vermieden werden.
-
-[^11-1]: GS 29.677, SGS 175
+- a. Einhaltung der bundes- und kantonsrechtlichen Vorgaben inklusive Weisungen des zuständigen Bundesamts und des KIGA Baselland;
+- b. Einhaltung des kantonalen Staatsbeitrags- und Finanzhaushaltsrechts;
+- c. Zusammenarbeit mit den zuständigen kantonalen Aufsichts- und Oberaufsichtsorganen, namentlich betreffend Information und Auskunftserteilung.
 
 #### § 12
 
-**Delegation der Kontrolltätigkeit im Baugewerbe**
+**Entzug des Auftrags**
 
-<sup>1</sup> Zur Durchführung von Kontrollen im Bereich des Bauhaupt- und des Baunebengewerbes ermächtigt der Regierungsrat als Kontrollorgan einen Dritten. Er berücksichtigt dabei die branchenspezifischen Kontrollorganisationen der Sozialpartner. Diese Delegation der Kontrolltätigkeit erfolgt gemäss Artikel 3 Absatz 1 VOSA[^12-1].
+<sup>1</sup> Der Regierungsrat kann den Auftrag jederzeit entziehen, wenn:
 
-<sup>2</sup> Das Kontrollorgan gemäss Absatz 1 hat folgende Bedingungen zu erfüllen:
+- a. der mandatierte Dritte während der Laufzeit der Leistungsvereinbarung die Zulassungsvoraussetzungen nicht mehr erfüllt;
+- b. der mandatierte Dritte seine Pflichten verletzt;
+- c. der mandatierte Dritte die Leistungsvereinbarung in grober Weise verletzt.
 
-- a. Es muss von den kantonalen Dachverbänden der betroffenen Sozialpartner errichtet und getragen werden.
-- b. Es muss als selbständige juristische Person mit statutarischer Grundlage bestehen.
-- c. Es muss im Handelsregister eingetragen sein.
-- d. Es muss über ein Reglement verfügen, das festlegt, wie die Einhaltung der massgeblichen Gesetzesbestimmungen kontrolliert wird.
-- e. Es muss sicherstellen, dass die von ihm mit der Durchführung der Kontrollen betrauten Personen die erforderlichen Kenntnisse aufweisen.
+<sup>2</sup> Mit dem Entzug des Auftrags durch den Regierungsrat fällt die Zuständigkeit für die Dauer der Pflichtverletzung oder der Nichterfüllung der Zulassungsvoraussetzungen an das KIGA Baselland zurück.
 
-<sup>3</sup> Der Regierungsrat schliesst mit dem Kontrollorgan gemäss Absatz 1 eine Leistungsvereinbarung mit einer Laufzeit von mindestens drei Jahren ab. Die Höhe der Entschädigung berücksichtigt - gestützt auf § 7 Absatz 1 - insbesondere den Einsatz von mindestens drei Vollzeitstellen, die räumliche und technische Infrastruktur sowie die fachliche Aus- und Weiterbildung der mit der Kontrolle betrauten Personen.
-
-<sup>4</sup> Der Regierungsrat wacht über die Einhaltung der Leistungsvereinbarung und über die wirksame Verwendung der eingesetzten Mittel. Er erstattet dem Landrat jährlich darüber Bericht.
-
-[^12-1]: SR 822.411
+## 4. Kontrollen
 
 #### § 13
 
-**Zusammenarbeit der Kontrollorgane mit anderen Behörden und Organisationen**
+**Durchführung von Kontrollen**
 
-<sup>1</sup> Kantonale und kommunale Behörden sowie öffentlich-rechtliche und private Institutionen, die im Kanton eidgenössisches, kantonales oder kommunales Recht, insbesondere im Bereich der Arbeitsinspektion, des Arbeitsmarktes und der Arbeitslosenversicherung, Beschäftigung, Polizei, Ausländer- und Flüchtlingswesen, Zivilstand, Sozialhilfe und Steuerwesen, vollziehen, sind verpflichtet, mit den nach diesem Gesetz eingesetzten Kontrollorganen zusammen zu arbeiten. Dasselbe gilt für die Organisationen, die für den Vollzug der Sozialversicherungsgesetzgebung zuständig sind.
+<sup>1</sup> Die kontrollierten Personen und Betriebe haben eine Mitwirkungspflicht. Sie sind verpflichtet, den mit der Kontrolle betrauten Personen auf Verlangen alle für den Kontrollauftrag erforderlichen Unterlagen herauszugeben und Auskünfte zu erteilen. Sie müssen ihnen freien Zutritt zu Betrieben und Arbeitsplätzen während der Arbeitszeit der dort tätigen Personen gewähren.
 
-<sup>2</sup> Die Behörden und Organisationen nach Absatz 1 informieren das KIGA über Feststellungen, die sie im Rahmen ihrer Tätigkeit machen, welche Anhaltspunkte für das Vorliegen von Schwarzarbeit sein können.
+<sup>2</sup> Bei Bedarf kann das zuständige Kontrollorgan die Unterstützung der Gemeindebehörden oder anderer staatlicher Behörden und Institutionen – insbesondere diejenige der Polizei Basel-Landschaft – anfordern.
 
-<sup>3</sup> Das KIGA leitet die gemäss Absatz 2 gemeldeten Feststellungen, welche das Bauhaupt- und Baunebengewerbe betreffen, umgehend an das in diesem Bereich gemäss § 12 zuständige Kontrollorgan weiter.
+<sup>3</sup> Stellt das zuständige Kontrollorgan Schwarzarbeit fest oder hält es einen Verdacht für begründet, so leitet es seine Protokolle mit den Kontrollergebnissen umgehend an diejenigen Behörden weiter, die für die Verfolgung der Verstösse sachlich zuständig sind.
 
-<sup>4</sup> Die gemäss diesem Gesetz zuständigen Behörden und Kontrollorgane können - unter Berücksichtigung der Datenschutzbestimmungen gemäss § 14 - auch mit Behörden und Kontrollorganen anderer Kantone zusammenarbeiten sowie entsprechende Informationen austauschen. Personendaten dürfen nur ausgetauscht werden, soweit sie für die Erfüllung der gesetzlichen Aufgaben der Behörden und Kontrollorgane erforderlich sind.
+<sup>4</sup> Die sachlich zuständigen Behörden eröffnen ohne Zeitverzug ein Verfahren gemäss ihren eigenen gesetzlichen Regelungen und melden dem zuständigen Kontrollorgan umgehend das Ergebnis ihrer Prüfung.
+
+<sup>5</sup> Hält das zuständige Kontrollorgan einen Verdacht für ein strafrechtlich relevantes Verhalten für begründet, erstattet es Strafanzeige.
 
 #### § 14
 
-**Datenschutz und Datenbekanntgabe**
+**Einvernahmen**
 
-<sup>1</sup> Die am Vollzug dieses Gesetzes beteiligten Personen und Stellen sind bezüglich aller Feststellungen, die sie in Ausübung ihrer Tätigkeit machen, zur Verschwiegenheit verpflichtet.
+<sup>1</sup> Wird aufgrund einer Kontrolle ein Strafverfahren wegen Schwarzarbeit eröffnet, so kann die zuständige Verfahrensleitung das KIGA Baselland mit den allenfalls erforderlichen Einvernahmen der beschuldigten Personen beauftragen. Das KIGA Baselland kann die Polizei Basel-Landschaft zur Unterstützung beiziehen.
 
-<sup>2</sup> Sie bearbeiten gemäss den einschlägigen Bestimmungen des Bundesrechts Daten von Betrieben und Personen und tauschen diese untereinander aus.
-
-<sup>3</sup> Zur gezielten Information der Öffentlichkeit über die negativen Folgen von Schwarzarbeit, Scheinselbständigkeit, Lohn- und Sozialdumping sowie ungleichen Wettbewerbsspiessen dürfen die bearbeiteten Daten für statistische Angaben und zur Publikation von Fällen von grundsätzlicher Bedeutung in anonymisierter Form wiedergegeben werden. Im Übrigen dürfen die bearbeiteten Daten nur zum Zweck des Vollzugs dieses Gesetzes benutzt werden.
+<sup>2</sup> Davon ausgenommen bleiben in der Regel Strafverfahren, für welche die Staatsanwaltschaft, Hauptabteilung Wirtschaftskriminalität, zuständig ist oder bei denen neben der Schwarzarbeit weitere Delikte untersucht werden.
 
 #### § 15
 
-**Kostentragung durch den Kanton**
+**Zwangsmassnahmen und Sanktionen**
 
-<sup>1</sup> Der Kanton trägt die Kosten des Vollzugs dieses Gesetzes nach Abzug der Bundesbeiträge.
+<sup>1</sup> Besteht Verdacht auf Schwarzarbeit und wird die Mitwirkungspflicht bei der Feststellung des Sachverhalts verletzt, ordnet das KIGA Baselland – übergeordnetes Recht vorbehalten – im Sinne einer Zwangsmassnahme und unter Berücksichtigung des Verhältnismässigkeitsprinzips die Einstellung der Arbeiten auf schriftlich begründeten Antrag des zuständigen Kontrollorgans an.
 
-<sup>2</sup> In Bezug auf die Leistungsvereinbarung gemäss § 12 Absätze 3 und 4 ist der Regierungsrat befugt, die entsprechende Entschädigungsverpflichtung einzugehen. Er kann diese Zuständigkeit auch an die Volkswirtschafts- und Gesundheitsdirektion (VGD) übertragen.
+<sup>2</sup> Für die Ausführung von Zwangsmassnahmen können die sachlich zuständigen Behörden – insbesondere die Polizei Basel-Landschaft – beigezogen werden.
+
+<sup>3</sup> Ein allfälliges Rechtsmittel gegen die Einstellung der Arbeiten hat keine aufschiebende Wirkung.
+
+<sup>4</sup> Bei nachgewiesener Schwarzarbeit gestützt auf gemeldete Ergebnisse und Verfahrensentscheide und unter Berücksichtigung des Verhältnismässigkeitsprinzips:
+
+- a. erlegt das KIGA Baselland gegenüber den verantwortlichen juristischen oder natürlichen Personen eine Busse auf;
+- b. beantragt das KIGA Baselland dem Regierungsrat gemäss der Gesetzgebung des Bundes eine Kürzung von Finanzhilfen und einen befristeten Ausschluss von Aufträgen des öffentlichen Beschaffungswesens.
+
+<sup>5</sup> Das KIGA Baselland führt eine Liste der Personen und Betriebe, gegen die:
+
+- a. eine rechtskräftige strafrechtliche Verurteilung wegen Verletzung der Mitwirkungspflicht,
+- b. ein Entscheid über den befristeten Ausschluss von Aufträgen des öffentlichen Beschaffungsrechts oder
+- c. ein Entscheid über die Kürzung von Finanzhilfen
 
 #### § 16
+
+**Gebühren**
+
+<sup>1</sup> Das KIGA Baselland auferlegt bei nachgewiesener Schwarzarbeit eine Gebühr.
+
+<sup>2</sup> Die Gebühr bemisst sich nach dem erbrachten Aufwand der eingesetzten Vollzugsorgane, wobei der bundesrechtlich höchstmögliche Ansatz zur Anwendung kommt und das Verhältnismässigkeitsprinzip zu beachten ist.
+
+<sup>3</sup> Das KIGA Baselland kann Anzeigenden eine Gebühr auferlegen, wenn die Anzeige mutwillig oder missbräuchlich erstattet worden ist.
+
+#### § 17
+
+**Berichterstattung**
+
+<sup>1</sup> Die zuständigen Kontrollorgane erstatten der TPK FlaM mindestens 1-mal jährlich summarisch Bericht über ihre Kontrolltätigkeit.
+
+#### § 18
+
+**Zusammenarbeit**
+
+<sup>1</sup> Die am Vollzug beteiligten Behörden sind verpflichtet, mit den zuständigen Kontrollorganen unentgeltlich zusammenzuarbeiten. Insbesondere informieren sie die zuständigen Kontrollorgane über Feststellungen, die sie im Rahmen ihrer Tätigkeit machen, welche Anhaltspunkte für das Vorliegen von Schwarzarbeit sein können.
+
+<sup>2</sup> Die zuständigen Behörden und Kontrollorgane können zur koordinierten Durchführung von Kontrollen sowie zum zweckdienlichen Informationsaustausch mit Behörden und Kontrollorganen anderer Kantone zusammenarbeiten, soweit dies für die Erfüllung ihrer Aufgaben erforderlich ist.
+
+<sup>3</sup> Die Kontrollorgane leiten Feststellungen, welche in den Zuständigkeitsbereich eines anderen Kontrollorgans fallen, unentgeltlich an dieses weiter.
+
+#### § 19
+
+**Datenschutz und Verschwiegenheit**
+
+<sup>1</sup> Die am Vollzug dieses Gesetzes beteiligten Personen und Stellen sind bezüglich aller Feststellungen, die sie in Ausübung ihrer Tätigkeit machen, zur Verschwiegenheit und zur Beachtung des Gesetzes vom 10. Februar 2011[^19-1] über die Information und den Datenschutz (IDG) verpflichtet.
+
+[^19-1]: [SGS 162](https://bl.clex.ch/data/162/de)
+
+## 5. Schlussbestimmungen
+
+#### § 20
 
 **Ausführungsbestimmungen**
 
 <sup>1</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen.
 
-#### § 17
+#### § 21
 
-**Übergangsbestimmungen**
+**Übergangsbestimmung**
 
-<sup>1</sup> Noch nicht rechtskräftig erledigte Rechtsmittelverfahren werden nach bisherigem Recht abgeschlossen[^17-1].
+<sup>1</sup> Bestimmungen einer allenfalls nach bisherigem Recht bestehenden Leistungsvereinbarung, welche Gegenstände regeln, die dieses Gesetz betreffen, verlieren ihre Gültigkeit umgehend mit Inkrafttreten dieses Gesetzes.
 
-[^17-1]: In Kraft seit 14. Februar 2014
-
-GS 2014.015
+GS 2021.027
