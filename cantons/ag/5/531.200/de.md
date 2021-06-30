@@ -4,13 +4,13 @@ number: "531.200"
 title: Gesetz über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeigesetz, PolG"
 language: de
-version: 2018-08-01
-valid_until: 2021-06-30
-version_adopted: 2018-01-09
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-08
 adopted: 2005-12-06
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2609/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2982/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2609/pdf_file"
 
 (Polizeigesetz, PolG)
 
-Vom 06.12.2005 (Stand 01.08.2018)
+Vom 06.12.2005 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -58,7 +58,7 @@ beschliesst:
 <sup>1</sup> Die Aufgaben der Kantonspolizei sind
 
 - a) die Sicherheits-, Verkehrs- und Verwaltungspolizei, soweit nicht die Zuständigkeit der Gemeinden nach § 4 vorliegt,
-- b) die Verhinderung von Straftaten,
+- b) die Verhinderung und Erkennung von Straftaten,
 - c) die Kriminalpolizei nach den Vorschriften des Strafprozessrechts,
 - d) der Nachrichtendienst gemäss Bundesrecht,
 - e) die Hilfeleistung in Notfällen und bei Katastrophen,
@@ -67,7 +67,8 @@ beschliesst:
 - h) die Unterstützung und Beratung der Behörden, Amtsstellen und Gemeinden in Sicherheitsfragen,
 - i) die Aufsicht über private Sicherheitsdienste,
 - k) die Antragstellung für Ausreisebeschränkungen gemäss Art. 24c des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit (BWIS) vom 21. März 1997[^3-1],
-- l) die Bewilligungen und Massnahmen gemäss Art. 13 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^3-2].
+- l) die Bewilligungen und Massnahmen gemäss Art. 13 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^3-2],
+- m) die Ergreifung von beratenden und präventiven Schutzmassnahmen im Rahmen des Bedrohungsmanagements.
 
 <sup>2</sup> Die Kantonspolizei erfüllt im Rahmen von mehrjährigen Vereinbarungen gegen kostendeckende Entschädigung qualifizierte und definierte polizeiliche Aufgaben der Gemeinden.
 
@@ -89,7 +90,7 @@ beschliesst:
 - c) die Überwachung und Kontrolle des ruhenden Strassenverkehrs auf dem ganzen Gemeindegebiet sowie des fliessenden Strassenverkehrs innerorts und auf Gemeindestrassen ausserorts,
 - d) verwaltungspolizeiliche Aufgaben.
 
-<sup>3</sup> Die Kantonspolizei kann in Ausnahmefällen durch Vereinbarung geeigneten Polizeikorps der Gemeinden gegen kostendeckende Entschädigung kriminalpolizeiliche Aufgaben übertragen, sofern die Gemeinde die Aufgaben gemäss Absatz 2 umfassend erfüllt und die notwendigen personellen Kräfte zur Verfügung stehen.
+<sup>3</sup> Die Kantonspolizei kann durch Vereinbarung den einzelnen Polizeikorps der Gemeinden kriminalpolizeiliche Aufgaben übertragen, wenn die Gemeinde die Aufgaben gemäss Absatz 2 umfassend erfüllt und die notwendigen personellen Kräfte zur Verfügung stehen.
 
 <sup>4</sup> Der Grosse Rat legt den Inhalt der lokalen Sicherheit und den Katalog der übertragbaren Aufgaben abschliessend durch Dekret fest.
 
@@ -105,9 +106,19 @@ beschliesst:
 
 **Begriff und Legitimation**
 
-<sup>1</sup> Die Verwendung der Bezeichnung «Polizei» in der deutschen oder in einer anderen Sprache ist den berechtigten Bundesstellen, der Kantonspolizei und den Polizeikräften der Gemeinden vorbehalten. Uniformen privater Sicherheitsdienste dürfen nicht zu Verwechslungen führen.
+<sup>1</sup> Die Verwendung der Bezeichnung «Polizei» in der deutschen oder in einer anderen Sprache ist den berechtigten Bundesstellen, der Kantonspolizei und den Polizeikräften der Gemeinden vorbehalten. Die Verwendung der Bezeichnung «Polizei» durch Dritte ist verboten.
+
+<sup>1<sup>bis</sup></sup> Private Sicherheitsdienste dürfen keine Uniformen, Fahrzeuge oder andere Gegenstände verwenden, die zur Verwechslung mit der Polizei führen können. Die Verwendung des Aargauer Wappens durch private Sicherheitsdienste ist verboten.
 
 <sup>2</sup> Korpsangehörige in Zivil weisen sich vor jeder Amtshandlung aus, falls dies die Umstände zulassen. Uniformierte Korpsangehörige weisen sich auf Verlangen aus.
+
+#### § 7a
+
+**Vollzugsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die für dieses Gesetz erforderlichen Vollzugsbestimmungen durch Verordnung.
+
+<sup>2</sup> Er hört vor Erlass der Vollzugsbestimmungen die Gemeinden an, soweit ein Bezug zur Tätigkeit der Polizeikräfte der Gemeinden besteht.
 
 #### § 7
 
@@ -155,7 +166,7 @@ beschliesst:
 
 <sup>3</sup> Die entsprechende Regelung gilt auch für die Amts- und Vollzugshilfe durch Polizeikräfte der Gemeinden.
 
-### 1.3. Organisation und Dienstrecht der Kantonspolizei
+### 1.3. Organisation und Dienstrecht
 
 #### § 12
 
@@ -164,6 +175,34 @@ beschliesst:
 <sup>1</sup> Die Kantonspolizei ist der Vorsteherin oder dem Vorsteher des zuständigen Departements unterstellt. Sie wird von der Polizeikommandantin oder dem Polizeikommandanten geführt.
 
 <sup>2</sup> Die Polizeikommandantin oder der Polizeikommandant ist zuständig für die administrative Leitung, den Einsatz sowie die Aus- und Weiterbildung der Kantonspolizei.
+
+#### § 12a
+
+**Zuständigkeit der Kaderangehörigen der Kantonspolizei**
+
+<sup>1</sup> Die Anordnung folgender Massnahmen ist Kaderangehörigen der Kantonspolizei vorbehalten:
+
+- a) Dokumentation von Einsätzen mit mobilen Bild- und Tonaufnahmegeräten gemäss § 25 Abs. 4,
+- b) Polizeigewahrsam gemäss § 31 Abs. 1, der länger als drei Stunden dauert,
+- c) präventive Observation gemäss § 35a Abs. 1,
+- d) präventive Observation mit Überwachungsgeräten zur Standortfeststellung gemäss § 35b Abs. 1,
+- e) präventive verdeckte Fahndung gemäss § 35c Abs. 1,
+- f) präventive verdeckte Ermittlung gemäss § 35d Abs. 1,
+- g) optisch-elektronische Überwachung gemäss § 36a Abs. 1,
+- h) Datenabgleich gemäss § 36b Abs. 4.
+
+<sup>2</sup> Der Regierungsrat bezeichnet die für die Anordnungen gemäss Absatz 1 zuständigen polizeilichen Kaderfunktionen durch Verordnung.
+
+#### § 12b
+
+**Zuständigkeit der Kaderangehörigen der Polizeikräfte der Gemeinden**
+
+<sup>1</sup> Die Anordnung folgender Massnahmen ist Kaderangehörigen der Polizeikräfte der Gemeinden vorbehalten:
+
+- a) Dokumentation von Einsätzen mit mobilen Bild- und Tonaufnahmegeräten gemäss § 25 Abs. 4,
+- b) Polizeigewahrsam gemäss § 31 Abs. 1, der länger als drei Stunden dauert.
+
+<sup>2</sup> Die zuständigen politischen Organe der Polizeikräfte der Gemeinden bezeichnen die für die Anordnungen gemäss Absatz 1 zuständigen Kaderfunktionen in einem Reglement.
 
 #### § 13
 
@@ -197,31 +236,44 @@ beschliesst:
 
 #### § 16
 
-**Ausbildung**
+**Polizeiausbildung**
 
-<sup>1</sup> Die Ausbildung für Angehörige des Polizeikorps erfolgt in der aargauischen oder einer gleichwertigen Polizeischule. Die Polizeikommandantin oder der Polizeikommandant kann für bestimmte Funktionen eine andere Ausbildung der Polizeischule gleichsetzen.
+<sup>1</sup> Die Ausbildung der Angehörigen des Polizeikorps erfolgt in einem regionalen Polizeiausbildungszentrum. Die Polizeikommandantin oder der Polizeikommandant kann für bestimmte Funktionen eine andere Ausbildung derjenigen in einem regionalen Polizeiausbildungszentrum gleichsetzen.
+
+<sup>2</sup> Die Kantonspolizei und die Polizeikräfte der Gemeinden sind verpflichtet, eine ausreichende Anzahl Polizistinnen und Polizisten ausbilden zu lassen, um ihren Personalbedarf sicherstellen zu können.
 
 #### § 17
 
-**Aufnahme in die Polizeischule**
+**Zulassung zur Polizeiausbildung**
 
-<sup>1</sup> In die Polizeischule kann aufgenommen werden, wer volljährig ist, das Schweizer Bürgerrecht besitzt, charakterlich, geistig und körperlich geeignet ist sowie die deutsche Sprache in Wort und Schrift beherrscht.
+<sup>1</sup> Zur Polizeiausbildung kann zugelassen werden, wer volljährig ist, das Schweizer Bürgerrecht besitzt, charakterlich, geistig und körperlich geeignet ist sowie die deutsche Sprache in Wort und Schrift beherrscht.
 
-<sup>2</sup> Über die Zulassung zur Polizeischule entscheidet die Polizeikommandantin oder der Polizeikommandant.
+<sup>2</sup> Über die Zulassung zur Polizeiausbildung entscheidet die Polizeikommandantin oder der Polizeikommandant.
 
 #### § 18
 
-**Rückerstattung von Ausbildungskosten**
+**Rückforderung der Ausbildungskosten der Kantonspolizei**
 
-<sup>1</sup> Das zuständige Departement fordert die Rückerstattung eines angemessenen Teils der Ausbildungskosten bei
+<sup>1</sup> Das zuständige Departement fordert von der ausgebildeten Person oder der Person in Ausbildung die Rückerstattung eines angemessenen Teils der Ausbildungskosten der Kantonspolizei bei
 
-- a) einem freiwilligen Austritt aus der Polizeischule,
-- b) einem freiwilligen Verzicht auf den Übertritt ins Polizeikorps nach Abschluss der Polizeischule,
-- c) einem freiwilligen Austritt aus dem Polizeikorps innerhalb von drei Jahren seit Abschluss der Polizeischule, sofern die Ausbildung durch den Kanton finanziert worden ist.
+- a) einem freiwilligen Abbruch der Polizeiausbildung,
+- b) einem freiwilligen Verzicht auf den Übertritt ins Polizeikorps nach Abschluss der Polizeiausbildung,
+- c) einem freiwilligen Austritt aus dem Polizeikorps innerhalb von drei Jahren seit Abschluss der Polizeiausbildung, wenn diese durch den Kanton finanziert worden ist.
 
-<sup>2</sup> Als Ausbildungskosten gelten die Aufwendungen für das Lehrpersonal, die Ausrüstung und das Material.
+<sup>2</sup> Die Ausbildungskosten entsprechen dem von der Konkordatsbehörde der Interkantonalen Polizeischule Hitzkirch (IPH) aktuell festgelegten Pauschalbetrag.
 
 <sup>3</sup> Bei Vorliegen wichtiger Gründe für die Beendigung des Arbeitsverhältnisses kann auf die Rückerstattung verzichtet werden.
+
+#### § 18a
+
+**Rückerstattung von Ausbildungskosten durch aufnehmendes Polizeikorps**
+
+<sup>1</sup> Kommt es innert fünf Jahren seit Abschluss der Polizeiausbildung zu einem Korpswechsel zwischen der Kantonspolizei und einem Polizeikorps der Gemeinden oder zwischen verschiedenen Polizeikorps der Gemeinden, hat das die wechselnde Person aufnehmende Polizeikorps dem abgebenden Polizeikorps die Ausbildungskosten gemäss § 18 Abs. 2 zurückzuerstatten.
+
+<sup>2</sup> Der Rückerstattungsbetrag reduziert sich um
+
+- a) 1/60 der Ausbildungskosten für jeden im abgebenden Polizeikorps bereits vollständig geleisteten Monat und
+- b) den Betrag, den die ausgebildete Person dem abgebenden Polizeikorps bereits gemäss § 18 oder aufgrund einer arbeitsvertraglichen Verpflichtung zurückerstattet hat.
 
 ### 1.4. Öffentliche Sicherheit in den Gemeinden
 
@@ -265,7 +317,7 @@ beschliesst:
 
 <sup>1</sup> Gemeinden, die für die Gewährleistung der lokalen Sicherheit die Dienste der Kantonspolizei in Anspruch nehmen, leisten dem Kanton eine Vergütung.
 
-<sup>2</sup> Der Regierungsrat bestimmt nach Anhörung der Gemeinden die Vergütungsansätze durch Verordnung. Diese decken die Kosten der Kantonspolizei und bemessen sich nach dem Umfang der Leistungen, der Siedlungsform sowie der Einwohnerzahl.
+<sup>2</sup> Der Regierungsrat legt die Kriterien für die Höhe der Abgeltung durch Verordnung fest. Der Umfang des Kostenersatzes entspricht den Vollkosten des Aufwands.
 
 <sup>3</sup> Ausserordentliche Dienstleistungen stellt die Kantonspolizei nach Aufwand in Rechnung.
 
@@ -287,11 +339,15 @@ beschliesst:
 
 #### § 25
 
-**Aufgabenerfüllung**
+**Aufgabenerfüllung und Dokumentationspflicht**
 
 <sup>1</sup> Die Polizei erfüllt ihre Aufgaben gemäss den gesetzlichen Grundlagen, im öffentlichen Interesse und nach dem Grundsatz der Verhältnismässigkeit.
 
 <sup>2</sup> Fehlen besondere gesetzliche Grundlagen, handelt die Polizei im Sinne der polizeilichen Generalklausel; sie trifft jene Massnahmen, die zur Beseitigung einer erheblichen Störung oder zur Abwehr einer unmittelbar drohenden, erheblichen Gefährdung der öffentlichen Sicherheit und Ordnung sowie für Mensch, Tier und Umwelt notwendig sind.
+
+<sup>3</sup> Die Polizei dokumentiert ihr Handeln nachvollziehbar.
+
+<sup>4</sup> Zur Dokumentation von Einsätzen kann die Polizei mobile Bild- und Tonaufnahmegeräte verwenden. Die Aufzeichnungen sind sofort auszuwerten. Datenaufbewahrung und -vernichtung richten sich nach § 54.
 
 #### § 26
 
@@ -315,31 +371,41 @@ beschliesst:
 
 <sup>2</sup> Hoheitliche Befugnisse übt aus, wer den betroffenen Personen ein Handeln, Unterlassen oder Dulden vorschreibt und dieses Verhalten rechtmässig durchsetzen kann.
 
-### 2.2. Polizeiliche Massnahmen und polizeilicher Zwang
+<sup>3</sup> Transport, Bewachung und Betreuung von bereits festgenommenen oder inhaftierten Personen können an private Sicherheitsdienste delegiert werden.
+
+<sup>4</sup> Private Sicherheitsdienste, die Aufgaben gemäss Absatz 3 wahrnehmen, unterstehen der Aufsicht und dem Weisungsrecht der Kantonspolizei und sind von dieser auszubilden.
+
+### 2.2. Polizeiliche Massnahmen, polizeilicher Zwang und Bedrohungsmanagement
 
 #### § 28
 
 **Geltung**
 
-<sup>1</sup> Die Bestimmungen über die polizeilichen Massnahmen und den polizeilichen Zwang gelten für jede polizeiliche Tätigkeit der Kantonspolizei und der Polizeikräfte der Gemeinden.
+<sup>1</sup> Die Bestimmungen über die polizeilichen Massnahmen und den polizeilichen Zwang gelten für jede polizeiliche Tätigkeit der Kantonspolizei und der Polizeikräfte der Gemeinden. Die Anordnungs- beziehungsweise Ausübungszuständigkeit richtet sich nach den §§ 12a und 12b und den nachfolgenden Bestimmungen.
 
 <sup>2</sup> Im Rahmen eines Strafverfahrens gelten die Bestimmungen des Strafprozessrechts.
 
 ### 2.2.1. Polizeiliche Massnahmen
 
+#### § 28a
+
+**Polizeiliche Vorermittlungen**
+
+<sup>1</sup> Die Polizei tätigt aufgrund von Hinweisen oder eigenen Wahrnehmungen Vorermittlungen, um festzustellen, ob strafbare Handlungen zu verhindern oder zu erkennen sind.
+
 #### § 29
 
 **Personenkontrolle und polizeiliche Anhaltung**
 
-<sup>1</sup> In begründeten Fällen kann die Polizei Personen zur Verhinderung oder Aufdeckung von Straftaten und zur Abwehr von Gefahren kontrollieren. Sie kann ihre Personalien überprüfen und abklären, ob nach ihnen oder nach Sachen, die sich in ihrem Gewahrsam befinden, gefahndet wird.
+<sup>1</sup> In begründeten Fällen kann die Polizei Personen zur Verhinderung oder Erkennung von Straftaten und zur Gefahrenabwehr kontrollieren. Sie kann ihre Personalien überprüfen und abklären, ob nach ihnen oder nach Sachen, die sich in ihrem Gewahrsam befinden, gefahndet wird.
 
 <sup>2</sup> Die kontrollierten Personen sind verpflichtet, auf Verlangen ihre Personalien anzugeben, mitgeführte Ausweise vorzulegen, Sachen in ihrem Gewahrsam vorzuzeigen und zu diesem Zweck Behältnisse sowie Fahrzeuge zu öffnen.
 
-<sup>3</sup> Die Polizei kann die kontrollierten Personen auf den Polizeiposten führen wenn
+<sup>3</sup> Die Polizei kann die kontrollierten Personen auf den Polizeiposten führen, wenn
 
 - a) die Identität an Ort nicht sicher oder nur mit erheblichen Schwierigkeiten feststellbar ist oder
-- b) Anhaltspunkte bestehen, dass die Personen unrichtige Angaben machen oder
-- c) ein Anfangsverdacht vorliegt.
+- b) Anhaltspunkte bestehen, dass die Personen unrichtige Angaben machen.
+- c) …
 
 <sup>4</sup> Die notwendigen Abklärungen sind rasch vorzunehmen. Die angehaltenen Personen müssen nach erfolgter Abklärung unverzüglich, spätestens aber nach 5 Stunden, entlassen werden.
 
@@ -357,16 +423,25 @@ beschliesst:
 
 **Polizeigewahrsam**
 
-<sup>1</sup> Die Polizei kann Personen in Gewahrsam nehmen, die
+<sup>1</sup> Die Polizei kann Personen in Gewahrsam nehmen, wenn
 
-- a) andere Personen ernsthaft und unmittelbar gefährden und die Gefahr nicht auf andere Weise abgewendet werden kann,
-- b) sich in einem Zustand befinden, in dem sie für sich oder andere eine ernsthafte Gefährdung darstellen oder öffentliches Ärgernis erregen.
+- a) diese andere Personen ernsthaft und unmittelbar gefährden und die Gefahr nicht auf andere Weise abgewendet werden kann,
+- b) diese sich in einem Zustand befinden, in dem sie für sich oder andere eine ernsthafte Gefährdung darstellen,
+- c) aufgrund konkreter Umstände ernsthaft zu befürchten ist, dass diese unmittelbar ein erhebliches Verbrechen oder Vergehen begehen werden,
+- d) diese eine Wegweisung, eine Fernhaltung, ein Kontaktverbot oder ein Annäherungsverbot missachten,
+- e) dies für deren Vor-, Zu- und Rückführungen erforderlich ist.
 
-<sup>2</sup> Die zuständige Untersuchungsbehörde ist über die Massnahme zu informieren. Beim Gewahrsam von Minderjährigen ist die Jugendanwaltschaft zu benachrichtigen.
+<sup>2</sup> Minderjährige dürfen erst ab dem vollendeten 15. Altersjahr in Gewahrsam genommen werden. Die Jugendanwaltschaft ist zu benachrichtigen.
 
-<sup>3</sup> Im Rahmen des Gewahrsams ist auch die vorübergehende Einschliessung zulässig, sofern dies zur Sicherung oder Fortsetzung der Massnahme erforderlich ist.
+<sup>2<sup>bis</sup></sup> Bei Minderjährigen oder Personen unter umfassender Beistandschaft sind die gesetzlichen Vertretungen zu benachrichtigen.
 
-<sup>4</sup> Die in Gewahrsam genommenen Personen sind über den Grund der Massnahme sofort zu informieren und über ihre Rechte zu belehren. Sie dürfen nicht länger als unbedingt notwendig, längstens aber 24 Stunden, in Gewahrsam gehalten werden.
+<sup>3</sup> Im Rahmen des Gewahrsams ist auch die Einschliessung zulässig, wenn dies zur Sicherung oder Fortsetzung der Massnahme erforderlich ist.
+
+<sup>4</sup> Die in Gewahrsam genommenen Personen sind über den Grund der Massnahme sofort zu informieren und über ihre Rechte zu belehren.
+
+<sup>5</sup> Die in Gewahrsam genommenen Personen haben das Recht, Angehörige informieren zu lassen, wenn dies dem Zweck des Gewahrsams nicht zuwiderläuft.
+
+<sup>6</sup> Der Gewahrsam dauert bis zum Wegfall seines Grundes, jedoch längstens 24 Stunden.
 
 #### § 32
 
@@ -382,43 +457,198 @@ beschliesst:
 
 - a) die Voraussetzungen für die Vorführung oder den polizeilichen Gewahrsam gegeben sind,
 - b) dringender Verdacht besteht, dass sie eine Straftat begehen werden,
-- c) sie aus einer Anstalt entwichen sind,
-- d) sie vermisst werden.
+- c) sie aus einer Anstalt oder Einrichtung entwichen sind, in der sie sich aus strafrechtlichen oder zivilrechtlichen Gründen aufhalten müssen,
+- c<sup>bis</sup>) sie sich einer strafrechtlichen oder zivilrechtlichen Massnahme entziehen,
+- d) sie vermisst werden,
+- e) ihnen ein amtliches Dokument polizeilich zugestellt werden muss.
+
+<sup>1<sup>bis</sup></sup> Die Polizei kann Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container gemäss den Bestimmungen der Verordnung über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung) vom 8. März 2013[^33-1] zur verdeckten Registrierung und gezielten Kontrolle im Schengener Informationssystem ausschreiben.
 
 <sup>2</sup> Die Ausschreibung wird von Amtes wegen oder auf Antrag widerrufen, sobald der Grund dafür weggefallen ist.
 
+[^33-1]: SR [362.0](https://db.clex.ch/link/Bund/362.0/de)
+
+#### § 33a
+
+**Fahndung nach entwichenen oder vermissten Personen**
+
+<sup>1</sup> Wenn andere Fahndungsmethoden erfolglos waren oder aussichtslos sind, kann die Polizei für die Suche nach einer entwichenen oder vermissten Person
+
+- a) eine öffentliche Fahndung mit Bild und Angaben zur Person durchführen,
+- b) Grundstücke oder Räumlichkeiten betreten und durchsuchen, wenn zu vermuten ist, dass sich dort die gesuchte Person aufhält oder Angaben über deren Aufenthaltsort zu finden sind,
+- c) Aufzeichnungen der Person einsehen, wenn zu vermuten ist, dass darin Angaben über deren Aufenthaltsort zu finden sind,
+- d) die Herausgabe von Aufzeichnungen von öffentlichen oder privaten Videoüberwachungsgeräten verlangen,
+- e) Daten erheben, die Aufschlüsse über den Zahlungsverkehr der Person geben können, oder
+- f) die Überwachung des Post- und Fernmeldeverkehrs ausserhalb eines Strafverfahrens gemäss den Bestimmungen des Bundesgesetzes betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) vom 18. Oktober 2016[^33a-1] anordnen.
+
+<sup>2</sup> Als vermisst gilt eine Person, deren Aufenthalt unbekannt oder unverhältnismässig schwer zu ermitteln ist und bei der begründete Anhaltspunkte für eine Gefährdung ihrer Gesundheit oder ihres Lebens bestehen.
+
+<sup>3</sup> Daten gemäss Absatz 1 lit. e dürfen bei Drittpersonen nur erhoben werden, wenn konkreter Verdacht besteht, dass sie eine entwichene oder vermisste Person finanziell unterstützen.
+
+<sup>4</sup> Die Massnahmen gemäss Absatz 1 lit. b–f bedürfen der Genehmigung des Zwangsmassnahmengerichts.
+
+[^33a-1]: SR [780.1](https://db.clex.ch/link/Bund/780.1/de)
+
 #### § 34
 
-**Wegweisung und Fernhaltung**
+**Wegweisung und Fernhaltung; Allgemeines**
 
-<sup>1</sup> Die Polizei kann Personen vorübergehend von einem Ort wegweisen oder fernhalten, wenn diese
+<sup>1</sup> Die Polizei kann Personen von einem bestimmten Gebiet wegweisen oder fernhalten, wenn
 
-- a) die öffentliche Sicherheit und Ordnung erheblich gefährden oder stören,
-- b) den Einsatz von Polizeikräften, Feuerwehren oder Rettungsdiensten behindern,
-- c) andere Personen ernsthaft gefährden.
+- a) diese die öffentliche Sicherheit und Ordnung erheblich gefährden oder stören,
+- b) diese den Einsatz von Polizeikräften, Feuerwehren oder Rettungsdiensten behindern,
+- c) diese andere Personen oder sich selbst ernsthaft gefährden,
+- d) dies zur Wahrung der Rechte anderer Personen, insbesondere zur Wahrung der Pietät, erforderlich ist,
+- e) diese sich in verbotener Weise verhalten.
 
-<sup>2</sup> Sie kann insbesondere Personen, die der Anwendung von Gewalt gegen Mitglieder des gemeinsamen Haushalts dringend verdächtigt werden oder die mit Gewaltanwendung drohen, den Aufenthalt in den gemeinsam bewohnten Räumlichkeiten und deren unmittelbaren Umgebung vorübergehend verbieten und die zur Durchsetzung des Verbots erforderlichen Massnahmen treffen. Die betroffenen Personen sind vor der Anordnung anzuhören, soweit dies möglich ist.
+<sup>1<sup>bis</sup></sup> Eine Wegweisung oder Fernhaltung darf nur so lange dauern, als dies zum Schutz der betroffenen Rechtsgüter erforderlich ist, längstens aber drei Monate. Dauert die Massnahme länger als 24 Stunden, ist sie durch Verfügung zu eröffnen.
 
-<sup>3</sup> Die Wegweisung und Fernhaltung bei häuslicher Gewalt wird schriftlich eröffnet und dauert bis zu einem richterlichen Entscheid über eine Schutzmassnahme, längstens aber 20 Tage.
+<sup>1<sup>ter</sup></sup> Das für die Wegweisung oder Fernhaltung bestimmte Gebiet darf nur so gross sein, als dies zum Schutz der betroffenen Rechtsgüter erforderlich ist.
+
+<sup>1<sup>quater</sup></sup> Die Polizei kann eine Person auf den Polizeiposten verbringen, um ihr dort die Wegweisung oder Fernhaltung durch Verfügung zu eröffnen.
+
+<sup>1<sup>quinquies</sup></sup> Anstelle einer Wegweisung oder Fernhaltung kann die Polizei als mildere Massnahme einer Person bestimmte Verhaltensweisen in einem bestimmten Gebiet verbieten.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+#### § 34a
+
+**Wegweisung und Fernhaltung; Häusliche Gewalt**
+
+<sup>1</sup> Die Polizei kann Personen, die der Anwendung von Gewalt gegen Mitglieder des gemeinsamen Haushalts dringend verdächtigt werden oder die mit Gewaltanwendung drohen, den Aufenthalt in den gemeinsam bewohnten Räumlichkeiten und deren unmittelbaren Umgebung vorübergehend verbieten und die zur Durchsetzung des Verbots erforderlichen Massnahmen treffen. Die betroffenen Personen sind vor der Anordnung anzuhören, soweit dies möglich ist.
+
+<sup>2</sup> Die Wegweisung und Fernhaltung bei häuslicher Gewalt wird durch Verfügung eröffnet und dauert bis zu einem richterlichen Entscheid über eine Schutzmassnahme, längstens aber 20 Tage.
+
+#### § 34b
+
+**Kontakt- und Annäherungsverbot**
+
+<sup>1</sup> Die Polizei kann gegenüber einer Person, die einer anderen Person wiederholt nachstellt, sie belästigt oder bedroht, ein Kontakt- oder Annäherungsverbot aussprechen.
+
+<sup>2</sup> Ein Kontakt- und Annäherungsverbot darf nur so lange dauern, als dies zum Schutz der betroffenen Rechtsgüter erforderlich ist, längstens aber drei Monate. Dauert es länger als 24 Stunden, ist die Massnahme durch Verfügung zu eröffnen.
 
 #### § 35
 
-**Observation und verdeckte Ermittlung**
+**…**
 
-<sup>1</sup> Die Polizei kann an öffentlichen oder allgemein zugänglichen Orten Personen beobachten und diese sowie deren Äusserungen aufzeichnen, wenn
+#### § 35a
 
-- a) dies zur Verhinderung oder Aufdeckung von Straftaten dient und
-- b) andere Massnahmen weniger Erfolg versprechen oder erschwert wären.
+**Präventive Observation; Allgemeines**
 
-<sup>2</sup> Hat die Observation insgesamt 10 Tage gedauert, ist die Oberstaatsanwaltschaft zu informieren. Die Fortsetzung der Massnahme bedarf der Bewilligung des Zwangsmassnahmengerichts.
+<sup>1</sup> Die Kantonspolizei kann zur Verhinderung und Erkennung von Verbrechen und Vergehen sowie zur Gefahrenabwehr Personen an öffentlichen oder allgemein zugänglichen Orten präventiv observieren, wenn
 
-<sup>3</sup> Die von der Observation direkt betroffenen Personen werden nach Abschluss über die Massnahme informiert, wenn der Erfolg der Massnahme dadurch nicht gefährdet wird.
+- a) ernsthafte Anhaltspunkte bestehen, dass Verbrechen oder Vergehen vor der Ausführung stehen, und
+- b) die polizeilichen Vorermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
 
-<sup>4</sup> Gegen die durchgeführte Observation kann beim Obergericht Beschwerde geführt werden.
+<sup>2</sup> Die Kantonspolizei kann im Rahmen einer präventiven Observation Bild- und Tonaufnahmen erstellen.
 
-<sup>5</sup> Die Polizeikommandantin oder der Polizeikommandant kann zur polizeilichen Gefahrenabwehr vor Eröffnung eines Strafverfahrens den Einsatz verdeckter Ermittlungspersonen anordnen, sie mit einer Legende ausstatten und ihnen Anonymität zusichern. Die Oberstaatsanwaltschaft ist über die Anordnung der verdeckten Ermittlung zu informieren. Im Übrigen gelten Art. 286–298 der Schweizerischen Strafprozessordnung (StPO) vom 5. Oktober 2007[^35-1]) sinngemäss. Der Regierungsrat kann für die verdeckten Ermittlungspersonen besondere Dienstvorschriften durch Verordnung festlegen.
+<sup>3</sup> Die präventive Observation von Vorgängen und Einrichtungen, die der geschützten Privatsphäre zuzurechnen sind, ist unzulässig. Entsprechende Bild- und Tonaufnahmen, die aus technischen Gründen nicht verhindert werden können, sind umgehend zu vernichten.
 
-[^35-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+<sup>4</sup> Hat eine präventive Observation 30 Tage gedauert, bedarf die Fortsetzung der Genehmigung durch das Zwangsmassnahmengericht.
+
+<sup>5</sup> Die Kantonspolizei bringt den Antrag auf Genehmigung gemäss Absatz 4 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
+
+<sup>6</sup> Das Zwangsmassnahmengericht bringt den Genehmigungsentscheid gemäss Absatz 4 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
+
+<sup>7</sup> Die Kantonspolizei teilt den betroffenen Personen spätestens mit Abschluss der präventiven Observation mit, dass sie observiert worden sind.
+
+<sup>8</sup> Die Mitteilung gemäss Absatz 7 kann mit Zustimmung des Zwangsmassnahmengerichts aufgeschoben oder unterlassen werden, wenn
+
+- a) die Erkenntnisse nicht zu Beweiszwecken verwendet werden, und
+- b) der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+
+#### § 35b
+
+**Präventive Observation mit Überwachungsgeräten zur Standortfeststellung**
+
+<sup>1</sup> Die Kantonspolizei kann im Rahmen einer präventiven Observation Überwachungsgeräte zur Feststellung des Standorts von Personen und Sachen einsetzen, wenn
+
+- a) ernsthafte Anhaltspunkte bestehen, dass eine Straftat gemäss Art. 269 Abs. 2 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^35b-1] vor der Ausführung steht,
+- b) die Schwere der Straftat den Einsatz von Überwachungsgeräten zur Standortfeststellung rechtfertigt, und
+- c) andere polizeiliche Massnahmen erfolglos geblieben sind oder die polizeilichen Vorermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
+
+<sup>2</sup> Der Einsatz von Überwachungsgeräten zur Standortfeststellung bedarf einer Genehmigung durch das Zwangsmassnahmengericht. Vorbehältlich der Absätze 3 und 4 richtet sich das Genehmigungsverfahren sinngemäss nach Art. 274 StPO, wobei die Einholung der Genehmigung der Kantonspolizei obliegt.
+
+<sup>3</sup> Die Kantonspolizei bringt den Antrag auf Genehmigung gemäss Absatz 2 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
+
+<sup>4</sup> Das Zwangsmassnahmengericht bringt den Genehmigungsentscheid gemäss Absatz 2 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
+
+<sup>5</sup> Die Kantonspolizei teilt den betroffenen Personen spätestens im Rahmen der Mitteilung gemäss § 35a Abs. 7 ausdrücklich mit, ob bei der präventiven Observation Überwachungsgeräte zur Feststellung des Standorts von Personen und Sachen eingesetzt worden sind.
+
+<sup>6</sup> Die Mitteilung gemäss Absatz 5 kann mit Zustimmung des Zwangsmassnahmengerichts aufgeschoben oder unterlassen werden, wenn
+
+- a) die Erkenntnisse nicht zu Beweiszwecken verwendet werden, und
+- b) der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+
+[^35b-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+
+#### § 35c
+
+**Präventive verdeckte Fahndung**
+
+<sup>1</sup> Zur Verhinderung und Erkennung von Verbrechen und Vergehen sowie zur Gefahrenabwehr kann die Kantonspolizei mit anderen Personen Kontakt aufnehmen, ohne ihre wahre Identität und Funktion bekannt zu geben, und dabei Scheingeschäfte abschliessen oder den Willen zum Abschluss vortäuschen, wenn
+
+- a) ernsthafte Anhaltspunkte bestehen, dass Verbrechen oder Vergehen vor der Ausführung stehen, und
+- b) andere polizeiliche Massnahmen erfolglos geblieben sind oder die polizeilichen Vorermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
+
+<sup>2</sup> Als verdeckte Fahnderinnen und Fahnder können Angehörige schweizerischer oder ausländischer Polizeikorps eingesetzt werden.
+
+<sup>3</sup> Die Durchführung der präventiven verdeckten Fahndung richtet sich nach Art. 298c Abs. 2 StPO, wobei an die Stelle der Staatsanwaltschaft die Kantonspolizei tritt.
+
+<sup>4</sup> Hat eine präventive verdeckte Fahndung 30 Tage gedauert, bedarf die Fortsetzung einer Genehmigung durch das Zwangsmassnahmengericht.
+
+<sup>5</sup> Die Kantonspolizei bringt den Antrag auf Fortsetzung gemäss Absatz 4 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
+
+<sup>6</sup> Das Zwangsmassnahmengericht bringt den Genehmigungsentscheid gemäss Absatz 4 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
+
+<sup>7</sup> Die Kantonspolizei teilt den betroffenen Personen spätestens mit Abschluss der präventiven verdeckten Fahndung mit, dass nach ihnen verdeckt gefahndet worden ist.
+
+<sup>8</sup> Die Mitteilung gemäss Absatz 7 kann mit Zustimmung des Zwangsmassnahmengerichts aufgeschoben oder unterlassen werden, wenn
+
+- a) die Erkenntnisse nicht zu Beweiszwecken verwendet werden, und
+- b) der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+
+#### § 35d
+
+**Präventive verdeckte Ermittlung**
+
+<sup>1</sup> Zur Verhinderung und Erkennung von Straftaten gemäss Art. 286 Abs. 2 StPO kann die Kantonspolizei präventive verdeckte Ermittlerinnen und Ermittler einsetzen, die unter einer auf Dauer angelegten falschen Identität (Legende) versuchen, durch aktives und zielgerichtetes Verhalten mit anderen Personen Kontakt zu knüpfen und ein Vertrauensverhältnis aufzubauen.
+
+<sup>2</sup> Eine präventive verdeckte Ermittlung kann angeordnet werden, wenn
+
+- a) ernsthafte Anhaltspunkte bestehen, dass eine Straftat gemäss Art. 286 Abs. 2 StPO vor der Ausführung steht,
+- b) die Schwere der Straftat eine präventive verdeckte Ermittlung rechtfertigt, und
+- c) andere polizeiliche Massnahmen erfolglos geblieben sind oder die polizeilichen Vorermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
+
+<sup>3</sup> Als verdeckte Ermittlerinnen und Ermittler können eingesetzt werden:
+
+- a) Angehörige schweizerischer oder ausländischer Polizeikorps,
+- b) Personen, die vorübergehend für polizeiliche Aufgaben angestellt sind, auch wenn sie nicht über eine polizeiliche Ausbildung verfügen.
+
+<sup>4</sup> Die Durchführung der präventiven verdeckten Ermittlung richtet sich nach den Art. 291–294 StPO, wobei an die Stelle der Staatsanwaltschaft die Kantonspolizei tritt.
+
+<sup>5</sup> Die Anordnung einer präventiven verdeckten Ermittlung bedarf einer Genehmigung durch das Zwangsmassnahmengericht. Vorbehältlich der Absätze 6 und 7 gilt für das Verfahren Art. 289 StPO sinngemäss, wobei die Einholung der Genehmigung der Kantonspolizei obliegt.
+
+<sup>6</sup> Die Kantonspolizei bringt den Antrag auf Genehmigung gemäss Absatz 5 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
+
+<sup>7</sup> Das Zwangsmassnahmengericht bringt den Genehmigungsentscheid gemäss Absatz 5 der Oberstaatsanwaltschaft beziehungsweise bei Minderjährigen der Jugendanwaltschaft zur Kenntnis.
+
+<sup>8</sup> Die Kantonspolizei teilt den betroffenen Personen spätestens mit Abschluss der präventiven verdeckten Ermittlung mit, dass gegen sie verdeckt ermittelt worden ist.
+
+<sup>9</sup> Die Mitteilung gemäss Absatz 8 kann mit Zustimmung des Zwangsmassnahmengerichts aufgeschoben oder unterlassen werden, wenn
+
+- a) die Erkenntnisse nicht zu Beweiszwecken verwendet werden, und
+- b) der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+
+<sup>10</sup> Unabhängig von einer konkreten präventiven verdeckten Ermittlung kann die Kantonspolizei mit Genehmigung des Zwangsmassnahmengerichts auch für spätere Ermittlungstätigkeiten Legenden gemäss Absatz 1 erstellen lassen.
+
+#### § 35e
+
+**Polizeiliche Massnahmen im Internet**
+
+<sup>1</sup> Die Kantonspolizei kann polizeiliche Massnahmen gemäss den §§ 35a, 35c und 35d unter denselben Voraussetzungen auch in elektronischen Datennetzen (Internet) durchführen.
 
 #### § 36
 
@@ -427,6 +657,44 @@ beschliesst:
 <sup>1</sup> Die Polizei kann im Zusammenhang mit öffentlichen Veranstaltungen und Kundgebungen Personen beobachten und diese sowie deren Äusserungen aufzeichnen, wenn Anzeichen bestehen, dass es zu strafbaren Handlungen kommen könnte.
 
 <sup>2</sup> Die Aufzeichnungen sind sofort auszuwerten. Sie dürfen ausschliesslich weiter bearbeitet werden, wenn Delikte begangen worden sind, und sind zu vernichten, sobald der Grund für die Aufzeichnung weggefallen ist.
+
+#### § 36a
+
+**Optisch-elektronische Überwachung**
+
+<sup>1</sup> Die Kantonspolizei kann zur Verhinderung und Erkennung von Verbrechen und Vergehen sowie zur Gefahrenabwehr bestimmte öffentlich zugängliche Orte, an denen häufig Straftaten begangen worden sind oder an denen mit Straftaten zu rechnen ist, optisch-elektronisch überwachen oder zu diesem Zweck auf Bildaufnahmegeräte von Dritten zugreifen.
+
+<sup>2</sup> Die Überwachung mit Bildaufnahmegeräten von Vorgängen und Einrichtungen, die der geschützten Privatsphäre zuzurechnen sind, ist unzulässig. Entsprechende Bildaufnahmen, die aus technischen Gründen nicht verhindert werden können, sind umgehend zu vernichten.
+
+<sup>3</sup> Vor der Anordnung einer Überwachung gemäss Absatz 1 ist eine Datenschutz-Folgenabschätzung gemäss § 17a Abs. 1 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006[^36a-1] durchzuführen. Sind die Voraussetzungen gemäss § 17b Abs. 1 lit. a und b IDAG erfüllt, ist die vorgesehene Überwachung der beauftragten Person für Öffentlichkeit und Datenschutz zur Vorab-Konsultation vorzulegen.
+
+<sup>4</sup> Die Öffentlichkeit ist durch Hinweistafeln, Anzeigen auf Bildschirmen oder in anderer geeigneter Weise vor Ort auf den Einsatz der Bildaufnahmegeräte aufmerksam zu machen.
+
+<sup>5</sup> Datenaufbewahrung und -vernichtung richten sich nach § 54.
+
+[^36a-1]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
+
+#### § 36b
+
+**Automatische Fahrzeugfahndung und Verkehrsüberwachung**
+
+<sup>1</sup> Die Polizei kann Kontrollschilder von Fahrzeugen automatisiert erfassen und mit Datenbanken abgleichen.
+
+<sup>2</sup> Der automatisierte Abgleich ist zulässig mit
+
+- a) polizeilichen Personen- und Sachfahndungsregistern,
+- b) Listen von Kontrollschildern von Fahrzeugen, deren Halterinnen und Halter der Führerausweis entzogen oder verweigert worden ist,
+- c) konkreten Fahndungsaufträgen der Kantonspolizei.
+
+<sup>3</sup> Die automatisch erfassten Daten werden wie folgt gelöscht:
+
+- a) nach 30 Tagen bei keiner Übereinstimmung mit einer Datenbank,
+- b) im Falle einer Übereinstimmung mit einer Datenbank gemäss den Bestimmungen des betreffenden Verwaltung- oder Strafverfahrens.
+
+<sup>4</sup> Die Kantonspolizei darf die automatisch erfassten Daten während 30 Tagen verwenden zur
+
+- a) Aufklärung von Verbrechen und Vergehen,
+- b) Fahndung nach vermissten oder entwichenen Personen.
 
 #### § 37
 
@@ -448,14 +716,17 @@ beschliesst:
 
 **Durchsuchung a) von Personen**
 
-<sup>1</sup> Die Polizei kann Personen durchsuchen, wenn
+<sup>1</sup> Die Polizei kann in oder an der Kleidung von Personen sowie an deren Körperoberfläche oder in den ohne Hilfsmittel einsehbaren Körperöffnungen und Körperhöhlen nach Gegenständen oder Spuren suchen, wenn
 
 - a) dies zum Schutz der Polizistin oder des Polizisten erforderlich erscheint,
 - b) dies zur Identitätsfeststellung notwendig erscheint,
-- c) der Verdacht besteht, dass sie Sachen in Gewahrsam haben, die sicherzustellen sind,
-- d) Gründe für den polizeilichen Gewahrsam gegeben sind.
+- c) der Verdacht besteht, dass die Personen Sachen in Gewahrsam haben, die sicherzustellen sind,
+- d) Gründe für den polizeilichen Gewahrsam gegeben sind,
+- e) die Personen sich in einem die freie Willensbildung ausschliessenden Zustand oder in einer hilfsbedürftigen Lage befinden und die Durchsuchung zu ihrem Schutz erforderlich ist.
 
 <sup>2</sup> Die Durchsuchung ist nach Möglichkeit von einer Person gleichen Geschlechts vorzunehmen.
+
+<sup>3</sup> Für weitergehende körperliche Untersuchungen beauftragt die Polizei eine Ärztin beziehungsweise einen Arzt oder anderes medizinisches Fachpersonal.
 
 #### § 39
 
@@ -465,7 +736,8 @@ beschliesst:
 
 - a) diese von Personen mitgeführt werden, die gemäss § 38 durchsucht werden dürfen,
 - b) der Verdacht besteht, dass sich im Fahrzeug oder in der beweglichen Sache eine Person befindet, die widerrechtlich festgehalten wird oder die in Gewahrsam zu nehmen ist,
-- c) der Verdacht besteht, dass sich im Fahrzeug oder in der beweglichen Sache ein Gegenstand befindet, der sicherzustellen ist.
+- c) der Verdacht besteht, dass sich im Fahrzeug oder in der beweglichen Sache ein Gegenstand befindet, der sicherzustellen ist,
+- d) dies zum Schutz der Polizistin oder des Polizisten erforderlich erscheint.
 
 <sup>2</sup> Private Grundstücke und Liegenschaften sowie öffentliche Gebäude dürfen betreten und durchsucht werden, soweit es zur Abwehr einer unmittelbar drohenden Gefahr notwendig ist oder wenn der Verdacht besteht, dass sich dort eine Person befindet, die in Gewahrsam genommen werden darf.
 
@@ -475,11 +747,12 @@ beschliesst:
 
 **Sicherstellungen a) Gründe und Durchführung**
 
-<sup>1</sup> Die Polizei kann eine Sache sicherstellen zur
+<sup>1</sup> Die Polizei kann Tiere oder Gegenstände sicherstellen zur
 
 - a) Verhinderung einer Straftat,
 - b) Abwehr einer unmittelbar drohenden Gefahr,
-- c) Abklärung der Eigentumsverhältnisse.
+- c) Abklärung der Eigentumsverhältnisse,
+- d) Abklärung der Berechtigung zum Waffenbesitz und zum Waffentragen gemäss der Waffengesetzgebung des Bundes.
 
 <sup>2</sup> Der Grund der Sicherstellung ist der Person, bei der die Sache sichergestellt wird, unverzüglich mitzuteilen.
 
@@ -515,6 +788,16 @@ beschliesst:
 
 <sup>2</sup> Die Herausgabe der Sache kann von der Zahlung der Kosten abhängig gemacht werden. Wird die Zahlung nach Ablauf einer gesetzten Frist nicht geleistet, können die Sache verwertet und die Kosten vom Erlös in Abzug gebracht werden.
 
+#### § 43a
+
+**Berichterstattung[^43a-1]**
+
+<sup>1</sup> Die Kantonspolizei und die Polizeikräfte der Gemeinden erstatten dem Regierungsrat regelmässig Bericht über die durch sie angeordneten polizeilichen Massnahmen.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten der Berichterstattung durch Verordnung.
+
+[^43a-1]: Inkrafttreten: 1. Januar 2022
+
 ### 2.2.2. Polizeilicher Zwang
 
 #### § 44
@@ -529,10 +812,13 @@ beschliesst:
 
 **Fesselung**
 
-<sup>1</sup> Die Polizei darf Personen fesseln, wenn sie polizeilich angehalten, in polizeilichem Gewahrsam, vorläufig festgenommen oder verhaftet sind und der Verdacht besteht,
+<sup>1</sup> Die Polizei darf Personen fesseln, wenn sie polizeilich angehalten, in polizeilichem Gewahrsam, vorläufig festgenommen oder verhaftet sind und der Verdacht besteht, dass
 
-- a) dass sie Menschen angreifen oder Widerstand leisten, Tiere verletzen oder Sachen beschädigen werden oder
-- b) dass sie fliehen wollen oder befreit werden sollen.
+- a) sie Menschen angreifen oder Widerstand leisten, Tiere verletzen oder Sachen beschädigen werden,
+- b) sie fliehen oder befreit werden, oder
+- c) sie sich selbst töten oder verletzen.
+
+<sup>2</sup> Auf polizeilichen Transporten dürfen Personen, denen die Freiheit entzogen wurde, aus Sicherheitsgründen gefesselt werden.
 
 #### § 46
 
@@ -555,13 +841,82 @@ beschliesst:
 
 <sup>5</sup> Der Regierungsrat regelt die Einzelheiten des Waffengebrauchs, insbesondere die Frage der Zulässigkeit der Verwendung von besonderer Munition und des Einsatzes von Reizstoffen oder Gummigeschossen.
 
+### 2.2.2<sup>bis</sup> Bedrohungsmanagement
+
+#### § 46a
+
+**Schutzmassnahmen**
+
+<sup>1</sup> Die Kantonspolizei ergreift bei Vorliegen einer Bedrohungslage die notwendigen beratenden und präventiven Massnahmen zum Schutz der bedrohten Personen.
+
+<sup>2</sup> Sie erfüllt diese Aufgaben namentlich durch
+
+- a) Einholen von Auskünften über strafrechtliche Verfolgungen und Sanktionen bei Gerichten und Strafverfolgungsbehörden, wenn ein hinreichender Verdacht bezüglich Gefährlichkeit der gewalttätigen oder drohenden Person besteht,
+- b) Schlichten im Rahmen ihrer Aufgaben, wenn die Beteiligten vorgängig einwilligen,
+- c) fallbezogenes Einbeziehen von Expertinnen und Experten vorwiegend aus den Bereichen Staatsanwaltschaft, Polizei, Justizvollzug, Psychiatrie und Medizin, wobei diese über die durch sie bearbeiteten besonders schützenswerten Personendaten Verschwiegenheit zu wahren haben,
+- d) Informieren weiterer gefährdeter Drittpersonen, wenn deren Schutz nicht anderweitig sichergestellt werden kann. Besteht die Bedrohung am Arbeitsplatz und sind auch andere Mitarbeitende derselben Organisationseinheit gefährdet, erfolgt die Information gegenüber der direkt vorgesetzten Stelle, wobei diese über die durch sie bearbeiteten besonders schützenswerten Personendaten Verschwiegenheit zu wahren hat.
+
+<sup>3</sup> Der Regierungsrat regelt durch Verordnung die Zielgruppen, die erweiterte beratende und präventive Dienstleistungen in Anspruch nehmen können, und legt die Kostenpflicht fest.
+
+#### § 46b
+
+**Gefährdungsmeldung**
+
+<sup>1</sup> Kantonale, regionale und kommunale Behördenmitglieder und Mitarbeitende dürfen der Polizei Gefährdungsmeldungen betreffend Personen erstatten, bei denen eine erhöhte, gegen Drittpersonen gerichtete Gewaltbereitschaft vorliegen könnte.
+
+<sup>2</sup> Das Melderecht gemäss Absatz 1 steht auch Personen zu, die gemäss § 19 des Gesundheitsgesetzes (GesG) vom 20. Januar 2009[^46b-1] dem Berufsgeheimnis unterstehen.
+
+<sup>3</sup> Die Polizei prüft die Meldungen gemäss den Absätzen 1 und 2 und ergreift die notwendigen Massnahmen.
+
+[^46b-1]: SAR [301.100](https://gesetzessammlungen.ag.ch/data/301.100/de)
+
+#### § 46c
+
+**Gefährderermahnung**
+
+<sup>1</sup> Geben Personen Anlass zur Annahme, dass sie eine schwere Straftat begehen werden, kann die Kantonspolizei sie auf ihr Verhalten ansprechen und sie über das gesetzeskonforme Verhalten sowie die Folgen der Missachtung informieren. Zu diesem Zweck kann sie Personen unter Hinweis auf die Strafandrohung des Art. 292 des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937[^46c-1] vorladen.
+
+<sup>2</sup> Die Ermahnung kann auch schriftlich erfolgen.
+
+<sup>3</sup> Über die Gefährderermahnung wird ein Protokoll erstellt.
+
+[^46c-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+#### § 46d
+
+**Meldeauflage**
+
+<sup>1</sup> Muss bei einer Person aufgrund konkreter und aktueller Anhaltspunkte davon ausgegangen werden, dass sie eine schwere Straftat begehen wird, kann die Kantonspolizei sie verpflichten, sich für eine bestimmte Dauer, zu bestimmten Zeiten und bei einer bestimmten Behörde zu melden.
+
+<sup>2</sup> Die Dauer der Massnahme ist auf sechs Monate begrenzt. Sie kann jeweils um maximal sechs Monate verlängert werden.
+
+<sup>3</sup> Kann die betroffene Person der Verpflichtung nicht nachkommen, hat sie die betreffende Behörde unverzüglich darüber zu informieren und unter Angabe der Gründe um eine Befreiung von der Meldepflicht zu ersuchen. Die betreffende Behörde gewährt die Befreiung nur, wenn wichtige und belegte Gründe vorliegen.
+
+#### § 46e
+
+**Personenschutz ausserhalb eines Strafverfahrens**
+
+<sup>1</sup> Die Kantonspolizei kann ausserhalb eines Strafverfahrens Massnahmen zum Schutz von Personen treffen.
+
+<sup>2</sup> Sie kann schutzbedürftige Personen insbesondere mit einer Legende gemäss Art. 288 Absatz 1 StPO und den dafür notwendigen Urkunden ausstatten. Diese Massnahme bedarf einer Genehmigung durch das Zwangsmassnahmengericht.
+
+<sup>3</sup> Ist die Schutzbedürftigkeit nicht mehr gegeben oder hält sich die gefährdete Person nicht an die ihr erteilten Auflagen, hebt die Kantonspolizei die Massnahme auf. Sie teilt dem Zwangsmassnahmengericht die Aufhebung einer Massnahme gemäss Absatz 2 mit.
+
 ### 2.2.3. Strafbestimmungen
 
 #### § 47
 
 **Vermummungsverbot**
 
-<sup>1</sup> Wer sich bei bewilligungspflichtigen Kundgebungen auf öffentlichem Grund durch Vermummung unkenntlich macht, wird mit Busse bis Fr. 5'000.– bestraft.
+<sup>1</sup> Wer sich bei bewilligungspflichtigen Versammlungen und Demonstrationen oder bei sonstigen Menschenansammlungen auf öffentlichem Grund durch Vermummung unkenntlich macht, um sich dadurch der Strafverfolgung zu entziehen, wird mit Busse bis Fr. 5'000.– bestraft.
+
+<sup>2</sup> Für das Verfahren gelten die Bestimmungen des Strafprozessrechts.
+
+#### § 47a
+
+**Zuwiderhandlungen gegen polizeiliche Wegweisungen und Fernhaltungen**
+
+<sup>1</sup> Wer bei bewilligungspflichtigen Versammlungen und Demonstrationen oder bei sonstigen Menschenansammlungen einer polizeilichen Wegweisung oder Fernhaltung gemäss § 34 zuwiderhandelt, wird mit Busse bis Fr. 5'000.– bestraft.
 
 <sup>2</sup> Für das Verfahren gelten die Bestimmungen des Strafprozessrechts.
 
@@ -577,11 +932,45 @@ beschliesst:
 
 <sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des VRPG.
 
+#### § 48a
+
+**Rechtsschutz; Beschwerde an das Verwaltungsgericht**
+
+<sup>1</sup> Betroffene Personen können bei der zuständigen Kammerpräsidentin oder dem zuständigen Kammerpräsidenten des Verwaltungsgerichts als einziger und letzter kantonaler Instanz Beschwerde gegen folgende polizeiliche Massnahmen erheben:
+
+- a) Massnahmen gemäss den Art. 3b–9 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen,
+- b) Wegweisungen und Fernhaltungen gemäss den §§ 34 und 34a,
+- c) Kontakt- und Annäherungsverbote gemäss § 34b,
+- d) Meldeauflagen gemäss § 46d.
+
+<sup>2</sup> Die Beschwerde ist bei der anordnenden Behörde einzureichen. Diese stellt dem Verwaltungsgericht ihre Stellungnahme mit den Verfahrensakten innert drei Werktagen seit Eingang der Beschwerde zu.
+
+<sup>3</sup> Die Beschwerde hat unter Vorbehalt anderweitiger Anordnungen keine aufschiebende Wirkung.
+
+<sup>4</sup> Auf die Erhebung eines Kostenvorschusses wird verzichtet.
+
+<sup>5</sup> Es gelten keine Rechtsstillstandsfristen.
+
+<sup>6</sup> Im Übrigen richtet sich das Verfahren nach den Bestimmungen des VRPG.
+
+#### § 48b
+
+**Rechtsschutz; Beschwerde an das Obergericht**
+
+<sup>1</sup> Betroffene Personen können bei der Verfahrensleitung der zuständigen Kammer des Obergerichts als einziger und letzter kantonaler Instanz Beschwerde gegen folgende polizeiliche Massnahmen und Entscheide erheben:
+
+- a) Anordnung eines Polizeigewahrsams gemäss § 31,
+- b) Fahndungsmassnahmen gemäss § 33a lit. b–f,
+- c) präventive Observation gemäss § 35a,
+- d) präventive Observation mit Überwachungsgeräten zur Standortfeststellung gemäss § 35b,
+- e) präventive verdeckte Fahndung gemäss § 35c,
+- f) präventive verdeckte Ermittlung gemäss § 35d.
+
+<sup>2</sup> Das Verfahren richtet sich sinngemäss nach den Art. 396 und 397 StPO.
+
 #### § 48bis
 
-**Rechtsschutz; Besonderes**
-
-<sup>1</sup> Gegen Massnahmen gemäss den Art. 3b–9 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen kann die betroffene Person Beschwerde bei der zuständigen Kammerpräsidentin oder dem zuständigen Kammerpräsidenten des Verwaltungsgerichts als einziger und letzter kantonaler Instanz erheben.
+**…**
 
 ### 2.3. Bearbeitung von Personendaten
 
@@ -597,15 +986,19 @@ beschliesst:
 
 #### § 50
 
-**Datenbearbeitungssysteme**
+**Datenbearbeitungs- und Informationssysteme**
 
-<sup>1</sup> Die Polizei kann zur Erfüllung ihrer Aufgaben Datenbearbeitungssysteme betreiben.
+<sup>1</sup> Die Polizei kann zur Erfüllung ihrer Aufgaben Datenbearbeitungs- und Informationssysteme mit gemeinsamer Datenhaltung betreiben.
 
-<sup>1<sup>bis</sup></sup> Die Hauptverantwortung für Datenbearbeitungssysteme, die von der Kantonspolizei und den Polizeikräften der Gemeinden gemeinsam betrieben werden, liegt bei der Kantonspolizei.
+<sup>1<sup>bis</sup></sup> Die Hauptverantwortung für Datenbearbeitungs- und Informationssysteme, die von der Kantonspolizei und den Polizeikräften der Gemeinden gemeinsam betrieben werden, liegt bei der Kantonspolizei.
+
+<sup>1<sup>ter</sup></sup> Für den Betrieb von Datenbearbeitungs- und Informationssystemen durch Strafverfolgungs- und Strafvollzugsbehörden sowie weiterer beteiligter Behörden mit gemeinsamer Datenhaltung gilt § 55d des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EG StPO) vom 16. März 2010[^50-1].
 
 <sup>2</sup> Die Daten der Kriminalpolizei und des präventiven Staatsschutzes sind getrennt zu halten.
 
-<sup>3</sup> Der Regierungsrat regelt durch Verordnung die in den Datenbanksystemen zu bearbeitenden Datenkategorien und den Bearbeitungszweck.
+<sup>3</sup> Der Regierungsrat regelt die in den Datenbearbeitungs- und Informationssystemen zu bearbeitenden Datenkategorien und den Bearbeitungszweck durch Verordnung.
+
+[^50-1]: SAR [251.200](https://gesetzessammlungen.ag.ch/data/251.200/de)
 
 #### § 50a
 
@@ -619,13 +1012,26 @@ beschliesst:
 
 <sup>1</sup> Zwischen Polizei- und Verwaltungsstellen der Gemeinden, des Kantons, der Kantone und des Bundes können Daten ausgetauscht werden, soweit dies zur Erfüllung der Aufgaben erforderlich ist.
 
-<sup>2</sup> Der Zugriff auf polizeiliche Daten ist der Kantonspolizei sowie den Polizeikräften der Gemeinden vorbehalten und nur zulässig, soweit dies zur Erfüllung der polizeilichen Aufgaben erforderlich ist.
+<sup>2</sup> …
 
 <sup>2<sup>bis</sup></sup> In Fällen häuslicher Gewalt informieren die Polizeistellen die zuständigen Fachstellen von Amtes wegen.
+
+<sup>2<sup>ter</sup></sup> Die Polizei kann die Anordnung von Kontakt- und Annäherungsverboten anderen Behörden mitteilen, soweit diese zur Erfüllung ihrer Aufgaben auf diese Information angewiesen sind und die Information zum Schutz der gefährdeten Personen oder von Dritten erforderlich ist.
 
 <sup>3</sup> Die Bekanntgabe von polizeilichen Daten an Dritte ist zulässig, soweit dies der Erfüllung der Aufgabe dient und im erklärten oder, wenn eine Erklärung innert nützlicher Frist nicht eingeholt werden kann, vermuteten Interesse der betroffenen Personen ist.
 
 <sup>4</sup> Für die Bekanntgabe von polizeilichen Daten an Dritte kann ein Entgelt verlangt werden.
+
+#### § 51a
+
+**Datenaustausch mit anderen Kantonen und Bundesbehörden**
+
+<sup>1</sup> Die Kantonspolizei kann zum Zweck der Verhinderung und Erkennung von Verbrechen und Vergehen zusammen mit Polizeiorganen anderer Kantone sowie mit Polizeiorganen des Bundes
+
+- a) Datenbearbeitungs- und Informationssysteme mit gemeinsamer Datenhaltung betreiben,
+- b) polizeiliche Daten automatisch austauschen.
+
+<sup>2</sup> Der Regierungsrat regelt die Grundsätze der Datenverarbeitung sowie die Zugriffsrechte durch Verordnung.
 
 #### § 52
 
@@ -660,10 +1066,8 @@ beschliesst:
 <sup>2</sup> Die für den Datenschutz zuständige Person hat folgende Aufgaben:
 
 - a) sie berät und unterstützt die Mitarbeitenden der Organisationseinheit bei der Bearbeitung von Personendaten hinsichtlich der Einhaltung der Datenschutzvorschriften und der Datensicherheit,
-- b) sie nimmt Datenschutz-Folgenabschätzungen gemäss § 17a des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006[^54a-1] vor,
+- b) sie nimmt Datenschutz-Folgenabschätzungen gemäss § 17a IDAG vor,
 - c) sie ist Ansprechperson der beauftragten Person für Öffentlichkeit und Datenschutz.
-
-[^54a-1]: SAR [150.700](https://gesetzessammlungen.ag.ch/data/150.700/de)
 
 ### 2.4. Kostenersatz und Verantwortlichkeit
 
@@ -735,7 +1139,7 @@ beschliesst:
 
 **Verhältnis zur Polizei**
 
-<sup>1</sup> Private Sicherheitskräfte verfügen über keine hoheitlichen Befugnisse.
+<sup>1</sup> Private Sicherheitskräfte verfügen vorbehältlich § 27 Abs. 3 über keine hoheitlichen Befugnisse.
 
 <sup>2</sup> Sie sind bei gemeinsamen Einsätzen zur zumutbaren Zusammenarbeit mit der Polizei verpflichtet.
 
@@ -755,7 +1159,28 @@ beschliesst:
 
 <sup>3</sup> Für das Verfahren gelten die Bestimmungen des Strafprozessrechts.
 
-## 4. Schluss- und Übergangsbestimmungen
+## 3<sup>bis</sup> Minderheiten mit besonderen Schutzbedürfnissen
+
+#### § 61a
+
+**Finanzielle Unterstützung von Minderheiten mit besonderen Schutzbedürfnissen**
+
+<sup>1</sup> Der Regierungsrat kann auf Gesuch hin zur Gewährleistung der Sicherheit von Minderheiten mit besonderen Schutzbedürfnissen finanzielle Unterstützung für Massnahmen zur Verhinderung von Straftaten leisten.
+
+<sup>2</sup> Als Minderheiten gemäss Absatz 1 gelten Gruppen von Personen im Kanton, die
+
+- a) gegenüber dem Rest der Bevölkerung in der Schweiz in der Minderzahl sind,
+- b) insbesondere eine gemeinsame Lebensweise, Kultur, Religion, Tradition, Sprache oder sexuelle Orientierung aufweisen,
+- c) eine gefestigte Bindung zur Schweiz und ihren Werten haben, und
+- d) ein besonderes Schutzbedürfnis aufweisen.
+
+<sup>3</sup> Ein besonderes Schutzbedürfnis ist dann gegeben, wenn eine Minderheit einer Bedrohung durch Angriffe im Zusammenhang mit Terrorismus oder gewalttätigem Extremismus ausgesetzt ist, die über die allgemeine, die übrige Bevölkerung treffende Bedrohung hinausgeht.
+
+<sup>4</sup> Finanzielle Unterstützung können Organisationen des öffentlichen oder privaten Rechts erhalten, die nicht gewinnorientiert sind und deren regelmässige Aktivitäten im Kanton Aargau Schutz bedürfen.
+
+<sup>5</sup> Im Rahmen der Gesuchstellung haben die Organisationen ihre Finanzen vollumfänglich offen zu legen. Ausgeschlossen sind finanzielle Unterstützungen für Organisationen, die unter massgeblichem Einfluss anderer Staaten, ausländischer Organisationen oder Personen stehen.
+
+## 4. Schlussbestimmungen
 
 #### § 62
 
@@ -793,15 +1218,7 @@ beschliesst:
 
 #### § 65
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Polizeikräfte der Gemeinden, welche die Anforderungen gemäss § 20 nicht erfüllen, müssen die notwendige Ausbildung innert zwei Jahren seit Inkrafttreten des Gesetzes beziehungsweise Aufnahme der Tätigkeit absolvieren. Das zuständige Departement kann in begründeten Fällen Ausnahmen bewilligen, insbesondere wenn die nachträgliche Absolvierung der Ausbildung wegen des Alters der betroffenen Polizeikraft unverhältnismässig wäre, sofern die Qualität der Polizeiarbeit auf Grund der langen Berufserfahrung gewährleistet ist.
-
-<sup>2</sup> Gemeinden ohne eigene Polizeikräfte oder mit noch nicht ausreichenden Strukturen leisten dem Kanton ab Inkrafttreten dieses Gesetzes eine Vergütung gemäss § 23 beziehungsweise im Umfang der für die Übergangszeit notwendigen zusätzlichen Leistungen der Kantonspolizei.
-
-<sup>3</sup> Mit den Mitteln gemäss Absatz 2 wird der Bestand der Kantonspolizei bis zum Aufbau ausreichender kommunaler Strukturen zur Gewährleistung der lokalen Sicherheit vorübergehend erhöht.
-
-<sup>4</sup> Der Mindestbestand des Kantonspolizeikorps gemäss § 13 Abs. 2 ist innert drei Jahren nach Inkrafttreten dieser Bestimmung vorerst auf 580 Korpsangehörige zu erhöhen. Der nach der personellen Verhältniszahl errechnete Mindestbestand des Kantonspolizeikorps muss jedoch längstens sukzessive innert 10 Jahren nach Inkrafttreten dieses Gesetzes erreicht werden.
+**…**
 
 Aarau, 6. Dezember 2005
 
