@@ -3,18 +3,18 @@ sr: "412.101.221.24"
 title: Verordnung des SBFI vom 30. Oktober 2009 über die berufliche Grundbildung Formenpraktikerin/Formenpraktiker mit eidgenössischem Berufstattest (EBA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/820"
 language: de
-version: 2018-01-01
+version: 2021-07-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2009-820-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2009-820-20210701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Formenpraktikerin/Formenpraktiker mit eidgenössischem Berufstattest (EBA)
 
-vom 30. Oktober 2009 (Stand am 1. Januar 2018)
+vom 30. Oktober 2009 (Stand am 1. Juli 2021)
 
 <table>
 <tr><td>30906</td><td>Formenpraktikerin EBA/Formenpraktiker EBA Aide-mouleuse AFP/Aide-mouleur AFP Aiuto costruttrice di modelli e stampi CFP/ Aiuto costruttore di modelli e stampi CFP</td></tr>
@@ -24,7 +24,7 @@ Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
 gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-4]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -114,7 +114,7 @@ Das Kompetenzenprofil setzt sich aus den folgenden Kompetenzen zusammen:
 
 **Bildungsplan**[^7-1]
 
-<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan vor, der von der verantwortlichen Organisation der Arbeitswelt erlassen und vom SBFI genehmigt wird.
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung liegt ein Bildungsplan[^7-2] der zuständigen Organisation der Arbeitswelt vor.[^7-3]
 
 <sup>2</sup>
 
@@ -125,10 +125,12 @@ Der Bildungsplan hat folgenden Inhalt:
 - c. Er bezeichnet die Trägerschaft der überbetrieblichen Kurse und legt deren Organisation und Aufteilung über die Dauer der beruflichen Grundbildung fest.
 - d. Er bezieht die Handlungskompetenzen konsistent auf das Qualifikationsverfahren und beschreibt dessen System.
 
-<sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Förderung der Qualität der beruflichen Grundbildung mit Angabe der Bezugsquelle.[^7-2]
+<sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.[^7-4]
 
 [^7-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
-[^7-2]: Fassung gemäss Ziff. III 26 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Der Bildungsplan vom 1. Juni 2021 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe A–Z.
+[^7-3]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^7-4]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 8
 
@@ -138,19 +140,26 @@ Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. Apri
 
 [^8-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## 6. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
+## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 9
 
-**Fachliche Mindestanforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner[^9-1]**
 
-Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben a und b BBV an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
+Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:[^9-2]
 
 - a. Formenbauerin EFZ/Formenbauer EFZ mit mindestens 2 Jahren beruflicher Praxis im Lehrgebiet;
 - b. gelernte technische Modellbauerin/gelernter technischer Modellbauer mit mindestens 2 Jahren beruflicher Praxis im Lehrgebiet;
 - c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Formenbauerin EFZ/des Formenbauers EFZ und mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
 - d. einschlägiger Abschluss der höheren Berufsbildung;
 - e. einschlägiger Abschluss einer Fachhochschule mit mindestens 2 Jahren beruflicher Praxis im Lehrgebiet.
+
+[^9-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^9-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 10
 
@@ -171,18 +180,25 @@ Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben 
 [^10-3]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 [^10-4]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
-## 7. Abschnitt: Lern- und Leistungsdokumentation
+## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentation
+
+[^sec7-1]
+
+[^sec7-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 11
 
-**Lerndokumentation im Betrieb[^11-1]**
+**Lerndokumentation[^11-1]**
 
 <sup>1</sup> Die lernende Person führt eine Lerndokumentation, in der sie laufend alle wesentlichen Arbeiten, die erworbenen Fähigkeiten und ihre Erfahrungen im Betrieb festhält.
 
-<sup>2</sup> und <sup>3</sup> …[^11-2]
+<sup>2</sup> Mindestens einmal pro Semester kontrolliert und unterzeichnet die Berufsbildnerin oder der Berufsbildner die Lerndokumentation und bespricht sie mit der lernenden Person.[^11-2]
 
-[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
-[^11-2]: Aufgehoben durch Ziff. I der V des SBFI vom 22. Febr. 2016, mit Wirkung seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+<sup>3</sup> ...[^11-3]
+
+[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^11-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^11-3]: Aufgehoben durch Ziff. I der V des SBFI vom 22. Febr. 2016, mit Wirkung seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
 #### Art. 11a
 
@@ -308,34 +324,39 @@ Ist das Berufsattest mittels Qualifikationsverfahren mit Abschlussprüfung erwor
 
 [^19-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
-## 10. Abschnitt: Schweizerische Kommission für Berufsentwicklung und Qualität
+## 10. Abschnitt: Qualitätsentwicklung und Organisation
+
+[^sec10-1]
+
+[^sec10-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 20
 
 <sup>1</sup>
 
-Die Schweizerische Kommission für Berufsentwicklung und Qualität setzt sich zusammen aus:
+Die Schweizerische Kommission für Berufsentwicklung und Qualität für Formenbauerinnen und Formenbauer EFZ setzt sich zusammen aus:
 
-- a. 4–6 Vertreterinnen oder Vertretern der SWISS FORM;
-- b. 1 Vertreterin oder Vertreter der Fachlehrerschaft;
-- c. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
+- a. vier bis sechs Vertreterinnen oder Vertretern von «SWISS FORM Verband Schweizerischer Modellbaubetriebe»;
+- b. einer Vertreterin oder einem Vertreter der Fachlehrerschaft;
+- c. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.
 
-<sup>2</sup> Die Sprachregionen müssen gebührend vertreten sein.
+<sup>2</sup>
 
-<sup>3</sup> Die Kommission fällt nicht in den Geltungsbereich der Kommissionenverordnung vom 3. Juni 1996[^20-1]. Sie konstituiert sich selbst.
+Für die Zusammensetzung gilt überdies:
+
+- a. Eine paritätische Vertretung beider Geschlechter ist anzustreben.
+- b. Die Sprachregionen müssen gebührend vertreten sein.
+
+<sup>3</sup> Die Kommission konstituiert sich selbst.
 
 <sup>4</sup>
 
-Die Kommission hat insbesondere folgende Aufgaben:
+Sie hat insbesondere folgende Aufgaben:
 
-- a. Sie überprüft die Bildungsverordnung und den Bildungsplan laufend, mindestens aber alle fünf Jahre, auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen. Dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung.
-- b. Sie ersucht die zuständige Organisation der Arbeitswelt, dem SBFI Änderungen der Verordnung zu beantragen, sofern die beobachteten Entwicklungen eine Änderung der Verordnung erfordern.
-- c. Sie stellt der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans, sofern die beobachteten Entwicklungen eine Anpassung des Bildungsplans erfordern.
-- d. Sie nimmt Stellung zu den Instrumenten für die Validierung von Bildungs-leistungen.
-- e. Sie nimmt Stellung zu Instrumenten zur Förderung der Qualität der beruflichen Grundbildung, insbesondere zu den Ausführungsbestimmungen über die Qualifikationsverfahren.[^20-2]
-
-[^20-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)Ziff. II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1].
-[^20-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+- a. Sie überprüft diese Verordnung und den Bildungsplan mindestens alle fünf Jahre auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen; dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung.
+- b. Beobachtet sie Entwicklungen, die eine Änderung dieser Verordnung erfordern, so ersucht sie die zuständige Organisation der Arbeitswelt, dem SBFI die entsprechende Änderung zu beantragen.
+- c. Beobachtet sie Entwicklungen, die eine Anpassung des Bildungsplans erfordern, so stellt sie der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans.
+- d. Sie nimmt Stellung zu den Instrumenten zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität, insbesondere zu den Ausführungsbestimmungen zum Qualifikationsverfahren mit Abschlussprüfung.
 
 ## 11. Abschnitt: Schlussbestimmungen
 

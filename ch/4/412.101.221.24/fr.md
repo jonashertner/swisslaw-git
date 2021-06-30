@@ -3,18 +3,18 @@ sr: "412.101.221.24"
 title: "Ordonnance du SEFRI du 30 octobre 2009 sur la formation professionnelle initiale d'aide-mouleuse/aide-mouleur avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/820"
 language: fr
-version: 2018-01-01
+version: 2021-07-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-820-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-820-20210701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale d’aide‑mouleuse/aide-mouleur avec attestation fédérale de formation professionnelle (AFP)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale d’aide‑mouleuse/aide-mouleur avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 30 octobre 2009 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 30 octobre 2009 (État le 1<sup>er</sup> juillet 2021)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -26,7 +26,7 @@ Le Secrétariat d’État à la formation, à la recherche et à l’innovation 
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -116,7 +116,7 @@ Le profil de compétences comprend les compétences suivantes:
 
 **Plan de formation**[^7-1]
 
-<sup>1</sup> Un plan de formation, édicté par l’organisation compétente du monde du travail et approuvé par le SEFRI, est disponible au moment de l’entrée en vigueur de la présente ordonnance.
+<sup>1</sup> Un plan de formation[^7-2] édicté par l’organisation du monde du travail compétente est disponible à l’entrée en vigueur de la présente ordonnance.[^7-3]
 
 <sup>2</sup>
 
@@ -127,10 +127,12 @@ Le plan de formation:
 - c. désigne l’organe responsable des cours interentreprises et définit l’organisation des cours ainsi que leur répartition sur la durée de la formation professionnelle initiale;
 - d. établit un rapport direct entre les compétences opérationnelles et la procédure de qualification et décrit les modalités de cette dernière.
 
-<sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à promouvoir la qualité de la formation professionnelle initiale avec indication des sources.[^7-2]
+<sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, avec indication du nom de l’organisme auprès duquel ils peuvent être obtenus.[^7-4]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
-[^7-2]: Nouvelle teneur selon le ch. III 26 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Le plan de formation du 1<sup>er</sup> juin 2021 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A–Z.
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 8
 
@@ -140,19 +142,26 @@ L’enseignement de la culture générale est régi par l’ordonnance du SEFRI 
 
 [^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
+## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
+
+[^sec6-1]
+
+[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 9
 
-**Exigences minimales posées aux formateurs**
+**Exigences posées aux formateurs[^9-1]**
 
-Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, let. a et b, OFPr, sont remplies par:
+Les personnes ci-après remplissent les exigences posées aux formateurs:[^9-2]
 
 - a. les mouleurs CFC justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation;
 - b. les modeleurs techniques qualifiés justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation;
 - c. les personnes de professions apparentées titulaires d’un CFC et justifiant des connaissances professionnelles requises propres aux mouleurs CFC et d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation;
 - d. les personnes titulaires d’un titre correspondant de la formation professionnelle supérieure;
 - e. les personnes titulaires d’un diplôme correspondant d’une haute école spécialisée et justifiant d’au moins 2 ans d’expérience professionnelle dans le domaine de la formation.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 10
 
@@ -173,7 +182,11 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 [^10-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
-## Section 7 Dossier de formation et dossier des prestations
+## Section 7 Dossier de formation, rapport de formation et dossier des prestations
+
+[^sec7-1]
+
+[^sec7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 11
 
@@ -181,10 +194,13 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 <sup>1</sup> La personne en formation constitue un dossier de formation dans lequel elle inscrit au fur et à mesure les travaux importants accomplis ainsi que les compétences et l’expérience acquises dans l’entreprise.
 
-<sup>2</sup> et <sup>3</sup> …[^11-2]
+<sup>2</sup> Au moins une fois par semestre, le formateur contrôle et signe le dossier de formation et en discute avec la personne en formation.[^11-2]
+
+<sup>3</sup> …[^11-3]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
-[^11-2]: Abrogés par le ch. I de l’O du SEFRI du 22 fév. 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^11-3]: Abrogés par le ch. I de l’O du SEFRI du 22 fév. 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
 #### Art. 11a
 
@@ -310,34 +326,39 @@ Si l’attestation a été obtenue par le biais de la procédure de qualificatio
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
-## Section 10 Commission suisse pour le développement professionnel et la qualité
+## Section 10 Développement de la qualité et organisation
+
+[^sec10-1]
+
+[^sec10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 20
 
 <sup>1</sup>
 
-La Commission suisse pour le développement professionnel et la qualité (commission) comprend:
+La Commission suisse pour le développement de la profession et la qualité de la formation des aides-mouleurs AFP comprend:
 
-- a. quatre à six représentants de SWISS FORM;
-- b. un représentant du corps des enseignants spécialisés;
-- c. au moins un représentant de la Confédération et au moins un représentant des cantons.
+- a. 4 à 6 représentants de l’association SWISS FORM Verband Schweizerischer Modellbaubetriebe;
+- b. 1 représentant des enseignants des connaissances professionnelles;
+- c. au moins 1 représentant de la Confédération et au moins 1 représentant des cantons.
 
-<sup>2</sup> Les régions linguistiques sont représentées équitablement.
+<sup>2</sup>
 
-<sup>3</sup> La commission ne relève pas du champ d’application de l’ordonnance du 3 juin 1996 sur les commissions[^20-1]. Elle s’auto-constitue.
+La composition de la commission doit également:
+
+- a. tendre à une représentation paritaire des sexes;
+- b. garantir une représentation équitable des régions linguistiques.
+
+<sup>3</sup> La commission se constitue elle-même.
 
 <sup>4</sup>
 
-Elle est chargée notamment des tâches suivantes:
+Elle est notamment chargée des tâches suivantes:
 
-- a. examiner régulièrement, au moins tous les 5 ans, l’ordonnance et le plan de formation en fonction des développements économiques, technologiques, écologiques et didactiques; intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale;
-- b. demander à l’organisation du monde du travail compétente de proposer au SEFRI des modifications de l’ordonnance, pour autant que les développements constatés requièrent une adaptation de cette dernière;
-- c. proposer à l’organisation du monde du travail compétente de modifier le plan de formation, pour autant que les développements constatés requièrent une adaptation de ce dernier;
-- d. prendre position sur les instruments de validation des acquis de l’expérience;
-- e. prendre position sur les instruments servant à promouvoir la qualité de la formation professionnelle initiale, en particulier sur les dispositions d’exécution relatives aux procédures de qualification.[^20-2]
-
-[^20-1]: [[RO 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)ch. II. [RO 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)ch. II 1]
-[^20-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+- a. examiner la présente ordonnance et le plan de formation au moins tous les 5 ans en fonction des développements économiques, technologiques, écologiques et didactiques; intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale;
+- b. identifier les développements qui requièrent une modification de l’ordonnance et demander à l’organisation du monde du travail compétente de proposer au SEFRI les modifications voulues;
+- c. identifier les développements qui requièrent une adaptation du plan de formation et proposer à l’organisation du monde du travail compétente d’effectuer les adaptations voulues;
+- d. prendre position sur les instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, en particulier les dispositions d’exécution relatives à la procédure de qualification avec examen final.
 
 ## Section 11 Dispositions finales
 

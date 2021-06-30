@@ -3,18 +3,18 @@ sr: "412.101.221.24"
 title: Ordinanza della SEFRI del 30 ottobre 2009 sulla formazione professionale di base Aiuto costruttrice di modelli e stampi/Aiuto costruttore di modelli e stampi con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/820"
 language: it
-version: 2018-01-01
+version: 2021-07-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2009-820-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/820/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2009-820-20210701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/820/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Aiuto costruttrice di modelli e stampi/ Aiuto costruttore di modelli e stampi con certificato federale di formazione pratica (CFP)
 
-del 30 ottobre 2009 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 30 ottobre 2009 (Stato 1° luglio 2021)
 
 <table>
 <tr><td>30906</td><td>Aiuto costruttrice di modelli e stampi CFP/ Aiuto costruttore di modelli e stampi CFP Formenpraktikerin EBA/Formenpraktiker EBA Aide-mouleuse AFP/Aide-mouleurAFP</td></tr>
@@ -24,7 +24,7 @@ La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
 visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -116,7 +116,7 @@ Il profilo delle competenze comprende le seguenti competenze operative:
 
 **Piano di formazione**[^7-1]
 
-<sup>1</sup> Al momento dell’entrata in vigore della presente ordinanza è disponibile un piano di formazione, emanato dalla competente organizzazione del mondo del lavoro e approvato dalla SEFRI.
+<sup>1</sup> All’entrata in vigore della presente ordinanza è disponibile un piano di formazione[^7-2] della competente organizzazione del mondo del lavoro.[^7-3]
 
 <sup>2</sup>
 
@@ -127,10 +127,12 @@ Il piano di formazione:
 - c. designa l’ente responsabile dei corsi interaziendali e definisce l’organizzazione dei corsi e la loro ripartizione sulla durata della formazione professionale di base;
 - d. rapporta coerentemente le competenze operative alle procedure di qualificazione, di cui precisa le modalità.
 
-<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^7-2]
+<sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.[^7-4]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
-[^7-2]: Nuovo testo giusta il n. III 26 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^7-2]: Il piano del 1° giu. 2021 è disponibile sul sito SEFRI nell’elenco delle professioni: www.bvz.admin.ch &gt; Professioni A‒Z.
+[^7-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^7-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 8
 
@@ -140,19 +142,26 @@ Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 
 
 [^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
-## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
+## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
+
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 9
 
-**Requisiti professionali minimi richiesti ai formatori**
+**Requisiti professionali richiesti ai formatori[^9-1]**
 
-I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere a e b OFPr sono soddisfatti se il formatore possiede una delle seguenti qualifiche:
+Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:[^9-2]
 
 - a. attestato federale di capacità di costruttore di modelli e stampi e almeno due anni di esperienza professionale nel campo d’insegnamento;
 - b. attestato federale di capacità di modellista tecnico qualificato e almeno due anni di esperienza professionale nel campo d’insegnamento;
 - c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo del costruttore di modelli e stampi AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - d. diploma di formazione professionale superiore in ambito pertinente;
 - e. diploma di una scuola universitaria professionale in ambito pertinente e almeno due anni di esperienza professionale nel campo d’insegnamento.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^9-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 10
 
@@ -173,18 +182,25 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
 [^10-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 [^10-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
-## Sezione 7: Documentazione dell’apprendimento e delle prestazioni
+## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
+
+[^sec7-1]
+
+[^sec7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 11
 
-**Documentazione dell’apprendimento in azienda[^11-1]**
+**Documentazione dell’apprendimento[^11-1]**
 
 <sup>1</sup> La persona in formazione tiene una documentazione dell’apprendimento, in cui annota regolarmente i principali lavori eseguiti, le capacità acquisite e le esperienze fatte in azienda.
 
-<sup>2</sup> e <sup>3</sup> ...[^11-2]
+<sup>2</sup> Almeno una volta al semestre il formatore controlla e firma la documentazione dell’apprendimento e la discute con la persona in formazione.[^11-2]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
-[^11-2]: Abrogati dal n. I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+<sup>3</sup> ...[^11-3]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^11-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
+[^11-3]: Abrogato dal n. I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
 #### Art. 11a
 
@@ -307,34 +323,39 @@ Se il certificato federale di formazione pratica è stato conseguito mediante pr
 
 [^19-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
 
-## Sezione 10: Commissione svizzera per lo sviluppo professionale e la qualità
+## Sezione 10: Sviluppo della qualità e organizzazione
+
+[^sec10-1]
+
+[^sec10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 344](https://fedlex.data.admin.ch/eli/oc/2021/344)).
 
 #### Art. 20
 
 <sup>1</sup>
 
-La Commissione svizzera per lo sviluppo professionale e la qualità ha la seguente composizione:
+Commissione svizzera per lo sviluppo professionale e la qualità della formazione degli aiuto costruttori di modelli e stampi CFP è composta da:
 
-- a. da quattro a sei rappresentanti dell’associazione SWISS FORM;
+- a. da quattro a sei rappresentanti di «SWISS FORM Verband Schweizerischer Modellbaubetriebe»;
 - b. un rappresentante dei docenti di materie professionali;
-- c. almeno un rappresentante, rispettivamente, della Confederazione e dei Cantoni.
+- c. almeno un rappresentante della Confederazione e almeno uno dei Cantoni.
 
-<sup>2</sup> Le regioni linguistiche devono essere adeguatamente rappresentate.
+<sup>2</sup>
 
-<sup>3</sup> La Commissione non rientra nel campo d’applicazione dell’ordinanza del 3 giugno 1996[^20-1] sulle commissioni. Essa si autocostituisce.
+Per la composizione della Commissione vale inoltre quanto segue:
+
+- a. si cerca di raggiungere una rappresentanza paritetica di entrambi i sessi;
+- b. le regioni linguistiche sono adeguatamente rappresentate.
+
+<sup>3</sup> La Commissione si autocostituisce.
 
 <sup>4</sup>
 
-La Commissione svolge in particolare i seguenti compiti:
+Essa svolge in particolare i compiti seguenti:
 
-- a. verifica costantemente, ma almeno ogni cinque anni, l’ordinanza sulla formazione professionale di base e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici. Nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
-- b. chiede alla competente organizzazione del mondo del lavoro di presentare alla SEFRI una domanda di modifica dell’ordinanza sulla formazione professionale di base, qualora gli sviluppi osservati lo rendano necessario;
-- c. chiede all’organizzazione del mondo del lavoro l’adeguamento del piano di formazione, qualora gli sviluppi osservati lo rendano necessario;
-- d. esprime un parere riguardo agli strumenti per la validazione degli apprendimenti acquisiti;
-- e. esprime un parere riguardo agli strumenti per la promozione della qualità della formazione professionale di base, in particolare sulle disposizioni esecutive concernenti le procedure di qualificazione.[^20-2]
-
-[^20-1]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)n. II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]
-[^20-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 1003](https://fedlex.data.admin.ch/eli/oc/2016/181)).
+- a. verifica almeno ogni cinque anni la presente ordinanza e il piano di formazione in relazione agli sviluppi economici, tecnologici, ecologici e didattici; nella verifica tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base;
+- b. se osserva sviluppi che richiedono una modifica della presente ordinanza, chiede all’organizzazione del mondo del lavoro competente di proporre alla SEFRI la corrispondente modifica;
+- c. se osserva sviluppi che richiedono una modifica del piano di formazione, presenta all’organizzazione del mondo del lavoro competente una proposta di adeguamento del piano di formazione;
+- d. esprime un parere riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
 
 ## Sezione 11: Disposizioni finali
 
