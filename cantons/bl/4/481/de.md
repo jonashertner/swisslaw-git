@@ -4,13 +4,12 @@ number: "481"
 title: Strassenverkehrsgesetz Basel-Landschaft
 short: SVG BL
 language: de
-version: 2012-09-01
-valid_until: 2021-06-30
-version_adopted: 2012-05-03
+version: 2021-07-01
+version_adopted: 2021-01-28
 adopted: 2012-05-03
 in_force: 2012-09-01
 url: "https://bl.clex.ch/app/de/texts_of_law/481"
-pdf: "https://bl.clex.ch/api/de/versions/154/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2991/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/154/pdf_file"
 
 (SVG BL)
 
-Vom 03.05.2012 (Stand 01.09.2012)
+Vom 03.05.2012 (Stand 01.07.2021)
 
 Der Landrat des Kantons Basel-Landschaft, gestützt auf Artikel 106 Absätze 2 und 3 des Bundesgesetzes vom 19. Dezember 1958[^ingress-1] über den Strassenverkehr und § 63 Absatz 1 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-2], beschliesst:[^ingress-3]
 
@@ -70,6 +69,17 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf Artikel 106 Absätze 2 u
 - b. Überholverboten,
 - c. Fussgängerstreifen,
 - d. Markierungen für den fahrenden Verkehr (Mittelmarkierungen).
+
+## 1<sup>bis</sup> Einspracheverfahren Administrativmassnahmen
+
+#### § 4a
+
+**Rechtsmittel Administrativmassnahmen**
+
+<sup>1</sup> Gegen strassenverkehrsrechtliche Verwarnungen gemäss Strassenverkehrsgesetz[^4a-1] kann im Sinne des Verwaltungsverfahrensgesetzes[^4a-2] Einsprache erhoben werden.
+
+[^4a-1]: SVG; [SR 741.01](https://db.clex.ch/link/Bund/741.01/de)
+[^4a-2]: [SGS 175](https://bl.clex.ch/data/175/de)
 
 ## 2 Strassenverkehrsvorschriften
 
