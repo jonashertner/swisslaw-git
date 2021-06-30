@@ -3,13 +3,13 @@ canton: BS
 number: "772.530"
 title: Gebührentarif der IWB Industrielle Werke Basel betreffend Gas
 language: de
-version: 2018-10-01
-valid_until: 2021-06-30
-version_adopted: 2018-06-20
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-11
 adopted: 2010-09-06
 in_force: 2010-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.530"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4501/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5285/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4501/pdf_file"
 
 Gas: Gebührentarif | Energie- und Wasserversorgung[^t-1]
 
-Vom 6. September 2010 (Stand 1. Oktober 2018)
+Vom 6. September 2010 (Stand 1. Juli 2021)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -37,8 +37,8 @@ beschliesst:
 
 <sup>2</sup> Der Energiepreis besteht aus einem Einheitspreis pro bezogene Kilowattstunde und einem festen Grundpreis pro Zähler. Es gilt:
 
-- a) Einheitspreis = 21,60 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Gesetz) vom 23. Dezember 2011.
-- b) Grundpreis = CHF 45/Jahr.
+- a) Einheitspreis = 18,60 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Gesetz) vom 23. Dezember 2011;
+- b) Grundpreis = 60 Fr./Jahr.
 
 <sup>3</sup> Der Einheitspreis reduziert sich um 0,4 Rp./kWh, falls vom Wahlrecht gemäss § 2<sup>bis</sup> Abs. 1 lit. b) Gebrauch gemacht wird.
 
@@ -53,12 +53,12 @@ beschliesst:
 
 <sup>2</sup> Der Energiepreis ist abhängig von der Jahresarbeit in Kilowattstunden. Er besteht aus einem Einheitspreis pro bezogene Kilowattstunde und einem Grundpreis, der sich nach der Netzbelastung der angeschlossenen Apparate richtet. Es gilt:
 
-- a) Einheitspreis 0 bis &lt; 99'999 kWh/Jahr = 6,85 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011.
-- b) Grundpreis 0 bis &lt; 99'999 kWh/Jahr = CHF 11,50/kW/Jahr, im Minimum CHF 180/Jahr.
-- c) Einheitspreis 100'000 bis 499'999 kWh/Jahr = 6,70 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011.
-- d) Grundpreis 100'000 bis 499'999 kWh /Jahr = CHF 13,50/kW/Jahr, im Minimum CHF 675/Jahr.
-- e) Einheitspreis ab 500'000 kWh/Jahr = 6,50 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011.
-- f) Grundpreis ab 500'000 kWh/Jahr = CHF 16,00/kW/Jahr, im Minimum CHF 1'596/Jahr.
+- a) Einheitspreis 0 bis &lt; 99'999 kWh/Jahr = 6,65 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
+- b) Grundpreis 0 bis &lt; 99'999 kWh/Jahr = 11,50 Fr./kW/Jahr, im Minimum 180 Fr./Jahr;
+- c) Einheitspreis 100'000 bis 499'999 kWh/Jahr = 6,30 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
+- d) Grundpreis 100'000 bis 499'999 kWh /Jahr = 15,50 Fr./kW/Jahr, im Minimum 900 Fr./Jahr;
+- e) Einheitspreis ab 500'000 kWh/Jahr = 6,00 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
+- f) Grundpreis ab 500'000 kWh/Jahr = 17,50 Fr./kW/Jahr, im Minimum 2'160 Fr./Jahr.
 
 <sup>3</sup> Der Einheitspreis reduziert sich um 0,4 Rp./kWh, falls vom Wahlrecht gemäss § 2<sup>bis</sup> Abs. 1 lit. b) Gebrauch gemacht wird.
 
@@ -97,6 +97,14 @@ beschliesst:
 <sup>5</sup> Die Netzentgelte als Teil des Gebührentarifs werden gemäss Branchenvereinbarung festgelegt und sind im Anhang ausgewiesen.
 
 <sup>6</sup> Es wird zusätzlich eine Konzessionsgebühr gemäss § 30 Abs. 3 IWB-Gesetz erhoben.
+
+<sup>7</sup> Die Tarifzuteilung erfolgt einmal jährlich jeweils zum 1. Oktober eines Jahres aufgrund der Werte im vorangegangenen Bezugsjahr. Das Bezugsjahr umfasst den Zeitraum vom 1. Oktober eines Jahres bis zum 30. September des Folgejahres.
+
+<sup>8</sup> Bei fehlenden Messwerten oder bei Unterjährigkeit wird für die Berechnung des massgeblichen Jahresverbrauchs der effektiv an der Verbrauchsstätte abgelesene Gasverbrauch auf 12 Monate hochgerechnet.
+
+<sup>9</sup> Neue Verbrauchsstätten werden für das jeweils laufende Jahr vorläufig anhand der installierten Leistung einem Tarif zugewiesen. Die definitive Tarifzuteilung für das neue Bezugsjahr erfolgt im darauffolgenden Oktober.
+
+<sup>10</sup> Wechselt die Verbrauchsstätte die Vertragspartnerin bzw. den Vertragspartner, so übernimmt die neue Vertragspartnerin bzw. der neue Vertragspartner den Tarif der Vorgängerin bzw. des Vorgängers bis zur nächsten Jahresverbrauchsanalyse und der entsprechenden Tarifzuteilung. Bei Verbrauchsstätten mit einer stark von der Norm abweichenden Bezugscharakteristik und fehlender Übereinstimmung mit der Tarifzuteilung kann eine Zuteilung in den richtigen Tarif unabhängig der Jahresverbrauchsanalyse erfolgen.
 
 *Übergangs- und Schlussbestimmungen*
 
