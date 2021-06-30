@@ -1,36 +1,39 @@
 ---
 canton: GR
 number: "173.000"
-title: "Lescha davart l'organisaziun giudiziala"
+title: "Lescha davart l'organisaziun giudiziala - Attenziun: pertutgà da la Refurma da las dretgiras 3; guardar CUL 2023-008 e CUL 2024-003"
 short: LOG
 language: rm
-version: 2013-01-01
-corrected: 2014-11-29
-version_adopted: 2012-12-04
+version: 2021-07-01
+valid_until: 2024-12-31
+version_adopted: 2021-02-16
 adopted: 2022-06-14
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/173.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1854/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3356/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha davart l'organisaziun giudiziala (LOG)
+# Lescha davart l'organisaziun giudiziala - Attenziun: pertutgà da la Refurma da las dretgiras 3; guardar CUL 2023-008 e CUL 2024-003
 
-dals 16 da zercladur 2010
+(LOG)
 
-Il cussegl grond dal chantun Grischun[^t-1],
+dals 16-06-2010 (versiun dals 01-07-2021)
 
-sa basond sin l'art. 31 da la constituziun chantunala[^t-2] suenter avair gì invista da la missiva da la regenza dals 23 da mars 2010[^t-3],
+Il cussegl grond dal chantun Grischun[^ingress-1],
+
+sa basond sin l'art. 31 da la constituziun chantunala[^ingress-2],
+
+suenter avair gì invista da la missiva da la regenza dals 23 da mars 2010[^ingress-3],
 
 concluda:
 
-I. Introducziun
+[^ingress-1]: PCG 2009/2010, 853
+[^ingress-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: pagina 795
 
-[^t-1]: PCG 2009/2010, 853
-[^t-2]: DG 110.100
-[^t-3]: pagina 795 1-6-2013 1
+## 1. Introducziun
 
 #### Art. 1
 
@@ -49,14 +52,13 @@ I. Introducziun
 <sup>2</sup> Ella sa cumpona:
 
 - a) da la scheffa u dal schef dal departament ch'è cumpetent per la giustia (presidi); e
-
 - b) da las presidentas e dals presidents da la dretgira chantunala e da la dretgira administrativa.
 
 <sup>3</sup> Ella vegn appellada d'in organ da la giurisdicziun, sch'igl exista unitad davart il conflict da cumpetenza.
 
-### II. Disposiziuns cuminaivlas
+## 2. Disposiziuns cuminaivlas
 
-- 1\. ORGANISAZIUN GENERALA
+### 2.1. Organisaziun generala
 
 #### Art. 3
 
@@ -64,7 +66,7 @@ I. Introducziun
 
 <sup>1</sup> La dretgira chantunala, la dretgira administrativa, la dretgira chantunala da mesiras repressivas e l'autoritad da mediaziun per dumondas d'egualitad han lur sedia a Cuira.
 
-<sup>2</sup> Las dretgiras districtualas, ils uffizis da mediaziun e las autoritads da mediaziun per dumondas da locaziun han lur sedia en la chapitala dal district.
+<sup>2</sup> Las dretgiras regiunalas, ils uffizis da mediaziun e las autoritads da mediaziun per dumondas da locaziun han lur sedia per regla en la chapitala da la regiun respectivamain en il lieu fixà da la cumissiun administrativa da la dretgira regiunala.
 
 #### Art. 4
 
@@ -93,22 +95,13 @@ I. Introducziun
 <sup>2</sup> Il sarament u l'empermischun solenna fan:
 
 - a) las presidentas ed ils presidents da la dretgira chantunala e da la dretgira administrativa davant il cussegl grond;
-
 - b) las commembras ed ils commembers da la dretgira chantunala e da la dretgira administrativa davant la presidenta u davant il president da la dretgira;
-
-- c) las presidentas ed ils presidents da las dretgiras districtualas davant la dretgira chantunala (dretgira cumplessiva);
-
-**2**
-
-**3**
-
-1-6-2013 d) las commembras ed ils commembers da la dretgira districtuala davant la presidenta u davant il president da la dretgira districtuala;
-
-- e) las commembras ed ils commembers da las autoritads da mediaziun sco er lur substitutas e lur substituts davant la presidenta u davant il president da la dretgira districtuala;
-
+- c) las presidentas ed ils presidents da las dretgiras regiunalas davant la dretgira chantunala (dretgira cumplessiva);
+- d) las commembras ed ils commembers da la dretgira regiunala davant la presidenta u davant il president da la dretgira regiunala;
+- e) las commembras ed ils commembers da las autoritads da mediaziun sco er lur substitutas e lur substituts davant la presidenta u davant il president da la dretgira regiunala;
 - f) las actuaras ed ils actuars davant la presidenta u davant il president da la dretgira.
 
-<sup>3</sup> Il sarament e l'empermischun solenna han la suandanta formulaziun: "Vus sco presidenta elegida / president elegì (derschadra elegida / derschader elegì, commembra elegida / commember elegì, actuara / actuar) da la dretgira (chantunala, administrativa, districtuala u da l'autoritad da mediaziun) engirais davant Dieu (empermettais) d'ademplir tut las obligaziuns da Voss uffizi tenor meglier savair e pudair." "Jau engir (empermet)."
+<sup>3</sup> Il sarament e l'empermischun solenna han la suandanta formulaziun: «Vus sco presidenta elegida / president elegì (derschadra elegida / derschader elegì, commembra elegida / commember elegì, actuara / actuar) da la dretgira (chantunala, administrativa, regiunala u da l'autoritad da mediaziun) engirais davant Dieu (empermettais) d'ademplir tut las obligaziuns da Voss uffizi tenor meglier savair e pudair.» – «Jau engir (empermet).»
 
 #### Art. 7
 
@@ -117,11 +110,8 @@ I. Introducziun
 <sup>1</sup> L'autoritad da surveglianza po destituir da l'uffizi ina derschadra u in derschader ubain ina commembra u in commember da l'autoritad da mediaziun avant la fin da la perioda d'uffizi, sch'ella u sch'el:
 
 - a) ha violà grevamain las obligaziuns d'uffizi, e quai sapientivamain u per greva negligientscha;
-
 - b) ha pers per pli ditg la qualificaziun per ademplir ses uffizi;
-
 - c) è vegnì sentenzià en moda legalmain valaivla pervia d'in crim; u
-
 - d) na para – per auters motivs gravants – betg pli dad esser supportabel sco commembra u sco commember d'ina dretgira u d'ina autoritad da mediaziun.
 
 <sup>2</sup> Il cussegl grond decida cun ina maioritad da trais quarts da las commembras e dals commembers.
@@ -136,15 +126,47 @@ I. Introducziun
 
 <sup>2</sup> La chanzlia fa las controllas da gestiun e procura per las lavurs generalas da chanzlia.
 
-- 2\. TRACTATIVA
+#### Art. 8a
+
+**Creaziun e classificaziun da plazzas**
+
+<sup>1</sup> La dretgira chantunala respectivamain la dretgira administrativa suttametta al cussegl grond las propostas per stgaffir plazzas.
+
+<sup>2</sup> Per mintga dretgira regiunala fixescha la dretgira chantunala ils pertschients da plazzas per l'actuariat e per il persunal da chanzlia sin basa da la chargia da lavur respectiva e suenter avair tadlà las dretgiras regiunalas.
+
+<sup>3</sup> Sin basa da propostas correspundentas da l'uffizi chantunal da persunal e suenter avair tadlà las dretgiras regiunalas classifitgescha la dretgira chantunala las plazzas da las commembras e dals commembers da las dretgiras regiunalas sco er da las mediaturas e dals mediaturs en las classas da salari tenor il dretg chantunal da persunal u prevesa per las mediaturas e per ils mediaturs ina indemnisaziun tenor diarias. En in'ordinaziun regla ella las cumpetenzas, la procedura sco er ulteriurs detagls.
+
+#### Art. 8b
+
+**Posiziun, salarisaziun e prevenziun professiunala**
+
+<sup>1</sup> La salarisaziun, ils custs accessorics dal persunal e la prevenziun professiunala da las derschadras e dals derschaders da la dretgira chantunala respectivamain da la dretgira administrativa sa drizzan tenor la legislaziun speziala.
+
+<sup>2</sup> La salarisaziun, ils custs accessorics dal persunal e la prevenziun professiunala da las commembras e dals commembers da las dretgiras regiunalas en uffizi cumplain e principal sa drizzan tenor il dretg chantunal davart il persunal respectivamain davart la cassa da pensiun. Areguard la relaziun da servetsch valan las medemas disposiziuns sco per las derschadras e per ils derschaders da la dretgira chantunala respectivamain da la dretgira administrativa.
+
+<sup>3</sup> Las indemnisaziuns da las commembras e dals commembers da las dretgiras regiunalas en uffizi accessoric sco er da las actuaras e dals actuars en uffizi accessoric vegnan fixadas da las dretgiras regiunalas en il rom dal dretg chantunal. La posiziun e la salarisaziun da las commembras e dals commembers da las autoritads da mediaziun per dumondas da locaziun e per dumondas d'egualitad sa drizzan tenor las disposiziuns per las commembras e per ils commembers da las dretgiras regiunalas en uffizi accessoric. La dretgira chantunala regla en in'ordinaziun ils detagls areguard las autoritads da mediaziun.
+
+<sup>4</sup> Las relaziuns d'engaschament, la salarisaziun e la prevenziun professiunala da las mediaturas e dals mediaturs sco er da las collavuraturas e dals collavuraturs da las dretgiras e da las autoritads da mediaziun sa drizzan tenor las disposiziuns dal dretg davart il persunal respectivamain davart la cassa da pensiun. Resalvadas restan disposiziuns divergentas en questa lescha.
+
+#### Art. 8c
+
+**Access al register central da persunas e d'objects**
+
+<sup>1</sup> Las dretgiras, ils uffizis da mediaziun e las autoritads da mediaziun han access a las datas ch'els dovran per ademplir lur incumbensas legalas.
+
+<sup>2</sup> L'access a las datas po avair lieu tras ina procedura d'invista.
+
+<sup>3</sup> Dal rest valan las disposiziuns da la lescha davart ils registers d'abitantas e d'abitants e davart ulteriurs registers da persunas e d'objects[^8c-1].
+
+[^8c-1]: DG [171.200](https://www.gr-lex.gr.ch/data/171.200/rm)
+
+### 2.2. Tractativa
 
 #### Art. 9
 
 **Direcziun da la procedura**
 
-<sup>1</sup> Las parsuras ed ils parsuras ubain las derschadras ed ils derschaders ch'ellas e ch'els han designà mainan la procedura sco derschadras u sco derscha-
-
-1-6-2013 ders d'instrucziun fin a la decisiun e relaschan, sche necessari, disposiziuns preventivas.
+<sup>1</sup> Las parsuras ed ils parsuras ubain las derschadras ed ils derschaders ch'ellas e ch'els han designà mainan la procedura sco derschadras u sco derschaders d'instrucziun fin a la decisiun e relaschan, sche necessari, disposiziuns preventivas.
 
 <sup>2</sup> Ellas ed els stritgan la procedura sco liquidada, sche l'interess giuridicamain relevant vi da la decisiun scada durant la procedura spezialmain pervia da retratga, pervia da renconuschientscha u pervia d'enclegientscha.
 
@@ -172,9 +194,9 @@ I. Introducziun
 
 **Linguas uffizialas**
 
-La determinaziun da las linguas uffizialas sa drizza tenor la lescha da linguas dal chantun Grischun[^12-1].
+<sup>1</sup> La determinaziun da las linguas uffizialas sa drizza tenor la lescha da linguas dal chantun Grischun[^12-1].
 
-[^12-1]: DG 492.100 4 1-6-2013
+[^12-1]: DG [492.100](https://www.gr-lex.gr.ch/data/492.100/rm)
 
 #### Art. 13
 
@@ -184,7 +206,7 @@ La determinaziun da las linguas uffizialas sa drizza tenor la lescha da linguas 
 
 <sup>2</sup> Il secret d'uffizi vala er per expertas e per experts, per interpretas e per interprets sco er per ulteriuras persunas participadas. La parsura u il parsura sto far attents ellas ed els a l'obligaziun da discreziun sco er a las consequenzas penalas en cas ch'ellas e ch'els violeschan questa obligaziun.
 
-<sup>3</sup> La dretgira chantunala respectivamain la dretgira administrativa decidan davart la liberaziun dal secret d'uffizi per la perditga davant dretgira u en la procedura penala sco er per l'ediziun d'actas.
+<sup>3</sup> La dretgira chantunala respectivamain la dretgira administrativa decida davart la liberaziun dal secret d'uffizi per la deposiziun davant dretgira u en la procedura penala sco er per l'ediziun d'actas.
 
 #### Art. 14
 
@@ -197,12 +219,10 @@ La determinaziun da las linguas uffizialas sa drizza tenor la lescha da linguas 
 <sup>3</sup> La dretgira po delegar ad ellas ed ad els en spezial las suandantas ulteriuras incumbensas:
 
 - a) interrogaziuns da perditgas sco er da persunas che pon dar infurmaziuns en cas d'ina pitschna impurtanza;
-
 - b) interrogaziuns rogatoricas e d'assistenza giudiziala;
-
 - c) sigillaziuns d'iertas ed inventarisaziuns.
 
-- 3\. PUBLICITAD
+### 2.3. Publicitad
 
 #### Art. 15
 
@@ -215,10 +235,11 @@ La determinaziun da las linguas uffizialas sa drizza tenor la lescha da linguas 
 <sup>3</sup> Tras la parsura u tras il parsura vegn la publicitad exclusa dal tuttafatg u per part da las tractativas:
 
 - a) sch'igl existan prescripziuns legalas divergentas;
-
 - b) sche quai è necessari per motivs impurtants, en spezial per proteger l'urden public e la morala publica u l'interess degn da vegnir protegì d'ina persuna pertutgada.
 
 <sup>4</sup> Registraziuns visualas e sonoras da las tractativas giudizialas èn scumandadas.
+
+<sup>5</sup> Las partidas sco er las represchentantas legalas ed ils represchentants legals ston cumparair a las tractativas en vestgadira correcta che respecta la dignitad da la dretgira.
 
 #### Art. 16
 
@@ -228,15 +249,11 @@ La determinaziun da las linguas uffizialas sa drizza tenor la lescha da linguas 
 
 <sup>2</sup> La dretgira chantunala e la dretgira administrativa publitgeschan sentenzias impurtantas.
 
-**5**
+## 3. Autoritads giudizialas
 
-1-6-2013
+### 3.1. Dretgira chantunala e dretgira administrativa
 
-### III. Autoritads giudizialas
-
-- 1\. DRETGIRA CHANTUNALA E DRETGIRA ADMINI-STRATIVA
-
-A. Organisaziun generala
+### 3.1.1. Organisaziun generala
 
 #### Art. 17
 
@@ -268,43 +285,35 @@ A. Organisaziun generala
 
 <sup>2</sup> Sche la dretgira chantunala u sche la dretgira administrativa na po betg vegnir occupada cumplettamain tras las atgnas derschadras u tras ils agens derschaders pervia da motivs d'impediment u da recusaziun, vegnan clamads las commembras ed ils commembers da l'autra dretgira.
 
-<sup>3</sup> Sin il conclus da la cumissiun dal cussegl grond ch'è cumpetenta per la giustia pon – sche necessari – vegnir incumbensads las presidentas ed ils presidents da la dretgira districtuala sco derschadras suppleantas e sco derschaders suppleants.
-
-**6**
-
-1-6-2013
+<sup>3</sup> Sin il conclus da la cumissiun dal cussegl grond ch'è cumpetenta per la giustia pon – sche necessari – vegnir incumbensads las presidentas ed ils presidents da la dretgira regiunala sco derschadras suppleantas e sco derschaders suppleants.
 
 #### Art. 20
 
 **Dretgira cumplessiva**
 
-<sup>1</sup> La dretgira cumplessiva sa raduna sut il presidi da la presidenta u dal president.
+<sup>1</sup> A la dretgira cumplessiva appartegnan las commembras ed ils commembers ordinaris. Ella sa raduna sut il presidi da la presidenta u dal president.
 
 <sup>2</sup> Sias incumbensas:
 
 - a) relaschar ordinaziuns giudizialas;
-
 - b) reglar ils detagls da l'organisaziun e da l'administraziun giudiziala;
-
 - c) nominar las chombras;
-
 - d) nominar las parsuras ed ils parsuras da las chombras e reglar la substituziun;
-
 - e) engaschar e relaschar il persunal en plazza fixa;
-
 - f) decider davart la destituziun da l'uffizi e davart la suspensiun da l'uffizi;
-
 - g) ulteriuras incumbensas che vegnan delegadas ad ella tras lescha u tras ordinaziun.
 
-<sup>3</sup> Ella votescha ed elegia en moda averta. Sch'ina commembra u sch'in commember da la dretgira pretenda dentant da votar u d'eleger cun scrutini, sto quest giavisch vegnir correspundì.
+<sup>3</sup> Ella votescha ed elegia en moda averta. Sch'ina commembra u sch'in commember da la dretgira pretenda dentant da votar u d'eleger cun scrutini, sto quest giavisch vegnir correspundì. En cas da paritad da las vuschs decida la presidenta u il president; en cas d'elecziuns vegn tratga la sort.
 
-B. Derschadras e derschaders
+### 3.1.2. Derschadras e derschaders
 
 #### Art. 21
 
 **Cumposiziun e grad d'occupaziun**
 
-<sup>1</sup> La dretgira chantunala e la dretgira administrativa consistan da mintgamai tschintg derschadras e derschaders en uffizi cumplain.
+<sup>1</sup> La dretgira chantunala consista da sis derschadras e derschaders en uffizi cumplain.
+
+<sup>1<sup>bis</sup></sup> La dretgira administrativa consista da tschintg derschadras e derschaders en uffizi cumplain.
 
 <sup>2</sup> En enclegientscha cun las titularas e cun ils titulars da las plazzas po la dretgira midar il grad d'occupaziun durant la perioda d'uffizi.
 
@@ -318,11 +327,7 @@ B. Derschadras e derschaders
 
 <sup>3</sup> En scrutinis separads elegia il cussegl grond la presidenta u il president, la vicepresidenta u il vicepresident sco er las ulteriuras commembras ed ils ulteriurs commembers da la dretgira respectiva.
 
-<sup>4</sup> Tar l'elecziun da las derschadras chantunalas e dals derschaders chantunals ston las trais linguas uffizialas dal chantun vegnir resguardadas adequatamain.
-
-**7**
-
-1-6-2013
+<sup>4</sup> Tar l'elecziun da las derschadras e dals derschaders da la dretgira chantunala e da la dretgira administrativa ston las trais linguas uffizialas dal chantun vegnir resguardadas adequatamain.
 
 #### Art. 23
 
@@ -334,17 +339,13 @@ B. Derschadras e derschaders
 
 #### Art. 24
 
-**Salarisaziun e prevenziun professiunala**
-
-La salarisaziun e la prevenziun professiunala sa drizzan tenor la legislaziun speziala[^24-1].
-
-[^24-1]: DG 173.050 8 1-6-2013
+**…**
 
 #### Art. 25
 
 **Occupaziuns accessoricas**
 
-Derschadras e derschaders na dastgan exequir naginas occupaziuns accessoricas. En cas da dubi decida la cumissiun dal cussegl grond ch'è cumpetenta per la giustia, sch'ina occupaziun accessorica è avant maun.
+<sup>1</sup> Derschadras e derschaders na dastgan exequir naginas occupaziuns accessoricas. En cas da dubi decida la cumissiun dal cussegl grond ch'è cumpetenta per la giustia, sch'ina occupaziun accessorica è avant maun.
 
 #### Art. 26
 
@@ -362,7 +363,45 @@ Derschadras e derschaders na dastgan exequir naginas occupaziuns accessoricas. E
 
 <sup>2</sup> La cumissiun trametta las posiziuns al cussegl grond per laschar prender enconuschientscha.
 
-C. Actuariat
+#### Art. 27a
+
+**Elecziun da derschadras e derschaders extraordinaris 1. circumstanzas extraordinarias**
+
+<sup>1</sup> Derschadras e derschaders extraordinaris pon vegnir elegids:
+
+- a) per la durada da l'impediment, sch'ina derschadra u in derschader è previsiblamain impedì durant plirs mais d'exequir l'uffizi pervia da la restricziun da la sanadad corporala, spiertala u psichica u per auters motivs persunals;
+- b) per maximalmain 2 onns, sch'ina dretgira n'è betg pli en cas da liquidar dispitas giuridicas entaifer in termin adequat pervia d'ina chargia da lavur extraordinariamain gronda u sch'igl è da temair ch'in tal stadi resultia pervia d'in augment extraordinari da la chargia da lavur.
+
+#### Art. 27b
+
+**2. premissas d'elegibladad ed occupaziuns accessoricas**
+
+<sup>1</sup> La limita da vegliadetgna ed il proporz da fracziun na valan betg per las derschadras ed ils derschaders extraordinaris.
+
+<sup>2</sup> Actuaras ed actuars èn elegibels sco derschadras e derschaders extraordinaris.
+
+<sup>3</sup> Derschadras e derschaders extraordinaris en uffizi principal dastgan exequir occupaziuns accessoricas sut las medemas premissas sco las commembras ed ils commembers da las dretgiras regiunalas en uffizi principal.
+
+<sup>4</sup> Per las derschadras ed ils derschaders extraordinaris valan dal rest las medemas regulaziuns sco per las derschadras ed ils derschaders ordinaris.
+
+#### Art. 27c
+
+**Cumpetenza e procedura**
+
+<sup>1</sup> La cumissiun dal Cussegl grond ch'è cumpetenta per la giustia ha la cumpetenza definitiva per l'elecziun da derschadras e derschaders extraordinaris.
+
+<sup>2</sup> Cun l'elecziun supplementara fixescha ella il dumber da derschadras e derschaders extraordinaris, lur grad d'occupaziun e la durada da la relaziun d'occupaziun. In credit posteriur n'è betg necessari.
+
+<sup>3</sup> La procedura da l'elecziun supplementara po vegnir iniziada:
+
+- a) sin dumonda da la Dretgira chantunala u da la Dretgira administrativa;
+- b) d'uffizi.
+
+<sup>4</sup> En cas d'urgenza poi vegnir desistì da publitgar uffizialmain plazzas extraordinarias, sch'ina occupaziun da buna qualitad è garantida.
+
+<sup>5</sup> Dal rest vala l'artitgel 22 confurm al senn per la procedura da l'elecziun supplementara.
+
+### 3.1.3. Actuariat
 
 #### Art. 28
 
@@ -374,9 +413,7 @@ C. Actuariat
 
 #### Art. 29
 
-**Engaschament e prevenziun professiunala**
-
-Las relaziuns d'engaschament sco er la prevenziun professiunala sa drizzan tenor il dretg chantunal da persunal respectivamain tenor il dretg chantunal davart la cassa da pensiun. Resalvadas restan disposiziuns divergentas en questa lescha.
+**…**
 
 #### Art. 30
 
@@ -387,9 +424,7 @@ Las relaziuns d'engaschament sco er la prevenziun professiunala sa drizzan tenor
 <sup>2</sup> Igl è spezialmain scumandà:
 
 - a) da represchentar partidas en proceduras dispitaivlas davant la dretgira respectiva;
-
 - b) da lavurar en il medem champ specific da l'administraziun, per il qual la dretgira respectiva è cumpetenta;
-
 - c) per actuaras e per actuars da la dretgira administrativa da lavurar en in uffizi d'ina autoritad chantunala u communala, sche la dretgira administrativa giuditgescha lur decisiuns en cas da dispita.
 
 <sup>3</sup> Activitads da gudogn independentas e dependentas basegnan ina permissiun da la dretgira respectiva.
@@ -404,21 +439,17 @@ Las relaziuns d'engaschament sco er la prevenziun professiunala sa drizzan tenor
 
 <sup>2</sup> Sche lur grad d'occupaziun a la dretgira importa passa 40 pertschient da plazzas, valan per ellas e per els las medemas disposiziuns areguard las occupaziuns accessoricas sco per las actuaras e per ils actuars en uffizi cumplain e principal.
 
-D. Chanzlia da la dretgira
+### 3.1.4. Chanzlia da la dretgira
 
 #### Art. 32
 
-**Cumposiziun e posiziun**
+**Cumposiziun**
 
 <sup>1</sup> La chanzlia sa cumpona d'ina scheffa u d'in schef da chanzlia e da l'ulteriur persunal necessari.
 
-<sup>2</sup> Las relaziuns d'engaschament sco er la prevenziun professiunala sa drizzan tenor il dretg chantunal da persunal respectivamain tenor il dretg chantunal davart la cassa da pensiun. Resalvadas restan disposiziuns divergentas en questa lescha.
+<sup>2</sup> …
 
-**9**
-
-**10**
-
-1-6-2013 2. DRETGIRA CHANTUNALA DA MESIRAS REPRESSI-VAS
+### 3.2. Dretgira chantunala da mesiras repressivas
 
 #### Art. 33
 
@@ -428,50 +459,42 @@ D. Chanzlia da la dretgira
 
 <sup>2</sup> Sche la derschadra singula u sch'il derschader singul na po betg vegnir remplazzà tras ina substituta u tras in substitut, designescha la dretgira chantunala ina substituziun extraordinaria.
 
-<sup>3</sup> La dretgira chantunala da mesiras repressivas è independenta areguard la materia. En quai che reguarda l'administraziun e l'actuariat è ella integrada en la dretgira districtuala.
+<sup>3</sup> La dretgira chantunala da mesiras repressivas è independenta areguard la materia. En quai che reguarda l'administraziun e l'actuariat è ella integrada en la dretgira regiunala.
 
 #### Art. 34
 
 **Designaziun**
 
-<sup>1</sup> Sin proposta da la dretgira chantunala designescha il cussegl grond las commembras ed ils commembers da la dretgira chantunala da mesiras repressivas or dal circul da las commembras e dals commembers en uffizi cumplain e principal da las dretgiras districtualas, e quai per ina perioda da 4 onns.
+<sup>1</sup> Sin proposta da la dretgira chantunala designescha il cussegl grond las commembras ed ils commembers da la dretgira chantunala da mesiras repressivas or dal circul da las commembras e dals commembers en uffizi cumplain e principal da las dretgiras regiunalas, e quai per ina perioda da 4 onns.
 
 <sup>2</sup> La cumposiziun da la dretgira chantunala da mesiras repressivas sto vegnir annunziada a l'autoritad da surveglianza e sto vegnir publitgada uffizialmain.
 
-<sup>3</sup> La lavur per la dretgira chantunala da mesiras repressivas vegn resguardada cun fixar las resursas persunalas per la dretgira districtuala respectiva.
+<sup>3</sup> La lavur per la dretgira chantunala da mesiras repressivas vegn resguardada cun fixar las resursas persunalas per la dretgira regiunala respectiva.
 
-- 3\. DRETGIRAS DISTRICTUALAS
+### 3.3. Dretgiras regiunalas
 
 #### Art. 35
 
-**District**
-
-Il district ha la capacitad giuridica e l'abilitad d'agir en il sectur da sias cumpetenzas da giurisdicziun e da las incumbensas ch'èn vegnidas surdadas ad el tras la lescha.
+**…**
 
 #### Art. 36
 
 **Cumposiziun**
 
-<sup>1</sup> Las dretgiras districtualas sa cumponan d'ina presidenta u d'in president en uffizi cumplain, d'ina vicepresidenta u d'in vicepresident en uffizi principal sco er dad otg derschadras e derschaders en uffizi accessoric.
+<sup>1</sup> Las dretgiras regiunalas sa cumponan d'ina presidenta u d'in president en uffizi cumplain, d'ina vicepresidenta u d'in vicepresident en uffizi principal sco er dad otg derschadras e derschaders en uffizi accessoric.
 
-1-6-2013
+<sup>2</sup> Las dretgiras regiunalas da l'Alvra, da l'Engiadina bassa/Val Müstair e da la Moesa sa cumponan mintgamai d'ina presidenta u d'in president en uffizi cumplain e dad otg derschadras e derschaders en uffizi accessoric.
 
-<sup>2</sup>[^36-1]Las dretgiras districtualas da l'Alvra, da l'En e da la Moesa sa cumponan mintgamai d'ina presidenta u d'in president en uffizi cumplain e dad otg derschadras e derschaders en uffizi accessoric.
+<sup>3</sup> La dretgira regiunala dal Bernina sa cumpona d'ina presidenta u d'in president en uffizi principal e dad otg derschadras e derschaders en uffizi accessoric.
 
-<sup>3</sup>[^36-2]La dretgira districtuala dal Bernina sa cumpona d'ina presidenta u d'in president en uffizi principal e dad otg derschadras e derschaders en uffizi accessoric.
-
-<sup>4</sup> La dretgira districtuala da la Plessur sa cumpona d'ina presidenta u d'in president e d'ina vicepresidenta u d'in vicepresident en uffizi cumplain, d'ina derschadra u d'in derschader en uffizi principal sco er dad otg derschadras e derschaders en uffizi accessoric.
+<sup>4</sup> La dretgira regiunala da la Plessur sa cumpona d'ina presidenta u d'in president e d'ina vicepresidenta u d'in vicepresident en uffizi cumplain, d'ina derschadra u d'in derschader en uffizi principal sco er dad otg derschadras e derschaders en uffizi accessoric.
 
 <sup>5</sup> Per mintga dretgira fixescha la dretgira chantunala il grad d'occupaziun:
 
 - a) da la presidenta u dal president e da la vicepresidenta u dal vicepresident, sche quels na lavuran betg en uffizi cumplain;
-
 - b) da las derschadras e dals derschaders en uffizi principal.
 
 <sup>6</sup> Sche la lavur tar la dretgira chantunala da mesiras repressivas pretenda quai, po la dretgira chantunala midar in uffizi principal en in uffizi cumplain.
-
-[^36-1]: versiun tenor CCG dals 4 da december 2012; PCG 2012/2013, 502; mess en vigur cun CR dals 4 da zercladur 2013 retroactivamain per il 1. da schaner 2013
-[^36-2]: versiun tenor CCG dals 4 da december 2012; PCG 2012/2013, 502; mess en vigur cun CR dals 4 da zercladur 2013 retroactivamain per il 1. da schaner 2013 1-6-2013 11
 
 #### Art. 37
 
@@ -480,28 +503,61 @@ Il district ha la capacitad giuridica e l'abilitad d'agir en il sectur da sias c
 <sup>1</sup> En scrutinis separads elegian las votantas ed ils votants:
 
 - a) la presidenta u il president;
-
 - b) la vicepresidenta u il vicepresident en uffizi cumplain u principal;
-
 - c) las derschadras ed ils derschaders en uffizi principal;
-
 - d) las ulteriuras derschadras ed ils ulteriurs derschaders.
 
-<sup>2</sup> Las vicepresidentas ed ils vicepresidents en uffizi accessoric vegnan elegids tras las dretgiras districtualas or dal ravugl da las derschadras e dals derschaders en uffizi accessoric.
+<sup>2</sup> Las vicepresidentas ed ils vicepresidents en uffizi accessoric vegnan elegids tras las dretgiras regiunalas or dal ravugl da las derschadras e dals derschaders en uffizi accessoric.
+
+#### Art. 37a
+
+**Elecziun da derschadras e derschaders extraordinaris 1. circumstanzas extraordinarias**
+
+<sup>1</sup> Derschadras e derschaders extraordinaris pon vegnir elegids:
+
+- a) per la durada da l'impediment, sch'igl è avant maun ina situaziun extraordinaria en il senn da l'artitgel 27a alinea 1 litera a ch'ina dretgira regiunala n'è betg en cas da dumagnar cun las derschadras ed ils derschaders en uffizi principal ed en uffizi accessoric;
+- b) per maximalmain 2 onns, sch'igl è avant maun ina situaziun extraordinaria en il senn da l'artitgel 27a alinea 1 litera b ch'ina dretgira regiunala n'è betg en cas da dumagnar cun las derschadras ed ils derschaders en uffizi principal ed en uffizi accessoric.
+
+#### Art. 37b
+
+**2. premissas d'elegibladad ed occupaziuns accessoricas**
+
+<sup>1</sup> Derschadras e derschaders extraordinaris n'èn betg suttamess ad ina limita da vegliadetgna.
+
+<sup>2</sup> Actuaras ed actuars èn elegibels sco derschadras e derschaders extraordinaris.
+
+<sup>3</sup> Per las derschadras ed ils derschaders extraordinaris valan dal rest las medemas regulaziuns sco per las derschadras ed ils derschaders regiunals en uffizi cumplain ed en uffizi principal.
+
+#### Art. 37c
+
+**3. cumpetenza e procedura**
+
+<sup>1</sup> La cumissiun dal Cussegl grond ch'è cumpetenta per la giustia ha la cumpetenza definitiva per l'elecziun supplementara.
+
+<sup>2</sup> Cun l'elecziun supplementara fixescha ella il dumber da derschadras e derschaders extraordinaris, lur grad d'occupaziun e la durada da la relaziun d'occupaziun. In credit posteriur n'è betg necessari.
+
+<sup>3</sup> La procedura da l'elecziun supplementara po vegnir iniziada:
+
+- a) sin dumonda da la Dretgira chantunala;
+- b) d'uffizi.
+
+<sup>4</sup> En cas d'urgenza poi vegnir desistì da publitgar uffizialmain plazzas extraordinarias, sch'ina occupaziun da buna qualitad è garantida.
+
+<sup>5</sup> Dal rest vala l'artitgel 22 confurm al senn per la procedura da l'elecziun supplementara.
 
 #### Art. 38
 
 **Occupaziuns accessoricas**
 
-<sup>1</sup> Per commembras e per commembers da las dretgiras districtualas en uffizi cumplain vegnan applitgadas las disposiziuns davart las occupaziuns accessoricas per derschadras e per derschaders da la dretgira chantunala e da la dretgira administrativa.
+<sup>1</sup> Per commembras e per commembers da las dretgiras regiunalas en uffizi cumplain vegnan applitgadas las disposiziuns davart las occupaziuns accessoricas per derschadras e per derschaders da la dretgira chantunala e da la dretgira administrativa.
 
-<sup>2</sup> Commembras e commembers da las dretgiras districtualas en uffizi principal na dastgan exequir naginas occupaziuns accessoricas che pudessan disfavurisar l'execuziun da l'uffizi u l'independenza e la reputaziun da la dretgira. Activitads da gudogn independentas e dependentas ston vegnir annunziadas a l'autoritad da surveglianza.
+<sup>2</sup> Commembras e commembers da las dretgiras regiunalas en uffizi principal na dastgan exequir naginas occupaziuns accessoricas che pudessan disfavurisar l'execuziun da l'uffizi u l'independenza e la reputaziun da la dretgira. Activitads da gudogn independentas e dependentas ston vegnir annunziadas a l'autoritad da surveglianza.
 
 #### Art. 39
 
 **Chombras ed occupaziun**
 
-<sup>1</sup> Mintga dretgira districtuala nominescha ina chombra civila ed ina chombra penala e communitgescha publicamain sia cumposiziun.
+<sup>1</sup> Mintga dretgira regiunala nominescha ina chombra civila ed ina chombra penala e communitgescha publicamain sia cumposiziun.
 
 <sup>2</sup> Las chombras decidan per regla en ina cumposiziun da trais derschadras e derschaders.
 
@@ -515,21 +571,21 @@ Il district ha la capacitad giuridica e l'abilitad d'agir en il sectur da sias c
 
 <sup>1</sup> Las derschadras ed ils derschaders èn obligads da far substituziun en l'autra chombra. La dretgira regla la substituziun.
 
-<sup>2</sup> Sch'i n'è betg pussaivel d'occupar ina dretgira districtuala cun sias atgnas derschadras e cun ses agens derschaders, po la dretgira chantunala la cumplettar cun derschadras e cun derschaders d'ina dretgira vischina u declerar in'autra dretgira sco cumpetenta.
+<sup>2</sup> Sch'i n'è betg pussaivel d'occupar ina dretgira regiunala cun sias atgnas derschadras e cun ses agens derschaders, po la dretgira chantunala la cumplettar cun derschadras e cun derschaders d'ina dretgira vischina u declerar in'autra dretgira sco cumpetenta.
 
 #### Art. 41
 
 **Incumbensas presidialas**
 
-La presidenta u il president maina tut las sesidas, uschenavant ch'il presidi en ina chombra n'è betg vegnì surdà a la vicepresidenta u al vicepresident ubain ad in'autra derschadra u ad in auter derschader.
+<sup>1</sup> La presidenta u il president maina tut las sesidas, uschenavant ch'il presidi en ina chombra n'è betg vegnì surdà a la vicepresidenta u al vicepresident ubain ad in'autra derschadra u ad in auter derschader.
 
 #### Art. 42
 
 **Administraziun giudiziala**
 
-<sup>1</sup> Mintga dretgira districtuala nominescha ina cumissiun administrativa che consista da tschintg commembras e commembers e ch'è – cun resalva da disposiziuns divergentas – cumpetenta per elecziuns, per dumondas dal dretg da persunal e per ulteriuras fatschentas da l'administraziun giudiziala.
+<sup>1</sup> Mintga dretgira regiunala nominescha ina cumissiun administrativa che consista da tschintg commembras e commembers ordinaris e ch'è – cun resalva da disposiziuns divergentas – cumpetenta per elecziuns, per dumondas dal dretg da persunal e per ulteriuras fatschentas da l'administraziun giudiziala.
 
-<sup>2</sup> Cunter decisiuns dal dretg da persunal po vegnir fatg recurs tar la dretgira chantunala.
+<sup>2</sup> Suenter avair tadlà las dretgiras regiunalas po la dretgira chantunala prevair en in'ordinaziun cumpetenzas singulas da la presidenta u dal president da la dretgira regiunala per chaussas subordinadas.
 
 #### Art. 43
 
@@ -541,49 +597,31 @@ La presidenta u il president maina tut las sesidas, uschenavant ch'il presidi en
 
 <sup>3</sup> La presidenta u il president decida, sch'i duajan vegnir incumbensads actuaras ed actuars ad hoc.
 
-**12**
-
-1-6-2013
-
 #### Art. 44
 
-**Posiziun e salarisaziun**
+**…**
 
-<sup>1</sup> La salarisaziun da las presidentas e dals presidents, da las vicepresidentas e dals vicepresidents en uffizi cumplain e principal sco er da las derschadras e dals derschaders en uffizi principal sa drizza tenor il dretg chantunal da persunal. Areguard la relaziun d'engaschament valan las medemas disposiziuns sco per las derschadras e per ils derschaders da la dretgira chantunala e da la dretgira administrativa.
+## 4. Autoritads da mediaziun
 
-<sup>2</sup> En il rom dal dretg chantunal fixeschan las dretgiras districtualas las indemnisaziuns da las vicepresidentas e dals vicepresidents en uffizi accessoric, da las ulteriuras derschadras e dals ulteriurs derschaders sco er da las actuaras e dals actuars en uffizi accessoric.
-
-<sup>3</sup> Las relaziuns da salarisaziun e d'engaschament da las actuaras e dals actuars en uffizi cumplain e principal sco er dal persunal da chanzlia sa drizzan tenor il dretg chantunal da persunal.
-
-<sup>4</sup> Sin basa da propostas correspundentas da l'uffizi chantunal da persunal e suenter avair tadlà las dretgiras districtualas classifitgescha la dretgira chantunala las plazzas en las classas da salari tenor il dretg chantunal da persunal. En in'ordinaziun regla ella las cumpetenzas, la procedura sco er ulteriurs detagls.
-
-<sup>5</sup> La prevenziun professiunala da las commembras e dals commembers en uffizi cumplain e principal sco er da tut las collavuraturas e da tut ils collavuraturs sa drizza tenor il dretg da la cassa da pensiun chantunala.
-
-### IV. Autoritads da mediaziun
-
-- 1\. UFFIZI DA MEDIAZIUN
+### 4.1. Uffizi da mediaziun
 
 #### Art. 45
 
 **Dumber e posiziun**
 
-<sup>1</sup> Sco autoritad da mediaziun exista en mintga district in uffizi da mediaziun.
+<sup>1</sup> Sco autoritad da mediaziun exista en mintga regiun in uffizi da mediaziun.
 
-<sup>2</sup> L'uffizi da mediaziun è independent areguard la materia. En quai che reguarda l'administraziun è el integrà en la dretgira districtuala. Ils detagls vegnan reglads da l'uffizi da mediaziun e da la dretgira districtuala en ina cunvegna.
+<sup>2</sup> L'uffizi da mediaziun è independent areguard la materia. En quai che reguarda l'administraziun è el integrà en la dretgira regiunala. Ils detagls vegnan reglads da l'uffizi da mediaziun e da la dretgira regiunala en ina cunvegna.
 
 #### Art. 46
 
 **Cumposiziun ed elecziun**
 
-<sup>1</sup> La dretgira districtuala elegia ina mediatura u in mediatur ed ina substituta u in substitut per ina perioda d'uffizi da 4 onns.
+<sup>1</sup> La dretgira regiunala elegia ina mediatura u in mediatur ed ina substituta u in substitut per ina perioda d'uffizi da 4 onns.
 
 <sup>2</sup> Elecziuns cumplementaras durant la perioda d'uffizi èn pussaivlas.
 
-<sup>3</sup> La dretgira districtuala publitgescha uffizialmain las plazzas che vegnan libras.
-
-**13**
-
-1-6-2013
+<sup>3</sup> La dretgira regiunala publitgescha uffizialmain las plazzas ch'èn d'occupar.
 
 <sup>4</sup> La cumposiziun da l'uffizi da mediaziun sto vegnir annunziada a l'autoritad da surveglianza e sto vegnir publitgada uffizialmain.
 
@@ -593,7 +631,7 @@ La presidenta u il president maina tut las sesidas, uschenavant ch'il presidi en
 
 <sup>1</sup> Las mediaturas ed ils mediaturs han la qualificaziun persunala necessaria.
 
-<sup>2</sup> En districts plurilings sto vegnir tegnì quint d'enconuschientschas adequatas da las linguas uffizialas u ch'ellas sajan represchentadas adequatamain.
+<sup>2</sup> En regiuns plurilinguas sto vegnir tegnì quint d'enconuschientschas adequatas da las linguas uffizialas u ch'ellas sajan represchentadas adequatamain.
 
 <sup>3</sup> Las mediaturas ed ils mediaturs na dastgan betg pratitgar in'activitad che pudess metter en privel l'independenza da l'autoritad da mediaziun.
 
@@ -601,57 +639,47 @@ La presidenta u il president maina tut las sesidas, uschenavant ch'il presidi en
 
 **Substituziun**
 
-Sche la mediatura u sch'il mediatur na po betg vegnir remplazzà tras la substituta u tras il substitut, designescha la dretgira districtuala ina substituziun extraordinaria.
+<sup>1</sup> Sche la mediatura u sch'il mediatur na po betg vegnir remplazzà tras la substituta u tras il substitut, designescha la dretgira regiunala ina substituziun extraordinaria.
 
 #### Art. 49
 
-**Posiziun e salarisaziun**
-
-<sup>1</sup> Las relaziuns da salarisaziun e d'engaschament sco er la prevenziun professiunala sa drizzan tenor il dretg chantunal da persunal respectivamain tenor il dretg chantunal davart la cassa da pensiun. Resalvadas restan disposiziuns divergentas en questa lescha.
-
-<sup>2</sup> Sin basa da propostas correspundentas da l'uffizi chantunal da persunal e suenter avair tadlà las dretgiras districtualas classifitgescha la dretgira chantunala las plazzas en las classas da salari tenor il dretg chantunal da persunal u prevesa ina indemnisaziun tenor diarias. En in'ordinaziun regla ella las cumpetenzas, la procedura sco er ulteriurs detagls.
+**…**
 
 #### Art. 50
 
 **Actuariat e chanzlia**
 
-<sup>1</sup> La dretgira districtuala determinescha la concepziun organisatorica fundamentala da l'actuariat e da la chanzlia suenter avair tadlà l'uffizi da mediaziun.
+<sup>1</sup> La dretgira regiunala determinescha la concepziun organisatorica fundamentala da l'actuariat e da la chanzlia suenter avair tadlà l'uffizi da mediaziun.
 
-<sup>2</sup> Uschenavant che las lavurs d'actuariat e da chanzlia n'èn betg chaussa da las emploiadas e dals emploiads da la dretgira districtuala, è l'uffizi da mediaziun cumpetent per l'elecziun.
+<sup>2</sup> Uschenavant che las lavurs d'actuariat e da chanzlia n'èn betg chaussa da las emploiadas e dals emploiads da la dretgira regiunala, è l'uffizi da mediaziun cumpetent per l'elecziun.
 
-<sup>3</sup> Las cundiziuns da salarisaziun e d'engaschament sa drizzan tenor las disposiziuns davart las dretgiras districtualas.
+<sup>3</sup> …
 
-**14**
-
-**15**
-
-1-6-2013 2. AUTORITAD DA MEDIAZIUN PER DUMONDAS DA LOCAZIUN
+### 4.2. Autoritad da mediaziun per dumondas da locaziun
 
 #### Art. 51
 
 **Dumber e posiziun**
 
-<sup>1</sup> Per dispitas che resultan tras la locaziun e tras la fittanza da locals d'abitar e da fatschenta ha mintga district in'autoritad da mediaziun.
+<sup>1</sup> Per dispitas che resultan tras la locaziun e tras la fittanza da locals d'abitar e da fatschenta ha mintga regiun in'autoritad da mediaziun.
 
-<sup>2</sup> L'autoritad da mediaziun per dumondas da locaziun è independenta areguard la materia. En quai che reguarda l'administraziun è ella integrada en la dretgira districtuala.
+<sup>2</sup> L'autoritad da mediaziun per dumondas da locaziun è independenta areguard la materia. En quai che reguarda l'administraziun è ella integrada en la dretgira regiunala.
 
 #### Art. 52
 
 **Cumposiziun**
 
-L'autoritad da mediaziun per dumondas da locaziun sa cumpona:
+<sup>1</sup> L'autoritad da mediaziun per dumondas da locaziun sa cumpona:
 
 - a) da la mediatura u dal mediatur (presidi);
-
 - b) da mintgamai ina represchentanza da la partida da las locatarias e dals locataris sco er da la partida da las locaturas e dals locaturs;
-
 - c) da mintgamai ina substituta u in substitut.
 
 #### Art. 53
 
 **Elecziun**
 
-<sup>1</sup> La dretgira districtuala elegia la represchentanza e la substituziun da la partida da las locatarias e dals locataris sco er da la partida da las locaturas e dals locaturs per ina perioda d'uffizi da 4 onns.
+<sup>1</sup> La dretgira regiunala elegia la represchentanza e la substituziun da la partida da las locatarias e dals locataris sco er da la partida da las locaturas e dals locaturs per ina perioda d'uffizi da 4 onns.
 
 <sup>2</sup> Elecziuns cumplementaras durant la perioda d'uffizi èn pussaivlas.
 
@@ -663,37 +691,33 @@ L'autoritad da mediaziun per dumondas da locaziun sa cumpona:
 
 **Substituziun**
 
-Sche l'autoritad da mediaziun per dumondas da locaziun na po betg vegnir cumplettada cun ina substituziun elegida, designescha la dretgira districtuala ina substituziun extraordinaria.
+<sup>1</sup> Sche l'autoritad da mediaziun per dumondas da locaziun na po betg vegnir cumplettada cun ina substituziun elegida, designescha la dretgira regiunala ina substituziun extraordinaria.
 
 #### Art. 55
 
-**Posiziun e salarisaziun**
-
-<sup>1</sup> La posiziun e la salarisaziun da las commembras e dals commembers da l'autoritad da mediaziun per dumondas da locaziun sa drizzan tenor las disposiziuns per las derschadras e per ils derschaders da las dretgiras districtualas en uffizi accessoric. Resalvadas restan disposiziuns divergentas en questa lescha.
-
-<sup>2</sup> La dretgira chantunala regla ils detagls en in'ordinaziun.
+**…**
 
 #### Art. 56
 
 **Actuariat e chanzlia**
 
-<sup>1</sup> La dretgira districtuala determinescha la concepziun organisatorica fundamentala da l'actuariat e da la chanzlia.
+<sup>1</sup> La dretgira regiunala determinescha la concepziun organisatorica fundamentala da l'actuariat e da la chanzlia.
 
-1-6-2013
+<sup>2</sup> Uschenavant che las lavurs d'actuariat e da chanzlia n'èn betg chaussa da las emploiadas e dals emploiads da la dretgira regiunala, è l'autoritad da mediaziun per dumondas da locaziun cumpetenta per l'elecziun. Ella regla l'organisaziun da la cussegliaziun giuridica tenor il dretg federal.
 
-<sup>2</sup> Uschenavant che las lavurs d'actuariat e da chanzlia n'èn betg chaussa da las emploiadas e dals emploiads da la dretgira districtuala, è l'autoritad da mediaziun per dumondas da locaziun cumpetenta per l'elecziun. Ella regla l'organisaziun da la cussegliaziun giuridica tenor il dretg federal.
+<sup>3</sup> …
 
-<sup>3</sup> Las cundiziuns da salarisaziun e d'engaschament sa drizzan tenor las disposiziuns davart las dretgiras districtualas.
-
-- 3\. AUTORITAD DA MEDIAZIUN PER DUMONDAS D'EGUALITAD
+### 4.3. Autoritad da mediaziun per dumondas d'egualitad
 
 #### Art. 57
 
 **Dumber e posiziun**
 
-<sup>1</sup> Per dispitas tenor la lescha d'egualitad exista in'autoritad chantunala da mediaziun.
+<sup>1</sup> Per dispitas tenor la lescha d'egualitad[^57-1] exista in'autoritad chantunala da mediaziun.
 
-<sup>2</sup> L'autoritad da mediaziun per dumondas d'egualitad è independenta areguard la materia. En quai che reguarda l'administraziun è ella integrada en la dretgira districtuala da la Plessur.
+<sup>2</sup> L'autoritad da mediaziun per dumondas d'egualitad è independenta areguard la materia. En quai che reguarda l'administraziun è ella integrada en la dretgira regiunala da la Plessur.
+
+[^57-1]: CS [151.1](https://db.clex.ch/link/Bund/151.1/rm)
 
 #### Art. 58
 
@@ -702,9 +726,7 @@ Sche l'autoritad da mediaziun per dumondas da locaziun na po betg vegnir cumplet
 <sup>1</sup> L'autoritad da mediaziun per dumondas d'egualitad sa cumpona:
 
 - a) d'ina parsura u d'in parsura;
-
 - b) da mintgamai ina represchentanza da la partida da las patrunas e dals patruns sco er da la partida da las lavurantas e dals lavurants;
-
 - c) da mintgamai ina substituta u in substitut.
 
 <sup>2</sup> Las prescripziuns da paritad dal dretg federal ston vegnir observadas.
@@ -723,25 +745,15 @@ Sche l'autoritad da mediaziun per dumondas da locaziun na po betg vegnir cumplet
 
 **Substituziun**
 
-Sche l'autoritad da mediaziun per dumondas da d'egualitad na po betg vegnir cumplettada cun ina substituziun elegida, designescha la dretgira chantunala ina substituziun extraordinaria.
-
-**16**
-
-1-6-2013
+<sup>1</sup> Sche l'autoritad da mediaziun per dumondas da d'egualitad na po betg vegnir cumplettada cun ina substituziun elegida, designescha la dretgira chantunala ina substituziun extraordinaria.
 
 #### Art. 61
 
-**Posiziun e salarisaziun**
+**…**
 
-<sup>1</sup> La posiziun e la salarisaziun da las commembras e dals commembers da l'autoritad da mediaziun per dumondas d'egualitad sa drizzan tenor las disposiziuns per las derschadras e per ils derschaders da las dretgiras districtualas en uffizi accessoric.
+## 5. Surveglianza e surveglianza suprema
 
-<sup>2</sup> La dretgira chantunala regla ils detagls en in'ordinaziun[^61-1].
-
-[^61-1]: DG 173.600 1-6-2013 17
-
-### V. Surveglianza e surveglianza suprema
-
-- 1\. DISPOSIZIUNS GENERALAS
+### 5.1. Disposiziuns generalas
 
 #### Art. 62
 
@@ -760,9 +772,7 @@ Sche l'autoritad da mediaziun per dumondas da d'egualitad na po betg vegnir cump
 <sup>2</sup> Ella po spezialmain:
 
 - a) intimar las autoritads falliblas – sche necessari cun fixar in termin – d'ademplir lur obligaziuns;
-
 - b) incumbensar in'autra commembra u in auter commember da la dretgira respectivamain da l'autoritad da mediaziun u in'autra autoritad giudiziala respectivamain in'autra autoritad da mediaziun d'ademplir las obligaziuns, en cas che las obligaziuns vegnan violadas repetidamain u en cas da renitenza;
-
 - c) ordinar mesiras disciplinaras envers ils organs responsabels, en cas che las obligaziuns vegnan violadas per culpa.
 
 #### Art. 64
@@ -772,16 +782,13 @@ Sche l'autoritad da mediaziun per dumondas da d'egualitad na po betg vegnir cump
 <sup>1</sup> Suenter avair fatg l'inquisiziun e suenter avair tadlà la persuna pertutgada po l'autoritad da surveglianza cumpetenta pronunziar las suandantas mesiras disciplinaras – tut tenor la grevezza da la culpa:
 
 - a) reprimanda;
-
 - b) multa fin 10 000 francs;
-
 - c) suspensiun da l'uffizi fin a 6 mais;
-
 - d) destituziun da l'uffizi.
 
 <sup>2</sup> La responsabladad civila e penala resta resalvada.
 
-- 2\. SURVEGLIANZA DA LA DRETGIRA CHANTUNALA
+### 5.2. Surveglianza da la dretgira chantunala
 
 #### Art. 65
 
@@ -795,21 +802,21 @@ Sche l'autoritad da mediaziun per dumondas da d'egualitad na po betg vegnir cump
 
 **Recurs da surveglianza**
 
-<sup>1</sup> Recurs da surveglianza cunter ina dretgira districtuala, cunter in'autoritad da mediaziun u cunter la dretgira chantunala da mesiras repressivas sco er cunter lur commembras e cunter lur commembers ston vegnir inoltrads a la dretgira chantunala.
+<sup>1</sup> Recurs da surveglianza cunter ina dretgira regiunala, cunter in'autoritad da mediaziun u cunter la dretgira chantunala da mesiras repressivas sco er cunter lur commembras e cunter lur commembers ston vegnir inoltrads a la dretgira chantunala.
 
 <sup>2</sup> Per la procedura da recurs valan dal rest las disposiziuns da la lescha davart la giurisdicziun administrativa[^66-1].
 
-[^66-1]: DG 370.100 18 1-6-2013
+[^66-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
 #### Art. 67
 
 **Cumpetenza**
 
-<sup>1</sup> La dretgira cumplessiva è cumpetenta per conclus, cun ils quals derschadras e derschaders dals districts sco er commembras e commembers da l'autoritad da mediaziun vegnan suspendids temporarmain u destituids da lur uffizi.
+<sup>1</sup> La dretgira cumplessiva è cumpetenta per conclus, cun ils quals commembras e commembers da las dretgiras regiunalas sco er da las autoritads da mediaziun vegnan suspendids temporarmain u destituids da lur uffizi.
 
 <sup>2</sup> Las ulteriuras fatschentas da la surveglianza giudiziala po la dretgira delegar tras in'ordinaziun ad in auter gremi entaifer la dretgira.
 
-- 3\. SURVEGLIANZA E SURVEGLIANZA SUPREMA DAL CUSSEGL GROND
+### 5.3. Surveglianza e surveglianza suprema dal cussegl grond
 
 #### Art. 68
 
@@ -827,7 +834,7 @@ Sche l'autoritad da mediaziun per dumondas da d'egualitad na po betg vegnir cump
 
 **Cumpetenza**
 
-<sup>1</sup> Il cussegl grond è cumpetent per mesiras disciplinaras, cun las qualas derschadras e derschaders chantunals vegnan suspendids temporarmain u destituids da lur uffizi.
+<sup>1</sup> Il cussegl grond è cumpetent per mesiras disciplinaras, cun las qualas derschadras e derschaders da la dretgira chantunala e da la dretgira administrativa vegnan suspendids temporarmain u destituids da lur uffizi.
 
 <sup>2</sup> Las ulteriuras mesiras disciplinaras pon vegnir pronunziadas da la cumissiun dal cussegl grond ch'è cumpetenta per la giustia.
 
@@ -835,9 +842,9 @@ Sche l'autoritad da mediaziun per dumondas da d'egualitad na po betg vegnir cump
 
 **Recurs da surveglianza**
 
-Recurs da surveglianza cunter la dretgira chantunala u cunter la dretgira administrativa ston vegnir inoltrads al cussegl grond.
+<sup>1</sup> Recurs da surveglianza cunter la dretgira chantunala u cunter la dretgira administrativa ston vegnir inoltrads al cussegl grond.
 
-### VI. Contabilitad
+## 6. Contabilitad
 
 #### Art. 71
 
@@ -845,9 +852,13 @@ Recurs da surveglianza cunter la dretgira chantunala u cunter la dretgira admini
 
 <sup>1</sup> Mintga dretgira maina las finanzas e la contabilitad tenor ils princips dal dretg chantunal da finanzas.
 
-<sup>2</sup> Suenter l'examinaziun tras la controlla chantunala da finanzas e sin proposta da quella approvescha la dretgira chantunala il preventiv ed il quint da las dretgiras districtualas.
+<sup>2</sup> La dretgira chantunala examinescha ed approvescha il preventiv ed il quint da las dretgiras regiunalas.
 
-<sup>3</sup> Ella regla ils detagls davart las finanzas e la contabilitad da las dretgiras districtualas en in'ordinaziun. L'emprim ston vegnir tadlads il departament ch'è cumpetent per las finanzas, la controlla da finanzas e las dretgiras districtualas.
+<sup>2<sup>bis</sup></sup> Lura examinescha la controlla chantunala da finanzas ils preventivs ed ils quints da las dretgiras regiunalas sco er da la dretgira chantunala e da la dretgira administrativa per mauns da la cumissiun da gestiun dal cussegl grond.
+
+<sup>3</sup> La dretgira chantunala regla ils detagls davart las finanzas e la contabilitad da las dretgiras regiunalas e da las autoritads da mediaziun en in'ordinaziun. L'emprim ston vegnir tadlads il departament ch'è cumpetent per las finanzas, la controlla da finanzas sco er las dretgiras regiunalas e las autoritads da mediaziun.
+
+<sup>4</sup> En cunvegnientscha cun il departament ch'è cumpetent per las finanzas pon la dretgira chantunala e la dretgira administrativa surdar a l'administraziun da finanzas cunter indemnisaziun incumbensas dals fatgs da finanzas e da contabilitad.
 
 #### Art. 72
 
@@ -861,15 +872,9 @@ Recurs da surveglianza cunter la dretgira chantunala u cunter la dretgira admini
 
 #### Art. 73
 
-**Surpigliada dals custs**
+**…**
 
-Uschenavant ch'ils custs da la giurisdicziun na vegnan betg cuvrids tras ils custs da dretgira, tras chastis pecuniars, tras multas e tras eventualas autras entradas, van els a donn e cust dal chantun.
-
-**19**
-
-1-6-2013
-
-### VII. Disposiziuns finalas
+## 7. Disposiziuns finalas
 
 #### Art. 74
 
@@ -879,41 +884,35 @@ Uschenavant ch'ils custs da la giurisdicziun na vegnan betg cuvrids tras ils cus
 
 <sup>2</sup> Sche relaschs vertents renvieschan a disposiziuns che vegnan abolidas tras questa lescha, vegnan applitgadas las disposiziuns correspundentas da questa lescha.
 
-[^74-1]: CUL 2006, FUC 4554 e CUL 2007, FUC 1039; DG 173.000
+[^74-1]: CUL 2006, FUC 4554 e CUL 2007, FUC 1039; DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 75
 
 **Midada da relaschs**
 
-La midada da leschas vegn reglada en l'agiunta[^75-1].
+<sup>1</sup> La midada da leschas vegn reglada en l'agiunta[^75-1].
 
-[^75-1]: l'agiunta n'è betg cuntegnida en il DG, vesair FUC 2010, 2575 ss.
+[^75-1]: L'agiunta n'è betg cuntegnida en il DG. Vesair FUC 2010, 2575 ss.
 
 #### Art. 76
 
+**…**
+
+#### Art. 76a
+
 **Disposiziuns transitoricas**
 
-<sup>1</sup> Las commembras ed ils commembers da las dretgiras districtualas restan en uffizi en lur funcziun vertenta er en cas d'ina midada dal grad d'occupaziun, fin che la perioda d'uffizi va a fin, cun resalva da las suandantas excepziuns:
+<sup>1</sup> Las valurs da facultad e las obligaziuns ch'èn avant maun il mument da la schliaziun da las dretgiras districtualas passan – cun resalva da l'alinea 2 – senza indemnisaziun al chantun.
 
-- a) la dretgira districtuala po reparter augments dal grad d'occupaziun dal vicepresidi sin pliras commembras e sin plirs commembers da la dretgira districtuala, e quai cun il consentiment da la dretgira chantunala e fin a la scadenza da la perioda d'uffizi;
+<sup>2</sup> Cun l'entrada en vigur da questa lescha passan ils bains immobigliars ed ils dretgs reals limitads, ch'èn en proprietad dals districts e da las corporaziuns regiunalas e che vegnan duvrads per ademplir las incumbensas da las dretgiras regiunalas, al chantun, che surpiglia cun quai er las obligaziuns e paja ina indemnisaziun adequata. L'inscripziun en il register funsil vegn fatga gratuitamain sin annunzia dal chantun.
 
-- b) la dretgira districtuala da la Plessur elegia la derschadra u il derschader en uffizi principal per il rest da la perioda d'uffizi or dal ravugl da las derschadras e dals derschaders en uffizi accessoric. Ella po reparter l'augment dal grad d'occupaziun sin pliras commembras e sin plirs commembers da la dretgira districtuala, e quai cun il consentiment da la dretgira chantunala e fin a la scadenza da la perioda d'uffizi;
+<sup>3</sup> Ils contracts da lavur ch'existan il mument da l'entrada en vigur da questa lescha tranter las dretgiras districtualas respectivamain tranter las autoritads da mediaziun e lur collavuraturas e collavuraturs ston vegnir transferids entaifer 3 mais sin il nov patrun.
 
-- c) las disposiziuns davart las occupaziuns accessoricas valan per il nov grad d'occupaziun a partir dal mument che questa lescha entra en vigur[^76-1];
+<sup>4</sup> Cun l'entrada en vigur da questa lescha passan tut las cumpetenzas da las dretgiras districtualas a las dretgiras regiunalas.
 
-- d) per elecziuns cumplementaras valan las disposiziuns da questa lescha;
+<sup>5</sup> Per proceduras ch'èn pendentas davant in'autoritad da mediaziun il mument che questa lescha entra en vigur, sa drizza la cumpetenza tenor il dretg nov, suenter che la procedura da mediaziun è terminada.
 
-- e) midadas areguard il dumber da derschadras e da derschaders survegnan lur vigur legala pir per la proxima perioda d'uffizi.
-
-<sup>2</sup> Cun resalva da las suandantas excepziuns restan las commembras ed ils commembers da las autoritads da mediaziun per dumondas da locaziun en uffizi fin a la scadenza da la perioda d'uffizi tenor il dretg vertent:
-
-- a) la perioda d'uffizi da la parsura u dal parsura vegn scursanida als 31 da december 2010;
-
-- b) per novas elecziuns e per elecziuns cumplementaras valan las disposiziuns da questa lescha.
-
-<sup>3</sup> L'elecziun da las commembras e dals commembers dals uffizis da mediaziun e da l'autoritad da mediaziun per dumondas d'egualitad sco er da la dretgira chantunala da mesiras repressivas sa drizza tenor questa lescha. L'emprima perioda d'uffizi da questas autoritads dura dal 1. da schaner 2011 fin ils 31 da december 2012.
-
-[^76-1]: 1. da schaner 2011 20 1-6-2013
+<sup>6</sup> Per proceduras ch'èn pendentas davant ina dretgira il mument che questa lescha entra en vigur, resta la cumpetenza la medema, fin che la procedura è liquidada cun vigur legala.
 
 #### Art. 77
 
@@ -923,5 +922,7 @@ La midada da leschas vegn reglada en l'agiunta[^75-1].
 
 <sup>2</sup> La regenza fixescha il termin da l'entrada en vigur[^77-2].
 
-[^77-1]: il termin da referendum è scadì ils 29 da settember 2009, entaifer quest termin n'èn vegnids inoltrads nagins referendums
-[^77-2]: mess en vigur cun CR dals 21 da december 2010 per il 1. da schaner 2011 1-6-2013 21
+[^77-1]: Il termin da referendum è scadì ils 29 da settember 2009. Entaifer quest termin n'èn vegnids inoltrads nagins referendums.
+[^77-2]: messa en vigur cun CR dals 21 da december 2010 per il 1. da schaner 2011
+
+-
