@@ -1,108 +1,129 @@
 ---
 canton: VS
 number: "416.1"
-title: Loi sur les allocations de formation
-short: LAF
+title: "Loi sur les bourses et prêts d'études"
+short: LBPE
 language: fr
-version: 2011-06-08
-corrected: 2017-09-06
+version: 2021-07-01
 version_adopted: 2010-11-18
 adopted: 2010-11-18
 in_force: 2011-06-08
 url: "https://lex.vs.ch/app/fr/texts_of_law/416.1"
-pdf: "https://lex.vs.ch/api/fr/versions/489/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2923/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur les allocations de formation (LAF)
+# Loi sur les bourses et prêts d'études
 
-du 18 novembre 2010
+(LBPE)
+
+du 18.11.2010 (état 01.07.2021)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 31 alinéa 1 chiffre 1 et 42 alinéa 1 de la Constitution cantonale; vu la loi fédérale du 6 octobre 2006 sur les contributions aux cantons pour l’octroi de bourses et de prêts d’études dans le domaine de la formation du degré tertiaire;
+vu les articles 31 alinéa 1 lettre a et 42 alinéa 1 de la Constitution cantonale;
+
+vu la loi sur les subventions du 13 novembre 1995;
+
+vu la loi fédérale sur les contributions aux cantons pour l’octroi de bourses et de prêts d’études dans le domaine de la formation du degré tertiaire du 12 décembre 2014 (Loi sur les aides à la formation);
+
+vu la loi d'adhésion à l'accord intercantonal sur l'harmonisation des régimes de bourses d'études du 13 novembre 2020;
 
 sur la proposition du Conseil d’Etat,
 
-ordonne:
+ordonne[^ingress-1] :
 
-### Section 1: Dispositions générales
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+
+## 1 Dispositions générales
 
 #### Art. 1
 
-**Objet et champ d’application**
+**Objet et champ d'application**
 
-<sup>1</sup> La présente loi règle l’octroi de bourses et de prêts d’études (ci-après allocations) aux personnes en formation dont les ressources financières sont insuffisantes au sens de la présente loi.
+<sup>1</sup> La présente loi règle l’octroi de bourses et de prêts d’études (ci-après: aides à la formation) aux personnes en formation dont les ressources financières sont insuffisantes au sens de la présente loi.
 
-<sup>2</sup> Les dispositions de la loi cantonale sur les subventions du 13 novembre 1995 sont applicables directement et dans leur intégralité aux subventions prévues par le présent texte légal. Les dispositions de ce dernier demeurent applicables dans la mesure où elles ne sont pas contraires à la loi sur les subventions.
+<sup>2</sup> …
 
 #### Art. 2
 
 **Objectifs**
 
-L’octroi d’allocations doit améliorer la fréquentation des filières de formation à disposition, dans l’ensemble de la Suisse, en vue notamment:
+<sup>1</sup> L’octroi d'aides à la formation doit améliorer la fréquentation des filières de formation à disposition, dans l’ensemble de la Suisse, en vue notamment:
 
-- a) de promouvoir l’égalité des chances;
-
-- b) de faciliter l’accès à la formation;
-
+- a) de promouvoir l'égalité des chances;
+- b) de faciliter l'accès à la formation;
 - c) de contribuer à assurer les conditions de vie minimales durant la formation;
-
-- d) de garantir le libre choix de la formation et de l’institution formatrice au sens de la présente loi;
-
-- e) d’encourager la mobilité.
+- d) de garantir le libre choix de la formation et de l'institution formatrice au sens de la présente loi;
+- e) d'encourager la mobilité.
 
 #### Art. 3
 
 **Subsidiarité**
 
-Le financement d’une formation incombe en premier lieu aux parents, subsidiairement aux autres responsables légaux et au requérant. Dans la mesure où les possibilités financières des personnes précitées sont insuffisantes, des allocations sont allouées par l’Etat.
+<sup>1</sup> Le financement de la formation incombe en premier lieu à la personne en formation, à ses parents, à son conjoint ou son partenaire enregistré, à toutes autres personnes tenues légalement à son entretien, ainsi que, le cas échéant, à des tiers. Les aides à la formation sont octroyées à titre subsidiaire.
 
 #### Art. 4
 
 **Egalité**
 
-Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l’homme ou la femme.
+<sup>1</sup> Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l’homme ou la femme.
 
-### Section 2: Droit à une allocation
+#### Art. 4a
+
+**Collaboration**
+
+<sup>1</sup> Dans la perspective d'harmoniser le système des aides à la formation, l'Etat encourage la collaboration et l'échange d'informations et d'expériences avec les autres cantons, la Confédération et les organes nationaux concernés.
+
+<sup>2</sup> L'Etat encourage la collaboration et l'échange d'informations entre ses services.
+
+#### Art. 4b
+
+**Collecte et traitement des données**
+
+<sup>1</sup> Le service, par son unité organisationnelle en charge des aides à la formation (ci-après: la section), est en droit d'obtenir des autorités et des services les documents, les renseignements et les données personnelles nécessaires à l'application de la présente loi ainsi que de les traiter.
+
+<sup>2</sup> En particulier, la section peut obtenir du service en charge des contributions, y compris le cas échéant par communication en ligne, les données fiscales des personnes mentionnées à l'article 3, ainsi que d’autres données des établissements de formation, des services en charge de la population, du contrôle des habitants et de l'aide sociale, et les traiter. Le Conseil d'Etat règle, par voie d'ordonnance, les catégories de données que la section est habilitée à obtenir et à traiter. Il fixe également les limites d'accès.
+
+<sup>3</sup> Le service en charge des contributions met à disposition les données nécessaires selon les alinéas 1 et 2 à la section, le cas échéant par communication en ligne.
+
+<sup>4</sup> Les personnes mentionnées à l'article 3, qui n'ont pas pris connaissance par leur signature ou qui ne savent pas que des données les concernant sont collectées et traitées, en sont informées systématiquement par la section au plus tard au moment de la collecte des premières données. L'information porte également sur la finalité de la collecte et du traitement des données.
+
+<sup>5</sup> Les personnes chargées du traitement des demandes d'aides à la formation sont soumises au secret fiscal conformément à l'article 120 de la loi fiscale.
+
+## 2 Droit à une aide à la formation
 
 #### Art. 5
 
 **Ayants droit**
 
-<sup>1</sup> Les personnes ayant droit à une allocation de formation sont les suivantes:
+<sup>1</sup> Les personnes ayant droit à une aide à la formation sont les suivantes:
 
 - a) les personnes de nationalité suisse et domiciliées en Suisse, sous réserve de la lettre b;
-
-- b) les citoyens suisses dont les parents vivent à l’étranger ou ceux qui vivent à l’étranger sans leurs parents, pour des formations en Suisse, si ces personnes n’y ont pas droit en leur lieu de domicile étranger par défaut de compétence;
-
-- c) les personnes de nationalité étrangère bénéficiaires d’un permis d’établissement ou les personnes titulaires d’un permis de séjour si elles séjournent légalement en Suisse depuis cinq ans;
-
+- b) les citoyens suisses dont les parents vivent à l'étranger ou ceux qui vivent à l'étranger sans leurs parents, pour des formations en Suisse, si ces personnes n'y ont pas droit en leur lieu de domicile étranger par défaut de compétence;
+- c) les personnes de nationalité étrangère et non ressortissantes des Etats membres de l'UE/AELE pour autant qu'elles soient:
+  - 1\. titulaires d'une autorisation d'établissement, ou
+  - 2\. titulaires d'une autorisation de séjour, supérieure à une année, si elles séjournent légalement en Suisse depuis cinq ans;
 - d) les personnes domiciliées en Suisse et reconnues comme réfugiées ou apatrides par la Suisse;
+- e) pour autant qu’ils soient domiciliés en Suisse, les ressortissants des Etats membres de l'UE/AELE dans la mesure où, conformément à l'accord de libre circulation entre la Confédération suisse et la Communauté européenne et ses Etats membres ou à la convention AELE, ils sont traités à égalité avec les citoyens suisses en matière d'aides à la formation, ainsi que les citoyens d'Etats avec lesquels la Suisse a conclu des accords internationaux à ce sujet.
 
-- e) les ressortissants des Etats membres de l’UE/AELE dans la mesure où, conformément à l’accord de libre circulation entre la Confédération suisse et la Communauté européenne et ses Etats membres ou à la convention AELE, ils sont traités à égalité avec les citoyens suisses en matière d'allo-cations, ainsi que les citoyens d'Etats avec lesquels la Suisse a conclu des accords internationaux à ce sujet.
+<sup>2</sup> Les personnes séjournant en Suisse à des fins exclusives de formation n’ont pas droit à des aides à la formation.
 
-<sup>2</sup> Les personnes séjournant en Suisse à des fins exclusives de formation n’ont pas droit à des allocations.
-
-<sup>3</sup> La demande d’octroi d’une allocation doit être déposée dans le canton dans lequel la personne en formation a son domicile déterminant pour l’octroi d’une allocation.
+<sup>3</sup> La demande d’octroi d’une aide à la formation doit être déposée dans le canton dans lequel la personne en formation a son domicile déterminant pour l’octroi d’une aide à la formation.
 
 #### Art. 6
 
-**Domicile déterminant le droit à une allocation**
+**Domicile déterminant le droit à une aide à la formation**
 
-<sup>1</sup> Vaut domicile déterminant le droit à une allocation:
+<sup>1</sup> Vaut domicile déterminant le droit à une aide à la formation:
 
 - a) le domicile civil des parents ou le siège de la dernière autorité tutélaire compétente, sous réserve de la lettre d;
+- b) le canton d'origine, sous réserve de la lettre d, pour les citoyens suisses dont les parents ne sont pas domiciliés en Suisse ou qui sont établis à l'étranger sans leurs parents;
+- c) le domicile civil, sous réserve de la lettre d, pour les personnes réfugiées et les personnes apatrides majeures reconnues par la Suisse et dont les parents ont leur domicile à l'étranger, ou encore qui sont orphelines; cette règle s'applique aux personnes réfugiées pour autant que leur prise en charge incombe à un canton signataire de l'accord intercantonal sur l'harmonisation des régimes de bourses d'études;
+- d) le canton dans lequel les personnes majeures ont élu domicile pendant au moins 2 ans et où elles ont exercé une activité lucrative garantissant leur indépendance financière, après avoir terminé une première formation donnant accès à un métier et avant de commencer la formation pour laquelle elles sollicitent une aide à la formation.
 
-- b) le canton d’origine, sous réserve de la lettre d, pour les citoyens suisses dont les parents ne sont pas domiciliés en Suisse ou qui sont établis à l’étranger sans leurs parents;
-
-- c) le domicile civil, sous réserve de la lettre d, pour les personnes réfugiées et les personnes apatrides majeures reconnues par la Suisse et dont les parents ont leur domicile à l’étranger, ou encore qui sont orphelines; cette règle s’applique aux personnes réfugiées pour autant que leur prise en charge incombe à un canton signataire de l’accord intercantonal sur l’harmonisation des régimes de bourses d’études;
-
-- d) le canton dans lequel les personnes majeures ont élu domicile pendant au moins deux ans et où elles ont exercé une activité lucrative garantissant leur indépendance financière, après avoir terminé une première formation donnant accès à un métier et avant de commencer la formation pour laquelle elles sollicitent une allocation.
-
-<sup>2</sup> Lorsque les parents n’ont pas leur domicile civil dans le même canton, on retient le domicile civil de celui des deux qui exerce l’autorité parentale, le cas échéant le domicile du dernier détenteur de l’autorité parentale, et lorsque celle-ci est exercée conjointement, le domicile du parent qui exerce principalement la garde de la personne en formation ou de celui qui l’a exercée en dernier. Si les parents élisent leur domicile dans des cantons différents après la majorité de la personne sollicitant une allocation, on retient le canton dans lequel est domicilié le parent chez lequel celle-ci réside principalement.
+<sup>2</sup> Lorsque les parents n’ont pas leur domicile civil dans le même canton, on retient le domicile civil de celui des deux qui exerce l’autorité parentale, le cas échéant le domicile du dernier détenteur de l’autorité parentale, et lorsque celle-ci est exercée conjointement, le domicile du parent qui exerce principalement la garde de la personne en formation ou de celui qui l’a exercée en dernier. Si les parents élisent leur domicile dans des cantons différents après la majorité de la personne sollicitant une aide à la formation, on retient le canton dans lequel est domicilié le parent chez lequel celle-ci réside principalement.
 
 <sup>3</sup> S’il y a plusieurs cantons d’origine, on retient celui du droit de cité le plus récent.
 
@@ -110,23 +131,22 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 #### Art. 7
 
-**Formations donnant droit à des allocations**
+**Filières de formation donnant droit à des aides à la formation**
 
-Des allocations peuvent être accordées pour:
+<sup>1</sup> Des aides à la formation peuvent être accordées pour les filières de formation suivantes à la condition que les formations délivrées soient reconnues au sens de l'article 8 de la présente loi:
 
-- a) la préparation à la formation, à la condition qu’elle débute après l’achèvement de la scolarité obligatoire;
-
-- b) la fréquentation d’une classe de l’enseignement secondaire I dans une autre région linguistique ou d’une structure sport-arts-formation;
-
-- c) l’apprentissage;
-
-- d) la formation secondaire du deuxième degré;
-
+- a) …
+- b) la fréquentation d'une classe de l'enseignement secondaire I:
+  - 1\. dans une autre région linguistique, ou
+  - 2\. dans une structure sport-arts-formation, ou
+  - 3\. de préapprentissage;
+- b<sup>bis</sup>) la préparation à la formation, à la condition qu'elle débute après l'achèvement de la scolarité obligatoire ainsi que les mesures de transition reconnues par le canton;
+- c) les formations préparatoires obligatoires pour accéder à une formation du secondaire II ou du degré tertiaire, ainsi que les programmes passerelles;
+- d) la formation du secondaire II (général et professionnel);
 - e) la formation tertiaire;
-
-- f) les deuxièmes formations et la formation continue;
-
-<sup>g)</sup> toute formation complémentaire permettant la réinsertion ou la réorientation professionnelle ou l’accès à un niveau plus élevé.
+- f) …
+- g) …
+- h) les cours de langue.
 
 #### Art. 8
 
@@ -138,175 +158,223 @@ Des allocations peuvent être accordées pour:
 
 <sup>3</sup> Une formation dans un établissement privé en Suisse est reconnue, dans la mesure où elle conduit à un diplôme reconnu par la Confédération ou le canton.
 
-<sup>4</sup> Une formation à l’étranger est reconnue, pour autant qu’elle soit reconnue par l’Etat étranger ou par un organisme international.
+<sup>4</sup> Une formation à l’étranger est reconnue, pour autant que:
 
-<sup>5</sup> Le canton peut reconnaître, pour ses ayants droit, d’autres formations donnant droit à une allocation.
+- a) la personne en formation requérant une aide à la formation (ci-après également le requérant) remplit les conditions d'inscription ou d'immatriculation pour une formation équivalente ou comparable en Suisse, et
+- b) la formation se termine par un titre reconnu en Suisse. Le requérant doit démontrer que le titre visé est reconnu en Suisse.
 
-<sup>6</sup> Le Département de l’éducation, de la culture et du sport (ci-après le Département) établit la liste des écoles, institutions et cours reconnus au sens du présent article.
+<sup>5</sup> Le Département en charge de la formation (ci-après: le Département) peut reconnaître, pour ses ayants droit, d’autres formations donnant droit à une aide à la formation.
+
+<sup>6</sup> …
 
 #### Art. 9
 
-**Conditions requises concernant la formation**
-
-Est réputé satisfaire au droit à une allocation quiconque fournit la preuve qu’il remplit les conditions d’admission et de promotion relatives à cette filière de formation.
+**…**
 
 #### Art. 10
 
 **Formations à structures particulières**
 
-<sup>1</sup> Si les filières d’études comportent des particularités quant à leur organisation dans le temps ou à leur contenu, il convient d’en tenir dûment compte lors de l’octroi des allocations.
+<sup>1</sup> Si les filières d’études comportent des particularités quant à leur organisation dans le temps ou à leur contenu, il convient d’en tenir dûment compte lors de l’octroi des aides à la formation.
 
-<sup>2</sup> Lorsque la formation ne peut être suivie qu’à temps partiel pour des raisons sociales, familiales ou de santé, la durée des études donnant droit à une allocation peut être prolongée.
+<sup>2</sup> Lorsque la formation ne peut être suivie qu’à temps partiel pour des raisons sociales, familiales ou de santé, la durée des études donnant droit à une aide à la formation peut être prolongée.
 
-### Section 3: Allocations de formation
+## 3 Aides à la formation
 
 #### Art. 11
 
-**Types d’allocations**
+**Types d'aides à la formation**
 
-Les allocations de formation se composent:
+<sup>1</sup> Sont des aides à la formation:
 
-- a) de bourses d’études, contributions financières uniques ou périodiques versées comme allocations et non remboursables, et
-
-- b) de prêts d’études uniques ou périodiques versés comme allocations et remboursables.
+- a) les bourses d'études, uniques ou périodiques, qui sont accordées à des personnes pour leur formation et qui sont non remboursables, sous réserve de l'article 20 alinéa 1 de la présente loi, et
+- b) les prêts d'études, uniques ou périodiques, qui sont accordés à des personnes pour leur formation, qui doivent être remboursés et qui portent intérêts.
 
 #### Art. 12
 
-**Répartition de l’allocation**
+**Répartition de l'aide à la formation**
 
-<sup>1</sup> Les allocations sont accordées sous forme:
+<sup>1</sup> Les aides à la formation sont accordées sous forme:
 
-- a) de bourses d’études aux élèves de l’enseignement secondaire I scolarisés dans une autre région linguistique ou dans une structure sport-arts-formation, aux apprentis, aux élèves des écoles secondaires du deuxième degré et écoles assimilées;
+- a) de bourses d'études:
+  - 1\. aux élèves de l'enseignement secondaire I scolarisés dans une autre région linguistique ou dans une structure sport-arts-formation,
+  - 2\. aux élèves/apprentis du secondaire II professionnel, sous réserve de la lettre c chiffre 4 du présent article,
+  - 3\. aux élèves des écoles secondaires II général,
+  - 4\. pour les deuxièmes formations initiales du secondaire II en cas de reconversion rendue nécessaire pour des raisons médicales, pour autant qu'elles ne soient pas financées par une assurance sociale ou autre;
+- b) de bourses et de prêts d'études aux étudiants suivant une formation initiale du degré tertiaire. Le master fait partie de la formation initiale. La bourse doit représenter les deux tiers au moins de l'aide à la formation;
+- c) de prêts d'études:
+  - 1\. pour le perfectionnement professionnel, déduction faite de la participation de tiers (notamment employeur, Confédération),
+  - 2\. pour les doctorats,
+  - 3\. pour les stages préparant à la profession d'avocat ou de notaire,
+  - 4\. pour les deuxièmes formations initiales du secondaire II,
+  - 5\. pour les deuxièmes formations tertiaires qui ne délivrent pas un titre de niveau plus élevé.
 
-- b) de bourses et de prêts d’études pour les formations initiales du degré tertiaire. Le master fait partie de la formation initiale. Les bourses d’études représentent, en moyenne annuelle, les deux tiers au moins des allocations de formation;
+<sup>2</sup> …
 
-<sup>c)</sup> de prêts d’études pour le temps de formation dépassant la durée de l’allocation prévue à l’article 13 alinéa 1, pour le perfectionnement professionnel en cours d’emploi, pour les deuxièmes formations universitaires.
-
-<sup>2</sup> L’ordonnance fixe les modalités d’attribution pour les élèves fréquentant des écoles privées.
+<sup>3</sup> Le montant total maximal des prêts d'études octroyés à une personne en formation ne doit pas dépasser 50'000 francs.
 
 #### Art. 13
 
-**Durée du droit à l’allocation**
+**Durée du droit à l'aide à la formation**
 
-<sup>1</sup> L’allocation est en principe accordée pour la durée de la formation et si nécessaire pendant deux semestres au-delà de la durée réglementaire.
+<sup>1</sup> L’aide à la formation est accordée conformément à l'article 12 pour la durée réglementaire de la formation, et si nécessaire pendant 2 semestres supplémentaires. Au-delà de cette durée de formation, seuls des prêts d'études peuvent être octroyés, jusqu'à concurrence du montant total maximal des prêts fixé à l'article 12 alinéa 3.
 
-<sup>2</sup> Lorsque l’orientation de la formation est modifiée, l’octroi d’allocations peut être refusé, limité, assorti de conditions particulières ou, lors de circonstances spéciales, prolongé de façon adéquate.
+<sup>1<sup>bis</sup></sup> Dans le cadre de formation à temps partiel, la durée de la formation prévue à l’alinéa 1 du présent article est prolongée prorata temporis.
 
-<sup>3</sup> Les allocations ne sont pas accordées pour une durée de formation inférieure à un semestre.
+<sup>1<sup>ter</sup></sup> L'interruption ou la prolongation de la formation pour cause de maladie ou d'accident ou en raison d'autres circonstances spéciales n'est pas comptée dans la durée réglementaire des études.
 
-<sup>4</sup> Pour les formations débutant après l’âge de 35 ans, l’allocation est accordée uniquement sous forme de prêt.
+<sup>2</sup> En cas de changement de filière de formation, la nouvelle formation donne aussi droit à l'octroi d'une aide à la formation. Les années de formation inachevées sont comptées dans la durée réglementaire des études sauf si un changement de formation est dicté par des raisons médicales.
+
+<sup>3</sup> Les aides à la formation ne sont pas accordées pour une durée de formation inférieure à un semestre d'études.
+
+<sup>4</sup> Pour les formations débutant après l’âge de 35 ans, l'aide à la formation est accordée uniquement sous forme de prêt d'études.
 
 #### Art. 14
 
-**Libre choix de la formation et de l’institution formatrice**
+**Libre choix de la formation et de l'institution formatrice**
 
 <sup>1</sup> Le libre choix de la formation et de l’institution formatrice est garanti sous réserve de l’article 8.
 
-<sup>2</sup> Si la formation est poursuivie hors du canton, les allocations peuvent être limitées au montant qui serait alloué pour l’accomplissement de cette voie d’études dans un établissement de formation du canton.
+<sup>2</sup> Si la formation est suivie hors du canton, les aides à la formation sont limitées au montant qui serait alloué pour l’accomplissement de cette voie d’études dans un établissement de formation du canton du Valais.
 
-<sup>3</sup> Lorsque la formation poursuivie à l’étranger est également dispensée en Suisse, les allocations ne peuvent être supérieures au montant qui serait alloué pour cette même formation en Suisse.
+<sup>3</sup> Lorsque la formation suivie à l’étranger est également dispensée en Suisse, les aides à la formation ne peuvent être supérieures au montant qui serait alloué pour cette même formation en Suisse. Le niveau de vie du lieu de formation doit être pris en considération pour déterminer le montant des aides à la formation.
 
-### Section 4: Calcul des allocations
+## 4 Calcul des aides à la formation
 
 #### Art. 15
 
 **Principe**
 
-Les allocations sont mises à la disposition d’une personne en formation en vue d’une participation à ses besoins financiers.
+<sup>1</sup> Si les ressources de la personne en formation, de ses parents, de son conjoint ou de son partenaire enregistré, d’autres personnes qui sont tenues légalement au financement de la formation ainsi que les prestations fournies par des tiers ne suffisent pas à couvrir les frais de formation et d’entretien du requérant, le canton participe, sur demande, aux besoins reconnus par le biais d'aides à la formation.
 
 #### Art. 16
 
 **Calcul des besoins financiers**
 
-<sup>1</sup> L’allocation vise à contribuer aux frais d’entretien et de formation nécessaires dans la mesure où ils dépassent la prestation propre raisonnablement exigible du requérant, la prestation de ses parents, celle d’autres personnes légalement tenues et/ou celle d’autres tiers. Dans le calcul du montant de l’allocation, les principes suivants sont applicables:
+<sup>1</sup> Les aides à la formation sont calculées sur la base du budget du requérant qui résulte de la différence entre:
 
-- a) les frais d’entretien et de formation peuvent être calculés sur la base de forfait avec la prise en compte, le cas échéant, du loyer et du transport;
+- a) les frais reconnus engendrés par la formation et l'entretien du requérant, et
+- b) les ressources qui peuvent être prises en compte selon l’article 15 alinéa 1.
+- c) …
+- d) …
 
-- b) le calcul de la prestation propre minimale tient compte du mode de formation ainsi que de la fortune disponible. Il peut prendre en compte un salaire d’apprenti;
+<sup>2</sup> Les ressources du requérant, le cas échéant de son conjoint ou partenaire enregistré, sont déterminées sur la base de leurs revenus ainsi que de la fortune déclarée.
 
-- c) la prestation des parents est calculée exclusivement sur le solde disponible du revenu après couverture financière des besoins de base de la famille et sur la fortune. Ces besoins ne peuvent pas être inférieurs aux normes admises par le canton;
+<sup>3</sup> Les ressources des parents ou d'autres personnes qui sont tenues légalement à l'entretien du requérant (budget de la famille) sont déterminées sur la base de la différence entre:
 
-- d) pour les familles où plusieurs enfants suivent des formations donnant droit à ces allocations, selon le nombre d’enfants, le revenu donnant droit à des allocations est adapté vers le haut à partir du deuxième enfant déjà.
+- a) les revenus et la fortune issus des données fiscales, et
+- b) les frais d'entretien reconnus pour couvrir leurs besoins.
 
-<sup>2</sup> Le montant de l’allocation résultant du calcul effectué conformément à l’alinéa 1 peut être diminué en fonction d’un revenu complémentaire de la personne en formation si la somme des allocations et des autres recettes dépasse les coûts de formation et d’entretien admis.
+<sup>3<sup>bis</sup></sup> Le Département détermine le coefficient qui peut être appliqué à la part contributive des parents résultant de leurs ressources. Ce coefficient est déterminé en fonction des enveloppes budgétaires disponibles.
+
+<sup>4</sup> Les frais d’entretien reconnus sont établis sur la base des normes admises par le canton en la matière.
+
+<sup>5</sup> Les frais de formation reconnus sont déterminés dans l’ordonnance en fonction du degré de la formation.
+
+<sup>6</sup> Les frais mentionnés aux alinéas 4 et 5 peuvent faire l'objet de forfaits et être plafonnés.
 
 #### Art. 17
 
-**Montants annuels d’une allocation complète**
+**Forfaits annuels et montants annuels d'une aide à la formation complète**
 
-Les montants annuels d’une allocation complète sont fixés par l’ordonnance.
+<sup>1</sup> Les forfaits annuels et montants annuels d’une aide à la formation complète sont fixés par l’ordonnance, sous réserve des montants minimaux fixés par l'accord intercantonal sur l'harmonisation des régimes de bourses d'études.
 
 #### Art. 18
 
 **Calcul partiellement indépendant des prestations parentales**
 
-<sup>1</sup> Les prestations raisonnablement exigibles des parents ne sont plus que partiellement prises en compte lorsque la personne en formation a atteint l’âge de 25 ans, qu’elle a déjà terminé une première formation donnant accès à un métier et qu’elle était financièrement indépendante pendant deux ans avant de commencer sa nouvelle formation.
+<sup>1</sup> Les prestations raisonnablement exigibles des parents ne sont plus que partiellement prises en compte lorsque la personne en formation remplit, au moment du début de l’année de formation, les trois conditions cumulatives suivantes:
 
-<sup>2</sup> Quatre années d’exercice d’une activité professionnelle assurant l’indépendance financière de la personne sollicitant une allocation sont équivalentes à une première formation donnant accès à un métier. Les autres conditions de l’alinéa 1 sont applicables.
+- a) avoir atteint l’âge de 25 ans, et
+- b) avoir déjà terminé une première formation donnant accès à un métier, et
+- c) avoir été financièrement indépendante pendant 2 ans sans se trouver dans une formation débouchant sur un diplôme reconnu avant de commencer sa nouvelle formation.
+
+<sup>2</sup> 4 années d’exercice d’une activité professionnelle assurant l’indépendance financière de la personne sollicitant une aide à la formation sont équivalentes à une première formation donnant accès à un métier.
 
 <sup>3</sup> Sont aussi équivalents à une activité professionnelle au sens des alinéas précédents la tenue de son ménage avec des mineurs ou des personnes nécessitant des soins, le service militaire, le service civil et le chômage.
 
-<sup>4</sup> Le Conseil d'Etat fixe par ordonnance les modalités d'application de l'alinéa 1 et en particulier la limite de revenu à partir de laquelle aucune allocation n’est allouée même aux personnes qui satisfont aux exigences dudit alinéa.
+<sup>4</sup> Le Conseil d'Etat fixe par ordonnance les modalités d'application de l'alinéa 1, notamment la répartition de l’aide à la formation sous forme de bourses et/ou de prêts d’études, le pourcentage de la contribution des parents pris en compte et l'éventuelle limite de revenu déterminant à partir de laquelle seulement des prêts d'études sont accordés.
 
 #### Art. 19
 
 **Obligations de la personne en formation**
 
-La personne en formation est tenue:
+<sup>1</sup> La personne en formation est tenue:
 
-- a) de fournir les indications et les documents nécessaires à l’examen de sa demande;
+- a) de fournir, en tout temps, les indications et les documents nécessaires à l'examen de sa demande. Ces indications et documents doivent être complets et conformes à la vérité;
+- b) d'utiliser l'aide à la formation perçue dans le seul but de la formation envisagée et de signaler tout changement dans sa situation personnelle ou financière.
 
-- b) d’utiliser l’allocation perçue dans le seul but de la formation envisagée et de signaler tout changement dans sa situation personnelle ou financière.
+<sup>2</sup> Les dispositions pénales prévues à l’article 30 de la loi sur les subventions s’appliquent.
 
 #### Art. 20
 
-**Restitution**
+**Restitution et exclusion du droit à d’autres aides à la formation**
 
-La restitution totale ou partielle des allocations est exigée:
+<sup>1</sup> La restitution totale ou partielle des aides à la formation est exigée:
 
-- a) si elles ont été obtenues à tort, sur la base d’indications inexactes, incomplètes ou qui se sont modifiées;
+- a) si elles ont été obtenues à tort, sur la base d'indications inexactes, incomplètes ou qui se sont modifiées, ou
+- b) si elles n'ont pas été utilisées en vue de la formation pour laquelle elles avaient été accordées, ou
+- c) si la personne en formation interrompt sa formation avant la fin de la période pour laquelle une aide à la formation a déjà été versée.
 
-- b) si elles n’ont pas été utilisées en vue de la formation pour laquelle elles avaient été accordées;
-
-- c) si la personne en formation interrompt sa formation avant la fin de la période pour laquelle une allocation a déjà été versée.
+<sup>2</sup> Si le requérant se soustrait aux obligations fixées à l'article 19, il peut être exclu du droit à d’autres aides à la formation.
 
 #### Art. 21
 
-**Remboursement des prêts et paiement des intérêts**
+**Remboursement des prêts d'études**
 
-<sup>1</sup> Les prêts sont remboursables dans un délai maximum de dix ans dès le début de la troisième année civile suivant la fin des études.
+<sup>1</sup> L'obligation de rembourser les prêts d'études débute dès le 1<sup>er</sup> janvier de la troisième année civile suivant la fin des études.
 
-<sup>2</sup> Ils portent un intérêt dès le début de l’obligation de rembourser. L’intérêt est calculé à la fin de chaque année et communiqué à l’intéressé. Les intérêts courus sont exigibles à chaque échéance de cinq ans à compter du début de l’obligation de rembourser mais au plus tard à l’échéance du contrat de prêt.
+<sup>2</sup> Les prêts d'études sont remboursables dans un délai maximum de 10 ans dès l'obligation de rembourser.
 
-<sup>3</sup> Le Conseil d’Etat précise dans une ordonnance le mode de remboursement, il y fixe le montant minimal remboursable annuellement ainsi que le taux d’intérêt des prêts. Celui-ci ne doit pas être supérieur aux taux pratiqués par les banques pour les crédits de formation.
+<sup>3</sup> Le Conseil d’Etat précise dans une ordonnance le mode de remboursement et le montant minimal remboursable annuellement.
+
+#### Art. 21a
+
+**Intérêts sur les prêts d'études**
+
+<sup>1</sup> Les prêts d'études sont octroyés sans intérêts pendant toute la durée de la formation et jusqu'au 1<sup>er</sup> janvier de la troisième année civile suivant la fin des études.
+
+<sup>2</sup> Les prêts d'études portent un intérêt dès le 1<sup>er</sup> janvier de la troisième année civile suivant la fin des études.
+
+<sup>3</sup> Les intérêts annuels courus sont facturés à la fin de chaque année civile. Le Conseil d’Etat fixe par voie d'ordonnance le taux d’intérêt des prêts d'études.
+
+#### Art. 21b
+
+**Fin des études**
+
+<sup>1</sup> La fin des études correspond à la fin de la formation pour laquelle les aides à la formation ont été octroyées; la formation doit être considérée par domaine d'études.
+
+<sup>2</sup> En cas d'interruption de la formation durant plus d'une année ou la non obtention du titre, la formation est considérée comme terminée, sauf si des circonstances exceptionnelles dûment motivées justifient l'interruption.
 
 #### Art. 22
 
-**Facilités de remboursement et remise des prêts**
+**Facilités de remboursement et remise des prêts d'études**
 
-<sup>1</sup> Le Département peut accorder des facilités de remboursement pour les prêts et/ou pour le paiement des intérêts si des circonstances le justifient.
+<sup>1</sup> Le service en charge des bourses et des prêts d'études (ci-après: le service) peut accorder des facilités de remboursement des prêts d'études et/ou pour le paiement des intérêts si des circonstances le justifient.
 
-<sup>2</sup> Le Département peut remettre aux bénéficiaires tout ou partie des prêts et des intérêts.
+<sup>2</sup> Le Département peut remettre aux bénéficiaires tout ou partie des prêts d'études et des intérêts si des circonstances le justifient. L'ordonnance précise les modalités.
 
 #### Art. 23
 
 **Cas particuliers**
 
-Des prêts peuvent être accordés lorsqu’il est prouvé, le cas échéant par une décision de justice, qu’un requérant ne reçoit aucune aide de ses parents ou n’en bénéficie que de façon insuffisante, alors que ceux-ci auraient les moyens de financer sa formation et si la formation professionnelle et les études apparaissent compromises sans cette contribution. De tels prêts peuvent également être accordés si d’autres circonstances particulières le justifient.
+<sup>1</sup> Des prêts d'études peuvent être accordés lorsqu’il est prouvé, le cas échéant par une décision de justice, qu’un requérant ne reçoit aucune aide de ses parents ou n’en bénéficie que de façon insuffisante, alors que ceux-ci auraient les moyens de financer sa formation et si la formation professionnelle et les études apparaissent compromises sans cette contribution. Des prêts d'études peuvent également être accordés si d’autres circonstances particulières le justifient.
 
-### Section 5: Organisation
+## 5 Organisation
 
 #### Art. 24
 
-**Commission des bourses et des prêts**
+**Commission des bourses et des prêts d'études**
 
-<sup>1</sup> La commission des bourses et des prêts est composée de neuf à onze membres nommés par le Conseil d’Etat. Il est tenu compte, dans la composition d’une juste représentation des sexes, des régions et des divers milieux intéressés.
+<sup>1</sup> La commission des bourses et des prêts d'études (ci-après: la commission) est composée de 9 membres nommés par le Conseil d’Etat. Il est tenu compte dans la composition d’une représentation des genres, des régions et des divers milieux intéressés. Le chef de service et le chef de la section sont membres de la commission avec voix consultative.
 
 <sup>2</sup> Elle a notamment les attributions suivantes:
 
-- a) statuer sur les requêtes présentées;
-
-- b) évaluer périodiquement la pertinence des outils à sa disposition et des diverses mesures d’encouragement aux études et à la formation professionnelle et formuler, cas échéant, les propositions d’optimisation.
+- a) préaviser les réclamations;
+- b) …
+- c) donner son avis sur les projets de loi et d'ordonnance relatifs aux bourses et prêts d'études, sur toute question de portée générale en la matière ou cas particulier dont le Département ou le service la saisit;
+- d) formuler des propositions sur les mesures à prendre dans le domaine des bourses et prêts d'études;
+- e) préaviser les reconnaissances de formation non prévues par la présente loi.
 
 <sup>3</sup> Les membres de la commission sont tenus par le secret de fonction.
 
@@ -316,9 +384,9 @@ Des prêts peuvent être accordés lorsqu’il est prouvé, le cas échéant par
 
 **Information**
 
-<sup>1</sup> Le Département par son service compétent est l’organe officiel d’information, de coordination et d’administration en matière d’allocations.
+<sup>1</sup> Le Département, par son service compétent, est l’organe officiel d’information, de coordination et d’administration en matière d'aides à la formation.
 
-<sup>2</sup> Il veille particulièrement à ce que les intéressés soient informés sur les possibilités d’obtention des allocations, les conditions à remplir et les délais à respecter.
+<sup>2</sup> Il veille particulièrement à ce que les intéressés soient informés sur les possibilités d’obtention des aides à la formation, les conditions à remplir et les délais à respecter.
 
 <sup>3</sup> Les offices d’orientation scolaire et professionnelle, ainsi que les directions d’écoles et les autorités scolaires communales collaborent à cette tâche.
 
@@ -326,47 +394,45 @@ Des prêts peuvent être accordés lorsqu’il est prouvé, le cas échéant par
 
 **Présentation des demandes**
 
-<sup>1</sup> Les demandes d’allocations doivent être adressées au service compétent du Département avant le début de la formation. Le Conseil d’Etat fixe par ordonnance les délais pour la présentation des requêtes.
+<sup>1</sup> Les demandes d'aides à la formation doivent être adressées au service compétent du Département. Le Conseil d’Etat fixe par ordonnance les délais et les formes pour la présentation des requêtes.
 
-<sup>2</sup> Selon les cas, les pièces suivantes sont jointes au dossier:
+<sup>2</sup> …
 
-- a) une déclaration officielle attestant l’inscription à l’école ou à l’établissement à fréquenter;
-
-- b) le contrat d’apprentissage;
-
-- c) un plan financier.
-
-<sup>3</sup> L’organe compétent peut exiger d’autres pièces justificatives et requérir, si nécessaire, l’avis d’un expert en matière d’orientation professionnelle.
+<sup>3</sup> Le service peut exiger toutes pièces justificatives et requérir, si nécessaire, l’avis d’un expert.
 
 <sup>4</sup> Les requêtes doivent être renouvelées annuellement.
 
 #### Art. 27
 
-**Financement des allocations**
+**Financement des aides à la formation**
 
 <sup>1</sup> Le financement des bourses d’études est assuré par:
 
-- a) les montants prévus chaque année au budget de l’Etat;
-
+- a) les montants prévus chaque année au budget de l'Etat;
 - b) les subventions fédérales;
+- c) les remboursements volontaires des bourses, les legs et les dons.
 
-- c) les remboursements volontaires, les legs et les dons.
+<sup>2</sup> Le financement des prêts d'études est assuré par:
 
-<sup>2</sup> Le financement des prêts est assuré par:
-
-- a) les montants prévus chaque année au budget de l’Etat;
-
+- a) les montants prévus chaque année au budget de l'Etat;
 - b) les subventions fédérales;
-
 - c) les remboursements.
+
+#### Art. 27a
+
+**Autorité compétente**
+
+<sup>1</sup> Le service est l'autorité compétente pour allouer les aides à la formation.
 
 #### Art. 28
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions relatives à l’octroi ou au refus d’une allocation peuvent faire l’objet d’une réclamation écrite et motivée auprès de la commission.
+<sup>1</sup> Les décisions relatives à l’octroi ou au refus d’une aide à la formation peuvent faire l’objet dans les 30 jours d’une réclamation écrite et motivée auprès du service.
 
-<sup>2</sup> Les décisions sur réclamation de la commission sont susceptibles de recours, dans les trente jours, auprès du Conseil d’Etat.
+<sup>1<sup>bis</sup></sup> La procédure de réclamation est régie par la loi sur la procédure et la juridiction administratives.
+
+<sup>2</sup> Les décisions sur réclamation du service sont susceptibles de recours, dans les 30 jours, auprès du Conseil d’Etat.
 
 <sup>3</sup> La procédure de recours est régie par la loi sur la procédure et la juridiction administratives.
 
@@ -374,9 +440,9 @@ Des prêts peuvent être accordés lorsqu’il est prouvé, le cas échéant par
 
 **Ordonnance**
 
-Une ordonnance du Conseil d’Etat fixe les modalités d’application de la présente loi, notamment les modalités d’attribution, les modalités de remboursement des prêts d’études et les délais pour le dépôt des demandes et la notification des décisions.
+<sup>1</sup> Une ordonnance du Conseil d’Etat fixe les modalités d’application de la présente loi, notamment les modalités d’attribution, les modalités de remboursement des prêts d’études et les délais pour le dépôt des demandes et la notification des décisions.
 
-### Section 6: Dispositions finales
+## 6 Dispositions finales
 
 #### Art. 30
 
@@ -384,7 +450,7 @@ Une ordonnance du Conseil d’Etat fixe les modalités d’application de la pr�
 
 <sup>1</sup> Les formations reconnues sous l’ancien droit le restent jusqu’à la fin réglementaire de la formation.
 
-<sup>2</sup> Le remboursement des prêts accordés avant l’entrée en vigueur de la loi est soumis à l’ancien droit.
+<sup>2</sup> Le remboursement des prêts d'études accordés avant l’entrée en vigueur de la loi est soumis à l’ancien droit.
 
 <sup>3</sup> Les procédures pendantes lors de l’entrée en vigueur de la loi sont poursuivies conformément à l’ancien droit.
 
@@ -392,13 +458,11 @@ Une ordonnance du Conseil d’Etat fixe les modalités d’application de la pr�
 
 **Abrogation**
 
-Sont abrogés:
+<sup>1</sup> Sont abrogés:
 
-- a) les articles 62 à 65 de la loi du 4 juillet 1962 sur l’instruction publique;
-
-- b) la loi concernant l’octroi de bourses et de prêts d’honneur du 14 mai 1986;
-
-- c) le règlement pour le calcul des bourses et des prêts d’honneur du 16 juin 2000.
+- a) les articles 62 à 65 de la loi sur l'instruction publique du 4 juillet 1962;
+- b) la loi concernant l'octroi de bourses et de prêts d'honneur du 14 mai 1986;
+- c) le règlement pour le calcul des bourses et des prêts d'honneur du 16 juin 2000.
 
 #### Art. 32
 
@@ -408,12 +472,12 @@ Sont abrogés:
 
 <sup>2</sup> Le Conseil d’Etat fixe la date d’entrée en vigueur de la présente loi.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 18 novembre 2010.
+## T1 Dispositions transitoires de la modification du 13 novembre 2020
 
-Le président du Grand Conseil: Jean-François Copt Le chef du Service parlementaire: Claude Bumann
+#### Art. T1-1
 
-**Entrée en**
+<sup>1</sup> Le remboursement des prêts d'études accordés avant l’entrée en vigueur de la modification du 13 novembre 2020 de la loi est soumis à l’ancien droit.
 
-### Intitulé et modifications Publication
+<sup>2</sup> Les procédures pendantes lors de l’entrée en vigueur de la modification du 13 novembre 2020 de la loi sont poursuivies conformément à l’ancien droit.
 
-vigueur Loi sur les allocations de formation (LAF) BO No 27/2011 08.06.2011 du 18 novembre 2010
+RCV BO/Abl. 27/2011
