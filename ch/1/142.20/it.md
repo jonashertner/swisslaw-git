@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2020-04-01
+version: 2021-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20200401/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20200401/it"
 
 (LStrI)**[^t-1]**
 
-del 16 dicembre 2005 (Stato 1° aprile 2020) (Stato 1° aprile 2020)
+del 16 dicembre 2005 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1375,6 +1375,22 @@ La SEM può vietare l’entrata in Svizzera allo straniero che:
 <sup>4</sup> Se l’interessato ha violato in modo rilevante o ripetutamente od espone a pericolo l’ordine e la sicurezza pubblici oppure costituisce una minaccia per la sicurezza interna o esterna della Svizzera, l’allontanamento è immediatamente esecutivo.
 
 [^68-1]: Nuovo testo giusta il n. I 2 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
+
+#### Art. 68a
+
+**Segnalazione nel sistema d’informazione Schengen**[^68a-1]
+
+<sup>1</sup> e <sup>2</sup> ...
+
+<sup>3</sup> La SEM può trasmettere al SIS i dati biometrici già disponibili nel sistema automatico d’identificazione delle impronte digitali (AFIS) di cui all’articolo 354 CP o nel SIMIC. La trasmissione può avvenire in modo automatizzato.
+
+<sup>4</sup> ...
+
+<sup>5</sup> In caso di segnalazioni da parte di fedpol, quest’ultimo può trasmettere al SIS i dati biometrici già disponibili in AFIS. La trasmissione può avvenire in modo automatizzato. Se non sono disponibili dati biometrici, fedpol può ordinare alle autorità che constatano un riscontro su queste segnalazioni di rilevarli ulteriormente.
+
+<sup>6</sup> ...
+
+[^68a-1]: Introdotto dall’all. 1 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)). Cpv. 1, 2, 4 e 6 entrano in vigore posteriormente ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365)).
 
 ### Sezione 4: Rinvio coatto e operazioni internazionali di rimpatrio****
 

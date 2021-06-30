@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2020-04-01
+version: 2021-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20200401/de"
 
 (Ausländer- und Integrationsgesetz, AIG)**[^t-1]**
 
-vom 16. Dezember 2005 (Stand am 1. April 2020)
+vom 16. Dezember 2005 (Stand am 1. Juli 2021)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1373,6 +1373,22 @@ Es[^67-2] kann Einreiseverbote gegenüber Ausländerinnen und Ausländern verfü
 
 [^68-1]: Fassung gemäss Ziff. I 2 der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 
+#### Art. 68a
+
+**Ausschreibung im Schengener Informationssystem**[^68a-1]
+
+<sup>1</sup> und <sup>2</sup> …
+
+<sup>3</sup> Das SEM kann biometrische Daten, die schon im automatisierten Fingerabdruck-Identifikationssystem nach Artikel 354 StGB (AFIS) oder im ZEMIS verfügbar sind, an das SIS liefern. Die Lieferung kann automatisiert erfolgen.
+
+<sup>4</sup> …
+
+<sup>5</sup> Fedpol kann bei seinen Ausschreibungen die schon im AFIS verfügbaren biometrischen Daten an das SIS liefern. Die Lieferung kann automatisiert erfolgen. Sind keine biometrischen Daten vorhanden, so kann fedpol deren nachträgliche Erhebung bei den Behörden, die einen Treffer auf diese Ausschreibungen feststellen, anordnen.
+
+<sup>6</sup> …
+
+[^68a-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), Abs. 3 und 5 in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
 ### 4. Abschnitt: Ausschaffung und internationale Rückführungseinsätze****
 
 [^chap10-sec4-1]
@@ -2284,7 +2300,7 @@ Der Bundesrat kann mit ausländischen Staaten oder internationalen Organisatione
 <sup>5</sup> Der Bundesrat kann der Kommission weitere Aufgaben zuweisen.
 
 [^100b-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^100b-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
+[^100b-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
 ## 14. Kapitel: Datenbearbeitung und Datenschutz****
 

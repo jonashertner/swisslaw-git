@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2020-04-01
+version: 2021-07-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20200401/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20200401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20200401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20210701-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)**[^t-1]**
 
-of 16 December 2005 (Status as of 1 April 2020)
+of 16 December 2005 (Status as of 1 July 2021)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -181,7 +181,7 @@ Foreign nationals who wish to enter Switzerland:
 
 **Registration requirement**
 
-<sup>1</sup> Foreign nationals who require a short stay, residence or permanent residence permit, must register with the competent authority at their place of residence in Switzerland before the expiry of the period of stay not requiring a permit or before they take up employment.
+<sup>1</sup> Foreign nationals who require a short stay, residence or settlement permit, must register with the competent authority at their place of residence in Switzerland before the expiry of the period of stay not requiring a permit or before they take up employment.
 
 <sup>2</sup> Foreign nationals must register with the competent authority at the new place of residence if they move to another commune or to another canton.
 
@@ -272,7 +272,7 @@ Foreign nationals may be admitted to work on a self-employed basis if:
 Domestic employees include:
 
 - a. Swiss nationals;
-- b. persons with a permanent residence permit;
+- b. persons with a settlement permit;
 - c. persons with a residence permit authorising them to work;
 - d.[^21-1] temporarily admitted persons;
 - e.[^21-2] persons who have been granted temporary protection and have a permit entitling them to take up employment.
@@ -446,7 +446,7 @@ Derogations from the admission requirements (Art. 18–29) are permitted in orde
 - h. simplify the transfer of senior management staff and essential specialists within internationally active companies;
 - i.[^30-3] ...
 - j. permit au-pair workers recruited through a recognised organisation, to stay in Switzerland period of stay for education and training;
-- k. facilitate the re-admission of foreign nationals who held a residence or permanent residence permit;
+- k. facilitate the re-admission of foreign nationals who held a residence or settlement permit;
 - l. regulate the employment and the participation in employment programmes of asylum seekers (Art. 43 of the Asylum Act of 26 June 1998[^30-4], AsylA), temporarily admitted persons (Art. 85) and persons in need of protection (Art. 75 AsylA).
 
 <sup>2</sup> The Federal Council shall establish the general conditions and regulate the procedure.
@@ -505,25 +505,25 @@ Derogations from the admission requirements (Art. 18–29) are permitted in orde
 
 #### Art. 34
 
-**Permanent residence permit**
+**Settlement permit**
 
-<sup>1</sup> The permanent residence permit is granted for an unlimited duration and without conditions.
+<sup>1</sup> The settlement permit is granted for an unlimited duration and without conditions.
 
 <sup>2</sup>
 
-Foreign nationals may be granted a permanent residence permit if:
+Foreign nationals may be granted a settlement permit if:
 
-- a. they have resided in Switzerland for a minimum of ten years in total on the basis with a short stay or residence permit and have held a residence permit without interruption for the last five years;
+- a. they have resided in Switzerland for a minimum of ten years in total on the basis of a short stay or residence permit and have held a residence permit without interruption for the last five years;
 - b.[^34-1] there are no grounds for revocation in terms of Article 62 or 63 paragraph 2; and
 - c.[^34-2] they are integrated.
 
-<sup>3</sup> The permanent residence permit may be granted after a shorter qualifying period if there is good cause.
+<sup>3</sup> The settlement permit may be granted after a shorter qualifying period if there is good cause.
 
-<sup>4</sup> Foreign nationals may be granted a permanent residence permit if they have resided in Switzerland for the past five years without interruption while holding a residence permit, if they meet the requirements of paragraph 2 letters b and c, and if they are able to communicate well in the national language spoken at their place of residence.[^34-3]
+<sup>4</sup> Foreign nationals may be granted a settlement permit if they have resided in Switzerland for the past five years without interruption while holding a residence permit, if they meet the requirements of paragraph 2 letters b and c, and if they are able to communicate well in the national language spoken at their place of residence.[^34-3]
 
-<sup>5</sup> Temporary periods of stay, in particular for education or training (Art. 27), do not count towards the uninterrupted period of stay in the last five years in accordance with paragraphs 2 letter a and 4. Periods of stay for education or training (Art. 27) are included if the person concerned, after their completion, held a permanent residence permit for an uninterrupted period of two years.[^34-4]
+<sup>5</sup> Temporary periods of stay, in particular for education or training (Art. 27), do not count towards the uninterrupted period of stay in the last five years in accordance with paragraphs 2 letter a and 4. Periods of stay for education or training (Art. 27) are included if the person concerned, after their completion, held a settlement permit for an uninterrupted period of two years.[^34-4]
 
-<sup>6</sup> If the permanent residence permit has been revoked in terms of Article 63 paragraph 2 and replaced by a residence permit, the permanent residence permit may be granted again at the earliest five years after integration has been successful.[^34-5]
+<sup>6</sup> If the settlement permit has been revoked in accordance with Article 63 paragraph 2 and replaced by a residence permit, the settlement permit may be granted again at the earliest five years after integration has been successful.[^34-5]
 
 [^34-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^34-2]: Inserted by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -547,7 +547,7 @@ Foreign nationals may be granted a permanent residence permit if:
 
 **Place of residence**
 
-Persons with a short stay permit, a residence or a permanent residence permit are free to choose their place of residence within the canton that granted the permit.
+Persons with a short stay, residence or settlement permit are free to choose their place of residence within the canton that granted the permit.
 
 #### Art. 37
 
@@ -557,7 +557,7 @@ Persons with a short stay permit, a residence or a permanent residence permit ar
 
 <sup>2</sup> Persons with a residence permit are entitled to move to another canton provided they are not unemployed and there are no grounds for revocation in terms of Article 62 paragraph 1.
 
-<sup>3</sup> Persons with a permanent residence permit are entitled to move to another canton, provided there are no grounds for revocation in terms of Article 63.
+<sup>3</sup> Persons with a settlement permit are entitled to move to another canton, provided there are no grounds for revocation in terms of Article 63.
 
 <sup>4</sup> No permit is required for a temporary stay in another canton.
 
@@ -571,7 +571,7 @@ Persons with a short stay permit, a residence or a permanent residence permit ar
 
 <sup>3</sup> Persons with a residence permit may be authorised to become self-employed if the requirements of Article 19 letters a and b are fulfilled.
 
-<sup>4</sup> Persons with a permanent residence permit may be self-employed or engage in salaried employment anywhere in Switzerland.
+<sup>4</sup> Persons with a settlement permit may be self-employed or engage in salaried employment anywhere in Switzerland.
 
 #### Art. 39
 
@@ -579,7 +579,7 @@ Persons with a short stay permit, a residence or a permanent residence permit ar
 
 <sup>1</sup> Persons with a cross-border commuter permit may work temporarily outside the border zone. If they want to move the focus of their employment to the border zone of another canton, they must apply for a permit from the new canton beforehand. After working for an uninterrupted period of five years, cross border commuters are entitled to change cantons.
 
-<sup>2</sup> Persons with a cross-border commuter permit may be authorised to change jobs if the requirements in terms of Articles 21 and 22 are fulfilled. After working for an uninterrupted period of five years, cross border commuters are entitled to change cantons.
+<sup>2</sup> Persons with a cross-border commuter permit may be authorised to change jobs if the requirements in terms of Articles 21 and 22 are fulfilled. After working for an uninterrupted period of five years, cross border commuters are entitled to change jobs.
 
 <sup>3</sup> Persons with a cross-border commuter permit may be authorised to become self-employed, if the requirements in terms of Article 19 letters a and b are fulfilled.
 
@@ -601,7 +601,7 @@ Persons with a short stay permit, a residence or a permanent residence permit ar
 
 <sup>2</sup> Temporarily admitted persons (Art. 83) an identity card that indicates their legal status.
 
-<sup>3</sup> Identity cards for persons with a permanent residence permit are issued for five years for control purposes.
+<sup>3</sup> Identity cards for persons with a settlement permit are issued for five years for control purposes.
 
 <sup>4</sup> The identity card may carry a data chip. This contains the portrait photograph and fingerprints of the holder and the data contained in the machine-readable zone.[^41-1]
 
@@ -657,24 +657,24 @@ The office entrusted with issuing biometric identity cards and the general contr
 
 <sup>2</sup>
 
-Foreign family members of Swiss nationals are entitled are entitled to be granted a residence permit and to have their residence permit extended if they are in the possession of a permanent residence permit from a country with which an agreement on the free movement of persons has been concluded. Family members are:
+Foreign family members of Swiss nationals are entitled are entitled to be granted a residence permit and to have their residence permit extended if they are in the possession of a settlement permit from a country with which an agreement on the free movement of persons has been concluded. Family members are:
 
 - a. the spouse and the relatives in the descending line who are under 21 or who are dependants;
 - b. the relatives of either spouse in the ascending line who are dependants.
 
-<sup>3</sup> After a law-abiding and uninterrupted period of stay of five years, a foreign spouse is entitled to be granted a permanent residence permit if the integration criteria set out in Article 58*a* are met.[^42-1]
+<sup>3</sup> After a law-abiding and uninterrupted period of stay of five years, a foreign spouse is entitled to be granted a settlement permit if the integration criteria set out in Article 58*a* are met.[^42-1]
 
-<sup>4</sup> Children under twelve are entitled to be granted a permanent residence permit.
+<sup>4</sup> Children under twelve are entitled to be granted a settlement permit.
 
 [^42-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 43
 
-**Spouses and children of persons with a permanent residence permit**[^43-1]
+**Spouses and children of persons with a settlement permit**[^43-1]
 
 <sup>1</sup>
 
-The foreign spouse and unmarried children under 18 of a person with a permanent residence permit are entitled to be granted a residence permit and to have their residence permit extended provided:
+The foreign spouse and unmarried children under 18 of a person with a settlement permit are entitled to be granted a residence permit and to have their residence permit extended provided:
 
 - a. they live with that person;
 - b. suitable accommodation is available;
@@ -688,9 +688,9 @@ The foreign spouse and unmarried children under 18 of a person with a permanent 
 
 <sup>4</sup> The granting and extension of the residence permit may be linked to the conclusion of an integration agreement if there is a special need for integration in accordance with the criteria set out in Article 58*a*.
 
-<sup>5</sup> After a law-abiding and uninterrupted period of stay of five years, the spouses are entitled to be granted a permanent residence permit if the integration criteria set out in Article 58*a* are met.
+<sup>5</sup> After a law-abiding and uninterrupted period of stay of five years, spouses are entitled to be granted a settlement permit if the integration criteria set out in Article 58*a* are met.
 
-<sup>6</sup> Children under twelve are entitled to be granted a permanent residence permit.
+<sup>6</sup> Children under twelve are entitled to be granted a settlement permit.
 
 [^43-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^43-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
@@ -743,7 +743,7 @@ If, on assessing the reunification of spouses in accordance with Articles 42–4
 
 **Employment of spouses and children**
 
-The spouse and children of a Swiss national or of a person with a permanent residence permit or a residence permit (Art. 42–44) may work on a salaried or self-employed basis anywhere in Switzerland.
+The spouse and children of a Swiss national or of a person with a settlement permit or a residence permit (Art. 42–44) may work on a salaried or self-employed basis anywhere in Switzerland.
 
 #### Art. 47
 
@@ -758,7 +758,7 @@ The spouse and children of a Swiss national or of a person with a permanent resi
 The time limits for family members of:
 
 - a. Swiss nationals in accordance with Article 42 paragraph 1 begin on their entry or with the constitution of the family relationship;
-- b. foreign nationals begin with the granting of a residence or permanent residence permit or with the constitution of the family relationship.
+- b. foreign nationals begin with the granting of a residence or settlement permit or with the constitution of the family relationship.
 
 <sup>4</sup> A subsequent family reunification shall be authorised only if there are important family reasons therefor. If necessary, children over 14 shall be consulted on family reunification.
 
@@ -774,7 +774,7 @@ Foster children are entitled to receive a residence permit and to have their res
 - b. the requirements under civil law for the adoption of foster children are fulfilled; and
 - c. their entry for the purpose the adoption was lawful.
 
-<sup>2</sup> If the adoption falls through, the foster children are entitled to an extension of their residence permit and, five years after entry, they are entitled to be granted a permanent residence permit.
+<sup>2</sup> If the adoption falls through, the foster children are entitled to an extension of their residence permit and, five years after entry, they are entitled to be granted a settlement permit.
 
 #### Art. 49
 
@@ -805,7 +805,7 @@ After the dissolution of the marriage or of the family household, the right of a
 
 <sup>2</sup> There are important personal reasons in terms of paragraph 1 letter b in particular if a spouse has been the victim of marital violence or did not marry of his or her own free will and social reintegration in the country of origin appears to be seriously prejudiced.[^50-2]
 
-<sup>3</sup> The time limit for being granted a permanent residence permit is governed by Article 34.
+<sup>3</sup> The time limit for being granted a settlement permit is governed by Article 34.
 
 [^50-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^50-2]: Amended by No I 1 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
@@ -1003,7 +1003,7 @@ Foreign nationals are entitled to travel documents if:
 
 - a. they meet refugee status in accordance with the Agreement of 28 July 1951[^59-3] on the Legal Status of Refugees;
 - b. they are recognised as stateless persons by Switzerland in accordance with the Treaty of 28 September 1954[^59-4] on the Legal Status of Stateless Persons;
-- c. they do not have identification documents but hold a permanent residence permit.
+- c. they do not have identification documents but hold a settlement permit.
 
 <sup>3</sup> Any person who has seriously or repeatedly violated or represents a threat to public security and order in Switzerland or abroad, or who represents a threat to Switzerland’s internal or external security, or who is subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^59-5] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^59-6] does not have a right to travel documents.[^59-7]
 
@@ -1108,7 +1108,7 @@ A permit expires:
 - e.[^61-1] on the holder becoming subject to a legally enforceable order for expulsion from Switzerland under Article 66*a* SCC[^61-2] or Article 49*a* MCC[^61-3];
 - f.[^61-4] on the enforcement of an order for expulsion from Switzerland under Article 66*a*<sup>bis</sup> SCC or 49*a*<sup>bis</sup> MCC.
 
-<sup>2</sup> If a foreign national leaves Switzerland without giving notice of departure, a short stay permit expires after three months, and a residence or permanent residence permit after six months. On request, a permanent residence permit may remain valid for a further four years.
+<sup>2</sup> If a foreign national leaves Switzerland without giving notice of departure, a short stay permit expires after three months, and a residence or settlement permit after six months. On request, a settlement permit may remain valid for a further four years.
 
 [^61-1]: Inserted by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Amended by No IV 3 of the FA of 19 June 2015 (Amendment to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^61-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -1139,7 +1139,7 @@ A permit expires:
 
 <sup>1</sup>
 
-The competent authority may revoke permits, with the exception of the permanent residence permit, and other rulings under this Act if the foreign national:
+The competent authority may revoke permits, with the exception of a settlement permit, and other rulings under this Act if the foreign national:
 
 - a. or their representative in the permit procedure makes false statements or conceals material facts;
 - b. has been given a long custodial sentence or has been made subject to a criminal measure in terms of Articles 59<sup>–</sup>61 or 64 of the SCC[^62-2];
@@ -1159,11 +1159,11 @@ The competent authority may revoke permits, with the exception of the permanent 
 
 #### Art. 63
 
-**Revocation of the permanent residence permit**
+**Revocation of a settlement permit**
 
 <sup>1</sup>
 
-The permanent residence permit may be revoked only if:
+A settlement permit may be revoked only if:
 
 - a.[^63-1] the requirements of Article 62 paragraph 1 letter a or b are fulfilled;
 - b. the foreign national has seriously violated or represents a threat to public security and order in Switzerland or abroad or represents a threat to internal or external security;
@@ -1171,7 +1171,7 @@ The permanent residence permit may be revoked only if:
 - d.[^63-2] the foreign national has attempted to obtain Swiss citizenship unlawfully or his or her Swiss citizenship has been revoked based on a legally binding ruling issued in connection with a declaration of nullity under Article 36 of the Swiss Citizenship Act of 20 June 2014[^63-3];
 - e.[^63-4] ...
 
-<sup>2</sup> The permanent residence permit may be revoked and replaced by a residence permit if the residence criteria referred to in Article 58*a* have not been met.[^63-5]
+<sup>2</sup> A settlement permit may be revoked and replaced by a residence permit if the residence criteria referred to in Article 58*a* have not been met.[^63-5]
 
 <sup>3</sup> Revocation is not permitted if justified solely by conviction for an offence for which a sentence or measure has been imposed, where the court has refrained from imposing an order for expulsion from Switzerland.[^63-6]
 
@@ -1372,6 +1372,22 @@ It[^67-2] may order a ban on entry against foreign nationals who:
 
 [^68-1]: Amended by No I 2 of the O of 12 Dec. 2008 on the Amendment of Statutory Provisions due to the Transfer of the Intelligence Units of the Service for Analysis and Prevention to the DDPS, in force since 1 Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 
+#### Art. 68a
+
+**Alert in the Schengen Information System**[^68a-1]
+
+<sup>1</sup> and <sup>2</sup> ...
+
+<sup>3</sup> The SEM may supply biometric data to the SIS that is already available in the automated fingerprint identification system under Article 354 SCC (AFIS) or in ZEMIS. The supply of data may be automated.
+
+<sup>4</sup> ...
+
+<sup>5</sup> In connection with its alerts, fedpol may supply supply biometric data to the SIS that is already available in the AFIS. The supply of data may be automated. If no biometric data are available, fedpol may order the retroactive recording of the data from the authorities that detect a hit on these alerts.
+
+<sup>6</sup> ...
+
+[^68a-1]: Inserted by Annex 1 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime (SIS), para 3 and 5 in force since 1 July 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
 ### Section 4 Deportation and International Return Interventions****
 
 [^chap10-sec4-1]
@@ -1480,7 +1496,7 @@ The attending medical professional shall on request disclose the medical data re
 
 <sup>1</sup>
 
-The competent authority of the Confederation or the canton may detain persons without a short stay, residence or permanent residence permit:
+The competent authority of the Confederation or the canton may detain persons who do not hold a short stay, residence or settlement permit:
 
 - a. to notify them of a decision in connection with their residence status;
 - b. to determine their identity or nationality, as far as their personal cooperation is required.
@@ -1508,7 +1524,7 @@ If a person is detained, they must:
 
 The competent cantonal authority may require a person not to leave the area they were allocated to or not to enter a specific area if:
 
-- a. they do not hold a short stay, residence or permanent residence permit and they disrupt or represent a threat to public security and order; this measure serves in particular to combat illegal drug trafficking; or
+- a. they do not hold a short stay, residence or settlement permit and they disrupt or represent a threat to public security and order; this measure serves in particular to combat illegal drug trafficking; or
 - b.[^74-1] they are subject to a legally binding expulsion or removal order and specific indications lead to the belief that the person concerned will not leave before the departure deadline or has failed to observe the departure deadline.
 - c.[^74-2] deportation has been postponed (Art. 69 para. 3).
 
@@ -1530,7 +1546,7 @@ The competent cantonal authority may require a person not to leave the area they
 
 <sup>1</sup>
 
-To facilitate the conduct of removal proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^75-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^75-2], the competent cantonal authority may detain a person who does not hold a short stay, residence or permanent residence permit, during the preparation of the decision on residence status for a maximum of six months if they:[^75-3]
+To facilitate the conduct of removal proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^75-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^75-2], the competent cantonal authority may detain a person who does not hold a short stay, residence or settlement permit while preparing to decide on that person’s residence status for a maximum of six months if they:[^75-3]
 
 - a.[^75-4] refuse during asylum proceedings, removal proceedings or or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC to disclose their identity, submit several applications for asylum using various identities or repeatedly fail to comply with a summons without sufficient reason or ignore other instructions issued by the authorities in the asylum procedure;
 - b. leave an area allocated to them in accordance with Article 74 or enter an area from which they are excluded;
@@ -1999,7 +2015,7 @@ The Confederation pays the cantons:
 
 <sup>2</sup> The obligation to pay the special charge applies for a maximum of ten years from the date of entry.
 
-[^88-1]: Amended by No. I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2018 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^88-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2018 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^88-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 88a
@@ -2218,7 +2234,7 @@ The FDFA in consultation with the SEM may authorise third parties to carry out t
 
 **Approval procedure**[^99-1]
 
-<sup>1</sup> The Federal Council shall determine the cases in which short stay, residence and permanent residence permits as well as cantonal preliminary labour market decisions shall be submitted to SEM for approval.
+<sup>1</sup> The Federal Council shall determine the cases in which the granting of short stay, residence and settlement permits and cantonal preliminary labour market decisions are to be submitted to SEM for approval.
 
 <sup>2</sup> SEM may refuse to approve the decision of a cantonal administrative or appellate authority or make the decision subject to a time limit or to conditions and requirements.
 
@@ -2237,7 +2253,7 @@ The Federal Council may conclude agreements with foreign states or international
 - a. the requirement to obtain a visa and the conduct of border controls;
 - b. the readmission and transit of persons residing without authorisation in Switzerland;
 - c. the transit with police escort of persons in terms of readmission and transit agreements including the legal status of persons accompanying the contractual parties;
-- d. the period of residence required before the granting of a permanent residence permit;
+- d. the period of residence required before a settlement permit is granted;
 - e. basic and advanced professional training;
 - f. the recruitment of employees;
 - g. cross-border services;
@@ -3387,7 +3403,7 @@ The repeal and the amendment of current legislation are regulated in the Annex.
 
 <sup>5</sup> For persons who were admitted at the time of the commencement of the Amendment of 16 December 2005, the Confederation shall pay the cantons flat-rate payments in accordance with Articles 88 paragraphs 1 and 2 and 89 of the AsylA for the duration of temporary admission, but for a maximum of seven years from the date of entry. In addition the Confederation shall pay the cantons to a one-time contribution for persons who were temporarily admitted at the time of the commencement of the Amendment of 16 December 2005 to the AsylA with the intention in particular of facilitating professional integration. The Federal Council shall determine the amount.
 
-<sup>6</sup> The current legislation applies to procedures in accordance with Article 20 paragraph 1 letter b of the Federal Act of 26 March 1931 on the Residence and Permanent Settlement of Foreign Nationals (ANAG) in its version of 19 December 2003[^126a-4] that are pending at the time of the commencement of the Amendment of 16 December 2005 to the AsylA.
+<sup>6</sup> The current legislation applies to procedures in accordance with Article 20 paragraph 1 letter b of the Federal Act of 26 March 1931 on the Residence and Settlement of Foreign Nationals (ANAG) in its version of 19 December 2003[^126a-4] that are pending at the time of the commencement of the Amendment of 16 December 2005 to the AsylA.
 
 <sup>7</sup> If temporary admission was revoked in a legally binding decision before the commencement of the Amendment of 16 December 2005 to the AsylA, the Confederation shall pay the cantons a one-time flat-rate payment of 15 000 francs, provided the persons concerned have not yet left Switzerland.
 
@@ -3507,7 +3523,7 @@ Annex 2*[^t-3]*
 
 I
 
-The Federal Act of 26 March 1931[^annex2-lvlu1-1] on the Residence and Permanent Settlement of Foreign Nationals is repealed.
+The Federal Act of 26 March 1931[^annex2-lvlu1-1] on the Residence and Settlement of Foreign Nationals is repealed.
 
 II
 
