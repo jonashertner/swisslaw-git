@@ -3,18 +3,18 @@ sr: "812.214.11"
 title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 9 novembre 2001 concernente l'emanazione della farmacopea e il riconoscimento di altre farmacopee"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/443"
 language: it
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2001-443-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2001-443-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’Istituto svizzero per gli agenti terapeutici concernente l’emanazione della farmacopea e il riconoscimento di altre farmacopee
+# Ordinanza dell’Istituto svizzero per gli agenti terapeutici concernente l’emanazione della farmacopea e il riconoscimento di altre farmacopee****
 
-del 9 novembre 2001 (Stato 1° aprile 2021)[^t-1]
+del 9 novembre 2001 (Stato 1° luglio 2021)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’all. 7 all’O del 22 giu. 2006 sui medicamenti complementari e fitoterapeutici, in vigore dal 1° ott. 2006 ([RU 2006 3641](https://fedlex.data.admin.ch/eli/oc/2006/559)).
 
@@ -35,11 +35,11 @@ ordina:
 
 Per farmacopea si intendono:
 
-- a. *Pharmacopoea Europaea,* 10<sup>a</sup> edizione[^1-2] (Ph. Eur. 10), del novembre 2018, il supplemento 10.1 alla *Pharmacopoea Europaea* del marzo 2019, il supplemento 10.2 alla *Pharmacopoea Europaea* del giugno 2019, il supplemento 10.3 alla *Pharmacopoea Europaea* del novembre 2019, il supplemento 10.4 alla *Pharmacopoea Europaea* del marzo 2020 e la modifica urgente delle monografie *Valsartan*, *Losartan potassico*, *Irbesartan*, *Candesartan cilexetil* e *Olmesartan medoxomil* alla *Pharmacopoea Europaea* del febbraio 2021[^1-3];
+- a. *Pharmacopoea Europaea,* 10<sup>a</sup> edizione[^1-2] (Ph. Eur. 10), del novembre 2018, il supplemento 10.1 alla *Pharmacopoea Europaea* del marzo 2019, il supplemento 10.2 alla *Pharmacopoea Europaea* del giugno 2019, il supplemento 10.3 alla *Pharmacopoea Europaea* del novembre 2019, il supplemento 10.4 alla *Pharmacopoea Europaea* del marzo 2020, la modifica urgente delle monografie *Valsartan*, *Losartan potassico*, *Irbesartan*, *Candesartan cilexetil* e *Olmesartan medoxomil* alla *Pharmacopoea* *Europaea* del febbraio 2021[^1-3] e il supplemento 10.5 alla *Pharmacopoea Europaea* del giugno 2020;
 - b. *Pharmacopoea Helvetica,* 11<sup>a</sup> edizione[^1-4] (Ph. Helv. 11), del marzo 2012, il supplemento 11.1 alla *Pharmacopoea Helvetica* del giugno 2013, il supplemento 11.2 alla *Pharmacopoea Helvetica* del maggio 2015 e il supplemento 11.3 alla *Pharmacopoea Helvetica* del maggio 2019.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 4 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 146](https://fedlex.data.admin.ch/eli/oc/2021/146)).
-[^1-2]: La versione originale della *Pharmacopoea Europaea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch, alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
+[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 apr. 2021, in vigore dal 1° lug. 2021 ([RU 2021 223](https://fedlex.data.admin.ch/eli/oc/2021/223)).
+[^1-2]: La versione originale della *Pharmacopoea Europaea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch, alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; RS **172.041****.****11**). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
 [^1-3]: I testi integrali possono essere ottenuti presso la divisione della Farmacopea di Swissmedic o consultati all’indirizzo Internet www.swissmedic.ch.
 [^1-4]: La *Pharmacopoea Helvetica* è edita da Swissmedic e può essere consultata all’indirizzo Internet www.phhelv.ch o ottenuta presso l’UFCL, Vendita di pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch, alle condizioni previste dall’OEm-Pub.
 
