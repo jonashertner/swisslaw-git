@@ -4,13 +4,12 @@ number: "811.51"
 title: Loi sur la protection contre le tabagisme passif
 short: LPTP
 language: fr
-version: 2009-07-01
-valid_until: 2021-06-30
-version_adopted: 2008-09-10
+version: 2021-07-01
+version_adopted: 2021-03-07
 adopted: 2008-09-10
 in_force: 2009-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1071/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2290/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1071/pdf_file"
 
 (LPTP)
 
-du 10.09.2008 (état au 01.07.2009)
+du 10.09.2008 (état au 01.07.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -33,9 +32,15 @@ arrête:
 
 #### Art. 1
 
-**Objectif d’effet**
+**Objectif d’effet et notions**
 
 <sup>1</sup> La population doit être protégée des effets nocifs du tabagisme passif.
+
+<sup>2</sup> Fumer consiste à consommer des produits du tabac ou des produits à fumer à base de plantes au moyen d’un processus de combustion.
+
+<sup>3</sup> La consommation de produits du tabac chauffés et de cigarettes électroniques au sens de l’article 14c, alinéa 3 de la loi du 4 novembre 1992 sur le commerce et l’industrie (LCI)[^1-1] est assimilée au fait de fumer.
+
+[^1-1]: RSB [930.1](https://www.belex.sites.be.ch/data/930.1/fr)
 
 #### Art. 2
 
@@ -53,7 +58,7 @@ arrête:
 
 <sup>2</sup> Il est permis de fumer en plein air et dans les fumoirs (lieux clos équipés d’un système de ventilation distinct).
 
-<sup>3</sup> La législation sur l’hôtellerie et la restauration s’applique à la fumée dans les établissements d’hôtellerie et de restauration.
+<sup>3</sup> La législation sur l’hôtellerie et la restauration s’applique au fait de fumer dans les établissements d’hôtellerie et de restauration.
 
 <sup>4</sup> La protection des travailleurs et des travailleuses est régie par la législation fédérale sur le travail.
 
@@ -78,11 +83,11 @@ arrête:
 
 **Dispositions pénales**
 
-<sup>1</sup> Tout fumeur ou toute fumeuse qui ne respecte pas l’interdiction de fumer sera punie d’une amende de 40 francs à 2000 francs.
+<sup>1</sup> Toute personne qui ne respecte pas l’interdiction de fumer sera punie d’une amende de 40 francs à 2000 francs.
 
 <sup>2</sup> Quiconque ne s’acquitte pas de ses obligations telles qu’énoncées à l’article 3 sera puni d’une amende de 200 francs à 20'000 francs.
 
-<sup>3</sup> Tous les jugements pénaux rendus en vertu de la présente législation doivent être communiqués à la commune et au service compétent de la Direction de l’économie publique.
+<sup>3</sup> Tous les jugements pénaux rendus en vertu de la présente législation doivent être communiqués à la commune et au service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 #### Art. 6
 
@@ -94,7 +99,7 @@ arrête:
 
 **Procédure et protection juridique**
 
-<sup>1</sup> Les décisions des communes peuvent faire l’objet d’un recours auprès de la Direction de l’économie publique.
+<sup>1</sup> Les décisions des communes peuvent faire l’objet d’un recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Au surplus, la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^7-1] est applicable à la procédure et à la protection juridique.
 

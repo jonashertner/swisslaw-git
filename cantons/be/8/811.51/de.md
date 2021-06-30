@@ -4,13 +4,12 @@ number: "811.51"
 title: Gesetz zum Schutz vor Passivrauchen
 short: SchPG
 language: de
-version: 2009-07-01
-valid_until: 2021-06-30
-version_adopted: 2008-09-10
+version: 2021-07-01
+version_adopted: 2021-03-07
 adopted: 2008-09-10
 in_force: 2009-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1071/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1071/pdf_file"
 
 (SchPG)
 
-vom 10.09.2008 (Stand 01.07.2009)
+vom 10.09.2008 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -33,9 +32,15 @@ beschliesst:
 
 #### Art. 1
 
-**Wirkungsziel**
+**Wirkungsziel und Begriffe**
 
 <sup>1</sup> Die Bevölkerung wird vor den schädlichen Auswirkungen des Passivrauchens geschützt.
+
+<sup>2</sup> Als Rauchen gilt der Konsum von Tabakprodukten und pflanzlichen Rauchprodukten mittels eines Verbrennungsprozesses.
+
+<sup>3</sup> Dem Rauchen gleichgestellt ist der Konsum von erhitzten Tabakprodukten und elektronischen Zigaretten im Sinne von Artikel 14c Absatz 3 des Gesetzes vom 4. November 1992 über Handel und Gewerbe (HGG)[^1-1].
+
+[^1-1]: BSG [930.1](https://www.belex.sites.be.ch/data/930.1/de)
 
 #### Art. 2
 
@@ -82,7 +87,7 @@ beschliesst:
 
 <sup>2</sup> Mit Busse von 200 Franken bis 20'000 Franken wird bestraft, wer seinen Pflichten gemäss Artikel 3 nicht nachkommt.
 
-<sup>3</sup> Der Gemeinde und der zuständigen Stelle der Volkswirtschaftsdirektion sind alle gestützt auf die vorliegende Gesetzgebung ausgefällte Strafurteile mitzuteilen.
+<sup>3</sup> Der Gemeinde und der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion sind alle gestützt auf die vorliegende Gesetzgebung ausgefällten Strafurteile mitzuteilen.
 
 #### Art. 6
 
@@ -94,9 +99,9 @@ beschliesst:
 
 **Verfahren und Rechtsschutz**
 
-<sup>1</sup> Verfügungen der Gemeinden unterliegen der Beschwerde an die Volkswirtschaftsdirektion.
+<sup>1</sup> Verfügungen der Gemeinden unterliegen der Beschwerde an die Wirtschafts-, Energie- und Umweltdirektion.
 
-<sup>2</sup> Im Übrigen gilt für das Verfahren und den Rechtsschutz das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^7-1]).
+<sup>2</sup> Im Übrigen gilt für das Verfahren und den Rechtsschutz das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^7-1].
 
 [^7-1]: BSG 155.21
 
