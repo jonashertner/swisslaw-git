@@ -4,13 +4,13 @@ number: "108.1"
 title: Gesetz über die Archivierung
 short: ArchG
 language: de
-version: 2010-01-01
-valid_until: 2021-06-30
-version_adopted: 2009-03-31
+version: 2021-07-01
+valid_until: 2023-12-31
+version_adopted: 2021-04-07
 adopted: 2009-03-31
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/108.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/24/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2264/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/24/pdf_file"
 
 (ArchG)
 
-vom 31.03.2009 (Stand 01.01.2010)
+vom 31.03.2009 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -136,7 +136,7 @@ beschliesst:
 - a der dezentralen kantonalen Verwaltung,
 - b der Gemeinden, ihrer Anstalten und von Körperschaften, die dem Gemeindegesetz unterstellt sind.
 
-<sup>2</sup> Er kann diese Befugnis ganz oder teilweise der Justiz-, Gemeinde- und Kirchendirektion übertragen.
+<sup>2</sup> Er kann diese Befugnis ganz oder teilweise der Direktion für Inneres und Justiz übertragen.
 
 #### Art. 12
 

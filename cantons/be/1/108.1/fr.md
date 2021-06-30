@@ -4,13 +4,13 @@ number: "108.1"
 title: "Loi sur l'archivage"
 short: LArch
 language: fr
-version: 2010-01-01
-valid_until: 2021-06-30
-version_adopted: 2009-03-31
+version: 2021-07-01
+valid_until: 2023-12-31
+version_adopted: 2021-04-07
 adopted: 2009-03-31
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/108.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/24/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2264/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/24/pdf_file"
 
 (LArch)
 
-du 31.03.2009 (état au 01.01.2010)
+du 31.03.2009 (état au 01.07.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -136,7 +136,7 @@ arrête:
 - a de l’administration cantonale décentralisée,
 - b des communes, de leurs établissements et des autres collectivités soumises à la loi sur les communes.
 
-<sup>2</sup> Il peut déléguer partiellement ou totalement cette compétence à la Direction de la justice, des affaires communales et des affaires ecclésiastiques.
+<sup>2</sup> Il peut déléguer partiellement ou totalement cette compétence à la Direction de l’intérieur et de la justice.
 
 #### Art. 12
 
