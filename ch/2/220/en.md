@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2021-05-01
+version: 2021-07-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210701/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 May 2021)
+of 30 March 1911 (Status as of 1 July 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -4398,13 +4398,13 @@ The employer may handle data concerning the employee only to the extent that suc
 [^328b-1]: Inserted by Annex No 2 to the FA of 19 June 1992 on Data Protection, in force since 1 July 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-### VIII. Days off work, holidays, leave for youth work, maternity and paternity leave
+### VIII. Days off work, holidays, and leave
 
 ### 1. Days off work
 
 [^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]
 
-[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]: Amended by Annex No 1 of the FA of 27 Sept. 2019, in force since 1 Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]: Amended by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 329
 
@@ -4444,14 +4444,15 @@ The employer may handle data concerning the employee only to the extent that suc
 The employer may not reduce the holiday entitlement of:
 
 - a. a female employee who is prevented from working by pregnancy for up to two months;
-- b. a female employee who has taken maternity leave in accordance with Article 329*f*; or
-- c. a male employee who has taken paternity leave in accordance with Article 329*g*.[^329b-3]
+- b. a female employee who has taken maternity leave in accordance with Article 329*f*;
+- c. a male employee who has taken paternity leave in accordance with Article 329*g*; or
+- d. an employee who has taken carer’s leave in accordance with Article 329*i*.[^329b-3]
 
 <sup>4</sup> A standard employment contract or collective employment contract may derogate from paragraphs 2 and 3 provided that, taken as a whole, it gives employees terms of at least equal benefit.[^329b-4]
 
 [^329b-1]: Amended by Art. 117 of the FA of 25 June 1982 on Unemployment Insurance, in force since 1 Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Amended by Art. 13 of the FA of 6 Oct. 1989 on Youth Work, in force since 1 Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Amended by Annex No 1 of the FA of 27 Sept. 2019, in force since 1 Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^329b-3]: Amended by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-4]: Inserted by No I of the FA of 16 Dec. 1983, in force since 1 July 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
 ### c. Consecutive weeks, timing
@@ -4496,9 +4497,12 @@ The employer may not reduce the holiday entitlement of:
 
 [^329f-1]
 
-After having given birth, a female employee is entitled to maternity leave of at least 14 weeks.
+<sup>1</sup> After having given birth, a female employee is entitled to maternity leave of at least 14 weeks.
+
+<sup>2</sup> In the event of the hospitalisation of the new-born child, the maternity leave shall be extended by the extended period of payment of the maternity allowance.[^329f-2]
 
 [^329f-1]: Inserted by Annex No 1 to the FA of 3 Oct. 2003, in force since 1 July 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^329f-2]: Inserted by No II of the FA of 18 Dec. 2020, in force since 1 July 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 ### 5. Paternity leave
 
@@ -4525,6 +4529,25 @@ After having given birth, a female employee is entitled to maternity leave of at
 An employee is entitled to paid leave for the time he or she spends caring for a family member or life partner with health problems; however the leave is limited to no more than three days per event and no more than ten days per year.
 
 [^329h-1]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+
+### 7. Leave to care for a child whose health is seriously impaired by illness or accident
+
+#### Art. 329i
+
+[^329i-1]
+
+<sup>1</sup> If an employee is entitled to carer’s allowance under Articles 16*n*–16*s* of the Loss of Earning Compensation Act (LECA) of 25 September 1952[^329i-2] because his or her child’s health has been seriously impaired by illness or accident, he or she is entitled to carer’s leave of a maximum of 14 weeks.
+
+<sup>2</sup> The carer’s leave must be taken within a period of 18 months. The period begins on the day for which the first daily allowance is claimed.
+
+<sup>3</sup> If both parents are in employment, each parent is entitled to carer’s leave of a maximum of seven weeks. They may choose to apportion the leave in a different way.
+
+<sup>4</sup> The leave may be taken in one stretch or on a day-to-day basis.
+
+<sup>5</sup> The employer must be informed immediately about the arrangements made for taking the leave and about any changes to these arrangements.
+
+[^329i-1]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ### IX. Other duties
 
@@ -5056,6 +5079,8 @@ After the probation period has expired, the employer may not terminate the emplo
 - a.[^336c-2] while the other party is performing Swiss compulsory military or civil defence service or Swiss alternative civilian service or, where such service lasts for more than eleven[^336c-3] days, during the four weeks preceding or following it;
 - b. while the employee through no fault of his own is partially or entirely prevented from working by illness or accident for up to 30 days in the first year of service, 90 days in the second to fifth years of service and 180 days in the sixth and subsequent years of service;
 - c. during the pregnancy of an employee and the sixteen weeks following birth;
+- c<sup>bis</sup>.[^336c-4] before the end of the extended period of maternity leave in accordance with Article 329*f* paragraph 2;
+- c<sup>ter</sup>.[^336c-5] for as long as the employee is entitled to carer’s leave under Article 329*i*, but for no longer than six months from the day on which the period within which to take the leave begins;
 - d. while the employee is participating with the employer’s consent in an overseas aid project ordered by the competent federal authority.
 
 <sup>2</sup> Any notice of termination given during the proscribed periods stipulated in paragraph 1 is void; by contrast, where such notice was given prior to the commencement of a proscribed period but the notice period has not yet expired at that juncture, it is suspended and does not resume until the proscribed period has ended.
@@ -5065,6 +5090,8 @@ After the probation period has expired, the employer may not terminate the emplo
 [^336c-1]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Amended by Annex No 3 to the FA of 6 Oct. 1995 on Alternative Civilian Service, in force since 1 Oct. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Revised by the Federal Assembly Drafting Committee (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^336c-4]: Inserted by No II of the FA of 18 Dec. 2020, in force since 1 July 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^336c-5]: Originally lett. c<sup>bis</sup>. Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 ### b. By the employee
 
@@ -5858,16 +5885,17 @@ It is not permissible to derogate from the following provisions to the detriment
 - Article 329*f*: (maternity leave);[^part2-tit10-chap4-lvlB-lvlu1-4]
 - Article 329*g*: (paternity leave);[^part2-tit10-chap4-lvlB-lvlu1-5]
 - Article 329*h*: (leave to care for family members);[^part2-tit10-chap4-lvlB-lvlu1-6]
+- Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident)[^part2-tit10-chap4-lvlB-lvlu1-7]
 - Article 330: paragraphs 1, 3 and 4 (security);
 - Article 330*a*: (reference);
 - Article 331: paragraphs 3 and 4 (contributions and information for employee benefits);
-- Article 331*a*: (beginning and end of insurance cover);[^part2-tit10-chap4-lvlB-lvlu1-7]
-- [tab] ...[^part2-tit10-chap4-lvlB-lvlu1-8]
+- Article 331*a*: (beginning and end of insurance cover);[^part2-tit10-chap4-lvlB-lvlu1-8]
+- [tab] ...[^part2-tit10-chap4-lvlB-lvlu1-9]
 - Article 332: paragraph 4 (remuneration for inventions);
 - Article 333: paragraph 3 (liability in the event of transfer of employment relationships);
-- Article 335*c*: (notice periods)[^part2-tit10-chap4-lvlB-lvlu1-9]
-- Article 335*i*: (duty to negotiate in order to conclude a social plan)[^part2-tit10-chap4-lvlB-lvlu1-10]
-- Article 335*j*: (preparation of the social plan by an arbitral tribunal)[^part2-tit10-chap4-lvlB-lvlu1-11]
+- Article 335*c*: (notice periods)[^part2-tit10-chap4-lvlB-lvlu1-10]
+- Article 335*i*: (duty to negotiate in order to conclude a social plan)[^part2-tit10-chap4-lvlB-lvlu1-11]
+- Article 335*j*: (preparation of the social plan by an arbitral tribunal)[^part2-tit10-chap4-lvlB-lvlu1-12]
 - Article 336: paragraph 2 (wrongful termination by the employer);
 - Article 336*c*: (termination by the employer at an inopportune juncture);
 - Article 337*a*: (termination with immediate effect because salary is at risk);
@@ -5880,7 +5908,7 @@ It is not permissible to derogate from the following provisions to the detriment
 - Article. 340*a*: paragraph 1 (restrictions on prohibition of competition);
 - Article. 340*c*: (extinction of prohibition of competition);
 - Article. 341: paragraph 1 (no right of waiver);
-- Article. 345*a*: (obligations of the master[^part2-tit10-chap4-lvlB-lvlu1-12]);
+- Article. 345*a*: (obligations of the master[^part2-tit10-chap4-lvlB-lvlu1-13]);
 - Article. 346*a*: (certificate of apprenticeship);
 - Article. 349*a*: paragraph 1 (commercial traveller’s salary);
 - Article. 349*b*: paragraph 3 (payment of commission);
@@ -5890,7 +5918,7 @@ It is not permissible to derogate from the following provisions to the detriment
 - Article. 352*a*: paragraph 3 (home worker’s liability);
 - Article. 353: (acceptance of completed work);
 - Article. 353*a*: (payment of salary);
-- Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).[^part2-tit10-chap4-lvlB-lvlu1-13]
+- Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).[^part2-tit10-chap4-lvlB-lvlu1-14]
 
 <sup>2</sup> Any agreement or clause of a standard employment contract or collective employment contract that derogates from the aforementioned provisions to the detriment of the employee is void.
 
@@ -5900,13 +5928,14 @@ It is not permissible to derogate from the following provisions to the detriment
 [^part2-tit10-chap4-lvlB-lvlu1-4]: Inserted by Annex No 12 Annex No 1 to the FA of 3 Oct. 2003, in force since 1 July 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^part2-tit10-chap4-lvlB-lvlu1-5]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^part2-tit10-chap4-lvlB-lvlu1-6]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-7]: Amended by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^part2-tit10-chap4-lvlB-lvlu1-8]: Repealed by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, with effect from 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^part2-tit10-chap4-lvlB-lvlu1-9]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-10]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^part2-tit10-chap4-lvlB-lvlu1-7]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^part2-tit10-chap4-lvlB-lvlu1-8]: Amended by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^part2-tit10-chap4-lvlB-lvlu1-9]: Repealed by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, with effect from 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^part2-tit10-chap4-lvlB-lvlu1-10]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^part2-tit10-chap4-lvlB-lvlu1-11]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^part2-tit10-chap4-lvlB-lvlu1-12]: Now: the employer.
-[^part2-tit10-chap4-lvlB-lvlu1-13]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^part2-tit10-chap4-lvlB-lvlu1-12]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^part2-tit10-chap4-lvlB-lvlu1-13]: Now: the employer.
+[^part2-tit10-chap4-lvlB-lvlu1-14]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Title Eleven: The Contract for Work and Services
 
@@ -17884,7 +17913,7 @@ Contracts of employment in existence when this Act comes into force (individual 
 
 The Federal Council shall determine the commencement date of this Act.
 
-## Final Provisions on the Fourth Section of Title XIII.****
+## Final Provisions on the Fourth Section of Title XIII****
 
 [^u13-1]
 

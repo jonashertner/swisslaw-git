@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2021-05-01
+version: 2021-07-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210701/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. da matg 2021)
+dals 30 da mars 1911 (versiun dal 1. da fanadur 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -4398,13 +4398,13 @@ Il patrun dastga mo elavurar datas davart il lavurant, sche questas datas concer
 [^328b-1]: Integrà tras la cifra 2 da l’agiunta da la LF dals 19 da zer. 1992 davart la protecziun da datas, en vigur dapi il 1. da fan. 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-### VIII. Temp liber, vacanzas, congedi per lavur cun giuvenils, congedi da maternitad e da paternitad
+### VIII. Temp liber, vacanzas e congedi
 
 ### 1. Temp liber
 
 [^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]
 
-[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]: Versiun tenor la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 329
 
@@ -4444,14 +4444,15 @@ Il patrun dastga mo elavurar datas davart il lavurant, sche questas datas concer
 Il patrun na dastga er betg reducir las vacanzas, sche:
 
 - a. ina lavuranta è impedida da lavurar fin 2 mais pervia da gravidanza;
-- b. ina lavuranta ha retratg in congedi da maternitad tenor l’artitgel 329*f*; u
-- c. in lavurant ha retratg in congedi da paternitad tenor l’artitgel 329*g*.[^329b-3]
+- b. ina lavuranta ha retratg in congedi da maternitad tenor l’artitgel 329*f*;
+- c. in lavurant ha retratg in congedi da paternitad tenor l’artitgel 329*g*; u
+- d. ina lavuranta u in lavurant ha retratg in congedi d’assistenza tenor l’artitgel 329*i*.[^329b-3]
 
 <sup>4</sup> Tras in contract normal u tras in contract collectiv da lavur poi vegnir concludida ina regulaziun che divergescha dals alineas 2 e 3, sche quella è tut en tut almain equivalenta per il lavurant.[^329b-4]
 
 [^329b-1]: Versiun tenor l’art. 117 da la LF davart l’assicuranza cunter la dischoccupaziun, en vigur dapi il 1. da schan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Versiun tenor l’art. 13 da la LF dals 6 d’oct. 1989 davart la lavur cun giuvenils, en vigur dapi il 1. da schan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^329b-3]: Versiun tenor la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-4]: Integrà tras la cifra I da la LF dals 16 da dec. 1983, en vigur dapi il 1. da fan. 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); BBl **1982** III201).
 
 ### c. Coerenza e data
@@ -4496,9 +4497,12 @@ Il patrun na dastga er betg reducir las vacanzas, sche:
 
 [^329f-1]
 
-Suenter la pagliola ha la lavuranta il dretg d’in congedi da maternitad d’almain 14 emnas.
+<sup>1</sup> Suenter la pagliola ha la lavuranta il dretg d’in congedi da maternitad d’almain 14 emnas.
+
+<sup>2</sup> Sche l’uffant novnaschì vegn ospitalisà, sa prolunghescha il congedi da maternitad per la durada prolungada dal pajament da l’indemnisaziun da maternitad.[^329f-2]
 
 [^329f-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^329f-2]: Integrà tras la cifra II da la LF dals 18 da dec. 2020, en vigur dapi il 1. da fan. 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 ### 5. Congedi da paternitad
 
@@ -4523,6 +4527,25 @@ Suenter la pagliola ha la lavuranta il dretg d’in congedi da maternitad d’al
 Il lavurant ha il dretg d’in congedi pajà per il temp ch’è necessari per assister in commember da la famiglia u il partenari da vita che ha ina restricziun da la sanadad; il congedi importa dentant maximalmain 3 dis per eveniment e maximalmain 10 dis per onn.
 
 [^329h-1]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+
+### 7. Congedi per tgirar in uffant cun grevs problems da la sanadad pervia da malsogna u d’accident
+
+#### Art. 329i
+
+[^329i-1]
+
+<sup>1</sup> Sch’il lavurant ha il dretg d’ina indemnisaziun d’assistenza tenor ils artitgels 16*n*–16*s* LCG[^329i-2], perquai che ses uffant ha grevs problems da la sanadad pervia da malsogna u d’accident, ha el il dretg d’in congedi d’assistenza da maximalmain 14 emnas.
+
+<sup>2</sup> Il congedi d’assistenza sto vegnir retratg entaifer in termin general da 18 mais. Il termin general cumenza quel di, per il qual l’emprima diaria vegn retratga.
+
+<sup>3</sup> Sche tuts dus geniturs èn lavurants, ha mintga genitur il dretg d’in congedi d’assistenza da maximalmain 7 emnas. Els pon sa cunvegnir da reparter autramain il congedi.
+
+<sup>4</sup> Il congedi po vegnir retratg en ina giada u durant singuls dis.
+
+<sup>5</sup> Il patrun sto vegnir infurmà immediatamain davart las modalitads da la retratga dal congedi sco er davart eventualas midadas.
+
+[^329i-1]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ### IX. Ulteriuras obligaziuns
 
@@ -5054,6 +5077,8 @@ Suenter la fin dal temp d’emprova na dastga il patrun betg disdir la relaziun 
 - a.[^336c-2] durant che l’autra partida presta obligatoricamain servetsch militar u servetsch da protecziun civila svizzer u servetsch civil svizzer e – sch’il servetsch dura passa 11[^336c-3] dis – durant las 4 emnas avant e suenter;
 - b. durant ch’il lavurant è – senza sia culpa – impedì cumplettamain u parzialmain da lavurar pervia da malsogna u d’accident, e quai l’emprim onn da servetsch durant 30 dis, a partir dal segund fin e cun il 5avel onn da servetsch durant 90 dis ed a partir dal 6avel onn da servetsch durant 180 dis;
 - c. durant la gravidanza e durant las 16 emnas suenter la pagliola;
+- c<sup>bis</sup>.[^336c-4] avant la fin dal congedi da maternitad prolungà tenor l’artitgel 329*f* alinea 2;
+- c<sup>ter</sup>.[^336c-5] uschè ditg ch’il dretg d’in congedi d’assistenza tenor l’artitgel 329*i* exista, maximalmain dentant durant 6 mais a partir dal di ch’il termin general cumenzà;
 - d. durant ch’il lavurant sa participescha – cun il consentiment dal patrun – ad in servetsch che l’autoritad federala cumpetenta ha ordinà en il rom d’ina acziun d’agid a l’exteriur.
 
 <sup>2</sup> La disditga che vegn pronunziada durant in temp da bloccada tenor l’alinea 1 è nunvalaivla; sche la disditga è dentant vegnida pronunziada avant il cumenzament d’in tal temp da bloccada e sch’il termin da disditga n’è betg anc scadì fin alura, vegn la scadenza dal termin interrutta e cuntinuada pir suenter la fin dal temp da bloccada.
@@ -5063,6 +5088,8 @@ Suenter la fin dal temp d’emprova na dastga il patrun betg disdir la relaziun 
 [^336c-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 6 d’oct. 1995 davart il servetsch civil, en vigur dapi il 1. d’oct. 1996 (AS **1996** 1455; [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^336c-4]: Integrà tras la cifra II da la LF dals 18 da dec. 2020, en vigur dapi il 1. da fan. 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^336c-5]: Oriundamain: lit. c<sup>bis</sup>. Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 ### b. Tras il lavurant
 
@@ -5784,38 +5811,38 @@ Sch’in chantun decretescha in contract normal da lavur en applicaziun da l’a
 
 #### Art. 361
 
-<sup>1</sup>
+<sup>1</sup> Tras ina cunvegna, tras in contract normal u tras in contract collectiv da lavur na dastgi vegnir divergià da las suandantas disposiziuns ni a disfavur dal lavurant ni a disfavur dal patrun:
 
-Tras ina cunvegna, tras in contract normal u tras in contract collectiv da lavur na dastgi vegnir divergià da las suandantas disposiziuns ni a disfavur dal lavurant ni a disfavur dal patrun:
-
-- artitgel 321*c*: alinea 1 (lavur supplementara)
-- artitgel 323: alinea 4 (pajament anticipà)
-- artitgel 323*b*: alinea 2 (scuntrada cun cuntrapretensiuns)
-- artitgel 325: alinea 2 (cessiun ed impegnaziun da pretensiuns da salari)
-- artitgel 326: alinea 2 (assegnaziun da lavur)
-- artitgel 329*d*: alineas 2 e 3 (salari da vacanzas)
-- artitgel 331: alineas 1 e 2 (prestaziuns a la prevenziun dal persunal)
-- artitgel 331*b:* (cessiun ed impegnaziun da pretensiuns da prestaziuns da prevenziun)[^361-1]
-- ...[^361-2]
-- artitgel 334: alinea 3 (disditga d’ina relaziun da lavur da blers onns)
-- artitgel 335: (disditga da la relaziun da lavur)
-- artitgel 335*k*: (plan social durant ina procedura da concurs u d’accumodament)[^361-3]
-- artitgel 336: alinea 1 (disditga abusiva)
-- artitgel 336*a*: (indemnisaziun en cas d’ina disditga abusiva u nungiustifitgada)
-- artitgel 336*b*: (far valair l’indemnisaziun)
-- artitgel 336*d*: (disditga da temp maladattà tras il lavurant)
-- artitgel 337: alineas 1 e 2 (schliaziun immediata per motivs impurtants)
-- artitgel 337*b*: alinea 1 (consequenzas en cas da schliaziun giustifitgada)
-- artitgel 337*d*: (consequenzas, sch’il lavurant na cumpara betg a la lavur u banduna la lavur senza motivs giustifitgads)
-- artitgel 339: alinea 1 (pajament da las pretensiuns)
-- artitgel 339*a*: (restituziun)
-- artitgel 340*b*: alineas 1 e 2 (consequenzas dal surpassament dal scumond da concurrenza)
-- artitgel 342: alinea 2 (effects dal dretg public sin il dretg civil)
-- ...[^361-4]
-- artitgel 346: (schliaziun anticipada dal contract d’emprendissadi)
-- artitgel 349*c*: alinea 3 (impediment da viagiar)
-- artitgel 350: (disditga speziala)
-- artitgel 350*a*: alinea 2 (restituziun).[^361-5]
+<table>
+<tr><td>[tab] artitgel 321*c*:</td><td>[tab] alinea 1 (lavur supplementara)</td></tr>
+<tr><td>[tab] artitgel 323:</td><td>[tab] alinea 4 (pajament anticipà)</td></tr>
+<tr><td>[tab] artitgel 323*b*:</td><td>[tab] alinea 2 (scuntrada cun cuntrapretensiuns)</td></tr>
+<tr><td>[tab] artitgel 325:</td><td>[tab] alinea 2 (cessiun ed impegnaziun da pretensiuns da salari)</td></tr>
+<tr><td>[tab] artitgel 326:</td><td>[tab] alinea 2 (assegnaziun da lavur)</td></tr>
+<tr><td>[tab] artitgel 329*d*:</td><td>[tab] alineas 2 e 3 (salari da vacanzas)</td></tr>
+<tr><td>[tab] artitgel 331:</td><td>[tab] alineas 1 e 2 (prestaziuns a la prevenziun dal persunal)</td></tr>
+<tr><td>[tab] artitgel 331*b:*</td><td>[tab] (cessiun ed impegnaziun da pretensiuns da prestaziuns da prevenziun)[^361-1]</td></tr>
+<tr><td>[tab] ...[^361-2]</td><td>[tab]</td></tr>
+<tr><td>[tab] artitgel 334:</td><td>[tab] alinea 3 (disditga d’ina relaziun da lavur da blers onns)</td></tr>
+<tr><td>[tab] artitgel 335:</td><td>[tab] (disditga da la relaziun da lavur)</td></tr>
+<tr><td>[tab] artitgel 335*k*:</td><td>[tab] (plan social durant ina procedura da concurs u d’accumodament)[^361-3]</td></tr>
+<tr><td>[tab] artitgel 336:</td><td>[tab] alinea 1 (disditga abusiva)</td></tr>
+<tr><td>[tab] artitgel 336*a*:</td><td>[tab] (indemnisaziun en cas d’ina disditga abusiva u nungiustifitgada)</td></tr>
+<tr><td>[tab] artitgel 336*b*:</td><td>[tab] (far valair l’indemnisaziun)</td></tr>
+<tr><td>[tab] artitgel 336*d*:</td><td>[tab] (disditga da temp maladattà tras il lavurant)</td></tr>
+<tr><td>[tab] artitgel 337:</td><td>[tab] alineas 1 e 2 (schliaziun immediata per motivs impurtants)</td></tr>
+<tr><td>[tab] artitgel 337*b*:</td><td>[tab] alinea 1 (consequenzas en cas da schliaziun giustifitgada)</td></tr>
+<tr><td>[tab] artitgel 337*d*:</td><td>[tab] (consequenzas, sch’il lavurant na cumpara betg a la lavur u banduna la lavur senza motivs giustifitgads)</td></tr>
+<tr><td>[tab] artitgel 339:</td><td>[tab] alinea 1 (pajament da las pretensiuns)</td></tr>
+<tr><td>[tab] artitgel 339*a*:</td><td>[tab] (restituziun)</td></tr>
+<tr><td>[tab] artitgel 340*b*:</td><td>[tab] alineas 1 e 2 (consequenzas dal surpassament dal scumond da concurrenza)</td></tr>
+<tr><td>[tab] artitgel 342:</td><td>[tab] alinea 2 (effects dal dretg public sin il dretg civil)</td></tr>
+<tr><td>[tab] ...[^361-4]</td><td>[tab]</td></tr>
+<tr><td>[tab] artitgel 346:</td><td>[tab] (schliaziun anticipada dal contract d’emprendissadi)</td></tr>
+<tr><td>[tab] artitgel 349*c*:</td><td>[tab] alinea 3 (impediment da viagiar)</td></tr>
+<tr><td>[tab] artitgel 350:</td><td>[tab] (disditga speziala)</td></tr>
+<tr><td>[tab] artitgel 350*a*:</td><td>[tab] alinea 2 (restituziun).[^361-5]</td></tr>
+</table>
 
 <sup>2</sup> Cunvegnas e disposiziuns da contracts collectivs e da contracts normals da lavur che divergeschan da las prescripziuns numnadas qua survart a disfavur dal patrun u dal lavurant, èn nunvalaivlas.
 
@@ -5829,84 +5856,86 @@ Tras ina cunvegna, tras in contract normal u tras in contract collectiv da lavur
 
 #### Art. 362
 
-<sup>1</sup> artitgel 353*a*: (pajament dal salari)
+<sup>1</sup> Tras ina cunvegna, tras in contract normal da lavur u tras in contract collectiv da lavur na dastgi betg vegnir divergià da las suandantas disposiziuns a disfavur dal lavurant:[^362-1]
 
-artitgel 353*b*: alinea 1 (salari en cas d’impediment da lavurar).[^362-1]
-
-Tras ina cunvegna, tras in contract normal da lavur u tras in contract collectiv da lavur na dastgi betg vegnir divergià da las suandantas disposiziuns a disfavur dal lavurant:[^362-2]
-
-- artitgel 321*e*: (responsabladad dal lavurant)
-- artitgel 322*a*: alineas 2 e 3 (participaziun al resultat da la fatschenta)
-- artitgel 322*b*: alineas 1 e 2 (cumenzament dal dretg da survegnir ina provisiun)
-- artitgel 322*c*: (rendaquint da la provisiun)
-- artitgel 323*b*: alinea 1 segunda frasa (rendaquint dal salari)
-- artitgel 324: (salari en cas da retard dal patrun)
-- artitgel 324*a*: alineas 1 e 3 (salari en cas da retard dal lavurant)
-- artitgel 324*b*: (salari en cas d’ina assicuranza obligatorica dal lavurant)
-- artitgel 326: alineas 1, 3 e 4 (lavur en accord)
-- artitgel 326*a*: (salari per la lavur en accord)
-- artitgel 327*a*: alinea 1 (indemnisaziun da las expensas en general)
-- artitgel 327*b*: alinea 1 (indemnisaziun da las expensas per l’utilisaziun d’in vehichel a motor)
-- artitgel 327*c*: alinea 2 (pajament anticipà per expensas)
-- artitgel 328: (protecziun da la persunalitad dal lavurant en general)
-- artitgel 328*a*: (protecziun da la persunalitad dal lavurant en la chasada dal patrun)
-- artitgel 328*b*: (protecziun da la persunalitad a chaschun da l’elavuraziun da datas da persunas)[^362-3]
-- artitgel 329: alineas 1, 2 e 3 (temp liber)
-- artitgel 329*a*: alineas 1 e 3 (durada da las vacanzas)
-- artitgel 329*b*: alineas 2 e 3 (reducziun da las vacanzas)
-- artitgel 329*c*: (coerenza e data da las vacanzas)
-- artitgel 329*d*: alinea 1 (salari da vacanzas)
-- artitgel 329*e*: alineas 1 e 3 (congedi per giuvenils)[^362-4]
-- artitgel 329*f*: (congedi da maternitad)[^362-5]
-- artitgel 329*g*: (congedi da paternitad)[^362-6]
-- artitgel 329*h*: (congedi per l’assistenza da confamigliars)[^362-7]
-- artitgel 330: alineas 1, 3 e 4 (cauziun)
-- artitgel 330*a*: (attestat)
-- artitgel 331: alineas 3 e 4 (contribuziun ed obligaziun da dar infurmaziuns en connex cun la prevenziun dal persunal)
-- artitgel 331*a*: (cumenzament e fin da la prevenziun)[^362-8]
-- ...[^362-9]
-- artitgel 332: alinea 4 (indemnisaziun en cas d’invenziuns)
-- artitgel 333: alinea 3 (responsabladad en cas d’in transferiment da la relaziun da lavur)
-- artitgel 335*c*: alinea 3 (termins da disditga)[^362-10]
-- artitgel 335*i*: (obligaziun da manar tractativas per concluder in plan social)[^362-11]
-- artitgel 335*j*: (fixaziun dal plan social tras ina dretgira da cumpromiss)[^362-12]
-- artitgel 336: alinea 2 (disditga abusiva tras il patrun)
-- artitgel 336*c*: (disditga da temp maladattà tras il patrun)
-- artitgel 337*a*: (schliaziun immediata pervia d’insolvenza dal patrun)
-- artitgel 337*c*: alinea 1 (consequenzas en cas da relaschada nungiustifitgada)
-- artitgel 338: (mort dal lavurant)
-- artitgel 338*a*: (mort dal patrun)
-- artitgel 339*b*: (premissas da l’indemnisaziun da partenza)
-- artitgel 339*d*: (prestaziuns da cumpensaziun)
-- artitgel 340: alinea 1 (premissas dal scumond da concurrenza)
-- artitgel 340*a*: alinea 1 (restricziun dal scumond da concurrenza)
-- artitgel 340*c*: (scrudada dal scumond da concurrenza)
-- artitgel 341: alinea 1 (nunpussaivladad da renunziar a la surannaziun)
-- artitgel 345*a*: (obligaziuns dal patrun d’emprendissadi[^362-13])
-- artitgel 346*a*: (attestat d’emprendissadi)
-- artitgel 349*a*: alinea 1 (salari dal viagiatur da commerzi)
-- artitgel 349*b*: alinea 3 (pajament da la provisiun)
-- artitgel 349*c*: alinea 1 (salari en cas d’impediment da viagiar)
-- artitgel 349*e*: alinea 1 (dretg da retenziun dal viagiatur da commerzi)
-- artitgel 350*a*: alinea 1 (provisiun a la fin da la relaziun da lavur)
-- artitgel 352*a*: alinea 3 (responsabladad dal lavurant a chasa)
-- artitgel 353: (collaudaziun dal product)
+<table>
+<tr><td>[tab] artitgel 321*e*:</td><td>[tab] (responsabladad dal lavurant)</td></tr>
+<tr><td>[tab] artitgel 322*a*:</td><td>[tab] alineas 2 e 3 (participaziun al resultat da la fatschenta)</td></tr>
+<tr><td>[tab] artitgel 322*b*:</td><td>[tab] alineas 1 e 2 (cumenzament dal dretg da survegnir ina provisiun)</td></tr>
+<tr><td>[tab] artitgel 322*c*:</td><td>[tab] (rendaquint da la provisiun)</td></tr>
+<tr><td>[tab] artitgel 323*b*:</td><td>[tab] alinea 1 segunda frasa (rendaquint dal salari)</td></tr>
+<tr><td>[tab] artitgel 324:</td><td>[tab] (salari en cas da retard dal patrun)</td></tr>
+<tr><td>[tab] artitgel 324*a*:</td><td>[tab] alineas 1 e 3 (salari en cas da retard dal lavurant)</td></tr>
+<tr><td>[tab] artitgel 324*b*:</td><td>[tab] (salari en cas d’ina assicuranza obligatorica dal lavurant)</td></tr>
+<tr><td>[tab] artitgel 326:</td><td>[tab] alineas 1, 3 e 4 (lavur en accord)</td></tr>
+<tr><td>[tab] artitgel 326*a*:</td><td>[tab] (salari per la lavur en accord)</td></tr>
+<tr><td>[tab] artitgel 327*a*:</td><td>[tab] alinea 1 (indemnisaziun da las expensas en general)</td></tr>
+<tr><td>[tab] artitgel 327*b*:</td><td>[tab] alinea 1 (indemnisaziun da las expensas per l’utilisaziun d’in vehichel a motor)</td></tr>
+<tr><td>[tab] artitgel 327*c*:</td><td>[tab] alinea 2 (pajament anticipà per expensas)</td></tr>
+<tr><td>[tab] artitgel 328:</td><td>[tab] (protecziun da la persunalitad dal lavurant en general)</td></tr>
+<tr><td>[tab] artitgel 328*a*:</td><td>[tab] (protecziun da la persunalitad dal lavurant en la chasada dal patrun)</td></tr>
+<tr><td>[tab] artitgel 328*b*:</td><td>[tab] (protecziun da la persunalitad a chaschun da l’elavuraziun da datas da persunas)[^362-2]</td></tr>
+<tr><td>[tab] artitgel 329:</td><td>[tab] alineas 1, 2 e 3 (temp liber)</td></tr>
+<tr><td>[tab] artitgel 329*a*:</td><td>[tab] alineas 1 e 3 (durada da las vacanzas)</td></tr>
+<tr><td>[tab] artitgel 329*b*:</td><td>[tab] alineas 2 e 3 (reducziun da las vacanzas)</td></tr>
+<tr><td>[tab] artitgel 329*c*:</td><td>[tab] (coerenza e data da las vacanzas)</td></tr>
+<tr><td>[tab] artitgel 329*d*:</td><td>[tab] alinea 1 (salari da vacanzas)</td></tr>
+<tr><td>[tab] artitgel 329*e*:</td><td>[tab] alineas 1 e 3 (congedi per giuvenils)[^362-3]</td></tr>
+<tr><td>[tab] artitgel 329*f*:</td><td>[tab] (congedi da maternitad)[^362-4]</td></tr>
+<tr><td>[tab] artitgel 329*g*:</td><td>[tab] (congedi da paternitad)[^362-5]</td></tr>
+<tr><td>[tab] artitgel 329*h*:</td><td>[tab] (congedi per l’assistenza da confamigliars)[^362-6]</td></tr>
+<tr><td>[tab] artitgel 329*i*:</td><td>[tab] (congedi per tgirar in uffant cun grevs problems da la sanadad pervia da malsogna u d’accident)[^362-7]</td></tr>
+<tr><td>[tab] artitgel 330:</td><td>[tab] alineas 1, 3 e 4 (cauziun)</td></tr>
+<tr><td>[tab] artitgel 330*a*:</td><td>[tab] (attestat)</td></tr>
+<tr><td>[tab] artitgel 331:</td><td>[tab] alineas 3 e 4 (contribuziun ed obligaziun da dar infurmaziuns en connex cun la prevenziun dal persunal)</td></tr>
+<tr><td>[tab] artitgel 331*a*:</td><td>[tab] (cumenzament e fin da la prevenziun)[^362-8]</td></tr>
+<tr><td>[tab] ...[^362-9]</td><td>[tab]</td></tr>
+<tr><td>[tab] artitgel 332:</td><td>[tab] alinea 4 (indemnisaziun en cas d’invenziuns)</td></tr>
+<tr><td>[tab] artitgel 333:</td><td>[tab] alinea 3 (responsabladad en cas d’in transferiment da la relaziun da lavur)</td></tr>
+<tr><td>[tab] artitgel 335*c*:</td><td>[tab] alinea 3 (termins da disditga)[^362-10]</td></tr>
+<tr><td>[tab] artitgel 335*i*:</td><td>[tab] (obligaziun da manar tractativas per concluder in plan social)[^362-11]</td></tr>
+<tr><td>[tab] artitgel 335*j*:</td><td>[tab] (fixaziun dal plan social tras ina dretgira da cumpromiss)[^362-12]</td></tr>
+<tr><td>[tab] artitgel 336:</td><td>[tab] alinea 2 (disditga abusiva tras il patrun)</td></tr>
+<tr><td>[tab] artitgel 336*c*:</td><td>[tab] (disditga da temp maladattà tras il patrun)</td></tr>
+<tr><td>[tab] artitgel 337*a*:</td><td>[tab] (schliaziun immediata pervia d’insolvenza dal patrun)</td></tr>
+<tr><td>[tab] artitgel 337*c*:</td><td>[tab] alinea 1 (consequenzas en cas da relaschada nungiustifitgada)</td></tr>
+<tr><td>[tab] artitgel 338:</td><td>[tab] (mort dal lavurant)</td></tr>
+<tr><td>[tab] artitgel 338*a*:</td><td>[tab] (mort dal patrun)</td></tr>
+<tr><td>[tab] artitgel 339*b*:</td><td>[tab] (premissas da l’indemnisaziun da partenza)</td></tr>
+<tr><td>[tab] artitgel 339*d*:</td><td>[tab] (prestaziuns da cumpensaziun)</td></tr>
+<tr><td>[tab] artitgel 340:</td><td>[tab] alinea 1 (premissas dal scumond da concurrenza)</td></tr>
+<tr><td>[tab] artitgel 340*a*:</td><td>[tab] alinea 1 (restricziun dal scumond da concurrenza)</td></tr>
+<tr><td>[tab] artitgel 340*c*:</td><td>[tab] (scrudada dal scumond da concurrenza)</td></tr>
+<tr><td>[tab] artitgel 341:</td><td>[tab] alinea 1 (nunpussaivladad da renunziar a la surannaziun)</td></tr>
+<tr><td>[tab] artitgel 345*a*:</td><td>[tab] (obligaziuns dal patrun d’emprendissadi[^362-13])</td></tr>
+<tr><td>[tab] artitgel 346*a*:</td><td>[tab] (attestat d’emprendissadi)</td></tr>
+<tr><td>[tab] artitgel 349*a*:</td><td>[tab] alinea 1 (salari dal viagiatur da commerzi)</td></tr>
+<tr><td>[tab] artitgel 349*b*:</td><td>[tab] alinea 3 (pajament da la provisiun)</td></tr>
+<tr><td>[tab] artitgel 349*c*:</td><td>[tab] alinea 1 (salari en cas d’impediment da viagiar)</td></tr>
+<tr><td>[tab] artitgel 349*e*:</td><td>[tab] alinea 1 (dretg da retenziun dal viagiatur da commerzi)</td></tr>
+<tr><td>[tab] artitgel 350*a*:</td><td>[tab] alinea 1 (provisiun a la fin da la relaziun da lavur)</td></tr>
+<tr><td>[tab] artitgel 352*a*:</td><td>[tab] alinea 3 (responsabladad dal lavurant a chasa)</td></tr>
+<tr><td>[tab] artitgel 353:</td><td>[tab] (collaudaziun dal product)</td></tr>
+<tr><td>artitgel 353*a*:</td><td>(pajament dal salari)</td></tr>
+<tr><td>artitgel 353*b*:</td><td>alinea 1 (salari en cas d’impediment da lavurar).[^362-14]</td></tr>
+</table>
 
 <sup>2</sup> Cunvegnas e disposiziuns da contracts collectivs e da contracts normals da lavur che divergeschan da las prescripziuns numnadas qua survart a disfavur dal lavurant, èn nunvalaivlas.
 
-[^362-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
-[^362-2]: Versiun tenor la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-3]: Integrà tras la cifra 2 da l’agiunta da la LF dals 19 da zer. 1992 davart la protecziun da datas, en vigur dapi il 1. da fan. 1993 (AS **1993** 1954; [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
-[^362-4]: Integrà tras l’art. 13 da la LF dals 6 d’oct. 1989 davart la lavur cun giuvenils, en vigur dapi il 1. da schan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^362-5]: Integrà tras la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^362-1]: Versiun tenor la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-2]: Integrà tras la cifra 2 da l’agiunta da la LF dals 19 da zer. 1992 davart la protecziun da datas, en vigur dapi il 1. da fan. 1993 (AS **1993** 1954; [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^362-3]: Integrà tras l’art. 13 da la LF dals 6 d’oct. 1989 davart la lavur cun giuvenils, en vigur dapi il 1. da schan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
+[^362-4]: Integrà tras la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^362-5]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-6]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-7]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-7]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-8]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^362-9]: Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, cun effect dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^362-10]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-11]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^362-12]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^362-13]: Ussa: dal patrun.
+[^362-14]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Indeschavel titel: Il contract d’execuziun da lavurs
 
@@ -15274,7 +15303,7 @@ Sch’il debitur ha resalvà en il titel nominal il dretg da dastgar pajar a min
 
 [^part5-tit33-chap3-lvlC-lvlI-lvl1-1]
 
-[^part5-tit33-chap3-lvlC-lvlI-lvl1-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, en vigur dapi il 1. da schan. 2001 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^part5-tit33-chap3-lvlC-lvlI-lvl1-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, en vigur dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 #### Art. 981
 
@@ -15286,7 +15315,7 @@ Sch’il debitur ha resalvà en il titel nominal il dretg da dastgar pajar a min
 
 <sup>4</sup> Sch’il possessur dal titel ch’è munì cun in fegl da cupons u cun in talun per retrair tals cupons ha pers sulettamain quest fegl u quest talun, basti da preschentar il titel principal per giustifitgar la dumonda.
 
-[^981-1]: Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^981-1]: Abolì tras la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, cun effect dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### 2. Scumond da pajar
 

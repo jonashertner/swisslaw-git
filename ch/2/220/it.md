@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2021-05-01
+version: 2021-07-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210701/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 1° maggio 2021)
+del 30 marzo 1911 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -3594,7 +3594,7 @@ Il conduttore che intende domandare la protrazione della locazione deve presenta
 
 [^274274g-1]: Abrogati dall’all. 1 n. II 5 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Titolo ottavo<sup>bis</sup>: Dell’affitto
+### Titolo ottavo<sup>bis</sup>:**** Dell’affitto
 
 [^part2-tit8bis-1]
 
@@ -4081,7 +4081,7 @@ L’azione del mutuatario per la consegna del mutuo e quella del mutuante per l�
 
 Un mutuo la cui restituzione non sia stata pattuita entro un dato termine, né dietro un determinato preavviso, né al verificarsi della richiesta a gradimento del mutuante, deve restituirsi entro sei settimane dalla prima richiesta.
 
-### Titolo decimo: Del contratto di lavoro
+### Titolo decimo:**** Del contratto di lavoro
 
 [^part2-tit10-1]
 
@@ -4399,15 +4399,15 @@ Il datore di lavoro può trattare dati concernenti il lavoratore soltanto in qua
 [^328b-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^328b-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-### VIII. Tempo libero, vacanze, congedo per attività giovanili, congedo di maternità e congedo di paternità
-
 ### 1. Tempo libero
 
-[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]
+[^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]
 
-[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]: Nuovo testo giusta l’all. n. 1 della LF del 27 set. 2019, in vigore dal 1° gen. 2021 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 329
+
+VIII. Tempo libero, vacanze e congedo
 
 <sup>1</sup> Il datore di lavoro deve concedere al lavoratore un giorno di libero alla settimana, di regola la domenica o se le circostanze non lo permettono, un giorno feriale intero.
 
@@ -4445,14 +4445,15 @@ Il datore di lavoro può trattare dati concernenti il lavoratore soltanto in qua
 Il datore di lavoro non può neppure ridurre le vacanze:
 
 - a. di una lavoratrice che, causa gravidanza, è impedita di lavorare per due mesi al massimo;
-- b. di una lavoratrice che ha fruito di un congedo di maternità ai sensi dell’articolo 329f; o
-- c. di un lavoratore che ha fruito di un congedo di paternità ai sensi dell’articolo 329*g*.[^329b-3]
+- b. di una lavoratrice che ha fruito di un congedo di maternità ai sensi dell’articolo 329*f*;
+- c. di un lavoratore che ha fruito di un congedo di paternità ai sensi dell’articolo 329*g*; o
+- d. di un lavoratore o di una lavoratrice che ha fruito di un congedo di assistenza ai sensi dell’articolo 329*i*.[^329b-3]
 
 <sup>4</sup> Alle disposizioni dei capoversi 2 e 3 può essere derogato mediante contratto normale o collettivo di lavoro a condizione tuttavia che tale ordinamento costituisca, nell’insieme, una soluzione almeno equivalente per i lavoratori.[^329b-4]
 
 [^329b-1]: Nuovo testo giusta l’art. 117 della L del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° gen. 1984 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)[1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Nuovo testo giusta l’art. 13 della L del 6 ott. 1989 sulle attività giovanili, in vigore dal 1° gen. 1991 ([RU 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 641](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Nuovo testo giusta l’all. n. 1 della LF del 27 set. 2019, in vigore dal 1° gen. 2021 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^329b-3]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-4]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1984 ([RU 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [FF 1982 III 161](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
 ### c. Continuità e data
@@ -4498,9 +4499,12 @@ Il datore di lavoro non può neppure ridurre le vacanze:
 
 [^329f-1]
 
-Dopo il parto la lavoratrice ha diritto a un congedo di maternità di almeno 14 settimane.
+<sup>1</sup> Dopo il parto la lavoratrice ha diritto a un congedo di maternità di almeno 14 settimane.
+
+<sup>2</sup> In caso di degenza ospedaliera del neonato, il congedo di maternità è prolungato in misura equivalente al prolungamento della durata del versamento dell’indennità di maternità.[^329f-2]
 
 [^329f-1]: Introdotto dall’all. n. 1 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^329f-2]: Introdotto dal n. II della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 ### 5. Congedo di paternità
 
@@ -4508,13 +4512,13 @@ Dopo il parto la lavoratrice ha diritto a un congedo di maternità di almeno 14 
 
 [^329g-1]
 
-<sup>1</sup> In caso di paternità, il lavoratore ha diritto a un congedo di paternità di due settimane se è il padre legale al momento della nascita del fi-glio o lo diventa nei sei mesi seguenti.
+<sup>1</sup> In caso di paternità, il lavoratore ha diritto a un congedo di paternità di due settimane se è il padre legale al momento della nascita del figlio o lo diventa nei sei mesi seguenti.
 
 <sup>2</sup> Il congedo di paternità deve essere preso entro sei mesi dalla nascita del figlio.
 
 <sup>3</sup> Può essere preso in settimane o in giorni.
 
-[^329g-1]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329g-1]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 ### 6. Congedo di assistenza ai familiari
 
@@ -4524,7 +4528,26 @@ Dopo il parto la lavoratrice ha diritto a un congedo di maternità di almeno 14 
 
 Il lavoratore ha diritto a un congedo pagato per il tempo necessario all’assistenza a un familiare o al partner con problemi di salute; il congedo ammonta tuttavia al massimo a tre giorni per evento e dieci giorni all’anno.
 
-[^329h-1]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329h-1]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+
+### 7. Congedo di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio
+
+#### Art. 329i
+
+[^329i-1]
+
+<sup>1</sup> Il lavoratore che ha diritto a un’indennità di assistenza ai sensi degli articoli 16*n*–16*s* LIPG[^329i-2] a causa di gravi problemi di salute di suo figlio dovuti a malattia o infortunio ha diritto a un congedo di assistenza massimo di 14 settimane.
+
+<sup>2</sup> Il congedo di assistenza deve essere preso entro un termine quadro di 18 mesi. Il termine quadro decorre dal giorno per il quale è versata la prima indennità giornaliera.
+
+<sup>3</sup> Se entrambi i genitori esercitano un’attività lucrativa, ognuno di loro ha diritto a un congedo di assistenza massimo di sette settimane. Possono concordare una ripartizione diversa del congedo.
+
+<sup>4</sup> Il congedo può essere preso in una sola volta o in singoli giorni.
+
+<sup>5</sup> Il datore di lavoro deve essere informato senza indugio delle modalità di fruizione del congedo e di eventuali modifiche.
+
+[^329i-1]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329i-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ### IX. Altri obblighi
 
@@ -5046,6 +5069,8 @@ Dopo il tempo di prova, il datore di lavoro non può disdire il rapporto di lavo
 - a.[^336c-2] allorquando il lavoratore presta servizio obbligatorio svizzero, militare o di protezione civile, oppure servizio civile svizzero e, in quanto il servizio duri più di 11[^336c-3] giorni, nelle quattro settimane precedenti e seguenti;
 - b. allorquando il lavoratore è impedito di lavorare, in tutto o in parte, a causa di malattia o infortunio non imputabili a sua colpa, per 30 giorni nel primo anno di servizio, per 90 giorni dal secondo anno di servizio sino al quinto compreso e per 180 giorni dal sesto anno di servizio;
 - c. durante la gravidanza e nelle 16 settimane dopo il parto della lavoratrice;
+- [tab] c.<sup>bis</sup> [^336c-4] prima del termine del congedo di maternità prolungato conformemente all’articolo 329*f* capoverso 2;
+- [tab] c.<sup>ter</sup> [^336c-5] finché sussiste il diritto al congedo di assistenza di cui all’articolo 329*i*, ma al massimo per sei mesi a decorrere dall’inizio del termine quadro;
 - d. allorquando, con il suo consenso, il lavoratore partecipa a un servizio, ordinato dall’autorità federale competente, nell’ambito dell’aiuto all’estero.
 
 <sup>2</sup> La disdetta data durante uno dei periodi stabiliti nel capoverso 1 è nulla; se, invece, è data prima, il termine che non sia ancora giunto a scadenza all’inizio del periodo è sospeso e riprende a decorrere soltanto dopo la fine del periodo.
@@ -5055,6 +5080,8 @@ Dopo il tempo di prova, il datore di lavoro non può disdire il rapporto di lavo
 [^336c-1]: Nuovo testo giusta il n. I della LF del 18 mar. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Nuovo testo giusta l’all. n. 3 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^336c-4]: Introdotta dal n. II della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^336c-5]: Originaria lett. c.<sup>bis</sup> . Introdotta dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 ### b. da parte del lavoratore
 
@@ -5272,7 +5299,7 @@ Sono riservate:
 
 ### Capo secondo: Dei contratti individuali speciali di lavoro
 
-### A. Del contratto di tirocinio
+### A.**** Del contratto di tirocinio
 
 [^part2-tit10-chap2-lvlA-1]
 
@@ -5774,7 +5801,7 @@ Se stabilisce un contratto normale di lavoro in applicazione dell’articolo 360
 
 #### Art. 361
 
-<sup>1</sup> Alle disposizioni seguenti non può essere derogato a svantaggio del datore di lavoro o del lavoratore mediante accordo, contratto normale o contratto collettivo di lavoro:
+<sup>1</sup> Alle disposizioni seguenti non può essere derogato a svantaggio del lavoratore mediante accordo, contratto normale o contratto collettivo di lavoro:[^361-1]
 
 articolo 321*c* capoverso 1 (lavoro straordinario);
 
@@ -5788,19 +5815,25 @@ articolo 326 capoverso 2 (affidamento di lavoro);
 
 articolo 329*d* capoversi 2 e 3 (salario relativo alle vacanze);
 
+articolo 329*g* (congedo di paternità); [^361-2]
+
+articolo 329*h* (congedo di assistenza ai familiari);[^361-3]
+
 articolo 331 capoversi 1 e 2 (devoluzioni a scopo di previdenza a favore del personale);
 
 articolo 331*b* (cessione e costituzione in pegno di crediti in prestazioni di previdenza);
 
-...[^361-1]
+...[^361-4]
 
 articolo 334 capoverso 3 (disdetta del rapporto di lavoro dilunga durata);
 
 articolo 335 (disdetta del rapporto di lavoro);
 
+articolo 335*c* capoverso 3 (termini di disdetta);[^361-5]
+
 articolo 335*i* (obbligo di negoziazione)
 
-articolo 335*k* (piano sociale durante un fallimento o una procedura concordataria);[^361-2]
+articolo 335*k* (piano sociale durante un fallimento o una procedura concordataria);[^361-6]
 
 articolo 336 capoverso 1 (disdetta abusiva);
 
@@ -5824,7 +5857,7 @@ articolo 340*b* capoversi 1 e 2 (effetti della contravvenzione al divieto di con
 
 articolo 342 capoverso 2 (effetti di diritto civile del diritto pubblico);
 
-...[^361-3]
+...[^361-7]
 
 articolo 346 (disdetta anticipata del rapporto di tirocinio);
 
@@ -5832,20 +5865,24 @@ articolo 349*c* capoverso 3 (impedimento di viaggiare);
 
 articolo 350 (caso speciale di disdetta);
 
-articolo 350*a* capoverso 2 (obbligo di restituzione).[^361-4]
+articolo 350*a* capoverso 2 (obbligo di restituzione).[^361-8]
 
 <sup>2</sup> Sono nulli gli accordi e le clausole di contratti normali e contratti collettivi di lavoro deroganti alle disposizioni surriferite a svantaggio del datore di lavoro o del lavoratore.
 
-[^361-1]: Abrogato dall’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, con effetto dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^361-2]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^361-3]: Rinvio stralciato giusta l’all. n. 5 della LF del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** III 2427).
-[^361-4]: Nuovo testo giusta il n. I della LF del 18 mar 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^361-1]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^361-2]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^361-3]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^361-4]: Abrogato dall’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, con effetto dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^361-5]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^361-6]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^361-7]: Rinvio stralciato giusta l’all. n. 5 della LF del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** III 2427).
+[^361-8]: Nuovo testo giusta il n. I della LF del 18 mar 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### B. Disposizioni inderogabili a svantaggio del lavoratore
 
 #### Art. 362
 
-<sup>1</sup> Alle disposizioni seguenti non può essere derogato a svantaggio del lavoratore mediante accordo, contratto normale o contratto collettivo di lavoro:[^362-1]
+<sup>1</sup> Alle disposizioni seguenti non può essere derogato a svantaggio del lavoratore mediante accordo, contratto normale o contratto collettivo di lavoro:
 
 articolo 321*e* (responsabilità del lavoratore);
 
@@ -5877,7 +5914,7 @@ articolo 328 (protezione della personalità del lavoratore in generale);
 
 articolo 328*a* (protezione della personalità del lavoratore in caso di comunione domestica);
 
-articolo 328*b* (protezione della personalità nel trattamento di dati personali);[^362-2]
+articolo 328*b* (protezione della personalità nel trattamento di dati personali);[^362-1]
 
 articolo 329 capoversi 1, 2 e 3 (tempo libero);
 
@@ -5889,13 +5926,15 @@ articolo 329*c* (continuità e data delle vacanze);
 
 articolo 329*d* capoverso 1 (salario relativo alle vacanze);
 
-articolo 329*e* capoversi 1 e 3 (congedo giovanile);[^362-3]
+articolo 329*e* capoversi 1 e 3 (congedo giovanile);[^362-2]
 
-articolo 329*f* (congedo di maternità);[^362-4]
+articolo 329*f* (congedo di maternità);[^362-3]
 
-articolo 329*g* (congedo di paternità);[^362-5]
+articolo 329*g* (congedo di paternità);[^362-4]
 
-articolo 329*h* (congedo di assistenza ai familiari);[^362-6]
+articolo 329*h* (congedo di assistenza ai famigliari);[^362-5]
+
+articolo 329*i* (congedo di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio);[^362-6]
 
 articolo 330 capoversi 1, 3 e 4 (cauzione);
 
@@ -5965,12 +6004,12 @@ articolo 353*b* capoverso 1 (salario in caso di impedimento al lavoro).[^362-13]
 
 <sup>2</sup> Sono nulli gli accordi e le clausole di contratti normali e contratti collettivi di lavoro deroganti alle disposizioni surriferite a svantaggio del lavoratore.
 
-[^362-1]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-2]: Introdotto dall’all. n. 2 della LF del 19 giu. 1993 sulla protezione dei dati, in vigore dal 1° lug. 1993 ([RU 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945), [FF 1988 II 353](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
-[^362-3]: Nuovo testo giusta l’art. 13 della L del 6 ott. 1989 sulle attività giovanili, in vigore dal 1° gen. 1991 ([RU 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 641](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^362-4]: Introdotto dall’all. n. 1 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^362-5]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-6]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-1]: Introdotto dall’all. n. 2 della LF del 19 giu. 1993 sulla protezione dei dati, in vigore dal 1° lug. 1993 ([RU 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945), [FF 1988 II 353](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^362-2]: Nuovo testo giusta l’art. 13 della L del 6 ott. 1989 sulle attività giovanili, in vigore dal 1° gen. 1991 ([RU 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 641](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
+[^362-3]: Introdotto dall’all. n. 1 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^362-4]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-5]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-6]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-7]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^362-8]: Abrogato dall’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, con effetto dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^362-9]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
@@ -8157,7 +8196,7 @@ La società si scioglie:
 
 Lo scioglimento della società non altera le obbligazioni assunte verso i terzi.
 
-## Parte terza: Delle società commerciali e della società cooperativa
+## Parte terza: Delle società commerciali e della società cooperativa****
 
 [^part3-1]
 
@@ -8769,7 +8808,7 @@ Nel fallimento dell’accomandante non spetta né ai creditori della società n�
 
 [^619-1]: Nuovo testo del per. giusta l’all. n. 10 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Titolo ventesimosesto: Della società anonima
+### Titolo ventesimosesto: Della società anonima****
 
 [^part3-tit26-1]
 
@@ -10564,7 +10603,7 @@ Il diritto di voto nasce non appena sia versato sull’azione l’importo determ
 
 ### K. Obbligo di annunciare dell’azionista
 
-### I. Annuncio dell’avente economicamente diritto alle azioni
+### I. Annuncio dell’avente diritto economico delle azioni
 
 #### Art. 697j
 
@@ -10849,7 +10888,7 @@ Sono nulle in particolare le deliberazioni dell’assemblea generale che:
 
 [^706b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### B. Il consiglio d’amministrazione
+### B. Il consiglio d’amministrazione****
 
 [^part3-tit26-chap3-lvlB-1]
 
@@ -13961,7 +14000,7 @@ L’ingresso d’una società cooperativa in una federazione non può avere per 
 
 [^part4-1]: Nuovo testo giusta la LF del 18 dic. 1936, in vigore dal 1° lug. 1937 ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); FF **1931** 539, **1932** 201). Vedi le disp. fin. e trans. tit. XXIV–XXXIII, alla fine del presente Codice.
 
-### Titolo trentesimo: Del registro di commercio
+### Titolo trentesimo:**** Del registro di commercio
 
 [^part4-tit30-1]
 
@@ -17510,7 +17549,7 @@ Negli articoli 1 e 13 della legge federale del 30 settembre 1943[^u2-2-1] sulla 
 
 Il Consiglio federale stabilisce il giorno in cui la presente legge entra in vigore.
 
-## Disposizioni transitorie della modifica del 16 dicembre 2005****
+## Disposizioni transitorie della modifica del 16 dicembre 2005
 
 [^u3-1]
 
@@ -17604,7 +17643,7 @@ Il diritto esclusivo di valersi delle ditte iscritte nel registro di commercio p
 
 [^u3-11-1]: [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)
 
-## Disposizione transitoria della modifica del 17 giugno 2011****
+## Disposizione transitoria della modifica del 17 giugno 2011
 
 [^u4-1]
 
@@ -17612,7 +17651,7 @@ Il diritto esclusivo di valersi delle ditte iscritte nel registro di commercio p
 
 Le disposizioni della presente modifica si applicano a partire dal primo esercizio che comincia con l’entrata in vigore della presente legge o successivamente.
 
-## Disposizione transitoria della modifica del 23 dicembre 2011****
+## Disposizione transitoria della modifica del 23 dicembre 2011
 
 [^u5-1]
 
@@ -17640,7 +17679,7 @@ Le disposizioni della presente modifica si applicano a partire dal primo eserciz
 
 <sup>4</sup> All’atto della prima applicazione delle disposizioni relative alla presentazione dei conti, l’impresa può rinunciare a indicare le cifre degli esercizi precedenti. All’atto della seconda applicazione vanno indicate soltanto le cifre dell’esercizio precedente. Qualora indichi le cifre degli esercizi anteriori, l’impresa può derogare al principio della continuità nella presentazione e nell’articolazione. Tale scelta va segnalata nell’allegato.
 
-## Disposizioni transitorie della modifica del 12 dicembre 2014****
+## Disposizioni transitorie della modifica del 12 dicembre 2014
 
 [^u6-1]
 
@@ -17672,7 +17711,7 @@ Le disposizioni della presente modifica si applicano a partire dal primo eserciz
 
 <sup>2</sup> Il termine di decadenza dei diritti patrimoniali (art. 697*m* cpv. 3) scade in questo caso sei mesi dopo l’entrata in vigore della modifica del 12 dicembre 2014.
 
-## Disposizioni transitorie della modifica del 25 settembre 2015****
+## Disposizioni transitorie della modifica del 25 settembre 2015
 
 [^u7-1]
 
@@ -17700,7 +17739,7 @@ Le società in nome collettivo, in accomandita o in accomandita per azioni iscri
 
 Il diritto esclusivo di usare la ditta di una società in nome collettivo, in accomandita o in accomandita per azioni iscritta nel registro di commercio prima dell’entrata in vigore della modifica del 25 settembre 2015 è retto dagli articoli 946 del diritto vigente e 951 del diritto anteriore.
 
-## Disposizioni transitorie della modifica del 17 marzo 2017****
+## Disposizioni transitorie della modifica del 17 marzo 2017
 
 [^u8-1]
 
@@ -17722,7 +17761,7 @@ Il diritto esclusivo di usare la ditta di una società in nome collettivo, in ac
 
 Gli istituti di diritto pubblico costituiti prima dell’entrata in vigore del nuovo diritto e che esercitano principalmente un’attività economica privata devono farsi iscrivere nel registro di commercio entro due anni.
 
-## Disposizioni transitorie della modifica del 21 giugno 2019****
+## Disposizioni transitorie della modifica del 21 giugno 2019
 
 [^u9-1]
 
@@ -17805,7 +17844,7 @@ Gli articoli 4–8 si applicano a società che non hanno titoli di partecipazion
 
 <sup>2</sup> Gli azionisti le cui azioni sono state annullate per motivi a loro non imputabili possono, entro dieci anni dall’annullamento delle azioni, far valere nei confronti della società un diritto a un’indennità, purché siano in grado di dimostrare la loro qualità di azionisti al momento dell’annullamento delle azioni. L’indennità corrisponde al valore reale delle azioni al momento della loro conversione secondo l’articolo 4. Se al momento in cui è fatto valere il diritto all’indennità il valore reale delle azioni è inferiore rispetto al loro valore reale al momento della conversione, la società deve agli azionisti questo valore più basso. Il versamento di un’indennità è escluso se la società non dispone del capitale proprio disponibile necessario.
 
-## Disposizioni transitorie della modifica del 17 marzo 2017****
+## Disposizioni transitorie della modifica del 17 marzo 2017
 
 [^u10-1]
 
@@ -17827,7 +17866,7 @@ Gli articoli 4–8 si applicano a società che non hanno titoli di partecipazion
 
 Gli istituti di diritto pubblico costituiti prima dell’entrata in vigore del nuovo diritto e che esercitano principalmente un’attività economica privata devono farsi iscrivere nel registro di commercio entro due anni.
 
-## Disposizioni transitorie della modifica del 19 giugno 2020****
+## Disposizioni transitorie della modifica del 19 giugno 2020
 
 [^u11-1]
 
@@ -17863,7 +17902,7 @@ Gli istituti di diritto pubblico costituiti prima dell’entrata in vigore del n
 
 Gli articoli 964*a*–964*e* si applicano a decorrere dall’esercizio che ha inizio un anno dopo l’entrata in vigore della nuova legge.
 
-## Disposizioni finali dei titoli VIII e VIII<sup>bis</sup> ****
+## Disposizioni finali dei titoli VIII e VIII<sup>bis</sup>
 
 [^u12-1]
 
@@ -17896,7 +17935,7 @@ La legge federale del 4 ottobre 1985[^u12-24-1] sull’affitto agricolo è modif
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-## Disposizioni finali e transitorie del titolo X****
+## Disposizioni finali e transitorie del titolo X
 
 [^u13-1]
 
@@ -17991,7 +18030,7 @@ All’entrata in vigore della presente legge sono abrogati:
 
 Il Consiglio federale fissa la data dell’entrata in vigore della presente legge.
 
-## Disposizioni finali del capo quarto del titolo XIII****
+## Disposizioni finali del capo quarto del titolo XIII
 
 [^u14-1]
 
@@ -18021,7 +18060,7 @@ Il Consiglio federale fissa la data dell’entrata in vigore della presente legg
 
 Il Consiglio federale fissa la data dell’entrata in vigore della presente legge.
 
-## Disposizioni transitorie del titolo XX****
+## Disposizioni transitorie del titolo XX
 
 [^u15-1]
 
@@ -18045,7 +18084,7 @@ Il Consiglio federale fissa la data dell’entrata in vigore della presente legg
 [^u15-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^u15-3]: Nuovo testo giusta l’all. n. 2 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
-## Disposizioni finali e transitorie dei titoli XXIV a XXXIII****
+## Disposizioni finali e transitorie dei titoli XXIV a XXXIII
 
 [^u16-1]
 
@@ -18227,7 +18266,7 @@ Con l’attuazione della presente legge rimangono abrogate le disposizioni del d
 
 [^u16-19-1]: Questo capo è stato messo in vigore nel testo del 1° apr. 1949. Per il testo originario vedi [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
-## Disposizioni finali del titolo XXVI****
+## Disposizioni finali del titolo XXVI
 
 [^u17-1]
 
@@ -18307,7 +18346,7 @@ La presente legge sottostà al referendum facoltativo.
 
 Il Consiglio federale determina l’entrata in vigore.
 
-## Disposizioni finali del capo secondo del titolo XXXIV****
+## Disposizioni finali del capo secondo del titolo XXXIV
 
 [^u18-1]
 

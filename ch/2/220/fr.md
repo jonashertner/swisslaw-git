@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2021-05-01
+version: 2021-07-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (Etat le 1<sup>er</sup> mai 2021)
+du 30 mars 1911 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -4408,15 +4408,15 @@ L’employeur ne peut traiter des données concernant le travailleur que dans la
 [^328b-1]: Introduit par l’annexe ch. 2 de la LF du 19 juin 1992 sur la protection des données, en vigueur depuis le 1<sup>er</sup> juil. 1993 ([RO 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [FF 1988 II 421](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-### 1. Congé
+### 1. Congés hebdomadaire et usuels
 
 [^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]
 
-[^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 3309](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3743](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^part2-tit10-chap1-lvlC-lvlVII-lvl1-1]: Nouvelle teneur selon le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 329
 
-VIII. Congé hebdomadaire, vacances, congé pour les activités de jeunesse, congé de maternité et congé de paternité
+VIII. Congés et vacances
 
 <sup>1</sup> L’employeur accorde au travailleur un jour de congé par semaine, en règle générale le dimanche ou, si les circonstances ne le permettent pas, un jour ouvrable entier.
 
@@ -4451,17 +4451,18 @@ VIII. Congé hebdomadaire, vacances, congé pour les activités de jeunesse, con
 
 <sup>3</sup>
 
-L’employeur ne peut pas non plus diminuer les vacances si:
+L’employeur ne peut pas réduire la durée des vacances si:
 
 - a. une travailleuse, en raison d’une grossesse, est empêchée de travailler pendant deux mois au plus;
-- b. une travailleuse a pris un congé de maternité au sens de l’art. 329*f*, ou
-- c. un travailleur a pris un congé de paternité au sens de l’art. 329*g*.[^329b-3]
+- b. une travailleuse a pris un congé de maternité au sens de l’art. 329*f*;
+- c. un travailleur a pris un congé de paternité au sens de l’art. 329*g*, ou
+- d. un travailleur a bénéficié d’un congé de prise en charge au sens de l’art. 329*i*.[^329b-3]
 
 <sup>4</sup> Un contrat-type de travail ou une convention collective peut déroger aux al. 2 et 3, à la condition d’offrir, dans l’ensemble, une réglementation au moins équivalente pour les travailleurs.[^329b-4]
 
 [^329b-1]: Nouvelle teneur selon l’art. 117 de la LF du 25 juin 1982 sur l’assurance-chômage, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [FF 1980 III 485](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Nouvelle teneur selon l’art. 13 de la LF du 6 oct. 1989 sur les activités de jeunesse, en vigueur depuis le 1<sup>er</sup> janv. 1991 ([RO 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 777](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 3309](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3743](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^329b-3]: Nouvelle teneur selon le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-4]: Introduit par le ch. I de la LF du 16 déc. 1983, en vigueur depuis le 1<sup>er</sup> juil. 1984 ([RO 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [FF 1982 III 177](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
 ### c. Continuité et date
@@ -4492,7 +4493,7 @@ L’employeur ne peut pas non plus diminuer les vacances si:
 
 <sup>1</sup> Chaque année de service, l’employeur accorde au travailleur jusqu’à l’âge de 30 ans révolus un congé-jeunesse représentant au plus et en tout une semaine de travail, lorsque ce dernier se livre bénévolement à des activités de jeunesse extra-scolaires pour le compte d’une organisation du domaine culturel ou social, en y exerçant des fonctions de direction, d’encadrement ou de conseil, ou qu’il suit la formation et la formation continue nécessaires à l’exercice de ces activités.[^329e-2]
 
-<sup>2</sup> Le travailleur n’a pas droit a un salaire pendant le congé-jeunesse. Un accord, un contrat-type de travail ou une convention collective peuvent déroger à cette règle, au profit du travailleur.
+<sup>2</sup> Le travailleur n’a pas droit à un salaire pendant le congé-jeunesse. Un accord, un contrat-type de travail ou une convention collective peuvent déroger à cette règle, au profit du travailleur.
 
 <sup>3</sup> L’employeur et le travailleur conviennent des dates et de la durée du congé-jeunesse en tenant compte des intérêts de chacun. S’ils ne peuvent se mettre d’accord, le congé-jeunesse sera accordé à condition que le travailleur ait annoncé à l’employeur son intention de faire valoir son droit deux mois avant le début du congé. Les jours du congé-jeunesse que le travailleur n’a pas pris à la fin de l’année civile ne peuvent être reportés sur l’année suivante.
 
@@ -4507,9 +4508,12 @@ L’employeur ne peut pas non plus diminuer les vacances si:
 
 [^329f-1]
 
-En cas de maternité, la travailleuse a droit, après l’accouchement, à un congé d’au moins 14 semaines.
+<sup>1</sup> En cas de maternité, la travailleuse a droit, après l’accouchement, à un congé d’au moins 14 semaines.
+
+<sup>2</sup> En cas d’hospitalisation du nouveau-né, le congé est prolongé d’une durée équivalente à la prolongation de la durée du versement de l’allocation de maternité.[^329f-2]
 
 [^329f-1]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^329f-2]: Introduit par le ch. II de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 ### 5. Congé de paternité
 
@@ -4534,6 +4538,25 @@ En cas de maternité, la travailleuse a droit, après l’accouchement, à un co
 Le travailleur a droit à un congé payé pour la prise en charge d’un membre de la famille ou du partenaire atteint dans sa santé; le congé est limité au temps nécessaire à la prise en charge, mais ne doit pas dépasser trois jours par cas et dix jours par an au total.
 
 [^329h-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+
+### 7. Congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
+
+#### Art. 329i
+
+[^329i-1]
+
+<sup>1</sup> Si le travailleur a droit à une allocation de prise en charge au sens des art. 16*n* à 16*s* LAPG[^329i-2] parce que son enfant est gravement atteint dans sa santé en raison d’une maladie ou d’un accident, il a droit à un congé de prise en charge de quatorze semaines au plus.
+
+<sup>2</sup> Le congé de prise en charge doit être pris dans un délai-cadre de 18 mois. Le délai-cadre commence à courir le jour pour lequel la première indemnité journalière est versée.
+
+<sup>3</sup> Si les deux parents travaillent, chacun a droit à un congé de prise en charge de sept semaines au plus. Ils peuvent convenir de se partager le congé de manière différente.
+
+<sup>4</sup> Le congé peut être pris en une fois ou sous la forme de journées.
+
+<sup>5</sup> L’employeur est informé sans délai des modalités selon lesquelles le congé est pris et de tout changement.
+
+[^329i-1]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329i-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ### IX. Autres obligations
 
@@ -5060,16 +5083,20 @@ Après le temps d’essai, l’employeur ne peut pas résilier le contrat:
 - a.[^336c-2] pendant que le travailleur accomplit un service obligatoire, militaire ou dans la protection civile, ou un service civil, en vertu de la législation fédérale, ou encore pendant les quatre semaines qui précédent et qui suivent ce service pour autant qu’il ait duré plus de onze[^336c-3] jours;
 - b. pendant une incapacité de travail totale ou partielle résultant d’une maladie ou d’un accident non imputables à la faute du travailleur, et cela, durant 30 jours au cours de la première année de service, durant 90 jours de la deuxième à la cinquième année de service et durant 180 jours à partir de la sixième année de service;
 - c. pendant la grossesse et au cours des seize semaines qui suivent l’accouchement;
+- c<sup>bis</sup>.[^336c-4] avant le terme du congé de maternité prolongé conformément à l’art. 329*f*, al. 2;
+- c<sup>ter</sup>.[^336c-5] tant que dure le droit au congé de prise en charge visé à l’art. 329*i*, pour une période maximale de six mois à compter du jour où le délai-cadre commence à courir;
 - d. pendant que le travailleur participe, avec l’accord de l’employeur, à un service d’aide à l’étranger ordonné par l’autorité fédérale.
 
-<sup>2</sup> Le congé donné pendant une des périodes prévues à l’alinéa précédent est nul; si le congé a été donné avant l’une de ces périodes et si le délai de congé n’a pas expiré avant cette période[^336c-4], ce délai est suspendu et ne continue à courir qu’après la fin de la période.
+<sup>2</sup> Le congé donné pendant une des périodes prévues à l’alinéa précédent est nul; si le congé a été donné avant l’une de ces périodes et si le délai de congé n’a pas expiré avant cette période[^336c-6], ce délai est suspendu et ne continue à courir qu’après la fin de la période.
 
 <sup>3</sup> Lorsque les rapports de travail doivent cesser à un terme, tel que la fin d’un mois ou d’une semaine de travail, et que ce terme ne coïncide pas avec la fin du délai de congé qui a recommencé à courir, ce délai est prolongé jusqu’au prochain terme.
 
 [^336c-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 574](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^336c-3]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^336c-4]: Rectifié par la Commission de rédaction le 10 nov. 1988.
+[^336c-4]: Introduite par le ch. II de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^336c-5]: Anciennement let. c<sup>bis</sup>. Introduite par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-6]: Rectifié par la Commission de rédaction le 10 nov. 1988.
 
 ### b. Par le travailleur
 
@@ -5864,16 +5891,17 @@ Il ne peut pas être dérogé aux dispositions ci-après par accord, contrat-typ
 - art. 329*f*, (congé de maternité);[^362-4]
 - art. 329*g,* (congé de paternité);[^362-5]
 - art. 329*h,* (congé pour la prise en charge de proches);[^362-6]
+- art. 329*i*, (congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident);[^362-7]
 - art. 330, al. 1, 3 et 4 (sûreté);
 - art. 330*a*, (certificat);
 - art. 331, al. 3 et 4 (contributions et renseignements en matière de prévoyance en faveur du personnel);
-- art. 331*a*, (début et fin de la prévoyance);[^362-7]
-- [tab] ...[^362-8]
+- art. 331*a*, (début et fin de la prévoyance);[^362-8]
+- [tab] ...[^362-9]
 - art. 332, al. 4 (rétribution en cas d’invention);
 - art. 333, al. 3 (responsabilité en cas de transfert des rapports de travail);
-- art. 335*c*, al. 3 (délai de congé);[^362-9]
-- art. 335*i*, (obligation de négocier);[^362-10]
-- art. 335*j*, (plan social établi par sentence arbitrale);[^362-11]
+- art. 335*c*, al. 3 (délai de congé);[^362-10]
+- art. 335*i*, (obligation de négocier);[^362-11]
+- art. 335*j*, (plan social établi par sentence arbitrale);[^362-12]
 - art. 336, al. 2 (résiliation abusive de la part de l’employeur);
 - art. 336*c*, (résiliation en temps inopportun par l’employeur);
 - art. 337*a,* (résiliation immédiate pour cause d’insolvabilité de l’employeur);
@@ -5886,7 +5914,7 @@ Il ne peut pas être dérogé aux dispositions ci-après par accord, contrat-typ
 - art. 340*a*, al. 1 (limitations de la prohibition de faire concurrence);
 - art. 340*c*, (fin de la prohibition de faire concurrence);
 - art. 341, al. 1 (impossibilité de renoncer);
-- art. 345*a*, (obligations du maître d’apprentissage[^362-12]);
+- art. 345*a*, (obligations du maître d’apprentissage[^362-13]);
 - art. 346*a,* (certificat d’apprentissage);
 - art. 349*a*, al. 1 (salaire du voyageur de commerce);
 - art. 349*b*, al. 3 (paiement de la provision);
@@ -5896,7 +5924,7 @@ Il ne peut pas être dérogé aux dispositions ci-après par accord, contrat-typ
 - art. 352*a*, al. 3 (responsabilité du travailleur à domicile);
 - art. 353, (acceptation du produit du travail);
 - art. 353*a*, (paiement du salaire);
-- art. 353*b*, al. 1 (paiement du salaire en cas d’empêchement de travailler).[^362-13]
+- art. 353*b*, al. 1 (paiement du salaire en cas d’empêchement de travailler).[^362-14]
 
 <sup>2</sup> Les accords et les dispositions de contrats-types de travail et de conventions collectives qui dérogent aux dispositions susdites au détriment du travailleur, sont nuls.
 
@@ -5906,13 +5934,14 @@ Il ne peut pas être dérogé aux dispositions ci-après par accord, contrat-typ
 [^362-4]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^362-5]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-6]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-7]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-8]: Abrogé par l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-9]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-10]: Introduit par l’annexe de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-7]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-8]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-9]: Abrogé par l’annexe ch. 2 de la LF du 17 déc. 1993 sur le libre passage, avec effet au 1<sup>er</sup> janv. 1995 ([RO 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 529](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-10]: Introduit par le ch. II 1 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-11]: Introduit par l’annexe de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-12]: Actuellement: de l’employeur.
-[^362-13]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 574](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-12]: Introduit par l’annexe de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5871](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-13]: Actuellement: de l’employeur.
+[^362-14]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1988, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 574](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Titre onzième: Du contrat d’entreprise
 

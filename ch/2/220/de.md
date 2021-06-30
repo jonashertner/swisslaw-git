@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2021-05-01
+version: 2021-07-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210501/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210701/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Mai 2021)
+vom 30. März 1911 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -443,7 +443,7 @@ Die nachfolgenden Bestimmungen sind auf Verträge über bewegliche Sachen und Di
 <sup>3</sup> Bei wesentlicher Veränderung der Kaufkraft des Geldes passt der Bundesrat den in Absatz 1 Buchstabe b genannten Betrag entsprechend an.
 
 [^40a-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 1990, in Kraft seit 1. Juli 1991 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)).
-[^40a-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^40a-2]: SR **9****50.1**
 [^40a-3]: Fassung gemäss Anhang Ziff. 1 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### II. Grundsatz
@@ -516,7 +516,7 @@ Die Widerrufsfrist beträgt 14 Tage und beginnt, sobald der Kunde:[^40e-3]
 [^40e-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 1990 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Fassung gemäss Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1994 ([AS 1993 3120](https://fedlex.data.admin.ch/eli/oc/1993/3120_3120_3120); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^40e-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Revision des Widerrufsrechts), in Kraft seit 1. Jan. 2016 ([AS 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [BBl 2014 921](https://fedlex.data.admin.ch/eli/fga/2014/139)[2993](https://fedlex.data.admin.ch/eli/fga/2014/549)).
 [^40e-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Revision des Widerrufsrechts), in Kraft seit 1. Jan. 2016 ([AS 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [BBl 2014 921](https://fedlex.data.admin.ch/eli/fga/2014/139)[2993](https://fedlex.data.admin.ch/eli/fga/2014/549)).
-[^40e-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Revision des Widerrufsrechts), in Kraft seit 1. Jan. 2016 ([AS 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [BBl 2014 921](https://fedlex.data.admin.ch/eli/fga/2014/139)[2993](https://fedlex.data.admin.ch/eli/fga/2014/549)).
+[^40e-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015 (Revision des Widerrufsrechts), in Kraft seit 1. Jan. 2016 ([AS 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); BBl **2****014** 921 2993).
 
 ### 2. Folgen
 
@@ -538,7 +538,7 @@ Die Widerrufsfrist beträgt 14 Tage und beginnt, sobald der Kunde:[^40e-3]
 
 [^40g-1]
 
-[^40g-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 1990 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^40g-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 1990 ([AS 1991 846](https://fedlex.data.admin.ch/eli/oc/1991/846_846_846); [BBl 1986 II 354](https://fedlex.data.admin.ch/eli/fga/1986/2_354_360_231)). Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### Zweiter Abschnitt: Die Entstehung durch unerlaubte Handlungen
 
@@ -740,7 +740,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 <sup>3</sup> Der Bundesrat umschreibt die Sicherheitsvorkehrungen im Sinne von Absatz 2.
 
-[^59a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Dez. 2003 über die elektronische Signatur ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)). Fassung gemäss Anhang Ziff. II 4 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^59a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Dez. 2003 über die elektronische Signatur (AS **2****004** 5085; [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)). Fassung gemäss Anhang Ziff. II 4 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^59a-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 ### G. Verjährung
@@ -1071,7 +1071,7 @@ Der Gläubiger kommt in Verzug, wenn er die Annahme der gehörig angebotenen Lei
 
 <sup>2</sup> Den Ort der Hinterlegung hat der Richter zu bestimmen, jedoch können Waren auch ohne richterliche Bestimmung in einem Lagerhause hinterlegt werden.[^92-1]
 
-[^92-1]: Fassung gemäss Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^92-1]: Fassung gemäss Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### b. Recht zum Verkauf
 
@@ -1579,7 +1579,7 @@ Durch das Bestehen eines Fahrnispfandrechtes wird die Verjährung einer Forderun
 
 <sup>4</sup> Der Verzicht durch den Schuldner kann dem Versicherer entgegengehalten werden und umgekehrt, sofern ein direktes Forderungsrecht gegenüber dem Versicherer besteht.[^141-3]
 
-[^141-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^141-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 (AS **2****018** 5343; [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^141-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^141-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
@@ -1775,7 +1775,7 @@ Wird eine Bedingung in der Absicht beigefügt, eine widerrechtliche oder unsittl
 
 <sup>2</sup> *...*[^162-1]
 
-[^162-1]: Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^162-1]: Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 ### II. Höhe, Ungültigkeit und Herabsetzung der Strafe
 
@@ -2487,7 +2487,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [^226-1]
 
-[^226-1]: Aufgehoben durch Ziff. I des BG vom 23. März 1962, mit Wirkung seit 1. Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)).
+[^226-1]: Aufgehoben durch Ziff. I des BG vom 23. März 1962, mit Wirkung seit 1. Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); BBl **19****60** I 523).
 
 ### C. *...*
 
@@ -2495,7 +2495,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [^226a226d-1]
 
-[^226a226d-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226a226d-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226e
 
@@ -2507,19 +2507,19 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 **<sup>–</sup>**226***k*[^226f-1]**
 
-[^226f-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226f-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 226l
 
 [^226l-1]
 
-[^226l-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^226l-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 #### Art. 226m
 
 [^226m-1]
 
-[^226m-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962, in Kraft seit 1. Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^226m-1]: Eingefügt durch Ziff. I des BG vom 23. März 1962, in Kraft seit 1. Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)). Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
 #### Art. 227
 
@@ -2650,7 +2650,7 @@ Wird die eingetauschte Sache entwehrt oder wegen ihrer Mängel zurückgegeben, s
 <sup>3</sup> *...* [^240-2]
 
 [^240-1]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^240-2]: Aufgehoben durch Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^240-2]: Aufgehoben durch Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), mit Wirkung seit 1. Jan. 2013 (AS **20****11** 725; [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### II. Des Beschenkten
 
@@ -2768,7 +2768,7 @@ Bei dem Schenkungsversprechen kann der Schenker das Versprechen widerrufen und d
 
 Hat sich der Schenker zu wiederkehrenden Leistungen verpflichtet, so erlischt die Verbindlichkeit mit seinem Tode, sofern es nicht anders bestimmt ist.
 
-### Achter Titel:**** Die Miete
+### Achter Titel: Die Miete
 
 [^part2-tit8-1]
 
@@ -3552,7 +3552,7 @@ Will der Mieter eine Erstreckung des Mietverhältnisses verlangen, so muss er da
 <sup>5</sup> Weist die zuständige Behörde ein Begehren des Mieters betreffend Anfechtung der Kündigung ab, so prüft sie von Amtes wegen, ob das Mietverhältnis erstreckt werden kann.[^273-3]
 
 [^273-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^273-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^273-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); BBl **2****006** 7221).
 [^273-3]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### D. Wohnung der Familie
@@ -3591,7 +3591,7 @@ Will der Mieter eine Erstreckung des Mietverhältnisses verlangen, so muss er da
 
 [^274274g-1]: Aufgehoben durch Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Achter Titel<sup>bis</sup>:**** Die Pacht
+### Achter Titel<sup>bis</sup>: Die Pacht
 
 [^part2-tit8bis-1]
 
@@ -4078,7 +4078,7 @@ Der Anspruch des Borgers auf Aushändigung und der Anspruch des Darleihers auf A
 
 Ein Darlehen, für dessen Rückzahlung weder ein bestimmter Termin noch eine Kündigungsfrist noch der Verfall auf beliebige Aufforderung hin vereinbart wurde, ist innerhalb sechs Wochen von der ersten Aufforderung an zurückzubezahlen.
 
-### Zehnter Titel:**** Der Arbeitsvertrag
+### Zehnter Titel: Der Arbeitsvertrag
 
 [^part2-tit10-1]
 
@@ -4396,13 +4396,13 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 [^328b-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 1992 über den Datenschutz, in Kraft seit 1. Juli 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^328b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
-### VIII. Freizeit, Ferien, Urlaub für Jugendarbeit, Mutterschafts- und Vaterschaftsurlaub
+### VIII. Freizeit, Ferien und Urlaub
 
 ### 1. Freizeit
 
 [^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]
 
-[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^part2-tit10-chap1-lvlC-lvlVIII-lvl1-1]: Fassung gemäss Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 329
 
@@ -4442,14 +4442,15 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 Die Ferien dürfen vom Arbeitgeber auch nicht gekürzt werden, wenn:
 
 - a. eine Arbeitnehmerin wegen Schwangerschaft bis zu zwei Monate an der Arbeitsleistung verhindert ist;
-- b. eine Arbeitnehmerin einen Mutterschaftsurlaub nach Artikel 329*f* bezogen hat; oder
-- c. ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329*g* bezogen hat.[^329b-3]
+- b. eine Arbeitnehmerin einen Mutterschaftsurlaub nach Artikel 329*f* bezogen hat;
+- c. ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329*g* bezogen hat; oder
+- d. eine Arbeitnehmerin oder ein Arbeitnehmer einen Betreuungsurlaub nach Artikel 329*i* bezogen hat.[^329b-3]
 
 <sup>4</sup> Durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von den Absätzen 2 und 3 abweichende Regelung getroffen werden, wenn sie für den Arbeitnehmer im Ganzen mindestens gleichwertig ist.[^329b-4]
 
 [^329b-1]: Fassung gemäss Art. 117 des Arbeitslosenversicherungsgesetzes, in Kraft seit 1. Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Fassung gemäss Art. 13 des JFG vom 6. Okt. 1989, in Kraft seit 1. Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^329b-3]: Fassung gemäss Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329b-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1983, in Kraft seit 1. Juli 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
 ### c. Zusammenhang und Zeitpunkt
@@ -4494,9 +4495,12 @@ Die Ferien dürfen vom Arbeitgeber auch nicht gekürzt werden, wenn:
 
 [^329f-1]
 
-Nach der Niederkunft hat die Arbeitnehmerin Anspruch auf einen Mutterschaftsurlaub von mindestens 14 Wochen.
+<sup>1</sup> Nach der Niederkunft hat die Arbeitnehmerin Anspruch auf einen Mutterschaftsurlaub von mindestens 14 Wochen.
+
+<sup>2</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.[^329f-2]
 
 [^329f-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^329f-2]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
 ### 5. Vaterschaftsurlaub
 
@@ -4521,6 +4525,25 @@ Nach der Niederkunft hat die Arbeitnehmerin Anspruch auf einen Mutterschaftsurla
 Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für die Zeit, die zur Betreuung eines Familienmitglieds, der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung notwendig ist; der Urlaub beträgt jedoch höchstens drei Tage pro Ereignis und höchstens zehn Tage pro Jahr.
 
 [^329h-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+
+### 7. Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes
+
+#### Art. 329i
+
+[^329i-1]
+
+<sup>1</sup> Hat die Arbeitnehmerin oder der Arbeitnehmer Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16*n*–16*s* EOG[^329i-2], weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+
+<sup>3</sup> Sind beide Eltern Arbeitnehmende, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Sie können eine abweichende Aufteilung des Urlaubs wählen.
+
+<sup>4</sup> Der Urlaub kann am Stück oder tageweise bezogen werden.
+
+<sup>5</sup> Der Arbeitgeber ist über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
+
+[^329i-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ### IX. Übrige Pflichten
 
@@ -4587,7 +4610,7 @@ Wurde das Arbeitsverhältnis auf unbestimmte Zeit oder für mehr als einen Monat
 [^331-1]: Ausdruck gemäss Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^331-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207)1700; [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^331-3]: Ausdruck gemäss Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^331-4]: Eingefügt durch Ziff. II 2 des BG vom 18. Dez. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^331-4]: Eingefügt durch Ziff. II 2 des BG vom 18. Dez. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); [BBl 1998 V 5569](https://fedlex.data.admin.ch/eli/fga/1998/5_5569__)).
 
 ### II. Beginn und Ende des Vorsorgeschutzes
 
@@ -5052,6 +5075,8 @@ Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kün
 - a.[^336c-2] während die andere Partei schweizerischen obligatorischen Militär- oder Schutzdienst oder schweizerischen Zivildienst leistet, sowie, sofern die Dienstleistung mehr als elf[^336c-3] Tage dauert, während vier Wochen vorher und nachher;
 - b. während der Arbeitnehmer ohne eigenes Verschulden durch Krankheit oder durch Unfall ganz oder teilweise an der Arbeitsleistung verhindert ist, und zwar im ersten Dienstjahr während 30 Tagen, ab zweitem bis und mit fünftem Dienstjahr während 90 Tagen und ab sechstem Dienstjahr während 180 Tagen;
 - c. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft einer Arbeitnehmerin;
+- c<sup>bis</sup>.[^336c-4] vor dem Ende des verlängerten Mutterschaftsurlaubs nach Artikel 329*f* Absatz 2;
+- c<sup>ter</sup>.[^336c-5] solange der Anspruch auf Betreuungsurlaub nach Artikel 329*i* besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;
 - d. während der Arbeitnehmer mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundesbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
 
 <sup>2</sup> Die Kündigung, die während einer der in Absatz 1 festgesetzten Sperrfristen erklärt wird, ist nichtig; ist dagegen die Kündigung vor Beginn einer solchen Frist erfolgt, aber die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.
@@ -5061,6 +5086,8 @@ Nach Ablauf der Probezeit darf der Arbeitgeber das Arbeitsverhältnis nicht kün
 [^336c-1]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Fassung gemäss Anhang Ziff. 3 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^336c-4]: Eingefügt durch Ziff. II des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^336c-5]: Ursprünglich: Bst. c<sup>bis</sup>. Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 ### b. durch den Arbeitnehmer
 
@@ -5268,7 +5295,7 @@ Vorbehalten bleiben:
 
 <sup>2</sup> Wird durch Vorschriften des Bundes oder der Kantone über die Arbeit und die Berufsbildung dem Arbeitgeber oder dem Arbeitnehmer eine öffentlich-rechtliche Verpflichtung auferlegt, so steht der andern Vertragspartei ein zivilrechtlicher Anspruch auf Erfüllung zu, wenn die Verpflichtung Inhalt des Einzelarbeitsvertrages sein könnte.
 
-[^342-1]: Fassung gemäss Ziff. II 2 des BG vom 18. Dez. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^342-1]: Fassung gemäss Ziff. II 2 des BG vom 18. Dez. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); [BBl 1998 V 5569](https://fedlex.data.admin.ch/eli/fga/1998/5_5569__)).
 
 #### Art. 343
 
@@ -5278,7 +5305,7 @@ Vorbehalten bleiben:
 
 ### Zweiter Abschnitt: Besondere Einzelarbeitsverträge
 
-### A.**** Der Lehrvertrag
+### A. Der Lehrvertrag
 
 [^part2-tit10-chap2-lvlA-1]
 
@@ -5818,7 +5845,7 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 [^361-1]: Eingefügt durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-2]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-3]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^361-4]: Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^361-4]: Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 [^361-5]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### B. Unabänderlichkeit zuungunsten des Arbeitnehmers
@@ -5853,16 +5880,17 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 <tr><td>Artikel 329*f*:</td><td>(Mutterschaftsurlaub)[^362-4]</td></tr>
 <tr><td>Artikel 329*g*:</td><td>(Vaterschaftsurlaub)[^362-5]</td></tr>
 <tr><td>Artikel 329*h*:</td><td>(Urlaub für die Betreuung von Angehörigen)[^362-6]</td></tr>
+<tr><td>Artikel 329*i*:</td><td>(Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes)[^362-7]</td></tr>
 <tr><td>Artikel 330:</td><td>Absätze 1, 3 und 4 (Kaution)</td></tr>
 <tr><td>Artikel 330*a*:</td><td>(Zeugnis)</td></tr>
 <tr><td>Artikel 331:</td><td>Absätze 3 und 4 (Beitragsleistung und Auskunftspflicht bei Personalfürsorge)</td></tr>
-<tr><td>Artikel 331*a*:</td><td>(Beginn und Ende des Vorsorgeschutzes)[^362-7]</td></tr>
-<tr><td>*...*[^362-8]</td><td></td></tr>
+<tr><td>Artikel 331*a*:</td><td>(Beginn und Ende des Vorsorgeschutzes)[^362-8]</td></tr>
+<tr><td>*...*[^362-9]</td><td></td></tr>
 <tr><td>Artikel 332:</td><td>Absatz 4 (Vergütung bei Erfindungen)</td></tr>
 <tr><td>Artikel 333:</td><td>Absatz 3 (Haftung bei Übergang des Arbeitsverhältnisses)</td></tr>
-<tr><td>Artikel 335*c*:</td><td>Absatz 3 (Kündigungsfristen)[^362-9]</td></tr>
-<tr><td>Artikel 335*i*:</td><td>(Verhandlungspflicht zwecks Abschlusses eines Sozialplans)[^362-10]</td></tr>
-<tr><td>Artikel 335*j*:</td><td>(Aufstellung des Sozialplans durch ein Schiedsgericht)[^362-11]</td></tr>
+<tr><td>Artikel 335*c*:</td><td>Absatz 3 (Kündigungsfristen)[^362-10]</td></tr>
+<tr><td>Artikel 335*i*:</td><td>(Verhandlungspflicht zwecks Abschlusses eines Sozialplans)[^362-11]</td></tr>
+<tr><td>Artikel 335*j*:</td><td>(Aufstellung des Sozialplans durch ein Schiedsgericht)[^362-12]</td></tr>
 <tr><td>Artikel 336:</td><td>Absatz 2 (Missbräuchliche Kündigung durch den Arbeitgeber)</td></tr>
 <tr><td>Artikel 336*c*:</td><td>(Kündigung zur Unzeit durch den Arbeitgeber)</td></tr>
 <tr><td>Artikel 337*a*:</td><td>(Fristlose Auflösung wegen Lohngefährdung)</td></tr>
@@ -5875,7 +5903,7 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 <tr><td>Artikel 340*a*:</td><td>Absatz 1 (Beschränkung des Konkurrenzverbotes)</td></tr>
 <tr><td>Artikel 340*c*:</td><td>(Wegfall des Konkurrenzverbotes)</td></tr>
 <tr><td>Artikel 341:</td><td>Absatz 1 (Unverzichtbarkeit)</td></tr>
-<tr><td>Artikel 345*a*:</td><td>(Pflichten des Lehrmeisters[^362-12])</td></tr>
+<tr><td>Artikel 345*a*:</td><td>(Pflichten des Lehrmeisters[^362-13])</td></tr>
 <tr><td>Artikel 346*a*:</td><td>(Lehrzeugnis)</td></tr>
 <tr><td>Artikel 349*a*:</td><td>Absatz 1 (Lohn des Handelsreisenden)</td></tr>
 <tr><td>Artikel 349*b*:</td><td>Absatz 3 (Ausrichtung der Provision)</td></tr>
@@ -5885,7 +5913,7 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 <tr><td>Artikel 352*a*:</td><td>Absatz 3 (Haftung des Heimarbeitnehmers)</td></tr>
 <tr><td>Artikel 353:</td><td>(Abnahme des Arbeitserzeugnisses)</td></tr>
 <tr><td>Artikel 353*a*:</td><td>(Ausrichtung des Lohnes)</td></tr>
-<tr><td>Artikel 353*b*:</td><td>Absatz 1 (Lohn bei Verhinderung an der Arbeitsleistung).[^362-13]</td></tr>
+<tr><td>Artikel 353*b*:</td><td>Absatz 1 (Lohn bei Verhinderung an der Arbeitsleistung).[^362-14]</td></tr>
 </table>
 
 <sup>2</sup> Abreden sowie Bestimmungen von Normalarbeitsverträgen und Gesamtarbeitsverträgen, die von den vorstehend angeführten Vorschriften zuungunsten des Arbeitnehmers abweichen, sind nichtig.
@@ -5896,13 +5924,14 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 [^362-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^362-5]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-6]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-7]: Fassung gemäss Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-8]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-9]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-10]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-7]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^362-8]: Fassung gemäss Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-9]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-10]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-11]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-12]: Heute: des Arbeitgebers.
-[^362-13]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-12]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-13]: Heute: des Arbeitgebers.
+[^362-14]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Elfter Titel: Der Werkvertrag
 
@@ -6262,7 +6291,7 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 <sup>3</sup> Er hat das Geschäft persönlich zu besorgen, ausgenommen, wenn er zur Übertragung an einen Dritten ermächtigt oder durch die Umstände genötigt ist, oder wenn eine Vertretung übungsgemäss als zulässig betrachtet wird.
 
-[^398-1]: Fassung gemäss Ziff. II Art. 1 Ziff. 7 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). Siehe auch die Schl- und UeB des X. Tit.
+[^398-1]: Fassung gemäss Ziff. II Art. 1 Ziff. 7 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); BBl **19****67** II 241). Siehe auch die Schl- und UeB des X. Tit.
 
 ### b. Bei Übertragung der Besorgung auf einen Dritten
 
@@ -6336,7 +6365,7 @@ Wird der Auftraggeber voraussichtlich dauernd urteilsunfähig, so muss der Beauf
 
 Aus den Geschäften, die der Beauftragte führt, bevor er von dem Erlöschen des Auftrages Kenntnis erhalten hat, wird der Auftraggeber oder dessen Erbe verpflichtet, wie wenn der Auftrag noch bestanden hätte.
 
-### Erster Abschnitt<sup>bis</sup>:**** Auftrag zur Ehe- oder zur Partnerschaftsvermittlung
+### Erster Abschnitt<sup>bis</sup>: Auftrag zur Ehe- oder zur Partnerschaftsvermittlung
 
 [^part2-tit13-chap1bis-1]
 
@@ -6529,7 +6558,7 @@ Ist für den Nachweis der Gelegenheit zum Abschluss oder für die Vermittlung ei
 
 Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Börsenmäkler, Sensale und Stellenvermittler besondere Vorschriften aufzustellen.
 
-### Vierter Abschnitt:**** Der Agenturvertrag
+### Vierter Abschnitt: Der Agenturvertrag
 
 [^part2-tit13-chap4-1]
 
@@ -6545,7 +6574,7 @@ Es bleibt den Kantonen vorbehalten, über die Verrichtungen der Börsenmäkler, 
 
 <sup>2</sup> Auf Agenten, die als solche bloss im Nebenberuf tätig sind, finden die Vorschriften dieses Abschnittes insoweit Anwendung, als die Parteien nicht schriftlich etwas anderes vereinbart haben. Die Vorschriften über das Delcredere, das Konkurrenzverbot und die Auflösung des Vertrages aus wichtigen Gründen dürfen nicht zum Nachteil des Agenten wegbedungen werden.
 
-[^418a-1]: Fassung gemäss Ziff. II Art. 1 Ziff. 8 bzw. 9 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). Siehe auch die Schl- und UeB des X. Tit.
+[^418a-1]: Fassung gemäss Ziff. II Art. 1 Ziff. 8 bzw. 9 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 (AS **1****971** 1465; [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). Siehe auch die Schl- und UeB des X. Tit.
 
 ### II. Anwendbares Recht
 
@@ -7406,7 +7435,7 @@ Haben mehrere eine Sache, deren Rechtsverhältnisse streitig oder unklar sind, z
 
 <sup>2</sup> Die Bestimmungen über das Retentionsrecht des Vermieters finden entsprechende Anwendung.
 
-### Zwanzigster Titel:**** Die Bürgschaft
+### Zwanzigster Titel: Die Bürgschaft
 
 [^part2-tit20-1]
 
@@ -7773,7 +7802,7 @@ Der Leibrentenvertrag bedarf zu seiner Gültigkeit der schriftlichen Form.
 
 Die Bestimmungen dieses Gesetzes über den Leibrentenvertrag finden keine Anwendung auf Leibrentenverträge, die unter dem Bundesgesetz vom 2. April 1908[^520-1] über den Versicherungsvertrag stehen, vorbehältlich der Vorschrift betreffend die Entziehbarkeit des Rentenanspruchs.
 
-[^520-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^520-1]: SR **221****.****229.1**
 
 ### B. Verpfründung
 
@@ -8084,7 +8113,7 @@ Die Gesellschaft wird aufgelöst:
 
 An den Verbindlichkeiten gegenüber Dritten wird durch die Auflösung der Gesellschaft nichts geändert.
 
-## Dritte Abteilung:**** Die Handelsgesellschaften und die Genossenschaft
+## Dritte Abteilung: Die Handelsgesellschaften und die Genossenschaft
 
 [^part3-1]
 
@@ -8696,7 +8725,7 @@ Im Konkurse des Kommanditärs haben weder die Gesellschaftsgläubiger noch die G
 
 [^619-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Sechsundzwanzigster Titel:**** Die Aktiengesellschaft
+### Sechsundzwanzigster Titel: Die Aktiengesellschaft
 
 [^part3-tit26-1]
 
@@ -9298,7 +9327,7 @@ Einzureichen sind:
 <sup>3</sup> Vorbehalten bleiben die Vorschriften des Bankengesetzes vom 8. November 1934[^653-2] über das Wandlungskapital.[^653-3]
 
 [^653-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^653-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653-2]: SR **95****2.0**
 [^653-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 
 ### 2. Schranken
@@ -9649,7 +9678,7 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Vertreter im Ver
 
 <sup>3</sup> Vorbehalten bleiben die in den Statuten für einzelne Kategorien von Aktien festgesetzten Vorrechte.
 
-[^660-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^660-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 (AS **1****992** 733; [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### II. Berechnungsart
 
@@ -10086,7 +10115,7 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 <sup>3</sup> Lehnt die Gesellschaft das Gesuch um Zustimmung innert dreier Monate nach Erhalt nicht oder zu Unrecht ab, so gilt die Zustimmung als erteilt.
 
-[^685c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^685c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1****983** II 745).
 
 ### 3. Börsenkotierte Namenaktien
 
@@ -10139,7 +10168,7 @@ Werden börsenkotierte Namenaktien börsenmässig verkauft, so meldet die Veräu
 
 Lehnt die Gesellschaft das Gesuch des Erwerbers um Anerkennung innert 20 Tagen nicht ab, so ist dieser als Aktionär anerkannt.
 
-[^685g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^685g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 (AS **1****992** 733; [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### 4. Aktienbuch
 
@@ -10263,7 +10292,7 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 
 <sup>3</sup> Als Depotvertreter gelten die dem Bankengesetz vom 8. November 1934[^689d-2] unterstellten Institute und die Finanzinstitute nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^689d-3].[^689d-4]
 
-[^689d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^689d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 (AS **1****992** 733; [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^689d-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^689d-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^689d-4]: Fassung gemäss Anhang Ziff. II 1 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -10924,7 +10953,7 @@ Jedes Mitglied des Verwaltungsrates kann unter Angabe der Gründe vom Präsident
 
 <sup>2</sup> Der Verwaltungsrat führt die Geschäfte der Gesellschaft, soweit er die Geschäftsführung nicht übertragen hat.
 
-[^716-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^716-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 (AS **199****2** 733; [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### 2. Unübertragbare Aufgaben
 
@@ -11004,7 +11033,7 @@ Der Verwaltungsrat hat folgende unübertragbare und unentziehbare Aufgaben:
 
 <sup>2</sup> Eine Beschränkung dieser Vertretungsbefugnis hat gegenüber gutgläubigen Dritten keine Wirkung; ausgenommen sind die im Handelsregister eingetragenen Bestimmungen über die ausschliessliche Vertretung der Hauptniederlassung oder einer Zweigniederlassung oder über die gemeinsame Vertretung der Gesellschaft.
 
-[^718a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733), [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^718a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733), BBl **1****983** II 745).
 
 ### 3. Verträge zwischen der Gesellschaft und ihrem Vertreter
 
@@ -11086,7 +11115,7 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [^725-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^725-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^725-3]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^725-3]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), **20****04** 3969).
 
 ### 2. Eröffnung oder Aufschub des Konkurses
 
@@ -11116,7 +11145,7 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 <sup>3</sup> Entschädigungsansprüche der Abberufenen oder in ihren Funktionen Eingestellten bleiben vorbehalten.
 
-### C.**** Revisionsstelle
+### C. Revisionsstelle
 
 [^part3-tit26-chap3-lvlC-1]
 
@@ -11450,7 +11479,7 @@ Das Gericht kann insbesondere:
 
 [^part3-tit26-chap4-lvlC-1]
 
-[^part3-tit26-chap4-lvlC-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap4-lvlC-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), **200****4** 3969).
 
 #### Art. 733
 
@@ -11788,7 +11817,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [^761-1]
 
-[^761-1]: Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^761-1]: Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### Siebenter Abschnitt: Beteiligung von Körperschaften des öffentlichen Rechts
 
@@ -11893,7 +11922,7 @@ Beschlüsse der Generalversammlung über Umwandlung des Gesellschaftszweckes, Er
 
 <sup>2</sup> Macht einer von mehreren unbeschränkt haftenden Gesellschaftern von seinem Kündigungsrechte Gebrauch, so wird die Gesellschaft, sofern die Statuten es nicht anders bestimmen, von den übrigen fortgesetzt.
 
-### Achtundzwanzigster Titel:**** Die Gesellschaft mit beschränkter Haftung
+### Achtundzwanzigster Titel: Die Gesellschaft mit beschränkter Haftung
 
 [^part3-tit28-1]
 
@@ -13890,13 +13919,13 @@ Der Eintritt in einen Genossenschaftsverband darf für die Mitglieder der eintre
 [^926-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^926-2]: Fassung erster Satz gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-## Vierte Abteilung:**** Handelsregister, Geschäftsfirmen und kaufmännische Buchführung
+## Vierte Abteilung: Handelsregister, Geschäftsfirmen und kaufmännische Buchführung
 
 [^part4-1]
 
 [^part4-1]: Fassung gemäss BG vom 18. Dez. 1936, in Kraft seit 1. Juli 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). Siehe die Schl- und UeB zu den Tit. XXIV–XXXIII am Schluss des OR.
 
-### Dreissigster Titel:**** Das Handelsregister
+### Dreissigster Titel: Das Handelsregister
 
 [^part4-tit30-1]
 
@@ -14029,7 +14058,7 @@ Die im Handelsregister eingetragenen Rechtseinheiten erhalten eine Unternehmens-
 
 <sup>3</sup> Machen weitere Betroffene ein Interesse an der Aufrechterhaltung des Eintrags geltend, so überweist das Handelsregisteramt die Angelegenheit dem Gericht zum Entscheid.
 
-### 2. Bei fehlendem Rechtsdomizil von Einzel-unternehmen und Zweigniederlassungen
+### 2. Bei fehlendem Rechtsdomizil von Einzelunternehmen und Zweigniederlassungen
 
 #### Art. 934a
 
@@ -14312,7 +14341,7 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 <sup>2</sup> Wer durch den unbefugten Gebrauch einer Firma beeinträchtigt wird, kann auf Unterlassung der weitern Führung der Firma und bei Verschulden auf Schadenersatz klagen.
 
-### Zweiunddreissigster Titel:**** Kaufmännische Buchführung und Rechnungslegung
+### Zweiunddreissigster Titel: Kaufmännische Buchführung und Rechnungslegung
 
 [^part4-tit32-1]
 
@@ -14865,7 +14894,7 @@ Eine Konzernrechnung ist dennoch nach einem anerkannten Standard zur Rechnungsle
 
 [^964-1]: Aufgehoben durch Ziff. I des BG vom 22. Dez. 1999, mit Wirkung seit 1. Juni 2002 ([AS 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [BBl 1999 5149](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
-### Sechster Abschnitt:**** Transparenz bei Rohstoffunternehmen
+### Sechster Abschnitt: Transparenz bei Rohstoffunternehmen
 
 [^part4-tit32-chap6-1]
 
@@ -14937,7 +14966,7 @@ Für die Führung und die Aufbewahrung des Berichts über Zahlungen an staatlich
 
 Der Bundesrat kann im Rahmen eines international abgestimmten Vorgehens festlegen, dass die Verpflichtungen nach den Artikeln 964*a*–964*e* auch auf Unternehmen Anwendung finden, die mit Rohstoffen handeln.
 
-## Fünfte Abteilung:**** Die Wertpapiere
+## Fünfte Abteilung: Die Wertpapiere
 
 [^part5-1]
 
@@ -15268,7 +15297,7 @@ Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der U
 
 [^part5-tit33-chap3-lvlC-lvlI-lvl1-1]
 
-[^part5-tit33-chap3-lvlC-lvlI-lvl1-1]: Fassung gemäss Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^part5-tit33-chap3-lvlC-lvlI-lvl1-1]: Fassung gemäss Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 #### Art. 981
 
@@ -15280,7 +15309,7 @@ Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der U
 
 <sup>4</sup> Ist dem Inhaber eines mit Couponsbogen oder Bezugsschein versehenen Papiers bloss der Couponsbogen oder Bezugsschein abhanden gekommen, so genügt zur Begründung des Begehrens die Vorzeigung des Haupttitels.
 
-[^981-1]: Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^981-1]: Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### 2. Zahlungsverbot
 
@@ -16192,7 +16221,7 @@ Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungs
 
 <sup>2</sup> Der Richter ermächtigt mit dem Zahlungsverbot den Bezogenen, am Verfalltage den Wechselbetrag zu hinterlegen, und bestimmt den Ort der Hinterlegung.
 
-[^1072-1]: Fassung gemäss Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
+[^1072-1]: Fassung gemäss Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
 ### 2. Bekannter Inhaber
 
@@ -16946,7 +16975,7 @@ Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^
 
 <sup>3</sup> Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^1151-1] betreffend die Wechselbetreibung finden auf das Zahlungsversprechen an Ordre keine Anwendung.
 
-[^1151-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1151-1]: SR **28****1.1**
 
 ### C. Andere indossierbare Papiere
 
@@ -17019,7 +17048,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wertpapier ausges
 
 [^1156-1]: Aufgehoben durch Anhang Ziff. 1 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Zweiter Abschnitt:**** Gläubigergemeinschaft bei Anleihensobligationen
+### Zweiter Abschnitt: Gläubigergemeinschaft bei Anleihensobligationen
 
 [^part5-tit34-chap2-1]
 
@@ -17325,7 +17354,7 @@ Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche
 
 <sup>2</sup> Auf die pfandversicherten Anleihensgläubiger kommen, soweit eine über die Wirkungen des Nachlassverfahrens hinausgehende Einschränkung ihrer Gläubigerrechte stattfinden soll, die Bestimmungen über die Gläubigergemeinschaft zur Anwendung.
 
-[^1184-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^1184-1]: SR **281****.****1**
 
 ### III. Anleihen von Eisenbahn- oder Schiffahrtsunternehmungen
 
@@ -17361,7 +17390,7 @@ Der Bundesrat ist beauftragt, auf Grundlage der Bestimmungen des Bundesgesetzes 
 [^u1-2]: Die Änderungen können unter [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)konsultiert werden.
 [^u1-3]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 Abs. 3, [1978 712](https://fedlex.data.admin.ch/eli/oc/1978/712_712_712)Art. 89 Bst. b]
 
-## Schlussbestimmungen der Änderung vom 23. März 1962****
+## Schlussbestimmungen der Änderung vom 23. März 1962
 
 [^u2-1]
 
@@ -17399,7 +17428,7 @@ Der Bundesrat ist beauftragt, auf Grundlage der Bestimmungen des Bundesgesetzes 
 
 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-## Übergangsbestimmungen der Änderung vom 16. Dezember 2005****
+## Übergangsbestimmungen der Änderung vom 16. Dezember 2005
 
 [^u3-1]
 
@@ -17493,7 +17522,7 @@ Die Ausschliesslichkeit von Firmen, die vor dem Inkrafttreten dieses Gesetzes im
 
 [^u3-11-1]: [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)
 
-## Übergangsbestimmung zur Änderung vom 17. Juni 2011****
+## Übergangsbestimmung zur Änderung vom 17. Juni 2011
 
 [^u4-1]
 
@@ -17501,7 +17530,7 @@ Die Ausschliesslichkeit von Firmen, die vor dem Inkrafttreten dieses Gesetzes im
 
 Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem Inkrafttreten dieser Änderung oder danach beginnt.
 
-## Übergangsbestimmungen der Änderung vom 23. Dezember 2011****
+## Übergangsbestimmungen der Änderung vom 23. Dezember 2011
 
 [^u5-1]
 
@@ -17529,7 +17558,7 @@ Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem I
 
 <sup>4</sup> Bei erstmaliger Anwendung der Vorschriften zur Rechnungslegung kann auf die Nennung der Zahlen der Vorjahre verzichtet werden. Bei der zweiten Anwendung müssen nur die Zahlen des Vorjahres angegeben werden. Werden Zahlen der vorgängigen Geschäftsjahre genannt, so kann auf die Stetigkeit der Darstellung und die Gliederung verzichtet werden. Im Anhang ist auf diesen Umstand hinzuweisen.
 
-## Übergangsbestimmungen der Änderung vom 12. Dezember 2014****
+## Übergangsbestimmungen der Änderung vom 12. Dezember 2014
 
 [^u6-1]
 
@@ -17561,11 +17590,11 @@ Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem I
 
 <sup>2</sup> Die Frist für die Verwirkung der Vermögensrechte (Art. 697*m* Abs. 3) läuft in diesem Fall sechs Monate nach Inkrafttreten der Änderung vom 12. Dezember 2014 ab.
 
-## Übergangsbestimmungen der Änderung vom 25. September 2015****
+## Übergangsbestimmungen der Änderung vom 25. September 2015
 
 [^u7-1]
 
-[^u7-1]: [AS 2016 1507](https://fedlex.data.admin.ch/eli/oc/2016/289); [BBl 2014 9305](https://fedlex.data.admin.ch/eli/fga/2014/2039)
+[^u7-1]: AS **2****016** 1507; [BBl 2014 9305](https://fedlex.data.admin.ch/eli/fga/2014/2039)
 
 ### A. Allgemeine Regel
 
@@ -17589,7 +17618,7 @@ Kollektiv-, Kommandit- und Kommanditaktiengesellschaften, die im Zeitpunkt des I
 
 Wurde die Firma einer Kollektiv-, Kommandit- oder Kommanditaktiengesellschaft vor dem Inkrafttreten der Änderung vom 25. September 2015 ins Handelsregister eingetragen, so beurteilt sich ihre Ausschliesslichkeit nach Artikel 946 des geltenden und nach Artikel 951 des bisherigen Rechts.
 
-## Übergangsbestimmungen zur Änderung vom 17. März 2017****
+## Übergangsbestimmungen zur Änderung vom 17. März 2017
 
 [^u8-1]
 
@@ -17611,7 +17640,7 @@ Wurde die Firma einer Kollektiv-, Kommandit- oder Kommanditaktiengesellschaft vo
 
 Institute des öffentlichen Rechts, die vor Inkrafttreten des neuen Rechts errichtet wurden und die eine überwiegend privatwirtschaftliche Erwerbstätigkeit ausüben, müssen sich innert zwei Jahren ins Handelsregister eintragen lassen.
 
-## Übergangsbestimmungen zur Änderung vom 21. Juni 2019****
+## Übergangsbestimmungen zur Änderung vom 21. Juni 2019
 
 [^u9-1]
 
@@ -17694,7 +17723,7 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungspapiere an e
 
 <sup>2</sup> Aktionäre, deren Aktien ohne eigenes Verschulden nichtig geworden sind, können unter Nachweis ihrer Aktionärseigenschaft zum Zeitpunkt des Nichtigwerdens der Aktien innerhalb von zehn Jahren nach diesem Zeitpunkt gegenüber der Gesellschaft einen Anspruch auf Entschädigung geltend machen. Die Entschädigung entspricht dem wirklichen Wert der Aktien zum Zeitpunkt ihrer Umwandlung nach Artikel 4. Ist der wirkliche Wert der Aktien zum Zeitpunkt der Geltendmachung des Anspruchs tiefer als zum Zeitpunkt ihrer Umwandlung, so schuldet die Gesellschaft diesen tieferen Wert. Eine Entschädigung ist ausgeschlossen, wenn die Gesellschaft nicht über das erforderliche frei verwendbare Eigenkapital verfügt.
 
-## Übergangsbestimmungen zur Änderung vom 19. Juni 2020****
+## Übergangsbestimmungen zur Änderung vom 19. Juni 2020
 
 [^u10-1]
 
@@ -17730,7 +17759,7 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungspapiere an e
 
 Die Artikel 964*a*–964*e* finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach Inkrafttreten des neuen Rechts beginnt.
 
-## Schlussbestimmungen zum VIII. Titel und zum VIII<sup>bis</sup>. Titel****
+## Schlussbestimmungen zum VIII. Titel und zum VIII<sup>bis</sup>. Titel
 
 [^u11-1]
 
@@ -17760,7 +17789,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u11-1-1] über Massnahmen gegen Missbräu
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-## Schluss- und Übergangsbestimmungen zum X. Titel****
+## Schluss- und Übergangsbestimmungen zum X. Titel
 
 [^u12-1]
 
@@ -17770,7 +17799,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u11-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 1
 
-...*[^u12-1-1]*
+...[^u12-1-1]
 
 [^u12-1-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17778,7 +17807,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u11-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 2
 
-...*[^u12-2-1]*
+...[^u12-2-1]
 
 [^u12-2-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17786,7 +17815,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u11-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 3
 
-...*[^u12-3-1]*
+...[^u12-3-1]
 
 [^u12-3-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17794,7 +17823,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u11-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 4
 
-...*[^u12-4-1]*
+...[^u12-4-1]
 
 [^u12-4-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17802,7 +17831,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u11-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 5
 
-...*[^u12-5-1]*
+...[^u12-5-1]
 
 [^u12-5-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17855,7 +17884,7 @@ Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 
 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-## Schlussbestimmungen zum vierten Abschnitt des XIII. Titels****
+## Schlussbestimmungen zum vierten Abschnitt des XIII. Titels
 
 [^u13-1]
 
@@ -17885,7 +17914,7 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-## Übergangsbestimmungen zum XX. Titel****
+## Übergangsbestimmungen zum XX. Titel
 
 [^u14-1]
 
@@ -17909,7 +17938,7 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 [^u14-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^u14-3]: Fassung gemäss Anhang Ziff. 2 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
-## Schluss- und Übergangsbestimmungen zu den Titeln XXIV–XXXIII****
+## Schluss- und Übergangsbestimmungen zu den Titeln XXIV–XXXIII
 
 [^u15-1]
 
@@ -18086,7 +18115,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind die damit im Widerspruch stehenden zi
 
 [^u15-19-1]: Dieser Abschnitt ist in der Fassung des BG vom 1. April 1949 in Kraft gesetzt worden. Für den Text in der ursprünglichen Fassung siehe [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
-## Schlussbestimmungen zum XXVI. Titel****
+## Schlussbestimmungen zum XXVI. Titel
 
 [^u16-1]
 
@@ -18164,7 +18193,7 @@ Dieses Gesetz untersteht dem fakultativen Referendum.
 
 Der Bundesrat bestimmt das Inkrafttreten.
 
-## Schlussbestimmungen zum zweiten Abschnitt des XXXIV. Titels****
+## Schlussbestimmungen zum zweiten Abschnitt des XXXIV. Titels
 
 [^u17-1]
 
