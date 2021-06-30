@@ -4,20 +4,22 @@ number: "211.91"
 title: Verordnung über das Fundwesen und das Verwertungswesen
 short: Vo FuV
 language: de
-version: 2013-10-01
-valid_until: 2021-06-30
-version_adopted: 2013-08-20
+version: 2021-07-01
+valid_until: 2023-09-30
+version_adopted: 2021-06-22
 adopted: 2007-07-17
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/211.91"
-pdf: "https://bl.clex.ch/api/de/versions/1495/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3032/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Fundwesen und das Verwertungswesen
 
-Vom 17.07.2007 (Stand 01.10.2013)
+(Vo FuV)
+
+Vom 17.07.2007 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -137,6 +139,8 @@ beschliesst:
 <sup>5</sup> Für die Verwahrung von Gebrauchs- oder Verbrauchsgegenständen ist Absatz 2 anwendbar.
 
 <sup>6</sup> Auslagen wie externe Verwahrung, Abklärungen, Expertisen oder andere Beanspruchung Externer werden zusätzlich in Rechnung gestellt.
+
+<sup>7</sup> Die Mehrwertsteuer ist in den Gebühren nicht eingerechnet und wird gegebenenfalls zusätzlich erhoben.
 
 #### § 6
 
