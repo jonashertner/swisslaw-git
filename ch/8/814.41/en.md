@@ -4,11 +4,11 @@ title: Noise Abatement Ordinance of 15 December 1986 (NAO)
 short: NAO
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: en
-version: 2019-05-07
+version: 2021-07-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20190507-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20190507/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20210701-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NAO)
 
-of 15 December 1986 (Status as of 7 May 2019)
+of 15 December 1986 (Status as of 1 July 2021)
 
 The Swiss Federal Council,
 
@@ -394,11 +394,11 @@ The Confederation shall grant subsidies for improvements and soundproofing measu
 
 <sup>2</sup> The subsidies granted under paragraph 1 letter a form part of the global payments according to Article 13 MinOA. The payments under paragraph 1 letter b are granted globally for the road sections defined with the cantons in programme agreements.
 
-<sup>3</sup> The subsidies shall be granted until 31 December 2022.[^21-3]
+<sup>3</sup> ...[^21-3]
 
 [^21-1]: Amended by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 [^21-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^21-3]: Inserted by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^21-3]: Inserted by No I of the O of 21 Feb. 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Repealed by No I of the O of 12 May 2021, with effect from 1 July 2021 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 22
 
@@ -1071,9 +1071,8 @@ Lr2 = Leq,r + K2
 
 <sup>4</sup> Vehicle operations and shunting are determined:
 
-from the timetable and operating data for existing railway installations;
-
-from operational forecasts for railway installations which are to be built or modified.
+- [tab] a. from the timetable and operating data for existing railway installations;
+- [tab] b. from operational forecasts for railway installations which are to be built or modified.
 
 ### 33 Level Corrections
 
@@ -1157,13 +1156,13 @@ For the total traffic noise from civil aerodromes used by heavy aircraft, the fo
 <tr><td colspan="4">[tab] <sup>1</sup> The higher value applies for the first night hour (22-23 hours)</td></tr>
 </table>
 
-### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image1.png)</sub>max
+### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image1.png)</sub>max
 
-For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
+For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
 
 <table>
 <tr><td>Sensitivity level (Art. 43)</td><td>Planning value</td><td>Impact threshold</td><td>Alarm value</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1233,11 +1232,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flights taking place after the second night hour (23-24 hours) and before the last night hour (05-06) are assigned to the second night hour (23-24 hours).
 
-### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image5.png)</sub>max for Heliports
+### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image5.png)</sub>max for Heliports
 
-<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
+<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
 
-<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
+<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
 
 Annex 6
 
@@ -1274,7 +1273,7 @@ Annex 6
 
 <sup>1</sup> The rating sound level Lr for industrial, commercial and similar types of noise is determined from the partial rating sound levels Lr,i for each noise phase as follows, whereby separate calculations are made for daytime (07 to 19 hours) and night-time (19 to 07 hours):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image7.png)
 
 <sup>2</sup> The partial rating sound level Lr,i is determined for the average daily duration of the noise phase i as follows:
 
@@ -1317,21 +1316,17 @@ ti = Ti/B
 
 <sup>2</sup> The level correction K2 takes account of the audibility of the tonality content of the noise at the point of exposure and is equal to:
 
-<table>
-<tr><td>a. for non-audible tonality content</td><td>0</td></tr>
-<tr><td>b. for weakly audible tonality content</td><td>2</td></tr>
-<tr><td>c. for clearly audible tonality content</td><td>4</td></tr>
-<tr><td>d. for strongly audible tonality content</td><td>6.</td></tr>
-</table>
+- a. for non-audible tonality content 0
+- b. for weakly audible tonality content 2
+- c. for clearly audible tonality content 4
+- d. for strongly audible tonality content 6.
 
 <sup>3</sup> The level correction K3 takes account of the audibility of the pulse content of the noise at the point of exposure and is equal to:
 
-<table>
-<tr><td>a. for non-audible pulse content</td><td>0</td></tr>
-<tr><td>b. for weakly audible pulse content</td><td>2</td></tr>
-<tr><td>c. for clearly audible pulse content</td><td>4</td></tr>
-<tr><td>d. for strongly audible pulse content</td><td>6.</td></tr>
-</table>
+- a. for non-audible pulse content 0
+- b. for weakly audible pulse content 2
+- c. for clearly audible pulse content 4
+- d. for strongly audible pulse content 6.
 
 Annex 7*[^t-4]*
 
@@ -1370,7 +1365,9 @@ Annex 7*[^t-4]*
 <tr><td>IV</td><td>65</td><td>70</td><td>80</td></tr>
 </table>
 
-For noise from public installations according to Number 1 paragraph 4, at which, for weapons in categories a or b, the level correction Ki &lt; –15, no alarm values apply. For such installations, no soundproofing measures under Article 15 are required. The level correction Ki is calculated as specified in Number 321.
+For noise from public installations according to Number 1 paragraph 3[^annex7-lvlu1-lvl2-1], at which, for weapons in categories a or b, the level correction Ki &lt; –15, no alarm values apply. For such installations, no soundproofing measures under Article 15 are required. The level correction Ki is calculated as specified in Number 321.
+
+[^annex7-lvlu1-lvl2-1]: The reference was amended on 1 Aug. 2010 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 ### 3 Determination of rating sound level
 
@@ -1378,7 +1375,7 @@ For noise from public installations according to Number 1 paragraph 4, at which,
 
 <sup>1</sup> The rating sound level Lr for the noise from firing range installations is the energetic sum of the partial rating sound level Lri for the weapons categories:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image8.png)
 
 <sup>2</sup> The partial rating sound level Lri is the sum of the average single shot sound level Li of a weapons category and the level correction Ki:
 
@@ -1386,7 +1383,7 @@ Lri = Li + Ki
 
 <sup>3</sup> The average single shot sound level Li is the energetic average weighted according to the number of shots of the energetically averaged single shot sound level Lj of a type of weapon or type of ammunition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/en/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/en/xml/image/image9.png)
 
 <sup>4</sup> The energetically averaged single shot sound level Lj must be determined using the measurements of the A-weighted maximum sound level with the FAST time constants.
 

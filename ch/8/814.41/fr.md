@@ -4,11 +4,11 @@ title: Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)
 short: OPB
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: fr
-version: 2019-05-07
+version: 2021-07-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20190507-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20190507/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20210701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20190507/fr"
 
 (OPB)
 
-du 15 décembre 1986 (Etat le 7 mai 2019)
+du 15 décembre 1986 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -392,11 +392,11 @@ La Confédération alloue des subventions en faveur de l’assainissement et des
 
 <sup>2</sup> Les subventions visées à l’al. 1, let. a, font partie des contributions globales prévues à l’art. 13 LUMin. Les subventions visées à l’al. 1, let. b, sont octroyées globalement pour les tronçons définis dans les conventions-programmes conclues avec les cantons.
 
-<sup>3</sup> Les subventions sont accordées jusqu’au 31 décembre 2022.[^21-3]
+<sup>3</sup> ...[^21-3]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 [^21-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^21-3]: Introduit par le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^21-3]: Introduit par le ch. I de l’O du 21 fév. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogé par le ch.I de l’O du 12 mai 2021, avec effet au 1<sup>er</sup> juillet 2021 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 22
 
@@ -598,7 +598,7 @@ Dans la demande de permis de construire, le maître de l’ouvrage doit indiquer
 
 Après l’achèvement des travaux de construction, l’autorité d’exécution contrôle, par pointages, si les mesures d’isolation acoustique satisfont aux exigences. En cas de doute, elle procède à un examen plus approfondi.
 
-## Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes****
+## Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes
 
 [^chap7-1]
 
@@ -875,7 +875,7 @@ L’Office fédéral de l’environnement prescrit les modèles de géodonnées 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 1987.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 10, al. 1, 15, al. 1)
 
@@ -902,7 +902,7 @@ Annexe 1*[^t-1]*
 
 <sup>6</sup> L’autorité d’exécution peut ordonner le montage d’aérateurs insonorisés dans les chambres à coucher.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 38, al. 3)
 
@@ -954,7 +954,7 @@ Les valeurs limites d’exposition selon le ch. 2 s’appliquent au bruit du tra
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit du trafic routier se calcule à partir des niveaux d’évaluation partiels du bruit des véhicules à moteur (Lr<sub>1</sub>) et du bruit des chemins de fer (Lr<sub>2</sub>):
 
-Lr = 10 ⋅ log (10<sup>0,1</sup> <sup>⋅</sup> <sup>Lr</sup><sub>1</sub> + 10<sup>0,1</sup> <sup>⋅</sup> <sup>Lr</sup><sub>2</sub>)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image1.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr<sub>1</sub> est la somme du niveau moyen Leq,m, pondéré A, engendré par les véhicules à moteur, et de la correction de niveau K<sub>1</sub>:
 
@@ -1047,7 +1047,7 @@ Annexe 4
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit des chemins de fer se calcule à partir des niveaux d’évaluation partiels du bruit de la circulation des trains (Lr1) et du bruit des manoeuvres (Lr2):
 
-Lr = 10 ⋅ log (10<sup>01,</sup> <sup>⋅</sup> <sup>Lr1</sup> + 10<sup>01,</sup> <sup>⋅</sup> <sup>Lr2</sup>)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image2.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr1 est la somme du niveau moyen Leq,f, pondéré A, engendré par la circulation des trains, et de la correction de niveau K1:
 
@@ -1094,13 +1094,13 @@ N représente le nombre de trains circulant de jour ou de nuit.
 <tr><td>Forte</td><td>4</td><td>6</td><td>8</td></tr>
 </table>
 
-Annexe 5*[^t-3]*
+Annexe 5[^t-3]
 
 (art. 40, al. 1)
 
 ## Valeurs limites d’exposition au bruit des aérodromes civils
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O du 30 mai 2001 ([RO 2001 1610](https://fedlex.data.admin.ch/eli/oc/2001/237)). Mise à jour selon le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du 30 mai 2001 ([RO 2001 1610](https://fedlex.data.admin.ch/eli/oc/2001/237)). Mise à jour selon le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 (RO **201****0** 3223).
 
 ### 1 Champ d’application et définitions
 
@@ -1154,13 +1154,13 @@ Pour le bruit causé par l’ensemble du trafic sur les aérodromes civils où c
 <tr><td colspan="4"><sup>1</sup> Les valeurs plus élevées sont applicables pour la première heure de la nuit (22 à 23 heures).</td></tr>
 </table>
 
-### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image1.png)</sub>max
+### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image3.png)</sub>max
 
-Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image2.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
+Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image4.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
 
 <table>
 <tr><td>Degré de sensibilité (art. 43)</td><td>Valeur de planification</td><td>Valeur limite d’immissions</td><td>Valeur d’alarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image3.png)</sub>max en dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image5.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image5.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image5.png)</sub>max en dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1230,11 +1230,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Les vols qui ont lieu après la deuxième (23 à 24 heures) et avant la dernière heure de la nuit (05 à 06 heures) sont attribués à la deuxième heure de la nuit (23 à 24 heures).
 
-### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image4.png)</sub>max pour les hélistations
+### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image6.png)</sub>max pour les hélistations
 
-<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image2.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
+<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image4.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
 
-<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image5.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
+<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image7.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
 
 Annexe 6
 
@@ -1271,7 +1271,7 @@ Annexe 6
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit de l’industrie, des arts et métiers et autres bruits semblables se calcule séparément pour le jour (7 à 19 h) et pour la nuit (19 à 7 h) à partir des niveaux d’évaluation partiels Lr,i de chaque phase de bruit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image8.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr,i se calcule pour la durée moyenne journalière de la phase de bruit i comme il suit:
 
@@ -1321,7 +1321,7 @@ ti = Ti/B
 - c. pour une audibilité nette des composantes impulsives 4;
 - d. pour une audibilité forte des composantes impulsives 6.
 
-Annexe 7*[^t-4]*
+Annexe 7[^t-4]
 
 (art. 40, al. 1)
 
@@ -1368,7 +1368,7 @@ Aucune valeur d’alarme n’est valable pour le bruit des installations publiqu
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit des installations de tir est la somme énergétique des niveaux d’évaluation partiels Lri des catégories d’armes:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image9.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lri est la somme du niveau de bruit moyen d’un coup de feu Li d’une catégorie d’armes et de la correction de niveau Ki:
 
@@ -1376,7 +1376,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Le niveau de bruit moyen d’un coup de feu Li est la moyenne énergétique, pondérée en fonction du nombre de coups de feu, des niveaux de bruit moyens des coups de feu Lj d’un type d’arme, respectivement d’un type de munition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20190507/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image10.png)
 
 <sup>4</sup> La moyenne énergétique du niveau de bruit d’un coup de feu Lj est déterminée au moyen de mesures du niveau maximal, pondéré A, avec la constante de temps FAST.
 
@@ -1412,7 +1412,7 @@ Signification:
 
 <sup>2</sup> Si les relevés d’exploitation d’installations existantes font défaut ou que des installations sont construites ou modifiées, le nombre de coups de feu M est déterminé à l’aide de prévisions sur l’utilisation future.
 
-Annexe 8*[^t-5]*
+Annexe 8[^t-5]
 
 (art. 40, al. 1)
 
@@ -1500,7 +1500,7 @@ K2 = 0 pour N<sub>p</sub> ˂ 15 000
 
 K2 = 10 log (N<sub>p</sub>/15 000) pour N<sub>p</sub> ≥ 15 000
 
-Annexe 9*[^t-6]*
+Annexe 9[^t-6]
 
 (art. 40, al. 1)
 
@@ -1535,7 +1535,7 @@ Annexe 9*[^t-6]*
 
 Le niveau d’évaluation Lr pour le bruit de tir des places d’armes, de tir et d’exercice militaires se calcule à partir des niveaux de bruit de l’événement acoustique L<sub>AE1</sub> et L<sub>AE2</sub> ainsi que des corrections de niveau K1 et K2, comme suit:
 
-L<sub>r</sub> =10 **<sup>.</sup>**log(10<sup>0.</sup> <sup>1</sup><sup>.</sup><sup>L</sup> <sup>AE1</sup> +10<sup>0.</sup> <sup>1</sup><sup>.</sup><sup>(L</sup> <sup>AE2</sup> <sup>+K1)</sup> ) – 10 **<sup>.</sup>**log(T) + K2
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20210701/fr/xml/image/image11.png)
 
 Définitions:
 
